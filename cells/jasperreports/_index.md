@@ -1,0 +1,141 @@
+---
+title: Export Reports in Excel XLS XLSX PDF ODS in JasperReports and JasperServer 
+weight: 1960
+url: /jasperreports/ 
+---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/upper-banner h1="JasperReports Extension to Export Reports as Excel Formats" h2="Export reports to Microsoft Excel spreadsheet multiple formats." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/header/aspose_cells-for-jasperreports.png" pfName="Aspose.Cells" subTitlepfName="for JasperReports" downloadUrl="https://downloads.aspose.com/cells/jasperreports" >}}
+
+{{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for JasperReports" >}}
+
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-jasperreports.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/jasperreports" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/cells/jasperreports/release-notes/" instalationsDocsLink="" nugetLink="" nugetPackageName="Microsoft Excel:" >}}
+
+{{< blocks/products/pf/tab-content >}}
+{{< /blocks/products/pf/tab-content >}}
+
+<!--Diagrams Start-->
+{{< blocks/products/pf/carousel >}}
+
+{{< blocks/products/pf/carousel-item h3="" description="" >}}
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< /blocks/products/pf/carousel >}}
+<!--Diagrams End-->
+
+<!--Feature-section Start-->
+<div class="container-fluid features-section bg-gray singleproduct">
+ <a class="anchor" id="features" name="features">
+ </a>
+ <div class="row">
+  <div class="container">
+   <h2 class="pr-ft">
+    Advanced JasperReports to Excel Export Features
+   </h2>
+   <p>
+   </p>
+   <div class="col-lg-4">
+    <em class="fa fa-line-chart ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Generate reports as Microsoft Excel Files
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-print ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Print reports as spreadsheets
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-pie-chart ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Export Excel files as editable spreadsheets
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Export Reports to Microsoft Excel Formats
+    </h2>
+    <p>
+     Aspose.Cells for JasperReports provides the functionality of exporting reports directly to Microsoft Excel formats like XLS &amp; XLSX. Additionally, you may also export the reports in SpreadsheetML, ODS, CSV &amp; Tab-delimited formats to suit your business requirements.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     High Fidelity to Report Design
+    </h2>
+    <p>
+     Aspose.Cells for JasperReports export reports to supported formats with the highest precision, that is; seems identical reports exported by the native exporting functions of JasperReports.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Editable Excel Spreadsheets
+    </h2>
+    <p>
+     Aspose.Cells for JasperReports export Excel documents as fully editable spreadsheets. It supports Microsoft Excel charts, and any chart exported via Aspose rendering engine will be available as an editable chart rather than a static picture thus allowing the end-users to alter charts manually in Microsoft Excel.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Microsoft Office Automation – Not Needed
+    </h2>
+    <p>
+     Aspose.Cells for JasperReports exporter developed using managed code that never needs Microsoft Excel or Microsoft Office to be installed on the machine to work with Excel document formats. It is a perfect Microsoft Excel automation alternative in terms of stability, scalability, supported features, security, price, and speed.
+    </p>
+   </div>
+  </div>
+ </div>
+</div>
+<!--Feature-section End-->
+
+{{< /blocks/products/pf/main-container >}}
+
+{{< blocks/products/pf/testimonials title="" subTitle="" >}}
+
+{{< blocks/products/pf/testimonials-quote >}}
+{{< /blocks/products/pf/testimonials-quote >}}
+
+{{< /blocks/products/pf/testimonials >}}
+
+{{< blocks/products/pf/support-learning-resources >}}
+{{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
+{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/cells/jasperreports/" >}}
+{{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-cells?tab=repositories" >}}
+{{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
+{{< /blocks/products/pf/slr-tab >}}
+
+{{< blocks/products/pf/slr-tab tabTitle="Product Support" tabId="support" >}}
+{{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.com/c/cells" >}}
+{{< blocks/products/pf/slr-element name="Paid Support" href="https://helpdesk.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/cells/" >}}
+{{< /blocks/products/pf/slr-tab >}}
+
+{{< blocks/products/pf/slr-tab tabTitle="Why Aspose.Cells for JasperReports?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-element name="Customers List" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="Success Stories" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
+{{< /blocks/products/pf/slr-tab >}}
+
+{{< /blocks/products/pf/support-learning-resources >}}
+
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/jasperreports" pricingInformationLink="https://purchase.aspose.com/pricing/cells/jasperreports" >}}
+
+{{< blocks/products/pf/offers-section pfName="Aspose.Cells offers individual Excel APIs for other popular development environments as listed below:" >}}
+
+    {{< blocks/products/pf/offers-section-item link="/cells/net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-net.png" sdkName="Aspose.Cells for .NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-java.png" sdkName="Aspose.Cells for Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/cpp" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-cpp.png" sdkName="Aspose.Cells for C++" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/android-java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-android.png" sdkName="Aspose.Cells for Android via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/sharepoint" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-sharepoint.png" sdkName="Aspose.Cells for SharePoint" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/reporting-services" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-reporting-services.png" sdkName="Aspose.Cells for Reporting Services" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/nodejs-java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-nodejs.png" sdkName="Aspose.Cells for Node.js via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/php-java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose.cells-for-php-via-java.png" sdkName="Aspose.Cells for PHP via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/python-java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-python-via-java.png" sdkName="Aspose.Cells for Python via Java" >}}
+
+{{< /blocks/products/pf/offers-section >}}
+
+{{< /blocks/products/pf/main-wrap-class >}}

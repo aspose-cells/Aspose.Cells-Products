@@ -1,0 +1,255 @@
+---
+title: Excel Spreadsheet PHP API - Aspose 
+weight: 10010
+url: /php-java/ 
+---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/upper-banner h1="PHP Excel Spreadsheet API" h2="Perform spreadsheet manipulation tasks as well as export Excel files to multiple formats without any Microsoft Excel dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/header/aspose_cells-for-php-via-java.png" pfName="Aspose.Cells" subTitlepfName="for PHP via Java" downloadUrl="https://downloads.aspose.com/cells/php" >}}
+
+{{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for PHP via Java" >}}
+
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose.cells-for-php-via-java.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/php-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/cells/java/aspose-cells-for-php-via-java/" instalationsDocsLink="" nugetLink="" nugetPackageName="Microsoft Excel:" >}}
+
+{{< blocks/products/pf/tab-content >}}
+{{< /blocks/products/pf/tab-content >}}
+
+<!--Diagrams Start-->
+{{< blocks/products/pf/carousel >}}
+
+{{< blocks/products/pf/carousel-item h3="" description="" >}}
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< /blocks/products/pf/carousel >}}
+<!--Diagrams End-->
+
+<!--Feature-section Start-->
+<div class="container-fluid features-section bg-gray singleproduct">
+ <a class="anchor" id="features" name="features">
+ </a>
+ <div class="row">
+  <div class="container">
+   <h2 class="pr-ft">
+    Advanced PHP Spreadsheet API Features
+   </h2>
+   <!--<p>Aspose.Cells for PHP via Java includes the following features:</p>-->
+   <p>
+   </p>
+   <div class="col-lg-4">
+    <em class="fa fa-support ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Support for CSV, Tab-delimited &amp; HTML formats
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-folder-open-o ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Load &amp; save OpenDocument Spreadsheet (ODS) format
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-image ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Create, manipulate &amp; render charts
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Import formulas from a designer spreadsheet
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Configure page setup
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Create and manipulate comments
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-filter ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Set auto-filters &amp; page breaks
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-subscript ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Set &amp; calculate complex formulas
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-align-center ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Create &amp; manipulate conditional formatting rules
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-shield ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Set security/protection options
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-sort-amount-desc ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Create &amp; manipulate named ranges
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Populate worksheets through Smart Markers
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-table ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Create, manipulate &amp; refresh Pivot Tables
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-html5 ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Export worksheets in SVG format
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-line-chart ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Create &amp; render sparklines
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Convert Excel Files to XPS, PDF &amp; HTML
+    </h2>
+    <p>
+     Aspose.Cells for PHP via Java API is capable of Excel files conversion to XPS, XPS and HTML formats as well as keeping the highest visual fidelity. The conversion process is reliable and developers can get the required format with just a few lines.
+    </p>
+    <div class="codeblock" id="code">
+     <h3>
+      Save spreadsheet in multiple formats - PHP
+     </h3>
+     <pre><code class="php">// load document to be converted
+
+$wkbk = new Workbook("template.xlsx");
+
+
+
+// save in various formats
+
+$wkbk-&gt;save("output.pdf", SaveFormat::PDF);
+
+$wkbk-&gt;save("output.xps", SaveFormat::XPS);
+
+$wkbk-&gt;save("output.html", SaveFormat::HTML);</code></pre>
+    </div>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Render Excel Spreadsheets &amp; Objects to PDF &amp; Images
+    </h2>
+    <p>
+     Aspose.Cells for PHP via Java has its own rendering engine specially designed for rendering with highest of fidelity to the Microsoft Excel. While using Aspose.Cells for PHP via Java, you can convert whole spreadsheets, individual worksheets &amp; charts to a number of image &amp; fixed-layout formats.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Flexible Worksheet Display Options
+    </h2>
+    <p>
+     Aspose.Cells for PHP via Java gives you complete control over the worksheet's page setup thus allowing you to manipulate Excel worksheet's display options such as page breaks, page orientation, scaling, paper size, headers/footers &amp; zoom level. You may also control the data visibility using freeze panes &amp; print area to suit your application requirements.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Efficient, Robust &amp; Reliable Formula Calculation Engine
+    </h2>
+    <p>
+     Aspose.Cells for PHP via Java is equipped with a powerful Formula Calculation Engine that supports almost all of the standard and advanced Microsoft Excel formulas and functions. You can read, set and calculate the results of built-in or add-in type, array, and R1C1 reference style formulas.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Visualize Data with Formatting, Charts &amp; Graphics
+    </h2>
+    <p>
+     The library is so flexible that one can furnish spreadsheets with all kinds of visual effects as well as can apply formatting to a worksheet, row, column or cell, set fonts with attributes, define cell styling &amp; number formats, add Rich Text and define conditional formatting rules.
+    </p>
+    <p>
+     Similarly, for a professional look and easy understanding charts and graphics are the integral parts. Aspose.Cells for PHP via Java APIs can create and manipulate all types of standard and custom charts. Furthermore, different types of drawing objects to the cells can easily be added.
+    </p>
+   </div>
+  </div>
+ </div>
+</div>
+<!--Feature-section End-->
+
+{{< /blocks/products/pf/main-container >}}
+
+{{< blocks/products/pf/testimonials title="" subTitle="" >}}
+
+{{< blocks/products/pf/testimonials-quote >}}
+{{< /blocks/products/pf/testimonials-quote >}}
+
+{{< /blocks/products/pf/testimonials >}}
+
+{{< blocks/products/pf/support-learning-resources >}}
+{{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
+{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/cells/phpjava/" >}}
+{{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-cells/Aspose.Cells-for-Java" >}}
+{{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.com/php/cells" >}}
+{{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
+{{< /blocks/products/pf/slr-tab >}}
+
+{{< blocks/products/pf/slr-tab tabTitle="Product Support" tabId="support" >}}
+{{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.com/c/cells" >}}
+{{< blocks/products/pf/slr-element name="Paid Support" href="https://helpdesk.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/cells/" >}}
+{{< /blocks/products/pf/slr-tab >}}
+
+{{< blocks/products/pf/slr-tab tabTitle="Why Aspose.Cells for PHP via Java?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-element name="Customers List" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="Success Stories" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
+{{< /blocks/products/pf/slr-tab >}}
+
+{{< /blocks/products/pf/support-learning-resources >}}
+
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/php" pricingInformationLink="https://purchase.aspose.com/pricing/cells/php-java" >}}
+
+{{< blocks/products/pf/offers-section pfName="Aspose.Cells offers individual Excel APIs for other popular development environments as listed below:" >}}
+
+    {{< blocks/products/pf/offers-section-item link="/cells/net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-net.png" sdkName="Aspose.Cells for .NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-java.png" sdkName="Aspose.Cells for Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/cpp" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-cpp.png" sdkName="Aspose.Cells for C++" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/android-java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-android.png" sdkName="Aspose.Cells for Android via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/sharepoint" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-sharepoint.png" sdkName="Aspose.Cells for SharePoint" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/reporting-services" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-reporting-services.png" sdkName="Aspose.Cells for Reporting Services" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/jasperreports" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-jasperreports.png" sdkName="Aspose.Cells for JasperReports" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/nodejs-java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-nodejs.png" sdkName="Aspose.Cells for Node.js via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/python-java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-python-via-java.png" sdkName="Aspose.Cells for Python via Java" >}}
+
+{{< /blocks/products/pf/offers-section >}}
+
+{{< /blocks/products/pf/main-wrap-class >}}

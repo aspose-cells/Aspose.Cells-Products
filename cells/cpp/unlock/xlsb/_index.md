@@ -79,6 +79,8 @@ workbook->Save(outDir->StringAppend(new String("sampleExcelFileUnprotected_out.x
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
 
+<!-- aboutfile Starts -->
+
 {{< blocks/products/pf/agp/about-file-section >}}
 
     {{< blocks/products/pf/agp/demobox sectionTitle="Free App to Unlock XLSB" sectionDescription="Check our live demos to [unlock XLSB files](https://products.aspose.app/cells/unlock/xlsb) with following benefits." >}}
@@ -94,6 +96,9 @@ XLSB file format specifies the Excel Binary File Format, which is a collection o
     {{< /blocks/products/pf/agp/about-file-text >}}
 
 {{< /blocks/products/pf/agp/about-file-section >}}
+
+<!-- aboutfile Ends -->
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

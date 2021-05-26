@@ -75,6 +75,8 @@ mhtmlFile1.save("combinedFileWithPath.mhtml");
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
 
+<!-- aboutfile Starts -->
+
 {{< blocks/products/pf/agp/about-file-section >}}
 
     {{< blocks/products/pf/agp/demobox sectionTitle="Online MHTMLВ Merger Live Demos" sectionDescription="MergeВ MHTML documents right now by visiting our [Live Demos website](https://products.aspose.app/cells/merger). The live demo has the following benefits" >}}
@@ -90,6 +92,9 @@ Files with MHTML extension represent a web page archive format that can be creat
     {{< /blocks/products/pf/agp/about-file-text >}}
 
 {{< /blocks/products/pf/agp/about-file-section >}}
+
+<!-- aboutfile Ends -->
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

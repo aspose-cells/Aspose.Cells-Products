@@ -17,7 +17,208 @@ url: /android-java/
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="" description="" >}}
+{{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of API capabilities." >}}
+<div class="diagram1 d1-android">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-refresh">
+    </i>
+    Import &amp; Export
+   </header>
+   <ul>
+    <li>
+     Arrays
+    </li>
+    <li>
+     ResultSet
+    </li>
+    <li>
+     Collections
+    </li>
+   </ul>
+   <header>
+    <i class="fa fa-cog">
+    </i>
+    Rendering
+   </header>
+   <ul>
+    <li>
+     Chart to Image
+    </li>
+    <li>
+     Worksheet to Image
+    </li>
+    <li>
+     Spreadsheet to PDF
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-table">
+    </i>
+    Data Processing
+   </header>
+   <ul>
+    <li>
+     Apply Formatting
+    </li>
+    <li>
+     Apply Formula
+    </li>
+    <li>
+     Create Charts
+    </li>
+    <li>
+     Summarize
+    </li>
+    <li>
+     Smart Markers
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Android Spreadsheet API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-android.png"/>
+  <header>
+   Aspose.Cells
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    Android via Java
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.Cells for Android via Java is available for Android 2.0 or above." >}}
+<div class="diagram1 d1-android">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header style="padding-left: 0px;">
+    <i class="fa fa-cogs">
+    </i>
+    Android Runtime Environment
+   </header>
+   <ul>
+    <li>
+     Mobile Application
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Excel API Android" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-android.png"/>
+  <header>
+   Aspose.Cells
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    Android via Java
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Android spreadsheet API supports the popular Microsoft Excel formats, images and fixed-layout formats." >}}
+<div class="diagram1 d2 d1-android">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-arrows-v">
+    </i>
+    Input/Output
+   </header>
+   <ul>
+    <li>
+     <b>
+      Microsoft Excel:
+     </b>
+     XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+    </li>
+    <li>
+     <b>
+      OpenOffice:
+     </b>
+     ODS
+    </li>
+    <li>
+     <b>
+      Text:
+     </b>
+     CSV, TSV, TXT
+    </li>
+    <li>
+     <b>
+      Web:
+     </b>
+     HTML, MHTML
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-mail-forward">
+    </i>
+    Output Only
+   </header>
+   <ul>
+    <li>
+     <b>
+      Fixed Layout:
+     </b>
+     PDF, PDF/A, XPS
+    </li>
+    <li>
+     <b>
+      Images:
+     </b>
+     JPEG, PNG, BMP, SVG, EMF
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Android Excel Spreadsheet Library" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-android.png"/>
+  <header>
+   Aspose.Cells
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    Android via Java
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
 {{< /blocks/products/pf/carousel-item >}}
 
 {{< /blocks/products/pf/carousel >}}

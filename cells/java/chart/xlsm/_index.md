@@ -126,33 +126,38 @@ Workbook workbook = new Workbook();
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/agp/content h2="About Aspose.Cells for Java API" %}}
-
- Aspose.Cells API can be used to create, edit, convert and render Microsoft Excel formats to different formats. Moreover, it can be used for comprehensive charting, scalable reporting and reliable calculations within software applications. Aspose.Cells is a standalone API and it does not require any software like Microsoft or OpenOffice. Convert Excel Chart to PDF, JPG, PNG, EMF, WMF, BMP, SVG, TIFF, XPS. 
-вЂЋ
-
-
-
-{{% /blocks/products/pf/agp/content %}}
-
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
 
-{{< blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Starts -->
 
-    {{< blocks/products/pf/agp/demobox sectionTitle="Online XLSMВ Chart Creation Live Demos" sectionDescription="GenerateВ XLSM documents charts right now by visiting our [Live Demos website](https://products.aspose.app/cells/chart). The live demo has the following benefits" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download Aspose API." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your XLSM files." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" Chart will be created instantly." >}}
-    {{< /blocks/products/pf/agp/demobox >}}
+    {{% blocks/products/pf/agp/content h2="About Aspose.Cells for Java API" %}}
 
-    {{< blocks/products/pf/agp/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}
+ GenerateВ XLSM documents charts right now by visiting our
+ [Live Demos website](https://products.aspose.app/cells/chart) 
+ . The live demo has the following benefits
+
+
+
+    {{% /blocks/products/pf/agp/content %}}
+
+    {{< blocks/products/pf/agp/about-file-section >}}
+
+        {{< blocks/products/pf/agp/demobox sectionTitle="Online XLSMВ Chart Creation Live Demos" sectionDescription="GenerateВ XLSM documents charts right now by visiting our [Live Demos website](https://products.aspose.app/cells/chart). The live demo has the following benefits" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download Aspose API." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your XLSM files." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Chart will be created instantly." >}}
+
+        {{< blocks/products/pf/agp/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}
 Files with XLSM extension is a type of Spreasheet files that support Macros. From application point of view, a Macro is set of instructions that are used for automating processes. A macro is used to record the steps that are performed repeatedly and facilitates performing the actions by running the macro again. Macros are programmed with Microsoft's Visual Basic for Applications (VBA) from within the Excel Workbook using the Visual Basic Editor and can be run/debug directly from there. Read More
 
-    {{< /blocks/products/pf/agp/about-file-text >}}
+        {{< /blocks/products/pf/agp/about-file-text >}}
 
-{{< /blocks/products/pf/agp/about-file-section >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+
+<!-- aboutfile Ends -->
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

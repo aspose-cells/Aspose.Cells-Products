@@ -78,6 +78,8 @@ book.Save("protected.xls");
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
 
+<!-- aboutfile Starts -->
+
 {{< blocks/products/pf/agp/about-file-section >}}
 
     {{< blocks/products/pf/agp/demobox sectionTitle="Free App to Protect XLS" sectionDescription="Check our live demos to [encrypt XLS files](https://products.aspose.app/cells/protect/xls) with following benefits." >}}
@@ -93,6 +95,9 @@ Files with XLS extension represent Excel Binary File Format. Such files can be c
     {{< /blocks/products/pf/agp/about-file-text >}}
 
 {{< /blocks/products/pf/agp/about-file-section >}}
+
+<!-- aboutfile Ends -->
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

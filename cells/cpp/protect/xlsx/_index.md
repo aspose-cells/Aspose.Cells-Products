@@ -86,6 +86,11 @@ workbook->Save(outDir->StringAppend(new String("output.xlsx")));
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
+    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+ 
+
+<!-- aboutfile Starts -->
+
 {{% blocks/products/pf/agp/content h2="About Aspose.Cells for C++ API" %}}
 
  Aspose.Cells API can be used to create, edit, convert and render Microsoft Excel formats to different formats. Moreover, it can be used for comprehensive charting, scalable reporting and reliable calculations within software applications. Aspose.Cells is a standalone API and it does not require any software like Microsoft or OpenOffice. вЂЋ
@@ -93,9 +98,6 @@ workbook->Save(outDir->StringAppend(new String("output.xlsx")));
 
 
 {{% /blocks/products/pf/agp/content %}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
- 
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
@@ -112,6 +114,9 @@ XLSX is well-known format for Microsoft Excel documents that was introduced by M
     {{< /blocks/products/pf/agp/about-file-text >}}
 
 {{< /blocks/products/pf/agp/about-file-section >}}
+
+<!-- aboutfile Ends -->
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

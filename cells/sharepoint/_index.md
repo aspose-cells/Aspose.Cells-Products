@@ -17,7 +17,224 @@ url: /sharepoint/
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="" description="" >}}
+{{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of Aspose.Cells for SharePoint." >}}
+<div class="diagram1 d1-sharepoint">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-cogs">
+    </i>
+    Easy Installation
+   </header>
+   <ul>
+    <li>
+     SharePoint WSP File
+    </li>
+    <li>
+     Activate Across Farm
+    </li>
+    <li>
+     De-activate Across Farm
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-file-o">
+    </i>
+    Conversion Options
+   </header>
+   <ul>
+    <li>
+     Save in Sub-folders
+    </li>
+    <li>
+     File Concatenation
+    </li>
+    <li>
+     Overwrite Existing Files
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="SharePoint Spreadsheet Exporter" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-sharepoint.png"/>
+  <header>
+   Aspose.Cells
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    SharePoint
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.Cells for SharePoint supports Windows SharePoint Services, SharePoint Foundation and Microsoft SharePoint Server." >}}
+<div class="diagram1 d1-sharepoint">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header style="padding-left: 0px;">
+    <i class="fa fa-cubes">
+    </i>
+    SharePoint Server
+   </header>
+   <ul>
+    <li>
+     2007
+    </li>
+    <li>
+     2010
+    </li>
+    <li>
+     2013
+    </li>
+    <li>
+     2016
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header style="padding-left: 0px;">
+    <i class="fa fa-cubes">
+    </i>
+    Windows SharePoint Services
+   </header>
+   <ul>
+    <li>
+     WSS 3.0
+    </li>
+   </ul>
+   <header style="padding-left: 0px;">
+    <i class="fa fa-cubes">
+    </i>
+    SharePoint Foundation
+   </header>
+   <ul>
+    <li>
+     2010
+    </li>
+    <li>
+     2013
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="SharePoint Excel App" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-sharepoint.png"/>
+  <header>
+   Aspose.Cells
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    SharePoint
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Cells for SharePoint support many popular spreadsheet formats, PDF, HTML and other [file formats](https://docs.aspose.com/cells/sharepoint/supported-file-formats/)  ." >}}
+<div class="diagram1 d2 d1-sharepoint">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-arrows-v">
+    </i>
+    Input/Output
+   </header>
+   <ul>
+    <li>
+     <b>
+      Microsoft Excel:
+     </b>
+     XLS, XLSX, XLSB, XLTX, XLTM, XLSM
+    </li>
+    <li>
+     <b>
+      SpreadsheetML:
+     </b>
+     XML
+    </li>
+    <li>
+     <b>
+      OpenOffice:
+     </b>
+     ODS
+    </li>
+    <li>
+     <b>
+      Text:
+     </b>
+     CSV, TSV, Tab-Delimited, TXT
+    </li>
+    <li>
+     <b>
+      Web:
+     </b>
+     HTML, MHTML
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-mail-forward">
+    </i>
+    Output Only
+   </header>
+   <ul>
+    <li>
+     <b>
+      Fixed Layout:
+     </b>
+     PDF, XPS
+    </li>
+    <li>
+     <b>
+      Images:
+     </b>
+     JPEG, GIF, PNG, BMP, SVG, TIFF, EMF
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="SharePoint Excel Converter" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-sharepoint.png"/>
+  <header>
+   Aspose.Cells
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    SharePoint
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
 {{< /blocks/products/pf/carousel-item >}}
 
 {{< /blocks/products/pf/carousel >}}

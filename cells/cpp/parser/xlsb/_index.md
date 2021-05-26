@@ -44,8 +44,6 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.+
-
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="System Requirements" %}}
@@ -71,6 +69,11 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
+    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+ 
+
+<!-- aboutfile Starts -->
+
 {{% blocks/products/pf/agp/content h2="About Aspose.Cells for C++ API" %}}
 
  Aspose.Cells API can be used to create, edit, convert and render Microsoft Excel formats to different formats. Moreover, it can be used for comprehensive charting, scalable reporting and reliable calculations within software applications. Aspose.Cells is a standalone API and it does not require any software like Microsoft or OpenOffice. вЂЋ
@@ -78,9 +81,6 @@ PM> Install-Package Aspose.Cells.Cpp
 
 
 {{% /blocks/products/pf/agp/content %}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
- 
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
@@ -97,6 +97,9 @@ XLSB file format specifies the Excel Binary File Format, which is a collection o
     {{< /blocks/products/pf/agp/about-file-text >}}
 
 {{< /blocks/products/pf/agp/about-file-section >}}
+
+<!-- aboutfile Ends -->
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

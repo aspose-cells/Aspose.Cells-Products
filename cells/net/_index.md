@@ -19,9 +19,6 @@ url: /net/
 {{< blocks/products/pf/carousel >}}
 
 {{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of API capabilities." >}}
-{{< /blocks/products/pf/carousel-item >}}
-
-{{< blocks/products/pf/carousel-item h3="Platform Independence" description="API supports .NET framework, .NET Core & Xamarin platform. Moreover, it can be used with Mono & several other platforms via COM Interop ." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -114,7 +111,7 @@ url: /net/
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Cells for .NET supports the popular spreadsheet file formats as well as the most commonly used image & fixed-layout formats." >}}
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="API supports .NET framework, .NET Core & Xamarin platform. Moreover, it can be used with Mono & several other platforms via COM Interop ." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -192,6 +189,98 @@ url: /net/
  <!--/row-->
  <div class="d1-logo">
   <img alt="Excel API C# VB.NET" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-net.png"/>
+  <header>
+   Aspose.Cells
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    .NET
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Cells for .NET supports the popular spreadsheet [file formats](https://docs.aspose.com/cells/net/supported-file-formats/)  as well as the most commonly used image & fixed-layout formats." >}}
+<div class="diagram1 d2 d1-net">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-arrows-v">
+    </i>
+    Input/Output
+   </header>
+   <ul>
+    <li>
+     <b>
+      Microsoft Excel:
+     </b>
+     XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML
+    </li>
+    <li>
+     <b>
+      OpenOffice:
+     </b>
+     ODS
+    </li>
+    <li>
+     <b>
+      Text:
+     </b>
+     CSV, TSV
+    </li>
+    <li>
+     <b>
+      Web:
+     </b>
+     HTML, MHTML
+    </li>
+    <li>
+     <b>
+      Numbers:
+     </b>
+     Apple's iWork office suite Numbers app documents
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-mail-forward">
+    </i>
+    Output Only
+   </header>
+   <ul>
+    <li>
+     <b>
+      Fixed Layout:
+     </b>
+     PDF, PDF/A, XPS
+    </li>
+    <li>
+     <b>
+      Data Interchange:
+     </b>
+     DIF
+    </li>
+    <li>
+     <b>
+      Images:
+     </b>
+     JPEG, PNG, BMP, SVG, TIFF, EMF, GIF
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt=".NET Spreadsheet APIs" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-net.png"/>
   <header>
    Aspose.Cells
   </header>

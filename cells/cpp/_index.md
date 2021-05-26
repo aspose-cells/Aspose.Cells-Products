@@ -17,7 +17,237 @@ url: /cpp/
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="" description="" >}}
+{{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of API." >}}
+<div class="diagram1 d1-cplus">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-retweet">
+    </i>
+    Format Conversion
+   </header>
+   <br/>
+   <header>
+    <i class="fa fa-bar-chart">
+    </i>
+    Data Processing
+   </header>
+   <ul>
+    <li>
+     PivotTable
+    </li>
+    <li>
+     Tables
+    </li>
+    <li>
+     Charts
+    </li>
+    <li>
+     Formulas Calculation
+    </li>
+    <li>
+     Data Validation
+    </li>
+    <li>
+     Conditional Formatting
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-cogs">
+    </i>
+    Manipulation
+   </header>
+   <ul>
+    <li>
+     Load/Save Spreadsheets
+    </li>
+    <li>
+     Data Manipulation
+    </li>
+    <li>
+     Built-In Properties
+    </li>
+    <li>
+     Custom Properties
+    </li>
+    <li>
+     Themes
+    </li>
+    <li>
+     Styles &amp; Formatting
+    </li>
+    <li>
+     Hyperlinks
+    </li>
+    <li>
+     AutoFilters
+    </li>
+    <li>
+     PageSetup
+    </li>
+    <li>
+     Reading, Writing Formulas
+    </li>
+    <li>
+     Grouping of Rows &amp; Columns
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="C++ Excel Library" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-cpp.png"/>
+  <header>
+   Aspose.Cells
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    C++
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="API fully supports C++ applications on following platforms with [system requirements](https://docs.aspose.com/cells/cpp/system-requirements/)  ." >}}
+<div class="diagram1 d1-cplus">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-cubes">
+    </i>
+    Windows 32 bit
+   </header>
+   <br/>
+   <header>
+    <i class="fa fa-cubes">
+    </i>
+    Windows 64 bit
+   </header>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-cubes">
+    </i>
+    Linux 64 bit
+   </header>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Spreadsheet Manipulation APIs for C++" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-cpp.png"/>
+  <header>
+   Aspose.Cells
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    C++
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Cells for C++ supports the most commonly used spreadsheet [file formats](https://docs.aspose.com/cells/cpp/supported-file-formats/)  ." >}}
+<div class="diagram1 d2 d1-cplus">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-arrows-v">
+    </i>
+    Input/Output
+   </header>
+   <ul>
+    <li>
+     <b>
+      Microsoft Excel:
+     </b>
+     XLS, XLSX, XLSB
+    </li>
+    <li>
+     <b>
+      Text:
+     </b>
+     CSV, TSV
+    </li>
+    <li>
+     <strong>
+      Open Document:
+     </strong>
+     ODS
+    </li>
+    <li>
+     <strong>
+      Others:
+     </strong>
+     HTML, MHTML
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-mail-forward">
+    </i>
+    Output Only
+   </header>
+   <ul>
+    <li>
+     <b>
+      Excel:
+     </b>
+     XLSM, XLTX, XLTM, XLAM
+    </li>
+    <li>
+     <b>
+      Fixed Layout:
+     </b>
+     PDF, XPS
+    </li>
+    <li>
+     <b>
+      Images:
+     </b>
+     JPEG, PNG, BMP, TIFF, GIF, EMF, SVG
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="C++ Spreadsheet Programming API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-cpp.png"/>
+  <header>
+   Aspose.Cells
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    C++
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
 {{< /blocks/products/pf/carousel-item >}}
 
 {{< /blocks/products/pf/carousel >}}

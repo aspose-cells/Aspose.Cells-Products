@@ -75,6 +75,8 @@ xltFile1.save("combinedFileWithPath.xlt");
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
 
+<!-- aboutfile Starts -->
+
 {{< blocks/products/pf/agp/about-file-section >}}
 
     {{< blocks/products/pf/agp/demobox sectionTitle="Online XLTВ Merger Live Demos" sectionDescription="MergeВ XLT documents right now by visiting our [Live Demos website](https://products.aspose.app/cells/merger). The live demo has the following benefits" >}}
@@ -90,6 +92,9 @@ Files with .XLT extension are template files created with Microsoft Excel which 
     {{< /blocks/products/pf/agp/about-file-text >}}
 
 {{< /blocks/products/pf/agp/about-file-section >}}
+
+<!-- aboutfile Ends -->
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -79,6 +79,8 @@ foreach (Aspose.Cells.Properties.DocumentProperty property in book.Worksheets.Bu
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
 
+<!-- aboutfile Starts -->
+
 {{< blocks/products/pf/agp/about-file-section >}}
 
     {{< blocks/products/pf/agp/demobox sectionTitle="Extract Metadata of XLSM via Online App" sectionDescription="View & edit Metadata to XLSM documents by using our [Live Demos](https://products.aspose.app/cells/metadata) with following benefits." >}}
@@ -94,6 +96,9 @@ Files with XLSM extension is a type of Spreasheet files that support Macros. Fro
     {{< /blocks/products/pf/agp/about-file-text >}}
 
 {{< /blocks/products/pf/agp/about-file-section >}}
+
+<!-- aboutfile Ends -->
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

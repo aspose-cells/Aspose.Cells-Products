@@ -77,6 +77,8 @@ wbk.save("UnMergingCellsInWorksheet_out.xlsm");
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
 
+<!-- aboutfile Starts -->
+
 {{< blocks/products/pf/agp/about-file-section >}}
 
     {{< blocks/products/pf/agp/demobox sectionTitle="Online XLSMВ Splitter Live Demos" sectionDescription="SplitВ XLSM document right now by visiting our [Live Demos website](https://products.aspose.app/cells/splitter). The live demo has the following benefits" >}}
@@ -92,6 +94,9 @@ Files with XLSM extension is a type of Spreasheet files that support Macros. Fro
     {{< /blocks/products/pf/agp/about-file-text >}}
 
 {{< /blocks/products/pf/agp/about-file-section >}}
+
+<!-- aboutfile Ends -->
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -78,6 +78,8 @@ book.Save("protected.xlsx");
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
 
+<!-- aboutfile Starts -->
+
 {{< blocks/products/pf/agp/about-file-section >}}
 
     {{< blocks/products/pf/agp/demobox sectionTitle="Free App to Protect XLSX" sectionDescription="Check our live demos to [encrypt XLSX files](https://products.aspose.app/cells/protect/xlsx) with following benefits." >}}
@@ -93,6 +95,9 @@ XLSX is well-known format for Microsoft Excel documents that was introduced by M
     {{< /blocks/products/pf/agp/about-file-text >}}
 
 {{< /blocks/products/pf/agp/about-file-section >}}
+
+<!-- aboutfile Ends -->
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

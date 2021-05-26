@@ -75,6 +75,8 @@ xlsbFile1.save("combinedFileWithPath.xlsb");
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
 
+<!-- aboutfile Starts -->
+
 {{< blocks/products/pf/agp/about-file-section >}}
 
     {{< blocks/products/pf/agp/demobox sectionTitle="Online XLSBВ Merger Live Demos" sectionDescription="MergeВ XLSB documents right now by visiting our [Live Demos website](https://products.aspose.app/cells/merger). The live demo has the following benefits" >}}
@@ -90,6 +92,9 @@ XLSB file format specifies the Excel Binary File Format, which is a collection o
     {{< /blocks/products/pf/agp/about-file-text >}}
 
 {{< /blocks/products/pf/agp/about-file-section >}}
+
+<!-- aboutfile Ends -->
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

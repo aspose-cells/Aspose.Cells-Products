@@ -118,33 +118,38 @@ workbook->Save(outputChartTypeCustom);
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/agp/content h2="About Aspose.Cells for C++ API" %}}
-
- Aspose.Cells API can be used to create, edit, convert and render Microsoft Excel formats to different formats. Moreover, it can be used for comprehensive charting, scalable reporting and reliable calculations within software applications. Aspose.Cells is a standalone API and it does not require any software like Microsoft or OpenOffice. Convert Excel Chart to PDF, JPG, PNG, EMF, WMF, BMP, SVG, TIFF, XPS. 
-вЂЋ
-
-
-
-{{% /blocks/products/pf/agp/content %}}
-
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
 
-{{< blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Starts -->
 
-    {{< blocks/products/pf/agp/demobox sectionTitle="Online ODSВ Chart Creation Live Demos" sectionDescription="GenerateВ ODS documents charts right now by visiting our [Live Demos website](https://products.aspose.app/cells/chart). The live demo has the following benefits" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download Aspose API." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your ODS files." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" Chart will be created instantly." >}}
-    {{< /blocks/products/pf/agp/demobox >}}
+    {{% blocks/products/pf/agp/content h2="About Aspose.Cells for C++ API" %}}
 
-    {{< blocks/products/pf/agp/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
+ GenerateВ ODS documents charts right now by visiting our
+ [Live Demos website](https://products.aspose.app/cells/chart) 
+ . The live demo has the following benefits
+
+
+
+    {{% /blocks/products/pf/agp/content %}}
+
+    {{< blocks/products/pf/agp/about-file-section >}}
+
+        {{< blocks/products/pf/agp/demobox sectionTitle="Online ODSВ Chart Creation Live Demos" sectionDescription="GenerateВ ODS documents charts right now by visiting our [Live Demos website](https://products.aspose.app/cells/chart). The live demo has the following benefits" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download Aspose API." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your ODS files." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Chart will be created instantly." >}}
+
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
 Files with ODS extension stand for OpenDocument Spreadsheet Document format that are editable by user. Data is stored inside ODF file into rows and columns. It is XML-based format and is one of the several subtypes in the Open Document Formats (ODF) family. The format is specified as part of the ODF 1.2 specifications published and maintained by OASIS. A number of applications on Windows as well as other operating systems can open ODS files for editing and manipulation including Microsoft Excel, NeoOffice and LibreOffice. ODS files can also be converted into other spreadsheet formats as well like XLS, XLSX and others by different applications. Read More
 
-    {{< /blocks/products/pf/agp/about-file-text >}}
+        {{< /blocks/products/pf/agp/about-file-text >}}
 
-{{< /blocks/products/pf/agp/about-file-section >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+
+<!-- aboutfile Ends -->
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

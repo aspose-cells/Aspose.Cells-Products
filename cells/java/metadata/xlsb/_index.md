@@ -76,6 +76,8 @@ System.out.println(w.getCustomDocumentProperties().get("test"));
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
 
+<!-- aboutfile Starts -->
+
 {{< blocks/products/pf/agp/about-file-section >}}
 
     {{< blocks/products/pf/agp/demobox sectionTitle="Extract Metadata of XLSB via Online App" sectionDescription="View & edit Metadata to XLSB documents by using our [Live Demos](https://products.aspose.app/cells/metadata) with following benefits." >}}
@@ -91,6 +93,9 @@ XLSB file format specifies the Excel Binary File Format, which is a collection o
     {{< /blocks/products/pf/agp/about-file-text >}}
 
 {{< /blocks/products/pf/agp/about-file-section >}}
+
+<!-- aboutfile Ends -->
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

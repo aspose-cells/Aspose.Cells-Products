@@ -118,33 +118,38 @@ workbook->Save(outputChartTypeCustom);
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/agp/content h2="About Aspose.Cells for C++ API" %}}
-
- Aspose.Cells API can be used to create, edit, convert and render Microsoft Excel formats to different formats. Moreover, it can be used for comprehensive charting, scalable reporting and reliable calculations within software applications. Aspose.Cells is a standalone API and it does not require any software like Microsoft or OpenOffice. Convert Excel Chart to PDF, JPG, PNG, EMF, WMF, BMP, SVG, TIFF, XPS. 
-вЂЋ
-
-
-
-{{% /blocks/products/pf/agp/content %}}
-
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
 
-{{< blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Starts -->
 
-    {{< blocks/products/pf/agp/demobox sectionTitle="Online XLSBВ Chart Creation Live Demos" sectionDescription="GenerateВ XLSB documents charts right now by visiting our [Live Demos website](https://products.aspose.app/cells/chart). The live demo has the following benefits" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download Aspose API." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your XLSB files." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" Chart will be created instantly." >}}
-    {{< /blocks/products/pf/agp/demobox >}}
+    {{% blocks/products/pf/agp/content h2="About Aspose.Cells for C++ API" %}}
 
-    {{< blocks/products/pf/agp/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}
+ GenerateВ XLSB documents charts right now by visiting our
+ [Live Demos website](https://products.aspose.app/cells/chart) 
+ . The live demo has the following benefits
+
+
+
+    {{% /blocks/products/pf/agp/content %}}
+
+    {{< blocks/products/pf/agp/about-file-section >}}
+
+        {{< blocks/products/pf/agp/demobox sectionTitle="Online XLSBВ Chart Creation Live Demos" sectionDescription="GenerateВ XLSB documents charts right now by visiting our [Live Demos website](https://products.aspose.app/cells/chart). The live demo has the following benefits" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download Aspose API." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your XLSB files." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Chart will be created instantly." >}}
+
+        {{< blocks/products/pf/agp/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}
 XLSB file format specifies the Excel Binary File Format, which is a collection of records and structures that specify Excel workbook content. The content can include unstructured or semi-structured tables of numbers, text, or both numbers and text, formulas, external data connections, charts and images. Unlike XLSX (which is based on Open XML file format), the XLSB represents binary Excel workbook file. XLSB files can be read and written to faster which makes them useful for working with large files. XLSB is seldom used to store workbooks as XLSX (and previously XLS) are the most common user selected file formats for saving workbooks. It can be opened by Microsoft Office 2007 and above. Read More
 
-    {{< /blocks/products/pf/agp/about-file-text >}}
+        {{< /blocks/products/pf/agp/about-file-text >}}
 
-{{< /blocks/products/pf/agp/about-file-section >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+
+<!-- aboutfile Ends -->
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

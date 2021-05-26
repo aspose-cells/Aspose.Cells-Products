@@ -18,7 +18,238 @@ url: /java/
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="" description="" >}}
+{{< blocks/products/pf/carousel-item h3="At a Glance" description="A generic overview." >}}
+<div class="diagram1 d1-java">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-television">
+    </i>
+    Rendering
+   </header>
+   <ul>
+    <li>
+     Chart to Image
+    </li>
+    <li>
+     Worksheet to Image
+    </li>
+    <li>
+     Spreadsheet to PDF
+    </li>
+    <li>
+     Printing
+    </li>
+   </ul>
+   <header>
+    <i class="fa fa-cogs">
+    </i>
+    Data Processing
+   </header>
+   <ul>
+    <li>
+     Apply Formatting
+    </li>
+    <li>
+     Create Charts
+    </li>
+    <li>
+     Apply Formulas
+    </li>
+    <li>
+     Summarize
+    </li>
+    <li>
+     Smart Markers
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-table">
+    </i>
+    GridWeb Control
+   </header>
+   <ul>
+    <li>
+     Supports JSP Web Application
+    </li>
+    <li>
+     Load Excel Files
+    </li>
+    <li>
+     Save Excel Documents
+    </li>
+    <li>
+     Provides Editing Capabilities
+    </li>
+    <li>
+     Compatible with Modern Browsers
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Spreadsheet API Java" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-java.png"/>
+  <header>
+   Aspose.Cells
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    Java
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="The library for Java-based applications developed on Windows Unix/Linux and Mac platforms." >}}
+<div class="diagram1 d1-java">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-cubes">
+    </i>
+    Java Runtime Environment
+   </header>
+   <ul>
+    <li>
+     JSP/JSF Application
+    </li>
+    <li>
+     Desktop Application
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Excel API Java" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-java.png"/>
+  <header>
+   Aspose.Cells
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    Java
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Cells for Java supports the popular spreadsheet formats, commonly used images, fixed-layout and [more formats](https://docs.aspose.com/cells/java/supported-file-formats/)  ." >}}
+<div class="diagram1 d2 d1-java">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-arrows-v">
+    </i>
+    Input/Output
+   </header>
+   <ul>
+    <li>
+     <b>
+      Microsoft Excel:
+     </b>
+     XLS, XLT, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+    </li>
+    <li>
+     <b>
+      OpenOffice:
+     </b>
+     ODS
+    </li>
+    <li>
+     <b>
+      Text:
+     </b>
+     CSV, TSV
+    </li>
+    <li>
+     <b>
+      Web:
+     </b>
+     HTML, MHTML
+    </li>
+    <li>
+     <b>
+      Numbers:
+     </b>
+     Apple's iWork office suite Numbers app documents
+    </li>
+    <li>
+     SXC, FODS
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-mail-forward">
+    </i>
+    Output Only
+   </header>
+   <ul>
+    <li>
+     <b>
+      Fixed Layout:
+     </b>
+     PDF, PDF/A, XPS
+    </li>
+    <li>
+     <b>
+      Data Interchange:
+     </b>
+     DIF
+    </li>
+    <li>
+     <b>
+      Images:
+     </b>
+     JPEG, PNG, BMP, SVG, TIFF, GIF, EMF
+    </li>
+    <li>
+     MARKDOWN
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Java Excel Spreadsheet Library" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-java.png"/>
+  <header>
+   Aspose.Cells
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    Java
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
 {{< /blocks/products/pf/carousel-item >}}
 
 {{< /blocks/products/pf/carousel >}}

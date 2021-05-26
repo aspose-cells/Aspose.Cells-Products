@@ -64,6 +64,8 @@ meta->Save(new String("c:\\book2.xls"));
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
 
+<!-- aboutfile Starts -->
+
 {{< blocks/products/pf/agp/about-file-section >}}
 
     {{< blocks/products/pf/agp/demobox sectionTitle="Extract Metadata of XLS via Online App" sectionDescription="View & edit Metadata to XLS documents by using our [Live Demos](https://products.aspose.app/cells/metadata) with following benefits." >}}
@@ -79,6 +81,9 @@ Files with XLS extension represent Excel Binary File Format. Such files can be c
     {{< /blocks/products/pf/agp/about-file-text >}}
 
 {{< /blocks/products/pf/agp/about-file-section >}}
+
+<!-- aboutfile Ends -->
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

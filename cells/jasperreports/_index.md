@@ -17,7 +17,164 @@ url: /jasperreports/
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="" description="" >}}
+{{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of Aspose.Cells for JasperReports' features." >}}
+<div class="diagram1 d1-jasper">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-cog">
+    </i>
+    Lightweight Deployment
+   </header>
+   <br/>
+   <header>
+    <i class="fa fa-table">
+    </i>
+    High Fidelity to Report Design
+   </header>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-bar-chart">
+    </i>
+    Editable Charts
+   </header>
+   <br/>
+   <header>
+    <i class="fa fa-share">
+    </i>
+    Export to Excel Formats
+   </header>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Excel Exporter for JasperReports" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-jasperreports.png"/>
+  <header>
+   Aspose.Cells
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    JasperReports
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.Cells for JasperReports supports J2SE, JasperReports and JasperServer." >}}
+<div class="diagram1 d1-jasper">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header style="padding-left: 0px;">
+    <i class="fa fa-cubes">
+    </i>
+    J2SE 1.6 or higher
+   </header>
+   <br/>
+   <header style="padding-left: 0px;">
+    <i class="fa fa-cubes">
+    </i>
+    JasperReports 6.3.0 or higher
+   </header>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt=" JasperReports Spreadsheet Exporter" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-jasperreports.png"/>
+  <header>
+   Aspose.Cells
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    JasperReports
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Cells for JasperReports allows you to export reports directly to the [following formats](https://docs.aspose.com/cells/jasperreports/supported-file-formats/)  ." >}}
+<div class="diagram1 d2 d1-jasper">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-mail-forward">
+    </i>
+    Output Only
+   </header>
+   <ul>
+    <li>
+     <b>
+      Microsoft Excel:
+     </b>
+     XLS, XLSX
+    </li>
+    <li>
+     <b>
+      OpenOffice:
+     </b>
+     ODS
+    </li>
+    <li>
+     <b>
+      SpreadsheetML:
+     </b>
+     XML
+    </li>
+    <li>
+     <b>
+      Fixed Layout:
+     </b>
+     PDF
+    </li>
+    <li>
+     <b>
+      Text:
+     </b>
+     CSV, TSV, Tab-Delimited
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Report Converter for JasperReports" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-jasperreports.png"/>
+  <header>
+   Aspose.Cells
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    JasperReports
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
 {{< /blocks/products/pf/carousel-item >}}
 
 {{< /blocks/products/pf/carousel >}}

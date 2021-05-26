@@ -17,7 +17,257 @@ url: /reporting-services/
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="" description="" >}}
+{{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of Aspose.Cells for Reporting Services." >}}
+<div class="diagram1 d1-rs">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-file-image-o">
+    </i>
+    RDL Support
+   </header>
+   <ul>
+    <li>
+     Page
+    </li>
+    <li>
+     Header/Footer
+    </li>
+    <li>
+     Text Boxes
+    </li>
+    <li>
+     Images
+    </li>
+    <li>
+     Sub-reports
+    </li>
+    <li>
+     Charts
+    </li>
+    <li>
+     Lists
+    </li>
+    <li>
+     Tables
+    </li>
+    <li>
+     Gauge
+    </li>
+    <li>
+     Matrices
+    </li>
+    <li>
+     Rectangles/Lines
+    </li>
+    <li>
+     Styles
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-cogs">
+    </i>
+    Data Processing
+   </header>
+   <ul>
+    <li>
+     Report Services Formulas
+    </li>
+    <li>
+     Dynamic Formulas
+    </li>
+    <li>
+     Tables with Grouped Rows
+    </li>
+    <li>
+     Tables with Grouped Footer
+    </li>
+    <li>
+     MS Query
+    </li>
+    <li>
+     Report Specific Data Source
+    </li>
+    <li>
+     Shared Data Source
+    </li>
+    <li>
+     Encryption
+    </li>
+   </ul>
+   <header>
+    <i class="fa fa-table">
+    </i>
+    Report Designer
+   </header>
+   <ul>
+    <li>
+     Pivot Tables
+    </li>
+    <li>
+     Interactive Charts
+    </li>
+    <li>
+     Formulas
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="RDL to Excel Exporter" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-reporting-services.png"/>
+  <header>
+   Aspose.Cells
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    Reporting Services
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.Cells for Reporting Services supports Microsoft SQL Server Reporting Services." >}}
+<div class="diagram1 d1-rs">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header style="padding-left: 0px;">
+    <i class="fa fa-cubes">
+    </i>
+    SQL Server Reporting Services
+   </header>
+   <ul>
+    <li>
+     2005
+    </li>
+    <li>
+     2008 and 2008 R2
+    </li>
+    <li>
+     2012
+    </li>
+    <li>
+     2014
+    </li>
+    <li>
+     2016
+    </li>
+    <!--<li>2017</li>-->
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Export Reports to Excel Formats" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-reporting-services.png"/>
+  <header>
+   Aspose.Cells
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    Reporting Services
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Cells for Reporting Services supports commonly used spreadsheet [file formats](https://docs.aspose.com/cells/reportingservices/supported-file-formats/)  ." >}}
+<div class="diagram1 d2 d1-rs">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-long-arrow-down">
+    </i>
+    Input Only
+   </header>
+   <ul>
+    <li>
+     RDL
+    </li>
+    <li>
+     RDLC
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-mail-forward">
+    </i>
+    Output Only
+   </header>
+   <ul>
+    <li>
+     <b>
+      Microsoft Excel:
+     </b>
+     XLS, XLSX, XLSM, XLSB, XML
+    </li>
+    <li>
+     <b>
+      OpenOffice:
+     </b>
+     ODS
+    </li>
+    <li>
+     <b>
+      Web:
+     </b>
+     HTML
+    </li>
+    <li>
+     <b>
+      Text:
+     </b>
+     CSV, TSV, TabDelimited text file
+    </li>
+    <li>
+     <strong>
+      Fixed Layout:
+     </strong>
+     XPS
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Excel Exporter for Reporting Services" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-reporting-services.png"/>
+  <header>
+   Aspose.Cells
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    Reporting Services
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
 {{< /blocks/products/pf/carousel-item >}}
 
 {{< /blocks/products/pf/carousel >}}

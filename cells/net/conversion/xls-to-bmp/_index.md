@@ -69,6 +69,8 @@ renderer.ToImage(0, "output.bmp");
  
 {{< /blocks/products/pf/agp/faq >}}
 
+<!-- aboutfile Starts -->
+
 {{< blocks/products/pf/agp/demobox sectionTitle="[Free Online App for XLS to BMP Conversion](https://products.aspose.app/cells/conversion/xls-to-bmp)" sectionDescription="" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything" >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write or compile code" >}}
@@ -89,6 +91,9 @@ Files having extension .BMP represent Bitmap Image files that are used to store 
     {{< /blocks/products/pf/agp/about-file-text >}}
 
 {{< /blocks/products/pf/agp/about-file-section >}}
+
+<!-- aboutfile Ends -->
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

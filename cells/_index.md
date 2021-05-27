@@ -64,14 +64,28 @@ View spreadsheet files including XLS, XLSX, XLSM, XLSB & ODS in your favorite br
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about Aspose.Cells." >}}
+{{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about Aspose.Cells." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.cells/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
-As a software services company, we understand how important customer service is when working with clients. I'm happy to see Aspose shares this value with us. Aspose.Cells is an excellent tool, has a significant speed advantage over VBA.
+<p class="first">
+ As a software services company, we understand how important customer service is when working with clients. I'm happy to see Aspose shares this value with us. Aspose.Cells is an excellent tool, has a significant speed advantage over VBA.
+ <em>
+  Paul Katz | Intersoft, USA
+ </em>
+</p>
+
 {{< /blocks/products/pf/testimonials-quote >}}
+
 {{< blocks/products/pf/testimonials-quote >}}
-The Aspose product suite and support is second to none. We couldn’t have done what we did without this solution.
+<p class="second">
+ The Aspose product suite and support is second to none. We couldn’t have done what we did without this solution.
+ <em>
+  Dr. Dan Patterson | Acumen, UK
+ </em>
+</p>
+
 {{< /blocks/products/pf/testimonials-quote >}}
+
 {{< /blocks/products/pf/testimonials >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

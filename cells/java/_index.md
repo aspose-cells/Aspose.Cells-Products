@@ -5,14 +5,21 @@ url: /java/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java Excel Spreadsheet Processing API" h2="Create, manipulate, convert, protect or print spreadsheets without relying on Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/header/aspose_cells-for-java.png" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/cells/java" >}}
+{{< blocks/products/pf/upper-banner h1="Java Excel Spreadsheet Processing API" h2="Create, manipulate, convert, protect or print spreadsheets without relying on Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/header/aspose_cells-for-java.png" pfName="Aspose.Cells for Java" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/cells/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Java" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-java.png" liveDemosLink="https://products.aspose.app/cells/family" PricingLink="https://purchase.aspose.com/pricing/cells/java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/cells/java" instalationsDocsLink="https://docs.aspose.com/cells/java/installation/" nugetLink="" nugetPackageName="Microsoft Excel:" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>Aspose.Cells for Java is a mature and feature-rich library, offering many functions that are way beyond the simple data export capabilities of other components available on the market. API provides the capabilities to export data, format spreadsheets to the most granular level, import & export images, create charts & Pivot Tables, apply & calculate complex formulas using formula calculation engine, stream Excel data & save the result in various formats.</p>
+<p>
+ Aspose.Cells for Java is an award-winning Excel Spreadsheet Processing API that allows the developers to embed the functionality to read, write, manipulate, convert &amp; print spreadsheets in their own applications, without needing Microsoft Excel application.
+</p>
+
+<p>
+ Aspose.Cells for Java is a mature and feature-rich library, offering many functions that are way beyond the simple data export capabilities of other components available on the market. API provides the capabilities to export data, format spreadsheets to the most granular level, import &amp; export images, create charts &amp; Pivot Tables, apply &amp; calculate complex formulas using formula calculation engine, stream Excel data &amp; save the result in various formats.
+</p>
+
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
@@ -491,14 +498,24 @@ chart.toPdf(dir + "output.pdf");</code></pre>
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about spreadsheet APIs." >}}
+{{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about spreadsheet APIs." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.cells/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
-We would recommend the use of Aspose.cells for Java because it is easy to implement and the API is simple to understand and very fluent.
+<p class="first">
+ We would recommend the use of Aspose.cells for Java because it is easy to implement and the API is simple to understand and very fluent.
+ <em>
+  Pierre-Eric Oudin | Advizeo by Setec, France
+ </em>
+</p>
 {{< /blocks/products/pf/testimonials-quote >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
-Our overall experience with Aspose products was very positive. This component increased business value to Xpand IT product - Xporter Plugin for JIRA, allowing us to develop a reference solution for data export.
+<p class="second">
+ Our overall experience with Aspose products was very positive. This component increased business value to Xpand IT product - Xporter Plugin for JIRA, allowing us to develop a reference solution for data export.
+ <em>
+  Paulo Lopes | Xpand IT, UK
+ </em>
+</p>
 {{< /blocks/products/pf/testimonials-quote >}}
 
 {{< /blocks/products/pf/testimonials >}}
@@ -527,17 +544,17 @@ Our overall experience with Aspose products was very positive. This component in
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/java" pricingInformationLink="https://purchase.aspose.com/pricing/cells/java" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Cells offers individual Excel APIs for other popular development environments as listed below:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells offers individual Excel APIs for other popular development environments as listed below:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/cells/net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-net.png" sdkName="Aspose.Cells for .NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/cells/cpp" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-cpp.png" sdkName="Aspose.Cells for C++" >}}
-    {{< blocks/products/pf/offers-section-item link="/cells/android-java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-android.png" sdkName="Aspose.Cells for Android via Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/cells/sharepoint" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-sharepoint.png" sdkName="Aspose.Cells for SharePoint" >}}
-    {{< blocks/products/pf/offers-section-item link="/cells/reporting-services" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-reporting-services.png" sdkName="Aspose.Cells for Reporting Services" >}}
-    {{< blocks/products/pf/offers-section-item link="/cells/jasperreports" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-jasperreports.png" sdkName="Aspose.Cells for JasperReports" >}}
-    {{< blocks/products/pf/offers-section-item link="/cells/nodejs-java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-nodejs.png" sdkName="Aspose.Cells for Node.js via Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/cells/php-java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose.cells-for-php-via-java.png" sdkName="Aspose.Cells for PHP via Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/cells/python-java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-python-via-java.png" sdkName="Aspose.Cells for Python via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-net.png" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/cpp" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-cpp.png" sdkName="C++" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/android-java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-android.png" sdkName="Android via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/sharepoint" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-sharepoint.png" sdkName="SharePoint" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/reporting-services" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-reporting-services.png" sdkName="Reporting Services" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/jasperreports" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-jasperreports.png" sdkName="JasperReports" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/nodejs-java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-nodejs.png" sdkName="Node.js via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/php-java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose.cells-for-php-via-java.png" sdkName="PHP via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/python-java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-python-via-java.png" sdkName="Python via Java" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

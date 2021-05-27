@@ -310,6 +310,263 @@ description: C# ASP.NET VB.NET library to work with Microsoft Excel documents. C
 <!--Diagrams End-->
 
 <!--Feature-section Start-->
+<div class="container-fluid features-section bg-gray">
+ <a class="anchor" id="features" name="features">
+ </a>
+ <div class="row">
+  <div class="container">
+   <h2 class="pr-ft">
+    Advanced Excel Spreadsheet API Features
+   </h2>
+   <!-- <p>Unlike similar products from other vendors, Aspose.Cells for .NET not only supports spreadsheet generation and other basic file formatting features, it also supports a number of advanced features. These advanced features make it much easier for the developers to manipulate spreadsheet contents, cell formatting and file protection.</p>
+
+<p>Aspose.Cells for .NET includes the following features:</p> -->
+   <p>
+   </p>
+   <div class="col-lg-4">
+    <em class="fa fa-chrome ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Send output to a client browser
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-exchange ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Import/export data to &amp; from DataTable, DataView or Array
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Add &amp; manipulate charts &amp; PivotTable through the product API
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Import formulas from a designer spreadsheet
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-scissors ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Truncate long sheet name &amp; replace invalid characters at run-time
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-align-right ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Apply text alignment to partial text inside the TextBox
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-columns ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Paste rows &amp; columns with advanced paste options
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-support ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Support for CSV (comma-separated values) &amp; TSV (tab-separated values)
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Create &amp; manipulate comments
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-filter ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Set auto-filters &amp; page breaks
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-align-center ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Specify conditional formatting rules
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-sort-amount-desc ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Create &amp; manipulate named ranges
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-line-chart ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Create &amp; render sparklines
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-columns ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Export worksheets to SVG format
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-table ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Read &amp; write large spreadsheets in light-weight mode
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-image ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Re-sample images in Excel-to-PDF conversion
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-file-code-o ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Modify VBA code or Macros in the template file
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-plus-square ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Populate spreadsheets via Smart Markers
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Convert Spreadsheets to PDF, XPS &amp; HTML Formats
+    </h2>
+    <p>
+     Aspose.Cells for .NET is capable of converting spreadsheets to PDF, XPS &amp; HTML formats while maintaining the highest visual fidelity. The conversion process is simple yet reliable, thus making API a perfect choice for the organizations which require to exchange documents in any of the industry-standard formats.
+    </p>
+    <div class="codeblock" id="code">
+     <h3>
+      Save spreadsheet in different formats - C#
+     </h3>
+     <pre><code class="cs">// load file to be converted
+
+var workbook = new Aspose.Cells.Workbook(dir + "template.xlsx");
+
+
+
+// save in different formats
+
+workbook.Save(dir + "output.pdf", Aspose.Cells.SaveFormat.Pdf);
+
+workbook.Save(dir + "output.xps", Aspose.Cells.SaveFormat.XPS);
+
+workbook.Save(dir + "output.html", Aspose.Cells.SaveFormat.Html);</code></pre>
+    </div>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Visualize Data with Formatting, Charts &amp; Graphics
+    </h2>
+    <p>
+     Aspose.Cells for .NET gives you complete freedom and flexibility to furnish your spreadsheets with all kinds of visual effects. The API allows you to apply different fonts with attributes, cell styles (alignment, indentation, rotation, borders, shading and coloring, protection, text wrapping and shrinking) and all types of number formats.
+    </p>
+    <p>
+     Similarly, charts and graphics are visually appealing and can give your spreadsheet a professional look. Aspose.Cells for .NET provides a comprehensive set of APIs for creating and manipulating all of the standard and custom chart types. Moreover, you may add different types of drawing objects, such as comments, pictures, OLE objects, shapes and controls to the cells
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Efficient, Robust &amp; Reliable Formula Calculation Engine
+    </h2>
+    <p>
+     Aspose.Cells for .NET has a powerful Formula Calculation Engine that supports almost all of the standard and advanced Microsoft Excel formulas and functions. You can read, set and calculate the results of the built-in, add-in, array &amp; R1C1 reference style formulas.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Summarize Data with Pivot Tables, Charts &amp; Smart Markers
+    </h2>
+    <p>
+     A Pivot Table can help you quickly summarize the flat data and to get the desired information according to your needs. .NET Excel library allows you to dynamically create Pivot Tables and Pivot Charts. You can dynamically change the source data of a Pivot Table and refresh it. Moreover, library offers Smart Markers which is a great feature to populate worksheets based on some data sources and to create visually effective reports.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Render Excel Worksheets &amp; Charts as Images
+    </h2>
+    <p>
+     Aspose.Cells for .NET has its own rendering engine specially designed for rendering &amp; printing with highest of fidelity to the Microsoft Excel. It offers distinctive features such as rendering Excel worksheets &amp; charts to images &amp; printing worksheets to any connected physical printer. The process is flexible thus allowing you to choose a number of options, such as controlling the resultant image dimensions when rendering worksheets &amp; charts to images.
+    </p>
+    <div class="codeblock" id="code">
+     <h3>
+      Convert worksheet to image - C#
+     </h3>
+     <pre><code class="cs">// load spreadsheet file
+
+var workbook = new Aspose.Cells.Workbook(dir + "template.xls");
+
+// access the first worksheet from the collection
+
+var worksheet = workbook.Worksheets[0];
+
+// define parameters for resultant image
+
+var options = new Aspose.Cells.Rendering.ImageOrPrintOptions()
+
+{
+
+    OnePagePerSheet = true,
+
+    ImageType = Aspose.Cells.Drawing.ImageType.Jpeg
+
+};
+
+// convert worksheet to image in JPEG format
+
+var renderer = new Aspose.Cells.Rendering.SheetRender(worksheet, options);
+
+renderer.ToImage(0, dir + "output.jpeg");</code></pre>
+    </div>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Chart Creation &amp; Manipulation
+    </h2>
+    <p>
+     Aspose.Cells for .NET comes with complete support for charting. You can easily add standard or customized charts using the product API and dynamically set the data in order to refresh the charts. API also allows you to convert charts to a number of image formats.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Graphical Interfaces for Web &amp; Desktop Applications
+    </h2>
+    <p>
+     Aspose.Cells for .NET provides GUI controls for web &amp; desktop applications. End-user can use these controls to open, save &amp; edit Excel files, import &amp; export data, manage formatting &amp; formulas and convert between several supported spreadsheet formats, right from your application's front-end.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Microsoft Office Automation – Not Needed
+    </h2>
+    <p>
+     Aspose.Cells for .NET is built using managed code that never needs Microsoft Office or Microsoft Excel to be installed on the machine to work with Excel document formats. It is a perfect Microsoft Office automation alternative in terms of supported features, security, stability, scalability, speed and price.
+    </p>
+   </div>
+  </div>
+ </div>
+</div>
 <!--Feature-section End-->
 
 {{< /blocks/products/pf/main-container >}}

@@ -259,6 +259,241 @@ description: C++ Excel library to read write and parse files including XLS, XLSX
 <!--Diagrams End-->
 
 <!--Feature-section Start-->
+<div class="container-fluid features-section bg-gray">
+ <a class="anchor" id="features" name="features">
+ </a>
+ <div class="row">
+  <div class="container">
+   <h2 class="pr-ft">
+    Advanced C++ Spreadsheet API Features
+   </h2>
+   <!-- <p>Unlike similar products from other vendors, Aspose.Cells for C++ not only supports spreadsheet generation and other basic file formatting features, it also supports a number of advanced features. These advanced features make it much easier for developers to manipulate spreadsheet contents and format cells.</p> 
+
+<p>Aspose.Cells for C++ includes the following features:</p>-->
+   <p>
+   </p>
+   <div class="col-lg-4">
+    <em class="fa fa-save ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Load &amp; save Excel files using streams
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-bar-chart ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Create &amp; manipulate charts
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-check-square-o ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Set data validation to restrict input
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-table ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Organize data by grouping rows &amp; columns
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Manipulate built-in &amp; custom properties
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-link ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Add &amp; manipulate hyperlinks
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-list-alt ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Create &amp; manipulate Pivot Tables
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-magic ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Change the look of your workbook using themes
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-tasks ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Create tables &amp; list objects
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-cog ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Manipulate drawing objects
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-file-excel-o ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Apply styles and formatting to cells, rows, columns or ranges
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-list-ol ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Trace Precedents &amp; Dependents
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Read, write &amp; calculate complex formulas
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-bars ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Add or extract OLE objects
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-tags ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Create conditional formatting rules
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-code ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Create and implement user-defined Functions
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-line-chart ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Convert Chart to PDF format
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-pie-chart ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Convert Chart to Image format
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Zero Dependency on Microsoft Excel
+    </h2>
+    <p>
+     Aspose APIs are totally independent and are not affiliated with, nor authorized, sponsored, or otherwise approved by Microsoft Corporation. Aspose.Cells for C++ never needs Microsoft Office or Microsoft Excel to be installed on the machine to work with Excel document formats.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Simple &amp; Reliable Conversion of Excel Formats
+    </h2>
+    <p>
+     Aspose.Cells for C++ is a powerful set of APIs that provide the ability to load, edit, write and inter-convert Excel file formats without worrying about the format-specific details. The API allows you to convert spreadsheets from any supported format to any other supported format with just two lines of code. It is that simple!
+    </p>
+    <div class="codeblock" id="code">
+     <h3>
+      Convert Excel files in multiple formats - C++
+     </h3>
+     <pre><code class="cpp">// load the document for conversion
+
+intrusive_ptr&lt;IWorkbook&gt; book = Factory::CreateIWorkbook(dir-&gt;StringAppend(new String("template.xls")));
+
+// save in different formats
+
+book-&gt;Save(dir-&gt;StringAppend(new String("output.xlsx")), SaveFormat_Xlsx);
+
+book-&gt;Save(dir-&gt;StringAppend(new String("output.xlsb")), SaveFormat_Xlsb);
+
+book-&gt;Save(dir-&gt;StringAppend(new String("output.csv")), SaveFormat_CSV);</code></pre>
+    </div>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Comprehensive Spreadsheet Formatting
+    </h2>
+    <p>
+     Aspose.Cells for C++ gives you complete control over how you wish to present your data onto the worksheet, by offering advanced formatting features. You can apply formatting to individual row, column, cell, or you can create a range of cells and apply formatting to it. You can also add rich text to a cell, apply borders, set background patterns or tweak font related styling aspects.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Visualize Data With Charts
+    </h2>
+    <p>
+     Aspose.Cells for C++ offers a comprehensive set of APIs to dynamically create all of the standard and custom chart types supported by Excel application. The API also provides the ability to update the data source for an existing chart and refresh it.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Render Worksheets as Images
+    </h2>
+    <p>
+     The library renders with the highest of fidelity to Microsoft Excel using its own rendering engine. It offers distinctive features such as rendering worksheets to images in popular formats including BMP, TIFF, PNG, JPEG &amp; EMF. The Sheet2Image process is flexible thus allowing to select options such as controlling the resultant image's resolution.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Manipulate Columns and Rows
+    </h2>
+    <p>
+     Aspose.Cells for C++ offers rows and columns manipulation in multiple ways. Adjust row height and column width or auto resize the cell dimensions according to the contents in it, is too easy. The API also offers the means to delete and inset, hide or show as well as rows and columns grouping or un-grouping.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Accurately Convert Spreadsheets to PDF
+    </h2>
+    <p>
+     The Excel C++ library provides the ability to convert spreadsheets to PDF format while retaining the same quality as the original document. This fact makes Aspose.Cells for C++ a perfect choice for the organizations which require to exchange documents in industry-standard formats as PDF.
+    </p>
+   </div>
+   <!-- 
+
+<div class="col-lg-12">
+
+<h2 class="h2title">Convert Between XLS and XLSX Formats</h2>
+
+<p>Converting XLS to XLSX and XLSX to XLS is as easy and simple as a two liner code. Despite the complexity of document conversions in C++, Aspose.Cells for C++ makes it possible for you to convert between XLS and XLSX formats in just two lines of code.</p>
+
+</div>
+
+
+
+<div class="col-lg-12">
+
+<h2 class="h2title">Support For Office Open XML</h2>
+
+<p>Office OpenXML (OOXML) is the XML-based format that was introduced into Microsoft Office 2007. Microsoft Office Excel 2007 and above store the spreadsheets in XLSX format. Aspose.Cells for C++ extensively supports creating, reading, manipulating and writing XLSX documents.</p>
+
+</div>
+
+-->
+  </div>
+ </div>
+</div>
 <!--Feature-section End-->
 
 {{< /blocks/products/pf/main-container >}}

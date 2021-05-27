@@ -2,6 +2,7 @@
 title:  
 weight: 5410
 url: /java/merger/xls/ 
+description: Try our On-Premise document merger APIs to combine XLS documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

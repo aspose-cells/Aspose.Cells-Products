@@ -2,6 +2,7 @@
 title:  
 weight: 9810
 url: /net/unlock/xlsb/ 
+description: Try our On-Premise document APIs to unlock password protected XLSB file on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,7 @@
 title:  
 weight: 5550
 url: /java/protect/xlsb/ 
+description: Try our On-Premise document APIs to lock XLSB file using password on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

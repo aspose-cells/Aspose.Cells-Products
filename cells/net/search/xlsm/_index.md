@@ -2,6 +2,7 @@
 title:  
 weight: 9730
 url: /net/search/xlsm/ 
+description: Try our On-Premise document APIs to search words with pattern in XLSM file on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

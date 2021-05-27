@@ -2,6 +2,7 @@
 title:  
 weight: 9520
 url: /net/metadata/xlsm/ 
+description: Try our On-Premise document metadata viewer or editing APIs to edit or view XLSM format metadata on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

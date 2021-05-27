@@ -2,6 +2,7 @@
 title:  
 weight: 9640
 url: /net/redaction/ods/ 
+description: Try our On-Premise document redaction APIs to redact sensitive information in ODS file on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

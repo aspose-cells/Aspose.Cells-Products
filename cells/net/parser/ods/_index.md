@@ -2,6 +2,7 @@
 title:  
 weight: 9550
 url: /net/parser/ods/ 
+description: Try our On-Premise document parser APIs to extract text and images from ODS file on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

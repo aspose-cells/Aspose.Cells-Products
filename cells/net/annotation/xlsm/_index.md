@@ -2,6 +2,7 @@
 title:  
 weight: 5860
 url: /net/annotation/xlsm/ 
+description: Try our On-Premise document annotation APIs to delete XLSM format annotations on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

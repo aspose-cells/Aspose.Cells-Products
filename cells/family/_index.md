@@ -2,6 +2,7 @@
 title: .NET Java C++ PHP and Android Excel Spreadsheet Parsing APIs 
 weight: 10
 url: /family
+description: Libraries to read write and manipulate Microsoft Excel formats in .NET Java C++ Android and SharePoint apps. Export Worksheets in SSRS and JasperReports
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

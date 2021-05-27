@@ -2,6 +2,7 @@
 title:  
 weight: 5670
 url: /java/search/xlsb/ 
+description: Integrate On-Premise document APIs to search words with pattern in XLSB file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

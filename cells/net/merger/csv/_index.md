@@ -2,6 +2,7 @@
 title:  
 weight: 9370
 url: /net/merger/csv/ 
+description: Try our On-Premise document merger APIs to combine CSV documents on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

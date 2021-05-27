@@ -2,6 +2,7 @@
 title:  
 weight: 1980
 url: /java/annotation/xlsb/ 
+description: Try our On-Premise document annotation APIs to delete XLSB format annotations on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

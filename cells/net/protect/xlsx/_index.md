@@ -2,6 +2,7 @@
 title:  
 weight: 9620
 url: /net/protect/xlsx/ 
+description: Try our On-Premise document APIs to lock XLSX file using password on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,7 @@
 title:  
 weight: 5850
 url: /net/annotation/xlsb/ 
+description: Try our On-Premise document annotation APIs to delete XLSB format annotations on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

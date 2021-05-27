@@ -2,6 +2,7 @@
 title:  
 weight: 5710
 url: /java/splitter/xlsb/ 
+description: Try our On-Premise multi option document splitter APIs to split XLSB documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

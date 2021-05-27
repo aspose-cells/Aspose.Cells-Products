@@ -2,6 +2,7 @@
 title:  
 weight: 9420
 url: /net/merger/txt/ 
+description: Try our On-Premise document merger APIs to combine TXT documents on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

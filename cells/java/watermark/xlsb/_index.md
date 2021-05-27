@@ -2,6 +2,7 @@
 title:  
 weight: 5810
 url: /java/watermark/xlsb/ 
+description: Try our On-Premise document APIs to add or remove watermark to XLSB file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,7 @@
 title:  
 weight: 5340
 url: /java/merger/mhtml/ 
+description: Try our On-Premise document merger APIs to combine MHTML documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

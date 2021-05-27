@@ -2,6 +2,7 @@
 title:  
 weight: 9490
 url: /net/merger/xlt/ 
+description: Try our On-Premise document merger APIs to combine XLT documents on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

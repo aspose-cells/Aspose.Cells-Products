@@ -2,6 +2,7 @@
 title:  
 weight: 8070
 url: /net/conversion/xlsb-to-txt/ 
+description: Try our On-Premise APIs with your document on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

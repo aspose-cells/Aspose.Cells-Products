@@ -2,6 +2,7 @@
 title:  
 weight: 9830
 url: /net/unlock/xlsx/ 
+description: Try our On-Premise document APIs to unlock password protected XLSX file on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

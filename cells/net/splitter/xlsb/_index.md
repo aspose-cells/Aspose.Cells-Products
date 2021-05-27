@@ -2,6 +2,7 @@
 title:  
 weight: 9760
 url: /net/splitter/xlsb/ 
+description: Try our On-Premise multi option document splitter APIs to split XLSB documents on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

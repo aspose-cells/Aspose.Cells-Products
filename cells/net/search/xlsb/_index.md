@@ -2,6 +2,7 @@
 title:  
 weight: 9720
 url: /net/search/xlsb/ 
+description: Try our On-Premise document APIs to search words with pattern in XLSB file on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

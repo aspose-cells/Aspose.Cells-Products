@@ -2,6 +2,7 @@
 title:  
 weight: 9750
 url: /net/splitter/ods/ 
+description: Try our On-Premise multi option document splitter APIs to split ODS documents on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

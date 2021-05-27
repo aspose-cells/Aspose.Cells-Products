@@ -2,6 +2,7 @@
 title:  
 weight: 5760
 url: /java/unlock/xlsb/ 
+description: Try our On-Premise document APIs to unlock password protected XLSB file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

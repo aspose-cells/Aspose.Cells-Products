@@ -2,6 +2,7 @@
 title:  
 weight: 9460
 url: /net/merger/xls/ 
+description: Try our On-Premise document merger APIs to combine XLS documents on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

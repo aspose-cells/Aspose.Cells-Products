@@ -2,6 +2,7 @@
 title:  
 weight: 5480
 url: /java/metadata/xlsx/ 
+description: Try our On-Premise document metadata editing or viewer APIs to edit or view XLSX format metadata on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

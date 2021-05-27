@@ -2,6 +2,7 @@
 title:  
 weight: 1730
 url: /cpp/metadata/xlsx/ 
+description: Try our On-Premise document metadata editing or viewer APIs to edit or view XLSX file metadata on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

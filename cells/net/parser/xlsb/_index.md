@@ -2,6 +2,7 @@
 title:  
 weight: 9560
 url: /net/parser/xlsb/ 
+description: Try our On-Premise document parser APIs to extract text and images from XLSB file on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

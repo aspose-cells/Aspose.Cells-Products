@@ -2,6 +2,7 @@
 title:  
 weight: 5600
 url: /java/redaction/xlsb/ 
+description: Try our On-Premise document redaction APIs to redact sensitive information in XLSB file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,7 @@
 title:  
 weight: 1750
 url: /cpp/parser/ods/ 
+description: Try our On-Premise document parser APIs to extract text and images from ODS file on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

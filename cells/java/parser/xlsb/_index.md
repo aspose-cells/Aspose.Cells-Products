@@ -2,6 +2,7 @@
 title:  
 weight: 5510
 url: /java/parser/xlsb/ 
+description: Try our On-Premise document parser APIs to extract text and images from XLSB file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

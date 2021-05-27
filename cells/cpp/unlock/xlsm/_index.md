@@ -2,6 +2,7 @@
 title:  
 weight: 1930
 url: /cpp/unlock/xlsm/ 
+description: Try our On-Premise document APIs to unlock password protected XLSM file on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

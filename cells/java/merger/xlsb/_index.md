@@ -2,6 +2,7 @@
 title:  
 weight: 5380
 url: /java/merger/xlsb/ 
+description: Try our On-Premise document merger APIs to combine XLSB documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

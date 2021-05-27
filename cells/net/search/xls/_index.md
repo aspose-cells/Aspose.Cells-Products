@@ -2,6 +2,7 @@
 title:  
 weight: 9740
 url: /net/search/xls/ 
+description: Try our On-Premise document APIs to search words with pattern in XLS file on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,7 @@
 title:  
 weight: 5630
 url: /java/search/csv/ 
+description: Integrate On-Premise document APIs to search words with pattern in CSV file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

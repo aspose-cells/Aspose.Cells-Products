@@ -2,6 +2,7 @@
 title:  
 weight: 1800
 url: /cpp/protect/xlsb/ 
+description: Try our On-Premise document APIs to lock XLSB file using password on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

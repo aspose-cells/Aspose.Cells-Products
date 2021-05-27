@@ -2,6 +2,7 @@
 title:  
 weight: 9500
 url: /net/metadata/ods/ 
+description: Try our On-Premise document metadata viewer or editing APIs to edit or view ODS format metadata on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

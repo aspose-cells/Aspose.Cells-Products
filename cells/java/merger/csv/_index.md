@@ -2,6 +2,7 @@
 title:  
 weight: 5320
 url: /java/merger/csv/ 
+description: Try our On-Premise document merger APIs to combine CSV documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

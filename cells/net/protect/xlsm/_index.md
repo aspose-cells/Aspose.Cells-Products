@@ -2,6 +2,7 @@
 title:  
 weight: 9610
 url: /net/protect/xlsm/ 
+description: Try our On-Premise document APIs to lock XLSM file using password on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

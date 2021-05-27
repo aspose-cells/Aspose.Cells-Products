@@ -2,6 +2,7 @@
 title:  
 weight: 1970
 url: /java/annotation/ods/ 
+description: Try our On-Premise document annotation APIs to delete ODS format annotations on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

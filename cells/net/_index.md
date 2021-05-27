@@ -2,6 +2,7 @@
 title: .NET Excel API | Process Spreadsheet Formats via .NET Core 
 weight: 9360
 url: /net/ 
+description: C# ASP.NET VB.NET library to work with Microsoft Excel documents. Create read write save and print Spreadsheet files . Convert to PDF or more formats
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

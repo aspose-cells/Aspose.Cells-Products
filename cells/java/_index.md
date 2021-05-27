@@ -2,6 +2,7 @@
 title: Java Excel API - Aspose 
 weight: 5310
 url: /java/ 
+description: Java Excel library for spreadsheet processing. Read write render and convert XLS XLSX XLSM ODS CSV TSV and more formats. Compatible with Windows Linux & Unix
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

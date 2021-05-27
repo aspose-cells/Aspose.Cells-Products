@@ -2,6 +2,7 @@
 title:  
 weight: 5830
 url: /java/watermark/xls/ 
+description: Try our On-Premise document APIs to add or remove watermark to XLS file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

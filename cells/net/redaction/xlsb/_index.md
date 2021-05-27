@@ -2,6 +2,7 @@
 title:  
 weight: 9650
 url: /net/redaction/xlsb/ 
+description: Try our On-Premise document redaction APIs to redact sensitive information in XLSB file on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

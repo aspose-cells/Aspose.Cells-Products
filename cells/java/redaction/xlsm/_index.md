@@ -2,6 +2,7 @@
 title:  
 weight: 5610
 url: /java/redaction/xlsm/ 
+description: Try our On-Premise document redaction APIs to redact sensitive information in XLSM file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

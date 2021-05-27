@@ -2,6 +2,7 @@
 title:  
 weight: 6230
 url: /net/conversion/excel-to-pdf/ 
+description: Convert Excel XLS, XLSM, XLSB, XLSX, SpreadsheetML, CSV, TSV and other formats to PDF.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

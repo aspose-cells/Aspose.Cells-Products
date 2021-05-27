@@ -2,6 +2,7 @@
 title:  
 weight: 5470
 url: /java/metadata/xlsm/ 
+description: Try our On-Premise document metadata editing or viewer APIs to edit or view XLSM format metadata on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

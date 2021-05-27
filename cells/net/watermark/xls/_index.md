@@ -2,6 +2,7 @@
 title:  
 weight: 9990
 url: /net/watermark/xls/ 
+description: Try our On-Premise document APIs to add or remove watermark to XLS file on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

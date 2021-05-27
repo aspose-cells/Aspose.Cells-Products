@@ -2,6 +2,7 @@
 title:  
 weight: 5700
 url: /java/splitter/ods/ 
+description: Try our On-Premise multi option document splitter APIs to split ODS documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

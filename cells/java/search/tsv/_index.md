@@ -2,6 +2,7 @@
 title:  
 weight: 5650
 url: /java/search/tsv/ 
+description: Integrate On-Premise document APIs to search words with pattern in TSV file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,7 @@
 title:  
 weight: 9790
 url: /net/splitter/xls/ 
+description: Try our On-Premise multi option document splitter APIs to split XLS documents on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

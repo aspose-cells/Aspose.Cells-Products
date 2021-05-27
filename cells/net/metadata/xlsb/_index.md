@@ -2,6 +2,7 @@
 title:  
 weight: 9510
 url: /net/metadata/xlsb/ 
+description: Try our On-Premise document metadata viewer or editing APIs to edit or view XLSB format metadata on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

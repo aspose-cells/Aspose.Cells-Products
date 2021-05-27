@@ -2,6 +2,7 @@
 title:  
 weight: 5870
 url: /net/annotation/xlsx/ 
+description: Try our On-Premise document annotation APIs to delete XLSX format annotations on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

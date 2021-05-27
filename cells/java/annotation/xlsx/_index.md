@@ -2,6 +2,7 @@
 title:  
 weight: 2000
 url: /java/annotation/xlsx/ 
+description: Try our On-Premise document annotation APIs to delete XLSX format annotations on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

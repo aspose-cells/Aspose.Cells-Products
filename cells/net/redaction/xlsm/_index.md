@@ -2,6 +2,7 @@
 title:  
 weight: 9660
 url: /net/redaction/xlsm/ 
+description: Try our On-Premise document redaction APIs to redact sensitive information in XLSM file on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

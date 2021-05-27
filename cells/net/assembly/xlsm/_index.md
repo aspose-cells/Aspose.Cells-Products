@@ -2,6 +2,7 @@
 title:  
 weight: 5910
 url: /net/assembly/xlsm/ 
+description: Try our On-Premise document report generation APIs to generate XLSM format reports on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

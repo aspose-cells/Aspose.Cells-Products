@@ -2,6 +2,7 @@
 title:  
 weight: 9390
 url: /net/merger/mhtml/ 
+description: Try our On-Premise document merger APIs to combine MHTML documents on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

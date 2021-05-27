@@ -2,6 +2,7 @@
 title:  
 weight: 9670
 url: /net/redaction/xls/ 
+description: Try our On-Premise document redaction APIs to redact sensitive information in XLS file on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

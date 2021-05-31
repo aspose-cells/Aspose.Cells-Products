@@ -1,5 +1,5 @@
 ---
-title:  
+title: XLSM document chart via C++ 
 weight: 60
 url: /cpp/chart/xlsm/ 
 description: Try our On-Premise document chart APIs to draw and convert chart or diagram in XLSM file on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.

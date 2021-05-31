@@ -1,6 +1,6 @@
 ---
-title:  
-weight: 2050
+title: XLSX document chart via Java 
+weight: 2140
 url: /java/chart/xlsx/ 
 description: Try our On-Premise document chart APIs to draw and convert chart or diagram in XLSX file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---

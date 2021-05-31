@@ -1,6 +1,6 @@
 ---
-title:  
-weight: 5670
+title: Search XLSB document without opening via Java 
+weight: 5760
 url: /java/search/xlsb/ 
 description: Integrate On-Premise document APIs to search words with pattern in XLSB file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---

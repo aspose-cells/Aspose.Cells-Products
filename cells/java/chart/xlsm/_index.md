@@ -1,6 +1,6 @@
 ---
-title:  
-weight: 2040
+title: XLSM document chart via Java 
+weight: 2130
 url: /java/chart/xlsm/ 
 description: Try our On-Premise document chart APIs to draw and convert chart or diagram in XLSM file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---

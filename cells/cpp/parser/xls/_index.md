@@ -1,5 +1,5 @@
 ---
-title:  
+title: Extract text and images from XLS document via C++ 
 weight: 1780
 url: /cpp/parser/xls/ 
 description: Try our On-Premise document parser APIs to extract text and images from XLS file on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.

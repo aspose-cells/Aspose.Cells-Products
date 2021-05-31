@@ -1,6 +1,6 @@
 ---
-title:  
-weight: 5650
+title: Search TSV document without opening via Java 
+weight: 5740
 url: /java/search/tsv/ 
 description: Integrate On-Premise document APIs to search words with pattern in TSV file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---

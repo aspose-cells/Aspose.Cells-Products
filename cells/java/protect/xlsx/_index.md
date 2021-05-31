@@ -1,6 +1,6 @@
 ---
-title:  
-weight: 5570
+title: Protect and lock XLSX document via Java 
+weight: 5660
 url: /java/protect/xlsx/ 
 description: Try our On-Premise document APIs to lock XLSX file using password on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---

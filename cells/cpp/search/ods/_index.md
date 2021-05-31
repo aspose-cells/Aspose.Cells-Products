@@ -1,6 +1,6 @@
 ---
-title:  
-weight: 1850
+title: Search ODS document without opening via C++ 
+weight: 1890
 url: /cpp/search/ods/ 
 description: Try our On-Premise document APIs to search words with pattern in ODS file on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
@@ -69,10 +69,10 @@ PM> Install-Package Aspose.Cells.Cpp
 ```cs
 
 // Source directory path.
-StringPtr srcDir = new String("SourcePath\");
+StringPtr srcDir = new String("SourcePath\\");
 
 // Output directory path.
-StringPtr outDir = new String("OutputPath\");
+StringPtr outDir = new String("OutputPath\\");
 
 // Load ODS file
 intrusive_ptr<IWorkbook>  wkb = Factory::CreateIWorkbook(srcDir->StringAppend(new String("sourceFile.ods")));

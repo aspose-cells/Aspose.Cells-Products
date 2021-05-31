@@ -1,6 +1,6 @@
 ---
-title:  
-weight: 5590
+title: Search and replace text in ODS document via Java 
+weight: 5680
 url: /java/redaction/ods/ 
 description: Try our On-Premise document redaction APIs to redact sensitive information in ODS file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---

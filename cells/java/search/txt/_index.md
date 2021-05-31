@@ -1,6 +1,6 @@
 ---
-title:  
-weight: 5660
+title: Search TXT document without opening via Java 
+weight: 5750
 url: /java/search/txt/ 
 description: Integrate On-Premise document APIs to search words with pattern in TXT file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---

@@ -1,6 +1,6 @@
 ---
-title:  
-weight: 2020
+title: ODS document chart via Java 
+weight: 2110
 url: /java/chart/ods/ 
 description: Try our On-Premise document chart APIs to draw and convert chart or diagram in ODS file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---

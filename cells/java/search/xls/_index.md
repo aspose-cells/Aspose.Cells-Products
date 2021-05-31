@@ -1,6 +1,6 @@
 ---
-title:  
-weight: 5690
+title: Search XLS document without opening via Java 
+weight: 5780
 url: /java/search/xls/ 
 description: Integrate On-Premise document APIs to search words with pattern in XLS file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---

@@ -1,6 +1,6 @@
 ---
-title:  
-weight: 2030
+title: XLSB document chart via Java 
+weight: 2120
 url: /java/chart/xlsb/ 
 description: Try our On-Premise document chart APIs to draw and convert chart or diagram in XLSB file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---

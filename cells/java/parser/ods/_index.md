@@ -1,6 +1,6 @@
 ---
-title:  
-weight: 5500
+title: Extract text and images from ODS document via Java 
+weight: 5590
 url: /java/parser/ods/ 
 description: Try our On-Premise document parser APIs to extract text and images from ODS file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---

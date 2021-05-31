@@ -1,6 +1,6 @@
 ---
-title:  
-weight: 5520
+title: Extract text and images from XLSM document via Java 
+weight: 5610
 url: /java/parser/xlsm/ 
 description: Try our On-Premise document parser APIs to extract text and images from XLSM file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---

@@ -1,6 +1,6 @@
 ---
-title:  
-weight: 1860
+title: Search TSV document without opening via C++ 
+weight: 1900
 url: /cpp/search/tsv/ 
 description: Try our On-Premise document APIs to search words with pattern in TSV file on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
@@ -69,10 +69,10 @@ PM> Install-Package Aspose.Cells.Cpp
 ```cs
 
 // Source directory path.
-StringPtr srcDir = new String("SourcePath\");
+StringPtr srcDir = new String("SourcePath\\");
 
 // Output directory path.
-StringPtr outDir = new String("OutputPath\");
+StringPtr outDir = new String("OutputPath\\");
 
 // Load TSV file
 intrusive_ptr<IWorkbook>  wkb = Factory::CreateIWorkbook(srcDir->StringAppend(new String("sourceFile.tsv")));

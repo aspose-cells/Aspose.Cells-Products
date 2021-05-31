@@ -1,5 +1,5 @@
 ---
-title:  
+title: XLS document chart via C++ 
 weight: 80
 url: /cpp/chart/xls/ 
 description: Try our On-Premise document chart APIs to draw and convert chart or diagram in XLS file on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.

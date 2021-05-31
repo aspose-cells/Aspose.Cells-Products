@@ -1,5 +1,5 @@
 ---
-title:  
+title: Protect and lock XLSX document via C++ 
 weight: 1820
 url: /cpp/protect/xlsx/ 
 description: Try our On-Premise document APIs to lock XLSX file using password on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.

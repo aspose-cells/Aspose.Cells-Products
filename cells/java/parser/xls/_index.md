@@ -1,6 +1,6 @@
 ---
-title:  
-weight: 5530
+title: Extract text and images from XLS document via Java 
+weight: 5620
 url: /java/parser/xls/ 
 description: Try our On-Premise document parser APIs to extract text and images from XLS file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---

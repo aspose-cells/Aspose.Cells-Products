@@ -26,7 +26,203 @@ description: Process Excel file formats via Node.js library. Read write render &
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="" description="" >}}
+{{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of Aspose.Cells for Node.js via Java capabilities." >}}
+<div class="diagram1 d1-nodejs">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-television">
+    </i>
+    Rendering
+   </header>
+   <ul>
+    <li>
+     Convert Chart to Image
+    </li>
+    <li>
+     Convert Worksheet to Image
+    </li>
+    <li>
+     Convert Spreadsheet to PDF
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-cogs">
+    </i>
+    Data Processing
+   </header>
+   <ul>
+    <li>
+     Charts
+    </li>
+    <li>
+     Formula Calculation
+    </li>
+    <li>
+     Smart Markers
+    </li>
+    <li>
+     Pivot Tables
+    </li>
+    <li>
+     Conditional Formatting
+    </li>
+   </ul>
+   <!--
+<header><i class="fa fa-table"> </i>Aspose.Cells GridWeb Control</header>
+<ul>
+<li>Supports JSP Web Application</li>
+<li>Supports Loading Excel Files</li>
+<li>Supports Saving Excel Files</li>
+<li>Porvides Editing Capabilities</li>
+<li>Compatible with Modern Browsers</li>
+</ul>
+-->
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Spreadsheet API JavaScript" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-nodejs.png"/>
+  <header>
+   Aspose.Cells
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    Node.js via Java
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.Cells for Node.js via Java is server-side JavaScript API based on Node.js. It can run on Windows, Unix/Linux & Mac platforms with JDK 1.7 or above." >}}
+<div class="diagram1 d1-nodejs">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-cubes">
+    </i>
+    Java Runtime Environment
+   </header>
+   <!--
+<ul>
+<li>JSP/JSF Application</li>
+<li>Desktop Application</li>
+</ul>
+-->
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Excel API JavaScript" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-nodejs.png"/>
+  <header>
+   Aspose.Cells
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    Node.js via Java
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Cells for Node.js via Java supports popular spreadsheet file formats along with the most commonly used image & fixed-layout formats." >}}
+<div class="diagram1 d2 d1-nodejs">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-arrows-v">
+    </i>
+    Input/Output
+   </header>
+   <ul>
+    <li>
+     <b>
+      Microsoft Excel:
+     </b>
+     XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+    </li>
+    <li>
+     <b>
+      OpenOffice:
+     </b>
+     ODS
+    </li>
+    <li>
+     <b>
+      Text:
+     </b>
+     CSV, Tab-Delimited, TXT
+    </li>
+    <li>
+     <b>
+      Web:
+     </b>
+     HTML, MHTML
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-mail-forward">
+    </i>
+    Output Only
+   </header>
+   <ul>
+    <li>
+     <b>
+      Fixed Layout:
+     </b>
+     PDF, XPS
+    </li>
+    <li>
+     <b>
+      Images:
+     </b>
+     JPEG, PNG, BMP, SVG, TIFF, GIF, EMF
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Node.js Excel Spreadsheet Library" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-nodejs.png"/>
+  <header>
+   Aspose.Cells
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    Node.js via Java
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
 {{< /blocks/products/pf/carousel-item >}}
 
 {{< /blocks/products/pf/carousel >}}

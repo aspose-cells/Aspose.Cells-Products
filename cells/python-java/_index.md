@@ -22,7 +22,206 @@ description: Python spreadsheet library to create read write and parse Excel fil
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="" description="" >}}
+{{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of API capabilities." >}}
+<div class="diagram1 d1-python">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-refresh">
+    </i>
+    Import &amp; Export
+   </header>
+   <ul>
+    <li>
+     Arrays
+    </li>
+    <li>
+     ResultSet
+    </li>
+    <li>
+     Collections
+    </li>
+   </ul>
+   <header>
+    <i class="fa fa-cog">
+    </i>
+    Rendering
+   </header>
+   <ul>
+    <li>
+     Chart to Image
+    </li>
+    <li>
+     Worksheet to Image
+    </li>
+    <li>
+     Spreadsheet to PDF
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-table">
+    </i>
+    Data Processing
+   </header>
+   <ul>
+    <li>
+     Apply Formatting
+    </li>
+    <li>
+     Apply Formula
+    </li>
+    <li>
+     Create Charts
+    </li>
+    <li>
+     Summarize
+    </li>
+    <li>
+     Smart Markers
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Python Spreadsheet API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-python-via-java.png"/>
+  <header>
+   Aspose.Cells
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    Python via Java
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.Cells for Python via Java is available for." >}}
+<div class="diagram1 d1-python">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header style="padding-left: 0px;">
+    <i class="fa fa-cogs">
+    </i>
+    Python Runtime Environment
+   </header>
+   <!--<ul>
+<li>Application</li>
+</ul>-->
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Excel API Android" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-python-via-java.png"/>
+  <header>
+   Aspose.Cells
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    Python via Java
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Python excel library supports the popular Microsoft Excel formats,  fixed-layout formats, and images." >}}
+<div class="diagram1 d2 d1-python">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-arrows-v">
+    </i>
+    Input/Output
+   </header>
+   <ul>
+    <li>
+     <b>
+      Microsoft Excel:
+     </b>
+     XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+    </li>
+    <li>
+     <b>
+      OpenOffice:
+     </b>
+     ODS
+    </li>
+    <li>
+     <b>
+      Text:
+     </b>
+     CSV, TSV, TXT
+    </li>
+    <li>
+     <b>
+      Web:
+     </b>
+     HTML, MHTML
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-mail-forward">
+    </i>
+    Output Only
+   </header>
+   <ul>
+    <li>
+     <b>
+      Fixed Layout:
+     </b>
+     PDF, PDF/A, XPS
+    </li>
+    <li>
+     <b>
+      Images:
+     </b>
+     JPEG, PNG, BMP, SVG, EMF
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Python Excel Spreadsheet Library" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-python-via-java.png"/>
+  <header>
+   Aspose.Cells
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    Python via Java
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
 {{< /blocks/products/pf/carousel-item >}}
 
 {{< /blocks/products/pf/carousel >}}
@@ -145,71 +344,38 @@ description: Python spreadsheet library to create read write and parse Excel fil
     </p>
    </div>
    <!--
-
 <div class="col-lg-4"><em class="fa fa-support ico-blue fa-2x col-lg-2"> </em>
-
 <p class="col-lg-10">Support for CSV (comma-separated values) format</p>
-
 </div>
-
-
 
 <div class="col-lg-4"><em class="fa fa-file-text-o ico-blue fa-2x col-lg-2"> </em>
-
 <p class="col-lg-10">Adding a copy of an existing worksheet (with full contents, images and charts etc.) to a new file.</p>
-
 </div>
-
-
 
 <div class="col-lg-4"><em class="fa fa-commenting ico-blue fa-2x col-lg-2"> </em>
-
 <p class="col-lg-10">Create comments</p>
-
 </div>
-
 <div class="col-lg-4"><em class="fa fa-filter ico-blue fa-2x col-lg-2"> </em>
-
 <p class="col-lg-10">Auto-filters and page breaksI</p>
-
 </div>
-
 <div class="col-lg-4"><em class="fa fa-subscript  ico-blue fa-2x col-lg-2"> </em>
-
 <p class="col-lg-10">Set complex formulas</p>
-
 </div>
-
 <div class="col-lg-4"><em class="fa fa-align-center ico-blue fa-2x col-lg-2"> </em>
-
 <p class="col-lg-10">Support conditional formatting</p>
-
 </div>
-
 <div class="col-lg-4"><em class="fa fa-shield  ico-blue fa-2x col-lg-2"> </em>
-
 <p class="col-lg-10">Working with the protection options introduced in Microsoft Excel XP</p>
-
 </div>
-
 <div class="col-lg-4"><em class="fa fa-sort-amount-desc ico-blue fa-2x col-lg-2"> </em>
-
 <p class="col-lg-10">Manipulate named ranges</p>
-
 </div>
-
 <div class="col-lg-4"><em class="fa fa-table ico-blue fa-2x col-lg-2"> </em>
-
 <p class="col-lg-10">Creating PivotTables</p>
-
 </div>
-
 <div class="col-lg-4"><em class="fa fa-html5 ico-blue fa-2x col-lg-2"> </em>
-
 <p class="col-lg-10">Saving to HTML files or streams</p>
-
 </div>
-
 -->
    <div class="col-lg-12">
     <h2 class="h2title">
@@ -223,39 +389,24 @@ description: Python spreadsheet library to create read write and parse Excel fil
       Save spreadsheet in different formats - Java
      </h3>
      <pre><code class="java">// load file to be converted
-
 Workbook wkbk= new Workbook(SD_PATH + "template.xls");
-
 // Convert XLS to PDF, XPS and HTML
-
 wkbk.save(SD_PATH + "poutput.pdf", SaveFormat.PDF);
-
 wkbk.save(SD_PATH + "xoutput.xps", SaveFormat.XPS);
-
 wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
     </div>
    </div>
    <!--<div class="col-lg-12">
-
 <h2 class="h2title">Manipulate Excel Files Formatting</h2>
-
 <p>Aspose.Cells for Android via Java gives you complete freedom and flexibility to furnish your spreadsheets with all kinds of visual effects. The API allows you to apply different fonts with attributes, cell styles (alignment, indentation, rotation, borders, shading and coloring, protection, text wrapping and shrinking) and all types of number formats. Similarly, charts and graphics are visually appealing and can give your spreadsheet a professional look. Aspose.Cells for Android via Java provides a comprehensive set of APIs for creating and manipulating all of the standard and custom chart types. Moreover, you may add different types of drawing objects, such as comments, pictures, OLE objects, shapes and controls to the cells.</p>
-
 </div>
-
 <div class="col-lg-12">
-
 <h2 class="h2title">Convert Spreadsheet Objects to Different Formats</h2>
-
 <p>Aspose.Cells for Python via Java offer some distinctive features such as converting charts to images & PDF, worksheets to images and spreadsheets to PDF document format. The conversion process is greatly flexible thus allowing you to choose a number of options for the conversion, such as re-sampling of images while converting spreadsheets to PDF or controlling the resultant image dimensions when rendering worksheets & charts to image formats.</p>
-
 </div>-->
    <!--<div class="col-lg-12">
-
 <h2 class="h2title">Spreadsheet API Formula Calculation Engine</h2>
-
 <p>Python sheets API provides a powerful Formula Calculation Engine that supports almost all of the standard and advanced Microsoft Excel formulas and functions. Formula calculation engine makes it easy to read, set and calculate the results of the built-in or add-in type, array and R1C1 reference style formulas.</p>
-
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
@@ -266,19 +417,12 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
     </p>
    </div>
    <!--<div class="col-lg-12">
-
 <h2 class="h2title">Excel Worksheet Security Features</h2>
-
 <p>Aspose.Cells for Android via Java offers a wide range of security features including support for Microsoft Excel 2007 XLSX file encryption and decryption, protecting worksheet contents, objects & scenarios, and hiding or showing worksheets.</p>
-
 </div>
-
 <div class="col-lg-12">
-
 <h2 class="h2title">Manipulate Worksheet Rows & Columns</h2>
-
 <p>Aspose.Cells for Android via Java API allows you to manipulate rows and columns in many different ways. You can easily adjust row height and column width, auto size the width & height of cells according to the contents, insert or delete, hide or show and group or ungroup rows & columns.</p>
-
 </div> -->
    <div class="col-lg-12">
     <h2 class="h2title">
@@ -297,15 +441,10 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
     </p>
    </div>
    <!--
-
 <div class="col-lg-12">
-
 <h2 class="h2title">Microsoft Office Automation – Not Needed</h2>
-
 <p>Aspose.Cells for Android via Java is built using managed code that never needs Microsoft Office or Microsoft Excel to work with Excel document formats. It is a perfect Microsoft Excel automation alternative in terms of supported features, security, stability, scalability, speed and price.</p>
-
 </div>
-
 -->
   </div>
  </div>

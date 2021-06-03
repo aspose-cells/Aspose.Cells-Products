@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to TSV via C++ application 
-weight: 1220
+weight: 3190
 url: /cpp/conversion/xls-to-tsv/ 
 description: Try our On-Premise APIs for your document conversion using C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise APIs for your document conversion using C++ Runt
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLS to TSV Using C++" %}}
 
- In order to convert XLS to TSV, weвЂ™ll use
+ In order to convert XLS to TSV, we’ll use
  [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
  API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C++ platform. You can download its latest version directly, just open
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
@@ -61,7 +61,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Convert XLS to TSV - C++вЂЋ" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Convert XLS to TSV - C++‎" offSpacer="" %}}
 
 ```cs
 // Load the XLS.
@@ -89,7 +89,7 @@ wkb->Save(u"convertedFile.tsv", SaveFormat_Tsv);
 
     {{% blocks/products/pf/agp/content h2="C++ Excel File Manipulation Library" %}}
 
- Aspose.Cells API can be used to create, edit, convert and render Microsoft Excel formats to different formats. Moreover, it can be used for comprehensive charting, scalable reporting and reliable calculations within software applications. Aspose.Cells is a standalone API and it does not require any software like Microsoft or OpenOffice. вЂЋ
+ Aspose.Cells API can be used to create, edit, convert and render Microsoft Excel formats to different formats. Moreover, it can be used for comprehensive charting, scalable reporting and reliable calculations within software applications. Aspose.Cells is a standalone API and it does not require any software like Microsoft or OpenOffice. ‎
 
 
 

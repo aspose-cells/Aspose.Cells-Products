@@ -1,6 +1,6 @@
 ---
 title: Convert XLSX to EMF via Java 
-weight: 4510
+weight: 1730
 url: /java/conversion/xlsx-to-emf/ 
 description: Try our On-Premise APIs for your document conversion on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise APIs for your document conversion on Java Runtim
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSX to EMF Using Java" %}}
 
- In order to render XLSX to EMF, weвЂ™ll use
+ In order to render XLSX to EMF, we’ll use
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
  API which is a feature-rich, powerful and easy to use conversion API for Java platform. You can download its latest version directly from
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
@@ -77,7 +77,7 @@ description: Try our On-Premise APIs for your document conversion on Java Runtim
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Convert XLSX to EMF - JavaвЂЋ" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Convert XLSX to EMF - Java‎" offSpacer="" %}}
 
 ```cs
 // load the XLSX file to be rendered
@@ -111,7 +111,7 @@ renderer.toImage(0, "output.emf");
 
     {{% blocks/products/pf/agp/content h2="Java Spreadsheet Manipulation Library" %}}
 
- Aspose.Cells API can be used to create, edit, convert and render Microsoft Excel formats to different formats. Moreover, it can be used for comprehensive charting, scalable reporting and reliable calculations within software applications. Aspose.Cells is a standalone API and it does not require any software like Microsoft or OpenOffice. вЂЋ
+ Aspose.Cells API can be used to create, edit, convert and render Microsoft Excel formats to different formats. Moreover, it can be used for comprehensive charting, scalable reporting and reliable calculations within software applications. Aspose.Cells is a standalone API and it does not require any software like Microsoft or OpenOffice. ‎
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: View XLT File Formats via .NET 
-weight: 10040
+weight: 3610
 url: /net/viewer/xlt/ 
 description: Try our On-Premise APIs to load, render and display XLT documents on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise APIs to load, render and display XLT documents o
 
 {{% blocks/products/pf/agp/content h2="How to View XLT File Using C#" %}}
 
- In order to view XLT file, weвЂ™ll use
+ In order to view XLT file, we’ll use
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
  API which is a feature-rich, powerful and easy to use API for C# platform to be used with any Viewer. Open
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
@@ -94,7 +94,7 @@ System.Diagnostics.Process.Start(output);
 
     {{% blocks/products/pf/agp/content h2="About Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API can be used to create, edit, convert and render Microsoft Excel formats to different formats. Moreover, it can be used for comprehensive charting, scalable reporting and reliable calculations within software applications. Aspose.Cells is a standalone API and it does not require any software like Microsoft or OpenOffice. вЂЋ
+ Aspose.Cells API can be used to create, edit, convert and render Microsoft Excel formats to different formats. Moreover, it can be used for comprehensive charting, scalable reporting and reliable calculations within software applications. Aspose.Cells is a standalone API and it does not require any software like Microsoft or OpenOffice. ‎
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: Watermark XLSM document via Java 
-weight: 5910
+weight: 7680
 url: /java/watermark/xlsm/ 
 description: Try our On-Premise document APIs to add or remove watermark to XLSM file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise document APIs to add or remove watermark to XLSM
 
 {{% blocks/products/pf/agp/content h2="How to Watermark XLSM File Using Java" %}}
 
- In order to watermark XLSM file, weвЂ™ll use
+ In order to watermark XLSM file, we’ll use
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
  API which is a feature-rich, powerful and easy to use warermarking API for Java platform. You can download its latest version directly from
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
@@ -118,7 +118,7 @@ workbook.save(dataDir + "AWArtWToWorksheet_out.xlsm");
 
     {{% blocks/products/pf/agp/content h2="About Aspose.Cells for Java API" %}}
 
- Aspose.Cells API can be used to create, edit, convert and render Microsoft Excel formats to different formats. Moreover, it can be used for comprehensive charting, scalable reporting and reliable calculations within software applications. Aspose.Cells is a standalone API and it does not require any software like Microsoft or OpenOffice. вЂЋ
+ Aspose.Cells API can be used to create, edit, convert and render Microsoft Excel formats to different formats. Moreover, it can be used for comprehensive charting, scalable reporting and reliable calculations within software applications. Aspose.Cells is a standalone API and it does not require any software like Microsoft or OpenOffice. ‎
 
 
 

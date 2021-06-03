@@ -1,6 +1,6 @@
 ---
 title: Unlock XLSB document via Java 
-weight: 5850
+weight: 5860
 url: /java/unlock/xlsb/ 
 description: Try our On-Premise document APIs to unlock password protected XLSB file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise document APIs to unlock password protected XLSB 
 
 {{% blocks/products/pf/agp/content h2="How to Remove Protection XLSB File Using Java" %}}
 
- In order to unlock XLSB file, weвЂ™ll use
+ In order to unlock XLSB file, we’ll use
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
  API which is a feature-rich, powerful and easy to use protection API for Java platform. You can download its latest version directly from
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
@@ -103,7 +103,7 @@ wkb.save("Worksheet_out.xlsb", FileFormatType.EXCEL_97_TO_2003);
 
     {{% blocks/products/pf/agp/content h2="About Aspose.Cells for Java API" %}}
 
- Aspose.Cells API can be used to create, edit, convert and render Microsoft Excel formats to different formats. Moreover, it can be used for comprehensive charting, scalable reporting and reliable calculations within software applications. Aspose.Cells is a standalone API and it does not require any software like Microsoft or OpenOffice. вЂЋ
+ Aspose.Cells API can be used to create, edit, convert and render Microsoft Excel formats to different formats. Moreover, it can be used for comprehensive charting, scalable reporting and reliable calculations within software applications. Aspose.Cells is a standalone API and it does not require any software like Microsoft or OpenOffice. ‎
 
 
 

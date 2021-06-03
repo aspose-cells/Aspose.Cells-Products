@@ -1,6 +1,6 @@
 ---
 title: Excel Spreadsheet PHP API - Aspose 
-weight: 10100
+weight: 3660
 url: /php-java/ 
 description: PHP Excel spreadsheet API to read write and convert XLS XLSX CSV TSV HTML ODS SpreadsheetML & all Excel 97-2016 formats. Export Spreadsheets to multiple formats
 ---
@@ -68,14 +68,23 @@ description: PHP Excel spreadsheet API to read write and convert XLS XLSX CSV TS
     </li>
    </ul>
    <!--
+
 <header><i class="fa fa-table"> </i>Aspose.Cells GridWeb Control</header>
+
 <ul>
+
 <li>Supports JSP Web Application</li>
+
 <li>Supports Loading Excel Files</li>
+
 <li>Supports Saving Excel Files</li>
+
 <li>Porvides Editing Capabilities</li>
+
 <li>Compatible with Modern Browsers</li>
+
 </ul>
+
 -->
   </div>
   <!--/right-->
@@ -125,10 +134,15 @@ description: PHP Excel spreadsheet API to read write and convert XLS XLSX CSV TS
     macOS
    </header>
    <!--
+
 <ul>
+
 <li>JSP/JSF Application</li>
+
 <li>Desktop Application</li>
+
 </ul>
+
 -->
   </div>
   <!--/right-->
@@ -365,11 +379,17 @@ description: PHP Excel spreadsheet API to read write and convert XLS XLSX CSV TS
       Save spreadsheet in multiple formats - PHP
      </h3>
      <pre><code class="php">// load document to be converted
+
 $wkbk = new Workbook("template.xlsx");
 
+
+
 // save in various formats
+
 $wkbk-&gt;save("output.pdf", SaveFormat::PDF);
+
 $wkbk-&gt;save("output.xps", SaveFormat::XPS);
+
 $wkbk-&gt;save("output.html", SaveFormat::HTML);</code></pre>
     </div>
    </div>

@@ -1,6 +1,6 @@
 ---
 title: Node.js APIs for Excel Spreadsheets - Aspose 
-weight: 10090
+weight: 3120
 url: /nodejs-java/ 
 description: Process Excel file formats via Node.js library. Read write render & convert XLS XLSX XLSB XLTX XLTM XLSM XML ODS CSV and more formats via Node.js on Windows, macOS & Linux
 ---
@@ -72,14 +72,23 @@ description: Process Excel file formats via Node.js library. Read write render &
     </li>
    </ul>
    <!--
+
 <header><i class="fa fa-table"> </i>Aspose.Cells GridWeb Control</header>
+
 <ul>
+
 <li>Supports JSP Web Application</li>
+
 <li>Supports Loading Excel Files</li>
+
 <li>Supports Saving Excel Files</li>
+
 <li>Porvides Editing Capabilities</li>
+
 <li>Compatible with Modern Browsers</li>
+
 </ul>
+
 -->
   </div>
   <!--/right-->
@@ -117,10 +126,15 @@ description: Process Excel file formats via Node.js library. Read write render &
     Java Runtime Environment
    </header>
    <!--
+
 <ul>
+
 <li>JSP/JSF Application</li>
+
 <li>Desktop Application</li>
+
 </ul>
+
 -->
   </div>
   <!--/right-->

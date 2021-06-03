@@ -1,6 +1,6 @@
 ---
 title: Protect and lock XLSX document via Java 
-weight: 5660
+weight: 1870
 url: /java/protect/xlsx/ 
 description: Try our On-Premise document APIs to lock XLSX file using password on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise document APIs to lock XLSX file using password o
 
 {{% blocks/products/pf/agp/content h2="How to Secure XLSX File Using Java" %}}
 
- In order to protect XLSX file, weвЂ™ll use
+ In order to protect XLSX file, we’ll use
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
  API which is a feature-rich, powerful and easy to use encryption API for Java platform. You can download its latest version directly from
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
@@ -51,7 +51,7 @@ description: Try our On-Premise document APIs to lock XLSX file using password o
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Steps toВ Protect XLSX Files via Java" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Steps to Protect XLSX Files via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -105,7 +105,7 @@ wkb.save("lockedFile.xlsx");
 
 {{% blocks/products/pf/agp/content h2="About Aspose.Cells for Java API" %}}
 
- Aspose.Cells API can be used to create, edit, convert and render Microsoft Excel formats to different formats. Moreover, it can be used for comprehensive charting, scalable reporting and reliable calculations within software applications. Aspose.Cells is a standalone API and it does not require any software like Microsoft or OpenOffice. вЂЋ
+ Aspose.Cells API can be used to create, edit, convert and render Microsoft Excel formats to different formats. Moreover, it can be used for comprehensive charting, scalable reporting and reliable calculations within software applications. Aspose.Cells is a standalone API and it does not require any software like Microsoft or OpenOffice. ‎
 
 
 

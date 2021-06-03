@@ -1,6 +1,6 @@
 ---
 title: Generate Reports in ODS Files via .NET 
-weight: 5980
+weight: 520
 url: /net/assembly/ods/ 
 description: Try our On-Premise document report generation APIs to generate ODS format reports on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise document report generation APIs to generate ODS 
 
 {{% blocks/products/pf/agp/content h2="How to Generate ODS based Reports Using C#" %}}
 
- In order to create ODS reports, weвЂ™ll use
+ In order to create ODS reports, we’ll use
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
  API which is a feature-rich, powerful and easy to use report generation API for C# platform. Open
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
@@ -98,7 +98,7 @@ PM> Install-Package Aspose.Cells
 
     {{% blocks/products/pf/agp/content h2="About Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API can be used to create, edit, convert and render Microsoft Excel formats to different formats. Moreover, it can be used for comprehensive charting, scalable reporting and reliable calculations within software applications. Aspose.Cells is a standalone API and it does not require any software like Microsoft or OpenOffice. вЂЋ
+ Aspose.Cells API can be used to create, edit, convert and render Microsoft Excel formats to different formats. Moreover, it can be used for comprehensive charting, scalable reporting and reliable calculations within software applications. Aspose.Cells is a standalone API and it does not require any software like Microsoft or OpenOffice. ‎
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: Edit or View XLSM Files Metadata via Java 
-weight: 5560
+weight: 9030
 url: /java/metadata/xlsm/ 
 description: Try our On-Premise document metadata editing or viewer APIs to edit or view XLSM format metadata on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise document metadata editing or viewer APIs to edit
 
 {{% blocks/products/pf/agp/content h2="How to Extract XLSM Metadata Using Java" %}}
 
- In order to get XLSM file metadata, weвЂ™ll use
+ In order to get XLSM file metadata, we’ll use
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
  API which is a feature-rich, powerful and easy to use metadata API for Java platform. You can download its latest version directly from
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
@@ -113,7 +113,7 @@ System.out.println(w.getCustomDocumentProperties().get("test"));
 
     {{% blocks/products/pf/agp/content h2="About Aspose.Cells for Java API" %}}
 
- Aspose.Cells API can be used to create, edit, convert and render Microsoft Excel formats to different formats. Moreover, it can be used for comprehensive charting, scalable reporting and reliable calculations within software applications. Aspose.Cells is a standalone API and it does not require any software like Microsoft or OpenOffice. вЂЋ
+ Aspose.Cells API can be used to create, edit, convert and render Microsoft Excel formats to different formats. Moreover, it can be used for comprehensive charting, scalable reporting and reliable calculations within software applications. Aspose.Cells is a standalone API and it does not require any software like Microsoft or OpenOffice. ‎
 
 
 

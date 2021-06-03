@@ -1,6 +1,6 @@
 ---
 title: Protect and lock XLSX document via C++ 
-weight: 1820
+weight: 1140
 url: /cpp/protect/xlsx/ 
 description: Try our On-Premise document APIs to lock XLSX file using password on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise document APIs to lock XLSX file using password o
 
 {{% blocks/products/pf/agp/content h2="How to Secure XLSX File Using C++" %}}
 
- In order to protect XLSX file, weвЂ™ll use
+ In order to protect XLSX file, we’ll use
  [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
  API which is a feature-rich, powerful and easy to use document encryption API for C++ platform. You can download its latest version directly, just open
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
@@ -35,7 +35,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Steps toВ Protect XLSX Files via C++" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Steps to Protect XLSX Files via C++" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -94,7 +94,7 @@ workbook->Save(outDir->StringAppend(new String("output.xlsx")));
 
 {{% blocks/products/pf/agp/content h2="About Aspose.Cells for C++ API" %}}
 
- Aspose.Cells API can be used to create, edit, convert and render Microsoft Excel formats to different formats. Moreover, it can be used for comprehensive charting, scalable reporting and reliable calculations within software applications. Aspose.Cells is a standalone API and it does not require any software like Microsoft or OpenOffice. вЂЋ
+ Aspose.Cells API can be used to create, edit, convert and render Microsoft Excel formats to different formats. Moreover, it can be used for comprehensive charting, scalable reporting and reliable calculations within software applications. Aspose.Cells is a standalone API and it does not require any software like Microsoft or OpenOffice. ‎
 
 
 

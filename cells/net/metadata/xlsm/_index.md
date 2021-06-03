@@ -1,6 +1,6 @@
 ---
 title: View or Edit XLSM Files Metadata via .NET 
-weight: 9610
+weight: 5590
 url: /net/metadata/xlsm/ 
 description: Try our On-Premise document metadata viewer or editing APIs to edit or view XLSM format metadata on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise document metadata viewer or editing APIs to edit
 
 {{% blocks/products/pf/agp/content h2="How to Extract XLSM Metadata Using C#" %}}
 
- In order to extract XLSM metadata, weвЂ™ll use
+ In order to extract XLSM metadata, we’ll use
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
  API which is a feature-rich, powerful and easy to use document metadata API for C# platform. Open
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
@@ -100,7 +100,7 @@ foreach (Aspose.Cells.Properties.DocumentProperty property in book.Worksheets.Bu
 
     {{% blocks/products/pf/agp/content h2="About Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API can be used to create, edit, convert and render Microsoft Excel formats to different formats. Moreover, it can be used for comprehensive charting, scalable reporting and reliable calculations within software applications. Aspose.Cells is a standalone API and it does not require any software like Microsoft or OpenOffice. вЂЋ
+ Aspose.Cells API can be used to create, edit, convert and render Microsoft Excel formats to different formats. Moreover, it can be used for comprehensive charting, scalable reporting and reliable calculations within software applications. Aspose.Cells is a standalone API and it does not require any software like Microsoft or OpenOffice. ‎
 
 
 

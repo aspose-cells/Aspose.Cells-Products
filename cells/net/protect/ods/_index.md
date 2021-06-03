@@ -1,6 +1,6 @@
 ---
 title: Protect and lock ODS document via .NET 
-weight: 9680
+weight: 5580
 url: /net/protect/ods/ 
 description: Try our On-Premise document APIs to lock ODS file using password on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise document APIs to lock ODS file using password on
 
 {{% blocks/products/pf/agp/content h2="How to Protect ODS File Using C#" %}}
 
- In order to protect ODS file, weвЂ™ll use
+ In order to protect ODS file, we’ll use
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
  API which is a feature-rich, powerful and easy to use document protection API for C# platform. Open
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
@@ -99,7 +99,7 @@ book.Save("protected.ods");
 
     {{% blocks/products/pf/agp/content h2="About Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API can be used to create, edit, convert and render Microsoft Excel formats to different formats. Moreover, it can be used for comprehensive charting, scalable reporting and reliable calculations within software applications. Aspose.Cells is a standalone API and it does not require any software like Microsoft or OpenOffice. вЂЋ
+ Aspose.Cells API can be used to create, edit, convert and render Microsoft Excel formats to different formats. Moreover, it can be used for comprehensive charting, scalable reporting and reliable calculations within software applications. Aspose.Cells is a standalone API and it does not require any software like Microsoft or OpenOffice. ‎
 
 
 

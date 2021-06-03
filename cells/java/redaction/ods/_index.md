@@ -1,6 +1,6 @@
 ---
 title: Search and replace text in ODS document via Java 
-weight: 5680
+weight: 9210
 url: /java/redaction/ods/ 
 description: Try our On-Premise document redaction APIs to redact sensitive information in ODS file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise document redaction APIs to redact sensitive info
 
 {{% blocks/products/pf/agp/content h2="How to Redact ODS File Using Java" %}}
 
- In order to redact ODS file, weвЂ™ll use
+ In order to redact ODS file, we’ll use
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
  API which is a feature-rich, powerful and easy to use redaction API for Java platform. You can download its latest version directly from
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
@@ -51,13 +51,13 @@ description: Try our On-Premise document redaction APIs to redact sensitive info
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="StepsВ to Redact ODS Files in Java" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Steps to Redact ODS Files in Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- A basicВ documentВ search and replace text in contents, comments or metadata with
+ A basic document search and replace text in contents, comments or metadata with
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- APIs can be done with justВ few lines of code.
+ APIs can be done with just few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -85,7 +85,7 @@ description: Try our On-Premise document redaction APIs to redact sensitive info
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="RedactВ ODS Files - Java" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Redact ODS Files - Java" offSpacer="" %}}
 
 ```cs
 Workbook workbook = new Workbook(dataDir + "sourceFile.ods");
@@ -133,7 +133,7 @@ workbook.save(dataDir + "output.ods");
 
 {{% blocks/products/pf/agp/content h2="About Aspose.Cells for Java API" %}}
 
- Aspose.Cells API can be used to create, edit, convert and render Microsoft Excel formats to different formats. Moreover, it can be used for comprehensive charting, scalable reporting and reliable calculations within software applications. Aspose.Cells is a standalone API and it does not require any software like Microsoft or OpenOffice. вЂЋ
+ Aspose.Cells API can be used to create, edit, convert and render Microsoft Excel formats to different formats. Moreover, it can be used for comprehensive charting, scalable reporting and reliable calculations within software applications. Aspose.Cells is a standalone API and it does not require any software like Microsoft or OpenOffice. ‎
 
 
 
@@ -141,7 +141,7 @@ workbook.save(dataDir + "output.ods");
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-    {{< blocks/products/pf/agp/demobox sectionTitle="Online ODSВ Redaction Live Demos" sectionDescription="Search and replace text in contents, comments or metadata in ODS documents right now by visiting our [Live Demos website](https://products.aspose.app/cells/redaction). The live demo has the following benefits" >}}
+    {{< blocks/products/pf/agp/demobox sectionTitle="Online ODS Redaction Live Demos" sectionDescription="Search and replace text in contents, comments or metadata in ODS documents right now by visiting our [Live Demos website](https://products.aspose.app/cells/redaction). The live demo has the following benefits" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your ODS files." >}}

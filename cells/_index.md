@@ -1,6 +1,6 @@
 ---
 title: On Premise, Cloud & App Based Excel File Format Solution 
-weight: 30
+weight: 7730
 url: /
 description: Create Excel file manipulation applications using On Premise or Cloud APIs, or simply use cross-platform apps to view, compare, inspect or convert Excel files.
 ---

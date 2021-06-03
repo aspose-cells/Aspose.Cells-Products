@@ -1,6 +1,6 @@
 ---
 title: Generate Reports in XLS Files via Java 
-weight: 2100
+weight: 1090
 url: /java/assembly/xls/ 
 description: Try our On-Premise document report creation APIs to create XLS format reports on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise document report creation APIs to create XLS form
 
 {{% blocks/products/pf/agp/content h2="How to Generate XLS Reports Using Java" %}}
 
- In order to create XLS file reports, weвЂ™ll use
+ In order to create XLS file reports, we’ll use
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
  API which is a feature-rich, powerful and easy to use assembly API for Java platform. You can download its latest version directly from
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
@@ -108,7 +108,7 @@ System.out.println("File saved");
 
     {{% blocks/products/pf/agp/content h2="About Aspose.Cells for Java API" %}}
 
- Aspose.Cells API can be used to create, edit, convert and render Microsoft Excel formats to different formats. Moreover, it can be used for comprehensive charting, scalable reporting and reliable calculations within software applications. Aspose.Cells is a standalone API and it does not require any software like Microsoft or OpenOffice. вЂЋ
+ Aspose.Cells API can be used to create, edit, convert and render Microsoft Excel formats to different formats. Moreover, it can be used for comprehensive charting, scalable reporting and reliable calculations within software applications. Aspose.Cells is a standalone API and it does not require any software like Microsoft or OpenOffice. ‎
 
 
 

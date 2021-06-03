@@ -1,6 +1,6 @@
 ---
 title: Edit or View XLSX Files Metadata via Java 
-weight: 5570
+weight: 1240
 url: /java/metadata/xlsx/ 
 description: Try our On-Premise document metadata editing or viewer APIs to edit or view XLSX format metadata on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise document metadata editing or viewer APIs to edit
 
 {{% blocks/products/pf/agp/content h2="How to Extract XLSX Metadata Using Java" %}}
 
- In order to get XLSX file metadata, weвЂ™ll use
+ In order to get XLSX file metadata, we’ll use
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
  API which is a feature-rich, powerful and easy to use metadata API for Java platform. You can download its latest version directly from
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
@@ -113,7 +113,7 @@ System.out.println(w.getCustomDocumentProperties().get("test"));
 
     {{% blocks/products/pf/agp/content h2="About Aspose.Cells for Java API" %}}
 
- Aspose.Cells API can be used to create, edit, convert and render Microsoft Excel formats to different formats. Moreover, it can be used for comprehensive charting, scalable reporting and reliable calculations within software applications. Aspose.Cells is a standalone API and it does not require any software like Microsoft or OpenOffice. вЂЋ
+ Aspose.Cells API can be used to create, edit, convert and render Microsoft Excel formats to different formats. Moreover, it can be used for comprehensive charting, scalable reporting and reliable calculations within software applications. Aspose.Cells is a standalone API and it does not require any software like Microsoft or OpenOffice. ‎
 
 
 

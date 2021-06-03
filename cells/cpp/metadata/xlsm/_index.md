@@ -1,6 +1,6 @@
 ---
 title: Edit or View XLSM Document Metadata via C++ 
-weight: 1720
+weight: 1300
 url: /cpp/metadata/xlsm/ 
 description: Try our On-Premise document metadata editing or viewer APIs to edit or view XLSM file metadata on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise document metadata editing or viewer APIs to edit
 
 {{% blocks/products/pf/agp/content h2="How to Get XLSM Metadata Using C++" %}}
 
- In order to extract XLSM metadata, weвЂ™ll use
+ In order to extract XLSM metadata, we’ll use
  [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
  API which is a feature-rich, powerful and easy to use document metadata extraction API for C++ platform. You can download its latest version directly, just open
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
@@ -85,7 +85,7 @@ meta->Save(new String("c:\\book2.xlsm"));
 
     {{% blocks/products/pf/agp/content h2="About Aspose.Cells for C++ API" %}}
 
- Aspose.Cells API can be used to create, edit, convert and render Microsoft Excel formats to different formats. Moreover, it can be used for comprehensive charting, scalable reporting and reliable calculations within software applications. Aspose.Cells is a standalone API and it does not require any software like Microsoft or OpenOffice. вЂЋ
+ Aspose.Cells API can be used to create, edit, convert and render Microsoft Excel formats to different formats. Moreover, it can be used for comprehensive charting, scalable reporting and reliable calculations within software applications. Aspose.Cells is a standalone API and it does not require any software like Microsoft or OpenOffice. ‎
 
 
 

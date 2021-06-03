@@ -1,6 +1,6 @@
 ---
 title: Unlock XLSM document via Java 
-weight: 5860
+weight: 7700
 url: /java/unlock/xlsm/ 
 description: Try our On-Premise document APIs to unlock password protected XLSM file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise document APIs to unlock password protected XLSM 
 
 {{% blocks/products/pf/agp/content h2="How to Remove Protection XLSM File Using Java" %}}
 
- In order to unlock XLSM file, weвЂ™ll use
+ In order to unlock XLSM file, we’ll use
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
  API which is a feature-rich, powerful and easy to use protection API for Java platform. You can download its latest version directly from
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
@@ -103,7 +103,7 @@ wkb.save("Worksheet_out.xlsm", FileFormatType.EXCEL_97_TO_2003);
 
     {{% blocks/products/pf/agp/content h2="About Aspose.Cells for Java API" %}}
 
- Aspose.Cells API can be used to create, edit, convert and render Microsoft Excel formats to different formats. Moreover, it can be used for comprehensive charting, scalable reporting and reliable calculations within software applications. Aspose.Cells is a standalone API and it does not require any software like Microsoft or OpenOffice. вЂЋ
+ Aspose.Cells API can be used to create, edit, convert and render Microsoft Excel formats to different formats. Moreover, it can be used for comprehensive charting, scalable reporting and reliable calculations within software applications. Aspose.Cells is a standalone API and it does not require any software like Microsoft or OpenOffice. ‎
 
 
 

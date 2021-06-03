@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to DIF via .NET 
-weight: 6590
+weight: 7400
 url: /net/conversion/json-to-dif/ 
 description: Try our On-Premise APIs with your document on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise APIs with your document on .NET Framework, .NET 
 
 {{% blocks/products/pf/agp/content h2="How to Convert JSON to DIF Using C#" %}}
 
- In order to convert JSON to DIF, weвЂ™ll use
+ In order to convert JSON to DIF, we’ll use
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
  API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C# platform. Open
  [NuGet](https://www.nuget.org/packages/aspose.cells) 

@@ -1,6 +1,6 @@
 ---
 title: Convert XLSX to XLSM via Java 
-weight: 4650
+weight: 3160
 url: /java/conversion/xlsx-to-xlsm/ 
 description: Try our On-Premise APIs for your document conversion on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise APIs for your document conversion on Java Runtim
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSX to XLSM Using Java" %}}
 
- In order to render XLSX to XLSM, weвЂ™ll use
+ In order to render XLSX to XLSM, we’ll use
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
  API which is a feature-rich, powerful and easy to use conversion API for Java platform. You can download its latest version directly from
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
@@ -76,7 +76,7 @@ description: Try our On-Premise APIs for your document conversion on Java Runtim
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Convert XLSX to XLSM - JavaвЂЋ" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Convert XLSX to XLSM - Java‎" offSpacer="" %}}
 
 ```cs
 // load the XLSX file in an instance of Workbook
@@ -103,7 +103,7 @@ book.save("output.xlsm", SaveFormat.AUTO);
 
     {{% blocks/products/pf/agp/content h2="Java Spreadsheet Manipulation Library" %}}
 
- Aspose.Cells API can be used to create, edit, convert and render Microsoft Excel formats to different formats. Moreover, it can be used for comprehensive charting, scalable reporting and reliable calculations within software applications. Aspose.Cells is a standalone API and it does not require any software like Microsoft or OpenOffice. вЂЋ
+ Aspose.Cells API can be used to create, edit, convert and render Microsoft Excel formats to different formats. Moreover, it can be used for comprehensive charting, scalable reporting and reliable calculations within software applications. Aspose.Cells is a standalone API and it does not require any software like Microsoft or OpenOffice. ‎
 
 
 

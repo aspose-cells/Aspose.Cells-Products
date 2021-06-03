@@ -1,6 +1,6 @@
 ---
 title: Unlock XLSM document via C++ 
-weight: 1970
+weight: 6070
 url: /cpp/unlock/xlsm/ 
 description: Try our On-Premise document APIs to unlock password protected XLSM file on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise document APIs to unlock password protected XLSM 
 
 {{% blocks/products/pf/agp/content h2="How to Remove Protection of XLSM File Using C++" %}}
 
- In order to unlock XLSM file, weвЂ™ll use
+ In order to unlock XLSM file, we’ll use
  [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
  API which is a feature-rich, powerful and easy to use document protection API for C++ platform. You can download its latest version directly, just open
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
@@ -100,7 +100,7 @@ workbook->Save(outDir->StringAppend(new String("sampleExcelFileUnprotected_out.x
 
     {{% blocks/products/pf/agp/content h2="About Aspose.Cells for C++ API" %}}
 
- Aspose.Cells API can be used to create, edit, convert and render Microsoft Excel formats to different formats. Moreover, it can be used for comprehensive charting, scalable reporting and reliable calculations within software applications. Aspose.Cells is a standalone API and it does not require any software like Microsoft or OpenOffice. вЂЋ
+ Aspose.Cells API can be used to create, edit, convert and render Microsoft Excel formats to different formats. Moreover, it can be used for comprehensive charting, scalable reporting and reliable calculations within software applications. Aspose.Cells is a standalone API and it does not require any software like Microsoft or OpenOffice. ‎
 
 
 

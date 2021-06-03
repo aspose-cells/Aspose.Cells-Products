@@ -1,6 +1,6 @@
 ---
 title: Convert Excel to PDF via C# | .NET Conversion APIs 
-weight: 6320
+weight: 3720
 url: /net/conversion/excel-to-pdf/ 
 description: Convert Excel XLS, XLSM, XLSB, XLSX, SpreadsheetML, CSV, TSV and other formats to PDF.
 ---

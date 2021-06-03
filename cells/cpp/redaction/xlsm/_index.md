@@ -1,6 +1,6 @@
 ---
 title: Search and replace text in XLSM document via C++ 
-weight: 1860
+weight: 9570
 url: /cpp/redaction/xlsm/ 
 description: Try our On-Premise document redaction APIs to redact sensitive information in XLSM file on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise document redaction APIs to redact sensitive info
 
 {{% blocks/products/pf/agp/content h2="How to Redact XLSM File Using C++" %}}
 
- In order to redact XLSM file, weвЂ™ll use
+ In order to redact XLSM file, we’ll use
  [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
  API which is a feature-rich, powerful and easy to use document redaction API for C++ platform. You can download its latest version directly, just open
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
@@ -35,13 +35,13 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="StepsВ to Redact XLSM Files in C++" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Steps to Redact XLSM Files in C++" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- A basicВ documentВ search and replace text in contents, comments or metadata with
+ A basic document search and replace text in contents, comments or metadata with
  [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- APIs can be done with justВ few lines of code.
+ APIs can be done with just few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -67,7 +67,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="RedactВ XLSM Files - C++" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Redact XLSM Files - C++" offSpacer="" %}}
 
 ```cs
 // Source directory path.
@@ -107,7 +107,7 @@ workbook->Save(outDir->StringAppend(new String("book1_out.xlsm")));
 
 {{% blocks/products/pf/agp/content h2="About Aspose.Cells for C++ API" %}}
 
- Aspose.Cells API can be used to create, edit, convert and render Microsoft Excel formats to different formats. Moreover, it can be used for comprehensive charting, scalable reporting and reliable calculations within software applications. Aspose.Cells is a standalone API and it does not require any software like Microsoft or OpenOffice. вЂЋ
+ Aspose.Cells API can be used to create, edit, convert and render Microsoft Excel formats to different formats. Moreover, it can be used for comprehensive charting, scalable reporting and reliable calculations within software applications. Aspose.Cells is a standalone API and it does not require any software like Microsoft or OpenOffice. ‎
 
 
 
@@ -115,7 +115,7 @@ workbook->Save(outDir->StringAppend(new String("book1_out.xlsm")));
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-    {{< blocks/products/pf/agp/demobox sectionTitle="Online XLSMВ Redaction Live Demos" sectionDescription="Search and replace text in contents, comments or metadata in XLSM documents right now by visiting our [Live Demos website](https://products.aspose.app/cells/redaction). The live demo has the following benefits" >}}
+    {{< blocks/products/pf/agp/demobox sectionTitle="Online XLSM Redaction Live Demos" sectionDescription="Search and replace text in contents, comments or metadata in XLSM documents right now by visiting our [Live Demos website](https://products.aspose.app/cells/redaction). The live demo has the following benefits" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your XLSM files." >}}

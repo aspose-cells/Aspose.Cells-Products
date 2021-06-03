@@ -1,6 +1,6 @@
 ---
 title: SharePoint Excel Spreadsheet Converter App - Aspose 
-weight: 10130
+weight: 940
 url: /sharepoint/ 
 description: Aspose.Cells for SharePoint App is a SharePoint Excel Spreadsheet converter. Export XLS XLSX XML CSV PDF ODS &amp; HTML formats in MOSS WSS
 ---

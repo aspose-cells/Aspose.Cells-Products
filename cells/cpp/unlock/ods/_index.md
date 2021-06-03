@@ -1,6 +1,6 @@
 ---
 title: Unlock ODS document via C++ 
-weight: 1950
+weight: 1190
 url: /cpp/unlock/ods/ 
 description: Try our On-Premise document APIs to unlock password protected ODS file on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise document APIs to unlock password protected ODS f
 
 {{% blocks/products/pf/agp/content h2="How to Remove Protection of ODS File Using C++" %}}
 
- In order to unlock ODS file, weвЂ™ll use
+ In order to unlock ODS file, we’ll use
  [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
  API which is a feature-rich, powerful and easy to use document protection API for C++ platform. You can download its latest version directly, just open
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
@@ -100,7 +100,7 @@ workbook->Save(outDir->StringAppend(new String("sampleExcelFileUnprotected_out.o
 
     {{% blocks/products/pf/agp/content h2="About Aspose.Cells for C++ API" %}}
 
- Aspose.Cells API can be used to create, edit, convert and render Microsoft Excel formats to different formats. Moreover, it can be used for comprehensive charting, scalable reporting and reliable calculations within software applications. Aspose.Cells is a standalone API and it does not require any software like Microsoft or OpenOffice. вЂЋ
+ Aspose.Cells API can be used to create, edit, convert and render Microsoft Excel formats to different formats. Moreover, it can be used for comprehensive charting, scalable reporting and reliable calculations within software applications. Aspose.Cells is a standalone API and it does not require any software like Microsoft or OpenOffice. ‎
 
 
 

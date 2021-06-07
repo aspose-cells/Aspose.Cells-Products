@@ -6,11 +6,11 @@ description: Process Excel file formats via Node.js library. Read write render &
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Node.js Excel File Format APIs" h2="Generate, modify, convert & render Excel spreadsheets using Node.js without requiring Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/header/aspose_cells-for-nodejs.png" pfName="Aspose.Cells for Node.js via Java" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/cells/nodejs" >}}
+{{< blocks/products/pf/upper-banner h1="Node.js Excel File Format APIs" h2="Generate, modify, convert & render Excel spreadsheets using Node.js without requiring Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/header/aspose_cells-for-nodejs.png" pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/cells/nodejs" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-nodejs.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/nodejs-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/cells/java/aspose-cells-for-node-js-via-java/" instalationsDocsLink="" nugetLink="" nugetPackageName="Microsoft Excel:" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-nodejs.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/nodejs-java" buyLink="https://purchase.aspose.com/pricing/cells/nodejs-java" docsLink="https://docs.aspose.com/cells/java/aspose-cells-for-node-js-via-java/" installationsDocsLink="" nugetLink="" nugetPackageName="Microsoft Excel:" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/cells/nodejs" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>

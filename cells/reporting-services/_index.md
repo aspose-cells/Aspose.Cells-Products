@@ -6,11 +6,11 @@ description: SQL Server Reporting Services rendering extension - Export Excel XL
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Reporting Services Extension to Deliver Reports as Excel Files" h2="Export RDL & RDLC reports to Excel spreadsheet file formats with ease." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/header/aspose_cells-for-ssrs.png" pfName="Aspose.Cells for Reporting Services" subTitlepfName="for Reporting Services" downloadUrl="https://downloads.aspose.com/cells/reportingservices" >}}
+{{< blocks/products/pf/upper-banner h1="Reporting Services Extension to Deliver Reports as Excel Files" h2="Export RDL & RDLC reports to Excel spreadsheet file formats with ease." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/header/aspose_cells-for-ssrs.png" pfName="Aspose.Cells" subTitlepfName="for Reporting Services" downloadUrl="https://downloads.aspose.com/cells/reportingservices" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Reporting Services" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-reporting-services.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/reporting-services" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/cells/reportingservices/release-notes/" instalationsDocsLink="" nugetLink="" nugetPackageName="Microsoft Excel:" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-reporting-services.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/reporting-services" buyLink="https://purchase.aspose.com/pricing/cells/reporting-services" docsLink="https://docs.aspose.com/cells/reportingservices/release-notes/" installationsDocsLink="" nugetLink="" nugetPackageName="Microsoft Excel:" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/cells/reportingservices" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>

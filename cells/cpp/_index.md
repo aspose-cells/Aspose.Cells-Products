@@ -6,11 +6,11 @@ description: C++ Excel library to read write and parse files including XLS, XLSX
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="C++ Excel Spreadsheets APIs" h2="Create, Read, Write and Parse spreadsheets without any Microsoft Excel dependencies within full-functional C++ applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/header/aspose_cells-for-cpp.png" pfName="Aspose.Cells for C++" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/cells/cpp" >}}
+{{< blocks/products/pf/upper-banner h1="C++ Excel Spreadsheets APIs" h2="Create, Read, Write and Parse spreadsheets without any Microsoft Excel dependencies within full-functional C++ applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/header/aspose_cells-for-cpp.png" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/cells/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for C++" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-cpp.png" liveDemosLink="https://products.aspose.app/cells/family" PricingLink="https://purchase.aspose.com/pricing/cells/cpp" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/cells/cpp/" instalationsDocsLink="https://docs.aspose.com/cells/cpp/installation" nugetLink="https://www.nuget.org/packages/Aspose.Cells.Cpp/" nugetPackageName="Aspose.Cells.Cpp" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-cpp.png" liveDemosLink="https://products.aspose.app/cells/family" PricingLink="https://purchase.aspose.com/pricing/cells/cpp" buyLink="https://purchase.aspose.com/pricing/cells/cpp" docsLink="https://docs.aspose.com/cells/cpp/" installationsDocsLink="https://docs.aspose.com/cells/cpp/installation" nugetLink="https://www.nuget.org/packages/Aspose.Cells.Cpp/" nugetPackageName="Aspose.Cells.Cpp" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/cells/cpp" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>

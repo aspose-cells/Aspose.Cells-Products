@@ -6,11 +6,11 @@ description: Android spreadsheet library to create read write and parse Excel fi
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Android APIs to Manipulate Excel Spreadsheets" h2="Create, read, write or manipulate Excel files within Android apps without any dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/header/aspose_cells-for-android.png" pfName="Aspose.Cells for Android via Java" subTitlepfName="for Android via Java" downloadUrl="https://downloads.aspose.com/cells/androidjava" >}}
+{{< blocks/products/pf/upper-banner h1="Android APIs to Manipulate Excel Spreadsheets" h2="Create, read, write or manipulate Excel files within Android apps without any dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/header/aspose_cells-for-android.png" pfName="Aspose.Cells" subTitlepfName="for Android via Java" downloadUrl="https://downloads.aspose.com/cells/androidjava" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Android via Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-android.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/android-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/cells/java/aspose-cells-for-android-via-java/" instalationsDocsLink="https://docs.aspose.com/cells/java/aspose-cells-for-android-via-java-installation/" nugetLink="" nugetPackageName="Microsoft Excel:" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-android.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/android-java" buyLink="https://purchase.aspose.com/pricing/cells/android-java" docsLink="https://docs.aspose.com/cells/java/aspose-cells-for-android-via-java/" installationsDocsLink="https://docs.aspose.com/cells/java/aspose-cells-for-android-via-java-installation/" nugetLink="" nugetPackageName="Microsoft Excel:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells" directDownloadLink="https://downloads.aspose.com/cells/androidjava" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>

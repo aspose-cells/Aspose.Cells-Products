@@ -6,11 +6,11 @@ description: Aspose.Cells for SharePoint App is a SharePoint Excel Spreadsheet c
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="SharePoint App to Convert Excel Spreadsheets" h2="Convert Excel spreadsheets to more than 8 file formats right from the SharePoint document library." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/header/aspose_cells-for-sharepoint.png" pfName="Aspose.Cells for SharePoint" subTitlepfName="for SharePoint" downloadUrl="https://downloads.aspose.com/cells/sharepoint" >}}
+{{< blocks/products/pf/upper-banner h1="SharePoint App to Convert Excel Spreadsheets" h2="Convert Excel spreadsheets to more than 8 file formats right from the SharePoint document library." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/header/aspose_cells-for-sharepoint.png" pfName="Aspose.Cells" subTitlepfName="for SharePoint" downloadUrl="https://downloads.aspose.com/cells/sharepoint" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for SharePoint" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-sharepoint.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/sharepoint" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/cells/sharepoint/release-notes/" instalationsDocsLink="" nugetLink="" nugetPackageName="Microsoft Excel:" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-sharepoint.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/sharepoint" buyLink="https://purchase.aspose.com/pricing/cells/sharepoint" docsLink="https://docs.aspose.com/cells/sharepoint/release-notes/" installationsDocsLink="" nugetLink="" nugetPackageName="Microsoft Excel:" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/cells/sharepoint" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>

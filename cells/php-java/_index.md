@@ -6,11 +6,11 @@ description: PHP Excel spreadsheet API to read write and convert XLS XLSX CSV TS
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="PHP Excel Spreadsheet API" h2="Perform spreadsheet manipulation tasks as well as export Excel files to multiple formats without any Microsoft Excel dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/header/aspose_cells-for-php-via-java.png" pfName="Aspose.Cells for PHP via Java" subTitlepfName="for PHP via Java" downloadUrl="https://downloads.aspose.com/cells/php" >}}
+{{< blocks/products/pf/upper-banner h1="PHP Excel Spreadsheet API" h2="Perform spreadsheet manipulation tasks as well as export Excel files to multiple formats without any Microsoft Excel dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/header/aspose_cells-for-php-via-java.png" pfName="Aspose.Cells" subTitlepfName="for PHP via Java" downloadUrl="https://downloads.aspose.com/cells/php" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for PHP via Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose.cells-for-php-via-java.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/php-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/cells/java/aspose-cells-for-php-via-java/" instalationsDocsLink="" nugetLink="" nugetPackageName="Microsoft Excel:" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose.cells-for-php-via-java.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/php-java" buyLink="https://purchase.aspose.com/pricing/cells/php-java" docsLink="https://docs.aspose.com/cells/java/aspose-cells-for-php-via-java/" installationsDocsLink="" nugetLink="" nugetPackageName="Microsoft Excel:" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/cells/php" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>

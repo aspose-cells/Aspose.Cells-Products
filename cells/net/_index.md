@@ -6,11 +6,11 @@ description: C# ASP.NET VB.NET library to work with Microsoft Excel documents. C
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Manipulate Excel Files via .NET APIs" h2="Read and Write spreadsheet files on .NET, .NET Core & Xamarin platforms. Export spreadsheets to other formats without requiring Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/header/aspose_cells-for-net.png" pfName="Aspose.Cells for .NET" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/cells/net" >}}
+{{< blocks/products/pf/upper-banner h1="Manipulate Excel Files via .NET APIs" h2="Read and Write spreadsheet files on .NET, .NET Core & Xamarin platforms. Export spreadsheets to other formats without requiring Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/header/aspose_cells-for-net.png" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/cells/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-net.png" liveDemosLink="https://products.aspose.app/cells/family" PricingLink="https://purchase.aspose.com/pricing/cells/net" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/cells/net/" instalationsDocsLink="https://docs.aspose.com/cells/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Cells/" nugetPackageName="Aspose.Cells" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-net.png" liveDemosLink="https://products.aspose.app/cells/family" PricingLink="https://purchase.aspose.com/pricing/cells/net" buyLink="https://purchase.aspose.com/pricing/cells/net" docsLink="https://docs.aspose.com/cells/net/" installationsDocsLink="https://docs.aspose.com/cells/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Cells/" nugetPackageName="Aspose.Cells" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/cells/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>

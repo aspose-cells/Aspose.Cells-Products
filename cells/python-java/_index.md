@@ -6,11 +6,11 @@ description: Python spreadsheet library to create read write and parse Excel fil
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Python Excel Spreadsheets Parsing APIs" h2="Generate, read, write or manipulate spreadsheets as well as export Excel files to multiple formats within Python applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/header/aspose_cells-for-python-via-java.png" pfName="Aspose.Cells for Python via Java" subTitlepfName="for Python via Java" downloadUrl="https://downloads.aspose.com/cells/python" >}}
+{{< blocks/products/pf/upper-banner h1="Python Excel Spreadsheets Parsing APIs" h2="Generate, read, write or manipulate spreadsheets as well as export Excel files to multiple formats within Python applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/header/aspose_cells-for-python-via-java.png" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="https://downloads.aspose.com/cells/python" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Python via Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-python-via-java.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/python-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/cells/java/aspose-cells-for-python-via-java/" instalationsDocsLink="" nugetLink="" nugetPackageName="Microsoft Excel:" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-python-via-java.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/python-java" buyLink="https://purchase.aspose.com/pricing/cells/python-java" docsLink="https://docs.aspose.com/cells/java/aspose-cells-for-python-via-java/" installationsDocsLink="" nugetLink="" nugetPackageName="Microsoft Excel:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells" directDownloadLink="https://downloads.aspose.com/cells/python" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>

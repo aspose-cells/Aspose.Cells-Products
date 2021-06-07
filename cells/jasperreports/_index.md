@@ -6,11 +6,11 @@ description: Export reports from Jasper Reports and JasperServer in Excel XLS XL
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="JasperReports Extension to Export Reports as Excel Formats" h2="Export reports to Microsoft Excel spreadsheet multiple formats." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/header/aspose_cells-for-jasperreports.png" pfName="Aspose.Cells for JasperReports" subTitlepfName="for JasperReports" downloadUrl="https://downloads.aspose.com/cells/jasperreports" >}}
+{{< blocks/products/pf/upper-banner h1="JasperReports Extension to Export Reports as Excel Formats" h2="Export reports to Microsoft Excel spreadsheet multiple formats." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/header/aspose_cells-for-jasperreports.png" pfName="Aspose.Cells" subTitlepfName="for JasperReports" downloadUrl="https://downloads.aspose.com/cells/jasperreports" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for JasperReports" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-jasperreports.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/jasperreports" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/cells/jasperreports/release-notes/" instalationsDocsLink="" nugetLink="" nugetPackageName="Microsoft Excel:" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-jasperreports.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/jasperreports" buyLink="https://purchase.aspose.com/pricing/cells/jasperreports" docsLink="https://docs.aspose.com/cells/jasperreports/release-notes/" installationsDocsLink="" nugetLink="" nugetPackageName="Microsoft Excel:" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/cells/jasperreports" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>

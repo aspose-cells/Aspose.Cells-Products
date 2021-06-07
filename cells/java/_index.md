@@ -6,11 +6,11 @@ description: Java Excel library for spreadsheet processing. Read write render an
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java Excel Spreadsheet Processing API" h2="Create, manipulate, convert, protect or print spreadsheets without relying on Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/header/aspose_cells-for-java.png" pfName="Aspose.Cells for Java" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/cells/java" >}}
+{{< blocks/products/pf/upper-banner h1="Java Excel Spreadsheet Processing API" h2="Create, manipulate, convert, protect or print spreadsheets without relying on Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/header/aspose_cells-for-java.png" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/cells/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-java.png" liveDemosLink="https://products.aspose.app/cells/family" PricingLink="https://purchase.aspose.com/pricing/cells/java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/cells/java" instalationsDocsLink="https://docs.aspose.com/cells/java/installation/" nugetLink="" nugetPackageName="Microsoft Excel:" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-java.png" liveDemosLink="https://products.aspose.app/cells/family" PricingLink="https://purchase.aspose.com/pricing/cells/java" buyLink="https://purchase.aspose.com/pricing/cells/java" docsLink="https://docs.aspose.com/cells/java" installationsDocsLink="https://docs.aspose.com/cells/java/installation/" nugetLink="" nugetPackageName="Microsoft Excel:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells" directDownloadLink="https://downloads.aspose.com/cells/java" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>

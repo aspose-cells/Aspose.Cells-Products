@@ -11,15 +11,15 @@ description: Create Excel file manipulation applications using On Premise or Clo
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Cells On Premise APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-net.png" productLink="https://products.aspose.com/cells/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.Cells for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" productLink="https://products.aspose.com/cells/net" >}}
 On Premise APIs to target .NET Framework, .NET Core & Xamarin platforms to develop spreadsheet manipulation applications for Windows, iOS & Android.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-java.png" productLink="https://products.aspose.com/cells/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.Cells for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" productLink="https://products.aspose.com/cells/java" >}}
 Java APIs to create, manipulate, convert or process workbooks, worksheets, Microsoft Excel charts & Pivot Tables in any application based on Java SE or EE.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells for " title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-cpp.png" productLink="https://products.aspose.com/cells/cpp" >}}
+{{< blocks/products/pf/product pfName="Aspose.Cells for " title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" productLink="https://products.aspose.com/cells/cpp" >}}
 Native C++ library to create, load, manipulate, convert or render Microsoft Excel & OpenOffice Calc file formats from within pure C++ apps.
 {{< /blocks/products/pf/product >}}
 

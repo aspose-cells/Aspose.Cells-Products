@@ -6,48 +6,48 @@ description: Libraries to read write and manipulate Microsoft Excel formats in .
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Process Excel Spreadsheets on Multiple Platforms" h2="Native APIs to create, edit, convert & render Excel files. Export spreadsheets to multiple formats on any platform." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/header/aspose_cells.png?v1.1" pfName="Aspose.Cells" downloadUrl="https://downloads.aspose.com/cells" tryOnlineUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Process Excel Spreadsheets on Multiple Platforms" h2="Native APIs to create, edit, convert & render Excel files. Export spreadsheets to multiple formats on any platform." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells.svg" pfName="Aspose.Cells" downloadUrl="https://downloads.aspose.com/cells" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Cells On Premise APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-net.png" productLink="/cells/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.Cells for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" productLink="/cells/net/" >}}
 Target .NET Framework, .NET Core & Xamarin platform to develop applications for Windows, iOS, macOS & Android.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-java.png" productLink="/cells/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.Cells for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" productLink="/cells/java/" >}}
 Native Java APIs for the desktop, web or any kind of application based on Java SE or EE.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells for" title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-cpp.png" productLink="/cells/cpp" >}}
+{{< blocks/products/pf/product pfName="Aspose.Cells for" title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" productLink="/cells/cpp/" >}}
 Create, read, edit, convert or render Excel spreadsheets formats from within C++ applications.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells for" title="Android via Java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-android.png" productLink="/cells/android-java" >}}
+{{< blocks/products/pf/product pfName="Aspose.Cells for" title="Android via Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-android-java.svg" productLink="/cells/android-java/" >}}
 Add Excel spreadsheet manipulation capabilities in your Android mobile applications.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells for" title="SharePoint" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-sharepoint.png" productLink="/cells/sharepoint" >}}
+{{< blocks/products/pf/product pfName="Aspose.Cells for" title="SharePoint" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-sharepoint.svg" productLink="/cells/sharepoint/" >}}
 Convert and combine Excel spreadsheets in SharePoint Services or SharePoint Server.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells for" title="Reporting Services" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-reporting-services.png" productLink="/cells/reporting-services" >}}
+{{< blocks/products/pf/product pfName="Aspose.Cells for" title="Reporting Services" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-reporting-services.svg" productLink="/cells/reporting-services/" >}}
 Export RDL and RDLC reports to Excel file formats from SQL Server Reporting Services.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells for" title="JasperReports" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-jasperreports.png" productLink="/cells/jasperreports" >}}
+{{< blocks/products/pf/product pfName="Aspose.Cells for" title="JasperReports" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-jasperreports.svg" productLink="/cells/jasperreports/" >}}
 Export reports to Excel file formats and PDF from JasperReports or JasperServer.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells for" title="Node.js via Java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-nodejs.png" productLink="/cells/nodejs-java" >}}
+{{< blocks/products/pf/product pfName="Aspose.Cells for" title="Node.js via Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-nodejs-java.svg" productLink="/cells/nodejs-java/" >}}
 Create, manipulate, convert & render Excel spreadsheets via Node.js.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells for" title="PHP via Java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose.cells-for-php-via-java.png" productLink="/cells/php-java" >}}
+{{< blocks/products/pf/product pfName="Aspose.Cells for" title="PHP via Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-php-java.svg" productLink="/cells/php-java/" >}}
 Create, manipulate, convert & render Excel spreadsheets in PHP applications via JavaBridge.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells for" title="Python via Java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/272x272/aspose_cells-for-python-via-java.png" productLink="/cells/python-java" >}}
+{{< blocks/products/pf/product pfName="Aspose.Cells for" title="Python via Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" productLink="/cells/python-java/" >}}
 Load, create, manipulate & render Excel documents using Python.
 {{< /blocks/products/pf/product >}}
 

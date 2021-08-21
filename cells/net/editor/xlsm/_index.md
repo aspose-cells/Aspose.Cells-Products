@@ -97,11 +97,7 @@ Files with XLSM extension is a type of Spreasheet files that support Macros. Fro
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Editing Formats" subTitle="Using C#, one can easily edit different formats using any editor including." >}}
 
-{{other_supported_lnks}}
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
     

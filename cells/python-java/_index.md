@@ -6,7 +6,7 @@ description: Python spreadsheet library to create read write and parse Excel fil
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Python Excel Spreadsheets Parsing APIs" h2="Generate, read, write or manipulate spreadsheets as well as export Excel files to multiple formats within Python applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/header/aspose_cells-for-python-via-java.png" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="https://downloads.aspose.com/cells/python" >}}
+{{< blocks/products/pf/upper-banner h1="Python Excel Spreadsheets Parsing APIs" h2="Generate, read, write or manipulate spreadsheets as well as export Excel files to multiple formats within Python applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-python-java.svg" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="https://downloads.aspose.com/cells/python" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Python via Java" >}}
 

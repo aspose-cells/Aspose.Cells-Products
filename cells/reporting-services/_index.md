@@ -6,7 +6,7 @@ description: SQL Server Reporting Services rendering extension - Export Excel XL
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Reporting Services Extension to Deliver Reports as Excel Files" h2="Export RDL & RDLC reports to Excel spreadsheet file formats with ease." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/header/aspose_cells-for-ssrs.png" pfName="Aspose.Cells" subTitlepfName="for Reporting Services" downloadUrl="https://downloads.aspose.com/cells/reportingservices" >}}
+{{< blocks/products/pf/upper-banner h1="Reporting Services Extension to Deliver Reports as Excel Files" h2="Export RDL & RDLC reports to Excel spreadsheet file formats with ease." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-reporting-services.svg" pfName="Aspose.Cells" subTitlepfName="for Reporting Services" downloadUrl="https://downloads.aspose.com/cells/reportingservices" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Reporting Services" >}}
 
@@ -195,7 +195,7 @@ description: SQL Server Reporting Services rendering extension - Export Excel XL
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Cells for Reporting Services supports commonly used spreadsheet [file formats](https://docs.aspose.com/cells/reportingservices/supported-file-formats/)  ." >}}
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Cells for Reporting Services supports commonly used spreadsheet [file formats](https://docs.aspose.com/cells/reportingservices/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-rs">
  <div class="d1-row">
   <div class="d1-col d1-left">

@@ -6,7 +6,7 @@ description: Export reports from Jasper Reports and JasperServer in Excel XLS XL
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="JasperReports Extension to Export Reports as Excel Formats" h2="Export reports to Microsoft Excel spreadsheet multiple formats." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/header/aspose_cells-for-jasperreports.png" pfName="Aspose.Cells" subTitlepfName="for JasperReports" downloadUrl="https://downloads.aspose.com/cells/jasperreports" >}}
+{{< blocks/products/pf/upper-banner h1="JasperReports Extension to Export Reports as Excel Formats" h2="Export reports to Microsoft Excel spreadsheet multiple formats." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-jasperreports.svg" pfName="Aspose.Cells" subTitlepfName="for JasperReports" downloadUrl="https://downloads.aspose.com/cells/jasperreports" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for JasperReports" >}}
 
@@ -115,7 +115,7 @@ description: Export reports from Jasper Reports and JasperServer in Excel XLS XL
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Cells for JasperReports allows you to export reports directly to the [following formats](https://docs.aspose.com/cells/jasperreports/supported-file-formats/)  ." >}}
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Cells for JasperReports allows you to export reports directly to the [following formats](https://docs.aspose.com/cells/jasperreports/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-jasper">
  <div class="d1-row">
   <div class="d1-col d1-left">

@@ -6,7 +6,7 @@ description: Create Excel file manipulation applications using On Premise or Clo
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Microsoft Excel File Format Solution" h2="Take advantage of scalable reporting, comprehensive charting & reliable calculations - without depending on Microsoft Excel." logoImageSrc="https://www.aspose.com/templates/brand/images/cells/aspose_cells-brand.png" imageAlt="Aspose.Cells Product Family" >}}
+{{< blocks/products/pf/upper-banner h1="Microsoft Excel File Format Solution" h2="Take advantage of scalable reporting, comprehensive charting & reliable calculations - without depending on Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-brand.svg" imageAlt="Aspose.Cells Product Family" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Cells On Premise APIs Include" >}}

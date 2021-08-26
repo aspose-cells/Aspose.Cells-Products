@@ -6,7 +6,7 @@ description: PHP Excel spreadsheet API to read write and convert XLS XLSX CSV TS
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="PHP Excel Spreadsheet API" h2="Perform spreadsheet manipulation tasks as well as export Excel files to multiple formats without any Microsoft Excel dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/header/aspose_cells-for-php-via-java.png" pfName="Aspose.Cells" subTitlepfName="for PHP via Java" downloadUrl="https://downloads.aspose.com/cells/php" >}}
+{{< blocks/products/pf/upper-banner h1="PHP Excel Spreadsheet API" h2="Perform spreadsheet manipulation tasks as well as export Excel files to multiple formats without any Microsoft Excel dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-php-java.svg" pfName="Aspose.Cells" subTitlepfName="for PHP via Java" downloadUrl="https://downloads.aspose.com/cells/php" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for PHP via Java" >}}
 

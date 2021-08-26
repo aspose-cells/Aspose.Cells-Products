@@ -6,7 +6,7 @@ description: Java Excel library for spreadsheet processing. Read write render an
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java Excel Spreadsheet Processing API" h2="Create, manipulate, convert, protect or print spreadsheets without relying on Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/header/aspose_cells-for-java.png" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/cells/java" >}}
+{{< blocks/products/pf/upper-banner h1="Java Excel Spreadsheet Processing API" h2="Create, manipulate, convert, protect or print spreadsheets without relying on Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-java.svg" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/cells/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Java" >}}
 
@@ -162,7 +162,7 @@ description: Java Excel library for spreadsheet processing. Read write render an
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Cells for Java supports the popular spreadsheet formats, commonly used images, fixed-layout and [more formats](https://docs.aspose.com/cells/java/supported-file-formats/)  ." >}}
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Cells for Java supports the popular spreadsheet formats, commonly used images, fixed-layout and [more formats](https://docs.aspose.com/cells/java/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">

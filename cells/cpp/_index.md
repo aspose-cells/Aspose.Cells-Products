@@ -6,7 +6,7 @@ description: C++ Excel library to read write and parse files including XLS, XLSX
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="C++ Excel Spreadsheets APIs" h2="Create, Read, Write and Parse spreadsheets without any Microsoft Excel dependencies within full-functional C++ applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cells/header/aspose_cells-for-cpp.png" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/cells/cpp" >}}
+{{< blocks/products/pf/upper-banner h1="C++ Excel Spreadsheets APIs" h2="Create, Read, Write and Parse spreadsheets without any Microsoft Excel dependencies within full-functional C++ applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-cpp.svg" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/cells/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for C++" >}}
 
@@ -123,7 +123,7 @@ description: C++ Excel library to read write and parse files including XLS, XLSX
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Platform Independence" description="API fully supports C++ applications on following platforms with [system requirements](https://docs.aspose.com/cells/cpp/system-requirements/)  ." >}}
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="API fully supports C++ applications on following platforms with [system requirements](https://docs.aspose.com/cells/cpp/system-requirements/)." >}}
 <div class="diagram1 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -169,7 +169,7 @@ description: C++ Excel library to read write and parse files including XLS, XLSX
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Cells for C++ supports the most commonly used spreadsheet [file formats](https://docs.aspose.com/cells/cpp/supported-file-formats/)  ." >}}
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Cells for C++ supports the most commonly used spreadsheet [file formats](https://docs.aspose.com/cells/cpp/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">

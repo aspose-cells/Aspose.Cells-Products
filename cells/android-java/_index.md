@@ -6,7 +6,7 @@ description: Android spreadsheet library to create read write and parse Excel fi
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Android APIs to Manipulate Excel Spreadsheets" h2="Create, read, write or manipulate Excel files within Android apps without any dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/header/aspose_cells-for-android.png" pfName="Aspose.Cells" subTitlepfName="for Android via Java" downloadUrl="https://downloads.aspose.com/cells/androidjava" >}}
+{{< blocks/products/pf/upper-banner h1="Android APIs to Manipulate Excel Spreadsheets" h2="Create, read, write or manipulate Excel files within Android apps without any dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-android-java.svg" pfName="Aspose.Cells" subTitlepfName="for Android via Java" downloadUrl="https://downloads.aspose.com/cells/androidjava" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Android via Java" >}}
 

@@ -6,7 +6,7 @@ description: Aspose.Cells for SharePoint App is a SharePoint Excel Spreadsheet c
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="SharePoint App to Convert Excel Spreadsheets" h2="Convert Excel spreadsheets to more than 8 file formats right from the SharePoint document library." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/header/aspose_cells-for-sharepoint.png" pfName="Aspose.Cells" subTitlepfName="for SharePoint" downloadUrl="https://downloads.aspose.com/cells/sharepoint" >}}
+{{< blocks/products/pf/upper-banner h1="SharePoint App to Convert Excel Spreadsheets" h2="Convert Excel spreadsheets to more than 8 file formats right from the SharePoint document library." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-sharepoint.svg" pfName="Aspose.Cells" subTitlepfName="for SharePoint" downloadUrl="https://downloads.aspose.com/cells/sharepoint" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for SharePoint" >}}
 
@@ -156,7 +156,7 @@ description: Aspose.Cells for SharePoint App is a SharePoint Excel Spreadsheet c
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Cells for SharePoint support many popular spreadsheet formats, PDF, HTML and other [file formats](https://docs.aspose.com/cells/sharepoint/supported-file-formats/)  ." >}}
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Cells for SharePoint support many popular spreadsheet formats, PDF, HTML and other [file formats](https://docs.aspose.com/cells/sharepoint/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-sharepoint">
  <div class="d1-row">
   <div class="d1-col d1-left">

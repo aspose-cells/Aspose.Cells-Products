@@ -241,7 +241,7 @@ workbook.Save("output.pdf", saveOption);
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/agp/faq imgSrc="https://www.aspose.com/templates/brand/images/cells/aspose_cells-brand.png" >}}
+{{< blocks/products/pf/agp/faq imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-brand.svg" >}}
 
     {{< blocks/products/pf/agp/faq-item question="How can I get the Aspose.Cells DLL?" answer="Simply execute Install-Package Aspose.Cells in Package Manager console of Visual Studio or get it from [Downloads](https://downloads.aspose.com/cells/net) in MSI or ZIP formats." >}}
     {{< blocks/products/pf/agp/faq-item question="What Excel file formats are supported?" answer="Supported formats include XLS, XLSX, XLSM, XLSB, XLT, XLTX, XLTM, XLAM, CSV, TSV, SpreadsheetML as well as ODS, Numbers, SXC & FODS." >}}

@@ -60,7 +60,7 @@ PM> Install-Package Aspose.Cells.Cpp
 {{% /blocks/products/pf/agp/text %}}
 
 - Microsoft Windows or a compatible OS with C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
-- Aspose.Words for C++ DLL referenced in your project.
+- Aspose.Cells for C++ DLL referenced in your project.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

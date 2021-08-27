@@ -75,6 +75,6 @@ Load, create, manipulate & render Excel documents using Python.
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells" pricingInformationLink="https://purchase.aspose.com/pricing/cells" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells" pricingInformationLink="https://purchase.aspose.com/pricing/cells/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

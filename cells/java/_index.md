@@ -10,7 +10,7 @@ description: Java Excel library for spreadsheet processing. Read write render an
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" liveDemosLink="https://products.aspose.app/cells/family" PricingLink="https://purchase.aspose.com/pricing/cells/java" buyLink="https://purchase.aspose.com/pricing/cells/java" docsLink="https://docs.aspose.com/cells/java" installationsDocsLink="https://docs.aspose.com/cells/java/installation/" nugetLink="" nugetPackageName="Microsoft Excel:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells" directDownloadLink="https://downloads.aspose.com/cells/java" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" liveDemosLink="https://products.aspose.app/cells/family" PricingLink="https://purchase.aspose.com/pricing/cells/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cells/java" installationsDocsLink="https://docs.aspose.com/cells/java/installation/" nugetLink="" nugetPackageName="Microsoft Excel:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells" directDownloadLink="https://downloads.aspose.com/cells/java" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>

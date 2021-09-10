@@ -10,7 +10,7 @@ description: C++ Excel library to read write and parse files including XLS, XLSX
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for C++" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" liveDemosLink="https://products.aspose.app/cells/family" PricingLink="https://purchase.aspose.com/pricing/cells/cpp" buyLink="https://purchase.aspose.com/pricing/cells/cpp" docsLink="https://docs.aspose.com/cells/cpp/" installationsDocsLink="https://docs.aspose.com/cells/cpp/installation" nugetLink="https://www.nuget.org/packages/Aspose.Cells.Cpp/" nugetPackageName="Aspose.Cells.Cpp" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/cells/cpp" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" liveDemosLink="https://products.aspose.app/cells/family" PricingLink="https://purchase.aspose.com/pricing/cells/cpp" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cells/cpp/" installationsDocsLink="https://docs.aspose.com/cells/cpp/installation" nugetLink="https://www.nuget.org/packages/Aspose.Cells.Cpp/" nugetPackageName="Aspose.Cells.Cpp" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/cells/cpp" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>

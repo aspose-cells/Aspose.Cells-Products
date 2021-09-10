@@ -10,7 +10,7 @@ description: Android spreadsheet library to create read write and parse Excel fi
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Android via Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-android-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/android-java" buyLink="https://purchase.aspose.com/pricing/cells/android-java" docsLink="https://docs.aspose.com/cells/java/aspose-cells-for-android-via-java/" installationsDocsLink="https://docs.aspose.com/cells/java/aspose-cells-for-android-via-java-installation/" nugetLink="" nugetPackageName="Microsoft Excel:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells" directDownloadLink="https://downloads.aspose.com/cells/androidjava" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-android-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/android-java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cells/java/aspose-cells-for-android-via-java/" installationsDocsLink="https://docs.aspose.com/cells/java/aspose-cells-for-android-via-java-installation/" nugetLink="" nugetPackageName="Microsoft Excel:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells" directDownloadLink="https://downloads.aspose.com/cells/androidjava" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>

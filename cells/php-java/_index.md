@@ -10,7 +10,7 @@ description: PHP Excel spreadsheet API to read write and convert XLS XLSX CSV TS
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for PHP via Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-php-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/php-java" buyLink="https://purchase.aspose.com/pricing/cells/php-java" docsLink="https://docs.aspose.com/cells/java/aspose-cells-for-php-via-java/" installationsDocsLink="" nugetLink="" nugetPackageName="Microsoft Excel:" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/cells/php" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-php-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/php-java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cells/java/aspose-cells-for-php-via-java/" installationsDocsLink="" nugetLink="" nugetPackageName="Microsoft Excel:" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/cells/php" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>

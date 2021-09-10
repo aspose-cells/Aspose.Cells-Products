@@ -10,7 +10,7 @@ description: Export reports from Jasper Reports and JasperServer in Excel XLS XL
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for JasperReports" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-jasperreports.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/jasperreports" buyLink="https://purchase.aspose.com/pricing/cells/jasperreports" docsLink="https://docs.aspose.com/cells/jasperreports/release-notes/" installationsDocsLink="" nugetLink="" nugetPackageName="Microsoft Excel:" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/cells/jasperreports" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-jasperreports.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/jasperreports" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cells/jasperreports/release-notes/" installationsDocsLink="" nugetLink="" nugetPackageName="Microsoft Excel:" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/cells/jasperreports" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>

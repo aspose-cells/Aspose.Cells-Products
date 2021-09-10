@@ -10,7 +10,7 @@ description: C# ASP.NET VB.NET library to work with Microsoft Excel documents. C
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" liveDemosLink="https://products.aspose.app/cells/family" PricingLink="https://purchase.aspose.com/pricing/cells/net" buyLink="https://purchase.aspose.com/pricing/cells/net" docsLink="https://docs.aspose.com/cells/net/" installationsDocsLink="https://docs.aspose.com/cells/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Cells/" nugetPackageName="Aspose.Cells" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/cells/net" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" liveDemosLink="https://products.aspose.app/cells/family" PricingLink="https://purchase.aspose.com/pricing/cells/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cells/net/" installationsDocsLink="https://docs.aspose.com/cells/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.Cells/" nugetPackageName="Aspose.Cells" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/cells/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>

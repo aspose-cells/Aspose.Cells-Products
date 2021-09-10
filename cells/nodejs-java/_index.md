@@ -10,7 +10,7 @@ description: Process Excel file formats via Node.js library. Read write render &
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-nodejs-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/nodejs-java" buyLink="https://purchase.aspose.com/pricing/cells/nodejs-java" docsLink="https://docs.aspose.com/cells/java/aspose-cells-for-node-js-via-java/" installationsDocsLink="" nugetLink="" nugetPackageName="Microsoft Excel:" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/cells/nodejs" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-nodejs-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/nodejs-java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cells/java/aspose-cells-for-node-js-via-java/" installationsDocsLink="" nugetLink="" nugetPackageName="Microsoft Excel:" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/cells/nodejs" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>

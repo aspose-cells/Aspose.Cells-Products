@@ -10,7 +10,7 @@ description: Aspose.Cells for SharePoint App is a SharePoint Excel Spreadsheet c
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for SharePoint" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-sharepoint.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/sharepoint" buyLink="https://purchase.aspose.com/pricing/cells/sharepoint" docsLink="https://docs.aspose.com/cells/sharepoint/release-notes/" installationsDocsLink="" nugetLink="" nugetPackageName="Microsoft Excel:" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/cells/sharepoint" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-sharepoint.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/sharepoint" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cells/sharepoint/release-notes/" installationsDocsLink="" nugetLink="" nugetPackageName="Microsoft Excel:" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/cells/sharepoint" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>

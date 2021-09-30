@@ -41,7 +41,7 @@ description: Convert Excel XLS, XLSM, XLSB, XLSX, SpreadsheetML, CSV, TSV and ot
 ```cs
 
 // instantiate a Workbook object with Excel file path
-var workbook = new Aspose.Cells.Workbook("excel.xlsx");
+var workbook = new Workbook("excel.xlsx");
 // save Excel in PDF format
 workbook.Save("output.pdf", Aspose.Cells.SaveFormat.Pdf);
 
@@ -84,7 +84,7 @@ workbook.Save("output.pdf", Aspose.Cells.SaveFormat.Pdf);
 
 ```cs
 // load an Excel file
-var workbook = new Aspose.Cells.Workbook("excel.xls");
+var workbook = new Workbook("excel.xls");
 // instantiate PdfSaveOptions to manage security attributes
 var saveOption = new Aspose.Cells.PdfSaveOptions();
 // set PdfSaveOptions.SecurityOptions property
@@ -135,7 +135,7 @@ workbook.Save("secure.pdf", saveOption);
 
 ```cs
 // load an Excel file
-var workbook = new Aspose.Cells.Workbook("excel.xlsm");
+var workbook = new Workbook("excel.xlsm");
 // instantiate PdfSaveOptions
 var saveOption = new Aspose.Cells.PdfSaveOptions();
 // set PdfSaveOptions.OnePagePerSheet property to true
@@ -180,7 +180,7 @@ workbook.Save("output.pdf", saveOption);
 
 ```cs
 // load an Excel file
-var workbook = new Aspose.Cells.Workbook("excel.xlsb");
+var workbook = new Workbook("excel.xlsb");
 // instantiate PdfSaveOptions
 var saveOption = new Aspose.Cells.PdfSaveOptions();
 // set image resampling properties
@@ -227,7 +227,7 @@ workbook.Save("compressed.pdf", saveOption);
 
 ```cs
 // load an Excel file
-var workbook = new Aspose.Cells.Workbook("excel.xlsm");
+var workbook = new Workbook("excel.xlsm");
 // instantiate PdfSaveOptions class
 var saveOption = new Aspose.Cells.PdfSaveOptions();
 // set PDF compliance

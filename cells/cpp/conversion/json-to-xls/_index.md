@@ -42,7 +42,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Load JSON file using Aspose.Cells for C++ Factory::CreateIWorkbook.
+1. Load JSON file using Factory::CreateIWorkbook.
 1. Call the Save() method.
 1. Pass the output file path with (XLS) file extension.
 1. XLS file will be saved at the specified path.
@@ -92,7 +92,7 @@ wkb->Save(u"convertedFile.xls", SaveFormat_Xls);
 
     {{% blocks/products/pf/agp/content h2="C++ Excel File Manipulation Library" %}}
 
- Aspose.Cells API can be used to create, edit, convert and render Microsoft Excel formats to different formats. Moreover, it can be used for comprehensive charting, scalable reporting and reliable calculations within software applications. Aspose.Cells is a standalone API and it does not require any software like Microsoft or OpenOffice. ‎
+ Excel API can be used to create, edit, convert and render Microsoft Excel formats to different formats. Moreover, it can be used for comprehensive charting, scalable reporting and reliable calculations within software applications. Aspose.Cells is a standalone API and it does not require any software like Microsoft or OpenOffice. ‎
 
 
 

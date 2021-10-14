@@ -6,7 +6,7 @@ description: C# ASP.NET VB.NET library to work with Microsoft Excel documents. C
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Manipulate Excel Files via .NET APIs" h2="Read and Write spreadsheet files on .NET, .NET Core & Xamarin platforms. Export spreadsheets to other formats without requiring Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-net.svg" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/cells/net" >}}
+{{< blocks/products/pf/upper-banner h1="Manipulate Excel Files via .NET APIs" h2="Read and Write spreadsheet files on .NET, .NET Core & Xamarin platforms. Export spreadsheets to other formats without Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-net.svg" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/cells/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for .NET" >}}
 

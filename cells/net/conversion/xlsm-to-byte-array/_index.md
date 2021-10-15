@@ -72,8 +72,6 @@ ms.Read(byte_array, 0, byte_array.Length);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 <!-- aboutfile Starts -->
-
-{{< blocks/products/pf/agp/demobox sectionTitle="" sectionDescription="" >}}
       
      {{% blocks/products/pf/agp/content h2="" %}}
 
@@ -91,8 +89,6 @@ Files with XLSM extension is a type of Spreadsheet files that support Macros. F
         {{< /blocks/products/pf/agp/about-file-text >}}
 
            {{< /blocks/products/pf/agp/about-file-section >}}
-
-{{< /blocks/products/pf/agp/demobox >}}
 
 <!-- aboutfile Ends -->
 

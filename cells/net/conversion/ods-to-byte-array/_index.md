@@ -73,7 +73,6 @@ ms.Read(byte_array, 0, byte_array.Length);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="" sectionDescription="" >}}
       
      {{% blocks/products/pf/agp/content h2="" %}}
 
@@ -92,7 +91,6 @@ Files with .ods extension stand for OpenDocument Spreadsheet Document format tha
 
            {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
 
 <!-- aboutfile Ends -->
 

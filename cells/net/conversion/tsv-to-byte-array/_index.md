@@ -72,8 +72,6 @@ ms.Read(byte_array, 0, byte_array.Length);
 {{< /blocks/products/pf/agp/feature-section >}}
 
 <!-- aboutfile Starts -->
-
-{{< blocks/products/pf/agp/demobox sectionTitle="" sectionDescription="" >}}
       
      {{% blocks/products/pf/agp/content h2="" %}}
 
@@ -92,7 +90,6 @@ A Tab-Separated Values (TSV) file format represents data separated with tabs in 
 
            {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
 
 <!-- aboutfile Ends -->
 

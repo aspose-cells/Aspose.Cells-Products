@@ -73,8 +73,6 @@ ms.Read(byte_array, 0, byte_array.Length);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/demobox sectionTitle="" sectionDescription="" >}}
-      
      {{% blocks/products/pf/agp/content h2="" %}}
 
 An Excel Spreadsheet Programming Library capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. .NET Excel API not only convert between spreadsheet formats, it can also render Excel files including CSV as images, PDF, HTML, ODS and more, thus making it a perfect choice to exchange documents in industry-standard formats.
@@ -92,7 +90,6 @@ Files with .csv (Comma Separated Values) extension represent plain text files th
 
            {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
 
 <!-- aboutfile Ends -->
 

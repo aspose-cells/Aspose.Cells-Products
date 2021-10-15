@@ -89,7 +89,9 @@ wkb.save("Excel.xltx");
         {{< blocks/products/pf/agp/about-file-text fileFormat="XLTX" readMoreLink="https://docs.fileformat.com/spreadsheet/xltx/" >}}
 Files with .xltx extension represent Microsoft Excel Template files that are based on the Office OpenXML file format specifications. It is used to create a standard template file that can be utilized to generate XLSX files that exhibit the same settings as specified in the XLTX file.
 
-        {{< /blocks/products/pf/agp/about-file-text >}}
+       {{< /blocks/products/pf/agp/about-file-text >}}
+
+        {{< /blocks/products/pf/agp/about-file-section >}}
 
           
 

@@ -95,6 +95,8 @@ XLSX is well-known format for Microsoft Excel documents that was introduced by M
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
+        {{< /blocks/products/pf/agp/about-file-section >}}
+
           
 
 <!-- aboutfile Ends -->

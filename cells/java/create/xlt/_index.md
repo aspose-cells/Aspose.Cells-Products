@@ -91,6 +91,8 @@ Files with .xlt extension are template files created with Microsoft Excel which 
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
+        {{< /blocks/products/pf/agp/about-file-section >}}
+
           
 
 <!-- aboutfile Ends -->

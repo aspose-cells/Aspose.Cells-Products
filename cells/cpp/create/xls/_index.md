@@ -95,6 +95,8 @@ Files with XLS extension represent Excel Binary File Format. Such files can be c
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
+        {{< /blocks/products/pf/agp/about-file-section >}}
+
           
 
 <!-- aboutfile Ends -->

@@ -95,6 +95,8 @@ Files with .xltx extension represent Microsoft Excel Template files that are bas
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
+        {{< /blocks/products/pf/agp/about-file-section >}}
+
           
 
 <!-- aboutfile Ends -->

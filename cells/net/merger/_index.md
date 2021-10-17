@@ -16,14 +16,14 @@ The simplest way to combine 2 Excel files having images & charts is by calling t
 
 ```cs
 // load first Excel file
-Workbook SourceBook1 = new Workbook("SampleChart.xlsx");
+var book1 = new Aspose.Cells.Workbook("withCharts.xlsx");
 // load second Excel file into a separate instance
-Workbook SourceBook2 = new Workbook("SampleImage.xlsx");
+var book2 = new Aspose.Cells.Workbook("withImages.xlsx");
 
 // combine two workbooks
-SourceBook1.Combine(SourceBook2);
+book1.Combine(book2);
 // save the target workbook 
-SourceBook1.Save("combined.xlsx");
+book1.Save("combined.xlsx");
 ```
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}

@@ -12,7 +12,7 @@ description: Concatenate Excel & OpenOffice spreadsheet files with just few line
 
 {{% blocks/products/pf/feature-page-section  h2="Combine Excel Files with Images and Charts" %}}
 The simplest way to combine 2 Excel files having images & charts is by calling the [Workbook.Combine](https://apireference.aspose.com/cells/net/aspose.cells/workbook/methods/combine) method. It allows to merge Excel files of similar type into a single spreadsheet.
-{{% blocks/products/pf/feature-page-code h3="C# Code for Excel File Format conversion" %}}
+{{% blocks/products/pf/feature-page-code h3="C# Code to Combine Excel Files" %}}
 
 ```cs
 // load first Excel file

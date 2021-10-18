@@ -91,7 +91,7 @@ System.IO.File.WriteAllText("output.json", jsonData);
 
 {{% blocks/products/pf/feature-page-section  h2="Convert Excel Worksheets to JPG, BMP, PNG & GIF" %}}
 Each worksheet of an Excel file can be converted to different image formats set by the [ImageOrPrintOptions.ImageType](https://apireference.aspose.com/cells/net/aspose.cells.rendering/imageorprintoptions/properties/imagetype) property. Default value is `ImageFormat.Bmp`.
-{{% blocks/products/pf/feature-page-code h3="C# code for Excel to Image Conversion" %}}
+{{% blocks/products/pf/feature-page-code h3="C# Code for Excel to Image Conversion" %}}
 ```cs
 // load template spreadsheet
 var workbook = new Aspose.Cells.Workbook("template.xlsx");
@@ -103,12 +103,12 @@ options.ImageType = Aspose.Cells.Drawing.ImageType.Jpeg;
 // create SheetRender for first worksheet in the collection
 var render = new Aspose.Cells.Rendering.SheetRender(workbook.Worksheets[0], options);
 // render worksheet to image
-render.ToImage(0, "output.jpeg");
+render.ToImage(0, "output.jpg");
 ```
 {{% /blocks/products/pf/feature-page-code %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/feature-page-options pairs="xls-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif xlsm-to-emf xls-to-bmp xls-to-gif xls-to-emf" afterslug="rendering">}}
+{{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering">}}
 
 {{% blocks/products/pf/feature-page-section  h2="Convert Excel to Word & PowerPoint" %}}
 It is possible to load any spreadsheet and convert it to Word DOCX & PowerPoint PPTX files while using [DocxSaveOptions](https://apireference.aspose.com/cells/net/aspose.cells/docxsaveoptions) & [PptxSaveOptions](https://apireference.aspose.com/cells/net/aspose.cells/pptxsaveoptions) classes as demonstrated below.

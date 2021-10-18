@@ -112,7 +112,7 @@ render.ToImage(0, "output.jpg");
 
 {{% blocks/products/pf/feature-page-section  h2="Convert Excel to Word & PowerPoint" %}}
 It is possible to load any spreadsheet and convert it to Word DOCX & PowerPoint PPTX files while using [DocxSaveOptions](https://apireference.aspose.com/cells/net/aspose.cells/docxsaveoptions) & [PptxSaveOptions](https://apireference.aspose.com/cells/net/aspose.cells/pptxsaveoptions) classes as demonstrated below.
-{{% blocks/products/pf/feature-page-code h3="C# code for Excel to Word & PowerPoint conversion" %}}
+{{% blocks/products/pf/feature-page-code h3="C# code for Excel to Word & PowerPoint Conversion" %}}
 ```cs
 // load the template file
 var workbook = new Aspose.Cells.Workbook("template.xlsx");

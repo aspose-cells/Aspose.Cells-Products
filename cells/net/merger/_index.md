@@ -5,7 +5,7 @@ description: Concatenate Excel & OpenOffice spreadsheet files with just few line
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Microsoft<sup>&reg;</sup> Excel File Merging via .NET" h2="Combine 2 or more spreadsheets in a single file using C# code" >}}
+{{< blocks/products/pf/feature-page-header h1="Microsoft<sup>&reg;</sup> Excel File Merging via .NET" h2="Combine 2 or more Excel files in a single spreadsheet using C# code" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 [.NET Excel Library](/cells/net/) provides multiple ways to combine workbooks with various types of content like formulas, data, images, charts and so on into a single spreadsheet file. Supported file formats include XLS, XLSX, XLSB, XLT, XLTX, XLTM, ODS, CSV, TSV and more.
 {{% /blocks/products/pf/feature-page-summary  %}}

@@ -11,7 +11,7 @@ description: Convert Excel XLS, XLSX, ODS, CSV to PDF, XPS, HTML, JPEG, HTML and
 For any **Excel converter** application or solution, Java Excel Library speeds up spreadsheet programming and conversion processes while handling multiple formats including XLS, XLSX, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, ODS. It also allows to **convert Excel files to PDF**, XPS, HTML, MHTML, Plain Text and popular image formats such as TIFF, JPG, PNG, BMP and SVG.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
-{{% blocks/products/pf/feature-page-section  h2="Convert Excel to XLSX, ODS, SXC & FODS" %}}
+{{% blocks/products/pf/feature-page-section  h2="Inter-conversion of Microsoft Excel Formats" %}}
 Inter-conversion of spreadsheet format only requires loading a spreadsheet with an instance of [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) and saving back in the desired format while selecting appropriate value from [SaveFormat](https://apireference.aspose.com/cells/java/com.aspose.cells/SaveFormat) enumeration.
 {{% blocks/products/pf/feature-page-code h3="Java Example Code for Excel File Format Conversion" %}}
 

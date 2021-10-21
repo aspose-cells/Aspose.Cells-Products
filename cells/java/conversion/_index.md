@@ -109,8 +109,8 @@ writer.close();
 
 {{< blocks/products/pf/feature-page-options pairs="json-to-xlsx json-to-ods json-to-csv json-to-dif json-to-html csv-to-json xls-to-json ods-to-json" >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Convert Excel Worksheets to JPG, BMP, PNG & GIF" %}}
-Each worksheet can be converted to different image formats set by the ImageType property. For any **Convert Excel to Images** case, select the relevant case from links.
+{{% blocks/products/pf/feature-page-section  h2="Save Excel Worksheets to Images" %}}
+Each worksheet can be converted to different image formats including JPG, BMP, PNG & GIF, set by the ImageType property. For any **Convert Excel to Images** case, select the relevant case from links.
 {{% blocks/products/pf/feature-page-code h3="Java Code for Excel to Image Conversion" %}}
 ```cs
 // load template spreadsheet

@@ -92,14 +92,16 @@ Aspose::Cells::Systems::Int32 pageCount = sr->GetPageCount();
 intrusive_ptr<Aspose::Cells::Systems::Text::StringBuilder> sb = new Aspose::Cells::Systems::Text::StringBuilder();
 
 // Render each page to jpeg image one by one.
-for (int i = 0; i Clear();
+for (int i = 0; i < pageCount; i++){
+	// Clear string builder and create output image path with string concatenations.
+	sb->Clear();
 	sb->Append(outDir);
 	sb->Append((StringPtr)new String("outputConvertingWorksheetToImageJPEG_"));
 	sb->Append(i);
 	sb->Append((StringPtr)new String(".jpeg"));
 	// Get the output image path.
 	StringPtr outputJPEG = sb->ToString();
-	// Convert worksheet to jpeg image.
+	// Convert worksheet to image.
 	sr->ToImage(i, outputJPEG);
 }
 ```

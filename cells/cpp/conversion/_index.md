@@ -97,10 +97,8 @@ for (int i = 0; i Clear();
 	sb->Append((StringPtr)new String("outputConvertingWorksheetToImageJPEG_"));
 	sb->Append(i);
 	sb->Append((StringPtr)new String(".jpeg"));
-
 	// Get the output image path.
 	StringPtr outputJPEG = sb->ToString();
-
 	// Convert worksheet to jpeg image.
 	sr->ToImage(i, outputJPEG);
 }

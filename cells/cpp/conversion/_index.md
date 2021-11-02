@@ -54,7 +54,7 @@ wkb->Save(u"output-converted-excel-workbook-to.pdf", pdfSaveOptions);
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/feature-page-options formats="PDF" beforeslug="convert">}}
+{{< blocks/products/pf/feature-page-options formats="PDF">}}
 
 {{% blocks/products/pf/feature-page-section  h2="Save Excel to Images" %}}
 **C++ Excel Parser** has the ability to export data in the form of images. Each worksheet can be converted to different image formats including BMP, JPEG, PNG and GIF, set by the [Rendering::IImageOrPrintOptions](https://apireference.aspose.com/cells/cpp/class/aspose.cells.rendering.i_image_or_print_options). For any **Convert Excel to Images** case, select the relevant case from links.

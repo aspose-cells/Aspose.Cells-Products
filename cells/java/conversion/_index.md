@@ -11,7 +11,7 @@ description: Convert Excel XLS, XLSX, ODS, CSV to PDF, XPS, HTML, JPEG, HTML and
 For any **Excel converter** application or solution, Java Excel Library speeds up spreadsheet programming and conversion processes while handling multiple formats including XLS, XLSX, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, ODS. It also allows to **convert Excel files to PDF**, XPS, HTML, MHTML, Plain Text and popular image formats such as TIFF, JPG, PNG, BMP and SVG.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
-{{% blocks/products/pf/feature-page-section  h2="Inter-conversion of Microsoft Excel Formats" %}}
+{{% blocks/products/pf/feature-page-section  h2="Inter-conversion of Microsoft<sup>&reg;</sup> Excel Formats" %}}
 Inter-conversion of spreadsheet format only requires loading a spreadsheet with an instance of [Workbook](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) and saving back in the desired format while selecting appropriate value from [SaveFormat](https://apireference.aspose.com/cells/java/com.aspose.cells/SaveFormat) enumeration.
 {{% blocks/products/pf/feature-page-code h3="Java Example Code for Excel File Format Conversion" %}}
 
@@ -137,7 +137,7 @@ for (int j = 0; j < sr.getPageCount(); j++) {
 
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering">}}
 
-{{% blocks/products/pf/feature-page-section  h2="Convert Microsoft Excel to Word and PowerPoint" %}}
+{{% blocks/products/pf/feature-page-section  h2="Convert Microsoft<sup>&reg;</sup> Excel to Word and PowerPoint" %}}
 It is possible to load any spreadsheet and convert it to Word DOCX & PowerPoint PPTX files while using [DocxSaveOptions](https://apireference.aspose.com/cells/java/com.aspose.cells/DocxSaveOptions) & [PptxSaveOptions](https://apireference.aspose.com/cells/java/com.aspose.cells/PptxSaveOptions) classes as demonstrated below.
 {{% blocks/products/pf/feature-page-code h3="Java code for Excel to Word & PowerPoint Conversion" %}}
 ```cs

@@ -11,7 +11,7 @@ description: Convert Excel XLS, XLSX, ODS, CSV to PDF, XPS, HTML, JPEG and other
 For any spreadsheet converter application or solution, **C++ Excel Library** speeds up coding, automation and conversion processes while handling multiple files including XLSX, XLS, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, ODS.  It also allows to **convert Excel to PDF**, XPS, HTML, MHTML, Plain Text and popular images such as JPG, TIFF, PNG, BMP and SVG.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
-{{% blocks/products/pf/feature-page-section  h2="Inter-conversion of Microsoft<sup>&reg;</sup> Excel Formats" %}}
+{{% blocks/products/pf/feature-page-section  h2="Inter-conversion of Microsoft Excel Formats" %}}
 Inter-conversion of spreadsheet format only requires loading a spreadsheet with an instance of [ intrusive_ptr<Aspose::Cells::IWorkbook>](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) pointer and saving back in the desired format using [Save](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997) method of [IWorkbook class](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook).
 {{% blocks/products/pf/feature-page-code h3="C++ Example Code for Excel File Format Conversion" %}}
 

@@ -139,7 +139,7 @@ for (int j = 0; j < sr.getPageCount(); j++) {
 
 {{% blocks/products/pf/feature-page-section  h2="Convert Microsoft Excel to Word and PowerPoint" %}}
 It is possible to load any spreadsheet and convert it to Word DOCX & PowerPoint PPTX files while using [DocxSaveOptions](https://apireference.aspose.com/cells/java/com.aspose.cells/DocxSaveOptions) & [PptxSaveOptions](https://apireference.aspose.com/cells/java/com.aspose.cells/PptxSaveOptions) classes as demonstrated below.
-{{% blocks/products/pf/feature-page-code h3="Java code for Excel to Word & PowerPoint Conversion" %}}
+{{% blocks/products/pf/feature-page-code h3="Java Code for Excel to Word & PowerPoint Conversion" %}}
 ```cs
 // load the template file
 var wkb = new Workbook("template.xlsx");

@@ -14,8 +14,10 @@ description: C# source codes that explains how to split Microsoft Excel files in
 The simplest way to split Excel files into panes is by calling the [Worksheet.Split](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/split) method. Then saving it into a specified path. After splitting it into panes, one can easily view and compare data in different parts of the same worksheet.
 
 +  Load the Excel file with full path using [Workbook class](https://apireference.aspose.com/cells/net/aspose.cells/workbook).
-+  Use the relevant [Worksheet.Split](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/split) splitting functions to split.
-+  Call the Save() method and pass the file name (full path).
++  Iterate throug each sheet
++  Create a new Workbook class object
++  Copy the sheet via [Copy method](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
++  Call the Save() method and pass the file name (full path) having relevant SaveFormat.
 
 {{% blocks/products/pf/feature-page-code h3="C# Code to Split Excel Files" %}}
 

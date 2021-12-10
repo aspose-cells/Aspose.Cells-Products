@@ -20,15 +20,13 @@ The simplest way to split Excel files into panes is by calling the [Worksheet.Sp
 {{% blocks/products/pf/feature-page-code h3="C# Code to Split Excel Files" %}}
 
 ```cs
-// Instantiate a new workbook and Open a template file
-Workbook wkb = new Workbook("Book1.xls");
-// Set the active cell
-wkb.Worksheets[0].ActiveCell = "A20";
-// Split the worksheet window
-wkb.Worksheets[0].Split();
-// Save the excel file
-wkb.Save("output.xls");
-// also it can be saved to desired format such as Xlsx, Xls, Xlsm, Xlsb, Ods
+var wkb = new Aspose.Cells.Workbook("D:\\book3.xlsx");
+foreach(Aspose.Cells.Worksheet sht in wkb.Worksheets)
+{
+    var bk = new Aspose.Cells.Workbook();
+    bk.Worksheets[0].Copy(sht);
+    bk.Save("D:\\" + sht.Name + ".xlsx", Aspose.Cells.SaveFormat.Xlsx);
+}
 ```
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}

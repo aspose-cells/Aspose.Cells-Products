@@ -124,9 +124,9 @@ workbook->Save(outputChartTypeCustom);
 
 <!-- aboutfile Starts -->
 
-    {{% blocks/products/pf/agp/content h2="About Aspose.Cells for C++ API" %}}
+    {{% blocks/products/pf/agp/content h2="" %}}
 
- Generate XLSX documents charts right now by visiting our
+ Convert XLSX documents charts to images right now by visiting our by visiting our
  [Live Demos website](https://products.aspose.app/cells/chart) 
  . The live demo has the following benefits
 
@@ -136,11 +136,11 @@ workbook->Save(outputChartTypeCustom);
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Online XLSX Chart Creation Live Demos" sectionDescription="Generate XLSX documents charts right now by visiting our [Live Demos website](https://products.aspose.app/cells/chart). The live demo has the following benefits" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Online XLSX Chart Conversion Live Demos" sectionDescription="Convert XLSX documents charts to images right now by visiting our by visiting our [Live Demos website](https://products.aspose.app/cells/chart). The live demo has the following benefits" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your XLSX files." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Chart will be created instantly." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Chart will be converted instantly." >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="XLSX" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}
 XLSX is well-known format for Microsoft Excel documents that was introduced by Microsoft with the release of Microsoft Office 2007. Based on structure organized according to the Open Packaging Conventions as outlined in Part 2 of the OOXML standard ECMA-376, the new format is a zip package that contains a number of XML files. The underlying structure and files can be examined by simply unzipping the .xlsx file. 

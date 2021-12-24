@@ -62,10 +62,10 @@ description: Java sample code to split ODS documents on Java Runtime Environment
 {{% /blocks/products/pf/agp/text %}}
 
 +  Load ODS file using Workbook class.
-+  Select relevant worksheet, Split ODS document into pages.
-+  Using getCells(), get all cells of the selected worksheet.
-+  Split all the relevant cells.
-+  Save the workbook in a new ODS file.
++  Iterate through each sheet
++  Create new Workbook class object
++  Copy the selected sheet to new object
++  Call the save method with new ODS file path.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -86,19 +86,23 @@ description: Java sample code to split ODS documents on Java Runtime Environment
 {{% blocks/products/pf/agp/code-block title="Split ODS File - Java" offSpacer="" %}}
 
 ```cs
-Workbook wbk = new Workbook("mergingcells.ods");
+Workbook wbk = new Workbook("sourceFile.ods");
 
-// Create a Worksheet and get the first sheet.
-Worksheet worksheet = wbk.getWorksheets().get(0);
+//Iterate all worksheets inside the workbook
 
-// Create a Cells object to fetch all the cells.
-Cells cells = worksheet.getCells();
+for(int i=0; i< wbk.getWorksheets().getCount(); i++){
 
-// split the cells.
-cells.unMerge(5, 2, 2, 3);
+	//Access the i th worksheet
 
-// Save the file.
-wbk.save("UnMergingCellsInWorksheet_out.ods");  
+	Worksheet worksheet = wbk.getWorksheets().get(i);
+
+	Workbook bk = new Workbook();
+	 
+	bk.getWorksheets().get(0).copy(worksheet);
+	 
+	// Save the file.
+	bk.save("path"+worksheet.getName()+"-"+i+".ods"); 
+}  
 
 ```
 

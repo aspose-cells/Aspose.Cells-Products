@@ -62,10 +62,10 @@ description: Java sample code to split XLSB documents on Java Runtime Environmen
 {{% /blocks/products/pf/agp/text %}}
 
 +  Load XLSB file using Workbook class.
-+  Select relevant worksheet, Split XLSB document into pages.
-+  Using getCells(), get all cells of the selected worksheet.
-+  Split all the relevant cells.
-+  Save the workbook in a new XLSB file.
++  Iterate through each sheet
++  Create new Workbook class object
++  Copy the selected sheet to new object
++  Call the save method with new XLSB file path.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -86,19 +86,24 @@ description: Java sample code to split XLSB documents on Java Runtime Environmen
 {{% blocks/products/pf/agp/code-block title="Split XLSB File - Java" offSpacer="" %}}
 
 ```cs
-Workbook wbk = new Workbook("mergingcells.xlsb");
 
-// Create a Worksheet and get the first sheet.
-Worksheet worksheet = wbk.getWorksheets().get(0);
+Workbook wbk = new Workbook("sourceFile.xlsb");
 
-// Create a Cells object to fetch all the cells.
-Cells cells = worksheet.getCells();
+//Iterate all worksheets inside the workbook
 
-// split the cells.
-cells.unMerge(5, 2, 2, 3);
+for(int i=0; i< wbk.getWorksheets().getCount(); i++){
 
-// Save the file.
-wbk.save("UnMergingCellsInWorksheet_out.xlsb");  
+	//Access the i th worksheet
+
+	Worksheet worksheet = wbk.getWorksheets().get(i);
+
+	Workbook bk = new Workbook();
+	 
+	bk.getWorksheets().get(0).copy(worksheet);
+	 
+	// Save the file.
+	bk.save("path"+worksheet.getName()+"-"+i+".xlsb"); 
+}  
 
 ```
 

@@ -6,7 +6,7 @@ description: Process Excel file formats via Node.js library. Read write render &
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Node.js Excel File Format APIs" h2="Generate, modify, convert & render Excel spreadsheets using Node.js without requiring Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-nodejs-java.svg" pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/cells/nodejs" >}}
+{{< blocks/products/pf/upper-banner h1="Node.js Excel File Format APIs" h2="Generate, modify, convert & render Excel spreadsheets using Node.js without requiring Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-nodejs-java.svg" pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/cells/nodejs" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" >}}
 
@@ -14,7 +14,7 @@ description: Process Excel file formats via Node.js library. Read write render &
 
 {{< blocks/products/pf/tab-content >}}
 <p>
- Aspose.Cells for Node.js via Java is a feature-rich and scalable API to process Excel spreadsheets using Node.js. API offers Excel file format conversion, worksheets styling to the most granular level, chart creation &amp; rendering, reliable formula calculation engine and much more.
+ Aspose.Cells for Node.js via Java is a feature-rich and scalable API to process Excel spreadsheets using Node.js. API offers Excel file format conversion, worksheets styling to the most granular level, chart creation &amp; rendering, reliable formula calculation engine and much more.
 </p>
 
 <p>
@@ -26,7 +26,7 @@ description: Process Excel file formats via Node.js library. Read write render &
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of Aspose.Cells for Node.js via Java capabilities." >}}
+{{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of Aspose.Cells for Node.js via Java capabilities." >}}
 <div class="diagram1 d1-nodejs">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -73,7 +73,7 @@ description: Process Excel file formats via Node.js library. Read write render &
    </ul>
    <!--
 
-<header><i class="fa fa-table"> </i>Aspose.Cells GridWeb Control</header>
+<header><i class="fa fa-table"> </i>Aspose.Cells GridWeb Control</header>
 
 <ul>
 
@@ -306,7 +306,7 @@ description: Process Excel file formats via Node.js library. Read write render &
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Manipulate and refresh Pivot Tables via API
+     Manipulate and refresh Pivot Tables via API
     </p>
    </div>
    <div class="col-lg-4">
@@ -321,7 +321,7 @@ description: Process Excel file formats via Node.js library. Read write render &
      Rendering Excel Spreadsheets
     </h2>
     <p>
-     Aspose.Cells for Node.js via Java uses its rendering engine for rendering to the Microsoft Excel with the highest of fidelity. While using Node.js Excel Processing library, one can convert whole sheets, individual files or charts to multiple images and fixed-layout formats.
+     Aspose.Cells for Node.js via Java uses its rendering engine for rendering to the Microsoft Excel with the highest of fidelity. While using Node.js Excel Processing library, one can convert whole sheets, individual files or charts to multiple images and fixed-layout formats.
     </p>
    </div>
    <div class="col-lg-12">
@@ -329,7 +329,7 @@ description: Process Excel file formats via Node.js library. Read write render &
      Flexible Display Options
     </h2>
     <p>
-     Aspose.Cells for Node.js via Java provides full control of the worksheet's page setup one can manipulate worksheet's display options like page orientation, breaks, size, scaling, headers, footers, and zoom level. Furthermore, developers can control the data visibility with the help of print area and freeze panes to suit application specifications.
+     Aspose.Cells for Node.js via Java provides full control of the worksheet's page setup one can manipulate worksheet's display options like page orientation, breaks, size, scaling, headers, footers, and zoom level. Furthermore, developers can control the data visibility with the help of print area and freeze panes to suit application specifications.
     </p>
    </div>
    <div class="col-lg-12">
@@ -361,7 +361,7 @@ description: Process Excel file formats via Node.js library. Read write render &
      Chart Creation, Manipulation &amp; Rendering
     </h2>
     <p>
-     Aspose.Cells for Node.js via Java provides full support for charting. One can easily add customized or standard charts using the API, and dynamically set the data in order to refresh the charts.
+     Aspose.Cells for Node.js via Java provides full support for charting. One can easily add customized or standard charts using the API, and dynamically set the data in order to refresh the charts.
     </p>
    </div>
   </div>

@@ -30,15 +30,15 @@ Native C++ library to create, load, manipulate, convert or render Microsoft Exce
 {{< blocks/products/pf/product-card-row title="Aspose.Cells Cloud APIs Include" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud for cURL" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_cells-for-curl.png" productLink="https://products.aspose.cloud/cells/curl" >}}
-Forget about the platform, just send a REST API call to process Microsoft Excel spreadsheets from any type of device capable of executing cURL commands.
+Forget about the platform, just send a REST API call to process Microsoft Excel spreadsheets from any type of device capable of executing cURL commands.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud SDK for .NET" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_cells-for-net.png" productLink="https://products.aspose.cloud/cells/net" >}}
-Open source SDK specifically designed to facilitate .NET programmers to use Aspose.Cells RESTFul APIs with ease.
+Open source SDK specifically designed to facilitate .NET programmers to use Aspose.Cells RESTFul APIs with ease.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud SDK for Java" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_cells-for-java.png" productLink="https://products.aspose.cloud/cells/java" >}}
-Easy to use Java SDK to communicate with Aspose.Cells Cloud APIs for Microsoft Excel & Calc file creation, conversion & manipulation.
+Easy to use Java SDK to communicate with Aspose.Cells Cloud APIs for Microsoft Excel & Calc file creation, conversion & manipulation.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/center-button href="https://products.aspose.cloud/cells/family" innerText="View All Cloud APIs" >}}
@@ -65,7 +65,7 @@ View spreadsheet files including XLS, XLSX, XLSM, XLSB & ODS in your favorite br
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about Aspose.Cells." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.cells/" >}}
+{{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about Aspose.Cells." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.cells/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">

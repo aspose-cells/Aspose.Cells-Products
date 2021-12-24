@@ -6,7 +6,7 @@ description: C# ASP.NET VB.NET library to work with Microsoft Excel documents. C
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Manipulate Excel Files via .NET APIs" h2="Read and Write spreadsheet files on .NET, .NET Core & Xamarin platforms. Export spreadsheets to other formats without Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-net.svg" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/cells/net" >}}
+{{< blocks/products/pf/upper-banner h1="Manipulate Excel Files via .NET APIs" h2="Read and Write spreadsheet files on .NET, .NET Core & Xamarin platforms. Export spreadsheets to other formats without Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-net.svg" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/cells/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for .NET" >}}
 
@@ -454,7 +454,7 @@ description: C# ASP.NET VB.NET library to work with Microsoft Excel documents. C
      Convert Spreadsheets to PDF, XPS &amp; HTML Formats
     </h2>
     <p>
-     Aspose.Cells for .NET is capable of converting spreadsheets to PDF, XPS &amp; HTML formats while maintaining the highest visual fidelity. The conversion process is simple yet reliable, thus making API a perfect choice for the organizations which require to exchange documents in any of the industry-standard formats.
+     Aspose.Cells for .NET is capable of converting spreadsheets to PDF, XPS &amp; HTML formats while maintaining the highest visual fidelity. The conversion process is simple yet reliable, thus making API a perfect choice for the organizations which require to exchange documents in any of the industry-standard formats.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -499,7 +499,7 @@ workbook.Save(dir + "output.html", Aspose.Cells.SaveFormat.Html);</code></pre>
      Summarize Data with Pivot Tables, Charts &amp; Smart Markers
     </h2>
     <p>
-     A Pivot Table can help you quickly summarize the flat data and to get the desired information according to your needs. .NET Excel library allows you to dynamically create Pivot Tables and Pivot Charts. You can dynamically change the source data of a Pivot Table and refresh it. Moreover, library offers Smart Markers which is a great feature to populate worksheets based on some data sources and to create visually effective reports.
+     A Pivot Table can help you quickly summarize the flat data and to get the desired information according to your needs. .NET Excel library allows you to dynamically create Pivot Tables and Pivot Charts. You can dynamically change the source data of a Pivot Table and refresh it. Moreover, library offers Smart Markers which is a great feature to populate worksheets based on some data sources and to create visually effective reports.
     </p>
    </div>
    <div class="col-lg-12">
@@ -545,7 +545,7 @@ renderer.ToImage(0, dir + "output.jpeg");</code></pre>
      Chart Creation &amp; Manipulation
     </h2>
     <p>
-     Aspose.Cells for .NET comes with complete support for charting. You can easily add standard or customized charts using the product API and dynamically set the data in order to refresh the charts. API also allows you to convert charts to a number of image formats.
+     Aspose.Cells for .NET comes with complete support for charting. You can easily add standard or customized charts using the product API and dynamically set the data in order to refresh the charts. API also allows you to convert charts to a number of image formats.
     </p>
    </div>
    <div class="col-lg-12">
@@ -571,7 +571,7 @@ renderer.ToImage(0, dir + "output.jpeg");</code></pre>
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about it." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.cells/" >}}
+{{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about it." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.cells/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">

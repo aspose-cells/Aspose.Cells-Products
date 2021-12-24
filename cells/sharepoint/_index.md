@@ -289,7 +289,7 @@ description: Aspose.Cells for SharePoint App is a SharePoint Excel Spreadsheet c
      Interact with Public API
     </h2>
     <p>
-     For developers having internal SharePoint solutions, they can use Aspose.Cells for SharePoint's document conversion engine via its public API. It provides programmatic access to all supported formats and conversion options.
+     For developers having internal SharePoint solutions, they can use Aspose.Cells for SharePoint's document conversion engine via its public API. It provides programmatic access to all supported formats and conversion options.
     </p>
    </div>
    <div class="col-lg-12">

@@ -6,7 +6,7 @@ description: Java Excel library for spreadsheet processing. Read write render an
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java Excel Spreadsheet Processing API" h2="Create, manipulate, convert, protect or print spreadsheets without relying on Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-java.svg" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/cells/java" >}}
+{{< blocks/products/pf/upper-banner h1="Java Excel Spreadsheet Processing API" h2="Create, manipulate, convert, protect or print spreadsheets without relying on Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-java.svg" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/cells/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Java" >}}
 
@@ -14,11 +14,11 @@ description: Java Excel library for spreadsheet processing. Read write render an
 
 {{< blocks/products/pf/tab-content >}}
 <p>
- Aspose.Cells for Java is an award-winning Excel Spreadsheet Processing API that allows the developers to embed the functionality to read, write, manipulate, convert &amp; print spreadsheets in their own applications, without needing Microsoft Excel application.
+ Aspose.Cells for Java is an award-winning Excel Spreadsheet Processing API that allows the developers to embed the functionality to read, write, manipulate, convert &amp; print spreadsheets in their own applications, without needing Microsoft Excel application.
 </p>
 
 <p>
- Aspose.Cells for Java is a mature and feature-rich library, offering many functions that are way beyond the simple data export capabilities of other components available on the market. API provides the capabilities to export data, format spreadsheets to the most granular level, import &amp; export images, create charts &amp; Pivot Tables, apply &amp; calculate complex formulas using formula calculation engine, stream Excel data &amp; save the result in various formats.
+ Aspose.Cells for Java is a mature and feature-rich library, offering many functions that are way beyond the simple data export capabilities of other components available on the market. API provides the capabilities to export data, format spreadsheets to the most granular level, import &amp; export images, create charts &amp; Pivot Tables, apply &amp; calculate complex formulas using formula calculation engine, stream Excel data &amp; save the result in various formats.
 </p>
 
 {{< /blocks/products/pf/tab-content >}}
@@ -26,7 +26,7 @@ description: Java Excel library for spreadsheet processing. Read write render an
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="At a Glance" description="A generic overview." >}}
+{{< blocks/products/pf/carousel-item h3="At a Glance" description="A generic overview." >}}
 <div class="diagram1 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -87,7 +87,7 @@ description: Java Excel library for spreadsheet processing. Read write render an
      Load Excel Files
     </li>
     <li>
-     Save Excel Documents
+     Save Excel Documents
     </li>
     <li>
      Provides Editing Capabilities
@@ -119,7 +119,7 @@ description: Java Excel library for spreadsheet processing. Read write render an
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Platform Independence" description="The library for Java-based applications developed on Windows Unix/Linux and Mac platforms." >}}
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="The library for Java-based applications developed on Windows Unix/Linux and Mac platforms." >}}
 <div class="diagram1 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -270,7 +270,7 @@ description: Java Excel library for spreadsheet processing. Read write render an
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Advanced Java Excel Library Supports
+    Advanced Java Excel Library Supports
    </h2>
    <!-- <p>Unlike similar products from other vendors, Aspose.Cells for Java not only supports spreadsheet generation and other basic file formatting features, it also supports a number of advanced features. These advanced features make it much easier for developers to manipulate spreadsheet contents, cell formatting and file protection. <p> -->
    <p>
@@ -279,7 +279,7 @@ description: Java Excel library for spreadsheet processing. Read write render an
     <em class="fa fa-exchange ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Import and export data from ArrayList, Array &amp; Recordset
+     Import and export data from ArrayList, Array &amp; Recordset
     </p>
    </div>
    <div class="col-lg-4">
@@ -300,7 +300,7 @@ description: Java Excel library for spreadsheet processing. Read write render an
     <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Generate and manipulate Named Ranges
+     Generate and manipulate Named Ranges
     </p>
    </div>
    <div class="col-lg-4">
@@ -377,15 +377,15 @@ description: Java Excel library for spreadsheet processing. Read write render an
     <em class="fa fa-file-code-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Modify VBA code or Macros in the template document
+     Modify VBA code or Macros in the template document
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Save Excel Files to Different Formats
+     Save Excel Files to Different Formats
     </h2>
     <p>
-     Excel API offers conversion of spreadsheets to PDF, XPS, HTML, and more formats while keeping the highest visual fidelity. The reliable and flexible conversion process makes Aspose.Cells a perfect choice for organizations that mostly exchange files within industry-standard formats.
+     Excel API offers conversion of spreadsheets to PDF, XPS, HTML, and more formats while keeping the highest visual fidelity. The reliable and flexible conversion process makes Aspose.Cells a perfect choice for organizations that mostly exchange files within industry-standard formats.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -409,7 +409,7 @@ wbk.save(dir + "output.html", SaveFormat.HTML);</code></pre>
      Format Worksheets to Most Granular Level
     </h2>
     <p>
-     Library provides spreadsheets styling including but not limited to worksheet formatting at row, column, and cell level, adding conditional formatting rules, defining number formats and setting fonts with attributes. Similarly, API supports manipulating and creating all types of custom and standard charts as well as various drawing objects like OLE objects, pictures, comments, shapes, and controls to the cells.
+     Library provides spreadsheets styling including but not limited to worksheet formatting at row, column, and cell level, adding conditional formatting rules, defining number formats and setting fonts with attributes. Similarly, API supports manipulating and creating all types of custom and standard charts as well as various drawing objects like OLE objects, pictures, comments, shapes, and controls to the cells.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -424,7 +424,7 @@ wbk.save(dir + "output.html", SaveFormat.HTML);</code></pre>
      Convert Charts &amp; Sheets to Image &amp; PDF Formats
     </h2>
     <p>
-     Aspose.Cells for Java offers special conversion features like charts to images and PDF, worksheets to images, printing worksheets and converting spreadsheets to the PDF file format. The conversion process is greatly flexible and easy, allowing to select a number of ways for the conversion, such as images re-sampling during spreadsheets to PDF transformation or adjusting the resultant image dimensions while rendering worksheets and charts to images.
+     Aspose.Cells for Java offers special conversion features like charts to images and PDF, worksheets to images, printing worksheets and converting spreadsheets to the PDF file format. The conversion process is greatly flexible and easy, allowing to select a number of ways for the conversion, such as images re-sampling during spreadsheets to PDF transformation or adjusting the resultant image dimensions while rendering worksheets and charts to images.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -452,15 +452,15 @@ chart.toPdf(dir + "output.pdf");</code></pre>
      Manipulate Excel Rows &amp; Columns
     </h2>
     <p>
-     Aspose.Cells for Java allows you to modify rows and columns in a variety of ways. One can easily adjust column width and row height, auto-size the width/height of cells as of contents, insert &amp; delete, hide &amp; un-hide as well as group &amp; un-group rows and columns.
+     Aspose.Cells for Java allows you to modify rows and columns in a variety of ways. One can easily adjust column width and row height, auto-size the width/height of cells as of contents, insert &amp; delete, hide &amp; un-hide as well as group &amp; un-group rows and columns.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Summarize Data with Charts &amp; Pivot Tables
+     Summarize Data with Charts &amp; Pivot Tables
     </h2>
     <p>
-     It can be difficult to get summarized information with very large spreadsheets. A Pivot Table is there to quickly describe the flat data and to obtain the relevant information as of the needs. API dynamically creates Pivot Tables and Charts. Dynamically changing the Pivot Table source data is possible. Furthermore, Smart Markers, another top feature of this library to fill worksheets through data sources and to generate visually effective reports.
+     It can be difficult to get summarized information with very large spreadsheets. A Pivot Table is there to quickly describe the flat data and to obtain the relevant information as of the needs. API dynamically creates Pivot Tables and Charts. Dynamically changing the Pivot Table source data is possible. Furthermore, Smart Markers, another top feature of this library to fill worksheets through data sources and to generate visually effective reports.
     </p>
    </div>
    <!--
@@ -499,7 +499,7 @@ chart.toPdf(dir + "output.pdf");</code></pre>
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about spreadsheet APIs." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.cells/" >}}
+{{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about spreadsheet APIs." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.cells/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">

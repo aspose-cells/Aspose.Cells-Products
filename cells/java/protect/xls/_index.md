@@ -51,7 +51,7 @@ description: Java sample code to lock XLS file using password on Java Runtime En
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Steps to Protect XLS Files via Java" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Steps to Protect XLS Files via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -105,7 +105,7 @@ wkb.save("lockedFile.xls");
 
 {{% blocks/products/pf/agp/content h2="About Aspose.Cells for Java API" %}}
 
- Aspose.Cells API can be used to create, edit, convert and render Microsoft Excel formats to different formats. Moreover, it can be used for comprehensive charting, scalable reporting and reliable calculations within software applications. Aspose.Cells is a standalone API and it does not require any software like Microsoft or OpenOffice. ‎
+ Aspose.Cells API can be used to create, edit, convert and render Microsoft Excel formats to different formats. Moreover, it can be used for comprehensive charting, scalable reporting and reliable calculations within software applications. Aspose.Cells is a standalone API and it does not require any software like Microsoft or OpenOffice.  
 
 
 

@@ -123,7 +123,7 @@ description: C++ Excel library to read write and parse files including XLS, XLSX
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Platform Independence" description="API fully supports C++ applications on following platforms with [system requirements](https://docs.aspose.com/cells/cpp/system-requirements/)." >}}
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="API fully supports C++ applications on following platforms with [system requirements](https://docs.aspose.com/cells/cpp/system-requirements/)." >}}
 <div class="diagram1 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -415,7 +415,7 @@ description: C++ Excel library to read write and parse files including XLS, XLSX
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Convert Excel files in multiple formats - C++
+      Convert Excel files in multiple formats - C++
      </h3>
      <pre><code class="cpp">// load the document for conversion
 
@@ -451,7 +451,7 @@ book-&gt;Save(dir-&gt;StringAppend(new String("output.csv")), SaveFormat_CSV);</
      Render Worksheets as Images
     </h2>
     <p>
-     The library renders with the highest of fidelity to Microsoft Excel using its own rendering engine. It offers distinctive features such as rendering worksheets to images in popular formats including BMP, TIFF, PNG, JPEG &amp; EMF. The Sheet2Image process is flexible thus allowing to select options such as controlling the resultant image's resolution.
+     The library renders with the highest of fidelity to Microsoft Excel using its own rendering engine. It offers distinctive features such as rendering worksheets to images in popular formats including BMP, TIFF, PNG, JPEG &amp; EMF. The Sheet2Image process is flexible thus allowing to select options such as controlling the resultant image's resolution.
     </p>
    </div>
    <div class="col-lg-12">
@@ -459,7 +459,7 @@ book-&gt;Save(dir-&gt;StringAppend(new String("output.csv")), SaveFormat_CSV);</
      Manipulate Columns and Rows
     </h2>
     <p>
-     Aspose.Cells for C++ offers rows and columns manipulation in multiple ways. Adjust row height and column width or auto resize the cell dimensions according to the contents in it, is too easy. The API also offers the means to delete and inset, hide or show as well as rows and columns grouping or un-grouping.
+     Aspose.Cells for C++ offers rows and columns manipulation in multiple ways. Adjust row height and column width or auto resize the cell dimensions according to the contents in it, is too easy. The API also offers the means to delete and inset, hide or show as well as rows and columns grouping or un-grouping.
     </p>
    </div>
    <div class="col-lg-12">

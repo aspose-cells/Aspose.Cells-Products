@@ -95,7 +95,7 @@ wkb->Save(u"convertedFile.xml", SaveFormat_Xml);
 
     {{% blocks/products/pf/agp/content h2="C++ Excel File Manipulation Library" %}}
 
- Excel API can be used to create, edit, convert and render Microsoft Excel formats to different formats. Moreover, it can be used for comprehensive charting, scalable reporting and reliable calculations within software applications. Aspose.Cells is a standalone API and it does not require any software like Microsoft or OpenOffice. ‎
+ Excel API can be used to create, edit, convert and render Microsoft Excel formats to different formats. Moreover, it can be used for comprehensive charting, scalable reporting and reliable calculations within software applications. Aspose.Cells is a standalone API and it does not require any software like Microsoft or OpenOffice.  
 
 
 

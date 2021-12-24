@@ -69,16 +69,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/code-block title="Split XLS File - C#" offSpacer="" %}}
 
-```cs
-var wkb = new Workbook("D:\\book3.xls");
-foreach(Worksheet sht in wkb.Worksheets)
-{
-    var bk = new Workbook();
-    bk.Worksheets[0].Copy(sht);
-    bk.Save("D:\\" + sht.Name + ".xls", SaveFormat.Xls);
-}  
-
-```
+{{< gist "aspose-com-gists" "bff05bb3d479c29ac0aa116d1a641264" "split-xls-file.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

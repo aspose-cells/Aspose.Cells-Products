@@ -35,13 +35,13 @@ PM> Install-Package Aspose.Cells
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Steps to Redact XLS Files in C#" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Steps to Redact XLS Files in C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- A basic document search and replace text in contents, comments or metadata with
+ A basic document search and replace text in contents, comments or metadata with
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- APIs can be done with just few lines of code.
+ APIs can be done with just few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -68,7 +68,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Redact XLS Files - C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Redact XLS Files - C#" offSpacer="" %}}
 
 ```cs
 Workbook wb = new Workbook("e:\test2\Input.xls");
@@ -119,7 +119,7 @@ wb.Save("e:\test2\output.xls");
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Online XLS Redaction Live Demos" sectionDescription="Search and replace text in contents, comments or metadata in XLS documents right now by visiting our [Live Demos website](https://products.aspose.app/cells/redaction). The live demo has the following benefits" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Online XLS Redaction Live Demos" sectionDescription="Search and replace text in contents, comments or metadata in XLS documents right now by visiting our [Live Demos website](https://products.aspose.app/cells/redaction). The live demo has the following benefits" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your XLS files." >}}

@@ -51,7 +51,7 @@ description: Java sample code to lock XLSX file using password on Java Runtime E
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Steps to Protect XLSX Files via Java" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Steps to Protect XLSX Files via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 

@@ -6,15 +6,15 @@ description: Python spreadsheet library to create read write and parse Excel fil
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Python Excel Spreadsheets Parsing APIs" h2="Generate, read, write or manipulate spreadsheets as well as export Excel files to multiple formats within Python applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-python-java.svg" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="https://downloads.aspose.com/cells/python" >}}
+{{< blocks/products/pf/upper-banner h1="Python Excel Spreadsheets Parsing APIs" h2="Generate, read, write or manipulate spreadsheets as well as export Excel files to multiple formats within Python applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-python-java.svg" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="https://downloads.aspose.com/cells/python" >}}
 
-{{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Python via Java" >}}
+{{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Python via Java" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/python-java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cells/java/aspose-cells-for-python-via-java/" installationsDocsLink="" nugetLink="" nugetPackageName="" pipLink="https://pypi.org/project/aspose-cells/" directDownloadLink="https://downloads.aspose.com/cells/python" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
- Aspose.Cells for Python via Java is a fast and reliable API for spreadsheet processing tasks. Developers can create simple or complex spreadsheets, manipulate as well as extract information from excel files. API reads multiple excel formats and can render worksheets to XPS, PDF, MHTML, HTML, Plain Text, images and more. It is the best solution to automate excel reports using python.
+ Aspose.Cells for Python via Java is a fast and reliable API for spreadsheet processing tasks. Developers can create simple or complex spreadsheets, manipulate as well as extract information from excel files. API reads multiple excel formats and can render worksheets to XPS, PDF, MHTML, HTML, Plain Text, images and more. It is the best solution to automate excel reports using python.
 </p>
 
 {{< /blocks/products/pf/tab-content >}}
@@ -22,7 +22,7 @@ description: Python spreadsheet library to create read write and parse Excel fil
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of API capabilities." >}}
+{{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of API capabilities." >}}
 <div class="diagram1 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -106,7 +106,7 @@ description: Python spreadsheet library to create read write and parse Excel fil
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.Cells for Python via Java is available for." >}}
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.Cells for Python via Java is available for." >}}
 <div class="diagram1 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -146,7 +146,7 @@ description: Python spreadsheet library to create read write and parse Excel fil
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Python excel library supports the popular Microsoft Excel formats,  fixed-layout formats, and images." >}}
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Python excel library supports the popular Microsoft Excel formats,  fixed-layout formats, and images." >}}
 <div class="diagram1 d2 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -236,7 +236,7 @@ description: Python spreadsheet library to create read write and parse Excel fil
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Advanced Python Excel API Features
+    Advanced Python Excel API Features
    </h2>
    <p>
    </p>
@@ -347,7 +347,7 @@ description: Python spreadsheet library to create read write and parse Excel fil
    </div>
    <!--
 
-<div class="col-lg-4"><em class="fa fa-support ico-blue fa-2x col-lg-2"> </em>
+<div class="col-lg-4"><em class="fa fa-support ico-blue fa-2x col-lg-2"> </em>
 
 <p class="col-lg-10">Support for CSV (comma-separated values) format</p>
 
@@ -355,7 +355,7 @@ description: Python spreadsheet library to create read write and parse Excel fil
 
 
 
-<div class="col-lg-4"><em class="fa fa-file-text-o ico-blue fa-2x col-lg-2"> </em>
+<div class="col-lg-4"><em class="fa fa-file-text-o ico-blue fa-2x col-lg-2"> </em>
 
 <p class="col-lg-10">Adding a copy of an existing worksheet (with full contents, images and charts etc.) to a new file.</p>
 
@@ -363,49 +363,49 @@ description: Python spreadsheet library to create read write and parse Excel fil
 
 
 
-<div class="col-lg-4"><em class="fa fa-commenting ico-blue fa-2x col-lg-2"> </em>
+<div class="col-lg-4"><em class="fa fa-commenting ico-blue fa-2x col-lg-2"> </em>
 
 <p class="col-lg-10">Create comments</p>
 
 </div>
 
-<div class="col-lg-4"><em class="fa fa-filter ico-blue fa-2x col-lg-2"> </em>
+<div class="col-lg-4"><em class="fa fa-filter ico-blue fa-2x col-lg-2"> </em>
 
 <p class="col-lg-10">Auto-filters and page breaksI</p>
 
 </div>
 
-<div class="col-lg-4"><em class="fa fa-subscript  ico-blue fa-2x col-lg-2"> </em>
+<div class="col-lg-4"><em class="fa fa-subscript  ico-blue fa-2x col-lg-2"> </em>
 
 <p class="col-lg-10">Set complex formulas</p>
 
 </div>
 
-<div class="col-lg-4"><em class="fa fa-align-center ico-blue fa-2x col-lg-2"> </em>
+<div class="col-lg-4"><em class="fa fa-align-center ico-blue fa-2x col-lg-2"> </em>
 
 <p class="col-lg-10">Support conditional formatting</p>
 
 </div>
 
-<div class="col-lg-4"><em class="fa fa-shield  ico-blue fa-2x col-lg-2"> </em>
+<div class="col-lg-4"><em class="fa fa-shield  ico-blue fa-2x col-lg-2"> </em>
 
 <p class="col-lg-10">Working with the protection options introduced in Microsoft Excel XP</p>
 
 </div>
 
-<div class="col-lg-4"><em class="fa fa-sort-amount-desc ico-blue fa-2x col-lg-2"> </em>
+<div class="col-lg-4"><em class="fa fa-sort-amount-desc ico-blue fa-2x col-lg-2"> </em>
 
 <p class="col-lg-10">Manipulate named ranges</p>
 
 </div>
 
-<div class="col-lg-4"><em class="fa fa-table ico-blue fa-2x col-lg-2"> </em>
+<div class="col-lg-4"><em class="fa fa-table ico-blue fa-2x col-lg-2"> </em>
 
 <p class="col-lg-10">Creating PivotTables</p>
 
 </div>
 
-<div class="col-lg-4"><em class="fa fa-html5 ico-blue fa-2x col-lg-2"> </em>
+<div class="col-lg-4"><em class="fa fa-html5 ico-blue fa-2x col-lg-2"> </em>
 
 <p class="col-lg-10">Saving to HTML files or streams</p>
 
@@ -417,7 +417,7 @@ description: Python spreadsheet library to create read write and parse Excel fil
      Multiple Formats Conversion
     </h2>
     <p>
-     Python Excel library provides conversion of Excel files to PDF, XPS &amp; HTML formats. The reliable conversion of API  makes it a perfect solution for the companies which require to exchange files in industry-standard formats.
+     Python Excel library provides conversion of Excel files to PDF, XPS &amp; HTML formats. The reliable conversion of API  makes it a perfect solution for the companies which require to exchange files in industry-standard formats.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -446,9 +446,9 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
 
 <div class="col-lg-12">
 
-<h2 class="h2title">Convert Spreadsheet Objects to Different Formats</h2>
+<h2 class="h2title">Convert Spreadsheet Objects to Different Formats</h2>
 
-<p>Aspose.Cells for Python via Java offer some distinctive features such as converting charts to images & PDF, worksheets to images and spreadsheets to PDF document format. The conversion process is greatly flexible thus allowing you to choose a number of options for the conversion, such as re-sampling of images while converting spreadsheets to PDF or controlling the resultant image dimensions when rendering worksheets & charts to image formats.</p>
+<p>Aspose.Cells for Python via Java offer some distinctive features such as converting charts to images & PDF, worksheets to images and spreadsheets to PDF document format. The conversion process is greatly flexible thus allowing you to choose a number of options for the conversion, such as re-sampling of images while converting spreadsheets to PDF or controlling the resultant image dimensions when rendering worksheets & charts to image formats.</p>
 
 </div>-->
    <!--<div class="col-lg-12">
@@ -483,7 +483,7 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
 </div> -->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Excel Sheets Data Management
+     Excel Sheets Data Management
     </h2>
     <p>
      Aspose.Cells for Python via Java API provides extensive support for worksheet data management. One can easily manipulate any cell in the worksheet at runtime or import data onto the worksheets from various data sources.
@@ -491,10 +491,10 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Charts Customization
+     Charts Customization
     </h2>
     <p>
-     Aspose.Cells for Python via Java provides full support for charting. One can easily add standard and customized charts or dynamically set chart data in order to refresh the chart vai this python library.
+     Aspose.Cells for Python via Java provides full support for charting. One can easily add standard and customized charts or dynamically set chart data in order to refresh the chart vai this python library.
     </p>
    </div>
    <!--

@@ -22,7 +22,7 @@ description: Android spreadsheet library to create read write and parse Excel fi
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of API capabilities." >}}
+{{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of API capabilities." >}}
 <div class="diagram1 d1-android">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -146,7 +146,7 @@ description: Android spreadsheet library to create read write and parse Excel fi
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Android spreadsheet API supports the popular Microsoft Excel formats, images and fixed-layout formats." >}}
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Android spreadsheet API supports the popular Microsoft Excel formats, images and fixed-layout formats." >}}
 <div class="diagram1 d2 d1-android">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -251,7 +251,7 @@ description: Android spreadsheet library to create read write and parse Excel fi
     <em class="fa fa-exchange ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Export and import data from ArrayList, Array, Recordset &amp; Resultset
+     Export and import data from ArrayList, Array, Recordset &amp; Resultset
     </p>
    </div>
    <div class="col-lg-4">
@@ -352,7 +352,7 @@ description: Android spreadsheet library to create read write and parse Excel fi
 </div>-->
    <!--
 
-<div class="col-lg-4"><em class="fa fa-support ico-blue fa-2x col-lg-2"> </em>
+<div class="col-lg-4"><em class="fa fa-support ico-blue fa-2x col-lg-2"> </em>
 
 <p class="col-lg-10">Support for CSV (comma-separated values) format</p>
 
@@ -360,7 +360,7 @@ description: Android spreadsheet library to create read write and parse Excel fi
 
 
 
-<div class="col-lg-4"><em class="fa fa-file-text-o ico-blue fa-2x col-lg-2"> </em>
+<div class="col-lg-4"><em class="fa fa-file-text-o ico-blue fa-2x col-lg-2"> </em>
 
 <p class="col-lg-10">Adding a copy of an existing worksheet (with full contents, images and charts etc.) to a new file.</p>
 
@@ -368,49 +368,49 @@ description: Android spreadsheet library to create read write and parse Excel fi
 
 
 
-<div class="col-lg-4"><em class="fa fa-commenting ico-blue fa-2x col-lg-2"> </em>
+<div class="col-lg-4"><em class="fa fa-commenting ico-blue fa-2x col-lg-2"> </em>
 
 <p class="col-lg-10">Create comments</p>
 
 </div>
 
-<div class="col-lg-4"><em class="fa fa-filter ico-blue fa-2x col-lg-2"> </em>
+<div class="col-lg-4"><em class="fa fa-filter ico-blue fa-2x col-lg-2"> </em>
 
 <p class="col-lg-10">Auto-filters and page breaksI</p>
 
 </div>
 
-<div class="col-lg-4"><em class="fa fa-subscript  ico-blue fa-2x col-lg-2"> </em>
+<div class="col-lg-4"><em class="fa fa-subscript  ico-blue fa-2x col-lg-2"> </em>
 
 <p class="col-lg-10">Set complex formulas</p>
 
 </div>
 
-<div class="col-lg-4"><em class="fa fa-align-center ico-blue fa-2x col-lg-2"> </em>
+<div class="col-lg-4"><em class="fa fa-align-center ico-blue fa-2x col-lg-2"> </em>
 
 <p class="col-lg-10">Support conditional formatting</p>
 
 </div>
 
-<div class="col-lg-4"><em class="fa fa-shield  ico-blue fa-2x col-lg-2"> </em>
+<div class="col-lg-4"><em class="fa fa-shield  ico-blue fa-2x col-lg-2"> </em>
 
 <p class="col-lg-10">Working with the protection options introduced in Microsoft Excel XP</p>
 
 </div>
 
-<div class="col-lg-4"><em class="fa fa-sort-amount-desc ico-blue fa-2x col-lg-2"> </em>
+<div class="col-lg-4"><em class="fa fa-sort-amount-desc ico-blue fa-2x col-lg-2"> </em>
 
 <p class="col-lg-10">Manipulate named ranges</p>
 
 </div>
 
-<div class="col-lg-4"><em class="fa fa-table ico-blue fa-2x col-lg-2"> </em>
+<div class="col-lg-4"><em class="fa fa-table ico-blue fa-2x col-lg-2"> </em>
 
 <p class="col-lg-10">Creating PivotTables</p>
 
 </div>
 
-<div class="col-lg-4"><em class="fa fa-html5 ico-blue fa-2x col-lg-2"> </em>
+<div class="col-lg-4"><em class="fa fa-html5 ico-blue fa-2x col-lg-2"> </em>
 
 <p class="col-lg-10">Saving to HTML files or streams</p>
 
@@ -464,11 +464,11 @@ description: Android spreadsheet library to create read write and parse Excel fi
      Different Formats Conversion
     </h2>
     <p>
-     Android Excel library offers conversion of spreadsheets to XPS, PDF &amp; HTML formats keeping the highest visual fidelity. The reliable conversion process makes API a perfect choice for the companies for exchanging files in industry-standard formats.
+     Android Excel library offers conversion of spreadsheets to XPS, PDF &amp; HTML formats keeping the highest visual fidelity. The reliable conversion process makes API a perfect choice for the companies for exchanging files in industry-standard formats.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Save Workbook in various formats - Java
+      Save Workbook in various formats - Java
      </h3>
      <pre><code class="java">// load file to be converted
 
@@ -492,10 +492,10 @@ wkb.save(SD_PATH + "output.html", SaveFormat.HTML);</code></pre>
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Convert Spreadsheet Objects to Different Formats
+     Convert Spreadsheet Objects to Different Formats
     </h2>
     <p>
-     Aspose.Cells for Android via Java offer some distinctive features such as worksheets to images,  charts to images &amp; PDF and spreadsheets to PDF document format conversion. The flexible process has a number of choices for the conversion, like images re-sampling during spreadsheets to PDF or setting the resultant image dimensions when rendering worksheets &amp; charts to image formats.
+     Aspose.Cells for Android via Java offer some distinctive features such as worksheets to images,  charts to images &amp; PDF and spreadsheets to PDF document format conversion. The flexible process has a number of choices for the conversion, like images re-sampling during spreadsheets to PDF or setting the resultant image dimensions when rendering worksheets &amp; charts to image formats.
     </p>
    </div>
    <div class="col-lg-12">
@@ -503,7 +503,7 @@ wkb.save(SD_PATH + "output.html", SaveFormat.HTML);</code></pre>
      Spreadsheet API Formula Calculation Engine
     </h2>
     <p>
-     Android sheets API provides a powerful Formula Calculation Engine supporting the advanced and standard Microsoft Excel functions and formulas. Formula calculation engine makes it easy to read, set and calculate the results of the built-in or add-in type, array and R1C1 reference style formulas.
+     Android sheets API provides a powerful Formula Calculation Engine supporting the advanced and standard Microsoft Excel functions and formulas. Formula calculation engine makes it easy to read, set and calculate the results of the built-in or add-in type, array and R1C1 reference style formulas.
     </p>
    </div>
    <!--

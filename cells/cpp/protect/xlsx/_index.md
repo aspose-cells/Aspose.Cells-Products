@@ -35,7 +35,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Steps to Protect XLSX Files via C++" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Steps to Protect XLSX Files via C++" %}}
 
 {{% blocks/products/pf/agp/text %}}
 

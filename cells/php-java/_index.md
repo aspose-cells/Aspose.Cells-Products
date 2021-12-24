@@ -69,7 +69,7 @@ description: PHP Excel spreadsheet API to read write and convert XLS XLSX CSV TS
    </ul>
    <!--
 
-<header><i class="fa fa-table"> </i>Aspose.Cells GridWeb Control</header>
+<header><i class="fa fa-table"> </i>Aspose.Cells GridWeb Control</header>
 
 <ul>
 
@@ -301,7 +301,7 @@ description: PHP Excel spreadsheet API to read write and convert XLS XLSX CSV TS
     <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create and manipulate comments
+     Create and manipulate comments
     </p>
    </div>
    <div class="col-lg-4">
@@ -372,11 +372,11 @@ description: PHP Excel spreadsheet API to read write and convert XLS XLSX CSV TS
      Convert Excel Files to XPS, PDF &amp; HTML
     </h2>
     <p>
-     Aspose.Cells for PHP via Java API is capable of Excel files conversion to XPS, XPS and HTML formats as well as keeping the highest visual fidelity. The conversion process is reliable and developers can get the required format with just a few lines.
+     Aspose.Cells for PHP via Java API is capable of Excel files conversion to XPS, XPS and HTML formats as well as keeping the highest visual fidelity. The conversion process is reliable and developers can get the required format with just a few lines.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Save spreadsheet in multiple formats - PHP
+      Save spreadsheet in multiple formats - PHP
      </h3>
      <pre><code class="php">// load document to be converted
 
@@ -422,10 +422,10 @@ $wkbk-&gt;save("output.html", SaveFormat::HTML);</code></pre>
      Visualize Data with Formatting, Charts &amp; Graphics
     </h2>
     <p>
-     The library is so flexible that one can furnish spreadsheets with all kinds of visual effects as well as can apply formatting to a worksheet, row, column or cell, set fonts with attributes, define cell styling &amp; number formats, add Rich Text and define conditional formatting rules.
+     The library is so flexible that one can furnish spreadsheets with all kinds of visual effects as well as can apply formatting to a worksheet, row, column or cell, set fonts with attributes, define cell styling &amp; number formats, add Rich Text and define conditional formatting rules.
     </p>
     <p>
-     Similarly, for a professional look and easy understanding charts and graphics are the integral parts. Aspose.Cells for PHP via Java APIs can create and manipulate all types of standard and custom charts. Furthermore, different types of drawing objects to the cells can easily be added.
+     Similarly, for a professional look and easy understanding charts and graphics are the integral parts. Aspose.Cells for PHP via Java APIs can create and manipulate all types of standard and custom charts. Furthermore, different types of drawing objects to the cells can easily be added.
     </p>
    </div>
   </div>

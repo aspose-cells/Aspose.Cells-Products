@@ -51,13 +51,13 @@ description: Java sample code to redact sensitive information in XLSM file on Ja
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Steps to Redact XLSM Files in Java" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Steps to Redact XLSM Files in Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- A basic document search and replace text in contents, comments or metadata with
+ A basic document search and replace text in contents, comments or metadata with
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- APIs can be done with just few lines of code.
+ APIs can be done with just few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -85,7 +85,7 @@ description: Java sample code to redact sensitive information in XLSM file on Ja
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Redact XLSM Files - Java" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Redact XLSM Files - Java" offSpacer="" %}}
 
 ```cs
 Workbook workbook = new Workbook(dataDir + "sourceFile.xlsm");
@@ -141,7 +141,7 @@ workbook.save(dataDir + "output.xlsm");
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-    {{< blocks/products/pf/agp/demobox sectionTitle="Online XLSM Redaction Live Demos" sectionDescription="Search and replace text in contents, comments or metadata in XLSM documents right now by visiting our [Live Demos website](https://products.aspose.app/cells/redaction). The live demo has the following benefits" >}}
+    {{< blocks/products/pf/agp/demobox sectionTitle="Online XLSM Redaction Live Demos" sectionDescription="Search and replace text in contents, comments or metadata in XLSM documents right now by visiting our [Live Demos website](https://products.aspose.app/cells/redaction). The live demo has the following benefits" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your XLSM files." >}}

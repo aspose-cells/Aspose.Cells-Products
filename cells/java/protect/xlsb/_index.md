@@ -51,7 +51,7 @@ description: Java sample code to lock XLSB file using password on Java Runtime E
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Steps to Protect XLSB Files via Java" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Steps to Protect XLSB Files via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 

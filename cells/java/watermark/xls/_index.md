@@ -15,7 +15,7 @@ description: Java sample code to add or remove watermark to XLS file on Java Run
 
  In order to watermark XLS file, we’ll use
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API which is a feature-rich, powerful and easy to use warermarking API for Java platform. You can download its latest version directly from
+ API which is a feature-rich, powerful and easy to use watermarking API for Java platform. You can download its latest version directly from
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  and install it within your Maven-based project by adding the following configurations to the pom.xml.
 

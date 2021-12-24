@@ -85,27 +85,7 @@ description: Java sample code to split XLSB documents on Java Runtime Environmen
 
 {{% blocks/products/pf/agp/code-block title="Split XLSB File - Java" offSpacer="" %}}
 
-```cs
-
-Workbook wbk = new Workbook("sourceFile.xlsb");
-
-//Iterate all worksheets inside the workbook
-
-for(int i=0; i< wbk.getWorksheets().getCount(); i++){
-
-	//Access the i th worksheet
-
-	Worksheet worksheet = wbk.getWorksheets().get(i);
-
-	Workbook bk = new Workbook();
-	 
-	bk.getWorksheets().get(0).copy(worksheet);
-	 
-	// Save the file.
-	bk.save("path"+worksheet.getName()+"-"+i+".xlsb"); 
-}  
-
-```
+{{< gist "aspose-com-gists" "ad89e1c7bdb5a4c72f65aae895d95c40" "split-xlsb-spreadsheet.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

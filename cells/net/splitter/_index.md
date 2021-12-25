@@ -1,17 +1,17 @@
 ---
-title: Split Excel Worksheet into Panes in C#
+title: Split Excel Worksheet sheet wise in C#
 url: /net/splitter/
-description: C# source codes that explains how to split Microsoft Excel files into multiple panes in Visual C#.NET applications.
+description: C# source codes that explains how to split Microsoft Excel files into multiple files in Visual C#.NET applications
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Microsoft<sup>&reg;</sup> Excel File splitting via .NET" h2="Split single Excel file into panes using C# code within .NET based applications" >}}
+{{< blocks/products/pf/feature-page-header h1="Microsoft<sup>&reg;</sup> Excel File Splitting via .NET" h2="Split single Excel document into different files using C# code within .NET based applications" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-[.NET Excel Library](/cells/net/) is capable to split Excel document into panes within .NET based applications. Supported file formats include XLS, XLSX, XLSB, XLSM, ODS.
+[.NET Excel Library](/cells/net/) is capable to split Excel document into multiple spreadsheets within .NET based applications. Supported file formats include XLS, XLSX, XLSB, XLSM, ODS.
 {{% /blocks/products/pf/feature-page-summary  %}}
 
-{{% blocks/products/pf/feature-page-section  h2="Split Excel File into Panes" %}}
-The simplest way to split Excel files into panes is by calling the [Worksheet.Split](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/split) method. Then saving it into a specified path. After splitting it into panes, one can easily view and compare data in different parts of the same worksheet.
+{{% blocks/products/pf/feature-page-section  h2="Split Excel Document into Multiple Files" %}}
+The simplest way to split Excel files sheet wise is, Accessing all sheets via [Worksheets](https://apireference.aspose.com/cells/net/aspose.cells/workbook/properties/worksheets), Iterating through each sheet and calling the [Copy](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy) method. Finally saving it into a specified path. 
 
 +  Load the Excel file with full path using [Workbook class](https://apireference.aspose.com/cells/net/aspose.cells/workbook).
 +  Iterate throug each sheet

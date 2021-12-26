@@ -126,11 +126,7 @@ workbook->Save(outputChartTypeCustom);
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Convert XLSM documents charts to images right now by visiting our by visiting our
- [Live Demos website](https://products.aspose.app/cells/chart) 
- . The live demo has the following benefits
-
-
+Aspose.Cells API can be used to create, edit, convert and render Microsoft Excel formats to different formats. Moreover, it can be used for comprehensive charting, scalable reporting and reliable calculations within software applications. Aspose.Cells is a standalone API and it does not require any software like Microsoft or OpenOffice.   Convert Excel Chart to PDF, JPG, PNG, EMF, WMF, BMP, SVG, TIFF, XPS.
 
     {{% /blocks/products/pf/agp/content %}}
 

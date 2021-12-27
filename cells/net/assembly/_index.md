@@ -23,4 +23,4 @@ To automate the process of creating same pattern files is easy using .NET Assemb
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/feature-page-options formats="all" afterslug="">}}
+{{< blocks/products/pf/feature-page-options formats="all" beforeslug="Generate" afterslug="Reports">}}

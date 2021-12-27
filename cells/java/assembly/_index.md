@@ -23,4 +23,4 @@ Using Java Assembly API developers can easily program the bulk report generation
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/feature-page-options formats="all" afterslug="">}}
+{{< blocks/products/pf/feature-page-options formats="all" beforeslug="Create" afterslug="Reports">}}

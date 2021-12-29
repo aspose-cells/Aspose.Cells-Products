@@ -67,19 +67,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/code-block title="Convert XLSX Files Chart - C#" offSpacer="" %}}
 
-```cs
-    // open the existing excel file which contains the pie chart
-    var workbook = new Workbook("PieChart.xlsx");
-    
-    // get the designer chart (first chart) in the first worksheet of the workbook
-    var chart = workbook.Worksheets[0].Charts[0];
-    
-    // convert the chart to an image file.
-    chart.ToImage("PieChartOut.emf", System.Drawing.Imaging.ImageFormat.Emf);  
-
-    
-
-```
+{{< gist "aspose-com-gists" "47151e6b1cd698683d5eefb538a4a52a" "convert-xlsx-file-chart-to-images.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

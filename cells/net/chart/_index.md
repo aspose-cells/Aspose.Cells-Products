@@ -33,4 +33,4 @@ Process of converting charts to images is, Use the Workbook class to load the Ex
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/feature-page-options formats="all" afterslug="Chart to Image">}}
+{{< blocks/products/pf/feature-page-options formats="all" afterslug="Chart Conversion">}}

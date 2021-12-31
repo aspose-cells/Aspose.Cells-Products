@@ -1,5 +1,5 @@
 ---
-title: Excel Charts Creation and Conversion to images via .NET
+title: Excel Charts Creation and Conversion to Images via .NET
 url: /net/chart/
 description: C# source code to draw and convert chart or diagram in Microsoft Excel using .NET Library. 
 ---

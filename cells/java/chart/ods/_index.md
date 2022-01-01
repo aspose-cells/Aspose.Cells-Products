@@ -87,41 +87,7 @@ description: Java sample code to draw and convert chart or diagram in ODS file o
 
 {{% blocks/products/pf/agp/code-block title="Create ODS Files Chart - Java" offSpacer="" %}}
 
-```cs
-Workbook workbook = new Workbook();
-
-        // Obtaining the reference of the first worksheet
-        Worksheet worksheet = workbook.getWorksheets().get(0);
-
-        // Adding sample values to cells
-        worksheet.getCells().get("A2").putValue("Category1");
-        worksheet.getCells().get("A3").putValue("Category2");
-        worksheet.getCells().get("A4").putValue("Category3");
-
-        worksheet.getCells().get("B1").putValue("Column1");
-        worksheet.getCells().get("B2").putValue(4);
-        worksheet.getCells().get("B3").putValue(20);
-        worksheet.getCells().get("B4").putValue(50);
-        worksheet.getCells().get("C1").putValue("Column2");
-        worksheet.getCells().get("C2").putValue(50);
-        worksheet.getCells().get("C3").putValue(100);
-        worksheet.getCells().get("C4").putValue(150);
-        // Adding a chart to the worksheet
-        int chartIndex = worksheet.getCharts().add(ChartType.COLUMN, 5, 0, 15, 5);
-
-        // Accessing the instance of the newly added chart
-        Chart chart = worksheet.getCharts().get(chartIndex);
-
-        // Setting chart data source as the range  "A1:C4"
-        chart.setChartDataRange("A1:C4", true);
-        workbook.save( "ColumnChart.ods", SaveFormat.ODS);
-		//its simple to create pyramid chart, Bubble chart with its data source
-		// as well as Line with Data Marker Chart and creating custome charts
-		  
-
-    
-
-```
+{{< gist "aspose-com-gists" "b48fa96f2807e16db8031eb177e5bb60" "create-ods-file-chart.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

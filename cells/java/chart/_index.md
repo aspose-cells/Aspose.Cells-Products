@@ -10,7 +10,7 @@ description: Java source code to draw and convert chart or diagram in Microsoft 
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-Analysing data via charts shows the bigger picture and it is easy to make more informed decisions with clearer insights. [Java Excel Library](/cells/net/) supports drawing different chart creation listed by [ChartType](https://apireference.aspose.com/cells/java/com.aspose.cells/ChartType) including pie, pyramid, line and bubble charts. Moreover, it also converts charts to images. API provides a [Charts class](https://apireference.aspose.com/cells/java/com.aspose.cells/Chart) for representing a single Excel chart.
+Analysing data via charts shows the bigger picture and it is easy to make more informed decisions with clearer insights. [Java Excel Library](/cells/java/) supports drawing different chart creation listed by [ChartType](https://apireference.aspose.com/cells/java/com.aspose.cells/ChartType) including pie, pyramid, line and bubble charts. Moreover, it also converts charts to images. API provides a [Charts class](https://apireference.aspose.com/cells/java/com.aspose.cells/Chart) for representing a single Excel chart.
 
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{% blocks/products/pf/feature-page-section  h2="Convert Excel Charts to Images" %}}

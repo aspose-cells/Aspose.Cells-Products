@@ -21,7 +21,7 @@ For managing built-in properties, API provides [BuiltInDocumentProperties](https
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/feature-page-options formats="all" afterslug="Metadata">}}
-{{% blocks/products/pf/feature-page-section  h2="Managing Custom Defined Properties" %}}
+{{% blocks/products/pf/feature-page-section  h2="Add and Remove Custom Defined Metadata" %}}
 
 For handling custom properties, API provides [CustomDocumentProperties](https://apireference.aspose.com/cells/java/com.aspose.cells/worksheetcollection#CustomDocumentProperties), and developers can easily access existing properties as well as add new properties using [add method](https://apireference.aspose.com/cells/java/com.aspose.cells/customdocumentpropertycollection#add(java.lang.String,%20boolean)) of [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/java/com.aspose.cells/CustomDocumentPropertyCollection) class adds the property and returns a reference for the new property as an [Properties.DocumentProperty](https://apireference.aspose.com/cells/java/com.aspose.cells/DocumentProperty) object. DocumentProperty class is used to retrieve the name, value, and type of the document property as [DocumentProperty.Name](https://apireference.aspose.com/cells/java/com.aspose.cells/documentproperty#Name), [DocumentProperty.Value](https://apireference.aspose.com/cells/java/com.aspose.cells/documentproperty#Value),  [DocumentProperty.Type](https://apireference.aspose.com/cells/java/com.aspose.cells/documentproperty#Type) that returns one of the [PropertyType](https://apireference.aspose.com/cells/java/com.aspose.cells/PropertyType) enumeration values. 
  

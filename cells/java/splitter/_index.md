@@ -22,3 +22,14 @@ The simplest way to split Excel file into sheet is, Access all sheets, iterate t
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{< blocks/products/pf/feature-page-options formats="all" afterslug="Splitter">}}
+
+{{% blocks/products/pf/feature-page-section  h2="Split Excel Worksheet into Panes" %}}
+
+API also provides functionality of splitting Excel worksheet into different panes. Process is, Load the file using Workbook class. Select first worksheet or any required sheet by providing its index. Call the setActiveCell having relevant cell index as parameter. And finally split the worksheet window into different panes by calling split() method.
+
+{{% blocks/products/pf/feature-page-code h3="Java Code to Split Excel Sheet into Pane View" %}}
+
+{{< gist "aspose-com-gists" "ad89e1c7bdb5a4c72f65aae895d95c40" "split-excel-spreadsheet-into-panes.java" >}}
+
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}

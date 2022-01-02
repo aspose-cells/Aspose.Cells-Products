@@ -27,3 +27,20 @@ The simplest way to split Excel files sheet wise is, Accessing all sheets via [W
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{< blocks/products/pf/feature-page-options formats="all" afterslug="Splitter">}}
+
+{{% blocks/products/pf/feature-page-section  h2="Split Excel Worksheet into Panes" %}}
+
+For splitting worksheet window into panes, API provides [Split method](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/split) of worksheet class, that provides the splitted view of worksheet. To remove splitted view API provides [RemoveSplit method](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/removesplit). Finally save it into a specified path. 
+
+{{% blocks/products/pf/feature-page-code h3="C# Code to Split Excel Worksheet Window" %}}
+
+{{< gist "aspose-com-gists" "bff05bb3d479c29ac0aa116d1a641264" "split-xlsx-spreadsheet-into-pane.cs" >}}
+
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% blocks/products/pf/feature-page-code h3="C# Code to Remove Splitted Pan View" %}}
+
+{{< gist "aspose-com-gists" "bff05bb3d479c29ac0aa116d1a641264" "remove-splitted-spreadsheet-pane-view.cs" >}}
+
+{{% /blocks/products/pf/feature-page-code  %}}
+
+{{% /blocks/products/pf/feature-page-section %}}

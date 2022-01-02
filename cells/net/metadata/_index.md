@@ -20,7 +20,7 @@ For managing system-defined properties, API provides [BuiltInDocumentProperties]
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-
+{{< blocks/products/pf/feature-page-options formats="all" afterslug="Metadata">}}
 {{% blocks/products/pf/feature-page-section  h2="Managing Custom Defined Properties" %}}
 
 For managing user-defined properties, API provides [CustomDocumentProperties](https://apireference.aspose.com/cells/net/aspose.cells/workbook/properties/customdocumentproperties), and developers can easily access already added properties as well as add new properties. In order to add custom properties, [Add method](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection/methods/add/index) of [CustomDocumentPropertyCollection](https://apireference.aspose.com/cells/net/aspose.cells.properties/customdocumentpropertycollection) class adds the property and returns a reference for the new property as an [Properties.DocumentProperty](https://apireference.aspose.com/cells/net/aspose.cells.properties/documentproperty) object. DocumentProperty class is used to retrieve the name, value, and type of the document property as [DocumentProperty.Name](https://apireference.aspose.com/cells/net/aspose.cells.properties/documentproperty/properties/name), [DocumentProperty.Value](https://apireference.aspose.com/cells/net/aspose.cells.properties/documentproperty/properties/value),  [DocumentProperty.Type](https://apireference.aspose.com/cells/net/aspose.cells.properties/documentproperty/properties/type) that returns one of the [PropertyType](https://apireference.aspose.com/cells/net/aspose.cells.properties/propertytype) enumeration values. 

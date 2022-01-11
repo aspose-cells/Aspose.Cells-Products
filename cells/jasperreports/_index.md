@@ -56,7 +56,7 @@ description: Export reports from Jasper Reports and JasperServer in Excel XLS XL
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Excel Exporter for JasperReports" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-jasperreports.svg"/>
+  <img width="70" height="75" alt="Excel Exporter for JasperReports" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-jasperreports.svg"/>
   <header>
    Aspose.Cells
   </header>
@@ -97,7 +97,7 @@ description: Export reports from Jasper Reports and JasperServer in Excel XLS XL
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt=" JasperReports Spreadsheet Exporter" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-jasperreports.svg"/>
+  <img width="70" height="75" alt=" JasperReports Spreadsheet Exporter" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-jasperreports.svg"/>
   <header>
    Aspose.Cells
   </header>
@@ -164,7 +164,7 @@ description: Export reports from Jasper Reports and JasperServer in Excel XLS XL
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Report Converter for JasperReports" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-jasperreports.svg"/>
+  <img width="70" height="75" alt="Report Converter for JasperReports" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-jasperreports.svg"/>
   <header>
    Aspose.Cells
   </header>

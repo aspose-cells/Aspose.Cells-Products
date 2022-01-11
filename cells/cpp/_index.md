@@ -105,7 +105,7 @@ description: C++ Excel library to read write and parse files including XLS, XLSX
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="C++ Excel Library" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg"/>
+  <img width="70" height="75" alt="C++ Excel Library" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg"/>
   <header>
    Aspose.Cells
   </header>
@@ -151,7 +151,7 @@ description: C++ Excel library to read write and parse files including XLS, XLSX
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Spreadsheet Manipulation APIs for C++" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg"/>
+  <img width="70" height="75" alt="Spreadsheet Manipulation APIs for C++" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg"/>
   <header>
    Aspose.Cells
   </header>
@@ -237,7 +237,7 @@ description: C++ Excel library to read write and parse files including XLS, XLSX
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="C++ Spreadsheet Programming API" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg"/>
+  <img width="70" height="75" alt="C++ Spreadsheet Programming API" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg"/>
   <header>
    Aspose.Cells
   </header>

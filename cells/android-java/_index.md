@@ -88,7 +88,7 @@ description: Android spreadsheet library to create read write and parse Excel fi
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Android Spreadsheet API" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-android-java.svg"/>
+  <img width="70" height="75" alt="Android Spreadsheet API" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-android-java.svg"/>
   <header>
    Aspose.Cells
   </header>
@@ -128,7 +128,7 @@ description: Android spreadsheet library to create read write and parse Excel fi
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Excel API Android" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-android-java.svg"/>
+  <img width="70" height="75" alt="Excel API Android" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-android-java.svg"/>
   <header>
    Aspose.Cells
   </header>
@@ -208,7 +208,7 @@ description: Android spreadsheet library to create read write and parse Excel fi
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Android Excel Spreadsheet Library" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-android-java.svg"/>
+  <img width="70" height="75" alt="Android Excel Spreadsheet Library" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-android-java.svg"/>
   <header>
    Aspose.Cells
   </header>

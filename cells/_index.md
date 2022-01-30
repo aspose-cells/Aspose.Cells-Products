@@ -9,10 +9,10 @@ description: Create Excel file manipulation applications using High Code or Low 
 {{< blocks/products/pf/upper-banner h1="Microsoft Excel File Format Solution" h2="Take advantage of scalable reporting, comprehensive charting & reliable calculations - without depending on Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-brand.svg" imageAlt="Aspose.Cells Product Family" >}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/product-card-row title="Aspose.Cells On Premise APIs Include" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.Cells High Code APIs Include" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" productLink="https://products.aspose.com/cells/net" >}}
-On Premise APIs to target .NET Framework, .NET Core & Xamarin platforms to develop spreadsheet manipulation applications for Windows, iOS & Android.
+High Code APIs to target .NET Framework, .NET Core & Xamarin platforms to develop spreadsheet manipulation applications for Windows, iOS & Android.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" productLink="https://products.aspose.com/cells/java" >}}
@@ -23,11 +23,11 @@ Java APIs to create, manipulate, convert or process workbooks, worksheets, Micro
 Native C++ library to create, load, manipulate, convert or render Microsoft Excel & OpenOffice Calc file formats from within pure C++ apps.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.com/cells/family" innerText="View All On Premise APIs" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.com/cells/family/" innerText="View All High Code APIs" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
-{{< blocks/products/pf/product-card-row title="Aspose.Cells Cloud APIs Include" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.Cells Low Code APIs Include" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud for cURL" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_cells-for-curl.png" productLink="https://products.aspose.cloud/cells/curl" >}}
 Forget about the platform, just send a REST API call to process Microsoft Excel spreadsheets from any type of device capable of executing cURL commands.
@@ -41,11 +41,11 @@ Open source SDK specifically designed to facilitate .NET programmers to use Aspo
 Easy to use Java SDK to communicate with Aspose.Cells Cloud APIs for Microsoft Excel & Calc file creation, conversion & manipulation.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.cloud/cells/family" innerText="View All Cloud APIs" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.cloud/cells/family" innerText="View All Low Code APIs" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
-{{< blocks/products/pf/product-card-row title="Aspose.Cells Cross Platform Apps Include" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.Cells No Code Apps Include" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells " title="Conversion" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_conversion-app.png" productLink="https://products.aspose.app/cells/conversion" >}}
 Easily convert Microsoft Excel files to PDF, HTML, images and many other popular file formats without leaving your favorite browser.
@@ -59,7 +59,7 @@ Just upload your Microsoft Excel file to view or edit the spreadsheet's metadata
 View spreadsheet files including XLS, XLSX, XLSM, XLSB & ODS in your favorite browser from anywhere.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.app/cells/family" innerText="View All Cross Platform Apps" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.app/cells/family" innerText="View All No Code Apps" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 

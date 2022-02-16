@@ -20,9 +20,9 @@ Inter-conversion of spreadsheet format only requires loading a spreadsheet with 
 var workbook = new Aspose.Cells.Workbook("template.xls");
 // save as XLSX, ODS, SXC & FODS formats
 workbook.Save("output.xlsx", Aspose.Cells.SaveFormat.Xlsx);
-workbook.Save("output.ods", Aspose.Cells.SaveFormat.ODS);
-workbook.Save("output.scx", Aspose.Cells.SaveFormat.SXC);
-workbook.Save("output.fods", Aspose.Cells.SaveFormat.FODS);
+workbook.Save("output.ods", Aspose.Cells.SaveFormat.Ods);
+workbook.Save("output.scx", Aspose.Cells.SaveFormat.Sxc);
+workbook.Save("output.fods", Aspose.Cells.SaveFormat.Fods);
 ```
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}

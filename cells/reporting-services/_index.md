@@ -124,7 +124,7 @@ description: SQL Server Reporting Services rendering extension - Export Excel XL
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="RDL to Excel Exporter" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-reporting-services.svg"/>
+  <img width="70" height="75" alt="RDL to Excel Exporter" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-reporting-services.svg"/>
   <header>
    Aspose.Cells
   </header>
@@ -177,7 +177,7 @@ description: SQL Server Reporting Services rendering extension - Export Excel XL
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Export Reports to Excel Formats" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-reporting-services.svg"/>
+  <img width="70" height="75" alt="Export Reports to Excel Formats" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-reporting-services.svg"/>
   <header>
    Aspose.Cells
   </header>
@@ -257,7 +257,7 @@ description: SQL Server Reporting Services rendering extension - Export Excel XL
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Excel Exporter for Reporting Services" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-reporting-services.svg"/>
+  <img width="70" height="75" alt="Excel Exporter for Reporting Services" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-reporting-services.svg"/>
   <header>
    Aspose.Cells
   </header>

@@ -66,7 +66,7 @@ description: Aspose.Cells for SharePoint App is a SharePoint Excel Spreadsheet c
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="SharePoint Spreadsheet Exporter" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-sharepoint.svg"/>
+  <img width="70" height="75" alt="SharePoint Spreadsheet Exporter" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-sharepoint.svg"/>
   <header>
    Aspose.Cells
   </header>
@@ -138,7 +138,7 @@ description: Aspose.Cells for SharePoint App is a SharePoint Excel Spreadsheet c
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="SharePoint Excel App" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-sharepoint.svg"/>
+  <img width="70" height="75" alt="SharePoint Excel App" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-sharepoint.svg"/>
   <header>
    Aspose.Cells
   </header>
@@ -224,7 +224,7 @@ description: Aspose.Cells for SharePoint App is a SharePoint Excel Spreadsheet c
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="SharePoint Excel Converter" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-sharepoint.svg"/>
+  <img width="70" height="75" alt="SharePoint Excel Converter" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-sharepoint.svg"/>
   <header>
    Aspose.Cells
   </header>

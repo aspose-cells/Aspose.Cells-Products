@@ -91,7 +91,7 @@ description: PHP Excel spreadsheet API to read write and convert XLS XLSX CSV TS
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Spreadsheet API PHP" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-php-java.svg"/>
+  <img width="70" height="75" alt="Spreadsheet API PHP" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-php-java.svg"/>
   <header>
    Aspose.Cells
   </header>
@@ -149,7 +149,7 @@ description: PHP Excel spreadsheet API to read write and convert XLS XLSX CSV TS
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Excel PHP Library" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-php-java.svg"/>
+  <img width="70" height="75" alt="Excel PHP Library" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-php-java.svg"/>
   <header>
    Aspose.Cells
   </header>
@@ -229,7 +229,7 @@ description: PHP Excel spreadsheet API to read write and convert XLS XLSX CSV TS
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="PHP Spreadsheet Library" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-php-java.svg"/>
+  <img width="70" height="75" alt="PHP Spreadsheet Library" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-php-java.svg"/>
   <header>
    Aspose.Cells
   </header>

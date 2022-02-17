@@ -101,7 +101,7 @@ description: Java Excel library for spreadsheet processing. Read write render an
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Spreadsheet API Java" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg"/>
+  <img width="70" height="75" alt="Spreadsheet API Java" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg"/>
   <header>
    Aspose.Cells
   </header>
@@ -144,7 +144,7 @@ description: Java Excel library for spreadsheet processing. Read write render an
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Excel API Java" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg"/>
+  <img width="70" height="75" alt="Excel API Java" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg"/>
   <header>
    Aspose.Cells
   </header>
@@ -242,7 +242,7 @@ description: Java Excel library for spreadsheet processing. Read write render an
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Java Excel Spreadsheet Library" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg"/>
+  <img width="70" height="75" alt="Java Excel Spreadsheet Library" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg"/>
   <header>
    Aspose.Cells
   </header>

@@ -95,7 +95,7 @@ description: Process Excel file formats via Node.js library. Read write render &
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Spreadsheet API JavaScript" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-nodejs-java.svg"/>
+  <img width="70" height="75" alt="Spreadsheet API JavaScript" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-nodejs-java.svg"/>
   <header>
    Aspose.Cells
   </header>
@@ -141,7 +141,7 @@ description: Process Excel file formats via Node.js library. Read write render &
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Excel API JavaScript" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-nodejs-java.svg"/>
+  <img width="70" height="75" alt="Excel API JavaScript" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-nodejs-java.svg"/>
   <header>
    Aspose.Cells
   </header>
@@ -221,7 +221,7 @@ description: Process Excel file formats via Node.js library. Read write render &
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Node.js Excel Spreadsheet Library" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-nodejs-java.svg"/>
+  <img width="70" height="75" alt="Node.js Excel Spreadsheet Library" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-nodejs-java.svg"/>
   <header>
    Aspose.Cells
   </header>

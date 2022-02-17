@@ -101,7 +101,7 @@ description: C# ASP.NET VB.NET library to work with Microsoft Excel documents. C
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt=".NET Excel API" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg"/>
+  <img width="70" height="75" alt=".NET Excel API" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg"/>
   <header>
    Aspose.Cells
   </header>
@@ -196,7 +196,7 @@ description: C# ASP.NET VB.NET library to work with Microsoft Excel documents. C
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Excel API C# VB.NET" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg"/>
+  <img width="70" height="75" alt="Excel API C# VB.NET" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg"/>
   <header>
    Aspose.Cells
   </header>
@@ -288,7 +288,7 @@ description: C# ASP.NET VB.NET library to work with Microsoft Excel documents. C
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt=".NET Spreadsheet APIs" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg"/>
+  <img width="70" height="75" alt=".NET Spreadsheet APIs" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg"/>
   <header>
    Aspose.Cells
   </header>

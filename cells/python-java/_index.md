@@ -88,7 +88,7 @@ description: Python spreadsheet library to create read write and parse Excel fil
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Python Spreadsheet API" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg"/>
+  <img width="70" height="75" alt="Python Spreadsheet API" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg"/>
   <header>
    Aspose.Cells
   </header>
@@ -128,7 +128,7 @@ description: Python spreadsheet library to create read write and parse Excel fil
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Excel API Android" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg"/>
+  <img width="70" height="75" alt="Excel API Android" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg"/>
   <header>
    Aspose.Cells
   </header>
@@ -208,7 +208,7 @@ description: Python spreadsheet library to create read write and parse Excel fil
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Python Excel Spreadsheet Library" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg"/>
+  <img width="70" height="75" alt="Python Excel Spreadsheet Library" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg"/>
   <header>
    Aspose.Cells
   </header>

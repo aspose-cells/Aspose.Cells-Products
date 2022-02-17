@@ -67,21 +67,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows CSV to JSON C# Conversion" offSpacer="" %}}
 
-```cs
-// load CSV file with an instance of Workbook
-var workbook = new Cells.Workbook("J8CR782.csv", new Cells.LoadOptions(Cells.LoadFormat.Auto));
-// access CellsCollection of the worksheet containing data to be converted
-var cells = workbook.Worksheets[0].Cells;
-// create & set ExportRangeToJsonOptions for advanced options
-var exportOptions = new Cells.Utility.ExportRangeToJsonOptions();
-// create a range of cells containing data to be exported
-var range = cells.CreateRange(0, 0, cells.LastCell.Row + 1, cells.LastCell.Column + 1);
-// export range as JSON data
-string jsonData = Cells.Utility.JsonUtility.ExportRangeToJson(range, exportOptions);
-// write data file to disc in JSON format
-System.IO.File.WriteAllText("output.json", jsonData); 
-
-```
+{{< gist "aspose-com-gists" "0e4585d48ff965fe72ca6c6c869efad7" "convert-csv-to-json.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

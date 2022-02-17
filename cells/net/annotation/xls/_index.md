@@ -68,27 +68,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/code-block title="Delete Annotations from XLS - C#" offSpacer="" %}}
 
-```cs
-// load an existing XLS
-var workbook = new Aspose.Cells.Workbook("template.xls");
-
-// add comment to cell A1 of first worksheet
-int commentIndex = workbook.Worksheets[0].Comments.Add("A1");
-
-// access to comment object to set its text
-var comment = workbook.Worksheets[0].Comments[commentIndex];
-
-comment.Note = "This is my comment";
-// save as XLS file
-workbook.Save("annotation-added.xlsx");
-
-// remove comments on cell A1
-workbook.Worksheets[0].Comments.RemoveAt("A1");
-
-// save the book again to compare
-workbook.Save("annotation-removed.xls");  
-
-```
+{{< gist "aspose-com-gists" "e3dcb9c341b81d4db3a404ca7cd6e4cf" "delete-annotations-from-xls.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

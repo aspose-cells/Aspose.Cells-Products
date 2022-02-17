@@ -66,13 +66,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows CSV to SXC C# Conversion" offSpacer="" %}}
 
-```cs
-// load the CSV file in an instance of Workbook
-var book = new Workbook("template.csv");
-// save CSV as SXC
-book.Save("output.sxc", Aspose.Cells.SaveFormat.Auto); 
-
-```
+{{< gist "aspose-com-gists" "0e4585d48ff965fe72ca6c6c869efad7" "convert-csv-to-sxc.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

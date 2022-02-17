@@ -51,21 +51,7 @@ description: C# Sample code for CSV to Byte Array conversion. Use this code for 
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows CSV to byte array C# Conversion" offSpacer="" %}}
 
-```cs
-Workbook workbook = new Workbook("sourceFile.csv");
-
-//Save the workbook in memory stream
-MemoryStream ms = new MemoryStream();
-
-workbook.Save(ms, SaveFormat.Csv);
-
-//Read bytes from memory stream
-byte[] byte_array = new byte[ms.Length];
-ms.Read(byte_array, 0, byte_array.Length);
-
-// Process the memory stream byte array data as of your requirement 
-
-```
+{{< gist "aspose-com-gists" "0e4585d48ff965fe72ca6c6c869efad7" "convert-csv-to-byte-array.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

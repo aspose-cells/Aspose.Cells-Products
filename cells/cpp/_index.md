@@ -183,7 +183,7 @@ description: C++ Excel library to read write and parse files including XLS, XLSX
      <b>
       Microsoft Excel:
      </b>
-     XLS, XLSX, XLSB
+     XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML
     </li>
     <li>
      <b>

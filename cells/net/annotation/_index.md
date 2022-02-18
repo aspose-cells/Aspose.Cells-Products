@@ -21,26 +21,9 @@ Managing Comments in Worksheets - There is not any limit that how many comments 
 
 {{% blocks/products/pf/feature-page-code h3="C# Code to Access, Insert and Delete Excel Files Cell Comments" %}}
 
-```cs
-// load an existing ODS
-var wkb = new Workbook("source-file.ods");
 
-// add comment to cell A1 of first worksheet
-int commentIndex = wkb.Worksheets[0].Comments.Add("A1");
+{{< gist "aspose-com-gists" "e3dcb9c341b81d4db3a404ca7cd6e4cf" "access-insert-and-delete-excel-files-cell-comments.cs" >}}
 
-// access to comment object to set its text
-var comment = wkb.Worksheets[0].Comments[commentIndex];
-
-comment.Note = "This is my comment";
-// save as ODS file
-wkb.Save("annotation-inserted.xlsx");
-
-// remove comments on cell A2
-wkb.Worksheets[0].Comments.RemoveAt("A2");
-
-// save the book again to compare
-wkb.Save("annotation-deleted.ods");
-```
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
 

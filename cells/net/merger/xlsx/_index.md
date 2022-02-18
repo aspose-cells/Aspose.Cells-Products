@@ -69,19 +69,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/code-block title="Merge XLSX Files - C#" offSpacer="" %}}
 
-```cs
-var docstomerge = 3;
-    DocumentInfo[] docs = new DocumentInfo[docstomerge];
-    for (var i = 0; i < docstomerge; i++)
-    docs[i] = new Document(dataDir + "document"+i+".xlsx").Info;
-    var doc = docs[0];
-    for (var i = 1; i < docs.Length; i++)
-        doc.Workbook.Combine(docs[i].Workbook);
-    doc.Workbook.Save("outPath");  
-
-    
-
-```
+{{< gist "aspose-com-gists" "d7c757e7471bd38006ac0d35d221b2e2" "merge-xlsx-files.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

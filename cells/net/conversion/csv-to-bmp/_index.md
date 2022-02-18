@@ -67,22 +67,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows CSV to BMP C# Conversion" offSpacer="" %}}
 
-```cs
-// load the CSV file to be rendered
-var workbook = new Workbook("sourceFile.csv");
-// access the default Worksheet from the collection
-var worksheet = workbook.Worksheets[0];
-// define parameters for the resultant image
-var options = new Aspose.Cells.Rendering.ImageOrPrintOptions()
-{
-    OnePagePerSheet = true,
-    ImageType = Aspose.Cells.Drawing.ImageType.Bmp
-};
-// convert worksheet to image in BMP format
-var renderer = new Aspose.Cells.Rendering.SheetRender(worksheet, options);
-renderer.ToImage(0, "output.bmp"); 
-
-```
+{{< gist "aspose-com-gists" "0e4585d48ff965fe72ca6c6c869efad7" "convert-csv-to-bmp.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

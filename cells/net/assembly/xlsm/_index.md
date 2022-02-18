@@ -63,29 +63,9 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Command" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Generate XLSM Reports" offSpacer="" %}}
 
-```cs
-
-    // instantiate a new Workbook designer
-    var designer = new Aspose.Cells.WorkbookDesigner();
-    
-    // get the first worksheet of the workbook
-    var sheet = designer.Workbook.Worksheets[0];
-    
-    // set the marker to a cell A1
-    sheet.Cells["A1"].PutValue("&=$VariableArray");
-    
-    // set the data source for the marker
-    designer.SetDataSource("VariableArray", new string[] { "English", "Arabic", "Hindi", "Urdu", "French" });
-    
-    // process the marker
-    designer.Process(false);
-    
-    // save the result in XLSM format
-    designer.Workbook.Save("output.xlsx");
-
-```
+{{< gist "aspose-com-gists" "fa164df8378019787d572a59f5d110d8" "generate-xlsm-reports.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

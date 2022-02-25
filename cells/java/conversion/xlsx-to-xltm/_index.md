@@ -81,13 +81,7 @@ description: Sample Java conversion code for XLSX format to XLTM file. Programme
 
 {{% blocks/products/pf/agp/code-block title="XLSX to XLTM Java Conversion Source Code" offSpacer="" %}}
 
-```cs
-// load the XLSX file in an instance of Workbook
-Workbook book = new Workbook("template.xlsx");
-// save XLSX as XLTM
-book.save("output.xltm", SaveFormat.AUTO);   
-
-```
+{{< gist "aspose-com-gists" "fb3baba8d2c3daf5bfb9d6d52bfabe1a" "convert-xlsx-to-xltm.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

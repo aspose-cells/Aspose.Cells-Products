@@ -82,20 +82,7 @@ description: Sample Java conversion code for XLSX format to EMF file. Programmer
 
 {{% blocks/products/pf/agp/code-block title="XLSX to EMF Java Conversion Source Code" offSpacer="" %}}
 
-```cs
-// load the XLSX file to be rendered
-Workbook workbook = new Workbook("sourceFile.xlsx");
-// access the default Worksheet from the collection
-Worksheet worksheet = workbook.getWorksheets().get(0);
-// define parameters for the resultant image
-ImageOrPrintOptions options = new ImageOrPrintOptions();
-options.setOnePagePerSheet(true);
-options.setImageType(ImageType.EMF);
-// convert worksheet to image in EMF format
-SheetRender renderer = new SheetRender(worksheet, options);
-renderer.toImage(0, "output.emf");   
-
-```
+{{< gist "aspose-com-gists" "fb3baba8d2c3daf5bfb9d6d52bfabe1a" "convert-xlsx-to-emf.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

@@ -81,13 +81,7 @@ description: Sample Java conversion code for XLSX format to MHTML file. Programm
 
 {{% blocks/products/pf/agp/code-block title="XLSX to MHTML Java Conversion Source Code" offSpacer="" %}}
 
-```cs
-// load the XLSX file in an instance of Workbook
-Workbook book = new Workbook("template.xlsx");
-// save XLSX as MHTML
-book.save("output.mhtml", SaveFormat.AUTO);   
-
-```
+{{< gist "aspose-com-gists" "fb3baba8d2c3daf5bfb9d6d52bfabe1a" "convert-xlsx-to-mhtml.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

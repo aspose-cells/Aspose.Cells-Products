@@ -81,13 +81,7 @@ description: Sample Java conversion code for XLSX format to HTML file. Programme
 
 {{% blocks/products/pf/agp/code-block title="XLSX to HTML Java Conversion Source Code" offSpacer="" %}}
 
-```cs
-// load the XLSX file in an instance of Workbook
-Workbook book = new Workbook("template.xlsx");
-// save XLSX as HTML
-book.save("output.html", SaveFormat.AUTO);   
-
-```
+{{< gist "aspose-com-gists" "fb3baba8d2c3daf5bfb9d6d52bfabe1a" "convert-xlsx-to-html.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

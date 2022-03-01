@@ -81,14 +81,7 @@ description: Sample Java conversion code for XLSX format to MD file. Programmers
 
 {{% blocks/products/pf/agp/code-block title="XLSX to MD Java Conversion Source Code" offSpacer="" %}}
 
-```cs
-// load the XLSX file in an instance of Workbook
-Workbook book = new Workbook("template.xlsx");
-// save XLSX as MD
-book.save("output.md", SaveFormat.AUTO);   
-   
-
-```
+{{< gist "aspose-com-gists" "fb3baba8d2c3daf5bfb9d6d52bfabe1a" "convert-xlsx-to-md.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

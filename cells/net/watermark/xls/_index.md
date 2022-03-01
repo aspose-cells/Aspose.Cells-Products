@@ -68,22 +68,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/code-block title="Add Watermark to XLS - C#" offSpacer="" %}}
 
-```cs
-
-// create an instance of Workbook
-var workbook = new Aspose.Cells.Workbook();
-
-// get the first default sheet
-var sheet = workbook.Worksheets[0];
-
-// add a new shape to ShapesCollection of Worksheet
-var wordart = sheet.Shapes.AddTextEffect(Aspose.Cells.Drawing.MsoPresetTextEffect.TextEffect1,
-"CONFIDENTIAL", "Arial Black", 50, false, true, 18, 8, 1, 1, 130, 800);
-
-// save the file in xls format
-workbook.Save("watermarked.xls");  
-
-```
+{{< gist "aspose-com-gists" "a063330be91416696f63790a969400c9" "add-watermark-to-xls-file.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -124,7 +109,7 @@ Files with XLS extension represent Excel Binary File Format. Such files can be c
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/watermark/ods/" name="ODS" description="OpenDocument Spreadsheet File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/watermark/xlsb/" name="XLSB" description="Binary Excel Workbook File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/watermark/xlsm/" name="XLSM" description="Spreasheet File" >}}
-
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/watermark/xlsx/" name="XLSX" description="OOXML Excel File" >}}
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}

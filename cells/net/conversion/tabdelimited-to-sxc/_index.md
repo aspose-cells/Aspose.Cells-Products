@@ -65,7 +65,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows tabdelimited to sxc C# Conversion" offSpacer="" %}}
 
-{{< gist "aspose-cells-gists" "88c9872508ec3150c552eb5155edf06e" "Convert-tabdelimited-to-sxc.cs" >}}
+{{< gist "aspose-cells-gists" "88c9872508ec3150c552eb5155edf06e" "Convert-tsv-to-sxc.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

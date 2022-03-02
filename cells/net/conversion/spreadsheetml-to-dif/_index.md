@@ -65,7 +65,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows spreadsheetml to dif C# Conversion" offSpacer="" %}}
 
-{{< gist "aspose-cells-gists" "88c9872508ec3150c552eb5155edf06e" "Convert-spreadsheetml-to-dif.cs" >}}
+{{< gist "aspose-cells-gists" "88c9872508ec3150c552eb5155edf06e" "Convert-xml-to-dif.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

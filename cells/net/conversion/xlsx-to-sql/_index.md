@@ -44,7 +44,7 @@ PM> Install-Package Aspose.Cells
 
 1.  Load XLSX file with an instance of Workbook
 1.  Call the Workbook.Save method
-1.  Pass output path with SQL extension as parameters
+1.  Pass output path with SQL extension
 1.  Check specified path for resultant SQL file
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

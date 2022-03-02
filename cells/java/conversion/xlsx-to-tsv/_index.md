@@ -81,13 +81,7 @@ description: Sample Java conversion code for XLSX format to TSV file. Programmer
 
 {{% blocks/products/pf/agp/code-block title="XLSX to TSV Java Conversion Source Code" offSpacer="" %}}
 
-```cs
-// load the XLSX file in an instance of Workbook
-Workbook book = new Workbook("template.xlsx");
-// save XLSX as TSV
-book.save("output.tsv", SaveFormat.AUTO);   
-
-```
+{{< gist "aspose-com-gists" "fb3baba8d2c3daf5bfb9d6d52bfabe1a" "convert-xlsx-to-tsv.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

@@ -81,14 +81,7 @@ description: Sample Java conversion code for XLSX format to MARKDOWN file. Progr
 
 {{% blocks/products/pf/agp/code-block title="XLSX to MARKDOWN Java Conversion Source Code" offSpacer="" %}}
 
-```cs
-// load the XLSX file in an instance of Workbook
-Workbook book = new Workbook("template.xlsx");
-// save XLSX as MARKDOWN
-book.save("output.markdown", SaveFormat.AUTO);   
-   
-
-```
+{{< gist "aspose-com-gists" "fb3baba8d2c3daf5bfb9d6d52bfabe1a" "convert-xlsx-to-md.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

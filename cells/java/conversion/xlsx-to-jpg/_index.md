@@ -81,14 +81,7 @@ description: Sample Java conversion code for XLSX format to JPG file. Programmer
 
 {{% blocks/products/pf/agp/code-block title="XLSX to JPG Java Conversion Source Code" offSpacer="" %}}
 
-```cs
-// load the XLSX file in an instance of Workbook
-Workbook book = new Workbook("template.xlsx");
-// save XLSX as JPG
-book.save("output.jpg", SaveFormat.AUTO);   
-   
-
-```
+{{< gist "aspose-com-gists" "fb3baba8d2c3daf5bfb9d6d52bfabe1a" "convert-xlsx-to-jpeg.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

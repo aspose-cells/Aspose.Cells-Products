@@ -81,23 +81,7 @@ description: Sample Java conversion code for XLSX format to JSON file. Programme
 
 {{% blocks/products/pf/agp/code-block title="XLSX to JSON Java Conversion Source Code" offSpacer="" %}}
 
-```cs
-// load XLSX file with an instance of Workbook
-Workbook workbook = new Workbook("template.xlsx");
-// access CellsCollection of the worksheet containing data to be converted
-Cells cells = workbook.getWorksheets().get(0).getCells();
-// create & set ExportRangeToJsonOptions for advanced options
-ExportRangeToJsonOptions exportOptions = new ExportRangeToJsonOptions();
-// create a range of cells containing data to be exported
-Range range = cells.createRange(0, 0, cells.getLastCell().getRow() + 1, cells.getLastCell().getColumn() + 1);
-// export range as JSON data
-String jsonData = JsonUtility.exportRangeToJson(range, exportOptions);
-// write data to disc in JSON format
-BufferedWriter writer = new BufferedWriter(new FileWriter("output.json"));
-writer.write(jsonData);
-writer.close();   
-
-```
+{{< gist "aspose-com-gists" "fb3baba8d2c3daf5bfb9d6d52bfabe1a" "convert-xlsx-to-json.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

@@ -44,7 +44,7 @@ PM> Install-Package Aspose.Cells
 
 1.  Load TABDELIMITED file with an instance of Workbook
 1.  Call the Workbook.Save method
-1.  Pass output path with HTML extension
+1.  Pass output path with HTML extension as parameter
 1.  Check specified path for resultant HTML file
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

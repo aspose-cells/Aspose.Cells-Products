@@ -48,7 +48,7 @@ description: Python Sample code for generating XLSX documents. Use this code for
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Following source code shows how to create a MS Excel CSV file using C#." offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Following source code shows how to create a MS Excel XLSX file using Python." offSpacer="" %}}
 
 ```cs
 

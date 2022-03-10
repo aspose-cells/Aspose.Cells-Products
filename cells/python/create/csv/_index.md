@@ -23,7 +23,7 @@ description: Python Sample code for generating CSV documents. Use this code for 
 
 {{% blocks/products/pf/agp/text %}}
 
- It is easy for the developers to creat, load, modify and convert CSV format spreadsheet within running different reporting applications for data processing in just a few lines of code.
+ It is easy for the developers to create, load, modify and convert CSV format spreadsheet within running different reporting applications for data processing in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

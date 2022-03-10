@@ -1,7 +1,7 @@
 ---
 title: Create TSV Files via C# 
 weight: 7690
-url: /net/create/tsv/ 
+url: /net/create-tsv/ 
 description: C# Sample code for generating TSV documents. Use this code for creating TSV files within VB.NET, Asp.NET or any .NET based application.
 ---
 
@@ -24,7 +24,7 @@ description: C# Sample code for generating TSV documents. Use this code for crea
 
 {{% blocks/products/pf/agp/text %}}
 
- It is easy for the developers to creat, load, modify and convert TSV format spreadsheet within running different reporting applications for data processing in just a few lines of code.
+ It is easy for the developers to create, load, modify and convert TSV format spreadsheet within running different reporting applications for data processing in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

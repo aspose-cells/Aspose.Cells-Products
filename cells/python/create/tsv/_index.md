@@ -23,7 +23,7 @@ description: Python Sample code for generating TSV documents. Use this code for 
 
 {{% blocks/products/pf/agp/text %}}
 
- It is easy for the developers to create, load, modify and convert TSV format (Tab-Separated Values) within running different reporting applications for data processing in just a few lines of code.
+ It is easy for the developers to create, load, modify and convert TSV (Tab-Separated Values) within running different reporting applications for data processing in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -101,7 +101,7 @@ jpype.shutdownJVM()
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported SpreadSheet Generation" subTitle="You can also create other Microsoft Excel formats including few listed below." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Spreadsheet Generation" subTitle="You can also create other Microsoft Excel formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python/create-xls" name="XLS" description="Microsoft Excel Spreadsheet (Legacy)" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python/create-xlsx" name="XLSX" description="Open XML Workbook" >}} 
@@ -110,8 +110,8 @@ jpype.shutdownJVM()
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python/create-xlt/" name="XLT" description="Excel 97 - 2003 Template" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python/create-xltx/" name="XLTX" description="Excel Template" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python/create-xltm/" name="XLTM" description="Excel Macro-Enabled Template" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python/create-csv/" name="CSV" description="Comma Seperated Values" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python/create-tsv/" name="TSV" description="Tab Seperated Values" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python/create-csv/" name="CSV" description="Comma Separated Values" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python/create-tsv/" name="TSV" description="Tab Separated Values" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python/create-ods/" name="ODS" description="OpenDocument Spreadsheet" >}} 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

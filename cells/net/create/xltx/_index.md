@@ -1,5 +1,5 @@
 ---
-title: Create XLTX MS Excel Files via C# 
+title: Create MS Excel XLTX Files via C# 
 weight: 7690
 url: /net/create/xltx/ 
 description: C# Sample code for generating XLTX documents. Use this code for creating Micorsoft Excel XLTX files within VB.NET, Asp.NET or any .NET based application.

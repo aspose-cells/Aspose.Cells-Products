@@ -1,5 +1,5 @@
 ---
-title: Create XLSM MS Excel Files via C# 
+title: Create MS Excel XLSM Files via C# 
 weight: 7690
 url: /net/create/xlsm/ 
 description: C# Sample code for generating XLSM documents. Use this code for creating Micorsoft Excel XLSM files within VB.NET, Asp.NET or any .NET based application.

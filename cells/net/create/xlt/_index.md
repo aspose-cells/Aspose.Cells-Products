@@ -1,5 +1,5 @@
 ---
-title: Create XLT MS Excel Files via C# 
+title: Create MS Excel XLT Files via C# 
 weight: 7690
 url: /net/create/xlt/ 
 description: C# Sample code for generating XLT documents. Use this code for creating Micorsoft Excel XLT files within VB.NET, Asp.NET or any .NET based application.

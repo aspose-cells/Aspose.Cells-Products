@@ -1,5 +1,5 @@
 ---
-title: Create XLTM MS Excel Files via C# 
+title: Create MS Excel XLTM Files via C# 
 weight: 7690
 url: /net/create/xltm/ 
 description: C# Sample code for generating XLTM documents. Use this code for creating Micorsoft Excel XLTM files within VB.NET, Asp.NET or any .NET based application.

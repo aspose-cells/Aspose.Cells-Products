@@ -1,5 +1,5 @@
 ---
-title: Create XLSB MS Excel Files via C# 
+title: Create MS Excel XLSB Files via C# 
 weight: 7690
 url: /net/create/xlsb/ 
 description: C# Sample code for generating XLSB documents. Use this code for creating Micorsoft Excel XLSB files within VB.NET, Asp.NET or any .NET based application.

@@ -1,5 +1,5 @@
 ---
-title: Create XLS MS Excel Files via C# 
+title: Create MS Excel XLS Files via C# 
 weight: 7690
 url: /net/create/xls/ 
 description: C# Sample code for generating XLS documents. Use this code for creating Micorsoft Excel XLS files within VB.NET, Asp.NET or any .NET based application.

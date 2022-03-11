@@ -44,7 +44,7 @@ Before running the Java conversion sample source code, make sure that you have t
 
 - Microsoft Windows or a compatible OS with Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 - Aspose.Cells for Java supports the following Java versions: J2SE 6.0 (1.6), J2SE 7.0 (1.7), or above.
-- Get latest version of Aspose.Cells for Java directly from Maven. [More details.](https://docs.aspose.com/cells/java/installation/) 
+- [Get latest version of Aspose.Cells for Java directly from Maven.](https://docs.aspose.com/cells/java/installation/) 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

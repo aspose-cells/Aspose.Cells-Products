@@ -29,7 +29,7 @@ description: Java Sample code for generating XLT documents. Use this code for cr
 
 1.  Create an instance of [Workbook class](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook).
 1.  Access the relevant worksheet using getWorksheets.get() method.
-1.  Select the relevant cell, input the value into the desired cell using the identifier, like A1, B3, etc.
+1.  Select the relevant cell, input the value into the desired cell using the cell name, like A1, B3, etc.
 1.  Save the workbook as XLT format using the save() method.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -43,7 +43,8 @@ Before running the Java conversion sample source code, make sure that you have t
 {{% /blocks/products/pf/agp/text %}}
 
 - Microsoft Windows or a compatible OS with Java Runtime Environment for JSP/JSF Application and Desktop Applications.
-- Get latest version of Aspose.Cells for Java directly from Maven.
+- Aspose.Cells for Java supports the following Java versions: J2SE 6.0 (1.6), J2SE 7.0 (1.7), or above.
+- Get latest version of Aspose.Cells for Java directly from Maven. [More details.](https://docs.aspose.com/cells/java/installation/) 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

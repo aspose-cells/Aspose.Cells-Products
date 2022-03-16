@@ -17,10 +17,6 @@ In the above example, simply changing the ChartType to Line creates a line chart
 
 {{< gist "aspose-cells-gists" "88c9872508ec3150c552eb5155edf06e" "Examples-CSharp-Charts-ManipulateChart-HowToCreateLineChart-1.cs" >}}
 
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
-
-
 {{% blocks/products/pf/feature-page-section  h2="Convert Excel Charts to Images" %}}
 
 Process of converting charts to images is, Use the Workbook class to load the Excel file, select the relevant workseet containing the charts and call the [ToImage method](https://apireference.aspose.com/cells/net/aspose.cells.charts.chart/toimage/methods/7) for conversion.

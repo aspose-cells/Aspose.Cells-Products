@@ -14,12 +14,19 @@ Line charts make use of lines to display information. These charts are very usef
 {{% blocks/products/pf/feature-page-section  h2="Create Line Chart within Excel File" %}}
 
 In the above example, simply changing the ChartType to Line creates a line chart. The complete source is provided below. when the code is executed, a line chart is added to the worksheet.
-{{% blocks/products/pf/feature-page-code h3="C# Code to Create Line Charts" %}}
+{{% blocks/products/pf/feature-page-code h3="C# Code to Create Line Chart" %}}
 
 {{< gist "aspose-cells-gists" "88c9872508ec3150c552eb5155edf06e" "Examples-CSharp-Charts-ManipulateChart-HowToCreateLineChart-1.cs" >}}
+
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Create Line with Data Marker Chart" %}}
 
 In order to create a line with the data marker chart, [**ChartType**](https://apireference.aspose.com/cells/net/aspose.cells.charts/charttype) has to be set to *ChartType.LineWithDataMarkers* and few extra properties such as background area,Series Markers, Values & XValues need to be set accordingly. Upon executing the following code, a line with the data marker chart is added to the worksheet.
 
+{{% blocks/products/pf/feature-page-code h3="C# Code to Create Line with Data Marker Chart" %}}
 {{< gist "aspose-cells-gists" "88c9872508ec3150c552eb5155edf06e" "Examples-CSharp-Charts-CreateLineWithDataMarkerChart-1.cs" >}}
+
+{{% /blocks/products/pf/feature-page-code  %}}
+{{% /blocks/products/pf/feature-page-section %}}

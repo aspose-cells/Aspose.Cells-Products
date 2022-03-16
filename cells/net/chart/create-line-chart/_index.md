@@ -19,15 +19,12 @@ In the above example, simply changing the ChartType to Line creates a line chart
 {{< gist "aspose-cells-gists" "88c9872508ec3150c552eb5155edf06e" "Examples-CSharp-Charts-ManipulateChart-HowToCreateLineChart-1.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
-{{% blocks/products/pf/feature-page-section  h2="Convert Excel Charts to Images" %}}
+{{% blocks/products/pf/feature-page-section  h2="Create Line with Data Marker Chart" %}}
 
-Process of converting charts to images is, Use the Workbook class to load the Excel file, select the relevant workseet containing the charts and call the [ToImage method](https://apireference.aspose.com/cells/net/aspose.cells.charts.chart/toimage/methods/7) for conversion.
+In order to create a line with the data marker chart, [**ChartType**](https://apireference.aspose.com/cells/net/aspose.cells.charts/charttype) has to be set to *ChartType.LineWithDataMarkers* and few extra properties such as background area,Series Markers, Values & XValues need to be set accordingly. Upon executing the following code, a line with the data marker chart is added to the worksheet.
 
-{{% blocks/products/pf/feature-page-code h3="C# Code to Convert Excel Chart to Image" %}}
+{{< gist "aspose-cells-gists" "88c9872508ec3150c552eb5155edf06e" "Examples-CSharp-Charts-CreateLineWithDataMarkerChart-1.cs" >}}
 
-{{< gist "aspose-cells-gists" "88c9872508ec3150c552eb5155edf06e" "Examples-CSharp-Charts-ManipulateChart-HowToCreatePyramidChart-1.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}
-
-{{< blocks/products/pf/feature-page-options formats="all" afterslug="Chart Conversion">}}

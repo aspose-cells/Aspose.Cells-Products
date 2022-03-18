@@ -1,6 +1,6 @@
 ---
 title: Create Line Charts via C# 
-url: /net/create-line-chart/ 
+url: /net/chart/create-line-chart/ 
 description: C# Sample code for creating line charts to Excel using .NET Library. Use this code for creating a line chart to MS Excel within VB.NET, Asp.NET or any .NET based application.
 ---
 
@@ -75,8 +75,17 @@ wks.Cells["C2"].PutValue(1250);
 wks.Cells["C3"].PutValue(2200);
 wks.Cells["C4"].PutValue(3350);
 
+// Adding a line chart to the worksheet
+int chartIndex = wks.Charts.Add(Aspose.Cells.Charts.ChartType.Line, 5, 0, 15, 5);
+
+// Accessing the instance of the newly added chart
+Aspose.Cells.Charts.Chart chart = wks.Charts[chartIndex];
+
+/ Setting chart data source as the range  "A1:C4"
+hart.SetChartDataRange("A1:C4", true);
+
 // Save the Workbook as .xlsx file.
-wkb.Save("created_one.xlsx");
+wkb.Save("output.xlsx");
 
 ```
 

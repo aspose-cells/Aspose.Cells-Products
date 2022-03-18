@@ -1,6 +1,6 @@
 ---
 title: Create Line Charts via C# 
-url: /net/create-xlsx/ 
+url: /net/create-line-chart/ 
 description: C# Sample code for creating line charts to Excel using .NET Library. Use this code for creating a line chart to MS Excel within VB.NET, Asp.NET or any .NET based application.
 ---
 
@@ -13,8 +13,7 @@ description: C# Sample code for creating line charts to Excel using .NET Library
 {{% blocks/products/pf/agp/content h2="" %}}
 
 Creating Line Charts dynamically within running application is easy. In order to create variety of charts to spreadsheets from scratch without requiring MS Office, we’ll use
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API that offers different features for spreadsheets creation, manipulation and conversion using .NET platform. Aspose.Cells provides many flexible charting objects.
+ [Aspose.Cells for .NET](https://products.aspose.com/cells/net)  API that offers different features for spreadsheets creation, manipulation and conversion using .NET platform. Aspose.Cells provides many flexible charting objects.
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

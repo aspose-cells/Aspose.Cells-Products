@@ -4,7 +4,7 @@ url: /net/chart/create-line-chart/
 description: C# Sample code for creating line charts to Excel using .NET Library. Use this code for creating a line chart to MS Excel within VB.NET, Asp.NET or any .NET based application.
 ---
 
-{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
 {{< blocks/products/pf/feature-page-header h1="Create Line Chart via C#" h2="Native and high performance MS Excel Charts creation programmatically using server side .NET APIs." >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells " subTitlepfName="for .NET" >}}

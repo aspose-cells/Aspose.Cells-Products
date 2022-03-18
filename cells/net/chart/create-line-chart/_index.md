@@ -52,40 +52,7 @@ Creating Line Charts dynamically within running application is easy. In order to
 
 {{% blocks/products/pf/agp/code-block title="Following source code shows how to create a Line Chart to MS Excel XLSX file using C#." offSpacer="" %}}
 
-```cs
-// Instantiating a Workbook object
-Workbook wkb = new Workbook();
-
-// Obtaining the reference of the first worksheet
-Worksheet wks = wkb.Worksheets[0];
-
-// Adding sample values to cells
-wks.Cells["A2"].PutValue("Category1");
-wks.Cells["A3"].PutValue("Category2");
-wks.Cells["A4"].PutValue("Category3");
-
-wks.Cells["B1"].PutValue("Line1");
-wks.Cells["B2"].PutValue(324);
-wks.Cells["B3"].PutValue(200);
-wks.Cells["B4"].PutValue(450);
-wks.Cells["C1"].PutValue("Line2");
-wks.Cells["C2"].PutValue(1250);
-wks.Cells["C3"].PutValue(2200);
-wks.Cells["C4"].PutValue(3350);
-
-// Adding a line chart to the worksheet
-int chartIndex = wks.Charts.Add(Aspose.Cells.Charts.ChartType.Line, 5, 0, 15, 5);
-
-// Accessing the instance of the newly added chart
-Aspose.Cells.Charts.Chart chart = wks.Charts[chartIndex];
-
-// Setting chart data source as the range  "A1:C4"
-hart.SetChartDataRange("A1:C4", true);
-
-// Save the Workbook as .xlsx file.
-wkb.Save("output.xlsx");
-
-```
+{{< gist "aspose-cells-gists" "88c9872508ec3150c552eb5155edf06e" "Examples-CSharp-Charts-CreateLineChart.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

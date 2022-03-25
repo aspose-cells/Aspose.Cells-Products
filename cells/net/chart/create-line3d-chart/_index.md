@@ -28,7 +28,6 @@ It is easy for the developers to create a 3D Line chart within running different
 {{% /blocks/products/pf/agp/text %}}
 
 1. Include the namespace in your class file
-
 1. Create [**Workbook**](https://apireference.aspose.com/cells/net/aspose.cells/workbook) class instance.
 1. Add some data to worksheet cells with the [**Cell**](https://apireference.aspose.com/cells/net/aspose.cells/cell) object's [**PutValue**](https://apireference.aspose.com/cells/net/aspose.cells/cell/methods/putvalue/index) method.
 This will be used as the data source for the chart.
@@ -47,7 +46,7 @@ Just make sure that system have Microsoft Windows or a compatible OS with .NET F
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/code-block title="Following source code shows how to create a 3D Line Chart to MS Excel XLSX file using C#." offSpacer="" %}}
 
-{{< gist "aspose-cells-gists" "88c9872508ec3150c552eb5155edf06e" "Examples-CSharp-Charts-Createline3dChart.cs" >}}
+{{< gist "aspose-cells-gists" "88c9872508ec3150c552eb5155edf06e" "Examples-CSharp-Charts-CreateLine3DChart.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

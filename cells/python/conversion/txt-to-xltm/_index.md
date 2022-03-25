@@ -106,7 +106,7 @@ description: Sample code for txt to xltm Python conversion. Use API example code
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python/conversion/txt-to-txt/" name="TXT TO TXT" description="Text Document" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python/conversion/txt-to-xls/" name="TXT TO XLS" description="Excel Binary Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python/conversion/txt-to-xlsb/" name="TXT TO XLSB" description="Binary Excel Workbook File" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python/conversion/txt-to-xlsm/" name="TXT TO XLSM" description="Spreasheet File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python/conversion/txt-to-xlsm/" name="TXT TO XLSM" description="Spreadsheet File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python/conversion/txt-to-xlsx/" name="TXT TO XLSX" description="OOXML Excel File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python/conversion/txt-to-xlt/" name="TXT TO XLT" description="Microsoft Excel Template" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python/conversion/txt-to-xltm/" name="TXT TO XLTM" description="Excel Macro-enabled Template" >}}

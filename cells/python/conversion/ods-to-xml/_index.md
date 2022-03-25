@@ -106,7 +106,7 @@ description: Sample code for ods to xml Python conversion. Use API example code 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python/conversion/ods-to-txt/" name="ODS TO TXT" description="Text Document" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python/conversion/ods-to-xls/" name="ODS TO XLS" description="Excel Binary Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python/conversion/ods-to-xlsb/" name="ODS TO XLSB" description="Binary Excel Workbook File" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python/conversion/ods-to-xlsm/" name="ODS TO XLSM" description="Spreasheet File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python/conversion/ods-to-xlsm/" name="ODS TO XLSM" description="Spreadsheet File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python/conversion/ods-to-xlsx/" name="ODS TO XLSX" description="OOXML Excel File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python/conversion/ods-to-xlt/" name="ODS TO XLT" description="Microsoft Excel Template" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python/conversion/ods-to-xltm/" name="ODS TO XLTM" description="Excel Macro-enabled Template" >}}

@@ -106,7 +106,7 @@ description: Sample code for spreadsheetml to xls Python conversion. Use API exa
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python/conversion/spreadsheetml-to-txt/" name="SPREADSHEETML TO TXT" description="Text Document" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python/conversion/spreadsheetml-to-xls/" name="SPREADSHEETML TO XLS" description="Excel Binary Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python/conversion/spreadsheetml-to-xlsb/" name="SPREADSHEETML TO XLSB" description="Binary Excel Workbook File" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python/conversion/spreadsheetml-to-xlsm/" name="SPREADSHEETML TO XLSM" description="Spreasheet File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python/conversion/spreadsheetml-to-xlsm/" name="SPREADSHEETML TO XLSM" description="Spreadsheet File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python/conversion/spreadsheetml-to-xlsx/" name="SPREADSHEETML TO XLSX" description="OOXML Excel File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python/conversion/spreadsheetml-to-xlt/" name="SPREADSHEETML TO XLT" description="Microsoft Excel Template" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python/conversion/spreadsheetml-to-xltm/" name="SPREADSHEETML TO XLTM" description="Excel Macro-enabled Template" >}}

@@ -106,7 +106,7 @@ description: Sample code for xltx to fods Python conversion. Use API example cod
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python/conversion/xltx-to-txt/" name="XLTX TO TXT" description="Text Document" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python/conversion/xltx-to-xls/" name="XLTX TO XLS" description="Excel Binary Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python/conversion/xltx-to-xlsb/" name="XLTX TO XLSB" description="Binary Excel Workbook File" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python/conversion/xltx-to-xlsm/" name="XLTX TO XLSM" description="Spreasheet File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python/conversion/xltx-to-xlsm/" name="XLTX TO XLSM" description="Spreadsheet File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python/conversion/xltx-to-xlsx/" name="XLTX TO XLSX" description="OOXML Excel File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python/conversion/xltx-to-xlt/" name="XLTX TO XLT" description="Microsoft Excel Template" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python/conversion/xltx-to-xltm/" name="XLTX TO XLTM" description="Excel Macro-enabled Template" >}}

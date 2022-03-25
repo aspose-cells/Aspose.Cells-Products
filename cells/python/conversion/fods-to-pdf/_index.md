@@ -106,7 +106,7 @@ description: Sample code for fods to pdf Python conversion. Use API example code
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python/conversion/fods-to-txt/" name="FODS TO TXT" description="Text Document" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python/conversion/fods-to-xls/" name="FODS TO XLS" description="Excel Binary Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python/conversion/fods-to-xlsb/" name="FODS TO XLSB" description="Binary Excel Workbook File" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python/conversion/fods-to-xlsm/" name="FODS TO XLSM" description="Spreasheet File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python/conversion/fods-to-xlsm/" name="FODS TO XLSM" description="Spreadsheet File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python/conversion/fods-to-xlsx/" name="FODS TO XLSX" description="OOXML Excel File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python/conversion/fods-to-xlt/" name="FODS TO XLT" description="Microsoft Excel Template" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python/conversion/fods-to-xltm/" name="FODS TO XLTM" description="Excel Macro-enabled Template" >}}

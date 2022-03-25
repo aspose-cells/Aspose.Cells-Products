@@ -15,7 +15,7 @@ Creating Column Charts dynamically within running application is easy. In order 
 {{% blocks/products/pf/agp/feature-section-col title="How to Create Column Charts  via C#" %}}
 {{% blocks/products/pf/agp/text %}}
 It is easy for the developers to create a Column chart within running different reporting applications for data processing in just a few lines of code.
-{ {% /blocks/products/pf/agp/text %}}
+{{% /blocks/products/pf/agp/text %}}
 
 1. Include the namespace in your class file
 

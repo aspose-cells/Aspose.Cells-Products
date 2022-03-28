@@ -57,7 +57,7 @@ Adding a line in chart dynamically within running application is easy. In order 
 {{% /blocks/products/pf/agp/code-block %}}
 
 
-**![Add a line in chart to Microsoft Excel](addlineinchart.png)**
+**![Add a line in chart to Microsoft Excel](line-in-chart.png)**
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

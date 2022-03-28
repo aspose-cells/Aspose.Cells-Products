@@ -50,7 +50,7 @@ Adding a line in chart dynamically within running application is easy. In order 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Following source code shows how to create a Line Chart to MS Excel XLSX file using C#." offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Following source code shows how to add a line in chart to MS Excel XLSX file using C#." offSpacer="" %}}
 
 {{< gist "aspose-cells-gists" "88c9872508ec3150c552eb5155edf06e" "Examples-CSharp-Charts-AddLineInChart.cs" >}}
 
@@ -58,6 +58,6 @@ Adding a line in chart dynamically within running application is easy. In order 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-![todo:image_alt_text](chart-types_1.png)
+![todo:image_alt_text](LineInChart.png)
 
 <!-- aboutfile Starts -->

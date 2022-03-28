@@ -31,7 +31,7 @@ Adding a line in chart dynamically within running application is easy. In order 
    This will be used as the data source for the chart.
 1. Add a Chart to the worksheet by calling the [**Charts**](https://apireference.aspose.com/cells/net/aspose.cells.charts/chartcollection) collection's [**Add**](https://apireference.aspose.com/cells/net/aspose.cells.charts/chartcollection/methods/add) method, encapsulated in the [**Worksheet**](https://apireference.aspose.com/cells/net/aspose.cells/worksheet) object.
 1. Access the new [**Chart**](https://apireference.aspose.com/cells/net/aspose.cells.charts/chart) object from the Charts collection by passing its index, specify the chart's data source by calling [**Chart.SetChartDataRange**](https://https://apireference.aspose.com/cells/net/aspose.cells.charts/chart/methods/setchartdatarange).
-1. Calculate the chart position by calling [*Calculate**](https://https://apireference.aspose.com/cells/net/aspose.cells.charts/chart/methods/Calculate) method.
+1. Calculate the chart position by calling [**Calculate**](https://https://apireference.aspose.com/cells/net/aspose.cells.charts/chart/methods/Calculate) method.
 1. Add a [**Line**](https://apireference.aspose.com/cells/net/aspose.cells.drawing/shape/properties/msodrawingtype) Shape by calling Chart.Shapes.AddShapeInChartByScale method.
 1. Set the line format
 
@@ -57,9 +57,7 @@ Adding a line in chart dynamically within running application is easy. In order 
 {{% /blocks/products/pf/agp/code-block %}}
 
 
-**Add a line in chart to Microsoft Excel** 
-
-![todo:image_alt_text](addlineinchart.png)
+**![Add a line in chart to Microsoft Excel](addlineinchart.png)**
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

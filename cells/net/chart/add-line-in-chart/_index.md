@@ -56,8 +56,9 @@ Adding a line in chart dynamically within running application is easy. In order 
 
 {{% /blocks/products/pf/agp/code-block %}}
 
+![todo:image_alt_text](LineInChart.png)
+
 {{< /blocks/products/pf/agp/feature-section >}}
 
-![todo:image_alt_text](LineInChart.png)
 
 <!-- aboutfile Starts -->

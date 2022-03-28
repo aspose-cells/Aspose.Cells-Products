@@ -56,6 +56,7 @@ Adding a line in chart dynamically within running application is easy. In order 
 
 {{% /blocks/products/pf/agp/code-block %}}
 
+Execute the above code, you will get the following results:
 
 ![](line-in-chart.png)
 

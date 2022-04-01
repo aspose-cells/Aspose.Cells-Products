@@ -30,8 +30,8 @@ Creating Line Charts dynamically within running application is easy. In order to
 1. Create [**Workbook**](https://apireference.aspose.com/cells/net/aspose.cells/workbook) class instance.
 1. Add some data to worksheet.
 1. Add a [**Line**](https://apireference.aspose.com/cells/net/aspose.cells.charts/charttype) Chart to the worksheet.
-1. Access the new [**Chart**](https://apireference.aspose.com/cells/net/aspose.cells.charts/chart) object from the Charts collection by passing its index.
-1. Use [**Chart.SetChartDataRange**](https://https://apireference.aspose.com/cells/net/aspose.cells.charts/chart/methods/setchartdatarange) method to specify the chart's data source.
+1. Access the new [**Chart**](https://apireference.aspose.com/cells/net/aspose.cells.charts/chart) object.
+1. Specify the chart's data source with [**Chart.SetChartDataRange**](https://https://apireference.aspose.com/cells/net/aspose.cells.charts/chart/methods/setchartdatarange) method.
 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

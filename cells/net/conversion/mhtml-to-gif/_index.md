@@ -1,8 +1,7 @@
 ---
-title: Convert MHTML to GIF via C# 
-weight: 3330
-url: /net/conversion/mhtml-to-gif/ 
-description: Sample code for MHTML to GIF C# conversion. Use API example code for batch MHTML files to GIF conversion within VB.NET, Asp.NET or any .NET based application.
+title: Convert MHTML to GIF via C#
+url: /net/conversion/mhtml-to-gif/
+description: Sample code for mhtml to gif C# conversion. Use API example code for batch mhtml files to gif conversion within VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -44,10 +43,9 @@ PM> Install-Package Aspose.Cells
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Load MHTML file with an instance of Workbook
-1.  Select the default or any Worksheet from the collection
-1.  Create & set the object of ImageOrPrintOptions
-1.  Create an instance of SheetRender with Worksheet & ImageOrPrintOptions
-1.  Call SheetRender.ToImage method
+1.  Call the Workbook.Save method
+1.  Pass output path with GIF extension as parameter
+1.  Check specified path for resultant GIF file
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -59,80 +57,46 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows or a compatible OS with .NET Framework, .NET Core, Mono or Xamarin Platforms.
+-  Microsoft Windows or a compatible OS with .NET, .NET Core, Mono or Xamarin Platforms..
 -  Development environment like Microsoft Visual Studio.
 -  Aspose.Cells for .NET DLL referenced in your project.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="This sample code shows MHTML to GIF C# Conversion" offSpacer="" %}}
-
-```cs
-// load the MHTML file to be rendered
-var workbook = new Workbook("sourceFile.mhtml");
-// access the default Worksheet from the collection
-var worksheet = workbook.Worksheets[0];
-// define parameters for the resultant image
-var options = new Aspose.Cells.Rendering.ImageOrPrintOptions()
-{
-    OnePagePerSheet = true,
-    ImageType = Aspose.Cells.Drawing.ImageType.Gif
-};
-// convert worksheet to image in GIF format
-var renderer = new Aspose.Cells.Rendering.SheetRender(worksheet, options);
-renderer.ToImage(0, "output.gif"); 
-
-```
-
-{{% /blocks/products/pf/agp/code-block %}}
-
 {{< /blocks/products/pf/agp/feature-section >}}
 
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{% cells-convert title="Free App and Sample Code to Convert MHTML to GIF" formats=pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et InputFormat=mhtml outformat=gif IsLandingPage=true %}}
  
-
 <!-- aboutfile Starts -->
-
-{{< blocks/products/pf/agp/demobox sectionTitle="Free App to Convert MHTML to GIF" sectionDescription="Check our live demos for [MHTML to GIF conversion](https://products.aspose.app/cells/conversion/mhtml-to-gif) with following benefits." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your MHTML file and hit the \"Convert\" button." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" You will instantly get the download link for resultant GIF file." >}}
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
  An Excel Spreadsheet Programming Library capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. .NET Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS and more, thus making it a perfect choice to exchange documents in industry-standard formats.
 
-
-
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="MHTML" readMoreLink="https://docs.fileformat.com/web/mhtml/" >}}
-Files with MHTML extension represent a web page archive format that can be created by a number of different applications. The format is known as archive format because it saves the web HTML code and associated resources in a single file. These resources include anything linked to the webpage such as images, applets, animations, audio files and so on. MHTML files can be opened in a variety of applications such as Internet Explorer and Microsoft Word. Microsoft Windows uses MHTML file format for recording scenarios of problems observed during the usage of any application on Windows that raises issues. The MHTML file format encodes the page contents similar to specifications defined in message/rfc822 which is plain text email related specifications. The actual specifications of the format are as detailed by RFC 2557.
-
+        {{< blocks/products/pf/agp/about-file-text fileFormat="MHTML" readMoreLink="https://docs.fileformat.com/spreadsheet/mhtml/" >}}
+        
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="gif" readMoreLink="https://docs.fileformat.com/image/gif/" >}}
-A GIF or Graphical Interchange Format is a type of highly compressed image. Owned by Unisys, GIF uses the LZW compression algorithm that does not degrade the image quality. For each image GIF typically allow up to 8 bits per pixel and up to 256 colours are allowed across the image. In contrast to a JPEG image, which can display up to 16 million colours and fairly touches the limits of the human eye. Back when the internet emerged, GIFs remained the best choice because they required low bandwidth and compatible for the graphics that consume solid areas of colour. An animated GIF combines numerous images or frames into a single file and displays them in a sequence to generate an animated clip or a short video. The colour limitations are up to 256 for each frame and are likely to be the least suitable for reproducing other images and photographs with colour gradient.
+        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/spreadsheet/gif/" >}}
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
     {{< /blocks/products/pf/agp/about-file-section >}}
-
-{{< /blocks/products/pf/agp/demobox >}}
 
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert MHTML into many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/mhtml-to-bmp/" name="MHTML TO BMP" description="Bitmap Image" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/mhtml-to-csv/" name="MHTML TO CSV" description="Comma Separated Values" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/mhtml-to-dif/" name="MHTML TO DIF" description="Data Interchange Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/mhtml-to-emf/" name="MHTML TO EMF" description="Enhanced Metafile Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/mhtml-to-gif/" name="MHTML TO GIF" description="Graphical Interchange Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/mhtml-to-html/" name="MHTML TO HTML" description="Hyper Text Markup Language" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/mhtml-to-md/" name="MHTML TO MD" description="Markdown Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/mhtml-to-mhtml/" name="MHTML TO MHTML" description="Web Page Archive Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/mhtml-to-ods/" name="MHTML TO ODS" description="OpenDocument Spreadsheet File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/mhtml-to-pdf/" name="MHTML TO PDF" description="Portable Document Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/mhtml-to-png/" name="MHTML TO PNG" description="Portable Network Graphics" >}}

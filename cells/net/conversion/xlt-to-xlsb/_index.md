@@ -1,8 +1,7 @@
 ---
-title: Convert XLT to XLSB via C# 
-weight: 8000
-url: /net/conversion/xlt-to-xlsb/ 
-description: Sample code for XLT to XLSB C# conversion. Use API example code for batch XLT files to XLSB conversion within VB.NET, Asp.NET or any .NET based application.
+title: Convert XLT to XLSB via C#
+url: /net/conversion/xlt-to-xlsb/
+description: Sample code for xlt to xlsb C# conversion. Use API example code for batch xlt files to xlsb conversion within VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -43,9 +42,9 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Load XLT file with an instance of Workbook class
+1.  Load XLT file with an instance of Workbook
 1.  Call the Workbook.Save method
-1.  Pass output path with XLSB extension & SaveFormat.Auto as parameters
+1.  Pass output path with XLSB extension as parameter
 1.  Check specified path for resultant XLSB file
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -58,68 +57,41 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows or a compatible OS with .NET Framework, .NET Core, Mono or Xamarin Platforms.
+-  Microsoft Windows or a compatible OS with .NET, .NET Core, Mono or Xamarin Platforms..
 -  Development environment like Microsoft Visual Studio.
 -  Aspose.Cells for .NET DLL referenced in your project.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="This sample code shows XLT to XLSB C# Conversion" offSpacer="" %}}
-
-```cs
-// load the XLT file in an instance of Workbook
-var book = new Workbook("template.xlt");
-// save XLT as XLSB
-book.Save("output.xlsb", Aspose.Cells.SaveFormat.Auto); 
-
-```
-
-{{% /blocks/products/pf/agp/code-block %}}
-
 {{< /blocks/products/pf/agp/feature-section >}}
 
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{% cells-convert title="Free App and Sample Code to Convert XLT to XLSB" formats=pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et InputFormat=xlt outformat=xlsb IsLandingPage=true %}}
  
-
 <!-- aboutfile Starts -->
-
-{{< blocks/products/pf/agp/demobox sectionTitle="Free App to Convert XLT to XLSB" sectionDescription="Check our live demos for [XLT to XLSB conversion](https://products.aspose.app/cells/conversion/xlt-to-xlsb) with following benefits." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your XLT file and hit the \"Convert\" button." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" You will instantly get the download link for resultant XLSB file." >}}
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
  An Excel Spreadsheet Programming Library capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. .NET Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS and more, thus making it a perfect choice to exchange documents in industry-standard formats.
-
-
 
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="XLT" readMoreLink="https://docs.fileformat.com/spreadsheet/xlt/" >}}
-Files with .XLT extension are template files created with Microsoft Excel which is a spreadsheet application which comes as part of Microsoft Office suite.  Microsoft Office 97-2003 supported creating new XLT files as well as opening these. The latest version of Excel is still capable of opening this old format template files. Such a template file is used to quickly create new Excel files with default data and settings such as page formatting, font size, margins, charts, etc which can be further saved as new .XLS files.
-
+        
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="xlsb" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}
-XLSB file format specifies the Excel Binary File Format, which is a collection of records and structures that specify Excel workbook content. The content can include unstructured or semi-structured tables of numbers, text, or both numbers and text, formulas, external data connections, charts and images. Unlike XLSX (which is based on Open XML file format), the XLSB represents binary Excel workbook file. XLSB files can be read and written to faster which makes them useful for working with large files. XLSB is seldom used to store workbooks as XLSX (and previously XLS) are the most common user selected file formats for saving workbooks. It can be opened by Microsoft Office 2007 and above.
+        {{< blocks/products/pf/agp/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
     {{< /blocks/products/pf/agp/about-file-section >}}
-
-{{< /blocks/products/pf/agp/demobox >}}
 
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert XLT into many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xlt-to-bmp/" name="XLT TO BMP" description="Bitmap Image" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xlt-to-csv/" name="XLT TO CSV" description="Comma Separated Values" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xlt-to-dif/" name="XLT TO DIF" description="Data Interchange Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xlt-to-emf/" name="XLT TO EMF" description="Enhanced Metafile Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xlt-to-gif/" name="XLT TO GIF" description="Graphical Interchange Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xlt-to-html/" name="XLT TO HTML" description="Hyper Text Markup Language" >}}
@@ -133,8 +105,10 @@ XLSB file format specifies the Excel Binary File Format, which is a collection o
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xlt-to-tsv/" name="XLT TO TSV" description="Tab-Separated Values" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xlt-to-txt/" name="XLT TO TXT" description="Text Document" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xlt-to-xls/" name="XLT TO XLS" description="Excel Binary Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xlt-to-xlsb/" name="XLT TO XLSB" description="Binary Excel Workbook File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xlt-to-xlsm/" name="XLT TO XLSM" description="Spreasheet File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xlt-to-xlsx/" name="XLT TO XLSX" description="OOXML Excel File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xlt-to-xlt/" name="XLT TO XLT" description="Microsoft Excel Template" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xlt-to-xltm/" name="XLT TO XLTM" description="Excel Macro-enabled Template" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xlt-to-xltx/" name="XLT TO XLTX" description="Office OpenXML Excel Template" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xlt-to-xml/" name="XLT TO XML" description="Extensible Markup Language" >}}

@@ -1,8 +1,7 @@
 ---
-title: Convert XLTX to XLSX via C# 
-weight: 7600
-url: /net/conversion/xltx-to-xlsx/ 
-description: Sample code for XLTX to XLSX C# conversion. Use API example code for batch XLTX files to XLSX conversion within VB.NET, Asp.NET or any .NET based application.
+title: Convert XLTX to XLSX via C#
+url: /net/conversion/xltx-to-xlsx/
+description: Sample code for xltx to xlsx C# conversion. Use API example code for batch xltx files to xlsx conversion within VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -43,9 +42,9 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Load XLTX file with an instance of Workbook class
+1.  Load XLTX file with an instance of Workbook
 1.  Call the Workbook.Save method
-1.  Pass output path with XLSX extension & SaveFormat.Auto as parameters
+1.  Pass output path with XLSX extension as parameter
 1.  Check specified path for resultant XLSX file
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -58,68 +57,41 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows or a compatible OS with .NET Framework, .NET Core, Mono or Xamarin Platforms.
+-  Microsoft Windows or a compatible OS with .NET, .NET Core, Mono or Xamarin Platforms..
 -  Development environment like Microsoft Visual Studio.
 -  Aspose.Cells for .NET DLL referenced in your project.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="This sample code shows XLTX to XLSX C# Conversion" offSpacer="" %}}
-
-```cs
-// load the XLTX file in an instance of Workbook
-var book = new Workbook("template.xltx");
-// save XLTX as XLSX
-book.Save("output.xlsx", Aspose.Cells.SaveFormat.Auto); 
-
-```
-
-{{% /blocks/products/pf/agp/code-block %}}
-
 {{< /blocks/products/pf/agp/feature-section >}}
 
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{% cells-convert title="Free App and Sample Code to Convert XLTX to XLSX" formats=pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et InputFormat=xltx outformat=xlsx IsLandingPage=true %}}
  
-
 <!-- aboutfile Starts -->
-
-{{< blocks/products/pf/agp/demobox sectionTitle="Free App to Convert XLTX to XLSX" sectionDescription="Check our live demos for [XLTX to XLSX conversion](https://products.aspose.app/cells/conversion/xltx-to-xlsx) with following benefits." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your XLTX file and hit the \"Convert\" button." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" You will instantly get the download link for resultant XLSX file." >}}
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
  An Excel Spreadsheet Programming Library capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. .NET Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS and more, thus making it a perfect choice to exchange documents in industry-standard formats.
-
-
 
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="XLTX" readMoreLink="https://docs.fileformat.com/spreadsheet/xltx/" >}}
-Files with XLTX extension represent Microsoft Excel Template files that are based on the Office OpenXML file format specifications. It is used to create a standard template file that can be utilized to generate XLSX files that exhibit the same settings as specified in the XLTX file.
-
+        
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="xlsx" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}
-XLSX is well-known format for Microsoft Excel documents that was introduced by Microsoft with the release of Microsoft Office 2007. Based on structure organized according to the Open Packaging Conventions as outlined in Part 2 of the OOXML standard ECMA-376, the new format is a zip package that contains a number of XML files. The underlying structure and files can be examined by simply unzipping the .xlsx file.
+        {{< blocks/products/pf/agp/about-file-text fileFormat="XLSX" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
     {{< /blocks/products/pf/agp/about-file-section >}}
-
-{{< /blocks/products/pf/agp/demobox >}}
 
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert XLTX into many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xltx-to-bmp/" name="XLTX TO BMP" description="Bitmap Image" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xltx-to-csv/" name="XLTX TO CSV" description="Comma Separated Values" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xltx-to-dif/" name="XLTX TO DIF" description="Data Interchange Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xltx-to-emf/" name="XLTX TO EMF" description="Enhanced Metafile Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xltx-to-gif/" name="XLTX TO GIF" description="Graphical Interchange Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xltx-to-html/" name="XLTX TO HTML" description="Hyper Text Markup Language" >}}
@@ -135,8 +107,10 @@ XLSX is well-known format for Microsoft Excel documents that was introduced by M
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xltx-to-xls/" name="XLTX TO XLS" description="Excel Binary Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xltx-to-xlsb/" name="XLTX TO XLSB" description="Binary Excel Workbook File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xltx-to-xlsm/" name="XLTX TO XLSM" description="Spreasheet File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xltx-to-xlsx/" name="XLTX TO XLSX" description="OOXML Excel File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xltx-to-xlt/" name="XLTX TO XLT" description="Microsoft Excel Template" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xltx-to-xltm/" name="XLTX TO XLTM" description="Excel Macro-enabled Template" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xltx-to-xltx/" name="XLTX TO XLTX" description="Office OpenXML Excel Template" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xltx-to-xml/" name="XLTX TO XML" description="Extensible Markup Language" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xltx-to-xps/" name="XLTX TO XPS" description="XML Paper Specifications" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xltx-to-json/" name="XLTX TO JSON" description="JavaScript Object Notation" >}}

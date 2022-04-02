@@ -63,15 +63,9 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="This sample code shows xlsm to spreadsheetml C# Conversion" offSpacer="" %}}
-
-{{< gist "aspose-cells-gists" "88c9872508ec3150c552eb5155edf06e" "Convert-xlsm-to-xml.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% cells-convert title="Free App to Convert XLSM to SPREADSHEETML" formats=pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et InputFormat=xlsm outformat=xml IsLandingPage=true %}}
+{{% cells-convert title="Free App and Sample Code to Convert XLSM to SPREADSHEETML" formats=pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et InputFormat=xlsm outformat=xml IsLandingPage=true %}}
  
 <!-- aboutfile Starts -->
 

@@ -1,8 +1,7 @@
 ---
-title: Convert XLSB to JSON via C# 
-weight: 5830
-url: /net/conversion/xlsb-to-json/ 
-description: Sample code for XLSB to JSON C# conversion. Use API example code for batch XLSB files to JSON conversion within VB.NET, Asp.NET or any .NET based application.
+title: Convert XLSB to JSON via C#
+url: /net/conversion/xlsb-to-json/
+description: Sample code for xlsb to json C# conversion. Use API example code for batch xlsb files to json conversion within VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -43,11 +42,10 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Create instance of Workbook class & load XLSB file
-1.  Get CellsCollection of the Worksheet containing the data
-1.  Create a Range from CellsCollection by specifing row & column indices
-1.  Call JsonUtility.ExportRangeToJson method with references to Range & ExportRangeToJsonOptions objects
-1.  Save the JSON data to file via File.WriteAllText method
+1.  Load XLSB file with an instance of Workbook
+1.  Call the Workbook.Save method
+1.  Pass output path with JSON extension as parameter
+1.  Check specified path for resultant JSON file
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -59,76 +57,41 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows or a compatible OS with .NET Framework, .NET Core, Mono or Xamarin Platforms.
+-  Microsoft Windows or a compatible OS with .NET, .NET Core, Mono or Xamarin Platforms..
 -  Development environment like Microsoft Visual Studio.
 -  Aspose.Cells for .NET DLL referenced in your project.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="This sample code shows XLSB to JSON C# Conversion" offSpacer="" %}}
-
-```cs
-// load XLSB file with an instance of Workbook
-var workbook = new Cells.Workbook("J8CR782.xlsb", new Cells.LoadOptions(Cells.LoadFormat.Auto));
-// access CellsCollection of the worksheet containing data to be converted
-var cells = workbook.Worksheets[0].Cells;
-// create & set ExportRangeToJsonOptions for advanced options
-var exportOptions = new Cells.Utility.ExportRangeToJsonOptions();
-// create a range of cells containing data to be exported
-var range = cells.CreateRange(0, 0, cells.LastCell.Row + 1, cells.LastCell.Column + 1);
-// export range as JSON data
-string jsonData = Cells.Utility.JsonUtility.ExportRangeToJson(range, exportOptions);
-// write data file to disc in JSON format
-System.IO.File.WriteAllText("output.json", jsonData); 
-
-```
-
-{{% /blocks/products/pf/agp/code-block %}}
-
 {{< /blocks/products/pf/agp/feature-section >}}
 
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{% cells-convert title="Free App and Sample Code to Convert XLSB to JSON" formats=pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et InputFormat=xlsb outformat=json IsLandingPage=true %}}
  
-
 <!-- aboutfile Starts -->
-
-{{< blocks/products/pf/agp/demobox sectionTitle="Free App to Convert XLSB to JSON" sectionDescription="Check our live demos for [XLSB to JSON conversion](https://products.aspose.app/cells/conversion/xlsb-to-json) with following benefits." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your XLSB file and hit the \"Convert\" button." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" You will instantly get the download link for resultant JSON file." >}}
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
  An Excel Spreadsheet Programming Library capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. .NET Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS and more, thus making it a perfect choice to exchange documents in industry-standard formats.
-
-
 
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}
-XLSB file format specifies the Excel Binary File Format, which is a collection of records and structures that specify Excel workbook content. The content can include unstructured or semi-structured tables of numbers, text, or both numbers and text, formulas, external data connections, charts and images. Unlike XLSX (which is based on Open XML file format), the XLSB represents binary Excel workbook file. XLSB files can be read and written to faster which makes them useful for working with large files. XLSB is seldom used to store workbooks as XLSX (and previously XLS) are the most common user selected file formats for saving workbooks. It can be opened by Microsoft Office 2007 and above.
-
+        
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="json" readMoreLink="https://docs.fileformat.com/web/json/" >}}
-JSON (JavaScript Object Notation) is an open standard file format for sharing data that uses human-readable text to store and transmit data. JSON files are stored with the .json extension. JSON requires less formatting and is a good alternative for XML. JSON is derived from JavaScript but is a language-independent data format. The generation and parsing of JSON is supported by many modern programming languages. application/json is the media type used for JSON.
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JSON" readMoreLink="https://docs.fileformat.com/spreadsheet/json/" >}}
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
     {{< /blocks/products/pf/agp/about-file-section >}}
-
-{{< /blocks/products/pf/agp/demobox >}}
 
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert XLSB into many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xlsb-to-bmp/" name="XLSB TO BMP" description="Bitmap Image" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xlsb-to-csv/" name="XLSB TO CSV" description="Comma Separated Values" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xlsb-to-dif/" name="XLSB TO DIF" description="Data Interchange Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xlsb-to-emf/" name="XLSB TO EMF" description="Enhanced Metafile Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xlsb-to-gif/" name="XLSB TO GIF" description="Graphical Interchange Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xlsb-to-html/" name="XLSB TO HTML" description="Hyper Text Markup Language" >}}
@@ -142,6 +105,7 @@ JSON (JavaScript Object Notation) is an open standard file format for sharing da
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xlsb-to-tsv/" name="XLSB TO TSV" description="Tab-Separated Values" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xlsb-to-txt/" name="XLSB TO TXT" description="Text Document" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xlsb-to-xls/" name="XLSB TO XLS" description="Excel Binary Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xlsb-to-xlsb/" name="XLSB TO XLSB" description="Binary Excel Workbook File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xlsb-to-xlsm/" name="XLSB TO XLSM" description="Spreasheet File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xlsb-to-xlsx/" name="XLSB TO XLSX" description="OOXML Excel File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xlsb-to-xlt/" name="XLSB TO XLT" description="Microsoft Excel Template" >}}
@@ -149,6 +113,7 @@ JSON (JavaScript Object Notation) is an open standard file format for sharing da
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xlsb-to-xltx/" name="XLSB TO XLTX" description="Office OpenXML Excel Template" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xlsb-to-xml/" name="XLSB TO XML" description="Extensible Markup Language" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xlsb-to-xps/" name="XLSB TO XPS" description="XML Paper Specifications" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xlsb-to-json/" name="XLSB TO JSON" description="JavaScript Object Notation" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

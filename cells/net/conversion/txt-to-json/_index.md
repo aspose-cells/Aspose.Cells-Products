@@ -1,8 +1,7 @@
 ---
-title: Convert TXT to JSON via C# 
-weight: 9730
-url: /net/conversion/txt-to-json/ 
-description: Sample code for TXT to JSON C# conversion. Use API example code for batch TXT files to JSON conversion within VB.NET, Asp.NET or any .NET based application.
+title: Convert TXT to JSON via C#
+url: /net/conversion/txt-to-json/
+description: Sample code for txt to json C# conversion. Use API example code for batch txt files to json conversion within VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -43,11 +42,10 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Create instance of Workbook class & load TXT file
-1.  Get CellsCollection of the Worksheet containing the data
-1.  Create a Range from CellsCollection by specifing row & column indices
-1.  Call JsonUtility.ExportRangeToJson method with references to Range & ExportRangeToJsonOptions objects
-1.  Save the JSON data to file via File.WriteAllText method
+1.  Load TXT file with an instance of Workbook
+1.  Call the Workbook.Save method
+1.  Pass output path with JSON extension as parameter
+1.  Check specified path for resultant JSON file
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -59,76 +57,41 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows or a compatible OS with .NET Framework, .NET Core, Mono or Xamarin Platforms.
+-  Microsoft Windows or a compatible OS with .NET, .NET Core, Mono or Xamarin Platforms..
 -  Development environment like Microsoft Visual Studio.
 -  Aspose.Cells for .NET DLL referenced in your project.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="This sample code shows TXT to JSON C# Conversion" offSpacer="" %}}
-
-```cs
-// load TXT file with an instance of Workbook
-var workbook = new Cells.Workbook("J8CR782.txt", new Cells.LoadOptions(Cells.LoadFormat.Auto));
-// access CellsCollection of the worksheet containing data to be converted
-var cells = workbook.Worksheets[0].Cells;
-// create & set ExportRangeToJsonOptions for advanced options
-var exportOptions = new Cells.Utility.ExportRangeToJsonOptions();
-// create a range of cells containing data to be exported
-var range = cells.CreateRange(0, 0, cells.LastCell.Row + 1, cells.LastCell.Column + 1);
-// export range as JSON data
-string jsonData = Cells.Utility.JsonUtility.ExportRangeToJson(range, exportOptions);
-// write data file to disc in JSON format
-System.IO.File.WriteAllText("output.json", jsonData); 
-
-```
-
-{{% /blocks/products/pf/agp/code-block %}}
-
 {{< /blocks/products/pf/agp/feature-section >}}
 
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{% cells-convert title="Free App and Sample Code to Convert TXT to JSON" formats=pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et InputFormat=txt outformat=json IsLandingPage=true %}}
  
-
 <!-- aboutfile Starts -->
-
-{{< blocks/products/pf/agp/demobox sectionTitle="Free App to Convert TXT to JSON" sectionDescription="Check our live demos for [TXT to JSON conversion](https://products.aspose.app/cells/conversion/txt-to-json) with following benefits." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your TXT file and hit the \"Convert\" button." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" You will instantly get the download link for resultant JSON file." >}}
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
  An Excel Spreadsheet Programming Library capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. .NET Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS and more, thus making it a perfect choice to exchange documents in industry-standard formats.
 
-
-
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TXT" readMoreLink="https://docs.fileformat.com/word-processing/txt/" >}}
-A file with .TXT extension represents a text document that contains plain text in the form of lines. Paragraphs in a text document are recognized by carriage returns and are used for better arrangement of file contents. A standard text document can be opened in any text editor or word processing application on different operating systems. All the text contained in such a file is in human-readable format and represented by sequence of characters.
-
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TXT" readMoreLink="https://docs.fileformat.com/spreadsheet/txt/" >}}
+        
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="json" readMoreLink="https://docs.fileformat.com/web/json/" >}}
-JSON (JavaScript Object Notation) is an open standard file format for sharing data that uses human-readable text to store and transmit data. JSON files are stored with the .json extension. JSON requires less formatting and is a good alternative for XML. JSON is derived from JavaScript but is a language-independent data format. The generation and parsing of JSON is supported by many modern programming languages. application/json is the media type used for JSON.
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JSON" readMoreLink="https://docs.fileformat.com/spreadsheet/json/" >}}
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
     {{< /blocks/products/pf/agp/about-file-section >}}
-
-{{< /blocks/products/pf/agp/demobox >}}
 
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert TXT into many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/txt-to-bmp/" name="TXT TO BMP" description="Bitmap Image" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/txt-to-csv/" name="TXT TO CSV" description="Comma Separated Values" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/txt-to-dif/" name="TXT TO DIF" description="Data Interchange Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/txt-to-emf/" name="TXT TO EMF" description="Enhanced Metafile Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/txt-to-gif/" name="TXT TO GIF" description="Graphical Interchange Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/txt-to-html/" name="TXT TO HTML" description="Hyper Text Markup Language" >}}
@@ -140,6 +103,7 @@ JSON (JavaScript Object Notation) is an open standard file format for sharing da
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/txt-to-svg/" name="TXT TO SVG" description="Scalable Vector Graphics" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/txt-to-tiff/" name="TXT TO TIFF" description="Tagged Image Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/txt-to-tsv/" name="TXT TO TSV" description="Tab-Separated Values" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/txt-to-txt/" name="TXT TO TXT" description="Text Document" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/txt-to-xls/" name="TXT TO XLS" description="Excel Binary Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/txt-to-xlsb/" name="TXT TO XLSB" description="Binary Excel Workbook File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/txt-to-xlsm/" name="TXT TO XLSM" description="Spreasheet File" >}}
@@ -149,6 +113,7 @@ JSON (JavaScript Object Notation) is an open standard file format for sharing da
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/txt-to-xltx/" name="TXT TO XLTX" description="Office OpenXML Excel Template" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/txt-to-xml/" name="TXT TO XML" description="Extensible Markup Language" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/txt-to-xps/" name="TXT TO XPS" description="XML Paper Specifications" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/txt-to-json/" name="TXT TO JSON" description="JavaScript Object Notation" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

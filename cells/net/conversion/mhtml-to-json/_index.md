@@ -1,8 +1,7 @@
 ---
-title: Convert MHTML to JSON via C# 
-weight: 6010
-url: /net/conversion/mhtml-to-json/ 
-description: Sample code for MHTML to JSON C# conversion. Use API example code for batch MHTML files to JSON conversion within VB.NET, Asp.NET or any .NET based application.
+title: Convert MHTML to JSON via C#
+url: /net/conversion/mhtml-to-json/
+description: Sample code for mhtml to json C# conversion. Use API example code for batch mhtml files to json conversion within VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -43,11 +42,10 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Create instance of Workbook class & load MHTML file
-1.  Get CellsCollection of the Worksheet containing the data
-1.  Create a Range from CellsCollection by specifing row & column indices
-1.  Call JsonUtility.ExportRangeToJson method with references to Range & ExportRangeToJsonOptions objects
-1.  Save the JSON data to file via File.WriteAllText method
+1.  Load MHTML file with an instance of Workbook
+1.  Call the Workbook.Save method
+1.  Pass output path with JSON extension as parameter
+1.  Check specified path for resultant JSON file
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -59,80 +57,46 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows or a compatible OS with .NET Framework, .NET Core, Mono or Xamarin Platforms.
+-  Microsoft Windows or a compatible OS with .NET, .NET Core, Mono or Xamarin Platforms..
 -  Development environment like Microsoft Visual Studio.
 -  Aspose.Cells for .NET DLL referenced in your project.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="This sample code shows MHTML to JSON C# Conversion" offSpacer="" %}}
-
-```cs
-// load MHTML file with an instance of Workbook
-var workbook = new Cells.Workbook("J8CR782.mhtml", new Cells.LoadOptions(Cells.LoadFormat.Auto));
-// access CellsCollection of the worksheet containing data to be converted
-var cells = workbook.Worksheets[0].Cells;
-// create & set ExportRangeToJsonOptions for advanced options
-var exportOptions = new Cells.Utility.ExportRangeToJsonOptions();
-// create a range of cells containing data to be exported
-var range = cells.CreateRange(0, 0, cells.LastCell.Row + 1, cells.LastCell.Column + 1);
-// export range as JSON data
-string jsonData = Cells.Utility.JsonUtility.ExportRangeToJson(range, exportOptions);
-// write data file to disc in JSON format
-System.IO.File.WriteAllText("output.json", jsonData); 
-
-```
-
-{{% /blocks/products/pf/agp/code-block %}}
-
 {{< /blocks/products/pf/agp/feature-section >}}
 
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{% cells-convert title="Free App and Sample Code to Convert MHTML to JSON" formats=pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et InputFormat=mhtml outformat=json IsLandingPage=true %}}
  
-
 <!-- aboutfile Starts -->
-
-{{< blocks/products/pf/agp/demobox sectionTitle="Free App to Convert MHTML to JSON" sectionDescription="Check our live demos for [MHTML to JSON conversion](https://products.aspose.app/cells/conversion/mhtml-to-json) with following benefits." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your MHTML file and hit the \"Convert\" button." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" You will instantly get the download link for resultant JSON file." >}}
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
  An Excel Spreadsheet Programming Library capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. .NET Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS and more, thus making it a perfect choice to exchange documents in industry-standard formats.
 
-
-
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="MHTML" readMoreLink="https://docs.fileformat.com/web/mhtml/" >}}
-Files with MHTML extension represent a web page archive format that can be created by a number of different applications. The format is known as archive format because it saves the web HTML code and associated resources in a single file. These resources include anything linked to the webpage such as images, applets, animations, audio files and so on. MHTML files can be opened in a variety of applications such as Internet Explorer and Microsoft Word. Microsoft Windows uses MHTML file format for recording scenarios of problems observed during the usage of any application on Windows that raises issues. The MHTML file format encodes the page contents similar to specifications defined in message/rfc822 which is plain text email related specifications. The actual specifications of the format are as detailed by RFC 2557.
-
+        {{< blocks/products/pf/agp/about-file-text fileFormat="MHTML" readMoreLink="https://docs.fileformat.com/spreadsheet/mhtml/" >}}
+        
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="json" readMoreLink="https://docs.fileformat.com/web/json/" >}}
-JSON (JavaScript Object Notation) is an open standard file format for sharing data that uses human-readable text to store and transmit data. JSON files are stored with the .json extension. JSON requires less formatting and is a good alternative for XML. JSON is derived from JavaScript but is a language-independent data format. The generation and parsing of JSON is supported by many modern programming languages. application/json is the media type used for JSON.
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JSON" readMoreLink="https://docs.fileformat.com/spreadsheet/json/" >}}
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
     {{< /blocks/products/pf/agp/about-file-section >}}
-
-{{< /blocks/products/pf/agp/demobox >}}
 
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert MHTML into many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/mhtml-to-bmp/" name="MHTML TO BMP" description="Bitmap Image" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/mhtml-to-csv/" name="MHTML TO CSV" description="Comma Separated Values" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/mhtml-to-dif/" name="MHTML TO DIF" description="Data Interchange Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/mhtml-to-emf/" name="MHTML TO EMF" description="Enhanced Metafile Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/mhtml-to-gif/" name="MHTML TO GIF" description="Graphical Interchange Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/mhtml-to-html/" name="MHTML TO HTML" description="Hyper Text Markup Language" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/mhtml-to-md/" name="MHTML TO MD" description="Markdown Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/mhtml-to-mhtml/" name="MHTML TO MHTML" description="Web Page Archive Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/mhtml-to-ods/" name="MHTML TO ODS" description="OpenDocument Spreadsheet File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/mhtml-to-pdf/" name="MHTML TO PDF" description="Portable Document Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/mhtml-to-png/" name="MHTML TO PNG" description="Portable Network Graphics" >}}
@@ -149,6 +113,7 @@ JSON (JavaScript Object Notation) is an open standard file format for sharing da
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/mhtml-to-xltx/" name="MHTML TO XLTX" description="Office OpenXML Excel Template" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/mhtml-to-xml/" name="MHTML TO XML" description="Extensible Markup Language" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/mhtml-to-xps/" name="MHTML TO XPS" description="XML Paper Specifications" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/mhtml-to-json/" name="MHTML TO JSON" description="JavaScript Object Notation" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

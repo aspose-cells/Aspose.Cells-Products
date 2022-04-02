@@ -63,15 +63,9 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="This sample code shows ods to jpeg C# Conversion" offSpacer="" %}}
-
-{{< gist "aspose-cells-gists" "88c9872508ec3150c552eb5155edf06e" "Convert-ods-to-jpg.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% cells-convert title="Free App to Convert ODS to JPEG" formats=pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et InputFormat=ods outformat=jpg IsLandingPage=true %}}
+{{% cells-convert title="Free App and Sample Code to Convert ODS to JPEG" formats=pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et InputFormat=ods outformat=jpg IsLandingPage=true %}}
  
 <!-- aboutfile Starts -->
 

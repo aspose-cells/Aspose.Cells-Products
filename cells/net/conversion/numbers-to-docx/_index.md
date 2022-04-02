@@ -63,15 +63,9 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="This sample code shows numbers to docx C# Conversion" offSpacer="" %}}
-
-{{< gist "aspose-cells-gists" "88c9872508ec3150c552eb5155edf06e" "Convert-numbers-to-docx.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% cells-convert title="Free App to Convert NUMBERS to DOCX" formats=pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et InputFormat=numbers outformat=docx IsLandingPage=true %}}
+{{% cells-convert title="Free App and Sample Code to Convert NUMBERS to DOCX" formats=pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et InputFormat=numbers outformat=docx IsLandingPage=true %}}
  
 <!-- aboutfile Starts -->
 

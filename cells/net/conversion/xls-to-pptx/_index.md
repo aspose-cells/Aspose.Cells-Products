@@ -81,7 +81,7 @@ PM> Install-Package Aspose.Cells
         
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PPTX" readMoreLink="https://docs.fileformat.com/spreadsheet/pptx/" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PPTX" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 

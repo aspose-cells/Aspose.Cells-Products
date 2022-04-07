@@ -12,8 +12,7 @@ description: C# Sample code for adding a line in chart to Excel using .NET Libra
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
-Adding a line in chart dynamically within running application is easy. In order to create variety of charts to spreadsheets from scratch without requiring MS Office, we’ll use
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net)  API that offers different features for spreadsheets creation, manipulation and conversion using .NET platform. Aspose.Cells provides many flexible chart objects.
+Adding a line in chart dynamically within running application is easy. In order to create variety of charts to spreadsheets from scratch without requiring MS Office, we’ll use [Aspose.Cells for .NET](https://products.aspose.com/cells/net)  API that offers different features for spreadsheets creation, manipulation and conversion using .NET platform. Aspose.Cells provides many flexible chart objects.
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

@@ -86,8 +86,6 @@ wkb.Save("created_one.csv");
 
  An Excel Spreadsheet Programming Library capable of building cross-platform applications with the ability to generate, modify, convert, render and print CSV files. .NET Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS and more, thus making it a perfect choice to exchange documents in industry-standard formats.
 
-
-
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}

@@ -12,7 +12,7 @@ description: Sample code for html to xltx Python conversion. Use API example cod
 
 {{% blocks/products/pf/agp/content h2="How to Convert HTML to XLTX Using Python" %}}
 
- In order to convert HTML to XLTX, we’ll use
+ In order to convert HTML to XLTX, we will use
  [Aspose.Cells for Python](https://pypi.org/project/aspose-cells) 
  API which is a feature-rich, powerful and easy to use document manipulation and conversion API for Python platform. 
 {{% /blocks/products/pf/agp/content %}}
@@ -47,35 +47,21 @@ description: Sample code for html to xltx Python conversion. Use API example cod
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="This sample code shows html to xltx Python Conversion" offSpacer="" %}}
-
-{{< gist "aspose-cells-gists" "32e50c6aabc547111966569f3fd39694" "Convert-html-to-xltx.py" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{% cells-convert title="Free App and Sample Code to Convert HTML to XLTX" formats=pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et InputFormat=html outformat=xltx IsLandingPage=true language=python %}}
  
 <!-- aboutfile Starts -->
-
-{{< blocks/products/pf/agp/demobox sectionTitle="Free App to Convert HTML to XLTX" sectionDescription="Check our live demos for [HTML to XLTX conversion](https://products.aspose.app/cells/conversion/html-to-xltx) with following benefits." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your HTML file and hit the \"Convert\" button." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" You will instantly get the download link for resultant XLTX file." >}}
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
  An Excel Spreadsheet Programming Library capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. Python Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS and more, thus making it a perfect choice to exchange documents in industry-standard formats.
 
-
-
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/spreadsheet/html/" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" >}}
         
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -84,8 +70,6 @@ description: Sample code for html to xltx Python conversion. Use API example cod
         {{< /blocks/products/pf/agp/about-file-text >}}
 
     {{< /blocks/products/pf/agp/about-file-section >}}
-
-{{< /blocks/products/pf/agp/demobox >}}
 
 <!-- aboutfile Ends -->
 

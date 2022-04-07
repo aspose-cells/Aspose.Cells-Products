@@ -12,7 +12,7 @@ description: Sample code for xltm to xml Python conversion. Use API example code
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLTM to XML Using Python" %}}
 
- In order to convert XLTM to XML, we’ll use
+ In order to convert XLTM to XML, we will use
  [Aspose.Cells for Python](https://pypi.org/project/aspose-cells) 
  API which is a feature-rich, powerful and easy to use document manipulation and conversion API for Python platform. 
 {{% /blocks/products/pf/agp/content %}}
@@ -47,29 +47,15 @@ description: Sample code for xltm to xml Python conversion. Use API example code
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="This sample code shows xltm to xml Python Conversion" offSpacer="" %}}
-
-{{< gist "aspose-cells-gists" "32e50c6aabc547111966569f3fd39694" "Convert-xltm-to-xml.py" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{% cells-convert title="Free App and Sample Code to Convert XLTM to XML" formats=pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et InputFormat=xltm outformat=xml IsLandingPage=true language=python %}}
  
 <!-- aboutfile Starts -->
-
-{{< blocks/products/pf/agp/demobox sectionTitle="Free App to Convert XLTM to XML" sectionDescription="Check our live demos for [XLTM to XML conversion](https://products.aspose.app/cells/conversion/xltm-to-xml) with following benefits." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your XLTM file and hit the \"Convert\" button." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" You will instantly get the download link for resultant XML file." >}}
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
  An Excel Spreadsheet Programming Library capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. Python Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS and more, thus making it a perfect choice to exchange documents in industry-standard formats.
-
-
 
     {{% /blocks/products/pf/agp/content %}}
 
@@ -79,13 +65,11 @@ description: Sample code for xltm to xml Python conversion. Use API example code
         
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="XML" readMoreLink="https://docs.fileformat.com/spreadsheet/xml/" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="XML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
     {{< /blocks/products/pf/agp/about-file-section >}}
-
-{{< /blocks/products/pf/agp/demobox >}}
 
 <!-- aboutfile Ends -->
 

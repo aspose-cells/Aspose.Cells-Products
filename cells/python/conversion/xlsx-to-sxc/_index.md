@@ -12,7 +12,7 @@ description: Sample code for xlsx to sxc Python conversion. Use API example code
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSX to SXC Using Python" %}}
 
- In order to convert XLSX to SXC, we’ll use
+ In order to convert XLSX to SXC, we will use
  [Aspose.Cells for Python](https://pypi.org/project/aspose-cells) 
  API which is a feature-rich, powerful and easy to use document manipulation and conversion API for Python platform. 
 {{% /blocks/products/pf/agp/content %}}
@@ -47,29 +47,15 @@ description: Sample code for xlsx to sxc Python conversion. Use API example code
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="This sample code shows xlsx to sxc Python Conversion" offSpacer="" %}}
-
-{{< gist "aspose-cells-gists" "32e50c6aabc547111966569f3fd39694" "Convert-xlsx-to-sxc.py" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{% cells-convert title="Free App and Sample Code to Convert XLSX to SXC" formats=pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et InputFormat=xlsx outformat=sxc IsLandingPage=true language=python %}}
  
 <!-- aboutfile Starts -->
-
-{{< blocks/products/pf/agp/demobox sectionTitle="Free App to Convert XLSX to SXC" sectionDescription="Check our live demos for [XLSX to SXC conversion](https://products.aspose.app/cells/conversion/xlsx-to-sxc) with following benefits." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your XLSX file and hit the \"Convert\" button." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" You will instantly get the download link for resultant SXC file." >}}
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
  An Excel Spreadsheet Programming Library capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. Python Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS and more, thus making it a perfect choice to exchange documents in industry-standard formats.
-
-
 
     {{% /blocks/products/pf/agp/content %}}
 
@@ -84,8 +70,6 @@ description: Sample code for xlsx to sxc Python conversion. Use API example code
         {{< /blocks/products/pf/agp/about-file-text >}}
 
     {{< /blocks/products/pf/agp/about-file-section >}}
-
-{{< /blocks/products/pf/agp/demobox >}}
 
 <!-- aboutfile Ends -->
 

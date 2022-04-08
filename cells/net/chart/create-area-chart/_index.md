@@ -30,7 +30,8 @@ It is easy for the developers to create an Area chart within running different r
 1. Add some data to worksheet cells with the [**Cell**](https://apireference.aspose.com/cells/net/aspose.cells/cell) object's [**PutValue**](https://apireference.aspose.com/cells/net/aspose.cells/cell/methods/putvalue/index) method.
 1. Add an [**Area**](https://apireference.aspose.com/cells/net/aspose.cells.charts/charttype) Chart to the worksheet by calling the [**Charts**](https://apireference.aspose.com/cells/net/aspose.cells.charts/chartcollection) collection's [**Add**](https://apireference.aspose.com/cells/net/aspose.cells.charts/chartcollection/methods/add) method, encapsulated in the [**Worksheet**](https://apireference.aspose.com/cells/net/aspose.cells/worksheet) object.
 1. Access the new [**Chart**](https://apireference.aspose.com/cells/net/aspose.cells.charts/chart) object from the Charts collection by passing its index.
-1. Set the chart's data source with [**Chart.SetChartDataRange**](https://https://apireference.aspose.com/cells/net/aspose.cells.charts/chart/methods/setchartdatarange) method.1. Save as Excel or ODS files.
+1. Set the chart's data source with [**Chart.SetChartDataRange**](https://https://apireference.aspose.com/cells/net/aspose.cells.charts/chart/methods/setchartdatarange) method.
+1. Save as Excel or ODS files.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="System Requirements" %}}

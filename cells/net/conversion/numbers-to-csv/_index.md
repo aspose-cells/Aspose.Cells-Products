@@ -12,7 +12,7 @@ description: Sample code for numbers to csv C# conversion. Use API example code 
 
 {{% blocks/products/pf/agp/content h2="How to Convert NUMBERS to CSV Using C#" %}}
 
- In order to convert NUMBERS to CSV, we’ll use
+ In order to convert NUMBERS to CSV, we will use
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
  API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C# platform. Open
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
@@ -65,24 +65,24 @@ PM> Install-Package Aspose.Cells
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% cells-convert title="Free App and Sample Code to Convert NUMBERS to CSV" formats=pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et InputFormat=numbers outformat=csv IsLandingPage=true %}}
+{{% cells-convert title="Free App and Sample Code to Convert NUMBERS to CSV" formats=pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;dif;emf;fods;gif;sxc;xlam;xltm;xltx InputFormat=numbers outformat=csv IsLandingPage=true %}}
  
 <!-- aboutfile Starts -->
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- An Excel Spreadsheet Programming Library capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. .NET Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS and more, thus making it a perfect choice to exchange documents in industry-standard formats.
+ An Excel Spreadsheet Programming Library capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. .NET Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT and more, thus making it a perfect choice to exchange documents in industry-standard formats.
 
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}
-        
+The files with .numbers extension are classified as spreadsheet file type, that's why they are similar to the .xlsx files; but the Numbers files are created by using Apple iWork Numbers spreadsheet software. The Apple iWork Numbers is a unit software of the iWork Productivity Suite. The iWork Productivity Suite is equivalent to the Microsoft Office Suite that is used on Windows PCs. Hence, we can say the Numbers which is available for MacOS is also a competitor of Microsoft Excel. Likewise, Microsoft Excel, the NUMBERS file may also contain the tables, charts and formulas. 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="CSV" readMoreLink="https://docs.fileformat.com/spreadsheet/csv/" >}}
-
+Files with .csv (Comma Separated Values) extension represent plain text files that contain records of data with comma separated values. Each line in a CSV file is a new record from the set of records contained in the file. Such files are generated when data transfer is intended from one storage system to another. Since all applications can recognize records separated by comma, import of such data files to database is done very conveniently. Almost all spreadsheet applications such as Microsoft Excel or OpenOffice Calc can import CSV without much effort. Data imported from such files is arranged in cells of a spreadsheet for representation to user.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
     {{< /blocks/products/pf/agp/about-file-section >}}

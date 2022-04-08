@@ -12,7 +12,7 @@ description: Sample code for spreadsheetml to jpeg C# conversion. Use API exampl
 
 {{% blocks/products/pf/agp/content h2="How to Convert SPREADSHEETML to JPEG Using C#" %}}
 
- In order to convert SPREADSHEETML to JPEG, we’ll use
+ In order to convert SPREADSHEETML to JPEG, we will use
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
  API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C# platform. Open
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
@@ -65,24 +65,24 @@ PM> Install-Package Aspose.Cells
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% cells-convert title="Free App and Sample Code to Convert SPREADSHEETML to JPEG" formats=pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et InputFormat=xml outformat=jpg IsLandingPage=true %}}
+{{% cells-convert title="Free App and Sample Code to Convert SPREADSHEETML to JPEG" formats=pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;dif;emf;fods;gif;sxc;xlam;xltm;xltx InputFormat=xml outformat=jpg IsLandingPage=true %}}
  
 <!-- aboutfile Starts -->
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- An Excel Spreadsheet Programming Library capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. .NET Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS and more, thus making it a perfect choice to exchange documents in industry-standard formats.
+ An Excel Spreadsheet Programming Library capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. .NET Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT and more, thus making it a perfect choice to exchange documents in industry-standard formats.
 
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="SPREADSHEETML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}
-        
+XML stands for Extensible Markup Language that is similar to HTML but different in using tags for defining objects. The whole idea behind creation of XML file format was to store and transport data without being dependent on software or hardware tools. Its popularity is due to it being both human as well as machine readable. This enables it to create common data protocols in the form of objects to be stored and shared over network such as World Wide Web (WWW). The "X" in XML is for extensible which implies that the language can be extended to any number of symbols as per user requirements. It is for these features that many standard file formats make use of it such as Microsoft Open XML, LibreOffice OpenDocument, XHTML and SVG.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpg/" >}}
-
+A JPEG is a type of image format that is saved using the method of lossy compression. The output image, as result of compression, is a trade-off between storage size and image quality. Users can adjust the compression level to achieve the desired quality level while at the same time reduce the storage size. Image quality is negligibly affected if 10:1 compression is applied to the image.  The higher the compression value, the higher the degradation in image quality.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
     {{< /blocks/products/pf/agp/about-file-section >}}

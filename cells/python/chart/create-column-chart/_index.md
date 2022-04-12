@@ -44,7 +44,7 @@ It is easy for the developers to create a Column chart within running different 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/code-block title="Following source code shows how to create a Column Chart to MS Excel XLSX file using Python." offSpacer="" %}}
 
-{{< gist "aspose-cells-gists" "32e50c6aabc547111966569f3fd39694" "Examples-Charts-CreateColumnChart.cs" >}}
+{{< gist "aspose-cells-gists" "32e50c6aabc547111966569f3fd39694" "Examples-Charts-CreateColumnChart.py" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

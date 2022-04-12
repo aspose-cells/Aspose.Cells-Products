@@ -44,7 +44,7 @@ It is easy for the developers to create a Line chart within running different re
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/code-block title="Following source code shows how to create a Line Chart to MS Excel XLSX file using Python." offSpacer="" %}}
 
-{{< gist "aspose-cells-gists" "32e50c6aabc547111966569f3fd39694" "Examples-Charts-CreateLineChart.cs" >}}
+{{< gist "aspose-cells-gists" "32e50c6aabc547111966569f3fd39694" "Examples-Charts-CreateLineChart.py" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

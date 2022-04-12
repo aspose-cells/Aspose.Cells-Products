@@ -31,7 +31,7 @@ It is easy for the developers to create a Bubble3D chart within running differen
 1. Add a Bubble3D chart to the worksheet
 1. Access the new chart object from the Charts collection by passing its index.
 1. Set the chart's data source with Chart.setChartDataRange method.
-1. Save as Excel or ODS files.
+1. Save as Excel files.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="System Requirements" %}}

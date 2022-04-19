@@ -1,0 +1,476 @@
+﻿---
+title: Ekspor Laporan RDL ke Excel XLS XLSX dan SpreadsheetML di SQL Server 
+weight: 3460
+url: /id/reporting-services/ 
+description: Ekstensi rendering Layanan Pelaporan SQL Server - Ekspor Excel XLS XLSX XLSM XLSB CSV SpreadsheetML HTML ODS dan format TXT
+---
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Ekstensi Layanan Pelaporan untuk Mengirimkan Laporan sebagai File Excel" h2="Ekspor laporan RDL & RDLC ke format file spreadsheet Excel dengan mudah." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-reporting-services.svg" pfName="Aspose.Cells" subTitlepfName="for Reporting Services" downloadUrl="https://downloads.aspose.com/cells/reportingservices" >}}
+
+{{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Reporting Services" >}}
+
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-reporting-services.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/reporting-services" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cells/reportingservices/release-notes/" installationsDocsLink="" nugetLink="" nugetPackageName="Microsoft Excel:" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/cells/reportingservices" >}}
+
+{{< blocks/products/pf/i18n/tab-content >}}
+<p>
+ Aspose.Cells untuk Layanan Pelaporan memungkinkan Anda mengirimkan laporan Excel dari dalam Layanan Pelaporan Microsoft SQL Server dan Microsoft Report Viewer. Tidak seperti eksportir asli untuk laporan berbasis Excel - Aspose.Cells untuk Layanan Pelaporan memungkinkan konversi RDL &amp; RDLC melaporkan ke sejumlah format file spreadsheet Excel.
+</p>
+
+{{< /blocks/products/pf/i18n/tab-content >}}
+
+<!--Diagrams Start-->
+{{< blocks/products/pf/i18n/carousel >}}
+
+{{< blocks/products/pf/carousel-item h3="Sekilas" description="Ikhtisar Aspose.Cells untuk Layanan Pelaporan." >}}
+<div class="diagram1 d1-rs">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-file-image-o">
+    </i>
+    Dukungan RDL
+   </header>
+   <ul>
+    <li>
+     Halaman
+    </li>
+    <li>
+     Bagian atas dan bagian bawah
+    </li>
+    <li>
+     Kotak Teks
+    </li>
+    <li>
+     Gambar-gambar
+    </li>
+    <li>
+     Sub-laporan
+    </li>
+    <li>
+     grafik
+    </li>
+    <li>
+     Daftar
+    </li>
+    <li>
+     Tabel
+    </li>
+    <li>
+     Mengukur
+    </li>
+    <li>
+     Matriks
+    </li>
+    <li>
+     Persegi Panjang/Garis
+    </li>
+    <li>
+     Gaya
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-cogs">
+    </i>
+    Pengolahan data
+   </header>
+   <ul>
+    <li>
+     Rumus Layanan Laporan
+    </li>
+    <li>
+     Rumus Dinamis
+    </li>
+    <li>
+     Tabel dengan Baris yang Dikelompokkan
+    </li>
+    <li>
+     Tabel dengan Footer yang Dikelompokkan
+    </li>
+    <li>
+     Pertanyaan MS
+    </li>
+    <li>
+     Laporkan Sumber Data Spesifik
+    </li>
+    <li>
+     Sumber Data Bersama
+    </li>
+    <li>
+     Enkripsi
+    </li>
+   </ul>
+   <header>
+    <i class="fa fa-table">
+    </i>
+    Desainer Laporan
+   </header>
+   <ul>
+    <li>
+     Tabel pivot
+    </li>
+    <li>
+     Grafik Interaktif
+    </li>
+    <li>
+     Rumus
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img width="70" height="75" alt="RDL to Excel Exporter" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-reporting-services.svg"/>
+  <header>
+   Aspose.Cells
+  </header>
+  <footer>
+   <small>
+    <em>
+     untuk
+    </em>
+    Layanan Pelaporan
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Platform Kemerdekaan" description="Aspose.Cells untuk Layanan Pelaporan mendukung Layanan Pelaporan Microsoft SQL Server." >}}
+<div class="diagram1 d1-rs">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header style="padding-left: 0px;">
+    <i class="fa fa-cubes">
+    </i>
+    Layanan Pelaporan SQL Server
+   </header>
+   <ul>
+    <li>
+     2005
+    </li>
+    <li>
+     2008 dan 2008 R2
+    </li>
+    <li>
+     2012
+    </li>
+    <li>
+     2014
+    </li>
+    <li>
+     2016
+    </li>
+    <!--<li>2017</li>-->
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img width="70" height="75" alt="Export Reports to Excel Formats" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-reporting-services.svg"/>
+  <header>
+   Aspose.Cells
+  </header>
+  <footer>
+   <small>
+    <em>
+     untuk
+    </em>
+    Layanan Pelaporan
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Format File yang Didukung" description="Aspose.Cells untuk Layanan Pelaporan mendukung spreadsheet yang umum digunakan [format file](https://docs.aspose.com/cells/reportingservices/supported-file-formats/)." >}}
+<div class="diagram1 d2 d1-rs">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-long-arrow-down">
+    </i>
+    Masukan Saja
+   </header>
+   <ul>
+    <li>
+     RDL
+    </li>
+    <li>
+     RDLC
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-mail-forward">
+    </i>
+    Keluaran Saja
+   </header>
+   <ul>
+    <li>
+     <b>
+      Microsoft Excel:
+     </b>
+     XLS, XLSX, XLSM, XLSB, XML
+    </li>
+    <li>
+     <b>
+      Kantor terbuka:
+     </b>
+     ODS
+    </li>
+    <li>
+     <b>
+      Web:
+     </b>
+     HTML
+    </li>
+    <li>
+     <b>
+      Teks:
+     </b>
+     File teks CSV, TSV, TabDelimited
+    </li>
+    <li>
+     <strong>
+      Tata Letak Tetap:
+     </strong>
+     XPS
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img width="70" height="75" alt="Excel Exporter for Reporting Services" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-reporting-services.svg"/>
+  <header>
+   Aspose.Cells
+  </header>
+  <footer>
+   <small>
+    <em>
+     untuk
+    </em>
+    Layanan Pelaporan
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< /blocks/products/pf/i18n/carousel >}}
+<!--Diagrams End-->
+
+<!--Feature-section Start-->
+<div class="container-fluid features-section bg-gray singleproduct">
+ <a class="anchor" id="features" name="features">
+ </a>
+ <div class="row">
+  <div class="container">
+   <h2 class="pr-ft">
+    Fitur Layanan Pelaporan Tingkat Lanjut
+   </h2>
+   <p>
+   </p>
+   <div class="col-lg-4">
+    <em class="fa fa-share ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Ekspor file format MarkDown
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-file ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Dukung Istirahat Halaman Grup Tablix
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-plus ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Hasilkan Banyak Tab
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-expand ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Perkecil atau perluas bidang Tabel Pivot
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-minus ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Dukungan melakukan perhitungan Minus
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-print ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Aktifkan format pencetakan MS Excel
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-line-chart ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Grafik MS Excel 2016 didukung
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-terminal ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Sesuaikan pengaturan margin Halaman di Lembar Excel
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Aspose.Cells' Alat Desainer Laporan
+    </h2>
+    <p>
+     Pengembang dapat merancang dan mengirimkan laporan langsung dari Microsoft Excel saat menggunakan Aspose.Cells.Report.Designer - alat perancangan sederhana yang menggunakan Microsoft Excel sebagai template laporan. Fitur ini memungkinkan pemanfaatan semua fungsionalitas dan fitur canggih yang tersedia dalam aplikasi Microsoft Excel termasuk Tabel Pivot, Bagan interaktif, rumus, dan sebagainya.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Ekspor Laporan ke Format Spreadsheet
+    </h2>
+    <p>
+     Aspose.Cells untuk Layanan Pelaporan mendukung semua format file Microsoft Excel (97 - 2016) yang populer, termasuk format Microsoft Excel “asli” seperti XLS, XLSX, XLSM, SpreadsheetML, CSV, Tab Delimited, dan HTML. Aspose.Cells untuk Layanan Pelaporan juga mendukung format file ODS (OpenDocument Spreadsheet).
+    </p>
+    <p>
+     Selain itu, Aspose.Cells untuk Reporting Services mengekspor dokumen Excel sebagai spreadsheet yang dapat diedit sepenuhnya, yaitu; pengguna akhir dapat mengedit spreadsheet yang dihasilkan secara manual dalam aplikasi Microsoft Excel jika diperlukan.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Kesetiaan Tinggi - Identik dengan Desain Laporan
+    </h2>
+    <p>
+     Aspose.Cells untuk Reporting Services mengekspor laporan ke spreadsheet Microsoft Excel dengan cara yang hasilnya tampak identik dengan yang asli seperti yang dihasilkan oleh desainer laporan Reporting Services bawaan. Semua fitur laporan dikonversi ke tingkat presisi tertinggi untuk membuat spreadsheet Microsoft Excel terlihat semirip mungkin dengan aslinya.
+    </p>
+   </div>
+   <!--
+
+<div class="col-lg-12">
+
+<h2 class="h2title">Manipulate Worksheet Rows And Columns</h2>
+
+<p>With Aspose.Cells for Reporting Services - easily adjust row height and column width as required. You can also auto size the width and height of cells according to contents, insert or delete, hide or show, and group or ungroup rows and columns.</p>
+
+</div>
+
+-->
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Berbagai Opsi Penanganan Data
+    </h2>
+    <p>
+     Aspose.Cells untuk Layanan Pelaporan mendukung tabel dengan baris dan footer yang dikelompokkan sedangkan pengelompokan dapat disiapkan pada waktu desain seperti item laporan lainnya. Aspose.Cells untuk Layanan Pelaporan juga mendukung parameter dan variabel global sebagai sumber data laporan. Pengembang juga dapat menggunakan Microsoft Query untuk membuat sumber data dan kueri; ini adalah alat yang banyak digunakan dan akrab bagi sebagian besar pengguna.
+    </p>
+    <p>
+     Selain itu, Aspose.Cells untuk Layanan Pelaporan mendukung laporan sumber data tertentu dan sumber data bersama yang dibuat di Server Laporan sebelumnya. Pengembang dapat menggunakan sumber data spesifik laporan pada waktu desain dan menentukan sumber data bersama sebagai sumber data laporan saat memublikasikan laporan.
+    </p>
+   </div>
+   <!-- 
+
+<div class="col-lg-12">
+
+<h2 class="h2title">Comprehensive Excel Worksheet Formatting Support</h2>
+
+<p>Using Aspose.Cells for Reporting Services - apply formatting to a worksheet, row, column or cell. You can also add rich text to a single cell and apply different borders, background patterns and fonts. Conditional formatting can also be applied to cells.</p>
+
+</div>
+
+<div class="col-lg-12">
+
+<h2 class="h2title">Creating Charts And Converting To Images</h2>
+
+<p>Aspose.Cells for Reporting Services comes with complete support for charting and supports all standard chart types. You can easily add customized charts using the products API and dynamically set data for the charts. Aspose.Cells for Reporting Services also allows you to convert charts to images.</p>
+
+</div>
+
+<div class="col-lg-12">
+
+<h2 class="h2title">Convert Worksheets to Images And Vice Versa</h2>
+
+<p>Aspose.Cells for Reporting Services provides extensive graphical capabilities - allowing you to easily convert worksheets to images as well as add images to worksheets at runtime.</p>
+
+</div>
+
+-->
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Otomatisasi Microsoft Office – Tidak Diperlukan
+    </h2>
+    <p>
+     Aspose.Cells untuk Layanan Pelaporan dibuat menggunakan kode terkelola yang tidak pernah memerlukan Microsoft Office atau Microsoft Excel untuk diinstal pada mesin untuk bekerja dengan format dokumen Excel. Ini adalah alternatif otomatisasi Microsoft Excel yang sempurna dalam hal fitur yang didukung, keamanan, stabilitas, skalabilitas, kecepatan, dan harga.
+    </p>
+   </div>
+  </div>
+ </div>
+</div>
+<!--Feature-section End-->
+
+{{< /blocks/products/pf/main-container >}}
+
+
+{{< blocks/products/pf/i18n/support-learning-resources >}}
+{{< blocks/products/pf/slr-tab tabTitle="Sumber Belajar" tabId="resources" >}}
+{{< blocks/products/pf/slr-element name="Dokumentasi" href="https://docs.aspose.com/cells/reportingservices/" >}}
+{{< blocks/products/pf/slr-element name="Kode sumber" href="https://github.com/aspose-cells?tab=repositories" >}}
+{{< blocks/products/pf/slr-element name="API Referensi" href="https://apireference.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="Video Tutorial" href="https://www.youtube.com/user/asposevideo" >}}
+{{< /blocks/products/pf/slr-tab >}}
+
+{{< blocks/products/pf/slr-tab tabTitle="Dukungan Produk" tabId="support" >}}
+{{< blocks/products/pf/slr-element name="Dukungan Gratis" href="https://forum.aspose.com/c/cells" >}}
+{{< blocks/products/pf/slr-element name="Dukungan Berbayar" href="https://helpdesk.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/cells/" >}}
+{{< /blocks/products/pf/slr-tab >}}
+
+{{< blocks/products/pf/slr-tab tabTitle="Mengapa Aspose.Cells untuk Layanan Pelaporan?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-element name="Daftar Pelanggan" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="Cerita-cerita sukses" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
+{{< /blocks/products/pf/slr-tab >}}
+
+{{< /blocks/products/pf/i18n/support-learning-resources >}}
+
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/reportingservices" pricingInformationLink="https://purchase.aspose.com/pricing/cells/reporting-services" >}}
+
+{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells menawarkan API Excel individual untuk lingkungan pengembangan populer lainnya seperti yang tercantum di bawah ini:" >}}
+
+    {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/cpp/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sdkName="C++" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/android-java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-android-java.svg" sdkName="Android via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/sharepoint/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-sharepoint.svg" sdkName="SharePoint" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/jasperreports/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-jasperreports.svg" sdkName="JasperReports" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/nodejs-java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-nodejs-java.svg" sdkName="Node.js via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/php-java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-php-java.svg" sdkName="PHP via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/python-java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sdkName="Python via Java" >}}
+
+{{< /blocks/products/pf/offers-section >}}
+
+{{< /blocks/products/pf/main-wrap-class >}}

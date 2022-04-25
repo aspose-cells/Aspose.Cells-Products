@@ -1,6 +1,6 @@
 ---
 title: Insert comments in Excel via .NET
-url: /net/comment/
+url: /net/comments/
 description: C# source codes that how to insert comment into Microsoft Excel files using .NET Library. 
 ---
 

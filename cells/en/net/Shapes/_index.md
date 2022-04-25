@@ -18,7 +18,7 @@ Insertting shapes using Excel API is simple. Process is, Create [Workbook class]
 
 {{% blocks/products/pf/feature-page-code h3="C# Code to Insert Shape in Excel" %}}
 
-{{< gist "aspose-cells-gists" "88c9872508ec3150c552eb5155edf06e" "InsertShape.cs" >}}
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "InsertShape.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 

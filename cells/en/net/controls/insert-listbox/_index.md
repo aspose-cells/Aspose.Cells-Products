@@ -66,7 +66,7 @@ You need the aspose.cells.dll to try the following workflow in your own environm
 
 {{% blocks/products/pf/agp/code-block title="Insert ListBox - C#" offSpacer="" %}}
 
-{{< gist "aspose-cells-gists" "88c9872508ec3150c552eb5155edf06e" "InsertListBoxIntoWorksheet.cs" >}}
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "InsertListBoxIntoWorksheet.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

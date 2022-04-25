@@ -18,7 +18,7 @@ Insertting comments using Excel API is simple. Process is, Create [Workbook clas
 
 {{% blocks/products/pf/feature-page-code h3="C# Code to Insert Comment in Excel" %}}
 
-{{< gist "aspose-cells-gists" "88c9872508ec3150c552eb5155edf06e" "InsertCommentIntoWorksheet.cs" >}}
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "InsertCommentIntoWorksheet.cs" >}}
 
 {{% /blocks/products/pf/feature-page-code  %}}
 {{% /blocks/products/pf/feature-page-section %}}

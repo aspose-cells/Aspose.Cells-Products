@@ -1,7 +1,7 @@
 ---
-title: Intert ScrollBar into Excel via .NET 
+title: Insert ScrollBar into Excel via .NET 
 weight: 90
-url: /net/controls/intert-scrollbar/ 
+url: /net/controls/insert-scrollbar/ 
 description: C# source code to insert ScrollBar into Excel on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

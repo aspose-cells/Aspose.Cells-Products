@@ -1,7 +1,7 @@
 ---
-title: Intert GroupBox into Excel via .NET 
+title: Insert GroupBox into Excel via .NET 
 weight: 40
-url: /net/controls/intert-groupbox/ 
+url: /net/controls/insert-groupbox/ 
 description: C# source code to insert GroupBox into Excel on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

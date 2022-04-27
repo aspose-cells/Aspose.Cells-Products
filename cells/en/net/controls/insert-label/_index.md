@@ -1,7 +1,7 @@
 ---
-title: Intert Label into Excel via .NET 
+title: Insert Label into Excel via .NET 
 weight: 80
-url: /net/controls/intert-label/ 
+url: /net/controls/insert-label/ 
 description: C# source code to insert Label into Excel on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

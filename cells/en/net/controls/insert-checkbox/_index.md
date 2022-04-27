@@ -1,7 +1,7 @@
 ---
-title: Intert CheckBox into Excel via .NET 
+title: Insert CheckBox into Excel via .NET 
 weight: 30
-url: /net/controls/intert-checkbox/ 
+url: /net/controls/insert-checkbox/ 
 description: C# source code to insert CheckBox into Excel on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

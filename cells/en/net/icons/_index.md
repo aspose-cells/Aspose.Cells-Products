@@ -1,7 +1,7 @@
 ---
-title: Intert Icons into Excel via .NET 
+title: Insert Icons into Excel via .NET 
 weight: 110
-url: /net/icons/intert-icons/ 
+url: /net/icons/insert-icons/ 
 description: C# source code to insert Icons into Excel on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

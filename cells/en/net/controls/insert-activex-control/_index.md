@@ -1,7 +1,7 @@
 ---
-title: Intert ActiveX Control into Excel via .NET 
+title: Insert ActiveX Control into Excel via .NET 
 weight: 10
-url: /net/controls/intert-activex-control/ 
+url: /net/controls/insert-activex-control/ 
 description: C# source code to insert ActiveX Control into Excel on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

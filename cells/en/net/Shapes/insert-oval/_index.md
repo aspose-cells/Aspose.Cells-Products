@@ -1,7 +1,7 @@
 ---
-title: Intert Oval into Excel via .NET 
+title: Insert Oval into Excel via .NET 
 weight: 303
-url: /net/shapes/intert-oval/ 
+url: /net/shapes/insert-oval/ 
 description: C# source code to insert Oval into Excel on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

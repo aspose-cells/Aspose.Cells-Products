@@ -1,7 +1,7 @@
 ---
-title: Intert rectangle into Excel via .NET 
+title: Insert rectangle into Excel via .NET 
 weight: 240
-url: /net/shapes/intert-rectangle/ 
+url: /net/shapes/insert-rectangle/ 
 description: C# source code to insert rectangle into Excel on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

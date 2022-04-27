@@ -1,7 +1,7 @@
 ---
-title: Intert OleObject into Excel via .NET 
+title: Insert OleObject into Excel via .NET 
 weight: 170
-url: /net/oleobject/intert-oleobject/ 
+url: /net/oleobject/insert-oleobject/ 
 description: C# source code to insert OleObject into Excel on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 
@@ -45,7 +45,7 @@ You need the aspose.cells.dll to try the following workflow in your own environm
 
 +  Instantiating a Workbook object.(or->Load the XLSX file with full path.)
 +  Select Worksheet via its index.
-+  Use the [add method](https://apireference.aspose.com/cells/net/aspose.cells.drawing/shapecollection/methods/addrectangle) to insert a OleObject in the selected worksheet
++  Use the [add method](https://apireference.aspose.com/cells/net/aspose.cells.drawing/shapecollection/methods/addoleobject) to insert a OleObject in the selected worksheet
 +  Save workbook in XLSX format.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -66,7 +66,7 @@ You need the aspose.cells.dll to try the following workflow in your own environm
 
 {{% blocks/products/pf/agp/code-block title="Insert OleObject - C#" offSpacer="" %}}
 
-{{< gist "aspose-cells-gists" "88c9872508ec3150c552eb5155edf06e" "Examples-CSharp-InsertShapesToWorksheetInAsposeCells-Rectangle.cs" >}}
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "InsertOleObjectIntoWorksheet.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

@@ -1,7 +1,7 @@
 ---
-title: Intert Picture into Excel via .NET 
+title: Insert Picture into Excel via .NET 
 weight: 200
-url: /net/pictures/intert-picture/ 
+url: /net/pictures/insert-picture/ 
 description: C# source code to insert Picture into Excel on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

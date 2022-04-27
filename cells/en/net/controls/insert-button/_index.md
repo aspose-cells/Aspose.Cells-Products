@@ -1,7 +1,7 @@
 ---
-title: Intert button into Excel via .NET 
+title: Insert button into Excel via .NET 
 weight: 10
-url: /net/controls/intert-button/ 
+url: /net/controls/insert-button/ 
 description: C# source code to insert button into Excel on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

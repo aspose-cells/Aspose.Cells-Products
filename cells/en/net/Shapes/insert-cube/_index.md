@@ -1,7 +1,7 @@
 ---
-title: Intert Cube into Excel via .NET 
+title: Insert Cube into Excel via .NET 
 weight: 325
-url: /net/shapes/intert-cube/ 
+url: /net/shapes/insert-cube/ 
 description: C# source code to insert Cube into Excel on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

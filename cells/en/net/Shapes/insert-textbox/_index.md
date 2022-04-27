@@ -1,7 +1,7 @@
 ---
-title: Intert TextBox into Excel via .NET 
+title: Insert TextBox into Excel via .NET 
 weight: 301
-url: /net/shapes/intert-textbox/ 
+url: /net/shapes/insert-textbox/ 
 description: C# source code to insert TextBox into Excel on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

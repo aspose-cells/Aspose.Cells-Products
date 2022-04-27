@@ -1,7 +1,7 @@
 ---
-title: Intert ComboBox into Excel via .NET 
+title: Insert ComboBox into Excel via .NET 
 weight: 20
-url: /net/controls/intert-combobox/ 
+url: /net/controls/insert-combobox/ 
 description: C# source code to insert ComboBox into Excel on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

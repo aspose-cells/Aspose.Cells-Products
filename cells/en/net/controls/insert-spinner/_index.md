@@ -1,7 +1,7 @@
 ---
-title: Intert Spinner into Excel via .NET 
+title: Insert Spinner into Excel via .NET 
 weight: 40
-url: /net/controls/intert-spinner/ 
+url: /net/controls/insert-spinner/ 
 description: C# source code to insert Spinner into Excel on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

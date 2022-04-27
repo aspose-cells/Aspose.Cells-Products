@@ -1,7 +1,7 @@
 ---
-title: Intert ListBox into Excel via .NET 
+title: Insert ListBox into Excel via .NET 
 weight: 50
-url: /net/controls/intert-listbox/ 
+url: /net/controls/insert-listbox/ 
 description: C# source code to insert ListBox into Excel on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

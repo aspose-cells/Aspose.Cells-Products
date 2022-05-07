@@ -1,7 +1,7 @@
 ---
 title: Insert Picture into Excel via Python 
 weight: 200
-url: /python-java/pictures/insert-picture/ 
+url: /python-java/pictures/insert-pictures/ 
 description: Python source code to insert Picture into Excel.
 ---
 

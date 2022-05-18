@@ -52,7 +52,7 @@ description: C# Sample code for generating XLSX documents with PivotTable. Use t
 
 {{% blocks/products/pf/agp/code-block title="Insert PivotTable in XLSX - C#" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "59a1901d62ea9ceb08456a818431a898" "PivotTables-LandingPage-Insert-PivotTable.cs" >}}
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "PivotTables-LandingPage-Insert-PivotTable.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

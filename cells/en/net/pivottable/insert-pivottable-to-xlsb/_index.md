@@ -80,6 +80,7 @@ XLSB file format specifies the Excel Binary File Format, which is a collection o
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported PivotTable Formats" subTitle="You can also create other Microsoft Excel formats with PivotTable including few listed below." >}}
 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivottable-to-xls/" name="XLS" description="Microsoft Excel Spreadsheet (Legacy)" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivottable-to-xlsx/" name="XLSX" description="Open XML Workbook" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivottable-to-xlsb/" name="XLSB" description="Excel Binary Workbook" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivottable-to-xlsm/" name="XLSM" description="Macro-enabled Spreadsheet" >}} 

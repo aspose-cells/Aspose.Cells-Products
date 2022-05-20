@@ -61,7 +61,7 @@ PM> Install-Package Aspose.Cells
 
 -  Microsoft Windows or a compatible OS with .NET Framework, .NET Core, Mono or Xamarin Platforms
 -  Development environment like Microsoft Visual Studio
--  Aspose.Cells for .NET DLL referenced in your project - Install from NuGet using the Download button above
+-  Add reference to the Aspose.Cells for .NET DLL in your project - Install from NuGet using the Download button above
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

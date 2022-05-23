@@ -63,7 +63,7 @@ PM> Install-Package Aspose.Cells
 
 -  Microsoft Windows or a compatible OS with .NET Framework, .NET Core, Mono or Xamarin Platforms
 -  Development environment like Microsoft Visual Studio
--  Aspose.Cells for .NET referenced in your project
+-  Add reference to the Aspose.Cells for .NET DLL in your project
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

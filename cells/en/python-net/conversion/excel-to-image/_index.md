@@ -44,7 +44,7 @@ description: Sample code for excel to image Python conversion. Use API example c
 
 - Install Java 1.8 or higher and add it to PATH environment variable, for example: <code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 - Install [Python](https://www.python.org/downloads/) 3.7 or higher. 
-- Install Aspose.Cells for Python from <a href="https://pypi.org/project/aspose-cells-python/">pypi</a>, use command as: <code>$ pip install aspose-cells</code>.
+- Install Aspose.Cells for Python from <a href="https://pypi.org/project/aspose-cells-python/">pypi</a>, use command as: <code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

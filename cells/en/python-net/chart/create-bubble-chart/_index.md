@@ -38,7 +38,7 @@ It is easy for the developers to create a Bubble chart within running different 
 {{% blocks/products/pf/agp/text %}}
  Aspose.Cells for Python is platform-independent API and can be used on any platform (Windows, Linux), just make sure that system have [Python](https://www.python.org/downloads/) 3.7 or higher.
 {{% /blocks/products/pf/agp/text %}}
-- Install Aspose.Cells for Python from <a href="https://pypi.org/project/aspose-cells-python/">pypi</a>, use command as: <code>$ pip install aspose-cells</code>.
+- Install Aspose.Cells for Python from <a href="https://pypi.org/project/aspose-cells-python/">pypi</a>, use command as: <code>$ pip install aspose-cells-python</code>.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/code-block title="Following source code shows how to create a Bubble Chart to MS Excel XLSX file using Python." offSpacer="" %}}

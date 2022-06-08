@@ -14,7 +14,7 @@ In excel you can add shapes such as boxes, circles and arrows to documents, emai
 
 {{% blocks/products/pf/feature-page-section  h2="Insert shapes in Excel File" %}}
 
-Insertting shapes using these APIs is simple. Process is, Create [Workbook class](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) object and select the first worksheet or the relevant sheet by providing its index. Add a shape to the worksheet by using [shapecollection](https://apireference.aspose.com/cells/java/com.aspose.cells/ShapeCollection)’s Add method.
+Insertting shapes using these APIs is simple. Process is, Create Workbook class object and select the first worksheet or the relevant sheet by providing its index. Add a shape to the worksheet by using shapecollection to add method.
 
 {{% blocks/products/pf/feature-page-code h3="Python Code to Insert Shape in Excel" %}}
 

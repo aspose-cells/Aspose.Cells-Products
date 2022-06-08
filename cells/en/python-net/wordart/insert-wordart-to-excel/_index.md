@@ -21,7 +21,7 @@ description: Python source code to insert WordArt into Excel.
 
 ```cs
 
-> pip install aspose-cells
+> pip install aspose-cells-python
 
 ```
 
@@ -54,7 +54,7 @@ You need the Aspose.Cells to try the following workflow in your own environment.
  
 {{% /blocks/products/pf/agp/text %}}
 
--  Any operating system that can run python scripts, such as Windows, Linux and MacOS
+-  Any operating system that can run python scripts, such as Windows, Linux
 -  Install Aspose.Cells for Python via .NET from <a href="https://pypi.org/project/aspose-cells-python/">pypi</a>, use command as: <code>$ pip install aspose-cells-python</code>.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

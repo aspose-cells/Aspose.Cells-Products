@@ -21,7 +21,7 @@ description: Python source code to insert Picture into Excel.
 
 ```cs
 
-> pip install aspose-cells
+> pip install aspose-cells-python
 
 ```
 
@@ -41,7 +41,7 @@ You need the Aspose.Cells to try the following workflow in your own environment.
 
 +  Instantiating a Workbook object.(or->Load the XLSX file with full path.)
 +  Select Worksheet via its index.
-+  Use the picturecollection's [add method](https://apireference.aspose.com/cells/java/com.aspose.cells/picturecollection#add(int,%20int,%20int,%20int,%20java.lang.String)) to insert a Picture in the selected worksheet.
++  Use the picturecollection's add method to insert a Picture in the selected worksheet.
 +  Save workbook in XLSX format.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -54,9 +54,9 @@ You need the Aspose.Cells to try the following workflow in your own environment.
  
 {{% /blocks/products/pf/agp/text %}}
 
--  Any operating system that can run python scripts, such as Windows, Linux and MacOS
--  Install Java and add it to PATH environment variable, for example: <code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
--  Install Aspose.Cells for Python from <a href="https://pypi.org/project/aspose-cells-python/">pypi</a>, use command as: <code>$ pip install aspose-cells</code>.
+-  Any operating system that can run python scripts, such as Windows, Linux
+
+-  Install Aspose.Cells for Python from <a href="https://pypi.org/project/aspose-cells-python/">pypi</a>, use command as: <code>$ pip install aspose-cells-python</code>.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

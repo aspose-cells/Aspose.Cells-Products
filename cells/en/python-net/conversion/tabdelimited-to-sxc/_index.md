@@ -43,7 +43,7 @@ description: Sample code for tabdelimited to sxc Python conversion. Use API exam
 {{% /blocks/products/pf/agp/text %}}
 
 
-- Install Aspose.Cells for Python from <a href="https://pypi.org/project/aspose-cells-python/">pypi</a>, use command as: <code>$ pip install aspose-cells</code>.
+- Install Aspose.Cells for Python from <a href="https://pypi.org/project/aspose-cells-python/">pypi</a>, use command as: <code>$ pip install aspose-cells-python</code>.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

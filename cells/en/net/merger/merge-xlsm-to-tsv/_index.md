@@ -45,11 +45,10 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/text %}}
 
-+  Load all the XLSM files with full path.
-+  Make one document as the base file
-+  Call the relevant method for concatenating and merging files one by one.
-+  Call the Save() method and pass the file name (full path) and format (TSV) as a parameter.
-+  Now you can open and use the TSV file in Microsoft Office, Adobe PDF or any other compatible program.
++  Load the XLSM file with Workbook class.
++  Call the Workbook.Combine method for merging files.
++  Call the Workbook.Save method and pass the output file name as a parameter.
++  Now you can open and use the output file in Microsoft Office, Adobe PDF or any other compatible program.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -68,17 +67,10 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Merge XLSM to TSV Files - C#" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "d7c757e7471bd38006ac0d35d221b2e2" "merge-csv-files.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
 {{< /blocks/products/pf/agp/feature-section >}}
 
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+{{% cells-merger title="Free App to merge Excel files on line" InputFormat="xlsm" InputFormat2="tsv" outformat="tsv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;ods;csv;tsv;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="net" %}}
  
-
 <!-- aboutfile Starts -->
 
     {{% blocks/products/pf/agp/content h2="About Aspose.Cells for .NET API" %}}

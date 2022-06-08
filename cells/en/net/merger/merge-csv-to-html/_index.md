@@ -45,11 +45,10 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/text %}}
 
-+  Load all the CSV files with full path.
-+  Make one document as the base file
-+  Call the relevant method for concatenating and merging files one by one.
-+  Call the Save() method and pass the file name (full path) and format (HTML) as a parameter.
-+  Now you can open and use the HTML file in Microsoft Office, Adobe PDF or any other compatible program.
++  Load the CSV file with Workbook class.
++  Call the Workbook.Combine method for merging files.
++  Call the Workbook.Save method and pass the output file name as a parameter.
++  Now you can open and use the output file in Microsoft Office, Adobe PDF or any other compatible program.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -72,7 +71,6 @@ PM> Install-Package Aspose.Cells
 
 {{% cells-merger title="Free App to merge Excel files on line" InputFormat="csv" InputFormat2="html" outformat="html" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;ods;csv;tsv;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="net" %}}
  
-
 <!-- aboutfile Starts -->
 
     {{% blocks/products/pf/agp/content h2="About Aspose.Cells for .NET API" %}}

@@ -6,15 +6,15 @@ description: Python spreadsheet library to create read write and parse Excel fil
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Python Excel Spreadsheets Parsing APIs" h2="Generate, read, write or manipulate spreadsheets as well as export Excel files to multiple formats within Python applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-python-java.svg" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="https://downloads.aspose.com/cells/python" >}}
+{{< blocks/products/pf/upper-banner h1="Python Excel Spreadsheets Parsing APIs" h2="Generate, read, write or manipulate spreadsheets as well as export Excel files to multiple formats within Python applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-python-net.svg" pfName="Aspose.Cells" subTitlepfName="for Python via .NET" downloadUrl="https://downloads.aspose.com/cells/python-net" >}}
 
-{{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Python via Java" >}}
+{{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Python via .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/python-java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cells/pythonjava/" installationsDocsLink="" nugetLink="" nugetPackageName="" pipLink="https://pypi.org/project/aspose-cells/" directDownloadLink="https://downloads.aspose.com/cells/python" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/python-net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cells/pythonnet/" installationsDocsLink="" nugetLink="" nugetPackageName="" pipLink="https://pypi.org/project/aspose-cells-python/" directDownloadLink="https://downloads.aspose.com/cells/python-net" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
- Aspose.Cells for Python via Java is a fast and reliable API for spreadsheet processing tasks. Developers can create simple or complex spreadsheets, manipulate as well as extract information from excel files. API reads multiple excel formats and can render worksheets to XPS, PDF, MHTML, HTML, Plain Text, images and more. It is the best solution to automate excel reports using python.
+ Aspose.Cells for Python via .Net is a fast and reliable API for spreadsheet processing tasks. Developers can create simple or complex spreadsheets, manipulate as well as extract information from excel files. API reads multiple excel formats and can render worksheets to XPS, PDF, MHTML, HTML, Plain Text, images and more. It is the best solution to automate excel reports using python.
 </p>
 
 {{< /blocks/products/pf/tab-content >}}
@@ -88,7 +88,7 @@ description: Python spreadsheet library to create read write and parse Excel fil
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="Python Spreadsheet API" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg"/>
+  <img width="70" height="75" alt="Python Spreadsheet API" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg"/>
   <header>
    Aspose.Cells
   </header>
@@ -97,7 +97,7 @@ description: Python spreadsheet library to create read write and parse Excel fil
     <em>
      for
     </em>
-    Python via Java
+    Python via .NET
    </small>
   </footer>
  </div>
@@ -106,7 +106,7 @@ description: Python spreadsheet library to create read write and parse Excel fil
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.Cells for Python via Java is available for." >}}
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.Cells for Python via .NET is available for." >}}
 <div class="diagram1 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -128,7 +128,7 @@ description: Python spreadsheet library to create read write and parse Excel fil
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="Excel API Android" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg"/>
+  <img width="70" height="75" alt="Excel API Android" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg"/>
   <header>
    Aspose.Cells
   </header>
@@ -137,7 +137,7 @@ description: Python spreadsheet library to create read write and parse Excel fil
     <em>
      for
     </em>
-    Python via Java
+    Python via .NET
    </small>
   </footer>
  </div>
@@ -208,7 +208,7 @@ description: Python spreadsheet library to create read write and parse Excel fil
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="Python Excel Spreadsheet Library" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg"/>
+  <img width="70" height="75" alt="Python Excel Spreadsheet Library" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg"/>
   <header>
    Aspose.Cells
   </header>
@@ -217,7 +217,7 @@ description: Python spreadsheet library to create read write and parse Excel fil
     <em>
      for
     </em>
-    Python via Java
+    Python via .NET
    </small>
   </footer>
  </div>
@@ -421,9 +421,9 @@ description: Python spreadsheet library to create read write and parse Excel fil
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Save spreadsheet in different formats - Java
+      Save spreadsheet in different formats
      </h3>
-     <pre><code class="java">// load file to be converted
+     <pre><code class="net">// load file to be converted
 
 Workbook wkbk= new Workbook(SD_PATH + "template.xls");
 
@@ -440,7 +440,7 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
 
 <h2 class="h2title">Manipulate Excel Files Formatting</h2>
 
-<p>Aspose.Cells for Android via Java gives you complete freedom and flexibility to furnish your spreadsheets with all kinds of visual effects. The API allows you to apply different fonts with attributes, cell styles (alignment, indentation, rotation, borders, shading and coloring, protection, text wrapping and shrinking) and all types of number formats. Similarly, charts and graphics are visually appealing and can give your spreadsheet a professional look. Aspose.Cells for Android via Java provides a comprehensive set of APIs for creating and manipulating all of the standard and custom chart types. Moreover, you may add different types of drawing objects, such as comments, pictures, OLE objects, shapes and controls to the cells.</p>
+<p>Aspose.Cells for Android via .NET gives you complete freedom and flexibility to furnish your spreadsheets with all kinds of visual effects. The API allows you to apply different fonts with attributes, cell styles (alignment, indentation, rotation, borders, shading and coloring, protection, text wrapping and shrinking) and all types of number formats. Similarly, charts and graphics are visually appealing and can give your spreadsheet a professional look. Aspose.Cells for Android via .NET provides a comprehensive set of APIs for creating and manipulating all of the standard and custom chart types. Moreover, you may add different types of drawing objects, such as comments, pictures, OLE objects, shapes and controls to the cells.</p>
 
 </div>
 
@@ -448,7 +448,7 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
 
 <h2 class="h2title">Convert Spreadsheet Objects to Different Formats</h2>
 
-<p>Aspose.Cells for Python via Java offer some distinctive features such as converting charts to images & PDF, worksheets to images and spreadsheets to PDF document format. The conversion process is greatly flexible thus allowing you to choose a number of options for the conversion, such as re-sampling of images while converting spreadsheets to PDF or controlling the resultant image dimensions when rendering worksheets & charts to image formats.</p>
+<p>Aspose.Cells for Python via .NET offer some distinctive features such as converting charts to images & PDF, worksheets to images and spreadsheets to PDF document format. The conversion process is greatly flexible thus allowing you to choose a number of options for the conversion, such as re-sampling of images while converting spreadsheets to PDF or controlling the resultant image dimensions when rendering worksheets & charts to image formats.</p>
 
 </div>-->
    <!--<div class="col-lg-12">
@@ -463,14 +463,14 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
      Flexible Display Options
     </h2>
     <p>
-     Aspose.Cells for Python via Java provides full control over page setup allowing to manipulate multiple display options like preview page breaks, set zoom level, set page orientation, control data visibility with freeze panes, paper size, scaling, headers &amp; footers and print area.
+     Aspose.Cells for Python via .NET provides full control over page setup allowing to manipulate multiple display options like preview page breaks, set zoom level, set page orientation, control data visibility with freeze panes, paper size, scaling, headers &amp; footers and print area.
     </p>
    </div>
    <!--<div class="col-lg-12">
 
 <h2 class="h2title">Excel Worksheet Security Features</h2>
 
-<p>Aspose.Cells for Android via Java offers a wide range of security features including support for Microsoft Excel 2007 XLSX file encryption and decryption, protecting worksheet contents, objects & scenarios, and hiding or showing worksheets.</p>
+<p>Aspose.Cells for Android via .NET offers a wide range of security features including support for Microsoft Excel 2007 XLSX file encryption and decryption, protecting worksheet contents, objects & scenarios, and hiding or showing worksheets.</p>
 
 </div>
 
@@ -478,7 +478,7 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
 
 <h2 class="h2title">Manipulate Worksheet Rows & Columns</h2>
 
-<p>Aspose.Cells for Android via Java API allows you to manipulate rows and columns in many different ways. You can easily adjust row height and column width, auto size the width & height of cells according to the contents, insert or delete, hide or show and group or ungroup rows & columns.</p>
+<p>Aspose.Cells for Android via .NET API allows you to manipulate rows and columns in many different ways. You can easily adjust row height and column width, auto size the width & height of cells according to the contents, insert or delete, hide or show and group or ungroup rows & columns.</p>
 
 </div> -->
    <div class="col-lg-12">
@@ -486,7 +486,7 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
      Excel Sheets Data Management
     </h2>
     <p>
-     Aspose.Cells for Python via Java API provides extensive support for worksheet data management. One can easily manipulate any cell in the worksheet at runtime or import data onto the worksheets from various data sources.
+     Aspose.Cells for Python via .NET API provides extensive support for worksheet data management. One can easily manipulate any cell in the worksheet at runtime or import data onto the worksheets from various data sources.
     </p>
    </div>
    <div class="col-lg-12">
@@ -494,7 +494,7 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
      Charts Customization
     </h2>
     <p>
-     Aspose.Cells for Python via Java provides full support for charting. One can easily add standard and customized charts or dynamically set chart data in order to refresh the chart vai this python library.
+     Aspose.Cells for Python via .NET provides full support for charting. One can easily add standard and customized charts or dynamically set chart data in order to refresh the chart vai this python library.
     </p>
    </div>
    <!--
@@ -503,7 +503,7 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
 
 <h2 class="h2title">Microsoft Office Automation – Not Needed</h2>
 
-<p>Aspose.Cells for Android via Java is built using managed code that never needs Microsoft Office or Microsoft Excel to work with Excel document formats. It is a perfect Microsoft Excel automation alternative in terms of supported features, security, stability, scalability, speed and price.</p>
+<p>Aspose.Cells for Android via .NET is built using managed code that never needs Microsoft Office or Microsoft Excel to work with Excel document formats. It is a perfect Microsoft Excel automation alternative in terms of supported features, security, stability, scalability, speed and price.</p>
 
 </div>
 
@@ -518,8 +518,7 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/cells/pythonjava/" >}}
-{{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-cells/Aspose.Cells-for-Java" >}}
+{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/cells/pythonnet/" >}}
 {{< blocks/products/pf/slr-element name="Aspose.Cells API References" href="https://apireference.aspose.com/python/cells" >}}
 {{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
@@ -530,14 +529,14 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Why Aspose.Cells for Python via Java?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Why Aspose.Cells for Python via .NET?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Customers List" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Success Stories" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/python" pricingInformationLink="https://purchase.aspose.com/pricing/cells/python-java" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/python-net" pricingInformationLink="https://purchase.aspose.com/pricing/cells/python-net" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells offers individual Excel APIs for other popular development environments as listed below:" >}}
 

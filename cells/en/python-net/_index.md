@@ -6,11 +6,11 @@ description: Python spreadsheet library to create read write and parse Excel fil
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Python Excel Spreadsheets Parsing APIs" h2="Generate, read, write or manipulate spreadsheets as well as export Excel files to multiple formats within Python applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-python-net.svg" pfName="Aspose.Cells" subTitlepfName="for Python via .NET" downloadUrl="https://downloads.aspose.com/cells/python-net" >}}
+{{< blocks/products/pf/upper-banner h1="Python Excel Spreadsheets Parsing APIs" h2="Generate, read, write or manipulate spreadsheets as well as export Excel files to multiple formats within Python applications." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/headers/aspose_cells-for-python-via-net.svg" pfName="Aspose.Cells" subTitlepfName="for Python via .NET" downloadUrl="https://downloads.aspose.com/cells/python-net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Python via .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/python-net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cells/pythonnet/" installationsDocsLink="" nugetLink="" nugetPackageName="" pipLink="https://pypi.org/project/aspose-cells-python/" directDownloadLink="https://downloads.aspose.com/cells/python-net" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/python-net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cells/pythonnet/" installationsDocsLink="" nugetLink="" nugetPackageName="" pipLink="https://pypi.org/project/aspose-cells-python/" directDownloadLink="https://downloads.aspose.com/cells/python-net" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
@@ -88,7 +88,7 @@ description: Python spreadsheet library to create read write and parse Excel fil
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="Python Spreadsheet API" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg"/>
+  <img width="70" height="75" alt="Python Spreadsheet API" src="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg"/>
   <header>
    Aspose.Cells
   </header>
@@ -128,7 +128,7 @@ description: Python spreadsheet library to create read write and parse Excel fil
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="Excel API Android" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg"/>
+  <img width="70" height="75" alt="Excel API Android" src="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg"/>
   <header>
    Aspose.Cells
   </header>
@@ -208,7 +208,7 @@ description: Python spreadsheet library to create read write and parse Excel fil
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="Python Excel Spreadsheet Library" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg"/>
+  <img width="70" height="75" alt="Python Excel Spreadsheet Library" src="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg"/>
   <header>
    Aspose.Cells
   </header>

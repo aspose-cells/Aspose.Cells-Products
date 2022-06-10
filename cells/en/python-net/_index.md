@@ -424,16 +424,19 @@ description: Python spreadsheet library to create read write and parse Excel fil
       Save spreadsheet in different formats
      </h3>
      <pre><code class="net">
-	 
-// load file to be converted
-Workbook wkbk= new Workbook("Book.xlsx");
 
-// Convert XLS to PDF, XPS and HTML
-wkbk.save("output.pdf", SaveFormat.PDF);
+import aspose.cells
+from aspose.cells import Workbook,SaveFormat
+ 
+#load file to be converted
+wk = Workbook("Book.xlsx");
 
-wkbk.save("output.xps", SaveFormat.XPS);
+#Convert XLS to PDF, XPS and HTML
+wk.save("output.pdf", SaveFormat.PDF);
 
-wkbk.save("houtput.html", SaveFormat.HTML);</code></pre>
+wk.save("output.xps", SaveFormat.XPS);
+
+wk.save("houtput.html", SaveFormat.HTML);</code></pre>
     </div>
    </div>
    <!--<div class="col-lg-12">

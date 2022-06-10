@@ -423,12 +423,11 @@ description: Python spreadsheet library to create read write and parse Excel fil
      <h3>
       Save spreadsheet in different formats - Java
      </h3>
-     <pre><code class="java">// load file to be converted
-
+     <pre><code class="java">
+// load file to be converted
 Workbook wkbk= new Workbook(SD_PATH + "template.xls");
 
 // Convert XLS to PDF, XPS and HTML
-
 wkbk.save(SD_PATH + "poutput.pdf", SaveFormat.PDF);
 
 wkbk.save(SD_PATH + "xoutput.xps", SaveFormat.XPS);

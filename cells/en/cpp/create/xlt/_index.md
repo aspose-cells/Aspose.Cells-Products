@@ -1,7 +1,7 @@
 ---
 title: Create MS Excel XLT Files via C++ 
 url: /cpp/create-xlt/ 
-description: C++ Sample code for generating MS Excel XLT files. Use this code for creating MS Excel XLT files within C++ based application.
+description: Create XLT files in C++ code. Generate MS Excel XLT files using C++ application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

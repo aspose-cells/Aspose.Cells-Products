@@ -1,7 +1,7 @@
 ---
 title: Create CSV Files via C# 
 url: /net/create-csv/ 
-description: C# Sample code for generating CSV documents. Use this code for creating CSV files within VB.NET, Asp.NET or any .NET based application.
+description: Create CSV files in C# code. Generate CSV files using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

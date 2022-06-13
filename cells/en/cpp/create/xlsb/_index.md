@@ -1,7 +1,7 @@
 ---
 title: Create MS Excel XLSB Files via C++ 
 url: /cpp/create-xlsb/ 
-description: C++ Sample code for generating MS Excel XLSB files. Use this code for creating MS Excel XLSB files within C++ based application.
+description: Create XLSB files in C++ code. Generate MS Excel XLSB files using C++ application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

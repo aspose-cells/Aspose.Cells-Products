@@ -1,7 +1,7 @@
 ---
 title: Create MS Excel XLT Files via C# 
 url: /net/create-xlt/ 
-description: C# Sample code for generating XLT documents. Use this code for creating MS Excel XLT files within VB.NET, Asp.NET or any .NET based application.
+description: Create XLT files in C# code. Generate MS Excel XLT files using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

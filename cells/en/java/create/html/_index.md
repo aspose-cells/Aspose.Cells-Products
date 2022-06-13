@@ -1,7 +1,7 @@
 ---
 title: Create HTML Files via Java 
 url: /java/create-html/ 
-description: Java Sample code for generating HTML documents. Use this code for creating HTML files within Java based desktop or web application.
+description: Create HTML files in Java code. Generate HTML files using Java based desktop or web application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Insert notes to Excel XLSB file via .NET
 url: /net/notes/insert-notes-to-xlsb/ 
-description: C# source code to insert notes in XLSB file. Use API example code to insert notes within .NET application.
+description: Insert notes to XLSB using C#. Use API example code to insert notes within .NET application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

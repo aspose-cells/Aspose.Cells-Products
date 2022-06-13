@@ -1,7 +1,7 @@
 ---
 title: Merge ODS to ODS Files via C# 
 url: /net/merger/merge-ods-to-ods/ 
-description: C# source code to combine ODS to ODS file on .NET, .NET Core, Mono or Xamarin Platforms.
+description: Merge ODS to ODS file in C# code. Combine ODS to ODS file using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

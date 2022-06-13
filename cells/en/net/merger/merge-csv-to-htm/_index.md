@@ -1,7 +1,7 @@
 ---
 title: Merge CSV to HTM Files via C# 
 url: /net/merger/merge-csv-to-htm/ 
-description: C# source code to combine CSV to HTM file on .NET, .NET Core, Mono or Xamarin Platforms.
+description: Merge CSV to HTM file in C# code. Combine CSV to HTM file using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

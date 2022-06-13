@@ -1,7 +1,7 @@
 ---
 title: Merge MHTML to TSV Files via C# 
 url: /net/merger/merge-mhtml-to-tsv/ 
-description: C# source code to combine MHTML to TSV file on .NET, .NET Core, Mono or Xamarin Platforms.
+description: Merge MHTML to TSV file in C# code. Combine MHTML to TSV file using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Merge TSV to HTM Files via C# 
 url: /net/merger/merge-tsv-to-htm/ 
-description: C# source code to combine TSV to HTM file on .NET, .NET Core, Mono or Xamarin Platforms.
+description: Merge TSV to HTM file in C# code. Combine TSV to HTM file using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

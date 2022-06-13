@@ -1,7 +1,7 @@
 ---
 title: Merge CSV to NUMBERS Files via C# 
 url: /net/merger/merge-csv-to-numbers/ 
-description: C# source code to combine CSV to NUMBERS file on .NET, .NET Core, Mono or Xamarin Platforms.
+description: Merge CSV to NUMBERS file in C# code. Combine CSV to NUMBERS file using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

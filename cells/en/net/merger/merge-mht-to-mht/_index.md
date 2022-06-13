@@ -1,7 +1,7 @@
 ---
 title: Merge MHT to MHT Files via C# 
 url: /net/merger/merge-mht-to-mht/ 
-description: C# source code to combine MHT to MHT file on .NET, .NET Core, Mono or Xamarin Platforms.
+description: Merge MHT to MHT file in C# code. Combine MHT to MHT file using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

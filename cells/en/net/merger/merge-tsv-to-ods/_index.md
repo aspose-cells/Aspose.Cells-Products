@@ -1,7 +1,7 @@
 ---
 title: Merge TSV to ODS Files via C# 
 url: /net/merger/merge-tsv-to-ods/ 
-description: C# source code to combine TSV to ODS file on .NET, .NET Core, Mono or Xamarin Platforms.
+description: Merge TSV to ODS file in C# code. Combine TSV to ODS file using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

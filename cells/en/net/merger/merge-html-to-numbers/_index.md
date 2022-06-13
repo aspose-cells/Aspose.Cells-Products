@@ -1,7 +1,7 @@
 ---
 title: Merge HTML to NUMBERS Files via C# 
 url: /net/merger/merge-html-to-numbers/ 
-description: C# source code to combine HTML to NUMBERS file on .NET, .NET Core, Mono or Xamarin Platforms.
+description: Merge HTML to NUMBERS file in C# code. Combine HTML to NUMBERS file using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

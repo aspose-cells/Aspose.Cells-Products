@@ -1,7 +1,7 @@
 ---
 title: Merge MHT to NUMBERS Files via C# 
 url: /net/merger/merge-mht-to-numbers/ 
-description: C# source code to combine MHT to NUMBERS file on .NET, .NET Core, Mono or Xamarin Platforms.
+description: Merge MHT to NUMBERS file in C# code. Combine MHT to NUMBERS file using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

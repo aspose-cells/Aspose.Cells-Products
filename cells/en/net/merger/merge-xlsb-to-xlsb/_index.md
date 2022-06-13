@@ -1,7 +1,7 @@
 ---
 title: Merge XLSB to XLSB Files via C# 
 url: /net/merger/merge-xlsb-to-xlsb/ 
-description: C# source code to combine XLSB to XLSB file on .NET, .NET Core, Mono or Xamarin Platforms.
+description: Merge XLSB to XLSB file in C# code. Combine XLSB to XLSB file using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

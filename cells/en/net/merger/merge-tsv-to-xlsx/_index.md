@@ -1,7 +1,7 @@
 ---
 title: Merge TSV to XLSX Files via C# 
 url: /net/merger/merge-tsv-to-xlsx/ 
-description: C# source code to combine TSV to XLSX file on .NET, .NET Core, Mono or Xamarin Platforms.
+description: Merge TSV to XLSX file in C# code. Combine TSV to XLSX file using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

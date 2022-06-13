@@ -1,7 +1,7 @@
 ---
 title: Merge NUMBERS to XLSM Files via C# 
 url: /net/merger/merge-numbers-to-xlsm/ 
-description: C# source code to combine NUMBERS to XLSM file on .NET, .NET Core, Mono or Xamarin Platforms.
+description: Merge NUMBERS to XLSM file in C# code. Combine NUMBERS to XLSM file using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

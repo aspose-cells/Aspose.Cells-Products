@@ -1,7 +1,7 @@
 ---
 title: Merge ODS to HTM Files via C# 
 url: /net/merger/merge-ods-to-htm/ 
-description: C# source code to combine ODS to HTM file on .NET, .NET Core, Mono or Xamarin Platforms.
+description: Merge ODS to HTM file in C# code. Combine ODS to HTM file using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

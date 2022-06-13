@@ -1,7 +1,7 @@
 ---
 title: Merge HTM to MHT Files via C# 
 url: /net/merger/merge-htm-to-mht/ 
-description: C# source code to combine HTM to MHT file on .NET, .NET Core, Mono or Xamarin Platforms.
+description: Merge HTM to MHT file in C# code. Combine HTM to MHT file using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

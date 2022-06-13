@@ -1,7 +1,7 @@
 ---
 title: Merge ODS to XLS Files via C# 
 url: /net/merger/merge-ods-to-xls/ 
-description: C# source code to combine ODS to XLS file on .NET, .NET Core, Mono or Xamarin Platforms.
+description: Merge ODS to XLS file in C# code. Combine ODS to XLS file using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

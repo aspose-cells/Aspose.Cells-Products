@@ -1,7 +1,7 @@
 ---
 title: Merge MHTML to CSV Files via C# 
 url: /net/merger/merge-mhtml-to-csv/ 
-description: C# source code to combine MHTML to CSV file on .NET, .NET Core, Mono or Xamarin Platforms.
+description: Merge MHTML to CSV file in C# code. Combine MHTML to CSV file using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

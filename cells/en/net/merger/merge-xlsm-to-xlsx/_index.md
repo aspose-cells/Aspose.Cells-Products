@@ -1,7 +1,7 @@
 ---
 title: Merge XLSM to XLSX Files via C# 
 url: /net/merger/merge-xlsm-to-xlsx/ 
-description: C# source code to combine XLSM to XLSX file on .NET, .NET Core, Mono or Xamarin Platforms.
+description: Merge XLSM to XLSX file in C# code. Combine XLSM to XLSX file using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

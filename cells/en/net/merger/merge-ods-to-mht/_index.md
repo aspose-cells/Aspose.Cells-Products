@@ -1,7 +1,7 @@
 ---
 title: Merge ODS to MHT Files via C# 
 url: /net/merger/merge-ods-to-mht/ 
-description: C# source code to combine ODS to MHT file on .NET, .NET Core, Mono or Xamarin Platforms.
+description: Merge ODS to MHT file in C# code. Combine ODS to MHT file using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

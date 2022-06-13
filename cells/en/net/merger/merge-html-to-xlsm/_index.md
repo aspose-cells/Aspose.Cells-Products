@@ -1,7 +1,7 @@
 ---
 title: Merge HTML to XLSM Files via C# 
 url: /net/merger/merge-html-to-xlsm/ 
-description: C# source code to combine HTML to XLSM file on .NET, .NET Core, Mono or Xamarin Platforms.
+description: Merge HTML to XLSM file in C# code. Combine HTML to XLSM file using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Merge HTML to XLSB Files via C# 
 url: /net/merger/merge-html-to-xlsb/ 
-description: C# source code to combine HTML to XLSB file on .NET, .NET Core, Mono or Xamarin Platforms.
+description: Merge HTML to XLSB file in C# code. Combine HTML to XLSB file using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

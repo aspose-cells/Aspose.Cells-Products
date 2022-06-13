@@ -1,7 +1,7 @@
 ---
 title: Merge HTM to XLSX Files via C# 
 url: /net/merger/merge-htm-to-xlsx/ 
-description: C# source code to combine HTM to XLSX file on .NET, .NET Core, Mono or Xamarin Platforms.
+description: Merge HTM to XLSX file in C# code. Combine HTM to XLSX file using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

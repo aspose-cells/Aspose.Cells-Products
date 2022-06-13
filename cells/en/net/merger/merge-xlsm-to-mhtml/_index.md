@@ -1,7 +1,7 @@
 ---
 title: Merge XLSM to MHTML Files via C# 
 url: /net/merger/merge-xlsm-to-mhtml/ 
-description: C# source code to combine XLSM to MHTML file on .NET, .NET Core, Mono or Xamarin Platforms.
+description: Merge XLSM to MHTML file in C# code. Combine XLSM to MHTML file using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

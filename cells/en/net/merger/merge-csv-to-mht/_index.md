@@ -1,7 +1,7 @@
 ---
 title: Merge CSV to MHT Files via C# 
 url: /net/merger/merge-csv-to-mht/ 
-description: C# source code to combine CSV to MHT file on .NET, .NET Core, Mono or Xamarin Platforms.
+description: Merge CSV to MHT file in C# code. Combine CSV to MHT file using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

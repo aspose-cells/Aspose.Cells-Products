@@ -1,7 +1,7 @@
 ---
 title: Merge XLSM to MHT Files via C# 
 url: /net/merger/merge-xlsm-to-mht/ 
-description: C# source code to combine XLSM to MHT file on .NET, .NET Core, Mono or Xamarin Platforms.
+description: Merge XLSM to MHT file in C# code. Combine XLSM to MHT file using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

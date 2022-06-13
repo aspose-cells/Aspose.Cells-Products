@@ -1,7 +1,7 @@
 ---
 title: Merge MHT to XLS Files via C# 
 url: /net/merger/merge-mht-to-xls/ 
-description: C# source code to combine MHT to XLS file on .NET, .NET Core, Mono or Xamarin Platforms.
+description: Merge MHT to XLS file in C# code. Combine MHT to XLS file using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

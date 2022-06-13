@@ -1,7 +1,7 @@
 ---
 title: Convert XLTX to TABDELIMITED via Java 
 url: /java/conversion/xltx-to-tabdelimited/
-description: Sample Java conversion code for XLTX format to TABDELIMITED file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to TABDELIMITED within any Web or Desktop Java based Application.
+description: Convert XLTX to TABDELIMITED format in Java code. Save XLTX as TABDELIMITED using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

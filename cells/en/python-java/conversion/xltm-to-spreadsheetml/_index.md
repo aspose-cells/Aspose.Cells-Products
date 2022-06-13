@@ -1,7 +1,7 @@
 ---
 title: Convert XLTM to SPREADSHEETML via Python
 url: /python-java/conversion/xltm-to-spreadsheetml/
-description: Sample code for xltm to spreadsheetml Python conversion. Use API example code for batch xltm files to spreadsheetml conversion within Python application.
+description: Convert XLTM to SPREADSHEETML format in Python code. Save XLTM as SPREADSHEETML using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

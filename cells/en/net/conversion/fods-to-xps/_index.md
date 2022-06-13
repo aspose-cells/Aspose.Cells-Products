@@ -1,7 +1,7 @@
 ---
 title: Convert FODS to XPS via C#
 url: /net/conversion/fods-to-xps/
-description: Sample code for fods to xps C# conversion. Use API example code for batch fods files to xps conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert FODS to XPS format in C# code. Save FODS as XPS using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

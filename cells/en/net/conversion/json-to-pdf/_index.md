@@ -1,7 +1,7 @@
 ---
 title: Convert JSON to PDF via C#
 url: /net/conversion/json-to-pdf/
-description: Sample code for json to pdf C# conversion. Use API example code for batch json files to pdf conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert JSON to PDF format in C# code. Save JSON as PDF using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

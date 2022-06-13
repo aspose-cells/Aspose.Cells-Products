@@ -1,7 +1,7 @@
 ---
 title: Convert JSON to MD via Java 
 url: /java/conversion/json-to-md/
-description: Sample Java conversion code for JSON format to MD file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to MD within any Web or Desktop Java based Application.
+description: Convert JSON to MD format in Java code. Save JSON as MD using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

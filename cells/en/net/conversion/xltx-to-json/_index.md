@@ -1,7 +1,7 @@
 ---
 title: Convert XLTX to JSON via C#
 url: /net/conversion/xltx-to-json/
-description: Sample code for xltx to json C# conversion. Use API example code for batch xltx files to json conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert XLTX to JSON format in C# code. Save XLTX as JSON using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

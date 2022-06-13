@@ -1,7 +1,7 @@
 ---
 title: Convert XLTM to XML via C#
 url: /net/conversion/xltm-to-xml/
-description: Sample code for xltm to xml C# conversion. Use API example code for batch xltm files to xml conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert XLTM to XML format in C# code. Save XLTM as XML using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

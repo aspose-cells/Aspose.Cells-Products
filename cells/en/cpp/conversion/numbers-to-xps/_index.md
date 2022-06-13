@@ -1,7 +1,7 @@
 ---
-title: Convert NUMBERS to XPS via C++ application 
+title: Convert NUMBERS to XPS via C++
 url: /cpp/conversion/numbers-to-xps/
-description: Sample C++ conversion code for NUMBERS to XPS format. Programmers can use this source code for batch NUMBERS to XPS conversion within any C++ Application.
+description: Convert NUMBERS to XPS format in C++ code. Save NUMBERS as XPS using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

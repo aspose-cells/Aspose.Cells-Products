@@ -1,7 +1,7 @@
 ---
 title: Convert NUMBERS to TIFF via C#
 url: /net/conversion/numbers-to-tiff/
-description: Sample code for numbers to tiff C# conversion. Use API example code for batch numbers files to tiff conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert NUMBERS to TIFF format in C# code. Save NUMBERS as TIFF using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

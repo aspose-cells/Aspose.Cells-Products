@@ -1,7 +1,7 @@
 ---
 title: Convert TXT to XLS via Python
 url: /python-java/conversion/txt-to-xls/
-description: Sample code for txt to xls Python conversion. Use API example code for batch txt files to xls conversion within Python application.
+description: Convert TXT to XLS format in Python code. Save TXT as XLS using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

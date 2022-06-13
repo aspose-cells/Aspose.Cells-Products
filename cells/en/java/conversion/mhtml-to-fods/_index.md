@@ -1,7 +1,7 @@
 ---
 title: Convert MHTML to FODS via Java 
 url: /java/conversion/mhtml-to-fods/
-description: Sample Java conversion code for MHTML format to FODS file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to FODS within any Web or Desktop Java based Application.
+description: Convert MHTML to FODS format in Java code. Save MHTML as FODS using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

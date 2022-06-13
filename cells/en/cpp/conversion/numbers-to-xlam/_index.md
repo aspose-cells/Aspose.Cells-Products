@@ -1,7 +1,7 @@
 ---
-title: Convert NUMBERS to XLAM via C++ application 
+title: Convert NUMBERS to XLAM via C++
 url: /cpp/conversion/numbers-to-xlam/
-description: Sample C++ conversion code for NUMBERS to XLAM format. Programmers can use this source code for batch NUMBERS to XLAM conversion within any C++ Application.
+description: Convert NUMBERS to XLAM format in C++ code. Save NUMBERS as XLAM using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

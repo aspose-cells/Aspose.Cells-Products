@@ -1,7 +1,7 @@
 ---
-title: Convert ODS to SVG via C++ application 
+title: Convert ODS to SVG via C++
 url: /cpp/conversion/ods-to-svg/
-description: Sample C++ conversion code for ODS to SVG format. Programmers can use this source code for batch ODS to SVG conversion within any C++ Application.
+description: Convert ODS to SVG format in C++ code. Save ODS as SVG using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

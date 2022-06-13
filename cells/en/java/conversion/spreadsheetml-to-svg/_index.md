@@ -1,7 +1,7 @@
 ---
 title: Convert SPREADSHEETML to SVG via Java 
 url: /java/conversion/spreadsheetml-to-svg/
-description: Sample Java conversion code for SPREADSHEETML format to SVG file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to SVG within any Web or Desktop Java based Application.
+description: Convert SPREADSHEETML to SVG format in Java code. Save SPREADSHEETML as SVG using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Convert TXT to DOCX via Java 
 url: /java/conversion/txt-to-docx/
-description: Sample Java conversion code for TXT format to DOCX file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to DOCX within any Web or Desktop Java based Application.
+description: Convert TXT to DOCX format in Java code. Save TXT as DOCX using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

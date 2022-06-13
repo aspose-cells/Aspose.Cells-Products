@@ -1,7 +1,7 @@
 ---
-title: Convert CSV to ODS via C++ application 
+title: Convert CSV to ODS via C++
 url: /cpp/conversion/csv-to-ods/
-description: Sample C++ conversion code for CSV to ODS format. Programmers can use this source code for batch CSV to ODS conversion within any C++ Application.
+description: Convert CSV to ODS format in C++ code. Save CSV as ODS using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

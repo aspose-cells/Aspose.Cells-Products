@@ -1,7 +1,7 @@
 ---
 title: Convert XLSX to JSON via C#
 url: /net/conversion/xlsx-to-json/
-description: Sample code for xlsx to json C# conversion. Use API example code for batch xlsx files to json conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert XLSX to JSON format in C# code. Save XLSX as JSON using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

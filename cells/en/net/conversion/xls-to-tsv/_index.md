@@ -1,7 +1,7 @@
 ---
 title: Convert XLS to TSV via C#
 url: /net/conversion/xls-to-tsv/
-description: Sample code for xls to tsv C# conversion. Use API example code for batch xls files to tsv conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert XLS to TSV format in C# code. Save XLS as TSV using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Convert CSV to XPS via Python
 url: /python-java/conversion/csv-to-xps/
-description: Sample code for csv to xps Python conversion. Use API example code for batch csv files to xps conversion within Python application.
+description: Convert CSV to XPS format in Python code. Save CSV as XPS using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

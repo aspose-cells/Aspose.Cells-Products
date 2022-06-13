@@ -1,7 +1,7 @@
 ---
 title: Convert NUMBERS to TABDELIMITED via C#
 url: /net/conversion/numbers-to-tabdelimited/
-description: Sample code for numbers to tabdelimited C# conversion. Use API example code for batch numbers files to tabdelimited conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert NUMBERS to TABDELIMITED format in C# code. Save NUMBERS as TABDELIMITED using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

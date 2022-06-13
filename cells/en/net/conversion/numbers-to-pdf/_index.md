@@ -1,7 +1,7 @@
 ---
 title: Convert NUMBERS to PDF via C#
 url: /net/conversion/numbers-to-pdf/
-description: Sample code for numbers to pdf C# conversion. Use API example code for batch numbers files to pdf conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert NUMBERS to PDF format in C# code. Save NUMBERS as PDF using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

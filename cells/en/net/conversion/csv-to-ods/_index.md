@@ -1,7 +1,7 @@
 ---
 title: Convert CSV to ODS via C#
 url: /net/conversion/csv-to-ods/
-description: Sample code for csv to ods C# conversion. Use API example code for batch csv files to ods conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert CSV to ODS format in C# code. Save CSV as ODS using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

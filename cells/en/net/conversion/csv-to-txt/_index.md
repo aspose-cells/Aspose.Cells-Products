@@ -1,7 +1,7 @@
 ---
 title: Convert CSV to TXT via C#
 url: /net/conversion/csv-to-txt/
-description: Sample code for csv to txt C# conversion. Use API example code for batch csv files to txt conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert CSV to TXT format in C# code. Save CSV as TXT using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

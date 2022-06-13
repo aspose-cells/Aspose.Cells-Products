@@ -1,7 +1,7 @@
 ---
 title: Convert SPREADSHEETML to JPEG via Python
 url: /python-java/conversion/spreadsheetml-to-jpeg/
-description: Sample code for spreadsheetml to jpeg Python conversion. Use API example code for batch spreadsheetml files to jpeg conversion within Python application.
+description: Convert SPREADSHEETML to JPEG format in Python code. Save SPREADSHEETML as JPEG using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

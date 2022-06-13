@@ -1,7 +1,7 @@
 ---
 title: Convert XLSX to MARKDOWN via C#
 url: /net/conversion/xlsx-to-markdown/
-description: Sample code for xlsx to markdown C# conversion. Use API example code for batch xlsx files to markdown conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert XLSX to MARKDOWN format in C# code. Save XLSX as MARKDOWN using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

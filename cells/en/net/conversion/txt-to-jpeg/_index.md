@@ -1,7 +1,7 @@
 ---
 title: Convert TXT to JPEG via C#
 url: /net/conversion/txt-to-jpeg/
-description: Sample code for txt to jpeg C# conversion. Use API example code for batch txt files to jpeg conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert TXT to JPEG format in C# code. Save TXT as JPEG using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

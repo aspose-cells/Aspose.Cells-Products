@@ -1,7 +1,7 @@
 ---
-title: Convert FODS to JPG via C++ application 
+title: Convert FODS to JPG via C++
 url: /cpp/conversion/fods-to-jpg/
-description: Sample C++ conversion code for FODS to JPG format. Programmers can use this source code for batch FODS to JPG conversion within any C++ Application.
+description: Convert FODS to JPG format in C++ code. Save FODS as JPG using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

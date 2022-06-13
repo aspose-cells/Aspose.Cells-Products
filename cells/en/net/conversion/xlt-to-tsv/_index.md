@@ -1,7 +1,7 @@
 ---
 title: Convert XLT to TSV via C#
 url: /net/conversion/xlt-to-tsv/
-description: Sample code for xlt to tsv C# conversion. Use API example code for batch xlt files to tsv conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert XLT to TSV format in C# code. Save XLT as TSV using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

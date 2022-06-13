@@ -1,7 +1,7 @@
 ---
 title: Convert XLTX to DIF via Java 
 url: /java/conversion/xltx-to-dif/
-description: Sample Java conversion code for XLTX format to DIF file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to DIF within any Web or Desktop Java based Application.
+description: Convert XLTX to DIF format in Java code. Save XLTX as DIF using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

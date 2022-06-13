@@ -1,7 +1,7 @@
 ---
-title: Convert CSV to SPREADSHEETML via C++ application 
+title: Convert CSV to SPREADSHEETML via C++
 url: /cpp/conversion/csv-to-spreadsheetml/
-description: Sample C++ conversion code for CSV to SPREADSHEETML format. Programmers can use this source code for batch CSV to SPREADSHEETML conversion within any C++ Application.
+description: Convert CSV to SPREADSHEETML format in C++ code. Save CSV as SPREADSHEETML using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

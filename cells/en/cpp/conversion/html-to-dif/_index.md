@@ -1,7 +1,7 @@
 ---
-title: Convert HTML to DIF via C++ application 
+title: Convert HTML to DIF via C++
 url: /cpp/conversion/html-to-dif/
-description: Sample C++ conversion code for HTML to DIF format. Programmers can use this source code for batch HTML to DIF conversion within any C++ Application.
+description: Convert HTML to DIF format in C++ code. Save HTML as DIF using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

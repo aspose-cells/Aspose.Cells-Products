@@ -1,7 +1,7 @@
 ---
 title: Convert XLTM to MD via Python
 url: /python-java/conversion/xltm-to-md/
-description: Sample code for xltm to md Python conversion. Use API example code for batch xltm files to md conversion within Python application.
+description: Convert XLTM to MD format in Python code. Save XLTM as MD using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

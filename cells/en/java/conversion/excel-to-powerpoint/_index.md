@@ -1,7 +1,7 @@
 ---
 title: Convert EXCEL to POWERPOINT via Java 
 url: /java/conversion/excel-to-powerpoint/
-description: Sample Java conversion code for EXCEL format to POWERPOINT file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to POWERPOINT within any Web or Desktop Java based Application.
+description: Convert EXCEL to POWERPOINT format in Java code. Save EXCEL as POWERPOINT using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

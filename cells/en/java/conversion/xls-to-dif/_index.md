@@ -1,7 +1,7 @@
 ---
 title: Convert XLS to DIF via Java 
 url: /java/conversion/xls-to-dif/
-description: Sample Java conversion code for XLS format to DIF file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to DIF within any Web or Desktop Java based Application.
+description: Convert XLS to DIF format in Java code. Save XLS as DIF using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

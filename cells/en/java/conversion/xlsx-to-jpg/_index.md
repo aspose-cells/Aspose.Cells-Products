@@ -1,7 +1,7 @@
 ---
 title: Convert XLSX to JPG via Java 
 url: /java/conversion/xlsx-to-jpg/
-description: Sample Java conversion code for XLSX format to JPG file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to JPG within any Web or Desktop Java based Application.
+description: Convert XLSX to JPG format in Java code. Save XLSX as JPG using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

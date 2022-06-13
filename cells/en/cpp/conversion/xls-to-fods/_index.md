@@ -1,7 +1,7 @@
 ---
-title: Convert XLS to FODS via C++ application 
+title: Convert XLS to FODS via C++
 url: /cpp/conversion/xls-to-fods/
-description: Sample C++ conversion code for XLS to FODS format. Programmers can use this source code for batch XLS to FODS conversion within any C++ Application.
+description: Convert XLS to FODS format in C++ code. Save XLS as FODS using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

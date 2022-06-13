@@ -1,7 +1,7 @@
 ---
 title: Convert NUMBERS to GIF via Python
 url: /python-java/conversion/numbers-to-gif/
-description: Sample code for numbers to gif Python conversion. Use API example code for batch numbers files to gif conversion within Python application.
+description: Convert NUMBERS to GIF format in Python code. Save NUMBERS as GIF using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

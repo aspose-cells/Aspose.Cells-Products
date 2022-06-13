@@ -1,7 +1,7 @@
 ---
 title: Convert MHTML to TXT via Java 
 url: /java/conversion/mhtml-to-txt/
-description: Sample Java conversion code for MHTML format to TXT file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to TXT within any Web or Desktop Java based Application.
+description: Convert MHTML to TXT format in Java code. Save MHTML as TXT using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

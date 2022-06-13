@@ -1,7 +1,7 @@
 ---
 title: Convert NUMBERS to DIF via C#
 url: /net/conversion/numbers-to-dif/
-description: Sample code for numbers to dif C# conversion. Use API example code for batch numbers files to dif conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert NUMBERS to DIF format in C# code. Save NUMBERS as DIF using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

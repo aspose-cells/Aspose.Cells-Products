@@ -1,7 +1,7 @@
 ---
 title: Convert MHTML to PNG via Python
 url: /python-java/conversion/mhtml-to-png/
-description: Sample code for mhtml to png Python conversion. Use API example code for batch mhtml files to png conversion within Python application.
+description: Convert MHTML to PNG format in Python code. Save MHTML as PNG using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

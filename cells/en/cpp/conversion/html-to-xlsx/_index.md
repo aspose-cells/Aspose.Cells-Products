@@ -1,7 +1,7 @@
 ---
-title: Convert HTML to XLSX via C++ application 
+title: Convert HTML to XLSX via C++
 url: /cpp/conversion/html-to-xlsx/
-description: Sample C++ conversion code for HTML to XLSX format. Programmers can use this source code for batch HTML to XLSX conversion within any C++ Application.
+description: Convert HTML to XLSX format in C++ code. Save HTML as XLSX using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

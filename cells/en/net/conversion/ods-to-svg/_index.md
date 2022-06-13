@@ -1,7 +1,7 @@
 ---
 title: Convert ODS to SVG via C#
 url: /net/conversion/ods-to-svg/
-description: Sample code for ods to svg C# conversion. Use API example code for batch ods files to svg conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert ODS to SVG format in C# code. Save ODS as SVG using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

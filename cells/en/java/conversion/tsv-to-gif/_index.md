@@ -1,7 +1,7 @@
 ---
 title: Convert TSV to GIF via Java 
 url: /java/conversion/tsv-to-gif/
-description: Sample Java conversion code for TSV format to GIF file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to GIF within any Web or Desktop Java based Application.
+description: Convert TSV to GIF format in Java code. Save TSV as GIF using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

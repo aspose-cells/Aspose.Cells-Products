@@ -1,7 +1,7 @@
 ---
 title: Convert XLSX to TIFF via Python
 url: /python-java/conversion/xlsx-to-tiff/
-description: Sample code for xlsx to tiff Python conversion. Use API example code for batch xlsx files to tiff conversion within Python application.
+description: Convert XLSX to TIFF format in Python code. Save XLSX as TIFF using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

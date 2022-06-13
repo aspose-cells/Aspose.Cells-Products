@@ -1,7 +1,7 @@
 ---
-title: Convert XLSM to SPREADSHEETML via C++ application 
+title: Convert XLSM to SPREADSHEETML via C++
 url: /cpp/conversion/xlsm-to-spreadsheetml/
-description: Sample C++ conversion code for XLSM to SPREADSHEETML format. Programmers can use this source code for batch XLSM to SPREADSHEETML conversion within any C++ Application.
+description: Convert XLSM to SPREADSHEETML format in C++ code. Save XLSM as SPREADSHEETML using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

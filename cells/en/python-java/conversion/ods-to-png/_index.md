@@ -1,7 +1,7 @@
 ---
 title: Convert ODS to PNG via Python
 url: /python-java/conversion/ods-to-png/
-description: Sample code for ods to png Python conversion. Use API example code for batch ods files to png conversion within Python application.
+description: Convert ODS to PNG format in Python code. Save ODS as PNG using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

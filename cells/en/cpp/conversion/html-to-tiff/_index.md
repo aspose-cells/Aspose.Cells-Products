@@ -1,7 +1,7 @@
 ---
-title: Convert HTML to TIFF via C++ application 
+title: Convert HTML to TIFF via C++
 url: /cpp/conversion/html-to-tiff/
-description: Sample C++ conversion code for HTML to TIFF format. Programmers can use this source code for batch HTML to TIFF conversion within any C++ Application.
+description: Convert HTML to TIFF format in C++ code. Save HTML as TIFF using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

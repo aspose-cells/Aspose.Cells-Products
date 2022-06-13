@@ -1,7 +1,7 @@
 ---
 title: Convert SPREADSHEETML to PNG via Python
 url: /python-java/conversion/spreadsheetml-to-png/
-description: Sample code for spreadsheetml to png Python conversion. Use API example code for batch spreadsheetml files to png conversion within Python application.
+description: Convert SPREADSHEETML to PNG format in Python code. Save SPREADSHEETML as PNG using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

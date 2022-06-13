@@ -1,7 +1,7 @@
 ---
 title: Convert SXC to MARKDOWN via Java 
 url: /java/conversion/sxc-to-markdown/
-description: Sample Java conversion code for SXC format to MARKDOWN file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to MARKDOWN within any Web or Desktop Java based Application.
+description: Convert SXC to MARKDOWN format in Java code. Save SXC as MARKDOWN using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

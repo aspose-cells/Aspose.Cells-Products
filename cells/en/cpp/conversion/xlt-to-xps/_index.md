@@ -1,7 +1,7 @@
 ---
-title: Convert XLT to XPS via C++ application 
+title: Convert XLT to XPS via C++
 url: /cpp/conversion/xlt-to-xps/
-description: Sample C++ conversion code for XLT to XPS format. Programmers can use this source code for batch XLT to XPS conversion within any C++ Application.
+description: Convert XLT to XPS format in C++ code. Save XLT as XPS using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

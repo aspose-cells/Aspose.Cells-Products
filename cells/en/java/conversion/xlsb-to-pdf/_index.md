@@ -1,7 +1,7 @@
 ---
 title: Convert XLSB to PDF via Java 
 url: /java/conversion/xlsb-to-pdf/
-description: Sample Java conversion code for XLSB format to PDF file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to PDF within any Web or Desktop Java based Application.
+description: Convert XLSB to PDF format in Java code. Save XLSB as PDF using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

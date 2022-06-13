@@ -1,7 +1,7 @@
 ---
 title: Convert XLSX to SVG via Java 
 url: /java/conversion/xlsx-to-svg/
-description: Sample Java conversion code for XLSX format to SVG file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to SVG within any Web or Desktop Java based Application.
+description: Convert XLSX to SVG format in Java code. Save XLSX as SVG using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

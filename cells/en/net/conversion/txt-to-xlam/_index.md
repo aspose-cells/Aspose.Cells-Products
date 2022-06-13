@@ -1,7 +1,7 @@
 ---
 title: Convert TXT to XLAM via C#
 url: /net/conversion/txt-to-xlam/
-description: Sample code for txt to xlam C# conversion. Use API example code for batch txt files to xlam conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert TXT to XLAM format in C# code. Save TXT as XLAM using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Convert SPREADSHEETML to MHTML via C#
 url: /net/conversion/spreadsheetml-to-mhtml/
-description: Sample code for spreadsheetml to mhtml C# conversion. Use API example code for batch spreadsheetml files to mhtml conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert SPREADSHEETML to MHTML format in C# code. Save SPREADSHEETML as MHTML using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

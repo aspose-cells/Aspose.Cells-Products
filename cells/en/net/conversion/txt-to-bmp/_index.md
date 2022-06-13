@@ -1,7 +1,7 @@
 ---
 title: Convert TXT to BMP via C#
 url: /net/conversion/txt-to-bmp/
-description: Sample code for txt to bmp C# conversion. Use API example code for batch txt files to bmp conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert TXT to BMP format in C# code. Save TXT as BMP using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

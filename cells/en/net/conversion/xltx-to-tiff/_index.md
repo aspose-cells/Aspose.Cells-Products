@@ -1,7 +1,7 @@
 ---
 title: Convert XLTX to TIFF via C#
 url: /net/conversion/xltx-to-tiff/
-description: Sample code for xltx to tiff C# conversion. Use API example code for batch xltx files to tiff conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert XLTX to TIFF format in C# code. Save XLTX as TIFF using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

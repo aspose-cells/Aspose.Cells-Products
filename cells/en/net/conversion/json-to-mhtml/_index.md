@@ -1,7 +1,7 @@
 ---
 title: Convert JSON to MHTML via C#
 url: /net/conversion/json-to-mhtml/
-description: Sample code for json to mhtml C# conversion. Use API example code for batch json files to mhtml conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert JSON to MHTML format in C# code. Save JSON as MHTML using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

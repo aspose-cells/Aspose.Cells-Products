@@ -1,7 +1,7 @@
 ---
 title: Convert XLTM to XLAM via C#
 url: /net/conversion/xltm-to-xlam/
-description: Sample code for xltm to xlam C# conversion. Use API example code for batch xltm files to xlam conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert XLTM to XLAM format in C# code. Save XLTM as XLAM using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

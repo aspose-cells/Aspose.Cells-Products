@@ -1,7 +1,7 @@
 ---
 title: Convert SPREADSHEETML to TSV via Java 
 url: /java/conversion/spreadsheetml-to-tsv/
-description: Sample Java conversion code for SPREADSHEETML format to TSV file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to TSV within any Web or Desktop Java based Application.
+description: Convert SPREADSHEETML to TSV format in Java code. Save SPREADSHEETML as TSV using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

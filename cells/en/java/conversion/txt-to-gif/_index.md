@@ -1,7 +1,7 @@
 ---
 title: Convert TXT to GIF via Java 
 url: /java/conversion/txt-to-gif/
-description: Sample Java conversion code for TXT format to GIF file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to GIF within any Web or Desktop Java based Application.
+description: Convert TXT to GIF format in Java code. Save TXT as GIF using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

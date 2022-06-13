@@ -1,7 +1,7 @@
 ---
 title: Convert SXC to PDF via C#
 url: /net/conversion/sxc-to-pdf/
-description: Sample code for sxc to pdf C# conversion. Use API example code for batch sxc files to pdf conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert SXC to PDF format in C# code. Save SXC as PDF using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

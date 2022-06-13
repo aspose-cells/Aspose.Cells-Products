@@ -1,7 +1,7 @@
 ---
 title: Convert NUMBERS to XLSB via Java 
 url: /java/conversion/numbers-to-xlsb/
-description: Sample Java conversion code for NUMBERS format to XLSB file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to XLSB within any Web or Desktop Java based Application.
+description: Convert NUMBERS to XLSB format in Java code. Save NUMBERS as XLSB using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

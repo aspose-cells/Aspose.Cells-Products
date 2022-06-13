@@ -1,7 +1,7 @@
 ---
-title: Convert XLSB to MARKDOWN via C++ application 
+title: Convert XLSB to MARKDOWN via C++
 url: /cpp/conversion/xlsb-to-markdown/
-description: Sample C++ conversion code for XLSB to MARKDOWN format. Programmers can use this source code for batch XLSB to MARKDOWN conversion within any C++ Application.
+description: Convert XLSB to MARKDOWN format in C++ code. Save XLSB as MARKDOWN using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

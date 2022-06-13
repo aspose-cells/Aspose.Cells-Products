@@ -1,7 +1,7 @@
 ---
 title: Convert ODS to DIF via C#
 url: /net/conversion/ods-to-dif/
-description: Sample code for ods to dif C# conversion. Use API example code for batch ods files to dif conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert ODS to DIF format in C# code. Save ODS as DIF using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

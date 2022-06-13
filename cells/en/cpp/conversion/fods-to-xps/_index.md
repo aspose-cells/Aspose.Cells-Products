@@ -1,7 +1,7 @@
 ---
-title: Convert FODS to XPS via C++ application 
+title: Convert FODS to XPS via C++
 url: /cpp/conversion/fods-to-xps/
-description: Sample C++ conversion code for FODS to XPS format. Programmers can use this source code for batch FODS to XPS conversion within any C++ Application.
+description: Convert FODS to XPS format in C++ code. Save FODS as XPS using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

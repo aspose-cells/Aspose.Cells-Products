@@ -1,7 +1,7 @@
 ---
 title: Convert NUMBERS to JPEG via Python
 url: /python-java/conversion/numbers-to-jpeg/
-description: Sample code for numbers to jpeg Python conversion. Use API example code for batch numbers files to jpeg conversion within Python application.
+description: Convert NUMBERS to JPEG format in Python code. Save NUMBERS as JPEG using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

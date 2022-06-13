@@ -1,7 +1,7 @@
 ---
-title: Convert TABDELIMITED to CSV via C++ application 
+title: Convert TABDELIMITED to CSV via C++
 url: /cpp/conversion/tabdelimited-to-csv/
-description: Sample C++ conversion code for TABDELIMITED to CSV format. Programmers can use this source code for batch TABDELIMITED to CSV conversion within any C++ Application.
+description: Convert TABDELIMITED to CSV format in C++ code. Save TABDELIMITED as CSV using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

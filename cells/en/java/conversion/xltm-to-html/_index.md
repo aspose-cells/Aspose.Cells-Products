@@ -1,7 +1,7 @@
 ---
 title: Convert XLTM to HTML via Java 
 url: /java/conversion/xltm-to-html/
-description: Sample Java conversion code for XLTM format to HTML file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to HTML within any Web or Desktop Java based Application.
+description: Convert XLTM to HTML format in Java code. Save XLTM as HTML using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

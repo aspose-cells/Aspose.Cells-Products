@@ -1,7 +1,7 @@
 ---
 title: Convert FODS to EMF via Java 
 url: /java/conversion/fods-to-emf/
-description: Sample Java conversion code for FODS format to EMF file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to EMF within any Web or Desktop Java based Application.
+description: Convert FODS to EMF format in Java code. Save FODS as EMF using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

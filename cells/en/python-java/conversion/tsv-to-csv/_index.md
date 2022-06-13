@@ -1,7 +1,7 @@
 ---
 title: Convert TSV to CSV via Python
 url: /python-java/conversion/tsv-to-csv/
-description: Sample code for tsv to csv Python conversion. Use API example code for batch tsv files to csv conversion within Python application.
+description: Convert TSV to CSV format in Python code. Save TSV as CSV using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

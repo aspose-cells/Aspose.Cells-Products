@@ -1,7 +1,7 @@
 ---
 title: Convert JSON to XLSB via Java 
 url: /java/conversion/json-to-xlsb/
-description: Sample Java conversion code for JSON format to XLSB file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to XLSB within any Web or Desktop Java based Application.
+description: Convert JSON to XLSB format in Java code. Save JSON as XLSB using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

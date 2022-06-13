@@ -1,7 +1,7 @@
 ---
-title: Convert XLT to MARKDOWN via C++ application 
+title: Convert XLT to MARKDOWN via C++
 url: /cpp/conversion/xlt-to-markdown/
-description: Sample C++ conversion code for XLT to MARKDOWN format. Programmers can use this source code for batch XLT to MARKDOWN conversion within any C++ Application.
+description: Convert XLT to MARKDOWN format in C++ code. Save XLT as MARKDOWN using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Convert XLTM to TABDELIMITED via C#
 url: /net/conversion/xltm-to-tabdelimited/
-description: Sample code for xltm to tabdelimited C# conversion. Use API example code for batch xltm files to tabdelimited conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert XLTM to TABDELIMITED format in C# code. Save XLTM as TABDELIMITED using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Convert NUMBERS to PDF via Java 
 url: /java/conversion/numbers-to-pdf/
-description: Sample Java conversion code for NUMBERS format to PDF file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to PDF within any Web or Desktop Java based Application.
+description: Convert NUMBERS to PDF format in Java code. Save NUMBERS as PDF using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

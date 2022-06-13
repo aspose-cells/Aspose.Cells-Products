@@ -1,7 +1,7 @@
 ---
 title: Convert JSON to DIF via C#
 url: /net/conversion/json-to-dif/
-description: Sample code for json to dif C# conversion. Use API example code for batch json files to dif conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert JSON to DIF format in C# code. Save JSON as DIF using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

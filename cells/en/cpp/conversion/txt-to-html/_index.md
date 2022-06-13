@@ -1,7 +1,7 @@
 ---
-title: Convert TXT to HTML via C++ application 
+title: Convert TXT to HTML via C++
 url: /cpp/conversion/txt-to-html/
-description: Sample C++ conversion code for TXT to HTML format. Programmers can use this source code for batch TXT to HTML conversion within any C++ Application.
+description: Convert TXT to HTML format in C++ code. Save TXT as HTML using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

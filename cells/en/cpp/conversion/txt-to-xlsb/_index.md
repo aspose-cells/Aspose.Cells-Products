@@ -1,7 +1,7 @@
 ---
-title: Convert TXT to XLSB via C++ application 
+title: Convert TXT to XLSB via C++
 url: /cpp/conversion/txt-to-xlsb/
-description: Sample C++ conversion code for TXT to XLSB format. Programmers can use this source code for batch TXT to XLSB conversion within any C++ Application.
+description: Convert TXT to XLSB format in C++ code. Save TXT as XLSB using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

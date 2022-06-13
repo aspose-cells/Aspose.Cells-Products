@@ -1,7 +1,7 @@
 ---
 title: Convert XLTM to XML via Java 
 url: /java/conversion/xltm-to-xml/
-description: Sample Java conversion code for XLTM format to XML file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to XML within any Web or Desktop Java based Application.
+description: Convert XLTM to XML format in Java code. Save XLTM as XML using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

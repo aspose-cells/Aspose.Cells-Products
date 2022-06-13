@@ -1,7 +1,7 @@
 ---
-title: Convert MHTML to MARKDOWN via C++ application 
+title: Convert MHTML to MARKDOWN via C++
 url: /cpp/conversion/mhtml-to-markdown/
-description: Sample C++ conversion code for MHTML to MARKDOWN format. Programmers can use this source code for batch MHTML to MARKDOWN conversion within any C++ Application.
+description: Convert MHTML to MARKDOWN format in C++ code. Save MHTML as MARKDOWN using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

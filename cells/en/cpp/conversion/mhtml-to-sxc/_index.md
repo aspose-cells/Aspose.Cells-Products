@@ -1,7 +1,7 @@
 ---
-title: Convert MHTML to SXC via C++ application 
+title: Convert MHTML to SXC via C++
 url: /cpp/conversion/mhtml-to-sxc/
-description: Sample C++ conversion code for MHTML to SXC format. Programmers can use this source code for batch MHTML to SXC conversion within any C++ Application.
+description: Convert MHTML to SXC format in C++ code. Save MHTML as SXC using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

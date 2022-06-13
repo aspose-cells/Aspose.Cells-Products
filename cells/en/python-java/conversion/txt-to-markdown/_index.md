@@ -1,7 +1,7 @@
 ---
 title: Convert TXT to MARKDOWN via Python
 url: /python-java/conversion/txt-to-markdown/
-description: Sample code for txt to markdown Python conversion. Use API example code for batch txt files to markdown conversion within Python application.
+description: Convert TXT to MARKDOWN format in Python code. Save TXT as MARKDOWN using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

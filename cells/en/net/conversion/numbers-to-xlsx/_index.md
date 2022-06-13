@@ -1,7 +1,7 @@
 ---
 title: Convert NUMBERS to XLSX via C#
 url: /net/conversion/numbers-to-xlsx/
-description: Sample code for numbers to xlsx C# conversion. Use API example code for batch numbers files to xlsx conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert NUMBERS to XLSX format in C# code. Save NUMBERS as XLSX using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

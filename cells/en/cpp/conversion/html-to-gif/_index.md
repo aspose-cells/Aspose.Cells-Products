@@ -1,7 +1,7 @@
 ---
-title: Convert HTML to GIF via C++ application 
+title: Convert HTML to GIF via C++
 url: /cpp/conversion/html-to-gif/
-description: Sample C++ conversion code for HTML to GIF format. Programmers can use this source code for batch HTML to GIF conversion within any C++ Application.
+description: Convert HTML to GIF format in C++ code. Save HTML as GIF using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

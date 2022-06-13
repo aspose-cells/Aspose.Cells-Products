@@ -1,7 +1,7 @@
 ---
-title: Convert MHTML to BMP via C++ application 
+title: Convert MHTML to BMP via C++
 url: /cpp/conversion/mhtml-to-bmp/
-description: Sample C++ conversion code for MHTML to BMP format. Programmers can use this source code for batch MHTML to BMP conversion within any C++ Application.
+description: Convert MHTML to BMP format in C++ code. Save MHTML as BMP using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

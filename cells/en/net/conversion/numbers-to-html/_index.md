@@ -1,7 +1,7 @@
 ---
 title: Convert NUMBERS to HTML via C#
 url: /net/conversion/numbers-to-html/
-description: Sample code for numbers to html C# conversion. Use API example code for batch numbers files to html conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert NUMBERS to HTML format in C# code. Save NUMBERS as HTML using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Convert ODS to MD via Java 
 url: /java/conversion/ods-to-md/
-description: Sample Java conversion code for ODS format to MD file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to MD within any Web or Desktop Java based Application.
+description: Convert ODS to MD format in Java code. Save ODS as MD using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

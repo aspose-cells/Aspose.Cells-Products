@@ -1,7 +1,7 @@
 ---
 title: Convert NUMBERS to BMP via Java 
 url: /java/conversion/numbers-to-bmp/
-description: Sample Java conversion code for NUMBERS format to BMP file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to BMP within any Web or Desktop Java based Application.
+description: Convert NUMBERS to BMP format in Java code. Save NUMBERS as BMP using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

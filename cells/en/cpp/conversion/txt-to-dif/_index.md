@@ -1,7 +1,7 @@
 ---
-title: Convert TXT to DIF via C++ application 
+title: Convert TXT to DIF via C++
 url: /cpp/conversion/txt-to-dif/
-description: Sample C++ conversion code for TXT to DIF format. Programmers can use this source code for batch TXT to DIF conversion within any C++ Application.
+description: Convert TXT to DIF format in C++ code. Save TXT as DIF using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

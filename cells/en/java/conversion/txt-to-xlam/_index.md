@@ -1,7 +1,7 @@
 ---
 title: Convert TXT to XLAM via Java 
 url: /java/conversion/txt-to-xlam/
-description: Sample Java conversion code for TXT format to XLAM file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to XLAM within any Web or Desktop Java based Application.
+description: Convert TXT to XLAM format in Java code. Save TXT as XLAM using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

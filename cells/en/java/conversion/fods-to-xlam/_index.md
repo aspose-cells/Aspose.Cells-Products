@@ -1,7 +1,7 @@
 ---
 title: Convert FODS to XLAM via Java 
 url: /java/conversion/fods-to-xlam/
-description: Sample Java conversion code for FODS format to XLAM file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to XLAM within any Web or Desktop Java based Application.
+description: Convert FODS to XLAM format in Java code. Save FODS as XLAM using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

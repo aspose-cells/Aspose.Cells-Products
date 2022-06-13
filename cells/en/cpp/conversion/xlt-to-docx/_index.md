@@ -1,7 +1,7 @@
 ---
-title: Convert XLT to DOCX via C++ application 
+title: Convert XLT to DOCX via C++
 url: /cpp/conversion/xlt-to-docx/
-description: Sample C++ conversion code for XLT to DOCX format. Programmers can use this source code for batch XLT to DOCX conversion within any C++ Application.
+description: Convert XLT to DOCX format in C++ code. Save XLT as DOCX using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

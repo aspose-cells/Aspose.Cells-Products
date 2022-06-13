@@ -1,7 +1,7 @@
 ---
 title: Convert NUMBERS to XLT via Java 
 url: /java/conversion/numbers-to-xlt/
-description: Sample Java conversion code for NUMBERS format to XLT file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to XLT within any Web or Desktop Java based Application.
+description: Convert NUMBERS to XLT format in Java code. Save NUMBERS as XLT using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

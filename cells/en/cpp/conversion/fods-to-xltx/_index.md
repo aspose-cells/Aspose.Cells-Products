@@ -1,7 +1,7 @@
 ---
-title: Convert FODS to XLTX via C++ application 
+title: Convert FODS to XLTX via C++
 url: /cpp/conversion/fods-to-xltx/
-description: Sample C++ conversion code for FODS to XLTX format. Programmers can use this source code for batch FODS to XLTX conversion within any C++ Application.
+description: Convert FODS to XLTX format in C++ code. Save FODS as XLTX using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

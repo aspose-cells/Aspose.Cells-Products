@@ -1,7 +1,7 @@
 ---
 title: Convert TABDELIMITED to XPS via Java 
 url: /java/conversion/tabdelimited-to-xps/
-description: Sample Java conversion code for TABDELIMITED format to XPS file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to XPS within any Web or Desktop Java based Application.
+description: Convert TABDELIMITED to XPS format in Java code. Save TABDELIMITED as XPS using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Convert XLSM to DOCX via Java 
 url: /java/conversion/xlsm-to-docx/
-description: Sample Java conversion code for XLSM format to DOCX file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to DOCX within any Web or Desktop Java based Application.
+description: Convert XLSM to DOCX format in Java code. Save XLSM as DOCX using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

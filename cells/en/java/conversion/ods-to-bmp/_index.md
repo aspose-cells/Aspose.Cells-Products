@@ -1,7 +1,7 @@
 ---
 title: Convert ODS to BMP via Java 
 url: /java/conversion/ods-to-bmp/
-description: Sample Java conversion code for ODS format to BMP file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to BMP within any Web or Desktop Java based Application.
+description: Convert ODS to BMP format in Java code. Save ODS as BMP using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

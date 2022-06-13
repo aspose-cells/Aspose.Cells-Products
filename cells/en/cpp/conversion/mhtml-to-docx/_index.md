@@ -1,7 +1,7 @@
 ---
-title: Convert MHTML to DOCX via C++ application 
+title: Convert MHTML to DOCX via C++
 url: /cpp/conversion/mhtml-to-docx/
-description: Sample C++ conversion code for MHTML to DOCX format. Programmers can use this source code for batch MHTML to DOCX conversion within any C++ Application.
+description: Convert MHTML to DOCX format in C++ code. Save MHTML as DOCX using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Convert SPREADSHEETML to PNG via C#
 url: /net/conversion/spreadsheetml-to-png/
-description: Sample code for spreadsheetml to png C# conversion. Use API example code for batch spreadsheetml files to png conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert SPREADSHEETML to PNG format in C# code. Save SPREADSHEETML as PNG using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

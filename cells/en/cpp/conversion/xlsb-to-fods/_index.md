@@ -1,7 +1,7 @@
 ---
-title: Convert XLSB to FODS via C++ application 
+title: Convert XLSB to FODS via C++
 url: /cpp/conversion/xlsb-to-fods/
-description: Sample C++ conversion code for XLSB to FODS format. Programmers can use this source code for batch XLSB to FODS conversion within any C++ Application.
+description: Convert XLSB to FODS format in C++ code. Save XLSB as FODS using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

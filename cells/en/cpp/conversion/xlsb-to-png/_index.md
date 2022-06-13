@@ -1,7 +1,7 @@
 ---
-title: Convert XLSB to PNG via C++ application 
+title: Convert XLSB to PNG via C++
 url: /cpp/conversion/xlsb-to-png/
-description: Sample C++ conversion code for XLSB to PNG format. Programmers can use this source code for batch XLSB to PNG conversion within any C++ Application.
+description: Convert XLSB to PNG format in C++ code. Save XLSB as PNG using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Convert NUMBERS to TSV via C#
 url: /net/conversion/numbers-to-tsv/
-description: Sample code for numbers to tsv C# conversion. Use API example code for batch numbers files to tsv conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert NUMBERS to TSV format in C# code. Save NUMBERS as TSV using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

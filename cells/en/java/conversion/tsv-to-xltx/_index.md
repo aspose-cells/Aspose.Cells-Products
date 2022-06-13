@@ -1,7 +1,7 @@
 ---
 title: Convert TSV to XLTX via Java 
 url: /java/conversion/tsv-to-xltx/
-description: Sample Java conversion code for TSV format to XLTX file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to XLTX within any Web or Desktop Java based Application.
+description: Convert TSV to XLTX format in Java code. Save TSV as XLTX using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

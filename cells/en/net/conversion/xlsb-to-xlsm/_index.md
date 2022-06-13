@@ -1,7 +1,7 @@
 ---
 title: Convert XLSB to XLSM via C#
 url: /net/conversion/xlsb-to-xlsm/
-description: Sample code for xlsb to xlsm C# conversion. Use API example code for batch xlsb files to xlsm conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert XLSB to XLSM format in C# code. Save XLSB as XLSM using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

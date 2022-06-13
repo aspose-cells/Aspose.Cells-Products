@@ -1,7 +1,7 @@
 ---
 title: Convert MHTML to TIFF via C#
 url: /net/conversion/mhtml-to-tiff/
-description: Sample code for mhtml to tiff C# conversion. Use API example code for batch mhtml files to tiff conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert MHTML to TIFF format in C# code. Save MHTML as TIFF using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

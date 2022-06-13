@@ -1,7 +1,7 @@
 ---
 title: Convert TSV to XLTM via Java 
 url: /java/conversion/tsv-to-xltm/
-description: Sample Java conversion code for TSV format to XLTM file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to XLTM within any Web or Desktop Java based Application.
+description: Convert TSV to XLTM format in Java code. Save TSV as XLTM using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

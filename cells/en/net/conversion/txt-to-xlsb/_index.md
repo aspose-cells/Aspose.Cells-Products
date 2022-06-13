@@ -1,7 +1,7 @@
 ---
 title: Convert TXT to XLSB via C#
 url: /net/conversion/txt-to-xlsb/
-description: Sample code for txt to xlsb C# conversion. Use API example code for batch txt files to xlsb conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert TXT to XLSB format in C# code. Save TXT as XLSB using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

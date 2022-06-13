@@ -1,7 +1,7 @@
 ---
-title: Convert ODS to PDF via C++ application 
+title: Convert ODS to PDF via C++
 url: /cpp/conversion/ods-to-pdf/
-description: Sample C++ conversion code for ODS to PDF format. Programmers can use this source code for batch ODS to PDF conversion within any C++ Application.
+description: Convert ODS to PDF format in C++ code. Save ODS as PDF using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

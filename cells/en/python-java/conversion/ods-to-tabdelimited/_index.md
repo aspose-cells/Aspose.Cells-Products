@@ -1,7 +1,7 @@
 ---
 title: Convert ODS to TABDELIMITED via Python
 url: /python-java/conversion/ods-to-tabdelimited/
-description: Sample code for ods to tabdelimited Python conversion. Use API example code for batch ods files to tabdelimited conversion within Python application.
+description: Convert ODS to TABDELIMITED format in Python code. Save ODS as TABDELIMITED using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

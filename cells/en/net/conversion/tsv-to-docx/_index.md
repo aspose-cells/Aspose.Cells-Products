@@ -1,7 +1,7 @@
 ---
 title: Convert TSV to DOCX via C#
 url: /net/conversion/tsv-to-docx/
-description: Sample code for tsv to docx C# conversion. Use API example code for batch tsv files to docx conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert TSV to DOCX format in C# code. Save TSV as DOCX using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

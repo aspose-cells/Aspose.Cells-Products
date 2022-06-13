@@ -1,7 +1,7 @@
 ---
 title: Convert XLSB to BMP via Java 
 url: /java/conversion/xlsb-to-bmp/
-description: Sample Java conversion code for XLSB format to BMP file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to BMP within any Web or Desktop Java based Application.
+description: Convert XLSB to BMP format in Java code. Save XLSB as BMP using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

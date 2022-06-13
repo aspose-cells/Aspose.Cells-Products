@@ -1,7 +1,7 @@
 ---
 title: Convert JSON to TXT via C#
 url: /net/conversion/json-to-txt/
-description: Sample code for json to txt C# conversion. Use API example code for batch json files to txt conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert JSON to TXT format in C# code. Save JSON as TXT using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

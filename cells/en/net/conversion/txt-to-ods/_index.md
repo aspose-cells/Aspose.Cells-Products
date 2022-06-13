@@ -1,7 +1,7 @@
 ---
 title: Convert TXT to ODS via C#
 url: /net/conversion/txt-to-ods/
-description: Sample code for txt to ods C# conversion. Use API example code for batch txt files to ods conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert TXT to ODS format in C# code. Save TXT as ODS using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

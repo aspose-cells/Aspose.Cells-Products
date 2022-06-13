@@ -1,7 +1,7 @@
 ---
 title: Convert MHTML to GIF via Java 
 url: /java/conversion/mhtml-to-gif/
-description: Sample Java conversion code for MHTML format to GIF file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to GIF within any Web or Desktop Java based Application.
+description: Convert MHTML to GIF format in Java code. Save MHTML as GIF using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

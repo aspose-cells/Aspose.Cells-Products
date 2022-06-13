@@ -1,7 +1,7 @@
 ---
 title: Convert TABDELIMITED to SXC via Java 
 url: /java/conversion/tabdelimited-to-sxc/
-description: Sample Java conversion code for TABDELIMITED format to SXC file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to SXC within any Web or Desktop Java based Application.
+description: Convert TABDELIMITED to SXC format in Java code. Save TABDELIMITED as SXC using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

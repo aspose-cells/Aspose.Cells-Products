@@ -1,7 +1,7 @@
 ---
 title: Convert NUMBERS to MARKDOWN via Python
 url: /python-java/conversion/numbers-to-markdown/
-description: Sample code for numbers to markdown Python conversion. Use API example code for batch numbers files to markdown conversion within Python application.
+description: Convert NUMBERS to MARKDOWN format in Python code. Save NUMBERS as MARKDOWN using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

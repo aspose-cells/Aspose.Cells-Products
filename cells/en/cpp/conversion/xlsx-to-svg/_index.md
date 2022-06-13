@@ -1,7 +1,7 @@
 ---
-title: Convert XLSX to SVG via C++ application 
+title: Convert XLSX to SVG via C++
 url: /cpp/conversion/xlsx-to-svg/
-description: Sample C++ conversion code for XLSX to SVG format. Programmers can use this source code for batch XLSX to SVG conversion within any C++ Application.
+description: Convert XLSX to SVG format in C++ code. Save XLSX as SVG using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

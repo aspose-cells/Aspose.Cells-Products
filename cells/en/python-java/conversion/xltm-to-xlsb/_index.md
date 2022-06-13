@@ -1,7 +1,7 @@
 ---
 title: Convert XLTM to XLSB via Python
 url: /python-java/conversion/xltm-to-xlsb/
-description: Sample code for xltm to xlsb Python conversion. Use API example code for batch xltm files to xlsb conversion within Python application.
+description: Convert XLTM to XLSB format in Python code. Save XLTM as XLSB using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

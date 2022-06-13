@@ -1,7 +1,7 @@
 ---
 title: Convert XLSX to TXT via C#
 url: /net/conversion/xlsx-to-txt/
-description: Sample code for xlsx to txt C# conversion. Use API example code for batch xlsx files to txt conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert XLSX to TXT format in C# code. Save XLSX as TXT using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

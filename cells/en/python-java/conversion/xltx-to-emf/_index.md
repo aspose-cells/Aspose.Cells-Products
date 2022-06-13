@@ -1,7 +1,7 @@
 ---
 title: Convert XLTX to EMF via Python
 url: /python-java/conversion/xltx-to-emf/
-description: Sample code for xltx to emf Python conversion. Use API example code for batch xltx files to emf conversion within Python application.
+description: Convert XLTX to EMF format in Python code. Save XLTX as EMF using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

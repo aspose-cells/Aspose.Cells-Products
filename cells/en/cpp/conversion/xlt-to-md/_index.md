@@ -1,7 +1,7 @@
 ---
-title: Convert XLT to MD via C++ application 
+title: Convert XLT to MD via C++
 url: /cpp/conversion/xlt-to-md/
-description: Sample C++ conversion code for XLT to MD format. Programmers can use this source code for batch XLT to MD conversion within any C++ Application.
+description: Convert XLT to MD format in C++ code. Save XLT as MD using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

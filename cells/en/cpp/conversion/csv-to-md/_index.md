@@ -1,7 +1,7 @@
 ---
-title: Convert CSV to MD via C++ application 
+title: Convert CSV to MD via C++
 url: /cpp/conversion/csv-to-md/
-description: Sample C++ conversion code for CSV to MD format. Programmers can use this source code for batch CSV to MD conversion within any C++ Application.
+description: Convert CSV to MD format in C++ code. Save CSV as MD using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

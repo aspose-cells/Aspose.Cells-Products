@@ -1,7 +1,7 @@
 ---
 title: Convert MHTML to DOCX via C#
 url: /net/conversion/mhtml-to-docx/
-description: Sample code for mhtml to docx C# conversion. Use API example code for batch mhtml files to docx conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert MHTML to DOCX format in C# code. Save MHTML as DOCX using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Convert XLT to SXC via Java 
 url: /java/conversion/xlt-to-sxc/
-description: Sample Java conversion code for XLT format to SXC file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to SXC within any Web or Desktop Java based Application.
+description: Convert XLT to SXC format in Java code. Save XLT as SXC using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

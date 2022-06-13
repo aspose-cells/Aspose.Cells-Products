@@ -1,7 +1,7 @@
 ---
 title: Convert HTML to TSV via Java 
 url: /java/conversion/html-to-tsv/
-description: Sample Java conversion code for HTML format to TSV file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to TSV within any Web or Desktop Java based Application.
+description: Convert HTML to TSV format in Java code. Save HTML as TSV using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

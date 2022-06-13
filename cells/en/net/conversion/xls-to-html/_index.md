@@ -1,7 +1,7 @@
 ---
 title: Convert XLS to HTML via C#
 url: /net/conversion/xls-to-html/
-description: Sample code for xls to html C# conversion. Use API example code for batch xls files to html conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert XLS to HTML format in C# code. Save XLS as HTML using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

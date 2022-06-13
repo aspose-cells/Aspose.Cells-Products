@@ -1,7 +1,7 @@
 ---
 title: Convert FODS to GIF via C#
 url: /net/conversion/fods-to-gif/
-description: Sample code for fods to gif C# conversion. Use API example code for batch fods files to gif conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert FODS to GIF format in C# code. Save FODS as GIF using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: Convert XLS to HTML via C++ application 
+title: Convert XLS to HTML via C++
 url: /cpp/conversion/xls-to-html/
-description: Sample C++ conversion code for XLS to HTML format. Programmers can use this source code for batch XLS to HTML conversion within any C++ Application.
+description: Convert XLS to HTML format in C++ code. Save XLS as HTML using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

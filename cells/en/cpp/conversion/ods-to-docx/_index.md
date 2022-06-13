@@ -1,7 +1,7 @@
 ---
-title: Convert ODS to DOCX via C++ application 
+title: Convert ODS to DOCX via C++
 url: /cpp/conversion/ods-to-docx/
-description: Sample C++ conversion code for ODS to DOCX format. Programmers can use this source code for batch ODS to DOCX conversion within any C++ Application.
+description: Convert ODS to DOCX format in C++ code. Save ODS as DOCX using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

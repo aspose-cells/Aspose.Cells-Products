@@ -1,7 +1,7 @@
 ---
 title: Convert FODS to JPG via Java 
 url: /java/conversion/fods-to-jpg/
-description: Sample Java conversion code for FODS format to JPG file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to JPG within any Web or Desktop Java based Application.
+description: Convert FODS to JPG format in Java code. Save FODS as JPG using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

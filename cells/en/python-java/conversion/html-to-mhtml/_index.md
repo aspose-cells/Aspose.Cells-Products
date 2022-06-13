@@ -1,7 +1,7 @@
 ---
 title: Convert HTML to MHTML via Python
 url: /python-java/conversion/html-to-mhtml/
-description: Sample code for html to mhtml Python conversion. Use API example code for batch html files to mhtml conversion within Python application.
+description: Convert HTML to MHTML format in Python code. Save HTML as MHTML using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

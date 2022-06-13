@@ -1,7 +1,7 @@
 ---
-title: Convert FODS to MD via C++ application 
+title: Convert FODS to MD via C++
 url: /cpp/conversion/fods-to-md/
-description: Sample C++ conversion code for FODS to MD format. Programmers can use this source code for batch FODS to MD conversion within any C++ Application.
+description: Convert FODS to MD format in C++ code. Save FODS as MD using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Convert XLTX to XLSX via C#
 url: /net/conversion/xltx-to-xlsx/
-description: Sample code for xltx to xlsx C# conversion. Use API example code for batch xltx files to xlsx conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert XLTX to XLSX format in C# code. Save XLTX as XLSX using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

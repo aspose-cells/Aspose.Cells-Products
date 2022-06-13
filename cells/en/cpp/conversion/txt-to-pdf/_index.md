@@ -1,7 +1,7 @@
 ---
-title: Convert TXT to PDF via C++ application 
+title: Convert TXT to PDF via C++
 url: /cpp/conversion/txt-to-pdf/
-description: Sample C++ conversion code for TXT to PDF format. Programmers can use this source code for batch TXT to PDF conversion within any C++ Application.
+description: Convert TXT to PDF format in C++ code. Save TXT as PDF using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

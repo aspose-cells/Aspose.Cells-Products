@@ -1,7 +1,7 @@
 ---
-title: Convert TXT to XLAM via C++ application 
+title: Convert TXT to XLAM via C++
 url: /cpp/conversion/txt-to-xlam/
-description: Sample C++ conversion code for TXT to XLAM format. Programmers can use this source code for batch TXT to XLAM conversion within any C++ Application.
+description: Convert TXT to XLAM format in C++ code. Save TXT as XLAM using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: Convert FODS to XLSM via C++ application 
+title: Convert FODS to XLSM via C++
 url: /cpp/conversion/fods-to-xlsm/
-description: Sample C++ conversion code for FODS to XLSM format. Programmers can use this source code for batch FODS to XLSM conversion within any C++ Application.
+description: Convert FODS to XLSM format in C++ code. Save FODS as XLSM using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

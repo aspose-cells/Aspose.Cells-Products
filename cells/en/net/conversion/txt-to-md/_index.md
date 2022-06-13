@@ -1,7 +1,7 @@
 ---
 title: Convert TXT to MD via C#
 url: /net/conversion/txt-to-md/
-description: Sample code for txt to md C# conversion. Use API example code for batch txt files to md conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert TXT to MD format in C# code. Save TXT as MD using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

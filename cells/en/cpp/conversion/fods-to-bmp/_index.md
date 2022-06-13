@@ -1,7 +1,7 @@
 ---
-title: Convert FODS to BMP via C++ application 
+title: Convert FODS to BMP via C++
 url: /cpp/conversion/fods-to-bmp/
-description: Sample C++ conversion code for FODS to BMP format. Programmers can use this source code for batch FODS to BMP conversion within any C++ Application.
+description: Convert FODS to BMP format in C++ code. Save FODS as BMP using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

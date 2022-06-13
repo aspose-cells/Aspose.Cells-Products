@@ -1,7 +1,7 @@
 ---
 title: Convert NUMBERS to SVG via Python
 url: /python-java/conversion/numbers-to-svg/
-description: Sample code for numbers to svg Python conversion. Use API example code for batch numbers files to svg conversion within Python application.
+description: Convert NUMBERS to SVG format in Python code. Save NUMBERS as SVG using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

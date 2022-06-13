@@ -1,7 +1,7 @@
 ---
 title: Convert FODS to XLS via C#
 url: /net/conversion/fods-to-xls/
-description: Sample code for fods to xls C# conversion. Use API example code for batch fods files to xls conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert FODS to XLS format in C# code. Save FODS as XLS using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

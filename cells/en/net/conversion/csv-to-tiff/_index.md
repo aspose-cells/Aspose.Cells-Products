@@ -1,7 +1,7 @@
 ---
 title: Convert CSV to TIFF via C#
 url: /net/conversion/csv-to-tiff/
-description: Sample code for csv to tiff C# conversion. Use API example code for batch csv files to tiff conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert CSV to TIFF format in C# code. Save CSV as TIFF using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

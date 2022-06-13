@@ -1,7 +1,7 @@
 ---
 title: Convert XLSM to FODS via Java 
 url: /java/conversion/xlsm-to-fods/
-description: Sample Java conversion code for XLSM format to FODS file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to FODS within any Web or Desktop Java based Application.
+description: Convert XLSM to FODS format in Java code. Save XLSM as FODS using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

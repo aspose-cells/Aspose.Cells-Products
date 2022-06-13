@@ -1,7 +1,7 @@
 ---
 title: Convert CSV to XLSM via Python
 url: /python-java/conversion/csv-to-xlsm/
-description: Sample code for csv to xlsm Python conversion. Use API example code for batch csv files to xlsm conversion within Python application.
+description: Convert CSV to XLSM format in Python code. Save CSV as XLSM using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

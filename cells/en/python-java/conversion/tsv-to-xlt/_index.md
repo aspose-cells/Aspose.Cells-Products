@@ -1,7 +1,7 @@
 ---
 title: Convert TSV to XLT via Python
 url: /python-java/conversion/tsv-to-xlt/
-description: Sample code for tsv to xlt Python conversion. Use API example code for batch tsv files to xlt conversion within Python application.
+description: Convert TSV to XLT format in Python code. Save TSV as XLT using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

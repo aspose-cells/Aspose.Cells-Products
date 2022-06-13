@@ -1,7 +1,7 @@
 ---
-title: Convert CSV to JSON via C++ application 
+title: Convert CSV to JSON via C++
 url: /cpp/conversion/csv-to-json/
-description: Sample C++ conversion code for CSV to JSON format. Programmers can use this source code for batch CSV to JSON conversion within any C++ Application.
+description: Convert CSV to JSON format in C++ code. Save CSV as JSON using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

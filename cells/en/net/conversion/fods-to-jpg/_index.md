@@ -1,7 +1,7 @@
 ---
 title: Convert FODS to JPG via C#
 url: /net/conversion/fods-to-jpg/
-description: Sample code for fods to jpg C# conversion. Use API example code for batch fods files to jpg conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert FODS to JPG format in C# code. Save FODS as JPG using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

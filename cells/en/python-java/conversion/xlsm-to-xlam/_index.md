@@ -1,7 +1,7 @@
 ---
 title: Convert XLSM to XLAM via Python
 url: /python-java/conversion/xlsm-to-xlam/
-description: Sample code for xlsm to xlam Python conversion. Use API example code for batch xlsm files to xlam conversion within Python application.
+description: Convert XLSM to XLAM format in Python code. Save XLSM as XLAM using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

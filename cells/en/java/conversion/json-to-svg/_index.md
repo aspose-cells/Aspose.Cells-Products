@@ -1,7 +1,7 @@
 ---
 title: Convert JSON to SVG via Java 
 url: /java/conversion/json-to-svg/
-description: Sample Java conversion code for JSON format to SVG file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to SVG within any Web or Desktop Java based Application.
+description: Convert JSON to SVG format in Java code. Save JSON as SVG using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

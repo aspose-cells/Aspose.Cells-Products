@@ -1,7 +1,7 @@
 ---
-title: Convert MHTML to GIF via C++ application 
+title: Convert MHTML to GIF via C++
 url: /cpp/conversion/mhtml-to-gif/
-description: Sample C++ conversion code for MHTML to GIF format. Programmers can use this source code for batch MHTML to GIF conversion within any C++ Application.
+description: Convert MHTML to GIF format in C++ code. Save MHTML as GIF using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

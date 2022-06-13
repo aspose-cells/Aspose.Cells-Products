@@ -1,7 +1,7 @@
 ---
 title: Convert XLS to SPREADSHEETML via C#
 url: /net/conversion/xls-to-spreadsheetml/
-description: Sample code for xls to spreadsheetml C# conversion. Use API example code for batch xls files to spreadsheetml conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert XLS to SPREADSHEETML format in C# code. Save XLS as SPREADSHEETML using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

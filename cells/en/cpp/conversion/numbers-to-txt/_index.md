@@ -1,7 +1,7 @@
 ---
-title: Convert NUMBERS to TXT via C++ application 
+title: Convert NUMBERS to TXT via C++
 url: /cpp/conversion/numbers-to-txt/
-description: Sample C++ conversion code for NUMBERS to TXT format. Programmers can use this source code for batch NUMBERS to TXT conversion within any C++ Application.
+description: Convert NUMBERS to TXT format in C++ code. Save NUMBERS as TXT using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

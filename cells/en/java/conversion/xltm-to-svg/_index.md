@@ -1,7 +1,7 @@
 ---
 title: Convert XLTM to SVG via Java 
 url: /java/conversion/xltm-to-svg/
-description: Sample Java conversion code for XLTM format to SVG file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to SVG within any Web or Desktop Java based Application.
+description: Convert XLTM to SVG format in Java code. Save XLTM as SVG using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

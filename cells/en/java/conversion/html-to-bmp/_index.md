@@ -1,7 +1,7 @@
 ---
 title: Convert HTML to BMP via Java 
 url: /java/conversion/html-to-bmp/
-description: Sample Java conversion code for HTML format to BMP file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to BMP within any Web or Desktop Java based Application.
+description: Convert HTML to BMP format in Java code. Save HTML as BMP using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

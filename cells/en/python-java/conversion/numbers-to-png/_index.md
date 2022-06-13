@@ -1,7 +1,7 @@
 ---
 title: Convert NUMBERS to PNG via Python
 url: /python-java/conversion/numbers-to-png/
-description: Sample code for numbers to png Python conversion. Use API example code for batch numbers files to png conversion within Python application.
+description: Convert NUMBERS to PNG format in Python code. Save NUMBERS as PNG using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Convert XLTX to PNG via Java 
 url: /java/conversion/xltx-to-png/
-description: Sample Java conversion code for XLTX format to PNG file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to PNG within any Web or Desktop Java based Application.
+description: Convert XLTX to PNG format in Java code. Save XLTX as PNG using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

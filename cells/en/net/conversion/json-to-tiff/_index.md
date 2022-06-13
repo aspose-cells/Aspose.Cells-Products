@@ -1,7 +1,7 @@
 ---
 title: Convert JSON to TIFF via C#
 url: /net/conversion/json-to-tiff/
-description: Sample code for json to tiff C# conversion. Use API example code for batch json files to tiff conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert JSON to TIFF format in C# code. Save JSON as TIFF using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

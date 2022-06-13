@@ -1,7 +1,7 @@
 ---
 title: Convert SPREADSHEETML to XLTM via Java 
 url: /java/conversion/spreadsheetml-to-xltm/
-description: Sample Java conversion code for SPREADSHEETML format to XLTM file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to XLTM within any Web or Desktop Java based Application.
+description: Convert SPREADSHEETML to XLTM format in Java code. Save SPREADSHEETML as XLTM using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

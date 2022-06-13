@@ -1,7 +1,7 @@
 ---
 title: Convert SPREADSHEETML to TSV via Python
 url: /python-java/conversion/spreadsheetml-to-tsv/
-description: Sample code for spreadsheetml to tsv Python conversion. Use API example code for batch spreadsheetml files to tsv conversion within Python application.
+description: Convert SPREADSHEETML to TSV format in Python code. Save SPREADSHEETML as TSV using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

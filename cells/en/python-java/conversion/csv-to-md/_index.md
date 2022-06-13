@@ -1,7 +1,7 @@
 ---
 title: Convert CSV to MD via Python
 url: /python-java/conversion/csv-to-md/
-description: Sample code for csv to md Python conversion. Use API example code for batch csv files to md conversion within Python application.
+description: Convert CSV to MD format in Python code. Save CSV as MD using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: Convert SXC to DOCX via C++ application 
+title: Convert SXC to DOCX via C++
 url: /cpp/conversion/sxc-to-docx/
-description: Sample C++ conversion code for SXC to DOCX format. Programmers can use this source code for batch SXC to DOCX conversion within any C++ Application.
+description: Convert SXC to DOCX format in C++ code. Save SXC as DOCX using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

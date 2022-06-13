@@ -1,7 +1,7 @@
 ---
 title: Convert NUMBERS to JSON via Python
 url: /python-java/conversion/numbers-to-json/
-description: Sample code for numbers to json Python conversion. Use API example code for batch numbers files to json conversion within Python application.
+description: Convert NUMBERS to JSON format in Python code. Save NUMBERS as JSON using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Convert ODS to XLSX via C#
 url: /net/conversion/ods-to-xlsx/
-description: Sample code for ods to xlsx C# conversion. Use API example code for batch ods files to xlsx conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert ODS to XLSX format in C# code. Save ODS as XLSX using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

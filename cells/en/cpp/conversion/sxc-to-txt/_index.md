@@ -1,7 +1,7 @@
 ---
-title: Convert SXC to TXT via C++ application 
+title: Convert SXC to TXT via C++
 url: /cpp/conversion/sxc-to-txt/
-description: Sample C++ conversion code for SXC to TXT format. Programmers can use this source code for batch SXC to TXT conversion within any C++ Application.
+description: Convert SXC to TXT format in C++ code. Save SXC as TXT using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

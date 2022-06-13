@@ -1,7 +1,7 @@
 ---
-title: Convert NUMBERS to SXC via C++ application 
+title: Convert NUMBERS to SXC via C++
 url: /cpp/conversion/numbers-to-sxc/
-description: Sample C++ conversion code for NUMBERS to SXC format. Programmers can use this source code for batch NUMBERS to SXC conversion within any C++ Application.
+description: Convert NUMBERS to SXC format in C++ code. Save NUMBERS as SXC using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Convert ODS to SPREADSHEETML via C#
 url: /net/conversion/ods-to-spreadsheetml/
-description: Sample code for ods to spreadsheetml C# conversion. Use API example code for batch ods files to spreadsheetml conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert ODS to SPREADSHEETML format in C# code. Save ODS as SPREADSHEETML using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

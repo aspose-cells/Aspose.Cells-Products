@@ -1,7 +1,7 @@
 ---
 title: Convert ODS to GIF via Python
 url: /python-java/conversion/ods-to-gif/
-description: Sample code for ods to gif Python conversion. Use API example code for batch ods files to gif conversion within Python application.
+description: Convert ODS to GIF format in Python code. Save ODS as GIF using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

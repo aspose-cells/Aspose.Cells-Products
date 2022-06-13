@@ -1,7 +1,7 @@
 ---
 title: Convert TXT to PNG via Python
 url: /python-java/conversion/txt-to-png/
-description: Sample code for txt to png Python conversion. Use API example code for batch txt files to png conversion within Python application.
+description: Convert TXT to PNG format in Python code. Save TXT as PNG using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

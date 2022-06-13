@@ -1,7 +1,7 @@
 ---
 title: Convert TXT to PDF via Java 
 url: /java/conversion/txt-to-pdf/
-description: Sample Java conversion code for TXT format to PDF file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to PDF within any Web or Desktop Java based Application.
+description: Convert TXT to PDF format in Java code. Save TXT as PDF using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: Convert TXT to MD via C++ application 
+title: Convert TXT to MD via C++
 url: /cpp/conversion/txt-to-md/
-description: Sample C++ conversion code for TXT to MD format. Programmers can use this source code for batch TXT to MD conversion within any C++ Application.
+description: Convert TXT to MD format in C++ code. Save TXT as MD using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

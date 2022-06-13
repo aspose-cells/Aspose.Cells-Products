@@ -1,7 +1,7 @@
 ---
 title: Convert TABDELIMITED to TIFF via C#
 url: /net/conversion/tabdelimited-to-tiff/
-description: Sample code for tabdelimited to tiff C# conversion. Use API example code for batch tabdelimited files to tiff conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert TABDELIMITED to TIFF format in C# code. Save TABDELIMITED as TIFF using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

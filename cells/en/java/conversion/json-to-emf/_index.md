@@ -1,7 +1,7 @@
 ---
 title: Convert JSON to EMF via Java 
 url: /java/conversion/json-to-emf/
-description: Sample Java conversion code for JSON format to EMF file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to EMF within any Web or Desktop Java based Application.
+description: Convert JSON to EMF format in Java code. Save JSON as EMF using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Convert TSV to SVG via Java 
 url: /java/conversion/tsv-to-svg/
-description: Sample Java conversion code for TSV format to SVG file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to SVG within any Web or Desktop Java based Application.
+description: Convert TSV to SVG format in Java code. Save TSV as SVG using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

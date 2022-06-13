@@ -1,7 +1,7 @@
 ---
-title: Convert SXC to TIFF via C++ application 
+title: Convert SXC to TIFF via C++
 url: /cpp/conversion/sxc-to-tiff/
-description: Sample C++ conversion code for SXC to TIFF format. Programmers can use this source code for batch SXC to TIFF conversion within any C++ Application.
+description: Convert SXC to TIFF format in C++ code. Save SXC as TIFF using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

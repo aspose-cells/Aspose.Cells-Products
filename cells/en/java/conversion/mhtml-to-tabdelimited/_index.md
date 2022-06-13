@@ -1,7 +1,7 @@
 ---
 title: Convert MHTML to TABDELIMITED via Java 
 url: /java/conversion/mhtml-to-tabdelimited/
-description: Sample Java conversion code for MHTML format to TABDELIMITED file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to TABDELIMITED within any Web or Desktop Java based Application.
+description: Convert MHTML to TABDELIMITED format in Java code. Save MHTML as TABDELIMITED using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

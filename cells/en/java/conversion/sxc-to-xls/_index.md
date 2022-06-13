@@ -1,7 +1,7 @@
 ---
 title: Convert SXC to XLS via Java 
 url: /java/conversion/sxc-to-xls/
-description: Sample Java conversion code for SXC format to XLS file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to XLS within any Web or Desktop Java based Application.
+description: Convert SXC to XLS format in Java code. Save SXC as XLS using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

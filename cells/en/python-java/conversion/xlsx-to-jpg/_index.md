@@ -1,7 +1,7 @@
 ---
 title: Convert XLSX to JPG via Python
 url: /python-java/conversion/xlsx-to-jpg/
-description: Sample code for xlsx to jpg Python conversion. Use API example code for batch xlsx files to jpg conversion within Python application.
+description: Convert XLSX to JPG format in Python code. Save XLSX as JPG using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

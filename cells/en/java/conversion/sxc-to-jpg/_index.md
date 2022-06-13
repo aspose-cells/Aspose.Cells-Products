@@ -1,7 +1,7 @@
 ---
 title: Convert SXC to JPG via Java 
 url: /java/conversion/sxc-to-jpg/
-description: Sample Java conversion code for SXC format to JPG file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to JPG within any Web or Desktop Java based Application.
+description: Convert SXC to JPG format in Java code. Save SXC as JPG using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

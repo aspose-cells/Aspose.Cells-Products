@@ -1,7 +1,7 @@
 ---
 title: Convert XLSX to SXC via C#
 url: /net/conversion/xlsx-to-sxc/
-description: Sample code for xlsx to sxc C# conversion. Use API example code for batch xlsx files to sxc conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert XLSX to SXC format in C# code. Save XLSX as SXC using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

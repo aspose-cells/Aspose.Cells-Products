@@ -1,7 +1,7 @@
 ---
 title: Convert NUMBERS to XLTM via C#
 url: /net/conversion/numbers-to-xltm/
-description: Sample code for numbers to xltm C# conversion. Use API example code for batch numbers files to xltm conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert NUMBERS to XLTM format in C# code. Save NUMBERS as XLTM using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

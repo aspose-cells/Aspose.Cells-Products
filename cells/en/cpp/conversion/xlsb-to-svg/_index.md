@@ -1,7 +1,7 @@
 ---
-title: Convert XLSB to SVG via C++ application 
+title: Convert XLSB to SVG via C++
 url: /cpp/conversion/xlsb-to-svg/
-description: Sample C++ conversion code for XLSB to SVG format. Programmers can use this source code for batch XLSB to SVG conversion within any C++ Application.
+description: Convert XLSB to SVG format in C++ code. Save XLSB as SVG using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

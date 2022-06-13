@@ -1,7 +1,7 @@
 ---
 title: Convert XLTX to XLTM via Java 
 url: /java/conversion/xltx-to-xltm/
-description: Sample Java conversion code for XLTX format to XLTM file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to XLTM within any Web or Desktop Java based Application.
+description: Convert XLTX to XLTM format in Java code. Save XLTX as XLTM using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Convert XLSB to XPS via Java 
 url: /java/conversion/xlsb-to-xps/
-description: Sample Java conversion code for XLSB format to XPS file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to XPS within any Web or Desktop Java based Application.
+description: Convert XLSB to XPS format in Java code. Save XLSB as XPS using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

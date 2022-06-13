@@ -1,7 +1,7 @@
 ---
 title: Convert FODS to HTML via Java 
 url: /java/conversion/fods-to-html/
-description: Sample Java conversion code for FODS format to HTML file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to HTML within any Web or Desktop Java based Application.
+description: Convert FODS to HTML format in Java code. Save FODS as HTML using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

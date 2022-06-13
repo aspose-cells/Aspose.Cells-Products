@@ -1,7 +1,7 @@
 ---
 title: Convert HTML to SPREADSHEETML via Python
 url: /python-java/conversion/html-to-spreadsheetml/
-description: Sample code for html to spreadsheetml Python conversion. Use API example code for batch html files to spreadsheetml conversion within Python application.
+description: Convert HTML to SPREADSHEETML format in Python code. Save HTML as SPREADSHEETML using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

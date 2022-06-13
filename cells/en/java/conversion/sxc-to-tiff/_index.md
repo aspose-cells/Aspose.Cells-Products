@@ -1,7 +1,7 @@
 ---
 title: Convert SXC to TIFF via Java 
 url: /java/conversion/sxc-to-tiff/
-description: Sample Java conversion code for SXC format to TIFF file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to TIFF within any Web or Desktop Java based Application.
+description: Convert SXC to TIFF format in Java code. Save SXC as TIFF using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

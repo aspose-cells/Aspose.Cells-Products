@@ -1,7 +1,7 @@
 ---
 title: Convert XLTM to DIF via Java 
 url: /java/conversion/xltm-to-dif/
-description: Sample Java conversion code for XLTM format to DIF file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to DIF within any Web or Desktop Java based Application.
+description: Convert XLTM to DIF format in Java code. Save XLTM as DIF using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Convert JPG to DOCX via Java 
 url: /java/conversion/jpg-to-docx/
-description: Sample Java conversion code for JPG format to DOCX file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to DOCX within any Web or Desktop Java based Application.
+description: Convert JPG to DOCX format in Java code. Save JPG as DOCX using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: Convert CSV to TSV via C++ application 
+title: Convert CSV to TSV via C++
 url: /cpp/conversion/csv-to-tsv/
-description: Sample C++ conversion code for CSV to TSV format. Programmers can use this source code for batch CSV to TSV conversion within any C++ Application.
+description: Convert CSV to TSV format in C++ code. Save CSV as TSV using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

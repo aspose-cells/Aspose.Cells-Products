@@ -1,7 +1,7 @@
 ---
-title: Convert HTML to XLSB via C++ application 
+title: Convert HTML to XLSB via C++
 url: /cpp/conversion/html-to-xlsb/
-description: Sample C++ conversion code for HTML to XLSB format. Programmers can use this source code for batch HTML to XLSB conversion within any C++ Application.
+description: Convert HTML to XLSB format in C++ code. Save HTML as XLSB using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

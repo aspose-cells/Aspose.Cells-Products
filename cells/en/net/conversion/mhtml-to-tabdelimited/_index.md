@@ -1,7 +1,7 @@
 ---
 title: Convert MHTML to TABDELIMITED via C#
 url: /net/conversion/mhtml-to-tabdelimited/
-description: Sample code for mhtml to tabdelimited C# conversion. Use API example code for batch mhtml files to tabdelimited conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert MHTML to TABDELIMITED format in C# code. Save MHTML as TABDELIMITED using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

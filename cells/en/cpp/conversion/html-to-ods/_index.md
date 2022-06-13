@@ -1,7 +1,7 @@
 ---
-title: Convert HTML to ODS via C++ application 
+title: Convert HTML to ODS via C++
 url: /cpp/conversion/html-to-ods/
-description: Sample C++ conversion code for HTML to ODS format. Programmers can use this source code for batch HTML to ODS conversion within any C++ Application.
+description: Convert HTML to ODS format in C++ code. Save HTML as ODS using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

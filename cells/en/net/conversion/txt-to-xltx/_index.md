@@ -1,7 +1,7 @@
 ---
 title: Convert TXT to XLTX via C#
 url: /net/conversion/txt-to-xltx/
-description: Sample code for txt to xltx C# conversion. Use API example code for batch txt files to xltx conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert TXT to XLTX format in C# code. Save TXT as XLTX using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

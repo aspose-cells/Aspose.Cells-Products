@@ -1,7 +1,7 @@
 ---
-title: Convert TSV to JPEG via C++ application 
+title: Convert TSV to JPEG via C++
 url: /cpp/conversion/tsv-to-jpeg/
-description: Sample C++ conversion code for TSV to JPEG format. Programmers can use this source code for batch TSV to JPEG conversion within any C++ Application.
+description: Convert TSV to JPEG format in C++ code. Save TSV as JPEG using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

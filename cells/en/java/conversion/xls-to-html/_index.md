@@ -1,7 +1,7 @@
 ---
 title: Convert XLS to HTML via Java 
 url: /java/conversion/xls-to-html/
-description: Sample Java conversion code for XLS format to HTML file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to HTML within any Web or Desktop Java based Application.
+description: Convert XLS to HTML format in Java code. Save XLS as HTML using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

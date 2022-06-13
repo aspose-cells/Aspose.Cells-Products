@@ -1,7 +1,7 @@
 ---
 title: Convert SPREADSHEETML to PDF via Python
 url: /python-java/conversion/spreadsheetml-to-pdf/
-description: Sample code for spreadsheetml to pdf Python conversion. Use API example code for batch spreadsheetml files to pdf conversion within Python application.
+description: Convert SPREADSHEETML to PDF format in Python code. Save SPREADSHEETML as PDF using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

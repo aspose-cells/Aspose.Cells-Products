@@ -1,7 +1,7 @@
 ---
 title: Convert XLT to XLS via Java 
 url: /java/conversion/xlt-to-xls/
-description: Sample Java conversion code for XLT format to XLS file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to XLS within any Web or Desktop Java based Application.
+description: Convert XLT to XLS format in Java code. Save XLT as XLS using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

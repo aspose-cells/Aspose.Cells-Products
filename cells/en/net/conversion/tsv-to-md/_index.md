@@ -1,7 +1,7 @@
 ---
 title: Convert TSV to MD via C#
 url: /net/conversion/tsv-to-md/
-description: Sample code for tsv to md C# conversion. Use API example code for batch tsv files to md conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert TSV to MD format in C# code. Save TSV as MD using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

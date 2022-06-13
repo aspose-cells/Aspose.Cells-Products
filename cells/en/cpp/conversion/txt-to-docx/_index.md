@@ -1,7 +1,7 @@
 ---
-title: Convert TXT to DOCX via C++ application 
+title: Convert TXT to DOCX via C++
 url: /cpp/conversion/txt-to-docx/
-description: Sample C++ conversion code for TXT to DOCX format. Programmers can use this source code for batch TXT to DOCX conversion within any C++ Application.
+description: Convert TXT to DOCX format in C++ code. Save TXT as DOCX using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

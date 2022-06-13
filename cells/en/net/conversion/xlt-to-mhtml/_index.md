@@ -1,7 +1,7 @@
 ---
 title: Convert XLT to MHTML via C#
 url: /net/conversion/xlt-to-mhtml/
-description: Sample code for xlt to mhtml C# conversion. Use API example code for batch xlt files to mhtml conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert XLT to MHTML format in C# code. Save XLT as MHTML using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

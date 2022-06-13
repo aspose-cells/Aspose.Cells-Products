@@ -1,7 +1,7 @@
 ---
 title: Convert XLSM to XLTX via C#
 url: /net/conversion/xlsm-to-xltx/
-description: Sample code for xlsm to xltx C# conversion. Use API example code for batch xlsm files to xltx conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert XLSM to XLTX format in C# code. Save XLSM as XLTX using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

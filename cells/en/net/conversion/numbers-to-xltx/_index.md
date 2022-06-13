@@ -1,7 +1,7 @@
 ---
 title: Convert NUMBERS to XLTX via C#
 url: /net/conversion/numbers-to-xltx/
-description: Sample code for numbers to xltx C# conversion. Use API example code for batch numbers files to xltx conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert NUMBERS to XLTX format in C# code. Save NUMBERS as XLTX using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: Convert MHTML to XPS via C++ application 
+title: Convert MHTML to XPS via C++
 url: /cpp/conversion/mhtml-to-xps/
-description: Sample C++ conversion code for MHTML to XPS format. Programmers can use this source code for batch MHTML to XPS conversion within any C++ Application.
+description: Convert MHTML to XPS format in C++ code. Save MHTML as XPS using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

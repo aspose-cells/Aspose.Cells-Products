@@ -1,7 +1,7 @@
 ---
 title: Convert XLT to TXT via C#
 url: /net/conversion/xlt-to-txt/
-description: Sample code for xlt to txt C# conversion. Use API example code for batch xlt files to txt conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert XLT to TXT format in C# code. Save XLT as TXT using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

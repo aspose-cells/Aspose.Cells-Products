@@ -1,7 +1,7 @@
 ---
 title: Convert CSV to XLTX via Python
 url: /python-java/conversion/csv-to-xltx/
-description: Sample code for csv to xltx Python conversion. Use API example code for batch csv files to xltx conversion within Python application.
+description: Convert CSV to XLTX format in Python code. Save CSV as XLTX using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

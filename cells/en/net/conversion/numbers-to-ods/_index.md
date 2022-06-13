@@ -1,7 +1,7 @@
 ---
 title: Convert NUMBERS to ODS via C#
 url: /net/conversion/numbers-to-ods/
-description: Sample code for numbers to ods C# conversion. Use API example code for batch numbers files to ods conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert NUMBERS to ODS format in C# code. Save NUMBERS as ODS using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

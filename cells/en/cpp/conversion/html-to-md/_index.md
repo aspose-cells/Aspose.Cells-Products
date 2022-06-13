@@ -1,7 +1,7 @@
 ---
-title: Convert HTML to MD via C++ application 
+title: Convert HTML to MD via C++
 url: /cpp/conversion/html-to-md/
-description: Sample C++ conversion code for HTML to MD format. Programmers can use this source code for batch HTML to MD conversion within any C++ Application.
+description: Convert HTML to MD format in C++ code. Save HTML as MD using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

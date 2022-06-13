@@ -1,7 +1,7 @@
 ---
 title: Convert XLSB to TABDELIMITED via Java 
 url: /java/conversion/xlsb-to-tabdelimited/
-description: Sample Java conversion code for XLSB format to TABDELIMITED file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to TABDELIMITED within any Web or Desktop Java based Application.
+description: Convert XLSB to TABDELIMITED format in Java code. Save XLSB as TABDELIMITED using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

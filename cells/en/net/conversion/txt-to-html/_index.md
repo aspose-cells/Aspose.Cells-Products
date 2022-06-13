@@ -1,7 +1,7 @@
 ---
 title: Convert TXT to HTML via C#
 url: /net/conversion/txt-to-html/
-description: Sample code for txt to html C# conversion. Use API example code for batch txt files to html conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert TXT to HTML format in C# code. Save TXT as HTML using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

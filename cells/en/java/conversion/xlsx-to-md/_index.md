@@ -1,7 +1,7 @@
 ---
 title: Convert XLSX to MD via Java 
 url: /java/conversion/xlsx-to-md/
-description: Sample Java conversion code for XLSX format to MD file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to MD within any Web or Desktop Java based Application.
+description: Convert XLSX to MD format in Java code. Save XLSX as MD using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

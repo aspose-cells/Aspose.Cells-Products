@@ -1,7 +1,7 @@
 ---
 title: Convert XLTX to JPEG via C#
 url: /net/conversion/xltx-to-jpeg/
-description: Sample code for xltx to jpeg C# conversion. Use API example code for batch xltx files to jpeg conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert XLTX to JPEG format in C# code. Save XLTX as JPEG using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

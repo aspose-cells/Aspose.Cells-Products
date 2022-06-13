@@ -1,7 +1,7 @@
 ---
 title: Convert FODS to XML via Java 
 url: /java/conversion/fods-to-xml/
-description: Sample Java conversion code for FODS format to XML file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to XML within any Web or Desktop Java based Application.
+description: Convert FODS to XML format in Java code. Save FODS as XML using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

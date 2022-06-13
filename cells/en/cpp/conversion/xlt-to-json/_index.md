@@ -1,7 +1,7 @@
 ---
-title: Convert XLT to JSON via C++ application 
+title: Convert XLT to JSON via C++
 url: /cpp/conversion/xlt-to-json/
-description: Sample C++ conversion code for XLT to JSON format. Programmers can use this source code for batch XLT to JSON conversion within any C++ Application.
+description: Convert XLT to JSON format in C++ code. Save XLT as JSON using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

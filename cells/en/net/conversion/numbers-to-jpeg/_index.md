@@ -1,7 +1,7 @@
 ---
 title: Convert NUMBERS to JPEG via C#
 url: /net/conversion/numbers-to-jpeg/
-description: Sample code for numbers to jpeg C# conversion. Use API example code for batch numbers files to jpeg conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert NUMBERS to JPEG format in C# code. Save NUMBERS as JPEG using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

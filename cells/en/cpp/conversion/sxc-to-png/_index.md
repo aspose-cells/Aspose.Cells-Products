@@ -1,7 +1,7 @@
 ---
-title: Convert SXC to PNG via C++ application 
+title: Convert SXC to PNG via C++
 url: /cpp/conversion/sxc-to-png/
-description: Sample C++ conversion code for SXC to PNG format. Programmers can use this source code for batch SXC to PNG conversion within any C++ Application.
+description: Convert SXC to PNG format in C++ code. Save SXC as PNG using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

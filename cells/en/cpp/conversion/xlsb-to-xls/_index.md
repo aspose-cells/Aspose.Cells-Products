@@ -1,7 +1,7 @@
 ---
-title: Convert XLSB to XLS via C++ application 
+title: Convert XLSB to XLS via C++
 url: /cpp/conversion/xlsb-to-xls/
-description: Sample C++ conversion code for XLSB to XLS format. Programmers can use this source code for batch XLSB to XLS conversion within any C++ Application.
+description: Convert XLSB to XLS format in C++ code. Save XLSB as XLS using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

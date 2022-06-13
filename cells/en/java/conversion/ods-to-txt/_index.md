@@ -1,7 +1,7 @@
 ---
 title: Convert ODS to TXT via Java 
 url: /java/conversion/ods-to-txt/
-description: Sample Java conversion code for ODS format to TXT file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to TXT within any Web or Desktop Java based Application.
+description: Convert ODS to TXT format in Java code. Save ODS as TXT using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

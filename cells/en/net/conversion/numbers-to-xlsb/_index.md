@@ -1,7 +1,7 @@
 ---
 title: Convert NUMBERS to XLSB via C#
 url: /net/conversion/numbers-to-xlsb/
-description: Sample code for numbers to xlsb C# conversion. Use API example code for batch numbers files to xlsb conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert NUMBERS to XLSB format in C# code. Save NUMBERS as XLSB using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

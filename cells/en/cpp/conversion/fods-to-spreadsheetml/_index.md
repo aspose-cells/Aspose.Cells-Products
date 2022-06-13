@@ -1,7 +1,7 @@
 ---
-title: Convert FODS to SPREADSHEETML via C++ application 
+title: Convert FODS to SPREADSHEETML via C++
 url: /cpp/conversion/fods-to-spreadsheetml/
-description: Sample C++ conversion code for FODS to SPREADSHEETML format. Programmers can use this source code for batch FODS to SPREADSHEETML conversion within any C++ Application.
+description: Convert FODS to SPREADSHEETML format in C++ code. Save FODS as SPREADSHEETML using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: Convert XLT to DIF via C++ application 
+title: Convert XLT to DIF via C++
 url: /cpp/conversion/xlt-to-dif/
-description: Sample C++ conversion code for XLT to DIF format. Programmers can use this source code for batch XLT to DIF conversion within any C++ Application.
+description: Convert XLT to DIF format in C++ code. Save XLT as DIF using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

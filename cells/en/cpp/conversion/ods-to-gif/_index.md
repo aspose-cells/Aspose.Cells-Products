@@ -1,7 +1,7 @@
 ---
-title: Convert ODS to GIF via C++ application 
+title: Convert ODS to GIF via C++
 url: /cpp/conversion/ods-to-gif/
-description: Sample C++ conversion code for ODS to GIF format. Programmers can use this source code for batch ODS to GIF conversion within any C++ Application.
+description: Convert ODS to GIF format in C++ code. Save ODS as GIF using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

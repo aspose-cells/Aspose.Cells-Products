@@ -1,7 +1,7 @@
 ---
 title: Convert XLTM to MARKDOWN via C#
 url: /net/conversion/xltm-to-markdown/
-description: Sample code for xltm to markdown C# conversion. Use API example code for batch xltm files to markdown conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert XLTM to MARKDOWN format in C# code. Save XLTM as MARKDOWN using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

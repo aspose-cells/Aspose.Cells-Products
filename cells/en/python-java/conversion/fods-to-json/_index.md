@@ -1,7 +1,7 @@
 ---
 title: Convert FODS to JSON via Python
 url: /python-java/conversion/fods-to-json/
-description: Sample code for fods to json Python conversion. Use API example code for batch fods files to json conversion within Python application.
+description: Convert FODS to JSON format in Python code. Save FODS as JSON using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Convert XLSB to GIF via C#
 url: /net/conversion/xlsb-to-gif/
-description: Sample code for xlsb to gif C# conversion. Use API example code for batch xlsb files to gif conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert XLSB to GIF format in C# code. Save XLSB as GIF using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

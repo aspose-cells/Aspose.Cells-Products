@@ -1,7 +1,7 @@
 ---
 title: Convert TABDELIMITED to TIFF via Java 
 url: /java/conversion/tabdelimited-to-tiff/
-description: Sample Java conversion code for TABDELIMITED format to TIFF file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to TIFF within any Web or Desktop Java based Application.
+description: Convert TABDELIMITED to TIFF format in Java code. Save TABDELIMITED as TIFF using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

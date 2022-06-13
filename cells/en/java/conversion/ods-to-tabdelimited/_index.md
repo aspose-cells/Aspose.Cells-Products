@@ -1,7 +1,7 @@
 ---
 title: Convert ODS to TABDELIMITED via Java 
 url: /java/conversion/ods-to-tabdelimited/
-description: Sample Java conversion code for ODS format to TABDELIMITED file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to TABDELIMITED within any Web or Desktop Java based Application.
+description: Convert ODS to TABDELIMITED format in Java code. Save ODS as TABDELIMITED using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

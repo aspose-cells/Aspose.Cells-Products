@@ -1,7 +1,7 @@
 ---
 title: Convert XLS to XLSB via C#
 url: /net/conversion/xls-to-xlsb/
-description: Sample code for xls to xlsb C# conversion. Use API example code for batch xls files to xlsb conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert XLS to XLSB format in C# code. Save XLS as XLSB using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

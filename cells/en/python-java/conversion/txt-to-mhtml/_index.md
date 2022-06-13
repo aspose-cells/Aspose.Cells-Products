@@ -1,7 +1,7 @@
 ---
 title: Convert TXT to MHTML via Python
 url: /python-java/conversion/txt-to-mhtml/
-description: Sample code for txt to mhtml Python conversion. Use API example code for batch txt files to mhtml conversion within Python application.
+description: Convert TXT to MHTML format in Python code. Save TXT as MHTML using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

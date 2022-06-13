@@ -1,7 +1,7 @@
 ---
 title: Convert EXCEL to WORD via Python
 url: /python-java/conversion/excel-to-word/
-description: Sample code for excel to word Python conversion. Use API example code for batch excel files to word conversion within Python application.
+description: Convert EXCEL to WORD format in Python code. Save EXCEL as WORD using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

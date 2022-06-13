@@ -1,7 +1,7 @@
 ---
 title: Convert XLTM to XLAM via Java 
 url: /java/conversion/xltm-to-xlam/
-description: Sample Java conversion code for XLTM format to XLAM file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to XLAM within any Web or Desktop Java based Application.
+description: Convert XLTM to XLAM format in Java code. Save XLTM as XLAM using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

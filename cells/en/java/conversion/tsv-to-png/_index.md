@@ -1,7 +1,7 @@
 ---
 title: Convert TSV to PNG via Java 
 url: /java/conversion/tsv-to-png/
-description: Sample Java conversion code for TSV format to PNG file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to PNG within any Web or Desktop Java based Application.
+description: Convert TSV to PNG format in Java code. Save TSV as PNG using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

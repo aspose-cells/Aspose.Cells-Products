@@ -1,7 +1,7 @@
 ---
 title: Convert XLTM to XML via Python
 url: /python-java/conversion/xltm-to-xml/
-description: Sample code for xltm to xml Python conversion. Use API example code for batch xltm files to xml conversion within Python application.
+description: Convert XLTM to XML format in Python code. Save XLTM as XML using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: Convert SXC to XLTM via C++ application 
+title: Convert SXC to XLTM via C++
 url: /cpp/conversion/sxc-to-xltm/
-description: Sample C++ conversion code for SXC to XLTM format. Programmers can use this source code for batch SXC to XLTM conversion within any C++ Application.
+description: Convert SXC to XLTM format in C++ code. Save SXC as XLTM using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

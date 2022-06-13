@@ -1,7 +1,7 @@
 ---
 title: Convert XLSB to JPG via Java 
 url: /java/conversion/xlsb-to-jpg/
-description: Sample Java conversion code for XLSB format to JPG file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to JPG within any Web or Desktop Java based Application.
+description: Convert XLSB to JPG format in Java code. Save XLSB as JPG using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: Convert EXCEL to SVG via C++ application 
+title: Convert EXCEL to SVG via C++
 url: /cpp/conversion/excel-to-svg/
-description: Sample C++ conversion code for EXCEL to SVG format. Programmers can use this source code for batch EXCEL to SVG conversion within any C++ Application.
+description: Convert EXCEL to SVG format in C++ code. Save EXCEL as SVG using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

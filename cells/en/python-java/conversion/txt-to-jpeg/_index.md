@@ -1,7 +1,7 @@
 ---
 title: Convert TXT to JPEG via Python
 url: /python-java/conversion/txt-to-jpeg/
-description: Sample code for txt to jpeg Python conversion. Use API example code for batch txt files to jpeg conversion within Python application.
+description: Convert TXT to JPEG format in Python code. Save TXT as JPEG using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

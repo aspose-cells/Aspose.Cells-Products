@@ -1,7 +1,7 @@
 ---
-title: Convert XLS to XLSX via C++ application 
+title: Convert XLS to XLSX via C++
 url: /cpp/conversion/xls-to-xlsx/
-description: Sample C++ conversion code for XLS to XLSX format. Programmers can use this source code for batch XLS to XLSX conversion within any C++ Application.
+description: Convert XLS to XLSX format in C++ code. Save XLS as XLSX using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

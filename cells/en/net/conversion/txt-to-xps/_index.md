@@ -1,7 +1,7 @@
 ---
 title: Convert TXT to XPS via C#
 url: /net/conversion/txt-to-xps/
-description: Sample code for txt to xps C# conversion. Use API example code for batch txt files to xps conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert TXT to XPS format in C# code. Save TXT as XPS using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

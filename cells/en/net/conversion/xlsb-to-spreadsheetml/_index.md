@@ -1,7 +1,7 @@
 ---
 title: Convert XLSB to SPREADSHEETML via C#
 url: /net/conversion/xlsb-to-spreadsheetml/
-description: Sample code for xlsb to spreadsheetml C# conversion. Use API example code for batch xlsb files to spreadsheetml conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert XLSB to SPREADSHEETML format in C# code. Save XLSB as SPREADSHEETML using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

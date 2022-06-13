@@ -1,7 +1,7 @@
 ---
 title: Convert ODS to SXC via Java 
 url: /java/conversion/ods-to-sxc/
-description: Sample Java conversion code for ODS format to SXC file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to SXC within any Web or Desktop Java based Application.
+description: Convert ODS to SXC format in Java code. Save ODS as SXC using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

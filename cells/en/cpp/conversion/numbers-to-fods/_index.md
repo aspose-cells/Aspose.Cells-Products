@@ -1,7 +1,7 @@
 ---
-title: Convert NUMBERS to FODS via C++ application 
+title: Convert NUMBERS to FODS via C++
 url: /cpp/conversion/numbers-to-fods/
-description: Sample C++ conversion code for NUMBERS to FODS format. Programmers can use this source code for batch NUMBERS to FODS conversion within any C++ Application.
+description: Convert NUMBERS to FODS format in C++ code. Save NUMBERS as FODS using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

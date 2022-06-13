@@ -1,7 +1,7 @@
 ---
 title: Convert MHTML to SVG via Java 
 url: /java/conversion/mhtml-to-svg/
-description: Sample Java conversion code for MHTML format to SVG file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to SVG within any Web or Desktop Java based Application.
+description: Convert MHTML to SVG format in Java code. Save MHTML as SVG using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

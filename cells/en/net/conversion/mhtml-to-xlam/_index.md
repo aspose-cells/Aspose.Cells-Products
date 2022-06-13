@@ -1,7 +1,7 @@
 ---
 title: Convert MHTML to XLAM via C#
 url: /net/conversion/mhtml-to-xlam/
-description: Sample code for mhtml to xlam C# conversion. Use API example code for batch mhtml files to xlam conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert MHTML to XLAM format in C# code. Save MHTML as XLAM using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

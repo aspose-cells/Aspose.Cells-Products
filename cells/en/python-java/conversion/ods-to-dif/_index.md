@@ -1,7 +1,7 @@
 ---
 title: Convert ODS to DIF via Python
 url: /python-java/conversion/ods-to-dif/
-description: Sample code for ods to dif Python conversion. Use API example code for batch ods files to dif conversion within Python application.
+description: Convert ODS to DIF format in Python code. Save ODS as DIF using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

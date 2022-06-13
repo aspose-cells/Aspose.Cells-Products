@@ -1,7 +1,7 @@
 ---
 title: Convert HTML to XLAM via Java 
 url: /java/conversion/html-to-xlam/
-description: Sample Java conversion code for HTML format to XLAM file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to XLAM within any Web or Desktop Java based Application.
+description: Convert HTML to XLAM format in Java code. Save HTML as XLAM using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Convert MHTML to XLS via C#
 url: /net/conversion/mhtml-to-xls/
-description: Sample code for mhtml to xls C# conversion. Use API example code for batch mhtml files to xls conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert MHTML to XLS format in C# code. Save MHTML as XLS using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

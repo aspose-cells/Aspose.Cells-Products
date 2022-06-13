@@ -1,7 +1,7 @@
 ---
-title: Convert TSV to SXC via C++ application 
+title: Convert TSV to SXC via C++
 url: /cpp/conversion/tsv-to-sxc/
-description: Sample C++ conversion code for TSV to SXC format. Programmers can use this source code for batch TSV to SXC conversion within any C++ Application.
+description: Convert TSV to SXC format in C++ code. Save TSV as SXC using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

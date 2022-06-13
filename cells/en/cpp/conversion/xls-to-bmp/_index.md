@@ -1,7 +1,7 @@
 ---
-title: Convert XLS to BMP via C++ application 
+title: Convert XLS to BMP via C++
 url: /cpp/conversion/xls-to-bmp/
-description: Sample C++ conversion code for XLS to BMP format. Programmers can use this source code for batch XLS to BMP conversion within any C++ Application.
+description: Convert XLS to BMP format in C++ code. Save XLS as BMP using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

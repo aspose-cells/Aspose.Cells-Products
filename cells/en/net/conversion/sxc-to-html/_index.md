@@ -1,7 +1,7 @@
 ---
 title: Convert SXC to HTML via C#
 url: /net/conversion/sxc-to-html/
-description: Sample code for sxc to html C# conversion. Use API example code for batch sxc files to html conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert SXC to HTML format in C# code. Save SXC as HTML using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

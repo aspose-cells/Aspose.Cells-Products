@@ -1,7 +1,7 @@
 ---
 title: Convert XLTM to MHTML via C#
 url: /net/conversion/xltm-to-mhtml/
-description: Sample code for xltm to mhtml C# conversion. Use API example code for batch xltm files to mhtml conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert XLTM to MHTML format in C# code. Save XLTM as MHTML using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

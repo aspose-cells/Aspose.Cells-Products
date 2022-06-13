@@ -1,7 +1,7 @@
 ---
-title: Convert XLTM to BMP via C++ application 
+title: Convert XLTM to BMP via C++
 url: /cpp/conversion/xltm-to-bmp/
-description: Sample C++ conversion code for XLTM to BMP format. Programmers can use this source code for batch XLTM to BMP conversion within any C++ Application.
+description: Convert XLTM to BMP format in C++ code. Save XLTM as BMP using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

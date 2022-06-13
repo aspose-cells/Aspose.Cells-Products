@@ -1,7 +1,7 @@
 ---
 title: Convert XLSB to XLSM via Java 
 url: /java/conversion/xlsb-to-xlsm/
-description: Sample Java conversion code for XLSB format to XLSM file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to XLSM within any Web or Desktop Java based Application.
+description: Convert XLSB to XLSM format in Java code. Save XLSB as XLSM using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Convert MHTML to SVG via Python
 url: /python-java/conversion/mhtml-to-svg/
-description: Sample code for mhtml to svg Python conversion. Use API example code for batch mhtml files to svg conversion within Python application.
+description: Convert MHTML to SVG format in Python code. Save MHTML as SVG using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

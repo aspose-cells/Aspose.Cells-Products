@@ -1,7 +1,7 @@
 ---
 title: Convert SPREADSHEETML to TABDELIMITED via C#
 url: /net/conversion/spreadsheetml-to-tabdelimited/
-description: Sample code for spreadsheetml to tabdelimited C# conversion. Use API example code for batch spreadsheetml files to tabdelimited conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert SPREADSHEETML to TABDELIMITED format in C# code. Save SPREADSHEETML as TABDELIMITED using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

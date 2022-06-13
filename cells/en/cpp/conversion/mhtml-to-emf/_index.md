@@ -1,7 +1,7 @@
 ---
-title: Convert MHTML to EMF via C++ application 
+title: Convert MHTML to EMF via C++
 url: /cpp/conversion/mhtml-to-emf/
-description: Sample C++ conversion code for MHTML to EMF format. Programmers can use this source code for batch MHTML to EMF conversion within any C++ Application.
+description: Convert MHTML to EMF format in C++ code. Save MHTML as EMF using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Convert NUMBERS to XLTX via Java 
 url: /java/conversion/numbers-to-xltx/
-description: Sample Java conversion code for NUMBERS format to XLTX file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to XLTX within any Web or Desktop Java based Application.
+description: Convert NUMBERS to XLTX format in Java code. Save NUMBERS as XLTX using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

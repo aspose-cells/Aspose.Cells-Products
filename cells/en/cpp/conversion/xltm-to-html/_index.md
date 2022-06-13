@@ -1,7 +1,7 @@
 ---
-title: Convert XLTM to HTML via C++ application 
+title: Convert XLTM to HTML via C++
 url: /cpp/conversion/xltm-to-html/
-description: Sample C++ conversion code for XLTM to HTML format. Programmers can use this source code for batch XLTM to HTML conversion within any C++ Application.
+description: Convert XLTM to HTML format in C++ code. Save XLTM as HTML using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

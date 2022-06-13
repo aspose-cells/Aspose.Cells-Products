@@ -1,7 +1,7 @@
 ---
 title: Convert CSV to EMF via C#
 url: /net/conversion/csv-to-emf/
-description: Sample code for csv to emf C# conversion. Use API example code for batch csv files to emf conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert CSV to EMF format in C# code. Save CSV as EMF using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

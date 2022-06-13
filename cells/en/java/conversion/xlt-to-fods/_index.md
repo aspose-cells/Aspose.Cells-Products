@@ -1,7 +1,7 @@
 ---
 title: Convert XLT to FODS via Java 
 url: /java/conversion/xlt-to-fods/
-description: Sample Java conversion code for XLT format to FODS file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to FODS within any Web or Desktop Java based Application.
+description: Convert XLT to FODS format in Java code. Save XLT as FODS using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: Convert NUMBERS to CSV via C++ application 
+title: Convert NUMBERS to CSV via C++
 url: /cpp/conversion/numbers-to-csv/
-description: Sample C++ conversion code for NUMBERS to CSV format. Programmers can use this source code for batch NUMBERS to CSV conversion within any C++ Application.
+description: Convert NUMBERS to CSV format in C++ code. Save NUMBERS as CSV using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

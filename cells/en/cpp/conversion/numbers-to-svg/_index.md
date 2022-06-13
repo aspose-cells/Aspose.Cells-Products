@@ -1,7 +1,7 @@
 ---
-title: Convert NUMBERS to SVG via C++ application 
+title: Convert NUMBERS to SVG via C++
 url: /cpp/conversion/numbers-to-svg/
-description: Sample C++ conversion code for NUMBERS to SVG format. Programmers can use this source code for batch NUMBERS to SVG conversion within any C++ Application.
+description: Convert NUMBERS to SVG format in C++ code. Save NUMBERS as SVG using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Convert SXC to PDF via Python
 url: /python-java/conversion/sxc-to-pdf/
-description: Sample code for sxc to pdf Python conversion. Use API example code for batch sxc files to pdf conversion within Python application.
+description: Convert SXC to PDF format in Python code. Save SXC as PDF using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

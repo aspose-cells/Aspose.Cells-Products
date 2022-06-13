@@ -1,7 +1,7 @@
 ---
 title: Convert SXC to PDF via Java 
 url: /java/conversion/sxc-to-pdf/
-description: Sample Java conversion code for SXC format to PDF file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to PDF within any Web or Desktop Java based Application.
+description: Convert SXC to PDF format in Java code. Save SXC as PDF using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

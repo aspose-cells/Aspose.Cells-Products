@@ -1,7 +1,7 @@
 ---
 title: Convert EXCEL to PPTX via C#
 url: /net/conversion/excel-to-pptx/
-description: Sample code for excel to pptx C# conversion. Use API example code for batch excel files to pptx conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert EXCEL to PPTX format in C# code. Save EXCEL as PPTX using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

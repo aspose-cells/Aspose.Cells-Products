@@ -1,7 +1,7 @@
 ---
 title: Convert MHTML to XML via Java 
 url: /java/conversion/mhtml-to-xml/
-description: Sample Java conversion code for MHTML format to XML file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to XML within any Web or Desktop Java based Application.
+description: Convert MHTML to XML format in Java code. Save MHTML as XML using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

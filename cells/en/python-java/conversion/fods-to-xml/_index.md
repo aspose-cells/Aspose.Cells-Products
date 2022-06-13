@@ -1,7 +1,7 @@
 ---
 title: Convert FODS to XML via Python
 url: /python-java/conversion/fods-to-xml/
-description: Sample code for fods to xml Python conversion. Use API example code for batch fods files to xml conversion within Python application.
+description: Convert FODS to XML format in Python code. Save FODS as XML using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

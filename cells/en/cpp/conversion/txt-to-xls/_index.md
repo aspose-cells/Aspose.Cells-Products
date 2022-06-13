@@ -1,7 +1,7 @@
 ---
-title: Convert TXT to XLS via C++ application 
+title: Convert TXT to XLS via C++
 url: /cpp/conversion/txt-to-xls/
-description: Sample C++ conversion code for TXT to XLS format. Programmers can use this source code for batch TXT to XLS conversion within any C++ Application.
+description: Convert TXT to XLS format in C++ code. Save TXT as XLS using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

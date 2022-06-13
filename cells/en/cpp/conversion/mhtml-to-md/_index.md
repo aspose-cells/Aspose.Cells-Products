@@ -1,7 +1,7 @@
 ---
-title: Convert MHTML to MD via C++ application 
+title: Convert MHTML to MD via C++
 url: /cpp/conversion/mhtml-to-md/
-description: Sample C++ conversion code for MHTML to MD format. Programmers can use this source code for batch MHTML to MD conversion within any C++ Application.
+description: Convert MHTML to MD format in C++ code. Save MHTML as MD using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

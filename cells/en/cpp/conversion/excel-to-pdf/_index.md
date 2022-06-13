@@ -1,7 +1,7 @@
 ---
-title: Convert EXCEL to PDF via C++ application 
+title: Convert EXCEL to PDF via C++
 url: /cpp/conversion/excel-to-pdf/
-description: Sample C++ conversion code for EXCEL to PDF format. Programmers can use this source code for batch EXCEL to PDF conversion within any C++ Application.
+description: Convert EXCEL to PDF format in C++ code. Save EXCEL as PDF using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

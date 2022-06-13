@@ -1,7 +1,7 @@
 ---
-title: Convert SPREADSHEETML to JSON via C++ application 
+title: Convert SPREADSHEETML to JSON via C++
 url: /cpp/conversion/spreadsheetml-to-json/
-description: Sample C++ conversion code for SPREADSHEETML to JSON format. Programmers can use this source code for batch SPREADSHEETML to JSON conversion within any C++ Application.
+description: Convert SPREADSHEETML to JSON format in C++ code. Save SPREADSHEETML as JSON using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

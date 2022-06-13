@@ -1,7 +1,7 @@
 ---
 title: Convert TABDELIMITED to GIF via Python
 url: /python-java/conversion/tabdelimited-to-gif/
-description: Sample code for tabdelimited to gif Python conversion. Use API example code for batch tabdelimited files to gif conversion within Python application.
+description: Convert TABDELIMITED to GIF format in Python code. Save TABDELIMITED as GIF using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

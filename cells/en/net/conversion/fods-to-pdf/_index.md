@@ -1,7 +1,7 @@
 ---
 title: Convert FODS to PDF via C#
 url: /net/conversion/fods-to-pdf/
-description: Sample code for fods to pdf C# conversion. Use API example code for batch fods files to pdf conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert FODS to PDF format in C# code. Save FODS as PDF using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

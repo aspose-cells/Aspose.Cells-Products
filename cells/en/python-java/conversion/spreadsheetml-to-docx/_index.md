@@ -1,7 +1,7 @@
 ---
 title: Convert SPREADSHEETML to DOCX via Python
 url: /python-java/conversion/spreadsheetml-to-docx/
-description: Sample code for spreadsheetml to docx Python conversion. Use API example code for batch spreadsheetml files to docx conversion within Python application.
+description: Convert SPREADSHEETML to DOCX format in Python code. Save SPREADSHEETML as DOCX using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

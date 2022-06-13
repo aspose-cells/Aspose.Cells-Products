@@ -1,7 +1,7 @@
 ---
-title: Convert FODS to DIF via C++ application 
+title: Convert FODS to DIF via C++
 url: /cpp/conversion/fods-to-dif/
-description: Sample C++ conversion code for FODS to DIF format. Programmers can use this source code for batch FODS to DIF conversion within any C++ Application.
+description: Convert FODS to DIF format in C++ code. Save FODS as DIF using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

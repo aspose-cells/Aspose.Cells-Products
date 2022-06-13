@@ -1,7 +1,7 @@
 ---
 title: Convert TXT to DIF via Java 
 url: /java/conversion/txt-to-dif/
-description: Sample Java conversion code for TXT format to DIF file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to DIF within any Web or Desktop Java based Application.
+description: Convert TXT to DIF format in Java code. Save TXT as DIF using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

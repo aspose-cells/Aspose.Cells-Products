@@ -1,7 +1,7 @@
 ---
 title: Convert SPREADSHEETML to BMP via Python
 url: /python-java/conversion/spreadsheetml-to-bmp/
-description: Sample code for spreadsheetml to bmp Python conversion. Use API example code for batch spreadsheetml files to bmp conversion within Python application.
+description: Convert SPREADSHEETML to BMP format in Python code. Save SPREADSHEETML as BMP using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

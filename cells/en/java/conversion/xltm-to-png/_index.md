@@ -1,7 +1,7 @@
 ---
 title: Convert XLTM to PNG via Java 
 url: /java/conversion/xltm-to-png/
-description: Sample Java conversion code for XLTM format to PNG file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to PNG within any Web or Desktop Java based Application.
+description: Convert XLTM to PNG format in Java code. Save XLTM as PNG using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Convert TABDELIMITED to XLSM via Java 
 url: /java/conversion/tabdelimited-to-xlsm/
-description: Sample Java conversion code for TABDELIMITED format to XLSM file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to XLSM within any Web or Desktop Java based Application.
+description: Convert TABDELIMITED to XLSM format in Java code. Save TABDELIMITED as XLSM using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: Convert HTML to FODS via C++ application 
+title: Convert HTML to FODS via C++
 url: /cpp/conversion/html-to-fods/
-description: Sample C++ conversion code for HTML to FODS format. Programmers can use this source code for batch HTML to FODS conversion within any C++ Application.
+description: Convert HTML to FODS format in C++ code. Save HTML as FODS using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

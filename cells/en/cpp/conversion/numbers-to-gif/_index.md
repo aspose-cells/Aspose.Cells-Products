@@ -1,7 +1,7 @@
 ---
-title: Convert NUMBERS to GIF via C++ application 
+title: Convert NUMBERS to GIF via C++
 url: /cpp/conversion/numbers-to-gif/
-description: Sample C++ conversion code for NUMBERS to GIF format. Programmers can use this source code for batch NUMBERS to GIF conversion within any C++ Application.
+description: Convert NUMBERS to GIF format in C++ code. Save NUMBERS as GIF using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Convert XLSM to XLAM via C#
 url: /net/conversion/xlsm-to-xlam/
-description: Sample code for xlsm to xlam C# conversion. Use API example code for batch xlsm files to xlam conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert XLSM to XLAM format in C# code. Save XLSM as XLAM using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

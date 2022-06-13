@@ -1,7 +1,7 @@
 ---
 title: Convert FODS to JSON via Java 
 url: /java/conversion/fods-to-json/
-description: Sample Java conversion code for FODS format to JSON file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to JSON within any Web or Desktop Java based Application.
+description: Convert FODS to JSON format in Java code. Save FODS as JSON using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

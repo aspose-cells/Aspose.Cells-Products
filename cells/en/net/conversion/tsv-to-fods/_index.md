@@ -1,7 +1,7 @@
 ---
 title: Convert TSV to FODS via C#
 url: /net/conversion/tsv-to-fods/
-description: Sample code for tsv to fods C# conversion. Use API example code for batch tsv files to fods conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert TSV to FODS format in C# code. Save TSV as FODS using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

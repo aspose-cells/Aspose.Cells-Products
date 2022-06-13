@@ -1,7 +1,7 @@
 ---
 title: Convert NUMBERS to TXT via C#
 url: /net/conversion/numbers-to-txt/
-description: Sample code for numbers to txt C# conversion. Use API example code for batch numbers files to txt conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert NUMBERS to TXT format in C# code. Save NUMBERS as TXT using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

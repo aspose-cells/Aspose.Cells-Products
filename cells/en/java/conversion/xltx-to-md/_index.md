@@ -1,7 +1,7 @@
 ---
 title: Convert XLTX to MD via Java 
 url: /java/conversion/xltx-to-md/
-description: Sample Java conversion code for XLTX format to MD file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to MD within any Web or Desktop Java based Application.
+description: Convert XLTX to MD format in Java code. Save XLTX as MD using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

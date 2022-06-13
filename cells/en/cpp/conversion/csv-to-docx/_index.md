@@ -1,7 +1,7 @@
 ---
-title: Convert CSV to DOCX via C++ application 
+title: Convert CSV to DOCX via C++
 url: /cpp/conversion/csv-to-docx/
-description: Sample C++ conversion code for CSV to DOCX format. Programmers can use this source code for batch CSV to DOCX conversion within any C++ Application.
+description: Convert CSV to DOCX format in C++ code. Save CSV as DOCX using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: Convert XLSX to FODS via C++ application 
+title: Convert XLSX to FODS via C++
 url: /cpp/conversion/xlsx-to-fods/
-description: Sample C++ conversion code for XLSX to FODS format. Programmers can use this source code for batch XLSX to FODS conversion within any C++ Application.
+description: Convert XLSX to FODS format in C++ code. Save XLSX as FODS using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

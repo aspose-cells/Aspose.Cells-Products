@@ -1,7 +1,7 @@
 ---
-title: Convert SXC to BMP via C++ application 
+title: Convert SXC to BMP via C++
 url: /cpp/conversion/sxc-to-bmp/
-description: Sample C++ conversion code for SXC to BMP format. Programmers can use this source code for batch SXC to BMP conversion within any C++ Application.
+description: Convert SXC to BMP format in C++ code. Save SXC as BMP using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

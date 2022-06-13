@@ -1,7 +1,7 @@
 ---
 title: Convert HTML to JSON via Java 
 url: /java/conversion/html-to-json/
-description: Sample Java conversion code for HTML format to JSON file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to JSON within any Web or Desktop Java based Application.
+description: Convert HTML to JSON format in Java code. Save HTML as JSON using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

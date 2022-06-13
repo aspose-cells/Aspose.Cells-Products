@@ -1,7 +1,7 @@
 ---
 title: Convert EXCEL to HTML via Python
 url: /python-java/conversion/excel-to-html/
-description: Sample code for excel to html Python conversion. Use API example code for batch excel files to html conversion within Python application.
+description: Convert EXCEL to HTML format in Python code. Save EXCEL as HTML using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

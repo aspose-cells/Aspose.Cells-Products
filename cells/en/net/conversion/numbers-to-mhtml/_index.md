@@ -1,7 +1,7 @@
 ---
 title: Convert NUMBERS to MHTML via C#
 url: /net/conversion/numbers-to-mhtml/
-description: Sample code for numbers to mhtml C# conversion. Use API example code for batch numbers files to mhtml conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert NUMBERS to MHTML format in C# code. Save NUMBERS as MHTML using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

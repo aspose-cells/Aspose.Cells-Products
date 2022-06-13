@@ -1,7 +1,7 @@
 ---
 title: Convert CSV to DOCX via Java 
 url: /java/conversion/csv-to-docx/
-description: Sample Java conversion code for CSV format to DOCX file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to DOCX within any Web or Desktop Java based Application.
+description: Convert CSV to DOCX format in Java code. Save CSV as DOCX using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

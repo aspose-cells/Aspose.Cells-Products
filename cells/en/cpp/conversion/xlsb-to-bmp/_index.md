@@ -1,7 +1,7 @@
 ---
-title: Convert XLSB to BMP via C++ application 
+title: Convert XLSB to BMP via C++
 url: /cpp/conversion/xlsb-to-bmp/
-description: Sample C++ conversion code for XLSB to BMP format. Programmers can use this source code for batch XLSB to BMP conversion within any C++ Application.
+description: Convert XLSB to BMP format in C++ code. Save XLSB as BMP using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

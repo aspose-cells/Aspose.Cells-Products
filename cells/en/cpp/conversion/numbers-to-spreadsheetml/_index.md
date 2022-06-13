@@ -1,7 +1,7 @@
 ---
-title: Convert NUMBERS to SPREADSHEETML via C++ application 
+title: Convert NUMBERS to SPREADSHEETML via C++
 url: /cpp/conversion/numbers-to-spreadsheetml/
-description: Sample C++ conversion code for NUMBERS to SPREADSHEETML format. Programmers can use this source code for batch NUMBERS to SPREADSHEETML conversion within any C++ Application.
+description: Convert NUMBERS to SPREADSHEETML format in C++ code. Save NUMBERS as SPREADSHEETML using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

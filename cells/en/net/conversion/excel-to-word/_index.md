@@ -1,7 +1,7 @@
 ---
 title: Convert EXCEL to WORD via C#
 url: /net/conversion/excel-to-word/
-description: Sample code for excel to word C# conversion. Use API example code for batch excel files to word conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert EXCEL to WORD format in C# code. Save EXCEL as WORD using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

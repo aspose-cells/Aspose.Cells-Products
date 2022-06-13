@@ -1,7 +1,7 @@
 ---
 title: Convert HTML to XLAM via C#
 url: /net/conversion/html-to-xlam/
-description: Sample code for html to xlam C# conversion. Use API example code for batch html files to xlam conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert HTML to XLAM format in C# code. Save HTML as XLAM using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

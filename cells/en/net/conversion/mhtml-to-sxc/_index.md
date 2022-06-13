@@ -1,7 +1,7 @@
 ---
 title: Convert MHTML to SXC via C#
 url: /net/conversion/mhtml-to-sxc/
-description: Sample code for mhtml to sxc C# conversion. Use API example code for batch mhtml files to sxc conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert MHTML to SXC format in C# code. Save MHTML as SXC using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

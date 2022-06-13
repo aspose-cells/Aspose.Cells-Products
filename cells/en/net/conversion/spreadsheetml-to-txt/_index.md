@@ -1,7 +1,7 @@
 ---
 title: Convert SPREADSHEETML to TXT via C#
 url: /net/conversion/spreadsheetml-to-txt/
-description: Sample code for spreadsheetml to txt C# conversion. Use API example code for batch spreadsheetml files to txt conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert SPREADSHEETML to TXT format in C# code. Save SPREADSHEETML as TXT using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

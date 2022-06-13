@@ -1,7 +1,7 @@
 ---
 title: Convert SPREADSHEETML to DIF via Java 
 url: /java/conversion/spreadsheetml-to-dif/
-description: Sample Java conversion code for SPREADSHEETML format to DIF file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to DIF within any Web or Desktop Java based Application.
+description: Convert SPREADSHEETML to DIF format in Java code. Save SPREADSHEETML as DIF using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

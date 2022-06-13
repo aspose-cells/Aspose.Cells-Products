@@ -1,7 +1,7 @@
 ---
 title: Convert TSV to TABDELIMITED via C#
 url: /net/conversion/tsv-to-tabdelimited/
-description: Sample code for tsv to tabdelimited C# conversion. Use API example code for batch tsv files to tabdelimited conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert TSV to TABDELIMITED format in C# code. Save TSV as TABDELIMITED using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

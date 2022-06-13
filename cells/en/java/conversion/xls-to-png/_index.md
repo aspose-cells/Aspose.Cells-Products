@@ -1,7 +1,7 @@
 ---
 title: Convert XLS to PNG via Java 
 url: /java/conversion/xls-to-png/
-description: Sample Java conversion code for XLS format to PNG file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to PNG within any Web or Desktop Java based Application.
+description: Convert XLS to PNG format in Java code. Save XLS as PNG using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

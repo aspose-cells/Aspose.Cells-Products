@@ -1,7 +1,7 @@
 ---
-title: Convert XLSX to MARKDOWN via C++ application 
+title: Convert XLSX to MARKDOWN via C++
 url: /cpp/conversion/xlsx-to-markdown/
-description: Sample C++ conversion code for XLSX to MARKDOWN format. Programmers can use this source code for batch XLSX to MARKDOWN conversion within any C++ Application.
+description: Convert XLSX to MARKDOWN format in C++ code. Save XLSX as MARKDOWN using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

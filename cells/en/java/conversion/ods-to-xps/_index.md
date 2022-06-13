@@ -1,7 +1,7 @@
 ---
 title: Convert ODS to XPS via Java 
 url: /java/conversion/ods-to-xps/
-description: Sample Java conversion code for ODS format to XPS file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to XPS within any Web or Desktop Java based Application.
+description: Convert ODS to XPS format in Java code. Save ODS as XPS using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

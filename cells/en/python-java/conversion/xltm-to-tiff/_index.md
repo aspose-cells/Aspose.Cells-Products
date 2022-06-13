@@ -1,7 +1,7 @@
 ---
 title: Convert XLTM to TIFF via Python
 url: /python-java/conversion/xltm-to-tiff/
-description: Sample code for xltm to tiff Python conversion. Use API example code for batch xltm files to tiff conversion within Python application.
+description: Convert XLTM to TIFF format in Python code. Save XLTM as TIFF using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

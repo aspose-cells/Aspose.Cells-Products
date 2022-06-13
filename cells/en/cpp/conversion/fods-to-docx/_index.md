@@ -1,7 +1,7 @@
 ---
-title: Convert FODS to DOCX via C++ application 
+title: Convert FODS to DOCX via C++
 url: /cpp/conversion/fods-to-docx/
-description: Sample C++ conversion code for FODS to DOCX format. Programmers can use this source code for batch FODS to DOCX conversion within any C++ Application.
+description: Convert FODS to DOCX format in C++ code. Save FODS as DOCX using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Convert MHTML to MD via Java 
 url: /java/conversion/mhtml-to-md/
-description: Sample Java conversion code for MHTML format to MD file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to MD within any Web or Desktop Java based Application.
+description: Convert MHTML to MD format in Java code. Save MHTML as MD using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

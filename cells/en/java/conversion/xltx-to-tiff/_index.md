@@ -1,7 +1,7 @@
 ---
 title: Convert XLTX to TIFF via Java 
 url: /java/conversion/xltx-to-tiff/
-description: Sample Java conversion code for XLTX format to TIFF file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to TIFF within any Web or Desktop Java based Application.
+description: Convert XLTX to TIFF format in Java code. Save XLTX as TIFF using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

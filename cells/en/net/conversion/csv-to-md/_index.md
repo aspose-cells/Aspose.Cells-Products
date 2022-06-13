@@ -1,7 +1,7 @@
 ---
 title: Convert CSV to MD via C#
 url: /net/conversion/csv-to-md/
-description: Sample code for csv to md C# conversion. Use API example code for batch csv files to md conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert CSV to MD format in C# code. Save CSV as MD using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

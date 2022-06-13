@@ -1,7 +1,7 @@
 ---
-title: Convert MHTML to TIFF via C++ application 
+title: Convert MHTML to TIFF via C++
 url: /cpp/conversion/mhtml-to-tiff/
-description: Sample C++ conversion code for MHTML to TIFF format. Programmers can use this source code for batch MHTML to TIFF conversion within any C++ Application.
+description: Convert MHTML to TIFF format in C++ code. Save MHTML as TIFF using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

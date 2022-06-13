@@ -1,7 +1,7 @@
 ---
 title: Convert XLS to XLTM via Java 
 url: /java/conversion/xls-to-xltm/
-description: Sample Java conversion code for XLS format to XLTM file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to XLTM within any Web or Desktop Java based Application.
+description: Convert XLS to XLTM format in Java code. Save XLS as XLTM using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

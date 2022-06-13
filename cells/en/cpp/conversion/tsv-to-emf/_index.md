@@ -1,7 +1,7 @@
 ---
-title: Convert TSV to EMF via C++ application 
+title: Convert TSV to EMF via C++
 url: /cpp/conversion/tsv-to-emf/
-description: Sample C++ conversion code for TSV to EMF format. Programmers can use this source code for batch TSV to EMF conversion within any C++ Application.
+description: Convert TSV to EMF format in C++ code. Save TSV as EMF using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

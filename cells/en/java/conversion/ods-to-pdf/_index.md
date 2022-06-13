@@ -1,7 +1,7 @@
 ---
 title: Convert ODS to PDF via Java 
 url: /java/conversion/ods-to-pdf/
-description: Sample Java conversion code for ODS format to PDF file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to PDF within any Web or Desktop Java based Application.
+description: Convert ODS to PDF format in Java code. Save ODS as PDF using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

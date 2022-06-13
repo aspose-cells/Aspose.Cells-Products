@@ -1,7 +1,7 @@
 ---
 title: Convert XLS to XML via Java 
 url: /java/conversion/xls-to-xml/
-description: Sample Java conversion code for XLS format to XML file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to XML within any Web or Desktop Java based Application.
+description: Convert XLS to XML format in Java code. Save XLS as XML using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

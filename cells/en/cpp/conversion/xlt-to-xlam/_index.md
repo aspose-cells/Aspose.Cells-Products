@@ -1,7 +1,7 @@
 ---
-title: Convert XLT to XLAM via C++ application 
+title: Convert XLT to XLAM via C++
 url: /cpp/conversion/xlt-to-xlam/
-description: Sample C++ conversion code for XLT to XLAM format. Programmers can use this source code for batch XLT to XLAM conversion within any C++ Application.
+description: Convert XLT to XLAM format in C++ code. Save XLT as XLAM using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

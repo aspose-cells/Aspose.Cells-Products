@@ -1,7 +1,7 @@
 ---
-title: Convert HTML to PDF via C++ application 
+title: Convert HTML to PDF via C++
 url: /cpp/conversion/html-to-pdf/
-description: Sample C++ conversion code for HTML to PDF format. Programmers can use this source code for batch HTML to PDF conversion within any C++ Application.
+description: Convert HTML to PDF format in C++ code. Save HTML as PDF using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Convert NUMBERS to XLSX via Python
 url: /python-java/conversion/numbers-to-xlsx/
-description: Sample code for numbers to xlsx Python conversion. Use API example code for batch numbers files to xlsx conversion within Python application.
+description: Convert NUMBERS to XLSX format in Python code. Save NUMBERS as XLSX using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

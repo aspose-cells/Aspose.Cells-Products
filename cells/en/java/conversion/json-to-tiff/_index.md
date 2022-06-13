@@ -1,7 +1,7 @@
 ---
 title: Convert JSON to TIFF via Java 
 url: /java/conversion/json-to-tiff/
-description: Sample Java conversion code for JSON format to TIFF file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to TIFF within any Web or Desktop Java based Application.
+description: Convert JSON to TIFF format in Java code. Save JSON as TIFF using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

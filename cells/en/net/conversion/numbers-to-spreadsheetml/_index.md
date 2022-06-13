@@ -1,7 +1,7 @@
 ---
 title: Convert NUMBERS to SPREADSHEETML via C#
 url: /net/conversion/numbers-to-spreadsheetml/
-description: Sample code for numbers to spreadsheetml C# conversion. Use API example code for batch numbers files to spreadsheetml conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert NUMBERS to SPREADSHEETML format in C# code. Save NUMBERS as SPREADSHEETML using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

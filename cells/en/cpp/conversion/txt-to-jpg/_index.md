@@ -1,7 +1,7 @@
 ---
-title: Convert TXT to JPG via C++ application 
+title: Convert TXT to JPG via C++
 url: /cpp/conversion/txt-to-jpg/
-description: Sample C++ conversion code for TXT to JPG format. Programmers can use this source code for batch TXT to JPG conversion within any C++ Application.
+description: Convert TXT to JPG format in C++ code. Save TXT as JPG using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

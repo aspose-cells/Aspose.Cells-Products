@@ -1,7 +1,7 @@
 ---
 title: Convert HTML to SPREADSHEETML via C#
 url: /net/conversion/html-to-spreadsheetml/
-description: Sample code for html to spreadsheetml C# conversion. Use API example code for batch html files to spreadsheetml conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert HTML to SPREADSHEETML format in C# code. Save HTML as SPREADSHEETML using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

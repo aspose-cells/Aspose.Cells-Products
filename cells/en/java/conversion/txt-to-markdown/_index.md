@@ -1,7 +1,7 @@
 ---
 title: Convert TXT to MARKDOWN via Java 
 url: /java/conversion/txt-to-markdown/
-description: Sample Java conversion code for TXT format to MARKDOWN file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to MARKDOWN within any Web or Desktop Java based Application.
+description: Convert TXT to MARKDOWN format in Java code. Save TXT as MARKDOWN using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

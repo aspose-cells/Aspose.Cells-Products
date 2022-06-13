@@ -1,7 +1,7 @@
 ---
 title: Convert XLT to BMP via Python
 url: /python-java/conversion/xlt-to-bmp/
-description: Sample code for xlt to bmp Python conversion. Use API example code for batch xlt files to bmp conversion within Python application.
+description: Convert XLT to BMP format in Python code. Save XLT as BMP using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

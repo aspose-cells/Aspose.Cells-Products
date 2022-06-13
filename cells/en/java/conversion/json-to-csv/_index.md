@@ -1,7 +1,7 @@
 ---
 title: Convert JSON to CSV via Java 
 url: /java/conversion/json-to-csv/
-description: Sample Java conversion code for JSON format to CSV file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to CSV within any Web or Desktop Java based Application.
+description: Convert JSON to CSV format in Java code. Save JSON as CSV using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

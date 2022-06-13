@@ -1,7 +1,7 @@
 ---
-title: Convert TABDELIMITED to DOCX via C++ application 
+title: Convert TABDELIMITED to DOCX via C++
 url: /cpp/conversion/tabdelimited-to-docx/
-description: Sample C++ conversion code for TABDELIMITED to DOCX format. Programmers can use this source code for batch TABDELIMITED to DOCX conversion within any C++ Application.
+description: Convert TABDELIMITED to DOCX format in C++ code. Save TABDELIMITED as DOCX using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Convert SXC to XLAM via Java 
 url: /java/conversion/sxc-to-xlam/
-description: Sample Java conversion code for SXC format to XLAM file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to XLAM within any Web or Desktop Java based Application.
+description: Convert SXC to XLAM format in Java code. Save SXC as XLAM using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Convert XLSM to SXC via Python
 url: /python-java/conversion/xlsm-to-sxc/
-description: Sample code for xlsm to sxc Python conversion. Use API example code for batch xlsm files to sxc conversion within Python application.
+description: Convert XLSM to SXC format in Python code. Save XLSM as SXC using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

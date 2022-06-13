@@ -1,7 +1,7 @@
 ---
-title: Convert CSV to XLS via C++ application 
+title: Convert CSV to XLS via C++
 url: /cpp/conversion/csv-to-xls/
-description: Sample C++ conversion code for CSV to XLS format. Programmers can use this source code for batch CSV to XLS conversion within any C++ Application.
+description: Convert CSV to XLS format in C++ code. Save CSV as XLS using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

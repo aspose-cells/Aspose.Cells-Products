@@ -1,7 +1,7 @@
 ---
 title: Convert CSV to TABDELIMITED via C#
 url: /net/conversion/csv-to-tabdelimited/
-description: Sample code for csv to tabdelimited C# conversion. Use API example code for batch csv files to tabdelimited conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert CSV to TABDELIMITED format in C# code. Save CSV as TABDELIMITED using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

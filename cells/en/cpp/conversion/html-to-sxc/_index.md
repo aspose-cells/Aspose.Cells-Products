@@ -1,7 +1,7 @@
 ---
-title: Convert HTML to SXC via C++ application 
+title: Convert HTML to SXC via C++
 url: /cpp/conversion/html-to-sxc/
-description: Sample C++ conversion code for HTML to SXC format. Programmers can use this source code for batch HTML to SXC conversion within any C++ Application.
+description: Convert HTML to SXC format in C++ code. Save HTML as SXC using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Convert XLTX to HTML via Java 
 url: /java/conversion/xltx-to-html/
-description: Sample Java conversion code for XLTX format to HTML file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to HTML within any Web or Desktop Java based Application.
+description: Convert XLTX to HTML format in Java code. Save XLTX as HTML using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

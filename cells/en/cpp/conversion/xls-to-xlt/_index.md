@@ -1,7 +1,7 @@
 ---
-title: Convert XLS to XLT via C++ application 
+title: Convert XLS to XLT via C++
 url: /cpp/conversion/xls-to-xlt/
-description: Sample C++ conversion code for XLS to XLT format. Programmers can use this source code for batch XLS to XLT conversion within any C++ Application.
+description: Convert XLS to XLT format in C++ code. Save XLS as XLT using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

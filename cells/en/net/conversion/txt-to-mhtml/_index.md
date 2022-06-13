@@ -1,7 +1,7 @@
 ---
 title: Convert TXT to MHTML via C#
 url: /net/conversion/txt-to-mhtml/
-description: Sample code for txt to mhtml C# conversion. Use API example code for batch txt files to mhtml conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert TXT to MHTML format in C# code. Save TXT as MHTML using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

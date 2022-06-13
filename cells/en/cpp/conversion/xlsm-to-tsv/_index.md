@@ -1,7 +1,7 @@
 ---
-title: Convert XLSM to TSV via C++ application 
+title: Convert XLSM to TSV via C++
 url: /cpp/conversion/xlsm-to-tsv/
-description: Sample C++ conversion code for XLSM to TSV format. Programmers can use this source code for batch XLSM to TSV conversion within any C++ Application.
+description: Convert XLSM to TSV format in C++ code. Save XLSM as TSV using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

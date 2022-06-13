@@ -1,7 +1,7 @@
 ---
-title: Convert MHTML to XLSX via C++ application 
+title: Convert MHTML to XLSX via C++
 url: /cpp/conversion/mhtml-to-xlsx/
-description: Sample C++ conversion code for MHTML to XLSX format. Programmers can use this source code for batch MHTML to XLSX conversion within any C++ Application.
+description: Convert MHTML to XLSX format in C++ code. Save MHTML as XLSX using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

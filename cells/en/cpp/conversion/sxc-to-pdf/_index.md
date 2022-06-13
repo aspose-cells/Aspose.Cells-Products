@@ -1,7 +1,7 @@
 ---
-title: Convert SXC to PDF via C++ application 
+title: Convert SXC to PDF via C++
 url: /cpp/conversion/sxc-to-pdf/
-description: Sample C++ conversion code for SXC to PDF format. Programmers can use this source code for batch SXC to PDF conversion within any C++ Application.
+description: Convert SXC to PDF format in C++ code. Save SXC as PDF using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

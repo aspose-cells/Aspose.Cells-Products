@@ -1,7 +1,7 @@
 ---
 title: Convert XLS to MHTML via Java 
 url: /java/conversion/xls-to-mhtml/
-description: Sample Java conversion code for XLS format to MHTML file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to MHTML within any Web or Desktop Java based Application.
+description: Convert XLS to MHTML format in Java code. Save XLS as MHTML using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Convert HTML to GIF via C#
 url: /net/conversion/html-to-gif/
-description: Sample code for html to gif C# conversion. Use API example code for batch html files to gif conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert HTML to GIF format in C# code. Save HTML as GIF using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

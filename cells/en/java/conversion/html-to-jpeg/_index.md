@@ -1,7 +1,7 @@
 ---
 title: Convert HTML to JPEG via Java 
 url: /java/conversion/html-to-jpeg/
-description: Sample Java conversion code for HTML format to JPEG file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to JPEG within any Web or Desktop Java based Application.
+description: Convert HTML to JPEG format in Java code. Save HTML as JPEG using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

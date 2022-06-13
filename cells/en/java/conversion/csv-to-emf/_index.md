@@ -1,7 +1,7 @@
 ---
 title: Convert CSV to EMF via Java 
 url: /java/conversion/csv-to-emf/
-description: Sample Java conversion code for CSV format to EMF file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to EMF within any Web or Desktop Java based Application.
+description: Convert CSV to EMF format in Java code. Save CSV as EMF using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

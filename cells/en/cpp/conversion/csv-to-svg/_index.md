@@ -1,7 +1,7 @@
 ---
-title: Convert CSV to SVG via C++ application 
+title: Convert CSV to SVG via C++
 url: /cpp/conversion/csv-to-svg/
-description: Sample C++ conversion code for CSV to SVG format. Programmers can use this source code for batch CSV to SVG conversion within any C++ Application.
+description: Convert CSV to SVG format in C++ code. Save CSV as SVG using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Convert XLTM to BMP via Python
 url: /python-java/conversion/xltm-to-bmp/
-description: Sample code for xltm to bmp Python conversion. Use API example code for batch xltm files to bmp conversion within Python application.
+description: Convert XLTM to BMP format in Python code. Save XLTM as BMP using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Convert ODS to TABDELIMITED via C#
 url: /net/conversion/ods-to-tabdelimited/
-description: Sample code for ods to tabdelimited C# conversion. Use API example code for batch ods files to tabdelimited conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert ODS to TABDELIMITED format in C# code. Save ODS as TABDELIMITED using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

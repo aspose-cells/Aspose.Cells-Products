@@ -1,7 +1,7 @@
 ---
 title: Convert ODS to JPG via Java 
 url: /java/conversion/ods-to-jpg/
-description: Sample Java conversion code for ODS format to JPG file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to JPG within any Web or Desktop Java based Application.
+description: Convert ODS to JPG format in Java code. Save ODS as JPG using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

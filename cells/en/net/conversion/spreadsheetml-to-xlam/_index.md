@@ -1,7 +1,7 @@
 ---
 title: Convert SPREADSHEETML to XLAM via C#
 url: /net/conversion/spreadsheetml-to-xlam/
-description: Sample code for spreadsheetml to xlam C# conversion. Use API example code for batch spreadsheetml files to xlam conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert SPREADSHEETML to XLAM format in C# code. Save SPREADSHEETML as XLAM using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

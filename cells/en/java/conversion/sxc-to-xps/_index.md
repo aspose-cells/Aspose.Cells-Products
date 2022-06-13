@@ -1,7 +1,7 @@
 ---
 title: Convert SXC to XPS via Java 
 url: /java/conversion/sxc-to-xps/
-description: Sample Java conversion code for SXC format to XPS file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to XPS within any Web or Desktop Java based Application.
+description: Convert SXC to XPS format in Java code. Save SXC as XPS using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

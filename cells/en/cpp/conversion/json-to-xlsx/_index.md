@@ -1,7 +1,7 @@
 ---
-title: Convert JSON to XLSX via C++ application 
+title: Convert JSON to XLSX via C++
 url: /cpp/conversion/json-to-xlsx/
-description: Sample C++ conversion code for JSON to XLSX format. Programmers can use this source code for batch JSON to XLSX conversion within any C++ Application.
+description: Convert JSON to XLSX format in C++ code. Save JSON as XLSX using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

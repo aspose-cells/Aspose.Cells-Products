@@ -1,7 +1,7 @@
 ---
 title: Convert XLS to ODS via Java 
 url: /java/conversion/xls-to-ods/
-description: Sample Java conversion code for XLS format to ODS file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to ODS within any Web or Desktop Java based Application.
+description: Convert XLS to ODS format in Java code. Save XLS as ODS using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

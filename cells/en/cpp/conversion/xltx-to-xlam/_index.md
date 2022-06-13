@@ -1,7 +1,7 @@
 ---
-title: Convert XLTX to XLAM via C++ application 
+title: Convert XLTX to XLAM via C++
 url: /cpp/conversion/xltx-to-xlam/
-description: Sample C++ conversion code for XLTX to XLAM format. Programmers can use this source code for batch XLTX to XLAM conversion within any C++ Application.
+description: Convert XLTX to XLAM format in C++ code. Save XLTX as XLAM using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

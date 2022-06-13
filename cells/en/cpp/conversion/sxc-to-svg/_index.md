@@ -1,7 +1,7 @@
 ---
-title: Convert SXC to SVG via C++ application 
+title: Convert SXC to SVG via C++
 url: /cpp/conversion/sxc-to-svg/
-description: Sample C++ conversion code for SXC to SVG format. Programmers can use this source code for batch SXC to SVG conversion within any C++ Application.
+description: Convert SXC to SVG format in C++ code. Save SXC as SVG using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

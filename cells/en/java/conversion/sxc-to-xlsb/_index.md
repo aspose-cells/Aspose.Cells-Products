@@ -1,7 +1,7 @@
 ---
 title: Convert SXC to XLSB via Java 
 url: /java/conversion/sxc-to-xlsb/
-description: Sample Java conversion code for SXC format to XLSB file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to XLSB within any Web or Desktop Java based Application.
+description: Convert SXC to XLSB format in Java code. Save SXC as XLSB using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

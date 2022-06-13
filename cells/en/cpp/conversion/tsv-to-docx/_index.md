@@ -1,7 +1,7 @@
 ---
-title: Convert TSV to DOCX via C++ application 
+title: Convert TSV to DOCX via C++
 url: /cpp/conversion/tsv-to-docx/
-description: Sample C++ conversion code for TSV to DOCX format. Programmers can use this source code for batch TSV to DOCX conversion within any C++ Application.
+description: Convert TSV to DOCX format in C++ code. Save TSV as DOCX using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

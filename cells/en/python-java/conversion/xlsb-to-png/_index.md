@@ -1,7 +1,7 @@
 ---
 title: Convert XLSB to PNG via Python
 url: /python-java/conversion/xlsb-to-png/
-description: Sample code for xlsb to png Python conversion. Use API example code for batch xlsb files to png conversion within Python application.
+description: Convert XLSB to PNG format in Python code. Save XLSB as PNG using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

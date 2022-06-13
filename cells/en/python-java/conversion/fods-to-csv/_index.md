@@ -1,7 +1,7 @@
 ---
 title: Convert FODS to CSV via Python
 url: /python-java/conversion/fods-to-csv/
-description: Sample code for fods to csv Python conversion. Use API example code for batch fods files to csv conversion within Python application.
+description: Convert FODS to CSV format in Python code. Save FODS as CSV using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

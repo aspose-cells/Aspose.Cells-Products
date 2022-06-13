@@ -1,7 +1,7 @@
 ---
 title: Convert FODS to DOCX via Python
 url: /python-java/conversion/fods-to-docx/
-description: Sample code for fods to docx Python conversion. Use API example code for batch fods files to docx conversion within Python application.
+description: Convert FODS to DOCX format in Python code. Save FODS as DOCX using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

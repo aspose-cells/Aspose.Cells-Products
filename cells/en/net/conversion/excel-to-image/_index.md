@@ -1,7 +1,7 @@
 ---
 title: Convert EXCEL to IMAGE via C#
 url: /net/conversion/excel-to-image/
-description: Sample code for excel to image C# conversion. Use API example code for batch excel files to image conversion within C# application.
+description: Convert EXCEL to IMAGE format in C# code. Save EXCEL as IMAGE using C#.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

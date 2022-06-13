@@ -1,7 +1,7 @@
 ---
-title: Convert XLTM to XLSX via C++ application 
+title: Convert XLTM to XLSX via C++
 url: /cpp/conversion/xltm-to-xlsx/
-description: Sample C++ conversion code for XLTM to XLSX format. Programmers can use this source code for batch XLTM to XLSX conversion within any C++ Application.
+description: Convert XLTM to XLSX format in C++ code. Save XLTM as XLSX using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

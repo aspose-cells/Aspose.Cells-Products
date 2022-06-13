@@ -1,7 +1,7 @@
 ---
 title: Convert XLS to XLTX via Java 
 url: /java/conversion/xls-to-xltx/
-description: Sample Java conversion code for XLS format to XLTX file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to XLTX within any Web or Desktop Java based Application.
+description: Convert XLS to XLTX format in Java code. Save XLS as XLTX using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

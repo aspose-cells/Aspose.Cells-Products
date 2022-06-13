@@ -1,7 +1,7 @@
 ---
 title: Convert XLSX to GIF via Python
 url: /python-java/conversion/xlsx-to-gif/
-description: Sample code for xlsx to gif Python conversion. Use API example code for batch xlsx files to gif conversion within Python application.
+description: Convert XLSX to GIF format in Python code. Save XLSX as GIF using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

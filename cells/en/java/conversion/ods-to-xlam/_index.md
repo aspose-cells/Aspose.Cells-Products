@@ -1,7 +1,7 @@
 ---
 title: Convert ODS to XLAM via Java 
 url: /java/conversion/ods-to-xlam/
-description: Sample Java conversion code for ODS format to XLAM file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to XLAM within any Web or Desktop Java based Application.
+description: Convert ODS to XLAM format in Java code. Save ODS as XLAM using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

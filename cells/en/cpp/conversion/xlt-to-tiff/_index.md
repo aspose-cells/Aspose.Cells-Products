@@ -1,7 +1,7 @@
 ---
-title: Convert XLT to TIFF via C++ application 
+title: Convert XLT to TIFF via C++
 url: /cpp/conversion/xlt-to-tiff/
-description: Sample C++ conversion code for XLT to TIFF format. Programmers can use this source code for batch XLT to TIFF conversion within any C++ Application.
+description: Convert XLT to TIFF format in C++ code. Save XLT as TIFF using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

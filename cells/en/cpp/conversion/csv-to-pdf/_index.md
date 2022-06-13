@@ -1,7 +1,7 @@
 ---
-title: Convert CSV to PDF via C++ application 
+title: Convert CSV to PDF via C++
 url: /cpp/conversion/csv-to-pdf/
-description: Sample C++ conversion code for CSV to PDF format. Programmers can use this source code for batch CSV to PDF conversion within any C++ Application.
+description: Convert CSV to PDF format in C++ code. Save CSV as PDF using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

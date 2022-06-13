@@ -1,7 +1,7 @@
 ---
-title: Convert HTML to TSV via C++ application 
+title: Convert HTML to TSV via C++
 url: /cpp/conversion/html-to-tsv/
-description: Sample C++ conversion code for HTML to TSV format. Programmers can use this source code for batch HTML to TSV conversion within any C++ Application.
+description: Convert HTML to TSV format in C++ code. Save HTML as TSV using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

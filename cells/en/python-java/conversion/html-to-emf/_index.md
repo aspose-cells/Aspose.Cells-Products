@@ -1,7 +1,7 @@
 ---
 title: Convert HTML to EMF via Python
 url: /python-java/conversion/html-to-emf/
-description: Sample code for html to emf Python conversion. Use API example code for batch html files to emf conversion within Python application.
+description: Convert HTML to EMF format in Python code. Save HTML as EMF using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

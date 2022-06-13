@@ -1,7 +1,7 @@
 ---
-title: Convert HTML to JPG via C++ application 
+title: Convert HTML to JPG via C++
 url: /cpp/conversion/html-to-jpg/
-description: Sample C++ conversion code for HTML to JPG format. Programmers can use this source code for batch HTML to JPG conversion within any C++ Application.
+description: Convert HTML to JPG format in C++ code. Save HTML as JPG using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

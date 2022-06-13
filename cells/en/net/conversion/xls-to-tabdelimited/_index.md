@@ -1,7 +1,7 @@
 ---
 title: Convert XLS to TABDELIMITED via C#
 url: /net/conversion/xls-to-tabdelimited/
-description: Sample code for xls to tabdelimited C# conversion. Use API example code for batch xls files to tabdelimited conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert XLS to TABDELIMITED format in C# code. Save XLS as TABDELIMITED using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

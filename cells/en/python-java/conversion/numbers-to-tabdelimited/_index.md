@@ -1,7 +1,7 @@
 ---
 title: Convert NUMBERS to TABDELIMITED via Python
 url: /python-java/conversion/numbers-to-tabdelimited/
-description: Sample code for numbers to tabdelimited Python conversion. Use API example code for batch numbers files to tabdelimited conversion within Python application.
+description: Convert NUMBERS to TABDELIMITED format in Python code. Save NUMBERS as TABDELIMITED using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

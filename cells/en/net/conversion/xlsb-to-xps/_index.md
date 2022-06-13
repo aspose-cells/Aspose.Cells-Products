@@ -1,7 +1,7 @@
 ---
 title: Convert XLSB to XPS via C#
 url: /net/conversion/xlsb-to-xps/
-description: Sample code for xlsb to xps C# conversion. Use API example code for batch xlsb files to xps conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert XLSB to XPS format in C# code. Save XLSB as XPS using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

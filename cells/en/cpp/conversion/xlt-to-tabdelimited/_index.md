@@ -1,7 +1,7 @@
 ---
-title: Convert XLT to TABDELIMITED via C++ application 
+title: Convert XLT to TABDELIMITED via C++
 url: /cpp/conversion/xlt-to-tabdelimited/
-description: Sample C++ conversion code for XLT to TABDELIMITED format. Programmers can use this source code for batch XLT to TABDELIMITED conversion within any C++ Application.
+description: Convert XLT to TABDELIMITED format in C++ code. Save XLT as TABDELIMITED using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

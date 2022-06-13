@@ -1,7 +1,7 @@
 ---
 title: Convert TXT to XML via C#
 url: /net/conversion/txt-to-xml/
-description: Sample code for txt to xml C# conversion. Use API example code for batch txt files to xml conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert TXT to XML format in C# code. Save TXT as XML using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

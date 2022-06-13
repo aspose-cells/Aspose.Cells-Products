@@ -1,7 +1,7 @@
 ---
 title: Convert TSV to MHTML via Java 
 url: /java/conversion/tsv-to-mhtml/
-description: Sample Java conversion code for TSV format to MHTML file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to MHTML within any Web or Desktop Java based Application.
+description: Convert TSV to MHTML format in Java code. Save TSV as MHTML using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: Convert FODS to JSON via C++ application 
+title: Convert FODS to JSON via C++
 url: /cpp/conversion/fods-to-json/
-description: Sample C++ conversion code for FODS to JSON format. Programmers can use this source code for batch FODS to JSON conversion within any C++ Application.
+description: Convert FODS to JSON format in C++ code. Save FODS as JSON using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Convert XLT to XLSB via Java 
 url: /java/conversion/xlt-to-xlsb/
-description: Sample Java conversion code for XLT format to XLSB file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to XLSB within any Web or Desktop Java based Application.
+description: Convert XLT to XLSB format in Java code. Save XLT as XLSB using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: Convert ODS to DIF via C++ application 
+title: Convert ODS to DIF via C++
 url: /cpp/conversion/ods-to-dif/
-description: Sample C++ conversion code for ODS to DIF format. Programmers can use this source code for batch ODS to DIF conversion within any C++ Application.
+description: Convert ODS to DIF format in C++ code. Save ODS as DIF using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Convert NUMBERS to EMF via Python
 url: /python-java/conversion/numbers-to-emf/
-description: Sample code for numbers to emf Python conversion. Use API example code for batch numbers files to emf conversion within Python application.
+description: Convert NUMBERS to EMF format in Python code. Save NUMBERS as EMF using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Convert XLTM to MD via Java 
 url: /java/conversion/xltm-to-md/
-description: Sample Java conversion code for XLTM format to MD file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to MD within any Web or Desktop Java based Application.
+description: Convert XLTM to MD format in Java code. Save XLTM as MD using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

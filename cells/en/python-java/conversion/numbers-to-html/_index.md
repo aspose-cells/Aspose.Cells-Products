@@ -1,7 +1,7 @@
 ---
 title: Convert NUMBERS to HTML via Python
 url: /python-java/conversion/numbers-to-html/
-description: Sample code for numbers to html Python conversion. Use API example code for batch numbers files to html conversion within Python application.
+description: Convert NUMBERS to HTML format in Python code. Save NUMBERS as HTML using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Convert SXC to DIF via Java 
 url: /java/conversion/sxc-to-dif/
-description: Sample Java conversion code for SXC format to DIF file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to DIF within any Web or Desktop Java based Application.
+description: Convert SXC to DIF format in Java code. Save SXC as DIF using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

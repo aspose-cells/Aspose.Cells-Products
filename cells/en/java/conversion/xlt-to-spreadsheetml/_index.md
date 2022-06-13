@@ -1,7 +1,7 @@
 ---
 title: Convert XLT to SPREADSHEETML via Java 
 url: /java/conversion/xlt-to-spreadsheetml/
-description: Sample Java conversion code for XLT format to SPREADSHEETML file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to SPREADSHEETML within any Web or Desktop Java based Application.
+description: Convert XLT to SPREADSHEETML format in Java code. Save XLT as SPREADSHEETML using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

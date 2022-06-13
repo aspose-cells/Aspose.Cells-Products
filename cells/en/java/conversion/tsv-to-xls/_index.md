@@ -1,7 +1,7 @@
 ---
 title: Convert TSV to XLS via Java 
 url: /java/conversion/tsv-to-xls/
-description: Sample Java conversion code for TSV format to XLS file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to XLS within any Web or Desktop Java based Application.
+description: Convert TSV to XLS format in Java code. Save TSV as XLS using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

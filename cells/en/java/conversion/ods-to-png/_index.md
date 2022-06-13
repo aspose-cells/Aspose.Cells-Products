@@ -1,7 +1,7 @@
 ---
 title: Convert ODS to PNG via Java 
 url: /java/conversion/ods-to-png/
-description: Sample Java conversion code for ODS format to PNG file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to PNG within any Web or Desktop Java based Application.
+description: Convert ODS to PNG format in Java code. Save ODS as PNG using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

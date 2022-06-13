@@ -1,7 +1,7 @@
 ---
-title: Convert FODS to PDF via C++ application 
+title: Convert FODS to PDF via C++
 url: /cpp/conversion/fods-to-pdf/
-description: Sample C++ conversion code for FODS to PDF format. Programmers can use this source code for batch FODS to PDF conversion within any C++ Application.
+description: Convert FODS to PDF format in C++ code. Save FODS as PDF using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

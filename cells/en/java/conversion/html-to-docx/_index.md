@@ -1,7 +1,7 @@
 ---
 title: Convert HTML to DOCX via Java 
 url: /java/conversion/html-to-docx/
-description: Sample Java conversion code for HTML format to DOCX file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to DOCX within any Web or Desktop Java based Application.
+description: Convert HTML to DOCX format in Java code. Save HTML as DOCX using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

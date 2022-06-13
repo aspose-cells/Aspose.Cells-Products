@@ -1,7 +1,7 @@
 ---
 title: Convert EXCEL to JPG via Java 
 url: /java/conversion/excel-to-jpg/
-description: Sample Java conversion code for EXCEL format to JPG file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to JPG within any Web or Desktop Java based Application.
+description: Convert EXCEL to JPG format in Java code. Save EXCEL as JPG using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

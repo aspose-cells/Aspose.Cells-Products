@@ -1,7 +1,7 @@
 ---
-title: Convert XLSX to SQL via C++ application 
+title: Convert XLSX to SQL via C++
 url: /cpp/conversion/xlsx-to-sql/
-description: Sample C++ conversion code for XLSX to SQL format. Programmers can use this source code for batch XLSX to SQL conversion within any C++ Application.
+description: Convert XLSX to SQL format in C++ code. Save XLSX as SQL using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: Convert NUMBERS to ODS via C++ application 
+title: Convert NUMBERS to ODS via C++
 url: /cpp/conversion/numbers-to-ods/
-description: Sample C++ conversion code for NUMBERS to ODS format. Programmers can use this source code for batch NUMBERS to ODS conversion within any C++ Application.
+description: Convert NUMBERS to ODS format in C++ code. Save NUMBERS as ODS using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

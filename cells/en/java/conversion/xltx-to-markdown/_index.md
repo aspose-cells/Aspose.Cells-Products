@@ -1,7 +1,7 @@
 ---
 title: Convert XLTX to MARKDOWN via Java 
 url: /java/conversion/xltx-to-markdown/
-description: Sample Java conversion code for XLTX format to MARKDOWN file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to MARKDOWN within any Web or Desktop Java based Application.
+description: Convert XLTX to MARKDOWN format in Java code. Save XLTX as MARKDOWN using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

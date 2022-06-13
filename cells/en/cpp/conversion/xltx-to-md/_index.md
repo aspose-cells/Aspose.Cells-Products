@@ -1,7 +1,7 @@
 ---
-title: Convert XLTX to MD via C++ application 
+title: Convert XLTX to MD via C++
 url: /cpp/conversion/xltx-to-md/
-description: Sample C++ conversion code for XLTX to MD format. Programmers can use this source code for batch XLTX to MD conversion within any C++ Application.
+description: Convert XLTX to MD format in C++ code. Save XLTX as MD using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: Convert SXC to MD via C++ application 
+title: Convert SXC to MD via C++
 url: /cpp/conversion/sxc-to-md/
-description: Sample C++ conversion code for SXC to MD format. Programmers can use this source code for batch SXC to MD conversion within any C++ Application.
+description: Convert SXC to MD format in C++ code. Save SXC as MD using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

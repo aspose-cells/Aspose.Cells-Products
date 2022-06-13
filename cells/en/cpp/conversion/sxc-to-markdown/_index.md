@@ -1,7 +1,7 @@
 ---
-title: Convert SXC to MARKDOWN via C++ application 
+title: Convert SXC to MARKDOWN via C++
 url: /cpp/conversion/sxc-to-markdown/
-description: Sample C++ conversion code for SXC to MARKDOWN format. Programmers can use this source code for batch SXC to MARKDOWN conversion within any C++ Application.
+description: Convert SXC to MARKDOWN format in C++ code. Save SXC as MARKDOWN using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

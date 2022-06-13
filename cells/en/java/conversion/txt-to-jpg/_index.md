@@ -1,7 +1,7 @@
 ---
 title: Convert TXT to JPG via Java 
 url: /java/conversion/txt-to-jpg/
-description: Sample Java conversion code for TXT format to JPG file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to JPG within any Web or Desktop Java based Application.
+description: Convert TXT to JPG format in Java code. Save TXT as JPG using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

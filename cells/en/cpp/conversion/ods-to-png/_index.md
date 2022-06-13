@@ -1,7 +1,7 @@
 ---
-title: Convert ODS to PNG via C++ application 
+title: Convert ODS to PNG via C++
 url: /cpp/conversion/ods-to-png/
-description: Sample C++ conversion code for ODS to PNG format. Programmers can use this source code for batch ODS to PNG conversion within any C++ Application.
+description: Convert ODS to PNG format in C++ code. Save ODS as PNG using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

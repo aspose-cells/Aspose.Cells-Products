@@ -1,7 +1,7 @@
 ---
-title: Convert SXC to XML via C++ application 
+title: Convert SXC to XML via C++
 url: /cpp/conversion/sxc-to-xml/
-description: Sample C++ conversion code for SXC to XML format. Programmers can use this source code for batch SXC to XML conversion within any C++ Application.
+description: Convert SXC to XML format in C++ code. Save SXC as XML using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

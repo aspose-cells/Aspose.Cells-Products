@@ -1,7 +1,7 @@
 ---
 title: Convert XLSM to SPREADSHEETML via C#
 url: /net/conversion/xlsm-to-spreadsheetml/
-description: Sample code for xlsm to spreadsheetml C# conversion. Use API example code for batch xlsm files to spreadsheetml conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert XLSM to SPREADSHEETML format in C# code. Save XLSM as SPREADSHEETML using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

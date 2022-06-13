@@ -1,7 +1,7 @@
 ---
 title: Convert NUMBERS to XPS via C#
 url: /net/conversion/numbers-to-xps/
-description: Sample code for numbers to xps C# conversion. Use API example code for batch numbers files to xps conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert NUMBERS to XPS format in C# code. Save NUMBERS as XPS using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

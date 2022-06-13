@@ -1,7 +1,7 @@
 ---
 title: Convert FODS to HTML via Python
 url: /python-java/conversion/fods-to-html/
-description: Sample code for fods to html Python conversion. Use API example code for batch fods files to html conversion within Python application.
+description: Convert FODS to HTML format in Python code. Save FODS as HTML using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

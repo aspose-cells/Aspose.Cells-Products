@@ -1,7 +1,7 @@
 ---
-title: Convert ODS to XLSB via C++ application 
+title: Convert ODS to XLSB via C++
 url: /cpp/conversion/ods-to-xlsb/
-description: Sample C++ conversion code for ODS to XLSB format. Programmers can use this source code for batch ODS to XLSB conversion within any C++ Application.
+description: Convert ODS to XLSB format in C++ code. Save ODS as XLSB using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

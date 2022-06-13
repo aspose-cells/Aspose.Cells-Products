@@ -1,7 +1,7 @@
 ---
-title: Convert HTML to PNG via C++ application 
+title: Convert HTML to PNG via C++
 url: /cpp/conversion/html-to-png/
-description: Sample C++ conversion code for HTML to PNG format. Programmers can use this source code for batch HTML to PNG conversion within any C++ Application.
+description: Convert HTML to PNG format in C++ code. Save HTML as PNG using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

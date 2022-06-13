@@ -1,7 +1,7 @@
 ---
 title: Convert TABDELIMITED to PNG via Python
 url: /python-java/conversion/tabdelimited-to-png/
-description: Sample code for tabdelimited to png Python conversion. Use API example code for batch tabdelimited files to png conversion within Python application.
+description: Convert TABDELIMITED to PNG format in Python code. Save TABDELIMITED as PNG using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

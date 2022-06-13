@@ -1,7 +1,7 @@
 ---
 title: Convert ODS to GIF via Java 
 url: /java/conversion/ods-to-gif/
-description: Sample Java conversion code for ODS format to GIF file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to GIF within any Web or Desktop Java based Application.
+description: Convert ODS to GIF format in Java code. Save ODS as GIF using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: Convert ODS to TIFF via C++ application 
+title: Convert ODS to TIFF via C++
 url: /cpp/conversion/ods-to-tiff/
-description: Sample C++ conversion code for ODS to TIFF format. Programmers can use this source code for batch ODS to TIFF conversion within any C++ Application.
+description: Convert ODS to TIFF format in C++ code. Save ODS as TIFF using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

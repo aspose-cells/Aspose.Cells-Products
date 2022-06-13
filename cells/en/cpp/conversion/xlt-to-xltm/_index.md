@@ -1,7 +1,7 @@
 ---
-title: Convert XLT to XLTM via C++ application 
+title: Convert XLT to XLTM via C++
 url: /cpp/conversion/xlt-to-xltm/
-description: Sample C++ conversion code for XLT to XLTM format. Programmers can use this source code for batch XLT to XLTM conversion within any C++ Application.
+description: Convert XLT to XLTM format in C++ code. Save XLT as XLTM using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

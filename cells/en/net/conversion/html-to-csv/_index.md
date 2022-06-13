@@ -1,7 +1,7 @@
 ---
 title: Convert HTML to CSV via C#
 url: /net/conversion/html-to-csv/
-description: Sample code for html to csv C# conversion. Use API example code for batch html files to csv conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert HTML to CSV format in C# code. Save HTML as CSV using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

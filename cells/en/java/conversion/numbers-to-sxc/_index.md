@@ -1,7 +1,7 @@
 ---
 title: Convert NUMBERS to SXC via Java 
 url: /java/conversion/numbers-to-sxc/
-description: Sample Java conversion code for NUMBERS format to SXC file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to SXC within any Web or Desktop Java based Application.
+description: Convert NUMBERS to SXC format in Java code. Save NUMBERS as SXC using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

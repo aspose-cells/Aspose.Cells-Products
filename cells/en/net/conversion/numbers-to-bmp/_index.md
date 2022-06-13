@@ -1,7 +1,7 @@
 ---
 title: Convert NUMBERS to BMP via C#
 url: /net/conversion/numbers-to-bmp/
-description: Sample code for numbers to bmp C# conversion. Use API example code for batch numbers files to bmp conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert NUMBERS to BMP format in C# code. Save NUMBERS as BMP using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: Convert NUMBERS to XLT via C++ application 
+title: Convert NUMBERS to XLT via C++
 url: /cpp/conversion/numbers-to-xlt/
-description: Sample C++ conversion code for NUMBERS to XLT format. Programmers can use this source code for batch NUMBERS to XLT conversion within any C++ Application.
+description: Convert NUMBERS to XLT format in C++ code. Save NUMBERS as XLT using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: Convert XLS to GIF via C++ application 
+title: Convert XLS to GIF via C++
 url: /cpp/conversion/xls-to-gif/
-description: Sample C++ conversion code for XLS to GIF format. Programmers can use this source code for batch XLS to GIF conversion within any C++ Application.
+description: Convert XLS to GIF format in C++ code. Save XLS as GIF using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

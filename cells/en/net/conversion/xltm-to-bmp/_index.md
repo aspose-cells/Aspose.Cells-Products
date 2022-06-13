@@ -1,7 +1,7 @@
 ---
 title: Convert XLTM to BMP via C#
 url: /net/conversion/xltm-to-bmp/
-description: Sample code for xltm to bmp C# conversion. Use API example code for batch xltm files to bmp conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert XLTM to BMP format in C# code. Save XLTM as BMP using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

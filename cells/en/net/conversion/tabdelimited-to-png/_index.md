@@ -1,7 +1,7 @@
 ---
 title: Convert TABDELIMITED to PNG via C#
 url: /net/conversion/tabdelimited-to-png/
-description: Sample code for tabdelimited to png C# conversion. Use API example code for batch tabdelimited files to png conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert TABDELIMITED to PNG format in C# code. Save TABDELIMITED as PNG using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

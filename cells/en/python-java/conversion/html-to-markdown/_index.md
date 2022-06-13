@@ -1,7 +1,7 @@
 ---
 title: Convert HTML to MARKDOWN via Python
 url: /python-java/conversion/html-to-markdown/
-description: Sample code for html to markdown Python conversion. Use API example code for batch html files to markdown conversion within Python application.
+description: Convert HTML to MARKDOWN format in Python code. Save HTML as MARKDOWN using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

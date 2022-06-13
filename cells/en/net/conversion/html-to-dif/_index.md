@@ -1,7 +1,7 @@
 ---
 title: Convert HTML to DIF via C#
 url: /net/conversion/html-to-dif/
-description: Sample code for html to dif C# conversion. Use API example code for batch html files to dif conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert HTML to DIF format in C# code. Save HTML as DIF using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: Convert MHTML to DIF via C++ application 
+title: Convert MHTML to DIF via C++
 url: /cpp/conversion/mhtml-to-dif/
-description: Sample C++ conversion code for MHTML to DIF format. Programmers can use this source code for batch MHTML to DIF conversion within any C++ Application.
+description: Convert MHTML to DIF format in C++ code. Save MHTML as DIF using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

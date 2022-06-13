@@ -1,7 +1,7 @@
 ---
-title: Convert TXT to PNG via C++ application 
+title: Convert TXT to PNG via C++
 url: /cpp/conversion/txt-to-png/
-description: Sample C++ conversion code for TXT to PNG format. Programmers can use this source code for batch TXT to PNG conversion within any C++ Application.
+description: Convert TXT to PNG format in C++ code. Save TXT as PNG using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

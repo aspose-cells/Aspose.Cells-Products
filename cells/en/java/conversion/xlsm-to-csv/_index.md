@@ -1,7 +1,7 @@
 ---
 title: Convert XLSM to CSV via Java 
 url: /java/conversion/xlsm-to-csv/
-description: Sample Java conversion code for XLSM format to CSV file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to CSV within any Web or Desktop Java based Application.
+description: Convert XLSM to CSV format in Java code. Save XLSM as CSV using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

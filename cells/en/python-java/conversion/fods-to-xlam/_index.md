@@ -1,7 +1,7 @@
 ---
 title: Convert FODS to XLAM via Python
 url: /python-java/conversion/fods-to-xlam/
-description: Sample code for fods to xlam Python conversion. Use API example code for batch fods files to xlam conversion within Python application.
+description: Convert FODS to XLAM format in Python code. Save FODS as XLAM using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

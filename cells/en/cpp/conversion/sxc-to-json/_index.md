@@ -1,7 +1,7 @@
 ---
-title: Convert SXC to JSON via C++ application 
+title: Convert SXC to JSON via C++
 url: /cpp/conversion/sxc-to-json/
-description: Sample C++ conversion code for SXC to JSON format. Programmers can use this source code for batch SXC to JSON conversion within any C++ Application.
+description: Convert SXC to JSON format in C++ code. Save SXC as JSON using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

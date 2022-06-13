@@ -1,7 +1,7 @@
 ---
 title: Convert XLSX to XLS via Java 
 url: /java/conversion/xlsx-to-xls/
-description: Sample Java conversion code for XLSX format to XLS file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to XLS within any Web or Desktop Java based Application.
+description: Convert XLSX to XLS format in Java code. Save XLSX as XLS using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

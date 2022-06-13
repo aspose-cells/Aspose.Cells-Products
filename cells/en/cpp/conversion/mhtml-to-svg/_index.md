@@ -1,7 +1,7 @@
 ---
-title: Convert MHTML to SVG via C++ application 
+title: Convert MHTML to SVG via C++
 url: /cpp/conversion/mhtml-to-svg/
-description: Sample C++ conversion code for MHTML to SVG format. Programmers can use this source code for batch MHTML to SVG conversion within any C++ Application.
+description: Convert MHTML to SVG format in C++ code. Save MHTML as SVG using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

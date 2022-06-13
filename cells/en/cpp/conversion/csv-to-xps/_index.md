@@ -1,7 +1,7 @@
 ---
-title: Convert CSV to XPS via C++ application 
+title: Convert CSV to XPS via C++
 url: /cpp/conversion/csv-to-xps/
-description: Sample C++ conversion code for CSV to XPS format. Programmers can use this source code for batch CSV to XPS conversion within any C++ Application.
+description: Convert CSV to XPS format in C++ code. Save CSV as XPS using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

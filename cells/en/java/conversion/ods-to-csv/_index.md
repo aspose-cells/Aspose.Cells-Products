@@ -1,7 +1,7 @@
 ---
 title: Convert ODS to CSV via Java 
 url: /java/conversion/ods-to-csv/
-description: Sample Java conversion code for ODS format to CSV file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to CSV within any Web or Desktop Java based Application.
+description: Convert ODS to CSV format in Java code. Save ODS as CSV using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

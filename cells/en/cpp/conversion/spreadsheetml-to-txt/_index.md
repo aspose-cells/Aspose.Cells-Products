@@ -1,7 +1,7 @@
 ---
-title: Convert SPREADSHEETML to TXT via C++ application 
+title: Convert SPREADSHEETML to TXT via C++
 url: /cpp/conversion/spreadsheetml-to-txt/
-description: Sample C++ conversion code for SPREADSHEETML to TXT format. Programmers can use this source code for batch SPREADSHEETML to TXT conversion within any C++ Application.
+description: Convert SPREADSHEETML to TXT format in C++ code. Save SPREADSHEETML as TXT using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

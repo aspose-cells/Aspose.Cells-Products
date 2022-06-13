@@ -1,7 +1,7 @@
 ---
-title: Convert NUMBERS to DOCX via C++ application 
+title: Convert NUMBERS to DOCX via C++
 url: /cpp/conversion/numbers-to-docx/
-description: Sample C++ conversion code for NUMBERS to DOCX format. Programmers can use this source code for batch NUMBERS to DOCX conversion within any C++ Application.
+description: Convert NUMBERS to DOCX format in C++ code. Save NUMBERS as DOCX using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

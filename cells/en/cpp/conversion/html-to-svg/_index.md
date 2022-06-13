@@ -1,7 +1,7 @@
 ---
-title: Convert HTML to SVG via C++ application 
+title: Convert HTML to SVG via C++
 url: /cpp/conversion/html-to-svg/
-description: Sample C++ conversion code for HTML to SVG format. Programmers can use this source code for batch HTML to SVG conversion within any C++ Application.
+description: Convert HTML to SVG format in C++ code. Save HTML as SVG using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

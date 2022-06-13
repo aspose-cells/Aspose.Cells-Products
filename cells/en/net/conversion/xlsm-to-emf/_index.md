@@ -1,7 +1,7 @@
 ---
 title: Convert XLSM to EMF via C#
 url: /net/conversion/xlsm-to-emf/
-description: Sample code for xlsm to emf C# conversion. Use API example code for batch xlsm files to emf conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert XLSM to EMF format in C# code. Save XLSM as EMF using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: Convert TSV to FODS via C++ application 
+title: Convert TSV to FODS via C++
 url: /cpp/conversion/tsv-to-fods/
-description: Sample C++ conversion code for TSV to FODS format. Programmers can use this source code for batch TSV to FODS conversion within any C++ Application.
+description: Convert TSV to FODS format in C++ code. Save TSV as FODS using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

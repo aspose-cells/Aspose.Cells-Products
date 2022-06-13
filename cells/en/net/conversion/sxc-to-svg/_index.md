@@ -1,7 +1,7 @@
 ---
 title: Convert SXC to SVG via C#
 url: /net/conversion/sxc-to-svg/
-description: Sample code for sxc to svg C# conversion. Use API example code for batch sxc files to svg conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert SXC to SVG format in C# code. Save SXC as SVG using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

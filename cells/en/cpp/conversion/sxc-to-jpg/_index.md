@@ -1,7 +1,7 @@
 ---
-title: Convert SXC to JPG via C++ application 
+title: Convert SXC to JPG via C++
 url: /cpp/conversion/sxc-to-jpg/
-description: Sample C++ conversion code for SXC to JPG format. Programmers can use this source code for batch SXC to JPG conversion within any C++ Application.
+description: Convert SXC to JPG format in C++ code. Save SXC as JPG using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

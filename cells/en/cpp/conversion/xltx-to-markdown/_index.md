@@ -1,7 +1,7 @@
 ---
-title: Convert XLTX to MARKDOWN via C++ application 
+title: Convert XLTX to MARKDOWN via C++
 url: /cpp/conversion/xltx-to-markdown/
-description: Sample C++ conversion code for XLTX to MARKDOWN format. Programmers can use this source code for batch XLTX to MARKDOWN conversion within any C++ Application.
+description: Convert XLTX to MARKDOWN format in C++ code. Save XLTX as MARKDOWN using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

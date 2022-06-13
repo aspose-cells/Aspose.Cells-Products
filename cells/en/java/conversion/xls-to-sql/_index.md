@@ -1,7 +1,7 @@
 ---
 title: Convert XLS to SQL via Java 
 url: /java/conversion/xls-to-sql/
-description: Sample Java conversion code for XLS format to SQL file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to SQL within any Web or Desktop Java based Application.
+description: Convert XLS to SQL format in Java code. Save XLS as SQL using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Convert XLS to CSV via C#
 url: /net/conversion/xls-to-csv/
-description: Sample code for xls to csv C# conversion. Use API example code for batch xls files to csv conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert XLS to CSV format in C# code. Save XLS as CSV using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

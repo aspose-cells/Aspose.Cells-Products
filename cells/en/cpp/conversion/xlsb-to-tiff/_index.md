@@ -1,7 +1,7 @@
 ---
-title: Convert XLSB to TIFF via C++ application 
+title: Convert XLSB to TIFF via C++
 url: /cpp/conversion/xlsb-to-tiff/
-description: Sample C++ conversion code for XLSB to TIFF format. Programmers can use this source code for batch XLSB to TIFF conversion within any C++ Application.
+description: Convert XLSB to TIFF format in C++ code. Save XLSB as TIFF using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

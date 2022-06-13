@@ -1,7 +1,7 @@
 ---
-title: Convert NUMBERS to XLSX via C++ application 
+title: Convert NUMBERS to XLSX via C++
 url: /cpp/conversion/numbers-to-xlsx/
-description: Sample C++ conversion code for NUMBERS to XLSX format. Programmers can use this source code for batch NUMBERS to XLSX conversion within any C++ Application.
+description: Convert NUMBERS to XLSX format in C++ code. Save NUMBERS as XLSX using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Convert TXT to TIFF via C#
 url: /net/conversion/txt-to-tiff/
-description: Sample code for txt to tiff C# conversion. Use API example code for batch txt files to tiff conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert TXT to TIFF format in C# code. Save TXT as TIFF using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

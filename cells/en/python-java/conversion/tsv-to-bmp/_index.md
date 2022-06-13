@@ -1,7 +1,7 @@
 ---
 title: Convert TSV to BMP via Python
 url: /python-java/conversion/tsv-to-bmp/
-description: Sample code for tsv to bmp Python conversion. Use API example code for batch tsv files to bmp conversion within Python application.
+description: Convert TSV to BMP format in Python code. Save TSV as BMP using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

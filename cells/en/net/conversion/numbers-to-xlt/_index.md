@@ -1,7 +1,7 @@
 ---
 title: Convert NUMBERS to XLT via C#
 url: /net/conversion/numbers-to-xlt/
-description: Sample code for numbers to xlt C# conversion. Use API example code for batch numbers files to xlt conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert NUMBERS to XLT format in C# code. Save NUMBERS as XLT using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

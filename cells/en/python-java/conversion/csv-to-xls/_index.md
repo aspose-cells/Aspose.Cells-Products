@@ -1,7 +1,7 @@
 ---
 title: Convert CSV to XLS via Python
 url: /python-java/conversion/csv-to-xls/
-description: Sample code for csv to xls Python conversion. Use API example code for batch csv files to xls conversion within Python application.
+description: Convert CSV to XLS format in Python code. Save CSV as XLS using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

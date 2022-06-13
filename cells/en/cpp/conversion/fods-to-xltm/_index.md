@@ -1,7 +1,7 @@
 ---
-title: Convert FODS to XLTM via C++ application 
+title: Convert FODS to XLTM via C++
 url: /cpp/conversion/fods-to-xltm/
-description: Sample C++ conversion code for FODS to XLTM format. Programmers can use this source code for batch FODS to XLTM conversion within any C++ Application.
+description: Convert FODS to XLTM format in C++ code. Save FODS as XLTM using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

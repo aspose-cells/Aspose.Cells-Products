@@ -1,7 +1,7 @@
 ---
 title: Convert TXT to SVG via C#
 url: /net/conversion/txt-to-svg/
-description: Sample code for txt to svg C# conversion. Use API example code for batch txt files to svg conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert TXT to SVG format in C# code. Save TXT as SVG using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

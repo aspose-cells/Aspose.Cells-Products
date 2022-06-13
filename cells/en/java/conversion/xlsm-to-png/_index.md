@@ -1,7 +1,7 @@
 ---
 title: Convert XLSM to PNG via Java 
 url: /java/conversion/xlsm-to-png/
-description: Sample Java conversion code for XLSM format to PNG file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to PNG within any Web or Desktop Java based Application.
+description: Convert XLSM to PNG format in Java code. Save XLSM as PNG using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

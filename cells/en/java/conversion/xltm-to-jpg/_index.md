@@ -1,7 +1,7 @@
 ---
 title: Convert XLTM to JPG via Java 
 url: /java/conversion/xltm-to-jpg/
-description: Sample Java conversion code for XLTM format to JPG file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to JPG within any Web or Desktop Java based Application.
+description: Convert XLTM to JPG format in Java code. Save XLTM as JPG using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

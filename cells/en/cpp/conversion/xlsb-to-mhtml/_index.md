@@ -1,7 +1,7 @@
 ---
-title: Convert XLSB to MHTML via C++ application 
+title: Convert XLSB to MHTML via C++
 url: /cpp/conversion/xlsb-to-mhtml/
-description: Sample C++ conversion code for XLSB to MHTML format. Programmers can use this source code for batch XLSB to MHTML conversion within any C++ Application.
+description: Convert XLSB to MHTML format in C++ code. Save XLSB as MHTML using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

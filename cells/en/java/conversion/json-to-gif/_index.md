@@ -1,7 +1,7 @@
 ---
 title: Convert JSON to GIF via Java 
 url: /java/conversion/json-to-gif/
-description: Sample Java conversion code for JSON format to GIF file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to GIF within any Web or Desktop Java based Application.
+description: Convert JSON to GIF format in Java code. Save JSON as GIF using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

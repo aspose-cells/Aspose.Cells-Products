@@ -1,7 +1,7 @@
 ---
 title: Convert FODS to CSV via Java 
 url: /java/conversion/fods-to-csv/
-description: Sample Java conversion code for FODS format to CSV file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to CSV within any Web or Desktop Java based Application.
+description: Convert FODS to CSV format in Java code. Save FODS as CSV using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

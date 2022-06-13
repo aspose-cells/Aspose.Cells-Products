@@ -1,7 +1,7 @@
 ---
 title: Convert ODS to FODS via C#
 url: /net/conversion/ods-to-fods/
-description: Sample code for ods to fods C# conversion. Use API example code for batch ods files to fods conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert ODS to FODS format in C# code. Save ODS as FODS using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

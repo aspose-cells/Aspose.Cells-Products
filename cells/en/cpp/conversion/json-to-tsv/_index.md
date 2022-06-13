@@ -1,7 +1,7 @@
 ---
-title: Convert JSON to TSV via C++ application 
+title: Convert JSON to TSV via C++
 url: /cpp/conversion/json-to-tsv/
-description: Sample C++ conversion code for JSON to TSV format. Programmers can use this source code for batch JSON to TSV conversion within any C++ Application.
+description: Convert JSON to TSV format in C++ code. Save JSON as TSV using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

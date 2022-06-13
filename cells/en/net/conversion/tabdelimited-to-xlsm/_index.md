@@ -1,7 +1,7 @@
 ---
 title: Convert TABDELIMITED to XLSM via C#
 url: /net/conversion/tabdelimited-to-xlsm/
-description: Sample code for tabdelimited to xlsm C# conversion. Use API example code for batch tabdelimited files to xlsm conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert TABDELIMITED to XLSM format in C# code. Save TABDELIMITED as XLSM using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

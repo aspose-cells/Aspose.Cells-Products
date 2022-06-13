@@ -1,7 +1,7 @@
 ---
 title: Convert XLTX to JSON via Java 
 url: /java/conversion/xltx-to-json/
-description: Sample Java conversion code for XLTX format to JSON file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to JSON within any Web or Desktop Java based Application.
+description: Convert XLTX to JSON format in Java code. Save XLTX as JSON using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

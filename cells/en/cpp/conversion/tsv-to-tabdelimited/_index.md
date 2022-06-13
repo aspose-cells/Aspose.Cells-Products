@@ -1,7 +1,7 @@
 ---
-title: Convert TSV to TABDELIMITED via C++ application 
+title: Convert TSV to TABDELIMITED via C++
 url: /cpp/conversion/tsv-to-tabdelimited/
-description: Sample C++ conversion code for TSV to TABDELIMITED format. Programmers can use this source code for batch TSV to TABDELIMITED conversion within any C++ Application.
+description: Convert TSV to TABDELIMITED format in C++ code. Save TSV as TABDELIMITED using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

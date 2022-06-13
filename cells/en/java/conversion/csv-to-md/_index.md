@@ -1,7 +1,7 @@
 ---
 title: Convert CSV to MD via Java 
 url: /java/conversion/csv-to-md/
-description: Sample Java conversion code for CSV format to MD file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to MD within any Web or Desktop Java based Application.
+description: Convert CSV to MD format in Java code. Save CSV as MD using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

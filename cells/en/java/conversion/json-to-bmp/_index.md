@@ -1,7 +1,7 @@
 ---
 title: Convert JSON to BMP via Java 
 url: /java/conversion/json-to-bmp/
-description: Sample Java conversion code for JSON format to BMP file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to BMP within any Web or Desktop Java based Application.
+description: Convert JSON to BMP format in Java code. Save JSON as BMP using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

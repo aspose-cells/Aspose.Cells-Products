@@ -1,7 +1,7 @@
 ---
-title: Convert XLSX to PPTX via C++ application 
+title: Convert XLSX to PPTX via C++
 url: /cpp/conversion/xlsx-to-pptx/
-description: Sample C++ conversion code for XLSX to PPTX format. Programmers can use this source code for batch XLSX to PPTX conversion within any C++ Application.
+description: Convert XLSX to PPTX format in C++ code. Save XLSX as PPTX using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

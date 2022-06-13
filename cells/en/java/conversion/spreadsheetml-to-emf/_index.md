@@ -1,7 +1,7 @@
 ---
 title: Convert SPREADSHEETML to EMF via Java 
 url: /java/conversion/spreadsheetml-to-emf/
-description: Sample Java conversion code for SPREADSHEETML format to EMF file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to EMF within any Web or Desktop Java based Application.
+description: Convert SPREADSHEETML to EMF format in Java code. Save SPREADSHEETML as EMF using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

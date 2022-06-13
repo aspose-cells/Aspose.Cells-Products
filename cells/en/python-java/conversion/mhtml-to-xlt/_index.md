@@ -1,7 +1,7 @@
 ---
 title: Convert MHTML to XLT via Python
 url: /python-java/conversion/mhtml-to-xlt/
-description: Sample code for mhtml to xlt Python conversion. Use API example code for batch mhtml files to xlt conversion within Python application.
+description: Convert MHTML to XLT format in Python code. Save MHTML as XLT using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

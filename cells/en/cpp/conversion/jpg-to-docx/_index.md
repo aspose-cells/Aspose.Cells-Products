@@ -1,7 +1,7 @@
 ---
-title: Convert JPG to DOCX via C++ application 
+title: Convert JPG to DOCX via C++
 url: /cpp/conversion/jpg-to-docx/
-description: Sample C++ conversion code for JPG to DOCX format. Programmers can use this source code for batch JPG to DOCX conversion within any C++ Application.
+description: Convert JPG to DOCX format in C++ code. Save JPG as DOCX using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

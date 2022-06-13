@@ -1,7 +1,7 @@
 ---
 title: Convert FODS to XLSB via Java 
 url: /java/conversion/fods-to-xlsb/
-description: Sample Java conversion code for FODS format to XLSB file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to XLSB within any Web or Desktop Java based Application.
+description: Convert FODS to XLSB format in Java code. Save FODS as XLSB using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

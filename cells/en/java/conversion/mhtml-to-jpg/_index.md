@@ -1,7 +1,7 @@
 ---
 title: Convert MHTML to JPG via Java 
 url: /java/conversion/mhtml-to-jpg/
-description: Sample Java conversion code for MHTML format to JPG file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to JPG within any Web or Desktop Java based Application.
+description: Convert MHTML to JPG format in Java code. Save MHTML as JPG using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

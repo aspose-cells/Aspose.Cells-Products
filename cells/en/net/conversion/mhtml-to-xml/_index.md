@@ -1,7 +1,7 @@
 ---
 title: Convert MHTML to XML via C#
 url: /net/conversion/mhtml-to-xml/
-description: Sample code for mhtml to xml C# conversion. Use API example code for batch mhtml files to xml conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert MHTML to XML format in C# code. Save MHTML as XML using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

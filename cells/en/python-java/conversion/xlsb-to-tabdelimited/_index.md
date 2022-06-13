@@ -1,7 +1,7 @@
 ---
 title: Convert XLSB to TABDELIMITED via Python
 url: /python-java/conversion/xlsb-to-tabdelimited/
-description: Sample code for xlsb to tabdelimited Python conversion. Use API example code for batch xlsb files to tabdelimited conversion within Python application.
+description: Convert XLSB to TABDELIMITED format in Python code. Save XLSB as TABDELIMITED using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

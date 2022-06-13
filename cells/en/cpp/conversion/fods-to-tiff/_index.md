@@ -1,7 +1,7 @@
 ---
-title: Convert FODS to TIFF via C++ application 
+title: Convert FODS to TIFF via C++
 url: /cpp/conversion/fods-to-tiff/
-description: Sample C++ conversion code for FODS to TIFF format. Programmers can use this source code for batch FODS to TIFF conversion within any C++ Application.
+description: Convert FODS to TIFF format in C++ code. Save FODS as TIFF using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

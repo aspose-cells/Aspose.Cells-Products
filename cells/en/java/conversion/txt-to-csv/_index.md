@@ -1,7 +1,7 @@
 ---
 title: Convert TXT to CSV via Java 
 url: /java/conversion/txt-to-csv/
-description: Sample Java conversion code for TXT format to CSV file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to CSV within any Web or Desktop Java based Application.
+description: Convert TXT to CSV format in Java code. Save TXT as CSV using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

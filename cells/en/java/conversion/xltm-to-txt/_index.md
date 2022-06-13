@@ -1,7 +1,7 @@
 ---
 title: Convert XLTM to TXT via Java 
 url: /java/conversion/xltm-to-txt/
-description: Sample Java conversion code for XLTM format to TXT file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to TXT within any Web or Desktop Java based Application.
+description: Convert XLTM to TXT format in Java code. Save XLTM as TXT using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

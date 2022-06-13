@@ -1,7 +1,7 @@
 ---
 title: Convert CSV to SPREADSHEETML via C#
 url: /net/conversion/csv-to-spreadsheetml/
-description: Sample code for csv to spreadsheetml C# conversion. Use API example code for batch csv files to spreadsheetml conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert CSV to SPREADSHEETML format in C# code. Save CSV as SPREADSHEETML using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

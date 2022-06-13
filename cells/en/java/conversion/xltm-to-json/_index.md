@@ -1,7 +1,7 @@
 ---
 title: Convert XLTM to JSON via Java 
 url: /java/conversion/xltm-to-json/
-description: Sample Java conversion code for XLTM format to JSON file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to JSON within any Web or Desktop Java based Application.
+description: Convert XLTM to JSON format in Java code. Save XLTM as JSON using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Convert CSV to JPEG via C#
 url: /net/conversion/csv-to-jpeg/
-description: Sample code for csv to jpeg C# conversion. Use API example code for batch csv files to jpeg conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert CSV to JPEG format in C# code. Save CSV as JPEG using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Convert XLSM to DIF via Python
 url: /python-java/conversion/xlsm-to-dif/
-description: Sample code for xlsm to dif Python conversion. Use API example code for batch xlsm files to dif conversion within Python application.
+description: Convert XLSM to DIF format in Python code. Save XLSM as DIF using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

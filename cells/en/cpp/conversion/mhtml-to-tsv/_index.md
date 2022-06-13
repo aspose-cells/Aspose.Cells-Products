@@ -1,7 +1,7 @@
 ---
-title: Convert MHTML to TSV via C++ application 
+title: Convert MHTML to TSV via C++
 url: /cpp/conversion/mhtml-to-tsv/
-description: Sample C++ conversion code for MHTML to TSV format. Programmers can use this source code for batch MHTML to TSV conversion within any C++ Application.
+description: Convert MHTML to TSV format in C++ code. Save MHTML as TSV using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: Convert NUMBERS to PDF via C++ application 
+title: Convert NUMBERS to PDF via C++
 url: /cpp/conversion/numbers-to-pdf/
-description: Sample C++ conversion code for NUMBERS to PDF format. Programmers can use this source code for batch NUMBERS to PDF conversion within any C++ Application.
+description: Convert NUMBERS to PDF format in C++ code. Save NUMBERS as PDF using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

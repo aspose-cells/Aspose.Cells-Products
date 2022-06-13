@@ -1,7 +1,7 @@
 ---
-title: Convert EXCEL to JPG via C++ application 
+title: Convert EXCEL to JPG via C++
 url: /cpp/conversion/excel-to-jpg/
-description: Sample C++ conversion code for EXCEL to JPG format. Programmers can use this source code for batch EXCEL to JPG conversion within any C++ Application.
+description: Convert EXCEL to JPG format in C++ code. Save EXCEL as JPG using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

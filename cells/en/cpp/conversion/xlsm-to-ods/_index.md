@@ -1,7 +1,7 @@
 ---
-title: Convert XLSM to ODS via C++ application 
+title: Convert XLSM to ODS via C++
 url: /cpp/conversion/xlsm-to-ods/
-description: Sample C++ conversion code for XLSM to ODS format. Programmers can use this source code for batch XLSM to ODS conversion within any C++ Application.
+description: Convert XLSM to ODS format in C++ code. Save XLSM as ODS using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

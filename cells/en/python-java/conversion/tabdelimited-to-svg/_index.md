@@ -1,7 +1,7 @@
 ---
 title: Convert TABDELIMITED to SVG via Python
 url: /python-java/conversion/tabdelimited-to-svg/
-description: Sample code for tabdelimited to svg Python conversion. Use API example code for batch tabdelimited files to svg conversion within Python application.
+description: Convert TABDELIMITED to SVG format in Python code. Save TABDELIMITED as SVG using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

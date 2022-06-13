@@ -1,7 +1,7 @@
 ---
 title: Convert XLSM to XLS via Java 
 url: /java/conversion/xlsm-to-xls/
-description: Sample Java conversion code for XLSM format to XLS file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to XLS within any Web or Desktop Java based Application.
+description: Convert XLSM to XLS format in Java code. Save XLSM as XLS using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

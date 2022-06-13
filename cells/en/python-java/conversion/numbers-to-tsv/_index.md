@@ -1,7 +1,7 @@
 ---
 title: Convert NUMBERS to TSV via Python
 url: /python-java/conversion/numbers-to-tsv/
-description: Sample code for numbers to tsv Python conversion. Use API example code for batch numbers files to tsv conversion within Python application.
+description: Convert NUMBERS to TSV format in Python code. Save NUMBERS as TSV using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

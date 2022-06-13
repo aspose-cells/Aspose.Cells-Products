@@ -1,7 +1,7 @@
 ---
-title: Convert CSV to FODS via C++ application 
+title: Convert CSV to FODS via C++
 url: /cpp/conversion/csv-to-fods/
-description: Sample C++ conversion code for CSV to FODS format. Programmers can use this source code for batch CSV to FODS conversion within any C++ Application.
+description: Convert CSV to FODS format in C++ code. Save CSV as FODS using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

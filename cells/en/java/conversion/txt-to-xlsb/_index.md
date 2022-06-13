@@ -1,7 +1,7 @@
 ---
 title: Convert TXT to XLSB via Java 
 url: /java/conversion/txt-to-xlsb/
-description: Sample Java conversion code for TXT format to XLSB file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to XLSB within any Web or Desktop Java based Application.
+description: Convert TXT to XLSB format in Java code. Save TXT as XLSB using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

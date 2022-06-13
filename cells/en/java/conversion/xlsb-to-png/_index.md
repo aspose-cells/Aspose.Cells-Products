@@ -1,7 +1,7 @@
 ---
 title: Convert XLSB to PNG via Java 
 url: /java/conversion/xlsb-to-png/
-description: Sample Java conversion code for XLSB format to PNG file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to PNG within any Web or Desktop Java based Application.
+description: Convert XLSB to PNG format in Java code. Save XLSB as PNG using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

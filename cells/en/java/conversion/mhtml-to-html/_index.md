@@ -1,7 +1,7 @@
 ---
 title: Convert MHTML to HTML via Java 
 url: /java/conversion/mhtml-to-html/
-description: Sample Java conversion code for MHTML format to HTML file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to HTML within any Web or Desktop Java based Application.
+description: Convert MHTML to HTML format in Java code. Save MHTML as HTML using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

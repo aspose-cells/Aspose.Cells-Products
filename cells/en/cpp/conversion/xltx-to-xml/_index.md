@@ -1,7 +1,7 @@
 ---
-title: Convert XLTX to XML via C++ application 
+title: Convert XLTX to XML via C++
 url: /cpp/conversion/xltx-to-xml/
-description: Sample C++ conversion code for XLTX to XML format. Programmers can use this source code for batch XLTX to XML conversion within any C++ Application.
+description: Convert XLTX to XML format in C++ code. Save XLTX as XML using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

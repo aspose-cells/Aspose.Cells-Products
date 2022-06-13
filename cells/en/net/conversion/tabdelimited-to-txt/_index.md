@@ -1,7 +1,7 @@
 ---
 title: Convert TABDELIMITED to TXT via C#
 url: /net/conversion/tabdelimited-to-txt/
-description: Sample code for tabdelimited to txt C# conversion. Use API example code for batch tabdelimited files to txt conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert TABDELIMITED to TXT format in C# code. Save TABDELIMITED as TXT using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

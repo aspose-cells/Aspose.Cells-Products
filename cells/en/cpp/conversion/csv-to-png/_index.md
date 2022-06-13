@@ -1,7 +1,7 @@
 ---
-title: Convert CSV to PNG via C++ application 
+title: Convert CSV to PNG via C++
 url: /cpp/conversion/csv-to-png/
-description: Sample C++ conversion code for CSV to PNG format. Programmers can use this source code for batch CSV to PNG conversion within any C++ Application.
+description: Convert CSV to PNG format in C++ code. Save CSV as PNG using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: Convert XLS to MD via C++ application 
+title: Convert XLS to MD via C++
 url: /cpp/conversion/xls-to-md/
-description: Sample C++ conversion code for XLS to MD format. Programmers can use this source code for batch XLS to MD conversion within any C++ Application.
+description: Convert XLS to MD format in C++ code. Save XLS as MD using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

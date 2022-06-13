@@ -1,7 +1,7 @@
 ---
 title: Convert JSON to XLSB via Python
 url: /python-java/conversion/json-to-xlsb/
-description: Sample code for json to xlsb Python conversion. Use API example code for batch json files to xlsb conversion within Python application.
+description: Convert JSON to XLSB format in Python code. Save JSON as XLSB using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

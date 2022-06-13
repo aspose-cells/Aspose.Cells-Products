@@ -1,7 +1,7 @@
 ---
 title: Convert TABDELIMITED to MARKDOWN via C#
 url: /net/conversion/tabdelimited-to-markdown/
-description: Sample code for tabdelimited to markdown C# conversion. Use API example code for batch tabdelimited files to markdown conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert TABDELIMITED to MARKDOWN format in C# code. Save TABDELIMITED as MARKDOWN using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

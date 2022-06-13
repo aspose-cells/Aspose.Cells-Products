@@ -1,7 +1,7 @@
 ---
 title: Convert FODS to XML via C#
 url: /net/conversion/fods-to-xml/
-description: Sample code for fods to xml C# conversion. Use API example code for batch fods files to xml conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert FODS to XML format in C# code. Save FODS as XML using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

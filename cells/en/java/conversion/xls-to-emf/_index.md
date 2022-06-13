@@ -1,7 +1,7 @@
 ---
 title: Convert XLS to EMF via Java 
 url: /java/conversion/xls-to-emf/
-description: Sample Java conversion code for XLS format to EMF file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to EMF within any Web or Desktop Java based Application.
+description: Convert XLS to EMF format in Java code. Save XLS as EMF using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

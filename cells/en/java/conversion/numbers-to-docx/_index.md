@@ -1,7 +1,7 @@
 ---
 title: Convert NUMBERS to DOCX via Java 
 url: /java/conversion/numbers-to-docx/
-description: Sample Java conversion code for NUMBERS format to DOCX file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to DOCX within any Web or Desktop Java based Application.
+description: Convert NUMBERS to DOCX format in Java code. Save NUMBERS as DOCX using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

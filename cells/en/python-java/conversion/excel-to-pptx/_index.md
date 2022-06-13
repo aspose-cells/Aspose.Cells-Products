@@ -1,7 +1,7 @@
 ---
 title: Convert EXCEL to PPTX via Python
 url: /python-java/conversion/excel-to-pptx/
-description: Sample code for excel to pptx Python conversion. Use API example code for batch excel files to pptx conversion within Python application.
+description: Convert EXCEL to PPTX format in Python code. Save EXCEL as PPTX using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

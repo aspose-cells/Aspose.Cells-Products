@@ -1,7 +1,7 @@
 ---
 title: Convert FODS to DOCX via C#
 url: /net/conversion/fods-to-docx/
-description: Sample code for fods to docx C# conversion. Use API example code for batch fods files to docx conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert FODS to DOCX format in C# code. Save FODS as DOCX using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

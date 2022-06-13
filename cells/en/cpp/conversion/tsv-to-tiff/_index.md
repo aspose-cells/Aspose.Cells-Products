@@ -1,7 +1,7 @@
 ---
-title: Convert TSV to TIFF via C++ application 
+title: Convert TSV to TIFF via C++
 url: /cpp/conversion/tsv-to-tiff/
-description: Sample C++ conversion code for TSV to TIFF format. Programmers can use this source code for batch TSV to TIFF conversion within any C++ Application.
+description: Convert TSV to TIFF format in C++ code. Save TSV as TIFF using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

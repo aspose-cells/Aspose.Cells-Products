@@ -1,7 +1,7 @@
 ---
-title: Convert XLSB to SXC via C++ application 
+title: Convert XLSB to SXC via C++
 url: /cpp/conversion/xlsb-to-sxc/
-description: Sample C++ conversion code for XLSB to SXC format. Programmers can use this source code for batch XLSB to SXC conversion within any C++ Application.
+description: Convert XLSB to SXC format in C++ code. Save XLSB as SXC using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: Convert ODS to FODS via C++ application 
+title: Convert ODS to FODS via C++
 url: /cpp/conversion/ods-to-fods/
-description: Sample C++ conversion code for ODS to FODS format. Programmers can use this source code for batch ODS to FODS conversion within any C++ Application.
+description: Convert ODS to FODS format in C++ code. Save ODS as FODS using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

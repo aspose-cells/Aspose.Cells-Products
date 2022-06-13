@@ -1,7 +1,7 @@
 ---
 title: Convert HTML to ODS via Python
 url: /python-java/conversion/html-to-ods/
-description: Sample code for html to ods Python conversion. Use API example code for batch html files to ods conversion within Python application.
+description: Convert HTML to ODS format in Python code. Save HTML as ODS using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

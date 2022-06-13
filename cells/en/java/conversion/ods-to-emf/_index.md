@@ -1,7 +1,7 @@
 ---
 title: Convert ODS to EMF via Java 
 url: /java/conversion/ods-to-emf/
-description: Sample Java conversion code for ODS format to EMF file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to EMF within any Web or Desktop Java based Application.
+description: Convert ODS to EMF format in Java code. Save ODS as EMF using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

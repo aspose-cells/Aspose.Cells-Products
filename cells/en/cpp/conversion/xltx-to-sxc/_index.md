@@ -1,7 +1,7 @@
 ---
-title: Convert XLTX to SXC via C++ application 
+title: Convert XLTX to SXC via C++
 url: /cpp/conversion/xltx-to-sxc/
-description: Sample C++ conversion code for XLTX to SXC format. Programmers can use this source code for batch XLTX to SXC conversion within any C++ Application.
+description: Convert XLTX to SXC format in C++ code. Save XLTX as SXC using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

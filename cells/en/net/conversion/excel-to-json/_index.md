@@ -1,7 +1,7 @@
 ---
 title: Convert EXCEL to JSON via C#
 url: /net/conversion/excel-to-json/
-description: Sample code for excel to json C# conversion. Use API example code for batch excel files to json conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert EXCEL to JSON format in C# code. Save EXCEL as JSON using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

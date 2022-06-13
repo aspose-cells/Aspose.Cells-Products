@@ -1,7 +1,7 @@
 ---
 title: Convert SPREADSHEETML to TXT via Java 
 url: /java/conversion/spreadsheetml-to-txt/
-description: Sample Java conversion code for SPREADSHEETML format to TXT file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to TXT within any Web or Desktop Java based Application.
+description: Convert SPREADSHEETML to TXT format in Java code. Save SPREADSHEETML as TXT using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

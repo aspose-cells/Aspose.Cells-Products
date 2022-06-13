@@ -1,7 +1,7 @@
 ---
 title: Convert TSV to XLSM via C#
 url: /net/conversion/tsv-to-xlsm/
-description: Sample code for tsv to xlsm C# conversion. Use API example code for batch tsv files to xlsm conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert TSV to XLSM format in C# code. Save TSV as XLSM using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

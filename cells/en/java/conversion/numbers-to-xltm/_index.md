@@ -1,7 +1,7 @@
 ---
 title: Convert NUMBERS to XLTM via Java 
 url: /java/conversion/numbers-to-xltm/
-description: Sample Java conversion code for NUMBERS format to XLTM file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to XLTM within any Web or Desktop Java based Application.
+description: Convert NUMBERS to XLTM format in Java code. Save NUMBERS as XLTM using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

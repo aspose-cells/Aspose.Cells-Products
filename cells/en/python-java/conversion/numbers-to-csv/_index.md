@@ -1,7 +1,7 @@
 ---
 title: Convert NUMBERS to CSV via Python
 url: /python-java/conversion/numbers-to-csv/
-description: Sample code for numbers to csv Python conversion. Use API example code for batch numbers files to csv conversion within Python application.
+description: Convert NUMBERS to CSV format in Python code. Save NUMBERS as CSV using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

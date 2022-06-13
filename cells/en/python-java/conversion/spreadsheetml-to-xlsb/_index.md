@@ -1,7 +1,7 @@
 ---
 title: Convert SPREADSHEETML to XLSB via Python
 url: /python-java/conversion/spreadsheetml-to-xlsb/
-description: Sample code for spreadsheetml to xlsb Python conversion. Use API example code for batch spreadsheetml files to xlsb conversion within Python application.
+description: Convert SPREADSHEETML to XLSB format in Python code. Save SPREADSHEETML as XLSB using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

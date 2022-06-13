@@ -1,7 +1,7 @@
 ---
-title: Convert XLTM to XML via C++ application 
+title: Convert XLTM to XML via C++
 url: /cpp/conversion/xltm-to-xml/
-description: Sample C++ conversion code for XLTM to XML format. Programmers can use this source code for batch XLTM to XML conversion within any C++ Application.
+description: Convert XLTM to XML format in C++ code. Save XLTM as XML using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

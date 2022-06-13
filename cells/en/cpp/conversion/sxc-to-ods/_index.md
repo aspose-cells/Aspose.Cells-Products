@@ -1,7 +1,7 @@
 ---
-title: Convert SXC to ODS via C++ application 
+title: Convert SXC to ODS via C++
 url: /cpp/conversion/sxc-to-ods/
-description: Sample C++ conversion code for SXC to ODS format. Programmers can use this source code for batch SXC to ODS conversion within any C++ Application.
+description: Convert SXC to ODS format in C++ code. Save SXC as ODS using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

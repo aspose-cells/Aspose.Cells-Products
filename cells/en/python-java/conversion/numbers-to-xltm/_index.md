@@ -1,7 +1,7 @@
 ---
 title: Convert NUMBERS to XLTM via Python
 url: /python-java/conversion/numbers-to-xltm/
-description: Sample code for numbers to xltm Python conversion. Use API example code for batch numbers files to xltm conversion within Python application.
+description: Convert NUMBERS to XLTM format in Python code. Save NUMBERS as XLTM using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

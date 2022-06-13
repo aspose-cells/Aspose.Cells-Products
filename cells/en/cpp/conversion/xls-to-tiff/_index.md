@@ -1,7 +1,7 @@
 ---
-title: Convert XLS to TIFF via C++ application 
+title: Convert XLS to TIFF via C++
 url: /cpp/conversion/xls-to-tiff/
-description: Sample C++ conversion code for XLS to TIFF format. Programmers can use this source code for batch XLS to TIFF conversion within any C++ Application.
+description: Convert XLS to TIFF format in C++ code. Save XLS as TIFF using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

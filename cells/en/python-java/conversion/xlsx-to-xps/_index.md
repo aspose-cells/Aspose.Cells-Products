@@ -1,7 +1,7 @@
 ---
 title: Convert XLSX to XPS via Python
 url: /python-java/conversion/xlsx-to-xps/
-description: Sample code for xlsx to xps Python conversion. Use API example code for batch xlsx files to xps conversion within Python application.
+description: Convert XLSX to XPS format in Python code. Save XLSX as XPS using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

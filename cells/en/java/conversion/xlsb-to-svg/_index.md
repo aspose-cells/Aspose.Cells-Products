@@ -1,7 +1,7 @@
 ---
 title: Convert XLSB to SVG via Java 
 url: /java/conversion/xlsb-to-svg/
-description: Sample Java conversion code for XLSB format to SVG file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to SVG within any Web or Desktop Java based Application.
+description: Convert XLSB to SVG format in Java code. Save XLSB as SVG using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

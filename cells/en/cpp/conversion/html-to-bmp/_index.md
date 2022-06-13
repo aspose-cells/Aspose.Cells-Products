@@ -1,7 +1,7 @@
 ---
-title: Convert HTML to BMP via C++ application 
+title: Convert HTML to BMP via C++
 url: /cpp/conversion/html-to-bmp/
-description: Sample C++ conversion code for HTML to BMP format. Programmers can use this source code for batch HTML to BMP conversion within any C++ Application.
+description: Convert HTML to BMP format in C++ code. Save HTML as BMP using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

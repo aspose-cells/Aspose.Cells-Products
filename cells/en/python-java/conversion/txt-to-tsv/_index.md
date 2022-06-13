@@ -1,7 +1,7 @@
 ---
 title: Convert TXT to TSV via Python
 url: /python-java/conversion/txt-to-tsv/
-description: Sample code for txt to tsv Python conversion. Use API example code for batch txt files to tsv conversion within Python application.
+description: Convert TXT to TSV format in Python code. Save TXT as TSV using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

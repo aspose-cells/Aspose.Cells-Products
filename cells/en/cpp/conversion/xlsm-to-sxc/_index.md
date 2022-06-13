@@ -1,7 +1,7 @@
 ---
-title: Convert XLSM to SXC via C++ application 
+title: Convert XLSM to SXC via C++
 url: /cpp/conversion/xlsm-to-sxc/
-description: Sample C++ conversion code for XLSM to SXC format. Programmers can use this source code for batch XLSM to SXC conversion within any C++ Application.
+description: Convert XLSM to SXC format in C++ code. Save XLSM as SXC using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

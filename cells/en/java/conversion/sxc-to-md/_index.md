@@ -1,7 +1,7 @@
 ---
 title: Convert SXC to MD via Java 
 url: /java/conversion/sxc-to-md/
-description: Sample Java conversion code for SXC format to MD file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to MD within any Web or Desktop Java based Application.
+description: Convert SXC to MD format in Java code. Save SXC as MD using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Convert TABDELIMITED to CSV via Java 
 url: /java/conversion/tabdelimited-to-csv/
-description: Sample Java conversion code for TABDELIMITED format to CSV file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to CSV within any Web or Desktop Java based Application.
+description: Convert TABDELIMITED to CSV format in Java code. Save TABDELIMITED as CSV using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

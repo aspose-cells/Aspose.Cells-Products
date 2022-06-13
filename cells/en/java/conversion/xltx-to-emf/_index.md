@@ -1,7 +1,7 @@
 ---
 title: Convert XLTX to EMF via Java 
 url: /java/conversion/xltx-to-emf/
-description: Sample Java conversion code for XLTX format to EMF file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to EMF within any Web or Desktop Java based Application.
+description: Convert XLTX to EMF format in Java code. Save XLTX as EMF using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

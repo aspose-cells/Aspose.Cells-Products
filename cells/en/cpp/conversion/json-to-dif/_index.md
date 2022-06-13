@@ -1,7 +1,7 @@
 ---
-title: Convert JSON to DIF via C++ application 
+title: Convert JSON to DIF via C++
 url: /cpp/conversion/json-to-dif/
-description: Sample C++ conversion code for JSON to DIF format. Programmers can use this source code for batch JSON to DIF conversion within any C++ Application.
+description: Convert JSON to DIF format in C++ code. Save JSON as DIF using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

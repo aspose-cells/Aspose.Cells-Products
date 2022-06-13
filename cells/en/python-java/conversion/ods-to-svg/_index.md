@@ -1,7 +1,7 @@
 ---
 title: Convert ODS to SVG via Python
 url: /python-java/conversion/ods-to-svg/
-description: Sample code for ods to svg Python conversion. Use API example code for batch ods files to svg conversion within Python application.
+description: Convert ODS to SVG format in Python code. Save ODS as SVG using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

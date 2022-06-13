@@ -1,7 +1,7 @@
 ---
 title: Convert FODS to XLTM via Java 
 url: /java/conversion/fods-to-xltm/
-description: Sample Java conversion code for FODS format to XLTM file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to XLTM within any Web or Desktop Java based Application.
+description: Convert FODS to XLTM format in Java code. Save FODS as XLTM using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: Convert NUMBERS to BMP via C++ application 
+title: Convert NUMBERS to BMP via C++
 url: /cpp/conversion/numbers-to-bmp/
-description: Sample C++ conversion code for NUMBERS to BMP format. Programmers can use this source code for batch NUMBERS to BMP conversion within any C++ Application.
+description: Convert NUMBERS to BMP format in C++ code. Save NUMBERS as BMP using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

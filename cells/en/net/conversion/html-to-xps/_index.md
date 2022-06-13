@@ -1,7 +1,7 @@
 ---
 title: Convert HTML to XPS via C#
 url: /net/conversion/html-to-xps/
-description: Sample code for html to xps C# conversion. Use API example code for batch html files to xps conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert HTML to XPS format in C# code. Save HTML as XPS using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

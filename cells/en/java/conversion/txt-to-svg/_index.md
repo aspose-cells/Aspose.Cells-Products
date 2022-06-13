@@ -1,7 +1,7 @@
 ---
 title: Convert TXT to SVG via Java 
 url: /java/conversion/txt-to-svg/
-description: Sample Java conversion code for TXT format to SVG file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to SVG within any Web or Desktop Java based Application.
+description: Convert TXT to SVG format in Java code. Save TXT as SVG using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

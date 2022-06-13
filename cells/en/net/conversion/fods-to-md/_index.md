@@ -1,7 +1,7 @@
 ---
 title: Convert FODS to MD via C#
 url: /net/conversion/fods-to-md/
-description: Sample code for fods to md C# conversion. Use API example code for batch fods files to md conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert FODS to MD format in C# code. Save FODS as MD using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

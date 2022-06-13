@@ -1,7 +1,7 @@
 ---
 title: Convert NUMBERS to MARKDOWN via C#
 url: /net/conversion/numbers-to-markdown/
-description: Sample code for numbers to markdown C# conversion. Use API example code for batch numbers files to markdown conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert NUMBERS to MARKDOWN format in C# code. Save NUMBERS as MARKDOWN using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Convert TSV to XPS via Python
 url: /python-java/conversion/tsv-to-xps/
-description: Sample code for tsv to xps Python conversion. Use API example code for batch tsv files to xps conversion within Python application.
+description: Convert TSV to XPS format in Python code. Save TSV as XPS using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

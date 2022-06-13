@@ -1,7 +1,7 @@
 ---
 title: Convert ODS to BMP via C#
 url: /net/conversion/ods-to-bmp/
-description: Sample code for ods to bmp C# conversion. Use API example code for batch ods files to bmp conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert ODS to BMP format in C# code. Save ODS as BMP using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

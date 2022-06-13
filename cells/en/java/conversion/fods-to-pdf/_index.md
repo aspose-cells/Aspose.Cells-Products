@@ -1,7 +1,7 @@
 ---
 title: Convert FODS to PDF via Java 
 url: /java/conversion/fods-to-pdf/
-description: Sample Java conversion code for FODS format to PDF file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to PDF within any Web or Desktop Java based Application.
+description: Convert FODS to PDF format in Java code. Save FODS as PDF using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

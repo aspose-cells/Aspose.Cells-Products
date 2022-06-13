@@ -1,7 +1,7 @@
 ---
 title: Convert XLTX to XML via Java 
 url: /java/conversion/xltx-to-xml/
-description: Sample Java conversion code for XLTX format to XML file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to XML within any Web or Desktop Java based Application.
+description: Convert XLTX to XML format in Java code. Save XLTX as XML using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

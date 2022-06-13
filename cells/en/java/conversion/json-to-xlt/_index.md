@@ -1,7 +1,7 @@
 ---
 title: Convert JSON to XLT via Java 
 url: /java/conversion/json-to-xlt/
-description: Sample Java conversion code for JSON format to XLT file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to XLT within any Web or Desktop Java based Application.
+description: Convert JSON to XLT format in Java code. Save JSON as XLT using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

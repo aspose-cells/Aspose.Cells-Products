@@ -1,7 +1,7 @@
 ---
 title: Convert ODS to JSON via Java 
 url: /java/conversion/ods-to-json/
-description: Sample Java conversion code for ODS format to JSON file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to JSON within any Web or Desktop Java based Application.
+description: Convert ODS to JSON format in Java code. Save ODS as JSON using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

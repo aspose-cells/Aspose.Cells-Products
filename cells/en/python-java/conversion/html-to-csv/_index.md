@@ -1,7 +1,7 @@
 ---
 title: Convert HTML to CSV via Python
 url: /python-java/conversion/html-to-csv/
-description: Sample code for html to csv Python conversion. Use API example code for batch html files to csv conversion within Python application.
+description: Convert HTML to CSV format in Python code. Save HTML as CSV using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

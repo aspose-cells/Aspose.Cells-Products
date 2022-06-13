@@ -1,7 +1,7 @@
 ---
 title: Convert CSV to SXC via C#
 url: /net/conversion/csv-to-sxc/
-description: Sample code for csv to sxc C# conversion. Use API example code for batch csv files to sxc conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert CSV to SXC format in C# code. Save CSV as SXC using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

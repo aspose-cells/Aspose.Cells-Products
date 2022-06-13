@@ -1,7 +1,7 @@
 ---
-title: Convert CSV to SXC via C++ application 
+title: Convert CSV to SXC via C++
 url: /cpp/conversion/csv-to-sxc/
-description: Sample C++ conversion code for CSV to SXC format. Programmers can use this source code for batch CSV to SXC conversion within any C++ Application.
+description: Convert CSV to SXC format in C++ code. Save CSV as SXC using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

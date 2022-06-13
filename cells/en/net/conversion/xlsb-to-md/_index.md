@@ -1,7 +1,7 @@
 ---
 title: Convert XLSB to MD via C#
 url: /net/conversion/xlsb-to-md/
-description: Sample code for xlsb to md C# conversion. Use API example code for batch xlsb files to md conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert XLSB to MD format in C# code. Save XLSB as MD using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

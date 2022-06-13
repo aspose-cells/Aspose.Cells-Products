@@ -1,7 +1,7 @@
 ---
 title: Convert NUMBERS to TXT via Python
 url: /python-java/conversion/numbers-to-txt/
-description: Sample code for numbers to txt Python conversion. Use API example code for batch numbers files to txt conversion within Python application.
+description: Convert NUMBERS to TXT format in Python code. Save NUMBERS as TXT using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

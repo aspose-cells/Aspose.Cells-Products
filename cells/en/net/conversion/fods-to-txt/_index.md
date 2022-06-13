@@ -1,7 +1,7 @@
 ---
 title: Convert FODS to TXT via C#
 url: /net/conversion/fods-to-txt/
-description: Sample code for fods to txt C# conversion. Use API example code for batch fods files to txt conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert FODS to TXT format in C# code. Save FODS as TXT using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

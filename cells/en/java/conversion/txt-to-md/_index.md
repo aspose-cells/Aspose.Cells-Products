@@ -1,7 +1,7 @@
 ---
 title: Convert TXT to MD via Java 
 url: /java/conversion/txt-to-md/
-description: Sample Java conversion code for TXT format to MD file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to MD within any Web or Desktop Java based Application.
+description: Convert TXT to MD format in Java code. Save TXT as MD using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Convert ODS to JPG via C#
 url: /net/conversion/ods-to-jpg/
-description: Sample code for ods to jpg C# conversion. Use API example code for batch ods files to jpg conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert ODS to JPG format in C# code. Save ODS as JPG using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

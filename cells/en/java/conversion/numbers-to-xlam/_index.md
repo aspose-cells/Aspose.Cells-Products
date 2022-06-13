@@ -1,7 +1,7 @@
 ---
 title: Convert NUMBERS to XLAM via Java 
 url: /java/conversion/numbers-to-xlam/
-description: Sample Java conversion code for NUMBERS format to XLAM file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to XLAM within any Web or Desktop Java based Application.
+description: Convert NUMBERS to XLAM format in Java code. Save NUMBERS as XLAM using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

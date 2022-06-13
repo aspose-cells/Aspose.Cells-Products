@@ -1,7 +1,7 @@
 ---
 title: Convert MHTML to XLAM via Java 
 url: /java/conversion/mhtml-to-xlam/
-description: Sample Java conversion code for MHTML format to XLAM file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to XLAM within any Web or Desktop Java based Application.
+description: Convert MHTML to XLAM format in Java code. Save MHTML as XLAM using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Convert XLTX to SPREADSHEETML via Java 
 url: /java/conversion/xltx-to-spreadsheetml/
-description: Sample Java conversion code for XLTX format to SPREADSHEETML file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to SPREADSHEETML within any Web or Desktop Java based Application.
+description: Convert XLTX to SPREADSHEETML format in Java code. Save XLTX as SPREADSHEETML using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

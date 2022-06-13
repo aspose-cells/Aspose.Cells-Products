@@ -1,7 +1,7 @@
 ---
 title: Convert XLTX to TXT via Java 
 url: /java/conversion/xltx-to-txt/
-description: Sample Java conversion code for XLTX format to TXT file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to TXT within any Web or Desktop Java based Application.
+description: Convert XLTX to TXT format in Java code. Save XLTX as TXT using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

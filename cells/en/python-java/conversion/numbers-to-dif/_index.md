@@ -1,7 +1,7 @@
 ---
 title: Convert NUMBERS to DIF via Python
 url: /python-java/conversion/numbers-to-dif/
-description: Sample code for numbers to dif Python conversion. Use API example code for batch numbers files to dif conversion within Python application.
+description: Convert NUMBERS to DIF format in Python code. Save NUMBERS as DIF using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

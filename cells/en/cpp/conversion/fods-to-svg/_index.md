@@ -1,7 +1,7 @@
 ---
-title: Convert FODS to SVG via C++ application 
+title: Convert FODS to SVG via C++
 url: /cpp/conversion/fods-to-svg/
-description: Sample C++ conversion code for FODS to SVG format. Programmers can use this source code for batch FODS to SVG conversion within any C++ Application.
+description: Convert FODS to SVG format in C++ code. Save FODS as SVG using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

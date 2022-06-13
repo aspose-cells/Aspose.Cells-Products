@@ -1,7 +1,7 @@
 ---
-title: Convert NUMBERS to XLSM via C++ application 
+title: Convert NUMBERS to XLSM via C++
 url: /cpp/conversion/numbers-to-xlsm/
-description: Sample C++ conversion code for NUMBERS to XLSM format. Programmers can use this source code for batch NUMBERS to XLSM conversion within any C++ Application.
+description: Convert NUMBERS to XLSM format in C++ code. Save NUMBERS as XLSM using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

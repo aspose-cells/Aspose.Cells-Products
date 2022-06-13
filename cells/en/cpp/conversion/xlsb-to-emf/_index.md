@@ -1,7 +1,7 @@
 ---
-title: Convert XLSB to EMF via C++ application 
+title: Convert XLSB to EMF via C++
 url: /cpp/conversion/xlsb-to-emf/
-description: Sample C++ conversion code for XLSB to EMF format. Programmers can use this source code for batch XLSB to EMF conversion within any C++ Application.
+description: Convert XLSB to EMF format in C++ code. Save XLSB as EMF using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

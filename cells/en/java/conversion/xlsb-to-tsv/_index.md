@@ -1,7 +1,7 @@
 ---
 title: Convert XLSB to TSV via Java 
 url: /java/conversion/xlsb-to-tsv/
-description: Sample Java conversion code for XLSB format to TSV file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to TSV within any Web or Desktop Java based Application.
+description: Convert XLSB to TSV format in Java code. Save XLSB as TSV using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

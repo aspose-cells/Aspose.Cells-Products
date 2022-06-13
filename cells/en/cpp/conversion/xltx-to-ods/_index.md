@@ -1,7 +1,7 @@
 ---
-title: Convert XLTX to ODS via C++ application 
+title: Convert XLTX to ODS via C++
 url: /cpp/conversion/xltx-to-ods/
-description: Sample C++ conversion code for XLTX to ODS format. Programmers can use this source code for batch XLTX to ODS conversion within any C++ Application.
+description: Convert XLTX to ODS format in C++ code. Save XLTX as ODS using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

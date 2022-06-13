@@ -1,7 +1,7 @@
 ---
 title: Convert ODS to TSV via Java 
 url: /java/conversion/ods-to-tsv/
-description: Sample Java conversion code for ODS format to TSV file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to TSV within any Web or Desktop Java based Application.
+description: Convert ODS to TSV format in Java code. Save ODS as TSV using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

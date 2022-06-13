@@ -1,7 +1,7 @@
 ---
 title: Convert XLS to PPTX via Java 
 url: /java/conversion/xls-to-pptx/
-description: Sample Java conversion code for XLS format to PPTX file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to PPTX within any Web or Desktop Java based Application.
+description: Convert XLS to PPTX format in Java code. Save XLS as PPTX using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

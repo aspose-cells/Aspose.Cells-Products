@@ -1,7 +1,7 @@
 ---
 title: Convert NUMBERS to TIFF via Python
 url: /python-java/conversion/numbers-to-tiff/
-description: Sample code for numbers to tiff Python conversion. Use API example code for batch numbers files to tiff conversion within Python application.
+description: Convert NUMBERS to TIFF format in Python code. Save NUMBERS as TIFF using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

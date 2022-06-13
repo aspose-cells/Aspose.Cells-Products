@@ -1,7 +1,7 @@
 ---
 title: Convert ODS to XLSB via C#
 url: /net/conversion/ods-to-xlsb/
-description: Sample code for ods to xlsb C# conversion. Use API example code for batch ods files to xlsb conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert ODS to XLSB format in C# code. Save ODS as XLSB using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

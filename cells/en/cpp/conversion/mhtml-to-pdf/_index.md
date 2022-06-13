@@ -1,7 +1,7 @@
 ---
-title: Convert MHTML to PDF via C++ application 
+title: Convert MHTML to PDF via C++
 url: /cpp/conversion/mhtml-to-pdf/
-description: Sample C++ conversion code for MHTML to PDF format. Programmers can use this source code for batch MHTML to PDF conversion within any C++ Application.
+description: Convert MHTML to PDF format in C++ code. Save MHTML as PDF using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

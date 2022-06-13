@@ -1,7 +1,7 @@
 ---
 title: Convert TSV to HTML via C#
 url: /net/conversion/tsv-to-html/
-description: Sample code for tsv to html C# conversion. Use API example code for batch tsv files to html conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert TSV to HTML format in C# code. Save TSV as HTML using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Convert JSON to DOCX via C#
 url: /net/conversion/json-to-docx/
-description: Sample code for json to docx C# conversion. Use API example code for batch json files to docx conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert JSON to DOCX format in C# code. Save JSON as DOCX using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

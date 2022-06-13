@@ -1,7 +1,7 @@
 ---
 title: Convert XLSB to DIF via Java 
 url: /java/conversion/xlsb-to-dif/
-description: Sample Java conversion code for XLSB format to DIF file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to DIF within any Web or Desktop Java based Application.
+description: Convert XLSB to DIF format in Java code. Save XLSB as DIF using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

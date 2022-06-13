@@ -1,7 +1,7 @@
 ---
 title: Convert XLS to SQL via C#
 url: /net/conversion/xls-to-sql/
-description: Sample code for xls to sql C# conversion. Use API example code for batch xls files to sql conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert XLS to SQL format in C# code. Save XLS as SQL using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

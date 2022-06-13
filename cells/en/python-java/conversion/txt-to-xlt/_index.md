@@ -1,7 +1,7 @@
 ---
 title: Convert TXT to XLT via Python
 url: /python-java/conversion/txt-to-xlt/
-description: Sample code for txt to xlt Python conversion. Use API example code for batch txt files to xlt conversion within Python application.
+description: Convert TXT to XLT format in Python code. Save TXT as XLT using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

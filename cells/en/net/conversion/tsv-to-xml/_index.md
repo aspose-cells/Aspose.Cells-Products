@@ -1,7 +1,7 @@
 ---
 title: Convert TSV to XML via C#
 url: /net/conversion/tsv-to-xml/
-description: Sample code for tsv to xml C# conversion. Use API example code for batch tsv files to xml conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert TSV to XML format in C# code. Save TSV as XML using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

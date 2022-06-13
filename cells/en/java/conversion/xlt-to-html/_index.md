@@ -1,7 +1,7 @@
 ---
 title: Convert XLT to HTML via Java 
 url: /java/conversion/xlt-to-html/
-description: Sample Java conversion code for XLT format to HTML file. Programmers can use this example code to export Excel & OpenOffice spreadsheets to HTML within any Web or Desktop Java based Application.
+description: Convert XLT to HTML format in Java code. Save XLT as HTML using Java.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

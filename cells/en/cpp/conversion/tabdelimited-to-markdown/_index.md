@@ -1,7 +1,7 @@
 ---
-title: Convert TABDELIMITED to MARKDOWN via C++ application 
+title: Convert TABDELIMITED to MARKDOWN via C++
 url: /cpp/conversion/tabdelimited-to-markdown/
-description: Sample C++ conversion code for TABDELIMITED to MARKDOWN format. Programmers can use this source code for batch TABDELIMITED to MARKDOWN conversion within any C++ Application.
+description: Convert TABDELIMITED to MARKDOWN format in C++ code. Save TABDELIMITED as MARKDOWN using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

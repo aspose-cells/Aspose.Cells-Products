@@ -12,7 +12,7 @@ description: Merge NUMBERS to CSV file in Java code. Combine NUMBERS to CSV file
 
 {{% blocks/products/pf/agp/content h2="How to Merge NUMBERS to CSV File Using Java" %}}
 
- In order to merge NUMBERS to CSV file, we’ll use
+ In order to merge NUMBERS to CSV file, we will use
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
  API which is a feature-rich, powerful and easy to use document manipulation and merging API for Java platform. 
  
@@ -112,7 +112,7 @@ Files with .csv (Comma Separated Values) extension represent plain text files th
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Merging Formats" subTitle="Using Java, One can also merge many other file formats including." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Merging Formats" subTitle="Using Java, One can also merge numbers to many other file formats including." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-numbers-to-html/" name="HTML" description="Hyper Text Markup Language" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-numbers-to-mhtml/" name="MHTML" description="Web Page Archive Format" >}}

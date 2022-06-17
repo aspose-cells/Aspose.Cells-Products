@@ -12,7 +12,7 @@ description: Merge XLS to HTML file in Python code. Combine XLS to HTML file usi
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLS to HTML File Using Python" %}}
 
- In order to merge XLS to HTML file, we’ll use
+ In order to merge XLS to HTML file, we will use
  [Aspose.Cells for Python](https://pypi.org/project/aspose-cells) 
  API which is a feature-rich, powerful and easy to use document manipulation and merging API for Python platform. 
  
@@ -83,7 +83,7 @@ HTML (Hyper Text Markup Language) is the extension for web pages created for dis
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Merging Formats" subTitle="Using Python, One can also merge many other file formats including." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Merging Formats" subTitle="Using Python, One can also merge xls to many other file formats including." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-html/" name="HTML" description="Hyper Text Markup Language" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-mhtml/" name="MHTML" description="Web Page Archive Format" >}}

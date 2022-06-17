@@ -12,7 +12,7 @@ description: Merge HTM to XLSM file in Python code. Combine HTM to XLSM file usi
 
 {{% blocks/products/pf/agp/content h2="How to Merge HTM to XLSM File Using Python" %}}
 
- In order to merge HTM to XLSM file, we’ll use
+ In order to merge HTM to XLSM file, we will use
  [Aspose.Cells for Python](https://pypi.org/project/aspose-cells) 
  API which is a feature-rich, powerful and easy to use document manipulation and merging API for Python platform. 
  
@@ -83,7 +83,7 @@ Files with XLSM extension is a type of Spreadsheet files that support Macros. Fr
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Merging Formats" subTitle="Using Python, One can also merge many other file formats including." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Merging Formats" subTitle="Using Python, One can also merge htm to many other file formats including." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-html/" name="HTML" description="Hyper Text Markup Language" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-mhtml/" name="MHTML" description="Web Page Archive Format" >}}

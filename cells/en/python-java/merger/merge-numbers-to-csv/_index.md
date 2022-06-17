@@ -12,7 +12,7 @@ description: Merge NUMBERS to CSV file in Python code. Combine NUMBERS to CSV fi
 
 {{% blocks/products/pf/agp/content h2="How to Merge NUMBERS to CSV File Using Python" %}}
 
- In order to merge NUMBERS to CSV file, we’ll use
+ In order to merge NUMBERS to CSV file, we will use
  [Aspose.Cells for Python](https://pypi.org/project/aspose-cells) 
  API which is a feature-rich, powerful and easy to use document manipulation and merging API for Python platform. 
  
@@ -83,7 +83,7 @@ Files with .csv (Comma Separated Values) extension represent plain text files th
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Merging Formats" subTitle="Using Python, One can also merge many other file formats including." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Merging Formats" subTitle="Using Python, One can also merge numbers to many other file formats including." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-numbers-to-html/" name="HTML" description="Hyper Text Markup Language" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-numbers-to-mhtml/" name="MHTML" description="Web Page Archive Format" >}}

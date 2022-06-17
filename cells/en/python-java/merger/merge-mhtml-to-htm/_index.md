@@ -12,7 +12,7 @@ description: Merge MHTML to HTM file in Python code. Combine MHTML to HTM file u
 
 {{% blocks/products/pf/agp/content h2="How to Merge MHTML to HTM File Using Python" %}}
 
- In order to merge MHTML to HTM file, we’ll use
+ In order to merge MHTML to HTM file, we will use
  [Aspose.Cells for Python](https://pypi.org/project/aspose-cells) 
  API which is a feature-rich, powerful and easy to use document manipulation and merging API for Python platform. 
  
@@ -83,7 +83,7 @@ Files with .htm extension represent Hypertext Markup Language for creating web p
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Merging Formats" subTitle="Using Python, One can also merge many other file formats including." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Merging Formats" subTitle="Using Python, One can also merge mhtml to many other file formats including." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mhtml-to-html/" name="HTML" description="Hyper Text Markup Language" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mhtml-to-mhtml/" name="MHTML" description="Web Page Archive Format" >}}

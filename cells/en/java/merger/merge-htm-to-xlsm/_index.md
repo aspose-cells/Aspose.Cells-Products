@@ -12,7 +12,7 @@ description: Merge HTM to XLSM file in Java code. Combine HTM to XLSM file using
 
 {{% blocks/products/pf/agp/content h2="How to Merge HTM to XLSM File Using Java" %}}
 
- In order to merge HTM to XLSM file, we’ll use
+ In order to merge HTM to XLSM file, we will use
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
  API which is a feature-rich, powerful and easy to use document manipulation and merging API for Java platform. 
  
@@ -112,7 +112,7 @@ Files with XLSM extension is a type of Spreadsheet files that support Macros. Fr
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Merging Formats" subTitle="Using Java, One can also merge many other file formats including." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Merging Formats" subTitle="Using Java, One can also merge htm to many other file formats including." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-htm-to-html/" name="HTML" description="Hyper Text Markup Language" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-htm-to-mhtml/" name="MHTML" description="Web Page Archive Format" >}}

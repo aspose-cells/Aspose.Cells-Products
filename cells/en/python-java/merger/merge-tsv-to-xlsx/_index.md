@@ -12,7 +12,7 @@ description: Merge TSV to XLSX file in Python code. Combine TSV to XLSX file usi
 
 {{% blocks/products/pf/agp/content h2="How to Merge TSV to XLSX File Using Python" %}}
 
- In order to merge TSV to XLSX file, we’ll use
+ In order to merge TSV to XLSX file, we will use
  [Aspose.Cells for Python](https://pypi.org/project/aspose-cells) 
  API which is a feature-rich, powerful and easy to use document manipulation and merging API for Python platform. 
  
@@ -83,7 +83,7 @@ XLSX is well-known format for Microsoft Excel documents that was introduced by M
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Merging Formats" subTitle="Using Python, One can also merge many other file formats including." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Merging Formats" subTitle="Using Python, One can also merge tsv to many other file formats including." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tsv-to-html/" name="HTML" description="Hyper Text Markup Language" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tsv-to-mhtml/" name="MHTML" description="Web Page Archive Format" >}}

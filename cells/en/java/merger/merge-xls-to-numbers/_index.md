@@ -12,7 +12,7 @@ description: Merge XLS to NUMBERS file in Java code. Combine XLS to NUMBERS file
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLS to NUMBERS File Using Java" %}}
 
- In order to merge XLS to NUMBERS file, we’ll use
+ In order to merge XLS to NUMBERS file, we will use
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
  API which is a feature-rich, powerful and easy to use document manipulation and merging API for Java platform. 
  
@@ -112,7 +112,7 @@ The files with .numbers extension are classified as spreadsheet file type, that'
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Merging Formats" subTitle="Using Java, One can also merge many other file formats including." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Merging Formats" subTitle="Using Java, One can also merge xls to many other file formats including." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-html/" name="HTML" description="Hyper Text Markup Language" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-mhtml/" name="MHTML" description="Web Page Archive Format" >}}

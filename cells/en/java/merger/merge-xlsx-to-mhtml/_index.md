@@ -12,7 +12,7 @@ description: Merge XLSX to MHTML file in Java code. Combine XLSX to MHTML file u
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLSX to MHTML File Using Java" %}}
 
- In order to merge XLSX to MHTML file, we’ll use
+ In order to merge XLSX to MHTML file, we will use
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
  API which is a feature-rich, powerful and easy to use document manipulation and merging API for Java platform. 
  
@@ -112,7 +112,7 @@ Files with MHTML extension represent a web page archive format that can be creat
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Merging Formats" subTitle="Using Java, One can also merge many other file formats including." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Merging Formats" subTitle="Using Java, One can also merge xlsx to many other file formats including." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-html/" name="HTML" description="Hyper Text Markup Language" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-mhtml/" name="MHTML" description="Web Page Archive Format" >}}

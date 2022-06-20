@@ -51,7 +51,7 @@ Create, manipulate, convert & render Excel spreadsheets in PHP applications via 
 Load, create, manipulate & render Excel documents using Python.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells for" title="Python via .NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" productLink="/cells/python-net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Cells for" title="Python via .NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" productLink="/cells/python-net/" >}}
 Load, create, manipulate & render Excel documents using Python.
 {{< /blocks/products/pf/product >}}
 

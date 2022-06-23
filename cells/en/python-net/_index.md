@@ -10,7 +10,7 @@ description: Python spreadsheet library to create read write and parse Excel fil
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Python via .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/python-net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cells/pythonnet/" installationsDocsLink="" nugetLink="" nugetPackageName="" pipLink="https://test.pypi.org/project/aspose-cells-python/" directDownloadLink="https://downloads.aspose.com/cells/python-net" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/python-net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cells/python-net/" installationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/cells/python-net" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
@@ -521,7 +521,7 @@ wk.save("houtput.html", SaveFormat.HTML);</code></pre>
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/cells/pythonnet/" >}}
+{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/cells/python-net/" >}}
 {{< blocks/products/pf/slr-element name="Aspose.Cells API References" href="https://apireference.aspose.com/python/cells" >}}
 {{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}

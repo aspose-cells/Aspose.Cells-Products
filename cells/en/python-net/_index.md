@@ -10,7 +10,7 @@ description: Python spreadsheet library to create read write and parse Excel fil
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Python via .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/python-net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cells/python-net/" installationsDocsLink="" nugetLink="" nugetPackageName=""  pipLink="https://pypi.org/project/aspose-python/" directDownloadLink="https://downloads.aspose.com/cells/python-net" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/python-net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cells/python-net/" installationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/cells/python-net" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>

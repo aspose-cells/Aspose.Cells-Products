@@ -55,7 +55,7 @@ Inter-conversion of spreadsheet format only requires loading a spreadsheet with 
 {{% /blocks/products/pf/feature-page-section %}}
 
 
-{{% cells-convert title="Free App and Sample Code to Convert EXCEL to IMAGE, Change the output format for PNG, BMP, JPG and more." formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsx" outformat="png" IsLandingPage="true" language="python-net" %}}
+{{% cells-convert title="Free App and Sample Code to Convert EXCEL to IMAGE, Change the output format for PNG, BMP, JPG and more." formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsx" outformat="png" IsLandingPage="true" language="pythonnet" %}}
  
 <!-- aboutfile Starts -->
 

@@ -49,7 +49,7 @@ description: Convert XLS to JPEG format in Python code. Save XLS as JPEG using P
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLS to JPEG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="jpg" IsLandingPage="true" language="python" %}}
+{{% cells-convert title="Free App and Sample Code to Convert XLS to JPEG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="jpg" IsLandingPage="true" language="pythonjava" %}}
  
 <!-- aboutfile Starts -->
 

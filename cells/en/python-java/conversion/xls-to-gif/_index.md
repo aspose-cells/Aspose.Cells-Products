@@ -49,7 +49,7 @@ description: Convert XLS to GIF format in Python code. Save XLS as GIF using Pyt
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLS to GIF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="gif" IsLandingPage="true" language="python" %}}
+{{% cells-convert title="Free App and Sample Code to Convert XLS to GIF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="gif" IsLandingPage="true" language="pythonjava" %}}
  
 <!-- aboutfile Starts -->
 

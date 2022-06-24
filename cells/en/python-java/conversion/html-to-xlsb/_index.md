@@ -49,7 +49,7 @@ description: Convert HTML to XLSB format in Python code. Save HTML as XLSB using
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% cells-convert title="Free App and Sample Code to Convert HTML to XLSB" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="xlsb" IsLandingPage="true" language="python" %}}
+{{% cells-convert title="Free App and Sample Code to Convert HTML to XLSB" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="xlsb" IsLandingPage="true" language="pythonjava" %}}
  
 <!-- aboutfile Starts -->
 

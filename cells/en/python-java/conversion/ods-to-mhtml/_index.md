@@ -49,7 +49,7 @@ description: Convert ODS to MHTML format in Python code. Save ODS as MHTML using
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% cells-convert title="Free App and Sample Code to Convert ODS to MHTML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="mhtml" IsLandingPage="true" language="python" %}}
+{{% cells-convert title="Free App and Sample Code to Convert ODS to MHTML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="mhtml" IsLandingPage="true" language="pythonjava" %}}
  
 <!-- aboutfile Starts -->
 

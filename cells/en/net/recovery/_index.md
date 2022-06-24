@@ -1,6 +1,6 @@
 ---
 title: How to repair a corrupt excel file via .NET
-url: /net/recovery/repair-excel/ 
+url: /net/recovery/ 
 description: Repair a corrupt excel file using C#. Recovery tool to repair corrupted excel file within .NET application.
 ---
 

@@ -20,8 +20,7 @@ description: Repair a corrupt xlsm file using C#. Recovery tool to repair corrup
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-annotation title="Free App to repair XLSM file using .NET" InputFormat="xlsm" IsLandingPage="true" language="net" %}}
-
+{{% cells-recovery title="Free App to repair XLSM file using .NET" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsm" outformat="xlsm" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to repair xlsm file using C#" %}}
 

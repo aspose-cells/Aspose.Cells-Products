@@ -20,8 +20,7 @@ description: Repair a corrupt excel file using C#. Recovery tool to repair corru
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-annotation title="Free App to repair EXCEL file using .NET" InputFormat="excel" IsLandingPage="true" language="net" %}}
-
+{{% cells-recovery title="Free App to repair EXCEL file using .NET" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to repair excel file using C#" %}}
 

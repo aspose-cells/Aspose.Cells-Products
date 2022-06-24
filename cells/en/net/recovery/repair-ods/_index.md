@@ -20,8 +20,7 @@ description: Repair a corrupt ods file using C#. Recovery tool to repair corrupt
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-annotation title="Free App to repair ODS file using .NET" InputFormat="ods" IsLandingPage="true" language="net" %}}
-
+{{% cells-recovery title="Free App to repair ODS file using .NET" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="ods" outformat="ods" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to repair ods file using C#" %}}
 

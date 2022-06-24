@@ -22,7 +22,7 @@ description: Repair a corrupt excel file using C#. Recovery tool to repair corru
 
 {{% cells-recovery title="Free App to repair EXCEL file using .NET" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="net" %}}
 
-{{% blocks/products/pf/agp/content h2="How to repair excel file using C#" %}}
+{{% blocks/products/pf/agp/content h2="The step to repair excel file using C#" %}}
 
 +  Define a class that inherits Aspose.Cells.IWarningCallback
 +  Load EXCEL file by creating an instance of Workbook, using the inheritance class above, refer to the following code 

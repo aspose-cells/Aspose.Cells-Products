@@ -22,7 +22,7 @@ description: Repair a corrupt xlsx file using C#. Recovery tool to repair corrup
 
 {{% cells-recovery title="Free App to repair XLSX file using .NET" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="net" %}}
 
-{{% blocks/products/pf/agp/content h2="How to repair xlsx file using C#" %}}
+{{% blocks/products/pf/agp/content h2="The step to repair xlsx file using C#" %}}
 
 +  Define a class that inherits Aspose.Cells.IWarningCallback
 +  Load XLSX file by creating an instance of Workbook, using the inheritance class above, refer to the following code 

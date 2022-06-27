@@ -49,7 +49,7 @@ Aspose.Cells is fully cross-platform and supports all major .NET implementations
 -  .NET Framework, starting from the earliest 2.0 version, and ending with the latest .NET Framework 4.8.
 -  .NET Core, starting from the earliest 2.0, and ending with the latest .NET 6.
 
-As far as .NET code does not depend on the underlying hardware or operating system, but only on a Virtual Machine, you are free to develop any kind of software for Windows, Linux, macOS, Android and iOS. Azure and AWS Lambda is also supportted. Just make sure you have installed the corresponding version of .NET Framework, .NET Core, Windows Azure, Mono or Xamarin.
+As far as .NET code does not depend on the underlying hardware or operating system, but only on a Virtual Machine, you are free to develop any kind of software for Windows, Linux, macOS, Android and iOS. Azure and AWS Lambda is also supported. Just make sure you have installed the corresponding version of .NET Framework, .NET Core, Windows Azure, Mono or Xamarin.
 
 We recommend using Microsoft Visual Studio, VSCode to create C#, F#, VB.NET applications.
 
@@ -71,7 +71,7 @@ XLSX is well-known format for Microsoft Excel documents that was introduced by M
 
 {{< blocks/products/pf/agp/other-supported-section title="Repair Other Supported Excel Formats" subTitle="Using C#, one can easily repair other Excel format files." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/recovery/repair-ods/" name="RepairODS" description="OpenDocument Spreadsheet File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/recovery/repair-ods/" name="Repair ODS" description="OpenDocument Spreadsheet File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/recovery/repair-xls/" name="Repair XLS" description="Excel Binary Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/recovery/repair-xlsb/" name="Repair XLSB" description="Binary Excel Workbook File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/recovery/repair-xlsm/" name="Repair XLSM" description="Spreadsheet File" >}}

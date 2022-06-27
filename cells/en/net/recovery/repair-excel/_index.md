@@ -31,7 +31,7 @@ description: Repair a corrupt excel file using C#. Recovery tool to repair corru
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="C# library to repair excel file" %}}
+{{% blocks/products/pf/agp/content h2="Install Aspose.Cells to repair excel file" %}}
 
 There are three alternative options to install Aspose.Cells for .NET in your system.
 -  Open [NuGet](https://www.nuget.org/packages/aspose.cells) package manager, search for **Aspose.Cells** and install.

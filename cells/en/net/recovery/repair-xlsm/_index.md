@@ -31,7 +31,7 @@ description: Repair a corrupt xlsm file using C#. Recovery tool to repair corrup
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="C# library to repair xlsm file" %}}
+{{% blocks/products/pf/agp/content h2="Install Aspose.Cells to repair xlsm file" %}}
 
 There are three alternative options to install Aspose.Cells for .NET in your system.
 -  Open [NuGet](https://www.nuget.org/packages/aspose.cells) package manager, search for **Aspose.Cells** and install.

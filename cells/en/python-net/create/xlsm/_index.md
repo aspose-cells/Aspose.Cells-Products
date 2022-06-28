@@ -52,22 +52,20 @@ description: Python Sample code for generating XLSM documents. Use this code for
 
 ```cs
 
-import jpype
-import asposecells
-jpype.startJVM()
-from asposecells.api import Workbook, FileFormatType
+import aspose.cells
+from aspose.cells import Workbook, FileFormatType
 
 // Create Workbook object.
 workbook = Workbook(FileFormatType.XLSM)
 
 // Access the first worksheet of the workbook.
-worksheet = workbook.getWorksheets().get(0)
+worksheet = workbook.worksheets.get(0)
 
 // Get the desired cell(s) of the worksheet and input the value into the cell(s).
-worksheet.getCells().get("A1").putValue("ColumnA")
-worksheet.getCells().get("B1").putValue("ColumnB")
-worksheet.getCells().get("A2").putValue("ValueA")
-worksheet.getCells().get("B2").putValue("ValueB")
+worksheet.cells.get("A1").put_value("ColumnA")
+worksheet.cells.get("B1").put_value("ColumnB")
+worksheet.cells.get("A2").put_value("ValueA")
+worksheet.cells.get("B2").put_value("ValueB")
 
 // Save the workbook as XLSM file.
 workbook.save("output.xlsm")

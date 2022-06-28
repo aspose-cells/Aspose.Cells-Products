@@ -70,8 +70,6 @@ worksheet.cells.get("B2").put_value("ValueB")
 // Save the workbook as XLTX file.
 workbook.save("output.xltx")
 
-jpype.shutdownJVM()
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}

@@ -70,8 +70,6 @@ worksheet.cells.get("B2").put_value("ValueB")
 // Save the workbook as XLSM file.
 workbook.save("output.xlsm")
 
-jpype.shutdownJVM()
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}

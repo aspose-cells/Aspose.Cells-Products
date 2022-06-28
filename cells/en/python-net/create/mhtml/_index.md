@@ -70,8 +70,6 @@ worksheet.cells.get("B2").put_value("ValueB")
 // Save the workbook as MHTML file.
 workbook.save("output.mhtml")
 
-jpype.shutdownJVM()
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}

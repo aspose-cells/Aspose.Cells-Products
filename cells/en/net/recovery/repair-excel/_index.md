@@ -12,9 +12,7 @@ description: Repair a corrupt excel file using C#. Recovery tool to repair corru
 
 {{% blocks/products/pf/agp/content h2="Repair EXCEL File Using .NET" %}}
 
- In order to repair EXCEL file, we will use
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API which is a feature-rich, powerful and easy to use document manipulation API for C# platform. 
+ In order to repair EXCEL file, we will use [Aspose.Cells for .NET](https://products.aspose.com/cells/net) API which is a feature-rich, powerful and easy to use document manipulation API for C# platform. 
  
  Aspose.Cells API can be used to create, edit, convert and render Microsoft Excel formats to different formats. Moreover, it can be used for comprehensive charting, scalable reporting and reliable calculations within software applications. Aspose.Cells is a standalone API and it does not require any software like Microsoft or OpenOffice.  
 

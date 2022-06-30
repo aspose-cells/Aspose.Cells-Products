@@ -12,9 +12,7 @@ description: Repair a corrupt xlsx file using C#. Recovery tool to repair corrup
 
 {{% blocks/products/pf/agp/content h2="Repair XLSX File Using .NET" %}}
 
- In order to repair XLSX file, we will use
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API which is a feature-rich, powerful and easy to use document manipulation API for C# platform. 
+ In order to repair XLSX file, we will use [Aspose.Cells for .NET](https://products.aspose.com/cells/net) API which is a feature-rich, powerful and easy to use document manipulation API for C# platform. 
  
  Aspose.Cells API can be used to create, edit, convert and render Microsoft Excel formats to different formats. Moreover, it can be used for comprehensive charting, scalable reporting and reliable calculations within software applications. Aspose.Cells is a standalone API and it does not require any software like Microsoft or OpenOffice.  
 

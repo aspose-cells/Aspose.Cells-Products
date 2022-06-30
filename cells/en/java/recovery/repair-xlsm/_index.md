@@ -12,9 +12,7 @@ description: Repair a corrupt xlsm file using Java. Recovery tool to repair corr
 
 {{% blocks/products/pf/agp/content h2="Repair XLSM File Using Java" %}}
 
- In order to repair XLSM file, we will use
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API which is a feature-rich, powerful and easy to use document manipulation API for Java platform. 
+ In order to repair XLSM file, we will use [Aspose.Cells for Java](https://products.aspose.com/cells/java) API which is a feature-rich, powerful and easy to use document manipulation API for Java platform. 
  
  Aspose.Cells API can be used to create, edit, convert and render Microsoft Excel formats to different formats. Moreover, it can be used for comprehensive charting, scalable reporting and reliable calculations within software applications. Aspose.Cells is a standalone API and it does not require any software like Microsoft or OpenOffice.  
 

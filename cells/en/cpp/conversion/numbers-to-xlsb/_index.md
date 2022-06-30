@@ -12,13 +12,7 @@ description: Convert NUMBERS to XLSB format in C++ code. Save NUMBERS as XLSB us
 
 {{% blocks/products/pf/agp/content h2="How to Convert NUMBERS to XLSB Using C++" %}}
 
- In order to convert NUMBERS to XLSB, we’ll use
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C++ platform. You can download its latest version directly, just open
- [NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) 
- package manager, search for
- Aspose.Cells.Cpp 
- and install. You may also use the following command from the Package Manager Console.
+ In order to convert NUMBERS to XLSB, we will use [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C++ platform. You can download its latest version directly, just open [NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) package manager, search for Aspose.Cells.Cpp and install. You may also use the following command from the Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 

@@ -12,13 +12,7 @@ description: Convert XLT to FODS format in C# code. Save XLT as FODS using VB.NE
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLT to FODS Using C#" %}}
 
- In order to convert XLT to FODS, we will use
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C# platform. Open
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- package manager, search for
- Aspose.Cells 
- and install. You may also use the following command from the Package Manager Console.
+ In order to convert XLT to FODS, we will use [Aspose.Cells for .NET](https://products.aspose.com/cells/net) API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C# platform. Open [NuGet](https://www.nuget.org/packages/aspose.cells) package manager, search for Aspose.Cells and install. You may also use the following command from the Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
 

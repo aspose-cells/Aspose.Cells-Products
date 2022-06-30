@@ -12,9 +12,8 @@ description: Convert EXCEL to IMAGE format in C# code. Save EXCEL as IMAGE using
 
 {{% blocks/products/pf/agp/content h2="How to Convert EXCEL to IMAGE Using C#" %}}
 
- In order to convert EXCEL to IMAGE, we will use
- [Aspose.Cells for C#](https://products.aspose.com/cells/net) 
- API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C# platform. 
+ In order to convert EXCEL to IMAGE, we will use [Aspose.Cells for C#](https://products.aspose.com/cells/net) API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C# platform. 
+
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
@@ -44,8 +43,7 @@ description: Convert EXCEL to IMAGE format in C# code. Save EXCEL as IMAGE using
 
 -  Microsoft Windows or a compatible OS with .NET, .NET Core, Mono or Xamarin Platforms.
 -  Development environment like Microsoft Visual Studio.
--  Add reference to the Aspose.Cells for .NET DLL in your project.
-
+-  Our product is fully cross-platform and supports Windows, Linux, MacOS, Azure, AWS Lambda.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

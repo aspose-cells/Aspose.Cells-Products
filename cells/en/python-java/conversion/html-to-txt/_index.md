@@ -12,9 +12,8 @@ description: Convert HTML to TXT format in Python code. Save HTML as TXT using P
 
 {{% blocks/products/pf/agp/content h2="How to Convert HTML to TXT Using Python" %}}
 
- In order to convert HTML to TXT, we will use
- [Aspose.Cells for Python](https://pypi.org/project/aspose-cells) 
- API which is a feature-rich, powerful and easy to use document manipulation and conversion API for Python platform. 
+ In order to convert HTML to TXT, we will use [Aspose.Cells for Python](https://pypi.org/project/aspose-cells) API which is a feature-rich, powerful and easy to use document manipulation and conversion API for Python platform. 
+ 
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

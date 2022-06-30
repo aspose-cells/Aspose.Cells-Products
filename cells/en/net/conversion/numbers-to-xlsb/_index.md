@@ -12,13 +12,7 @@ description: Convert NUMBERS to XLSB format in C# code. Save NUMBERS as XLSB usi
 
 {{% blocks/products/pf/agp/content h2="How to Convert NUMBERS to XLSB Using C#" %}}
 
- In order to convert NUMBERS to XLSB, we will use
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C# platform. Open
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- package manager, search for
- Aspose.Cells 
- and install. You may also use the following command from the Package Manager Console.
+ In order to convert NUMBERS to XLSB, we will use [Aspose.Cells for .NET](https://products.aspose.com/cells/net) API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C# platform. Open [NuGet](https://www.nuget.org/packages/aspose.cells) package manager, search for Aspose.Cells and install. You may also use the following command from the Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
 

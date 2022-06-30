@@ -12,9 +12,8 @@ description: Convert XLSM to FODS format in Python code. Save XLSM as FODS using
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSM to FODS Using Python" %}}
 
- In order to convert XLSM to FODS, we will use
- [Aspose.Cells for Python](https://pypi.org/project/aspose-cells) 
- API which is a feature-rich, powerful and easy to use document manipulation and conversion API for Python platform. 
+ In order to convert XLSM to FODS, we will use [Aspose.Cells for Python](https://pypi.org/project/aspose-cells) API which is a feature-rich, powerful and easy to use document manipulation and conversion API for Python platform. 
+ 
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

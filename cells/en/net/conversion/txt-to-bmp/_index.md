@@ -12,13 +12,7 @@ description: Convert TXT to BMP format in C# code. Save TXT as BMP using VB.NET,
 
 {{% blocks/products/pf/agp/content h2="How to Convert TXT to BMP Using C#" %}}
 
- In order to convert TXT to BMP, we will use
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C# platform. Open
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- package manager, search for
- Aspose.Cells 
- and install. You may also use the following command from the Package Manager Console.
+ In order to convert TXT to BMP, we will use [Aspose.Cells for .NET](https://products.aspose.com/cells/net) API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C# platform. Open [NuGet](https://www.nuget.org/packages/aspose.cells) package manager, search for Aspose.Cells and install. You may also use the following command from the Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
 

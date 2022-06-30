@@ -12,9 +12,8 @@ description: Convert FODS to XLAM format in Python code. Save FODS as XLAM using
 
 {{% blocks/products/pf/agp/content h2="How to Convert FODS to XLAM Using Python" %}}
 
- In order to convert FODS to XLAM, we will use
- [Aspose.Cells for Python](https://pypi.org/project/aspose-cells) 
- API which is a feature-rich, powerful and easy to use document manipulation and conversion API for Python platform. 
+ In order to convert FODS to XLAM, we will use [Aspose.Cells for Python](https://pypi.org/project/aspose-cells) API which is a feature-rich, powerful and easy to use document manipulation and conversion API for Python platform. 
+ 
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

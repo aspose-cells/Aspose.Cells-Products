@@ -12,9 +12,8 @@ description: Convert NUMBERS to PDF format in Python code. Save NUMBERS as PDF u
 
 {{% blocks/products/pf/agp/content h2="How to Convert NUMBERS to PDF Using Python" %}}
 
- In order to convert NUMBERS to PDF, we will use
- [Aspose.Cells for Python](https://pypi.org/project/aspose-cells) 
- API which is a feature-rich, powerful and easy to use document manipulation and conversion API for Python platform. 
+ In order to convert NUMBERS to PDF, we will use [Aspose.Cells for Python](https://pypi.org/project/aspose-cells) API which is a feature-rich, powerful and easy to use document manipulation and conversion API for Python platform. 
+ 
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

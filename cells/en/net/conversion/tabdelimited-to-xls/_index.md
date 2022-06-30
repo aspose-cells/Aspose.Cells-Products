@@ -12,13 +12,7 @@ description: Convert TABDELIMITED to XLS format in C# code. Save TABDELIMITED as
 
 {{% blocks/products/pf/agp/content h2="How to Convert TABDELIMITED to XLS Using C#" %}}
 
- In order to convert TABDELIMITED to XLS, we will use
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C# platform. Open
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- package manager, search for
- Aspose.Cells 
- and install. You may also use the following command from the Package Manager Console.
+ In order to convert TABDELIMITED to XLS, we will use [Aspose.Cells for .NET](https://products.aspose.com/cells/net) API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C# platform. Open [NuGet](https://www.nuget.org/packages/aspose.cells) package manager, search for Aspose.Cells and install. You may also use the following command from the Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
 

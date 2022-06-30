@@ -12,13 +12,7 @@ description: Convert EXCEL to SVG format in C++ code. Save EXCEL as SVG using C+
 
 {{% blocks/products/pf/agp/content h2="How to Convert EXCEL to SVG Using C++" %}}
 
- In order to convert EXCEL to SVG, we’ll use
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C++ platform. You can download its latest version directly, just open
- [NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) 
- package manager, search for
- Aspose.Cells.Cpp 
- and install. You may also use the following command from the Package Manager Console.
+ In order to convert EXCEL to SVG, we will use [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C++ platform. You can download its latest version directly, just open [NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) package manager, search for Aspose.Cells.Cpp and install. You may also use the following command from the Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 

@@ -12,9 +12,8 @@ description: Convert FODS to TSV format in Python code. Save FODS as TSV using P
 
 {{% blocks/products/pf/agp/content h2="How to Convert FODS to TSV Using Python" %}}
 
- In order to convert FODS to TSV, we will use
- [Aspose.Cells for Python](https://pypi.org/project/aspose-cells) 
- API which is a feature-rich, powerful and easy to use document manipulation and conversion API for Python platform. 
+ In order to convert FODS to TSV, we will use [Aspose.Cells for Python](https://pypi.org/project/aspose-cells) API which is a feature-rich, powerful and easy to use document manipulation and conversion API for Python platform. 
+ 
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

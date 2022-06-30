@@ -12,13 +12,7 @@ description: Convert HTML to TXT format in C# code. Save HTML as TXT using VB.NE
 
 {{% blocks/products/pf/agp/content h2="How to Convert HTML to TXT Using C#" %}}
 
- In order to convert HTML to TXT, we will use
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C# platform. Open
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- package manager, search for
- Aspose.Cells 
- and install. You may also use the following command from the Package Manager Console.
+ In order to convert HTML to TXT, we will use [Aspose.Cells for .NET](https://products.aspose.com/cells/net) API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C# platform. Open [NuGet](https://www.nuget.org/packages/aspose.cells) package manager, search for Aspose.Cells and install. You may also use the following command from the Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
 

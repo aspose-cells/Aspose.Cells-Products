@@ -12,9 +12,8 @@ description: Convert XLS to XLAM format in Python code. Save XLS as XLAM using P
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLS to XLAM Using Python" %}}
 
- In order to convert XLS to XLAM, we will use
- [Aspose.Cells for Python](https://pypi.org/project/aspose-cells) 
- API which is a feature-rich, powerful and easy to use document manipulation and conversion API for Python platform. 
+ In order to convert XLS to XLAM, we will use [Aspose.Cells for Python](https://pypi.org/project/aspose-cells) API which is a feature-rich, powerful and easy to use document manipulation and conversion API for Python platform. 
+ 
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

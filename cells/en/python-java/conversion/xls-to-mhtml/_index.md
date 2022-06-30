@@ -12,9 +12,8 @@ description: Convert XLS to MHTML format in Python code. Save XLS as MHTML using
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLS to MHTML Using Python" %}}
 
- In order to convert XLS to MHTML, we will use
- [Aspose.Cells for Python](https://pypi.org/project/aspose-cells) 
- API which is a feature-rich, powerful and easy to use document manipulation and conversion API for Python platform. 
+ In order to convert XLS to MHTML, we will use [Aspose.Cells for Python](https://pypi.org/project/aspose-cells) API which is a feature-rich, powerful and easy to use document manipulation and conversion API for Python platform. 
+ 
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

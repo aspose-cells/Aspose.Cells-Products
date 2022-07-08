@@ -27,7 +27,7 @@ description: Create XLTM files in Java code. Generate MS Excel XLTM files using 
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Create an instance of [Workbook class](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook).
+1.  Create an instance of [Workbook class](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook).
 1.  Access the relevant worksheet using getWorksheets.get() method.
 1.  Select the relevant cell, input the value into the desired cell using the cell name, like A1, B3, etc.
 1.  Save the workbook as XLTM format using the save() method.

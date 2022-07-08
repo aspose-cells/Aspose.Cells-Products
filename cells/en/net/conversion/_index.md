@@ -12,7 +12,7 @@ description: Convert Excel XLS, XLSX, ODS, CSV to PDF, XPS, HTML, JPEG, HTML and
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Convert Excel to XLSX, ODS, SXC & FODS" %}}
-Inter-conversion of spreadsheet format only requires loading a spreadsheet with an instance of [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) and saving back in the desired format while selecting appropriate value from [SaveFormat](https://apireference.aspose.com/cells/net/aspose.cells/saveformat) enumeration.
+Inter-conversion of spreadsheet format only requires loading a spreadsheet with an instance of [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) and saving back in the desired format while selecting appropriate value from [SaveFormat](https://reference.aspose.com/cells/net/aspose.cells/saveformat) enumeration.
 {{% blocks/products/pf/feature-page-code h3="C# Code for Excel File Format Conversion" %}}
 
 ```cs
@@ -30,7 +30,7 @@ workbook.Save("output.fods", Aspose.Cells.SaveFormat.Fods);
 
 
 {{% blocks/products/pf/feature-page-section  h2="Convert Excel to PDF, XPS, HTML & MD" %}}
-Specialized classes are available to control the conversion process for specific output formats such as [PdfSaveOptions](https://apireference.aspose.com/cells/net/aspose.cells/pdfsaveoptions) to export Excel files as PDF, [XpsSaveOptions](https://apireference.aspose.com/cells/net/aspose.cells/xpssaveoptions) for Excel to XPS conversion, [HtmlSaveOptions](https://apireference.aspose.com/cells/net/aspose.cells/htmlsaveoptions) to render Excel as HTML and [MarkdownSaveOptions](https://apireference.aspose.com/cells/net/aspose.cells/markdownsaveoptions) for Excel to Markdown conversion. 
+Specialized classes are available to control the conversion process for specific output formats such as [PdfSaveOptions](https://reference.aspose.com/cells/net/aspose.cells/pdfsaveoptions) to export Excel files as PDF, [XpsSaveOptions](https://reference.aspose.com/cells/net/aspose.cells/xpssaveoptions) for Excel to XPS conversion, [HtmlSaveOptions](https://reference.aspose.com/cells/net/aspose.cells/htmlsaveoptions) to render Excel as HTML and [MarkdownSaveOptions](https://reference.aspose.com/cells/net/aspose.cells/markdownsaveoptions) for Excel to Markdown conversion. 
 {{% blocks/products/pf/feature-page-code h3="C# Code for Excel to PDF and Web Formats" %}}
 
 ```cs
@@ -51,7 +51,7 @@ book.Save("output.md", new Aspose.Cells.MarkdownSaveOptions() { FormatStrategy =
 {{< blocks/products/pf/feature-page-options formats="XPS PDF" beforeslug="convert">}}
 
 {{% blocks/products/pf/feature-page-section  h2="Convert JSON to Excel & Excel to JSON" %}}
-JSON data can be imported into an instance of [Cells](https://apireference.aspose.com/cells/net/aspose.cells/cells) class with the help of [JsonUtility.ImportData](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/importdata) for further processing or simple conversion to any of the supported formats. Similarly, [Worksheet](https://apireference.aspose.com/cells/net/aspose.cells/worksheet) data can be exported as JSON by creating a [Range](https://apireference.aspose.com/cells/net/aspose.cells/range) or cells and calling the [JsonUtility.ExportRangeToJson](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/exportrangetojson) method.
+JSON data can be imported into an instance of [Cells](https://reference.aspose.com/cells/net/aspose.cells/cells) class with the help of [JsonUtility.ImportData](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/importdata) for further processing or simple conversion to any of the supported formats. Similarly, [Worksheet](https://reference.aspose.com/cells/net/aspose.cells/worksheet) data can be exported as JSON by creating a [Range](https://reference.aspose.com/cells/net/aspose.cells/range) or cells and calling the [JsonUtility.ExportRangeToJson](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/exportrangetojson) method.
 {{% blocks/products/pf/feature-page-code h3="C# Code for JSON to Excel Conversion" %}}
 ```cs
 // create a Workbook object
@@ -90,7 +90,7 @@ System.IO.File.WriteAllText("output.json", jsonData);
 {{< blocks/products/pf/feature-page-options pairs="json-to-xlsx json-to-ods json-to-csv json-to-dif json-to-html csv-to-json xls-to-json ods-to-json" >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Convert Excel Worksheets to JPG, BMP, PNG & GIF" %}}
-Each worksheet of an Excel file can be converted to different image formats set by the [ImageOrPrintOptions.ImageType](https://apireference.aspose.com/cells/net/aspose.cells.rendering/imageorprintoptions/properties/imagetype) property. Default value is `ImageFormat.Bmp`.
+Each worksheet of an Excel file can be converted to different image formats set by the [ImageOrPrintOptions.ImageType](https://reference.aspose.com/cells/net/aspose.cells.rendering/imageorprintoptions/properties/imagetype) property. Default value is `ImageFormat.Bmp`.
 {{% blocks/products/pf/feature-page-code h3="C# Code for Excel to Image Conversion" %}}
 ```cs
 // load template spreadsheet
@@ -111,7 +111,7 @@ render.ToImage(0, "output.jpg");
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering">}}
 
 {{% blocks/products/pf/feature-page-section  h2="Convert Excel to Word & PowerPoint" %}}
-It is possible to load any spreadsheet and convert it to Word DOCX & PowerPoint PPTX files while using [DocxSaveOptions](https://apireference.aspose.com/cells/net/aspose.cells/docxsaveoptions) & [PptxSaveOptions](https://apireference.aspose.com/cells/net/aspose.cells/pptxsaveoptions) classes as demonstrated below.
+It is possible to load any spreadsheet and convert it to Word DOCX & PowerPoint PPTX files while using [DocxSaveOptions](https://reference.aspose.com/cells/net/aspose.cells/docxsaveoptions) & [PptxSaveOptions](https://reference.aspose.com/cells/net/aspose.cells/pptxsaveoptions) classes as demonstrated below.
 {{% blocks/products/pf/feature-page-code h3="C# code for Excel to Word & PowerPoint Conversion" %}}
 ```cs
 // load the template file

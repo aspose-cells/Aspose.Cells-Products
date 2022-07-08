@@ -50,7 +50,7 @@ description: Convert EXCEL to IMAGE format in C# code. Save EXCEL as IMAGE using
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Convert EXCEL to IMAGE" %}}
-Inter-conversion of spreadsheet format only requires loading a spreadsheet with an instance of [Workbook](https://apireference.aspose.com/cells/net/aspose.cells/workbook) and saving back in the desired format while selecting appropriate value from [SaveFormat](https://apireference.aspose.com/cells/net/aspose.cells/saveformat) enumeration.
+Inter-conversion of spreadsheet format only requires loading a spreadsheet with an instance of [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) and saving back in the desired format while selecting appropriate value from [SaveFormat](https://reference.aspose.com/cells/net/aspose.cells/saveformat) enumeration.
 {{% /blocks/products/pf/feature-page-section %}}
 
 

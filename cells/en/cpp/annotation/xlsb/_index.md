@@ -45,7 +45,7 @@ PM> Install-Package Aspose.Cells.Cpp
 1.  Select the relevant sheet
 1.  Add the comment using the Add method
 1.  Set the note of the comment using the SetNote method.
-1.  Save the workbook using [Save](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) method
+1.  Save the workbook using [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) method
 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

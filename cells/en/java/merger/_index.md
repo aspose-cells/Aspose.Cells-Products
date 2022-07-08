@@ -11,7 +11,7 @@ description: Merge Excel files using Java into multiple sheets or single sheet. 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Combine Excel Files with Images and Charts" %}}
-The simplest way to combine two Excel files having images & charts is by calling the [Workbook.combine](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#combine(com.aspose.cells.Workbook)) method. It allows to merge Excel files of similar type into a single spreadsheet.
+The simplest way to combine two Excel files having images & charts is by calling the [Workbook.combine](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#combine(com.aspose.cells.Workbook)) method. It allows to merge Excel files of similar type into a single spreadsheet.
 {{% blocks/products/pf/feature-page-code h3="Java Code to Combine Excel Files" %}}
 
 ```cs
@@ -29,7 +29,7 @@ book1.save("combined.xlsx");
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Merge Multiple Excel Files" %}}
-[CellsHelper.mergeFiles](https://apireference.aspose.com/cells/java/com.aspose.cells/cellshelper#mergeFiles) method supports merging data, style and formulas of an Excel file to a new spreadsheet of same format. It is an efficient way to merge several files while using caching. 
+[CellsHelper.mergeFiles](https://reference.aspose.com/cells/java/com.aspose.cells/cellshelper#mergeFiles) method supports merging data, style and formulas of an Excel file to a new spreadsheet of same format. It is an efficient way to merge several files while using caching. 
 {{% blocks/products/pf/feature-page-code h3="Java Code to Merge Several Excel Files" %}}
 
 ```cs
@@ -46,7 +46,7 @@ CellsHelper.mergeFiles(files, "cache", "merged.xls");
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Merge Excel Files by Copying Worksheets" %}}
-[Worksheet.copy](https://apireference.aspose.com/cells/java/com.aspose.cells/worksheet#copy(com.aspose.cells.Worksheet)) can used to copy data and formatting from a source worksheet to another worksheet within or between workbooks. The method takes the source worksheet object as a parameter.
+[Worksheet.copy](https://reference.aspose.com/cells/java/com.aspose.cells/worksheet#copy(com.aspose.cells.Worksheet)) can used to copy data and formatting from a source worksheet to another worksheet within or between workbooks. The method takes the source worksheet object as a parameter.
 {{% blocks/products/pf/feature-page-code h3="Java Code to Copy Worksheets between Workbooks" %}}
 
 ```cs

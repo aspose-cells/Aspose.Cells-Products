@@ -12,7 +12,7 @@ description: Generate Microsoft Excel spreadsheets from a template sheet using C
 
 {{% blocks/products/pf/feature-page-section  h2="Create Reports Based on Predesigned Excel Template" %}}
 
-To automate the process of creating same pattern files is easy using .NET Assembly API. There are different ways to [import data](https://docs.aspose.com/cells/net/import-data-into-worksheet/#importing-data-from-json) and generate Excel files. API provides a [WorkbookDesigner class](https://apireference.aspose.com/cells/net/aspose.cells/workbookdesigner) to represent a designer worksheet. Create its object and use it to open template file. Set the datasource, that may be DataTable, Array, Json file etc. Process it to import data and save the file with data in required format. Programmers can assemble data into reports in other file formats as of below listed links.
+To automate the process of creating same pattern files is easy using .NET Assembly API. There are different ways to [import data](https://docs.aspose.com/cells/net/import-data-into-worksheet/#importing-data-from-json) and generate Excel files. API provides a [WorkbookDesigner class](https://reference.aspose.com/cells/net/aspose.cells/workbookdesigner) to represent a designer worksheet. Create its object and use it to open template file. Set the datasource, that may be DataTable, Array, Json file etc. Process it to import data and save the file with data in required format. Programmers can assemble data into reports in other file formats as of below listed links.
 
 
 

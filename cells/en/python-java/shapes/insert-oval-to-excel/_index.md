@@ -41,7 +41,7 @@ You need the Aspose.Cells to try the following workflow in your own environment.
 
 +  Instantiating a Workbook object.(or->Load the XLSX file with full path.)
 +  Select Worksheet via its index.
-+  Use the shapecollection's [add method](https://apireference.aspose.com/cells/java/com.aspose.cells/shapecollection#addOval(int,%20int,%20int,%20int,%20int,%20int)) to insert a Oval in the selected worksheet.
++  Use the shapecollection's [add method](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection#addOval(int,%20int,%20int,%20int,%20int,%20int)) to insert a Oval in the selected worksheet.
 +  Save workbook in XLSX format.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -525,7 +525,7 @@ chart.toPdf(dir + "output.pdf");</code></pre>
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/cells/java" >}}
 {{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-cells/Aspose.Cells-for-Java" >}}
-{{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.com/cells/java" >}}
+{{< blocks/products/pf/slr-element name="API References" href="https://reference.aspose.com/cells/java" >}}
 {{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

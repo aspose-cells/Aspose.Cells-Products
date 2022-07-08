@@ -26,11 +26,11 @@ It is easy for the developers to create a High-Low-Close Stock chart within runn
 {{% /blocks/products/pf/agp/text %}}
 
 1. Include the namespace in your class file
-1. Create [**Workbook**](https://apireference.aspose.com/cells/net/aspose.cells/workbook) class instance.
-1. Add some data to worksheet cells with the [**Cell**](https://apireference.aspose.com/cells/net/aspose.cells/cell) object's [**PutValue**](https://apireference.aspose.com/cells/net/aspose.cells/cell/methods/putvalue/index) method.
-1. Add a [**High-Low-Close Stock**](https://apireference.aspose.com/cells/net/aspose.cells.charts/charttype) Chart to the worksheet by calling the [**Charts**](https://apireference.aspose.com/cells/net/aspose.cells.charts/chartcollection) collection's [**Add**](https://apireference.aspose.com/cells/net/aspose.cells.charts/chartcollection/methods/add) method, encapsulated in the [**Worksheet**](https://apireference.aspose.com/cells/net/aspose.cells/worksheet) object.
-1. Access the new [**Chart**](https://apireference.aspose.com/cells/net/aspose.cells.charts/chart) object from the Charts collection by passing its index.
-1. Set the chart's data source with [**Chart.SetChartDataRange**](https://https://apireference.aspose.com/cells/net/aspose.cells.charts/chart/methods/setchartdatarange) method.
+1. Create [**Workbook**](https://reference.aspose.com/cells/net/aspose.cells/workbook) class instance.
+1. Add some data to worksheet cells with the [**Cell**](https://reference.aspose.com/cells/net/aspose.cells/cell) object's [**PutValue**](https://reference.aspose.com/cells/net/aspose.cells/cell/methods/putvalue/index) method.
+1. Add a [**High-Low-Close Stock**](https://reference.aspose.com/cells/net/aspose.cells.charts/charttype) Chart to the worksheet by calling the [**Charts**](https://reference.aspose.com/cells/net/aspose.cells.charts/chartcollection) collection's [**Add**](https://reference.aspose.com/cells/net/aspose.cells.charts/chartcollection/methods/add) method, encapsulated in the [**Worksheet**](https://reference.aspose.com/cells/net/aspose.cells/worksheet) object.
+1. Access the new [**Chart**](https://reference.aspose.com/cells/net/aspose.cells.charts/chart) object from the Charts collection by passing its index.
+1. Set the chart's data source with [**Chart.SetChartDataRange**](https://https://reference.aspose.com/cells/net/aspose.cells.charts/chart/methods/setchartdatarange) method.
 1. Save as Excel or ODS files.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

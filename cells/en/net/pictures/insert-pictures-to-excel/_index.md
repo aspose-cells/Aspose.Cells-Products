@@ -46,8 +46,8 @@ You need the aspose.cells.dll to try the following workflow in your own environm
 +  Instantiating a Workbook object.(or->Load the XLSX file with full path.)
 +  Select Worksheet via its index.
 +  There are two ways to insert a picture in the selected worksheet.
-    + Use the shapecollection's [add method](https://apireference.aspose.com/cells/net/aspose.cells.drawing/shapecollection/methods/addpicture/index) to insert a Picture in the selected worksheet.
-    + Use the picturecollection's [add method](https://apireference.aspose.com/cells/net/aspose.cells.drawing/picturecollection/methods/add/index) to insert a Picture in the selected worksheet.
+    + Use the shapecollection's [add method](https://reference.aspose.com/cells/net/aspose.cells.drawing/shapecollection/methods/addpicture/index) to insert a Picture in the selected worksheet.
+    + Use the picturecollection's [add method](https://reference.aspose.com/cells/net/aspose.cells.drawing/picturecollection/methods/add/index) to insert a Picture in the selected worksheet.
 +  Save workbook in XLSX format.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -12,7 +12,7 @@ description: Generate Microsoft Excel spreadsheets from a template sheet using J
 
 {{% blocks/products/pf/feature-page-section  h2="Create Reports Based on Predesigned Excel Template" %}}
 
-Using Java Assembly API developers can easily program the bulk report generation code by including the below code snippts. API provides [import data](https://docs.aspose.com/cells/java/import-and-export-data/) feature from different sources and create Excel documents depending on that data. For template based patterns, API provides a [WorkbookDesigner class](https://apireference.aspose.com/cells/java/com.aspose.cells/WorkbookDesigner) to represent a designer worksheet. Process is, Create its object and use it to open template file. Set the datasource, that may be Array, DataTable, Json etc. Process it to import data and save the file in desired format. Programmers can assemble data into reports in other file formats including XLS, XLSX, XLSB, XLSM, ODS as of below listed links.
+Using Java Assembly API developers can easily program the bulk report generation code by including the below code snippts. API provides [import data](https://docs.aspose.com/cells/java/import-and-export-data/) feature from different sources and create Excel documents depending on that data. For template based patterns, API provides a [WorkbookDesigner class](https://reference.aspose.com/cells/java/com.aspose.cells/WorkbookDesigner) to represent a designer worksheet. Process is, Create its object and use it to open template file. Set the datasource, that may be Array, DataTable, Json etc. Process it to import data and save the file in desired format. Programmers can assemble data into reports in other file formats including XLS, XLSX, XLSB, XLSM, ODS as of below listed links.
 
 
 

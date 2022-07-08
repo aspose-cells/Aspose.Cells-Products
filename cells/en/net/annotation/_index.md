@@ -11,12 +11,12 @@ description: Add or remove data annotation of Excel and OpenOffice spreadsheets 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Excel Files Data Annotations" %}}
-Managing Comments in Worksheets - There is not any limit that how many comments a sheet has in MS Excel. One can add as much as of application requirement. We will use the [Comment Class](https://apireference.aspose.com/cells/net/aspose.cells/comment) for all of this functionality.
+Managing Comments in Worksheets - There is not any limit that how many comments a sheet has in MS Excel. One can add as much as of application requirement. We will use the [Comment Class](https://reference.aspose.com/cells/net/aspose.cells/comment) for all of this functionality.
 
 +  Load Excel file using Workbook class object
 +  Acess the relevant Worksheet and its relevant Cell index
 +  Call RemoveAt with the Cell Id to remove it
-+  Use [Note property](https://apireference.aspose.com/cells/net/aspose.cells/comment/properties/note) for adding comments content 
++  Use [Note property](https://reference.aspose.com/cells/net/aspose.cells/comment/properties/note) for adding comments content 
 +  Save the workbook before & after calling RemoveAt method to compare
 
 {{% blocks/products/pf/feature-page-code h3="C# Code to Access, Insert and Delete Excel Files Cell Comments" %}}

@@ -12,7 +12,7 @@ Python Excel Library speeds up spreadsheet programming and conversion processes 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Convert Excel to XLSX, ODS, SXC & FODS" %}}
-Inter-conversion of spreadsheet format only requires loading a spreadsheet with an instance of [Workbook](https://apireference.aspose.com/cells/python/asposecells.api/Workbook) and saving back in the desired format while selecting appropriate value from [SaveFormat](https://apireference.aspose.com/cells/python/asposecells.api/saveformat) enumeration.
+Inter-conversion of spreadsheet format only requires loading a spreadsheet with an instance of [Workbook](https://reference.aspose.com/cells/python/asposecells.api/Workbook) and saving back in the desired format while selecting appropriate value from [SaveFormat](https://reference.aspose.com/cells/python/asposecells.api/saveformat) enumeration.
 {{% blocks/products/pf/feature-page-code h3="Python Code for Excel File Format Conversion" %}}
 
 ```cs
@@ -31,7 +31,7 @@ workbook.save("output.fods", SaveFormat.FODS);
 
 
 {{% blocks/products/pf/feature-page-section  h2="Convert Excel to PDF, XPS, HTML & MD" %}}
-Specialized classes are available to control the conversion process for specific output formats such as [PdfSaveOptions](https://apireference.aspose.com/cells/python/asposecells.api/PdfSaveOptions) to export Excel files as PDF, [XpsSaveOptions](https://apireference.aspose.com/cells/python/asposecells.api/XpsSaveOptions) for Excel to XPS conversion, [HtmlSaveOptions](https://apireference.aspose.com/cells/python/asposecells.api/HtmlSaveOptions) to render Excel as HTML and [MarkdownSaveOptions](https://apireference.aspose.com/cells/python/asposecells.api/MarkdownSaveOptions) for Excel to Markdown conversion. 
+Specialized classes are available to control the conversion process for specific output formats such as [PdfSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/PdfSaveOptions) to export Excel files as PDF, [XpsSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/XpsSaveOptions) for Excel to XPS conversion, [HtmlSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/HtmlSaveOptions) to render Excel as HTML and [MarkdownSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/MarkdownSaveOptions) for Excel to Markdown conversion. 
 {{% blocks/products/pf/feature-page-code h3="Python Code for Excel to PDF and Web Formats" %}}
 
 ```cs
@@ -87,7 +87,7 @@ workbook.save("Data.json")
 {{< blocks/products/pf/feature-page-options pairs="json-to-xlsx json-to-ods json-to-csv json-to-dif json-to-html csv-to-json xls-to-json ods-to-json" >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Convert Excel Worksheets to JPG, BMP, PNG & GIF" %}}
-Each worksheet of an Excel file can be converted to different image formats, call [ImageOrPrintOptions](https://apireference.aspose.com/cells/python/asposecells.api/ImageOrPrintOptions).setImageFormat to set the image format. 
+Each worksheet of an Excel file can be converted to different image formats, call [ImageOrPrintOptions](https://reference.aspose.com/cells/python/asposecells.api/ImageOrPrintOptions).setImageFormat to set the image format. 
 {{% blocks/products/pf/feature-page-code h3="Python Code for Excel to Image Conversion" %}}
 ```cs
 // load template spreadsheet
@@ -108,7 +108,7 @@ sr.toImage(0, "output.jpg")
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering">}}
 
 {{% blocks/products/pf/feature-page-section  h2="Convert Excel to Word & PowerPoint" %}}
-It is possible to load any spreadsheet and convert it to Word DOCX & PowerPoint PPTX files while using [DocxSaveOptions](https://apireference.aspose.com/cells/python/asposecells.api/DocxSaveOptions) & [PptxSaveOptions](https://apireference.aspose.com/cells/python/asposecells.api/PptxSaveOptions) classes as demonstrated below.
+It is possible to load any spreadsheet and convert it to Word DOCX & PowerPoint PPTX files while using [DocxSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/DocxSaveOptions) & [PptxSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/PptxSaveOptions) classes as demonstrated below.
 {{% blocks/products/pf/feature-page-code h3="Python code for Excel to Word & PowerPoint Conversion" %}}
 ```cs
 // load the template file

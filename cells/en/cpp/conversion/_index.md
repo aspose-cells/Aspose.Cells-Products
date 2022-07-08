@@ -12,7 +12,7 @@ For any spreadsheet converter application or solution, **C++ Excel Library** spe
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Inter-conversion of Microsoft Excel Formats" %}}
-Inter-conversion of spreadsheet format only requires loading a spreadsheet with an instance of [ intrusive_ptr<Aspose::Cells::IWorkbook>](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) pointer and saving back in the desired format using [Save](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997) method of [IWorkbook class](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook).
+Inter-conversion of spreadsheet format only requires loading a spreadsheet with an instance of [ intrusive_ptr<Aspose::Cells::IWorkbook>](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) pointer and saving back in the desired format using [Save](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997) method of [IWorkbook class](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook).
 {{% blocks/products/pf/feature-page-code h3="C++ Example Code for Excel File Format Conversion" %}}
 
 ```cs
@@ -30,7 +30,7 @@ wkb->Save(u"output_excel_format.xlsx", SaveFormat_Xlsx);
 
 
 {{% blocks/products/pf/feature-page-section  h2="Convert Excel Formats to PDF with Compliance Level Settings" %}}
-C++ Excel Automation API supports conversion of Workbooks to PDF as well as support setting of compliance level and creation date. Developers can use [IPdfSaveOptions](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_pdf_save_options) along with [Aspose::Cells::Rendering](https://apireference.aspose.com/cells/cpp/namespace/aspose.cells.rendering) to set the PDF compliance.  For conversion, API save method having PdfSaveOptions as parameter and speicified output file path. 
+C++ Excel Automation API supports conversion of Workbooks to PDF as well as support setting of compliance level and creation date. Developers can use [IPdfSaveOptions](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_pdf_save_options) along with [Aspose::Cells::Rendering](https://reference.aspose.com/cells/cpp/namespace/aspose.cells.rendering) to set the PDF compliance.  For conversion, API save method having PdfSaveOptions as parameter and speicified output file path. 
 {{% blocks/products/pf/feature-page-code h3="C++ Sample Code for Excel to PDF Conversion" %}}
 
 ```cs
@@ -57,7 +57,7 @@ wkb->Save(u"output-converted-excel-workbook-to.pdf", pdfSaveOptions);
 {{< blocks/products/pf/feature-page-options formats="PDF">}}
 
 {{% blocks/products/pf/feature-page-section  h2="Save Excel to Images" %}}
-**C++ Excel Parser** has the ability to export data in the form of images. Each worksheet can be converted to different image formats including BMP, JPEG, PNG and GIF, set by the [Rendering::IImageOrPrintOptions](https://apireference.aspose.com/cells/cpp/class/aspose.cells.rendering.i_image_or_print_options). For any **Convert Excel to Images** case, select the relevant case from links.
+**C++ Excel Parser** has the ability to export data in the form of images. Each worksheet can be converted to different image formats including BMP, JPEG, PNG and GIF, set by the [Rendering::IImageOrPrintOptions](https://reference.aspose.com/cells/cpp/class/aspose.cells.rendering.i_image_or_print_options). For any **Convert Excel to Images** case, select the relevant case from links.
 {{% blocks/products/pf/feature-page-code h3="C++ Code for Excel to Image Conversion" %}}
 
 ```cs

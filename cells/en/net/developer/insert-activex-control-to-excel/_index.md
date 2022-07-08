@@ -45,7 +45,7 @@ You need the aspose.cells.dll to try the following workflow in your own environm
 
 +  Instantiating a Workbook object.(or->Load the XLSX file with full path.)
 +  Select Worksheet via its index.
-+  Use the [add method](https://apireference.aspose.com/cells/net/aspose.cells.drawing/shapecollection/methods/addActiveXControl) to insert a ActiveX Control in the selected worksheet
++  Use the [add method](https://reference.aspose.com/cells/net/aspose.cells.drawing/shapecollection/methods/addActiveXControl) to insert a ActiveX Control in the selected worksheet
 +  Save workbook in XLSX format.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

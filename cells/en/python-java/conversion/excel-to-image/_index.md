@@ -51,7 +51,7 @@ description: Convert EXCEL to IMAGE format in Python code. Save EXCEL as IMAGE u
 {{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Convert EXCEL to IMAGE" %}}
-Inter-conversion of spreadsheet format only requires loading a spreadsheet with an instance of [Workbook](https://apireference.aspose.com/cells/python-java/asposecells.api/workbook) and saving back in the desired format while selecting appropriate value from [SaveFormat](https://apireference.aspose.com/cells/python-java/asposecells.api/saveformat) enumeration.
+Inter-conversion of spreadsheet format only requires loading a spreadsheet with an instance of [Workbook](https://reference.aspose.com/cells/python-java/asposecells.api/workbook) and saving back in the desired format while selecting appropriate value from [SaveFormat](https://reference.aspose.com/cells/python-java/asposecells.api/saveformat) enumeration.
 {{% /blocks/products/pf/feature-page-section %}}
 
 

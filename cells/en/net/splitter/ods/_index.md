@@ -49,7 +49,7 @@ PM> Install-Package Aspose.Cells
 +  Load the ODS file with full path for splitting.
 +  Iterate throug each sheet
 +  Create a new Workbook class object
-+  Copy the sheet via [Copy method](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
++  Copy the sheet via [Copy method](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
 +  Call the Save() method and pass the file name (full path) and SaveFormat.Ods as parameter. 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

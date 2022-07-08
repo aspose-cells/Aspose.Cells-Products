@@ -79,7 +79,7 @@ View spreadsheet files including XLS, XLSX, XLSM, XLSB & ODS in your favorite br
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="second">
- The Aspose product suite and support is second to none. We couldn’t have done what we did without this solution.
+ The Aspose product suite and support is second to none. We could not have done what we did without this solution.
  <em>
   Dr. Dan Patterson | Acumen, UK
  </em>

@@ -12,13 +12,9 @@ description: Merge MHTML to CSV file in Java code. Combine MHTML to CSV file usi
 
 {{% blocks/products/pf/agp/content h2="How to Merge MHTML to CSV File Using Java" %}}
 
- In order to merge MHTML to CSV file, we will use
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API which is a feature-rich, powerful and easy to use document manipulation and merging API for Java platform. 
+ In order to merge MHTML to CSV file, we will use [Aspose.Cells for Java](https://products.aspose.com/cells/java) API which is a feature-rich, powerful and easy to use document manipulation and merging API for Java platform. 
  
-You can download its latest version directly from
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- and install it within your Maven-based project by adding the following configurations to the pom.xml.
+You can download its latest version directly from [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) and install it within your Maven-based project by adding the following configurations to the pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -90,7 +86,7 @@ You can download its latest version directly from
  
 <!-- aboutfile Starts -->
 
-    {{% blocks/products/pf/agp/content h2="About Aspose.Cells for .NET API" %}}
+    {{% blocks/products/pf/agp/content h2="About Aspose.Cells for Java API" %}}
 
  Aspose.Cells API can be used to create, edit, convert and render Microsoft Excel formats to different formats. Moreover, it can be used for comprehensive charting, scalable reporting and reliable calculations within software applications. Aspose.Cells is a standalone API and it does not require any software like Microsoft or OpenOffice.  
 

@@ -12,24 +12,12 @@ description: Merge ODS to HTML file in C# code. Combine ODS to HTML file using V
 
 {{% blocks/products/pf/agp/content h2="How to Merge ODS to HTML File Using C#" %}}
 
- In order to merge ODS to HTML file, we will use
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API which is a feature-rich, powerful and easy to use document manipulation and merging API for C# platform. 
+ In order to merge ODS to HTML file, we will use [Aspose.Cells for .NET](https://products.aspose.com/cells/net) API which is a feature-rich, powerful and easy to use document manipulation and merging API for C# platform. 
  
- Open [NuGet](https://www.nuget.org/packages/aspose.cells) 
- package manager, search for
- **Aspose.Cells** 
- and install. You may also use the following command from the Package Manager Console.
-
-{{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
-
-```cs
-
-PM> Install-Package Aspose.Cells
-
-```
-
-{{% /blocks/products/pf/agp/code-block %}}
+There are three alternative options to install Aspose.Cells for .NET in your system.
+-  Open [NuGet](https://www.nuget.org/packages/aspose.cells) package manager, search for **Aspose.Cells** and install.
+-  Install Aspose.Cells with NuGet package manager in Visual Studio. See [Documentation](https://docs.aspose.com/cells/net/getting-started/#install-asposecells-through-nuget). 
+-  Download [Aspose.Cells.msi](https://releases.aspose.com/cells/net/) and install it on windows.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -62,8 +50,7 @@ PM> Install-Package Aspose.Cells
 
 -  Microsoft Windows or a compatible OS with .NET, .NET Core, Mono or Xamarin Platforms.
 -  Development environment like Microsoft Visual Studio.
--  Add reference to the Aspose.Cells for .NET DLL in your project.
-
+-  Our product is fully cross-platform and supports Windows, Linux, MacOS, Azure, AWS Lambda.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

@@ -12,9 +12,7 @@ description: Merge TSV to XLS file in Python code. Combine TSV to XLS file using
 
 {{% blocks/products/pf/agp/content h2="How to Merge TSV to XLS File Using Python" %}}
 
- In order to merge TSV to XLS file, we will use
- [Aspose.Cells for Python](https://pypi.org/project/aspose-cells) 
- API which is a feature-rich, powerful and easy to use document manipulation and merging API for Python platform. 
+ In order to merge TSV to XLS file, we will use [Aspose.Cells for Python](https://pypi.org/project/aspose-cells) API which is a feature-rich, powerful and easy to use document manipulation and merging API for Python platform. 
  
 You may install Aspose.Cells for Python from <a href="https://pypi.org/project/aspose-cells/">pypi</a>, use command as: <code>$ pip install aspose-cells</code>.
 
@@ -61,7 +59,7 @@ You may install Aspose.Cells for Python from <a href="https://pypi.org/project/a
  
 <!-- aboutfile Starts -->
 
-    {{% blocks/products/pf/agp/content h2="About Aspose.Cells for .NET API" %}}
+    {{% blocks/products/pf/agp/content h2="About Aspose.Cells for Python API" %}}
 
  Aspose.Cells API can be used to create, edit, convert and render Microsoft Excel formats to different formats. Moreover, it can be used for comprehensive charting, scalable reporting and reliable calculations within software applications. Aspose.Cells is a standalone API and it does not require any software like Microsoft or OpenOffice.  
 

@@ -12,15 +12,9 @@ description: Merge MHT to MHT file in C++ code. Combine MHT to MHT file using C+
 
 {{% blocks/products/pf/agp/content h2="How to Merge MHT to MHT File Using C++" %}}
 
- In order to merge MHT to MHT file, we will use
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- API which is a feature-rich, powerful and easy to use document manipulation and merging API for C++ platform. 
+ In order to merge MHT to MHT file, we will use [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API which is a feature-rich, powerful and easy to use document manipulation and merging API for C++ platform. 
  
-You can download its latest version directly, just open
- [NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) 
- package manager, search for
- Aspose.Cells.Cpp 
- and install. You may also use the following command from the Package Manager Console.
+You can download its latest version directly, just open [NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) package manager, search for Aspose.Cells.Cpp and install. You may also use the following command from the Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
@@ -73,7 +67,7 @@ PM> Install-Package Aspose.Cells.Cpp
  
 <!-- aboutfile Starts -->
 
-    {{% blocks/products/pf/agp/content h2="About Aspose.Cells for .NET API" %}}
+    {{% blocks/products/pf/agp/content h2="About Aspose.Cells for C++ API" %}}
 
  Aspose.Cells API can be used to create, edit, convert and render Microsoft Excel formats to different formats. Moreover, it can be used for comprehensive charting, scalable reporting and reliable calculations within software applications. Aspose.Cells is a standalone API and it does not require any software like Microsoft or OpenOffice.  
 

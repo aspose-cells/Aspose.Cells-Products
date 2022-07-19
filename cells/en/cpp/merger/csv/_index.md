@@ -12,7 +12,7 @@ description: C++ example code to combine CSV documents on C++ Runtime Environmen
 
 {{% blocks/products/pf/agp/content h2="How to Merge CSV File Using C++" %}}
 
-In order to merge CSV file, we’ll use <a href="https://products.aspose.com/cells/cpp">Aspose.Cells for C++</a> API which is a feature-rich, powerful and easy to use document merger API for C++ platform. You can download its latest version directly, just open <a href="https://www.nuget.org/packages/aspose.cells">NuGet</a> package manager, search for <b>Aspose.Cells.Cpp</b> and install. You may also use the following command from the Package Manager Console.
+In order to merge CSV file, we will use <a href="https://products.aspose.com/cells/cpp">Aspose.Cells for C++</a> API which is a feature-rich, powerful and easy to use document merger API for C++ platform. You can download its latest version directly, just open <a href="https://www.nuget.org/packages/aspose.cells">NuGet</a> package manager, search for <b>Aspose.Cells.Cpp</b> and install. You may also use the following command from the Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
@@ -32,13 +32,14 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
- A basic document merging and concatenating with
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- APIs can be done with just few lines of code.
+ A basic document merging and concatenating with [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) APIs can be done with just few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 
-{{code_steps}}
++  Load the CSV file with Workbook class.
++  Call the Workbook.Combine method for merging files.
++  Call the Workbook.Save method and pass the output file name as a parameter.
++  Now you can open and use the output file in Microsoft Office, Adobe PDF or any other compatible program.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -55,21 +56,9 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Merge CSV Files - C++" offSpacer="" %}}
-
-```cs
-  
-
-    
-
-```
-
-{{% /blocks/products/pf/agp/code-block %}}
-
 {{< /blocks/products/pf/agp/feature-section >}}
 
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
- 
+{{% cells-merger title="Free App to merge Excel files on line" InputFormat="csv" InputFormat2="csv" outformat="csv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;ods;csv;tsv;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="cpp" %}}
 
 <!-- aboutfile Starts -->
 
@@ -77,17 +66,9 @@ PM> Install-Package Aspose.Cells.Cpp
 
 Aspose.Cells API can be used to create, edit, convert and render Microsoft Excel formats to different formats. Moreover, it can be used for comprehensive charting, scalable reporting and reliable calculations within software applications. Aspose.Cells is a standalone API and it does not require any software like Microsoft or OpenOffice.    
 
-
-
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/demobox sectionTitle="Online CSV Merger Live Demos" sectionDescription="Merge CSV documents right now by visiting our [Live Demos website](https://products.aspose.app/cells/merger). The live demo has the following benefits" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download Aspose API." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your CSV files." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" It will be merged and concatenated instantly." >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="CSV" readMoreLink="https://docs.fileformat.com/spreadsheet/csv/" >}}
 Files with CSV (Comma Separated Values) extension represent plain text files that contain records of data with comma separated values. Each line in a CSV file is a new record from the set of records contained in the file. Such files are generated when data transfer is intended from one storage system to another. Since all applications can recognize records separated by comma, import of such data files to database is done very conveniently. Almost all spreadsheet applications such as Microsoft Excel or OpenOffice Calc can import CSV without much effort. Data imported from such files is arranged in cells of a spreadsheet for representation to user. 

@@ -13,11 +13,7 @@ description: Java sample code to combine XLT documents on Java Runtime Environme
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLT Files Using Java" %}}
 
- In order to merge XLT file, we’ll use
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API which is a feature-rich, powerful and easy to use merger API for Java platform. You can download its latest version directly from
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- and install it within your Maven-based project by adding the following configurations to the pom.xml.
+ In order to merge XLT file, we’ll use [Aspose.Cells for Java](https://products.aspose.com/cells/java) API which is a feature-rich, powerful and easy to use merger API for Java platform. You can download its latest version directly from [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) and install it within your Maven-based project by adding the following configurations to the pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -55,9 +51,7 @@ description: Java sample code to combine XLT documents on Java Runtime Environme
 
 {{% blocks/products/pf/agp/text %}}
 
- A basic document merging and concatenating with
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- APIs can be done with just few lines of code.
+ A basic document merging and concatenating with [Aspose.Cells for Java](https://products.aspose.com/cells/java) APIs can be done with just few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -102,10 +96,13 @@ xltFile1.save("combinedFileWithPath.xlt");
 
 {{% /blocks/products/pf/agp/code-block %}}
 
-{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="Online XLT Merger Live Demos" sectionDescription="Merge XLT documents right now by visiting our [Live Demos website](https://products.aspose.app/cells/merger). The live demo has the following benefits" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download Aspose API." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your XLT files." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" It will be merged and concatenated instantly." >}}
 
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
- 
+{{< /blocks/products/pf/agp/feature-section >}}
 
 <!-- aboutfile Starts -->
 
@@ -119,11 +116,6 @@ xltFile1.save("combinedFileWithPath.xlt");
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Online XLT Merger Live Demos" sectionDescription="Merge XLT documents right now by visiting our [Live Demos website](https://products.aspose.app/cells/merger). The live demo has the following benefits" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download Aspose API." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your XLT files." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" It will be merged and concatenated instantly." >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="XLT" readMoreLink="https://docs.fileformat.com/spreadsheet/xlt/" >}}
 Files with .XLT extension are template files created with Microsoft Excel which is a spreadsheet application which comes as part of Microsoft Office suite.  Microsoft Office 97-2003 supported creating new XLT files as well as opening these. The latest version of Excel is still capable of opening this old format template files. Such a template file is used to quickly create new Excel files with default data and settings such as page formatting, font size, margins, charts, etc which can be further saved as new .XLS files. 

@@ -13,11 +13,7 @@ description: Java sample code to combine XLSM documents on Java Runtime Environm
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLSM Files Using Java" %}}
 
- In order to merge XLSM file, we’ll use
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API which is a feature-rich, powerful and easy to use merger API for Java platform. You can download its latest version directly from
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- and install it within your Maven-based project by adding the following configurations to the pom.xml.
+ In order to merge XLSM file, we’ll use [Aspose.Cells for Java](https://products.aspose.com/cells/java) API which is a feature-rich, powerful and easy to use merger API for Java platform. You can download its latest version directly from [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) and install it within your Maven-based project by adding the following configurations to the pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -55,9 +51,7 @@ description: Java sample code to combine XLSM documents on Java Runtime Environm
 
 {{% blocks/products/pf/agp/text %}}
 
- A basic document merging and concatenating with
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- APIs can be done with just few lines of code.
+ A basic document merging and concatenating with [Aspose.Cells for Java](https://products.aspose.com/cells/java) APIs can be done with just few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -102,10 +96,13 @@ xlsmFile1.save("combinedFileWithPath.xlsm");
 
 {{% /blocks/products/pf/agp/code-block %}}
 
-{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="Online XLSM Merger Live Demos" sectionDescription="Merge XLSM documents right now by visiting our [Live Demos website](https://products.aspose.app/cells/merger). The live demo has the following benefits" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download Aspose API." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your XLSM files." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" It will be merged and concatenated instantly." >}}
 
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
- 
+{{< /blocks/products/pf/agp/feature-section >}}
 
 <!-- aboutfile Starts -->
 
@@ -119,11 +116,6 @@ xlsmFile1.save("combinedFileWithPath.xlsm");
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Online XLSM Merger Live Demos" sectionDescription="Merge XLSM documents right now by visiting our [Live Demos website](https://products.aspose.app/cells/merger). The live demo has the following benefits" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download Aspose API." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your XLSM files." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" It will be merged and concatenated instantly." >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}
 Files with XLSM extension is a type of Spreadsheet files that support Macros. From application point of view, a Macro is set of instructions that are used for automating processes. A macro is used to record the steps that are performed repeatedly and facilitates performing the actions by running the macro again. Macros are programmed with Microsoft's Visual Basic for Applications (VBA) from within the Excel Workbook using the Visual Basic Editor and can be run/debug directly from there. 

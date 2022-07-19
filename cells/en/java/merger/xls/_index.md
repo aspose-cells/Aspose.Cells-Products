@@ -13,11 +13,7 @@ description: Java sample code to combine XLS documents on Java Runtime Environme
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLS Files Using Java" %}}
 
- In order to merge XLS file, we’ll use
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API which is a feature-rich, powerful and easy to use merger API for Java platform. You can download its latest version directly from
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- and install it within your Maven-based project by adding the following configurations to the pom.xml.
+ In order to merge XLS file, we’ll use [Aspose.Cells for Java](https://products.aspose.com/cells/java) API which is a feature-rich, powerful and easy to use merger API for Java platform. You can download its latest version directly from [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) and install it within your Maven-based project by adding the following configurations to the pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -55,9 +51,7 @@ description: Java sample code to combine XLS documents on Java Runtime Environme
 
 {{% blocks/products/pf/agp/text %}}
 
- A basic document merging and concatenating with
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- APIs can be done with just few lines of code.
+ A basic document merging and concatenating with [Aspose.Cells for Java](https://products.aspose.com/cells/java) APIs can be done with just few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -102,10 +96,13 @@ xlsFile1.save("combinedFileWithPath.xls");
 
 {{% /blocks/products/pf/agp/code-block %}}
 
-{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="Online XLS Merger Live Demos" sectionDescription="Merge XLS documents right now by visiting our [Live Demos website](https://products.aspose.app/cells/merger). The live demo has the following benefits" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download Aspose API." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your XLS files." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" It will be merged and concatenated instantly." >}}
 
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
- 
+{{< /blocks/products/pf/agp/feature-section >}}
 
 <!-- aboutfile Starts -->
 
@@ -119,11 +116,6 @@ xlsFile1.save("combinedFileWithPath.xls");
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Online XLS Merger Live Demos" sectionDescription="Merge XLS documents right now by visiting our [Live Demos website](https://products.aspose.app/cells/merger). The live demo has the following benefits" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download Aspose API." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your XLS files." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" It will be merged and concatenated instantly." >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}
 Files with XLS extension represent Excel Binary File Format. Such files can be created by Microsoft Excel as well as other similar spreadsheet programs such as OpenOffice Calc or Apple Numbers. File saved by Excel is known as Workbook where each workbook can have one or more worksheets. Data is stored and displayed to users in table format in worksheet and can span numeric values, text data, formulas, external data connections, images, and charts. Applications like Microsoft Excel lets you export workbook data to several different formats including PDF, CSV, XLSX, TXT, HTML, XPS, and several others. The XLS file format was replaced with a more open and structured format, XLSX, with the release of Microsoft Excel 2007. The latest versions still provide support for creating and reading XLS files, though XLSX is the first choice of use now. 

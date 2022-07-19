@@ -13,11 +13,7 @@ description: Java sample code to combine XLTX documents on Java Runtime Environm
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLTX Files Using Java" %}}
 
- In order to merge XLTX file, we’ll use
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API which is a feature-rich, powerful and easy to use merger API for Java platform. You can download its latest version directly from
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- and install it within your Maven-based project by adding the following configurations to the pom.xml.
+ In order to merge XLTX file, we’ll use [Aspose.Cells for Java](https://products.aspose.com/cells/java) API which is a feature-rich, powerful and easy to use merger API for Java platform. You can download its latest version directly from [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) and install it within your Maven-based project by adding the following configurations to the pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -55,9 +51,7 @@ description: Java sample code to combine XLTX documents on Java Runtime Environm
 
 {{% blocks/products/pf/agp/text %}}
 
- A basic document merging and concatenating with
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- APIs can be done with just few lines of code.
+ A basic document merging and concatenating with [Aspose.Cells for Java](https://products.aspose.com/cells/java) APIs can be done with just few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -102,10 +96,13 @@ xltxFile1.save("combinedFileWithPath.xltx");
 
 {{% /blocks/products/pf/agp/code-block %}}
 
-{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="Online XLTX Merger Live Demos" sectionDescription="Merge XLTX documents right now by visiting our [Live Demos website](https://products.aspose.app/cells/merger). The live demo has the following benefits" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download Aspose API." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your XLTX files." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" It will be merged and concatenated instantly." >}}
 
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
- 
+{{< /blocks/products/pf/agp/feature-section >}}
 
 <!-- aboutfile Starts -->
 
@@ -119,11 +116,6 @@ xltxFile1.save("combinedFileWithPath.xltx");
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Online XLTX Merger Live Demos" sectionDescription="Merge XLTX documents right now by visiting our [Live Demos website](https://products.aspose.app/cells/merger). The live demo has the following benefits" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download Aspose API." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your XLTX files." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" It will be merged and concatenated instantly." >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="XLTX" readMoreLink="https://docs.fileformat.com/spreadsheet/xltx/" >}}
 Files with XLTX extension represent Microsoft Excel Template files that are based on the Office OpenXML file format specifications. It is used to create a standard template file that can be utilized to generate XLSX files that exhibit the same settings as specified in the XLTX file. 

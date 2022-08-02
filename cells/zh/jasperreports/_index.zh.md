@@ -9,7 +9,7 @@ description: 以 Excel XLS XLSX PDF ODS TXT 和 SpreadsheetML 格式从 Jasper R
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for JasperReports" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-jasperreports.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/jasperreports" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cells/jasperreports/release-notes/" installationsDocsLink="" nugetLink="" nugetPackageName="Microsoft Excel:" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/cells/jasperreports" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-jasperreports.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/jasperreports" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cells/jasperreports/" installationsDocsLink="" nugetLink="" nugetPackageName="Microsoft Excel:" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/cells/jasperreports" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>

@@ -11,7 +11,7 @@ Untuk aplikasi atau solusi pengonversi spreadsheet, **C++ Pustaka Excel** memper
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Inter-konversi Format Microsoft Excel" %}}
-Antar-konversi format spreadsheet hanya memerlukan pemuatan spreadsheet dengan instance [ intrusive_ptr<Aspose::Cells::IWorkbook>](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) pointer dan simpan kembali dalam format yang diinginkan menggunakan [Menyimpan](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997) metode dari [Kelas IWorkbook](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook).
+Antar-konversi format spreadsheet hanya memerlukan pemuatan spreadsheet dengan instance [ intrusive_ptr<Aspose::Cells::IWorkbook>](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) pointer dan simpan kembali dalam format yang diinginkan menggunakan [Menyimpan](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997) metode dari [Kelas IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook).
 {{% blocks/products/pf/feature-page-code h3="C++ Contoh Kode untuk Konversi Format File Excel" %}}
 
 ```cs
@@ -30,7 +30,7 @@ wkb->Save(u"output_excel_format.xlsx", SaveFormat_Xlsx);
 
 
 {{% blocks/products/pf/feature-page-section h2="Konversi Format Excel ke PDF dengan Pengaturan Tingkat Kepatuhan" %}}
-C++ Otomatisasi Excel API mendukung konversi Buku Kerja ke PDF serta mendukung pengaturan tingkat kepatuhan dan tanggal pembuatan. Pengembang dapat menggunakan [Opsi Simpan IPdf](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_pdf_save_options) bersama [Aspose::Cells::Rendering](https://apireference.aspose.com/cells/cpp/namespace/aspose.cells.rendering) untuk mengatur kepatuhan PDF. Untuk konversi, API simpan metode yang memiliki PdfSaveOptions sebagai parameter dan jalur file keluaran yang ditentukan. 
+C++ Otomatisasi Excel API mendukung konversi Buku Kerja ke PDF serta mendukung pengaturan tingkat kepatuhan dan tanggal pembuatan. Pengembang dapat menggunakan [Opsi Simpan IPdf](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_pdf_save_options) bersama [Aspose::Cells::Rendering](https://reference.aspose.com/cells/cpp/namespace/aspose.cells.rendering) untuk mengatur kepatuhan PDF. Untuk konversi, API simpan metode yang memiliki PdfSaveOptions sebagai parameter dan jalur file keluaran yang ditentukan. 
 {{% blocks/products/pf/feature-page-code h3="C++ Contoh Kode untuk Konversi Excel ke PDF" %}}
 
 ```cs
@@ -58,7 +58,7 @@ wkb->Save(u"output-converted-excel-workbook-to.pdf", pdfSaveOptions);
 {{< blocks/products/pf/feature-page-options formats="PDF" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Simpan Excel ke Gambar" %}}
-**C++ Excel Parser** memiliki kemampuan untuk mengekspor data dalam bentuk gambar. Setiap lembar kerja dapat dikonversi ke format gambar yang berbeda termasuk BMP, JPEG, PNG dan GIF, diatur oleh [Rendering::IImageOrPrintOptions](https://apireference.aspose.com/cells/cpp/class/aspose.cells.rendering.i_image_or_print_options). Untuk setiap kasus **Konversi Excel ke Gambar**, pilih kasus yang relevan dari tautan.
+**C++ Excel Parser** memiliki kemampuan untuk mengekspor data dalam bentuk gambar. Setiap lembar kerja dapat dikonversi ke format gambar yang berbeda termasuk BMP, JPEG, PNG dan GIF, diatur oleh [Rendering::IImageOrPrintOptions](https://reference.aspose.com/cells/cpp/class/aspose.cells.rendering.i_image_or_print_options). Untuk setiap kasus **Konversi Excel ke Gambar**, pilih kasus yang relevan dari tautan.
 {{% blocks/products/pf/feature-page-code h3="C++ Kode untuk Konversi Excel ke Gambar" %}}
 
 ```cs

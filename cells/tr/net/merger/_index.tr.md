@@ -10,7 +10,7 @@ description: Excel ve OpenOffice elektronik tablo dosyalarını yalnızca birka�
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Excel Dosyalarını Görüntüler ve Grafiklerle Birleştirin" %}}
-Görüntüleri ve çizelgeleri olan 2 Excel dosyasını birleştirmenin en basit yolu, [Workbook.Combine](https://apireference.aspose.com/cells/net/aspose.cells/workbook/methods/combine) yöntem. Benzer türdeki Excel dosyalarını tek bir elektronik tabloda birleştirmeye izin verir.
+Görüntüleri ve çizelgeleri olan 2 Excel dosyasını birleştirmenin en basit yolu, [Workbook.Combine](https://reference.aspose.com/cells/net/aspose.cells/workbook/methods/combine) yöntem. Benzer türdeki Excel dosyalarını tek bir elektronik tabloda birleştirmeye izin verir.
 {{% blocks/products/pf/feature-page-code h3="C# Excel Dosyalarını Birleştirme Kodu" %}}
 
 {{< gist "aspose-com-gists" "d7c757e7471bd38006ac0d35d221b2e2" "combine-two-workbooks.cs" >}}
@@ -19,7 +19,7 @@ Görüntüleri ve çizelgeleri olan 2 Excel dosyasını birleştirmenin en basit
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="Birden Fazla Excel Dosyasını Birleştirme" %}}
-[CellsHelper.MergeFiles](https://apireference.aspose.com/cells/net/aspose.cells/cellshelper/methods/mergefiles) yöntemi, bir Excel dosyasının verilerini, stilini ve formüllerini aynı formatta yeni bir elektronik tabloyla birleştirmeyi destekler. Önbelleğe almayı kullanırken birkaç dosyayı birleştirmenin etkili bir yoludur. 
+[CellsHelper.MergeFiles](https://reference.aspose.com/cells/net/aspose.cells/cellshelper/methods/mergefiles) yöntemi, bir Excel dosyasının verilerini, stilini ve formüllerini aynı formatta yeni bir elektronik tabloyla birleştirmeyi destekler. Önbelleğe almayı kullanırken birkaç dosyayı birleştirmenin etkili bir yoludur. 
 {{% blocks/products/pf/feature-page-code h3="C# Birkaç Excel Dosyasını Birleştirme Kodu" %}}
 
 {{< gist "aspose-com-gists" "d7c757e7471bd38006ac0d35d221b2e2" "merge-several-excel-files.cs" >}}
@@ -28,7 +28,7 @@ Görüntüleri ve çizelgeleri olan 2 Excel dosyasını birleştirmenin en basit
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="Çalışma Sayfalarını Kopyalayarak Excel Dosyalarını Birleştirme" %}}
-[Çalışma Sayfası.Kopyala](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy/index) kaynak çalışma sayfasından çalışma kitaplarının içinde veya arasında başka bir çalışma sayfasına veri ve biçimlendirme kopyalamak için kullanılabilir. Yöntem, kaynak çalışma sayfası nesnesini parametre olarak alır.
+[Çalışma Sayfası.Kopyala](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy/index) kaynak çalışma sayfasından çalışma kitaplarının içinde veya arasında başka bir çalışma sayfasına veri ve biçimlendirme kopyalamak için kullanılabilir. Yöntem, kaynak çalışma sayfası nesnesini parametre olarak alır.
 {{% blocks/products/pf/feature-page-code h3="C# Çalışma Sayfalarını Excel Dosyalarına Kopyalamak için Kod" %}}
 
 {{< gist "aspose-com-gists" "d7c757e7471bd38006ac0d35d221b2e2" "copy-worksheets-across-excel-files.cs" >}}

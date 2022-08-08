@@ -26,7 +26,7 @@ description: Java Przykładowy kod do generowania dokumentów XLSM. Użyj tego k
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Utwórz instancję [Zajęcia ze skoroszytu](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook).1. Uzyskaj dostęp do odpowiedniego arkusza za pomocą metody getWorksheets.get().1. Wybierz odpowiednią komórkę, wprowadź wartość do żądanej komórki, używając nazwy komórki, np. A1, B3 itp.1. Zapisz skoroszyt w formacie XLSM za pomocą metody save().
+1. Utwórz instancję [Zajęcia ze skoroszytu](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook).1. Uzyskaj dostęp do odpowiedniego arkusza za pomocą metody getWorksheets.get().1. Wybierz odpowiednią komórkę, wprowadź wartość do żądanej komórki, używając nazwy komórki, np. A1, B3 itp.1. Zapisz skoroszyt w formacie XLSM za pomocą metody save().
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="wymagania systemowe" %}}

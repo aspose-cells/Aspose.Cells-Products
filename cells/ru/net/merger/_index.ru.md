@@ -10,7 +10,7 @@ description: Объединяйте файлы электронных табли
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Объединение файлов Excel с изображениями и диаграммами" %}}
-Самый простой способ объединить 2 файла Excel с изображениями и диаграммами — вызвать метод [Рабочая книга.Комбинировать](https://apireference.aspose.com/cells/net/aspose.cells/workbook/methods/combine) метод. Это позволяет объединять файлы Excel аналогичного типа в одну электронную таблицу.
+Самый простой способ объединить 2 файла Excel с изображениями и диаграммами — вызвать метод [Рабочая книга.Комбинировать](https://reference.aspose.com/cells/net/aspose.cells/workbook/methods/combine) метод. Это позволяет объединять файлы Excel аналогичного типа в одну электронную таблицу.
 {{% blocks/products/pf/feature-page-code h3="C# Код для объединения файлов Excel" %}}
 
 {{< gist "aspose-com-gists" "d7c757e7471bd38006ac0d35d221b2e2" "combine-two-workbooks.cs" >}}
@@ -19,7 +19,7 @@ description: Объединяйте файлы электронных табли
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="Объединить несколько файлов Excel" %}}
-[CellsHelper.MergeFiles](https://apireference.aspose.com/cells/net/aspose.cells/cellshelper/methods/mergefiles) метод поддерживает объединение данных, стилей и формул файла Excel в новую электронную таблицу того же формата. Это эффективный способ объединить несколько файлов при использовании кэширования. 
+[CellsHelper.MergeFiles](https://reference.aspose.com/cells/net/aspose.cells/cellshelper/methods/mergefiles) метод поддерживает объединение данных, стилей и формул файла Excel в новую электронную таблицу того же формата. Это эффективный способ объединить несколько файлов при использовании кэширования. 
 {{% blocks/products/pf/feature-page-code h3="C# Код для объединения нескольких файлов Excel" %}}
 
 {{< gist "aspose-com-gists" "d7c757e7471bd38006ac0d35d221b2e2" "merge-several-excel-files.cs" >}}
@@ -28,7 +28,7 @@ description: Объединяйте файлы электронных табли
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="Объединение файлов Excel путем копирования рабочих листов" %}}
-[Рабочий лист.Копировать](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy/index) может использоваться для копирования данных и форматирования с исходного рабочего листа на другой рабочий лист внутри или между рабочими книгами. Метод принимает исходный объект рабочего листа в качестве параметра.
+[Рабочий лист.Копировать](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy/index) может использоваться для копирования данных и форматирования с исходного рабочего листа на другой рабочий лист внутри или между рабочими книгами. Метод принимает исходный объект рабочего листа в качестве параметра.
 {{% blocks/products/pf/feature-page-code h3="C# Код для копирования листов между файлами Excel" %}}
 
 {{< gist "aspose-com-gists" "d7c757e7471bd38006ac0d35d221b2e2" "copy-worksheets-across-excel-files.cs" >}}

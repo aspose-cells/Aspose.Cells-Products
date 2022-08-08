@@ -11,7 +11,7 @@ description: Genera fogli di lavoro Microsoft Excel da un foglio modello utilizz
 
 {{% blocks/products/pf/feature-page-section h2="Crea report basati su modelli Excel predefiniti" %}}
 
-Automatizzare il processo di creazione degli stessi file di pattern è facile utilizzando .NETAssemblaggio API. Ci sono diversi modi per [importare dati](https://docs.aspose.com/cells/net/import-data-into-worksheet/#importing-data-from-json) e generare file Excel. API fornisce a [Classe WorkbookDesigner](https://apireference.aspose.com/cells/net/aspose.cells/workbookdesigner) per rappresentare un foglio di lavoro del progettista. Crea il suo oggetto e usalo per aprire il file modello. Impostare l'origine dati, che può essere DataTable, Array, file Json ecc. Elaborarlo per importare i dati e salvare il file con i dati nel formato richiesto. I programmatori possono assemblare i dati in report in altri formati di file a partire dai collegamenti elencati di seguito.
+Automatizzare il processo di creazione degli stessi file di pattern è facile utilizzando .NETAssemblaggio API. Ci sono diversi modi per [importare dati](https://docs.aspose.com/cells/net/import-data-into-worksheet/#importing-data-from-json) e generare file Excel. API fornisce a [Classe WorkbookDesigner](https://reference.aspose.com/cells/net/aspose.cells/workbookdesigner) per rappresentare un foglio di lavoro del progettista. Crea il suo oggetto e usalo per aprire il file modello. Impostare l'origine dati, che può essere DataTable, Array, file Json ecc. Elaborarlo per importare i dati e salvare il file con i dati nel formato richiesto. I programmatori possono assemblare i dati in report in altri formati di file a partire dai collegamenti elencati di seguito.
 
 
 

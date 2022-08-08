@@ -11,7 +11,7 @@ description: Java 스프레드시트 라이브러리를 사용하여 템플릿 �
 
 {{% blocks/products/pf/feature-page-section h2="미리 디자인된 Excel 템플릿을 기반으로 보고서 만들기" %}}
 
-Java 어셈블리API를 사용하여 개발자는 아래 코드 조각을 포함하여 일괄 보고서 생성 코드를 쉽게 프로그래밍할 수 있습니다. API 제공 [데이터 가져오기](https://docs.aspose.com/cells/java/import-and-export-data/) 다른 소스의 기능을 사용하고 해당 데이터에 따라 Excel 문서를 만듭니다. 템플릿 기반 패턴의 경우 API는 다음을 제공합니다. [통합 문서 디자이너 클래스](https://apireference.aspose.com/cells/java/com.aspose.cells/WorkbookDesigner) 디자이너 워크시트를 나타냅니다. 프로세스는 개체를 만들고 템플릿 파일을 여는 데 사용하는 것입니다. Array, DataTable, Json 등이 될 수 있는 데이터 소스를 설정합니다. 데이터를 가져오고 원하는 형식으로 파일을 저장하도록 처리합니다. 프로그래머는 아래 나열된 링크와 같이 XLS, XLSX, XLSB, XLSM, ODS를 포함한 다른 파일 형식의 보고서로 데이터를 조합할 수 있습니다.
+Java 어셈블리API를 사용하여 개발자는 아래 코드 조각을 포함하여 일괄 보고서 생성 코드를 쉽게 프로그래밍할 수 있습니다. API 제공 [데이터 가져오기](https://docs.aspose.com/cells/java/import-and-export-data/) 다른 소스의 기능을 사용하고 해당 데이터에 따라 Excel 문서를 만듭니다. 템플릿 기반 패턴의 경우 API는 다음을 제공합니다. [통합 문서 디자이너 클래스](https://reference.aspose.com/cells/java/com.aspose.cells/WorkbookDesigner) 디자이너 워크시트를 나타냅니다. 프로세스는 개체를 만들고 템플릿 파일을 여는 데 사용하는 것입니다. Array, DataTable, Json 등이 될 수 있는 데이터 소스를 설정합니다. 데이터를 가져오고 원하는 형식으로 파일을 저장하도록 처리합니다. 프로그래머는 아래 나열된 링크와 같이 XLS, XLSX, XLSB, XLSM, ODS를 포함한 다른 파일 형식의 보고서로 데이터를 조합할 수 있습니다.
 
 
 

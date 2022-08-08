@@ -11,7 +11,7 @@ Python Thư viện Excel tăng tốc quá trình lập trình và chuyển đổ
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Chuyển đổi Excel sang XLSX, ODS, SXC & FODS" %}}
-Việc chuyển đổi giữa các định dạng bảng tính chỉ yêu cầu tải một bảng tính có phiên bản của [Sách bài tập](https://apireference.aspose.com/cells/python/asposecells.api/Workbook) và lưu lại ở định dạng mong muốn trong khi chọn giá trị thích hợp từ [SaveFormat](https://apireference.aspose.com/cells/python/asposecells.api/saveformat) sự liệt kê.
+Việc chuyển đổi giữa các định dạng bảng tính chỉ yêu cầu tải một bảng tính có phiên bản của [Sách bài tập](https://reference.aspose.com/cells/python/asposecells.api/Workbook) và lưu lại ở định dạng mong muốn trong khi chọn giá trị thích hợp từ [SaveFormat](https://reference.aspose.com/cells/python/asposecells.api/saveformat) sự liệt kê.
 {{% blocks/products/pf/feature-page-code h3="Python Mã cho Chuyển đổi Định dạng Tệp Excel" %}}
 
 ```cs
@@ -31,7 +31,7 @@ workbook.save("output.fods", SaveFormat.FODS);
 
 
 {{% blocks/products/pf/feature-page-section h2="Chuyển đổi Excel sang PDF, XPS, HTML & MD" %}}
-Các lớp chuyên biệt có sẵn để kiểm soát quá trình chuyển đổi cho các định dạng đầu ra cụ thể như [PdfSaveOptions](https://apireference.aspose.com/cells/python/asposecells.api/PdfSaveOptions) để xuất tệp Excel dưới dạng PDF, [XpsSaveOptions](https://apireference.aspose.com/cells/python/asposecells.api/XpsSaveOptions) để chuyển đổi Excel sang XPS, [HtmlSaveOptions](https://apireference.aspose.com/cells/python/asposecells.api/HtmlSaveOptions) để kết xuất Excel dưới dạng HTML và [MarkdownSaveOptions](https://apireference.aspose.com/cells/python/asposecells.api/MarkdownSaveOptions) để chuyển đổi Excel sang Markdown. 
+Các lớp chuyên biệt có sẵn để kiểm soát quá trình chuyển đổi cho các định dạng đầu ra cụ thể như [PdfSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/PdfSaveOptions) để xuất tệp Excel dưới dạng PDF, [XpsSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/XpsSaveOptions) để chuyển đổi Excel sang XPS, [HtmlSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/HtmlSaveOptions) để kết xuất Excel dưới dạng HTML và [MarkdownSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/MarkdownSaveOptions) để chuyển đổi Excel sang Markdown. 
 {{% blocks/products/pf/feature-page-code h3="Python Mã cho Excel sang PDF và Định dạng Web" %}}
 
 ```cs
@@ -90,7 +90,7 @@ workbook.save("Data.json")
 {{< blocks/products/pf/feature-page-options pairs="json-to-xlsx json-to-ods json-to-csv json-to-dif json-to-html csv-to-json xls-to-json ods-to-json" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Chuyển đổi Bảng tính Excel sang JPG, BMP, PNG & GIF" %}}
-Mỗi trang tính của tệp Excel có thể được chuyển đổi sang các định dạng hình ảnh khác nhau, hãy gọi [ImageOrPrintOptions](https://apireference.aspose.com/cells/python/asposecells.api/ImageOrPrintOptions).setImageFormat để đặt định dạng hình ảnh. 
+Mỗi trang tính của tệp Excel có thể được chuyển đổi sang các định dạng hình ảnh khác nhau, hãy gọi [ImageOrPrintOptions](https://reference.aspose.com/cells/python/asposecells.api/ImageOrPrintOptions).setImageFormat để đặt định dạng hình ảnh. 
 {{% blocks/products/pf/feature-page-code h3="Python Mã chuyển đổi Excel sang Hình ảnh" %}}
 ```cs
 // tải bảng tính mẫu
@@ -112,7 +112,7 @@ sr.toImage(0, "output.jpg")
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Chuyển đổi Excel sang Word & PowerPoint" %}}
-Có thể tải bất kỳ bảng tính nào và chuyển đổi nó sang các tệp Word DOCX & PowerPoint PPTX trong khi sử dụng [DocxSaveOptions](https://apireference.aspose.com/cells/python/asposecells.api/DocxSaveOptions) & [PptxSaveOptions](https://apireference.aspose.com/cells/python/asposecells.api/PptxSaveOptions) các lớp như minh họa bên dưới.
+Có thể tải bất kỳ bảng tính nào và chuyển đổi nó sang các tệp Word DOCX & PowerPoint PPTX trong khi sử dụng [DocxSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/DocxSaveOptions) & [PptxSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/PptxSaveOptions) các lớp như minh họa bên dưới.
 {{% blocks/products/pf/feature-page-code h3="Python mã cho Chuyển đổi Excel sang Word & PowerPoint" %}}
 ```cs
 // tải tệp mẫu

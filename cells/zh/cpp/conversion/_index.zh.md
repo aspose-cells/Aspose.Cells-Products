@@ -11,7 +11,7 @@ description: 只需几行 C++ 代码，即可将 Excel XLS、XLSX、ODS、CSV �
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Microsoft Excel 格式的相互转换" %}}
-电子表格格式的相互转换只需要加载一个带有实例的电子表格 [ intrusive_ptr<Aspose::Cells::IWorkbook>](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) 指针并保存回所需的格式使用 [节省](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997) 的方法 [IWorkbook 类](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook).
+电子表格格式的相互转换只需要加载一个带有实例的电子表格 [ intrusive_ptr<Aspose::Cells::IWorkbook>](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) 指针并保存回所需的格式使用 [节省](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997) 的方法 [IWorkbook 类](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook).
 {{% blocks/products/pf/feature-page-code h3="C++ Excel 文件格式转换的示例代码" %}}
 
 ```cs
@@ -30,7 +30,7 @@ wkb->Save(u"output_excel_format.xlsx", SaveFormat_Xlsx);
 
 
 {{% blocks/products/pf/feature-page-section h2="使用合规级别设置将 Excel 格式转换为 PDF" %}}
-C++ Excel 自动化API 支持将工作簿转换为 PDF 并支持合规级别和创建日期的设置。开发者可以使用 [Ipdf保存选项](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_pdf_save_options) 随着 [Aspose::Cells::渲染](https://apireference.aspose.com/cells/cpp/namespace/aspose.cells.rendering) 设置 PDF 合规性。对于转换，API 以 PdfSaveOptions 作为参数并指定输出文件路径的保存方法。 
+C++ Excel 自动化API 支持将工作簿转换为 PDF 并支持合规级别和创建日期的设置。开发者可以使用 [Ipdf保存选项](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_pdf_save_options) 随着 [Aspose::Cells::渲染](https://reference.aspose.com/cells/cpp/namespace/aspose.cells.rendering) 设置 PDF 合规性。对于转换，API 以 PdfSaveOptions 作为参数并指定输出文件路径的保存方法。 
 {{% blocks/products/pf/feature-page-code h3="C++ Excel 到 PDF 转换的示例代码" %}}
 
 ```cs
@@ -58,7 +58,7 @@ wkb->Save(u"output-converted-excel-workbook-to.pdf", pdfSaveOptions);
 {{< blocks/products/pf/feature-page-options formats="PDF" >}}
 
 {{% blocks/products/pf/feature-page-section h2="将 Excel 保存到图像" %}}
-**C++ Excel Parser** 能够以图像的形式导出数据。每个工作表都可以转换为不同的图像格式，包括 BMP、JPEG、PNG 和 GIF，由 [渲染::IImageOrPrintOptions](https://apireference.aspose.com/cells/cpp/class/aspose.cells.rendering.i_image_or_print_options).对于任何 **Convert Excel to Images** 案例，请从链接中选择相关案例。
+**C++ Excel Parser** 能够以图像的形式导出数据。每个工作表都可以转换为不同的图像格式，包括 BMP、JPEG、PNG 和 GIF，由 [渲染::IImageOrPrintOptions](https://reference.aspose.com/cells/cpp/class/aspose.cells.rendering.i_image_or_print_options).对于任何 **Convert Excel to Images** 案例，请从链接中选择相关案例。
 {{% blocks/products/pf/feature-page-code h3="C++ Excel 到图像转换的代码" %}}
 
 ```cs

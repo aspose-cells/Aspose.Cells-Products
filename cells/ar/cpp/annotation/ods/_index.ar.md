@@ -41,7 +41,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. قم بتحميل ملف ODS Excel باستخدام كائن فئة IWorkbook.1. حدد الورقة ذات الصلة1. أضف التعليق باستخدام طريقة الإضافة1. عيّن ملاحظة التعليق باستخدام طريقة SetNote.1. احفظ المصنف باستخدام [يحفظ](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) طريقة
+1. قم بتحميل ملف ODS Excel باستخدام كائن فئة IWorkbook.1. حدد الورقة ذات الصلة1. أضف التعليق باستخدام طريقة الإضافة1. عيّن ملاحظة التعليق باستخدام طريقة SetNote.1. احفظ المصنف باستخدام [يحفظ](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) طريقة
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات النظام" %}}

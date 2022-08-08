@@ -24,7 +24,7 @@ A vonaldiagramok dinamikus létrehozása a futó alkalmazáson belül egyszerű.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Tartalmazzon Aspose.Cells névteret1. Teremt [**Munkafüzet**](https://apireference.aspose.com/cells/net/aspose.cells/workbook) osztály példány.1. Adjon hozzá néhány adatot a munkalaphoz.1. Add hozzá a [**Vonal**](https://apireference.aspose.com/cells/net/aspose.cells.charts/charttype) Diagram a munkalaphoz.1. Hozzáférés az újhoz [**Diagram**](https://apireference.aspose.com/cells/net/aspose.cells.charts/chart) tárgy.1. Adja meg a diagram adatforrását a következővel: [**Chart.SetChartDataRange**](https://https://apireference.aspose.com/cells/net/aspose.cells.charts/chart/methods/setchartdatarange) módszer.
+1. Tartalmazzon Aspose.Cells névteret1. Teremt [**Munkafüzet**](https://reference.aspose.com/cells/net/aspose.cells/workbook) osztály példány.1. Adjon hozzá néhány adatot a munkalaphoz.1. Add hozzá a [**Vonal**](https://reference.aspose.com/cells/net/aspose.cells.charts/charttype) Diagram a munkalaphoz.1. Hozzáférés az újhoz [**Diagram**](https://reference.aspose.com/cells/net/aspose.cells.charts/chart) tárgy.1. Adja meg a diagram adatforrását a következővel: [**Chart.SetChartDataRange**](https://https://reference.aspose.com/cells/net/aspose.cells.charts/chart/methods/setchartdatarange) módszer.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

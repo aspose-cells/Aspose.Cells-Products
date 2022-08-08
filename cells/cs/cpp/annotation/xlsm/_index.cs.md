@@ -41,7 +41,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Načtěte soubor XLSM Excel pomocí objektu třídy IWorkbook.1. Vyberte příslušný list1. Přidejte komentář pomocí metody Add1. Nastavte poznámku komentáře pomocí metody SetNote.1. Uložte sešit pomocí [Uložit](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) metoda
+1. Načtěte soubor XLSM Excel pomocí objektu třídy IWorkbook.1. Vyberte příslušný list1. Přidejte komentář pomocí metody Add1. Nastavte poznámku komentáře pomocí metody SetNote.1. Uložte sešit pomocí [Uložit](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) metoda
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

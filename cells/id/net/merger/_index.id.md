@@ -10,7 +10,7 @@ description: Gabungkan file spreadsheet Excel & OpenOffice hanya dengan beberapa
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Gabungkan File Excel dengan Gambar dan Bagan" %}}
-Cara termudah untuk menggabungkan 2 file Excel yang memiliki gambar & bagan adalah dengan memanggil [Buku Kerja. Gabungkan](https://apireference.aspose.com/cells/net/aspose.cells/workbook/methods/combine) metode. Hal ini memungkinkan untuk menggabungkan file Excel dari jenis yang sama ke dalam satu spreadsheet.
+Cara termudah untuk menggabungkan 2 file Excel yang memiliki gambar & bagan adalah dengan memanggil [Buku Kerja. Gabungkan](https://reference.aspose.com/cells/net/aspose.cells/workbook/methods/combine) metode. Hal ini memungkinkan untuk menggabungkan file Excel dari jenis yang sama ke dalam satu spreadsheet.
 {{% blocks/products/pf/feature-page-code h3="C# Kode untuk Menggabungkan File Excel" %}}
 
 {{< gist "aspose-com-gists" "d7c757e7471bd38006ac0d35d221b2e2" "combine-two-workbooks.cs" >}}
@@ -19,7 +19,7 @@ Cara termudah untuk menggabungkan 2 file Excel yang memiliki gambar & bagan adal
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="Gabungkan Beberapa File Excel" %}}
-[CellsHelper.MergeFiles](https://apireference.aspose.com/cells/net/aspose.cells/cellshelper/methods/mergefiles) metode ini mendukung penggabungan data, gaya, dan rumus file Excel ke spreadsheet baru dengan format yang sama. Ini adalah cara yang efisien untuk menggabungkan beberapa file saat menggunakan caching. 
+[CellsHelper.MergeFiles](https://reference.aspose.com/cells/net/aspose.cells/cellshelper/methods/mergefiles) metode ini mendukung penggabungan data, gaya, dan rumus file Excel ke spreadsheet baru dengan format yang sama. Ini adalah cara yang efisien untuk menggabungkan beberapa file saat menggunakan caching. 
 {{% blocks/products/pf/feature-page-code h3="C# Kode untuk Menggabungkan Beberapa File Excel" %}}
 
 {{< gist "aspose-com-gists" "d7c757e7471bd38006ac0d35d221b2e2" "merge-several-excel-files.cs" >}}
@@ -28,7 +28,7 @@ Cara termudah untuk menggabungkan 2 file Excel yang memiliki gambar & bagan adal
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="Gabungkan File Excel dengan Menyalin Lembar Kerja" %}}
-[Lembar kerja.Salin](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy/index) dapat digunakan untuk menyalin data dan pemformatan dari lembar kerja sumber ke lembar kerja lain di dalam atau di antara buku kerja. Metode ini mengambil objek lembar kerja sumber sebagai parameter.
+[Lembar kerja.Salin](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy/index) dapat digunakan untuk menyalin data dan pemformatan dari lembar kerja sumber ke lembar kerja lain di dalam atau di antara buku kerja. Metode ini mengambil objek lembar kerja sumber sebagai parameter.
 {{% blocks/products/pf/feature-page-code h3="C# Kode untuk Menyalin Lembar Kerja di Seluruh File Excel" %}}
 
 {{< gist "aspose-com-gists" "d7c757e7471bd38006ac0d35d221b2e2" "copy-worksheets-across-excel-files.cs" >}}

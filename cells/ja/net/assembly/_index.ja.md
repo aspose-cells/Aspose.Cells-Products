@@ -11,7 +11,7 @@ description: C#コードを使用してテンプレートシートからMicrosof
 
 {{% blocks/products/pf/feature-page-section h2="事前に設計されたExcelテンプレートに基づいてレポートを作成する" %}}
 
-同じパターンファイルを作成するプロセスを自動化するには、.NETアセンブリAPIを使用すると簡単です。するためのさまざまな方法があります [データのインポート](https://docs.aspose.com/cells/net/import-data-into-worksheet/#importing-data-from-json) Excelファイルを生成します。 APIは [WorkbookDesignerクラス](https://apireference.aspose.com/cells/net/aspose.cells/workbookdesigner) デザイナーワークシートを表すため。オブジェクトを作成し、それを使用してテンプレートファイルを開きます。 DataTable、Array、Jsonファイルなどのデータソースを設定します。データをインポートしてファイルを必要な形式のデータとともに保存するように処理します。プログラマーは、以下のリンクのように、データを他のファイル形式のレポートにまとめることができます。
+同じパターンファイルを作成するプロセスを自動化するには、.NETアセンブリAPIを使用すると簡単です。するためのさまざまな方法があります [データのインポート](https://docs.aspose.com/cells/net/import-data-into-worksheet/#importing-data-from-json) Excelファイルを生成します。 APIは [WorkbookDesignerクラス](https://reference.aspose.com/cells/net/aspose.cells/workbookdesigner) デザイナーワークシートを表すため。オブジェクトを作成し、それを使用してテンプレートファイルを開きます。 DataTable、Array、Jsonファイルなどのデータソースを設定します。データをインポートしてファイルを必要な形式のデータとともに保存するように処理します。プログラマーは、以下のリンクのように、データを他のファイル形式のレポートにまとめることができます。
 
 
 

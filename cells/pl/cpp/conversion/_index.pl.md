@@ -11,7 +11,7 @@ W przypadku dowolnej aplikacji lub rozwiązania konwertującego arkusze kalkulac
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Konwersja wzajemna formatów Microsoft Excel" %}}
-Konwersja między formatami arkusza kalkulacyjnego wymaga tylko załadowania arkusza kalkulacyjnego z wystąpieniem [ intrusive_ptr<Aspose::Cells::IWorkbook>](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) wskaźnik i zapisywanie z powrotem w żądanym formacie za pomocą [Ratować](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997) metoda [Klasa IWorkbook](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook).
+Konwersja między formatami arkusza kalkulacyjnego wymaga tylko załadowania arkusza kalkulacyjnego z wystąpieniem [ intrusive_ptr<Aspose::Cells::IWorkbook>](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) wskaźnik i zapisywanie z powrotem w żądanym formacie za pomocą [Ratować](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997) metoda [Klasa IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook).
 {{% blocks/products/pf/feature-page-code h3="C++ Przykładowy kod konwersji formatu pliku Excel" %}}
 
 ```cs
@@ -30,7 +30,7 @@ wkb->Save(u"output_excel_format.xlsx", SaveFormat_Xlsx);
 
 
 {{% blocks/products/pf/feature-page-section h2="Konwertuj formaty Excela na PDF z ustawieniami poziomu zgodności" %}}
-C++ Automatyzacja programu Excel API obsługuje konwersję skoroszytów do formatu PDF, a także obsługuje ustawianie poziomu zgodności i daty utworzenia. Programiści mogą używać [IPdfSaveOptions](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_pdf_save_options) wraz z [Aspose::Cells::Renderowanie](https://apireference.aspose.com/cells/cpp/namespace/aspose.cells.rendering) aby ustawić zgodność z PDF. W przypadku konwersji API zapisz metodę z parametrem PdfSaveOptions i określoną ścieżką pliku wyjściowego. 
+C++ Automatyzacja programu Excel API obsługuje konwersję skoroszytów do formatu PDF, a także obsługuje ustawianie poziomu zgodności i daty utworzenia. Programiści mogą używać [IPdfSaveOptions](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_pdf_save_options) wraz z [Aspose::Cells::Renderowanie](https://reference.aspose.com/cells/cpp/namespace/aspose.cells.rendering) aby ustawić zgodność z PDF. W przypadku konwersji API zapisz metodę z parametrem PdfSaveOptions i określoną ścieżką pliku wyjściowego. 
 {{% blocks/products/pf/feature-page-code h3="C++ Przykładowy kod konwersji programu Excel do PDF" %}}
 
 ```cs
@@ -58,7 +58,7 @@ wkb->Save(u"output-converted-excel-workbook-to.pdf", pdfSaveOptions);
 {{< blocks/products/pf/feature-page-options formats="PDF" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Zapisz Excel w obrazach" %}}
-**C++ Parser Excel** umożliwia eksportowanie danych w postaci obrazów. Każdy arkusz roboczy można przekonwertować na różne formaty obrazu, w tym BMP, JPEG, PNG i GIF, ustawione przez [Renderowanie::IImageOrPrintOptions](https://apireference.aspose.com/cells/cpp/class/aspose.cells.rendering.i_image_or_print_options). W przypadku dowolnego przypadku **Konwertuj Excel na obrazy** wybierz odpowiednią sprawę z łączy.
+**C++ Parser Excel** umożliwia eksportowanie danych w postaci obrazów. Każdy arkusz roboczy można przekonwertować na różne formaty obrazu, w tym BMP, JPEG, PNG i GIF, ustawione przez [Renderowanie::IImageOrPrintOptions](https://reference.aspose.com/cells/cpp/class/aspose.cells.rendering.i_image_or_print_options). W przypadku dowolnego przypadku **Konwertuj Excel na obrazy** wybierz odpowiednią sprawę z łączy.
 {{% blocks/products/pf/feature-page-code h3="C++ Kod programu Excel do konwersji obrazu" %}}
 
 ```cs

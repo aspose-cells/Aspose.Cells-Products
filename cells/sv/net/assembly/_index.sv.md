@@ -11,7 +11,7 @@ description: Generera Microsoft Excel-kalkylblad från ett mallark med C#-koden
 
 {{% blocks/products/pf/feature-page-section h2="Skapa rapporter baserade på förutformad Excel-mall" %}}
 
-Att automatisera processen att skapa samma mönsterfiler är enkelt med .NET Montering API. Det finns olika sätt att [importera data](https://docs.aspose.com/cells/net/import-data-into-worksheet/#importing-data-from-json) och generera Excel-filer. API tillhandahåller en [WorkbookDesigner klass](https://apireference.aspose.com/cells/net/aspose.cells/workbookdesigner) att representera ett designerkalkylblad. Skapa dess objekt och använd det för att öppna mallfilen. Ställ in datakällan, som kan vara DataTable, Array, Json-fil etc. Bearbeta den för att importera data och spara filen med data i önskat format. Programmerare kan sammanställa data till rapporter i andra filformat enligt länkarna nedan.
+Att automatisera processen att skapa samma mönsterfiler är enkelt med .NET Montering API. Det finns olika sätt att [importera data](https://docs.aspose.com/cells/net/import-data-into-worksheet/#importing-data-from-json) och generera Excel-filer. API tillhandahåller en [WorkbookDesigner klass](https://reference.aspose.com/cells/net/aspose.cells/workbookdesigner) att representera ett designerkalkylblad. Skapa dess objekt och använd det för att öppna mallfilen. Ställ in datakällan, som kan vara DataTable, Array, Json-fil etc. Bearbeta den för att importera data och spara filen med data i önskat format. Programmerare kan sammanställa data till rapporter i andra filformat enligt länkarna nedan.
 
 
 

@@ -57,7 +57,7 @@ Načtěte, vytvářejte, manipulujte a vykreslujte dokumenty Excel pomocí Pytho
 {{< blocks/products/pf/slr-tab tabTitle="Výukové zdroje" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentace" href="https://docs.aspose.com/cells/" >}}
 {{< blocks/products/pf/slr-element name="Zdrojový kód" href="https://github.com/aspose-cells?tab=repositories" >}}
-{{< blocks/products/pf/slr-element name="API Reference" href="https://apireference.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="API Reference" href="https://reference.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Výuková videa" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

@@ -26,7 +26,7 @@ description: Java 用於生成 XLSM 文檔的示例代碼。使用此代碼在�
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. 創建一個實例 [工作簿類](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook).1. 使用 getWorksheets.get() 方法訪問相關工作表。1. 選擇相關單元格，使用單元格名稱將值輸入所需的單元格，如 A1、B3 等。1. 使用 save() 方法將工作簿保存為 XLSM 格式。
+1. 創建一個實例 [工作簿類](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook).1. 使用 getWorksheets.get() 方法訪問相關工作表。1. 選擇相關單元格，使用單元格名稱將值輸入所需的單元格，如 A1、B3 等。1. 使用 save() 方法將工作簿保存為 XLSM 格式。
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="系統要求" %}}

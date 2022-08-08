@@ -10,12 +10,12 @@ description: C# códigos fuente que explican cómo dividir archivos de Microsoft
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Dividir documento de Excel en varios archivos" %}}
-La forma más sencilla de dividir hojas de archivos de Excel es acceder a todas las hojas a través de [Hojas de trabajo](https://apireference.aspose.com/cells/net/aspose.cells/workbook/properties/worksheets), iterando a través de cada hoja y llamando al [Dupdo](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy) método. Finalmente guardándolo en una ruta específica. 
+La forma más sencilla de dividir hojas de archivos de Excel es acceder a todas las hojas a través de [Hojas de trabajo](https://reference.aspose.com/cells/net/aspose.cells/workbook/properties/worksheets), iterando a través de cada hoja y llamando al [Dupdo](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy) método. Finalmente guardándolo en una ruta específica. 
 
-+ Cargue el archivo de Excel con la ruta completa usando [clase de libro de trabajo](https://apireference.aspose.com/cells/net/aspose.cells/workbook).
++ Cargue el archivo de Excel con la ruta completa usando [clase de libro de trabajo](https://reference.aspose.com/cells/net/aspose.cells/workbook).
 + Iterar a través de cada hoja
 + Crear un nuevo objeto de clase Workbook
-+ Copiar la hoja vía [método de copia](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
++ Copiar la hoja vía [método de copia](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
 + Llame al método Save() y pase el nombre del archivo (ruta completa) con SaveFormat relevante.
 
 {{% blocks/products/pf/feature-page-code h3="C# Código para dividir archivos de Excel" %}}
@@ -29,7 +29,7 @@ La forma más sencilla de dividir hojas de archivos de Excel es acceder a todas 
 
 {{% blocks/products/pf/feature-page-section h2="Dividir la hoja de cálculo de Excel en paneles" %}}
 
-Para dividir la ventana de la hoja de trabajo en paneles, API proporciona [método de división](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/split) de la clase de hoja de trabajo, que proporciona la vista dividida de la hoja de trabajo. Para eliminar la vista dividida API proporciona [Método RemoveSplit](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/removesplit). Finalmente, guárdelo en una ruta específica. 
+Para dividir la ventana de la hoja de trabajo en paneles, API proporciona [método de división](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/split) de la clase de hoja de trabajo, que proporciona la vista dividida de la hoja de trabajo. Para eliminar la vista dividida API proporciona [Método RemoveSplit](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/removesplit). Finalmente, guárdelo en una ruta específica. 
 
 {{% blocks/products/pf/feature-page-code h3="C# Código para dividir la ventana de la hoja de cálculo de Excel" %}}
 

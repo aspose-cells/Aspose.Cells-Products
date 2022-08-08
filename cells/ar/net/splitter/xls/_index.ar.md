@@ -48,7 +48,7 @@ PM> Install-Package Aspose.Cells
 + قم بتحميل ملف XLS بالمسار الكامل للتقسيم.
 + كرر من خلال كل ورقة
 + إنشاء كائن فئة مصنف جديد
-+ انسخ الورقة عبر [طريقة النسخ](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
++ انسخ الورقة عبر [طريقة النسخ](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
 + استدعاء طريقة Save () ومرر اسم الملف (المسار الكامل) و SaveFormat.Xls كمعلمة.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -24,7 +24,7 @@ Dynamiczne tworzenie wykresów liniowych w uruchomionej aplikacji jest łatwe. A
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Uwzględnij przestrzeń nazw Aspose.Cells1. Tworzyć [**Zeszyt ćwiczeń**](https://apireference.aspose.com/cells/net/aspose.cells/workbook) instancja klasy.1. Dodaj dane do arkusza.1. Dodać [**Linia**](https://apireference.aspose.com/cells/net/aspose.cells.charts/charttype) Wykres do arkusza roboczego.1. Uzyskaj dostęp do nowego [**Wykres**](https://apireference.aspose.com/cells/net/aspose.cells.charts/chart) obiekt.1. Określ źródło danych wykresu za pomocą [**Wykres.ZestawDanychWykresu**](https://https://apireference.aspose.com/cells/net/aspose.cells.charts/chart/methods/setchartdatarange) metoda.
+1. Uwzględnij przestrzeń nazw Aspose.Cells1. Tworzyć [**Zeszyt ćwiczeń**](https://reference.aspose.com/cells/net/aspose.cells/workbook) instancja klasy.1. Dodaj dane do arkusza.1. Dodać [**Linia**](https://reference.aspose.com/cells/net/aspose.cells.charts/charttype) Wykres do arkusza roboczego.1. Uzyskaj dostęp do nowego [**Wykres**](https://reference.aspose.com/cells/net/aspose.cells.charts/chart) obiekt.1. Określ źródło danych wykresu za pomocą [**Wykres.ZestawDanychWykresu**](https://https://reference.aspose.com/cells/net/aspose.cells.charts/chart/methods/setchartdatarange) metoda.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

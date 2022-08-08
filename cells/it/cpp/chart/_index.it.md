@@ -9,12 +9,12 @@ description: C++ codice sorgente per disegnare e convertire grafici o diagrammi 
 {{% blocks/products/pf/feature-page-summary %}}
 
 Utilizzando i grafici Excel, è possibile ottenere un quadro più ampio e analizzare facilmente i dati per prendere le decisioni giuste. [C++ Libreria di Excel](/cells/cpp/) supporta la creazione di diversi grafici elencati da [enum Aspose::Cells::Charts::ChartType
-](https://apireference.aspose.com/cells/cpp/namespace/aspose.cells.charts#a2f17e69bcefc754569019185d0621b70) inclusi grafici ad area, a barre, a torta, piramidali, a linee e a bolle. Inoltre, per la conversione di grafici in immagini, API fornisce a [ToImage metodo](https://apireference.aspose.com/cells/cpp/class/aspose.cells.charts.i_sparkline#a28d76dd585c48366e1657f2982722ddb) nel formato immagine richiesto.
+](https://reference.aspose.com/cells/cpp/namespace/aspose.cells.charts#a2f17e69bcefc754569019185d0621b70) inclusi grafici ad area, a barre, a torta, piramidali, a linee e a bolle. Inoltre, per la conversione di grafici in immagini, API fornisce a [ToImage metodo](https://reference.aspose.com/cells/cpp/class/aspose.cells.charts.i_sparkline#a28d76dd585c48366e1657f2982722ddb) nel formato immagine richiesto.
 
 {{% /blocks/products/pf/feature-page-summary %}}
 {{% blocks/products/pf/feature-page-section h2="Crea grafici Excel" %}}
 
-Il processo di creazione di un grafico Excel consiste nel creare un'istanza di [Classe di Cartella di lavoro](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) e selezionare quello desiderato [Foglio di lavoro](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_worksheet_collection#a5574d624796043233420d0e0459ccc43). Aggiungi il grafico usando [Aggiungi metodo](https://apireference.aspose.com/cells/cpp/class/aspose.cells.charts.i_chart_collection#ab7e8cce835c251a4682605299a6aa068) con parametri rilevanti incluso il tipo di grafico. Accedi al grafico tramite indice e [Aggiungere](https://apireference.aspose.com/cells/cpp/class/aspose.cells.charts.i_series_collection#a8f4dc4d883f32f65b1fb673e2aa7862f) l'origine dati per il grafico.
+Il processo di creazione di un grafico Excel consiste nel creare un'istanza di [Classe di Cartella di lavoro](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) e selezionare quello desiderato [Foglio di lavoro](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_worksheet_collection#a5574d624796043233420d0e0459ccc43). Aggiungi il grafico usando [Aggiungi metodo](https://reference.aspose.com/cells/cpp/class/aspose.cells.charts.i_chart_collection#ab7e8cce835c251a4682605299a6aa068) con parametri rilevanti incluso il tipo di grafico. Accedi al grafico tramite indice e [Aggiungere](https://reference.aspose.com/cells/cpp/class/aspose.cells.charts.i_series_collection#a8f4dc4d883f32f65b1fb673e2aa7862f) l'origine dati per il grafico.
 
 {{% blocks/products/pf/feature-page-code h3="C++ Codice per creare grafici Excel" %}}
 

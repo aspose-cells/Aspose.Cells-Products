@@ -11,7 +11,7 @@ Python Excel Library versnelt de programmeer- en conversieprocessen van spreadsh
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Converteer Excel naar XLSX, ODS, SXC & FODS" %}}
-Interconversie van spreadsheetformaat vereist alleen het laden van een spreadsheet met een instantie van [Werkboek](https://apireference.aspose.com/cells/python/asposecells.api/Workbook) en terug opslaan in het gewenste formaat terwijl u de juiste waarde selecteert uit [OpslaanFormaat](https://apireference.aspose.com/cells/python/asposecells.api/saveformat) opsomming.
+Interconversie van spreadsheetformaat vereist alleen het laden van een spreadsheet met een instantie van [Werkboek](https://reference.aspose.com/cells/python/asposecells.api/Workbook) en terug opslaan in het gewenste formaat terwijl u de juiste waarde selecteert uit [OpslaanFormaat](https://reference.aspose.com/cells/python/asposecells.api/saveformat) opsomming.
 {{% blocks/products/pf/feature-page-code h3="Python Code voor conversie van Excel-bestandsindeling" %}}
 
 ```cs
@@ -31,7 +31,7 @@ workbook.save("output.fods", SaveFormat.FODS);
 
 
 {{% blocks/products/pf/feature-page-section h2="Converteer Excel naar PDF, XPS, HTML & MD" %}}
-Er zijn gespecialiseerde klassen beschikbaar om het conversieproces voor specifieke uitvoerformaten te regelen, zoals: [PdfOpslaanOpties](https://apireference.aspose.com/cells/python/asposecells.api/PdfSaveOptions) om Excel-bestanden als PDF te exporteren, [XpsSave-opties](https://apireference.aspose.com/cells/python/asposecells.api/XpsSaveOptions) voor Excel naar XPS-conversie, [HtmlOpslaanOpties](https://apireference.aspose.com/cells/python/asposecells.api/HtmlSaveOptions) om Excel weer te geven als HTML en [MarkdownOpslaanOpties](https://apireference.aspose.com/cells/python/asposecells.api/MarkdownSaveOptions) voor Excel naar Markdown-conversie. 
+Er zijn gespecialiseerde klassen beschikbaar om het conversieproces voor specifieke uitvoerformaten te regelen, zoals: [PdfOpslaanOpties](https://reference.aspose.com/cells/python/asposecells.api/PdfSaveOptions) om Excel-bestanden als PDF te exporteren, [XpsSave-opties](https://reference.aspose.com/cells/python/asposecells.api/XpsSaveOptions) voor Excel naar XPS-conversie, [HtmlOpslaanOpties](https://reference.aspose.com/cells/python/asposecells.api/HtmlSaveOptions) om Excel weer te geven als HTML en [MarkdownOpslaanOpties](https://reference.aspose.com/cells/python/asposecells.api/MarkdownSaveOptions) voor Excel naar Markdown-conversie. 
 {{% blocks/products/pf/feature-page-code h3="Python Code voor Excel naar PDF en webformaten" %}}
 
 ```cs
@@ -90,7 +90,7 @@ workbook.save("Data.json")
 {{< blocks/products/pf/feature-page-options pairs="json-to-xlsx json-to-ods json-to-csv json-to-dif json-to-html csv-to-json xls-to-json ods-to-json" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Converteer Excel-werkbladen naar JPG, BMP, PNG & GIF" %}}
-Elk werkblad van een Excel-bestand kan worden geconverteerd naar verschillende afbeeldingsformaten, bel [AfbeeldingOfAfdrukopties](https://apireference.aspose.com/cells/python/asposecells.api/ImageOrPrintOptions).setImageFormat om het afbeeldingsformaat in te stellen. 
+Elk werkblad van een Excel-bestand kan worden geconverteerd naar verschillende afbeeldingsformaten, bel [AfbeeldingOfAfdrukopties](https://reference.aspose.com/cells/python/asposecells.api/ImageOrPrintOptions).setImageFormat om het afbeeldingsformaat in te stellen. 
 {{% blocks/products/pf/feature-page-code h3="Python Code voor conversie van Excel naar afbeelding" %}}
 ```cs
 // laad sjabloonspreadsheet
@@ -112,7 +112,7 @@ sr.toImage(0, "output.jpg")
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Converteer Excel naar Word & PowerPoint" %}}
-Het is mogelijk om elke spreadsheet te laden en deze te converteren naar Word DOCX & PowerPoint PPTX-bestanden tijdens gebruik [DocxSave-opties](https://apireference.aspose.com/cells/python/asposecells.api/DocxSaveOptions) & [PptxOpslaanOpties](https://apireference.aspose.com/cells/python/asposecells.api/PptxSaveOptions) klassen zoals hieronder getoond.
+Het is mogelijk om elke spreadsheet te laden en deze te converteren naar Word DOCX & PowerPoint PPTX-bestanden tijdens gebruik [DocxSave-opties](https://reference.aspose.com/cells/python/asposecells.api/DocxSaveOptions) & [PptxOpslaanOpties](https://reference.aspose.com/cells/python/asposecells.api/PptxSaveOptions) klassen zoals hieronder getoond.
 {{% blocks/products/pf/feature-page-code h3="Python code voor conversie van Excel naar Word en PowerPoint" %}}
 ```cs
 // laad het sjabloonbestand

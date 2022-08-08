@@ -11,7 +11,7 @@ description: Преобразование Excel XLS, XLSX, ODS, CSV в PDF, XPS,
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Взаимное преобразование форматов Microsoft Excel" %}}
-Взаимное преобразование формата электронной таблицы требует только загрузки электронной таблицы с экземпляром [Рабочая тетрадь](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) и сохранить обратно в желаемом формате, выбрав соответствующее значение из [СохранитьФормат](https://apireference.aspose.com/cells/java/com.aspose.cells/SaveFormat) перечисление.
+Взаимное преобразование формата электронной таблицы требует только загрузки электронной таблицы с экземпляром [Рабочая тетрадь](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) и сохранить обратно в желаемом формате, выбрав соответствующее значение из [СохранитьФормат](https://reference.aspose.com/cells/java/com.aspose.cells/SaveFormat) перечисление.
 {{% blocks/products/pf/feature-page-code h3="Java Пример кода для преобразования формата файла Excel" %}}
 
 ```cs
@@ -30,7 +30,7 @@ wkb.save("fods-output.fods", SaveFormat.FODS);
 
 
 {{% blocks/products/pf/feature-page-section h2="Преобразование Excel в PDF, XPS, HTML и MD" %}}
-Доступны специализированные классы для управления процессом преобразования для определенных выходных форматов, таких как [PdfSaveOptions](https://apireference.aspose.com/cells/java/com.aspose.cells/PdfSaveOptions) конвертировать файлы Excel в формат PDF, [XPsSaveOptions](https://apireference.aspose.com/cells/java/com.aspose.cells/XpsSaveOptions) экспортировать Excel как XPS, [Хтмлсавеоптионс](https://apireference.aspose.com/cells/java/com.aspose.cells/HtmlSaveOptions) отображать Excel как HTML и [MarkdownSaveOptions](https://apireference.aspose.com/cells/java/com.aspose.cells/MarkdownSaveOptions) для преобразования Excel в Markdown. 
+Доступны специализированные классы для управления процессом преобразования для определенных выходных форматов, таких как [PdfSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/PdfSaveOptions) конвертировать файлы Excel в формат PDF, [XPsSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/XpsSaveOptions) экспортировать Excel как XPS, [Хтмлсавеоптионс](https://reference.aspose.com/cells/java/com.aspose.cells/HtmlSaveOptions) отображать Excel как HTML и [MarkdownSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/MarkdownSaveOptions) для преобразования Excel в Markdown. 
 {{% blocks/products/pf/feature-page-code h3="Java Пример кода для преобразования Excel в PDF и веб-форматы" %}}
 
 ```cs
@@ -59,7 +59,7 @@ bk.save("output.md", new MarkdownSaveOptions());
 {{< blocks/products/pf/feature-page-options formats="XPS PDF" beforeslug="convert" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Преобразование JSON в Excel и Excel в JSON" %}}
-Данные JSON можно импортировать в экземпляр класса Workbook с помощью [JSONUtility.importData](https://apireference.aspose.com/cells/java/com.aspose.cells/jsonutility#importData) для дальнейшей обработки или простого преобразования в любой из поддерживаемых форматов. Точно так же данные рабочего листа можно экспортировать в формате JSON, создав [Диапазон](https://apireference.aspose.com/cells/java/com.aspose.cells/range) или ячейки и вызов [экспортRangeToJson](https://apireference.aspose.com/cells/java/com.aspose.cells/jsonutility) метод.
+Данные JSON можно импортировать в экземпляр класса Workbook с помощью [JSONUtility.importData](https://reference.aspose.com/cells/java/com.aspose.cells/jsonutility#importData) для дальнейшей обработки или простого преобразования в любой из поддерживаемых форматов. Точно так же данные рабочего листа можно экспортировать в формате JSON, создав [Диапазон](https://reference.aspose.com/cells/java/com.aspose.cells/range) или ячейки и вызов [экспортRangeToJson](https://reference.aspose.com/cells/java/com.aspose.cells/jsonutility) метод.
 {{% blocks/products/pf/feature-page-code h3="Java Код для преобразования JSON в Excel" %}}
 ```cs
 Workbook workbook = new Workbook(path + "source-file.xlsx");
@@ -142,7 +142,7 @@ for (int j = 0; j < sr.getPageCount(); j++) {
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Преобразование Microsoft Excel в Word и PowerPoint" %}}
-Можно загрузить любую электронную таблицу и преобразовать ее в файлы Word DOCX и PowerPoint PPTX при использовании [DocxSaveOptions](https://apireference.aspose.com/cells/java/com.aspose.cells/DocxSaveOptions) & [PptxSaveOptions](https://apireference.aspose.com/cells/java/com.aspose.cells/PptxSaveOptions) классы, как показано ниже.
+Можно загрузить любую электронную таблицу и преобразовать ее в файлы Word DOCX и PowerPoint PPTX при использовании [DocxSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/DocxSaveOptions) & [PptxSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/PptxSaveOptions) классы, как показано ниже.
 {{% blocks/products/pf/feature-page-code h3="Java Код для преобразования Excel в Word и PowerPoint" %}}
 ```cs
 // загрузить файл шаблона

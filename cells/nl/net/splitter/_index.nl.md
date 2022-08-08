@@ -10,12 +10,12 @@ description: C# broncodes waarin wordt uitgelegd hoe u Microsoft Excel-bestanden
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Excel-document splitsen in meerdere bestanden" %}}
-De eenvoudigste manier om Excel-bestanden bladsgewijs te splitsen, is: Alle bladen openen via [Werkbladen](https://apireference.aspose.com/cells/net/aspose.cells/workbook/properties/worksheets), Elk blad doorlopen en de . aanroepen [Kopiëren](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy) methode. Sla het ten slotte op in een opgegeven pad. 
+De eenvoudigste manier om Excel-bestanden bladsgewijs te splitsen, is: Alle bladen openen via [Werkbladen](https://reference.aspose.com/cells/net/aspose.cells/workbook/properties/worksheets), Elk blad doorlopen en de . aanroepen [Kopiëren](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy) methode. Sla het ten slotte op in een opgegeven pad. 
 
-+ Laad het Excel-bestand met het volledige pad met behulp van [Werkboek klasse](https://apireference.aspose.com/cells/net/aspose.cells/workbook).
++ Laad het Excel-bestand met het volledige pad met behulp van [Werkboek klasse](https://reference.aspose.com/cells/net/aspose.cells/workbook).
 + Herhaal elk blad
 + Maak een nieuw werkmapklasse-object
-+ Kopieer het blad via [Kopieer methode](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
++ Kopieer het blad via [Kopieer methode](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
 + Roep de methode Save() aan en geef de bestandsnaam (volledig pad) met relevante SaveFormat door.
 
 {{% blocks/products/pf/feature-page-code h3="C# Code om Excel-bestanden te splitsen" %}}
@@ -29,7 +29,7 @@ De eenvoudigste manier om Excel-bestanden bladsgewijs te splitsen, is: Alle blad
 
 {{% blocks/products/pf/feature-page-section h2="Excel-werkblad splitsen in deelvensters" %}}
 
-Voor het splitsen van het werkbladvenster in deelvensters biedt API [Gesplitste methode:](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/split) van werkbladklasse, die de gesplitste weergave van het werkblad biedt. Gesplitste weergave verwijderen API biedt [RemoveSplit-methode](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/removesplit). Sla het ten slotte op in een opgegeven pad. 
+Voor het splitsen van het werkbladvenster in deelvensters biedt API [Gesplitste methode:](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/split) van werkbladklasse, die de gesplitste weergave van het werkblad biedt. Gesplitste weergave verwijderen API biedt [RemoveSplit-methode](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/removesplit). Sla het ten slotte op in een opgegeven pad. 
 
 {{% blocks/products/pf/feature-page-code h3="C# Code om Excel-werkbladvenster te splitsen" %}}
 

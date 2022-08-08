@@ -26,7 +26,7 @@ description: Java Пример кода для создания документ
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Создайте экземпляр [Класс рабочей тетради](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook).1. Получите доступ к соответствующему рабочему листу, используя метод getWorksheets.get().1. Выберите соответствующую ячейку, введите значение в нужную ячейку, используя имя ячейки, например A1, B3 и т. д.1. Сохраните книгу в формате XLSM, используя метод save().
+1. Создайте экземпляр [Класс рабочей тетради](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook).1. Получите доступ к соответствующему рабочему листу, используя метод getWorksheets.get().1. Выберите соответствующую ячейку, введите значение в нужную ячейку, используя имя ячейки, например A1, B3 и т. д.1. Сохраните книгу в формате XLSM, используя метод save().
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Системные Требования" %}}

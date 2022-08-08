@@ -11,7 +11,7 @@ description: แปลง Excel XLS, XLSX, ODS, CSV เป็น PDF, XPS, HTML,
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="แปลง Excel เป็น XLSX, ODS, SXC & FODS" %}}
-การแปลงรูปแบบสเปรดชีตระหว่างกัน จำเป็นต้องโหลดสเปรดชีตที่มีอินสแตนซ์ของ . เท่านั้น [สมุดงาน](https://apireference.aspose.com/cells/net/aspose.cells/workbook) และบันทึกในรูปแบบที่ต้องการในขณะที่เลือกค่าที่เหมาะสมจาก [บันทึกรูปแบบ](https://apireference.aspose.com/cells/net/aspose.cells/saveformat) การแจงนับ
+การแปลงรูปแบบสเปรดชีตระหว่างกัน จำเป็นต้องโหลดสเปรดชีตที่มีอินสแตนซ์ของ . เท่านั้น [สมุดงาน](https://reference.aspose.com/cells/net/aspose.cells/workbook) และบันทึกในรูปแบบที่ต้องการในขณะที่เลือกค่าที่เหมาะสมจาก [บันทึกรูปแบบ](https://reference.aspose.com/cells/net/aspose.cells/saveformat) การแจงนับ
 {{% blocks/products/pf/feature-page-code h3="C# โค้ดสำหรับการแปลงรูปแบบไฟล์ Excel" %}}
 
 ```cs
@@ -30,7 +30,7 @@ workbook.Save("output.fods", Aspose.Cells.SaveFormat.Fods);
 
 
 {{% blocks/products/pf/feature-page-section h2="แปลง Excel เป็น PDF, XPS, HTML & MD" %}}
-มีคลาสเฉพาะเพื่อควบคุมกระบวนการแปลงสำหรับรูปแบบเอาต์พุตเฉพาะเช่น [PdfSaveOptions](https://apireference.aspose.com/cells/net/aspose.cells/pdfsaveoptions) เพื่อส่งออกไฟล์ Excel เป็น PDF [XpsSaveOptions](https://apireference.aspose.com/cells/net/aspose.cells/xpssaveoptions) สำหรับการแปลง Excel เป็น XPS [HtmlSaveOptions](https://apireference.aspose.com/cells/net/aspose.cells/htmlsaveoptions) เพื่อแสดง Excel เป็น HTML และ [MarkdownSaveOptions](https://apireference.aspose.com/cells/net/aspose.cells/markdownsaveoptions) สำหรับการแปลง Excel เป็น Markdown 
+มีคลาสเฉพาะเพื่อควบคุมกระบวนการแปลงสำหรับรูปแบบเอาต์พุตเฉพาะเช่น [PdfSaveOptions](https://reference.aspose.com/cells/net/aspose.cells/pdfsaveoptions) เพื่อส่งออกไฟล์ Excel เป็น PDF [XpsSaveOptions](https://reference.aspose.com/cells/net/aspose.cells/xpssaveoptions) สำหรับการแปลง Excel เป็น XPS [HtmlSaveOptions](https://reference.aspose.com/cells/net/aspose.cells/htmlsaveoptions) เพื่อแสดง Excel เป็น HTML และ [MarkdownSaveOptions](https://reference.aspose.com/cells/net/aspose.cells/markdownsaveoptions) สำหรับการแปลง Excel เป็น Markdown 
 {{% blocks/products/pf/feature-page-code h3="C# โค้ดสำหรับ Excel เป็น PDF และรูปแบบเว็บ" %}}
 
 ```cs
@@ -52,7 +52,7 @@ book.Save("output.md", new Aspose.Cells.MarkdownSaveOptions() { FormatStrategy =
 {{< blocks/products/pf/feature-page-options formats="XPS PDF" beforeslug="convert" >}}
 
 {{% blocks/products/pf/feature-page-section h2="แปลง JSON เป็น Excel & Excel เป็น JSON" %}}
-ข้อมูล JSON สามารถนำเข้าสู่อินสแตนซ์ของ [Cells](https://apireference.aspose.com/cells/net/aspose.cells/cells) ชั้นเรียนด้วยความช่วยเหลือของ [JsonUtility.ImportData](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/importdata) สำหรับการประมวลผลเพิ่มเติมหรือการแปลงอย่างง่ายเป็นรูปแบบที่รองรับ ในทำนองเดียวกัน [ใบงาน](https://apireference.aspose.com/cells/net/aspose.cells/worksheet) ข้อมูลสามารถส่งออกเป็น JSON ได้โดยการสร้าง a [พิสัย](https://apireference.aspose.com/cells/net/aspose.cells/range) หรือเซลล์แล้วเรียก [JsonUtility.ExportRangeToJson](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/exportrangetojson) กระบวนการ.
+ข้อมูล JSON สามารถนำเข้าสู่อินสแตนซ์ของ [Cells](https://reference.aspose.com/cells/net/aspose.cells/cells) ชั้นเรียนด้วยความช่วยเหลือของ [JsonUtility.ImportData](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/importdata) สำหรับการประมวลผลเพิ่มเติมหรือการแปลงอย่างง่ายเป็นรูปแบบที่รองรับ ในทำนองเดียวกัน [ใบงาน](https://reference.aspose.com/cells/net/aspose.cells/worksheet) ข้อมูลสามารถส่งออกเป็น JSON ได้โดยการสร้าง a [พิสัย](https://reference.aspose.com/cells/net/aspose.cells/range) หรือเซลล์แล้วเรียก [JsonUtility.ExportRangeToJson](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/exportrangetojson) กระบวนการ.
 {{% blocks/products/pf/feature-page-code h3="C# โค้ดสำหรับการแปลง JSON เป็น Excel" %}}
 ```cs
 // สร้างวัตถุสมุดงาน
@@ -93,7 +93,7 @@ System.IO.File.WriteAllText("output.json", jsonData);
 {{< blocks/products/pf/feature-page-options pairs="json-to-xlsx json-to-ods json-to-csv json-to-dif json-to-html csv-to-json xls-to-json ods-to-json" >}}
 
 {{% blocks/products/pf/feature-page-section h2="แปลงแผ่นงาน Excel เป็น JPG, BMP, PNG & GIF" %}}
-แผ่นงานแต่ละไฟล์ของไฟล์ Excel สามารถแปลงเป็นรูปแบบภาพต่างๆ ที่กำหนดโดย [ImageOrPrintOptions.ImageType](https://apireference.aspose.com/cells/net/aspose.cells.rendering/imageorprintoptions/properties/imagetype) คุณสมบัติ. ค่าเริ่มต้นคือ 'ImageFormat.Bmp'
+แผ่นงานแต่ละไฟล์ของไฟล์ Excel สามารถแปลงเป็นรูปแบบภาพต่างๆ ที่กำหนดโดย [ImageOrPrintOptions.ImageType](https://reference.aspose.com/cells/net/aspose.cells.rendering/imageorprintoptions/properties/imagetype) คุณสมบัติ. ค่าเริ่มต้นคือ 'ImageFormat.Bmp'
 {{% blocks/products/pf/feature-page-code h3="C# โค้ดสำหรับ Excel เป็นการแปลงรูปภาพ" %}}
 ```cs
 // โหลดสเปรดชีตเทมเพลต
@@ -115,7 +115,7 @@ render.ToImage(0, "output.jpg");
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
 {{% blocks/products/pf/feature-page-section h2="แปลง Excel เป็น Word & PowerPoint" %}}
-สามารถโหลดสเปรดชีตใดก็ได้และแปลงเป็นไฟล์ Word DOCX และ PowerPoint PPTX ขณะใช้งาน [DocxSaveOptions](https://apireference.aspose.com/cells/net/aspose.cells/docxsaveoptions) & [PptxSaveOptions](https://apireference.aspose.com/cells/net/aspose.cells/pptxsaveoptions) ชั้นเรียนดังที่แสดงด้านล่าง
+สามารถโหลดสเปรดชีตใดก็ได้และแปลงเป็นไฟล์ Word DOCX และ PowerPoint PPTX ขณะใช้งาน [DocxSaveOptions](https://reference.aspose.com/cells/net/aspose.cells/docxsaveoptions) & [PptxSaveOptions](https://reference.aspose.com/cells/net/aspose.cells/pptxsaveoptions) ชั้นเรียนดังที่แสดงด้านล่าง
 {{% blocks/products/pf/feature-page-code h3="โค้ด C# สำหรับการแปลง Excel เป็น Word & PowerPoint" %}}
 ```cs
 // โหลดไฟล์เทมเพลต

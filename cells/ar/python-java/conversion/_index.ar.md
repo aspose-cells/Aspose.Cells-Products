@@ -11,7 +11,7 @@ Python تعمل مكتبة Excel على تسريع برمجة جداول الب�
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="تحويل Excel إلى XLSX و ODS و SXC و FODS" %}}
-لا يتطلب التحويل البيني لتنسيق جدول البيانات سوى تحميل جدول بيانات بمثيل [دفتر العمل](https://apireference.aspose.com/cells/python/asposecells.api/Workbook) وإعادة الحفظ بالتنسيق المطلوب مع تحديد القيمة المناسبة من [SaveFormat](https://apireference.aspose.com/cells/python/asposecells.api/saveformat) تعداد.
+لا يتطلب التحويل البيني لتنسيق جدول البيانات سوى تحميل جدول بيانات بمثيل [دفتر العمل](https://reference.aspose.com/cells/python/asposecells.api/Workbook) وإعادة الحفظ بالتنسيق المطلوب مع تحديد القيمة المناسبة من [SaveFormat](https://reference.aspose.com/cells/python/asposecells.api/saveformat) تعداد.
 {{% blocks/products/pf/feature-page-code h3="Python رمز تحويل تنسيق ملف Excel" %}}
 
 ```cs
@@ -31,7 +31,7 @@ workbook.save("output.fods", SaveFormat.FODS);
 
 
 {{% blocks/products/pf/feature-page-section h2="قم بتحويل Excel إلى PDF و XPS و HTML و MD" %}}
-تتوفر الفصول المتخصصة للتحكم في عملية التحويل لتنسيقات الإخراج المحددة مثل [خيارات PdfSave](https://apireference.aspose.com/cells/python/asposecells.api/PdfSaveOptions) لتصدير ملفات Excel بصيغة PDF ، [XpsSaveOptions](https://apireference.aspose.com/cells/python/asposecells.api/XpsSaveOptions) لتحويل Excel إلى XPS ، [خيارات HtmlSave](https://apireference.aspose.com/cells/python/asposecells.api/HtmlSaveOptions) لتقديم Excel بتنسيق HTML و [تخفيض السعر](https://apireference.aspose.com/cells/python/asposecells.api/MarkdownSaveOptions) لبرنامج Excel لتحويل Markdown. 
+تتوفر الفصول المتخصصة للتحكم في عملية التحويل لتنسيقات الإخراج المحددة مثل [خيارات PdfSave](https://reference.aspose.com/cells/python/asposecells.api/PdfSaveOptions) لتصدير ملفات Excel بصيغة PDF ، [XpsSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/XpsSaveOptions) لتحويل Excel إلى XPS ، [خيارات HtmlSave](https://reference.aspose.com/cells/python/asposecells.api/HtmlSaveOptions) لتقديم Excel بتنسيق HTML و [تخفيض السعر](https://reference.aspose.com/cells/python/asposecells.api/MarkdownSaveOptions) لبرنامج Excel لتحويل Markdown. 
 {{% blocks/products/pf/feature-page-code h3="Python التعليمات البرمجية لـ Excel إلى PDF وتنسيقات الويب" %}}
 
 ```cs
@@ -90,7 +90,7 @@ workbook.save("Data.json")
 {{< blocks/products/pf/feature-page-options pairs="json-to-xlsx json-to-ods json-to-csv json-to-dif json-to-html csv-to-json xls-to-json ods-to-json" >}}
 
 {{% blocks/products/pf/feature-page-section h2="قم بتحويل أوراق عمل Excel إلى JPG و BMP و PNG و GIF" %}}
-يمكن تحويل كل ورقة عمل من ملف Excel إلى تنسيقات صور مختلفة ، اتصل [خيارات ImageOrPrintOptions](https://apireference.aspose.com/cells/python/asposecells.api/ImageOrPrintOptions).setImageFormat لضبط تنسيق الصورة. 
+يمكن تحويل كل ورقة عمل من ملف Excel إلى تنسيقات صور مختلفة ، اتصل [خيارات ImageOrPrintOptions](https://reference.aspose.com/cells/python/asposecells.api/ImageOrPrintOptions).setImageFormat لضبط تنسيق الصورة. 
 {{% blocks/products/pf/feature-page-code h3="Python كود لبرنامج Excel لتحويل الصورة" %}}
 ```cs
 // تحميل قالب جدول البيانات
@@ -112,7 +112,7 @@ sr.toImage(0, "output.jpg")
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
 {{% blocks/products/pf/feature-page-section h2="تحويل Excel إلى Word و PowerPoint" %}}
-من الممكن تحميل أي جدول بيانات وتحويله إلى ملفات Word DOCX و PowerPoint PPTX أثناء استخدام [DocxSaveOptions](https://apireference.aspose.com/cells/python/asposecells.api/DocxSaveOptions) & [خيارات PptxSaveOpt](https://apireference.aspose.com/cells/python/asposecells.api/PptxSaveOptions) الفئات كما هو موضح أدناه.
+من الممكن تحميل أي جدول بيانات وتحويله إلى ملفات Word DOCX و PowerPoint PPTX أثناء استخدام [DocxSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/DocxSaveOptions) & [خيارات PptxSaveOpt](https://reference.aspose.com/cells/python/asposecells.api/PptxSaveOptions) الفئات كما هو موضح أدناه.
 {{% blocks/products/pf/feature-page-code h3="Python رمز Excel لتحويل Word و PowerPoint" %}}
 ```cs
 // تحميل ملف القالب

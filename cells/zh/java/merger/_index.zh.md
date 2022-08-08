@@ -10,7 +10,7 @@ description: 使用 Java 将 Excel 文件合并到多个工作表或单个工作
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="将 Excel 文件与图像和图表相结合" %}}
-合并两个具有图像和图表的 Excel 文件的最简单方法是调用 [工作簿.combine](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#combine(com.aspose.cells.Workbook)） 方法。它允许将类似类型的 Excel 文件合并到一个电子表格中。
+合并两个具有图像和图表的 Excel 文件的最简单方法是调用 [工作簿.combine](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#combine(com.aspose.cells.Workbook)） 方法。它允许将类似类型的 Excel 文件合并到一个电子表格中。
 {{% blocks/products/pf/feature-page-code h3="Java 合并 Excel 文件的代码" %}}
 
 ```cs
@@ -29,7 +29,7 @@ book1.save("combined.xlsx");
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="合并多个 Excel 文件" %}}
-[CellsHelper.mergeFiles](https://apireference.aspose.com/cells/java/com.aspose.cells/cellshelper#mergeFiles) 方法支持将 Excel 文件的数据、样式和公式合并到相同格式的新电子表格中。这是在使用缓存时合并多个文件的有效方法。 
+[CellsHelper.mergeFiles](https://reference.aspose.com/cells/java/com.aspose.cells/cellshelper#mergeFiles) 方法支持将 Excel 文件的数据、样式和公式合并到相同格式的新电子表格中。这是在使用缓存时合并多个文件的有效方法。 
 {{% blocks/products/pf/feature-page-code h3="Java 合并多个 Excel 文件的代码" %}}
 
 ```cs
@@ -47,7 +47,7 @@ CellsHelper.mergeFiles(files, "cache", "merged.xls");
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="通过复制工作表合并 Excel 文件" %}}
-[工作表.copy](https://apireference.aspose.com/cells/java/com.aspose.cells/worksheet#copy(com.aspose.cells.Worksheet)可用于将数据和格式从源工作表复制到工作簿内或工作簿之间的另一个工作表。该方法将源工作表对象作为参数。
+[工作表.copy](https://reference.aspose.com/cells/java/com.aspose.cells/worksheet#copy(com.aspose.cells.Worksheet)可用于将数据和格式从源工作表复制到工作簿内或工作簿之间的另一个工作表。该方法将源工作表对象作为参数。
 {{% blocks/products/pf/feature-page-code h3="Java 在工作簿之间复制工作表的代码" %}}
 
 ```cs

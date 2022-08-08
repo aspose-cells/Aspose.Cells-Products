@@ -48,7 +48,7 @@ PM> Install-Package Aspose.Cells
 Ladda XLSB-filen med fullständig sökväg för delning.
 + Iterera genom varje ark
 + Skapa ett nytt Workbook-klassobjekt
-+ Kopiera arket via [Kopieringsmetod](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
++ Kopiera arket via [Kopieringsmetod](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
 + Anropa metoden Save() och skicka filnamnet (fullständig sökväg) och SaveFormat.Xlsb som parameter.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

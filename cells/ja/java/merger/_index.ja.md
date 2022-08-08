@@ -10,7 +10,7 @@ description: Javaを使用してExcelファイルを複数のシートまたは�
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Excelファイルを画像やグラフと組み合わせる" %}}
-画像とグラフを含む2つのExcelファイルを組み合わせる最も簡単な方法は、 [Workbook.combine](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#combine(com.aspose.cells.Workbook)） 方法。これにより、同様のタイプのExcelファイルを1つのスプレッドシートにマージできます。
+画像とグラフを含む2つのExcelファイルを組み合わせる最も簡単な方法は、 [Workbook.combine](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#combine(com.aspose.cells.Workbook)） 方法。これにより、同様のタイプのExcelファイルを1つのスプレッドシートにマージできます。
 {{% blocks/products/pf/feature-page-code h3="JavaExcelファイルを結合するコード" %}}
 
 ```cs
@@ -29,7 +29,7 @@ book1.save("combined.xlsx");
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="複数のExcelファイルをマージする" %}}
-[CellsHelper.mergeFiles](https://apireference.aspose.com/cells/java/com.aspose.cells/cellshelper#mergeFiles) methodは、Excelファイルのデータ、スタイル、および式を同じ形式の新しいスプレッドシートにマージすることをサポートします。これは、キャッシングを使用しながら複数のファイルをマージする効率的な方法です。 
+[CellsHelper.mergeFiles](https://reference.aspose.com/cells/java/com.aspose.cells/cellshelper#mergeFiles) methodは、Excelファイルのデータ、スタイル、および式を同じ形式の新しいスプレッドシートにマージすることをサポートします。これは、キャッシングを使用しながら複数のファイルをマージする効率的な方法です。 
 {{% blocks/products/pf/feature-page-code h3="Java複数のExcelファイルをマージするコード" %}}
 
 ```cs
@@ -47,7 +47,7 @@ CellsHelper.mergeFiles(files, "cache", "merged.xls");
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="ワークシートをコピーしてExcelファイルをマージする" %}}
-[Worksheet.copy](https://apireference.aspose.com/cells/java/com.aspose.cells/worksheet#copy(com.aspose.cells.Worksheet)）ワークブック内またはワークブック間でソースワークシートから別のワークシートにデータとフォーマットをコピーするために使用できます。このメソッドは、ソースワークシートオブジェクトをパラメーターとして受け取ります。
+[Worksheet.copy](https://reference.aspose.com/cells/java/com.aspose.cells/worksheet#copy(com.aspose.cells.Worksheet)）ワークブック内またはワークブック間でソースワークシートから別のワークシートにデータとフォーマットをコピーするために使用できます。このメソッドは、ソースワークシートオブジェクトをパラメーターとして受け取ります。
 {{% blocks/products/pf/feature-page-code h3="Javaワークブック間でワークシートをコピーするためのコード" %}}
 
 ```cs

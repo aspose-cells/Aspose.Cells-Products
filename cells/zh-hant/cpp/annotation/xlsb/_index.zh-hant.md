@@ -41,7 +41,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. 使用 IWorkbook 類對象加載 XLSB Excel 文件。1. 選擇相關工作表1. 使用 Add 方法添加評論1. 使用 SetNote 方法設置註釋的註釋。1. 使用保存工作簿 [節省](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) 方法
+1. 使用 IWorkbook 類對象加載 XLSB Excel 文件。1. 選擇相關工作表1. 使用 Add 方法添加評論1. 使用 SetNote 方法設置註釋的註釋。1. 使用保存工作簿 [節省](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) 方法
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

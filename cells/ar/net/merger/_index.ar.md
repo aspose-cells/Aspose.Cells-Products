@@ -10,7 +10,7 @@ description: اربط ملفات جداول بيانات Excel و OpenOffice ب�
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="ادمج ملفات Excel مع الصور والرسوم البيانية" %}}
-إن أبسط طريقة لدمج ملفين من ملفات Excel بهما صور ومخططات هي عن طريق استدعاء ملف [المصنف](https://apireference.aspose.com/cells/net/aspose.cells/workbook/methods/combine) طريقة. يسمح بدمج ملفات Excel من النوع المماثل في جدول بيانات واحد.
+إن أبسط طريقة لدمج ملفين من ملفات Excel بهما صور ومخططات هي عن طريق استدعاء ملف [المصنف](https://reference.aspose.com/cells/net/aspose.cells/workbook/methods/combine) طريقة. يسمح بدمج ملفات Excel من النوع المماثل في جدول بيانات واحد.
 {{% blocks/products/pf/feature-page-code h3="C# رمز لدمج ملفات Excel" %}}
 
 {{< gist "aspose-com-gists" "d7c757e7471bd38006ac0d35d221b2e2" "combine-two-workbooks.cs" >}}
@@ -19,7 +19,7 @@ description: اربط ملفات جداول بيانات Excel و OpenOffice ب�
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="دمج ملفات Excel متعددة" %}}
-[CellsHelper.MergeFiles](https://apireference.aspose.com/cells/net/aspose.cells/cellshelper/methods/mergefiles) تدعم الطريقة دمج البيانات والنمط والصيغ الخاصة بملف Excel في جدول بيانات جديد من نفس التنسيق. إنها طريقة فعالة لدمج عدة ملفات أثناء استخدام التخزين المؤقت. 
+[CellsHelper.MergeFiles](https://reference.aspose.com/cells/net/aspose.cells/cellshelper/methods/mergefiles) تدعم الطريقة دمج البيانات والنمط والصيغ الخاصة بملف Excel في جدول بيانات جديد من نفس التنسيق. إنها طريقة فعالة لدمج عدة ملفات أثناء استخدام التخزين المؤقت. 
 {{% blocks/products/pf/feature-page-code h3="C# رمز لدمج عدة ملفات Excel" %}}
 
 {{< gist "aspose-com-gists" "d7c757e7471bd38006ac0d35d221b2e2" "merge-several-excel-files.cs" >}}
@@ -28,7 +28,7 @@ description: اربط ملفات جداول بيانات Excel و OpenOffice ب�
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="دمج ملفات Excel عن طريق نسخ أوراق العمل" %}}
-[ورقة العمل](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy/index) يمكن استخدامها لنسخ البيانات والتنسيق من ورقة عمل مصدر إلى ورقة عمل أخرى داخل المصنفات أو بينها. الأسلوب يأخذ كائن ورقة العمل المصدر كمعلمة.
+[ورقة العمل](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy/index) يمكن استخدامها لنسخ البيانات والتنسيق من ورقة عمل مصدر إلى ورقة عمل أخرى داخل المصنفات أو بينها. الأسلوب يأخذ كائن ورقة العمل المصدر كمعلمة.
 {{% blocks/products/pf/feature-page-code h3="C# رمز لنسخ أوراق العمل عبر ملفات Excel" %}}
 
 {{< gist "aspose-com-gists" "d7c757e7471bd38006ac0d35d221b2e2" "copy-worksheets-across-excel-files.cs" >}}

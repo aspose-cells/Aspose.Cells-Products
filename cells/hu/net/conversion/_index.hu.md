@@ -11,7 +11,7 @@ description: Konvertálja az Excel XLS-t, XLSX-et, ODS-t, CSV-t PDF-, XPS-, HTML
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Az Excel konvertálása XLSX, ODS, SXC és FODS formátumba" %}}
-A táblázatformátumok közötti konvertáláshoz csak egy példányt tartalmazó táblázatot kell betölteni [Munkafüzet](https://apireference.aspose.com/cells/net/aspose.cells/workbook) és visszamenti a kívánt formátumba, miközben kiválasztja a megfelelő értéket [SaveFormat](https://apireference.aspose.com/cells/net/aspose.cells/saveformat) felsorolás.
+A táblázatformátumok közötti konvertáláshoz csak egy példányt tartalmazó táblázatot kell betölteni [Munkafüzet](https://reference.aspose.com/cells/net/aspose.cells/workbook) és visszamenti a kívánt formátumba, miközben kiválasztja a megfelelő értéket [SaveFormat](https://reference.aspose.com/cells/net/aspose.cells/saveformat) felsorolás.
 {{% blocks/products/pf/feature-page-code h3="C# Kód az Excel fájlformátum konvertálásához" %}}
 
 ```cs
@@ -30,7 +30,7 @@ workbook.Save("output.fods", Aspose.Cells.SaveFormat.Fods);
 
 
 {{% blocks/products/pf/feature-page-section h2="Az Excel konvertálása PDF, XPS, HTML és MD formátumba" %}}
-Speciális osztályok állnak rendelkezésre az átalakítási folyamat vezérlésére meghatározott kimeneti formátumokhoz, mint pl [PdfSaveOptions](https://apireference.aspose.com/cells/net/aspose.cells/pdfsaveoptions) Excel fájlok PDF formátumban történő exportálásához, [XpsSaveOptions](https://apireference.aspose.com/cells/net/aspose.cells/xpssaveoptions) az Excel XPS konvertáláshoz, [HtmlSaveOptions](https://apireference.aspose.com/cells/net/aspose.cells/htmlsaveoptions) hogy az Excel HTML-ként jelenjen meg és [MarkdownSaveOptions](https://apireference.aspose.com/cells/net/aspose.cells/markdownsaveoptions) az Excelből Markdown konvertáláshoz. 
+Speciális osztályok állnak rendelkezésre az átalakítási folyamat vezérlésére meghatározott kimeneti formátumokhoz, mint pl [PdfSaveOptions](https://reference.aspose.com/cells/net/aspose.cells/pdfsaveoptions) Excel fájlok PDF formátumban történő exportálásához, [XpsSaveOptions](https://reference.aspose.com/cells/net/aspose.cells/xpssaveoptions) az Excel XPS konvertáláshoz, [HtmlSaveOptions](https://reference.aspose.com/cells/net/aspose.cells/htmlsaveoptions) hogy az Excel HTML-ként jelenjen meg és [MarkdownSaveOptions](https://reference.aspose.com/cells/net/aspose.cells/markdownsaveoptions) az Excelből Markdown konvertáláshoz. 
 {{% blocks/products/pf/feature-page-code h3="C# Kód az Excel PDF- és webformátumokhoz" %}}
 
 ```cs
@@ -52,7 +52,7 @@ book.Save("output.md", new Aspose.Cells.MarkdownSaveOptions() { FormatStrategy =
 {{< blocks/products/pf/feature-page-options formats="XPS PDF" beforeslug="convert" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Konvertálja a JSON-t Excel-be, az Excelt pedig JSON-ba" %}}
-JSON-adatok importálhatók egy példányba [Cells](https://apireference.aspose.com/cells/net/aspose.cells/cells) osztály segítségével [JsonUtility.ImportData](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/importdata) további feldolgozáshoz vagy egyszerű konvertáláshoz a támogatott formátumok bármelyikére. Hasonlóképpen, [Munkalap](https://apireference.aspose.com/cells/net/aspose.cells/worksheet) az adatok JSON-ként exportálhatók az a [Hatótávolság](https://apireference.aspose.com/cells/net/aspose.cells/range) vagy sejtek és hívja a [JsonUtility.ExportRangeToJson](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/exportrangetojson) módszer.
+JSON-adatok importálhatók egy példányba [Cells](https://reference.aspose.com/cells/net/aspose.cells/cells) osztály segítségével [JsonUtility.ImportData](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/importdata) további feldolgozáshoz vagy egyszerű konvertáláshoz a támogatott formátumok bármelyikére. Hasonlóképpen, [Munkalap](https://reference.aspose.com/cells/net/aspose.cells/worksheet) az adatok JSON-ként exportálhatók az a [Hatótávolság](https://reference.aspose.com/cells/net/aspose.cells/range) vagy sejtek és hívja a [JsonUtility.ExportRangeToJson](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/exportrangetojson) módszer.
 {{% blocks/products/pf/feature-page-code h3="C# Kód a JSON-ból Excel-be való konvertáláshoz" %}}
 ```cs
 // hozzon létre egy munkafüzet objektumot
@@ -93,7 +93,7 @@ System.IO.File.WriteAllText("output.json", jsonData);
 {{< blocks/products/pf/feature-page-options pairs="json-to-xlsx json-to-ods json-to-csv json-to-dif json-to-html csv-to-json xls-to-json ods-to-json" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Konvertálja az Excel munkalapokat JPG, BMP, PNG és GIF formátumba" %}}
-Egy Excel-fájl minden munkalapja konvertálható különböző képformátumokba, amelyeket a [ImageOrPrintOptions.ImageType](https://apireference.aspose.com/cells/net/aspose.cells.rendering/imageorprintoptions/properties/imagetype) ingatlan. Az alapértelmezett érték az `ImageFormat.Bmp`.
+Egy Excel-fájl minden munkalapja konvertálható különböző képformátumokba, amelyeket a [ImageOrPrintOptions.ImageType](https://reference.aspose.com/cells/net/aspose.cells.rendering/imageorprintoptions/properties/imagetype) ingatlan. Az alapértelmezett érték az `ImageFormat.Bmp`.
 {{% blocks/products/pf/feature-page-code h3="C# Kód az Excel képpé konvertálásához" %}}
 ```cs
 // sablon táblázat betöltése
@@ -115,7 +115,7 @@ render.ToImage(0, "output.jpg");
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Az Excel konvertálása Word és PowerPoint formátumba" %}}
-Lehetőség van bármilyen táblázat betöltésére és Word DOCX és PowerPoint PPTX fájlokká konvertálására használat közben. [DocxSaveOptions](https://apireference.aspose.com/cells/net/aspose.cells/docxsaveoptions) & [PptxSaveOptions](https://apireference.aspose.com/cells/net/aspose.cells/pptxsaveoptions) osztályok alább bemutatott módon.
+Lehetőség van bármilyen táblázat betöltésére és Word DOCX és PowerPoint PPTX fájlokká konvertálására használat közben. [DocxSaveOptions](https://reference.aspose.com/cells/net/aspose.cells/docxsaveoptions) & [PptxSaveOptions](https://reference.aspose.com/cells/net/aspose.cells/pptxsaveoptions) osztályok alább bemutatott módon.
 {{% blocks/products/pf/feature-page-code h3="C# kód az Excel Word és PowerPoint konvertáláshoz" %}}
 ```cs
 // töltse be a sablonfájlt

@@ -11,7 +11,7 @@ description: Μετατρέψτε το Excel XLS, XLSX, ODS, CSV σε PDF, XPS, 
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Διαμετατροπή μορφών Microsoft Excel" %}}
-Η αλληλομετατροπή της μορφής υπολογιστικού φύλλου απαιτεί μόνο τη φόρτωση ενός υπολογιστικού φύλλου με μια παρουσία του [ intrusive_ptr<Aspose::Cells::IWorkbook>](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) δείκτη και αποθήκευση πίσω στην επιθυμητή μορφή χρησιμοποιώντας [Σώσει](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997) μέθοδος για [Τάξη IWorkbook](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook).
+Η αλληλομετατροπή της μορφής υπολογιστικού φύλλου απαιτεί μόνο τη φόρτωση ενός υπολογιστικού φύλλου με μια παρουσία του [ intrusive_ptr<Aspose::Cells::IWorkbook>](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) δείκτη και αποθήκευση πίσω στην επιθυμητή μορφή χρησιμοποιώντας [Σώσει](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997) μέθοδος για [Τάξη IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook).
 {{% blocks/products/pf/feature-page-code h3="C++ Παράδειγμα κώδικα για μετατροπή μορφής αρχείου Excel" %}}
 
 ```cs
@@ -30,7 +30,7 @@ wkb->Save(u"output_excel_format.xlsx", SaveFormat_Xlsx);
 
 
 {{% blocks/products/pf/feature-page-section h2="Μετατρέψτε τις μορφές του Excel σε PDF με τις ρυθμίσεις επιπέδου συμμόρφωσης" %}}
-Το C++ Excel Automation API υποστηρίζει τη μετατροπή Βιβλίων Εργασίας σε PDF, καθώς και υποστήριξη ρύθμισης επιπέδου συμμόρφωσης και ημερομηνίας δημιουργίας. Οι προγραμματιστές μπορούν να χρησιμοποιήσουν [Επιλογές IPdfSave](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_pdf_save_options) μαζί με [Aspose::Cells::Απόδοση](https://apireference.aspose.com/cells/cpp/namespace/aspose.cells.rendering) για να ορίσετε τη συμμόρφωση PDF. Για τη μετατροπή, API μέθοδος αποθήκευσης με PdfSaveOptions ως παράμετρο και καθορισμένη διαδρομή αρχείου εξόδου. 
+Το C++ Excel Automation API υποστηρίζει τη μετατροπή Βιβλίων Εργασίας σε PDF, καθώς και υποστήριξη ρύθμισης επιπέδου συμμόρφωσης και ημερομηνίας δημιουργίας. Οι προγραμματιστές μπορούν να χρησιμοποιήσουν [Επιλογές IPdfSave](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_pdf_save_options) μαζί με [Aspose::Cells::Απόδοση](https://reference.aspose.com/cells/cpp/namespace/aspose.cells.rendering) για να ορίσετε τη συμμόρφωση PDF. Για τη μετατροπή, API μέθοδος αποθήκευσης με PdfSaveOptions ως παράμετρο και καθορισμένη διαδρομή αρχείου εξόδου. 
 {{% blocks/products/pf/feature-page-code h3="C++ Δείγμα κώδικα για μετατροπή Excel σε PDF" %}}
 
 ```cs
@@ -58,7 +58,7 @@ wkb->Save(u"output-converted-excel-workbook-to.pdf", pdfSaveOptions);
 {{< blocks/products/pf/feature-page-options formats="PDF" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Αποθηκεύστε το Excel στις Εικόνες" %}}
-Το **C++ Excel Parser** έχει τη δυνατότητα εξαγωγής δεδομένων με τη μορφή εικόνων. Κάθε φύλλο εργασίας μπορεί να μετατραπεί σε διαφορετικές μορφές εικόνας, συμπεριλαμβανομένων BMP, JPEG, PNG και GIF, που ορίζονται από το [Rendering::IImageOrPrintOptions](https://apireference.aspose.com/cells/cpp/class/aspose.cells.rendering.i_image_or_print_options). Για οποιαδήποτε περίπτωση **Μετατροπή Excel σε Εικόνες**, επιλέξτε τη σχετική περίπτωση από συνδέσμους.
+Το **C++ Excel Parser** έχει τη δυνατότητα εξαγωγής δεδομένων με τη μορφή εικόνων. Κάθε φύλλο εργασίας μπορεί να μετατραπεί σε διαφορετικές μορφές εικόνας, συμπεριλαμβανομένων BMP, JPEG, PNG και GIF, που ορίζονται από το [Rendering::IImageOrPrintOptions](https://reference.aspose.com/cells/cpp/class/aspose.cells.rendering.i_image_or_print_options). Για οποιαδήποτε περίπτωση **Μετατροπή Excel σε Εικόνες**, επιλέξτε τη σχετική περίπτωση από συνδέσμους.
 {{% blocks/products/pf/feature-page-code h3="C++ Κώδικας για Μετατροπή Excel σε Εικόνα" %}}
 
 ```cs

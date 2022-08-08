@@ -11,7 +11,7 @@ Untuk aplikasi atau solusi **Konverter Excel**, Java Pustaka Excel mempercepat p
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Inter-konversi Format Microsoft Excel" %}}
-Antar-konversi format spreadsheet hanya memerlukan pemuatan spreadsheet dengan instance [buku kerja](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) dan menyimpan kembali dalam format yang diinginkan sambil memilih nilai yang sesuai dari [SimpanFormat](https://apireference.aspose.com/cells/java/com.aspose.cells/SaveFormat) pencacahan.
+Antar-konversi format spreadsheet hanya memerlukan pemuatan spreadsheet dengan instance [buku kerja](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) dan menyimpan kembali dalam format yang diinginkan sambil memilih nilai yang sesuai dari [SimpanFormat](https://reference.aspose.com/cells/java/com.aspose.cells/SaveFormat) pencacahan.
 {{% blocks/products/pf/feature-page-code h3="Java Contoh Kode untuk Konversi Format File Excel" %}}
 
 ```cs
@@ -30,7 +30,7 @@ wkb.save("fods-output.fods", SaveFormat.FODS);
 
 
 {{% blocks/products/pf/feature-page-section h2="Konversi Excel ke PDF, XPS, HTML & MD" %}}
-Kelas khusus tersedia untuk mengontrol proses konversi untuk format output tertentu seperti: [Opsi Simpan Pdf](https://apireference.aspose.com/cells/java/com.aspose.cells/PdfSaveOptions) untuk mengonversi file Excel menjadi PDF, [XpsSaveOptions](https://apireference.aspose.com/cells/java/com.aspose.cells/XpsSaveOptions) untuk mengekspor Excel sebagai XPS, [HtmlSimpanOpsi](https://apireference.aspose.com/cells/java/com.aspose.cells/HtmlSaveOptions) untuk membuat Excel sebagai HTML dan [Penurunan HargaSimpanOpsi](https://apireference.aspose.com/cells/java/com.aspose.cells/MarkdownSaveOptions) untuk konversi Excel ke penurunan harga. 
+Kelas khusus tersedia untuk mengontrol proses konversi untuk format output tertentu seperti: [Opsi Simpan Pdf](https://reference.aspose.com/cells/java/com.aspose.cells/PdfSaveOptions) untuk mengonversi file Excel menjadi PDF, [XpsSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/XpsSaveOptions) untuk mengekspor Excel sebagai XPS, [HtmlSimpanOpsi](https://reference.aspose.com/cells/java/com.aspose.cells/HtmlSaveOptions) untuk membuat Excel sebagai HTML dan [Penurunan HargaSimpanOpsi](https://reference.aspose.com/cells/java/com.aspose.cells/MarkdownSaveOptions) untuk konversi Excel ke penurunan harga. 
 {{% blocks/products/pf/feature-page-code h3="Java Contoh Kode untuk Excel ke PDF dan Format Web" %}}
 
 ```cs
@@ -59,7 +59,7 @@ bk.save("output.md", new MarkdownSaveOptions());
 {{< blocks/products/pf/feature-page-options formats="XPS PDF" beforeslug="convert" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Konversi JSON ke Excel dan Excel ke JSON" %}}
-Data JSON dapat diimpor ke instance kelas Workbook dengan bantuan [JSONUtility.importData](https://apireference.aspose.com/cells/java/com.aspose.cells/jsonutility#importData) untuk pemrosesan lebih lanjut atau konversi sederhana ke salah satu format yang didukung. Demikian pula, data Lembar Kerja dapat diekspor sebagai JSON dengan membuat a [Jangkauan](https://apireference.aspose.com/cells/java/com.aspose.cells/range) atau sel dan memanggil [exportRangeToJson](https://apireference.aspose.com/cells/java/com.aspose.cells/jsonutility) metode.
+Data JSON dapat diimpor ke instance kelas Workbook dengan bantuan [JSONUtility.importData](https://reference.aspose.com/cells/java/com.aspose.cells/jsonutility#importData) untuk pemrosesan lebih lanjut atau konversi sederhana ke salah satu format yang didukung. Demikian pula, data Lembar Kerja dapat diekspor sebagai JSON dengan membuat a [Jangkauan](https://reference.aspose.com/cells/java/com.aspose.cells/range) atau sel dan memanggil [exportRangeToJson](https://reference.aspose.com/cells/java/com.aspose.cells/jsonutility) metode.
 {{% blocks/products/pf/feature-page-code h3="Java Kode untuk Konversi JSON ke Excel" %}}
 ```cs
 Workbook workbook = new Workbook(path + "source-file.xlsx");
@@ -142,7 +142,7 @@ for (int j = 0; j < sr.getPageCount(); j++) {
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Konversi Microsoft Excel ke Word dan PowerPoint" %}}
-Dimungkinkan untuk memuat spreadsheet apa pun dan mengonversinya menjadi file Word DOCX & PowerPoint PPTX saat menggunakan [DocxSaveOptions](https://apireference.aspose.com/cells/java/com.aspose.cells/DocxSaveOptions) & [PptxSimpanOpsi](https://apireference.aspose.com/cells/java/com.aspose.cells/PptxSaveOptions) kelas seperti yang ditunjukkan di bawah ini.
+Dimungkinkan untuk memuat spreadsheet apa pun dan mengonversinya menjadi file Word DOCX & PowerPoint PPTX saat menggunakan [DocxSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/DocxSaveOptions) & [PptxSimpanOpsi](https://reference.aspose.com/cells/java/com.aspose.cells/PptxSaveOptions) kelas seperti yang ditunjukkan di bawah ini.
 {{% blocks/products/pf/feature-page-code h3="Java Kode untuk Konversi Excel ke Word & PowerPoint" %}}
 ```cs
 // memuat file template

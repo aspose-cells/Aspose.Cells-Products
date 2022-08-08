@@ -10,12 +10,12 @@ description: C# mã nguồn giải thích cách chia tệp Microsoft Excel thàn
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Chia tài liệu Excel thành nhiều tệp" %}}
-Cách đơn giản nhất để chia trang tính tệp Excel một cách khôn ngoan là, Truy cập tất cả các trang tính qua [Trang tính](https://apireference.aspose.com/cells/net/aspose.cells/workbook/properties/worksheets), Lặp lại từng trang tính và gọi [Sao chép](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy) phương pháp. Cuối cùng lưu nó vào một đường dẫn được chỉ định. 
+Cách đơn giản nhất để chia trang tính tệp Excel một cách khôn ngoan là, Truy cập tất cả các trang tính qua [Trang tính](https://reference.aspose.com/cells/net/aspose.cells/workbook/properties/worksheets), Lặp lại từng trang tính và gọi [Sao chép](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy) phương pháp. Cuối cùng lưu nó vào một đường dẫn được chỉ định. 
 
-+ Tải tệp Excel với đường dẫn đầy đủ bằng cách sử dụng [Lớp sổ làm việc](https://apireference.aspose.com/cells/net/aspose.cells/workbook).
++ Tải tệp Excel với đường dẫn đầy đủ bằng cách sử dụng [Lớp sổ làm việc](https://reference.aspose.com/cells/net/aspose.cells/workbook).
 + Lặp đi lặp lại từng trang tính
 + Tạo một đối tượng lớp Workbook mới
-+ Sao chép trang tính qua [Sao chép phương pháp](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
++ Sao chép trang tính qua [Sao chép phương pháp](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
 + Gọi phương thức Save () và chuyển tên tệp (đường dẫn đầy đủ) có SaveFormat phù hợp.
 
 {{% blocks/products/pf/feature-page-code h3="C# Mã để tách các tệp Excel" %}}
@@ -29,7 +29,7 @@ Cách đơn giản nhất để chia trang tính tệp Excel một cách khôn n
 
 {{% blocks/products/pf/feature-page-section h2="Chia bảng tính Excel thành các ngăn" %}}
 
-Để tách cửa sổ trang tính thành các ngăn, API cung cấp [Phương pháp tách](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/split) của lớp trang tính, cung cấp chế độ xem được chia nhỏ của trang tính. Để xóa chế độ xem bị chia nhỏ API cung cấp [Phương thức RemoveSplit](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/removesplit). Cuối cùng lưu nó vào một đường dẫn được chỉ định. 
+Để tách cửa sổ trang tính thành các ngăn, API cung cấp [Phương pháp tách](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/split) của lớp trang tính, cung cấp chế độ xem được chia nhỏ của trang tính. Để xóa chế độ xem bị chia nhỏ API cung cấp [Phương thức RemoveSplit](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/removesplit). Cuối cùng lưu nó vào một đường dẫn được chỉ định. 
 
 {{% blocks/products/pf/feature-page-code h3="C# Mã để Tách Cửa sổ Trang tính Excel" %}}
 

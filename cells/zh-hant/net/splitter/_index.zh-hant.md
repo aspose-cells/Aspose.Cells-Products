@@ -10,12 +10,12 @@ description: C# 源代碼，說明如何在 Visual C#.NET 應用程序中將 Mic
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="將 Excel 文檔拆分為多個文件" %}}
-明智地拆分 Excel 文件的最簡單方法是通過以下方式訪問所有工作表 [工作表](https://apireference.aspose.com/cells/net/aspose.cells/workbook/properties/worksheets), 遍歷每個工作表並調用 [複製](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy) 方法。最後保存到指定路徑。 
+明智地拆分 Excel 文件的最簡單方法是通過以下方式訪問所有工作表 [工作表](https://reference.aspose.com/cells/net/aspose.cells/workbook/properties/worksheets), 遍歷每個工作表並調用 [複製](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy) 方法。最後保存到指定路徑。 
 
-+ 使用完整路徑加載 Excel 文件 [工作簿類](https://apireference.aspose.com/cells/net/aspose.cells/workbook).
++ 使用完整路徑加載 Excel 文件 [工作簿類](https://reference.aspose.com/cells/net/aspose.cells/workbook).
 +遍歷每張紙
 + 創建一個新的工作簿類對象
-+通過複製工作表 [複製方法](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
++通過複製工作表 [複製方法](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
 + 調用 Save() 方法並傳遞具有相關 SaveFormat 的文件名（完整路徑）。
 
 {{% blocks/products/pf/feature-page-code h3="C# 拆分 Excel 文件的代碼" %}}
@@ -29,7 +29,7 @@ description: C# 源代碼，說明如何在 Visual C#.NET 應用程序中將 Mic
 
 {{% blocks/products/pf/feature-page-section h2="將 Excel 工作表拆分為窗格" %}}
 
-要將工作表窗口拆分為多個窗格，API 提供 [拆分方法](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/split) 工作表類，提供工作表的拆分視圖。要刪除拆分視圖 API 提供 [RemoveSplit 方法](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/removesplit).最後保存到指定路徑。 
+要將工作表窗口拆分為多個窗格，API 提供 [拆分方法](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/split) 工作表類，提供工作表的拆分視圖。要刪除拆分視圖 API 提供 [RemoveSplit 方法](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/removesplit).最後保存到指定路徑。 
 
 {{% blocks/products/pf/feature-page-code h3="C# 拆分 Excel 工作表窗口的代碼" %}}
 

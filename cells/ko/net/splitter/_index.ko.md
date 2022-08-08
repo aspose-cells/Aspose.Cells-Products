@@ -10,12 +10,12 @@ description: Visual C#.NET 애플리케이션에서 Microsoft Excel 파일을 �
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Excel 문서를 여러 파일로 분할" %}}
-Excel 파일을 시트로 분할하는 가장 간단한 방법은 다음을 통해 모든 시트에 액세스하는 것입니다. [워크시트](https://apireference.aspose.com/cells/net/aspose.cells/workbook/properties/worksheets), 각 시트를 반복하고 호출 [복사](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy) 방법. 마지막으로 지정된 경로에 저장합니다. 
+Excel 파일을 시트로 분할하는 가장 간단한 방법은 다음을 통해 모든 시트에 액세스하는 것입니다. [워크시트](https://reference.aspose.com/cells/net/aspose.cells/workbook/properties/worksheets), 각 시트를 반복하고 호출 [복사](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy) 방법. 마지막으로 지정된 경로에 저장합니다. 
 
-+ 다음을 사용하여 전체 경로로 Excel 파일 로드 [워크북 수업](https://apireference.aspose.com/cells/net/aspose.cells/workbook).
++ 다음을 사용하여 전체 경로로 Excel 파일 로드 [워크북 수업](https://reference.aspose.com/cells/net/aspose.cells/workbook).
 + 각 시트를 통해 반복
 + 새 통합 문서 클래스 개체 만들기
-+ 다음을 통해 시트 복사 [복사 방법](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
++ 다음을 통해 시트 복사 [복사 방법](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
 + Save() 메서드를 호출하고 관련 SaveFormat이 있는 파일 이름(전체 경로)을 전달합니다.
 
 {{% blocks/products/pf/feature-page-code h3="C# Excel 파일을 분할하는 코드" %}}
@@ -29,7 +29,7 @@ Excel 파일을 시트로 분할하는 가장 간단한 방법은 다음을 통�
 
 {{% blocks/products/pf/feature-page-section h2="Excel 워크시트를 창으로 분할" %}}
 
-워크시트 창을 창으로 분할하기 위해 API는 다음을 제공합니다. [분할 방법](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/split) 워크시트의 분할 보기를 제공하는 워크시트 클래스의 분할 보기를 제거하려면 API이(가) 제공합니다. [RemoveSplit 메서드](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/removesplit). 마지막으로 지정된 경로에 저장합니다. 
+워크시트 창을 창으로 분할하기 위해 API는 다음을 제공합니다. [분할 방법](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/split) 워크시트의 분할 보기를 제공하는 워크시트 클래스의 분할 보기를 제거하려면 API이(가) 제공합니다. [RemoveSplit 메서드](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/removesplit). 마지막으로 지정된 경로에 저장합니다. 
 
 {{% blocks/products/pf/feature-page-code h3="C# Excel 워크시트 창을 분할하는 코드" %}}
 

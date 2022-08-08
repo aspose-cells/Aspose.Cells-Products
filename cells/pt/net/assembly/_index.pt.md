@@ -11,7 +11,7 @@ description: Gere planilhas do Microsoft Excel a partir de uma planilha de model
 
 {{% blocks/products/pf/feature-page-section h2="Criar relatórios com base no modelo de Excel pré-projetado" %}}
 
-Para automatizar o processo de criação de arquivos de mesmo padrão é fácil usando .NET Assembly API. Existem diferentes maneiras de [importar dados](https://docs.aspose.com/cells/net/import-data-into-worksheet/#importing-data-from-json) e gerar arquivos Excel. API fornece um [Classe de designer da pasta de trabalho](https://apireference.aspose.com/cells/net/aspose.cells/workbookdesigner) para representar uma planilha de designer. Crie seu objeto e use-o para abrir o arquivo de modelo. Defina a fonte de dados, que pode ser DataTable, Array, arquivo Json etc. Processe-o para importar dados e salve o arquivo com os dados no formato necessário. Os programadores podem reunir dados em relatórios em outros formatos de arquivo a partir dos links listados abaixo.
+Para automatizar o processo de criação de arquivos de mesmo padrão é fácil usando .NET Assembly API. Existem diferentes maneiras de [importar dados](https://docs.aspose.com/cells/net/import-data-into-worksheet/#importing-data-from-json) e gerar arquivos Excel. API fornece um [Classe de designer da pasta de trabalho](https://reference.aspose.com/cells/net/aspose.cells/workbookdesigner) para representar uma planilha de designer. Crie seu objeto e use-o para abrir o arquivo de modelo. Defina a fonte de dados, que pode ser DataTable, Array, arquivo Json etc. Processe-o para importar dados e salve o arquivo com os dados no formato necessário. Os programadores podem reunir dados em relatórios em outros formatos de arquivo a partir dos links listados abaixo.
 
 
 

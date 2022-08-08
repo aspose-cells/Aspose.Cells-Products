@@ -41,7 +41,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Muat file XLSB Excel menggunakan objek kelas IWorkbook.1. Pilih lembar yang relevan1. Tambahkan komentar menggunakan metode Tambah1. Atur catatan komentar menggunakan metode SetNote.1. Simpan buku kerja menggunakan [Menyimpan](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) metode
+1. Muat file XLSB Excel menggunakan objek kelas IWorkbook.1. Pilih lembar yang relevan1. Tambahkan komentar menggunakan metode Tambah1. Atur catatan komentar menggunakan metode SetNote.1. Simpan buku kerja menggunakan [Menyimpan](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) metode
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

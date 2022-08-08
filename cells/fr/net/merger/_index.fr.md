@@ -10,7 +10,7 @@ description: Concaténez des fichiers de feuille de calcul Excel et OpenOffice a
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Combinez des fichiers Excel avec des images et des graphiques" %}}
-Le moyen le plus simple de combiner 2 fichiers Excel contenant des images et des graphiques consiste à appeler le [Classeur. Combiner](https://apireference.aspose.com/cells/net/aspose.cells/workbook/methods/combine) méthode. Il permet de fusionner des fichiers Excel de type similaire dans une seule feuille de calcul.
+Le moyen le plus simple de combiner 2 fichiers Excel contenant des images et des graphiques consiste à appeler le [Classeur. Combiner](https://reference.aspose.com/cells/net/aspose.cells/workbook/methods/combine) méthode. Il permet de fusionner des fichiers Excel de type similaire dans une seule feuille de calcul.
 {{% blocks/products/pf/feature-page-code h3="C# Code pour combiner des fichiers Excel" %}}
 
 {{< gist "aspose-com-gists" "d7c757e7471bd38006ac0d35d221b2e2" "combine-two-workbooks.cs" >}}
@@ -19,7 +19,7 @@ Le moyen le plus simple de combiner 2 fichiers Excel contenant des images et des
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="Fusionner plusieurs fichiers Excel" %}}
-[CellsHelper.MergeFiles](https://apireference.aspose.com/cells/net/aspose.cells/cellshelper/methods/mergefiles) prend en charge la fusion des données, du style et des formules d'un fichier Excel dans une nouvelle feuille de calcul du même format. C'est un moyen efficace de fusionner plusieurs fichiers tout en utilisant la mise en cache. 
+[CellsHelper.MergeFiles](https://reference.aspose.com/cells/net/aspose.cells/cellshelper/methods/mergefiles) prend en charge la fusion des données, du style et des formules d'un fichier Excel dans une nouvelle feuille de calcul du même format. C'est un moyen efficace de fusionner plusieurs fichiers tout en utilisant la mise en cache. 
 {{% blocks/products/pf/feature-page-code h3="C# Code pour fusionner plusieurs fichiers Excel" %}}
 
 {{< gist "aspose-com-gists" "d7c757e7471bd38006ac0d35d221b2e2" "merge-several-excel-files.cs" >}}
@@ -28,7 +28,7 @@ Le moyen le plus simple de combiner 2 fichiers Excel contenant des images et des
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="Fusionner des fichiers Excel en copiant des feuilles de calcul" %}}
-[Feuille de calcul.Copier](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy/index) peut être utilisé pour copier des données et la mise en forme d'une feuille de calcul source vers une autre feuille de calcul dans ou entre des classeurs. La méthode prend l'objet feuille de calcul source comme paramètre.
+[Feuille de calcul.Copier](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy/index) peut être utilisé pour copier des données et la mise en forme d'une feuille de calcul source vers une autre feuille de calcul dans ou entre des classeurs. La méthode prend l'objet feuille de calcul source comme paramètre.
 {{% blocks/products/pf/feature-page-code h3="C# Code pour copier des feuilles de calcul dans des fichiers Excel" %}}
 
 {{< gist "aspose-com-gists" "d7c757e7471bd38006ac0d35d221b2e2" "copy-worksheets-across-excel-files.cs" >}}

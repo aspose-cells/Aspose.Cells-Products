@@ -41,7 +41,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. 使用 IWorkbook 类对象加载 ODS Excel 文件。1. 选择相关工作表1. 使用 Add 方法添加评论1. 使用 SetNote 方法设置注释的注释。1. 使用保存工作簿 [节省](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) 方法
+1. 使用 IWorkbook 类对象加载 ODS Excel 文件。1. 选择相关工作表1. 使用 Add 方法添加评论1. 使用 SetNote 方法设置注释的注释。1. 使用保存工作簿 [节省](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) 方法
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="系统要求" %}}

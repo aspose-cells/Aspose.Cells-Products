@@ -11,7 +11,7 @@ Pro jakoukoli aplikaci nebo řešení pro převod tabulek **C++ knihovna Excel**
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Vzájemná konverze formátů Microsoft Excel" %}}
-Vzájemná konverze formátu tabulky vyžaduje pouze načtení tabulky s instancí [ intrusive_ptr<Aspose::Cells::IWorkbook>](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) ukazatel a uložení zpět v požadovaném formátu pomocí [Uložit](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997) metoda [Třída sešitu](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook).
+Vzájemná konverze formátu tabulky vyžaduje pouze načtení tabulky s instancí [ intrusive_ptr<Aspose::Cells::IWorkbook>](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) ukazatel a uložení zpět v požadovaném formátu pomocí [Uložit](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997) metoda [Třída sešitu](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook).
 {{% blocks/products/pf/feature-page-code h3="C++ Příklad kódu pro převod formátu souboru aplikace Excel" %}}
 
 ```cs
@@ -30,7 +30,7 @@ wkb->Save(u"output_excel_format.xlsx", SaveFormat_Xlsx);
 
 
 {{% blocks/products/pf/feature-page-section h2="Převeďte formáty Excelu do PDF s nastavením úrovně shody" %}}
-C++Excel AutomationAPI podporuje převod sešitů do PDF a také podporuje nastavení úrovně souladu a data vytvoření. Vývojáři mohou použít [Možnosti IPdfSave](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_pdf_save_options) spolu s [Aspose::Cells::Vykreslování](https://apireference.aspose.com/cells/cpp/namespace/aspose.cells.rendering) pro nastavení souladu s PDF. Pro převod použijte API metodu uložení s parametrem PdfSaveOptions a zadanou cestu k výstupnímu souboru. 
+C++Excel AutomationAPI podporuje převod sešitů do PDF a také podporuje nastavení úrovně souladu a data vytvoření. Vývojáři mohou použít [Možnosti IPdfSave](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_pdf_save_options) spolu s [Aspose::Cells::Vykreslování](https://reference.aspose.com/cells/cpp/namespace/aspose.cells.rendering) pro nastavení souladu s PDF. Pro převod použijte API metodu uložení s parametrem PdfSaveOptions a zadanou cestu k výstupnímu souboru. 
 {{% blocks/products/pf/feature-page-code h3="C++ Ukázkový kód pro převod Excelu do PDF" %}}
 
 ```cs
@@ -58,7 +58,7 @@ wkb->Save(u"output-converted-excel-workbook-to.pdf", pdfSaveOptions);
 {{< blocks/products/pf/feature-page-options formats="PDF" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Uložit Excel do obrázků" %}}
-**C++ Excel Parser** má schopnost exportovat data ve formě obrázků. Každý list lze převést do různých obrazových formátů, včetně BMP, JPEG, PNG a GIF, podle nastavení [Vykreslování::IImageOrPrintOptions](https://apireference.aspose.com/cells/cpp/class/aspose.cells.rendering.i_image_or_print_options). Pro jakýkoli případ **Převést Excel na obrázky** vyberte příslušný případ z odkazů.
+**C++ Excel Parser** má schopnost exportovat data ve formě obrázků. Každý list lze převést do různých obrazových formátů, včetně BMP, JPEG, PNG a GIF, podle nastavení [Vykreslování::IImageOrPrintOptions](https://reference.aspose.com/cells/cpp/class/aspose.cells.rendering.i_image_or_print_options). Pro jakýkoli případ **Převést Excel na obrázky** vyberte příslušný případ z odkazů.
 {{% blocks/products/pf/feature-page-code h3="C++ Kód pro převod Excelu na obrázek" %}}
 
 ```cs

@@ -11,7 +11,7 @@ description: Konversi Excel XLS, XLSX, ODS, CSV ke PDF, XPS, HTML, JPEG, HTML, d
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Konversi Excel ke XLSX, ODS, SXC & FODS" %}}
-Antar-konversi format spreadsheet hanya memerlukan pemuatan spreadsheet dengan instance [buku kerja](https://apireference.aspose.com/cells/net/aspose.cells/workbook) dan menyimpan kembali dalam format yang diinginkan sambil memilih nilai yang sesuai dari [SimpanFormat](https://apireference.aspose.com/cells/net/aspose.cells/saveformat) pencacahan.
+Antar-konversi format spreadsheet hanya memerlukan pemuatan spreadsheet dengan instance [buku kerja](https://reference.aspose.com/cells/net/aspose.cells/workbook) dan menyimpan kembali dalam format yang diinginkan sambil memilih nilai yang sesuai dari [SimpanFormat](https://reference.aspose.com/cells/net/aspose.cells/saveformat) pencacahan.
 {{% blocks/products/pf/feature-page-code h3="C# Kode untuk Konversi Format File Excel" %}}
 
 ```cs
@@ -30,7 +30,7 @@ workbook.Save("output.fods", Aspose.Cells.SaveFormat.Fods);
 
 
 {{% blocks/products/pf/feature-page-section h2="Konversi Excel ke PDF, XPS, HTML & MD" %}}
-Kelas khusus tersedia untuk mengontrol proses konversi untuk format output tertentu seperti: [Opsi Simpan Pdf](https://apireference.aspose.com/cells/net/aspose.cells/pdfsaveoptions) untuk mengekspor file Excel sebagai PDF, [XpsSaveOptions](https://apireference.aspose.com/cells/net/aspose.cells/xpssaveoptions) untuk konversi Excel ke XPS, [HtmlSimpanOpsi](https://apireference.aspose.com/cells/net/aspose.cells/htmlsaveoptions) untuk membuat Excel sebagai HTML dan [Penurunan HargaSimpanOpsi](https://apireference.aspose.com/cells/net/aspose.cells/markdownsaveoptions) untuk konversi Excel ke penurunan harga. 
+Kelas khusus tersedia untuk mengontrol proses konversi untuk format output tertentu seperti: [Opsi Simpan Pdf](https://reference.aspose.com/cells/net/aspose.cells/pdfsaveoptions) untuk mengekspor file Excel sebagai PDF, [XpsSaveOptions](https://reference.aspose.com/cells/net/aspose.cells/xpssaveoptions) untuk konversi Excel ke XPS, [HtmlSimpanOpsi](https://reference.aspose.com/cells/net/aspose.cells/htmlsaveoptions) untuk membuat Excel sebagai HTML dan [Penurunan HargaSimpanOpsi](https://reference.aspose.com/cells/net/aspose.cells/markdownsaveoptions) untuk konversi Excel ke penurunan harga. 
 {{% blocks/products/pf/feature-page-code h3="C# Kode untuk Excel ke PDF dan Format Web" %}}
 
 ```cs
@@ -52,7 +52,7 @@ book.Save("output.md", new Aspose.Cells.MarkdownSaveOptions() { FormatStrategy =
 {{< blocks/products/pf/feature-page-options formats="XPS PDF" beforeslug="convert" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Konversi JSON ke Excel & Excel ke JSON" %}}
-Data JSON dapat diimpor ke instance dari [Cells](https://apireference.aspose.com/cells/net/aspose.cells/cells) kelas dengan bantuan [JsonUtility.ImportData](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/importdata) untuk pemrosesan lebih lanjut atau konversi sederhana ke salah satu format yang didukung. Demikian pula, [lembar kerja](https://apireference.aspose.com/cells/net/aspose.cells/worksheet) data dapat diekspor sebagai JSON dengan membuat a [Jangkauan](https://apireference.aspose.com/cells/net/aspose.cells/range) atau sel dan memanggil [JsonUtility.ExportRangeToJson](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/exportrangetojson) metode.
+Data JSON dapat diimpor ke instance dari [Cells](https://reference.aspose.com/cells/net/aspose.cells/cells) kelas dengan bantuan [JsonUtility.ImportData](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/importdata) untuk pemrosesan lebih lanjut atau konversi sederhana ke salah satu format yang didukung. Demikian pula, [lembar kerja](https://reference.aspose.com/cells/net/aspose.cells/worksheet) data dapat diekspor sebagai JSON dengan membuat a [Jangkauan](https://reference.aspose.com/cells/net/aspose.cells/range) atau sel dan memanggil [JsonUtility.ExportRangeToJson](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/exportrangetojson) metode.
 {{% blocks/products/pf/feature-page-code h3="C# Kode untuk Konversi JSON ke Excel" %}}
 ```cs
 // membuat objek Buku Kerja
@@ -93,7 +93,7 @@ System.IO.File.WriteAllText("output.json", jsonData);
 {{< blocks/products/pf/feature-page-options pairs="json-to-xlsx json-to-ods json-to-csv json-to-dif json-to-html csv-to-json xls-to-json ods-to-json" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Konversikan Lembar Kerja Excel ke JPG, BMP, PNG & GIF" %}}
-Setiap lembar kerja dari file Excel dapat dikonversi ke format gambar yang berbeda yang diatur oleh: [ImageOrPrintOptions.ImageType](https://apireference.aspose.com/cells/net/aspose.cells.rendering/imageorprintoptions/properties/imagetype) Properti. Nilai defaultnya adalah `ImageFormat.Bmp`.
+Setiap lembar kerja dari file Excel dapat dikonversi ke format gambar yang berbeda yang diatur oleh: [ImageOrPrintOptions.ImageType](https://reference.aspose.com/cells/net/aspose.cells.rendering/imageorprintoptions/properties/imagetype) Properti. Nilai defaultnya adalah `ImageFormat.Bmp`.
 {{% blocks/products/pf/feature-page-code h3="C# Kode untuk Konversi Excel ke Gambar" %}}
 ```cs
 // memuat lembar kerja template
@@ -115,7 +115,7 @@ render.ToImage(0, "output.jpg");
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Konversi Excel ke Word & PowerPoint" %}}
-Dimungkinkan untuk memuat spreadsheet apa pun dan mengonversinya menjadi file Word DOCX & PowerPoint PPTX saat menggunakan [DocxSaveOptions](https://apireference.aspose.com/cells/net/aspose.cells/docxsaveoptions) & [PptxSimpanOpsi](https://apireference.aspose.com/cells/net/aspose.cells/pptxsaveoptions) kelas seperti yang ditunjukkan di bawah ini.
+Dimungkinkan untuk memuat spreadsheet apa pun dan mengonversinya menjadi file Word DOCX & PowerPoint PPTX saat menggunakan [DocxSaveOptions](https://reference.aspose.com/cells/net/aspose.cells/docxsaveoptions) & [PptxSimpanOpsi](https://reference.aspose.com/cells/net/aspose.cells/pptxsaveoptions) kelas seperti yang ditunjukkan di bawah ini.
 {{% blocks/products/pf/feature-page-code h3="C# kode untuk Konversi Excel ke Word & PowerPoint" %}}
 ```cs
 // memuat file template

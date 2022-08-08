@@ -10,7 +10,7 @@ description: Fusionnez des fichiers Excel à l'aide de Java en plusieurs feuille
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Combinez des fichiers Excel avec des images et des graphiques" %}}
-Le moyen le plus simple de combiner deux fichiers Excel contenant des images et des graphiques consiste à appeler le [Classeur.combine](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#combine(com.aspose.cells.Workbook)) méthode. Il permet de fusionner des fichiers Excel de type similaire dans une seule feuille de calcul.
+Le moyen le plus simple de combiner deux fichiers Excel contenant des images et des graphiques consiste à appeler le [Classeur.combine](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#combine(com.aspose.cells.Workbook)) méthode. Il permet de fusionner des fichiers Excel de type similaire dans une seule feuille de calcul.
 {{% blocks/products/pf/feature-page-code h3="Java Code pour combiner des fichiers Excel" %}}
 
 ```cs
@@ -29,7 +29,7 @@ book1.save("combined.xlsx");
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="Fusionner plusieurs fichiers Excel" %}}
-[CellsHelper.mergeFiles](https://apireference.aspose.com/cells/java/com.aspose.cells/cellshelper#mergeFiles) prend en charge la fusion des données, du style et des formules d'un fichier Excel dans une nouvelle feuille de calcul du même format. C'est un moyen efficace de fusionner plusieurs fichiers tout en utilisant la mise en cache. 
+[CellsHelper.mergeFiles](https://reference.aspose.com/cells/java/com.aspose.cells/cellshelper#mergeFiles) prend en charge la fusion des données, du style et des formules d'un fichier Excel dans une nouvelle feuille de calcul du même format. C'est un moyen efficace de fusionner plusieurs fichiers tout en utilisant la mise en cache. 
 {{% blocks/products/pf/feature-page-code h3="Java Code pour fusionner plusieurs fichiers Excel" %}}
 
 ```cs
@@ -47,7 +47,7 @@ CellsHelper.mergeFiles(files, "cache", "merged.xls");
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="Fusionner des fichiers Excel en copiant des feuilles de calcul" %}}
-[Feuille de travail.copie](https://apireference.aspose.com/cells/java/com.aspose.cells/worksheet#copy(com.aspose.cells.Worksheet)peut être utilisé pour copier des données et la mise en forme d'une feuille de calcul source vers une autre feuille de calcul dans ou entre des classeurs. La méthode prend l'objet feuille de calcul source comme paramètre.
+[Feuille de travail.copie](https://reference.aspose.com/cells/java/com.aspose.cells/worksheet#copy(com.aspose.cells.Worksheet)peut être utilisé pour copier des données et la mise en forme d'une feuille de calcul source vers une autre feuille de calcul dans ou entre des classeurs. La méthode prend l'objet feuille de calcul source comme paramètre.
 {{% blocks/products/pf/feature-page-code h3="Java Code pour copier des feuilles de calcul entre des classeurs" %}}
 
 ```cs

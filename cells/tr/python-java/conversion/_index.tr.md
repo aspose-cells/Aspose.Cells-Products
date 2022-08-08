@@ -11,7 +11,7 @@ Python Excel Kitaplığı, XLS, XLSX, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Excel\'i XLSX, ODS, SXC ve FODS\'ye dönüştürün" %}}
-E-tablo formatının inter-dönüşümü, yalnızca bir e-tablonun örneğinin bulunduğu bir e-tablonun yüklenmesini gerektirir. [Çalışma kitabı](https://apireference.aspose.com/cells/python/asposecells.api/Workbook) ve uygun değeri seçerken istenen formatta geri kaydetme [Kaydet Formatı](https://apireference.aspose.com/cells/python/asposecells.api/saveformat) numaralandırma.
+E-tablo formatının inter-dönüşümü, yalnızca bir e-tablonun örneğinin bulunduğu bir e-tablonun yüklenmesini gerektirir. [Çalışma kitabı](https://reference.aspose.com/cells/python/asposecells.api/Workbook) ve uygun değeri seçerken istenen formatta geri kaydetme [Kaydet Formatı](https://reference.aspose.com/cells/python/asposecells.api/saveformat) numaralandırma.
 {{% blocks/products/pf/feature-page-code h3="Python Excel Dosya Biçimi Dönüştürme Kodu" %}}
 
 ```cs
@@ -31,7 +31,7 @@ workbook.save("output.fods", SaveFormat.FODS);
 
 
 {{% blocks/products/pf/feature-page-section h2="Excel\'i PDF, XPS, HTML ve MD\'ye dönüştürün" %}}
-Aşağıdakiler gibi belirli çıktı biçimleri için dönüştürme sürecini kontrol etmek için özel sınıflar mevcuttur. [PdfSaveSeçenekleri](https://apireference.aspose.com/cells/python/asposecells.api/PdfSaveOptions) Excel dosyalarını PDF olarak dışa aktarmak için, [XpsSaveOptions](https://apireference.aspose.com/cells/python/asposecells.api/XpsSaveOptions) Excel'den XPS'ye dönüştürme için, [HtmlSaveOptions](https://apireference.aspose.com/cells/python/asposecells.api/HtmlSaveOptions) Excel'i HTML olarak işlemek ve [MarkdownSaveOptions](https://apireference.aspose.com/cells/python/asposecells.api/MarkdownSaveOptions) Excel'den Markdown'a dönüştürme. 
+Aşağıdakiler gibi belirli çıktı biçimleri için dönüştürme sürecini kontrol etmek için özel sınıflar mevcuttur. [PdfSaveSeçenekleri](https://reference.aspose.com/cells/python/asposecells.api/PdfSaveOptions) Excel dosyalarını PDF olarak dışa aktarmak için, [XpsSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/XpsSaveOptions) Excel'den XPS'ye dönüştürme için, [HtmlSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/HtmlSaveOptions) Excel'i HTML olarak işlemek ve [MarkdownSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/MarkdownSaveOptions) Excel'den Markdown'a dönüştürme. 
 {{% blocks/products/pf/feature-page-code h3="Python Excel\'den PDF\'ye ve Web Formatları için Kod" %}}
 
 ```cs
@@ -90,7 +90,7 @@ workbook.save("Data.json")
 {{< blocks/products/pf/feature-page-options pairs="json-to-xlsx json-to-ods json-to-csv json-to-dif json-to-html csv-to-json xls-to-json ods-to-json" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Excel Çalışma Sayfalarını JPG, BMP, PNG ve GIF\'e Dönüştürün" %}}
-Bir Excel dosyasının her çalışma sayfası farklı görüntü biçimlerine dönüştürülebilir, çağrı [ResimVeyaYazdırSeçenekleri](https://apireference.aspose.com/cells/python/asposecells.api/ImageOrPrintOptions).setImageFormat görüntü biçimini ayarlamak için. 
+Bir Excel dosyasının her çalışma sayfası farklı görüntü biçimlerine dönüştürülebilir, çağrı [ResimVeyaYazdırSeçenekleri](https://reference.aspose.com/cells/python/asposecells.api/ImageOrPrintOptions).setImageFormat görüntü biçimini ayarlamak için. 
 {{% blocks/products/pf/feature-page-code h3="Python Excel\'den Görüntüye Dönüştürme Kodu" %}}
 ```cs
 // şablon elektronik tablosunu yükle
@@ -112,7 +112,7 @@ sr.toImage(0, "output.jpg")
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Excel\'i Word ve PowerPoint\'e Dönüştürün" %}}
-Kullanırken herhangi bir elektronik tabloyu yüklemek ve Word DOCX ve PowerPoint PPTX dosyalarına dönüştürmek mümkündür. [DocxSaveOptions](https://apireference.aspose.com/cells/python/asposecells.api/DocxSaveOptions) & [PptxSaveSeçenekleri](https://apireference.aspose.com/cells/python/asposecells.api/PptxSaveOptions) aşağıda gösterildiği gibi sınıflar.
+Kullanırken herhangi bir elektronik tabloyu yüklemek ve Word DOCX ve PowerPoint PPTX dosyalarına dönüştürmek mümkündür. [DocxSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/DocxSaveOptions) & [PptxSaveSeçenekleri](https://reference.aspose.com/cells/python/asposecells.api/PptxSaveOptions) aşağıda gösterildiği gibi sınıflar.
 {{% blocks/products/pf/feature-page-code h3="Excel\'den Word\'e ve PowerPoint\'e Dönüştürme için Python kodu" %}}
 ```cs
 // şablon dosyasını yükleyin

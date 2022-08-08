@@ -48,7 +48,7 @@ PM> Install-Package Aspose.Cells
 + Töltse be az XLS fájlt a teljes elérési úttal a felosztáshoz.
 + Iteráció minden lapon keresztül
 + Hozzon létre egy új munkafüzet osztályobjektumot
-+ Másolja a lapot a következőn keresztül [Másolási módszer](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
++ Másolja a lapot a következőn keresztül [Másolási módszer](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
 + Hívja meg a Save() metódust, és adja meg a fájlnevet (teljes elérési út) és a SaveFormat.Xls paramétert.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

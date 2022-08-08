@@ -48,7 +48,7 @@ PM> Install-Package Aspose.Cells
 + Carregue o arquivo XLSM com o caminho completo para divisão.
 + Iterar em cada planilha
 + Criar um novo objeto de classe Workbook
-+ Copie a planilha via [Copiar método](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
++ Copie a planilha via [Copiar método](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
 + Chame o método Save() e passe o nome do arquivo (caminho completo) e SaveFormat.Xlsm como parâmetro.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -24,7 +24,7 @@ Dynamisch lijndiagrammen maken binnen een actieve toepassing is eenvoudig. Om va
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Aspose.Cells naamruimte opnemen1. Creëren [**Werkboek**](https://apireference.aspose.com/cells/net/aspose.cells/workbook) klasse instantie.1. Voeg wat gegevens toe aan het werkblad.1. Voeg een ... toe [**Lijn**](https://apireference.aspose.com/cells/net/aspose.cells.charts/charttype) Schema naar het werkblad.1. Toegang tot de nieuwe [**Grafiek**](https://apireference.aspose.com/cells/net/aspose.cells.charts/chart) voorwerp.1. Geef de gegevensbron van het diagram op met [**Chart.SetChartDataRange**](https://https://apireference.aspose.com/cells/net/aspose.cells.charts/chart/methods/setchartdatarange) methode.
+1. Aspose.Cells naamruimte opnemen1. Creëren [**Werkboek**](https://reference.aspose.com/cells/net/aspose.cells/workbook) klasse instantie.1. Voeg wat gegevens toe aan het werkblad.1. Voeg een ... toe [**Lijn**](https://reference.aspose.com/cells/net/aspose.cells.charts/charttype) Schema naar het werkblad.1. Toegang tot de nieuwe [**Grafiek**](https://reference.aspose.com/cells/net/aspose.cells.charts/chart) voorwerp.1. Geef de gegevensbron van het diagram op met [**Chart.SetChartDataRange**](https://https://reference.aspose.com/cells/net/aspose.cells.charts/chart/methods/setchartdatarange) methode.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

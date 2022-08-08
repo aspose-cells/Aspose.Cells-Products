@@ -26,7 +26,7 @@ description: Java TSV 문서 생성을 위한 샘플 코드입니다. 이 코드
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. 인스턴스 생성 [워크북 수업](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook).1. getWorksheets.get() 메서드를 사용하여 관련 워크시트에 액세스합니다.1. 해당 셀을 선택하고 A1, B3 등과 같은 셀 이름을 사용하여 원하는 셀에 값을 입력합니다.1. save() 메서드를 사용하여 통합 문서를 TSV 형식으로 저장합니다.
+1. 인스턴스 생성 [워크북 수업](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook).1. getWorksheets.get() 메서드를 사용하여 관련 워크시트에 액세스합니다.1. 해당 셀을 선택하고 A1, B3 등과 같은 셀 이름을 사용하여 원하는 셀에 값을 입력합니다.1. save() 메서드를 사용하여 통합 문서를 TSV 형식으로 저장합니다.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="시스템 요구 사항" %}}

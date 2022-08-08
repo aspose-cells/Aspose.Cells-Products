@@ -10,12 +10,12 @@ description: C# zdrojové kódy, které vysvětlují, jak rozdělit soubory Micr
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Rozdělte dokument Excel do více souborů" %}}
-Nejjednodušší způsob, jak rozdělit soubory aplikace Excel podle listu, je přistupovat ke všem listům pomocí [Pracovní listy](https://apireference.aspose.com/cells/net/aspose.cells/workbook/properties/worksheets), Iterování přes každý list a volání [kopírovat](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy) metoda. Nakonec jej uložte do určené cesty. 
+Nejjednodušší způsob, jak rozdělit soubory aplikace Excel podle listu, je přistupovat ke všem listům pomocí [Pracovní listy](https://reference.aspose.com/cells/net/aspose.cells/workbook/properties/worksheets), Iterování přes každý list a volání [kopírovat](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy) metoda. Nakonec jej uložte do určené cesty. 
 
-+ Načtěte soubor Excel s úplnou cestou pomocí [Třída sešitu](https://apireference.aspose.com/cells/net/aspose.cells/workbook).
++ Načtěte soubor Excel s úplnou cestou pomocí [Třída sešitu](https://reference.aspose.com/cells/net/aspose.cells/workbook).
 + Iterujte každý list
 + Vytvořte nový objekt třídy Workbook
-+ Zkopírujte list přes [Metoda kopírování](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
++ Zkopírujte list přes [Metoda kopírování](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
 + Zavolejte metodu Save() a předejte název souboru (úplnou cestu) s příslušným SaveFormat.
 
 {{% blocks/products/pf/feature-page-code h3="C# Kód pro rozdělení souborů aplikace Excel" %}}
@@ -29,7 +29,7 @@ Nejjednodušší způsob, jak rozdělit soubory aplikace Excel podle listu, je p
 
 {{% blocks/products/pf/feature-page-section h2="Rozdělte pracovní list aplikace Excel na panely" %}}
 
-Pro rozdělení okna listu na panely poskytuje API [Split metoda](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/split) třídy listu, která poskytuje rozdělené zobrazení listu. Chcete-li odstranit rozdělené zobrazení, API poskytuje [Metoda RemoveSplit](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/removesplit). Nakonec jej uložte do určené cesty. 
+Pro rozdělení okna listu na panely poskytuje API [Split metoda](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/split) třídy listu, která poskytuje rozdělené zobrazení listu. Chcete-li odstranit rozdělené zobrazení, API poskytuje [Metoda RemoveSplit](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/removesplit). Nakonec jej uložte do určené cesty. 
 
 {{% blocks/products/pf/feature-page-code h3="C# Kód pro rozdělení okna listu Excel" %}}
 

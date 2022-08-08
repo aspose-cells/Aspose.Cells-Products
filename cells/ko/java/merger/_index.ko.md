@@ -10,7 +10,7 @@ description: Java을(를) 사용하여 Excel 파일을 여러 시트 또는 단�
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Excel 파일을 이미지 및 차트와 결합" %}}
-이미지와 차트가 있는 두 개의 Excel 파일을 결합하는 가장 간단한 방법은 [통합 문서.combine](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#combine(com.aspose.cells.Workbook)) 방법. 유사한 유형의 Excel 파일을 단일 스프레드시트로 병합할 수 있습니다.
+이미지와 차트가 있는 두 개의 Excel 파일을 결합하는 가장 간단한 방법은 [통합 문서.combine](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#combine(com.aspose.cells.Workbook)) 방법. 유사한 유형의 Excel 파일을 단일 스프레드시트로 병합할 수 있습니다.
 {{% blocks/products/pf/feature-page-code h3="Java Excel 파일을 결합하는 코드" %}}
 
 ```cs
@@ -29,7 +29,7 @@ book1.save("combined.xlsx");
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="여러 Excel 파일 병합" %}}
-[CellsHelper.mergeFiles](https://apireference.aspose.com/cells/java/com.aspose.cells/cellshelper#mergeFiles) 이 방법은 Excel 파일의 데이터, 스타일 및 공식을 동일한 형식의 새 스프레드시트로 병합하는 것을 지원합니다. 캐싱을 사용하면서 여러 파일을 병합하는 효율적인 방법입니다. 
+[CellsHelper.mergeFiles](https://reference.aspose.com/cells/java/com.aspose.cells/cellshelper#mergeFiles) 이 방법은 Excel 파일의 데이터, 스타일 및 공식을 동일한 형식의 새 스프레드시트로 병합하는 것을 지원합니다. 캐싱을 사용하면서 여러 파일을 병합하는 효율적인 방법입니다. 
 {{% blocks/products/pf/feature-page-code h3="Java 여러 Excel 파일을 병합하는 코드" %}}
 
 ```cs
@@ -47,7 +47,7 @@ CellsHelper.mergeFiles(files, "cache", "merged.xls");
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="워크시트를 복사하여 Excel 파일 병합" %}}
-[워크시트.복사](https://apireference.aspose.com/cells/java/com.aspose.cells/worksheet#copy(com.aspose.cells.Worksheet)데이터 및 서식을 원본 워크시트에서 통합 문서 내 또는 통합 문서 간에 다른 워크시트로 복사하는 데 사용할 수 있습니다. 이 메서드는 원본 워크시트 개체를 매개 변수로 사용합니다.
+[워크시트.복사](https://reference.aspose.com/cells/java/com.aspose.cells/worksheet#copy(com.aspose.cells.Worksheet)데이터 및 서식을 원본 워크시트에서 통합 문서 내 또는 통합 문서 간에 다른 워크시트로 복사하는 데 사용할 수 있습니다. 이 메서드는 원본 워크시트 개체를 매개 변수로 사용합니다.
 {{% blocks/products/pf/feature-page-code h3="Java 통합 문서 간에 워크시트를 복사하는 코드" %}}
 
 ```cs

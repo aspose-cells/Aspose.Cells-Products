@@ -48,7 +48,7 @@ PM> Install-Package Aspose.Cells
 + 加载带有完整路径的 XLS 文件以进行拆分。
 +遍历每张纸
 + 创建一个新的工作簿类对象
-+通过复制工作表 [复制方法](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
++通过复制工作表 [复制方法](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
 + 调用 Save() 方法并传递文件名（完整路径）和 SaveFormat.Xls 作为参数。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

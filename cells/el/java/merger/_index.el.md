@@ -10,7 +10,7 @@ description: Συγχώνευση αρχείων Excel χρησιμοποιών�
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Συνδυάστε αρχεία Excel με εικόνες και γραφήματα" %}}
-Ο απλούστερος τρόπος για να συνδυάσετε δύο αρχεία Excel με εικόνες και γραφήματα είναι καλώντας το [Τετράδιο εργασιών.συνδυάστε](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#combine(com.aspose.cells.Workbook)) μέθοδος. Επιτρέπει τη συγχώνευση αρχείων Excel παρόμοιου τύπου σε ένα ενιαίο υπολογιστικό φύλλο.
+Ο απλούστερος τρόπος για να συνδυάσετε δύο αρχεία Excel με εικόνες και γραφήματα είναι καλώντας το [Τετράδιο εργασιών.συνδυάστε](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#combine(com.aspose.cells.Workbook)) μέθοδος. Επιτρέπει τη συγχώνευση αρχείων Excel παρόμοιου τύπου σε ένα ενιαίο υπολογιστικό φύλλο.
 {{% blocks/products/pf/feature-page-code h3="Java Κώδικας για συνδυασμό αρχείων Excel" %}}
 
 ```cs
@@ -29,7 +29,7 @@ book1.save("combined.xlsx");
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="Συγχώνευση πολλών αρχείων Excel" %}}
-[CellsHelper.mergeFiles](https://apireference.aspose.com/cells/java/com.aspose.cells/cellshelper#mergeFiles) Η μέθοδος υποστηρίζει τη συγχώνευση δεδομένων, στυλ και τύπων ενός αρχείου Excel σε ένα νέο υπολογιστικό φύλλο της ίδιας μορφής. Είναι ένας αποτελεσματικός τρόπος για τη συγχώνευση πολλών αρχείων κατά τη χρήση της προσωρινής αποθήκευσης. 
+[CellsHelper.mergeFiles](https://reference.aspose.com/cells/java/com.aspose.cells/cellshelper#mergeFiles) Η μέθοδος υποστηρίζει τη συγχώνευση δεδομένων, στυλ και τύπων ενός αρχείου Excel σε ένα νέο υπολογιστικό φύλλο της ίδιας μορφής. Είναι ένας αποτελεσματικός τρόπος για τη συγχώνευση πολλών αρχείων κατά τη χρήση της προσωρινής αποθήκευσης. 
 {{% blocks/products/pf/feature-page-code h3="Java Κώδικας για συγχώνευση πολλών αρχείων Excel" %}}
 
 ```cs
@@ -47,7 +47,7 @@ CellsHelper.mergeFiles(files, "cache", "merged.xls");
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="Συγχώνευση αρχείων Excel με αντιγραφή φύλλων εργασίας" %}}
-[Φύλλο εργασίας.αντίγραφο](https://apireference.aspose.com/cells/java/com.aspose.cells/worksheet#copy(com.aspose.cells.Worksheet)μπορεί να χρησιμοποιηθεί για την αντιγραφή δεδομένων και τη μορφοποίηση από ένα φύλλο εργασίας προέλευσης σε άλλο φύλλο εργασίας εντός ή μεταξύ των βιβλίων εργασίας. Η μέθοδος λαμβάνει το αντικείμενο του φύλλου εργασίας προέλευσης ως παράμετρο.
+[Φύλλο εργασίας.αντίγραφο](https://reference.aspose.com/cells/java/com.aspose.cells/worksheet#copy(com.aspose.cells.Worksheet)μπορεί να χρησιμοποιηθεί για την αντιγραφή δεδομένων και τη μορφοποίηση από ένα φύλλο εργασίας προέλευσης σε άλλο φύλλο εργασίας εντός ή μεταξύ των βιβλίων εργασίας. Η μέθοδος λαμβάνει το αντικείμενο του φύλλου εργασίας προέλευσης ως παράμετρο.
 {{% blocks/products/pf/feature-page-code h3="Java Κώδικας για την αντιγραφή φύλλων εργασίας μεταξύ των βιβλίων εργασίας" %}}
 
 ```cs

@@ -11,7 +11,7 @@ Para qualquer aplicativo ou solução **Conversor Excel**, a Java Biblioteca do 
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Interconversão de formatos do Microsoft Excel" %}}
-A interconversão do formato da planilha requer apenas o carregamento de uma planilha com uma instância de [Pasta de trabalho](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) e salvando de volta no formato desejado enquanto seleciona o valor apropriado de [Salvar formato](https://apireference.aspose.com/cells/java/com.aspose.cells/SaveFormat) enumeração.
+A interconversão do formato da planilha requer apenas o carregamento de uma planilha com uma instância de [Pasta de trabalho](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) e salvando de volta no formato desejado enquanto seleciona o valor apropriado de [Salvar formato](https://reference.aspose.com/cells/java/com.aspose.cells/SaveFormat) enumeração.
 {{% blocks/products/pf/feature-page-code h3="Java Código de exemplo para conversão de formato de arquivo do Excel" %}}
 
 ```cs
@@ -30,7 +30,7 @@ wkb.save("fods-output.fods", SaveFormat.FODS);
 
 
 {{% blocks/products/pf/feature-page-section h2="Converter Excel para PDF, XPS, HTML e MD" %}}
-Classes especializadas estão disponíveis para controlar o processo de conversão para formatos de saída específicos, como [PdfSaveOptions](https://apireference.aspose.com/cells/java/com.aspose.cells/PdfSaveOptions) para converter arquivos do Excel como PDF, [XpsSaveOptions](https://apireference.aspose.com/cells/java/com.aspose.cells/XpsSaveOptions) para exportar Excel como XPS, [HtmlSaveOptions](https://apireference.aspose.com/cells/java/com.aspose.cells/HtmlSaveOptions) para renderizar o Excel como HTML e [MarkdownSaveOptions](https://apireference.aspose.com/cells/java/com.aspose.cells/MarkdownSaveOptions) para conversão de Excel para Markdown. 
+Classes especializadas estão disponíveis para controlar o processo de conversão para formatos de saída específicos, como [PdfSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/PdfSaveOptions) para converter arquivos do Excel como PDF, [XpsSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/XpsSaveOptions) para exportar Excel como XPS, [HtmlSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/HtmlSaveOptions) para renderizar o Excel como HTML e [MarkdownSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/MarkdownSaveOptions) para conversão de Excel para Markdown. 
 {{% blocks/products/pf/feature-page-code h3="Java Código de exemplo para Excel para PDF e formatos da Web" %}}
 
 ```cs
@@ -59,7 +59,7 @@ bk.save("output.md", new MarkdownSaveOptions());
 {{< blocks/products/pf/feature-page-options formats="XPS PDF" beforeslug="convert" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Converter JSON para Excel e Excel para JSON" %}}
-Os dados JSON podem ser importados para uma instância da classe Workbook com a ajuda de [JSONUtility.importData](https://apireference.aspose.com/cells/java/com.aspose.cells/jsonutility#importData) para processamento adicional ou conversão simples para qualquer um dos formatos suportados. Da mesma forma, os dados da planilha podem ser exportados como JSON criando um [Alcance](https://apireference.aspose.com/cells/java/com.aspose.cells/range) ou células e chamando o [exportRangeToJson](https://apireference.aspose.com/cells/java/com.aspose.cells/jsonutility) método.
+Os dados JSON podem ser importados para uma instância da classe Workbook com a ajuda de [JSONUtility.importData](https://reference.aspose.com/cells/java/com.aspose.cells/jsonutility#importData) para processamento adicional ou conversão simples para qualquer um dos formatos suportados. Da mesma forma, os dados da planilha podem ser exportados como JSON criando um [Alcance](https://reference.aspose.com/cells/java/com.aspose.cells/range) ou células e chamando o [exportRangeToJson](https://reference.aspose.com/cells/java/com.aspose.cells/jsonutility) método.
 {{% blocks/products/pf/feature-page-code h3="Java Código para conversão de JSON para Excel" %}}
 ```cs
 Workbook workbook = new Workbook(path + "source-file.xlsx");
@@ -142,7 +142,7 @@ for (int j = 0; j < sr.getPageCount(); j++) {
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Converter Microsoft Excel para Word e PowerPoint" %}}
-É possível carregar qualquer planilha e convertê-la em arquivos Word DOCX e PowerPoint PPTX enquanto estiver usando [DocxSaveOptions](https://apireference.aspose.com/cells/java/com.aspose.cells/DocxSaveOptions) & [PptxSaveOptions](https://apireference.aspose.com/cells/java/com.aspose.cells/PptxSaveOptions) classes, conforme demonstrado abaixo.
+É possível carregar qualquer planilha e convertê-la em arquivos Word DOCX e PowerPoint PPTX enquanto estiver usando [DocxSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/DocxSaveOptions) & [PptxSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/PptxSaveOptions) classes, conforme demonstrado abaixo.
 {{% blocks/products/pf/feature-page-code h3="Java Código para conversão de Excel para Word e PowerPoint" %}}
 ```cs
 // carregue o arquivo de modelo

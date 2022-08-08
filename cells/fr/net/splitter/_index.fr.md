@@ -10,12 +10,12 @@ description: C# codes sources expliquant comment diviser des fichiers Microsoft
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Diviser un document Excel en plusieurs fichiers" %}}
-Le moyen le plus simple de diviser les fichiers Excel par feuille est d'accéder à toutes les feuilles via [Des feuilles de calcul](https://apireference.aspose.com/cells/net/aspose.cells/workbook/properties/worksheets), Itérer sur chaque feuille et appeler le [Copie](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy) méthode. Enfin, enregistrez-le dans un chemin spécifié. 
+Le moyen le plus simple de diviser les fichiers Excel par feuille est d'accéder à toutes les feuilles via [Des feuilles de calcul](https://reference.aspose.com/cells/net/aspose.cells/workbook/properties/worksheets), Itérer sur chaque feuille et appeler le [Copie](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy) méthode. Enfin, enregistrez-le dans un chemin spécifié. 
 
-+ Chargez le fichier Excel avec le chemin complet en utilisant [Classe de classeur](https://apireference.aspose.com/cells/net/aspose.cells/workbook).
++ Chargez le fichier Excel avec le chemin complet en utilisant [Classe de classeur](https://reference.aspose.com/cells/net/aspose.cells/workbook).
 + Itérer à travers chaque feuille
 + Créer un nouvel objet de classe Workbook
-+ Copier la feuille via [Méthode de copie](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
++ Copier la feuille via [Méthode de copie](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
 + Appelez la méthode Save() et transmettez le nom du fichier (chemin complet) ayant le SaveFormat pertinent.
 
 {{% blocks/products/pf/feature-page-code h3="C# Code pour diviser les fichiers Excel" %}}
@@ -29,7 +29,7 @@ Le moyen le plus simple de diviser les fichiers Excel par feuille est d'accéder
 
 {{% blocks/products/pf/feature-page-section h2="Diviser la feuille de calcul Excel en volets" %}}
 
-Pour diviser la fenêtre de la feuille de calcul en volets, API fournit [Méthode de fractionnement](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/split) de la classe de feuille de calcul, qui fournit la vue fractionnée de la feuille de calcul. Pour supprimer la vue fractionnée, API fournit [Méthode RemoveSplit](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/removesplit). Enfin, enregistrez-le dans un chemin spécifié. 
+Pour diviser la fenêtre de la feuille de calcul en volets, API fournit [Méthode de fractionnement](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/split) de la classe de feuille de calcul, qui fournit la vue fractionnée de la feuille de calcul. Pour supprimer la vue fractionnée, API fournit [Méthode RemoveSplit](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/removesplit). Enfin, enregistrez-le dans un chemin spécifié. 
 
 {{% blocks/products/pf/feature-page-code h3="C# Code pour diviser la fenêtre de feuille de calcul Excel" %}}
 

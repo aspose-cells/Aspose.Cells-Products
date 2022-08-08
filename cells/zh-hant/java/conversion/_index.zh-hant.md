@@ -11,7 +11,7 @@ description: 只需幾行 Java 代碼，即可將 Excel XLS、XLSX、ODS、CSV �
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Microsoft Excel 格式的相互轉換" %}}
-電子表格格式的相互轉換只需要加載一個帶有實例的電子表格 [工作簿](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) 並在選擇適當的值時以所需的格式保存 [保存格式](https://apireference.aspose.com/cells/java/com.aspose.cells/SaveFormat) 枚舉。
+電子表格格式的相互轉換只需要加載一個帶有實例的電子表格 [工作簿](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) 並在選擇適當的值時以所需的格式保存 [保存格式](https://reference.aspose.com/cells/java/com.aspose.cells/SaveFormat) 枚舉。
 {{% blocks/products/pf/feature-page-code h3="Java Excel 文件格式轉換的示例代碼" %}}
 
 ```cs
@@ -30,7 +30,7 @@ wkb.save("fods-output.fods", SaveFormat.FODS);
 
 
 {{% blocks/products/pf/feature-page-section h2="將 Excel 轉換為 PDF、XPS、HTML 和 MD" %}}
-可以使用專門的類來控制特定輸出格式的轉換過程，例如 [PdfSaveOptions](https://apireference.aspose.com/cells/java/com.aspose.cells/PdfSaveOptions) 將 Excel 文件轉換為 PDF， [XpsSave 選項](https://apireference.aspose.com/cells/java/com.aspose.cells/XpsSaveOptions) 將 Excel 導出為 XPS， [HtmlSaveOptions](https://apireference.aspose.com/cells/java/com.aspose.cells/HtmlSaveOptions) 將 Excel 呈現為 HTML 和 [MarkdownSave 選項](https://apireference.aspose.com/cells/java/com.aspose.cells/MarkdownSaveOptions) 用於 Excel 到 Markdown 的轉換。 
+可以使用專門的類來控制特定輸出格式的轉換過程，例如 [PdfSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/PdfSaveOptions) 將 Excel 文件轉換為 PDF， [XpsSave 選項](https://reference.aspose.com/cells/java/com.aspose.cells/XpsSaveOptions) 將 Excel 導出為 XPS， [HtmlSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/HtmlSaveOptions) 將 Excel 呈現為 HTML 和 [MarkdownSave 選項](https://reference.aspose.com/cells/java/com.aspose.cells/MarkdownSaveOptions) 用於 Excel 到 Markdown 的轉換。 
 {{% blocks/products/pf/feature-page-code h3="Java Excel 到 PDF 和 Web 格式的示例代碼" %}}
 
 ```cs
@@ -59,7 +59,7 @@ bk.save("output.md", new MarkdownSaveOptions());
 {{< blocks/products/pf/feature-page-options formats="XPS PDF" beforeslug="convert" >}}
 
 {{% blocks/products/pf/feature-page-section h2="將 JSON 轉換為 Excel 並將 Excel 轉換為 JSON" %}}
-JSON 數據可以通過以下方式導入到 Workbook 類的實例中 [JSONUtility.importData](https://apireference.aspose.com/cells/java/com.aspose.cells/jsonutility#importData) 用於進一步處理或簡單轉換為任何支持的格式。同樣，工作表數據可以通過創建一個 JSON 格式導出 [範圍](https://apireference.aspose.com/cells/java/com.aspose.cells/range) 或單元格並調用 [exportRangeToJson](https://apireference.aspose.com/cells/java/com.aspose.cells/jsonutility) 方法。
+JSON 數據可以通過以下方式導入到 Workbook 類的實例中 [JSONUtility.importData](https://reference.aspose.com/cells/java/com.aspose.cells/jsonutility#importData) 用於進一步處理或簡單轉換為任何支持的格式。同樣，工作表數據可以通過創建一個 JSON 格式導出 [範圍](https://reference.aspose.com/cells/java/com.aspose.cells/range) 或單元格並調用 [exportRangeToJson](https://reference.aspose.com/cells/java/com.aspose.cells/jsonutility) 方法。
 {{% blocks/products/pf/feature-page-code h3="Java JSON 到 Excel 轉換的代碼" %}}
 ```cs
 Workbook workbook = new Workbook(path + "source-file.xlsx");
@@ -142,7 +142,7 @@ for (int j = 0; j < sr.getPageCount(); j++) {
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
 {{% blocks/products/pf/feature-page-section h2="將 Microsoft Excel 轉換為 Word 和 PowerPoint" %}}
-使用時可以加載任何電子表格並將其轉換為 Word DOCX 和 PowerPoint PPTX 文件 [DocxSaveOptions](https://apireference.aspose.com/cells/java/com.aspose.cells/DocxSaveOptions) & [PptxSaveOptions](https://apireference.aspose.com/cells/java/com.aspose.cells/PptxSaveOptions) 類如下所示。
+使用時可以加載任何電子表格並將其轉換為 Word DOCX 和 PowerPoint PPTX 文件 [DocxSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/DocxSaveOptions) & [PptxSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/PptxSaveOptions) 類如下所示。
 {{% blocks/products/pf/feature-page-code h3="Java Excel 到 Word 和 PowerPoint 轉換的代碼" %}}
 ```cs
 // 加載模板文件

@@ -11,7 +11,7 @@ description: C# kodunu kullanarak bir şablon sayfasından Microsoft Excel elekt
 
 {{% blocks/products/pf/feature-page-section h2="Önceden Tasarlanmış Excel Şablonuna Dayalı Raporlar Oluşturun" %}}
 
-Aynı kalıp dosyalarını oluşturma sürecini otomatikleştirmek, .NET Assembly API kullanarak kolaydır. farklı yollar var [verileri içe aktar](https://docs.aspose.com/cells/net/import-data-into-worksheet/#importing-data-from-json) ve Excel dosyaları oluşturun. API sağlar [WorkbookDesigner sınıfı](https://apireference.aspose.com/cells/net/aspose.cells/workbookdesigner) bir tasarımcı çalışma sayfasını temsil etmek için. Nesnesini oluşturun ve şablon dosyasını açmak için kullanın. DataTable, Array, Json dosyası vb. olabilecek veri kaynağını ayarlayın. Verileri içe aktarmak ve dosyayı verilerle birlikte gerekli formatta kaydetmek için işleyin. Programcılar, aşağıda listelenen bağlantılardan diğer dosya formatlarında verileri raporlar halinde bir araya getirebilir.
+Aynı kalıp dosyalarını oluşturma sürecini otomatikleştirmek, .NET Assembly API kullanarak kolaydır. farklı yollar var [verileri içe aktar](https://docs.aspose.com/cells/net/import-data-into-worksheet/#importing-data-from-json) ve Excel dosyaları oluşturun. API sağlar [WorkbookDesigner sınıfı](https://reference.aspose.com/cells/net/aspose.cells/workbookdesigner) bir tasarımcı çalışma sayfasını temsil etmek için. Nesnesini oluşturun ve şablon dosyasını açmak için kullanın. DataTable, Array, Json dosyası vb. olabilecek veri kaynağını ayarlayın. Verileri içe aktarmak ve dosyayı verilerle birlikte gerekli formatta kaydetmek için işleyin. Programcılar, aşağıda listelenen bağlantılardan diğer dosya formatlarında verileri raporlar halinde bir araya getirebilir.
 
 
 

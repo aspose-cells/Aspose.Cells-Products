@@ -26,7 +26,7 @@ description: Java Mã mẫu để tạo tài liệu PDF. Sử dụng mã này đ
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Tạo một phiên bản của [Lớp sổ làm việc](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook).1. Truy cập trang tính có liên quan bằng phương thức getWorksheets.get ().1. Chọn ô có liên quan, nhập giá trị vào ô mong muốn bằng cách sử dụng tên ô, như A1, B3, v.v.1. Lưu sổ làm việc dưới dạng định dạng PDF bằng cách sử dụng phương thức save ().
+1. Tạo một phiên bản của [Lớp sổ làm việc](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook).1. Truy cập trang tính có liên quan bằng phương thức getWorksheets.get ().1. Chọn ô có liên quan, nhập giá trị vào ô mong muốn bằng cách sử dụng tên ô, như A1, B3, v.v.1. Lưu sổ làm việc dưới dạng định dạng PDF bằng cách sử dụng phương thức save ().
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="yêu cầu hệ thống" %}}

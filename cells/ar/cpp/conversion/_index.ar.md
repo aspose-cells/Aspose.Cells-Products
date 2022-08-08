@@ -11,7 +11,7 @@ description: تحويل ملفات Excel XLS و XLSX و ODS و CSV إلى PDF و
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="التحويل البيني لتنسيقات Microsoft Excel" %}}
-لا يتطلب التحويل البيني لتنسيق جدول البيانات سوى تحميل جدول بيانات بمثيل [ intrusive_ptr <Aspose :: Cells :: IWorkbook>](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) المؤشر والحفظ مرة أخرى بالتنسيق المطلوب باستخدام [يحفظ](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997) طريقة [فئة IWorkbook](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook).
+لا يتطلب التحويل البيني لتنسيق جدول البيانات سوى تحميل جدول بيانات بمثيل [ intrusive_ptr <Aspose :: Cells :: IWorkbook>](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) المؤشر والحفظ مرة أخرى بالتنسيق المطلوب باستخدام [يحفظ](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997) طريقة [فئة IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook).
 {{% blocks/products/pf/feature-page-code h3="C++ رمز مثال لتحويل تنسيق ملف Excel" %}}
 
 ```cs
@@ -30,7 +30,7 @@ wkb->Save(u"output_excel_format.xlsx", SaveFormat_Xlsx);
 
 
 {{% blocks/products/pf/feature-page-section h2="قم بتحويل تنسيقات Excel إلى PDF باستخدام إعدادات مستوى الامتثال" %}}
-يدعم C++ Excel Automation API تحويل مصنفات العمل إلى PDF بالإضافة إلى دعم إعداد مستوى الامتثال وتاريخ الإنشاء. يمكن للمطورين استخدام ملفات [IPdfSaveOptions](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_pdf_save_options) جنبا إلى جنب مع [Aspose :: Cells :: عرض](https://apireference.aspose.com/cells/cpp/namespace/aspose.cells.rendering) لتعيين التوافق مع PDF. للتحويل ، API احفظ الطريقة التي تحتوي على PdfSaveOptions كمعامل ومسار ملف الإخراج المحدد. 
+يدعم C++ Excel Automation API تحويل مصنفات العمل إلى PDF بالإضافة إلى دعم إعداد مستوى الامتثال وتاريخ الإنشاء. يمكن للمطورين استخدام ملفات [IPdfSaveOptions](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_pdf_save_options) جنبا إلى جنب مع [Aspose :: Cells :: عرض](https://reference.aspose.com/cells/cpp/namespace/aspose.cells.rendering) لتعيين التوافق مع PDF. للتحويل ، API احفظ الطريقة التي تحتوي على PdfSaveOptions كمعامل ومسار ملف الإخراج المحدد. 
 {{% blocks/products/pf/feature-page-code h3="C++ نموذج كود لتحويل Excel إلى PDF" %}}
 
 ```cs
@@ -58,7 +58,7 @@ wkb->Save(u"output-converted-excel-workbook-to.pdf", pdfSaveOptions);
 {{< blocks/products/pf/feature-page-options formats="PDF" >}}
 
 {{% blocks/products/pf/feature-page-section h2="حفظ Excel في الصور" %}}
-** C++ Excel Parser ** لديه القدرة على تصدير البيانات في شكل صور. يمكن تحويل كل ورقة عمل إلى تنسيقات صور مختلفة بما في ذلك BMP و JPEG و PNG و GIF ، التي حددها ملف [تقديم :: IImageOrPrintOptions](https://apireference.aspose.com/cells/cpp/class/aspose.cells.rendering.i_image_or_print_options). لأي حالة ** تحويل Excel إلى صور ** ، حدد الحالة ذات الصلة من الروابط.
+** C++ Excel Parser ** لديه القدرة على تصدير البيانات في شكل صور. يمكن تحويل كل ورقة عمل إلى تنسيقات صور مختلفة بما في ذلك BMP و JPEG و PNG و GIF ، التي حددها ملف [تقديم :: IImageOrPrintOptions](https://reference.aspose.com/cells/cpp/class/aspose.cells.rendering.i_image_or_print_options). لأي حالة ** تحويل Excel إلى صور ** ، حدد الحالة ذات الصلة من الروابط.
 {{% blocks/products/pf/feature-page-code h3="C++ كود لبرنامج Excel لتحويل الصورة" %}}
 
 ```cs

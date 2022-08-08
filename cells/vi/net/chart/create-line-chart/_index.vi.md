@@ -24,7 +24,7 @@ Dễ dàng tạo Biểu đồ đường trong ứng dụng đang chạy. Để t
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Bao gồm không gian tên Aspose.Cells1. Tạo ra [**Sách bài tập**](https://apireference.aspose.com/cells/net/aspose.cells/workbook) cá thể lớp.1. Thêm một số dữ liệu vào trang tính.1. Thêm một [**Đường kẻ**](https://apireference.aspose.com/cells/net/aspose.cells.charts/charttype) Biểu đồ cho trang tính.1. Truy cập cái mới [**Đồ thị**](https://apireference.aspose.com/cells/net/aspose.cells.charts/chart) vật.1. Chỉ định nguồn dữ liệu của biểu đồ với [** Chart.SetChartDataRange **](https://https://apireference.aspose.com/cells/net/aspose.cells.charts/chart/methods/setchartdatarange) phương pháp.
+1. Bao gồm không gian tên Aspose.Cells1. Tạo ra [**Sách bài tập**](https://reference.aspose.com/cells/net/aspose.cells/workbook) cá thể lớp.1. Thêm một số dữ liệu vào trang tính.1. Thêm một [**Đường kẻ**](https://reference.aspose.com/cells/net/aspose.cells.charts/charttype) Biểu đồ cho trang tính.1. Truy cập cái mới [**Đồ thị**](https://reference.aspose.com/cells/net/aspose.cells.charts/chart) vật.1. Chỉ định nguồn dữ liệu của biểu đồ với [** Chart.SetChartDataRange **](https://https://reference.aspose.com/cells/net/aspose.cells.charts/chart/methods/setchartdatarange) phương pháp.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

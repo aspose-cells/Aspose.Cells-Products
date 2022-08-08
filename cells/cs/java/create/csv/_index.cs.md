@@ -26,7 +26,7 @@ description: Java Ukázkový kód pro generování dokumentů CSV. Tento kód po
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Vytvořte instanci [Třída sešitu](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook).1. Získejte přístup k příslušnému listu pomocí metody getWorksheets.get().1. Vyberte příslušnou buňku, zadejte hodnotu do požadované buňky pomocí názvu buňky, například A1, B3 atd.1. Uložte sešit ve formátu CSV pomocí metody save().
+1. Vytvořte instanci [Třída sešitu](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook).1. Získejte přístup k příslušnému listu pomocí metody getWorksheets.get().1. Vyberte příslušnou buňku, zadejte hodnotu do požadované buňky pomocí názvu buňky, například A1, B3 atd.1. Uložte sešit ve formátu CSV pomocí metody save().
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na systém" %}}

@@ -11,7 +11,7 @@ Python Excel 庫可加快電子表格編程和轉換過程，同時支持流行�
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="將 Excel 轉換為 XLSX、ODS、SXC 和 FODS" %}}
-電子表格格式的相互轉換只需要加載一個帶有實例的電子表格 [工作簿](https://apireference.aspose.com/cells/python/asposecells.api/Workbook) 並在選擇適當的值時以所需的格式保存 [保存格式](https://apireference.aspose.com/cells/python/asposecells.api/saveformat) 枚舉。
+電子表格格式的相互轉換只需要加載一個帶有實例的電子表格 [工作簿](https://reference.aspose.com/cells/python/asposecells.api/Workbook) 並在選擇適當的值時以所需的格式保存 [保存格式](https://reference.aspose.com/cells/python/asposecells.api/saveformat) 枚舉。
 {{% blocks/products/pf/feature-page-code h3="Python Excel 文件格式轉換代碼" %}}
 
 ```cs
@@ -31,7 +31,7 @@ workbook.save("output.fods", SaveFormat.FODS);
 
 
 {{% blocks/products/pf/feature-page-section h2="將 Excel 轉換為 PDF、XPS、HTML 和 MD" %}}
-可以使用專門的類來控制特定輸出格式的轉換過程，例如 [PdfSaveOptions](https://apireference.aspose.com/cells/python/asposecells.api/PdfSaveOptions) 將 Excel 文件導出為 PDF， [XpsSave 選項](https://apireference.aspose.com/cells/python/asposecells.api/XpsSaveOptions) 對於 Excel 到 XPS 的轉換， [HtmlSaveOptions](https://apireference.aspose.com/cells/python/asposecells.api/HtmlSaveOptions) 將 Excel 呈現為 HTML 和 [MarkdownSave 選項](https://apireference.aspose.com/cells/python/asposecells.api/MarkdownSaveOptions) 用於 Excel 到 Markdown 的轉換。 
+可以使用專門的類來控制特定輸出格式的轉換過程，例如 [PdfSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/PdfSaveOptions) 將 Excel 文件導出為 PDF， [XpsSave 選項](https://reference.aspose.com/cells/python/asposecells.api/XpsSaveOptions) 對於 Excel 到 XPS 的轉換， [HtmlSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/HtmlSaveOptions) 將 Excel 呈現為 HTML 和 [MarkdownSave 選項](https://reference.aspose.com/cells/python/asposecells.api/MarkdownSaveOptions) 用於 Excel 到 Markdown 的轉換。 
 {{% blocks/products/pf/feature-page-code h3="Python Excel 到 PDF 和 Web 格式的代碼" %}}
 
 ```cs
@@ -90,7 +90,7 @@ workbook.save("Data.json")
 {{< blocks/products/pf/feature-page-options pairs="json-to-xlsx json-to-ods json-to-csv json-to-dif json-to-html csv-to-json xls-to-json ods-to-json" >}}
 
 {{% blocks/products/pf/feature-page-section h2="將 Excel 工作表轉換為 JPG、BMP、PNG 和 GIF" %}}
-Excel 文件的每個工作表都可以轉換為不同的圖像格式，調用 [圖像或打印選項](https://apireference.aspose.com/cells/python/asposecells.api/ImageOrPrintOptions).setImageFormat 設置圖像格式。 
+Excel 文件的每個工作表都可以轉換為不同的圖像格式，調用 [圖像或打印選項](https://reference.aspose.com/cells/python/asposecells.api/ImageOrPrintOptions).setImageFormat 設置圖像格式。 
 {{% blocks/products/pf/feature-page-code h3="Python Excel 到圖像轉換的代碼" %}}
 ```cs
 // 加載模板電子表格
@@ -112,7 +112,7 @@ sr.toImage(0, "output.jpg")
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
 {{% blocks/products/pf/feature-page-section h2="將 Excel 轉換為 Word 和 PowerPoint" %}}
-使用時可以加載任何電子表格並將其轉換為 Word DOCX 和 PowerPoint PPTX 文件 [DocxSaveOptions](https://apireference.aspose.com/cells/python/asposecells.api/DocxSaveOptions) & [PptxSaveOptions](https://apireference.aspose.com/cells/python/asposecells.api/PptxSaveOptions) 類如下所示。
+使用時可以加載任何電子表格並將其轉換為 Word DOCX 和 PowerPoint PPTX 文件 [DocxSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/DocxSaveOptions) & [PptxSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/PptxSaveOptions) 類如下所示。
 {{% blocks/products/pf/feature-page-code h3="Python Excel 到 Word 和 PowerPoint 轉換的代碼" %}}
 ```cs
 // 加載模板文件

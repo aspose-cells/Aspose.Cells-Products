@@ -11,7 +11,7 @@ description: Excel XLS、XLSX、ODS、CSVをPDF、XPS、HTML、JPEG、および�
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="MicrosoftExcel形式の相互変換" %}}
-スプレッドシート形式の相互変換では、次のインスタンスを含むスプレッドシートを読み込むだけで済みます。 [ intrusive_ptr <Aspose :: Cells :: IWorkbook>](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) ポインタを使用して、目的の形式で保存し直します。 [保存する](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997) の方法 [IWorkbookクラス](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)。
+スプレッドシート形式の相互変換では、次のインスタンスを含むスプレッドシートを読み込むだけで済みます。 [ intrusive_ptr <Aspose :: Cells :: IWorkbook>](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) ポインタを使用して、目的の形式で保存し直します。 [保存する](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997) の方法 [IWorkbookクラス](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)。
 {{% blocks/products/pf/feature-page-code h3="C++Excelファイル形式変換のサンプルコード" %}}
 
 ```cs
@@ -30,7 +30,7 @@ wkb->Save(u"output_excel_format.xlsx", SaveFormat_Xlsx);
 
 
 {{% blocks/products/pf/feature-page-section h2="コンプライアンスレベル設定を使用してExcel形式をPDFに変換する" %}}
-C++ Excel Automation APIは、ワークブックからPDFへの変換をサポートし、コンプライアンスレベルと作成日の設定をサポートします。開発者は使用できます [IPdfSaveOptions](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_pdf_save_options) 一緒に [Aspose ::Cells::レンダリング](https://apireference.aspose.com/cells/cpp/namespace/aspose.cells.rendering) PDFコンプライアンスを設定します。変換の場合、パラメータとしてPdfSaveOptionsを持ち、出力ファイルパスを指定したAPIsaveメソッド。 
+C++ Excel Automation APIは、ワークブックからPDFへの変換をサポートし、コンプライアンスレベルと作成日の設定をサポートします。開発者は使用できます [IPdfSaveOptions](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_pdf_save_options) 一緒に [Aspose ::Cells::レンダリング](https://reference.aspose.com/cells/cpp/namespace/aspose.cells.rendering) PDFコンプライアンスを設定します。変換の場合、パラメータとしてPdfSaveOptionsを持ち、出力ファイルパスを指定したAPIsaveメソッド。 
 {{% blocks/products/pf/feature-page-code h3="C++ExcelからPDFへの変換のサンプルコード" %}}
 
 ```cs
@@ -58,7 +58,7 @@ wkb->Save(u"output-converted-excel-workbook-to.pdf", pdfSaveOptions);
 {{< blocks/products/pf/feature-page-options formats="PDF" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Excelを画像に保存" %}}
-** C++ Excel Parser **には、画像の形式でデータをエクスポートする機能があります。各ワークシートは、BMP、JPEG、PNG、GIFなどのさまざまな画像形式に変換できます。 [Rendering :: IImageOrPrintOptions](https://apireference.aspose.com/cells/cpp/class/aspose.cells.rendering.i_image_or_print_options)。 ** Excelを画像に変換**の場合は、リンクから関連するケースを選択してください。
+** C++ Excel Parser **には、画像の形式でデータをエクスポートする機能があります。各ワークシートは、BMP、JPEG、PNG、GIFなどのさまざまな画像形式に変換できます。 [Rendering :: IImageOrPrintOptions](https://reference.aspose.com/cells/cpp/class/aspose.cells.rendering.i_image_or_print_options)。 ** Excelを画像に変換**の場合は、リンクから関連するケースを選択してください。
 {{% blocks/products/pf/feature-page-code h3="C++Excelから画像への変換のコード" %}}
 
 ```cs

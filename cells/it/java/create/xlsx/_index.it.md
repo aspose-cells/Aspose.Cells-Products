@@ -26,7 +26,7 @@ description: Java Codice di esempio per la generazione di documenti XLSX. Utiliz
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Crea un'istanza di [Classe cartella di lavoro](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook).1. Accedi al foglio di lavoro pertinente utilizzando il metodo getWorksheets.get().1. Seleziona la cella pertinente, inserisci il valore nella cella desiderata utilizzando il nome della cella, come A1, B3, ecc.1. Salva la cartella di lavoro come formato XLSX usando il metodo save().
+1. Crea un'istanza di [Classe cartella di lavoro](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook).1. Accedi al foglio di lavoro pertinente utilizzando il metodo getWorksheets.get().1. Seleziona la cella pertinente, inserisci il valore nella cella desiderata utilizzando il nome della cella, come A1, B3, ecc.1. Salva la cartella di lavoro come formato XLSX usando il metodo save().
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisiti di sistema" %}}

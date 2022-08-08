@@ -24,7 +24,7 @@ La création dynamique de graphiques linéaires dans l'application en cours d'ex
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Inclure Aspose.Cells espace de noms1. Créer [**Cahier d'exercices**](https://apireference.aspose.com/cells/net/aspose.cells/workbook) exemple de classe.1. Ajoutez des données à la feuille de calcul.1. Ajouter un [**Doubler**](https://apireference.aspose.com/cells/net/aspose.cells.charts/charttype) Graphique à la feuille de calcul.1. Accéder au nouveau [**Graphique**](https://apireference.aspose.com/cells/net/aspose.cells.charts/chart) objet.1. Spécifiez la source de données du graphique avec [**Chart.SetChartDataRange**](https://https://apireference.aspose.com/cells/net/aspose.cells.charts/chart/methods/setchartdatarange) méthode.
+1. Inclure Aspose.Cells espace de noms1. Créer [**Cahier d'exercices**](https://reference.aspose.com/cells/net/aspose.cells/workbook) exemple de classe.1. Ajoutez des données à la feuille de calcul.1. Ajouter un [**Doubler**](https://reference.aspose.com/cells/net/aspose.cells.charts/charttype) Graphique à la feuille de calcul.1. Accéder au nouveau [**Graphique**](https://reference.aspose.com/cells/net/aspose.cells.charts/chart) objet.1. Spécifiez la source de données du graphique avec [**Chart.SetChartDataRange**](https://https://reference.aspose.com/cells/net/aspose.cells.charts/chart/methods/setchartdatarange) méthode.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

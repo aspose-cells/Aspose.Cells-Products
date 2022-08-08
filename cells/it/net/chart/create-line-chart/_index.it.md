@@ -24,7 +24,7 @@ La creazione dinamica di grafici a linee all'interno dell'applicazione in esecuz
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Includi Aspose.Cells spazio dei nomi1. Creare [**Cartella di lavoro**](https://apireference.aspose.com/cells/net/aspose.cells/workbook) istanza di classe.1. Aggiungi alcuni dati al foglio di lavoro.1. Aggiungere un [**Linea**](https://apireference.aspose.com/cells/net/aspose.cells.charts/charttype) Grafico sul foglio di lavoro.1. Accedi al nuovo [**Grafico**](https://apireference.aspose.com/cells/net/aspose.cells.charts/chart) oggetto.1. Specificare l'origine dati del grafico con [**Chart.SetChartDataRange**](https://https://apireference.aspose.com/cells/net/aspose.cells.charts/chart/methods/setchartdatarange) metodo.
+1. Includi Aspose.Cells spazio dei nomi1. Creare [**Cartella di lavoro**](https://reference.aspose.com/cells/net/aspose.cells/workbook) istanza di classe.1. Aggiungi alcuni dati al foglio di lavoro.1. Aggiungere un [**Linea**](https://reference.aspose.com/cells/net/aspose.cells.charts/charttype) Grafico sul foglio di lavoro.1. Accedi al nuovo [**Grafico**](https://reference.aspose.com/cells/net/aspose.cells.charts/chart) oggetto.1. Specificare l'origine dati del grafico con [**Chart.SetChartDataRange**](https://https://reference.aspose.com/cells/net/aspose.cells.charts/chart/methods/setchartdatarange) metodo.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

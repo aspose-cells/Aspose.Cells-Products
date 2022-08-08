@@ -11,7 +11,7 @@ description: Konvertera Excel XLS, XLSX, ODS, CSV till PDF, XPS, HTML, JPEG, HTM
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Konvertera Excel till XLSX, ODS, SXC & FODS" %}}
-Interkonvertering av kalkylarksformat kräver bara att ett kalkylblad laddas med en instans av [Arbetsbok](https://apireference.aspose.com/cells/net/aspose.cells/workbook) och spara tillbaka i önskat format samtidigt som du väljer lämpligt värde från [SaveFormat](https://apireference.aspose.com/cells/net/aspose.cells/saveformat) uppräkning.
+Interkonvertering av kalkylarksformat kräver bara att ett kalkylblad laddas med en instans av [Arbetsbok](https://reference.aspose.com/cells/net/aspose.cells/workbook) och spara tillbaka i önskat format samtidigt som du väljer lämpligt värde från [SaveFormat](https://reference.aspose.com/cells/net/aspose.cells/saveformat) uppräkning.
 {{% blocks/products/pf/feature-page-code h3="C# Kod för konvertering av Excel-filformat" %}}
 
 ```cs
@@ -30,7 +30,7 @@ workbook.Save("output.fods", Aspose.Cells.SaveFormat.Fods);
 
 
 {{% blocks/products/pf/feature-page-section h2="Konvertera Excel till PDF, XPS, HTML och MD" %}}
-Specialiserade klasser finns tillgängliga för att styra konverteringsprocessen för specifika utdataformat som t.ex [PdfSaveOptions](https://apireference.aspose.com/cells/net/aspose.cells/pdfsaveoptions) för att exportera Excel-filer som PDF, [XpsSaveOptions](https://apireference.aspose.com/cells/net/aspose.cells/xpssaveoptions) för konvertering av Excel till XPS, [HtmlSaveOptions](https://apireference.aspose.com/cells/net/aspose.cells/htmlsaveoptions) att rendera Excel som HTML och [MarkdownSaveOptions](https://apireference.aspose.com/cells/net/aspose.cells/markdownsaveoptions) för Excel till Markdown-konvertering. 
+Specialiserade klasser finns tillgängliga för att styra konverteringsprocessen för specifika utdataformat som t.ex [PdfSaveOptions](https://reference.aspose.com/cells/net/aspose.cells/pdfsaveoptions) för att exportera Excel-filer som PDF, [XpsSaveOptions](https://reference.aspose.com/cells/net/aspose.cells/xpssaveoptions) för konvertering av Excel till XPS, [HtmlSaveOptions](https://reference.aspose.com/cells/net/aspose.cells/htmlsaveoptions) att rendera Excel som HTML och [MarkdownSaveOptions](https://reference.aspose.com/cells/net/aspose.cells/markdownsaveoptions) för Excel till Markdown-konvertering. 
 {{% blocks/products/pf/feature-page-code h3="C# Kod för Excel till PDF- och webbformat" %}}
 
 ```cs
@@ -52,7 +52,7 @@ book.Save("output.md", new Aspose.Cells.MarkdownSaveOptions() { FormatStrategy =
 {{< blocks/products/pf/feature-page-options formats="XPS PDF" beforeslug="convert" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Konvertera JSON till Excel & Excel till JSON" %}}
-JSON-data kan importeras till en instans av [Cells](https://apireference.aspose.com/cells/net/aspose.cells/cells) klass med hjälp av [JsonUtility.ImportData](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/importdata) för vidare bearbetning eller enkel konvertering till något av de format som stöds. Liknande, [Arbetsblad](https://apireference.aspose.com/cells/net/aspose.cells/worksheet) data kan exporteras som JSON genom att skapa en [Räckvidd](https://apireference.aspose.com/cells/net/aspose.cells/range) eller celler och ringer till [JsonUtility.ExportRangeToJson](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/exportrangetojson) metod.
+JSON-data kan importeras till en instans av [Cells](https://reference.aspose.com/cells/net/aspose.cells/cells) klass med hjälp av [JsonUtility.ImportData](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/importdata) för vidare bearbetning eller enkel konvertering till något av de format som stöds. Liknande, [Arbetsblad](https://reference.aspose.com/cells/net/aspose.cells/worksheet) data kan exporteras som JSON genom att skapa en [Räckvidd](https://reference.aspose.com/cells/net/aspose.cells/range) eller celler och ringer till [JsonUtility.ExportRangeToJson](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/exportrangetojson) metod.
 {{% blocks/products/pf/feature-page-code h3="C# Kod för JSON till Excel-konvertering" %}}
 ```cs
 // skapa ett arbetsboksobjekt
@@ -93,7 +93,7 @@ System.IO.File.WriteAllText("output.json", jsonData);
 {{< blocks/products/pf/feature-page-options pairs="json-to-xlsx json-to-ods json-to-csv json-to-dif json-to-html csv-to-json xls-to-json ods-to-json" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Konvertera Excel-kalkylblad till JPG, BMP, PNG och GIF" %}}
-Varje kalkylblad i en Excel-fil kan konverteras till olika bildformat som ställs in av [ImageOrPrintOptions.ImageType](https://apireference.aspose.com/cells/net/aspose.cells.rendering/imageorprintoptions/properties/imagetype) fast egendom. Standardvärdet är `ImageFormat.Bmp`.
+Varje kalkylblad i en Excel-fil kan konverteras till olika bildformat som ställs in av [ImageOrPrintOptions.ImageType](https://reference.aspose.com/cells/net/aspose.cells.rendering/imageorprintoptions/properties/imagetype) fast egendom. Standardvärdet är `ImageFormat.Bmp`.
 {{% blocks/products/pf/feature-page-code h3="C# Kod för konvertering av Excel till bild" %}}
 ```cs
 // ladda mallkalkylblad
@@ -115,7 +115,7 @@ render.ToImage(0, "output.jpg");
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Konvertera Excel till Word & PowerPoint" %}}
-Det är möjligt att ladda vilket kalkylblad som helst och konvertera det till Word DOCX- och PowerPoint PPTX-filer medan du använder det [DocxSaveOptions](https://apireference.aspose.com/cells/net/aspose.cells/docxsaveoptions) & [PptxSaveOptions](https://apireference.aspose.com/cells/net/aspose.cells/pptxsaveoptions) klasser som visas nedan.
+Det är möjligt att ladda vilket kalkylblad som helst och konvertera det till Word DOCX- och PowerPoint PPTX-filer medan du använder det [DocxSaveOptions](https://reference.aspose.com/cells/net/aspose.cells/docxsaveoptions) & [PptxSaveOptions](https://reference.aspose.com/cells/net/aspose.cells/pptxsaveoptions) klasser som visas nedan.
 {{% blocks/products/pf/feature-page-code h3="C#-kod för konvertering av Excel till Word och PowerPoint" %}}
 ```cs
 // ladda mallfilen

@@ -24,7 +24,7 @@ description: C# نموذج كود لإنشاء مخططات خطية لبرنا�
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. تضمين Aspose.Cells مساحة الاسم1. خلق [**دفتر العمل**](https://apireference.aspose.com/cells/net/aspose.cells/workbook) مثيل فئة.1. أضف بعض البيانات إلى ورقة العمل.1. أضف [**خط**](https://apireference.aspose.com/cells/net/aspose.cells.charts/charttype) التخطيط لورقة العمل.1. الوصول إلى ملف [**جدول**](https://apireference.aspose.com/cells/net/aspose.cells.charts/chart) هدف.1. حدد مصدر بيانات المخطط باستخدام [** Chart.SetChartDataRange **](https://https://apireference.aspose.com/cells/net/aspose.cells.charts/chart/methods/setchartdatarange) طريقة.
+1. تضمين Aspose.Cells مساحة الاسم1. خلق [**دفتر العمل**](https://reference.aspose.com/cells/net/aspose.cells/workbook) مثيل فئة.1. أضف بعض البيانات إلى ورقة العمل.1. أضف [**خط**](https://reference.aspose.com/cells/net/aspose.cells.charts/charttype) التخطيط لورقة العمل.1. الوصول إلى ملف [**جدول**](https://reference.aspose.com/cells/net/aspose.cells.charts/chart) هدف.1. حدد مصدر بيانات المخطط باستخدام [** Chart.SetChartDataRange **](https://https://reference.aspose.com/cells/net/aspose.cells.charts/chart/methods/setchartdatarange) طريقة.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

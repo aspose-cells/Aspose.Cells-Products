@@ -24,7 +24,7 @@ Criar gráficos de linha dinamicamente dentro do aplicativo em execução é fá
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Incluir namespace Aspose.Cells1. Criar [**Apostila**](https://apireference.aspose.com/cells/net/aspose.cells/workbook) instância de classe.1. Adicione alguns dados à planilha.1. Adicionar um [**Linha**](https://apireference.aspose.com/cells/net/aspose.cells.charts/charttype) Gráfico para a planilha.1. Acesse o novo [**Gráfico**](https://apireference.aspose.com/cells/net/aspose.cells.charts/chart) objeto.1. Especifique a fonte de dados do gráfico com [**Chart.SetChartDataRange**](https://https://apireference.aspose.com/cells/net/aspose.cells.charts/chart/methods/setchartdatarange) método.
+1. Incluir namespace Aspose.Cells1. Criar [**Apostila**](https://reference.aspose.com/cells/net/aspose.cells/workbook) instância de classe.1. Adicione alguns dados à planilha.1. Adicionar um [**Linha**](https://reference.aspose.com/cells/net/aspose.cells.charts/charttype) Gráfico para a planilha.1. Acesse o novo [**Gráfico**](https://reference.aspose.com/cells/net/aspose.cells.charts/chart) objeto.1. Especifique a fonte de dados do gráfico com [**Chart.SetChartDataRange**](https://https://reference.aspose.com/cells/net/aspose.cells.charts/chart/methods/setchartdatarange) método.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

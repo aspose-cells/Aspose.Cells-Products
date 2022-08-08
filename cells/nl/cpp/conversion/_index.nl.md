@@ -11,7 +11,7 @@ Voor elke toepassing of oplossing voor het converteren van spreadsheets versnelt
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Interconversie van Microsoft Excel-indelingen" %}}
-Interconversie van spreadsheetformaat vereist alleen het laden van een spreadsheet met een instantie van [ intrusive_ptr<Aspose::Cells::IWorkbook>](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) aanwijzer en terug opslaan in het gewenste formaat met behulp van [Opslaan](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997) methode van [IWorkbook klasse](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook).
+Interconversie van spreadsheetformaat vereist alleen het laden van een spreadsheet met een instantie van [ intrusive_ptr<Aspose::Cells::IWorkbook>](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) aanwijzer en terug opslaan in het gewenste formaat met behulp van [Opslaan](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997) methode van [IWorkbook klasse](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook).
 {{% blocks/products/pf/feature-page-code h3="C++ Voorbeeldcode voor conversie van Excel-bestandsindeling" %}}
 
 ```cs
@@ -30,7 +30,7 @@ wkb->Save(u"output_excel_format.xlsx", SaveFormat_Xlsx);
 
 
 {{% blocks/products/pf/feature-page-section h2="Converteer Excel-indelingen naar PDF met instellingen voor nalevingsniveau" %}}
-C++ Excel-automatisering API ondersteunt de conversie van werkmappen naar PDF en ondersteunt het instellen van het nalevingsniveau en de aanmaakdatum. Ontwikkelaars kunnen gebruiken [IPdfSave-opties](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_pdf_save_options) samen met [Aspose::Cells::Rendering](https://apireference.aspose.com/cells/cpp/namespace/aspose.cells.rendering) om de PDF-compliance in te stellen. Voor conversie API slaat u de methode op met PdfSaveOptions als parameter en het opgegeven uitvoerbestandspad. 
+C++ Excel-automatisering API ondersteunt de conversie van werkmappen naar PDF en ondersteunt het instellen van het nalevingsniveau en de aanmaakdatum. Ontwikkelaars kunnen gebruiken [IPdfSave-opties](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_pdf_save_options) samen met [Aspose::Cells::Rendering](https://reference.aspose.com/cells/cpp/namespace/aspose.cells.rendering) om de PDF-compliance in te stellen. Voor conversie API slaat u de methode op met PdfSaveOptions als parameter en het opgegeven uitvoerbestandspad. 
 {{% blocks/products/pf/feature-page-code h3="C++ Voorbeeldcode voor conversie van Excel naar PDF" %}}
 
 ```cs
@@ -58,7 +58,7 @@ wkb->Save(u"output-converted-excel-workbook-to.pdf", pdfSaveOptions);
 {{< blocks/products/pf/feature-page-options formats="PDF" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Excel opslaan in afbeeldingen" %}}
-**C++ Excel Parser** heeft de mogelijkheid om gegevens in de vorm van afbeeldingen te exporteren. Elk werkblad kan worden geconverteerd naar verschillende afbeeldingsindelingen, waaronder BMP, JPEG, PNG en GIF, ingesteld door de [Rendering::IImageOrPrintOptions](https://apireference.aspose.com/cells/cpp/class/aspose.cells.rendering.i_image_or_print_options). Voor elke **Convert Excel to Images** case, selecteer de relevante case uit de links.
+**C++ Excel Parser** heeft de mogelijkheid om gegevens in de vorm van afbeeldingen te exporteren. Elk werkblad kan worden geconverteerd naar verschillende afbeeldingsindelingen, waaronder BMP, JPEG, PNG en GIF, ingesteld door de [Rendering::IImageOrPrintOptions](https://reference.aspose.com/cells/cpp/class/aspose.cells.rendering.i_image_or_print_options). Voor elke **Convert Excel to Images** case, selecteer de relevante case uit de links.
 {{% blocks/products/pf/feature-page-code h3="C++ Code voor conversie van Excel naar afbeelding" %}}
 
 ```cs

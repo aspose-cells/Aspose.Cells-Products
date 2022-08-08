@@ -11,7 +11,7 @@ Pro libovolnou aplikaci nebo řešení **převaděče Excelu** urychluje Knihovn
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Vzájemná konverze formátů Microsoft Excel" %}}
-Vzájemná konverze formátu tabulky vyžaduje pouze načtení tabulky s instancí [pracovní sešit](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) a uložení zpět v požadovaném formátu při výběru vhodné hodnoty z [UložitFormát](https://apireference.aspose.com/cells/java/com.aspose.cells/SaveFormat) výčet.
+Vzájemná konverze formátu tabulky vyžaduje pouze načtení tabulky s instancí [pracovní sešit](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) a uložení zpět v požadovaném formátu při výběru vhodné hodnoty z [UložitFormát](https://reference.aspose.com/cells/java/com.aspose.cells/SaveFormat) výčet.
 {{% blocks/products/pf/feature-page-code h3="Java Příklad kódu pro převod formátu souboru aplikace Excel" %}}
 
 ```cs
@@ -30,7 +30,7 @@ wkb.save("fods-output.fods", SaveFormat.FODS);
 
 
 {{% blocks/products/pf/feature-page-section h2="Převeďte Excel do PDF, XPS, HTML a MD" %}}
-K dispozici jsou specializované třídy pro řízení procesu převodu pro konkrétní výstupní formáty, jako je např [Možnosti PdfSave](https://apireference.aspose.com/cells/java/com.aspose.cells/PdfSaveOptions) převádět soubory aplikace Excel do formátu PDF, [XpsSaveOptions](https://apireference.aspose.com/cells/java/com.aspose.cells/XpsSaveOptions) exportovat Excel jako XPS, [HtmlSaveOptions](https://apireference.aspose.com/cells/java/com.aspose.cells/HtmlSaveOptions) vykreslit Excel jako HTML a [MarkdownSaveOptions](https://apireference.aspose.com/cells/java/com.aspose.cells/MarkdownSaveOptions) pro převod Excel na Markdown. 
+K dispozici jsou specializované třídy pro řízení procesu převodu pro konkrétní výstupní formáty, jako je např [Možnosti PdfSave](https://reference.aspose.com/cells/java/com.aspose.cells/PdfSaveOptions) převádět soubory aplikace Excel do formátu PDF, [XpsSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/XpsSaveOptions) exportovat Excel jako XPS, [HtmlSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/HtmlSaveOptions) vykreslit Excel jako HTML a [MarkdownSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/MarkdownSaveOptions) pro převod Excel na Markdown. 
 {{% blocks/products/pf/feature-page-code h3="Java Ukázkový kód pro formáty Excel do PDF a webové" %}}
 
 ```cs
@@ -59,7 +59,7 @@ bk.save("output.md", new MarkdownSaveOptions());
 {{< blocks/products/pf/feature-page-options formats="XPS PDF" beforeslug="convert" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Převeďte JSON na Excel a Excel na JSON" %}}
-Data JSON lze importovat do instance třídy Workbook pomocí [JSONUtility.importData](https://apireference.aspose.com/cells/java/com.aspose.cells/jsonutility#importData) pro další zpracování nebo jednoduchý převod do některého z podporovaných formátů. Podobně lze data listu exportovat jako JSON vytvořením a [Rozsah](https://apireference.aspose.com/cells/java/com.aspose.cells/range) nebo buňky a volání [exportRangeToJson](https://apireference.aspose.com/cells/java/com.aspose.cells/jsonutility) metoda.
+Data JSON lze importovat do instance třídy Workbook pomocí [JSONUtility.importData](https://reference.aspose.com/cells/java/com.aspose.cells/jsonutility#importData) pro další zpracování nebo jednoduchý převod do některého z podporovaných formátů. Podobně lze data listu exportovat jako JSON vytvořením a [Rozsah](https://reference.aspose.com/cells/java/com.aspose.cells/range) nebo buňky a volání [exportRangeToJson](https://reference.aspose.com/cells/java/com.aspose.cells/jsonutility) metoda.
 {{% blocks/products/pf/feature-page-code h3="Java Kód pro převod JSON do Excelu" %}}
 ```cs
 Workbook workbook = new Workbook(path + "source-file.xlsx");
@@ -142,7 +142,7 @@ for (int j = 0; j < sr.getPageCount(); j++) {
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Převeďte Microsoft Excel do Wordu a PowerPointu" %}}
-Při používání je možné načíst jakoukoli tabulku a převést ji na soubory Word DOCX & PowerPoint PPTX [DocxSaveOptions](https://apireference.aspose.com/cells/java/com.aspose.cells/DocxSaveOptions) & [Možnosti PptxSave](https://apireference.aspose.com/cells/java/com.aspose.cells/PptxSaveOptions) třídy, jak je ukázáno níže.
+Při používání je možné načíst jakoukoli tabulku a převést ji na soubory Word DOCX & PowerPoint PPTX [DocxSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/DocxSaveOptions) & [Možnosti PptxSave](https://reference.aspose.com/cells/java/com.aspose.cells/PptxSaveOptions) třídy, jak je ukázáno níže.
 {{% blocks/products/pf/feature-page-code h3="Java Kód pro převod Excelu na Word a PowerPoint" %}}
 ```cs
 // načtěte soubor šablony

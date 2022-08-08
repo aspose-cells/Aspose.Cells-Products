@@ -41,7 +41,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Laden Sie die XLS-Excel-Datei mithilfe des IWorkbook-Klassenobjekts.1. Wählen Sie das entsprechende Blatt aus1. Fügen Sie den Kommentar mit der Add-Methode hinzu1. Legen Sie die Notiz des Kommentars mit der SetNote-Methode fest.1. Speichern Sie die Arbeitsmappe mit [Speichern](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) Methode
+1. Laden Sie die XLS-Excel-Datei mithilfe des IWorkbook-Klassenobjekts.1. Wählen Sie das entsprechende Blatt aus1. Fügen Sie den Kommentar mit der Add-Methode hinzu1. Legen Sie die Notiz des Kommentars mit der SetNote-Methode fest.1. Speichern Sie die Arbeitsmappe mit [Speichern](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) Methode
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

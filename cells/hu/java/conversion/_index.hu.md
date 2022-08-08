@@ -11,7 +11,7 @@ Bármely **Excel-átalakító** alkalmazás vagy megoldás esetén az Java Excel
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Microsoft Excel formátumok interkonvertálása" %}}
-A táblázatformátumok közötti konvertáláshoz csak egy példányt tartalmazó táblázatot kell betölteni [Munkafüzet](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) és visszamenti a kívánt formátumba, miközben kiválasztja a megfelelő értéket [SaveFormat](https://apireference.aspose.com/cells/java/com.aspose.cells/SaveFormat) felsorolás.
+A táblázatformátumok közötti konvertáláshoz csak egy példányt tartalmazó táblázatot kell betölteni [Munkafüzet](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) és visszamenti a kívánt formátumba, miközben kiválasztja a megfelelő értéket [SaveFormat](https://reference.aspose.com/cells/java/com.aspose.cells/SaveFormat) felsorolás.
 {{% blocks/products/pf/feature-page-code h3="Java Példakód az Excel fájlformátum konvertálásához" %}}
 
 ```cs
@@ -30,7 +30,7 @@ wkb.save("fods-output.fods", SaveFormat.FODS);
 
 
 {{% blocks/products/pf/feature-page-section h2="Az Excel konvertálása PDF, XPS, HTML és MD formátumba" %}}
-Speciális osztályok állnak rendelkezésre az átalakítási folyamat vezérlésére meghatározott kimeneti formátumokhoz, mint pl [PdfSaveOptions](https://apireference.aspose.com/cells/java/com.aspose.cells/PdfSaveOptions) az Excel fájlok PDF formátumba konvertálásához, [XpsSaveOptions](https://apireference.aspose.com/cells/java/com.aspose.cells/XpsSaveOptions) az Excel exportálása XPS-ként, [HtmlSaveOptions](https://apireference.aspose.com/cells/java/com.aspose.cells/HtmlSaveOptions) hogy az Excel HTML-ként jelenjen meg és [MarkdownSaveOptions](https://apireference.aspose.com/cells/java/com.aspose.cells/MarkdownSaveOptions) az Excelből Markdown konvertáláshoz. 
+Speciális osztályok állnak rendelkezésre az átalakítási folyamat vezérlésére meghatározott kimeneti formátumokhoz, mint pl [PdfSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/PdfSaveOptions) az Excel fájlok PDF formátumba konvertálásához, [XpsSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/XpsSaveOptions) az Excel exportálása XPS-ként, [HtmlSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/HtmlSaveOptions) hogy az Excel HTML-ként jelenjen meg és [MarkdownSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/MarkdownSaveOptions) az Excelből Markdown konvertáláshoz. 
 {{% blocks/products/pf/feature-page-code h3="Java Mintakód az Excelből PDF-be és webes formátumokba" %}}
 
 ```cs
@@ -59,7 +59,7 @@ bk.save("output.md", new MarkdownSaveOptions());
 {{< blocks/products/pf/feature-page-options formats="XPS PDF" beforeslug="convert" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Konvertálja a JSON-t Excel-be és az Excel-t JSON-ba" %}}
-A JSON-adatok a Workbook osztály egy példányába importálhatók a segítségével [JSONUtility.importData](https://apireference.aspose.com/cells/java/com.aspose.cells/jsonutility#importData) további feldolgozáshoz vagy egyszerű konvertáláshoz a támogatott formátumok bármelyikére. Hasonlóképpen, a munkalapadatok JSON-ként exportálhatók a [Hatótávolság](https://apireference.aspose.com/cells/java/com.aspose.cells/range) vagy sejtek és hívja a [exportRangeToJson](https://apireference.aspose.com/cells/java/com.aspose.cells/jsonutility) módszer.
+A JSON-adatok a Workbook osztály egy példányába importálhatók a segítségével [JSONUtility.importData](https://reference.aspose.com/cells/java/com.aspose.cells/jsonutility#importData) további feldolgozáshoz vagy egyszerű konvertáláshoz a támogatott formátumok bármelyikére. Hasonlóképpen, a munkalapadatok JSON-ként exportálhatók a [Hatótávolság](https://reference.aspose.com/cells/java/com.aspose.cells/range) vagy sejtek és hívja a [exportRangeToJson](https://reference.aspose.com/cells/java/com.aspose.cells/jsonutility) módszer.
 {{% blocks/products/pf/feature-page-code h3="Java Kód a JSON-ból Excel-be való konvertáláshoz" %}}
 ```cs
 Workbook workbook = new Workbook(path + "source-file.xlsx");
@@ -142,7 +142,7 @@ for (int j = 0; j < sr.getPageCount(); j++) {
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
 {{% blocks/products/pf/feature-page-section h2="A Microsoft Excel konvertálása Word és PowerPoint formátumba" %}}
-Lehetőség van bármilyen táblázat betöltésére és Word DOCX és PowerPoint PPTX fájlokká konvertálására használat közben. [DocxSaveOptions](https://apireference.aspose.com/cells/java/com.aspose.cells/DocxSaveOptions) & [PptxSaveOptions](https://apireference.aspose.com/cells/java/com.aspose.cells/PptxSaveOptions) osztályok alább bemutatott módon.
+Lehetőség van bármilyen táblázat betöltésére és Word DOCX és PowerPoint PPTX fájlokká konvertálására használat közben. [DocxSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/DocxSaveOptions) & [PptxSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/PptxSaveOptions) osztályok alább bemutatott módon.
 {{% blocks/products/pf/feature-page-code h3="Java Kód az Excel Word és PowerPoint konvertálásához" %}}
 ```cs
 // töltse be a sablonfájlt

@@ -10,7 +10,7 @@ description: Sloučit soubory Excel pomocí Java do více listů nebo jednoho li
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Kombinujte soubory aplikace Excel s obrázky a grafy" %}}
-Nejjednodušší způsob, jak zkombinovat dva soubory aplikace Excel s obrázky a grafy, je volání [Sešit.kombinovat](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#combine(com.aspose.cells.Workbook)) metoda. Umožňuje sloučit soubory Excel podobného typu do jedné tabulky.
+Nejjednodušší způsob, jak zkombinovat dva soubory aplikace Excel s obrázky a grafy, je volání [Sešit.kombinovat](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#combine(com.aspose.cells.Workbook)) metoda. Umožňuje sloučit soubory Excel podobného typu do jedné tabulky.
 {{% blocks/products/pf/feature-page-code h3="Java Kód pro kombinování souborů aplikace Excel" %}}
 
 ```cs
@@ -29,7 +29,7 @@ book1.save("combined.xlsx");
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="Sloučit více souborů aplikace Excel" %}}
-[CellsHelper.mergeFiles](https://apireference.aspose.com/cells/java/com.aspose.cells/cellshelper#mergeFiles) metoda podporuje sloučení dat, stylu a vzorců souboru Excel do nové tabulky stejného formátu. Je to efektivní způsob, jak sloučit několik souborů při použití ukládání do mezipaměti. 
+[CellsHelper.mergeFiles](https://reference.aspose.com/cells/java/com.aspose.cells/cellshelper#mergeFiles) metoda podporuje sloučení dat, stylu a vzorců souboru Excel do nové tabulky stejného formátu. Je to efektivní způsob, jak sloučit několik souborů při použití ukládání do mezipaměti. 
 {{% blocks/products/pf/feature-page-code h3="Java Kód pro sloučení několika souborů aplikace Excel" %}}
 
 ```cs
@@ -47,7 +47,7 @@ CellsHelper.mergeFiles(files, "cache", "merged.xls");
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="Sloučení souborů aplikace Excel zkopírováním pracovních listů" %}}
-[Worksheet.copy](https://apireference.aspose.com/cells/java/com.aspose.cells/worksheet#copy(com.aspose.cells.Worksheet)lze použít ke kopírování dat a formátování ze zdrojového listu do jiného listu v rámci nebo mezi sešity. Metoda bere jako parametr objekt zdrojového listu.
+[Worksheet.copy](https://reference.aspose.com/cells/java/com.aspose.cells/worksheet#copy(com.aspose.cells.Worksheet)lze použít ke kopírování dat a formátování ze zdrojového listu do jiného listu v rámci nebo mezi sešity. Metoda bere jako parametr objekt zdrojového listu.
 {{% blocks/products/pf/feature-page-code h3="Java Kód pro kopírování sešitů mezi sešity" %}}
 
 ```cs

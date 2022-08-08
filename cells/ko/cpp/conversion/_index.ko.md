@@ -11,7 +11,7 @@ description: 몇 줄의 C++ 코드로 Excel XLS, XLSX, ODS, CSV를 PDF, XPS, HTM
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Microsoft Excel 형식의 상호 변환" %}}
-스프레드시트 형식의 상호 변환은 다음 인스턴스가 있는 스프레드시트를 로드하기만 하면 됩니다. [ intrusive_ptr<Aspose::Cells::IWorkbook>](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) 포인터를 사용하여 원하는 형식으로 다시 저장 [구하다](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997) 의 방법 [아이워크북 클래스](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook).
+스프레드시트 형식의 상호 변환은 다음 인스턴스가 있는 스프레드시트를 로드하기만 하면 됩니다. [ intrusive_ptr<Aspose::Cells::IWorkbook>](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) 포인터를 사용하여 원하는 형식으로 다시 저장 [구하다](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997) 의 방법 [아이워크북 클래스](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook).
 {{% blocks/products/pf/feature-page-code h3="C++ Excel 파일 형식 변환을 위한 예제 코드" %}}
 
 ```cs
@@ -30,7 +30,7 @@ wkb->Save(u"output_excel_format.xlsx", SaveFormat_Xlsx);
 
 
 {{% blocks/products/pf/feature-page-section h2="준수 수준 설정을 사용하여 Excel 형식을 PDF로 변환" %}}
-C++ Excel 자동화API는 통합 문서를 PDF로 변환하고 규정 준수 수준 및 생성 날짜 설정을 지원합니다. 개발자가 사용할 수 있는 [IPdfSave 옵션](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_pdf_save_options) 와 함께 [Aspose::Cells::렌더링](https://apireference.aspose.com/cells/cpp/namespace/aspose.cells.rendering) PDF 준수를 설정합니다. 변환을 위해 API PdfSaveOptions를 매개변수로 갖는 저장 메소드와 지정된 출력 파일 경로. 
+C++ Excel 자동화API는 통합 문서를 PDF로 변환하고 규정 준수 수준 및 생성 날짜 설정을 지원합니다. 개발자가 사용할 수 있는 [IPdfSave 옵션](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_pdf_save_options) 와 함께 [Aspose::Cells::렌더링](https://reference.aspose.com/cells/cpp/namespace/aspose.cells.rendering) PDF 준수를 설정합니다. 변환을 위해 API PdfSaveOptions를 매개변수로 갖는 저장 메소드와 지정된 출력 파일 경로. 
 {{% blocks/products/pf/feature-page-code h3="C++ Excel에서 PDF로 변환을 위한 샘플 코드" %}}
 
 ```cs
@@ -58,7 +58,7 @@ wkb->Save(u"output-converted-excel-workbook-to.pdf", pdfSaveOptions);
 {{< blocks/products/pf/feature-page-options formats="PDF" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Excel을 이미지에 저장" %}}
-**C++ Excel 파서**에는 데이터를 이미지 형식으로 내보낼 수 있는 기능이 있습니다. 각 워크시트는 BMP, JPEG, PNG 및 GIF를 포함한 다양한 이미지 형식으로 변환할 수 있습니다. [렌더링::IImageOrPrintOptions](https://apireference.aspose.com/cells/cpp/class/aspose.cells.rendering.i_image_or_print_options). **Excel을 이미지로 변환** 사례의 경우 링크에서 관련 사례를 선택합니다.
+**C++ Excel 파서**에는 데이터를 이미지 형식으로 내보낼 수 있는 기능이 있습니다. 각 워크시트는 BMP, JPEG, PNG 및 GIF를 포함한 다양한 이미지 형식으로 변환할 수 있습니다. [렌더링::IImageOrPrintOptions](https://reference.aspose.com/cells/cpp/class/aspose.cells.rendering.i_image_or_print_options). **Excel을 이미지로 변환** 사례의 경우 링크에서 관련 사례를 선택합니다.
 {{% blocks/products/pf/feature-page-code h3="C++ Excel에서 이미지로 변환하는 코드" %}}
 
 ```cs

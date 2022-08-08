@@ -49,7 +49,7 @@ PM> Install-Package Aspose.Cells
 + Tải tệp ODS với đường dẫn đầy đủ để tách.
 + Lặp đi lặp lại từng trang tính
 + Tạo một đối tượng lớp Workbook mới
-+ Sao chép trang tính qua [Sao chép phương pháp](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
++ Sao chép trang tính qua [Sao chép phương pháp](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
 + Gọi phương thức Save () và truyền tên tệp (đường dẫn đầy đủ) và tham số SaveFormat.Ods làm tham số. 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

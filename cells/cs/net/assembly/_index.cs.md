@@ -11,7 +11,7 @@ description: Vygenerujte tabulky Microsoft Excel ze šablony pomocí kódu C#
 
 {{% blocks/products/pf/feature-page-section h2="Vytvářejte sestavy na základě předem navržené šablony aplikace Excel" %}}
 
-Automatizaci procesu vytváření stejných souborů vzorů je snadné pomocí .NETSestavení API. Existují různé způsoby, jak [importovat data](https://docs.aspose.com/cells/net/import-data-into-worksheet/#importing-data-from-json) a generovat soubory Excel. API poskytuje a [WorkbookDesigner třída](https://apireference.aspose.com/cells/net/aspose.cells/workbookdesigner) reprezentovat pracovní list návrháře. Vytvořte jeho objekt a použijte jej k otevření souboru šablony. Nastavte zdroj dat, kterým může být DataTable, Array, soubor Json atd. Zpracujte jej pro import dat a uložte soubor s daty v požadovaném formátu. Programátoři mohou sestavovat data do zpráv v jiných formátech souborů podle níže uvedených odkazů.
+Automatizaci procesu vytváření stejných souborů vzorů je snadné pomocí .NETSestavení API. Existují různé způsoby, jak [importovat data](https://docs.aspose.com/cells/net/import-data-into-worksheet/#importing-data-from-json) a generovat soubory Excel. API poskytuje a [WorkbookDesigner třída](https://reference.aspose.com/cells/net/aspose.cells/workbookdesigner) reprezentovat pracovní list návrháře. Vytvořte jeho objekt a použijte jej k otevření souboru šablony. Nastavte zdroj dat, kterým může být DataTable, Array, soubor Json atd. Zpracujte jej pro import dat a uložte soubor s daty v požadovaném formátu. Programátoři mohou sestavovat data do zpráv v jiných formátech souborů podle níže uvedených odkazů.
 
 
 

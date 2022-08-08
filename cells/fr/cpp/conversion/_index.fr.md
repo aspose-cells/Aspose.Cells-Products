@@ -11,7 +11,7 @@ Pour toute application ou solution de conversion de feuille de calcul, **C++ Bi
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Inter-conversion des formats Microsoft Excel" %}}
-L'inter-conversion du format de feuille de calcul nécessite uniquement le chargement d'une feuille de calcul avec une instance de [ intrusive_ptr<Aspose::Cells::IWorkbook>](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) pointeur et réenregistrer au format souhaité à l'aide de [Sauver](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997) méthode de [Classe IWorkbook](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook).
+L'inter-conversion du format de feuille de calcul nécessite uniquement le chargement d'une feuille de calcul avec une instance de [ intrusive_ptr<Aspose::Cells::IWorkbook>](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) pointeur et réenregistrer au format souhaité à l'aide de [Sauver](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997) méthode de [Classe IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook).
 {{% blocks/products/pf/feature-page-code h3="C++ Exemple de code pour la conversion du format de fichier Excel" %}}
 
 ```cs
@@ -30,7 +30,7 @@ wkb->Save(u"output_excel_format.xlsx", SaveFormat_Xlsx);
 
 
 {{% blocks/products/pf/feature-page-section h2="Convertir des formats Excel en PDF avec les paramètres de niveau de conformité" %}}
-C++Excel AutomationAPI prend en charge la conversion des classeurs au format PDF ainsi que la prise en charge de la définition du niveau de conformité et de la date de création. Les développeurs peuvent utiliser [IPdfSaveOptionsIPdfSaveOptionsIPdfSaveOptions](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_pdf_save_options) de même que [Aspose::Cells::Rendu](https://apireference.aspose.com/cells/cpp/namespace/aspose.cells.rendering) pour définir la conformité PDF. Pour la conversion, API méthode de sauvegarde ayant PdfSaveOptions comme paramètre et le chemin du fichier de sortie spécifié. 
+C++Excel AutomationAPI prend en charge la conversion des classeurs au format PDF ainsi que la prise en charge de la définition du niveau de conformité et de la date de création. Les développeurs peuvent utiliser [IPdfSaveOptionsIPdfSaveOptionsIPdfSaveOptions](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_pdf_save_options) de même que [Aspose::Cells::Rendu](https://reference.aspose.com/cells/cpp/namespace/aspose.cells.rendering) pour définir la conformité PDF. Pour la conversion, API méthode de sauvegarde ayant PdfSaveOptions comme paramètre et le chemin du fichier de sortie spécifié. 
 {{% blocks/products/pf/feature-page-code h3="C++ Exemple de code pour la conversion d\'Excel en PDF" %}}
 
 ```cs
@@ -58,7 +58,7 @@ wkb->Save(u"output-converted-excel-workbook-to.pdf", pdfSaveOptions);
 {{< blocks/products/pf/feature-page-options formats="PDF" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Enregistrer Excel dans les images" %}}
-**C++Excel Parser** a la capacité d'exporter des données sous forme d'images. Chaque feuille de calcul peut être convertie en différents formats d'image, notamment BMP, JPEG, PNG et GIF, définis par le [Rendu ::IImageOrPrintOptions](https://apireference.aspose.com/cells/cpp/class/aspose.cells.rendering.i_image_or_print_options). Pour tout cas **Convertir Excel en images**, sélectionnez le cas pertinent à partir des liens.
+**C++Excel Parser** a la capacité d'exporter des données sous forme d'images. Chaque feuille de calcul peut être convertie en différents formats d'image, notamment BMP, JPEG, PNG et GIF, définis par le [Rendu ::IImageOrPrintOptions](https://reference.aspose.com/cells/cpp/class/aspose.cells.rendering.i_image_or_print_options). Pour tout cas **Convertir Excel en images**, sélectionnez le cas pertinent à partir des liens.
 {{% blocks/products/pf/feature-page-code h3="C++ Code pour la conversion d\'Excel en image" %}}
 
 ```cs

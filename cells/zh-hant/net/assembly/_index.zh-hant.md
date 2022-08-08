@@ -11,7 +11,7 @@ description: 使用 C# 代碼從模板表生成 Microsoft Excel 電子表格
 
 {{% blocks/products/pf/feature-page-section h2="基於預先設計的 Excel 模板創建報告" %}}
 
-使用 .NETAssembly API 可以輕鬆自動創建相同的模式文件。有不同的方法可以 [導入數據](https://docs.aspose.com/cells/net/import-data-into-worksheet/#importing-data-from-json) 並生成 Excel 文件。 API 提供了一個 [WorkbookDesigner 類](https://apireference.aspose.com/cells/net/aspose.cells/workbookdesigner) 表示設計器工作表。創建它的對象並使用它來打開模板文件。設置數據源，可以是DataTable，Array，Json文件等。處理它以導入數據並以所需格式保存數據文件。程序員可以按照下面列出的鏈接將數據組裝成其他文件格式的報告。
+使用 .NETAssembly API 可以輕鬆自動創建相同的模式文件。有不同的方法可以 [導入數據](https://docs.aspose.com/cells/net/import-data-into-worksheet/#importing-data-from-json) 並生成 Excel 文件。 API 提供了一個 [WorkbookDesigner 類](https://reference.aspose.com/cells/net/aspose.cells/workbookdesigner) 表示設計器工作表。創建它的對象並使用它來打開模板文件。設置數據源，可以是DataTable，Array，Json文件等。處理它以導入數據並以所需格式保存數據文件。程序員可以按照下面列出的鏈接將數據組裝成其他文件格式的報告。
 
 
 

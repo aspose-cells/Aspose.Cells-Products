@@ -11,7 +11,7 @@ För alla **Excel-omvandlare**-applikationer eller -lösningar snabbar Java Exce
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Interkonvertering av Microsoft Excel-format" %}}
-Interkonvertering av kalkylarksformat kräver bara att ett kalkylblad laddas med en instans av [Arbetsbok](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) och spara tillbaka i önskat format samtidigt som du väljer lämpligt värde från [SaveFormat](https://apireference.aspose.com/cells/java/com.aspose.cells/SaveFormat) uppräkning.
+Interkonvertering av kalkylarksformat kräver bara att ett kalkylblad laddas med en instans av [Arbetsbok](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) och spara tillbaka i önskat format samtidigt som du väljer lämpligt värde från [SaveFormat](https://reference.aspose.com/cells/java/com.aspose.cells/SaveFormat) uppräkning.
 {{% blocks/products/pf/feature-page-code h3="Java Exempelkod för konvertering av Excel-filformat" %}}
 
 ```cs
@@ -30,7 +30,7 @@ wkb.save("fods-output.fods", SaveFormat.FODS);
 
 
 {{% blocks/products/pf/feature-page-section h2="Konvertera Excel till PDF, XPS, HTML och MD" %}}
-Specialiserade klasser finns tillgängliga för att styra konverteringsprocessen för specifika utdataformat som t.ex [PdfSaveOptions](https://apireference.aspose.com/cells/java/com.aspose.cells/PdfSaveOptions) för att konvertera Excel-filer som PDF, [XpsSaveOptions](https://apireference.aspose.com/cells/java/com.aspose.cells/XpsSaveOptions) för att exportera Excel som XPS, [HtmlSaveOptions](https://apireference.aspose.com/cells/java/com.aspose.cells/HtmlSaveOptions) att rendera Excel som HTML och [MarkdownSaveOptions](https://apireference.aspose.com/cells/java/com.aspose.cells/MarkdownSaveOptions) för Excel till Markdown-konvertering. 
+Specialiserade klasser finns tillgängliga för att styra konverteringsprocessen för specifika utdataformat som t.ex [PdfSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/PdfSaveOptions) för att konvertera Excel-filer som PDF, [XpsSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/XpsSaveOptions) för att exportera Excel som XPS, [HtmlSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/HtmlSaveOptions) att rendera Excel som HTML och [MarkdownSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/MarkdownSaveOptions) för Excel till Markdown-konvertering. 
 {{% blocks/products/pf/feature-page-code h3="Java Exempelkod för Excel till PDF- och webbformat" %}}
 
 ```cs
@@ -59,7 +59,7 @@ bk.save("output.md", new MarkdownSaveOptions());
 {{< blocks/products/pf/feature-page-options formats="XPS PDF" beforeslug="convert" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Konvertera JSON till Excel och Excel till JSON" %}}
-JSON-data kan importeras till en instans av Workbook-klassen med hjälp av [JSONUtility.importData](https://apireference.aspose.com/cells/java/com.aspose.cells/jsonutility#importData) för vidare bearbetning eller enkel konvertering till något av de format som stöds. På liknande sätt kan kalkylbladsdata exporteras som JSON genom att skapa en [Räckvidd](https://apireference.aspose.com/cells/java/com.aspose.cells/range) eller celler och ringer till [exportRangeToJson](https://apireference.aspose.com/cells/java/com.aspose.cells/jsonutility) metod.
+JSON-data kan importeras till en instans av Workbook-klassen med hjälp av [JSONUtility.importData](https://reference.aspose.com/cells/java/com.aspose.cells/jsonutility#importData) för vidare bearbetning eller enkel konvertering till något av de format som stöds. På liknande sätt kan kalkylbladsdata exporteras som JSON genom att skapa en [Räckvidd](https://reference.aspose.com/cells/java/com.aspose.cells/range) eller celler och ringer till [exportRangeToJson](https://reference.aspose.com/cells/java/com.aspose.cells/jsonutility) metod.
 {{% blocks/products/pf/feature-page-code h3="Java Kod för JSON till Excel-konvertering" %}}
 ```cs
 Workbook workbook = new Workbook(path + "source-file.xlsx");
@@ -142,7 +142,7 @@ for (int j = 0; j < sr.getPageCount(); j++) {
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Konvertera Microsoft Excel till Word och PowerPoint" %}}
-Det är möjligt att ladda vilket kalkylblad som helst och konvertera det till Word DOCX- och PowerPoint PPTX-filer medan du använder det [DocxSaveOptions](https://apireference.aspose.com/cells/java/com.aspose.cells/DocxSaveOptions) & [PptxSaveOptions](https://apireference.aspose.com/cells/java/com.aspose.cells/PptxSaveOptions) klasser som visas nedan.
+Det är möjligt att ladda vilket kalkylblad som helst och konvertera det till Word DOCX- och PowerPoint PPTX-filer medan du använder det [DocxSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/DocxSaveOptions) & [PptxSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/PptxSaveOptions) klasser som visas nedan.
 {{% blocks/products/pf/feature-page-code h3="Java Kod för konvertering av Excel till Word och PowerPoint" %}}
 ```cs
 // ladda mallfilen

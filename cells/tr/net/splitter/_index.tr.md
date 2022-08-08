@@ -10,12 +10,12 @@ description: Microsoft Excel dosyalarının Visual C#.NET uygulamalarında birde
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Excel Belgesini Birden Çok Dosyaya Böl" %}}
-Excel dosyalarını akıllıca bölmenin en basit yolu, Tüm sayfalara [çalışma sayfaları](https://apireference.aspose.com/cells/net/aspose.cells/workbook/properties/worksheets), Her sayfada yineleme ve [kopyala](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy) yöntem. Sonunda belirtilen bir yola kaydetme. 
+Excel dosyalarını akıllıca bölmenin en basit yolu, Tüm sayfalara [çalışma sayfaları](https://reference.aspose.com/cells/net/aspose.cells/workbook/properties/worksheets), Her sayfada yineleme ve [kopyala](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy) yöntem. Sonunda belirtilen bir yola kaydetme. 
 
-+ Kullanarak Excel dosyasını tam yolla yükleyin [çalışma kitabı sınıfı](https://apireference.aspose.com/cells/net/aspose.cells/workbook).
++ Kullanarak Excel dosyasını tam yolla yükleyin [çalışma kitabı sınıfı](https://reference.aspose.com/cells/net/aspose.cells/workbook).
 + Her sayfada yineleme
 + Yeni bir Çalışma Kitabı sınıfı nesnesi oluşturun
-+ Sayfayı şu yolla kopyalayın: [Kopyalama yöntemi](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
++ Sayfayı şu yolla kopyalayın: [Kopyalama yöntemi](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
 + Save() yöntemini çağırın ve ilgili SaveFormat'a sahip dosya adını (tam yol) iletin.
 
 {{% blocks/products/pf/feature-page-code h3="C# Excel Dosyalarını Bölmek İçin Kod" %}}
@@ -29,7 +29,7 @@ Excel dosyalarını akıllıca bölmenin en basit yolu, Tüm sayfalara [çalış
 
 {{% blocks/products/pf/feature-page-section h2="Excel Çalışma Sayfasını Bölmelere Böl" %}}
 
-Çalışma sayfası penceresini bölmelere bölmek için API şunları sağlar: [Bölme yöntemi](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/split) Çalışma sayfasının bölünmüş görünümünü sağlayan çalışma sayfası sınıfının. Bölünmüş görünümü kaldırmak için API şunları sağlar: [RemoveSplit yöntemi](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/removesplit). Sonunda belirtilen bir yola kaydedin. 
+Çalışma sayfası penceresini bölmelere bölmek için API şunları sağlar: [Bölme yöntemi](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/split) Çalışma sayfasının bölünmüş görünümünü sağlayan çalışma sayfası sınıfının. Bölünmüş görünümü kaldırmak için API şunları sağlar: [RemoveSplit yöntemi](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/removesplit). Sonunda belirtilen bir yola kaydedin. 
 
 {{% blocks/products/pf/feature-page-code h3="C# Excel Çalışma Sayfası Penceresini Bölmek İçin Kod" %}}
 

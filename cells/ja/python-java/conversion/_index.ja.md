@@ -11,7 +11,7 @@ Python Excelライブラリは、XLS、XLSX、XLSM、XLSB、XLTX、XLTM、CSV、
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="ExcelをXLSX、ODS、SXC、FODSに変換する" %}}
-スプレッドシート形式の相互変換では、次のインスタンスを含むスプレッドシートを読み込むだけで済みます。 [ワークブック](https://apireference.aspose.com/cells/python/asposecells.api/Workbook) から適切な値を選択しながら、目的の形式で保存し直します [SaveFormat](https://apireference.aspose.com/cells/python/asposecells.api/saveformat) 列挙。
+スプレッドシート形式の相互変換では、次のインスタンスを含むスプレッドシートを読み込むだけで済みます。 [ワークブック](https://reference.aspose.com/cells/python/asposecells.api/Workbook) から適切な値を選択しながら、目的の形式で保存し直します [SaveFormat](https://reference.aspose.com/cells/python/asposecells.api/saveformat) 列挙。
 {{% blocks/products/pf/feature-page-code h3="PythonExcelファイル形式変換のコード" %}}
 
 ```cs
@@ -31,7 +31,7 @@ workbook.save("output.fods", SaveFormat.FODS);
 
 
 {{% blocks/products/pf/feature-page-section h2="ExcelをPDF、XPS、HTML、MDに変換する" %}}
-特殊なクラスを使用して、次のような特定の出力形式の変換プロセスを制御できます。 [PdfSaveOptions](https://apireference.aspose.com/cells/python/asposecells.api/PdfSaveOptions) ExcelファイルをPDFとしてエクスポートするには、 [XpsSaveOptions](https://apireference.aspose.com/cells/python/asposecells.api/XpsSaveOptions) ExcelからXPSへの変換の場合、 [HtmlSaveOptions](https://apireference.aspose.com/cells/python/asposecells.api/HtmlSaveOptions) ExcelをHTMLとしてレンダリングし、 [MarkdownSaveOptions](https://apireference.aspose.com/cells/python/asposecells.api/MarkdownSaveOptions) ExcelからMarkdownへの変換用。 
+特殊なクラスを使用して、次のような特定の出力形式の変換プロセスを制御できます。 [PdfSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/PdfSaveOptions) ExcelファイルをPDFとしてエクスポートするには、 [XpsSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/XpsSaveOptions) ExcelからXPSへの変換の場合、 [HtmlSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/HtmlSaveOptions) ExcelをHTMLとしてレンダリングし、 [MarkdownSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/MarkdownSaveOptions) ExcelからMarkdownへの変換用。 
 {{% blocks/products/pf/feature-page-code h3="PythonExcelからPDFおよびWeb形式へのコード" %}}
 
 ```cs
@@ -90,7 +90,7 @@ workbook.save("Data.json")
 {{< blocks/products/pf/feature-page-options pairs="json-to-xlsx json-to-ods json-to-csv json-to-dif json-to-html csv-to-json xls-to-json ods-to-json" >}}
 
 {{% blocks/products/pf/feature-page-section h2="ExcelワークシートをJPG、BMP、PNG、GIFに変換します" %}}
-Excelファイルの各ワークシートは、さまざまな画像形式に変換できます。 [ImageOrPrintOptions](https://apireference.aspose.com/cells/python/asposecells.api/ImageOrPrintOptions).setImageFormatを使用して、画像形式を設定します。 
+Excelファイルの各ワークシートは、さまざまな画像形式に変換できます。 [ImageOrPrintOptions](https://reference.aspose.com/cells/python/asposecells.api/ImageOrPrintOptions).setImageFormatを使用して、画像形式を設定します。 
 {{% blocks/products/pf/feature-page-code h3="PythonExcelから画像への変換のコード" %}}
 ```cs
 // テンプレートスプレッドシートを読み込む
@@ -112,7 +112,7 @@ sr.toImage(0, "output.jpg")
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
 {{% blocks/products/pf/feature-page-section h2="ExcelをWordとPowerPointに変換する" %}}
-を使用しながら、任意のスプレッドシートをロードして、WordDOCXおよびPowerPointPPTXファイルに変換することができます。 [DocxSaveOptions](https://apireference.aspose.com/cells/python/asposecells.api/DocxSaveOptions) ＆ [PptxSaveOptions](https://apireference.aspose.com/cells/python/asposecells.api/PptxSaveOptions) 以下に示すようなクラス。
+を使用しながら、任意のスプレッドシートをロードして、WordDOCXおよびPowerPointPPTXファイルに変換することができます。 [DocxSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/DocxSaveOptions) ＆ [PptxSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/PptxSaveOptions) 以下に示すようなクラス。
 {{% blocks/products/pf/feature-page-code h3="ExcelからWordおよびPowerPointへの変換のPythonコード" %}}
 ```cs
 // テンプレートファイルをロードする

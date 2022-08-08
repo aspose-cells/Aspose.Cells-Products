@@ -48,7 +48,7 @@ PM> Install-Package Aspose.Cells
 + Załaduj plik XLSM z pełną ścieżką do podziału.
 + Iteruj przez każdy arkusz
 + Utwórz nowy obiekt klasy Workbook
-+ Skopiuj arkusz przez [Metoda kopiowania](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
++ Skopiuj arkusz przez [Metoda kopiowania](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
 + Wywołaj metodę Save() i przekaż nazwę pliku (pełna ścieżka) oraz SaveFormat.Xlsm jako parametr.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

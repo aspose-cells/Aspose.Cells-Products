@@ -41,7 +41,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. IWorkbookクラスオブジェクトを使用してODSExcelファイルをロードします。1. 関連するシートを選択してください1. Addメソッドを使用してコメントを追加します1. SetNoteメソッドを使用してコメントのメモを設定します。1. を使用してブックを保存します [保存する](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) 方法
+1. IWorkbookクラスオブジェクトを使用してODSExcelファイルをロードします。1. 関連するシートを選択してください1. Addメソッドを使用してコメントを追加します1. SetNoteメソッドを使用してコメントのメモを設定します。1. を使用してブックを保存します [保存する](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) 方法
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="システム要求" %}}

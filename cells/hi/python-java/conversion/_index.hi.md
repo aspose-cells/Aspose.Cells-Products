@@ -11,7 +11,7 @@ Python एक्सेल लाइब्रेरी एक्सएलएस, 
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="एक्सेल को XLSX, ODS, SXC और FODS में बदलें" %}}
-स्प्रैडशीट प्रारूप के अंतर-रूपांतरण के लिए केवल एक स्प्रैडशीट लोड करने की आवश्यकता होती है जिसका उदाहरण: [वर्कबुक](https://apireference.aspose.com/cells/python/asposecells.api/Workbook) और से उचित मूल्य का चयन करते हुए वांछित प्रारूप में वापस सहेजना [प्रारूप सहेजें](https://apireference.aspose.com/cells/python/asposecells.api/saveformat) गणना
+स्प्रैडशीट प्रारूप के अंतर-रूपांतरण के लिए केवल एक स्प्रैडशीट लोड करने की आवश्यकता होती है जिसका उदाहरण: [वर्कबुक](https://reference.aspose.com/cells/python/asposecells.api/Workbook) और से उचित मूल्य का चयन करते हुए वांछित प्रारूप में वापस सहेजना [प्रारूप सहेजें](https://reference.aspose.com/cells/python/asposecells.api/saveformat) गणना
 {{% blocks/products/pf/feature-page-code h3="Python एक्सेल फ़ाइल स्वरूप रूपांतरण के लिए कोड" %}}
 
 ```cs
@@ -31,7 +31,7 @@ workbook.save("output.fods", SaveFormat.FODS);
 
 
 {{% blocks/products/pf/feature-page-section h2="एक्सेल को पीडीएफ, एक्सपीएस, एचटीएमएल और एमडी में बदलें" %}}
-विशिष्ट आउटपुट स्वरूपों के लिए रूपांतरण प्रक्रिया को नियंत्रित करने के लिए विशिष्ट वर्ग उपलब्ध हैं जैसे कि [पीडीएफ सेव विकल्प](https://apireference.aspose.com/cells/python/asposecells.api/PdfSaveOptions) एक्सेल फाइलों को पीडीएफ के रूप में निर्यात करने के लिए, [एक्सपीएससेवविकल्प](https://apireference.aspose.com/cells/python/asposecells.api/XpsSaveOptions) एक्सेल से एक्सपीएस रूपांतरण के लिए, [एचटीएमएल सेव विकल्प](https://apireference.aspose.com/cells/python/asposecells.api/HtmlSaveOptions) एक्सेल को HTML के रूप में प्रस्तुत करने के लिए और [मार्कडाउन सेव विकल्प](https://apireference.aspose.com/cells/python/asposecells.api/MarkdownSaveOptions) एक्सेल से मार्कडाउन रूपांतरण के लिए। 
+विशिष्ट आउटपुट स्वरूपों के लिए रूपांतरण प्रक्रिया को नियंत्रित करने के लिए विशिष्ट वर्ग उपलब्ध हैं जैसे कि [पीडीएफ सेव विकल्प](https://reference.aspose.com/cells/python/asposecells.api/PdfSaveOptions) एक्सेल फाइलों को पीडीएफ के रूप में निर्यात करने के लिए, [एक्सपीएससेवविकल्प](https://reference.aspose.com/cells/python/asposecells.api/XpsSaveOptions) एक्सेल से एक्सपीएस रूपांतरण के लिए, [एचटीएमएल सेव विकल्प](https://reference.aspose.com/cells/python/asposecells.api/HtmlSaveOptions) एक्सेल को HTML के रूप में प्रस्तुत करने के लिए और [मार्कडाउन सेव विकल्प](https://reference.aspose.com/cells/python/asposecells.api/MarkdownSaveOptions) एक्सेल से मार्कडाउन रूपांतरण के लिए। 
 {{% blocks/products/pf/feature-page-code h3="Python एक्सेल से पीडीएफ और वेब प्रारूपों के लिए कोड" %}}
 
 ```cs
@@ -90,7 +90,7 @@ workbook.save("Data.json")
 {{< blocks/products/pf/feature-page-options pairs="json-to-xlsx json-to-ods json-to-csv json-to-dif json-to-html csv-to-json xls-to-json ods-to-json" >}}
 
 {{% blocks/products/pf/feature-page-section h2="एक्सेल वर्कशीट को जेपीजी, बीएमपी, पीएनजी और जीआईएफ में बदलें" %}}
-एक्सेल फ़ाइल की प्रत्येक वर्कशीट को विभिन्न छवि प्रारूपों में परिवर्तित किया जा सकता है, कॉल करें [इमेजऑरप्रिंटविकल्प](https://apireference.aspose.com/cells/python/asposecells.api/ImageOrPrintOptions).setImageFormat छवि प्रारूप सेट करने के लिए। 
+एक्सेल फ़ाइल की प्रत्येक वर्कशीट को विभिन्न छवि प्रारूपों में परिवर्तित किया जा सकता है, कॉल करें [इमेजऑरप्रिंटविकल्प](https://reference.aspose.com/cells/python/asposecells.api/ImageOrPrintOptions).setImageFormat छवि प्रारूप सेट करने के लिए। 
 {{% blocks/products/pf/feature-page-code h3="Python एक्सेल से छवि रूपांतरण के लिए कोड" %}}
 ```cs
 // टेम्पलेट स्प्रैडशीट लोड करें
@@ -112,7 +112,7 @@ sr.toImage(0, "output.jpg")
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
 {{% blocks/products/pf/feature-page-section h2="एक्सेल को वर्ड और पॉवरपॉइंट में बदलें" %}}
-उपयोग करते समय किसी भी स्प्रैडशीट को लोड करना और उसे Word DOCX और PowerPoint PPTX फ़ाइलों में बदलना संभव है [DocxSaveOptions](https://apireference.aspose.com/cells/python/asposecells.api/DocxSaveOptions) और [पीपीटीएक्स सेव विकल्प](https://apireference.aspose.com/cells/python/asposecells.api/PptxSaveOptions) नीचे दिखाए गए अनुसार कक्षाएं।
+उपयोग करते समय किसी भी स्प्रैडशीट को लोड करना और उसे Word DOCX और PowerPoint PPTX फ़ाइलों में बदलना संभव है [DocxSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/DocxSaveOptions) और [पीपीटीएक्स सेव विकल्प](https://reference.aspose.com/cells/python/asposecells.api/PptxSaveOptions) नीचे दिखाए गए अनुसार कक्षाएं।
 {{% blocks/products/pf/feature-page-code h3="Python एक्सेल से वर्ड और पॉवरपॉइंट रूपांतरण के लिए कोड" %}}
 ```cs
 // टेम्पलेट फ़ाइल लोड करें

@@ -11,7 +11,7 @@ description: قم بإنشاء جداول بيانات Microsoft Excel من ور
 
 {{% blocks/products/pf/feature-page-section h2="إنشاء تقارير بناءً على قالب Excel المصمم مسبقًا" %}}
 
-لأتمتة عملية إنشاء ملفات النمط نفسها ، من السهل استخدام .NET التجميع API. هناك طرق مختلفة ل [بيانات الاستيراد](https://docs.aspose.com/cells/net/import-data-into-worksheet/#importing-data-from-json) وإنشاء ملفات Excel. API يوفر ملف [فئة مصمم المصنف](https://apireference.aspose.com/cells/net/aspose.cells/workbookdesigner) لتمثيل ورقة عمل المصمم. قم بإنشاء الكائن الخاص به واستخدمه لفتح ملف القالب. قم بتعيين مصدر البيانات ، الذي قد يكون DataTable أو Array أو ملف Json وما إلى ذلك ، قم بمعالجته لاستيراد البيانات وحفظ الملف بالبيانات بالتنسيق المطلوب. يمكن للمبرمجين تجميع البيانات في تقارير بتنسيقات ملفات أخرى كما هو الحال في الروابط المدرجة أدناه.
+لأتمتة عملية إنشاء ملفات النمط نفسها ، من السهل استخدام .NET التجميع API. هناك طرق مختلفة ل [بيانات الاستيراد](https://docs.aspose.com/cells/net/import-data-into-worksheet/#importing-data-from-json) وإنشاء ملفات Excel. API يوفر ملف [فئة مصمم المصنف](https://reference.aspose.com/cells/net/aspose.cells/workbookdesigner) لتمثيل ورقة عمل المصمم. قم بإنشاء الكائن الخاص به واستخدمه لفتح ملف القالب. قم بتعيين مصدر البيانات ، الذي قد يكون DataTable أو Array أو ملف Json وما إلى ذلك ، قم بمعالجته لاستيراد البيانات وحفظ الملف بالبيانات بالتنسيق المطلوب. يمكن للمبرمجين تجميع البيانات في تقارير بتنسيقات ملفات أخرى كما هو الحال في الروابط المدرجة أدناه.
 
 
 

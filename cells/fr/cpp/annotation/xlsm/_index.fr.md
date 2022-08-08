@@ -41,7 +41,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Chargez le fichier Excel XLSM à l'aide de l'objet de classe IWorkbook.1. Sélectionnez la feuille appropriée1. Ajouter le commentaire à l'aide de la méthode Add1. Définissez la note du commentaire à l'aide de la méthode SetNote.1. Enregistrez le classeur à l'aide de [Sauver](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) méthode
+1. Chargez le fichier Excel XLSM à l'aide de l'objet de classe IWorkbook.1. Sélectionnez la feuille appropriée1. Ajouter le commentaire à l'aide de la méthode Add1. Définissez la note du commentaire à l'aide de la méthode SetNote.1. Enregistrez le classeur à l'aide de [Sauver](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) méthode
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

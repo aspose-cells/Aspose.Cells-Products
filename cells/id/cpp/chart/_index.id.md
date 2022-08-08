@@ -9,12 +9,12 @@ description: C++ kode sumber untuk menggambar dan mengonversi bagan atau diagram
 {{% blocks/products/pf/feature-page-summary %}}
 
 Menggunakan grafik Excel, seseorang bisa mendapatkan gambaran yang lebih besar dan menganalisis data dengan mudah untuk mengambil keputusan yang tepat. [C++ Perpustakaan Excel](/cells/cpp/) mendukung pembuatan bagan berbeda yang terdaftar oleh [enum Aspose::Cells::Charts::ChartType
-](https://apireference.aspose.com/cells/cpp/namespace/aspose.cells.charts#a2f17e69bcefc754569019185d0621b70) termasuk area, bar, pie, piramida, grafik garis dan gelembung. Selain itu, Untuk konversi bagan ke gambar, API menyediakan [Metode ToImage](https://apireference.aspose.com/cells/cpp/class/aspose.cells.charts.i_sparkline#a28d76dd585c48366e1657f2982722ddb) ke dalam format gambar yang diperlukan.
+](https://reference.aspose.com/cells/cpp/namespace/aspose.cells.charts#a2f17e69bcefc754569019185d0621b70) termasuk area, bar, pie, piramida, grafik garis dan gelembung. Selain itu, Untuk konversi bagan ke gambar, API menyediakan [Metode ToImage](https://reference.aspose.com/cells/cpp/class/aspose.cells.charts.i_sparkline#a28d76dd585c48366e1657f2982722ddb) ke dalam format gambar yang diperlukan.
 
 {{% /blocks/products/pf/feature-page-summary %}}
 {{% blocks/products/pf/feature-page-section h2="Buat Bagan Excel" %}}
 
-Proses pembuatan bagan Excel adalah, buat instance dari [Kelas IWorkbook](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) dan pilih yang diinginkan [lembar kerja](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_worksheet_collection#a5574d624796043233420d0e0459ccc43). Tambahkan bagan menggunakan [Tambahkan metode](https://apireference.aspose.com/cells/cpp/class/aspose.cells.charts.i_chart_collection#ab7e8cce835c251a4682605299a6aa068) dengan parameter yang relevan termasuk jenis grafik. Akses grafik melalui indeks dan [Menambahkan](https://apireference.aspose.com/cells/cpp/class/aspose.cells.charts.i_series_collection#a8f4dc4d883f32f65b1fb673e2aa7862f) sumber data untuk grafik.
+Proses pembuatan bagan Excel adalah, buat instance dari [Kelas IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) dan pilih yang diinginkan [lembar kerja](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_worksheet_collection#a5574d624796043233420d0e0459ccc43). Tambahkan bagan menggunakan [Tambahkan metode](https://reference.aspose.com/cells/cpp/class/aspose.cells.charts.i_chart_collection#ab7e8cce835c251a4682605299a6aa068) dengan parameter yang relevan termasuk jenis grafik. Akses grafik melalui indeks dan [Menambahkan](https://reference.aspose.com/cells/cpp/class/aspose.cells.charts.i_series_collection#a8f4dc4d883f32f65b1fb673e2aa7862f) sumber data untuk grafik.
 
 {{% blocks/products/pf/feature-page-code h3="C++ Kode untuk Membuat Bagan Excel" %}}
 

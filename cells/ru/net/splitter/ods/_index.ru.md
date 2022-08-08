@@ -49,7 +49,7 @@ PM> Install-Package Aspose.Cells
 + Загрузите файл ODS с полным путем для разделения.
 + Итерация по каждому листу
 + Создать новый объект класса Workbook
-+ Скопируйте лист через [Метод копирования](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
++ Скопируйте лист через [Метод копирования](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
 + Вызвать метод Save() и передать в качестве параметра имя файла (полный путь) и SaveFormat.Ods. 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

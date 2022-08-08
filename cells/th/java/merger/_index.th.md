@@ -10,7 +10,7 @@ description: รวมไฟล์ Excel โดยใช้ Java ลงในแ
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="รวมไฟล์ Excel กับรูปภาพและแผนภูมิ" %}}
-วิธีที่ง่ายที่สุดในการรวมไฟล์ Excel สองไฟล์ที่มีรูปภาพและแผนภูมิคือการเรียก [Workbook.combine](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#combine(com.aspose.cells.Workbook)) กระบวนการ. อนุญาตให้รวมไฟล์ Excel ประเภทเดียวกันลงในสเปรดชีตเดียว
+วิธีที่ง่ายที่สุดในการรวมไฟล์ Excel สองไฟล์ที่มีรูปภาพและแผนภูมิคือการเรียก [Workbook.combine](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#combine(com.aspose.cells.Workbook)) กระบวนการ. อนุญาตให้รวมไฟล์ Excel ประเภทเดียวกันลงในสเปรดชีตเดียว
 {{% blocks/products/pf/feature-page-code h3="Java โค้ดสำหรับรวมไฟล์ Excel" %}}
 
 ```cs
@@ -29,7 +29,7 @@ book1.save("combined.xlsx");
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="รวมไฟล์ Excel หลายไฟล์" %}}
-[CellsHelper.mergeFiles](https://apireference.aspose.com/cells/java/com.aspose.cells/cellshelper#mergeFiles) method รองรับการผสานข้อมูล รูปแบบ และสูตรของไฟล์ Excel เข้ากับสเปรดชีตใหม่ที่มีรูปแบบเดียวกัน เป็นวิธีที่มีประสิทธิภาพในการรวมหลายไฟล์ในขณะที่ใช้แคช 
+[CellsHelper.mergeFiles](https://reference.aspose.com/cells/java/com.aspose.cells/cellshelper#mergeFiles) method รองรับการผสานข้อมูล รูปแบบ และสูตรของไฟล์ Excel เข้ากับสเปรดชีตใหม่ที่มีรูปแบบเดียวกัน เป็นวิธีที่มีประสิทธิภาพในการรวมหลายไฟล์ในขณะที่ใช้แคช 
 {{% blocks/products/pf/feature-page-code h3="Java รหัสเพื่อรวมไฟล์ Excel หลายไฟล์" %}}
 
 ```cs
@@ -47,7 +47,7 @@ CellsHelper.mergeFiles(files, "cache", "merged.xls");
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="รวมไฟล์ Excel โดยการคัดลอกแผ่นงาน" %}}
-[ใบงาน.copy](https://apireference.aspose.com/cells/java/com.aspose.cells/worksheet#copy(com.aspose.cells.Worksheet)สามารถใช้เพื่อคัดลอกข้อมูลและการจัดรูปแบบจากเวิร์กชีตต้นทางไปยังเวิร์กชีตอื่นภายในหรือระหว่างเวิร์กบุ๊ก เมธอดนี้ใช้ออบเจ็กต์เวิร์กชีตต้นทางเป็นพารามิเตอร์
+[ใบงาน.copy](https://reference.aspose.com/cells/java/com.aspose.cells/worksheet#copy(com.aspose.cells.Worksheet)สามารถใช้เพื่อคัดลอกข้อมูลและการจัดรูปแบบจากเวิร์กชีตต้นทางไปยังเวิร์กชีตอื่นภายในหรือระหว่างเวิร์กบุ๊ก เมธอดนี้ใช้ออบเจ็กต์เวิร์กชีตต้นทางเป็นพารามิเตอร์
 {{% blocks/products/pf/feature-page-code h3="Java รหัสสำหรับคัดลอกแผ่นงานระหว่างสมุดงาน" %}}
 
 ```cs

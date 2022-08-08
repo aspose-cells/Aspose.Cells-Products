@@ -48,7 +48,7 @@ PM> Install-Package Aspose.Cells
 + 분할을 위한 전체 경로가 있는 XLS 파일을 로드합니다.
 + 각 시트를 통해 반복
 + 새 통합 문서 클래스 개체 만들기
-+ 다음을 통해 시트 복사 [복사 방법](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
++ 다음을 통해 시트 복사 [복사 방법](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
 + Save() 메서드를 호출하고 파일 이름(전체 경로)과 SaveFormat.Xls를 매개변수로 전달합니다.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

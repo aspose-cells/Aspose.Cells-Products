@@ -10,7 +10,7 @@ description: Gabungkan file Excel menggunakan Java menjadi beberapa lembar atau 
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Gabungkan File Excel dengan Gambar dan Bagan" %}}
-Cara termudah untuk menggabungkan dua file Excel yang memiliki gambar & bagan adalah dengan memanggil [buku kerja.combine](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#combine(com.aspose.cells.Workbook)) metode. Hal ini memungkinkan untuk menggabungkan file Excel dari jenis yang sama ke dalam satu spreadsheet.
+Cara termudah untuk menggabungkan dua file Excel yang memiliki gambar & bagan adalah dengan memanggil [buku kerja.combine](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#combine(com.aspose.cells.Workbook)) metode. Hal ini memungkinkan untuk menggabungkan file Excel dari jenis yang sama ke dalam satu spreadsheet.
 {{% blocks/products/pf/feature-page-code h3="Java Kode untuk Menggabungkan File Excel" %}}
 
 ```cs
@@ -29,7 +29,7 @@ book1.save("combined.xlsx");
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="Gabungkan Beberapa File Excel" %}}
-[CellsHelper.mergeFiles](https://apireference.aspose.com/cells/java/com.aspose.cells/cellshelper#mergeFiles) metode ini mendukung penggabungan data, gaya, dan rumus file Excel ke spreadsheet baru dengan format yang sama. Ini adalah cara yang efisien untuk menggabungkan beberapa file saat menggunakan caching. 
+[CellsHelper.mergeFiles](https://reference.aspose.com/cells/java/com.aspose.cells/cellshelper#mergeFiles) metode ini mendukung penggabungan data, gaya, dan rumus file Excel ke spreadsheet baru dengan format yang sama. Ini adalah cara yang efisien untuk menggabungkan beberapa file saat menggunakan caching. 
 {{% blocks/products/pf/feature-page-code h3="Java Kode untuk Menggabungkan Beberapa File Excel" %}}
 
 ```cs
@@ -47,7 +47,7 @@ CellsHelper.mergeFiles(files, "cache", "merged.xls");
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="Gabungkan File Excel dengan Menyalin Lembar Kerja" %}}
-[lembar kerja.copy](https://apireference.aspose.com/cells/java/com.aspose.cells/worksheet#copy(com.aspose.cells.Worksheet)dapat digunakan untuk menyalin data dan pemformatan dari lembar kerja sumber ke lembar kerja lain di dalam atau di antara buku kerja. Metode ini mengambil objek lembar kerja sumber sebagai parameter.
+[lembar kerja.copy](https://reference.aspose.com/cells/java/com.aspose.cells/worksheet#copy(com.aspose.cells.Worksheet)dapat digunakan untuk menyalin data dan pemformatan dari lembar kerja sumber ke lembar kerja lain di dalam atau di antara buku kerja. Metode ini mengambil objek lembar kerja sumber sebagai parameter.
 {{% blocks/products/pf/feature-page-code h3="Java Kode untuk Menyalin Lembar Kerja antar Buku Kerja" %}}
 
 ```cs

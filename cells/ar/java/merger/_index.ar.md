@@ -10,7 +10,7 @@ description: دمج ملفات Excel باستخدام Java في أوراق مت�
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="ادمج ملفات Excel مع الصور والرسوم البيانية" %}}
-إن أبسط طريقة لدمج ملفي Excel بهما صور ومخططات هي عن طريق استدعاء ملف [Workbook.combine](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#combine(com.aspose.cells.Workbook)) طريقة. يسمح بدمج ملفات Excel من النوع المماثل في جدول بيانات واحد.
+إن أبسط طريقة لدمج ملفي Excel بهما صور ومخططات هي عن طريق استدعاء ملف [Workbook.combine](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#combine(com.aspose.cells.Workbook)) طريقة. يسمح بدمج ملفات Excel من النوع المماثل في جدول بيانات واحد.
 {{% blocks/products/pf/feature-page-code h3="Java رمز لدمج ملفات Excel" %}}
 
 ```cs
@@ -29,7 +29,7 @@ book1.save("combined.xlsx");
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="دمج ملفات Excel متعددة" %}}
-[CellsHelper.mergeFiles](https://apireference.aspose.com/cells/java/com.aspose.cells/cellshelper#mergeFiles) تدعم الطريقة دمج البيانات والنمط والصيغ الخاصة بملف Excel في جدول بيانات جديد من نفس التنسيق. إنها طريقة فعالة لدمج عدة ملفات أثناء استخدام التخزين المؤقت. 
+[CellsHelper.mergeFiles](https://reference.aspose.com/cells/java/com.aspose.cells/cellshelper#mergeFiles) تدعم الطريقة دمج البيانات والنمط والصيغ الخاصة بملف Excel في جدول بيانات جديد من نفس التنسيق. إنها طريقة فعالة لدمج عدة ملفات أثناء استخدام التخزين المؤقت. 
 {{% blocks/products/pf/feature-page-code h3="Java رمز لدمج عدة ملفات Excel" %}}
 
 ```cs
@@ -47,7 +47,7 @@ CellsHelper.mergeFiles(files, "cache", "merged.xls");
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="دمج ملفات Excel عن طريق نسخ أوراق العمل" %}}
-[ورقة عمل](https://apireference.aspose.com/cells/java/com.aspose.cells/worksheet#copy(com.aspose.cells.Worksheet)لنسخ البيانات والتنسيق من ورقة عمل مصدر إلى ورقة عمل أخرى داخل المصنفات أو بينها. الأسلوب يأخذ كائن ورقة العمل المصدر كمعلمة.
+[ورقة عمل](https://reference.aspose.com/cells/java/com.aspose.cells/worksheet#copy(com.aspose.cells.Worksheet)لنسخ البيانات والتنسيق من ورقة عمل مصدر إلى ورقة عمل أخرى داخل المصنفات أو بينها. الأسلوب يأخذ كائن ورقة العمل المصدر كمعلمة.
 {{% blocks/products/pf/feature-page-code h3="Java كود لنسخ أوراق العمل بين المصنفات" %}}
 
 ```cs

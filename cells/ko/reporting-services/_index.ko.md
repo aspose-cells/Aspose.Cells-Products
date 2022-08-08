@@ -440,7 +440,7 @@ description: SQL Server Reporting Services 렌더링 확장 - Excel XLS XLSX XLS
 {{< blocks/products/pf/slr-tab tabTitle="학습 자료" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="선적 서류 비치" href="https://docs.aspose.com/cells/reportingservices/" >}}
 {{< blocks/products/pf/slr-element name="소스 코드" href="https://github.com/aspose-cells?tab=repositories" >}}
-{{< blocks/products/pf/slr-element name="API 참조" href="https://apireference.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="API 참조" href="https://reference.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="튜토리얼 비디오" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

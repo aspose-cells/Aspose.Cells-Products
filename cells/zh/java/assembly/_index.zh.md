@@ -11,7 +11,7 @@ description: 使用 Java 电子表格库从模板工作表生成 Microsoft Excel
 
 {{% blocks/products/pf/feature-page-section h2="基于预先设计的 Excel 模板创建报告" %}}
 
-使用 JavaAssembly API，开发人员可以通过包含以下代码片段轻松编写批量报告生成代码。 API 提供 [导入数据](https://docs.aspose.com/cells/java/import-and-export-data/) 来自不同来源的功能并根据该数据创建 Excel 文档。对于基于模板的模式，API 提供了一个 [WorkbookDesigner 类](https://apireference.aspose.com/cells/java/com.aspose.cells/WorkbookDesigner) 表示设计器工作表。过程是，创建它的对象并用它来打开模板文件。设置数据源，可以是 Array、DataTable、Json 等。处理它以导入数据并以所需格式保存文件。程序员可以将数据组装成其他文件格式的报告，包括 XLS、XLSX、XLSB、XLSM、ODS，如下所列链接。
+使用 JavaAssembly API，开发人员可以通过包含以下代码片段轻松编写批量报告生成代码。 API 提供 [导入数据](https://docs.aspose.com/cells/java/import-and-export-data/) 来自不同来源的功能并根据该数据创建 Excel 文档。对于基于模板的模式，API 提供了一个 [WorkbookDesigner 类](https://reference.aspose.com/cells/java/com.aspose.cells/WorkbookDesigner) 表示设计器工作表。过程是，创建它的对象并用它来打开模板文件。设置数据源，可以是 Array、DataTable、Json 等。处理它以导入数据并以所需格式保存文件。程序员可以将数据组装成其他文件格式的报告，包括 XLS、XLSX、XLSB、XLSM、ODS，如下所列链接。
 
 
 

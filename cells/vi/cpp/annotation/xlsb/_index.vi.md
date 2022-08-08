@@ -41,7 +41,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Tải tệp XLSB Excel bằng đối tượng lớp IWorkbook.1. Chọn trang tính liên quan1. Thêm nhận xét bằng phương pháp Thêm1. Đặt ghi chú của nhận xét bằng phương pháp SetNote.1. Lưu sổ làm việc bằng [Cứu](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) phương pháp
+1. Tải tệp XLSB Excel bằng đối tượng lớp IWorkbook.1. Chọn trang tính liên quan1. Thêm nhận xét bằng phương pháp Thêm1. Đặt ghi chú của nhận xét bằng phương pháp SetNote.1. Lưu sổ làm việc bằng [Cứu](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) phương pháp
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

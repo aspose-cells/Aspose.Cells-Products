@@ -10,7 +10,7 @@ description: Java kullanarak Excel dosyalarını birden çok sayfa veya tek sayf
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Excel Dosyalarını Görüntüler ve Grafiklerle Birleştirin" %}}
-Görüntüleri ve çizelgeleri olan iki Excel dosyasını birleştirmenin en basit yolu, [Workbook.combine](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#combine(com.aspose.cells.Workbook)) yöntem. Benzer türdeki Excel dosyalarını tek bir elektronik tabloda birleştirmeye izin verir.
+Görüntüleri ve çizelgeleri olan iki Excel dosyasını birleştirmenin en basit yolu, [Workbook.combine](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#combine(com.aspose.cells.Workbook)) yöntem. Benzer türdeki Excel dosyalarını tek bir elektronik tabloda birleştirmeye izin verir.
 {{% blocks/products/pf/feature-page-code h3="Java Excel Dosyalarını Birleştirme Kodu" %}}
 
 ```cs
@@ -29,7 +29,7 @@ book1.save("combined.xlsx");
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="Birden Fazla Excel Dosyasını Birleştirme" %}}
-[CellsHelper.mergeDosyalar](https://apireference.aspose.com/cells/java/com.aspose.cells/cellshelper#mergeFiles) yöntemi, bir Excel dosyasının verilerini, stilini ve formüllerini aynı formatta yeni bir elektronik tabloyla birleştirmeyi destekler. Önbelleğe almayı kullanırken birkaç dosyayı birleştirmenin etkili bir yoludur. 
+[CellsHelper.mergeDosyalar](https://reference.aspose.com/cells/java/com.aspose.cells/cellshelper#mergeFiles) yöntemi, bir Excel dosyasının verilerini, stilini ve formüllerini aynı formatta yeni bir elektronik tabloyla birleştirmeyi destekler. Önbelleğe almayı kullanırken birkaç dosyayı birleştirmenin etkili bir yoludur. 
 {{% blocks/products/pf/feature-page-code h3="Java Birkaç Excel Dosyasını Birleştirme Kodu" %}}
 
 ```cs
@@ -47,7 +47,7 @@ CellsHelper.mergeFiles(files, "cache", "merged.xls");
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="Çalışma Sayfalarını Kopyalayarak Excel Dosyalarını Birleştirme" %}}
-[çalışma sayfası.kopya](https://apireference.aspose.com/cells/java/com.aspose.cells/worksheet#copy(com.aspose.cells.Worksheet)bir kaynak çalışma sayfasından çalışma kitaplarının içinde veya arasında başka bir çalışma sayfasına veri kopyalamak ve biçimlendirmek için kullanılabilir. Yöntem, kaynak çalışma sayfası nesnesini parametre olarak alır.
+[çalışma sayfası.kopya](https://reference.aspose.com/cells/java/com.aspose.cells/worksheet#copy(com.aspose.cells.Worksheet)bir kaynak çalışma sayfasından çalışma kitaplarının içinde veya arasında başka bir çalışma sayfasına veri kopyalamak ve biçimlendirmek için kullanılabilir. Yöntem, kaynak çalışma sayfası nesnesini parametre olarak alır.
 {{% blocks/products/pf/feature-page-code h3="Java Çalışma Sayfalarını Çalışma Kitapları Arasında Kopyalama Kodu" %}}
 
 ```cs

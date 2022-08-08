@@ -26,7 +26,7 @@ description: Java Exemple de code pour générer des documents ODS. Utilisez ce 
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Créer une instance de [Classe de classeur](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook).1. Accédez à la feuille de calcul appropriée à l'aide de la méthode getWorksheets.get().1. Sélectionnez la cellule appropriée, entrez la valeur dans la cellule souhaitée en utilisant le nom de la cellule, comme A1, B3, etc.1. Enregistrez le classeur au format ODS à l'aide de la méthode save().
+1. Créer une instance de [Classe de classeur](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook).1. Accédez à la feuille de calcul appropriée à l'aide de la méthode getWorksheets.get().1. Sélectionnez la cellule appropriée, entrez la valeur dans la cellule souhaitée en utilisant le nom de la cellule, comme A1, B3, etc.1. Enregistrez le classeur au format ODS à l'aide de la méthode save().
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Configuration requise" %}}

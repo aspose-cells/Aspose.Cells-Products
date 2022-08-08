@@ -26,7 +26,7 @@ description: Java HTML दस्तावेज़ बनाने के लि
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. का एक उदाहरण बनाएं [कार्यपुस्तिका वर्ग](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook).1. getWorksheets.get() विधि का उपयोग करके प्रासंगिक कार्यपत्रक तक पहुंचें।1. प्रासंगिक सेल का चयन करें, सेल नाम का उपयोग करके वांछित सेल में मान इनपुट करें, जैसे A1, B3, आदि।1. सेव () विधि का उपयोग करके कार्यपुस्तिका को HTML प्रारूप के रूप में सहेजें।
+1. का एक उदाहरण बनाएं [कार्यपुस्तिका वर्ग](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook).1. getWorksheets.get() विधि का उपयोग करके प्रासंगिक कार्यपत्रक तक पहुंचें।1. प्रासंगिक सेल का चयन करें, सेल नाम का उपयोग करके वांछित सेल में मान इनपुट करें, जैसे A1, B3, आदि।1. सेव () विधि का उपयोग करके कार्यपुस्तिका को HTML प्रारूप के रूप में सहेजें।
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="सिस्टम आवश्यकताएं" %}}

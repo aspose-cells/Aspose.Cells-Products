@@ -24,7 +24,7 @@ description: C# 使用 .NET 库将折线图创建到 Excel 的示例代码。使
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. 包括 Aspose.Cells 命名空间1. 创造 [**工作簿**](https://apireference.aspose.com/cells/net/aspose.cells/workbook) 类实例。1. 将一些数据添加到工作表。1. 添加一个 [**线**](https://apireference.aspose.com/cells/net/aspose.cells.charts/charttype) 图表到工作表。1. 访问新 [**图表**](https://apireference.aspose.com/cells/net/aspose.cells.charts/chart) 目的。1. 指定图表的数据源 [**Chart.SetChartDataRange**](https://https://apireference.aspose.com/cells/net/aspose.cells.charts/chart/methods/setchartdatarange) 方法。
+1. 包括 Aspose.Cells 命名空间1. 创造 [**工作簿**](https://reference.aspose.com/cells/net/aspose.cells/workbook) 类实例。1. 将一些数据添加到工作表。1. 添加一个 [**线**](https://reference.aspose.com/cells/net/aspose.cells.charts/charttype) 图表到工作表。1. 访问新 [**图表**](https://reference.aspose.com/cells/net/aspose.cells.charts/chart) 目的。1. 指定图表的数据源 [**Chart.SetChartDataRange**](https://https://reference.aspose.com/cells/net/aspose.cells.charts/chart/methods/setchartdatarange) 方法。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

@@ -260,7 +260,7 @@ description: Jasper Reports ve JasperServer'dan raporları Excel XLS XLSX PDF OD
 {{< blocks/products/pf/slr-tab tabTitle="Öğrenme Kaynakları" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="belgeler" href="https://docs.aspose.com/cells/jasperreports/" >}}
 {{< blocks/products/pf/slr-element name="Kaynak kodu" href="https://github.com/aspose-cells?tab=repositories" >}}
-{{< blocks/products/pf/slr-element name="API Referans" href="https://apireference.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="API Referans" href="https://reference.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Eğitim Videoları" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

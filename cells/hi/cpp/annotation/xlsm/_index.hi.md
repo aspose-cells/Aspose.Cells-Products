@@ -41,7 +41,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. IWorkbook क्लास ऑब्जेक्ट का उपयोग करके XLSM एक्सेल फ़ाइल लोड करें।1. प्रासंगिक शीट का चयन करें1. जोड़ें विधि का उपयोग करके टिप्पणी जोड़ें1. SetNote पद्धति का उपयोग करके टिप्पणी का नोट सेट करें।1. का उपयोग कर कार्यपुस्तिका सहेजें [बचाना](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) तरीका
+1. IWorkbook क्लास ऑब्जेक्ट का उपयोग करके XLSM एक्सेल फ़ाइल लोड करें।1. प्रासंगिक शीट का चयन करें1. जोड़ें विधि का उपयोग करके टिप्पणी जोड़ें1. SetNote पद्धति का उपयोग करके टिप्पणी का नोट सेट करें।1. का उपयोग कर कार्यपुस्तिका सहेजें [बचाना](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) तरीका
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

@@ -10,7 +10,7 @@ description: Combine archivos de Excel usando Java en varias hojas o en una sola
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Combine archivos de Excel con imágenes y gráficos" %}}
-La forma más sencilla de combinar dos archivos de Excel que tienen imágenes y gráficos es llamando al [Workbook.combine](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#combine(com.aspose.cells.Workbook)) método. Permite fusionar archivos de Excel de tipo similar en una sola hoja de cálculo.
+La forma más sencilla de combinar dos archivos de Excel que tienen imágenes y gráficos es llamando al [Workbook.combine](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#combine(com.aspose.cells.Workbook)) método. Permite fusionar archivos de Excel de tipo similar en una sola hoja de cálculo.
 {{% blocks/products/pf/feature-page-code h3="Java Código para combinar archivos de Excel" %}}
 
 ```cs
@@ -29,7 +29,7 @@ book1.save("combined.xlsx");
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="Combinar varios archivos de Excel" %}}
-[CellsHelper.mergeFiles](https://apireference.aspose.com/cells/java/com.aspose.cells/cellshelper#mergeFiles) El método admite la combinación de datos, estilo y fórmulas de un archivo de Excel en una nueva hoja de cálculo del mismo formato. Es una forma eficiente de fusionar varios archivos mientras usa el almacenamiento en caché. 
+[CellsHelper.mergeFiles](https://reference.aspose.com/cells/java/com.aspose.cells/cellshelper#mergeFiles) El método admite la combinación de datos, estilo y fórmulas de un archivo de Excel en una nueva hoja de cálculo del mismo formato. Es una forma eficiente de fusionar varios archivos mientras usa el almacenamiento en caché. 
 {{% blocks/products/pf/feature-page-code h3="Java Código para fusionar varios archivos de Excel" %}}
 
 ```cs
@@ -47,7 +47,7 @@ CellsHelper.mergeFiles(files, "cache", "merged.xls");
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="Combinar archivos de Excel copiando hojas de trabajo" %}}
-[Hoja de trabajo.copia](https://apireference.aspose.com/cells/java/com.aspose.cells/worksheet#copy(com.aspose.cells.Worksheet)se puede usar para copiar datos y formato de una hoja de trabajo de origen a otra hoja de trabajo dentro o entre libros de trabajo. El método toma el objeto de la hoja de cálculo de origen como parámetro.
+[Hoja de trabajo.copia](https://reference.aspose.com/cells/java/com.aspose.cells/worksheet#copy(com.aspose.cells.Worksheet)se puede usar para copiar datos y formato de una hoja de trabajo de origen a otra hoja de trabajo dentro o entre libros de trabajo. El método toma el objeto de la hoja de cálculo de origen como parámetro.
 {{% blocks/products/pf/feature-page-code h3="Java Código para copiar hojas de trabajo entre libros de trabajo" %}}
 
 ```cs

@@ -26,7 +26,7 @@ description: Java Contoh kode untuk membuat dokumen XLTM. Gunakan kode ini untuk
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Buat instance dari [Kelas buku kerja](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook).1. Akses lembar kerja yang relevan menggunakan metode getWorksheets.get().1. Pilih sel yang relevan, masukkan nilainya ke sel yang diinginkan menggunakan nama sel, seperti A1, B3, dll.1. Simpan buku kerja sebagai format XLTM menggunakan metode save().
+1. Buat instance dari [Kelas buku kerja](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook).1. Akses lembar kerja yang relevan menggunakan metode getWorksheets.get().1. Pilih sel yang relevan, masukkan nilainya ke sel yang diinginkan menggunakan nama sel, seperti A1, B3, dll.1. Simpan buku kerja sebagai format XLTM menggunakan metode save().
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Persyaratan sistem" %}}

@@ -57,7 +57,7 @@ description: مكتبات لقراءة الكتابة ومعالجة ملفات 
 {{< blocks/products/pf/slr-tab tabTitle="مصادر التعلم" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="توثيق" href="https://docs.aspose.com/cells/" >}}
 {{< blocks/products/pf/slr-element name="مصدر الرمز" href="https://github.com/aspose-cells?tab=repositories" >}}
-{{< blocks/products/pf/slr-element name="API المراجع" href="https://apireference.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="API المراجع" href="https://reference.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="مقاطع فيديو تعليمية" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

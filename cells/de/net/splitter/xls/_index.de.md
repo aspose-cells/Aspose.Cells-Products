@@ -48,7 +48,7 @@ PM> Install-Package Aspose.Cells
 + Laden Sie die XLS-Datei mit vollständigem Pfad zum Teilen.
 + Iteriere durch jedes Blatt
 + Erstellen Sie ein neues Workbook-Klassenobjekt
-+ Kopieren Sie das Blatt über [Kopiermethode](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
++ Kopieren Sie das Blatt über [Kopiermethode](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
 + Rufen Sie die Methode Save() auf und übergeben Sie den Dateinamen (vollständiger Pfad) und SaveFormat.Xls als Parameter.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

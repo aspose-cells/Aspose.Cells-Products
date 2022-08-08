@@ -48,7 +48,7 @@ PM> Install-Package Aspose.Cells
 + Cargue el archivo XLSX con la ruta completa para dividir.
 + Iterar a través de cada hoja
 + Crear un nuevo objeto de clase Workbook
-+ Copiar la hoja vía [método de copia](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
++ Copiar la hoja vía [método de copia](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
 + Llame al método Save() y pase el nombre del archivo (ruta completa) y SaveFormat.Xlsx como parámetro.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

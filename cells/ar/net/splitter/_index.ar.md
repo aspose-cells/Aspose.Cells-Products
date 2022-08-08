@@ -10,12 +10,12 @@ description: C# رموز المصدر التي تشرح كيفية تقسيم م
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="تقسيم مستند Excel إلى ملفات متعددة" %}}
-إن أبسط طريقة لتقسيم ورقة ملفات Excel هي الوصول إلى جميع الأوراق عبر [أوراق عمل](https://apireference.aspose.com/cells/net/aspose.cells/workbook/properties/worksheets)، التكرار خلال كل ورقة واستدعاء [ينسخ](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy) طريقة. أخيرًا حفظه في مسار محدد. 
+إن أبسط طريقة لتقسيم ورقة ملفات Excel هي الوصول إلى جميع الأوراق عبر [أوراق عمل](https://reference.aspose.com/cells/net/aspose.cells/workbook/properties/worksheets)، التكرار خلال كل ورقة واستدعاء [ينسخ](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy) طريقة. أخيرًا حفظه في مسار محدد. 
 
-+ قم بتحميل ملف Excel بالمسار الكامل باستخدام [فئة المصنف](https://apireference.aspose.com/cells/net/aspose.cells/workbook).
++ قم بتحميل ملف Excel بالمسار الكامل باستخدام [فئة المصنف](https://reference.aspose.com/cells/net/aspose.cells/workbook).
 + كرر من خلال كل ورقة
 + إنشاء كائن فئة مصنف جديد
-+ انسخ الورقة عبر [طريقة النسخ](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
++ انسخ الورقة عبر [طريقة النسخ](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
 + استدعاء طريقة Save () ومرر اسم الملف (المسار الكامل) مع SaveFormat ذات الصلة.
 
 {{% blocks/products/pf/feature-page-code h3="C# رمز لتقسيم ملفات Excel" %}}
@@ -29,7 +29,7 @@ description: C# رموز المصدر التي تشرح كيفية تقسيم م
 
 {{% blocks/products/pf/feature-page-section h2="تقسيم ورقة عمل Excel إلى أجزاء" %}}
 
-لتقسيم نافذة ورقة العمل إلى أجزاء ، يوفر API [طريقة التقسيم](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/split) فئة ورقة العمل ، التي توفر طريقة عرض مقسمة لورقة العمل. لإزالة تقسيم العرض يوفر API [طريقة RemoveSplit](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/removesplit). أخيرًا احفظه في مسار محدد. 
+لتقسيم نافذة ورقة العمل إلى أجزاء ، يوفر API [طريقة التقسيم](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/split) فئة ورقة العمل ، التي توفر طريقة عرض مقسمة لورقة العمل. لإزالة تقسيم العرض يوفر API [طريقة RemoveSplit](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/removesplit). أخيرًا احفظه في مسار محدد. 
 
 {{% blocks/products/pf/feature-page-code h3="C# رمز لتقسيم نافذة ورقة عمل Excel" %}}
 

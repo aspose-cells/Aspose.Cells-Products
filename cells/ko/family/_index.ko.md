@@ -57,7 +57,7 @@ Python을 사용하여 Excel 문서를 로드, 생성, 조작 및 렌더링합�
 {{< blocks/products/pf/slr-tab tabTitle="학습 자료" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="선적 서류 비치" href="https://docs.aspose.com/cells/" >}}
 {{< blocks/products/pf/slr-element name="소스 코드" href="https://github.com/aspose-cells?tab=repositories" >}}
-{{< blocks/products/pf/slr-element name="API 참조" href="https://apireference.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="API 참조" href="https://reference.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="튜토리얼 비디오" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

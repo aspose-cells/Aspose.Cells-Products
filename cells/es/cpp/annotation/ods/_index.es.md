@@ -41,7 +41,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Cargue el archivo ODS Excel utilizando el objeto de clase IWorkbook.1. Seleccione la hoja correspondiente1. Agregue el comentario usando el método Agregar1. Establece la nota del comentario usando el método SetNote.1. Guarde el libro de trabajo usando [Guardar](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) método
+1. Cargue el archivo ODS Excel utilizando el objeto de clase IWorkbook.1. Seleccione la hoja correspondiente1. Agregue el comentario usando el método Agregar1. Establece la nota del comentario usando el método SetNote.1. Guarde el libro de trabajo usando [Guardar](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) método
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos del sistema" %}}

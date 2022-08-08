@@ -11,7 +11,7 @@ description: Generuj arkusze kalkulacyjne Microsoft Excel z arkusza szablonu za 
 
 {{% blocks/products/pf/feature-page-section h2="Twórz raporty na podstawie wstępnie zaprojektowanego szablonu Excel" %}}
 
-Aby zautomatyzować proces tworzenia tych samych plików wzorców, można łatwo użyć .NETZłożenia API. Istnieją różne sposoby, aby [zaimportować dane](https://docs.aspose.com/cells/net/import-data-into-worksheet/#importing-data-from-json) i generować pliki Excel. API zapewnia [WorkbookDesigner class](https://apireference.aspose.com/cells/net/aspose.cells/workbookdesigner) do reprezentowania arkusza projektanta. Utwórz jego obiekt i użyj go do otwarcia pliku szablonu. Ustaw źródło danych, którym może być DataTable, Array, plik Json itp. Przetwórz je, aby zaimportować dane i zapisać plik z danymi w wymaganym formacie. Programiści mogą łączyć dane w raporty w innych formatach plików, korzystając z poniższych linków.
+Aby zautomatyzować proces tworzenia tych samych plików wzorców, można łatwo użyć .NETZłożenia API. Istnieją różne sposoby, aby [zaimportować dane](https://docs.aspose.com/cells/net/import-data-into-worksheet/#importing-data-from-json) i generować pliki Excel. API zapewnia [WorkbookDesigner class](https://reference.aspose.com/cells/net/aspose.cells/workbookdesigner) do reprezentowania arkusza projektanta. Utwórz jego obiekt i użyj go do otwarcia pliku szablonu. Ustaw źródło danych, którym może być DataTable, Array, plik Json itp. Przetwórz je, aby zaimportować dane i zapisać plik z danymi w wymaganym formacie. Programiści mogą łączyć dane w raporty w innych formatach plików, korzystając z poniższych linków.
 
 
 

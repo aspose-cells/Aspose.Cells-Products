@@ -11,7 +11,7 @@ Herhangi bir elektronik tablo dönüştürücü uygulaması veya çözümü içi
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Microsoft Excel Formatlarının Ara Dönüşümü" %}}
-E-tablo formatının inter-dönüşümü, yalnızca bir e-tablonun örneğinin bulunduğu bir e-tablonun yüklenmesini gerektirir. [ müdahaleci_ptr<Aspose::Cells::IWorkbook>](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) işaretçi ve kullanarak istenen biçimde geri kaydetme [Kaydetmek](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997) yöntemi [IWorkbook sınıfı](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook).
+E-tablo formatının inter-dönüşümü, yalnızca bir e-tablonun örneğinin bulunduğu bir e-tablonun yüklenmesini gerektirir. [ müdahaleci_ptr<Aspose::Cells::IWorkbook>](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) işaretçi ve kullanarak istenen biçimde geri kaydetme [Kaydetmek](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997) yöntemi [IWorkbook sınıfı](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook).
 {{% blocks/products/pf/feature-page-code h3="C++ Excel Dosya Biçimi Dönüşümü için Örnek Kod" %}}
 
 ```cs
@@ -30,7 +30,7 @@ wkb->Save(u"output_excel_format.xlsx", SaveFormat_Xlsx);
 
 
 {{% blocks/products/pf/feature-page-section h2="Uyumluluk Düzeyi Ayarları ile Excel Formatlarını PDF\'ye Dönüştürün" %}}
-C++ Excel Otomasyonu API, Çalışma Kitaplarının PDF'ye dönüştürülmesini ve ayrıca uyumluluk düzeyi ve oluşturma tarihinin ayarlanmasını destekler. Geliştiriciler kullanabilir [IPdfSaveSeçenekleri](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_pdf_save_options) ile birlikte [Aspose::Cells::Oluşturma](https://apireference.aspose.com/cells/cpp/namespace/aspose.cells.rendering) PDF uyumluluğunu ayarlamak için Dönüştürme için, parametre olarak PdfSaveOptions'a sahip API kaydetme yöntemi ve belirtilen çıktı dosyası yolu. 
+C++ Excel Otomasyonu API, Çalışma Kitaplarının PDF'ye dönüştürülmesini ve ayrıca uyumluluk düzeyi ve oluşturma tarihinin ayarlanmasını destekler. Geliştiriciler kullanabilir [IPdfSaveSeçenekleri](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_pdf_save_options) ile birlikte [Aspose::Cells::Oluşturma](https://reference.aspose.com/cells/cpp/namespace/aspose.cells.rendering) PDF uyumluluğunu ayarlamak için Dönüştürme için, parametre olarak PdfSaveOptions'a sahip API kaydetme yöntemi ve belirtilen çıktı dosyası yolu. 
 {{% blocks/products/pf/feature-page-code h3="C++ Excel\'den PDF\'ye Dönüştürme için Örnek Kod" %}}
 
 ```cs
@@ -58,7 +58,7 @@ wkb->Save(u"output-converted-excel-workbook-to.pdf", pdfSaveOptions);
 {{< blocks/products/pf/feature-page-options formats="PDF" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Excel\'i Görüntülere Kaydet" %}}
-**C++ Excel Ayrıştırıcı**, verileri görüntü biçiminde dışa aktarma özelliğine sahiptir. Her çalışma sayfası, BMP, JPEG, PNG ve GIF gibi farklı görüntü biçimlerine dönüştürülebilir. [Oluşturma::IImageOrPrintOptions](https://apireference.aspose.com/cells/cpp/class/aspose.cells.rendering.i_image_or_print_options). Herhangi bir **Excel'i Görüntülere Dönüştür** vakası için bağlantılardan ilgili vakayı seçin.
+**C++ Excel Ayrıştırıcı**, verileri görüntü biçiminde dışa aktarma özelliğine sahiptir. Her çalışma sayfası, BMP, JPEG, PNG ve GIF gibi farklı görüntü biçimlerine dönüştürülebilir. [Oluşturma::IImageOrPrintOptions](https://reference.aspose.com/cells/cpp/class/aspose.cells.rendering.i_image_or_print_options). Herhangi bir **Excel'i Görüntülere Dönüştür** vakası için bağlantılardan ilgili vakayı seçin.
 {{% blocks/products/pf/feature-page-code h3="C++ Excel\'den Görüntüye Dönüştürme Kodu" %}}
 
 ```cs

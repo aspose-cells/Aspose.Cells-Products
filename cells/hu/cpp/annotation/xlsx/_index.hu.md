@@ -41,7 +41,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Töltse be az XLSX Excel fájlt az IWorkbook osztályobjektum segítségével.1. Válassza ki a megfelelő lapot1. Adja hozzá a megjegyzést a Hozzáadás módszerrel1. Állítsa be a megjegyzés jegyzetét a SetNote módszerrel.1. Mentse el a munkafüzetet a segítségével [Megment](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) módszer
+1. Töltse be az XLSX Excel fájlt az IWorkbook osztályobjektum segítségével.1. Válassza ki a megfelelő lapot1. Adja hozzá a megjegyzést a Hozzáadás módszerrel1. Állítsa be a megjegyzés jegyzetét a SetNote módszerrel.1. Mentse el a munkafüzetet a segítségével [Megment](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) módszer
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

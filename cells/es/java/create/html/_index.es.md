@@ -26,7 +26,7 @@ description: Java Código de ejemplo para generar documentos HTML. Utilice este 
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Crear una instancia de [clase de libro de trabajo](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook).1. Acceda a la hoja de trabajo correspondiente utilizando el método getWorksheets.get().1. Seleccione la celda relevante, ingrese el valor en la celda deseada usando el nombre de la celda, como A1, B3, etc.1. Guarde el libro de trabajo en formato HTML utilizando el método save().
+1. Crear una instancia de [clase de libro de trabajo](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook).1. Acceda a la hoja de trabajo correspondiente utilizando el método getWorksheets.get().1. Seleccione la celda relevante, ingrese el valor en la celda deseada usando el nombre de la celda, como A1, B3, etc.1. Guarde el libro de trabajo en formato HTML utilizando el método save().
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos del sistema" %}}

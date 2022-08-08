@@ -26,7 +26,7 @@ description: Java Código de amostra para gerar documentos XLTM. Use este códig
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Crie uma instância de [Aula de pasta de trabalho](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook).1. Acesse a planilha relevante usando o método getWorksheets.get().1. Selecione a célula relevante, insira o valor na célula desejada usando o nome da célula, como A1, B3, etc.1. Salve a pasta de trabalho como formato XLTM usando o método save().
+1. Crie uma instância de [Aula de pasta de trabalho](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook).1. Acesse a planilha relevante usando o método getWorksheets.get().1. Selecione a célula relevante, insira o valor na célula desejada usando o nome da célula, como A1, B3, etc.1. Salve a pasta de trabalho como formato XLTM usando o método save().
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de sistema" %}}

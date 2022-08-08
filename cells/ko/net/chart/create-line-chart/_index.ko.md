@@ -24,7 +24,7 @@ description: C# .NET 라이브러리를 사용하여 Excel에 선 차트를 생�
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Aspose.Cells 네임스페이스 포함1. 창조하다 [**학습장**](https://apireference.aspose.com/cells/net/aspose.cells/workbook) 클래스 인스턴스.1. 워크시트에 일부 데이터를 추가합니다.1. 추가하다 [**라인**](https://apireference.aspose.com/cells/net/aspose.cells.charts/charttype) 워크시트에 차트를 표시합니다.1. 새로운 액세스 [**차트**](https://apireference.aspose.com/cells/net/aspose.cells.charts/chart) 물체.1. 다음을 사용하여 차트의 데이터 소스를 지정하십시오. [**Chart.SetChartDataRange**](https://https://apireference.aspose.com/cells/net/aspose.cells.charts/chart/methods/setchartdatarange) 방법.
+1. Aspose.Cells 네임스페이스 포함1. 창조하다 [**학습장**](https://reference.aspose.com/cells/net/aspose.cells/workbook) 클래스 인스턴스.1. 워크시트에 일부 데이터를 추가합니다.1. 추가하다 [**라인**](https://reference.aspose.com/cells/net/aspose.cells.charts/charttype) 워크시트에 차트를 표시합니다.1. 새로운 액세스 [**차트**](https://reference.aspose.com/cells/net/aspose.cells.charts/chart) 물체.1. 다음을 사용하여 차트의 데이터 소스를 지정하십시오. [**Chart.SetChartDataRange**](https://https://reference.aspose.com/cells/net/aspose.cells.charts/chart/methods/setchartdatarange) 방법.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

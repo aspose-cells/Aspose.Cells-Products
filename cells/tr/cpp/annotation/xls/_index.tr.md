@@ -41,7 +41,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. IWorkbook sınıf nesnesini kullanarak XLS Excel dosyasını yükleyin.1. İlgili sayfayı seçin1. Ekle yöntemini kullanarak yorumu ekleyin1. SetNote yöntemini kullanarak yorumun notunu ayarlayın.1. kullanarak çalışma kitabını kaydedin. [Kaydetmek](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) yöntem
+1. IWorkbook sınıf nesnesini kullanarak XLS Excel dosyasını yükleyin.1. İlgili sayfayı seçin1. Ekle yöntemini kullanarak yorumu ekleyin1. SetNote yöntemini kullanarak yorumun notunu ayarlayın.1. kullanarak çalışma kitabını kaydedin. [Kaydetmek](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) yöntem
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

@@ -11,7 +11,7 @@ description: C# 코드를 사용하여 템플릿 시트에서 Microsoft Excel �
 
 {{% blocks/products/pf/feature-page-section h2="미리 디자인된 Excel 템플릿을 기반으로 보고서 만들기" %}}
 
-.NET 어셈블리 API를 사용하면 동일한 패턴 파일을 만드는 과정을 쉽게 자동화할 수 있습니다. 다양한 방법이 있습니다 [데이터 가져오기](https://docs.aspose.com/cells/net/import-data-into-worksheet/#importing-data-from-json) 그리고 엑셀 파일을 생성합니다. API 제공 [통합 문서 디자이너 클래스](https://apireference.aspose.com/cells/net/aspose.cells/workbookdesigner) 디자이너 워크시트를 나타냅니다. 개체를 생성하고 템플릿 파일을 여는 데 사용합니다. DataTable, Array, Json 파일 등이 될 수 있는 데이터 소스를 설정합니다. 데이터를 가져오도록 처리하고 필요한 형식의 데이터와 함께 파일을 저장합니다. 프로그래머는 아래 나열된 링크와 같이 데이터를 다른 파일 형식의 보고서로 조합할 수 있습니다.
+.NET 어셈블리 API를 사용하면 동일한 패턴 파일을 만드는 과정을 쉽게 자동화할 수 있습니다. 다양한 방법이 있습니다 [데이터 가져오기](https://docs.aspose.com/cells/net/import-data-into-worksheet/#importing-data-from-json) 그리고 엑셀 파일을 생성합니다. API 제공 [통합 문서 디자이너 클래스](https://reference.aspose.com/cells/net/aspose.cells/workbookdesigner) 디자이너 워크시트를 나타냅니다. 개체를 생성하고 템플릿 파일을 여는 데 사용합니다. DataTable, Array, Json 파일 등이 될 수 있는 데이터 소스를 설정합니다. 데이터를 가져오도록 처리하고 필요한 형식의 데이터와 함께 파일을 저장합니다. 프로그래머는 아래 나열된 링크와 같이 데이터를 다른 파일 형식의 보고서로 조합할 수 있습니다.
 
 
 

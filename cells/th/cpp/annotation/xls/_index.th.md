@@ -41,7 +41,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. โหลดไฟล์ XLS Excel โดยใช้วัตถุคลาส IWorkbook1. เลือกแผ่นงานที่เกี่ยวข้อง1. เพิ่มความคิดเห็นโดยใช้วิธีการเพิ่ม1. ตั้งค่าบันทึกความคิดเห็นโดยใช้วิธี SetNote1. บันทึกสมุดงานโดยใช้ [บันทึก](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) กระบวนการ
+1. โหลดไฟล์ XLS Excel โดยใช้วัตถุคลาส IWorkbook1. เลือกแผ่นงานที่เกี่ยวข้อง1. เพิ่มความคิดเห็นโดยใช้วิธีการเพิ่ม1. ตั้งค่าบันทึกความคิดเห็นโดยใช้วิธี SetNote1. บันทึกสมุดงานโดยใช้ [บันทึก](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) กระบวนการ
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

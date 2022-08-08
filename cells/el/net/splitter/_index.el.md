@@ -10,12 +10,12 @@ description: C# πηγαίοι κώδικες που εξηγούν πώς να 
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Διαχωρίστε το έγγραφο του Excel σε πολλά αρχεία" %}}
-Ο απλούστερος τρόπος για να διαιρέσετε τα φύλλα του Excel είναι η πρόσβαση σε όλα τα φύλλα μέσω [Φύλλα εργασίας](https://apireference.aspose.com/cells/net/aspose.cells/workbook/properties/worksheets), Επαναλαμβάνοντας σε κάθε φύλλο και καλώντας το [αντίγραφο](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy) μέθοδος. Τέλος, αποθηκεύστε το σε μια καθορισμένη διαδρομή. 
+Ο απλούστερος τρόπος για να διαιρέσετε τα φύλλα του Excel είναι η πρόσβαση σε όλα τα φύλλα μέσω [Φύλλα εργασίας](https://reference.aspose.com/cells/net/aspose.cells/workbook/properties/worksheets), Επαναλαμβάνοντας σε κάθε φύλλο και καλώντας το [αντίγραφο](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy) μέθοδος. Τέλος, αποθηκεύστε το σε μια καθορισμένη διαδρομή. 
 
-+ Φορτώστε το αρχείο Excel με πλήρη διαδρομή χρησιμοποιώντας [Τάξη βιβλίου εργασίας](https://apireference.aspose.com/cells/net/aspose.cells/workbook).
++ Φορτώστε το αρχείο Excel με πλήρη διαδρομή χρησιμοποιώντας [Τάξη βιβλίου εργασίας](https://reference.aspose.com/cells/net/aspose.cells/workbook).
 + Επανάληψη σε κάθε φύλλο
 + Δημιουργήστε ένα νέο αντικείμενο κλάσης Βιβλίο εργασίας
-+ Αντιγράψτε το φύλλο μέσω [Μέθοδος αντιγραφής](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
++ Αντιγράψτε το φύλλο μέσω [Μέθοδος αντιγραφής](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
 + Καλέστε τη μέθοδο Save() και περάστε το όνομα του αρχείου (πλήρης διαδρομή) με σχετικό SaveFormat.
 
 {{% blocks/products/pf/feature-page-code h3="C# Κώδικας για διαίρεση αρχείων Excel" %}}
@@ -29,7 +29,7 @@ description: C# πηγαίοι κώδικες που εξηγούν πώς να 
 
 {{% blocks/products/pf/feature-page-section h2="Διαχωρίστε το φύλλο εργασίας του Excel σε παράθυρα" %}}
 
-Για τον διαχωρισμό του παραθύρου του φύλλου εργασίας σε παράθυρα, το API παρέχει [Μέθοδος διαχωρισμού](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/split) της κλάσης φύλλου εργασίας, που παρέχει τη χωρισμένη προβολή του φύλλου εργασίας. Για να αφαιρέσετε τη διαχωρισμένη προβολή, το API παρέχει [Μέθοδος RemoveSplit](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/removesplit). Τέλος αποθηκεύστε το σε μια καθορισμένη διαδρομή. 
+Για τον διαχωρισμό του παραθύρου του φύλλου εργασίας σε παράθυρα, το API παρέχει [Μέθοδος διαχωρισμού](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/split) της κλάσης φύλλου εργασίας, που παρέχει τη χωρισμένη προβολή του φύλλου εργασίας. Για να αφαιρέσετε τη διαχωρισμένη προβολή, το API παρέχει [Μέθοδος RemoveSplit](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/removesplit). Τέλος αποθηκεύστε το σε μια καθορισμένη διαδρομή. 
 
 {{% blocks/products/pf/feature-page-code h3="C# Κώδικας για διαίρεση του παραθύρου φύλλου εργασίας του Excel" %}}
 

@@ -41,7 +41,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Φορτώστε το αρχείο XLSM Excel χρησιμοποιώντας το αντικείμενο κλάσης IWorkbook.1. Επιλέξτε το σχετικό φύλλο1. Προσθέστε το σχόλιο χρησιμοποιώντας τη μέθοδο Προσθήκη1. Ορίστε τη σημείωση του σχολίου χρησιμοποιώντας τη μέθοδο SetNote.1. Αποθηκεύστε το βιβλίο εργασίας χρησιμοποιώντας [Σώσει](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) μέθοδος
+1. Φορτώστε το αρχείο XLSM Excel χρησιμοποιώντας το αντικείμενο κλάσης IWorkbook.1. Επιλέξτε το σχετικό φύλλο1. Προσθέστε το σχόλιο χρησιμοποιώντας τη μέθοδο Προσθήκη1. Ορίστε τη σημείωση του σχολίου χρησιμοποιώντας τη μέθοδο SetNote.1. Αποθηκεύστε το βιβλίο εργασίας χρησιμοποιώντας [Σώσει](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) μέθοδος
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

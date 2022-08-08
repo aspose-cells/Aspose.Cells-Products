@@ -10,7 +10,7 @@ description: Hợp nhất các tệp Excel bằng cách sử dụng Java thành 
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Kết hợp Tệp Excel với Hình ảnh và Biểu đồ" %}}
-Cách đơn giản nhất để kết hợp hai tệp Excel có hình ảnh và biểu đồ là gọi [Workbook.combine](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#combine(com.aspose.cells.Workbook)) phương pháp. Nó cho phép hợp nhất các tệp Excel cùng loại thành một bảng tính duy nhất.
+Cách đơn giản nhất để kết hợp hai tệp Excel có hình ảnh và biểu đồ là gọi [Workbook.combine](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#combine(com.aspose.cells.Workbook)) phương pháp. Nó cho phép hợp nhất các tệp Excel cùng loại thành một bảng tính duy nhất.
 {{% blocks/products/pf/feature-page-code h3="Java Mã để Kết hợp Tệp Excel" %}}
 
 ```cs
@@ -29,7 +29,7 @@ book1.save("combined.xlsx");
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="Hợp nhất nhiều tệp Excel" %}}
-[CellsHelper.mergeFiles](https://apireference.aspose.com/cells/java/com.aspose.cells/cellshelper#mergeFiles) phương pháp hỗ trợ hợp nhất dữ liệu, kiểu và công thức của tệp Excel vào một bảng tính mới có cùng định dạng. Đó là một cách hiệu quả để hợp nhất một số tệp trong khi sử dụng bộ nhớ đệm. 
+[CellsHelper.mergeFiles](https://reference.aspose.com/cells/java/com.aspose.cells/cellshelper#mergeFiles) phương pháp hỗ trợ hợp nhất dữ liệu, kiểu và công thức của tệp Excel vào một bảng tính mới có cùng định dạng. Đó là một cách hiệu quả để hợp nhất một số tệp trong khi sử dụng bộ nhớ đệm. 
 {{% blocks/products/pf/feature-page-code h3="Java Mã để Hợp nhất Một số Tệp Excel" %}}
 
 ```cs
@@ -47,7 +47,7 @@ CellsHelper.mergeFiles(files, "cache", "merged.xls");
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="Hợp nhất các tệp Excel bằng cách sao chép trang tính" %}}
-[Worksheet.copy](https://apireference.aspose.com/cells/java/com.aspose.cells/worksheet#copy(com.aspose.cells.Worksheet)có thể được sử dụng để sao chép dữ liệu và định dạng từ một trang tính nguồn sang một trang tính khác trong hoặc giữa các sổ làm việc. Phương thức này lấy đối tượng trang tính nguồn làm tham số.
+[Worksheet.copy](https://reference.aspose.com/cells/java/com.aspose.cells/worksheet#copy(com.aspose.cells.Worksheet)có thể được sử dụng để sao chép dữ liệu và định dạng từ một trang tính nguồn sang một trang tính khác trong hoặc giữa các sổ làm việc. Phương thức này lấy đối tượng trang tính nguồn làm tham số.
 {{% blocks/products/pf/feature-page-code h3="Java Mã để Sao chép Trang tính giữa các Sổ làm việc" %}}
 
 ```cs

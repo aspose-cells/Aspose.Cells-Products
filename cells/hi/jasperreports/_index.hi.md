@@ -260,7 +260,7 @@ description: एक्सेल एक्सएलएस एक्सएलए�
 {{< blocks/products/pf/slr-tab tabTitle="सीखने के संसाधन" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="प्रलेखन" href="https://docs.aspose.com/cells/jasperreports/" >}}
 {{< blocks/products/pf/slr-element name="सोर्स कोड" href="https://github.com/aspose-cells?tab=repositories" >}}
-{{< blocks/products/pf/slr-element name="API संदर्भ" href="https://apireference.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="API संदर्भ" href="https://reference.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="ट्यूटोरियल वीडियो" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

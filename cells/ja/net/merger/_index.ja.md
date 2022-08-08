@@ -10,7 +10,7 @@ description: ExcelとOpenOfficeのスプレッドシートファイルを数行�
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Excelファイルを画像やグラフと組み合わせる" %}}
-画像とグラフを含む2つのExcelファイルを組み合わせる最も簡単な方法は、 [Workbook.Combine](https://apireference.aspose.com/cells/net/aspose.cells/workbook/methods/combine) 方法。これにより、同様のタイプのExcelファイルを1つのスプレッドシートにマージできます。
+画像とグラフを含む2つのExcelファイルを組み合わせる最も簡単な方法は、 [Workbook.Combine](https://reference.aspose.com/cells/net/aspose.cells/workbook/methods/combine) 方法。これにより、同様のタイプのExcelファイルを1つのスプレッドシートにマージできます。
 {{% blocks/products/pf/feature-page-code h3="C#Excelファイルを結合するコード" %}}
 
 {{< gist "aspose-com-gists" "d7c757e7471bd38006ac0d35d221b2e2" "combine-two-workbooks.cs" >}}
@@ -19,7 +19,7 @@ description: ExcelとOpenOfficeのスプレッドシートファイルを数行�
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="複数のExcelファイルをマージする" %}}
-[CellsHelper.MergeFiles](https://apireference.aspose.com/cells/net/aspose.cells/cellshelper/methods/mergefiles) methodは、Excelファイルのデータ、スタイル、および式を同じ形式の新しいスプレッドシートにマージすることをサポートします。これは、キャッシングを使用しながら複数のファイルをマージする効率的な方法です。 
+[CellsHelper.MergeFiles](https://reference.aspose.com/cells/net/aspose.cells/cellshelper/methods/mergefiles) methodは、Excelファイルのデータ、スタイル、および式を同じ形式の新しいスプレッドシートにマージすることをサポートします。これは、キャッシングを使用しながら複数のファイルをマージする効率的な方法です。 
 {{% blocks/products/pf/feature-page-code h3="C#複数のExcelファイルをマージするコード" %}}
 
 {{< gist "aspose-com-gists" "d7c757e7471bd38006ac0d35d221b2e2" "merge-several-excel-files.cs" >}}
@@ -28,7 +28,7 @@ description: ExcelとOpenOfficeのスプレッドシートファイルを数行�
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="ワークシートをコピーしてExcelファイルをマージする" %}}
-[Worksheet.Copy](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy/index) データとフォーマットをソースワークシートからワークブック内またはワークブック間で別のワークシートにコピーするために使用できます。このメソッドは、ソースワークシートオブジェクトをパラメーターとして受け取ります。
+[Worksheet.Copy](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy/index) データとフォーマットをソースワークシートからワークブック内またはワークブック間で別のワークシートにコピーするために使用できます。このメソッドは、ソースワークシートオブジェクトをパラメーターとして受け取ります。
 {{% blocks/products/pf/feature-page-code h3="C#Excelファイル間でワークシートをコピーするためのコード" %}}
 
 {{< gist "aspose-com-gists" "d7c757e7471bd38006ac0d35d221b2e2" "copy-worksheets-across-excel-files.cs" >}}

@@ -26,7 +26,7 @@ description: JavaXLSドキュメントを生成するためのサンプルコー
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. のインスタンスを作成します [ワークブッククラス](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook)。1. getWorksheets.get（）メソッドを使用して関連するワークシートにアクセスします。1. 関連するセルを選択し、A1、B3などのセル名を使用して目的のセルに値を入力します。1. save（）メソッドを使用して、ブックをXLS形式で保存します。
+1. のインスタンスを作成します [ワークブッククラス](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)。1. getWorksheets.get（）メソッドを使用して関連するワークシートにアクセスします。1. 関連するセルを選択し、A1、B3などのセル名を使用して目的のセルに値を入力します。1. save（）メソッドを使用して、ブックをXLS形式で保存します。
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="システム要求" %}}

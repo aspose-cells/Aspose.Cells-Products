@@ -49,7 +49,7 @@ PM> Install-Package Aspose.Cells
 + Muat file ODS dengan path lengkap untuk pemisahan.
 + Ulangi melalui setiap lembar
 + Buat objek kelas Buku Kerja baru
-+ Salin lembar melalui [Salin metode](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
++ Salin lembar melalui [Salin metode](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
 + Panggil metode Save() dan berikan nama file (path lengkap) dan SaveFormat.Ods sebagai parameter. 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

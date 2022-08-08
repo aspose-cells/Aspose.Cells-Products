@@ -11,7 +11,7 @@ description: Chuyển đổi Excel XLS, XLSX, ODS, CSV sang PDF, XPS, HTML, JPEG
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Chuyển đổi Excel sang XLSX, ODS, SXC & FODS" %}}
-Việc chuyển đổi giữa các định dạng bảng tính chỉ yêu cầu tải một bảng tính có phiên bản của [Sách bài tập](https://apireference.aspose.com/cells/net/aspose.cells/workbook) và lưu lại ở định dạng mong muốn trong khi chọn giá trị thích hợp từ [SaveFormat](https://apireference.aspose.com/cells/net/aspose.cells/saveformat) sự liệt kê.
+Việc chuyển đổi giữa các định dạng bảng tính chỉ yêu cầu tải một bảng tính có phiên bản của [Sách bài tập](https://reference.aspose.com/cells/net/aspose.cells/workbook) và lưu lại ở định dạng mong muốn trong khi chọn giá trị thích hợp từ [SaveFormat](https://reference.aspose.com/cells/net/aspose.cells/saveformat) sự liệt kê.
 {{% blocks/products/pf/feature-page-code h3="C# Mã cho Chuyển đổi Định dạng Tệp Excel" %}}
 
 ```cs
@@ -30,7 +30,7 @@ workbook.Save("output.fods", Aspose.Cells.SaveFormat.Fods);
 
 
 {{% blocks/products/pf/feature-page-section h2="Chuyển đổi Excel sang PDF, XPS, HTML & MD" %}}
-Các lớp chuyên biệt có sẵn để kiểm soát quá trình chuyển đổi cho các định dạng đầu ra cụ thể như [PdfSaveOptions](https://apireference.aspose.com/cells/net/aspose.cells/pdfsaveoptions) để xuất tệp Excel dưới dạng PDF, [XpsSaveOptions](https://apireference.aspose.com/cells/net/aspose.cells/xpssaveoptions) để chuyển đổi Excel sang XPS, [HtmlSaveOptions](https://apireference.aspose.com/cells/net/aspose.cells/htmlsaveoptions) để kết xuất Excel dưới dạng HTML và [MarkdownSaveOptions](https://apireference.aspose.com/cells/net/aspose.cells/markdownsaveoptions) để chuyển đổi Excel sang Markdown. 
+Các lớp chuyên biệt có sẵn để kiểm soát quá trình chuyển đổi cho các định dạng đầu ra cụ thể như [PdfSaveOptions](https://reference.aspose.com/cells/net/aspose.cells/pdfsaveoptions) để xuất tệp Excel dưới dạng PDF, [XpsSaveOptions](https://reference.aspose.com/cells/net/aspose.cells/xpssaveoptions) để chuyển đổi Excel sang XPS, [HtmlSaveOptions](https://reference.aspose.com/cells/net/aspose.cells/htmlsaveoptions) để kết xuất Excel dưới dạng HTML và [MarkdownSaveOptions](https://reference.aspose.com/cells/net/aspose.cells/markdownsaveoptions) để chuyển đổi Excel sang Markdown. 
 {{% blocks/products/pf/feature-page-code h3="C# Mã cho Excel sang PDF và Định dạng Web" %}}
 
 ```cs
@@ -52,7 +52,7 @@ book.Save("output.md", new Aspose.Cells.MarkdownSaveOptions() { FormatStrategy =
 {{< blocks/products/pf/feature-page-options formats="XPS PDF" beforeslug="convert" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Chuyển đổi JSON sang Excel & Excel sang JSON" %}}
-Dữ liệu JSON có thể được nhập vào một phiên bản của [Cells](https://apireference.aspose.com/cells/net/aspose.cells/cells) lớp học với sự giúp đỡ của [JsonUtility.ImportData](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/importdata) để xử lý thêm hoặc chuyển đổi đơn giản sang bất kỳ định dạng nào được hỗ trợ. Tương tự, [Bảng tính](https://apireference.aspose.com/cells/net/aspose.cells/worksheet) dữ liệu có thể được xuất dưới dạng JSON bằng cách tạo [Phạm vi](https://apireference.aspose.com/cells/net/aspose.cells/range) hoặc các ô và gọi [JsonUtility.ExportRangeToJson](https://apireference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/exportrangetojson) phương pháp.
+Dữ liệu JSON có thể được nhập vào một phiên bản của [Cells](https://reference.aspose.com/cells/net/aspose.cells/cells) lớp học với sự giúp đỡ của [JsonUtility.ImportData](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/importdata) để xử lý thêm hoặc chuyển đổi đơn giản sang bất kỳ định dạng nào được hỗ trợ. Tương tự, [Bảng tính](https://reference.aspose.com/cells/net/aspose.cells/worksheet) dữ liệu có thể được xuất dưới dạng JSON bằng cách tạo [Phạm vi](https://reference.aspose.com/cells/net/aspose.cells/range) hoặc các ô và gọi [JsonUtility.ExportRangeToJson](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/exportrangetojson) phương pháp.
 {{% blocks/products/pf/feature-page-code h3="C# Mã cho Chuyển đổi JSON sang Excel" %}}
 ```cs
 // tạo một đối tượng Workbook
@@ -93,7 +93,7 @@ System.IO.File.WriteAllText("output.json", jsonData);
 {{< blocks/products/pf/feature-page-options pairs="json-to-xlsx json-to-ods json-to-csv json-to-dif json-to-html csv-to-json xls-to-json ods-to-json" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Chuyển đổi Bảng tính Excel sang JPG, BMP, PNG & GIF" %}}
-Mỗi trang tính của tệp Excel có thể được chuyển đổi sang các định dạng hình ảnh khác nhau do [ImageOrPrintOptions.ImageType](https://apireference.aspose.com/cells/net/aspose.cells.rendering/imageorprintoptions/properties/imagetype) bất động sản. Giá trị mặc định là `ImageFormat.Bmp`.
+Mỗi trang tính của tệp Excel có thể được chuyển đổi sang các định dạng hình ảnh khác nhau do [ImageOrPrintOptions.ImageType](https://reference.aspose.com/cells/net/aspose.cells.rendering/imageorprintoptions/properties/imagetype) bất động sản. Giá trị mặc định là `ImageFormat.Bmp`.
 {{% blocks/products/pf/feature-page-code h3="C# Mã chuyển đổi Excel sang Hình ảnh" %}}
 ```cs
 // tải bảng tính mẫu
@@ -115,7 +115,7 @@ render.ToImage(0, "output.jpg");
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Chuyển đổi Excel sang Word & PowerPoint" %}}
-Có thể tải bất kỳ bảng tính nào và chuyển đổi nó sang các tệp Word DOCX & PowerPoint PPTX trong khi sử dụng [DocxSaveOptions](https://apireference.aspose.com/cells/net/aspose.cells/docxsaveoptions) & [PptxSaveOptions](https://apireference.aspose.com/cells/net/aspose.cells/pptxsaveoptions) các lớp như minh họa bên dưới.
+Có thể tải bất kỳ bảng tính nào và chuyển đổi nó sang các tệp Word DOCX & PowerPoint PPTX trong khi sử dụng [DocxSaveOptions](https://reference.aspose.com/cells/net/aspose.cells/docxsaveoptions) & [PptxSaveOptions](https://reference.aspose.com/cells/net/aspose.cells/pptxsaveoptions) các lớp như minh họa bên dưới.
 {{% blocks/products/pf/feature-page-code h3="C# mã cho Chuyển đổi Excel sang Word & PowerPoint" %}}
 ```cs
 // tải tệp mẫu

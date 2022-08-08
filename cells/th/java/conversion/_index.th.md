@@ -11,7 +11,7 @@ description: แปลง Excel XLS, XLSX, ODS, CSV เป็น PDF, XPS, HTML,
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="การแปลงระหว่างรูปแบบ Microsoft Excel" %}}
-การแปลงรูปแบบสเปรดชีตระหว่างกัน จำเป็นต้องโหลดสเปรดชีตที่มีอินสแตนซ์ของ . เท่านั้น [สมุดงาน](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) และบันทึกในรูปแบบที่ต้องการในขณะที่เลือกค่าที่เหมาะสมจาก [บันทึกรูปแบบ](https://apireference.aspose.com/cells/java/com.aspose.cells/SaveFormat) การแจงนับ
+การแปลงรูปแบบสเปรดชีตระหว่างกัน จำเป็นต้องโหลดสเปรดชีตที่มีอินสแตนซ์ของ . เท่านั้น [สมุดงาน](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) และบันทึกในรูปแบบที่ต้องการในขณะที่เลือกค่าที่เหมาะสมจาก [บันทึกรูปแบบ](https://reference.aspose.com/cells/java/com.aspose.cells/SaveFormat) การแจงนับ
 {{% blocks/products/pf/feature-page-code h3="Java ตัวอย่างโค้ดสำหรับการแปลงรูปแบบไฟล์ Excel" %}}
 
 ```cs
@@ -30,7 +30,7 @@ wkb.save("fods-output.fods", SaveFormat.FODS);
 
 
 {{% blocks/products/pf/feature-page-section h2="แปลง Excel เป็น PDF, XPS, HTML & MD" %}}
-มีคลาสเฉพาะเพื่อควบคุมกระบวนการแปลงสำหรับรูปแบบเอาต์พุตเฉพาะเช่น [PdfSaveOptions](https://apireference.aspose.com/cells/java/com.aspose.cells/PdfSaveOptions) เพื่อแปลงไฟล์ Excel เป็น PDF [XpsSaveOptions](https://apireference.aspose.com/cells/java/com.aspose.cells/XpsSaveOptions) เพื่อส่งออก Excel เป็น XPS [HtmlSaveOptions](https://apireference.aspose.com/cells/java/com.aspose.cells/HtmlSaveOptions) เพื่อแสดง Excel เป็น HTML และ [MarkdownSaveOptions](https://apireference.aspose.com/cells/java/com.aspose.cells/MarkdownSaveOptions) สำหรับการแปลง Excel เป็น Markdown 
+มีคลาสเฉพาะเพื่อควบคุมกระบวนการแปลงสำหรับรูปแบบเอาต์พุตเฉพาะเช่น [PdfSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/PdfSaveOptions) เพื่อแปลงไฟล์ Excel เป็น PDF [XpsSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/XpsSaveOptions) เพื่อส่งออก Excel เป็น XPS [HtmlSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/HtmlSaveOptions) เพื่อแสดง Excel เป็น HTML และ [MarkdownSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/MarkdownSaveOptions) สำหรับการแปลง Excel เป็น Markdown 
 {{% blocks/products/pf/feature-page-code h3="Java ตัวอย่างโค้ดสำหรับ Excel เป็น PDF และรูปแบบเว็บ" %}}
 
 ```cs
@@ -59,7 +59,7 @@ bk.save("output.md", new MarkdownSaveOptions());
 {{< blocks/products/pf/feature-page-options formats="XPS PDF" beforeslug="convert" >}}
 
 {{% blocks/products/pf/feature-page-section h2="แปลง JSON เป็น Excel และ Excel เป็น JSON" %}}
-ข้อมูล JSON สามารถนำเข้าสู่อินสแตนซ์ของคลาส Workbook ด้วยความช่วยเหลือของ [JSONUtility.importData](https://apireference.aspose.com/cells/java/com.aspose.cells/jsonutility#importData) สำหรับการประมวลผลเพิ่มเติมหรือการแปลงอย่างง่ายเป็นรูปแบบที่รองรับ ในทำนองเดียวกัน ข้อมูลเวิร์กชีตสามารถส่งออกเป็น JSON ได้โดยการสร้าง a [พิสัย](https://apireference.aspose.com/cells/java/com.aspose.cells/range) หรือเซลล์แล้วเรียก [exportRangeToJson](https://apireference.aspose.com/cells/java/com.aspose.cells/jsonutility) กระบวนการ.
+ข้อมูล JSON สามารถนำเข้าสู่อินสแตนซ์ของคลาส Workbook ด้วยความช่วยเหลือของ [JSONUtility.importData](https://reference.aspose.com/cells/java/com.aspose.cells/jsonutility#importData) สำหรับการประมวลผลเพิ่มเติมหรือการแปลงอย่างง่ายเป็นรูปแบบที่รองรับ ในทำนองเดียวกัน ข้อมูลเวิร์กชีตสามารถส่งออกเป็น JSON ได้โดยการสร้าง a [พิสัย](https://reference.aspose.com/cells/java/com.aspose.cells/range) หรือเซลล์แล้วเรียก [exportRangeToJson](https://reference.aspose.com/cells/java/com.aspose.cells/jsonutility) กระบวนการ.
 {{% blocks/products/pf/feature-page-code h3="Java โค้ดสำหรับการแปลง JSON เป็น Excel" %}}
 ```cs
 Workbook workbook = new Workbook(path + "source-file.xlsx");
@@ -142,7 +142,7 @@ for (int j = 0; j < sr.getPageCount(); j++) {
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
 {{% blocks/products/pf/feature-page-section h2="แปลง Microsoft Excel เป็น Word และ PowerPoint" %}}
-สามารถโหลดสเปรดชีตใดก็ได้และแปลงเป็นไฟล์ Word DOCX และ PowerPoint PPTX ขณะใช้งาน [DocxSaveOptions](https://apireference.aspose.com/cells/java/com.aspose.cells/DocxSaveOptions) & [PptxSaveOptions](https://apireference.aspose.com/cells/java/com.aspose.cells/PptxSaveOptions) ชั้นเรียนดังที่แสดงด้านล่าง
+สามารถโหลดสเปรดชีตใดก็ได้และแปลงเป็นไฟล์ Word DOCX และ PowerPoint PPTX ขณะใช้งาน [DocxSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/DocxSaveOptions) & [PptxSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/PptxSaveOptions) ชั้นเรียนดังที่แสดงด้านล่าง
 {{% blocks/products/pf/feature-page-code h3="Java โค้ดสำหรับการแปลง Excel เป็น Word & PowerPoint" %}}
 ```cs
 // โหลดไฟล์เทมเพลต

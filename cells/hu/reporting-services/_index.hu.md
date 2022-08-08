@@ -440,7 +440,7 @@ description: SQL Server Reporting Services megjelenítési bővítmény – Expo
 {{< blocks/products/pf/slr-tab tabTitle="Tanulási források" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentáció" href="https://docs.aspose.com/cells/reportingservices/" >}}
 {{< blocks/products/pf/slr-element name="Forráskód" href="https://github.com/aspose-cells?tab=repositories" >}}
-{{< blocks/products/pf/slr-element name="API Hivatkozások" href="https://apireference.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="API Hivatkozások" href="https://reference.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Oktatóvideók" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

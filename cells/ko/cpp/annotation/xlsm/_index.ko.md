@@ -41,7 +41,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. IWorkbook 클래스 개체를 사용하여 XLSM Excel 파일을 로드합니다.1. 관련 시트 선택1. Add 메서드를 사용하여 주석 추가1. SetNote 메서드를 사용하여 주석의 메모를 설정합니다.1. 다음을 사용하여 통합 문서 저장 [구하다](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) 방법
+1. IWorkbook 클래스 개체를 사용하여 XLSM Excel 파일을 로드합니다.1. 관련 시트 선택1. Add 메서드를 사용하여 주석 추가1. SetNote 메서드를 사용하여 주석의 메모를 설정합니다.1. 다음을 사용하여 통합 문서 저장 [구하다](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) 방법
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

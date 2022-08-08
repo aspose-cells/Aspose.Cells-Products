@@ -26,7 +26,7 @@ description: Java Voorbeeldcode voor het genereren van XLS-documenten. Gebruik d
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Maak een instantie van [Werkboek klasse](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook).1. Open het relevante werkblad met de methode getWorksheets.get().1. Selecteer de relevante cel, voer de waarde in de gewenste cel in met behulp van de celnaam, zoals A1, B3, enz.1. Sla de werkmap op als XLS-indeling met behulp van de methode save().
+1. Maak een instantie van [Werkboek klasse](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook).1. Open het relevante werkblad met de methode getWorksheets.get().1. Selecteer de relevante cel, voer de waarde in de gewenste cel in met behulp van de celnaam, zoals A1, B3, enz.1. Sla de werkmap op als XLS-indeling met behulp van de methode save().
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="systeem vereisten" %}}

@@ -24,7 +24,7 @@ Das dynamische Erstellen von Liniendiagrammen innerhalb einer laufenden Anwendun
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Aspose.Cells-Namespace einschließen1. Erstellen [**Arbeitsmappe**](https://apireference.aspose.com/cells/net/aspose.cells/workbook) Klasse Instanz.1. Fügen Sie dem Arbeitsblatt einige Daten hinzu.1. Füge hinzu ein [**Linie**](https://apireference.aspose.com/cells/net/aspose.cells.charts/charttype) Diagramm zum Arbeitsblatt.1. Greifen Sie auf das Neue zu [**Diagramm**](https://apireference.aspose.com/cells/net/aspose.cells.charts/chart) Objekt.1. Geben Sie mit die Datenquelle des Diagramms an [**Chart.SetChartDataRange**](https://https://apireference.aspose.com/cells/net/aspose.cells.charts/chart/methods/setchartdatarange) Methode.
+1. Aspose.Cells-Namespace einschließen1. Erstellen [**Arbeitsmappe**](https://reference.aspose.com/cells/net/aspose.cells/workbook) Klasse Instanz.1. Fügen Sie dem Arbeitsblatt einige Daten hinzu.1. Füge hinzu ein [**Linie**](https://reference.aspose.com/cells/net/aspose.cells.charts/charttype) Diagramm zum Arbeitsblatt.1. Greifen Sie auf das Neue zu [**Diagramm**](https://reference.aspose.com/cells/net/aspose.cells.charts/chart) Objekt.1. Geben Sie mit die Datenquelle des Diagramms an [**Chart.SetChartDataRange**](https://https://reference.aspose.com/cells/net/aspose.cells.charts/chart/methods/setchartdatarange) Methode.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

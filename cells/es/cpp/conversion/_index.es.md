@@ -11,7 +11,7 @@ Para cualquier aplicación o solución de conversión de hojas de cálculo, **C+
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Interconversión de formatos de Microsoft Excel" %}}
-La interconversión del formato de hoja de cálculo solo requiere cargar una hoja de cálculo con una instancia de [ intrusive_ptr<Aspose::Cells::IWorkbook>](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) puntero y guardar de nuevo en el formato deseado usando [Guardar](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997) método de [Clase de libro de trabajo](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook).
+La interconversión del formato de hoja de cálculo solo requiere cargar una hoja de cálculo con una instancia de [ intrusive_ptr<Aspose::Cells::IWorkbook>](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) puntero y guardar de nuevo en el formato deseado usando [Guardar](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997) método de [Clase de libro de trabajo](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook).
 {{% blocks/products/pf/feature-page-code h3="C++ Código de ejemplo para conversión de formato de archivo de Excel" %}}
 
 ```cs
@@ -30,7 +30,7 @@ wkb->Save(u"output_excel_format.xlsx", SaveFormat_Xlsx);
 
 
 {{% blocks/products/pf/feature-page-section h2="Convierta formatos de Excel a PDF con la configuración del nivel de cumplimiento" %}}
-C++ Automatización de Excel API admite la conversión de libros de trabajo a PDF, así como la configuración del nivel de cumplimiento y la fecha de creación. Los desarrolladores pueden usar [IPdfSaveOptions](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_pdf_save_options) junto con [Aspose::Cells::Procesamiento](https://apireference.aspose.com/cells/cpp/namespace/aspose.cells.rendering) para configurar el cumplimiento de PDF. Para la conversión, API guarde el método con PdfSaveOptions como parámetro y la ruta del archivo de salida especificada. 
+C++ Automatización de Excel API admite la conversión de libros de trabajo a PDF, así como la configuración del nivel de cumplimiento y la fecha de creación. Los desarrolladores pueden usar [IPdfSaveOptions](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_pdf_save_options) junto con [Aspose::Cells::Procesamiento](https://reference.aspose.com/cells/cpp/namespace/aspose.cells.rendering) para configurar el cumplimiento de PDF. Para la conversión, API guarde el método con PdfSaveOptions como parámetro y la ruta del archivo de salida especificada. 
 {{% blocks/products/pf/feature-page-code h3="C++ código de muestra para la conversión de Excel a PDF" %}}
 
 ```cs
@@ -58,7 +58,7 @@ wkb->Save(u"output-converted-excel-workbook-to.pdf", pdfSaveOptions);
 {{< blocks/products/pf/feature-page-options formats="PDF" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Guardar Excel en imágenes" %}}
-**C++ Excel Parser** tiene la capacidad de exportar datos en forma de imágenes. Cada hoja de trabajo se puede convertir a diferentes formatos de imagen, incluidos BMP, JPEG, PNG y GIF, establecidos por el [Representación::IImageOrPrintOptions](https://apireference.aspose.com/cells/cpp/class/aspose.cells.rendering.i_image_or_print_options). Para cualquier caso de **Convertir Excel a Imágenes**, seleccione el caso relevante de los enlaces.
+**C++ Excel Parser** tiene la capacidad de exportar datos en forma de imágenes. Cada hoja de trabajo se puede convertir a diferentes formatos de imagen, incluidos BMP, JPEG, PNG y GIF, establecidos por el [Representación::IImageOrPrintOptions](https://reference.aspose.com/cells/cpp/class/aspose.cells.rendering.i_image_or_print_options). Para cualquier caso de **Convertir Excel a Imágenes**, seleccione el caso relevante de los enlaces.
 {{% blocks/products/pf/feature-page-code h3="C++ Código para conversión de Excel a imagen" %}}
 
 ```cs

@@ -10,12 +10,12 @@ description: Исходные коды C#, объясняющие, как раз
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Разделить документ Excel на несколько файлов" %}}
-Самый простой способ разделить файлы Excel на листы — это получить доступ ко всем листам через [Рабочие листы](https://apireference.aspose.com/cells/net/aspose.cells/workbook/properties/worksheets), Итерация по каждому листу и вызов [Копировать](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy) метод. Наконец, сохраните его по указанному пути. 
+Самый простой способ разделить файлы Excel на листы — это получить доступ ко всем листам через [Рабочие листы](https://reference.aspose.com/cells/net/aspose.cells/workbook/properties/worksheets), Итерация по каждому листу и вызов [Копировать](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy) метод. Наконец, сохраните его по указанному пути. 
 
-+ Загрузите файл Excel с полным путем, используя [Класс рабочей тетради](https://apireference.aspose.com/cells/net/aspose.cells/workbook).
++ Загрузите файл Excel с полным путем, используя [Класс рабочей тетради](https://reference.aspose.com/cells/net/aspose.cells/workbook).
 + Итерация по каждому листу
 + Создать новый объект класса Workbook
-+ Скопируйте лист через [Метод копирования](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
++ Скопируйте лист через [Метод копирования](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
 + Вызвать метод Save() и передать имя файла (полный путь) с соответствующим SaveFormat.
 
 {{% blocks/products/pf/feature-page-code h3="C# Код для разделения файлов Excel" %}}
@@ -29,7 +29,7 @@ description: Исходные коды C#, объясняющие, как раз
 
 {{% blocks/products/pf/feature-page-section h2="Разделить рабочий лист Excel на панели" %}}
 
-Для разделения окна рабочего листа на области API обеспечивает [Метод разделения](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/split) класса рабочего листа, который обеспечивает разделенный вид рабочего листа. Чтобы удалить разделенный вид, API предоставляет [Метод RemoveSplit](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/removesplit). Наконец, сохраните его по указанному пути. 
+Для разделения окна рабочего листа на области API обеспечивает [Метод разделения](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/split) класса рабочего листа, который обеспечивает разделенный вид рабочего листа. Чтобы удалить разделенный вид, API предоставляет [Метод RemoveSplit](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/removesplit). Наконец, сохраните его по указанному пути. 
 
 {{% blocks/products/pf/feature-page-code h3="C# Код для разделения окна рабочего листа Excel" %}}
 

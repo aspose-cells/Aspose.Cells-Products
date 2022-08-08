@@ -11,7 +11,7 @@ Python Az Excel Library felgyorsítja a táblázatkezelő programozási és áta
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Az Excel konvertálása XLSX, ODS, SXC és FODS formátumba" %}}
-A táblázatformátumok közötti konvertáláshoz csak egy példányt tartalmazó táblázatot kell betölteni [Munkafüzet](https://apireference.aspose.com/cells/python/asposecells.api/Workbook) és visszamenti a kívánt formátumba, miközben kiválasztja a megfelelő értéket [SaveFormat](https://apireference.aspose.com/cells/python/asposecells.api/saveformat) felsorolás.
+A táblázatformátumok közötti konvertáláshoz csak egy példányt tartalmazó táblázatot kell betölteni [Munkafüzet](https://reference.aspose.com/cells/python/asposecells.api/Workbook) és visszamenti a kívánt formátumba, miközben kiválasztja a megfelelő értéket [SaveFormat](https://reference.aspose.com/cells/python/asposecells.api/saveformat) felsorolás.
 {{% blocks/products/pf/feature-page-code h3="Python Kód az Excel fájlformátum konvertálásához" %}}
 
 ```cs
@@ -31,7 +31,7 @@ workbook.save("output.fods", SaveFormat.FODS);
 
 
 {{% blocks/products/pf/feature-page-section h2="Az Excel konvertálása PDF, XPS, HTML és MD formátumba" %}}
-Speciális osztályok állnak rendelkezésre az átalakítási folyamat vezérlésére meghatározott kimeneti formátumokhoz, mint pl [PdfSaveOptions](https://apireference.aspose.com/cells/python/asposecells.api/PdfSaveOptions) Excel fájlok PDF formátumban történő exportálásához, [XpsSaveOptions](https://apireference.aspose.com/cells/python/asposecells.api/XpsSaveOptions) az Excel XPS konvertáláshoz, [HtmlSaveOptions](https://apireference.aspose.com/cells/python/asposecells.api/HtmlSaveOptions) hogy az Excel HTML-ként jelenjen meg és [MarkdownSaveOptions](https://apireference.aspose.com/cells/python/asposecells.api/MarkdownSaveOptions) az Excelből Markdown konvertáláshoz. 
+Speciális osztályok állnak rendelkezésre az átalakítási folyamat vezérlésére meghatározott kimeneti formátumokhoz, mint pl [PdfSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/PdfSaveOptions) Excel fájlok PDF formátumban történő exportálásához, [XpsSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/XpsSaveOptions) az Excel XPS konvertáláshoz, [HtmlSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/HtmlSaveOptions) hogy az Excel HTML-ként jelenjen meg és [MarkdownSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/MarkdownSaveOptions) az Excelből Markdown konvertáláshoz. 
 {{% blocks/products/pf/feature-page-code h3="Python Kód az Excel PDF- és webformátumokhoz" %}}
 
 ```cs
@@ -90,7 +90,7 @@ workbook.save("Data.json")
 {{< blocks/products/pf/feature-page-options pairs="json-to-xlsx json-to-ods json-to-csv json-to-dif json-to-html csv-to-json xls-to-json ods-to-json" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Konvertálja az Excel munkalapokat JPG, BMP, PNG és GIF formátumba" %}}
-Egy Excel-fájl minden munkalapja konvertálható különböző képformátumokba, hívja [ImageOrPrintOptions](https://apireference.aspose.com/cells/python/asposecells.api/ImageOrPrintOptions).setImageFormat a képformátum beállításához. 
+Egy Excel-fájl minden munkalapja konvertálható különböző képformátumokba, hívja [ImageOrPrintOptions](https://reference.aspose.com/cells/python/asposecells.api/ImageOrPrintOptions).setImageFormat a képformátum beállításához. 
 {{% blocks/products/pf/feature-page-code h3="Python Kód az Excel képpé konvertálásához" %}}
 ```cs
 // sablon táblázat betöltése
@@ -112,7 +112,7 @@ sr.toImage(0, "output.jpg")
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Az Excel konvertálása Word és PowerPoint formátumba" %}}
-Lehetőség van bármilyen táblázat betöltésére és Word DOCX és PowerPoint PPTX fájlokká konvertálására használat közben. [DocxSaveOptions](https://apireference.aspose.com/cells/python/asposecells.api/DocxSaveOptions) & [PptxSaveOptions](https://apireference.aspose.com/cells/python/asposecells.api/PptxSaveOptions) osztályok alább bemutatott módon.
+Lehetőség van bármilyen táblázat betöltésére és Word DOCX és PowerPoint PPTX fájlokká konvertálására használat közben. [DocxSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/DocxSaveOptions) & [PptxSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/PptxSaveOptions) osztályok alább bemutatott módon.
 {{% blocks/products/pf/feature-page-code h3="Python kód az Excel Word és PowerPoint konvertáláshoz" %}}
 ```cs
 // töltse be a sablonfájlt

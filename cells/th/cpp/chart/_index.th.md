@@ -9,12 +9,12 @@ description: C++ ซอร์สโค้ดสำหรับวาดและ
 {{% blocks/products/pf/feature-page-summary %}}
 
 การใช้แผนภูมิ Excel จะทำให้ได้ภาพที่ใหญ่ขึ้นและวิเคราะห์ข้อมูลเพื่อการตัดสินใจที่ถูกต้องได้อย่างง่ายดาย [C++ ไลบรารี Excel](/cells/cpp/) รองรับการสร้างแผนภูมิที่แตกต่างกันโดย [enum Aspose::Cells::Charts::ChartType
-](https://apireference.aspose.com/cells/cpp/namespace/aspose.cells.charts#a2f17e69bcefc754569019185d0621b70) รวมถึงแผนภูมิพื้นที่ แท่ง พาย พีระมิด เส้น และฟองอากาศ นอกจากนี้ สำหรับการแปลงแผนภูมิเป็นรูปภาพ API ให้ a [ToImage mehtod](https://apireference.aspose.com/cells/cpp/class/aspose.cells.charts.i_sparkline#a28d76dd585c48366e1657f2982722ddb) ในรูปแบบภาพที่ต้องการ
+](https://reference.aspose.com/cells/cpp/namespace/aspose.cells.charts#a2f17e69bcefc754569019185d0621b70) รวมถึงแผนภูมิพื้นที่ แท่ง พาย พีระมิด เส้น และฟองอากาศ นอกจากนี้ สำหรับการแปลงแผนภูมิเป็นรูปภาพ API ให้ a [ToImage mehtod](https://reference.aspose.com/cells/cpp/class/aspose.cells.charts.i_sparkline#a28d76dd585c48366e1657f2982722ddb) ในรูปแบบภาพที่ต้องการ
 
 {{% /blocks/products/pf/feature-page-summary %}}
 {{% blocks/products/pf/feature-page-section h2="สร้างแผนภูมิ Excel" %}}
 
-ขั้นตอนการสร้างแผนภูมิ Excel คือ สร้างอินสแตนซ์ของ [คลาส IWorkbook](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) และเลือกแบบที่ต้องการ [ใบงาน](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_worksheet_collection#a5574d624796043233420d0e0459ccc43). เพิ่มแผนภูมิโดยใช้ [เพิ่มวิธีการ](https://apireference.aspose.com/cells/cpp/class/aspose.cells.charts.i_chart_collection#ab7e8cce835c251a4682605299a6aa068) ด้วยพารามิเตอร์ที่เกี่ยวข้องรวมถึงประเภทแผนภูมิ เข้าถึงแผนภูมิผ่านดัชนีและ [เพิ่ม](https://apireference.aspose.com/cells/cpp/class/aspose.cells.charts.i_series_collection#a8f4dc4d883f32f65b1fb673e2aa7862f) แหล่งข้อมูลสำหรับแผนภูมิ
+ขั้นตอนการสร้างแผนภูมิ Excel คือ สร้างอินสแตนซ์ของ [คลาส IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) และเลือกแบบที่ต้องการ [ใบงาน](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_worksheet_collection#a5574d624796043233420d0e0459ccc43). เพิ่มแผนภูมิโดยใช้ [เพิ่มวิธีการ](https://reference.aspose.com/cells/cpp/class/aspose.cells.charts.i_chart_collection#ab7e8cce835c251a4682605299a6aa068) ด้วยพารามิเตอร์ที่เกี่ยวข้องรวมถึงประเภทแผนภูมิ เข้าถึงแผนภูมิผ่านดัชนีและ [เพิ่ม](https://reference.aspose.com/cells/cpp/class/aspose.cells.charts.i_series_collection#a8f4dc4d883f32f65b1fb673e2aa7862f) แหล่งข้อมูลสำหรับแผนภูมิ
 
 {{% blocks/products/pf/feature-page-code h3="C++ รหัสสำหรับสร้างแผนภูมิ Excel" %}}
 

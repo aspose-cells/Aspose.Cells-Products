@@ -49,7 +49,7 @@ PM> Install-Package Aspose.Cells
 + Načtěte soubor ODS s úplnou cestou pro rozdělení.
 + Iterujte každý list
 + Vytvořte nový objekt třídy Workbook
-+ Zkopírujte list přes [Metoda kopírování](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
++ Zkopírujte list přes [Metoda kopírování](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
 + Zavolejte metodu Save() a předejte název souboru (úplnou cestu) a SaveFormat.Ods jako parametr. 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

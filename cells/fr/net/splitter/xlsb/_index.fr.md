@@ -48,7 +48,7 @@ PM> Install-Package Aspose.Cells
 Chargez le fichier XLSB avec le chemin complet pour le fractionnement.
 + Itérer à travers chaque feuille
 + Créer un nouvel objet de classe Workbook
-+ Copier la feuille via [Méthode de copie](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
++ Copier la feuille via [Méthode de copie](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
 + Appelez la méthode Save() et passez le nom du fichier (chemin complet) et SaveFormat.Xlsb en paramètre.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

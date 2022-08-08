@@ -26,7 +26,7 @@ description: Java 用于生成 XLS 文档的示例代码。使用此代码在基
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. 创建一个实例 [工作簿类](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook).1. 使用 getWorksheets.get() 方法访问相关工作表。1. 选择相关单元格，使用单元格名称将值输入所需的单元格，如 A1、B3 等。1. 使用 save() 方法将工作簿保存为 XLS 格式。
+1. 创建一个实例 [工作簿类](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook).1. 使用 getWorksheets.get() 方法访问相关工作表。1. 选择相关单元格，使用单元格名称将值输入所需的单元格，如 A1、B3 等。1. 使用 save() 方法将工作簿保存为 XLS 格式。
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="系统要求" %}}

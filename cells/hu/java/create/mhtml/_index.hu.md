@@ -26,7 +26,7 @@ description: Java Mintakód MHTML dokumentumok generálásához. Használja ezt 
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Hozzon létre egy példányt a [Munkafüzet osztály](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook).1. A megfelelő munkalapot a getWorksheets.get() metódussal érheti el.1. Válassza ki a megfelelő cellát, írja be az értéket a kívánt cellába a cellanév használatával, például A1, B3 stb.1. Mentse a munkafüzetet MHTML formátumban a save() metódussal.
+1. Hozzon létre egy példányt a [Munkafüzet osztály](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook).1. A megfelelő munkalapot a getWorksheets.get() metódussal érheti el.1. Válassza ki a megfelelő cellát, írja be az értéket a kívánt cellába a cellanév használatával, például A1, B3 stb.1. Mentse a munkafüzetet MHTML formátumban a save() metódussal.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="rendszerkövetelmények" %}}

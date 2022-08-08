@@ -10,12 +10,12 @@ description: C# kody źródłowe wyjaśniające, jak podzielić pliki Microsoft 
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Podziel dokument Excel na wiele plików" %}}
-Najprostszym sposobem dzielenia arkuszy Excela jest dostęp do wszystkich arkuszy przez [Arkusze robocze](https://apireference.aspose.com/cells/net/aspose.cells/workbook/properties/worksheets), Iterowanie przez każdy arkusz i wywoływanie [Kopiuj](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy) metoda. Wreszcie zapisując go w określonej ścieżce. 
+Najprostszym sposobem dzielenia arkuszy Excela jest dostęp do wszystkich arkuszy przez [Arkusze robocze](https://reference.aspose.com/cells/net/aspose.cells/workbook/properties/worksheets), Iterowanie przez każdy arkusz i wywoływanie [Kopiuj](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy) metoda. Wreszcie zapisując go w określonej ścieżce. 
 
-+ Załaduj plik Excel z pełną ścieżką za pomocą [Zajęcia ze skoroszytu](https://apireference.aspose.com/cells/net/aspose.cells/workbook).
++ Załaduj plik Excel z pełną ścieżką za pomocą [Zajęcia ze skoroszytu](https://reference.aspose.com/cells/net/aspose.cells/workbook).
 + Iteruj przez każdy arkusz
 + Utwórz nowy obiekt klasy Workbook
-+ Skopiuj arkusz przez [Metoda kopiowania](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
++ Skopiuj arkusz przez [Metoda kopiowania](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
 + Wywołaj metodę Save() i przekaż nazwę pliku (pełną ścieżkę) z odpowiednim SaveFormat.
 
 {{% blocks/products/pf/feature-page-code h3="C# Kod do dzielenia plików Excel" %}}
@@ -29,7 +29,7 @@ Najprostszym sposobem dzielenia arkuszy Excela jest dostęp do wszystkich arkusz
 
 {{% blocks/products/pf/feature-page-section h2="Podziel arkusz Excela na panele" %}}
 
-Aby podzielić okno arkusza roboczego na panele, API zapewnia [Metoda podziału](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/split) klasy worksheet, która udostępnia podzielony widok arkusza. Aby usunąć podzielony widok API zapewnia [Metoda RemoveSplit](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/removesplit). Na koniec zapisz go pod określoną ścieżką. 
+Aby podzielić okno arkusza roboczego na panele, API zapewnia [Metoda podziału](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/split) klasy worksheet, która udostępnia podzielony widok arkusza. Aby usunąć podzielony widok API zapewnia [Metoda RemoveSplit](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/removesplit). Na koniec zapisz go pod określoną ścieżką. 
 
 {{% blocks/products/pf/feature-page-code h3="C# Kod do dzielenia okna arkusza programu Excel" %}}
 

@@ -26,7 +26,7 @@ description: Java Beispielcode zum Generieren von PDF-Dokumenten. Verwenden Sie 
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Erstellen Sie eine Instanz von [Klasse Arbeitsbuch](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook).1. Greifen Sie mit der Methode getWorksheets.get() auf das relevante Arbeitsblatt zu.1. Wählen Sie die entsprechende Zelle aus, geben Sie den Wert in die gewünschte Zelle ein, indem Sie den Zellennamen verwenden, z. B. A1, B3 usw.1. Speichern Sie die Arbeitsmappe im PDF-Format mit der Methode save().
+1. Erstellen Sie eine Instanz von [Klasse Arbeitsbuch](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook).1. Greifen Sie mit der Methode getWorksheets.get() auf das relevante Arbeitsblatt zu.1. Wählen Sie die entsprechende Zelle aus, geben Sie den Wert in die gewünschte Zelle ein, indem Sie den Zellennamen verwenden, z. B. A1, B3 usw.1. Speichern Sie die Arbeitsmappe im PDF-Format mit der Methode save().
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="System Anforderungen" %}}

@@ -24,7 +24,7 @@ Det är enkelt att skapa linjediagram dynamiskt i ett program som körs. För at
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Inkludera namnutrymmet Aspose.Cells1. Skapa [**Arbetsbok**](https://apireference.aspose.com/cells/net/aspose.cells/workbook) klassinstans.1. Lägg till lite data till arbetsbladet.1. Lägg till en [**Linje**](https://apireference.aspose.com/cells/net/aspose.cells.charts/charttype) Diagram till arbetsbladet.1. Få tillgång till det nya [**Diagram**](https://apireference.aspose.com/cells/net/aspose.cells.charts/chart) objekt.1. Ange diagrammets datakälla med [**Chart.SetChartDataRange**](https://https://apireference.aspose.com/cells/net/aspose.cells.charts/chart/methods/setchartdatarange) metod.
+1. Inkludera namnutrymmet Aspose.Cells1. Skapa [**Arbetsbok**](https://reference.aspose.com/cells/net/aspose.cells/workbook) klassinstans.1. Lägg till lite data till arbetsbladet.1. Lägg till en [**Linje**](https://reference.aspose.com/cells/net/aspose.cells.charts/charttype) Diagram till arbetsbladet.1. Få tillgång till det nya [**Diagram**](https://reference.aspose.com/cells/net/aspose.cells.charts/chart) objekt.1. Ange diagrammets datakälla med [**Chart.SetChartDataRange**](https://https://reference.aspose.com/cells/net/aspose.cells.charts/chart/methods/setchartdatarange) metod.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

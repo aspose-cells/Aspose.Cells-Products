@@ -10,7 +10,7 @@ description: Συνδυάστε αρχεία υπολογιστικού φύλλ
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Συνδυάστε αρχεία Excel με εικόνες και γραφήματα" %}}
-Ο απλούστερος τρόπος για να συνδυάσετε 2 αρχεία Excel με εικόνες και γραφήματα είναι καλώντας το [Τετράδιο εργασιών.Συνδυάστε](https://apireference.aspose.com/cells/net/aspose.cells/workbook/methods/combine) μέθοδος. Επιτρέπει τη συγχώνευση αρχείων Excel παρόμοιου τύπου σε ένα ενιαίο υπολογιστικό φύλλο.
+Ο απλούστερος τρόπος για να συνδυάσετε 2 αρχεία Excel με εικόνες και γραφήματα είναι καλώντας το [Τετράδιο εργασιών.Συνδυάστε](https://reference.aspose.com/cells/net/aspose.cells/workbook/methods/combine) μέθοδος. Επιτρέπει τη συγχώνευση αρχείων Excel παρόμοιου τύπου σε ένα ενιαίο υπολογιστικό φύλλο.
 {{% blocks/products/pf/feature-page-code h3="C# Κώδικας για συνδυασμό αρχείων Excel" %}}
 
 {{< gist "aspose-com-gists" "d7c757e7471bd38006ac0d35d221b2e2" "combine-two-workbooks.cs" >}}
@@ -19,7 +19,7 @@ description: Συνδυάστε αρχεία υπολογιστικού φύλλ
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="Συγχώνευση πολλών αρχείων Excel" %}}
-[CellsHelper.MergeFiles](https://apireference.aspose.com/cells/net/aspose.cells/cellshelper/methods/mergefiles) Η μέθοδος υποστηρίζει τη συγχώνευση δεδομένων, στυλ και τύπων ενός αρχείου Excel σε ένα νέο υπολογιστικό φύλλο της ίδιας μορφής. Είναι ένας αποτελεσματικός τρόπος για τη συγχώνευση πολλών αρχείων κατά τη χρήση της προσωρινής αποθήκευσης. 
+[CellsHelper.MergeFiles](https://reference.aspose.com/cells/net/aspose.cells/cellshelper/methods/mergefiles) Η μέθοδος υποστηρίζει τη συγχώνευση δεδομένων, στυλ και τύπων ενός αρχείου Excel σε ένα νέο υπολογιστικό φύλλο της ίδιας μορφής. Είναι ένας αποτελεσματικός τρόπος για τη συγχώνευση πολλών αρχείων κατά τη χρήση της προσωρινής αποθήκευσης. 
 {{% blocks/products/pf/feature-page-code h3="C# Κώδικας για συγχώνευση πολλών αρχείων Excel" %}}
 
 {{< gist "aspose-com-gists" "d7c757e7471bd38006ac0d35d221b2e2" "merge-several-excel-files.cs" >}}
@@ -28,7 +28,7 @@ description: Συνδυάστε αρχεία υπολογιστικού φύλλ
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="Συγχώνευση αρχείων Excel με αντιγραφή φύλλων εργασίας" %}}
-[Φύλλο εργασίας.Αντιγραφή](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy/index) μπορεί να χρησιμοποιηθεί για την αντιγραφή δεδομένων και τη μορφοποίηση από ένα φύλλο εργασίας προέλευσης σε άλλο φύλλο εργασίας εντός ή μεταξύ των βιβλίων εργασίας. Η μέθοδος λαμβάνει το αντικείμενο του φύλλου εργασίας προέλευσης ως παράμετρο.
+[Φύλλο εργασίας.Αντιγραφή](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy/index) μπορεί να χρησιμοποιηθεί για την αντιγραφή δεδομένων και τη μορφοποίηση από ένα φύλλο εργασίας προέλευσης σε άλλο φύλλο εργασίας εντός ή μεταξύ των βιβλίων εργασίας. Η μέθοδος λαμβάνει το αντικείμενο του φύλλου εργασίας προέλευσης ως παράμετρο.
 {{% blocks/products/pf/feature-page-code h3="C# Κώδικας για αντιγραφή φύλλων εργασίας σε αρχεία Excel" %}}
 
 {{< gist "aspose-com-gists" "d7c757e7471bd38006ac0d35d221b2e2" "copy-worksheets-across-excel-files.cs" >}}

@@ -11,7 +11,7 @@ description: Excel XLS、XLSX、ODS、CSVをPDF、XPS、HTML、JPEG、HTML、お
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="MicrosoftExcel形式の相互変換" %}}
-スプレッドシート形式の相互変換では、次のインスタンスを含むスプレッドシートを読み込むだけで済みます。 [ワークブック](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) から適切な値を選択しながら、目的の形式で保存し直します [SaveFormat](https://apireference.aspose.com/cells/java/com.aspose.cells/SaveFormat) 列挙。
+スプレッドシート形式の相互変換では、次のインスタンスを含むスプレッドシートを読み込むだけで済みます。 [ワークブック](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) から適切な値を選択しながら、目的の形式で保存し直します [SaveFormat](https://reference.aspose.com/cells/java/com.aspose.cells/SaveFormat) 列挙。
 {{% blocks/products/pf/feature-page-code h3="JavaExcelファイル形式変換のサンプルコード" %}}
 
 ```cs
@@ -30,7 +30,7 @@ wkb.save("fods-output.fods", SaveFormat.FODS);
 
 
 {{% blocks/products/pf/feature-page-section h2="ExcelをPDF、XPS、HTML、MDに変換する" %}}
-特殊なクラスを使用して、次のような特定の出力形式の変換プロセスを制御できます。 [PdfSaveOptions](https://apireference.aspose.com/cells/java/com.aspose.cells/PdfSaveOptions) ExcelファイルをPDFとして変換するには、 [XpsSaveOptions](https://apireference.aspose.com/cells/java/com.aspose.cells/XpsSaveOptions) ExcelをXPSとしてエクスポートするには、 [HtmlSaveOptions](https://apireference.aspose.com/cells/java/com.aspose.cells/HtmlSaveOptions) ExcelをHTMLとしてレンダリングし、 [MarkdownSaveOptions](https://apireference.aspose.com/cells/java/com.aspose.cells/MarkdownSaveOptions) ExcelからMarkdownへの変換用。 
+特殊なクラスを使用して、次のような特定の出力形式の変換プロセスを制御できます。 [PdfSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/PdfSaveOptions) ExcelファイルをPDFとして変換するには、 [XpsSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/XpsSaveOptions) ExcelをXPSとしてエクスポートするには、 [HtmlSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/HtmlSaveOptions) ExcelをHTMLとしてレンダリングし、 [MarkdownSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/MarkdownSaveOptions) ExcelからMarkdownへの変換用。 
 {{% blocks/products/pf/feature-page-code h3="JavaExcelからPDFおよびWeb形式のサンプルコード" %}}
 
 ```cs
@@ -59,7 +59,7 @@ bk.save("output.md", new MarkdownSaveOptions());
 {{< blocks/products/pf/feature-page-options formats="XPS PDF" beforeslug="convert" >}}
 
 {{% blocks/products/pf/feature-page-section h2="JSONをExcelに、ExcelをJSONに変換する" %}}
-JSONデータは、Workbookクラスのインスタンスにインポートできます。 [JSONUtility.importData](https://apireference.aspose.com/cells/java/com.aspose.cells/jsonutility#importData) さらに処理したり、サポートされている形式に簡単に変換したりできます。同様に、ワークシートデータは、を作成することでJSONとしてエクスポートできます。 [範囲](https://apireference.aspose.com/cells/java/com.aspose.cells/range) またはセルと呼び出し [exportRangeToJson](https://apireference.aspose.com/cells/java/com.aspose.cells/jsonutility) 方法。
+JSONデータは、Workbookクラスのインスタンスにインポートできます。 [JSONUtility.importData](https://reference.aspose.com/cells/java/com.aspose.cells/jsonutility#importData) さらに処理したり、サポートされている形式に簡単に変換したりできます。同様に、ワークシートデータは、を作成することでJSONとしてエクスポートできます。 [範囲](https://reference.aspose.com/cells/java/com.aspose.cells/range) またはセルと呼び出し [exportRangeToJson](https://reference.aspose.com/cells/java/com.aspose.cells/jsonutility) 方法。
 {{% blocks/products/pf/feature-page-code h3="JavaJSONからExcelへの変換のコード" %}}
 ```cs
 Workbook workbook = new Workbook(path + "source-file.xlsx");
@@ -142,7 +142,7 @@ for (int j = 0; j < sr.getPageCount(); j++) {
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
 {{% blocks/products/pf/feature-page-section h2="MicrosoftExcelをWordおよびPowerPointに変換する" %}}
-を使用しながら、任意のスプレッドシートをロードして、WordDOCXおよびPowerPointPPTXファイルに変換することができます。 [DocxSaveOptions](https://apireference.aspose.com/cells/java/com.aspose.cells/DocxSaveOptions) ＆ [PptxSaveOptions](https://apireference.aspose.com/cells/java/com.aspose.cells/PptxSaveOptions) 以下に示すようなクラス。
+を使用しながら、任意のスプレッドシートをロードして、WordDOCXおよびPowerPointPPTXファイルに変換することができます。 [DocxSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/DocxSaveOptions) ＆ [PptxSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/PptxSaveOptions) 以下に示すようなクラス。
 {{% blocks/products/pf/feature-page-code h3="JavaExcelからWordおよびPowerPointへの変換のコード" %}}
 ```cs
 // テンプレートファイルをロードする

@@ -57,7 +57,7 @@ description: 用于在 .NET Java C++ Android 和 SharePoint 应用程序中读�
 {{< blocks/products/pf/slr-tab tabTitle="学习资源" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="文档" href="https://docs.aspose.com/cells/" >}}
 {{< blocks/products/pf/slr-element name="源代码" href="https://github.com/aspose-cells?tab=repositories" >}}
-{{< blocks/products/pf/slr-element name="API 参考资料" href="https://apireference.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="API 参考资料" href="https://reference.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="教程视频" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

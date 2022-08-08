@@ -11,7 +11,7 @@ description: قم بتحويل Excel XLS و XLSX و ODS و CSV إلى PDF و XPS
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="التحويل البيني لتنسيقات Microsoft Excel" %}}
-لا يتطلب التحويل البيني لتنسيق جدول البيانات سوى تحميل جدول بيانات بمثيل [دفتر العمل](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) وإعادة الحفظ بالتنسيق المطلوب مع تحديد القيمة المناسبة من [SaveFormat](https://apireference.aspose.com/cells/java/com.aspose.cells/SaveFormat) تعداد.
+لا يتطلب التحويل البيني لتنسيق جدول البيانات سوى تحميل جدول بيانات بمثيل [دفتر العمل](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) وإعادة الحفظ بالتنسيق المطلوب مع تحديد القيمة المناسبة من [SaveFormat](https://reference.aspose.com/cells/java/com.aspose.cells/SaveFormat) تعداد.
 {{% blocks/products/pf/feature-page-code h3="Java رمز مثال لتحويل تنسيق ملف Excel" %}}
 
 ```cs
@@ -30,7 +30,7 @@ wkb.save("fods-output.fods", SaveFormat.FODS);
 
 
 {{% blocks/products/pf/feature-page-section h2="قم بتحويل Excel إلى PDF و XPS و HTML و MD" %}}
-تتوفر الفصول المتخصصة للتحكم في عملية التحويل لتنسيقات الإخراج المحددة مثل [خيارات PdfSave](https://apireference.aspose.com/cells/java/com.aspose.cells/PdfSaveOptions) لتحويل ملفات Excel إلى PDF ، [XpsSaveOptions](https://apireference.aspose.com/cells/java/com.aspose.cells/XpsSaveOptions) لتصدير Excel كـ XPS ، [خيارات HtmlSave](https://apireference.aspose.com/cells/java/com.aspose.cells/HtmlSaveOptions) لتقديم Excel بتنسيق HTML و [تخفيض السعر](https://apireference.aspose.com/cells/java/com.aspose.cells/MarkdownSaveOptions) لبرنامج Excel لتحويل Markdown. 
+تتوفر الفصول المتخصصة للتحكم في عملية التحويل لتنسيقات الإخراج المحددة مثل [خيارات PdfSave](https://reference.aspose.com/cells/java/com.aspose.cells/PdfSaveOptions) لتحويل ملفات Excel إلى PDF ، [XpsSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/XpsSaveOptions) لتصدير Excel كـ XPS ، [خيارات HtmlSave](https://reference.aspose.com/cells/java/com.aspose.cells/HtmlSaveOptions) لتقديم Excel بتنسيق HTML و [تخفيض السعر](https://reference.aspose.com/cells/java/com.aspose.cells/MarkdownSaveOptions) لبرنامج Excel لتحويل Markdown. 
 {{% blocks/products/pf/feature-page-code h3="Java نموذج التعليمات البرمجية لـ Excel إلى PDF وتنسيقات الويب" %}}
 
 ```cs
@@ -59,7 +59,7 @@ bk.save("output.md", new MarkdownSaveOptions());
 {{< blocks/products/pf/feature-page-options formats="XPS PDF" beforeslug="convert" >}}
 
 {{% blocks/products/pf/feature-page-section h2="تحويل JSON إلى Excel و Excel إلى JSON" %}}
-يمكن استيراد بيانات JSON إلى مثيل لفئة المصنف بمساعدة [JSONUtility.importData](https://apireference.aspose.com/cells/java/com.aspose.cells/jsonutility#importData) لمزيد من المعالجة أو التحويل البسيط إلى أي من التنسيقات المدعومة. وبالمثل ، يمكن تصدير بيانات ورقة العمل بتنسيق JSON عن طريق إنشاء ملف [يشتمل على](https://apireference.aspose.com/cells/java/com.aspose.cells/range) أو الخلايا واستدعاء [ExportRangeToJson](https://apireference.aspose.com/cells/java/com.aspose.cells/jsonutility) طريقة.
+يمكن استيراد بيانات JSON إلى مثيل لفئة المصنف بمساعدة [JSONUtility.importData](https://reference.aspose.com/cells/java/com.aspose.cells/jsonutility#importData) لمزيد من المعالجة أو التحويل البسيط إلى أي من التنسيقات المدعومة. وبالمثل ، يمكن تصدير بيانات ورقة العمل بتنسيق JSON عن طريق إنشاء ملف [يشتمل على](https://reference.aspose.com/cells/java/com.aspose.cells/range) أو الخلايا واستدعاء [ExportRangeToJson](https://reference.aspose.com/cells/java/com.aspose.cells/jsonutility) طريقة.
 {{% blocks/products/pf/feature-page-code h3="Java رمز تحويل JSON إلى Excel" %}}
 ```cs
 Workbook workbook = new Workbook(path + "source-file.xlsx");
@@ -142,7 +142,7 @@ for (int j = 0; j < sr.getPageCount(); j++) {
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
 {{% blocks/products/pf/feature-page-section h2="تحويل Microsoft Excel إلى Word و PowerPoint" %}}
-من الممكن تحميل أي جدول بيانات وتحويله إلى ملفات Word DOCX و PowerPoint PPTX أثناء استخدام [DocxSaveOptions](https://apireference.aspose.com/cells/java/com.aspose.cells/DocxSaveOptions) & [خيارات PptxSaveOpt](https://apireference.aspose.com/cells/java/com.aspose.cells/PptxSaveOptions) الفئات كما هو موضح أدناه.
+من الممكن تحميل أي جدول بيانات وتحويله إلى ملفات Word DOCX و PowerPoint PPTX أثناء استخدام [DocxSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/DocxSaveOptions) & [خيارات PptxSaveOpt](https://reference.aspose.com/cells/java/com.aspose.cells/PptxSaveOptions) الفئات كما هو موضح أدناه.
 {{% blocks/products/pf/feature-page-code h3="Java Code for Excel to Word & PowerPoint Conversion" %}}
 ```cs
 // تحميل ملف القالب

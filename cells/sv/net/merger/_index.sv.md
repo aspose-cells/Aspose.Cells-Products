@@ -10,7 +10,7 @@ description: Sammanfoga Excel- och OpenOffice-kalkylbladsfiler med bara några r
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Kombinera Excel-filer med bilder och diagram" %}}
-Det enklaste sättet att kombinera 2 Excel-filer med bilder och diagram är att anropa [Arbetsbok. Kombinera](https://apireference.aspose.com/cells/net/aspose.cells/workbook/methods/combine) metod. Det gör det möjligt att slå samman Excel-filer av liknande typ till ett enda kalkylblad.
+Det enklaste sättet att kombinera 2 Excel-filer med bilder och diagram är att anropa [Arbetsbok. Kombinera](https://reference.aspose.com/cells/net/aspose.cells/workbook/methods/combine) metod. Det gör det möjligt att slå samman Excel-filer av liknande typ till ett enda kalkylblad.
 {{% blocks/products/pf/feature-page-code h3="C# Kod för att kombinera Excel-filer" %}}
 
 {{< gist "aspose-com-gists" "d7c757e7471bd38006ac0d35d221b2e2" "combine-two-workbooks.cs" >}}
@@ -19,7 +19,7 @@ Det enklaste sättet att kombinera 2 Excel-filer med bilder och diagram är att 
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="Slå samman flera Excel-filer" %}}
-[CellsHelper.MergeFiles](https://apireference.aspose.com/cells/net/aspose.cells/cellshelper/methods/mergefiles) Metoden stöder sammanslagning av data, stil och formler för en Excel-fil till ett nytt kalkylblad i samma format. Det är ett effektivt sätt att slå samman flera filer samtidigt som du använder cachning. 
+[CellsHelper.MergeFiles](https://reference.aspose.com/cells/net/aspose.cells/cellshelper/methods/mergefiles) Metoden stöder sammanslagning av data, stil och formler för en Excel-fil till ett nytt kalkylblad i samma format. Det är ett effektivt sätt att slå samman flera filer samtidigt som du använder cachning. 
 {{% blocks/products/pf/feature-page-code h3="C# Kod för att slå samman flera Excel-filer" %}}
 
 {{< gist "aspose-com-gists" "d7c757e7471bd38006ac0d35d221b2e2" "merge-several-excel-files.cs" >}}
@@ -28,7 +28,7 @@ Det enklaste sättet att kombinera 2 Excel-filer med bilder och diagram är att 
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="Slå ihop Excel-filer genom att kopiera arbetsblad" %}}
-[Arbetsblad.Kopiera](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy/index) kan användas för att kopiera data och formatering från ett källark till ett annat kalkylblad inom eller mellan arbetsböcker. Metoden tar källarksobjektet som en parameter.
+[Arbetsblad.Kopiera](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy/index) kan användas för att kopiera data och formatering från ett källark till ett annat kalkylblad inom eller mellan arbetsböcker. Metoden tar källarksobjektet som en parameter.
 {{% blocks/products/pf/feature-page-code h3="C# Kod för att kopiera kalkylblad över Excel-filer" %}}
 
 {{< gist "aspose-com-gists" "d7c757e7471bd38006ac0d35d221b2e2" "copy-worksheets-across-excel-files.cs" >}}

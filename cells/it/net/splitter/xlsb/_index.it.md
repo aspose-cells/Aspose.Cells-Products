@@ -48,7 +48,7 @@ PM> Install-Package Aspose.Cells
 Carica il file XLSB con il percorso completo per la divisione.
 + Iterare attraverso ogni foglio
 + Crea un nuovo oggetto classe Cartella di lavoro
-+ Copia il foglio tramite [Metodo di copia](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
++ Copia il foglio tramite [Metodo di copia](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
 + Chiama il metodo Save() e passa il nome del file (percorso completo) e SaveFormat.Xlsb come parametro.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -10,7 +10,7 @@ description: Verketten Sie Excel- und OpenOffice-Tabellendateien mit nur wenigen
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Kombinieren Sie Excel-Dateien mit Bildern und Diagrammen" %}}
-Der einfachste Weg, 2 Excel-Dateien mit Bildern und Diagrammen zu kombinieren, ist der Aufruf der [Workbook.Combine](https://apireference.aspose.com/cells/net/aspose.cells/workbook/methods/combine) Methode. Es ermöglicht das Zusammenführen von Excel-Dateien ähnlichen Typs in einer einzigen Tabelle.
+Der einfachste Weg, 2 Excel-Dateien mit Bildern und Diagrammen zu kombinieren, ist der Aufruf der [Workbook.Combine](https://reference.aspose.com/cells/net/aspose.cells/workbook/methods/combine) Methode. Es ermöglicht das Zusammenführen von Excel-Dateien ähnlichen Typs in einer einzigen Tabelle.
 {{% blocks/products/pf/feature-page-code h3="C# Code zum Kombinieren von Excel-Dateien" %}}
 
 {{< gist "aspose-com-gists" "d7c757e7471bd38006ac0d35d221b2e2" "combine-two-workbooks.cs" >}}
@@ -19,7 +19,7 @@ Der einfachste Weg, 2 Excel-Dateien mit Bildern und Diagrammen zu kombinieren, i
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="Mehrere Excel-Dateien zusammenführen" %}}
-[CellsHelper.MergeFiles](https://apireference.aspose.com/cells/net/aspose.cells/cellshelper/methods/mergefiles) -Methode unterstützt das Zusammenführen von Daten, Stil und Formeln einer Excel-Datei mit einer neuen Tabelle im gleichen Format. Es ist eine effiziente Möglichkeit, mehrere Dateien zusammenzuführen, während Caching verwendet wird. 
+[CellsHelper.MergeFiles](https://reference.aspose.com/cells/net/aspose.cells/cellshelper/methods/mergefiles) -Methode unterstützt das Zusammenführen von Daten, Stil und Formeln einer Excel-Datei mit einer neuen Tabelle im gleichen Format. Es ist eine effiziente Möglichkeit, mehrere Dateien zusammenzuführen, während Caching verwendet wird. 
 {{% blocks/products/pf/feature-page-code h3="C# Code zum Zusammenführen mehrerer Excel-Dateien" %}}
 
 {{< gist "aspose-com-gists" "d7c757e7471bd38006ac0d35d221b2e2" "merge-several-excel-files.cs" >}}
@@ -28,7 +28,7 @@ Der einfachste Weg, 2 Excel-Dateien mit Bildern und Diagrammen zu kombinieren, i
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="Excel-Dateien durch Kopieren von Arbeitsblättern zusammenführen" %}}
-[Arbeitsblatt.Kopieren](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy/index) kann verwendet werden, um Daten und Formatierungen von einem Quellarbeitsblatt in ein anderes Arbeitsblatt innerhalb oder zwischen Arbeitsmappen zu kopieren. Die Methode nimmt das Quellarbeitsblattobjekt als Parameter.
+[Arbeitsblatt.Kopieren](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy/index) kann verwendet werden, um Daten und Formatierungen von einem Quellarbeitsblatt in ein anderes Arbeitsblatt innerhalb oder zwischen Arbeitsmappen zu kopieren. Die Methode nimmt das Quellarbeitsblattobjekt als Parameter.
 {{% blocks/products/pf/feature-page-code h3="C# Code zum Kopieren von Arbeitsblättern in Excel-Dateien" %}}
 
 {{< gist "aspose-com-gists" "d7c757e7471bd38006ac0d35d221b2e2" "copy-worksheets-across-excel-files.cs" >}}

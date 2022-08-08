@@ -26,7 +26,7 @@ description: Java ODS belgeleri oluşturmak için örnek kod. Java tabanlı masa
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Bir örneğini oluşturun [çalışma kitabı sınıfı](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook).1. getWorksheets.get() yöntemini kullanarak ilgili çalışma sayfasına erişin.1. İlgili hücreyi seçin, A1, B3 vb. gibi hücre adını kullanarak değeri istediğiniz hücreye girin.1. save() yöntemini kullanarak çalışma kitabını ODS formatı olarak kaydedin.
+1. Bir örneğini oluşturun [çalışma kitabı sınıfı](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook).1. getWorksheets.get() yöntemini kullanarak ilgili çalışma sayfasına erişin.1. İlgili hücreyi seçin, A1, B3 vb. gibi hücre adını kullanarak değeri istediğiniz hücreye girin.1. save() yöntemini kullanarak çalışma kitabını ODS formatı olarak kaydedin.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="sistem gereksinimleri" %}}

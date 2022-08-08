@@ -24,7 +24,7 @@ Membuat Diagram Garis secara dinamis dalam menjalankan aplikasi itu mudah. Untuk
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Sertakan Aspose.Cells ruang nama1. Membuat [**Buku Kerja**](https://apireference.aspose.com/cells/net/aspose.cells/workbook) contoh kelas.1. Tambahkan beberapa data ke lembar kerja.1. Tambah sebuah [**Garis**](https://apireference.aspose.com/cells/net/aspose.cells.charts/charttype) Bagan ke lembar kerja.1. Akses yang baru [**Bagan**](https://apireference.aspose.com/cells/net/aspose.cells.charts/chart) obyek.1. Tentukan sumber data bagan dengan [**Chart.SetChartDataRange**](https://https://apireference.aspose.com/cells/net/aspose.cells.charts/chart/methods/setchartdatarange) metode.
+1. Sertakan Aspose.Cells ruang nama1. Membuat [**Buku Kerja**](https://reference.aspose.com/cells/net/aspose.cells/workbook) contoh kelas.1. Tambahkan beberapa data ke lembar kerja.1. Tambah sebuah [**Garis**](https://reference.aspose.com/cells/net/aspose.cells.charts/charttype) Bagan ke lembar kerja.1. Akses yang baru [**Bagan**](https://reference.aspose.com/cells/net/aspose.cells.charts/chart) obyek.1. Tentukan sumber data bagan dengan [**Chart.SetChartDataRange**](https://https://reference.aspose.com/cells/net/aspose.cells.charts/chart/methods/setchartdatarange) metode.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

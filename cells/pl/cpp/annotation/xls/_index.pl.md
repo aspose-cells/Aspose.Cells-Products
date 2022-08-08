@@ -41,7 +41,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Załaduj plik XLS Excel przy użyciu obiektu klasy IWorkbook.1. Wybierz odpowiedni arkusz1. Dodaj komentarz za pomocą metody Add1. Ustaw notatkę komentarza za pomocą metody SetNote.1. Zapisz skoroszyt za pomocą [Ratować](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) metoda
+1. Załaduj plik XLS Excel przy użyciu obiektu klasy IWorkbook.1. Wybierz odpowiedni arkusz1. Dodaj komentarz za pomocą metody Add1. Ustaw notatkę komentarza za pomocą metody SetNote.1. Zapisz skoroszyt za pomocą [Ratować](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) metoda
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

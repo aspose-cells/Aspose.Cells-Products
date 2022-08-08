@@ -48,7 +48,7 @@ PM> Install-Package Aspose.Cells
 + XLSM dosyasını bölme için tam yol ile yükleyin.
 + Her sayfada yineleme
 + Yeni bir Çalışma Kitabı sınıfı nesnesi oluşturun
-+ Sayfayı şu yolla kopyalayın: [Kopyalama yöntemi](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
++ Sayfayı şu yolla kopyalayın: [Kopyalama yöntemi](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
 + Save() yöntemini çağırın ve dosya adını (tam yol) ve SaveFormat.Xlsm'yi parametre olarak iletin.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

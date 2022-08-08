@@ -11,7 +11,7 @@ description: Generáljon Microsoft Excel-táblázatokat sablonlapból a C# kód 
 
 {{% blocks/products/pf/feature-page-section h2="Készítsen jelentéseket előre megtervezett Excel-sablonok alapján" %}}
 
-Az azonos mintafájlok létrehozásának folyamatát egyszerűen automatizálhatja az .NETÖsszeállítás API használatával. Különböző módok vannak rá [adatok importálása](https://docs.aspose.com/cells/net/import-data-into-worksheet/#importing-data-from-json) és készítsen Excel fájlokat. A API a [Munkafüzet Tervező osztály](https://apireference.aspose.com/cells/net/aspose.cells/workbookdesigner) tervezői munkalap ábrázolására. Hozza létre az objektumát, és használja a sablonfájl megnyitásához. Állítsa be az adatforrást, amely lehet DataTable, Array, Json fájl stb. Az adatok importálásához dolgozza fel, és mentse el a fájlt az adatokkal a kívánt formátumban. A programozók más fájlformátumokban is összeállíthatják az adatokat jelentésekké, az alábbi hivatkozások szerint.
+Az azonos mintafájlok létrehozásának folyamatát egyszerűen automatizálhatja az .NETÖsszeállítás API használatával. Különböző módok vannak rá [adatok importálása](https://docs.aspose.com/cells/net/import-data-into-worksheet/#importing-data-from-json) és készítsen Excel fájlokat. A API a [Munkafüzet Tervező osztály](https://reference.aspose.com/cells/net/aspose.cells/workbookdesigner) tervezői munkalap ábrázolására. Hozza létre az objektumát, és használja a sablonfájl megnyitásához. Állítsa be az adatforrást, amely lehet DataTable, Array, Json fájl stb. Az adatok importálásához dolgozza fel, és mentse el a fájlt az adatokkal a kívánt formátumban. A programozók más fájlformátumokban is összeállíthatják az adatokat jelentésekké, az alábbi hivatkozások szerint.
 
 
 

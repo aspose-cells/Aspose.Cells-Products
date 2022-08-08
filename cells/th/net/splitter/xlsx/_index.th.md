@@ -48,7 +48,7 @@ PM> Install-Package Aspose.Cells
 + โหลดไฟล์ XLSX พร้อมพาธแบบเต็มสำหรับการแยก
 + วนซ้ำในแต่ละแผ่น
 + สร้างวัตถุคลาสสมุดงานใหม่
-+ คัดลอกแผ่นงานผ่าน [วิธีการคัดลอก](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
++ คัดลอกแผ่นงานผ่าน [วิธีการคัดลอก](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
 + เรียกใช้เมธอด Save() และส่งชื่อไฟล์ (เส้นทางแบบเต็ม) และ SaveFormat.Xlsx เป็นพารามิเตอร์
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

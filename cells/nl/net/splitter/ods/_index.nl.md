@@ -49,7 +49,7 @@ PM> Install-Package Aspose.Cells
 + Laad het ODS-bestand met het volledige pad om te splitsen.
 + Herhaal elk blad
 + Maak een nieuw werkmapklasse-object
-+ Kopieer het blad via [Kopieer methode](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
++ Kopieer het blad via [Kopieer methode](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
 + Roep de methode Save() aan en geef de bestandsnaam (volledig pad) en SaveFormat.Ods door als parameter. 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

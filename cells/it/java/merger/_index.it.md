@@ -10,7 +10,7 @@ description: Unisci i file Excel utilizzando Java in più fogli o in un unico fo
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Combina file Excel con immagini e grafici" %}}
-Il modo più semplice per combinare due file Excel con immagini e grafici è chiamare il file [Cartella di lavoro.combina](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#combine(com.aspose.cells.Workbook)) metodo. Consente di unire file Excel di tipo simile in un unico foglio di calcolo.
+Il modo più semplice per combinare due file Excel con immagini e grafici è chiamare il file [Cartella di lavoro.combina](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#combine(com.aspose.cells.Workbook)) metodo. Consente di unire file Excel di tipo simile in un unico foglio di calcolo.
 {{% blocks/products/pf/feature-page-code h3="Java Codice per combinare file Excel" %}}
 
 ```cs
@@ -29,7 +29,7 @@ book1.save("combined.xlsx");
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="Unisci più file Excel" %}}
-[CellsHelper.mergeFiles](https://apireference.aspose.com/cells/java/com.aspose.cells/cellshelper#mergeFiles) il metodo supporta l'unione di dati, stile e formule di un file Excel in un nuovo foglio di calcolo dello stesso formato. È un modo efficiente per unire più file durante l'utilizzo della memorizzazione nella cache. 
+[CellsHelper.mergeFiles](https://reference.aspose.com/cells/java/com.aspose.cells/cellshelper#mergeFiles) il metodo supporta l'unione di dati, stile e formule di un file Excel in un nuovo foglio di calcolo dello stesso formato. È un modo efficiente per unire più file durante l'utilizzo della memorizzazione nella cache. 
 {{% blocks/products/pf/feature-page-code h3="Java Codice per unire più file Excel" %}}
 
 ```cs
@@ -47,7 +47,7 @@ CellsHelper.mergeFiles(files, "cache", "merged.xls");
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="Unisci file Excel copiando fogli di lavoro" %}}
-[Foglio di lavoro.copia](https://apireference.aspose.com/cells/java/com.aspose.cells/worksheet#copy(com.aspose.cells.Worksheet)può essere utilizzato per copiare dati e formattazione da un foglio di lavoro di origine a un altro foglio di lavoro all'interno o tra cartelle di lavoro. Il metodo accetta l'oggetto del foglio di lavoro di origine come parametro.
+[Foglio di lavoro.copia](https://reference.aspose.com/cells/java/com.aspose.cells/worksheet#copy(com.aspose.cells.Worksheet)può essere utilizzato per copiare dati e formattazione da un foglio di lavoro di origine a un altro foglio di lavoro all'interno o tra cartelle di lavoro. Il metodo accetta l'oggetto del foglio di lavoro di origine come parametro.
 {{% blocks/products/pf/feature-page-code h3="Java Codice per copiare fogli di lavoro tra cartelle di lavoro" %}}
 
 ```cs

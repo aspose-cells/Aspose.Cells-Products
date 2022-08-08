@@ -24,7 +24,7 @@ description: C# .NET Kitaplığı kullanarak Excel'de çizgi grafikler oluşturm
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Aspose.Cells ad alanını dahil et1. Oluşturmak [**Çalışma kitabı**](https://apireference.aspose.com/cells/net/aspose.cells/workbook) sınıf örneği.1. Çalışma sayfasına bazı veriler ekleyin.1. Ekle [**Astar**](https://apireference.aspose.com/cells/net/aspose.cells.charts/charttype) Çalışma sayfasına grafik.1. Yeniye erişin [**Çizelge**](https://apireference.aspose.com/cells/net/aspose.cells.charts/chart) nesne.1. Grafiğin veri kaynağını şununla belirtin: [**Chart.SetChartDataRange**](https://https://apireference.aspose.com/cells/net/aspose.cells.charts/chart/methods/setchartdatarange) yöntem.
+1. Aspose.Cells ad alanını dahil et1. Oluşturmak [**Çalışma kitabı**](https://reference.aspose.com/cells/net/aspose.cells/workbook) sınıf örneği.1. Çalışma sayfasına bazı veriler ekleyin.1. Ekle [**Astar**](https://reference.aspose.com/cells/net/aspose.cells.charts/charttype) Çalışma sayfasına grafik.1. Yeniye erişin [**Çizelge**](https://reference.aspose.com/cells/net/aspose.cells.charts/chart) nesne.1. Grafiğin veri kaynağını şununla belirtin: [**Chart.SetChartDataRange**](https://https://reference.aspose.com/cells/net/aspose.cells.charts/chart/methods/setchartdatarange) yöntem.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

@@ -11,7 +11,7 @@ description: Μετατρέψτε το Excel XLS, XLSX, ODS, CSV σε PDF, XPS, 
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Διαμετατροπή μορφών Microsoft Excel" %}}
-Η αλληλομετατροπή της μορφής υπολογιστικού φύλλου απαιτεί μόνο τη φόρτωση ενός υπολογιστικού φύλλου με μια παρουσία του [ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) και αποθηκεύστε ξανά στην επιθυμητή μορφή ενώ επιλέγετε την κατάλληλη τιμή από [SaveFormat](https://apireference.aspose.com/cells/java/com.aspose.cells/SaveFormat) απαρίθμηση.
+Η αλληλομετατροπή της μορφής υπολογιστικού φύλλου απαιτεί μόνο τη φόρτωση ενός υπολογιστικού φύλλου με μια παρουσία του [ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) και αποθηκεύστε ξανά στην επιθυμητή μορφή ενώ επιλέγετε την κατάλληλη τιμή από [SaveFormat](https://reference.aspose.com/cells/java/com.aspose.cells/SaveFormat) απαρίθμηση.
 {{% blocks/products/pf/feature-page-code h3="Java Παράδειγμα κώδικα για μετατροπή μορφής αρχείου Excel" %}}
 
 ```cs
@@ -30,7 +30,7 @@ wkb.save("fods-output.fods", SaveFormat.FODS);
 
 
 {{% blocks/products/pf/feature-page-section h2="Μετατρέψτε το Excel σε PDF, XPS, HTML & MD" %}}
-Διατίθενται εξειδικευμένες κλάσεις για τον έλεγχο της διαδικασίας μετατροπής για συγκεκριμένες μορφές εξόδου, όπως π.χ [Επιλογές PdfSave](https://apireference.aspose.com/cells/java/com.aspose.cells/PdfSaveOptions) για να μετατρέψετε αρχεία Excel σε PDF, [XpsSaveOptions](https://apireference.aspose.com/cells/java/com.aspose.cells/XpsSaveOptions) για εξαγωγή του Excel ως XPS, [HtmlSaveOptions](https://apireference.aspose.com/cells/java/com.aspose.cells/HtmlSaveOptions) για απόδοση του Excel ως HTML και [MarkdownSaveOptions](https://apireference.aspose.com/cells/java/com.aspose.cells/MarkdownSaveOptions) για τη μετατροπή Excel σε Markdown. 
+Διατίθενται εξειδικευμένες κλάσεις για τον έλεγχο της διαδικασίας μετατροπής για συγκεκριμένες μορφές εξόδου, όπως π.χ [Επιλογές PdfSave](https://reference.aspose.com/cells/java/com.aspose.cells/PdfSaveOptions) για να μετατρέψετε αρχεία Excel σε PDF, [XpsSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/XpsSaveOptions) για εξαγωγή του Excel ως XPS, [HtmlSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/HtmlSaveOptions) για απόδοση του Excel ως HTML και [MarkdownSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/MarkdownSaveOptions) για τη μετατροπή Excel σε Markdown. 
 {{% blocks/products/pf/feature-page-code h3="Java Δείγμα κώδικα για μορφές Excel σε PDF και Web" %}}
 
 ```cs
@@ -59,7 +59,7 @@ bk.save("output.md", new MarkdownSaveOptions());
 {{< blocks/products/pf/feature-page-options formats="XPS PDF" beforeslug="convert" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Μετατροπή JSON σε Excel και Excel σε JSON" %}}
-Τα δεδομένα JSON μπορούν να εισαχθούν σε μια παρουσία της κλάσης Βιβλίο εργασίας με τη βοήθεια του [JSONUtility.importData](https://apireference.aspose.com/cells/java/com.aspose.cells/jsonutility#importData) για περαιτέρω επεξεργασία ή απλή μετατροπή σε οποιαδήποτε από τις υποστηριζόμενες μορφές. Ομοίως, τα δεδομένα του φύλλου εργασίας μπορούν να εξαχθούν ως JSON δημιουργώντας ένα [Εύρος](https://apireference.aspose.com/cells/java/com.aspose.cells/range) ή κελιά και καλώντας το [exportRangeToJson](https://apireference.aspose.com/cells/java/com.aspose.cells/jsonutility) μέθοδος.
+Τα δεδομένα JSON μπορούν να εισαχθούν σε μια παρουσία της κλάσης Βιβλίο εργασίας με τη βοήθεια του [JSONUtility.importData](https://reference.aspose.com/cells/java/com.aspose.cells/jsonutility#importData) για περαιτέρω επεξεργασία ή απλή μετατροπή σε οποιαδήποτε από τις υποστηριζόμενες μορφές. Ομοίως, τα δεδομένα του φύλλου εργασίας μπορούν να εξαχθούν ως JSON δημιουργώντας ένα [Εύρος](https://reference.aspose.com/cells/java/com.aspose.cells/range) ή κελιά και καλώντας το [exportRangeToJson](https://reference.aspose.com/cells/java/com.aspose.cells/jsonutility) μέθοδος.
 {{% blocks/products/pf/feature-page-code h3="Java Κώδικας για μετατροπή JSON σε Excel" %}}
 ```cs
 Workbook workbook = new Workbook(path + "source-file.xlsx");
@@ -142,7 +142,7 @@ for (int j = 0; j < sr.getPageCount(); j++) {
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Μετατρέψτε το Microsoft Excel σε Word και PowerPoint" %}}
-Είναι δυνατή η φόρτωση οποιουδήποτε υπολογιστικού φύλλου και η μετατροπή του σε αρχεία Word DOCX & PowerPoint PPTX κατά τη χρήση [DocxSaveOptions](https://apireference.aspose.com/cells/java/com.aspose.cells/DocxSaveOptions) & [PptxSaveOptions](https://apireference.aspose.com/cells/java/com.aspose.cells/PptxSaveOptions) τάξεις όπως φαίνεται παρακάτω.
+Είναι δυνατή η φόρτωση οποιουδήποτε υπολογιστικού φύλλου και η μετατροπή του σε αρχεία Word DOCX & PowerPoint PPTX κατά τη χρήση [DocxSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/DocxSaveOptions) & [PptxSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/PptxSaveOptions) τάξεις όπως φαίνεται παρακάτω.
 {{% blocks/products/pf/feature-page-code h3="Java Κώδικας για Excel σε Word και Μετατροπή PowerPoint" %}}
 ```cs
 // φορτώστε το αρχείο προτύπου

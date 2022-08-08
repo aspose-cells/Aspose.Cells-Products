@@ -10,7 +10,7 @@ description: 只需幾行 C# 代碼即可連接 Excel 和 OpenOffice 電子表�
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="將 Excel 文件與圖像和圖表相結合" %}}
-組合 2 個具有圖像和圖表的 Excel 文件的最簡單方法是調用 [工作簿.組合](https://apireference.aspose.com/cells/net/aspose.cells/workbook/methods/combine) 方法。它允許將類似類型的 Excel 文件合併到一個電子表格中。
+組合 2 個具有圖像和圖表的 Excel 文件的最簡單方法是調用 [工作簿.組合](https://reference.aspose.com/cells/net/aspose.cells/workbook/methods/combine) 方法。它允許將類似類型的 Excel 文件合併到一個電子表格中。
 {{% blocks/products/pf/feature-page-code h3="C# 合併 Excel 文件的代碼" %}}
 
 {{< gist "aspose-com-gists" "d7c757e7471bd38006ac0d35d221b2e2" "combine-two-workbooks.cs" >}}
@@ -19,7 +19,7 @@ description: 只需幾行 C# 代碼即可連接 Excel 和 OpenOffice 電子表�
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="合併多個 Excel 文件" %}}
-[CellsHelper.MergeFiles](https://apireference.aspose.com/cells/net/aspose.cells/cellshelper/methods/mergefiles) 方法支持將 Excel 文件的數據、樣式和公式合併到相同格式的新電子表格中。這是在使用緩存時合併多個文件的有效方法。 
+[CellsHelper.MergeFiles](https://reference.aspose.com/cells/net/aspose.cells/cellshelper/methods/mergefiles) 方法支持將 Excel 文件的數據、樣式和公式合併到相同格式的新電子表格中。這是在使用緩存時合併多個文件的有效方法。 
 {{% blocks/products/pf/feature-page-code h3="C# 合併多個 Excel 文件的代碼" %}}
 
 {{< gist "aspose-com-gists" "d7c757e7471bd38006ac0d35d221b2e2" "merge-several-excel-files.cs" >}}
@@ -28,7 +28,7 @@ description: 只需幾行 C# 代碼即可連接 Excel 和 OpenOffice 電子表�
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="通過複製工作表合併 Excel 文件" %}}
-[工作表.複製](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy/index) 可用於將數據和格式從源工作表複製到工作簿內或工作簿之間的另一個工作表。該方法將源工作表對像作為參數。
+[工作表.複製](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy/index) 可用於將數據和格式從源工作表複製到工作簿內或工作簿之間的另一個工作表。該方法將源工作表對像作為參數。
 {{% blocks/products/pf/feature-page-code h3="C# 跨 Excel 文件複製工作表的代碼" %}}
 
 {{< gist "aspose-com-gists" "d7c757e7471bd38006ac0d35d221b2e2" "copy-worksheets-across-excel-files.cs" >}}

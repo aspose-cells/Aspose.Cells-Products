@@ -48,7 +48,7 @@ PM> Install-Package Aspose.Cells
 XLSB फ़ाइल को बंटवारे के लिए पूर्ण पथ के साथ लोड करें।
 + प्रत्येक शीट के माध्यम से पुनरावृति
 + एक नई वर्कबुक क्लास ऑब्जेक्ट बनाएं
-+ के माध्यम से शीट की प्रतिलिपि बनाएँ [कॉपी विधि](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
++ के माध्यम से शीट की प्रतिलिपि बनाएँ [कॉपी विधि](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
 + सहेजें () विधि को कॉल करें और फ़ाइल नाम (पूर्ण पथ) और SaveFormat.Xlsb को पैरामीटर के रूप में पास करें।
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

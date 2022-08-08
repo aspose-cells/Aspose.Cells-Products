@@ -10,7 +10,7 @@ description: Scal pliki Excel za pomocą Java w wiele arkuszy lub jeden arkusz. 
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Połącz pliki Excela z obrazami i wykresami" %}}
-Najprostszym sposobem połączenia dwóch plików Excela zawierających obrazy i wykresy jest wywołanie [Skoroszyt.combine](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#combine(com.aspose.cells.Workbook)) metoda. Pozwala łączyć pliki Excel podobnego typu w jeden arkusz kalkulacyjny.
+Najprostszym sposobem połączenia dwóch plików Excela zawierających obrazy i wykresy jest wywołanie [Skoroszyt.combine](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#combine(com.aspose.cells.Workbook)) metoda. Pozwala łączyć pliki Excel podobnego typu w jeden arkusz kalkulacyjny.
 {{% blocks/products/pf/feature-page-code h3="Java Kod do łączenia plików Excel" %}}
 
 ```cs
@@ -29,7 +29,7 @@ book1.save("combined.xlsx");
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="Scal wiele plików Excel" %}}
-[CellsHelper.mergeFiles](https://apireference.aspose.com/cells/java/com.aspose.cells/cellshelper#mergeFiles) Metoda obsługuje łączenie danych, stylów i formuł pliku Excel w nowy arkusz kalkulacyjny o tym samym formacie. Jest to wydajny sposób łączenia kilku plików podczas korzystania z pamięci podręcznej. 
+[CellsHelper.mergeFiles](https://reference.aspose.com/cells/java/com.aspose.cells/cellshelper#mergeFiles) Metoda obsługuje łączenie danych, stylów i formuł pliku Excel w nowy arkusz kalkulacyjny o tym samym formacie. Jest to wydajny sposób łączenia kilku plików podczas korzystania z pamięci podręcznej. 
 {{% blocks/products/pf/feature-page-code h3="Java Kod do łączenia kilku plików Excel" %}}
 
 ```cs
@@ -47,7 +47,7 @@ CellsHelper.mergeFiles(files, "cache", "merged.xls");
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="Scal pliki Excela, kopiując arkusze robocze" %}}
-[Arkusz.kopia](https://apireference.aspose.com/cells/java/com.aspose.cells/worksheet#copy(com.aspose.cells.Worksheet)może służyć do kopiowania danych i formatowania z arkusza źródłowego do innego arkusza w obrębie skoroszytów lub między nimi. Metoda przyjmuje źródłowy obiekt arkusza jako parametr.
+[Arkusz.kopia](https://reference.aspose.com/cells/java/com.aspose.cells/worksheet#copy(com.aspose.cells.Worksheet)może służyć do kopiowania danych i formatowania z arkusza źródłowego do innego arkusza w obrębie skoroszytów lub między nimi. Metoda przyjmuje źródłowy obiekt arkusza jako parametr.
 {{% blocks/products/pf/feature-page-code h3="Java Kod do kopiowania arkuszy roboczych między skoroszytami" %}}
 
 ```cs

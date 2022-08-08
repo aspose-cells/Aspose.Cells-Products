@@ -41,7 +41,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Laad het XLSB Excel-bestand met behulp van het IWorkbook-klasseobject.1. Selecteer het betreffende blad1. Voeg de opmerking toe met de methode Toevoegen1. Stel de notitie van de opmerking in met behulp van de SetNote-methode.1. Sla de werkmap op met [Opslaan](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) methode
+1. Laad het XLSB Excel-bestand met behulp van het IWorkbook-klasseobject.1. Selecteer het betreffende blad1. Voeg de opmerking toe met de methode Toevoegen1. Stel de notitie van de opmerking in met behulp van de SetNote-methode.1. Sla de werkmap op met [Opslaan](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) methode
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

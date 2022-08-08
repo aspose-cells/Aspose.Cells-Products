@@ -26,7 +26,7 @@ description: Java Exempelkod för att generera XLS-dokument. Använd den här ko
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Skapa en instans av [Arbetsbok klass](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook).1. Öppna det relevanta kalkylbladet med metoden getWorksheets.get().1. Välj den relevanta cellen, mata in värdet i den önskade cellen med cellnamnet, som A1, B3, etc.1. Spara arbetsboken som XLS-format med metoden save().
+1. Skapa en instans av [Arbetsbok klass](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook).1. Öppna det relevanta kalkylbladet med metoden getWorksheets.get().1. Välj den relevanta cellen, mata in värdet i den önskade cellen med cellnamnet, som A1, B3, etc.1. Spara arbetsboken som XLS-format med metoden save().
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Systemkrav" %}}

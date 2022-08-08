@@ -10,7 +10,7 @@ description: Führen Sie Excel-Dateien mit Java in mehrere Blätter oder ein ein
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Kombinieren Sie Excel-Dateien mit Bildern und Diagrammen" %}}
-Der einfachste Weg, zwei Excel-Dateien mit Bildern und Diagrammen zu kombinieren, ist der Aufruf der [Arbeitsbuch.combine](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#combine(com.aspose.cells.Workbook)) Methode. Es ermöglicht das Zusammenführen von Excel-Dateien ähnlichen Typs in einer einzigen Tabelle.
+Der einfachste Weg, zwei Excel-Dateien mit Bildern und Diagrammen zu kombinieren, ist der Aufruf der [Arbeitsbuch.combine](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#combine(com.aspose.cells.Workbook)) Methode. Es ermöglicht das Zusammenführen von Excel-Dateien ähnlichen Typs in einer einzigen Tabelle.
 {{% blocks/products/pf/feature-page-code h3="Java Code zum Kombinieren von Excel-Dateien" %}}
 
 ```cs
@@ -29,7 +29,7 @@ book1.save("combined.xlsx");
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="Mehrere Excel-Dateien zusammenführen" %}}
-[CellsHelper.mergeFiles](https://apireference.aspose.com/cells/java/com.aspose.cells/cellshelper#mergeFiles) -Methode unterstützt das Zusammenführen von Daten, Stil und Formeln einer Excel-Datei mit einer neuen Tabelle im gleichen Format. Es ist eine effiziente Möglichkeit, mehrere Dateien zusammenzuführen, während Caching verwendet wird. 
+[CellsHelper.mergeFiles](https://reference.aspose.com/cells/java/com.aspose.cells/cellshelper#mergeFiles) -Methode unterstützt das Zusammenführen von Daten, Stil und Formeln einer Excel-Datei mit einer neuen Tabelle im gleichen Format. Es ist eine effiziente Möglichkeit, mehrere Dateien zusammenzuführen, während Caching verwendet wird. 
 {{% blocks/products/pf/feature-page-code h3="Java Code zum Zusammenführen mehrerer Excel-Dateien" %}}
 
 ```cs
@@ -47,7 +47,7 @@ CellsHelper.mergeFiles(files, "cache", "merged.xls");
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="Excel-Dateien durch Kopieren von Arbeitsblättern zusammenführen" %}}
-[Arbeitsblatt.kopieren](https://apireference.aspose.com/cells/java/com.aspose.cells/worksheet#copy(com.aspose.cells.Worksheet)kann verwendet werden, um Daten und Formatierungen von einem Quellarbeitsblatt in ein anderes Arbeitsblatt innerhalb oder zwischen Arbeitsmappen zu kopieren. Die Methode nimmt das Quellarbeitsblattobjekt als Parameter.
+[Arbeitsblatt.kopieren](https://reference.aspose.com/cells/java/com.aspose.cells/worksheet#copy(com.aspose.cells.Worksheet)kann verwendet werden, um Daten und Formatierungen von einem Quellarbeitsblatt in ein anderes Arbeitsblatt innerhalb oder zwischen Arbeitsmappen zu kopieren. Die Methode nimmt das Quellarbeitsblattobjekt als Parameter.
 {{% blocks/products/pf/feature-page-code h3="Java Code zum Kopieren von Arbeitsblättern zwischen Arbeitsmappen" %}}
 
 ```cs

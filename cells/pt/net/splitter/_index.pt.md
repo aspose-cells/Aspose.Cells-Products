@@ -10,12 +10,12 @@ description: C# códigos-fonte que explicam como dividir arquivos do Microsoft E
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Dividir documento do Excel em vários arquivos" %}}
-A maneira mais simples de dividir arquivos do Excel em planilhas é acessar todas as planilhas via [Fichas de trabalho](https://apireference.aspose.com/cells/net/aspose.cells/workbook/properties/worksheets), Iterando em cada planilha e chamando o [cópia de](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy) método. Finalmente, salvando-o em um caminho especificado. 
+A maneira mais simples de dividir arquivos do Excel em planilhas é acessar todas as planilhas via [Fichas de trabalho](https://reference.aspose.com/cells/net/aspose.cells/workbook/properties/worksheets), Iterando em cada planilha e chamando o [cópia de](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy) método. Finalmente, salvando-o em um caminho especificado. 
 
-+ Carregue o arquivo do Excel com o caminho completo usando [Aula de pasta de trabalho](https://apireference.aspose.com/cells/net/aspose.cells/workbook).
++ Carregue o arquivo do Excel com o caminho completo usando [Aula de pasta de trabalho](https://reference.aspose.com/cells/net/aspose.cells/workbook).
 + Iterar em cada planilha
 + Criar um novo objeto de classe Workbook
-+ Copie a planilha via [Copiar método](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
++ Copie a planilha via [Copiar método](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
 + Chame o método Save() e passe o nome do arquivo (caminho completo) com SaveFormat relevante.
 
 {{% blocks/products/pf/feature-page-code h3="C# Código para dividir arquivos do Excel" %}}
@@ -29,7 +29,7 @@ A maneira mais simples de dividir arquivos do Excel em planilhas é acessar toda
 
 {{% blocks/products/pf/feature-page-section h2="Dividir planilha do Excel em painéis" %}}
 
-Para dividir a janela da planilha em painéis, API fornece [Método de divisão](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/split) da classe de planilha, que fornece a visão dividida da planilha. Para remover a visualização dividida API fornece [Método RemoveSplit](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/removesplit). Por fim, salve-o em um caminho especificado. 
+Para dividir a janela da planilha em painéis, API fornece [Método de divisão](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/split) da classe de planilha, que fornece a visão dividida da planilha. Para remover a visualização dividida API fornece [Método RemoveSplit](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/removesplit). Por fim, salve-o em um caminho especificado. 
 
 {{% blocks/products/pf/feature-page-code h3="C# Código para dividir a janela da planilha do Excel" %}}
 

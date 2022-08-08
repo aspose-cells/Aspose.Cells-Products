@@ -24,7 +24,7 @@ description: C#.NETライブラリを使用してExcelに折れ線グラフを�
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Aspose.Cells名前名を含める1. 作成 [**ワークブック**](https://apireference.aspose.com/cells/net/aspose.cells/workbook) クラスインスタンス。1. ワークシートにデータを追加します。1. 追加する [**ライン**](https://apireference.aspose.com/cells/net/aspose.cells.charts/charttype) ワークシートにグラフ化します。1. 新しいにアクセスする [**チャート**](https://apireference.aspose.com/cells/net/aspose.cells.charts/chart) 物体。1. チャートのデータソースをで指定します [** Chart.SetChartDataRange **](https://https://apireference.aspose.com/cells/net/aspose.cells.charts/chart/methods/setchartdatarange) 方法。
+1. Aspose.Cells名前名を含める1. 作成 [**ワークブック**](https://reference.aspose.com/cells/net/aspose.cells/workbook) クラスインスタンス。1. ワークシートにデータを追加します。1. 追加する [**ライン**](https://reference.aspose.com/cells/net/aspose.cells.charts/charttype) ワークシートにグラフ化します。1. 新しいにアクセスする [**チャート**](https://reference.aspose.com/cells/net/aspose.cells.charts/chart) 物体。1. チャートのデータソースをで指定します [** Chart.SetChartDataRange **](https://https://reference.aspose.com/cells/net/aspose.cells.charts/chart/methods/setchartdatarange) 方法。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

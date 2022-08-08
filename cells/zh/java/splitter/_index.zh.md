@@ -11,7 +11,7 @@ description: Java 说明如何使用 Java Excel 库将 Microsoft Excel 文件拆
 
 {{% blocks/products/pf/feature-page-section h2="将 Excel 文档拆分为多个文件" %}}
 
-将 Excel 文件拆分为工作表的最简单方法是，访问所有工作表，遍历每个工作表并以所需格式逐个保存。为了加载工作表，API 提供 [工作簿](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) 班级。 [getWorksheets().getCount()](https://apireference.aspose.com/cells/java/com.aspose.cells/worksheetcollection#Count) 方法获取总张数。遍历每张纸并使用 [getWorksheets().get(sheetindex)](https://apireference.aspose.com/cells/java/com.aspose.cells/worksheetcollection#get) 用于访问特定工作表。通过使用将选定的工作表数据移动到新创建的 Workbook 类对象中 [复制方法](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#copy(com.aspose.cells.Workbook)）。最后保存成需要的格式。
+将 Excel 文件拆分为工作表的最简单方法是，访问所有工作表，遍历每个工作表并以所需格式逐个保存。为了加载工作表，API 提供 [工作簿](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) 班级。 [getWorksheets().getCount()](https://reference.aspose.com/cells/java/com.aspose.cells/worksheetcollection#Count) 方法获取总张数。遍历每张纸并使用 [getWorksheets().get(sheetindex)](https://reference.aspose.com/cells/java/com.aspose.cells/worksheetcollection#get) 用于访问特定工作表。通过使用将选定的工作表数据移动到新创建的 Workbook 类对象中 [复制方法](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#copy(com.aspose.cells.Workbook)）。最后保存成需要的格式。
 
 {{% blocks/products/pf/feature-page-code h3="Java 拆分 Excel 文件的代码" %}}
 

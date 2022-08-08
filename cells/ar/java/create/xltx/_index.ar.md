@@ -26,7 +26,7 @@ description: Java نموذج كود لإنشاء مستندات XLTX. استخد
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. قم بإنشاء مثيل لـ [فئة المصنف](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook).1. قم بالوصول إلى ورقة العمل ذات الصلة باستخدام طريقة getWorksheets.get ().1. حدد الخلية ذات الصلة ، وأدخل القيمة في الخلية المطلوبة باستخدام اسم الخلية ، مثل A1 ، B3 ، إلخ.1. احفظ المصنف بتنسيق XLTX باستخدام طريقة الحفظ ().
+1. قم بإنشاء مثيل لـ [فئة المصنف](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook).1. قم بالوصول إلى ورقة العمل ذات الصلة باستخدام طريقة getWorksheets.get ().1. حدد الخلية ذات الصلة ، وأدخل القيمة في الخلية المطلوبة باستخدام اسم الخلية ، مثل A1 ، B3 ، إلخ.1. احفظ المصنف بتنسيق XLTX باستخدام طريقة الحفظ ().
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات النظام" %}}

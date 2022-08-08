@@ -48,7 +48,7 @@ PM> Install-Package Aspose.Cells
 +分割用のフルパスを含むXLSMファイルをロードします。
 +各シートを繰り返します
 +新しいWorkbookクラスオブジェクトを作成します
-+シートをコピーする [コピー方法](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
++シートをコピーする [コピー方法](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
 + Save（）メソッドを呼び出し、ファイル名（フルパス）とSaveFormat.Xlsmをパラメーターとして渡します。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

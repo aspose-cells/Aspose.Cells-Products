@@ -11,7 +11,7 @@ Python Pustaka Excel mempercepat pemrograman spreadsheet dan proses konversi sam
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Konversi Excel ke XLSX, ODS, SXC & FODS" %}}
-Antar-konversi format spreadsheet hanya memerlukan pemuatan spreadsheet dengan instance [buku kerja](https://apireference.aspose.com/cells/python/asposecells.api/Workbook) dan menyimpan kembali dalam format yang diinginkan sambil memilih nilai yang sesuai dari [SimpanFormat](https://apireference.aspose.com/cells/python/asposecells.api/saveformat) pencacahan.
+Antar-konversi format spreadsheet hanya memerlukan pemuatan spreadsheet dengan instance [buku kerja](https://reference.aspose.com/cells/python/asposecells.api/Workbook) dan menyimpan kembali dalam format yang diinginkan sambil memilih nilai yang sesuai dari [SimpanFormat](https://reference.aspose.com/cells/python/asposecells.api/saveformat) pencacahan.
 {{% blocks/products/pf/feature-page-code h3="Python Kode untuk Konversi Format File Excel" %}}
 
 ```cs
@@ -31,7 +31,7 @@ workbook.save("output.fods", SaveFormat.FODS);
 
 
 {{% blocks/products/pf/feature-page-section h2="Konversi Excel ke PDF, XPS, HTML & MD" %}}
-Kelas khusus tersedia untuk mengontrol proses konversi untuk format output tertentu seperti: [Opsi Simpan Pdf](https://apireference.aspose.com/cells/python/asposecells.api/PdfSaveOptions) untuk mengekspor file Excel sebagai PDF, [XpsSaveOptions](https://apireference.aspose.com/cells/python/asposecells.api/XpsSaveOptions) untuk konversi Excel ke XPS, [HtmlSimpanOpsi](https://apireference.aspose.com/cells/python/asposecells.api/HtmlSaveOptions) untuk membuat Excel sebagai HTML dan [Penurunan HargaSimpanOpsi](https://apireference.aspose.com/cells/python/asposecells.api/MarkdownSaveOptions) untuk konversi Excel ke penurunan harga. 
+Kelas khusus tersedia untuk mengontrol proses konversi untuk format output tertentu seperti: [Opsi Simpan Pdf](https://reference.aspose.com/cells/python/asposecells.api/PdfSaveOptions) untuk mengekspor file Excel sebagai PDF, [XpsSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/XpsSaveOptions) untuk konversi Excel ke XPS, [HtmlSimpanOpsi](https://reference.aspose.com/cells/python/asposecells.api/HtmlSaveOptions) untuk membuat Excel sebagai HTML dan [Penurunan HargaSimpanOpsi](https://reference.aspose.com/cells/python/asposecells.api/MarkdownSaveOptions) untuk konversi Excel ke penurunan harga. 
 {{% blocks/products/pf/feature-page-code h3="Python Kode untuk Excel ke PDF dan Format Web" %}}
 
 ```cs
@@ -90,7 +90,7 @@ workbook.save("Data.json")
 {{< blocks/products/pf/feature-page-options pairs="json-to-xlsx json-to-ods json-to-csv json-to-dif json-to-html csv-to-json xls-to-json ods-to-json" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Konversikan Lembar Kerja Excel ke JPG, BMP, PNG & GIF" %}}
-Setiap lembar kerja dari file Excel dapat dikonversi ke format gambar yang berbeda, panggil [Opsi GambarAtauCetak](https://apireference.aspose.com/cells/python/asposecells.api/ImageOrPrintOptions).setImageFormat untuk mengatur format gambar. 
+Setiap lembar kerja dari file Excel dapat dikonversi ke format gambar yang berbeda, panggil [Opsi GambarAtauCetak](https://reference.aspose.com/cells/python/asposecells.api/ImageOrPrintOptions).setImageFormat untuk mengatur format gambar. 
 {{% blocks/products/pf/feature-page-code h3="Python Kode untuk Konversi Excel ke Gambar" %}}
 ```cs
 // memuat lembar kerja template
@@ -112,7 +112,7 @@ sr.toImage(0, "output.jpg")
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Konversi Excel ke Word & PowerPoint" %}}
-Dimungkinkan untuk memuat spreadsheet apa pun dan mengonversinya menjadi file Word DOCX & PowerPoint PPTX saat menggunakan [DocxSaveOptions](https://apireference.aspose.com/cells/python/asposecells.api/DocxSaveOptions) & [PptxSimpanOpsi](https://apireference.aspose.com/cells/python/asposecells.api/PptxSaveOptions) kelas seperti yang ditunjukkan di bawah ini.
+Dimungkinkan untuk memuat spreadsheet apa pun dan mengonversinya menjadi file Word DOCX & PowerPoint PPTX saat menggunakan [DocxSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/DocxSaveOptions) & [PptxSimpanOpsi](https://reference.aspose.com/cells/python/asposecells.api/PptxSaveOptions) kelas seperti yang ditunjukkan di bawah ini.
 {{% blocks/products/pf/feature-page-code h3="Python kode untuk Konversi Excel ke Word & PowerPoint" %}}
 ```cs
 // memuat file template

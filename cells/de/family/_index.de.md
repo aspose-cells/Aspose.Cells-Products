@@ -57,7 +57,7 @@ Laden, erstellen, bearbeiten und rendern Sie Excel-Dokumente mit Python.
 {{< blocks/products/pf/slr-tab tabTitle="Lernmittel" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentation" href="https://docs.aspose.com/cells/" >}}
 {{< blocks/products/pf/slr-element name="Quellcode" href="https://github.com/aspose-cells?tab=repositories" >}}
-{{< blocks/products/pf/slr-element name="API Referenzen" href="https://apireference.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="API Referenzen" href="https://reference.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Tutorial-Videos" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

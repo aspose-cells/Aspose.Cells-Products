@@ -24,7 +24,7 @@ Vytváření spojnicových grafů dynamicky v rámci běžící aplikace je snad
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Zahrnout jmenný prostor Aspose.Cells1. Vytvořit [**Pracovní sešit**](https://apireference.aspose.com/cells/net/aspose.cells/workbook) instance třídy.1. Přidejte do listu nějaká data.1. Přidat [**Čára**](https://apireference.aspose.com/cells/net/aspose.cells.charts/charttype) Graf k pracovnímu listu.1. Přístup k novému [**Schéma**](https://apireference.aspose.com/cells/net/aspose.cells.charts/chart) objekt.1. Zadejte zdroj dat grafu pomocí [**Chart.SetChartDataRange**](https://https://apireference.aspose.com/cells/net/aspose.cells.charts/chart/methods/setchartdatarange) metoda.
+1. Zahrnout jmenný prostor Aspose.Cells1. Vytvořit [**Pracovní sešit**](https://reference.aspose.com/cells/net/aspose.cells/workbook) instance třídy.1. Přidejte do listu nějaká data.1. Přidat [**Čára**](https://reference.aspose.com/cells/net/aspose.cells.charts/charttype) Graf k pracovnímu listu.1. Přístup k novému [**Schéma**](https://reference.aspose.com/cells/net/aspose.cells.charts/chart) objekt.1. Zadejte zdroj dat grafu pomocí [**Chart.SetChartDataRange**](https://https://reference.aspose.com/cells/net/aspose.cells.charts/chart/methods/setchartdatarange) metoda.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

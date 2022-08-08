@@ -260,7 +260,7 @@ description: Ekspor laporan dari Jasper Reports dan JasperServer dalam format Ex
 {{< blocks/products/pf/slr-tab tabTitle="Sumber Belajar" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentasi" href="https://docs.aspose.com/cells/jasperreports/" >}}
 {{< blocks/products/pf/slr-element name="Kode sumber" href="https://github.com/aspose-cells?tab=repositories" >}}
-{{< blocks/products/pf/slr-element name="API Referensi" href="https://apireference.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="API Referensi" href="https://reference.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Video Tutorial" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

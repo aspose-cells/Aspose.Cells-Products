@@ -11,7 +11,7 @@ Bármilyen táblázatkezelő alkalmazás vagy megoldás esetén az **C++ Excel L
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Microsoft Excel formátumok interkonvertálása" %}}
-A táblázatformátumok közötti konvertáláshoz csak egy példányt tartalmazó táblázatot kell betölteni [ intrusive_ptr<Aspose::Cells::IWorkbook>](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) mutatót, és mentse vissza a kívánt formátumba a segítségével [Megment](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997) a metódusa [IWorkbook osztály](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook).
+A táblázatformátumok közötti konvertáláshoz csak egy példányt tartalmazó táblázatot kell betölteni [ intrusive_ptr<Aspose::Cells::IWorkbook>](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) mutatót, és mentse vissza a kívánt formátumba a segítségével [Megment](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997) a metódusa [IWorkbook osztály](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook).
 {{% blocks/products/pf/feature-page-code h3="C++ Példakód az Excel fájlformátum konvertálásához" %}}
 
 ```cs
@@ -30,7 +30,7 @@ wkb->Save(u"output_excel_format.xlsx", SaveFormat_Xlsx);
 
 
 {{% blocks/products/pf/feature-page-section h2="Konvertálja az Excel formátumokat PDF-be a megfelelőségi szint beállításaival" %}}
-Az C++ Excel Automation API támogatja a munkafüzetek PDF formátumba konvertálását, valamint a megfelelőségi szint és a létrehozás dátumának beállítását. A fejlesztők használhatják [IPdfSaveOptions](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_pdf_save_options) együtt [Aspose::Cells::Megjelenítés](https://apireference.aspose.com/cells/cpp/namespace/aspose.cells.rendering) a PDF megfelelőségének beállításához. A konverzióhoz a API mentési módszert használja PdfSaveOptions paraméterként és meghatározott kimeneti fájl elérési úttal. 
+Az C++ Excel Automation API támogatja a munkafüzetek PDF formátumba konvertálását, valamint a megfelelőségi szint és a létrehozás dátumának beállítását. A fejlesztők használhatják [IPdfSaveOptions](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_pdf_save_options) együtt [Aspose::Cells::Megjelenítés](https://reference.aspose.com/cells/cpp/namespace/aspose.cells.rendering) a PDF megfelelőségének beállításához. A konverzióhoz a API mentési módszert használja PdfSaveOptions paraméterként és meghatározott kimeneti fájl elérési úttal. 
 {{% blocks/products/pf/feature-page-code h3="C++ Mintakód az Excel PDF-be konvertálásához" %}}
 
 ```cs
@@ -58,7 +58,7 @@ wkb->Save(u"output-converted-excel-workbook-to.pdf", pdfSaveOptions);
 {{< blocks/products/pf/feature-page-options formats="PDF" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Excel mentése a Képek közé" %}}
-**C++Az Excel Parser** képes adatokat exportálni képek formájában. Minden munkalap konvertálható különböző képformátumokba, mint például BMP, JPEG, PNG és GIF, amelyeket a [Rendering::IImageOrPrintOptions](https://apireference.aspose.com/cells/cpp/class/aspose.cells.rendering.i_image_or_print_options). Minden **Excel konvertálása képekké** esethez válassza ki a megfelelő esetet a hivatkozások közül.
+**C++Az Excel Parser** képes adatokat exportálni képek formájában. Minden munkalap konvertálható különböző képformátumokba, mint például BMP, JPEG, PNG és GIF, amelyeket a [Rendering::IImageOrPrintOptions](https://reference.aspose.com/cells/cpp/class/aspose.cells.rendering.i_image_or_print_options). Minden **Excel konvertálása képekké** esethez válassza ki a megfelelő esetet a hivatkozások közül.
 {{% blocks/products/pf/feature-page-code h3="C++ Kód az Excel képpé konvertálásához" %}}
 
 ```cs

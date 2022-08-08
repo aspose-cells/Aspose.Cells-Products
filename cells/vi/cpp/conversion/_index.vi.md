@@ -11,7 +11,7 @@ description: Chuyển đổi Excel XLS, XLSX, ODS, CSV sang PDF, XPS, HTML, JPEG
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Chuyển đổi giữa các Định dạng Microsoft Excel" %}}
-Việc chuyển đổi giữa các định dạng bảng tính chỉ yêu cầu tải một bảng tính có phiên bản của [ intrusive_ptr <Aspose :: Cells :: IWorkbook>](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) con trỏ và lưu lại ở định dạng mong muốn bằng cách sử dụng [Cứu](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997) phương pháp của [Lớp IWorkbook](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook).
+Việc chuyển đổi giữa các định dạng bảng tính chỉ yêu cầu tải một bảng tính có phiên bản của [ intrusive_ptr <Aspose :: Cells :: IWorkbook>](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) con trỏ và lưu lại ở định dạng mong muốn bằng cách sử dụng [Cứu](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997) phương pháp của [Lớp IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook).
 {{% blocks/products/pf/feature-page-code h3="C++ Mã Ví dụ cho Chuyển đổi Định dạng Tệp Excel" %}}
 
 ```cs
@@ -30,7 +30,7 @@ wkb->Save(u"output_excel_format.xlsx", SaveFormat_Xlsx);
 
 
 {{% blocks/products/pf/feature-page-section h2="Chuyển đổi Định dạng Excel sang PDF với Cài đặt Mức độ Tuân thủ" %}}
-C++ Tự động hóa Excel API hỗ trợ chuyển đổi Sổ làm việc sang PDF cũng như hỗ trợ thiết lập mức tuân thủ và ngày tạo. Các nhà phát triển có thể sử dụng [IPdfSaveOptions](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_pdf_save_options) cùng với [Aspose :: Cells :: Kết xuất](https://apireference.aspose.com/cells/cpp/namespace/aspose.cells.rendering) để thiết lập tuân thủ PDF. Đối với chuyển đổi, API lưu phương pháp có PdfSaveOptions làm tham số và đường dẫn tệp đầu ra rõ ràng. 
+C++ Tự động hóa Excel API hỗ trợ chuyển đổi Sổ làm việc sang PDF cũng như hỗ trợ thiết lập mức tuân thủ và ngày tạo. Các nhà phát triển có thể sử dụng [IPdfSaveOptions](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_pdf_save_options) cùng với [Aspose :: Cells :: Kết xuất](https://reference.aspose.com/cells/cpp/namespace/aspose.cells.rendering) để thiết lập tuân thủ PDF. Đối với chuyển đổi, API lưu phương pháp có PdfSaveOptions làm tham số và đường dẫn tệp đầu ra rõ ràng. 
 {{% blocks/products/pf/feature-page-code h3="C++ Mã Mẫu cho Chuyển đổi Excel sang PDF" %}}
 
 ```cs
@@ -58,7 +58,7 @@ wkb->Save(u"output-converted-excel-workbook-to.pdf", pdfSaveOptions);
 {{< blocks/products/pf/feature-page-options formats="PDF" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Lưu Excel vào Hình ảnh" %}}
-** C++ Excel Parser ** có khả năng xuất dữ liệu dưới dạng hình ảnh. Mỗi trang tính có thể được chuyển đổi sang các định dạng hình ảnh khác nhau bao gồm BMP, JPEG, PNG và GIF, được thiết lập bởi [Kết xuất :: IImageOrPrintOptions](https://apireference.aspose.com/cells/cpp/class/aspose.cells.rendering.i_image_or_print_options). Đối với bất kỳ trường hợp ** Chuyển Excel sang Hình ảnh ** nào, hãy chọn trường hợp liên quan từ các liên kết.
+** C++ Excel Parser ** có khả năng xuất dữ liệu dưới dạng hình ảnh. Mỗi trang tính có thể được chuyển đổi sang các định dạng hình ảnh khác nhau bao gồm BMP, JPEG, PNG và GIF, được thiết lập bởi [Kết xuất :: IImageOrPrintOptions](https://reference.aspose.com/cells/cpp/class/aspose.cells.rendering.i_image_or_print_options). Đối với bất kỳ trường hợp ** Chuyển Excel sang Hình ảnh ** nào, hãy chọn trường hợp liên quan từ các liên kết.
 {{% blocks/products/pf/feature-page-code h3="C++ Mã chuyển đổi Excel sang Hình ảnh" %}}
 
 ```cs

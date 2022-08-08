@@ -11,7 +11,7 @@ description: JavaExcelライブラリを使用してMicrosoftExcelファイル�
 
 {{% blocks/products/pf/feature-page-section h2="Excelドキュメントを複数のファイルに分割" %}}
 
-Excelファイルをシートに分割する最も簡単な方法は、すべてのシートにアクセスし、各シートを繰り返し処理して、目的の形式で1つずつ保存することです。ワークシートをロードするために、APIは [ワークブック](https://apireference.aspose.com/cells/java/com.aspose.cells/Workbook) クラス。 [getWorksheets（）。getCount（）](https://apireference.aspose.com/cells/java/com.aspose.cells/worksheetcollection#Count) メソッドはシートの総数を取得します。各シートを繰り返して使用します [getWorksheets（）。get（sheetindex）](https://apireference.aspose.com/cells/java/com.aspose.cells/worksheetcollection#get) 特定のシートにアクセスするため。を使用して、選択したシートデータを新しく作成したWorkbookクラスオブジェクトに移動します [コピー方法](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#copy(com.aspose.cells.Workbook)）。最後に、必要な形式で保存します。
+Excelファイルをシートに分割する最も簡単な方法は、すべてのシートにアクセスし、各シートを繰り返し処理して、目的の形式で1つずつ保存することです。ワークシートをロードするために、APIは [ワークブック](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) クラス。 [getWorksheets（）。getCount（）](https://reference.aspose.com/cells/java/com.aspose.cells/worksheetcollection#Count) メソッドはシートの総数を取得します。各シートを繰り返して使用します [getWorksheets（）。get（sheetindex）](https://reference.aspose.com/cells/java/com.aspose.cells/worksheetcollection#get) 特定のシートにアクセスするため。を使用して、選択したシートデータを新しく作成したWorkbookクラスオブジェクトに移動します [コピー方法](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#copy(com.aspose.cells.Workbook)）。最後に、必要な形式で保存します。
 
 {{% blocks/products/pf/feature-page-code h3="JavaExcelファイルを分割するためのコード" %}}
 

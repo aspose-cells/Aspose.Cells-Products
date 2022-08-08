@@ -10,7 +10,7 @@ description: Voeg Excel-bestanden samen met Java in meerdere bladen of op één 
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Combineer Excel-bestanden met afbeeldingen en grafieken" %}}
-De eenvoudigste manier om twee Excel-bestanden met afbeeldingen en grafieken te combineren, is door de [Werkmap.combine](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#combine(com.aspose.cells.Workbook)) methode. Het maakt het mogelijk om Excel-bestanden van een vergelijkbaar type samen te voegen tot een enkele spreadsheet.
+De eenvoudigste manier om twee Excel-bestanden met afbeeldingen en grafieken te combineren, is door de [Werkmap.combine](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#combine(com.aspose.cells.Workbook)) methode. Het maakt het mogelijk om Excel-bestanden van een vergelijkbaar type samen te voegen tot een enkele spreadsheet.
 {{% blocks/products/pf/feature-page-code h3="Java Code om Excel-bestanden te combineren" %}}
 
 ```cs
@@ -29,7 +29,7 @@ book1.save("combined.xlsx");
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="Meerdere Excel-bestanden samenvoegen" %}}
-[CellsHelper.mergeFiles](https://apireference.aspose.com/cells/java/com.aspose.cells/cellshelper#mergeFiles) methode ondersteunt het samenvoegen van gegevens, stijl en formules van een Excel-bestand naar een nieuwe spreadsheet met hetzelfde formaat. Het is een efficiënte manier om verschillende bestanden samen te voegen terwijl u caching gebruikt. 
+[CellsHelper.mergeFiles](https://reference.aspose.com/cells/java/com.aspose.cells/cellshelper#mergeFiles) methode ondersteunt het samenvoegen van gegevens, stijl en formules van een Excel-bestand naar een nieuwe spreadsheet met hetzelfde formaat. Het is een efficiënte manier om verschillende bestanden samen te voegen terwijl u caching gebruikt. 
 {{% blocks/products/pf/feature-page-code h3="Java Code om meerdere Excel-bestanden samen te voegen" %}}
 
 ```cs
@@ -47,7 +47,7 @@ CellsHelper.mergeFiles(files, "cache", "merged.xls");
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="Excel-bestanden samenvoegen door werkbladen te kopiëren" %}}
-[Werkblad.kopie](https://apireference.aspose.com/cells/java/com.aspose.cells/worksheet#copy(com.aspose.cells.Worksheet)kan worden gebruikt om gegevens en opmaak van een bronwerkblad naar een ander werkblad binnen of tussen werkmappen te kopiëren. De methode neemt het bronwerkbladobject als parameter.
+[Werkblad.kopie](https://reference.aspose.com/cells/java/com.aspose.cells/worksheet#copy(com.aspose.cells.Worksheet)kan worden gebruikt om gegevens en opmaak van een bronwerkblad naar een ander werkblad binnen of tussen werkmappen te kopiëren. De methode neemt het bronwerkbladobject als parameter.
 {{% blocks/products/pf/feature-page-code h3="Java Code om werkbladen tussen werkmappen te kopiëren" %}}
 
 ```cs

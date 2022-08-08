@@ -10,7 +10,7 @@ description: Mescle arquivos do Excel usando Java em várias planilhas ou em uma
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Combine arquivos do Excel com imagens e gráficos" %}}
-A maneira mais simples de combinar dois arquivos do Excel com imagens e gráficos é chamando o [Pasta de trabalho.combine](https://apireference.aspose.com/cells/java/com.aspose.cells/workbook#combine(com.aspose.cells.Workbook)) método. Permite mesclar arquivos do Excel de tipo semelhante em uma única planilha.
+A maneira mais simples de combinar dois arquivos do Excel com imagens e gráficos é chamando o [Pasta de trabalho.combine](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#combine(com.aspose.cells.Workbook)) método. Permite mesclar arquivos do Excel de tipo semelhante em uma única planilha.
 {{% blocks/products/pf/feature-page-code h3="Java Código para combinar arquivos do Excel" %}}
 
 ```cs
@@ -29,7 +29,7 @@ book1.save("combined.xlsx");
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="Mesclar vários arquivos do Excel" %}}
-[CellsHelper.mergeFiles](https://apireference.aspose.com/cells/java/com.aspose.cells/cellshelper#mergeFiles) O método suporta a fusão de dados, estilo e fórmulas de um arquivo Excel em uma nova planilha do mesmo formato. É uma maneira eficiente de mesclar vários arquivos ao usar o cache. 
+[CellsHelper.mergeFiles](https://reference.aspose.com/cells/java/com.aspose.cells/cellshelper#mergeFiles) O método suporta a fusão de dados, estilo e fórmulas de um arquivo Excel em uma nova planilha do mesmo formato. É uma maneira eficiente de mesclar vários arquivos ao usar o cache. 
 {{% blocks/products/pf/feature-page-code h3="Java Código para mesclar vários arquivos do Excel" %}}
 
 ```cs
@@ -47,7 +47,7 @@ CellsHelper.mergeFiles(files, "cache", "merged.xls");
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="Mesclar arquivos do Excel copiando planilhas" %}}
-[Planilha.copiar](https://apireference.aspose.com/cells/java/com.aspose.cells/worksheet#copy(com.aspose.cells.Worksheet)pode ser usado para copiar dados e formatação de uma planilha de origem para outra planilha dentro ou entre pastas de trabalho. O método usa o objeto de planilha de origem como parâmetro.
+[Planilha.copiar](https://reference.aspose.com/cells/java/com.aspose.cells/worksheet#copy(com.aspose.cells.Worksheet)pode ser usado para copiar dados e formatação de uma planilha de origem para outra planilha dentro ou entre pastas de trabalho. O método usa o objeto de planilha de origem como parâmetro.
 {{% blocks/products/pf/feature-page-code h3="Java Código para copiar planilhas entre pastas de trabalho" %}}
 
 ```cs

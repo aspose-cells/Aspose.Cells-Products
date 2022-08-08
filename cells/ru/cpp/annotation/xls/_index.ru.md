@@ -41,7 +41,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Загрузите файл XLS Excel с помощью объекта класса IWorkbook.1. Выберите соответствующий лист1. Добавьте комментарий, используя метод Add1. Установите примечание комментария с помощью метода SetNote.1. Сохраните книгу с помощью [Сохранять](https://apireference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) метод
+1. Загрузите файл XLS Excel с помощью объекта класса IWorkbook.1. Выберите соответствующий лист1. Добавьте комментарий, используя метод Add1. Установите примечание комментария с помощью метода SetNote.1. Сохраните книгу с помощью [Сохранять](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) метод
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

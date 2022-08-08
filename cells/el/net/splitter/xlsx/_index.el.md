@@ -48,7 +48,7 @@ PM> Install-Package Aspose.Cells
 + Φορτώστε το αρχείο XLSX με πλήρη διαδρομή για διαχωρισμό.
 + Επανάληψη σε κάθε φύλλο
 + Δημιουργήστε ένα νέο αντικείμενο κλάσης Βιβλίο εργασίας
-+ Αντιγράψτε το φύλλο μέσω [Μέθοδος αντιγραφής](https://apireference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
++ Αντιγράψτε το φύλλο μέσω [Μέθοδος αντιγραφής](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
 + Καλέστε τη μέθοδο Save() και περάστε το όνομα του αρχείου (πλήρης διαδρομή) και το SaveFormat.Xlsx ως παράμετρο.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

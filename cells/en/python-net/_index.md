@@ -6,11 +6,11 @@ description: Python spreadsheet library to create read write and parse Excel fil
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Python Excel Spreadsheets Parsing APIs" h2="Generate, read, write or manipulate spreadsheets as well as export Excel files to multiple formats within Python applications." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/headers/aspose_cells-for-python-via-net.svg" pfName="Aspose.Cells" subTitlepfName="for Python via .NET" downloadUrl="https://downloads.aspose.com/cells/python-net" >}}
+{{< blocks/products/pf/upper-banner h1="Python Excel Spreadsheets Parsing APIs" h2="Generate, read, write or manipulate spreadsheets as well as export Excel files to multiple formats within Python applications." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/headers/aspose_cells-for-python-via-net.svg" pfName="Aspose.Cells" subTitlepfName="for Python via .NET" downloadUrl="https://releases.aspose.com/cells/python-net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Python via .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/python-net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cells/python-net/" installationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://downloads.aspose.com/cells/python-net" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/python-net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cells/python-net/" installationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/cells/python-net/" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
@@ -538,7 +538,7 @@ wk.save("houtput.html", SaveFormat.HTML);</code></pre>
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/python-net" pricingInformationLink="https://purchase.aspose.com/pricing/cells/python-net" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/cells/python-net/" pricingInformationLink="https://purchase.aspose.com/pricing/cells/python-net" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells offers individual Excel APIs for other popular development environments as listed below:" >}}
 

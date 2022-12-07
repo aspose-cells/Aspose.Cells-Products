@@ -6,11 +6,11 @@ description: Python spreadsheet library to create read write and parse Excel fil
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Python Excel Spreadsheets Parsing APIs" h2="Generate, read, write or manipulate spreadsheets as well as export Excel files to multiple formats within Python applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-python-java.svg" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="https://downloads.aspose.com/cells/python" >}}
+{{< blocks/products/pf/upper-banner h1="Python Excel Spreadsheets Parsing APIs" h2="Generate, read, write or manipulate spreadsheets as well as export Excel files to multiple formats within Python applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-python-java.svg" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="https://releases.aspose.com/cells/python-java/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Python via Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/python-java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cells/pythonjava/" installationsDocsLink="" nugetLink="" nugetPackageName="" pipLink="https://pypi.org/project/aspose-cells/" directDownloadLink="https://downloads.aspose.com/cells/python" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/python-java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cells/pythonjava/" installationsDocsLink="" nugetLink="" nugetPackageName="" pipLink="https://pypi.org/project/aspose-cells/" directDownloadLink="https://releases.aspose.com/cells/python-java/" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
@@ -536,7 +536,7 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/python" pricingInformationLink="https://purchase.aspose.com/pricing/cells/python-java" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/cells/python-java/" pricingInformationLink="https://purchase.aspose.com/pricing/cells/python-java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells offers individual Excel APIs for other popular development environments as listed below:" >}}
 

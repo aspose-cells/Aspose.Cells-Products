@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést JSON na MHTML přes Python
-url: /cs/python-java/conversion/json-to-mhtml/
+
 description: Ukázkový kód pro konverzi json na mhtml Python. Použijte API ukázkový kód pro dávkový převod souborů json na mhtml v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

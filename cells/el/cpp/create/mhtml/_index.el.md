@@ -1,6 +1,6 @@
-﻿---
+---
 title: Δημιουργία αρχείων MHTML μέσω C++ 
-url: /el/cpp/create-mhtml/ 
+
 description: C++ Δείγμα κώδικα για τη δημιουργία αρχείων MHTML. Χρησιμοποιήστε αυτόν τον κώδικα για τη δημιουργία αρχείων MHTML εντός εφαρμογής που βασίζεται σε C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

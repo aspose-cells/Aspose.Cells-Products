@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLSM konvertálása TIFF-re a következőn keresztül: C#"
-url: /hu/net/conversion/xlsm-to-tiff/
+
 description: Mintakód az xlsm–tiff C# konverzióhoz. Használjon API példakódot kötegelt xlsm fájlokhoz a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazás tiff konverziójához.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

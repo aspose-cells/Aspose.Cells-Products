@@ -1,7 +1,7 @@
-﻿---
+---
 title: Extrahera text och bilder från XLS-dokument via .NET 
 weight: 5600
-url: /sv/net/parser/xls/ 
+
 description: C# källkod för att extrahera text och bilder från XLS-fil på .NET Framework, .NET Core, Mono eller Xamarin-plattformar.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

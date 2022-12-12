@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi HTML sang TIFF qua Python
-url: /vi/python-java/conversion/html-to-tiff/
+
 description: Mã mẫu cho chuyển đổi html sang tiff Python. Sử dụng mã mẫu API cho các tệp html hàng loạt để chuyển đổi trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

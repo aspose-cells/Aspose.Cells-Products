@@ -1,6 +1,6 @@
-﻿---
+---
 title: XLS को SQL में Python के माध्यम से कनवर्ट करें
-url: /hi/python-java/conversion/xls-to-sql/
+
 description: xls से sql Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर बैच xls फ़ाइलों से sql रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

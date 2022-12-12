@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj NUMBERS na XLSB przez C#
-url: /pl/net/conversion/numbers-to-xlsb/
+
 description: Przykładowy kod konwersji liczb do formatu xlsb C#. Użyj przykładowego kodu API dla plików numerów partii do konwersji xlsb w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

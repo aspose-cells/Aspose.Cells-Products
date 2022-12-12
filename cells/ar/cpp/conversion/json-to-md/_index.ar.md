@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل JSON إلى MD عبر تطبيق C++ 
-url: /ar/cpp/conversion/json-to-md/ 
+
 description: نموذج رمز تحويل C++ لمستند JSON إلى تنسيق MD. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل دفعة JSON إلى MD داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

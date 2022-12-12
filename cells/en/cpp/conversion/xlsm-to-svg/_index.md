@@ -1,6 +1,6 @@
 ---
 title: Convert XLSM to SVG via C++
-url: /cpp/conversion/xlsm-to-svg/
+
 description: Convert XLSM to SVG format in C++ code. Save XLSM as SVG using C++.
 ---
 

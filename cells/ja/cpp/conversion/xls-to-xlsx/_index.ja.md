@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++アプリケーションを介してXLSをXLSXに変換する 
 weight: 4640
-url: /ja/cpp/conversion/xls-to-xlsx/ 
+
 description: XLSドキュメントからXLSX形式へのサンプルC++変換コード。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でXLSからXLSXへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

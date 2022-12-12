@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj XLT na MHTML przez Python
-url: /pl/python-java/conversion/xlt-to-mhtml/
+
 description: Przykładowy kod konwersji xlt do mhtml Python. Użyj przykładowego kodu API dla wsadowych plików xlt do konwersji mhtml w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

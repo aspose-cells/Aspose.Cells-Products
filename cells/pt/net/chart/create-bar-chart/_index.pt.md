@@ -1,6 +1,6 @@
-﻿---
+---
 title: Crie gráficos de barras por meio de C#
-url: /pt/net/create-bar-chart/
+
 description: C# Código de exemplo para criar gráficos de barras para Excel usando a biblioteca .NET. Use este código para criar um gráfico de barras para MS Excel em VB.NET, Asp.NET ou qualquer aplicativo baseado em .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

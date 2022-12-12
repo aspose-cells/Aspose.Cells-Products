@@ -1,7 +1,7 @@
-﻿---
+---
 title: Python Excel-táblázat API - Aspose 
 weight: 2820
-url: /hu/python-java/ 
+
 description: Python táblázatkönyvtár az olvasási írási és -elemzési Excel-fájlok létrehozásához.
 ---
 {{< blocks/products/pf/main-wrap-class >}}

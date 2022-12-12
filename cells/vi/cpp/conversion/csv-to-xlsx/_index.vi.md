@@ -1,7 +1,7 @@
-﻿---
+---
 title: Chuyển đổi CSV sang XLSX qua ứng dụng C++ 
 weight: 4030
-url: /vi/cpp/conversion/csv-to-xlsx/ 
+
 description: Mã chuyển đổi C++ mẫu cho tài liệu CSV sang định dạng XLSX. Các lập trình viên có thể sử dụng mã nguồn này để chuyển đổi hàng loạt CSV sang XLSX trong bất kỳ Ứng dụng C++ nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

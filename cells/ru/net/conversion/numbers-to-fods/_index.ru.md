@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование NUMBERS в FODS через C#
-url: /ru/net/conversion/numbers-to-fods/
+
 description: Пример кода для преобразования чисел в fods C#. Используйте пример кода API для преобразования файлов с номерами партий в fods в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

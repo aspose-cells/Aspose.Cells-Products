@@ -1,7 +1,7 @@
-﻿---
+---
 title: Sloučit soubory ODS přes Java 
 weight: 6270
-url: /cs/java/merger/ods/ 
+
 description: Java ukázkový kód pro kombinaci dokumentů ODS v Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

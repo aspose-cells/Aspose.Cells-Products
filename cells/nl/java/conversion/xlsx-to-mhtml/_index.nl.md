@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer XLSX naar MHTML via Java 
 weight: 1400
-url: /nl/java/conversion/xlsx-to-mhtml/ 
+
 description: Voorbeeld Java conversiecode voor XLSX-indeling naar MHTML-bestand. Programmeurs kunnen deze voorbeeldcode gebruiken om Excel- en OpenOffice-spreadsheets naar MHTML te exporteren binnen elke web- of desktoptoepassing Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

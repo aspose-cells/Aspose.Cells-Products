@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLSM-Dokument mit Wasserzeichen über Java 
 weight: 7680
-url: /de/java/watermark/xlsm/ 
+
 description: Java Beispielcode zum Hinzufügen oder Entfernen von Wasserzeichen zur XLSM-Datei in Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

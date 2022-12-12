@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer XLS naar XPS via C++ applicatie 
 weight: 2830
-url: /nl/cpp/conversion/xls-to-xps/ 
+
 description: Voorbeeld C++ conversiecode voor XLS-document naar XPS-indeling. Programmeurs kunnen deze broncode gebruiken voor batch-conversie van XLS naar XPS binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: สเปรดชีต Android Excel API - Aspose 
 weight: 6510
-url: /th/android-java/ 
+
 description: ไลบรารีสเปรดชีต Android เพื่อสร้างการอ่านเขียนและแยกวิเคราะห์ไฟล์ Excel สเปรดชีต API สำหรับการพัฒนาแอพมือถือ
 ---
 {{< blocks/products/pf/main-wrap-class >}}

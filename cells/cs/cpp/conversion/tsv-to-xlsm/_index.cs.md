@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převeďte TSV na XLSM prostřednictvím aplikace C++ 
 weight: 4750
-url: /cs/cpp/conversion/tsv-to-xlsm/ 
+
 description: Ukázka převodního kódu C++ pro dokument TSV na formát XLSM. Programátoři mohou použít tento zdrojový kód pro dávkový převod TSV na XLSM v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

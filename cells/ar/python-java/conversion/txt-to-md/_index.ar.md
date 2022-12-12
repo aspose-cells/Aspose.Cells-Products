@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TXT إلى MD عبر Python
-url: /ar/python-java/conversion/txt-to-md/
+
 description: نموذج كود للتحويل من TXT إلى md Python. استخدم API رمز المثال لملفات txt الدفعية لتحويل md داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

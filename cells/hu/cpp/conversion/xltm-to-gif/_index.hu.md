@@ -1,6 +1,6 @@
-﻿---
+---
 title: Az XLTM konvertálása GIF formátumba a C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/xltm-to-gif/ 
+
 description: Minta C++ konverziós kód XLTM dokumentumhoz GIF formátumba. A programozók ezt a forráskódot használhatják XLTM-ből GIF-be kötegelt konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

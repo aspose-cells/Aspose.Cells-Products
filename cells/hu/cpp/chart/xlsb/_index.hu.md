@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLSB dokumentumdiagram a következőn keresztül: C++ "
 weight: 5200
-url: /hu/cpp/chart/xlsb/ 
+
 description: C++ példakód diagram vagy diagram XLSB-fájlba történő rajzolásához és konvertálásához a C++ Runtime Environment for Windows 32 bit, Windows 64 bit és Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera XLSX till MARKDOWN via Python
-url: /sv/python-java/conversion/xlsx-to-markdown/
+
 description: Exempelkod för xlsx för att markera Python omvandling. Använd API-exempelkod för batch-xlsx-filer för att nedvärdera konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

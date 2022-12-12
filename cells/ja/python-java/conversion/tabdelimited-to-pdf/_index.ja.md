@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してTABDELIMITEDをPDFに変換します
-url: /ja/python-java/conversion/tabdelimited-to-pdf/
+
 description: tabdelimitedからpdfPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチタブ区切りファイルからPDFへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

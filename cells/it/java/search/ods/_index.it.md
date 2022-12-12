@@ -1,7 +1,7 @@
-﻿---
+---
 title: Cerca il documento ODS senza aprire tramite Java 
 weight: 8140
-url: /it/java/search/ods/ 
+
 description: Java codice di esempio per cercare parole con pattern nel file ODS in Java Runtime Environment per applicazioni JSP/JSF e applicazioni desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

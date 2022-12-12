@@ -1,6 +1,6 @@
-﻿---
+---
 title: Tạo và Chuyển đổi Biểu đồ Excel sang Hình ảnh qua .NET
-url: /vi/net/chart/
+
 description: C# mã nguồn để vẽ và chuyển đổi biểu đồ hoặc sơ đồ trong Microsoft Excel bằng cách sử dụng .NET Thư viện. 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

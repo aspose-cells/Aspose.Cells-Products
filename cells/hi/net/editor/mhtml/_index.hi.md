@@ -1,6 +1,6 @@
-﻿---
+---
 title: एमएचटीएमएल फाइलों को .NET के माध्यम से संपादित करें 
-url: /hi/net/editor/mhtml/ 
+
 description: .NET Framework, .NET Core, Windows Azure, Mono या Xamarin Platforms पर MHTML दस्तावेज़ को संपादित करने के लिए C# स्रोत कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

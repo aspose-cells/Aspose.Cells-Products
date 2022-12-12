@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してXLSBをTSVに変換 
 weight: 9690
-url: /ja/java/conversion/xlsb-to-tsv/ 
+
 description: XLSB形式からTSVファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のTSVにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

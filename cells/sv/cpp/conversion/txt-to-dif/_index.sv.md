@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera TXT till DIF via appen C++ 
-url: /sv/cpp/conversion/txt-to-dif/ 
+
 description: Exempel på konverteringskod för C++ för TXT-dokument till DIF-format. Programmerare kan använda den här källkoden för batchkonvertering av TXT till DIF inom alla C++-program.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

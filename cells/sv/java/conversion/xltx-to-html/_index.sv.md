@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertera XLTX till HTML via Java 
 weight: 6110
-url: /sv/java/conversion/xltx-to-html/ 
+
 description: Exempel på Java-konverteringskod för XLTX-format till HTML-fil. Programmerare kan använda den här exempelkoden för att exportera Excel- och OpenOffice-kalkylblad till HTML inom alla webb- eller skrivbordsbaserade Java-applikationer.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

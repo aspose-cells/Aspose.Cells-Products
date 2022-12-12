@@ -1,7 +1,7 @@
-﻿---
+---
 title: Convertir CSV en XLTM via l'application C++ 
 weight: 3500
-url: /fr/cpp/conversion/csv-to-xltm/ 
+
 description: Exemple de code de conversion C++ pour le document CSV au format XLTM. Les programmeurs peuvent utiliser ce code source pour la conversion par lots CSV vers XLTM dans n'importe quelle application C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

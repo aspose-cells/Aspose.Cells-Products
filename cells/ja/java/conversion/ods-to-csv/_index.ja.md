@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してODSをCSVに変換する 
 weight: 4610
-url: /ja/java/conversion/ods-to-csv/ 
+
 description: ODS形式からCSVファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、WebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをCSVにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

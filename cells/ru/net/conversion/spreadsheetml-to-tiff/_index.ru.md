@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование SPREADSHETML в TIFF с помощью C#
-url: /ru/net/conversion/spreadsheetml-to-tiff/
+
 description: Пример кода для преобразования электронной таблицыml в tiff C#. Используйте пример кода API для пакетного преобразования файлов электронных таблиц в формат tiff в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

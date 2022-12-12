@@ -1,7 +1,7 @@
-﻿---
+---
 title:  مخطط مستند ODS للصور عبر .NET 
 weight: 4360
-url: /ar/net/chart/ods/ 
+
 description: C# شفرة المصدر لرسم وتحويل مخطط أو رسم تخطيطي في ملف ODS على الأنظمة الأساسية .NET Framework أو .NET Core أو Mono أو Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

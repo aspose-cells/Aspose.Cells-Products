@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla XLS'yi SQL'e dönüştürün
-url: /tr/net/conversion/xls-to-sql/
+
 description: xls'den sql'ye C# dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu xls dosyalarından sql'ye dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

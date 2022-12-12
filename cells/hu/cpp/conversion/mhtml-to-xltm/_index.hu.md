@@ -1,7 +1,7 @@
-﻿---
+---
 title: MHTML konvertálása XLTM-re a(z) C++ alkalmazáson keresztül 
 weight: 4310
-url: /hu/cpp/conversion/mhtml-to-xltm/ 
+
 description: Minta C++ konverziós kód MHTML dokumentumhoz XLTM formátumba. A programozók ezt a forráskódot használhatják az MHTML-ből XLTM-be kötegelt konvertáláshoz bármely C++ alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

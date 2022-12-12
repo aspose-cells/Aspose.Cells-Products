@@ -1,6 +1,6 @@
-﻿---
+---
 title: FODS को Python के माध्यम से SVG में बदलें
-url: /hi/python-java/conversion/fods-to-svg/
+
 description: svg Python रूपांतरण के लिए फ़ूड के लिए नमूना कोड। Python एप्लिकेशन के भीतर svg रूपांतरण के लिए बैच फ़ॉड्स फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

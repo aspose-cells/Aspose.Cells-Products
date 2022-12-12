@@ -1,6 +1,6 @@
-﻿---
+---
 title: EXCEL'i Python aracılığıyla CSV'ye dönüştürün
-url: /tr/python-java/conversion/excel-to-csv/
+
 description: Excel'den csv'ye Python dönüştürme için örnek kod. Python uygulamasında toplu excel dosyalarından csv'ye dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NETを介してODSドキュメントからテキストと画像を抽出します 
 weight: 6970
-url: /ja/net/parser/ods/ 
+
 description: .NETフレームワーク、.NETコア、Mono、またはXamarinプラットフォーム上のODSファイルからテキストと画像を抽出するためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

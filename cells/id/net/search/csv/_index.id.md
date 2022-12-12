@@ -1,7 +1,7 @@
-﻿---
+---
 title: Telusuri dokumen CSV tanpa membuka melalui .NET 
 weight: 7510
-url: /id/net/search/csv/ 
+
 description: C# kode sumber untuk mencari kata-kata dengan pola dalam file CSV pada .NET Framework, .NET Core, Mono atau Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

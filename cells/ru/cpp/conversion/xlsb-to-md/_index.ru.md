@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLSB в MD с помощью приложения C++ 
-url: /ru/cpp/conversion/xlsb-to-md/ 
+
 description: Пример кода преобразования C++ для документа XLSB в формат MD. Программисты могут использовать этот исходный код для пакетного преобразования XLSB в MD в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

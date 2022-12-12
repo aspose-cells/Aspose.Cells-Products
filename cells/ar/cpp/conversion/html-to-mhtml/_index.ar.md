@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل HTML إلى MHTML عبر تطبيق C++ 
 weight: 4130
-url: /ar/cpp/conversion/html-to-mhtml/ 
+
 description: نموذج لشفرة تحويل C++ لمستند HTML إلى تنسيق MHTML. يمكن للمبرمجين استخدام رمز المصدر هذا لتحويل دفعة HTML إلى MHTML داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

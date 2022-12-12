@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla CSV'yi XLT'ye dönüştürün
-url: /tr/python-java/conversion/csv-to-xlt/
+
 description: csv'den xlt'ye Python dönüştürme için örnek kod. Python uygulamasında toplu csv dosyalarından xlt'ye dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

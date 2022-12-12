@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja a JSON-t XPS-re a(z) C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/json-to-xps/ 
+
 description: Minta C++ konverziós kód a JSON-dokumentumhoz XPS formátumba. A programozók ezt a forráskódot használhatják a JSON-ból XPS-be történő kötegelt konverzióhoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

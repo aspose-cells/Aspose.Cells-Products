@@ -1,6 +1,6 @@
-﻿---
+---
 title: Fusionner les fichiers HTML via C++ 
-url: /fr/cpp/merger/html/ 
+
 description: C++ Exemple de code pour combiner des documents HTML sur C++ Runtime Environment pour Windows 32 bits, Windows 64 bits et Linux 64 bits.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

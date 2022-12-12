@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TSV na JSON prostřednictvím C#
-url: /cs/net/conversion/tsv-to-json/
+
 description: Ukázkový kód pro převod tsv na json C#. Použijte API ukázkový kód pro dávkový převod souborů tsv na json v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: NUMBERS को Python के द्वारा XLSX में बदलें
-url: /hi/python-java/conversion/numbers-to-xlsx/
+
 description: xlsx Python रूपांतरण में संख्याओं के लिए नमूना कोड। Python एप्लिकेशन के भीतर xlsx रूपांतरण में बैच संख्या फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

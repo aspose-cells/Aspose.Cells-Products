@@ -1,7 +1,7 @@
-﻿---
+---
 title: Sök i XLSB-dokument utan att öppna via .NET 
 weight: 8880
-url: /sv/net/search/xlsb/ 
+
 description: C# källkod för att söka efter ord med mönster i XLSB-fil på .NET Framework, .NET Core, Mono eller Xamarin-plattformar.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

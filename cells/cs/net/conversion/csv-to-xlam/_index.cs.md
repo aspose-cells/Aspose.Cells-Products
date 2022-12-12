@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést CSV na XLAM přes C#
-url: /cs/net/conversion/csv-to-xlam/
+
 description: Ukázkový kód pro převod csv na xlam C#. Použijte API ukázkový kód pro dávkové soubory csv na převod xlam v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

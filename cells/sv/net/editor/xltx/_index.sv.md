@@ -1,6 +1,6 @@
-﻿---
+---
 title: Redigera XLTX-filer via .NET 
-url: /sv/net/editor/xltx/ 
+
 description: C# källkod för att redigera XLTX-dokument på .NET Framework, .NET Core, Windows Azure, Mono eller Xamarin-plattformar.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to PNG via Java 
-url: /java/conversion/excel-to-png/
+
 description: Convert EXCEL to PNG format in Java code. Save EXCEL as PNG using Java.
 ---
 

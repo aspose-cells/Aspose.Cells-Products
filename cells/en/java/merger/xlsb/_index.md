@@ -1,7 +1,7 @@
 ---
 title: Merge XLSB Files via Java 
 weight: 4840
-url: /java/merger/xlsb/ 
+
 description: Java sample code to combine XLSB documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

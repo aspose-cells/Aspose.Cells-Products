@@ -1,7 +1,7 @@
-﻿---
+---
 title: Convertir XLSX a XLT a través de Java 
 weight: 8530
-url: /es/java/conversion/xlsx-to-xlt/ 
+
 description: Ejemplo de código de conversión Java de formato XLSX a archivo XLT. Los programadores pueden usar este código de ejemplo para exportar hojas de cálculo de Excel y OpenOffice a XLT dentro de cualquier aplicación basada en Web o escritorio Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Szöveg és képek kinyerése az ODS-dokumentumból a következőn keresztül: Java "
 weight: 4740
-url: /hu/java/parser/ods/ 
+
 description: Java mintakód szövegek és képek kinyeréséhez az ODS-fájlból a Java Runtime Environment for JSP/JSF alkalmazásokhoz és asztali alkalmazásokhoz.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

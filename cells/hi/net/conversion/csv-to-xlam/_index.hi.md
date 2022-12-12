@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# के माध्यम से CSV को XLAM में बदलें
-url: /hi/net/conversion/csv-to-xlam/
+
 description: csv से xlam C# रूपांतरण के लिए नमूना कोड। VB.NET, Asp.NET या किसी भी .NET आधारित एप्लिकेशन के भीतर बैच csv फ़ाइलों से xlam रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

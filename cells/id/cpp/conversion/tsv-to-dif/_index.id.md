@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversi TSV ke DIF melalui C++ aplikasi 
 weight: 2350
-url: /id/cpp/conversion/tsv-to-dif/ 
+
 description: Contoh C++ kode konversi untuk dokumen TSV ke format DIF. Pemrogram dapat menggunakan kode sumber ini untuk konversi TSV ke DIF batch dalam Aplikasi C++ apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

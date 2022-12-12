@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte TSV na XLT pomocí aplikace C++ 
-url: /cs/cpp/conversion/tsv-to-xlt/ 
+
 description: Ukázka převodního kódu C++ pro dokument TSV na formát XLT. Programátoři mohou použít tento zdrojový kód pro dávkový převod TSV na XLT v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLSX в PPTX через C#
-url: /ru/net/conversion/xlsx-to-pptx/
+
 description: Пример кода для преобразования xlsx в pptx C#. Используйте пример кода API для пакетного преобразования файлов xlsx в pptx в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

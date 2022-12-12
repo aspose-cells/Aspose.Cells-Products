@@ -1,6 +1,6 @@
 ---
 title: Merge CSV to XLS Files via Python 
-url: /python-java/merger/merge-csv-to-xls/ 
+
 description: Merge CSV to XLS file in Python code. Combine CSV to XLS file using Python.
 ---
 

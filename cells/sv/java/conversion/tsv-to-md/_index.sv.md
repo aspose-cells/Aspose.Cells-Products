@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera TSV till MD via Java 
-url: /sv/java/conversion/tsv-to-md/ 
+
 description: Exempel Java-konverteringskod för TSV-format till MD-fil. Programmerare kan använda den här exempelkoden för att exportera Excel- och OpenOffice-kalkylblad till MD inom alla webb- eller skrivbordsbaserade Java-applikationer.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

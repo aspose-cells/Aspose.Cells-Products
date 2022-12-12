@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή FODS σε EMF μέσω Python
-url: /el/python-java/conversion/fods-to-emf/
+
 description: Δείγμα κώδικα για μετατροπή fods σε emf Python. Χρησιμοποιήστε API παράδειγμα κώδικα για αρχεία ομαδικών τροφών για μετατροπή emf εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

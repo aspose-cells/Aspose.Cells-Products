@@ -1,7 +1,7 @@
-﻿---
+---
 title: MHTML konvertálása SVG formátumba a(z) C++ alkalmazással 
 weight: 7050
-url: /hu/cpp/conversion/mhtml-to-svg/ 
+
 description: Minta C++ konverziós kód MHTML dokumentumhoz SVG formátumba. A programozók ezt a forráskódot használhatják MHTML-ből SVG-vé kötegelt konvertálásához bármely C++ alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

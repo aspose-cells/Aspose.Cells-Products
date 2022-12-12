@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLTX na XLSB přes C#
-url: /cs/net/conversion/xltx-to-xlsb/
+
 description: Ukázkový kód pro převod xltx na xlsb C#. Použijte API ukázkový kód pro dávkový převod souborů xltx na xlsb v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

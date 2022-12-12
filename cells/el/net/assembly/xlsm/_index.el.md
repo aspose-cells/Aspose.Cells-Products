@@ -1,7 +1,7 @@
-﻿---
+---
 title: Δημιουργία αναφορών σε αρχεία XLSM μέσω .NET 
 weight: 4400
-url: /el/net/assembly/xlsm/ 
+
 description: C# πηγαίος κώδικας για τη δημιουργία αναφορών μορφής XLSM σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

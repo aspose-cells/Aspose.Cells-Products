@@ -1,7 +1,7 @@
 ---
 title: View XLSX File Formats via .NET 
 weight: 2180
-url: /net/viewer/xlsx/ 
+
 description: C# source code to load, render and display XLSX documents on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla HTML Dosyaları Oluşturun 
-url: /tr/net/create-html/ 
+
 description: C# HTML belgeleri oluşturmak için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde HTML dosyaları oluşturmak için bu kodu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

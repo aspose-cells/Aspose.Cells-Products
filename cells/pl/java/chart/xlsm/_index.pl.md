@@ -1,7 +1,7 @@
-﻿---
+---
 title: Wykres dokumentów XLSM za pośrednictwem Java 
 weight: 3020
-url: /pl/java/chart/xlsm/ 
+
 description: Java przykładowy kod do rysowania i konwertowania wykresu lub diagramu w pliku XLSM w Java środowisku wykonawczym dla aplikacji JSP/JSF i aplikacji komputerowych.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

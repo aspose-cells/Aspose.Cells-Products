@@ -1,7 +1,7 @@
-﻿---
+---
 title: Sök i XLSM-dokument utan att öppna via Java 
 weight: 6780
-url: /sv/java/search/xlsm/ 
+
 description: Java exempelkod för att söka efter ord med mönster i XLSM-fil i Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

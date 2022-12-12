@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera XLSM till CSV via Python
-url: /sv/python-java/conversion/xlsm-to-csv/
+
 description: Exempelkod för konvertering av xlsm till csv Python. Använd API exempelkod för batch-xlsm-filer till csv-konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

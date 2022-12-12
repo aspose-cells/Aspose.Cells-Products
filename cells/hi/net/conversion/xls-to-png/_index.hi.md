@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# के माध्यम से XLS को PNG में बदलें
-url: /hi/net/conversion/xls-to-png/
+
 description: xls से png C# रूपांतरण के लिए नमूना कोड। VB.NET, Asp.NET या किसी .NET आधारित एप्लिकेशन के भीतर बैच xls फ़ाइलों को png रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

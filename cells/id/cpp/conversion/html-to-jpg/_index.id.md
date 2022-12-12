@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi HTML ke JPG melalui C++ aplikasi 
-url: /id/cpp/conversion/html-to-jpg/ 
+
 description: Contoh C++ kode konversi untuk dokumen HTML ke format JPG. Pemrogram dapat menggunakan kode sumber ini untuk konversi batch HTML ke JPG dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

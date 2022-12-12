@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer HTML naar TXT via C++ applicatie 
-url: /nl/cpp/conversion/html-to-txt/ 
+
 description: Voorbeeld C++ conversiecode voor HTML-document naar TXT-indeling. Programmeurs kunnen deze broncode gebruiken voor batch-HTML-naar-TXT-conversie binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

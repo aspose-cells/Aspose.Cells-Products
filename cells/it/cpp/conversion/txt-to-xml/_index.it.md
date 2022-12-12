@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converti TXT in XML tramite l'applicazione C++ 
-url: /it/cpp/conversion/txt-to-xml/ 
+
 description: Esempio di codice di conversione C++ per un documento TXT in formato XML. I programmatori possono utilizzare questo codice sorgente per la conversione batch da TXT a XML all'interno di qualsiasi C++ Applicazione.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

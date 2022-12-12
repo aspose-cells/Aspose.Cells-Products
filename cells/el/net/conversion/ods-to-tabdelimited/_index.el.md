@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή ODS σε TABDELIMITED μέσω C#
-url: /el/net/conversion/ods-to-tabdelimited/
+
 description: Δείγμα κώδικα για μετατροπή ods σε οριοθετημένη καρτέλα C#. Χρησιμοποιήστε API παράδειγμα κώδικα για αρχεία ομαδικών αποδόσεων σε μετατροπή οριοθετημένης καρτέλας εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

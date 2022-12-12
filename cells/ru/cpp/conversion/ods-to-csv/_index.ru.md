@@ -1,7 +1,7 @@
-﻿---
+---
 title: Преобразование ODS в CSV с помощью приложения C++ 
 weight: 6200
-url: /ru/cpp/conversion/ods-to-csv/ 
+
 description: Пример кода преобразования C++ для документа ODS в формат CSV. Программисты могут использовать этот исходный код для пакетного преобразования ODS в CSV в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

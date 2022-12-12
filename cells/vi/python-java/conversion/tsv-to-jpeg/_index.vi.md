@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi TSV sang JPEG qua Python
-url: /vi/python-java/conversion/tsv-to-jpeg/
+
 description: Mã mẫu cho chuyển đổi tsv sang jpeg Python. Sử dụng API mã mẫu cho các tệp tsv hàng loạt để chuyển đổi jpeg trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

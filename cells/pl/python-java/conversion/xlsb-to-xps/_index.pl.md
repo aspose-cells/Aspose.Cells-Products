@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj XLSB na XPS przez Python
-url: /pl/python-java/conversion/xlsb-to-xps/
+
 description: Przykładowy kod konwersji xlsb do xps Python. Użyj przykładowego kodu API dla plików wsadowych xlsb do konwersji xps w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

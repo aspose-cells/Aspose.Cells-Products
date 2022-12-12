@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést CSV na SPREADSHEETML prostřednictvím C#
-url: /cs/net/conversion/csv-to-spreadsheetml/
+
 description: Ukázkový kód pro převod csv na tabulkuml C#. Použijte API ukázkový kód pro dávkové soubory csv na převod tabulkového procesoru v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

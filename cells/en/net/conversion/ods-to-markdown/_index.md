@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to MARKDOWN via C#
-url: /net/conversion/ods-to-markdown/
+
 description: Convert ODS to MARKDOWN format in C# code. Save ODS as MARKDOWN using VB.NET, Asp.NET or any .NET based application.
 ---
 

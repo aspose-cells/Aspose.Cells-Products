@@ -1,7 +1,7 @@
 ---
 title: View XLTX File Formats via .NET 
 weight: 7870
-url: /net/viewer/xltx/ 
+
 description: C# source code to load, render and display XLTX documents on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

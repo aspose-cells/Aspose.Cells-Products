@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést SXC na JPEG přes C#
-url: /cs/net/conversion/sxc-to-jpeg/
+
 description: Ukázkový kód pro převod sxc na jpeg C#. Použijte API ukázkový kód pro dávkový převod souborů sxc na jpeg v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

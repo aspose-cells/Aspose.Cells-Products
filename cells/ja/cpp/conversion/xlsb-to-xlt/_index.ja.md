@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++アプリケーションを介してXLSBをXLTに変換する 
-url: /ja/cpp/conversion/xlsb-to-xlt/ 
+
 description: XLSBドキュメントからXLT形式へのサンプルC++変換コード。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でXLSBからXLTへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

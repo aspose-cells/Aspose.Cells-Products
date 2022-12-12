@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie TABDELIMITED in SPREADSHEETML über Python
-url: /de/python-java/conversion/tabdelimited-to-spreadsheetml/
+
 description: Beispielcode für die Umwandlung von tabulatorgetrennt in Spreadsheetml Python. Verwenden Sie den API-Beispielcode für die Batch-Konvertierung tabulatorgetrennter Dateien in die Tabellenkalkulations-ML-Datei innerhalb der Anwendung Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

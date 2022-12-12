@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie FODS in PDF über C#
-url: /de/net/conversion/fods-to-pdf/
+
 description: Beispielcode für die Umwandlung von fods in pdf C#. Verwenden Sie API Beispielcode für die Batch-Konvertierung von FOD-Dateien in PDF innerhalb von VB.NET, Asp.NET oder einer beliebigen .NET-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

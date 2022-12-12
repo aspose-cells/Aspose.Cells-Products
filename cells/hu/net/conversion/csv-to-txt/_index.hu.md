@@ -1,6 +1,6 @@
-﻿---
+---
 title: "CSV konvertálása TXT-re a következőn keresztül: C#"
-url: /hu/net/conversion/csv-to-txt/
+
 description: Mintakód a csv-ből txt-be C# konverzióhoz. Használjon API példakódot a kötegelt csv fájlok txt konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

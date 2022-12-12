@@ -1,6 +1,6 @@
 ---
 title: Convert XLTM to TXT via Python
-url: /python-net/conversion/xltm-to-txt/
+
 description: Sample code for xltm to txt Python conversion. Use API example code for batch xltm files to txt conversion within Python application.
 ---
 

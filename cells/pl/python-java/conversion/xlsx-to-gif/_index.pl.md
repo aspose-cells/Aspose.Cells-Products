@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj XLSX na GIF przez Python
-url: /pl/python-java/conversion/xlsx-to-gif/
+
 description: Przykładowy kod konwersji xlsx na gif Python. Użyj przykładowego kodu API dla wsadowych plików xlsx do konwersji gif w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

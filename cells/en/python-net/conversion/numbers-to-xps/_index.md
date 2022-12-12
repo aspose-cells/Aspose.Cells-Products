@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to XPS via Python
-url: /python-net/conversion/numbers-to-xps/
+
 description: Sample code for numbers to xps Python conversion. Use API example code for batch numbers files to xps conversion within Python application.
 ---
 

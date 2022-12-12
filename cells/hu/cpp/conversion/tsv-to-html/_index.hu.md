@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertálja a TSV-t HTML-vé a(z) C++ alkalmazással 
 weight: 4980
-url: /hu/cpp/conversion/tsv-to-html/ 
+
 description: Minta C++ konverziós kód a TSV-dokumentumhoz HTML formátumba. A programozók ezt a forráskódot használhatják kötegelt TSV-HTML-konverzióhoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

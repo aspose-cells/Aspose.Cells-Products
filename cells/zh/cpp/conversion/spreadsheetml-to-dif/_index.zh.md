@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 C++ 应用程序将 SPREADSHEETML 转换为 DIF 
-url: /zh/cpp/conversion/spreadsheetml-to-dif/ 
+
 description: SPREADSHEETML 文档到 DIF 格式的示例 C++ 转换代码。程序员可以使用此源代码在任何 C++ 应用程序中将 SPREADSHEETML 批量转换为 DIF。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

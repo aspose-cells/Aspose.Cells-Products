@@ -1,6 +1,6 @@
 ---
 title: Convert JPEG to DOCX via Python
-url: /python-java/conversion/jpeg-to-docx/
+
 description: Convert JPEG to DOCX format in Python code. Save JPEG as DOCX using Python.
 ---
 

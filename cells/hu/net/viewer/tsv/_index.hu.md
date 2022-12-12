@@ -1,7 +1,7 @@
-﻿---
+---
 title: "TSV-fájlformátumok megtekintése a következőn keresztül: .NET "
 weight: 3090
-url: /hu/net/viewer/tsv/ 
+
 description: C# forráskód a TSV-dokumentumok betöltéséhez, megjelenítéséhez és megjelenítéséhez .NET Framework, .NET Core, Mono vagy Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してNUMBERSをXLSBに変換します
-url: /ja/net/conversion/numbers-to-xlsb/
+
 description: 数値からxlsbC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチ番号ファイルからxlsbへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

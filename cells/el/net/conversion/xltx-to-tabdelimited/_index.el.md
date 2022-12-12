@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή XLTX σε TABDELIMITED μέσω C#
-url: /el/net/conversion/xltx-to-tabdelimited/
+
 description: Δείγμα κώδικα για μετατροπή xltx σε οριοθετημένη καρτέλα C#. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία xltx σε μετατροπή οριοθετημένης καρτέλας εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

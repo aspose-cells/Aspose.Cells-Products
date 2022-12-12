@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل TSV إلى XLTX عبر تطبيق C++ 
 weight: 3100
-url: /ar/cpp/conversion/tsv-to-xltx/ 
+
 description: نموذج رمز تحويل C++ لمستند TSV إلى تنسيق XLTX. يمكن للمبرمجين استخدام رمز المصدر هذا لتحويل TSV إلى XLTX دفعة ضمن أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

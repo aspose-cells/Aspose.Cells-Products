@@ -1,7 +1,7 @@
-﻿---
+---
 title: Watermerk XLSB-document via Java 
 weight: 5900
-url: /nl/java/watermark/xlsb/ 
+
 description: Java voorbeeldcode om watermerk toe te voegen aan of te verwijderen uit XLSB-bestand in Java Runtime Environment voor JSP/JSF-applicaties en desktopapplicaties.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

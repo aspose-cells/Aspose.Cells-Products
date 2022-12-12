@@ -1,6 +1,6 @@
-﻿---
+---
 title: "ODS konvertálása BMP-vé a következőn keresztül: Python"
-url: /hu/python-java/conversion/ods-to-bmp/
+
 description: Mintakód az ods–bmp Python konverzióhoz. Használjon API példakódot kötegelt ods-fájlokhoz bmp-konverzióhoz a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

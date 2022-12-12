@@ -1,6 +1,6 @@
-﻿---
+---
 title: ODS'yi C# aracılığıyla TABDELIMITED'e dönüştürün
-url: /tr/net/conversion/ods-to-tabdelimited/
+
 description: Sekmeyle ayrılmış C# dönüşümüne ilişkin oranlar için örnek kod. Toplu ods dosyaları için VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde sekmeyle ayrılmış dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

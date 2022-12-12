@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir NUMBERS en XLSB via C#
-url: /fr/net/conversion/numbers-to-xlsb/
+
 description: Exemple de code pour la conversion des nombres en xlsb C#. Utilisez l'exemple de code API pour les fichiers de numéros de lot en conversion xlsb dans VB.NET, Asp.NET ou toute application basée sur .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

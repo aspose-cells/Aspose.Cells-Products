@@ -1,7 +1,7 @@
-﻿---
+---
 title: Поиск документа XLSM без открытия через Java 
 weight: 6780
-url: /ru/java/search/xlsm/ 
+
 description: Пример кода Java для поиска слов с шаблоном в файле XLSM в Java среде выполнения для приложений JSP/JSF и настольных приложений.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

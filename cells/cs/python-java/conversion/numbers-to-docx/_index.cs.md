@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést NUMBERS na DOCX přes Python
-url: /cs/python-java/conversion/numbers-to-docx/
+
 description: Ukázkový kód pro převod čísel na docx Python. Použijte API ukázkový kód pro dávkové převody číselných souborů na docx v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

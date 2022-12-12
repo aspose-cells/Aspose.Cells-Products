@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to MD via Java 
-url: /java/conversion/xlt-to-md/
+
 description: Convert XLT to MD format in Java code. Save XLT as MD using Java.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: A TXT konvertálása TSV-vé a C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/txt-to-tsv/ 
+
 description: Minta C++ konverziós kód a TXT dokumentumhoz TSV formátumba. A programozók ezt a forráskódot használhatják kötegelt TXT-TSV-konverzióhoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

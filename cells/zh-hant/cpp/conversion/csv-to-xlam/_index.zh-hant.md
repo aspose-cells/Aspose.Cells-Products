@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 C++ 應用程序將 CSV 轉換為 XLAM 
-url: /zh-hant/cpp/conversion/csv-to-xlam/ 
+
 description: CSV 文檔到 XLAM 格式的示例 C++ 轉換代碼。程序員可以使用此源代碼在任何 C++ 應用程序中進行批量 CSV 到 XLAM 的轉換。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

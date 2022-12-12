@@ -1,7 +1,7 @@
-﻿---
+---
 title: Esporta report RDL in Excel XLS XLSX e SpreadsheetML in SQL Server 
 weight: 3460
-url: /it/reporting-services/ 
+
 description: Estensione per il rendering di SQL Server Reporting Services - Esporta Excel XLS XLSX XLSM XLSB CSV SpreadsheetML HTML formati ODS e TXT
 ---
 {{< blocks/products/pf/main-wrap-class >}}

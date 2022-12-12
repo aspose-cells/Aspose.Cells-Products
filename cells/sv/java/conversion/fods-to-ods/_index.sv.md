@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera FODS till ODS via Java 
-url: /sv/java/conversion/fods-to-ods/ 
+
 description: Exempel Java-konverteringskod för FODS-format till ODS-fil. Programmerare kan använda den här exempelkoden för att exportera Excel- och OpenOffice-kalkylblad till ODS inom alla webb- eller skrivbordsbaserade Java-applikationer.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

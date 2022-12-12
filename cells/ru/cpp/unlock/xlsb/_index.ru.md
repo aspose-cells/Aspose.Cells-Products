@@ -1,7 +1,7 @@
-﻿---
+---
 title: Разблокировать документ XLSB через C++ 
 weight: 7420
-url: /ru/cpp/unlock/xlsb/ 
+
 description: Пример кода C++ для разблокировки защищенного паролем файла XLSB в C++ среде выполнения для 32-разрядной, 64-разрядной Windows и 64-разрядной версии Linux.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

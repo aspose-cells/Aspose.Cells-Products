@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してXLTXをXMLに変換します
-url: /ja/python-java/conversion/xltx-to-xml/
+
 description: xltxからxmlPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチxltxファイルからxmlへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta EXCEL a HTML a través de C#
-url: /es/net/conversion/excel-to-html/
+
 description: Ejemplo de código para la conversión de excel a html C#. Utilice el código de ejemplo API para la conversión de archivos Excel por lotes a html dentro de VB.NET, Asp.NET o cualquier aplicación basada en .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

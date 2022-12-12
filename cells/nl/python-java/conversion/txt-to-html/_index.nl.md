@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer TXT naar HTML via Python
-url: /nl/python-java/conversion/txt-to-html/
+
 description: Voorbeeldcode voor conversie van txt naar html Python. Gebruik API voorbeeldcode voor batch txt-bestanden naar html-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

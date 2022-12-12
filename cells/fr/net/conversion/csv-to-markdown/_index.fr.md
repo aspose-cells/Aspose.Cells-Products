@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir CSV en MARKDOWN via C#
-url: /fr/net/conversion/csv-to-markdown/
+
 description: Exemple de code pour la conversion csv vers markdown C#. Utilisez l'exemple de code API pour les fichiers csv par lots pour la conversion de démarquage dans VB.NET, Asp.NET ou toute application basée sur .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

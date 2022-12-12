@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi FODS sang TIFF qua Python
-url: /vi/python-java/conversion/fods-to-tiff/
+
 description: Mã mẫu cho chuyển đổi fods to tiff Python. Sử dụng mã mẫu API cho các tệp fods hàng loạt để chuyển đổi trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

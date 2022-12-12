@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to TXT via C#
-url: /net/conversion/excel-to-txt/
+
 description: Convert EXCEL to TXT format in C# code. Save EXCEL as TXT using VB.NET, Asp.NET or any .NET based application.
 ---
 

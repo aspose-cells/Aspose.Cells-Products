@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversi XLSX ke BMP melalui Java 
 weight: 70
-url: /id/java/conversion/xlsx-to-bmp/ 
+
 description: Contoh Java kode konversi untuk format XLSX ke file BMP. Pemrogram dapat menggunakan kode contoh ini untuk mengekspor spreadsheet Excel & OpenOffice ke BMP dalam Aplikasi berbasis Web atau Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

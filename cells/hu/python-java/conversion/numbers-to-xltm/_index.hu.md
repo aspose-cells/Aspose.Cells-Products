@@ -1,6 +1,6 @@
-﻿---
+---
 title: "NUMBERS konvertálása XLTM-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/numbers-to-xltm/
+
 description: Mintakód számok xltm Python konverziójához. Használjon API példakódot a kötegszámfájlok xltm konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

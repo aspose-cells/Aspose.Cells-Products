@@ -1,6 +1,6 @@
-﻿---
+---
 title: Wandeln Sie SPREADSHEETML über Python in XLAM um
-url: /de/python-java/conversion/spreadsheetml-to-xlam/
+
 description: Beispielcode für die Umwandlung von Spreadsheetml in xlam Python. Verwenden Sie API-Beispielcode für die Batch-Konvertierung von Spreadsheetml-Dateien in xlam innerhalb der Anwendung Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

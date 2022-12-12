@@ -1,6 +1,6 @@
-﻿---
+---
 title: Просмотр форматов файлов MHTML через .NET 
-url: /ru/net/viewer/mhtml/ 
+
 description: Исходный код C# для загрузки, обработки и отображения документов MHTML на платформах .NET Framework, .NET Core, Windows Azure, Mono или Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

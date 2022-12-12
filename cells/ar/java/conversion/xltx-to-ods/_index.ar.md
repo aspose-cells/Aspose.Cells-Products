@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل XLTX إلى ODS عبر Java 
 weight: 1070
-url: /ar/java/conversion/xltx-to-ods/ 
+
 description: نموذج Java رمز تحويل لتنسيق XLTX إلى ملف ODS. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى ODS من خلال أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

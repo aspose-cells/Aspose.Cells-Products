@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir TABDELIMITED en XLTM via Python
-url: /fr/python-java/conversion/tabdelimited-to-xltm/
+
 description: Exemple de code pour la conversion tabdelimited vers xltm Python. Utilisez l'exemple de code API pour la conversion par lots de fichiers délimités par des tabulations vers xltm dans l'application Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

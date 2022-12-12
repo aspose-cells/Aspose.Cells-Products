@@ -1,7 +1,7 @@
-﻿---
+---
 title: Преобразование TXT в XPS через Java 
 weight: 5270
-url: /ru/java/conversion/txt-to-xps/ 
+
 description: Пример кода преобразования Java для формата TXT в файл XPS. Программисты могут использовать этот пример кода для экспорта электронных таблиц Excel и OpenOffice в формат XPS в любом веб- или настольном Java приложении.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

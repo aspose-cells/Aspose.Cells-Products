@@ -1,6 +1,6 @@
-﻿---
+---
 title: JSON को C# के माध्यम से BMP में बदलें
-url: /hi/net/conversion/json-to-bmp/
+
 description: जेसन से बीएमपी C# रूपांतरण के लिए नमूना कोड। VB.NET, Asp.NET या किसी .NET आधारित एप्लिकेशन के भीतर बैच json फ़ाइलों को bmp रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

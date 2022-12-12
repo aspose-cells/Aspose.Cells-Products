@@ -1,7 +1,7 @@
-﻿---
+---
 title: Vyhledat a nahradit text v dokumentu ODS prostřednictvím C++ 
 weight: 1610
-url: /cs/cpp/redaction/ods/ 
+
 description: C++ ukázkový kód pro redigování citlivých informací v souboru ODS v C++ Runtime Environment pro Windows 32bit, Windows 64bit a Linux 64bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

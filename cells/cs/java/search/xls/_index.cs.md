@@ -1,7 +1,7 @@
-﻿---
+---
 title: Prohledejte dokument XLS bez otevírání prostřednictvím Java 
 weight: 9430
-url: /cs/java/search/xls/ 
+
 description: Java ukázkový kód pro vyhledávání slov se vzorem v souboru XLS v Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

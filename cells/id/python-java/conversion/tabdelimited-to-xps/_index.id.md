@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi TABDELIMITED ke XPS melalui Python
-url: /id/python-java/conversion/tabdelimited-to-xps/
+
 description: Contoh kode untuk konversi tabdelimited ke xps Python. Gunakan API kode contoh untuk berkas tabdelimited batch ke konversi xps dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

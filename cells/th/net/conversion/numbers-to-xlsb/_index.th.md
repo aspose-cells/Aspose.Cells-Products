@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง NUMBERS เป็น XLSB ผ่าน C#
-url: /th/net/conversion/numbers-to-xlsb/
+
 description: โค้ดตัวอย่างสำหรับการแปลงตัวเลขเป็น xlsb C# ใช้โค้ดตัวอย่าง API สำหรับไฟล์หมายเลขแบทช์เป็นการแปลง xlsb ภายใน VB.NET, Asp.NET หรือแอปพลิเคชันที่ใช้ .NET
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

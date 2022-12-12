@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera ODS till JSON via C#
-url: /sv/net/conversion/ods-to-json/
+
 description: Exempelkod för konvertering från ods till json C#. Använd API exempelkod för batch-ods-filer till json-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert JPEG to DOCX via C#
-url: /net/conversion/jpeg-to-docx/
+
 description: Convert JPEG to DOCX format in C# code. Save JPEG as DOCX using VB.NET, Asp.NET or any .NET based application.
 ---
 

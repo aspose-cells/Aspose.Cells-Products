@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TSV إلى TABDELIMITED عبر Python
-url: /ar/python-java/conversion/tsv-to-tabdelimited/
+
 description: نموذج رمز للتحويل من tsv إلى الجدولة Python المحدود. استخدم API رمز المثال لملفات tsv الدفعية للتحويل المحدود بعلامات جدولة داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

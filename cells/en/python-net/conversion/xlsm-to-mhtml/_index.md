@@ -1,6 +1,6 @@
 ---
 title: Convert XLSM to MHTML via Python
-url: /python-net/conversion/xlsm-to-mhtml/
+
 description: Sample code for xlsm to mhtml Python conversion. Use API example code for batch xlsm files to mhtml conversion within Python application.
 ---
 

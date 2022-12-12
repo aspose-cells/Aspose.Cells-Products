@@ -1,7 +1,7 @@
-﻿---
+---
 title: Συγχώνευση αρχείων XLT μέσω Java 
 weight: 9960
-url: /el/java/merger/xlt/ 
+
 description: Java δείγμα κώδικα για συνδυασμό εγγράφων XLT στο Java Runtime Environment για εφαρμογές JSP/JSF και εφαρμογές επιφάνειας εργασίας.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

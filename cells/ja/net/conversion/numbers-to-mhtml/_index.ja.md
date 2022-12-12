@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してNUMBERSをMHTMLに変換します
-url: /ja/net/conversion/numbers-to-mhtml/
+
 description: 数値からmhtmlC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチ番号ファイルからmhtmlへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

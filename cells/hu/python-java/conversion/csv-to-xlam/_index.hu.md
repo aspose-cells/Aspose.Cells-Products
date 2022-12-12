@@ -1,6 +1,6 @@
-﻿---
+---
 title: "CSV konvertálása XLAM-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/csv-to-xlam/
+
 description: Mintakód a csv–xlam Python konverzióhoz. Használjon API példakódot a kötegelt csv-fájlok xlam-konverziójához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

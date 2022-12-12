@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง XLTM เป็น MARKDOWN ผ่าน Python
-url: /th/python-java/conversion/xltm-to-markdown/
+
 description: โค้ดตัวอย่างสำหรับการแปลง xltm ถึง markdown Python ใช้โค้ดตัวอย่าง API สำหรับไฟล์แบตช์ xltm เพื่อแปลง markdown ภายในแอปพลิเคชัน Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

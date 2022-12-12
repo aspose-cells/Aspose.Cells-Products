@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter TABDELIMITED para BMP via Java 
-url: /pt/java/conversion/tabdelimited-to-bmp/ 
+
 description: Exemplo de código de conversão Java para o formato TABDELIMITED para arquivo BMP. Os programadores podem usar este código de exemplo para exportar planilhas do Excel e OpenOffice para BMP em qualquer aplicativo baseado na Web ou Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

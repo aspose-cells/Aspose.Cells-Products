@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++ uygulaması aracılığıyla CSV'yi XLT'ye dönüştürün 
-url: /tr/cpp/conversion/csv-to-xlt/ 
+
 description: CSV belgesi için XLT biçimine örnek C++ dönüştürme kodu. Programcılar, herhangi bir C++ Uygulamasında toplu CSV'den XLT'ye dönüştürme için bu kaynak kodunu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

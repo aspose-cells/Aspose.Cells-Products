@@ -1,7 +1,7 @@
-﻿---
+---
 title: Αναζήτηση και αντικατάσταση κειμένου σε έγγραφο XLSB μέσω C++ 
 weight: 6660
-url: /el/cpp/redaction/xlsb/ 
+
 description: C++ παράδειγμα κώδικα για τη διόρθωση ευαίσθητων πληροφοριών σε αρχείο XLSB στο C++ Runtime Environment για Windows 32 bit, Windows 64 bit και Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή XLTX σε MARKDOWN μέσω Python
-url: /el/python-java/conversion/xltx-to-markdown/
+
 description: Δείγμα κώδικα για μετατροπή xltx σε σήμανση Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία xltx για να σημειώσετε τη μετατροπή εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

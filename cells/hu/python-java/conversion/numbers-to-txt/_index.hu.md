@@ -1,6 +1,6 @@
-﻿---
+---
 title: "NUMBERS konvertálása TXT-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/numbers-to-txt/
+
 description: Mintakód számok txt Python konvertálásához. Használjon API példakódot a kötegszámfájlok txtté alakításához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++ uygulaması aracılığıyla XLT'yi HTML'ye dönüştürün 
-url: /tr/cpp/conversion/xlt-to-html/ 
+
 description: XLT belgesi için HTML biçimine örnek C++ dönüştürme kodu. Programcılar, herhangi bir C++ Uygulamasında toplu XLT'den HTML'ye dönüştürme için bu kaynak kodunu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

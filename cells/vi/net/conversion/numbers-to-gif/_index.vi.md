@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển NUMBERS thành GIF qua C#
-url: /vi/net/conversion/numbers-to-gif/
+
 description: Mã mẫu cho chuyển đổi số thành gif C#. Sử dụng API mã ví dụ cho các tệp số lô để chuyển đổi gif trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

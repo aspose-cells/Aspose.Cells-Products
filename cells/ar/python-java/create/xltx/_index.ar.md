@@ -1,6 +1,6 @@
-﻿---
+---
 title: إنشاء ملفات MS Excel XLTX عبر Python 
-url: /ar/python-java/create-xltx/ 
+
 description: Python نموذج كود لإنشاء مستندات XLTX. استخدم هذا الرمز لإنشاء ملفات MS Excel XLTX داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

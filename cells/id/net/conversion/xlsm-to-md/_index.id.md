@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan XLSM ke MD melalui C#
-url: /id/net/conversion/xlsm-to-md/
+
 description: Contoh kode untuk konversi xlsm ke md C#. Gunakan API kode contoh untuk file batch xlsm ke konversi md dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

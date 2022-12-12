@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLT в MD через Python
-url: /ru/python-java/conversion/xlt-to-md/
+
 description: Пример кода для преобразования xlt в md Python. Используйте пример кода API для пакетного преобразования файлов xlt в md в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

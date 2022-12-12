@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++アプリケーションを介してCSVをDIFに変換する 
 weight: 460
-url: /ja/cpp/conversion/csv-to-dif/ 
+
 description: CSVドキュメントからDIF形式へのサンプルC++変換コード。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でCSVからDIFへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

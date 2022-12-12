@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to HTML via C#
-url: /net/conversion/spreadsheetml-to-html/
+
 description: Convert SPREADSHEETML to HTML format in C# code. Save SPREADSHEETML as HTML using VB.NET, Asp.NET or any .NET based application.
 ---
 

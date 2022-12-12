@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan TSV ke SVG melalui C#
-url: /id/net/conversion/tsv-to-svg/
+
 description: Contoh kode untuk konversi tsv ke svg C#. Gunakan API kode contoh untuk file batch tsv ke konversi svg dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

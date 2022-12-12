@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to JPG via Python
-url: /python-net/conversion/xltx-to-jpg/
+
 description: Sample code for xltx to jpg Python conversion. Use API example code for batch xltx files to jpg conversion within Python application.
 ---
 

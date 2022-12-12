@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi CSV sang GIF qua Python
-url: /vi/python-java/conversion/csv-to-gif/
+
 description: Mã mẫu cho chuyển đổi csv sang gif Python. Sử dụng API mã mẫu cho hàng loạt tệp csv thành chuyển đổi gif trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

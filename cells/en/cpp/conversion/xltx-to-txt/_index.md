@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to TXT via C++
-url: /cpp/conversion/xltx-to-txt/
+
 description: Convert XLTX to TXT format in C++ code. Save XLTX as TXT using C++.
 ---
 

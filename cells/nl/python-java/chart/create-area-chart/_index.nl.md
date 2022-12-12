@@ -1,6 +1,6 @@
-﻿---
+---
 title: Maak vlakdiagrammen via Python
-url: /nl/python-java/create-area-chart/
+
 description: Python Voorbeeldcode voor het maken van vlakdiagrammen naar Excel met Python Bibliotheek. Gebruik deze code voor het maken van een vlakdiagram naar MS Excel binnen een op Python gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

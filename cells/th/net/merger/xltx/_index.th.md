@@ -1,7 +1,7 @@
-﻿---
+---
 title: รวมไฟล์ XLTX ผ่าน .NET 
 weight: 1220
-url: /th/net/merger/xltx/ 
+
 description: C# ซอร์สโค้ดเพื่อรวมเอกสาร XLTX บน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

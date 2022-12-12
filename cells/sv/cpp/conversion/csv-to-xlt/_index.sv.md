@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera CSV till XLT via programmet C++ 
-url: /sv/cpp/conversion/csv-to-xlt/ 
+
 description: Exempel på C++-konverteringskod för CSV-dokument till XLT-format. Programmerare kan använda den här källkoden för batchkonvertering av CSV till XLT inom alla C++-program.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

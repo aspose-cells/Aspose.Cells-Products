@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή TABDELIMITED σε XLSB μέσω Python
-url: /el/python-java/conversion/tabdelimited-to-xlsb/
+
 description: Δείγμα κώδικα για μετατροπή οριοθετημένης καρτέλας σε xlsb Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικές μετατροπές οριοθετημένων καρτελών σε xlsb εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

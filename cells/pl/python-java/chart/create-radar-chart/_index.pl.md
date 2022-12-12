@@ -1,6 +1,6 @@
-﻿---
+---
 title: Twórz wykresy radarowe za pomocą Python
-url: /pl/python-java/create-radar-chart/
+
 description: Python Przykładowy kod do tworzenia wykresów radarowych w programie Excel przy użyciu biblioteki Python. Użyj tego kodu, aby utworzyć wykres radarowy do MS Excel w aplikacji opartej na Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

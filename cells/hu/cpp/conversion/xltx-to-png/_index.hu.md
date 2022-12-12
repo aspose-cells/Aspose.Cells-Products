@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLTX-et PNG-re a(z) C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/xltx-to-png/ 
+
 description: Minta C++ konverziós kód XLTX dokumentumhoz PNG formátumba. A programozók ezt a forráskódot használhatják XLTX-ből PNG-be kötegelt konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

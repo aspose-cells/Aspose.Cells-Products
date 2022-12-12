@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή SPREADSHEETML σε BMP μέσω της εφαρμογής C++ 
-url: /el/cpp/conversion/spreadsheetml-to-bmp/ 
+
 description: Δείγμα κώδικα μετατροπής C++ για έγγραφο SPREADSHEETML σε μορφή BMP. Οι προγραμματιστές μπορούν να χρησιμοποιήσουν αυτόν τον πηγαίο κώδικα για μαζική μετατροπή SPREADSHEETML σε BMP σε οποιαδήποτε εφαρμογή C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

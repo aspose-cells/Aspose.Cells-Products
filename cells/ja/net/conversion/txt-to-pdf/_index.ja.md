@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してTXTをPDFに変換する
-url: /ja/net/conversion/txt-to-pdf/
+
 description: txtからpdfC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチtxtファイルからpdfへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

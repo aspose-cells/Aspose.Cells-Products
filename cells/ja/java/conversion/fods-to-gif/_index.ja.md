@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してFODSをGIFに変換します 
-url: /ja/java/conversion/fods-to-gif/ 
+
 description: FODS形式からGIFファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、WebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをGIFにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

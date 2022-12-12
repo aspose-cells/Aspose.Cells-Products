@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie XLTM in GIF über Python
-url: /de/python-java/conversion/xltm-to-gif/
+
 description: Beispielcode für die Umwandlung von xltm in gif Python. Verwenden Sie API Beispielcode für die Batch-Konvertierung von xltm-Dateien in gif innerhalb der Anwendung Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

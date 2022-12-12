@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLSB konvertálása XLTM-re a következőn keresztül: C#"
-url: /hu/net/conversion/xlsb-to-xltm/
+
 description: Mintakód az xlsb–xltm C# konverzióhoz. Használjon API példakódot a kötegelt xlsb fájlok xltm konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

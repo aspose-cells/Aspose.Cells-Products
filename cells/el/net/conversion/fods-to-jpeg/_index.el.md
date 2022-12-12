@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή FODS σε JPEG μέσω C#
-url: /el/net/conversion/fods-to-jpeg/
+
 description: Δείγμα κώδικα για μετατροπή fods σε jpeg C#. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία fods για μετατροπή jpeg εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

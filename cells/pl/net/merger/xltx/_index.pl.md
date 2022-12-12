@@ -1,7 +1,7 @@
-﻿---
+---
 title: Scal pliki XLTX przez .NET 
 weight: 1220
-url: /pl/net/merger/xltx/ 
+
 description: C# kod źródłowy do łączenia dokumentów XLTX na platformach .NET Framework, .NET Core, Mono lub Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

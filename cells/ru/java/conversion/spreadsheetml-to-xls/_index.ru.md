@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование SPREADSHETML в XLS через Java 
-url: /ru/java/conversion/spreadsheetml-to-xls/ 
+
 description: Пример кода преобразования Java для формата SPREADSHEETML в файл XLS. Программисты могут использовать этот пример кода для экспорта электронных таблиц Excel и OpenOffice в формат XLS в любом веб- или настольном Java приложении.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

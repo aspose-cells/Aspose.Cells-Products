@@ -1,6 +1,6 @@
-﻿---
+---
 title: Vytvářejte soubory HTML prostřednictvím Java 
-url: /cs/java/create-html/ 
+
 description: Java Ukázkový kód pro generování dokumentů HTML. Tento kód použijte k vytváření souborů HTML v desktopové nebo webové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

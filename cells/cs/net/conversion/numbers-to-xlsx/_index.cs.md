@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést NUMBERS na XLSX přes C#
-url: /cs/net/conversion/numbers-to-xlsx/
+
 description: Ukázkový kód pro převod čísel na xlsx C#. Použijte API ukázkový kód pro převod souborů s dávkovými čísly na xlsx v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Skydda och lås XLSM-dokument via Java 
 weight: 9620
-url: /sv/java/protect/xlsm/ 
+
 description: Java exempelkod för att låsa XLSM-fil med lösenord på Java Runtime Environment för JSP/JSF Application och Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

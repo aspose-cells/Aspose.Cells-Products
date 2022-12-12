@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir TABDELIMITED en XLTM via C#
-url: /fr/net/conversion/tabdelimited-to-xltm/
+
 description: Exemple de code pour la conversion tabdelimited vers xltm C#. Utilisez l'exemple de code API pour la conversion par lots de fichiers délimités par des tabulations vers xltm dans VB.NET, Asp.NET ou toute application basée sur .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

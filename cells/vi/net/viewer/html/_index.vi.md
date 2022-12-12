@@ -1,6 +1,6 @@
-﻿---
+---
 title: Xem các Định dạng Tệp HTML qua .NET 
-url: /vi/net/viewer/html/ 
+
 description: C# mã nguồn để tải, kết xuất và hiển thị các tài liệu HTML trên Nền tảng .NET Framework, .NET Core, Windows Azure, Mono hoặc Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

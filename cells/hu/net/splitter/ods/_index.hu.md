@@ -1,7 +1,7 @@
-﻿---
+---
 title: "ODS-fájlok felosztása a következőn keresztül: .NET "
 weight: 140
-url: /hu/net/splitter/ods/ 
+
 description: C# forráskód az ODS dokumentumok felosztásához .NET Framework, .NET Core, Mono vagy Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLTM na DIF přes Python
-url: /cs/python-java/conversion/xltm-to-dif/
+
 description: Ukázkový kód pro převod xltm na rozdíl Python. Použijte API ukázkový kód pro dávkové soubory xltm k převodu dif v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

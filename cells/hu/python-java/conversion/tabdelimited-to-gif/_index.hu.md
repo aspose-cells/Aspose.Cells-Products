@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TABDELIMITED konvertálása GIF-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/tabdelimited-to-gif/
+
 description: Mintakód a tabulátorral tagolt gif Python konverzióhoz. Használjon API példakódot tabulátorral tagolt fájlok kötegelt gif-konverziójához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してSPREADSHEETMLをDIFに変換します
-url: /ja/python-java/conversion/spreadsheetml-to-dif/
+
 description: SpreadsheetmlからdifPythonへの変換のサンプルコード。 Pythonアプリケーション内で変換を行うためのバッチspreadsheetmlファイルのAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

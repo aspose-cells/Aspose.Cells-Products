@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してXLTMをGIFに変換します 
 weight: 3840
-url: /ja/java/conversion/xltm-to-gif/ 
+
 description: XLTM形式からGIFファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のGIFにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

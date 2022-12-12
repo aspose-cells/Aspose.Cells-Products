@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Konvertálja a TSV-t bájttömbbé a következőn keresztül: C# "
 weight: 7690
-url: /hu/net/conversion/tsv-to-byte-array/ 
+
 description: C# Mintakód a TSV-ből bájttömbbé konvertáláshoz. Használja ezt a kódot az Excel TSV-ből Byte Array konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

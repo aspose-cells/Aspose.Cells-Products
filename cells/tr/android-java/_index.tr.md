@@ -1,7 +1,7 @@
-﻿---
+---
 title: Android Excel Elektronik Tablosu API - Aspose 
 weight: 6510
-url: /tr/android-java/ 
+
 description: Okuma yazma ve Excel dosyalarını ayrıştırma için Android elektronik tablo kitaplığı. Mobil Uygulama geliştirme için bir e-tablo API
 ---
 {{< blocks/products/pf/main-wrap-class >}}

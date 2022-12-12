@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Hozzon létre MS Excel XLSM fájlokat a következőn keresztül: C++ "
-url: /hu/cpp/create-xlsm/ 
+
 description: C++ Mintakód MS Excel XLSM fájlok generálásához. Ezzel a kóddal MS Excel XLSM fájlokat hozhat létre C++ alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

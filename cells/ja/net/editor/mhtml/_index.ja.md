@@ -1,6 +1,6 @@
-﻿---
+---
 title: .NETを介してMHTMLファイルを編集する 
-url: /ja/net/editor/mhtml/ 
+
 description: .NETフレームワーク、.NETコア、Windows Azure、Mono、またはXamarinプラットフォームでMHTMLドキュメントを編集するためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

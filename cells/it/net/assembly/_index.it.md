@@ -1,6 +1,6 @@
-﻿---
+---
 title: Genera file Excel tramite C#
-url: /it/net/assembly/
+
 description: Genera fogli di lavoro Microsoft Excel da un foglio modello utilizzando il codice C#
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

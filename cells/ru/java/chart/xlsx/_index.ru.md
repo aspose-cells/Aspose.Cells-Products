@@ -1,7 +1,7 @@
-﻿---
+---
 title: Диаграмма документа XLSX через Java 
 weight: 5380
-url: /ru/java/chart/xlsx/ 
+
 description: Пример кода Java для рисования и преобразования диаграммы или диаграммы в файл XLSX в среде выполнения Java для приложений JSP/JSF и настольных приложений.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

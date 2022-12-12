@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++ uygulaması aracılığıyla TABDELIMITED'i TSV'ye dönüştürün 
-url: /tr/cpp/conversion/tabdelimited-to-tsv/ 
+
 description: TABDELIMITED belgesi için TSV biçimine örnek C++ dönüştürme kodu. Programcılar bu kaynak kodunu, herhangi bir C++ Uygulamasında toplu TABDELIMITED'den TSV'ye dönüştürme için kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

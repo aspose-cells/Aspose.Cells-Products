@@ -1,7 +1,7 @@
-﻿---
+---
 title: دمج ملفات CSV عبر Java 
 weight: 3860
-url: /ar/java/merger/csv/ 
+
 description: Java نموذج كود لدمج مستندات CSV في Java Runtime Environment لتطبيق JSP / JSF وتطبيقات سطح المكتب.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: TSV को C++ एप्लिकेशन के द्वारा EMF में बदलें 
 weight: 5870
-url: /hi/cpp/conversion/tsv-to-emf/ 
+
 description: नमूना C++ TSV दस्तावेज़ के लिए EMF प्रारूप में रूपांतरण कोड। प्रोग्रामर इस स्रोत कोड का उपयोग किसी भी C++ एप्लिकेशन में TSV से EMF रूपांतरण के बैच के लिए कर सकते हैं।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

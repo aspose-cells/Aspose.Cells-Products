@@ -1,7 +1,7 @@
-﻿---
+---
 title: ป้องกันและล็อกเอกสาร XLSM ผ่าน C++ 
 weight: 8770
-url: /th/cpp/protect/xlsm/ 
+
 description: C++ ตัวอย่างโค้ดสำหรับล็อกไฟล์ XLSM โดยใช้รหัสผ่านบน C++ Runtime Environment สำหรับ Windows 32 บิต, Windows 64 บิต และ Linux 64 บิต
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

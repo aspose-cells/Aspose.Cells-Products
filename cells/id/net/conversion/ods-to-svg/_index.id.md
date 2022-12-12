@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan ODS ke SVG melalui C#
-url: /id/net/conversion/ods-to-svg/
+
 description: Contoh kode untuk konversi ods ke svg C#. Gunakan API kode contoh untuk file batch ods ke konversi svg dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj TXT na SPREADSHEETML przez Python
-url: /pl/python-java/conversion/txt-to-spreadsheetml/
+
 description: Przykładowy kod konwersji txt do arkusza kalkulacyjnego Python. Użyj API przykładowego kodu dla wsadowych plików txt do konwersji arkusza kalkulacyjnego na arkusze kalkulacyjne w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

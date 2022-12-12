@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to WORD via C#
-url: /net/conversion/spreadsheetml-to-word/
+
 description: Convert SPREADSHEETML to WORD format in C# code. Save SPREADSHEETML as WORD using VB.NET, Asp.NET or any .NET based application.
 ---
 

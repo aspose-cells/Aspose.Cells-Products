@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง TABDELIMITED เป็น XLSM ผ่าน C++ แอปพลิเคชัน 
-url: /th/cpp/conversion/tabdelimited-to-xlsm/ 
+
 description: ตัวอย่างรหัสการแปลง C++ สำหรับเอกสาร TABDELIMITED เป็นรูปแบบ XLSM โปรแกรมเมอร์สามารถใช้ซอร์สโค้ดนี้สำหรับการแปลงชุด TABDELIMITED เป็น XLSM ภายในแอปพลิเคชัน C++ ใดๆ
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

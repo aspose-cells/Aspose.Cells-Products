@@ -1,6 +1,6 @@
-﻿---
+---
 title: Tạo Tệp MS Excel XLSM qua C++ 
-url: /vi/cpp/create-xlsm/ 
+
 description: C++ Mã mẫu để tạo tệp MS Excel XLSM. Sử dụng mã này để tạo tệp MS Excel XLSM trong ứng dụng dựa trên C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

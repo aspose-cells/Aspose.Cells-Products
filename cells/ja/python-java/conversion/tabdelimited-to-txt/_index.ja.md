@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してTABDELIMITEDをTXTに変換します
-url: /ja/python-java/conversion/tabdelimited-to-txt/
+
 description: tabdelimitedからtxtPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチタブ区切りファイルからtxtへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

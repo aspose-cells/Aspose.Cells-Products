@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan ODS ke SPREADSHEETML melalui C#
-url: /id/net/conversion/ods-to-spreadsheetml/
+
 description: Contoh kode untuk konversi ods ke spreadsheetml C#. Gunakan API kode contoh untuk file batch ods ke konversi spreadsheetml dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

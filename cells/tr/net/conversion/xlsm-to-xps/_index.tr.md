@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla XLSM'yi XPS'ye dönüştürün
-url: /tr/net/conversion/xlsm-to-xps/
+
 description: xlsm'den xps'e C# dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu xlsm dosyalarını xps'e dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

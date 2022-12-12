@@ -1,7 +1,7 @@
-﻿---
+---
 title: Mesclar arquivos HTML por meio de Java 
 weight: 8830
-url: /pt/java/merger/html/ 
+
 description: Java código de amostra para combinar documentos HTML no Java ambiente de tempo de execução para aplicativos JSP/JSF e aplicativos de desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

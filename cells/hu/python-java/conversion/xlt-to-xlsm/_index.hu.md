@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLT konvertálása XLSM-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/xlt-to-xlsm/
+
 description: Mintakód az xlt–xlsm Python konverzióhoz. Használjon API példakódot a kötegelt xlt fájlok xlsm konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

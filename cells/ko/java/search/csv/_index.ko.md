@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java을(를) 통해 열지 않고 CSV 문서 검색 
 weight: 390
-url: /ko/java/search/csv/ 
+
 description: Java JSP/JSF 애플리케이션 및 데스크톱 애플리케이션용 런타임 환경의 Java CSV 파일에서 패턴이 있는 단어를 검색하는 샘플 코드.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

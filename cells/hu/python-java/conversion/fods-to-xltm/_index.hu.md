@@ -1,6 +1,6 @@
-﻿---
+---
 title: "FODS konvertálása XLTM-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/fods-to-xltm/
+
 description: Mintakód a fod to xltm Python konverziójához. Használjon API példakódot a kötegelt fod fájlok xltm konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

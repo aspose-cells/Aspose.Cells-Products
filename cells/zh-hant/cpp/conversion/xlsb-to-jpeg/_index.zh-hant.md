@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通過 C++ 應用程序將 XLSB 轉換為 JPEG 
 weight: 6990
-url: /zh-hant/cpp/conversion/xlsb-to-jpeg/ 
+
 description: 將 XLSB 文檔轉換為 JPEG 格式的示例 C++。程序員可以使用此源代碼在任何 C++ 應用程序中將 XLSB 批量轉換為 JPEG。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

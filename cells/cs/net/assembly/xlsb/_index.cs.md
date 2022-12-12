@@ -1,7 +1,7 @@
-﻿---
+---
 title: Generovat sestavy v souborech XLSB prostřednictvím .NET 
 weight: 1690
-url: /cs/net/assembly/xlsb/ 
+
 description: C# zdrojový kód pro generování sestav ve formátu XLSB na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

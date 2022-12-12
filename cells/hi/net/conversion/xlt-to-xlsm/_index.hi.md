@@ -1,6 +1,6 @@
-﻿---
+---
 title: XLT को XLSM से C# में बदलें
-url: /hi/net/conversion/xlt-to-xlsm/
+
 description: xlt से xlsm C# रूपांतरण के लिए नमूना कोड। VB.NET, Asp.NET या किसी .NET आधारित एप्लिकेशन के भीतर xlsm रूपांतरण के लिए बैच xlt फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

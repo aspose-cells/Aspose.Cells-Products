@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertálja az XLSX-et EMF-re a(z) C++ alkalmazással 
 weight: 8040
-url: /hu/cpp/conversion/xlsx-to-emf/ 
+
 description: Minta C++ konverziós kód XLSX dokumentumhoz EMF formátumba. A programozók ezt a forráskódot használhatják az XLSX kötegelt EMF konvertálásához bármely C++ alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

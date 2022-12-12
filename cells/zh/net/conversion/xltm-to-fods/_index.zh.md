@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 C# 将 XLTM 转换为 FODS
-url: /zh/net/conversion/xltm-to-fods/
+
 description: xltm 到 fods C# 转换的示例代码。使用 API 示例代码在 VB.NET、Asp.NET 或任何基于 .NET 的应用程序中将 xltm 文件批量转换为 fods。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

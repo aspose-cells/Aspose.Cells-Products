@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie XLT in MARKDOWN über C#
-url: /de/net/conversion/xlt-to-markdown/
+
 description: Beispielcode für xlt-zu-Markdown-C#-Konvertierung. Verwenden Sie API Beispielcode für Batch-XLT-Dateien zur Markdown-Konvertierung in VB.NET, Asp.NET oder einer beliebigen .NET-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

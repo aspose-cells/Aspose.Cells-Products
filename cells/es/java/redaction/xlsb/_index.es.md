@@ -1,7 +1,7 @@
-﻿---
+---
 title: Buscar y reemplazar texto en el documento XLSB a través de Java 
 weight: 4590
-url: /es/java/redaction/xlsb/ 
+
 description: Java código de ejemplo para redactar información confidencial en un archivo XLSB en Java entorno de tiempo de ejecución para aplicaciones JSP/JSF y aplicaciones de escritorio.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

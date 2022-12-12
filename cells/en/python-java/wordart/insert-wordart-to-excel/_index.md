@@ -1,7 +1,7 @@
 ---
 title: Insert WordArt into Excel via Python 
 weight: 200
-url: /python-java/wordart/insert-wordart-to-excel/ 
+
 description: Python source code to insert WordArt into Excel.
 ---
 

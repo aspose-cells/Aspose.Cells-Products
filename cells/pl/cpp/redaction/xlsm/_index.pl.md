@@ -1,7 +1,7 @@
-﻿---
+---
 title: Wyszukaj i zamień tekst w dokumencie XLSM za pomocą C++ 
 weight: 9570
-url: /pl/cpp/redaction/xlsm/ 
+
 description: C++ przykładowy kod do redagowania poufnych informacji w pliku XLSM w C++ Runtime Environment dla Windows 32-bitowy, Windows 64-bitowy i Linux 64-bitowy.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

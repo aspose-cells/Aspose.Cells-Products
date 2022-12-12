@@ -1,6 +1,6 @@
-﻿---
+---
 title: "NUMBERS konvertálása DIF-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/numbers-to-dif/
+
 description: Mintakód a számok megkülönböztetéséhez Python. Használja a(z) API példakódot a kötegszámfájlokhoz a Python alkalmazáson belüli átalakításhoz.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

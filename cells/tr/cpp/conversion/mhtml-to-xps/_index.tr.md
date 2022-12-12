@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ uygulaması aracılığıyla MHTML'yi XPS'ye dönüştürün 
 weight: 7930
-url: /tr/cpp/conversion/mhtml-to-xps/ 
+
 description: MHTML belgesi için XPS biçimine örnek C++ dönüştürme kodu. Programcılar, herhangi bir C++ Uygulamasında toplu MHTML'den XPS'ye dönüştürme için bu kaynak kodunu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

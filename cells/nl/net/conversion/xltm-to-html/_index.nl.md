@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLTM naar HTML via C#
-url: /nl/net/conversion/xltm-to-html/
+
 description: Voorbeeldcode voor xltm naar html C# conversie. Gebruik API voorbeeldcode voor batch xltm-bestanden naar html-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

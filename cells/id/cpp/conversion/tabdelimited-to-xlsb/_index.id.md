@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi TABDELIMITED ke XLSB melalui C++ aplikasi 
-url: /id/cpp/conversion/tabdelimited-to-xlsb/ 
+
 description: Contoh C++ kode konversi untuk dokumen TABDELIMITED ke format XLSB. Pemrogram dapat menggunakan kode sumber ini untuk konversi batch TABDELIMITED ke XLSB dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

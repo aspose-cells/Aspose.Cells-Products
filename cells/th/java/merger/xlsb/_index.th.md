@@ -1,7 +1,7 @@
-﻿---
+---
 title: รวมไฟล์ XLSB ผ่าน Java 
 weight: 4840
-url: /th/java/merger/xlsb/ 
+
 description: Java โค้ดตัวอย่างเพื่อรวมเอกสาร XLSB บน Java Runtime Environment สำหรับแอปพลิเคชัน JSP/JSF และแอปพลิเคชันเดสก์ท็อป
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

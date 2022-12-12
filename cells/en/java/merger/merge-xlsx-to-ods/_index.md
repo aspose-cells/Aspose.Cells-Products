@@ -1,6 +1,6 @@
 ---
 title: Merge XLSX to ODS Files via Java 
-url: /java/merger/merge-xlsx-to-ods/ 
+
 description: Merge XLSX to ODS file in Java code. Combine XLSX to ODS file using Java based desktop or web application.
 ---
 

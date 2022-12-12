@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή ODS σε EMF μέσω Python
-url: /el/python-java/conversion/ods-to-emf/
+
 description: Δείγμα κώδικα για μετατροπή ods σε emf Python. Χρησιμοποιήστε API παράδειγμα κώδικα για αρχεία batch ods για μετατροπή emf εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést NUMBERS na XPS prostřednictvím C#
-url: /cs/net/conversion/numbers-to-xps/
+
 description: Ukázkový kód pro převod čísel na xps C#. Použijte API ukázkový kód pro převod souborů s dávkovými čísly na xps v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

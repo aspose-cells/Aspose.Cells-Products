@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل XLSB إلى ODS عبر Java 
 weight: 7080
-url: /ar/java/conversion/xlsb-to-ods/ 
+
 description: نموذج Java رمز تحويل لتنسيق XLSB إلى ملف ODS. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى ODS من خلال أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

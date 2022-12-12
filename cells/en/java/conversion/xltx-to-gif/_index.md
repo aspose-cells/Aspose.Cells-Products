@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to GIF via Java 
-url: /java/conversion/xltx-to-gif/
+
 description: Convert XLTX to GIF format in Java code. Save XLTX as GIF using Java.
 ---
 

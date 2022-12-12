@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 C# 生成 Excel 文件
-url: /zh-hant/net/assembly/
+
 description: 使用 C# 代碼從模板表生成 Microsoft Excel 電子表格
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

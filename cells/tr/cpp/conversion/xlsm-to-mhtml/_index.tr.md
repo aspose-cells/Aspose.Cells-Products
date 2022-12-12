@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++ uygulaması aracılığıyla XLSM'yi MHTML'ye dönüştürün 
-url: /tr/cpp/conversion/xlsm-to-mhtml/ 
+
 description: XLSM belgesi için MHTML biçimine örnek C++ dönüştürme kodu. Programcılar, herhangi bir C++ Uygulamasında toplu XLSM'den MHTML'ye dönüştürme için bu kaynak kodunu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

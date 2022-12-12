@@ -1,6 +1,6 @@
 ---
 title: Create 3D Line Charts via C#
-url: /net/create-line3d-chart/
+
 description: C# Sample code for creating 3D Line charts to Excel using .NET Library. Use this code for creating a 3D Line chart to MS Excel within VB.NET, Asp.NET or any .NET based application.
 
 ---

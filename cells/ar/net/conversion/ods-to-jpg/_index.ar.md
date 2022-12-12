@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل ODS إلى JPG عبر C#
-url: /ar/net/conversion/ods-to-jpg/
+
 description: نموذج كود لتحويل ods إلى jpg C#. استخدم API رمز المثال لملفات ods الدفعية لتحويل jpg داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

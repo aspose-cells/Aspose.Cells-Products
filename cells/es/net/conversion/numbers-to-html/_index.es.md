@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta NÚMEROS a HTML a través de C#
-url: /es/net/conversion/numbers-to-html/
+
 description: Ejemplo de código para conversión de números a html C#. Utilice el código de ejemplo API para archivos de números de lote para conversión html dentro de VB.NET, Asp.NET o cualquier aplicación basada en .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

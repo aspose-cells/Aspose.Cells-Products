@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan ODS ke JPG melalui C#
-url: /id/net/conversion/ods-to-jpg/
+
 description: Contoh kode untuk konversi ods ke jpg C#. Gunakan API kode contoh untuk file batch ods ke konversi jpg dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

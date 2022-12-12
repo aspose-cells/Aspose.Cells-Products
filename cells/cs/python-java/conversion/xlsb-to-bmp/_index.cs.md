@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLSB na BMP přes Python
-url: /cs/python-java/conversion/xlsb-to-bmp/
+
 description: Ukázkový kód pro převod xlsb na bmp Python. Použijte API ukázkový kód pro dávkový převod souborů xlsb na bmp v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

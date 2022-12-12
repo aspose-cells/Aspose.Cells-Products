@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj MHTML na XML za pomocą C#
-url: /pl/net/conversion/mhtml-to-xml/
+
 description: Przykładowy kod konwersji mhtml do xml C#. Użyj przykładowego kodu API dla wsadowych plików mhtml do konwersji xml w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

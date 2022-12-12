@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل ODS إلى CSV عبر تطبيق C++ 
 weight: 6200
-url: /ar/cpp/conversion/ods-to-csv/ 
+
 description: نموذج C++ رمز تحويل لمستند ODS إلى تنسيق CSV. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل دفعة من المواد المستنفدة للأوزون إلى ملف CSV داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

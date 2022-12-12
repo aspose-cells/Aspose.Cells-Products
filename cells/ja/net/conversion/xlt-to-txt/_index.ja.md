@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してXLTをTXTに変換します
-url: /ja/net/conversion/xlt-to-txt/
+
 description: xltからtxtC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチxltファイルからtxtへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

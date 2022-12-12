@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi TXT sang XLT qua C#
-url: /vi/net/conversion/txt-to-xlt/
+
 description: Mã mẫu cho chuyển đổi txt sang xlt C#. Sử dụng mã mẫu API cho chuyển đổi hàng loạt tệp txt sang xlt trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

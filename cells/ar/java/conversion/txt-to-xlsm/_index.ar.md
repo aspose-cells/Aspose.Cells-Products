@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TXT إلى XLSM عبر Java 
-url: /ar/java/conversion/txt-to-xlsm/ 
+
 description: نموذج Java رمز التحويل لتنسيق TXT إلى ملف XLSM. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى XLSM داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

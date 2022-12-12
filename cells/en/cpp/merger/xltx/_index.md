@@ -1,6 +1,6 @@
 ---
 title: Merge XLTX Files via C++ 
-url: /cpp/merger/xltx/ 
+
 description: C++ example code to combine XLTX documents on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
 

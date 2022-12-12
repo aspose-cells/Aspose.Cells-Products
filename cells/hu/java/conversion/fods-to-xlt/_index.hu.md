@@ -1,6 +1,6 @@
-﻿---
+---
 title: "FODS konvertálása XLT-vé a következőn keresztül: Java "
-url: /hu/java/conversion/fods-to-xlt/ 
+
 description: Minta Java konverziós kód FODS formátumhoz XLT fájlba. A programozók ezt a példakódot használhatják Excel- és OpenOffice-táblázatok XLT-be exportálására bármely web- vagy asztali Java-alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

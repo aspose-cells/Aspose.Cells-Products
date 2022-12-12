@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ aracılığıyla XLSX Ek Açıklaması ekleyin 
 weight: 5260
-url: /tr/cpp/annotation/xlsx/ 
+
 description: C++ Runtime Environment for Windows 32 bit, Windows 64 bit ve Linux 64 bit üzerinde XLSX biçim açıklamalarını eklemek veya silmek için C++ örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte XLTM na JSON pomocí aplikace C++ 
-url: /cs/cpp/conversion/xltm-to-json/ 
+
 description: Ukázkový konverzní kód C++ pro dokument XLTM do formátu JSON. Programátoři mohou použít tento zdrojový kód pro dávkový převod XLTM na JSON v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

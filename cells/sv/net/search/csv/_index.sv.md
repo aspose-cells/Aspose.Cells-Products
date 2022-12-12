@@ -1,7 +1,7 @@
-﻿---
+---
 title: Sök i CSV-dokument utan att öppna via .NET 
 weight: 7510
-url: /sv/net/search/csv/ 
+
 description: C# källkod för att söka efter ord med mönster i CSV-fil på .NET Framework, .NET Core, Mono eller Xamarin-plattformar.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

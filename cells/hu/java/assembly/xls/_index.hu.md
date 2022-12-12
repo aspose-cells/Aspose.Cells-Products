@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Jelentések létrehozása XLS-fájlokban a következőn keresztül: Java "
 weight: 1090
-url: /hu/java/assembly/xls/ 
+
 description: Java mintakód XLS formátumú jelentések létrehozásához a Java Futókörnyezetben JSP/JSF alkalmazásokhoz és asztali alkalmazásokhoz.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

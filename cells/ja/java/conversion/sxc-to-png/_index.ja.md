@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してSXCをPNGに変換する 
-url: /ja/java/conversion/sxc-to-png/ 
+
 description: SXC形式からPNGファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、WebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをPNGにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

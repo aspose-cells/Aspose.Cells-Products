@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer NUMMERS naar XLT via C#
-url: /nl/net/conversion/numbers-to-xlt/
+
 description: Voorbeeldcode voor conversie van getallen naar xlt C#. Gebruik API voorbeeldcode voor batchnummerbestanden naar xlt-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

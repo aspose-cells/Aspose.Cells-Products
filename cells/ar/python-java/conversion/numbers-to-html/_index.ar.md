@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل الأرقام إلى HTML عبر Python
-url: /ar/python-java/conversion/numbers-to-html/
+
 description: نموذج رمز للأرقام لتحويل Python html. استخدم API رمز المثال لملفات الأرقام الدفعية لتحويل html داخل Python التطبيق.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

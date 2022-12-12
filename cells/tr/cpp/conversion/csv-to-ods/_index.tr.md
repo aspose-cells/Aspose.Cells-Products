@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ uygulaması aracılığıyla CSV'yi ODS'ye dönüştürün 
 weight: 340
-url: /tr/cpp/conversion/csv-to-ods/ 
+
 description: CSV belgesi için ODS biçimine örnek C++ dönüştürme kodu. Programcılar, herhangi bir C++ Uygulamasında toplu CSV'den ODS'ye dönüştürme için bu kaynak kodunu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

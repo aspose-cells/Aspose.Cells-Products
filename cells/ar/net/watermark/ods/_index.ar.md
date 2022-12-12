@@ -1,7 +1,7 @@
-﻿---
+---
 title: مستند ODS بعلامة مائية عبر .NET 
 weight: 4190
-url: /ar/net/watermark/ods/ 
+
 description: C# شفرة المصدر لإضافة أو إزالة العلامة المائية إلى ملف ODS على .NET Framework أو .NET Core أو Mono أو Xamarin الأنظمة الأساسية.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

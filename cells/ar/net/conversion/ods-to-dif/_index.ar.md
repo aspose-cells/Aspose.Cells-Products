@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل ODS إلى DIF عبر C#
-url: /ar/net/conversion/ods-to-dif/
+
 description: نموذج كود لتحويل ods toiff C#. استخدم API رمز المثال لملفات ods الدفعية لتغيير التحويل داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

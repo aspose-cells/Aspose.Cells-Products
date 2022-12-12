@@ -1,7 +1,7 @@
-﻿---
+---
 title: Προσθήκη σχολιασμού ODS μέσω C++ 
 weight: 8840
-url: /el/cpp/annotation/ods/ 
+
 description: C++ δείγμα κώδικα για τη διαγραφή σχολιασμών μορφής ODS στο C++ Runtime Environment για Windows 32 bit, Windows 64 bit και Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi TABDELIMITED ke SXC melalui Python
-url: /id/python-java/conversion/tabdelimited-to-sxc/
+
 description: Contoh kode untuk konversi tabdelimited ke sxc Python. Gunakan API kode contoh untuk berkas tabdelimited batch ke konversi sxc dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

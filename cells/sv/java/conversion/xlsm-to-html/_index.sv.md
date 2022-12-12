@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertera XLSM till HTML via Java 
 weight: 4720
-url: /sv/java/conversion/xlsm-to-html/ 
+
 description: Exempel Java-konverteringskod för XLSM-format till HTML-fil. Programmerare kan använda den här exempelkoden för att exportera Excel- och OpenOffice-kalkylblad till HTML inom alla webb- eller skrivbordsbaserade Java-applikationer.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

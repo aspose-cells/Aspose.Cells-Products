@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converti CSV in SPREADSHEETML tramite Python
-url: /it/python-java/conversion/csv-to-spreadsheetml/
+
 description: Codice di esempio per la conversione da csv a spreadsheetml Python. Usa API codice di esempio per la conversione in batch di file CSV in Spreadsheetml all'interno dell'applicazione Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

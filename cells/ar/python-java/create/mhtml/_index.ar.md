@@ -1,6 +1,6 @@
-﻿---
+---
 title: إنشاء ملفات MHTML عبر Python 
-url: /ar/python-java/create-mhtml/ 
+
 description: Python نموذج كود لإنشاء مستندات MHTML. استخدم هذا الرمز لإنشاء ملفات MHTML داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert XLSX to GIF via C++
-url: /cpp/conversion/xlsx-to-gif/
+
 description: Convert XLSX to GIF format in C++ code. Save XLSX as GIF using C++.
 ---
 

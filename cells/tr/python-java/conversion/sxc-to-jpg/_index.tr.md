@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla SXC'yi JPG'ye dönüştürün
-url: /tr/python-java/conversion/sxc-to-jpg/
+
 description: sxc'den jpg Python'e dönüştürme için örnek kod. Python uygulamasında toplu sxc dosyalarını jpg'ye dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

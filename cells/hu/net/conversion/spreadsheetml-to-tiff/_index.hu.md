@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SPREADSHEETML konvertálása TIFF-re a következőn keresztül: C#"
-url: /hu/net/conversion/spreadsheetml-to-tiff/
+
 description: Mintakód a táblázatkezelőből a tiff C# konverzióhoz. Használjon API példakódot kötegelt táblázatkezelő fájlokhoz a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazás tiff konverziójához.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

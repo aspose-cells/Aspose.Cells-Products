@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してMHTMLをDIFに変換します
-url: /ja/python-java/conversion/mhtml-to-dif/
+
 description: mhtmlからdifPythonへの変換のサンプルコード。 Pythonアプリケーション内で変換を行うためのバッチmhtmlファイルのAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

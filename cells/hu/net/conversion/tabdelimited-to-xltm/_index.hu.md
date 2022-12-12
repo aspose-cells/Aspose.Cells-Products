@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TABDELIMITED konvertálása XLTM-re a következőn keresztül: C#"
-url: /hu/net/conversion/tabdelimited-to-xltm/
+
 description: Mintakód a tabulátorral tagolt xltm C# konverzióhoz. Használjon API példakódot a tabulátorral tagolt fájlok kötegelt xltm konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazásban.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLSM naar TIFF via C++ applicatie 
-url: /nl/cpp/conversion/xlsm-to-tiff/ 
+
 description: Voorbeeld C++-conversiecode voor XLSM-document naar TIFF-indeling. Programmeurs kunnen deze broncode gebruiken voor batch-XLSM-naar-TIFF-conversie binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

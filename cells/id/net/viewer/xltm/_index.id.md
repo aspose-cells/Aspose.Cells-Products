@@ -1,7 +1,7 @@
-﻿---
+---
 title: Lihat Format File XLTM melalui .NET 
 weight: 430
-url: /id/net/viewer/xltm/ 
+
 description: C# kode sumber untuk memuat, merender, dan menampilkan dokumen XLTM pada .NET Framework, .NET Core, Mono atau Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

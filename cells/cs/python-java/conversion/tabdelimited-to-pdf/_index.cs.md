@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TABDELIMITED do PDF přes Python
-url: /cs/python-java/conversion/tabdelimited-to-pdf/
+
 description: Ukázkový kód pro převod tabulátorů na pdf Python. Použijte API ukázkový kód pro dávkový převod souborů oddělených tabulátory na PDF v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

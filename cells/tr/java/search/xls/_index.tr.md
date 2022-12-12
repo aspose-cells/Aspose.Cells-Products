@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java üzerinden açmadan XLS belgesini arayın 
 weight: 9430
-url: /tr/java/search/xls/ 
+
 description: JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Runtime Environment'daki XLS dosyasında kalıplı kelimeleri aramak için Java örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

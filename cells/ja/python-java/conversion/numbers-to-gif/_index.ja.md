@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してNUMBERSをGIFに変換します
-url: /ja/python-java/conversion/numbers-to-gif/
+
 description: 数値からgifPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチ番号ファイルからgifへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

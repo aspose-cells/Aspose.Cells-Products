@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést MHTML na BMP přes Python
-url: /cs/python-java/conversion/mhtml-to-bmp/
+
 description: Ukázkový kód pro konverzi mhtml na bmp Python. Použijte API ukázkový kód pro dávkový převod souborů mhtml na bmp v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

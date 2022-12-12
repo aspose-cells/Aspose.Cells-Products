@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta SPREADSHEETML a XLAM a través de Java 
-url: /es/java/conversion/spreadsheetml-to-xlam/ 
+
 description: Ejemplo de código de conversión Java para formato SPREADSHEETML a archivo XLAM. Los programadores pueden usar este código de ejemplo para exportar hojas de cálculo de Excel y OpenOffice a XLAM dentro de cualquier aplicación basada en Web o escritorio Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

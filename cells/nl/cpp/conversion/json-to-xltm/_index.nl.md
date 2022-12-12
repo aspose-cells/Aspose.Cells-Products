@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer JSON naar XLTM via C++ applicatie 
-url: /nl/cpp/conversion/json-to-xltm/ 
+
 description: Voorbeeld C++-conversiecode voor JSON-document naar XLTM-indeling. Programmeurs kunnen deze broncode gebruiken voor batch-conversie van JSON naar XLTM binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

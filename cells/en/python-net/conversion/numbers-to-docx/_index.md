@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to DOCX via Python
-url: /python-net/conversion/numbers-to-docx/
+
 description: Sample code for numbers to docx Python conversion. Use API example code for batch numbers files to docx conversion within Python application.
 ---
 

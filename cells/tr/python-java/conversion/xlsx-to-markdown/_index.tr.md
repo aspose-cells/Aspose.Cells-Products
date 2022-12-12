@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla XLSX'i MARKDOWN'a dönüştürün
-url: /tr/python-java/conversion/xlsx-to-markdown/
+
 description: Python dönüşümünü azaltmak için xlsx için örnek kod. Python uygulamasında dönüştürmeyi işaretlemek için toplu xlsx dosyaları için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

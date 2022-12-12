@@ -1,7 +1,7 @@
-﻿---
+---
 title: แยกไฟล์ XLS ผ่าน Java 
 weight: 610
-url: /th/java/splitter/xls/ 
+
 description: Java โค้ดตัวอย่างเพื่อแยกเอกสาร XLS บน Java Runtime Environment สำหรับแอปพลิเคชัน JSP/JSF และแอปพลิเคชันเดสก์ท็อป
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

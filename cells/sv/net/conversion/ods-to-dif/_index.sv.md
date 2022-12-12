@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera ODS till DIF via C#
-url: /sv/net/conversion/ods-to-dif/
+
 description: Exempelkod för ods to dif C#-omvandling. Använd API exempelkod för batch-ods-filer för att skilja konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

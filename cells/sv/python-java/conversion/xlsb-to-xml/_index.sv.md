@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera XLSB till XML via Python
-url: /sv/python-java/conversion/xlsb-to-xml/
+
 description: Exempelkod för konvertering av xlsb till xml Python. Använd API exempelkod för batch-xlsb-filer till xml-konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

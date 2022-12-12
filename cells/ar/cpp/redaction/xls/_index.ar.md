@@ -1,7 +1,7 @@
-﻿---
+---
 title: البحث عن نص واستبداله في مستند XLS عبر C++ 
 weight: 380
-url: /ar/cpp/redaction/xls/ 
+
 description: C++ مثال على رمز لتنقيح المعلومات الحساسة في ملف XLS في C++ Runtime Environment لأنظمة التشغيل Windows 32 بت و Windows 64 بت و Linux 64 بت.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

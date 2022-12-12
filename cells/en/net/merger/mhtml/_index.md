@@ -1,7 +1,7 @@
 ---
 title: Merge MHTML Files via .NET 
 weight: 2610
-url: /net/merger/mhtml/ 
+
 description: C# source code to combine MHTML documents on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

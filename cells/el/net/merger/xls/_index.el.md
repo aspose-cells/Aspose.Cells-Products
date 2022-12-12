@@ -1,7 +1,7 @@
-﻿---
+---
 title: Συγχώνευση αρχείων XLS μέσω .NET 
 weight: 3000
-url: /el/net/merger/xls/ 
+
 description: C# πηγαίος κώδικας για συνδυασμό εγγράφων XLS σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

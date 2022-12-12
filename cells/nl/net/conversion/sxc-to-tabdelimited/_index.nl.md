@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer SXC naar TABDELIMITED via C#
-url: /nl/net/conversion/sxc-to-tabdelimited/
+
 description: Voorbeeldcode voor conversie van sxc naar tabdelimited C#. Gebruik API voorbeeldcode voor batch sxc-bestanden naar door tabs gescheiden conversies binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

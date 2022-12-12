@@ -1,6 +1,6 @@
-﻿---
+---
 title: Buat Diagram Area melalui Python
-url: /id/python-java/create-area-chart/
+
 description: Python Kode contoh untuk membuat bagan Area ke Excel menggunakan Python Pustaka. Gunakan kode ini untuk membuat diagram Area ke MS Excel dalam aplikasi berbasis Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

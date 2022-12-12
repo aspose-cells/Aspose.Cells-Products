@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLTM إلى TIFF عبر Python
-url: /ar/python-java/conversion/xltm-to-tiff/
+
 description: نموذج كود لتحويل xltm إلى tiff Python. استخدم API رمز المثال لملفات xltm الدفعية لإجراء تحويل tiff داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

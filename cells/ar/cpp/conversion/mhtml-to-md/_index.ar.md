@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل MHTML إلى MD عبر تطبيق C++ 
-url: /ar/cpp/conversion/mhtml-to-md/ 
+
 description: نموذج لشفرة تحويل C++ لمستند MHTML إلى تنسيق MD. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل MHTML إلى MD دفعة داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

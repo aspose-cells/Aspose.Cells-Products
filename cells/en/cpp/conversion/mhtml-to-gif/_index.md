@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to GIF via C++
-url: /cpp/conversion/mhtml-to-gif/
+
 description: Convert MHTML to GIF format in C++ code. Save MHTML as GIF using C++.
 ---
 

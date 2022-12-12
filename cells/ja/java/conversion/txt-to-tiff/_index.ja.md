@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してTXTをTIFFに変換します 
 weight: 9200
-url: /ja/java/conversion/txt-to-tiff/ 
+
 description: TXT形式からTIFFファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のTIFFにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Tìm kiếm tài liệu XLSM mà không cần mở qua C++ 
 weight: 9280
-url: /vi/cpp/search/xlsm/ 
+
 description: C++ mã ví dụ để tìm kiếm các từ có mẫu trong tệp XLSM trên C++ Môi trường thời gian chạy cho Windows 32 bit, Windows 64 bit và Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Mở khóa tài liệu XLSB qua Java 
 weight: 5860
-url: /vi/java/unlock/xlsb/ 
+
 description: Java mã mẫu để mở khóa tệp XLSB được bảo vệ bằng mật khẩu trên Java Môi trường thời gian chạy cho Ứng dụng JSP / JSF và Ứng dụng trên máy tính.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

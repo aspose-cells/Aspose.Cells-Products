@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi XLSX sang SXC qua Python
-url: /vi/python-java/conversion/xlsx-to-sxc/
+
 description: Mã mẫu cho chuyển đổi xlsx sang sxc Python. Sử dụng API mã ví dụ cho hàng loạt tệp xlsx sang chuyển đổi sxc trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

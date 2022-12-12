@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET üzerinden açmadan CSV belgesini arayın 
 weight: 7510
-url: /tr/net/search/csv/ 
+
 description: .NET Framework, .NET Core, Mono veya Xamarin Platformlarında CSV dosyasında kalıplı kelimeleri aramak için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

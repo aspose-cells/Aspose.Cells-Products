@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést FODS na CSV prostřednictvím Python
-url: /cs/python-java/conversion/fods-to-csv/
+
 description: Ukázkový kód pro konverzi fod na csv Python. Použijte API ukázkový kód pro dávkové převody fods na csv v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Преобразование XLS в байтовый массив с помощью C# 
 weight: 7690
-url: /ru/net/conversion/xls-to-byte-array/ 
+
 description: C# Пример кода для преобразования XLS в байтовый массив. Используйте этот код для преобразования Excel XLS в массив байтов в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

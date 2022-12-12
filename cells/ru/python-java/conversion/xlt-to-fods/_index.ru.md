@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLT в FODS через Python
-url: /ru/python-java/conversion/xlt-to-fods/
+
 description: Пример кода для преобразования xlt в fods Python. Используйте пример кода API для пакетного преобразования файлов xlt в fods в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

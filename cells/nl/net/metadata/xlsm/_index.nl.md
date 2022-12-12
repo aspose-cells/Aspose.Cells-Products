@@ -1,7 +1,7 @@
-﻿---
+---
 title: Bekijk of bewerk XLSM-bestanden metadata via .NET 
 weight: 5590
-url: /nl/net/metadata/xlsm/ 
+
 description: C# broncode om metadata in XLSM-indeling te bewerken of te bekijken op .NET Framework-, .NET Core-, Mono- of Xamarin-platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to BMP via Java 
-url: /java/conversion/excel-to-bmp/
+
 description: Convert EXCEL to BMP format in Java code. Save EXCEL as BMP using Java.
 ---
 

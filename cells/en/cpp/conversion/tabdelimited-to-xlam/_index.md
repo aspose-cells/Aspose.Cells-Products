@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to XLAM via C++
-url: /cpp/conversion/tabdelimited-to-xlam/
+
 description: Convert TABDELIMITED to XLAM format in C++ code. Save TABDELIMITED as XLAM using C++.
 ---
 

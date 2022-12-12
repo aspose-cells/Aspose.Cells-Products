@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan XLT ke SXC melalui C#
-url: /id/net/conversion/xlt-to-sxc/
+
 description: Contoh kode untuk konversi xlt ke sxc C#. Gunakan API kode contoh untuk file batch xlt ke konversi sxc dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Oszlopdiagramok létrehozása a következőn keresztül: C#"
-url: /hu/net/create-column-chart/
+
 description: C# Mintakód oszlopdiagramok készítéséhez Excelbe a .NET Library használatával. Használja ezt a kódot oszlopdiagram létrehozásához MS Excelben VB.NET, Asp.NET vagy bármely .NET alapú alkalmazásban.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

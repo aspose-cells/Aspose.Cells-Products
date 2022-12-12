@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to GIF via Java 
-url: /java/conversion/ods-to-gif/
+
 description: Convert ODS to GIF format in Java code. Save ODS as GIF using Java.
 ---
 

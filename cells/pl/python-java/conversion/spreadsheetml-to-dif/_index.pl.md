@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj SPREADSHEETML na DIF przez Python
-url: /pl/python-java/conversion/spreadsheetml-to-dif/
+
 description: Przykładowy kod dla arkusza kalkulacyjnego w celu porównania konwersji Python. Użyj przykładowego kodu API dla wsadowych plików arkusza kalkulacyjnego w celu konwersji różnic w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

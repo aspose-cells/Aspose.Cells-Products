@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή CSV σε HTML μέσω C#
-url: /el/net/conversion/csv-to-html/
+
 description: Δείγμα κώδικα για μετατροπή csv σε html C#. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδική μετατροπή αρχείων csv σε html εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

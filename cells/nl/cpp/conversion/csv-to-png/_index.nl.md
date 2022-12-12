@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer CSV naar PNG via C++ applicatie 
 weight: 920
-url: /nl/cpp/conversion/csv-to-png/ 
+
 description: Voorbeeld C++-conversiecode voor CSV-document naar PNG-indeling. Programmeurs kunnen deze broncode gebruiken voor batch-CSV-naar-PNG-conversie binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

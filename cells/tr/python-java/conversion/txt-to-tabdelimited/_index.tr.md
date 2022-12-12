@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla TXT'yi TABDELIMITED'e dönüştürün
-url: /tr/python-java/conversion/txt-to-tabdelimited/
+
 description: txt'den sekmeyle ayrılmış Python dönüşümü için örnek kod. Python uygulamasında toplu txt dosyalarından sekmeyle ayrılmış dönüştürmeye yönelik API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

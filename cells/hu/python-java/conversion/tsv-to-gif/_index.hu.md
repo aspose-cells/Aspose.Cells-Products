@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TSV konvertálása GIF formátumba a következőn keresztül: Python"
-url: /hu/python-java/conversion/tsv-to-gif/
+
 description: Mintakód a tsv-ből gif-be Python. Használjon API példakódot kötegelt tsv-fájlokhoz a gif-konverzióhoz a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

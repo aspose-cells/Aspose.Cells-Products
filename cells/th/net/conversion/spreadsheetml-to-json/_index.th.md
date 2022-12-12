@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง SPREADSHEETML เป็น JSON ผ่าน C#
-url: /th/net/conversion/spreadsheetml-to-json/
+
 description: โค้ดตัวอย่างสำหรับการแปลงสเปรดชีตml เป็น json C# ใช้โค้ดตัวอย่าง API สำหรับไฟล์แบทช์สเปรดชีตml เป็นการแปลง json ภายใน VB.NET, Asp.NET หรือแอปพลิเคชันที่ใช้ .NET
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

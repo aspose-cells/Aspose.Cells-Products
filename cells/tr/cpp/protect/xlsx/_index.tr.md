@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ aracılığıyla XLSX belgesini koruyun ve kilitleyin 
 weight: 1140
-url: /tr/cpp/protect/xlsx/ 
+
 description: C++ Windows 32 bit, Windows 64 bit ve Linux 64 bit için C++ Runtime Environment üzerinde şifre kullanarak XLSX dosyasını kilitlemek için örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

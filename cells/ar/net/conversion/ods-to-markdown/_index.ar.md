@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل ODS إلى MARKDOWN عبر C#
-url: /ar/net/conversion/ods-to-markdown/
+
 description: نموذج لرمز ods للتخفيض C# للتحويل. استخدم API رمز المثال لملفات ods الدفعية لتحديد التحويل داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

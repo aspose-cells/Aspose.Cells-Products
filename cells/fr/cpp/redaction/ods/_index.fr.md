@@ -1,7 +1,7 @@
-﻿---
+---
 title: Rechercher et remplacer du texte dans le document ODS via C++ 
 weight: 1610
-url: /fr/cpp/redaction/ods/ 
+
 description: C++ Exemple de code pour masquer les informations sensibles dans le fichier ODS sur C++ Runtime Environment pour Windows 32 bits, Windows 64 bits et Linux 64 bits.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

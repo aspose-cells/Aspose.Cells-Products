@@ -1,7 +1,7 @@
-﻿---
+---
 title: Tài liệu XLSB hình mờ qua Java 
 weight: 5900
-url: /vi/java/watermark/xlsb/ 
+
 description: Java mã mẫu để thêm hoặc xóa hình mờ vào tệp XLSB trên Java Môi trường thời gian chạy cho Ứng dụng JSP / JSF và Ứng dụng trên máy tính để bàn.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

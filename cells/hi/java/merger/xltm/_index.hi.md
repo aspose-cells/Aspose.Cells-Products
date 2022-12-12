@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java के माध्यम से XLTM फ़ाइलें मर्ज करें 
 weight: 8210
-url: /hi/java/merger/xltm/ 
+
 description: Java JSP/JSF अनुप्रयोग और डेस्कटॉप अनुप्रयोगों के लिए रनटाइम परिवेश पर XLTM दस्तावेज़ों को संयोजित करने के लिए Java नमूना कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

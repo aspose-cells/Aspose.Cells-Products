@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してXLSをXLAMに変換します 
-url: /ja/java/conversion/xls-to-xlam/ 
+
 description: XLS形式からXLAMファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のXLAMにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLSX na JPEG přes Python
-url: /cs/python-java/conversion/xlsx-to-jpeg/
+
 description: Ukázkový kód pro převod xlsx na jpeg Python. Použijte API ukázkový kód pro dávkový převod souborů xlsx na jpeg v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

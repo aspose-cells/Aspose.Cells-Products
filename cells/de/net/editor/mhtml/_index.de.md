@@ -1,6 +1,6 @@
-﻿---
+---
 title: Bearbeiten Sie MHTML-Dateien über .NET 
-url: /de/net/editor/mhtml/ 
+
 description: C#-Quellcode zum Bearbeiten von MHTML-Dokumenten auf .NET Framework-, .NET Core-, Windows Azure-, Mono- oder Xamarin-Plattformen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

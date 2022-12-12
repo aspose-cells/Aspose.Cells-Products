@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Konvertálja az XLSB-t PDF-be a következőn keresztül: C#"
-url: /hu/net/conversion/xlsb-to-pdf/
+
 description: Mintakód az xlsb-ből pdf-be C# konvertáláshoz. Használjon API példakódot a kötegelt xlsb fájlok PDF konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazásban.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

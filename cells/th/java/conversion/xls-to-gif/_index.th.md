@@ -1,7 +1,7 @@
-﻿---
+---
 title: แปลง XLS เป็น GIF ผ่าน Java 
 weight: 210
-url: /th/java/conversion/xls-to-gif/ 
+
 description: ตัวอย่างโค้ดการแปลง Java สำหรับรูปแบบ XLS เป็นไฟล์ GIF โปรแกรมเมอร์สามารถใช้โค้ดตัวอย่างนี้เพื่อส่งออกสเปรดชีต Excel และ OpenOffice ไปยัง GIF ภายในแอปพลิเคชันบนเว็บหรือเดสก์ท็อป Java
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

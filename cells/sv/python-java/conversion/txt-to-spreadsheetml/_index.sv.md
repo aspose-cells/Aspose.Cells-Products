@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera TXT till SPREADSHEETML via Python
-url: /sv/python-java/conversion/txt-to-spreadsheetml/
+
 description: Exempelkod för konvertering från txt till kalkylbladml Python. Använd API exempelkod för batch-txt-filer till kalkylarkml-konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
 ---
 title: Unlock XLS document via .NET 
 weight: 4260
-url: /net/unlock/xls/ 
+
 description: C# source code to unlock password protected XLS file on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

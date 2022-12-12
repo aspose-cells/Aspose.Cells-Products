@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir des NUMBERS en JPEG via Python
-url: /fr/python-java/conversion/numbers-to-jpeg/
+
 description: Exemple de code pour la conversion des nombres en jpeg Python. Utilisez l'exemple de code API pour les fichiers de numéros de lot en conversion jpeg dans l'application Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

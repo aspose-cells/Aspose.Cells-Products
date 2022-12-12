@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง HTML เป็น SXC ผ่าน Python
-url: /th/python-java/conversion/html-to-sxc/
+
 description: โค้ดตัวอย่างสำหรับการแปลง html เป็น sxc Python ใช้โค้ดตัวอย่าง API สำหรับไฟล์ html แบบแบตช์เป็นการแปลง sxc ภายในแอปพลิเคชัน Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

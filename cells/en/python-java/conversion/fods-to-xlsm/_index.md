@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to XLSM via Python
-url: /python-java/conversion/fods-to-xlsm/
+
 description: Convert FODS to XLSM format in Python code. Save FODS as XLSM using Python.
 ---
 

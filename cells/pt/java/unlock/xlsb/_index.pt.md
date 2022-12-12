@@ -1,7 +1,7 @@
-﻿---
+---
 title: Desbloqueie o documento XLSB via Java 
 weight: 5860
-url: /pt/java/unlock/xlsb/ 
+
 description: Java código de amostra para desbloquear arquivo XLSB protegido por senha no Java ambiente de tempo de execução para aplicativos JSP/JSF e aplicativos de desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

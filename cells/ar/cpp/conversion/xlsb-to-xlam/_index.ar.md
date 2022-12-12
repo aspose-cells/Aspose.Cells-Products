@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLSB إلى XLAM عبر تطبيق C++ 
-url: /ar/cpp/conversion/xlsb-to-xlam/ 
+
 description: نموذج C++ رمز التحويل لمستند XLSB إلى تنسيق XLAM. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل XLSB إلى XLAM دفعة داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

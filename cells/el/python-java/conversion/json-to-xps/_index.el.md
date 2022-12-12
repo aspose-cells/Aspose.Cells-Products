@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή JSON σε XPS μέσω Python
-url: /el/python-java/conversion/json-to-xps/
+
 description: Δείγμα κώδικα για μετατροπή json σε xps Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδική μετατροπή αρχείων json σε xps εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Filigrane du document ODS via Java 
 weight: 1040
-url: /fr/java/watermark/ods/ 
+
 description: Java exemple de code pour ajouter ou supprimer un filigrane au fichier ODS sur Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

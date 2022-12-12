@@ -1,6 +1,6 @@
-﻿---
+---
 title: FODS को Python के माध्यम से JPG में बदलें
-url: /hi/python-java/conversion/fods-to-jpg/
+
 description: jpg Python रूपांतरण में फ़ूड के लिए नमूना कोड। Python एप्लिकेशन के भीतर jpg रूपांतरण में बैच फोड फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

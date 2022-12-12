@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to PNG via Java 
-url: /java/conversion/numbers-to-png/
+
 description: Convert NUMBERS to PNG format in Java code. Save NUMBERS as PNG using Java.
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Εξαγωγή κειμένου και εικόνων από έγγραφο XLSM μέσω C++ 
 weight: 570
-url: /el/cpp/parser/xlsm/ 
+
 description: C++ παράδειγμα κώδικα για εξαγωγή κειμένου και εικόνων από αρχείο XLSM σε C++ Runtime Environment για Windows 32 bit, Windows 64 bit και Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

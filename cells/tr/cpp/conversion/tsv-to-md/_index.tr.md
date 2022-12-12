@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++ uygulaması aracılığıyla TSV'yi MD'ye dönüştürün 
-url: /tr/cpp/conversion/tsv-to-md/ 
+
 description: TSV belgesi için MD biçimine örnek C++ dönüştürme kodu. Programcılar, herhangi bir C++ Uygulamasında toplu TSV'den MD'ye dönüştürme için bu kaynak kodunu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

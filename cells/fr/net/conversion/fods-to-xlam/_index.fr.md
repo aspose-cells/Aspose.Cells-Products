@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir FODS en XLAM via C#
-url: /fr/net/conversion/fods-to-xlam/
+
 description: Exemple de code pour la conversion de fods en xlam C#. Utilisez l'exemple de code API pour la conversion de fichiers fods par lots en xlam dans VB.NET, Asp.NET ou toute application basée sur .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

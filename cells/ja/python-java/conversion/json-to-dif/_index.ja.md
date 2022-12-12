@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してJSONをDIFに変換する
-url: /ja/python-java/conversion/json-to-dif/
+
 description: jsonからdifPythonへの変換のサンプルコード。 Pythonアプリケーション内で変換をdifするためのバッチjsonファイルのAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera TABDELIMITED till XPS via programmet C++ 
-url: /sv/cpp/conversion/tabdelimited-to-xps/ 
+
 description: Exempel på konverteringskod för C++ för TABBDELLIMITED-dokument till XPS-format. Programmerare kan använda den här källkoden för batchkonvertering av TABDELLIMITED till XPS inom alla C++-program.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

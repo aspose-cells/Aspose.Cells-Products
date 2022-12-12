@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование SXC в MD через C#
-url: /ru/net/conversion/sxc-to-md/
+
 description: Пример кода для преобразования sxc в md C#. Используйте пример кода API для пакетного преобразования файлов sxc в md в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

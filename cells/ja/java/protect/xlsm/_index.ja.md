@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してXLSMドキュメントを保護およびロックする 
 weight: 9620
-url: /ja/java/protect/xlsm/ 
+
 description: Java JSP/JSFアプリケーションおよびデスクトップアプリケーションのJavaランタイム環境でパスワードを使用してXLSMファイルをロックするためのサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

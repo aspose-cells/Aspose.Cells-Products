@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Konvertálja az XLTX-et SXC-vé a következőn keresztül: Python"
-url: /hu/python-java/conversion/xltx-to-sxc/
+
 description: Mintakód az xltx–sxc Python konverzióhoz. Használjon API példakódot a kötegelt xltx fájlok sxc konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

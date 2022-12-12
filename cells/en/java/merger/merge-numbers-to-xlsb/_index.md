@@ -1,6 +1,6 @@
 ---
 title: Merge NUMBERS to XLSB Files via Java 
-url: /java/merger/merge-numbers-to-xlsb/ 
+
 description: Merge NUMBERS to XLSB file in Java code. Combine NUMBERS to XLSB file using Java based desktop or web application.
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Συγχώνευση αρχείων MHTML μέσω .NET 
 weight: 2610
-url: /el/net/merger/mhtml/ 
+
 description: C# πηγαίος κώδικας για συνδυασμό εγγράφων MHTML σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

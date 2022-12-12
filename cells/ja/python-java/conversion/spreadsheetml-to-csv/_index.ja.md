@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してSPREADSHEETMLをCSVに変換します
-url: /ja/python-java/conversion/spreadsheetml-to-csv/
+
 description: SpreadsheetmlからcsvPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチspreadsheetmlファイルからcsvへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

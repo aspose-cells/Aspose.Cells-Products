@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla XLTM'yi TIFF'ye dönüştürün
-url: /tr/net/conversion/xltm-to-tiff/
+
 description: xltm'den tiff'e C# dönüşümü için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde dönüşüm tiff için toplu xltm dosyaları için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

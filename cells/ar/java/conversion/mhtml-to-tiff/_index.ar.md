@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل MHTML إلى TIFF عبر Java 
 weight: 1890
-url: /ar/java/conversion/mhtml-to-tiff/ 
+
 description: نموذج لشفرة تحويل Java لتنسيق MHTML إلى ملف TIFF. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel و OpenOffice إلى TIFF داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

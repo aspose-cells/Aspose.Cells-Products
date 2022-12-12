@@ -1,6 +1,6 @@
-﻿---
+---
 title: إدارة البيانات الوصفية لملف Excel عبر .NET C#
-url: /ar/net/metadata/
+
 description: اعرض البيانات الوصفية لملفات Excel أو أضفها أو عدلها أو أزلها أو استخرجها باستخدام سطور قليلة فقط من التعليمات البرمجية C#
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

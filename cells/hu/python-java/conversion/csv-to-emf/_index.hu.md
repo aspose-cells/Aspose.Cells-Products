@@ -1,6 +1,6 @@
-﻿---
+---
 title: "CSV konvertálása EMF-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/csv-to-emf/
+
 description: Mintakód a csv-ből emf-be Python. Használjon API példakódot kötegelt csv-fájlokhoz az EMF-konverzióhoz a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

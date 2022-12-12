@@ -1,6 +1,6 @@
-﻿---
+---
 title: Zusammenführung von Excel-Dateien API .NET C#
-url: /de/net/merger/
+
 description: Verketten Sie Excel- und OpenOffice-Tabellendateien mit nur wenigen Zeilen C#-Code.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

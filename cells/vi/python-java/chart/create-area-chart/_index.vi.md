@@ -1,6 +1,6 @@
-﻿---
+---
 title: Tạo Biểu đồ Khu vực qua Python
-url: /vi/python-java/create-area-chart/
+
 description: Python Mã mẫu để tạo Biểu đồ vùng sang Excel bằng Python Thư viện. Sử dụng mã này để tạo biểu đồ Vùng cho MS Excel trong ứng dụng dựa trên Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

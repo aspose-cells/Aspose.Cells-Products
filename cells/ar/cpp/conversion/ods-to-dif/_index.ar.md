@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل ODS إلى DIF عبر تطبيق C++ 
 weight: 4040
-url: /ar/cpp/conversion/ods-to-dif/ 
+
 description: نموذج C++ رمز تحويل لمستند ODS إلى تنسيق DIF. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل دفعة من ODS إلى DIF داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

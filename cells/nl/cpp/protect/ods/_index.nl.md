@@ -1,7 +1,7 @@
-﻿---
+---
 title: Bescherm en vergrendel ODS-document via C++ 
 weight: 10010
-url: /nl/cpp/protect/ods/ 
+
 description: C++ voorbeeldcode om ODS-bestand te vergrendelen met wachtwoord op C++ Runtime Environment voor Windows 32 bit, Windows 64 bit en Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

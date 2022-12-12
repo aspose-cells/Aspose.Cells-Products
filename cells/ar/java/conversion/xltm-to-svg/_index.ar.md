@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل XLTM إلى SVG عبر Java 
 weight: 5230
-url: /ar/java/conversion/xltm-to-svg/ 
+
 description: نموذج Java كود تحويل من تنسيق XLTM إلى ملف SVG. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel و OpenOffice إلى SVG داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera SPREADSHEETML till JSON via Python
-url: /sv/python-java/conversion/spreadsheetml-to-json/
+
 description: Exempelkod för konvertering från kalkylarkml till json Python. Använd API-exempelkod för batch-kalkylarkml-filer till json-konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

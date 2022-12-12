@@ -1,6 +1,6 @@
-﻿---
+---
 title: A SPREADSHEETML konvertálása EMF-re a C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/spreadsheetml-to-emf/ 
+
 description: Minta C++ konverziós kód a SPREADSHEETML dokumentumhoz EMF formátumba. A programozók ezt a forráskódot használhatják a SPREADSHEETML-ből EMF-re történő kötegelt konvertáláshoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

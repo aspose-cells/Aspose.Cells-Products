@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj ODS na GIF przez Python
-url: /pl/python-java/conversion/ods-to-gif/
+
 description: Przykładowy kod konwersji ods do gif Python. Użyj przykładowego kodu API dla wsadowych plików ods do konwersji gif w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

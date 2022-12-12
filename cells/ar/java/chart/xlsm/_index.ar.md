@@ -1,7 +1,7 @@
-﻿---
+---
 title: مخطط مستند XLSM عبر Java 
 weight: 3020
-url: /ar/java/chart/xlsm/ 
+
 description: Java نموذج تعليمة برمجية لرسم وتحويل مخطط أو رسم تخطيطي في ملف XLSM على Java Runtime Environment for JSP / JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

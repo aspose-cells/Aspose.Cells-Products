@@ -1,7 +1,7 @@
-﻿---
+---
 title: Chỉnh sửa hoặc xem siêu dữ liệu tệp XLS qua Java 
 weight: 730
-url: /vi/java/metadata/xls/ 
+
 description: Java mã mẫu để chỉnh sửa hoặc xem siêu dữ liệu định dạng XLS trên Java Môi trường thời gian chạy cho Ứng dụng JSP / JSF và Ứng dụng máy tính để bàn.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Chỉnh sửa hoặc Xem Siêu dữ liệu Tài liệu XLSB qua C++ 
 weight: 4820
-url: /vi/cpp/metadata/xlsb/ 
+
 description: C++ mã ví dụ để chỉnh sửa hoặc xem siêu dữ liệu tệp XLSB trên C++ Môi trường thời gian chạy cho Windows 32 bit, Windows 64 bit và Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

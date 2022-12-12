@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TABDELIMITED konvertálása HTML-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/tabdelimited-to-html/
+
 description: Mintakód a tabulátorral tagolt html Python konverzióhoz. Használjon API példakódot a tabulátorral határolt fájlok kötegelt html konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ के माध्यम से XLS दस्तावेज़ चार्ट 
 weight: 2500
-url: /hi/cpp/chart/xls/ 
+
 description: C++ विंडोज 32 बिट, विंडोज 64 बिट और लिनक्स 64 बिट के लिए C++ रनटाइम एनवायरनमेंट पर एक्सएलएस फ़ाइल में चार्ट या आरेख को खींचने और परिवर्तित करने के लिए उदाहरण कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

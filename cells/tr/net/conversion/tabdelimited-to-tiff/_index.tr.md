@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla TABDELIMITED'i TIFF'ye dönüştürün
-url: /tr/net/conversion/tabdelimited-to-tiff/
+
 description: C# dönüşümü için sekmeyle ayrılmış örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde dönüşüm tiff için toplu sekmeyle ayrılmış dosyalar için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

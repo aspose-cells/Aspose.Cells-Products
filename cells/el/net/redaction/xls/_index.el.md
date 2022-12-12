@@ -1,7 +1,7 @@
-﻿---
+---
 title: Αναζήτηση και αντικατάσταση κειμένου σε έγγραφο XLS μέσω .NET 
 weight: 7280
-url: /el/net/redaction/xls/ 
+
 description: C# πηγαίος κώδικας για διόρθωση ευαίσθητων πληροφοριών σε αρχείο XLS σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

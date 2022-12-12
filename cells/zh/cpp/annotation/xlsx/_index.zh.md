@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通过 C++ 添加 XLSX 注释 
 weight: 5260
-url: /zh/cpp/annotation/xlsx/ 
+
 description: C++ 在 Windows 32 位、Windows 64 位和 Linux 64 位的 C++ 运行时环境中添加或删除 XLSX 格式注释的示例代码。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Diviser la feuille de calcul Excel en feuilles de calcul dans Java
-url: /fr/java/splitter/
+
 description: Java codes sources expliquant comment diviser des fichiers Microsoft Excel en plusieurs documents à l'aide de la Java bibliothèque Excel
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

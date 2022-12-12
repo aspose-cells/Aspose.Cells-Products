@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to PDF via Java 
-url: /java/conversion/sxc-to-pdf/
+
 description: Convert SXC to PDF format in Java code. Save SXC as PDF using Java.
 ---
 

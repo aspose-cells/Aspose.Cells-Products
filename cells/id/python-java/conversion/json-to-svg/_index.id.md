@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi JSON ke SVG melalui Python
-url: /id/python-java/conversion/json-to-svg/
+
 description: Contoh kode untuk json ke svg Python konversi. Gunakan API kode contoh untuk file batch json ke konversi svg dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

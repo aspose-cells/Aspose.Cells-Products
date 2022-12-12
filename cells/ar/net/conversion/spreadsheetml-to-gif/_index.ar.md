@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل SPREADSHEETML إلى GIF عبر C#
-url: /ar/net/conversion/spreadsheetml-to-gif/
+
 description: نموذج كود لتحويل جدول البيانات إلى gif C#. استخدم API رمز المثال لملفات جداول البيانات الدفعية لتحويل gif داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

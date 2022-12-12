@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversi XLSB ke EMF melalui C++ aplikasi 
 weight: 9640
-url: /id/cpp/conversion/xlsb-to-emf/ 
+
 description: Contoh C++ kode konversi untuk dokumen XLSB ke format EMF. Pemrogram dapat menggunakan kode sumber ini untuk konversi batch XLSB ke EMF dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: เอกสารลายน้ำ XLS ผ่าน Java 
 weight: 2210
-url: /th/java/watermark/xls/ 
+
 description: Java ตัวอย่างโค้ดเพื่อเพิ่มหรือลบลายน้ำในไฟล์ XLS บน Java Runtime Environment สำหรับแอปพลิเคชัน JSP/JSF และแอปพลิเคชันเดสก์ท็อป
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLS إلى XLT عبر تطبيق C++ 
-url: /ar/cpp/conversion/xls-to-xlt/ 
+
 description: نموذج C++ رمز التحويل لمستند XLS إلى تنسيق XLT. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل XLS إلى XLT دفعة داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

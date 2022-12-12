@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to DOCX via Java 
-url: /java/conversion/xls-to-docx/
+
 description: Convert XLS to DOCX format in Java code. Save XLS as DOCX using Java.
 ---
 

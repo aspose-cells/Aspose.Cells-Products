@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή TXT σε TABDELIMITED μέσω Python
-url: /el/python-java/conversion/txt-to-tabdelimited/
+
 description: Δείγμα κώδικα για μετατροπή txt σε οριοθετημένη καρτέλα Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία txt σε μετατροπή οριοθετημένης καρτέλας εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

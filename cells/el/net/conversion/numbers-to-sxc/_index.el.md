@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή NUMBERS σε SXC μέσω C#
-url: /el/net/conversion/numbers-to-sxc/
+
 description: Δείγμα κώδικα για μετατροπή αριθμών σε sxc C#. Χρησιμοποιήστε API παράδειγμα κώδικα για αρχεία αριθμών παρτίδας σε μετατροπή sxc εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

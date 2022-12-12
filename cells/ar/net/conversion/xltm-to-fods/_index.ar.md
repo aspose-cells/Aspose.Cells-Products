@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLTM إلى FODS عبر C#
-url: /ar/net/conversion/xltm-to-fods/
+
 description: نموذج كود لتحويل xltm إلى fods C#. استخدم API رمز المثال لملفات xltm الدفعية لتحويل fods داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

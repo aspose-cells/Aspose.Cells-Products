@@ -1,7 +1,7 @@
-﻿---
+---
 title: Znak wodny dokumentu XLSM za pośrednictwem .NET 
 weight: 8270
-url: /pl/net/watermark/xlsm/ 
+
 description: C# kod źródłowy do dodawania lub usuwania znaku wodnego do pliku XLSM na platformach .NET Framework, .NET Core, Mono lub Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

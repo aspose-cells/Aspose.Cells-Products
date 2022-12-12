@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLSB konvertálása PNG-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/xlsb-to-png/
+
 description: Mintakód az xlsb–png Python konverzióhoz. Használjon API példakódot kötegelt xlsb fájlok png konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

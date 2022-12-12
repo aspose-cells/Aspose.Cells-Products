@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést HTML na TSV prostřednictvím Java 
 weight: 8790
-url: /cs/java/conversion/html-to-tsv/ 
+
 description: Ukázka převodního kódu Java pro formát HTML na soubor TSV. Programátoři mohou použít tento příklad kódu k exportu tabulek Excelu a OpenOffice do TSV v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

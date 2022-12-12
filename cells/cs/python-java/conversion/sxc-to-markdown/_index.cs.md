@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést SXC na MARKDOWN přes Python
-url: /cs/python-java/conversion/sxc-to-markdown/
+
 description: Ukázkový kód pro konverzi sxc na markdown Python. Použijte API ukázkový kód pro dávkové soubory sxc k převodu markdown v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

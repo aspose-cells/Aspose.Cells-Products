@@ -1,6 +1,6 @@
-﻿---
+---
 title: Vytvořit výsečové grafy prostřednictvím C#
-url: /cs/net/create-pie-chart/
+
 description: C# Ukázkový kód pro vytváření výsečových grafů do aplikace Excel pomocí knihovny .NET. Tento kód použijte k vytvoření výsečového grafu do MS Excel v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
 ---
 title: Watermark XLS document via Java 
 weight: 2210
-url: /java/watermark/xls/ 
+
 description: Java sample code to add or remove watermark to XLS file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

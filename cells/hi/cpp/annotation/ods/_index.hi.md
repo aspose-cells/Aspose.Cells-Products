@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ के माध्यम से ओडीएस एनोटेशन जोड़ें 
 weight: 8840
-url: /hi/cpp/annotation/ods/ 
+
 description: C++ ओडीएस प्रारूप एनोटेशन हटाने के लिए नमूना कोड C++ विंडोज 32 बिट, विंडोज 64 बिट और लिनक्स 64 बिट के लिए रनटाइम एनवायरनमेंट।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla XLSM'yi DIF'ye dönüştürün
-url: /tr/python-java/conversion/xlsm-to-dif/
+
 description: xlsm'den dif Python dönüşümüne ilişkin örnek kod. Python uygulamasında farklı dönüştürme için toplu xlsm dosyaları için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

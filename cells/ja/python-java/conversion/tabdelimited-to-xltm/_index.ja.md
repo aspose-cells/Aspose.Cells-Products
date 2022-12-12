@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してTABDELIMITEDをXLTMに変換します
-url: /ja/python-java/conversion/tabdelimited-to-xltm/
+
 description: tabdelimitedからxltmPythonへの変換のサンプルコード。 Pythonアプリケーション内でタブ区切りファイルをxltmに変換するには、APIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

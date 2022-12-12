@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi XLSX ke XLSB melalui Python
-url: /id/python-java/conversion/xlsx-to-xlsb/
+
 description: Contoh kode untuk konversi xlsx ke xlsb Python. Gunakan API kode contoh untuk file batch xlsx ke konversi xlsb dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

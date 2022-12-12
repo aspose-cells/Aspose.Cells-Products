@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer CSV naar SVG via Java 
 weight: 9790
-url: /nl/java/conversion/csv-to-svg/ 
+
 description: Voorbeeld Java conversiecode voor CSV-indeling naar SVG-bestand. Programmeurs kunnen deze voorbeeldcode gebruiken om Excel- en OpenOffice-spreadsheets naar SVG te exporteren binnen elke web- of desktoptoepassing Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

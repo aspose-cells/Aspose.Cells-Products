@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla SXC'yi TSV'ye dönüştürün
-url: /tr/net/conversion/sxc-to-tsv/
+
 description: sxc'den tsv'ye C# dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu sxc dosyalarını tsv'ye dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

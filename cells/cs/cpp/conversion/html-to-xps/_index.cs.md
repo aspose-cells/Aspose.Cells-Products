@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převeďte HTML na XPS pomocí aplikace C++ 
 weight: 1420
-url: /cs/cpp/conversion/html-to-xps/ 
+
 description: Ukázka převodního kódu C++ pro dokument HTML na formát XPS. Programátoři mohou použít tento zdrojový kód pro dávkový převod HTML na XPS v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

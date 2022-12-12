@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TSV na XML prostřednictvím Java 
-url: /cs/java/conversion/tsv-to-xml/ 
+
 description: Ukázka převodního kódu Java pro formát TSV na soubor XML. Programátoři mohou tento příklad kódu použít k exportu tabulek Excelu a OpenOffice do XML v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

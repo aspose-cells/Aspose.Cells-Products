@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してXLSMドキュメントのロックを解除します 
 weight: 7700
-url: /ja/java/unlock/xlsm/ 
+
 description: Java JSP/JSFアプリケーションおよびデスクトップアプリケーションのランタイム環境でパスワードで保護されたXLSMファイルのロックを解除するためのサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

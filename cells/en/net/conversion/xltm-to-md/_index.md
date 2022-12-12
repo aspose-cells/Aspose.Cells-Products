@@ -1,6 +1,6 @@
 ---
 title: Convert XLTM to MD via C#
-url: /net/conversion/xltm-to-md/
+
 description: Convert XLTM to MD format in C# code. Save XLTM as MD using VB.NET, Asp.NET or any .NET based application.
 ---
 

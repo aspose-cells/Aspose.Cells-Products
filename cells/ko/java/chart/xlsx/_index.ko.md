@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java을 통한 XLSX 문서 차트 
 weight: 5380
-url: /ko/java/chart/xlsx/ 
+
 description: Java JSP/JSF 애플리케이션 및 데스크톱 애플리케이션용 런타임 환경의 Java XLSX 파일에 차트 또는 다이어그램을 그리고 변환하는 샘플 코드.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

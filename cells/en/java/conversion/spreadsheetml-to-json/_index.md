@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to JSON via Java 
-url: /java/conversion/spreadsheetml-to-json/
+
 description: Convert SPREADSHEETML to JSON format in Java code. Save SPREADSHEETML as JSON using Java.
 ---
 

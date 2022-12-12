@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to XML via Java 
-url: /java/conversion/csv-to-xml/
+
 description: Convert CSV to XML format in Java code. Save CSV as XML using Java.
 ---
 

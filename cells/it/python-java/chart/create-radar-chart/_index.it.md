@@ -1,6 +1,6 @@
-﻿---
+---
 title: Crea grafici radar tramite Python
-url: /it/python-java/create-radar-chart/
+
 description: Python Codice di esempio per la creazione di grafici radar in Excel utilizzando Python Libreria. Utilizzare questo codice per creare un grafico radar in MS Excel all'interno di un'applicazione basata su Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLSM-Dokument über Java schützen und sperren 
 weight: 9620
-url: /de/java/protect/xlsm/ 
+
 description: Java Beispielcode zum Sperren der XLSM-Datei mithilfe des Kennworts in Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

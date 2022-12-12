@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla XLSX'i MARKDOWN'a dönüştürün
-url: /tr/net/conversion/xlsx-to-markdown/
+
 description: C# dönüşümünü azaltmak için xlsx için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde dönüştürmeyi işaretlemek için toplu xlsx dosyaları için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to TABDELIMITED via Java 
-url: /java/conversion/numbers-to-tabdelimited/
+
 description: Convert NUMBERS to TABDELIMITED format in Java code. Save NUMBERS as TABDELIMITED using Java.
 ---
 

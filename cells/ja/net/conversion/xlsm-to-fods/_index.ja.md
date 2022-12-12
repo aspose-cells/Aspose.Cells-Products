@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してXLSMをFODSに変換します
-url: /ja/net/conversion/xlsm-to-fods/
+
 description: xlsmからfodsC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチxlsmファイルからfodsへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

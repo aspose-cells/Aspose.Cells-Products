@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to XLS via C++
-url: /cpp/conversion/fods-to-xls/
+
 description: Convert FODS to XLS format in C++ code. Save FODS as XLS using C++.
 ---
 

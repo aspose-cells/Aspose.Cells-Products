@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést MHTML na MARKDOWN prostřednictvím Java 
-url: /cs/java/conversion/mhtml-to-markdown/ 
+
 description: Ukázka převodního kódu Java pro formát MHTML na soubor MARKDOWN. Programátoři mohou tento příklad kódu použít k exportu tabulek Excelu a OpenOffice do MARKDOWN v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

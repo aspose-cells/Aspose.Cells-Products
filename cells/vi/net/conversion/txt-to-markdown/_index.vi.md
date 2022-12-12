@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi TXT thành MARKDOWN qua C#
-url: /vi/net/conversion/txt-to-markdown/
+
 description: Mã mẫu cho chuyển đổi txt sang đánh dấu C#. Sử dụng API mã mẫu cho các tệp txt hàng loạt để đánh dấu chuyển đổi trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

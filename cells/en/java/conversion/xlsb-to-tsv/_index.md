@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to TSV via Java 
-url: /java/conversion/xlsb-to-tsv/
+
 description: Convert XLSB to TSV format in Java code. Save XLSB as TSV using Java.
 ---
 

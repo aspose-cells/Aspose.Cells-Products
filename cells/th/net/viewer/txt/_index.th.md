@@ -1,7 +1,7 @@
-﻿---
+---
 title: ดูรูปแบบไฟล์ TXT ผ่าน .NET 
 weight: 8300
-url: /th/net/viewer/txt/ 
+
 description: C# ซอร์สโค้ดเพื่อโหลด แสดงผล และแสดงเอกสาร TXT บน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

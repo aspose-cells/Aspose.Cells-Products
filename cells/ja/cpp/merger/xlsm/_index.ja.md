@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++を介してXLSMファイルをマージします 
-url: /ja/cpp/merger/xlsm/ 
+
 description: C++ Windows 32ビット、Windows 64ビット、およびLinux64ビットのランタイム環境でXLSMドキュメントを組み合わせるためのサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

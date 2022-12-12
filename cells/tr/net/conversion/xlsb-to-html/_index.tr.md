@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla XLSB'yi HTML'ye dönüştürün
-url: /tr/net/conversion/xlsb-to-html/
+
 description: xlsb'den html'ye C# dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu xlsb dosyalarını html'ye dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET aracılığıyla XLS Dosyaları Meta Verilerini Görüntüleyin veya Düzenleyin 
 weight: 1410
-url: /tr/net/metadata/xls/ 
+
 description: .NET Framework, .NET Core, Mono veya Xamarin Platformlarında XLS biçimi meta verilerini düzenlemek veya görüntülemek için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

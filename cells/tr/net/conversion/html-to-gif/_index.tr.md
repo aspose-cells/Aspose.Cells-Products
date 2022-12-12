@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla HTML'yi GIF'e dönüştürün
-url: /tr/net/conversion/html-to-gif/
+
 description: Html'den gif'e C# dönüşümü için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde gif dönüştürme için toplu html dosyaları için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

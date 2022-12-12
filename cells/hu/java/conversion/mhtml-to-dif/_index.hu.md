@@ -1,7 +1,7 @@
-﻿---
+---
 title: "MHTML konvertálása DIF-re a következőn keresztül: Java "
 weight: 9920
-url: /hu/java/conversion/mhtml-to-dif/ 
+
 description: Minta Java konverziós kód MHTML formátumhoz DIF fájlba. A programozók ezt a példakódot használhatják Excel- és OpenOffice-táblázatok exportálására DIF-be bármely web- vagy asztali Java-alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

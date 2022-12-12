@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést NUMBERS do PDF přes Java 
-url: /cs/java/conversion/numbers-to-pdf/ 
+
 description: Ukázka převodního kódu Java pro soubor ve formátu NUMBERS na soubor PDF. Programátoři mohou použít tento příklad kódu k exportu tabulek Excelu a OpenOffice do PDF v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

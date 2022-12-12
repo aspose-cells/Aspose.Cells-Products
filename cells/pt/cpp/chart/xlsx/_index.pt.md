@@ -1,7 +1,7 @@
-﻿---
+---
 title: Gráfico de documento XLSX via C++ 
 weight: 750
-url: /pt/cpp/chart/xlsx/ 
+
 description: C++ código de exemplo para desenhar e converter gráfico ou diagrama em arquivo XLSX no C++ Ambiente de tempo de execução para Windows de 32 bits, Windows de 64 bits e Linux de 64 bits.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi NUMBER ke DIF melalui Python
-url: /id/python-java/conversion/numbers-to-dif/
+
 description: Contoh kode angka untuk dif Python konversi. Gunakan API kode contoh untuk file nomor batch untuk mengubah konversi dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

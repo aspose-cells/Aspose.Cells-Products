@@ -1,6 +1,6 @@
-﻿---
+---
 title: "MHTML konvertálása JPG formátumba a következőn keresztül: Python"
-url: /hu/python-java/conversion/mhtml-to-jpg/
+
 description: Mintakód az mhtml-ből jpg-vé Python konvertáláshoz. Használjon API példakódot az mhtml fájlok kötegelt jpg konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

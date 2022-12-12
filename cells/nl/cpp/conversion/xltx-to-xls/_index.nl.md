@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLTX naar XLS via C++ applicatie 
-url: /nl/cpp/conversion/xltx-to-xls/ 
+
 description: Voorbeeld C++ conversiecode voor XLTX-document naar XLS-indeling. Programmeurs kunnen deze broncode gebruiken voor batch-conversie van XLTX naar XLS binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

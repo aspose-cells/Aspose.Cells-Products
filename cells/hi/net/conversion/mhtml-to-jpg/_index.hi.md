@@ -1,6 +1,6 @@
-﻿---
+---
 title: MHTML को C# के द्वारा JPG में बदलें
-url: /hi/net/conversion/mhtml-to-jpg/
+
 description: एमएचटीएमएल से जेपीजी C# रूपांतरण के लिए नमूना कोड। वीबी.NET, एएसपी.NET या किसी भी .NET आधारित एप्लिकेशन के भीतर बैच एमएचटीएमएल फाइलों के जेपीजी रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

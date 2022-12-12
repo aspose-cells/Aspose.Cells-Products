@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TXT na XLSX přes Python
-url: /cs/python-java/conversion/txt-to-xlsx/
+
 description: Ukázkový kód pro převod txt na xlsx Python. Použijte API ukázkový kód pro dávkový převod souborů txt na xlsx v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

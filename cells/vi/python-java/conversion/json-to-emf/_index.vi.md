@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi JSON sang EMF qua Python
-url: /vi/python-java/conversion/json-to-emf/
+
 description: Mã mẫu cho chuyển đổi json thành emf Python. Sử dụng mã ví dụ API cho các tệp json hàng loạt để chuyển đổi emf trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

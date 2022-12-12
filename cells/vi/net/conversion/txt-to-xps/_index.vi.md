@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi TXT sang XPS qua C#
-url: /vi/net/conversion/txt-to-xps/
+
 description: Mã mẫu cho chuyển đổi txt sang xps C#. Sử dụng API mã ví dụ cho chuyển đổi hàng loạt tệp txt sang xps trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title:  Biểu đồ tài liệu ODS sang hình ảnh qua .NET 
 weight: 4360
-url: /vi/net/chart/ods/ 
+
 description: C# mã nguồn để vẽ và chuyển đổi biểu đồ hoặc sơ đồ trong tệp ODS trên Nền tảng .NET Framework, .NET Core Mono hoặc Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Создание файлов MS Excel XLTM с помощью Java 
-url: /ru/java/create-xltm/ 
+
 description: Java Пример кода для создания документов XLTM. Используйте этот код для создания файлов MS Excel XLTM в настольном или веб-приложении на основе Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

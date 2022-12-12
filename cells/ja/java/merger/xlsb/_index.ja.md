@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してXLSBファイルをマージします 
 weight: 4840
-url: /ja/java/merger/xlsb/ 
+
 description: Java JSP/JSFアプリケーションとデスクトップアプリケーションのランタイム環境でXLSBドキュメントを組み合わせるためのサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Vytvořit soubory TSV prostřednictvím C# 
-url: /cs/net/create-tsv/ 
+
 description: C# Ukázkový kód pro generování dokumentů TSV. Tento kód použijte k vytváření souborů TSV v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

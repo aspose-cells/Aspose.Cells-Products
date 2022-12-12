@@ -1,6 +1,6 @@
-﻿---
+---
 title: "NUMBERS konvertálása EMF-re a következőn keresztül: Java "
-url: /hu/java/conversion/numbers-to-emf/ 
+
 description: Minta Java konverziós kód NUMBERS formátumhoz EMF-fájllá. A programozók ezt a példakódot használhatják Excel és OpenOffice táblázatok exportálására EMF-be bármely web- vagy asztali Java alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

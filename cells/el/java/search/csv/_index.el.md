@@ -1,7 +1,7 @@
-﻿---
+---
 title: Αναζήτηση εγγράφου CSV χωρίς άνοιγμα μέσω Java 
 weight: 390
-url: /el/java/search/csv/ 
+
 description: Java δείγμα κώδικα για αναζήτηση λέξεων με μοτίβο σε αρχείο CSV στο Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

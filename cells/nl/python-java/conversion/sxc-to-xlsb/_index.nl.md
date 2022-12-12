@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer SXC naar XLSB via Python
-url: /nl/python-java/conversion/sxc-to-xlsb/
+
 description: Voorbeeldcode voor conversie van sxc naar xlsb Python. Gebruik API voorbeeldcode voor batch-sxc-bestanden naar xlsb-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

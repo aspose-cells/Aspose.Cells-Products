@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 C# 將 EXCEL 轉換為 POWERPOINT
-url: /zh-hant/net/conversion/excel-to-powerpoint/
+
 description: excel 到 powerpoint C# 轉換的示例代碼。使用 API 示例代碼在 VB.NET、Asp.NET 或任何基於 .NET 的應用程序中將批量 excel 文件轉換為 powerpoint。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

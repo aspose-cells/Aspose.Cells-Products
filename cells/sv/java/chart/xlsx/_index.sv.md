@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLSX dokumentdiagram via Java 
 weight: 5380
-url: /sv/java/chart/xlsx/ 
+
 description: Java exempelkod för att rita och konvertera diagram eller diagram i XLSX-fil i Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

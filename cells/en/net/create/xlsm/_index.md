@@ -1,6 +1,6 @@
 ---
 title: Create MS Excel XLSM Files via C# 
-url: /net/create-xlsm/ 
+
 description: Create XLSM files in C# code. Generate MS Excel XLSM files using VB.NET, Asp.NET or any .NET based application.
 ---
 

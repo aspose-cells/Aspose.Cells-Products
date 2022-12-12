@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ uygulaması aracılığıyla TSV'yi DIF'ye dönüştürün 
 weight: 2350
-url: /tr/cpp/conversion/tsv-to-dif/ 
+
 description: TSV belgesi için DIF biçimine örnek C++ dönüştürme kodu. Programcılar, herhangi bir C++ Uygulamasında toplu TSV'den DIF'ye dönüştürme için bu kaynak kodunu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

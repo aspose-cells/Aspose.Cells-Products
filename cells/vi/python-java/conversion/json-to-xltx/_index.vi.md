@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi JSON sang XLTX qua Python
-url: /vi/python-java/conversion/json-to-xltx/
+
 description: Mã mẫu cho chuyển đổi json sang xltx Python. Sử dụng mã mẫu API cho hàng loạt tệp json sang chuyển đổi xltx trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

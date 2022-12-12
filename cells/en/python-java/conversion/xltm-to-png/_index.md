@@ -1,6 +1,6 @@
 ---
 title: Convert XLTM to PNG via Python
-url: /python-java/conversion/xltm-to-png/
+
 description: Convert XLTM to PNG format in Python code. Save XLTM as PNG using Python.
 ---
 

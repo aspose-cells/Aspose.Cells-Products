@@ -1,6 +1,6 @@
-﻿---
+---
 title: Ubah NUMBER ke BMP melalui Python
-url: /id/python-java/conversion/numbers-to-bmp/
+
 description: Contoh kode untuk angka ke bmp Python konversi. Gunakan API kode contoh untuk file nomor batch ke konversi bmp dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

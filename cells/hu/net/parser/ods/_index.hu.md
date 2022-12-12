@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Szöveg és képek kinyerése az ODS-dokumentumból a következőn keresztül: .NET "
 weight: 6970
-url: /hu/net/parser/ods/ 
+
 description: C# forráskód szövegek és képek kinyeréséhez az ODS-fájlból .NET Framework, .NET Core, Mono vagy Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to XLSB via C++
-url: /cpp/conversion/tabdelimited-to-xlsb/
+
 description: Convert TABDELIMITED to XLSB format in C++ code. Save TABDELIMITED as XLSB using C++.
 ---
 

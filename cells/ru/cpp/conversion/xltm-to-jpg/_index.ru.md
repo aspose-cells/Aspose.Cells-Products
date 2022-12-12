@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLTM в JPG с помощью приложения C++ 
-url: /ru/cpp/conversion/xltm-to-jpg/ 
+
 description: Пример кода преобразования C++ для документа XLTM в формат JPG. Программисты могут использовать этот исходный код для пакетного преобразования XLTM в JPG в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

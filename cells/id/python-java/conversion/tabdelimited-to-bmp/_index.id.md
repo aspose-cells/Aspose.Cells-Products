@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi TABDELIMITED ke BMP melalui Python
-url: /id/python-java/conversion/tabdelimited-to-bmp/
+
 description: Contoh kode untuk konversi tabdelimited ke bmp Python. Gunakan API kode contoh untuk berkas tabdelimited batch ke konversi bmp dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

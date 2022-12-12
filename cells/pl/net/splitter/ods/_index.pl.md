@@ -1,7 +1,7 @@
-﻿---
+---
 title: Podziel pliki ODS przez .NET 
 weight: 140
-url: /pl/net/splitter/ods/ 
+
 description: C# kod źródłowy do dzielenia dokumentów ODS na platformach .NET Framework, .NET Core, Mono lub Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

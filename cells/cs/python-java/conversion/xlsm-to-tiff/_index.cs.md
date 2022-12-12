@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLSM na TIFF přes Python
-url: /cs/python-java/conversion/xlsm-to-tiff/
+
 description: Ukázkový kód pro převod xlsm na tiff Python. Použijte API ukázkový kód pro dávkové soubory xlsm pro převod tiff v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

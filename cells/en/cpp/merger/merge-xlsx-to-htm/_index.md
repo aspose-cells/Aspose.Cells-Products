@@ -1,6 +1,6 @@
 ---
 title: Merge XLSX to HTM Files via C++ 
-url: /cpp/merger/merge-xlsx-to-htm/ 
+
 description: Merge XLSX to HTM file in C++ code. Combine XLSX to HTM file using C++.
 ---
 

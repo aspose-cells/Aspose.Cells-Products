@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLSB na ODS přes C#
-url: /cs/net/conversion/xlsb-to-ods/
+
 description: Ukázkový kód pro převod xlsb na ods C#. Použijte API ukázkový kód pro dávkový převod souborů xlsb na ODS v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

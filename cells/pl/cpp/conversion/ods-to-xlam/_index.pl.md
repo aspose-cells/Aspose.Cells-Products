@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj ODS na XLAM za pomocą aplikacji C++ 
-url: /pl/cpp/conversion/ods-to-xlam/ 
+
 description: Przykładowy kod konwersji C++ dla dokumentu ODS do formatu XLAM. Programiści mogą używać tego kodu źródłowego do wsadowej konwersji ODS na XLAM w dowolnej aplikacji C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

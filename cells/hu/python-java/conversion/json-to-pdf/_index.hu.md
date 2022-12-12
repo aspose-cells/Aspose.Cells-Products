@@ -1,6 +1,6 @@
-﻿---
+---
 title: "JSON konvertálása PDF-be a következőn keresztül: Python"
-url: /hu/python-java/conversion/json-to-pdf/
+
 description: Mintakód a json–pdf Python átalakításhoz. Használjon API példakódot a JSON-fájlok kötegelt pdf-té konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

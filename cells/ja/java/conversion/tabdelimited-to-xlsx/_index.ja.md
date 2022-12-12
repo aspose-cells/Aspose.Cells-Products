@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してTABDELIMITEDをXLSXに変換します 
-url: /ja/java/conversion/tabdelimited-to-xlsx/ 
+
 description: TABDELIMITED形式のXLSXファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、WebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをXLSXにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

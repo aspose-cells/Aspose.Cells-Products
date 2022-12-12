@@ -1,6 +1,6 @@
-﻿---
+---
 title: Δημιουργία αρχείων MS Excel XLSB μέσω C# 
-url: /el/net/create-xlsb/ 
+
 description: C# Δείγμα κώδικα για τη δημιουργία εγγράφων XLSB. Χρησιμοποιήστε αυτόν τον κώδικα για τη δημιουργία αρχείων MS Excel XLSB σε VB.NET, Asp.NET ή οποιαδήποτε εφαρμογή που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

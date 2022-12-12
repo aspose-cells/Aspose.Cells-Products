@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to WORD via Python
-url: /python-java/conversion/xltx-to-word/
+
 description: Convert XLTX to WORD format in Python code. Save XLTX as WORD using Python.
 ---
 

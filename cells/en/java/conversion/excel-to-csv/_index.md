@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to CSV via Java 
-url: /java/conversion/excel-to-csv/
+
 description: Convert EXCEL to CSV format in Java code. Save EXCEL as CSV using Java.
 ---
 

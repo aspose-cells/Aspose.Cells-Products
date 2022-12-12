@@ -1,7 +1,7 @@
-﻿---
+---
 title: Rechercher et remplacer du texte dans un document XLSM via .NET 
 weight: 2370
-url: /fr/net/redaction/xlsm/ 
+
 description: Code source C# pour masquer les informations sensibles dans le fichier XLSM sur .NET Framework, .NET Core, Mono ou Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

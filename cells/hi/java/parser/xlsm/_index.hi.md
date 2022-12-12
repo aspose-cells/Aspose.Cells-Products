@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLSM दस्तावेज़ से Java के माध्यम से टेक्स्ट और चित्र निकालें 
 weight: 3260
-url: /hi/java/parser/xlsm/ 
+
 description: Java JSP/JSF एप्लिकेशन और डेस्कटॉप एप्लिकेशन के लिए रनटाइम परिवेश पर XLSM फ़ाइल से टेक्स्ट और छवियों को निकालने के लिए Java नमूना कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

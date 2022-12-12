@@ -1,6 +1,6 @@
-﻿---
+---
 title: TXT konvertálása GIF formátumba a C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/txt-to-gif/ 
+
 description: Minta C++ konverziós kód TXT-dokumentumhoz GIF formátumba. A programozók ezt a forráskódot használhatják TXT-ből GIF-be kötegelt konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

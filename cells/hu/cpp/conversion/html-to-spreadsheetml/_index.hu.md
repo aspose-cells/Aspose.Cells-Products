@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja a HTML-t SPREADSHEETML-be a(z) C++ alkalmazással 
-url: /hu/cpp/conversion/html-to-spreadsheetml/ 
+
 description: Minta C++ konverziós kód HTML-dokumentumhoz SPREADSHEETML formátumba. A programozók ezt a forráskódot használhatják kötegelt HTML-ből SPREADSHEETML-be konvertálásához bármely C++ alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

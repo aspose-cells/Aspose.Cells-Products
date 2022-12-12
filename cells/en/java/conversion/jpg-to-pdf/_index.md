@@ -1,6 +1,6 @@
 ---
 title: Convert JPG to PDF via Java 
-url: /java/conversion/jpg-to-pdf/
+
 description: Convert JPG to PDF format in Java code. Save JPG as PDF using Java.
 ---
 

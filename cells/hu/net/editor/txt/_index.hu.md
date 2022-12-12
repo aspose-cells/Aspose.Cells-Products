@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TXT-fájlok szerkesztése a következőn keresztül: .NET "
-url: /hu/net/editor/txt/ 
+
 description: C# forráskód a TXT-dokumentum szerkesztéséhez .NET Framework, .NET Core, Windows Azure, Mono vagy Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

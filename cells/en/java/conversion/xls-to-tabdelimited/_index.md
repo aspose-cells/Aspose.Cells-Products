@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to TABDELIMITED via Java 
-url: /java/conversion/xls-to-tabdelimited/
+
 description: Convert XLS to TABDELIMITED format in Java code. Save XLS as TABDELIMITED using Java.
 ---
 

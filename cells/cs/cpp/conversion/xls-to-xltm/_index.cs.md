@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převeďte XLS na XLTM pomocí aplikace C++ 
 weight: 2890
-url: /cs/cpp/conversion/xls-to-xltm/ 
+
 description: Ukázkový konverzní kód C++ pro dokument XLS na formát XLTM. Programátoři mohou použít tento zdrojový kód pro dávkovou konverzi XLS na XLTM v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

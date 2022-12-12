@@ -1,7 +1,7 @@
-﻿---
+---
 title: ExcelスプレッドシートPHPAPI-Aspose 
 weight: 3660
-url: /ja/php-java/ 
+
 description: XLS XLSX CSV TSVHTMLODSスプレッドシートMLおよびすべてのExcel97-2016形式の読み取り/書き込みおよび変換を行うPHPExcelスプレッドシートAPI。スプレッドシートを複数の形式にエクスポートする
 ---
 {{< blocks/products/pf/main-wrap-class >}}

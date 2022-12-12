@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla TXT'yi PNG'ye dönüştürün
-url: /tr/python-java/conversion/txt-to-png/
+
 description: txt'den png'ye Python dönüştürme için örnek kod. Python uygulamasında toplu txt dosyalarını png'ye dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

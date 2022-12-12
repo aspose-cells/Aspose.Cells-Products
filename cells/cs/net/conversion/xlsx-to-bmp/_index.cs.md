@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLSX na BMP přes C#
-url: /cs/net/conversion/xlsx-to-bmp/
+
 description: Ukázkový kód pro převod xlsx na bmp C#. Použijte API ukázkový kód pro dávkový převod souborů xlsx na bmp v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

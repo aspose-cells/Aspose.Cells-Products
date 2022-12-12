@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converter XLSM para MHTML via Java 
 weight: 290
-url: /pt/java/conversion/xlsm-to-mhtml/ 
+
 description: Exemplo de código de conversão Java para formato XLSM para arquivo MHTML. Os programadores podem usar este código de exemplo para exportar planilhas do Excel e OpenOffice para MHTML em qualquer aplicativo baseado na Web ou Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

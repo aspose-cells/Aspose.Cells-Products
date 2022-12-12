@@ -1,6 +1,6 @@
-﻿---
+---
 title: XLSM को Python के माध्यम से FODS में बदलें
-url: /hi/python-java/conversion/xlsm-to-fods/
+
 description: xlsm से fods Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन में बैच xlsm फ़ाइलों को फ़ॉड्स रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

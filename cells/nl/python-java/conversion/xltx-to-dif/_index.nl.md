@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLTX naar DIF via Python
-url: /nl/python-java/conversion/xltx-to-dif/
+
 description: Voorbeeldcode voor xltx naar dif Python-conversie. Gebruik API voorbeeldcode voor batch xltx-bestanden voor dif-conversie binnen Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

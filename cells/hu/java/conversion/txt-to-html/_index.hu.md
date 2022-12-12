@@ -1,7 +1,7 @@
-﻿---
+---
 title: "TXT konvertálása HTML-vé a következőn keresztül: Java "
 weight: 9800
-url: /hu/java/conversion/txt-to-html/ 
+
 description: Minta Java konverziós kód a TXT formátumhoz HTML fájlba. A programozók ezt a példakódot használhatják Excel és OpenOffice táblázatok exportálására HTML formátumba bármely web- vagy asztali Java alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

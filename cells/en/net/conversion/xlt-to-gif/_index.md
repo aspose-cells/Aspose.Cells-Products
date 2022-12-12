@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to GIF via C#
-url: /net/conversion/xlt-to-gif/
+
 description: Convert XLT to GIF format in C# code. Save XLT as GIF using VB.NET, Asp.NET or any .NET based application.
 ---
 

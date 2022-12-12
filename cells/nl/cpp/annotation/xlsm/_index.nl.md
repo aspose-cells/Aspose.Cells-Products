@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLSM-annotatie toevoegen via C++ 
 weight: 2860
-url: /nl/cpp/annotation/xlsm/ 
+
 description: C++ voorbeeldcode voor het verwijderen van annotaties in XLSM-indeling op C++ Runtime Environment voor Windows 32 bit, Windows 64 bit en Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

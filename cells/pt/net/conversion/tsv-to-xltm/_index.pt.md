@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter TSV para XLTM via C#
-url: /pt/net/conversion/tsv-to-xltm/
+
 description: Código de amostra para conversão de tsv para xltm C#. Use API código de exemplo para arquivos tsv em lote para conversão xltm em VB.NET, Asp.NET ou qualquer aplicativo baseado em .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera NUMBERS till TSV via C#
-url: /sv/net/conversion/numbers-to-tsv/
+
 description: Exempelkod för siffror till tsv C#-konvertering. Använd API exempelkod för batchnummerfiler till tsv-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

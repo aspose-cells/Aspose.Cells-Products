@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to JSON via C++
-url: /cpp/conversion/xltx-to-json/
+
 description: Convert XLTX to JSON format in C++ code. Save XLTX as JSON using C++.
 ---
 

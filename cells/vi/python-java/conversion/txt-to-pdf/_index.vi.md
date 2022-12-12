@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi TXT sang PDF qua Python
-url: /vi/python-java/conversion/txt-to-pdf/
+
 description: Mã mẫu cho chuyển đổi txt sang pdf Python. Sử dụng API mã ví dụ cho chuyển đổi hàng loạt tệp txt sang pdf trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java aracılığıyla ODS Dosyalarında Raporlar Oluşturun 
 weight: 2440
-url: /tr/java/assembly/ods/ 
+
 description: JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Runtime Environment'da ODS biçiminde raporlar oluşturmak için Java örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

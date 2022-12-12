@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést HTML na XLAM přes Python
-url: /cs/python-java/conversion/html-to-xlam/
+
 description: Ukázkový kód pro konverzi html na xlam Python. Použijte API ukázkový kód pro dávkové html soubory ke konverzi xlam v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

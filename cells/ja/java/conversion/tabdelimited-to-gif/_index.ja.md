@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してTABDELIMITEDをGIFに変換します 
-url: /ja/java/conversion/tabdelimited-to-gif/ 
+
 description: TABDELIMITED形式のGIFファイルへのJava変換コードのサンプル。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のGIFにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

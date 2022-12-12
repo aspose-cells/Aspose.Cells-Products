@@ -1,6 +1,6 @@
-﻿---
+---
 title: ODS'yi Python aracılığıyla JSON'a dönüştürün
-url: /tr/python-java/conversion/ods-to-json/
+
 description: ods'den json'a Python dönüşümü için örnek kod. Python uygulamasında toplu ods dosyalarını json'a dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

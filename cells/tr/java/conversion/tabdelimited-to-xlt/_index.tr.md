@@ -1,6 +1,6 @@
-﻿---
+---
 title: Java aracılığıyla TABDELIMITED'i XLT'ye dönüştürün 
-url: /tr/java/conversion/tabdelimited-to-xlt/ 
+
 description: TABDELIMITED biçimi için XLT dosyasına örnek Java dönüştürme kodu. Programcılar, Excel ve OpenOffice elektronik tablolarını herhangi bir Web veya Masaüstü Java tabanlı Uygulamada XLT'ye aktarmak için bu örnek kodu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

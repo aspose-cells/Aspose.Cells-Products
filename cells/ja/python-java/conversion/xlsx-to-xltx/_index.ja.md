@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してXLSXをXLTXに変換します
-url: /ja/python-java/conversion/xlsx-to-xltx/
+
 description: xlsxからxltxPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチxlsxファイルからxltxへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte TXT na XLTM pomocí aplikace C++ 
-url: /cs/cpp/conversion/txt-to-xltm/ 
+
 description: Ukázka převodního kódu C++ pro dokument TXT do formátu XLTM. Programátoři mohou použít tento zdrojový kód pro dávkový převod TXT na XLTM v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

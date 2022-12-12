@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++ aracılığıyla MS Excel XLT Dosyaları oluşturun 
-url: /tr/cpp/create-xlt/ 
+
 description: C++ MS Excel XLT dosyaları oluşturmak için örnek kod. C++ tabanlı uygulamada MS Excel XLT dosyaları oluşturmak için bu kodu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

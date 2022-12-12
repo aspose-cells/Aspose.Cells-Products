@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++ uygulaması aracılığıyla XLSX'i XLT'ye dönüştürün 
-url: /tr/cpp/conversion/xlsx-to-xlt/ 
+
 description: XLSX belgesi için XLT biçimine örnek C++ dönüştürme kodu. Programcılar, herhangi bir C++ Uygulamasında toplu XLSX'ten XLT'ye dönüştürme için bu kaynak kodunu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

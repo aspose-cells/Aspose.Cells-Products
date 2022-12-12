@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование NUMBERS в XLSX через Python
-url: /ru/python-java/conversion/numbers-to-xlsx/
+
 description: Пример кода для преобразования чисел в xlsx Python. Используйте пример кода API для преобразования файлов номеров пакетов в xlsx в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: البحث عن نص واستبداله في مستند XLS عبر .NET 
 weight: 7280
-url: /ar/net/redaction/xls/ 
+
 description: C# شفرة المصدر لتنقيح المعلومات الحساسة في ملف XLS على .NET Framework أو .NET Core أو Mono أو أنظمة Xamarin الأساسية.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

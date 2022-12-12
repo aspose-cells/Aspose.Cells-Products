@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi NUMBER ke XLAM melalui C#
-url: /id/net/conversion/numbers-to-xlam/
+
 description: Contoh kode angka ke xlam C# konversi. Gunakan API kode contoh untuk file nomor batch ke konversi xlam dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

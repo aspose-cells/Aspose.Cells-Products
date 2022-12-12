@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++アプリケーションを介してTSVをXMLに変換する 
-url: /ja/cpp/conversion/tsv-to-xml/ 
+
 description: TSVドキュメントからXML形式へのサンプルC++変換コード。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でTSVからXMLへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

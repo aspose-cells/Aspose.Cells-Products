@@ -1,7 +1,7 @@
 ---
 title: Unlock XLSB document via .NET 
 weight: 6410
-url: /net/unlock/xlsb/ 
+
 description: C# source code to unlock password protected XLSB file on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

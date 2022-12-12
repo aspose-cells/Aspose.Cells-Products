@@ -1,6 +1,6 @@
-﻿---
+---
 title: Crea file HTML tramite C++ 
-url: /it/cpp/create-html/ 
+
 description: C++ Codice di esempio per la generazione di file HTML. Usa questo codice per creare file HTML all'interno di un'applicazione basata su C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

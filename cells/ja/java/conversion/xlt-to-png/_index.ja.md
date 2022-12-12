@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してXLTをPNGに変換する 
 weight: 5150
-url: /ja/java/conversion/xlt-to-png/ 
+
 description: XLT形式からPNGファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、WebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをPNGにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

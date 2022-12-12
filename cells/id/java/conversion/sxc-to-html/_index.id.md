@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan SXC ke HTML melalui Java 
-url: /id/java/conversion/sxc-to-html/ 
+
 description: Contoh Java kode konversi untuk format SXC ke file HTML. Pemrogram dapat menggunakan kode contoh ini untuk mengekspor spreadsheet Excel & OpenOffice ke HTML dalam Aplikasi berbasis Web atau Desktop Java apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: دمج ملفات HTML عبر C++ 
-url: /ar/cpp/merger/html/ 
+
 description: C++ مثال على رمز لدمج مستندات HTML في C++ Runtime Environment لأنظمة Windows 32 بت و Windows 64 بت و Linux 64 بت.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

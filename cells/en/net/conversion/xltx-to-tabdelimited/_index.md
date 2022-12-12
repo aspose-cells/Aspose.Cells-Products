@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to TABDELIMITED via C#
-url: /net/conversion/xltx-to-tabdelimited/
+
 description: Convert XLTX to TABDELIMITED format in C# code. Save XLTX as TABDELIMITED using VB.NET, Asp.NET or any .NET based application.
 ---
 

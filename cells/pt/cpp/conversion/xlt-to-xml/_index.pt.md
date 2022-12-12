@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter XLT para XML por meio do aplicativo C++ 
-url: /pt/cpp/conversion/xlt-to-xml/ 
+
 description: Exemplo de código de conversão C++ de documento XLT para formato XML. Os programadores podem usar esse código-fonte para conversão em lote de XLT para XML em qualquer aplicativo C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

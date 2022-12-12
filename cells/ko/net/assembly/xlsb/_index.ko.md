@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET을(를) 통해 XLSB 파일로 보고서 생성 
 weight: 1690
-url: /ko/net/assembly/xlsb/ 
+
 description: C# 소스 코드를 사용하여 .NET Framework, .NET Core, Mono 또는 Xamarin Platforms에서 XLSB 형식 보고서를 생성합니다.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

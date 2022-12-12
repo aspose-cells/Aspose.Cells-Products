@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj NUMBERS na BMP przez Java 
-url: /pl/java/conversion/numbers-to-bmp/ 
+
 description: Przykładowy kod konwersji Java dla formatu NUMBERS do pliku BMP. Programiści mogą użyć tego przykładowego kodu, aby wyeksportować arkusze kalkulacyjne Excel i OpenOffice do BMP w dowolnej aplikacji internetowej lub desktopowej Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

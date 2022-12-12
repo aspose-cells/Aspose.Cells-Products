@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してFODSをTIFFに変換します
-url: /ja/python-java/conversion/fods-to-tiff/
+
 description: fodsからtiffPythonへの変換のサンプルコード。 Pythonアプリケーション内で変換をtiffするためのバッチfodファイルのAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

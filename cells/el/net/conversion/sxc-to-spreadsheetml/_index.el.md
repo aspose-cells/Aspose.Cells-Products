@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή SXC σε SPREADSHEETML μέσω C#
-url: /el/net/conversion/sxc-to-spreadsheetml/
+
 description: Δείγμα κώδικα για μετατροπή C# από sxc σε υπολογιστικό φύλλο. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία sxc για μετατροπή υπολογιστικών φύλλων σε VB.NET, Asp.NET ή οποιαδήποτε εφαρμογή που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

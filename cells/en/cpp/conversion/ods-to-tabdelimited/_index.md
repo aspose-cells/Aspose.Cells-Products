@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to TABDELIMITED via C++
-url: /cpp/conversion/ods-to-tabdelimited/
+
 description: Convert ODS to TABDELIMITED format in C++ code. Save ODS as TABDELIMITED using C++.
 ---
 

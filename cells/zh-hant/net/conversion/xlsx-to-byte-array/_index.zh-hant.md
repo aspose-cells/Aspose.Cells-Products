@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通過 C# 將 XLSX 轉換為字節數組 
 weight: 7690
-url: /zh-hant/net/conversion/xlsx-to-byte-array/ 
+
 description: C# XLSX 到字節數組轉換的示例代碼。使用此代碼在 VB.NET、Asp.NET 或任何基於 .NET 的應用程序中將 Excel XLSX 轉換為字節數組。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

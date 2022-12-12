@@ -1,6 +1,6 @@
-﻿---
+---
 title: Erstellen Sie MS Excel XLS-Dateien über C# 
-url: /de/net/create-xls/ 
+
 description: C# Beispielcode zum Generieren von XLS-Dokumenten. Verwenden Sie diesen Code zum Erstellen von MS Excel XLS-Dateien in VB.NET, Asp.NET oder einer beliebigen .NET-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TXT konvertálása SPREADSHEETML-be a következőn keresztül: Java "
-url: /hu/java/conversion/txt-to-spreadsheetml/ 
+
 description: Minta Java konverziós kód TXT formátumhoz SPREADSHEETML fájlba. A programozók ezt a példakódot használhatják Excel és OpenOffice táblázatok SPREADSHEETML formátumba exportálására bármely web- vagy asztali Java alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

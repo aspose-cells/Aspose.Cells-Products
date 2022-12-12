@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to PNG via Java 
-url: /java/conversion/xltx-to-png/
+
 description: Convert XLTX to PNG format in Java code. Save XLTX as PNG using Java.
 ---
 

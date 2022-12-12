@@ -1,6 +1,6 @@
-﻿---
+---
 title: Slå samman CSV-filer via C++ 
-url: /sv/cpp/merger/csv/ 
+
 description: C++ exempelkod för att kombinera CSV-dokument i C++ Runtime Environment för Windows 32-bitars, Windows 64-bitars och Linux 64-bitars.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

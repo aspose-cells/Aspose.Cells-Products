@@ -1,7 +1,7 @@
-﻿---
+---
 title: دمج ملفات HTML عبر Java 
 weight: 8830
-url: /ar/java/merger/html/ 
+
 description: Java نموذج كود لدمج مستندات HTML في Java Runtime Environment لتطبيق JSP / JSF وتطبيقات سطح المكتب.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

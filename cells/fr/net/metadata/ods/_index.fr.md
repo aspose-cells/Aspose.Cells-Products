@@ -1,7 +1,7 @@
-﻿---
+---
 title: Afficher ou modifier les métadonnées des fichiers ODS via .NET 
 weight: 320
-url: /fr/net/metadata/ods/ 
+
 description: Code source C# pour modifier ou afficher les métadonnées au format ODS sur .NET Framework, .NET Core, Mono ou Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

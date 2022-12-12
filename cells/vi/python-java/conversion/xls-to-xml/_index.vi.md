@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi XLS sang XML qua Python
-url: /vi/python-java/conversion/xls-to-xml/
+
 description: Mã mẫu cho chuyển đổi xls sang xml Python. Sử dụng mã mẫu API cho chuyển đổi hàng loạt tệp xls sang xml trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

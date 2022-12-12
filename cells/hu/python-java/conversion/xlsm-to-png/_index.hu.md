@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLSM konvertálása PNG-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/xlsm-to-png/
+
 description: Mintakód az xlsm-ből png-be Python konverzióhoz. Használjon API példakódot a kötegelt xlsm fájlok png konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter NUMBERS para XLTM via Python
-url: /pt/python-java/conversion/numbers-to-xltm/
+
 description: Código de amostra para conversão de números para xltm Python. Use o código de exemplo API para arquivos de números de lote para conversão xltm no aplicativo Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

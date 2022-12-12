@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TSV konvertálása FODS-re a következőn keresztül: C#"
-url: /hu/net/conversion/tsv-to-fods/
+
 description: Mintakód a tsv to fods C# konverziójához. Használjon API példakódot a tsv fájlok kötegelt konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

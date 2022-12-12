@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή TABDELIMITED σε GIF μέσω C#
-url: /el/net/conversion/tabdelimited-to-gif/
+
 description: Δείγμα κώδικα για μετατροπή οριοθετημένης καρτέλας σε gif C#. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία οριοθετημένα στηλοθέτες για μετατροπή gif εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

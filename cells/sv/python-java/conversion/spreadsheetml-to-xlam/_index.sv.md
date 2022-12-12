@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera SPREADSHEETML till XLAM via Python
-url: /sv/python-java/conversion/spreadsheetml-to-xlam/
+
 description: Exempelkod för konvertering från kalkylarkml till xlam Python. Använd API exempelkod för batch-kalkylarkml-filer till xlam-konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

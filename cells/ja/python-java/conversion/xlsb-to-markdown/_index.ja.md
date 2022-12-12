@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してXLSBをMARKDOWNに変換します
-url: /ja/python-java/conversion/xlsb-to-markdown/
+
 description: xlsbからマークダウンPythonへの変換のサンプルコード。バッチxlsbファイルのAPIサンプルコードを使用して、Pythonアプリケーション内で変換をマークダウンします。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

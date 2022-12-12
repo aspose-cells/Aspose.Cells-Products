@@ -1,6 +1,6 @@
-﻿---
+---
 title: Créer des fichiers MS Excel XLSX via Java 
-url: /fr/java/create-xlsx/ 
+
 description: Java Exemple de code pour générer des documents XLSX. Utilisez ce code pour créer des fichiers MS Excel XLSX dans une application Web ou de bureau basée sur Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

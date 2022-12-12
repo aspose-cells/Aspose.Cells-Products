@@ -1,6 +1,6 @@
-﻿---
+---
 title: "3D vonaldiagramok létrehozása a következőn keresztül: C#"
-url: /hu/net/create-line3d-chart/
+
 description: C# Mintakód 3D vonaldiagramok készítéséhez Excelben a .NET Library használatával. Ezzel a kóddal 3D vonaldiagramot hozhat létre MS Excelben VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

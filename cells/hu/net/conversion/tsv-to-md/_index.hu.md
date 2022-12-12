@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TSV konvertálása MD-vé a következőn keresztül: C#"
-url: /hu/net/conversion/tsv-to-md/
+
 description: Mintakód a tsv–md C# konverzióhoz. Használjon API példakódot a tsv fájlok kötegelt md konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazásban.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

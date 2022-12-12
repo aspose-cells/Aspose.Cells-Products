@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést TXT na PNG přes Java 
 weight: 7580
-url: /cs/java/conversion/txt-to-png/ 
+
 description: Ukázkový konverzní kód Java pro soubor ve formátu TXT na PNG. Programátoři mohou tento příklad kódu použít k exportu tabulek Excelu a OpenOffice do formátu PNG v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

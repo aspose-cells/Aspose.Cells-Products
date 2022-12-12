@@ -1,7 +1,7 @@
-﻿---
+---
 title: Python Excel-spreadsheet API - Aspose 
 weight: 2820
-url: /nl/python/ 
+
 description: Python spreadsheetbibliotheek om Excel-bestanden voor lezen, schrijven en parseren te maken.
 ---
 {{< blocks/products/pf/main-wrap-class >}}

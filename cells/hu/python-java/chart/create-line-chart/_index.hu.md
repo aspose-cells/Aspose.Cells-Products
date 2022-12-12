@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Vonaldiagramok létrehozása a következőn keresztül: Python"
-url: /hu/python-java/create-line-chart/
+
 description: Python Mintakód vonaldiagramok készítéséhez Excelbe a Python Library használatával. Ezzel a kóddal vonaldiagramot hozhat létre MS Excelben a Python alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

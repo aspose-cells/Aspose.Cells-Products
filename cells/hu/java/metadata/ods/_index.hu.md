@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Szerkessze vagy tekintse meg az ODS-fájlok metaadatait a következőn keresztül: Java "
 weight: 2080
-url: /hu/java/metadata/ods/ 
+
 description: Java mintakód az ODS formátum metaadatainak szerkesztéséhez vagy megtekintéséhez a Java Futókörnyezetben JSP/JSF alkalmazásokhoz és asztali alkalmazásokhoz.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

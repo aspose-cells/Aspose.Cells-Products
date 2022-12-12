@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi JSON sang EXCEL qua C#
-url: /vi/net/conversion/json-to-excel/
+
 description: Mã mẫu cho chuyển đổi json sang excel C#. Sử dụng API mã ví dụ cho hàng loạt tệp json để chuyển đổi excel trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to JPEG via C++
-url: /cpp/conversion/html-to-jpeg/
+
 description: Convert HTML to JPEG format in C++ code. Save HTML as JPEG using C++.
 ---
 

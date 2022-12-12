@@ -1,6 +1,6 @@
-﻿---
+---
 title: Voeg een lijn toe in het diagram via C# 
-url: /nl/net/add-line-in-chart/ 
+
 description: C# Voorbeeldcode voor het toevoegen van een lijn in een diagram aan Excel met behulp van .NET Bibliotheek. Gebruik deze code om een lijn in een grafiek toe te voegen aan MS Excel binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

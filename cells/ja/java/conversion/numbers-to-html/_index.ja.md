@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してNUMBERSをHTMLに変換します 
-url: /ja/java/conversion/numbers-to-html/ 
+
 description: NUMBERS形式のHTMLファイルへのJava変換コードのサンプル。プログラマーは、このサンプルコードを使用して、WebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをHTMLにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

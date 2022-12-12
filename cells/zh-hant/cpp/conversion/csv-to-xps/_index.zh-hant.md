@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通過 C++ 應用程序將 CSV 轉換為 XPS 
 weight: 3170
-url: /zh-hant/cpp/conversion/csv-to-xps/ 
+
 description: CSV 文檔到 XPS 格式的示例 C++ 轉換代碼。程序員可以使用此源代碼在任何 C++ 應用程序中將 CSV 批量轉換為 XPS。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

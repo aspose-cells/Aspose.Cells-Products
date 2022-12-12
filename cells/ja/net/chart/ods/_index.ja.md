@@ -1,7 +1,7 @@
-﻿---
+---
 title:  .NET経由の画像へのODSドキュメントチャート 
 weight: 4360
-url: /ja/net/chart/ods/ 
+
 description: .NETフレームワーク、.NETコア、Mono、またはXamarinプラットフォーム上のODSファイルでチャートまたは図を描画および変換するためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

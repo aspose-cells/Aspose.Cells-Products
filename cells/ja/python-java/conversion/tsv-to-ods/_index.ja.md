@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してTSVをODSに変換します
-url: /ja/python-java/conversion/tsv-to-ods/
+
 description: tsvからodsPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチtsvファイルからodsへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

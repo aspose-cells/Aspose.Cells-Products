@@ -1,6 +1,6 @@
-﻿---
+---
 title: قم بتحويل XLT إلى XPS عبر تطبيق C++ 
-url: /ar/cpp/conversion/xlt-to-xps/ 
+
 description: نموذج رمز تحويل C++ لمستند XLT إلى تنسيق XPS. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل XLT إلى XPS دفعة داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

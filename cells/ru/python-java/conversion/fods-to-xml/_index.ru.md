@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование FODS в XML через Python
-url: /ru/python-java/conversion/fods-to-xml/
+
 description: Пример кода для преобразования fods в xml Python. Используйте пример кода API для пакетного преобразования файлов fods в xml в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

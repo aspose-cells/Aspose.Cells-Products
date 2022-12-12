@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLSB दस्तावेज़ को .NET के माध्यम से सुरक्षित और लॉक करें 
 weight: 5920
-url: /hi/net/protect/xlsb/ 
+
 description: .NET Framework, .NET Core, Mono या Xamarin प्लेटफॉर्म पर पासवर्ड का उपयोग करके XLSB फ़ाइल को लॉक करने के लिए C# स्रोत कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

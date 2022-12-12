@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLT إلى XML عبر Java 
-url: /ar/java/conversion/xlt-to-xml/ 
+
 description: نموذج Java رمز التحويل لتنسيق XLT إلى ملف XML. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel و OpenOffice إلى XML داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

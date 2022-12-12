@@ -1,7 +1,7 @@
-﻿---
+---
 title: Redigera eller visa metadata för XLS-filer via Java 
 weight: 730
-url: /sv/java/metadata/xls/ 
+
 description: Java exempelkod för att redigera eller visa XLS-formatmetadata i Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

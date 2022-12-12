@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést CSV na PNG prostřednictvím Java 
 weight: 7520
-url: /cs/java/conversion/csv-to-png/ 
+
 description: Ukázka převodního kódu Java pro formát CSV na soubor PNG. Programátoři mohou tento příklad kódu použít k exportu tabulek Excelu a OpenOffice do formátu PNG v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

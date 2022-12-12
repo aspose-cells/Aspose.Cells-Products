@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to XLTM via Python
-url: /python-java/conversion/html-to-xltm/
+
 description: Convert HTML to XLTM format in Python code. Save HTML as XLTM using Python.
 ---
 

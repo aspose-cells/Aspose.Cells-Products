@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převeďte HTML na XLTX pomocí aplikace C++ 
 weight: 230
-url: /cs/cpp/conversion/html-to-xltx/ 
+
 description: Ukázka převodního kódu C++ pro dokument HTML na formát XLTX. Programátoři mohou použít tento zdrojový kód pro dávkovou konverzi HTML na XLTX v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

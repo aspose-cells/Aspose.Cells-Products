@@ -1,6 +1,6 @@
-﻿---
+---
 title: "CSV konvertálása PDF-be a következőn keresztül: Python"
-url: /hu/python-java/conversion/csv-to-pdf/
+
 description: Mintakód a csv-ből pdf-be Python konvertáláshoz. Használjon API példakódot a csv-fájlok kötegelt PDF-be konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

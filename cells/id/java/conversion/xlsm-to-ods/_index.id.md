@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversi XLSM ke ODS melalui Java 
 weight: 2400
-url: /id/java/conversion/xlsm-to-ods/ 
+
 description: Contoh Java kode konversi untuk format XLSM ke file ODS. Pemrogram dapat menggunakan kode contoh ini untuk mengekspor spreadsheet Excel & OpenOffice ke ODS dalam Aplikasi berbasis Web atau Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

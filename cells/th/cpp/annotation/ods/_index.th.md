@@ -1,7 +1,7 @@
-﻿---
+---
 title: เพิ่มคำอธิบายประกอบ ODS ผ่าน C++ 
 weight: 8840
-url: /th/cpp/annotation/ods/ 
+
 description: C++ ตัวอย่างโค้ดสำหรับลบคำอธิบายประกอบรูปแบบ ODS บน C++ Runtime Environment สำหรับ Windows 32 บิต, Windows 64 บิต และ Linux 64 บิต
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

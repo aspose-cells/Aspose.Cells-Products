@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLSM दस्तावेज़ को .NET के माध्यम से सुरक्षित और लॉक करें 
 weight: 7530
-url: /hi/net/protect/xlsm/ 
+
 description: .NET Framework, .NET Core, Mono या Xamarin Platforms पर पासवर्ड का उपयोग करके XLSM फ़ाइल को लॉक करने के लिए C# स्रोत कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

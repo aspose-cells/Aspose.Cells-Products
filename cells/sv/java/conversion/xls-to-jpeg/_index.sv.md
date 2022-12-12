@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertera XLS till JPEG via Java 
 weight: 8280
-url: /sv/java/conversion/xls-to-jpeg/ 
+
 description: Exempel Java-konverteringskod för XLS-format till JPEG-fil. Programmerare kan använda den här exempelkoden för att exportera Excel- och OpenOffice-kalkylblad till JPEG inom alla webb- eller skrivbordsbaserade Java-applikationer.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

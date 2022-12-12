@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera XLSM till SXC via Java 
-url: /sv/java/conversion/xlsm-to-sxc/ 
+
 description: Exempel Java-konverteringskod för XLSM-format till SXC-fil. Programmerare kan använda den här exempelkoden för att exportera Excel- och OpenOffice-kalkylblad till SXC inom alla webb- eller skrivbordsbaserade Javaapplikationer.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

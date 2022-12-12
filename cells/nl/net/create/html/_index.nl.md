@@ -1,6 +1,6 @@
-﻿---
+---
 title: HTML-bestanden maken via C# 
-url: /nl/net/create-html/ 
+
 description: C# Voorbeeldcode voor het genereren van HTML-documenten. Gebruik deze code om HTML-bestanden te maken binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

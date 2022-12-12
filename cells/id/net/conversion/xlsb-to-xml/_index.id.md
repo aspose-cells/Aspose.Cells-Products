@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi XLSB ke XML melalui C#
-url: /id/net/conversion/xlsb-to-xml/
+
 description: Contoh kode untuk xlsb ke xml C# konversi. Gunakan API kode contoh untuk file batch xlsb ke konversi xml dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

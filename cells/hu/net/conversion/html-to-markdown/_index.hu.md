@@ -1,6 +1,6 @@
-﻿---
+---
 title: "HTML konvertálása MARKDOWN-re a következőn keresztül: C#"
-url: /hu/net/conversion/html-to-markdown/
+
 description: Mintakód a html-ből a C# konverzióhoz. Használjon API példakódot kötegelt html-fájlokhoz a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belüli leértékeléshez.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

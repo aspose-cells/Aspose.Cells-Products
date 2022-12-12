@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TXT na MARKDOWN přes C#
-url: /cs/net/conversion/txt-to-markdown/
+
 description: Ukázkový kód pro převod txt na markdown C#. Použijte API ukázkový kód pro dávkové soubory txt k převodu markdown v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

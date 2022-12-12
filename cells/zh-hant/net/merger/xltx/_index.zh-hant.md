@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通過 .NET 合併 XLTX 文件 
 weight: 1220
-url: /zh-hant/net/merger/xltx/ 
+
 description: C# 源代碼，用於在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上組合 XLTX 文檔。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

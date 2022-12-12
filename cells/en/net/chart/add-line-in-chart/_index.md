@@ -1,6 +1,6 @@
 ---
 title: Add a line in chart via C# 
-url: /net/add-line-in-chart/ 
+
 description: C# Sample code for adding a line in chart to Excel using .NET Library. Use this code for adding a line in chart to MS Excel within VB.NET, Asp.NET or any .NET based application.
 ---
 

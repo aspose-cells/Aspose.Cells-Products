@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer NUMMERS naar XLSM via Python
-url: /nl/python-java/conversion/numbers-to-xlsm/
+
 description: Voorbeeldcode voor conversie van getallen naar xlsm Python. Gebruik API voorbeeldcode voor batchnummerbestanden naar xlsm-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

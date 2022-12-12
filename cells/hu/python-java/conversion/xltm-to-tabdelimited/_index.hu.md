@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLTM konvertálása TABLEDELIMITED-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/xltm-to-tabdelimited/
+
 description: Mintakód az xltm tabulátorral tagolt Python konverzióhoz. Használjon API példakódot kötegelt xltm-fájlokhoz a tabulátorral tagolt konverzióhoz a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

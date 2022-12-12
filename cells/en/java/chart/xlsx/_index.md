@@ -1,7 +1,7 @@
 ---
 title: XLSX document chart via Java 
 weight: 5380
-url: /java/chart/xlsx/ 
+
 description: Java sample code to draw and convert chart or diagram in XLSX file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

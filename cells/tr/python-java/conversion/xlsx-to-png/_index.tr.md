@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla XLSX'i PNG'ye dönüştürün
-url: /tr/python-java/conversion/xlsx-to-png/
+
 description: xlsx'ten png'ye Python dönüştürme için örnek kod. Python uygulamasında toplu xlsx dosyalarını png'ye dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

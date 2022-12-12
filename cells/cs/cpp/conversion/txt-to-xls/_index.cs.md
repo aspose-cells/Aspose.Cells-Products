@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte TXT na XLS pomocí aplikace C++ 
-url: /cs/cpp/conversion/txt-to-xls/ 
+
 description: Ukázkový konverzní kód C++ pro dokument TXT na formát XLS. Programátoři mohou použít tento zdrojový kód pro dávkový převod TXT na XLS v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

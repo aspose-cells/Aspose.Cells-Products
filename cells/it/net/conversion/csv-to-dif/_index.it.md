@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converti CSV in DIF tramite C#
-url: /it/net/conversion/csv-to-dif/
+
 description: Codice di esempio per la conversione da csv a dif C#. Utilizza API codice di esempio per file CSV batch per la conversione dif all'interno di VB.NET, Asp.NET o qualsiasi applicazione basata su .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

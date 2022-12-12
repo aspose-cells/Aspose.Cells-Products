@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLS na SXC přes C#
-url: /cs/net/conversion/xls-to-sxc/
+
 description: Ukázkový kód pro převod xls na sxc C#. Použijte API ukázkový kód pro dávkový převod souborů xls na sxc v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

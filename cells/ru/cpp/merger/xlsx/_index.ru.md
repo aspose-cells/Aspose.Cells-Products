@@ -1,6 +1,6 @@
-﻿---
+---
 title: Объединить файлы XLSX через C++ 
-url: /ru/cpp/merger/xlsx/ 
+
 description: Пример C++ кода для объединения документов XLSX в среде выполнения C++ для 32-разрядной, 64-разрядной и Linux 64-разрядной версии Windows.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

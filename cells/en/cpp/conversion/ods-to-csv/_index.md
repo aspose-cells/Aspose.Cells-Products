@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to CSV via C++
-url: /cpp/conversion/ods-to-csv/
+
 description: Convert ODS to CSV format in C++ code. Save ODS as CSV using C++.
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Преобразование XLT в CSV через Java 
 weight: 3150
-url: /ru/java/conversion/xlt-to-csv/ 
+
 description: Пример кода преобразования Java для формата XLT в файл CSV. Программисты могут использовать этот пример кода для экспорта электронных таблиц Excel и OpenOffice в CSV в любом веб-или настольном Java приложении.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

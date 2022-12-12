@@ -1,6 +1,6 @@
-﻿---
+---
 title: "CSV konvertálása SPREADSHEETML-be a következőn keresztül: C#"
-url: /hu/net/conversion/csv-to-spreadsheetml/
+
 description: Mintakód a csv-ből táblázattáblázatba C# konverzióhoz. Használjon API példakódot kötegelt csv-fájlokhoz a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belüli táblázatkezelő konvertálásához.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

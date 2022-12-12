@@ -1,7 +1,7 @@
-﻿---
+---
 title: Exportálja az RDL-jelentéseket Excel XLS XLSX-be és SpreadsheetML-be az SQL Serverben 
 weight: 3460
-url: /hu/reporting-services/ 
+
 description: SQL Server Reporting Services megjelenítési bővítmény – Exportálja az Excel XLS XLSX XLSM XLSB CSV SpreadsheetML HTML ODS és TXT formátumait
 ---
 {{< blocks/products/pf/main-wrap-class >}}

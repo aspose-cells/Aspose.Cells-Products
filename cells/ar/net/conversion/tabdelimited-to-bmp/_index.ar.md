@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TABDELIMITED إلى BMP عبر C#
-url: /ar/net/conversion/tabdelimited-to-bmp/
+
 description: نموذج التعليمات البرمجية لجدولة محدودية لتحويل bmp C#. استخدم API رمز المثال للملفات المحددة بعلامات الجدولة المجمعة لتحويل bmp داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

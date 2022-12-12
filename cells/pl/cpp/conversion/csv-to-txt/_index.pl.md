@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj CSV na TXT za pomocą aplikacji C++ 
-url: /pl/cpp/conversion/csv-to-txt/ 
+
 description: Przykładowy kod konwersji C++ dla dokumentu CSV do formatu TXT. Programiści mogą używać tego kodu źródłowego do wsadowej konwersji plików CSV na TXT w dowolnej aplikacji C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLT в XLSM с помощью приложения C++ 
-url: /ru/cpp/conversion/xlt-to-xlsm/ 
+
 description: Пример кода преобразования C++ для документа XLT в формат XLSM. Программисты могут использовать этот исходный код для пакетного преобразования XLT в XLSM в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to SVG via Python
-url: /python-java/conversion/excel-to-svg/
+
 description: Convert EXCEL to SVG format in Python code. Save EXCEL as SVG using Python.
 ---
 

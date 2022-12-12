@@ -1,6 +1,6 @@
-﻿---
+---
 title: TABDELIMITED'i C++ uygulaması aracılığıyla HTML'ye dönüştürün 
-url: /tr/cpp/conversion/tabdelimited-to-html/ 
+
 description: TABDELIMITED belgesi için HTML biçimine örnek C++ dönüştürme kodu. Programcılar bu kaynak kodunu, herhangi bir C++ Uygulamasında toplu TABDELIMITED'den HTML'ye dönüştürmek için kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

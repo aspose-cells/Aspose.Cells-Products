@@ -1,6 +1,6 @@
-﻿---
+---
 title: "CSV-fájlok szerkesztése a következőn keresztül: .NET "
-url: /hu/net/editor/csv/ 
+
 description: C# forráskód a CSV-dokumentum szerkesztéséhez .NET Framework, .NET Core, Windows Azure, Mono vagy Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

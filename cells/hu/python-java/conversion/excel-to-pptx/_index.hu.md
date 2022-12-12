@@ -1,6 +1,6 @@
-﻿---
+---
 title: "EXCEL konvertálása PPTX-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/excel-to-pptx/
+
 description: Mintakód az excel–pptx Python konverzióhoz. Használjon API példakódot az Excel fájlok kötegelt pptx konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

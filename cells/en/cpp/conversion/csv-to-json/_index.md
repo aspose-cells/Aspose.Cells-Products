@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to JSON via C++
-url: /cpp/conversion/csv-to-json/
+
 description: Convert CSV to JSON format in C++ code. Save CSV as JSON using C++.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Buat Grafik Saham Tinggi-Rendah-Tutup melalui C#
-url: /id/net/create-stockhighlowclose-chart/
+
 description: C# Contoh kode untuk membuat bagan Stok Tinggi-Rendah-Tutup ke Excel menggunakan .NET Pustaka. Gunakan kode ini untuk membuat bagan Stok Tinggi-Rendah-Tutup ke MS Excel dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++ uygulaması aracılığıyla CSV'yi XLAM'a dönüştürün 
-url: /tr/cpp/conversion/csv-to-xlam/ 
+
 description: CSV belgesi için XLAM biçimine örnek C++ dönüştürme kodu. Programcılar, herhangi bir C++ Uygulamasında toplu CSV'den XLAM'e dönüştürme için bu kaynak kodunu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

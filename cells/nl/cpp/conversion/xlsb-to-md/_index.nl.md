@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLSB naar MD via C++ applicatie 
-url: /nl/cpp/conversion/xlsb-to-md/ 
+
 description: Voorbeeld C++-conversiecode voor XLSB-document naar MD-indeling. Programmeurs kunnen deze broncode gebruiken voor batch-conversie van XLSB naar MD binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

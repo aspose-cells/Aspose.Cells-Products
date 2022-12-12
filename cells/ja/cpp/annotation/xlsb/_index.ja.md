@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++を介してExcelファイルのXLSB注釈を追加する 
 weight: 860
-url: /ja/cpp/annotation/xlsb/ 
+
 description: C++ Windows 32ビット、Windows 64ビット、およびLinux64ビットのランタイム環境でXLSB形式の注釈を削除するためのサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

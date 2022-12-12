@@ -1,6 +1,6 @@
-﻿---
+---
 title: NUMBERS'ı C# aracılığıyla XLAM'e dönüştürün
-url: /tr/net/conversion/numbers-to-xlam/
+
 description: Sayıları xlam'e C# dönüştürmek için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu iş numarası dosyalarından xlam'e dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

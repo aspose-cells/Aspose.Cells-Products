@@ -1,7 +1,7 @@
-﻿---
+---
 title: Защитите и заблокируйте документ XLSB через C++ 
 weight: 4860
-url: /ru/cpp/protect/xlsb/ 
+
 description: Пример кода C++ для блокировки файла XLSB с помощью пароля в C++ среде выполнения для 32-разрядной, 64-разрядной Windows и 64-разрядной версии Linux.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

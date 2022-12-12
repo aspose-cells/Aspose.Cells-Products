@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converti XLT in TXT tramite l'applicazione C++ 
-url: /it/cpp/conversion/xlt-to-txt/ 
+
 description: Esempio di codice di conversione C++ per un documento XLT in formato TXT. I programmatori possono utilizzare questo codice sorgente per la conversione batch da XLT a TXT all'interno di qualsiasi applicazione C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

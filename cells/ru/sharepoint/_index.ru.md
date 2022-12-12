@@ -1,7 +1,7 @@
-﻿---
+---
 title: Приложение для преобразования электронных таблиц SharePoint в Excel — Aspose 
 weight: 940
-url: /ru/sharepoint/ 
+
 description: Aspose.Cells для приложения SharePoint — это конвертер электронных таблиц SharePoint Excel. Экспорт XLS XLSX XML CSV PDF ODS &amp; Форматы HTML в MOSS WSS
 ---
 {{< blocks/products/pf/main-wrap-class >}}

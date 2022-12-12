@@ -1,7 +1,7 @@
-﻿---
+---
 title: Lihat Format File XLSB melalui .NET 
 weight: 6260
-url: /id/net/viewer/xlsb/ 
+
 description: C# kode sumber untuk memuat, merender, dan menampilkan dokumen XLSB di .NET Framework, .NET Core, Mono atau Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

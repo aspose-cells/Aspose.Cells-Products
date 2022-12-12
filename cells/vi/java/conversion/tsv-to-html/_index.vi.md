@@ -1,7 +1,7 @@
-﻿---
+---
 title: Chuyển đổi TSV sang HTML qua Java 
 weight: 3880
-url: /vi/java/conversion/tsv-to-html/ 
+
 description: Mã chuyển đổi Java mẫu cho định dạng TSV sang tệp HTML. Người lập trình có thể sử dụng mã ví dụ này để xuất bảng tính Excel & OpenOffice sang HTML trong bất kỳ Ứng dụng dựa trên Web hoặc Máy tính để bàn Java nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

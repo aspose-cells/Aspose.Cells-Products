@@ -1,7 +1,7 @@
-﻿---
+---
 title: Gere relatórios em arquivos XLSM via Java 
 weight: 270
-url: /pt/java/assembly/xlsm/ 
+
 description: Java código de amostra para criar relatórios em formato XLSM no Java ambiente de tempo de execução para aplicativos JSP/JSF e aplicativos de desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

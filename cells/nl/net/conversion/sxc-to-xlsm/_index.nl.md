@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer SXC naar XLSM via C#
-url: /nl/net/conversion/sxc-to-xlsm/
+
 description: Voorbeeldcode voor conversie van sxc naar xlsm C#. Gebruik API voorbeeldcode voor batch-sxc-bestanden naar xlsm-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

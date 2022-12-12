@@ -1,6 +1,6 @@
-﻿---
+---
 title: JSON'u Python aracılığıyla SVG'ye dönüştürün
-url: /tr/python-java/conversion/json-to-svg/
+
 description: json'dan svg'ye Python dönüştürme için örnek kod. Python uygulamasında toplu json dosyalarından svg'ye dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

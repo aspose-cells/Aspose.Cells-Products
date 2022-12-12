@@ -1,6 +1,6 @@
-﻿---
+---
 title: สร้างแผนภูมิเส้น 3 มิติผ่าน C#
-url: /th/net/create-line3d-chart/
+
 description: C# โค้ดตัวอย่างสำหรับสร้างแผนภูมิเส้น 3 มิติไปยัง Excel โดยใช้ .NET ไลบรารี ใช้รหัสนี้เพื่อสร้างแผนภูมิเส้น 3 มิติไปยัง MS Excel ภายใน VB.NET, Asp.NET หรือแอปพลิเคชันที่ใช้ .NET
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

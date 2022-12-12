@@ -1,6 +1,6 @@
 ---
 title: Convert XLSM to JSON via C++
-url: /cpp/conversion/xlsm-to-json/
+
 description: Convert XLSM to JSON format in C++ code. Save XLSM as JSON using C++.
 ---
 

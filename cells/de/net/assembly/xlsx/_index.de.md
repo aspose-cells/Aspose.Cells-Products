@@ -1,7 +1,7 @@
-﻿---
+---
 title: Generieren Sie Berichte in XLSX-Dateien über .NET 
 weight: 6740
-url: /de/net/assembly/xlsx/ 
+
 description: C#-Quellcode zum Generieren von Berichten im XLSX-Format auf .NET Framework-, .NET Core-, Mono- oder Xamarin-Plattformen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to XPS via C++
-url: /cpp/conversion/fods-to-xps/
+
 description: Convert FODS to XPS format in C++ code. Save FODS as XPS using C++.
 ---
 

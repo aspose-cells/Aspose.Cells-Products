@@ -1,6 +1,6 @@
-﻿---
+---
 title: Vytvářejte soubory MS Excel XLSB prostřednictvím C++ 
-url: /cs/cpp/create-xlsb/ 
+
 description: C++ Ukázkový kód pro generování souborů MS Excel XLSB. Tento kód použijte k vytváření souborů MS Excel XLSB v aplikaci založené na C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

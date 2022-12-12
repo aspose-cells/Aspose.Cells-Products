@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést soubory XLSX na soubory kompatibilní s PDF/A prostřednictvím Java 
 weight: 3200
-url: /cs/java/conversion/xlsx-to-pdf-a/ 
+
 description: Ukázkový konverzní kód Java pro soubory formátu XLSX na soubory PDF A. Programátoři mohou použít tento příklad kódu k exportu tabulek Excelu a OpenOffice do souborů PDFA v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer JSON naar XLTM via C#
-url: /nl/net/conversion/json-to-xltm/
+
 description: Voorbeeldcode voor conversie van json naar xltm C#. Gebruik API voorbeeldcode voor batch json-bestanden naar xltm-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

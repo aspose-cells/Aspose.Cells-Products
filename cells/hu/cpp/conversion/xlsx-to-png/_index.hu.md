@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertálja az XLSX-et PNG-re a(z) C++ alkalmazáson keresztül 
 weight: 4660
-url: /hu/cpp/conversion/xlsx-to-png/ 
+
 description: Minta C++ konverziós kód XLSX dokumentumhoz PNG formátumba. A programozók ezt a forráskódot használhatják az XLSX-ből PNG-be kötegelt konvertáláshoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

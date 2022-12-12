@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++を介してXLSExcelファイル注釈を追加する 
 weight: 10040
-url: /ja/cpp/annotation/xls/ 
+
 description: C++ Windows 32ビット、Windows 64ビット、およびLinux64ビットのランタイム環境でXLS形式の注釈を追加および削除するためのサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

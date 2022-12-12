@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLS na SPREADSHEETML přes C#
-url: /cs/net/conversion/xls-to-spreadsheetml/
+
 description: Ukázkový kód pro převod xls na tabulkuml C#. Použijte API ukázkový kód pro dávkové soubory xls na převod tabulkového procesoru v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

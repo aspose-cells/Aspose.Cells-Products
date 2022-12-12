@@ -1,6 +1,6 @@
-﻿---
+---
 title: Buat File MS Excel XLSX melalui Java 
-url: /id/java/create-xlsx/ 
+
 description: Java Contoh kode untuk membuat dokumen XLSX. Gunakan kode ini untuk membuat file MS Excel XLSX dalam Java desktop atau aplikasi web berbasis.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

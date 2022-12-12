@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převeďte TSV na DIF pomocí aplikace C++ 
 weight: 2350
-url: /cs/cpp/conversion/tsv-to-dif/ 
+
 description: Ukázka převodního kódu C++ pro dokument TSV na formát DIF. Programátoři mohou použít tento zdrojový kód pro dávkový převod TSV na DIF v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

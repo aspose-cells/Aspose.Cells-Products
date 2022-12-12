@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi TABDELIMITED thành XLT qua Python
-url: /vi/python-java/conversion/tabdelimited-to-xlt/
+
 description: Mã mẫu cho chuyển đổi được giới hạn bằng tab thành xlt Python. Sử dụng mã mẫu API cho các tệp được giới hạn bằng tab hàng loạt thành chuyển đổi xlt trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

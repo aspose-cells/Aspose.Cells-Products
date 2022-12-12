@@ -1,6 +1,6 @@
-﻿---
+---
 title: FODS'u Python aracılığıyla XLAM'e dönüştürün
-url: /tr/python-java/conversion/fods-to-xlam/
+
 description: Gıdalardan xlam'e Python dönüştürme için örnek kod. Python uygulamasında toplu dosya dosyalarından xlam'e dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

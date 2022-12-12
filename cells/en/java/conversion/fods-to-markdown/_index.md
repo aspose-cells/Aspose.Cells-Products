@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to MARKDOWN via Java 
-url: /java/conversion/fods-to-markdown/
+
 description: Convert FODS to MARKDOWN format in Java code. Save FODS as MARKDOWN using Java.
 ---
 

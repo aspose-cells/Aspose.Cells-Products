@@ -1,7 +1,7 @@
-﻿---
+---
 title: MHTML konvertálása EMF-re a(z) C++ alkalmazással 
 weight: 2140
-url: /hu/cpp/conversion/mhtml-to-emf/ 
+
 description: Minta C++ konverziós kód MHTML dokumentumhoz EMF formátumba. A programozók ezt a forráskódot használhatják az MHTML-ből EMF-re kötegelt konvertálására bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

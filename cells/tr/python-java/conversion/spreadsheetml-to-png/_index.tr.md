@@ -1,6 +1,6 @@
-﻿---
+---
 title: SPREADSHEETML'yi Python aracılığıyla PNG'ye dönüştürün
-url: /tr/python-java/conversion/spreadsheetml-to-png/
+
 description: E-tabloml'den png'ye Python dönüşümü için örnek kod. Python uygulamasında toplu elektronik tabloml dosyalarının png'ye dönüştürülmesi için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

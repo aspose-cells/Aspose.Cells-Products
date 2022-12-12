@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET Excel API | Elabora i formati del foglio di calcolo tramite .NET Core 
 weight: 2030
-url: /it/net/ 
+
 description: Libreria C# ASP.NET VB.NET per lavorare con documenti Microsoft Excel. Crea lettura, scrittura, salvataggio e stampa di fogli di calcolo. Converti in PDF o più formati
 ---
 {{< blocks/products/pf/main-wrap-class >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Εξαγωγή κειμένου και εικόνων από έγγραφο XLSB μέσω Java 
 weight: 440
-url: /el/java/parser/xlsb/ 
+
 description: Java δείγμα κώδικα για εξαγωγή κειμένου και εικόνων από το αρχείο XLSB στο Java Runtime Environment για JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

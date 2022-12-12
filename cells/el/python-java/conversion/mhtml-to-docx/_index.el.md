@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή MHTML σε DOCX μέσω Python
-url: /el/python-java/conversion/mhtml-to-docx/
+
 description: Δείγμα κώδικα για μετατροπή mhtml σε docx Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία mhtml για μετατροπή docx εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

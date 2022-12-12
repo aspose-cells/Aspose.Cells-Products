@@ -1,7 +1,7 @@
-﻿---
+---
 title: Entsperren Sie das XLS-Dokument über .NET 
 weight: 4260
-url: /de/net/unlock/xls/ 
+
 description: C#-Quellcode zum Entsperren passwortgeschützter XLS-Dateien auf .NET Framework-, .NET Core-, Mono- oder Xamarin-Plattformen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

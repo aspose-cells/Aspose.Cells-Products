@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi XLS thành TABDELIMITED qua C#
-url: /vi/net/conversion/xls-to-tabdelimited/
+
 description: Mã mẫu cho chuyển đổi xls thành C# tabdelimited. Sử dụng API mã ví dụ cho các tệp xls hàng loạt để chuyển đổi được giới hạn bằng tab trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

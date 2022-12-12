@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi XLTX ke TSV melalui C++ aplikasi 
-url: /id/cpp/conversion/xltx-to-tsv/ 
+
 description: Contoh C++ kode konversi untuk dokumen XLTX ke format TSV. Pemrogram dapat menggunakan kode sumber ini untuk konversi batch XLTX ke TSV dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

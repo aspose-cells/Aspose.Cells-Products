@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla XLSX'i SXC'ye dönüştürün
-url: /tr/net/conversion/xlsx-to-sxc/
+
 description: xlsx'ten sxc'ye C# dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu xlsx dosyalarını sxc'ye dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to ODS via C#
-url: /net/conversion/tabdelimited-to-ods/
+
 description: Convert TABDELIMITED to ODS format in C# code. Save TABDELIMITED as ODS using VB.NET, Asp.NET or any .NET based application.
 ---
 

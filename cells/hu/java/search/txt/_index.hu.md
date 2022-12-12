@@ -1,7 +1,7 @@
-﻿---
+---
 title: "TXT-dokumentum keresése megnyitás nélkül a következőn keresztül: Java "
 weight: 1200
-url: /hu/java/search/txt/ 
+
 description: Java mintakód a mintával rendelkező szavak kereséséhez a TXT-fájlban a Java Futókörnyezetben JSP/JSF alkalmazásokhoz és asztali alkalmazásokhoz.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

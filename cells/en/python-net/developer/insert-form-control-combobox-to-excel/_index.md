@@ -1,7 +1,7 @@
 ---
 title: Insert ComboBox(Form control) into Excel via Python 
 weight: 20
-url: /python-net/developer/insert-form-control-combobox-to-excel/ 
+
 description: Python source code to insert ComboBox(Form control) into Excel.
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: استخراج النص والصور من مستند XLSM عبر C++ 
 weight: 570
-url: /ar/cpp/parser/xlsm/ 
+
 description: C++ مثال على رمز لاستخراج النصوص والصور من ملف XLSM في C++ Runtime Environment لأنظمة التشغيل Windows 32 بت و Windows 64 بت و Linux 64 بت.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

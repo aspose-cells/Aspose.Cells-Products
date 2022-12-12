@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Konvertálja az XLSB-t XLT-vé a következőn keresztül: C#"
-url: /hu/net/conversion/xlsb-to-xlt/
+
 description: Mintakód az xlsb–xlt C# konverzióhoz. Használjon API példakódot a kötegelt xlsb fájlok xlt konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

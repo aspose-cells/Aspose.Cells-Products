@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertera TSV till JSON via Java 
 weight: 1910
-url: /sv/java/conversion/tsv-to-json/ 
+
 description: Exempel Java-konverteringskod för TSV-format till JSON-fil. Programmerare kan använda den här exempelkoden för att exportera Excel- och OpenOffice-kalkylblad till JSON inom alla webb- eller skrivbordsbaserade Java-applikationer.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: SXC को CSV में Java के माध्यम से कनवर्ट करें 
-url: /hi/java/conversion/sxc-to-csv/ 
+
 description: सीएसवी फ़ाइल में एसएक्ससी प्रारूप के लिए नमूना Java रूपांतरण कोड। प्रोग्रामर इस उदाहरण कोड का उपयोग एक्सेल और ओपनऑफिस स्प्रेडशीट को किसी भी वेब या डेस्कटॉप Java आधारित एप्लिकेशन के भीतर CSV में निर्यात करने के लिए कर सकते हैं।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

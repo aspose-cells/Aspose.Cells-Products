@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta TABDELIMITED a XLS a través de Python
-url: /es/python-java/conversion/tabdelimited-to-xls/
+
 description: Código de ejemplo para la conversión delimitada por tabuladores a xls Python. Utilice el código de ejemplo API para la conversión por lotes de archivos delimitados por tabuladores a xls dentro de la aplicación Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

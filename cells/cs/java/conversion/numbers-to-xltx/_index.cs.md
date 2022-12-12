@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést NUMBERS na XLTX přes Java 
-url: /cs/java/conversion/numbers-to-xltx/ 
+
 description: Ukázkový konverzní kód Java pro soubor ve formátu NUMBERS na soubor XLTX. Programátoři mohou použít tento příklad kódu k exportu tabulek Excelu a OpenOffice do XLTX v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

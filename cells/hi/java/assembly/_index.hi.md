@@ -1,6 +1,6 @@
-﻿---
+---
 title: Java के माध्यम से एक्सेल फ़ाइलें बनाएं
-url: /hi/java/assembly/
+
 description: Java स्प्रैडशीट लाइब्रेरी . का उपयोग करके टेम्प्लेट शीट से Microsoft Excel स्प्रैडशीट जेनरेट करें
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

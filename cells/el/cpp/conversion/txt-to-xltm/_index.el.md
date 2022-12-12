@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή TXT σε XLTM μέσω της εφαρμογής C++ 
-url: /el/cpp/conversion/txt-to-xltm/ 
+
 description: Δείγμα κώδικα μετατροπής C++ για έγγραφο TXT σε μορφή XLTM. Οι προγραμματιστές μπορούν να χρησιμοποιήσουν αυτόν τον πηγαίο κώδικα για ομαδική μετατροπή TXT σε XLTM σε οποιαδήποτε εφαρμογή C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

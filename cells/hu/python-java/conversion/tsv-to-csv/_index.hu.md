@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TSV konvertálása CSV-vé a következőn keresztül: Python"
-url: /hu/python-java/conversion/tsv-to-csv/
+
 description: Mintakód a tsv–csv Python konverzióhoz. Használjon API példakódot a tsv-fájlok kötegelt csv-vé konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

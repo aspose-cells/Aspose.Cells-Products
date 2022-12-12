@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++アプリケーションを介してTABDELIMITEDをMHTMLに変換します 
-url: /ja/cpp/conversion/tabdelimited-to-mhtml/ 
+
 description: TABDELIMITEDドキュメントのサンプルC++変換コードからMHTML形式へ。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でTABDELIMITEDからMHTMLへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

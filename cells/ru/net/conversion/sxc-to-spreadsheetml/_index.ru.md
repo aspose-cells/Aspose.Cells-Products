@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование SXC в SPREADSHEETML через C#
-url: /ru/net/conversion/sxc-to-spreadsheetml/
+
 description: Пример кода для преобразования sxc в электронную таблицуml C#. Используйте пример кода API для пакетного преобразования файлов sxc в электронную таблицуml в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

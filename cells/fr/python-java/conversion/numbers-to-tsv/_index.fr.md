@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir NUMBERS en TSV via Python
-url: /fr/python-java/conversion/numbers-to-tsv/
+
 description: Exemple de code pour la conversion des nombres en tsv Python. Utilisez l'exemple de code API pour les fichiers de numéros de lot en conversion tsv dans l'application Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

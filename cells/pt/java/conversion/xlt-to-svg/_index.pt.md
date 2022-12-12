@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converter XLT para SVG via Java 
 weight: 7200
-url: /pt/java/conversion/xlt-to-svg/ 
+
 description: Exemplo de código de conversão Java para formato XLT para arquivo SVG. Os programadores podem usar este código de exemplo para exportar planilhas do Excel e OpenOffice para SVG em qualquer aplicativo baseado na Web ou Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

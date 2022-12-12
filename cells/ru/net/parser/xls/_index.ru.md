@@ -1,7 +1,7 @@
-﻿---
+---
 title: Извлечение текста и изображений из документа XLS через .NET 
 weight: 5600
-url: /ru/net/parser/xls/ 
+
 description: Исходный код C# для извлечения текста и изображений из файла XLS на платформах .NET Framework, .NET Core, Mono или Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

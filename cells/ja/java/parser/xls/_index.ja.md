@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してXLSドキュメントからテキストと画像を抽出します 
 weight: 3700
-url: /ja/java/parser/xls/ 
+
 description: Java JSP/JSFアプリケーションおよびデスクトップアプリケーションのランタイム環境でXLSファイルからテキストと画像を抽出するためのサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

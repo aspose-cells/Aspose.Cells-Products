@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést HTML na MHTML pomocí Java 
 weight: 1380
-url: /cs/java/conversion/html-to-mhtml/ 
+
 description: Ukázka převodního kódu Java pro formát HTML na soubor MHTML. Programátoři mohou použít tento příklad kódu k exportu tabulek Excelu a OpenOffice do MHTML v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

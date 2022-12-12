@@ -1,6 +1,6 @@
-﻿---
+---
 title: .NET을(를) 통해 Excel에 주석 삽입
-url: /ko/net/comment/
+
 description: .NET 라이브러리를 사용하여 Microsoft Excel 파일에 주석을 삽입하는 방법에 대한 C# 소스 코드. 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

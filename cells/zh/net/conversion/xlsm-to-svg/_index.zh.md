@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 C# 将 XLSM 转换为 SVG
-url: /zh/net/conversion/xlsm-to-svg/
+
 description: xlsm 到 svg C# 转换的示例代码。在 VB.NET、Asp.NET 或任何基于 .NET 的应用程序中使用 API 批处理 xlsm 文件的示例代码到 svg 转换。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

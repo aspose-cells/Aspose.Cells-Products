@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversi XLSX ke HTML melalui Java 
 weight: 6640
-url: /id/java/conversion/xlsx-to-html/ 
+
 description: Contoh Java kode konversi untuk format XLSX ke file HTML. Pemrogram dapat menggunakan kode contoh ini untuk mengekspor spreadsheet Excel & OpenOffice ke HTML dalam Aplikasi berbasis Web atau Desktop Java apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

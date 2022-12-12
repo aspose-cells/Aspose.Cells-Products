@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TXT na XLTX přes Python
-url: /cs/python-java/conversion/txt-to-xltx/
+
 description: Ukázkový kód pro převod txt na xltx Python. Použijte API ukázkový kód pro dávkový převod souborů txt na xltx v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

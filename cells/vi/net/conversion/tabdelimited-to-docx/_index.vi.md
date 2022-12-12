@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi TABDELIMITED sang DOCX qua C#
-url: /vi/net/conversion/tabdelimited-to-docx/
+
 description: Mã mẫu cho chuyển đổi được giới hạn bằng tab thành docx C#. Sử dụng API mã mẫu cho các tệp được giới hạn bằng tab hàng loạt để chuyển đổi docx trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

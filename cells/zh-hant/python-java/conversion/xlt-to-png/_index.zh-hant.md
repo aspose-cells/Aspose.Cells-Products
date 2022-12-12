@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 Python 將 XLT 轉換為 PNG
-url: /zh-hant/python-java/conversion/xlt-to-png/
+
 description: xlt 到 png Python 轉換的示例代碼。使用 Python 應用程序中的批量 xlt 文件到 png 轉換的 API 示例代碼。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

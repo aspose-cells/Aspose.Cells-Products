@@ -1,6 +1,6 @@
-﻿---
+---
 title: NUMBERS को C# के माध्यम से मार्कडाउन में बदलें
-url: /hi/net/conversion/numbers-to-markdown/
+
 description: C# रूपांतरण को चिह्नित करने के लिए संख्याओं के लिए नमूना कोड। VB.NET, Asp.NET या किसी .NET आधारित एप्लिकेशन में रूपांतरण को चिह्नित करने के लिए बैच नंबर फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

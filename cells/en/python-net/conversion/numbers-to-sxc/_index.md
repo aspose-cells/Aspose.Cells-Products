@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to SXC via Python
-url: /python-net/conversion/numbers-to-sxc/
+
 description: Sample code for numbers to sxc Python conversion. Use API example code for batch numbers files to sxc conversion within Python application.
 ---
 

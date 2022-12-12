@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してSXCをTSVに変換します 
-url: /ja/java/conversion/sxc-to-tsv/ 
+
 description: SXC形式からTSVファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のTSVにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ uygulaması aracılığıyla MHTML'yi HTML'ye dönüştürün 
 weight: 3810
-url: /tr/cpp/conversion/mhtml-to-html/ 
+
 description: MHTML belgesi için HTML biçimine örnek C++ dönüştürme kodu. Programcılar, herhangi bir C++ Uygulamasında toplu MHTML'den HTML'ye dönüştürme için bu kaynak kodunu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

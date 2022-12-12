@@ -1,7 +1,7 @@
-﻿---
+---
 title: Extrahujte text a obrázky z dokumentu ODS prostřednictvím .NET 
 weight: 6970
-url: /cs/net/parser/ods/ 
+
 description: Zdrojový kód C# pro extrahování textu a obrázků ze souboru ODS na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

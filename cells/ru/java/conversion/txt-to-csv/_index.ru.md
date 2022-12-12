@@ -1,7 +1,7 @@
-﻿---
+---
 title: Преобразование TXT в CSV через Java 
 weight: 990
-url: /ru/java/conversion/txt-to-csv/ 
+
 description: Пример кода преобразования Java для формата TXT в файл CSV. Программисты могут использовать этот пример кода для экспорта электронных таблиц Excel и OpenOffice в CSV в любом веб-или настольном Java приложении.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

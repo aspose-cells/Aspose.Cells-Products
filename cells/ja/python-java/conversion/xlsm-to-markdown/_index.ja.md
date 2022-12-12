@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してXLSMをMARKDOWNに変換します
-url: /ja/python-java/conversion/xlsm-to-markdown/
+
 description: xlsmからマークダウンPythonへの変換のサンプルコード。バッチxlsmファイルのAPIサンプルコードを使用して、Pythonアプリケーション内で変換をマークダウンします。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: แปลง XLSX เป็น PNG ผ่าน Java 
 weight: 5720
-url: /th/java/conversion/xlsx-to-png/ 
+
 description: ตัวอย่างโค้ดการแปลง Java สำหรับรูปแบบ XLSX เป็นไฟล์ PNG โปรแกรมเมอร์สามารถใช้โค้ดตัวอย่างนี้เพื่อส่งออกสเปรดชีต Excel & OpenOffice ไปยัง PNG ภายในแอปพลิเคชันบนเว็บหรือเดสก์ท็อป Java
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

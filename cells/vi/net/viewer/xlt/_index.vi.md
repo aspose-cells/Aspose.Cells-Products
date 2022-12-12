@@ -1,7 +1,7 @@
-﻿---
+---
 title: Xem Định dạng Tệp XLT qua .NET 
 weight: 3610
-url: /vi/net/viewer/xlt/ 
+
 description: C# mã nguồn để tải, hiển thị và hiển thị tài liệu XLT trên Nền tảng .NET Framework, .NET Core Mono hoặc Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

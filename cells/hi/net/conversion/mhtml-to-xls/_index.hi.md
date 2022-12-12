@@ -1,6 +1,6 @@
-﻿---
+---
 title: एमएचटीएमएल को C# के माध्यम से एक्सएलएस में कनवर्ट करें
-url: /hi/net/conversion/mhtml-to-xls/
+
 description: mhtml से xls C# रूपांतरण के लिए नमूना कोड। वीबी.NET, एएसपी.NET या किसी .NET आधारित एप्लिकेशन के भीतर बैच एमएचटीएमएल फाइलों से एक्सएलएस रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

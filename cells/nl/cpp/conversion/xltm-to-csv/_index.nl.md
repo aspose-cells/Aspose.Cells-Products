@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLTM naar CSV via C++ applicatie 
-url: /nl/cpp/conversion/xltm-to-csv/ 
+
 description: Voorbeeld C++ conversiecode voor XLTM-document naar CSV-indeling. Programmeurs kunnen deze broncode gebruiken voor batch-XLTM-naar-CSV-conversie binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

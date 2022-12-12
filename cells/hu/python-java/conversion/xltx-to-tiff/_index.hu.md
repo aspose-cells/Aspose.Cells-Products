@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLTX konvertálása TIFF-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/xltx-to-tiff/
+
 description: Mintakód xltx-ből tiff-be Python. Használjon API példakódot kötegelt xltx fájlok tiff konverziójához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

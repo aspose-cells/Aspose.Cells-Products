@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل ODS إلى SPREADSHEETML عبر تطبيق C++ 
-url: /ar/cpp/conversion/ods-to-spreadsheetml/ 
+
 description: نموذج C++ رمز تحويل لمستند ODS إلى تنسيق SPREADSHEETML. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل دفعة ODS إلى SPREADSHEETML داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

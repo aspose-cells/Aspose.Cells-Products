@@ -1,6 +1,6 @@
-﻿---
+---
 title: Twórz wykresy Bubble3D za pomocą Python
-url: /pl/python-java/create-bubble3d-chart/
+
 description: Python Przykładowy kod do tworzenia wykresów Bubble3D do programu Excel przy użyciu Biblioteki Python. Użyj tego kodu do tworzenia wykresu Bubble3D do MS Excel w aplikacji opartej na Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

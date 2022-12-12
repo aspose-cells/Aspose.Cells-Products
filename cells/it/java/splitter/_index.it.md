@@ -1,6 +1,6 @@
-﻿---
+---
 title: Dividi foglio di lavoro Excel in fogli di lavoro in Java
-url: /it/java/splitter/
+
 description: Java codici sorgente che spiegano come dividere i file di Microsoft Excel in più documenti utilizzando la Java libreria di Excel
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Skapa TSV-filer via C# 
-url: /sv/net/create-tsv/ 
+
 description: C# Exempelkod för att generera TSV-dokument. Använd den här koden för att skapa TSV-filer inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

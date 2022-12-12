@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل MHTML إلى TSV عبر Python
-url: /ar/python-java/conversion/mhtml-to-tsv/
+
 description: نموذج رمز للتحويل من mhtml إلى tsv Python. استخدم API رمز المثال لملفات mhtml الدفعية لتحويل tsv داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

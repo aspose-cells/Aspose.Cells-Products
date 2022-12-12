@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLS na TIFF přes Python
-url: /cs/python-java/conversion/xls-to-tiff/
+
 description: Ukázkový kód pro převod xls na tiff Python. Použijte API ukázkový kód pro dávkové soubory xls k převodu tiff v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

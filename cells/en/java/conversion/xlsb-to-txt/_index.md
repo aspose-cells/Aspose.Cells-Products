@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to TXT via Java 
-url: /java/conversion/xlsb-to-txt/
+
 description: Convert XLSB to TXT format in Java code. Save XLSB as TXT using Java.
 ---
 

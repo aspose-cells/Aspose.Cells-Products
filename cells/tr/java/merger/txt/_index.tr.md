@@ -1,7 +1,7 @@
-﻿---
+---
 title: TXT Dosyalarını Java ile Birleştir 
 weight: 4480
-url: /tr/java/merger/txt/ 
+
 description: JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Runtime Environment'da TXT belgelerini birleştirmek için Java örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

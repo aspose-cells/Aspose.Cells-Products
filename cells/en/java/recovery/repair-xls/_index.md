@@ -1,6 +1,6 @@
 ---
 title: Repair xls file via Java
-url: /java/recovery/repair-xls/ 
+
 description: Repair a corrupt xls file using Java. Recovery tool to repair corrupted xls file within Java application.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi HTML ke PNG melalui Python
-url: /id/python-java/conversion/html-to-png/
+
 description: Contoh kode untuk konversi html ke png Python. Gunakan API kode contoh untuk konversi file html ke png dalam Python aplikasi.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

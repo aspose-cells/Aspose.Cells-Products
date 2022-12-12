@@ -1,7 +1,7 @@
-﻿---
+---
 title: SharePoint Excel 電子表格轉換器應用程序 - Aspose 
 weight: 940
-url: /zh-hant/sharepoint/ 
+
 description: SharePoint 應用程序的 Aspose.Cells 是一個 SharePoint Excel 電子表格轉換器。導出 XLS XLSX XML CSV PDF ODS &amp; MOSS WSS 中的 HTML 格式
 ---
 {{< blocks/products/pf/main-wrap-class >}}

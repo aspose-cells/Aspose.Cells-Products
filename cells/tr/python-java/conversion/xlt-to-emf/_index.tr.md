@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla XLT'yi EMF'ye dönüştürün
-url: /tr/python-java/conversion/xlt-to-emf/
+
 description: xlt'den emf'ye Python dönüştürme için örnek kod. Python uygulamasında toplu xlt dosyaları için emf dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

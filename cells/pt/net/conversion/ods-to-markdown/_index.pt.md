@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter ODS para MARKDOWN via C#
-url: /pt/net/conversion/ods-to-markdown/
+
 description: Código de amostra para conversão de ods para redução de C#. Use API código de exemplo para arquivos de ods em lote para conversão de markdown em VB.NET, Asp.NET ou qualquer aplicativo baseado em .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

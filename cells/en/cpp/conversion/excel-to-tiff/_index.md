@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to TIFF via C++
-url: /cpp/conversion/excel-to-tiff/
+
 description: Convert EXCEL to TIFF format in C++ code. Save EXCEL as TIFF using C++.
 ---
 

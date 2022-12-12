@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to GIF via Python
-url: /python-net/conversion/tabdelimited-to-gif/
+
 description: Sample code for tabdelimited to gif Python conversion. Use API example code for batch tabdelimited files to gif conversion within Python application.
 ---
 

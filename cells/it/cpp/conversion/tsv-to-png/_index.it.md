@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converti TSV in PNG tramite l'applicazione C++ 
 weight: 1770
-url: /it/cpp/conversion/tsv-to-png/ 
+
 description: Esempio di codice di conversione C++ per documento TSV in formato PNG. I programmatori possono utilizzare questo codice sorgente per la conversione batch da TSV a PNG all'interno di qualsiasi C++ Applicazione.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "HTML konvertálása SPREADSHEETML-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/html-to-spreadsheetml/
+
 description: Mintakód a html-ből táblázattáblázatba Python konverzióhoz. Használjon API példakódot kötegelt html-fájlokhoz a táblázatkezelők konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

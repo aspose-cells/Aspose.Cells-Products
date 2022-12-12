@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konwertuj XLTM na macierz bajtów za pomocą C# 
 weight: 7690
-url: /pl/net/conversion/xltm-to-byte-array/ 
+
 description: C# Przykładowy kod konwersji XLTM na tablicę bajtów. Użyj tego kodu do konwersji Excel XLTM na Byte Array w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

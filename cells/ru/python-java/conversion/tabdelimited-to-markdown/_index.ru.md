@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование TABDELIMITED в MARKDOWN с помощью Python
-url: /ru/python-java/conversion/tabdelimited-to-markdown/
+
 description: Пример кода для преобразования tabdelimited в markdown Python. Используйте пример кода API для пакетного преобразования файлов с разделителями табуляцией в уценку в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

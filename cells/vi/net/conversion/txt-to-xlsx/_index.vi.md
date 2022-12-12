@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi TXT sang XLSX qua C#
-url: /vi/net/conversion/txt-to-xlsx/
+
 description: Mã mẫu cho chuyển đổi txt sang xlsx C#. Sử dụng API mã ví dụ cho hàng loạt tệp txt sang chuyển đổi xlsx trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

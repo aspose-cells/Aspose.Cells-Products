@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer JSON naar CSV via C++ applicatie 
-url: /nl/cpp/conversion/json-to-csv/ 
+
 description: Voorbeeld C++-conversiecode voor JSON-document naar CSV-indeling. Programmeurs kunnen deze broncode gebruiken voor batch-JSON-naar-CSV-conversie binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

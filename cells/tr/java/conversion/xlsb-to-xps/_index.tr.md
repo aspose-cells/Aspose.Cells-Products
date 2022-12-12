@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java aracılığıyla XLSB'yi XPS'ye dönüştürün 
 weight: 9470
-url: /tr/java/conversion/xlsb-to-xps/ 
+
 description: XLSB biçimi için XPS dosyasına örnek Java dönüştürme kodu. Programcılar, Excel ve OpenOffice elektronik tablolarını herhangi bir Web veya Masaüstü Java tabanlı Uygulamada XPS'e aktarmak için bu örnek kodu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

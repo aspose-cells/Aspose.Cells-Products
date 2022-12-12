@@ -1,6 +1,6 @@
-﻿---
+---
 title: "MHTML konvertálása TSV-vé a következőn keresztül: Python"
-url: /hu/python-java/conversion/mhtml-to-tsv/
+
 description: Mintakód az mhtml–tsv Python konverzióhoz. Használjon API példakódot az mhtml fájlok kötegelt tsv konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

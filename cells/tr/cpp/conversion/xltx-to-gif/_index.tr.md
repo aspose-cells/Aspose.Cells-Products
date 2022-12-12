@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++ uygulaması aracılığıyla XLTX'i GIF'e dönüştürün 
-url: /tr/cpp/conversion/xltx-to-gif/ 
+
 description: XLTX belgesi için GIF biçimine örnek C++ dönüştürme kodu. Programcılar, herhangi bir C++ Uygulamasında toplu XLTX'ten GIF'e dönüştürme için bu kaynak kodunu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

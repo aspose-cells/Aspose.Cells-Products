@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj SPREADSHEETML na HTML za pomocą C#
-url: /pl/net/conversion/spreadsheetml-to-html/
+
 description: Przykładowy kod do konwersji arkusza kalkulacyjnego ml na html C#. Użyj przykładowego kodu API dla plików arkusza kalkulacyjnego wsadowego do konwersji html w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

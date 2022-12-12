@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer NUMMERS naar EMF via Python
-url: /nl/python-java/conversion/numbers-to-emf/
+
 description: Voorbeeldcode voor conversie van getallen naar emf Python. Gebruik API voorbeeldcode voor batchnummerbestanden naar emf-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

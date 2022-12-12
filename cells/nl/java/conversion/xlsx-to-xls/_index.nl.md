@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer XLSX naar XLS via Java 
 weight: 6280
-url: /nl/java/conversion/xlsx-to-xls/ 
+
 description: Voorbeeld Java conversiecode voor XLSX-indeling naar XLS-bestand. Programmeurs kunnen deze voorbeeldcode gebruiken om Excel- en OpenOffice-spreadsheets naar XLS te exporteren binnen elke web- of desktoptoepassing Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

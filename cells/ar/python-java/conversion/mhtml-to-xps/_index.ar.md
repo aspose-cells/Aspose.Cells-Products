@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل MHTML إلى XPS عبر Python
-url: /ar/python-java/conversion/mhtml-to-xps/
+
 description: نموذج رمز للتحويل من mhtml إلى xps Python. استخدم API رمز المثال لملفات mhtml الدفعية لتحويل xps داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

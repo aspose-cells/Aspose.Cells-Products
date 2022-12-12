@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++アプリケーションを介してTSVをXLAMに変換します 
-url: /ja/cpp/conversion/tsv-to-xlam/ 
+
 description: TSVドキュメントからXLAM形式へのサンプルC++変換コード。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でTSVからXLAMへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

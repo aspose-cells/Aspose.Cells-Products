@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ uygulaması aracılığıyla CSV'yi BMP'ye dönüştürün 
 weight: 4890
-url: /tr/cpp/conversion/csv-to-bmp/ 
+
 description: CSV belgesi için BMP biçimine örnek C++ dönüştürme kodu. Programcılar, herhangi bir C++ Uygulamasında toplu CSV'den BMP'ye dönüştürme için bu kaynak kodunu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

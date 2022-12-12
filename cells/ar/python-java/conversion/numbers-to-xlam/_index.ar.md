@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل NUMBERS إلى XLAM عبر Python
-url: /ar/python-java/conversion/numbers-to-xlam/
+
 description: نموذج رمز للأرقام لتحويل xlam Python. استخدم API رمز المثال لملفات أرقام الدُفعات لتحويل xlam داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Genera rapporti in file XLSM tramite .NET 
 weight: 4400
-url: /it/net/assembly/xlsm/ 
+
 description: C# codice sorgente per generare report in formato XLSM su piattaforme .NET Framework, .NET Core, Mono o Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

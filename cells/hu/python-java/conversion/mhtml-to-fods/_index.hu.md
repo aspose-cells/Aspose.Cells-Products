@@ -1,6 +1,6 @@
-﻿---
+---
 title: "MHTML konvertálása FODS-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/mhtml-to-fods/
+
 description: Mintakód az mhtml to fods Python konverziójához. Használjon API példakódot az mhtml fájlok kötegelt konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

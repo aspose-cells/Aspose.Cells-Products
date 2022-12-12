@@ -1,7 +1,7 @@
-﻿---
+---
 title: ODS Dosyaları Meta Verilerini .NET aracılığıyla görüntüleyin veya düzenleyin 
 weight: 320
-url: /tr/net/metadata/ods/ 
+
 description: .NET Framework, .NET Core, Mono veya Xamarin Platformlarında ODS biçimi meta verilerini düzenlemek veya görüntülemek için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

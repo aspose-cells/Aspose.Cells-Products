@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Jelentések létrehozása XLSB-fájlokban a következőn keresztül: .NET "
 weight: 1690
-url: /hu/net/assembly/xlsb/ 
+
 description: C# forráskód XLSB formátumú jelentések generálásához .NET Framework, .NET Core, Mono vagy Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

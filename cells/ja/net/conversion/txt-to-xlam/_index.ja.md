@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してTXTをXLAMに変換します
-url: /ja/net/conversion/txt-to-xlam/
+
 description: txtからxlamC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチtxtファイルからxlamへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

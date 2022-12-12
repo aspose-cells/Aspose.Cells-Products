@@ -1,7 +1,7 @@
-﻿---
+---
 title: Zoek XLS-document zonder te openen via .NET 
 weight: 1490
-url: /nl/net/search/xls/ 
+
 description: C# broncode om woorden met patroon te zoeken in XLS-bestand op .NET Framework, .NET Core, Mono of Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

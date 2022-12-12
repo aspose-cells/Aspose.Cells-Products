@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer MHTML naar XPS via Python
-url: /nl/python-java/conversion/mhtml-to-xps/
+
 description: Voorbeeldcode voor conversie van mhtml naar xps Python. Gebruik API voorbeeldcode voor batch-mhtml-bestanden naar xps-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

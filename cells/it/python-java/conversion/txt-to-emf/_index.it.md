@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converti TXT in EMF tramite Python
-url: /it/python-java/conversion/txt-to-emf/
+
 description: Codice di esempio per la conversione da txt a emf Python. Usa il codice di esempio API per la conversione in batch di file txt in emf all'interno dell'applicazione Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

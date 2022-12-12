@@ -1,6 +1,6 @@
-﻿---
+---
 title: إنشاء ملفات MS Excel XLTX عبر C# 
-url: /ar/net/create-xltx/ 
+
 description: C# نموذج كود لإنشاء مستندات XLTX. استخدم هذا الرمز لإنشاء ملفات MS Excel XLTX داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

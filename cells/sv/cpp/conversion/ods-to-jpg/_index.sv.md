@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera ODS till JPG via programmet C++ 
-url: /sv/cpp/conversion/ods-to-jpg/ 
+
 description: Exempel på konverteringskod för C++ för ODS-dokument till JPG-format. Programmerare kan använda den här källkoden för batchkonvertering av ODS till JPG inom alla C++-program.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

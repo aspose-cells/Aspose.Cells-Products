@@ -1,7 +1,7 @@
-﻿---
+---
 title: A CSV konvertálása GIF formátumba a C++ alkalmazáson keresztül 
 weight: 7760
-url: /hu/cpp/conversion/csv-to-gif/ 
+
 description: Minta C++ konverziós kód a CSV-dokumentumhoz GIF formátumba. A programozók ezt a forráskódot használhatják a CSV-ből GIF-be kötegelt konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

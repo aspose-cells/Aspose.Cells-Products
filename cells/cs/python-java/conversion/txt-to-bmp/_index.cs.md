@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TXT na BMP přes Python
-url: /cs/python-java/conversion/txt-to-bmp/
+
 description: Ukázkový kód pro převod txt na bmp Python. Použijte API ukázkový kód pro dávkový převod souborů txt na bmp v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

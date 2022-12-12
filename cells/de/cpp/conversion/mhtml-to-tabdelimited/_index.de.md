@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie MHTML über die Anwendung C++ in TABDELIMITED 
-url: /de/cpp/conversion/mhtml-to-tabdelimited/ 
+
 description: Beispiel-Umwandlungscode C++ für ein MHTML-Dokument in das TABDELIMITED-Format. Programmierer können diesen Quellcode für die Stapelkonvertierung von MHTML in TABDELIMITED in jeder C++-Anwendung verwenden.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

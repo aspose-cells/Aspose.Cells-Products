@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++를 통해 XLT 파일 병합 
-url: /ko/cpp/merger/xlt/ 
+
 description: C++ Windows 32비트, Windows 64비트 및 Linux 64비트용 C++ 런타임 환경에서 XLT 문서를 결합하는 예제 코드.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

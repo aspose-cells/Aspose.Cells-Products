@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل HTML إلى XLTM عبر C#
-url: /ar/net/conversion/html-to-xltm/
+
 description: نموذج كود للتحويل من html إلى xltm C#. استخدم API رمز المثال لملفات html الدفعية لتحويل xltm داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

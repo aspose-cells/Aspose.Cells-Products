@@ -1,7 +1,7 @@
-﻿---
+---
 title: Vattenstämpel XLSB-dokument via Java 
 weight: 5900
-url: /sv/java/watermark/xlsb/ 
+
 description: Java exempelkod för att lägga till eller ta bort vattenstämpel i XLSB-filen i Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

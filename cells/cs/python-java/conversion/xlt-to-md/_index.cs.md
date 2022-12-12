@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLT na MD přes Python
-url: /cs/python-java/conversion/xlt-to-md/
+
 description: Ukázkový kód pro převod xlt na md Python. Použijte API ukázkový kód pro dávkový převod souborů xlt na MD v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

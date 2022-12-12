@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してCSVをMARKDOWNに変換します
-url: /ja/python-java/conversion/csv-to-markdown/
+
 description: csvからマークダウンPythonへの変換のサンプルコード。バッチcsvファイルのAPIサンプルコードを使用して、Pythonアプリケーション内で変換をマークダウンします。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

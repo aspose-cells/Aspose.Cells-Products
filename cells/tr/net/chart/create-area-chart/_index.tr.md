@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla Alan Grafikleri Oluşturun
-url: /tr/net/create-area-chart/
+
 description: C# .NET Kitaplığı kullanarak Excel'de Alan grafikleri oluşturmak için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde MS Excel'e bir Alan grafiği oluşturmak için bu kodu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

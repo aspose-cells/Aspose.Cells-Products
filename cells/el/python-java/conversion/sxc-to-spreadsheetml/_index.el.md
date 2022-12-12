@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή SXC σε SPREADSHEETML μέσω Python
-url: /el/python-java/conversion/sxc-to-spreadsheetml/
+
 description: Δείγμα κώδικα για μετατροπή Python από sxc σε υπολογιστικό φύλλο. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία sxc για μετατροπή υπολογιστικού φύλλου εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

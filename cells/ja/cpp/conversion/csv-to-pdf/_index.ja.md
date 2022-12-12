@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++アプリケーションを介してCSVをPDFに変換する 
 weight: 8330
-url: /ja/cpp/conversion/csv-to-pdf/ 
+
 description: CSVドキュメントからPDF形式へのサンプルC++変換コード。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でCSVからPDFへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Scal pliki MHTML przez .NET 
 weight: 2610
-url: /pl/net/merger/mhtml/ 
+
 description: C# kod źródłowy do łączenia dokumentów MHTML na platformach .NET Framework, .NET Core, Mono lub Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

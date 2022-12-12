@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLSX konvertálása JPEG formátumba a következőn keresztül: Python"
-url: /hu/python-java/conversion/xlsx-to-jpeg/
+
 description: Mintakód xlsx-ből jpeg-be Python. Használjon API példakódot a kötegelt xlsx fájlok jpeg konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

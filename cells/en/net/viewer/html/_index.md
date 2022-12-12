@@ -1,6 +1,6 @@
 ---
 title: View HTML File Formats via .NET 
-url: /net/viewer/html/ 
+
 description: C# source code to load, render and display HTML documents on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
 

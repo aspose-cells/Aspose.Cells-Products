@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera MHTML till EMF via C#
-url: /sv/net/conversion/mhtml-to-emf/
+
 description: Exempelkod för konvertering från mhtml till emf C#. Använd API exempelkod för batch-mhtml-filer för att emf-konvertera inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

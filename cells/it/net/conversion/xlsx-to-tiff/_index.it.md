@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converti XLSX in TIFF tramite C#
-url: /it/net/conversion/xlsx-to-tiff/
+
 description: Codice di esempio per la conversione da xlsx a tiff C#. Utilizza API codice di esempio per la conversione batch di file xlsx in tiff all'interno di VB.NET, Asp.NET o qualsiasi applicazione basata su .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

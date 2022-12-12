@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してNUMBERSをPNGに変換する
-url: /ja/python-java/conversion/numbers-to-png/
+
 description: 数値からpngPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチ番号ファイルからpngへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

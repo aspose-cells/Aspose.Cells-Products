@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte XLSM na SVG pomocí aplikace C++ 
-url: /cs/cpp/conversion/xlsm-to-svg/ 
+
 description: Ukázka převodního kódu C++ pro dokument XLSM na formát SVG. Programátoři mohou použít tento zdrojový kód pro dávkový převod XLSM na SVG v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

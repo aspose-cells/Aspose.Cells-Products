@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLS-bestanden samenvoegen via Java 
 weight: 5140
-url: /nl/java/merger/xls/ 
+
 description: Java voorbeeldcode om XLS-documenten te combineren in Java Runtime Environment voor JSP/JSF-applicaties en desktopapplicaties.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

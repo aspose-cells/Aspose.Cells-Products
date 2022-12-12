@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera TXT till MARKDOWN via Python
-url: /sv/python-java/conversion/txt-to-markdown/
+
 description: Exempelkod för txt för att markera Python omvandling. Använd API exempelkod för batch-txt-filer för att markera nedkonvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

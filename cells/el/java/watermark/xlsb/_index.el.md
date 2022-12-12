@@ -1,7 +1,7 @@
-﻿---
+---
 title: Υδατογράφημα εγγράφου XLSB μέσω Java 
 weight: 5900
-url: /el/java/watermark/xlsb/ 
+
 description: Java δείγμα κώδικα για να προσθέσετε ή να αφαιρέσετε υδατογράφημα στο αρχείο XLSB στο Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

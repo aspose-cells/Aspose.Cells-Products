@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera TABDELIMITED till MARKDOWN via Python
-url: /sv/python-java/conversion/tabdelimited-to-markdown/
+
 description: Exempelkod för tabbavgränsad till markdown Python-omvandling. Använd API-exempelkod för batch-tabbavgränsade filer för att markera nedkonvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++アプリケーションを介してSPREADSHEETMLをEMFに変換します 
-url: /ja/cpp/conversion/spreadsheetml-to-emf/ 
+
 description: SPREADSHEETMLドキュメントのEMF形式へのサンプルC++変換コード。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でSPREADSHEETMLからEMFへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

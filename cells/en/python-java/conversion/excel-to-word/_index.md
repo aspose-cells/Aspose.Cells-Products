@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to WORD via Python
-url: /python-java/conversion/excel-to-word/
+
 description: Convert EXCEL to WORD format in Python code. Save EXCEL as WORD using Python.
 ---
 

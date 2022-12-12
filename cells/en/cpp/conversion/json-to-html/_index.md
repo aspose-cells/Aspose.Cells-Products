@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to HTML via C++
-url: /cpp/conversion/json-to-html/
+
 description: Convert JSON to HTML format in C++ code. Save JSON as HTML using C++.
 ---
 

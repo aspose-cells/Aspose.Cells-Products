@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla XLSB'yi JSON'a dönüştürün
-url: /tr/python-java/conversion/xlsb-to-json/
+
 description: xlsb'den json'a Python dönüştürme için örnek kod. Python uygulamasında toplu xlsb dosyalarından json'a dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

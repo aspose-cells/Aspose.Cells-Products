@@ -1,7 +1,7 @@
-﻿---
+---
 title:  Grafico del documento XLS alle immagini tramite .NET 
 weight: 3210
-url: /it/net/chart/xls/ 
+
 description: C# codice sorgente per disegnare e convertire grafici o diagrammi in file XLS su piattaforme .NET Framework, .NET Core, Mono o Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

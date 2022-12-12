@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してSPREADSHEETMLをSVGに変換します
-url: /ja/python-java/conversion/spreadsheetml-to-svg/
+
 description: SpreadsheetmlからsvgPythonへの変換のサンプルコード。 Pythonアプリケーション内でのsvg変換へのバッチspreadsheetmlファイルのAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

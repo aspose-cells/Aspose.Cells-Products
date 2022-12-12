@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование TXT в SPREADSHEETML через Java 
-url: /ru/java/conversion/txt-to-spreadsheetml/ 
+
 description: Пример кода преобразования Java для формата TXT в файл SPREADSHEETML. Программисты могут использовать этот пример кода для экспорта электронных таблиц Excel и OpenOffice в SPREADSHEETML в любом веб-или настольном Java приложении.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

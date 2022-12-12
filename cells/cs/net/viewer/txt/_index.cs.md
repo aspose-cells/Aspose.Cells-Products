@@ -1,7 +1,7 @@
-﻿---
+---
 title: Zobrazit formáty souborů TXT prostřednictvím .NET 
 weight: 8300
-url: /cs/net/viewer/txt/ 
+
 description: C# zdrojový kód pro načítání, vykreslování a zobrazování dokumentů TXT na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

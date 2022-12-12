@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLSM konvertálása BMP-vé a következőn keresztül: Python"
-url: /hu/python-java/conversion/xlsm-to-bmp/
+
 description: Mintakód az xlsm–bmp Python konverzióhoz. Használjon API példakódot a kötegelt xlsm fájlok bmp konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

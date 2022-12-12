@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή SPREADSHEETML σε TXT μέσω Python
-url: /el/python-java/conversion/spreadsheetml-to-txt/
+
 description: Δείγμα κώδικα για μετατροπή υπολογιστικού φύλλου σε txt Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικές μετατροπές υπολογιστικών φύλλων σε txt εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

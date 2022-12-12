@@ -1,7 +1,7 @@
-﻿---
+---
 title: دمج ملفات ODS عبر .NET 
 weight: 4330
-url: /ar/net/merger/ods/ 
+
 description: C# شفرة المصدر لدمج مستندات ODS في .NET Framework أو .NET Core أو Mono أو أنظمة Xamarin الأساسية.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

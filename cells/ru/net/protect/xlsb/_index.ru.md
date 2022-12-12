@@ -1,7 +1,7 @@
-﻿---
+---
 title: Защитите и заблокируйте документ XLSB через .NET 
 weight: 5920
-url: /ru/net/protect/xlsb/ 
+
 description: Исходный код C# для блокировки файла XLSB с помощью пароля на платформах .NET Framework, .NET Core, Mono или Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

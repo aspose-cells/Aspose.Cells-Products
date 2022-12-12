@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# के माध्यम से ODS को MARKDOWN में बदलें
-url: /hi/net/conversion/ods-to-markdown/
+
 description: ऑड्स टू मार्कडाउन C# कन्वर्ज़न के लिए नमूना कोड। VB.NET, Asp.NET या किसी .NET आधारित एप्लिकेशन में रूपांतरण को चिह्नित करने के लिए बैच ऑड्स फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

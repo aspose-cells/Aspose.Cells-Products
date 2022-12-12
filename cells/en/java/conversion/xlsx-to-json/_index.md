@@ -1,6 +1,6 @@
 ---
 title: Convert XLSX to JSON via Java 
-url: /java/conversion/xlsx-to-json/
+
 description: Convert XLSX to JSON format in Java code. Save XLSX as JSON using Java.
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++を介してXLSドキュメントからテキストと画像を抽出します 
 weight: 7610
-url: /ja/cpp/parser/xls/ 
+
 description: C++ Windows 32ビット、Windows 64ビット、Linux64ビットのランタイム環境でXLSファイルからテキストと画像を抽出するためのサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

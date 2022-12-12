@@ -1,7 +1,7 @@
-﻿---
+---
 title: Преобразование XLS в DIF с помощью приложения C++ 
 weight: 640
-url: /ru/cpp/conversion/xls-to-dif/ 
+
 description: Пример кода преобразования C++ для документа XLS в формат DIF. Программисты могут использовать этот исходный код для пакетного преобразования XLS в DIF в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

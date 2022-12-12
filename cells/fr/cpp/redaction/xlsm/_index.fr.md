@@ -1,7 +1,7 @@
-﻿---
+---
 title: Rechercher et remplacer du texte dans un document XLSM via C++ 
 weight: 9570
-url: /fr/cpp/redaction/xlsm/ 
+
 description: C++ Exemple de code pour masquer les informations sensibles dans le fichier XLSM sur C++ Runtime Environment pour Windows 32 bits, Windows 64 bits et Linux 64 bits.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

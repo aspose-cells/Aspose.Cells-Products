@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertálja a TSV-t MHTML-re a(z) C++ alkalmazáson keresztül 
 weight: 9310
-url: /hu/cpp/conversion/tsv-to-mhtml/ 
+
 description: Minta C++ konverziós kód a TSV-dokumentumhoz MHTML formátumba. A programozók ezt a forráskódot használhatják kötegelt TSV-ből MHTML-re konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

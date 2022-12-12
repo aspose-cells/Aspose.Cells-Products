@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera XLTM till MARKDOWN via Python
-url: /sv/python-java/conversion/xltm-to-markdown/
+
 description: Exempelkod för xltm för att markera Python-konvertering. Använd API-exempelkod för batch-xltm-filer för att markera nedkonvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to TIFF via Java 
-url: /java/conversion/sxc-to-tiff/
+
 description: Convert SXC to TIFF format in Java code. Save SXC as TIFF using Java.
 ---
 

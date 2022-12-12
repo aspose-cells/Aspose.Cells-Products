@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLSM na TXT přes Python
-url: /cs/python-java/conversion/xlsm-to-txt/
+
 description: Ukázkový kód pro převod xlsm na txt Python. Použijte API ukázkový kód pro dávkový převod souborů xlsm na txt v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

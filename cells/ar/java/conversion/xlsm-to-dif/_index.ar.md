@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل XLSM إلى DIF عبر Java 
 weight: 1940
-url: /ar/java/conversion/xlsm-to-dif/ 
+
 description: نموذج Java رمز تحويل لتنسيق XLSM إلى ملف DIF. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى DIF داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

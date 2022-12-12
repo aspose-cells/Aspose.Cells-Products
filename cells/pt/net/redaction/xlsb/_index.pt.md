@@ -1,7 +1,7 @@
-﻿---
+---
 title: Pesquise e substitua texto no documento XLSB por meio de .NET 
 weight: 3890
-url: /pt/net/redaction/xlsb/ 
+
 description: C# código-fonte para redigir informações confidenciais no arquivo XLSB nas plataformas .NET Framework, .NET Core, Mono ou Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

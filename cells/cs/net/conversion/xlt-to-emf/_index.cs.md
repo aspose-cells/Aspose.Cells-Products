@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLT na EMF přes C#
-url: /cs/net/conversion/xlt-to-emf/
+
 description: Ukázkový kód pro převod xlt na emf C#. Použijte API ukázkový kód pro dávkové soubory xlt na převod EMF v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

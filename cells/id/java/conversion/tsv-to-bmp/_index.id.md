@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversikan TSV ke BMP melalui Java 
 weight: 4200
-url: /id/java/conversion/tsv-to-bmp/ 
+
 description: Contoh Java kode konversi untuk format TSV ke file BMP. Pemrogram dapat menggunakan kode contoh ini untuk mengekspor spreadsheet Excel & OpenOffice ke BMP dalam Aplikasi berbasis Web atau Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

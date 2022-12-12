@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLSM konvertálása JPG-re a következőn keresztül: C#"
-url: /hu/net/conversion/xlsm-to-jpg/
+
 description: Mintakód az xlsm-ből jpg-be C# konvertáláshoz. Használjon API példakódot a kötegelt xlsm fájlok jpg formátumú konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazásban.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

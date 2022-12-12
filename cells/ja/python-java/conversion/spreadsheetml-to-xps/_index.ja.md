@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してSPREADSHEETMLをXPSに変換します
-url: /ja/python-java/conversion/spreadsheetml-to-xps/
+
 description: SpreadsheetmlからxpsPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチspreadsheetmlファイルからxpsへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

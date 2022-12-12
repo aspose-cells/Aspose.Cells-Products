@@ -1,7 +1,7 @@
-﻿---
+---
 title: Wyodrębnij tekst i obrazy z dokumentu ODS za pomocą Java 
 weight: 4740
-url: /pl/java/parser/ods/ 
+
 description: Java przykładowy kod do wyodrębniania tekstu i obrazów z pliku ODS w Java środowisku wykonawczym dla aplikacji JSP/JSF i aplikacji komputerowych.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

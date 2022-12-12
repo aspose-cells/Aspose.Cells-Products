@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง XLT เป็น TIFF ผ่าน C#
-url: /th/net/conversion/xlt-to-tiff/
+
 description: โค้ดตัวอย่างสำหรับการแปลง xlt เป็น tiff C# ใช้โค้ดตัวอย่าง API สำหรับไฟล์แบตช์ xlt เพื่อแปลง tiff ภายใน VB.NET, Asp.NET หรือแอปพลิเคชันที่ใช้ .NET
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

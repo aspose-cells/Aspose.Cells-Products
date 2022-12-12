@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to SXC via C#
-url: /net/conversion/numbers-to-sxc/
+
 description: Convert NUMBERS to SXC format in C# code. Save NUMBERS as SXC using VB.NET, Asp.NET or any .NET based application.
 ---
 

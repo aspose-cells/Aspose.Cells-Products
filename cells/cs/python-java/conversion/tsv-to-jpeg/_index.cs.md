@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TSV na JPEG prostřednictvím Python
-url: /cs/python-java/conversion/tsv-to-jpeg/
+
 description: Ukázkový kód pro převod tsv na jpeg Python. Použijte API ukázkový kód pro dávkový převod souborů tsv na jpeg v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

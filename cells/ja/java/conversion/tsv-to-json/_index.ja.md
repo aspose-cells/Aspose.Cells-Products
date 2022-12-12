@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してTSVをJSONに変換します 
 weight: 1910
-url: /ja/java/conversion/tsv-to-json/ 
+
 description: TSV形式からJSONファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、任意のWebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをJSONにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

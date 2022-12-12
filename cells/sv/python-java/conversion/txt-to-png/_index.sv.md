@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera TXT till PNG via Python
-url: /sv/python-java/conversion/txt-to-png/
+
 description: Exempelkod för konvertering från txt till png Python. Använd API exempelkod för batch-txt-filer till png-konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

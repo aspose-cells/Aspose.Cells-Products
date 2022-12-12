@@ -1,6 +1,6 @@
-﻿---
+---
 title: Просмотр форматов файлов HTML через .NET 
-url: /ru/net/viewer/html/ 
+
 description: Исходный код C# для загрузки, рендеринга и отображения HTML-документов на платформах .NET Framework, .NET Core, Windows Azure, Mono или Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

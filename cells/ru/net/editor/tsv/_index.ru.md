@@ -1,6 +1,6 @@
-﻿---
+---
 title: Редактировать файлы TSV через .NET 
-url: /ru/net/editor/tsv/ 
+
 description: Исходный код C# для редактирования документа TSV на платформах .NET Framework, .NET Core, Windows Azure, Mono или Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

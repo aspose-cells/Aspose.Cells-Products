@@ -1,6 +1,6 @@
-﻿---
+---
 title: Δημιουργία αρχείων MS Excel XLSX μέσω Python 
-url: /el/python-java/create-xlsx/ 
+
 description: Python Δείγμα κώδικα για τη δημιουργία εγγράφων XLSX. Χρησιμοποιήστε αυτόν τον κώδικα για τη δημιουργία αρχείων MS Excel XLSX εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

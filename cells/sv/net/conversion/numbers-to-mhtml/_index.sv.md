@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera NUMBERS till MHTML via C#
-url: /sv/net/conversion/numbers-to-mhtml/
+
 description: Exempelkod för konvertering av tal till mhtml C#. Använd API exempelkod för batchnummerfiler till mhtml-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

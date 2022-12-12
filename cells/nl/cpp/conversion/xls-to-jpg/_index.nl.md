@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLS naar JPG via C++ applicatie 
-url: /nl/cpp/conversion/xls-to-jpg/ 
+
 description: Voorbeeld C++-conversiecode voor XLS-document naar JPG-indeling. Programmeurs kunnen deze broncode gebruiken voor batch-XLS-naar-JPG-conversie binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

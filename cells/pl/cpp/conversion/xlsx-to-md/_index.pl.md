@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj XLSX na MD za pomocą aplikacji C++ 
-url: /pl/cpp/conversion/xlsx-to-md/ 
+
 description: Przykładowy kod konwersji C++ dla dokumentu XLSX do formatu MD. Programiści mogą używać tego kodu źródłowego do wsadowej konwersji XLSX na MD w dowolnej aplikacji C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

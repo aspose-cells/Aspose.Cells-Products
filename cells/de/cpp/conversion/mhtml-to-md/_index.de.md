@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie MHTML in MD über die Anwendung C++ 
-url: /de/cpp/conversion/mhtml-to-md/ 
+
 description: Beispiel-Umwandlungscode C++ für ein MHTML-Dokument in das MD-Format. Programmierer können diesen Quellcode für die Stapelkonvertierung von MHTML in MD in jeder C++-Anwendung verwenden.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

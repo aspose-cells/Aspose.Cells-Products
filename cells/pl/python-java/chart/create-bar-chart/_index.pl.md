@@ -1,6 +1,6 @@
-﻿---
+---
 title: Twórz wykresy słupkowe za pomocą Python
-url: /pl/python-java/create-bar-chart/
+
 description: Python Przykładowy kod do tworzenia wykresów słupkowych w programie Excel przy użyciu biblioteki Python. Użyj tego kodu, aby utworzyć wykres słupkowy do MS Excel w aplikacji opartej na Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

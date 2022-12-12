@@ -1,6 +1,6 @@
-﻿---
+---
 title: "MHTML konvertálása JSON formátumba a következőn keresztül: Python"
-url: /hu/python-java/conversion/mhtml-to-json/
+
 description: Mintakód az mhtml–json Python konverzióhoz. Használjon API példakódot az mhtml-fájlok kötegelt JSON-konverziójához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

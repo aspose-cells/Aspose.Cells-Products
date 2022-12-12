@@ -1,7 +1,7 @@
-﻿---
+---
 title: Modifier ou afficher les métadonnées des fichiers XLSM via Java 
 weight: 9030
-url: /fr/java/metadata/xlsm/ 
+
 description: Java exemple de code pour modifier ou afficher les métadonnées au format XLSM sur Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

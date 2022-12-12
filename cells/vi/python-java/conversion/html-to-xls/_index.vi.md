@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi HTML sang XLS qua Python
-url: /vi/python-java/conversion/html-to-xls/
+
 description: Mã mẫu cho chuyển đổi html sang xls Python. Sử dụng mã mẫu API cho chuyển đổi hàng loạt tệp html sang xls trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

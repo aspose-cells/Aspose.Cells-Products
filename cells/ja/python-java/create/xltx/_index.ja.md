@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してMSExcelXLTXファイルを作成する 
-url: /ja/python-java/create-xltx/ 
+
 description: PythonXLTXドキュメントを生成するためのサンプルコード。このコードを使用して、Pythonアプリケーション内にMSExcelXLTXファイルを作成します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

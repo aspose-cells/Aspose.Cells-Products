@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer CSV naar JPEG via C++ applicatie 
 weight: 1280
-url: /nl/cpp/conversion/csv-to-jpeg/ 
+
 description: Voorbeeld C++-conversiecode voor CSV-document naar JPEG-indeling. Programmeurs kunnen deze broncode gebruiken voor batch-CSV-naar-JPEG-conversie binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

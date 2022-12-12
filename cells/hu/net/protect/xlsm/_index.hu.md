@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLSM-dokumentum védelme és zárolása a következőn keresztül: .NET "
 weight: 7530
-url: /hu/net/protect/xlsm/ 
+
 description: C# forráskód az XLSM-fájl jelszóval történő zárolásához .NET Framework, .NET Core, Mono vagy Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

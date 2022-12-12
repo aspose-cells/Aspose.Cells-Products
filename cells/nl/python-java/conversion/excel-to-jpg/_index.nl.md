@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer EXCEL naar JPG via Python
-url: /nl/python-java/conversion/excel-to-jpg/
+
 description: Voorbeeldcode voor conversie van Excel naar jpg Python. Gebruik API voorbeeldcode voor batch Excel-bestanden naar jpg-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

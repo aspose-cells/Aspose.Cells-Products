@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to PDF via C++
-url: /cpp/conversion/txt-to-pdf/
+
 description: Convert TXT to PDF format in C++ code. Save TXT as PDF using C++.
 ---
 

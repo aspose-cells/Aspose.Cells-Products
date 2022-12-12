@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++アプリケーションを介してXLTMをTIFFに変換します 
-url: /ja/cpp/conversion/xltm-to-tiff/ 
+
 description: XLTMドキュメントからTIFF形式へのサンプルC++変換コード。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でXLTMからTIFFへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

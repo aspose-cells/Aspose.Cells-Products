@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してTXTをODSに変換します
-url: /ja/net/conversion/txt-to-ods/
+
 description: txtからodsC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチtxtファイルからodsへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

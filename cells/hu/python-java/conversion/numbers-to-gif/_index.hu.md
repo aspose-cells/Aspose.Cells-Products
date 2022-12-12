@@ -1,6 +1,6 @@
-﻿---
+---
 title: "NUMBERS konvertálása GIF formátumba a következőn keresztül: Python"
-url: /hu/python-java/conversion/numbers-to-gif/
+
 description: Mintakód számokból gif Python konverzióba. Használjon API példakódot kötegszámfájlokhoz a gif-konverzióhoz a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

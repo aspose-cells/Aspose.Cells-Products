@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLTX в PDF через C#
-url: /ru/net/conversion/xltx-to-pdf/
+
 description: Пример кода для преобразования xltx в pdf C#. Используйте пример кода API для пакетного преобразования файлов xltx в pdf в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

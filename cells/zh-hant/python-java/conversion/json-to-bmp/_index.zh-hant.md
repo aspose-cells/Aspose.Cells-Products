@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 Python 將 JSON 轉換為 BMP
-url: /zh-hant/python-java/conversion/json-to-bmp/
+
 description: json 到 bmp Python 轉換的示例代碼。使用 Python 應用程序中批處理 json 文件的 API 示例代碼到 bmp 轉換。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

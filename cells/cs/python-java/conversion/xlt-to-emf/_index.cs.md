@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLT na EMF přes Python
-url: /cs/python-java/conversion/xlt-to-emf/
+
 description: Ukázkový kód pro převod xlt na emf Python. Použijte API ukázkový kód pro dávkový převod xlt souborů na emf v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

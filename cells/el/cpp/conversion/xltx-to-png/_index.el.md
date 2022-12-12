@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατρέψτε το XLTX σε PNG μέσω της εφαρμογής C++ 
-url: /el/cpp/conversion/xltx-to-png/ 
+
 description: Δείγμα κώδικα μετατροπής C++ για έγγραφο XLTX σε μορφή PNG. Οι προγραμματιστές μπορούν να χρησιμοποιήσουν αυτόν τον πηγαίο κώδικα για μαζική μετατροπή XLTX σε PNG σε οποιαδήποτε εφαρμογή C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

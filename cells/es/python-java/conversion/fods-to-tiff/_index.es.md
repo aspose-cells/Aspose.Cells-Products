@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta FODS a TIFF a través de Python
-url: /es/python-java/conversion/fods-to-tiff/
+
 description: Ejemplo de código para la conversión de fods a tiff Python. Use el código de ejemplo API para archivos de alimentos por lotes para conversión TIFF dentro de la aplicación Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

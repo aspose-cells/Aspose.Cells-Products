@@ -1,6 +1,6 @@
-﻿---
+---
 title: Создавайте диаграммы Bubble3D с помощью Python
-url: /ru/python-java/create-bubble3d-chart/
+
 description: Python Пример кода для создания диаграмм Bubble3D в Excel с использованием библиотеки Python. Используйте этот код для создания диаграммы Bubble3D в MS Excel в приложении на основе Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

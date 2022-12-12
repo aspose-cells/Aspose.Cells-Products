@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование NUMBERS в XPS через Java 
-url: /ru/java/conversion/numbers-to-xps/ 
+
 description: Пример кода преобразования Java для формата NUMBERS в файл XPS. Программисты могут использовать этот пример кода для экспорта электронных таблиц Excel и OpenOffice в формат XPS в любом веб- или настольном Java приложении.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

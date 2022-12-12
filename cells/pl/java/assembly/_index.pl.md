@@ -1,6 +1,6 @@
-﻿---
+---
 title: Twórz pliki Excela za pomocą Java
-url: /pl/java/assembly/
+
 description: Generuj arkusze kalkulacyjne Microsoft Excel z arkusza szablonu za pomocą Javabiblioteki arkuszy kalkulacyjnych
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

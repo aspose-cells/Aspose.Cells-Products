@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to JPG via C++
-url: /cpp/conversion/txt-to-jpg/
+
 description: Convert TXT to JPG format in C++ code. Save TXT as JPG using C++.
 ---
 

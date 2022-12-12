@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLSB-fájlok felosztása a következőn keresztül: .NET "
 weight: 7370
-url: /hu/net/splitter/xlsb/ 
+
 description: C# forráskód az XLSB dokumentumok felosztásához .NET Framework, .NET Core, Mono vagy Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

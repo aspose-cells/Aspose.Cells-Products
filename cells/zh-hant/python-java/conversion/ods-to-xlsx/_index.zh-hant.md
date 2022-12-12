@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 Python 將 ODS 轉換為 XLSX
-url: /zh-hant/python-java/conversion/ods-to-xlsx/
+
 description: ods 到 xlsx Python 轉換的示例代碼。使用 Python 應用程序中將 ods 文件批量轉換為 xlsx 的 API 示例代碼。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

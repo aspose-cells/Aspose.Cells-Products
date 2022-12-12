@@ -1,6 +1,6 @@
-﻿---
+---
 title: Créer des graphiques en aires via C#
-url: /fr/net/create-area-chart/
+
 description: C# Exemple de code pour créer des graphiques en aires dans Excel à l'aide de la bibliothèque .NET. Utilisez ce code pour créer un graphique en aires vers MS Excel dans VB.NET, Asp.NET ou toute autre application basée sur .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

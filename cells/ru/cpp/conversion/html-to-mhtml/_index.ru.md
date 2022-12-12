@@ -1,7 +1,7 @@
-﻿---
+---
 title: Преобразование HTML в MHTML с помощью приложения C++ 
 weight: 4130
-url: /ru/cpp/conversion/html-to-mhtml/ 
+
 description: Пример C++ кода преобразования HTML-документа в формат MHTML. Программисты могут использовать этот исходный код для пакетного преобразования HTML в MHTML в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

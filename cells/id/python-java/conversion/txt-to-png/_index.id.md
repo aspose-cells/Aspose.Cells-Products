@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi TXT ke PNG melalui Python
-url: /id/python-java/conversion/txt-to-png/
+
 description: Contoh kode untuk konversi txt ke png Python. Gunakan API kode contoh untuk file batch txt ke konversi png dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

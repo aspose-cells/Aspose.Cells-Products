@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer TSV naar XML via C++ applicatie 
-url: /nl/cpp/conversion/tsv-to-xml/ 
+
 description: Voorbeeld C++ conversiecode voor TSV-document naar XML-indeling. Programmeurs kunnen deze broncode gebruiken voor batch-TSV-naar-XML-conversie binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

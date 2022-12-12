@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java Excel API - Aspose 
 weight: 6830
-url: /de/java/ 
+
 description: Java Excel-Bibliothek für die Verarbeitung von Tabellenkalkulationen. Lesen, schreiben, rendern und konvertieren Sie XLS, XLSX, XLSM, ODS, CSV, TSV und weitere Formate. Kompatibel mit Windows Linux und Unix
 ---
 {{< blocks/products/pf/main-wrap-class >}}

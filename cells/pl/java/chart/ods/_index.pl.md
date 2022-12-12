@@ -1,7 +1,7 @@
-﻿---
+---
 title: Wykres dokumentu ODS za pośrednictwem Java 
 weight: 2240
-url: /pl/java/chart/ods/ 
+
 description: Java przykładowy kod do rysowania i konwertowania wykresu lub diagramu w pliku ODS w Java środowisku wykonawczym dla aplikacji JSP/JSF i aplikacji komputerowych.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertálja az XLS-t DIF-re a(z) C++ alkalmazással 
 weight: 640
-url: /hu/cpp/conversion/xls-to-dif/ 
+
 description: Minta C++ konverziós kód XLS-dokumentumhoz DIF formátumba. A programozók ezt a forráskódot használhatják kötegelt XLS-DIF konvertáláshoz bármely C++ alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer MHTML naar SPREADSHEETML via Python
-url: /nl/python-java/conversion/mhtml-to-spreadsheetml/
+
 description: Voorbeeldcode voor conversie van mhtml naar spreadsheetml Python. Gebruik API voorbeeldcode voor batch-mhtml-bestanden naar spreadsheetml-conversie binnen Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

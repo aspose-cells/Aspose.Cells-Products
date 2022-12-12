@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحرير ملفات ODS عبر .NET 
-url: /ar/net/editor/ods/ 
+
 description: C# شفرة المصدر لتعديل مستند ODS على الأنظمة الأساسية .NET Framework أو .NET Core أو Windows Azure Mono أو Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

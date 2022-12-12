@@ -1,6 +1,6 @@
 ---
 title: Convert XLTM to JPEG via Java 
-url: /java/conversion/xltm-to-jpeg/
+
 description: Convert XLTM to JPEG format in Java code. Save XLTM as JPEG using Java.
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer XLSB naar CSV via C++ applicatie 
 weight: 6060
-url: /nl/cpp/conversion/xlsb-to-csv/ 
+
 description: Voorbeeld C++ conversiecode voor XLSB-document naar CSV-indeling. Programmeurs kunnen deze broncode gebruiken voor batch-XLSB-naar-CSV-conversie binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

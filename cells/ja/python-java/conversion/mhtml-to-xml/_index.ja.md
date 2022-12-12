@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してMHTMLをXMLに変換します
-url: /ja/python-java/conversion/mhtml-to-xml/
+
 description: mhtmlからxmlPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチmhtmlファイルからxmlへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

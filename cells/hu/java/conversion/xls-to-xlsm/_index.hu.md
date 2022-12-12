@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLS konvertálása XLSM-re a következőn keresztül: Java "
 weight: 3600
-url: /hu/java/conversion/xls-to-xlsm/ 
+
 description: Minta Java konverziós kód az XLS formátumhoz XLSM fájllá. A programozók ezt a példakódot használhatják Excel- és OpenOffice-táblázatok XLSM-be exportálására bármely web- vagy asztali Java-alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

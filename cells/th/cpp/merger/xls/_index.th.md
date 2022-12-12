@@ -1,6 +1,6 @@
-﻿---
+---
 title: รวมไฟล์ XLS ผ่าน C++ 
-url: /th/cpp/merger/xls/ 
+
 description: C++ โค้ดตัวอย่างเพื่อรวมเอกสาร XLS บน C++ Runtime Environment สำหรับ Windows 32 บิต, Windows 64 บิต และ Linux 64 บิต
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

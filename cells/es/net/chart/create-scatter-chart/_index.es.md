@@ -1,6 +1,6 @@
-﻿---
+---
 title: Crear gráficos de dispersión a través de C#
-url: /es/net/create-scatter-chart/
+
 description: C# Código de ejemplo para crear gráficos de dispersión en Excel mediante la biblioteca .NET. Utilice este código para crear un gráfico de dispersión en MS Excel dentro de VB.NET, Asp.NET o cualquier aplicación basada en .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

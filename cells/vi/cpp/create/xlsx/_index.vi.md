@@ -1,6 +1,6 @@
-﻿---
+---
 title: Tạo Tệp MS Excel XLSX qua C++ 
-url: /vi/cpp/create-xlsx/ 
+
 description: C++ Mã mẫu để tạo tệp MS Excel XLSX. Sử dụng mã này để tạo tệp MS Excel XLSX trong ứng dụng dựa trên C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

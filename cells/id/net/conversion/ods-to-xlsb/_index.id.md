@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan ODS ke XLSB melalui C#
-url: /id/net/conversion/ods-to-xlsb/
+
 description: Contoh kode untuk konversi ods ke xlsb C#. Gunakan API kode contoh untuk file batch ods ke konversi xlsb dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

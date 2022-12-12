@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to TABDELIMITED via C#
-url: /net/conversion/csv-to-tabdelimited/
+
 description: Convert CSV to TABDELIMITED format in C# code. Save CSV as TABDELIMITED using VB.NET, Asp.NET or any .NET based application.
 ---
 

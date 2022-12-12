@@ -1,7 +1,7 @@
 ---
 title: Merge HTML Files via .NET 
 weight: 9440
-url: /net/merger/html/ 
+
 description: C# source code to combine HTML documents on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

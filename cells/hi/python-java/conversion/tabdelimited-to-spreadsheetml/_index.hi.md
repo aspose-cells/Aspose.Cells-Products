@@ -1,6 +1,6 @@
-﻿---
+---
 title: TABDELIMITED को Python के माध्यम से SPREADSHEETML में बदलें
-url: /hi/python-java/conversion/tabdelimited-to-spreadsheetml/
+
 description: टैबडिलिमिटेड से स्प्रेडशीटएमएल Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर स्प्रैडशीटएमएल रूपांतरण में बैच टैबसीमांकित फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer FODS naar PNG via Python
-url: /nl/python-java/conversion/fods-to-png/
+
 description: Voorbeeldcode voor conversie van fods naar png Python. Gebruik API voorbeeldcode voor batch-fods-bestanden naar png-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование CSV в EMF через Python
-url: /ru/python-java/conversion/csv-to-emf/
+
 description: Пример кода для преобразования csv в emf Python. Используйте пример кода API для пакетного преобразования CSV-файлов в emf в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

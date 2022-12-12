@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az ODS-t XLT-vé a C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/ods-to-xlt/ 
+
 description: Minta C++ konverziós kód az ODS dokumentumhoz XLT formátumba. A programozók ezt a forráskódot használhatják kötegelt ODS-XLT-konverzióhoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

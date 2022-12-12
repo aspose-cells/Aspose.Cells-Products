@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer MHTML naar SVG via C++ applicatie 
 weight: 7050
-url: /nl/cpp/conversion/mhtml-to-svg/ 
+
 description: Voorbeeld C++ conversiecode voor MHTML-document naar SVG-indeling. Programmeurs kunnen deze broncode gebruiken voor batchconversie van MHTML naar SVG binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

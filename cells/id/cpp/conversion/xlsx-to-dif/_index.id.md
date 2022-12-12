@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversi XLSX ke DIF melalui C++ aplikasi 
 weight: 4180
-url: /id/cpp/conversion/xlsx-to-dif/ 
+
 description: Contoh C++ kode konversi untuk dokumen XLSX ke format DIF. Pemrogram dapat menggunakan kode sumber ini untuk konversi batch XLSX ke DIF dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to SXC via Java 
-url: /java/conversion/xlsb-to-sxc/
+
 description: Convert XLSB to SXC format in Java code. Save XLSB as SXC using Java.
 ---
 

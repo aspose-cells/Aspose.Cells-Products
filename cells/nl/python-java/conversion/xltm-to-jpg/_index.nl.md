@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLTM naar JPG via Python
-url: /nl/python-java/conversion/xltm-to-jpg/
+
 description: Voorbeeldcode voor conversie van xltm naar jpg Python. Gebruik API voorbeeldcode voor batch xltm-bestanden naar jpg-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

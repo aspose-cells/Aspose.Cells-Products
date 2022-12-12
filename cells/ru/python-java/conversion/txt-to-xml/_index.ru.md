@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование TXT в XML через Python
-url: /ru/python-java/conversion/txt-to-xml/
+
 description: Пример кода для преобразования txt в xml Python. Используйте пример кода API для пакетного преобразования файлов txt в xml в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

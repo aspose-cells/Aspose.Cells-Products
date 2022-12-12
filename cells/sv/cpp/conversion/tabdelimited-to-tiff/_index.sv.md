@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera TABDELIMITED till TIFF via programmet C++ 
-url: /sv/cpp/conversion/tabdelimited-to-tiff/ 
+
 description: Exempel på konverteringskod för C++ för TABDELLIMITED-dokument till TIFF-format. Programmerare kan använda den här källkoden för batchkonvertering av TABBDELBEGRÄNSAD till TIFF i alla C++-program.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

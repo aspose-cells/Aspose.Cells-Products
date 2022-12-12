@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 Python 將 SXC 轉換為 HTML
-url: /zh-hant/python-java/conversion/sxc-to-html/
+
 description: sxc 到 html Python 轉換的示例代碼。在 Python 應用程序中使用 API 示例代碼將 sxc 文件批量轉換為 html。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

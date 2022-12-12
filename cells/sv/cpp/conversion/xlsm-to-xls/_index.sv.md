@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera XLSM till XLS via appen C++ 
-url: /sv/cpp/conversion/xlsm-to-xls/ 
+
 description: Exempel på C++-konverteringskod för XLSM-dokument till XLS-format. Programmerare kan använda den här källkoden för batchkonvertering av XLSM till XLS inom alla C++-program.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

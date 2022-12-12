@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++를 통해 XLSB 문서에서 텍스트 및 이미지 추출 
 weight: 3140
-url: /ko/cpp/parser/xlsb/ 
+
 description: C++ Windows 32비트, Windows 64비트 및 Linux 64비트용 C++ 런타임 환경의 XLSB 파일에서 텍스트와 이미지를 추출하는 예제 코드.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

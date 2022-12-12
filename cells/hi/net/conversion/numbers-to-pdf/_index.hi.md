@@ -1,6 +1,6 @@
-﻿---
+---
 title: NUMBERS को C# के माध्यम से PDF में बदलें
-url: /hi/net/conversion/numbers-to-pdf/
+
 description: संख्याओं के लिए नमूना कोड pdf C# रूपांतरण में। VB.NET, Asp.NET या किसी भी .NET आधारित एप्लिकेशन के भीतर बैच नंबर फ़ाइलों के पीडीएफ रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

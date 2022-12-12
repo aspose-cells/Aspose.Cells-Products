@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή XLSM σε MARKDOWN μέσω C#
-url: /el/net/conversion/xlsm-to-markdown/
+
 description: Δείγμα κώδικα για μετατροπή xlsm σε σήμανση C#. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία xlsm για να επισημάνετε τη μετατροπή σε VB.NET, Asp.NET ή οποιαδήποτε εφαρμογή που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

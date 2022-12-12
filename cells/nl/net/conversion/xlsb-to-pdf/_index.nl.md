@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLSB naar PDF via C#
-url: /nl/net/conversion/xlsb-to-pdf/
+
 description: Voorbeeldcode voor xlsb naar pdf C# conversie. Gebruik API voorbeeldcode voor batch xlsb-bestanden naar pdf-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

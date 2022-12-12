@@ -1,6 +1,6 @@
-﻿---
+---
 title: Vytvářejte soubory CSV prostřednictvím C# 
-url: /cs/net/create-csv/ 
+
 description: C# Ukázkový kód pro generování dokumentů CSV. Tento kód použijte k vytváření souborů CSV v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

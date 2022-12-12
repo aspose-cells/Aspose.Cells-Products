@@ -1,6 +1,6 @@
-﻿---
+---
 title: Créer des graphiques Bubble3D via Python
-url: /fr/python-java/create-bubble3d-chart/
+
 description: Python Exemple de code pour créer des graphiques Bubble3D dans Excel à l'aide de la bibliothèque Python. Utilisez ce code pour créer un graphique Bubble3D vers MS Excel dans une application basée sur Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
 ---
 title: Insert ListBox(Form control) into Excel via .NET 
 weight: 50
-url: /net/developer/insert-form-control-listbox-to-excel/ 
+
 description: C# source code to insert ListBox(Form control) into Excel on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή SPREADSHEETML σε PNG μέσω Python
-url: /el/python-java/conversion/spreadsheetml-to-png/
+
 description: Δείγμα κώδικα για μετατροπή υπολογιστικού φύλλου σε png Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικές μετατροπές υπολογιστικών φύλλων σε png εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj CSV na JPG przez Python
-url: /pl/python-java/conversion/csv-to-jpg/
+
 description: Przykładowy kod konwersji csv do jpg Python. Użyj przykładowego kodu API dla wsadowych plików csv do konwersji jpg w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

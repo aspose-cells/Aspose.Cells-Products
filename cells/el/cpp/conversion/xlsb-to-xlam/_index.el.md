@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατρέψτε το XLSB σε XLAM μέσω της εφαρμογής C++ 
-url: /el/cpp/conversion/xlsb-to-xlam/ 
+
 description: Δείγμα κώδικα μετατροπής C++ για έγγραφο XLSB σε μορφή XLAM. Οι προγραμματιστές μπορούν να χρησιμοποιήσουν αυτόν τον πηγαίο κώδικα για ομαδική μετατροπή XLSB σε XLAM σε οποιαδήποτε εφαρμογή C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

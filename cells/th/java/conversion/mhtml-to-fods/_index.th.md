@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง MHTML เป็น FODS ผ่าน Java 
-url: /th/java/conversion/mhtml-to-fods/ 
+
 description: ตัวอย่างรหัสการแปลง Java สำหรับรูปแบบ MHTML เป็นไฟล์ FODS โปรแกรมเมอร์สามารถใช้โค้ดตัวอย่างนี้เพื่อส่งออกสเปรดชีต Excel & OpenOffice ไปยัง FODS ภายในแอปพลิเคชันบนเว็บหรือเดสก์ท็อป Java
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

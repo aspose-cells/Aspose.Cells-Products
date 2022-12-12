@@ -1,7 +1,7 @@
-﻿---
+---
 title: قم بتحويل XLSX إلى XLTM عبر تطبيق C++ 
 weight: 7840
-url: /ar/cpp/conversion/xlsx-to-xltm/ 
+
 description: نموذج C++ رمز تحويل لمستند XLSX إلى تنسيق XLTM. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل دفعة XLSX إلى XLTM داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

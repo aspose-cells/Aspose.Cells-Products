@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل EXCEL إلى JSON عبر Python
-url: /ar/python-java/conversion/excel-to-json/
+
 description: نموذج رمز للتحويل من Excel إلى json Python. استخدم API رمز المثال لملفات Excel الدفعية لتحويل json داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

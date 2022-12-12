@@ -1,7 +1,7 @@
-﻿---
+---
 title: Συγχώνευση αρχείων TSV μέσω Java 
 weight: 9260
-url: /el/java/merger/tsv/ 
+
 description: Java δείγμα κώδικα για συνδυασμό εγγράφων TSV στο Java Runtime Environment για JSP/JSF Application και Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

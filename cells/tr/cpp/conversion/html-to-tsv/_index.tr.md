@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ uygulaması aracılığıyla HTML'yi TSV'ye dönüştürün 
 weight: 2390
-url: /tr/cpp/conversion/html-to-tsv/ 
+
 description: HTML belgesi için TSV biçimine örnek C++ dönüştürme kodu. Programcılar, herhangi bir C++ Uygulamasında toplu HTML'den TSV'ye dönüştürme için bu kaynak kodunu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

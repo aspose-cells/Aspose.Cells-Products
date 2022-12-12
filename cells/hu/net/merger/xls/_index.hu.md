@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLS-fájlok egyesítése a következőn keresztül: .NET "
 weight: 3000
-url: /hu/net/merger/xls/ 
+
 description: C# forráskód az XLS dokumentumok kombinálásához .NET Framework, .NET Core, Mono vagy Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

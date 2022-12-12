@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLTX konvertálása GIF formátumba a következőn keresztül: C#"
-url: /hu/net/conversion/xltx-to-gif/
+
 description: Mintakód xltx-ből gif-be C#. Használjon API példakódot kötegelt xltx fájlok gif konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

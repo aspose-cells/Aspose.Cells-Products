@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل TXT إلى CSV عبر Java 
 weight: 990
-url: /ar/java/conversion/txt-to-csv/ 
+
 description: نموذج Java رمز التحويل لتنسيق TXT إلى ملف CSV. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى CSV داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

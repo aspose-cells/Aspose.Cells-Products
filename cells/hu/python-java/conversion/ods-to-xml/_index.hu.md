@@ -1,6 +1,6 @@
-﻿---
+---
 title: "ODS konvertálása XML-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/ods-to-xml/
+
 description: Mintakód az ods–xml Python konverzióhoz. Használjon API példakódot a kötegelt ods-fájlok XML-re konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

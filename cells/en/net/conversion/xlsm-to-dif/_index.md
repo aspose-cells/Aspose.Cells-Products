@@ -1,6 +1,6 @@
 ---
 title: Convert XLSM to DIF via C#
-url: /net/conversion/xlsm-to-dif/
+
 description: Convert XLSM to DIF format in C# code. Save XLSM as DIF using VB.NET, Asp.NET or any .NET based application.
 ---
 

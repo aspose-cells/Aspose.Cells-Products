@@ -1,6 +1,6 @@
-﻿---
+---
 title: Vytvářejte soubory CSV prostřednictvím Java 
-url: /cs/java/create-csv/ 
+
 description: Java Ukázkový kód pro generování dokumentů CSV. Tento kód použijte k vytváření souborů CSV v počítačové nebo webové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

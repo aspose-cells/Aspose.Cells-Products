@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Konvertálja az XLSB-t BMP-vé a következőn keresztül: Python"
-url: /hu/python-java/conversion/xlsb-to-bmp/
+
 description: Mintakód az xlsb–bmp Python konverzióhoz. Használjon API példakódot kötegelt xlsb fájlok bmp konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

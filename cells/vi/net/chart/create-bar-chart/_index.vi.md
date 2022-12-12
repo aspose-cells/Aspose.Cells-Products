@@ -1,6 +1,6 @@
-﻿---
+---
 title: Tạo Biểu đồ Thanh qua C#
-url: /vi/net/create-bar-chart/
+
 description: C# Mã mẫu để tạo Biểu đồ thanh sang Excel bằng .NET Thư viện. Sử dụng mã này để tạo Biểu đồ thanh cho MS Excel trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

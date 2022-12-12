@@ -1,7 +1,7 @@
-﻿---
+---
 title: Προβολή μορφών αρχείων XLSX μέσω .NET 
 weight: 2180
-url: /el/net/viewer/xlsx/ 
+
 description: C# πηγαίος κώδικας για φόρτωση, απόδοση και εμφάνιση εγγράφων XLSX σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

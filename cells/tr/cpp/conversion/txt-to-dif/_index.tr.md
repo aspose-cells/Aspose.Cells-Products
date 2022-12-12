@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++ uygulaması aracılığıyla TXT'yi DIF'ye dönüştürün 
-url: /tr/cpp/conversion/txt-to-dif/ 
+
 description: TXT belgesi için DIF biçimine örnek C++ dönüştürme kodu. Programcılar, herhangi bir C++ Uygulamasında toplu TXT'den DIF'ye dönüştürme için bu kaynak kodunu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

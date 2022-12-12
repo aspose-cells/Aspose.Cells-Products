@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla XLTM'yi BMP'ye dönüştürün
-url: /tr/python-java/conversion/xltm-to-bmp/
+
 description: xltm'den bmp'ye Python dönüştürme için örnek kod. Python uygulamasında toplu xltm dosyalarından bmp'ye dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

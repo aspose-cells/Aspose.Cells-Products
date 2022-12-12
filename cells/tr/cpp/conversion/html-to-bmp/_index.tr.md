@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ uygulaması aracılığıyla HTML'yi BMP'ye dönüştürün 
 weight: 9710
-url: /tr/cpp/conversion/html-to-bmp/ 
+
 description: HTML belgesinden BMP biçimine örnek C++ dönüştürme kodu. Programcılar, herhangi bir C++ Uygulamasında toplu HTML'den BMP'ye dönüştürme için bu kaynak kodunu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

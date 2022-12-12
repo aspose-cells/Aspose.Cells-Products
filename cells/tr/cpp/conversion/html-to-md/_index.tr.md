@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++ uygulaması aracılığıyla HTML'yi MD'ye dönüştürün 
-url: /tr/cpp/conversion/html-to-md/ 
+
 description: HTML belgesinden MD biçimine örnek C++ dönüştürme kodu. Programcılar, herhangi bir C++ Uygulamasında toplu HTML'den MD'ye dönüştürme için bu kaynak kodunu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

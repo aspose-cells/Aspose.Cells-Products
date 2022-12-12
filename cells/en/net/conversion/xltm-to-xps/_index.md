@@ -1,6 +1,6 @@
 ---
 title: Convert XLTM to XPS via C#
-url: /net/conversion/xltm-to-xps/
+
 description: Convert XLTM to XPS format in C# code. Save XLTM as XPS using VB.NET, Asp.NET or any .NET based application.
 ---
 

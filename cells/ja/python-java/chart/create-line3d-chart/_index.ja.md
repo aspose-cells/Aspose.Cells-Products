@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介して3D折れ線グラフを作成する
-url: /ja/python-java/create-line3d-chart/
+
 description: PythonPythonライブラリを使用してExcelに3D折れ線グラフを作成するためのサンプルコード。このコードを使用して、Pythonベースのアプリケーション内でMSExcelへの3D折れ線グラフを作成します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

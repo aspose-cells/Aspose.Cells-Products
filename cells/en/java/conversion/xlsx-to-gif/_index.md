@@ -1,6 +1,6 @@
 ---
 title: Convert XLSX to GIF via Java 
-url: /java/conversion/xlsx-to-gif/
+
 description: Convert XLSX to GIF format in Java code. Save XLSX as GIF using Java.
 ---
 

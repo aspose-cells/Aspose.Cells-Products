@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertálja a HTML-t EMF-vé a(z) C++ alkalmazással 
 weight: 8550
-url: /hu/cpp/conversion/html-to-emf/ 
+
 description: Minta C++ konverziós kód HTML dokumentumhoz EMF formátumba. A programozók ezt a forráskódot használhatják kötegelt HTML-ből EMF-vé konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

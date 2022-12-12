@@ -1,6 +1,6 @@
-﻿---
+---
 title: إدارة البيانات الوصفية لملف Excel عبر C++
-url: /ar/cpp/metadata/
+
 description: عرض أو إضافة أو تعديل أو إزالة أو استخراج البيانات الوصفية لملفات Excel باستخدام مكتبة C++
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

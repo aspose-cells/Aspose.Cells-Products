@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj MHTML na MD przez C#
-url: /pl/net/conversion/mhtml-to-md/
+
 description: Przykładowy kod konwersji mhtml do md C#. Użyj przykładowego kodu API dla wsadowych plików mhtml do konwersji md w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to PDF via Python
-url: /python-net/conversion/numbers-to-pdf/
+
 description: Sample code for numbers to pdf Python conversion. Use API example code for batch numbers files to pdf conversion within Python application.
 ---
 

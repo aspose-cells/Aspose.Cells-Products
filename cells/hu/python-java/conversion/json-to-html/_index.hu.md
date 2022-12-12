@@ -1,6 +1,6 @@
-﻿---
+---
 title: "JSON konvertálása HTML-vé a következőn keresztül: Python"
-url: /hu/python-java/conversion/json-to-html/
+
 description: Mintakód a json–html Python konverzióhoz. Használjon API példakódot a JSON-fájlok kötegelt HTML-konverziójához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

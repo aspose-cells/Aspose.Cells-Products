@@ -1,6 +1,6 @@
 ---
 title: Create CSV Files via C++ 
-url: /cpp/create-csv/ 
+
 description: Create CSV files in C++ code. Generate CSV files using C++ application.
 ---
 

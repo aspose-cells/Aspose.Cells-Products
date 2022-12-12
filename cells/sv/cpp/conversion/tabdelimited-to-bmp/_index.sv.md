@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera TABDELIMITED till BMP via applikationen C++ 
-url: /sv/cpp/conversion/tabdelimited-to-bmp/ 
+
 description: Exempel på konverteringskod för C++ för TABDELLIMITED-dokument till BMP-format. Programmerare kan använda den här källkoden för batchkonvertering av TABDELLIMITED till BMP i vilken C++-applikation som helst.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

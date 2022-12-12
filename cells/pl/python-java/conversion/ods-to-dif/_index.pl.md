@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj ODS na DIF przez Python
-url: /pl/python-java/conversion/ods-to-dif/
+
 description: Przykładowy kod konwersji kursów na różnic Python. Użyj przykładowego kodu API dla wsadowych plików ods do konwersji różnic w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

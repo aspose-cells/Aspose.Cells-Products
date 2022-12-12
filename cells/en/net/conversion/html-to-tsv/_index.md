@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to TSV via C#
-url: /net/conversion/html-to-tsv/
+
 description: Convert HTML to TSV format in C# code. Save HTML as TSV using VB.NET, Asp.NET or any .NET based application.
 ---
 

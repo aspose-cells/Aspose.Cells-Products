@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование ODS в MD с помощью приложения C++ 
-url: /ru/cpp/conversion/ods-to-md/ 
+
 description: Пример кода преобразования C++ для документа ODS в формат MD. Программисты могут использовать этот исходный код для пакетного преобразования ODS в MD в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

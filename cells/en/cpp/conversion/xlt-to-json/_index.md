@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to JSON via C++
-url: /cpp/conversion/xlt-to-json/
+
 description: Convert XLT to JSON format in C++ code. Save XLT as JSON using C++.
 ---
 

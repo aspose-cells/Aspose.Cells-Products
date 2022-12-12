@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET Excel API | Verwerk spreadsheet-indelingen via .NET Core 
 weight: 2030
-url: /nl/net/ 
+
 description: C# ASP.NET VB.NET-bibliotheek om te werken met Microsoft Excel-documenten. Creëren lezen schrijven opslaan en afdrukken Spreadsheet-bestanden. Converteren naar PDF of meer formaten
 ---
 {{< blocks/products/pf/main-wrap-class >}}

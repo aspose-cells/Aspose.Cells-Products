@@ -1,6 +1,6 @@
-﻿---
+---
 title: NUMBERS konvertálása JSON-ba a(z) C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/numbers-to-json/ 
+
 description: Minta C++ konverziós kód NUMBERS dokumentumhoz JSON formátumba. A programozók ezt a forráskódot használhatják a NUMBERS kötegelt JSON-konverzióhoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

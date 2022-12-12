@@ -1,7 +1,7 @@
-﻿---
+---
 title: حماية وقفل مستند XLSB عبر C++ 
 weight: 4860
-url: /ar/cpp/protect/xlsb/ 
+
 description: C++ مثال على رمز لقفل ملف XLSB باستخدام كلمة مرور في C++ Runtime Environment لأنظمة التشغيل Windows 32 بت و Windows 64 بت و Linux 64 بت.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

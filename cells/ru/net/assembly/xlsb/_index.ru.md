@@ -1,7 +1,7 @@
-﻿---
+---
 title: Создание отчетов в файлах XLSB с помощью .NET 
 weight: 1690
-url: /ru/net/assembly/xlsb/ 
+
 description: Исходный код C# для создания отчетов в формате XLSB на платформах .NET Framework, .NET Core, Mono или Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

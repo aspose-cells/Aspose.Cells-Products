@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++ uygulaması aracılığıyla TXT'yi XLTX'e dönüştürün 
-url: /tr/cpp/conversion/txt-to-xltx/ 
+
 description: TXT belgesi için XLTX biçimine örnek C++ dönüştürme kodu. Programcılar, herhangi bir C++ Uygulamasında toplu TXT'den XLTX'e dönüştürme için bu kaynak kodunu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

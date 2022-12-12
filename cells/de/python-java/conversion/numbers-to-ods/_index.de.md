@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie NUMBERS in ODS über Python
-url: /de/python-java/conversion/numbers-to-ods/
+
 description: Beispielcode für die Umwandlung von Zahlen in Ods Python. Verwenden Sie API Beispielcode für die Konvertierung von Stapelnummerndateien in Ods innerhalb der Anwendung Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

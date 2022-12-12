@@ -1,6 +1,6 @@
-﻿---
+---
 title: Insertar comentarios en Excel a través de .NET
-url: /es/net/comment/
+
 description: C# códigos fuente que explican cómo insertar comentarios en archivos de Microsoft Excel mediante la biblioteca .NET. 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

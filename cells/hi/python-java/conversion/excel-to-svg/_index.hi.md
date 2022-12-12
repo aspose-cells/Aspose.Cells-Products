@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python के माध्यम से EXCEL को SVG में बदलें
-url: /hi/python-java/conversion/excel-to-svg/
+
 description: एक्सेल से svg Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर svg रूपांतरण में बैच एक्सेल फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

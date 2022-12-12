@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLSM-et EMF-vé a C++ alkalmazással 
-url: /hu/cpp/conversion/xlsm-to-emf/ 
+
 description: Minta C++ konverziós kód az XLSM dokumentumhoz EMF formátumba. A programozók ezt a forráskódot használhatják kötegelt XLSM-ből EMF-re konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

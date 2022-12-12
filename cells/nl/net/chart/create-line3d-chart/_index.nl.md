@@ -1,6 +1,6 @@
-﻿---
+---
 title: Maak 3D-lijndiagrammen via C#
-url: /nl/net/create-line3d-chart/
+
 description: C# Voorbeeldcode voor het maken van 3D-lijndiagrammen naar Excel met .NET Bibliotheek. Gebruik deze code voor het maken van een 3D-lijndiagram naar MS Excel in VB.NET, Asp.NET of een op .NET gebaseerde toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

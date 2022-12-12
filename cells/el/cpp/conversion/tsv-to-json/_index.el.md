@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή TSV σε JSON μέσω εφαρμογής C++ 
-url: /el/cpp/conversion/tsv-to-json/ 
+
 description: Δείγμα κώδικα μετατροπής C++ για έγγραφο TSV σε μορφή JSON. Οι προγραμματιστές μπορούν να χρησιμοποιήσουν αυτόν τον πηγαίο κώδικα για ομαδική μετατροπή TSV σε JSON σε οποιαδήποτε εφαρμογή C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

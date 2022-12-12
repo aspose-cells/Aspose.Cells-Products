@@ -1,7 +1,7 @@
-﻿---
+---
 title: Rozwiązanie formatu pliku Excel
 weight: 7730
-url: /pl/
+
 description: Twórz aplikacje do manipulacji plikami Excel za pomocą interfejsów API High Code lub Low Code lub aplikacji No Code, aby przeglądać porównania, sprawdzać lub konwertować pliki Excel.
 ---
 {{< blocks/products/pf/main-wrap-class >}}

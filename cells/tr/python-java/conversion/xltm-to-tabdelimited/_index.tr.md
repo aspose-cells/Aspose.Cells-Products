@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla XLTM'yi TABDELIMITED'e dönüştürün
-url: /tr/python-java/conversion/xltm-to-tabdelimited/
+
 description: xltm'den sekmeyle ayrılmış Python dönüşümüne ilişkin örnek kod. Python uygulamasında toplu xltm dosyalarından sekmeyle ayrılmış dönüştürmeye yönelik API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

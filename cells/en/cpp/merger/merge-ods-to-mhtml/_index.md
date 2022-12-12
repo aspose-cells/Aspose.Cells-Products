@@ -1,6 +1,6 @@
 ---
 title: Merge ODS to MHTML Files via C++ 
-url: /cpp/merger/merge-ods-to-mhtml/ 
+
 description: Merge ODS to MHTML file in C++ code. Combine ODS to MHTML file using C++.
 ---
 

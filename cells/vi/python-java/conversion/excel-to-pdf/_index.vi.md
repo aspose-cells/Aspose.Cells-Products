@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển EXCEL sang PDF qua Python
-url: /vi/python-java/conversion/excel-to-pdf/
+
 description: Mã mẫu để chuyển đổi excel sang pdf Python. Sử dụng API mã ví dụ cho chuyển đổi hàng loạt tệp excel sang pdf trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

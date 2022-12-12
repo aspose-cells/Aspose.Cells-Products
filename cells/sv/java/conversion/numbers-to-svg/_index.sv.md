@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera NUMBERS till SVG via Java 
-url: /sv/java/conversion/numbers-to-svg/ 
+
 description: Exempel Java-konverteringskod för NUMBERS-format till SVG-fil. Programmerare kan använda den här exempelkoden för att exportera Excel- och OpenOffice-kalkylblad till SVG inom alla webb- eller skrivbordsbaserade Javaapplikationer.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

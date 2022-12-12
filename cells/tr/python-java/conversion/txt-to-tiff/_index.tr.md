@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla TXT'yi TIFF'ye dönüştürün
-url: /tr/python-java/conversion/txt-to-tiff/
+
 description: txt'den tiff'e Python dönüşümü için örnek kod. Python uygulamasında dönüşüm tiff için toplu txt dosyaları için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

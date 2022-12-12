@@ -1,7 +1,7 @@
-﻿---
+---
 title: HTML Dosyalarını Java ile Birleştir 
 weight: 8830
-url: /tr/java/merger/html/ 
+
 description: JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Runtime Environment'da HTML belgelerini birleştirmek için Java örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

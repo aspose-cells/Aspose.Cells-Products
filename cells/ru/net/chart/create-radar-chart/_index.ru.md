@@ -1,6 +1,6 @@
-﻿---
+---
 title: Создание радарных диаграмм с помощью C#
-url: /ru/net/create-radar-chart/
+
 description: C# Пример кода для создания радарных диаграмм в Excel с использованием библиотеки .NET. Используйте этот код для создания радарной диаграммы в MS Excel в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

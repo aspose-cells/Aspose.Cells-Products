@@ -1,7 +1,7 @@
-﻿---
+---
 title: Scal pliki CSV przez .NET 
 weight: 6450
-url: /pl/net/merger/csv/ 
+
 description: C# kod źródłowy do łączenia dokumentów CSV na platformach .NET Framework, .NET Core, Mono lub Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

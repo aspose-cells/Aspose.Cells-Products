@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# के माध्यम से ODS को PDF में बदलें
-url: /hi/net/conversion/ods-to-pdf/
+
 description: ऑड्स टू पीडीएफ़ C# रूपांतरण के लिए नमूना कोड। VB.NET, Asp.NET या किसी भी .NET आधारित एप्लिकेशन के भीतर बैच ods फ़ाइलों को पीडीएफ़ में बदलने के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

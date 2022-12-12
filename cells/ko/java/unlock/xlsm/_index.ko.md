@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java을(를) 통해 XLSM 문서 잠금 해제 
 weight: 7700
-url: /ko/java/unlock/xlsm/ 
+
 description: Java JSP/JSF 애플리케이션 및 데스크톱 애플리케이션용 런타임 환경에서 비밀번호로 보호된 XLSM 파일의 잠금을 해제하는 Java 샘플 코드.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 Python 將 TABDELIMITED 轉換為 FODS
-url: /zh-hant/python-java/conversion/tabdelimited-to-fods/
+
 description: tabdelimited 到 fods Python 轉換的示例代碼。在 Python 應用程序中使用 API 示例代碼將製表符分隔文件批量轉換為 fods。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

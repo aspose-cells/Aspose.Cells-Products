@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++ uygulaması aracılığıyla NUMBERS'ı JSON'a dönüştürün 
-url: /tr/cpp/conversion/numbers-to-json/ 
+
 description: NUMBERS doküman için JSON biçimine örnek C++ dönüştürme kodu. Programcılar, herhangi bir C++ Uygulamasında toplu NUMBERS'ı JSON'a dönüştürmek için bu kaynak kodunu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

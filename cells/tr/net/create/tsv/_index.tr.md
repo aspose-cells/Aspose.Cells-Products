@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla TSV Dosyaları oluşturun 
-url: /tr/net/create-tsv/ 
+
 description: C# TSV belgeleri oluşturmak için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde TSV dosyaları oluşturmak için bu kodu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

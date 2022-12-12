@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla Bubble3D Grafikleri oluşturun
-url: /tr/python-java/create-bubble3d-chart/
+
 description: Python Python Kitaplığı kullanarak Excel'de Bubble3D çizelgeleri oluşturmak için örnek kod. Python tabanlı uygulama içinde MS Excel'e bir Bubble3D grafiği oluşturmak için bu kodu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

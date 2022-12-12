@@ -1,6 +1,6 @@
-﻿---
+---
 title: Δημιουργία γραφημάτων ραντάρ μέσω Python
-url: /el/python-java/create-radar-chart/
+
 description: Python Δείγμα κώδικα για τη δημιουργία γραφημάτων ραντάρ στο Excel χρησιμοποιώντας τη Βιβλιοθήκη Python. Χρησιμοποιήστε αυτόν τον κώδικα για τη δημιουργία ενός γραφήματος ραντάρ στο MS Excel εντός εφαρμογής που βασίζεται σε Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera SPREADSHEETML till PDF via Java 
-url: /sv/java/conversion/spreadsheetml-to-pdf/ 
+
 description: Exempel på konverteringskod för Java för SPREADSHEETML-format till PDF-fil. Programmerare kan använda den här exempelkoden för att exportera Excel- och OpenOffice-kalkylblad till PDF inom alla webb- eller skrivbordsbaserade program Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

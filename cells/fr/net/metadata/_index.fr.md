@@ -1,6 +1,6 @@
-﻿---
+---
 title: Gérer les métadonnées des fichiers Excel via .NET C#
-url: /fr/net/metadata/
+
 description: Affichez, ajoutez, modifiez, supprimez ou extrayez les métadonnées des fichiers Excel avec seulement quelques lignes de code C#
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

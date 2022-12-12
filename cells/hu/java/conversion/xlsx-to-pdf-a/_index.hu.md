@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Konvertálja az XLSX-et PDF/A-kompatibilis fájlokká a következőn keresztül: Java "
 weight: 3200
-url: /hu/java/conversion/xlsx-to-pdf-a/ 
+
 description: Minta Java konverziós kód XLSX formátumhoz PDF A megfelelő fájlokká. A programozók ezt a példakódot használhatják Excel és OpenOffice táblázatok PDFA-kompatibilis fájlokba történő exportálására bármely web- vagy asztali Java alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

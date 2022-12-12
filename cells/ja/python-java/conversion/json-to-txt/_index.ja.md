@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してJSONをTXTに変換する
-url: /ja/python-java/conversion/json-to-txt/
+
 description: jsonからtxtPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチjsonファイルからtxtへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

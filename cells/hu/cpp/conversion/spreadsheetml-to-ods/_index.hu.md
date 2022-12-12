@@ -1,6 +1,6 @@
-﻿---
+---
 title: A SPREADSHEETML konvertálása ODS-re a(z) C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/spreadsheetml-to-ods/ 
+
 description: Minta C++ konverziós kód a SPREADSHEETML dokumentumhoz ODS formátumba. A programozók ezt a forráskódot használhatják a SPREADSHEETML-ből ODS-be való kötegelt konvertáláshoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

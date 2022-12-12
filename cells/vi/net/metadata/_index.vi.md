@@ -1,6 +1,6 @@
-﻿---
+---
 title: Quản lý Siêu dữ liệu Tệp Excel qua .NET C#
-url: /vi/net/metadata/
+
 description: Xem, thêm, chỉnh sửa, xóa hoặc trích xuất siêu dữ liệu tệp Excel chỉ với vài dòng mã C#
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してSPREADSHEETMLをSXCに変換します 
-url: /ja/java/conversion/spreadsheetml-to-sxc/ 
+
 description: SPREADSHEETML形式のSXCファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のSXCにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

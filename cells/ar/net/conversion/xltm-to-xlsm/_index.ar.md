@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLTM إلى XLSM عبر C#
-url: /ar/net/conversion/xltm-to-xlsm/
+
 description: نموذج رمز للتحويل من xltm إلى xlsm C#. استخدم API رمز المثال لملفات xltm الدفعية لتحويل xlsm داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

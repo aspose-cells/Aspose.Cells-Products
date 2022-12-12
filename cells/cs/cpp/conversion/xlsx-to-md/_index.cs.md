@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte XLSX na MD pomocí aplikace C++ 
-url: /cs/cpp/conversion/xlsx-to-md/ 
+
 description: Ukázka převodního kódu C++ pro dokument XLSX na formát MD. Programátoři mohou použít tento zdrojový kód pro dávkový převod XLSX na MD v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

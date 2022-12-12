@@ -1,6 +1,6 @@
-﻿---
+---
 title: Tạo Tệp Excel qua Java
-url: /vi/java/assembly/
+
 description: Tạo bảng tính Microsoft Excel từ một trang tính mẫu bằng Java thư viện bảng tính
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

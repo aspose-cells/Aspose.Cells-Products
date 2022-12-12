@@ -1,7 +1,7 @@
-﻿---
+---
 title: Hợp nhất các tệp XLTX qua .NET 
 weight: 1220
-url: /vi/net/merger/xltx/ 
+
 description: C# mã nguồn để kết hợp các tài liệu XLTX trên Nền tảng .NET Framework, .NET Core Mono hoặc Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

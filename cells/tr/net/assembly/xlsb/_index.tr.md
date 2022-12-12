@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET aracılığıyla XLSB Dosyalarında Raporlar Oluşturun 
 weight: 1690
-url: /tr/net/assembly/xlsb/ 
+
 description: .NET Framework, .NET Core, Mono veya Xamarin Platformlarında XLSB biçiminde raporlar oluşturmak için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

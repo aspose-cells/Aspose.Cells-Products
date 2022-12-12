@@ -1,6 +1,6 @@
-﻿---
+---
 title: XLSX dosyalarını .NET aracılığıyla düzenleyin 
-url: /tr/net/editor/xlsx/ 
+
 description: .NET Framework, .NET Core, Windows Azure, Mono veya Xamarin Platformlarında XLSX belgesini düzenlemek için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

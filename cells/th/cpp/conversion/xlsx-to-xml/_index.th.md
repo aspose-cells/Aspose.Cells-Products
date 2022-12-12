@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง XLSX เป็น XML ผ่าน C++ แอปพลิเคชัน 
-url: /th/cpp/conversion/xlsx-to-xml/ 
+
 description: ตัวอย่างโค้ดการแปลง C++ สำหรับเอกสาร XLSX เป็นรูปแบบ XML โปรแกรมเมอร์สามารถใช้ซอร์สโค้ดนี้สำหรับการแปลง XLSX เป็น XML แบบแบตช์ภายในแอปพลิเคชัน C++ ใดๆ
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

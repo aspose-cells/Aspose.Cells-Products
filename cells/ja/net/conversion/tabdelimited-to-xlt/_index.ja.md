@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してTABDELIMITEDをXLTに変換します
-url: /ja/net/conversion/tabdelimited-to-xlt/
+
 description: tabdelimitedからxltC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でタブ区切りファイルをxltに変換するには、APIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

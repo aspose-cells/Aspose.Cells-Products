@@ -1,6 +1,6 @@
-﻿---
+---
 title: Přidat čáru do grafu prostřednictvím C# 
-url: /cs/net/add-line-in-chart/ 
+
 description: C# Ukázkový kód pro přidání čáry do grafu do aplikace Excel pomocí knihovny .NET. Tento kód použijte pro přidání čáry do grafu do MS Excel v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

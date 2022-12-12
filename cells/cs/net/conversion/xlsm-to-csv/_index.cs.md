@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLSM na CSV přes C#
-url: /cs/net/conversion/xlsm-to-csv/
+
 description: Ukázkový kód pro převod xlsm na csv C#. Použijte API ukázkový kód pro dávkový převod souborů xlsm na csv v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

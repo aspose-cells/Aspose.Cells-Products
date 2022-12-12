@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 Python 将 FODS 转换为 XLS
-url: /zh/python-java/conversion/fods-to-xls/
+
 description: fods 到 xls Python 转换的示例代码。在 Python 应用程序中使用 API 示例代码将 fods 文件批量转换为 xls。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

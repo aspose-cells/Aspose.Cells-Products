@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera NUMBERS till XLS via C#
-url: /sv/net/conversion/numbers-to-xls/
+
 description: Exempelkod för konvertering av tal till xls C#. Använd API exempelkod för batchnummerfiler till xls-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

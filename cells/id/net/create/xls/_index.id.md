@@ -1,6 +1,6 @@
-﻿---
+---
 title: Buat File MS Excel XLS melalui C# 
-url: /id/net/create-xls/ 
+
 description: C# Contoh kode untuk membuat dokumen XLS. Gunakan kode ini untuk membuat file MS Excel XLS dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

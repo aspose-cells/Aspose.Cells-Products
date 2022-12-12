@@ -1,7 +1,7 @@
-﻿---
+---
 title: Extrahujte text a obrázky z dokumentu XLS prostřednictvím Java 
 weight: 3700
-url: /cs/java/parser/xls/ 
+
 description: Java ukázkový kód pro extrahování textu a obrázků ze souboru XLS v Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

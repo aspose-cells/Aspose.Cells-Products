@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLTX konvertálása EMF-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/xltx-to-emf/
+
 description: Mintakód az xltx–emf Python konverzióhoz. Használjon API példakódot kötegelt xltx fájlokhoz az EMF konvertáláshoz a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

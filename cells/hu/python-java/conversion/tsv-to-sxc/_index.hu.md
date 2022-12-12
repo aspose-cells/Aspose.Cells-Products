@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TSV konvertálása SXC-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/tsv-to-sxc/
+
 description: Mintakód a tsv–sxc Python konverzióhoz. Használjon API példakódot a tsv fájlok kötegelt sxc konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

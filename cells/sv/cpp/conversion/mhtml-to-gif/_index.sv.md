@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertera MHTML till GIF via programmet C++ 
 weight: 3630
-url: /sv/cpp/conversion/mhtml-to-gif/ 
+
 description: Exempel på konverteringskod för C++ för MHTML-dokument till GIF-format. Programmerare kan använda den här källkoden för batch-konvertering av MHTML till GIF inom alla C++-program.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

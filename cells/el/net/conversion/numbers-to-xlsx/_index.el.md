@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή NUMBERS σε XLSX μέσω C#
-url: /el/net/conversion/numbers-to-xlsx/
+
 description: Δείγμα κώδικα για μετατροπή αριθμών σε xlsx C#. Χρησιμοποιήστε API παράδειγμα κώδικα για αρχεία αριθμών παρτίδας σε μετατροπή xlsx εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

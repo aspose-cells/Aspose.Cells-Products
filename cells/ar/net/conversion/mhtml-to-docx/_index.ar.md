@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل MHTML إلى DOCX عبر C#
-url: /ar/net/conversion/mhtml-to-docx/
+
 description: نموذج رمز للتحويل من mhtml إلى docx C#. استخدم API رمز المثال لملفات mhtml المجمعة لتحويل docx داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

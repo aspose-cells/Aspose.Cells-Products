@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést XLSX na EMF přes Java 
 weight: 1730
-url: /cs/java/conversion/xlsx-to-emf/ 
+
 description: Ukázkový konverzní kód Java pro formát XLSX na soubor EMF. Programátoři mohou tento příklad kódu použít k exportu tabulek Excelu a OpenOffice do EMF v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

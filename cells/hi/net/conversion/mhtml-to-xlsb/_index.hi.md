@@ -1,6 +1,6 @@
-﻿---
+---
 title: MHTML को XLSB के माध्यम से C# में बदलें
-url: /hi/net/conversion/mhtml-to-xlsb/
+
 description: mhtml से xlsb C# रूपांतरण के लिए नमूना कोड। वीबी.NET, एएसपी.NET या किसी .NET आधारित एप्लिकेशन के भीतर बैच एमएचटीएमएल फाइलों से एक्सएलएसबी रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

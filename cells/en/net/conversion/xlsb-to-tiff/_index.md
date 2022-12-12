@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to TIFF via C#
-url: /net/conversion/xlsb-to-tiff/
+
 description: Convert XLSB to TIFF format in C# code. Save XLSB as TIFF using VB.NET, Asp.NET or any .NET based application.
 ---
 

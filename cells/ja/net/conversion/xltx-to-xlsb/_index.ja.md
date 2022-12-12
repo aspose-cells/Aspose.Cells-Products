@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してXLTXをXLSBに変換します
-url: /ja/net/conversion/xltx-to-xlsb/
+
 description: xltxからxlsbC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチxltxファイルからxlsbへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

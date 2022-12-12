@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla MHTML'yi JPG'ye dönüştürün
-url: /tr/net/conversion/mhtml-to-jpg/
+
 description: mhtml'den jpg'ye C# dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu mhtml dosyalarını jpg'ye dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

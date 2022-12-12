@@ -1,7 +1,7 @@
-﻿---
+---
 title: Buat Laporan dalam File XLS melalui Java 
 weight: 1090
-url: /id/java/assembly/xls/ 
+
 description: Java kode contoh untuk membuat laporan format XLS di Java Lingkungan Waktu Proses untuk Aplikasi JSP/JSF dan Aplikasi Desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

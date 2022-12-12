@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TSV na XPS prostřednictvím Python
-url: /cs/python-java/conversion/tsv-to-xps/
+
 description: Ukázkový kód pro převod tsv na xps Python. Použijte API ukázkový kód pro dávkový převod souborů tsv na xps v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

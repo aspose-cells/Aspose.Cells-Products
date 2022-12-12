@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python üzerinden TABDELIMITED'i MARKDOWN'a dönüştürün
-url: /tr/python-java/conversion/tabdelimited-to-markdown/
+
 description: Python dönüşümünü azaltmak için sekmeyle ayrılmış örnek kod. Python uygulamasında dönüşüm işaretlemek için toplu sekmeyle ayrılmış dosyalar için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

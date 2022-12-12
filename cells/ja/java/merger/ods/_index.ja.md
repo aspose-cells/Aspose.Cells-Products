@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してODSファイルをマージ 
 weight: 6270
-url: /ja/java/merger/ods/ 
+
 description: Java JSP/JSFアプリケーションとデスクトップアプリケーションのランタイム環境でODSドキュメントを組み合わせるためのサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

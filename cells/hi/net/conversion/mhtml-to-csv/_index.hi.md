@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# के माध्यम से एमएचटीएमएल को सीएसवी में बदलें
-url: /hi/net/conversion/mhtml-to-csv/
+
 description: एमएचटीएमएल से सीएसवी C# रूपांतरण के लिए नमूना कोड। वीबी.NET, एएसपी.NET या किसी भी .NET आधारित एप्लिकेशन के भीतर सीएसवी रूपांतरण के लिए बैच एमएचटीएमएल फाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

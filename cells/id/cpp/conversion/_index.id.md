@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi Berkas Microsoft Excel melalui C++ 
-url: /id/cpp/conversion/
+
 description: Konversikan Excel XLS, XLSX, ODS, CSV ke PDF, XPS, HTML, JPEG, dan format lainnya hanya dengan beberapa baris kode C++.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Konvertálja az XLSB-t JPG-vé a következőn keresztül: Python"
-url: /hu/python-java/conversion/xlsb-to-jpg/
+
 description: Mintakód az xlsb-ből jpg-be Python konvertáláshoz. Használjon API példakódot a kötegelt xlsb fájlok jpg formátumú konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

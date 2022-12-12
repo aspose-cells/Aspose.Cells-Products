@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertálja a HTML-t XLSX-re a(z) C++ alkalmazással 
 weight: 9770
-url: /hu/cpp/conversion/html-to-xlsx/ 
+
 description: Minta C++ konverziós kód HTML-dokumentumhoz XLSX formátumba. A programozók ezt a forráskódot használhatják kötegelt HTML-ből XLSX-be konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

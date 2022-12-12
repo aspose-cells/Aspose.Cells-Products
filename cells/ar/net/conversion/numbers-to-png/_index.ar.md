@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل الأرقام إلى PNG عبر C#
-url: /ar/net/conversion/numbers-to-png/
+
 description: نموذج كود لتحويل الأرقام إلى png C#. استخدم API رمز المثال لملفات أرقام الدُفعات لتحويل png داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

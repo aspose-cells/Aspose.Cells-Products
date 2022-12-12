@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie TXT in XLS über C#
-url: /de/net/conversion/txt-to-xls/
+
 description: Beispielcode für die Umwandlung von txt in xls C#. Verwenden Sie API Beispielcode für die Batch-Konvertierung von TXT-Dateien in XLS-Dateien in VB.NET, Asp.NET oder einer beliebigen .NET-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

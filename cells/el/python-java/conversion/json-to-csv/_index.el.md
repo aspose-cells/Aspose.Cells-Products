@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή JSON σε CSV μέσω Python
-url: /el/python-java/conversion/json-to-csv/
+
 description: Δείγμα κώδικα για μετατροπή json σε csv Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία json σε μετατροπή csv εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

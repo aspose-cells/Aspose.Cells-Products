@@ -1,7 +1,7 @@
-﻿---
+---
 title: مستند العلامة المائية XLSB عبر .NET 
 weight: 5410
-url: /ar/net/watermark/xlsb/ 
+
 description: C# شفرة المصدر لإضافة أو إزالة العلامة المائية إلى ملف XLSB على أنظمة .NET Framework أو .NET Core أو Mono أو Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

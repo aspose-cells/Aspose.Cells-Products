@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj JSON na DOCX za pomocą aplikacji C++ 
-url: /pl/cpp/conversion/json-to-docx/ 
+
 description: Przykładowy kod konwersji C++ dla dokumentu JSON do formatu DOCX. Programiści mogą używać tego kodu źródłowego do wsadowej konwersji JSON na DOCX w dowolnej aplikacji C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

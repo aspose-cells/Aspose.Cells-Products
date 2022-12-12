@@ -1,6 +1,6 @@
-﻿---
+---
 title: NUMBERS को C# के द्वारा XLTM में बदलें
-url: /hi/net/conversion/numbers-to-xltm/
+
 description: संख्याओं के लिए नमूना कोड xltm C# रूपांतरण के लिए। VB.NET, Asp.NET या किसी .NET आधारित एप्लिकेशन के भीतर xltm रूपांतरण के लिए बैच संख्या फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

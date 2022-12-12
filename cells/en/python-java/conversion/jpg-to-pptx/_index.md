@@ -1,6 +1,6 @@
 ---
 title: Convert JPG to PPTX via Python
-url: /python-java/conversion/jpg-to-pptx/
+
 description: Convert JPG to PPTX format in Python code. Save JPG as PPTX using Python.
 ---
 

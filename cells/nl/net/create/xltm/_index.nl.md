@@ -1,6 +1,6 @@
-﻿---
+---
 title: Maak MS Excel XLTM-bestanden via C# 
-url: /nl/net/create-xltm/ 
+
 description: C# Voorbeeldcode voor het genereren van XLTM-documenten. Gebruik deze code om MS Excel XLTM-bestanden te maken binnen VB.NET, Asp.NET of een op .NET gebaseerde toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

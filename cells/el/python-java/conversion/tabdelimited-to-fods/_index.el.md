@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή TABDELIMITED σε FODS μέσω Python
-url: /el/python-java/conversion/tabdelimited-to-fods/
+
 description: Δείγμα κωδικού για τη μετατροπή Python οριοθετημένη σε καρτέλες. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικές μετατροπές οριοθετημένων από τηλοθέτες σε τρόφιμα εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

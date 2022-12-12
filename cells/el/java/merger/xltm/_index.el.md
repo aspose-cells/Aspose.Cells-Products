@@ -1,7 +1,7 @@
-﻿---
+---
 title: Συγχώνευση αρχείων XLTM μέσω Java 
 weight: 8210
-url: /el/java/merger/xltm/ 
+
 description: Java δείγμα κώδικα για συνδυασμό εγγράφων XLTM στο Java Runtime Environment για εφαρμογές JSP/JSF και εφαρμογές επιφάνειας εργασίας.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

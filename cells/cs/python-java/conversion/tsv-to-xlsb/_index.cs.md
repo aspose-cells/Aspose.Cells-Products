@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TSV na XLSB přes Python
-url: /cs/python-java/conversion/tsv-to-xlsb/
+
 description: Ukázkový kód pro převod tsv na xlsb Python. Použijte ukázkový kód API pro dávkový převod souborů tsv na xlsb v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

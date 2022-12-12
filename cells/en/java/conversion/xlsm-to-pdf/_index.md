@@ -1,6 +1,6 @@
 ---
 title: Convert XLSM to PDF via Java 
-url: /java/conversion/xlsm-to-pdf/
+
 description: Convert XLSM to PDF format in Java code. Save XLSM as PDF using Java.
 ---
 

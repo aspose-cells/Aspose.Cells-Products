@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLSB Dosyalarını .NET ile Birleştir 
 weight: 2970
-url: /tr/net/merger/xlsb/ 
+
 description: XLSB belgelerini .NET Framework, .NET Core, Mono veya Xamarin Platformlarında birleştirmek için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

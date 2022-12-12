@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ üzerinden açmadan XLSM belgesini arayın 
 weight: 9280
-url: /tr/cpp/search/xlsm/ 
+
 description: C++ Windows 32 bit, Windows 64 bit ve Linux 64 bit için C++ Runtime Environment üzerinde XLSM dosyasında kalıplı sözcükleri aramak için örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

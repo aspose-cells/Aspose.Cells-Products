@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TXT na FODS přes Java 
-url: /cs/java/conversion/txt-to-fods/ 
+
 description: Ukázka převodního kódu Java pro formát TXT na soubor FODS. Programátoři mohou použít tento příklad kódu k exportu tabulek Excelu a OpenOffice do FODS v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

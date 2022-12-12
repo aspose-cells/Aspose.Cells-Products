@@ -1,7 +1,7 @@
-﻿---
+---
 title: Ver o editar metadatos de archivos XLSX a través de .NET 
 weight: 3430
-url: /es/net/metadata/xlsx/ 
+
 description: C# código fuente para editar o ver metadatos en formato XLSX en .NET Framework, .NET Core, Mono o Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

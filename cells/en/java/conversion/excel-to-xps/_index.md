@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to XPS via Java 
-url: /java/conversion/excel-to-xps/
+
 description: Convert EXCEL to XPS format in Java code. Save EXCEL as XPS using Java.
 ---
 

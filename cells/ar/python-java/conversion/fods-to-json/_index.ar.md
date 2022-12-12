@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل FODS إلى JSON عبر Python
-url: /ar/python-java/conversion/fods-to-json/
+
 description: نموذج كود للتحويل من fods إلى json Python. استخدم API رمز المثال لملفات fods الدفعية لتحويل json داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

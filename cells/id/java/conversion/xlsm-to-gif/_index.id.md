@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversi XLSM ke GIF melalui Java 
 weight: 10090
-url: /id/java/conversion/xlsm-to-gif/ 
+
 description: Contoh Java kode konversi untuk format XLSM ke file GIF. Pemrogram dapat menggunakan kode contoh ini untuk mengekspor spreadsheet Excel & OpenOffice ke GIF dalam Aplikasi berbasis Web atau Desktop Java apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

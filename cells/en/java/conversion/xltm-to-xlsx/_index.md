@@ -1,6 +1,6 @@
 ---
 title: Convert XLTM to XLSX via Java 
-url: /java/conversion/xltm-to-xlsx/
+
 description: Convert XLTM to XLSX format in Java code. Save XLTM as XLSX using Java.
 ---
 

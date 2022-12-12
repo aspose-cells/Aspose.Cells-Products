@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to SPREADSHEETML via Python
-url: /python-net/conversion/txt-to-spreadsheetml/
+
 description: Sample code for txt to spreadsheetml Python conversion. Use API example code for batch txt files to spreadsheetml conversion within Python application.
 ---
 

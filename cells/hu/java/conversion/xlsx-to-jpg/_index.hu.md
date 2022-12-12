@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLSX konvertálása JPG formátumba a következőn keresztül: Java "
-url: /hu/java/conversion/xlsx-to-jpg/ 
+
 description: Minta Java konverziós kód XLSX formátumhoz JPG fájlba. A programozók ezt a példakódot használhatják Excel és OpenOffice táblázatok exportálására JPG formátumban bármely web- vagy asztali Java alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

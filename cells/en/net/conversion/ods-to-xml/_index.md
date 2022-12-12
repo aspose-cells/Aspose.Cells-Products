@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to XML via C#
-url: /net/conversion/ods-to-xml/
+
 description: Convert ODS to XML format in C# code. Save ODS as XML using VB.NET, Asp.NET or any .NET based application.
 ---
 

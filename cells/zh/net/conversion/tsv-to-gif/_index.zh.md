@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 C# 将 TSV 转换为 GIF
-url: /zh/net/conversion/tsv-to-gif/
+
 description: tsv 到 gif C# 转换的示例代码。在 VB.NET、Asp.NET 或任何基于 .NET 的应用程序中使用 API 示例代码将批处理 tsv 文件转换为 gif。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

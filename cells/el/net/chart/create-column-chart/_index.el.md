@@ -1,6 +1,6 @@
-﻿---
+---
 title: Δημιουργία γραφημάτων στηλών μέσω C#
-url: /el/net/create-column-chart/
+
 description: C# Δείγμα κώδικα για τη δημιουργία γραφημάτων στηλών στο Excel χρησιμοποιώντας τη Βιβλιοθήκη .NET. Χρησιμοποιήστε αυτόν τον κώδικα για τη δημιουργία ενός γραφήματος στήλης στο MS Excel εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

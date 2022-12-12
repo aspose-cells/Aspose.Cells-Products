@@ -1,7 +1,7 @@
-﻿---
+---
 title: Xem hoặc chỉnh sửa siêu dữ liệu tệp XLSX qua .NET 
 weight: 3430
-url: /vi/net/metadata/xlsx/ 
+
 description: C# mã nguồn để chỉnh sửa hoặc xem siêu dữ liệu định dạng XLSX trên Nền tảng .NET Framework, .NET Core Mono hoặc Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#経由でCSVをMDに変換
-url: /ja/net/conversion/csv-to-md/
+
 description: csvからmdC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチcsvファイルからmdへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

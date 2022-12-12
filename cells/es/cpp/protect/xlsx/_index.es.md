@@ -1,7 +1,7 @@
-﻿---
+---
 title: Proteja y bloquee el documento XLSX a través de C++ 
 weight: 1140
-url: /es/cpp/protect/xlsx/ 
+
 description: C++ código de ejemplo para bloquear el archivo XLSX con contraseña en C++ Entorno de tiempo de ejecución para Windows de 32 bits, Windows de 64 bits y Linux de 64 bits.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Преобразование ODS в XPS с помощью приложения C++ 
 weight: 1930
-url: /ru/cpp/conversion/ods-to-xps/ 
+
 description: Пример C++ кода преобразования документа ODS в формат XPS. Программисты могут использовать этот исходный код для пакетного преобразования ODS в XPS в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

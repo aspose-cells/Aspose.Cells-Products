@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET üzerinden TSV Dosya Biçimlerini görüntüleyin 
 weight: 3090
-url: /tr/net/viewer/tsv/ 
+
 description: .NET Framework, .NET Core, Mono veya Xamarin Platformlarında TSV belgelerini yüklemek, oluşturmak ve görüntülemek için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

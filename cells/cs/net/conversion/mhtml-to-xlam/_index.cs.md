@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést MHTML na XLAM přes C#
-url: /cs/net/conversion/mhtml-to-xlam/
+
 description: Ukázkový kód pro konverzi mhtml na xlam C#. Použijte API ukázkový kód pro dávkové soubory mhtml na konverzi xlam v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

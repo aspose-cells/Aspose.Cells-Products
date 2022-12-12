@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++ uygulaması aracılığıyla XLT'yi XML'e dönüştürün 
-url: /tr/cpp/conversion/xlt-to-xml/ 
+
 description: XLT belgesi için XML biçimine örnek C++ dönüştürme kodu. Programcılar, herhangi bir C++ Uygulamasında toplu XLT'den XML'e dönüştürme için bu kaynak kodunu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

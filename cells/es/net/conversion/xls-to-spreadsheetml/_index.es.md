@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta XLS a SPREADSHEETML a través de C#
-url: /es/net/conversion/xls-to-spreadsheetml/
+
 description: Ejemplo de código para conversión de xls a hoja de cálculo C#. Utilice el código de ejemplo API para la conversión de archivos xls por lotes a hojas de cálculo dentro de VB.NET, Asp.NET o cualquier aplicación basada en .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

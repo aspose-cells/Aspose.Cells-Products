@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLSX na PDF přes C#
-url: /cs/net/conversion/xlsx-to-pdf/
+
 description: Ukázkový kód pro převod xlsx na pdf C#. Použijte API ukázkový kód pro dávkový převod souborů xlsx na pdf v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

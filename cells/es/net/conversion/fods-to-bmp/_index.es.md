@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta FODS a BMP a través de C#
-url: /es/net/conversion/fods-to-bmp/
+
 description: Código de muestra para la conversión de fods a bmp C#. Utilice el código de ejemplo API para archivos fods por lotes para la conversión bmp dentro de VB.NET, Asp.NET o cualquier aplicación basada en .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

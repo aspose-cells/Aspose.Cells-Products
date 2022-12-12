@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertálja a HTML-t XPS-re a(z) C++ alkalmazással 
 weight: 1420
-url: /hu/cpp/conversion/html-to-xps/ 
+
 description: Minta C++ konverziós kód HTML dokumentumhoz XPS formátumba. A programozók ezt a forráskódot használhatják kötegelt HTML-ből XPS-re konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

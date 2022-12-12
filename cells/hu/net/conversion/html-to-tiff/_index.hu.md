@@ -1,6 +1,6 @@
-﻿---
+---
 title: "HTML konvertálása TIFF-re a következőn keresztül: C#"
-url: /hu/net/conversion/html-to-tiff/
+
 description: Mintakód a html–tiff C# konverzióhoz. Használjon API példakódot kötegelt html fájlokhoz a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazás tiff konverziójához.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

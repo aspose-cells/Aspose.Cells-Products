@@ -1,6 +1,6 @@
 ---
 title: Convert XLTM to XLT via C#
-url: /net/conversion/xltm-to-xlt/
+
 description: Convert XLTM to XLT format in C# code. Save XLTM as XLT using VB.NET, Asp.NET or any .NET based application.
 ---
 

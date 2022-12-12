@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование NUMBERS в JPEG с помощью C#
-url: /ru/net/conversion/numbers-to-jpeg/
+
 description: Пример кода для преобразования чисел в jpeg C#. Используйте пример кода API для преобразования файлов номеров пакетов в JPEG в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert XLTM to WORD via Java 
-url: /java/conversion/xltm-to-word/
+
 description: Convert XLTM to WORD format in Java code. Save XLTM as WORD using Java.
 ---
 

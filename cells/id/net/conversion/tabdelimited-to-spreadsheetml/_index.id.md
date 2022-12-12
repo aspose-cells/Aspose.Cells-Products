@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan TABDELIMITED ke SPREADSHEETML melalui C#
-url: /id/net/conversion/tabdelimited-to-spreadsheetml/
+
 description: Contoh kode untuk tabdelimited ke spreadsheetml C# konversi. Gunakan API kode contoh untuk berkas tabdelimited batch ke konversi spreadsheetml dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

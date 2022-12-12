@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介して開かずにTXTドキュメントを検索する 
 weight: 1200
-url: /ja/java/search/txt/ 
+
 description: JSP/JSFアプリケーションおよびデスクトップアプリケーションのJavaランタイム環境でTXTファイル内のパターンを持つ単語を検索するためのJavaサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

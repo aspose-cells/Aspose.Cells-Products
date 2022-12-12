@@ -1,6 +1,6 @@
-﻿---
+---
 title: एमएचटीएमएल को C# के माध्यम से डीआईएफ में कनवर्ट करें
-url: /hi/net/conversion/mhtml-to-dif/
+
 description: भिन्न C# रूपांतरण के लिए mhtml के लिए नमूना कोड। VB.NET, Asp.NET या किसी .NET आधारित एप्लिकेशन के भीतर रूपांतरण को अलग करने के लिए बैच mhtml फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

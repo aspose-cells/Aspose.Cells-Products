@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ uygulaması aracılığıyla XLSB'yi PNG'ye dönüştürün 
 weight: 2800
-url: /tr/cpp/conversion/xlsb-to-png/ 
+
 description: XLSB belgesi için PNG formatına örnek C++ dönüştürme kodu. Programcılar, herhangi bir C++ Uygulamasında toplu XLSB'den PNG'ye dönüştürme için bu kaynak kodunu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

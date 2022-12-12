@@ -1,6 +1,6 @@
-﻿---
+---
 title: Erstellen Sie Balkendiagramme über C#
-url: /de/net/create-bar-chart/
+
 description: C# Beispielcode zum Erstellen von Balkendiagrammen in Excel mithilfe der .NET-Bibliothek. Verwenden Sie diesen Code zum Erstellen eines Balkendiagramms für MS Excel in VB.NET, Asp.NET oder einer beliebigen .NET-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

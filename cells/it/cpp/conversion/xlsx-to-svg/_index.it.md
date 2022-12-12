@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converti XLSX in SVG tramite l'applicazione C++ 
 weight: 2980
-url: /it/cpp/conversion/xlsx-to-svg/ 
+
 description: Esempio di codice di conversione C++ per il documento XLSX in formato SVG. I programmatori possono utilizzare questo codice sorgente per la conversione batch da XLSX a SVG all'interno di qualsiasi C++ Applicazione.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

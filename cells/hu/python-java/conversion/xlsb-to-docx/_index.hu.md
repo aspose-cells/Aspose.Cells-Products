@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLSB konvertálása DOCX-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/xlsb-to-docx/
+
 description: Mintakód az xlsb–docx Python konverzióhoz. Használjon API példakódot kötegelt xlsb fájlok docx konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

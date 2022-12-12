@@ -1,7 +1,7 @@
-﻿---
+---
 title: Zoek en vervang tekst in XLSM-document via .NET 
 weight: 2370
-url: /nl/net/redaction/xlsm/ 
+
 description: C# broncode om gevoelige informatie in XLSM-bestand op .NET Framework, .NET Core, Mono of Xamarin Platforms te redigeren.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

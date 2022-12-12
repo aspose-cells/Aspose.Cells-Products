@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi HTML sang JSON qua Python
-url: /vi/python-java/conversion/html-to-json/
+
 description: Mã mẫu cho chuyển đổi html sang json Python. Sử dụng API mã mẫu cho hàng loạt tệp html sang chuyển đổi json trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

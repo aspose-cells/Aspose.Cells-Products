@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertálja az XLSX-et PDF-be a(z) C++ alkalmazással 
 weight: 6790
-url: /hu/cpp/conversion/xlsx-to-pdf/ 
+
 description: Minta C++ konverziós kód XLSX dokumentumhoz PDF formátumba. A programozók ezt a forráskódot használhatják az XLSX-ből PDF-be történő kötegelt konvertálására bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してXLTXをMARKDOWNに変換します
-url: /ja/python-java/conversion/xltx-to-markdown/
+
 description: xltxからマークダウンPythonへの変換のサンプルコード。 Pythonアプリケーション内で変換をマークダウンするバッチxltxファイルのAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer TABDELIMITED naar XLAM via C#
-url: /nl/net/conversion/tabdelimited-to-xlam/
+
 description: Voorbeeldcode voor door tabs gescheiden naar xlam C# conversie. Gebruik API voorbeeldcode voor batch-tabdelimited-bestanden naar xlam-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Combinar archivos XLSX a través de C++ 
-url: /es/cpp/merger/xlsx/ 
+
 description: C++ código de ejemplo para combinar documentos XLSX en C++ entorno de tiempo de ejecución para Windows de 32 bits, Windows de 64 bits y Linux de 64 bits.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

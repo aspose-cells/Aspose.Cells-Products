@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# के माध्यम से HTML को CSV में बदलें
-url: /hi/net/conversion/html-to-csv/
+
 description: html से csv C# रूपांतरण के लिए नमूना कोड। वीबी.NET, एएसपी.NET या किसी .NET आधारित एप्लिकेशन के भीतर सीएसवी रूपांतरण के लिए बैच एचटीएमएल फाइलों के लिए API उदाहरण कोड का प्रयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

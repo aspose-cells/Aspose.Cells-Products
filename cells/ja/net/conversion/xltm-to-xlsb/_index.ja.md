@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してXLTMをXLSBに変換します
-url: /ja/net/conversion/xltm-to-xlsb/
+
 description: xltmからxlsbC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチxltmファイルからxlsbへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

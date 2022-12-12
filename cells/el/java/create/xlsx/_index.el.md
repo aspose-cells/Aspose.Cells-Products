@@ -1,6 +1,6 @@
-﻿---
+---
 title: Δημιουργία αρχείων MS Excel XLSX μέσω Java 
-url: /el/java/create-xlsx/ 
+
 description: Java Δείγμα κώδικα για τη δημιουργία εγγράφων XLSX. Χρησιμοποιήστε αυτόν τον κώδικα για τη δημιουργία αρχείων MS Excel XLSX σε εφαρμογή υπολογιστή ή web που βασίζεται σε Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ Pemrograman Spreadsheet Excel API - Aspose 
 weight: 7140
-url: /id/cpp/ 
+
 description: C++ Pustaka Excel untuk membaca, menulis, dan mengurai file termasuk format XLS, XLSX, XLSM, dan XLSB. Konversikan spreadsheet ke PDF, CSV, dan format lainnya
 ---
 {{< blocks/products/pf/main-wrap-class >}}

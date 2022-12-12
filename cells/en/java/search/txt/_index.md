@@ -1,7 +1,7 @@
 ---
 title: Search TXT document without opening via Java 
 weight: 1200
-url: /java/search/txt/ 
+
 description: Java sample code to search words with pattern in TXT file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Modifier ou afficher les métadonnées des fichiers XLS via Java 
 weight: 730
-url: /fr/java/metadata/xls/ 
+
 description: Java exemple de code pour modifier ou afficher les métadonnées au format XLS sur Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

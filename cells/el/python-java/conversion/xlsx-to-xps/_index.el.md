@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή XLSX σε XPS μέσω Python
-url: /el/python-java/conversion/xlsx-to-xps/
+
 description: Δείγμα κώδικα για μετατροπή xlsx σε xps Python. Χρησιμοποιήστε API παράδειγμα κώδικα για μαζική μετατροπή αρχείων xlsx σε xps εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "JSON konvertálása BMP-vé a következőn keresztül: Python"
-url: /hu/python-java/conversion/json-to-bmp/
+
 description: Mintakód a json–bmp Python konverzióhoz. Használjon API példakódot kötegelt json-fájlokhoz bmp-konverzióhoz a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

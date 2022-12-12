@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLTM na MD přes Python
-url: /cs/python-java/conversion/xltm-to-md/
+
 description: Ukázkový kód pro převod xltm na md Python. Použijte API ukázkový kód pro dávkový převod souborů xltm na MD v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

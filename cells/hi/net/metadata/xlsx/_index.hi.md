@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET के माध्यम से XLSX फ़ाइलें मेटाडेटा देखें या संपादित करें 
 weight: 3430
-url: /hi/net/metadata/xlsx/ 
+
 description: .NET Framework, .NET Core, Mono या Xamarin प्लेटफॉर्म पर XLSX प्रारूप मेटाडेटा को संपादित करने या देखने के लिए C# स्रोत कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

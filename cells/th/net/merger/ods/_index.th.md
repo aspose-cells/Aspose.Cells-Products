@@ -1,7 +1,7 @@
-﻿---
+---
 title: รวมไฟล์ ODS ผ่าน .NET 
 weight: 4330
-url: /th/net/merger/ods/ 
+
 description: C# ซอร์สโค้ดเพื่อรวมเอกสาร ODS บน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

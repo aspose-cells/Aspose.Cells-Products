@@ -1,7 +1,7 @@
-﻿---
+---
 title: Slå samman XLT-filer via .NET 
 weight: 1820
-url: /sv/net/merger/xlt/ 
+
 description: C# källkod för att kombinera XLT-dokument på .NET Framework, .NET Core, Mono eller Xamarin-plattformar.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

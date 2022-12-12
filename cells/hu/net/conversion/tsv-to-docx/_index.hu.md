@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TSV konvertálása DOCX-re a következőn keresztül: C#"
-url: /hu/net/conversion/tsv-to-docx/
+
 description: Mintakód a tsv–docx C# konverzióhoz. Használjon API példakódot kötegelt tsv-fájlokhoz a docx-konverzióhoz VB.NET-on, Asp-n.NET vagy bármely .NET-alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

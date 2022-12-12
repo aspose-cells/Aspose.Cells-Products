@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer XLSB naar TIFF via C++ applicatie 
 weight: 8720
-url: /nl/cpp/conversion/xlsb-to-tiff/ 
+
 description: Voorbeeld C++ conversiecode voor XLSB-document naar TIFF-indeling. Programmeurs kunnen deze broncode gebruiken voor batchconversie van XLSB naar TIFF binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

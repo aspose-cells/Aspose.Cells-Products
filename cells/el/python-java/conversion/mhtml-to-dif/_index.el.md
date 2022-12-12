@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή MHTML σε DIF μέσω Python
-url: /el/python-java/conversion/mhtml-to-dif/
+
 description: Δείγμα κώδικα για mhtml σε διαφορετική μετατροπή Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία mhtml για να διαφοροποιήσετε τη μετατροπή εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

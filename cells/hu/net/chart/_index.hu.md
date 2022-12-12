@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Excel diagramok létrehozása és konvertálása képekké a következőn keresztül: .NET"
-url: /hu/net/chart/
+
 description: C# forráskód a diagram vagy diagram megrajzolásához és konvertálásához Microsoft Excelben a .NET Library segítségével. 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

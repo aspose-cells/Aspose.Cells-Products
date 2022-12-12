@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++によるMicrosoftExcelファイル変換 
-url: /ja/cpp/conversion/
+
 description: Excel XLS、XLSX、ODS、CSVをPDF、XPS、HTML、JPEG、およびその他の形式に数行のC++コードで変換します。
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

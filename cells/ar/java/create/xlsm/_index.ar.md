@@ -1,6 +1,6 @@
-﻿---
+---
 title: إنشاء ملفات MS Excel XLSM عبر Java 
-url: /ar/java/create-xlsm/ 
+
 description: Java نموذج كود لإنشاء مستندات XLSM. استخدم هذا الرمز لإنشاء ملفات MS Excel XLSM داخل تطبيق ويب أو سطح مكتب يستند إلى Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

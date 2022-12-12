@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést HTML na TXT pomocí Java 
 weight: 2590
-url: /cs/java/conversion/html-to-txt/ 
+
 description: Ukázka převodního kódu Java pro formát HTML na soubor TXT. Programátoři mohou tento příklad kódu použít k exportu tabulek Excelu a OpenOffice do TXT v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

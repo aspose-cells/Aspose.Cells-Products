@@ -1,7 +1,7 @@
-﻿---
+---
 title: Pesquise e substitua texto no documento XLS por meio de .NET 
 weight: 7280
-url: /pt/net/redaction/xls/ 
+
 description: C# código-fonte para redigir informações confidenciais no arquivo XLS nas plataformas .NET Framework, .NET Core, Mono ou Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Scal różne pliki Excela w jeden w Java
-url: /pl/java/merger/
+
 description: Scal pliki Excel za pomocą Java w wiele arkuszy lub jeden arkusz. Łącz, łącz lub łącz dokumenty Excela z plikami PDF, obrazami i HTML.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

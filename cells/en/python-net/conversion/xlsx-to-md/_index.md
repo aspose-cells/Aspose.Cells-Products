@@ -1,6 +1,6 @@
 ---
 title: Convert XLSX to MD via Python
-url: /python-net/conversion/xlsx-to-md/
+
 description: Sample code for xlsx to md Python conversion. Use API example code for batch xlsx files to md conversion within Python application.
 ---
 

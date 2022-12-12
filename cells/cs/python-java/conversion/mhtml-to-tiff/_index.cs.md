@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést MHTML na TIFF přes Python
-url: /cs/python-java/conversion/mhtml-to-tiff/
+
 description: Ukázkový kód pro konverzi mhtml na tiff Python. Použijte API ukázkový kód pro dávkové soubory mhtml k převodu tiff v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

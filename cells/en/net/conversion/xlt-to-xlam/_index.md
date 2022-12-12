@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to XLAM via C#
-url: /net/conversion/xlt-to-xlam/
+
 description: Convert XLT to XLAM format in C# code. Save XLT as XLAM using VB.NET, Asp.NET or any .NET based application.
 ---
 

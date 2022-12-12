@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta NÚMEROS a ODS a través de Python
-url: /es/python-java/conversion/numbers-to-ods/
+
 description: Ejemplo de código para conversión de números a probabilidades Python. Utilice el código de ejemplo API para la conversión de archivos de números de lote en la aplicación Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

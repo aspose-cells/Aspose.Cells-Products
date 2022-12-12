@@ -1,7 +1,7 @@
-﻿---
+---
 title: Προστασία και κλείδωμα εγγράφου XLSM μέσω .NET 
 weight: 7530
-url: /el/net/protect/xlsm/ 
+
 description: C# πηγαίος κώδικας για το κλείδωμα του αρχείου XLSM με χρήση κωδικού πρόσβασης σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

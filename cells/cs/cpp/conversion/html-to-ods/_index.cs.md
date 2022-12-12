@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převeďte HTML na ODS pomocí aplikace C++ 
 weight: 4390
-url: /cs/cpp/conversion/html-to-ods/ 
+
 description: Ukázka převodního kódu C++ pro dokument HTML na formát ODS. Programátoři mohou použít tento zdrojový kód pro dávkovou konverzi HTML na ODS v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

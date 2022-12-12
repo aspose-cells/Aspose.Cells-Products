@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera NUMBERS till PDF via C#
-url: /sv/net/conversion/numbers-to-pdf/
+
 description: Exempelkod för konvertering av siffror till pdf C#. Använd API exempelkod för batchnummerfiler till pdf-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

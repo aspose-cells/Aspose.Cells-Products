@@ -1,7 +1,7 @@
-﻿---
+---
 title: Wyszukaj dokument TSV bez otwierania przez Java 
 weight: 4940
-url: /pl/java/search/tsv/ 
+
 description: Java przykładowy kod do wyszukiwania słów ze wzorcem w pliku TSV w Java środowisku wykonawczym dla aplikacji JSP/JSF i aplikacji komputerowych.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

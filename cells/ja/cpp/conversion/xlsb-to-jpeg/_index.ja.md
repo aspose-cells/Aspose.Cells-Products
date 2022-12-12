@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++アプリケーションを介してXLSBをJPEGに変換します 
 weight: 6990
-url: /ja/cpp/conversion/xlsb-to-jpeg/ 
+
 description: XLSBドキュメントからJPEG形式へのサンプルC++変換コード。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でXLSBからJPEGへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Oplossing voor Excel-bestandsindeling
 weight: 7730
-url: /nl/
+
 description: Maak toepassingen voor het manipuleren van Excel-bestanden met behulp van High Code of Low Code API's of No Code Apps om Excel-bestanden te bekijken, vergelijken, inspecteren of converteren.
 ---
 {{< blocks/products/pf/main-wrap-class >}}

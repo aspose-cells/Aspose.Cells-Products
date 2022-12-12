@@ -1,6 +1,6 @@
-﻿---
+---
 title: XLSM-bestanden samenvoegen via C++ 
-url: /nl/cpp/merger/xlsm/ 
+
 description: C++ voorbeeldcode om XLSM-documenten te combineren op C++ Runtime Environment voor Windows 32 bit, Windows 64 bit en Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

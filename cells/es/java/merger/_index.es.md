@@ -1,6 +1,6 @@
-﻿---
+---
 title: Combinar diferentes archivos de Excel en uno solo en Java
-url: /es/java/merger/
+
 description: Combine archivos de Excel usando Java en varias hojas o en una sola hoja. Combine, combine o concatene documentos de Excel en PDF, imágenes y HTML también.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

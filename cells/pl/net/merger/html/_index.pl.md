@@ -1,7 +1,7 @@
-﻿---
+---
 title: Scal pliki HTML przez .NET 
 weight: 9440
-url: /pl/net/merger/html/ 
+
 description: C# kod źródłowy do łączenia dokumentów HTML na platformach .NET Framework, .NET Core, Mono lub Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Hợp nhất Tệp Excel API .NET C#
-url: /vi/net/merger/
+
 description: Nối các tệp bảng tính Excel và OpenOffice chỉ bằng vài dòng mã C#.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή SPREADSHEETML σε MARKDOWN μέσω C#
-url: /el/net/conversion/spreadsheetml-to-markdown/
+
 description: Δείγμα κώδικα για τη μετατροπή υπολογιστικών φύλλων ml σε επισήμανση C#. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία υπολογιστικών φύλλων ml για να μαρκάρετε τη μετατροπή σε VB.NET, Asp.NET ή οποιαδήποτε εφαρμογή που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to XML via C++
-url: /cpp/conversion/xlsb-to-xml/
+
 description: Convert XLSB to XML format in C++ code. Save XLSB as XML using C++.
 ---
 

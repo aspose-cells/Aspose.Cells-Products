@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera HTML till XPS via Python
-url: /sv/python-java/conversion/html-to-xps/
+
 description: Exempelkod för html till xps Python-konvertering. Använd API exempelkod för batch-html-filer till xps-konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

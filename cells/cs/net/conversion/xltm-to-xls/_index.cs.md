@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLTM na XLS přes C#
-url: /cs/net/conversion/xltm-to-xls/
+
 description: Ukázkový kód pro převod xltm na xls C#. Použijte API ukázkový kód pro dávkový převod souborů xltm na xls v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

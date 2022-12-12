@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++を介して開かずにTSVドキュメントを検索する 
 weight: 930
-url: /ja/cpp/search/tsv/ 
+
 description: C++ Windows 32ビット、Windows 64ビット、およびLinux64ビットのランタイム環境でTSVファイル内のパターンを含む単語を検索するためのサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

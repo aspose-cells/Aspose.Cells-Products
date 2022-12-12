@@ -1,6 +1,6 @@
 ---
 title: Merge MHT to ODS Files via Python 
-url: /python-net/merger/merge-mht-to-ods/ 
+
 description: Merge MHT to ODS file in Python code. Combine MHT to ODS file using Python.
 ---
 

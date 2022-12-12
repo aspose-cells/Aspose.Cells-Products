@@ -1,7 +1,7 @@
-﻿---
+---
 title: Αναζήτηση και αντικατάσταση κειμένου σε έγγραφο XLSB μέσω Java 
 weight: 4590
-url: /el/java/redaction/xlsb/ 
+
 description: Java δείγμα κώδικα για τη διόρθωση ευαίσθητων πληροφοριών σε αρχείο XLSB στο Java Runtime Environment για JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

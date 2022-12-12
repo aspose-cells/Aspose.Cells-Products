@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ uygulaması aracılığıyla ODS'yi HTML'ye dönüştürün 
 weight: 7800
-url: /tr/cpp/conversion/ods-to-html/ 
+
 description: ODS belgesi için HTML biçimine örnek C++ dönüştürme kodu. Programcılar, herhangi bir C++ Uygulamasında toplu ODS'den HTML'ye dönüştürme için bu kaynak kodunu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

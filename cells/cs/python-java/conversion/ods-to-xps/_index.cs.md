@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést ODS na XPS prostřednictvím Python
-url: /cs/python-java/conversion/ods-to-xps/
+
 description: Ukázkový kód pro převod z ods na xps Python. Použijte ukázkový kód API pro dávkový převod souborů ods na xps v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

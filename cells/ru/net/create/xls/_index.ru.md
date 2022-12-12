@@ -1,6 +1,6 @@
-﻿---
+---
 title: Создание файлов MS Excel XLS с помощью C# 
-url: /ru/net/create-xls/ 
+
 description: C# Пример кода для создания документов XLS. Используйте этот код для создания файлов MS Excel XLS в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer HTML naar TSV via Java 
 weight: 8790
-url: /nl/java/conversion/html-to-tsv/ 
+
 description: Voorbeeld Java conversiecode voor HTML-indeling naar TSV-bestand. Programmeurs kunnen deze voorbeeldcode gebruiken om Excel- en OpenOffice-spreadsheets naar TSV te exporteren binnen elke web- of desktoptoepassing Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Edite ou visualize metadados de documentos ODS via C++ 
 weight: 1000
-url: /pt/cpp/metadata/ods/ 
+
 description: C++ código de exemplo para editar ou visualizar metadados de arquivo ODS em C++ Runtime Environment para Windows de 32 bits, Windows de 64 bits e Linux de 64 bits.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

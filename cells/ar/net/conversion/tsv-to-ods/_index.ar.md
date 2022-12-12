@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TSV إلى ODS عبر C#
-url: /ar/net/conversion/tsv-to-ods/
+
 description: نموذج رمز للتحويل من tsv إلى ods C#. استخدم API رمز المثال لملفات tsv المجمعة لتحويل ods داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

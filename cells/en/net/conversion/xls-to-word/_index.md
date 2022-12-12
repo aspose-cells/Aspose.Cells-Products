@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to WORD via C#
-url: /net/conversion/xls-to-word/
+
 description: Convert XLS to WORD format in C# code. Save XLS as WORD using VB.NET, Asp.NET or any .NET based application.
 ---
 

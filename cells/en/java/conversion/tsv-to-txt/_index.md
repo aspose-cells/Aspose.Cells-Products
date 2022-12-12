@@ -1,6 +1,6 @@
 ---
 title: Convert TSV to TXT via Java 
-url: /java/conversion/tsv-to-txt/
+
 description: Convert TSV to TXT format in Java code. Save TSV as TXT using Java.
 ---
 

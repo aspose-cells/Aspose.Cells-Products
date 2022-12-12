@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TSV-fájlok egyesítése a következőn keresztül: C++ "
-url: /hu/cpp/merger/tsv/ 
+
 description: C++ példakód a TSV-dokumentumok kombinálásához a C++ Runtime Environment for Windows 32 bit, a Windows 64 bit és a Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してレーダーチャートを作成する
-url: /ja/python-java/create-radar-chart/
+
 description: PythonPythonライブラリを使用してExcelにレーダーチャートを作成するためのサンプルコード。このコードを使用して、Pythonベースのアプリケーション内でMSExcelへのレーダーチャートを作成します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

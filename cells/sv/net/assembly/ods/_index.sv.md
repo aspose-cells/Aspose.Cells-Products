@@ -1,7 +1,7 @@
-﻿---
+---
 title: Generera rapporter i ODS-filer via .NET 
 weight: 520
-url: /sv/net/assembly/ods/ 
+
 description: C# källkod för att generera ODS-formatrapporter på .NET Framework, .NET Core, Mono eller Xamarin-plattformar.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

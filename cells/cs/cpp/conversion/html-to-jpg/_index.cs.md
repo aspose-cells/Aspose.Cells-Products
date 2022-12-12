@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte HTML na JPG pomocí aplikace C++ 
-url: /cs/cpp/conversion/html-to-jpg/ 
+
 description: Ukázka převodního kódu C++ pro dokument HTML do formátu JPG. Programátoři mohou tento zdrojový kód použít pro dávkový převod HTML na JPG v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

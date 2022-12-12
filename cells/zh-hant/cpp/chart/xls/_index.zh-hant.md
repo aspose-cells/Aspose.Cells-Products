@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通過 C++ 的 XLS 文檔圖表 
 weight: 2500
-url: /zh-hant/cpp/chart/xls/ 
+
 description: C++ 在用於 Windows 32 位、Windows 64 位和 Linux 64 位的 C++ 運行時環境中繪製和轉換 XLS 文件中的圖表或圖表的示例代碼。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

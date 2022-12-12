@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla XLSM'yi GIF'e dönüştürün
-url: /tr/net/conversion/xlsm-to-gif/
+
 description: xlsm'den gif'e C# dönüşümü için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde gif dönüştürme için toplu xlsm dosyaları için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

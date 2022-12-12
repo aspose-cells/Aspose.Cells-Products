@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLSM na XPS přes Python
-url: /cs/python-java/conversion/xlsm-to-xps/
+
 description: Ukázkový kód pro převod xlsm na xps Python. Použijte API ukázkový kód pro dávkový převod souborů xlsm na xps v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

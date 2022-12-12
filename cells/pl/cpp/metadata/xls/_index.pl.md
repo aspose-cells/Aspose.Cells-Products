@@ -1,7 +1,7 @@
-﻿---
+---
 title: Edytuj lub wyświetl metadane dokumentu XLS za pomocą C++ 
 weight: 2150
-url: /pl/cpp/metadata/xls/ 
+
 description: C++ przykładowy kod do edycji lub przeglądania metadanych pliku XLS w C++ środowisku wykonawczym dla 32-bitowego systemu Windows, 64-bitowego systemu Windows i 64-bitowego systemu Linux.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

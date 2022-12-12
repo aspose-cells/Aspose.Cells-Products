@@ -1,6 +1,6 @@
-﻿---
+---
 title: JavaによるMicrosoftExcelファイル変換 
-url: /ja/java/conversion/
+
 description: Excel XLS、XLSX、ODS、CSVをPDF、XPS、HTML、JPEG、HTML、およびその他の多くの一般的な形式に、わずか数行のJavaコードで変換します。
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Tạo Tệp MS Excel XLTX qua Java 
-url: /vi/java/create-xltx/ 
+
 description: Java Mã mẫu để tạo tài liệu XLTX. Sử dụng mã này để tạo tệp MS Excel XLTX trong ứng dụng web hoặc máy tính để bàn dựa trên Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

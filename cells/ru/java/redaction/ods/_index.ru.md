@@ -1,7 +1,7 @@
-﻿---
+---
 title: Поиск и замена текста в документе ODS через Java 
 weight: 9210
-url: /ru/java/redaction/ods/ 
+
 description: Пример кода Java для редактирования конфиденциальной информации в файле ODS в Java среде выполнения для приложений JSP/JSF и настольных приложений.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

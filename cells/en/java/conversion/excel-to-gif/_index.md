@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to GIF via Java 
-url: /java/conversion/excel-to-gif/
+
 description: Convert EXCEL to GIF format in Java code. Save EXCEL as GIF using Java.
 ---
 

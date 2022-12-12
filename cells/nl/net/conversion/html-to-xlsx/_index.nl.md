@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer HTML naar XLSX via C#
-url: /nl/net/conversion/html-to-xlsx/
+
 description: Voorbeeldcode voor conversie van html naar xlsx C#. Gebruik API voorbeeldcode voor batch-html-bestanden naar xlsx-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

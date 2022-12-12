@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to MARKDOWN via Python
-url: /python-java/conversion/ods-to-markdown/
+
 description: Convert ODS to MARKDOWN format in Python code. Save ODS as MARKDOWN using Python.
 ---
 

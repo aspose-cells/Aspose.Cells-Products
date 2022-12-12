@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to XLTX via Python
-url: /python-net/conversion/sxc-to-xltx/
+
 description: Sample code for sxc to xltx Python conversion. Use API example code for batch sxc files to xltx conversion within Python application.
 ---
 

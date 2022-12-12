@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to XML via C++
-url: /cpp/conversion/fods-to-xml/
+
 description: Convert FODS to XML format in C++ code. Save FODS as XML using C++.
 ---
 

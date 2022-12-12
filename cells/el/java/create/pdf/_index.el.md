@@ -1,6 +1,6 @@
-﻿---
+---
 title: Δημιουργία αρχείων PDF μέσω Java 
-url: /el/java/create-pdf/ 
+
 description: Java Δείγμα κώδικα για τη δημιουργία εγγράφων PDF. Χρησιμοποιήστε αυτόν τον κώδικα για τη δημιουργία αρχείων PDF μέσα σε Java επιτραπέζια εφαρμογή ή εφαρμογή web.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

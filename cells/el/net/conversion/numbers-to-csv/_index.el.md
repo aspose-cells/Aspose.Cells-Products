@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή NUMBERS σε CSV μέσω C#
-url: /el/net/conversion/numbers-to-csv/
+
 description: Δείγμα κώδικα για μετατροπή αριθμών σε csv C#. Χρησιμοποιήστε API παράδειγμα κώδικα για αρχεία αριθμών παρτίδας για μετατροπή csv εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

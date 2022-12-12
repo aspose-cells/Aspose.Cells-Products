@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to MARKDOWN via Python
-url: /python-java/conversion/mhtml-to-markdown/
+
 description: Convert MHTML to MARKDOWN format in Python code. Save MHTML as MARKDOWN using Python.
 ---
 

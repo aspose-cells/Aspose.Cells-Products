@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to XLAM via C++
-url: /cpp/conversion/spreadsheetml-to-xlam/
+
 description: Convert SPREADSHEETML to XLAM format in C++ code. Save SPREADSHEETML as XLAM using C++.
 ---
 

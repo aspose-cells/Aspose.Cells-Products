@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi XLTM ke PDF melalui C++ aplikasi 
-url: /id/cpp/conversion/xltm-to-pdf/ 
+
 description: Contoh C++ kode konversi untuk dokumen XLTM ke format PDF. Pemrogram dapat menggunakan kode sumber ini untuk konversi batch XLTM ke PDF dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل HTML إلى JSON عبر Java 
 weight: 9560
-url: /ar/java/conversion/html-to-json/ 
+
 description: نموذج رمز تحويل Java لتنسيق HTML إلى ملف JSON. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى JSON داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

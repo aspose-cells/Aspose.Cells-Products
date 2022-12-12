@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir TABDELIMITED en XLTM via Java 
-url: /fr/java/conversion/tabdelimited-to-xltm/ 
+
 description: Exemple de code de conversion Java pour le format TABDELIMITED en fichier XLTM. Les programmeurs peuvent utiliser cet exemple de code pour exporter des feuilles de calcul Excel et OpenOffice vers XLTM dans n'importe quelle application Web ou de bureau Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést JSON na XLT přes Java 
 weight: 7430
-url: /cs/java/conversion/json-to-xlt/ 
+
 description: Ukázkový konverzní kód Java pro formát JSON na soubor XLT. Programátoři mohou použít tento příklad kódu k exportu tabulek Excelu a OpenOffice do XLT v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

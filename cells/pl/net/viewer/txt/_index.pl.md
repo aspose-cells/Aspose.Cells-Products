@@ -1,7 +1,7 @@
-﻿---
+---
 title: Wyświetl formaty plików TXT za pomocą .NET 
 weight: 8300
-url: /pl/net/viewer/txt/ 
+
 description: C# kod źródłowy do ładowania, renderowania i wyświetlania dokumentów TXT na platformach .NET Framework, .NET Core, Mono lub Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: قم بتحويل XLTM إلى ODS عبر تطبيق C++ 
-url: /ar/cpp/conversion/xltm-to-ods/ 
+
 description: نموذج C++ رمز تحويل لمستند XLTM إلى تنسيق ODS. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل XLTM إلى دفعة واحدة في أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

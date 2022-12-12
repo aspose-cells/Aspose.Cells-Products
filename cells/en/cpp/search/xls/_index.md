@@ -1,7 +1,7 @@
 ---
 title: Search XLS document without opening via C++ 
 weight: 4560
-url: /cpp/search/xls/ 
+
 description: C++ example code to search words with pattern in XLS file on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
 

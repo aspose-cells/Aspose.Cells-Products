@@ -1,7 +1,7 @@
-﻿---
+---
 title: Agregue la anotación XLSB del archivo de Excel a través de C++ 
 weight: 860
-url: /es/cpp/annotation/xlsb/ 
+
 description: C++ código de ejemplo para eliminar anotaciones en formato XLSB en C++ entorno de tiempo de ejecución para Windows de 32 bits, Windows de 64 bits y Linux de 64 bits.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

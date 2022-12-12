@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TABDELIMITED na HTML pomocí Python
-url: /cs/python-java/conversion/tabdelimited-to-html/
+
 description: Ukázkový kód pro převod tabulátorů na html Python. Použijte API ukázkový kód pro dávkový převod souborů oddělených tabulátory na html v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

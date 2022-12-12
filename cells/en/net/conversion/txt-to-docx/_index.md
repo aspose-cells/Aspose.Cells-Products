@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to DOCX via C#
-url: /net/conversion/txt-to-docx/
+
 description: Convert TXT to DOCX format in C# code. Save TXT as DOCX using VB.NET, Asp.NET or any .NET based application.
 ---
 

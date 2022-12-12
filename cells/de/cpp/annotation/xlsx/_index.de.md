@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLSX-Anmerkung über C++ hinzufügen 
 weight: 5260
-url: /de/cpp/annotation/xlsx/ 
+
 description: C++ Beispielcode zum Hinzufügen oder Löschen von Anmerkungen im XLSX-Format in C++ Runtime Environment für Windows 32 Bit, Windows 64 Bit und Linux 64 Bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

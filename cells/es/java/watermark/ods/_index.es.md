@@ -1,7 +1,7 @@
-﻿---
+---
 title: Documento ODS de marca de agua a través de Java 
 weight: 1040
-url: /es/java/watermark/ods/ 
+
 description: Java código de muestra para agregar o eliminar la marca de agua del archivo ODS en Java entorno de tiempo de ejecución para aplicaciones JSP/JSF y aplicaciones de escritorio.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

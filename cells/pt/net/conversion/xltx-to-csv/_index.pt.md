@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter XLTX para CSV via C#
-url: /pt/net/conversion/xltx-to-csv/
+
 description: Código de amostra para conversão de xltx para csv C#. Use API código de exemplo para arquivos xltx em lote para conversão csv em VB.NET, Asp.NET ou qualquer aplicativo baseado em .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

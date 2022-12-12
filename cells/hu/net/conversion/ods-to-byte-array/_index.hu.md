@@ -1,7 +1,7 @@
-﻿---
+---
 title: "ODS konvertálása byte Array-vé a következőn keresztül: C# "
 weight: 7690
-url: /hu/net/conversion/ods-to-byte-array/ 
+
 description: C# Mintakód az ODS-ből byte Array konvertáláshoz. Használja ezt a kódot az Excel ODS-ből Byte Array konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

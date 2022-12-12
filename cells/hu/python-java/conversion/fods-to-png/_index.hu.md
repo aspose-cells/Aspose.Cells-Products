@@ -1,6 +1,6 @@
-﻿---
+---
 title: "FODS konvertálása PNG-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/fods-to-png/
+
 description: Mintakód a fod to png Python konverziójához. Használjon API példakódot a kötegelt fod fájlokhoz png konverzióvá a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

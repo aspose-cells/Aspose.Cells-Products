@@ -1,7 +1,7 @@
-﻿---
+---
 title: Mesclar arquivos TSV via Java 
 weight: 9260
-url: /pt/java/merger/tsv/ 
+
 description: Java código de amostra para combinar documentos TSV no Java ambiente de tempo de execução para aplicativos JSP/JSF e aplicativos de desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

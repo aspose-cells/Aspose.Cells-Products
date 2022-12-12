@@ -1,7 +1,7 @@
-﻿---
+---
 title: Tìm kiếm và thay thế văn bản trong tài liệu XLSM qua .NET 
 weight: 2370
-url: /vi/net/redaction/xlsm/ 
+
 description: C# mã nguồn để biên tập lại thông tin nhạy cảm trong tệp XLSM trên Nền tảng .NET Framework, .NET Core Mono hoặc Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

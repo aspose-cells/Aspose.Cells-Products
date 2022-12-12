@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLS в JSON через Python
-url: /ru/python-java/conversion/xls-to-json/
+
 description: Пример кода для преобразования xls в json Python. Используйте пример кода API для пакетного преобразования файлов xls в json в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

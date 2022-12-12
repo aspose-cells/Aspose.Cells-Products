@@ -1,6 +1,6 @@
-﻿---
+---
 title: Zobrazit formáty souborů MHT prostřednictvím .NET 
-url: /cs/net/viewer/mht/ 
+
 description: C# zdrojový kód k načtení, vykreslení a zobrazení dokumentů MHT na platformách .NET Framework, .NET Core, Windows Azure, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

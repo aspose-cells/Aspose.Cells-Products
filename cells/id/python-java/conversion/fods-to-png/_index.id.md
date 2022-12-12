@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan FODS ke PNG melalui Python
-url: /id/python-java/conversion/fods-to-png/
+
 description: Contoh kode untuk konversi makanan ke png Python. Gunakan API kode contoh untuk file batch fods ke konversi png dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

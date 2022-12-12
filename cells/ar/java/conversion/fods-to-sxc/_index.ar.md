@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل FODS إلى SXC عبر Java 
-url: /ar/java/conversion/fods-to-sxc/ 
+
 description: نموذج Java رمز تحويل لتنسيق FODS إلى ملف SXC. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى SXC من خلال أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

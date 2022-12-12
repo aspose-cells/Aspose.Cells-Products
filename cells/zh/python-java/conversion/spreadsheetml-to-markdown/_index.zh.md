@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 Python 将 SPREADSHEETML 转换为 MARKDOWN
-url: /zh/python-java/conversion/spreadsheetml-to-markdown/
+
 description: 电子表格到 markdown Python 转换的示例代码。在 Python 应用程序中使用批量电子表格文件的 API 示例代码进行降价转换。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

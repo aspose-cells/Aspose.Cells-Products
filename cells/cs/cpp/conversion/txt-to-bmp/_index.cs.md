@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte TXT na BMP pomocí aplikace C++ 
-url: /cs/cpp/conversion/txt-to-bmp/ 
+
 description: Ukázka převodního kódu C++ pro dokument TXT do formátu BMP. Programátoři mohou použít tento zdrojový kód pro dávkový převod TXT na BMP v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

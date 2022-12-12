@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converti XLTX in GIF tramite l'applicazione C++ 
-url: /it/cpp/conversion/xltx-to-gif/ 
+
 description: Esempio di codice di conversione C++ per il documento XLTX in formato GIF. I programmatori possono utilizzare questo codice sorgente per la conversione batch da XLTX a GIF all'interno di qualsiasi C++ Applicazione.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

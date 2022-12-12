@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل TSV إلى EMF عبر تطبيق C++ 
 weight: 5870
-url: /ar/cpp/conversion/tsv-to-emf/ 
+
 description: نموذج رمز تحويل C++ لمستند TSV إلى تنسيق EMF. يمكن للمبرمجين استخدام رمز المصدر هذا لتحويل TSV دفعة إلى EMF داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

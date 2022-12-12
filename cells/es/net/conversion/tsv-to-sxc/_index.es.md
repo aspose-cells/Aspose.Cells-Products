@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta TSV a SXC a través de C#
-url: /es/net/conversion/tsv-to-sxc/
+
 description: Código de muestra para la conversión de tsv a sxc C#. Utilice el código de ejemplo API para la conversión de archivos tsv por lotes a sxc dentro de VB.NET, Asp.NET o cualquier aplicación basada en .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "EXCEL konvertálása PPTX-re a következőn keresztül: C#"
-url: /hu/net/conversion/excel-to-pptx/
+
 description: Mintakód az excel–pptx C# konverzióhoz. Használjon API példakódot kötegelt excel fájlok pptx konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: ค้นหาเอกสาร XLS โดยไม่ต้องเปิดผ่าน .NET 
 weight: 1490
-url: /th/net/search/xls/ 
+
 description: C# ซอร์สโค้ดเพื่อค้นหาคำที่มีรูปแบบในไฟล์ XLS บน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

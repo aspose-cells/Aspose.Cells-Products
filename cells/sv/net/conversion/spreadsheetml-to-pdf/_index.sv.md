@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera SPREADSHEETML till PDF via C#
-url: /sv/net/conversion/spreadsheetml-to-pdf/
+
 description: Exempelkod för konvertering från kalkylarkml till pdf C#. Använd API exempelkod för batch-kalkylarkml-filer till pdf-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

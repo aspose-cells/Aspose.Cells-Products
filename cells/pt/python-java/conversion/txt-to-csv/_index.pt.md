@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter TXT para CSV via Python
-url: /pt/python-java/conversion/txt-to-csv/
+
 description: Código de exemplo para conversão de txt para csv Python. Use o código de exemplo API para arquivos txt em lote para conversão csv no aplicativo Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to TIFF via Python
-url: /python-java/conversion/xls-to-tiff/
+
 description: Convert XLS to TIFF format in Python code. Save XLS as TIFF using Python.
 ---
 

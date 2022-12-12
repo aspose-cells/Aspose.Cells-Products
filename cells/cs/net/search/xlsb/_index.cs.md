@@ -1,7 +1,7 @@
-﻿---
+---
 title: Prohledejte dokument XLSB bez otevření prostřednictvím .NET 
 weight: 8880
-url: /cs/net/search/xlsb/ 
+
 description: C# zdrojový kód pro vyhledávání slov se vzorem v souboru XLSB na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

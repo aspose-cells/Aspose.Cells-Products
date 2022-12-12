@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TXT konvertálása ODS-vé a következőn keresztül: C#"
-url: /hu/net/conversion/txt-to-ods/
+
 description: Mintakód a txt ods C# konvertálásához. Használjon API példakódot a kötegelt txt fájlok ods konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

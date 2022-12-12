@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj SPREADSHEETML na XLS przez Python
-url: /pl/python-java/conversion/spreadsheetml-to-xls/
+
 description: Przykładowy kod konwersji arkusza kalkulacyjnego ml do xls Python. Użyj przykładowego kodu API dla wsadowych plików arkusza kalkulacyjnego w formacie xls do konwersji w formacie xls w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

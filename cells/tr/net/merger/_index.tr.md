@@ -1,6 +1,6 @@
-﻿---
+---
 title: Excel Dosya Birleştirmesi API .NET C#
-url: /tr/net/merger/
+
 description: Excel ve OpenOffice elektronik tablo dosyalarını yalnızca birkaç satır C# koduyla birleştirin.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

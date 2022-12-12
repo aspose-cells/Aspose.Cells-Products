@@ -1,6 +1,6 @@
-﻿---
+---
 title: .NET aracılığıyla Excel'e yorum ekleyin
-url: /tr/net/comment/
+
 description: .NET Kitaplığı kullanılarak Microsoft Excel dosyalarına nasıl yorum ekleneceğini gösteren C# kaynak kodları. 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

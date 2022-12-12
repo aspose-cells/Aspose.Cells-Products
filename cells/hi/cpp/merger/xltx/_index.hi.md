@@ -1,6 +1,6 @@
-﻿---
+---
 title: XLTX फ़ाइलों को C++ के माध्यम से मर्ज करें 
-url: /hi/cpp/merger/xltx/ 
+
 description: C++ एक्सएलटीएक्स दस्तावेज़ों को C++ विंडोज 32 बिट, विंडोज 64 बिट और लिनक्स 64 बिट के लिए रनटाइम एनवायरनमेंट पर संयोजित करने के लिए उदाहरण कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

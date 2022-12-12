@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLSB na PDF přes C#
-url: /cs/net/conversion/xlsb-to-pdf/
+
 description: Ukázkový kód pro převod xlsb na pdf C#. Použijte API ukázkový kód pro dávkový převod souborů xlsb na pdf v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

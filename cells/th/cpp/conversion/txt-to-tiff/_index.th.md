@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง TXT เป็น TIFF ผ่าน C++ แอปพลิเคชัน 
-url: /th/cpp/conversion/txt-to-tiff/ 
+
 description: ตัวอย่างรหัสการแปลง C++ สำหรับเอกสาร TXT เป็นรูปแบบ TIFF โปรแกรมเมอร์สามารถใช้ซอร์สโค้ดนี้สำหรับการแปลงแบตช์ TXT เป็น TIFF ภายในแอปพลิเคชัน C++ ใดก็ได้
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

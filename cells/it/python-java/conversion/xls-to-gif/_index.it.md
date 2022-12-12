@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converti XLS in GIF tramite Python
-url: /it/python-java/conversion/xls-to-gif/
+
 description: Codice di esempio per la conversione da xls a gif Python. Usa API codice di esempio per la conversione batch di file xls in gif all'interno dell'applicazione Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

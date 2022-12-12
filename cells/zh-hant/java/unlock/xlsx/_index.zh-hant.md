@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通過 Java 解鎖 XLSX 文檔 
 weight: 310
-url: /zh-hant/java/unlock/xlsx/ 
+
 description: Java 示例代碼，用於在 Java JSP/JSF 應用程序和桌面應用程序的運行時環境中解鎖受密碼保護的 XLSX 文件。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to XLS via Python
-url: /python-java/conversion/spreadsheetml-to-xls/
+
 description: Convert SPREADSHEETML to XLS format in Python code. Save SPREADSHEETML as XLS using Python.
 ---
 

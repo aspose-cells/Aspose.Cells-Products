@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to SPREADSHEETML via C#
-url: /net/conversion/fods-to-spreadsheetml/
+
 description: Convert FODS to SPREADSHEETML format in C# code. Save FODS as SPREADSHEETML using VB.NET, Asp.NET or any .NET based application.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to XLTX via Python
-url: /python-net/conversion/json-to-xltx/
+
 description: Sample code for json to xltx Python conversion. Use API example code for batch json files to xltx conversion within Python application.
 ---
 

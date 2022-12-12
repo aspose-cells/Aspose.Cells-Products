@@ -1,7 +1,7 @@
-﻿---
+---
 title: Excel XLS XLSXPDFODSでのレポートのエクスポートJasperReportsおよびJasperServerでのエクスポート 
 weight: 9460
-url: /ja/jasperreports/ 
+
 description: JasperReportsおよびJasperServerからExcelXLSXLSX PDFODSTXTおよびSpreadsheetML形式でレポートをエクスポートします。また、レポートをExcelスプレッドシートとして印刷します
 ---
 {{< blocks/products/pf/main-wrap-class >}}

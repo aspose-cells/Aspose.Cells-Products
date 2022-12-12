@@ -1,6 +1,6 @@
-﻿---
+---
 title: "NUMBERS konvertálása JPEG formátumba a következőn keresztül: C#"
-url: /hu/net/conversion/numbers-to-jpeg/
+
 description: Mintakód számok jpeg C# formátumba konvertálásához. Használjon API példakódot kötegszámfájlokhoz a jpeg konvertáláshoz VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

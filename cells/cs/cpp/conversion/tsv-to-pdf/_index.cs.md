@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převeďte TSV na PDF pomocí aplikace C++ 
 weight: 9090
-url: /cs/cpp/conversion/tsv-to-pdf/ 
+
 description: Ukázka převodního kódu C++ pro dokument TSV do formátu PDF. Programátoři mohou použít tento zdrojový kód pro dávkový převod TSV do PDF v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

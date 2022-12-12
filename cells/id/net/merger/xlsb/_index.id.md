@@ -1,7 +1,7 @@
-﻿---
+---
 title: Gabungkan File XLSB melalui .NET 
 weight: 2970
-url: /id/net/merger/xlsb/ 
+
 description: C# kode sumber untuk menggabungkan dokumen XLSB pada .NET Framework, .NET Core, Mono atau Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

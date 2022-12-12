@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή FODS σε XLSX μέσω Python
-url: /el/python-java/conversion/fods-to-xlsx/
+
 description: Δείγμα κώδικα για μετατροπή fods σε xlsx Python. Χρησιμοποιήστε API παράδειγμα κώδικα για μετατροπή batch fods σε xlsx εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

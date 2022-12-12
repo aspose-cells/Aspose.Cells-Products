@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET aracılığıyla XLSX belgesini filigranla 
 weight: 8270
-url: /tr/net/watermark/xlsx/ 
+
 description: .NET Framework, .NET Core, Mono veya Xamarin Platformlarında XLSX dosyasına filigran eklemek veya kaldırmak için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

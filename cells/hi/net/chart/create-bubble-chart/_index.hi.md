@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# के द्वारा बबल चार्ट बनाएं
-url: /hi/net/create-bubble-chart/
+
 description: C# .NET लाइब्रेरी का उपयोग करके एक्सेल में बबल चार्ट बनाने के लिए नमूना कोड। वीबी.NET, एएसपी.NET या किसी .NET आधारित एप्लिकेशन के भीतर एमएस एक्सेल के लिए {चार्ट} चार्ट बनाने के लिए इस कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

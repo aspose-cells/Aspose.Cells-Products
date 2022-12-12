@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLSX na XML prostřednictvím Python
-url: /cs/python-java/conversion/xlsx-to-xml/
+
 description: Ukázkový kód pro převod xlsx na xml Python. Použijte API ukázkový kód pro dávkový převod souborů xlsx na xml v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte XLTX na MD pomocí aplikace C++ 
-url: /cs/cpp/conversion/xltx-to-md/ 
+
 description: Ukázka převodního kódu C++ pro dokument XLTX na formát MD. Programátoři mohou použít tento zdrojový kód pro dávkovou konverzi XLTX na MD v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to BMP via C#
-url: /net/conversion/xltx-to-bmp/
+
 description: Convert XLTX to BMP format in C# code. Save XLTX as BMP using VB.NET, Asp.NET or any .NET based application.
 ---
 

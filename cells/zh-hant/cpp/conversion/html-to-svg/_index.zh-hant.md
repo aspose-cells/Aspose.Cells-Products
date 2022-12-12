@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通過 C++ 應用程序將 HTML 轉換為 SVG 
 weight: 3480
-url: /zh-hant/cpp/conversion/html-to-svg/ 
+
 description: HTML 文檔到 SVG 格式的示例 C++ 轉換代碼。程序員可以使用此源代碼在任何 C++ 應用程序中將 HTML 批量轉換為 SVG。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

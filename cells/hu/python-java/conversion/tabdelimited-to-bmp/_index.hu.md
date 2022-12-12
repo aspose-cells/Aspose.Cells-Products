@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TABDELIMITED konvertálása BMP-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/tabdelimited-to-bmp/
+
 description: Mintakód a tabulátorral elválasztott bmp Python konverzióhoz. Használjon API példakódot tabulátorral tagolt fájlok kötegelt bmp konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

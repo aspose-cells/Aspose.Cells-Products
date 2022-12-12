@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++アプリケーションを介してSPREADSHEETMLをMHTMLに変換します 
-url: /ja/cpp/conversion/spreadsheetml-to-mhtml/ 
+
 description: SPREADSHEETMLドキュメントのサンプルC++変換コードからMHTML形式へ。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でSPREADSHEETMLからMHTMLへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

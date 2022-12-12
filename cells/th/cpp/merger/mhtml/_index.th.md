@@ -1,6 +1,6 @@
-﻿---
+---
 title: รวมไฟล์ MHTML ผ่าน C++ 
-url: /th/cpp/merger/mhtml/ 
+
 description: C++ ตัวอย่างโค้ดเพื่อรวมเอกสาร MHTML บน C++ Runtime Environment สำหรับ Windows 32 บิต, Windows 64 บิต และ Linux 64 บิต
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

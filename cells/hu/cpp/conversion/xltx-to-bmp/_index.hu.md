@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLTX-et BMP-vé a C++ alkalmazással 
-url: /hu/cpp/conversion/xltx-to-bmp/ 
+
 description: Minta C++ konverziós kód XLTX dokumentumhoz BMP formátumba. A programozók ezt a forráskódot használhatják az XLTX-ből BMP-be kötegelt konvertáláshoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

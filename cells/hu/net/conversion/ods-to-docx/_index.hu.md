@@ -1,6 +1,6 @@
-﻿---
+---
 title: "ODS konvertálása DOCX-re a következőn keresztül: C#"
-url: /hu/net/conversion/ods-to-docx/
+
 description: Mintakód az ods to docx C# konverziójához. Használjon API példakódot kötegelt ods-fájlokhoz a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazás docx-konverziójához.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

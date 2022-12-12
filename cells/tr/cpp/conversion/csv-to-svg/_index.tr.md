@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ uygulaması aracılığıyla CSV'yi SVG'ye dönüştürün 
 weight: 1710
-url: /tr/cpp/conversion/csv-to-svg/ 
+
 description: CSV belgesi için SVG biçimine örnek C++ dönüştürme kodu. Programcılar, herhangi bir C++ Uygulamasında toplu CSV'den SVG'ye dönüştürme için bu kaynak kodunu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

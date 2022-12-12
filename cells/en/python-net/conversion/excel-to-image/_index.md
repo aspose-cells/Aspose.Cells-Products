@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to IMAGE via Python
-url: /python-net/conversion/excel-to-image/
+
 description: Sample code for excel to image Python conversion. Use API example code for batch excel files to image conversion within Python application.
 ---
 

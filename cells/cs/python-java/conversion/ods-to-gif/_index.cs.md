@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést ODS na GIF prostřednictvím Python
-url: /cs/python-java/conversion/ods-to-gif/
+
 description: Ukázkový kód pro převod z ods na gif Python. Použijte API ukázkový kód pro dávkový převod souborů ods na gif v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

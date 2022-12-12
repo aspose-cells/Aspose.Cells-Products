@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertissez XLTX en HTML via l'application C++ 
-url: /fr/cpp/conversion/xltx-to-html/ 
+
 description: Exemple de code de conversion C++ pour le document XLTX au format HTML. Les programmeurs peuvent utiliser ce code source pour la conversion par lots de XLTX en HTML dans n'importe quelle application C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

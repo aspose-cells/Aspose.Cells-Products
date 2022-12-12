@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj SPREADSHEETML na PNG za pomocą Python
-url: /pl/python-java/conversion/spreadsheetml-to-png/
+
 description: Przykładowy kod konwersji arkusza kalkulacyjnego ml na png Python. Użyj przykładowego kodu API dla wsadowych plików arkusza kalkulacyjnego w formacie png do konwersji png w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

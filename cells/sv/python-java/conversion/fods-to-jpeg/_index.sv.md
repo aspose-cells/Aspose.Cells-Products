@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera FODS till JPEG via Python
-url: /sv/python-java/conversion/fods-to-jpeg/
+
 description: Exempelkod för fods till jpeg Python-konvertering. Använd API exempelkod för batch fods-filer till jpeg-konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

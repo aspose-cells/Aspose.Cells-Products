@@ -1,6 +1,6 @@
 ---
 title: Create Excel Charts and Convert to Images via Java
-url: /java/chart/
+
 description: Java source code to draw and convert chart or diagram in Microsoft Excel using Java Library. 
 ---
 

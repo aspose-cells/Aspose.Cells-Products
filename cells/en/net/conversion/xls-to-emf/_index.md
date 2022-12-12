@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to EMF via C#
-url: /net/conversion/xls-to-emf/
+
 description: Convert XLS to EMF format in C# code. Save XLS as EMF using VB.NET, Asp.NET or any .NET based application.
 ---
 

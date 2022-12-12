@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer CSV naar HTML via C#
-url: /nl/net/conversion/csv-to-html/
+
 description: Voorbeeldcode voor conversie van csv naar html C#. Gebruik API voorbeeldcode voor batch-csv-bestanden naar html-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést CSV na TIFF prostřednictvím C#
-url: /cs/net/conversion/csv-to-tiff/
+
 description: Ukázkový kód pro konverzi csv na tiff C#. Použijte API ukázkový kód pro dávkové soubory csv k převodu tiff v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

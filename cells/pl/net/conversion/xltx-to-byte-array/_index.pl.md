@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konwertuj XLTX na macierz bajtów za pomocą C# 
 weight: 7690
-url: /pl/net/conversion/xltx-to-byte-array/ 
+
 description: C# Przykładowy kod konwersji XLTX na tablicę bajtów. Użyj tego kodu do konwersji Excel XLTX na Byte Array w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

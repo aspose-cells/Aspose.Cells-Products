@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++アプリケーションを介してSPREADSHEETMLをXLSXに変換します 
-url: /ja/cpp/conversion/spreadsheetml-to-xlsx/ 
+
 description: SPREADSHEETMLドキュメントのXLSX形式へのサンプルC++変換コード。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でSPREADSHEETMLからXLSXへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

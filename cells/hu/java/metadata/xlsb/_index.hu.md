@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Szerkessze vagy tekintse meg az XLSB-fájlok metaadatait a következőn keresztül: Java "
 weight: 7290
-url: /hu/java/metadata/xlsb/ 
+
 description: Java mintakód az XLSB formátumú metaadatok szerkesztéséhez vagy megtekintéséhez a Java Runtime Environment for JSP/JSF alkalmazásokhoz és asztali alkalmazásokhoz.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

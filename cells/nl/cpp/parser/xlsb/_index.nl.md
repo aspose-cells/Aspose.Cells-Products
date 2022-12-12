@@ -1,7 +1,7 @@
-﻿---
+---
 title: Extraheer tekst en afbeeldingen uit XLSB-document via C++ 
 weight: 3140
-url: /nl/cpp/parser/xlsb/ 
+
 description: C++ voorbeeldcode om tekst en afbeeldingen uit XLSB-bestand te extraheren in C++ Runtime Environment voor Windows 32 bit, Windows 64 bit en Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

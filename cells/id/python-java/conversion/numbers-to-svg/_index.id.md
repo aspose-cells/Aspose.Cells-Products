@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi NUMBER ke SVG melalui Python
-url: /id/python-java/conversion/numbers-to-svg/
+
 description: Contoh kode untuk angka ke konversi Python svg. Gunakan kode contoh API untuk file nomor batch ke konversi svg dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

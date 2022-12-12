@@ -1,6 +1,6 @@
-﻿---
+---
 title: Vytvářejte soubory MS Excel XLSB prostřednictvím Java 
-url: /cs/java/create-xlsb/ 
+
 description: Java Ukázkový kód pro generování dokumentů XLSB. Tento kód použijte k vytváření souborů MS Excel XLSB v desktopové nebo webové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

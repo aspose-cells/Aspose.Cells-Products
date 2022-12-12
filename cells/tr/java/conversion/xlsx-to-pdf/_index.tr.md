@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java aracılığıyla XLSX'i PDF'ye dönüştürün 
 weight: 3200
-url: /tr/java/conversion/xlsx-to-pdf/ 
+
 description: XLSX biçimi için PDF dosyasına örnek Java dönüştürme kodu. Programcılar, Excel ve OpenOffice elektronik tablolarını herhangi bir Web veya Masaüstü Java tabanlı Uygulamada PDF'ye dışa aktarmak için bu örnek kodu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

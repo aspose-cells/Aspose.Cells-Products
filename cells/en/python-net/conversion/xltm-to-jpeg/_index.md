@@ -1,6 +1,6 @@
 ---
 title: Convert XLTM to JPEG via Python
-url: /python-net/conversion/xltm-to-jpeg/
+
 description: Sample code for xltm to jpeg Python conversion. Use API example code for batch xltm files to jpeg conversion within Python application.
 ---
 

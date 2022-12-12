@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή SPREADSHEETML σε BMP μέσω Python
-url: /el/python-java/conversion/spreadsheetml-to-bmp/
+
 description: Δείγμα κώδικα για μετατροπή υπολογιστικού φύλλου σε bmp Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία υπολογιστικού φύλλου για μετατροπή bmp εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

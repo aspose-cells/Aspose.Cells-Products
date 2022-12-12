@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή HTML σε JSON μέσω C#
-url: /el/net/conversion/html-to-json/
+
 description: Δείγμα κώδικα για μετατροπή html σε json C#. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία html για μετατροπή json εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

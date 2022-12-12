@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera TABDELIMITED till XLTM via C#
-url: /sv/net/conversion/tabdelimited-to-xltm/
+
 description: Exempelkod för tabbavgränsad till xltm C#-konvertering. Använd API exempelkod för batch-tabbavgränsade filer till xltm-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

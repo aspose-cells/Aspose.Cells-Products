@@ -1,7 +1,7 @@
-﻿---
+---
 title: Graf dokumentu XLSX prostřednictvím Java 
 weight: 5380
-url: /cs/java/chart/xlsx/ 
+
 description: Java ukázkový kód pro kreslení a převod grafu nebo diagramu do souboru XLSX v Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

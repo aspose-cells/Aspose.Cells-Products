@@ -1,6 +1,6 @@
-﻿---
+---
 title: "CSV-fájlok egyesítése a következőn keresztül: C++ "
-url: /hu/cpp/merger/csv/ 
+
 description: C++ példakód a CSV-dokumentumok kombinálásához C++ Runtime Environment for Windows 32 bit, Windows 64 bit és Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

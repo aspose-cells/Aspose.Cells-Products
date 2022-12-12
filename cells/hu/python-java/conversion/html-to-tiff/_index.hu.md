@@ -1,6 +1,6 @@
-﻿---
+---
 title: "HTML konvertálása TIFF-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/html-to-tiff/
+
 description: Mintakód a html–tiff Python konverzióhoz. Használjon API példakódot kötegelt html fájlokhoz a tiff konverzióhoz a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

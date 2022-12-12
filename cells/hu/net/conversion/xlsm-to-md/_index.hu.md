@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Konvertálja az XLSM-et MD-vé a következőn keresztül: C#"
-url: /hu/net/conversion/xlsm-to-md/
+
 description: Mintakód az xlsm–md C# konverzióhoz. Használjon API példakódot a kötegelt xlsm fájlok md konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazásban.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

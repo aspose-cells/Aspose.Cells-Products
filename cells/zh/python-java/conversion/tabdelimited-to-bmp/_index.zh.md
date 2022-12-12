@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 Python 将 TABDELIMITED 转换为 BMP
-url: /zh/python-java/conversion/tabdelimited-to-bmp/
+
 description: tabdelimited 到 bmp Python 转换的示例代码。将 API 示例代码用于批处理制表符分隔文件到 Python 应用程序中的 bmp 转换。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

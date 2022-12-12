@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer JSON naar HTML via Python
-url: /nl/python-java/conversion/json-to-html/
+
 description: Voorbeeldcode voor conversie van json naar html Python. Gebruik API voorbeeldcode voor batch json-bestanden naar html-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

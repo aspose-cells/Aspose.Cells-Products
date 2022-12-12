@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi SXC sang SVG qua Python
-url: /vi/python-java/conversion/sxc-to-svg/
+
 description: Mã mẫu cho chuyển đổi sxc sang svg Python. Sử dụng mã mẫu API cho hàng loạt tệp sxc để chuyển đổi svg trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

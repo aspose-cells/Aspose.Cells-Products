@@ -1,7 +1,7 @@
-﻿---
+---
 title: Sloučit soubory MHTML přes Java 
 weight: 4420
-url: /cs/java/merger/mhtml/ 
+
 description: Java ukázkový kód pro kombinaci dokumentů MHTML v Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

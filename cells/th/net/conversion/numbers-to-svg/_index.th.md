@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง NUMBERS เป็น SVG ผ่าน C#
-url: /th/net/conversion/numbers-to-svg/
+
 description: โค้ดตัวอย่างสำหรับการแปลงตัวเลขเป็น svg C# ใช้ API โค้ดตัวอย่างสำหรับไฟล์หมายเลขแบทช์เพื่อแปลง svg ภายใน VB.NET, Asp.NET หรือแอปพลิเคชันที่ใช้ .NET
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

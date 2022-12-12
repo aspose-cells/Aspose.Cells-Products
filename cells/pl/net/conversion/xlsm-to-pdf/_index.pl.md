@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj XLSM na PDF przez C#
-url: /pl/net/conversion/xlsm-to-pdf/
+
 description: Przykładowy kod konwersji xlsm na pdf C#. Użyj przykładowego kodu API dla plików wsadowych xlsm do konwersji pdf w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

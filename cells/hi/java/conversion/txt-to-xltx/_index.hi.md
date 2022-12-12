@@ -1,7 +1,7 @@
-﻿---
+---
 title: TXT को Java के माध्यम से XLTX में बदलें 
 weight: 2280
-url: /hi/java/conversion/txt-to-xltx/ 
+
 description: नमूना Java TXT प्रारूप के लिए XLTX फ़ाइल में रूपांतरण कोड। प्रोग्रामर इस उदाहरण कोड का उपयोग किसी भी वेब या डेस्कटॉप Java आधारित एप्लिकेशन के भीतर एक्सेल और ओपनऑफिस स्प्रेडशीट को एक्सएलटीएक्स में निर्यात करने के लिए कर सकते हैं।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

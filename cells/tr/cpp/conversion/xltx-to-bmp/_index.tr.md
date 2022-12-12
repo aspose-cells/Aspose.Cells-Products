@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++ uygulaması aracılığıyla XLTX'i BMP'ye dönüştürün 
-url: /tr/cpp/conversion/xltx-to-bmp/ 
+
 description: XLTX belgesi için BMP biçimine örnek C++ dönüştürme kodu. Programcılar, herhangi bir C++ Uygulamasında toplu XLTX'ten BMP'ye dönüştürme için bu kaynak kodunu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

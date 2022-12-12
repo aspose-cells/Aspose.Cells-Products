@@ -1,7 +1,7 @@
-﻿---
+---
 title: Sök i ODS-dokument utan att öppna via Java 
 weight: 8140
-url: /sv/java/search/ods/ 
+
 description: Java exempelkod för att söka efter ord med mönster i ODS-fil i Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

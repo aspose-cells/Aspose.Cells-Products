@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++ aracılığıyla MS Excel XLS Dosyaları oluşturun 
-url: /tr/cpp/create-xls/ 
+
 description: C++ MS Excel XLS dosyaları oluşturmak için örnek kod. C++ tabanlı uygulamada MS Excel XLS dosyaları oluşturmak için bu kodu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

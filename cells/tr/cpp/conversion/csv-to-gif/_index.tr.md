@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ uygulaması aracılığıyla CSV'yi GIF'e dönüştürün 
 weight: 7760
-url: /tr/cpp/conversion/csv-to-gif/ 
+
 description: CSV belgesi için GIF biçimine örnek C++ dönüştürme kodu. Programcılar, herhangi bir C++ Uygulamasında toplu CSV'den GIF'e dönüştürme için bu kaynak kodunu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

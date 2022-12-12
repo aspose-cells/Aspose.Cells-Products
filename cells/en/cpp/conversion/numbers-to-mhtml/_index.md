@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to MHTML via C++
-url: /cpp/conversion/numbers-to-mhtml/
+
 description: Convert NUMBERS to MHTML format in C++ code. Save NUMBERS as MHTML using C++.
 ---
 

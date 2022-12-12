@@ -1,7 +1,7 @@
-﻿---
+---
 title: Wyszukaj dokument XLSB bez otwierania przez Java 
 weight: 9420
-url: /pl/java/search/xlsb/ 
+
 description: Java przykładowy kod do wyszukiwania słów ze wzorcem w pliku XLSB w Java środowisku wykonawczym dla aplikacji JSP/JSF i aplikacji komputerowych.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLSB إلى XPS عبر C#
-url: /ar/net/conversion/xlsb-to-xps/
+
 description: نموذج كود للتحويل من xlsb إلى xps C#. استخدم API رمز المثال لملفات xlsb الدفعية لتحويل xps داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

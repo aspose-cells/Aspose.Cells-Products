@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование MHTML в SVG через C#
-url: /ru/net/conversion/mhtml-to-svg/
+
 description: Пример кода для преобразования mhtml в svg C#. Используйте пример кода API для пакетного преобразования файлов mhtml в svg в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

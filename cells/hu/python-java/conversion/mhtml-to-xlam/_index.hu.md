@@ -1,6 +1,6 @@
-﻿---
+---
 title: "MHTML konvertálása XLAM-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/mhtml-to-xlam/
+
 description: Mintakód az mhtml–xlam Python konverzióhoz. Használjon API példakódot kötegelt mhtml fájlok xlam konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

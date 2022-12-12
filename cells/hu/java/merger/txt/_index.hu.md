@@ -1,7 +1,7 @@
-﻿---
+---
 title: "TXT-fájlok egyesítése a következőn keresztül: Java "
 weight: 4480
-url: /hu/java/merger/txt/ 
+
 description: Java mintakód a TXT dokumentumok kombinálásához a Java Runtime Environment for JSP/JSF alkalmazásokhoz és asztali alkalmazásokhoz.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

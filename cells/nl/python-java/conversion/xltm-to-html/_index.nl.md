@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLTM naar HTML via Python
-url: /nl/python-java/conversion/xltm-to-html/
+
 description: Voorbeeldcode voor xltm naar html Python conversie. Gebruik API voorbeeldcode voor batch xltm-bestanden naar html-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

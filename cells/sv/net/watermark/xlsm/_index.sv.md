@@ -1,7 +1,7 @@
-﻿---
+---
 title: Vattenstämpel XLSM-dokument via .NET 
 weight: 8270
-url: /sv/net/watermark/xlsm/ 
+
 description: C# källkod för att lägga till eller ta bort vattenstämpel till XLSM-fil på .NET Framework, .NET Core, Mono eller Xamarin-plattformar.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

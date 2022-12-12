@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง EXCEL เป็น POWERPOINT ผ่าน C#
-url: /th/net/conversion/excel-to-powerpoint/
+
 description: โค้ดตัวอย่างสำหรับการแปลง excel เป็น powerpoint C# ใช้โค้ดตัวอย่าง API สำหรับไฟล์แบตช์ excel เพื่อแปลง powerpoint ภายใน VB.NET, Asp.NET หรือแอปพลิเคชันที่ใช้ .NET
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

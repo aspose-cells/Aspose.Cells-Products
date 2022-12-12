@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan XLSB ke MARKDOWN melalui C#
-url: /id/net/conversion/xlsb-to-markdown/
+
 description: Contoh kode untuk konversi xlsb ke penurunan harga C#. Gunakan API kode contoh untuk file batch xlsb untuk konversi penurunan harga dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj NUMBERS na HTML za pomocą C#
-url: /pl/net/conversion/numbers-to-html/
+
 description: Przykładowy kod konwersji liczb do html C#. Użyj przykładowego kodu API dla plików numerów partii do konwersji html w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

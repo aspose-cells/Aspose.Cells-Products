@@ -1,7 +1,7 @@
-﻿---
+---
 title: RDL Raporlarını SQL Server'da Excel XLS XLSX ve SpreadsheetML'ye Aktarın 
 weight: 3460
-url: /tr/reporting-services/ 
+
 description: SQL Server Raporlama Hizmetleri oluşturma uzantısı - Excel XLS XLSX XLSM XLSB CSV Elektronik Tablosunu ML HTML ODS ve TXT biçimlerini dışa aktarın
 ---
 {{< blocks/products/pf/main-wrap-class >}}

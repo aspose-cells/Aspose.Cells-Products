@@ -1,6 +1,6 @@
-﻿---
+---
 title: TABDELIMITED'i Python aracılığıyla FODS'a dönüştürün
-url: /tr/python-java/conversion/tabdelimited-to-fods/
+
 description: Python dönüşümü için sekmeyle ayrılmış örnek kod. Python uygulamasında toplu sekmeyle ayrılmış dosyalardan fos'a dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

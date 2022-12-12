@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование ODS в JSON через приложение C++ 
-url: /ru/cpp/conversion/ods-to-json/ 
+
 description: Пример кода преобразования C++ для документа ODS в формат JSON. Программисты могут использовать этот исходный код для пакетного преобразования ODS в JSON в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

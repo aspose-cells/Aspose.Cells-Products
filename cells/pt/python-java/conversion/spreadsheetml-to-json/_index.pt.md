@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter SPREADSHEETML para JSON via Python
-url: /pt/python-java/conversion/spreadsheetml-to-json/
+
 description: Código de exemplo para conversão de planilhaml para json Python. Use API código de exemplo para arquivos de planilhaml em lote para conversão de json no aplicativo Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

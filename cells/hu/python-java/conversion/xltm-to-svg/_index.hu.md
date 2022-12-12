@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLTM konvertálása SVG-vé a következőn keresztül: Python"
-url: /hu/python-java/conversion/xltm-to-svg/
+
 description: Mintakód xltm-ből svg-be Python. Használjon API példakódot a kötegelt xltm fájlok SVG konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

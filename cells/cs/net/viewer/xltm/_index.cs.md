@@ -1,7 +1,7 @@
-﻿---
+---
 title: Zobrazit formáty souborů XLTM prostřednictvím .NET 
 weight: 430
-url: /cs/net/viewer/xltm/ 
+
 description: C# zdrojový kód pro načítání, vykreslování a zobrazování dokumentů XLTM na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

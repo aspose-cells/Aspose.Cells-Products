@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést NUMBERS na HTML prostřednictvím Python
-url: /cs/python-java/conversion/numbers-to-html/
+
 description: Ukázkový kód pro převod čísel na html Python. Použijte ukázkový kód API pro převod souborů s čísly dávek na html v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta JSON a MHTML a través de la aplicación C++ 
-url: /es/cpp/conversion/json-to-mhtml/ 
+
 description: Ejemplo de código de conversión C++ para documento JSON a formato MHTML. Los programadores pueden usar este código fuente para la conversión por lotes de JSON a MHTML dentro de cualquier aplicación C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

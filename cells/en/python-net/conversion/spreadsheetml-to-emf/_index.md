@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to EMF via Python
-url: /python-net/conversion/spreadsheetml-to-emf/
+
 description: Sample code for spreadsheetml to emf Python conversion. Use API example code for batch spreadsheetml files to emf conversion within Python application.
 ---
 

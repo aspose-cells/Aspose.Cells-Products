@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง SXC เป็น TABDELIMITED ผ่าน Python
-url: /th/python-java/conversion/sxc-to-tabdelimited/
+
 description: โค้ดตัวอย่างสำหรับการแปลง sxc เป็น tabdelimited Python ใช้โค้ดตัวอย่าง API สำหรับไฟล์แบตช์ sxc เป็นการแปลงแบบคั่นด้วยแท็บภายในแอปพลิเคชัน Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Documento filigrana XLSM tramite Java 
 weight: 7680
-url: /it/java/watermark/xlsm/ 
+
 description: Java codice di esempio per aggiungere o rimuovere la filigrana nel file XLSM in Java Runtime Environment per l'applicazione JSP/JSF e le applicazioni desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

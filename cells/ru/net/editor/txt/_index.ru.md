@@ -1,6 +1,6 @@
-﻿---
+---
 title: Редактировать файлы TXT через .NET 
-url: /ru/net/editor/txt/ 
+
 description: Исходный код C# для редактирования документа TXT на платформах .NET Framework, .NET Core, Windows Azure, Mono или Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

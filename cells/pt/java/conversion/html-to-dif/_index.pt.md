@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converter HTML para DIF via Java 
 weight: 6050
-url: /pt/java/conversion/html-to-dif/ 
+
 description: Exemplo de código de conversão Java para formato HTML em arquivo DIF. Os programadores podem usar este código de exemplo para exportar planilhas do Excel e OpenOffice para DIF em qualquer aplicativo baseado na Web ou Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

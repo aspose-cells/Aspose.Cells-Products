@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to SPREADSHEETML via C++
-url: /cpp/conversion/html-to-spreadsheetml/
+
 description: Convert HTML to SPREADSHEETML format in C++ code. Save HTML as SPREADSHEETML using C++.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLTX na MHTML přes Python
-url: /cs/python-java/conversion/xltx-to-mhtml/
+
 description: Ukázkový kód pro převod xltx na mhtml Python. Použijte ukázkový kód API pro dávkový převod souborů xltx na mhtml v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

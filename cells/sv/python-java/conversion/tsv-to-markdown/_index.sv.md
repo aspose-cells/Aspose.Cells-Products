@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera TSV till MARKDOWN via Python
-url: /sv/python-java/conversion/tsv-to-markdown/
+
 description: Exempelkod för tsv till markdown Python-konvertering. Använd API-exempelkod för batch-tsv-filer för att markera nedkonvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

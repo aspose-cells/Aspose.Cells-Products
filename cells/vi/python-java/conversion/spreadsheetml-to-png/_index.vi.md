@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi SPREADSHEETML sang PNG qua Python
-url: /vi/python-java/conversion/spreadsheetml-to-png/
+
 description: Mã mẫu cho chuyển đổi bảng tínhml sang png Python. Sử dụng API mã mẫu cho hàng loạt tệpml bảng tính sang chuyển đổi png trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

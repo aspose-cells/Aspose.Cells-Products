@@ -1,7 +1,7 @@
-﻿---
+---
 title: Convertir XLT a DIF a través de Java 
 weight: 5850
-url: /es/java/conversion/xlt-to-dif/ 
+
 description: Ejemplo de código de conversión Java de formato XLT a archivo DIF. Los programadores pueden usar este código de ejemplo para exportar hojas de cálculo de Excel y OpenOffice a DIF dentro de cualquier aplicación basada en Web o escritorio Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

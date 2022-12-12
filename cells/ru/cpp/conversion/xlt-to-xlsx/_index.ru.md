@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLT в XLSX с помощью приложения C++ 
-url: /ru/cpp/conversion/xlt-to-xlsx/ 
+
 description: Пример кода преобразования C++ для документа XLT в формат XLSX. Программисты могут использовать этот исходный код для пакетного преобразования XLT в XLSX в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

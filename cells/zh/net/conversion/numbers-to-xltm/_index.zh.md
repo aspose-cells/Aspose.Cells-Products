@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 C# 将 NUMBERS 转换为 XLTM
-url: /zh/net/conversion/numbers-to-xltm/
+
 description: 数字到 xltm C# 转换的示例代码。在 VB.NET、Asp.NET 或任何基于 .NET 的应用程序中使用 API 示例代码将批号文件转换为 xltm。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj XLTX na MARKDOWN przez Python
-url: /pl/python-java/conversion/xltx-to-markdown/
+
 description: Przykładowy kod konwersji xltx na przecenę Python. Użyj przykładowego kodu API dla wsadowych plików xltx do konwersji przecen w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

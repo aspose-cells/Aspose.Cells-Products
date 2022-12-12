@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 .NET 编辑 TXT 文件 
-url: /zh/net/editor/txt/ 
+
 description: C# 用于在 .NET Framework、.NET Core、Windows Azure、Mono 或 Xamarin 平台上编辑 TXT 文档的源代码。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

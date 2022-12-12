@@ -1,7 +1,7 @@
-﻿---
+---
 title: Scal pliki CSV przez Java 
 weight: 3860
-url: /pl/java/merger/csv/ 
+
 description: Java przykładowy kod do łączenia dokumentów CSV w Java środowisku wykonawczym dla aplikacji JSP/JSF i aplikacji komputerowych.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

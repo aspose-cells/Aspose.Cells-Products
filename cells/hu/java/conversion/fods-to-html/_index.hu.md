@@ -1,6 +1,6 @@
-﻿---
+---
 title: "FODS konvertálása HTML-vé a következőn keresztül: Java "
-url: /hu/java/conversion/fods-to-html/ 
+
 description: Minta Java konverziós kód FODS formátumhoz HTML fájlba. A programozók ezt a példakódot használhatják Excel és OpenOffice táblázatok exportálására HTML formátumba bármely web- vagy asztali Java alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

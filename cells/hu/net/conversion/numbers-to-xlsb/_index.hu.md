@@ -1,6 +1,6 @@
-﻿---
+---
 title: "NUMBERS konvertálása XLSB-re a következőn keresztül: C#"
-url: /hu/net/conversion/numbers-to-xlsb/
+
 description: Mintakód a számok xlsb C# konverziójához. Használjon API példakódot a kötegszámfájlok xlsb konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazásban.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

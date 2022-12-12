@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to XLSM via Python
-url: /python-java/conversion/json-to-xlsm/
+
 description: Convert JSON to XLSM format in Python code. Save JSON as XLSM using Python.
 ---
 

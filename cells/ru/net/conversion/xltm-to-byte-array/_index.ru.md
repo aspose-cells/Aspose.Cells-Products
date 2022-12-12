@@ -1,7 +1,7 @@
-﻿---
+---
 title: Преобразование XLTM в байтовый массив с помощью C# 
 weight: 7690
-url: /ru/net/conversion/xltm-to-byte-array/ 
+
 description: C# Пример кода для преобразования XLTM в байтовый массив. Используйте этот код для преобразования Excel XLTM в массив байтов в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

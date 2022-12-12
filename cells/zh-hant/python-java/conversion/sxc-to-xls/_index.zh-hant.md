@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 Python 將 SXC 轉換為 XLS
-url: /zh-hant/python-java/conversion/sxc-to-xls/
+
 description: sxc 到 xls Python 轉換的示例代碼。使用 Python 應用程序中將 sxc 文件批量轉換為 xls 的 API 示例代碼。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

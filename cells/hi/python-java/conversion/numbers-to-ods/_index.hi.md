@@ -1,6 +1,6 @@
-﻿---
+---
 title: NUMBERS को Python के माध्यम से ODS में बदलें
-url: /hi/python-java/conversion/numbers-to-ods/
+
 description: संख्याओं से लेकर ods Python तक रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर बैच संख्या फ़ाइलों से ऑड्स रूपांतरण में API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

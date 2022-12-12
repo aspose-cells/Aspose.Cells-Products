@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter TXT para MHTML por meio do aplicativo C++ 
-url: /pt/cpp/conversion/txt-to-mhtml/ 
+
 description: Exemplo de código de conversão C++ de documento TXT para formato MHTML. Os programadores podem usar esse código-fonte para conversão em lote de TXT para MHTML em qualquer aplicativo C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

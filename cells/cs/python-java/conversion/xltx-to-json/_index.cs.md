@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLTX na JSON přes Python
-url: /cs/python-java/conversion/xltx-to-json/
+
 description: Ukázkový kód pro převod xltx na json Python. Použijte API ukázkový kód pro dávkový převod souborů xltx na json v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

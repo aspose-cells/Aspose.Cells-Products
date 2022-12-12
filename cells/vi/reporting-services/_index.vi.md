@@ -1,7 +1,7 @@
-﻿---
+---
 title: Xuất báo cáo RDL sang Excel XLS XLSX và SpreadsheetML trong SQL Server 
 weight: 3460
-url: /vi/reporting-services/ 
+
 description: Tiện ích mở rộng kết xuất Dịch vụ báo cáo SQL Server - Xuất Excel XLS XLSX XLSM XLSB CSV Định dạng bảng tínhML HTML ODS và TXT
 ---
 {{< blocks/products/pf/main-wrap-class >}}

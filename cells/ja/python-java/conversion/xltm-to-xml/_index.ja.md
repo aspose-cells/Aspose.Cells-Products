@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してXLTMをXMLに変換します
-url: /ja/python-java/conversion/xltm-to-xml/
+
 description: xltmからxmlPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチxltmファイルからxmlへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

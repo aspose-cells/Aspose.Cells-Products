@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konwertuj XLSB na HTML za pomocą aplikacji C++ 
 weight: 7540
-url: /pl/cpp/conversion/xlsb-to-html/ 
+
 description: Przykładowy kod konwersji C++ dla dokumentu XLSB do formatu HTML. Programiści mogą używać tego kodu źródłowego do wsadowej konwersji XLSB na HTML w dowolnej aplikacji C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

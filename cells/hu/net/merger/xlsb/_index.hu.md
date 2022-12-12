@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLSB fájlok egyesítése a következőn keresztül: .NET "
 weight: 2970
-url: /hu/net/merger/xlsb/ 
+
 description: C# forráskód az XLSB dokumentumok kombinálásához .NET Framework, .NET Core, Mono vagy Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

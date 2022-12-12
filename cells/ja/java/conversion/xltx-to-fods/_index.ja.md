@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してXLTXをFODSに変換します 
-url: /ja/java/conversion/xltx-to-fods/ 
+
 description: XLTX形式からFODSファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のFODSにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

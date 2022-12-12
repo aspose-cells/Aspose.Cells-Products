@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 C# 將 XLT 轉換為 BMP
-url: /zh-hant/net/conversion/xlt-to-bmp/
+
 description: xlt 到 bmp C# 轉換的示例代碼。在 VB.NET、Asp.NET 或任何基於 .NET 的應用程序中，使用 API 示例代碼將批處理 xlt 文件轉換為 bmp 轉換。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してFODSをODSに変換する 
-url: /ja/java/conversion/fods-to-ods/ 
+
 description: FODS形式からODSファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のODSにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 C# 將 JSON 轉換為 XLSX
-url: /zh-hant/net/conversion/json-to-xlsx/
+
 description: json 到 xlsx C# 轉換的示例代碼。使用 API 示例代碼在 VB.NET、Asp.NET 或任何基於 .NET 的應用程序中將批處理 json 文件轉換為 xlsx。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

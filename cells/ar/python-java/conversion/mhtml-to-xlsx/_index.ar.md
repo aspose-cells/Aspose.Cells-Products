@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل MHTML إلى XLSX عبر Python
-url: /ar/python-java/conversion/mhtml-to-xlsx/
+
 description: نموذج رمز للتحويل من mhtml إلى xlsx Python. استخدم API رمز المثال لملفات mhtml الدفعية لتحويل xlsx داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

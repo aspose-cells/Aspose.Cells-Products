@@ -1,7 +1,7 @@
-﻿---
+---
 title: Graf dokumentů XLSB prostřednictvím Java 
 weight: 670
-url: /cs/java/chart/xlsb/ 
+
 description: Java ukázkový kód pro kreslení a převod grafu nebo diagramu do souboru XLSB v Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

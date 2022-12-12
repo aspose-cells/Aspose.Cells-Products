@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLSB naar XLS via C#
-url: /nl/net/conversion/xlsb-to-xls/
+
 description: Voorbeeldcode voor xlsb naar xls C# conversie. Gebruik API voorbeeldcode voor batch xlsb-bestanden naar xls-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

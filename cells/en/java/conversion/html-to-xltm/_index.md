@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to XLTM via Java 
-url: /java/conversion/html-to-xltm/
+
 description: Convert HTML to XLTM format in Java code. Save HTML as XLTM using Java.
 ---
 

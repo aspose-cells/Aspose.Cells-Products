@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή CSV σε MD μέσω Python
-url: /el/python-java/conversion/csv-to-md/
+
 description: Δείγμα κώδικα για μετατροπή csv σε md Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδική μετατροπή αρχείων csv σε md εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Диаграмма документа XLSB через C++ 
 weight: 5200
-url: /ru/cpp/chart/xlsb/ 
+
 description: C++ пример кода для рисования и преобразования диаграммы или диаграммы в файл XLSB в C++ среде выполнения для 32-разрядной, 64-разрядной версии Windows и 64-разрядной версии Linux.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

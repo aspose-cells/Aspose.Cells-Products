@@ -1,7 +1,7 @@
-﻿---
+---
 title: Hợp nhất các tệp CSV qua .NET 
 weight: 6450
-url: /vi/net/merger/csv/ 
+
 description: C# mã nguồn để kết hợp các tài liệu CSV trên Nền tảng .NET Framework, .NET Core Mono hoặc Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

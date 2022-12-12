@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta TABDELIMITED a TXT a través de Python
-url: /es/python-java/conversion/tabdelimited-to-txt/
+
 description: Código de muestra para la conversión delimitada por tabulaciones a txt Python. Use el código de ejemplo API para la conversión por lotes de archivos delimitados por tabuladores a txt dentro de la aplicación Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

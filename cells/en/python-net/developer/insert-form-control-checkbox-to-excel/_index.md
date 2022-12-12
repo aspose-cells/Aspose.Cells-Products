@@ -1,7 +1,7 @@
 ---
 title: Insert CheckBox(Form control) into Excel via Python 
 weight: 30
-url: /python-net/developer/insert-form-control-checkbox-to-excel/ 
+
 description: Python source code to insert CheckBox(Form control) into Excel.
 ---
 

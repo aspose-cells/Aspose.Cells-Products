@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to XLSX via Python
-url: /python-net/conversion/xlsb-to-xlsx/
+
 description: Sample code for xlsb to xlsx Python conversion. Use API example code for batch xlsb files to xlsx conversion within Python application.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir ODS en XLSM via C#
-url: /fr/net/conversion/ods-to-xlsm/
+
 description: Exemple de code pour la conversion ods vers xlsm C#. Utilisez l'exemple de code API pour les fichiers batch ods en conversion xlsm dans VB.NET, Asp.NET ou toute application basée sur .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

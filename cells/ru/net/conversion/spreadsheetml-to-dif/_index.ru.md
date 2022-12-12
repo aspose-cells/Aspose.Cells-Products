@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование SPREADSHETML в DIF через C#
-url: /ru/net/conversion/spreadsheetml-to-dif/
+
 description: Пример кода для преобразования электронной таблицыml в разность C#. Используйте пример кода API для пакетных файлов электронных таблиц для преобразования различий в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

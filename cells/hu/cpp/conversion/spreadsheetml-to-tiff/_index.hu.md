@@ -1,6 +1,6 @@
-﻿---
+---
 title: SPREADSHEETML konvertálása TIFF formátumba a(z) C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/spreadsheetml-to-tiff/ 
+
 description: Minta C++ konverziós kód a SPREADSHEETML dokumentumhoz TIFF formátumba. A programozók ezt a forráskódot használhatják a SPREADSHEETML-ből TIFF-be kötegelt konvertáláshoz bármely C++ alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

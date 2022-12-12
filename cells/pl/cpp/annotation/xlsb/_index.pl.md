@@ -1,7 +1,7 @@
-﻿---
+---
 title: Dodaj adnotację pliku Excel XLSB za pomocą C++ 
 weight: 860
-url: /pl/cpp/annotation/xlsb/ 
+
 description: C++ przykładowy kod do usuwania adnotacji w formacie XLSB w C++ środowisku wykonawczym dla 32-bitowego systemu Windows, 64-bitowego systemu Windows i 64-bitowego systemu Linux.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

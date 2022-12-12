@@ -1,7 +1,7 @@
-﻿---
+---
 title: Buat Laporan dalam File XLSX melalui .NET 
 weight: 6740
-url: /id/net/assembly/xlsx/ 
+
 description: C# kode sumber untuk menghasilkan laporan format XLSX di .NET Framework, .NET Core, Mono atau Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

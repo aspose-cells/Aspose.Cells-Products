@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してMHTMLをSXCに変換する
-url: /ja/net/conversion/mhtml-to-sxc/
+
 description: mhtmlからsxcC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチmhtmlファイルからsxcへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

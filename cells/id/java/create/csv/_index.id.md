@@ -1,6 +1,6 @@
-﻿---
+---
 title: Buat File CSV melalui Java 
-url: /id/java/create-csv/ 
+
 description: Java Contoh kode untuk membuat dokumen CSV. Gunakan kode ini untuk membuat file CSV dalam Java desktop atau aplikasi web berbasis.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή CSV σε FODS μέσω Python
-url: /el/python-java/conversion/csv-to-fods/
+
 description: Δείγμα κώδικα για μετατροπή Python csv σε fods. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδική μετατροπή αρχείων csv σε fods εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: ค้นหาเอกสาร CSV โดยไม่ต้องเปิดผ่าน .NET 
 weight: 7510
-url: /th/net/search/csv/ 
+
 description: C# ซอร์สโค้ดเพื่อค้นหาคำที่มีรูปแบบในไฟล์ CSV บน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

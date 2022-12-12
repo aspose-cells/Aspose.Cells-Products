@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET aracılığıyla ODS Dosyalarında Raporlar Oluşturun 
 weight: 520
-url: /tr/net/assembly/ods/ 
+
 description: .NET Framework, .NET Core, Mono veya Xamarin Platformlarında ODS biçiminde raporlar oluşturmak için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést NUMBERS na SPREADSHEETML prostřednictvím C#
-url: /cs/net/conversion/numbers-to-spreadsheetml/
+
 description: Ukázkový kód pro převod čísel do tabulkyml C#. Použijte API ukázkový kód pro dávkové soubory čísel pro převod tabulkového procesoru v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

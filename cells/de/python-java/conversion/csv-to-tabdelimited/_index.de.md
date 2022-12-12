@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie CSV in TABDELIMITED über Python
-url: /de/python-java/conversion/csv-to-tabdelimited/
+
 description: Beispielcode für die Umwandlung von csv in tabulatorgetrenntes Python. Verwenden Sie den API-Beispielcode für die Batch-CSV-Dateien in die tabulatorgetrennte Konvertierung innerhalb der Python-Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

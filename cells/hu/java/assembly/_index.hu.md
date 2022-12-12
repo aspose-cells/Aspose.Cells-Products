@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Excel-fájlok létrehozása a következőn keresztül: Java"
-url: /hu/java/assembly/
+
 description: Hozzon létre Microsoft Excel-táblázatokat egy sablonlapból a Java táblázattár segítségével
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

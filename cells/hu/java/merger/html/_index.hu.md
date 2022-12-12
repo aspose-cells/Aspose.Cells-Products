@@ -1,7 +1,7 @@
-﻿---
+---
 title: "HTML-fájlok egyesítése a következőn keresztül: Java "
 weight: 8830
-url: /hu/java/merger/html/ 
+
 description: Java mintakód a HTML-dokumentumok kombinálásához a Java Futókörnyezetben JSP/JSF-alkalmazásokhoz és asztali alkalmazásokhoz.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

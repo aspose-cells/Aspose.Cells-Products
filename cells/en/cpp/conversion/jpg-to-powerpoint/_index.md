@@ -1,6 +1,6 @@
 ---
 title: Convert JPG to POWERPOINT via C++
-url: /cpp/conversion/jpg-to-powerpoint/
+
 description: Convert JPG to POWERPOINT format in C++ code. Save JPG as POWERPOINT using C++.
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Chroń i blokuj dokument XLSX za pomocą .NET 
 weight: 90
-url: /pl/net/protect/xlsx/ 
+
 description: C# kod źródłowy do blokowania pliku XLSX przy użyciu hasła na platformach .NET Framework, .NET Core, Mono lub Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

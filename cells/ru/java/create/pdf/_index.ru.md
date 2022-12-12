@@ -1,6 +1,6 @@
-﻿---
+---
 title: Создавайте PDF-файлы с помощью Java 
-url: /ru/java/create-pdf/ 
+
 description: Java Пример кода для создания PDF-документов. Используйте этот код для создания файлов PDF в настольном или веб-приложении на основе Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

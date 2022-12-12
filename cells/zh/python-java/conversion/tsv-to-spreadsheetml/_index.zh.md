@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 Python 将 TSV 转换为 SPREADSHEETML
-url: /zh/python-java/conversion/tsv-to-spreadsheetml/
+
 description: tsv 到电子表格 Python 转换的示例代码。在 Python 应用程序中使用 API 示例代码将批处理 tsv 文件转换为电子表格。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

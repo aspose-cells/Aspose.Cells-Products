@@ -1,7 +1,7 @@
-﻿---
+---
 title: Chuyển đổi HTML sang DIF qua Java 
 weight: 6050
-url: /vi/java/conversion/html-to-dif/ 
+
 description: Mã chuyển đổi Java mẫu cho định dạng HTML sang tệp DIF. Lập trình viên có thể sử dụng mã ví dụ này để xuất bảng tính Excel & OpenOffice sang DIF trong bất kỳ Ứng dụng dựa trên Web hoặc Máy tính Java nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

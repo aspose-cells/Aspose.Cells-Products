@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversikan XLT ke JPEG melalui Java 
 weight: 3010
-url: /id/java/conversion/xlt-to-jpeg/ 
+
 description: Contoh Java kode konversi untuk format XLT ke file JPEG. Pemrogram dapat menggunakan kode contoh ini untuk mengekspor spreadsheet Excel & OpenOffice ke JPEG dalam Aplikasi berbasis Web atau Desktop Java apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: NUMBERS को C# के द्वारा EMF में बदलें
-url: /hi/net/conversion/numbers-to-emf/
+
 description: ईएमएफ C# रूपांतरण में संख्याओं के लिए नमूना कोड। वीबी.NET, एएसपी.NET या किसी .NET आधारित एप्लिकेशन के भीतर ईएमएफ रूपांतरण के लिए बैच नंबर फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to WORD via C++
-url: /cpp/conversion/xlt-to-word/
+
 description: Convert XLT to WORD format in C++ code. Save XLT as WORD using C++.
 ---
 

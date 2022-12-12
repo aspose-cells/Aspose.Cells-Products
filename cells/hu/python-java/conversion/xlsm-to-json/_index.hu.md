@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLSM konvertálása JSON-ra a következőn keresztül: Python"
-url: /hu/python-java/conversion/xlsm-to-json/
+
 description: Mintakód az xlsm–json Python konverzióhoz. Használjon API példakódot a kötegelt xlsm-fájlok JSON-konverziójához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

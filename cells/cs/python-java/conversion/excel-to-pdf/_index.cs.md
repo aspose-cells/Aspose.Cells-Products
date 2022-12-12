@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést EXCEL do PDF přes Python
-url: /cs/python-java/conversion/excel-to-pdf/
+
 description: Ukázkový kód pro převod Excel do PDF Python. Použijte API ukázkový kód pro dávkový převod souborů Excel na PDF v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

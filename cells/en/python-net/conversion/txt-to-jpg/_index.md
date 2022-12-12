@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to JPG via Python
-url: /python-net/conversion/txt-to-jpg/
+
 description: Sample code for txt to jpg Python conversion. Use API example code for batch txt files to jpg conversion within Python application.
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Cari dan ganti teks dalam dokumen XLS melalui .NET 
 weight: 7280
-url: /id/net/redaction/xls/ 
+
 description: C# kode sumber untuk menyunting informasi sensitif dalam file XLS pada .NET Framework, .NET Core, Mono atau Platform Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

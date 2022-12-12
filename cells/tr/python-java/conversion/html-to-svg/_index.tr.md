@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla HTML'yi SVG'ye dönüştürün
-url: /tr/python-java/conversion/html-to-svg/
+
 description: Html'den svg'ye Python dönüşümü için örnek kod. Python uygulamasında toplu html dosyalarından svg'ye dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Wyszukaj dokument CSV bez otwierania przez C++ 
 weight: 5540
-url: /pl/cpp/search/csv/ 
+
 description: C++ przykładowy kod do wyszukiwania słów ze wzorcem w pliku CSV w C++ środowisku wykonawczym dla Windows 32-bitowego, Windows 64-bitowego i Linux 64-bitowego.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: إنشاء التقارير في ملفات XLSX عبر .NET 
 weight: 6740
-url: /ar/net/assembly/xlsx/ 
+
 description: C# شفرة المصدر لإنشاء تقارير بتنسيق XLSX على .NET Framework أو .NET Core أو Mono أو أنظمة Xamarin الأساسية.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

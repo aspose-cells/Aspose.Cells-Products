@@ -1,6 +1,6 @@
 ---
 title: Create MS Excel XLS Files via Python 
-url: /python-net/create-xls/ 
+
 description: Python Sample code for generating XLS documents. Use this code for creating MS Excel XLS files within Python application.
 ---
 

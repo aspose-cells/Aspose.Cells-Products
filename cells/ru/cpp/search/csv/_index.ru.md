@@ -1,7 +1,7 @@
-﻿---
+---
 title: Поиск документа CSV без открытия через C++ 
 weight: 5540
-url: /ru/cpp/search/csv/ 
+
 description: Пример кода C++ для поиска слов с шаблоном в CSV-файле в C++ среде выполнения для 32-разрядной, 64-разрядной Windows и 64-разрядной версии Linux.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

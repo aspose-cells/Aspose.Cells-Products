@@ -1,6 +1,6 @@
 ---
 title: Convert TSV to TIFF via Python
-url: /python-net/conversion/tsv-to-tiff/
+
 description: Sample code for tsv to tiff Python conversion. Use API example code for batch tsv files to tiff conversion within Python application.
 ---
 

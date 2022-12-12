@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést EXCEL na POWERPOINT přes C#
-url: /cs/net/conversion/excel-to-powerpoint/
+
 description: Ukázkový kód pro převod Excel na powerpoint C#. Použijte API ukázkový kód pro dávkový převod souborů Excel do powerpointové konverze v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

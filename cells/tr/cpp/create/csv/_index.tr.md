@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++ aracılığıyla CSV Dosyaları oluşturun 
-url: /tr/cpp/create-csv/ 
+
 description: C++ CSV dosyaları oluşturmak için örnek kod. C++ tabanlı uygulama içinde CSV dosyaları oluşturmak için bu kodu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

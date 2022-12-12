@@ -1,6 +1,6 @@
 ---
 title: Convert TSV to PNG via C#
-url: /net/conversion/tsv-to-png/
+
 description: Convert TSV to PNG format in C# code. Save TSV as PNG using VB.NET, Asp.NET or any .NET based application.
 ---
 

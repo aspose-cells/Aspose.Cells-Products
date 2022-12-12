@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla TXT'yi DIF'ye dönüştürün
-url: /tr/net/conversion/txt-to-dif/
+
 description: C# dönüşümü için txt için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde farklı dönüştürme için toplu txt dosyaları için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

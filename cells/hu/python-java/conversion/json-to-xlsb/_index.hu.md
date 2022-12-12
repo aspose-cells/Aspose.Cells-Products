@@ -1,6 +1,6 @@
-﻿---
+---
 title: "JSON konvertálása XLSB-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/json-to-xlsb/
+
 description: Mintakód a json–xlsb Python konverzióhoz. Használjon API példakódot a kötegelt json-fájlok xlsb-vé konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

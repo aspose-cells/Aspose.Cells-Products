@@ -1,6 +1,6 @@
-﻿---
+---
 title: Buat File HTML melalui C++ 
-url: /id/cpp/create-html/ 
+
 description: C++ Contoh kode untuk menghasilkan file HTML. Gunakan kode ini untuk membuat file HTML dalam aplikasi berbasis C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

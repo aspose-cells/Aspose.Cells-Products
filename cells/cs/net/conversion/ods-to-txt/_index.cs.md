@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést ODS na TXT přes C#
-url: /cs/net/conversion/ods-to-txt/
+
 description: Ukázkový kód pro převod z ods na txt C#. Použijte API ukázkový kód pro dávkový převod souborů ods do txt v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

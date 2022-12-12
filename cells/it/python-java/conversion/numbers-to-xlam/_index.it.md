@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converti NUMBERS in XLAM tramite Python
-url: /it/python-java/conversion/numbers-to-xlam/
+
 description: Codice di esempio per la conversione da numeri a xlam Python. Usa il codice di esempio API per la conversione dei file dei numeri di lotto in xlam all'interno dell'applicazione Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

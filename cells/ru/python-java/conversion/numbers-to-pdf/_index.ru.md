@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование NUMBERS в PDF через Python
-url: /ru/python-java/conversion/numbers-to-pdf/
+
 description: Пример кода для преобразования чисел в pdf Python. Используйте пример кода API для преобразования файлов с номерами пакетов в формат pdf в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

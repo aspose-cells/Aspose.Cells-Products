@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل HTML إلى XLAM عبر تطبيق C++ 
-url: /ar/cpp/conversion/html-to-xlam/ 
+
 description: نموذج C++ رمز التحويل لمستند HTML إلى تنسيق XLAM. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل دفعة HTML إلى XLAM داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

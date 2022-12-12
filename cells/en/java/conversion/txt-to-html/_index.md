@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to HTML via Java 
-url: /java/conversion/txt-to-html/
+
 description: Convert TXT to HTML format in Java code. Save TXT as HTML using Java.
 ---
 

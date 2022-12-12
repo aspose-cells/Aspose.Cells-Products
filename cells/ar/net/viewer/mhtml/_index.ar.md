@@ -1,6 +1,6 @@
-﻿---
+---
 title: عرض تنسيقات ملف MHTML عبر .NET 
-url: /ar/net/viewer/mhtml/ 
+
 description: C# شفرة المصدر لتحميل مستندات MHTML وعرضها وعرضها على الأنظمة الأساسية .NET Framework أو .NET Core أو Windows Azure Mono أو Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converter HTML para XPS via Java 
 weight: 7630
-url: /pt/java/conversion/html-to-xps/ 
+
 description: Exemplo de código de conversão Java para formato HTML em arquivo XPS. Os programadores podem usar este código de exemplo para exportar planilhas do Excel e OpenOffice para XPS em qualquer aplicativo baseado na Web ou Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

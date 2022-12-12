@@ -1,7 +1,7 @@
-﻿---
+---
 title: Genereer rapporten in ODS-bestanden via .NET 
 weight: 520
-url: /nl/net/assembly/ods/ 
+
 description: C# broncode om rapporten in ODS-indeling te genereren op .NET Framework-, .NET Core-, Mono- of Xamarin-platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

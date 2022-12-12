@@ -1,6 +1,6 @@
 ---
 title: Convert XLSX to XLSB via C#
-url: /net/conversion/xlsx-to-xlsb/
+
 description: Convert XLSX to XLSB format in C# code. Save XLSX as XLSB using VB.NET, Asp.NET or any .NET based application.
 ---
 

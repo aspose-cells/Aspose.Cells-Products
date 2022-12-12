@@ -1,6 +1,6 @@
 ---
 title: Convert TSV to BMP via Java 
-url: /java/conversion/tsv-to-bmp/
+
 description: Convert TSV to BMP format in Java code. Save TSV as BMP using Java.
 ---
 

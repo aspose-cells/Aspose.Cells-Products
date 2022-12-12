@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование SPREADSHEETML в JPEG с помощью приложения C++ 
-url: /ru/cpp/conversion/spreadsheetml-to-jpeg/ 
+
 description: Пример кода преобразования C++ для документа SPREADSHEETML в формат JPEG. Программисты могут использовать этот исходный код для пакетного преобразования SPREADSHEETML в JPEG в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

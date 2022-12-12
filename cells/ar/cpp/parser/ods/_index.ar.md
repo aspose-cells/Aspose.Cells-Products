@@ -1,7 +1,7 @@
-﻿---
+---
 title: استخراج نص وصور من مستند ODS عبر C++ 
 weight: 9130
-url: /ar/cpp/parser/ods/ 
+
 description: C++ مثال على رمز لاستخراج النصوص والصور من ملف ODS في C++ Runtime Environment لأنظمة التشغيل Windows 32 بت و Windows 64 بت و Linux 64 بت.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

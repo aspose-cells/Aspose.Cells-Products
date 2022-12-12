@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SPREADSHEETML konvertálása EMF-re a következőn keresztül: C#"
-url: /hu/net/conversion/spreadsheetml-to-emf/
+
 description: Mintakód a táblázatkezelőből az emf C# konverzióhoz. Használjon API példakódot kötegelt táblázatkezelő fájlokhoz az EMF-konverzióhoz VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

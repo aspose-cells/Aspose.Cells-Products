@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してXLSBをJPEGに変換します 
 weight: 8810
-url: /ja/java/conversion/xlsb-to-jpeg/ 
+
 description: XLSB形式からJPEGファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、WebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをJPEGにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

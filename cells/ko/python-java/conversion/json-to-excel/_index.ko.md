@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python를 통해 JSON을 EXCEL로 변환
-url: /ko/python-java/conversion/json-to-excel/
+
 description: Python 변환을 Excel로 json에 대한 샘플 코드. 배치 json 파일에 API 예제 코드를 사용하여 Python 애플리케이션 내에서 변환을 탁월하게 수행하십시오.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

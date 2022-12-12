@@ -1,6 +1,6 @@
-﻿---
+---
 title: Επεξεργασία αρχείων XLSB μέσω .NET 
-url: /el/net/editor/xlsb/ 
+
 description: C# πηγαίος κώδικας για επεξεργασία εγγράφου XLSB σε πλατφόρμες .NET Framework, .NET Core, Windows Azure, Mono ή Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

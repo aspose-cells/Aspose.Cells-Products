@@ -1,6 +1,6 @@
-﻿---
+---
 title: إنشاء مخططات المنطقة عبر C#
-url: /ar/net/create-area-chart/
+
 description: C# نموذج كود لإنشاء مخططات منطقة في Excel باستخدام .NET Library. استخدم هذا الرمز لإنشاء مخطط مساحي لـ MS Excel داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

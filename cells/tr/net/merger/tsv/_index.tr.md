@@ -1,7 +1,7 @@
-﻿---
+---
 title: TSV Dosyalarını .NET ile Birleştir 
 weight: 1360
-url: /tr/net/merger/tsv/ 
+
 description: .NET Framework, .NET Core, Mono veya Xamarin Platformlarında TSV belgelerini birleştirmek için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

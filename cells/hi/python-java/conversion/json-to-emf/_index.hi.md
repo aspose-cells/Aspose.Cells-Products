@@ -1,6 +1,6 @@
-﻿---
+---
 title: JSON को Python के माध्यम से EMF में बदलें
-url: /hi/python-java/conversion/json-to-emf/
+
 description: जेसन से ईएमएफ Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर ईएमएफ रूपांतरण के लिए बैच जेसन फाइलों के लिए API उदाहरण कोड का प्रयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

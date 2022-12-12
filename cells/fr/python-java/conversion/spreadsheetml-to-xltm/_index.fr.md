@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir SPREADSHEETML en XLTM via Python
-url: /fr/python-java/conversion/spreadsheetml-to-xltm/
+
 description: Exemple de code pour la conversion de tableur ml en xltm Python. Utilisez l'exemple de code API pour la conversion par lots de fichiers tableur ml vers xltm dans l'application Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

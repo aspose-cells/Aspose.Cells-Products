@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLT na BMP přes C#
-url: /cs/net/conversion/xlt-to-bmp/
+
 description: Ukázkový kód pro převod xlt na bmp C#. Použijte API ukázkový kód pro dávkový převod souborů xlt na bmp v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konwertuj XLSB na MHTML za pomocą aplikacji C++ 
 weight: 1250
-url: /pl/cpp/conversion/xlsb-to-mhtml/ 
+
 description: Przykładowy kod konwersji C++ dla dokumentu XLSB do formatu MHTML. Programiści mogą używać tego kodu źródłowego do wsadowej konwersji XLSB na MHTML w dowolnej aplikacji C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

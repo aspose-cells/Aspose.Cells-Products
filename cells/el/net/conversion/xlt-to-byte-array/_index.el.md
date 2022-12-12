@@ -1,7 +1,7 @@
-﻿---
+---
 title: Μετατροπή XLT σε πίνακα Byte μέσω C# 
 weight: 7690
-url: /el/net/conversion/xlt-to-byte-array/ 
+
 description: C# Δείγμα κώδικα για μετατροπή XLT σε πίνακα Byte. Χρησιμοποιήστε αυτόν τον κώδικα για τη μετατροπή του Excel XLT σε πίνακα Byte εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

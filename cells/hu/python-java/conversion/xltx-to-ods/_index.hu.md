@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLTX konvertálása ODS-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/xltx-to-ods/
+
 description: Mintakód az xltx ods Python konverziójához. Használjon API példakódot az xltx fájlok kötegelt ods konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++ uygulamasıyla XLTM'yi PDF'ye dönüştürün 
-url: /tr/cpp/conversion/xltm-to-pdf/ 
+
 description: XLTM belgesinden PDF biçimine örnek C++ dönüştürme kodu. Programcılar, herhangi bir C++ Uygulamasında toplu XLTM'den PDF'ye dönüştürme için bu kaynak kodunu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通过 .NET 添加水印 ODS 文档 
 weight: 4190
-url: /zh/net/watermark/ods/ 
+
 description: C# 源代码，用于在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上向 ODS 文件添加或删除水印。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

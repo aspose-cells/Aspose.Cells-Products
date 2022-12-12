@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer CSV naar TXT via Python
-url: /nl/python-java/conversion/csv-to-txt/
+
 description: Voorbeeldcode voor conversie van csv naar txt Python. Gebruik API voorbeeldcode voor batch-csv-bestanden naar txt-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

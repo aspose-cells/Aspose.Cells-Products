@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to XLTX via Python
-url: /python-java/conversion/fods-to-xltx/
+
 description: Convert FODS to XLTX format in Python code. Save FODS as XLTX using Python.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: إنشاء ملفات MS Excel XLTM عبر C# 
-url: /ar/net/create-xltm/ 
+
 description: C# نموذج كود لإنشاء مستندات XLTM. استخدم هذا الرمز لإنشاء ملفات MS Excel XLTM داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Merge MHT to HTML Files via C# 
-url: /net/merger/merge-mht-to-html/ 
+
 description: Merge MHT to HTML file in C# code. Combine MHT to HTML file using VB.NET, Asp.NET or any .NET based application.
 ---
 

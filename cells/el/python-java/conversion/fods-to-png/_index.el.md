@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή FODS σε PNG μέσω Python
-url: /el/python-java/conversion/fods-to-png/
+
 description: Δείγμα κώδικα για μετατροπή fods σε png Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία fods σε μετατροπή png εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

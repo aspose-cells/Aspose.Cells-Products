@@ -1,7 +1,7 @@
-﻿---
+---
 title: ค้นหาเอกสาร XLSB โดยไม่ต้องเปิดผ่าน C++ 
 weight: 7020
-url: /th/cpp/search/xlsb/ 
+
 description: C++ ตัวอย่างโค้ดเพื่อค้นหาคำที่มีรูปแบบในไฟล์ XLSB บน C++ Runtime Environment สำหรับ Windows 32 บิต, Windows 64 บิต และ Linux 64 บิต
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

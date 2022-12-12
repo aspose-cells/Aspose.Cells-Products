@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLTM إلى XLAM عبر Java 
-url: /ar/java/conversion/xltm-to-xlam/ 
+
 description: نموذج Java كود التحويل لتنسيق XLTM إلى ملف XLAM. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى XLAM داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

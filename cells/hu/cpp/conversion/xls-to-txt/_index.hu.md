@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLS-t TXT-re a C++ alkalmazással 
-url: /hu/cpp/conversion/xls-to-txt/ 
+
 description: Minta C++ konverziós kód az XLS dokumentumhoz TXT formátumba. A programozók ezt a forráskódot használhatják az XLS-ből TXT-be történő kötegelt konvertáláshoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

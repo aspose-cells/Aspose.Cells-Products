@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversi CSV ke EMF melalui C++ aplikasi 
 weight: 6560
-url: /id/cpp/conversion/csv-to-emf/ 
+
 description: Contoh C++ kode konversi untuk dokumen CSV ke format EMF. Pemrogram dapat menggunakan kode sumber ini untuk konversi CSV ke EMF batch dalam Aplikasi C++ apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

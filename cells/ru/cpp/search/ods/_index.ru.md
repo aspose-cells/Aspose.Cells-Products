@@ -1,7 +1,7 @@
-﻿---
+---
 title: Поиск документа ODS без открытия через C++ 
 weight: 3300
-url: /ru/cpp/search/ods/ 
+
 description: Пример кода C++ для поиска слов с шаблоном в файле ODS в среде выполнения C++ для 32-разрядной, 64-разрядной и Linux 64-разрядной версии Windows.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

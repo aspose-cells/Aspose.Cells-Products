@@ -1,6 +1,6 @@
-﻿---
+---
 title: รวมไฟล์ TXT ผ่าน C++ 
-url: /th/cpp/merger/txt/ 
+
 description: C++ โค้ดตัวอย่างเพื่อรวมเอกสาร TXT ใน C++ Runtime Environment สำหรับ Windows 32 บิต, Windows 64 บิต และ Linux 64 บิต
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

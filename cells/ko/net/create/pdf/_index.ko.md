@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#을(를) 통해 PDF 파일 만들기 
-url: /ko/net/create-pdf/ 
+
 description: C# PDF 문서 생성을 위한 샘플 코드. 이 코드를 사용하여 VB.NET, Asp.NET 또는 .NET 기반 애플리케이션 내에서 PDF 파일을 생성할 수 있습니다.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

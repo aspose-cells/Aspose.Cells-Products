@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python के माध्यम से NUMBERS को JPEG में बदलें
-url: /hi/python-java/conversion/numbers-to-jpeg/
+
 description: जेपीईजी Python रूपांतरण के लिए संख्याओं के लिए नमूना कोड। Python एप्लिकेशन के भीतर जेपीईजी रूपांतरण के लिए बैच नंबर फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

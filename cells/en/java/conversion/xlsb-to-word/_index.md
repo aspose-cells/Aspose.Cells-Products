@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to WORD via Java 
-url: /java/conversion/xlsb-to-word/
+
 description: Convert XLSB to WORD format in Java code. Save XLSB as WORD using Java.
 ---
 

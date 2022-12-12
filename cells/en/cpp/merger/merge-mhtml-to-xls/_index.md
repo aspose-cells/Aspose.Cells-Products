@@ -1,6 +1,6 @@
 ---
 title: Merge MHTML to XLS Files via C++ 
-url: /cpp/merger/merge-mhtml-to-xls/ 
+
 description: Merge MHTML to XLS file in C++ code. Combine MHTML to XLS file using C++.
 ---
 

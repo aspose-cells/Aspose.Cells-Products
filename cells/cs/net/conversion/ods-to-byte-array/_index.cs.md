@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést ODS na bajtové pole přes C# 
 weight: 7690
-url: /cs/net/conversion/ods-to-byte-array/ 
+
 description: C# Ukázkový kód pro převod ODS na Byte Array. Tento kód použijte pro převod Excel ODS na Byte Array v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

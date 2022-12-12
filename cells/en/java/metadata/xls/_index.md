@@ -1,7 +1,7 @@
 ---
 title: Edit or View XLS Files Metadata via Java 
 weight: 730
-url: /java/metadata/xls/ 
+
 description: Java sample code to edit or view XLS format metadata on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Gabungkan File XLSB melalui Java 
 weight: 4840
-url: /id/java/merger/xlsb/ 
+
 description: Java contoh kode untuk menggabungkan dokumen XLSB di Java Runtime Environment untuk Aplikasi JSP/JSF dan Aplikasi Desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

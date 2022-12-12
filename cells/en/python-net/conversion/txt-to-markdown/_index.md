@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to MARKDOWN via Python
-url: /python-net/conversion/txt-to-markdown/
+
 description: Sample code for txt to markdown Python conversion. Use API example code for batch txt files to markdown conversion within Python application.
 ---
 

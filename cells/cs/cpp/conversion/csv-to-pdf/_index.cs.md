@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převeďte CSV na PDF pomocí aplikace C++ 
 weight: 8330
-url: /cs/cpp/conversion/csv-to-pdf/ 
+
 description: Ukázkový konverzní kód C++ pro dokument CSV do formátu PDF. Programátoři mohou tento zdrojový kód použít pro dávkový převod CSV do PDF v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

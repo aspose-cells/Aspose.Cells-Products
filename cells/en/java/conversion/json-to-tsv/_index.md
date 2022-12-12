@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to TSV via Java 
-url: /java/conversion/json-to-tsv/
+
 description: Convert JSON to TSV format in Java code. Save JSON as TSV using Java.
 ---
 

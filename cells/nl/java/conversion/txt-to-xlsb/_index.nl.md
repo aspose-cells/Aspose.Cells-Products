@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer TXT naar XLSB via Java 
 weight: 3360
-url: /nl/java/conversion/txt-to-xlsb/ 
+
 description: Voorbeeld Java conversiecode voor TXT-indeling naar XLSB-bestand. Programmeurs kunnen deze voorbeeldcode gebruiken om Excel- en OpenOffice-spreadsheets naar XLSB te exporteren binnen elke web- of desktoptoepassing Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

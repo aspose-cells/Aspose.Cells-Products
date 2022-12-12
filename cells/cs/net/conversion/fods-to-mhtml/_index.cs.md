@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést FODS na MHTML prostřednictvím C#
-url: /cs/net/conversion/fods-to-mhtml/
+
 description: Ukázkový kód pro konverzi fod na mhtml C#. Použijte API ukázkový kód pro dávkové soubory fods na mhtml převod v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

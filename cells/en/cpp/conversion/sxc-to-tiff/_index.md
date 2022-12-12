@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to TIFF via C++
-url: /cpp/conversion/sxc-to-tiff/
+
 description: Convert SXC to TIFF format in C++ code. Save SXC as TIFF using C++.
 ---
 

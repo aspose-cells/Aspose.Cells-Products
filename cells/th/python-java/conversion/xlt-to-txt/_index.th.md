@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง XLT เป็น TXT ผ่าน Python
-url: /th/python-java/conversion/xlt-to-txt/
+
 description: โค้ดตัวอย่างสำหรับการแปลง xlt เป็น txt Python ใช้โค้ดตัวอย่าง API สำหรับไฟล์แบตช์ xlt เป็นการแปลง txt ภายในแอปพลิเคชัน Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

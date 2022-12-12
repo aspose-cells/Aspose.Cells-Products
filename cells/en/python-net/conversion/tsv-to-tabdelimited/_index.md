@@ -1,6 +1,6 @@
 ---
 title: Convert TSV to TABDELIMITED via Python
-url: /python-net/conversion/tsv-to-tabdelimited/
+
 description: Sample code for tsv to tabdelimited Python conversion. Use API example code for batch tsv files to tabdelimited conversion within Python application.
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést TSV na BMP prostřednictvím Java 
 weight: 4200
-url: /cs/java/conversion/tsv-to-bmp/ 
+
 description: Ukázka převodního kódu Java pro formát TSV na soubor BMP. Programátoři mohou tento ukázkový kód použít k exportu tabulek Excelu a OpenOffice do BMP v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

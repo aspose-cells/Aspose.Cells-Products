@@ -1,6 +1,6 @@
 ---
 title: Create Radar Charts via Python
-url: /python-net/create-radar-chart/
+
 description: Python Sample code for creating Radar charts to Excel using Python Library. Use this code for creating a Radar chart to MS Excel within Python based application.
 
 ---

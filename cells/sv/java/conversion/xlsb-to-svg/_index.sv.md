@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertera XLSB till SVG via Java 
 weight: 5560
-url: /sv/java/conversion/xlsb-to-svg/ 
+
 description: Exempel Java-konverteringskod för XLSB-format till SVG-fil. Programmerare kan använda den här exempelkoden för att exportera Excel- och OpenOffice-kalkylblad till SVG inom alla webb- eller skrivbordsbaserade Javaapplikationer.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

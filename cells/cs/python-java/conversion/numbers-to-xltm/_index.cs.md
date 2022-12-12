@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést NUMBERS na XLTM přes Python
-url: /cs/python-java/conversion/numbers-to-xltm/
+
 description: Ukázkový kód pro převod čísel na xltm Python. Použijte API ukázkový kód pro dávkové soubory čísel na převod xltm v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

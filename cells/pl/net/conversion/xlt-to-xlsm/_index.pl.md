@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj XLT na XLSM przez C#
-url: /pl/net/conversion/xlt-to-xlsm/
+
 description: Przykładowy kod konwersji xlt do xlsm C#. Użyj przykładowego kodu API dla plików wsadowych xlt do konwersji xlsm w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

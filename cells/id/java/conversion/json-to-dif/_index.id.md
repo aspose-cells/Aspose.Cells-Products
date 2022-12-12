@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversi JSON ke DIF melalui Java 
 weight: 5520
-url: /id/java/conversion/json-to-dif/ 
+
 description: Contoh Java kode konversi untuk format JSON ke file DIF. Pemrogram dapat menggunakan kode contoh ini untuk mengekspor spreadsheet Excel & OpenOffice ke DIF dalam Aplikasi berbasis Java Web atau Desktop apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer EXCEL naar HTML via C#
-url: /nl/net/conversion/excel-to-html/
+
 description: Voorbeeldcode voor conversie van Excel naar html C#. Gebruik API voorbeeldcode voor batch Excel-bestanden naar html-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

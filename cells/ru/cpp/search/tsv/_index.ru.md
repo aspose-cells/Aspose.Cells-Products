@@ -1,7 +1,7 @@
-﻿---
+---
 title: Поиск документа TSV без открытия через C++ 
 weight: 930
-url: /ru/cpp/search/tsv/ 
+
 description: Пример кода C++ для поиска слов с шаблоном в TSV-файле в C++ среде выполнения для 32-разрядной, 64-разрядной Windows и 64-разрядной версии Linux.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

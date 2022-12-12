@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to XML via Java 
-url: /java/conversion/fods-to-xml/
+
 description: Convert FODS to XML format in Java code. Save FODS as XML using Java.
 ---
 

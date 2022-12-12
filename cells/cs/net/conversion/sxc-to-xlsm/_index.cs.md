@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést SXC na XLSM přes C#
-url: /cs/net/conversion/sxc-to-xlsm/
+
 description: Ukázkový kód pro převod sxc na xlsm C#. Použijte API ukázkový kód pro dávkový převod souborů sxc na xlsm v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

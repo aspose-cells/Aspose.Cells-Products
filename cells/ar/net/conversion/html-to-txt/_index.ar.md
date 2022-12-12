@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل HTML إلى TXT عبر C#
-url: /ar/net/conversion/html-to-txt/
+
 description: نموذج كود لتحويل html إلى txt C#. استخدم API رمز المثال لملفات html الدفعية لتحويل txt داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

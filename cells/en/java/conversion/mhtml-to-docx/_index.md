@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to DOCX via Java 
-url: /java/conversion/mhtml-to-docx/
+
 description: Convert MHTML to DOCX format in Java code. Save MHTML as DOCX using Java.
 ---
 

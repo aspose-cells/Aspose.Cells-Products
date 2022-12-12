@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++アプリケーションを介してMHTMLをEMFに変換する 
 weight: 2140
-url: /ja/cpp/conversion/mhtml-to-emf/ 
+
 description: MHTMLドキュメントからEMF形式へのサンプルC++変換コード。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でMHTMLからEMFへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

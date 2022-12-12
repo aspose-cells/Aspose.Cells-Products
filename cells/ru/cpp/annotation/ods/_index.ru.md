@@ -1,7 +1,7 @@
-﻿---
+---
 title: Добавить аннотацию ODS через C++ 
 weight: 8840
-url: /ru/cpp/annotation/ods/ 
+
 description: Пример кода C++ для удаления аннотаций формата ODS в C++ среде выполнения для 32-разрядной, 64-разрядной версии Windows и 64-разрядной версии Linux.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

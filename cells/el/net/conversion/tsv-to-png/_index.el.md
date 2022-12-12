@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή TSV σε PNG μέσω C#
-url: /el/net/conversion/tsv-to-png/
+
 description: Δείγμα κώδικα για μετατροπή tsv σε png C#. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδική μετατροπή αρχείων tsv σε png εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

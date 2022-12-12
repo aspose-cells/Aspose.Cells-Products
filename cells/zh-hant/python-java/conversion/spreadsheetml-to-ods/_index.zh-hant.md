@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 Python 將 SPREADSHEETML 轉換為 ODS
-url: /zh-hant/python-java/conversion/spreadsheetml-to-ods/
+
 description: 電子表格到 ods Python 轉換的示例代碼。在 Python 應用程序中使用 API 示例代碼將電子表格文件批量轉換為 ods。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง FODS เป็น JPEG ผ่าน Python
-url: /th/python-java/conversion/fods-to-jpeg/
+
 description: โค้ดตัวอย่างสำหรับการแปลง fods เป็น jpeg Python ใช้โค้ดตัวอย่าง API สำหรับไฟล์ batch fods เป็นการแปลง jpeg ภายในแอปพลิเคชัน Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

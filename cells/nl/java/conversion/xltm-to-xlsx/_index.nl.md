@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer XLTM naar XLSX via Java 
 weight: 4540
-url: /nl/java/conversion/xltm-to-xlsx/ 
+
 description: Voorbeeld Java conversiecode voor XLTM-indeling naar XLSX-bestand. Programmeurs kunnen deze voorbeeldcode gebruiken om Excel- en OpenOffice-spreadsheets naar XLSX te exporteren binnen elke web- of desktoptoepassing Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

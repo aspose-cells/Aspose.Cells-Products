@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte ODS na TXT pomocí aplikace C++ 
-url: /cs/cpp/conversion/ods-to-txt/ 
+
 description: Ukázka převodního kódu C++ pro dokument ODS na formát TXT. Programátoři mohou použít tento zdrojový kód pro dávkový převod ODS na TXT v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

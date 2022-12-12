@@ -1,7 +1,7 @@
-﻿---
+---
 title: Slå samman XLS-filer via .NET 
 weight: 3000
-url: /sv/net/merger/xls/ 
+
 description: C# källkod för att kombinera XLS-dokument på .NET Framework, .NET Core, Mono eller Xamarin-plattformar.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

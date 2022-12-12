@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование ODS в TABDELIMITED через приложение C++ 
-url: /ru/cpp/conversion/ods-to-tabdelimited/ 
+
 description: Пример кода преобразования C++ для документа ODS в формат TABDELIMITED. Программисты могут использовать этот исходный код для пакетного преобразования ODS в TABDELIMITED в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

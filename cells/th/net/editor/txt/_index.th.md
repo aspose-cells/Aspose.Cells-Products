@@ -1,6 +1,6 @@
-﻿---
+---
 title: แก้ไขไฟล์ TXT ผ่าน .NET 
-url: /th/net/editor/txt/ 
+
 description: C# ซอร์สโค้ดสำหรับแก้ไขเอกสาร TXT บน .NET Framework, .NET Core, Windows Azure, Mono หรือ Xamarin Platforms
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

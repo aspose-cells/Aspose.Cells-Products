@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLT-t CSV-vé a C++ alkalmazással 
-url: /hu/cpp/conversion/xlt-to-csv/ 
+
 description: Minta C++ konverziós kód az XLT dokumentumhoz CSV formátumba. A programozók ezt a forráskódot használhatják kötegelt XLT-ből CSV-vé konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

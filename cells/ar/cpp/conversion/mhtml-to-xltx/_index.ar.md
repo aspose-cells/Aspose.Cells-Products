@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل MHTML إلى XLTX عبر تطبيق C++ 
 weight: 6610
-url: /ar/cpp/conversion/mhtml-to-xltx/ 
+
 description: نموذج لشفرة تحويل C++ لمستند MHTML إلى تنسيق XLTX. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل MHTML إلى XLTX دفعة داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Wykres dokumentów XLSB za pośrednictwem C++ 
 weight: 5200
-url: /pl/cpp/chart/xlsb/ 
+
 description: C++ przykładowy kod do rysowania i konwertowania wykresu lub diagramu w pliku XLSB w C++ środowisku wykonawczym dla 32-bitowego systemu Windows, 64-bitowego systemu Windows i 64-bitowego systemu Linux.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

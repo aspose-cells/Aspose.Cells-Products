@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir XLTM en EMF via C#
-url: /fr/net/conversion/xltm-to-emf/
+
 description: Exemple de code pour la conversion de xltm en emf C#. Utilisez l'exemple de code API pour les fichiers batch xltm en conversion emf dans VB.NET, Asp.NET ou toute application basée sur .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

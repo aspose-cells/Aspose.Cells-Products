@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++を介してCSVファイルを作成する 
-url: /ja/cpp/create-csv/ 
+
 description: C++CSVファイルを生成するためのサンプルコード。このコードを使用して、C++ベースのアプリケーション内でCSVファイルを作成します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

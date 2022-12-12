@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLSM konvertálása SVG-vé a következőn keresztül: Python"
-url: /hu/python-java/conversion/xlsm-to-svg/
+
 description: Mintakód az xlsm–svg Python konverzióhoz. Használjon API példakódot a kötegelt xlsm fájlok SVG konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

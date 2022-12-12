@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++アプリケーションを介してTABDELIMITEDをODSに変換します 
-url: /ja/cpp/conversion/tabdelimited-to-ods/ 
+
 description: TABDELIMITEDドキュメントのサンプルC++変換コードからODS形式へ。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でTABDELIMITEDからODSへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

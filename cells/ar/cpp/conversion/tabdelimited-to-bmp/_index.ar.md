@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TABDELIMITED إلى BMP عبر تطبيق C++ 
-url: /ar/cpp/conversion/tabdelimited-to-bmp/ 
+
 description: نموذج C++ رمز تحويل لمستند TABDELIMITED إلى تنسيق BMP. يمكن للمبرمجين استخدام رمز المصدر هذا للتحويل الدفعي TABDELIMITED لتحويل BMP داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

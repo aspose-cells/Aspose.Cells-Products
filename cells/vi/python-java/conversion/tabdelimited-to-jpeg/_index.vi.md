@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi TABDELIMITED sang JPEG qua Python
-url: /vi/python-java/conversion/tabdelimited-to-jpeg/
+
 description: Mã mẫu cho chuyển đổi được giới hạn tab thành jpeg Python. Sử dụng mã mẫu API cho các tệp được giới hạn bằng tab hàng loạt để chuyển đổi jpeg trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

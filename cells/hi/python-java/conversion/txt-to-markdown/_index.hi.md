@@ -1,6 +1,6 @@
-﻿---
+---
 title: TXT को Python के माध्यम से MARKDOWN में बदलें
-url: /hi/python-java/conversion/txt-to-markdown/
+
 description: txt के लिए नमूना कोड मार्कडाउन Python रूपांतरण के लिए। Python एप्लिकेशन के भीतर रूपांतरण को मार्कडाउन करने के लिए बैच txt फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

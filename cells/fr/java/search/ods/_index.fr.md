@@ -1,7 +1,7 @@
-﻿---
+---
 title: Rechercher un document ODS sans ouvrir via Java 
 weight: 8140
-url: /fr/java/search/ods/ 
+
 description: Java exemple de code pour rechercher des mots avec un modèle dans le fichier ODS sur Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

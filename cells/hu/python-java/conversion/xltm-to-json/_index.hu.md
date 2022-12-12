@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLTM konvertálása JSON-ra a következőn keresztül: Python"
-url: /hu/python-java/conversion/xltm-to-json/
+
 description: Mintakód az xltm–json Python konverzióhoz. Használjon API példakódot a kötegelt xltm-fájlok JSON-konverziójához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

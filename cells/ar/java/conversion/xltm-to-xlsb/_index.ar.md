@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل XLTM إلى XLSB عبر Java 
 weight: 9370
-url: /ar/java/conversion/xltm-to-xlsb/ 
+
 description: نموذج Java كود تحويل من تنسيق XLTM إلى ملف XLSB. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى XLSB داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

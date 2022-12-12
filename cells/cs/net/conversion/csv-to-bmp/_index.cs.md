@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést CSV na BMP prostřednictvím C#
-url: /cs/net/conversion/csv-to-bmp/
+
 description: Ukázkový kód pro převod csv na bmp C#. Použijte API ukázkový kód pro dávkový převod souborů csv na bmp v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

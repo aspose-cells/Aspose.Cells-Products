@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to XLSB via Java 
-url: /java/conversion/numbers-to-xlsb/
+
 description: Convert NUMBERS to XLSB format in Java code. Save NUMBERS as XLSB using Java.
 ---
 

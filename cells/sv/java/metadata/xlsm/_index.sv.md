@@ -1,7 +1,7 @@
-﻿---
+---
 title: Redigera eller visa metadata för XLSM-filer via Java 
 weight: 9030
-url: /sv/java/metadata/xlsm/ 
+
 description: Java exempelkod för att redigera eller visa XLSM-formatmetadata i Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to XML via Java 
-url: /java/conversion/xltx-to-xml/
+
 description: Convert XLTX to XML format in Java code. Save XLTX as XML using Java.
 ---
 

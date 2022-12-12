@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง TXT เป็น MARKDOWN ผ่าน Python
-url: /th/python-java/conversion/txt-to-markdown/
+
 description: โค้ดตัวอย่างสำหรับการแปลง txt เป็น markdown Python ใช้โค้ดตัวอย่าง API สำหรับไฟล์แบตช์ txt เพื่อทำเครื่องหมายการแปลงภายในแอปพลิเคชัน Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

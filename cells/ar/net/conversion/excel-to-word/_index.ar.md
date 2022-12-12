@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل EXCEL إلى WORD عبر C#
-url: /ar/net/conversion/excel-to-word/
+
 description: نموذج رمز للتحويل من Excel إلى Word C#. استخدم API رمز المثال لملفات Excel المجمعة لتحويل الكلمات داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan TXT ke MARKDOWN melalui C#
-url: /id/net/conversion/txt-to-markdown/
+
 description: Contoh kode untuk konversi txt ke penurunan harga C#. Gunakan API kode contoh untuk file txt batch untuk konversi penurunan harga dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

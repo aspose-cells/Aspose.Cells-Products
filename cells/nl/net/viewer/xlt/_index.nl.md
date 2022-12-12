@@ -1,7 +1,7 @@
-﻿---
+---
 title: Bekijk XLT-bestandsindelingen via .NET 
 weight: 3610
-url: /nl/net/viewer/xlt/ 
+
 description: C# broncode voor het laden, weergeven en weergeven van XLT-documenten op .NET Framework-, .NET Core-, Mono- of Xamarin-platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

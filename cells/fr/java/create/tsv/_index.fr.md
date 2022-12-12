@@ -1,6 +1,6 @@
-﻿---
+---
 title: Créer des fichiers TSV via Java 
-url: /fr/java/create-tsv/ 
+
 description: Java Exemple de code pour générer des documents TSV. Utilisez ce code pour créer des fichiers TSV dans une application Web ou de bureau basée sur Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

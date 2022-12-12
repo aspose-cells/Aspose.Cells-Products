@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj XLS na MHTML przez C#
-url: /pl/net/conversion/xls-to-mhtml/
+
 description: Przykładowy kod konwersji xls do mhtml C#. Użyj przykładowego kodu API dla plików wsadowych xls do konwersji mhtml w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

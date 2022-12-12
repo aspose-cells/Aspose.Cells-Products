@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLTM na MARKDOWN přes Java 
-url: /cs/java/conversion/xltm-to-markdown/ 
+
 description: Ukázka převodního kódu Java pro formát XLTM na soubor MARKDOWN. Programátoři mohou tento příklad kódu použít k exportu tabulek Excelu a OpenOffice do MARKDOWN v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

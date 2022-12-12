@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to PNG via Python
-url: /python-net/conversion/numbers-to-png/
+
 description: Sample code for numbers to png Python conversion. Use API example code for batch numbers files to png conversion within Python application.
 ---
 

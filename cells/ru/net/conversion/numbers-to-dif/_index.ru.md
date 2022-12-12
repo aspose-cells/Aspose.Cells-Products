@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование NUMBERS в DIF через C#
-url: /ru/net/conversion/numbers-to-dif/
+
 description: Пример кода для преобразования чисел в разность C#. Используйте пример кода API для файлов номеров пакетов для преобразования различий в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

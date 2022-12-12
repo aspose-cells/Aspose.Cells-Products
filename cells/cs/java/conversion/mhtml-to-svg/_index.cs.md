@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést MHTML na SVG přes Java 
 weight: 8850
-url: /cs/java/conversion/mhtml-to-svg/ 
+
 description: Ukázka převodního kódu Java pro formát MHTML na soubor SVG. Programátoři mohou tento příklad kódu použít k exportu tabulek Excelu a OpenOffice do SVG v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Combinar archivos HTML a través de C++ 
-url: /es/cpp/merger/html/ 
+
 description: C++ código de ejemplo para combinar documentos HTML en C++ Runtime Environment para Windows de 32 bits, Windows de 64 bits y Linux de 64 bits.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

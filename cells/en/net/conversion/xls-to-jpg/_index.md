@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to JPG via C#
-url: /net/conversion/xls-to-jpg/
+
 description: Convert XLS to JPG format in C# code. Save XLS as JPG using VB.NET, Asp.NET or any .NET based application.
 ---
 

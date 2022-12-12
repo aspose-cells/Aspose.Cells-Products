@@ -1,6 +1,6 @@
-﻿---
+---
 title: NUMBERS को C# के द्वारा FODS में बदलें
-url: /hi/net/conversion/numbers-to-fods/
+
 description: संख्याओं के लिए फ़ूड C# रूपांतरण के लिए नमूना कोड। VB.NET, Asp.NET या किसी भी .NET आधारित एप्लिकेशन के भीतर बैच नंबर फ़ाइलों को फोड रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

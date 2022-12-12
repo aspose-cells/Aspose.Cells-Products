@@ -1,6 +1,6 @@
 ---
 title: Merge HTM to ODS Files via Java 
-url: /java/merger/merge-htm-to-ods/ 
+
 description: Merge HTM to ODS file in Java code. Combine HTM to ODS file using Java based desktop or web application.
 ---
 

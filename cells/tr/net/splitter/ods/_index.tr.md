@@ -1,7 +1,7 @@
-﻿---
+---
 title: ODS Dosyalarını .NET ile Böl 
 weight: 140
-url: /tr/net/splitter/ods/ 
+
 description: ODS belgelerini .NET Framework, .NET Core, Mono veya Xamarin Platformlarında bölmek için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

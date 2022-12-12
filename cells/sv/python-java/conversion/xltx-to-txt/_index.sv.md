@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera XLTX till TXT via Python
-url: /sv/python-java/conversion/xltx-to-txt/
+
 description: Exempelkod för konvertering av xltx till txt Python. Använd API exempelkod för batch-xltx-filer till txt-konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

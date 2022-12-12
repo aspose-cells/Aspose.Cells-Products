@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してTABDELIMITEDをODSに変換します
-url: /ja/python-java/conversion/tabdelimited-to-ods/
+
 description: tabdelimited toodsPython変換のサンプルコード。 Pythonアプリケーション内でのバッチタブ区切りファイルからodsへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

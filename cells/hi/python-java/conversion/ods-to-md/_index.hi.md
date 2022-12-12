@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python के माध्यम से ODS को MD में बदलें
-url: /hi/python-java/conversion/ods-to-md/
+
 description: ods से md Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर बैच ods फ़ाइलों से md रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

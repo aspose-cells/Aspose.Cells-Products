@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحرير ملفات TXT عبر .NET 
-url: /ar/net/editor/txt/ 
+
 description: C# كود المصدر لتعديل مستند TXT على الأنظمة الأساسية .NET Framework أو .NET Core أو Windows Azure Mono أو Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

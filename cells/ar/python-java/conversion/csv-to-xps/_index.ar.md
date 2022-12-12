@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل CSV إلى XPS عبر Python
-url: /ar/python-java/conversion/csv-to-xps/
+
 description: نموذج كود لتحويل csv إلى xps Python. استخدم API رمز المثال لملفات دفعية csv لتحويل xps داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

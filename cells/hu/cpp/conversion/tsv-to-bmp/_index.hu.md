@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertálja a TSV-t BMP-vé a C++ alkalmazáson keresztül 
 weight: 7000
-url: /hu/cpp/conversion/tsv-to-bmp/ 
+
 description: Minta C++ konverziós kód a TSV-dokumentumhoz BMP formátumba. A programozók ezt a forráskódot használhatják kötegelt TSV-ből BMP-vé konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

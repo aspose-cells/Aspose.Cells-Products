@@ -1,6 +1,6 @@
-﻿---
+---
 title: إنشاء مخططات شريطية عبر C#
-url: /ar/net/create-bar-chart/
+
 description: C# نموذج كود لإنشاء مخططات شريطية في Excel باستخدام .NET Library. استخدم هذا الرمز لإنشاء مخطط شريطي لبرنامج MS Excel داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

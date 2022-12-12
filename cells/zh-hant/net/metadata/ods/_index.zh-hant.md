@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通過 .NET 查看或編輯 ODS 文件元數據 
 weight: 320
-url: /zh-hant/net/metadata/ods/ 
+
 description: C# 用於在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上編輯或查看 ODS 格式元數據的源代碼。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

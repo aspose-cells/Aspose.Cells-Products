@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLT в XLSX через Python
-url: /ru/python-java/conversion/xlt-to-xlsx/
+
 description: Пример кода для преобразования xlt в xlsx Python. Используйте пример кода API для пакетного преобразования файлов xlt в xlsx в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

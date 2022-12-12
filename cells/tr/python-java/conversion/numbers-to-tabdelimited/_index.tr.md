@@ -1,6 +1,6 @@
-﻿---
+---
 title: NUMBERS'ı Python aracılığıyla TABDELIMITED'e dönüştürün
-url: /tr/python-java/conversion/numbers-to-tabdelimited/
+
 description: Sayıların sekmeyle ayrılmış Python dönüşümüne ilişkin örnek kod. Python uygulamasında sekmeyle ayrılmış dönüştürme için toplu numara dosyaları için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

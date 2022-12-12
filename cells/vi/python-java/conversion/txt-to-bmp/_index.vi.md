@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi TXT sang BMP qua Python
-url: /vi/python-java/conversion/txt-to-bmp/
+
 description: Mã mẫu cho chuyển đổi txt sang bmp Python. Sử dụng mã mẫu API cho các tệp txt hàng loạt để chuyển đổi bmp trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

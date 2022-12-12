@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter HTML para XLT via Python
-url: /pt/python-java/conversion/html-to-xlt/
+
 description: Código de exemplo para conversão de html para xlt Python. Use API código de exemplo para arquivos html em lote para conversão xlt no aplicativo Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

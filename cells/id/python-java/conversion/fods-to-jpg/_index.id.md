@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan FODS ke JPG melalui Python
-url: /id/python-java/conversion/fods-to-jpg/
+
 description: Contoh kode untuk konversi fods ke jpg Python. Gunakan API kode contoh untuk file batch fods ke konversi jpg dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

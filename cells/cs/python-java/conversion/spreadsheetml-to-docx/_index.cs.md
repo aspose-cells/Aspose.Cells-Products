@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést SPREADSHEETML na DOCX přes Python
-url: /cs/python-java/conversion/spreadsheetml-to-docx/
+
 description: Ukázkový kód pro převod tabulky ml na docx Python. Použijte API ukázkový kód pro dávkový převod tabulkových souborů ml na docx v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

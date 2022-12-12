@@ -1,7 +1,7 @@
 ---
 title: Insert OLE(Object Linking and Embedding) object into Excel via .NET 
 weight: 170
-url: /net/object/insert-object-to-excel/ 
+
 description: C# source code to insert OLE(Object Linking and Embedding) object into Excel on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

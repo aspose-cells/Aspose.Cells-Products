@@ -1,6 +1,6 @@
-﻿---
+---
 title: FODS über C# in EMF umwandeln
-url: /de/net/conversion/fods-to-emf/
+
 description: Beispielcode für die Umwandlung von fod in emf C#. Verwenden Sie API Beispielcode für die Batch-Konvertierung von fods-Dateien in emf innerhalb von VB.NET, Asp.NET oder einer beliebigen .NET-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

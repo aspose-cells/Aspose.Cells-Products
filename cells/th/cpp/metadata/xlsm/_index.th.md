@@ -1,7 +1,7 @@
-﻿---
+---
 title: แก้ไขหรือดูข้อมูลเมตาของเอกสาร XLSM ผ่าน C++ 
 weight: 1300
-url: /th/cpp/metadata/xlsm/ 
+
 description: C++ ตัวอย่างโค้ดสำหรับแก้ไขหรือดูข้อมูลเมตาของไฟล์ XLSM บน C++ Runtime Environment สำหรับ Windows 32 บิต, Windows 64 บิต และ Linux 64 บิต
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

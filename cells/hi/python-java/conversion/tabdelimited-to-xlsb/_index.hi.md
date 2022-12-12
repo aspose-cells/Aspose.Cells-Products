@@ -1,6 +1,6 @@
-﻿---
+---
 title: TABDELIMITED को Python के माध्यम से XLSB में कनवर्ट करें
-url: /hi/python-java/conversion/tabdelimited-to-xlsb/
+
 description: xlsb Python रूपांतरण में सीमित टैब के लिए नमूना कोड। Python एप्लिकेशन के भीतर xlsb रूपांतरण में बैच टैबसीमांकित फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

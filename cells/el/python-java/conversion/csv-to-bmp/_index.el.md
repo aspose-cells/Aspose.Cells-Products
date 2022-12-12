@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή CSV σε BMP μέσω Python
-url: /el/python-java/conversion/csv-to-bmp/
+
 description: Δείγμα κώδικα για μετατροπή csv σε bmp Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία csv για μετατροπή bmp εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

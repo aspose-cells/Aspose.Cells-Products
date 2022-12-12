@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ uygulamasıyla TSV'yi PDF'ye dönüştürün 
 weight: 9090
-url: /tr/cpp/conversion/tsv-to-pdf/ 
+
 description: TSV belgesinden PDF biçimine örnek C++ dönüştürme kodu. Programcılar, herhangi bir C++ Uygulamasında toplu TSV'den PDF'ye dönüştürme için bu kaynak kodunu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to EMF via Java 
-url: /java/conversion/fods-to-emf/
+
 description: Convert FODS to EMF format in Java code. Save FODS as EMF using Java.
 ---
 

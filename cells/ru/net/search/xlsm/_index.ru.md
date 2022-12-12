@@ -1,7 +1,7 @@
-﻿---
+---
 title: Поиск документа XLSM без открытия через .NET 
 weight: 4880
-url: /ru/net/search/xlsm/ 
+
 description: Исходный код C# для поиска слов с шаблоном в файле XLSM на платформах .NET Framework, .NET Core, Mono или Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Durchsuchen Sie das TXT-Dokument, ohne es über Java zu öffnen 
 weight: 1200
-url: /de/java/search/txt/ 
+
 description: Java Beispielcode zum Suchen von Wörtern mit Muster in TXT-Datei in Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

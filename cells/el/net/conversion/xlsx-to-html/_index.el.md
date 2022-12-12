@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή XLSX σε HTML μέσω C#
-url: /el/net/conversion/xlsx-to-html/
+
 description: Δείγμα κώδικα για μετατροπή xlsx σε html C#. Χρησιμοποιήστε API παράδειγμα κώδικα για μαζική μετατροπή αρχείων xlsx σε html εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi ODS sang XLAM qua C#
-url: /vi/net/conversion/ods-to-xlam/
+
 description: Mã mẫu cho chuyển đổi ods sang xlam C#. Sử dụng mã mẫu API cho các tệp ods hàng loạt để chuyển đổi xlam trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

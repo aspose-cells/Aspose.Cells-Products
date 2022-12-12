@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta MHTML a SPREADSHEETML a través de C#
-url: /es/net/conversion/mhtml-to-spreadsheetml/
+
 description: Ejemplo de código para la conversión de mhtml a hoja de cálculo C#. Utilice el código de ejemplo API para la conversión de archivos mhtml por lotes a hoja de cálculo en VB.NET, Asp.NET o cualquier aplicación basada en .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

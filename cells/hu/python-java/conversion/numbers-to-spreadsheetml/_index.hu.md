@@ -1,6 +1,6 @@
-﻿---
+---
 title: "NUMBERS konvertálása SPREADSHEETML-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/numbers-to-spreadsheetml/
+
 description: Mintakód számok táblázatkezelő Python konverziójára. Használjon API példakódot kötegszámfájlokhoz a Python alkalmazáson belüli táblázatkezelő-konverzióhoz.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

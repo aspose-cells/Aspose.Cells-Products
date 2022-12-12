@@ -1,7 +1,7 @@
 ---
 title: Insert Rectangle into Excel via Python 
 weight: 10
-url: /python-net/shapes/insert-rectangle-to-excel/ 
+
 description: Python source code to insert Rectangle into Excel.
 ---
 

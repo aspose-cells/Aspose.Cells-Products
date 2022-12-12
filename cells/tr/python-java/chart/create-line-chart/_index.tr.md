@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python ile Çizgi Grafikleri Oluşturun
-url: /tr/python-java/create-line-chart/
+
 description: Python Python Kitaplığı kullanarak Excel'de Çizgi grafikler oluşturmak için örnek kod. Python tabanlı uygulama içinde MS Excel'e bir Çizgi grafiği oluşturmak için bu kodu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

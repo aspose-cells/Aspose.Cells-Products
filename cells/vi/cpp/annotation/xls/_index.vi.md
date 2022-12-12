@@ -1,7 +1,7 @@
-﻿---
+---
 title: Thêm chú thích tệp XLS Excel qua C++ 
 weight: 10040
-url: /vi/cpp/annotation/xls/ 
+
 description: C++ mã mẫu để thêm và xóa chú thích định dạng XLS trên C++ Môi trường thời gian chạy cho Windows 32 bit, Windows 64 bit và Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

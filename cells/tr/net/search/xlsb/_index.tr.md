@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET üzerinden açmadan XLSB belgesini arayın 
 weight: 8880
-url: /tr/net/search/xlsb/ 
+
 description: .NET Framework, .NET Core, Mono veya Xamarin Platformlarında XLSB dosyasında kalıplı kelimeleri aramak için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

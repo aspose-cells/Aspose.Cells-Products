@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converti XLTM in CSV tramite Python
-url: /it/python-java/conversion/xltm-to-csv/
+
 description: Codice di esempio per la conversione da xltm a csv Python. Usa API codice di esempio per la conversione batch di file xltm in csv all'interno dell'applicazione Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

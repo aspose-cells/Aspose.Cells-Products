@@ -1,7 +1,7 @@
-﻿---
+---
 title: Zobrazit nebo upravit metadata souborů ODS prostřednictvím .NET 
 weight: 320
-url: /cs/net/metadata/ods/ 
+
 description: C# zdrojový kód pro úpravu nebo zobrazení metadat formátu ODS na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

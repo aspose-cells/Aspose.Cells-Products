@@ -1,7 +1,7 @@
-﻿---
+---
 title: Documento XLSB de marca d'água via .NET 
 weight: 5410
-url: /pt/net/watermark/xlsb/ 
+
 description: C# código-fonte para adicionar ou remover marca d'água do arquivo XLSB nas plataformas .NET Framework, .NET Core, Mono ou Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

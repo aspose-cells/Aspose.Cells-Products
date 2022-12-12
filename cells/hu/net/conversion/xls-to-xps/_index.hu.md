@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLS konvertálása XPS-re a következőn keresztül: C#"
-url: /hu/net/conversion/xls-to-xps/
+
 description: Mintakód az xls–xps C# konverzióhoz. Használjon API példakódot a kötegelt xls fájlok xps formátumba konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

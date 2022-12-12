@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést XLSX na PNG přes Java 
 weight: 5720
-url: /cs/java/conversion/xlsx-to-png/ 
+
 description: Ukázkový konverzní kód Java pro soubor ve formátu XLSX na soubor PNG. Programátoři mohou tento příklad kódu použít k exportu tabulek Excelu a OpenOffice do formátu PNG v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

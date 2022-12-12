@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertera MHTML till TSV via Java 
 weight: 7070
-url: /sv/java/conversion/mhtml-to-tsv/ 
+
 description: Exempel på konverteringskod för Java för MHTML-format till TSV-fil. Programmerare kan använda den här exempelkoden för att exportera Excel- och OpenOffice-kalkylblad till TSV inom alla webb- eller skrivbordsbaserade Javaapplikationer.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

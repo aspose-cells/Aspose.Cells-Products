@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLSB-bestanden splitsen via .NET 
 weight: 7370
-url: /nl/net/splitter/xlsb/ 
+
 description: C# broncode om XLSB-documenten te splitsen op .NET Framework, .NET Core, Mono of Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

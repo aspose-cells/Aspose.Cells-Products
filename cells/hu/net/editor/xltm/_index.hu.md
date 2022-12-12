@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLTM-fájlok szerkesztése a következőn keresztül: .NET "
-url: /hu/net/editor/xltm/ 
+
 description: C# forráskód az XLTM-dokumentum szerkesztéséhez .NET Framework, .NET Core, Windows Azure, Mono vagy Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

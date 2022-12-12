@@ -1,6 +1,6 @@
-﻿---
+---
 title: MHTML को Python के माध्यम से ODS में बदलें
-url: /hi/python-java/conversion/mhtml-to-ods/
+
 description: mhtml से ods Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन में बैच एमएचटीएमएल फाइलों से ऑड्स रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

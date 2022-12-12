@@ -1,6 +1,6 @@
-﻿---
+---
 title: Java के माध्यम से ODS को MD में बदलें 
-url: /hi/java/conversion/ods-to-md/ 
+
 description: एमडी फ़ाइल में ओडीएस प्रारूप के लिए नमूना Java रूपांतरण कोड। प्रोग्रामर इस उदाहरण कोड का उपयोग किसी भी वेब या डेस्कटॉप Java आधारित एप्लिकेशन में एमडी को एक्सेल और ओपनऑफिस स्प्रेडशीट निर्यात करने के लिए कर सकते हैं।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

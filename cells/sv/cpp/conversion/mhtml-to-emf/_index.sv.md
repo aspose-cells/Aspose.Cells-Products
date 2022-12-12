@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertera MHTML till EMF via applikationen C++ 
 weight: 2140
-url: /sv/cpp/conversion/mhtml-to-emf/ 
+
 description: Exempel C++-konverteringskod för MHTML-dokument till EMF-format. Programmerare kan använda den här källkoden för batchkonvertering av MHTML till EMF inom alla C++-program.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

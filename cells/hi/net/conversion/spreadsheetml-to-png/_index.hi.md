@@ -1,6 +1,6 @@
-﻿---
+---
 title: PREADSHEETML को C# के माध्यम से PNG में बदलें
-url: /hi/net/conversion/spreadsheetml-to-png/
+
 description: स्प्रैडशीटएमएल से पीएनजी C# रूपांतरण के लिए नमूना कोड। VB.NET, Asp.NET या किसी भी .NET आधारित एप्लिकेशन के भीतर png रूपांतरण के लिए बैच स्प्रेडशीटएमएल फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

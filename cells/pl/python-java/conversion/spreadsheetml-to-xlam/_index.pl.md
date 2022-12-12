@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj SPREADSHEETML na XLAM przez Python
-url: /pl/python-java/conversion/spreadsheetml-to-xlam/
+
 description: Przykładowy kod konwersji arkusz kalkulacyjny ml na xlam Python. Użyj przykładowego kodu API dla wsadowych plików arkusza kalkulacyjnego w celu konwersji xlam w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to XLAM via Java 
-url: /java/conversion/mhtml-to-xlam/
+
 description: Convert MHTML to XLAM format in Java code. Save MHTML as XLAM using Java.
 ---
 

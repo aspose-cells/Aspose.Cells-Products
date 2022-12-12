@@ -1,7 +1,7 @@
-﻿---
+---
 title: Mesclar arquivos XLS via .NET 
 weight: 3000
-url: /pt/net/merger/xls/ 
+
 description: C# código-fonte para combinar documentos XLS em plataformas .NET Framework, .NET Core, Mono ou Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

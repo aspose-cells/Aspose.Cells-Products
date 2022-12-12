@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi XLS sang XPS qua C#
-url: /vi/net/conversion/xls-to-xps/
+
 description: Mã mẫu cho chuyển đổi xls sang xps C#. Sử dụng API mã mẫu cho hàng loạt tệp xls sang chuyển đổi xps trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

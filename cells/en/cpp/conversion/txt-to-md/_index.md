@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to MD via C++
-url: /cpp/conversion/txt-to-md/
+
 description: Convert TXT to MD format in C++ code. Save TXT as MD using C++.
 ---
 

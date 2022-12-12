@@ -1,6 +1,6 @@
-﻿---
+---
 title: ODS'yi Python aracılığıyla TSV'ye dönüştürün
-url: /tr/python-java/conversion/ods-to-tsv/
+
 description: ods'den tsv'ye Python dönüştürme için örnek kod. Python uygulamasında toplu ods dosyalarından tsv'ye dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

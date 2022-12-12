@@ -1,6 +1,6 @@
-﻿---
+---
 title: Erstellen Sie 3D-Liniendiagramme über C#
-url: /de/net/create-line3d-chart/
+
 description: C# Beispielcode zum Erstellen von 3D-Liniendiagrammen in Excel mithilfe der .NET-Bibliothek. Verwenden Sie diesen Code zum Erstellen eines 3D-Liniendiagramms in MS Excel in VB.NET, Asp.NET oder einer beliebigen .NET-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

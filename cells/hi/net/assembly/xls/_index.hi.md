@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLS फ़ाइलों में .NET के माध्यम से रिपोर्ट जेनरेट करें 
 weight: 1700
-url: /hi/net/assembly/xls/ 
+
 description: .NET Framework, .NET Core, Mono या Xamarin प्लेटफॉर्म पर XLS प्रारूप रिपोर्ट जेनरेट करने के लिए C# स्रोत कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

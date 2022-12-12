@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie XLTX in TABDELIMITED über C#
-url: /de/net/conversion/xltx-to-tabdelimited/
+
 description: Beispielcode für die Umwandlung von xltx in tabulatorgetrennte C#. Verwenden Sie API Beispielcode für Batch-xltx-Dateien in tabulatorgetrennte Konvertierung in VB.NET, Asp.NET oder einer beliebigen .NET-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

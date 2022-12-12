@@ -1,7 +1,7 @@
 ---
 title: View XLS File Formats via .NET 
 weight: 1260
-url: /net/viewer/xls/ 
+
 description: C# source code to load, render and display XLS documents on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

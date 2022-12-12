@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通过 C++ 应用程序将 XLS 转换为 PNG 
 weight: 80
-url: /zh/cpp/conversion/xls-to-png/ 
+
 description: XLS 文档到 PNG 格式的示例 C++ 转换代码。程序员可以在任何 C++ 应用程序中使用此源代码进行批量 XLS 到 PNG 的转换。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

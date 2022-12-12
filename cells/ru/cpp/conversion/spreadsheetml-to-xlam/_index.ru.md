@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование SPREADSHEETML в XLAM с помощью приложения C++ 
-url: /ru/cpp/conversion/spreadsheetml-to-xlam/ 
+
 description: Пример кода преобразования C++ для документа SPREADSHEETML в формат XLAM. Программисты могут использовать этот исходный код для пакетного преобразования SPREADSHEETML в XLAM в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

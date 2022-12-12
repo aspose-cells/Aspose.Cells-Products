@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLSB दस्तावेज़ में C++ के माध्यम से टेक्स्ट खोजें और बदलें 
 weight: 6660
-url: /hi/cpp/redaction/xlsb/ 
+
 description: C++ विंडोज 32 बिट, विंडोज 64 बिट और लिनक्स 64 बिट के लिए C++ रनटाइम एनवायरनमेंट पर एक्सएलएसबी फ़ाइल में संवेदनशील जानकारी को संशोधित करने के लिए उदाहरण कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

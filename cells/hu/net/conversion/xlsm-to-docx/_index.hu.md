@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLSM konvertálása DOCX-re a következőn keresztül: C#"
-url: /hu/net/conversion/xlsm-to-docx/
+
 description: Mintakód az xlsm–docx C# konverzióhoz. Használjon API példakódot kötegelt xlsm fájlok docx konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

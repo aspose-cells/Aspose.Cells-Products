@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to PNG via Python
-url: /python-java/conversion/sxc-to-png/
+
 description: Convert SXC to PNG format in Python code. Save SXC as PNG using Python.
 ---
 

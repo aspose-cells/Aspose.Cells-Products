@@ -1,7 +1,7 @@
-﻿---
+---
 title: دمج ملفات XLSX عبر .NET 
 weight: 8290
-url: /ar/net/merger/xlsx/ 
+
 description: C# شفرة المصدر لدمج مستندات XLSX في .NET Framework أو .NET Core أو Mono أو أنظمة Xamarin الأساسية.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

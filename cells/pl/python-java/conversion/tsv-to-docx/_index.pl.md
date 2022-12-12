@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj TSV na DOCX przez Python
-url: /pl/python-java/conversion/tsv-to-docx/
+
 description: Przykładowy kod konwersji tsv do docx Python. Użyj przykładowego kodu API dla plików wsadowych tsv do konwersji docx w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

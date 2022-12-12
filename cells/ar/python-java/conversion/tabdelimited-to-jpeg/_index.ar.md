@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TABDELIMITED إلى JPEG عبر Python
-url: /ar/python-java/conversion/tabdelimited-to-jpeg/
+
 description: نموذج رمز لجدولة محدودية لتحويل Python jpeg. استخدم API رمز المثال للملفات المحددة بعلامات جدولة مجمعة لتحويل jpeg داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

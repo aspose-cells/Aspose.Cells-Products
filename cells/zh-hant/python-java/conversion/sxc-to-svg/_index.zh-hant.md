@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 Python 將 SXC 轉換為 SVG
-url: /zh-hant/python-java/conversion/sxc-to-svg/
+
 description: sxc 到 svg Python 轉換的示例代碼。使用 Python 應用程序中批量 sxc 文件到 svg 轉換的 API 示例代碼。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

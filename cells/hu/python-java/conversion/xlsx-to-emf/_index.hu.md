@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLSX konvertálása EMF-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/xlsx-to-emf/
+
 description: Mintakód az xlsx–emf Python konverzióhoz. Használjon API példakódot kötegelt xlsx fájlokhoz az EMF konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

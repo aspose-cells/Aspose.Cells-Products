@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή NUMBERS σε MARKDOWN μέσω Python
-url: /el/python-java/conversion/numbers-to-markdown/
+
 description: Δείγμα κωδικού για αριθμούς για τη σήμανση Python μετατροπής. Χρησιμοποιήστε API παράδειγμα κώδικα για αρχεία αριθμών παρτίδας για να σημειώσετε τη μετατροπή εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

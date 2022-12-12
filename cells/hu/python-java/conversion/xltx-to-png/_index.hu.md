@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLTX konvertálása PNG-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/xltx-to-png/
+
 description: Mintakód xltx-ből png-be Python. Használjon API példakódot kötegelt xltx fájlok png konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

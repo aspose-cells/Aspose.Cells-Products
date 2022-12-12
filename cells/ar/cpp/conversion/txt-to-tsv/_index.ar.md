@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TXT إلى TSV عبر تطبيق C++ 
-url: /ar/cpp/conversion/txt-to-tsv/ 
+
 description: نموذج C++ رمز التحويل لمستند TXT إلى تنسيق TSV. يمكن للمبرمجين استخدام رمز المصدر هذا لتحويل دفعة TXT إلى TSV داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

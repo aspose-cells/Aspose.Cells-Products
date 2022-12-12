@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NETを介してXLSMファイルのメタデータを表示または編集する 
 weight: 5590
-url: /ja/net/metadata/xlsm/ 
+
 description: .NETフレームワーク、.NETコア、Mono、またはXamarinプラットフォームでXLSM形式のメタデータを編集または表示するためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

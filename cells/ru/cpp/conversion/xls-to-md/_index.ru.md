@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLS в MD с помощью приложения C++ 
-url: /ru/cpp/conversion/xls-to-md/ 
+
 description: Пример кода преобразования C++ для документа XLS в формат MD. Программисты могут использовать этот исходный код для пакетного преобразования XLS в MD в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

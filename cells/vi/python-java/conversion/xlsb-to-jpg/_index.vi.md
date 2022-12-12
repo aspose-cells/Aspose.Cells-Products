@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi XLSB sang JPG qua Python
-url: /vi/python-java/conversion/xlsb-to-jpg/
+
 description: Mã mẫu cho chuyển đổi xlsb sang jpg Python. Sử dụng API mã mẫu cho hàng loạt tệp xlsb sang chuyển đổi jpg trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

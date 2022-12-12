@@ -1,7 +1,7 @@
-﻿---
+---
 title: Gabungkan File HTML melalui .NET 
 weight: 9440
-url: /id/net/merger/html/ 
+
 description: C# kode sumber untuk menggabungkan dokumen HTML pada .NET Framework, .NET Core, Mono atau Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

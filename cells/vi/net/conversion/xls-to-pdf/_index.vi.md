@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển XLS sang PDF qua C#
-url: /vi/net/conversion/xls-to-pdf/
+
 description: Mã mẫu để chuyển đổi xls sang pdf C#. Sử dụng API mã mẫu cho chuyển đổi hàng loạt tệp xls sang pdf trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

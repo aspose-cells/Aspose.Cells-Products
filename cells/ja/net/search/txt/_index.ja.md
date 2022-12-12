@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NETを介して開かずにTXTドキュメントを検索する 
 weight: 8410
-url: /ja/net/search/txt/ 
+
 description: .NETフレームワーク、.NETコア、Mono、またはXamarinプラットフォーム上のTXTファイル内のパターンを持つ単語を検索するためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

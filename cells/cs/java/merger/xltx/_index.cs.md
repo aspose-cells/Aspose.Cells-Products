@@ -1,7 +1,7 @@
-﻿---
+---
 title: Sloučit soubory XLTX přes Java 
 weight: 680
-url: /cs/java/merger/xltx/ 
+
 description: Java ukázkový kód pro kombinaci dokumentů XLTX v Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

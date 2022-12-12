@@ -1,7 +1,7 @@
-﻿---
+---
 title: ODS-Dokument über C++ schützen und sperren 
 weight: 10010
-url: /de/cpp/protect/ods/ 
+
 description: C++ Beispielcode zum Sperren der ODS-Datei mit Passwort auf C++ Runtime Environment für Windows 32 Bit, Windows 64 Bit und Linux 64 Bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

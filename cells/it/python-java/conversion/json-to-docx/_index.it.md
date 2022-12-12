@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converti JSON in DOCX tramite Python
-url: /it/python-java/conversion/json-to-docx/
+
 description: Codice di esempio per la conversione da json a docx Python. Usa API codice di esempio per la conversione batch di file json in docx all'interno dell'applicazione Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

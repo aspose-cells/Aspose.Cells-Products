@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla CSV'yi TIFF'ye dönüştürün
-url: /tr/net/conversion/csv-to-tiff/
+
 description: csv'den tiff'e C# dönüşümü için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde dönüşüm tiff için toplu csv dosyaları için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

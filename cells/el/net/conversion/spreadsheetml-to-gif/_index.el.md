@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή SPREADSHEETML σε GIF μέσω C#
-url: /el/net/conversion/spreadsheetml-to-gif/
+
 description: Δείγμα κώδικα για τη μετατροπή υπολογιστικού φύλλου ml σε gif C#. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία υπολογιστικού φύλλου ml για μετατροπή gif εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

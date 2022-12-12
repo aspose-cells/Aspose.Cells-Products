@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to BMP via C#
-url: /net/conversion/xlt-to-bmp/
+
 description: Convert XLT to BMP format in C# code. Save XLT as BMP using VB.NET, Asp.NET or any .NET based application.
 ---
 

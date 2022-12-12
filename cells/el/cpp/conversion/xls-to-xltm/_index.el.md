@@ -1,7 +1,7 @@
-﻿---
+---
 title: Μετατρέψτε το XLS σε XLTM μέσω της εφαρμογής C++ 
 weight: 2890
-url: /el/cpp/conversion/xls-to-xltm/ 
+
 description: Δείγμα κώδικα μετατροπής C++ για έγγραφο XLS σε μορφή XLTM. Οι προγραμματιστές μπορούν να χρησιμοποιήσουν αυτόν τον πηγαίο κώδικα για μαζική μετατροπή XLS σε XLTM σε οποιαδήποτε εφαρμογή C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

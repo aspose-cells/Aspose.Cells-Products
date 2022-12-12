@@ -1,6 +1,6 @@
-﻿---
+---
 title: Cree gráficos de acciones de cierre alto-bajo a través de C#
-url: /es/net/create-stockhighlowclose-chart/
+
 description: C# Código de ejemplo para crear gráficos de cotizaciones de máximos mínimos en Excel mediante la biblioteca .NET. Utilice este código para crear un gráfico de cotizaciones alto-bajo-cierre en MS Excel dentro de VB.NET, Asp.NET o cualquier aplicación basada en .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

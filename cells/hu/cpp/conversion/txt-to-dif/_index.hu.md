@@ -1,6 +1,6 @@
-﻿---
+---
 title: A TXT konvertálása DIF-re a C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/txt-to-dif/ 
+
 description: Minta C++ konverziós kód a TXT dokumentumhoz DIF formátumba. A programozók ezt a forráskódot használhatják kötegelt TXT-DIF-konverzióhoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

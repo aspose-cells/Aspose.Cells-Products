@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 Python 将 NUMBERS 转换为 SPREADSHEETML
-url: /zh/python-java/conversion/numbers-to-spreadsheetml/
+
 description: 数字到电子表格Python 转换的示例代码。在 Python 应用程序中使用 API 示例代码将批号文件转换为电子表格。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

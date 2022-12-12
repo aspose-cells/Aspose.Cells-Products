@@ -1,6 +1,6 @@
-﻿---
+---
 title: Tạo Tệp TSV qua C++ 
-url: /vi/cpp/create-tsv/ 
+
 description: C++ Mã mẫu để tạo tệp TSV. Sử dụng mã này để tạo tệp TSV trong ứng dụng dựa trên C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

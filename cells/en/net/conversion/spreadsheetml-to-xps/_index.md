@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to XPS via C#
-url: /net/conversion/spreadsheetml-to-xps/
+
 description: Convert SPREADSHEETML to XPS format in C# code. Save SPREADSHEETML as XPS using VB.NET, Asp.NET or any .NET based application.
 ---
 

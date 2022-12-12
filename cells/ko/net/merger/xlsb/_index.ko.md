@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET를 통해 XLSB 파일 병합 
 weight: 2970
-url: /ko/net/merger/xlsb/ 
+
 description: C# 소스 코드는 .NET Framework, .NET Core, Mono 또는 Xamarin Platforms에서 XLSB 문서를 결합합니다.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

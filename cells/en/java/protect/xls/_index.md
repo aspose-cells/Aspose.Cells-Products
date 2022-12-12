@@ -1,7 +1,7 @@
 ---
 title: Protect and lock XLS document via Java 
 weight: 5070
-url: /java/protect/xls/ 
+
 description: Java sample code to lock XLS file using password on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++ uygulaması aracılığıyla JSON'u GIF'e dönüştürün 
-url: /tr/cpp/conversion/json-to-gif/ 
+
 description: JSON belgesi için GIF biçimine örnek C++ dönüştürme kodu. Programcılar, herhangi bir C++ Uygulamasında toplu JSON'dan GIF'e dönüştürme için bu kaynak kodunu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

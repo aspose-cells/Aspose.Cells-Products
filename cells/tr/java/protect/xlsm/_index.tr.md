@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLSM belgesini Java aracılığıyla koruyun ve kilitleyin 
 weight: 9620
-url: /tr/java/protect/xlsm/ 
+
 description: JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Runtime Environment'da parola kullanarak XLSM dosyasını kilitlemek için Java örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLTX Dosya Biçimlerini .NET üzerinden görüntüleyin 
 weight: 7870
-url: /tr/net/viewer/xltx/ 
+
 description: XLTX belgelerini .NET Framework, .NET Core, Mono veya Xamarin Platformlarında yüklemek, oluşturmak ve görüntülemek için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

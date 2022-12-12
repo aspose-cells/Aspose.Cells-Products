@@ -1,6 +1,6 @@
-﻿---
+---
 title: Excel-filkommentarer via Java
-url: /sv/java/annotation/
+
 description: Lägg till eller ta bort datakommentarer för Excel- och OpenOffice-kalkylblad med Java-biblioteket.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Διαχωρισμός αρχείων ODS μέσω .NET 
 weight: 140
-url: /el/net/splitter/ods/ 
+
 description: C# πηγαίος κώδικας για διαχωρισμό εγγράφων ODS σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

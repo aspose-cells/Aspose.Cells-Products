@@ -1,7 +1,7 @@
-﻿---
+---
 title: Splits ODS-bestanden via .NET 
 weight: 140
-url: /nl/net/splitter/ods/ 
+
 description: C# broncode om ODS-documenten te splitsen op .NET Framework-, .NET Core-, Mono- of Xamarin-platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

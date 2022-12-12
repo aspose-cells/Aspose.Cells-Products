@@ -1,6 +1,6 @@
-﻿---
+---
 title: FODS über Python in TSV umwandeln
-url: /de/python-java/conversion/fods-to-tsv/
+
 description: Beispielcode für die Umwandlung von fods in tsv Python. Verwenden Sie den API Beispielcode für die Batch-Konvertierung von fods-Dateien in tsv innerhalb der Anwendung Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

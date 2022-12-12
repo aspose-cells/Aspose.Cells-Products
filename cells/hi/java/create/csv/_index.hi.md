@@ -1,6 +1,6 @@
-﻿---
+---
 title: Java के माध्यम से CSV फ़ाइलें बनाएं 
-url: /hi/java/create-csv/ 
+
 description: Java CSV दस्तावेज़ जनरेट करने के लिए नमूना कोड। Java आधारित डेस्कटॉप या वेब एप्लिकेशन में CSV फ़ाइलें बनाने के लिए इस कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

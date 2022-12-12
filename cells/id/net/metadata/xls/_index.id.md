@@ -1,7 +1,7 @@
-﻿---
+---
 title: Lihat atau Edit Metadata File XLS melalui .NET 
 weight: 1410
-url: /id/net/metadata/xls/ 
+
 description: C# kode sumber untuk mengedit atau melihat metadata format XLS pada Platform .NET Framework, .NET Core, Mono atau Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

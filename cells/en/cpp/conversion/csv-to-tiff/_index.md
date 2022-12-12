@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to TIFF via C++
-url: /cpp/conversion/csv-to-tiff/
+
 description: Convert CSV to TIFF format in C++ code. Save CSV as TIFF using C++.
 ---
 

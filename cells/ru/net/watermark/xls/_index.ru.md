@@ -1,7 +1,7 @@
-﻿---
+---
 title: Документ XLS с водяным знаком через .NET 
 weight: 3050
-url: /ru/net/watermark/xls/ 
+
 description: Исходный код C# для добавления или удаления водяного знака в файле XLS на платформах .NET Framework, .NET Core, Mono или Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

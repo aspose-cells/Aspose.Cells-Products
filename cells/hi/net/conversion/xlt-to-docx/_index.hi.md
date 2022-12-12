@@ -1,6 +1,6 @@
-﻿---
+---
 title: XLT को DOCX में C# के माध्यम से परिवर्तित करें
-url: /hi/net/conversion/xlt-to-docx/
+
 description: xlt से docx C# रूपांतरण के लिए नमूना कोड। VB.NET, Asp.NET या किसी .NET आधारित एप्लिकेशन में बैच xlt फ़ाइलों से docx रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

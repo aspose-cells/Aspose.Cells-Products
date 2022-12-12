@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertieren Sie TSV in GIF über die Anwendung C++ 
 weight: 9540
-url: /de/cpp/conversion/tsv-to-gif/ 
+
 description: Beispiel-Umwandlungscode C++ für das TSV-Dokument in das GIF-Format. Programmierer können diesen Quellcode für die Batch-Konvertierung von TSV in GIF in jeder C++-Anwendung verwenden.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

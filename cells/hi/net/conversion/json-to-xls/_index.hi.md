@@ -1,6 +1,6 @@
-﻿---
+---
 title: JSON को C# के माध्यम से XLS में कनवर्ट करें
-url: /hi/net/conversion/json-to-xls/
+
 description: json से xls C# रूपांतरण के लिए नमूना कोड। VB.NET, Asp.NET या किसी .NET आधारित एप्लिकेशन में बैच json फ़ाइलों से xls रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

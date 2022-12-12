@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل الأرقام إلى MARKDOWN عبر Python
-url: /ar/python-java/conversion/numbers-to-markdown/
+
 description: نموذج رمز للأرقام المخصّصة لتحويل Python. استخدم API رمز المثال لملفات أرقام الدُفعات لتحديد التحويل داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

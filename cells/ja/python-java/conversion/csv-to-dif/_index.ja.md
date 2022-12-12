@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python経由でCSVをDIFに変換
-url: /ja/python-java/conversion/csv-to-dif/
+
 description: csvからdifPythonへの変換のサンプルコード。 Pythonアプリケーション内で変換を行うためのバッチcsvファイルのAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

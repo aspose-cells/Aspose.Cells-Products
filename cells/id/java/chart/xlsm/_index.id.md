@@ -1,7 +1,7 @@
-﻿---
+---
 title: Bagan dokumen XLSM melalui Java 
 weight: 3020
-url: /id/java/chart/xlsm/ 
+
 description: Java contoh kode untuk menggambar dan mengonversi bagan atau diagram dalam file XLSM di Java Runtime Environment untuk Aplikasi JSP/JSF dan Aplikasi Desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

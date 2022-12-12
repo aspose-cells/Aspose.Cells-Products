@@ -1,6 +1,6 @@
-﻿---
+---
 title: Mesclar arquivos MHTML por meio de C++ 
-url: /pt/cpp/merger/mhtml/ 
+
 description: C++ código de exemplo para combinar documentos MHTML em C++ Runtime Environment para Windows de 32 bits, Windows de 64 bits e Linux de 64 bits.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

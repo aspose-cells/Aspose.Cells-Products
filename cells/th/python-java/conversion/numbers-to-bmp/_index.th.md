@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง NUMBERS เป็น BMP ผ่าน Python
-url: /th/python-java/conversion/numbers-to-bmp/
+
 description: โค้ดตัวอย่างสำหรับการแปลงตัวเลขเป็น bmp Python ใช้โค้ดตัวอย่าง API สำหรับไฟล์หมายเลขแบทช์เป็นการแปลง bmp ภายในแอปพลิเคชัน Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

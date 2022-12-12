@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja a JSON-t SVG-vé a(z) C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/json-to-svg/ 
+
 description: Minta C++ konverziós kód a JSON-dokumentumhoz SVG formátumba. A programozók ezt a forráskódot használhatják a JSON-ból SVG-be történő kötegelt konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi TSV ke XLAM melalui C++ aplikasi 
-url: /id/cpp/conversion/tsv-to-xlam/ 
+
 description: Contoh C++ kode konversi untuk dokumen TSV ke format XLAM. Pemrogram dapat menggunakan kode sumber ini untuk konversi batch TSV ke XLAM dalam Aplikasi C++ apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

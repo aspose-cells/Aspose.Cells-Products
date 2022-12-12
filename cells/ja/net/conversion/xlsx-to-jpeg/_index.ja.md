@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してXLSXをJPEGに変換します
-url: /ja/net/conversion/xlsx-to-jpeg/
+
 description: xlsxからjpegC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチxlsxファイルからjpegへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

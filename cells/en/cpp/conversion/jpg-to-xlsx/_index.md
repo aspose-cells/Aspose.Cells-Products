@@ -1,6 +1,6 @@
 ---
 title: Convert JPG to XLSX via C++
-url: /cpp/conversion/jpg-to-xlsx/
+
 description: Convert JPG to XLSX format in C++ code. Save JPG as XLSX using C++.
 ---
 

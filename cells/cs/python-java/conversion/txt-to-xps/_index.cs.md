@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TXT na XPS přes Python
-url: /cs/python-java/conversion/txt-to-xps/
+
 description: Ukázkový kód pro převod txt na xps Python. Použijte API ukázkový kód pro dávkový převod souborů txt na xps v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

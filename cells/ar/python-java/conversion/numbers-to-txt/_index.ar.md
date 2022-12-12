@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل NUMBERS إلى TXT عبر Python
-url: /ar/python-java/conversion/numbers-to-txt/
+
 description: نموذج رمز للأرقام لتحويل Python النص. استخدم API رمز المثال لملفات أرقام الدُفعات لتحويل النص ضمن تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

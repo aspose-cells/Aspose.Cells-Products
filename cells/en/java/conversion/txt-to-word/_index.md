@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to WORD via Java 
-url: /java/conversion/txt-to-word/
+
 description: Convert TXT to WORD format in Java code. Save TXT as WORD using Java.
 ---
 

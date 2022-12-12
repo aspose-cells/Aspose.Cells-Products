@@ -1,7 +1,7 @@
-﻿---
+---
 title: Tách tệp XLSB qua .NET 
 weight: 7370
-url: /vi/net/splitter/xlsb/ 
+
 description: C# mã nguồn để tách các tài liệu XLSB trên Nền tảng .NET Framework, .NET Core Mono hoặc Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

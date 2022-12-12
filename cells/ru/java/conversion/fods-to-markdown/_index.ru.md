@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование FODS в MARKDOWN через Java 
-url: /ru/java/conversion/fods-to-markdown/ 
+
 description: Пример кода преобразования Java для формата FODS в файл MARKDOWN. Программисты могут использовать этот пример кода для экспорта электронных таблиц Excel и OpenOffice в формат MARKDOWN в любом веб- или настольном Java приложении.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ 애플리케이션을 통해 XLS를 XLSB로 변환 
 weight: 9080
-url: /ko/cpp/conversion/xls-to-xlsb/ 
+
 description: XLS 문서를 XLSB 형식으로 변환하는 샘플 C++ 변환 코드. 프로그래머는 모든 C++ 애플리케이션 내에서 배치 XLS에서 XLSB로의 변환을 위해 이 소스 코드를 사용할 수 있습니다.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

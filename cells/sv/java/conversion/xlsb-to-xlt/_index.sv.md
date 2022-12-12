@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertera XLSB till XLT via Java 
 weight: 9190
-url: /sv/java/conversion/xlsb-to-xlt/ 
+
 description: Exempel Java-konverteringskod för XLSB-format till XLT-fil. Programmerare kan använda den här exempelkoden för att exportera Excel- och OpenOffice-kalkylblad till XLT inom alla webb- eller skrivbordsbaserade Java-applikationer.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

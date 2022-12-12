@@ -1,7 +1,7 @@
-﻿---
+---
 title: Suchen und ersetzen Sie Text im ODS-Dokument über .NET 
 weight: 6100
-url: /de/net/redaction/ods/ 
+
 description: C#-Quellcode zum Schwärzen vertraulicher Informationen in der ODS-Datei auf .NET Framework-, .NET Core-, Mono- oder Xamarin-Plattformen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

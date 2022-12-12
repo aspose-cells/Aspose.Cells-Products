@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie FODS in MD über Python
-url: /de/python-java/conversion/fods-to-md/
+
 description: Beispielcode für die Umwandlung von fods in md Python. Verwenden Sie API Beispielcode für die Batch-Konvertierung von FOD-Dateien in MD innerhalb der Anwendung Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

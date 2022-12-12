@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést NUMBERS na TSV prostřednictvím C#
-url: /cs/net/conversion/numbers-to-tsv/
+
 description: Ukázkový kód pro převod čísel na tsv C#. Použijte API ukázkový kód pro dávkové soubory čísel na převod tsv v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

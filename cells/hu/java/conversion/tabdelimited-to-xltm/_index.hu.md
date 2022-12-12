@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TABDELIMITED konvertálása XLTM-re a következőn keresztül: Java "
-url: /hu/java/conversion/tabdelimited-to-xltm/ 
+
 description: Minta Java konverziós kód a TABDELIMITED formátumhoz XLTM fájllá. A programozók ezt a példakódot használhatják Excel- és OpenOffice-táblázatok XLTM-be exportálására bármely web- vagy asztali Java-alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

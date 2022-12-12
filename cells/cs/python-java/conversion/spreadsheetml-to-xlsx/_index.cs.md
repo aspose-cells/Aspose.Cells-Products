@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést SPREADSHEETML na XLSX přes Python
-url: /cs/python-java/conversion/spreadsheetml-to-xlsx/
+
 description: Ukázkový kód pro převod tabulkyml na xlsx Python. Použijte API ukázkový kód pro dávkový převod tabulkových souborů ml na xlsx v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

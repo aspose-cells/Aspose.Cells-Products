@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLTM konvertálása TSV-vé a következőn keresztül: Python"
-url: /hu/python-java/conversion/xltm-to-tsv/
+
 description: Mintakód az xltm–tsv Python konverzióhoz. Használjon API példakódot a kötegelt xltm fájlok tsv konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

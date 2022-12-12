@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi XLT ke DIF melalui C++ aplikasi 
-url: /id/cpp/conversion/xlt-to-dif/ 
+
 description: Contoh C++ kode konversi untuk dokumen XLT ke format DIF. Pemrogram dapat menggunakan kode sumber ini untuk konversi batch XLT ke DIF dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

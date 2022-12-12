@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ एप्लिकेशन के माध्यम से CSV को SVG में बदलें 
 weight: 1710
-url: /hi/cpp/conversion/csv-to-svg/ 
+
 description: नमूना C++ सीएसवी दस्तावेज़ के लिए एसवीजी प्रारूप में रूपांतरण कोड। प्रोग्रामर इस स्रोत कोड का उपयोग किसी भी C++ एप्लिकेशन के भीतर सीएसवी से एसवीजी रूपांतरण के बैच के लिए कर सकते हैं।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

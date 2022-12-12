@@ -1,6 +1,6 @@
-﻿---
+---
 title: Wandeln Sie SPREADSHEETML in DIF über Java um 
-url: /de/java/conversion/spreadsheetml-to-dif/ 
+
 description: Beispiel-Umwandlungscode Java für das SPREADSHEETML-Format in eine DIF-Datei. Programmierer können diesen Beispielcode verwenden, um Excel- und OpenOffice-Tabellen in DIF innerhalb einer beliebigen Web- oder Desktop-Java-basierten Anwendung zu exportieren.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

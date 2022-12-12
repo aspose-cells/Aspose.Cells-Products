@@ -1,6 +1,6 @@
-﻿---
+---
 title: "EXCEL konvertálása JPG-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/excel-to-jpg/
+
 description: Mintakód az excelből jpg-be Python konvertáláshoz. Használjon API példakódot az Excel fájlok kötegelt jpg konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to TIFF via Python
-url: /python-net/conversion/json-to-tiff/
+
 description: Sample code for json to tiff Python conversion. Use API example code for batch json files to tiff conversion within Python application.
 ---
 

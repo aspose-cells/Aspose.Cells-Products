@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést JSON na XLT přes C#
-url: /cs/net/conversion/json-to-xlt/
+
 description: Ukázkový kód pro převod json na xlt C#. Použijte API ukázkový kód pro dávkové soubory json ke konverzi xlt v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

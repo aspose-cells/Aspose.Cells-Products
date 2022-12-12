@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi XLSM ke XML melalui Python
-url: /id/python-java/conversion/xlsm-to-xml/
+
 description: Contoh kode untuk xlsm ke xml Python konversi. Gunakan API kode contoh untuk file batch xlsm ke konversi xml dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

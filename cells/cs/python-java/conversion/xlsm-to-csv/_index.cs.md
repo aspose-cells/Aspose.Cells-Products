@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLSM na CSV přes Python
-url: /cs/python-java/conversion/xlsm-to-csv/
+
 description: Ukázkový kód pro převod xlsm na csv Python. Použijte API ukázkový kód pro dávkový převod souborů xlsm na csv v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

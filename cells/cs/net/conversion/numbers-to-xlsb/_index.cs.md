@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést NUMBERS na XLSB přes C#
-url: /cs/net/conversion/numbers-to-xlsb/
+
 description: Ukázkový kód pro převod čísel na xlsb C#. Použijte API ukázkový kód pro dávkové soubory čísel na převod xlsb v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

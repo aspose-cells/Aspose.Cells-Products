@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převeďte XLS na CSV pomocí aplikace C++ 
 weight: 8520
-url: /cs/cpp/conversion/xls-to-csv/ 
+
 description: Ukázkový konverzní kód C++ pro dokument XLS na formát CSV. Programátoři mohou tento zdrojový kód použít pro dávkový převod XLS na CSV v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLS Excel-bestandsannotatie toevoegen via C++ 
 weight: 10040
-url: /nl/cpp/annotation/xls/ 
+
 description: C++ voorbeeldcode om annotaties in XLS-indeling toe te voegen en te verwijderen in C++ Runtime Environment voor Windows 32 bit, Windows 64 bit en Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

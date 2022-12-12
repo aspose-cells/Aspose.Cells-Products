@@ -1,7 +1,7 @@
-﻿---
+---
 title: Zeigen Sie XLTM-Dateiformate über .NET an 
 weight: 430
-url: /de/net/viewer/xltm/ 
+
 description: C#-Quellcode zum Laden, Rendern und Anzeigen von XLTM-Dokumenten auf .NET Framework-, .NET Core-, Mono- oder Xamarin-Plattformen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

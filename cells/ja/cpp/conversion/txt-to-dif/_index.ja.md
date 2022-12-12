@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++アプリケーションを介してTXTをDIFに変換します 
-url: /ja/cpp/conversion/txt-to-dif/ 
+
 description: TXTドキュメントからDIF形式へのサンプルC++変換コード。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でTXTからDIFへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++アプリケーションを介してXLSMをMHTMLに変換する 
-url: /ja/cpp/conversion/xlsm-to-mhtml/ 
+
 description: XLSMドキュメントからMHTML形式へのサンプルC++変換コード。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でXLSMからMHTMLへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

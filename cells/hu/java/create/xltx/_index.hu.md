@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Hozzon létre MS Excel XLTX fájlokat a következőn keresztül: Java "
-url: /hu/java/create-xltx/ 
+
 description: Java Mintakód XLTX dokumentumok generálásához. Ezzel a kóddal MS Excel XLTX fájlokat hozhat létre Java alapú asztali vagy webes alkalmazásban.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

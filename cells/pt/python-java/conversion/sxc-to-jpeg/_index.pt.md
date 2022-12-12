@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter SXC para JPEG via Python
-url: /pt/python-java/conversion/sxc-to-jpeg/
+
 description: Código de exemplo para conversão de sxc para jpeg Python. Use API código de exemplo para arquivos sxc em lote para conversão de jpeg no aplicativo Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi CSV sang ODS qua C#
-url: /vi/net/conversion/csv-to-ods/
+
 description: Mã mẫu cho chuyển đổi csv sang ods C#. Sử dụng API mã mẫu cho hàng loạt tệp csv để chuyển đổi ods trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

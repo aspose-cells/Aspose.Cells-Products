@@ -1,6 +1,6 @@
 ---
 title: Convert XLSX to TSV via Java 
-url: /java/conversion/xlsx-to-tsv/
+
 description: Convert XLSX to TSV format in Java code. Save XLSX as TSV using Java.
 ---
 

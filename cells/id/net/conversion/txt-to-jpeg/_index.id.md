@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan TXT ke JPEG melalui C#
-url: /id/net/conversion/txt-to-jpeg/
+
 description: Contoh kode untuk konversi txt ke jpeg C#. Gunakan API kode contoh untuk file txt batch ke konversi jpeg dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

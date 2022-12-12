@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter XLS para TABDELIMITED via Python
-url: /pt/python-java/conversion/xls-to-tabdelimited/
+
 description: Código de amostra para conversão de xls para Python delimitado por tabulação. Use API código de exemplo para arquivos xls em lote para conversão delimitada por tabulação no aplicativo Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

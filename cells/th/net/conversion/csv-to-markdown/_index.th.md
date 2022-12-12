@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง CSV เป็น MARKDOWN ผ่าน C#
-url: /th/net/conversion/csv-to-markdown/
+
 description: โค้ดตัวอย่างสำหรับการแปลง csv เพื่อมาร์กดาวน์ C# ใช้โค้ดตัวอย่าง API สำหรับไฟล์ batch csv เพื่อทำเครื่องหมายการแปลงภายใน VB.NET, Asp.NET หรือแอปพลิเคชันที่ใช้ .NET
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

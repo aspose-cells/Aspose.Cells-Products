@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してNUMBERSをDOCXに変換します
-url: /ja/python-java/conversion/numbers-to-docx/
+
 description: 数値からdocxPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチ番号ファイルからdocxへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

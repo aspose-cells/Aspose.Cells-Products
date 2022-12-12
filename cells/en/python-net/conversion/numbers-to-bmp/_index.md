@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to BMP via Python
-url: /python-net/conversion/numbers-to-bmp/
+
 description: Sample code for numbers to bmp Python conversion. Use API example code for batch numbers files to bmp conversion within Python application.
 ---
 

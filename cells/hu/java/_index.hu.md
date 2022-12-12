@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java Excel API - Aspose 
 weight: 6830
-url: /hu/java/ 
+
 description: Java Excel-könyvtár táblázatkezeléshez. Olvasson írási renderelést, és konvertálja az XLS XLSX XLSM ODS CSV TSV-t és további formátumokat. Kompatibilis a Windows Linux és Unix rendszerekkel
 ---
 {{< blocks/products/pf/main-wrap-class >}}

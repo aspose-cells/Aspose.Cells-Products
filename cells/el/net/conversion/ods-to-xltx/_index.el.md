@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή ODS σε XLTX μέσω C#
-url: /el/net/conversion/ods-to-xltx/
+
 description: Δείγμα κώδικα για μετατροπή ods σε xltx C#. Χρησιμοποιήστε API παράδειγμα κώδικα για αρχεία παρτίδας ods σε μετατροπή xltx εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

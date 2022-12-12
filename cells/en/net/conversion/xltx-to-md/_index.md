@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to MD via C#
-url: /net/conversion/xltx-to-md/
+
 description: Convert XLTX to MD format in C# code. Save XLTX as MD using VB.NET, Asp.NET or any .NET based application.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta FODS en MARKDOWN a través de Python
-url: /es/python-java/conversion/fods-to-markdown/
+
 description: Código de ejemplo para conversión de alimentos a rebajas Python. Use el código de ejemplo API para archivos de alimentos por lotes para reducir la conversión dentro de la aplicación Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

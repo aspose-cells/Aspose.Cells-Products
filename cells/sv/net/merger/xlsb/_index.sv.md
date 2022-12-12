@@ -1,7 +1,7 @@
-﻿---
+---
 title: Slå samman XLSB-filer via .NET 
 weight: 2970
-url: /sv/net/merger/xlsb/ 
+
 description: C# källkod för att kombinera XLSB-dokument på .NET Framework, .NET Core, Mono eller Xamarin-plattformar.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

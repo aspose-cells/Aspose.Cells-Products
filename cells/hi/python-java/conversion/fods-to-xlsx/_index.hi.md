@@ -1,6 +1,6 @@
-﻿---
+---
 title: FODS को Python के माध्यम से XLSX में बदलें
-url: /hi/python-java/conversion/fods-to-xlsx/
+
 description: खाद्य पदार्थों के लिए नमूना कोड xlsx Python रूपांतरण के लिए। Python एप्लिकेशन के भीतर xlsx रूपांतरण के लिए बैच फोड फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

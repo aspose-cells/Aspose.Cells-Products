@@ -1,6 +1,6 @@
-﻿---
+---
 title: Upravit soubory MHTML prostřednictvím .NET 
-url: /cs/net/editor/mhtml/ 
+
 description: C# zdrojový kód pro úpravu dokumentu MHTML na platformách .NET Framework, .NET Core, Windows Azure, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

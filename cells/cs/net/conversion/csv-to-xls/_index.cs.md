@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést CSV na XLS prostřednictvím C#
-url: /cs/net/conversion/csv-to-xls/
+
 description: Ukázkový kód pro převod csv na xls C#. Použijte API ukázkový kód pro dávkový převod souborů csv na xls v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

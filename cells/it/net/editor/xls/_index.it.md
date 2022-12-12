@@ -1,6 +1,6 @@
-﻿---
+---
 title: Modifica i file XLS tramite .NET 
-url: /it/net/editor/xls/ 
+
 description: C# codice sorgente per modificare il documento XLS su piattaforme .NET Framework, .NET Core, Windows Azure, Mono o Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

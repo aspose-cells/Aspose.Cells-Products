@@ -1,7 +1,7 @@
 ---
 title: Merge XLSX Files via Java 
 weight: 8930
-url: /java/merger/xlsx/ 
+
 description: Java sample code to combine XLSX documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

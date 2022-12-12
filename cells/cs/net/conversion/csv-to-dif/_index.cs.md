@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést CSV na DIF prostřednictvím C#
-url: /cs/net/conversion/csv-to-dif/
+
 description: Ukázkový kód pro převod csv na rozdíl C#. Použijte API ukázkový kód pro dávkové soubory csv pro převod převodu v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

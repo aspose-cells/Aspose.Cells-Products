@@ -1,6 +1,6 @@
-﻿---
+---
 title: Skapa hög-låg-stäng aktiediagram via C#
-url: /sv/net/create-stockhighlowclose-chart/
+
 description: C# Exempelkod för att skapa hög-låg-stäng aktiediagram till Excel med hjälp av .NET Library. Använd den här koden för att skapa ett hög-låg-stängt aktiediagram till MS Excel inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

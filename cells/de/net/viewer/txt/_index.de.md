@@ -1,7 +1,7 @@
-﻿---
+---
 title: Sehen Sie sich TXT-Dateiformate über .NET an 
 weight: 8300
-url: /de/net/viewer/txt/ 
+
 description: C#-Quellcode zum Laden, Rendern und Anzeigen von TXT-Dokumenten auf .NET Framework-, .NET Core-, Mono- oder Xamarin-Plattformen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

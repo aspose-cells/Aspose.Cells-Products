@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLT-t BMP-vé a C++ alkalmazással 
-url: /hu/cpp/conversion/xlt-to-bmp/ 
+
 description: Minta C++ konverziós kód XLT dokumentumhoz BMP formátumba. A programozók ezt a forráskódot használhatják az XLT-ből BMP-be kötegelt konvertáláshoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

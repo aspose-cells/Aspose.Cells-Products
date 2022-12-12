@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# üzerinden Radar Grafikleri oluşturun
-url: /tr/net/create-radar-chart/
+
 description: C# .NET Kitaplığı kullanarak Excel'de Radar çizelgeleri oluşturmak için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde MS Excel'e bir Radar grafiği oluşturmak için bu kodu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Mesclar arquivos XLTX via C++ 
-url: /pt/cpp/merger/xltx/ 
+
 description: C++ código de exemplo para combinar documentos XLTX em C++ Runtime Environment para Windows de 32 bits, Windows de 64 bits e Linux de 64 bits.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

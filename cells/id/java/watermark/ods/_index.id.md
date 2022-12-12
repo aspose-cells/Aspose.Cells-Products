@@ -1,7 +1,7 @@
-﻿---
+---
 title: Dokumen ODS tanda air melalui Java 
 weight: 1040
-url: /id/java/watermark/ods/ 
+
 description: Java contoh kode untuk menambah atau menghapus tanda air ke file ODS di Java Runtime Environment untuk Aplikasi JSP/JSF dan Aplikasi Desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "HTML konvertálása XLSM-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/html-to-xlsm/
+
 description: Mintakód a html-ből xlsm-be Python konverzióhoz. Használjon API példakódot a kötegelt html fájlok xlsm konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

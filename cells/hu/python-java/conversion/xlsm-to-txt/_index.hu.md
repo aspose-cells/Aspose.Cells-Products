@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLSM konvertálása TXT-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/xlsm-to-txt/
+
 description: Mintakód az xlsm–txt Python konverzióhoz. Használjon API példakódot a kötegelt xlsm fájlok txt konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

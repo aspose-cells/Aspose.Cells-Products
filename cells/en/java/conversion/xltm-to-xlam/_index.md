@@ -1,6 +1,6 @@
 ---
 title: Convert XLTM to XLAM via Java 
-url: /java/conversion/xltm-to-xlam/
+
 description: Convert XLTM to XLAM format in Java code. Save XLTM as XLAM using Java.
 ---
 

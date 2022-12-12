@@ -1,7 +1,7 @@
-﻿---
+---
 title: Pesquisar documento XLS sem abrir via C++ 
 weight: 4560
-url: /pt/cpp/search/xls/ 
+
 description: C++ código de exemplo para pesquisar palavras com padrão no arquivo XLS em C++ Runtime Environment para Windows 32 bits, Windows 64 bits e Linux 64 bits.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

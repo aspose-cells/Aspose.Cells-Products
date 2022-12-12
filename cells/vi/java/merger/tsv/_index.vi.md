@@ -1,7 +1,7 @@
-﻿---
+---
 title: Hợp nhất các tệp TSV qua Java 
 weight: 9260
-url: /vi/java/merger/tsv/ 
+
 description: Java mã mẫu để kết hợp các tài liệu TSV trên Java Môi trường thời gian chạy cho Ứng dụng JSP / JSF và Ứng dụng trên máy tính để bàn.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

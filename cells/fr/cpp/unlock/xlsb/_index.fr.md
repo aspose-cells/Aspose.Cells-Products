@@ -1,7 +1,7 @@
-﻿---
+---
 title: Déverrouiller le document XLSB via C++ 
 weight: 7420
-url: /fr/cpp/unlock/xlsb/ 
+
 description: C++ Exemple de code pour déverrouiller le fichier XLSB protégé par mot de passe sur C++ Runtime Environment pour Windows 32 bits, Windows 64 bits et Linux 64 bits.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

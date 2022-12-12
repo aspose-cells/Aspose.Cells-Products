@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή XLTX σε XML μέσω εφαρμογής C++ 
-url: /el/cpp/conversion/xltx-to-xml/ 
+
 description: Δείγμα κώδικα μετατροπής C++ για έγγραφο XLTX σε μορφή XML. Οι προγραμματιστές μπορούν να χρησιμοποιήσουν αυτόν τον πηγαίο κώδικα για ομαδική μετατροπή XLTX σε XML σε οποιαδήποτε εφαρμογή C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TABDELIMITED إلى PNG عبر Java 
-url: /ar/java/conversion/tabdelimited-to-png/ 
+
 description: نموذج Java رمز التحويل لتنسيق TABDELIMITED إلى ملف PNG. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel و OpenOffice إلى PNG داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertera ODS till CSV via appen C++ 
 weight: 6200
-url: /sv/cpp/conversion/ods-to-csv/ 
+
 description: Exempel på C++-konverteringskod för ODS-dokument till CSV-format. Programmerare kan använda den här källkoden för batch-konvertering av ODS till CSV inom alla C++-program.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

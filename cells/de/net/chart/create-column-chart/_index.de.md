@@ -1,6 +1,6 @@
-﻿---
+---
 title: Erstellen Sie Säulendiagramme über C#
-url: /de/net/create-column-chart/
+
 description: C# Beispielcode zum Erstellen von Säulendiagrammen in Excel mithilfe der .NET-Bibliothek. Verwenden Sie diesen Code zum Erstellen eines Säulendiagramms für MS Excel in VB.NET, Asp.NET oder einer beliebigen .NET-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

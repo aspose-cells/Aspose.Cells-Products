@@ -1,6 +1,6 @@
-﻿---
+---
 title: Συγχώνευση αρχείων MHT μέσω .NET 
-url: /el/net/merger/mht/ 
+
 description: Δοκιμάστε τα API συγχώνευσης μηνυμάτων On-Premise για να συνδυάσετε έγγραφα MHT σε πλατφόρμες .NET Framework, .NET Core και Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi CSV sang TIFF qua C#
-url: /vi/net/conversion/csv-to-tiff/
+
 description: Mã mẫu cho chuyển đổi csv sang tiff C#. Sử dụng API mã mẫu cho các tệp csv hàng loạt để chuyển đổi trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

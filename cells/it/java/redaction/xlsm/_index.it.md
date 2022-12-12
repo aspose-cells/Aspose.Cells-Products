@@ -1,7 +1,7 @@
-﻿---
+---
 title: Cerca e sostituisci testo nel documento XLSM tramite Java 
 weight: 1590
-url: /it/java/redaction/xlsm/ 
+
 description: Java codice di esempio per oscurare le informazioni riservate nel file XLSM su Java Runtime Environment per applicazioni JSP/JSF e applicazioni desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

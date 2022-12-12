@@ -1,6 +1,6 @@
-﻿---
+---
 title: NUMBERS को Python के माध्यम से PDF में बदलें
-url: /hi/python-java/conversion/numbers-to-pdf/
+
 description: संख्याओं के लिए नमूना कोड pdf Python रूपांतरण में। Python एप्लिकेशन के भीतर बैच नंबर फाइलों को पीडीएफ में बदलने के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

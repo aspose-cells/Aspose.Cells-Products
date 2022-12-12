@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ uygulaması aracılığıyla ODS'yi XLS'ye dönüştürün 
 weight: 2730
-url: /tr/cpp/conversion/ods-to-xls/ 
+
 description: ODS belgesi için XLS biçimine örnek C++ dönüştürme kodu. Programcılar, herhangi bir C++ Uygulamasında toplu ODS'den XLS'ye dönüştürme için bu kaynak kodunu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển FODS sang PDF qua Python
-url: /vi/python-java/conversion/fods-to-pdf/
+
 description: Mã mẫu cho chuyển đổi fods sang pdf Python. Sử dụng mã mẫu API cho các tệp fods hàng loạt sang chuyển đổi pdf trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

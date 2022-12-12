@@ -1,6 +1,6 @@
-﻿---
+---
 title: Anotasi File Excel melalui Java
-url: /id/java/annotation/
+
 description: Tambahkan atau hapus anotasi data spreadsheet Excel dan OpenOffice dengan Java library.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

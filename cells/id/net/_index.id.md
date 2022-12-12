@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET Excel API | Memproses Format Spreadsheet melalui .NET Core 
 weight: 2030
-url: /id/net/ 
+
 description: Pustaka C# ASP.NET VB.NET untuk bekerja dengan dokumen Microsoft Excel. Buat baca tulis simpan dan cetak file Spreadsheet. Konversikan ke PDF atau lebih banyak format
 ---
 {{< blocks/products/pf/main-wrap-class >}}

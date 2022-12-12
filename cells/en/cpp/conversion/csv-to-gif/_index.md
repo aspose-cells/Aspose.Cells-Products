@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to GIF via C++
-url: /cpp/conversion/csv-to-gif/
+
 description: Convert CSV to GIF format in C++ code. Save CSV as GIF using C++.
 ---
 

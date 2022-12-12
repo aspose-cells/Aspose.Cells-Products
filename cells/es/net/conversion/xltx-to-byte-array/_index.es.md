@@ -1,7 +1,7 @@
-﻿---
+---
 title: Convierta XLTX a Byte Array a través de C# 
 weight: 7690
-url: /es/net/conversion/xltx-to-byte-array/ 
+
 description: C# Código de muestra para la conversión de XLTX a Byte Array. Use este código para la conversión de Excel XLTX a Byte Array dentro de VB.NET, Asp.NET o cualquier aplicación basada en .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET aracılığıyla ODS belgesindeki metni arayın ve değiştirin 
 weight: 6100
-url: /tr/net/redaction/ods/ 
+
 description: .NET Framework, .NET Core, Mono veya Xamarin Platformlarında ODS dosyasındaki hassas bilgileri yeniden düzenlemek için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

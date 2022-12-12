@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to PDF via Java 
-url: /java/conversion/json-to-pdf/
+
 description: Convert JSON to PDF format in Java code. Save JSON as PDF using Java.
 ---
 

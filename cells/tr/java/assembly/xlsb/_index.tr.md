@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java aracılığıyla XLSB Dosyalarında Raporlar Oluşturun 
 weight: 3560
-url: /tr/java/assembly/xlsb/ 
+
 description: JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Runtime Environment'da XLSB biçiminde raporlar oluşturmak için Java örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

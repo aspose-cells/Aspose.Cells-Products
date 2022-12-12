@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to PDF via Python
-url: /python-net/conversion/ods-to-pdf/
+
 description: Sample code for ods to pdf Python conversion. Use API example code for batch ods files to pdf conversion within Python application.
 ---
 

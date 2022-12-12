@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLTX-et DIF-re a(z) C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/xltx-to-dif/ 
+
 description: Minta C++ konverziós kód XLTX dokumentumhoz DIF formátumba. A programozók ezt a forráskódot használhatják kötegelt XLTX-DIF-konverzióhoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

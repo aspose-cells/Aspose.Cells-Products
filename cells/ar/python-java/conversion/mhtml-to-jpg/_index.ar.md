@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل MHTML إلى JPG عبر Python
-url: /ar/python-java/conversion/mhtml-to-jpg/
+
 description: نموذج رمز للتحويل من mhtml إلى jpg Python. استخدم API رمز المثال لملفات mhtml الدفعية لتحويل jpg داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

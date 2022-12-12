@@ -1,7 +1,7 @@
-﻿---
+---
 title: Excel Spreadsheet PHP API - Aspose 
 weight: 3660
-url: /id/php-java/ 
+
 description: Spreadsheet PHP Excel API untuk membaca, menulis, dan mengonversi XLS XLSX CSV TSV HTML ODS SpreadsheetML & semua format Excel 97-2016. Ekspor Spreadsheet ke berbagai format
 ---
 {{< blocks/products/pf/main-wrap-class >}}

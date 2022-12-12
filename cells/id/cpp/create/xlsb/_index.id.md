@@ -1,6 +1,6 @@
-﻿---
+---
 title: Buat File MS Excel XLSB melalui C++ 
-url: /id/cpp/create-xlsb/ 
+
 description: C++ Contoh kode untuk membuat file MS Excel XLSB. Gunakan kode ini untuk membuat file MS Excel XLSB dalam aplikasi berbasis C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

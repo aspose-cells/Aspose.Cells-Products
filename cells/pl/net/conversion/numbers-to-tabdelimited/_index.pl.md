@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj NUMBERS na TABDELIMITED przez C#
-url: /pl/net/conversion/numbers-to-tabdelimited/
+
 description: Przykładowy kod do konwersji liczb do rozdzielanej tabulatorami C#. Użyj przykładowego kodu API dla plików z numerami partii do konwersji rozdzielanej tabulatorami w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

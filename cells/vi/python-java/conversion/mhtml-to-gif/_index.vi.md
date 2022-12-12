@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển MHTML sang GIF qua Python
-url: /vi/python-java/conversion/mhtml-to-gif/
+
 description: Mã mẫu cho chuyển đổi mhtml sang gif Python. Sử dụng API mã mẫu cho hàng loạt tệp mhtml thành chuyển đổi gif trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

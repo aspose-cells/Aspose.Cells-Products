@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل TSV إلى JPEG عبر تطبيق C++ 
 weight: 9870
-url: /ar/cpp/conversion/tsv-to-jpeg/ 
+
 description: نموذج C++ رمز التحويل لمستند TSV إلى تنسيق JPEG. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل TSV إلى JPEG الدفعي داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

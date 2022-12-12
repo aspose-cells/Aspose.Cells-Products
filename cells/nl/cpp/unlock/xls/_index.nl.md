@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLS-document ontgrendelen via C++ 
 weight: 2380
-url: /nl/cpp/unlock/xls/ 
+
 description: C++ voorbeeldcode om met een wachtwoord beveiligd XLS-bestand te ontgrendelen op C++ Runtime Environment voor Windows 32 bit, Windows 64 bit en Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

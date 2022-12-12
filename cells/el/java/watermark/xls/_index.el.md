@@ -1,7 +1,7 @@
-﻿---
+---
 title: Υδατογράφημα εγγράφου XLS μέσω Java 
 weight: 2210
-url: /el/java/watermark/xls/ 
+
 description: Java δείγμα κώδικα για προσθήκη ή κατάργηση υδατογραφήματος σε αρχείο XLS στο Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

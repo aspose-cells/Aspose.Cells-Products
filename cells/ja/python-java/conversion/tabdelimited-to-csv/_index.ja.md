@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してTABDELIMITEDをCSVに変換します
-url: /ja/python-java/conversion/tabdelimited-to-csv/
+
 description: tabdelimitedからcsvPythonへの変換のサンプルコード。 Pythonアプリケーション内でタブ区切りファイルをcsvに変換するには、APIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

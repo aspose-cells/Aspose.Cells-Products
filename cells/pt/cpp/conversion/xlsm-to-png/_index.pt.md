@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter XLSM para PNG por meio do aplicativo C++ 
-url: /pt/cpp/conversion/xlsm-to-png/ 
+
 description: Exemplo de código de conversão C++ para documento XLSM para formato PNG. Os programadores podem usar esse código-fonte para conversão em lote de XLSM para PNG em qualquer aplicativo C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

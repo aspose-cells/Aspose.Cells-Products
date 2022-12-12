@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte XLSM na PDF pomocí aplikace C++ 
-url: /cs/cpp/conversion/xlsm-to-pdf/ 
+
 description: Ukázka převodního kódu C++ pro dokument XLSM do formátu PDF. Programátoři mohou použít tento zdrojový kód pro dávkový převod XLSM do PDF v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

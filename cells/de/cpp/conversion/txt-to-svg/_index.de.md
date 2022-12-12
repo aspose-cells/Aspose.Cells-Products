@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie TXT in SVG über die Anwendung C++ 
-url: /de/cpp/conversion/txt-to-svg/ 
+
 description: Beispiel-Umwandlungscode C++ für ein TXT-Dokument in das SVG-Format. Programmierer können diesen Quellcode für die Batch-Konvertierung von TXT in SVG in jeder C++-Anwendung verwenden.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

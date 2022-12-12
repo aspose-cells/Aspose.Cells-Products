@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera TABDELIMITED till PDF via Python
-url: /sv/python-java/conversion/tabdelimited-to-pdf/
+
 description: Exempelkod för konvertering av tabavgränsad till pdf Python. Använd API exempelkod för batch-tabbavgränsade filer till pdf-konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

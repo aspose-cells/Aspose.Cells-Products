@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer TXT naar EMF via C#
-url: /nl/net/conversion/txt-to-emf/
+
 description: Voorbeeldcode voor conversie van txt naar emf C#. Gebruik API voorbeeldcode voor batch txt-bestanden naar emf-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

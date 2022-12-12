@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してXLTをXLSXに変換します
-url: /ja/net/conversion/xlt-to-xlsx/
+
 description: xltからxlsxC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチxltファイルからxlsxへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

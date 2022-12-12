@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# के माध्यम से HTML को MARKDOWN में बदलें
-url: /hi/net/conversion/html-to-markdown/
+
 description: C# रूपांतरण को मार्कडाउन करने के लिए html के लिए नमूना कोड। VB.NET, Asp.NET या किसी .NET आधारित एप्लिकेशन में रूपांतरण को चिह्नित करने के लिए बैच HTML फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

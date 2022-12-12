@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj NUMBERS na GIF przez C#
-url: /pl/net/conversion/numbers-to-gif/
+
 description: Przykładowy kod konwersji liczb na gif C#. Użyj przykładowego kodu API dla plików numerów partii do konwersji gif w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

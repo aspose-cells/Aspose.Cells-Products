@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi NUMBERS thành XLS qua Python
-url: /vi/python-java/conversion/numbers-to-xls/
+
 description: Mã mẫu cho chuyển đổi số thành xls Python. Sử dụng mã mẫu API cho các tệp số lô thành chuyển đổi xls trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

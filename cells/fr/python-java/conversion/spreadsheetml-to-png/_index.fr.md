@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir SPREADSHEETML en PNG via Python
-url: /fr/python-java/conversion/spreadsheetml-to-png/
+
 description: Exemple de code pour la conversion de tableurml en png Python. Utilisez l'exemple de code API pour la conversion par lots de fichiers tableurml en png dans l'application Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

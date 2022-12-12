@@ -1,7 +1,7 @@
-﻿---
+---
 title: 在不通过 C++ 打开的情况下搜索 CSV 文档 
 weight: 5540
-url: /zh/cpp/search/csv/ 
+
 description: C++ 示例代码，用于在 CSV 文件中搜索具有模式的单词，C++ Windows 32 位、Windows 64 位和 Linux 64 位运行时环境。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

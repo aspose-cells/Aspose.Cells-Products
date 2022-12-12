@@ -1,6 +1,6 @@
-﻿---
+---
 title: Crea file MHTML tramite C# 
-url: /it/net/create-mhtml/ 
+
 description: C# Codice di esempio per la generazione di documenti MHTML. Utilizza questo codice per creare file MHTML all'interno di VB.NET, Asp.NET o qualsiasi applicazione basata su .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TSV konvertálása DIF-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/tsv-to-dif/
+
 description: Mintakód a tsv to dif Python konverzióhoz. Használjon API példakódot kötegelt tsv-fájlokhoz a Python alkalmazáson belüli átalakításhoz.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

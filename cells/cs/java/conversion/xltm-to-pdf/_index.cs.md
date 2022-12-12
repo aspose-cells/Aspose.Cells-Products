@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést XLTM na PDF přes Java 
 weight: 4600
-url: /cs/java/conversion/xltm-to-pdf/ 
+
 description: Ukázka převodního kódu Java pro formát XLTM na soubor PDF. Programátoři mohou použít tento příklad kódu k exportu tabulek Excelu a OpenOffice do PDF v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

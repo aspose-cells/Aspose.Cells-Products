@@ -1,7 +1,7 @@
-﻿---
+---
 title: Поиск документа XLSB без открытия через .NET 
 weight: 8880
-url: /ru/net/search/xlsb/ 
+
 description: Исходный код C# для поиска слов с шаблоном в файле XLSB на платформах .NET Framework, .NET Core, Mono или Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

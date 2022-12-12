@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést JSON na MD přes Python
-url: /cs/python-java/conversion/json-to-md/
+
 description: Ukázkový kód pro převod json na md Python. Použijte API ukázkový kód pro dávkový převod souborů json na MD v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

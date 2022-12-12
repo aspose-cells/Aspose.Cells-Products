@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to XLSB via Python
-url: /python-java/conversion/numbers-to-xlsb/
+
 description: Convert NUMBERS to XLSB format in Python code. Save NUMBERS as XLSB using Python.
 ---
 

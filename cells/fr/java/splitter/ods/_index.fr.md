@@ -1,7 +1,7 @@
-﻿---
+---
 title: Diviser les fichiers ODS via Java 
 weight: 1950
-url: /fr/java/splitter/ods/ 
+
 description: Java exemple de code pour diviser les documents ODS sur Java l'environnement d'exécution pour les applications JSP/JSF et les applications de bureau.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Mesclar arquivos XLT via C++ 
-url: /pt/cpp/merger/xlt/ 
+
 description: C++ código de exemplo para combinar documentos XLT em C++ Runtime Environment para Windows de 32 bits, Windows de 64 bits e Linux de 64 bits.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

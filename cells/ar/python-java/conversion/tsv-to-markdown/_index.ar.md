@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TSV إلى MARKDOWN عبر Python
-url: /ar/python-java/conversion/tsv-to-markdown/
+
 description: نموذج رمز لتحويل tsv إلى تخفيض السعر Python. استخدم API رمز المثال لملفات tsv المجمعة لتحديد التحويل داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

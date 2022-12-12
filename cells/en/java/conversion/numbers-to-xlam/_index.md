@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to XLAM via Java 
-url: /java/conversion/numbers-to-xlam/
+
 description: Convert NUMBERS to XLAM format in Java code. Save NUMBERS as XLAM using Java.
 ---
 

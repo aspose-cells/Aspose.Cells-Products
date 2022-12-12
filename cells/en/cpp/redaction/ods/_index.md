@@ -1,7 +1,7 @@
 ---
 title: Search and replace text in ODS document via C++ 
 weight: 1610
-url: /cpp/redaction/ods/ 
+
 description: C++ example code to redact sensitive information in ODS file on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to XLS via Python
-url: /python-net/conversion/tabdelimited-to-xls/
+
 description: Sample code for tabdelimited to xls Python conversion. Use API example code for batch tabdelimited files to xls conversion within Python application.
 ---
 

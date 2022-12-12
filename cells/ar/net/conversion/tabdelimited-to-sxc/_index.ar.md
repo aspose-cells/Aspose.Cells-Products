@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TABDELIMITED إلى SXC عبر C#
-url: /ar/net/conversion/tabdelimited-to-sxc/
+
 description: نموذج التعليمات البرمجية لجدولة محدودية لتحويل sxc C#. استخدم API رمز المثال للملفات المحددة بعلامات جدولة مجمعة لتحويل sxc داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

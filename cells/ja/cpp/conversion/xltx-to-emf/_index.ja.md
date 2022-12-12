@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++アプリケーションを介してXLTXをEMFに変換します 
-url: /ja/cpp/conversion/xltx-to-emf/ 
+
 description: XLTXドキュメントからEMF形式へのサンプルC++変換コード。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でXLTXからEMFへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

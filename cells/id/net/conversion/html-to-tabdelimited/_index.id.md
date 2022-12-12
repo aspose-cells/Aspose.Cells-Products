@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi HTML ke TABDELIMITED melalui C#
-url: /id/net/conversion/html-to-tabdelimited/
+
 description: Contoh kode untuk konversi html ke tabdelimited C#. Gunakan API kode contoh untuk berkas html batch ke konversi tabdelimited dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

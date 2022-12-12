@@ -1,7 +1,7 @@
-﻿---
+---
 title: Hợp nhất các tệp XLSM qua Java 
 weight: 1270
-url: /vi/java/merger/xlsm/ 
+
 description: Java mã mẫu để kết hợp các tài liệu XLSM trên Java Môi trường thời gian chạy cho Ứng dụng JSP / JSF và Ứng dụng trên máy tính để bàn.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

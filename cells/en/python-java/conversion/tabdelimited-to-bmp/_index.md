@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to BMP via Python
-url: /python-java/conversion/tabdelimited-to-bmp/
+
 description: Convert TABDELIMITED to BMP format in Python code. Save TABDELIMITED as BMP using Python.
 ---
 

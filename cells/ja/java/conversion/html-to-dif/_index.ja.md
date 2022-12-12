@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してHTMLをDIFに変換します 
 weight: 6050
-url: /ja/java/conversion/html-to-dif/ 
+
 description: HTML形式からDIFファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のDIFにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

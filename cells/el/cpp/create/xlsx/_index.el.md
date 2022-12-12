@@ -1,6 +1,6 @@
-﻿---
+---
 title: Δημιουργία αρχείων MS Excel XLSX μέσω C++ 
-url: /el/cpp/create-xlsx/ 
+
 description: C++ Δείγμα κώδικα για τη δημιουργία αρχείων MS Excel XLSX. Χρησιμοποιήστε αυτόν τον κώδικα για τη δημιουργία αρχείων MS Excel XLSX εντός εφαρμογής που βασίζεται σε C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

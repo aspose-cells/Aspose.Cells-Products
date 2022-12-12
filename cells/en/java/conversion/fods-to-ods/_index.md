@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to ODS via Java 
-url: /java/conversion/fods-to-ods/
+
 description: Convert FODS to ODS format in Java code. Save FODS as ODS using Java.
 ---
 

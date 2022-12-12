@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLSM Dosyalarını .NET ile Birleştir 
 weight: 660
-url: /tr/net/merger/xlsm/ 
+
 description: XLSM belgelerini .NET Framework, .NET Core, Mono veya Xamarin Platformlarında birleştirmek için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

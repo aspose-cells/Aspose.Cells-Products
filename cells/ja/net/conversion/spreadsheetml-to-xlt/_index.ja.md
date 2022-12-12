@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してSPREADSHEETMLをXLTに変換します
-url: /ja/net/conversion/spreadsheetml-to-xlt/
+
 description: SpreadsheetmlからxltC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチspreadsheetmlファイルからxltへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

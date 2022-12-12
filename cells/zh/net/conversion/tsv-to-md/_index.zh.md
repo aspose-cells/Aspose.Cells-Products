@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 C# 将 TSV 转换为 MD
-url: /zh/net/conversion/tsv-to-md/
+
 description: tsv 到 md C# 转换的示例代码。使用 API 示例代码在 VB.NET、Asp.NET 或任何基于 .NET 的应用程序中将批处理 tsv 文件转换为 md。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

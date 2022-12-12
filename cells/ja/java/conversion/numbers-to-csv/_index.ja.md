@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してNUMBERSをCSVに変換します 
-url: /ja/java/conversion/numbers-to-csv/ 
+
 description: NUMBERS形式のCSVファイルへのJava変換コードのサンプル。プログラマーは、このサンプルコードを使用して、任意のWebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをCSVにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLS в MARKDOWN через Python
-url: /ru/python-java/conversion/xls-to-markdown/
+
 description: Пример кода для преобразования xls в уценку Python. Используйте пример кода API для пакетного преобразования файлов xls в уценку в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

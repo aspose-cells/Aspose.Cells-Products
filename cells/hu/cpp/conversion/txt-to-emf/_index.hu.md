@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja a TXT-t EMF-vé a C++ alkalmazással 
-url: /hu/cpp/conversion/txt-to-emf/ 
+
 description: Minta C++ konverziós kód a TXT dokumentumhoz EMF formátumba. A programozók ezt a forráskódot használhatják a kötegelt TXT EMF konvertáláshoz bármely C++ alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte XLSM na MD pomocí aplikace C++ 
-url: /cs/cpp/conversion/xlsm-to-md/ 
+
 description: Ukázka převodního kódu C++ pro dokument XLSM na formát MD. Programátoři mohou použít tento zdrojový kód pro dávkovou konverzi XLSM na MD v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Gráfico de documento XLSB via C++ 
 weight: 5200
-url: /pt/cpp/chart/xlsb/ 
+
 description: C++ código de exemplo para desenhar e converter gráfico ou diagrama em arquivo XLSB no C++ ambiente de tempo de execução para Windows de 32 bits, Windows de 64 bits e Linux de 64 bits.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

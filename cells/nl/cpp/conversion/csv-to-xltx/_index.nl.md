@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer CSV naar XLTX via C++ applicatie 
 weight: 5790
-url: /nl/cpp/conversion/csv-to-xltx/ 
+
 description: Voorbeeld C++ conversiecode voor CSV-document naar XLTX-indeling. Programmeurs kunnen deze broncode gebruiken voor batch-CSV naar XLTX-conversie binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

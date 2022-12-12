@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie XLSM in SPREADSHEETML über Java 
-url: /de/java/conversion/xlsm-to-spreadsheetml/ 
+
 description: Beispiel-Umwandlungscode Java für das XLSM-Format in eine SPREADSHEETML-Datei. Programmierer können diesen Beispielcode verwenden, um Excel- und OpenOffice-Tabellen in SPREADSHEETML innerhalb einer beliebigen Web- oder Desktop-Java-basierten Anwendung zu exportieren.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

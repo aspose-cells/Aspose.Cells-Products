@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte TSV na TXT pomocí aplikace C++ 
-url: /cs/cpp/conversion/tsv-to-txt/ 
+
 description: Ukázka převodního kódu C++ pro dokument TSV na formát TXT. Programátoři mohou tento zdrojový kód použít pro dávkový převod TSV na TXT v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: จัดการข้อมูลเมตาของไฟล์ Excel ผ่าน Java
-url: /th/java/metadata/
+
 description: ดู เพิ่ม แก้ไข ลบหรือแยกข้อมูลเมตาของไฟล์ Excel ด้วย Java code . เพียงไม่กี่บรรทัด
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

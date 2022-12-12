@@ -1,7 +1,7 @@
-﻿---
+---
 title: Zobrazení nebo úprava metadat souborů XLSM prostřednictvím .NET 
 weight: 5590
-url: /cs/net/metadata/xlsm/ 
+
 description: C# zdrojový kód pro úpravu nebo zobrazení metadat formátu XLSM na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

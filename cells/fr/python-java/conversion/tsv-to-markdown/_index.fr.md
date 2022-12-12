@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir TSV en MARKDOWN via Python
-url: /fr/python-java/conversion/tsv-to-markdown/
+
 description: Exemple de code pour la conversion tsv en démarque Python. Utilisez l'exemple de code API pour les fichiers tsv par lots en conversion de démarquage dans l'application Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

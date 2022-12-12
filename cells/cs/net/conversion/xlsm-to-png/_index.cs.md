@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLSM na PNG přes C#
-url: /cs/net/conversion/xlsm-to-png/
+
 description: Ukázkový kód pro převod xlsm na png C#. Použijte API ukázkový kód pro dávkový převod souborů xlsm na png v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

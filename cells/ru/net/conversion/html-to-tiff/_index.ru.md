@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование HTML в TIFF через C#
-url: /ru/net/conversion/html-to-tiff/
+
 description: Пример кода для преобразования html в tiff C#. Используйте пример кода API для пакетного преобразования HTML-файлов в формат TIFF в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

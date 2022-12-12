@@ -1,6 +1,6 @@
-﻿---
+---
 title: एमएचटीएमएल को C# के माध्यम से जीआईएफ में बदलें
-url: /hi/net/conversion/mhtml-to-gif/
+
 description: एमएचटीएमएल से जीआईएफ C# रूपांतरण के लिए नमूना कोड। VB.NET, Asp.NET या किसी .NET आधारित एप्लिकेशन के भीतर बैच mhtml फ़ाइलों को gif रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

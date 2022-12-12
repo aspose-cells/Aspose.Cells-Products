@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to MARKDOWN via Python
-url: /python-net/conversion/xltx-to-markdown/
+
 description: Sample code for xltx to markdown Python conversion. Use API example code for batch xltx files to markdown conversion within Python application.
 ---
 

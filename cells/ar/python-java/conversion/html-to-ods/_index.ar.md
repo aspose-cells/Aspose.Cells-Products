@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل HTML إلى ODS عبر Python
-url: /ar/python-java/conversion/html-to-ods/
+
 description: نموذج كود لتحويل html إلى ods Python. استخدم API رمز المثال لملفات html الدفعية لتحويل ods داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

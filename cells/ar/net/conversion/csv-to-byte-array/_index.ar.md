@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل CSV إلى Byte Array عبر C# 
 weight: 7690
-url: /ar/net/conversion/csv-to-byte-array/ 
+
 description: C# نموذج كود لتحويل CSV إلى صفيف بايت. استخدم هذا الرمز لتحويل Excel CSV إلى تحويل صفيف البايت داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

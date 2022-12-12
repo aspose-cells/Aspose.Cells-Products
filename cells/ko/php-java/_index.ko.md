@@ -1,7 +1,7 @@
-﻿---
+---
 title: Excel 스프레드시트 PHP API - Aspose 
 weight: 3660
-url: /ko/php-java/ 
+
 description: XLS XLSX CSV TSV HTML ODS SpreadsheetML 및 모든 Excel 97-2016 형식을 읽고 변환하는 PHP Excel 스프레드시트 API. 여러 형식으로 스프레드시트 내보내기
 ---
 {{< blocks/products/pf/main-wrap-class >}}

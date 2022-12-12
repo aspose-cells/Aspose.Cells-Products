@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to XLAM via Java 
-url: /java/conversion/txt-to-xlam/
+
 description: Convert TXT to XLAM format in Java code. Save TXT as XLAM using Java.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してMHTMLをMDに変換します 
-url: /ja/java/conversion/mhtml-to-md/ 
+
 description: MHTML形式からMDファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、WebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをMDにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

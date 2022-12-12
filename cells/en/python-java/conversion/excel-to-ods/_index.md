@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to ODS via Python
-url: /python-java/conversion/excel-to-ods/
+
 description: Convert EXCEL to ODS format in Python code. Save EXCEL as ODS using Python.
 ---
 

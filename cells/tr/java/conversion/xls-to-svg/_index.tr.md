@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java aracılığıyla XLS'yi SVG'ye dönüştürün 
 weight: 9510
-url: /tr/java/conversion/xls-to-svg/ 
+
 description: XLS biçimi için SVG dosyasına örnek Java dönüştürme kodu. Programcılar, Excel ve OpenOffice elektronik tablolarını herhangi bir Web veya Masaüstü Java tabanlı Uygulamada SVG'ye aktarmak için bu örnek kodu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

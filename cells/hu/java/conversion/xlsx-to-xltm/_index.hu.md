@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLSX konvertálása XLTM-re a következőn keresztül: Java "
 weight: 6150
-url: /hu/java/conversion/xlsx-to-xltm/ 
+
 description: Minta Java konverziós kód az XLSX formátumhoz XLTM fájllá. A programozók ezt a példakódot használhatják Excel- és OpenOffice-táblázatok XLTM-be exportálására bármely web- vagy asztali Java-alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

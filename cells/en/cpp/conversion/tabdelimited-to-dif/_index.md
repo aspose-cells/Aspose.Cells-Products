@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to DIF via C++
-url: /cpp/conversion/tabdelimited-to-dif/
+
 description: Convert TABDELIMITED to DIF format in C++ code. Save TABDELIMITED as DIF using C++.
 ---
 

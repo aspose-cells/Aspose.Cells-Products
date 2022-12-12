@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversi CSV ke XLS melalui C++ aplikasi 
 weight: 1460
-url: /id/cpp/conversion/csv-to-xls/ 
+
 description: Contoh C++ kode konversi untuk dokumen CSV ke format XLS. Pemrogram dapat menggunakan kode sumber ini untuk konversi batch CSV ke XLS dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

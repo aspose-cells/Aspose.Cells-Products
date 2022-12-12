@@ -1,6 +1,6 @@
 ---
 title: Convert TSV to MARKDOWN via Java 
-url: /java/conversion/tsv-to-markdown/
+
 description: Convert TSV to MARKDOWN format in Java code. Save TSV as MARKDOWN using Java.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to HTML via C#
-url: /net/conversion/xlsb-to-html/
+
 description: Convert XLSB to HTML format in C# code. Save XLSB as HTML using VB.NET, Asp.NET or any .NET based application.
 ---
 

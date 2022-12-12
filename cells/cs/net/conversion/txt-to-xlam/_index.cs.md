@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TXT na XLAM přes C#
-url: /cs/net/conversion/txt-to-xlam/
+
 description: Ukázkový kód pro převod txt na xlam C#. Použijte API ukázkový kód pro dávkové soubory txt na převod xlam v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

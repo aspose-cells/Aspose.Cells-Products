@@ -1,7 +1,7 @@
-﻿---
+---
 title: Chránit a uzamknout dokument XLSB prostřednictvím Java 
 weight: 6590
-url: /cs/java/protect/xlsb/ 
+
 description: Java ukázkový kód pro uzamčení souboru XLSB pomocí hesla v Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

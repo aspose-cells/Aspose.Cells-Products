@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java üzerinden XLSM belgesinin kilidini açın 
 weight: 7700
-url: /tr/java/unlock/xlsm/ 
+
 description: JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Runtime Environment'da parola korumalı XLSM dosyasının kilidini açmak için Java örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

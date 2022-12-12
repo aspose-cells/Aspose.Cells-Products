@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera CSV till XML via C#
-url: /sv/net/conversion/csv-to-xml/
+
 description: Exempelkod för konvertering av csv till xml C#. Använd API exempelkod för batch-csv-filer till xml-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to EMF via C#
-url: /net/conversion/ods-to-emf/
+
 description: Convert ODS to EMF format in C# code. Save ODS as EMF using VB.NET, Asp.NET or any .NET based application.
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversi CSV ke ODS melalui C++ aplikasi 
 weight: 340
-url: /id/cpp/conversion/csv-to-ods/ 
+
 description: Contoh C++ kode konversi untuk dokumen CSV ke format ODS. Pemrogram dapat menggunakan kode sumber ini untuk konversi batch CSV ke ODS dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

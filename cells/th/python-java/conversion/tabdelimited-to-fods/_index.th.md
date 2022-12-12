@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง TABDELIMITED เป็น FODS ผ่าน Python
-url: /th/python-java/conversion/tabdelimited-to-fods/
+
 description: โค้ดตัวอย่างสำหรับการแปลง tabdelimited เป็น fods Python ใช้รหัสตัวอย่าง API สำหรับไฟล์ที่คั่นด้วยแท็บแบทช์เป็นการแปลง fods ภายในแอปพลิเคชัน Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

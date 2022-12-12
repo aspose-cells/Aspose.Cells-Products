@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLS na TSV přes C#
-url: /cs/net/conversion/xls-to-tsv/
+
 description: Ukázkový kód pro převod xls na tsv C#. Použijte API ukázkový kód pro dávkový převod souborů xls na tsv v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertera XLSB till PNG via appen C++ 
 weight: 2800
-url: /sv/cpp/conversion/xlsb-to-png/ 
+
 description: Exempel på C++-konverteringskod för XLSB-dokument till PNG-format. Programmerare kan använda den här källkoden för batchkonvertering av XLSB till PNG inom alla C++-program.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

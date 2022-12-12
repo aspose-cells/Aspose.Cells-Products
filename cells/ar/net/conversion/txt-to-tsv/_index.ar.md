@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TXT إلى TSV عبر C#
-url: /ar/net/conversion/txt-to-tsv/
+
 description: نموذج كود لتحويل txt إلى tsv C#. استخدم API رمز المثال لملفات txt الدفعية لتحويل tsv داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

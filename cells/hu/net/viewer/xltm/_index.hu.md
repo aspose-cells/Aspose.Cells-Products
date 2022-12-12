@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLTM fájlformátumok megtekintése a következőn keresztül: .NET "
 weight: 430
-url: /hu/net/viewer/xltm/ 
+
 description: C# forráskód az XLTM dokumentumok betöltéséhez, rendereléséhez és megjelenítéséhez .NET Framework, .NET Core, Mono vagy Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

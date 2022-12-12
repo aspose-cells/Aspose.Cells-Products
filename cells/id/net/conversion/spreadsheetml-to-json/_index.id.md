@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan SPREADSHEETML ke JSON melalui C#
-url: /id/net/conversion/spreadsheetml-to-json/
+
 description: Contoh kode untuk spreadsheetml ke json C# konversi. Gunakan API kode contoh untuk file batch spreadsheetml ke konversi json dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

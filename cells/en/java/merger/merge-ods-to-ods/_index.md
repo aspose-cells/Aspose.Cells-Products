@@ -1,6 +1,6 @@
 ---
 title: Merge ODS to ODS Files via Java 
-url: /java/merger/merge-ods-to-ods/ 
+
 description: Merge ODS to ODS file in Java code. Combine ODS to ODS file using Java based desktop or web application.
 ---
 

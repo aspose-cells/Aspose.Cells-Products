@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 Python 創建 MS Excel XLTM 文件 
-url: /zh-hant/python-java/create-xltm/ 
+
 description: Python 用於生成 XLTM 文檔的示例代碼。使用此代碼在 Python 應用程序中創建 MS Excel XLTM 文件。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

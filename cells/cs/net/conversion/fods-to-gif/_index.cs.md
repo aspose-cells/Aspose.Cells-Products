@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést FODS na GIF prostřednictvím C#
-url: /cs/net/conversion/fods-to-gif/
+
 description: Ukázkový kód pro konverzi fod na gif C#. Použijte API ukázkový kód pro dávkový převod souborů fods na gif v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

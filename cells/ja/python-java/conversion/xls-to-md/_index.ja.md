@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してXLSをMDに変換します
-url: /ja/python-java/conversion/xls-to-md/
+
 description: xlsからmdPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチxlsファイルからmdへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: JSON को JPEG में C# के माध्यम से बदलें
-url: /hi/net/conversion/json-to-jpeg/
+
 description: जेसन से जेपीईजी C# रूपांतरण के लिए नमूना कोड। VB.NET, Asp.NET या किसी .NET आधारित एप्लिकेशन के भीतर jpeg रूपांतरण के लिए बैच json फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

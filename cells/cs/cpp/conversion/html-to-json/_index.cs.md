@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte HTML na JSON pomocí aplikace C++ 
-url: /cs/cpp/conversion/html-to-json/ 
+
 description: Ukázka převodního kódu C++ pro dokument HTML do formátu JSON. Programátoři mohou tento zdrojový kód použít pro dávkový převod HTML na JSON v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

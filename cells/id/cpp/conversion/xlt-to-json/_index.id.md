@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi XLT ke JSON melalui C++ aplikasi 
-url: /id/cpp/conversion/xlt-to-json/ 
+
 description: Contoh C++ kode konversi untuk dokumen XLT ke format JSON. Pemrogram dapat menggunakan kode sumber ini untuk konversi batch XLT ke JSON dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

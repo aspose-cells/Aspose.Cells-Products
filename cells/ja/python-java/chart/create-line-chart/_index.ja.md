@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してラインチャートを作成する
-url: /ja/python-java/create-line-chart/
+
 description: PythonPythonライブラリを使用してExcelに折れ線グラフを作成するためのサンプルコード。このコードを使用して、Pythonベースのアプリケーション内でMSExcelへの折れ線グラフを作成します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

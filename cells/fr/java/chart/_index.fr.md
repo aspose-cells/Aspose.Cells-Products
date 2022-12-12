@@ -1,6 +1,6 @@
-﻿---
+---
 title: Créer des graphiques Excel et convertir en images via Java
-url: /fr/java/chart/
+
 description: Code source Java pour dessiner et convertir un graphique ou un diagramme dans Microsoft Excel à l'aide de la bibliothèque Java. 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

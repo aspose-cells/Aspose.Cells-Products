@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir FODS en TXT via Python
-url: /fr/python-java/conversion/fods-to-txt/
+
 description: Exemple de code pour la conversion de fods en txt Python. Utilisez l'exemple de code API pour la conversion de fichiers fods par lots en txt dans l'application Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

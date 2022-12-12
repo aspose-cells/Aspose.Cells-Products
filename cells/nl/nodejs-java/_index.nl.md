@@ -1,7 +1,7 @@
-﻿---
+---
 title: Node.js API's voor Excel-spreadsheets - Aspose 
 weight: 3120
-url: /nl/nodejs-java/ 
+
 description: Verwerk Excel-bestandsindelingen via de Node.js-bibliotheek. Lezen schrijven renderen & converteren XLS XLSX XLSB XLTX XLTM XLSM XML ODS CSV en meer formaten via Node.js op Windows, macOS & Linux
 ---
 {{< blocks/products/pf/main-wrap-class >}}

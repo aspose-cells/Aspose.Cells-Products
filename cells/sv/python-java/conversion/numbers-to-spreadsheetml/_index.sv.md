@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera NUMBERS till SPREADSHEETML via Python
-url: /sv/python-java/conversion/numbers-to-spreadsheetml/
+
 description: Exempelkod för konvertering av tal till kalkylbladml Python. Använd API exempelkod för batchnummerfiler till kalkylbladskonvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

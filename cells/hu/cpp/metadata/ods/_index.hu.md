@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Szerkessze vagy tekintse meg az ODS-dokumentum metaadatait a következőn keresztül: C++ "
 weight: 1000
-url: /hu/cpp/metadata/ods/ 
+
 description: C++ példakód az ODS-fájlok metaadatainak szerkesztéséhez vagy megtekintéséhez a C++ Runtime Environment for Windows 32 bit, Windows 64 bit és Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

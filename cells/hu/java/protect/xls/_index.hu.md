@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLS-dokumentum védelme és zárolása a következőn keresztül: Java "
 weight: 5070
-url: /hu/java/protect/xls/ 
+
 description: Java mintakód az XLS-fájl jelszóval történő zárolásához a Java Futókörnyezetben JSP/JSF alkalmazásokhoz és asztali alkalmazásokhoz.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

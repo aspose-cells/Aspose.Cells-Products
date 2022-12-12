@@ -1,7 +1,7 @@
-﻿---
+---
 title: Android Excel 스프레드시트 API - Aspose 
 weight: 6510
-url: /ko/android-java/ 
+
 description: 읽기 쓰기를 만들고 Excel 파일을 구문 분석하기 위한 Android 스프레드시트 라이브러리입니다. 모바일 앱 개발용 스프레드시트 API
 ---
 {{< blocks/products/pf/main-wrap-class >}}

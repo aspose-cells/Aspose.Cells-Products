@@ -1,7 +1,7 @@
-﻿---
+---
 title: Vyhledejte a nahraďte text v dokumentu XLS prostřednictvím Java 
 weight: 7900
-url: /cs/java/redaction/xls/ 
+
 description: Java ukázkový kód pro redigování citlivých informací v souboru XLS v Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

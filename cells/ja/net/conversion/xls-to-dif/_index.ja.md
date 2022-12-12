@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してXLSをDIFに変換します
-url: /ja/net/conversion/xls-to-dif/
+
 description: xlsからdifC#への変換のサンプルコード。バッチxlsファイルのAPIサンプルコードを使用して、VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内で変換をdifします。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

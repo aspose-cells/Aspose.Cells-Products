@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل CSV إلى XLT عبر Java 
 weight: 4950
-url: /ar/java/conversion/csv-to-xlt/ 
+
 description: نموذج لشفرة تحويل Java لتنسيق CSV إلى ملف XLT. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى XLT داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してMHTMLをMARKDOWNに変換します 
-url: /ja/java/conversion/mhtml-to-markdown/ 
+
 description: MHTML形式からMARKDOWNファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートをWebまたはデスクトップJavaベースのアプリケーション内のMARKDOWNにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

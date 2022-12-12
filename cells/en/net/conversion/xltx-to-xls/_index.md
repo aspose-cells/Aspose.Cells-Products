@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to XLS via C#
-url: /net/conversion/xltx-to-xls/
+
 description: Convert XLTX to XLS format in C# code. Save XLTX as XLS using VB.NET, Asp.NET or any .NET based application.
 ---
 

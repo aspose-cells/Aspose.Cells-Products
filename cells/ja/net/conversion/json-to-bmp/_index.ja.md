@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してJSONをBMPに変換する
-url: /ja/net/conversion/json-to-bmp/
+
 description: jsonからbmpC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチjsonファイルからbmpへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

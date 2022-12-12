@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversi JSON ke XLTM melalui Java 
 weight: 9100
-url: /id/java/conversion/json-to-xltm/ 
+
 description: Contoh Java kode konversi untuk format JSON ke file XLTM. Pemrogram dapat menggunakan kode contoh ini untuk mengekspor spreadsheet Excel & OpenOffice ke XLTM dalam Aplikasi berbasis Web atau Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

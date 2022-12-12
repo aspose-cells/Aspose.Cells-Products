@@ -1,7 +1,7 @@
-﻿---
+---
 title: Lihat Format Berkas ODS melalui .NET 
 weight: 130
-url: /id/net/viewer/ods/ 
+
 description: C# kode sumber untuk memuat, merender, dan menampilkan dokumen ODS di .NET Framework, .NET Core, Mono atau Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

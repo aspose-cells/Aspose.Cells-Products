@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to XLSM via C++
-url: /cpp/conversion/html-to-xlsm/
+
 description: Convert HTML to XLSM format in C++ code. Save HTML as XLSM using C++.
 ---
 

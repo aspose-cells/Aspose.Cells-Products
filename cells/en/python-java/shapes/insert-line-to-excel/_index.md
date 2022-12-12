@@ -1,7 +1,7 @@
 ---
 title: Insert Line into Excel via Python 
 weight: 10
-url: /python-java/shapes/insert-line-to-excel/ 
+
 description: Python source code to insert Line into Excel.
 ---
 

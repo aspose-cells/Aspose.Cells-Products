@@ -1,6 +1,6 @@
-﻿---
+---
 title: "NUMBERS konvertálása TIFF-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/numbers-to-tiff/
+
 description: Mintakód számokhoz a tiff Python konverzióhoz. Használjon API példakódot kötegszámfájlokhoz a tiff konverzióhoz a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

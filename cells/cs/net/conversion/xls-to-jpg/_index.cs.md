@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLS na JPG přes C#
-url: /cs/net/conversion/xls-to-jpg/
+
 description: Ukázkový kód pro převod xls na jpg C#. Použijte API ukázkový kód pro dávkový převod souborů xls na jpg v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

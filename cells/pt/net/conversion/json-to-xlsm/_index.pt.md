@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter JSON para XLSM via C#
-url: /pt/net/conversion/json-to-xlsm/
+
 description: Código de amostra para conversão de json para xlsm C#. Use API código de exemplo para arquivos json em lote para conversão xlsm em VB.NET, Asp.NET ou qualquer aplicativo baseado em .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

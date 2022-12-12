@@ -1,6 +1,6 @@
-﻿---
+---
 title: FODS को C# के माध्यम से SVG में बदलें
-url: /hi/net/conversion/fods-to-svg/
+
 description: svg C# रूपांतरण के लिए फ़ूड के लिए नमूना कोड। VB.NET, Asp.NET या किसी .NET आधारित एप्लिकेशन के भीतर svg रूपांतरण में बैच फ़ॉड फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

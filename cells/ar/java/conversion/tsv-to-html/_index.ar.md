@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل TSV إلى HTML عبر Java 
 weight: 3880
-url: /ar/java/conversion/tsv-to-html/ 
+
 description: نموذج لشفرة تحويل Java لتنسيق TSV إلى ملف HTML. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel و OpenOffice إلى HTML داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

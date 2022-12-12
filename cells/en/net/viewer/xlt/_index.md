@@ -1,7 +1,7 @@
 ---
 title: View XLT File Formats via .NET 
 weight: 3610
-url: /net/viewer/xlt/ 
+
 description: C# source code to load, render and display XLT documents on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してExcelファイルを作成する
-url: /ja/java/assembly/
+
 description: Javaスプレッドシートライブラリを使用して、テンプレートシートからMicrosoftExcelスプレッドシートを生成します
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

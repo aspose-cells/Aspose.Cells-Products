@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง XLT เป็น SVG ผ่าน C++ แอปพลิเคชัน 
-url: /th/cpp/conversion/xlt-to-svg/ 
+
 description: ตัวอย่างรหัสการแปลง C++ สำหรับเอกสาร XLT เป็นรูปแบบ SVG โปรแกรมเมอร์สามารถใช้ซอร์สโค้ดนี้สำหรับการแปลง XLT เป็น SVG แบบแบตช์ภายในแอปพลิเคชัน C++ ใดๆ
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

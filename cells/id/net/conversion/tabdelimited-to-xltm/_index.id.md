@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi TABDELIMITED ke XLTM melalui C#
-url: /id/net/conversion/tabdelimited-to-xltm/
+
 description: Contoh kode untuk konversi tabdelimited ke xltm C#. Gunakan API kode contoh untuk berkas tabdelimited batch ke konversi xltm dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

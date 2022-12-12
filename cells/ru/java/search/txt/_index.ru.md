@@ -1,7 +1,7 @@
-﻿---
+---
 title: Поиск документа TXT без открытия через Java 
 weight: 1200
-url: /ru/java/search/txt/ 
+
 description: Пример кода Java для поиска слов с шаблоном в файле TXT в Java среде выполнения для приложений JSP/JSF и настольных приложений.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

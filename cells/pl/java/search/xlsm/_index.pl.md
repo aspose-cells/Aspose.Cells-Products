@@ -1,7 +1,7 @@
-﻿---
+---
 title: Przeszukaj dokument XLSM bez otwierania przez Java 
 weight: 6780
-url: /pl/java/search/xlsm/ 
+
 description: Java przykładowy kod do wyszukiwania słów ze wzorcem w pliku XLSM w Java środowisku wykonawczym dla aplikacji JSP/JSF i aplikacji komputerowych.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

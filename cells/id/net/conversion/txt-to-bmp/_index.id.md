@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan TXT ke BMP melalui C#
-url: /id/net/conversion/txt-to-bmp/
+
 description: Contoh kode untuk konversi txt ke bmp C#. Gunakan API kode contoh untuk file batch txt ke konversi bmp dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

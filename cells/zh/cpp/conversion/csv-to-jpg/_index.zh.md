@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 C++ 应用程序将 CSV 转换为 JPG 
-url: /zh/cpp/conversion/csv-to-jpg/ 
+
 description: CSV 文档到 JPG 格式的示例 C++ 转换代码。程序员可以使用此源代码在任何 C++ 应用程序中将 CSV 批量转换为 JPG。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

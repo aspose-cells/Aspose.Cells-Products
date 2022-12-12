@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to JSON via C#
-url: /net/conversion/txt-to-json/
+
 description: Convert TXT to JSON format in C# code. Save TXT as JSON using VB.NET, Asp.NET or any .NET based application.
 ---
 

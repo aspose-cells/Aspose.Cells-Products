@@ -1,6 +1,6 @@
-﻿---
+---
 title: Erstellen Sie Blasendiagramme über Python
-url: /de/python-java/create-bubble-chart/
+
 description: Python Beispielcode zum Erstellen von Blasendiagrammen in Excel mithilfe der Python-Bibliothek. Verwenden Sie diesen Code zum Erstellen eines Blasendiagramms in MS Excel innerhalb einer Python-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++を介してODSドキュメント内のテキストを検索して置換します 
 weight: 1610
-url: /ja/cpp/redaction/ods/ 
+
 description: C++ Windows 32ビット、Windows 64ビット、およびLinux64ビットのランタイム環境でODSファイルの機密情報を編集するためのサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

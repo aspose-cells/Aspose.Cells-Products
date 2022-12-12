@@ -1,7 +1,7 @@
-﻿---
+---
 title: Просмотр форматов файлов XLTM через .NET 
 weight: 430
-url: /ru/net/viewer/xltm/ 
+
 description: Исходный код C# для загрузки, обработки и отображения документов XLTM на платформах .NET Framework, .NET Core, Mono или Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

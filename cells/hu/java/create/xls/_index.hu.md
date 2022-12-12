@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Hozzon létre MS Excel XLS fájlokat a következőn keresztül: Java "
-url: /hu/java/create-xls/ 
+
 description: Java Mintakód XLS-dokumentumok generálásához. Ezzel a kóddal MS Excel XLS fájlokat hozhat létre Java alapú asztali vagy webes alkalmazásban.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

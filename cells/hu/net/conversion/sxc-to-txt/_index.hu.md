@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SXC konvertálása TXT-re a következőn keresztül: C#"
-url: /hu/net/conversion/sxc-to-txt/
+
 description: Mintakód az sxc-ből txt-be C# konverzióhoz. Használjon API példakódot kötegelt sxc fájlok txt konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

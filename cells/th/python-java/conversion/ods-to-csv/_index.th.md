@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง ODS เป็น CSV ผ่าน Python
-url: /th/python-java/conversion/ods-to-csv/
+
 description: โค้ดตัวอย่างสำหรับการแปลง ods เป็น csv Python ใช้โค้ดตัวอย่าง API สำหรับไฟล์ batch ods เป็นการแปลง csv ภายในแอปพลิเคชัน Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

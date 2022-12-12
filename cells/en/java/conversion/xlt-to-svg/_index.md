@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to SVG via Java 
-url: /java/conversion/xlt-to-svg/
+
 description: Convert XLT to SVG format in Java code. Save XLT as SVG using Java.
 ---
 

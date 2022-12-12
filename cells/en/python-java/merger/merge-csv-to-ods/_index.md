@@ -1,6 +1,6 @@
 ---
 title: Merge CSV to ODS Files via Python 
-url: /python-java/merger/merge-csv-to-ods/ 
+
 description: Merge CSV to ODS file in Python code. Combine CSV to ODS file using Python.
 ---
 

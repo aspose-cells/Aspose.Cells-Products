@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してXLSXをFODSに変換します
-url: /ja/net/conversion/xlsx-to-fods/
+
 description: xlsxからfodsC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチxlsxファイルからfodsへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

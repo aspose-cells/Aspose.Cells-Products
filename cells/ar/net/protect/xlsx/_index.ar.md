@@ -1,7 +1,7 @@
-﻿---
+---
 title: حماية وقفل مستند XLSX عبر .NET 
 weight: 90
-url: /ar/net/protect/xlsx/ 
+
 description: C# شفرة المصدر لقفل ملف XLSX باستخدام كلمة المرور في .NET Framework أو .NET Core أو Mono أو أنظمة Xamarin الأساسية.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

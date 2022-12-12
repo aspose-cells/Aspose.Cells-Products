@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Jelentések generálása ODS-fájlokban a következőn keresztül: .NET "
 weight: 520
-url: /hu/net/assembly/ods/ 
+
 description: C# forráskód az ODS formátumú jelentések létrehozásához .NET Framework, .NET Core, Mono vagy Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

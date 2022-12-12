@@ -1,6 +1,6 @@
-﻿---
+---
 title: MHTML Dosya Biçimlerini .NET aracılığıyla görüntüleyin 
-url: /tr/net/viewer/mhtml/ 
+
 description: .NET Framework, .NET Core, Windows Azure, Mono veya Xamarin Platformlarında MHTML belgelerini yüklemek, oluşturmak ve görüntülemek için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

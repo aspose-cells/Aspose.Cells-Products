@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi TABDELIMITED thành CSV qua C#
-url: /vi/net/conversion/tabdelimited-to-csv/
+
 description: Mã mẫu cho chuyển đổi được giới hạn bằng tab với C# csv. Sử dụng API mã mẫu cho các tệp được giới hạn bằng tab hàng loạt thành chuyển đổi csv trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

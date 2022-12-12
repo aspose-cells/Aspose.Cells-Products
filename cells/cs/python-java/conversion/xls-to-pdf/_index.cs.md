@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLS na PDF přes Python
-url: /cs/python-java/conversion/xls-to-pdf/
+
 description: Ukázkový kód pro převod xls na pdf Python. Použijte API ukázkový kód pro dávkový převod souborů xls na pdf v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

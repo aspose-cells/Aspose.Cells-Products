@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLSX na XLS přes Python
-url: /cs/python-java/conversion/xlsx-to-xls/
+
 description: Ukázkový kód pro převod xlsx na xls Python. Použijte API ukázkový kód pro dávkový převod souborů xlsx na xls v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

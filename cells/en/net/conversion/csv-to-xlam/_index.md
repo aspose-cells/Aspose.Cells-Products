@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to XLAM via C#
-url: /net/conversion/csv-to-xlam/
+
 description: Convert CSV to XLAM format in C# code. Save CSV as XLAM using VB.NET, Asp.NET or any .NET based application.
 ---
 

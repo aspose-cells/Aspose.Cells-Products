@@ -1,7 +1,7 @@
-﻿---
+---
 title:  Γράφημα εγγράφων XLSX σε εικόνες μέσω .NET 
 weight: 2630
-url: /el/net/chart/xlsx/ 
+
 description: C# πηγαίος κώδικας για σχεδίαση και μετατροπή γραφήματος ή διαγράμματος σε αρχείο XLSX σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to XLT via Python
-url: /python-net/conversion/xlsb-to-xlt/
+
 description: Sample code for xlsb to xlt Python conversion. Use API example code for batch xlsb files to xlt conversion within Python application.
 ---
 

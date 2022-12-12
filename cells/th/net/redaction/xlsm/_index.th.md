@@ -1,7 +1,7 @@
-﻿---
+---
 title: ค้นหาและแทนที่ข้อความในเอกสาร XLSM ผ่าน .NET 
 weight: 2370
-url: /th/net/redaction/xlsm/ 
+
 description: C# ซอร์สโค้ดเพื่อแก้ไขข้อมูลที่ละเอียดอ่อนในไฟล์ XLSM บน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

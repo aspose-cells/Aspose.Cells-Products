@@ -1,7 +1,7 @@
-﻿---
+---
 title: ODS दस्तावेज़ को .NET के माध्यम से अनलॉक करें 
 weight: 3110
-url: /hi/net/unlock/ods/ 
+
 description: पासवर्ड से सुरक्षित ODS फ़ाइल को .NET Framework, .NET Core, Mono या Xamarin Platforms पर अनलॉक करने के लिए C# स्रोत कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj TSV na DIF przez C#
-url: /pl/net/conversion/tsv-to-dif/
+
 description: Przykładowy kod konwersji tsv do różnic C#. Użyj przykładowego kodu API dla plików wsadowych tsv do konwersji różnic w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

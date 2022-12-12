@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Konvertálja az XLT-t BMP-vé a következőn keresztül: C#"
-url: /hu/net/conversion/xlt-to-bmp/
+
 description: Mintakód az xlt–bmp C# konverzióhoz. Használjon API példakódot kötegelt xlt fájlokhoz a bmp konvertáláshoz VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

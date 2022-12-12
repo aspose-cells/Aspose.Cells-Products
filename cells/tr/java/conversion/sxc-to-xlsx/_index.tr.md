@@ -1,6 +1,6 @@
-﻿---
+---
 title: Java aracılığıyla SXC'yi XLSX'e dönüştürün 
-url: /tr/java/conversion/sxc-to-xlsx/ 
+
 description: SXC biçimi için XLSX dosyasına örnek Java dönüştürme kodu. Programcılar, Excel ve OpenOffice elektronik tablolarını herhangi bir Web veya Masaüstü Java tabanlı Uygulamada XLSX'e aktarmak için bu örnek kodu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

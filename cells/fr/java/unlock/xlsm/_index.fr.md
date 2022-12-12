@@ -1,7 +1,7 @@
-﻿---
+---
 title: Déverrouiller le document XLSM via Java 
 weight: 7700
-url: /fr/java/unlock/xlsm/ 
+
 description: Java exemple de code pour déverrouiller le fichier XLSM protégé par mot de passe sur Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

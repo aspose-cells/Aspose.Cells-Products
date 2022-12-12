@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل FODS إلى JSON عبر C#
-url: /ar/net/conversion/fods-to-json/
+
 description: نموذج كود للتحويل من fods إلى json C#. استخدم API رمز المثال لملفات fods الدفعية لتحويل json داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

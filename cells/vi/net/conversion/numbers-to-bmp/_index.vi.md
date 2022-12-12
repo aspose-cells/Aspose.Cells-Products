@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển NUMBERS thành BMP qua C#
-url: /vi/net/conversion/numbers-to-bmp/
+
 description: Mã mẫu cho chuyển đổi số thành bmp C#. Sử dụng mã mẫu API cho các tệp số lô để chuyển đổi bmp trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

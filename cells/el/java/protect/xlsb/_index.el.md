@@ -1,7 +1,7 @@
-﻿---
+---
 title: Προστασία και κλείδωμα εγγράφου XLSB μέσω Java 
 weight: 6590
-url: /el/java/protect/xlsb/ 
+
 description: Java δείγμα κώδικα για να κλειδώσετε το αρχείο XLSB χρησιμοποιώντας κωδικό πρόσβασης στο Java Runtime Environment για εφαρμογές JSP/JSF και εφαρμογές επιφάνειας εργασίας.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

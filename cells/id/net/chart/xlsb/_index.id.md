@@ -1,7 +1,7 @@
-﻿---
+---
 title:  Bagan dokumen XLSB ke gambar melalui .NET 
 weight: 8560
-url: /id/net/chart/xlsb/ 
+
 description: C# kode sumber untuk menggambar dan mengonversi bagan atau diagram dalam file XLSB pada Platform .NET Framework, .NET Core, Mono atau Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

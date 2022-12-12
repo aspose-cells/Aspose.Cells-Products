@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Szöveg és képek kinyerése XLS-dokumentumból a következőn keresztül: Java "
 weight: 3700
-url: /hu/java/parser/xls/ 
+
 description: Java mintakód a szövegek és képek XLS-fájlból való kivonásához a Java Runtime Environment for JSP/JSF Applications and Desktop Applications rendszerben.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

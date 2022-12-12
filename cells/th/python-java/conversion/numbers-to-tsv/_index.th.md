@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง NUMBERS เป็น TSV ผ่าน Python
-url: /th/python-java/conversion/numbers-to-tsv/
+
 description: โค้ดตัวอย่างสำหรับการแปลงตัวเลขเป็น tsv Python ใช้โค้ดตัวอย่าง API สำหรับไฟล์หมายเลขแบทช์เป็นการแปลง tsv ภายในแอปพลิเคชัน Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

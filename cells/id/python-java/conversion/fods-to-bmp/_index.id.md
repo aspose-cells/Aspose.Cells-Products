@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan FODS ke BMP melalui Python
-url: /id/python-java/conversion/fods-to-bmp/
+
 description: Contoh kode untuk konversi fods ke bmp Python. Gunakan API kode contoh untuk file batch fods ke konversi bmp dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

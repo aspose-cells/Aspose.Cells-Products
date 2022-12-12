@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してXLSをSVGに変換する 
 weight: 9510
-url: /ja/java/conversion/xls-to-svg/ 
+
 description: XLS形式からSVGファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のSVGにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Slå samman TXT-filer via Java 
 weight: 4480
-url: /sv/java/merger/txt/ 
+
 description: Java exempelkod för att kombinera TXT-dokument i Java Runtime Environment för JSP/JSF Application och Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

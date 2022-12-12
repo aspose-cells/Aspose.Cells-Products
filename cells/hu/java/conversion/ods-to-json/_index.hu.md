@@ -1,7 +1,7 @@
-﻿---
+---
 title: "ODS konvertálása JSON-ra a következőn keresztül: Java "
 weight: 4670
-url: /hu/java/conversion/ods-to-json/ 
+
 description: Minta Java konverziós kód az ODS-formátumhoz JSON-fájllá. A programozók ezt a példakódot használhatják Excel- és OpenOffice-táblázatok exportálására JSON-ba bármely web- vagy asztali Java-alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

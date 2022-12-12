@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversikan XLSB ke EMF melalui Java 
 weight: 710
-url: /id/java/conversion/xlsb-to-emf/ 
+
 description: Contoh Java kode konversi untuk format XLSB ke file EMF. Pemrogram dapat menggunakan kode contoh ini untuk mengekspor spreadsheet Excel & OpenOffice ke EMF dalam Aplikasi berbasis Web atau Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

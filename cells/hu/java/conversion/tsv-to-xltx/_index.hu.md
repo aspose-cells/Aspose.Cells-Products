@@ -1,7 +1,7 @@
-﻿---
+---
 title: "TSV konvertálása XLTX-re a következőn keresztül: Java "
 weight: 6680
-url: /hu/java/conversion/tsv-to-xltx/ 
+
 description: Minta Java konverziós kód a TSV formátumhoz XLTX fájllá. A programozók ezt a példakódot használhatják Excel és OpenOffice táblázatok XLTX formátumba exportálására bármely web- vagy asztali Java alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera HTML till JPEG via Python
-url: /sv/python-java/conversion/html-to-jpeg/
+
 description: Exempelkod för konvertering från html till jpeg Python. Använd API exempelkod för batch-html-filer till jpeg-konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

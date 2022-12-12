@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLSM-et XLSB-vé a C++ alkalmazással 
-url: /hu/cpp/conversion/xlsm-to-xlsb/ 
+
 description: Minta C++ konverziós kód XLSM dokumentumhoz XLSB formátumba. A programozók ezt a forráskódot használhatják kötegelt XLSM-XLSB-konverzióhoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

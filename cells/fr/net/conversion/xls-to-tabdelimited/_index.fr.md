@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir XLS en TABDELIMITED via C#
-url: /fr/net/conversion/xls-to-tabdelimited/
+
 description: Exemple de code pour la conversion de xls en C# délimitée par des tabulations. Utilisez l'exemple de code API pour les fichiers batch xls en conversion délimitée par des tabulations dans VB.NET, Asp.NET ou toute application basée sur .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

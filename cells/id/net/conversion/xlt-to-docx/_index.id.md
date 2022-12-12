@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan XLT ke DOCX melalui C#
-url: /id/net/conversion/xlt-to-docx/
+
 description: Contoh kode untuk konversi xlt ke docx C#. Gunakan API kode contoh untuk file batch xlt ke konversi docx dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

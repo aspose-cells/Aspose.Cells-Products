@@ -1,6 +1,6 @@
-﻿---
+---
 title: XLTX को C++ एप्लिकेशन के माध्यम से DIF में बदलें 
-url: /hi/cpp/conversion/xltx-to-dif/ 
+
 description: नमूना C++ XLTX दस्तावेज़ के लिए DIF प्रारूप में रूपांतरण कोड। प्रोग्रामर इस स्रोत कोड का उपयोग बैच XLTX से DIF रूपांतरण के लिए किसी भी C++ एप्लिकेशन में कर सकते हैं।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

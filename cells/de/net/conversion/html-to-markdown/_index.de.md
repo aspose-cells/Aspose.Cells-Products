@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie HTML in MARKDOWN über C#
-url: /de/net/conversion/html-to-markdown/
+
 description: Beispielcode für die HTML-zu-Markdown-C#-Konvertierung. Verwenden Sie API Beispielcode für Batch-HTML-Dateien zur Markdown-Konvertierung in VB.NET, Asp.NET oder einer beliebigen .NET-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

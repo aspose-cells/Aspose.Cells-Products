@@ -1,6 +1,6 @@
-﻿---
+---
 title: TSV को Python के द्वारा CSV में बदलें
-url: /hi/python-java/conversion/tsv-to-csv/
+
 description: tsv से csv Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर csv रूपांतरण में बैच tsv फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

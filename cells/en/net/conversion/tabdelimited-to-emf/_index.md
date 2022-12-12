@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to EMF via C#
-url: /net/conversion/tabdelimited-to-emf/
+
 description: Convert TABDELIMITED to EMF format in C# code. Save TABDELIMITED as EMF using VB.NET, Asp.NET or any .NET based application.
 ---
 

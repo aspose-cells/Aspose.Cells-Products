@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してMHTMLをXLTMに変換します 
 weight: 1230
-url: /ja/java/conversion/mhtml-to-xltm/ 
+
 description: MHTML形式からXLTMファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、WebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをXLTMにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
 ---
 title: Insert Arc into Excel via .NET 
 weight: 337
-url: /net/shapes/insert-arc-to-excel/ 
+
 description: C# source code to insert Arc into Excel on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

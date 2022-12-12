@@ -1,7 +1,7 @@
-﻿---
+---
 title: Protégez et verrouillez le document XLS via .NET 
 weight: 7010
-url: /fr/net/protect/xls/ 
+
 description: Code source C# pour verrouiller le fichier XLS à l'aide d'un mot de passe sur .NET Framework, .NET Core, Mono ou Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

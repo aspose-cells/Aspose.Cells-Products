@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل الأرقام إلى FODS عبر Python
-url: /ar/python-java/conversion/numbers-to-fods/
+
 description: نموذج كود لتحويل الأعداد إلى fods Python. استخدم API رمز المثال لملفات أرقام الدُفعات لتحويل fods داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to XLTM via Python
-url: /python-java/conversion/spreadsheetml-to-xltm/
+
 description: Convert SPREADSHEETML to XLTM format in Python code. Save SPREADSHEETML as XLTM using Python.
 ---
 

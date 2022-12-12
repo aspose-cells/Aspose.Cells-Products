@@ -1,6 +1,6 @@
-﻿---
+---
 title: "FODS konvertálása DOCX-re a következőn keresztül: C#"
-url: /hu/net/conversion/fods-to-docx/
+
 description: Mintakód a fods to docx C# konverzióhoz. Használjon API példakódot kötegelt fods fájlokhoz a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazás docx konvertálásához.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

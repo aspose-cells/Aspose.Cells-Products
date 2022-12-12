@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل MHTML إلى XLT عبر تطبيق C++ 
-url: /ar/cpp/conversion/mhtml-to-xlt/ 
+
 description: نموذج لشفرة تحويل C++ لمستند MHTML إلى تنسيق XLT. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل MHTML إلى XLT دفعة داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

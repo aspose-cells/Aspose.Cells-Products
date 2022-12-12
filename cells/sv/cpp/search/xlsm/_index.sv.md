@@ -1,7 +1,7 @@
-﻿---
+---
 title: Sök i XLSM-dokument utan att öppna via C++ 
 weight: 9280
-url: /sv/cpp/search/xlsm/ 
+
 description: C++ exempelkod för att söka efter ord med mönster i XLSM-fil i C++ Runtime Environment för Windows 32-bitars, Windows 64-bitars och Linux 64-bitars.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

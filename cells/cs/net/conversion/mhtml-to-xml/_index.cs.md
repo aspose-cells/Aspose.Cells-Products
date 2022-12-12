@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést MHTML na XML prostřednictvím C#
-url: /cs/net/conversion/mhtml-to-xml/
+
 description: Ukázkový kód pro převod mhtml na xml C#. Použijte API ukázkový kód pro dávkový převod souborů mhtml na xml v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

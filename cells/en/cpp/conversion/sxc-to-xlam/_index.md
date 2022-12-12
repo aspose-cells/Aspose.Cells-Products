@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to XLAM via C++
-url: /cpp/conversion/sxc-to-xlam/
+
 description: Convert SXC to XLAM format in C++ code. Save SXC as XLAM using C++.
 ---
 

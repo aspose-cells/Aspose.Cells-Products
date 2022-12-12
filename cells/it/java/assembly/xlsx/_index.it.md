@@ -1,7 +1,7 @@
-﻿---
+---
 title: Genera rapporti nei file XLSX tramite Java 
 weight: 7710
-url: /it/java/assembly/xlsx/ 
+
 description: Java codice di esempio per creare report in formato XLSX su Java Runtime Environment per applicazioni JSP/JSF e applicazioni desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

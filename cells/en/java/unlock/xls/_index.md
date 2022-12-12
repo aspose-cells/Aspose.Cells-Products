@@ -1,7 +1,7 @@
 ---
 title: Unlock XLS document via Java 
 weight: 6390
-url: /java/unlock/xls/ 
+
 description: Java sample code to unlock password protected XLS file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

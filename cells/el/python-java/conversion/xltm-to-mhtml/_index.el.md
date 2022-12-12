@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή XLTM σε MHTML μέσω Python
-url: /el/python-java/conversion/xltm-to-mhtml/
+
 description: Δείγμα κώδικα για μετατροπή xltm σε mhtml Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδική μετατροπή αρχείων xltm σε mhtml εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

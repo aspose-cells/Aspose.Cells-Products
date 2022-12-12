@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してFODSをXLSBに変換します 
-url: /ja/java/conversion/fods-to-xlsb/ 
+
 description: FODS形式からXLSBファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のXLSBにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

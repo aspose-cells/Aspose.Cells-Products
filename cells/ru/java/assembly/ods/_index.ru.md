@@ -1,7 +1,7 @@
-﻿---
+---
 title: Создание отчетов в файлах ODS через Java 
 weight: 2440
-url: /ru/java/assembly/ods/ 
+
 description: Пример кода Java для создания отчетов в формате ODS в Java среде выполнения для приложений JSP/JSF и настольных приложений.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

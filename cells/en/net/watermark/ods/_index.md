@@ -1,7 +1,7 @@
 ---
 title: Watermark ODS document via .NET 
 weight: 4190
-url: /net/watermark/ods/ 
+
 description: C# source code to add or remove watermark to ODS file on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

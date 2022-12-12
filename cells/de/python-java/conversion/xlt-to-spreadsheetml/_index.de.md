@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie XLT in SPREADSHEETML über Python
-url: /de/python-java/conversion/xlt-to-spreadsheetml/
+
 description: Beispielcode für die Umwandlung von xlt in Spreadsheetml Python. Verwenden Sie API Beispielcode für die Batch-Konvertierung von XLT-Dateien in SpreadsheetML innerhalb der Anwendung Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

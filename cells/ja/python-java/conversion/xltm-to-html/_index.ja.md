@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してXLTMをHTMLに変換します
-url: /ja/python-java/conversion/xltm-to-html/
+
 description: xltmからhtmlPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチxltmファイルからhtmlへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

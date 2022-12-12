@@ -1,6 +1,6 @@
-﻿---
+---
 title: NUMBERS über C# in MHTML umwandeln
-url: /de/net/conversion/numbers-to-mhtml/
+
 description: Beispielcode für die Umwandlung von Zahlen in mhtml C#. Verwenden Sie den API Beispielcode für die Umwandlung von Stapelnummerndateien in mhtml innerhalb von VB.NET, Asp.NET oder einer beliebigen .NET-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert XLSX to TXT via Python
-url: /python-net/conversion/xlsx-to-txt/
+
 description: Sample code for xlsx to txt Python conversion. Use API example code for batch xlsx files to txt conversion within Python application.
 ---
 

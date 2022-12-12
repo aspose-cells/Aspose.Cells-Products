@@ -1,6 +1,6 @@
-﻿---
+---
 title: .NET के द्वारा XLSX फ़ाइलें संपादित करें 
-url: /hi/net/editor/xlsx/ 
+
 description: .NET Framework, .NET Core, Windows Azure, Mono या Xamarin Platforms पर XLSX दस्तावेज़ को संपादित करने के लिए C# स्रोत कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

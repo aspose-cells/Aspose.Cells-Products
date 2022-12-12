@@ -1,7 +1,7 @@
-﻿---
+---
 title: "JSON konvertálása DOCX-re a következőn keresztül: Java "
 weight: 970
-url: /hu/java/conversion/json-to-docx/ 
+
 description: Minta Java konverziós kód a JSON-formátumhoz DOCX-fájllá. A programozók ezt a példakódot használhatják Excel- és OpenOffice-táblázatok exportálására DOCX-be bármely web- vagy asztali Java-alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

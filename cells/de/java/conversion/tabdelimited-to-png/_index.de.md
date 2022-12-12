@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie TABDELIMITED in PNG über Java 
-url: /de/java/conversion/tabdelimited-to-png/ 
+
 description: Beispiel-Umwandlungscode Java für das TABDELIMITED-Format in eine PNG-Datei. Programmierer können diesen Beispielcode verwenden, um Excel- und OpenOffice-Tabellen in PNG innerhalb jeder Web- oder Desktop-Java-basierten Anwendung zu exportieren.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

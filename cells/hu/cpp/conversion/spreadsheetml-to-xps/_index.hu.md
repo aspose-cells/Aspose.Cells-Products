@@ -1,6 +1,6 @@
-﻿---
+---
 title: A SPREADSHEETML konvertálása XPS-re a(z) C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/spreadsheetml-to-xps/ 
+
 description: Minta C++ konverziós kód a SPREADSHEETML dokumentumhoz XPS formátumba. A programozók ezt a forráskódot használhatják a SPREADSHEETML-ből XPS-re kötegelt konvertáláshoz bármely C++ alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

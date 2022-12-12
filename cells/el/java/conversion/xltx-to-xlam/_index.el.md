@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή XLTX σε XLAM μέσω Java 
-url: /el/java/conversion/xltx-to-xlam/ 
+
 description: Δείγμα κώδικα μετατροπής Java για μορφή XLTX σε αρχείο XLAM. Οι προγραμματιστές μπορούν να χρησιμοποιήσουν αυτό το παράδειγμα κώδικα για να εξάγουν υπολογιστικά φύλλα Excel και OpenOffice σε XLAM σε οποιαδήποτε εφαρμογή που βασίζεται στον Ιστό ή στην επιφάνεια εργασίας Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

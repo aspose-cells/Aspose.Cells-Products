@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή HTML σε XPS μέσω Python
-url: /el/python-java/conversion/html-to-xps/
+
 description: Δείγμα κώδικα για μετατροπή html σε xps Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδική μετατροπή αρχείων html σε xps εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

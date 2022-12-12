@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan SPREADSHEETML ke XLSB melalui C#
-url: /id/net/conversion/spreadsheetml-to-xlsb/
+
 description: Contoh kode untuk spreadsheetml ke xlsb C# konversi. Gunakan API kode contoh untuk file batch spreadsheetml ke konversi xlsb dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

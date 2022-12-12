@@ -1,6 +1,6 @@
-﻿---
+---
 title: Scal pliki XLTM przez C++ 
-url: /pl/cpp/merger/xltm/ 
+
 description: C++ przykładowy kod do łączenia dokumentów XLTM w C++ Runtime Environment dla Windows 32-bitowy, Windows 64-bitowy i Linux 64-bitowy.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

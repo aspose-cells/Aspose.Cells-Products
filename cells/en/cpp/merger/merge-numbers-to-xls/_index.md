@@ -1,6 +1,6 @@
 ---
 title: Merge NUMBERS to XLS Files via C++ 
-url: /cpp/merger/merge-numbers-to-xls/ 
+
 description: Merge NUMBERS to XLS file in C++ code. Combine NUMBERS to XLS file using C++.
 ---
 

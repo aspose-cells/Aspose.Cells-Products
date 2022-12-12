@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte XLTM na HTML pomocí aplikace C++ 
-url: /cs/cpp/conversion/xltm-to-html/ 
+
 description: Ukázka převodního kódu C++ pro dokument XLTM do formátu HTML. Programátoři mohou použít tento zdrojový kód pro dávkovou konverzi XLTM do HTML v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

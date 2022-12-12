@@ -1,6 +1,6 @@
 ---
 title: Convert TSV to XML via Java 
-url: /java/conversion/tsv-to-xml/
+
 description: Convert TSV to XML format in Java code. Save TSV as XML using Java.
 ---
 

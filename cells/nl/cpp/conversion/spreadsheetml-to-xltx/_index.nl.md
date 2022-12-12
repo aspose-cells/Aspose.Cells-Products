@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer SPREADSHEETML naar XLTX via C++ applicatie 
-url: /nl/cpp/conversion/spreadsheetml-to-xltx/ 
+
 description: Voorbeeld C++-conversiecode voor SPREADSHEETML-document naar XLTX-indeling. Programmeurs kunnen deze broncode gebruiken voor batch-SPREADSHEETML-naar-XLTX-conversie binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

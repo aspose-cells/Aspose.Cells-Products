@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi TXT sang HTML qua Python
-url: /vi/python-java/conversion/txt-to-html/
+
 description: Mã mẫu cho chuyển đổi txt sang html Python. Sử dụng API mã mẫu cho các tệp txt hàng loạt để chuyển đổi html trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحرير ملفات CSV عبر .NET 
-url: /ar/net/editor/csv/ 
+
 description: C# شفرة المصدر لتعديل مستند CSV على الأنظمة الأساسية .NET Framework أو .NET Core أو Windows Azure Mono أو Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

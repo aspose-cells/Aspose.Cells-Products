@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir JSON en MD via Python
-url: /fr/python-java/conversion/json-to-md/
+
 description: Exemple de code pour la conversion json en md Python. Utilisez l'exemple de code API pour la conversion par lots de fichiers json en md dans l'application Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Durchsuchen Sie das TXT-Dokument, ohne es über .NET zu öffnen 
 weight: 8410
-url: /de/net/search/txt/ 
+
 description: C#-Quellcode zum Suchen von Wörtern mit Muster in der TXT-Datei auf .NET Framework-, .NET Core-, Mono- oder Xamarin-Plattformen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

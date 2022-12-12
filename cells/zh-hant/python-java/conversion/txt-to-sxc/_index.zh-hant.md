@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 Python 將 TXT 轉換為 SXC
-url: /zh-hant/python-java/conversion/txt-to-sxc/
+
 description: txt 到 sxc Python 轉換的示例代碼。使用 Python 應用程序中將 txt 文件批量轉換為 sxc 的 API 示例代碼。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

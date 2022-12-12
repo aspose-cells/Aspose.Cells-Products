@@ -1,7 +1,7 @@
-﻿---
+---
 title: RDLレポートをSQLServerのExcelXLSXLSXおよびSpreadsheetMLにエクスポートします 
 weight: 3460
-url: /ja/reporting-services/ 
+
 description: SQL ServerReportingServicesレンダリング拡張機能-ExcelXLSXLSX XLSM XLSB CSV SpreadsheetMLHTMLODSおよびTXT形式をエクスポートします
 ---
 {{< blocks/products/pf/main-wrap-class >}}

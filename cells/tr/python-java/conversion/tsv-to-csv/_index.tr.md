@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla TSV'yi CSV'ye dönüştürün
-url: /tr/python-java/conversion/tsv-to-csv/
+
 description: tsv'den csv'ye Python dönüştürme için örnek kod. Python uygulamasında toplu tsv dosyalarını csv'ye dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

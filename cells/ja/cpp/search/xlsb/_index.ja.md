@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++を介して開かずにXLSBドキュメントを検索する 
 weight: 7020
-url: /ja/cpp/search/xlsb/ 
+
 description: Windows 32ビット、Windows 64ビット、およびLinux64ビットのC++ランタイム環境でXLSBファイル内のパターンを持つ単語を検索するためのC++サンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

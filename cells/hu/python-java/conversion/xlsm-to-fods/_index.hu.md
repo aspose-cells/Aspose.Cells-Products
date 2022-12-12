@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLSM konvertálása FODS-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/xlsm-to-fods/
+
 description: Mintakód az xlsm to fods Python konverziójához. Használjon API példakódot az xlsm fájlok kötegelt konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

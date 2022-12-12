@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ Lập trình Bảng tính Excel API - Aspose 
 weight: 7140
-url: /vi/cpp/ 
+
 description: C++ Thư viện Excel để đọc ghi và phân tích cú pháp các tệp bao gồm các định dạng XLS, XLSX, XLSM và XLSB. Chuyển đổi bảng tính sang PDF, CSV và các định dạng khác
 ---
 {{< blocks/products/pf/main-wrap-class >}}

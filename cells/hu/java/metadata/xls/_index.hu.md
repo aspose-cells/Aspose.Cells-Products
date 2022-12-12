@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Szerkessze vagy tekintse meg az XLS-fájlok metaadatait a következőn keresztül: Java "
 weight: 730
-url: /hu/java/metadata/xls/ 
+
 description: Java mintakód az XLS formátumú metaadatok szerkesztéséhez vagy megtekintéséhez a Java Runtime Environment for JSP/JSF alkalmazásokhoz és asztali alkalmazásokhoz.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

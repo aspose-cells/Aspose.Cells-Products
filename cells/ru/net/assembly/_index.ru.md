@@ -1,6 +1,6 @@
-﻿---
+---
 title: Создание файлов Excel через C#
-url: /ru/net/assembly/
+
 description: Создание электронных таблиц Microsoft Excel из листа шаблона с использованием кода C#
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

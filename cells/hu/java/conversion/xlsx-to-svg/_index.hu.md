@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLSX konvertálása SVG-vé a következőn keresztül: Java "
 weight: 6580
-url: /hu/java/conversion/xlsx-to-svg/ 
+
 description: Minta Java konverziós kód az XLSX formátumhoz SVG-fájllá. A programozók ezt a példakódot használhatják Excel és OpenOffice táblázatok exportálására SVG formátumba bármely web- vagy asztali Java alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

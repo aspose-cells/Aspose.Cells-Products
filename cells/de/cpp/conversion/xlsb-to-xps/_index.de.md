@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertieren Sie XLSB in XPS über die Anwendung C++ 
 weight: 530
-url: /de/cpp/conversion/xlsb-to-xps/ 
+
 description: Beispiel-Umwandlungscode C++ für das XLSB-Dokument in das XPS-Format. Programmierer können diesen Quellcode für die Batch-Konvertierung von XLSB in XPS in jeder C++-Anwendung verwenden.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

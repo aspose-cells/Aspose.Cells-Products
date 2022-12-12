@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to SXC via Python
-url: /python-java/conversion/xls-to-sxc/
+
 description: Convert XLS to SXC format in Python code. Save XLS as SXC using Python.
 ---
 

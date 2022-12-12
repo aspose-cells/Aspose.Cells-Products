@@ -1,6 +1,6 @@
-﻿---
+---
 title: إنشاء ملفات MS Excel XLSB عبر Java 
-url: /ar/java/create-xlsb/ 
+
 description: Java نموذج كود لإنشاء مستندات XLSB. استخدم هذا الرمز لإنشاء ملفات MS Excel XLSB داخل تطبيق ويب أو سطح مكتب يستند إلى Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

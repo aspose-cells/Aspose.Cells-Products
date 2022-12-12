@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to XLSX via C#
-url: /net/conversion/txt-to-xlsx/
+
 description: Convert TXT to XLSX format in C# code. Save TXT as XLSX using VB.NET, Asp.NET or any .NET based application.
 ---
 

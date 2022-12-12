@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ के माध्यम से खोले बिना ODS दस्तावेज़ खोजें 
 weight: 3300
-url: /hi/cpp/search/ods/ 
+
 description: C++ उदाहरण कोड ओडीएस फ़ाइल में पैटर्न वाले शब्दों को खोजने के लिए C++ विंडोज 32 बिट, विंडोज 64 बिट और लिनक्स 64 बिट के लिए रनटाइम एनवायरनमेंट।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

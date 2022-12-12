@@ -1,7 +1,7 @@
-﻿---
+---
 title: حماية وقفل مستند XLS عبر Java 
 weight: 5070
-url: /ar/java/protect/xls/ 
+
 description: Java نموذج رمز لقفل ملف XLS باستخدام كلمة مرور في Java Runtime Environment for JSP / JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

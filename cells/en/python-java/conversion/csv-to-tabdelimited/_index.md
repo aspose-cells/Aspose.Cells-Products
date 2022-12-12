@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to TABDELIMITED via Python
-url: /python-java/conversion/csv-to-tabdelimited/
+
 description: Convert CSV to TABDELIMITED format in Python code. Save CSV as TABDELIMITED using Python.
 ---
 

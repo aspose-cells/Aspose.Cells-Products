@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ üzerinden XLSM belgesinin kilidini açın 
 weight: 6070
-url: /tr/cpp/unlock/xlsm/ 
+
 description: C++ Windows 32 bit, Windows 64 bit ve Linux 64 bit için C++ Runtime Environment'da parola korumalı XLSM dosyasının kilidini açmak için örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

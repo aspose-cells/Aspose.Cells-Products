@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++ uygulaması aracılığıyla FODS'u JSON'a dönüştürün 
-url: /tr/cpp/conversion/fods-to-json/ 
+
 description: FODS belgesi için JSON biçimine örnek C++ dönüştürme kodu. Programcılar, herhangi bir C++ Uygulamasında toplu FODS'den JSON'a dönüştürme için bu kaynak kodunu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Generieren Sie Berichte in ODS-Dateien über .NET 
 weight: 520
-url: /de/net/assembly/ods/ 
+
 description: C#-Quellcode zum Generieren von Berichten im ODS-Format auf .NET Framework-, .NET Core-, Mono- oder Xamarin-Plattformen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

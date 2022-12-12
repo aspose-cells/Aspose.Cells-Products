@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to XPS via C#
-url: /net/conversion/mhtml-to-xps/
+
 description: Convert MHTML to XPS format in C# code. Save MHTML as XPS using VB.NET, Asp.NET or any .NET based application.
 ---
 

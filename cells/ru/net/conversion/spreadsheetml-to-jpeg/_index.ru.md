@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование SPREADSHETML в JPEG с помощью C#
-url: /ru/net/conversion/spreadsheetml-to-jpeg/
+
 description: Пример кода для преобразования электронной таблицыml в jpeg C#. Используйте пример кода API для пакетного преобразования файлов электронной таблицыml в JPEG в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

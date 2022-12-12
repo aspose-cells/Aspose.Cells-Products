@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj TSV na MD przez C#
-url: /pl/net/conversion/tsv-to-md/
+
 description: Przykładowy kod konwersji tsv do md C#. Użyj przykładowego kodu API dla plików wsadowych tsv do konwersji md w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

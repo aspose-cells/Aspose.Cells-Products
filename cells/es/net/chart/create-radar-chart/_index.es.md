@@ -1,6 +1,6 @@
-﻿---
+---
 title: Crear gráficos de radar a través de C#
-url: /es/net/create-radar-chart/
+
 description: C# Código de ejemplo para crear gráficos radiales en Excel mediante la biblioteca .NET. Use este código para crear un gráfico de radar para MS Excel dentro de VB.NET, Asp.NET o cualquier aplicación basada en .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

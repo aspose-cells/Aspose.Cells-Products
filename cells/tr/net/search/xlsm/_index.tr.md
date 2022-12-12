@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET üzerinden açmadan XLSM belgesini arayın 
 weight: 4880
-url: /tr/net/search/xlsm/ 
+
 description: .NET Framework, .NET Core, Mono veya Xamarin Platformlarında XLSM dosyasında kalıplı kelimeleri aramak için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

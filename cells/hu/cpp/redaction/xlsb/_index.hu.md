@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Szöveg keresése és cseréje XLSB-dokumentumban a következőn keresztül: C++ "
 weight: 6660
-url: /hu/cpp/redaction/xlsb/ 
+
 description: C++ példakód az XLSB-fájl érzékeny információinak törlésére a C++ Runtime Environment for Windows 32 bit, Windows 64 bit és Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

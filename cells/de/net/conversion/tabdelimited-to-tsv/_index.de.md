@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie TABDELIMITED in TSV über C#
-url: /de/net/conversion/tabdelimited-to-tsv/
+
 description: Beispielcode für eine durch Tabulatoren getrennte Umwandlung in tsv C#. Verwenden Sie API Beispielcode für die Batch-Konvertierung von tabulatorgetrennten Dateien in tsv innerhalb von VB.NET, Asp.NET oder einer beliebigen .NET-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

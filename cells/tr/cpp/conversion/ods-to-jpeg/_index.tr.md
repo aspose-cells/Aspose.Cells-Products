@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ uygulaması aracılığıyla ODS'yi JPEG'e dönüştürün 
 weight: 7230
-url: /tr/cpp/conversion/ods-to-jpeg/ 
+
 description: ODS belgesi için JPEG formatına örnek C++ dönüştürme kodu. Programcılar, herhangi bir C++ Uygulamasında toplu ODS'den JPEG'e dönüştürme için bu kaynak kodunu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

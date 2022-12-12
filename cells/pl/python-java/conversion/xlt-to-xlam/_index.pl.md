@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj XLT na XLAM przez Python
-url: /pl/python-java/conversion/xlt-to-xlam/
+
 description: Przykładowy kod konwersji xlt do xlam Python. Użyj przykładowego kodu API dla wsadowych plików xlt do konwersji xlam w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

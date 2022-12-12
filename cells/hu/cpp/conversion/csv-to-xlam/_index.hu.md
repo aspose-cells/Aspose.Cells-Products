@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja a CSV-t XLAM-re a(z) C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/csv-to-xlam/ 
+
 description: Minta C++ konverziós kód a CSV-dokumentumhoz XLAM formátumba. A programozók ezt a forráskódot használhatják a CSV-ből XLAM-be kötegelt konvertálásához bármely C++ alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla XLSB'yi XML'e dönüştürün
-url: /tr/python-java/conversion/xlsb-to-xml/
+
 description: xlsb'den xml'ye Python dönüştürme için örnek kod. Python uygulamasında toplu xlsb dosyalarından xml'ye dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 Python 将 XLTM 转换为 MARKDOWN
-url: /zh/python-java/conversion/xltm-to-markdown/
+
 description: xltm 到 markdown Python 转换的示例代码。使用批量 xltm 文件的 API 示例代码在 Python 应用程序中进行降价转换。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

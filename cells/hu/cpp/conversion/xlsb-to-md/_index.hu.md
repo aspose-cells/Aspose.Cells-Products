@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLSB-t MD-vé a C++ alkalmazással 
-url: /hu/cpp/conversion/xlsb-to-md/ 
+
 description: Minta C++ konverziós kód XLSB dokumentumhoz MD formátumba. A programozók ezt a forráskódot használhatják kötegelt XLSB-ből MD-vé konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

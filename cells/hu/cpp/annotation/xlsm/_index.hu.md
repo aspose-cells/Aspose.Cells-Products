@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLSM-annotáció hozzáadása a következőn keresztül: C++ "
 weight: 2860
-url: /hu/cpp/annotation/xlsm/ 
+
 description: C++ mintakód az XLSM formátumú megjegyzések törléséhez a C++ Runtime Environment for Windows 32 bit, a Windows 64 bit és a Linux 64 bites rendszeren.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

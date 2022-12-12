@@ -1,6 +1,6 @@
 ---
 title: Create CSV Files via Python 
-url: /python-java/create-csv/ 
+
 description: Create CSV files in Python code. Generate CSV files using Python application.
 ---
 

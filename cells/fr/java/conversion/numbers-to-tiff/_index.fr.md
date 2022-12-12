@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir NUMBERS en TIFF via Java 
-url: /fr/java/conversion/numbers-to-tiff/ 
+
 description: Exemple de code de conversion Java pour le format NUMBERS en fichier TIFF. Les programmeurs peuvent utiliser cet exemple de code pour exporter des feuilles de calcul Excel et OpenOffice au format TIFF dans n'importe quelle application Web ou de bureau Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

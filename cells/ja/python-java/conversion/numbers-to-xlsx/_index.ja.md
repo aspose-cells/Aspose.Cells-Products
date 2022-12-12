@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してNUMBERSをXLSXに変換します
-url: /ja/python-java/conversion/numbers-to-xlsx/
+
 description: 数値からxlsxPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチ番号ファイルからxlsxへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

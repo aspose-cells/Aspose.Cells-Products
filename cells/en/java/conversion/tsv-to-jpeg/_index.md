@@ -1,6 +1,6 @@
 ---
 title: Convert TSV to JPEG via Java 
-url: /java/conversion/tsv-to-jpeg/
+
 description: Convert TSV to JPEG format in Java code. Save TSV as JPEG using Java.
 ---
 

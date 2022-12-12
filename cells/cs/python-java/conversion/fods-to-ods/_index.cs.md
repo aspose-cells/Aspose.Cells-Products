@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést FODS na ODS přes Python
-url: /cs/python-java/conversion/fods-to-ods/
+
 description: Ukázkový kód pro konverzi fod na ods Python. Použijte API ukázkový kód pro dávkový převod souborů fods na ods v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

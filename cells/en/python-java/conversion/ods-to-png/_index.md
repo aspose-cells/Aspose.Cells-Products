@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to PNG via Python
-url: /python-java/conversion/ods-to-png/
+
 description: Convert ODS to PNG format in Python code. Save ODS as PNG using Python.
 ---
 

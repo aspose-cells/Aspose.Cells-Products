@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してSPREADSHEETMLをCSVに変換します
-url: /ja/net/conversion/spreadsheetml-to-csv/
+
 description: SpreadsheetmlからcsvC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチspreadsheetmlファイルからcsvへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

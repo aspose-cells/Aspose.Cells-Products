@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést CSV na TIFF prostřednictvím Java 
 weight: 6540
-url: /cs/java/conversion/csv-to-tiff/ 
+
 description: Ukázka převodního kódu Java pro formát CSV na soubor TIFF. Programátoři mohou tento příklad kódu použít k exportu tabulek Excelu a OpenOffice do formátu TIFF v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

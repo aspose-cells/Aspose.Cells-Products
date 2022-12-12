@@ -1,7 +1,7 @@
-﻿---
+---
 title: " XLSM dokumentumdiagram a képekhez a következőn keresztül: .NET "
 weight: 5100
-url: /hu/net/chart/xlsm/ 
+
 description: C# forráskód diagramok vagy diagramok XLSM-fájlba való rajzolásához és konvertálásához .NET Framework, .NET Core, Mono vagy Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Skapa bubbeldiagram via Python
-url: /sv/python-java/create-bubble-chart/
+
 description: Python Exempelkod för att skapa bubbeldiagram till Excel med hjälp av Python Library. Använd den här koden för att skapa ett bubbeldiagram till MS Excel i en Python-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

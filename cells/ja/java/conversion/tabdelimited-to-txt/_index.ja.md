@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してTABDELIMITEDをTXTに変換します 
-url: /ja/java/conversion/tabdelimited-to-txt/ 
+
 description: TABDELIMITED形式からTXTファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のTXTにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Afficher ou modifier les métadonnées des fichiers XLSM via .NET 
 weight: 5590
-url: /fr/net/metadata/xlsm/ 
+
 description: Code source C# pour modifier ou afficher les métadonnées au format XLSM sur .NET Framework, .NET Core, Mono ou Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer XLS naar JSON via Java 
 weight: 9680
-url: /nl/java/conversion/xls-to-json/ 
+
 description: Voorbeeld Java conversiecode voor XLS-indeling naar JSON-bestand. Programmeurs kunnen deze voorbeeldcode gebruiken om Excel- en OpenOffice-spreadsheets naar JSON te exporteren binnen elke web- of desktoptoepassing Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

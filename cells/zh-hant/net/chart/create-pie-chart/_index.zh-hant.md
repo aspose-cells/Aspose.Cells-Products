@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 C# 創建餅圖
-url: /zh-hant/net/create-pie-chart/
+
 description: C# 使用 .NET 庫將餅圖創建到 Excel 的示例代碼。使用此代碼在 VB.NET、Asp.NET 或任何基於 .NET 的應用程序中創建到 MS Excel 的餅圖。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

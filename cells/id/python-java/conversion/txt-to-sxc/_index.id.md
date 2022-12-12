@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan TXT ke SXC melalui Python
-url: /id/python-java/conversion/txt-to-sxc/
+
 description: Contoh kode untuk konversi txt ke sxc Python. Gunakan API kode contoh untuk file batch txt ke konversi sxc dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

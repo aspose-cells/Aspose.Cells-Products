@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLSX konvertálása TIFF-re a következőn keresztül: C#"
-url: /hu/net/conversion/xlsx-to-tiff/
+
 description: Mintakód az xlsx-ből tiff-be C# konverzióhoz. Használjon API példakódot kötegelt xlsx fájlokhoz a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazás tiff konverziójához.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Tạo Tệp TSV qua C# 
-url: /vi/net/create-tsv/ 
+
 description: C# Mã mẫu để tạo tài liệu TSV. Sử dụng mã này để tạo tệp TSV trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

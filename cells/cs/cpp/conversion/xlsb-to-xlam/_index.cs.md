@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte XLSB na XLAM pomocí aplikace C++ 
-url: /cs/cpp/conversion/xlsb-to-xlam/ 
+
 description: Ukázkový konverzní kód C++ pro dokument XLSB na formát XLAM. Programátoři mohou použít tento zdrojový kód pro dávkovou konverzi XLSB na XLAM v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

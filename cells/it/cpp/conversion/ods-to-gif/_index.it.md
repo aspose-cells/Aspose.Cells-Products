@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converti ODS in GIF tramite l'applicazione C++ 
 weight: 6230
-url: /it/cpp/conversion/ods-to-gif/ 
+
 description: Esempio di codice di conversione C++ per un documento ODS in formato GIF. I programmatori possono utilizzare questo codice sorgente per la conversione batch da ODS a GIF all'interno di qualsiasi C++ Applicazione.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

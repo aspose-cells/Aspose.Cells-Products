@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してNUMBERSをJSONに変換する 
-url: /ja/java/conversion/numbers-to-json/ 
+
 description: NUMBERS形式のJSONファイルへのJava変換コードのサンプル。プログラマーは、このサンプルコードを使用して、任意のWebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをJSONにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

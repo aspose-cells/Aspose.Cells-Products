@@ -1,7 +1,7 @@
-﻿---
+---
 title: 在不通过 C++ 打开的情况下搜索 TXT 文档 
 weight: 5090
-url: /zh/cpp/search/txt/ 
+
 description: C++ 示例代码，用于在用于 Windows 32 位、Windows 64 位和 Linux 64 位的 C++ 运行时环境上的 TXT 文件中搜索具有模式的单词。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

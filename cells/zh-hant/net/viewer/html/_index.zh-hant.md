@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 .NET 查看 HTML 文件格式 
-url: /zh-hant/net/viewer/html/ 
+
 description: C# 用於在 .NET Framework、.NET Core、Windows Azure、Mono 或 Xamarin 平台上加載、呈現和顯示 HTML 文檔的源代碼。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konwertuj TXT na JSON przez Java 
 weight: 6380
-url: /pl/java/conversion/txt-to-json/ 
+
 description: Przykładowy kod konwersji Java dla formatu TXT do pliku JSON. Programiści mogą użyć tego przykładowego kodu do eksportowania arkuszy kalkulacyjnych Excel i OpenOffice do formatu JSON w dowolnej aplikacji internetowej lub desktopowej Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

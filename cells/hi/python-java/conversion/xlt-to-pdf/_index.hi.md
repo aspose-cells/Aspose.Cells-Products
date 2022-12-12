@@ -1,6 +1,6 @@
-﻿---
+---
 title: XLT को PDF में Python के माध्यम से कनवर्ट करें
-url: /hi/python-java/conversion/xlt-to-pdf/
+
 description: xlt से pdf Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर बैच xlt फ़ाइलों से पीडीएफ रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert XLTM to MD via Java 
-url: /java/conversion/xltm-to-md/
+
 description: Convert XLTM to MD format in Java code. Save XLTM as MD using Java.
 ---
 

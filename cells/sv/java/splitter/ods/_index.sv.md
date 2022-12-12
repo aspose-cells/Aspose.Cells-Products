@@ -1,7 +1,7 @@
-﻿---
+---
 title: Dela ODS-filer via Java 
 weight: 1950
-url: /sv/java/splitter/ods/ 
+
 description: Java exempelkod för att dela ODS-dokument i Java Runtime Environment för JSP/JSF Application och Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

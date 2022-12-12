@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển XLTM sang GIF qua Python
-url: /vi/python-java/conversion/xltm-to-gif/
+
 description: Mã mẫu cho chuyển đổi xltm sang gif Python. Sử dụng API mã ví dụ cho hàng loạt tệp xltm thành chuyển đổi gif trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: สร้างแผนภูมิ Excel และแปลงเป็นรูปภาพผ่าน C++
-url: /th/cpp/chart/
+
 description: C++ ซอร์สโค้ดสำหรับวาดและแปลงแผนภูมิหรือไดอะแกรมใน Microsoft Excel โดยใช้ C++ Library
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

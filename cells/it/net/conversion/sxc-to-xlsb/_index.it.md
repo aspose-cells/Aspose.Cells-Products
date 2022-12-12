@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converti SXC in XLSB tramite C#
-url: /it/net/conversion/sxc-to-xlsb/
+
 description: Codice di esempio per la conversione da sxc a xlsb C#. Utilizza API codice di esempio per la conversione batch di file sxc in xlsb all'interno di VB.NET, Asp.NET o qualsiasi applicazione basata su .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

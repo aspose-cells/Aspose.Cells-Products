@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 Python 将 XLSB 转换为 MD
-url: /zh/python-java/conversion/xlsb-to-md/
+
 description: xlsb 到 md Python 转换的示例代码。在 Python 应用程序中使用 API 示例代码将 xlsb 文件批量转换为 md。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

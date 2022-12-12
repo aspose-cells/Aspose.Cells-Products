@@ -1,7 +1,7 @@
-﻿---
+---
 title: Generieren Sie Berichte in ODS-Dateien über Java 
 weight: 2440
-url: /de/java/assembly/ods/ 
+
 description: Java Beispielcode zum Erstellen von Berichten im ODS-Format in Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

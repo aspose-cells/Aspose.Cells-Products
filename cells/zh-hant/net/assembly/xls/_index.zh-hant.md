@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通過 .NET 在 XLS 文件中生成報告 
 weight: 1700
-url: /zh-hant/net/assembly/xls/ 
+
 description: C# 源代碼，用於在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上生成 XLS 格式報告。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

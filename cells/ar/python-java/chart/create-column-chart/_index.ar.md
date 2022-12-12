@@ -1,6 +1,6 @@
-﻿---
+---
 title: إنشاء مخططات عمودية عبر Python
-url: /ar/python-java/create-column-chart/
+
 description: Python نموذج كود لإنشاء مخططات عمودية لبرنامج Excel باستخدام Python المكتبة. استخدم هذا الرمز لإنشاء مخطط عمودي لبرنامج MS Excel داخل تطبيق يستند إلى Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

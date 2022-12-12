@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET Java C++ API d'analyse de feuille de calcul PHP et Android Excel 
 weight: 10
-url: /fr/family
+
 description: Bibliothèques pour lire, écrire et manipuler des fichiers Microsoft Excel dans .NET Java C++ des applications Android et SharePoint. Exporter des feuilles de calcul dans SSRS et JasperReports
 ---
 {{< blocks/products/pf/main-wrap-class >}}

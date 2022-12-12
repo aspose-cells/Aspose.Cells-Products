@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してTXTをXLAMに変換します 
-url: /ja/java/conversion/txt-to-xlam/ 
+
 description: TXT形式からXLAMファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のXLAMにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

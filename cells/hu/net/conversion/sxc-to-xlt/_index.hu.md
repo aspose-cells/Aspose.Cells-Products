@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SXC konvertálása XLT-vé a következőn keresztül: C#"
-url: /hu/net/conversion/sxc-to-xlt/
+
 description: Mintakód az sxc–xlt C# konverzióhoz. Használjon API példakódot kötegelt sxc fájlok xlt konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

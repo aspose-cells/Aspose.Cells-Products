@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla HTML'yi ODS'ye dönüştürün
-url: /tr/net/conversion/html-to-ods/
+
 description: Html'den ods'ye C# dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu html dosyalarından ods'ye dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

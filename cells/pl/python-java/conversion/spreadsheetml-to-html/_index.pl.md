@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj SPREADSHEETML na HTML za pomocą Python
-url: /pl/python-java/conversion/spreadsheetml-to-html/
+
 description: Przykładowy kod do konwersji arkusza kalkulacyjnego ml na html Python. Użyj przykładowego kodu API dla wsadowych plików arkusza kalkulacyjnego w formacie html do konwersji html w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

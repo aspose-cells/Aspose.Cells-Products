@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLSX konvertálása TIFF-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/xlsx-to-tiff/
+
 description: Mintakód az xlsx-ből tiff-be Python konverzióhoz. Használjon API példakódot kötegelt xlsx fájlokhoz a tiff konverzióhoz a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

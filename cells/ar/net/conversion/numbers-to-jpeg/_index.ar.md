@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل NUMBERS إلى JPEG عبر C#
-url: /ar/net/conversion/numbers-to-jpeg/
+
 description: نموذج رمز للأرقام لتحويل C# jpeg. استخدم API رمز المثال لملفات أرقام الدُفعات لتحويل jpeg داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj SPREADSHEETML na ODS przez C#
-url: /pl/net/conversion/spreadsheetml-to-ods/
+
 description: Przykładowy kod konwersji arkusza kalkulacyjnego ml na kurs C#. Użyj przykładowego kodu API dla wsadowych plików arkusza kalkulacyjnego w celu konwersji kursów w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

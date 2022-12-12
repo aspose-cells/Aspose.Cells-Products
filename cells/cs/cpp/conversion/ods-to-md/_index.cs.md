@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte ODS na MD pomocí aplikace C++ 
-url: /cs/cpp/conversion/ods-to-md/ 
+
 description: Ukázka převodního kódu C++ pro dokument ODS na formát MD. Programátoři mohou použít tento zdrojový kód pro dávkovou konverzi ODS na MD v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: ODS konvertálása DIF-re a C++ alkalmazáson keresztül 
 weight: 4040
-url: /hu/cpp/conversion/ods-to-dif/ 
+
 description: Minta C++ konverziós kód az ODS dokumentumhoz DIF formátumba. A programozók ezt a forráskódot használhatják kötegelt ODS-DIF-konverzióhoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

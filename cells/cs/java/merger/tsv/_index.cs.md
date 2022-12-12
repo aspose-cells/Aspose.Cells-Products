@@ -1,7 +1,7 @@
-﻿---
+---
 title: Sloučit soubory TSV přes Java 
 weight: 9260
-url: /cs/java/merger/tsv/ 
+
 description: Java ukázkový kód pro kombinaci dokumentů TSV v Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

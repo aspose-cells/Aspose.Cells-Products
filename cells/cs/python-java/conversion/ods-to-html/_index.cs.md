@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést ODS na HTML prostřednictvím Python
-url: /cs/python-java/conversion/ods-to-html/
+
 description: Ukázkový kód pro konverzi ods na html Python. Použijte API ukázkový kód pro dávkový převod souborů ods na html v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "MHTML konvertálása DIF-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/mhtml-to-dif/
+
 description: Mintakód az mhtml to dif Python konverzióhoz. Használjon API példakódot kötegelt mhtml-fájlokhoz a Python alkalmazáson belüli konvertáláshoz.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

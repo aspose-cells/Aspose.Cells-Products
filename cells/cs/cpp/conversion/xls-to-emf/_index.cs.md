@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převeďte XLS na EMF pomocí aplikace C++ 
 weight: 6870
-url: /cs/cpp/conversion/xls-to-emf/ 
+
 description: Ukázka převodního kódu C++ pro dokument XLS do formátu EMF. Programátoři mohou použít tento zdrojový kód pro dávkový převod XLS na EMF v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

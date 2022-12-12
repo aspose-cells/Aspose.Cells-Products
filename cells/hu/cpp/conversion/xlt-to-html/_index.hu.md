@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLT-t HTML-re a(z) C++ alkalmazással 
-url: /hu/cpp/conversion/xlt-to-html/ 
+
 description: Minta C++ konverziós kód XLT dokumentumhoz HTML formátumba. A programozók ezt a forráskódot használhatják kötegelt XLT-HTML-konverzióhoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

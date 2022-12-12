@@ -1,7 +1,7 @@
-﻿---
+---
 title: Объединить файлы XLSM через .NET 
 weight: 660
-url: /ru/net/merger/xlsm/ 
+
 description: Исходный код C# для объединения документов XLSM на платформах .NET Framework, .NET Core, Mono или Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

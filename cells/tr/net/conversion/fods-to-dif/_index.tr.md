@@ -1,6 +1,6 @@
-﻿---
+---
 title: FODS'u C# aracılığıyla DIF'ye dönüştürün
-url: /tr/net/conversion/fods-to-dif/
+
 description: C# dönüşümünü farklılaştıracak yemler için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde dönüştürmeyi ayırt etmek için toplu dosya dosyaları için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer ODS naar PDF via Java 
 weight: 4170
-url: /nl/java/conversion/ods-to-pdf/ 
+
 description: Voorbeeld Java conversiecode voor ODS-indeling naar PDF-bestand. Programmeurs kunnen deze voorbeeldcode gebruiken om Excel- en OpenOffice-spreadsheets naar PDF te exporteren binnen elke web- of desktoptoepassing Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

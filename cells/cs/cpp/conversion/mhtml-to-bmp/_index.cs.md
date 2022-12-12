@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převeďte MHTML na BMP pomocí aplikace C++ 
 weight: 1020
-url: /cs/cpp/conversion/mhtml-to-bmp/ 
+
 description: Ukázka převodního kódu C++ pro dokument MHTML na formát BMP. Programátoři mohou použít tento zdrojový kód pro dávkovou konverzi MHTML na BMP v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

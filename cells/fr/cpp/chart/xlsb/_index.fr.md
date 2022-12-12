@@ -1,7 +1,7 @@
-﻿---
+---
 title: Tableau de documents XLSB via C++ 
 weight: 5200
-url: /fr/cpp/chart/xlsb/ 
+
 description: C++ exemple de code pour dessiner et convertir un graphique ou un diagramme dans un fichier XLSB sur C++ Runtime Environment pour Windows 32 bits, Windows 64 bits et Linux 64 bits.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

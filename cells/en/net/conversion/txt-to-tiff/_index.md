@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to TIFF via C#
-url: /net/conversion/txt-to-tiff/
+
 description: Convert TXT to TIFF format in C# code. Save TXT as TIFF using VB.NET, Asp.NET or any .NET based application.
 ---
 

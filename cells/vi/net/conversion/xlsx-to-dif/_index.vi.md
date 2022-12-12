@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi XLSX sang DIF qua C#
-url: /vi/net/conversion/xlsx-to-dif/
+
 description: Mã mẫu cho chuyển đổi xlsx sang dif C#. Sử dụng API mã mẫu cho hàng loạt tệp xlsx để chuyển đổi khác trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

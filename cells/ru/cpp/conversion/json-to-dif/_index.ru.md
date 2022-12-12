@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование JSON в DIF с помощью приложения C++ 
-url: /ru/cpp/conversion/json-to-dif/ 
+
 description: Пример кода преобразования C++ для документа JSON в формат DIF. Программисты могут использовать этот исходный код для пакетного преобразования JSON в DIF в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

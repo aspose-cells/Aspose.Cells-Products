@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してEXCELをPPTXに変換します
-url: /ja/python-java/conversion/excel-to-pptx/
+
 description: ExcelからpptxPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチExcelファイルからpptxへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

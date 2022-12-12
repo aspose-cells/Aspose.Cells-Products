@@ -1,7 +1,7 @@
-﻿---
+---
 title:  .NET을(를) 통해 이미지에 대한 ODS 문서 차트 
 weight: 4360
-url: /ko/net/chart/ods/ 
+
 description: C# 소스 코드는 .NET Framework, .NET Core, Mono 또는 Xamarin Platforms의 ODS 파일에서 차트 또는 다이어그램을 그리고 변환합니다.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

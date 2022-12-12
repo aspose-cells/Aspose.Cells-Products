@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++ uygulaması aracılığıyla XLTM'yi GIF'e dönüştürün 
-url: /tr/cpp/conversion/xltm-to-gif/ 
+
 description: XLTM belgesi için GIF formatına örnek C++ dönüştürme kodu. Programcılar, herhangi bir C++ Uygulamasında toplu XLTM'den GIF'e dönüştürme için bu kaynak kodunu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

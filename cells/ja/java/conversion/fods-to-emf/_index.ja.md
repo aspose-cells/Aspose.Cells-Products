@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してFODSをEMFに変換します 
-url: /ja/java/conversion/fods-to-emf/ 
+
 description: FODS形式からEMFファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のEMFにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

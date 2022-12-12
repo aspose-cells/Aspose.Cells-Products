@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++アプリケーションを介してXLTをEMFに変換する 
-url: /ja/cpp/conversion/xlt-to-emf/ 
+
 description: XLTドキュメントからEMF形式へのサンプルC++変換コード。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でXLTからEMFへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

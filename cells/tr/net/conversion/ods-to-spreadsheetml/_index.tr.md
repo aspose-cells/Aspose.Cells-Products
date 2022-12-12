@@ -1,6 +1,6 @@
-﻿---
+---
 title: ODS'yi C# aracılığıyla SPREADSHEETML'ye dönüştürün
-url: /tr/net/conversion/ods-to-spreadsheetml/
+
 description: ods'den e-tabloya ml C# dönüşümü için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu ods dosyaları için elektronik tabloml dönüşümü için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

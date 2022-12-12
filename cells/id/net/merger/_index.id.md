@@ -1,6 +1,6 @@
-﻿---
+---
 title: Penggabungan Berkas Excel API .NET C#
-url: /id/net/merger/
+
 description: Gabungkan file spreadsheet Excel & OpenOffice hanya dengan beberapa baris kode C#.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

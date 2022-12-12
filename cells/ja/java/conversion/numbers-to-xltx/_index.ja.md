@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してNUMBERSをXLTXに変換します 
-url: /ja/java/conversion/numbers-to-xltx/ 
+
 description: NUMBERS形式のXLTXファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、任意のWebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをXLTXにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

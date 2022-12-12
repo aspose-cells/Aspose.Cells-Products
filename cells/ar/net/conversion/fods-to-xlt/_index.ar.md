@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل FODS إلى XLT عبر C#
-url: /ar/net/conversion/fods-to-xlt/
+
 description: نموذج كود لتحويل fods إلى xlt C#. استخدم API رمز المثال لملفات fods الدفعية لتحويل xlt داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

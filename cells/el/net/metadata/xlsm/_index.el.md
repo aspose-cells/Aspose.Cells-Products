@@ -1,7 +1,7 @@
-﻿---
+---
 title: Προβολή ή επεξεργασία μεταδεδομένων αρχείων XLSM μέσω .NET 
 weight: 5590
-url: /el/net/metadata/xlsm/ 
+
 description: C# πηγαίος κώδικας για επεξεργασία ή προβολή μεταδεδομένων μορφής XLSM σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

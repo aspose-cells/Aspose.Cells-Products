@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla SXC'yi SPREADSHEETML'ye dönüştürün
-url: /tr/net/conversion/sxc-to-spreadsheetml/
+
 description: sxc'den elektronik tabloml'ye C# dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu sxc dosyalarından elektronik tabloml dönüşümüne API örnek kodu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

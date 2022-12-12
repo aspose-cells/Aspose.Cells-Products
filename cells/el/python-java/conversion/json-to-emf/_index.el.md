@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή JSON σε EMF μέσω Python
-url: /el/python-java/conversion/json-to-emf/
+
 description: Δείγμα κώδικα για μετατροπή json σε emf Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία json για μετατροπή emf εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

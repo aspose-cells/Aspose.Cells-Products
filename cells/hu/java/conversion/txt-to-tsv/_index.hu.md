@@ -1,7 +1,7 @@
-﻿---
+---
 title: "TXT konvertálása TSV-vé a következőn keresztül: Java "
 weight: 5440
-url: /hu/java/conversion/txt-to-tsv/ 
+
 description: Minta Java konverziós kód a TXT formátumhoz TSV-fájllá. A programozók ezt a példakódot használhatják Excel és OpenOffice táblázatok exportálására TSV-be bármely web- vagy asztali Java alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

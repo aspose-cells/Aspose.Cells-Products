@@ -1,6 +1,6 @@
-﻿---
+---
 title: "ODS konvertálása XLSM-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/ods-to-xlsm/
+
 description: Mintakód az ods–xlsm Python konverzióhoz. Használjon API példakódot a kötegelt ods fájlok xlsm konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل SXC إلى XLSX عبر C#
-url: /ar/net/conversion/sxc-to-xlsx/
+
 description: نموذج كود للتحويل من sxc إلى xlsx C#. استخدم API رمز المثال لملفات sxc الدفعية لتحويل xlsx داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

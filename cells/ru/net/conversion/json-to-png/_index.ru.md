@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование JSON в PNG с помощью C#
-url: /ru/net/conversion/json-to-png/
+
 description: Пример кода для преобразования json в png C#. Используйте пример кода API для пакетного преобразования файлов json в png в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

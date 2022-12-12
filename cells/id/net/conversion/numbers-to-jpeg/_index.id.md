@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi NUMBER ke JPEG melalui C#
-url: /id/net/conversion/numbers-to-jpeg/
+
 description: Contoh kode untuk konversi angka ke jpeg C#. Gunakan API kode contoh untuk file nomor batch ke konversi jpeg dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

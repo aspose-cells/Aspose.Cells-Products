@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést HTML na TIFF pomocí Python
-url: /cs/python-java/conversion/html-to-tiff/
+
 description: Ukázkový kód pro konverzi html na tiff Python. Použijte API ukázkový kód pro dávkové soubory html k převodu tiff v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

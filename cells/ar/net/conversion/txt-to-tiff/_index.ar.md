@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TXT إلى TIFF عبر C#
-url: /ar/net/conversion/txt-to-tiff/
+
 description: نموذج كود لتحويل txt إلى tiff C#. استخدم API مثال الكود لملفات txt المجمعة لإجراء تحويل شجاع داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

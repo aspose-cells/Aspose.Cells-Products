@@ -1,6 +1,6 @@
 ---
 title: Convert JPEG to DOCX via C++
-url: /cpp/conversion/jpeg-to-docx/
+
 description: Convert JPEG to DOCX format in C++ code. Save JPEG as DOCX using C++.
 ---
 

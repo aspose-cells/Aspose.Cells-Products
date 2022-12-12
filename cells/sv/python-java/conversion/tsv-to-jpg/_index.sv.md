@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera TSV till JPG via Python
-url: /sv/python-java/conversion/tsv-to-jpg/
+
 description: Exempelkod för konvertering från tsv till jpg Python. Använd API exempelkod för batch-tsv-filer till jpg-konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

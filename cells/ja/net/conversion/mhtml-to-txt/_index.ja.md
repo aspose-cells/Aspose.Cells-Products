@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してMHTMLをTXTに変換します
-url: /ja/net/conversion/mhtml-to-txt/
+
 description: mhtmlからtxtC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチmhtmlファイルからtxtへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

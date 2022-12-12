@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TSV-fájlok létrehozása a következőn keresztül: Java "
-url: /hu/java/create-tsv/ 
+
 description: Java Mintakód a TSV-dokumentumok generálásához. Használja ezt a kódot TSV-fájlok létrehozásához Java alapú asztali vagy webes alkalmazásban.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

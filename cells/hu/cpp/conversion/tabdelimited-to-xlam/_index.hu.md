@@ -1,6 +1,6 @@
-﻿---
+---
 title: A TABDELIMITED konvertálása XLAM-re a(z) C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/tabdelimited-to-xlam/ 
+
 description: Minta C++ konverziós kód a TABDELIMITED dokumentumhoz XLAM formátumba. A programozók ezt a forráskódot használhatják a TABDELIMITED kötegelt XLAM konvertáláshoz bármely C++ alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

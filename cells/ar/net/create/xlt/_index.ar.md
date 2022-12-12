@@ -1,6 +1,6 @@
-﻿---
+---
 title: إنشاء ملفات MS Excel XLT عبر C# 
-url: /ar/net/create-xlt/ 
+
 description: C# نموذج كود لإنشاء مستندات XLT. استخدم هذا الرمز لإنشاء ملفات MS Excel XLT داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

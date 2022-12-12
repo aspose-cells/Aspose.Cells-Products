@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převeďte XLS na SVG pomocí aplikace C++ 
 weight: 2060
-url: /cs/cpp/conversion/xls-to-svg/ 
+
 description: Ukázka převodního kódu C++ pro dokument XLS na formát SVG. Programátoři mohou použít tento zdrojový kód pro dávkový převod XLS na SVG v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

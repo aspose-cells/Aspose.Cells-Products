@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TABDELIMITED إلى DOCX عبر Python
-url: /ar/python-java/conversion/tabdelimited-to-docx/
+
 description: نموذج رمز لجدولة محدّدة لتحويل docx Python. استخدم API رمز المثال للملفات المحددة بعلامات جدولة مجمعة لتحويل docx داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

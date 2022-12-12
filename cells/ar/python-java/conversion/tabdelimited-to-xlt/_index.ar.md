@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TABDELIMITED إلى XLT عبر Python
-url: /ar/python-java/conversion/tabdelimited-to-xlt/
+
 description: نموذج التعليمات البرمجية لجدولة محدودية لتحويل Python xlt. استخدم API رمز المثال للملفات المحددة بعلامات جدولة مجمعة لتحويل xlt داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

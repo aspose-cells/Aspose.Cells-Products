@@ -1,7 +1,7 @@
-﻿---
+---
 title: Αναζήτηση εγγράφου ODS χωρίς άνοιγμα μέσω .NET 
 weight: 160
-url: /el/net/search/ods/ 
+
 description: C# πηγαίος κώδικας για αναζήτηση λέξεων με μοτίβο σε αρχείο ODS σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

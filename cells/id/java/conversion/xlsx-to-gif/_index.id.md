@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversi XLSX ke GIF melalui Java 
 weight: 2750
-url: /id/java/conversion/xlsx-to-gif/ 
+
 description: Contoh Java kode konversi untuk format XLSX ke file GIF. Pemrogram dapat menggunakan kode contoh ini untuk mengekspor spreadsheet Excel & OpenOffice ke GIF dalam Aplikasi berbasis Web atau Desktop Java apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

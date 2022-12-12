@@ -1,6 +1,6 @@
-﻿---
+---
 title: Bekijk MHTML-bestandsindelingen via .NET 
-url: /nl/net/viewer/mhtml/ 
+
 description: C# broncode voor het laden, weergeven en weergeven van MHTML-documenten op .NET Framework-, .NET Core-, Windows Azure-, Mono- of Xamarin-platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

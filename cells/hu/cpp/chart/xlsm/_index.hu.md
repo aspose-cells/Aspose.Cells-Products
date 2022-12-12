@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLSM dokumentumdiagram a következőn keresztül: C++ "
 weight: 8510
-url: /hu/cpp/chart/xlsm/ 
+
 description: C++ példakód diagram vagy diagram XLSM-fájlba való rajzolásához és konvertálásához a C++ Runtime Environment for Windows 32 bit, Windows 64 bit és Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

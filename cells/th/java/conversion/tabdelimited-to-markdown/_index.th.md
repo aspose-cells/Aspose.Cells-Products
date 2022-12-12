@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง TABDELIMITED เป็น MARKDOWN ผ่าน Java 
-url: /th/java/conversion/tabdelimited-to-markdown/ 
+
 description: ตัวอย่างโค้ดการแปลง Java สำหรับรูปแบบ TABDELIMITED เป็นไฟล์ MARKDOWN โปรแกรมเมอร์สามารถใช้โค้ดตัวอย่างนี้เพื่อส่งออกสเปรดชีต Excel & OpenOffice ไปยัง MARKDOWN ภายในแอปพลิเคชันบนเว็บหรือเดสก์ท็อป Java
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

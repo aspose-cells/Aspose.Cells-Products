@@ -1,6 +1,6 @@
 ---
 title: Convert XLTM to XPS via Java 
-url: /java/conversion/xltm-to-xps/
+
 description: Convert XLTM to XPS format in Java code. Save XLTM as XPS using Java.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Excel-fájlok létrehozása a következőn keresztül: C#"
-url: /hu/net/assembly/
+
 description: Generáljon Microsoft Excel-táblázatokat sablonlapból a C# kód használatával
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

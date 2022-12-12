@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++アプリケーションを介してXLTMをXMLに変換する 
-url: /ja/cpp/conversion/xltm-to-xml/ 
+
 description: XLTMドキュメントからXML形式へのサンプルC++変換コード。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でXLTMからXMLへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

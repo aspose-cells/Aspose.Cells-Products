@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera XLSM till DOCX via Python
-url: /sv/python-java/conversion/xlsm-to-docx/
+
 description: Exempelkod för konvertering från xlsm till docx Python. Använd API exempelkod för batch-xlsm-filer till docx-konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

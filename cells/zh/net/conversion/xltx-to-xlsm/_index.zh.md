@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 C# 将 XLTX 转换为 XLSM
-url: /zh/net/conversion/xltx-to-xlsm/
+
 description: xltx 到 xlsm C# 转换的示例代码。使用 API 示例代码在 VB.NET、Asp.NET 或任何基于 .NET 的应用程序中将 xltx 文件批量转换为 xlsm。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

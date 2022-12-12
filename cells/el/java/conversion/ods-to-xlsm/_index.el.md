@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή ODS σε XLSM μέσω Java 
-url: /el/java/conversion/ods-to-xlsm/ 
+
 description: Δείγμα κώδικα μετατροπής Java για μορφή ODS σε αρχείο XLSM. Οι προγραμματιστές μπορούν να χρησιμοποιήσουν αυτό το παράδειγμα κώδικα για να εξάγουν υπολογιστικά φύλλα Excel και OpenOffice σε XLSM σε οποιαδήποτε εφαρμογή που βασίζεται στον Ιστό ή στην επιφάνεια εργασίας Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

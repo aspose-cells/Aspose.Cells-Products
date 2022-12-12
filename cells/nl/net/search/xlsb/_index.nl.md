@@ -1,7 +1,7 @@
-﻿---
+---
 title: Zoek XLSB-document zonder te openen via .NET 
 weight: 8880
-url: /nl/net/search/xlsb/ 
+
 description: C# broncode om woorden met patroon te zoeken in XLSB-bestand op .NET Framework, .NET Core, Mono of Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

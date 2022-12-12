@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi XLS sang JSON qua Python
-url: /vi/python-java/conversion/xls-to-json/
+
 description: Mã mẫu cho chuyển đổi xls sang json Python. Sử dụng API mã mẫu cho hàng loạt tệp xls sang chuyển đổi json trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

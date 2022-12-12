@@ -1,6 +1,6 @@
-﻿---
+---
 title: Crea grafici azionari ad alto-basso-chiusura tramite C#
-url: /it/net/create-stockhighlowclose-chart/
+
 description: C# Codice di esempio per la creazione di grafici azionari con chiusura alta e bassa in Excel utilizzando .NET Libreria. Utilizzare questo codice per creare un grafico azionario High-Low-Close in MS Excel all'interno di VB.NET, Asp.NET o qualsiasi applicazione basata su .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

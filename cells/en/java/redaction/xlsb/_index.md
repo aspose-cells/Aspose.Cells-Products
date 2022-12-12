@@ -1,7 +1,7 @@
 ---
 title: Search and replace text in XLSB document via Java 
 weight: 4590
-url: /java/redaction/xlsb/ 
+
 description: Java sample code to redact sensitive information in XLSB file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

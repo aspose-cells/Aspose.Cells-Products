@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést FODS na XLAM přes C#
-url: /cs/net/conversion/fods-to-xlam/
+
 description: Ukázkový kód pro konverzi fod na xlam C#. Použijte API ukázkový kód pro dávkové soubory fods na konverzi xlam v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

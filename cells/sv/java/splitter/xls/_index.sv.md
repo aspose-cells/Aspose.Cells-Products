@@ -1,7 +1,7 @@
-﻿---
+---
 title: Dela XLS-filer via Java 
 weight: 610
-url: /sv/java/splitter/xls/ 
+
 description: Java exempelkod för att dela XLS-dokument i Java Runtime Environment för JSP/JSF Application och Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

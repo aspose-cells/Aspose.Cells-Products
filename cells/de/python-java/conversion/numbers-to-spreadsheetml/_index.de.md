@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie NUMBERS in SPREADSHEETML über Python
-url: /de/python-java/conversion/numbers-to-spreadsheetml/
+
 description: Beispielcode für die Umwandlung von Zahlen in Spreadsheetml Python. Verwenden Sie den API Beispielcode für die Konvertierung von Stapelnummerndateien in Tabellenkalkulations-ML innerhalb der Anwendung Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

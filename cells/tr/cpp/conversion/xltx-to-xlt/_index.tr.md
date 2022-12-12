@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++ uygulaması aracılığıyla XLTX'i XLT'ye dönüştürün 
-url: /tr/cpp/conversion/xltx-to-xlt/ 
+
 description: XLTX belgesi için XLT biçimine örnek C++ dönüştürme kodu. Programcılar, herhangi bir C++ Uygulamasında toplu XLTX'ten XLT'ye dönüştürme için bu kaynak kodunu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

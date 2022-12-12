@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi EXCEL sang CSV qua C#
-url: /vi/net/conversion/excel-to-csv/
+
 description: Mã mẫu cho chuyển đổi excel sang csv C#. Sử dụng API mã mẫu cho hàng loạt tệp excel sang chuyển đổi csv trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

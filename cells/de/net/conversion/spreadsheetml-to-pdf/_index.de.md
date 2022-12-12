@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie SPREADSHEETML in PDF über C#
-url: /de/net/conversion/spreadsheetml-to-pdf/
+
 description: Beispielcode für die Umwandlung von Spreadsheetml in PDF C#. Verwenden Sie API Beispielcode für die Batch-Konvertierung von Spreadsheetml-Dateien in PDF innerhalb von VB.NET, Asp.NET oder einer beliebigen .NET-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Wyodrębnij tekst i obrazy z dokumentu XLSM za pomocą C++ 
 weight: 570
-url: /pl/cpp/parser/xlsm/ 
+
 description: C++ przykładowy kod do wyodrębniania tekstu i obrazów z pliku XLSM w C++ środowisku wykonawczym dla 32-bitowego systemu Windows, 64-bitowego systemu Windows i 64-bitowego systemu Linux.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

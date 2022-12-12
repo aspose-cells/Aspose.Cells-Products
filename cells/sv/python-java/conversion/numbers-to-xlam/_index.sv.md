@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera NUMBERS till XLAM via Python
-url: /sv/python-java/conversion/numbers-to-xlam/
+
 description: Exempelkod för siffror till xlam Python-konvertering. Använd API exempelkod för batchnummerfiler till xlam-konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

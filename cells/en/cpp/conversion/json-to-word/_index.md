@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to WORD via C++
-url: /cpp/conversion/json-to-word/
+
 description: Convert JSON to WORD format in C++ code. Save JSON as WORD using C++.
 ---
 

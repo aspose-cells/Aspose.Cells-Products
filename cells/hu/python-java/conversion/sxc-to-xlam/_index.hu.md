@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SXC konvertálása XLAM-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/sxc-to-xlam/
+
 description: Mintakód az sxc–xlam Python konverzióhoz. Használjon API példakódot kötegelt sxc fájlok xlam konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

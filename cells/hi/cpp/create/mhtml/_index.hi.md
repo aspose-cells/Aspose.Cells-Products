@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++ के माध्यम से एमएचटीएमएल फ़ाइलें बनाएं 
-url: /hi/cpp/create-mhtml/ 
+
 description: C++ एमएचटीएमएल फ़ाइलें जनरेट करने के लिए नमूना कोड। C++ आधारित एप्लिकेशन के भीतर एमएचटीएमएल फाइल बनाने के लिए इस कोड का प्रयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

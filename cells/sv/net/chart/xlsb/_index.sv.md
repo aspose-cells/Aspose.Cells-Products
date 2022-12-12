@@ -1,7 +1,7 @@
-﻿---
+---
 title:  XLSB dokumentdiagram till bilder via .NET 
 weight: 8560
-url: /sv/net/chart/xlsb/ 
+
 description: C# källkod för att rita och konvertera diagram eller diagram i XLSB-fil på .NET Framework, .NET Core, Mono eller Xamarin-plattformar.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

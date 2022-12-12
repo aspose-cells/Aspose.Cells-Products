@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java 엑셀 API - Aspose 
 weight: 6830
-url: /ko/java/ 
+
 description: Java 스프레드시트 처리를 위한 Excel 라이브러리. 쓰기 렌더링을 읽고 XLS XLSX XLSM ODS CSV TSV 및 기타 형식을 변환합니다. Windows Linux 및 Unix와 호환
 ---
 {{< blocks/products/pf/main-wrap-class >}}

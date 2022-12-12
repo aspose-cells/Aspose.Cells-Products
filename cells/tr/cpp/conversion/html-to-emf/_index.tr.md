@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ uygulaması aracılığıyla HTML'yi EMF'ye dönüştürün 
 weight: 8550
-url: /tr/cpp/conversion/html-to-emf/ 
+
 description: HTML belgesini EMF biçimine dönüştürmek için örnek C++ dönüştürme kodu. Programcılar, herhangi bir C++ Uygulamasında toplu HTML'den EMF'ye dönüştürme için bu kaynak kodunu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

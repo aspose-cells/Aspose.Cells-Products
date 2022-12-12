@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLSB दस्तावेज़ से Java के माध्यम से टेक्स्ट और चित्र निकालें 
 weight: 440
-url: /hi/java/parser/xlsb/ 
+
 description: Java JSP/JSF एप्लिकेशन और डेस्कटॉप एप्लिकेशन के लिए रनटाइम एनवायरनमेंट पर XLSB फ़ाइल से टेक्स्ट और छवियों को निकालने के लिए Java नमूना कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

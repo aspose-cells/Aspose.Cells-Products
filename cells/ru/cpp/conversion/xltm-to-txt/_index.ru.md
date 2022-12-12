@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLTM в TXT с помощью приложения C++ 
-url: /ru/cpp/conversion/xltm-to-txt/ 
+
 description: Пример кода преобразования C++ для документа XLTM в формат TXT. Программисты могут использовать этот исходный код для пакетного преобразования XLTM в TXT в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

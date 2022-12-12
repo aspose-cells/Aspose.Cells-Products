@@ -1,7 +1,7 @@
-﻿---
+---
 title: Ξεκλείδωμα εγγράφου XLS μέσω C++ 
 weight: 2380
-url: /el/cpp/unlock/xls/ 
+
 description: C++ παράδειγμα κώδικα για να ξεκλειδώσετε το προστατευμένο με κωδικό πρόσβασης αρχείο XLS στο C++ Runtime Environment για Windows 32 bit, Windows 64 bit και Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

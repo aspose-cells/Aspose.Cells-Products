@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TSV إلى DIF عبر Python
-url: /ar/python-java/conversion/tsv-to-dif/
+
 description: نموذج رمز للتحويل من tsv إلى ديف Python. استخدم API رمز المثال لملفات tsv المجمعة لتحويل ديف داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

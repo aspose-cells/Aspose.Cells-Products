@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TABDELIMITED konvertálása MHTML-re a következőn keresztül: C#"
-url: /hu/net/conversion/tabdelimited-to-mhtml/
+
 description: Mintakód a tabulátorral tagolt mhtml C# konverzióhoz. Használjon API példakódot a tabulátorral határolt fájlok kötegelt mhtml konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazásban.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

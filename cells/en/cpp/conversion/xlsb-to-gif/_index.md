@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to GIF via C++
-url: /cpp/conversion/xlsb-to-gif/
+
 description: Convert XLSB to GIF format in C++ code. Save XLSB as GIF using C++.
 ---
 

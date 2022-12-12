@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή XLT σε XPS μέσω της εφαρμογής C++ 
-url: /el/cpp/conversion/xlt-to-xps/ 
+
 description: Δείγμα κώδικα μετατροπής C++ για έγγραφο XLT σε μορφή XPS. Οι προγραμματιστές μπορούν να χρησιμοποιήσουν αυτόν τον πηγαίο κώδικα για μαζική μετατροπή XLT σε XPS σε οποιαδήποτε εφαρμογή C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

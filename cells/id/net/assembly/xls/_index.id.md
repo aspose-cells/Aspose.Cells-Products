@@ -1,7 +1,7 @@
-﻿---
+---
 title: Buat Laporan dalam File XLS melalui .NET 
 weight: 1700
-url: /id/net/assembly/xls/ 
+
 description: C# kode sumber untuk menghasilkan laporan format XLS di .NET Framework, .NET Core, Mono atau Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

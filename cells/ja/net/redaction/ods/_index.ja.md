@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NETを介してODSドキュメント内のテキストを検索して置換します 
 weight: 6100
-url: /ja/net/redaction/ods/ 
+
 description: .NETフレームワーク、.NETコア、Mono、またはXamarinプラットフォーム上のODSファイル内の機密情報を編集するためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

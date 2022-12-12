@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل MHTML إلى JSON عبر Python
-url: /ar/python-java/conversion/mhtml-to-json/
+
 description: نموذج رمز للتحويل من mhtml إلى json Python. استخدم API رمز المثال لملفات mhtml الدفعية لتحويل json داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

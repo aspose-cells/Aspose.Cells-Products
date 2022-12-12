@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование EXCEL в JPG через Python
-url: /ru/python-java/conversion/excel-to-jpg/
+
 description: Пример кода для преобразования Excel в jpg Python. Используйте пример кода API для пакетного преобразования файлов Excel в jpg в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

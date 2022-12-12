@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介して円グラフを作成する
-url: /ja/python-java/create-pie-chart/
+
 description: PythonPythonライブラリを使用してExcelに円グラフを作成するためのサンプルコード。このコードを使用して、Pythonベースのアプリケーション内でMSExcelへの円グラフを作成します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

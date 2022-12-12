@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Konvertálja az XLS-t XLSB-vé a következőn keresztül: Java "
 weight: 250
-url: /hu/java/conversion/xls-to-xlsb/ 
+
 description: Minta Java konverziós kód az XLS formátumhoz XLSB fájllá. A programozók ezt a példakódot használhatják Excel és OpenOffice táblázatok XLSB formátumba exportálására bármely web- vagy asztali Java alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

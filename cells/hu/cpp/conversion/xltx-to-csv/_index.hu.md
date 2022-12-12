@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLTX-et CSV-vé a C++ alkalmazással 
-url: /hu/cpp/conversion/xltx-to-csv/ 
+
 description: Minta C++ konverziós kód XLTX dokumentumhoz CSV formátumba. A programozók ezt a forráskódot használhatják az XLTX kötegelt CSV-vé konvertálásához bármely C++ alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

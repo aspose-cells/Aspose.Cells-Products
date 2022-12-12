@@ -1,6 +1,6 @@
 ---
 title: Merge XLSX to HTML Files via Python 
-url: /python-net/merger/merge-xlsx-to-html/ 
+
 description: Merge XLSX to HTML file in Python code. Combine XLSX to HTML file using Python.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل FODS إلى TIFF عبر Python
-url: /ar/python-java/conversion/fods-to-tiff/
+
 description: نموذج كود ل fods لتحويل Python. استخدم API رمز المثال لملفات fods الدفعية لتحويل شجاع داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

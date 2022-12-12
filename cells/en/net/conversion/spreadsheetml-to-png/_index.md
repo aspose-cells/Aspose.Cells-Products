@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to PNG via C#
-url: /net/conversion/spreadsheetml-to-png/
+
 description: Convert SPREADSHEETML to PNG format in C# code. Save SPREADSHEETML as PNG using VB.NET, Asp.NET or any .NET based application.
 ---
 

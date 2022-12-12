@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta SPREADSHEETML a TXT a través de Python
-url: /es/python-java/conversion/spreadsheetml-to-txt/
+
 description: Código de muestra para la conversión de hoja de cálculo a txt Python. Use el código de ejemplo API para archivos de hoja de cálculo por lotes para la conversión de txt dentro de la aplicación Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

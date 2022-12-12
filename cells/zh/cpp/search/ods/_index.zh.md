@@ -1,7 +1,7 @@
-﻿---
+---
 title: 在不通过 C++ 打开的情况下搜索 ODS 文档 
 weight: 3300
-url: /zh/cpp/search/ods/ 
+
 description: C++ 示例代码，用于在 Windows 32 位、Windows 64 位和 Linux 64 位的 C++ 运行时环境的 ODS 文件中搜索具有模式的单词。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++を介してMHTMLファイルをマージします 
-url: /ja/cpp/merger/mhtml/ 
+
 description: C++ Windows 32ビット、Windows 64ビット、およびLinux64ビットのランタイム環境でMHTMLドキュメントを組み合わせるためのサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

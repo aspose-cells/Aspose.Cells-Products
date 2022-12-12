@@ -1,7 +1,7 @@
-﻿---
+---
 title: Générer des rapports dans des fichiers XLSM via Java 
 weight: 270
-url: /fr/java/assembly/xlsm/ 
+
 description: Java exemple de code pour créer des rapports au format XLSM sur Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

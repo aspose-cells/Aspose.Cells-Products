@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLSM konvertálása PNG-re a következőn keresztül: C#"
-url: /hu/net/conversion/xlsm-to-png/
+
 description: Mintakód az xlsm-ből png-be C# konverzióhoz. Használjon API példakódot kötegelt xlsm fájlok png konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

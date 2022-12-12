@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TXT konvertálása MD-vé a következőn keresztül: Python"
-url: /hu/python-java/conversion/txt-to-md/
+
 description: Mintakód a txt–md Python konverzióhoz. Használjon API példakódot a kötegelt txt fájlok md konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

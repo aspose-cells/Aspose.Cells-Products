@@ -1,7 +1,7 @@
-﻿---
+---
 title: Προστασία και κλείδωμα εγγράφου XLS μέσω C++ 
 weight: 8760
-url: /el/cpp/protect/xls/ 
+
 description: C++ παράδειγμα κώδικα για το κλείδωμα του αρχείου XLS με χρήση κωδικού πρόσβασης στο C++ Runtime Environment για Windows 32 bit, Windows 64 bit και Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

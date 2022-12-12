@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NETを介してXLSMファイルでレポートを生成する 
 weight: 4400
-url: /ja/net/assembly/xlsm/ 
+
 description: .NETフレームワーク、.NETコア、Mono、またはXamarinプラットフォームでXLSM形式のレポートを生成するためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

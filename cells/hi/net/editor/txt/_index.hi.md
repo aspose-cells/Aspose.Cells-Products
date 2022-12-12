@@ -1,6 +1,6 @@
-﻿---
+---
 title: .NET के माध्यम से TXT फ़ाइलें संपादित करें 
-url: /hi/net/editor/txt/ 
+
 description: .NET Framework, .NET Core, Windows Azure, Mono या Xamarin Platforms पर TXT दस्तावेज़ को संपादित करने के लिए C# स्रोत कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

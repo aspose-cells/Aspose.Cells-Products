@@ -1,6 +1,6 @@
-﻿---
+---
 title: Tạo Biểu đồ Radar qua C#
-url: /vi/net/create-radar-chart/
+
 description: C# Mã mẫu để tạo biểu đồ Radar sang Excel bằng cách sử dụng Thư viện .NET. Sử dụng mã này để tạo biểu đồ Radar cho MS Excel trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

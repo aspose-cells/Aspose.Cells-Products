@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование TABDELIMITED в TXT через Python
-url: /ru/python-java/conversion/tabdelimited-to-txt/
+
 description: Пример кода для преобразования tabdelimited в txt Python. Используйте пример кода API для пакетного преобразования файлов с разделителями табуляции в txt в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

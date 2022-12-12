@@ -1,6 +1,6 @@
-﻿---
+---
 title: FODS को C# के माध्यम से PNG में बदलें
-url: /hi/net/conversion/fods-to-png/
+
 description: फोड के लिए नमूना कोड पीएनजी C# रूपांतरण के लिए। VB.NET, Asp.NET या किसी भी .NET आधारित एप्लिकेशन के भीतर png रूपांतरण के लिए बैच फोड फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

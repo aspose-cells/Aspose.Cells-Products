@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertálja a CSV-t SVG-vé a(z) C++ alkalmazáson keresztül 
 weight: 1710
-url: /hu/cpp/conversion/csv-to-svg/ 
+
 description: Minta C++ konverziós kód a CSV-dokumentumhoz SVG formátumba. A programozók ezt a forráskódot használhatják kötegelt CSV-ből SVG-vé konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

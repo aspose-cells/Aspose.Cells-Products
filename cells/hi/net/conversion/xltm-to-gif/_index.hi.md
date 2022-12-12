@@ -1,6 +1,6 @@
-﻿---
+---
 title: XLTM को C# के द्वारा GIF में बदलें
-url: /hi/net/conversion/xltm-to-gif/
+
 description: xltm से gif C# रूपांतरण के लिए नमूना कोड। VB.NET, Asp.NET या किसी .NET आधारित एप्लिकेशन के भीतर बैच xltm फ़ाइलों से gif रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

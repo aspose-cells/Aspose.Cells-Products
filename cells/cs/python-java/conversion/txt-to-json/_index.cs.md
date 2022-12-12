@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TXT na JSON přes Python
-url: /cs/python-java/conversion/txt-to-json/
+
 description: Ukázkový kód pro převod txt na json Python. Použijte API ukázkový kód pro dávkový převod souborů txt na json v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

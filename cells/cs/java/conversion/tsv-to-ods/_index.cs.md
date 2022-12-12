@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést TSV na ODS přes Java 
 weight: 9340
-url: /cs/java/conversion/tsv-to-ods/ 
+
 description: Ukázka převodního kódu Java pro formát TSV na soubor ODS. Programátoři mohou použít tento příklad kódu k exportu tabulek Excelu a OpenOffice do ODS v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

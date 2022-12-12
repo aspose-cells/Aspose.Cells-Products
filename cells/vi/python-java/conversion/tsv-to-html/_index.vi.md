@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi TSV sang HTML qua Python
-url: /vi/python-java/conversion/tsv-to-html/
+
 description: Mã mẫu cho chuyển đổi tsv sang html Python. Sử dụng API mã mẫu cho hàng loạt tệp tsv sang chuyển đổi html trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

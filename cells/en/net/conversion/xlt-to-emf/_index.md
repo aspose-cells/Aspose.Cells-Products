@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to EMF via C#
-url: /net/conversion/xlt-to-emf/
+
 description: Convert XLT to EMF format in C# code. Save XLT as EMF using VB.NET, Asp.NET or any .NET based application.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLTM naar PDF via C#
-url: /nl/net/conversion/xltm-to-pdf/
+
 description: Voorbeeldcode voor conversie van xltm naar pdf C#. Gebruik API voorbeeldcode voor batch xltm-bestanden naar pdf-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

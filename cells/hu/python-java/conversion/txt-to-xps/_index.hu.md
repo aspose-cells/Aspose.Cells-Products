@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TXT konvertálása XPS-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/txt-to-xps/
+
 description: Mintakód a txt–xps Python konverzióhoz. Használjon API példakódot a txt fájlok kötegelt xps konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

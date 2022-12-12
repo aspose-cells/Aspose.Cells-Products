@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to XLS via Python
-url: /python-java/conversion/excel-to-xls/
+
 description: Convert EXCEL to XLS format in Python code. Save EXCEL as XLS using Python.
 ---
 

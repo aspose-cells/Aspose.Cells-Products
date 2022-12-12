@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ uygulaması aracılığıyla XLS'yi CSV'ye dönüştürün 
 weight: 8520
-url: /tr/cpp/conversion/xls-to-csv/ 
+
 description: XLS belgesi için CSV biçimine örnek C++ dönüştürme kodu. Programcılar, herhangi bir C++ Uygulamasında toplu XLS'den CSV'ye dönüştürme için bu kaynak kodunu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل SPREADSHEETML إلى XLSB عبر تطبيق C++ 
-url: /ar/cpp/conversion/spreadsheetml-to-xlsb/ 
+
 description: نموذج رمز تحويل C++ لمستند SPREADSHEETML إلى تنسيق XLSB. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل SPREADSHEETML دفعة واحدة إلى XLSB داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

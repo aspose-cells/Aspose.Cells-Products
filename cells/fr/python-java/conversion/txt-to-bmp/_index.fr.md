@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir TXT en BMP via Python
-url: /fr/python-java/conversion/txt-to-bmp/
+
 description: Exemple de code pour la conversion txt en bmp Python. Utilisez l'exemple de code API pour les fichiers txt par lots en conversion bmp dans l'application Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

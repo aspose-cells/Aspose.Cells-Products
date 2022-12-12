@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLTX-et TSV-vé a C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/xltx-to-tsv/ 
+
 description: Minta C++ konverziós kód az XLTX dokumentumhoz TSV formátumba. A programozók ezt a forráskódot használhatják az XLTX kötegelt TSV-vé konvertálásához bármely C++ alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

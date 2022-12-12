@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to XLAM via C++
-url: /cpp/conversion/xlsb-to-xlam/
+
 description: Convert XLSB to XLAM format in C++ code. Save XLSB as XLAM using C++.
 ---
 

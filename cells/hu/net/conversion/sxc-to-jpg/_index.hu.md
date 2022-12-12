@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SXC konvertálása JPG-re a következőn keresztül: C#"
-url: /hu/net/conversion/sxc-to-jpg/
+
 description: Mintakód az sxc-ből jpg-be C# konvertáláshoz. Használjon API példakódot az sxc fájlok kötegelt jpg konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazásban.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

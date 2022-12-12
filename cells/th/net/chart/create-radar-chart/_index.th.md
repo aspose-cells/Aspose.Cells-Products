@@ -1,6 +1,6 @@
-﻿---
+---
 title: สร้างแผนภูมิเรดาร์ผ่าน C#
-url: /th/net/create-radar-chart/
+
 description: C# โค้ดตัวอย่างสำหรับสร้างแผนภูมิเรดาร์ไปยัง Excel โดยใช้ .NET Library ใช้รหัสนี้เพื่อสร้างแผนภูมิเรดาร์ไปยัง MS Excel ภายใน VB.NET, Asp.NET หรือแอปพลิเคชันที่ใช้ .NET
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

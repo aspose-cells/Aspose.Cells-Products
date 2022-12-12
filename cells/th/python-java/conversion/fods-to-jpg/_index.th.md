@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง FODS เป็น JPG ผ่าน Python
-url: /th/python-java/conversion/fods-to-jpg/
+
 description: โค้ดตัวอย่างสำหรับการแปลง fods เป็น jpg Python ใช้รหัสตัวอย่าง API สำหรับไฟล์แบตช์ fods เป็นการแปลง jpg ภายในแอปพลิเคชัน Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

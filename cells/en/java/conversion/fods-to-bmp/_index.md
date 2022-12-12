@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to BMP via Java 
-url: /java/conversion/fods-to-bmp/
+
 description: Convert FODS to BMP format in Java code. Save FODS as BMP using Java.
 ---
 

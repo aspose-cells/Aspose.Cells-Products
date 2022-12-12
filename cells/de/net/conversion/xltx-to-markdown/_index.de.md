@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie XLTX in MARKDOWN über C#
-url: /de/net/conversion/xltx-to-markdown/
+
 description: Beispielcode für xltx-zu-Markdown-C#-Konvertierung. Verwenden Sie API Beispielcode für Batch-xltx-Dateien zur Markdown-Konvertierung in VB.NET, Asp.NET oder einer beliebigen .NET-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してXLTをJPEGに変換します 
 weight: 3010
-url: /ja/java/conversion/xlt-to-jpeg/ 
+
 description: XLT形式からJPEGファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、任意のWebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをJPEGにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

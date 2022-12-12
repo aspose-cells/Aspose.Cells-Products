@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование TXT в MARKDOWN через C#
-url: /ru/net/conversion/txt-to-markdown/
+
 description: Пример кода для преобразования txt в уценку C#. Используйте пример кода API для пакетных файлов txt для преобразования уценки в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

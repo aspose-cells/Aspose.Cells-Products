@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte XLSX na TABDELIMITED pomocí aplikace C++ 
-url: /cs/cpp/conversion/xlsx-to-tabdelimited/ 
+
 description: Ukázkový konverzní kód C++ pro dokument XLSX do formátu TABDELIMITED. Programátoři mohou použít tento zdrojový kód pro dávkovou konverzi XLSX na TABDELIMITED v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

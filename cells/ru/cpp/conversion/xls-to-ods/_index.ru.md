@@ -1,7 +1,7 @@
-﻿---
+---
 title: Преобразование XLS в ODS с помощью приложения C++ 
 weight: 1160
-url: /ru/cpp/conversion/xls-to-ods/ 
+
 description: Пример кода преобразования C++ для документа XLS в формат ODS. Программисты могут использовать этот исходный код для пакетного преобразования XLS в ODS в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

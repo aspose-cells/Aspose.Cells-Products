@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi TXT sang DOCX qua Python
-url: /vi/python-java/conversion/txt-to-docx/
+
 description: Mã mẫu cho chuyển đổi txt sang docx Python. Sử dụng mã mẫu API cho các tệp txt hàng loạt để chuyển đổi docx trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

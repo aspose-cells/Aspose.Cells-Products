@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++ uygulaması aracılığıyla XLSB'yi TXT'ye dönüştürün 
-url: /tr/cpp/conversion/xlsb-to-txt/ 
+
 description: XLSB belgesi için TXT biçimine örnek C++ dönüştürme kodu. Programcılar, herhangi bir C++ Uygulamasında toplu XLSB'den TXT'ye dönüştürme için bu kaynak kodunu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

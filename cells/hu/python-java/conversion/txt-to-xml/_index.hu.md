@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TXT konvertálása XML-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/txt-to-xml/
+
 description: Mintakód a txt-ből xml-be Python konverzióhoz. Használjon API példakódot a txt fájlok kötegelt XML-re konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converter ODS para DIF por meio do aplicativo C++ 
 weight: 4040
-url: /pt/cpp/conversion/ods-to-dif/ 
+
 description: Exemplo de código de conversão C++ de documento ODS para formato DIF. Os programadores podem usar esse código-fonte para conversão de lote de ODS para DIF em qualquer aplicativo C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

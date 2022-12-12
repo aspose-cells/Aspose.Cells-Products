@@ -1,6 +1,6 @@
-﻿---
+---
 title: Tạo Tệp CSV qua C# 
-url: /vi/net/create-csv/ 
+
 description: C# Mã mẫu để tạo tài liệu CSV. Sử dụng mã này để tạo tệp CSV trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

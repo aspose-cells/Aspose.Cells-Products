@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi JSON ke PNG melalui C#
-url: /id/net/conversion/json-to-png/
+
 description: Contoh kode untuk konversi json ke png C#. Gunakan API kode contoh untuk file batch json ke konversi png dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

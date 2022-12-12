@@ -1,6 +1,6 @@
-﻿---
+---
 title: Buat Berkas MHTML melalui C# 
-url: /id/net/create-mhtml/ 
+
 description: C# Contoh kode untuk membuat dokumen MHTML. Gunakan kode ini untuk membuat file MHTML dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

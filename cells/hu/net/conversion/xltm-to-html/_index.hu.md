@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLTM konvertálása HTML-re a következőn keresztül: C#"
-url: /hu/net/conversion/xltm-to-html/
+
 description: Mintakód az xltm-ből html-be C# konverzióhoz. Használjon API példakódot kötegelt xltm fájlok html konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

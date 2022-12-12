@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 C# 將 XLTX 轉換為 TABDELIMITED
-url: /zh-hant/net/conversion/xltx-to-tabdelimited/
+
 description: xltx 到製表符分隔的 C# 轉換的示例代碼。在 VB.NET、Asp.NET 或任何基於 .NET 的應用程序中，將批處理 xltx 文件的 API 示例代碼用於製表符分隔的轉換。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

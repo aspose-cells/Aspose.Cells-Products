@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLTM-fájlok egyesítése a következőn keresztül: Java "
 weight: 8210
-url: /hu/java/merger/xltm/ 
+
 description: Java mintakód az XLTM dokumentumok kombinálásához a Java Runtime Environment for JSP/JSF Applications és asztali alkalmazásokhoz.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

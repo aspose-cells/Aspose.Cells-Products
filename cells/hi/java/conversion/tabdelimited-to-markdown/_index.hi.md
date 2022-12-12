@@ -1,6 +1,6 @@
-﻿---
+---
 title: TABDELIMITED को Java के ज़रिए मार्कडाउन में बदलें 
-url: /hi/java/conversion/tabdelimited-to-markdown/ 
+
 description: TABDELIMITED प्रारूप के लिए MARKDOWN फ़ाइल के लिए नमूना Java रूपांतरण कोड। प्रोग्रामर इस उदाहरण कोड का उपयोग एक्सेल और ओपनऑफिस स्प्रेडशीट को किसी भी वेब या डेस्कटॉप Java आधारित एप्लिकेशन के भीतर मार्कडाउन में निर्यात करने के लिए कर सकते हैं।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

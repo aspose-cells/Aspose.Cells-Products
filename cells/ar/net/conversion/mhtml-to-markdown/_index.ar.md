@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل MHTML إلى MARKDOWN عبر C#
-url: /ar/net/conversion/mhtml-to-markdown/
+
 description: نموذج شفرة لتحويل mhtml إلى markdown C#. استخدم API مثال الكود لملفات mhtml المجمعة لتحويل markdown داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

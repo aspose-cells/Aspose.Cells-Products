@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte XLTX na SVG pomocí aplikace C++ 
-url: /cs/cpp/conversion/xltx-to-svg/ 
+
 description: Ukázka převodního kódu C++ pro dokument XLTX do formátu SVG. Programátoři mohou použít tento zdrojový kód pro dávkovou konverzi XLTX na SVG v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 C# 將 ODS 轉換為 DOCX
-url: /zh-hant/net/conversion/ods-to-docx/
+
 description: ods 到 docx C# 轉換的示例代碼。在 VB.NET、Asp.NET 或任何基於 .NET 的應用程序中使用 API 示例代碼將 ods 文件批量轉換為 docx。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Skapa MS Excel XLTX-filer via Java 
-url: /sv/java/create-xltx/ 
+
 description: Java Exempelkod för att generera XLTX-dokument. Använd den här koden för att skapa MS Excel XLTX-filer inom Java-baserad skrivbords- eller webbapplikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

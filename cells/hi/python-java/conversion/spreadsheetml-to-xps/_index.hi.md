@@ -1,6 +1,6 @@
-﻿---
+---
 title: PREADSHEETML को Python के माध्यम से XPS में बदलें
-url: /hi/python-java/conversion/spreadsheetml-to-xps/
+
 description: स्प्रेडशीटएमएल से xps Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर xps रूपांतरण में बैच स्प्रेडशीटएमएल फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

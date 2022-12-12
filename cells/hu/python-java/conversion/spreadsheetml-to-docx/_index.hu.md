@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SPREADSHEETML konvertálása DOCX-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/spreadsheetml-to-docx/
+
 description: Mintakód a táblázatkezelőből a docx Python konverzióhoz. Használjon API példakódot a kötegelt táblázatkezelő fájlok docx konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert XLSM to BMP via Java 
-url: /java/conversion/xlsm-to-bmp/
+
 description: Convert XLSM to BMP format in Java code. Save XLSM as BMP using Java.
 ---
 

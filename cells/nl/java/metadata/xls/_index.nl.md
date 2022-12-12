@@ -1,7 +1,7 @@
-﻿---
+---
 title: Metadata van XLS-bestanden bewerken of bekijken via Java 
 weight: 730
-url: /nl/java/metadata/xls/ 
+
 description: Java voorbeeldcode om metadata in XLS-indeling te bewerken of te bekijken in Java Runtime Environment voor JSP/JSF-applicaties en desktopapplicaties.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

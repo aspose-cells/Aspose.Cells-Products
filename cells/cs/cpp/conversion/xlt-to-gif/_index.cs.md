@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte XLT na GIF pomocí aplikace C++ 
-url: /cs/cpp/conversion/xlt-to-gif/ 
+
 description: Ukázka převodního kódu C++ pro dokument XLT na formát GIF. Programátoři mohou použít tento zdrojový kód pro dávkovou konverzi XLT na GIF v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

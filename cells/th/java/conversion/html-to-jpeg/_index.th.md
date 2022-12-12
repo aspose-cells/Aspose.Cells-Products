@@ -1,7 +1,7 @@
-﻿---
+---
 title: แปลง HTML เป็น JPEG ผ่าน Java 
 weight: 8400
-url: /th/java/conversion/html-to-jpeg/ 
+
 description: ตัวอย่างโค้ดการแปลง Java สำหรับรูปแบบ HTML เป็นไฟล์ JPEG โปรแกรมเมอร์สามารถใช้โค้ดตัวอย่างนี้เพื่อส่งออกสเปรดชีต Excel และ OpenOffice เป็น JPEG ภายในแอปพลิเคชันบนเว็บหรือเดสก์ท็อป Java
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

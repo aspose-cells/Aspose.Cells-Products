@@ -1,7 +1,7 @@
-﻿---
+---
 title: Modifier ou afficher les métadonnées de document XLSM via C++ 
 weight: 1300
-url: /fr/cpp/metadata/xlsm/ 
+
 description: C++ exemple de code pour modifier ou afficher les métadonnées du fichier XLSM sur C++ l'environnement d'exécution pour Windows 32 bits, Windows 64 bits et Linux 64 bits.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

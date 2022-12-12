@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TXT na GIF přes Python
-url: /cs/python-java/conversion/txt-to-gif/
+
 description: Ukázkový kód pro převod txt na gif Python. Použijte API ukázkový kód pro dávkový převod souborů txt na gif v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

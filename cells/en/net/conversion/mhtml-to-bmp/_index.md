@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to BMP via C#
-url: /net/conversion/mhtml-to-bmp/
+
 description: Convert MHTML to BMP format in C# code. Save MHTML as BMP using VB.NET, Asp.NET or any .NET based application.
 ---
 

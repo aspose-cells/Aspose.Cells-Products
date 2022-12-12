@@ -1,7 +1,7 @@
 ---
 title: Merge MHTML Files via Java 
 weight: 4420
-url: /java/merger/mhtml/ 
+
 description: Java sample code to combine MHTML documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

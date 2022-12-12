@@ -1,7 +1,7 @@
-﻿---
+---
 title: Извлечение текста и изображений из документа ODS через .NET 
 weight: 6970
-url: /ru/net/parser/ods/ 
+
 description: Исходный код C# для извлечения текста и изображений из файла ODS на платформах .NET Framework, .NET Core, Mono или Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

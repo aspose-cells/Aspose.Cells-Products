@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET Excel API | Обработка форматов электронных таблиц с помощью ядра .NET 
 weight: 2030
-url: /ru/net/ 
+
 description: Библиотека C# ASP.NET VB.NET для работы с документами Microsoft Excel. Создание файлов электронных таблиц для чтения, записи, сохранения и печати. Преобразование в PDF или другие форматы
 ---
 {{< blocks/products/pf/main-wrap-class >}}

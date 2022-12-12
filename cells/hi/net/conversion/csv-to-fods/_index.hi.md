@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# के माध्यम से CSV को FODS में बदलें
-url: /hi/net/conversion/csv-to-fods/
+
 description: csv से fods C# रूपांतरण के लिए नमूना कोड। बैच सीएसवी फाइलों के लिए वीबी.NET, एएसपी.NET या किसी भी .NET आधारित एप्लिकेशन के भीतर फोड रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

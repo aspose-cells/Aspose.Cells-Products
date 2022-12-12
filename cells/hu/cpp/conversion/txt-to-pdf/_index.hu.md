@@ -1,6 +1,6 @@
-﻿---
+---
 title: A TXT konvertálása PDF-be a C++ alkalmazással 
-url: /hu/cpp/conversion/txt-to-pdf/ 
+
 description: Minta C++ konverziós kód a TXT dokumentumhoz PDF formátumba. A programozók ezt a forráskódot használhatják kötegelt TXT-ből PDF-be konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

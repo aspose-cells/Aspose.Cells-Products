@@ -1,6 +1,6 @@
-﻿---
+---
 title: Twórz wykresy kołowe za pomocą C#
-url: /pl/net/create-pie-chart/
+
 description: C# Przykładowy kod do tworzenia wykresów kołowych w programie Excel przy użyciu biblioteki .NET. Użyj tego kodu, aby utworzyć wykres kołowy do MS Excel w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

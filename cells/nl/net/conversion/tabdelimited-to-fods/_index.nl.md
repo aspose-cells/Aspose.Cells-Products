@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer TABDELIMITED naar FODS via C#
-url: /nl/net/conversion/tabdelimited-to-fods/
+
 description: Voorbeeldcode voor door tabs gescheiden tot fods C# conversie. Gebruik API voorbeeldcode voor batch-tabdelimited-bestanden naar fods-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

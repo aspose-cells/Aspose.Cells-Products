@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SXC konvertálása TIFF-re a következőn keresztül: Java "
-url: /hu/java/conversion/sxc-to-tiff/ 
+
 description: Minta Java konverziós kód az SXC formátumhoz TIFF fájllá. A programozók ezt a példakódot használhatják Excel és OpenOffice táblázatok TIFF formátumba exportálására bármely web- vagy asztali Java alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

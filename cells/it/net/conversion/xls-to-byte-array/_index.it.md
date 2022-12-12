@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converti XLS in Byte Array tramite C# 
 weight: 7690
-url: /it/net/conversion/xls-to-byte-array/ 
+
 description: C# Codice di esempio per la conversione da XLS a matrice di byte. Utilizzare questo codice per la conversione da Excel XLS a Byte Array all'interno di VB.NET, Asp.NET o qualsiasi applicazione basata su .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Estrai testo e immagini dal documento XLS tramite Java 
 weight: 3700
-url: /it/java/parser/xls/ 
+
 description: Java codice di esempio per estrarre testo e immagini dal file XLS su Java Runtime Environment per applicazioni JSP/JSF e applicazioni desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

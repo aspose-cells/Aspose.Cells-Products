@@ -1,6 +1,6 @@
-﻿---
+---
 title: "JSON konvertálása ODS-re a következőn keresztül: C#"
-url: /hu/net/conversion/json-to-ods/
+
 description: Mintakód a json–ods C# konverzióhoz. Használjon API példakódot a kötegelt json fájlok ods konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

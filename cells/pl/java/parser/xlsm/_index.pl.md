@@ -1,7 +1,7 @@
-﻿---
+---
 title: Wyodrębnij tekst i obrazy z dokumentu XLSM za pomocą Java 
 weight: 3260
-url: /pl/java/parser/xlsm/ 
+
 description: Java przykładowy kod do wyodrębniania tekstu i obrazów z pliku XLSM w Java środowisku wykonawczym dla aplikacji JSP/JSF i aplikacji komputerowych.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

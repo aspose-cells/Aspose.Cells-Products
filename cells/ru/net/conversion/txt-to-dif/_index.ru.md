@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование TXT в DIF через C#
-url: /ru/net/conversion/txt-to-dif/
+
 description: Пример кода для преобразования txt в dif C#. Используйте пример кода API для пакетных файлов txt для преобразования различий в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

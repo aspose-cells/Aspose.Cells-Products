@@ -1,6 +1,6 @@
 ---
 title: Merge NUMBERS to CSV Files via C# 
-url: /net/merger/merge-numbers-to-csv/ 
+
 description: Merge NUMBERS to CSV file in C# code. Combine NUMBERS to CSV file using VB.NET, Asp.NET or any .NET based application.
 ---
 

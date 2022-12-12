@@ -1,7 +1,7 @@
-﻿---
+---
 title: مخطط مستند XLS عبر C++ 
 weight: 2500
-url: /ar/cpp/chart/xls/ 
+
 description: C++ مثال على رمز لرسم وتحويل مخطط أو رسم تخطيطي في ملف XLS على C++ Runtime Environment لأنظمة التشغيل Windows 32 بت و Windows 64 بت و Linux 64 بت.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

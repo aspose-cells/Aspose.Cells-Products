@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# के माध्यम से NUMBERS को JPEG में बदलें
-url: /hi/net/conversion/numbers-to-jpeg/
+
 description: जेपीईजी C# रूपांतरण के लिए संख्याओं के लिए नमूना कोड। VB.NET, Asp.NET या किसी .NET आधारित एप्लिकेशन के भीतर बैच नंबर फ़ाइलों को jpeg रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

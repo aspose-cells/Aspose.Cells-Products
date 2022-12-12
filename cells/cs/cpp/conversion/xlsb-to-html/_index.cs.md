@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převeďte XLSB na HTML pomocí aplikace C++ 
 weight: 7540
-url: /cs/cpp/conversion/xlsb-to-html/ 
+
 description: Ukázka převodního kódu C++ pro dokument XLSB do formátu HTML. Programátoři mohou použít tento zdrojový kód pro dávkový převod XLSB do HTML v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

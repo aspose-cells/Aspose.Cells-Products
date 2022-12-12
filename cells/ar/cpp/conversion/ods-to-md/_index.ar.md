@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل ODS إلى MD عبر تطبيق C++ 
-url: /ar/cpp/conversion/ods-to-md/ 
+
 description: نموذج C++ كود التحويل لوثيقة ODS إلى تنسيق MD. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل دفعة من ODS إلى MD في أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

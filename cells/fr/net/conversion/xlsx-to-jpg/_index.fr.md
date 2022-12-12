@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir XLSX en JPG via C#
-url: /fr/net/conversion/xlsx-to-jpg/
+
 description: Exemple de code pour la conversion xlsx en jpg C#. Utilisez l'exemple de code API pour la conversion par lot de fichiers xlsx en jpg dans VB.NET, Asp.NET ou toute application basée sur .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

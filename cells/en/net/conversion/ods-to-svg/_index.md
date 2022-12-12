@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to SVG via C#
-url: /net/conversion/ods-to-svg/
+
 description: Convert ODS to SVG format in C# code. Save ODS as SVG using VB.NET, Asp.NET or any .NET based application.
 ---
 

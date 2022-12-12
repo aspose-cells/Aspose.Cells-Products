@@ -1,6 +1,6 @@
-﻿---
+---
 title: Buat Berkas MHTML melalui Python 
-url: /id/python-java/create-mhtml/ 
+
 description: Python Contoh kode untuk membuat dokumen MHTML. Gunakan kode ini untuk membuat berkas MHTML dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

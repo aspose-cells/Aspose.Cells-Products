@@ -1,6 +1,6 @@
 ---
 title: Repair ods file via Java
-url: /java/recovery/repair-ods/ 
+
 description: Repair a corrupt ods file using Java. Recovery tool to repair corrupted ods file within Java application.
 ---
 

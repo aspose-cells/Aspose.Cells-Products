@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi XLSX sang JPEG qua C#
-url: /vi/net/conversion/xlsx-to-jpeg/
+
 description: Mã mẫu cho chuyển đổi xlsx sang jpeg C#. Sử dụng API mã ví dụ cho hàng loạt tệp xlsx để chuyển đổi jpeg trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

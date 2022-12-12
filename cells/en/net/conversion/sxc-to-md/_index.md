@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to MD via C#
-url: /net/conversion/sxc-to-md/
+
 description: Convert SXC to MD format in C# code. Save SXC as MD using VB.NET, Asp.NET or any .NET based application.
 ---
 

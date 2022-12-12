@@ -1,7 +1,7 @@
-﻿---
+---
 title: แยกข้อความและรูปภาพจากเอกสาร ODS ผ่าน .NET 
 weight: 6970
-url: /th/net/parser/ods/ 
+
 description: C# ซอร์สโค้ดเพื่อดึงข้อความและรูปภาพจากไฟล์ ODS บน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

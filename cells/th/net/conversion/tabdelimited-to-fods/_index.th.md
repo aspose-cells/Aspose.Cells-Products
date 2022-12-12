@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง TABDELIMITED เป็น FODS ผ่าน C#
-url: /th/net/conversion/tabdelimited-to-fods/
+
 description: โค้ดตัวอย่างสำหรับการแปลง tabdelimited เป็น fods C# ใช้รหัสตัวอย่าง API สำหรับไฟล์ที่คั่นด้วยแท็บแบบแบตช์เพื่อแปลงเป็น fods ภายใน VB.NET, Asp.NET หรือแอปพลิเคชันที่ใช้ .NET
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

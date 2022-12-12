@@ -1,6 +1,6 @@
-﻿---
+---
 title: Upravit soubory XLTM prostřednictvím .NET 
-url: /cs/net/editor/xltm/ 
+
 description: C# zdrojový kód pro úpravu dokumentu XLTM na platformách .NET Framework, .NET Core, Windows Azure, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

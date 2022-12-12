@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 Java 轉換 Microsoft Excel 文件 
-url: /zh-hant/java/conversion/
+
 description: 只需幾行 Java 代碼，即可將 Excel XLS、XLSX、ODS、CSV 轉換為 PDF、XPS、HTML、JPEG、HTML 和許多其他流行格式。
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

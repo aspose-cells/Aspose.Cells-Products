@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to PNG via Java 
-url: /java/conversion/xlsb-to-png/
+
 description: Convert XLSB to PNG format in Java code. Save XLSB as PNG using Java.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل الأرقام إلى GIF عبر Java 
-url: /ar/java/conversion/numbers-to-gif/ 
+
 description: نموذج رمز تحويل Java من تنسيق NUMBERS إلى ملف GIF. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel و OpenOffice إلى GIF داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: SPREADSHEETML'yi C# aracılığıyla GIF'e dönüştürün
-url: /tr/net/conversion/spreadsheetml-to-gif/
+
 description: E-tabloml'den gif'e C# dönüşümü için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde gif dönüşümü için toplu elektronik tabloml dosyaları için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

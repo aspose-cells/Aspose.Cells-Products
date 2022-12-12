@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie XLTM in XLSX über C#
-url: /de/net/conversion/xltm-to-xlsx/
+
 description: Beispielcode für die Umwandlung von xltm in xlsx C#. Verwenden Sie API Beispielcode für die Batch-Konvertierung von xltm-Dateien in xlsx innerhalb von VB.NET, Asp.NET oder einer beliebigen .NET-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

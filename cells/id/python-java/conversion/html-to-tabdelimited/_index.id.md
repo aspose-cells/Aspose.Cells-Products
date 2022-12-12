@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi HTML ke TABDELIMITED melalui Python
-url: /id/python-java/conversion/html-to-tabdelimited/
+
 description: Contoh kode untuk konversi html ke tabdelimited Python. Gunakan API kode contoh untuk berkas html batch ke konversi tabdelimited dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

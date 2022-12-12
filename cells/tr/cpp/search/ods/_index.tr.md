@@ -1,7 +1,7 @@
-﻿---
+---
 title: ODS belgesini C++ üzerinden açmadan arayın 
 weight: 3300
-url: /tr/cpp/search/ods/ 
+
 description: C++ Windows 32 bit, Windows 64 bit ve Linux 64 bit için C++ Runtime Environment'daki ODS dosyasında kalıplı kelimeleri aramak için örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

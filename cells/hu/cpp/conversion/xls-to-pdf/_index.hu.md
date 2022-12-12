@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertálja az XLS-t PDF-be a C++ alkalmazással 
 weight: 8010
-url: /hu/cpp/conversion/xls-to-pdf/ 
+
 description: Minta C++ konverziós kód az XLS dokumentumhoz PDF formátumba. A programozók ezt a forráskódot használhatják kötegelt XLS-ből PDF-be konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

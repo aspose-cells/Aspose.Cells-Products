@@ -1,6 +1,6 @@
 ---
 title: Create MS Excel XLTM Files via Java 
-url: /java/create-xltm/ 
+
 description: Create XLTM files in Java code. Generate MS Excel XLTM files using Java based desktop or web application.
 ---
 

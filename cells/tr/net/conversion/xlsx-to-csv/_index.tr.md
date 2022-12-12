@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla XLSX'i CSV'ye dönüştürün
-url: /tr/net/conversion/xlsx-to-csv/
+
 description: xlsx'ten csv'ye C# dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu xlsx dosyalarını csv'ye dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

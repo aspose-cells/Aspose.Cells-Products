@@ -1,7 +1,7 @@
-﻿---
+---
 title: Odemknout dokument XLSM přes .NET 
 weight: 9810
-url: /cs/net/unlock/xlsm/ 
+
 description: C# zdrojový kód k odemknutí heslem chráněného souboru XLSM na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

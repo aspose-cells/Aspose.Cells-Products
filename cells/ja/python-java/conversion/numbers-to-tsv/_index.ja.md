@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してNUMBERSをTSVに変換します
-url: /ja/python-java/conversion/numbers-to-tsv/
+
 description: 数値からtsvPythonへの変換のサンプルコード。 Pythonアプリケーション内のバッチ番号ファイルからtsvへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to SPREADSHEETML via Python
-url: /python-net/conversion/numbers-to-spreadsheetml/
+
 description: Sample code for numbers to spreadsheetml Python conversion. Use API example code for batch numbers files to spreadsheetml conversion within Python application.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: NUMBERS'ı Python aracılığıyla XLT'ye dönüştürün
-url: /tr/python-java/conversion/numbers-to-xlt/
+
 description: Sayıları xlt Python dönüştürme için örnek kod. Python uygulamasında toplu iş numarası dosyaları için xlt dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

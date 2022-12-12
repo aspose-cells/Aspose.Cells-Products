@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してEXCELをWORDに変換する
-url: /ja/python-java/conversion/excel-to-word/
+
 description: Excelから単語Pythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチExcelファイルからWordへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

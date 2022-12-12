@@ -1,6 +1,6 @@
-﻿---
+---
 title: NUMBERS को Python के द्वारा XLAM में बदलें
-url: /hi/python-java/conversion/numbers-to-xlam/
+
 description: xlam Python रूपांतरण में संख्याओं के लिए नमूना कोड। Python एप्लिकेशन के भीतर बैच संख्या फ़ाइलों को xlam रूपांतरण में बदलने के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

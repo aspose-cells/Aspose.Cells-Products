@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Excel-fájl megjegyzések a következőn keresztül: C++"
-url: /hu/cpp/annotation/
+
 description: Adja hozzá vagy távolítsa el a(z) C++ könyvtárral rendelkező Excel- és OpenOffice-táblázatok adatjegyzet-megjegyzéseit.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

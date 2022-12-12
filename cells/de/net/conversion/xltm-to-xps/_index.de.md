@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie XLTM in XPS über C#
-url: /de/net/conversion/xltm-to-xps/
+
 description: Beispielcode für die Umwandlung von xltm in xps C#. Verwenden Sie API Beispielcode für die Batch-Konvertierung von xltm-Dateien in xps innerhalb von VB.NET, Asp.NET oder einer beliebigen .NET-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

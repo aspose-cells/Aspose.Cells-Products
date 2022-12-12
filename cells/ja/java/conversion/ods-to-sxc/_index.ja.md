@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してODSをSXCに変換します 
-url: /ja/java/conversion/ods-to-sxc/ 
+
 description: ODS形式のSXCファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のSXCにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

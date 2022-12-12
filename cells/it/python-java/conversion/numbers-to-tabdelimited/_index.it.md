@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converti NUMBERS in TABDELIMITED tramite Python
-url: /it/python-java/conversion/numbers-to-tabdelimited/
+
 description: Codice di esempio per la conversione da numeri a Python delimitata da tabulazioni. Usa il codice di esempio API per i file dei numeri di lotto nella conversione delimitata da tabulazioni all'interno dell'applicazione Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

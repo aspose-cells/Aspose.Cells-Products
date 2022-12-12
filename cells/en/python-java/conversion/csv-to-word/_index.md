@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to WORD via Python
-url: /python-java/conversion/csv-to-word/
+
 description: Convert CSV to WORD format in Python code. Save CSV as WORD using Python.
 ---
 

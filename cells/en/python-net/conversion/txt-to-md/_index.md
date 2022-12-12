@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to MD via Python
-url: /python-net/conversion/txt-to-md/
+
 description: Sample code for txt to md Python conversion. Use API example code for batch txt files to md conversion within Python application.
 ---
 

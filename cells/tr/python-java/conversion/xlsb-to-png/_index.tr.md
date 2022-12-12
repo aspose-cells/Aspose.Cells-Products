@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla XLSB'yi PNG'ye dönüştürün
-url: /tr/python-java/conversion/xlsb-to-png/
+
 description: xlsb'den png'ye Python dönüştürme için örnek kod. Python uygulamasında toplu xlsb dosyalarını png'ye dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

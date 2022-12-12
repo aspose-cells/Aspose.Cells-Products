@@ -1,7 +1,7 @@
-﻿---
+---
 title: ODS belgesini .NET üzerinden açmadan arayın 
 weight: 160
-url: /tr/net/search/ods/ 
+
 description: .NET Framework, .NET Core, Mono veya Xamarin Platformlarında ODS dosyasında kalıplı kelimeleri aramak için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to PNG via Python
-url: /python-net/conversion/xlt-to-png/
+
 description: Sample code for xlt to png Python conversion. Use API example code for batch xlt files to png conversion within Python application.
 ---
 

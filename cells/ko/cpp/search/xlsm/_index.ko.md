@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++을(를) 통해 열지 않고 XLSM 문서 검색 
 weight: 9280
-url: /ko/cpp/search/xlsm/ 
+
 description: C++ Windows 32비트, Windows 64비트 및 Linux 64비트용 C++ 런타임 환경의 XLSM 파일에서 패턴이 있는 단어를 검색하는 예제 코드.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to XLSB via Python
-url: /python-net/conversion/txt-to-xlsb/
+
 description: Sample code for txt to xlsb Python conversion. Use API example code for batch txt files to xlsb conversion within Python application.
 ---
 

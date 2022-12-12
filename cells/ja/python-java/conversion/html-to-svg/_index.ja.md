@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してHTMLをSVGに変換する
-url: /ja/python-java/conversion/html-to-svg/
+
 description: htmlからsvgPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチhtmlファイルからsvgへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

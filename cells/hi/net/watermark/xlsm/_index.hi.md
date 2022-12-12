@@ -1,7 +1,7 @@
-﻿---
+---
 title: वॉटरमार्क XLSM दस्तावेज़ .NET के माध्यम से 
 weight: 8270
-url: /hi/net/watermark/xlsm/ 
+
 description: .NET Framework, .NET Core, Mono या Xamarin Platforms पर XLSM फ़ाइल में वॉटरमार्क जोड़ने या निकालने के लिए C# स्रोत कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

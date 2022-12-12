@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi NUMBERS thành FODS qua Python
-url: /vi/python-java/conversion/numbers-to-fods/
+
 description: Mã mẫu cho chuyển đổi số thành fods Python. Sử dụng mã mẫu API cho các tệp số lô để hỗ trợ chuyển đổi trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

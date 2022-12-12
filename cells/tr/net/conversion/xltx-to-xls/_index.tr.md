@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla XLTX'i XLS'ye dönüştürün
-url: /tr/net/conversion/xltx-to-xls/
+
 description: xltx'ten xls'e C# dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu xltx dosyalarını xls'ye dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

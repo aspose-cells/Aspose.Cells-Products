@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してTABDELIMITEDをDIFに変換します
-url: /ja/python-java/conversion/tabdelimited-to-dif/
+
 description: tabdelimitedからdifPythonへの変換のサンプルコード。 Pythonアプリケーション内で変換を行うためのバッチタブ区切りファイルのAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

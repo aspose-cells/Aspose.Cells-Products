@@ -1,7 +1,7 @@
-﻿---
+---
 title: Μετατροπή XLT σε GIF μέσω Java 
 weight: 3400
-url: /el/java/conversion/xlt-to-gif/ 
+
 description: Δείγμα κώδικα μετατροπής Java για μορφή XLT σε αρχείο GIF. Οι προγραμματιστές μπορούν να χρησιμοποιήσουν αυτό το παράδειγμα κώδικα για να εξάγουν υπολογιστικά φύλλα Excel και OpenOffice σε GIF σε οποιαδήποτε εφαρμογή που βασίζεται στον Ιστό ή στην επιφάνεια εργασίας Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

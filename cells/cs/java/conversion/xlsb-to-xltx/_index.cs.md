@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést XLSB na XLTX přes Java 
 weight: 3970
-url: /cs/java/conversion/xlsb-to-xltx/ 
+
 description: Ukázkový konverzní kód Java pro formát XLSB na soubor XLTX. Programátoři mohou použít tento příklad kódu k exportu tabulek Excelu a OpenOffice do XLTX v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
 ---
 title: Remove XLSX Annotation via Java 
 weight: 5260
-url: /java/annotation/xlsx/ 
+
 description: Java sample code to delete XLSX format annotations on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

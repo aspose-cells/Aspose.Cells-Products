@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#를 통해 HTML을 TSV로 변환
-url: /ko/net/conversion/html-to-tsv/
+
 description: html에서 tsv로의 C# 변환을 위한 샘플 코드입니다. VB.NET, Asp.NET 또는 모든 .NET 기반 애플리케이션 내에서 배치 html 파일을 tsv로 변환하는 API 예제 코드를 사용합니다.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

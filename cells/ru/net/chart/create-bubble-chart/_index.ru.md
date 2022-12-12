@@ -1,6 +1,6 @@
-﻿---
+---
 title: Создание пузырьковых диаграмм с помощью C#
-url: /ru/net/create-bubble-chart/
+
 description: C# Пример кода для создания пузырьковых диаграмм в Excel с использованием библиотеки .NET. Используйте этот код для создания диаграммы {chart} в MS Excel в рамках VB.NET, Asp.NET или любого приложения на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

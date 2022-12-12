@@ -1,6 +1,6 @@
-﻿---
+---
 title: Erstellen Sie HTML-Dateien über Java 
-url: /de/java/create-html/ 
+
 description: Java Beispielcode zum Generieren von HTML-Dokumenten. Verwenden Sie diesen Code zum Erstellen von HTML-Dateien in Java-basierten Desktop- oder Webanwendungen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

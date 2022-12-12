@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TABDELIMITED إلى XPS عبر Python
-url: /ar/python-java/conversion/tabdelimited-to-xps/
+
 description: نموذج رمز لجدولة محدّدة لتحويل xps Python. استخدم API رمز المثال لملفات محدّدة بعلامات جدولة مجمعة لتحويل xps ضمن تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer XLS naar MHTML via C++ applicatie 
 weight: 9180
-url: /nl/cpp/conversion/xls-to-mhtml/ 
+
 description: Voorbeeld C++ conversiecode voor XLS-document naar MHTML-indeling. Programmeurs kunnen deze broncode gebruiken voor batch-XLS-naar-MHTML-conversie binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

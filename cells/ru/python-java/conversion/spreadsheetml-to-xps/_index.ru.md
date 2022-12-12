@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование SPREADSHETML в XPS через Python
-url: /ru/python-java/conversion/spreadsheetml-to-xps/
+
 description: Пример кода для преобразования электронной таблицыml в xps Python. Используйте пример кода API для пакетного преобразования файлов электронной таблицыml в xps в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

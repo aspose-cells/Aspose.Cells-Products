@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla XLSB'yi XLS'ye dönüştürün
-url: /tr/net/conversion/xlsb-to-xls/
+
 description: xlsb'den xls'e C# dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu xlsb dosyalarını xls'ye dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

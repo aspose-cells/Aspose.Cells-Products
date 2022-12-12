@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer TSV naar PDF via Java 
 weight: 2470
-url: /nl/java/conversion/tsv-to-pdf/ 
+
 description: Voorbeeld Java conversiecode voor TSV-indeling naar PDF-bestand. Programmeurs kunnen deze voorbeeldcode gebruiken om Excel- en OpenOffice-spreadsheets naar PDF te exporteren binnen elke web- of desktoptoepassing Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

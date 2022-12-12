@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertera TXT till XLS via Java 
 weight: 10070
-url: /sv/java/conversion/txt-to-xls/ 
+
 description: Exempel Java-konverteringskod för TXT-format till XLS-fil. Programmerare kan använda den här exempelkoden för att exportera Excel- och OpenOffice-kalkylblad till XLS inom alla webb- eller skrivbordsbaserade Javaapplikationer.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

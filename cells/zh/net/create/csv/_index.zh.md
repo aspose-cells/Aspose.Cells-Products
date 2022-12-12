@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 C# 创建 CSV 文件 
-url: /zh/net/create-csv/ 
+
 description: C# 用于生成 CSV 文档的示例代码。使用此代码在 VB.NET、Asp.NET 或任何基于 .NET 的应用程序中创建 CSV 文件。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

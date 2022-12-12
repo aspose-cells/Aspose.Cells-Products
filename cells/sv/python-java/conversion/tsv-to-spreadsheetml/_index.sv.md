@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera TSV till SPREADSHEETML via Python
-url: /sv/python-java/conversion/tsv-to-spreadsheetml/
+
 description: Exempelkod för konvertering från tsv till kalkylbladml Python. Använd API exempelkod för batch-tsv-filer till kalkylarkml-konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

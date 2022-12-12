@@ -1,6 +1,6 @@
-﻿---
+---
 title: Συγχώνευση διαφορετικών αρχείων Excel σε ένα σε ένα σε Java
-url: /el/java/merger/
+
 description: Συγχώνευση αρχείων Excel χρησιμοποιώντας το Java σε πολλαπλά φύλλα ή μεμονωμένα φύλλα. Συγχωνεύστε, συνδυάστε ή συνδέστε έγγραφα Excel σε PDF, Εικόνες και HTML επίσης.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

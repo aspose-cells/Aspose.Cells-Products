@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to TABDELIMITED via Python
-url: /python-net/conversion/txt-to-tabdelimited/
+
 description: Sample code for txt to tabdelimited Python conversion. Use API example code for batch txt files to tabdelimited conversion within Python application.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera TXT till TSV via C#
-url: /sv/net/conversion/txt-to-tsv/
+
 description: Exempelkod för konvertering från txt till tsv C#. Använd API exempelkod för batch-txt-filer till tsv-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

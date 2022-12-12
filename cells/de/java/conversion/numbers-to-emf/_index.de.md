@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie NUMBERS in EMF über Java 
-url: /de/java/conversion/numbers-to-emf/ 
+
 description: Beispiel-Umwandlungscode Java für das NUMBERS-Format in eine EMF-Datei. Programmierer können diesen Beispielcode verwenden, um Excel- und OpenOffice-Tabellen in EMF innerhalb einer beliebigen Web- oder Desktop-Java-basierten Anwendung zu exportieren.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

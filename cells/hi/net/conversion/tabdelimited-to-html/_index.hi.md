@@ -1,6 +1,6 @@
-﻿---
+---
 title: TABDELIMITED को C# के ज़रिए HTML में बदलें
-url: /hi/net/conversion/tabdelimited-to-html/
+
 description: HTML C# रूपांतरण के लिए सीमित टैब के लिए नमूना कोड। VB.NET, Asp.NET या किसी .NET आधारित एप्लिकेशन के भीतर html रूपांतरण में बैच टैबसीमांकित फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

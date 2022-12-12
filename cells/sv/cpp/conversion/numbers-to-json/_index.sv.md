@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera NUMBERS till JSON via appen C++ 
-url: /sv/cpp/conversion/numbers-to-json/ 
+
 description: Exempel på C++-konverteringskod för NUMBERS-dokument till JSON-format. Programmerare kan använda den här källkoden för omvandling av batchNUMMER till JSON i vilken C++-applikation som helst.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

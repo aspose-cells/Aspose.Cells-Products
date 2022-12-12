@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir XLSM en XLTX via Python
-url: /fr/python-java/conversion/xlsm-to-xltx/
+
 description: Exemple de code pour la conversion xlsm vers xltx Python. Utilisez l'exemple de code API pour la conversion par lots de fichiers xlsm en xltx dans l'application Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

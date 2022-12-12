@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してTABDELIMITEDをODSに変換します 
-url: /ja/java/conversion/tabdelimited-to-ods/ 
+
 description: TABDELIMITED形式のサンプルJava変換コードからODSファイルへ。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のODSにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

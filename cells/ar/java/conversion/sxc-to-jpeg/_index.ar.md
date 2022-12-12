@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل SXC إلى JPEG عبر Java 
-url: /ar/java/conversion/sxc-to-jpeg/ 
+
 description: نموذج رمز تحويل Java لتنسيق SXC إلى ملف JPEG. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى JPEG داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

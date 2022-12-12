@@ -1,6 +1,6 @@
-﻿---
+---
 title: TABDELIMITED'i Python aracılığıyla CSV'ye dönüştürün
-url: /tr/python-java/conversion/tabdelimited-to-csv/
+
 description: Tabdelited to csv Python dönüşümü için örnek kod. Python uygulamasında toplu sekmeyle ayrılmış dosyalardan csv'ye dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

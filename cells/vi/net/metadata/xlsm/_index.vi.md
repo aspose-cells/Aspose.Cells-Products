@@ -1,7 +1,7 @@
-﻿---
+---
 title: Xem hoặc chỉnh sửa siêu dữ liệu tệp XLSM qua .NET 
 weight: 5590
-url: /vi/net/metadata/xlsm/ 
+
 description: C# mã nguồn để chỉnh sửa hoặc xem siêu dữ liệu định dạng XLSM trên Nền tảng .NET Framework, .NET Core Mono hoặc Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

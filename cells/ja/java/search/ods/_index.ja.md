@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介して開かずにODSドキュメントを検索する 
 weight: 8140
-url: /ja/java/search/ods/ 
+
 description: Java JSP/JSFアプリケーションおよびデスクトップアプリケーションのランタイム環境でODSファイル内のパターンを持つ単語を検索するためのサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

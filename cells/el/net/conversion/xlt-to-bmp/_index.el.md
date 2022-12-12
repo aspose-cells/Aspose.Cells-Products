@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή XLT σε BMP μέσω C#
-url: /el/net/conversion/xlt-to-bmp/
+
 description: Δείγμα κώδικα για μετατροπή xlt σε bmp C#. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία xlt για μετατροπή bmp εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

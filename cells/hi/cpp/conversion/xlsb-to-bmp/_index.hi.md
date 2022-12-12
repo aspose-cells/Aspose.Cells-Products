@@ -1,7 +1,7 @@
-﻿---
+---
 title: एक्सएलएसबी को बीएमपी में C++ एप्लिकेशन के माध्यम से कनवर्ट करें 
 weight: 8800
-url: /hi/cpp/conversion/xlsb-to-bmp/ 
+
 description: नमूना C++ एक्सएलएसबी दस्तावेज़ के लिए बीएमपी प्रारूप में रूपांतरण कोड। प्रोग्रामर इस स्रोत कोड का उपयोग किसी भी C++ एप्लिकेशन में बैच XLSB से BMP रूपांतरण के लिए कर सकते हैं।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

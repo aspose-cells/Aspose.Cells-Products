@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to JPEG via Java 
-url: /java/conversion/numbers-to-jpeg/
+
 description: Convert NUMBERS to JPEG format in Java code. Save NUMBERS as JPEG using Java.
 ---
 

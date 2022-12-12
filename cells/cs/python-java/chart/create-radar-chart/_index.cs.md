@@ -1,6 +1,6 @@
-﻿---
+---
 title: Vytvářejte radarové mapy prostřednictvím Python
-url: /cs/python-java/create-radar-chart/
+
 description: Python Ukázkový kód pro vytváření radarových grafů do aplikace Excel pomocí knihovny Python. Tento kód použijte k vytvoření radarového grafu do MS Excel v aplikaci založené na Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

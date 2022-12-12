@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converter XLS para CSV por meio do aplicativo C++ 
 weight: 8520
-url: /pt/cpp/conversion/xls-to-csv/ 
+
 description: Exemplo de código de conversão C++ de documento XLS para formato CSV. Os programadores podem usar esse código-fonte para conversão em lote de XLS para CSV em qualquer aplicativo C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

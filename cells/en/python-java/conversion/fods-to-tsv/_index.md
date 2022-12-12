@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to TSV via Python
-url: /python-java/conversion/fods-to-tsv/
+
 description: Convert FODS to TSV format in Python code. Save FODS as TSV using Python.
 ---
 

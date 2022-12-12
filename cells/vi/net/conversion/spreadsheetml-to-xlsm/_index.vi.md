@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi SPREADSHEETML sang XLSM qua C#
-url: /vi/net/conversion/spreadsheetml-to-xlsm/
+
 description: Mã mẫu cho chuyển đổi từ bảng tínhml sang xlsm C#. Sử dụng API mã ví dụ cho hàng loạt tệp tin bảng tính để chuyển đổi xlsm trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通過 Java 將 XLTX 轉換為 JPEG 
 weight: 9380
-url: /zh-hant/java/conversion/xltx-to-jpeg/ 
+
 description: XLTX 格式到 JPEG 文件的示例 Java 轉換代碼。程序員可以使用此示例代碼在任何基於 Web 或桌面 Java 的應用程序中將 Excel 和 OpenOffice 電子表格導出為 JPEG。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

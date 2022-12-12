@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte TXT na SVG pomocí aplikace C++ 
-url: /cs/cpp/conversion/txt-to-svg/ 
+
 description: Ukázka převodního kódu C++ pro dokument TXT do formátu SVG. Programátoři mohou použít tento zdrojový kód pro dávkový převod TXT na SVG v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

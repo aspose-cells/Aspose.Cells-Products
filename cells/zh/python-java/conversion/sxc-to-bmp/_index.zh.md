@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 Python 将 SXC 转换为 BMP
-url: /zh/python-java/conversion/sxc-to-bmp/
+
 description: sxc 到 bmp Python 转换的示例代码。使用 Python 应用程序中批量 sxc 文件到 bmp 转换的 API 示例代码。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

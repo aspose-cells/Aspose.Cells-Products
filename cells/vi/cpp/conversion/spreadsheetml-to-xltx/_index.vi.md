@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi SPREADSHEETML sang XLTX qua ứng dụng C++ 
-url: /vi/cpp/conversion/spreadsheetml-to-xltx/ 
+
 description: Mã chuyển đổi C++ mẫu cho tài liệu SPREADSHEETML sang định dạng XLTX. Lập trình viên có thể sử dụng mã nguồn này để chuyển đổi hàng loạt SPREADSHEETML sang XLTX trong bất kỳ Ứng dụng C++ nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

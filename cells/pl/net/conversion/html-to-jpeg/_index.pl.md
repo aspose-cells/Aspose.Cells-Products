@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj HTML na JPEG przez C#
-url: /pl/net/conversion/html-to-jpeg/
+
 description: Przykładowy kod konwersji html na jpeg C#. Użyj przykładowego kodu API dla wsadowych plików html do konwersji jpeg w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

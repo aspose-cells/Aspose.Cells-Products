@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование SPREADSHEETML в MARKDOWN с помощью C#
-url: /ru/net/conversion/spreadsheetml-to-markdown/
+
 description: Пример кода для преобразования электронной таблицыml в уценку C#. Используйте пример кода API для пакетных файлов электронных таблиц для преобразования уценки в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

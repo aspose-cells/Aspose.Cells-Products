@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést SPREADSHEETML na TIFF přes Java 
-url: /cs/java/conversion/spreadsheetml-to-tiff/ 
+
 description: Ukázka převodního kódu Java pro formát SPREADSHEETML na soubor TIFF. Programátoři mohou tento příklad kódu použít k exportu tabulek Excelu a OpenOffice do formátu TIFF v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

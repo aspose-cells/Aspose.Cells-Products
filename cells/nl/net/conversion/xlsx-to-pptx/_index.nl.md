@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLSX naar PPTX via C#
-url: /nl/net/conversion/xlsx-to-pptx/
+
 description: Voorbeeldcode voor xlsx naar pptx C# conversie. Gebruik API voorbeeldcode voor batch xlsx-bestanden naar pptx-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

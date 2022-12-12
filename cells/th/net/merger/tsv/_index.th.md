@@ -1,7 +1,7 @@
-﻿---
+---
 title: รวมไฟล์ TSV ผ่าน .NET 
 weight: 1360
-url: /th/net/merger/tsv/ 
+
 description: C# ซอร์สโค้ดเพื่อรวมเอกสาร TSV บน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل NUMBERS إلى JSON عبر Python
-url: /ar/python-java/conversion/numbers-to-json/
+
 description: نموذج رمز لتحويل الأرقام إلى json Python. استخدم API رمز المثال لملفات أرقام الدُفعات لتحويل json داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

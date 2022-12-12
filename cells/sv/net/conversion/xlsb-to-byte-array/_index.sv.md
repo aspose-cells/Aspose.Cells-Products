@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertera XLSB till Byte Array via C# 
 weight: 7690
-url: /sv/net/conversion/xlsb-to-byte-array/ 
+
 description: C# Exempelkod för konvertering från XLSB till Byte Array. Använd den här koden för konvertering av Excel XLSB till Byte Array inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

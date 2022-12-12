@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla HTML Dosyaları Oluşturun 
-url: /tr/python-java/create-html/ 
+
 description: Python HTML belgeleri oluşturmak için örnek kod. Python uygulamasında HTML dosyaları oluşturmak için bu kodu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

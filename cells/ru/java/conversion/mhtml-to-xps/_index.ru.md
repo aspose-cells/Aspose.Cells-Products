@@ -1,7 +1,7 @@
-﻿---
+---
 title: Преобразование MHTML в XPS через Java 
 weight: 6220
-url: /ru/java/conversion/mhtml-to-xps/ 
+
 description: Пример кода преобразования Java для формата MHTML в файл XPS. Программисты могут использовать этот пример кода для экспорта электронных таблиц Excel и OpenOffice в формат XPS в любом веб- или настольном Java приложении.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

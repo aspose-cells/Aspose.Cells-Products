@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python üzerinden XLTX'i FODS'ye dönüştürün
-url: /tr/python-java/conversion/xltx-to-fods/
+
 description: xltx'ten fods'a Python dönüştürme için örnek kod. Python uygulamasında toplu xltx dosyalarından fods'a dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

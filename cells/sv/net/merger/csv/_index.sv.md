@@ -1,7 +1,7 @@
-﻿---
+---
 title: Slå samman CSV-filer via .NET 
 weight: 6450
-url: /sv/net/merger/csv/ 
+
 description: C# källkod för att kombinera CSV-dokument på .NET Framework, .NET Core, Mono eller Xamarin-plattformar.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

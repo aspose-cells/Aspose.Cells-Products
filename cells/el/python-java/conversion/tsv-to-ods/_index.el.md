@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή TSV σε ODS μέσω Python
-url: /el/python-java/conversion/tsv-to-ods/
+
 description: Δείγμα κώδικα για μετατροπή tsv σε ods Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδική μετατροπή αρχείων tsv σε ods εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

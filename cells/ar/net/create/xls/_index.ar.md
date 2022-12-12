@@ -1,6 +1,6 @@
-﻿---
+---
 title: إنشاء ملفات MS Excel XLS عبر C# 
-url: /ar/net/create-xls/ 
+
 description: C# نموذج كود لإنشاء مستندات XLS. استخدم هذا الرمز لإنشاء ملفات MS Excel XLS داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

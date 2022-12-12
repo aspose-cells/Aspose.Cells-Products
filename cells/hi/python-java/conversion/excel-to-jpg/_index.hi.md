@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python के माध्यम से EXCEL को JPG में बदलें
-url: /hi/python-java/conversion/excel-to-jpg/
+
 description: एक्सेल से जेपीजी Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर बैच एक्सेल फ़ाइलों को जेपीजी रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Az XLTM konvertálása ODS-re a következőn keresztül: C#"
-url: /hu/net/conversion/xltm-to-ods/
+
 description: Mintakód az xltm–ods C# konverzióhoz. Használjon API példakódot a kötegelt xltm-fájlok ods-konverziójához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLT na MARKDOWN přes Python
-url: /cs/python-java/conversion/xlt-to-markdown/
+
 description: Ukázkový kód pro konverzi xlt na markdown Python. Použijte API ukázkový kód pro dávkové soubory xlt ke konverzi markdown v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

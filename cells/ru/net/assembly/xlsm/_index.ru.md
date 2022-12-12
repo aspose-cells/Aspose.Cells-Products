@@ -1,7 +1,7 @@
-﻿---
+---
 title: Создание отчетов в файлах XLSM с помощью .NET 
 weight: 4400
-url: /ru/net/assembly/xlsm/ 
+
 description: Исходный код C# для создания отчетов в формате XLSM на платформах .NET Framework, .NET Core, Mono или Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

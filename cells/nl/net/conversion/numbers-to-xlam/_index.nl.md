@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer NUMMERS naar XLAM via C#
-url: /nl/net/conversion/numbers-to-xlam/
+
 description: Voorbeeldcode voor conversie van getallen naar xlam C#. Gebruik API voorbeeldcode voor batchnummerbestanden naar xlam-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Edit file XLS melalui .NET 
-url: /id/net/editor/xls/ 
+
 description: C# kode sumber untuk mengedit dokumen XLS di .NET Framework, .NET Core, Windows Azure, Mono atau Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

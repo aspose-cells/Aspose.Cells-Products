@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してXLTファイルをマージ 
 weight: 9960
-url: /ja/java/merger/xlt/ 
+
 description: Java JSP/JSFアプリケーションとデスクトップアプリケーションのランタイム環境でXLTドキュメントを組み合わせるためのサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

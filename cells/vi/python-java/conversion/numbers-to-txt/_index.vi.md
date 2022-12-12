@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển NUMBERS thành TXT qua Python
-url: /vi/python-java/conversion/numbers-to-txt/
+
 description: Mã mẫu cho chuyển đổi số thành txt Python. Sử dụng mã mẫu API cho các tệp số hàng loạt để chuyển đổi txt trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Hozzon létre HTML-fájlokat a következőn keresztül: Java "
-url: /hu/java/create-html/ 
+
 description: Java Mintakód HTML-dokumentumok generálásához. Ezzel a kóddal HTML-fájlokat hozhat létre Java alapú asztali vagy webes alkalmazásban.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

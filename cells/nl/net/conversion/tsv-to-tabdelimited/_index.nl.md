@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer TSV naar TABDELIMITED via C#
-url: /nl/net/conversion/tsv-to-tabdelimited/
+
 description: Voorbeeldcode voor conversie van tsv naar tabgescheiden C#. Gebruik API voorbeeldcode voor batch TSV-bestanden naar door tabs gescheiden conversies binnen VB.NET, Asp.NET of een .NET-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

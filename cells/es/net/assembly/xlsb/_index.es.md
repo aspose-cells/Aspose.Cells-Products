@@ -1,7 +1,7 @@
-﻿---
+---
 title: Genere informes en archivos XLSB a través de .NET 
 weight: 1690
-url: /es/net/assembly/xlsb/ 
+
 description: C# código fuente para generar informes en formato XLSB en .NET Framework, .NET Core, Mono o Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

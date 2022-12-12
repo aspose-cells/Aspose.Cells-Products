@@ -1,7 +1,7 @@
-﻿---
+---
 title: Dokumen ODS tanda air melalui .NET 
 weight: 4190
-url: /id/net/watermark/ods/ 
+
 description: C# kode sumber untuk menambah atau menghapus tanda air ke file ODS di .NET Framework, .NET Core, Mono atau Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

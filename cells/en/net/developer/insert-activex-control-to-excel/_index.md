@@ -1,7 +1,7 @@
 ---
 title: Insert ActiveX Control into Excel via .NET 
 weight: 10
-url: /net/developer/insert-activex-control-to-excel/ 
+
 description: C# source code to insert ActiveX Control into Excel on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

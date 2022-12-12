@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera NUMBERS till TXT via C#
-url: /sv/net/conversion/numbers-to-txt/
+
 description: Exempelkod för siffror till txt-konvertering av C#. Använd API exempelkod för batchnummerfiler till txt-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

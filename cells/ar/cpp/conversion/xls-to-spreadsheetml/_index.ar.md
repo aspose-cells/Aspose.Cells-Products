@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLS إلى SPREADSHEETML عبر تطبيق C++ 
-url: /ar/cpp/conversion/xls-to-spreadsheetml/ 
+
 description: نموذج رمز تحويل C++ لمستند XLS إلى تنسيق SPREADSHEETML. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل XLS دفعة إلى SPREADSHEETML داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

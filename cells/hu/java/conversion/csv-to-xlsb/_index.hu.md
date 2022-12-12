@@ -1,7 +1,7 @@
-﻿---
+---
 title: "CSV konvertálása XLSB-re a következőn keresztül: Java "
 weight: 770
-url: /hu/java/conversion/csv-to-xlsb/ 
+
 description: Minta Java konverziós kód a CSV-formátumhoz XLSB-fájllá. A programozók ezt a példakódot használhatják Excel és OpenOffice táblázatok XLSB formátumba exportálására bármely web- vagy asztali Java alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

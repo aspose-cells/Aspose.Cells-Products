@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer XLSB naar PDF via C++ applicatie 
 weight: 5360
-url: /nl/cpp/conversion/xlsb-to-pdf/ 
+
 description: Voorbeeld C++-conversiecode voor XLSB-document naar PDF-indeling. Programmeurs kunnen deze broncode gebruiken voor batch-XLSB-naar-PDF-conversie binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

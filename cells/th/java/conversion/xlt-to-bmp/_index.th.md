@@ -1,7 +1,7 @@
-﻿---
+---
 title: แปลง XLT เป็น BMP ผ่าน Java 
 weight: 590
-url: /th/java/conversion/xlt-to-bmp/ 
+
 description: ตัวอย่างโค้ดการแปลง Java สำหรับรูปแบบ XLT เป็นไฟล์ BMP โปรแกรมเมอร์สามารถใช้โค้ดตัวอย่างนี้เพื่อส่งออกสเปรดชีต Excel & OpenOffice ไปยัง BMP ภายในแอปพลิเคชันบนเว็บหรือเดสก์ท็อป Java
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

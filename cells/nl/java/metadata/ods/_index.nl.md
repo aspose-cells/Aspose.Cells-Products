@@ -1,7 +1,7 @@
-﻿---
+---
 title: Metadata van ODS-bestanden bewerken of bekijken via Java 
 weight: 2080
-url: /nl/java/metadata/ods/ 
+
 description: Java voorbeeldcode om metadata in ODS-indeling te bewerken of te bekijken in Java Runtime Environment voor JSP/JSF-applicaties en desktopapplicaties.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

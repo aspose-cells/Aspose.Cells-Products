@@ -1,6 +1,6 @@
 ---
 title: Convert TSV to JSON via Python
-url: /python-net/conversion/tsv-to-json/
+
 description: Sample code for tsv to json Python conversion. Use API example code for batch tsv files to json conversion within Python application.
 ---
 

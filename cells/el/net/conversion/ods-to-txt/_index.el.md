@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή ODS σε TXT μέσω C#
-url: /el/net/conversion/ods-to-txt/
+
 description: Δείγμα κώδικα για μετατροπή ods σε txt C#. Χρησιμοποιήστε API παράδειγμα κώδικα για αρχεία ομαδικών αποδόσεων σε μετατροπή txt εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

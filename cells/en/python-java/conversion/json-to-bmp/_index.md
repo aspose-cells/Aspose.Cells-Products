@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to BMP via Python
-url: /python-java/conversion/json-to-bmp/
+
 description: Convert JSON to BMP format in Python code. Save JSON as BMP using Python.
 ---
 

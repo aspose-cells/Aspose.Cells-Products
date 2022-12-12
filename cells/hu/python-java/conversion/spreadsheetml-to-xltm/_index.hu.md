@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SPREADSHEETML konvertálása XLTM-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/spreadsheetml-to-xltm/
+
 description: Mintakód a táblázatkezelőből xltm-be Python konverzióhoz. Használjon API példakódot a kötegelt táblázatkezelő fájlok xltm konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

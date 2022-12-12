@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++ uygulaması aracılığıyla SPREADSHEETML'yi XLTX'e dönüştürün 
-url: /tr/cpp/conversion/spreadsheetml-to-xltx/ 
+
 description: SPREADSHEETML belgesi için XLTX biçimine örnek C++ dönüştürme kodu. Programcılar, herhangi bir C++ Uygulamasında toplu SPREADSHEETML'den XLTX'e dönüştürme için bu kaynak kodunu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

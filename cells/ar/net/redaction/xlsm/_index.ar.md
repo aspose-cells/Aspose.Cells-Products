@@ -1,7 +1,7 @@
-﻿---
+---
 title: البحث عن نص واستبداله في مستند XLSM عبر .NET 
 weight: 2370
-url: /ar/net/redaction/xlsm/ 
+
 description: C# شفرة المصدر لتنقيح المعلومات الحساسة في ملف XLSM على .NET Framework أو .NET Core أو Mono أو أنظمة Xamarin الأساسية.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

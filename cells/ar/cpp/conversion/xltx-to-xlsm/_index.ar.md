@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLTX إلى XLSM عبر تطبيق C++ 
-url: /ar/cpp/conversion/xltx-to-xlsm/ 
+
 description: نموذج C++ رمز تحويل لمستند XLTX إلى تنسيق XLSM. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل XLTX إلى XLSM دفعة داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

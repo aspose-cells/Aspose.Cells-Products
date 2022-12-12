@@ -1,6 +1,6 @@
-﻿---
+---
 title: Twórz wykresy giełdowe maks.-min.-zamknij za pomocą C#
-url: /pl/net/create-stockhighlowclose-chart/
+
 description: C# Przykładowy kod do tworzenia wykresów giełdowych maks.-min.-zamknięcie w programie Excel przy użyciu biblioteki .NET. Użyj tego kodu, aby utworzyć wykres giełdowy maks.-min.-zamk. do MS Excel w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

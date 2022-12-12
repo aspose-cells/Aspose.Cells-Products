@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to DIF via Java 
-url: /java/conversion/sxc-to-dif/
+
 description: Convert SXC to DIF format in Java code. Save SXC as DIF using Java.
 ---
 

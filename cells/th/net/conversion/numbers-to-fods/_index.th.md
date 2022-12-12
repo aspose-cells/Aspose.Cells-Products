@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง NUMBERS เป็น FODS ผ่าน C#
-url: /th/net/conversion/numbers-to-fods/
+
 description: โค้ดตัวอย่างสำหรับการแปลงตัวเลขเป็น fods C# ใช้รหัสตัวอย่าง API สำหรับไฟล์หมายเลขแบทช์เพื่อแปลงเป็น fods ภายใน VB.NET, Asp.NET หรือแอปพลิเคชันที่ใช้ .NET
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir des NUMBERS en FODS via Python
-url: /fr/python-java/conversion/numbers-to-fods/
+
 description: Exemple de code pour la conversion des nombres en fods Python. Utilisez l'exemple de code API pour la conversion des fichiers de numéros de lot en fods dans l'application Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

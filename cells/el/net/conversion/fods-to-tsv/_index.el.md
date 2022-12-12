@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή FODS σε TSV μέσω C#
-url: /el/net/conversion/fods-to-tsv/
+
 description: Δείγμα κώδικα για μετατροπή fods σε tsv C#. Χρησιμοποιήστε API παράδειγμα κώδικα για αρχεία batch fods σε μετατροπή tsv εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

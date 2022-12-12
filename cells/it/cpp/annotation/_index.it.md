@@ -1,6 +1,6 @@
-﻿---
+---
 title: Annotazioni file Excel tramite C++
-url: /it/cpp/annotation/
+
 description: Aggiungi o rimuovi commenti di annotazione dati di fogli di lavoro Excel e OpenOffice con la libreria C++.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

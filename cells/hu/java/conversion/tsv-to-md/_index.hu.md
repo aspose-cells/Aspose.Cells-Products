@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TSV konvertálása MD-vé a következőn keresztül: Java "
-url: /hu/java/conversion/tsv-to-md/ 
+
 description: Minta Java konverziós kód a TSV-formátumhoz MD-fájllá. A programozók ezt a példakódot használhatják Excel- és OpenOffice-táblázatok exportálására MD-re bármely web- vagy asztali Java-alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

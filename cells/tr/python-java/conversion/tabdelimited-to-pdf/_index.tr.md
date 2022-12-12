@@ -1,6 +1,6 @@
-﻿---
+---
 title: TABDELIMITED'i Python aracılığıyla PDF'ye dönüştürün
-url: /tr/python-java/conversion/tabdelimited-to-pdf/
+
 description: Tabdelimited to pdf Python dönüşümü için örnek kod. Python uygulamasında toplu sekmeyle ayrılmış dosyaları pdf'ye dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

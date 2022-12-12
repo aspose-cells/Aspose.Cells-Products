@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python के माध्यम से EXCEL को PPTX में बदलें
-url: /hi/python-java/conversion/excel-to-pptx/
+
 description: एक्सेल से पीपीटीएक्स Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर बैच एक्सेल फ़ाइलों को पीपीटीएक्स रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

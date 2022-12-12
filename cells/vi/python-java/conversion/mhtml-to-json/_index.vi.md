@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển MHTML sang JSON qua Python
-url: /vi/python-java/conversion/mhtml-to-json/
+
 description: Mã mẫu cho chuyển đổi mhtml sang json Python. Sử dụng API mã mẫu cho hàng loạt tệp mhtml thành chuyển đổi json trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

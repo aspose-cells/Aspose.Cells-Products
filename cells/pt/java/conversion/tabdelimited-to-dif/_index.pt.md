@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter TABDELIMITED para DIF via Java 
-url: /pt/java/conversion/tabdelimited-to-dif/ 
+
 description: Exemplo de código de conversão Java para formato TABDELIMITED para arquivo DIF. Os programadores podem usar este código de exemplo para exportar planilhas do Excel e OpenOffice para DIF em qualquer aplicativo baseado na Web ou Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

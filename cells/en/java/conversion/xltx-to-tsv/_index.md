@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to TSV via Java 
-url: /java/conversion/xltx-to-tsv/
+
 description: Convert XLTX to TSV format in Java code. Save XLTX as TSV using Java.
 ---
 

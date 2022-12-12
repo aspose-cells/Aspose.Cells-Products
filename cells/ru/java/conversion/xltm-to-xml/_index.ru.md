@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLTM в XML через Java 
-url: /ru/java/conversion/xltm-to-xml/ 
+
 description: Пример кода преобразования Java для формата XLTM в файл XML. Программисты могут использовать этот пример кода для экспорта электронных таблиц Excel и OpenOffice в формат XML в любом веб-приложении или настольном Java приложении.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to TSV via Python
-url: /python-java/conversion/html-to-tsv/
+
 description: Convert HTML to TSV format in Python code. Save HTML as TSV using Python.
 ---
 

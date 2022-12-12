@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj XLS na SPREADSHEETML za pomocą C#
-url: /pl/net/conversion/xls-to-spreadsheetml/
+
 description: Przykładowy kod konwersji xls do arkusza kalkulacyjnego ml C#. Użyj przykładowego kodu API dla plików wsadowych xls do konwersji arkusza kalkulacyjnego na ml w ramach VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

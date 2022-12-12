@@ -1,6 +1,6 @@
-﻿---
+---
 title: Bewerk XLTM-bestanden via .NET 
-url: /nl/net/editor/xltm/ 
+
 description: C# broncode om het XLTM-document te bewerken op .NET Framework, .NET Core, Windows Azure, Mono of Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

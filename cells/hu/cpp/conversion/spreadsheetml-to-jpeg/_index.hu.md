@@ -1,6 +1,6 @@
-﻿---
+---
 title: SPREADSHEETML konvertálása JPEG formátumba a(z) C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/spreadsheetml-to-jpeg/ 
+
 description: Minta C++ konverziós kód a SPREADSHEETML dokumentumhoz JPEG formátumba. A programozók ezt a forráskódot használhatják a SPREADSHEETML-ből JPEG-be való kötegelt konvertáláshoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

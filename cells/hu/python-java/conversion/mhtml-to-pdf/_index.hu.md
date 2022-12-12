@@ -1,6 +1,6 @@
-﻿---
+---
 title: "MHTML konvertálása PDF-be a következőn keresztül: Python"
-url: /hu/python-java/conversion/mhtml-to-pdf/
+
 description: Mintakód az mhtml-ből pdf-be Python konvertáláshoz. Használjon API példakódot az mhtml fájlok kötegelt PDF konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

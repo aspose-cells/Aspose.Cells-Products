@@ -1,7 +1,7 @@
 ---
 title: View XLSM File Formats via .NET 
 weight: 9980
-url: /net/viewer/xlsm/ 
+
 description: C# source code to load, render and display XLSM documents on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

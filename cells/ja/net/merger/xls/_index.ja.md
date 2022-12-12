@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NETを介してXLSファイルをマージします 
 weight: 3000
-url: /ja/net/merger/xls/ 
+
 description: .NETフレームワーク、.NETコア、Mono、またはXamarinプラットフォームでXLSドキュメントを組み合わせるためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

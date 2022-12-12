@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie NUMBERS in PNG über Python
-url: /de/python-java/conversion/numbers-to-png/
+
 description: Beispielcode für die Umwandlung von Zahlen in PNG Python. Verwenden Sie API Beispielcode für die Konvertierung von Stapelnummerndateien in PNG innerhalb der Anwendung Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

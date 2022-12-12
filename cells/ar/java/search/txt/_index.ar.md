@@ -1,7 +1,7 @@
-﻿---
+---
 title: البحث في مستند TXT دون الفتح عبر Java 
 weight: 1200
-url: /ar/java/search/txt/ 
+
 description: Java نموذج كود للبحث عن الكلمات ذات النمط في ملف TXT في Java Runtime Environment لتطبيق JSP / JSF وتطبيقات سطح المكتب.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert XLTM to JSON via C#
-url: /net/conversion/xltm-to-json/
+
 description: Convert XLTM to JSON format in C# code. Save XLTM as JSON using VB.NET, Asp.NET or any .NET based application.
 ---
 

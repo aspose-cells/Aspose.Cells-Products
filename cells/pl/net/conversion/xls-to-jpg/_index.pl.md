@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj XLS na JPG przez C#
-url: /pl/net/conversion/xls-to-jpg/
+
 description: Przykładowy kod konwersji xls do jpg C#. Użyj przykładowego kodu API dla plików wsadowych xls do konwersji jpg w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

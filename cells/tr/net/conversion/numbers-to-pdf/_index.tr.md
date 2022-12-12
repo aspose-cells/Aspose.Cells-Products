@@ -1,6 +1,6 @@
-﻿---
+---
 title: NUMBERS'ı C# aracılığıyla PDF'ye dönüştürün
-url: /tr/net/conversion/numbers-to-pdf/
+
 description: Sayıları pdf'ye C# dönüştürmek için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu iş numarası dosyalarını pdf'ye dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

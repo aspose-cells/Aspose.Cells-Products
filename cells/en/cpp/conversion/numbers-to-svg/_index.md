@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to SVG via C++
-url: /cpp/conversion/numbers-to-svg/
+
 description: Convert NUMBERS to SVG format in C++ code. Save NUMBERS as SVG using C++.
 ---
 

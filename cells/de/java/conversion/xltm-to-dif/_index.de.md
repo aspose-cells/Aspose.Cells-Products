@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertieren Sie XLTM in DIF über Java 
 weight: 6620
-url: /de/java/conversion/xltm-to-dif/ 
+
 description: Beispiel-Umwandlungscode Java für das XLTM-Format in eine DIF-Datei. Programmierer können diesen Beispielcode verwenden, um Excel- und OpenOffice-Tabellen in DIF innerhalb einer beliebigen Web- oder Desktop-Java-basierten Anwendung zu exportieren.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

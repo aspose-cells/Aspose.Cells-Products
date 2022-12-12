@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通過 .NET 保護和鎖定 XLSX 文檔 
 weight: 90
-url: /zh-hant/net/protect/xlsx/ 
+
 description: C# 源代碼，用於在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上使用密碼鎖定 XLSX 文件。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

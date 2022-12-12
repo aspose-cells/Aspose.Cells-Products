@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++ uygulaması aracılığıyla XLTX'i TIFF'ye dönüştürün 
-url: /tr/cpp/conversion/xltx-to-tiff/ 
+
 description: XLTX belgesi için TIFF biçimine örnek C++ dönüştürme kodu. Programcılar, herhangi bir C++ Uygulamasında toplu XLTX'ten TIFF'ye dönüştürme için bu kaynak kodunu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 C++ 应用程序将 XLTX 转换为 XPS 
-url: /zh/cpp/conversion/xltx-to-xps/ 
+
 description: XLTX 文档到 XPS 格式的示例 C++ 转换代码。程序员可以使用此源代码在任何 C++ 应用程序中进行批量 XLTX 到 XPS 的转换。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

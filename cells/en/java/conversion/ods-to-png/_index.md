@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to PNG via Java 
-url: /java/conversion/ods-to-png/
+
 description: Convert ODS to PNG format in Java code. Save ODS as PNG using Java.
 ---
 

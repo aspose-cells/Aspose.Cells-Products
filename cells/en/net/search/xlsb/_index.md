@@ -1,7 +1,7 @@
 ---
 title: Search XLSB document without opening via .NET 
 weight: 8880
-url: /net/search/xlsb/ 
+
 description: C# source code to search words with pattern in XLSB file on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

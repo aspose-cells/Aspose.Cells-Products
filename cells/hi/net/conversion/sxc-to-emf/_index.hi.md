@@ -1,6 +1,6 @@
-﻿---
+---
 title: SXC को EMF में बदलें C# के माध्यम से
-url: /hi/net/conversion/sxc-to-emf/
+
 description: एसएक्ससी से ईएमएफ C# रूपांतरण के लिए नमूना कोड। वीबी.NET, एएसपी.NET या किसी .NET आधारित एप्लिकेशन के भीतर ईएमएफ रूपांतरण के लिए बैच एसएक्ससी फाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

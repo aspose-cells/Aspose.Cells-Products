@@ -1,7 +1,7 @@
-﻿---
+---
 title: Диаграмма документа XLS через Java 
 weight: 1050
-url: /ru/java/chart/xls/ 
+
 description: Java пример кода для рисования и преобразования диаграммы или диаграммы в файл XLS в Java среде выполнения для приложений JSP/JSF и настольных приложений.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

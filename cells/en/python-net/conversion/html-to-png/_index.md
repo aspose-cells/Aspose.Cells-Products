@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to PNG via Python
-url: /python-net/conversion/html-to-png/
+
 description: Sample code for html to png Python conversion. Use API example code for batch html files to png conversion within Python application.
 ---
 

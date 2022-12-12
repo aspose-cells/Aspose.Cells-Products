@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan XLTM ke MARKDOWN melalui C#
-url: /id/net/conversion/xltm-to-markdown/
+
 description: Contoh kode untuk xltm ke penurunan harga C# konversi. Gunakan API kode contoh untuk file batch xltm untuk konversi penurunan harga dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

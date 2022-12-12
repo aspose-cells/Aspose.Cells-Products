@@ -1,6 +1,6 @@
 ---
 title: Create Pie Charts via Python
-url: /python-net/create-pie-chart/
+
 description: Python Sample code for creating Pie charts to Excel using Python Library. Use this code for creating a Pie chart to MS Excel within Python based application.
 
 ---

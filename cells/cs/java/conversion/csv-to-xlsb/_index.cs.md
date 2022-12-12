@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést CSV na XLSB prostřednictvím Java 
 weight: 770
-url: /cs/java/conversion/csv-to-xlsb/ 
+
 description: Ukázkový konverzní kód Java pro formát CSV na soubor XLSB. Programátoři mohou použít tento příklad kódu k exportu tabulek Excelu a OpenOffice do XLSB v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

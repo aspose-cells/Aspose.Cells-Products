@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SXC konvertálása EMF-re a következőn keresztül: C#"
-url: /hu/net/conversion/sxc-to-emf/
+
 description: Mintakód az sxc-ből emf-be C# történő konverzióhoz. Használjon API példakódot kötegelt sxc fájlokhoz az EMF konverzióhoz VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

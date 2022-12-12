@@ -1,7 +1,7 @@
-﻿---
+---
 title: Telusuri dokumen TSV tanpa membuka melalui Java 
 weight: 4940
-url: /id/java/search/tsv/ 
+
 description: Java contoh kode untuk mencari kata dengan pola dalam file TSV di Java Runtime Environment untuk Aplikasi JSP/JSF dan Aplikasi Desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

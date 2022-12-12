@@ -1,7 +1,7 @@
-﻿---
+---
 title: Cari dan ganti teks dalam dokumen XLSM melalui C++ 
 weight: 9570
-url: /id/cpp/redaction/xlsm/ 
+
 description: C++ kode contoh untuk menyunting informasi sensitif dalam file XLSM di C++ Runtime Environment untuk Windows 32 bit, Windows 64 bit, dan Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

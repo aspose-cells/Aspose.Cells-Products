@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TABDELIMITED na MHTML prostřednictvím Python
-url: /cs/python-java/conversion/tabdelimited-to-mhtml/
+
 description: Ukázkový kód pro převod tabdelimited na mhtml Python. Použijte API ukázkový kód pro dávkový převod souborů oddělených tabulátory na mhtml v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

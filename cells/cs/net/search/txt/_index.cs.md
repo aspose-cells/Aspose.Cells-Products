@@ -1,7 +1,7 @@
-﻿---
+---
 title: Prohledejte dokument TXT bez otevření prostřednictvím .NET 
 weight: 8410
-url: /cs/net/search/txt/ 
+
 description: C# zdrojový kód pro vyhledávání slov se vzorem v souboru TXT na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

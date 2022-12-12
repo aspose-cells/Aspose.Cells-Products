@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển XLTM sang GIF qua ứng dụng C++ 
-url: /vi/cpp/conversion/xltm-to-gif/ 
+
 description: Mã chuyển đổi C++ mẫu cho tài liệu XLTM sang định dạng GIF. Các lập trình viên có thể sử dụng mã nguồn này để chuyển đổi hàng loạt XLTM sang GIF trong bất kỳ Ứng dụng C++ nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

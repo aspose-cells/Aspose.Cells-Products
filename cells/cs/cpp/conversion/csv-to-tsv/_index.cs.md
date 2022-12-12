@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převeďte CSV na TSV pomocí aplikace C++ 
 weight: 2940
-url: /cs/cpp/conversion/csv-to-tsv/ 
+
 description: Ukázkový konverzní kód C++ pro dokument CSV na formát TSV. Programátoři mohou tento zdrojový kód použít pro dávkový převod CSV na TSV v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

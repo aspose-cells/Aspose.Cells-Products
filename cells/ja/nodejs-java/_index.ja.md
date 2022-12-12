@@ -1,7 +1,7 @@
-﻿---
+---
 title: Excelスプレッドシート用のNode.jsAPI-Aspose 
 weight: 3120
-url: /ja/nodejs-java/ 
+
 description: Node.jsライブラリを介してExcelファイル形式を処理します。 Windows、macOS、LinuxのNode.jsを介して、読み取り/書き込みレンダリングと変換XLS XLSX XLSB XLTX XLTM XLSM XMLODSCVSおよびその他の形式
 ---
 {{< blocks/products/pf/main-wrap-class >}}

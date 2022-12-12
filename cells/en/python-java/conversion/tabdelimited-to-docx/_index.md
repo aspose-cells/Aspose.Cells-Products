@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to DOCX via Python
-url: /python-java/conversion/tabdelimited-to-docx/
+
 description: Convert TABDELIMITED to DOCX format in Python code. Save TABDELIMITED as DOCX using Python.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: एमएचटीएमएल को Python के माध्यम से जीआईएफ में बदलें
-url: /hi/python-java/conversion/mhtml-to-gif/
+
 description: एमएचटीएमएल से जीआईएफ Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर बैच एमएचटीएमएल फाइलों को जीआईएफ रूपांतरण के लिए API उदाहरण कोड का प्रयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

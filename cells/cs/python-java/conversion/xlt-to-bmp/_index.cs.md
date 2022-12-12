@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLT na BMP přes Python
-url: /cs/python-java/conversion/xlt-to-bmp/
+
 description: Ukázkový kód pro převod xlt na bmp Python. Použijte API ukázkový kód pro dávkový převod souborů xlt na bmp v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

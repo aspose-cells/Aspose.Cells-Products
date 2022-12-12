@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή NUMBERS σε TABDELIMITED μέσω Python
-url: /el/python-java/conversion/numbers-to-tabdelimited/
+
 description: Δείγμα κωδικού για αριθμούς σε μετατροπή οριοθετημένης καρτέλας Python. Χρησιμοποιήστε API παράδειγμα κώδικα για αρχεία αριθμών παρτίδας σε μετατροπή οριοθετημένης καρτέλας εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

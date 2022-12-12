@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan XLT ke SXC melalui Python
-url: /id/python-java/conversion/xlt-to-sxc/
+
 description: Contoh kode untuk konversi xlt ke sxc Python. Gunakan API kode contoh untuk file batch xlt ke konversi sxc dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

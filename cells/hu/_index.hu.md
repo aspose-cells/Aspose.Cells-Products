@@ -1,7 +1,7 @@
-﻿---
+---
 title: Excel fájlformátum megoldás
 weight: 7730
-url: /hu/
+
 description: Hozzon létre Excel fájlkezelő alkalmazásokat High Code vagy Low Code API-k vagy No Code Apps segítségével, hogy megtekinthesse az Excel-fájlok ellenőrzését vagy konvertálását.
 ---
 {{< blocks/products/pf/main-wrap-class >}}

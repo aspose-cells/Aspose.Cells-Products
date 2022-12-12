@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer FODS naar BMP via Python
-url: /nl/python-java/conversion/fods-to-bmp/
+
 description: Voorbeeldcode voor conversie van fods naar bmp Python. Gebruik API voorbeeldcode voor batch-fods-bestanden naar bmp-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

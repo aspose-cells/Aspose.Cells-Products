@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi TXT ke PDF melalui C++ aplikasi 
-url: /id/cpp/conversion/txt-to-pdf/ 
+
 description: Contoh C++ kode konversi untuk dokumen TXT ke format PDF. Pemrogram dapat menggunakan kode sumber ini untuk konversi batch TXT ke PDF dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

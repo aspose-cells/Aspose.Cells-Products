@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az ODS-t JSON-ba a C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/ods-to-json/ 
+
 description: Minta C++ konverziós kód az ODS-dokumentumhoz JSON formátumba. A programozók ezt a forráskódot használhatják az ODS-ből JSON-ba történő kötegelt konverzióhoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

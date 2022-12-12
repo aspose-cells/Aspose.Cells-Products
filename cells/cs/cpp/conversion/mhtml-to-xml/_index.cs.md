@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte MHTML na XML pomocí aplikace C++ 
-url: /cs/cpp/conversion/mhtml-to-xml/ 
+
 description: Ukázka převodního kódu C++ pro dokument MHTML do formátu XML. Programátoři mohou použít tento zdrojový kód pro dávkovou konverzi MHTML na XML v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

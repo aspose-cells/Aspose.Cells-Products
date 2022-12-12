@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést NUMBERS na MHTML prostřednictvím Python
-url: /cs/python-java/conversion/numbers-to-mhtml/
+
 description: Ukázkový kód pro převod čísel na mhtml Python. Použijte API ukázkový kód pro dávkové soubory čísel na převod mhtml v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

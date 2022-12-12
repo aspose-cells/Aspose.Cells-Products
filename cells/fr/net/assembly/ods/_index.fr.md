@@ -1,7 +1,7 @@
-﻿---
+---
 title: Générer des rapports dans des fichiers ODS via .NET 
 weight: 520
-url: /fr/net/assembly/ods/ 
+
 description: Code source C# pour générer des rapports au format ODS sur les plates-formes .NET Framework, .NET Core, Mono ou Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

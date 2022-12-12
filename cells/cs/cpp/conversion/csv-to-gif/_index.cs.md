@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převeďte CSV na GIF pomocí aplikace C++ 
 weight: 7760
-url: /cs/cpp/conversion/csv-to-gif/ 
+
 description: Ukázka převodního kódu C++ pro dokument CSV na formát GIF. Programátoři mohou použít tento zdrojový kód pro dávkový převod CSV na GIF v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

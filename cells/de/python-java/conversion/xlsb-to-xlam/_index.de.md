@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie XLSB in XLAM über Python
-url: /de/python-java/conversion/xlsb-to-xlam/
+
 description: Beispielcode für die Umwandlung von xlsb in xlam Python. Verwenden Sie API Beispielcode für die Batch-Konvertierung von xlsb-Dateien in xlam innerhalb der Anwendung Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

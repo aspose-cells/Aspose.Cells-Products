@@ -1,7 +1,7 @@
-﻿---
+---
 title: "MHTML konvertálása BMP-vé a következőn keresztül: Java "
 weight: 4410
-url: /hu/java/conversion/mhtml-to-bmp/ 
+
 description: Minta Java konverziós kód MHTML formátumhoz BMP fájllá. A programozók ezt a példakódot használhatják Excel- és OpenOffice-táblázatok exportálására BMP-be bármely web- vagy asztali Java-alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

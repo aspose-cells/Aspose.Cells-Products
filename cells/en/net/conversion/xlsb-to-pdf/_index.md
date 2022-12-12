@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to PDF via C#
-url: /net/conversion/xlsb-to-pdf/
+
 description: Convert XLSB to PDF format in C# code. Save XLSB as PDF using VB.NET, Asp.NET or any .NET based application.
 ---
 

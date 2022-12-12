@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してNUMBERSをSVGに変換します 
-url: /ja/java/conversion/numbers-to-svg/ 
+
 description: NUMBERS形式のSVGファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のSVGにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

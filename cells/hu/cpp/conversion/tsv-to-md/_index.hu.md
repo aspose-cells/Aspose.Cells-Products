@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja a TSV-t MD-vé a(z) C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/tsv-to-md/ 
+
 description: Minta C++ konverziós kód a TSV-dokumentumhoz MD formátumba. A programozók ezt a forráskódot használhatják kötegelt TSV-ből MD-vé konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

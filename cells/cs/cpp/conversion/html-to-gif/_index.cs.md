@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převeďte HTML na GIF pomocí aplikace C++ 
 weight: 6750
-url: /cs/cpp/conversion/html-to-gif/ 
+
 description: Ukázka převodního kódu C++ pro dokument HTML na formát GIF. Programátoři mohou použít tento zdrojový kód pro dávkový převod HTML na GIF v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

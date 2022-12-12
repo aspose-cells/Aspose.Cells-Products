@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to CSV via Python
-url: /python-java/conversion/xlsb-to-csv/
+
 description: Convert XLSB to CSV format in Python code. Save XLSB as CSV using Python.
 ---
 

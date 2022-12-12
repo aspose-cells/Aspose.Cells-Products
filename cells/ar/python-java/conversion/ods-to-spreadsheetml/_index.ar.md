@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل ODS إلى SPREADSHEETML عبر Python
-url: /ar/python-java/conversion/ods-to-spreadsheetml/
+
 description: نموذج كود لتحويل ods إلى جدول بيانات Python. استخدم API رمز المثال لملفات ods الدفعية لتحويل جدول بيانات داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera CSV till ODS via Python
-url: /sv/python-java/conversion/csv-to-ods/
+
 description: Exempelkod för konvertering av csv till ods Python. Använd API exempelkod för batch-csv-filer till ods-konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

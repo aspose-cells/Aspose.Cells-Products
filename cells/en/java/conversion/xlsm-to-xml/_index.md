@@ -1,6 +1,6 @@
 ---
 title: Convert XLSM to XML via Java 
-url: /java/conversion/xlsm-to-xml/
+
 description: Convert XLSM to XML format in Java code. Save XLSM as XML using Java.
 ---
 

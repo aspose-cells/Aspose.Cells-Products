@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer NUMMERS naar DOCX via C#
-url: /nl/net/conversion/numbers-to-docx/
+
 description: Voorbeeldcode voor getallen naar docx C#-conversie. Gebruik API voorbeeldcode voor batchnummerbestanden naar docx-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

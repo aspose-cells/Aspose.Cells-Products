@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLSB Dosya Biçimlerini .NET üzerinden görüntüleyin 
 weight: 6260
-url: /tr/net/viewer/xlsb/ 
+
 description: .NET Framework, .NET Core, Mono veya Xamarin Platformlarında XLSB belgelerini yüklemek, oluşturmak ve görüntülemek için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

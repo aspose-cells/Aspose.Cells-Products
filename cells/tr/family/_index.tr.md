@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET Java C++ PHP ve Android Excel Elektronik Tablo Ayrıştırma API'leri 
 weight: 10
-url: /tr/family
+
 description: .NET Java C++ Android ve SharePoint uygulamalarında Microsoft Excel dosyalarını okumak ve yazmak için kitaplıklar. Çalışma Sayfalarını SSRS ve JasperReports'ta Dışa Aktarma
 ---
 {{< blocks/products/pf/main-wrap-class >}}

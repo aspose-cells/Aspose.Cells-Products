@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera HTML till PDF via C#
-url: /sv/net/conversion/html-to-pdf/
+
 description: Exempelkod för konvertering från html till pdf C#. Använd API exempelkod för batch-html-filer till pdf-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

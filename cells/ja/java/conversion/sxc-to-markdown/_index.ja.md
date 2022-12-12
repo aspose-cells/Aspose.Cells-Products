@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してSXCをMARKDOWNに変換します 
-url: /ja/java/conversion/sxc-to-markdown/ 
+
 description: SXC形式からMARKDOWNファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートをWebまたはデスクトップJavaベースのアプリケーション内のMARKDOWNにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

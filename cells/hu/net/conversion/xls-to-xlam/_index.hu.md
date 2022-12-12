@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLS konvertálása XLAM-re a következőn keresztül: C#"
-url: /hu/net/conversion/xls-to-xlam/
+
 description: Mintakód az xls–xlam C# konverzióhoz. Használjon API példakódot kötegelt xls fájlokhoz az xlam konvertáláshoz VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

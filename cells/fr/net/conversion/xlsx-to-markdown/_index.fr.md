@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir XLSX en MARKDOWN via C#
-url: /fr/net/conversion/xlsx-to-markdown/
+
 description: Exemple de code pour la conversion xlsx vers markdown C#. Utilisez l'exemple de code API pour les fichiers xlsx par lots pour la conversion de démarquage dans VB.NET, Asp.NET ou toute application basée sur .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

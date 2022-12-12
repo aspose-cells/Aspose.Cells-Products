@@ -1,6 +1,6 @@
 ---
 title: Merge HTM to CSV Files via Java 
-url: /java/merger/merge-htm-to-csv/ 
+
 description: Merge HTM to CSV file in Java code. Combine HTM to CSV file using Java based desktop or web application.
 ---
 

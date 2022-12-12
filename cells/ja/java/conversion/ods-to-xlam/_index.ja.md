@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してODSをXLAMに変換します 
-url: /ja/java/conversion/ods-to-xlam/ 
+
 description: ODS形式からXLAMファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のXLAMにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

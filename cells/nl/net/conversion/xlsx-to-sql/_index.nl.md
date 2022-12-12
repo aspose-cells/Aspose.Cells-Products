@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLSX naar SQL via C#
-url: /nl/net/conversion/xlsx-to-sql/
+
 description: Voorbeeldcode voor xlsx naar sql C# conversie. Gebruik API voorbeeldcode voor batch xlsx-bestanden naar sql-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

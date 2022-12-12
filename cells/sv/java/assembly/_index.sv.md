@@ -1,6 +1,6 @@
-﻿---
+---
 title: Skapa Excel-filer via Java
-url: /sv/java/assembly/
+
 description: Generera Microsoft Excel-kalkylblad från ett mallark med hjälp av Java kalkylarksbibliotek
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

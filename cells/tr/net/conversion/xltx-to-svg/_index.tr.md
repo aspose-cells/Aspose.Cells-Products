@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla XLTX'i SVG'ye dönüştürün
-url: /tr/net/conversion/xltx-to-svg/
+
 description: xltx'ten svg'ye C# dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu xltx dosyalarından svg'ye dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

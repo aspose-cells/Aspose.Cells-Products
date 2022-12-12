@@ -1,6 +1,6 @@
 ---
 title: Convert XLTM to DOCX via C#
-url: /net/conversion/xltm-to-docx/
+
 description: Convert XLTM to DOCX format in C# code. Save XLTM as DOCX using VB.NET, Asp.NET or any .NET based application.
 ---
 

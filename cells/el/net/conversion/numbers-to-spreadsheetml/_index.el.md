@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή NUMBERS σε SPREADSHEETML μέσω C#
-url: /el/net/conversion/numbers-to-spreadsheetml/
+
 description: Δείγμα κώδικα για τη μετατροπή αριθμών σε υπολογιστικό φύλλο ml C#. Χρησιμοποιήστε API παράδειγμα κώδικα για αρχεία αριθμών παρτίδας για τη μετατροπή υπολογιστικών φύλλων σε VB.NET, Asp.NET ή οποιαδήποτε εφαρμογή που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

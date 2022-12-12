@@ -1,7 +1,7 @@
-﻿---
+---
 title: Extraheer tekst en afbeeldingen uit XLSB-document via .NET 
 weight: 2200
-url: /nl/net/parser/xlsb/ 
+
 description: C# broncode om tekst en afbeeldingen uit XLSB-bestanden te extraheren op .NET Framework, .NET Core, Mono of Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

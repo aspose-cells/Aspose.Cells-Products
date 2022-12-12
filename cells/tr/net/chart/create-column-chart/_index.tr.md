@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla Sütun Grafikleri Oluşturun
-url: /tr/net/create-column-chart/
+
 description: C# .NET Kitaplığı kullanarak Excel'de Sütun grafikleri oluşturmak için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde MS Excel'e bir Sütun grafiği oluşturmak için bu kodu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

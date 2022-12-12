@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konwertuj CSV na XPS za pomocą Java 
 weight: 5290
-url: /pl/java/conversion/csv-to-xps/ 
+
 description: Przykładowy kod konwersji Java dla formatu CSV do pliku XPS. Programiści mogą użyć tego przykładowego kodu do eksportowania arkuszy kalkulacyjnych Excel i OpenOffice do XPS w dowolnej aplikacji internetowej lub desktopowej Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

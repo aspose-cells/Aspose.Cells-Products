@@ -1,6 +1,6 @@
-﻿---
+---
 title: قم بتحويل XLTX إلى GIF عبر تطبيق C++ 
-url: /ar/cpp/conversion/xltx-to-gif/ 
+
 description: نموذج C++ رمز تحويل لمستند XLTX إلى تنسيق GIF. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل XLTX إلى GIF دفعة داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

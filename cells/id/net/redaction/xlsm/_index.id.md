@@ -1,7 +1,7 @@
-﻿---
+---
 title: Cari dan ganti teks dalam dokumen XLSM melalui .NET 
 weight: 2370
-url: /id/net/redaction/xlsm/ 
+
 description: C# kode sumber untuk menyunting informasi sensitif dalam file XLSM pada .NET Framework, .NET Core, Mono atau Platform Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

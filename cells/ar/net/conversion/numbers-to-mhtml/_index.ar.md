@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل الأرقام إلى MHTML عبر C#
-url: /ar/net/conversion/numbers-to-mhtml/
+
 description: نموذج رمز للأرقام لتحويل C# mhtml. استخدم API رمز المثال لملفات أرقام الدُفعات لتحويل mhtml داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

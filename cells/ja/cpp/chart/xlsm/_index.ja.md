@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++経由のXLSMドキュメントチャート 
 weight: 8510
-url: /ja/cpp/chart/xlsm/ 
+
 description: C++ Windows 32ビット、Windows 64ビット、およびLinux64ビットのランタイム環境でXLSMファイルにチャートまたは図を描画および変換するためのサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

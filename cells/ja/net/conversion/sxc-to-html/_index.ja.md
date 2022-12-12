@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してSXCをHTMLに変換する
-url: /ja/net/conversion/sxc-to-html/
+
 description: sxcからhtmlC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチsxcファイルからhtmlへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

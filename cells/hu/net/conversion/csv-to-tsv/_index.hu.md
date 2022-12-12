@@ -1,6 +1,6 @@
-﻿---
+---
 title: "CSV konvertálása TSV-vé a következőn keresztül: C#"
-url: /hu/net/conversion/csv-to-tsv/
+
 description: Mintakód a csv–tsv C# konverzióhoz. Használjon API példakódot a csv-fájlok kötegelt tsv-vé konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

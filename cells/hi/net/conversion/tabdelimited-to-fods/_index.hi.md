@@ -1,6 +1,6 @@
-﻿---
+---
 title: TABDELIMITED को C# के माध्यम से FODS में बदलें
-url: /hi/net/conversion/tabdelimited-to-fods/
+
 description: फ़ोड्स C# रूपांतरण के लिए सीमित टैब के लिए नमूना कोड। VB.NET, Asp.NET या किसी भी .NET आधारित एप्लिकेशन के भीतर फ़ोड्स रूपांतरण के लिए बैच टैब-सीमित फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

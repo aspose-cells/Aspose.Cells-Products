@@ -1,7 +1,7 @@
-﻿---
+---
 title: Chuyển đổi XLS sang XLSX qua ứng dụng C++ 
 weight: 4640
-url: /vi/cpp/conversion/xls-to-xlsx/ 
+
 description: Mã chuyển đổi C++ mẫu cho tài liệu XLS sang định dạng XLSX. Lập trình viên có thể sử dụng mã nguồn này để chuyển đổi hàng loạt XLS sang XLSX trong bất kỳ Ứng dụng C++ nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

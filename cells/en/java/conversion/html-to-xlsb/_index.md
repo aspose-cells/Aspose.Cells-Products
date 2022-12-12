@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to XLSB via Java 
-url: /java/conversion/html-to-xlsb/
+
 description: Convert HTML to XLSB format in Java code. Save HTML as XLSB using Java.
 ---
 

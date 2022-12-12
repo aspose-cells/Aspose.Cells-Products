@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla FODS'u MD'ye dönüştürün
-url: /tr/net/conversion/fods-to-md/
+
 description: Yemlerin md C# dönüşümüne ilişkin örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu dosya dosyaları için md dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

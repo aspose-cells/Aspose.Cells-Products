@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 Python 將 MHTML 轉換為 TSV
-url: /zh-hant/python-java/conversion/mhtml-to-tsv/
+
 description: mhtml 到 tsv Python 轉換的示例代碼。在 Python 應用程序中使用 API 示例代碼將 mhtml 文件批量轉換為 tsv。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

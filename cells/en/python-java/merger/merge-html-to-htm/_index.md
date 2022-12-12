@@ -1,6 +1,6 @@
 ---
 title: Merge HTML to HTM Files via Python 
-url: /python-java/merger/merge-html-to-htm/ 
+
 description: Merge HTML to HTM file in Python code. Combine HTML to HTM file using Python.
 ---
 

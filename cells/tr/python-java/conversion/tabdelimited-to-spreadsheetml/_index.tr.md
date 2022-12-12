@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla TABDELIMITED'i SPREADSHEETML'ye dönüştürün
-url: /tr/python-java/conversion/tabdelimited-to-spreadsheetml/
+
 description: Sekmeyle ayrılmış, e-tablo ml Python dönüşümü için örnek kod. Python uygulamasında toplu sekmeyle ayrılmış dosyalardan elektronik tablo ml'sine dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

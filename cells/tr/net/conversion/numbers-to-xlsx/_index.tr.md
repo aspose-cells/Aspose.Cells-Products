@@ -1,6 +1,6 @@
-﻿---
+---
 title: NUMBERS'ı C# aracılığıyla XLSX'e dönüştürün
-url: /tr/net/conversion/numbers-to-xlsx/
+
 description: Sayıları xlsx'e C# dönüştürmek için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu iş numarası dosyalarından xlsx'e dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

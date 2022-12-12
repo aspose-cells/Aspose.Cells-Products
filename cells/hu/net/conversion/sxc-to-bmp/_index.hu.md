@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SXC konvertálása BMP-vé a következőn keresztül: C#"
-url: /hu/net/conversion/sxc-to-bmp/
+
 description: Mintakód az sxc–bmp C# konverzióhoz. Használjon API példakódot kötegelt sxc fájlok bmp konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

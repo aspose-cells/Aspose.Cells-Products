@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLSX إلى TABDELIMITED عبر C#
-url: /ar/net/conversion/xlsx-to-tabdelimited/
+
 description: نموذج كود لتحويل xlsx إلى C# محدد بعلامات جدولة. استخدم API رمز المثال لملفات xlsx الدفعية لتحويل محدد بعلامات جدولة داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

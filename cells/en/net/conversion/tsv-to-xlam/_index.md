@@ -1,6 +1,6 @@
 ---
 title: Convert TSV to XLAM via C#
-url: /net/conversion/tsv-to-xlam/
+
 description: Convert TSV to XLAM format in C# code. Save TSV as XLAM using VB.NET, Asp.NET or any .NET based application.
 ---
 

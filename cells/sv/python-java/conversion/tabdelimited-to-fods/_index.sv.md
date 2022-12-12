@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera TABDELIMITED till FODS via Python
-url: /sv/python-java/conversion/tabdelimited-to-fods/
+
 description: Exempelkod för tabbavgränsad till fods Python-omvandling. Använd API exempelkod för batch-tabbavgränsade filer för att ge konvertering inom Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

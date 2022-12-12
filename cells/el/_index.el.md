@@ -1,7 +1,7 @@
-﻿---
+---
 title: Λύση μορφής αρχείου Excel
 weight: 7730
-url: /el/
+
 description: Δημιουργήστε εφαρμογές χειρισμού αρχείων Excel χρησιμοποιώντας High Code ή Low Code API ή No Code Apps για προβολή σύγκρισης επιθεώρησης ή μετατροπής αρχείων Excel.
 ---
 {{< blocks/products/pf/main-wrap-class >}}

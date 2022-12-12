@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل SPREADSHEETML إلى TABDELIMITED عبر Python
-url: /ar/python-java/conversion/spreadsheetml-to-tabdelimited/
+
 description: نموذج كود لجدول بيانات لتحويل Python محدد بعلامات جدولة. استخدم API رمز المثال لملفات جداول البيانات الدفعية للتحويل المحدود بعلامات جدولة داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

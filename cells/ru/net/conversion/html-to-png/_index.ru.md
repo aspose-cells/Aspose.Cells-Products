@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование HTML в PNG через C#
-url: /ru/net/conversion/html-to-png/
+
 description: Пример кода для преобразования html в png C#. Используйте пример кода API для пакетного преобразования файлов html в png в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Tạo Biểu đồ Hình tròn qua C#
-url: /vi/net/create-pie-chart/
+
 description: C# Mã mẫu để tạo biểu đồ Hình tròn cho Excel bằng .NET Thư viện. Sử dụng mã này để tạo biểu đồ Hình tròn cho MS Excel trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

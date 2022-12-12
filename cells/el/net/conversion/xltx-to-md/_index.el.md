@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή XLTX σε MD μέσω C#
-url: /el/net/conversion/xltx-to-md/
+
 description: Δείγμα κώδικα για μετατροπή xltx σε md C#. Χρησιμοποιήστε API παράδειγμα κώδικα για μαζική μετατροπή αρχείων xltx σε md εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

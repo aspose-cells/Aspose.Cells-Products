@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してSXCをXPSに変換する 
-url: /ja/java/conversion/sxc-to-xps/ 
+
 description: SXC形式からXPSファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のXPSにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

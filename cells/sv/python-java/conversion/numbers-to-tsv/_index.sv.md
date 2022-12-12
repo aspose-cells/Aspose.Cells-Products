@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera NUMBERS till TSV via Python
-url: /sv/python-java/conversion/numbers-to-tsv/
+
 description: Exempelkod för siffror till tsv Python-konvertering. Använd API exempelkod för batchnummerfiler till tsv-konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

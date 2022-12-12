@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja a HTML-t MD-vé a C++ alkalmazással 
-url: /hu/cpp/conversion/html-to-md/ 
+
 description: Minta C++ konverziós kód HTML dokumentumhoz MD formátumba. A programozók ezt a forráskódot használhatják kötegelt HTML-ből MD-vé konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

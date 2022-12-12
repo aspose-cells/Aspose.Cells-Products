@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TSV إلى MD عبر تطبيق C++ 
-url: /ar/cpp/conversion/tsv-to-md/ 
+
 description: نموذج C++ كود التحويل لمستند TSV إلى تنسيق MD. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل TSV إلى MD دفعة داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

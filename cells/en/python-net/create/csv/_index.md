@@ -1,6 +1,6 @@
 ---
 title: Create CSV Files via Python 
-url: /python-net/create-csv/ 
+
 description: Python Sample code for generating CSV documents. Use this code for creating CSV files within Python application.
 ---
 

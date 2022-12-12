@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to XLSB via Python
-url: /python-java/conversion/excel-to-xlsb/
+
 description: Convert EXCEL to XLSB format in Python code. Save EXCEL as XLSB using Python.
 ---
 

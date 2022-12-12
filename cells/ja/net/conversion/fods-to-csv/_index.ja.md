@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してFODSをCSVに変換する
-url: /ja/net/conversion/fods-to-csv/
+
 description: fodからcsvC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチfodファイルからcsvへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Konvertálja az XLT-t BMP-vé a következőn keresztül: Python"
-url: /hu/python-java/conversion/xlt-to-bmp/
+
 description: Mintakód az xlt–bmp Python konverzióhoz. Használjon API példakódot kötegelt xlt-fájlokhoz bmp-konverzióhoz a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

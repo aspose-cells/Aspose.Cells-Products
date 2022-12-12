@@ -1,6 +1,6 @@
-﻿---
+---
 title: دمج ملفات XLTM عبر C++ 
-url: /ar/cpp/merger/xltm/ 
+
 description: C++ مثال على رمز لدمج مستندات XLTM في C++ Runtime Environment لأنظمة Windows 32 بت و Windows 64 بت و Linux 64 بت.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

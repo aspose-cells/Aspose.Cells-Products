@@ -1,7 +1,7 @@
-﻿---
+---
 title: สร้างรายงานในไฟล์ XLS ผ่าน Java 
 weight: 1090
-url: /th/java/assembly/xls/ 
+
 description: Java ตัวอย่างโค้ดเพื่อสร้างรายงานรูปแบบ XLS บน Java Runtime Environment สำหรับแอปพลิเคชัน JSP/JSF และแอปพลิเคชันเดสก์ท็อป
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

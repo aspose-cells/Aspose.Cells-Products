@@ -1,6 +1,6 @@
 ---
 title: Convert XLSX to SPREADSHEETML via C++
-url: /cpp/conversion/xlsx-to-spreadsheetml/
+
 description: Convert XLSX to SPREADSHEETML format in C++ code. Save XLSX as SPREADSHEETML using C++.
 ---
 

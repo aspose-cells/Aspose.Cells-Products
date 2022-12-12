@@ -1,7 +1,7 @@
-﻿---
+---
 title: عرض تنسيقات ملف XLS عبر .NET 
 weight: 1260
-url: /ar/net/viewer/xls/ 
+
 description: C# شفرة المصدر لتحميل مستندات XLS وعرضها وعرضها على الأنظمة الأساسية .NET Framework أو .NET Core أو Mono أو Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

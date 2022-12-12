@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLTX إلى PDF عبر تطبيق C++ 
-url: /ar/cpp/conversion/xltx-to-pdf/ 
+
 description: نموذج C++ رمز تحويل لمستند XLTX إلى تنسيق PDF. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل XLTX إلى PDF دفعة داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

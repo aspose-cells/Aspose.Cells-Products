@@ -1,7 +1,7 @@
-﻿---
+---
 title: "TSV konvertálása EMF-re a következőn keresztül: Java "
 weight: 2530
-url: /hu/java/conversion/tsv-to-emf/ 
+
 description: Minta Java konverziós kód a TSV-formátumhoz EMF-fájllá. A programozók ezt a példakódot használhatják Excel- és OpenOffice-táblázatok exportálására EMF-be bármely web- vagy asztali Java-alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

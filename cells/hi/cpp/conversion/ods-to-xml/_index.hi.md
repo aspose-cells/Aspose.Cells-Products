@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++ एप्लिकेशन के माध्यम से ODS को XML में बदलें 
-url: /hi/cpp/conversion/ods-to-xml/ 
+
 description: ओडीएस दस्तावेज़ के लिए एक्सएमएल प्रारूप में नमूना C++ रूपांतरण कोड। प्रोग्रामर इस स्रोत कोड का उपयोग किसी भी C++ एप्लिकेशन में ODS से XML रूपांतरण के बैच के लिए कर सकते हैं।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

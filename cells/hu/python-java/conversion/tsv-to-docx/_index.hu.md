@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TSV konvertálása DOCX-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/tsv-to-docx/
+
 description: Mintakód a tsv–docx Python konverzióhoz. Használjon API példakódot kötegelt tsv-fájlokhoz a docx-konverzióhoz a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してFODSをTABDELIMITEDに変換します
-url: /ja/net/conversion/fods-to-tabdelimited/
+
 description: fodからtabdelimitedC#への変換のサンプルコード。バッチfodsファイルのAPIサンプルコードを使用して、VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でタブ区切りの変換を行います。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

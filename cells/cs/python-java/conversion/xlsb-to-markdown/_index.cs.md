@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLSB na MARKDOWN přes Python
-url: /cs/python-java/conversion/xlsb-to-markdown/
+
 description: Ukázkový kód pro konverzi xlsb na markdown Python. Použijte API ukázkový kód pro dávkové soubory xlsb ke konverzi markdown v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

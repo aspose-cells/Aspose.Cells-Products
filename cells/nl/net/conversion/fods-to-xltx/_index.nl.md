@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer FODS naar XLTX via C#
-url: /nl/net/conversion/fods-to-xltx/
+
 description: Voorbeeldcode voor conversie van fods naar xltx C#. Gebruik API voorbeeldcode voor batch-fods-bestanden naar xltx-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

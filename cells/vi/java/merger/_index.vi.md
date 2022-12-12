@@ -1,6 +1,6 @@
-﻿---
+---
 title: Hợp nhất các tệp Excel khác nhau thành một tệp duy nhất trong Java
-url: /vi/java/merger/
+
 description: Hợp nhất các tệp Excel bằng cách sử dụng Java thành nhiều trang tính hoặc một trang tính. Hợp nhất, kết hợp hoặc nối các tài liệu Excel sang PDF, Hình ảnh và HTML.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

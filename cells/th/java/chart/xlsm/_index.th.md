@@ -1,7 +1,7 @@
-﻿---
+---
 title: แผนภูมิเอกสาร XLSM ผ่าน Java 
 weight: 3020
-url: /th/java/chart/xlsm/ 
+
 description: Java โค้ดตัวอย่างสำหรับการวาดและแปลงแผนภูมิหรือไดอะแกรมในไฟล์ XLSM บน Java Runtime Environment สำหรับแอปพลิเคชัน JSP/JSF และแอปพลิเคชันเดสก์ท็อป
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

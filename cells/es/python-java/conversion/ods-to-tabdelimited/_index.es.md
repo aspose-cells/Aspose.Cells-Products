@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta ODS a TABDELIMITED a través de Python
-url: /es/python-java/conversion/ods-to-tabdelimited/
+
 description: Código de muestra para la conversión de Python delimitada por tabuladores. Utilice el código de ejemplo API para los archivos ods por lotes para la conversión delimitada por tabuladores dentro de la aplicación Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل XLTM إلى TSV عبر Java 
 weight: 9480
-url: /ar/java/conversion/xltm-to-tsv/ 
+
 description: نموذج Java كود التحويل لتنسيق XLTM إلى ملف TSV. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى TSV داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

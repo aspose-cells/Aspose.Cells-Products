@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#를 통해 XLSX를 XLS로 변환
-url: /ko/net/conversion/xlsx-to-xls/
+
 description: xlsx에서 xls C#로의 변환을 위한 샘플 코드입니다. VB.NET, Asp.NET 또는 모든 .NET 기반 애플리케이션 내에서 일괄 xlsx 파일을 xls로 변환하는 API 예제 코드를 사용합니다.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

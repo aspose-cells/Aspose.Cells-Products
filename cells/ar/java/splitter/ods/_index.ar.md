@@ -1,7 +1,7 @@
-﻿---
+---
 title: تقسيم ملفات ODS عبر Java 
 weight: 1950
-url: /ar/java/splitter/ods/ 
+
 description: Java نموذج التعليمات البرمجية لتقسيم مستندات ODS على Java Runtime Environment لتطبيق JSP / JSF وتطبيقات سطح المكتب.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Lås upp ODS-dokument via C++ 
 weight: 1190
-url: /sv/cpp/unlock/ods/ 
+
 description: C++ exempelkod för att låsa upp lösenordsskyddad ODS-fil i C++ Runtime Environment för Windows 32-bitars, Windows 64-bitars och Linux 64-bitars.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

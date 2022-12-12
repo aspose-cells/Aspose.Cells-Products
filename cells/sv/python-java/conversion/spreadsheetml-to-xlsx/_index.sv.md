@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera SPREADSHEETML till XLSX via Python
-url: /sv/python-java/conversion/spreadsheetml-to-xlsx/
+
 description: Exempelkod för konvertering från kalkylarkml till xlsx Python. Använd API-exempelkod för batch-kalkylarkml-filer till xlsx-konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Hasilkan Laporan dalam File XLSB melalui Java 
 weight: 3560
-url: /id/java/assembly/xlsb/ 
+
 description: Java contoh kode untuk membuat laporan format XLSB di Java Runtime Environment untuk Aplikasi JSP/JSF dan Aplikasi Desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

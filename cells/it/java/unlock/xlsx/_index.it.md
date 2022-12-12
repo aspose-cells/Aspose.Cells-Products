@@ -1,7 +1,7 @@
-﻿---
+---
 title: Sblocca il documento XLSX tramite Java 
 weight: 310
-url: /it/java/unlock/xlsx/ 
+
 description: Java codice di esempio per sbloccare il file XLSX protetto da password su Java Runtime Environment per applicazioni JSP/JSF e applicazioni desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

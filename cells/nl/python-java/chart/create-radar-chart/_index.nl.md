@@ -1,6 +1,6 @@
-﻿---
+---
 title: Maak radardiagrammen via Python
-url: /nl/python-java/create-radar-chart/
+
 description: Python Voorbeeldcode voor het maken van radardiagrammen naar Excel met Python Bibliotheek. Gebruik deze code voor het maken van een radardiagram naar MS Excel binnen een op Python gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

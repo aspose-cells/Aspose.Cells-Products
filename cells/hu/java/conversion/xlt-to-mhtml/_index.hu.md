@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLT konvertálása MHTML-re a következőn keresztül: Java "
 weight: 7390
-url: /hu/java/conversion/xlt-to-mhtml/ 
+
 description: Minta Java konverziós kód XLT formátumhoz MHTML fájlba. A programozók ezt a példakódot használhatják Excel- és OpenOffice-táblázatok exportálására MHTML-be bármely web- vagy asztali Java-alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

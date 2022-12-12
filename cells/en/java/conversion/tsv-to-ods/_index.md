@@ -1,6 +1,6 @@
 ---
 title: Convert TSV to ODS via Java 
-url: /java/conversion/tsv-to-ods/
+
 description: Convert TSV to ODS format in Java code. Save TSV as ODS using Java.
 ---
 

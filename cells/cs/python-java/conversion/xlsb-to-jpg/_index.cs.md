@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLSB na JPG přes Python
-url: /cs/python-java/conversion/xlsb-to-jpg/
+
 description: Ukázkový kód pro převod xlsb na jpg Python. Použijte API ukázkový kód pro dávkový převod souborů xlsb na jpg v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

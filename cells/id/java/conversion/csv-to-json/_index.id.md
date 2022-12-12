@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversi CSV ke JSON melalui Java 
 weight: 9040
-url: /id/java/conversion/csv-to-json/ 
+
 description: Contoh Java kode konversi untuk format CSV ke file JSON. Pemrogram dapat menggunakan kode contoh ini untuk mengekspor spreadsheet Excel & OpenOffice ke JSON dalam Aplikasi berbasis Java Web atau Desktop apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

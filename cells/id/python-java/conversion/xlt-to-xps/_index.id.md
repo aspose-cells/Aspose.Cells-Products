@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan XLT ke XPS melalui Python
-url: /id/python-java/conversion/xlt-to-xps/
+
 description: Contoh kode untuk konversi xlt ke xps Python. Gunakan API kode contoh untuk file batch xlt ke xps konversi dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

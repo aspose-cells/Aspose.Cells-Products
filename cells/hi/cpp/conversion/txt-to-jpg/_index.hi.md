@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++ एप्लिकेशन के द्वारा TXT को JPG में बदलें 
-url: /hi/cpp/conversion/txt-to-jpg/ 
+
 description: नमूना C++ TXT दस्तावेज़ के लिए JPG प्रारूप में रूपांतरण कोड। प्रोग्रामर इस स्रोत कोड का उपयोग किसी भी C++ एप्लिकेशन में TXT से JPG रूपांतरण के बैच के लिए कर सकते हैं।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

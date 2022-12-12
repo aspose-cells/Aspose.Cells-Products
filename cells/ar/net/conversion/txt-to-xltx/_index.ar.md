@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TXT إلى XLTX عبر C#
-url: /ar/net/conversion/txt-to-xltx/
+
 description: نموذج كود لتحويل TXT إلى xltx C#. استخدم API رمز المثال لملفات txt الدفعية لتحويل xltx داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

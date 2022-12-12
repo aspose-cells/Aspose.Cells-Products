@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to JPG via C#
-url: /net/conversion/mhtml-to-jpg/
+
 description: Convert MHTML to JPG format in C# code. Save MHTML as JPG using VB.NET, Asp.NET or any .NET based application.
 ---
 

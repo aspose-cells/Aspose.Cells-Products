@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل XLTM إلى DIF عبر Java 
 weight: 6620
-url: /ar/java/conversion/xltm-to-dif/ 
+
 description: نموذج Java رمز التحويل لتنسيق XLTM إلى ملف DIF. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى DIF داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

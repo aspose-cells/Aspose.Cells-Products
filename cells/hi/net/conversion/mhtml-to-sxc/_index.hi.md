@@ -1,6 +1,6 @@
-﻿---
+---
 title: MHTML को SXC में C# के माध्यम से कनवर्ट करें
-url: /hi/net/conversion/mhtml-to-sxc/
+
 description: mhtml से sxc C# रूपांतरण के लिए नमूना कोड। वीबी.NET, एएसपी.NET या किसी .NET आधारित एप्लिकेशन के भीतर बैच एमएचटीएमएल फाइलों के एसएक्ससी रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

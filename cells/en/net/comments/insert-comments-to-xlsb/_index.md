@@ -1,6 +1,6 @@
 ---
 title: Insert comments to Excel XLSB file via .NET
-url: /net/comments/insert-comments-to-xlsb/ 
+
 description: Insert comments to XLSB using C#. Use API example code to insert comments within .NET application.
 ---
 

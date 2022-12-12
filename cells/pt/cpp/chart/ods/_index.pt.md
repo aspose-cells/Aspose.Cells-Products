@@ -1,7 +1,7 @@
-﻿---
+---
 title: Gráfico de documentos ODS via C++ 
 weight: 3820
-url: /pt/cpp/chart/ods/ 
+
 description: C++ código de exemplo para desenhar e converter gráfico ou diagrama em arquivo ODS no C++ ambiente de tempo de execução para Windows de 32 bits, Windows de 64 bits e Linux de 64 bits.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

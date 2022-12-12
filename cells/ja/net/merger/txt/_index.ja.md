@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NETを介してTXTファイルをマージ 
 weight: 7350
-url: /ja/net/merger/txt/ 
+
 description: .NETフレームワーク、.NETコア、Mono、またはXamarinプラットフォームでTXTドキュメントを組み合わせるためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

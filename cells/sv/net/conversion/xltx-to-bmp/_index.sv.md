@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera XLTX till BMP via C#
-url: /sv/net/conversion/xltx-to-bmp/
+
 description: Exempelkod för konvertering av xltx till bmp C#. Använd API exempelkod för batch-xltx-filer för att bmp-konvertera inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

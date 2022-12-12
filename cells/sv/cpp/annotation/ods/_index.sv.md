@@ -1,7 +1,7 @@
-﻿---
+---
 title: Lägg till ODS-anteckning via C++ 
 weight: 8840
-url: /sv/cpp/annotation/ods/ 
+
 description: C++ exempelkod för att ta bort ODS-formatkommentarer i C++ Runtime Environment för Windows 32-bitars, Windows 64-bitars och Linux 64-bitars.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++アプリケーションを介してTABDELIMITEDをSVGに変換します 
-url: /ja/cpp/conversion/tabdelimited-to-svg/ 
+
 description: TABDELIMITEDドキュメントのSVG形式へのサンプルC++変換コード。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でTABDELIMITEDからSVGへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

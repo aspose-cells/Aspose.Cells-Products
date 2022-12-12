@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java aracılığıyla XLSB Dosyaları Meta Verilerini Düzenleyin veya Görüntüleyin 
 weight: 7290
-url: /tr/java/metadata/xlsb/ 
+
 description: JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Runtime Environment'da XLSB biçimi meta verilerini düzenlemek veya görüntülemek için Java örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

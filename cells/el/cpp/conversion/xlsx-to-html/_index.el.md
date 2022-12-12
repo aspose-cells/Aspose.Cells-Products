@@ -1,7 +1,7 @@
-﻿---
+---
 title: Μετατροπή XLSX σε HTML μέσω της εφαρμογής C++ 
 weight: 7780
-url: /el/cpp/conversion/xlsx-to-html/ 
+
 description: Δείγμα κώδικα μετατροπής C++ για έγγραφο XLSX σε μορφή HTML. Οι προγραμματιστές μπορούν να χρησιμοποιήσουν αυτόν τον πηγαίο κώδικα για ομαδική μετατροπή XLSX σε HTML σε οποιαδήποτε εφαρμογή C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل JSON إلى TIFF عبر Java 
 weight: 9840
-url: /ar/java/conversion/json-to-tiff/ 
+
 description: نموذج رمز تحويل Java لتنسيق JSON إلى ملف TIFF. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel و OpenOffice إلى TIFF داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

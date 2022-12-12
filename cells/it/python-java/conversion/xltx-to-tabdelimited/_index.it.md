@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converti XLTX in TABDELIMITED tramite Python
-url: /it/python-java/conversion/xltx-to-tabdelimited/
+
 description: Codice di esempio per la conversione da xltx a Python delimitata da tabulazioni. Usa API codice di esempio per file batch xltx in conversione delimitata da tabulazioni all'interno dell'applicazione Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

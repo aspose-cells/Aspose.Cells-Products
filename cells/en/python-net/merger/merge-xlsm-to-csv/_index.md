@@ -1,6 +1,6 @@
 ---
 title: Merge XLSM to CSV Files via Python 
-url: /python-net/merger/merge-xlsm-to-csv/ 
+
 description: Merge XLSM to CSV file in Python code. Combine XLSM to CSV file using Python.
 ---
 

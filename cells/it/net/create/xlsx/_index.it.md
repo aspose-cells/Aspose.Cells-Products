@@ -1,6 +1,6 @@
-﻿---
+---
 title: Crea file XLSX di MS Excel tramite C# 
-url: /it/net/create-xlsx/ 
+
 description: C# Codice di esempio per la generazione di documenti XLSX. Utilizzare questo codice per creare file XLSX di MS Excel all'interno di VB.NET, Asp.NET o qualsiasi applicazione basata su .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

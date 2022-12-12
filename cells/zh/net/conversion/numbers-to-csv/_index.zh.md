@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 C# 将 NUMBERS 转换为 CSV
-url: /zh/net/conversion/numbers-to-csv/
+
 description: 数字到 csv C# 转换的示例代码。使用 API 示例代码在 VB.NET、Asp.NET 或任何基于 .NET 的应用程序中将批号文件转换为 csv。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

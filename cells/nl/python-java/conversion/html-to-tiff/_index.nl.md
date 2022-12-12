@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer HTML naar TIFF via Python
-url: /nl/python-java/conversion/html-to-tiff/
+
 description: Voorbeeldcode voor conversie van html naar tiff Python. Gebruik API voorbeeldcode voor batch-html-bestanden naar tiff-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

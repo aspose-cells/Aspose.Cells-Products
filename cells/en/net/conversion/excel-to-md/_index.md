@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to MD via C#
-url: /net/conversion/excel-to-md/
+
 description: Convert EXCEL to MD format in C# code. Save EXCEL as MD using VB.NET, Asp.NET or any .NET based application.
 ---
 

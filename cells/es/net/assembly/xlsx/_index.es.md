@@ -1,7 +1,7 @@
-﻿---
+---
 title: Generar informes en archivos XLSX a través de .NET 
 weight: 6740
-url: /es/net/assembly/xlsx/ 
+
 description: C# código fuente para generar informes en formato XLSX en .NET Framework, .NET Core, Mono o Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

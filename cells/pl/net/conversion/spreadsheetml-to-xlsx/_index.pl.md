@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj SPREADSHEETML na XLSX przez C#
-url: /pl/net/conversion/spreadsheetml-to-xlsx/
+
 description: Przykładowy kod konwersji arkusz kalkulacyjnyml do xlsx C#. Użyj przykładowego kodu API dla plików arkusza kalkulacyjnego wsadowego do konwersji xlsx w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ uygulaması aracılığıyla MHTML'yi XLTM'ye dönüştürün 
 weight: 4310
-url: /tr/cpp/conversion/mhtml-to-xltm/ 
+
 description: MHTML belgesi için XLTM biçimine örnek C++ dönüştürme kodu. Programcılar, herhangi bir C++ Uygulamasında toplu MHTML'den XLTM'ye dönüştürme için bu kaynak kodunu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

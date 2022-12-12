@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan SPREADSHEETML ke XLSX melalui C#
-url: /id/net/conversion/spreadsheetml-to-xlsx/
+
 description: Contoh kode untuk spreadsheetml ke xlsx C# konversi. Gunakan API kode contoh untuk file batch spreadsheetml ke konversi xlsx dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

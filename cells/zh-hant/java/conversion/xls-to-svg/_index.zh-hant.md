@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通過 Java 將 XLS 轉換為 SVG 
 weight: 9510
-url: /zh-hant/java/conversion/xls-to-svg/ 
+
 description: XLS 格式到 SVG 文件的示例 Java 轉換代碼。程序員可以使用此示例代碼在任何基於 Web 或桌面 Java 的應用程序中將 Excel 和 OpenOffice 電子表格導出為 SVG。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést CSV na ODS prostřednictvím Python
-url: /cs/python-java/conversion/csv-to-ods/
+
 description: Ukázkový kód pro konverzi csv na ods Python. Použijte API ukázkový kód pro dávkový převod souborů csv na ods v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

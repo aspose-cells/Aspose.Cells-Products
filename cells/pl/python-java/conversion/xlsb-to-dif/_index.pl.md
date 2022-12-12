@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj XLSB na DIF przez Python
-url: /pl/python-java/conversion/xlsb-to-dif/
+
 description: Przykładowy kod konwersji xlsb do różnic Python. Użyj przykładowego kodu API dla plików wsadowych xlsb do konwersji dif w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

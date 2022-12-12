@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi XLT sang FODS qua Python
-url: /vi/python-java/conversion/xlt-to-fods/
+
 description: Mã mẫu cho chuyển đổi xlt thành fods Python. Sử dụng mã ví dụ API cho các tệp xlt hàng loạt để chuyển đổi fods trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

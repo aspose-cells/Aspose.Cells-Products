@@ -1,6 +1,6 @@
-﻿---
+---
 title: Excel-filkommentarer via C++
-url: /sv/cpp/annotation/
+
 description: Lägg till eller ta bort datakommentarer för Excel- och OpenOffice-kalkylblad med C++-biblioteket.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

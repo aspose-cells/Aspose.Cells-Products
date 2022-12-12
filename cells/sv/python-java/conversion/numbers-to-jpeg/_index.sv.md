@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera NUMBERS till JPEG via Python
-url: /sv/python-java/conversion/numbers-to-jpeg/
+
 description: Exempelkod för konvertering av tal till jpeg Python. Använd API exempelkod för batchnummerfiler till jpeg-konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

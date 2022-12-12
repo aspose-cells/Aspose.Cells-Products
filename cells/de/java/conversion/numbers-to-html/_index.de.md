@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie NUMBERS in HTML über Java 
-url: /de/java/conversion/numbers-to-html/ 
+
 description: Beispiel-Umwandlungscode Java für das NUMBERS-Format in eine HTML-Datei. Programmierer können diesen Beispielcode verwenden, um Excel- und OpenOffice-Tabellen in HTML innerhalb jeder Web- oder Desktop-Java-basierten Anwendung zu exportieren.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

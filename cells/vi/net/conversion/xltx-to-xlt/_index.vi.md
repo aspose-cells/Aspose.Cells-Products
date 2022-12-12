@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi XLTX sang XLT qua C#
-url: /vi/net/conversion/xltx-to-xlt/
+
 description: Mã mẫu cho chuyển đổi xltx sang xlt C#. Sử dụng API mã ví dụ cho hàng loạt tệp xltx sang chuyển đổi xlt trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование HTML в JPG через Python
-url: /ru/python-java/conversion/html-to-jpg/
+
 description: Пример кода для преобразования html в jpg Python. Используйте пример кода API для пакетного преобразования файлов html в jpg в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

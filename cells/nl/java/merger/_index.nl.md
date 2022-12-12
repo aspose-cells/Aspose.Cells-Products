@@ -1,6 +1,6 @@
-﻿---
+---
 title: Voeg verschillende Excel-bestanden samen tot één bestand in Java
-url: /nl/java/merger/
+
 description: Voeg Excel-bestanden samen met Java in meerdere bladen of op één blad. Voeg Excel-documenten samen, combineer of voeg ze samen tot PDF, afbeeldingen en HTML.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

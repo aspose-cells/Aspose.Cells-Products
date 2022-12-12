@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to XLSM via C++
-url: /cpp/conversion/numbers-to-xlsm/
+
 description: Convert NUMBERS to XLSM format in C++ code. Save NUMBERS as XLSM using C++.
 ---
 

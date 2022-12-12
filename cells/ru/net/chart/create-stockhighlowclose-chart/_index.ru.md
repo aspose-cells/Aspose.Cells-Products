@@ -1,6 +1,6 @@
-﻿---
+---
 title: Создавайте графики акций High-Low-Close с помощью C#
-url: /ru/net/create-stockhighlowclose-chart/
+
 description: C# Пример кода для создания диаграмм High-Low-Close Stock в Excel с использованием библиотеки .NET. Используйте этот код для создания диаграммы High-Low-Close Stock для MS Excel в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

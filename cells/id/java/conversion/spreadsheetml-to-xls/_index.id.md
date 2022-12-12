@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan SPREADSHEETML ke XLS melalui Java 
-url: /id/java/conversion/spreadsheetml-to-xls/ 
+
 description: Contoh Java kode konversi untuk format SPREADSHEETML ke file XLS. Pemrogram dapat menggunakan kode contoh ini untuk mengekspor spreadsheet Excel & OpenOffice ke XLS dalam Aplikasi berbasis Web atau Desktop Java apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

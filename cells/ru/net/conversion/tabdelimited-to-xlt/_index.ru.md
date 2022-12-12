@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование TABDELIMITED в XLT через C#
-url: /ru/net/conversion/tabdelimited-to-xlt/
+
 description: Пример кода для преобразования tabdelimited в xlt C#. Используйте пример кода API для пакетного преобразования файлов с разделителями табуляции в xlt в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

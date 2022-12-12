@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj ODS na TABDELIMITED przez Python
-url: /pl/python-java/conversion/ods-to-tabdelimited/
+
 description: Przykładowy kod konwersji ods do rozdzielanych tabulatorami Python. Użyj przykładowego kodu API dla wsadowych plików ofert do konwersji rozdzielanej tabulatorami w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

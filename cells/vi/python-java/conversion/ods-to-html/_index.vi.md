@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi ODS sang HTML qua Python
-url: /vi/python-java/conversion/ods-to-html/
+
 description: Mã mẫu cho chuyển đổi ods sang html Python. Sử dụng mã mẫu API cho các tệp ods hàng loạt để chuyển đổi html trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

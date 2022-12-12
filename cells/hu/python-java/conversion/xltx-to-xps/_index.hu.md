@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLTX konvertálása XPS-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/xltx-to-xps/
+
 description: Mintakód az xltx–xps Python konverzióhoz. Használjon API példakódot a kötegelt xltx fájlok xps konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

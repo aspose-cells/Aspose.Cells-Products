@@ -1,7 +1,7 @@
-﻿---
+---
 title: แก้ไขหรือดูข้อมูลเมตาของไฟล์ XLS ผ่าน Java 
 weight: 730
-url: /th/java/metadata/xls/ 
+
 description: Java ตัวอย่างโค้ดเพื่อแก้ไขหรือดูข้อมูลเมตารูปแบบ XLS บน Java Runtime Environment สำหรับแอปพลิเคชัน JSP/JSF และแอปพลิเคชันเดสก์ท็อป
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

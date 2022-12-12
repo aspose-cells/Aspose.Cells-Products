@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java aracılığıyla XLSB belgesinden metin ve resim ayıklayın 
 weight: 440
-url: /tr/java/parser/xlsb/ 
+
 description: JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Runtime Environment'daki XLSB dosyasından metin ve resimleri çıkarmak için Java örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

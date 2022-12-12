@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してODSをMDに変換する 
-url: /ja/java/conversion/ods-to-md/ 
+
 description: ODS形式からMDファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のMDにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

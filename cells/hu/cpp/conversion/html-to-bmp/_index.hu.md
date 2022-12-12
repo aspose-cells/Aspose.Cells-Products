@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertálja a HTML-t BMP-vé a(z) C++ alkalmazással 
 weight: 9710
-url: /hu/cpp/conversion/html-to-bmp/ 
+
 description: Minta C++ konverziós kód HTML-dokumentumhoz BMP formátumba. A programozók ezt a forráskódot használhatják kötegelt HTML-ből BMP-vé konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

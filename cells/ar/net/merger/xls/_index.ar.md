@@ -1,7 +1,7 @@
-﻿---
+---
 title: دمج ملفات XLS عبر .NET 
 weight: 3000
-url: /ar/net/merger/xls/ 
+
 description: C# شفرة المصدر لدمج مستندات XLS في .NET Framework أو .NET Core أو Mono أو أنظمة Xamarin الأساسية.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

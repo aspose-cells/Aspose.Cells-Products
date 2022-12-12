@@ -1,7 +1,7 @@
-﻿---
+---
 title: Jelentések exportálása Excel XLS XLSX PDF ODS-be a JasperReportsban és a JasperServerben 
 weight: 9460
-url: /hu/jasperreports/ 
+
 description: Exportálhatja a Jasper Reports és a JasperServer jelentéseket Excel XLS XLSX PDF ODS TXT és SpreadsheetML formátumban. Jelentéseket is nyomtathat Excel-táblázatként
 ---
 {{< blocks/products/pf/main-wrap-class >}}

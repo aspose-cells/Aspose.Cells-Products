@@ -1,7 +1,7 @@
-﻿---
+---
 title: ODS konvertálása JPEG formátumba a C++ alkalmazáson keresztül 
 weight: 7230
-url: /hu/cpp/conversion/ods-to-jpeg/ 
+
 description: Minta C++ konverziós kód az ODS dokumentumhoz JPEG formátumba. A programozók ezt a forráskódot használhatják az ODS-ből JPEG-be való kötegelt konvertáláshoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

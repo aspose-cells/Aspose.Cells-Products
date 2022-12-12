@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ aracılığıyla XLS Excel Dosya Açıklaması ekleyin 
 weight: 10040
-url: /tr/cpp/annotation/xls/ 
+
 description: Windows 32 bit, Windows 64 bit ve Linux 64 bit için C++ Runtime Environment'da XLS biçimi ek açıklamalarını eklemek ve silmek için C++ örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertieren Sie XLSM in SVG über Java 
 weight: 840
-url: /de/java/conversion/xlsm-to-svg/ 
+
 description: Beispiel-Umwandlungscode Java für das XLSM-Format in eine SVG-Datei. Programmierer können diesen Beispielcode verwenden, um Excel- und OpenOffice-Tabellen in SVG innerhalb jeder Web- oder Desktop-Java-basierten Anwendung zu exportieren.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Добавить строку в диаграмму через C# 
-url: /ru/net/add-line-in-chart/ 
+
 description: C# Пример кода для добавления строки в диаграмму в Excel с помощью библиотеки .NET. Используйте этот код для добавления строки в диаграмму в MS Excel в рамках VB.NET, Asp.NET или любого приложения на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

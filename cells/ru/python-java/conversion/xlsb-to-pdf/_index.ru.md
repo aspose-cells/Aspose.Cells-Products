@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLSB в PDF через Python
-url: /ru/python-java/conversion/xlsb-to-pdf/
+
 description: Пример кода для преобразования xlsb в pdf Python. Используйте пример кода API для пакетного преобразования файлов xlsb в pdf в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

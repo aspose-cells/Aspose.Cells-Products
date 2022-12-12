@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla XLT'yi SVG'ye dönüştürün
-url: /tr/net/conversion/xlt-to-svg/
+
 description: xlt'den svg'ye C# dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu xlt dosyalarından svg'ye dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

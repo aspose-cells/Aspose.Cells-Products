@@ -1,6 +1,6 @@
 ---
 title: Convert XLSM to JPG via C++
-url: /cpp/conversion/xlsm-to-jpg/
+
 description: Convert XLSM to JPG format in C++ code. Save XLSM as JPG using C++.
 ---
 

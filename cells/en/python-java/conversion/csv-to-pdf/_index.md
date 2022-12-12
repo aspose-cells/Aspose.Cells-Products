@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to PDF via Python
-url: /python-java/conversion/csv-to-pdf/
+
 description: Convert CSV to PDF format in Python code. Save CSV as PDF using Python.
 ---
 

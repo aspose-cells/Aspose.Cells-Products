@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NETを介して開かずにXLSBドキュメントを検索する 
 weight: 8880
-url: /ja/net/search/xlsb/ 
+
 description: .NETフレームワーク、.NETコア、Mono、またはXamarinプラットフォーム上のXLSBファイル内のパターンを持つ単語を検索するためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

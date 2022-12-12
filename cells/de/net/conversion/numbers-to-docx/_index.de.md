@@ -1,6 +1,6 @@
-﻿---
+---
 title: NUMBERS über C# in DOCX umwandeln
-url: /de/net/conversion/numbers-to-docx/
+
 description: Beispielcode für die Umwandlung von Zahlen in docx C#. Verwenden Sie API Beispielcode für die Konvertierung von Stapelnummerndateien in docx innerhalb von VB.NET, Asp.NET oder einer beliebigen .NET-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

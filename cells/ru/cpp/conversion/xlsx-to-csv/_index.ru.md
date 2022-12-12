@@ -1,7 +1,7 @@
-﻿---
+---
 title: Преобразование XLSX в CSV с помощью приложения C++ 
 weight: 6170
-url: /ru/cpp/conversion/xlsx-to-csv/ 
+
 description: Пример кода преобразования C++ для документа XLSX в формат CSV. Программисты могут использовать этот исходный код для пакетного преобразования XLSX в CSV в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή XLTX σε JPEG μέσω C#
-url: /el/net/conversion/xltx-to-jpeg/
+
 description: Δείγμα κώδικα για μετατροπή xltx σε jpeg C#. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία xltx για μετατροπή jpeg εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

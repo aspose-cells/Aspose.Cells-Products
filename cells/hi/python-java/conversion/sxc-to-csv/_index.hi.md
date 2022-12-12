@@ -1,6 +1,6 @@
-﻿---
+---
 title: SXC को CSV में Python के माध्यम से कनवर्ट करें
-url: /hi/python-java/conversion/sxc-to-csv/
+
 description: sxc से csv Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर csv रूपांतरण में बैच sxc फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

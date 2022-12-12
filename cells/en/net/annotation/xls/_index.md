@@ -1,7 +1,7 @@
 ---
 title: Remove XLS Annotation via .NET 
 weight: 9270
-url: /net/annotation/xls/ 
+
 description: C# source code to add and delete XLS format annotations on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

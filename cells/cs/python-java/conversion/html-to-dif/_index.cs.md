@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést HTML na DIF prostřednictvím Python
-url: /cs/python-java/conversion/html-to-dif/
+
 description: Ukázkový kód pro konverzi html na rozdíl Python. Použijte API ukázkový kód pro dávkové html soubory pro převod převodu v Python aplikaci.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

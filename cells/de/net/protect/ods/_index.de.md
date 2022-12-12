@@ -1,7 +1,7 @@
-﻿---
+---
 title: ODS-Dokument über .NET schützen und sperren 
 weight: 5580
-url: /de/net/protect/ods/ 
+
 description: C#-Quellcode zum Sperren der ODS-Datei mit Kennwort auf .NET Framework-, .NET Core-, Mono- oder Xamarin-Plattformen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

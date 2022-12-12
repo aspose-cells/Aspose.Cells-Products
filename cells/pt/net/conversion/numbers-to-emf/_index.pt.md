@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter NUMBERS para EMF via C#
-url: /pt/net/conversion/numbers-to-emf/
+
 description: Código de amostra para conversão de números para emf C#. Use API código de exemplo para arquivos de números de lote para conversão emf em VB.NET, Asp.NET ou qualquer aplicativo baseado em .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

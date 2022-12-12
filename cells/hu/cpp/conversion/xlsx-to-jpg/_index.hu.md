@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLSX-et JPG-be a(z) C++ alkalmazással 
-url: /hu/cpp/conversion/xlsx-to-jpg/ 
+
 description: Minta C++ konverziós kód XLSX dokumentumhoz JPG formátumba. A programozók ezt a forráskódot használhatják kötegelt XLSX-ből JPG-be konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

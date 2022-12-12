@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi NUMBER ke CSV melalui Python
-url: /id/python-java/conversion/numbers-to-csv/
+
 description: Contoh kode untuk angka ke csv Python konversi. Gunakan API kode contoh untuk file nomor batch ke konversi csv dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

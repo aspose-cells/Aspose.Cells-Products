@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してTABDELIMITEDをTSVに変換します 
-url: /ja/java/conversion/tabdelimited-to-tsv/ 
+
 description: TABDELIMITED形式のTSVファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のTSVにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést XLSB na JPEG přes Java 
 weight: 8810
-url: /cs/java/conversion/xlsb-to-jpeg/ 
+
 description: Ukázkový konverzní kód Java pro formát XLSB na soubor JPEG. Programátoři mohou tento příklad kódu použít k exportu tabulek Excelu a OpenOffice do formátu JPEG v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

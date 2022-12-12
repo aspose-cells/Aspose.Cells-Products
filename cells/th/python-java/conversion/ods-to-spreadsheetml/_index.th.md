@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง ODS เป็น SPREADSHEETML ผ่าน Python
-url: /th/python-java/conversion/ods-to-spreadsheetml/
+
 description: โค้ดตัวอย่างสำหรับการแปลง ods เป็น spreadsheetml Python ใช้โค้ดตัวอย่าง API สำหรับไฟล์ batch ods เป็นการแปลงสเปรดชีตml ภายในแอปพลิเคชัน Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

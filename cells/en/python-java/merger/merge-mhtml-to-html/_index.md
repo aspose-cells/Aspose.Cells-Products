@@ -1,6 +1,6 @@
 ---
 title: Merge MHTML to HTML Files via Python 
-url: /python-java/merger/merge-mhtml-to-html/ 
+
 description: Merge MHTML to HTML file in Python code. Combine MHTML to HTML file using Python.
 ---
 

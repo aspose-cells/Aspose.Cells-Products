@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TABDELIMITED إلى PNG عبر Python
-url: /ar/python-java/conversion/tabdelimited-to-png/
+
 description: نموذج التعليمات البرمجية لجدولة محدودة لتحويل png Python. استخدم API رمز المثال للملفات المحددة بعلامات جدولة لتحويل الملفات إلى png داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

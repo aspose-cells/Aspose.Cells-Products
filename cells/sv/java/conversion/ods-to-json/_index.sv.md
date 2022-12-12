@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertera ODS till JSON via Java 
 weight: 4670
-url: /sv/java/conversion/ods-to-json/ 
+
 description: Exempel Java-konverteringskod för ODS-format till JSON-fil. Programmerare kan använda den här exempelkoden för att exportera Excel- och OpenOffice-kalkylblad till JSON inom alla webb- eller skrivbordsbaserade Java-applikationer.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

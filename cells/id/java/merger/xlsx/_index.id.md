@@ -1,7 +1,7 @@
-﻿---
+---
 title: Gabungkan File XLSX melalui Java 
 weight: 8930
-url: /id/java/merger/xlsx/ 
+
 description: Java kode contoh untuk menggabungkan dokumen XLSX pada Java Lingkungan Waktu Proses untuk Aplikasi JSP/JSF dan Aplikasi Desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

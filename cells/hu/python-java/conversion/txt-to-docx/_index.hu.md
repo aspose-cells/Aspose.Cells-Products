@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TXT konvertálása DOCX-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/txt-to-docx/
+
 description: Mintakód a txt-ből docx-be Python konverzióhoz. Használjon API példakódot kötegelt txt fájlok docx konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

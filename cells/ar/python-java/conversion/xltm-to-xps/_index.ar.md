@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLTM إلى XPS عبر Python
-url: /ar/python-java/conversion/xltm-to-xps/
+
 description: نموذج كود للتحويل من xltm إلى xps Python. استخدم API رمز المثال لملفات xltm الدفعية لتحويل xps داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

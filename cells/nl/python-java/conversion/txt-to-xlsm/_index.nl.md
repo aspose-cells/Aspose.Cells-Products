@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer TXT naar XLSM via Python
-url: /nl/python-java/conversion/txt-to-xlsm/
+
 description: Voorbeeldcode voor conversie van txt naar xlsm Python. Gebruik API voorbeeldcode voor batch txt-bestanden naar xlsm-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

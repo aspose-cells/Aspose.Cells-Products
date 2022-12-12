@@ -1,6 +1,6 @@
-﻿---
+---
 title: "CSV-fájlok létrehozása a következőn keresztül: Python "
-url: /hu/python-java/create-csv/ 
+
 description: Python Mintakód CSV-dokumentumok generálásához. Ezzel a kóddal hozhat létre CSV-fájlokat a(z) Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

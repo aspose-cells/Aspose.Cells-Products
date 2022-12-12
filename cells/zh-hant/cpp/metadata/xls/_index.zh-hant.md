@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通過 C++ 編輯或查看 XLS 文檔元數據 
 weight: 2150
-url: /zh-hant/cpp/metadata/xls/ 
+
 description: C++ 在 Windows 32 位、Windows 64 位和 Linux 64 位的 C++ 運行時環境上編輯或查看 XLS 文件元數據的示例代碼。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

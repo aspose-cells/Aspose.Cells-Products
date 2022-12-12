@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to XLAM via Python
-url: /python-java/conversion/ods-to-xlam/
+
 description: Convert ODS to XLAM format in Python code. Save ODS as XLAM using Python.
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Générer des rapports dans des fichiers XLSB via Java 
 weight: 3560
-url: /fr/java/assembly/xlsb/ 
+
 description: Java exemple de code pour créer des rapports au format XLSB sur Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

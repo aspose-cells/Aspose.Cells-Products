@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование EXCEL в HTML через Python
-url: /ru/python-java/conversion/excel-to-html/
+
 description: Пример кода для преобразования Excel в HTML Python. Используйте пример кода API для пакетного преобразования файлов Excel в html в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

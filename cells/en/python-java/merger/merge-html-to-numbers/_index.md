@@ -1,6 +1,6 @@
 ---
 title: Merge HTML to NUMBERS Files via Python 
-url: /python-java/merger/merge-html-to-numbers/ 
+
 description: Merge HTML to NUMBERS file in Python code. Combine HTML to NUMBERS file using Python.
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLSB-dokumentum feloldása a következőn keresztül: Java "
 weight: 5860
-url: /hu/java/unlock/xlsb/ 
+
 description: Java mintakód a jelszóval védett XLSB-fájl feloldásához a Java Futókörnyezetben JSP/JSF alkalmazásokhoz és asztali alkalmazásokhoz.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

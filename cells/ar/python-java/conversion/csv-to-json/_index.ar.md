@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل CSV إلى JSON عبر Python
-url: /ar/python-java/conversion/csv-to-json/
+
 description: نموذج رمز لتحويل csv إلى json Python. استخدم API رمز المثال لملفات csv المجمعة لتحويل json داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Generieren Sie Excel-Dateien über C#
-url: /de/net/assembly/
+
 description: Generieren Sie Microsoft Excel-Tabellen aus einem Vorlagenblatt mit C#-Code
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

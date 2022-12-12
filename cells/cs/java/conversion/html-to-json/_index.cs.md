@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést HTML na JSON prostřednictvím Java 
 weight: 9560
-url: /cs/java/conversion/html-to-json/ 
+
 description: Ukázkový konverzní kód Java pro formát HTML na soubor JSON. Programátoři mohou tento příklad kódu použít k exportu tabulek Excelu a OpenOffice do formátu JSON v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NETを介して開かずにTSVドキュメントを検索する 
 weight: 2810
-url: /ja/net/search/tsv/ 
+
 description: .NETフレームワーク、.NETコア、Mono、またはXamarinプラットフォーム上のTSVファイル内のパターンを持つ単語を検索するためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

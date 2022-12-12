@@ -1,7 +1,7 @@
-﻿---
+---
 title: แปลง TSV เป็น ODS ผ่าน C++ แอปพลิเคชัน 
 weight: 1810
-url: /th/cpp/conversion/tsv-to-ods/ 
+
 description: ตัวอย่างรหัสการแปลง C++ สำหรับเอกสาร TSV เป็นรูปแบบ ODS โปรแกรมเมอร์สามารถใช้ซอร์สโค้ดนี้สำหรับการแปลง TSV เป็น ODS แบบแบตช์ภายในแอปพลิเคชัน C++ ใดๆ
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

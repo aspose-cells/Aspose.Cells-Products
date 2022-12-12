@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převeďte XLSB na TIFF pomocí aplikace C++ 
 weight: 8720
-url: /cs/cpp/conversion/xlsb-to-tiff/ 
+
 description: Ukázka převodního kódu C++ pro dokument XLSB na formát TIFF. Programátoři mohou použít tento zdrojový kód pro dávkovou konverzi XLSB na TIFF v jakékoli C++ aplikaci.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

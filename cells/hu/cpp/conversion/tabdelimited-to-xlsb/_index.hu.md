@@ -1,6 +1,6 @@
-﻿---
+---
 title: A TABDELIMITED konvertálása XLSB-re a(z) C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/tabdelimited-to-xlsb/ 
+
 description: Minta C++ konverziós kód a TABDELIMITED dokumentumhoz XLSB formátumba. A programozók ezt a forráskódot használhatják kötegelt TABDELIMITED-XLSB-konverzióhoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

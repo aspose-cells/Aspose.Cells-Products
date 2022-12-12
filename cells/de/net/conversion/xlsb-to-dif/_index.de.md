@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie XLSB in DIF über C#
-url: /de/net/conversion/xlsb-to-dif/
+
 description: Beispielcode für xlsb, um die C#-Konvertierung zu unterscheiden. Verwenden Sie API Beispielcode für Batch-XLSB-Dateien, um die Konvertierung innerhalb von VB.NET, Asp.NET oder einer beliebigen .NET-basierten Anwendung zu unterscheiden.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

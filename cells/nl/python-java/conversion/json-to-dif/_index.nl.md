@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer JSON naar DIF via Python
-url: /nl/python-java/conversion/json-to-dif/
+
 description: Voorbeeldcode voor json naar dif Python-conversie. Gebruik API voorbeeldcode voor batch-json-bestanden voor dif-conversie binnen Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

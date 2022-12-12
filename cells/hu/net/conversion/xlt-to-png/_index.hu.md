@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLT konvertálása PNG-re a következőn keresztül: C#"
-url: /hu/net/conversion/xlt-to-png/
+
 description: Mintakód az xlt png C# átalakításhoz. Használjon API példakódot kötegelt xlt fájlok png konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 Python 将 SPREADSHEETML 转换为 HTML
-url: /zh/python-java/conversion/spreadsheetml-to-html/
+
 description: 将电子表格ml 转换为 html Python 的示例代码。在 Python 应用程序中使用 API 示例代码将电子表格文件批量转换为 html。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

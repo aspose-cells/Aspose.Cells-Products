@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل MHTML إلى TABDELIMITED عبر C#
-url: /ar/net/conversion/mhtml-to-tabdelimited/
+
 description: نموذج رمز للتحويل من mhtml إلى الجدولة C# المحدود. استخدم API رمز المثال لملفات mhtml الدفعية للتحويل المحدود بعلامات جدولة داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

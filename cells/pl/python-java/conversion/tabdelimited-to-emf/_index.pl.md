@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj TABDELIMITED na EMF przez Python
-url: /pl/python-java/conversion/tabdelimited-to-emf/
+
 description: Przykładowy kod dla konwersji rozdzielanej tabulatorami na emf Python. Użyj przykładowego kodu API dla plików wsadowych rozdzielanych tabulatorami do konwersji emf w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

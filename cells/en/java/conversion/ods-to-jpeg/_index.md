@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to JPEG via Java 
-url: /java/conversion/ods-to-jpeg/
+
 description: Convert ODS to JPEG format in Java code. Save ODS as JPEG using Java.
 ---
 

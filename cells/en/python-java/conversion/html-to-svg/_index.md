@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to SVG via Python
-url: /python-java/conversion/html-to-svg/
+
 description: Convert HTML to SVG format in Python code. Save HTML as SVG using Python.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Convert XLSM to XPS via Java 
-url: /java/conversion/xlsm-to-xps/
+
 description: Convert XLSM to XPS format in Java code. Save XLSM as XPS using Java.
 ---
 

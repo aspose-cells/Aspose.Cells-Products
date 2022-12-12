@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLSM إلى EMF عبر تطبيق C++ 
-url: /ar/cpp/conversion/xlsm-to-emf/ 
+
 description: نموذج رمز تحويل C++ لمستند XLSM إلى تنسيق EMF. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل XLSM إلى EMF في أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

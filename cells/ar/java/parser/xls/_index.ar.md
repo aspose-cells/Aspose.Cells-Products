@@ -1,7 +1,7 @@
-﻿---
+---
 title: استخراج النص والصور من مستند XLS عبر Java 
 weight: 3700
-url: /ar/java/parser/xls/ 
+
 description: Java نموذج كود لاستخراج نص وصور من ملف XLS في Java Runtime Environment لتطبيق JSP / JSF وتطبيقات سطح المكتب.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

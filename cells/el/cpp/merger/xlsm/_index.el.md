@@ -1,6 +1,6 @@
-﻿---
+---
 title: Συγχώνευση αρχείων XLSM μέσω C++ 
-url: /el/cpp/merger/xlsm/ 
+
 description: C++ παράδειγμα κώδικα για συνδυασμό εγγράφων XLSM σε C++ Runtime Environment για Windows 32 bit, Windows 64 bit και Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

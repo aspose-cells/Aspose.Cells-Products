@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SPREADSHEETML konvertálása SXC-re a következőn keresztül: Java "
-url: /hu/java/conversion/spreadsheetml-to-sxc/ 
+
 description: Minta Java konverziós kód a SPREADSHEETML formátumhoz SXC fájllá. A programozók ezt a példakódot használhatják Excel- és OpenOffice-táblázatok exportálására SXC-be bármely web- vagy asztali Java-alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

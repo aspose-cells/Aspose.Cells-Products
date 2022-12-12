@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLTX na SVG přes C#
-url: /cs/net/conversion/xltx-to-svg/
+
 description: Ukázkový kód pro převod xltx na svg C#. Použijte API ukázkový kód pro dávkový převod souborů xltx na svg v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

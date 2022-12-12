@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to HTML via C++
-url: /cpp/conversion/fods-to-html/
+
 description: Convert FODS to HTML format in C++ code. Save FODS as HTML using C++.
 ---
 

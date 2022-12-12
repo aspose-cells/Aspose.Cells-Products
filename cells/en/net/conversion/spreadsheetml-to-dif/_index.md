@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to DIF via C#
-url: /net/conversion/spreadsheetml-to-dif/
+
 description: Convert SPREADSHEETML to DIF format in C# code. Save SPREADSHEETML as DIF using VB.NET, Asp.NET or any .NET based application.
 ---
 

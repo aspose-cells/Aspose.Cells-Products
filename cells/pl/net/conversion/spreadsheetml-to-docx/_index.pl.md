@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj SPREADSHEETML na DOCX przez C#
-url: /pl/net/conversion/spreadsheetml-to-docx/
+
 description: Przykładowy kod konwersji arkusz kalkulacyjnyml do docx C#. Użyj przykładowego kodu API dla wsadowych plików arkusza kalkulacyjnego w celu konwersji docx w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

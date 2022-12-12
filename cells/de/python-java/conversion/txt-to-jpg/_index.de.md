@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie TXT in JPG über Python
-url: /de/python-java/conversion/txt-to-jpg/
+
 description: Beispielcode für die Umwandlung von txt in jpg Python. Verwenden Sie API Beispielcode für die Batch-Konvertierung von TXT-Dateien in JPG innerhalb der Anwendung Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

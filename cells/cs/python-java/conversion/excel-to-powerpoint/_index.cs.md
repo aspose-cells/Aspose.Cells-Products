@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést EXCEL na POWERPOINT přes Python
-url: /cs/python-java/conversion/excel-to-powerpoint/
+
 description: Ukázkový kód pro převod Excel na powerpoint Python. Použijte API ukázkový kód pro dávkový převod souborů Excel na powerpoint v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

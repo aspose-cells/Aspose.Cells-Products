@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLS konvertálása TAB-raDELIMITED a következőn keresztül: C#"
-url: /hu/net/conversion/xls-to-tabdelimited/
+
 description: Mintakód az xls-ből tabulátorral tagolt C# konverzióhoz. Használjon API példakódot kötegelt xls fájlokhoz a tabulátorral tagolt konverzióhoz VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

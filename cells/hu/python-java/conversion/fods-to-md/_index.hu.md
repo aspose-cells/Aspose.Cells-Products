@@ -1,6 +1,6 @@
-﻿---
+---
 title: "FODS konvertálása MD-vé a következőn keresztül: Python"
-url: /hu/python-java/conversion/fods-to-md/
+
 description: Mintakód a fod to md Python konverzióhoz. Használjon API példakódot a fods fájlok kötegelt md konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

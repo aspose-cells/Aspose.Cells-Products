@@ -1,6 +1,6 @@
-﻿---
+---
 title: Mesclar diferentes arquivos do Excel em um único em Java
-url: /pt/java/merger/
+
 description: Mescle arquivos do Excel usando Java em várias planilhas ou em uma única planilha. Mescle, combine ou concatene documentos do Excel em PDF, Imagens e HTML também.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

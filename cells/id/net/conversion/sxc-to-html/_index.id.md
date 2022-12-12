@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan SXC ke HTML melalui C#
-url: /id/net/conversion/sxc-to-html/
+
 description: Contoh kode untuk konversi sxc ke html C#. Gunakan API kode contoh untuk file batch sxc ke konversi html dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

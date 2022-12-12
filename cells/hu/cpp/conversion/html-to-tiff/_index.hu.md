@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertálja a HTML-t TIFF-re a(z) C++ alkalmazással 
 weight: 8480
-url: /hu/cpp/conversion/html-to-tiff/ 
+
 description: Minta C++ konverziós kód HTML-dokumentumhoz TIFF formátumba. A programozók ezt a forráskódot használhatják kötegelt HTML-ből TIFF-be konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: ค้นหาและแทนที่ข้อความในเอกสาร XLS ผ่าน Java 
 weight: 7900
-url: /th/java/redaction/xls/ 
+
 description: Java โค้ดตัวอย่างเพื่อแก้ไขข้อมูลที่ละเอียดอ่อนในไฟล์ XLS บน Java Runtime Environment สำหรับแอปพลิเคชัน JSP/JSF และแอปพลิเคชันเดสก์ท็อป
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してXLTXをSPREADSHEETMLに変換します
-url: /ja/net/conversion/xltx-to-spreadsheetml/
+
 description: xltxからspreadplacemlC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチxltxファイルからspreadsheetmlへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

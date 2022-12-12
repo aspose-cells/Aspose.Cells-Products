@@ -1,6 +1,6 @@
 ---
 title: Merge CSV to XLS Files via Java 
-url: /java/merger/merge-csv-to-xls/ 
+
 description: Merge CSV to XLS file in Java code. Combine CSV to XLS file using Java based desktop or web application.
 ---
 

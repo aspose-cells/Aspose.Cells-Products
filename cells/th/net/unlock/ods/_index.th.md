@@ -1,7 +1,7 @@
-﻿---
+---
 title: ปลดล็อกเอกสาร ODS ผ่าน .NET 
 weight: 3110
-url: /th/net/unlock/ods/ 
+
 description: C# ซอร์สโค้ดเพื่อปลดล็อกไฟล์ ODS ที่ป้องกันด้วยรหัสผ่านบน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

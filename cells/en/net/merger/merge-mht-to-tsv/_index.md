@@ -1,6 +1,6 @@
 ---
 title: Merge MHT to TSV Files via C# 
-url: /net/merger/merge-mht-to-tsv/ 
+
 description: Merge MHT to TSV file in C# code. Combine MHT to TSV file using VB.NET, Asp.NET or any .NET based application.
 ---
 

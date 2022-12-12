@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLTM naar TSV via C#
-url: /nl/net/conversion/xltm-to-tsv/
+
 description: Voorbeeldcode voor xltm naar tsv C# conversie. Gebruik API voorbeeldcode voor batch xltm-bestanden naar tsv-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "NUMBERS konvertálása MHTML-re a következőn keresztül: C#"
-url: /hu/net/conversion/numbers-to-mhtml/
+
 description: Mintakód a számok mhtml C# konverziójához. Használjon API példakódot a kötegszámfájlok mhtml konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazásban.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

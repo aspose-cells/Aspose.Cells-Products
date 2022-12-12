@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET를 통해 XLSX 파일 병합 
 weight: 8290
-url: /ko/net/merger/xlsx/ 
+
 description: C# 소스 코드를 사용하여 .NET Framework, .NET Core, Mono 또는 Xamarin Platforms에서 XLSX 문서를 결합합니다.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

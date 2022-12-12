@@ -1,7 +1,7 @@
-﻿---
+---
 title:  Gráfico de documento XLSM para imagens via .NET 
 weight: 5100
-url: /pt/net/chart/xlsm/ 
+
 description: C# código-fonte para desenhar e converter gráfico ou diagrama em arquivo XLSM em plataformas .NET Framework, .NET Core, Mono ou Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

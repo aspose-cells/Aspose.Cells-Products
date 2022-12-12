@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLT konvertálása GIF-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/xlt-to-gif/
+
 description: Mintakód xlt-ből gif-be Python. Használjon API példakódot kötegelt xlt fájlok gif konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

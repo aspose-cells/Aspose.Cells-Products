@@ -1,6 +1,6 @@
-﻿---
+---
 title: XLT को XLSM से Python में बदलें
-url: /hi/python-java/conversion/xlt-to-xlsm/
+
 description: xlt से xlsm Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर xlsm रूपांतरण के लिए बैच xlt फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

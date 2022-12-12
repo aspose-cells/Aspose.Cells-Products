@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to HTML via Java 
-url: /java/conversion/xls-to-html/
+
 description: Convert XLS to HTML format in Java code. Save XLS as HTML using Java.
 ---
 

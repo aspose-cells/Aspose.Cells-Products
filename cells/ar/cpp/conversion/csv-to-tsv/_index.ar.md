@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل CSV إلى TSV عبر تطبيق C++ 
 weight: 2940
-url: /ar/cpp/conversion/csv-to-tsv/ 
+
 description: نموذج لشفرة تحويل C++ لمستند CSV إلى تنسيق TSV. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل CSV إلى TSV دفعة داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

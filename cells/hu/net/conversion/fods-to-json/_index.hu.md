@@ -1,6 +1,6 @@
-﻿---
+---
 title: "FODS konvertálása JSON-ra a következőn keresztül: C#"
-url: /hu/net/conversion/fods-to-json/
+
 description: Mintakód a fods to json C# konverziójához. Használjon API példakódot kötegelt fods fájlok json konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

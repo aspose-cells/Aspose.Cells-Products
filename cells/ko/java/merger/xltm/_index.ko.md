@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java를 통해 XLTM 파일 병합 
 weight: 8210
-url: /ko/java/merger/xltm/ 
+
 description: Java JSP/JSF 애플리케이션 및 데스크톱 애플리케이션을 위한 Java 런타임 환경에서 XLTM 문서를 결합하는 샘플 코드.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "HTML konvertálása FODS-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/html-to-fods/
+
 description: Mintakód a html-ből fods-ba Python konverzióhoz. Használjon API példakódot kötegelt html-fájlok konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera JSON till JPEG via C#
-url: /sv/net/conversion/json-to-jpeg/
+
 description: Exempelkod för konvertering från json till jpeg C#. Använd API exempelkod för batch-json-filer till jpeg-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

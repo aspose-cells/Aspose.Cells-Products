@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertera XLTM till XLSX via Java 
 weight: 4540
-url: /sv/java/conversion/xltm-to-xlsx/ 
+
 description: Exempel Java-konverteringskod för XLTM-format till XLSX-fil. Programmerare kan använda den här exempelkoden för att exportera Excel- och OpenOffice-kalkylblad till XLSX inom alla webb- eller skrivbordsbaserade Java-applikationer.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

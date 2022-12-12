@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera HTML till XLTX via C#
-url: /sv/net/conversion/html-to-xltx/
+
 description: Exempelkod för html till xltx C#-konvertering. Använd API exempelkod för batch-html-filer till xltx-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

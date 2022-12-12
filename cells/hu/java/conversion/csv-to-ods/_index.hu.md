@@ -1,7 +1,7 @@
-﻿---
+---
 title: "CSV konvertálása ODS-re a következőn keresztül: Java "
 weight: 8740
-url: /hu/java/conversion/csv-to-ods/ 
+
 description: Minta Java konverziós kód a CSV formátumhoz ODS-fájllá. A programozók ezt a példakódot használhatják Excel- és OpenOffice-táblázatok exportálására ODS-be bármely web- vagy asztali Java-alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

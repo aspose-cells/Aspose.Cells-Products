@@ -1,6 +1,6 @@
-﻿---
+---
 title: เพิ่มเส้นในแผนภูมิผ่าน C# 
-url: /th/net/add-line-in-chart/ 
+
 description: C# โค้ดตัวอย่างสำหรับเพิ่มเส้นในแผนภูมิไปยัง Excel โดยใช้ .NET Library ใช้รหัสนี้เพื่อเพิ่มเส้นในแผนภูมิไปยัง MS Excel ภายใน VB.NET, Asp.NET หรือแอปพลิเคชันที่ใช้ .NET
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

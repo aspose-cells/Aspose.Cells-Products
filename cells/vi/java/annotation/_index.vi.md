@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chú thích Tệp Excel qua Java
-url: /vi/java/annotation/
+
 description: Thêm hoặc xóa chú thích dữ liệu của bảng tính Excel và OpenOffice với thư viện Java.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

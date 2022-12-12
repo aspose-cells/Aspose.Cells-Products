@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer TXT naar ODS via Java 
 weight: 8700
-url: /nl/java/conversion/txt-to-ods/ 
+
 description: Voorbeeld Java conversiecode voor TXT-indeling naar ODS-bestand. Programmeurs kunnen deze voorbeeldcode gebruiken om Excel- en OpenOffice-spreadsheets naar ODS te exporteren binnen elke web- of desktoptoepassing Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

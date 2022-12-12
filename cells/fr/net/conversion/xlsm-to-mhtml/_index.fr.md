@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir XLSM en MHTML via C#
-url: /fr/net/conversion/xlsm-to-mhtml/
+
 description: Exemple de code pour la conversion xlsm vers mhtml C#. Utilisez l'exemple de code API pour la conversion par lots de fichiers xlsm en mhtml dans VB.NET, Asp.NET ou toute application basée sur .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

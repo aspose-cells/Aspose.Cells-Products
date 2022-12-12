@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertálja a TSV-t PDF-be a(z) C++ alkalmazással 
 weight: 9090
-url: /hu/cpp/conversion/tsv-to-pdf/ 
+
 description: Minta C++ konverziós kód a TSV-dokumentumhoz PDF formátumba. A programozók ezt a forráskódot használhatják kötegelt TSV-ből PDF-be konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

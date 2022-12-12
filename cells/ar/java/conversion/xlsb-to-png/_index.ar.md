@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل XLSB إلى PNG عبر Java 
 weight: 6350
-url: /ar/java/conversion/xlsb-to-png/ 
+
 description: نموذج Java رمز التحويل لتنسيق XLSB إلى ملف PNG. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel و OpenOffice إلى PNG داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

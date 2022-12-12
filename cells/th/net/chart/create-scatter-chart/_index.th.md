@@ -1,6 +1,6 @@
-﻿---
+---
 title: สร้างแผนภูมิกระจายผ่าน C#
-url: /th/net/create-scatter-chart/
+
 description: C# โค้ดตัวอย่างสำหรับสร้างแผนภูมิกระจายไปยัง Excel โดยใช้ .NET ไลบรารี ใช้รหัสนี้เพื่อสร้างแผนภูมิกระจายไปยัง MS Excel ภายใน VB.NET, Asp.NET หรือแอปพลิเคชันที่ใช้ .NET
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

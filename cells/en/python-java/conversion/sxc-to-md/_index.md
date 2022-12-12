@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to MD via Python
-url: /python-java/conversion/sxc-to-md/
+
 description: Convert SXC to MD format in Python code. Save SXC as MD using Python.
 ---
 

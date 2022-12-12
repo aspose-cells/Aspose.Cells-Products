@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java aracılığıyla XLTX'i PNG'ye dönüştürün 
 weight: 190
-url: /tr/java/conversion/xltx-to-png/ 
+
 description: XLTX biçimi için PNG dosyasına örnek Java dönüştürme kodu. Programcılar, Excel ve OpenOffice elektronik tablolarını herhangi bir Web veya Masaüstü Java tabanlı Uygulamada PNG'ye aktarmak için bu örnek kodu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

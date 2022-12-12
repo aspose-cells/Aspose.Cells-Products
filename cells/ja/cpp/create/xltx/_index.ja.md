@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++を介してMSExcelXLTXファイルを作成する 
-url: /ja/cpp/create-xltx/ 
+
 description: C++ MSExcelXLTXファイルを生成するためのサンプルコード。このコードを使用して、C++ベースのアプリケーション内にMSExcelXLTXファイルを作成します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

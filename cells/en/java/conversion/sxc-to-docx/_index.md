@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to DOCX via Java 
-url: /java/conversion/sxc-to-docx/
+
 description: Convert SXC to DOCX format in Java code. Save SXC as DOCX using Java.
 ---
 

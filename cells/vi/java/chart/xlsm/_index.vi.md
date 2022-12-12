@@ -1,7 +1,7 @@
-﻿---
+---
 title: Biểu đồ tài liệu XLSM qua Java 
 weight: 3020
-url: /vi/java/chart/xlsm/ 
+
 description: Java mã mẫu để vẽ và chuyển đổi biểu đồ hoặc sơ đồ trong tệp XLSM trên Java Môi trường thời gian chạy cho Ứng dụng JSP / JSF và Ứng dụng máy tính để bàn.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

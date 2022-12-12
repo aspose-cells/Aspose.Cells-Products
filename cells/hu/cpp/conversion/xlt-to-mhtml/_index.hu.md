@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLT-t MHTML-re a(z) C++ alkalmazással 
-url: /hu/cpp/conversion/xlt-to-mhtml/ 
+
 description: Minta C++ konverziós kód az XLT dokumentumhoz MHTML formátumba. A programozók ezt a forráskódot használhatják kötegelt XLT-ből MHTML-re konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

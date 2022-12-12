@@ -1,6 +1,6 @@
-﻿---
+---
 title: Unisci diversi file Excel in uno solo in Java
-url: /it/java/merger/
+
 description: Unisci i file Excel utilizzando Java in più fogli o in un unico foglio. Unisci, combina o concatena documenti Excel anche in PDF, immagini e HTML.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi TXT thành GIF qua Python
-url: /vi/python-java/conversion/txt-to-gif/
+
 description: Mã mẫu cho chuyển đổi txt sang gif Python. Sử dụng API mã mẫu cho các tệp txt hàng loạt thành chuyển đổi gif trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

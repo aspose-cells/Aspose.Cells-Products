@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل XLT إلى JPEG عبر Java 
 weight: 3010
-url: /ar/java/conversion/xlt-to-jpeg/ 
+
 description: نموذج رمز تحويل Java لتنسيق XLT إلى ملف JPEG. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى JPEG داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してXLTMをBMPに変換します
-url: /ja/net/conversion/xltm-to-bmp/
+
 description: xltmからbmpC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチxltmファイルからbmpへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

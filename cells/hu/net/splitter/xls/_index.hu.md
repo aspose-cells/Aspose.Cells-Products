@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLS-fájlok felosztása a következőn keresztül: .NET "
 weight: 1340
-url: /hu/net/splitter/xls/ 
+
 description: C# forráskód az XLS dokumentumok felosztásához .NET Framework, .NET Core, Mono vagy Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

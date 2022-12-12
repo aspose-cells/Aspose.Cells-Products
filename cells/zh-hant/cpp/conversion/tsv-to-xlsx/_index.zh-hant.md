@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通過 C++ 應用程序將 TSV 轉換為 XLSX 
 weight: 7330
-url: /zh-hant/cpp/conversion/tsv-to-xlsx/ 
+
 description: TSV 文檔到 XLSX 格式的示例 C++ 轉換代碼。程序員可以使用此源代碼在任何 C++ 應用程序中將 TSV 批量轉換為 XLSX。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

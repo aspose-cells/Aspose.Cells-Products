@@ -1,7 +1,7 @@
 ---
 title: Search and replace text in ODS document via Java 
 weight: 9210
-url: /java/redaction/ods/ 
+
 description: Java sample code to redact sensitive information in ODS file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

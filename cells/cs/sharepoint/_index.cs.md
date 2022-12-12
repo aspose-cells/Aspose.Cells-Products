@@ -1,7 +1,7 @@
-﻿---
+---
 title: Aplikace SharePoint Excel Spreadsheet Converter – Aspose 
 weight: 940
-url: /cs/sharepoint/ 
+
 description: Aspose.Cells pro SharePoint App je převaděč tabulek SharePoint Excel. Export XLS XLSX XML CSV PDF ODS &amp; HTML formáty v MOSS WSS
 ---
 {{< blocks/products/pf/main-wrap-class >}}

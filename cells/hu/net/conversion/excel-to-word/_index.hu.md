@@ -1,6 +1,6 @@
-﻿---
+---
 title: "EXCEL konvertálása WORD-ra a következőn keresztül: C#"
-url: /hu/net/conversion/excel-to-word/
+
 description: Mintakód az excelből szóvá C# konverzióhoz. Használjon API példakódot a kötegelt excel-fájlok Word-konverzióhoz VB-ben.NET, Asp-ben.NET vagy bármely .NET-alapú alkalmazásban.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

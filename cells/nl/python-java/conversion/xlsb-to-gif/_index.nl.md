@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLSB naar GIF via Python
-url: /nl/python-java/conversion/xlsb-to-gif/
+
 description: Voorbeeldcode voor xlsb naar gif Python conversie. Gebruik API voorbeeldcode voor batch xlsb-bestanden naar gif-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

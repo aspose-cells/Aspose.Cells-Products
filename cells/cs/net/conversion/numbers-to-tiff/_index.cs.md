@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést NUMBERS na TIFF přes C#
-url: /cs/net/conversion/numbers-to-tiff/
+
 description: Ukázkový kód pro převod čísel na tiff C#. Použijte API ukázkový kód pro dávkové soubory čísel pro převod tiff v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

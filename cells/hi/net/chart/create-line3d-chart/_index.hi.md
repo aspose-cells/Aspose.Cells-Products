@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# के द्वारा 3डी लाइन चार्ट बनाएं
-url: /hi/net/create-line3d-chart/
+
 description: C# .NET लाइब्रेरी का उपयोग करके एक्सेल में 3डी लाइन चार्ट बनाने के लिए नमूना कोड। वीबी.NET, एएसपी.NET या किसी .NET आधारित एप्लिकेशन के भीतर एमएस एक्सेल के लिए 3डी लाइन चार्ट बनाने के लिए इस कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

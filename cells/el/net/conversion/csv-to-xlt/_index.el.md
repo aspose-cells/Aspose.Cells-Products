@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή CSV σε XLT μέσω C#
-url: /el/net/conversion/csv-to-xlt/
+
 description: Δείγμα κώδικα για μετατροπή csv σε xlt C#. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδική μετατροπή αρχείων csv σε xlt εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

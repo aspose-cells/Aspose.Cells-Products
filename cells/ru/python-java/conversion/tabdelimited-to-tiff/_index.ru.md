@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование TABDELIMITED в TIFF через Python
-url: /ru/python-java/conversion/tabdelimited-to-tiff/
+
 description: Пример кода для преобразования tabdelimited в tiff Python. Используйте пример кода API для пакетного преобразования файлов с разделителями табуляции в tiff в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

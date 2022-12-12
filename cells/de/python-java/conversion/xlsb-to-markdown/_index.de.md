@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie XLSB in MARKDOWN über Python
-url: /de/python-java/conversion/xlsb-to-markdown/
+
 description: Beispielcode für xlsb-zu-Markdown-Python-Konvertierung. Verwenden Sie API Beispielcode für Batch-XLSB-Dateien zur Markdown-Konvertierung innerhalb der Anwendung Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通過 .NET 拆分 XLS 文件 
 weight: 1340
-url: /zh-hant/net/splitter/xls/ 
+
 description: C# 用於在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上拆分 XLS 文檔的源代碼。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

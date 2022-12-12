@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla TABDELIMITED'i XLS'ye dönüştürün
-url: /tr/python-java/conversion/tabdelimited-to-xls/
+
 description: xls Python dönüşümüne göre sekmeyle ayrılmış örnek kod. Python uygulamasında toplu sekmeyle ayrılmış dosyaları xls'e dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

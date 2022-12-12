@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل NUMBERS إلى XLS عبر Java 
-url: /ar/java/conversion/numbers-to-xls/ 
+
 description: نموذج Java رمز تحويل لتنسيق NUMBERS إلى ملف XLS. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى XLS داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

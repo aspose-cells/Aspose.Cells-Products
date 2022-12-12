@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل HTML إلى TXT عبر تطبيق C++ 
-url: /ar/cpp/conversion/html-to-txt/ 
+
 description: نموذج C++ رمز تحويل لمستند HTML إلى تنسيق TXT. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل دفعة HTML إلى TXT داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

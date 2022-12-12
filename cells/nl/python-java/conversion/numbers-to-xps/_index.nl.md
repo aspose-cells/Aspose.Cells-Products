@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer NUMMERS naar XPS via Python
-url: /nl/python-java/conversion/numbers-to-xps/
+
 description: Voorbeeldcode voor conversie van getallen naar xps Python. Gebruik API voorbeeldcode voor batchnummerbestanden naar xps-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

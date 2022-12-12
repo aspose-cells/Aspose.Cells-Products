@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLS na SQL přes C#
-url: /cs/net/conversion/xls-to-sql/
+
 description: Ukázkový kód pro převod xls na sql C#. Použijte API ukázkový kód pro dávkový převod souborů xls na sql v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

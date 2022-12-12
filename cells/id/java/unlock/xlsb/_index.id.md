@@ -1,7 +1,7 @@
-﻿---
+---
 title: Buka kunci dokumen XLSB melalui Java 
 weight: 5860
-url: /id/java/unlock/xlsb/ 
+
 description: Java contoh kode untuk membuka kunci file XLSB yang dilindungi sandi di Java Runtime Environment untuk Aplikasi JSP/JSF dan Aplikasi Desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TABDELIMITED إلى XLS عبر Java 
-url: /ar/java/conversion/tabdelimited-to-xls/ 
+
 description: نموذج Java رمز التحويل لتنسيق TABDELIMITED إلى ملف XLS. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى XLS داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

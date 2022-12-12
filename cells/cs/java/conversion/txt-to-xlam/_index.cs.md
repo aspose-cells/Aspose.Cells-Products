@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TXT na XLAM přes Java 
-url: /cs/java/conversion/txt-to-xlam/ 
+
 description: Ukázkový konverzní kód Java pro soubor ve formátu TXT na XLAM. Programátoři mohou použít tento příklad kódu k exportu tabulek Excelu a OpenOffice do XLAM v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

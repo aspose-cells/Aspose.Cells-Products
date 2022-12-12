@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter NUMBERS para JPEG via Java 
-url: /pt/java/conversion/numbers-to-jpeg/ 
+
 description: Exemplo de código de conversão Java para o formato NUMBERS para arquivo JPEG. Os programadores podem usar este código de exemplo para exportar planilhas do Excel e OpenOffice para JPEG em qualquer aplicativo baseado na Web ou Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Dela XLSB-filer via .NET 
 weight: 7370
-url: /sv/net/splitter/xlsb/ 
+
 description: C# källkod för att dela XLSB-dokument på .NET Framework, .NET Core, Mono eller Xamarin-plattformar.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

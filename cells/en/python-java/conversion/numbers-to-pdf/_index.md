@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to PDF via Python
-url: /python-java/conversion/numbers-to-pdf/
+
 description: Convert NUMBERS to PDF format in Python code. Save NUMBERS as PDF using Python.
 ---
 

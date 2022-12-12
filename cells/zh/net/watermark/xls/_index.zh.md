@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通过 .NET 给 XLS 文档添加水印 
 weight: 3050
-url: /zh/net/watermark/xls/ 
+
 description: C# 源代码，用于在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上向 XLS 文件添加或删除水印。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

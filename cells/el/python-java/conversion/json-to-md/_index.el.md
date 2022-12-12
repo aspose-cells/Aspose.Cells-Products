@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή JSON σε MD μέσω Python
-url: /el/python-java/conversion/json-to-md/
+
 description: Δείγμα κώδικα για μετατροπή json σε md Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδική μετατροπή αρχείων json σε md εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

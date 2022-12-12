@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLS в XLAM через C#
-url: /ru/net/conversion/xls-to-xlam/
+
 description: Пример кода для преобразования xls в xlam C#. Используйте пример кода API для пакетного преобразования файлов xls в xlam в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

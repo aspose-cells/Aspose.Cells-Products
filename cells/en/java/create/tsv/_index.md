@@ -1,6 +1,6 @@
 ---
 title: Create TSV Files via Java 
-url: /java/create-tsv/ 
+
 description: Create TSV files in Java code. Generate TSV files using Java based desktop or web application.
 ---
 

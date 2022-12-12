@@ -1,7 +1,7 @@
-﻿---
+---
 title: Просмотр форматов файлов CSV через .NET 
 weight: 7690
-url: /ru/net/viewer/csv/ 
+
 description: Исходный код C# для загрузки, обработки и отображения документов CSV на платформах .NET Framework, .NET Core, Mono или Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

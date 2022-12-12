@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést FODS na TSV prostřednictvím Python
-url: /cs/python-java/conversion/fods-to-tsv/
+
 description: Ukázkový kód pro konverzi fod na tsv Python. Použijte API ukázkový kód pro dávkový převod souborů fods na tsv v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

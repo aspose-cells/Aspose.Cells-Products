@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLSX-document ontgrendelen via C++ 
 weight: 3680
-url: /nl/cpp/unlock/xlsx/ 
+
 description: C++ voorbeeldcode om met een wachtwoord beveiligd XLSX-bestand te ontgrendelen op C++ Runtime Environment voor Windows 32 bit, Windows 64 bit en Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Ξεκλείδωμα εγγράφου XLSM μέσω Java 
 weight: 7700
-url: /el/java/unlock/xlsm/ 
+
 description: Java δείγμα κώδικα για να ξεκλειδώσετε το προστατευμένο με κωδικό πρόσβασης αρχείο XLSM στο Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

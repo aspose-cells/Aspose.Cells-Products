@@ -1,6 +1,6 @@
-﻿---
+---
 title: .NETを介してTXTファイルを編集します 
-url: /ja/net/editor/txt/ 
+
 description: .NETフレームワーク、.NETコア、Windows Azure、Mono、またはXamarinプラットフォームでTXTドキュメントを編集するためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование SXC в JPEG через C#
-url: /ru/net/conversion/sxc-to-jpeg/
+
 description: Пример кода для преобразования sxc в jpeg C#. Используйте пример кода API для пакетного преобразования файлов sxc в jpeg в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

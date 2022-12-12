@@ -1,7 +1,7 @@
-﻿---
+---
 title: Lindungi dan kunci dokumen XLSX melalui .NET 
 weight: 90
-url: /id/net/protect/xlsx/ 
+
 description: C# kode sumber untuk mengunci file XLSX menggunakan sandi pada Platform .NET Framework, .NET Core, Mono atau Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java üzerinden açmadan TXT belgesini arayın 
 weight: 1200
-url: /tr/java/search/txt/ 
+
 description: JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Runtime Environment'da TXT dosyasında kalıplı kelimeleri aramak için Java örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

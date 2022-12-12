@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converti NUMBERS in CSV tramite C#
-url: /it/net/conversion/numbers-to-csv/
+
 description: Codice di esempio per la conversione da numeri a csv C#. Utilizza API codice di esempio per la conversione di file di numeri batch in CSV all'interno di VB.NET, Asp.NET o qualsiasi applicazione basata su .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

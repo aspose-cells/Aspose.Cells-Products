@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to TXT via Python
-url: /python-java/conversion/spreadsheetml-to-txt/
+
 description: Convert SPREADSHEETML to TXT format in Python code. Save SPREADSHEETML as TXT using Python.
 ---
 

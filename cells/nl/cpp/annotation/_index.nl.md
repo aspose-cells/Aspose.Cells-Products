@@ -1,6 +1,6 @@
-﻿---
+---
 title: Excel-bestand annotaties via C++
-url: /nl/cpp/annotation/
+
 description: Voeg opmerkingen bij gegevensannotaties van Excel- en OpenOffice-spreadsheets toe of verwijder ze met de bibliotheek C++.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

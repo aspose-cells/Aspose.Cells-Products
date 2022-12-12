@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to DIF via C++
-url: /cpp/conversion/spreadsheetml-to-dif/
+
 description: Convert SPREADSHEETML to DIF format in C++ code. Save SPREADSHEETML as DIF using C++.
 ---
 

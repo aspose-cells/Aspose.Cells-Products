@@ -1,7 +1,7 @@
-﻿---
+---
 title: แปลง XLS เป็น GIF ผ่าน C++ แอปพลิเคชัน 
 weight: 8820
-url: /th/cpp/conversion/xls-to-gif/ 
+
 description: ตัวอย่างรหัสการแปลง C++ สำหรับเอกสาร XLS เป็นรูปแบบ GIF โปรแกรมเมอร์สามารถใช้ซอร์สโค้ดนี้สำหรับการแปลง XLS เป็น GIF แบบแบตช์ภายในแอปพลิเคชัน C++ ใดๆ
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

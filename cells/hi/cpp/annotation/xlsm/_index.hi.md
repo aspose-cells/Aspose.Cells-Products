@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ के माध्यम से XLSM एनोटेशन जोड़ें 
 weight: 2860
-url: /hi/cpp/annotation/xlsm/ 
+
 description: C++ C++ विंडोज 32 बिट, विंडोज 64 बिट और लिनक्स 64 बिट के लिए रनटाइम एनवायरनमेंट पर एक्सएलएसएम प्रारूप एनोटेशन हटाने के लिए नमूना कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

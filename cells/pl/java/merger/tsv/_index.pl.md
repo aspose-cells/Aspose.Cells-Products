@@ -1,7 +1,7 @@
-﻿---
+---
 title: Scal pliki TSV przez Java 
 weight: 9260
-url: /pl/java/merger/tsv/ 
+
 description: Java przykładowy kod do łączenia dokumentów TSV w Java środowisku wykonawczym dla aplikacji JSP/JSF i aplikacji komputerowych.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

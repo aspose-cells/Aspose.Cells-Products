@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla XLS'yi MHTML'ye dönüştürün
-url: /tr/net/conversion/xls-to-mhtml/
+
 description: xls'den mhtml'ye C# dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu xls dosyalarından mhtml'ye dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

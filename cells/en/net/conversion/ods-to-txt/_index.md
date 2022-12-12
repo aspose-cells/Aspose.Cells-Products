@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to TXT via C#
-url: /net/conversion/ods-to-txt/
+
 description: Convert ODS to TXT format in C# code. Save ODS as TXT using VB.NET, Asp.NET or any .NET based application.
 ---
 

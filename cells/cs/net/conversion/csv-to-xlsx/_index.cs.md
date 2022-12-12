@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést CSV na XLSX prostřednictvím C#
-url: /cs/net/conversion/csv-to-xlsx/
+
 description: Ukázkový kód pro převod csv na xlsx C#. Použijte API ukázkový kód pro dávkový převod souborů csv na xlsx v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: "CSV-fájlformátumok megtekintése a következőn keresztül: .NET "
 weight: 7690
-url: /hu/net/viewer/csv/ 
+
 description: C# forráskód a CSV-dokumentumok betöltéséhez, megjelenítéséhez és megjelenítéséhez .NET Framework, .NET Core, Mono vagy Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

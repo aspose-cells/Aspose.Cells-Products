@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera XLTM till DIF via appen C++ 
-url: /sv/cpp/conversion/xltm-to-dif/ 
+
 description: Exempel på C++-konverteringskod för XLTM-dokument till DIF-format. Programmerare kan använda den här källkoden för batchkonvertering av XLTM till DIF inom alla C++-program.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

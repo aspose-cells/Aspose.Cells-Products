@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή SPREADSHEETML σε XPS μέσω C#
-url: /el/net/conversion/spreadsheetml-to-xps/
+
 description: Δείγμα κώδικα για μετατροπή υπολογιστικού φύλλου σε xps C#. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία υπολογιστικών φύλλων ml σε μετατροπή xps εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

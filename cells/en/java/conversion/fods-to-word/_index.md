@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to WORD via Java 
-url: /java/conversion/fods-to-word/
+
 description: Convert FODS to WORD format in Java code. Save FODS as WORD using Java.
 ---
 

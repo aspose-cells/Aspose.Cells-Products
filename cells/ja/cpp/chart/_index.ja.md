@@ -1,6 +1,6 @@
-﻿---
+---
 title: Excelチャートを作成し、C++を介して画像に変換します
-url: /ja/cpp/chart/
+
 description: C++ライブラリを使用してMicrosoftExcelでチャートまたは図を描画および変換するためのC++ソースコード
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

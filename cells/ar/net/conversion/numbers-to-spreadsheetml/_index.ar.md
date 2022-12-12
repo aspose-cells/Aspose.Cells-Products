@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل الأرقام إلى SPREADSHEETML عبر C#
-url: /ar/net/conversion/numbers-to-spreadsheetml/
+
 description: نموذج كود لتحويل الأرقام إلى جدول بيانات C#. استخدم API رمز المثال لملفات أرقام الدُفعات لتحويل جدول البيانات داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

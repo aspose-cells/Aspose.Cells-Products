@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi EXCEL ke JPG melalui C#
-url: /id/net/conversion/excel-to-jpg/
+
 description: Contoh kode untuk konversi excel ke jpg C#. Gunakan API kode contoh untuk file batch excel ke konversi jpg dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

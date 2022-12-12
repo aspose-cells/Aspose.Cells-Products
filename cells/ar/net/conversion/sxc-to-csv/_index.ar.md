@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل SXC إلى CSV عبر C#
-url: /ar/net/conversion/sxc-to-csv/
+
 description: نموذج كود للتحويل من sxc إلى csv C#. استخدم API رمز المثال لملفات sxc المجمعة لتحويل csv داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

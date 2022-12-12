@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TSV na JPG prostřednictvím C#
-url: /cs/net/conversion/tsv-to-jpg/
+
 description: Ukázkový kód pro převod tsv na jpg C#. Použijte API ukázkový kód pro dávkový převod souborů tsv na jpg v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

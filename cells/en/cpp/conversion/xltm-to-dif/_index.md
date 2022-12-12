@@ -1,6 +1,6 @@
 ---
 title: Convert XLTM to DIF via C++
-url: /cpp/conversion/xltm-to-dif/
+
 description: Convert XLTM to DIF format in C++ code. Save XLTM as DIF using C++.
 ---
 

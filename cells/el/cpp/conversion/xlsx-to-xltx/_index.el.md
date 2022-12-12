@@ -1,7 +1,7 @@
-﻿---
+---
 title: Μετατρέψτε το XLSX σε XLTX μέσω της εφαρμογής C++ 
 weight: 470
-url: /el/cpp/conversion/xlsx-to-xltx/ 
+
 description: Δείγμα κώδικα μετατροπής C++ για έγγραφο XLSX σε μορφή XLTX. Οι προγραμματιστές μπορούν να χρησιμοποιήσουν αυτόν τον πηγαίο κώδικα για ομαδική μετατροπή XLSX σε XLTX σε οποιαδήποτε εφαρμογή C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

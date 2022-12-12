@@ -1,7 +1,7 @@
-﻿---
+---
 title: สร้างรายงานในไฟล์ ODS ผ่าน .NET 
 weight: 520
-url: /th/net/assembly/ods/ 
+
 description: C# ซอร์สโค้ดเพื่อสร้างรายงานรูปแบบ ODS บน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

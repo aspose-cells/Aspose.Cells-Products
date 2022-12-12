@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan FODS ke ODS melalui Python
-url: /id/python-java/conversion/fods-to-ods/
+
 description: Contoh kode untuk konversi makanan ke ods Python. Gunakan API kode contoh untuk file batch fods ke konversi ods dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

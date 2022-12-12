@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή HTML σε MARKDOWN μέσω C#
-url: /el/net/conversion/html-to-markdown/
+
 description: Δείγμα κώδικα για μετατροπή html σε σήμανση C#. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία html για να επισημάνετε τη μετατροπή σε VB.NET, Asp.NET ή οποιαδήποτε εφαρμογή που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

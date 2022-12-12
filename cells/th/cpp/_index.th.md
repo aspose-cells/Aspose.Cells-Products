@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ การเขียนโปรแกรมสเปรดชีต Excel API - Aspose 
 weight: 7140
-url: /th/cpp/ 
+
 description: C++ ไลบรารี Excel สำหรับอ่านเขียนและแยกวิเคราะห์ไฟล์ รวมถึงรูปแบบ XLS, XLSX, XLSM และ XLSB แปลงสเปรดชีตเป็น PDF, CSV และรูปแบบอื่นๆ
 ---
 {{< blocks/products/pf/main-wrap-class >}}

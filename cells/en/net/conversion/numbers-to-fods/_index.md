@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to FODS via C#
-url: /net/conversion/numbers-to-fods/
+
 description: Convert NUMBERS to FODS format in C# code. Save NUMBERS as FODS using VB.NET, Asp.NET or any .NET based application.
 ---
 

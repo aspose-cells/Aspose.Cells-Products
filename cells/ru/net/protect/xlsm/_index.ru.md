@@ -1,7 +1,7 @@
-﻿---
+---
 title: Защитите и заблокируйте документ XLSM через .NET 
 weight: 7530
-url: /ru/net/protect/xlsm/ 
+
 description: Исходный код C# для блокировки файла XLSM с помощью пароля на платформах .NET Framework, .NET Core, Mono или Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

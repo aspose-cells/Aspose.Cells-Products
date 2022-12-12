@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertálja a TSV-t SVG-vé a(z) C++ alkalmazáson keresztül 
 weight: 1060
-url: /hu/cpp/conversion/tsv-to-svg/ 
+
 description: Minta C++ konverziós kód a TSV-dokumentumhoz SVG formátumba. A programozók ezt a forráskódot használhatják kötegelt TSV-ből SVG-vé konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

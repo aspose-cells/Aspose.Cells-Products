@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل HTML إلى DIF عبر Java 
 weight: 6050
-url: /ar/java/conversion/html-to-dif/ 
+
 description: نموذج Java رمز تحويل لتنسيق HTML إلى ملف DIF. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى DIF داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

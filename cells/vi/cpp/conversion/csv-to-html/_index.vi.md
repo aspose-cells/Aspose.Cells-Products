@@ -1,7 +1,7 @@
-﻿---
+---
 title: Chuyển đổi CSV sang HTML qua ứng dụng C++ 
 weight: 3310
-url: /vi/cpp/conversion/csv-to-html/ 
+
 description: Mã chuyển đổi C++ mẫu cho tài liệu CSV sang định dạng HTML. Các lập trình viên có thể sử dụng mã nguồn này để chuyển đổi hàng loạt CSV sang HTML trong bất kỳ Ứng dụng C++ nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

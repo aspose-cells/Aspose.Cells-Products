@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj CSV na TABDELIMITED przez Python
-url: /pl/python-java/conversion/csv-to-tabdelimited/
+
 description: Przykładowy kod konwersji CSV do rozdzielanej tabulatorami Python. Użyj przykładowego kodu API dla wsadowych plików csv do konwersji rozdzielanej tabulatorami w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

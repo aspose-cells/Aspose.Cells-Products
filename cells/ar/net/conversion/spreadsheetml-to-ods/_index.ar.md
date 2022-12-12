@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل SPREADSHEETML إلى ODS عبر C#
-url: /ar/net/conversion/spreadsheetml-to-ods/
+
 description: نموذج كود لتحويل جدول بيانات إلى ods C#. استخدم API رمز المثال لملفات جداول البيانات المجمعة لتحويل ods داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してXLSMをJPGに変換します 
-url: /ja/java/conversion/xlsm-to-jpg/ 
+
 description: XLSM形式からJPGファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、任意のWebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをJPGにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

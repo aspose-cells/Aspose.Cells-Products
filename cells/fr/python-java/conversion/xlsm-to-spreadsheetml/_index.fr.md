@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir XLSM en SPREADSHEETML via Python
-url: /fr/python-java/conversion/xlsm-to-spreadsheetml/
+
 description: Exemple de code pour la conversion de xlsm en tableurml Python. Utilisez l'exemple de code API pour la conversion par lot de fichiers xlsm en feuille de calcul dans l'application Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
 ---
 title: Merge XLT Files via Java 
 weight: 9960
-url: /java/merger/xlt/ 
+
 description: Java sample code to combine XLT documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer TSV naar TXT via C++ applicatie 
-url: /nl/cpp/conversion/tsv-to-txt/ 
+
 description: Voorbeeld C++ conversiecode voor TSV-document naar TXT-indeling. Programmeurs kunnen deze broncode gebruiken voor batchconversie van TSV naar TXT binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

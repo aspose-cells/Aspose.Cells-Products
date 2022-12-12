@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Konvertálja az XLT-t PDF-be a következőn keresztül: Java "
 weight: 2550
-url: /hu/java/conversion/xlt-to-pdf/ 
+
 description: Minta Java konverziós kód XLT formátumhoz PDF fájllá. A programozók ezt a példakódot használhatják Excel- és OpenOffice-táblázatok PDF-formátumba exportálására bármely web- vagy asztali Java-alapú alkalmazásban.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

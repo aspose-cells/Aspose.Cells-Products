@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to PDF via Python
-url: /python-net/conversion/xls-to-pdf/
+
 description: Sample code for xls to pdf Python conversion. Use API example code for batch xls files to pdf conversion within Python application.
 ---
 

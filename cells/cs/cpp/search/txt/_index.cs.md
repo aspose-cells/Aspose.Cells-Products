@@ -1,7 +1,7 @@
-﻿---
+---
 title: Prohledejte dokument TXT bez otevření prostřednictvím C++ 
 weight: 5090
-url: /cs/cpp/search/txt/ 
+
 description: C++ ukázkový kód pro vyhledávání slov se vzorem v souboru TXT v C++ Runtime Environment pro Windows 32 bit, Windows 64 bit a Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Create TSV Files via Python 
-url: /python-net/create-tsv/ 
+
 description: Python Sample code for generating TSV documents. Use this code for creating TSV files within Python application.
 ---
 

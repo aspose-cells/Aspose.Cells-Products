@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή XLT σε MD μέσω Python
-url: /el/python-java/conversion/xlt-to-md/
+
 description: Δείγμα κώδικα για μετατροπή xlt σε md Python. Χρησιμοποιήστε API παράδειγμα κώδικα για μαζική μετατροπή αρχείων xlt σε md εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

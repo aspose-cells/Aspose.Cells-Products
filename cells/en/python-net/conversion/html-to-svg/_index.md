@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to SVG via Python
-url: /python-net/conversion/html-to-svg/
+
 description: Sample code for html to svg Python conversion. Use API example code for batch html files to svg conversion within Python application.
 ---
 

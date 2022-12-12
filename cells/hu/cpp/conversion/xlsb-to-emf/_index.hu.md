@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertálja az XLSB-t EMF-vé a(z) C++ alkalmazással 
 weight: 9640
-url: /hu/cpp/conversion/xlsb-to-emf/ 
+
 description: Minta C++ konverziós kód XLSB dokumentumhoz EMF formátumba. A programozók ezt a forráskódot használhatják az XLSB-ből EMF-re kötegelt konvertáláshoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

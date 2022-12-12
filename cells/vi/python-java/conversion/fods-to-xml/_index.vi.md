@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển FODS sang XML qua Python
-url: /vi/python-java/conversion/fods-to-xml/
+
 description: Mã mẫu cho chuyển đổi fods sang xml Python. Sử dụng mã mẫu API cho các tệp fods hàng loạt sang chuyển đổi xml trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

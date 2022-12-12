@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TXT konvertálása FODS-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/txt-to-fods/
+
 description: Mintakód a txt-ből fods-ba Python konverzióhoz. Használjon API példakódot a txt fájlok kötegelt konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

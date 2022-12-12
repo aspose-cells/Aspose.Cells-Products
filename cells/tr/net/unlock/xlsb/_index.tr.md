@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET üzerinden XLSB belgesinin kilidini açın 
 weight: 6410
-url: /tr/net/unlock/xlsb/ 
+
 description: .NET Framework, .NET Core, Mono veya Xamarin Platformlarında parola korumalı XLSB dosyasının kilidini açmak için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

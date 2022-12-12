@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to XLS via Java 
-url: /java/conversion/excel-to-xls/
+
 description: Convert EXCEL to XLS format in Java code. Save EXCEL as XLS using Java.
 ---
 

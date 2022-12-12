@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera FODS till JSON via Python
-url: /sv/python-java/conversion/fods-to-json/
+
 description: Exempelkod för fods till json Python-konvertering. Använd API exempelkod för batch fods-filer till json-konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLT konvertálása XML-re a következőn keresztül: C#"
-url: /hu/net/conversion/xlt-to-xml/
+
 description: Mintakód az xlt–xml C# konverzióhoz. Használjon API példakódot a kötegelt xlt-fájlok XML-re konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

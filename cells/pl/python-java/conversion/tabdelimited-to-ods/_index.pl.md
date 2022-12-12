@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj TABDELIMITED na ODS przez Python
-url: /pl/python-java/conversion/tabdelimited-to-ods/
+
 description: Przykładowy kod dla konwersji rozdzielanej tabulatorami do kursów Python. Użyj przykładowego kodu API dla plików wsadowych rozdzielanych tabulatorami do konwersji kursów w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

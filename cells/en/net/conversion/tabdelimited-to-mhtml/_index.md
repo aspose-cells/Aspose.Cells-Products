@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to MHTML via C#
-url: /net/conversion/tabdelimited-to-mhtml/
+
 description: Convert TABDELIMITED to MHTML format in C# code. Save TABDELIMITED as MHTML using VB.NET, Asp.NET or any .NET based application.
 ---
 

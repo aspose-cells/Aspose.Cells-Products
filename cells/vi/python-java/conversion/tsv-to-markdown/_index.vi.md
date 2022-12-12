@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi TSV thành MARKDOWN qua Python
-url: /vi/python-java/conversion/tsv-to-markdown/
+
 description: Mã mẫu cho chuyển đổi tsv sang đánh dấu Python. Sử dụng mã mẫu API cho các tệp tsv hàng loạt để đánh dấu chuyển đổi trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

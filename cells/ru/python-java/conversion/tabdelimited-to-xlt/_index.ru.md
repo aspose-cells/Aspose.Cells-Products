@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование TABDELIMITED в XLT через Python
-url: /ru/python-java/conversion/tabdelimited-to-xlt/
+
 description: Пример кода для преобразования tabdelimited в xlt Python. Используйте пример кода API для пакетного преобразования файлов с разделителями табуляции в xlt в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Merge TSV to HTM Files via Python 
-url: /python-java/merger/merge-tsv-to-htm/ 
+
 description: Merge TSV to HTM file in Python code. Combine TSV to HTM file using Python.
 ---
 

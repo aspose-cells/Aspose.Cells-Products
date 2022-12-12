@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta NÚMEROS a TXT a través de C#
-url: /es/net/conversion/numbers-to-txt/
+
 description: Ejemplo de código para la conversión de números a txt C#. Utilice el código de ejemplo API para la conversión de archivos de números de lote a txt dentro de VB.NET, Asp.NET o cualquier aplicación basada en .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

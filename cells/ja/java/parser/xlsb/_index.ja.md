@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してXLSBドキュメントからテキストと画像を抽出します 
 weight: 440
-url: /ja/java/parser/xlsb/ 
+
 description: JSP/JSFアプリケーションおよびデスクトップアプリケーションのJavaランタイム環境でXLSBファイルからテキストと画像を抽出するためのJavaサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

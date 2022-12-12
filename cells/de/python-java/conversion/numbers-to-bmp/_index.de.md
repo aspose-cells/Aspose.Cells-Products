@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie NUMBERS in BMP über Python
-url: /de/python-java/conversion/numbers-to-bmp/
+
 description: Beispielcode für die Umwandlung von Zahlen in bmp Python. Verwenden Sie API Beispielcode für die Konvertierung von Stapelnummerndateien in bmp innerhalb der Anwendung Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

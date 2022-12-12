@@ -1,6 +1,6 @@
-﻿---
+---
 title: XLS को XPS में Python के माध्यम से कनवर्ट करें
-url: /hi/python-java/conversion/xls-to-xps/
+
 description: xls से xps Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन में xps से xps रूपांतरण में बैच xls फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

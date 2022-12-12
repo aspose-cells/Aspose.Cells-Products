@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést SXC na BMP přes Python
-url: /cs/python-java/conversion/sxc-to-bmp/
+
 description: Ukázkový kód pro převod sxc na bmp Python. Použijte API ukázkový kód pro dávkový převod souborů sxc na bmp v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

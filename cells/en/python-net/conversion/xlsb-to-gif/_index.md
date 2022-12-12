@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to GIF via Python
-url: /python-net/conversion/xlsb-to-gif/
+
 description: Sample code for xlsb to gif Python conversion. Use API example code for batch xlsb files to gif conversion within Python application.
 ---
 

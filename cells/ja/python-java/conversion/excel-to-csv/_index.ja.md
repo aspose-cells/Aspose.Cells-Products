@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してEXCELをCSVに変換します
-url: /ja/python-java/conversion/excel-to-csv/
+
 description: ExcelからcsvPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチExcelファイルからcsvへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

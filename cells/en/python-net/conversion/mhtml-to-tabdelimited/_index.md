@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to TABDELIMITED via Python
-url: /python-net/conversion/mhtml-to-tabdelimited/
+
 description: Sample code for mhtml to tabdelimited Python conversion. Use API example code for batch mhtml files to tabdelimited conversion within Python application.
 ---
 

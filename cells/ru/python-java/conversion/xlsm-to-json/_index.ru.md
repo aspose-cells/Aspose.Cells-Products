@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLSM в JSON через Python
-url: /ru/python-java/conversion/xlsm-to-json/
+
 description: Пример кода для преобразования xlsm в json Python. Используйте пример кода API для пакетного преобразования файлов xlsm в json в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

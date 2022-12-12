@@ -1,7 +1,7 @@
-﻿---
+---
 title: Προσθήκη σχολιασμού αρχείου Excel XLSB μέσω C++ 
 weight: 860
-url: /el/cpp/annotation/xlsb/ 
+
 description: C++ δείγμα κώδικα για τη διαγραφή σχολιασμών μορφής XLSB στο C++ Runtime Environment για Windows 32 bit, Windows 64 bit και Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan TSV ke TXT melalui C#
-url: /id/net/conversion/tsv-to-txt/
+
 description: Contoh kode untuk konversi tsv ke txt C#. Gunakan API kode contoh untuk file batch tsv ke konversi txt dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

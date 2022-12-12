@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通过 .NET 在 XLSM 文件中生成报告 
 weight: 4400
-url: /zh/net/assembly/xlsm/ 
+
 description: C# 源代码，用于在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上生成 XLSM 格式报告。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

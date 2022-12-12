@@ -1,6 +1,6 @@
-﻿---
+---
 title: Создавайте линейные 3D-диаграммы с помощью Python
-url: /ru/python-java/create-line3d-chart/
+
 description: Python Пример кода для создания трехмерных линейных диаграмм в Excel с использованием библиотеки Python. Используйте этот код для создания трехмерной линейной диаграммы в MS Excel в приложении на основе Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

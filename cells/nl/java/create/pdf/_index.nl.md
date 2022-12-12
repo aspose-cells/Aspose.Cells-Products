@@ -1,6 +1,6 @@
-﻿---
+---
 title: PDF-bestanden maken via Java 
-url: /nl/java/create-pdf/ 
+
 description: Java Voorbeeldcode voor het genereren van PDF-documenten. Gebruik deze code voor het maken van PDF-bestanden binnen een op Java gebaseerde desktop- of webtoepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

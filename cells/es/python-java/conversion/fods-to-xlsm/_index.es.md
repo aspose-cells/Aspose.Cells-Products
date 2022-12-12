@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta FODS a XLSM a través de Python
-url: /es/python-java/conversion/fods-to-xlsm/
+
 description: Ejemplo de código para la conversión de fods a xlsm Python. Utilice el código de ejemplo API para la conversión de archivos fods por lotes a xlsm dentro de la aplicación Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

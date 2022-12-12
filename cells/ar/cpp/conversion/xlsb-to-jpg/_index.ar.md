@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLSB إلى JPG عبر تطبيق C++ 
-url: /ar/cpp/conversion/xlsb-to-jpg/ 
+
 description: نموذج رمز تحويل C++ لمستند XLSB إلى تنسيق JPG. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل XLSB إلى JPG دفعة داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してHTMLをTXTに変換します
-url: /ja/python-java/conversion/html-to-txt/
+
 description: htmlからtxtPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチhtmlファイルからtxtへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

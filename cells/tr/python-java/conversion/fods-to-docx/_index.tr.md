@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla FODS'u DOCX'e dönüştürün
-url: /tr/python-java/conversion/fods-to-docx/
+
 description: Yemlerin docx'e Python dönüşümü için örnek kod. Python uygulamasında toplu dosya dosyalarından docx'e dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

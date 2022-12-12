@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to HTML via C++
-url: /cpp/conversion/sxc-to-html/
+
 description: Convert SXC to HTML format in C++ code. Save SXC as HTML using C++.
 ---
 

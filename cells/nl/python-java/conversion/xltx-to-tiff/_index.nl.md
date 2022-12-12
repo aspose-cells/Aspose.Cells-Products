@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLTX naar TIFF via Python
-url: /nl/python-java/conversion/xltx-to-tiff/
+
 description: Voorbeeldcode voor conversie van xltx naar tiff Python. Gebruik API voorbeeldcode voor batch xltx-bestanden naar tiff-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

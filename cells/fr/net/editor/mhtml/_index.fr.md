@@ -1,6 +1,6 @@
-﻿---
+---
 title: Modifier les fichiers MHTML via .NET 
-url: /fr/net/editor/mhtml/ 
+
 description: Code source C# pour modifier le document MHTML sur .NET Framework, .NET Core, Windows Azure, Mono ou Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

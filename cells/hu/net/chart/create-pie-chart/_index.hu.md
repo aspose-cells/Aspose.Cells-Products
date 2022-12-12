@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Kördiagramok létrehozása a következőn keresztül: C#"
-url: /hu/net/create-pie-chart/
+
 description: C# Mintakód kördiagramok készítéséhez Excelbe a .NET Library használatával. Ezzel a kóddal kördiagramot hozhat létre MS Excelben VB.NET, Asp.NET vagy bármely .NET alapú alkalmazásban.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

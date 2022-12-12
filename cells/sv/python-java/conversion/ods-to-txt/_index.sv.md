@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera ODS till TXT via Python
-url: /sv/python-java/conversion/ods-to-txt/
+
 description: Exempelkod för konvertering av ods till txt Python. Använd API exempelkod för batch-ods-filer till txt-konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

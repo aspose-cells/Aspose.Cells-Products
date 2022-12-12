@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してTXTをTSVに変換します 
 weight: 5440
-url: /ja/java/conversion/txt-to-tsv/ 
+
 description: TXT形式からTSVファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のTSVにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

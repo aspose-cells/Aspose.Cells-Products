@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLSM-et XML-be a(z) C++ alkalmazással 
-url: /hu/cpp/conversion/xlsm-to-xml/ 
+
 description: Minta C++ konverziós kód XLSM dokumentumhoz XML formátumba. A programozók ezt a forráskódot használhatják az XLSM-ből XML-be történő kötegelt konvertáláshoz bármely C++ alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

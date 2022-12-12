@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLSM-et TIFF-re a(z) C++ alkalmazással 
-url: /hu/cpp/conversion/xlsm-to-tiff/ 
+
 description: Minta C++ konverziós kód XLSM-dokumentumhoz TIFF formátumba. A programozók ezt a forráskódot használhatják a kötegelt XLSM-TIFF konvertáláshoz bármely C++ alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

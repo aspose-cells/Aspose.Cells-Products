@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer FODS naar TABDELIMITED via Python
-url: /nl/python-java/conversion/fods-to-tabdelimited/
+
 description: Voorbeeldcode voor conversie van fods naar tabdelimited Python. Gebruik API voorbeeldcode voor batch-fods-bestanden naar door tabs gescheiden conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

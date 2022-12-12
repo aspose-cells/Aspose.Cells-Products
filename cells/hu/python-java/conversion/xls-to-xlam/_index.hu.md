@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLS konvertálása XLAM-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/xls-to-xlam/
+
 description: Mintakód az xls–xlam Python konverzióhoz. Használjon API példakódot a kötegelt xls fájlok xlam konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

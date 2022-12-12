@@ -1,7 +1,7 @@
 ---
 title: Watermark XLSB document via Java 
 weight: 5900
-url: /java/watermark/xlsb/ 
+
 description: Java sample code to add or remove watermark to XLSB file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

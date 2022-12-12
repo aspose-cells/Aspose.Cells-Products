@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi XLSX sang GIF qua C#
-url: /vi/net/conversion/xlsx-to-gif/
+
 description: Mã mẫu cho chuyển đổi xlsx sang gif C#. Sử dụng API mã ví dụ cho hàng loạt tệp xlsx sang chuyển đổi gif trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

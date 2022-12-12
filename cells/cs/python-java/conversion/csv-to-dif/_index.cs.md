@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést CSV na DIF prostřednictvím Python
-url: /cs/python-java/conversion/csv-to-dif/
+
 description: Ukázkový kód pro převod csv na rozdíl Python. Použijte API ukázkový kód pro dávkové soubory csv k převodu dif v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

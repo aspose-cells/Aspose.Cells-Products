@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++ uygulaması aracılığıyla JSON'u MD'ye dönüştürün 
-url: /tr/cpp/conversion/json-to-md/ 
+
 description: JSON belgesi için MD biçimine örnek C++ dönüştürme kodu. Programcılar, herhangi bir C++ Uygulamasında toplu JSON'dan MD'ye dönüştürme için bu kaynak kodunu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

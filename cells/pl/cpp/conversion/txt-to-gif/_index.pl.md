@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj TXT na GIF za pomocą aplikacji C++ 
-url: /pl/cpp/conversion/txt-to-gif/ 
+
 description: Przykładowy kod konwersji C++ dla dokumentu TXT do formatu GIF. Programiści mogą używać tego kodu źródłowego do wsadowej konwersji TXT na GIF w dowolnej aplikacji C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

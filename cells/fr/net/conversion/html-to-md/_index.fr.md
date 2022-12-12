@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir HTML en MD via C#
-url: /fr/net/conversion/html-to-md/
+
 description: Exemple de code pour la conversion html vers md C#. Utilisez API exemple de code pour les fichiers html par lots en conversion md dans VB.NET, Asp.NET ou toute application basée sur .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

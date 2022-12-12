@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLSB naar XLSM via C#
-url: /nl/net/conversion/xlsb-to-xlsm/
+
 description: Voorbeeldcode voor xlsb naar xlsm C# conversie. Gebruik API voorbeeldcode voor batch xlsb-bestanden naar xlsm-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

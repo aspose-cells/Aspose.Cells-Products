@@ -1,7 +1,7 @@
-﻿---
+---
 title: ป้องกันและล็อกเอกสาร XLSX ผ่าน C++ 
 weight: 1140
-url: /th/cpp/protect/xlsx/ 
+
 description: C++ ตัวอย่างโค้ดสำหรับล็อกไฟล์ XLSX โดยใช้รหัสผ่านบน C++ Runtime Environment สำหรับ Windows 32 บิต, Windows 64 บิต และ Linux 64 บิต
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

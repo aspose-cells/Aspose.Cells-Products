@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir TABDELIMITED en TSV via Java 
-url: /fr/java/conversion/tabdelimited-to-tsv/ 
+
 description: Exemple de code de conversion Java pour le format TABDELIMITED en fichier TSV. Les programmeurs peuvent utiliser cet exemple de code pour exporter des feuilles de calcul Excel et OpenOffice vers TSV dans n'importe quelle application Web ou de bureau Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 C++ 應用程序將 XLSB 轉換為 TXT 
-url: /zh-hant/cpp/conversion/xlsb-to-txt/ 
+
 description: XLSB 文檔到 TXT 格式的示例 C++ 轉換代碼。程序員可以使用此源代碼在任何 C++ 應用程序中進行批量 XLSB 到 TXT 的轉換。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

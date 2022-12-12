@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta NUMBERS a XLAM a través de C#
-url: /es/net/conversion/numbers-to-xlam/
+
 description: Ejemplo de código para la conversión de números a xlam C#. Utilice el código de ejemplo API para archivos de números de lote para conversión xlam dentro de VB.NET, Asp.NET o cualquier aplicación basada en .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

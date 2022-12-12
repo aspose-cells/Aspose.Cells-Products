@@ -1,6 +1,6 @@
-﻿---
+---
 title: Tạo Tệp MS Excel XLTX qua C++ 
-url: /vi/cpp/create-xltx/ 
+
 description: C++ Mã mẫu để tạo tệp MS Excel XLTX. Sử dụng mã này để tạo tệp MS Excel XLTX trong ứng dụng dựa trên C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

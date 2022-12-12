@@ -1,7 +1,7 @@
-﻿---
+---
 title: Συγχώνευση αρχείων XLT μέσω .NET 
 weight: 1820
-url: /el/net/merger/xlt/ 
+
 description: C# πηγαίος κώδικας για συνδυασμό εγγράφων XLT σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

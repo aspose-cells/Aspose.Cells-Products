@@ -1,6 +1,6 @@
-﻿---
+---
 title: SXC को C# के माध्यम से PNG में बदलें
-url: /hi/net/conversion/sxc-to-png/
+
 description: sxc से png C# रूपांतरण के लिए नमूना कोड। वीबी.NET, एएसपी.NET या किसी भी .NET आधारित एप्लिकेशन के भीतर पीएनजी रूपांतरण के लिए बैच एसएक्ससी फाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

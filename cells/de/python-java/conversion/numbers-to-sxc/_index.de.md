@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie NUMBERS in SXC über Python
-url: /de/python-java/conversion/numbers-to-sxc/
+
 description: Beispielcode für die Umwandlung von Zahlen in sxc Python. Verwenden Sie den API-Beispielcode für die Konvertierung von Stapelnummerndateien in sxc innerhalb der Anwendung Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLTM إلى PDF عبر تطبيق C++ 
-url: /ar/cpp/conversion/xltm-to-pdf/ 
+
 description: نموذج C++ رمز تحويل لمستند XLTM إلى تنسيق PDF. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل XLTM إلى PDF في أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

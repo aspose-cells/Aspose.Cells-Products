@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование FODS в JPEG через Java 
-url: /ru/java/conversion/fods-to-jpeg/ 
+
 description: Пример кода преобразования Java для формата FODS в файл JPEG. Программисты могут использовать этот пример кода для экспорта электронных таблиц Excel и OpenOffice в формат JPEG в любом веб- или настольном Java приложении.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

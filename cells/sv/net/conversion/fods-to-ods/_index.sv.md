@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera FODS till ODS via C#
-url: /sv/net/conversion/fods-to-ods/
+
 description: Exempelkod för fods till ods C#-omvandling. Använd API exempelkod för batch fods-filer till ods-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

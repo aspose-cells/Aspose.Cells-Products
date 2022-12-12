@@ -1,7 +1,7 @@
-﻿---
+---
 title: Estrai testo e immagini dal documento ODS tramite .NET 
 weight: 6970
-url: /it/net/parser/ods/ 
+
 description: C# codice sorgente per estrarre testo e immagini dal file ODS su piattaforme .NET Framework, .NET Core, Mono o Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

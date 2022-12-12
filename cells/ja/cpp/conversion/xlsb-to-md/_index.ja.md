@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++アプリケーションを介してXLSBをMDに変換する 
-url: /ja/cpp/conversion/xlsb-to-md/ 
+
 description: XLSBドキュメントからMD形式へのサンプルC++変換コード。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でXLSBからMDへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

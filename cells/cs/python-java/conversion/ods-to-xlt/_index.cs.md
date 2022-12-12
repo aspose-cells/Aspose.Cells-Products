@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést ODS na XLT přes Python
-url: /cs/python-java/conversion/ods-to-xlt/
+
 description: Ukázkový kód pro převod z ods na xlt Python. Použijte API ukázkový kód pro dávkové soubory ods na převod xlt v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

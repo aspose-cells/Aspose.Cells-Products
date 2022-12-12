@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#経由でCSVをXLSBに変換
-url: /ja/net/conversion/csv-to-xlsb/
+
 description: csvからxlsbC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチcsvファイルからxlsbへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

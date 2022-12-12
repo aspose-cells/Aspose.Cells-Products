@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLTM konvertálása FODS-re a következőn keresztül: C#"
-url: /hu/net/conversion/xltm-to-fods/
+
 description: Mintakód az xltm to fods C# konverziójához. Használjon API példakódot kötegelt xltm fájlok fods konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

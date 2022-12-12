@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل SPREADSHEETML إلى GIF عبر Python
-url: /ar/python-java/conversion/spreadsheetml-to-gif/
+
 description: نموذج كود لتحويل جدول البيانات إلى gif Python. استخدم API رمز المثال لملفات جداول البيانات الدفعية لتحويل gif داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

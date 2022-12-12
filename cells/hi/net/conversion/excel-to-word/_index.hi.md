@@ -1,6 +1,6 @@
-﻿---
+---
 title: EXCEL को C# के द्वारा वर्ड में बदलें
-url: /hi/net/conversion/excel-to-word/
+
 description: एक्सेल से शब्द C# रूपांतरण के लिए नमूना कोड। VB.NET, Asp.NET या किसी .NET आधारित एप्लिकेशन के भीतर बैच एक्सेल फ़ाइलों से शब्द रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

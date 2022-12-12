@@ -1,7 +1,7 @@
-﻿---
+---
 title: Python Foglio di lavoro Excel API - Aspose 
 weight: 2820
-url: /it/python/ 
+
 description: Python libreria di fogli di lavoro per creare file di lettura, scrittura e analisi di Excel.
 ---
 {{< blocks/products/pf/main-wrap-class >}}

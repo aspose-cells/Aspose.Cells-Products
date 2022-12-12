@@ -1,6 +1,6 @@
-﻿---
+---
 title: "MHTML konvertálása SPREADSHEETML-be a következőn keresztül: Python"
-url: /hu/python-java/conversion/mhtml-to-spreadsheetml/
+
 description: Mintakód az mhtml-ből táblázattáblázatba Python konverzióhoz. Használjon API példakódot kötegelt mhtml-fájlokhoz a Python alkalmazáson belüli táblázatkezelő-konverzióhoz.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

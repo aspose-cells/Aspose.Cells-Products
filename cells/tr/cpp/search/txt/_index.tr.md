@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ üzerinden açmadan TXT belgesini arayın 
 weight: 5090
-url: /tr/cpp/search/txt/ 
+
 description: C++ Windows 32 bit, Windows 64 bit ve Linux 64 bit için C++ Runtime Environment'da TXT dosyasında kalıplı sözcükleri aramak için örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

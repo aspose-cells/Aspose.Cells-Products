@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést FODS na TXT přes Python
-url: /cs/python-java/conversion/fods-to-txt/
+
 description: Ukázkový kód pro převod fod na txt Python. Použijte API ukázkový kód pro dávkový převod souborů fods na txt v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

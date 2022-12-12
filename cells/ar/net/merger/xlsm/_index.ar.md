@@ -1,7 +1,7 @@
-﻿---
+---
 title: دمج ملفات XLSM عبر .NET 
 weight: 660
-url: /ar/net/merger/xlsm/ 
+
 description: C# شفرة المصدر لدمج مستندات XLSM في .NET Framework أو .NET Core أو Mono أو أنظمة Xamarin الأساسية.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

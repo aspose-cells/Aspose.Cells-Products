@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést SPREADSHEETML na DIF prostřednictvím Python
-url: /cs/python-java/conversion/spreadsheetml-to-dif/
+
 description: Ukázkový kód pro konverzi tabulkyml na rozdíl Python. Použijte API ukázkový kód pro dávkové tabulkové soubory ml pro převod převodu v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

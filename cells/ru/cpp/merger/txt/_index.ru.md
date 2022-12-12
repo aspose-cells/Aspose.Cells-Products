@@ -1,6 +1,6 @@
-﻿---
+---
 title: Объединить файлы TXT через C++ 
-url: /ru/cpp/merger/txt/ 
+
 description: Пример кода C++ для объединения документов TXT в среде выполнения C++ для 32-разрядной, 64-разрядной Windows и 64-разрядной версии Linux.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

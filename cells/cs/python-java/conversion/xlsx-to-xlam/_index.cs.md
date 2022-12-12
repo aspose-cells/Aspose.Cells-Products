@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLSX na XLAM přes Python
-url: /cs/python-java/conversion/xlsx-to-xlam/
+
 description: Ukázkový kód pro převod xlsx na xlam Python. Použijte API ukázkový kód pro dávkový převod souborů xlsx na xlam v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

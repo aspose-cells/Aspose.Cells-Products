@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převeďte XLS na DIF pomocí aplikace C++ 
 weight: 640
-url: /cs/cpp/conversion/xls-to-dif/ 
+
 description: Ukázka převodního kódu C++ pro dokument XLS na formát DIF. Programátoři mohou použít tento zdrojový kód pro dávkový převod XLS na DIF v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

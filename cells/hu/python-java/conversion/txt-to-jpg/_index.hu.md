@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TXT konvertálása JPG-vé a következőn keresztül: Python"
-url: /hu/python-java/conversion/txt-to-jpg/
+
 description: Mintakód a txt-ből jpg-vé Python konvertálásához. Használjon API példakódot a txt fájlok kötegelt jpg konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してHTMLをODSに変換する
-url: /ja/python-java/conversion/html-to-ods/
+
 description: htmlからodsPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチhtmlファイルからodsへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera CSV till SPREADSHEETML via Python
-url: /sv/python-java/conversion/csv-to-spreadsheetml/
+
 description: Exempelkod för konvertering från csv till kalkylarkml Python. Använd API exempelkod för batch-csv-filer till kalkylarkml-konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してTSVをTIFFに変換します
-url: /ja/net/conversion/tsv-to-tiff/
+
 description: tsvからtiffC#への変換のサンプルコード。バッチtsvファイルのAPIサンプルコードを使用して、VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内で変換をtiffします。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

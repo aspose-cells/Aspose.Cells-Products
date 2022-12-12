@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi TXT sang MHTML qua C#
-url: /vi/net/conversion/txt-to-mhtml/
+
 description: Mã mẫu cho chuyển đổi txt sang mhtml C#. Sử dụng API mã mẫu cho các tệp txt hàng loạt sang chuyển đổi mhtml trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

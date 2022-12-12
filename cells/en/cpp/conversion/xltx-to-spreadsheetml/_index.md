@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to SPREADSHEETML via C++
-url: /cpp/conversion/xltx-to-spreadsheetml/
+
 description: Convert XLTX to SPREADSHEETML format in C++ code. Save XLTX as SPREADSHEETML using C++.
 ---
 

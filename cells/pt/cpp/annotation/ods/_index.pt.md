@@ -1,7 +1,7 @@
-﻿---
+---
 title: Adicionar anotação ODS via C++ 
 weight: 8840
-url: /pt/cpp/annotation/ods/ 
+
 description: C++ código de amostra para excluir anotações de formato ODS em C++ Runtime Environment para Windows de 32 bits, Windows de 64 bits e Linux de 64 bits.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

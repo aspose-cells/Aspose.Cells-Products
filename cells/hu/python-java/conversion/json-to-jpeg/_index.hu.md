@@ -1,6 +1,6 @@
-﻿---
+---
 title: "JSON konvertálása JPEG formátumba a következőn keresztül: Python"
-url: /hu/python-java/conversion/json-to-jpeg/
+
 description: Mintakód a json–jpeg Python konverzióhoz. Használjon API példakódot a kötegelt json-fájlok JPEG konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

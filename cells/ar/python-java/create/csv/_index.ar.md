@@ -1,6 +1,6 @@
-﻿---
+---
 title: إنشاء ملفات CSV عبر Python 
-url: /ar/python-java/create-csv/ 
+
 description: Python نموذج كود لإنشاء مستندات بتنسيق CSV. استخدم هذا الرمز لإنشاء ملفات CSV داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Просмотр форматов файлов TSV через .NET 
 weight: 3090
-url: /ru/net/viewer/tsv/ 
+
 description: Исходный код C# для загрузки, обработки и отображения документов TSV на платформах .NET Framework, .NET Core, Mono или Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

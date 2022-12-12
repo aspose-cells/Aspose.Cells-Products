@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to SXC via Java 
-url: /java/conversion/xlt-to-sxc/
+
 description: Convert XLT to SXC format in Java code. Save XLT as SXC using Java.
 ---
 

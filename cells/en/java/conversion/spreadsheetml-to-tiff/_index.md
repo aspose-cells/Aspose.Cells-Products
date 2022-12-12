@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to TIFF via Java 
-url: /java/conversion/spreadsheetml-to-tiff/
+
 description: Convert SPREADSHEETML to TIFF format in Java code. Save SPREADSHEETML as TIFF using Java.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi NUMBER ke TSV melalui Python
-url: /id/python-java/conversion/numbers-to-tsv/
+
 description: Contoh kode untuk angka ke tsv Python konversi. Gunakan API kode contoh untuk file nomor batch ke konversi tsv dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

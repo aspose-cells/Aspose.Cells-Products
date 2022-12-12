@@ -1,7 +1,7 @@
-﻿---
+---
 title: वॉटरमार्क ODS दस्तावेज़ .NET के माध्यम से 
 weight: 4190
-url: /hi/net/watermark/ods/ 
+
 description: .NET Framework, .NET Core, Mono या Xamarin Platforms पर ODS फ़ाइल में वॉटरमार्क जोड़ने या निकालने के लिए C# स्रोत कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

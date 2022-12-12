@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή NUMBERS σε XLT μέσω Python
-url: /el/python-java/conversion/numbers-to-xlt/
+
 description: Δείγμα κώδικα για μετατροπή αριθμών σε xlt Python. Χρησιμοποιήστε API παράδειγμα κώδικα για αρχεία αριθμών παρτίδας σε μετατροπή xlt εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python üzerinden XLTX'i BMP'ye dönüştürün
-url: /tr/python-java/conversion/xltx-to-bmp/
+
 description: xltx'ten bmp'ye Python dönüştürme için örnek kod. Python uygulamasında toplu xltx dosyalarından bmp'ye dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

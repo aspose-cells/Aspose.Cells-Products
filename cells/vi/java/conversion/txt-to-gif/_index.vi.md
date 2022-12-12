@@ -1,7 +1,7 @@
-﻿---
+---
 title: Chuyển đổi TXT thành GIF qua Java 
 weight: 1100
-url: /vi/java/conversion/txt-to-gif/ 
+
 description: Mã chuyển đổi Java mẫu cho định dạng TXT thành tệp GIF. Lập trình viên có thể sử dụng mã ví dụ này để xuất bảng tính Excel & OpenOffice sang GIF trong bất kỳ Ứng dụng dựa trên Web hoặc Máy tính để bàn Java nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

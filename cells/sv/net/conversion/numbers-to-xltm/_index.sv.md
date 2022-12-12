@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera NUMBERS till XLTM via C#
-url: /sv/net/conversion/numbers-to-xltm/
+
 description: Exempelkod för konvertering av tal till xltm C#. Använd API exempelkod för batchnummerfiler till xltm-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java을(를) 통해 열지 않고 TSV 문서 검색 
 weight: 4940
-url: /ko/java/search/tsv/ 
+
 description: Java JSP/JSF 애플리케이션 및 데스크톱 애플리케이션용 런타임 환경의 Java TSV 파일에서 패턴이 있는 단어를 검색하는 샘플 코드.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to JPEG via C#
-url: /net/conversion/ods-to-jpeg/
+
 description: Convert ODS to JPEG format in C# code. Save ODS as JPEG using VB.NET, Asp.NET or any .NET based application.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to XML via C#
-url: /net/conversion/xlt-to-xml/
+
 description: Convert XLT to XML format in C# code. Save XLT as XML using VB.NET, Asp.NET or any .NET based application.
 ---
 

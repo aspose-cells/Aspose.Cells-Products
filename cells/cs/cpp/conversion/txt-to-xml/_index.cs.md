@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte TXT na XML pomocí aplikace C++ 
-url: /cs/cpp/conversion/txt-to-xml/ 
+
 description: Ukázka převodního kódu C++ pro dokument TXT do formátu XML. Programátoři mohou použít tento zdrojový kód pro dávkový převod TXT do XML v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

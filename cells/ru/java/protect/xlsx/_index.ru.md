@@ -1,7 +1,7 @@
-﻿---
+---
 title: Защитите и заблокируйте документ XLSX через Java 
 weight: 1870
-url: /ru/java/protect/xlsx/ 
+
 description: Пример кода Java для блокировки файла XLSX с помощью пароля в Java среде выполнения для приложений JSP/JSF и настольных приложений.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

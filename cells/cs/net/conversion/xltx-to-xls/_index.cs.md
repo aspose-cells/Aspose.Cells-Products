@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLTX na XLS přes C#
-url: /cs/net/conversion/xltx-to-xls/
+
 description: Ukázkový kód pro převod xltx na xls C#. Použijte API ukázkový kód pro dávkový převod souborů xltx na xls v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

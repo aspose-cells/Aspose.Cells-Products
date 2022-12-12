@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to HTML via Java 
-url: /java/conversion/tabdelimited-to-html/
+
 description: Convert TABDELIMITED to HTML format in Java code. Save TABDELIMITED as HTML using Java.
 ---
 

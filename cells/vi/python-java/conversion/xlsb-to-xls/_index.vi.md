@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi XLSB sang XLS qua Python
-url: /vi/python-java/conversion/xlsb-to-xls/
+
 description: Mã mẫu cho chuyển đổi xlsb sang xls Python. Sử dụng API mã mẫu cho hàng loạt tệp xlsb sang chuyển đổi xls trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

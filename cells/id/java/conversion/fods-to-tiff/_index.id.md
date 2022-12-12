@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan FODS ke TIFF melalui Java 
-url: /id/java/conversion/fods-to-tiff/ 
+
 description: Contoh Java kode konversi untuk format FODS ke file TIFF. Pemrogram dapat menggunakan kode contoh ini untuk mengekspor spreadsheet Excel & OpenOffice ke TIFF dalam Aplikasi berbasis Web atau Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

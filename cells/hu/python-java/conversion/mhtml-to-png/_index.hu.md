@@ -1,6 +1,6 @@
-﻿---
+---
 title: "MHTML konvertálása PNG-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/mhtml-to-png/
+
 description: Mintakód az mhtml–png Python konverzióhoz. Használjon API példakódot kötegelt mhtml fájlok png konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: مخطط مستند XLSB عبر Java 
 weight: 670
-url: /ar/java/chart/xlsb/ 
+
 description: Java نموذج تعليمة برمجية لرسم وتحويل مخطط أو رسم تخطيطي في ملف XLSB على Java Runtime Environment for JSP / JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

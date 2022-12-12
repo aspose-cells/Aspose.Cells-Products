@@ -1,6 +1,6 @@
-﻿---
+---
 title: Tạo tệp MS Excel XLT qua Python 
-url: /vi/python-java/create-xlt/ 
+
 description: Python Mã mẫu để tạo tài liệu XLT. Sử dụng mã này để tạo tệp MS Excel XLT trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

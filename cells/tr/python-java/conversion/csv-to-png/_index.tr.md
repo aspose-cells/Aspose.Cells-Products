@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla CSV'yi PNG'ye dönüştürün
-url: /tr/python-java/conversion/csv-to-png/
+
 description: csv'den png'ye Python dönüştürme için örnek kod. Python uygulamasında toplu csv dosyalarını png'ye dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

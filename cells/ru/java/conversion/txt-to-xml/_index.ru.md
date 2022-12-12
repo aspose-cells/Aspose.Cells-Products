@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование TXT в XML через Java 
-url: /ru/java/conversion/txt-to-xml/ 
+
 description: Пример кода преобразования Java для формата TXT в файл XML. Программисты могут использовать этот пример кода для экспорта электронных таблиц Excel и OpenOffice в формат XML в любом веб-приложении или настольном Java приложении.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

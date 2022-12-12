@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to ODS via C#
-url: /net/conversion/xltx-to-ods/
+
 description: Convert XLTX to ODS format in C# code. Save XLTX as ODS using VB.NET, Asp.NET or any .NET based application.
 ---
 

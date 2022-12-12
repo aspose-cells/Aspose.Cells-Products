@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TABDELIMITED konvertálása EMF-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/tabdelimited-to-emf/
+
 description: Mintakód a tabulátorral elválasztott emf Python konverzióhoz. Használjon API példakódot a tabulátorral tagolt fájlok kötegelt emf-konverziójához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

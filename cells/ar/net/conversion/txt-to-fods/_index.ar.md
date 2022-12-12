@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TXT إلى FODS عبر C#
-url: /ar/net/conversion/txt-to-fods/
+
 description: نموذج كود لتحويل TXT إلى fods C#. استخدم API رمز المثال لملفات txt الدفعية لتحويل fods داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

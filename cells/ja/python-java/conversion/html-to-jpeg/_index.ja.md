@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してHTMLをJPEGに変換します
-url: /ja/python-java/conversion/html-to-jpeg/
+
 description: htmlからjpegPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチhtmlファイルからjpegへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

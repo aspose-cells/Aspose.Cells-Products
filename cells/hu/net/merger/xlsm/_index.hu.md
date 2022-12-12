@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLSM-fájlok egyesítése a következőn keresztül: .NET "
 weight: 660
-url: /hu/net/merger/xlsm/ 
+
 description: C# forráskód az XLSM dokumentumok kombinálásához .NET Framework, .NET Core, Mono vagy Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

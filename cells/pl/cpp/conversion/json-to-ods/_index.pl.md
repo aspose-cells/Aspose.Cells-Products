@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj JSON na ODS za pomocą aplikacji C++ 
-url: /pl/cpp/conversion/json-to-ods/ 
+
 description: Przykładowy kod konwersji C++ dla dokumentu JSON na format ODS. Programiści mogą używać tego kodu źródłowego do wsadowej konwersji JSON na ODS w dowolnej aplikacji C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

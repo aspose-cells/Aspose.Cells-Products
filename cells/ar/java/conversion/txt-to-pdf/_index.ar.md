@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل TXT إلى PDF عبر Java 
 weight: 420
-url: /ar/java/conversion/txt-to-pdf/ 
+
 description: نموذج Java رمز التحويل لتنسيق TXT إلى ملف PDF. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel و OpenOffice إلى PDF داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

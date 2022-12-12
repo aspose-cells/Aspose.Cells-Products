@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してFODSをPDFに変換する
-url: /ja/net/conversion/fods-to-pdf/
+
 description: FODからPDFC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチfodファイルからpdfへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést JSON na EXCEL přes Python
-url: /cs/python-java/conversion/json-to-excel/
+
 description: Ukázkový kód pro konverzi json na excel Python. Použijte API ukázkový kód pro dávkové soubory json pro převod Excel v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

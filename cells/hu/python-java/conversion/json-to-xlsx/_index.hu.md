@@ -1,6 +1,6 @@
-﻿---
+---
 title: "JSON konvertálása XLSX-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/json-to-xlsx/
+
 description: Mintakód a json–xlsx Python konverzióhoz. Használjon API példakódot a json-fájlok kötegelt xlsx konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

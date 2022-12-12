@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to GIF via C#
-url: /net/conversion/txt-to-gif/
+
 description: Convert TXT to GIF format in C# code. Save TXT as GIF using VB.NET, Asp.NET or any .NET based application.
 ---
 

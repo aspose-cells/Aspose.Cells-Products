@@ -1,7 +1,7 @@
-﻿---
+---
 title: Suchen und ersetzen Sie Text im XLSM-Dokument über .NET 
 weight: 2370
-url: /de/net/redaction/xlsm/ 
+
 description: C#-Quellcode zum Schwärzen vertraulicher Informationen in XLSM-Dateien auf .NET Framework-, .NET Core-, Mono- oder Xamarin-Plattformen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Konvertálja az XLSB-t MARKDOWN-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/xlsb-to-markdown/
+
 description: Mintakód az xlsb-hez a Python konverzióhoz. Használjon API példakódot kötegelt xlsb fájlokhoz a konverzió leértékeléséhez a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

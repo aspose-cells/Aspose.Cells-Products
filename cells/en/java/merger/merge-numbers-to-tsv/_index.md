@@ -1,6 +1,6 @@
 ---
 title: Merge NUMBERS to TSV Files via Java 
-url: /java/merger/merge-numbers-to-tsv/ 
+
 description: Merge NUMBERS to TSV file in Java code. Combine NUMBERS to TSV file using Java based desktop or web application.
 ---
 

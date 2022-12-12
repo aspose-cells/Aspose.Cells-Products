@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to XPS via C++
-url: /cpp/conversion/ods-to-xps/
+
 description: Convert ODS to XPS format in C++ code. Save ODS as XPS using C++.
 ---
 

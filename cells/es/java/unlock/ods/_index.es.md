@@ -1,7 +1,7 @@
-﻿---
+---
 title: Desbloquear documento ODS a través de Java 
 weight: 5080
-url: /es/java/unlock/ods/ 
+
 description: Java código de muestra para desbloquear el archivo ODS protegido con contraseña en Java entorno de tiempo de ejecución para aplicaciones JSP/JSF y aplicaciones de escritorio.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

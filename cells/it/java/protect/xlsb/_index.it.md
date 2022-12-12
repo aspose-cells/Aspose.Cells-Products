@@ -1,7 +1,7 @@
-﻿---
+---
 title: Proteggi e blocca il documento XLSB tramite Java 
 weight: 6590
-url: /it/java/protect/xlsb/ 
+
 description: Java codice di esempio per bloccare il file XLSB utilizzando la password in Java Runtime Environment per l'applicazione JSP/JSF e le applicazioni desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla MS Excel XLT Dosyaları oluşturun 
-url: /tr/python-java/create-xlt/ 
+
 description: Python XLT belgeleri oluşturmak için örnek kod. Python uygulamasında MS Excel XLT dosyaları oluşturmak için bu kodu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

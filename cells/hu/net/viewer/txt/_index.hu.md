@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Tekintse meg a TXT fájlformátumokat a következőn keresztül: .NET "
 weight: 8300
-url: /hu/net/viewer/txt/ 
+
 description: C# forráskód a TXT dokumentumok betöltéséhez, rendereléséhez és megjelenítéséhez .NET Framework, .NET Core, Mono vagy Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

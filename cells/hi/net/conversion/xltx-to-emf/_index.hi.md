@@ -1,6 +1,6 @@
-﻿---
+---
 title: XLTX को EMF में बदलें C# के माध्यम से
-url: /hi/net/conversion/xltx-to-emf/
+
 description: xltx से emf C# रूपांतरण के लिए नमूना कोड। वीबी.NET, एएसपी.NET या किसी भी .NET आधारित एप्लिकेशन के भीतर ईएमएफ रूपांतरण के लिए बैच xltx फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

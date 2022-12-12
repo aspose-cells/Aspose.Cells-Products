@@ -1,7 +1,7 @@
-﻿---
+---
 title: Sloučit soubory XLSX přes Java 
 weight: 8930
-url: /cs/java/merger/xlsx/ 
+
 description: Java ukázkový kód pro kombinaci dokumentů XLSX v Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

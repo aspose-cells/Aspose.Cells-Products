@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Vízjel XLSX dokumentum a következőn keresztül: .NET "
 weight: 8270
-url: /hu/net/watermark/xlsx/ 
+
 description: C# forráskód vízjel hozzáadásához vagy eltávolításához az XLSX fájlhoz a .NET Framework, a .NET Core, a Mono vagy a Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

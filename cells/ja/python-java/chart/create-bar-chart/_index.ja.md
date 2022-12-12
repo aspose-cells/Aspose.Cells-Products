@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介して棒グラフを作成する
-url: /ja/python-java/create-bar-chart/
+
 description: PythonPythonライブラリを使用してExcelに棒グラフを作成するためのサンプルコード。このコードを使用して、Pythonベースのアプリケーション内でMSExcelへの棒グラフを作成します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

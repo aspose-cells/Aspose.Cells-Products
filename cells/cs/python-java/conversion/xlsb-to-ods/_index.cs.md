@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLSB na ODS přes Python
-url: /cs/python-java/conversion/xlsb-to-ods/
+
 description: Ukázkový kód pro převod xlsb na ods Python. Použijte API ukázkový kód pro dávkový převod souborů xlsb na ods v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

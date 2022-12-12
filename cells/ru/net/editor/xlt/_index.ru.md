@@ -1,6 +1,6 @@
-﻿---
+---
 title: Редактировать файлы XLT через .NET 
-url: /ru/net/editor/xlt/ 
+
 description: Исходный код C# для редактирования документа XLT на платформах .NET Framework, .NET Core, Windows Azure, Mono или Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

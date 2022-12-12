@@ -1,6 +1,6 @@
-﻿---
+---
 title: Δημιουργία Αρχείων TSV μέσω C# 
-url: /el/net/create-tsv/ 
+
 description: C# Δείγμα κώδικα για τη δημιουργία εγγράφων TSV. Χρησιμοποιήστε αυτόν τον κώδικα για τη δημιουργία αρχείων TSV σε VB.NET, Asp.NET ή οποιαδήποτε εφαρμογή που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

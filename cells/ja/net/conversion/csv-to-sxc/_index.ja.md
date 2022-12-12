@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してCSVをSXCに変換する
-url: /ja/net/conversion/csv-to-sxc/
+
 description: csvからsxcC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチcsvファイルからsxcへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Chránit a uzamknout dokument XLSM prostřednictvím C++ 
 weight: 8770
-url: /cs/cpp/protect/xlsm/ 
+
 description: C++ ukázkový kód pro uzamčení souboru XLSM pomocí hesla v C++ Runtime Environment pro Windows 32 bit, Windows 64 bit a Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

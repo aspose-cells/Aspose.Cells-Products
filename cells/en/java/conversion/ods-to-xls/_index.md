@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to XLS via Java 
-url: /java/conversion/ods-to-xls/
+
 description: Convert ODS to XLS format in Java code. Save ODS as XLS using Java.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#을(를) 통해 차트에 선 추가 
-url: /ko/net/add-line-in-chart/ 
+
 description: C# .NET 라이브러리를 사용하여 Excel에 차트의 선을 추가하기 위한 샘플 코드입니다. VB.NET, Asp.NET 또는 .NET 기반 응용 프로그램 내에서 MS Excel에 차트의 선을 추가하려면 이 코드를 사용하십시오.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

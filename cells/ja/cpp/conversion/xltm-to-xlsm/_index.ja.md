@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++アプリケーションを介してXLTMをXLSMに変換する 
-url: /ja/cpp/conversion/xltm-to-xlsm/ 
+
 description: XLTMドキュメントからXLSM形式へのサンプルC++変換コード。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でXLTMからXLSMへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

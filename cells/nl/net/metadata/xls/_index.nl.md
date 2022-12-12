@@ -1,7 +1,7 @@
-﻿---
+---
 title: Bekijk of bewerk XLS-bestanden metadata via .NET 
 weight: 1410
-url: /nl/net/metadata/xls/ 
+
 description: C# broncode om metadata in XLS-indeling te bewerken of te bekijken op .NET Framework-, .NET Core-, Mono- of Xamarin-platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

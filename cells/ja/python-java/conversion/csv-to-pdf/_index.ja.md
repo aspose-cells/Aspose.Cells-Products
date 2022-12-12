@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python経由でCSVをPDFに変換
-url: /ja/python-java/conversion/csv-to-pdf/
+
 description: csvからpdfPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチcsvファイルからpdfへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

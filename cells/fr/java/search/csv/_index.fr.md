@@ -1,7 +1,7 @@
-﻿---
+---
 title: Rechercher un document CSV sans ouvrir via Java 
 weight: 390
-url: /fr/java/search/csv/ 
+
 description: Java exemple de code pour rechercher des mots avec un modèle dans le fichier CSV sur Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert XLSX to XLT via Java 
-url: /java/conversion/xlsx-to-xlt/
+
 description: Convert XLSX to XLT format in Java code. Save XLSX as XLT using Java.
 ---
 

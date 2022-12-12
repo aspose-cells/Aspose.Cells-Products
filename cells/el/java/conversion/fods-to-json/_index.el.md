@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή FODS σε JSON μέσω Java 
-url: /el/java/conversion/fods-to-json/ 
+
 description: Δείγμα κώδικα μετατροπής Java για μορφή FODS σε αρχείο JSON. Οι προγραμματιστές μπορούν να χρησιμοποιήσουν αυτό το παράδειγμα κώδικα για να εξάγουν υπολογιστικά φύλλα Excel και OpenOffice σε JSON σε οποιαδήποτε εφαρμογή που βασίζεται στον Ιστό ή στην επιφάνεια εργασίας Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést NUMBERS na TXT přes Python
-url: /cs/python-java/conversion/numbers-to-txt/
+
 description: Ukázkový kód pro převod čísel na txt Python. Použijte API ukázkový kód pro převod souborů s čísly dávek na txt v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést CSV na XLT přes C#
-url: /cs/net/conversion/csv-to-xlt/
+
 description: Ukázkový kód pro převod csv na xlt C#. Použijte API ukázkový kód pro dávkové soubory csv na převod xlt v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

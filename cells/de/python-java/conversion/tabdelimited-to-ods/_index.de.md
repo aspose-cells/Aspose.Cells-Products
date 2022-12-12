@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie TABDELIMITED in ODS über Python
-url: /de/python-java/conversion/tabdelimited-to-ods/
+
 description: Beispielcode für die Umwandlung durch Tabulatortrennzeichen in Ods Python. Verwenden Sie den API-Beispielcode für die Batch-Konvertierung von tabulatorgetrennten Dateien in ods innerhalb der Anwendung Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

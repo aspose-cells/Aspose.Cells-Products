@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to TIFF via Java 
-url: /java/conversion/mhtml-to-tiff/
+
 description: Convert MHTML to TIFF format in Java code. Save MHTML as TIFF using Java.
 ---
 

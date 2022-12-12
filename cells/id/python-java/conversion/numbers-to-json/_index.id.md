@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi NUMBER ke JSON melalui Python
-url: /id/python-java/conversion/numbers-to-json/
+
 description: Contoh kode untuk angka ke json Python konversi. Gunakan API kode contoh untuk file nomor batch ke konversi json dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

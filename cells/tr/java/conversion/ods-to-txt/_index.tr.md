@@ -1,7 +1,7 @@
-﻿---
+---
 title: ODS'yi Java üzerinden TXT'ye dönüştürün 
 weight: 4320
-url: /tr/java/conversion/ods-to-txt/ 
+
 description: ODS biçimi için TXT dosyasına örnek Java dönüştürme kodu. Programcılar, Excel ve OpenOffice elektronik tablolarını herhangi bir Web veya Masaüstü Java tabanlı Uygulamada TXT'ye aktarmak için bu örnek kodu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

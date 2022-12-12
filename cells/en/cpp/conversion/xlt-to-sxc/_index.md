@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to SXC via C++
-url: /cpp/conversion/xlt-to-sxc/
+
 description: Convert XLT to SXC format in C++ code. Save XLT as SXC using C++.
 ---
 

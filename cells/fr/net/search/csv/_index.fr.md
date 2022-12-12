@@ -1,7 +1,7 @@
-﻿---
+---
 title: Rechercher un document CSV sans ouvrir via .NET 
 weight: 7510
-url: /fr/net/search/csv/ 
+
 description: Code source C# pour rechercher des mots avec un modèle dans le fichier CSV sur .NET Framework, .NET Core, Mono ou Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

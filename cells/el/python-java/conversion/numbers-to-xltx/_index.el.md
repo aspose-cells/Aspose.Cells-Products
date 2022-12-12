@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή NUMBERS σε XLTX μέσω Python
-url: /el/python-java/conversion/numbers-to-xltx/
+
 description: Δείγμα κώδικα για μετατροπή αριθμών σε xltx Python. Χρησιμοποιήστε API παράδειγμα κώδικα για αρχεία αριθμών παρτίδας σε μετατροπή xltx εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

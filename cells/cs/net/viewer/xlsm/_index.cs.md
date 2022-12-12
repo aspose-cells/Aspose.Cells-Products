@@ -1,7 +1,7 @@
-﻿---
+---
 title: Zobrazit formáty souborů XLSM prostřednictvím .NET 
 weight: 9980
-url: /cs/net/viewer/xlsm/ 
+
 description: C# zdrojový kód pro načítání, vykreslování a zobrazování dokumentů XLSM na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLT na SVG přes Python
-url: /cs/python-java/conversion/xlt-to-svg/
+
 description: Ukázkový kód pro převod xlt na svg Python. Použijte API ukázkový kód pro dávkový převod souborů xlt na svg v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLTM إلى SVG عبر C#
-url: /ar/net/conversion/xltm-to-svg/
+
 description: نموذج كود للتحويل من xltm إلى svg C#. استخدم API رمز المثال لملفات xltm الدفعية لتحويل svg داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

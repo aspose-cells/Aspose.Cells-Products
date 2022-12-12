@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést HTML na XLTM přes Java 
 weight: 6670
-url: /cs/java/conversion/html-to-xltm/ 
+
 description: Ukázka převodního kódu Java pro formát HTML na soubor XLTM. Programátoři mohou tento příklad kódu použít k exportu tabulek Excelu a OpenOffice do XLTM v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

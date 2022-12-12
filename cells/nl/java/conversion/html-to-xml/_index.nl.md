@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer HTML naar XML via Java 
-url: /nl/java/conversion/html-to-xml/ 
+
 description: Voorbeeld Java conversiecode voor HTML-indeling naar XML-bestand. Programmeurs kunnen deze voorbeeldcode gebruiken om Excel- en OpenOffice-spreadsheets naar XML te exporteren binnen elke web- of desktoptoepassing Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

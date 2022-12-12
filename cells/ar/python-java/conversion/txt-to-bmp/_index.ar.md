@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TXT إلى BMP عبر Python
-url: /ar/python-java/conversion/txt-to-bmp/
+
 description: نموذج رمز للتحويل من txt إلى bmp Python. استخدم API رمز المثال لملفات txt الدفعية لتحويل bmp داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

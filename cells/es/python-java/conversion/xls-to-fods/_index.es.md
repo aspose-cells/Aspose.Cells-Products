@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta XLS a FODS a través de Python
-url: /es/python-java/conversion/xls-to-fods/
+
 description: Código de muestra para la conversión de xls a fods Python. Use API código de ejemplo para archivos xls por lotes para la conversión de fods dentro de la aplicación Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

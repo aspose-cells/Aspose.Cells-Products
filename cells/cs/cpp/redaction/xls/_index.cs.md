@@ -1,7 +1,7 @@
-﻿---
+---
 title: Vyhledejte a nahraďte text v dokumentu XLS prostřednictvím C++ 
 weight: 380
-url: /cs/cpp/redaction/xls/ 
+
 description: C++ ukázkový kód pro redigování citlivých informací v souboru XLS v C++ Runtime Environment pro Windows 32bitový, Windows 64bitový a Linux 64bitový.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

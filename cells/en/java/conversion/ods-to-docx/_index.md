@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to DOCX via Java 
-url: /java/conversion/ods-to-docx/
+
 description: Convert ODS to DOCX format in Java code. Save ODS as DOCX using Java.
 ---
 

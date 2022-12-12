@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést FODS na EMF prostřednictvím Java 
-url: /cs/java/conversion/fods-to-emf/ 
+
 description: Ukázka převodního kódu Java pro formát FODS na soubor EMF. Programátoři mohou tento příklad kódu použít k exportu tabulek Excelu a OpenOffice do EMF v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLS na GIF přes Python
-url: /cs/python-java/conversion/xls-to-gif/
+
 description: Ukázkový kód pro převod xls na gif Python. Použijte API ukázkový kód pro dávkový převod souborů xls na gif v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

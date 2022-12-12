@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to EMF via Java 
-url: /java/conversion/ods-to-emf/
+
 description: Convert ODS to EMF format in Java code. Save ODS as EMF using Java.
 ---
 

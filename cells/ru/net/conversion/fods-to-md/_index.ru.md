@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование FODS в MD через C#
-url: /ru/net/conversion/fods-to-md/
+
 description: Пример кода для преобразования fods в md C#. Используйте пример кода API для пакетного преобразования файлов fods в md в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

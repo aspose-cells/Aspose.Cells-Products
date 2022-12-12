@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan SPREADSHEETML ke TIFF melalui C#
-url: /id/net/conversion/spreadsheetml-to-tiff/
+
 description: Contoh kode untuk spreadsheetml ke tiff C# konversi. Gunakan API kode contoh untuk file spreadsheetml batch ke konversi tiff dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

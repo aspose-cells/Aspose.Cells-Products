@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer XLT naar JSON via Java 
 weight: 4060
-url: /nl/java/conversion/xlt-to-json/ 
+
 description: Voorbeeld Java conversiecode voor XLT-indeling naar JSON-bestand. Programmeurs kunnen deze voorbeeldcode gebruiken om Excel- en OpenOffice-spreadsheets naar JSON te exporteren binnen elke web- of desktoptoepassing Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TXT konvertálása FODS-re a következőn keresztül: C#"
-url: /hu/net/conversion/txt-to-fods/
+
 description: Mintakód a txt-ből fods-ba C# konverzióhoz. Használjon API példakódot kötegelt txt fájlok konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converta XLTM para GIF por meio do aplicativo C++ 
-url: /pt/cpp/conversion/xltm-to-gif/ 
+
 description: Exemplo de código de conversão C++ para documento XLTM para formato GIF. Os programadores podem usar esse código-fonte para conversão em lote de XLTM para GIF em qualquer aplicativo C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

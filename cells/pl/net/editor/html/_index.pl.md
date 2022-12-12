@@ -1,6 +1,6 @@
-﻿---
+---
 title: Edytuj pliki HTML za pomocą .NET 
-url: /pl/net/editor/html/ 
+
 description: C# kod źródłowy do edycji dokumentu HTML w .NET Framework, .NET Core, Windows Azure, Mono lub Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

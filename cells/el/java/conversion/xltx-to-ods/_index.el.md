@@ -1,7 +1,7 @@
-﻿---
+---
 title: Μετατροπή XLTX σε ODS μέσω Java 
 weight: 1070
-url: /el/java/conversion/xltx-to-ods/ 
+
 description: Δείγμα κώδικα μετατροπής Java για μορφή XLTX σε αρχείο ODS. Οι προγραμματιστές μπορούν να χρησιμοποιήσουν αυτό το παράδειγμα κώδικα για να εξάγουν υπολογιστικά φύλλα Excel και OpenOffice σε ODS σε οποιαδήποτε εφαρμογή που βασίζεται στον Ιστό ή στην επιφάνεια εργασίας Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

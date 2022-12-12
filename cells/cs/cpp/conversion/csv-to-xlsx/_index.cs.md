@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převeďte CSV na XLSX pomocí aplikace C++ 
 weight: 4030
-url: /cs/cpp/conversion/csv-to-xlsx/ 
+
 description: Ukázkový konverzní kód C++ pro dokument CSV na formát XLSX. Programátoři mohou použít tento zdrojový kód pro dávkový převod CSV na XLSX v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

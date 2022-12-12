@@ -1,7 +1,7 @@
-﻿---
+---
 title: Bagan dokumen ODS melalui Java 
 weight: 2240
-url: /id/java/chart/ods/ 
+
 description: Java contoh kode untuk menggambar dan mengonversi bagan atau diagram dalam file ODS di Java Runtime Environment untuk Aplikasi JSP/JSF dan Aplikasi Desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

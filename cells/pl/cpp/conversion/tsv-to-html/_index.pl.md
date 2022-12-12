@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konwertuj TSV na HTML za pomocą aplikacji C++ 
 weight: 4980
-url: /pl/cpp/conversion/tsv-to-html/ 
+
 description: Przykładowy kod konwersji C++ dla dokumentu TSV do formatu HTML. Programiści mogą używać tego kodu źródłowego do wsadowej konwersji TSV na HTML w dowolnej aplikacji C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

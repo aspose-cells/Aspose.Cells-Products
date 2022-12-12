@@ -1,6 +1,6 @@
 ---
 title: Convert TSV to HTML via Java 
-url: /java/conversion/tsv-to-html/
+
 description: Convert TSV to HTML format in Java code. Save TSV as HTML using Java.
 ---
 

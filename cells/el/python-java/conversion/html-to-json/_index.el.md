@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή HTML σε JSON μέσω Python
-url: /el/python-java/conversion/html-to-json/
+
 description: Δείγμα κώδικα για μετατροπή html σε json Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία html σε μετατροπή json εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

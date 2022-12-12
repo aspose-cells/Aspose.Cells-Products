@@ -1,7 +1,7 @@
-﻿---
+---
 title: Skydda och lås XLSM-dokument via .NET 
 weight: 7530
-url: /sv/net/protect/xlsm/ 
+
 description: C# källkod för att låsa XLSM-fil med lösenord på .NET Framework, .NET Core, Mono eller Xamarin-plattformar.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل HTML إلى TSV عبر تطبيق C++ 
 weight: 2390
-url: /ar/cpp/conversion/html-to-tsv/ 
+
 description: نموذج رمز تحويل C++ لمستند HTML إلى تنسيق TSV. يمكن للمبرمجين استخدام رمز المصدر هذا لتحويل دفعة HTML إلى TSV داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

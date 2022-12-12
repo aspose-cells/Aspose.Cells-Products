@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++アプリケーションを介してXLSXをHTMLに変換する 
 weight: 7780
-url: /ja/cpp/conversion/xlsx-to-html/ 
+
 description: XLSXドキュメントからHTML形式へのサンプルC++変換コード。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でXLSXからHTMLへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

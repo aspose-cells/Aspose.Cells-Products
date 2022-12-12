@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertálja az XLSB-t PDF-be a(z) C++ alkalmazással 
 weight: 5360
-url: /hu/cpp/conversion/xlsb-to-pdf/ 
+
 description: Minta C++ konverziós kód az XLSB dokumentumhoz PDF formátumba. A programozók ezt a forráskódot használhatják az XLSB-ből PDF-be történő kötegelt konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převeďte XLSB na GIF pomocí aplikace C++ 
 weight: 5740
-url: /cs/cpp/conversion/xlsb-to-gif/ 
+
 description: Ukázka převodního kódu C++ pro dokument XLSB na formát GIF. Programátoři mohou použít tento zdrojový kód pro dávkovou konverzi XLSB na GIF v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

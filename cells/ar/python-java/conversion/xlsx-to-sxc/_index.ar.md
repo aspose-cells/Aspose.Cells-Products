@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLSX إلى SXC عبر Python
-url: /ar/python-java/conversion/xlsx-to-sxc/
+
 description: نموذج كود للتحويل من xlsx إلى sxc Python. استخدم API رمز المثال لملفات xlsx الدفعية لتحويل sxc داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

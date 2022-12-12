@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET üzerinden açmadan XLS belgesini arayın 
 weight: 1490
-url: /tr/net/search/xls/ 
+
 description: .NET Framework, .NET Core, Mono veya Xamarin Platformlarında XLS dosyasında kalıplı kelimeleri aramak için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

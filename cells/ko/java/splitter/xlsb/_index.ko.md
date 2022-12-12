@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java을(를) 통해 XLSB 파일 분할 
 weight: 7880
-url: /ko/java/splitter/xlsb/ 
+
 description: Java JSP/JSF 애플리케이션 및 데스크톱 애플리케이션을 위한 Java 런타임 환경에서 XLSB 문서를 분할하는 샘플 코드.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

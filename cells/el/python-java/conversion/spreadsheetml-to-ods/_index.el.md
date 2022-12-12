@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή SPREADSHEETML σε ODS μέσω Python
-url: /el/python-java/conversion/spreadsheetml-to-ods/
+
 description: Δείγμα κώδικα για τη μετατροπή υπολογιστικού φύλλου ml σε ods Python. Χρησιμοποιήστε API παράδειγμα κώδικα για μαζική μετατροπή υπολογιστικών φύλλων σε αποδόσεις εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

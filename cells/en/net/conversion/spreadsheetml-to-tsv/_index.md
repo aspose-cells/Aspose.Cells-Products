@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to TSV via C#
-url: /net/conversion/spreadsheetml-to-tsv/
+
 description: Convert SPREADSHEETML to TSV format in C# code. Save SPREADSHEETML as TSV using VB.NET, Asp.NET or any .NET based application.
 ---
 

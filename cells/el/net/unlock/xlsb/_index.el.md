@@ -1,7 +1,7 @@
-﻿---
+---
 title: Ξεκλείδωμα εγγράφου XLSB μέσω .NET 
 weight: 6410
-url: /el/net/unlock/xlsb/ 
+
 description: C# πηγαίος κώδικας για να ξεκλειδώσετε το προστατευμένο με κωδικό πρόσβασης αρχείο XLSB σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

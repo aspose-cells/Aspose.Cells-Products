@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer SPREADSHEETML naar GIF via C#
-url: /nl/net/conversion/spreadsheetml-to-gif/
+
 description: Voorbeeldcode voor conversie van spreadsheetml naar gif C#. Gebruik API voorbeeldcode voor batch-spreadsheetml-bestanden naar gif-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

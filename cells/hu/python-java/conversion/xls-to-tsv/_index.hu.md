@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLS konvertálása TSV-vé a következőn keresztül: Python"
-url: /hu/python-java/conversion/xls-to-tsv/
+
 description: Mintakód az xls–tsv Python konverzióhoz. Használjon API példakódot a kötegelt xls fájlok tsv konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to DOCX via Java 
-url: /java/conversion/xlsb-to-docx/
+
 description: Convert XLSB to DOCX format in Java code. Save XLSB as DOCX using Java.
 ---
 

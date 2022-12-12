@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to PDF via Python
-url: /python-java/conversion/html-to-pdf/
+
 description: Convert HTML to PDF format in Python code. Save HTML as PDF using Python.
 ---
 

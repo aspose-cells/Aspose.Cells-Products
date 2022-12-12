@@ -1,6 +1,6 @@
-﻿---
+---
 title: Buat Diagram Batang melalui C#
-url: /id/net/create-bar-chart/
+
 description: C# Contoh kode untuk membuat diagram batang ke Excel menggunakan .NET Pustaka. Gunakan kode ini untuk membuat diagram batang ke MS Excel dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

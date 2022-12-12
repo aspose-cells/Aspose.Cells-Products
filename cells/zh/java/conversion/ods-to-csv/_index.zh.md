@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通过 Java 将 ODS 转换为 CSV 
 weight: 4610
-url: /zh/java/conversion/ods-to-csv/ 
+
 description: ODS 格式到 CSV 文件的示例 Java 转换代码。程序员可以使用此示例代码在任何基于 Web 或桌面 Java 的应用程序中将 Excel 和 OpenOffice 电子表格导出为 CSV。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

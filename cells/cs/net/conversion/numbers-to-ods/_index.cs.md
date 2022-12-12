@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést NUMBERS na ODS přes C#
-url: /cs/net/conversion/numbers-to-ods/
+
 description: Ukázkový kód pro převod čísel na ods C#. Použijte API ukázkový kód pro dávkové soubory s čísly na převod ODS v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

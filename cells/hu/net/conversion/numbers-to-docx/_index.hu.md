@@ -1,6 +1,6 @@
-﻿---
+---
 title: "NUMBERS konvertálása DOCX-re a következőn keresztül: C#"
-url: /hu/net/conversion/numbers-to-docx/
+
 description: Mintakód számok docx C# konverziójához. Használjon API példakódot kötegszámfájlokhoz a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazás docx-konverziójához.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

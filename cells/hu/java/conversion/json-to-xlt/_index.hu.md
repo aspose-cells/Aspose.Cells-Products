@@ -1,7 +1,7 @@
-﻿---
+---
 title: "JSON konvertálása XLT-vé a következőn keresztül: Java "
 weight: 7430
-url: /hu/java/conversion/json-to-xlt/ 
+
 description: Minta Java konverziós kód a JSON-formátumhoz XLT-fájllá. A programozók ezt a példakódot használhatják Excel- és OpenOffice-táblázatok XLT-be exportálására bármely web- vagy asztali Java-alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

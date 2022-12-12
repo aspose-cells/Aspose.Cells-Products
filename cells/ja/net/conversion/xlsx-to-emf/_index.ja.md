@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してXLSXをEMFに変換します
-url: /ja/net/conversion/xlsx-to-emf/
+
 description: xlsxからemfC#への変換のサンプルコード。バッチxlsxファイルのAPIサンプルコードを使用して、VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内で変換をemfします。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Proteja e bloqueie o documento XLS via C++ 
 weight: 8760
-url: /pt/cpp/protect/xls/ 
+
 description: C++ código de exemplo para bloquear arquivo XLS usando senha em C++ Runtime Environment para Windows de 32 bits, Windows de 64 bits e Linux de 64 bits.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

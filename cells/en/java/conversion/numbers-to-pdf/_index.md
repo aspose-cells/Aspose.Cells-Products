@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to PDF via Java 
-url: /java/conversion/numbers-to-pdf/
+
 description: Convert NUMBERS to PDF format in Java code. Save NUMBERS as PDF using Java.
 ---
 

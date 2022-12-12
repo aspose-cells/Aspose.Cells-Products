@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してHTMLをMDに変換する
-url: /ja/python-java/conversion/html-to-md/
+
 description: htmlからmdPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチhtmlファイルからmdへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

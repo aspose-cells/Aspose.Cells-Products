@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование TXT в PDF через C#
-url: /ru/net/conversion/txt-to-pdf/
+
 description: Пример кода для преобразования txt в pdf C#. Используйте пример кода API для пакетного преобразования файлов txt в pdf в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

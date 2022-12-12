@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to WORD via C#
-url: /net/conversion/mhtml-to-word/
+
 description: Convert MHTML to WORD format in C# code. Save MHTML as WORD using VB.NET, Asp.NET or any .NET based application.
 ---
 

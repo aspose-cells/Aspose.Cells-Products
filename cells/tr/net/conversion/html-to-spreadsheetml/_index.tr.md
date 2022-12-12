@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla HTML'yi SPREADSHEETML'ye dönüştürün
-url: /tr/net/conversion/html-to-spreadsheetml/
+
 description: Html'den elektronik tabloyaml C# dönüşümü için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu html dosyalarından elektronik tabloml dönüşümüne API örnek kodu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

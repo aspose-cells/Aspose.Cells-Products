@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل HTML إلى CSV عبر Java 
 weight: 3290
-url: /ar/java/conversion/html-to-csv/ 
+
 description: نموذج لشفرة تحويل Java لتنسيق HTML إلى ملف CSV. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى CSV داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

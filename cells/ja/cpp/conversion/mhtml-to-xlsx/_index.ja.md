@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++アプリケーションを介してMHTMLをXLSXに変換する 
 weight: 3620
-url: /ja/cpp/conversion/mhtml-to-xlsx/ 
+
 description: MHTMLドキュメントからXLSX形式へのサンプルC++変換コード。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でMHTMLからXLSXへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

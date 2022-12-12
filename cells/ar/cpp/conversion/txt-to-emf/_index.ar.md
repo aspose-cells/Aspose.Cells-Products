@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TXT إلى EMF عبر تطبيق C++ 
-url: /ar/cpp/conversion/txt-to-emf/ 
+
 description: نموذج C++ رمز التحويل لمستند TXT إلى تنسيق EMF. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل TXT دفعة إلى EMF داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

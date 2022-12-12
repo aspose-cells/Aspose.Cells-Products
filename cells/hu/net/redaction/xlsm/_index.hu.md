@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Szöveg keresése és cseréje XLSM-dokumentumban a következőn keresztül: .NET "
 weight: 2370
-url: /hu/net/redaction/xlsm/ 
+
 description: C# forráskód az XLSM-fájl érzékeny információinak törléséhez a .NET Framework, .NET Core, Mono vagy Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

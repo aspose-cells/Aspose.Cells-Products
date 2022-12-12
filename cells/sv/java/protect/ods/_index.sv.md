@@ -1,7 +1,7 @@
-﻿---
+---
 title: Skydda och lås ODS-dokument via Java 
 weight: 6360
-url: /sv/java/protect/ods/ 
+
 description: Java exempelkod för att låsa ODS-fil med lösenord på Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

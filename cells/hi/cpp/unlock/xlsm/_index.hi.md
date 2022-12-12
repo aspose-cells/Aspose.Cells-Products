@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLSM दस्तावेज़ को C++ के माध्यम से अनलॉक करें 
 weight: 6070
-url: /hi/cpp/unlock/xlsm/ 
+
 description: C++ पासवर्ड से सुरक्षित XLSM फ़ाइल को अनलॉक करने के लिए उदाहरण कोड C++ विंडोज 32 बिट, विंडोज 64 बिट और लिनक्स 64 बिट के लिए रनटाइम एनवायरनमेंट।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

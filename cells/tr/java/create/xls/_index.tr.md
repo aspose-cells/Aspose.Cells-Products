@@ -1,6 +1,6 @@
-﻿---
+---
 title: Java aracılığıyla MS Excel XLS Dosyaları oluşturun 
-url: /tr/java/create-xls/ 
+
 description: Java XLS belgeleri oluşturmak için örnek kod. Java tabanlı masaüstü veya web uygulamasında MS Excel XLS dosyaları oluşturmak için bu kodu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

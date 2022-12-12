@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to PNG via C#
-url: /net/conversion/xlt-to-png/
+
 description: Convert XLT to PNG format in C# code. Save XLT as PNG using VB.NET, Asp.NET or any .NET based application.
 ---
 

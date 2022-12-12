@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLTM-et CSV-vé a C++ alkalmazással 
-url: /hu/cpp/conversion/xltm-to-csv/ 
+
 description: Minta C++ konverziós kód XLTM dokumentumhoz CSV formátumba. A programozók ezt a forráskódot használhatják kötegelt XLTM-ből CSV-vé konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

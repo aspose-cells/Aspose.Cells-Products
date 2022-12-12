@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή NUMBERS σε ODS μέσω C#
-url: /el/net/conversion/numbers-to-ods/
+
 description: Δείγμα κωδικού για τη μετατροπή αριθμών σε ods C#. Χρησιμοποιήστε API παράδειγμα κώδικα για αρχεία αριθμών παρτίδας σε μετατροπή αποδείξεων εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

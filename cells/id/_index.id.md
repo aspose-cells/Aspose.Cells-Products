@@ -1,7 +1,7 @@
-﻿---
+---
 title: Solusi Format File Excel
 weight: 7730
-url: /id/
+
 description: Buat aplikasi manipulasi file Excel menggunakan API Kode Tinggi atau Kode Rendah atau Aplikasi Tanpa Kode untuk melihat membandingkan, memeriksa atau mengonversi file Excel.
 ---
 {{< blocks/products/pf/main-wrap-class >}}

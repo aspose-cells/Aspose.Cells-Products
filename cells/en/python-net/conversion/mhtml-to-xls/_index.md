@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to XLS via Python
-url: /python-net/conversion/mhtml-to-xls/
+
 description: Sample code for mhtml to xls Python conversion. Use API example code for batch mhtml files to xls conversion within Python application.
 ---
 

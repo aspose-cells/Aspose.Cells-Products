@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to BMP via Python
-url: /python-net/conversion/tabdelimited-to-bmp/
+
 description: Sample code for tabdelimited to bmp Python conversion. Use API example code for batch tabdelimited files to bmp conversion within Python application.
 ---
 

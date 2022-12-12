@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie XLT in GIF über Python
-url: /de/python-java/conversion/xlt-to-gif/
+
 description: Beispielcode für die Umwandlung von xlt in gif Python. Verwenden Sie API Beispielcode für die Batch-Konvertierung von xlt-Dateien in gif innerhalb der Anwendung Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

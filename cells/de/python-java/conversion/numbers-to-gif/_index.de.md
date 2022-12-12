@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie NUMBERS in GIF über Python
-url: /de/python-java/conversion/numbers-to-gif/
+
 description: Beispielcode für die Umwandlung von Zahlen in gif Python. Verwenden Sie den API-Beispielcode für die Umwandlung von Stapelnummerndateien in GIFs innerhalb der Anwendung Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

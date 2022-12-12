@@ -1,6 +1,6 @@
-﻿---
+---
 title: NUMBERS'ı Python aracılığıyla XLTM'ye dönüştürün
-url: /tr/python-java/conversion/numbers-to-xltm/
+
 description: Sayıları xltm'ye Python dönüştürme için örnek kod. Python uygulamasında toplu iş numarası dosyalarını xltm'ye dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Protégez et verrouillez le document XLS via Java 
 weight: 5070
-url: /fr/java/protect/xls/ 
+
 description: Java Exemple de code pour verrouiller le fichier XLS à l'aide d'un mot de passe sur Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

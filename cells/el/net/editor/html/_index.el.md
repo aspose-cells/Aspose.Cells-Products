@@ -1,6 +1,6 @@
-﻿---
+---
 title: Επεξεργασία αρχείων HTML μέσω .NET 
-url: /el/net/editor/html/ 
+
 description: C# πηγαίος κώδικας για επεξεργασία εγγράφου HTML σε πλατφόρμες .NET Framework, .NET Core, Windows Azure, Mono ή Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

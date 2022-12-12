@@ -1,7 +1,7 @@
-﻿---
+---
 title: Prohledejte dokument XLSB bez otevření prostřednictvím C++ 
 weight: 7020
-url: /cs/cpp/search/xlsb/ 
+
 description: C++ ukázkový kód pro vyhledávání slov se vzorem v souboru XLSB v C++ Runtime Environment pro Windows 32 bit, Windows 64 bit a Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Szöveg és képek kinyerése XLSM-dokumentumból a következőn keresztül: Java "
 weight: 3260
-url: /hu/java/parser/xlsm/ 
+
 description: Java mintakód a szövegek és képek XLSM-fájlból való kivonásához a Java Runtime Environment for JSP/JSF alkalmazásokhoz és asztali alkalmazásokhoz.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

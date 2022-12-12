@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla XLS'yi XLSX'e dönüştürün
-url: /tr/python-java/conversion/xls-to-xlsx/
+
 description: xls'den xlsx'e Python dönüştürme için örnek kod. Python uygulamasında toplu xls dosyalarından xlsx'e dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

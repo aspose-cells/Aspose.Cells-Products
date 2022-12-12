@@ -1,6 +1,6 @@
-﻿---
+---
 title: تقسيم ورقة عمل Excel بلغة C#
-url: /ar/net/splitter/
+
 description: C# رموز المصدر التي تشرح كيفية تقسيم ملفات Microsoft Excel إلى ملفات متعددة في تطبيقات Visual C# .NET
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

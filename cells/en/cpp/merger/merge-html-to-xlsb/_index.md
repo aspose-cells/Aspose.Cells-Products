@@ -1,6 +1,6 @@
 ---
 title: Merge HTML to XLSB Files via C++ 
-url: /cpp/merger/merge-html-to-xlsb/ 
+
 description: Merge HTML to XLSB file in C++ code. Combine HTML to XLSB file using C++.
 ---
 

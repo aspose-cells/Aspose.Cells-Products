@@ -1,6 +1,6 @@
 ---
 title: Merge CSV to HTML Files via Java 
-url: /java/merger/merge-csv-to-html/ 
+
 description: Merge CSV to HTML file in Java code. Combine CSV to HTML file using Java based desktop or web application.
 ---
 

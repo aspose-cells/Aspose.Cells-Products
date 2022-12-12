@@ -1,7 +1,7 @@
-﻿---
+---
 title: C# aracılığıyla TSV'yi Bayt Dizisine dönüştürün 
 weight: 7690
-url: /tr/net/conversion/tsv-to-byte-array/ 
+
 description: C# TSV'den Bayt Dizisine dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde Excel TSV'den Bayt Dizisine dönüştürme için bu kodu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

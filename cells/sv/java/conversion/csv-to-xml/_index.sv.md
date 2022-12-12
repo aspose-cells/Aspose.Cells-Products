@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera CSV till XML via Java 
-url: /sv/java/conversion/csv-to-xml/ 
+
 description: Exempel på Java-konverteringskod för CSV-format till XML-fil. Programmerare kan använda den här exempelkoden för att exportera Excel- och OpenOffice-kalkylblad till XML inom alla webb- eller skrivbordsbaserade Javaapplikationer.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

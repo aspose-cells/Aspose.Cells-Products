@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python के माध्यम से ODS को PNG में बदलें
-url: /hi/python-java/conversion/ods-to-png/
+
 description: ods to png Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर पीएनजी रूपांतरण में बैच ऑड्स फाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

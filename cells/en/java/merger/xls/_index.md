@@ -1,7 +1,7 @@
 ---
 title: Merge XLS Files via Java 
 weight: 5140
-url: /java/merger/xls/ 
+
 description: Java sample code to combine XLS documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

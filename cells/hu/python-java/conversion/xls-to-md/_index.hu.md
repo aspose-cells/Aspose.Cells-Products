@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Konvertálja az XLS-t MD-vé a következőn keresztül: Python"
-url: /hu/python-java/conversion/xls-to-md/
+
 description: Mintakód az xls–md Python konverzióhoz. Használjon API példakódot a kötegelt xls fájlok md konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

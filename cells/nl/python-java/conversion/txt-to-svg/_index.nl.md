@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer TXT naar SVG via Python
-url: /nl/python-java/conversion/txt-to-svg/
+
 description: Voorbeeldcode voor conversie van txt naar svg Python. Gebruik API voorbeeldcode voor batch-txt-bestanden naar svg-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

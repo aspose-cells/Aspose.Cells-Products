@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja a TSV-t JPG-be a(z) C++ alkalmazással 
-url: /hu/cpp/conversion/tsv-to-jpg/ 
+
 description: Minta C++ konverziós kód a TSV-dokumentumhoz JPG formátumba. A programozók ezt a forráskódot használhatják kötegelt TSV-ből JPG-vé konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

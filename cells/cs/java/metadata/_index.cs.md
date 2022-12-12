@@ -1,6 +1,6 @@
-﻿---
+---
 title: Spravujte metadata souboru Excel prostřednictvím Java
-url: /cs/java/metadata/
+
 description: Zobrazujte, přidávejte, upravujte, odebírejte nebo extrahujte metadata souborů Excel pomocí několika řádků kódu Java
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

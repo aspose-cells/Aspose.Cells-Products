@@ -1,7 +1,7 @@
-﻿---
+---
 title: Αναζήτηση εγγράφου TSV χωρίς άνοιγμα μέσω C++ 
 weight: 930
-url: /el/cpp/search/tsv/ 
+
 description: C++ παράδειγμα κώδικα για αναζήτηση λέξεων με μοτίβο σε αρχείο TSV στο C++ Runtime Environment για Windows 32 bit, Windows 64 bit και Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

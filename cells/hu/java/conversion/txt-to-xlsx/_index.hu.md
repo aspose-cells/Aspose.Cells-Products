@@ -1,7 +1,7 @@
-﻿---
+---
 title: "TXT konvertálása XLSX-re a következőn keresztül: Java "
 weight: 7970
-url: /hu/java/conversion/txt-to-xlsx/ 
+
 description: Minta Java konverziós kód a TXT formátumhoz XLSX fájllá. A programozók ezt a példakódot használhatják Excel és OpenOffice táblázatok XLSX formátumba exportálására bármely web- vagy asztali Java alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

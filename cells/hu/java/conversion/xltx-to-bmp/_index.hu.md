@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLTX konvertálása BMP-vé a következőn keresztül: Java "
 weight: 5980
-url: /hu/java/conversion/xltx-to-bmp/ 
+
 description: Minta Java konverziós kód XLTX formátumhoz BMP fájllá. A programozók ezt a példakódot használhatják Excel- és OpenOffice-táblázatok exportálására BMP-be bármely web- vagy asztali Java-alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

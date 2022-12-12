@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してJSONをJPEGに変換する 
 weight: 5990
-url: /ja/java/conversion/json-to-jpeg/ 
+
 description: JSON形式からJPEGファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、WebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをJPEGにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SPREADSHEETML konvertálása XLS-re a következőn keresztül: Java "
-url: /hu/java/conversion/spreadsheetml-to-xls/ 
+
 description: Minta Java konverziós kód a SPREADSHEETML formátumhoz XLS fájllá. A programozók ezt a példakódot használhatják Excel és OpenOffice táblázatok XLS formátumba exportálására bármely web- vagy asztali Java alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

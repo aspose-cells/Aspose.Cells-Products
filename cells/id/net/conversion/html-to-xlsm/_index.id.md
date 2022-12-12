@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi HTML ke XLSM melalui C#
-url: /id/net/conversion/html-to-xlsm/
+
 description: Contoh kode untuk konversi html ke xlsm C#. Gunakan API kode contoh untuk file batch html ke konversi xlsm dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

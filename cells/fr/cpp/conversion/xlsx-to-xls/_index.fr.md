@@ -1,7 +1,7 @@
-﻿---
+---
 title: Convertissez XLSX en XLS via l'application C++ 
 weight: 2660
-url: /fr/cpp/conversion/xlsx-to-xls/ 
+
 description: Exemple de code de conversion C++ pour le document XLSX au format XLS. Les programmeurs peuvent utiliser ce code source pour la conversion par lots de XLSX en XLS dans n'importe quelle application C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

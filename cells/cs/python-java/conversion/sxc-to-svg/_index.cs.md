@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést SXC na SVG přes Python
-url: /cs/python-java/conversion/sxc-to-svg/
+
 description: Ukázkový kód pro převod sxc na svg Python. Použijte API ukázkový kód pro dávkový převod souborů sxc na svg v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

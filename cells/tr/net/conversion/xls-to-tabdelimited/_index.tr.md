@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla XLS'yi TABDELIMITED'e dönüştürün
-url: /tr/net/conversion/xls-to-tabdelimited/
+
 description: xls'den sekmeyle ayrılmış C# dönüşümüne ilişkin örnek kod. Toplu xls dosyaları için VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde sekmeyle ayrılmış dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

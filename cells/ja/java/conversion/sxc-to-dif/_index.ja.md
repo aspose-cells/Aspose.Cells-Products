@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してSXCをDIFに変換します 
-url: /ja/java/conversion/sxc-to-dif/ 
+
 description: SXC形式からDIFファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のDIFにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

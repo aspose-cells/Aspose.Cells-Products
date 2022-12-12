@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή HTML σε XML μέσω Python
-url: /el/python-java/conversion/html-to-xml/
+
 description: Δείγμα κώδικα για μετατροπή html σε xml Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδική μετατροπή αρχείων html σε xml εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

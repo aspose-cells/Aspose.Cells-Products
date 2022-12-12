@@ -1,6 +1,6 @@
 ---
 title: Convert TSV to EMF via Java 
-url: /java/conversion/tsv-to-emf/
+
 description: Convert TSV to EMF format in Java code. Save TSV as EMF using Java.
 ---
 

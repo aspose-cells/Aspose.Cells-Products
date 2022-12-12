@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést FODS na DOCX přes C#
-url: /cs/net/conversion/fods-to-docx/
+
 description: Ukázkový kód pro konverzi fod na docx C#. Použijte API ukázkový kód pro dávkové převody fods na docx v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

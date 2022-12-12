@@ -1,6 +1,6 @@
-﻿---
+---
 title: Divida la hoja de cálculo de Excel en hojas de trabajo en Java
-url: /es/java/splitter/
+
 description: Java códigos fuente que explican cómo dividir archivos de Microsoft Excel en varios documentos utilizando la biblioteca de Java Excel
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: XLTM को C# के माध्यम से ODS में बदलें
-url: /hi/net/conversion/xltm-to-ods/
+
 description: xltm से ods C# रूपांतरण के लिए नमूना कोड। VB.NET, Asp.NET या किसी .NET आधारित एप्लिकेशन के भीतर बैच xltm फ़ाइलों को ods रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

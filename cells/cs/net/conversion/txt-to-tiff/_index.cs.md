@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TXT na TIFF přes C#
-url: /cs/net/conversion/txt-to-tiff/
+
 description: Ukázkový kód pro převod txt na tiff C#. Použijte API ukázkový kód pro dávkové soubory txt pro převod tiff v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

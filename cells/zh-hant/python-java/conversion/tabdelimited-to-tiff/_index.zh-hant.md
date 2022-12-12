@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 Python 將 TABDELIMITED 轉換為 TIFF
-url: /zh-hant/python-java/conversion/tabdelimited-to-tiff/
+
 description: tabdelimited 到 tiff Python 轉換的示例代碼。使用批處理製表符分隔文件的 API 示例代碼在 Python 應用程序中進行 tiff 轉換。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

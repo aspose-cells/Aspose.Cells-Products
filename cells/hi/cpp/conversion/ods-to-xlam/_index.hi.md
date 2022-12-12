@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++ एप्लिकेशन . के माध्यम से ODS को XLAM में बदलें 
-url: /hi/cpp/conversion/ods-to-xlam/ 
+
 description: ODS दस्तावेज़ के लिए XLAM प्रारूप में नमूना C++ रूपांतरण कोड। प्रोग्रामर इस स्रोत कोड का उपयोग किसी भी C++ एप्लिकेशन में बैच ODS से XLAM रूपांतरण के लिए कर सकते हैं।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

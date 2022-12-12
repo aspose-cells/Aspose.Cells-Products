@@ -1,6 +1,6 @@
-﻿---
+---
 title: Hasilkan File Excel melalui C#
-url: /id/net/assembly/
+
 description: Buat spreadsheet Microsoft Excel dari lembar template menggunakan C# kode
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

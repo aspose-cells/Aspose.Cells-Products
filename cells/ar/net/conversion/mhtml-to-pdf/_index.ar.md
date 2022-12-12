@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل MHTML إلى PDF عبر C#
-url: /ar/net/conversion/mhtml-to-pdf/
+
 description: نموذج رمز للتحويل من mhtml إلى pdf C#. استخدم API رمز المثال لملفات mhtml المجمعة لتحويل pdf داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

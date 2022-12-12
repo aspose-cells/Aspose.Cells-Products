@@ -1,7 +1,7 @@
-﻿---
+---
 title: البحث في مستند TSV بدون الفتح عبر C++ 
 weight: 930
-url: /ar/cpp/search/tsv/ 
+
 description: C++ مثال على رمز للبحث عن الكلمات ذات النمط في ملف TSV في C++ Runtime Environment لأنظمة Windows 32 بت و Windows 64 بت و Linux 64 بت.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

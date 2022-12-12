@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python के माध्यम से TXT को DOCX में बदलें
-url: /hi/python-java/conversion/txt-to-docx/
+
 description: txt से docx Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर docx रूपांतरण में बैच txt फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

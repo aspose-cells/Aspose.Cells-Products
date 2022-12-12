@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή SPREADSHEETML σε TABDELIMITED μέσω Python
-url: /el/python-java/conversion/spreadsheetml-to-tabdelimited/
+
 description: Δείγμα κώδικα για μετατροπή υπολογιστικών φύλλων ml σε οριοθετημένη καρτέλα Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία υπολογιστικών φύλλων ml σε μετατροπή οριοθετημένης καρτέλας εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

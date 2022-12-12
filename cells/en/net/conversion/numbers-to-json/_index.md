@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to JSON via C#
-url: /net/conversion/numbers-to-json/
+
 description: Convert NUMBERS to JSON format in C# code. Save NUMBERS as JSON using VB.NET, Asp.NET or any .NET based application.
 ---
 

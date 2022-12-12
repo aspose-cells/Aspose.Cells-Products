@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi NUMBER ke JSON melalui C++ aplikasi 
-url: /id/cpp/conversion/numbers-to-json/ 
+
 description: Contoh C++ kode konversi untuk dokumen NUMBER ke format JSON. Pemrogram dapat menggunakan kode sumber ini untuk konversi NUMBER batch ke JSON dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

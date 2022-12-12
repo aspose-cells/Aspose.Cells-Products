@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to HTML via Java 
-url: /java/conversion/sxc-to-html/
+
 description: Convert SXC to HTML format in Java code. Save SXC as HTML using Java.
 ---
 

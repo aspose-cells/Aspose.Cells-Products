@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل MHTML إلى DIF عبر Python
-url: /ar/python-java/conversion/mhtml-to-dif/
+
 description: نموذج رمز للتحويل من mhtml إلى تمييز Python. استخدم API مثال الكود لملفات mhtml الدفعية لتعريف التحويل داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title:  .NET के माध्यम से छवियों के लिए XLS दस्तावेज़ चार्ट 
 weight: 3210
-url: /hi/net/chart/xls/ 
+
 description: .NET Framework, .NET Core, Mono या Xamarin Platforms पर XLS फ़ाइल में चार्ट या आरेख बनाने और परिवर्तित करने के लिए C# स्रोत कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

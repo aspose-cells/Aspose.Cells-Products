@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversi XLS ke TIFF melalui C++ aplikasi 
 weight: 3550
-url: /id/cpp/conversion/xls-to-tiff/ 
+
 description: Contoh C++ kode konversi untuk dokumen XLS ke format TIFF. Pemrogram dapat menggunakan kode sumber ini untuk konversi batch XLS ke TIFF dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

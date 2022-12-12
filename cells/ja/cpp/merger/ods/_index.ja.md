@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++を介してODSファイルをマージ 
-url: /ja/cpp/merger/ods/ 
+
 description: C++ Windows 32ビット、Windows 64ビット、Linux64ビットのランタイム環境でODSドキュメントを組み合わせるためのサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

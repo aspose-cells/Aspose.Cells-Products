@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển XLTM sang HTML qua Python
-url: /vi/python-java/conversion/xltm-to-html/
+
 description: Mã mẫu để chuyển đổi xltm sang html Python. Sử dụng API mã ví dụ cho hàng loạt tệp xltm sang chuyển đổi html trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

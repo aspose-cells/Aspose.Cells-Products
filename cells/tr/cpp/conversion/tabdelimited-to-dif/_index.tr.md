@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++ uygulaması aracılığıyla TABDELIMITED'i DIF'ye dönüştürün 
-url: /tr/cpp/conversion/tabdelimited-to-dif/ 
+
 description: TABDELIMITED belgesi için DIF biçimine örnek C++ dönüştürme kodu. Programcılar bu kaynak kodunu, herhangi bir C++ Uygulamasında toplu TABDELIMITED'den DIF'ye dönüştürme için kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

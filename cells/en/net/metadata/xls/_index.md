@@ -1,7 +1,7 @@
 ---
 title: View or Edit XLS Files Metadata via .NET 
 weight: 1410
-url: /net/metadata/xls/ 
+
 description: C# source code to edit or view XLS format metadata on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

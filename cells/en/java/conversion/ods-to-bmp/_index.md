@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to BMP via Java 
-url: /java/conversion/ods-to-bmp/
+
 description: Convert ODS to BMP format in Java code. Save ODS as BMP using Java.
 ---
 

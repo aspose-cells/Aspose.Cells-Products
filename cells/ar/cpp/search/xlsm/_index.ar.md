@@ -1,7 +1,7 @@
-﻿---
+---
 title: بحث في مستند XLSM بدون فتح عبر C++ 
 weight: 9280
-url: /ar/cpp/search/xlsm/ 
+
 description: C++ مثال على رمز للبحث عن الكلمات ذات النمط في ملف XLSM في C++ Runtime Environment لأنظمة التشغيل Windows 32 بت و Windows 64 بت و Linux 64 بت.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

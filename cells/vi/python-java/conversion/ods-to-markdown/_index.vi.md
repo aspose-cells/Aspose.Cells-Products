@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi ODS thành MARKDOWN qua Python
-url: /vi/python-java/conversion/ods-to-markdown/
+
 description: Mã mẫu cho chuyển đổi ods to markdown Python. Sử dụng mã mẫu API cho các tệp ods hàng loạt để chuyển đổi đánh dấu trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést TXT na GIF přes Java 
 weight: 1100
-url: /cs/java/conversion/txt-to-gif/ 
+
 description: Ukázkový konverzní kód Java pro formát TXT na soubor GIF. Programátoři mohou tento příklad kódu použít k exportu tabulek Excelu a OpenOffice do formátu GIF v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

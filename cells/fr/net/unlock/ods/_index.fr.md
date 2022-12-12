@@ -1,7 +1,7 @@
-﻿---
+---
 title: Déverrouiller le document ODS via .NET 
 weight: 3110
-url: /fr/net/unlock/ods/ 
+
 description: Code source C# pour déverrouiller le fichier ODS protégé par mot de passe sur .NET Framework, .NET Core, Mono ou Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

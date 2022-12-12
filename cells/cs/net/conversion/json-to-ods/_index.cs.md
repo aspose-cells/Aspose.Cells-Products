@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést JSON na ODS přes C#
-url: /cs/net/conversion/json-to-ods/
+
 description: Ukázkový kód pro konverzi json na ods C#. Použijte API ukázkový kód pro dávkový převod souborů json na ODS v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

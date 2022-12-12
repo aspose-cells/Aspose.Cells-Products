@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TSV konvertálása PNG-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/tsv-to-png/
+
 description: Mintakód a tsv-ből png-be Python konverzióhoz. Használjon API példakódot kötegelt tsv-fájlokhoz png-konverzióvá a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

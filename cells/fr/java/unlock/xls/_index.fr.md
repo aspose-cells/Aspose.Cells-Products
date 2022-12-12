@@ -1,7 +1,7 @@
-﻿---
+---
 title: Déverrouiller le document XLS via Java 
 weight: 6390
-url: /fr/java/unlock/xls/ 
+
 description: Java exemple de code pour déverrouiller le fichier XLS protégé par mot de passe sur Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

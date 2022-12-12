@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل JSON إلى HTML عبر تطبيق C++ 
-url: /ar/cpp/conversion/json-to-html/ 
+
 description: نموذج رمز تحويل C++ لمستند JSON إلى تنسيق HTML. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل دفعة JSON إلى HTML داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

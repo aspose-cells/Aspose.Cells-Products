@@ -1,6 +1,6 @@
 ---
 title: Merge MHT to XLSB Files via C++ 
-url: /cpp/merger/merge-mht-to-xlsb/ 
+
 description: Merge MHT to XLSB file in C++ code. Combine MHT to XLSB file using C++.
 ---
 

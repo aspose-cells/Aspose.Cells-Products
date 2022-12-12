@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer CSV naar JPG via C#
-url: /nl/net/conversion/csv-to-jpg/
+
 description: Voorbeeldcode voor conversie van csv naar jpg C#. Gebruik API voorbeeldcode voor batch-csv-bestanden naar jpg-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Vyhledejte a nahraďte text v dokumentu XLSM prostřednictvím C++ 
 weight: 9570
-url: /cs/cpp/redaction/xlsm/ 
+
 description: C++ ukázkový kód pro redigování citlivých informací v souboru XLSM v C++ Runtime Environment pro Windows 32bit, Windows 64bit a Linux 64bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

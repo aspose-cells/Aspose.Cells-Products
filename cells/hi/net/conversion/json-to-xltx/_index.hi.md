@@ -1,6 +1,6 @@
-﻿---
+---
 title: JSON को C# के माध्यम से XLTX में बदलें
-url: /hi/net/conversion/json-to-xltx/
+
 description: जेसन से xltx C# रूपांतरण के लिए नमूना कोड। VB.NET, Asp.NET या किसी .NET आधारित एप्लिकेशन में बैच json फ़ाइलों के xltx रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

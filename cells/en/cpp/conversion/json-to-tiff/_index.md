@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to TIFF via C++
-url: /cpp/conversion/json-to-tiff/
+
 description: Convert JSON to TIFF format in C++ code. Save JSON as TIFF using C++.
 ---
 

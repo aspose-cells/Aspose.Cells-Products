@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer NUMMERS naar XLSX via Python
-url: /nl/python-java/conversion/numbers-to-xlsx/
+
 description: Voorbeeldcode voor conversie van getallen naar xlsx Python. Gebruik API voorbeeldcode voor batchnummerbestanden naar xlsx-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Anotace souboru Excel prostřednictvím Java
-url: /cs/java/annotation/
+
 description: Přidejte nebo odeberte datovou anotaci tabulek Excelu a OpenOffice s knihovnou Java.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

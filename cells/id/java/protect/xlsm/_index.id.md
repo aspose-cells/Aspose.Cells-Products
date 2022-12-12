@@ -1,7 +1,7 @@
-﻿---
+---
 title: Lindungi dan kunci dokumen XLSM melalui Java 
 weight: 9620
-url: /id/java/protect/xlsm/ 
+
 description: Java contoh kode untuk mengunci file XLSM menggunakan sandi di Java Runtime Environment untuk Aplikasi JSP/JSF dan Aplikasi Desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

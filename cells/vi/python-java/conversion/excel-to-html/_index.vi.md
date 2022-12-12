@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển EXCEL sang HTML qua Python
-url: /vi/python-java/conversion/excel-to-html/
+
 description: Mã mẫu để chuyển đổi excel sang html Python. Sử dụng mã mẫu API cho chuyển đổi hàng loạt tệp excel sang html trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

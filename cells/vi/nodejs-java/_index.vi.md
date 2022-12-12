@@ -1,7 +1,7 @@
-﻿---
+---
 title: Các API Node.js cho Bảng tính Excel - Aspose 
 weight: 3120
-url: /vi/nodejs-java/ 
+
 description: Xử lý các định dạng tệp Excel thông qua thư viện Node.js. Đọc ghi kết xuất và chuyển đổi XLS XLSX XLSB XLTX XLTM XLSM XML ODS CSV và các định dạng khác qua Node.js trên Windows, macOS & Linux
 ---
 {{< blocks/products/pf/main-wrap-class >}}

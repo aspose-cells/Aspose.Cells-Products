@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLSM-et JPG-be a(z) C++ alkalmazással 
-url: /hu/cpp/conversion/xlsm-to-jpg/ 
+
 description: Minta C++ konverziós kód XLSM dokumentumhoz JPG formátumba. A programozók ezt a forráskódot használhatják kötegelt XLSM-ből JPG-vé konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

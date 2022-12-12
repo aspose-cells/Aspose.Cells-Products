@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převeďte HTML na JPEG pomocí aplikace C++ 
 weight: 7270
-url: /cs/cpp/conversion/html-to-jpeg/ 
+
 description: Ukázka převodního kódu C++ pro dokument HTML do formátu JPEG. Programátoři mohou použít tento zdrojový kód pro dávkový převod HTML na JPEG v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title:  通过 .NET 将 XLSX 文档图表转换为图像 
 weight: 2630
-url: /zh/net/chart/xlsx/ 
+
 description: C# 用于在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上绘制和转换 XLSX 文件中的图表或图表的源代码。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

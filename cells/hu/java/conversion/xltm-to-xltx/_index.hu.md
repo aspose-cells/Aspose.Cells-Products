@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLTM konvertálása XLTX-re a következőn keresztül: Java "
 weight: 5120
-url: /hu/java/conversion/xltm-to-xltx/ 
+
 description: Minta Java konverziós kód az XLTM formátumhoz XLTX fájllá. A programozók ezt a példakódot használhatják Excel és OpenOffice táblázatok XLTX formátumba exportálására bármely web- vagy asztali Java alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

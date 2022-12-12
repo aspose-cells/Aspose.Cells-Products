@@ -1,7 +1,7 @@
-﻿---
+---
 title: Экспорт отчетов RDL в Excel XLS XLSX и SpreadsheetML в SQL Server 
 weight: 3460
-url: /ru/reporting-services/ 
+
 description: Модуль рендеринга SQL Server Reporting Services — экспорт в форматы Excel XLS XLSX XLSM XLSB CSV SpreadsheetML HTML ODS и TXT
 ---
 {{< blocks/products/pf/main-wrap-class >}}

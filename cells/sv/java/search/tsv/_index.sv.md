@@ -1,7 +1,7 @@
-﻿---
+---
 title: Sök i TSV-dokument utan att öppna via Java 
 weight: 4940
-url: /sv/java/search/tsv/ 
+
 description: Java exempelkod för att söka efter ord med mönster i TSV-fil i Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

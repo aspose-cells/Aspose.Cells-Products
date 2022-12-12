@@ -1,6 +1,6 @@
-﻿---
+---
 title: Twórz pliki PDF za pomocą Python 
-url: /pl/python-java/create-pdf/ 
+
 description: Python Przykładowy kod do generowania dokumentów PDF. Użyj tego kodu do tworzenia plików PDF w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

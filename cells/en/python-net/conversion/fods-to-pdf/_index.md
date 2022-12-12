@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to PDF via Python
-url: /python-net/conversion/fods-to-pdf/
+
 description: Sample code for fods to pdf Python conversion. Use API example code for batch fods files to pdf conversion within Python application.
 ---
 

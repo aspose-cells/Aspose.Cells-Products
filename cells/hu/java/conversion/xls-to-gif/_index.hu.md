@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLS konvertálása GIF-re a következőn keresztül: Java "
 weight: 210
-url: /hu/java/conversion/xls-to-gif/ 
+
 description: Minta Java konverziós kód XLS-formátumhoz GIF-fájllá. A programozók ezt a példakódot használhatják Excel és OpenOffice táblázatok exportálására GIF formátumba bármely web- vagy asztali Java alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

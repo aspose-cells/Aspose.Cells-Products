@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan XLT ke TABDELIMITED melalui C#
-url: /id/net/conversion/xlt-to-tabdelimited/
+
 description: Contoh kode untuk konversi xlt ke tabdelimited C#. Gunakan API kode contoh untuk file batch xlt ke konversi tabdelimited dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

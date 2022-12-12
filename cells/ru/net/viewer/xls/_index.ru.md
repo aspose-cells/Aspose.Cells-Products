@@ -1,7 +1,7 @@
-﻿---
+---
 title: Просмотр форматов файлов XLS через .NET 
 weight: 1260
-url: /ru/net/viewer/xls/ 
+
 description: Исходный код C# для загрузки, обработки и отображения документов XLS на платформах .NET Framework, .NET Core, Mono или Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

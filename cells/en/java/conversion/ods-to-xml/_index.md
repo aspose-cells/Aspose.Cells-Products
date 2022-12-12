@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to XML via Java 
-url: /java/conversion/ods-to-xml/
+
 description: Convert ODS to XML format in Java code. Save ODS as XML using Java.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLT na DOCX přes Python
-url: /cs/python-java/conversion/xlt-to-docx/
+
 description: Ukázkový kód pro převod xlt na docx Python. Použijte API ukázkový kód pro dávkový převod souborů xlt na docx v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

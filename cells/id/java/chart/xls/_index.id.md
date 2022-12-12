@@ -1,7 +1,7 @@
-﻿---
+---
 title: Bagan dokumen XLS melalui Java 
 weight: 1050
-url: /id/java/chart/xls/ 
+
 description: Java contoh kode untuk menggambar dan mengonversi bagan atau diagram dalam file XLS di Java Runtime Environment untuk Aplikasi JSP/JSF dan Aplikasi Desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Buat File TSV melalui Java 
-url: /id/java/create-tsv/ 
+
 description: Java Contoh kode untuk membuat dokumen TSV. Gunakan kode ini untuk membuat file TSV dalam Java desktop atau aplikasi web berbasis.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

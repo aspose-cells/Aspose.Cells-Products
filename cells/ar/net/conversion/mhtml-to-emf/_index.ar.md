@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل MHTML إلى EMF عبر C#
-url: /ar/net/conversion/mhtml-to-emf/
+
 description: نموذج رمز للتحويل من mhtml إلى emf C#. استخدم API رمز المثال لملفات mhtml الدفعية لتحويل emf داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: รวมไฟล์ XLSB ผ่าน .NET 
 weight: 2970
-url: /th/net/merger/xlsb/ 
+
 description: C# ซอร์สโค้ดเพื่อรวมเอกสาร XLSB บน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

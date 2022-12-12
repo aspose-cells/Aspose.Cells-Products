@@ -1,7 +1,7 @@
-﻿---
+---
 title: Ekspor Laporan di Excel XLS XLSX PDF ODS di JasperReports dan JasperServer 
 weight: 9460
-url: /id/jasperreports/ 
+
 description: Ekspor laporan dari Jasper Reports dan JasperServer dalam format Excel XLS XLSX PDF ODS TXT dan SpreadsheetML. Juga cetak laporan sebagai Excel Spreadsheets
 ---
 {{< blocks/products/pf/main-wrap-class >}}

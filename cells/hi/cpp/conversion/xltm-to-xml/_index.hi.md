@@ -1,6 +1,6 @@
-﻿---
+---
 title: XLTM को C++ एप्लिकेशन के माध्यम से XML में बदलें 
-url: /hi/cpp/conversion/xltm-to-xml/ 
+
 description: नमूना C++ एक्सएलटीएम दस्तावेज़ के लिए एक्सएमएल प्रारूप में रूपांतरण कोड। प्रोग्रामर इस स्रोत कोड का उपयोग किसी भी C++ एप्लिकेशन में बैच XLTM से XML रूपांतरण के लिए कर सकते हैं।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

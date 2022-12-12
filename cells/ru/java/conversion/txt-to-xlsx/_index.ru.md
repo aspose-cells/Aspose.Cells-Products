@@ -1,7 +1,7 @@
-﻿---
+---
 title: Преобразование TXT в XLSX через Java 
 weight: 7970
-url: /ru/java/conversion/txt-to-xlsx/ 
+
 description: Пример кода преобразования Java для формата TXT в файл XLSX. Программисты могут использовать этот пример кода для экспорта электронных таблиц Excel и OpenOffice в формат XLSX в любом веб-или настольном Java приложении.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

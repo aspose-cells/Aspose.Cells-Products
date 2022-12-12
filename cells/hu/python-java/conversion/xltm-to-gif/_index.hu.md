@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLTM konvertálása GIF formátumba a következőn keresztül: Python"
-url: /hu/python-java/conversion/xltm-to-gif/
+
 description: Mintakód xltm-ből gif-be Python. Használjon API példakódot kötegelt xltm fájlok gif konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

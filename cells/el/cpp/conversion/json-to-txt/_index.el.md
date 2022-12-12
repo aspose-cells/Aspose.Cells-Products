@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή JSON σε TXT μέσω της εφαρμογής C++ 
-url: /el/cpp/conversion/json-to-txt/ 
+
 description: Δείγμα κώδικα μετατροπής C++ για έγγραφο JSON σε μορφή TXT. Οι προγραμματιστές μπορούν να χρησιμοποιήσουν αυτόν τον πηγαίο κώδικα για ομαδική μετατροπή JSON σε TXT σε οποιαδήποτε εφαρμογή C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++アプリケーションを介してXLTMをSVGに変換する 
-url: /ja/cpp/conversion/xltm-to-svg/ 
+
 description: XLTMドキュメントからSVG形式へのサンプルC++変換コード。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でXLTMからSVGへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง XLSB เป็น TXT ผ่าน Python
-url: /th/python-java/conversion/xlsb-to-txt/
+
 description: โค้ดตัวอย่างสำหรับการแปลง xlsb เป็น txt Python ใช้โค้ดตัวอย่าง API สำหรับไฟล์ xlsb แบบแบตช์เป็นการแปลง txt ภายในแอปพลิเคชัน Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

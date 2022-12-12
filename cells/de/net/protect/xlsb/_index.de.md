@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLSB-Dokument über .NET schützen und sperren 
 weight: 5920
-url: /de/net/protect/xlsb/ 
+
 description: C#-Quellcode zum Sperren der XLSB-Datei mit Kennwort auf .NET Framework-, .NET Core-, Mono- oder Xamarin-Plattformen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

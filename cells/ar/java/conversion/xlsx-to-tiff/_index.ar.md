@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل XLSX إلى TIFF عبر Java 
 weight: 6730
-url: /ar/java/conversion/xlsx-to-tiff/ 
+
 description: نموذج رمز تحويل Java لتنسيق XLSX إلى ملف TIFF. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel و OpenOffice إلى TIFF داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

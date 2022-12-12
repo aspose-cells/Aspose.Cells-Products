@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TSV na DOCX prostřednictvím C#
-url: /cs/net/conversion/tsv-to-docx/
+
 description: Ukázkový kód pro převod tsv na docx C#. Použijte API ukázkový kód pro dávkový převod souborů tsv na docx v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

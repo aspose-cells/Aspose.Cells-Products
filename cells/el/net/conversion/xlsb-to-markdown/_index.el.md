@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή XLSB σε MARKDOWN μέσω C#
-url: /el/net/conversion/xlsb-to-markdown/
+
 description: Δείγμα κώδικα για μετατροπή xlsb σε σήμανση C#. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία xlsb για να επισημάνετε τη μετατροπή εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

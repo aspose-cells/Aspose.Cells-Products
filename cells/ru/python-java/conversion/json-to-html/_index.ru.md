@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование JSON в HTML через Python
-url: /ru/python-java/conversion/json-to-html/
+
 description: Пример кода для преобразования json в html Python. Используйте пример кода API для пакетного преобразования файлов json в html в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

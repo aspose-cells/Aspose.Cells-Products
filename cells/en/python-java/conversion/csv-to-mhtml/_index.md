@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to MHTML via Python
-url: /python-java/conversion/csv-to-mhtml/
+
 description: Convert CSV to MHTML format in Python code. Save CSV as MHTML using Python.
 ---
 

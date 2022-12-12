@@ -1,6 +1,6 @@
-﻿---
+---
 title: Tạo Tệp MHTML qua C# 
-url: /vi/net/create-mhtml/ 
+
 description: C# Mã mẫu để tạo tài liệu MHTML. Sử dụng mã này để tạo tệp MHTML trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή TXT σε XPS μέσω Python
-url: /el/python-java/conversion/txt-to-xps/
+
 description: Δείγμα κώδικα για μετατροπή txt σε xps Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδική μετατροπή αρχείων txt σε xps εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

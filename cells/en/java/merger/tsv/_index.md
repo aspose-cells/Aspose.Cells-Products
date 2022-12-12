@@ -1,7 +1,7 @@
 ---
 title: Merge TSV Files via Java 
 weight: 9260
-url: /java/merger/tsv/ 
+
 description: Java sample code to combine TSV documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

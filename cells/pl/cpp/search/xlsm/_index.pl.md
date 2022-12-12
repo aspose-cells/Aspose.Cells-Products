@@ -1,7 +1,7 @@
-﻿---
+---
 title: Przeszukaj dokument XLSM bez otwierania przez C++ 
 weight: 9280
-url: /pl/cpp/search/xlsm/ 
+
 description: C++ przykładowy kod do wyszukiwania słów ze wzorcem w pliku XLSM w C++ środowisku wykonawczym dla Windows 32-bitowy, Windows 64-bitowy i Linux 64-bitowy.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

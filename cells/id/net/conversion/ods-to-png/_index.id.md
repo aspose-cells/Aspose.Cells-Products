@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan ODS ke PNG melalui C#
-url: /id/net/conversion/ods-to-png/
+
 description: Contoh kode untuk konversi ods ke png C#. Gunakan API kode contoh untuk file batch ods ke konversi png dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

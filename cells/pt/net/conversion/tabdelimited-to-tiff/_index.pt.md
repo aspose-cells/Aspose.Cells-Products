@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter TABDELIMITED para TIFF via C#
-url: /pt/net/conversion/tabdelimited-to-tiff/
+
 description: Código de amostra para conversão delimitada por tabulação para tiff C#. Use API código de exemplo para arquivos delimitados por tabulação em lote para conversão tiff em VB.NET, Asp.NET ou qualquer aplicativo baseado em .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง FODS เป็น XLS ผ่าน C#
-url: /th/net/conversion/fods-to-xls/
+
 description: โค้ดตัวอย่างสำหรับการแปลง fods เป็น xls C# ใช้โค้ดตัวอย่าง API สำหรับไฟล์แบตช์ fods เป็นการแปลง xls ภายใน VB.NET, Asp.NET หรือแอปพลิเคชันที่ใช้ .NET
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

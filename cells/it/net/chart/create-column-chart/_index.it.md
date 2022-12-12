@@ -1,6 +1,6 @@
-﻿---
+---
 title: Crea istogrammi tramite C#
-url: /it/net/create-column-chart/
+
 description: C# Codice di esempio per la creazione di istogrammi in Excel utilizzando .NET Libreria. Utilizzare questo codice per creare un istogramma in MS Excel all'interno di VB.NET, Asp.NET o qualsiasi applicazione basata su .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

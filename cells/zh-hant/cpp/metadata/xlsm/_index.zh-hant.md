@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通過 C++ 編輯或查看 XLSM 文檔元數據 
 weight: 1300
-url: /zh-hant/cpp/metadata/xlsm/ 
+
 description: C++ 在 Windows 32 位、Windows 64 位和 Linux 64 位的 C++ 運行時環境中編輯或查看 XLSM 文件元數據的示例代碼。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

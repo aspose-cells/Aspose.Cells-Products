@@ -1,7 +1,7 @@
-﻿---
+---
 title: Преобразование XLS в XLTM через Java 
 weight: 6490
-url: /ru/java/conversion/xls-to-xltm/ 
+
 description: Пример кода преобразования Java для формата XLS в файл XLTM. Программисты могут использовать этот пример кода для экспорта электронных таблиц Excel и OpenOffice в формат XLTM в любом веб- или настольном Java приложении.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

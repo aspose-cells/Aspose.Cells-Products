@@ -1,6 +1,6 @@
-﻿---
+---
 title: Modifica i file XLSB tramite .NET 
-url: /it/net/editor/xlsb/ 
+
 description: C# codice sorgente per modificare il documento XLSB su piattaforme .NET Framework, .NET Core, Windows Azure, Mono o Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

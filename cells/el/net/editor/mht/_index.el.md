@@ -1,6 +1,6 @@
-﻿---
+---
 title: Επεξεργασία αρχείων MHT μέσω .NET 
-url: /el/net/editor/mht/ 
+
 description: C# πηγαίος κώδικας για επεξεργασία εγγράφου MHT σε πλατφόρμες .NET Framework, .NET Core, Windows Azure, Mono ή Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

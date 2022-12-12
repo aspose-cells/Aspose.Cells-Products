@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してXLTMをXLTに変換します
-url: /ja/python-java/conversion/xltm-to-xlt/
+
 description: xltmからxltPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチxltmファイルからxltへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

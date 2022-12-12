@@ -1,6 +1,6 @@
 ---
 title: Merge ODS to ODS Files via Python 
-url: /python-java/merger/merge-ods-to-ods/ 
+
 description: Merge ODS to ODS file in Python code. Combine ODS to ODS file using Python.
 ---
 

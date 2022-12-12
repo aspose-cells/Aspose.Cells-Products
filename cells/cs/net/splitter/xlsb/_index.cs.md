@@ -1,7 +1,7 @@
-﻿---
+---
 title: Rozdělit soubory XLSB prostřednictvím .NET 
 weight: 7370
-url: /cs/net/splitter/xlsb/ 
+
 description: Zdrojový kód C# pro rozdělení dokumentů XLSB na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通过 Java 拆分 XLSB 文件 
 weight: 7880
-url: /zh/java/splitter/xlsb/ 
+
 description: Java 用于在 Java JSP/JSF 应用程序和桌面应用程序的运行时环境中拆分 XLSB 文档的示例代码。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

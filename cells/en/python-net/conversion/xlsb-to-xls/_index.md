@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to XLS via Python
-url: /python-net/conversion/xlsb-to-xls/
+
 description: Sample code for xlsb to xls Python conversion. Use API example code for batch xlsb files to xls conversion within Python application.
 ---
 

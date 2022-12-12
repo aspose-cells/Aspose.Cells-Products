@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj MHTML na TXT przez Python
-url: /pl/python-java/conversion/mhtml-to-txt/
+
 description: Przykładowy kod konwersji mhtml na txt Python. Użyj przykładowego kodu API dla wsadowych plików mhtml do konwersji txt w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

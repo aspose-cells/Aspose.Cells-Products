@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer JSON naar TXT via C++ applicatie 
-url: /nl/cpp/conversion/json-to-txt/ 
+
 description: Voorbeeld C++-conversiecode voor JSON-document naar TXT-indeling. Programmeurs kunnen deze broncode gebruiken voor batchconversie van JSON naar TXT binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

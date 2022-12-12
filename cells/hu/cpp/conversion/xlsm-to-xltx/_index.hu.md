@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLSM-et XLTX-re a(z) C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/xlsm-to-xltx/ 
+
 description: Minta C++ konverziós kód XLSM dokumentumhoz XLTX formátumba. A programozók ezt a forráskódot használhatják a kötegelt XLSM-XLTX konvertáláshoz bármely C++ alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

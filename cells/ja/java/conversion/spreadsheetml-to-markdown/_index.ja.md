@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してSPREADSHEETMLをMARKDOWNに変換します 
-url: /ja/java/conversion/spreadsheetml-to-markdown/ 
+
 description: SPREADSHEETML形式からMARKDOWNファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートをWebまたはデスクトップJavaベースのアプリケーション内のMARKDOWNにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

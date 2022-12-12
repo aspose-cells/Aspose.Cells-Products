@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to CSV via Python
-url: /python-net/conversion/tabdelimited-to-csv/
+
 description: Sample code for tabdelimited to csv Python conversion. Use API example code for batch tabdelimited files to csv conversion within Python application.
 ---
 

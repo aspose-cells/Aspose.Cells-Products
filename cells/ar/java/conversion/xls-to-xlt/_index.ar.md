@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل XLS إلى XLT عبر Java 
 weight: 5880
-url: /ar/java/conversion/xls-to-xlt/ 
+
 description: نموذج رمز تحويل Java لتنسيق XLS إلى ملف XLT. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى XLT داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

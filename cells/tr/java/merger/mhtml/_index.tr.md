@@ -1,7 +1,7 @@
-﻿---
+---
 title: MHTML Dosyalarını Java ile Birleştir 
 weight: 4420
-url: /tr/java/merger/mhtml/ 
+
 description: JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Runtime Environment'da MHTML belgelerini birleştirmek için Java örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Telusuri dokumen TXT tanpa membuka melalui C++ 
 weight: 5090
-url: /id/cpp/search/txt/ 
+
 description: C++ contoh kode untuk mencari kata dengan pola dalam file TXT pada C++ Runtime Environment untuk Windows 32 bit, Windows 64 bit dan Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert XLSM to DOCX via C++
-url: /cpp/conversion/xlsm-to-docx/
+
 description: Convert XLSM to DOCX format in C++ code. Save XLSM as DOCX using C++.
 ---
 

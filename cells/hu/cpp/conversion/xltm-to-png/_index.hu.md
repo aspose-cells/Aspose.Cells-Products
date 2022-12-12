@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLTM-et PNG-re a(z) C++ alkalmazással 
-url: /hu/cpp/conversion/xltm-to-png/ 
+
 description: Minta C++ konverziós kód XLTM dokumentumhoz PNG formátumba. A programozók ezt a forráskódot használhatják XLTM-ből PNG-be kötegelt konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Entsperren Sie das ODS-Dokument über .NET 
 weight: 3110
-url: /de/net/unlock/ods/ 
+
 description: C#-Quellcode zum Entsperren der passwortgeschützten ODS-Datei auf .NET Framework-, .NET Core-, Mono- oder Xamarin-Plattformen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

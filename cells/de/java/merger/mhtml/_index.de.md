@@ -1,7 +1,7 @@
-﻿---
+---
 title: MHTML-Dateien über Java zusammenführen 
 weight: 4420
-url: /de/java/merger/mhtml/ 
+
 description: Java Beispielcode zum Kombinieren von MHTML-Dokumenten in Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

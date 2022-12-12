@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET aracılığıyla filigran XLSB belgesi 
 weight: 5410
-url: /tr/net/watermark/xlsb/ 
+
 description: .NET Framework, .NET Core, Mono veya Xamarin Platformlarında XLSB dosyasına filigran eklemek veya kaldırmak için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

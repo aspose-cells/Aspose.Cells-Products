@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja a TSV-t XLT-vé a(z) C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/tsv-to-xlt/ 
+
 description: Minta C++ konverziós kód a TSV-dokumentumhoz XLT formátumba. A programozók ezt a forráskódot használhatják kötegelt TSV-ből XLT-vé konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

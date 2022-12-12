@@ -1,7 +1,7 @@
-﻿---
+---
 title: Lås upp XLSM-dokument via .NET 
 weight: 9810
-url: /sv/net/unlock/xlsm/ 
+
 description: C# källkod för att låsa upp lösenordsskyddad XLSM-fil på .NET Framework, .NET Core, Mono eller Xamarin-plattformar.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

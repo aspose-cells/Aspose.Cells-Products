@@ -1,7 +1,7 @@
-﻿---
+---
 title: Диаграмма документа ODS через C++ 
 weight: 3820
-url: /ru/cpp/chart/ods/ 
+
 description: C++ пример кода для рисования и преобразования диаграммы или диаграммы в файле ODS в C++ среде выполнения для 32-разрядной, 64-разрядной Windows и 64-разрядной версии Linux.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してMSExcelXLSMファイルを作成する 
-url: /ja/python-java/create-xlsm/ 
+
 description: PythonXLSMドキュメントを生成するためのサンプルコード。このコードを使用して、Pythonアプリケーション内にMSExcelXLSMファイルを作成します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

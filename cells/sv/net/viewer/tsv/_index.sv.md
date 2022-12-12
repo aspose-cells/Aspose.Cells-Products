@@ -1,7 +1,7 @@
-﻿---
+---
 title: Visa TSV-filformat via .NET 
 weight: 3090
-url: /sv/net/viewer/tsv/ 
+
 description: C# källkod för att ladda, rendera och visa TSV-dokument på .NET Framework, .NET Core, Mono eller Xamarin-plattformar.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

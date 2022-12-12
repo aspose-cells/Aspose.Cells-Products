@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SXC konvertálása SVG-vé a következőn keresztül: Python"
-url: /hu/python-java/conversion/sxc-to-svg/
+
 description: Mintakód az sxc–svg Python konverzióhoz. Használjon API példakódot kötegelt sxc fájlok SVG konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera XLS till XLSB via C#
-url: /sv/net/conversion/xls-to-xlsb/
+
 description: Exempelkod för konvertering av xls till xlsb C#. Använd API exempelkod för batch-xls-filer till xlsb-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

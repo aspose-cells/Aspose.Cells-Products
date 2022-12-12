@@ -1,6 +1,6 @@
 ---
 title: Convert XLTM to XLAM via C++
-url: /cpp/conversion/xltm-to-xlam/
+
 description: Convert XLTM to XLAM format in C++ code. Save XLTM as XLAM using C++.
 ---
 

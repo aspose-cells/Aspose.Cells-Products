@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java aracılığıyla XLSM'yi BMP'ye dönüştürün 
 weight: 7090
-url: /tr/java/conversion/xlsm-to-bmp/ 
+
 description: XLSM biçimi için BMP dosyasına örnek Java dönüştürme kodu. Programcılar, Excel ve OpenOffice elektronik tablolarını herhangi bir Web veya Masaüstü Java tabanlı Uygulamada BMP'ye aktarmak için bu örnek kodu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 Python 將 MHTML 轉換為 SVG
-url: /zh-hant/python-java/conversion/mhtml-to-svg/
+
 description: mhtml 到 svg Python 轉換的示例代碼。使用 Python 應用程序中批量 mhtml 文件到 svg 轉換的 API 示例代碼。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

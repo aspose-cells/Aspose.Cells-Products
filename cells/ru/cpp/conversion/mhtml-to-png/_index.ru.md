@@ -1,7 +1,7 @@
-﻿---
+---
 title: Преобразование MHTML в PNG с помощью приложения C++ 
 weight: 5020
-url: /ru/cpp/conversion/mhtml-to-png/ 
+
 description: Пример кода преобразования C++ для документа MHTML в формат PNG. Программисты могут использовать этот исходный код для пакетного преобразования MHTML в PNG в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

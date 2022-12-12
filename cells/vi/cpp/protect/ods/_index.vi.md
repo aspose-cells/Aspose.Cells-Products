@@ -1,7 +1,7 @@
-﻿---
+---
 title: Bảo vệ và khóa tài liệu ODS qua C++ 
 weight: 10010
-url: /vi/cpp/protect/ods/ 
+
 description: C++ mã ví dụ để khóa tệp ODS bằng mật khẩu trên C++ Môi trường thời gian chạy cho Windows 32 bit, Windows 64 bit và Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

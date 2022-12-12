@@ -1,6 +1,6 @@
 ---
 title: Merge XLSM to TSV Files via Java 
-url: /java/merger/merge-xlsm-to-tsv/ 
+
 description: Merge XLSM to TSV file in Java code. Combine XLSM to TSV file using Java based desktop or web application.
 ---
 

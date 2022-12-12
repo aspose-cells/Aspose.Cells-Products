@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to GIF via Java 
-url: /java/conversion/numbers-to-gif/
+
 description: Convert NUMBERS to GIF format in Java code. Save NUMBERS as GIF using Java.
 ---
 

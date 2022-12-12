@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование TXT в SVG через C#
-url: /ru/net/conversion/txt-to-svg/
+
 description: Пример кода для преобразования txt в svg C#. Используйте пример кода API для пакетного преобразования файлов txt в svg в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

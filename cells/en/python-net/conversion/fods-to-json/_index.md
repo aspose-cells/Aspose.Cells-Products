@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to JSON via Python
-url: /python-net/conversion/fods-to-json/
+
 description: Sample code for fods to json Python conversion. Use API example code for batch fods files to json conversion within Python application.
 ---
 

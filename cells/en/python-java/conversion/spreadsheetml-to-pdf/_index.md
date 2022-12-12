@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to PDF via Python
-url: /python-java/conversion/spreadsheetml-to-pdf/
+
 description: Convert SPREADSHEETML to PDF format in Python code. Save SPREADSHEETML as PDF using Python.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLTX в DIF через Python
-url: /ru/python-java/conversion/xltx-to-dif/
+
 description: Пример кода для преобразования xltx в dif Python. Используйте пример кода API для пакетных файлов xltx для преобразования различий в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل HTML إلى XLS عبر C#
-url: /ar/net/conversion/html-to-xls/
+
 description: نموذج كود لتحويل html إلى xls C#. استخدم API رمز المثال لملفات html الدفعية لتحويل xls داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera SPREADSHEETML till XLAM via C#
-url: /sv/net/conversion/spreadsheetml-to-xlam/
+
 description: Exempelkod för konvertering från kalkylarkml till xlam C#. Använd API exempelkod för batch-kalkylarkml-filer till xlam-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

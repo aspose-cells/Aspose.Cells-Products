@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte JSON na EMF prostřednictvím aplikace C++ 
-url: /cs/cpp/conversion/json-to-emf/ 
+
 description: Ukázkový konverzní kód C++ pro dokument JSON do formátu EMF. Programátoři mohou tento zdrojový kód použít pro dávkový převod JSON na EMF v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: ODS konvertálása PDF-be a C++ alkalmazással 
 weight: 6720
-url: /hu/cpp/conversion/ods-to-pdf/ 
+
 description: Minta C++ konverziós kód az ODS dokumentumhoz PDF formátumba. A programozók ezt a forráskódot használhatják az ODS-ből PDF-be történő kötegelt konvertáláshoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

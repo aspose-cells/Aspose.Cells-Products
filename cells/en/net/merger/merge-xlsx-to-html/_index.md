@@ -1,6 +1,6 @@
 ---
 title: Merge XLSX to HTML Files via C# 
-url: /net/merger/merge-xlsx-to-html/ 
+
 description: Merge XLSX to HTML file in C# code. Combine XLSX to HTML file using VB.NET, Asp.NET or any .NET based application.
 ---
 

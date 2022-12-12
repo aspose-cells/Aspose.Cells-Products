@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konwertuj XLSM na tablicę bajtów za pomocą C# 
 weight: 7690
-url: /pl/net/conversion/xlsm-to-byte-array/ 
+
 description: C# Przykładowy kod konwersji XLSM na tablicę bajtów. Użyj tego kodu do konwersji Excel XLSM na Byte Array w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie TSV über die Anwendung C++ in MD 
-url: /de/cpp/conversion/tsv-to-md/ 
+
 description: Beispiel-Umwandlungscode C++ für das TSV-Dokument in das MD-Format. Programmierer können diesen Quellcode für die Batch-Konvertierung von TSV in MD in jeder C++-Anwendung verwenden.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

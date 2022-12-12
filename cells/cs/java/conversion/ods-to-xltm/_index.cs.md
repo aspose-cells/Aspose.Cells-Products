@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést ODS na XLTM přes Java 
 weight: 1520
-url: /cs/java/conversion/ods-to-xltm/ 
+
 description: Ukázkový konverzní kód Java pro formát ODS na soubor XLTM. Programátoři mohou tento příklad kódu použít k exportu tabulek Excelu a OpenOffice do XLTM v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET Excel API | Bearbeta kalkylbladsformat via .NET kärna 
 weight: 2030
-url: /sv/net/ 
+
 description: C# ASP.NET VB.NET-bibliotek för att arbeta med Microsoft Excel-dokument. Skapa läs skriv spara och skriv ut kalkylbladsfiler. Konvertera till PDF eller fler format
 ---
 {{< blocks/products/pf/main-wrap-class >}}

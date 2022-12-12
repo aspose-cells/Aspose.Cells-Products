@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan TSV ke XLTM melalui Python
-url: /id/python-java/conversion/tsv-to-xltm/
+
 description: Contoh kode untuk konversi tsv ke xltm Python. Gunakan API kode contoh untuk file tsv batch ke konversi xltm dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

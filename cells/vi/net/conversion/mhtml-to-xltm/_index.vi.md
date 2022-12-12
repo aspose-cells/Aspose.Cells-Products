@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển MHTML sang XLTM qua C#
-url: /vi/net/conversion/mhtml-to-xltm/
+
 description: Mã mẫu cho chuyển đổi mhtml sang xltm C#. Sử dụng API mã mẫu cho hàng loạt tệp mhtml sang chuyển đổi xltm trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

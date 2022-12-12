@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή CSV σε MD μέσω C#
-url: /el/net/conversion/csv-to-md/
+
 description: Δείγμα κώδικα για μετατροπή csv σε md C#. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδική μετατροπή αρχείων csv σε md εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

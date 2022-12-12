@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir XLSB en MARKDOWN via Python
-url: /fr/python-java/conversion/xlsb-to-markdown/
+
 description: Exemple de code pour la conversion de xlsb en démarque Python. Utilisez l'exemple de code API pour les fichiers xlsb par lots en conversion de démarquage dans l'application Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

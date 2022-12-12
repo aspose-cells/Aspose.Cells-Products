@@ -1,6 +1,6 @@
-﻿---
+---
 title: Modifier les fichiers HTML via .NET 
-url: /fr/net/editor/html/ 
+
 description: Code source C# pour modifier le document HTML sur les plates-formes .NET Framework, .NET Core, Windows Azure, Mono ou Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

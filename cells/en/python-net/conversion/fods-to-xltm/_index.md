@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to XLTM via Python
-url: /python-net/conversion/fods-to-xltm/
+
 description: Sample code for fods to xltm Python conversion. Use API example code for batch fods files to xltm conversion within Python application.
 ---
 

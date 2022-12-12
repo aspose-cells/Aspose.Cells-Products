@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 Python 将 ODS 转换为 TSV
-url: /zh/python-java/conversion/ods-to-tsv/
+
 description: ods 到 tsv Python 转换的示例代码。使用 Python 应用程序中批量 ods 文件到 tsv 转换的 API 示例代码。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

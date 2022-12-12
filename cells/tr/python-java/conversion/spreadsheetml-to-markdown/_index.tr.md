@@ -1,6 +1,6 @@
-﻿---
+---
 title: SPREADSHEETML'yi Python aracılığıyla MARKDOWN'a dönüştürün
-url: /tr/python-java/conversion/spreadsheetml-to-markdown/
+
 description: Python dönüşümünü işaretlemek için e-tablo için örnek kod. Python uygulamasında dönüştürmeyi işaretlemek için toplu elektronik tabloml dosyaları için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

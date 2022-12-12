@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLSB na XML prostřednictvím C#
-url: /cs/net/conversion/xlsb-to-xml/
+
 description: Ukázkový kód pro převod xlsb na xml C#. Použijte API ukázkový kód pro dávkový převod souborů xlsb na xml v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

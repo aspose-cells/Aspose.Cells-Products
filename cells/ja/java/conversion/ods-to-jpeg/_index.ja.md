@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してODSをJPEGに変換する 
 weight: 3640
-url: /ja/java/conversion/ods-to-jpeg/ 
+
 description: ODS形式からJPEGファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、WebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをJPEGにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

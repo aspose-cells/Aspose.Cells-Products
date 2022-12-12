@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to TABDELIMITED via Java 
-url: /java/conversion/ods-to-tabdelimited/
+
 description: Convert ODS to TABDELIMITED format in Java code. Save ODS as TABDELIMITED using Java.
 ---
 

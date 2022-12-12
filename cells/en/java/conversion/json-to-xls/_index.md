@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to XLS via Java 
-url: /java/conversion/json-to-xls/
+
 description: Convert JSON to XLS format in Java code. Save JSON as XLS using Java.
 ---
 

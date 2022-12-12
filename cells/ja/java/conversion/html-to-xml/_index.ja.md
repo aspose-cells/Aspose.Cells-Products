@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してHTMLをXMLに変換する 
-url: /ja/java/conversion/html-to-xml/ 
+
 description: HTML形式からXMLファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、WebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをXMLにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

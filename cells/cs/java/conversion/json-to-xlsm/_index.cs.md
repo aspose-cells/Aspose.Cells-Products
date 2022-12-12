@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést JSON na XLSM přes Java 
 weight: 870
-url: /cs/java/conversion/json-to-xlsm/ 
+
 description: Ukázkový konverzní kód Java pro formát JSON na soubor XLSM. Programátoři mohou použít tento příklad kódu k exportu tabulek Excelu a OpenOffice do XLSM v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

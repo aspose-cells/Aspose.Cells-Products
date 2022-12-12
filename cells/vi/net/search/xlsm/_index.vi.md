@@ -1,7 +1,7 @@
-﻿---
+---
 title: Tìm kiếm tài liệu XLSM mà không cần mở qua .NET 
 weight: 4880
-url: /vi/net/search/xlsm/ 
+
 description: C# mã nguồn để tìm kiếm các từ có mẫu trong tệp XLSM trên Nền tảng .NET Framework, .NET Core Mono hoặc Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

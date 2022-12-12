@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to XPS via Java 
-url: /java/conversion/sxc-to-xps/
+
 description: Convert SXC to XPS format in Java code. Save SXC as XPS using Java.
 ---
 

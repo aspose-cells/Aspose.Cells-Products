@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してTABDELIMITEDをTIFFに変換します 
-url: /ja/java/conversion/tabdelimited-to-tiff/ 
+
 description: TABDELIMITED形式のサンプルJava変換コードからTIFFファイルへ。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のTIFFにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

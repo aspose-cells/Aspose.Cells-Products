@@ -1,7 +1,7 @@
-﻿---
+---
 title: Android एक्सेल स्प्रेडशीट API - Aspose 
 weight: 6510
-url: /hi/android-java/ 
+
 description: पढ़ने के लिए लिखने और एक्सेल फाइलों को पार्स करने के लिए एंड्रॉइड स्प्रेडशीट लाइब्रेरी। मोबाइल ऐप्स विकास के लिए एक स्प्रैडशीट API
 ---
 {{< blocks/products/pf/main-wrap-class >}}

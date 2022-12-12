@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převeďte TSV na XLSX pomocí aplikace C++ 
 weight: 7330
-url: /cs/cpp/conversion/tsv-to-xlsx/ 
+
 description: Ukázka převodního kódu C++ pro dokument TSV na formát XLSX. Programátoři mohou použít tento zdrojový kód pro dávkový převod TSV na XLSX v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

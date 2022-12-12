@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 Python 將 FODS 轉換為 DIF
-url: /zh-hant/python-java/conversion/fods-to-dif/
+
 description: fods 到 diff Python 轉換的示例代碼。使用批處理 fods 文件的 API 示例代碼在 Python 應用程序中進行差異轉換。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

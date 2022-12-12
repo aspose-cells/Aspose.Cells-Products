@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converti XLSM in JPG tramite Python
-url: /it/python-java/conversion/xlsm-to-jpg/
+
 description: Codice di esempio per la conversione da xlsm a jpg Python. Usa API codice di esempio per la conversione batch di file xlsm in jpg all'interno dell'applicazione Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

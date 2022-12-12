@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してXLSMドキュメントからテキストと画像を抽出します 
 weight: 3260
-url: /ja/java/parser/xlsm/ 
+
 description: Java JSP/JSFアプリケーションおよびデスクトップアプリケーションのランタイム環境でXLSMファイルからテキストと画像を抽出するためのサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

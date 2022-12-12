@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir FODS en HTML via Python
-url: /fr/python-java/conversion/fods-to-html/
+
 description: Exemple de code pour la conversion de fods en html Python. Utilisez l'exemple de code API pour les fichiers fods par lots en conversion html dans l'application Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή TXT σε XLSB μέσω Python
-url: /el/python-java/conversion/txt-to-xlsb/
+
 description: Δείγμα κώδικα για μετατροπή txt σε xlsb Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδική μετατροπή αρχείων txt σε xlsb εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

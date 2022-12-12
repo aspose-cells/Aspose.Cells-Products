@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 Python 將 TXT 轉換為 XLS
-url: /zh-hant/python-java/conversion/txt-to-xls/
+
 description: txt 到 xls Python 轉換的示例代碼。在 Python 應用程序中使用 API 示例代碼將 txt 文件批量轉換為 xls。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

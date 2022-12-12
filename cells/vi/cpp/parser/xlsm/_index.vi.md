@@ -1,7 +1,7 @@
-﻿---
+---
 title: Trích xuất văn bản và hình ảnh từ tài liệu XLSM qua C++ 
 weight: 570
-url: /vi/cpp/parser/xlsm/ 
+
 description: C++ mã ví dụ để trích xuất văn bản và hình ảnh từ tệp XLSM trên C++ Môi trường thời gian chạy cho Windows 32 bit, Windows 64 bit và Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

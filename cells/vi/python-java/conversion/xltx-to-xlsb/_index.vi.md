@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi XLTX sang XLSB qua Python
-url: /vi/python-java/conversion/xltx-to-xlsb/
+
 description: Mã mẫu cho chuyển đổi xltx sang xlsb Python. Sử dụng API mã mẫu cho hàng loạt tệp xltx sang chuyển đổi xlsb trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLSM na PNG přes Python
-url: /cs/python-java/conversion/xlsm-to-png/
+
 description: Ukázkový kód pro převod xlsm na png Python. Použijte API ukázkový kód pro dávkový převod souborů xlsm na png v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

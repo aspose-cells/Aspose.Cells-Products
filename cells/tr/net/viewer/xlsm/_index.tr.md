@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLSM Dosya Biçimlerini .NET üzerinden görüntüleyin 
 weight: 9980
-url: /tr/net/viewer/xlsm/ 
+
 description: .NET Framework, .NET Core, Mono veya Xamarin Platformlarında XLSM belgelerini yüklemek, oluşturmak ve görüntülemek için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

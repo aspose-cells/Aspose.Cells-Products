@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertálja az XLS-t CSV-vé a C++ alkalmazással 
 weight: 8520
-url: /hu/cpp/conversion/xls-to-csv/ 
+
 description: Minta C++ konverziós kód XLS-dokumentumhoz CSV-formátumba. A programozók ezt a forráskódot használhatják az XLS-ből CSV-be kötegelt konvertáláshoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

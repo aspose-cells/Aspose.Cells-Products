@@ -1,7 +1,7 @@
-﻿---
+---
 title: Gabungkan File XLSM melalui Java 
 weight: 1270
-url: /id/java/merger/xlsm/ 
+
 description: Java kode contoh untuk menggabungkan dokumen XLSM di Java Lingkungan Waktu Proses untuk Aplikasi JSP/JSF dan Aplikasi Desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 C++ 合并 HTML 文件 
-url: /zh/cpp/merger/html/ 
+
 description: C++ 在 Windows 32 位、Windows 64 位和 Linux 64 位的 C++ 运行时环境中组合 HTML 文档的示例代码。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή SPREADSHEETML σε XLAM μέσω Python
-url: /el/python-java/conversion/spreadsheetml-to-xlam/
+
 description: Δείγμα κώδικα για μετατροπή υπολογιστικού φύλλου σε xlam Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία υπολογιστικών φύλλων σε xlam μετατροπή εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

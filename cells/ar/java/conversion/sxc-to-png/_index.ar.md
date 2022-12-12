@@ -1,6 +1,6 @@
-﻿---
+---
 title: حوِّل SXC إلى PNG عبر Java 
-url: /ar/java/conversion/sxc-to-png/ 
+
 description: نموذج لشفرة تحويل Java لتنسيق SXC إلى ملف PNG. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel و OpenOffice إلى PNG داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

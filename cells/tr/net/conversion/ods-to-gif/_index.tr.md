@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla ODS'yi GIF'e dönüştürün
-url: /tr/net/conversion/ods-to-gif/
+
 description: ods'den gif C# dönüşümüne ilişkin örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde gif dönüşümüne toplu ods dosyaları için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

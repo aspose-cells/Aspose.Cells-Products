@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to PNG via C++
-url: /cpp/conversion/xls-to-png/
+
 description: Convert XLS to PNG format in C++ code. Save XLS as PNG using C++.
 ---
 

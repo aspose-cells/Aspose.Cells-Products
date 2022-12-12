@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést NUMBERS na TXT přes C#
-url: /cs/net/conversion/numbers-to-txt/
+
 description: Ukázkový kód pro převod čísel na txt C#. Použijte API ukázkový kód pro dávkové soubory čísel na převod txt v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

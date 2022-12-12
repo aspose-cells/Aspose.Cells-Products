@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converter TXT para MHTML via Java 
 weight: 8390
-url: /pt/java/conversion/txt-to-mhtml/ 
+
 description: Exemplo de código de conversão Java para formato TXT em arquivo MHTML. Os programadores podem usar este código de exemplo para exportar planilhas do Excel e OpenOffice para MHTML em qualquer aplicativo baseado na Web ou Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

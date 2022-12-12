@@ -1,7 +1,7 @@
-﻿---
+---
 title: Scal pliki XLS przez .NET 
 weight: 3000
-url: /pl/net/merger/xls/ 
+
 description: C# kod źródłowy do łączenia dokumentów XLS na platformach .NET Framework, .NET Core, Mono lub Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to GIF via Python
-url: /python-java/conversion/xlsb-to-gif/
+
 description: Convert XLSB to GIF format in Python code. Save XLSB as GIF using Python.
 ---
 

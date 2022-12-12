@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie XLT in JPG über die Anwendung C++ 
-url: /de/cpp/conversion/xlt-to-jpg/ 
+
 description: Beispiel-Umwandlungscode C++ für das XLT-Dokument in das JPG-Format. Programmierer können diesen Quellcode für die Batch-Konvertierung von XLT in JPG in jeder C++-Anwendung verwenden.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLSB в XML через C#
-url: /ru/net/conversion/xlsb-to-xml/
+
 description: Пример кода для преобразования xlsb в xml C#. Используйте пример кода API для пакетного преобразования файлов xlsb в xml в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte JSON na JPEG pomocí aplikace C++ 
-url: /cs/cpp/conversion/json-to-jpeg/ 
+
 description: Ukázka převodního kódu C++ pro dokument JSON na formát JPEG. Programátoři mohou použít tento zdrojový kód pro dávkový převod JSON na JPEG v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

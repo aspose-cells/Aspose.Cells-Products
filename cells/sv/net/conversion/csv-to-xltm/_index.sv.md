@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera CSV till XLTM via C#
-url: /sv/net/conversion/csv-to-xltm/
+
 description: Exempelkod för konvertering av csv till xltm C#. Använd API exempelkod för batch-csv-filer till xltm-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

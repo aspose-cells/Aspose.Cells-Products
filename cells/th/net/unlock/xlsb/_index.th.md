@@ -1,7 +1,7 @@
-﻿---
+---
 title: ปลดล็อกเอกสาร XLSB ผ่าน .NET 
 weight: 6410
-url: /th/net/unlock/xlsb/ 
+
 description: C# ซอร์สโค้ดเพื่อปลดล็อกไฟล์ XLSB ที่ป้องกันด้วยรหัสผ่านบน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

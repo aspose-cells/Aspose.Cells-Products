@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET aracılığıyla XLSM Dosyaları Meta Verilerini Görüntüleyin veya Düzenleyin 
 weight: 5590
-url: /tr/net/metadata/xlsm/ 
+
 description: .NET Framework, .NET Core, Mono veya Xamarin Platformlarında XLSM biçimi meta verilerini düzenlemek veya görüntülemek için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

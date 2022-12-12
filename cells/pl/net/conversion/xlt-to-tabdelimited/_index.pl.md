@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj XLT na TABDELIMITED przez C#
-url: /pl/net/conversion/xlt-to-tabdelimited/
+
 description: Przykładowy kod dla konwersji xlt do rozdzielanej tabulatorami C#. Użyj przykładowego kodu API dla plików wsadowych xlt do konwersji rozdzielanej tabulatorami w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

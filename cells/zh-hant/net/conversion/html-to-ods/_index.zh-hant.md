@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 C# 將 HTML 轉換為 ODS
-url: /zh-hant/net/conversion/html-to-ods/
+
 description: html 到 ods C# 轉換的示例代碼。使用 API 示例代碼在 VB.NET、Asp.NET 或任何基於 .NET 的應用程序中將 html 文件批量轉換為 ods。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

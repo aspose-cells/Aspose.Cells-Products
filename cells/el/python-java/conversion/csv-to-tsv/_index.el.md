@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή CSV σε TSV μέσω Python
-url: /el/python-java/conversion/csv-to-tsv/
+
 description: Δείγμα κώδικα για μετατροπή csv σε tsv Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδική μετατροπή αρχείων csv σε tsv εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

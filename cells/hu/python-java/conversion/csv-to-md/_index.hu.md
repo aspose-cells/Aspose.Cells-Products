@@ -1,6 +1,6 @@
-﻿---
+---
 title: "CSV konvertálása MD formátumba a következőn keresztül: Python"
-url: /hu/python-java/conversion/csv-to-md/
+
 description: Mintakód a csv–md Python konverzióhoz. Használjon API példakódot a csv-fájlok kötegelt md-vé konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

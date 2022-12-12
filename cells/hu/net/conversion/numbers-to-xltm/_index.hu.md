@@ -1,6 +1,6 @@
-﻿---
+---
 title: "NUMBERS konvertálása XLTM-re a következőn keresztül: C#"
-url: /hu/net/conversion/numbers-to-xltm/
+
 description: Mintakód számok xltm C# konverziójához. Használjon API példakódot a kötegszámfájlokhoz xltm konverzióvá VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

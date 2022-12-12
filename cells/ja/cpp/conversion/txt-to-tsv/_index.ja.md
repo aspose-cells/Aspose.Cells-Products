@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++アプリケーションを介してTXTをTSVに変換します 
-url: /ja/cpp/conversion/txt-to-tsv/ 
+
 description: TXTドキュメントからTSV形式へのサンプルC++変換コード。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でTXTからTSVへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

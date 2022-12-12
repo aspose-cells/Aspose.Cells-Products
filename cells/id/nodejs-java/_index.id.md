@@ -1,7 +1,7 @@
-﻿---
+---
 title: API Node.js untuk Spreadsheet Excel - Aspose 
 weight: 3120
-url: /id/nodejs-java/ 
+
 description: Memproses format file Excel melalui pustaka Node.js. Baca tulis render & konversi XLS XLSX XLSB XLTX XLTM XLSM XML ODS CSV dan format lainnya melalui Node.js di Windows, macOS & Linux
 ---
 {{< blocks/products/pf/main-wrap-class >}}

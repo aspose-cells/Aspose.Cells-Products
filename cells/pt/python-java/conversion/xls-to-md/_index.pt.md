@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter XLS para MD via Python
-url: /pt/python-java/conversion/xls-to-md/
+
 description: Código de exemplo para conversão de xls para md Python. Use o código de exemplo API para arquivos xls em lote para conversão md no aplicativo Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

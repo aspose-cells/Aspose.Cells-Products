@@ -1,7 +1,7 @@
-﻿---
+---
 title: ดูหรือแก้ไขข้อมูลเมตาของไฟล์ XLSM ผ่าน .NET 
 weight: 5590
-url: /th/net/metadata/xlsm/ 
+
 description: C# ซอร์สโค้ดสำหรับแก้ไขหรือดูข้อมูลเมตารูปแบบ XLSM บน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

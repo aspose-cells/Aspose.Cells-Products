@@ -1,7 +1,7 @@
-﻿---
+---
 title: Gere relatórios em arquivos ODS via .NET 
 weight: 520
-url: /pt/net/assembly/ods/ 
+
 description: C# código-fonte para gerar relatórios de formato ODS em plataformas .NET Framework, .NET Core, Mono ou Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

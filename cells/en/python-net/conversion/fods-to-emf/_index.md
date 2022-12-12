@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to EMF via Python
-url: /python-net/conversion/fods-to-emf/
+
 description: Sample code for fods to emf Python conversion. Use API example code for batch fods files to emf conversion within Python application.
 ---
 

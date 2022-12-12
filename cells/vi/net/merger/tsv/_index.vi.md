@@ -1,7 +1,7 @@
-﻿---
+---
 title: Hợp nhất các tệp TSV qua .NET 
 weight: 1360
-url: /vi/net/merger/tsv/ 
+
 description: C# mã nguồn để kết hợp các tài liệu TSV trên Nền tảng .NET Framework, .NET Core Mono hoặc Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

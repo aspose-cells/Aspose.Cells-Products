@@ -1,6 +1,6 @@
-﻿---
+---
 title: Anmerkungen zu Excel-Dateien über Java
-url: /de/java/annotation/
+
 description: Hinzufügen oder Entfernen von Datenanmerkungen von Excel- und OpenOffice-Tabellen mit der Java-Bibliothek.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

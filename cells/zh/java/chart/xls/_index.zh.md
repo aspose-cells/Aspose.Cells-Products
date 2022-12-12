@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通过 Java 的 XLS 文档图表 
 weight: 1050
-url: /zh/java/chart/xls/ 
+
 description: Java 示例代码，用于在 Java JSP/JSF 应用程序和桌面应用程序的运行时环境中的 XLS 文件中绘制和转换图表或图表。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

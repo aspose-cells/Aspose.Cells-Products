@@ -1,7 +1,7 @@
-﻿---
+---
 title:  ODS-Dokumentdiagramm zu Bildern über .NET 
 weight: 4360
-url: /de/net/chart/ods/ 
+
 description: C# Quellcode zum Zeichnen und Konvertieren von Diagrammen oder Diagrammen in ODS-Dateien auf .NET Framework-, .NET Core-, Mono- oder Xamarin-Plattformen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

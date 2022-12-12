@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj CSV na HTML za pomocą Python
-url: /pl/python-java/conversion/csv-to-html/
+
 description: Przykładowy kod konwersji csv do html Python. Użyj przykładowego kodu API dla wsadowych plików csv do konwersji html w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

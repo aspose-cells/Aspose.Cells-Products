@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to XLAM via C#
-url: /net/conversion/fods-to-xlam/
+
 description: Convert FODS to XLAM format in C# code. Save FODS as XLAM using VB.NET, Asp.NET or any .NET based application.
 ---
 

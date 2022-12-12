@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to HTML via Python
-url: /python-net/conversion/xltx-to-html/
+
 description: Sample code for xltx to html Python conversion. Use API example code for batch xltx files to html conversion within Python application.
 ---
 

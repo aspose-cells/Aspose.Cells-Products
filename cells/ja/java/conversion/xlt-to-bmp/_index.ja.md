@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してXLTをBMPに変換します 
 weight: 590
-url: /ja/java/conversion/xlt-to-bmp/ 
+
 description: XLT形式からBMPファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のBMPにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

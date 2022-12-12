@@ -1,6 +1,6 @@
-﻿---
+---
 title: Wandeln Sie NUMBERS über Python in FODS um
-url: /de/python-java/conversion/numbers-to-fods/
+
 description: Beispielcode für die Umwandlung von Zahlen in fods Python. Verwenden Sie API Beispielcode für die Konvertierung von Stapelnummerndateien in FODs innerhalb der Anwendung Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

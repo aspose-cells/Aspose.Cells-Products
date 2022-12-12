@@ -1,6 +1,6 @@
 ---
 title: Convert XLSM to XLAM via Java 
-url: /java/conversion/xlsm-to-xlam/
+
 description: Convert XLSM to XLAM format in Java code. Save XLSM as XLAM using Java.
 ---
 

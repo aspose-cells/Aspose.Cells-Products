@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer SPREADSHEETML naar BMP via Java 
-url: /nl/java/conversion/spreadsheetml-to-bmp/ 
+
 description: Voorbeeld Java conversiecode voor SPREADSHEETML-indeling naar BMP-bestand. Programmeurs kunnen deze voorbeeldcode gebruiken om Excel- en OpenOffice-spreadsheets naar BMP te exporteren binnen elke web- of desktoptoepassing Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

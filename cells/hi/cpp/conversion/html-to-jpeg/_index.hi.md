@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ एप्लिकेशन के माध्यम से HTML को JPEG में बदलें 
 weight: 7270
-url: /hi/cpp/conversion/html-to-jpeg/ 
+
 description: नमूना C++ HTML दस्तावेज़ के लिए JPEG प्रारूप में रूपांतरण कोड। प्रोग्रामर इस स्रोत कोड का उपयोग किसी भी C++ एप्लिकेशन में HTML से JPEG रूपांतरण के बैच के लिए कर सकते हैं।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

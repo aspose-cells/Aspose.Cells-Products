@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to MHTML via C#
-url: /net/conversion/excel-to-mhtml/
+
 description: Convert EXCEL to MHTML format in C# code. Save EXCEL as MHTML using VB.NET, Asp.NET or any .NET based application.
 ---
 

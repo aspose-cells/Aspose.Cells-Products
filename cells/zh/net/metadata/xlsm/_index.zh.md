@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通过 .NET 查看或编辑 XLSM 文件元数据 
 weight: 5590
-url: /zh/net/metadata/xlsm/ 
+
 description: C# 用于在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上编辑或查看 XLSM 格式元数据的源代码。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

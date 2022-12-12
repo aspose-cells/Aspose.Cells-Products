@@ -1,7 +1,7 @@
 ---
 title: Unlock ODS document via Java 
 weight: 5080
-url: /java/unlock/ods/ 
+
 description: Java sample code to unlock password protected ODS file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

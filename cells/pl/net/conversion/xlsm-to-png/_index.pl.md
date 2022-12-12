@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj XLSM na PNG za pomocą C#
-url: /pl/net/conversion/xlsm-to-png/
+
 description: Przykładowy kod konwersji xlsm na png C#. Użyj przykładowego kodu API dla plików wsadowych xlsm do konwersji png w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

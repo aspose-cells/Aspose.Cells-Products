@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Szöveg keresése és cseréje XLSB-dokumentumban a következőn keresztül: .NET "
 weight: 3890
-url: /hu/net/redaction/xlsb/ 
+
 description: C# forráskód az XLSB fájl érzékeny információinak törléséhez a .NET Framework, .NET Core, Mono vagy Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование NUMBERS в SVG через Python
-url: /ru/python-java/conversion/numbers-to-svg/
+
 description: Пример кода для преобразования чисел в SVG Python. Используйте пример кода API для преобразования файлов номеров пакетов в SVG в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

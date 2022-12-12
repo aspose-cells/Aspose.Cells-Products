@@ -1,6 +1,6 @@
-﻿---
+---
 title: Tworzenie wykresów Excel i konwersja do obrazów za pomocą .NET
-url: /pl/net/chart/
+
 description: C# kod źródłowy do rysowania i konwertowania wykresu lub diagramu w programie Microsoft Excel przy użyciu biblioteki .NET. 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

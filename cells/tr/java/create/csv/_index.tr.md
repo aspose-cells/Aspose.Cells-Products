@@ -1,6 +1,6 @@
-﻿---
+---
 title: Java aracılığıyla CSV Dosyaları oluşturun 
-url: /tr/java/create-csv/ 
+
 description: Java CSV belgeleri oluşturmak için örnek kod. Java tabanlı masaüstü veya web uygulamasında CSV dosyaları oluşturmak için bu kodu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

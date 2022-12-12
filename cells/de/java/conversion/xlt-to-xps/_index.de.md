@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertieren Sie XLT in XPS über Java 
 weight: 7470
-url: /de/java/conversion/xlt-to-xps/ 
+
 description: Beispiel-Umwandlungscode Java für das XLT-Format in eine XPS-Datei. Programmierer können diesen Beispielcode verwenden, um Excel- und OpenOffice-Tabellen innerhalb einer beliebigen Web- oder Desktop-Java-basierten Anwendung nach XPS zu exportieren.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

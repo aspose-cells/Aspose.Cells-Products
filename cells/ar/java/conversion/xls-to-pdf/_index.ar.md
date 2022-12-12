@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل XLS إلى PDF عبر Java 
 weight: 600
-url: /ar/java/conversion/xls-to-pdf/ 
+
 description: نموذج Java رمز التحويل لتنسيق XLS إلى ملف PDF. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel و OpenOffice إلى PDF داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

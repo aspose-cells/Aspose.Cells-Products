@@ -1,6 +1,6 @@
-﻿---
+---
 title: "JSON konvertálása MD-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/json-to-md/
+
 description: Mintakód a json–md Python konverzióhoz. Használjon API példakódot a kötegelt json-fájlok md konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

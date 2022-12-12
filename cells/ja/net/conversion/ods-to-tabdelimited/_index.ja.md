@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してODSをTABDELIMITEDに変換します
-url: /ja/net/conversion/ods-to-tabdelimited/
+
 description: odsからtabdelimitedC#への変換のサンプルコード。バッチodsファイルのAPIサンプルコードを使用して、VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でタブ区切りの変換を行います。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

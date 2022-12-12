@@ -1,7 +1,7 @@
 ---
 title: Watermark XLSM document via .NET 
 weight: 8270
-url: /net/watermark/xlsm/ 
+
 description: C# source code to add or remove watermark to XLSM file on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

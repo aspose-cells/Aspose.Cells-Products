@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή SPREADSHEETML σε HTML μέσω C#
-url: /el/net/conversion/spreadsheetml-to-html/
+
 description: Δείγμα κώδικα για μετατροπή υπολογιστικού φύλλου σε html C#. Χρησιμοποιήστε API παράδειγμα κώδικα για μαζική μετατροπή αρχείων υπολογιστικών φύλλων σε html σε VB.NET, Asp.NET ή οποιαδήποτε εφαρμογή που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

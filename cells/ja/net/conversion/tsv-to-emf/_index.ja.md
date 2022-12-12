@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してTSVをEMFに変換します
-url: /ja/net/conversion/tsv-to-emf/
+
 description: tsvからemfC#への変換のサンプルコード。バッチtsvファイルのAPIサンプルコードを使用して、VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内で変換をemfします。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

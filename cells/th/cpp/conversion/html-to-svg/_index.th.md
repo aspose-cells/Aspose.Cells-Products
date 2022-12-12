@@ -1,7 +1,7 @@
-﻿---
+---
 title: แปลง HTML เป็น SVG ผ่าน C++ แอปพลิเคชัน 
 weight: 3480
-url: /th/cpp/conversion/html-to-svg/ 
+
 description: ตัวอย่างโค้ดการแปลง C++ สำหรับเอกสาร HTML เป็นรูปแบบ SVG โปรแกรมเมอร์สามารถใช้ซอร์สโค้ดนี้สำหรับการแปลง HTML เป็น SVG เป็นกลุ่มภายในแอปพลิเคชัน C++ ใดๆ
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

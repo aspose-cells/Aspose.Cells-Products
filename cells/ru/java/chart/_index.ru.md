@@ -1,6 +1,6 @@
-﻿---
+---
 title: Создание диаграмм Excel и преобразование в изображения с помощью Java
-url: /ru/java/chart/
+
 description: Исходный код Java для рисования и преобразования диаграммы или диаграммы в Microsoft Excel с использованием библиотеки Java. 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

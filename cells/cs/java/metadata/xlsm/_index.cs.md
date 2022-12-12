@@ -1,7 +1,7 @@
-﻿---
+---
 title: Upravit nebo zobrazit metadata souborů XLSM prostřednictvím Java 
 weight: 9030
-url: /cs/java/metadata/xlsm/ 
+
 description: Java ukázkový kód pro úpravu nebo zobrazení metadat ve formátu XLSM v Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

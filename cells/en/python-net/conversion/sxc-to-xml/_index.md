@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to XML via Python
-url: /python-net/conversion/sxc-to-xml/
+
 description: Sample code for sxc to xml Python conversion. Use API example code for batch sxc files to xml conversion within Python application.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLSX konvertálása DIF-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/xlsx-to-dif/
+
 description: Mintakód az xlsx–diff Python konverzióhoz. Használjon API példakódot kötegelt xlsx fájlokhoz a Python alkalmazáson belüli átalakításhoz.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Lihat Format File TXT melalui .NET 
 weight: 8300
-url: /id/net/viewer/txt/ 
+
 description: C# kode sumber untuk memuat, merender, dan menampilkan dokumen TXT pada .NET Framework, .NET Core, Mono, atau Platform Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

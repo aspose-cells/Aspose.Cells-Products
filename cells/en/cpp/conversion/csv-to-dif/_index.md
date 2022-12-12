@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to DIF via C++
-url: /cpp/conversion/csv-to-dif/
+
 description: Convert CSV to DIF format in C++ code. Save CSV as DIF using C++.
 ---
 

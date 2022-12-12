@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést SPREADSHEETML na TABDELIMITED přes Python
-url: /cs/python-java/conversion/spreadsheetml-to-tabdelimited/
+
 description: Ukázkový kód pro převod tabulkyml na Python oddělený tabulátory. Použijte ukázkový kód API pro dávkové soubory tabulkového procesoruml na převod oddělený tabulátory v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

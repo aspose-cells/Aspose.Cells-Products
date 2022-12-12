@@ -1,7 +1,7 @@
-﻿---
+---
 title: "TXT konvertálása XLTX-re a következőn keresztül: Java "
 weight: 2280
-url: /hu/java/conversion/txt-to-xltx/ 
+
 description: Minta Java konverziós kód a TXT formátumhoz XLTX fájllá. A programozók ezt a példakódot használhatják Excel és OpenOffice táblázatok XLTX formátumba exportálására bármely web- vagy asztali Java alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

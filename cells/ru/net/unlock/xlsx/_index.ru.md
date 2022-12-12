@@ -1,7 +1,7 @@
-﻿---
+---
 title: Разблокировать документ XLSX через .NET 
 weight: 2040
-url: /ru/net/unlock/xlsx/ 
+
 description: Исходный код C# для разблокировки защищенного паролем файла XLSX на платформах .NET Framework, .NET Core, Mono или Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

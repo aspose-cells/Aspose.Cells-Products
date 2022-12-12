@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง XLTX เป็น SVG ผ่าน C++ แอปพลิเคชัน 
-url: /th/cpp/conversion/xltx-to-svg/ 
+
 description: ตัวอย่างรหัสการแปลง C++ สำหรับเอกสาร XLTX เป็นรูปแบบ SVG โปรแกรมเมอร์สามารถใช้ซอร์สโค้ดนี้สำหรับการแปลง XLTX เป็น SVG แบบแบตช์ภายในแอปพลิเคชัน C++ ใดๆ
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

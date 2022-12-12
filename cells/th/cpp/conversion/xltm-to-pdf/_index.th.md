@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง XLTM เป็น PDF ผ่าน C++ แอปพลิเคชัน 
-url: /th/cpp/conversion/xltm-to-pdf/ 
+
 description: ตัวอย่างรหัสการแปลง C++ สำหรับเอกสาร XLTM เป็นรูปแบบ PDF โปรแกรมเมอร์สามารถใช้ซอร์สโค้ดนี้สำหรับการแปลง XLTM เป็นแบทช์เป็น PDF ภายในแอปพลิเคชัน C++ ใดก็ได้
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή TXT σε XLSM μέσω της εφαρμογής C++ 
-url: /el/cpp/conversion/txt-to-xlsm/ 
+
 description: Δείγμα κώδικα μετατροπής C++ για έγγραφο TXT σε μορφή XLSM. Οι προγραμματιστές μπορούν να χρησιμοποιήσουν αυτόν τον πηγαίο κώδικα για ομαδική μετατροπή TXT σε XLSM σε οποιαδήποτε εφαρμογή C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to MARKDOWN via C#
-url: /net/conversion/numbers-to-markdown/
+
 description: Convert NUMBERS to MARKDOWN format in C# code. Save NUMBERS as MARKDOWN using VB.NET, Asp.NET or any .NET based application.
 ---
 

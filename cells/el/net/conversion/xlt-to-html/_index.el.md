@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή XLT σε HTML μέσω C#
-url: /el/net/conversion/xlt-to-html/
+
 description: Δείγμα κώδικα για μετατροπή xlt σε html C#. Χρησιμοποιήστε API παράδειγμα κώδικα για μαζική μετατροπή αρχείων xlt σε html εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert TSV to XML via Python
-url: /python-net/conversion/tsv-to-xml/
+
 description: Sample code for tsv to xml Python conversion. Use API example code for batch tsv files to xml conversion within Python application.
 ---
 

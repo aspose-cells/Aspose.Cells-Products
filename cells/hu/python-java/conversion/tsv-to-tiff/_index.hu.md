@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TSV konvertálása TIFF-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/tsv-to-tiff/
+
 description: Mintakód a tsv-ből tiff-be Python konverzióhoz. Használjon API példakódot kötegelt tsv-fájlokhoz a tiff-konverzióhoz a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

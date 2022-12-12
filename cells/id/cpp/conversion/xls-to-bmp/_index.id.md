@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversi XLS ke BMP melalui C++ aplikasi 
 weight: 5750
-url: /id/cpp/conversion/xls-to-bmp/ 
+
 description: Contoh C++ kode konversi untuk dokumen XLS ke format BMP. Pemrogram dapat menggunakan kode sumber ini untuk konversi batch XLS ke BMP dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

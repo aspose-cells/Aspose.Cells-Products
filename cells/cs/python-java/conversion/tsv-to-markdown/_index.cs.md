@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TSV na MARKDOWN prostřednictvím Python
-url: /cs/python-java/conversion/tsv-to-markdown/
+
 description: Ukázkový kód pro konverzi tsv na markdown Python. Použijte API ukázkový kód pro dávkové soubory tsv k převodu markdown v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

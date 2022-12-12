@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to XLSB via C#
-url: /net/conversion/numbers-to-xlsb/
+
 description: Convert NUMBERS to XLSB format in C# code. Save NUMBERS as XLSB using VB.NET, Asp.NET or any .NET based application.
 ---
 

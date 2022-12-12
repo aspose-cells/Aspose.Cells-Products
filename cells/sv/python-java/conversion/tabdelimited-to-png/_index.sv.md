@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera TABDELIMITED till PNG via Python
-url: /sv/python-java/conversion/tabdelimited-to-png/
+
 description: Exempelkod för tabbavgränsad till png Python-omvandling. Använd API exempelkod för batch-tabbavgränsade filer till png-konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

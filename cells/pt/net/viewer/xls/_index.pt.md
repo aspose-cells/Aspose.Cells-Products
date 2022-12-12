@@ -1,7 +1,7 @@
-﻿---
+---
 title: Visualize Formatos de Arquivo XLS via .NET 
 weight: 1260
-url: /pt/net/viewer/xls/ 
+
 description: C# código-fonte para carregar, renderizar e exibir documentos XLS em plataformas .NET Framework, .NET Core, Mono ou Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

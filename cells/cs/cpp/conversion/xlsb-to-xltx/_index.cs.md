@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převeďte XLSB na XLTX pomocí aplikace C++ 
 weight: 550
-url: /cs/cpp/conversion/xlsb-to-xltx/ 
+
 description: Ukázkový konverzní kód C++ pro dokument XLSB na formát XLTX. Programátoři mohou použít tento zdrojový kód pro dávkovou konverzi XLSB na XLTX v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja a TSV-t XLAM-re a(z) C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/tsv-to-xlam/ 
+
 description: Minta C++ konverziós kód a TSV-dokumentumhoz XLAM formátumba. A programozók ezt a forráskódot használhatják a TSV-ből XLAM-be kötegelt konvertáláshoz bármely C++ alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

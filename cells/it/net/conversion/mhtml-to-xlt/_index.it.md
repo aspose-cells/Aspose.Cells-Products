@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converti MHTML in XLT tramite C#
-url: /it/net/conversion/mhtml-to-xlt/
+
 description: Codice di esempio per la conversione da mhtml a xlt C#. Utilizza API codice di esempio per la conversione batch di file mhtml in xlt all'interno di VB.NET, Asp.NET o qualsiasi applicazione basata su .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

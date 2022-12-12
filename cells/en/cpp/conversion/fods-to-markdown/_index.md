@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to MARKDOWN via C++
-url: /cpp/conversion/fods-to-markdown/
+
 description: Convert FODS to MARKDOWN format in C++ code. Save FODS as MARKDOWN using C++.
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Преобразование TXT в EMF через Java 
 weight: 4570
-url: /ru/java/conversion/txt-to-emf/ 
+
 description: Пример кода преобразования Java для формата TXT в файл EMF. Программисты могут использовать этот пример кода для экспорта электронных таблиц Excel и OpenOffice в EMF в любом веб-или настольном Java приложении.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

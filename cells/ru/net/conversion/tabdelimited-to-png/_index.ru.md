@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование TABDELIMITED в PNG с помощью C#
-url: /ru/net/conversion/tabdelimited-to-png/
+
 description: Пример кода для преобразования tabdelimited в png C#. Используйте пример кода API для пакетного преобразования файлов с разделителями табуляции в png в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

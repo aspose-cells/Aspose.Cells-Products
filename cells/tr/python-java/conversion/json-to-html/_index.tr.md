@@ -1,6 +1,6 @@
-﻿---
+---
 title: JSON'u Python aracılığıyla HTML'ye dönüştürün
-url: /tr/python-java/conversion/json-to-html/
+
 description: json'dan html'ye Python dönüştürme için örnek kod. Python uygulamasında toplu json dosyalarını html'ye dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

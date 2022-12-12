@@ -1,6 +1,6 @@
 ---
 title: Convert JPEG to DOCX via Java 
-url: /java/conversion/jpeg-to-docx/
+
 description: Convert JPEG to DOCX format in Java code. Save JPEG as DOCX using Java.
 ---
 

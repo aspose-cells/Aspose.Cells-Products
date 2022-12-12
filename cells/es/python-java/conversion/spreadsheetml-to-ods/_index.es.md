@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta SPREADSHEETML a ODS a través de Python
-url: /es/python-java/conversion/spreadsheetml-to-ods/
+
 description: Ejemplo de código para la conversión de hoja de cálculo a ods Python. Use el código de ejemplo API para archivos de hoja de cálculo por lotes para la conversión de ods dentro de la aplicación Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

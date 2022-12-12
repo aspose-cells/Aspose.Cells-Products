@@ -1,6 +1,6 @@
-﻿---
+---
 title: Java aracılığıyla HTML'yi XML'e dönüştürün 
-url: /tr/java/conversion/html-to-xml/ 
+
 description: HTML biçimi için XML dosyasına örnek Java dönüştürme kodu. Programcılar, Excel ve OpenOffice elektronik tablolarını herhangi bir Web veya Masaüstü Java tabanlı Uygulamada XML'e dışa aktarmak için bu örnek kodu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

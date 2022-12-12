@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést JSON na CSV prostřednictvím Python
-url: /cs/python-java/conversion/json-to-csv/
+
 description: Ukázkový kód pro převod json na csv Python. Použijte API ukázkový kód pro dávkový převod souborů json na csv v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

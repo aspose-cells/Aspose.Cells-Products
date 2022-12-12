@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++アプリケーションを介してXLTをTIFFに変換する 
-url: /ja/cpp/conversion/xlt-to-tiff/ 
+
 description: XLTドキュメントからTIFF形式へのサンプルC++変換コード。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でXLTからTIFFへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

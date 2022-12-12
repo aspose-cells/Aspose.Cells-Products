@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to MD via Java 
-url: /java/conversion/sxc-to-md/
+
 description: Convert SXC to MD format in Java code. Save SXC as MD using Java.
 ---
 

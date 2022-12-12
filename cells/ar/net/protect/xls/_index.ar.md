@@ -1,7 +1,7 @@
-﻿---
+---
 title: حماية وقفل مستند XLS عبر .NET 
 weight: 7010
-url: /ar/net/protect/xls/ 
+
 description: C# كود المصدر لقفل ملف XLS باستخدام كلمة المرور في .NET Framework أو .NET Core أو Mono أو أنظمة Xamarin الأساسية.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

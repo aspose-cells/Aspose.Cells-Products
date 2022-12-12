@@ -1,6 +1,6 @@
-﻿---
+---
 title: إنشاء مخططات فقاعية عبر C#
-url: /ar/net/create-bubble-chart/
+
 description: C# نموذج كود لإنشاء مخططات فقاعية في Excel باستخدام .NET Library. استخدم هذا الرمز لإنشاء مخطط {chart} لـ MS Excel داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

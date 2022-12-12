@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést SPREADSHEETML na SVG prostřednictvím C#
-url: /cs/net/conversion/spreadsheetml-to-svg/
+
 description: Ukázkový kód pro převod tabulky ml na svg C#. Použijte API ukázkový kód pro dávkové tabulkové soubory ml na převod svg v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

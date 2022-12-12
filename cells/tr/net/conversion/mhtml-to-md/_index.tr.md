@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla MHTML'yi MD'ye dönüştürün
-url: /tr/net/conversion/mhtml-to-md/
+
 description: mhtml'den md'ye C# dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu mhtml dosyalarından md'ye dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

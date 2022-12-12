@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง JSON เป็น EMF ผ่าน C++ แอปพลิเคชัน 
-url: /th/cpp/conversion/json-to-emf/ 
+
 description: ตัวอย่างรหัสการแปลง C++ สำหรับเอกสาร JSON เป็นรูปแบบ EMF โปรแกรมเมอร์สามารถใช้ซอร์สโค้ดนี้สำหรับการแปลง JSON เป็น EMF แบบแบตช์ภายในแอปพลิเคชัน C++ ใดๆ
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

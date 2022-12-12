@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir SPREADSHEETML en XLAM via Python
-url: /fr/python-java/conversion/spreadsheetml-to-xlam/
+
 description: Exemple de code pour la conversion de tableurml en xlam Python. Utilisez l'exemple de code API pour la conversion par lots de fichiers tableurml en xlam dans l'application Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

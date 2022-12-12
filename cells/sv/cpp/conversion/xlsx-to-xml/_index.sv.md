@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera XLSX till XML via applikationen C++ 
-url: /sv/cpp/conversion/xlsx-to-xml/ 
+
 description: Exempel på konverteringskod för C++ för XLSX-dokument till XML-format. Programmerare kan använda den här källkoden för batchkonvertering av XLSX till XML inom alla C++-program.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

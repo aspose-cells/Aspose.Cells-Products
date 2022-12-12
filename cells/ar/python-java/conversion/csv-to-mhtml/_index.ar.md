@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل CSV إلى MHTML عبر Python
-url: /ar/python-java/conversion/csv-to-mhtml/
+
 description: نموذج رمز لتحويل csv إلى mhtml Python. استخدم API رمز المثال لملفات CSV الدفعية لتحويل mhtml داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

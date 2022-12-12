@@ -1,6 +1,6 @@
 ---
 title: Convert XLSX to EMF via Python
-url: /python-net/conversion/xlsx-to-emf/
+
 description: Sample code for xlsx to emf Python conversion. Use API example code for batch xlsx files to emf conversion within Python application.
 ---
 

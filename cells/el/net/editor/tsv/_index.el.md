@@ -1,6 +1,6 @@
-﻿---
+---
 title: Επεξεργασία αρχείων TSV μέσω .NET 
-url: /el/net/editor/tsv/ 
+
 description: C# πηγαίος κώδικας για επεξεργασία εγγράφου TSV σε πλατφόρμες .NET Framework, .NET Core, Windows Azure, Mono ή Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

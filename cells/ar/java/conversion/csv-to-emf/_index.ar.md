@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل CSV إلى EMF عبر Java 
 weight: 4550
-url: /ar/java/conversion/csv-to-emf/ 
+
 description: نموذج لشفرة تحويل Java لتنسيق CSV إلى ملف EMF. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى EMF داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

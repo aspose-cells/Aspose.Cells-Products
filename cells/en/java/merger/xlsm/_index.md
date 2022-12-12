@@ -1,7 +1,7 @@
 ---
 title: Merge XLSM Files via Java 
 weight: 1270
-url: /java/merger/xlsm/ 
+
 description: Java sample code to combine XLSM documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

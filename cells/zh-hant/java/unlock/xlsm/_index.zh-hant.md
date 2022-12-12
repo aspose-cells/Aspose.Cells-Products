@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通過 Java 解鎖 XLSM 文檔 
 weight: 7700
-url: /zh-hant/java/unlock/xlsm/ 
+
 description: Java 示例代碼，用於在 Java JSP/JSF 應用程序和桌面應用程序的運行時環境中解鎖受密碼保護的 XLSM 文件。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

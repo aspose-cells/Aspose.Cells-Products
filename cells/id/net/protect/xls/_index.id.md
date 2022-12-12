@@ -1,7 +1,7 @@
-﻿---
+---
 title: Lindungi dan kunci dokumen XLS melalui .NET 
 weight: 7010
-url: /id/net/protect/xls/ 
+
 description: C# kode sumber untuk mengunci file XLS menggunakan sandi pada Platform .NET Framework, .NET Core, Mono atau Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование SPREADSHETML в JPEG с помощью Python
-url: /ru/python-java/conversion/spreadsheetml-to-jpeg/
+
 description: Пример кода для преобразования электронной таблицыml в jpeg Python. Используйте пример кода API для пакетного преобразования файлов электронной таблицыml в jpeg в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

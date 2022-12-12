@@ -1,7 +1,7 @@
-﻿---
+---
 title: ODS konvertálása XLTM-re a C++ alkalmazáson keresztül 
 weight: 7720
-url: /hu/cpp/conversion/ods-to-xltm/ 
+
 description: Minta C++ konverziós kód az ODS-dokumentumhoz XLTM formátumba. A programozók ezt a forráskódot használhatják az ODS-ből XLTM-be kötegelt konvertáláshoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

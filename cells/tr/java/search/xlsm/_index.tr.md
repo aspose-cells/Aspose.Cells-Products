@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java üzerinden açmadan XLSM belgesini arayın 
 weight: 6780
-url: /tr/java/search/xlsm/ 
+
 description: JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Runtime Environment'daki XLSM dosyasında kalıplı kelimeleri aramak için Java örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

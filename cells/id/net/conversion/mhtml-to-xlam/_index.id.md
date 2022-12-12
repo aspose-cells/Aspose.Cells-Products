@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan MHTML ke XLAM melalui C#
-url: /id/net/conversion/mhtml-to-xlam/
+
 description: Contoh kode untuk konversi mhtml ke xlam C#. Gunakan API kode contoh untuk file batch mhtml ke konversi xlam dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

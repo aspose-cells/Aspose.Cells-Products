@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to BMP via Java 
-url: /java/conversion/json-to-bmp/
+
 description: Convert JSON to BMP format in Java code. Save JSON as BMP using Java.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Excel Grafikleri Oluşturun ve Java ile Görüntülere Dönüştürün
-url: /tr/java/chart/
+
 description: Java Kitaplığı'nı kullanarak Microsoft Excel'de grafik veya diyagram çizmek ve dönüştürmek için Java kaynak kodu. 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

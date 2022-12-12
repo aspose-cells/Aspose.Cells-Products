@@ -1,6 +1,6 @@
-﻿---
+---
 title: NUMBERS'ı C# aracılığıyla HTML'ye dönüştürün
-url: /tr/net/conversion/numbers-to-html/
+
 description: Sayıları html'ye C# dönüştürmek için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu iş numarası dosyalarını html'ye dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

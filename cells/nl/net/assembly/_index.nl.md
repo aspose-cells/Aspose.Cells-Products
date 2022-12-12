@@ -1,6 +1,6 @@
-﻿---
+---
 title: Genereer Excel-bestanden via C#
-url: /nl/net/assembly/
+
 description: Genereer Microsoft Excel-spreadsheets op basis van een sjabloonblad met C# code
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

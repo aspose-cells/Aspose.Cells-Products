@@ -1,6 +1,6 @@
-﻿---
+---
 title: "HTML konvertálása SPREADSHEETML-re a következőn keresztül: C#"
-url: /hu/net/conversion/html-to-spreadsheetml/
+
 description: Mintakód a html-ből táblázattáblázatba C# konverzióhoz. Használjon API példakódot kötegelt html-fájlokhoz a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belüli táblázatkezelő konverzióhoz.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

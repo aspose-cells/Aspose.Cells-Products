@@ -1,6 +1,6 @@
-﻿---
+---
 title: "MHTML konvertálása SVG-vé a következőn keresztül: Python"
-url: /hu/python-java/conversion/mhtml-to-svg/
+
 description: Mintakód az mhtml–svg Python konverzióhoz. Használjon API példakódot kötegelt mhtml fájlok svg konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

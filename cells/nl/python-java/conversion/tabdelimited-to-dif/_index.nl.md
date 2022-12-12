@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer TABDELIMITED naar DIF via Python
-url: /nl/python-java/conversion/tabdelimited-to-dif/
+
 description: Voorbeeldcode voor tabdelimited to dif Python conversie. Gebruik API voorbeeldcode voor batch-tabdelimited-bestanden om de conversie binnen de Python-toepassing te wijzigen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

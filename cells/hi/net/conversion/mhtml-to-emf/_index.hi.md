@@ -1,6 +1,6 @@
-﻿---
+---
 title: MHTML को C# के द्वारा EMF में बदलें
-url: /hi/net/conversion/mhtml-to-emf/
+
 description: एमएचटीएमएल से ईएमएफ C# रूपांतरण के लिए नमूना कोड। वीबी.NET, एएसपी.NET या किसी .NET आधारित एप्लिकेशन के भीतर बैच एमएचटीएमएल फाइलों के ईएमएफ रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Ekstrak teks dan gambar dari dokumen XLSB melalui Java 
 weight: 440
-url: /id/java/parser/xlsb/ 
+
 description: Java contoh kode untuk mengekstrak teks dan gambar dari file XLSB di Java Runtime Environment untuk Aplikasi JSP/JSF dan Aplikasi Desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

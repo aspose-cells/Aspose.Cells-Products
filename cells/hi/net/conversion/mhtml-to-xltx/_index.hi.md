@@ -1,6 +1,6 @@
-﻿---
+---
 title: एमएचटीएमएल को C# के माध्यम से एक्सएलटीएक्स में कनवर्ट करें
-url: /hi/net/conversion/mhtml-to-xltx/
+
 description: mhtml से xltx C# रूपांतरण के लिए नमूना कोड। वीबी.NET, एएसपी.NET या किसी .NET आधारित एप्लिकेशन के भीतर बैच एमएचटीएमएल फाइलों के एक्सएलटीएक्स रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

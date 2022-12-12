@@ -1,7 +1,7 @@
-﻿---
+---
 title: TSV फ़ाइलें Java के द्वारा मर्ज करें 
 weight: 9260
-url: /hi/java/merger/tsv/ 
+
 description: Java JSP/JSF एप्लिकेशन और डेस्कटॉप एप्लिकेशन के लिए रनटाइम एनवायरनमेंट पर TSV दस्तावेज़ों को संयोजित करने के लिए Java नमूना कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

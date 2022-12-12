@@ -1,6 +1,6 @@
 ---
 title: Merge HTM to XLS Files via C++ 
-url: /cpp/merger/merge-htm-to-xls/ 
+
 description: Merge HTM to XLS file in C++ code. Combine HTM to XLS file using C++.
 ---
 

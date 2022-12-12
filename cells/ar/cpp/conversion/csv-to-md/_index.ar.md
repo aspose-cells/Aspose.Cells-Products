@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل CSV إلى MD عبر تطبيق C++ 
-url: /ar/cpp/conversion/csv-to-md/ 
+
 description: نموذج C++ رمز التحويل لمستند CSV إلى تنسيق MD. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل دفعة CSV إلى MD في أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

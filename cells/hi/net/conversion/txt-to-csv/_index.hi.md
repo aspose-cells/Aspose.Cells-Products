@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# के माध्यम से TXT को CSV में बदलें
-url: /hi/net/conversion/txt-to-csv/
+
 description: txt से csv C# रूपांतरण के लिए नमूना कोड। VB.NET, Asp.NET या किसी .NET आधारित एप्लिकेशन के भीतर csv रूपांतरण में बैच txt फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

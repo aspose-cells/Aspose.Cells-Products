@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést CSV na TXT prostřednictvím Python
-url: /cs/python-java/conversion/csv-to-txt/
+
 description: Ukázkový kód pro převod csv na txt Python. Použijte API ukázkový kód pro dávkový převod souborů csv na txt v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

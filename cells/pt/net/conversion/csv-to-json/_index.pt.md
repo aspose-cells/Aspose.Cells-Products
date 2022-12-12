@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter CSV para JSON via C#
-url: /pt/net/conversion/csv-to-json/
+
 description: Código de amostra para conversão de csv para json C#. Use API código de exemplo para arquivos csv em lote para conversão json em VB.NET, Asp.NET ou qualquer aplicativo baseado em .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

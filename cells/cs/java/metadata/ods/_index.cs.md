@@ -1,7 +1,7 @@
-﻿---
+---
 title: Upravit nebo zobrazit metadata souborů ODS prostřednictvím Java 
 weight: 2080
-url: /cs/java/metadata/ods/ 
+
 description: Java ukázkový kód pro úpravu nebo zobrazení metadat formátu ODS v Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

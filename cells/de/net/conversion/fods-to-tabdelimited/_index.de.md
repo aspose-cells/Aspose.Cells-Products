@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie FODS in TABDELIMITED über C#
-url: /de/net/conversion/fods-to-tabdelimited/
+
 description: Beispielcode für die Umwandlung von fods in tabulatorgetrennte C#. Verwenden Sie API Beispielcode für Batch-FODs-Dateien in tabulatorgetrennte Konvertierung innerhalb von VB.NET, Asp.NET oder einer beliebigen .NET-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

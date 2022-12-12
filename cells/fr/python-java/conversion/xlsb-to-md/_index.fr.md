@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir XLSB en MD via Python
-url: /fr/python-java/conversion/xlsb-to-md/
+
 description: Exemple de code pour la conversion de xlsb en md Python. Utilisez l'exemple de code API pour les fichiers batch xlsb en conversion md dans l'application Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

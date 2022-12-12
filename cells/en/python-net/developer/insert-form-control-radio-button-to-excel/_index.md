@@ -1,7 +1,7 @@
 ---
 title: Insert RadioButton(Form control) into Excel via Python 
 weight: 60
-url: /python-net/developer/insert-form-control-radio-button-to-excel/ 
+
 description: Python source code to insert RadioButton(Form control) into Excel.
 ---
 

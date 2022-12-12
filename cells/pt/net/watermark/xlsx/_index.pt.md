@@ -1,7 +1,7 @@
-﻿---
+---
 title: Documento XLSX com marca d'água via .NET 
 weight: 8270
-url: /pt/net/watermark/xlsx/ 
+
 description: C# código-fonte para adicionar ou remover marca d'água do arquivo XLSX nas plataformas .NET Framework, .NET Core, Mono ou Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

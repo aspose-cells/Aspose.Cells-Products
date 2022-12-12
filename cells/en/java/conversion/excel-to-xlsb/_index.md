@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to XLSB via Java 
-url: /java/conversion/excel-to-xlsb/
+
 description: Convert EXCEL to XLSB format in Java code. Save EXCEL as XLSB using Java.
 ---
 

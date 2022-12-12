@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#에서 Excel 워크시트를 현명하게 분할
-url: /ko/net/splitter/
+
 description: Visual C#.NET 애플리케이션에서 Microsoft Excel 파일을 여러 파일로 분할하는 방법을 설명하는 C# 소스 코드
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

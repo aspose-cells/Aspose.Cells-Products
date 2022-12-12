@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование TABDELIMITED в XLSM через C#
-url: /ru/net/conversion/tabdelimited-to-xlsm/
+
 description: Пример кода для преобразования tabdelimited в xlsm C#. Используйте пример кода API для пакетного преобразования файлов с разделителями табуляции в xlsm в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

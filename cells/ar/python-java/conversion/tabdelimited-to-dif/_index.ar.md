@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TABDELIMITED إلى DIF عبر Python
-url: /ar/python-java/conversion/tabdelimited-to-dif/
+
 description: نموذج رمز لجدولة محدّدة للتحويل Python. استخدم API رمز المثال للملفات المحددة بعلامات جدولة مجمعة لتحويل مختلف ضمن تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

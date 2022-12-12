@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla TSV'yi XLT'ye dönüştürün
-url: /tr/python-java/conversion/tsv-to-xlt/
+
 description: tsv'den xlt'ye Python dönüştürme için örnek kod. Python uygulamasında toplu tsv dosyalarından xlt'ye dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer MHTML naar PDF via Python
-url: /nl/python-java/conversion/mhtml-to-pdf/
+
 description: Voorbeeldcode voor conversie van mhtml naar pdf Python. Gebruik API voorbeeldcode voor batch-mhtml-bestanden naar pdf-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

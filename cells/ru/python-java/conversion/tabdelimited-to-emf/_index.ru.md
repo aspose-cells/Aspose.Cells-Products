@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование TABDELIMITED в EMF через Python
-url: /ru/python-java/conversion/tabdelimited-to-emf/
+
 description: Пример кода для преобразования tabdelimited в emf Python. Используйте пример кода API для пакетного преобразования файлов с разделителями табуляции в emf в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

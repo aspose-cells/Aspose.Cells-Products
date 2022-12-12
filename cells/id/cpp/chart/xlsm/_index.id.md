@@ -1,7 +1,7 @@
-﻿---
+---
 title: Bagan dokumen XLSM melalui C++ 
 weight: 8510
-url: /id/cpp/chart/xlsm/ 
+
 description: C++ kode contoh untuk menggambar dan mengonversi bagan atau diagram dalam file XLSM di C++ Runtime Environment untuk Windows 32 bit, Windows 64 bit, dan Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

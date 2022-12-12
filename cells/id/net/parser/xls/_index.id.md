@@ -1,7 +1,7 @@
-﻿---
+---
 title: Ekstrak teks dan gambar dari dokumen XLS melalui .NET 
 weight: 5600
-url: /id/net/parser/xls/ 
+
 description: C# kode sumber untuk mengekstrak teks dan gambar dari file XLS di .NET Framework, .NET Core, Mono atau Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

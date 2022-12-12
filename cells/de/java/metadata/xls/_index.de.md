@@ -1,7 +1,7 @@
-﻿---
+---
 title: Bearbeiten oder Anzeigen von Metadaten von XLS-Dateien über Java 
 weight: 730
-url: /de/java/metadata/xls/ 
+
 description: Java Beispielcode zum Bearbeiten oder Anzeigen von Metadaten im XLS-Format in Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

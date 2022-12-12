@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla XLT'yi JSON'a dönüştürün
-url: /tr/python-java/conversion/xlt-to-json/
+
 description: xlt'den json'a Python dönüştürme için örnek kod. Python uygulamasında toplu xlt dosyalarından json'a dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

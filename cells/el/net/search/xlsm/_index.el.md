@@ -1,7 +1,7 @@
-﻿---
+---
 title: Αναζήτηση εγγράφου XLSM χωρίς άνοιγμα μέσω .NET 
 weight: 4880
-url: /el/net/search/xlsm/ 
+
 description: C# πηγαίος κώδικας για αναζήτηση λέξεων με μοτίβο σε αρχείο XLSM σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

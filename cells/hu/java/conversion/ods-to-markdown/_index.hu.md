@@ -1,6 +1,6 @@
-﻿---
+---
 title: "ODS konvertálása MARKDOWN-re a következőn keresztül: Java "
-url: /hu/java/conversion/ods-to-markdown/ 
+
 description: Minta Java konverziós kód az ODS formátumhoz MARKDOWN fájlba. A programozók ezt a példakódot használhatják Excel- és OpenOffice-táblázatok MARKDOWN-ba exportálására bármely web- vagy asztali Java-alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

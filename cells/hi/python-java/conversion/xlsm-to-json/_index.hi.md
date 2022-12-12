@@ -1,6 +1,6 @@
-﻿---
+---
 title: XLSM को JSON में Python के माध्यम से कनवर्ट करें
-url: /hi/python-java/conversion/xlsm-to-json/
+
 description: xlsm से json Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर बैच xlsm फ़ाइलों को json रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Hợp nhất các tệp XLT qua .NET 
 weight: 1820
-url: /vi/net/merger/xlt/ 
+
 description: C# mã nguồn để kết hợp các tài liệu XLT trên Nền tảng .NET Framework, .NET Core Mono hoặc Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

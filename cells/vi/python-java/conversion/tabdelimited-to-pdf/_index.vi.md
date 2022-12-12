@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển TABDELIMITED sang PDF qua Python
-url: /vi/python-java/conversion/tabdelimited-to-pdf/
+
 description: Mã mẫu để chuyển đổi tabdelimited sang pdf Python. Sử dụng mã mẫu API cho các tệp được giới hạn bằng tab hàng loạt thành chuyển đổi pdf trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Créer des fichiers MS Excel XLS via Python 
-url: /fr/python-java/create-xls/ 
+
 description: Python Exemple de code pour générer des documents XLS. Utilisez ce code pour créer des fichiers MS Excel XLS dans l'application Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

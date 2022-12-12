@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή XLSB σε ODS μέσω C#
-url: /el/net/conversion/xlsb-to-ods/
+
 description: Δείγμα κώδικα για μετατροπή xlsb σε ods C#. Χρησιμοποιήστε API παράδειγμα κώδικα για μαζική μετατροπή αρχείων xlsb σε ods εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してSPREADSHEETMLをEMFに変換します
-url: /ja/python-java/conversion/spreadsheetml-to-emf/
+
 description: SpreadsheetmlからemfPythonへの変換のサンプルコード。 Pythonアプリケーション内で変換をemfするためのバッチspreadsheetmlファイルのAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

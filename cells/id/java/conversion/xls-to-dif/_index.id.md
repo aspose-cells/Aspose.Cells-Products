@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversikan XLS ke DIF melalui Java 
 weight: 7820
-url: /id/java/conversion/xls-to-dif/ 
+
 description: Contoh Java kode konversi untuk format XLS ke file DIF. Pemrogram dapat menggunakan kode contoh ini untuk mengekspor spreadsheet Excel & OpenOffice ke DIF dalam Aplikasi berbasis Java Web atau Desktop apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

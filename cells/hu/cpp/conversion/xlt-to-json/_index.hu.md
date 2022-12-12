@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLT-t JSON-ba a(z) C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/xlt-to-json/ 
+
 description: Minta C++ konverziós kód az XLT-dokumentumhoz JSON formátumba. A programozók ezt a forráskódot használhatják az XLT-ből JSON-ba történő kötegelt konvertáláshoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

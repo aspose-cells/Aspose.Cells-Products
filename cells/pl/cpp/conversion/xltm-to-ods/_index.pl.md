@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj XLTM na ODS za pomocą aplikacji C++ 
-url: /pl/cpp/conversion/xltm-to-ods/ 
+
 description: Przykładowy kod konwersji C++ dla dokumentu XLTM do formatu ODS. Programiści mogą używać tego kodu źródłowego do wsadowej konwersji XLTM na ODS w dowolnej aplikacji C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

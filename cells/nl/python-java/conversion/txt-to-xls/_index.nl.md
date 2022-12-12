@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer TXT naar XLS via Python
-url: /nl/python-java/conversion/txt-to-xls/
+
 description: Voorbeeldcode voor conversie van txt naar xls Python. Gebruik API voorbeeldcode voor batch-txt-bestanden naar xls-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

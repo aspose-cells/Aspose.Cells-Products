@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++ aracılığıyla TSV Dosyaları oluşturun 
-url: /tr/cpp/create-tsv/ 
+
 description: C++ TSV dosyaları oluşturmak için örnek kod. C++ tabanlı uygulamada TSV dosyaları oluşturmak için bu kodu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

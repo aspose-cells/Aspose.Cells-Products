@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Konvertálja az XLT-t PDF-be a következőn keresztül: C#"
-url: /hu/net/conversion/xlt-to-pdf/
+
 description: Mintakód az xlt-ből pdf-be C# konvertáláshoz. Használjon API példakódot az xlt fájlok kötegelt PDF konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazásban.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer JSON naar JPEG via C++ applicatie 
-url: /nl/cpp/conversion/json-to-jpeg/ 
+
 description: Voorbeeld C++-conversiecode voor JSON-document naar JPEG-indeling. Programmeurs kunnen deze broncode gebruiken voor batchconversie van JSON naar JPEG binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 C# 将 NUMBERS 转换为 GIF
-url: /zh/net/conversion/numbers-to-gif/
+
 description: 数字到 gif C# 转换的示例代码。在 VB.NET、Asp.NET 或任何基于 .NET 的应用程序中使用 API 批号文件到 gif 转换的示例代码。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

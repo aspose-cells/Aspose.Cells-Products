@@ -1,6 +1,6 @@
 ---
 title: Merge XLSB to TSV Files via C# 
-url: /net/merger/merge-xlsb-to-tsv/ 
+
 description: Merge XLSB to TSV file in C# code. Combine XLSB to TSV file using VB.NET, Asp.NET or any .NET based application.
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل TSV إلى ODS عبر تطبيق C++ 
 weight: 1810
-url: /ar/cpp/conversion/tsv-to-ods/ 
+
 description: نموذج C++ رمز التحويل لمستند TSV إلى تنسيق ODS. يمكن للمبرمجين استخدام شفرة المصدر هذه لتحويل TSV للدفعة إلى ODS في أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

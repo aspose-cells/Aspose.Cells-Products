@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla XLT'yi TIFF'ye dönüştürün
-url: /tr/python-java/conversion/xlt-to-tiff/
+
 description: xlt'den tiff'e Python dönüşümü için örnek kod. Python uygulamasında dönüşüm tiff için toplu xlt dosyaları için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést MHTML na ODS přes Python
-url: /cs/python-java/conversion/mhtml-to-ods/
+
 description: Ukázkový kód pro konverzi mhtml na ods Python. Použijte API ukázkový kód pro dávkový převod souborů mhtml na ods v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

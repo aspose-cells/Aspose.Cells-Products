@@ -1,6 +1,6 @@
 ---
 title: Create Bar Charts via Python
-url: /python-net/create-bar-chart/
+
 description: Python Sample code for creating Bar charts to Excel using Python Library. Use this code for creating a Bar chart to MS Excel within Python based application.
 
 ---

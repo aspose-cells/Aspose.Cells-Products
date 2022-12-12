@@ -1,6 +1,6 @@
 ---
 title: Repair excel file via Java
-url: /java/recovery/repair-excel/ 
+
 description: Repair a corrupt excel file using Java. Recovery tool to repair corrupted excel file within Java application.
 ---
 

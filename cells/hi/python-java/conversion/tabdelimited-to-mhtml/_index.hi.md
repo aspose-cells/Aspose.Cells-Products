@@ -1,6 +1,6 @@
-﻿---
+---
 title: TABDELIMITED को Python के माध्यम से MHTML में कनवर्ट करें
-url: /hi/python-java/conversion/tabdelimited-to-mhtml/
+
 description: mhtml Python रूपांतरण के लिए सीमित टैब के लिए नमूना कोड। Python एप्लिकेशन के भीतर बैच टैबसीमांकित फ़ाइलों से एमएचटीएमएल रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

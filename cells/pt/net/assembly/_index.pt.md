@@ -1,6 +1,6 @@
-﻿---
+---
 title: Gere arquivos do Excel via C#
-url: /pt/net/assembly/
+
 description: Gere planilhas do Microsoft Excel a partir de uma planilha de modelo usando o código C#
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

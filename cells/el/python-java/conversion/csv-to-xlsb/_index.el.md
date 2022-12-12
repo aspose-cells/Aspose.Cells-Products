@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή CSV σε XLSB μέσω Python
-url: /el/python-java/conversion/csv-to-xlsb/
+
 description: Δείγμα κώδικα για μετατροπή csv σε xlsb Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδική μετατροπή αρχείων csv σε xlsb εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

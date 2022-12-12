@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# üzerinden XLTX'i XPS'ye dönüştürün
-url: /tr/net/conversion/xltx-to-xps/
+
 description: xltx'ten xps'e C# dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu xltx dosyalarını xps'e dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

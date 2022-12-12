@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj SPREADSHEETML na XLAM przez C#
-url: /pl/net/conversion/spreadsheetml-to-xlam/
+
 description: Przykładowy kod konwersji arkusz kalkulacyjny ml na xlam C#. Użyj przykładowego kodu API dla plików arkusza kalkulacyjnego wsadowego do konwersji xlam w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

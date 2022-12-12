@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to XPS via C#
-url: /net/conversion/sxc-to-xps/
+
 description: Convert SXC to XPS format in C# code. Save SXC as XPS using VB.NET, Asp.NET or any .NET based application.
 ---
 

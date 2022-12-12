@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převeďte XLS na ODS pomocí aplikace C++ 
 weight: 1160
-url: /cs/cpp/conversion/xls-to-ods/ 
+
 description: Ukázkový konverzní kód C++ pro dokument XLS na formát ODS. Programátoři mohou použít tento zdrojový kód pro dávkovou konverzi XLS na ODS v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

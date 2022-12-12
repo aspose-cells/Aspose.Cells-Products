@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést EXCEL na SVG přes Python
-url: /cs/python-java/conversion/excel-to-svg/
+
 description: Ukázkový kód pro převod Excel na svg Python. Použijte API ukázkový kód pro dávkový převod souborů Excel na svg v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

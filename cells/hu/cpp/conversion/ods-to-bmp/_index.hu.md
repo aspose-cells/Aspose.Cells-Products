@@ -1,7 +1,7 @@
-﻿---
+---
 title: ODS konvertálása BMP-vé a C++ alkalmazáson keresztül 
 weight: 8940
-url: /hu/cpp/conversion/ods-to-bmp/ 
+
 description: Minta C++ konverziós kód az ODS dokumentumhoz BMP formátumba. A programozók ezt a forráskódot használhatják az ODS-ből BMP-be kötegelt konvertáláshoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert XLSX to EMF via C#
-url: /net/conversion/xlsx-to-emf/
+
 description: Convert XLSX to EMF format in C# code. Save XLSX as EMF using VB.NET, Asp.NET or any .NET based application.
 ---
 

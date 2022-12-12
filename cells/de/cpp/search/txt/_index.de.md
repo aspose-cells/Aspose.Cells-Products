@@ -1,7 +1,7 @@
-﻿---
+---
 title: Durchsuchen Sie das TXT-Dokument, ohne es über C++ zu öffnen 
 weight: 5090
-url: /de/cpp/search/txt/ 
+
 description: C++ Beispielcode zum Suchen von Wörtern mit Muster in TXT-Datei in C++ Runtime Environment für Windows 32 Bit, Windows 64 Bit und Linux 64 Bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

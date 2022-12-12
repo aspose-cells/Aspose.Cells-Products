@@ -1,7 +1,7 @@
-﻿---
+---
 title: Generera rapporter i XLSM-filer via .NET 
 weight: 4400
-url: /sv/net/assembly/xlsm/ 
+
 description: C# källkod för att generera rapporter i XLSM-format på .NET Framework, .NET Core, Mono eller Xamarin-plattformar.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java経由のウォーターマークXLSMドキュメント 
 weight: 7680
-url: /ja/java/watermark/xlsm/ 
+
 description: JSP/JSFアプリケーションおよびデスクトップアプリケーションのJavaランタイム環境でXLSMファイルに透かしを追加または削除するためのJavaサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

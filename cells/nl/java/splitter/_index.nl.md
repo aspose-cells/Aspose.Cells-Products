@@ -1,6 +1,6 @@
-﻿---
+---
 title: Excel-spreadsheet splitsen in werkbladen in Java
-url: /nl/java/splitter/
+
 description: Java broncodes waarin wordt uitgelegd hoe u Microsoft Excel-bestanden in meerdere documenten kunt splitsen met behulp van Java Excel-bibliotheek
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

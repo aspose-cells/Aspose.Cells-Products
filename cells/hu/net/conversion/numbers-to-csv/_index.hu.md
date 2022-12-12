@@ -1,6 +1,6 @@
-﻿---
+---
 title: "NUMBERS konvertálása CSV-vé a következőn keresztül: C#"
-url: /hu/net/conversion/numbers-to-csv/
+
 description: Mintakód számok csv C# konvertálásához. Használjon API példakódot a kötegszámfájlok csv konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

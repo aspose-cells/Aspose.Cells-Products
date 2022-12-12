@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera TABDELIMITED till DIF via C#
-url: /sv/net/conversion/tabdelimited-to-dif/
+
 description: Exempelkod för tabbavgränsad till dif C#-omvandling. Använd API exempelkod för batch-tabbavgränsade filer för att skilja konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

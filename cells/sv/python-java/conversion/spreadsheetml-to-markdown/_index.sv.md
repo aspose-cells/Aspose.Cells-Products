@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera SPREADSHEETML till MARKDOWN via Python
-url: /sv/python-java/conversion/spreadsheetml-to-markdown/
+
 description: Exempelkod för kalkylarkml för att markera Python konvertering. Använd API-exempelkod för batch-kalkylarkml-filer för att markera nedkonvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

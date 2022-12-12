@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi TSV thành TABDELIMITED qua Python
-url: /vi/python-java/conversion/tsv-to-tabdelimited/
+
 description: Mã mẫu cho chuyển đổi tsv sang tabdelimited Python. Sử dụng mã mẫu API cho hàng loạt tệp tsv để chuyển đổi được giới hạn bằng tab trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi TABDELIMITED ke BMP melalui C#
-url: /id/net/conversion/tabdelimited-to-bmp/
+
 description: Contoh kode untuk konversi tabdelimited ke bmp C#. Gunakan API kode contoh untuk berkas tabdelimited batch ke konversi bmp dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

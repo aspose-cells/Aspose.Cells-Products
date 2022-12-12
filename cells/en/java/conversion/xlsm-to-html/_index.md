@@ -1,6 +1,6 @@
 ---
 title: Convert XLSM to HTML via Java 
-url: /java/conversion/xlsm-to-html/
+
 description: Convert XLSM to HTML format in Java code. Save XLSM as HTML using Java.
 ---
 

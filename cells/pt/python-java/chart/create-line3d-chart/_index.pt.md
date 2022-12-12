@@ -1,6 +1,6 @@
-﻿---
+---
 title: Crie gráficos de linha 3D por meio de Python
-url: /pt/python-java/create-line3d-chart/
+
 description: Python Código de exemplo para criar gráficos de linhas 3D para Excel usando a biblioteca Python. Use este código para criar um gráfico de linhas 3D para MS Excel dentro do aplicativo baseado em Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

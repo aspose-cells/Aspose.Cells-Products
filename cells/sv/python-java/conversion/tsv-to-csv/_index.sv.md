@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera TSV till CSV via Python
-url: /sv/python-java/conversion/tsv-to-csv/
+
 description: Exempelkod för tsv till csv Python-konvertering. Använd API exempelkod för batch-tsv-filer till csv-konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer HTML naar DIF via C#
-url: /nl/net/conversion/html-to-dif/
+
 description: Voorbeeldcode voor html naar diff C#-conversie. Gebruik API voorbeeldcode voor batch-html-bestanden voor dif-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

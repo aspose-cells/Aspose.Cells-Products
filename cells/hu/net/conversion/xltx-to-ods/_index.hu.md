@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLTX konvertálása ODS-re a következőn keresztül: C#"
-url: /hu/net/conversion/xltx-to-ods/
+
 description: Mintakód az xltx ods C# konverziójához. Használjon API példakódot a kötegelt xltx fájlok ods konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

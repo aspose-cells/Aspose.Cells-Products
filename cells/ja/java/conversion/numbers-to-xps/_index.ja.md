@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してNUMBERSをXPSに変換します 
-url: /ja/java/conversion/numbers-to-xps/ 
+
 description: NUMBERS形式のXPSファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のXPSにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

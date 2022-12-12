@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie TABDELIMITED in PNG über C#
-url: /de/net/conversion/tabdelimited-to-png/
+
 description: Beispielcode für die Umwandlung von tabulatorgetrennt in png C#. Verwenden Sie den API Beispielcode für die Batch-Konvertierung von tabulatorgetrennten Dateien in png innerhalb von VB.NET, Asp.NET oder einer beliebigen .NET-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

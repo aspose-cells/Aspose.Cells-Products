@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to MD via Java 
-url: /java/conversion/fods-to-md/
+
 description: Convert FODS to MD format in Java code. Save FODS as MD using Java.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 Python 将 XLS 转换为 MD
-url: /zh/python-java/conversion/xls-to-md/
+
 description: xls 到 md Python 转换的示例代码。使用 Python 应用程序中将 xls 文件批量转换为 md 的 API 示例代码。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

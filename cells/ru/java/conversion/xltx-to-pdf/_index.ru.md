@@ -1,7 +1,7 @@
-﻿---
+---
 title: Преобразование XLTX в PDF через Java 
 weight: 8110
-url: /ru/java/conversion/xltx-to-pdf/ 
+
 description: Пример кода преобразования Java для формата XLTX в файл PDF. Программисты могут использовать этот пример кода для экспорта электронных таблиц Excel и OpenOffice в формат PDF в любом веб-приложении или настольном Java приложении.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

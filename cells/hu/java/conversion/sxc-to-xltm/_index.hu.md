@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SXC konvertálása XLTM-re a következőn keresztül: Java "
-url: /hu/java/conversion/sxc-to-xltm/ 
+
 description: Minta Java konverziós kód az SXC formátumhoz XLTM fájllá. A programozók ezt a példakódot használhatják Excel- és OpenOffice-táblázatok XLTM-be exportálására bármely web- vagy asztali Java-alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

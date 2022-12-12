@@ -1,7 +1,7 @@
-﻿---
+---
 title: Graf dokumentu ODS prostřednictvím C++ 
 weight: 3820
-url: /cs/cpp/chart/ods/ 
+
 description: C++ ukázkový kód pro kreslení a převod grafu nebo diagramu v souboru ODS v C++ Runtime Environment pro Windows 32bit, Windows 64bit a Linux 64bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

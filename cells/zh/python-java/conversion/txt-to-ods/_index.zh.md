@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 Python 将 TXT 转换为 ODS
-url: /zh/python-java/conversion/txt-to-ods/
+
 description: txt 到 ods Python 转换的示例代码。在 Python 应用程序中使用 API 示例代码将批处理 txt 文件转换为 ods。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

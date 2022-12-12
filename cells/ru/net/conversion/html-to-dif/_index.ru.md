@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование HTML в DIF через C#
-url: /ru/net/conversion/html-to-dif/
+
 description: Пример кода для преобразования html в dif C#. Используйте пример кода API для пакетных HTML-файлов для преобразования различий в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

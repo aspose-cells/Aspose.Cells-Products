@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование CSV в HTML через Python
-url: /ru/python-java/conversion/csv-to-html/
+
 description: Пример кода для преобразования csv в html Python. Используйте пример кода API для пакетного преобразования CSV-файлов в html в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

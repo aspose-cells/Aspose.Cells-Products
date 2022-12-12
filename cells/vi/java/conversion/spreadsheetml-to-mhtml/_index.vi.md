@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi SPREADSHEETML sang MHTML qua Java 
-url: /vi/java/conversion/spreadsheetml-to-mhtml/ 
+
 description: Mã chuyển đổi Java mẫu cho định dạng SPREADSHEETML thành tệp MHTML. Người lập trình có thể sử dụng mã ví dụ này để xuất bảng tính Excel & OpenOffice sang MHTML trong bất kỳ Ứng dụng dựa trên Web hoặc Máy tính Java nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla CSV'yi DIF'ye dönüştürün
-url: /tr/python-java/conversion/csv-to-dif/
+
 description: Python dönüşümü için csv için örnek kod. Python uygulamasında farklı dönüştürme için toplu csv dosyaları için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

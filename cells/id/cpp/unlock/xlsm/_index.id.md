@@ -1,7 +1,7 @@
-﻿---
+---
 title: Buka kunci dokumen XLSM melalui C++ 
 weight: 6070
-url: /id/cpp/unlock/xlsm/ 
+
 description: C++ kode contoh untuk membuka kunci file XLSM yang dilindungi sandi di C++ Runtime Environment untuk Windows 32 bit, Windows 64 bit, dan Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

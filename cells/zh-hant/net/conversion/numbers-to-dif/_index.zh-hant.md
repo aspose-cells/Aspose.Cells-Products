@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 C# 將 NUMBERS 轉換為 DIF
-url: /zh-hant/net/conversion/numbers-to-dif/
+
 description: 數字到 diff C# 轉換的示例代碼。使用批號文件的 API 示例代碼在 VB.NET、Asp.NET 或任何基於 .NET 的應用程序中進行差異轉換。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ एप्लिकेशन के माध्यम से HTML को SVG में बदलें 
 weight: 3480
-url: /hi/cpp/conversion/html-to-svg/ 
+
 description: एसवीजी प्रारूप में एचटीएमएल दस्तावेज़ के लिए नमूना C++ रूपांतरण कोड। प्रोग्रामर इस स्रोत कोड का उपयोग किसी भी C++ एप्लिकेशन में HTML से SVG रूपांतरण के बैच के लिए कर सकते हैं।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

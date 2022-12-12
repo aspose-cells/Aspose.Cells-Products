@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést XLT na Byte Array přes C# 
 weight: 7690
-url: /cs/net/conversion/xlt-to-byte-array/ 
+
 description: C# Ukázkový kód pro konverzi XLT na Byte Array. Tento kód použijte pro převod Excel XLT na Byte Array v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

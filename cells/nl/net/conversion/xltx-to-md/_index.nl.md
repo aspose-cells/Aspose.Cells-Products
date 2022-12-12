@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLTX naar MD via C#
-url: /nl/net/conversion/xltx-to-md/
+
 description: Voorbeeldcode voor conversie van xltx naar md C#. Gebruik API voorbeeldcode voor batch xltx-bestanden naar md-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

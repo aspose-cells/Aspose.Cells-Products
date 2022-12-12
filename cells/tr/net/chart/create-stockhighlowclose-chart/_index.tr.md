@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# üzerinden Yüksek-Düşük-Kapanış Hisse Senedi Grafikleri Oluşturun
-url: /tr/net/create-stockhighlowclose-chart/
+
 description: C# .NET Kitaplığı'nı kullanarak Excel'de Yüksek-Düşük-Kapalı Hisse senedi çizelgeleri oluşturmak için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde MS Excel'e Yüksek-Düşük-Kapalı Stok grafiği oluşturmak için bu kodu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

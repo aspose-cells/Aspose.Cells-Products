@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera TABDELIMITED till ODS via appen C++ 
-url: /sv/cpp/conversion/tabdelimited-to-ods/ 
+
 description: Exempel på konverteringskod för C++ för TABDELLIMITED-dokument till ODS-format. Programmerare kan använda den här källkoden för batchkonvertering av TABDELLIMITED till ODS inom alla C++-program.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: TABDELIMITED'i C# aracılığıyla HTML'ye dönüştürün
-url: /tr/net/conversion/tabdelimited-to-html/
+
 description: Sekmeyle sınırlandırılmış html C# dönüşümü için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu sekmeyle ayrılmış dosyaları html'ye dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir TXT en SPREADSHEETML via C#
-url: /fr/net/conversion/txt-to-spreadsheetml/
+
 description: Exemple de code pour la conversion de txt en feuille de calcul C#. Utilisez l'exemple de code API pour les fichiers txt par lots en conversion de feuille de calcul dans VB.NET, Asp.NET ou toute application basée sur .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

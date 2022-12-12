@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést CSV na DOCX prostřednictvím C#
-url: /cs/net/conversion/csv-to-docx/
+
 description: Ukázkový kód pro převod csv na docx C#. Použijte API ukázkový kód pro dávkový převod souborů csv na docx v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

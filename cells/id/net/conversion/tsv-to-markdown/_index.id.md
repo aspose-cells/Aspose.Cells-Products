@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan TSV ke MARKDOWN melalui C#
-url: /id/net/conversion/tsv-to-markdown/
+
 description: Contoh kode untuk konversi tsv ke penurunan harga C#. Gunakan API kode contoh untuk berkas tsv batch untuk konversi penurunan harga dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

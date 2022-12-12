@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi XLSM ke TIFF melalui C++ aplikasi 
-url: /id/cpp/conversion/xlsm-to-tiff/ 
+
 description: Contoh C++ kode konversi untuk dokumen XLSM ke format TIFF. Pemrogram dapat menggunakan kode sumber ini untuk konversi batch XLSM ke TIFF dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

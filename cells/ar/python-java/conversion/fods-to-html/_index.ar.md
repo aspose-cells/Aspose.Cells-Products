@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل FODS إلى HTML عبر Python
-url: /ar/python-java/conversion/fods-to-html/
+
 description: نموذج كود للتحويل من fods إلى html Python. استخدم API رمز المثال لملفات fods الدفعية لتحويل html داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

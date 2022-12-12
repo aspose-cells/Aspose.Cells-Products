@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte TABDELIMITED na XLAM pomocí aplikace C++ 
-url: /cs/cpp/conversion/tabdelimited-to-xlam/ 
+
 description: Ukázkový konverzní kód C++ pro dokument TABDELIMITED do formátu XLAM. Programátoři mohou použít tento zdrojový kód pro dávkový převod TABDELIMITED na XLAM v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

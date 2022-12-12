@@ -1,6 +1,6 @@
-﻿---
+---
 title: สร้างแผนภูมิ Bubble3D ผ่าน Python
-url: /th/python-java/create-bubble3d-chart/
+
 description: Python โค้ดตัวอย่างสำหรับสร้างแผนภูมิ Bubble3D ไปยัง Excel โดยใช้ Python Library ใช้รหัสนี้เพื่อสร้างแผนภูมิ Bubble3D ไปยัง MS Excel ภายในแอปพลิเคชันที่ใช้ Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

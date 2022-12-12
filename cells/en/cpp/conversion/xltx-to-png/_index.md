@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to PNG via C++
-url: /cpp/conversion/xltx-to-png/
+
 description: Convert XLTX to PNG format in C++ code. Save XLTX as PNG using C++.
 ---
 

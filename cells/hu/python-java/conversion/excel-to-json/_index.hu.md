@@ -1,6 +1,6 @@
-﻿---
+---
 title: "EXCEL konvertálása JSON-ra a következőn keresztül: Python"
-url: /hu/python-java/conversion/excel-to-json/
+
 description: Mintakód az excel–json Python konverzióhoz. Használjon API példakódot a kötegelt excel-fájlok JSON-konverziójához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

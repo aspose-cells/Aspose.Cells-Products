@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してXLSをTSVに変換します 
 weight: 5190
-url: /ja/java/conversion/xls-to-tsv/ 
+
 description: XLS形式からTSVファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のTSVにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

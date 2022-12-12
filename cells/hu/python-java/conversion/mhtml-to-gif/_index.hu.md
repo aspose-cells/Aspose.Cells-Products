@@ -1,6 +1,6 @@
-﻿---
+---
 title: "MHTML konvertálása GIF formátumba a következőn keresztül: Python"
-url: /hu/python-java/conversion/mhtml-to-gif/
+
 description: Mintakód az mhtml–gif Python konverzióhoz. Használjon API példakódot kötegelt mhtml fájlok gif konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

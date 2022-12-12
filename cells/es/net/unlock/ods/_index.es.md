@@ -1,7 +1,7 @@
-﻿---
+---
 title: Desbloquear documento ODS a través de .NET 
 weight: 3110
-url: /es/net/unlock/ods/ 
+
 description: C# código fuente para desbloquear archivos ODS protegidos con contraseña en .NET Framework, .NET Core, Mono o Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

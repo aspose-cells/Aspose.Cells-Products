@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TABDELIMITED konvertálása TXT-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/tabdelimited-to-txt/
+
 description: Mintakód a tabulátorral tagolt txt Python konverzióhoz. Használjon API példakódot a tabulátorral tagolt fájlok kötegelt txtté konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

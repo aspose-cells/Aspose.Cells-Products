@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to XLSM via C#
-url: /net/conversion/json-to-xlsm/
+
 description: Convert JSON to XLSM format in C# code. Save JSON as XLSM using VB.NET, Asp.NET or any .NET based application.
 ---
 

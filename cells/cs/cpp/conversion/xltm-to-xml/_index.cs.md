@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte XLTM na XML pomocí aplikace C++ 
-url: /cs/cpp/conversion/xltm-to-xml/ 
+
 description: Ukázka převodního kódu C++ pro dokument XLTM do formátu XML. Programátoři mohou použít tento zdrojový kód pro dávkovou konverzi XLTM do XML v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

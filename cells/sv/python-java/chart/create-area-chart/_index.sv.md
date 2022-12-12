@@ -1,6 +1,6 @@
-﻿---
+---
 title: Skapa områdesdiagram via Python
-url: /sv/python-java/create-area-chart/
+
 description: Python Exempelkod för att skapa Ytdiagram till Excel med hjälp av Python Library. Använd den här koden för att skapa ett områdesdiagram till MS Excel i en Python-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

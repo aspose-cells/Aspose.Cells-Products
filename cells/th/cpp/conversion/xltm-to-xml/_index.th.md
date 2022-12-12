@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง XLTM เป็น XML ผ่าน C++ แอปพลิเคชัน 
-url: /th/cpp/conversion/xltm-to-xml/ 
+
 description: ตัวอย่างโค้ดการแปลง C++ สำหรับเอกสาร XLTM เป็นรูปแบบ XML โปรแกรมเมอร์สามารถใช้ซอร์สโค้ดนี้สำหรับการแปลง XLTM เป็นกลุ่มเป็น XML ภายในแอปพลิเคชัน C++ ใดๆ
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

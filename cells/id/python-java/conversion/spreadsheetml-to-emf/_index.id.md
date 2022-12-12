@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan SPREADSHEETML ke EMF melalui Python
-url: /id/python-java/conversion/spreadsheetml-to-emf/
+
 description: Contoh kode untuk spreadsheetml ke emf Python konversi. Gunakan API kode contoh untuk file spreadsheetml batch ke konversi emf dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

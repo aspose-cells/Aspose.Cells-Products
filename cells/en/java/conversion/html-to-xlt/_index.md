@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to XLT via Java 
-url: /java/conversion/html-to-xlt/
+
 description: Convert HTML to XLT format in Java code. Save HTML as XLT using Java.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: برنامج دمج ملفات Excel API .NET C#
-url: /ar/net/merger/
+
 description: اربط ملفات جداول بيانات Excel و OpenOffice ببضعة أسطر من كود C#.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

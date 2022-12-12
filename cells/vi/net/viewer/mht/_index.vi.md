@@ -1,6 +1,6 @@
-﻿---
+---
 title: Xem Định dạng Tệp MHT qua .NET 
-url: /vi/net/viewer/mht/ 
+
 description: C# mã nguồn để tải, hiển thị và hiển thị tài liệu MHT trên Nền tảng .NET Framework, .NET Core, Windows Azure, Mono hoặc Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

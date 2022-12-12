@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla FODS'u XML'e dönüştürün
-url: /tr/python-java/conversion/fods-to-xml/
+
 description: Yemlerden xml'e Python dönüştürme için örnek kod. Python uygulamasında toplu dosya dosyalarından xml'ye dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

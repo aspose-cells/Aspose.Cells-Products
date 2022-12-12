@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi XLTX ke EMF melalui C++ aplikasi 
-url: /id/cpp/conversion/xltx-to-emf/ 
+
 description: Contoh C++ kode konversi untuk dokumen XLTX ke format EMF. Pemrogram dapat menggunakan kode sumber ini untuk konversi batch XLTX ke EMF dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή XLTM σε FODS μέσω Python
-url: /el/python-java/conversion/xltm-to-fods/
+
 description: Δείγμα κώδικα για μετατροπή Python xltm σε fods. Χρησιμοποιήστε API παράδειγμα κώδικα για μαζική μετατροπή αρχείων xltm σε fods εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

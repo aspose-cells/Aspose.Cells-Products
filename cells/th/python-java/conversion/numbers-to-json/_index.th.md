@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง NUMBERS เป็น JSON ผ่าน Python
-url: /th/python-java/conversion/numbers-to-json/
+
 description: โค้ดตัวอย่างสำหรับการแปลงตัวเลขเป็น json Python ใช้โค้ดตัวอย่าง API สำหรับไฟล์หมายเลขแบทช์เป็นการแปลง json ภายในแอปพลิเคชัน Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: SPREADSHEETML'yi Python aracılığıyla XLTX'e dönüştürün
-url: /tr/python-java/conversion/spreadsheetml-to-xltx/
+
 description: E-tablo ml'den xltx'e Python dönüştürme için örnek kod. Python uygulamasında toplu elektronik tabloml dosyalarını xltx'e dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

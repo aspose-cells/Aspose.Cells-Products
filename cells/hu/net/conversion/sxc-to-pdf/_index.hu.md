@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SXC konvertálása PDF-be a következőn keresztül: C#"
-url: /hu/net/conversion/sxc-to-pdf/
+
 description: Mintakód az sxc-ből pdf-be C# konvertáláshoz. Használjon API példakódot az sxc fájlok kötegelt PDF formátumú konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazásban.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

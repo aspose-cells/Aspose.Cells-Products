@@ -1,7 +1,7 @@
-﻿---
+---
 title: MHTML konvertálása PNG-re a(z) C++ alkalmazással 
 weight: 5020
-url: /hu/cpp/conversion/mhtml-to-png/ 
+
 description: Minta C++ konverziós kód MHTML-dokumentumhoz PNG formátumba. A programozók ezt a forráskódot az MHTML-ből PNG-be kötegelt konvertálásához használhatják bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل CSV إلى XLSM عبر تطبيق C++ 
 weight: 6520
-url: /ar/cpp/conversion/csv-to-xlsm/ 
+
 description: نموذج C++ رمز التحويل لمستند CSV إلى تنسيق XLSM. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل CSV إلى XLSM في أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

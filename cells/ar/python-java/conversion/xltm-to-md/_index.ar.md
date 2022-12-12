@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLTM إلى MD عبر Python
-url: /ar/python-java/conversion/xltm-to-md/
+
 description: نموذج رمز للتحويل من xltm إلى md Python. استخدم API رمز المثال لملفات xltm الدفعية لتحويل md داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

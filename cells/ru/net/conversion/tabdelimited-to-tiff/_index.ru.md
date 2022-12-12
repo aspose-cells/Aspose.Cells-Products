@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование TABDELIMITED в TIFF через C#
-url: /ru/net/conversion/tabdelimited-to-tiff/
+
 description: Пример кода для преобразования tabdelimited в tiff C#. Используйте пример кода API для пакетного преобразования файлов с разделителями табуляцией в формат tiff в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

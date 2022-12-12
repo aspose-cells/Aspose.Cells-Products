@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převeďte HTML na SVG pomocí aplikace C++ 
 weight: 3480
-url: /cs/cpp/conversion/html-to-svg/ 
+
 description: Ukázka převodního kódu C++ pro dokument HTML do formátu SVG. Programátoři mohou tento zdrojový kód použít pro dávkový převod HTML na SVG v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

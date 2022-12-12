@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer TSV naar MARKDOWN via C#
-url: /nl/net/conversion/tsv-to-markdown/
+
 description: Voorbeeldcode voor conversie van tsv naar markdown C#. Gebruik API voorbeeldcode voor batch-tsv-bestanden om conversie te verlagen binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TXT na TABDELIMITED přes C#
-url: /cs/net/conversion/txt-to-tabdelimited/
+
 description: Ukázkový kód pro převod txt na tabulátory C#. Použijte API ukázkový kód pro dávkové soubory txt na převod oddělený tabulátory v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

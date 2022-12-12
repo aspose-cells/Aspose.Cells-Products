@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertieren Sie XLT in TIFF über Java 
 weight: 1530
-url: /de/java/conversion/xlt-to-tiff/ 
+
 description: Beispiel-Umwandlungscode Java für das XLT-Format in eine TIFF-Datei. Programmierer können diesen Beispielcode zum Exportieren von Excel- und OpenOffice-Tabellen in TIFF innerhalb einer beliebigen Web- oder Desktop-Java-basierten Anwendung verwenden.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

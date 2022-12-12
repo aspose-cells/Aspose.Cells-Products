@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi NUMBER ke ODS melalui Python
-url: /id/python-java/conversion/numbers-to-ods/
+
 description: Contoh kode untuk konversi angka ke angka Python. Gunakan API kode contoh untuk file nomor batch ke konversi ods dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

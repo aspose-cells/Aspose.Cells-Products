@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie XLSB in MD über Java 
-url: /de/java/conversion/xlsb-to-md/ 
+
 description: Beispiel-Umwandlungscode Java für das XLSB-Format in eine MD-Datei. Programmierer können diesen Beispielcode verwenden, um Excel- und OpenOffice-Tabellen innerhalb jeder Web- oder Desktop-Java-basierten Anwendung nach MD zu exportieren.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

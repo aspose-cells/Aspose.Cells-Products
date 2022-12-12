@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to XPS via Java 
-url: /java/conversion/xls-to-xps/
+
 description: Convert XLS to XPS format in Java code. Save XLS as XPS using Java.
 ---
 

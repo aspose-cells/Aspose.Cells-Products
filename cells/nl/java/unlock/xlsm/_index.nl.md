@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLSM-document ontgrendelen via Java 
 weight: 7700
-url: /nl/java/unlock/xlsm/ 
+
 description: Java voorbeeldcode om met een wachtwoord beveiligd XLSM-bestand te ontgrendelen in Java Runtime Environment voor JSP/JSF-applicaties en desktopapplicaties.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

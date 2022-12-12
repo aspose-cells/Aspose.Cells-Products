@@ -1,7 +1,7 @@
-﻿---
+---
 title: Διαχωρισμός αρχείων XLSX μέσω Java 
 weight: 3250
-url: /el/java/splitter/xlsx/ 
+
 description: Java δείγμα κώδικα για διαχωρισμό εγγράφων XLSX σε Java Runtime Environment για JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

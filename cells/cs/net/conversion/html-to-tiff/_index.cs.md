@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést HTML na TIFF pomocí C#
-url: /cs/net/conversion/html-to-tiff/
+
 description: Ukázkový kód pro konverzi html na tiff C#. Použijte API ukázkový kód pro dávkové soubory html k převodu tiff v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

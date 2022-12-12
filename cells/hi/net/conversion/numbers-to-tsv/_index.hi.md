@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# के माध्यम से NUMBERS को TSV में बदलें
-url: /hi/net/conversion/numbers-to-tsv/
+
 description: tsv C# रूपांतरण में संख्याओं के लिए नमूना कोड। VB.NET, Asp.NET या किसी .NET आधारित एप्लिकेशन के भीतर tsv रूपांतरण में बैच संख्या फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

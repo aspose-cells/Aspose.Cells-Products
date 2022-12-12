@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan ODS ke XLSX melalui Python
-url: /id/python-java/conversion/ods-to-xlsx/
+
 description: Contoh kode untuk konversi ods ke xlsx Python. Gunakan API kode contoh untuk file batch ods ke konversi xlsx dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to XML via Python
-url: /python-net/conversion/csv-to-xml/
+
 description: Sample code for csv to xml Python conversion. Use API example code for batch csv files to xml conversion within Python application.
 ---
 

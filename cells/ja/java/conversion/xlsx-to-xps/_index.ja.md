@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してXLSXをXPSに変換します 
 weight: 8260
-url: /ja/java/conversion/xlsx-to-xps/ 
+
 description: XLSX形式からXPSファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のXPSにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

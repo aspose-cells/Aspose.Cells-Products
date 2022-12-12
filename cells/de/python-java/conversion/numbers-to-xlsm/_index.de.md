@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie NUMBERS in XLSM über Python
-url: /de/python-java/conversion/numbers-to-xlsm/
+
 description: Beispielcode für die Umwandlung von Zahlen in xlsm Python. Verwenden Sie den API-Beispielcode für die Konvertierung von Stapelnummerndateien in xlsm innerhalb der Anwendung Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte TSV na MD prostřednictvím aplikace C++ 
-url: /cs/cpp/conversion/tsv-to-md/ 
+
 description: Ukázka převodního kódu C++ pro dokument TSV na formát MD. Programátoři mohou použít tento zdrojový kód pro dávkový převod TSV na MD v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

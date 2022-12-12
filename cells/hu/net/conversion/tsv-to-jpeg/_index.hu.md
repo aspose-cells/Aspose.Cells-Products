@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TSV konvertálása JPEG formátumba a következőn keresztül: C#"
-url: /hu/net/conversion/tsv-to-jpeg/
+
 description: Mintakód a tsv–jpeg C# konverzióhoz. Használjon API példakódot kötegelt tsv fájlok jpeg konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

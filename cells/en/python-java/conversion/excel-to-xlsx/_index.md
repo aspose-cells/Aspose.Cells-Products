@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to XLSX via Python
-url: /python-java/conversion/excel-to-xlsx/
+
 description: Convert EXCEL to XLSX format in Python code. Save EXCEL as XLSX using Python.
 ---
 

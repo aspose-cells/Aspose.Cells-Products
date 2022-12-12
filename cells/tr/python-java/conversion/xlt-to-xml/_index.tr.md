@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla XLT'yi XML'e dönüştürün
-url: /tr/python-java/conversion/xlt-to-xml/
+
 description: xlt'den xml'ye Python dönüştürme için örnek kod. Python uygulamasında toplu xlt dosyalarından xml'ye dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование MHTML в MD через C#
-url: /ru/net/conversion/mhtml-to-md/
+
 description: Пример кода для преобразования mhtml в md C#. Используйте пример кода API для пакетного преобразования файлов mhtml в md в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

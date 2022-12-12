@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ के माध्यम से खोले बिना TSV दस्तावेज़ खोजें 
 weight: 930
-url: /hi/cpp/search/tsv/ 
+
 description: C++ विंडोज 32 बिट, विंडोज 64 बिट और लिनक्स 64 बिट के लिए C++ रनटाइम एनवायरनमेंट पर टीएसवी फ़ाइल में पैटर्न वाले शब्दों को खोजने के लिए उदाहरण कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

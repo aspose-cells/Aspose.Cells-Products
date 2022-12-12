@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してSPREADSHEETMLをCSVに変換します 
-url: /ja/java/conversion/spreadsheetml-to-csv/ 
+
 description: SPREADSHEETML形式のCSVファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、任意のWebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをCSVにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

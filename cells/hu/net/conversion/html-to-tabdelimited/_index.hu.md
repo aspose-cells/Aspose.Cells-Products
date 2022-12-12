@@ -1,6 +1,6 @@
-﻿---
+---
 title: "HTML konvertálása TAB-raDELIMITED a következőn keresztül: C#"
-url: /hu/net/conversion/html-to-tabdelimited/
+
 description: Mintakód a html-ből tabulátorral tagolt C#-es konverzióhoz. Használjon API példakódot kötegelt html fájlokhoz a tabulátorral tagolt konverzióhoz VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java के माध्यम से CSV को JPEG में बदलें 
 weight: 7490
-url: /hi/java/conversion/csv-to-jpeg/ 
+
 description: JPEG फ़ाइल में CSV प्रारूप के लिए नमूना Java रूपांतरण कोड। प्रोग्रामर इस उदाहरण कोड का उपयोग किसी भी वेब या डेस्कटॉप Java आधारित एप्लिकेशन के भीतर एक्सेल और ओपनऑफिस स्प्रेडशीट को जेपीईजी में निर्यात करने के लिए कर सकते हैं।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

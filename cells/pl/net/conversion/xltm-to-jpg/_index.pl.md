@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj XLTM na JPG przez C#
-url: /pl/net/conversion/xltm-to-jpg/
+
 description: Przykładowy kod konwersji xltm do jpg C#. Użyj przykładowego kodu API dla plików wsadowych xltm do konwersji jpg w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

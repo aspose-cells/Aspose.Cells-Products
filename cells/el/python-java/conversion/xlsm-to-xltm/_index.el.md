@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή XLSM σε XLTM μέσω Python
-url: /el/python-java/conversion/xlsm-to-xltm/
+
 description: Δείγμα κώδικα για μετατροπή xlsm σε xltm Python. Χρησιμοποιήστε API παράδειγμα κώδικα για μαζική μετατροπή αρχείων xlsm σε xltm εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

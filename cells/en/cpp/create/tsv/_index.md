@@ -1,6 +1,6 @@
 ---
 title: Create TSV Files via C++ 
-url: /cpp/create-tsv/ 
+
 description: Create TSV files in C++ code. Generate TSV files using C++ application.
 ---
 

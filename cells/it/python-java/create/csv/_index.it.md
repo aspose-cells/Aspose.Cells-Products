@@ -1,6 +1,6 @@
-﻿---
+---
 title: Crea file CSV tramite Python 
-url: /it/python-java/create-csv/ 
+
 description: Python Codice di esempio per la generazione di documenti CSV. Utilizza questo codice per creare file CSV all'interno dell'applicazione Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

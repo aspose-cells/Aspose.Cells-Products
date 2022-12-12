@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLSM إلى ODS عبر C#
-url: /ar/net/conversion/xlsm-to-ods/
+
 description: نموذج رمز للتحويل من xlsm إلى ods C#. استخدم API رمز المثال لملفات xlsm الدفعية لتحويل ods داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

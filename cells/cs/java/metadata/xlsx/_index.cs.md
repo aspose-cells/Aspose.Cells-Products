@@ -1,7 +1,7 @@
-﻿---
+---
 title: Upravit nebo zobrazit metadata souborů XLSX prostřednictvím Java 
 weight: 1240
-url: /cs/java/metadata/xlsx/ 
+
 description: Java ukázkový kód pro úpravu nebo zobrazení metadat ve formátu XLSX v Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

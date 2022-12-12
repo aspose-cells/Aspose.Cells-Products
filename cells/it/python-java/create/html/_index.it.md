@@ -1,6 +1,6 @@
-﻿---
+---
 title: Crea file HTML tramite Python 
-url: /it/python-java/create-html/ 
+
 description: Python Codice di esempio per la generazione di documenti HTML. Usa questo codice per creare file HTML all'interno dell'applicazione Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

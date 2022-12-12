@@ -1,7 +1,7 @@
 ---
 title: Merge HTML Files via Java 
 weight: 8830
-url: /java/merger/html/ 
+
 description: Java sample code to combine HTML documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

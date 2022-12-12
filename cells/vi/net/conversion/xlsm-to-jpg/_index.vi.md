@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi XLSM sang JPG qua C#
-url: /vi/net/conversion/xlsm-to-jpg/
+
 description: Mã mẫu cho chuyển đổi xlsm sang jpg C#. Sử dụng API mã ví dụ cho hàng loạt tệp xlsm sang chuyển đổi jpg trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

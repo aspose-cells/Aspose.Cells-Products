@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してNUMBERSをSXCに変換します
-url: /ja/python-java/conversion/numbers-to-sxc/
+
 description: 数値からsxcPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチ番号ファイルからsxcへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Generar informes en archivos XLSM a través de .NET 
 weight: 4400
-url: /es/net/assembly/xlsm/ 
+
 description: C# código fuente para generar informes en formato XLSM en .NET Framework, .NET Core, Mono o Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

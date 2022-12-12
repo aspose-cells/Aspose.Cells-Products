@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi Berkas Microsoft Excel melalui C# 
-url: /id/net/conversion/
+
 description: Konversi Excel XLS, XLSX, ODS, CSV ke PDF, XPS, HTML, JPEG, HTML, dan banyak format populer lainnya hanya dengan beberapa baris kode C#.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

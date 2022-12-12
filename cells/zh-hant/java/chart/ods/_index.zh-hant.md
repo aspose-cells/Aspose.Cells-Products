@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通過 Java 的 ODS 文檔圖表 
 weight: 2240
-url: /zh-hant/java/chart/ods/ 
+
 description: Java 示例代碼，用於在 Java JSP/JSF 應用程序和桌面應用程序的運行時環境中的 ODS 文件中繪製和轉換圖表或圖表。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してNUMBERSをXLTMに変換します 
-url: /ja/java/conversion/numbers-to-xltm/ 
+
 description: NUMBERS形式のXLTMファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、WebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをXLTMにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

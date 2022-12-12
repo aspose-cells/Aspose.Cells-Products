@@ -1,6 +1,6 @@
 ---
 title: Convert XLSM to XLAM via C++
-url: /cpp/conversion/xlsm-to-xlam/
+
 description: Convert XLSM to XLAM format in C++ code. Save XLSM as XLAM using C++.
 ---
 

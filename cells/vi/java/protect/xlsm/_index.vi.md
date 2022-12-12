@@ -1,7 +1,7 @@
-﻿---
+---
 title: Bảo vệ và khóa tài liệu XLSM qua Java 
 weight: 9620
-url: /vi/java/protect/xlsm/ 
+
 description: Java mã mẫu để khóa tệp XLSM bằng mật khẩu trên Java Môi trường thời gian chạy cho Ứng dụng JSP / JSF và Ứng dụng trên máy tính.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

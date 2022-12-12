@@ -1,7 +1,7 @@
-﻿---
+---
 title: Protégez et verrouillez le document XLS via C++ 
 weight: 8760
-url: /fr/cpp/protect/xls/ 
+
 description: C++ exemple de code pour verrouiller le fichier XLS à l'aide d'un mot de passe sur l'C++ environnement d'exécution pour Windows 32 bits, Windows 64 bits et Linux 64 bits.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

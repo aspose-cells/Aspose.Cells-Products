@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してXLSXをPNGに変換する
-url: /ja/python-java/conversion/xlsx-to-png/
+
 description: xlsxからpngPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチxlsxファイルからpngへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

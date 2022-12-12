@@ -1,7 +1,7 @@
-﻿---
+---
 title: Hợp nhất các tệp XLSB qua Java 
 weight: 4840
-url: /vi/java/merger/xlsb/ 
+
 description: Java mã mẫu để kết hợp các tài liệu XLSB trên Java Môi trường thời gian chạy cho Ứng dụng JSP / JSF và Ứng dụng trên máy tính để bàn.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

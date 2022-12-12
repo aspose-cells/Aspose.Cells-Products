@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLTM naar XML via C++ applicatie 
-url: /nl/cpp/conversion/xltm-to-xml/ 
+
 description: Voorbeeld C++ conversiecode voor XLTM-document naar XML-indeling. Programmeurs kunnen deze broncode gebruiken voor batch-XLTM-naar-XML-conversie binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLTX naar HTML via C#
-url: /nl/net/conversion/xltx-to-html/
+
 description: Voorbeeldcode voor xltx naar html C# conversie. Gebruik API voorbeeldcode voor batch xltx-bestanden naar html-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

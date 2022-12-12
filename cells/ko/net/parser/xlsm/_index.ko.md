@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET을 통해 XLSM 문서에서 텍스트 및 이미지 추출 
 weight: 4010
-url: /ko/net/parser/xlsm/ 
+
 description: C# 소스 코드를 사용하여 .NET Framework, .NET Core, Mono 또는 Xamarin Platforms의 XLSM 파일에서 텍스트와 이미지를 추출합니다.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

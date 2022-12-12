@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python के माध्यम से Column3D चार्ट बनाएं
-url: /hi/python-java/create-column3d-chart/
+
 description: Python Python लाइब्रेरी का उपयोग करके Excel में Column3D चार्ट बनाने के लिए नमूना कोड. इस कोड का उपयोग Python आधारित एप्लिकेशन के भीतर एमएस एक्सेल के लिए कॉलम3डी चार्ट बनाने के लिए करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

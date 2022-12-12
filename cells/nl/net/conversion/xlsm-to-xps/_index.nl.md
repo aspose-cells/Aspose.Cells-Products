@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLSM naar XPS via C#
-url: /nl/net/conversion/xlsm-to-xps/
+
 description: Voorbeeldcode voor xlsm naar xps C# conversie. Gebruik API voorbeeldcode voor batch xlsm-bestanden naar xps-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

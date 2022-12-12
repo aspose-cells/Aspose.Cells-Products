@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie EXCEL in CSV über Python
-url: /de/python-java/conversion/excel-to-csv/
+
 description: Beispielcode für die Umwandlung von Excel in CSV Python. Verwenden Sie den API Beispielcode für die Batch-Konvertierung von Excel-Dateien in CSV innerhalb der Anwendung Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

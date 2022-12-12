@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertálja a CSV-t PDF-be a(z) C++ alkalmazással 
 weight: 8330
-url: /hu/cpp/conversion/csv-to-pdf/ 
+
 description: Minta C++ konverziós kód a CSV-dokumentumhoz PDF-formátumba. A programozók ezt a forráskódot használhatják kötegelt CSV-ből PDF-be konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

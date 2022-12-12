@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TXT konvertálása EMF-vé a következőn keresztül: Python"
-url: /hu/python-java/conversion/txt-to-emf/
+
 description: Mintakód a txt-ből emf-be Python konverzióhoz. Használjon API példakódot kötegelt txt fájlokhoz az EMF konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

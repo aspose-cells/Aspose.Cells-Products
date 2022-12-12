@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi NUMBERS thành XLSM qua Python
-url: /vi/python-java/conversion/numbers-to-xlsm/
+
 description: Mã mẫu cho chuyển đổi số thành xlsm Python. Sử dụng mã mẫu API cho các tệp số lô để chuyển đổi xlsm trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

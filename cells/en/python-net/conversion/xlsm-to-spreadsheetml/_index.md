@@ -1,6 +1,6 @@
 ---
 title: Convert XLSM to SPREADSHEETML via Python
-url: /python-net/conversion/xlsm-to-spreadsheetml/
+
 description: Sample code for xlsm to spreadsheetml Python conversion. Use API example code for batch xlsm files to spreadsheetml conversion within Python application.
 ---
 

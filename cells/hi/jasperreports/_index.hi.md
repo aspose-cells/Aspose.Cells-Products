@@ -1,7 +1,7 @@
-﻿---
+---
 title: JasperReports और JasperServer में एक्सेल XLS XLSX PDF ODS में रिपोर्ट निर्यात करें 
 weight: 9460
-url: /hi/jasperreports/ 
+
 description: एक्सेल एक्सएलएस एक्सएलएसएक्स पीडीएफ ओडीएस टीXT और स्प्रेडशीटएमएल प्रारूप में जैस्पर रिपोर्ट्स और जैस्परसर्वर से रिपोर्ट निर्यात करें। एक्सेल स्प्रेडशीट के रूप में भी रिपोर्ट प्रिंट करें
 ---
 {{< blocks/products/pf/main-wrap-class >}}

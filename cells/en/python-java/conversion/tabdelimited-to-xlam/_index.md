@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to XLAM via Python
-url: /python-java/conversion/tabdelimited-to-xlam/
+
 description: Convert TABDELIMITED to XLAM format in Python code. Save TABDELIMITED as XLAM using Python.
 ---
 

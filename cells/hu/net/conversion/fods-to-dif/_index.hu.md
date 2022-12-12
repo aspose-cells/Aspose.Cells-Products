@@ -1,6 +1,6 @@
-﻿---
+---
 title: "FODS konvertálása DIF-re a következőn keresztül: C#"
-url: /hu/net/conversion/fods-to-dif/
+
 description: Mintakód a takarmány-diff C# konverzióhoz. Használjon API példakódot kötegelt fod fájlokhoz a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belüli konverziók szétválasztásához.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

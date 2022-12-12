@@ -1,7 +1,7 @@
-﻿---
+---
 title: 无需通过 Java 打开即可搜索 XLS 文档 
 weight: 9430
-url: /zh/java/search/xls/ 
+
 description: Java 示例代码，用于在 Java JSP/JSF 应用程序和桌面应用程序的运行时环境中的 XLS 文件中搜索带有模式的单词。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

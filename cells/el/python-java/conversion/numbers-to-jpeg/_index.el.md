@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή NUMBERS σε JPEG μέσω Python
-url: /el/python-java/conversion/numbers-to-jpeg/
+
 description: Δείγμα κώδικα για μετατροπή αριθμών σε jpeg Python. Χρησιμοποιήστε API παράδειγμα κώδικα για αρχεία αριθμών παρτίδας για μετατροπή jpeg εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

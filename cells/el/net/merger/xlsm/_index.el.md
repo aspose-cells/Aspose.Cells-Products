@@ -1,7 +1,7 @@
-﻿---
+---
 title: Συγχώνευση αρχείων XLSM μέσω .NET 
 weight: 660
-url: /el/net/merger/xlsm/ 
+
 description: C# πηγαίος κώδικας για συνδυασμό εγγράφων XLSM σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

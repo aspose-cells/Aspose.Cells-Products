@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل CSV إلى MARKDOWN عبر Java 
-url: /ar/java/conversion/csv-to-markdown/ 
+
 description: نموذج لشفرة تحويل Java لتنسيق CSV إلى ملف MARKDOWN. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel و OpenOffice إلى MARKDOWN داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 C# 將 XLSM 轉換為 PNG
-url: /zh-hant/net/conversion/xlsm-to-png/
+
 description: xlsm 到 png C# 轉換的示例代碼。在 VB.NET、Asp.NET 或任何基於 .NET 的應用程序中使用 API 示例代碼將 xlsm 文件批量轉換為 png 轉換。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

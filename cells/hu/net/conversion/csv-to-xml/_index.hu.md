@@ -1,6 +1,6 @@
-﻿---
+---
 title: "CSV konvertálása XML-re a következőn keresztül: C#"
-url: /hu/net/conversion/csv-to-xml/
+
 description: Mintakód a csv-ből xml-be C# konverzióhoz. Használjon API példakódot a csv-fájlok kötegelt XML-re konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

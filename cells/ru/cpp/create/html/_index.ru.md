@@ -1,6 +1,6 @@
-﻿---
+---
 title: Создание файлов HTML с помощью C++ 
-url: /ru/cpp/create-html/ 
+
 description: C++ Пример кода для создания файлов HTML. Используйте этот код для создания файлов HTML в приложении на основе C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

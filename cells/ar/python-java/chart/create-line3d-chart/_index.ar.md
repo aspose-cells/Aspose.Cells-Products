@@ -1,6 +1,6 @@
-﻿---
+---
 title: إنشاء مخططات خطية ثلاثية الأبعاد عبر Python
-url: /ar/python-java/create-line3d-chart/
+
 description: Python نموذج كود لإنشاء مخططات خطية ثلاثية الأبعاد في Excel باستخدام Python Library. استخدم هذا الرمز لإنشاء مخطط خطي ثلاثي الأبعاد لبرنامج MS Excel داخل تطبيق يستند إلى Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

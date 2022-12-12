@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertálja a TSV-t PNG-re a(z) C++ alkalmazáson keresztül 
 weight: 1770
-url: /hu/cpp/conversion/tsv-to-png/ 
+
 description: Minta C++ konverziós kód a TSV-dokumentumhoz PNG formátumba. A programozók ezt a forráskódot használhatják kötegelt TSV-ből PNG-be konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

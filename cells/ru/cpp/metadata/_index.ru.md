@@ -1,6 +1,6 @@
-﻿---
+---
 title: Управление метаданными файла Excel через C++
-url: /ru/cpp/metadata/
+
 description: Просмотр, добавление, редактирование, удаление или извлечение метаданных файлов Excel с помощью библиотеки C++
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

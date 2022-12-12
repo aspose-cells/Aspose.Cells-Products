@@ -1,7 +1,7 @@
-﻿---
+---
 title: Εξαγωγή κειμένου και εικόνων από έγγραφο XLS μέσω .NET 
 weight: 5600
-url: /el/net/parser/xls/ 
+
 description: C# πηγαίος κώδικας για εξαγωγή κειμένου και εικόνων από αρχείο XLS σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

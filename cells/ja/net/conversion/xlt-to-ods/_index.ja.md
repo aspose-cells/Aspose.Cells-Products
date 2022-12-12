@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してXLTをODSに変換する
-url: /ja/net/conversion/xlt-to-ods/
+
 description: xltからodsC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチxltファイルからodsへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

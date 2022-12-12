@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Excel-fájl XLSB-jegyzet hozzáadása a következőn keresztül: C++ "
 weight: 860
-url: /hu/cpp/annotation/xlsb/ 
+
 description: C++ mintakód az XLSB formátumú megjegyzések törléséhez a C++ Runtime Environment for Windows 32 bit, a Windows 64 bit és a Linux 64 bites rendszeren.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

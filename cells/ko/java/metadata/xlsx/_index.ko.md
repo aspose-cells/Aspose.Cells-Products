@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java을(를) 통해 XLSX 파일 메타데이터 편집 또는 보기 
 weight: 1240
-url: /ko/java/metadata/xlsx/ 
+
 description: Java JSP/JSF 애플리케이션 및 데스크톱 애플리케이션을 위한 Java 런타임 환경에서 XLSX 형식 메타데이터를 편집하거나 보기 위한 샘플 코드.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

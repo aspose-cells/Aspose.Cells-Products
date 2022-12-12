@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertera MHTML till EMF via Java 
 weight: 3750
-url: /sv/java/conversion/mhtml-to-emf/ 
+
 description: Exempel Java-konverteringskod för MHTML-format till EMF-fil. Programmerare kan använda den här exempelkoden för att exportera Excel- och OpenOffice-kalkylblad till EMF inom alla webb- eller skrivbordsbaserade Java-applikationer.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

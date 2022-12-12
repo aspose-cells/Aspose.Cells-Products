@@ -1,6 +1,6 @@
-﻿---
+---
 title: Cree archivos ODS (Openoffice / Lbreoffice) a través de C++ 
-url: /es/cpp/create-ods/ 
+
 description: C++ Código de ejemplo para generar archivos ODS (Openoffice/Lbreoffice). Utilice este código para crear archivos ODS (Openoffice/Lbreoffice) dentro de la aplicación basada en C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

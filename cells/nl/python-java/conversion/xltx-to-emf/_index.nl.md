@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLTX naar EMF via Python
-url: /nl/python-java/conversion/xltx-to-emf/
+
 description: Voorbeeldcode voor xltx naar emf Python conversie. Gebruik API voorbeeldcode voor batch xltx-bestanden naar emf-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

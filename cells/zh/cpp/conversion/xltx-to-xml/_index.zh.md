@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 C++ 应用程序将 XLTX 转换为 XML 
-url: /zh/cpp/conversion/xltx-to-xml/ 
+
 description: XLTX 文档到 XML 格式的示例 C++ 转换代码。程序员可以使用此源代码在任何 C++ 应用程序中将 XLTX 批量转换为 XML。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

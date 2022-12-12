@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python के माध्यम से CSV को JPEG में बदलें
-url: /hi/python-java/conversion/csv-to-jpeg/
+
 description: csv से jpeg Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर जेपीईजी रूपांतरण के लिए बैच सीएसवी फाइलों के लिए API उदाहरण कोड का प्रयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

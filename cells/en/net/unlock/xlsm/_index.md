@@ -1,7 +1,7 @@
 ---
 title: Unlock XLSM document via .NET 
 weight: 9810
-url: /net/unlock/xlsm/ 
+
 description: C# source code to unlock password protected XLSM file on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

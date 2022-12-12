@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie XLTX in XLSM über die Anwendung C++ 
-url: /de/cpp/conversion/xltx-to-xlsm/ 
+
 description: Beispiel-Umwandlungscode C++ für das XLTX-Dokument in das XLSM-Format. Programmierer können diesen Quellcode für die Batch-Konvertierung von XLTX in XLSM in jeder C++-Anwendung verwenden.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

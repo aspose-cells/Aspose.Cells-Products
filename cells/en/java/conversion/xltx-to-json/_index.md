@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to JSON via Java 
-url: /java/conversion/xltx-to-json/
+
 description: Convert XLTX to JSON format in Java code. Save XLTX as JSON using Java.
 ---
 

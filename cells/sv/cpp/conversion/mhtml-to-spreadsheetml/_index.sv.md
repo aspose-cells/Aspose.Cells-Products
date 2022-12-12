@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera MHTML till SPREADSHEETML via applikationen C++ 
-url: /sv/cpp/conversion/mhtml-to-spreadsheetml/ 
+
 description: Exempel på konverteringskod för C++ för MHTML-dokument till SPREADSHEETML-format. Programmerare kan använda den här källkoden för batch-omvandling av MHTML till SPREADSHEETML inom alla C++-program.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

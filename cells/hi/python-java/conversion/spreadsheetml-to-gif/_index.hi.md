@@ -1,6 +1,6 @@
-﻿---
+---
 title: स्प्रैडशीटएमएल को Python के माध्यम से जीआईएफ में बदलें
-url: /hi/python-java/conversion/spreadsheetml-to-gif/
+
 description: स्प्रैडशीटएमएल से gif Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर बैच स्प्रेडशीटएमएल फाइलों को जीआईएफ रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte XLTM na TSV pomocí aplikace C++ 
-url: /cs/cpp/conversion/xltm-to-tsv/ 
+
 description: Ukázka převodního kódu C++ pro dokument XLTM na formát TSV. Programátoři mohou použít tento zdrojový kód pro dávkovou konverzi XLTM na TSV v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla HTML'yi GIF'e dönüştürün
-url: /tr/python-java/conversion/html-to-gif/
+
 description: Html'den gif'e Python dönüşümü için örnek kod. Python uygulamasında gif dönüştürme için toplu html dosyaları için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

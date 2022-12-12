@@ -1,6 +1,6 @@
-﻿---
+---
 title: إنشاء مخططات خطية عبر C# 
-url: /ar/net/create-line-chart/ 
+
 description: C# نموذج كود لإنشاء مخططات خطية لبرنامج Excel باستخدام .NET المكتبة. استخدم هذا الرمز لإنشاء مخطط خطي لبرنامج MS Excel داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

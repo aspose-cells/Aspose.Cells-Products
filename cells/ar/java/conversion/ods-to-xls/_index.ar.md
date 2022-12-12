@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل ODS إلى XLS عبر Java 
 weight: 5910
-url: /ar/java/conversion/ods-to-xls/ 
+
 description: نموذج Java رمز تحويل لتنسيق ODS إلى ملف XLS. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى XLS داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

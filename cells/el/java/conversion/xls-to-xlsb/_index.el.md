@@ -1,7 +1,7 @@
-﻿---
+---
 title: Μετατροπή XLS σε XLSB μέσω Java 
 weight: 250
-url: /el/java/conversion/xls-to-xlsb/ 
+
 description: Δείγμα κώδικα μετατροπής Java για μορφή XLS σε αρχείο XLSB. Οι προγραμματιστές μπορούν να χρησιμοποιήσουν αυτό το παράδειγμα κώδικα για να εξάγουν υπολογιστικά φύλλα Excel και OpenOffice σε XLSB σε οποιαδήποτε εφαρμογή που βασίζεται στον Ιστό ή στην επιφάνεια εργασίας Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

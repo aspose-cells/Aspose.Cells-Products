@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to XLS via C++
-url: /cpp/conversion/excel-to-xls/
+
 description: Convert EXCEL to XLS format in C++ code. Save EXCEL as XLS using C++.
 ---
 

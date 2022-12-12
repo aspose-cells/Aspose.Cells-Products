@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してMHTMLをODSに変換する
-url: /ja/python-java/conversion/mhtml-to-ods/
+
 description: mhtmlからodsPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチmhtmlファイルからodsへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

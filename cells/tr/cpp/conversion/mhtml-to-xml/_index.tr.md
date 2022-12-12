@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++ uygulaması aracılığıyla MHTML'yi XML'e dönüştürün 
-url: /tr/cpp/conversion/mhtml-to-xml/ 
+
 description: MHTML belgesi için XML biçimine örnek C++ dönüştürme kodu. Programcılar, herhangi bir C++ Uygulamasında toplu MHTML'den XML'e dönüştürme için bu kaynak kodunu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

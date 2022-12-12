@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj TXT na XLSB przez Python
-url: /pl/python-java/conversion/txt-to-xlsb/
+
 description: Przykładowy kod konwersji txt do xlsb Python. Użyj przykładowego kodu API dla plików wsadowych txt do konwersji xlsb w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

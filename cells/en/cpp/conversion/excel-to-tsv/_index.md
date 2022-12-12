@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to TSV via C++
-url: /cpp/conversion/excel-to-tsv/
+
 description: Convert EXCEL to TSV format in C++ code. Save EXCEL as TSV using C++.
 ---
 

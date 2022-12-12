@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してXLTMをPDFに変換する
-url: /ja/python-java/conversion/xltm-to-pdf/
+
 description: xltmからpdfPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチxltmファイルからpdfへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

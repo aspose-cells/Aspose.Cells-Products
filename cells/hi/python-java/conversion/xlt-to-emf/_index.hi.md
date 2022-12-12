@@ -1,6 +1,6 @@
-﻿---
+---
 title: XLT को EMF में बदलें Python के माध्यम से
-url: /hi/python-java/conversion/xlt-to-emf/
+
 description: एक्सएलटी से ईएमएफ Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर ईएमएफ रूपांतरण के लिए बैच xlt फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

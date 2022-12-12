@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование HTML в BMP через C#
-url: /ru/net/conversion/html-to-bmp/
+
 description: Пример кода для преобразования html в bmp C#. Используйте пример кода API для пакетного преобразования файлов html в bmp в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

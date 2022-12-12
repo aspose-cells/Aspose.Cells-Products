@@ -1,6 +1,6 @@
 ---
 title: Convert XLTM to GIF via Java 
-url: /java/conversion/xltm-to-gif/
+
 description: Convert XLTM to GIF format in Java code. Save XLTM as GIF using Java.
 ---
 

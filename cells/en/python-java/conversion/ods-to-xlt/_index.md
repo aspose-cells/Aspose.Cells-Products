@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to XLT via Python
-url: /python-java/conversion/ods-to-xlt/
+
 description: Convert ODS to XLT format in Python code. Save ODS as XLT using Python.
 ---
 

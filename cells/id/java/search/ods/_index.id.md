@@ -1,7 +1,7 @@
-﻿---
+---
 title: Telusuri dokumen ODS tanpa membuka melalui Java 
 weight: 8140
-url: /id/java/search/ods/ 
+
 description: Java contoh kode untuk mencari kata dengan pola dalam file ODS di Java Runtime Environment untuk Aplikasi JSP/JSF dan Aplikasi Desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

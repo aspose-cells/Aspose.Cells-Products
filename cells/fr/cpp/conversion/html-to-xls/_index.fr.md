@@ -1,7 +1,7 @@
-﻿---
+---
 title: Convertir HTML en XLS via l'application C++ 
 weight: 3130
-url: /fr/cpp/conversion/html-to-xls/ 
+
 description: Exemple de code de conversion C++ pour un document HTML au format XLS. Les programmeurs peuvent utiliser ce code source pour la conversion par lots HTML vers XLS dans n'importe quelle application C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

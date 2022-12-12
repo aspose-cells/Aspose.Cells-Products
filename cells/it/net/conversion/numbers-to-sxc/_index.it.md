@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converti NUMBERS in SXC tramite C#
-url: /it/net/conversion/numbers-to-sxc/
+
 description: Codice di esempio per la conversione da numeri a sxc C#. Usa il codice di esempio API per la conversione dei file di numeri batch in sxc all'interno di VB.NET, Asp.NET o qualsiasi applicazione basata su .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

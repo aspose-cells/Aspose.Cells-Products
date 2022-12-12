@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to PDF via Python
-url: /python-net/conversion/xlsb-to-pdf/
+
 description: Sample code for xlsb to pdf Python conversion. Use API example code for batch xlsb files to pdf conversion within Python application.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Convert XLSX to MD via C++
-url: /cpp/conversion/xlsx-to-md/
+
 description: Convert XLSX to MD format in C++ code. Save XLSX as MD using C++.
 ---
 

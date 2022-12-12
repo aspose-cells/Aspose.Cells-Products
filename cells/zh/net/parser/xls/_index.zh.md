@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通过 .NET 从 XLS 文档中提取文本和图像 
 weight: 5600
-url: /zh/net/parser/xls/ 
+
 description: C# 源代码，用于从 .NET Framework、.NET Core、Mono 或 Xamarin 平台上的 XLS 文件中提取文本和图像。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

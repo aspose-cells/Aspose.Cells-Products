@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja a JSON-t DOCX-re a(z) C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/json-to-docx/ 
+
 description: Minta C++ konverziós kód a JSON-dokumentumhoz DOCX formátumba. A programozók ezt a forráskódot használhatják a JSON-ból DOCX-be való kötegelt konvertáláshoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

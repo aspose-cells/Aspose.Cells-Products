@@ -1,7 +1,7 @@
-﻿---
+---
 title: Ξεκλείδωμα εγγράφου XLSX μέσω Java 
 weight: 310
-url: /el/java/unlock/xlsx/ 
+
 description: Java δείγμα κώδικα για να ξεκλειδώσετε το προστατευμένο με κωδικό πρόσβασης αρχείο XLSX στο Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

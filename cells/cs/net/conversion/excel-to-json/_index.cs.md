@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést EXCEL na JSON přes C#
-url: /cs/net/conversion/excel-to-json/
+
 description: Ukázkový kód pro převod Excel na JSON C#. Použijte API ukázkový kód pro dávkový převod souborů Excel na JSON v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

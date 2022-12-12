@@ -1,6 +1,6 @@
-﻿---
+---
 title: "FODS konvertálása PDF-be a következőn keresztül: C#"
-url: /hu/net/conversion/fods-to-pdf/
+
 description: Mintakód a fod-ból pdf-be C# konvertáláshoz. Használjon API példakódot a kötegelt fods fájlok PDF-vé konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazásban.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

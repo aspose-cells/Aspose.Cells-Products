@@ -1,6 +1,6 @@
-﻿---
+---
 title: إنشاء ملفات CSV عبر Java 
-url: /ar/java/create-csv/ 
+
 description: Java نموذج كود لإنشاء مستندات بتنسيق CSV. استخدم هذا الرمز لإنشاء ملفات CSV داخل تطبيق ويب أو سطح مكتب يستند إلى Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Oszlopdiagramok létrehozása a következőn keresztül: Python"
-url: /hu/python-java/create-column-chart/
+
 description: Python Mintakód oszlopdiagramok készítéséhez Excelbe a Python Library használatával. Használja ezt a kódot oszlopdiagram létrehozásához MS Excelben a Python alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

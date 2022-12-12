@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converti XLTX in PNG tramite Python
-url: /it/python-java/conversion/xltx-to-png/
+
 description: Codice di esempio per la conversione da xltx a png Python. Usa API codice di esempio per la conversione batch di file xltx in png all'interno dell'applicazione Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

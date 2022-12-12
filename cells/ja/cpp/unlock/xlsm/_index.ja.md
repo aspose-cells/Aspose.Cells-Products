@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++を介してXLSMドキュメントのロックを解除します 
 weight: 6070
-url: /ja/cpp/unlock/xlsm/ 
+
 description: C++ Windows 32ビット、Windows 64ビット、およびLinux64ビットのランタイム環境でパスワードで保護されたXLSMファイルのロックを解除するためのサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

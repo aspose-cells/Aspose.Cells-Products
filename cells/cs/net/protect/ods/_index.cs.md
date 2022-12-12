@@ -1,7 +1,7 @@
-﻿---
+---
 title: Chránit a uzamknout dokument ODS prostřednictvím .NET 
 weight: 5580
-url: /cs/net/protect/ods/ 
+
 description: C# zdrojový kód k uzamčení souboru ODS pomocí hesla na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

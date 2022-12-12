@@ -1,7 +1,7 @@
-﻿---
+---
 title: Odemknout dokument ODS prostřednictvím Java 
 weight: 5080
-url: /cs/java/unlock/ods/ 
+
 description: Java ukázkový kód pro odemknutí souboru ODS chráněného heslem v Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

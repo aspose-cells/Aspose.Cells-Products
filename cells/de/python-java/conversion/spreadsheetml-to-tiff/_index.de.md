@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie SPREADSHEETML in TIFF über Python
-url: /de/python-java/conversion/spreadsheetml-to-tiff/
+
 description: Beispielcode für die Umwandlung von Spreadsheetml in Tiff Python. Verwenden Sie den API Beispielcode für die Batch-Konvertierung von Spreadsheetml-Dateien in TIFF innerhalb der Anwendung Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

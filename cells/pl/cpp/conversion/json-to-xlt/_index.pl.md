@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj JSON na XLT za pomocą aplikacji C++ 
-url: /pl/cpp/conversion/json-to-xlt/ 
+
 description: Przykładowy kod konwersji C++ dla dokumentu JSON do formatu XLT. Programiści mogą używać tego kodu źródłowego do wsadowej konwersji JSON na XLT w dowolnej aplikacji C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

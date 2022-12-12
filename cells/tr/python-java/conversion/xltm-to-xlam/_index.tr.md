@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla XLTM'yi XLAM'e dönüştürün
-url: /tr/python-java/conversion/xltm-to-xlam/
+
 description: xltm'den xlam'e Python dönüştürme için örnek kod. Python uygulamasında toplu xltm dosyalarından xlam'e dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

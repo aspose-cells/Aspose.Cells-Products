@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل ODS إلى CSV عبر Java 
 weight: 4610
-url: /ar/java/conversion/ods-to-csv/ 
+
 description: نموذج Java رمز تحويل لتنسيق ODS إلى ملف CSV. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى CSV داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

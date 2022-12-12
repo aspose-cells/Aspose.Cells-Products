@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to TIFF via Python
-url: /python-java/conversion/spreadsheetml-to-tiff/
+
 description: Convert SPREADSHEETML to TIFF format in Python code. Save SPREADSHEETML as TIFF using Python.
 ---
 

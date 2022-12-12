@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer XLSB naar CSV via Java 
 weight: 4800
-url: /nl/java/conversion/xlsb-to-csv/ 
+
 description: Voorbeeld Java conversiecode voor XLSB-indeling naar CSV-bestand. Programmeurs kunnen deze voorbeeldcode gebruiken om Excel- en OpenOffice-spreadsheets naar CSV te exporteren binnen elke web- of desktoptoepassing Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

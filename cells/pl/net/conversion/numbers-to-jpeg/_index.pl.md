@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj NUMBERS na JPEG przez C#
-url: /pl/net/conversion/numbers-to-jpeg/
+
 description: Przykładowy kod konwersji liczb do formatu jpeg C#. Użyj przykładowego kodu API dla plików z numerami partii do konwersji jpeg w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Excel File Annotations NET C#
-url: /net/annotation/
+
 description: Add or remove data annotation of Excel and OpenOffice spreadsheets with just few lines of C# code.
 ---
 

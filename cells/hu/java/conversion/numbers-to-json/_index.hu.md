@@ -1,6 +1,6 @@
-﻿---
+---
 title: "NUMBERS konvertálása JSON-ra a következőn keresztül: Java "
-url: /hu/java/conversion/numbers-to-json/ 
+
 description: Minta Java konverziós kód NUMBERS formátumhoz JSON-fájllá. A programozók ezt a példakódot használhatják Excel- és OpenOffice-táblázatok exportálására JSON-ba bármely web- vagy asztali Java-alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

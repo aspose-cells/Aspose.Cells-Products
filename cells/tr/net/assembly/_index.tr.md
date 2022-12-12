@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla Excel Dosyaları Oluşturun
-url: /tr/net/assembly/
+
 description: C# kodunu kullanarak bir şablon sayfasından Microsoft Excel elektronik tabloları oluşturun
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

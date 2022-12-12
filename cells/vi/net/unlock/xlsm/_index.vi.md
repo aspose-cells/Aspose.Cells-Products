@@ -1,7 +1,7 @@
-﻿---
+---
 title: Mở khóa tài liệu XLSM qua .NET 
 weight: 9810
-url: /vi/net/unlock/xlsm/ 
+
 description: C# mã nguồn để mở khóa tệp XLSM được bảo vệ bằng mật khẩu trên Nền tảng .NET Framework, .NET Core Mono hoặc Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

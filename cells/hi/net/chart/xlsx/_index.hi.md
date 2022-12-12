@@ -1,7 +1,7 @@
-﻿---
+---
 title:  छवियों के लिए XLSX दस्तावेज़ चार्ट .NET के माध्यम से 
 weight: 2630
-url: /hi/net/chart/xlsx/ 
+
 description: .NET Framework, .NET Core, Mono या Xamarin Platforms पर XLSX फ़ाइल में चार्ट या आरेख बनाने और परिवर्तित करने के लिए C# स्रोत कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

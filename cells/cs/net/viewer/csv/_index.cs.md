@@ -1,7 +1,7 @@
-﻿---
+---
 title: Zobrazit formáty souborů CSV prostřednictvím .NET 
 weight: 7690
-url: /cs/net/viewer/csv/ 
+
 description: Zdrojový kód C# pro načítání, vykreslování a zobrazování dokumentů CSV na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

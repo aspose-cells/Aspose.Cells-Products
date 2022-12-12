@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj CSV na PNG za pomocą C#
-url: /pl/net/conversion/csv-to-png/
+
 description: Przykładowy kod konwersji csv do png C#. Użyj przykładowego kodu API dla wsadowych plików csv do konwersji png w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

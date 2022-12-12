@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ के माध्यम से XLS एक्सेल फ़ाइल एनोटेशन जोड़ें 
 weight: 10040
-url: /hi/cpp/annotation/xls/ 
+
 description: C++ C++ विंडोज 32 बिट, विंडोज 64 बिट और लिनक्स 64 बिट के लिए रनटाइम एनवायरनमेंट पर एक्सएलएस प्रारूप एनोटेशन जोड़ने और हटाने के लिए नमूना कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Crear gráficos Column3D a través de Python
-url: /es/python-java/create-column3d-chart/
+
 description: Python Código de muestra para crear gráficos Column3D en Excel usando la biblioteca Python. Utilice este código para crear un gráfico Column3D en MS Excel dentro de la aplicación basada en Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

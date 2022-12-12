@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést MHTML na CSV prostřednictvím Python
-url: /cs/python-java/conversion/mhtml-to-csv/
+
 description: Ukázkový kód pro konverzi mhtml na csv Python. Použijte API ukázkový kód pro dávkový převod souborů mhtml na csv v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

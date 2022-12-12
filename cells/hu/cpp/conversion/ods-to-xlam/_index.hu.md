@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az ODS-t XLAM-re a(z) C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/ods-to-xlam/ 
+
 description: Minta C++ konverziós kód az ODS-dokumentumhoz XLAM formátumba. A programozók ezt a forráskódot használhatják kötegelt ODS-XLAM-konverzióhoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

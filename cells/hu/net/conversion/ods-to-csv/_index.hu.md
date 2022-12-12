@@ -1,6 +1,6 @@
-﻿---
+---
 title: "ODS konvertálása CSV-vé a következőn keresztül: C#"
-url: /hu/net/conversion/ods-to-csv/
+
 description: Mintakód az ods-ból csv-be C# konverzióhoz. Használjon API példakódot kötegelt ods-fájlok csv-vé konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

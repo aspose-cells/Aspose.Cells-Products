@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通過 .NET 從 XLSB 文檔中提取文本和圖像 
 weight: 2200
-url: /zh-hant/net/parser/xlsb/ 
+
 description: C# 源代碼，用於從 .NET Framework、.NET Core、Mono 或 Xamarin 平台上的 XLSB 文件中提取文本和圖像。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

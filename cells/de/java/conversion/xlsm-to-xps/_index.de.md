@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertieren Sie XLSM in XPS über Java 
 weight: 4070
-url: /de/java/conversion/xlsm-to-xps/ 
+
 description: Beispiel-Umwandlungscode Java für das XLSM-Format in eine XPS-Datei. Programmierer können diesen Beispielcode verwenden, um Excel- und OpenOffice-Tabellen innerhalb einer beliebigen Web- oder Desktop-Java-basierten Anwendung nach XPS zu exportieren.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

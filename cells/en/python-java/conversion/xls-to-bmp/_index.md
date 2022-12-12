@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to BMP via Python
-url: /python-java/conversion/xls-to-bmp/
+
 description: Convert XLS to BMP format in Python code. Save XLS as BMP using Python.
 ---
 

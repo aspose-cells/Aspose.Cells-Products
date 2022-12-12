@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SPREADSHEETML konvertálása TSV-vé a következőn keresztül: Python"
-url: /hu/python-java/conversion/spreadsheetml-to-tsv/
+
 description: Mintakód a táblázatkezelőből tsv-be Python. Használjon API példakódot a kötegelt táblázatkezelő fájlok tsv konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

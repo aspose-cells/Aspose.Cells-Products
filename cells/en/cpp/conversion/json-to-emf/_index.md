@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to EMF via C++
-url: /cpp/conversion/json-to-emf/
+
 description: Convert JSON to EMF format in C++ code. Save JSON as EMF using C++.
 ---
 

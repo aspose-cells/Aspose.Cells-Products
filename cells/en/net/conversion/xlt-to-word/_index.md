@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to WORD via C#
-url: /net/conversion/xlt-to-word/
+
 description: Convert XLT to WORD format in C# code. Save XLT as WORD using VB.NET, Asp.NET or any .NET based application.
 ---
 

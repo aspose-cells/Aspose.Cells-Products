@@ -1,7 +1,7 @@
-﻿---
+---
 title:  .NET के माध्यम से छवियों के लिए ODS दस्तावेज़ चार्ट 
 weight: 4360
-url: /hi/net/chart/ods/ 
+
 description: .NET Framework, .NET Core, Mono या Xamarin Platforms पर ODS फ़ाइल में चार्ट या आरेख बनाने और परिवर्तित करने के लिए C# स्रोत कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

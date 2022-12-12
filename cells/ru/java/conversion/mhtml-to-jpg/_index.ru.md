@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование MHTML в JPG через Java 
-url: /ru/java/conversion/mhtml-to-jpg/ 
+
 description: Пример кода преобразования Java для формата MHTML в файл JPG. Программисты могут использовать этот пример кода для экспорта электронных таблиц Excel и OpenOffice в формат JPG в любом веб- или настольном Java приложении.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

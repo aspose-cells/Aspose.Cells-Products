@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してMHTMLをDIFに変換します 
 weight: 9920
-url: /ja/java/conversion/mhtml-to-dif/ 
+
 description: MHTML形式からDIFファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のDIFにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

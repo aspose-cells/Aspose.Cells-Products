@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLTX na SPREADSHEETML přes C#
-url: /cs/net/conversion/xltx-to-spreadsheetml/
+
 description: Ukázkový kód pro převod xltx na tabulkuml C#. Použijte API ukázkový kód pro dávkové soubory xltx na převod tabulkyml v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

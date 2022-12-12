@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل SPREADSHEETML إلى TIFF عبر التطبيق C++ 
-url: /ar/cpp/conversion/spreadsheetml-to-tiff/ 
+
 description: نموذج رمز تحويل C++ لمستند SPREADSHEETML إلى تنسيق TIFF. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل SPREADSHEETML دفعة واحدة إلى TIFF داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

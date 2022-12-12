@@ -1,6 +1,6 @@
-﻿---
+---
 title: Podziel arkusz kalkulacyjny Excel na arkusze robocze w Java
-url: /pl/java/splitter/
+
 description: Java kody źródłowe wyjaśniające, jak podzielić pliki Microsoft Excel na wiele dokumentów przy użyciu Javabiblioteki Excel
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

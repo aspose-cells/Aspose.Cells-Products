@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง TABDELIMITED เป็น PNG ผ่าน C++ แอปพลิเคชัน 
-url: /th/cpp/conversion/tabdelimited-to-png/ 
+
 description: ตัวอย่างรหัสการแปลง C++ สำหรับเอกสาร TABDELIMITED เป็นรูปแบบ PNG โปรแกรมเมอร์สามารถใช้ซอร์สโค้ดนี้สำหรับการแปลงชุด TABDELIMITED เป็น PNG ภายในแอปพลิเคชัน C++ ใดๆ
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi TSV sang MD qua Python
-url: /vi/python-java/conversion/tsv-to-md/
+
 description: Mã mẫu cho chuyển đổi tsv sang md Python. Sử dụng API mã mẫu cho hàng loạt tệp tsv sang chuyển đổi md trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

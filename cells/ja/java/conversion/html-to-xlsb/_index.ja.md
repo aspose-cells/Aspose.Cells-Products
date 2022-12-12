@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してHTMLをXLSBに変換します 
 weight: 30
-url: /ja/java/conversion/html-to-xlsb/ 
+
 description: HTML形式からXLSBファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のXLSBにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

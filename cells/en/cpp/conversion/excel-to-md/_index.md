@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to MD via C++
-url: /cpp/conversion/excel-to-md/
+
 description: Convert EXCEL to MD format in C++ code. Save EXCEL as MD using C++.
 ---
 

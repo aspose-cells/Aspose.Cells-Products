@@ -1,6 +1,6 @@
-﻿---
+---
 title: สร้างแผนภูมิเรดาร์ผ่าน Python
-url: /th/python-java/create-radar-chart/
+
 description: Python โค้ดตัวอย่างสำหรับสร้างแผนภูมิเรดาร์ไปยัง Excel โดยใช้ Python Library ใช้รหัสนี้เพื่อสร้างแผนภูมิเรดาร์ไปยัง MS Excel ภายในแอปพลิเคชันที่ใช้ Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

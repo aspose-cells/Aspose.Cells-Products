@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan XLSX ke XLAM melalui Python
-url: /id/python-java/conversion/xlsx-to-xlam/
+
 description: Contoh kode untuk konversi xlsx ke xlam Python. Gunakan API kode contoh untuk file batch xlsx ke konversi xlam dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
 ---
 title: Add ODS Annotation via C++ 
 weight: 8840
-url: /cpp/annotation/ods/ 
+
 description: C++ sample code to delete ODS format annotations on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
 

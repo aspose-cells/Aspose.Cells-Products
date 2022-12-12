@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง XLTM เป็น XLAM ผ่าน Python
-url: /th/python-java/conversion/xltm-to-xlam/
+
 description: โค้ดตัวอย่างสำหรับการแปลง xltm เป็น xlam Python ใช้โค้ดตัวอย่าง API สำหรับไฟล์แบตช์ xltm เป็นการแปลง xlam ภายในแอปพลิเคชัน Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

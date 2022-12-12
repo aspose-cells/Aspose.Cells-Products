@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل CSV إلى XLSB عبر Java 
 weight: 770
-url: /ar/java/conversion/csv-to-xlsb/ 
+
 description: نموذج لشفرة تحويل Java لتنسيق CSV إلى ملف XLSB. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى XLSB داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

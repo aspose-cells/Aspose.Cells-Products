@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل FODS إلى TIFF عبر Java 
-url: /ar/java/conversion/fods-to-tiff/ 
+
 description: نموذج رمز تحويل Java لتنسيق FODS إلى ملف TIFF. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel و OpenOffice إلى TIFF داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

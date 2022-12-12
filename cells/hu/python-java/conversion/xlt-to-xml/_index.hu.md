@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLT konvertálása XML-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/xlt-to-xml/
+
 description: Mintakód az xlt–xml Python konverzióhoz. Használjon API példakódot a kötegelt xlt-fájlok XML-re konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

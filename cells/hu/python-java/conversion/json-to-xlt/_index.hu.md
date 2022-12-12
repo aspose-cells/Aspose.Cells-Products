@@ -1,6 +1,6 @@
-﻿---
+---
 title: "JSON konvertálása XLT-vé a következőn keresztül: Python"
-url: /hu/python-java/conversion/json-to-xlt/
+
 description: Mintakód a json–xlt Python konverzióhoz. Használjon API példakódot a kötegelt json-fájlok xlt-konverziójához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

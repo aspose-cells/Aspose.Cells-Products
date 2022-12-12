@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan SPREADSHEETML ke JSON melalui Java 
-url: /id/java/conversion/spreadsheetml-to-json/ 
+
 description: Contoh Java kode konversi untuk format SPREADSHEETML ke file JSON. Pemrogram dapat menggunakan kode contoh ini untuk mengekspor spreadsheet Excel & OpenOffice ke JSON dalam Aplikasi berbasis Java Web atau Desktop apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

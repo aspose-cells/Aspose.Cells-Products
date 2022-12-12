@@ -1,6 +1,6 @@
-﻿---
+---
 title: NUMBERS'ı Python aracılığıyla TXT'ye dönüştürün
-url: /tr/python-java/conversion/numbers-to-txt/
+
 description: Sayıları txt'ye Python dönüştürmek için örnek kod. Python uygulamasında toplu iş numarası dosyalarından txt'ye dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

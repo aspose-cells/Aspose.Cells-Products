@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++ uygulaması aracılığıyla JSON'u XPS'ye dönüştürün 
-url: /tr/cpp/conversion/json-to-xps/ 
+
 description: JSON belgesi için XPS biçimine örnek C++ dönüştürme kodu. Programcılar, herhangi bir C++ Uygulamasında toplu JSON'dan XPS'ye dönüştürme için bu kaynak kodunu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

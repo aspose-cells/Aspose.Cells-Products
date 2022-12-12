@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to XLSB via C#
-url: /net/conversion/fods-to-xlsb/
+
 description: Convert FODS to XLSB format in C# code. Save FODS as XLSB using VB.NET, Asp.NET or any .NET based application.
 ---
 

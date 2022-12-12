@@ -1,6 +1,6 @@
 ---
 title: Convert TSV to PDF via C++
-url: /cpp/conversion/tsv-to-pdf/
+
 description: Convert TSV to PDF format in C++ code. Save TSV as PDF using C++.
 ---
 

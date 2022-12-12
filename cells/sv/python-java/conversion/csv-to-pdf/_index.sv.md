@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera CSV till PDF via Python
-url: /sv/python-java/conversion/csv-to-pdf/
+
 description: Exempelkod för konvertering av csv till pdf Python. Använd API exempelkod för batch-csv-filer till pdf-konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

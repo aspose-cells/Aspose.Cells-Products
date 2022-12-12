@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Az XLSB-fájlok metaadatainak megtekintése vagy szerkesztése a következőn keresztül: .NET "
 weight: 7890
-url: /hu/net/metadata/xlsb/ 
+
 description: C# forráskód az XLSB formátumú metaadatok szerkesztéséhez vagy megtekintéséhez a .NET Framework, .NET Core, Mono vagy Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

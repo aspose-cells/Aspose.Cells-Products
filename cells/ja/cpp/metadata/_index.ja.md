@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++を介してExcelファイルメタデータを管理する
-url: /ja/cpp/metadata/
+
 description: C++ライブラリを使用してExcelファイルのメタデータを表示、追加、編集、削除、または抽出する
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

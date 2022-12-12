@@ -1,6 +1,6 @@
 ---
 title: Convert XLSM to JPEG via Python
-url: /python-net/conversion/xlsm-to-jpeg/
+
 description: Sample code for xlsm to jpeg Python conversion. Use API example code for batch xlsm files to jpeg conversion within Python application.
 ---
 

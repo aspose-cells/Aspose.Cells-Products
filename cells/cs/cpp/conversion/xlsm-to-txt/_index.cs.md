@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte XLSM na TXT pomocí aplikace C++ 
-url: /cs/cpp/conversion/xlsm-to-txt/ 
+
 description: Ukázka převodního kódu C++ pro dokument XLSM na formát TXT. Programátoři mohou použít tento zdrojový kód pro dávkový převod XLSM na TXT v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

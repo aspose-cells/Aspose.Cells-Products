@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to XLT via C++
-url: /cpp/conversion/txt-to-xlt/
+
 description: Convert TXT to XLT format in C++ code. Save TXT as XLT using C++.
 ---
 

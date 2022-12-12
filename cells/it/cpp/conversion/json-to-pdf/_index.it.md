@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converti JSON in PDF tramite l'applicazione C++ 
-url: /it/cpp/conversion/json-to-pdf/ 
+
 description: Esempio di codice di conversione C++ per un documento JSON in formato PDF. I programmatori possono utilizzare questo codice sorgente per la conversione batch da JSON a PDF all'interno di qualsiasi C++ Applicazione.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

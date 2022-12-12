@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してExcelファイルを生成する
-url: /ja/net/assembly/
+
 description: C#コードを使用してテンプレートシートからMicrosoftExcelスプレッドシートを生成する
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

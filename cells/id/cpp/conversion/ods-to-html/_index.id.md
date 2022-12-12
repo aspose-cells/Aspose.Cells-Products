@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversikan ODS ke HTML melalui C++ aplikasi 
 weight: 7800
-url: /id/cpp/conversion/ods-to-html/ 
+
 description: Contoh C++ kode konversi untuk dokumen ODS ke format HTML. Pemrogram dapat menggunakan kode sumber ini untuk konversi batch ODS ke HTML dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ Προγραμματισμός υπολογιστικών φύλλων Excel API - Aspose 
 weight: 7140
-url: /el/cpp/ 
+
 description: C++ Βιβλιοθήκη Excel για ανάγνωση και ανάλυση αρχείων, συμπεριλαμβανομένων των μορφών XLS, XLSX, XLSM και XLSB. Μετατρέψτε υπολογιστικά φύλλα σε PDF, CSV και άλλες μορφές
 ---
 {{< blocks/products/pf/main-wrap-class >}}

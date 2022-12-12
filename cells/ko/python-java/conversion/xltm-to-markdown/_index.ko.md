@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python을(를) 통해 XLTM을 MARKDOWN으로 변환
-url: /ko/python-java/conversion/xltm-to-markdown/
+
 description: xltm에서 마크다운 Python로의 변환을 위한 샘플 코드입니다. 배치 xltm 파일에 API 예제 코드를 사용하여 Python 애플리케이션 내에서 마크다운 변환을 수행합니다.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

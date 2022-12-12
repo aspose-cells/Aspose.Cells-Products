@@ -1,7 +1,7 @@
-﻿---
+---
 title: ODS दस्तावेज़ में टेक्स्ट को .NET के माध्यम से खोजें और बदलें 
 weight: 6100
-url: /hi/net/redaction/ods/ 
+
 description: .NET Framework, .NET Core, Mono या Xamarin Platforms पर ODS फ़ाइल में संवेदनशील जानकारी को संशोधित करने के लिए C# स्रोत कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

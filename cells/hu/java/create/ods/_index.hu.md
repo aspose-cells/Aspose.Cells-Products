@@ -1,6 +1,6 @@
-﻿---
+---
 title: "ODS (Openoffice / Lbreoffice) fájlok létrehozása a következőn keresztül: Java "
-url: /hu/java/create-ods/ 
+
 description: Java Mintakód az ODS dokumentumok generálásához. Ezzel a kóddal ODS (Openoffice / Lbreoffice) fájlokat hozhat létre Java alapú asztali vagy webes alkalmazásban.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

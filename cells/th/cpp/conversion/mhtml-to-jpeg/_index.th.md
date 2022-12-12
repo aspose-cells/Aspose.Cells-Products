@@ -1,7 +1,7 @@
-﻿---
+---
 title: แปลง MHTML เป็น JPEG ผ่าน C++ แอปพลิเคชัน 
 weight: 820
-url: /th/cpp/conversion/mhtml-to-jpeg/ 
+
 description: ตัวอย่างรหัสการแปลง C++ สำหรับเอกสาร MHTML เป็นรูปแบบ JPEG โปรแกรมเมอร์สามารถใช้ซอร์สโค้ดนี้สำหรับการแปลง MHTML เป็น JPEG เป็นชุดภายในแอปพลิเคชัน C++ ใดๆ
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

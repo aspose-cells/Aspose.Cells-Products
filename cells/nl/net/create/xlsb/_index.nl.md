@@ -1,6 +1,6 @@
-﻿---
+---
 title: Maak MS Excel XLSB-bestanden via C# 
-url: /nl/net/create-xlsb/ 
+
 description: C# Voorbeeldcode voor het genereren van XLSB-documenten. Gebruik deze code om MS Excel XLSB-bestanden te maken binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

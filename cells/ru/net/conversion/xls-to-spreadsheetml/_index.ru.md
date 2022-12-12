@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLS в SPREADSHETML через C#
-url: /ru/net/conversion/xls-to-spreadsheetml/
+
 description: Пример кода для преобразования xls в электронную таблицуml C#. Используйте пример кода API для пакетного преобразования xls-файлов в электронную таблицуml в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

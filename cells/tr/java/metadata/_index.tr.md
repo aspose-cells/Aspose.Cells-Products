@@ -1,6 +1,6 @@
-﻿---
+---
 title: Java aracılığıyla Excel Dosya Meta Verilerini Yönetin
-url: /tr/java/metadata/
+
 description: Yalnızca birkaç satır Java koduyla Excel dosyalarının meta verilerini görüntüleyin, ekleyin, düzenleyin, kaldırın veya çıkarın
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

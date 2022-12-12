@@ -1,7 +1,7 @@
-﻿---
+---
 title: Συγχώνευση αρχείων HTML μέσω .NET 
 weight: 9440
-url: /el/net/merger/html/ 
+
 description: C# πηγαίος κώδικας για συνδυασμό εγγράφων HTML σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

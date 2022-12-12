@@ -1,7 +1,7 @@
-﻿---
+---
 title: Convierta XLS a DIF a través de la aplicación C++ 
 weight: 640
-url: /es/cpp/conversion/xls-to-dif/ 
+
 description: Ejemplo de código de conversión C++ para documento XLS a formato DIF. Los programadores pueden usar este código fuente para la conversión por lotes de XLS a DIF dentro de cualquier aplicación C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Rechercher et remplacer du texte dans le document ODS via .NET 
 weight: 6100
-url: /fr/net/redaction/ods/ 
+
 description: Code source C# pour masquer les informations sensibles dans le fichier ODS sur .NET Framework, .NET Core, Mono ou Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

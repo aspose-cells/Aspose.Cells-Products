@@ -1,6 +1,6 @@
-﻿---
+---
 title: แยกสเปรดชีต Excel เป็นเวิร์กชีตใน Java
-url: /th/java/splitter/
+
 description: Java ซอร์สโค้ดที่อธิบายวิธีแยกไฟล์ Microsoft Excel เป็นหลายเอกสารโดยใช้ Java ไลบรารี Excel
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

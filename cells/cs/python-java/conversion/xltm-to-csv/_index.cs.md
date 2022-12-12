@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLTM na CSV prostřednictvím Python
-url: /cs/python-java/conversion/xltm-to-csv/
+
 description: Ukázkový kód pro převod xltm na csv Python. Použijte API ukázkový kód pro dávkový převod souborů xltm na csv v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

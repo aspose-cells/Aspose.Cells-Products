@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLS दस्तावेज़ को C++ के माध्यम से सुरक्षित और लॉक करें 
 weight: 8760
-url: /hi/cpp/protect/xls/ 
+
 description: C++ पासवर्ड का उपयोग करके XLS फ़ाइल को लॉक करने के लिए उदाहरण कोड C++ Windows 32 बिट, Windows 64 बिट और Linux 64 बिट के लिए रनटाइम वातावरण।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

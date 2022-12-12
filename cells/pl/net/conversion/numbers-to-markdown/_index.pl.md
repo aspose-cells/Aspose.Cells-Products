@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj NUMBERS na MARKDOWN za pomocą C#
-url: /pl/net/conversion/numbers-to-markdown/
+
 description: Przykładowy kod liczb do przeceny C# konwersji. Użyj przykładowego kodu API dla plików numerów partii, aby dokonać konwersji przecen w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

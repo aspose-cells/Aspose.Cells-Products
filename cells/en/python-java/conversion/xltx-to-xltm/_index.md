@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to XLTM via Python
-url: /python-java/conversion/xltx-to-xltm/
+
 description: Convert XLTX to XLTM format in Python code. Save XLTX as XLTM using Python.
 ---
 

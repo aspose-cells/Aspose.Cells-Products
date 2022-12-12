@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie NUMBERS in EMF über Python
-url: /de/python-java/conversion/numbers-to-emf/
+
 description: Beispielcode für die Umwandlung von Zahlen in emf Python. Verwenden Sie den API-Beispielcode für die Konvertierung von Chargennummerndateien in EMF innerhalb der Anwendung Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

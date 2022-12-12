@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLSX konvertálása SVG-vé a következőn keresztül: Python"
-url: /hu/python-java/conversion/xlsx-to-svg/
+
 description: Mintakód az xlsx–svg Python konverzióhoz. Használjon API példakódot a kötegelt xlsx fájlok SVG konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

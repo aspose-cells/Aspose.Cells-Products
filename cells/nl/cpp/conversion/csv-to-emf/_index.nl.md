@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer CSV naar EMF via C++ applicatie 
 weight: 6560
-url: /nl/cpp/conversion/csv-to-emf/ 
+
 description: Voorbeeld C++-conversiecode voor CSV-document naar EMF-indeling. Programmeurs kunnen deze broncode gebruiken voor batch-CSV naar EMF-conversie binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

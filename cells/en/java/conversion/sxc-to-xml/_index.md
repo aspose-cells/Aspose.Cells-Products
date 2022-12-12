@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to XML via Java 
-url: /java/conversion/sxc-to-xml/
+
 description: Convert SXC to XML format in Java code. Save SXC as XML using Java.
 ---
 

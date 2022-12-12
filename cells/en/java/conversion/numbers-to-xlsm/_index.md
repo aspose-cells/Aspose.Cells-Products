@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to XLSM via Java 
-url: /java/conversion/numbers-to-xlsm/
+
 description: Convert NUMBERS to XLSM format in Java code. Save NUMBERS as XLSM using Java.
 ---
 

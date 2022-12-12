@@ -1,6 +1,6 @@
-﻿---
+---
 title: Wandeln Sie TABDELIMITED über Python in EMF um
-url: /de/python-java/conversion/tabdelimited-to-emf/
+
 description: Beispielcode für die Umwandlung von tabulatorgetrennt in emf Python. Verwenden Sie den API-Beispielcode für die Batch-Konvertierung von tabulatorgetrennten Dateien in EMF innerhalb der Anwendung Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

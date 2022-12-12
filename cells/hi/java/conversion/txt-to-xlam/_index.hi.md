@@ -1,6 +1,6 @@
-﻿---
+---
 title: Java के माध्यम से TXT को XLAM में बदलें 
-url: /hi/java/conversion/txt-to-xlam/ 
+
 description: नमूना Java TXT प्रारूप के लिए XLAM फ़ाइल में रूपांतरण कोड। प्रोग्रामर इस उदाहरण कोड का उपयोग किसी भी वेब या डेस्कटॉप Java आधारित एप्लिकेशन के भीतर एक्सेल और ओपनऑफिस स्प्रेडशीट को एक्सएलएएम में निर्यात करने के लिए कर सकते हैं।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

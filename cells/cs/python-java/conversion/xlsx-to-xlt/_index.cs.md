@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLSX na XLT přes Python
-url: /cs/python-java/conversion/xlsx-to-xlt/
+
 description: Ukázkový kód pro převod xlsx na xlt Python. Použijte API ukázkový kód pro dávkový převod souborů xlsx na xlt v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

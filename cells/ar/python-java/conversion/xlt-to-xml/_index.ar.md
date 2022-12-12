@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLT إلى XML عبر Python
-url: /ar/python-java/conversion/xlt-to-xml/
+
 description: نموذج كود للتحويل من xlt إلى xml Python. استخدم API رمز المثال لملفات xlt الدفعية لتحويل xml داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

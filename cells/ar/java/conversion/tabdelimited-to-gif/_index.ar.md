@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TABDELIMITED إلى GIF عبر Java 
-url: /ar/java/conversion/tabdelimited-to-gif/ 
+
 description: نموذج رمز تحويل Java لتنسيق TABDELIMITED إلى ملف GIF. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel و OpenOffice إلى GIF داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

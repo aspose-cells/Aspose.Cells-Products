@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera SXC till SVG via Java 
-url: /sv/java/conversion/sxc-to-svg/ 
+
 description: Exempel Java-konverteringskod för SXC-format till SVG-fil. Programmerare kan använda den här exempelkoden för att exportera Excel- och OpenOffice-kalkylblad till SVG inom alla webb- eller skrivbordsbaserade Javaapplikationer.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

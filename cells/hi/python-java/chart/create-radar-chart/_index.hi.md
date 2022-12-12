@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python के माध्यम से रडार चार्ट बनाएं
-url: /hi/python-java/create-radar-chart/
+
 description: Python Python लाइब्रेरी का उपयोग करके एक्सेल में रडार चार्ट बनाने के लिए नमूना कोड। इस कोड का उपयोग Python आधारित एप्लिकेशन के भीतर एमएस एक्सेल के लिए रडार चार्ट बनाने के लिए करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

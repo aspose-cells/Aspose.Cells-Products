@@ -1,6 +1,6 @@
-﻿---
+---
 title: Gabungkan File Excel yang Berbeda menjadi Satu di Java
-url: /id/java/merger/
+
 description: Gabungkan file Excel menggunakan Java menjadi beberapa lembar atau satu lembar. Gabungkan, gabungkan, atau gabungkan dokumen Excel ke PDF, Gambar, dan HTML juga.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

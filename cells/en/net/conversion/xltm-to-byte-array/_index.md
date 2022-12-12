@@ -1,7 +1,7 @@
 ---
 title: Convert XLTM to Byte Array via C# 
 weight: 7690
-url: /net/conversion/xltm-to-byte-array/ 
+
 description: C# Sample code for XLTM to Byte Array conversion. Use this code for Excel XLTM to Byte Array conversion within VB.NET, Asp.NET or any .NET based application.
 ---
 

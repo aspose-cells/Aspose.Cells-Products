@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to ODS via C#
-url: /net/conversion/sxc-to-ods/
+
 description: Convert SXC to ODS format in C# code. Save SXC as ODS using VB.NET, Asp.NET or any .NET based application.
 ---
 

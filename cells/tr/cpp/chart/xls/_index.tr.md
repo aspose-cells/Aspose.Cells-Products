@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ üzerinden XLS belge grafiği 
 weight: 2500
-url: /tr/cpp/chart/xls/ 
+
 description: C++ Windows 32 bit, Windows 64 bit ve Linux 64 bit için C++ Runtime Environment üzerinde XLS dosyasında grafik veya diyagram çizmek ve dönüştürmek için örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

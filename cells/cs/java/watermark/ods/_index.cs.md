@@ -1,7 +1,7 @@
-﻿---
+---
 title: Vodoznak dokumentu ODS prostřednictvím Java 
 weight: 1040
-url: /cs/java/watermark/ods/ 
+
 description: Java ukázkový kód pro přidání nebo odstranění vodoznaku do souboru ODS v Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

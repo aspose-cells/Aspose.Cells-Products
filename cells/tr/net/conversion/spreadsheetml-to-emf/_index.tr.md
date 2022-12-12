@@ -1,6 +1,6 @@
-﻿---
+---
 title: SPREADSHEETML'yi C# aracılığıyla EMF'ye dönüştürün
-url: /tr/net/conversion/spreadsheetml-to-emf/
+
 description: E-tabloml'den emf'ye C# dönüşümü için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde emf dönüştürme için toplu elektronik tabloml dosyaları için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

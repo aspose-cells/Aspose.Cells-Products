@@ -1,7 +1,7 @@
-﻿---
+---
 title: Tabulka Excel PHP API – Aspose 
 weight: 3660
-url: /cs/php-java/ 
+
 description: PHP Excel tabulka API pro čtení, zápis a převod XLS XLSX CSV TSV HTML ODS SpreadsheetML a všechny formáty Excel 97-2016. Exportujte tabulky do více formátů
 ---
 {{< blocks/products/pf/main-wrap-class >}}

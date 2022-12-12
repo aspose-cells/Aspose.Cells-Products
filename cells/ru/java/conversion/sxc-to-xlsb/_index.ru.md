@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование SXC в XLSB через Java 
-url: /ru/java/conversion/sxc-to-xlsb/ 
+
 description: Пример кода преобразования Java для формата SXC в файл XLSB. Программисты могут использовать этот пример кода для экспорта электронных таблиц Excel и OpenOffice в формат XLSB в любом веб- или настольном Java приложении.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: JSON konvertálása PNG-re a(z) C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/json-to-png/ 
+
 description: Minta C++ konverziós kód a JSON-dokumentumhoz PNG formátumba. A programozók ezt a forráskódot használhatják a JSON-ból PNG-be kötegelt konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

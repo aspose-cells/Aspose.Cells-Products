@@ -1,6 +1,6 @@
-﻿---
+---
 title: Создание круговых диаграмм с помощью C#
-url: /ru/net/create-pie-chart/
+
 description: C# Пример кода для создания круговых диаграмм в Excel с использованием библиотеки .NET. Используйте этот код для создания круговой диаграммы в MS Excel в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

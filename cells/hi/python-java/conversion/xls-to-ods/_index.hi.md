@@ -1,6 +1,6 @@
-﻿---
+---
 title: XLS को Python के माध्यम से ODS में बदलें
-url: /hi/python-java/conversion/xls-to-ods/
+
 description: xls से ods Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर बैच xls फ़ाइलों को ods रूपांतरण में बदलने के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: 在 SQL Server 中將 RDL 報告導出到 Excel XLS XLSX 和 SpreadsheetML 
 weight: 3460
-url: /zh-hant/reporting-services/ 
+
 description: SQL Server Reporting Services 呈現擴展插件 - 導出 Excel XLS XLSX XLSM XLSB CSV SpreadsheetML HTML ODS 和 TXT 格式
 ---
 {{< blocks/products/pf/main-wrap-class >}}

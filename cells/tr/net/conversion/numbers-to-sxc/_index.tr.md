@@ -1,6 +1,6 @@
-﻿---
+---
 title: NUMBERS'ı C# aracılığıyla SXC'ye dönüştürün
-url: /tr/net/conversion/numbers-to-sxc/
+
 description: Sayıların sxc C# dönüşümüne ilişkin örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu iş numarası dosyalarından sxc'ye dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

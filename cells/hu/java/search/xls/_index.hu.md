@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLS-dokumentum keresése megnyitás nélkül a következőn keresztül: Java "
 weight: 9430
-url: /hu/java/search/xls/ 
+
 description: Java mintakód a mintával rendelkező szavak kereséséhez az XLS-fájlban a Java Runtime Environment for JSP/JSF Applications and Desktop Applications webhelyen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

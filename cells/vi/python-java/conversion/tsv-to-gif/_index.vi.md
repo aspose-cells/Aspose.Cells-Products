@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi TSV sang GIF qua Python
-url: /vi/python-java/conversion/tsv-to-gif/
+
 description: Mã mẫu cho chuyển đổi tsv sang gif Python. Sử dụng API mã ví dụ cho hàng loạt tệp tsv sang chuyển đổi gif trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

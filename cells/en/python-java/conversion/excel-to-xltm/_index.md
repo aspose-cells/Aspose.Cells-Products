@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to XLTM via Python
-url: /python-java/conversion/excel-to-xltm/
+
 description: Convert EXCEL to XLTM format in Python code. Save EXCEL as XLTM using Python.
 ---
 

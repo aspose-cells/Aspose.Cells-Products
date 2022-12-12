@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TXT na PDF přes Python
-url: /cs/python-java/conversion/txt-to-pdf/
+
 description: Ukázkový kód pro převod txt na pdf Python. Použijte API ukázkový kód pro dávkový převod souborů txt na pdf v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

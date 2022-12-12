@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter MHTML para XLTX via Python
-url: /pt/python-java/conversion/mhtml-to-xltx/
+
 description: Código de exemplo para conversão de mhtml para xltx Python. Use API código de exemplo para arquivos mhtml em lote para conversão xltx no aplicativo Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

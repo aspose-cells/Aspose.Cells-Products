@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést NUMBERS na TABDELIMITED přes C#
-url: /cs/net/conversion/numbers-to-tabdelimited/
+
 description: Ukázkový kód pro převod čísel na hodnotu oddělenou tabulátory C#. Použijte API ukázkový kód pro dávkové soubory čísel na převod oddělený tabulátory v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

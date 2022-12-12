@@ -1,7 +1,7 @@
-﻿---
+---
 title: Sök och ersätt text i XLSM-dokument via C++ 
 weight: 9570
-url: /sv/cpp/redaction/xlsm/ 
+
 description: C++ exempelkod för att redigera känslig information i XLSM-filen i C++ Runtime Environment för Windows 32-bitars, Windows 64-bitars och Linux 64-bitars.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Merge CSV to XLSM Files via Java 
-url: /java/merger/merge-csv-to-xlsm/ 
+
 description: Merge CSV to XLSM file in Java code. Combine CSV to XLSM file using Java based desktop or web application.
 ---
 

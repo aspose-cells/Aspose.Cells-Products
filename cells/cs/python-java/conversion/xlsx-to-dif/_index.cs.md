@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLSX na DIF přes Python
-url: /cs/python-java/conversion/xlsx-to-dif/
+
 description: Ukázkový kód pro převod xlsx na dif Python. Použijte API ukázkový kód pro dávkové soubory xlsx k převodu dif v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

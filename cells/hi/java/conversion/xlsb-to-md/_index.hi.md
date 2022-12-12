@@ -1,6 +1,6 @@
-﻿---
+---
 title: XLSB को Java के माध्यम से MD में बदलें 
-url: /hi/java/conversion/xlsb-to-md/ 
+
 description: XLSB प्रारूप के लिए MD फ़ाइल में नमूना Java रूपांतरण कोड। प्रोग्रामर इस उदाहरण कोड का उपयोग किसी भी वेब या डेस्कटॉप Java आधारित एप्लिकेशन में एमडी को एक्सेल और ओपनऑफिस स्प्रेडशीट निर्यात करने के लिए कर सकते हैं।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Az XLSX konvertálása GIF formátumba a C++ alkalmazáson keresztül 
 weight: 6370
-url: /hu/cpp/conversion/xlsx-to-gif/ 
+
 description: Minta C++ konverziós kód XLSX dokumentumhoz GIF formátumba. A programozók ezt a forráskódot használhatják az XLSX-ből GIF-be kötegelt konvertáláshoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

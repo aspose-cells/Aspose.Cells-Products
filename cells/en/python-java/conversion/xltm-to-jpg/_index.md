@@ -1,6 +1,6 @@
 ---
 title: Convert XLTM to JPG via Python
-url: /python-java/conversion/xltm-to-jpg/
+
 description: Convert XLTM to JPG format in Python code. Save XLTM as JPG using Python.
 ---
 

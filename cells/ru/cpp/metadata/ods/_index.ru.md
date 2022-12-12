@@ -1,7 +1,7 @@
-﻿---
+---
 title: Редактировать или просматривать метаданные документа ODS через C++ 
 weight: 1000
-url: /ru/cpp/metadata/ods/ 
+
 description: Пример кода C++ для редактирования или просмотра метаданных файла ODS в C++ среде выполнения для 32-разрядной, 64-разрядной Windows и 64-разрядной версии Linux.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してSPREADSHEETMLをXLSに変換します
-url: /ja/python-java/conversion/spreadsheetml-to-xls/
+
 description: SpreadsheetmlからxlsPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチspreadsheetmlファイルからxlsへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

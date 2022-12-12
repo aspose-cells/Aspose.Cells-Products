@@ -1,6 +1,6 @@
-﻿---
+---
 title: .NETを介してXLSBファイルを編集する 
-url: /ja/net/editor/xlsb/ 
+
 description: .NETフレームワーク、.NETコア、Windows Azure、Mono、またはXamarinプラットフォームでXLSBドキュメントを編集するためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

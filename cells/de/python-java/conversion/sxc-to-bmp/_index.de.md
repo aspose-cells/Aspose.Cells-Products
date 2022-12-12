@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie SXC über Python in BMP
-url: /de/python-java/conversion/sxc-to-bmp/
+
 description: Beispielcode für die Umwandlung von sxc in bmp Python. Verwenden Sie API Beispielcode für die Stapelkonvertierung von SXC-Dateien in BMP innerhalb der Anwendung Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

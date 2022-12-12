@@ -1,6 +1,6 @@
-﻿---
+---
 title: ODS'yi Python üzerinden TIFF'ye dönüştürün
-url: /tr/python-java/conversion/ods-to-tiff/
+
 description: Python dönüşümünü tiff yapmak için ods için örnek kod. Python uygulaması içinde dönüştürme işlemi yapmak için toplu ods dosyaları için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

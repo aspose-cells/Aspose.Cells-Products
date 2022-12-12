@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta XLSX a SQL a través de Python
-url: /es/python-java/conversion/xlsx-to-sql/
+
 description: Ejemplo de código para la conversión de xlsx a sql Python. Use el código de ejemplo API para la conversión de archivos xlsx por lotes a sql dentro de la aplicación Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to XPS via C++
-url: /cpp/conversion/spreadsheetml-to-xps/
+
 description: Convert SPREADSHEETML to XPS format in C++ code. Save SPREADSHEETML as XPS using C++.
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通过 C# 将 XLTX 转换为字节数组 
 weight: 7690
-url: /zh/net/conversion/xltx-to-byte-array/ 
+
 description: C# XLTX 到字节数组转换的示例代码。使用此代码在 VB.NET、Asp.NET 或任何基于 .NET 的应用程序中将 Excel XLTX 转换为字节数组。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

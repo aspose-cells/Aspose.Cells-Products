@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή XLTX σε JPEG μέσω Python
-url: /el/python-java/conversion/xltx-to-jpeg/
+
 description: Δείγμα κώδικα για μετατροπή xltx σε jpeg Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία xltx σε μετατροπή jpeg εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

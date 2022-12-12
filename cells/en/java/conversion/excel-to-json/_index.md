@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to JSON via Java 
-url: /java/conversion/excel-to-json/
+
 description: Convert EXCEL to JSON format in Java code. Save EXCEL as JSON using Java.
 ---
 

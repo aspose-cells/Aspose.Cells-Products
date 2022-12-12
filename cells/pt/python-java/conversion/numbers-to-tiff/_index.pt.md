@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter NUMBERS para TIFF via Python
-url: /pt/python-java/conversion/numbers-to-tiff/
+
 description: Código de amostra para conversão de números para tiff Python. Use o código de exemplo API para arquivos de números de lote para conversão tiff no aplicativo Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

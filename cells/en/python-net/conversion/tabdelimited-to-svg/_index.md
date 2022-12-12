@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to SVG via Python
-url: /python-net/conversion/tabdelimited-to-svg/
+
 description: Sample code for tabdelimited to svg Python conversion. Use API example code for batch tabdelimited files to svg conversion within Python application.
 ---
 

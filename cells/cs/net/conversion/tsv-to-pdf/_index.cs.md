@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TSV na PDF prostřednictvím C#
-url: /cs/net/conversion/tsv-to-pdf/
+
 description: Ukázkový kód pro převod tsv na pdf C#. Použijte API ukázkový kód pro dávkový převod souborů tsv na pdf v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

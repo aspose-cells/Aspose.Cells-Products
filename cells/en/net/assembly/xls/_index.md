@@ -1,7 +1,7 @@
 ---
 title: Generate Reports in XLS Files via .NET 
 weight: 1700
-url: /net/assembly/xls/ 
+
 description: C# source code to generate XLS format reports on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

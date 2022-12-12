@@ -1,7 +1,7 @@
-﻿---
+---
 title: Buscar documento ODS sin abrir a través de .NET 
 weight: 160
-url: /es/net/search/ods/ 
+
 description: C# código fuente para buscar palabras con patrón en el archivo ODS en .NET Framework, .NET Core, Mono o Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

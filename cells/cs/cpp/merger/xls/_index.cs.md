@@ -1,6 +1,6 @@
-﻿---
+---
 title: Sloučit soubory XLS přes C++ 
-url: /cs/cpp/merger/xls/ 
+
 description: C++ ukázkový kód pro kombinaci dokumentů XLS v C++ Runtime Environment pro Windows 32 bit, Windows 64 bit a Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

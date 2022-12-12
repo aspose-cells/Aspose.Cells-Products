@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to MD via Java 
-url: /java/conversion/xltx-to-md/
+
 description: Convert XLTX to MD format in Java code. Save XLTX as MD using Java.
 ---
 

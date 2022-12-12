@@ -1,7 +1,7 @@
-﻿---
+---
 title: Přidat anotaci ODS prostřednictvím C++ 
 weight: 8840
-url: /cs/cpp/annotation/ods/ 
+
 description: C++ ukázkový kód pro odstranění anotací formátu ODS v C++ Runtime Environment pro Windows 32bit, Windows 64bit a Linux 64bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

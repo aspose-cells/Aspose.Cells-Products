@@ -1,7 +1,7 @@
-﻿---
+---
 title: Преобразование MHTML в PNG с помощью Java 
 weight: 9360
-url: /ru/java/conversion/mhtml-to-png/ 
+
 description: Пример кода преобразования Java для формата MHTML в файл PNG. Программисты могут использовать этот пример кода для экспорта электронных таблиц Excel и OpenOffice в формат PNG в любом веб-или настольном Java приложении.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

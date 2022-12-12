@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer ODS naar TSV via C++ applicatie 
 weight: 1570
-url: /nl/cpp/conversion/ods-to-tsv/ 
+
 description: Voorbeeld C++ conversiecode voor ODS-document naar TSV-indeling. Programmeurs kunnen deze broncode gebruiken voor batchconversie van ODS naar TSV binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Hợp nhất các tệp XLSX qua .NET 
 weight: 8290
-url: /vi/net/merger/xlsx/ 
+
 description: C# mã nguồn để kết hợp các tài liệu XLSX trên Nền tảng .NET Framework, .NET Core Mono hoặc Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

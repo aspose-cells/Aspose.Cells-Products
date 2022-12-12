@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer HTML naar XPS via Python
-url: /nl/python-java/conversion/html-to-xps/
+
 description: Voorbeeldcode voor conversie van html naar xps Python. Gebruik API voorbeeldcode voor batch-html-bestanden naar xps-conversie binnen Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

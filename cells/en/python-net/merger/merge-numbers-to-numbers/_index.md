@@ -1,6 +1,6 @@
 ---
 title: Merge NUMBERS to NUMBERS Files via Python 
-url: /python-net/merger/merge-numbers-to-numbers/ 
+
 description: Merge NUMBERS to NUMBERS file in Python code. Combine NUMBERS to NUMBERS file using Python.
 ---
 

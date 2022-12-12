@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง TABDELIMITED เป็น XLS ผ่าน C++ แอปพลิเคชัน 
-url: /th/cpp/conversion/tabdelimited-to-xls/ 
+
 description: ตัวอย่างรหัสการแปลง C++ สำหรับเอกสาร TABDELIMITED เป็นรูปแบบ XLS โปรแกรมเมอร์สามารถใช้ซอร์สโค้ดนี้สำหรับการแปลงชุด TABDELIMITED เป็น XLS ภายในแอปพลิเคชัน C++ ใดๆ
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

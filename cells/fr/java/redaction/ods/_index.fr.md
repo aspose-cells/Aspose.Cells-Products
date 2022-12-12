@@ -1,7 +1,7 @@
-﻿---
+---
 title: Rechercher et remplacer du texte dans le document ODS via Java 
 weight: 9210
-url: /fr/java/redaction/ods/ 
+
 description: Java exemple de code pour masquer les informations sensibles dans le fichier ODS sur Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

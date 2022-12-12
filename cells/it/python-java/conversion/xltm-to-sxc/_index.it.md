@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converti XLTM in SXC tramite Python
-url: /it/python-java/conversion/xltm-to-sxc/
+
 description: Codice di esempio per la conversione da xltm a sxc Python. Usa API codice di esempio per la conversione batch di file xltm in sxc all'interno dell'applicazione Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование SXC в MARKDOWN через Python
-url: /ru/python-java/conversion/sxc-to-markdown/
+
 description: Пример кода для преобразования sxc в уценку Python. Используйте пример кода API для пакетного преобразования файлов sxc в уценку в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

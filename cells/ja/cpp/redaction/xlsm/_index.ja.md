@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++を介してXLSMドキュメントのテキストを検索して置換します 
 weight: 9570
-url: /ja/cpp/redaction/xlsm/ 
+
 description: C++ Windows 32ビット、Windows 64ビット、およびLinux64ビットのランタイム環境でXLSMファイルの機密情報を編集するためのサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

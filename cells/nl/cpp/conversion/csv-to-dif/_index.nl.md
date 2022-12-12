@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer CSV naar DIF via C++ applicatie 
 weight: 460
-url: /nl/cpp/conversion/csv-to-dif/ 
+
 description: Voorbeeld C++-conversiecode voor CSV-document naar DIF-indeling. Programmeurs kunnen deze broncode gebruiken voor batch-CSV naar DIF-conversie binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

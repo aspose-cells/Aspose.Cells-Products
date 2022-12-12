@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to WORD via C#
-url: /net/conversion/json-to-word/
+
 description: Convert JSON to WORD format in C# code. Save JSON as WORD using VB.NET, Asp.NET or any .NET based application.
 ---
 

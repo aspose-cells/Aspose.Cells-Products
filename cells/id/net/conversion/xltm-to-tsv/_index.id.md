@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan XLTM ke TSV melalui C#
-url: /id/net/conversion/xltm-to-tsv/
+
 description: Contoh kode untuk konversi xltm ke tsv C#. Gunakan API kode contoh untuk file batch xltm ke konversi tsv dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

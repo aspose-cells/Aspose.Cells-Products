@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLTM na ODS přes Python
-url: /cs/python-java/conversion/xltm-to-ods/
+
 description: Ukázkový kód pro převod xltm na ods Python. Použijte API ukázkový kód pro dávkový převod souborů xltm na ods v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

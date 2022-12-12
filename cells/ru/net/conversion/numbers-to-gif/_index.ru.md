@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование NUMBERS в GIF с помощью C#
-url: /ru/net/conversion/numbers-to-gif/
+
 description: Пример кода для преобразования чисел в gif C#. Используйте пример кода API для преобразования файлов номеров пакетов в gif в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

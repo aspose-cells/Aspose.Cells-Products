@@ -1,6 +1,6 @@
-﻿---
+---
 title: स्प्रैडशीटएमएल को C# के माध्यम से एमएचटीएमएल में बदलें
-url: /hi/net/conversion/spreadsheetml-to-mhtml/
+
 description: स्प्रैडशीटएमएल से एमएचटीएमएल C# रूपांतरण के लिए नमूना कोड। VB.NET, Asp.NET या किसी भी .NET आधारित एप्लिकेशन के अंतर्गत बैच स्प्रेडशीटएमएल फ़ाइलों को एमएचटीएमएल रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

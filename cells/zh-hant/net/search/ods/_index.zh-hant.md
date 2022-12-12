@@ -1,7 +1,7 @@
-﻿---
+---
 title: 在不通過 .NET 打開的情況下搜索 ODS 文檔 
 weight: 160
-url: /zh-hant/net/search/ods/ 
+
 description: C# 源代碼，用於在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上的 ODS 文件中搜索具有模式的單詞。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

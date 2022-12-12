@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してXLSMファイルでレポートを生成する 
 weight: 270
-url: /ja/java/assembly/xlsm/ 
+
 description: Java JSP/JSFアプリケーションおよびデスクトップアプリケーションのランタイム環境でXLSM形式のレポートを作成するためのサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

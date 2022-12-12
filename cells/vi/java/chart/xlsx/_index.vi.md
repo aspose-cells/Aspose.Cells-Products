@@ -1,7 +1,7 @@
-﻿---
+---
 title: Biểu đồ tài liệu XLSX qua Java 
 weight: 5380
-url: /vi/java/chart/xlsx/ 
+
 description: Java mã mẫu để vẽ và chuyển đổi biểu đồ hoặc sơ đồ trong tệp XLSX trên Java Môi trường thời gian chạy cho Ứng dụng JSP / JSF và Ứng dụng trên máy tính để bàn.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

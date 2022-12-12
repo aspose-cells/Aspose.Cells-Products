@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera MHTML till SVG via Python
-url: /sv/python-java/conversion/mhtml-to-svg/
+
 description: Exempelkod för konvertering från mhtml till svg Python. Använd API exempelkod för batch-mhtml-filer till svg-konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

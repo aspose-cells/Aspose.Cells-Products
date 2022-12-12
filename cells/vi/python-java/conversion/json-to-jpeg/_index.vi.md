@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi JSON sang JPEG qua Python
-url: /vi/python-java/conversion/json-to-jpeg/
+
 description: Mã mẫu cho chuyển đổi json sang jpeg Python. Sử dụng mã ví dụ API cho các tệp json hàng loạt để chuyển đổi jpeg trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

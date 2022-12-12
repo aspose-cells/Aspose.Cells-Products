@@ -1,6 +1,6 @@
 ---
 title: Convert TSV to PNG via Python
-url: /python-net/conversion/tsv-to-png/
+
 description: Sample code for tsv to png Python conversion. Use API example code for batch tsv files to png conversion within Python application.
 ---
 

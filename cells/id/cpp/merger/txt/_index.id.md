@@ -1,6 +1,6 @@
-﻿---
+---
 title: Gabungkan File TXT melalui C++ 
-url: /id/cpp/merger/txt/ 
+
 description: C++ contoh kode untuk menggabungkan dokumen TXT pada C++ Runtime Environment untuk Windows 32 bit, Windows 64 bit, dan Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

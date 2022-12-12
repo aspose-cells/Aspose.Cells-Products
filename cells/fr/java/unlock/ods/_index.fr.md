@@ -1,7 +1,7 @@
-﻿---
+---
 title: Déverrouiller le document ODS via Java 
 weight: 5080
-url: /fr/java/unlock/ods/ 
+
 description: Java exemple de code pour déverrouiller le fichier ODS protégé par mot de passe sur Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

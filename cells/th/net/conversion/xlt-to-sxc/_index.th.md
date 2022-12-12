@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง XLT เป็น SXC ผ่าน C#
-url: /th/net/conversion/xlt-to-sxc/
+
 description: โค้ดตัวอย่างสำหรับการแปลง xlt เป็น sxc C# ใช้โค้ดตัวอย่าง API สำหรับไฟล์แบตช์ xlt เป็นการแปลง sxc ภายใน VB.NET, Asp.NET หรือแอปพลิเคชันที่ใช้ .NET
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

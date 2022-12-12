@@ -1,6 +1,6 @@
 ---
 title: Merge MHT Files via .NET 
-url: /net/merger/mht/ 
+
 description: Try our On-Premise message merger APIs to combine MHT documents on .NET Framework, .NET Core, and Xamarin Platforms.
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konwertuj XLSX na ODS za pomocą aplikacji C++ 
 weight: 3990
-url: /pl/cpp/conversion/xlsx-to-ods/ 
+
 description: Przykładowy kod konwersji C++ dla dokumentu XLSX do formatu ODS. Programiści mogą używać tego kodu źródłowego do wsadowej konwersji XLSX na ODS w dowolnej aplikacji C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

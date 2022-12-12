@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование NUMBERS в TSV через C#
-url: /ru/net/conversion/numbers-to-tsv/
+
 description: Пример кода для преобразования чисел в tsv C#. Используйте пример кода API для преобразования файлов номеров пакетов в tsv в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

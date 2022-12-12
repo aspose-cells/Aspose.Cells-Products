@@ -1,6 +1,6 @@
-﻿---
+---
 title: PREADSHEETML को Python के माध्यम से EMF में बदलें
-url: /hi/python-java/conversion/spreadsheetml-to-emf/
+
 description: स्प्रेडशीटएमएल से ईएमएफ Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर ईएमएफ रूपांतरण के लिए बैच स्प्रेडशीटएमएल फाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

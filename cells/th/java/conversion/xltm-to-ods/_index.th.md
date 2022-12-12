@@ -1,7 +1,7 @@
-﻿---
+---
 title: แปลง XLTM เป็น ODS ผ่าน Java 
 weight: 6190
-url: /th/java/conversion/xltm-to-ods/ 
+
 description: ตัวอย่างรหัสการแปลง Java สำหรับรูปแบบ XLTM เป็นไฟล์ ODS โปรแกรมเมอร์สามารถใช้โค้ดตัวอย่างนี้เพื่อส่งออกสเปรดชีต Excel & OpenOffice ไปยัง ODS ภายในแอปพลิเคชันบนเว็บหรือเดสก์ท็อป Java
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

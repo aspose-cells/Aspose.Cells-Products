@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan XLSB ke TSV melalui C#
-url: /id/net/conversion/xlsb-to-tsv/
+
 description: Contoh kode untuk konversi xlsb ke tsv C#. Gunakan API kode contoh untuk file batch xlsb ke konversi tsv dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

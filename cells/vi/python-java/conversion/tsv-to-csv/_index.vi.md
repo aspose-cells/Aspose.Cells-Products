@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi TSV sang CSV qua Python
-url: /vi/python-java/conversion/tsv-to-csv/
+
 description: Mã mẫu cho chuyển đổi tsv sang csv Python. Sử dụng API mã mẫu cho hàng loạt tệp tsv sang chuyển đổi csv trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

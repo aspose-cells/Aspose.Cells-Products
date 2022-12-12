@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla 3B Çizgi Grafikleri oluşturun
-url: /tr/python-java/create-line3d-chart/
+
 description: Python Python Kitaplığı kullanarak Excel'de 3B Çizgi grafikler oluşturmak için örnek kod. Python tabanlı uygulama içinde MS Excel'e 3B Çizgi grafiği oluşturmak için bu kodu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

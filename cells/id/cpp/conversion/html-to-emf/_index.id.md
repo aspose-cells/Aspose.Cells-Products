@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversi HTML ke EMF melalui C++ aplikasi 
 weight: 8550
-url: /id/cpp/conversion/html-to-emf/ 
+
 description: Contoh C++ kode konversi untuk dokumen HTML ke format EMF. Pemrogram dapat menggunakan kode sumber ini untuk konversi batch HTML ke EMF dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla XLSM'yi EMF'ye dönüştürün
-url: /tr/net/conversion/xlsm-to-emf/
+
 description: xlsm'den emf'ye C# dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde emf dönüşümüne toplu xlsm dosyaları için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

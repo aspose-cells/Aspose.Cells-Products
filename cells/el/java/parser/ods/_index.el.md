@@ -1,7 +1,7 @@
-﻿---
+---
 title: Εξαγωγή κειμένου και εικόνων από έγγραφο ODS μέσω Java 
 weight: 4740
-url: /el/java/parser/ods/ 
+
 description: Java δείγμα κώδικα για εξαγωγή κειμένου και εικόνων από το αρχείο ODS στο Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

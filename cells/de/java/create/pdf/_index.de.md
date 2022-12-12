@@ -1,6 +1,6 @@
-﻿---
+---
 title: Erstellen Sie PDF-Dateien über Java 
-url: /de/java/create-pdf/ 
+
 description: Java Beispielcode zum Generieren von PDF-Dokumenten. Verwenden Sie diesen Code zum Erstellen von PDF-Dateien in einer Java-basierten Desktop- oder Webanwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

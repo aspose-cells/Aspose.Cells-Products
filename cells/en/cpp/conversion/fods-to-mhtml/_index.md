@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to MHTML via C++
-url: /cpp/conversion/fods-to-mhtml/
+
 description: Convert FODS to MHTML format in C++ code. Save FODS as MHTML using C++.
 ---
 

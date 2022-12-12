@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Hozzon létre MS Excel XLSM fájlokat a következőn keresztül: Java "
-url: /hu/java/create-xlsm/ 
+
 description: Java Mintakód XLSM dokumentumok generálásához. Ezzel a kóddal MS Excel XLSM fájlokat hozhat létre Java alapú asztali vagy webes alkalmazásban.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to XPS via Java 
-url: /java/conversion/xltx-to-xps/
+
 description: Convert XLTX to XPS format in Java code. Save XLTX as XPS using Java.
 ---
 

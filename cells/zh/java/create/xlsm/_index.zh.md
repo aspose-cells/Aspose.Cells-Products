@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 Java 创建 MS Excel XLSM 文件 
-url: /zh/java/create-xlsm/ 
+
 description: Java 用于生成 XLSM 文档的示例代码。使用此代码在基于 Java 的桌面或 Web 应用程序中创建 MS Excel XLSM 文件。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

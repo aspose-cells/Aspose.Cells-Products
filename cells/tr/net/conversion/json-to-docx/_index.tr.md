@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla JSON'u DOCX'e dönüştürün
-url: /tr/net/conversion/json-to-docx/
+
 description: json'dan docx'e C# dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu json dosyalarından docx'e dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

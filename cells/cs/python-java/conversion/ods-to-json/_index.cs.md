@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést ODS na JSON prostřednictvím Python
-url: /cs/python-java/conversion/ods-to-json/
+
 description: Ukázkový kód pro převod z ods na json Python. Použijte API ukázkový kód pro dávkový převod souborů ods na json v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

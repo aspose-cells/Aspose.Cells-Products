@@ -1,7 +1,7 @@
-﻿---
+---
 title: Generar informes en archivos ODS a través de .NET 
 weight: 520
-url: /es/net/assembly/ods/ 
+
 description: C# código fuente para generar informes en formato ODS en .NET Framework, .NET Core, Mono o Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

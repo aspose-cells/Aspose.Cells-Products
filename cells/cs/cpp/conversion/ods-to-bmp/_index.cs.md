@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převeďte ODS na BMP pomocí aplikace C++ 
 weight: 8940
-url: /cs/cpp/conversion/ods-to-bmp/ 
+
 description: Ukázka převodního kódu C++ pro dokument ODS na formát BMP. Programátoři mohou použít tento zdrojový kód pro dávkovou konverzi ODS na BMP v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

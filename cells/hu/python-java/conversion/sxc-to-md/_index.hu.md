@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SXC konvertálása MD-vé a következőn keresztül: Python"
-url: /hu/python-java/conversion/sxc-to-md/
+
 description: Mintakód az sxc–md Python konverzióhoz. Használjon API példakódot a kötegelt sxc fájlok md konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

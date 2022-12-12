@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi TSV sang XML qua Python
-url: /vi/python-java/conversion/tsv-to-xml/
+
 description: Mã mẫu cho chuyển đổi tsv sang xml Python. Sử dụng mã mẫu API cho chuyển đổi hàng loạt tệp tsv sang xml trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

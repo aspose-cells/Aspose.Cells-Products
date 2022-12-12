@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή TABDELIMITED σε HTML μέσω C#
-url: /el/net/conversion/tabdelimited-to-html/
+
 description: Δείγμα κώδικα για μετατροπή οριοθετημένης καρτέλας σε html C#. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικές μετατροπές οριοθετημένων στηλοθέτων σε html εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

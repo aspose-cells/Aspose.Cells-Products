@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Az XLTM konvertálása ODS-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/xltm-to-ods/
+
 description: Mintakód az xltm–ods Python konverzióhoz. Használjon API példakódot az xltm fájlok kötegelt ods konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

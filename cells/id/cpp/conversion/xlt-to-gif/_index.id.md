@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi XLT ke GIF melalui C++ aplikasi 
-url: /id/cpp/conversion/xlt-to-gif/ 
+
 description: Contoh C++ kode konversi untuk dokumen XLT ke format GIF. Pemrogram dapat menggunakan kode sumber ini untuk konversi batch XLT ke GIF dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

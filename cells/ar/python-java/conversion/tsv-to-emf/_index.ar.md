@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TSV إلى EMF عبر Python
-url: /ar/python-java/conversion/tsv-to-emf/
+
 description: نموذج كود للتحويل من tsv إلى emf Python. استخدم API مثال الكود لملفات دفعية tsv لتحويل emf داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

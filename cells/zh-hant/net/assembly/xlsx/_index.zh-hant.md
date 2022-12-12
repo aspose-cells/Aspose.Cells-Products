@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通過 .NET 在 XLSX 文件中生成報告 
 weight: 6740
-url: /zh-hant/net/assembly/xlsx/ 
+
 description: C# 用於在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上生成 XLSX 格式報告的源代碼。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

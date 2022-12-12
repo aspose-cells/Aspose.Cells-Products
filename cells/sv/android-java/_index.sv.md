@@ -1,7 +1,7 @@
-﻿---
+---
 title: Android Excel-kalkylblad API - Aspose 
 weight: 6510
-url: /sv/android-java/ 
+
 description: Android-kalkylbladsbibliotek för att skapa läs-skriv- och tolka Excel-filer. Ett kalkylblad API för utveckling av mobilappar
 ---
 {{< blocks/products/pf/main-wrap-class >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "JSON konvertálása XLSM-re a következőn keresztül: C#"
-url: /hu/net/conversion/json-to-xlsm/
+
 description: Mintakód a json–xlsm C# konverzióhoz. Használjon API példakódot a kötegelt json fájlok xlsm konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

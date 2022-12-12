@@ -1,6 +1,6 @@
-﻿---
+---
 title: XLSB को Python के माध्यम से XML में बदलें
-url: /hi/python-java/conversion/xlsb-to-xml/
+
 description: xlsb से xml Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन में बैच xlsb फ़ाइलों से xml रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

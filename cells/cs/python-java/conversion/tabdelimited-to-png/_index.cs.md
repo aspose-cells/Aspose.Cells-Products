@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TABDELIMITED na PNG přes Python
-url: /cs/python-java/conversion/tabdelimited-to-png/
+
 description: Ukázkový kód pro převod oddělený tabulátory na png Python. Použijte API ukázkový kód pro dávkový převod souborů oddělených tabulátory na png v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

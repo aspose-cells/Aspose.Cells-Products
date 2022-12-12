@@ -1,6 +1,6 @@
-﻿---
+---
 title: Tạo Biểu đồ Excel và Chuyển đổi sang Hình ảnh qua Java
-url: /vi/java/chart/
+
 description: Java mã nguồn để vẽ và chuyển đổi biểu đồ hoặc sơ đồ trong Microsoft Excel bằng cách sử dụng Java Thư viện. 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل SPREADSHEETML إلى XLSB عبر Python
-url: /ar/python-java/conversion/spreadsheetml-to-xlsb/
+
 description: نموذج كود لتحويل جدول البيانات إلى xlsb Python. استخدم API رمز المثال لملفات جداول البيانات الدفعية لتحويل xlsb داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

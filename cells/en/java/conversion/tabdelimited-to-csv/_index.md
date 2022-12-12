@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to CSV via Java 
-url: /java/conversion/tabdelimited-to-csv/
+
 description: Convert TABDELIMITED to CSV format in Java code. Save TABDELIMITED as CSV using Java.
 ---
 

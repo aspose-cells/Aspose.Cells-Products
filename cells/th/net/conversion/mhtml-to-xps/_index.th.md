@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง MHTML เป็น XPS ผ่าน C#
-url: /th/net/conversion/mhtml-to-xps/
+
 description: โค้ดตัวอย่างสำหรับการแปลง mhtml เป็น xps C# ใช้โค้ดตัวอย่าง API สำหรับไฟล์ batch mhtml เป็นการแปลง xps ภายใน VB.NET, Asp.NET หรือแอปพลิเคชันที่ใช้ .NET
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

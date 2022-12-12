@@ -1,6 +1,6 @@
 ---
 title: Create MS Excel XLTM Files via C# 
-url: /net/create-xltm/ 
+
 description: Create XLTM files in C# code. Generate MS Excel XLTM files using VB.NET, Asp.NET or any .NET based application.
 ---
 

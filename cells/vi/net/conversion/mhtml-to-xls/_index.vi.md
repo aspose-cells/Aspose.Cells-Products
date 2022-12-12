@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển MHTML sang XLS qua C#
-url: /vi/net/conversion/mhtml-to-xls/
+
 description: Mã mẫu cho chuyển đổi mhtml sang xls C#. Sử dụng API mã mẫu để chuyển đổi hàng loạt tệp mhtml sang xls trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

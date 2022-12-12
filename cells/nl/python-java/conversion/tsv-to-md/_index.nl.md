@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer TSV naar MD via Python
-url: /nl/python-java/conversion/tsv-to-md/
+
 description: Voorbeeldcode voor conversie van tsv naar md Python. Gebruik API voorbeeldcode voor batch-tsv-bestanden naar md-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla XLTX'i TIFF'ye dönüştürün
-url: /tr/net/conversion/xltx-to-tiff/
+
 description: xltx'ten tiff'e C# dönüşümü için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde dönüşüm tiff için toplu xltx dosyaları için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

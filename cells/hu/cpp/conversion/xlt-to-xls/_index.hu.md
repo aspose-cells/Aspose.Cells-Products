@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLT-t XLS-re a(z) C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/xlt-to-xls/ 
+
 description: Minta C++ konverziós kód XLT dokumentumhoz XLS formátumba. A programozók ezt a forráskódot használhatják az XLT-ből XLS-be kötegelt konvertáláshoz bármely C++ alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

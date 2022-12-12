@@ -1,7 +1,7 @@
-﻿---
+---
 title: แปลง XLSX เป็น PDF ผ่าน C++ แอปพลิเคชัน 
 weight: 6790
-url: /th/cpp/conversion/xlsx-to-pdf/ 
+
 description: ตัวอย่างโค้ดการแปลง C++ สำหรับเอกสาร XLSX เป็น PDF โปรแกรมเมอร์สามารถใช้ซอร์สโค้ดนี้สำหรับการแปลง XLSX เป็น PDF เป็นกลุ่มภายในแอปพลิเคชัน C++ ใดๆ
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera SPREADSHEETML till JPEG via C#
-url: /sv/net/conversion/spreadsheetml-to-jpeg/
+
 description: Exempelkod för konvertering från kalkylarkml till jpeg C#. Använd API exempelkod för batch-kalkylarkml-filer till jpeg-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

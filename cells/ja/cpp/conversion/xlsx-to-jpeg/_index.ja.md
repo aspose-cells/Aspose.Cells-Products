@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++アプリケーションを介してXLSXをJPEGに変換します 
 weight: 6820
-url: /ja/cpp/conversion/xlsx-to-jpeg/ 
+
 description: XLSXドキュメントからJPEG形式へのサンプルC++変換コード。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でXLSXからJPEGへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

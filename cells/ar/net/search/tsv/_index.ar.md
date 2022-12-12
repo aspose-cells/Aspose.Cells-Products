@@ -1,7 +1,7 @@
-﻿---
+---
 title: البحث في مستند TSV بدون الفتح عبر .NET 
 weight: 2810
-url: /ar/net/search/tsv/ 
+
 description: C# شفرة المصدر للبحث عن الكلمات ذات النمط في ملف TSV على الأنظمة الأساسية .NET Framework ، .NET Core ، Mono أو Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

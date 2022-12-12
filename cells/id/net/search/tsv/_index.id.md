@@ -1,7 +1,7 @@
-﻿---
+---
 title: Telusuri dokumen TSV tanpa membuka melalui .NET 
 weight: 2810
-url: /id/net/search/tsv/ 
+
 description: C# kode sumber untuk mencari kata-kata dengan pola dalam file TSV pada .NET Framework, .NET Core, Mono atau Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

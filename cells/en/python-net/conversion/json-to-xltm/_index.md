@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to XLTM via Python
-url: /python-net/conversion/json-to-xltm/
+
 description: Sample code for json to xltm Python conversion. Use API example code for batch json files to xltm conversion within Python application.
 ---
 

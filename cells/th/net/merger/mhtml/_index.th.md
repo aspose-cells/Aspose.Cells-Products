@@ -1,7 +1,7 @@
-﻿---
+---
 title: รวมไฟล์ MHTML ผ่าน .NET 
 weight: 2610
-url: /th/net/merger/mhtml/ 
+
 description: C# ซอร์สโค้ดเพื่อรวมเอกสาร MHTML บน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi CSV sang XML qua C#
-url: /vi/net/conversion/csv-to-xml/
+
 description: Mã mẫu cho chuyển đổi csv sang xml C#. Sử dụng API mã mẫu để chuyển đổi hàng loạt tệp csv sang xml trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

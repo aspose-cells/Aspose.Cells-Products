@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to DIF via Java 
-url: /java/conversion/fods-to-dif/
+
 description: Convert FODS to DIF format in Java code. Save FODS as DIF using Java.
 ---
 

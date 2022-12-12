@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj XLSM na TABDELIMITED przez Java 
-url: /pl/java/conversion/xlsm-to-tabdelimited/ 
+
 description: Przykładowy kod konwersji Java dla formatu XLSM do pliku TABDELIMITED. Programiści mogą użyć tego przykładowego kodu, aby wyeksportować arkusze kalkulacyjne Excel i OpenOffice do TABDELIMITED w dowolnej aplikacji internetowej lub desktopowej Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

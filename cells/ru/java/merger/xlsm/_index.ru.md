@@ -1,7 +1,7 @@
-﻿---
+---
 title: Объединить файлы XLSM через Java 
 weight: 1270
-url: /ru/java/merger/xlsm/ 
+
 description: Пример кода Java для объединения документов XLSM в Java среде выполнения для приложений JSP/JSF и настольных приложений.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

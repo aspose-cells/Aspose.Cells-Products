@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj SPREADSHEETML na PNG za pomocą aplikacji C++ 
-url: /pl/cpp/conversion/spreadsheetml-to-png/ 
+
 description: Przykładowy kod konwersji C++ dla dokumentu SPREADSHEETML do formatu PNG. Programiści mogą używać tego kodu źródłowego do wsadowej konwersji SPREADSHEETML na PNG w dowolnej aplikacji C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

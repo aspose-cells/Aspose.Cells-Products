@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python経由でCSVをJPEGに変換
-url: /ja/python-java/conversion/csv-to-jpeg/
+
 description: csvからjpegPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチcsvファイルからjpegへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

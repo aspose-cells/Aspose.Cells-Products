@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển TABDELIMITED sang PDF qua C#
-url: /vi/net/conversion/tabdelimited-to-pdf/
+
 description: Mã mẫu để chuyển đổi tabdelimited sang pdf C#. Sử dụng API mã mẫu cho các tệp được giới hạn bằng tab hàng loạt thành chuyển đổi pdf trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

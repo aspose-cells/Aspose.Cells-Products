@@ -1,7 +1,7 @@
-﻿---
+---
 title: "TSV konvertálása CSV-vé a következőn keresztül: Java "
 weight: 1720
-url: /hu/java/conversion/tsv-to-csv/ 
+
 description: Minta Java konverziós kód a TSV-formátumhoz CSV-fájllá. A programozók ezt a példakódot használhatják Excel- és OpenOffice-táblázatok exportálására CSV-fájlba bármely web- vagy asztali Java-alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

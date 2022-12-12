@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to XLTX via C++
-url: /cpp/conversion/excel-to-xltx/
+
 description: Convert EXCEL to XLTX format in C++ code. Save EXCEL as XLTX using C++.
 ---
 

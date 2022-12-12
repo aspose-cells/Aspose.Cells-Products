@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan TXT ke XLTX melalui Python
-url: /id/python-java/conversion/txt-to-xltx/
+
 description: Contoh kode untuk konversi txt ke xltx Python. Gunakan API kode contoh untuk file batch txt ke konversi xltx dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

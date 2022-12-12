@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter JSON para TIFF via Python
-url: /pt/python-java/conversion/json-to-tiff/
+
 description: Código de exemplo para conversão de json para tiff Python. Use o código de exemplo API para arquivos json em lote para conversão tiff no aplicativo Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

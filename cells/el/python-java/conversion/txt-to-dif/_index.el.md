@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή TXT σε DIF μέσω Python
-url: /el/python-java/conversion/txt-to-dif/
+
 description: Δείγμα κώδικα για μετατροπή txt σε διαφορά Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία txt για να διαφοροποιήσετε τη μετατροπή εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

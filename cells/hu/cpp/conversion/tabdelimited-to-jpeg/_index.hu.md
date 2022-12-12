@@ -1,6 +1,6 @@
-﻿---
+---
 title: TABDELIMITED konvertálása JPEG formátumba a(z) C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/tabdelimited-to-jpeg/ 
+
 description: Minta C++ konverziós kód a TABDELIMITED dokumentumhoz JPEG formátumba. A programozók ezt a forráskódot használhatják a TABDELIMITED kötegelt JPEG konvertáláshoz bármely C++ alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

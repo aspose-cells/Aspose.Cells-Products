@@ -1,7 +1,7 @@
-﻿---
+---
 title: Προστασία και κλείδωμα εγγράφου XLSM μέσω C++ 
 weight: 8770
-url: /el/cpp/protect/xlsm/ 
+
 description: C++ παράδειγμα κώδικα για το κλείδωμα του αρχείου XLSM με χρήση κωδικού πρόσβασης στο C++ Runtime Environment για Windows 32 bit, Windows 64 bit και Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

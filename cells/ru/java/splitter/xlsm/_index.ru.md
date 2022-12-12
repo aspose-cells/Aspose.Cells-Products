@@ -1,7 +1,7 @@
-﻿---
+---
 title: Разделить файлы XLSM через Java 
 weight: 5670
-url: /ru/java/splitter/xlsm/ 
+
 description: Пример кода Java для разделения документов XLSM на Java среду выполнения для приложений JSP/JSF и настольных приложений.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

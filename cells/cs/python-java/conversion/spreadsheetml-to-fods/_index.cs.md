@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést SPREADSHEETML na FODS prostřednictvím Python
-url: /cs/python-java/conversion/spreadsheetml-to-fods/
+
 description: Ukázkový kód pro konverzi tabulkyml na fods Python. Použijte API ukázkový kód pro dávkový převod tabulkových souborů ml na fods v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

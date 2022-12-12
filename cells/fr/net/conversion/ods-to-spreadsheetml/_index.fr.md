@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir ODS en SPREADSHEETML via C#
-url: /fr/net/conversion/ods-to-spreadsheetml/
+
 description: Exemple de code pour la conversion ods en feuille de calcul C#. Utilisez l'exemple de code API pour la conversion de fichiers ods par lots en feuille de calcul dans VB.NET, Asp.NET ou toute application basée sur .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

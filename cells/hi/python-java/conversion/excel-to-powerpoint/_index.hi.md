@@ -1,6 +1,6 @@
-﻿---
+---
 title: EXCEL को Python के माध्यम से पावरपॉइंट में बदलें
-url: /hi/python-java/conversion/excel-to-powerpoint/
+
 description: एक्सेल से पावरपॉइंट Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर पावरपॉइंट रूपांतरण के लिए बैच एक्सेल फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

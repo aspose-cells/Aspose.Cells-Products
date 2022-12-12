@@ -1,7 +1,7 @@
-﻿---
+---
 title: Générer des rapports dans des fichiers XLSX via Java 
 weight: 7710
-url: /fr/java/assembly/xlsx/ 
+
 description: Java exemple de code pour créer des rapports au format XLSX sur Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

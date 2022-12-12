@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertálja a CSV-t XPS-re a(z) C++ alkalmazáson keresztül 
 weight: 3170
-url: /hu/cpp/conversion/csv-to-xps/ 
+
 description: Minta C++ konverziós kód a CSV-dokumentumhoz XPS formátumba. A programozók ezt a forráskódot használhatják a CSV-ből XPS-be kötegelt konvertáláshoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

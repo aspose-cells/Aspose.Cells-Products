@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Megjegyzések beszúrása Excelbe a következőn keresztül: .NET"
-url: /hu/net/comment/
+
 description: C# forráskódok, amelyek segítségével megjegyzéseket szúrhat be Microsoft Excel-fájlokba a .NET Library használatával. 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

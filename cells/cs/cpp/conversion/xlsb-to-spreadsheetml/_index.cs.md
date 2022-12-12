@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte XLSB na SPREADSHEETML pomocí aplikace C++ 
-url: /cs/cpp/conversion/xlsb-to-spreadsheetml/ 
+
 description: Ukázkový konverzní kód C++ pro dokument XLSB do formátu SPREADSHEETML. Programátoři mohou použít tento zdrojový kód pro dávkový převod XLSB do SPREADSHEETML v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

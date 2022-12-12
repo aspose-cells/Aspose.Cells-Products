@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi TSV sang HTML qua C#
-url: /vi/net/conversion/tsv-to-html/
+
 description: Mã mẫu cho chuyển đổi tsv sang html C#. Sử dụng API mã mẫu cho hàng loạt tệp tsv sang chuyển đổi html trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

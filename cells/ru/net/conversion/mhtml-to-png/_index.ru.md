@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование MHTML в PNG с помощью C#
-url: /ru/net/conversion/mhtml-to-png/
+
 description: Пример кода для преобразования mhtml в png C#. Используйте пример кода API для пакетного преобразования файлов mhtml в png в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

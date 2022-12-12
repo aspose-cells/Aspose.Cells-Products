@@ -1,6 +1,6 @@
-﻿---
+---
 title: Bearbeiten Sie XLS-Dateien über .NET 
-url: /de/net/editor/xls/ 
+
 description: C#-Quellcode zum Bearbeiten von XLS-Dokumenten auf .NET Framework-, .NET Core-, Windows Azure-, Mono- oder Xamarin-Plattformen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

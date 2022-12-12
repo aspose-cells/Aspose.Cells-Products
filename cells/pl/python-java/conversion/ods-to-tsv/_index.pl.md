@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj ODS na TSV przez Python
-url: /pl/python-java/conversion/ods-to-tsv/
+
 description: Przykładowy kod konwersji ods do tsv Python. Użyj przykładowego kodu API dla wsadowych plików ods do konwersji tsv w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

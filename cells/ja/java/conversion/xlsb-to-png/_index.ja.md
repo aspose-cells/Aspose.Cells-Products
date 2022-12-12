@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してXLSBをPNGに変換する 
 weight: 6350
-url: /ja/java/conversion/xlsb-to-png/ 
+
 description: XLSB形式のPNGファイルへのJava変換コードのサンプル。プログラマーは、このサンプルコードを使用して、任意のWebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをPNGにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

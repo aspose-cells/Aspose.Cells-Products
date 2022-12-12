@@ -1,7 +1,7 @@
-﻿---
+---
 title: البحث في مستند ODS بدون فتح عبر Java 
 weight: 8140
-url: /ar/java/search/ods/ 
+
 description: Java نموذج كود للبحث عن الكلمات ذات النمط في ملف ODS في Java Runtime Environment لتطبيق JSP / JSF وتطبيقات سطح المكتب.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

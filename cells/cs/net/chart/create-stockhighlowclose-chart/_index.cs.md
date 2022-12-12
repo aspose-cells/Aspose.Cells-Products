@@ -1,6 +1,6 @@
-﻿---
+---
 title: Vytvářejte akciové grafy vysoce-nízko-těsné prostřednictvím C#
-url: /cs/net/create-stockhighlowclose-chart/
+
 description: C# Ukázkový kód pro vytváření grafů High-Low-Close Stock do Excelu pomocí knihovny .NET. Tento kód použijte k vytvoření grafu High-Low-Close Stock grafu do MS Excel v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

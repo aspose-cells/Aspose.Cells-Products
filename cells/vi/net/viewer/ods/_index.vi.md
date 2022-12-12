@@ -1,7 +1,7 @@
-﻿---
+---
 title: Xem Định dạng Tệp ODS qua .NET 
 weight: 130
-url: /vi/net/viewer/ods/ 
+
 description: C# mã nguồn để tải, hiển thị và hiển thị các tài liệu ODS trên Nền tảng .NET Framework, .NET Core Mono hoặc Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

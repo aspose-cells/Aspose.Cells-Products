@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してHTMLをTIFFに変換します
-url: /ja/net/conversion/html-to-tiff/
+
 description: htmlからtiffC#への変換のサンプルコード。バッチHTMLファイルのAPIサンプルコードを使用して、VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内で変換をtiffします。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

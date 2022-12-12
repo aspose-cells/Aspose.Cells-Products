@@ -1,6 +1,6 @@
-﻿---
+---
 title: "NUMBERS konvertálása EMF-re a következőn keresztül: C#"
-url: /hu/net/conversion/numbers-to-emf/
+
 description: Mintakód számokhoz emf C# konverzióvá. Használjon API példakódot kötegszámfájlokhoz az EMF konverzióhoz VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

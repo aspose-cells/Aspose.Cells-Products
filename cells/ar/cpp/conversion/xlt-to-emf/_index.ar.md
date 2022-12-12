@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLT إلى EMF عبر تطبيق C++ 
-url: /ar/cpp/conversion/xlt-to-emf/ 
+
 description: نموذج رمز تحويل C++ لمستند XLT إلى تنسيق EMF. يمكن للمبرمجين استخدام هذا الكود المصدري لتحويل XLT إلى EMF في أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

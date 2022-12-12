@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to FODS via Java 
-url: /java/conversion/csv-to-fods/
+
 description: Convert CSV to FODS format in Java code. Save CSV as FODS using Java.
 ---
 

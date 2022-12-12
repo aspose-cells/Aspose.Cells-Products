@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLT в DOCX через C#
-url: /ru/net/conversion/xlt-to-docx/
+
 description: Пример кода для преобразования xlt в docx C#. Используйте пример кода API для пакетного преобразования файлов xlt в docx в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

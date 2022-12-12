@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++アプリケーションを介してXLTをTSVに変換する 
-url: /ja/cpp/conversion/xlt-to-tsv/ 
+
 description: XLTドキュメントからTSV形式へのサンプルC++変換コード。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でXLTからTSVへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

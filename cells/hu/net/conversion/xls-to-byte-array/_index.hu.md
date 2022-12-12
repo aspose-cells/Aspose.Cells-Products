@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Konvertálja az XLS-t bájttömbbé a következőn keresztül: C# "
 weight: 7690
-url: /hu/net/conversion/xls-to-byte-array/ 
+
 description: C# Mintakód az XLS-ből byte Array konvertáláshoz. Használja ezt a kódot az Excel XLS-ből Byte Array konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

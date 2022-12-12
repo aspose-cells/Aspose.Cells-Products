@@ -1,7 +1,7 @@
-﻿---
+---
 title: Tìm kiếm tài liệu XLSB mà không cần mở qua .NET 
 weight: 8880
-url: /vi/net/search/xlsb/ 
+
 description: C# mã nguồn để tìm kiếm các từ có mẫu trong tệp XLSB trên Nền tảng .NET Framework, .NET Core Mono hoặc Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

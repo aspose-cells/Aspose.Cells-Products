@@ -1,6 +1,6 @@
-﻿---
+---
 title: "HTML konvertálása BMP-vé a következőn keresztül: Python"
-url: /hu/python-java/conversion/html-to-bmp/
+
 description: Mintakód a html–bmp Python konverzióhoz. Használjon API példakódot kötegelt html fájlok bmp konverziójához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

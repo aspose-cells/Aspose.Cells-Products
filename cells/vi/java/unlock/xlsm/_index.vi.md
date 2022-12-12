@@ -1,7 +1,7 @@
-﻿---
+---
 title: Mở khóa tài liệu XLSM qua Java 
 weight: 7700
-url: /vi/java/unlock/xlsm/ 
+
 description: Java mã mẫu để mở khóa tệp XLSM được bảo vệ bằng mật khẩu trên Java Môi trường thời gian chạy cho Ứng dụng JSP / JSF và Ứng dụng máy tính để bàn.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

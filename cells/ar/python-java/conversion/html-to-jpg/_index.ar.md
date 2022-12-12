@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل HTML إلى JPG عبر Python
-url: /ar/python-java/conversion/html-to-jpg/
+
 description: نموذج رمز للتحويل من html إلى jpg Python. استخدم API رمز المثال لملفات html الدفعية لتحويل jpg داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

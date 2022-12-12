@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してTABDELIMITEDをXPSに変換します
-url: /ja/python-java/conversion/tabdelimited-to-xps/
+
 description: tabdelimited toxpsPython変換のサンプルコード。 Pythonアプリケーション内でタブ区切りファイルをxpsに変換するには、APIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

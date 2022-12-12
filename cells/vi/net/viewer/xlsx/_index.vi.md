@@ -1,7 +1,7 @@
-﻿---
+---
 title: Xem Định dạng Tệp XLSX qua .NET 
 weight: 2180
-url: /vi/net/viewer/xlsx/ 
+
 description: C# mã nguồn để tải, hiển thị và hiển thị tài liệu XLSX trên Nền tảng .NET Framework, .NET Core Mono hoặc Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

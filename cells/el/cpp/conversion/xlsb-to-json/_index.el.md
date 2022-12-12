@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατρέψτε το XLSB σε JSON μέσω της εφαρμογής C++ 
-url: /el/cpp/conversion/xlsb-to-json/ 
+
 description: Δείγμα κώδικα μετατροπής C++ για έγγραφο XLSB σε μορφή JSON. Οι προγραμματιστές μπορούν να χρησιμοποιήσουν αυτόν τον πηγαίο κώδικα για μαζική μετατροπή XLSB σε JSON σε οποιαδήποτε εφαρμογή C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

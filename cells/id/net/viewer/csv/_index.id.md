@@ -1,7 +1,7 @@
-﻿---
+---
 title: Lihat Format File CSV melalui .NET 
 weight: 7690
-url: /id/net/viewer/csv/ 
+
 description: C# kode sumber untuk memuat, merender, dan menampilkan dokumen CSV pada Platform .NET Framework, .NET Core, Mono atau Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

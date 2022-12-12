@@ -1,7 +1,7 @@
-﻿---
+---
 title: รวมไฟล์ XLT ผ่าน .NET 
 weight: 1820
-url: /th/net/merger/xlt/ 
+
 description: C# ซอร์สโค้ดเพื่อรวมเอกสาร XLT บน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

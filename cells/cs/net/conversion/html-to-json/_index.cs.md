@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést HTML na JSON prostřednictvím C#
-url: /cs/net/conversion/html-to-json/
+
 description: Ukázkový kód pro konverzi html na json C#. Použijte API ukázkový kód pro dávkový převod souborů html na json v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

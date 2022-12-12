@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Az XLSX konvertálása PDF-be a következőn keresztül: Python"
-url: /hu/python-java/conversion/xlsx-to-pdf/
+
 description: Mintakód az xlsx-ből pdf-be Python konvertáláshoz. Használjon API példakódot az xlsx fájlok kötegelt PDF formátumú konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

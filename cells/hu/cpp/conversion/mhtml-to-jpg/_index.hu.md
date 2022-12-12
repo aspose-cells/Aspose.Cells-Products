@@ -1,6 +1,6 @@
-﻿---
+---
 title: MHTML konvertálása JPG formátumba a(z) C++ alkalmazással 
-url: /hu/cpp/conversion/mhtml-to-jpg/ 
+
 description: Minta C++ konverziós kód MHTML dokumentumhoz JPG formátumba. A programozók ezt a forráskódot használhatják kötegelt MHTML-ből JPG-be konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

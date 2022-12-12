@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to MARKDOWN via C++
-url: /cpp/conversion/csv-to-markdown/
+
 description: Convert CSV to MARKDOWN format in C++ code. Save CSV as MARKDOWN using C++.
 ---
 

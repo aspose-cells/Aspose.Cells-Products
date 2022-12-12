@@ -1,7 +1,7 @@
-﻿---
+---
 title: ป้องกันและล็อกเอกสาร XLS ผ่าน .NET 
 weight: 7010
-url: /th/net/protect/xls/ 
+
 description: C# ซอร์สโค้ดสำหรับล็อกไฟล์ XLS โดยใช้รหัสผ่านบน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

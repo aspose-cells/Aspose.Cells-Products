@@ -1,7 +1,7 @@
-﻿---
+---
 title: Telusuri dokumen XLS tanpa membuka melalui C++ 
 weight: 4560
-url: /id/cpp/search/xls/ 
+
 description: C++ contoh kode untuk mencari kata dengan pola dalam file XLS pada C++ Runtime Environment untuk Windows 32 bit, Windows 64 bit dan Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

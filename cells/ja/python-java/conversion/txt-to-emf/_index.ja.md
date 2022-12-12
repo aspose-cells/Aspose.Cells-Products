@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してTXTをEMFに変換します
-url: /ja/python-java/conversion/txt-to-emf/
+
 description: txtからemfPythonへの変換のサンプルコード。 Pythonアプリケーション内で変換をemfするためのバッチtxtファイルのAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

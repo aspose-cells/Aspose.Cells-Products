@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してXLSBファイルでレポートを生成する 
 weight: 3560
-url: /ja/java/assembly/xlsb/ 
+
 description: JSP/JSFアプリケーションおよびデスクトップアプリケーションのJavaランタイム環境でXLSB形式のレポートを作成するためのJavaサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

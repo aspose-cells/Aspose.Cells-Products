@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование TXT в XLSB через Python
-url: /ru/python-java/conversion/txt-to-xlsb/
+
 description: Пример кода для преобразования txt в xlsb Python. Используйте пример кода API для пакетного преобразования файлов txt в xlsb в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

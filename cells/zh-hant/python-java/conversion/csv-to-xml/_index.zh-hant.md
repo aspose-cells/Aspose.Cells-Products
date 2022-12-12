@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 Python 將 CSV 轉換為 XML
-url: /zh-hant/python-java/conversion/csv-to-xml/
+
 description: csv 到 xml Python 轉換的示例代碼。在 Python 應用程序中使用 API 示例代碼將 csv 文件批量轉換為 xml。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

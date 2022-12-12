@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir XLTX en SXC via C#
-url: /fr/net/conversion/xltx-to-sxc/
+
 description: Exemple de code pour la conversion xltx vers sxc C#. Utilisez l'exemple de code API pour la conversion par lots de fichiers xltx en sxc dans VB.NET, Asp.NET ou toute application basée sur .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

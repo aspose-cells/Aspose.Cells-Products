@@ -1,7 +1,7 @@
-﻿---
+---
 title: Μετατροπή CSV σε XLSM μέσω της εφαρμογής C++ 
 weight: 6520
-url: /el/cpp/conversion/csv-to-xlsm/ 
+
 description: Δείγμα κώδικα μετατροπής C++ για έγγραφο CSV σε μορφή XLSM. Οι προγραμματιστές μπορούν να χρησιμοποιήσουν αυτόν τον πηγαίο κώδικα για ομαδική μετατροπή CSV σε XLSM σε οποιαδήποτε εφαρμογή C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してMSExcelXLTファイルを作成する 
-url: /ja/python-java/create-xlt/ 
+
 description: PythonXLTドキュメントを生成するためのサンプルコード。このコードを使用して、Pythonアプリケーション内にMSExcelXLTファイルを作成します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: استخراج النص والصور من مستند XLS عبر .NET 
 weight: 5600
-url: /ar/net/parser/xls/ 
+
 description: C# شفرة المصدر لاستخراج النص والصور من ملف XLS على .NET Framework أو .NET Core أو Mono أو أنظمة Xamarin الأساسية.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

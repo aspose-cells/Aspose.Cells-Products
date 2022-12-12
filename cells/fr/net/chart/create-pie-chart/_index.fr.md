@@ -1,6 +1,6 @@
-﻿---
+---
 title: Créer des graphiques à secteurs via C#
-url: /fr/net/create-pie-chart/
+
 description: C# Exemple de code pour créer des graphiques à secteurs dans Excel à l'aide de la bibliothèque .NET. Utilisez ce code pour créer un graphique à secteurs vers MS Excel dans VB.NET, Asp.NET ou toute application basée sur .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

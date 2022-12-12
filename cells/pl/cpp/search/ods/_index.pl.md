@@ -1,7 +1,7 @@
-﻿---
+---
 title: Wyszukaj dokument ODS bez otwierania przez C++ 
 weight: 3300
-url: /pl/cpp/search/ods/ 
+
 description: C++ przykładowy kod do wyszukiwania słów ze wzorem w pliku ODS w C++ środowisku wykonawczym dla 32-bitowego systemu Windows, 64-bitowego systemu Windows i 64-bitowego systemu Linux.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

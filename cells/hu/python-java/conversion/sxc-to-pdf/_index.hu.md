@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SXC konvertálása PDF-be a következőn keresztül: Python"
-url: /hu/python-java/conversion/sxc-to-pdf/
+
 description: Mintakód az sxc-ből pdf-be Python konvertáláshoz. Használjon API példakódot az sxc fájlok kötegelt PDF formátumú konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

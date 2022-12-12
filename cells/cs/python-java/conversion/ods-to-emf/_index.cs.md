@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést ODS na EMF prostřednictvím Python
-url: /cs/python-java/conversion/ods-to-emf/
+
 description: Ukázkový kód pro převod z ods na emf Python. Použijte API ukázkový kód pro dávkové soubory ods na převod EMF v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

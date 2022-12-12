@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java aracılığıyla XLT'yi XLSB'ye dönüştürün 
 weight: 5780
-url: /tr/java/conversion/xlt-to-xlsb/ 
+
 description: XLT biçimi için XLSB dosyasına örnek Java dönüştürme kodu. Programcılar, Excel ve OpenOffice elektronik tablolarını herhangi bir Web veya Masaüstü Java tabanlı Uygulamada XLSB'ye aktarmak için bu örnek kodu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

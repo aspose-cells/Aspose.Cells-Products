@@ -1,6 +1,6 @@
 ---
 title: Convert JPG to XLSX via C#
-url: /net/conversion/jpg-to-xlsx/
+
 description: Convert JPG to XLSX format in C# code. Save JPG as XLSX using VB.NET, Asp.NET or any .NET based application.
 ---
 

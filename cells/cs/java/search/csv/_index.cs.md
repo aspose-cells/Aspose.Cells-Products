@@ -1,7 +1,7 @@
-﻿---
+---
 title: Prohledejte dokument CSV bez otevření prostřednictvím Java 
 weight: 390
-url: /cs/java/search/csv/ 
+
 description: Java ukázkový kód pro vyhledávání slov se vzorem v souboru CSV v Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

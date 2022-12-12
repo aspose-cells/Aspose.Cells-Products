@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してJSONをMDに変換する 
 weight: 9410
-url: /ja/java/conversion/json-to-md/ 
+
 description: JSON形式からMDファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、WebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをMDにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Excelファイルの統合API.NETC#
-url: /ja/net/merger/
+
 description: ExcelとOpenOfficeのスプレッドシートファイルを数行のC#コードで連結します。
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

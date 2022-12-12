@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLSM konvertálása XLSX-re a következőn keresztül: C#"
-url: /hu/net/conversion/xlsm-to-xlsx/
+
 description: Mintakód az xlsm–xlsx C# konverzióhoz. Használjon API példakódot az xlsm fájlok kötegelt xlsx konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

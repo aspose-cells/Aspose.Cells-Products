@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta HTML a XLAM a través de Python
-url: /es/python-java/conversion/html-to-xlam/
+
 description: Código de muestra para la conversión de html a xlam Python. Use API código de ejemplo para archivos html por lotes para conversión xlam dentro de la aplicación Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

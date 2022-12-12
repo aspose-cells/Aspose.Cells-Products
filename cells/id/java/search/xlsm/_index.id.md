@@ -1,7 +1,7 @@
-﻿---
+---
 title: Cari dokumen XLSM tanpa membuka melalui Java 
 weight: 6780
-url: /id/java/search/xlsm/ 
+
 description: Java contoh kode untuk mencari kata dengan pola dalam file XLSM di Java Runtime Environment untuk Aplikasi JSP/JSF dan Aplikasi Desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Создание отчетов в файлах ODS через .NET 
 weight: 520
-url: /ru/net/assembly/ods/ 
+
 description: Исходный код C# для создания отчетов в формате ODS на платформах .NET Framework, .NET Core, Mono или Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera TSV till JPG via programmet C++ 
-url: /sv/cpp/conversion/tsv-to-jpg/ 
+
 description: Exempel C++-konverteringskod för TSV-dokument till JPG-format. Programmerare kan använda den här källkoden för batchkonvertering av TSV till JPG inom alla C++-program.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

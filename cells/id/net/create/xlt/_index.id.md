@@ -1,6 +1,6 @@
-﻿---
+---
 title: Buat File MS Excel XLT melalui C# 
-url: /id/net/create-xlt/ 
+
 description: C# Contoh kode untuk membuat dokumen XLT. Gunakan kode ini untuk membuat file MS Excel XLT dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

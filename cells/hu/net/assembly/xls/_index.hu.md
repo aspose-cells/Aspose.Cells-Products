@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Jelentések létrehozása XLS-fájlokban a következőn keresztül: .NET "
 weight: 1700
-url: /hu/net/assembly/xls/ 
+
 description: C# forráskód XLS formátumú jelentések létrehozásához .NET Framework, .NET Core, Mono vagy Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

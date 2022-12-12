@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie XLS in TABDELIMITED über die Anwendung C++ 
-url: /de/cpp/conversion/xls-to-tabdelimited/ 
+
 description: Beispiel-Umwandlungscode C++ für das XLS-Dokument in das TABDELIMITED-Format. Programmierer können diesen Quellcode für die Batch-Konvertierung von XLS in TABDELIMITED in jeder C++-Anwendung verwenden.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

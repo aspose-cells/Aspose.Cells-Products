@@ -1,7 +1,7 @@
-﻿---
+---
 title: ปลดล็อกเอกสาร XLSM ผ่าน .NET 
 weight: 9810
-url: /th/net/unlock/xlsm/ 
+
 description: C# ซอร์สโค้ดเพื่อปลดล็อกไฟล์ XLSM ที่ป้องกันด้วยรหัสผ่านบน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

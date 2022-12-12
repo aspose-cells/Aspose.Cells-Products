@@ -1,6 +1,6 @@
 ---
 title: Convert XLSM to XLTX via Python
-url: /python-java/conversion/xlsm-to-xltx/
+
 description: Convert XLSM to XLTX format in Python code. Save XLSM as XLTX using Python.
 ---
 

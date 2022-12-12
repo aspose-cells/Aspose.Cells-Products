@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést HTML na XLSX pomocí Python
-url: /cs/python-java/conversion/html-to-xlsx/
+
 description: Ukázkový kód pro převod html na xlsx Python. Použijte API ukázkový kód pro dávkový převod souborů html na xlsx v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

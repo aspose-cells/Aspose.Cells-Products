@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to CSV via Python
-url: /python-net/conversion/xlsb-to-csv/
+
 description: Sample code for xlsb to csv Python conversion. Use API example code for batch xlsb files to csv conversion within Python application.
 ---
 

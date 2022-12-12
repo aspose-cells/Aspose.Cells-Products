@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi ODS thành TABDELIMITED qua Python
-url: /vi/python-java/conversion/ods-to-tabdelimited/
+
 description: Mã mẫu cho chuyển đổi mã hóa thành tab Python được giới hạn bởi tab. Sử dụng mã mẫu API cho các tệp ods hàng loạt để chuyển đổi được giới hạn bằng tab trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

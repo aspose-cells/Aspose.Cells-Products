@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование NUMBERS в GIF с помощью Python
-url: /ru/python-java/conversion/numbers-to-gif/
+
 description: Пример кода для преобразования чисел в gif Python. Используйте пример кода API для преобразования файлов номеров пакетов в gif в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

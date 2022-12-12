@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan SXC ke PNG melalui Python
-url: /id/python-java/conversion/sxc-to-png/
+
 description: Contoh kode untuk konversi sxc ke png Python. Gunakan API kode contoh untuk file batch sxc ke konversi png dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

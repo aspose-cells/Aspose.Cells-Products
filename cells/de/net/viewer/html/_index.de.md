@@ -1,6 +1,6 @@
-﻿---
+---
 title: Anzeigen von HTML-Dateiformaten über .NET 
-url: /de/net/viewer/html/ 
+
 description: C#-Quellcode zum Laden, Rendern und Anzeigen von HTML-Dokumenten auf .NET Framework-, .NET Core-, Windows Azure-, Mono- oder Xamarin-Plattformen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

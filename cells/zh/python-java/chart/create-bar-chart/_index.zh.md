@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 Python 创建条形图
-url: /zh/python-java/create-bar-chart/
+
 description: Python 使用 Python 库将条形图创建到 Excel 的示例代码。使用此代码在基于 Python 的应用程序中为 MS Excel 创建条形图。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

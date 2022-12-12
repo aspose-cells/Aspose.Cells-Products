@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi TABDELIMITED thành CSV qua ứng dụng C++ 
-url: /vi/cpp/conversion/tabdelimited-to-csv/ 
+
 description: Mã chuyển đổi C++ mẫu cho tài liệu TABDELIMITED sang định dạng CSV. Người lập trình có thể sử dụng mã nguồn này để chuyển đổi hàng loạt TABDELIMITED sang CSV trong bất kỳ Ứng dụng C++ nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

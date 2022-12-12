@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование MHTML в TABDELIMITED через C#
-url: /ru/net/conversion/mhtml-to-tabdelimited/
+
 description: Пример кода для преобразования mhtml в C# с разделителями табуляции. Используйте пример кода API для пакетных файлов mhtml для преобразования с разделителями табуляции в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

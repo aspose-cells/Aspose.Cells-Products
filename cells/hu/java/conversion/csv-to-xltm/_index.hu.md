@@ -1,7 +1,7 @@
-﻿---
+---
 title: "CSV konvertálása XLTM-re a következőn keresztül: Java "
 weight: 7170
-url: /hu/java/conversion/csv-to-xltm/ 
+
 description: Minta Java konverziós kód a CSV-formátumhoz XLTM-fájllá. A programozók ezt a példakódot használhatják Excel- és OpenOffice-táblázatok XLTM-be exportálására bármely web- vagy asztali Java-alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

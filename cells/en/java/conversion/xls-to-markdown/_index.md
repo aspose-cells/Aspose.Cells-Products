@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to MARKDOWN via Java 
-url: /java/conversion/xls-to-markdown/
+
 description: Convert XLS to MARKDOWN format in Java code. Save XLS as MARKDOWN using Java.
 ---
 

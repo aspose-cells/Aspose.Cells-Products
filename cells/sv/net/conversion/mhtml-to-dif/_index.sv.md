@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera MHTML till DIF via C#
-url: /sv/net/conversion/mhtml-to-dif/
+
 description: Exempelkod för mhtml till dif C#-omvandling. Använd API exempelkod för batch-mhtml-filer för att skilja konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

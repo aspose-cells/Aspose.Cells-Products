@@ -1,7 +1,7 @@
-﻿---
+---
 title:  Диаграмма документа XLS к изображениям через .NET 
 weight: 3210
-url: /ru/net/chart/xls/ 
+
 description: Исходный код C# для рисования и преобразования диаграмм или диаграмм в файл XLS на платформах .NET Framework, .NET Core, Mono или Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

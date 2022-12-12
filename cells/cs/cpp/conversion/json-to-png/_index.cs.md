@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte JSON na PNG pomocí aplikace C++ 
-url: /cs/cpp/conversion/json-to-png/ 
+
 description: Ukázkový konverzní kód C++ pro dokument JSON do formátu PNG. Programátoři mohou tento zdrojový kód použít pro dávkový převod JSON na PNG v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

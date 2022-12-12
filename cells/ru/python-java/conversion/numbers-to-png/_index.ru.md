@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование NUMBERS в PNG с помощью Python
-url: /ru/python-java/conversion/numbers-to-png/
+
 description: Пример кода для преобразования чисел в png Python. Используйте пример кода API для преобразования файлов номеров пакетов в png в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

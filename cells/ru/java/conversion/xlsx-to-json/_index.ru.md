@@ -1,7 +1,7 @@
-﻿---
+---
 title: Преобразование XLSX в JSON через Java 
 weight: 10060
-url: /ru/java/conversion/xlsx-to-json/ 
+
 description: Пример кода преобразования Java для формата XLSX в файл JSON. Программисты могут использовать этот пример кода для экспорта электронных таблиц Excel и OpenOffice в формат JSON в любом веб- или настольном Java приложении.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

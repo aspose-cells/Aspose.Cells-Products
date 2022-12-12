@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi HTML sang JPG qua C#
-url: /vi/net/conversion/html-to-jpg/
+
 description: Mã mẫu để chuyển đổi html sang jpg C#. Sử dụng API mã mẫu cho hàng loạt tệp html sang chuyển đổi jpg trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

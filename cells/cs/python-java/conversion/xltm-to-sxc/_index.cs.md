@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLTM na SXC přes Python
-url: /cs/python-java/conversion/xltm-to-sxc/
+
 description: Ukázkový kód pro převod xltm na sxc Python. Použijte API ukázkový kód pro dávkový převod souborů xltm na sxc v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

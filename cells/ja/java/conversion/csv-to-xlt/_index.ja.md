@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java経由でCSVをXLTに変換 
 weight: 4950
-url: /ja/java/conversion/csv-to-xlt/ 
+
 description: CSV形式のXLTファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のXLTにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

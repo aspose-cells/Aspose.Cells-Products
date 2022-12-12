@@ -1,7 +1,7 @@
 ---
 title: Insert TextBox into Excel via .NET 
 weight: 301
-url: /net/shapes/insert-textbox-to-excel/ 
+
 description: C# source code to insert TextBox into Excel on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

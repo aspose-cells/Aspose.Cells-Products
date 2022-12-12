@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLTM в XLSB через Python
-url: /ru/python-java/conversion/xltm-to-xlsb/
+
 description: Пример кода для преобразования xltm в xlsb Python. Используйте пример кода API для пакетного преобразования файлов xltm в xlsb в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

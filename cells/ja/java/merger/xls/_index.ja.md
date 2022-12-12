@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してXLSファイルをマージします 
 weight: 5140
-url: /ja/java/merger/xls/ 
+
 description: Java JSP/JSFアプリケーションとデスクトップアプリケーションのランタイム環境でXLSドキュメントを組み合わせるためのサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

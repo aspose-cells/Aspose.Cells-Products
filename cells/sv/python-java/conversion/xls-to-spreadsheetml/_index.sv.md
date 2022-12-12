@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera XLS till SPREADSHEETML via Python
-url: /sv/python-java/conversion/xls-to-spreadsheetml/
+
 description: Exempelkod för konvertering från xls till kalkylbladml Python. Använd API exempelkod för batch-xls-filer till kalkylarkml-konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

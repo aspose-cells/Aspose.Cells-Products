@@ -1,6 +1,6 @@
-﻿---
+---
 title: Tạo Biểu đồ Radar qua Python
-url: /vi/python-java/create-radar-chart/
+
 description: Python Mã mẫu để tạo biểu đồ Radar sang Excel bằng cách sử dụng Thư viện Python. Sử dụng mã này để tạo biểu đồ Radar cho MS Excel trong ứng dụng dựa trên Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

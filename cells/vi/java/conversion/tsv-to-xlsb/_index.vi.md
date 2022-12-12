@@ -1,7 +1,7 @@
-﻿---
+---
 title: Chuyển đổi TSV sang XLSB qua Java 
 weight: 7570
-url: /vi/java/conversion/tsv-to-xlsb/ 
+
 description: Mã chuyển đổi Java mẫu cho định dạng TSV thành tệp XLSB. Lập trình viên có thể sử dụng mã ví dụ này để xuất bảng tính Excel & OpenOffice sang XLSB trong bất kỳ Ứng dụng dựa trên Web hoặc Máy tính để bàn Java nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

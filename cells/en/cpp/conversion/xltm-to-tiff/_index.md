@@ -1,6 +1,6 @@
 ---
 title: Convert XLTM to TIFF via C++
-url: /cpp/conversion/xltm-to-tiff/
+
 description: Convert XLTM to TIFF format in C++ code. Save XLTM as TIFF using C++.
 ---
 

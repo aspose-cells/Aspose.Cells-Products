@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertera HTML till MHTML via Java 
 weight: 1380
-url: /sv/java/conversion/html-to-mhtml/ 
+
 description: Exempel Java-konverteringskod för HTML-format till MHTML-fil. Programmerare kan använda den här exempelkoden för att exportera Excel- och OpenOffice-kalkylblad till MHTML inom alla webb- eller skrivbordsbaserade Javaapplikationer.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

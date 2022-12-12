@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj MHTML na EMF za pomocą C#
-url: /pl/net/conversion/mhtml-to-emf/
+
 description: Przykładowy kod konwersji mhtml na emf C#. Użyj przykładowego kodu API dla wsadowych plików mhtml do konwersji emf w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to XLTX via C#
-url: /net/conversion/html-to-xltx/
+
 description: Convert HTML to XLTX format in C# code. Save HTML as XLTX using VB.NET, Asp.NET or any .NET based application.
 ---
 

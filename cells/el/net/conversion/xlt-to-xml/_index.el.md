@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή XLT σε XML μέσω C#
-url: /el/net/conversion/xlt-to-xml/
+
 description: Δείγμα κώδικα για μετατροπή xlt σε xml C#. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδική μετατροπή αρχείων xlt σε xml εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

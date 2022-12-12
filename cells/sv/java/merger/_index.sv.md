@@ -1,6 +1,6 @@
-﻿---
+---
 title: Slå ihop olika Excel-filer till en enda i Java
-url: /sv/java/merger/
+
 description: Slå samman Excel-filer med Java till flera ark eller ett enda ark. Slå samman, kombinera eller sammanfoga Excel-dokument till PDF, bilder och HTML också.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

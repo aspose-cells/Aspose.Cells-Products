@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to DOCX via Python
-url: /python-java/conversion/numbers-to-docx/
+
 description: Convert NUMBERS to DOCX format in Python code. Save NUMBERS as DOCX using Python.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to PDF via Python
-url: /python-net/conversion/csv-to-pdf/
+
 description: Sample code for csv to pdf Python conversion. Use API example code for batch csv files to pdf conversion within Python application.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to ODS via C#
-url: /net/conversion/xlsb-to-ods/
+
 description: Convert XLSB to ODS format in C# code. Save XLSB as ODS using VB.NET, Asp.NET or any .NET based application.
 ---
 

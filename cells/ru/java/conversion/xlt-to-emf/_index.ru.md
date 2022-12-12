@@ -1,7 +1,7 @@
-﻿---
+---
 title: Преобразование XLT в EMF через Java 
 weight: 2340
-url: /ru/java/conversion/xlt-to-emf/ 
+
 description: Пример кода преобразования Java для формата XLT в файл EMF. Программисты могут использовать этот пример кода для экспорта электронных таблиц Excel и OpenOffice в EMF в любом веб-или настольном Java приложении.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

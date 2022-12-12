@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SPREADSHEETML konvertálása JSON formátumba a következőn keresztül: C#"
-url: /hu/net/conversion/spreadsheetml-to-json/
+
 description: Mintakód a táblázatkezelőből JSON C# konverzióhoz. Használjon API példakódot a kötegelt táblázatkezelő fájlok JSON-konverziójához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

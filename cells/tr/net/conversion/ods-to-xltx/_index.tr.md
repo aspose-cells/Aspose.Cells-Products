@@ -1,6 +1,6 @@
-﻿---
+---
 title: ODS'yi C# üzerinden XLTX'e dönüştürün
-url: /tr/net/conversion/ods-to-xltx/
+
 description: ods'den xltx'e C# dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu ods dosyalarından xltx'e dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

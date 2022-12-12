@@ -1,7 +1,7 @@
-﻿---
+---
 title: Δημιουργία αναφορών σε αρχεία XLSB μέσω .NET 
 weight: 1690
-url: /el/net/assembly/xlsb/ 
+
 description: C# πηγαίος κώδικας για τη δημιουργία αναφορών μορφής XLSB σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

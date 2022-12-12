@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter FODS para MARKDOWN via C#
-url: /pt/net/conversion/fods-to-markdown/
+
 description: Código de exemplo para conversão de fods para redução de C#. Use API código de exemplo para arquivos fods em lote para conversão de markdown em VB.NET, Asp.NET ou qualquer aplicativo baseado em .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

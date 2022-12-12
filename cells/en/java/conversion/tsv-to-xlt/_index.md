@@ -1,6 +1,6 @@
 ---
 title: Convert TSV to XLT via Java 
-url: /java/conversion/tsv-to-xlt/
+
 description: Convert TSV to XLT format in Java code. Save TSV as XLT using Java.
 ---
 

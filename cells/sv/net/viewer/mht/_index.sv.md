@@ -1,6 +1,6 @@
-﻿---
+---
 title: Visa MHT-filformat via .NET 
-url: /sv/net/viewer/mht/ 
+
 description: C# källkod för att ladda, rendera och visa MHT-dokument på .NET Framework, .NET Core, Windows Azure, Mono eller Xamarin-plattformar.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

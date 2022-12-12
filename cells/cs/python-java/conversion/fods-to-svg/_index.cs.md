@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést FODS na SVG přes Python
-url: /cs/python-java/conversion/fods-to-svg/
+
 description: Ukázkový kód pro konverzi fod na svg Python. Použijte API ukázkový kód pro dávkové soubory fods na svg konverzi v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحرير أو عرض البيانات الوصفية لملفات XLS عبر Java 
 weight: 730
-url: /ar/java/metadata/xls/ 
+
 description: Java نموذج رمز لتعديل أو عرض البيانات الوصفية بتنسيق XLS في Java Runtime Environment لتطبيق JSP / JSF وتطبيقات سطح المكتب.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

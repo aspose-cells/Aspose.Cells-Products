@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل XLS إلى ODS عبر تطبيق C++ 
 weight: 1160
-url: /ar/cpp/conversion/xls-to-ods/ 
+
 description: نموذج C++ كود التحويل لوثيقة XLS إلى تنسيق ODS. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل XLS دفعة إلى ODS في أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

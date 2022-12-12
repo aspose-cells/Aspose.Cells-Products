@@ -1,7 +1,7 @@
-﻿---
+---
 title: Rechercher un document TXT sans l'ouvrir via Java 
 weight: 1200
-url: /fr/java/search/txt/ 
+
 description: Java exemple de code pour rechercher des mots avec un modèle dans le fichier TXT sur Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan FODS ke XLSM melalui C#
-url: /id/net/conversion/fods-to-xlsm/
+
 description: Contoh kode untuk konversi fods ke xlsm C#. Gunakan API kode contoh untuk file batch fods ke konversi xlsm dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

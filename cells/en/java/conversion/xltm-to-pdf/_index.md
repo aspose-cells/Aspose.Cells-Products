@@ -1,6 +1,6 @@
 ---
 title: Convert XLTM to PDF via Java 
-url: /java/conversion/xltm-to-pdf/
+
 description: Convert XLTM to PDF format in Java code. Save XLTM as PDF using Java.
 ---
 

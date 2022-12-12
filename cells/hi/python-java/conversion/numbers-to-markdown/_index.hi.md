@@ -1,6 +1,6 @@
-﻿---
+---
 title: NUMBERS को Python के माध्यम से मार्कडाउन में बदलें
-url: /hi/python-java/conversion/numbers-to-markdown/
+
 description: Python रूपांतरण को चिह्नित करने के लिए संख्याओं के लिए नमूना कोड। Python एप्लिकेशन में रूपांतरण को मार्कडाउन करने के लिए बैच नंबर फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل NUMBERS إلى XLT عبر C#
-url: /ar/net/conversion/numbers-to-xlt/
+
 description: نموذج رمز للأرقام لتحويل C# xlt. استخدم API رمز المثال لملفات أرقام الدُفعات لتحويل xlt داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

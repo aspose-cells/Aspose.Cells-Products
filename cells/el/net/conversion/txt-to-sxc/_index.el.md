@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή TXT σε SXC μέσω C#
-url: /el/net/conversion/txt-to-sxc/
+
 description: Δείγμα κώδικα για μετατροπή txt σε sxc C#. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδική μετατροπή αρχείων txt σε sxc εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

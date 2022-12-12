@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer TABDELIMITED naar PNG via C#
-url: /nl/net/conversion/tabdelimited-to-png/
+
 description: Voorbeeldcode voor door tabs gescheiden naar png C# conversie. Gebruik API voorbeeldcode voor batch-tabdelimited-bestanden naar png-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

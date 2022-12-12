@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLSX إلى PPTX عبر Python
-url: /ar/python-java/conversion/xlsx-to-pptx/
+
 description: نموذج كود لتحويل xlsx إلى pptx Python. استخدم API رمز المثال لملفات xlsx الدفعية لتحويل pptx داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

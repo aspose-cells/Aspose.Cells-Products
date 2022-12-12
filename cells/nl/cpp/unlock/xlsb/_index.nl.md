@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLSB-document ontgrendelen via C++ 
 weight: 7420
-url: /nl/cpp/unlock/xlsb/ 
+
 description: C++ voorbeeldcode om met een wachtwoord beveiligd XLSB-bestand te ontgrendelen op C++ Runtime Environment voor Windows 32 bit, Windows 64 bit en Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Extrahujte text a obrázky z dokumentu XLSM prostřednictvím C++ 
 weight: 570
-url: /cs/cpp/parser/xlsm/ 
+
 description: C++ ukázkový kód pro extrahování textu a obrázků ze souboru XLSM v C++ Runtime Environment pro Windows 32bit, Windows 64bit a Linux 64bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

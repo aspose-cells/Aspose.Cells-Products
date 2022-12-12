@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل CSV إلى XLSX عبر Python
-url: /ar/python-java/conversion/csv-to-xlsx/
+
 description: نموذج كود لتحويل csv إلى xlsx Python. استخدم API رمز المثال لملفات دفعية csv لتحويل xlsx داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

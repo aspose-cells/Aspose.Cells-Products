@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή NUMBERS σε XLS μέσω Python
-url: /el/python-java/conversion/numbers-to-xls/
+
 description: Δείγμα κώδικα για μετατροπή αριθμών σε xls Python. Χρησιμοποιήστε API παράδειγμα κώδικα για μετατροπή ομαδικών αριθμών αρχείων σε xls εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

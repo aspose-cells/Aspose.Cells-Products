@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 C++ 創建 Excel 圖表並轉換為圖像
-url: /zh-hant/cpp/chart/
+
 description: C++ 使用 C++ 庫在 Microsoft Excel 中繪製和轉換圖表或圖表的源代碼
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

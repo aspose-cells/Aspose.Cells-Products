@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή FODS σε XLTX μέσω Python
-url: /el/python-java/conversion/fods-to-xltx/
+
 description: Δείγμα κώδικα για μετατροπή fods σε xltx Python. Χρησιμοποιήστε API παράδειγμα κώδικα για μετατροπή batch fods σε xltx εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

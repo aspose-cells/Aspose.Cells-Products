@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi XLS ke XLSX melalui C#
-url: /id/net/conversion/xls-to-xlsx/
+
 description: Contoh kode untuk konversi xls ke xlsx C#. Gunakan API kode contoh untuk file batch xls ke konversi xlsx dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

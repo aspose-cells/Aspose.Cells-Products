@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển NUMBERS sang HTML qua Python
-url: /vi/python-java/conversion/numbers-to-html/
+
 description: Mã mẫu cho chuyển đổi số thành html Python. Sử dụng mã mẫu API cho các tệp số lô để chuyển đổi html trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

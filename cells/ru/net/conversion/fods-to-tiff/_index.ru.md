@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование FODS в TIFF через C#
-url: /ru/net/conversion/fods-to-tiff/
+
 description: Пример кода для преобразования fods в tiff C#. Используйте пример кода API для пакетного преобразования файлов fods в tiff в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

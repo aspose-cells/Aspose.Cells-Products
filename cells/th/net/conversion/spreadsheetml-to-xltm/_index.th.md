@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง SPREADSHEETML เป็น XLTM ผ่าน C#
-url: /th/net/conversion/spreadsheetml-to-xltm/
+
 description: โค้ดตัวอย่างสำหรับการแปลงสเปรดชีตml เป็น xltm C# ใช้โค้ดตัวอย่าง API สำหรับไฟล์สเปรดชีตแบบแบตช์เป็นการแปลง xltm ภายใน VB.NET, Asp.NET หรือแอปพลิเคชันที่ใช้ .NET
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

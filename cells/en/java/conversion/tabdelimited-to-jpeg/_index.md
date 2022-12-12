@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to JPEG via Java 
-url: /java/conversion/tabdelimited-to-jpeg/
+
 description: Convert TABDELIMITED to JPEG format in Java code. Save TABDELIMITED as JPEG using Java.
 ---
 

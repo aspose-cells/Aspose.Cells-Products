@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLSB в TABDELIMITED через C#
-url: /ru/net/conversion/xlsb-to-tabdelimited/
+
 description: Пример кода для преобразования xlsb в C# с разделителями табуляции. Используйте пример кода API для пакетных файлов xlsb для преобразования с разделителями табуляции в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi EXCEL sang DOCX qua C#
-url: /vi/net/conversion/excel-to-docx/
+
 description: Mã mẫu để chuyển đổi excel sang docx C#. Sử dụng API mã mẫu cho các tệp excel hàng loạt để chuyển đổi docx trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

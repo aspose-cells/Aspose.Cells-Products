@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование CSV в MHTML через Python
-url: /ru/python-java/conversion/csv-to-mhtml/
+
 description: Пример кода для преобразования csv в mhtml Python. Используйте пример кода API для пакетного преобразования CSV-файлов в mhtml в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

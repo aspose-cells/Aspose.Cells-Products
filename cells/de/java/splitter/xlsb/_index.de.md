@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLSB-Dateien über Java aufteilen 
 weight: 7880
-url: /de/java/splitter/xlsb/ 
+
 description: Java Beispielcode zum Aufteilen von XLSB-Dokumenten in Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

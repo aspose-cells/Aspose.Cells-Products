@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLTX-et MD-vé a C++ alkalmazással 
-url: /hu/cpp/conversion/xltx-to-md/ 
+
 description: Minta C++ konverziós kód XLTX dokumentumhoz MD formátumba. A programozók ezt a forráskódot használhatják az XLTX-ből MD-be kötegelt konvertáláshoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

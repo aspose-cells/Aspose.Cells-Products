@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++ के माध्यम से CSV फ़ाइलें मर्ज करें 
-url: /hi/cpp/merger/csv/ 
+
 description: C++ उदाहरण कोड CSV दस्तावेज़ों को C++ Windows 32 बिट, Windows 64 बिट और Linux 64 बिट के लिए रनटाइम परिवेश पर संयोजित करने के लिए।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

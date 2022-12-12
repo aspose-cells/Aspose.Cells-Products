@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera SPREADSHEETML till DIF via Python
-url: /sv/python-java/conversion/spreadsheetml-to-dif/
+
 description: Exempelkod för omvandling av kalkylarkml till dif Python. Använd API-exempelkod för batch-kalkylarkml-filer för att skilja konvertering inom Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

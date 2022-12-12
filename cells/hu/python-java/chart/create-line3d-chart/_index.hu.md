@@ -1,6 +1,6 @@
-﻿---
+---
 title: "3D vonaldiagramok létrehozása a következőn keresztül: Python"
-url: /hu/python-java/create-line3d-chart/
+
 description: Python Mintakód 3D vonaldiagramok készítéséhez Excelben a Python Library használatával. Ezzel a kóddal 3D vonaldiagramot hozhat létre MS Excelben a Python alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してTXTをFODSに変換します
-url: /ja/python-java/conversion/txt-to-fods/
+
 description: txtからfodsPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチtxtファイルからfodsへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

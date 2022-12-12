@@ -1,7 +1,7 @@
-﻿---
+---
 title: Chránit a uzamknout dokument ODS prostřednictvím Java 
 weight: 6360
-url: /cs/java/protect/ods/ 
+
 description: Java ukázkový kód pro uzamčení souboru ODS pomocí hesla v Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

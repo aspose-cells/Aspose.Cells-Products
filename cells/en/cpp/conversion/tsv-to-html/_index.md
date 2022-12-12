@@ -1,6 +1,6 @@
 ---
 title: Convert TSV to HTML via C++
-url: /cpp/conversion/tsv-to-html/
+
 description: Convert TSV to HTML format in C++ code. Save TSV as HTML using C++.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Convert JPEG to WORD via Java 
-url: /java/conversion/jpeg-to-word/
+
 description: Convert JPEG to WORD format in Java code. Save JPEG as WORD using Java.
 ---
 

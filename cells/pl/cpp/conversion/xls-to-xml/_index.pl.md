@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj XLS na XML za pomocą aplikacji C++ 
-url: /pl/cpp/conversion/xls-to-xml/ 
+
 description: Przykładowy kod konwersji C++ dla dokumentu XLS do formatu XML. Programiści mogą używać tego kodu źródłowego do wsadowej konwersji XLS na XML w dowolnej aplikacji C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

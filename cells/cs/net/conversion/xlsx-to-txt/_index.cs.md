@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLSX na TXT přes C#
-url: /cs/net/conversion/xlsx-to-txt/
+
 description: Ukázkový kód pro převod xlsx na txt C#. Použijte API ukázkový kód pro dávkový převod souborů xlsx na txt v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

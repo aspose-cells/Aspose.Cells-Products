@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie NUMBERS in MARKDOWN über Python
-url: /de/python-java/conversion/numbers-to-markdown/
+
 description: Beispielcode für Zahlen zum Herabsetzen der Conversion Python. Verwenden Sie API Beispielcode für Stapelnummerndateien zur Markdown-Konvertierung innerhalb der Anwendung Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

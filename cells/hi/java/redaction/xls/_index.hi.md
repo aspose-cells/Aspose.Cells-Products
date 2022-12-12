@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLS दस्तावेज़ में Java के माध्यम से टेक्स्ट खोजें और बदलें 
 weight: 7900
-url: /hi/java/redaction/xls/ 
+
 description: Java JSP/JSF एप्लिकेशन और डेस्कटॉप एप्लिकेशन के लिए रनटाइम एनवायरनमेंट पर XLS फ़ाइल में संवेदनशील जानकारी को संशोधित करने के लिए Java नमूना कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

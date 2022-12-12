@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to PNG via Python
-url: /python-java/conversion/spreadsheetml-to-png/
+
 description: Convert SPREADSHEETML to PNG format in Python code. Save SPREADSHEETML as PNG using Python.
 ---
 

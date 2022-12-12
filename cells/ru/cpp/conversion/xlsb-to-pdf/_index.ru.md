@@ -1,7 +1,7 @@
-﻿---
+---
 title: Преобразование XLSB в PDF с помощью приложения C++ 
 weight: 5360
-url: /ru/cpp/conversion/xlsb-to-pdf/ 
+
 description: Пример кода преобразования C++ для документа XLSB в формат PDF. Программисты могут использовать этот исходный код для пакетного преобразования XLSB в PDF в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

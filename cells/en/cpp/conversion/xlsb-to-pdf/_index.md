@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to PDF via C++
-url: /cpp/conversion/xlsb-to-pdf/
+
 description: Convert XLSB to PDF format in C++ code. Save XLSB as PDF using C++.
 ---
 

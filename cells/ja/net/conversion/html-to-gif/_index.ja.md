@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してHTMLをGIFに変換する
-url: /ja/net/conversion/html-to-gif/
+
 description: htmlからgifC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチhtmlファイルからgifへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

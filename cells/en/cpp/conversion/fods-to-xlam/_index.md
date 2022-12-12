@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to XLAM via C++
-url: /cpp/conversion/fods-to-xlam/
+
 description: Convert FODS to XLAM format in C++ code. Save FODS as XLAM using C++.
 ---
 

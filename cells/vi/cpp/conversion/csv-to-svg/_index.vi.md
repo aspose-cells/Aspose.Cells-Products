@@ -1,7 +1,7 @@
-﻿---
+---
 title: Chuyển đổi CSV sang SVG qua ứng dụng C++ 
 weight: 1710
-url: /vi/cpp/conversion/csv-to-svg/ 
+
 description: Mã chuyển đổi C++ mẫu cho tài liệu CSV sang định dạng SVG. Người lập trình có thể sử dụng mã nguồn này để chuyển đổi hàng loạt CSV sang SVG trong bất kỳ Ứng dụng C++ nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

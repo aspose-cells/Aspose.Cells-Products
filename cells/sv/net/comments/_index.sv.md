@@ -1,6 +1,6 @@
-﻿---
+---
 title: Infoga kommentarer i Excel via .NET
-url: /sv/net/comment/
+
 description: C# källkoder för att infoga kommentarer i Microsoft Excel-filer med hjälp av .NET bibliotek. 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

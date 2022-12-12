@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLTX إلى DIF عبر C#
-url: /ar/net/conversion/xltx-to-dif/
+
 description: نموذج كود لتحويل xltx إلى ديف C#. استخدم API مثال الكود لملفات xltx الدفعية لتغيير التحويل داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

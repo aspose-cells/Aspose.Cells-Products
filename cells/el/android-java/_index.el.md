@@ -1,7 +1,7 @@
-﻿---
+---
 title: Υπολογιστικό φύλλο Android Excel API - Aspose 
 weight: 6510
-url: /el/android-java/ 
+
 description: Βιβλιοθήκη υπολογιστικών φύλλων Android για δημιουργία ανάγνωσης εγγραφής και ανάλυσης αρχείων Excel. Ένα υπολογιστικό φύλλο API για την ανάπτυξη εφαρμογών για κινητά
 ---
 {{< blocks/products/pf/main-wrap-class >}}

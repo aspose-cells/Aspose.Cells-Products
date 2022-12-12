@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla TABDELIMITED'i XPS'e dönüştürün
-url: /tr/python-java/conversion/tabdelimited-to-xps/
+
 description: xps Python dönüşümü için sekmeyle ayrılmış örnek kod. Python uygulamasında toplu sekmeyle ayrılmış dosyalardan xps'e dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

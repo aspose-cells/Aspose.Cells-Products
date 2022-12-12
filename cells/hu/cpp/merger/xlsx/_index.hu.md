@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLSX fájlok egyesítése a következőn keresztül: C++ "
-url: /hu/cpp/merger/xlsx/ 
+
 description: C++ példakód az XLSX dokumentumok kombinálásához a C++ Runtime Environment for Windows 32 bit, Windows 64 bit és a Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

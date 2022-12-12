@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLTX konvertálása PDF-be a következőn keresztül: Python"
-url: /hu/python-java/conversion/xltx-to-pdf/
+
 description: Mintakód az xltx-ből pdf-be Python konvertáláshoz. Használjon API példakódot az xltx fájlok kötegelt PDF-vé konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

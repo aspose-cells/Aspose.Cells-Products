@@ -1,6 +1,6 @@
-﻿---
+---
 title: Maak MS Excel XLTM-bestanden via C++ 
-url: /nl/cpp/create-xltm/ 
+
 description: C++ Voorbeeldcode voor het genereren van MS Excel XLTM-bestanden. Gebruik deze code voor het maken van MS Excel XLTM-bestanden binnen een op C++ gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

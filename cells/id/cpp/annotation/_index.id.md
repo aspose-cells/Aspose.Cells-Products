@@ -1,6 +1,6 @@
-﻿---
+---
 title: Anotasi File Excel melalui C++
-url: /id/cpp/annotation/
+
 description: Tambahkan atau hapus komentar anotasi data spreadsheet Excel dan OpenOffice dengan pustaka C++.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

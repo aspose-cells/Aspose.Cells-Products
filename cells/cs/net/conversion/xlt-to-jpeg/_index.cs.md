@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLT na JPEG přes C#
-url: /cs/net/conversion/xlt-to-jpeg/
+
 description: Ukázkový kód pro převod xlt na jpeg C#. Použijte API ukázkový kód pro dávkový převod souborů xlt na jpeg v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

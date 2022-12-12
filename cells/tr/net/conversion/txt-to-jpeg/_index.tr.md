@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla TXT'yi JPEG'e dönüştürün
-url: /tr/net/conversion/txt-to-jpeg/
+
 description: txt'den jpeg'e C# dönüştürme için örnek kod. Toplu txt dosyaları için VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde jpeg dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

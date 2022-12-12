@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TABDELIMITED إلى DOCX عبر C#
-url: /ar/net/conversion/tabdelimited-to-docx/
+
 description: نموذج رمز لجدولة محدّدة لتحويل docx C#. استخدم API رمز المثال للملفات المحددة بعلامات جدولة مجمعة لتحويل docx داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

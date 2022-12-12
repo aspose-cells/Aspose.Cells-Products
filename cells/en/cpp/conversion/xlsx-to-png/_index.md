@@ -1,6 +1,6 @@
 ---
 title: Convert XLSX to PNG via C++
-url: /cpp/conversion/xlsx-to-png/
+
 description: Convert XLSX to PNG format in C++ code. Save XLSX as PNG using C++.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "HTML konvertálása FODS-re a következőn keresztül: C#"
-url: /hu/net/conversion/html-to-fods/
+
 description: Mintakód a html-ből fods-ba C# konverzióhoz. Használjon API példakódot kötegelt html fájlok konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

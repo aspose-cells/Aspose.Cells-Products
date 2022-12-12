@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java aracılığıyla filigran XLSB belgesi 
 weight: 5900
-url: /tr/java/watermark/xlsb/ 
+
 description: JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Runtime Environment'daki XLSB dosyasına filigran eklemek veya kaldırmak için Java örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Προσθήκη σχολιασμού XLSX μέσω C++ 
 weight: 5260
-url: /el/cpp/annotation/xlsx/ 
+
 description: C++ δείγμα κώδικα για προσθήκη ή διαγραφή σχολιασμών σε μορφή XLSX στο C++ Runtime Environment για Windows 32 bit, Windows 64 bit και Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

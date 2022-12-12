@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLSX naar XLAM via C#
-url: /nl/net/conversion/xlsx-to-xlam/
+
 description: Voorbeeldcode voor xlsx naar xlam C# conversie. Gebruik API voorbeeldcode voor batch xlsx-bestanden naar xlam-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to TABDELIMITED via Java 
-url: /java/conversion/xlsb-to-tabdelimited/
+
 description: Convert XLSB to TABDELIMITED format in Java code. Save XLSB as TABDELIMITED using Java.
 ---
 

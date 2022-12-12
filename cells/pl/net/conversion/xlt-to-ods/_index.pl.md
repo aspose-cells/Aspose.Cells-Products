@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj XLT na ODS przez C#
-url: /pl/net/conversion/xlt-to-ods/
+
 description: Przykładowy kod konwersji xlt do ods C#. Użyj przykładowego kodu API dla wsadowych plików xlt do konwersji kursów w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

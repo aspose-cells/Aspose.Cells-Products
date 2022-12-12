@@ -1,6 +1,6 @@
-﻿---
+---
 title: "CSV konvertálása TAB-raDELIMITED a következőn keresztül: Python"
-url: /hu/python-java/conversion/csv-to-tabdelimited/
+
 description: Mintakód a csv-ből tabulátorral elválasztott Python konverzióhoz. Használjon API példakódot a kötegelt csv-fájlokhoz a tabulátorral tagolt konverzióhoz a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

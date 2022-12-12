@@ -1,6 +1,6 @@
-﻿---
+---
 title: Twórz pliki MS Excel XLT za pomocą C++ 
-url: /pl/cpp/create-xlt/ 
+
 description: C++ Przykładowy kod do generowania plików MS Excel XLT. Użyj tego kodu do tworzenia plików MS Excel XLT w aplikacji opartej na C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

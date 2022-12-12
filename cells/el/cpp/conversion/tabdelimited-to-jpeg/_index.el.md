@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατρέψτε το TABDELIMITED σε JPEG μέσω της εφαρμογής C++ 
-url: /el/cpp/conversion/tabdelimited-to-jpeg/ 
+
 description: Δείγμα κώδικα μετατροπής C++ για έγγραφο TABDELIMITED σε μορφή JPEG. Οι προγραμματιστές μπορούν να χρησιμοποιήσουν αυτόν τον πηγαίο κώδικα για ομαδική μετατροπή TABDELIMITED σε JPEG σε οποιαδήποτε εφαρμογή C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Convierta ODS en matriz de bytes a través de C# 
 weight: 7690
-url: /es/net/conversion/ods-to-byte-array/ 
+
 description: C# Código de muestra para la conversión de ODS a Byte Array. Utilice este código para la conversión de Excel ODS a Byte Array dentro de VB.NET, Asp.NET o cualquier aplicación basada en .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

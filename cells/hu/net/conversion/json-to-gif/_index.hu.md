@@ -1,6 +1,6 @@
-﻿---
+---
 title: "JSON konvertálása GIF-re a következőn keresztül: C#"
-url: /hu/net/conversion/json-to-gif/
+
 description: Mintakód a json–gif C# konverzióhoz. Használjon API példakódot kötegelt json-fájlokhoz a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazás gif-konverziójához.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

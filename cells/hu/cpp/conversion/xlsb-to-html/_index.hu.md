@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertálja az XLSB-t HTML-vé a(z) C++ alkalmazással 
 weight: 7540
-url: /hu/cpp/conversion/xlsb-to-html/ 
+
 description: Minta C++ konverziós kód XLSB dokumentumhoz HTML formátumba. A programozók ezt a forráskódot használhatják az XLSB-ből HTML-be történő kötegelt konvertálásához bármely C++ alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

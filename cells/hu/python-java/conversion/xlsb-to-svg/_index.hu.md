@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLSB konvertálása SVG-vé a következőn keresztül: Python"
-url: /hu/python-java/conversion/xlsb-to-svg/
+
 description: Mintakód az xlsb–svg Python konverzióhoz. Használjon API példakódot a kötegelt xlsb fájlok SVG konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

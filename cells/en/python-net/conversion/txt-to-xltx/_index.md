@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to XLTX via Python
-url: /python-net/conversion/txt-to-xltx/
+
 description: Sample code for txt to xltx Python conversion. Use API example code for batch txt files to xltx conversion within Python application.
 ---
 

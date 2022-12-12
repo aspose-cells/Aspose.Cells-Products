@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to DIF via Python
-url: /python-java/conversion/json-to-dif/
+
 description: Convert JSON to DIF format in Python code. Save JSON as DIF using Python.
 ---
 

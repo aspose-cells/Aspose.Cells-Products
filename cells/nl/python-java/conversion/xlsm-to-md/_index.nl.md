@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLSM naar MD via Python
-url: /nl/python-java/conversion/xlsm-to-md/
+
 description: Voorbeeldcode voor conversie van xlsm naar md Python. Gebruik API voorbeeldcode voor batch xlsm-bestanden naar md-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

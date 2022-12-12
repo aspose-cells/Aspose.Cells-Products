@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してHTMLをTIFFに変換します
-url: /ja/python-java/conversion/html-to-tiff/
+
 description: htmlからtiffPythonへの変換のサンプルコード。 Pythonアプリケーション内で変換をtiffするために、バッチhtmlファイルのAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してXLSMファイルをマージします 
 weight: 1270
-url: /ja/java/merger/xlsm/ 
+
 description: Java JSP/JSFアプリケーションとデスクトップアプリケーションのランタイム環境でXLSMドキュメントを組み合わせるためのサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

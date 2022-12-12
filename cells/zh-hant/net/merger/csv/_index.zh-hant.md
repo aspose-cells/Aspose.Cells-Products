@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通過 .NET 合併 CSV 文件 
 weight: 6450
-url: /zh-hant/net/merger/csv/ 
+
 description: C# 源代碼，用於在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上組合 CSV 文檔。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Vytvářejte soubory MS Excel XLTX prostřednictvím C# 
-url: /cs/net/create-xltx/ 
+
 description: C# Ukázkový kód pro generování dokumentů XLTX. Tento kód použijte k vytváření souborů MS Excel XLTX v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

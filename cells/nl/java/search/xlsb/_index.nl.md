@@ -1,7 +1,7 @@
-﻿---
+---
 title: Zoek XLSB-document zonder te openen via Java 
 weight: 9420
-url: /nl/java/search/xlsb/ 
+
 description: Java voorbeeldcode om woorden met patroon te zoeken in XLSB-bestand op Java Runtime-omgeving voor JSP/JSF-applicaties en desktopapplicaties.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést MHTML na GIF prostřednictvím Java 
 weight: 2000
-url: /cs/java/conversion/mhtml-to-gif/ 
+
 description: Ukázka převodního kódu Java pro formát MHTML na soubor GIF. Programátoři mohou tento příklad kódu použít k exportu tabulek Excelu a OpenOffice do formátu GIF v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

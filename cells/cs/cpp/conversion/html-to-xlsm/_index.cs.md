@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převeďte HTML na XLSM pomocí aplikace C++ 
 weight: 2120
-url: /cs/cpp/conversion/html-to-xlsm/ 
+
 description: Ukázka převodního kódu C++ pro dokument HTML na formát XLSM. Programátoři mohou použít tento zdrojový kód pro dávkový převod HTML na XLSM v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

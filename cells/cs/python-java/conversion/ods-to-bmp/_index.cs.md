@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést ODS na BMP prostřednictvím Python
-url: /cs/python-java/conversion/ods-to-bmp/
+
 description: Ukázkový kód pro převod z ods na bmp Python. Použijte API ukázkový kód pro dávkový převod souborů ods na bmp v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

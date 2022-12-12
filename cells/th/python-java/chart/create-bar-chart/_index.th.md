@@ -1,6 +1,6 @@
-﻿---
+---
 title: สร้างแผนภูมิแท่งผ่าน Python
-url: /th/python-java/create-bar-chart/
+
 description: Python โค้ดตัวอย่างสำหรับสร้างแผนภูมิแท่งใน Excel โดยใช้ Python Library ใช้รหัสนี้เพื่อสร้างแผนภูมิแท่งใน MS Excel ภายในแอปพลิเคชันที่ใช้ Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

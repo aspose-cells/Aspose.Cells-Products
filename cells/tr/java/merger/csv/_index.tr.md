@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java aracılığıyla CSV Dosyalarını Birleştir 
 weight: 3860
-url: /tr/java/merger/csv/ 
+
 description: JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Runtime Environment'da CSV belgelerini birleştirmek için Java örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

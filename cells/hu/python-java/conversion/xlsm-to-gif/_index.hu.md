@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLSM konvertálása GIF-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/xlsm-to-gif/
+
 description: Mintakód xlsm-ből gif-be Python. Használjon API példakódot kötegelt xlsm fájlok gif konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

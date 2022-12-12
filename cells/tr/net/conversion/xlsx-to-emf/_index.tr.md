@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla XLSX'i EMF'ye dönüştürün
-url: /tr/net/conversion/xlsx-to-emf/
+
 description: xlsx'ten emf'ye C# dönüştürme için örnek kod. Toplu xlsx dosyaları için VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde emf dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

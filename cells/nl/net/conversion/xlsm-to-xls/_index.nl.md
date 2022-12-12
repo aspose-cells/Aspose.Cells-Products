@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLSM naar XLS via C#
-url: /nl/net/conversion/xlsm-to-xls/
+
 description: Voorbeeldcode voor xlsm naar xls C# conversie. Gebruik API voorbeeldcode voor batch xlsm-bestanden naar xls-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

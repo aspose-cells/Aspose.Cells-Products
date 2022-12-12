@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TABDELIMITED konvertálása EMF-re a következőn keresztül: C#"
-url: /hu/net/conversion/tabdelimited-to-emf/
+
 description: Mintakód a tabulátorral elválasztott emf C# konverzióhoz. Használjon API példakódot a kötegelt tabulátorral tagolt fájlokhoz az EMF konvertáláshoz VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

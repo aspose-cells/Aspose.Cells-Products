@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan ODS ke TXT melalui Python
-url: /id/python-java/conversion/ods-to-txt/
+
 description: Contoh kode untuk konversi ods ke txt Python. Gunakan API kode contoh untuk file batch ods ke konversi txt dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

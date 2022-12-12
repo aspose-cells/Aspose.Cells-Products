@@ -1,7 +1,7 @@
-﻿---
+---
 title: Извлечение текста и изображений из документа XLS через C++ 
 weight: 7610
-url: /ru/cpp/parser/xls/ 
+
 description: Пример кода C++ для извлечения текста и изображений из файла XLS в C++ среде выполнения для 32-разрядной, 64-разрядной Windows и 64-разрядной версии Linux.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

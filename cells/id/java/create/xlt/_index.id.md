@@ -1,6 +1,6 @@
-﻿---
+---
 title: Buat File MS Excel XLT melalui Java 
-url: /id/java/create-xlt/ 
+
 description: Java Contoh kode untuk membuat dokumen XLT. Gunakan kode ini untuk membuat file MS Excel XLT dalam Java desktop atau aplikasi web berbasis.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

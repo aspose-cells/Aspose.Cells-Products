@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование FODS в EMF через Python
-url: /ru/python-java/conversion/fods-to-emf/
+
 description: Пример кода для преобразования fods в emf Python. Используйте пример кода API для пакетного преобразования файлов fods в emf в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

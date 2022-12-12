@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera XLTX till CSV via appen C++ 
-url: /sv/cpp/conversion/xltx-to-csv/ 
+
 description: Exempel på konverteringskod för C++ för XLTX-dokument till CSV-format. Programmerare kan använda den här källkoden för batchkonvertering av XLTX till CSV inom alla C++-program.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SPREADSHEETML konvertálása MARKDOWN-re a következőn keresztül: C#"
-url: /hu/net/conversion/spreadsheetml-to-markdown/
+
 description: Mintakód a táblázatkezelőhöz a C# konverzió leértékeléséhez. Használjon API példakódot kötegelt táblázatkezelő fájlokhoz a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazás konverziójának leértékeléséhez.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

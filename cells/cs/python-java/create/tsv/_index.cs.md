@@ -1,6 +1,6 @@
-﻿---
+---
 title: Vytvořit soubory TSV prostřednictvím Python 
-url: /cs/python-java/create-tsv/ 
+
 description: Python Ukázkový kód pro generování dokumentů TSV. Tento kód použijte k vytváření souborů TSV v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

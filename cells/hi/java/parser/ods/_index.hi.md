@@ -1,7 +1,7 @@
-﻿---
+---
 title: ODS दस्तावेज़ से Java के माध्यम से टेक्स्ट और चित्र निकालें 
 weight: 4740
-url: /hi/java/parser/ods/ 
+
 description: Java JSP/JSF एप्लिकेशन और डेस्कटॉप एप्लिकेशन के लिए रनटाइम परिवेश पर ODS फ़ाइल से टेक्स्ट और छवियों को निकालने के लिए Java नमूना कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

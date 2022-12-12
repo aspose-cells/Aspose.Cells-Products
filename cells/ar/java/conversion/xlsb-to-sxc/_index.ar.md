@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLSB إلى SXC عبر Java 
-url: /ar/java/conversion/xlsb-to-sxc/ 
+
 description: نموذج رمز تحويل Java لتنسيق XLSB إلى ملف SXC. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى SXC من خلال أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

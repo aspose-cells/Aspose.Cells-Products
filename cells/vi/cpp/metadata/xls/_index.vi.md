@@ -1,7 +1,7 @@
-﻿---
+---
 title: Chỉnh sửa hoặc Xem Siêu dữ liệu Tài liệu XLS qua C++ 
 weight: 2150
-url: /vi/cpp/metadata/xls/ 
+
 description: C++ mã ví dụ để chỉnh sửa hoặc xem siêu dữ liệu tệp XLS trên C++ Môi trường thời gian chạy cho Windows 32 bit, Windows 64 bit và Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Modifica i file XLTX tramite .NET 
-url: /it/net/editor/xltx/ 
+
 description: C# codice sorgente per modificare il documento XLTX su piattaforme .NET Framework, .NET Core, Windows Azure, Mono o Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert TSV to CSV via Python
-url: /python-java/conversion/tsv-to-csv/
+
 description: Convert TSV to CSV format in Python code. Save TSV as CSV using Python.
 ---
 

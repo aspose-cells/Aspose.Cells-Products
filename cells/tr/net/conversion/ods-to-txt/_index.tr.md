@@ -1,6 +1,6 @@
-﻿---
+---
 title: ODS'yi C# üzerinden TXT'ye dönüştürün
-url: /tr/net/conversion/ods-to-txt/
+
 description: ods'den txt'ye C# dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu ods dosyalarından txt'ye dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

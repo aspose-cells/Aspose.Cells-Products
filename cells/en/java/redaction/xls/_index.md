@@ -1,7 +1,7 @@
 ---
 title: Search and replace text in XLS document via Java 
 weight: 7900
-url: /java/redaction/xls/ 
+
 description: Java sample code to redact sensitive information in XLS file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

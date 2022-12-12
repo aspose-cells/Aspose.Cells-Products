@@ -1,6 +1,6 @@
 ---
 title: Merge XLS to XLSM Files via C# 
-url: /net/merger/merge-xls-to-xlsm/ 
+
 description: Merge XLS to XLSM file in C# code. Combine XLS to XLSM file using VB.NET, Asp.NET or any .NET based application.
 ---
 

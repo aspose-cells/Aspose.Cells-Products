@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi JSON sang BMP qua Python
-url: /vi/python-java/conversion/json-to-bmp/
+
 description: Mã mẫu cho chuyển đổi json sang bmp Python. Sử dụng mã ví dụ API cho các tệp json hàng loạt để chuyển đổi bmp trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to FODS via Python
-url: /python-net/conversion/spreadsheetml-to-fods/
+
 description: Sample code for spreadsheetml to fods Python conversion. Use API example code for batch spreadsheetml files to fods conversion within Python application.
 ---
 

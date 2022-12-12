@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertálja az XLSX-et BMP-vé a(z) C++ alkalmazáson keresztül 
 weight: 8920
-url: /hu/cpp/conversion/xlsx-to-bmp/ 
+
 description: Minta C++ konverziós kód XLSX dokumentumhoz BMP formátumba. A programozók ezt a forráskódot használhatják az XLSX-ből BMP-be kötegelt konvertáláshoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

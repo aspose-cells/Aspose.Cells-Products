@@ -1,7 +1,7 @@
-﻿---
+---
 title:  Graf dokumentu XLS k obrázkům prostřednictvím .NET 
 weight: 3210
-url: /cs/net/chart/xls/ 
+
 description: C# zdrojový kód pro kreslení a převod grafu nebo diagramu do souboru XLS na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

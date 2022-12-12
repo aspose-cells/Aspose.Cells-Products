@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie XLSB in SVG über C#
-url: /de/net/conversion/xlsb-to-svg/
+
 description: Beispielcode für die Umwandlung von xlsb in svg C#. Verwenden Sie den API Beispielcode für die Batch-Konvertierung von XLSB-Dateien in SVG innerhalb von VB.NET, Asp.NET oder einer beliebigen .NET-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

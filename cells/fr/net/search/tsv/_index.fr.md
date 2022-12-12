@@ -1,7 +1,7 @@
-﻿---
+---
 title: Rechercher un document TSV sans ouvrir via .NET 
 weight: 2810
-url: /fr/net/search/tsv/ 
+
 description: Code source C# pour rechercher des mots avec un modèle dans le fichier TSV sur .NET Framework, .NET Core, Mono ou Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

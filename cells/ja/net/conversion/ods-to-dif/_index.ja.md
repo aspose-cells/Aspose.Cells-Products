@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してODSをDIFに変換します
-url: /ja/net/conversion/ods-to-dif/
+
 description: odsからdifC#への変換のサンプルコード。バッチodsファイルのAPIサンプルコードを使用して、VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内で変換をdifします。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

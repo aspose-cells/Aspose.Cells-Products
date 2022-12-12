@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi XLSX sang JSON qua Python
-url: /vi/python-java/conversion/xlsx-to-json/
+
 description: Mã mẫu cho chuyển đổi xlsx sang json Python. Sử dụng API mã mẫu cho hàng loạt tệp xlsx sang chuyển đổi json trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

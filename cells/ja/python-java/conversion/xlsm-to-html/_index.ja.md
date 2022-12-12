@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してXLSMをHTMLに変換します
-url: /ja/python-java/conversion/xlsm-to-html/
+
 description: xlsmからhtmlPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチxlsmファイルからhtmlへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

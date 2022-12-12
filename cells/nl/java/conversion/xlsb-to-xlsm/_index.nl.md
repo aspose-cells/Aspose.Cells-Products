@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer XLSB naar XLSM via Java 
 weight: 3270
-url: /nl/java/conversion/xlsb-to-xlsm/ 
+
 description: Voorbeeld Java conversiecode voor XLSB-indeling naar XLSM-bestand. Programmeurs kunnen deze voorbeeldcode gebruiken om Excel- en OpenOffice-spreadsheets naar XLSM te exporteren binnen elke web- of desktoptoepassing Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

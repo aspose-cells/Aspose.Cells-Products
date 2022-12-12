@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLTM konvertálása TIFF-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/xltm-to-tiff/
+
 description: Mintakód az xltm–tiff Python konverzióhoz. Használjon API példakódot a kötegelt xltm fájlokhoz a tiff konverzióhoz a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

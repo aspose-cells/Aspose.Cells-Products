@@ -1,6 +1,6 @@
-﻿---
+---
 title: Maak MS Excel XLS-bestanden via Python 
-url: /nl/python-java/create-xls/ 
+
 description: Python Voorbeeldcode voor het genereren van XLS-documenten. Gebruik deze code voor het maken van MS Excel XLS-bestanden binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

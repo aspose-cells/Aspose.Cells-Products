@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TXT konvertálása MHTML-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/txt-to-mhtml/
+
 description: Mintakód a txt-ből mhtml-be Python konverzióhoz. Használjon API példakódot a txt fájlok kötegelt mhtml konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

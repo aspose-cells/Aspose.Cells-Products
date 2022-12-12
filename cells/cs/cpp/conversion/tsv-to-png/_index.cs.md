@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převeďte TSV na PNG pomocí aplikace C++ 
 weight: 1770
-url: /cs/cpp/conversion/tsv-to-png/ 
+
 description: Ukázka převodního kódu C++ pro dokument TSV na formát PNG. Programátoři mohou použít tento zdrojový kód pro dávkový převod TSV na PNG v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

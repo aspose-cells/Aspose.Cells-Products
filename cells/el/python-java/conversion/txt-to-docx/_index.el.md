@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή TXT σε DOCX μέσω Python
-url: /el/python-java/conversion/txt-to-docx/
+
 description: Δείγμα κώδικα για μετατροπή txt σε docx Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία txt για μετατροπή docx εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

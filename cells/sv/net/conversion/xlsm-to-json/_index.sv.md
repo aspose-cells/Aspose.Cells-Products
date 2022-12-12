@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera XLSM till JSON via C#
-url: /sv/net/conversion/xlsm-to-json/
+
 description: Exempelkod för konvertering av xlsm till json C#. Använd API exempelkod för batch-xlsm-filer till json-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

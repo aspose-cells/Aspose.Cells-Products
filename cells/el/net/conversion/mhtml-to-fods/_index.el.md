@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή MHTML σε FODS μέσω C#
-url: /el/net/conversion/mhtml-to-fods/
+
 description: Δείγμα κώδικα για μετατροπή mhtml σε fods C#. Χρησιμοποιήστε API παράδειγμα κώδικα για μαζική μετατροπή αρχείων mhtml σε fods εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

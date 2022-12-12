@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to MD via Python
-url: /python-net/conversion/html-to-md/
+
 description: Sample code for html to md Python conversion. Use API example code for batch html files to md conversion within Python application.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python के माध्यम से CSV को XML में बदलें
-url: /hi/python-java/conversion/csv-to-xml/
+
 description: सीएसवी से एक्सएमएल Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन में बैच सीएसवी फाइलों से एक्सएमएल रूपांतरण के लिए API उदाहरण कोड का प्रयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

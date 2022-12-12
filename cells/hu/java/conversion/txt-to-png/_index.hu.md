@@ -1,7 +1,7 @@
-﻿---
+---
 title: "TXT konvertálása PNG-re a következőn keresztül: Java "
 weight: 7580
-url: /hu/java/conversion/txt-to-png/ 
+
 description: Minta Java konverziós kód TXT formátumhoz PNG fájllá. A programozók ezt a példakódot használhatják Excel és OpenOffice táblázatok PNG formátumba exportálására bármely web- vagy asztali Java alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

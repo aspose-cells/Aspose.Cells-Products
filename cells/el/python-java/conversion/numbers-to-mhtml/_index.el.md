@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή NUMBERS σε MHTML μέσω Python
-url: /el/python-java/conversion/numbers-to-mhtml/
+
 description: Δείγμα κώδικα για μετατροπή αριθμών σε mhtml Python. Χρησιμοποιήστε API παράδειγμα κώδικα για αρχεία αριθμών παρτίδας σε μετατροπή mhtml εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

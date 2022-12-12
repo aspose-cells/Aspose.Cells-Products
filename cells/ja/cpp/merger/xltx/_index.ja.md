@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++を介してXLTXファイルをマージします 
-url: /ja/cpp/merger/xltx/ 
+
 description: C++ Windows 32ビット、Windows 64ビット、およびLinux64ビットのランタイム環境でXLTXドキュメントを組み合わせるためのサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

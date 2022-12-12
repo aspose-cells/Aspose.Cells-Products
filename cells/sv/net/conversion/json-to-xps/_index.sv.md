@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera JSON till XPS via C#
-url: /sv/net/conversion/json-to-xps/
+
 description: Exempelkod för konvertering från json till xps C#. Använd API exempelkod för batch-json-filer till xps-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

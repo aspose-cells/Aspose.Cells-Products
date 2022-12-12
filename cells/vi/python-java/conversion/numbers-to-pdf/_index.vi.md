@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển NUMBERS sang PDF qua Python
-url: /vi/python-java/conversion/numbers-to-pdf/
+
 description: Mã mẫu cho chuyển đổi số sang pdf Python. Sử dụng mã mẫu API cho các tệp số hàng loạt sang chuyển đổi pdf trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

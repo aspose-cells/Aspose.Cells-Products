@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#을(를) 통해 Excel을 WORD로 변환
-url: /ko/net/conversion/excel-to-word/
+
 description: Excel에서 C# 단어로 변환하기 위한 샘플 코드입니다. VB.NET, Asp.NET 또는 모든 .NET 기반 애플리케이션 내에서 일괄 Excel 파일을 단어로 변환하는 API 예제 코드를 사용합니다.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

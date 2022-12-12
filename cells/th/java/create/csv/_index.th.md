@@ -1,6 +1,6 @@
-﻿---
+---
 title: สร้างไฟล์ CSV ผ่าน Java 
-url: /th/java/create-csv/ 
+
 description: Java โค้ดตัวอย่างสำหรับสร้างเอกสาร CSV ใช้รหัสนี้เพื่อสร้างไฟล์ CSV ภายในเดสก์ท็อปที่ใช้ Java หรือเว็บแอปพลิเคชัน
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

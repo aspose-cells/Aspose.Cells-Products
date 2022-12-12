@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan XLTM ke JPG melalui C#
-url: /id/net/conversion/xltm-to-jpg/
+
 description: Contoh kode untuk konversi xltm ke jpg C#. Gunakan API kode contoh untuk file batch xltm ke konversi jpg dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

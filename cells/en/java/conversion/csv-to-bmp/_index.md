@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to BMP via Java 
-url: /java/conversion/csv-to-bmp/
+
 description: Convert CSV to BMP format in Java code. Save CSV as BMP using Java.
 ---
 

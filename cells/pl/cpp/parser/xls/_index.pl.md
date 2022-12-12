@@ -1,7 +1,7 @@
-﻿---
+---
 title: Wyodrębnij tekst i obrazy z dokumentu XLS za pomocą C++ 
 weight: 7610
-url: /pl/cpp/parser/xls/ 
+
 description: C++ przykładowy kod do wyodrębniania tekstu i obrazów z pliku XLS w C++ środowisku wykonawczym dla 32-bitowego systemu Windows, 64-bitowego systemu Windows i 64-bitowego systemu Linux.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

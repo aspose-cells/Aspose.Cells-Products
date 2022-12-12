@@ -1,7 +1,7 @@
-﻿---
+---
 title: Διαχωρισμός αρχείων XLS μέσω .NET 
 weight: 1340
-url: /el/net/splitter/xls/ 
+
 description: C# πηγαίος κώδικας για διαχωρισμό εγγράφων XLS σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

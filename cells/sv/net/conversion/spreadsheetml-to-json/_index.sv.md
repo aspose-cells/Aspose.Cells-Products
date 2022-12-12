@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera SPREADSHEETML till JSON via C#
-url: /sv/net/conversion/spreadsheetml-to-json/
+
 description: Exempelkod för konvertering från kalkylarkml till json C#. Använd API exempelkod för batch-kalkylarkml-filer till json-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

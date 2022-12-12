@@ -1,7 +1,7 @@
-﻿---
+---
 title: Buat Laporan dalam File XLSX melalui Java 
 weight: 7710
-url: /id/java/assembly/xlsx/ 
+
 description: Java kode contoh untuk membuat laporan format XLSX di Java Lingkungan Waktu Proses untuk Aplikasi JSP/JSF dan Aplikasi Desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

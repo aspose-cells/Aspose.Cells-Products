@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してXLSをXLTに変換します 
 weight: 5880
-url: /ja/java/conversion/xls-to-xlt/ 
+
 description: XLS形式からXLTファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のXLTにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

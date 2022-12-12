@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi XLSB sang DOCX qua C#
-url: /vi/net/conversion/xlsb-to-docx/
+
 description: Mã mẫu cho chuyển đổi xlsb sang docx C#. Sử dụng API mã ví dụ cho hàng loạt tệp xlsb để chuyển đổi docx trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

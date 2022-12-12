@@ -1,6 +1,6 @@
-﻿---
+---
 title: XLT को Java के माध्यम से PREADSHEETML में बदलें 
-url: /hi/java/conversion/xlt-to-spreadsheetml/ 
+
 description: SPREADSHEETML फ़ाइल में XLT प्रारूप के लिए नमूना Java रूपांतरण कोड। प्रोग्रामर इस उदाहरण कोड का उपयोग एक्सेल और ओपनऑफिस स्प्रेडशीट को किसी भी वेब या डेस्कटॉप Java आधारित एप्लिकेशन के भीतर स्प्रैडशीटएमएल में निर्यात करने के लिए कर सकते हैं।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

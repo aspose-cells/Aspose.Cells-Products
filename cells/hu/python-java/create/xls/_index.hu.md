@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Hozzon létre MS Excel XLS fájlokat a következőn keresztül: Python "
-url: /hu/python-java/create-xls/ 
+
 description: Python Mintakód XLS-dokumentumok generálásához. Ezzel a kóddal MS Excel XLS fájlokat hozhat létre a(z) Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

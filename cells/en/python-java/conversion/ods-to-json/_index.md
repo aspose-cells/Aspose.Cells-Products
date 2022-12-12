@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to JSON via Python
-url: /python-java/conversion/ods-to-json/
+
 description: Convert ODS to JSON format in Python code. Save ODS as JSON using Python.
 ---
 

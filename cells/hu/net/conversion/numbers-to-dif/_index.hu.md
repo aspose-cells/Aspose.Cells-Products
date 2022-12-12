@@ -1,6 +1,6 @@
-﻿---
+---
 title: "NUMBERS konvertálása DIF-re a következőn keresztül: C#"
-url: /hu/net/conversion/numbers-to-dif/
+
 description: Mintakód a számok megkülönböztetéséhez C#. Használjon API példakódot kötegszámfájlokhoz a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belüli átalakításhoz.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

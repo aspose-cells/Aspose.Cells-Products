@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLTX fájlok egyesítése a következőn keresztül: .NET "
 weight: 1220
-url: /hu/net/merger/xltx/ 
+
 description: C# forráskód az XLTX dokumentumok kombinálásához .NET Framework, .NET Core, Mono vagy Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: FODS को C# के माध्यम से XLAM में बदलें
-url: /hi/net/conversion/fods-to-xlam/
+
 description: फोड के लिए नमूना कोड xlam C# रूपांतरण के लिए। VB.NET, Asp.NET या किसी भी .NET आधारित एप्लिकेशन के भीतर बैच फोड फ़ाइलों को xlam रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java üzerinden açmadan CSV belgesini arayın 
 weight: 390
-url: /tr/java/search/csv/ 
+
 description: JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Runtime Environment'da CSV dosyasında kalıplı kelimeleri aramak için Java örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

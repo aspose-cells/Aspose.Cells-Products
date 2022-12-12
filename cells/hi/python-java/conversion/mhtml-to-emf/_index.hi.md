@@ -1,6 +1,6 @@
-﻿---
+---
 title: MHTML को Python के द्वारा EMF में बदलें
-url: /hi/python-java/conversion/mhtml-to-emf/
+
 description: एमएचटीएमएल से ईएमएफ Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर ईएमएफ रूपांतरण के लिए बैच एमएचटीएमएल फाइलों के लिए API उदाहरण कोड का प्रयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

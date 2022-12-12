@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TXT إلى JPG عبر تطبيق C++ 
-url: /ar/cpp/conversion/txt-to-jpg/ 
+
 description: نموذج C++ رمز التحويل لمستند TXT إلى تنسيق JPG. يمكن للمبرمجين استخدام رمز المصدر هذا لتحويل دفعة TXT إلى JPG داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

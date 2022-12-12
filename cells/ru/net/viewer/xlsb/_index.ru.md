@@ -1,7 +1,7 @@
-﻿---
+---
 title: Просмотр форматов файлов XLSB через .NET 
 weight: 6260
-url: /ru/net/viewer/xlsb/ 
+
 description: Исходный код C# для загрузки, обработки и отображения документов XLSB на платформах .NET Framework, .NET Core, Mono или Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

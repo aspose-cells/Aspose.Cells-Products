@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta TABDELIMITED a PDF a través de C#
-url: /es/net/conversion/tabdelimited-to-pdf/
+
 description: Código de ejemplo para la conversión delimitada por tabuladores a pdf C#. Utilice el código de ejemplo API para la conversión por lotes de archivos delimitados por tabulaciones a PDF en VB.NET, Asp.NET o cualquier aplicación basada en .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

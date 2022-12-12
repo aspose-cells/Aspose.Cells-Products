@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converter ODS para PDF por meio do aplicativo C++ 
 weight: 6720
-url: /pt/cpp/conversion/ods-to-pdf/ 
+
 description: Exemplo de código de conversão C++ de documento ODS para formato PDF. Os programadores podem usar esse código-fonte para conversão de lote de ODS para PDF em qualquer aplicativo C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

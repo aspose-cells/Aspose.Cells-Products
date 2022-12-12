@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLS-Dokument über .NET schützen und sperren 
 weight: 7010
-url: /de/net/protect/xls/ 
+
 description: C#-Quellcode zum Sperren der XLS-Datei mit Kennwort auf .NET Framework-, .NET Core-, Mono- oder Xamarin-Plattformen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

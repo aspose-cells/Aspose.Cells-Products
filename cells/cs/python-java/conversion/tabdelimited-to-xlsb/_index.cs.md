@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TABDELIMITED na XLSB přes Python
-url: /cs/python-java/conversion/tabdelimited-to-xlsb/
+
 description: Ukázkový kód pro převod tabdelimited na xlsb Python. Použijte API ukázkový kód pro dávkový převod souborů oddělených tabulátory na xlsb v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

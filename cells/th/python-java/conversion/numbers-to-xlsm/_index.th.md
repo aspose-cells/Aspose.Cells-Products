@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง NUMBERS เป็น XLSM ผ่าน Python
-url: /th/python-java/conversion/numbers-to-xlsm/
+
 description: โค้ดตัวอย่างสำหรับการแปลงตัวเลขเป็น xlsm Python ใช้โค้ดตัวอย่าง API สำหรับไฟล์หมายเลขแบทช์เป็นการแปลง xlsm ภายในแอปพลิเคชัน Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

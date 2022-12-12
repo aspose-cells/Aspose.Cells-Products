@@ -1,6 +1,6 @@
-﻿---
+---
 title: Tạo Tệp PDF qua C# 
-url: /vi/net/create-pdf/ 
+
 description: C# Mã mẫu để tạo tài liệu PDF. Sử dụng mã này để tạo tệp PDF trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

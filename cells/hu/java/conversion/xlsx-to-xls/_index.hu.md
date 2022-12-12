@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLSX konvertálása XLS-re a következőn keresztül: Java "
 weight: 6280
-url: /hu/java/conversion/xlsx-to-xls/ 
+
 description: Minta Java konverziós kód az XLSX formátumhoz XLS fájllá. A programozók ezt a példakódot használhatják Excel és OpenOffice táblázatok XLS formátumba exportálására bármely web- vagy asztali Java alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

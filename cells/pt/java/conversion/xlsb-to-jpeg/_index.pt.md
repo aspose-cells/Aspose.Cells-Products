@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converter XLSB para JPEG via Java 
 weight: 8810
-url: /pt/java/conversion/xlsb-to-jpeg/ 
+
 description: Exemplo de código de conversão Java para formato XLSB para arquivo JPEG. Os programadores podem usar este código de exemplo para exportar planilhas do Excel e OpenOffice para JPEG em qualquer aplicativo baseado na Web ou Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

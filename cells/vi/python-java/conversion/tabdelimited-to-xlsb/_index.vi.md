@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi TABDELIMITED sang XLSB qua Python
-url: /vi/python-java/conversion/tabdelimited-to-xlsb/
+
 description: Mã mẫu cho chuyển đổi được giới hạn bằng tab thành xlsb Python. Sử dụng mã mẫu API cho các tệp được giới hạn bằng tab hàng loạt thành chuyển đổi xlsb trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

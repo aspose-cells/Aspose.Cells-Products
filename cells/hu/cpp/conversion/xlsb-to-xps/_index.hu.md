@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertálja az XLSB-t XPS-re a(z) C++ alkalmazáson keresztül 
 weight: 530
-url: /hu/cpp/conversion/xlsb-to-xps/ 
+
 description: Minta C++ konverziós kód XLSB dokumentumhoz XPS formátumba. A programozók ezt a forráskódot használhatják az XLSB-ből XPS-be kötegelt konvertáláshoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

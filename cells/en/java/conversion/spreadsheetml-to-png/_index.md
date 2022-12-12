@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to PNG via Java 
-url: /java/conversion/spreadsheetml-to-png/
+
 description: Convert SPREADSHEETML to PNG format in Java code. Save SPREADSHEETML as PNG using Java.
 ---
 

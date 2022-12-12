@@ -1,6 +1,6 @@
-﻿---
+---
 title: Radardiagramme über C# erstellen
-url: /de/net/create-radar-chart/
+
 description: C# Beispielcode zum Erstellen von Netzdiagrammen in Excel mithilfe der .NET-Bibliothek. Verwenden Sie diesen Code zum Erstellen eines Netzdiagramms für MS Excel in VB.NET, Asp.NET oder einer beliebigen .NET-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

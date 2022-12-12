@@ -1,6 +1,6 @@
-﻿---
+---
 title: "HTML konvertálása JSON-ba a következőn keresztül: C#"
-url: /hu/net/conversion/html-to-json/
+
 description: Mintakód a html–json C# konvertálásához. Használjon API példakódot kötegelt html fájlok json konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

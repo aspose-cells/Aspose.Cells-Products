@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer JSON naar XLS via Python
-url: /nl/python-java/conversion/json-to-xls/
+
 description: Voorbeeldcode voor conversie van json naar xls Python. Gebruik API voorbeeldcode voor batch json-bestanden naar xls-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

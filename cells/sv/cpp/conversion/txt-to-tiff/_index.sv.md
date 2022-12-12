@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera TXT till TIFF via appen C++ 
-url: /sv/cpp/conversion/txt-to-tiff/ 
+
 description: Exempel på C++-konverteringskod för TXT-dokument till TIFF-format. Programmerare kan använda den här källkoden för batchkonvertering av TXT till TIFF inom alla C++-program.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

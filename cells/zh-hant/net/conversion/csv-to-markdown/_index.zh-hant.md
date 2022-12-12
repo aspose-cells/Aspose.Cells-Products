@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 C# 將 CSV 轉換為 MARKDOWN
-url: /zh-hant/net/conversion/csv-to-markdown/
+
 description: csv 到 markdown C# 轉換的示例代碼。使用批量 csv 文件的 API 示例代碼在 VB.NET、Asp.NET 或任何基於 .NET 的應用程序中進行降價轉換。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

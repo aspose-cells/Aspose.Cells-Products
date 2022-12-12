@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie XLSM in GIF über die Anwendung C++ 
-url: /de/cpp/conversion/xlsm-to-gif/ 
+
 description: Beispiel-Umwandlungscode C++ für das XLSM-Dokument in das GIF-Format. Programmierer können diesen Quellcode für die Batch-Konvertierung von XLSM in GIF in jeder C++-Anwendung verwenden.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

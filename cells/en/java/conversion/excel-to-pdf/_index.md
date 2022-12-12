@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to PDF via Java 
-url: /java/conversion/excel-to-pdf/
+
 description: Convert EXCEL to PDF format in Java code. Save EXCEL as PDF using Java.
 ---
 

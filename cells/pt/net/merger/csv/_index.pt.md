@@ -1,7 +1,7 @@
-﻿---
+---
 title: Mesclar arquivos CSV via .NET 
 weight: 6450
-url: /pt/net/merger/csv/ 
+
 description: C# código-fonte para combinar documentos CSV em plataformas .NET Framework, .NET Core, Mono ou Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

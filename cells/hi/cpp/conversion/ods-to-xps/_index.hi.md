@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ एप्लिकेशन के माध्यम से ODS को XPS में बदलें 
 weight: 1930
-url: /hi/cpp/conversion/ods-to-xps/ 
+
 description: नमूना C++ ODS दस्तावेज़ के लिए XPS प्रारूप में रूपांतरण कोड। प्रोग्रामर इस स्रोत कोड का उपयोग किसी भी C++ एप्लिकेशन में बैच ODS से XPS रूपांतरण के लिए कर सकते हैं।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

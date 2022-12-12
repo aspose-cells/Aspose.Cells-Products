@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLSM na JSON přes C#
-url: /cs/net/conversion/xlsm-to-json/
+
 description: Ukázkový kód pro převod xlsm na json C#. Použijte API ukázkový kód pro dávkový převod souborů xlsm na json v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

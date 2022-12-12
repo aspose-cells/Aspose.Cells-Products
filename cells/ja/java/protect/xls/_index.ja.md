@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してXLSドキュメントを保護およびロックする 
 weight: 5070
-url: /ja/java/protect/xls/ 
+
 description: Java JSP/JSFアプリケーションおよびデスクトップアプリケーションのランタイム環境でパスワードを使用してXLSファイルをロックするためのサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل HTML إلى DIF عبر تطبيق C++ 
 weight: 4790
-url: /ar/cpp/conversion/html-to-dif/ 
+
 description: نموذج C++ رمز التحويل لمستند HTML إلى تنسيق DIF. يمكن للمبرمجين استخدام رمز المصدر هذا لتحويل دفعة HTML إلى DIF داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Prohledejte dokument XLS bez otevírání prostřednictvím C++ 
 weight: 4560
-url: /cs/cpp/search/xls/ 
+
 description: C++ ukázkový kód pro vyhledávání slov se vzorem v souboru XLS v C++ Runtime Environment pro Windows 32bitový, Windows 64bitový a Linux 64bitový.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

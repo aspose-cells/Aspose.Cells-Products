@@ -1,7 +1,7 @@
-﻿---
+---
 title: Rechercher un document TSV sans ouvrir via Java 
 weight: 4940
-url: /fr/java/search/tsv/ 
+
 description: Java exemple de code pour rechercher des mots avec un modèle dans le fichier TSV sur Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

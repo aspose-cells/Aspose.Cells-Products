@@ -1,7 +1,7 @@
 ---
 title: ODS document chart via Java 
 weight: 2240
-url: /java/chart/ods/ 
+
 description: Java sample code to draw and convert chart or diagram in ODS file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

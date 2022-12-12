@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TXT إلى XPS عبر Python
-url: /ar/python-java/conversion/txt-to-xps/
+
 description: نموذج كود لتحويل TXT إلى xps Python. استخدم API رمز المثال لملفات txt الدفعية لتحويل xps داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

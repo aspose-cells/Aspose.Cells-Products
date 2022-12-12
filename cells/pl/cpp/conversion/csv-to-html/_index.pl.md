@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konwertuj CSV na HTML za pomocą aplikacji C++ 
 weight: 3310
-url: /pl/cpp/conversion/csv-to-html/ 
+
 description: Przykładowy kod konwersji C++ dla dokumentu CSV do formatu HTML. Programiści mogą używać tego kodu źródłowego do wsadowej konwersji CSV na HTML w dowolnej aplikacji C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

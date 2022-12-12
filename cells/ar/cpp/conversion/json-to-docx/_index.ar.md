@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل JSON إلى DOCX عبر تطبيق C++ 
-url: /ar/cpp/conversion/json-to-docx/ 
+
 description: نموذج رمز تحويل C++ لمستند JSON إلى تنسيق DOCX. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل JSON المجمع إلى DOCX داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

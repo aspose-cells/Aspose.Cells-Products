@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi TXT ke BMP melalui C++ aplikasi 
-url: /id/cpp/conversion/txt-to-bmp/ 
+
 description: Contoh C++ kode konversi untuk dokumen TXT ke format BMP. Pemrogram dapat menggunakan kode sumber ini untuk konversi batch TXT ke BMP dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

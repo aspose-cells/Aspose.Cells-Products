@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή JSON σε TXT μέσω Python
-url: /el/python-java/conversion/json-to-txt/
+
 description: Δείγμα κώδικα για μετατροπή json σε txt Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδική μετατροπή αρχείων json σε txt εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

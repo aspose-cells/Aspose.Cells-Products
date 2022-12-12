@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してXLTXをSXCに変換します
-url: /ja/python-java/conversion/xltx-to-sxc/
+
 description: xltxからsxcPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチxltxファイルからsxcへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

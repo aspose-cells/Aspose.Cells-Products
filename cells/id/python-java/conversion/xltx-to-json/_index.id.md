@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan XLTX ke JSON melalui Python
-url: /id/python-java/conversion/xltx-to-json/
+
 description: Contoh kode untuk konversi xltx ke json Python. Gunakan API kode contoh untuk file batch xltx ke konversi json dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してHTMLをSPREADSHEETMLに変換します
-url: /ja/python-java/conversion/html-to-spreadsheetml/
+
 description: htmlからspreadplacemlPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチhtmlファイルからspreadsheetmlへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

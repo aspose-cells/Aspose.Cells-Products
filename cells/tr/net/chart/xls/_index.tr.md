@@ -1,7 +1,7 @@
-﻿---
+---
 title:  .NET aracılığıyla görüntülere XLS belge grafiği 
 weight: 3210
-url: /tr/net/chart/xls/ 
+
 description: .NET Framework, .NET Core, Mono veya Xamarin Platformlarında XLS dosyasında grafik veya diyagram çizmek ve dönüştürmek için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

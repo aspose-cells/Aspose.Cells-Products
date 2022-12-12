@@ -1,6 +1,6 @@
 ---
 title: Convert XLSX to XML via C++
-url: /cpp/conversion/xlsx-to-xml/
+
 description: Convert XLSX to XML format in C++ code. Save XLSX as XML using C++.
 ---
 

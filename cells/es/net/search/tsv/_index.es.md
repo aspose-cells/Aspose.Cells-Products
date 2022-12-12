@@ -1,7 +1,7 @@
-﻿---
+---
 title: Buscar documento TSV sin abrir a través de .NET 
 weight: 2810
-url: /es/net/search/tsv/ 
+
 description: C# código fuente para buscar palabras con patrón en el archivo TSV en .NET Framework, .NET Core, Mono o Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

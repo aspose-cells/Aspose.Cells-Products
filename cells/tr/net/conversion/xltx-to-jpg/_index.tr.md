@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# üzerinden XLTX'i JPG'ye dönüştürün
-url: /tr/net/conversion/xltx-to-jpg/
+
 description: xltx'ten jpg'ye C# dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu xltx dosyalarını jpg'ye dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

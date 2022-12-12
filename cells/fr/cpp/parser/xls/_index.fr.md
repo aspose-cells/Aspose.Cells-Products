@@ -1,7 +1,7 @@
-﻿---
+---
 title: Extraire le texte et les images du document XLS via C++ 
 weight: 7610
-url: /fr/cpp/parser/xls/ 
+
 description: C++ Exemple de code pour extraire du texte et des images d'un fichier XLS sur C++ Runtime Environment pour Windows 32 bits, Windows 64 bits et Linux 64 bits.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converter XLTX para GIF via Java 
 weight: 8640
-url: /pt/java/conversion/xltx-to-gif/ 
+
 description: Exemplo de código de conversão Java para formato XLTX para arquivo GIF. Os programadores podem usar este código de exemplo para exportar planilhas do Excel e OpenOffice para GIF em qualquer aplicativo baseado na Web ou Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

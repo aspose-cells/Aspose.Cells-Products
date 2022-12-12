@@ -1,6 +1,6 @@
-﻿---
+---
 title: "NUMBERS konvertálása XPS-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/numbers-to-xps/
+
 description: Mintakód a számok xps Python konvertálásához. Használjon API példakódot a kötegszámfájlok xps-re való konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

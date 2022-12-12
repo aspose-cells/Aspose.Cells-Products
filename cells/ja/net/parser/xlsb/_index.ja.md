@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NETを介してXLSBドキュメントからテキストと画像を抽出します 
 weight: 2200
-url: /ja/net/parser/xlsb/ 
+
 description: .NETフレームワーク、.NETコア、Mono、またはXamarinプラットフォーム上のXLSBファイルからテキストと画像を抽出するためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

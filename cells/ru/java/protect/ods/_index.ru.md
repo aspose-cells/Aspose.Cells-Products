@@ -1,7 +1,7 @@
-﻿---
+---
 title: Защитите и заблокируйте документ ODS через Java 
 weight: 6360
-url: /ru/java/protect/ods/ 
+
 description: Пример кода Java для блокировки файла ODS с помощью пароля в Java среде выполнения для приложений JSP/JSF и настольных приложений.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Sök i ODS-dokument utan att öppna via .NET 
 weight: 160
-url: /sv/net/search/ods/ 
+
 description: C# källkod för att söka efter ord med mönster i ODS-fil på .NET Framework, .NET Core, Mono eller Xamarin-plattformar.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

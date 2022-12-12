@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ Programmazione di fogli di calcolo Excel API - Aspose 
 weight: 7140
-url: /it/cpp/ 
+
 description: C++ Libreria Excel per leggere, scrivere e analizzare file inclusi i formati XLS, XLSX, XLSM e XLSB. Converti fogli di calcolo in PDF, CSV e altri formati
 ---
 {{< blocks/products/pf/main-wrap-class >}}

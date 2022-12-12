@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通過 .NET 保護和鎖定 XLSM 文檔 
 weight: 7530
-url: /zh-hant/net/protect/xlsm/ 
+
 description: C# 源代碼，用於在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上使用密碼鎖定 XLSM 文件。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

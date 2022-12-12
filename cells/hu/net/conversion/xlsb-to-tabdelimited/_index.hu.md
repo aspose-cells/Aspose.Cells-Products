@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLSB konvertálása TABLEDELIMITED-re a következőn keresztül: C#"
-url: /hu/net/conversion/xlsb-to-tabdelimited/
+
 description: Mintakód az xlsb-ből tabulátorral tagolt C# konverzióhoz. Használjon API példakódot kötegelt xlsb fájlokhoz a tabulátorral tagolt konverzióhoz VB.NET, Asp.NET vagy bármely .NET alapú alkalmazásban.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

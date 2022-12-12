@@ -1,6 +1,6 @@
-﻿---
+---
 title: MHTML Dosyalarını C++ ile Birleştir 
-url: /tr/cpp/merger/mhtml/ 
+
 description: C++ Windows 32 bit, Windows 64 bit ve Linux 64 bit için C++ Runtime Environment'da MHTML belgelerini birleştirmek için örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

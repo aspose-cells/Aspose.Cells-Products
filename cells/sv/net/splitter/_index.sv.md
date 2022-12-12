@@ -1,6 +1,6 @@
-﻿---
+---
 title: Dela upp Excel-kalkylblad i C#
-url: /sv/net/splitter/
+
 description: C# källkoder som förklarar hur du delar upp Microsoft Excel-filer i flera filer i Visual C#.NET-program
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

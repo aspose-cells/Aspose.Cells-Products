@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera XLSX till XLAM via applikationen C++ 
-url: /sv/cpp/conversion/xlsx-to-xlam/ 
+
 description: Exempel på C++-konverteringskod för XLSX-dokument till XLAM-format. Programmerare kan använda den här källkoden för batchkonvertering av XLSX till XLAM inom alla C++-program.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Dela XLS-filer via .NET 
 weight: 1340
-url: /sv/net/splitter/xls/ 
+
 description: C# källkod för att dela XLS-dokument på .NET Framework, .NET Core, Mono eller Xamarin-plattformar.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

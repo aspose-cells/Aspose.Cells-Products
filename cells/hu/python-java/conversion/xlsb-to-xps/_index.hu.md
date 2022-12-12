@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLSB konvertálása XPS-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/xlsb-to-xps/
+
 description: Mintakód az xlsb–xps Python konverzióhoz. Használjon API példakódot a kötegelt xlsb fájlok xps konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

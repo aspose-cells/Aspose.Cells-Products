@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLTX konvertálása XML-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/xltx-to-xml/
+
 description: Mintakód az xltx-ből xml-be Python konverzióhoz. Használjon API példakódot a kötegelt xltx-fájlok xml-lé konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

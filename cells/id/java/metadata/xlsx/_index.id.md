@@ -1,7 +1,7 @@
-﻿---
+---
 title: Edit atau Lihat Metadata File XLSX melalui Java 
 weight: 1240
-url: /id/java/metadata/xlsx/ 
+
 description: Java kode contoh untuk mengedit atau melihat metadata format XLSX di Java Lingkungan Waktu Proses untuk Aplikasi JSP/JSF dan Aplikasi Desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

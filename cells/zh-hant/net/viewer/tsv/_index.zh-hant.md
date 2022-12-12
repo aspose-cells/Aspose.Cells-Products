@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通過 .NET 查看 TSV 文件格式 
 weight: 3090
-url: /zh-hant/net/viewer/tsv/ 
+
 description: C# 用於在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上加載、呈現和顯示 TSV 文檔的源代碼。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

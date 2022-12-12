@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή XLS σε XLSX μέσω Python
-url: /el/python-java/conversion/xls-to-xlsx/
+
 description: Δείγμα κώδικα για μετατροπή xls σε xlsx Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδική μετατροπή αρχείων xls σε xlsx εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

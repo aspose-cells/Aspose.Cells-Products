@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通过 .NET 保护和锁定 XLS 文档 
 weight: 7010
-url: /zh/net/protect/xls/ 
+
 description: C# 用于在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上使用密码锁定 XLS 文件的源代码。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Odblokuj dokument ODS przez .NET 
 weight: 3110
-url: /pl/net/unlock/ods/ 
+
 description: C# kod źródłowy do odblokowania chronionego hasłem pliku ODS na platformach .NET Framework, .NET Core, Mono lub Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

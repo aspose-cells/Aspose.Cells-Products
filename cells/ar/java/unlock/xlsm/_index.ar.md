@@ -1,7 +1,7 @@
-﻿---
+---
 title: فتح مستند XLSM عبر Java 
 weight: 7700
-url: /ar/java/unlock/xlsm/ 
+
 description: Java نموذج رمز لإلغاء تأمين ملف XLSM المحمي بكلمة مرور في Java Runtime Environment لتطبيق JSP / JSF وتطبيقات سطح المكتب.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

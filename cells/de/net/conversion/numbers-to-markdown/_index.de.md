@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie NUMBERS in MARKDOWN über C#
-url: /de/net/conversion/numbers-to-markdown/
+
 description: Beispielcode für Zahlen zum Herabsetzen der Conversion C#. Verwenden Sie API Beispielcode für Stapelnummerndateien zur Markdown-Konvertierung in VB.NET, Asp.NET oder einer beliebigen .NET-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

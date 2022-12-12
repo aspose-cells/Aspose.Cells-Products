@@ -1,7 +1,7 @@
-﻿---
+---
 title: แอปแปลงสเปรดชีต SharePoint Excel - Aspose 
 weight: 940
-url: /th/sharepoint/ 
+
 description: Aspose.Cells สำหรับ SharePoint App คือตัวแปลงสเปรดชีตของ SharePoint Excel ส่งออก XLS XLSX XML CSV PDF ODS &amp; รูปแบบ HTML ใน MOSS WSS
 ---
 {{< blocks/products/pf/main-wrap-class >}}

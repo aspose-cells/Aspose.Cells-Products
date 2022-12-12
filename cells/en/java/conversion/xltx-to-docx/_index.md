@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to DOCX via Java 
-url: /java/conversion/xltx-to-docx/
+
 description: Convert XLTX to DOCX format in Java code. Save XLTX as DOCX using Java.
 ---
 

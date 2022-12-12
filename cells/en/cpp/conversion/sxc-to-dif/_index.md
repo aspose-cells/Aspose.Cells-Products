@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to DIF via C++
-url: /cpp/conversion/sxc-to-dif/
+
 description: Convert SXC to DIF format in C++ code. Save SXC as DIF using C++.
 ---
 

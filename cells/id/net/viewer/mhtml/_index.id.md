@@ -1,6 +1,6 @@
-﻿---
+---
 title: Lihat Format Berkas MHTML melalui .NET 
-url: /id/net/viewer/mhtml/ 
+
 description: C# kode sumber untuk memuat, merender, dan menampilkan dokumen MHTML pada .NET Framework, .NET Core, Windows Azure, Mono atau Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

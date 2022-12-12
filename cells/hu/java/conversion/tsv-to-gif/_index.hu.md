@@ -1,7 +1,7 @@
-﻿---
+---
 title: "TSV konvertálása GIF formátumba a következőn keresztül: Java "
 weight: 1600
-url: /hu/java/conversion/tsv-to-gif/ 
+
 description: Minta Java konverziós kód a TSV-formátumhoz GIF-fájllá. A programozók ezt a példakódot használhatják Excel és OpenOffice táblázatok exportálására GIF formátumba bármely web- vagy asztali Java alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

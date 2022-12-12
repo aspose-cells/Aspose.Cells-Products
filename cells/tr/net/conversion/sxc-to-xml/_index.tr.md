@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla SXC'yi XML'e dönüştürün
-url: /tr/net/conversion/sxc-to-xml/
+
 description: sxc'den xml'ye C# dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu sxc dosyalarından xml'ye dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

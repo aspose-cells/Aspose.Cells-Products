@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование ODS в TABDELIMITED через Python
-url: /ru/python-java/conversion/ods-to-tabdelimited/
+
 description: Пример кода для преобразования ods в Python с разделителями табуляции. Используйте пример кода API для пакетных файлов ods для преобразования с разделителями табуляции в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

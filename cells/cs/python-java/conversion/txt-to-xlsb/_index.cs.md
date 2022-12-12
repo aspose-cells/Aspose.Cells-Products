@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TXT na XLSB přes Python
-url: /cs/python-java/conversion/txt-to-xlsb/
+
 description: Ukázkový kód pro převod txt na xlsb Python. Použijte API ukázkový kód pro dávkový převod souborů txt na xlsb v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

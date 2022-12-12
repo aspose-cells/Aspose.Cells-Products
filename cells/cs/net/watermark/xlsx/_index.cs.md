@@ -1,7 +1,7 @@
-﻿---
+---
 title: Vodoznak XLSX dokumentu prostřednictvím .NET 
 weight: 8270
-url: /cs/net/watermark/xlsx/ 
+
 description: C# zdrojový kód pro přidání nebo odstranění vodoznaku do souboru XLSX na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

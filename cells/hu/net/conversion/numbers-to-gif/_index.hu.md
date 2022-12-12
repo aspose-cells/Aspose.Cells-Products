@@ -1,6 +1,6 @@
-﻿---
+---
 title: "NUMBERS konvertálása GIF formátumba a következőn keresztül: C#"
-url: /hu/net/conversion/numbers-to-gif/
+
 description: Mintakód számokból gif C# konverzióba. Használjon API példakódot kötegszámfájlokhoz a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazás gif-konverziójához.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

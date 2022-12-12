@@ -1,6 +1,6 @@
-﻿---
+---
 title: XLTX को Java के माध्यम से MD में बदलें 
-url: /hi/java/conversion/xltx-to-md/ 
+
 description: नमूना Java XLTX प्रारूप के लिए एमडी फ़ाइल में रूपांतरण कोड। प्रोग्रामर इस उदाहरण कोड का उपयोग किसी भी वेब या डेस्कटॉप Java आधारित एप्लिकेशन में एमडी को एक्सेल और ओपनऑफिस स्प्रेडशीट निर्यात करने के लिए कर सकते हैं।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

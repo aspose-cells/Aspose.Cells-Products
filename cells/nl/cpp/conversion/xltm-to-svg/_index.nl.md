@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLTM naar SVG via C++ applicatie 
-url: /nl/cpp/conversion/xltm-to-svg/ 
+
 description: Voorbeeld C++-conversiecode voor XLTM-document naar SVG-indeling. Programmeurs kunnen deze broncode gebruiken voor batch-XLTM-naar-SVG-conversie binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

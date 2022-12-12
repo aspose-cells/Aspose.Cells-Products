@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLTM konvertálása PNG-re a következőn keresztül: C#"
-url: /hu/net/conversion/xltm-to-png/
+
 description: Mintakód az xltm–png C# konverzióhoz. Használjon API példakódot kötegelt xltm fájlok png konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

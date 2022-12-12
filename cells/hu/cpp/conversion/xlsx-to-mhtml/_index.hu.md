@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertálja az XLSX-et MHTML-re a(z) C++ alkalmazással 
 weight: 4120
-url: /hu/cpp/conversion/xlsx-to-mhtml/ 
+
 description: Minta C++ konverziós kód XLSX dokumentumhoz MHTML formátumba. A programozók ezt a forráskódot használhatják kötegelt XLSX-MHTML-konverzióhoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してCSVをODSに変換する
-url: /ja/python-java/conversion/csv-to-ods/
+
 description: csvからodsPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチcsvファイルからodsへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

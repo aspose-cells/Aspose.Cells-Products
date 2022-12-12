@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通過 C++ 解鎖 XLSX 文檔 
 weight: 3680
-url: /zh-hant/cpp/unlock/xlsx/ 
+
 description: C++ 在 Windows 32 位、Windows 64 位和 Linux 64 位的 C++ 運行時環境中解鎖受密碼保護的 XLSX 文件的示例代碼。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

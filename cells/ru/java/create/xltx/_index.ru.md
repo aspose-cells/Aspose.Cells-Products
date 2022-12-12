@@ -1,6 +1,6 @@
-﻿---
+---
 title: Создание файлов MS Excel XLTX с помощью Java 
-url: /ru/java/create-xltx/ 
+
 description: Java Пример кода для создания документов XLTX. Используйте этот код для создания файлов MS Excel XLTX в настольном или веб-приложении на основе Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

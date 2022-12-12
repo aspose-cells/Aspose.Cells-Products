@@ -1,6 +1,6 @@
-﻿---
+---
 title: Twórz wykresy bąbelkowe za pomocą C#
-url: /pl/net/create-bubble-chart/
+
 description: C# Przykładowy kod do tworzenia wykresów bąbelkowych w programie Excel przy użyciu biblioteki .NET. Użyj tego kodu, aby utworzyć wykres {chart} do MS Excel w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla SXC'yi FODS'ye dönüştürün
-url: /tr/net/conversion/sxc-to-fods/
+
 description: sxc'den fods'a C# dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu sxc dosyalarından fods'a dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

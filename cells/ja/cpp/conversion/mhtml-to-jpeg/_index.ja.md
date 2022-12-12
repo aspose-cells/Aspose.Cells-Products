@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++アプリケーションを介してMHTMLをJPEGに変換する 
 weight: 820
-url: /ja/cpp/conversion/mhtml-to-jpeg/ 
+
 description: MHTMLドキュメントからJPEG形式へのサンプルC++変換コード。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でMHTMLからJPEGへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Proteggi e blocca il documento XLS tramite Java 
 weight: 5070
-url: /it/java/protect/xls/ 
+
 description: Java codice di esempio per bloccare il file XLS utilizzando la password in Java Runtime Environment per applicazioni JSP/JSF e desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

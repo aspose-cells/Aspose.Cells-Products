@@ -1,7 +1,7 @@
-﻿---
+---
 title: Planilha do Excel PHP API - Aspose 
 weight: 3660
-url: /pt/php-java/ 
+
 description: Planilha PHP Excel API para ler, escrever e converter XLS XLSX CSV TSV HTML ODS SpreadsheetML e todos os formatos Excel 97-2016. Exporte planilhas para vários formatos
 ---
 {{< blocks/products/pf/main-wrap-class >}}

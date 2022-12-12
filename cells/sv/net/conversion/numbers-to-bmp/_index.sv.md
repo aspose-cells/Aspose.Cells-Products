@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera NUMBERS till BMP via C#
-url: /sv/net/conversion/numbers-to-bmp/
+
 description: Exempelkod för siffror till bmp C#-konvertering. Använd API exempelkod för batchnummerfiler för att bmp-konvertera inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

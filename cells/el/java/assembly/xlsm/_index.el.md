@@ -1,7 +1,7 @@
-﻿---
+---
 title: Δημιουργία αναφορών σε αρχεία XLSM μέσω Java 
 weight: 270
-url: /el/java/assembly/xlsm/ 
+
 description: Java δείγμα κώδικα για τη δημιουργία αναφορών μορφής XLSM στο Java Runtime Environment για εφαρμογές JSP/JSF και εφαρμογές επιφάνειας εργασίας.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

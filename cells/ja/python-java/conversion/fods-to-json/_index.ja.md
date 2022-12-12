@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してFODSをJSONに変換する
-url: /ja/python-java/conversion/fods-to-json/
+
 description: fodsからjsonPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチfodsファイルからjsonへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

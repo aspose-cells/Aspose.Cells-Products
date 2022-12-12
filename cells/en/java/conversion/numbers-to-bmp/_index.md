@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to BMP via Java 
-url: /java/conversion/numbers-to-bmp/
+
 description: Convert NUMBERS to BMP format in Java code. Save NUMBERS as BMP using Java.
 ---
 

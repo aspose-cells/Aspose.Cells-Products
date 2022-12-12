@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ uygulamasıyla XLS'yi PDF'ye dönüştürün 
 weight: 8010
-url: /tr/cpp/conversion/xls-to-pdf/ 
+
 description: XLS belgesinden PDF biçimine örnek C++ dönüştürme kodu. Programcılar, herhangi bir C++ Uygulamasında toplu XLS'den PDF'ye dönüştürme için bu kaynak kodunu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

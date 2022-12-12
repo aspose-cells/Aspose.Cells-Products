@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversikan ODS ke XLSM melalui C++ aplikasi 
 weight: 2090
-url: /id/cpp/conversion/ods-to-xlsm/ 
+
 description: Contoh C++ kode konversi untuk dokumen ODS ke format XLSM. Pemrogram dapat menggunakan kode sumber ini untuk konversi batch ODS ke XLSM dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

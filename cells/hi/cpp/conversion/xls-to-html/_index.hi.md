@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLS को HTML में C++ एप्लिकेशन के माध्यम से कनवर्ट करें 
 weight: 2680
-url: /hi/cpp/conversion/xls-to-html/ 
+
 description: XLS दस्तावेज़ के लिए HTML प्रारूप में नमूना C++ रूपांतरण कोड। प्रोग्रामर इस स्रोत कोड का उपयोग किसी भी C++ एप्लिकेशन में बैच XLS से HTML रूपांतरण के लिए कर सकते हैं।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

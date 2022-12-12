@@ -1,7 +1,7 @@
-﻿---
+---
 title: Buka kunci dokumen XLSM melalui .NET 
 weight: 9810
-url: /id/net/unlock/xlsm/ 
+
 description: C# kode sumber untuk membuka kunci file XLSM yang dilindungi sandi di .NET Framework, .NET Core, Mono atau Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

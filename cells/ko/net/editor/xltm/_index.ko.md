@@ -1,6 +1,6 @@
-﻿---
+---
 title: .NET을(를) 통해 XLTM 파일 수정 
-url: /ko/net/editor/xltm/ 
+
 description: .NET Framework, .NET Core, Windows Azure, Mono 또는 Xamarin Platforms에서 XLTM 문서를 편집하기 위한 C# 소스 코드.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

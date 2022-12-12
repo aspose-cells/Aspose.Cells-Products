@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLSX na MARKDOWN přes Java 
-url: /cs/java/conversion/xlsx-to-markdown/ 
+
 description: Ukázkový konverzní kód Java pro formát XLSX na soubor MARKDOWN. Programátoři mohou tento příklad kódu použít k exportu tabulek Excelu a OpenOffice do MARKDOWN v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

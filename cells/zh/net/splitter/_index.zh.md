@@ -1,6 +1,6 @@
-﻿---
+---
 title: 在 C# 中拆分 Excel 工作表
-url: /zh/net/splitter/
+
 description: C# 源代码，说明如何在 Visual C#.NET 应用程序中将 Microsoft Excel 文件拆分为多个文件
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

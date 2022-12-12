@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NETを介してXLSXファイルのメタデータを表示または編集する 
 weight: 3430
-url: /ja/net/metadata/xlsx/ 
+
 description: .NETフレームワーク、.NETコア、Mono、またはXamarinプラットフォームでXLSX形式のメタデータを編集または表示するためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLSB fájlformátumok megtekintése a következőn keresztül: .NET "
 weight: 6260
-url: /hu/net/viewer/xlsb/ 
+
 description: C# forráskód az XLSB dokumentumok betöltéséhez, rendereléséhez és megjelenítéséhez .NET Framework, .NET Core, Mono vagy Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

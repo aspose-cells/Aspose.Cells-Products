@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to PDF via Java 
-url: /java/conversion/fods-to-pdf/
+
 description: Convert FODS to PDF format in Java code. Save FODS as PDF using Java.
 ---
 

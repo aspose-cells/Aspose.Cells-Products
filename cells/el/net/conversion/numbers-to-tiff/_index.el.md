@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή NUMBERS σε TIFF μέσω C#
-url: /el/net/conversion/numbers-to-tiff/
+
 description: Δείγμα κωδικού για αριθμούς για τη μετατροπή C#. Χρησιμοποιήστε API παράδειγμα κώδικα για αρχεία αριθμών παρτίδας για να καθορίσετε τη μετατροπή σε VB.NET, Asp.NET ή οποιαδήποτε εφαρμογή που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

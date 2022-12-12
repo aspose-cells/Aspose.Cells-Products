@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してCSVをPNGに変換する 
 weight: 7520
-url: /ja/java/conversion/csv-to-png/ 
+
 description: CSV形式からPNGファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、任意のWebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをPNGにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

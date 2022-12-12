@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 Python 將 XLT 轉換為 DIF
-url: /zh-hant/python-java/conversion/xlt-to-dif/
+
 description: xlt 到 diff Python 轉換的示例代碼。使用批處理 xlt 文件的 API 示例代碼在 Python 應用程序中進行差異轉換。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

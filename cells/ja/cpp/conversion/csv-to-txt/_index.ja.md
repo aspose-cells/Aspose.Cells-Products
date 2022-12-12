@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++アプリケーションを介してCSVをTXTに変換する 
-url: /ja/cpp/conversion/csv-to-txt/ 
+
 description: CSVドキュメントからTXT形式へのサンプルC++変換コード。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でCSVからTXTへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

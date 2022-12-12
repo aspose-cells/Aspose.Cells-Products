@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan MHTML ke JPG melalui C#
-url: /id/net/conversion/mhtml-to-jpg/
+
 description: Contoh kode untuk mhtml ke jpg C# konversi. Gunakan API kode contoh untuk file batch mhtml ke konversi jpg dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

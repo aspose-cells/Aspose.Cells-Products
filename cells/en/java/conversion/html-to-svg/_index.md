@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to SVG via Java 
-url: /java/conversion/html-to-svg/
+
 description: Convert HTML to SVG format in Java code. Save HTML as SVG using Java.
 ---
 

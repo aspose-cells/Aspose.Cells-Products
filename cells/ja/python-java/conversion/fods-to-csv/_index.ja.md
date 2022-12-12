@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してFODSをCSVに変換する
-url: /ja/python-java/conversion/fods-to-csv/
+
 description: fodからcsvPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチfodファイルからcsvへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

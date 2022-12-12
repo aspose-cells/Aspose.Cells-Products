@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 Python 將 CSV 轉換為 SPREADSHEETML
-url: /zh-hant/python-java/conversion/csv-to-spreadsheetml/
+
 description: csv 到電子表格 Python 轉換的示例代碼。在 Python 應用程序中使用 API 示例代碼將批量 csv 文件轉換為電子表格。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

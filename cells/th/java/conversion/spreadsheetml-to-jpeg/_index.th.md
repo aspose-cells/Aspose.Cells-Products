@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง SPREADSHEETML เป็น JPEG ผ่าน Java 
-url: /th/java/conversion/spreadsheetml-to-jpeg/ 
+
 description: ตัวอย่างโค้ดการแปลง Java สำหรับรูปแบบ SPREADSHEETML เป็นไฟล์ JPEG โปรแกรมเมอร์สามารถใช้โค้ดตัวอย่างนี้เพื่อส่งออกสเปรดชีต Excel และ OpenOffice เป็น JPEG ภายในแอปพลิเคชันบนเว็บหรือเดสก์ท็อป Java
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

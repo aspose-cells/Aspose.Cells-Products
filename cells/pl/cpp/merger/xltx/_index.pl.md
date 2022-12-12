@@ -1,6 +1,6 @@
-﻿---
+---
 title: Scal pliki XLTX przez C++ 
-url: /pl/cpp/merger/xltx/ 
+
 description: C++ przykładowy kod do łączenia dokumentów XLTX w C++ Runtime Environment dla Windows 32-bitowy, Windows 64-bitowy i Linux 64-bitowy.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

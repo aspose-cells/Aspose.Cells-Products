@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera NUMBERS till XLTX via C#
-url: /sv/net/conversion/numbers-to-xltx/
+
 description: Exempelkod för konvertering av tal till xltx C#. Använd API exempelkod för batchnummerfiler till xltx-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

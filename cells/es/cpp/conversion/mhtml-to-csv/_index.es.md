@@ -1,7 +1,7 @@
-﻿---
+---
 title: Convierta MHTML a CSV a través de la aplicación C++ 
 weight: 3510
-url: /es/cpp/conversion/mhtml-to-csv/ 
+
 description: Ejemplo de código de conversión C++ para documento MHTML a formato CSV. Los programadores pueden usar este código fuente para la conversión por lotes de MHTML a CSV dentro de cualquier aplicación C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

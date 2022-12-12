@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir XLTM en MARKDOWN via C#
-url: /fr/net/conversion/xltm-to-markdown/
+
 description: Exemple de code pour la conversion de xltm en démarque C#. Utilisez l'exemple de code API pour les fichiers xltm par lots pour la conversion de démarquage dans VB.NET, Asp.NET ou toute application basée sur .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

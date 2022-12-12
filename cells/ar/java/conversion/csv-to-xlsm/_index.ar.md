@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل CSV إلى XLSM عبر Java 
-url: /ar/java/conversion/csv-to-xlsm/ 
+
 description: نموذج Java رمز تحويل لتنسيق CSV إلى ملف XLSM. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى XLSM داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "ODS konvertálása TXT-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/ods-to-txt/
+
 description: Mintakód az ods-ból txt-be Python konverzióhoz. Használjon API példakódot a kötegelt ods fájlok txt konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

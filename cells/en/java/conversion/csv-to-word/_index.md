@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to WORD via Java 
-url: /java/conversion/csv-to-word/
+
 description: Convert CSV to WORD format in Java code. Save CSV as WORD using Java.
 ---
 

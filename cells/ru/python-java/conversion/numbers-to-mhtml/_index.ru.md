@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование NUMBERS в MHTML через Python
-url: /ru/python-java/conversion/numbers-to-mhtml/
+
 description: Пример кода для преобразования чисел в mhtml Python. Используйте пример кода API для преобразования файлов номеров пакетов в mhtml в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

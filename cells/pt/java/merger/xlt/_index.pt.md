@@ -1,7 +1,7 @@
-﻿---
+---
 title: Mesclar arquivos XLT via Java 
 weight: 9960
-url: /pt/java/merger/xlt/ 
+
 description: Java código de amostra para combinar documentos XLT no Java ambiente de tempo de execução para aplicativos JSP/JSF e aplicativos de desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

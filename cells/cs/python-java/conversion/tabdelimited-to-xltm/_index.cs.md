@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TABDELIMITED na XLTM přes Python
-url: /cs/python-java/conversion/tabdelimited-to-xltm/
+
 description: Ukázkový kód pro převod tabdelimited na xltm Python. Použijte API ukázkový kód pro dávkový převod souborů oddělených tabulátory na xltm v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

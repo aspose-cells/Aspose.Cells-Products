@@ -1,7 +1,7 @@
-﻿---
+---
 title: Déverrouiller le document XLSM via .NET 
 weight: 9810
-url: /fr/net/unlock/xlsm/ 
+
 description: Code source C# pour déverrouiller le fichier XLSM protégé par mot de passe sur .NET Framework, .NET Core, Mono ou Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

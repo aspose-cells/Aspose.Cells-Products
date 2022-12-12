@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++ uygulaması aracılığıyla TABDELIMITED'i PNG'ye dönüştürün 
-url: /tr/cpp/conversion/tabdelimited-to-png/ 
+
 description: TABDELIMITED belgesi için PNG biçimine örnek C++ dönüştürme kodu. Programcılar bu kaynak kodunu herhangi bir C++ Uygulamasında toplu TABDELIMITED'den PNG'ye dönüştürmek için kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

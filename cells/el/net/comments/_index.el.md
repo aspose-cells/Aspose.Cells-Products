@@ -1,6 +1,6 @@
-﻿---
+---
 title: Εισαγωγή σχολίων στο Excel μέσω .NET
-url: /el/net/comment/
+
 description: C# πηγαίους κώδικες για τον τρόπο εισαγωγής σχολίου σε αρχεία Microsoft Excel χρησιμοποιώντας τη Βιβλιοθήκη .NET. 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование MHTML в JPEG с помощью C#
-url: /ru/net/conversion/mhtml-to-jpeg/
+
 description: Пример кода для преобразования mhtml в jpeg C#. Используйте пример кода API для пакетного преобразования файлов mhtml в jpeg в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

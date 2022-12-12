@@ -1,6 +1,6 @@
-﻿---
+---
 title: TSV को C# के माध्यम से PDF में बदलें
-url: /hi/net/conversion/tsv-to-pdf/
+
 description: tsv से pdf C# रूपांतरण के लिए नमूना कोड। वीबी.NET, एएसपी.NET या किसी भी .NET आधारित एप्लिकेशन के भीतर टीएसवी फाइलों को पीडीएफ में बदलने के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

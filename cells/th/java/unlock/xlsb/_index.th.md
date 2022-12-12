@@ -1,7 +1,7 @@
-﻿---
+---
 title: ปลดล็อกเอกสาร XLSB ผ่าน Java 
 weight: 5860
-url: /th/java/unlock/xlsb/ 
+
 description: Java ตัวอย่างโค้ดเพื่อปลดล็อกไฟล์ XLSB ที่ป้องกันด้วยรหัสผ่านใน Java Runtime Environment สำหรับแอปพลิเคชัน JSP/JSF และแอปพลิเคชันเดสก์ท็อป
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

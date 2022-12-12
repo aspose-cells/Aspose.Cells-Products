@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 Python 將 XLT 轉換為 EMF
-url: /zh-hant/python-java/conversion/xlt-to-emf/
+
 description: xlt 到 emf Python 轉換的示例代碼。使用 Python 應用程序中將 xlt 文件批量轉換為 emf 的 API 示例代碼。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

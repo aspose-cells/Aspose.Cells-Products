@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to XPS via C++
-url: /cpp/conversion/xlsb-to-xps/
+
 description: Convert XLSB to XPS format in C++ code. Save XLSB as XPS using C++.
 ---
 

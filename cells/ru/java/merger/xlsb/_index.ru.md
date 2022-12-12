@@ -1,7 +1,7 @@
-﻿---
+---
 title: Объединить файлы XLSB через Java 
 weight: 4840
-url: /ru/java/merger/xlsb/ 
+
 description: Пример кода Java для объединения документов XLSB в Java среде выполнения для приложений JSP/JSF и настольных приложений.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

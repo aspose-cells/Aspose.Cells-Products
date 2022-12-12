@@ -1,6 +1,6 @@
-﻿---
+---
 title: Erstellen Sie Liniendiagramme über C# 
-url: /de/net/create-line-chart/ 
+
 description: C# Beispielcode zum Erstellen von Liniendiagrammen in Excel mithilfe der .NET-Bibliothek. Verwenden Sie diesen Code zum Erstellen eines Liniendiagramms in MS Excel innerhalb von VB.NET, Asp.NET oder einer beliebigen .NET-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

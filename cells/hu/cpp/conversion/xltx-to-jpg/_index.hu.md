@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLTX-et JPG-be a(z) C++ alkalmazással 
-url: /hu/cpp/conversion/xltx-to-jpg/ 
+
 description: Minta C++ konverziós kód XLTX dokumentumhoz JPG formátumba. A programozók ezt a forráskódot használhatják XLTX-ből JPG-be kötegelt konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

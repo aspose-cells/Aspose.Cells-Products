@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to WORD via C#
-url: /net/conversion/xlsb-to-word/
+
 description: Convert XLSB to WORD format in C# code. Save XLSB as WORD using VB.NET, Asp.NET or any .NET based application.
 ---
 

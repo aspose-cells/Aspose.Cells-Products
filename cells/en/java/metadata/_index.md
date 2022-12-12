@@ -1,6 +1,6 @@
 ---
 title: Manage Excel File Metadata via Java
-url: /java/metadata/
+
 description: View, add, edit, remove or extract Excel files metadata with just few lines of Java code
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET Excel API | Przetwarzaj formaty arkuszy kalkulacyjnych za pomocą .NETCore 
 weight: 2030
-url: /pl/net/ 
+
 description: Biblioteka C#ASP.NET VB.NET do pracy z dokumentami Microsoft Excel. Twórz odczyt, zapis, zapisywanie i drukowanie plików arkuszy kalkulacyjnych. Konwertuj na PDF lub więcej formatów
 ---
 {{< blocks/products/pf/main-wrap-class >}}

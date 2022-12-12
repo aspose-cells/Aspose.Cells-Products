@@ -1,7 +1,7 @@
-﻿---
+---
 title: Tài liệu XLSM hình mờ qua Java 
 weight: 7680
-url: /vi/java/watermark/xlsm/ 
+
 description: Java mã mẫu để thêm hoặc xóa hình mờ vào tệp XLSM trên Java Môi trường thời gian chạy cho Ứng dụng JSP / JSF và Ứng dụng máy tính để bàn.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

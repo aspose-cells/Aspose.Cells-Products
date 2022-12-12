@@ -1,6 +1,6 @@
 ---
 title: Repair xlsx file via .NET
-url: /net/recovery/repair-xlsx/ 
+
 description: Repair a corrupt xlsx file using C#. Recovery tool to repair corrupted xlsx file within .NET application.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Tạo Tệp MS Excel XLTM qua C++ 
-url: /vi/cpp/create-xltm/ 
+
 description: C++ Mã mẫu để tạo tệp MS Excel XLTM. Sử dụng mã này để tạo tệp MS Excel XLTM trong ứng dụng dựa trên C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

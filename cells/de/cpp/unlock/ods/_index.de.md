@@ -1,7 +1,7 @@
-﻿---
+---
 title: Entsperren Sie das ODS-Dokument über C++ 
 weight: 1190
-url: /de/cpp/unlock/ods/ 
+
 description: C++ Beispielcode zum Entsperren der passwortgeschützten ODS-Datei in C++ Runtime Environment für Windows 32 Bit, Windows 64 Bit und Linux 64 Bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

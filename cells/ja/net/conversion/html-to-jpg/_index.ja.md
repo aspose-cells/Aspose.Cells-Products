@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してHTMLをJPGに変換します
-url: /ja/net/conversion/html-to-jpg/
+
 description: htmlからjpgC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチhtmlファイルからjpgへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

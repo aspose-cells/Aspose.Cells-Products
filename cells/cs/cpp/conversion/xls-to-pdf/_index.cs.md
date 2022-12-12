@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převeďte XLS do PDF pomocí aplikace C++ 
 weight: 8010
-url: /cs/cpp/conversion/xls-to-pdf/ 
+
 description: Ukázkový konverzní kód C++ pro dokument XLS do formátu PDF. Programátoři mohou použít tento zdrojový kód pro dávkový převod XLS do PDF v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera XLTX till HTML via programmet C++ 
-url: /sv/cpp/conversion/xltx-to-html/ 
+
 description: Exempel C++-konverteringskod för XLTX-dokument till HTML-format. Programmerare kan använda den här källkoden för batchkonvertering av XLTX till HTML inom alla C++-program.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

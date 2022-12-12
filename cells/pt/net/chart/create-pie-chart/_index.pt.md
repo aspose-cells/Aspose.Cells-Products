@@ -1,6 +1,6 @@
-﻿---
+---
 title: Crie gráficos de pizza por meio de C#
-url: /pt/net/create-pie-chart/
+
 description: C# Código de amostra para criar gráficos de pizza no Excel usando a biblioteca .NET. Use este código para criar um gráfico de pizza para MS Excel em VB.NET, Asp.NET ou qualquer aplicativo baseado em .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

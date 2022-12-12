@@ -1,6 +1,6 @@
-﻿---
+---
 title: Vytvářejte soubory MHTML prostřednictvím Python 
-url: /cs/python-java/create-mhtml/ 
+
 description: Python Ukázkový kód pro generování dokumentů MHTML. Tento kód použijte k vytváření souborů MHTML v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

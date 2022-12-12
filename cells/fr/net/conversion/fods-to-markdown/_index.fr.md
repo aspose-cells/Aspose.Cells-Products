@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir FODS en MARKDOWN via C#
-url: /fr/net/conversion/fods-to-markdown/
+
 description: Exemple de code pour la conversion de fods en démarque C#. Utilisez API l'exemple de code pour les fichiers fods par lots pour la conversion de démarquage dans VB.NET, Asp.NET ou toute application basée sur .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

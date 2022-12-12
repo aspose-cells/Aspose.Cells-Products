@@ -1,6 +1,6 @@
-﻿---
+---
 title: "HTML konvertálása TXT-re a következőn keresztül: C#"
-url: /hu/net/conversion/html-to-txt/
+
 description: Mintakód a html-ből txt-be C# konvertáláshoz. Használjon API példakódot kötegelt html fájlok txt konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

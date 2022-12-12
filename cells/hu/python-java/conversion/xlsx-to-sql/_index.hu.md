@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLSX konvertálása SQL-vé a következőn keresztül: Python"
-url: /hu/python-java/conversion/xlsx-to-sql/
+
 description: Mintakód az xlsx–sql Python konverzióhoz. Használjon API példakódot a kötegelt xlsx fájlok SQL-be való konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

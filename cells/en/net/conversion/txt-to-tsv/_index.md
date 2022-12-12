@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to TSV via C#
-url: /net/conversion/txt-to-tsv/
+
 description: Convert TXT to TSV format in C# code. Save TXT as TSV using VB.NET, Asp.NET or any .NET based application.
 ---
 

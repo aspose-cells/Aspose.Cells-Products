@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertálja a TSV-t ODS-vé a(z) C++ alkalmazáson keresztül 
 weight: 1810
-url: /hu/cpp/conversion/tsv-to-ods/ 
+
 description: Minta C++ konverziós kód a TSV-dokumentumhoz ODS formátumba. A programozók ezt a forráskódot használhatják a TSV-ből ODS-be kötegelt konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

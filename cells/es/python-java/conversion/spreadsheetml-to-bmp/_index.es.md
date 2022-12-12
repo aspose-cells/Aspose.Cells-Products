@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta SPREADSHEETML a BMP a través de Python
-url: /es/python-java/conversion/spreadsheetml-to-bmp/
+
 description: Código de muestra para la conversión de hoja de cálculo a bmp Python. Utilice el código de ejemplo API para archivos de hoja de cálculo por lotes para la conversión bmp dentro de la aplicación Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

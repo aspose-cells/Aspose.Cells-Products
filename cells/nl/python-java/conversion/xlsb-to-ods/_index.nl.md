@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLSB naar ODS via Python
-url: /nl/python-java/conversion/xlsb-to-ods/
+
 description: Voorbeeldcode voor xlsb naar ods Python-conversie. Gebruik API voorbeeldcode voor batch xlsb-bestanden naar ods-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

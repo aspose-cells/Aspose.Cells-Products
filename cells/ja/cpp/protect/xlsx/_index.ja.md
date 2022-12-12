@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++を介してXLSXドキュメントを保護およびロックする 
 weight: 1140
-url: /ja/cpp/protect/xlsx/ 
+
 description: C++ Windows 32ビット、Windows 64ビット、Linux64ビットのランタイム環境でパスワードを使用してXLSXファイルをロックするコード例。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

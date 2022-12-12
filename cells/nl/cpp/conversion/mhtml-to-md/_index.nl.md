@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer MHTML naar MD via C++ applicatie 
-url: /nl/cpp/conversion/mhtml-to-md/ 
+
 description: Voorbeeld C++ conversiecode voor MHTML-document naar MD-indeling. Programmeurs kunnen deze broncode gebruiken voor batchconversie van MHTML naar MD binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

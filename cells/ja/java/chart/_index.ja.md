@@ -1,6 +1,6 @@
-﻿---
+---
 title: Excelチャートを作成し、Javaを介して画像に変換します
-url: /ja/java/chart/
+
 description: Javaライブラリを使用してMicrosoftExcelでチャートまたは図を描画および変換するためのJavaソースコード。 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

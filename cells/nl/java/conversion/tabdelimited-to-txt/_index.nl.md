@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer TABDELIMITED naar TXT via Java 
-url: /nl/java/conversion/tabdelimited-to-txt/ 
+
 description: Voorbeeld Java-conversiecode voor TABDELIMITED-indeling naar TXT-bestand. Programmeurs kunnen deze voorbeeldcode gebruiken om Excel- en OpenOffice-spreadsheets naar TXT te exporteren binnen elke web- of desktoptoepassing Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

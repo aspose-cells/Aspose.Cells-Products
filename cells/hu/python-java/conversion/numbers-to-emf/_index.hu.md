@@ -1,6 +1,6 @@
-﻿---
+---
 title: "NUMBERS konvertálása EMF-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/numbers-to-emf/
+
 description: Mintakód számokhoz emf Python konverzióvá. Használjon API példakódot kötegszámfájlokhoz az EMF-konverzióhoz a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

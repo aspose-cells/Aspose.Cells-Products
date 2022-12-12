@@ -1,6 +1,6 @@
-﻿---
+---
 title: "JSON konvertálása SVG-vé a következőn keresztül: C#"
-url: /hu/net/conversion/json-to-svg/
+
 description: Mintakód a json–svg C# konverzióhoz. Használjon API példakódot kötegelt json-fájlokhoz az SVG konverzióhoz VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

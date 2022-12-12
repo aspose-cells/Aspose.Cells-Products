@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง FODS เป็น ODS ผ่าน C#
-url: /th/net/conversion/fods-to-ods/
+
 description: โค้ดตัวอย่างสำหรับการแปลง fods เป็น ods C# ใช้โค้ดตัวอย่าง API สำหรับไฟล์ batch fods เป็นการแปลง ods ภายใน VB.NET, Asp.NET หรือแอปพลิเคชันที่ใช้ .NET
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

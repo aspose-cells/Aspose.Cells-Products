@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to ODS via Java 
-url: /java/conversion/json-to-ods/
+
 description: Convert JSON to ODS format in Java code. Save JSON as ODS using Java.
 ---
 

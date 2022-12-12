@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan SPREADSHEETML ke TIFF melalui Java 
-url: /id/java/conversion/spreadsheetml-to-tiff/ 
+
 description: Contoh Java kode konversi untuk format SPREADSHEETML ke file TIFF. Pemrogram dapat menggunakan kode contoh ini untuk mengekspor spreadsheet Excel & OpenOffice ke TIFF dalam Aplikasi berbasis Web atau Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

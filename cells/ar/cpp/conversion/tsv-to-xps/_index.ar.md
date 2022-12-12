@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل TSV إلى XPS عبر تطبيق C++ 
 weight: 3960
-url: /ar/cpp/conversion/tsv-to-xps/ 
+
 description: نموذج رمز تحويل C++ لمستند TSV إلى تنسيق XPS. يمكن للمبرمجين استخدام رمز المصدر هذا لتحويل TSV إلى XPS دفعة داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

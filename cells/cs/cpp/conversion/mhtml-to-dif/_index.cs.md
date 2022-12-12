@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převeďte MHTML na DIF pomocí aplikace C++ 
 weight: 5470
-url: /cs/cpp/conversion/mhtml-to-dif/ 
+
 description: Ukázka převodního kódu C++ pro dokument MHTML na formát DIF. Programátoři mohou použít tento zdrojový kód pro dávkovou konverzi MHTML na DIF v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

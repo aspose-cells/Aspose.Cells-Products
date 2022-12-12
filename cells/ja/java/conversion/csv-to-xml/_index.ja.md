@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してCSVをXMLに変換する 
-url: /ja/java/conversion/csv-to-xml/ 
+
 description: CSV形式からXMLファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、WebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをXMLにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

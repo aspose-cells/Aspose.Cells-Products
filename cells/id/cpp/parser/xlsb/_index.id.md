@@ -1,7 +1,7 @@
-﻿---
+---
 title: Ekstrak teks dan gambar dari dokumen XLSB melalui C++ 
 weight: 3140
-url: /id/cpp/parser/xlsb/ 
+
 description: C++ contoh kode untuk mengekstrak teks dan gambar dari file XLSB di C++ Runtime Environment untuk Windows 32 bit, Windows 64 bit, dan Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

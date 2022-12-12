@@ -1,7 +1,7 @@
-﻿---
+---
 title: Suchen und ersetzen Sie Text im ODS-Dokument über Java 
 weight: 9210
-url: /de/java/redaction/ods/ 
+
 description: Java Beispielcode zum Schwärzen sensibler Informationen in der ODS-Datei in Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

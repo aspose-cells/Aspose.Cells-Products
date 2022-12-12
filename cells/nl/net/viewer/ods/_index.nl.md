@@ -1,7 +1,7 @@
-﻿---
+---
 title: Bekijk ODS-bestandsindelingen via .NET 
 weight: 130
-url: /nl/net/viewer/ods/ 
+
 description: C# broncode voor het laden, weergeven en weergeven van ODS-documenten op .NET Framework-, .NET Core-, Mono- of Xamarin-platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to XLTM via Java 
-url: /java/conversion/fods-to-xltm/
+
 description: Convert FODS to XLTM format in Java code. Save FODS as XLTM using Java.
 ---
 

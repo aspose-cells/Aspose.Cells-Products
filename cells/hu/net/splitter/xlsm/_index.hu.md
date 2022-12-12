@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLSM-fájlok felosztása a következőn keresztül: .NET "
 weight: 8890
-url: /hu/net/splitter/xlsm/ 
+
 description: C# forráskód az XLSM dokumentumok felosztásához .NET Framework, .NET Core, Mono vagy Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

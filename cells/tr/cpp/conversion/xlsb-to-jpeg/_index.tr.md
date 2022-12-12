@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ uygulaması aracılığıyla XLSB'yi JPEG'e dönüştürün 
 weight: 6990
-url: /tr/cpp/conversion/xlsb-to-jpeg/ 
+
 description: XLSB belgesi için JPEG formatına örnek C++ dönüştürme kodu. Programcılar, herhangi bir C++ Uygulamasında toplu XLSB'den JPEG'e dönüştürme için bu kaynak kodunu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

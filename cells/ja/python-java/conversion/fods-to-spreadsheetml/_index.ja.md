@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してFODSをSPREADSHEETMLに変換します
-url: /ja/python-java/conversion/fods-to-spreadsheetml/
+
 description: fodsからspreadplacemlPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチfodファイルからspreadsheetmlへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

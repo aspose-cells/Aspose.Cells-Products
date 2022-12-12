@@ -1,7 +1,7 @@
-﻿---
+---
 title: عرض تنسيقات ملف XLT عبر .NET 
 weight: 3610
-url: /ar/net/viewer/xlt/ 
+
 description: C# شفرة المصدر لتحميل مستندات XLT وعرضها وعرضها على الأنظمة الأساسية .NET Framework أو .NET Core أو Mono أو Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

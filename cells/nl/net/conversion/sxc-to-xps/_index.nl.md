@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer SXC naar XPS via C#
-url: /nl/net/conversion/sxc-to-xps/
+
 description: Voorbeeldcode voor conversie van sxc naar xps C#. Gebruik API voorbeeldcode voor batch-sxc-bestanden naar xps-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to EMF via C++
-url: /cpp/conversion/spreadsheetml-to-emf/
+
 description: Convert SPREADSHEETML to EMF format in C++ code. Save SPREADSHEETML as EMF using C++.
 ---
 

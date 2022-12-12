@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLTM إلى EMF عبر تطبيق C++ 
-url: /ar/cpp/conversion/xltm-to-emf/ 
+
 description: نموذج C++ رمز تحويل لمستند XLTM إلى تنسيق EMF. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل دفعة XLTM إلى EMF داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

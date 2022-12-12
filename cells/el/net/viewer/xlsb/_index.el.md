@@ -1,7 +1,7 @@
-﻿---
+---
 title: Προβολή μορφών αρχείων XLSB μέσω .NET 
 weight: 6260
-url: /el/net/viewer/xlsb/ 
+
 description: C# πηγαίος κώδικας για φόρτωση, απόδοση και εμφάνιση εγγράφων XLSB σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést ODS na MARKDOWN prostřednictvím C#
-url: /cs/net/conversion/ods-to-markdown/
+
 description: Ukázkový kód pro konverzi ods na markdown C#. Použijte API ukázkový kód pro dávkové soubory ods k převodu markdown v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

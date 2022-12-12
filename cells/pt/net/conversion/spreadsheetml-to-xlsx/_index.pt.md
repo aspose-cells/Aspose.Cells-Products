@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter SPREADSHEETML para XLSX via C#
-url: /pt/net/conversion/spreadsheetml-to-xlsx/
+
 description: Código de exemplo para conversão de planilhaml para xlsx C#. Use API código de exemplo para arquivos de planilhaml em lote para conversão xlsx em VB.NET, Asp.NET ou qualquer aplicativo baseado em .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

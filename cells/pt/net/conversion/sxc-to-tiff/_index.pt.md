@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter SXC para TIFF via C#
-url: /pt/net/conversion/sxc-to-tiff/
+
 description: Código de exemplo para conversão de sxc para tiff C#. Use API código de exemplo para arquivos sxc em lote para conversão tiff em VB.NET, Asp.NET ou qualquer aplicativo baseado em .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

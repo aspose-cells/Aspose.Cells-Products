@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to XLAM via Python
-url: /python-net/conversion/xltx-to-xlam/
+
 description: Sample code for xltx to xlam Python conversion. Use API example code for batch xltx files to xlam conversion within Python application.
 ---
 

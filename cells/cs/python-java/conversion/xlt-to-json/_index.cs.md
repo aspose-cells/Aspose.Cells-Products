@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLT na JSON přes Python
-url: /cs/python-java/conversion/xlt-to-json/
+
 description: Ukázkový kód pro převod xlt na json Python. Použijte API ukázkový kód pro dávkový převod souborů xlt na json v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

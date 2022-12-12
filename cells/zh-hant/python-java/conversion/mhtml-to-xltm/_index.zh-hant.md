@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 Python 將 MHTML 轉換為 XLTM
-url: /zh-hant/python-java/conversion/mhtml-to-xltm/
+
 description: mhtml 到 xltm Python 轉換的示例代碼。使用 Python 應用程序中將 mhtml 文件批量轉換為 xltm 的 API 示例代碼。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

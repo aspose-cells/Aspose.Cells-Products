@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera SPREADSHEETML till XPS via programmet C++ 
-url: /sv/cpp/conversion/spreadsheetml-to-xps/ 
+
 description: Exempel på konverteringskod för C++ för SPREADSHEETML-dokument till XPS-format. Programmerare kan använda den här källkoden för batch-SPREADSHEETML till XPS-konvertering inom alla C++-program.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

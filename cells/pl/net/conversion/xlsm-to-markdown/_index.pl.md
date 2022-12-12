@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj XLSM na MARKDOWN za pomocą C#
-url: /pl/net/conversion/xlsm-to-markdown/
+
 description: Przykładowy kod konwersji xlsm na przecenę C#. Użyj przykładowego kodu API dla plików wsadowych xlsm do konwersji przecen w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

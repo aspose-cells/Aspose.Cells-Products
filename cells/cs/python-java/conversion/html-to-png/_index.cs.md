@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést HTML na PNG pomocí Python
-url: /cs/python-java/conversion/html-to-png/
+
 description: Ukázkový kód pro konverzi html na png Python. Použijte ukázkový kód API pro dávkový převod souborů html na png v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

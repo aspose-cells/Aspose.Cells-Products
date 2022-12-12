@@ -1,7 +1,7 @@
-﻿---
+---
 title: Αναζήτηση και αντικατάσταση κειμένου στο έγγραφο ODS μέσω Java 
 weight: 9210
-url: /el/java/redaction/ods/ 
+
 description: Java δείγμα κώδικα για τη διόρθωση ευαίσθητων πληροφοριών στο αρχείο ODS στο Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

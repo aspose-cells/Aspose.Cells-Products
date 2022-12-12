@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to BMP via Java 
-url: /java/conversion/xlt-to-bmp/
+
 description: Convert XLT to BMP format in Java code. Save XLT as BMP using Java.
 ---
 

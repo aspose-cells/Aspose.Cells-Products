@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte XLT na ODS pomocí aplikace C++ 
-url: /cs/cpp/conversion/xlt-to-ods/ 
+
 description: Ukázka převodního kódu C++ pro dokument XLT na formát ODS. Programátoři mohou použít tento zdrojový kód pro dávkovou konverzi XLT na ODS v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

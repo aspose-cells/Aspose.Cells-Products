@@ -1,6 +1,6 @@
-﻿---
+---
 title: SPREADSHEETML konvertálása TABDELIMITED-re a(z) C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/spreadsheetml-to-tabdelimited/ 
+
 description: Minta C++ konverziós kód a SPREADSHEETML dokumentumhoz TABDELIMITED formátumba. A programozók ezt a forráskódot használhatják a SPREADSHEETML-ből TABDELIMITED-re kötegelt konverzióhoz bármely C++ alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

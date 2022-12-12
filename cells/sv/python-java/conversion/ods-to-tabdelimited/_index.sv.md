@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera ODS till TABDELIMITED via Python
-url: /sv/python-java/conversion/ods-to-tabdelimited/
+
 description: Exempelkod för ods till tabbavgränsad Python-omvandling. Använd API-exempelkod för batch-ods-filer till tabbavgränsad konvertering inom Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

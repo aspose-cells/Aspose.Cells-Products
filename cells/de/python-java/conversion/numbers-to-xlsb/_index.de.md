@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie NUMBERS in XLSB über Python
-url: /de/python-java/conversion/numbers-to-xlsb/
+
 description: Beispielcode für die Umwandlung von Zahlen in xlsb Python. Verwenden Sie den API-Beispielcode für die Konvertierung von Stapelnummerndateien in xlsb innerhalb der Anwendung Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert XLTM to XLT via C++
-url: /cpp/conversion/xltm-to-xlt/
+
 description: Convert XLTM to XLT format in C++ code. Save XLTM as XLT using C++.
 ---
 

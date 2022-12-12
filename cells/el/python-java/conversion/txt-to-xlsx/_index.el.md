@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή TXT σε XLSX μέσω Python
-url: /el/python-java/conversion/txt-to-xlsx/
+
 description: Δείγμα κώδικα για μετατροπή txt σε xlsx Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδική μετατροπή αρχείων txt σε xlsx εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

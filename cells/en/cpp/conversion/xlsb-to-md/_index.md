@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to MD via C++
-url: /cpp/conversion/xlsb-to-md/
+
 description: Convert XLSB to MD format in C++ code. Save XLSB as MD using C++.
 ---
 

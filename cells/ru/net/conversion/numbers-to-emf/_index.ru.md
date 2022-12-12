@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование NUMBERS в EMF через C#
-url: /ru/net/conversion/numbers-to-emf/
+
 description: Пример кода для преобразования чисел в emf C#. Используйте пример кода API для преобразования файлов номеров пакетов в ЭДС в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést NUMBERS na GIF prostřednictvím Python
-url: /cs/python-java/conversion/numbers-to-gif/
+
 description: Ukázkový kód pro převod čísel na gif Python. Použijte API ukázkový kód pro dávkové soubory čísel na převod GIF v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

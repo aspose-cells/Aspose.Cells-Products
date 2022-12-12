@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLTM konvertálása DOCX-re a következőn keresztül: C#"
-url: /hu/net/conversion/xltm-to-docx/
+
 description: Mintakód az xltm–docx C# konverzióhoz. Használjon API példakódot kötegelt xltm fájlok docx konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

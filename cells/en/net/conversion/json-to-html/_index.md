@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to HTML via C#
-url: /net/conversion/json-to-html/
+
 description: Convert JSON to HTML format in C# code. Save JSON as HTML using VB.NET, Asp.NET or any .NET based application.
 ---
 

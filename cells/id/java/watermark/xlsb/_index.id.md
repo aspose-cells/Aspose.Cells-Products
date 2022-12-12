@@ -1,7 +1,7 @@
-﻿---
+---
 title: Dokumen XLSB tanda air melalui Java 
 weight: 5900
-url: /id/java/watermark/xlsb/ 
+
 description: Java contoh kode untuk menambah atau menghapus tanda air ke file XLSB di Java Runtime Environment untuk Aplikasi JSP/JSF dan Aplikasi Desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

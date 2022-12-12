@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversikan XLSM ke XLTX melalui Java 
 weight: 7030
-url: /id/java/conversion/xlsm-to-xltx/ 
+
 description: Contoh Java kode konversi untuk format XLSM ke file XLTX. Pemrogram dapat menggunakan kode contoh ini untuk mengekspor spreadsheet Excel & OpenOffice ke XLTX dalam Aplikasi berbasis Web atau Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: HTML Dosyalarını .NET ile Birleştir 
 weight: 9440
-url: /tr/net/merger/html/ 
+
 description: .NET Framework, .NET Core, Mono veya Xamarin Platformlarında HTML belgelerini birleştirmek için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή XLS σε JSON μέσω Python
-url: /el/python-java/conversion/xls-to-json/
+
 description: Δείγμα κώδικα για μετατροπή xls σε json Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία xls σε μετατροπή json εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

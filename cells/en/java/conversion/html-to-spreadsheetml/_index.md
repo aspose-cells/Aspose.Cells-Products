@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to SPREADSHEETML via Java 
-url: /java/conversion/html-to-spreadsheetml/
+
 description: Convert HTML to SPREADSHEETML format in Java code. Save HTML as SPREADSHEETML using Java.
 ---
 

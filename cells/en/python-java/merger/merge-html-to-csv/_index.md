@@ -1,6 +1,6 @@
 ---
 title: Merge HTML to CSV Files via Python 
-url: /python-java/merger/merge-html-to-csv/ 
+
 description: Merge HTML to CSV file in Python code. Combine HTML to CSV file using Python.
 ---
 

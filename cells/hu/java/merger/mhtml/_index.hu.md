@@ -1,7 +1,7 @@
-﻿---
+---
 title: "MHTML-fájlok egyesítése a következőn keresztül: Java "
 weight: 4420
-url: /hu/java/merger/mhtml/ 
+
 description: Java mintakód az MHTML dokumentumok kombinálásához a Java Runtime Environment for JSP/JSF Applications and Desktop Applications rendszerben.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

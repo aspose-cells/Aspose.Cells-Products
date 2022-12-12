@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή SPREADSHEETML σε TABDELIMITED μέσω C#
-url: /el/net/conversion/spreadsheetml-to-tabdelimited/
+
 description: Δείγμα κώδικα για μετατροπή υπολογιστικών φύλλων ml σε οριοθετημένη καρτέλα C#. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία υπολογιστικών φύλλων ml σε μετατροπή οριοθετημένης καρτέλας εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

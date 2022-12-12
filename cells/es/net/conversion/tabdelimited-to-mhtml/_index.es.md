@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta TABDELIMITED a MHTML a través de C#
-url: /es/net/conversion/tabdelimited-to-mhtml/
+
 description: Código de ejemplo para la conversión delimitada por tabulaciones a mhtml C#. Utilice el código de ejemplo API para la conversión por lotes de archivos delimitados por tabuladores a mhtml dentro de VB.NET, Asp.NET o cualquier aplicación basada en .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

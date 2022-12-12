@@ -1,7 +1,7 @@
-﻿---
+---
 title: สร้างรายงานในไฟล์ ODS ผ่าน Java 
 weight: 2440
-url: /th/java/assembly/ods/ 
+
 description: Java ตัวอย่างโค้ดเพื่อสร้างรายงานรูปแบบ ODS บน Java Runtime Environment สำหรับแอปพลิเคชัน JSP/JSF และแอปพลิเคชันเดสก์ท็อป
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

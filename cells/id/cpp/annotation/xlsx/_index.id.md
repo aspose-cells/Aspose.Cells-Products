@@ -1,7 +1,7 @@
-﻿---
+---
 title: Tambahkan Anotasi XLSX melalui C++ 
 weight: 5260
-url: /id/cpp/annotation/xlsx/ 
+
 description: C++ contoh kode untuk menambah atau menghapus anotasi format XLSX pada C++ Runtime Environment untuk Windows 32 bit, Windows 64 bit, dan Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

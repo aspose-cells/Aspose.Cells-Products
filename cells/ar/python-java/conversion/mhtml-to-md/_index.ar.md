@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل MHTML إلى MD عبر Python
-url: /ar/python-java/conversion/mhtml-to-md/
+
 description: نموذج رمز للتحويل من mhtml إلى md Python. استخدم API رمز المثال لملفات mhtml الدفعية لتحويل md داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

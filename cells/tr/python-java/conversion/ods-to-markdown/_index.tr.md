@@ -1,6 +1,6 @@
-﻿---
+---
 title: ODS'yi Python üzerinden MARKDOWN'a dönüştürün
-url: /tr/python-java/conversion/ods-to-markdown/
+
 description: Python dönüşümünü azaltmak için ods için örnek kod. Python uygulamasında dönüştürmeyi azaltmak için toplu ods dosyaları için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

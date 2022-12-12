@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLTX konvertálása MD-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/xltx-to-md/
+
 description: Mintakód az xltx–md Python konverzióhoz. Használjon API példakódot a kötegelt xltx fájlok md konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "NUMBERS konvertálása XLSM-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/numbers-to-xlsm/
+
 description: Mintakód a számok xlsm Python konverziójához. Használjon API példakódot a kötegszámfájlok xlsm konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

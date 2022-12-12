@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to GIF via Python
-url: /python-java/conversion/fods-to-gif/
+
 description: Convert FODS to GIF format in Python code. Save FODS as GIF using Python.
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: تقسيم ملفات XLSX عبر .NET 
 weight: 1350
-url: /ar/net/splitter/xlsx/ 
+
 description: C# شفرة المصدر لتقسيم مستندات XLSX على .NET Framework أو .NET Core أو Mono أو أنظمة Xamarin الأساسية.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

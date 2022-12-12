@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte CSV na MD pomocí aplikace C++ 
-url: /cs/cpp/conversion/csv-to-md/ 
+
 description: Ukázka převodního kódu C++ pro dokument CSV na formát MD. Programátoři mohou použít tento zdrojový kód pro dávkový převod CSV na MD v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

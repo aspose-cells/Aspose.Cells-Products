@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή SPREADSHEETML σε TIFF μέσω Python
-url: /el/python-java/conversion/spreadsheetml-to-tiff/
+
 description: Δείγμα κώδικα για τη μετατροπή υπολογιστικών φύλλων ml σε tiff Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία υπολογιστικών φύλλων ml για να ρυθμίσετε τη μετατροπή εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

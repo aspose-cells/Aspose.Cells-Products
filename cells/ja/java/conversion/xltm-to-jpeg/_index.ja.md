@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してXLTMをJPEGに変換します 
 weight: 2450
-url: /ja/java/conversion/xltm-to-jpeg/ 
+
 description: XLTM形式からJPEGファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、任意のWebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをJPEGにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

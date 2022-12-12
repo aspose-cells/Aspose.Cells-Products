@@ -1,6 +1,6 @@
 ---
 title: Convert XLTM to PDF via C++
-url: /cpp/conversion/xltm-to-pdf/
+
 description: Convert XLTM to PDF format in C++ code. Save XLTM as PDF using C++.
 ---
 

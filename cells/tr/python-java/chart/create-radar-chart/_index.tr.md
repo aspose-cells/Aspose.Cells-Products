@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python üzerinden Radar Grafikleri oluşturun
-url: /tr/python-java/create-radar-chart/
+
 description: Python Python Kitaplığı kullanarak Excel'de Radar çizelgeleri oluşturmak için örnek kod. Python tabanlı uygulama içinde MS Excel'e bir Radar grafiği oluşturmak için bu kodu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

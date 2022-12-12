@@ -1,7 +1,7 @@
-﻿---
+---
 title: Proteja y bloquee el documento ODS a través de .NET 
 weight: 5580
-url: /es/net/protect/ods/ 
+
 description: C# código fuente para bloquear el archivo ODS con contraseña en .NET Framework, .NET Core, Mono o Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

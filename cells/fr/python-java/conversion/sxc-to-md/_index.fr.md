@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir SXC en MD via Python
-url: /fr/python-java/conversion/sxc-to-md/
+
 description: Exemple de code pour la conversion sxc en md Python. Utilisez l'exemple de code API pour la conversion par lots de fichiers sxc en md dans l'application Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

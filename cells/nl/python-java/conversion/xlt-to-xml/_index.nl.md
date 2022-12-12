@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLT naar XML via Python
-url: /nl/python-java/conversion/xlt-to-xml/
+
 description: Voorbeeldcode voor xlt naar xml Python conversie. Gebruik API voorbeeldcode voor batch-xlt-bestanden naar xml-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

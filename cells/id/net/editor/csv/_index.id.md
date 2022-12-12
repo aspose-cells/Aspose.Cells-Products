@@ -1,6 +1,6 @@
-﻿---
+---
 title: Edit file CSV melalui .NET 
-url: /id/net/editor/csv/ 
+
 description: C# kode sumber untuk mengedit dokumen CSV pada .NET Framework, .NET Core, Windows Azure, Mono atau Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

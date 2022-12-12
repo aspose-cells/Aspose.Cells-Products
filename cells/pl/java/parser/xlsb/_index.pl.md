@@ -1,7 +1,7 @@
-﻿---
+---
 title: Wyodrębnij tekst i obrazy z dokumentu XLSB za pomocą Java 
 weight: 440
-url: /pl/java/parser/xlsb/ 
+
 description: Java przykładowy kod do wyodrębniania tekstu i obrazów z pliku XLSB w Java środowisku wykonawczym dla aplikacji JSP/JSF i aplikacji komputerowych.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

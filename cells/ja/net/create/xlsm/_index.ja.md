@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してMSExcelXLSMファイルを作成する 
-url: /ja/net/create-xlsm/ 
+
 description: C#XLSMドキュメントを生成するためのサンプルコード。このコードを使用して、VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内にMSExcelXLSMファイルを作成します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

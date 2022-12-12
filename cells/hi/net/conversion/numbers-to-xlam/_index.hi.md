@@ -1,6 +1,6 @@
-﻿---
+---
 title: NUMBERS को C# के द्वारा XLAM में बदलें
-url: /hi/net/conversion/numbers-to-xlam/
+
 description: xlam C# रूपांतरण में संख्याओं के लिए नमूना कोड। VB.NET, Asp.NET या किसी .NET आधारित एप्लिकेशन के भीतर बैच संख्या फ़ाइलों को xlam रूपांतरण में API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

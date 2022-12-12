@@ -1,6 +1,6 @@
-﻿---
+---
 title: Создание файлов CSV через Java 
-url: /ru/java/create-csv/ 
+
 description: Java Пример кода для создания CSV-документов. Используйте этот код для создания CSV-файлов в настольном или веб-приложении на основе Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

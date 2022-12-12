@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#経由でTSVをXLSMに変換
-url: /ja/net/conversion/tsv-to-xlsm/
+
 description: tsvからxlsmC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチtsvファイルからxlsmへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

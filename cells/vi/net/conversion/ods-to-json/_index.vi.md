@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi ODS sang JSON qua C#
-url: /vi/net/conversion/ods-to-json/
+
 description: Mã mẫu cho chuyển đổi ods sang json C#. Sử dụng API mã mẫu cho các tệp ods hàng loạt để chuyển đổi json trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

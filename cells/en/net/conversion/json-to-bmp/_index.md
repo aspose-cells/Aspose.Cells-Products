@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to BMP via C#
-url: /net/conversion/json-to-bmp/
+
 description: Convert JSON to BMP format in C# code. Save JSON as BMP using VB.NET, Asp.NET or any .NET based application.
 ---
 

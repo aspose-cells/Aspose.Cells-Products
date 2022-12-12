@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converti SPREADSHEETML in MARKDOWN tramite Python
-url: /it/python-java/conversion/spreadsheetml-to-markdown/
+
 description: Codice di esempio per spreadsheetml per ridurre la conversione Python. Usa API codice di esempio per file batch spreadsheetml per ridurre la conversione all'interno dell'applicazione Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

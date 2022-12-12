@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ 애플리케이션을 통해 XLSX를 XPS로 변환 
 weight: 1880
-url: /ko/cpp/conversion/xlsx-to-xps/ 
+
 description: XLSX 문서를 XPS 형식으로 변환하는 샘플 C++ 변환 코드. 프로그래머는 이 소스 코드를 사용하여 모든 C++ 애플리케이션 내에서 일괄 XLSX에서 XPS로 변환할 수 있습니다.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

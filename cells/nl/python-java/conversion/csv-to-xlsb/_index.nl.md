@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer CSV naar XLSB via Python
-url: /nl/python-java/conversion/csv-to-xlsb/
+
 description: Voorbeeldcode voor conversie van csv naar xlsb Python. Gebruik API voorbeeldcode voor batch-csv-bestanden naar xlsb-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

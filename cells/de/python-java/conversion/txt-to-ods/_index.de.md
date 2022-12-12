@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie TXT in ODS über Python
-url: /de/python-java/conversion/txt-to-ods/
+
 description: Beispielcode für die Umwandlung von txt in ods Python. Verwenden Sie API Beispielcode für die Batch-Konvertierung von TXT-Dateien in ODS innerhalb der Anwendung Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

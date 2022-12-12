@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera XLT till EMF via applikationen C++ 
-url: /sv/cpp/conversion/xlt-to-emf/ 
+
 description: Exempel på C++-konverteringskod för XLT-dokument till EMF-format. Programmerare kan använda den här källkoden för batchkonvertering av XLT till EMF inom alla C++-program.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

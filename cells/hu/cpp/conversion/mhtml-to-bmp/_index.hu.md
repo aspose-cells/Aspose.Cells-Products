@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertálja az MHTML-t BMP-vé a(z) C++ alkalmazáson keresztül 
 weight: 1020
-url: /hu/cpp/conversion/mhtml-to-bmp/ 
+
 description: Minta C++ konverziós kód MHTML dokumentumhoz BMP formátumba. A programozók ezt a forráskódot használhatják az MHTML-ből BMP-be kötegelt konvertáláshoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

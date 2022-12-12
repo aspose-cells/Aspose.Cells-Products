@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLSX na MD přes Python
-url: /cs/python-java/conversion/xlsx-to-md/
+
 description: Ukázkový kód pro převod xlsx na md Python. Použijte API ukázkový kód pro dávkový převod souborů xlsx na MD v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

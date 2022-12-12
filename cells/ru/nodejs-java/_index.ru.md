@@ -1,7 +1,7 @@
-﻿---
+---
 title: API-интерфейсы Node.js для электронных таблиц Excel — Aspose 
 weight: 3120
-url: /ru/nodejs-java/ 
+
 description: Обработка форматов файлов Excel с помощью библиотеки Node.js. Чтение, запись, рендеринг и преобразование XLS XLSX XLSB XLTX XLTM XLSM XML ODS CSV и других форматов с помощью Node.js в Windows, macOS и Linux
 ---
 {{< blocks/products/pf/main-wrap-class >}}

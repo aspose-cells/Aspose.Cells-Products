@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してXLTをSVGに変換します
-url: /ja/python-java/conversion/xlt-to-svg/
+
 description: xltからsvgPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチxltファイルからsvgへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

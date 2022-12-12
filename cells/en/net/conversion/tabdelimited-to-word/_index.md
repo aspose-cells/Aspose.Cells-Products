@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to WORD via C#
-url: /net/conversion/tabdelimited-to-word/
+
 description: Convert TABDELIMITED to WORD format in C# code. Save TABDELIMITED as WORD using VB.NET, Asp.NET or any .NET based application.
 ---
 

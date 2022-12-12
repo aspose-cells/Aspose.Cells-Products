@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python के माध्यम से CSV को PDF में बदलें
-url: /hi/python-java/conversion/csv-to-pdf/
+
 description: सीएसवी से पीडीएफ़ Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर बैच सीएसवी फाइलों से पीडीएफ रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

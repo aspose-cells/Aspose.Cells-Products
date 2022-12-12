@@ -1,7 +1,7 @@
 ---
 title: View TSV File Formats via .NET 
 weight: 3090
-url: /net/viewer/tsv/ 
+
 description: C# source code to load, render and display TSV documents on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

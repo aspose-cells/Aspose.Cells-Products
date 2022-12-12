@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést TSV na TXT prostřednictvím Java 
 weight: 2320
-url: /cs/java/conversion/tsv-to-txt/ 
+
 description: Ukázka převodního kódu Java pro formát TSV na soubor TXT. Programátoři mohou tento příklad kódu použít k exportu tabulek Excelu a OpenOffice do TXT v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

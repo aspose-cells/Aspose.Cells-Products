@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLTX naar SPREADSHEETML via Java 
-url: /nl/java/conversion/xltx-to-spreadsheetml/ 
+
 description: Voorbeeld Java conversiecode voor XLTX-indeling naar SPREADSHEETML-bestand. Programmeurs kunnen deze voorbeeldcode gebruiken om Excel- en OpenOffice-spreadsheets te exporteren naar SPREADSHEETML binnen elke web- of desktoptoepassing Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

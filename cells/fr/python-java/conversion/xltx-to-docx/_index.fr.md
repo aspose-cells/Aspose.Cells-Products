@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir XLTX en DOCX via Python
-url: /fr/python-java/conversion/xltx-to-docx/
+
 description: Exemple de code pour la conversion xltx vers docx Python. Utilisez l'exemple de code API pour la conversion par lots de fichiers xltx en docx dans l'application Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Wandeln Sie SPREADSHEETML über C# in TSV um
-url: /de/net/conversion/spreadsheetml-to-tsv/
+
 description: Beispielcode für die Umwandlung von Spreadsheetml in TSV C#. Verwenden Sie API Beispielcode für die Batch-Tabellenkalkulation von ml-Dateien in tsv-Konvertierung innerhalb von VB.NET, Asp.NET oder einer beliebigen .NET-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

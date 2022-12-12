@@ -1,7 +1,7 @@
-﻿---
+---
 title: Prohledejte dokument CSV bez otevření prostřednictvím C++ 
 weight: 5540
-url: /cs/cpp/search/csv/ 
+
 description: C++ ukázkový kód pro vyhledávání slov se vzorem v souboru CSV v C++ Runtime Environment pro Windows 32bitový, Windows 64bitový a Linux 64bitový.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

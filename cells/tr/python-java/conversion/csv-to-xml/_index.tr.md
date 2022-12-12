@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla CSV'yi XML'e dönüştürün
-url: /tr/python-java/conversion/csv-to-xml/
+
 description: csv'den xml'ye Python dönüştürme için örnek kod. Python uygulamasında toplu csv dosyalarından xml'ye dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

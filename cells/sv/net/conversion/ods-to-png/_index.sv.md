@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera ODS till PNG via C#
-url: /sv/net/conversion/ods-to-png/
+
 description: Exempelkod för konvertering av ods till png C#. Använd API exempelkod för batch-ods-filer till png-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

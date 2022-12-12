@@ -1,7 +1,7 @@
-﻿---
+---
 title: Αναζήτηση εγγράφου TXT χωρίς άνοιγμα μέσω Java 
 weight: 1200
-url: /el/java/search/txt/ 
+
 description: Java δείγμα κώδικα για αναζήτηση λέξεων με μοτίβο σε αρχείο TXT στο Java Περιβάλλον χρόνου εκτέλεσης για εφαρμογές JSP/JSF και εφαρμογές επιφάνειας εργασίας.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

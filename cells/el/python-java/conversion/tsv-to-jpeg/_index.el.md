@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή TSV σε JPEG μέσω Python
-url: /el/python-java/conversion/tsv-to-jpeg/
+
 description: Δείγμα κώδικα για μετατροπή tsv σε jpeg Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδική μετατροπή αρχείων tsv σε jpeg εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

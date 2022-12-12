@@ -1,7 +1,7 @@
-﻿---
+---
 title: Tambahkan Anotasi ODS melalui C++ 
 weight: 8840
-url: /id/cpp/annotation/ods/ 
+
 description: C++ contoh kode untuk menghapus anotasi format ODS pada C++ Runtime Environment untuk Windows 32 bit, Windows 64 bit, dan Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer MHTML naar XLSB via Python
-url: /nl/python-java/conversion/mhtml-to-xlsb/
+
 description: Voorbeeldcode voor conversie van mhtml naar xlsb Python. Gebruik API voorbeeldcode voor batch-mhtml-bestanden naar xlsb-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

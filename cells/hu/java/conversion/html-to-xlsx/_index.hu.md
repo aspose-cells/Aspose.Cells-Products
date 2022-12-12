@@ -1,7 +1,7 @@
-﻿---
+---
 title: "HTML konvertálása XLSX-re a következőn keresztül: Java "
 weight: 6000
-url: /hu/java/conversion/html-to-xlsx/ 
+
 description: Minta Java konverziós kód HTML formátumhoz XLSX fájllá. A programozók ezt a példakódot használhatják Excel és OpenOffice táblázatok XLSX formátumba exportálására bármely web- vagy asztali Java alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

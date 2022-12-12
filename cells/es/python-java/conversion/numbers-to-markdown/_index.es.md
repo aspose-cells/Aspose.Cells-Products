@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta NUMBERS a MARKDOWN a través de Python
-url: /es/python-java/conversion/numbers-to-markdown/
+
 description: Ejemplo de código para conversión de números para rebajar Python. Use el código de ejemplo API para archivos de números de lote para reducir la conversión dentro de la aplicación Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

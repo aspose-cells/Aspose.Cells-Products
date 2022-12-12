@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan XLT ke JPEG melalui C#
-url: /id/net/conversion/xlt-to-jpeg/
+
 description: Contoh kode untuk konversi xlt ke jpeg C#. Gunakan API kode contoh untuk file batch xlt ke jpeg konversi dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie XLSM in PDF über Python
-url: /de/python-java/conversion/xlsm-to-pdf/
+
 description: Beispielcode für die Umwandlung von xlsm in pdf Python. Verwenden Sie API Beispielcode für die Batch-Konvertierung von xlsm-Dateien in PDF innerhalb der Anwendung Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

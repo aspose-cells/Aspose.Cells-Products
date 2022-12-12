@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή NUMBERS σε TXT μέσω Python
-url: /el/python-java/conversion/numbers-to-txt/
+
 description: Δείγμα κώδικα για μετατροπή αριθμών σε txt Python. Χρησιμοποιήστε API παράδειγμα κώδικα για αρχεία αριθμών παρτίδας σε μετατροπή txt εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

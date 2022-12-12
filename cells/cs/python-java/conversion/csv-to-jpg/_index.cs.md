@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést CSV na JPG prostřednictvím Python
-url: /cs/python-java/conversion/csv-to-jpg/
+
 description: Ukázkový kód pro převod csv na jpg Python. Použijte API ukázkový kód pro dávkový převod souborů csv na jpg v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

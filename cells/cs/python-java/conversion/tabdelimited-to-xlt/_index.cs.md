@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TABDELIMITED na XLT přes Python
-url: /cs/python-java/conversion/tabdelimited-to-xlt/
+
 description: Ukázkový kód pro převod tabdelimited na xlt Python. Použijte API ukázkový kód pro dávkový převod souborů oddělených tabulátory na xlt v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

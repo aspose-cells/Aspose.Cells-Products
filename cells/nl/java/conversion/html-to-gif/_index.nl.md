@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer HTML naar GIF via Java 
 weight: 3180
-url: /nl/java/conversion/html-to-gif/ 
+
 description: Voorbeeld Java conversiecode voor HTML-indeling naar GIF-bestand. Programmeurs kunnen deze voorbeeldcode gebruiken om Excel- en OpenOffice-spreadsheets naar GIF te exporteren binnen elke web- of desktoptoepassing Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

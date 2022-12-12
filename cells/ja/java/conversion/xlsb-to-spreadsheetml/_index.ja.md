@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してXLSBをSPREADSHEETMLに変換します 
-url: /ja/java/conversion/xlsb-to-spreadsheetml/ 
+
 description: XLSB形式のサンプルJava変換コードからSPREADSHEETMLファイルへ。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のSPREADSHEETMLにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

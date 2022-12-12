@@ -1,7 +1,7 @@
-﻿---
+---
 title: Genera rapporti in file XLSM tramite Java 
 weight: 270
-url: /it/java/assembly/xlsm/ 
+
 description: Java codice di esempio per creare report in formato XLSM su Java Runtime Environment per applicazioni JSP/JSF e applicazioni desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

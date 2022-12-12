@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést NUMBERS na ODS přes Python
-url: /cs/python-java/conversion/numbers-to-ods/
+
 description: Ukázkový kód pro převod čísel na ods Python. Použijte API ukázkový kód pro konverzi souborů s čísly dávek na ODS v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

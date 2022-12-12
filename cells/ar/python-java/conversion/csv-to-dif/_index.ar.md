@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل CSV إلى DIF عبر Python
-url: /ar/python-java/conversion/csv-to-dif/
+
 description: نموذج رمز لتحويل CSV إلى DIF Python. استخدم API مثال الكود لملفات csv المجمعة لتحويل ديف داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

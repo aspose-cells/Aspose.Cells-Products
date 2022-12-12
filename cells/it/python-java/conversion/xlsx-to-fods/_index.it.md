@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converti XLSX in FODS tramite Python
-url: /it/python-java/conversion/xlsx-to-fods/
+
 description: Codice di esempio per la conversione da xlsx a fods Python. Usa API codice di esempio per la conversione batch di file xlsx in fods all'interno dell'applicazione Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

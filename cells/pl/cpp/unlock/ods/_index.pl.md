@@ -1,7 +1,7 @@
-﻿---
+---
 title: Odblokuj dokument ODS przez C++ 
 weight: 1190
-url: /pl/cpp/unlock/ods/ 
+
 description: C++ przykładowy kod odblokowujący chroniony hasłem plik ODS w C++ środowisku wykonawczym dla 32-bitowego systemu Windows, 64-bitowego systemu Windows i 64-bitowego systemu Linux.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

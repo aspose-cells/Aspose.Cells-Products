@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή SPREADSHEETML σε XPS μέσω Python
-url: /el/python-java/conversion/spreadsheetml-to-xps/
+
 description: Δείγμα κώδικα για μετατροπή υπολογιστικού φύλλου σε xps Python. Χρησιμοποιήστε API παράδειγμα κώδικα για μαζική μετατροπή αρχείων υπολογιστικού φύλλου σε xps εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

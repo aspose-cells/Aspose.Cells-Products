@@ -1,6 +1,6 @@
-﻿---
+---
 title: "FODS konvertálása BMP-vé a következőn keresztül: C#"
-url: /hu/net/conversion/fods-to-bmp/
+
 description: Mintakód a fod to bmp C# konverziójához. Használjon API példakódot kötegelt fod fájlokhoz a bmp konverzióhoz VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

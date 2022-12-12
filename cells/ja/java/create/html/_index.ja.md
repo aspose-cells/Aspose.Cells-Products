@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してHTMLファイルを作成する 
-url: /ja/java/create-html/ 
+
 description: JavaHTMLドキュメントを生成するためのサンプルコード。このコードを使用して、JavaベースのデスクトップまたはWebアプリケーション内でHTMLファイルを作成します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

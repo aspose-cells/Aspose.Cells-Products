@@ -1,6 +1,6 @@
-﻿---
+---
 title: FODS'u Python aracılığıyla PDF'ye dönüştürün
-url: /tr/python-java/conversion/fods-to-pdf/
+
 description: Yemleri pdf'ye Python dönüştürmek için örnek kod. Python uygulamasında toplu dosya dosyalarını pdf'ye dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

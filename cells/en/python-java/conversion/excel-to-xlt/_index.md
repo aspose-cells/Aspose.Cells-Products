@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to XLT via Python
-url: /python-java/conversion/excel-to-xlt/
+
 description: Convert EXCEL to XLT format in Python code. Save EXCEL as XLT using Python.
 ---
 

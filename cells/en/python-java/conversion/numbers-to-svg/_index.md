@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to SVG via Python
-url: /python-java/conversion/numbers-to-svg/
+
 description: Convert NUMBERS to SVG format in Python code. Save NUMBERS as SVG using Python.
 ---
 

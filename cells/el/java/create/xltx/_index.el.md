@@ -1,6 +1,6 @@
-﻿---
+---
 title: Δημιουργία αρχείων MS Excel XLTX μέσω Java 
-url: /el/java/create-xltx/ 
+
 description: Java Δείγμα κώδικα για τη δημιουργία εγγράφων XLTX. Χρησιμοποιήστε αυτόν τον κώδικα για τη δημιουργία αρχείων MS Excel XLTX σε εφαρμογή υπολογιστή ή web που βασίζεται σε Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

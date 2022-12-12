@@ -1,7 +1,7 @@
-﻿---
+---
 title: Gere relatórios em arquivos XLSB via Java 
 weight: 3560
-url: /pt/java/assembly/xlsb/ 
+
 description: Java código de amostra para criar relatórios em formato XLSB no Java ambiente de tempo de execução para aplicativos JSP/JSF e aplicativos de desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

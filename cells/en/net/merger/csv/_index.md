@@ -1,7 +1,7 @@
 ---
 title: Merge CSV Files via .NET 
 weight: 6450
-url: /net/merger/csv/ 
+
 description: C# source code to combine CSV documents on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

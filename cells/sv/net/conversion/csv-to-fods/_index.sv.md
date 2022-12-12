@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera CSV till FODS via C#
-url: /sv/net/conversion/csv-to-fods/
+
 description: Exempelkod för konvertering från csv till fods C#. Använd API exempelkod för batch-csv-filer för att ge konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

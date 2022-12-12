@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してTSVをMARKDOWNに変換します
-url: /ja/python-java/conversion/tsv-to-markdown/
+
 description: tsvからマークダウンPythonへの変換のサンプルコード。バッチtsvファイルのAPIサンプルコードを使用して、Pythonアプリケーション内で変換をマークダウンします。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python을(를) 통해 XLTM을 TABDELIMITED로 변환
-url: /ko/python-java/conversion/xltm-to-tabdelimited/
+
 description: xltm에서 탭으로 구분된 Python 변환을 위한 샘플 코드입니다. 배치 xltm 파일에 대한 API 예제 코드를 Python 애플리케이션 내에서 탭으로 구분된 변환으로 사용하십시오.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Créer des fichiers MS Excel XLSM via Python 
-url: /fr/python-java/create-xlsm/ 
+
 description: Python Exemple de code pour générer des documents XLSM. Utilisez ce code pour créer des fichiers MS Excel XLSM dans l'application Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

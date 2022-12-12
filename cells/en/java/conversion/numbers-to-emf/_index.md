@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to EMF via Java 
-url: /java/conversion/numbers-to-emf/
+
 description: Convert NUMBERS to EMF format in Java code. Save NUMBERS as EMF using Java.
 ---
 

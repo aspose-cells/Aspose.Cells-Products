@@ -1,7 +1,7 @@
-﻿---
+---
 title: Αναζήτηση και αντικατάσταση κειμένου σε έγγραφο XLS μέσω Java 
 weight: 7900
-url: /el/java/redaction/xls/ 
+
 description: Java δείγμα κώδικα για τη διόρθωση ευαίσθητων πληροφοριών σε αρχείο XLS στο Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

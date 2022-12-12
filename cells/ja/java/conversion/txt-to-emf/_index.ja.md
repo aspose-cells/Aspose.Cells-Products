@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してTXTをEMFに変換します 
 weight: 4570
-url: /ja/java/conversion/txt-to-emf/ 
+
 description: TXT形式からEMFファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のEMFにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

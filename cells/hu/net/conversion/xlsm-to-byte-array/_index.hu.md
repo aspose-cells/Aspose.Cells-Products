@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Konvertálja az XLSM-et bájttömbbé a következőn keresztül: C# "
 weight: 7690
-url: /hu/net/conversion/xlsm-to-byte-array/ 
+
 description: C# Mintakód az XLSM-ből byte Array konvertáláshoz. Használja ezt a kódot az Excel XLSM–Bájttömb konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazásban.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

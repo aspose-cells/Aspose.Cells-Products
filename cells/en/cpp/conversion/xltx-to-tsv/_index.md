@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to TSV via C++
-url: /cpp/conversion/xltx-to-tsv/
+
 description: Convert XLTX to TSV format in C++ code. Save XLTX as TSV using C++.
 ---
 

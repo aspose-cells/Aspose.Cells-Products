@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してTABDELIMITEDをSXCに変換します
-url: /ja/python-java/conversion/tabdelimited-to-sxc/
+
 description: tabdelimitedからsxcPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチタブ区切りファイルからsxcへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

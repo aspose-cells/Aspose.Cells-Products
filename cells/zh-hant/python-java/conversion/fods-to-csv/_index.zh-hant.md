@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 Python 將 FODS 轉換為 CSV
-url: /zh-hant/python-java/conversion/fods-to-csv/
+
 description: fods 到 csv Python 轉換的示例代碼。在 Python 應用程序中使用 API 示例代碼將 fods 文件批量轉換為 csv。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "JSON konvertálása XLTX-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/json-to-xltx/
+
 description: Mintakód a json–xltx Python konverzióhoz. Használjon API példakódot a kötegelt json fájlok xltx konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

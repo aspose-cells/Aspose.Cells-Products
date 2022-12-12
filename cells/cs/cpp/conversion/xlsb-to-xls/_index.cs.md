@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převeďte XLSB na XLS pomocí aplikace C++ 
 weight: 4690
-url: /cs/cpp/conversion/xlsb-to-xls/ 
+
 description: Ukázkový konverzní kód C++ pro dokument XLSB na formát XLS. Programátoři mohou použít tento zdrojový kód pro dávkovou konverzi XLSB na XLS v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

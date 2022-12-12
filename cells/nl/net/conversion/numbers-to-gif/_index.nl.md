@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer NUMMERS naar GIF via C#
-url: /nl/net/conversion/numbers-to-gif/
+
 description: Voorbeeldcode voor conversie van getallen naar gif C#. Gebruik API voorbeeldcode voor batchnummerbestanden naar gif-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

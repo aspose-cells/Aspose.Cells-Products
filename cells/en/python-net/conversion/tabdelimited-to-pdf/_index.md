@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to PDF via Python
-url: /python-net/conversion/tabdelimited-to-pdf/
+
 description: Sample code for tabdelimited to pdf Python conversion. Use API example code for batch tabdelimited files to pdf conversion within Python application.
 ---
 

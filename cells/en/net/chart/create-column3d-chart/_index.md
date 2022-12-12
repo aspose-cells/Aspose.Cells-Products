@@ -1,6 +1,6 @@
 ---
 title: Create Column3D Charts via C#
-url: /net/create-column3d-chart/
+
 description: C# Sample code for creating Column3D charts to Excel using .NET Library. Use this code for creating a Column3D chart to MS Excel within VB.NET, Asp.NET or any .NET based application.
 
 ---

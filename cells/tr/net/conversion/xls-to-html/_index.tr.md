@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla XLS'yi HTML'ye dönüştürün
-url: /tr/net/conversion/xls-to-html/
+
 description: xls'den html'ye C# dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu xls dosyalarını html'ye dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

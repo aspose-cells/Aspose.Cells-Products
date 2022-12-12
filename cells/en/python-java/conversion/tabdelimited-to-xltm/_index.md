@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to XLTM via Python
-url: /python-java/conversion/tabdelimited-to-xltm/
+
 description: Convert TABDELIMITED to XLTM format in Python code. Save TABDELIMITED as XLTM using Python.
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converti XLSX in TSV tramite l'applicazione C++ 
 weight: 1650
-url: /it/cpp/conversion/xlsx-to-tsv/ 
+
 description: Esempio di codice di conversione C++ per il documento XLSX in formato TSV. I programmatori possono utilizzare questo codice sorgente per la conversione batch da XLSX a TSV all'interno di qualsiasi C++ Applicazione.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

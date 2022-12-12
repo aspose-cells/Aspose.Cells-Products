@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir des NUMBERS en XPS via Python
-url: /fr/python-java/conversion/numbers-to-xps/
+
 description: Exemple de code pour la conversion de nombres en xps Python. Utilisez l'exemple de code API pour les fichiers de numéros de lot en conversion xps dans l'application Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

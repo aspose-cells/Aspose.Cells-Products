@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to GIF via C#
-url: /net/conversion/mhtml-to-gif/
+
 description: Convert MHTML to GIF format in C# code. Save MHTML as GIF using VB.NET, Asp.NET or any .NET based application.
 ---
 

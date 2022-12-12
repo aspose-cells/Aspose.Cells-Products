@@ -1,6 +1,6 @@
 ---
 title: Convert XLSM to GIF via Java 
-url: /java/conversion/xlsm-to-gif/
+
 description: Convert XLSM to GIF format in Java code. Save XLSM as GIF using Java.
 ---
 

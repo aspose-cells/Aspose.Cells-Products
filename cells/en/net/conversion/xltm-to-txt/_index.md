@@ -1,6 +1,6 @@
 ---
 title: Convert XLTM to TXT via C#
-url: /net/conversion/xltm-to-txt/
+
 description: Convert XLTM to TXT format in C# code. Save XLTM as TXT using VB.NET, Asp.NET or any .NET based application.
 ---
 

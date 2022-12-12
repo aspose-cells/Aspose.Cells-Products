@@ -1,7 +1,7 @@
-﻿---
+---
 title: C#を介してXLSBをバイト配列に変換します 
 weight: 7690
-url: /ja/net/conversion/xlsb-to-byte-array/ 
+
 description: C#XLSBからバイト配列への変換のサンプルコード。このコードは、VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのExcelXLSBからバイト配列への変換に使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

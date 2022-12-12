@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to XPS via C++
-url: /cpp/conversion/json-to-xps/
+
 description: Convert JSON to XPS format in C++ code. Save JSON as XPS using C++.
 ---
 

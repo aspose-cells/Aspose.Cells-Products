@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan XLTM ke JSON melalui Python
-url: /id/python-java/conversion/xltm-to-json/
+
 description: Contoh kode untuk konversi xltm ke json Python. Gunakan API kode contoh untuk file batch xltm ke konversi json dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

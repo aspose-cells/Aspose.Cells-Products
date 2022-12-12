@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla HTML'yi CSV'ye dönüştürün
-url: /tr/python-java/conversion/html-to-csv/
+
 description: Html'den csv'ye Python dönüştürme için örnek kod. Python uygulamasında toplu html dosyalarından csv'ye dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

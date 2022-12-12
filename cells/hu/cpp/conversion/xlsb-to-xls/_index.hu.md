@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertálja az XLSB-t XLS-re a(z) C++ alkalmazáson keresztül 
 weight: 4690
-url: /hu/cpp/conversion/xlsb-to-xls/ 
+
 description: Minta C++ konverziós kód az XLSB dokumentumhoz XLS formátumba. A programozók ezt a forráskódot használhatják az XLSB-ből XLS-be kötegelt konvertáláshoz bármely C++ alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

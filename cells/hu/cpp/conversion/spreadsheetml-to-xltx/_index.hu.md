@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja a SPREADSHEETML-t XLTX-re a(z) C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/spreadsheetml-to-xltx/ 
+
 description: Minta C++ konverziós kód a SPREADSHEETML dokumentumhoz XLTX formátumba. A programozók ezt a forráskódot használhatják a SPREADSHEETML-ből XLTX-be kötegelt konvertáláshoz bármely C++ alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

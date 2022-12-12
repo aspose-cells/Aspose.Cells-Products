@@ -1,7 +1,7 @@
-﻿---
+---
 title: Agregar anotación XLSX a través de C++ 
 weight: 5260
-url: /es/cpp/annotation/xlsx/ 
+
 description: C++ código de muestra para agregar o eliminar anotaciones en formato XLSX en C++ entorno de tiempo de ejecución para Windows de 32 bits, Windows de 64 bits y Linux de 64 bits.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

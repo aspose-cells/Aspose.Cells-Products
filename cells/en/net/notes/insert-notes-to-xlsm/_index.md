@@ -1,6 +1,6 @@
 ---
 title: Insert notes to Excel XLSM file via .NET
-url: /net/notes/insert-notes-to-xlsm/ 
+
 description: Insert notes to XLSM using C#. Use API example code to insert notes within .NET application.
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通過 C++ 添加 Excel 文件 XLSB 註釋 
 weight: 860
-url: /zh-hant/cpp/annotation/xlsb/ 
+
 description: C++ 刪除 XLSB 格式註釋的示例代碼 C++ 適用於 Windows 32 位、Windows 64 位和 Linux 64 位的運行時環境。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

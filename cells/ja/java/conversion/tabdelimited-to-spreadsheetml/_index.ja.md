@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してTABDELIMITEDをSPREADSHEETMLに変換します 
-url: /ja/java/conversion/tabdelimited-to-spreadsheetml/ 
+
 description: TABDELIMITED形式のサンプルJava変換コードからSPREADSHEETMLファイルへ。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のSPREADSHEETMLにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

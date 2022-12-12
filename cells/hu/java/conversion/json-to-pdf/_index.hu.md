@@ -1,7 +1,7 @@
-﻿---
+---
 title: "JSON konvertálása PDF-be a következőn keresztül: Java "
 weight: 2950
-url: /hu/java/conversion/json-to-pdf/ 
+
 description: Minta Java konverziós kód a JSON-formátumhoz PDF-fájllá. A programozók ezt a példakódot használhatják Excel- és OpenOffice-táblázatok PDF-formátumba exportálására bármely web- vagy asztali Java-alapú alkalmazásban.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

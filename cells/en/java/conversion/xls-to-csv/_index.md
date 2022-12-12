@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to CSV via Java 
-url: /java/conversion/xls-to-csv/
+
 description: Convert XLS to CSV format in Java code. Save XLS as CSV using Java.
 ---
 

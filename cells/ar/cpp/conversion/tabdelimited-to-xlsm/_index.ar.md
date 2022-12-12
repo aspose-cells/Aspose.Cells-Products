@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TABDELIMITED إلى XLSM عبر تطبيق C++ 
-url: /ar/cpp/conversion/tabdelimited-to-xlsm/ 
+
 description: نموذج C++ رمز تحويل لمستند TABDELIMITED إلى تنسيق XLSM. يمكن للمبرمجين استخدام رمز المصدر هذا للتحويل الدفعي من TABDELIMITED إلى XLSM داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

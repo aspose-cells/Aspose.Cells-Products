@@ -1,6 +1,6 @@
-﻿---
+---
 title: स्प्रैडशीटएमएल को Python के माध्यम से मार्कडाउन में बदलें
-url: /hi/python-java/conversion/spreadsheetml-to-markdown/
+
 description: Python रूपांतरण को मार्कडाउन करने के लिए स्प्रेडशीटएमएल के लिए नमूना कोड। Python एप्लिकेशन के भीतर रूपांतरण को मार्कडाउन करने के लिए बैच स्प्रेडशीटएमएल फाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

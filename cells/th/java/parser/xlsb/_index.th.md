@@ -1,7 +1,7 @@
-﻿---
+---
 title: แยกข้อความและรูปภาพจากเอกสาร XLSB ผ่าน Java 
 weight: 440
-url: /th/java/parser/xlsb/ 
+
 description: Java โค้ดตัวอย่างเพื่อแยกข้อความและรูปภาพจากไฟล์ XLSB บน Java Runtime Environment สำหรับแอปพลิเคชัน JSP/JSF และแอปพลิเคชันเดสก์ท็อป
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

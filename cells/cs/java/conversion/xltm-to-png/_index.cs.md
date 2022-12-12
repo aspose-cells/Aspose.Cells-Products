@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést XLTM na PNG přes Java 
 weight: 7310
-url: /cs/java/conversion/xltm-to-png/ 
+
 description: Ukázka převodního kódu Java pro formát XLTM na soubor PNG. Programátoři mohou tento příklad kódu použít k exportu tabulek Excelu a OpenOffice do formátu PNG v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Twórz pliki MS Excel XLS za pomocą C++ 
-url: /pl/cpp/create-xls/ 
+
 description: C++ Przykładowy kod do generowania plików MS Excel XLS. Użyj tego kodu do tworzenia plików MS Excel XLS w aplikacji opartej na C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
 ---
 title: Remove ODS Annotation via .NET 
 weight: 7990
-url: /net/annotation/ods/ 
+
 description: C# source code to add and delete ODS format annotations on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: XLTM को C++ एप्लिकेशन के द्वारा MHTML में कनवर्ट करें 
-url: /hi/cpp/conversion/xltm-to-mhtml/ 
+
 description: नमूना C++ एक्सएलटीएम दस्तावेज़ के लिए एमएचटीएमएल प्रारूप में रूपांतरण कोड। प्रोग्रामर इस स्रोत कोड का उपयोग किसी भी C++ एप्लिकेशन में बैच XLTM से MHTML रूपांतरण के लिए कर सकते हैं।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

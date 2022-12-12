@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通過 Java 編輯或查看 XLS 文件元數據 
 weight: 730
-url: /zh-hant/java/metadata/xls/ 
+
 description: Java 用於在 Java JSP/JSF 應用程序和桌面應用程序的運行時環境中編輯或查看 XLS 格式元數據的示例代碼。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

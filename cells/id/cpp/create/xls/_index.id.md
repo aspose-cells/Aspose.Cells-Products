@@ -1,6 +1,6 @@
-﻿---
+---
 title: Buat File MS Excel XLS melalui C++ 
-url: /id/cpp/create-xls/ 
+
 description: C++ Contoh kode untuk membuat file MS Excel XLS. Gunakan kode ini untuk membuat file MS Excel XLS dalam aplikasi berbasis C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

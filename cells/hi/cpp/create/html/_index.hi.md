@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++ के द्वारा HTML फ़ाइलें बनाएं 
-url: /hi/cpp/create-html/ 
+
 description: C++ HTML फ़ाइलें जनरेट करने के लिए नमूना कोड। C++ आधारित एप्लिकेशन में HTML फ़ाइलें बनाने के लिए इस कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

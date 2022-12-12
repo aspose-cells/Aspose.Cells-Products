@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi SPREADSHEETML sang XLTX qua Python
-url: /vi/python-java/conversion/spreadsheetml-to-xltx/
+
 description: Mã mẫu cho chuyển đổi từ bảng tínhml sang xltx Python. Sử dụng API mã ví dụ cho hàng loạt tệp tin bảng tính để chuyển đổi xltx trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

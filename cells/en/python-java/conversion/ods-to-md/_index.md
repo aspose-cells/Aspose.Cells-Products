@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to MD via Python
-url: /python-java/conversion/ods-to-md/
+
 description: Convert ODS to MD format in Python code. Save ODS as MD using Python.
 ---
 

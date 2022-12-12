@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل CSV إلى JPEG عبر Java 
 weight: 7490
-url: /ar/java/conversion/csv-to-jpeg/ 
+
 description: نموذج لشفرة تحويل Java لتنسيق CSV إلى ملف JPEG. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى JPEG داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

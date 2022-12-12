@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta XLTX a XLTM a través de C#
-url: /es/net/conversion/xltx-to-xltm/
+
 description: Código de muestra para la conversión de xltx a xltm C#. Utilice el código de ejemplo API para convertir archivos xltx por lotes a xltm dentro de VB.NET, Asp.NET o cualquier aplicación basada en .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

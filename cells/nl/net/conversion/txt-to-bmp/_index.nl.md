@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer TXT naar BMP via C#
-url: /nl/net/conversion/txt-to-bmp/
+
 description: Voorbeeldcode voor conversie van txt naar bmp C#. Gebruik API voorbeeldcode voor batch txt-bestanden naar bmp-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

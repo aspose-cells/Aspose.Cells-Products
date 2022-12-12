@@ -1,6 +1,6 @@
 ---
 title: Merge XLSB to MHT Files via Python 
-url: /python-net/merger/merge-xlsb-to-mht/ 
+
 description: Merge XLSB to MHT file in Python code. Combine XLSB to MHT file using Python.
 ---
 

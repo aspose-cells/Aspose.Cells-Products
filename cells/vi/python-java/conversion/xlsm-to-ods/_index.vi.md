@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi XLSM sang ODS qua Python
-url: /vi/python-java/conversion/xlsm-to-ods/
+
 description: Mã mẫu cho chuyển đổi xlsm sang ods Python. Sử dụng mã mẫu API cho hàng loạt tệp xlsm để chuyển đổi ods trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

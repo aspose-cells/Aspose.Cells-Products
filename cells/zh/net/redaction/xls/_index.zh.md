@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通过 .NET 搜索和替换 XLS 文档中的文本 
 weight: 7280
-url: /zh/net/redaction/xls/ 
+
 description: C# 源代码，用于在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上编辑 XLS 文件中的敏感信息。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

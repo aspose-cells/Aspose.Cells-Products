@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to XLAM via Java 
-url: /java/conversion/fods-to-xlam/
+
 description: Convert FODS to XLAM format in Java code. Save FODS as XLAM using Java.
 ---
 

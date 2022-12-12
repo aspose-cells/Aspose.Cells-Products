@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++を介してPDFファイルを作成する 
-url: /ja/cpp/create-pdf/ 
+
 description: C++PDFファイルを生成するためのサンプルコード。このコードを使用して、C++ベースのアプリケーション内でPDFファイルを作成します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

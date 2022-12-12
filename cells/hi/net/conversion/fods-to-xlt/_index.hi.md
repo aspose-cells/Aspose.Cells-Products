@@ -1,6 +1,6 @@
-﻿---
+---
 title: FODS को C# के माध्यम से XLT में बदलें
-url: /hi/net/conversion/fods-to-xlt/
+
 description: फ़ॉड्स के लिए xlt C# रूपांतरण के लिए नमूना कोड। VB.NET, Asp.NET या किसी .NET आधारित एप्लिकेशन के भीतर xlt रूपांतरण के लिए बैच फोड फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή TABDELIMITED σε DIF μέσω C#
-url: /el/net/conversion/tabdelimited-to-dif/
+
 description: Δείγμα κώδικα για μετατροπή οριοθετημένη στηλοθέτη σε διαφορετική C#. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία οριοθετημένα στηλοθέτες για να διαφοροποιήσετε τη μετατροπή σε VB.NET, Asp.NET ή οποιαδήποτε εφαρμογή που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLSX konvertálása JSON formátumba a következőn keresztül: Java "
 weight: 10060
-url: /hu/java/conversion/xlsx-to-json/ 
+
 description: Minta Java konverziós kód az XLSX formátumhoz JSON-fájllá. A programozók ezt a példakódot használhatják Excel- és OpenOffice-táblázatok exportálására JSON-ba bármely web- vagy asztali Java-alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

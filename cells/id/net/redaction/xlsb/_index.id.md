@@ -1,7 +1,7 @@
-﻿---
+---
 title: Cari dan ganti teks dalam dokumen XLSB melalui .NET 
 weight: 3890
-url: /id/net/redaction/xlsb/ 
+
 description: C# kode sumber untuk menyunting informasi sensitif dalam file XLSB di .NET Framework, .NET Core, Mono atau Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

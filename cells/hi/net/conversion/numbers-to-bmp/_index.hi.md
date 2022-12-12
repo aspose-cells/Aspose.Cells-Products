@@ -1,6 +1,6 @@
-﻿---
+---
 title: NUMBERS को C# के द्वारा BMP में बदलें
-url: /hi/net/conversion/numbers-to-bmp/
+
 description: संख्या के लिए नमूना कोड bmp C# रूपांतरण के लिए। वीबी.NET, एएसपी.NET या किसी भी .NET आधारित एप्लिकेशन के भीतर बीएमपी रूपांतरण के लिए बैच नंबर फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: البحث عن نص واستبداله في مستند ODS عبر Java 
 weight: 9210
-url: /ar/java/redaction/ods/ 
+
 description: Java نموذج لرمز لتنقيح المعلومات الحساسة في ملف ODS في Java Runtime Environment لتطبيق JSP / JSF وتطبيقات سطح المكتب.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

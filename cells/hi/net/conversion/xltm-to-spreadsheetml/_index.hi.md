@@ -1,6 +1,6 @@
-﻿---
+---
 title: XLTM को C# के माध्यम से SPREADSEEETML में बदलें
-url: /hi/net/conversion/xltm-to-spreadsheetml/
+
 description: xltm से स्प्रेडशीटएमएल C# रूपांतरण के लिए नमूना कोड। VB.NET, Asp.NET या किसी .NET आधारित एप्लिकेशन के भीतर स्प्रैडशीटएमएल रूपांतरण में बैच xltm फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

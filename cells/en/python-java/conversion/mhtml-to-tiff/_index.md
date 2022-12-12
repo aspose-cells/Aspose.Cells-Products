@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to TIFF via Python
-url: /python-java/conversion/mhtml-to-tiff/
+
 description: Convert MHTML to TIFF format in Python code. Save MHTML as TIFF using Python.
 ---
 

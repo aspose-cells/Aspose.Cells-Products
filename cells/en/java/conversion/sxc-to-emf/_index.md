@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to EMF via Java 
-url: /java/conversion/sxc-to-emf/
+
 description: Convert SXC to EMF format in Java code. Save SXC as EMF using Java.
 ---
 

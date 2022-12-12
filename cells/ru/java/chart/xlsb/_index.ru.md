@@ -1,7 +1,7 @@
-﻿---
+---
 title: Диаграмма документа XLSB через Java 
 weight: 670
-url: /ru/java/chart/xlsb/ 
+
 description: Java пример кода для рисования и преобразования диаграммы или диаграммы в файл XLSB в Java среде выполнения для приложений JSP/JSF и настольных приложений.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してFODSをJPEGに変換します 
-url: /ja/java/conversion/fods-to-jpeg/ 
+
 description: FODS形式からJPEGファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、任意のWebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをJPEGにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

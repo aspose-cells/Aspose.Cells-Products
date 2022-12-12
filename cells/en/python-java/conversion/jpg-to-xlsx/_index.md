@@ -1,6 +1,6 @@
 ---
 title: Convert JPG to XLSX via Python
-url: /python-java/conversion/jpg-to-xlsx/
+
 description: Convert JPG to XLSX format in Python code. Save JPG as XLSX using Python.
 ---
 

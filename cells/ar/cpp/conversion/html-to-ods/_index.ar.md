@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل HTML إلى ODS عبر تطبيق C++ 
 weight: 4390
-url: /ar/cpp/conversion/html-to-ods/ 
+
 description: نموذج C++ رمز تحويل لمستند HTML إلى تنسيق ODS. يمكن للمبرمجين استخدام شفرة المصدر هذه لتحويل دفعة HTML إلى ODS داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

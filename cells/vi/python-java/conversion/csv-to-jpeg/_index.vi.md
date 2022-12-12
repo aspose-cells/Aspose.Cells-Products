@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi CSV sang JPEG qua Python
-url: /vi/python-java/conversion/csv-to-jpeg/
+
 description: Mã mẫu cho chuyển đổi csv sang jpeg Python. Sử dụng API mã mẫu cho hàng loạt tệp csv để chuyển đổi jpeg trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TABDELIMITED إلى HTML عبر C#
-url: /ar/net/conversion/tabdelimited-to-html/
+
 description: نموذج التعليمات البرمجية لجدولة محدودة لتحويل C# html. استخدم API رمز المثال للملفات المحددة بعلامات جدولة مجمعة لتحويل html داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

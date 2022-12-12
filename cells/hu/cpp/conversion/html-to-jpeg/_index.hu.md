@@ -1,7 +1,7 @@
-﻿---
+---
 title: HTML konvertálása JPEG formátumba a(z) C++ alkalmazással 
 weight: 7270
-url: /hu/cpp/conversion/html-to-jpeg/ 
+
 description: Minta C++ konverziós kód HTML-dokumentumhoz JPEG formátumba. A programozók ezt a forráskódot használhatják kötegelt HTML-ből JPEG-be konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

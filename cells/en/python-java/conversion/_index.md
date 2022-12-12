@@ -1,6 +1,6 @@
 ---
 title: Microsoft Excel File Conversion via Python 
-url: /python/conversion/
+
 description: Convert Excel XLS, XLSX, ODS, CSV to PDF, XPS, HTML, JPEG, HTML and many other popular formats with just few lines of Python code.
 ---
 

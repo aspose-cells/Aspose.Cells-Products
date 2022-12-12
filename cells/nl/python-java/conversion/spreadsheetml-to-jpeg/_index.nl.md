@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer SPREADSHEETML naar JPEG via Python
-url: /nl/python-java/conversion/spreadsheetml-to-jpeg/
+
 description: Voorbeeldcode voor conversie van spreadsheetml naar jpeg Python. Gebruik API voorbeeldcode voor batch-spreadsheetml-bestanden naar jpeg-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

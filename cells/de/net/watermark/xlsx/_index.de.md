@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLSX-Dokument mit Wasserzeichen über .NET 
 weight: 8270
-url: /de/net/watermark/xlsx/ 
+
 description: C#-Quellcode zum Hinzufügen oder Entfernen von Wasserzeichen zur XLSX-Datei auf .NET Framework-, .NET Core-, Mono- oder Xamarin-Plattformen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

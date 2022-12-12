@@ -1,6 +1,6 @@
-﻿---
+---
 title: "FODS konvertálása XLSX-re a következőn keresztül: C#"
-url: /hu/net/conversion/fods-to-xlsx/
+
 description: Mintakód a fod to xlsx C# konverziójához. Használjon API példakódot a kötegelt fod fájlok xlsx konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

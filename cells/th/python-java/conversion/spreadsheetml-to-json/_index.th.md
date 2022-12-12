@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง SPREADSHEETML เป็น JSON ผ่าน Python
-url: /th/python-java/conversion/spreadsheetml-to-json/
+
 description: โค้ดตัวอย่างสำหรับการแปลงสเปรดชีตml เป็น json Python ใช้โค้ดตัวอย่าง API สำหรับไฟล์แบทช์สเปรดชีตml เป็นการแปลง json ภายในแอปพลิเคชัน Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

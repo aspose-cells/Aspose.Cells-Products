@@ -1,6 +1,6 @@
-﻿---
+---
 title: Twórz wykresy Excel i konwertuj na obrazy za pomocą Java
-url: /pl/java/chart/
+
 description: Java kod źródłowy do rysowania i konwertowania wykresu lub diagramu w programie Microsoft Excel przy użyciu biblioteki Java. 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

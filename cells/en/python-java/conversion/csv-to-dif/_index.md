@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to DIF via Python
-url: /python-java/conversion/csv-to-dif/
+
 description: Convert CSV to DIF format in Python code. Save CSV as DIF using Python.
 ---
 

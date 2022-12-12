@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte XLT na XPS pomocí aplikace C++ 
-url: /cs/cpp/conversion/xlt-to-xps/ 
+
 description: Ukázka převodního kódu C++ pro dokument XLT na formát XPS. Programátoři mohou použít tento zdrojový kód pro dávkovou konverzi XLT na XPS v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

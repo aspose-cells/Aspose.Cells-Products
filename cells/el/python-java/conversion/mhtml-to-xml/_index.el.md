@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή MHTML σε XML μέσω Python
-url: /el/python-java/conversion/mhtml-to-xml/
+
 description: Δείγμα κώδικα για μετατροπή mhtml σε xml Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδική μετατροπή αρχείων mhtml σε xml εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

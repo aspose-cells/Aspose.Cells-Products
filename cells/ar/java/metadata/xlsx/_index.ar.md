@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحرير أو عرض البيانات الوصفية لملفات XLSX عبر Java 
 weight: 1240
-url: /ar/java/metadata/xlsx/ 
+
 description: Java نموذج رمز لتعديل أو عرض البيانات الوصفية بتنسيق XLSX في Java Runtime Environment لتطبيق JSP / JSF وتطبيقات سطح المكتب.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

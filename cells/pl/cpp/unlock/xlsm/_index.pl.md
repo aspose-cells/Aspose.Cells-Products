@@ -1,7 +1,7 @@
-﻿---
+---
 title: Odblokuj dokument XLSM przez C++ 
 weight: 6070
-url: /pl/cpp/unlock/xlsm/ 
+
 description: C++ przykładowy kod odblokowujący chroniony hasłem plik XLSM w C++ środowisku wykonawczym dla 32-bitowego systemu Windows, 64-bitowego systemu Windows i 64-bitowego systemu Linux.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

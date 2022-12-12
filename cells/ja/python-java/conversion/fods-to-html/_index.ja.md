@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してFODSをHTMLに変換する
-url: /ja/python-java/conversion/fods-to-html/
+
 description: fodsからhtmlPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチfodファイルからhtmlへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

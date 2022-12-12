@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل الأرقام إلى XPS عبر C#
-url: /ar/net/conversion/numbers-to-xps/
+
 description: نموذج رمز للأرقام لتحويل xps C#. استخدم API رمز المثال لملفات أرقام الدُفعات لتحويل xps داخل VB .NET أو Asp .NET أو أي تطبيق يعتمد على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

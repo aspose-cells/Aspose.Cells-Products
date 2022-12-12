@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to XLSB via C#
-url: /net/conversion/excel-to-xlsb/
+
 description: Convert EXCEL to XLSB format in C# code. Save EXCEL as XLSB using VB.NET, Asp.NET or any .NET based application.
 ---
 

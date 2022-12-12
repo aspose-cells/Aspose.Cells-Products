@@ -1,6 +1,6 @@
-﻿---
+---
 title: إنشاء ملفات MHTML عبر Java 
-url: /ar/java/create-mhtml/ 
+
 description: Java نموذج كود لإنشاء مستندات MHTML. استخدم هذا الرمز لإنشاء ملفات MHTML داخل تطبيق ويب أو سطح مكتب يستند إلى Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

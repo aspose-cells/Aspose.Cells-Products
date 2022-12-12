@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование FODS в XLTM через Java 
-url: /ru/java/conversion/fods-to-xltm/ 
+
 description: Пример кода преобразования Java для формата FODS в файл XLTM. Программисты могут использовать этот пример кода для экспорта электронных таблиц Excel и OpenOffice в формат XLTM в любом веб- или настольном Java приложении.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

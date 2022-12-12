@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja a JSON-t MD-vé a(z) C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/json-to-md/ 
+
 description: Minta C++ konverziós kód a JSON-dokumentumhoz MD formátumba. A programozók ezt a forráskódot használhatják a JSON-ból MD-be történő kötegelt konvertáláshoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

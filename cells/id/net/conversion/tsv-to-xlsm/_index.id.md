@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan TSV ke XLSM melalui C#
-url: /id/net/conversion/tsv-to-xlsm/
+
 description: Contoh kode untuk konversi tsv ke xlsm C#. Gunakan API kode contoh untuk file batch tsv ke konversi xlsm dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

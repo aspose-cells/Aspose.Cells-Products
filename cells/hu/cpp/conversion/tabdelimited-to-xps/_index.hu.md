@@ -1,6 +1,6 @@
-﻿---
+---
 title: A TABDELIMITED konvertálása XPS-re a(z) C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/tabdelimited-to-xps/ 
+
 description: Minta C++ konverziós kód a TABDELIMITED dokumentumhoz XPS formátumba. A programozók ezt a forráskódot használhatják a TABDELIMITED kötegelt XPS konverzióhoz bármely C++ alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

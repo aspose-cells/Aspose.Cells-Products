@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование CSV в FODS через C#
-url: /ru/net/conversion/csv-to-fods/
+
 description: Пример кода для преобразования csv в fods C#. Используйте пример кода API для пакетного преобразования CSV-файлов в fods в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

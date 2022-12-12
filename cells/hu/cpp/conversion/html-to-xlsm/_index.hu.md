@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertálja a HTML-t XLSM-re a(z) C++ alkalmazással 
 weight: 2120
-url: /hu/cpp/conversion/html-to-xlsm/ 
+
 description: Minta C++ konverziós kód HTML-dokumentumhoz XLSM formátumba. A programozók ezt a forráskódot használhatják kötegelt HTML-ből XLSM-be konvertálásához bármely C++ alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

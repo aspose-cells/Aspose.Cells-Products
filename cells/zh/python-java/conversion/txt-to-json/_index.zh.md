@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 Python 将 TXT 转换为 JSON
-url: /zh/python-java/conversion/txt-to-json/
+
 description: txt 到 json Python 转换的示例代码。在 Python 应用程序中使用 API 示例代码将 txt 文件批量转换为 json。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

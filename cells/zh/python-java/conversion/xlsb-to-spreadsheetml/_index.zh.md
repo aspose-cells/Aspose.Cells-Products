@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 Python 将 XLSB 转换为 SPREADSHEETML
-url: /zh/python-java/conversion/xlsb-to-spreadsheetml/
+
 description: xlsb 到电子表格 Python 转换的示例代码。在 Python 应用程序中使用 API 示例代码将 xlsb 文件批量转换为电子表格ml。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert XLSX to MARKDOWN via Python
-url: /python-java/conversion/xlsx-to-markdown/
+
 description: Convert XLSX to MARKDOWN format in Python code. Save XLSX as MARKDOWN using Python.
 ---
 

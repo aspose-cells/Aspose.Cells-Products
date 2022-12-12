@@ -1,7 +1,7 @@
-﻿---
+---
 title: Prohledávejte dokument XLSM bez otevírání prostřednictvím C++ 
 weight: 9280
-url: /cs/cpp/search/xlsm/ 
+
 description: C++ ukázkový kód pro vyhledávání slov se vzorem v souboru XLSM v C++ Runtime Environment pro Windows 32bit, Windows 64bit a Linux 64bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

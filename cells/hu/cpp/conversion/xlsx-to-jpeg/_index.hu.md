@@ -1,7 +1,7 @@
-﻿---
+---
 title: Az XLSX konvertálása JPEG formátumba a C++ alkalmazáson keresztül 
 weight: 6820
-url: /hu/cpp/conversion/xlsx-to-jpeg/ 
+
 description: Minta C++ konverziós kód XLSX dokumentumhoz JPEG formátumba. A programozók ezt a forráskódot használhatják XLSX-ből JPEG-be kötegelt konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

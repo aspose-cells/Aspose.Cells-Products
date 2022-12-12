@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 C# 将 CSV 转换为 BMP
-url: /zh/net/conversion/csv-to-bmp/
+
 description: csv 到 bmp C# 转换的示例代码。在 VB.NET、Asp.NET 或任何基于 .NET 的应用程序中使用 API 批处理 csv 文件的示例代码到 bmp 转换。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

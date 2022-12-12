@@ -1,6 +1,6 @@
-﻿---
+---
 title: TSV-Dateien über C++ zusammenführen 
-url: /de/cpp/merger/tsv/ 
+
 description: C++ Beispielcode zum Kombinieren von TSV-Dokumenten in C++ Runtime Environment für Windows 32 Bit, Windows 64 Bit und Linux 64 Bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

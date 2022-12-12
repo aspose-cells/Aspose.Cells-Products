@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte TXT na PDF pomocí aplikace C++ 
-url: /cs/cpp/conversion/txt-to-pdf/ 
+
 description: Ukázkový konverzní kód C++ pro dokument TXT do formátu PDF. Programátoři mohou použít tento zdrojový kód pro dávkový převod TXT do PDF v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

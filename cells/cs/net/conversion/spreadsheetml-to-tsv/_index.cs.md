@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést SPREADSHEETML na TSV prostřednictvím C#
-url: /cs/net/conversion/spreadsheetml-to-tsv/
+
 description: Ukázkový kód pro převod tabulky ml na tsv C#. Použijte API ukázkový kód pro dávkové tabulkové soubory ml na převod tsv v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

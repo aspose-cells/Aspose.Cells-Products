@@ -1,6 +1,6 @@
-﻿---
+---
 title: Quản lý Siêu dữ liệu Tệp Excel qua C++
-url: /vi/cpp/metadata/
+
 description: Xem, thêm, chỉnh sửa, xóa hoặc trích xuất siêu dữ liệu tệp Excel bằng thư viện C++
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

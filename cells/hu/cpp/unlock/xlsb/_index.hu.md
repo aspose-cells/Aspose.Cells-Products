@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLSB-dokumentum feloldása a következőn keresztül: C++ "
 weight: 7420
-url: /hu/cpp/unlock/xlsb/ 
+
 description: C++ példakód a jelszóval védett XLSB fájl feloldásához a C++ Runtime Environment for Windows 32 bit, Windows 64 bit és Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

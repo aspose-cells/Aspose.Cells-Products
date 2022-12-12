@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển XLTX sang PDF qua Python
-url: /vi/python-java/conversion/xltx-to-pdf/
+
 description: Mã mẫu cho chuyển đổi xltx sang pdf Python. Sử dụng API mã mẫu cho hàng loạt tệp xltx sang chuyển đổi pdf trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertálja az XLSB-t GIF-be a(z) C++ alkalmazással 
 weight: 5740
-url: /hu/cpp/conversion/xlsb-to-gif/ 
+
 description: Minta C++ konverziós kód XLSB dokumentumhoz GIF formátumba. A programozók ezt a forráskódot használhatják XLSB-ből GIF-be kötegelt konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

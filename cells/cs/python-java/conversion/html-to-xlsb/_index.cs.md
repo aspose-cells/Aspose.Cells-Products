@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést HTML na XLSB přes Python
-url: /cs/python-java/conversion/html-to-xlsb/
+
 description: Ukázkový kód pro převod html na xlsb Python. Použijte API ukázkový kód pro dávkový převod html souborů na xlsb v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

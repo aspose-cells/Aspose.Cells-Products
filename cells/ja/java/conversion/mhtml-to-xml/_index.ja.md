@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してMHTMLをXMLに変換します 
-url: /ja/java/conversion/mhtml-to-xml/ 
+
 description: MHTML形式からXMLファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、WebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをXMLにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

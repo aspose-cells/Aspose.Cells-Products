@@ -1,7 +1,7 @@
-﻿---
+---
 title: "TSV konvertálása DIF-re a következőn keresztül: Java "
 weight: 9110
-url: /hu/java/conversion/tsv-to-dif/ 
+
 description: Minta Java konverziós kód a TSV-formátumhoz DIF-fájllá. A programozók ezt a példakódot használhatják Excel- és OpenOffice-táblázatok exportálására DIF-be bármely web- vagy asztali Java-alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

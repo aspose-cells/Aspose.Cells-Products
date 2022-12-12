@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++ के माध्यम से XLTM फ़ाइलें मर्ज करें 
-url: /hi/cpp/merger/xltm/ 
+
 description: C++ एक्सएलटीएम दस्तावेज़ों को C++ विंडोज 32 बिट, विंडोज 64 बिट और लिनक्स 64 बिट के लिए रनटाइम एनवायरनमेंट पर संयोजित करने के लिए उदाहरण कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi TSV thành TABDELIMITED qua C#
-url: /vi/net/conversion/tsv-to-tabdelimited/
+
 description: Mã mẫu cho chuyển đổi tsv sang tabdelimited C#. Sử dụng API mã ví dụ cho hàng loạt tệp tsv để chuyển đổi theo tab trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

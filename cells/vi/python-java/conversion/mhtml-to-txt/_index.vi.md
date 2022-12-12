@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển MHTML sang TXT qua Python
-url: /vi/python-java/conversion/mhtml-to-txt/
+
 description: Mã mẫu cho chuyển đổi mhtml sang txt Python. Sử dụng API mã mẫu cho hàng loạt tệp mhtml thành chuyển đổi txt trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

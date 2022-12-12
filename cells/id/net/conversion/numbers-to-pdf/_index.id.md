@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi NUMBER ke PDF melalui C#
-url: /id/net/conversion/numbers-to-pdf/
+
 description: Contoh kode angka ke pdf C# konversi. Gunakan API kode contoh untuk file nomor batch ke konversi pdf dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

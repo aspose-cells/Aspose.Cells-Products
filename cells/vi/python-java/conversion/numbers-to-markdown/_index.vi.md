@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển NUMBERS thành MARKDOWN qua Python
-url: /vi/python-java/conversion/numbers-to-markdown/
+
 description: Mã mẫu cho các số để đánh dấu chuyển đổi Python. Sử dụng mã mẫu API cho các tệp số lô để chuyển đổi đánh dấu trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

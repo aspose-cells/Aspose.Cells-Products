@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή TXT σε XLTM μέσω Python
-url: /el/python-java/conversion/txt-to-xltm/
+
 description: Δείγμα κώδικα για μετατροπή txt σε xltm Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδική μετατροπή αρχείων txt σε xltm εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

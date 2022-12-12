@@ -1,7 +1,7 @@
-﻿---
+---
 title: Chuyển đổi XLSB sang TXT qua Java 
 weight: 4110
-url: /vi/java/conversion/xlsb-to-txt/ 
+
 description: Mã chuyển đổi Java mẫu cho định dạng XLSB thành tệp TXT. Lập trình viên có thể sử dụng mã ví dụ này để xuất bảng tính Excel & OpenOffice sang TXT trong bất kỳ Ứng dụng dựa trên Web hoặc Máy tính để bàn nào Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

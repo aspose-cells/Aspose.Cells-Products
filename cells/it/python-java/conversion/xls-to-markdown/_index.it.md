@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converti XLS in MARKDOWN tramite Python
-url: /it/python-java/conversion/xls-to-markdown/
+
 description: Codice di esempio per la conversione da xls a markdown Python. Usa il codice di esempio API per i file batch xls per ridurre la conversione all'interno dell'applicazione Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

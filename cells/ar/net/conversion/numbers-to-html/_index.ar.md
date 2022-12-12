@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل الأرقام إلى HTML عبر C#
-url: /ar/net/conversion/numbers-to-html/
+
 description: نموذج رمز للأرقام لتحويل C# html. استخدم API رمز المثال لملفات أرقام الدُفعات لتحويل html داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

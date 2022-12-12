@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer SXC naar JSON via C#
-url: /nl/net/conversion/sxc-to-json/
+
 description: Voorbeeldcode voor conversie van sxc naar json C#. Gebruik API voorbeeldcode voor batch-sxc-bestanden naar json-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

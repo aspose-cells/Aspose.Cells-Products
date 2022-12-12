@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie NUMBERS in SPREADSHEETML über C#
-url: /de/net/conversion/numbers-to-spreadsheetml/
+
 description: Beispielcode für die Umwandlung von Zahlen in Spreadsheetml C#. Verwenden Sie API Beispielcode für die Umwandlung von Stapelnummerndateien in Spreadsheetml in VB.NET, Asp.NET oder einer beliebigen .NET-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

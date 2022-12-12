@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SPREADSHEETML konvertálása DIF-re a következőn keresztül: C#"
-url: /hu/net/conversion/spreadsheetml-to-dif/
+
 description: Mintakód a táblázatkezelőből a dif C# konverzióhoz. Használjon API példakódot kötegelt táblázatkezelő fájlokhoz a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belüli átalakításhoz.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

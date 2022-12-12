@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az ODS-t MD-vé a C++ alkalmazással 
-url: /hu/cpp/conversion/ods-to-md/ 
+
 description: Minta C++ konverziós kód az ODS-dokumentumhoz MD formátumba. A programozók ezt a forráskódot használhatják kötegelt ODS-MD konvertáláshoz bármely C++ alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

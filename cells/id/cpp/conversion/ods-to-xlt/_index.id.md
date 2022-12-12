@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan ODS ke XLT melalui C++ aplikasi 
-url: /id/cpp/conversion/ods-to-xlt/ 
+
 description: Contoh C++ kode konversi untuk dokumen ODS ke format XLT. Pemrogram dapat menggunakan kode sumber ini untuk konversi batch ODS ke XLT dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

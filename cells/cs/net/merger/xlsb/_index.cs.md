@@ -1,7 +1,7 @@
-﻿---
+---
 title: Sloučit soubory XLSB přes .NET 
 weight: 2970
-url: /cs/net/merger/xlsb/ 
+
 description: Zdrojový kód C# pro kombinaci dokumentů XLSB na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

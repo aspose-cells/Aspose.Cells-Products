@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla TXT'yi MD'ye dönüştürün
-url: /tr/net/conversion/txt-to-md/
+
 description: txt'den md'ye C# dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu txt dosyalarından md'ye dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "EXCEL konvertálása HTML-re a következőn keresztül: C#"
-url: /hu/net/conversion/excel-to-html/
+
 description: Mintakód az excelből html-be C# történő konverzióhoz. Használjon API példakódot kötegelt excel fájlok html konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

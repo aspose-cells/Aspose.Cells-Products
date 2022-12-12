@@ -1,6 +1,6 @@
 ---
 title: Repair xlsm file via .NET
-url: /net/recovery/repair-xlsm/ 
+
 description: Repair a corrupt xlsm file using C#. Recovery tool to repair corrupted xlsm file within .NET application.
 ---
 

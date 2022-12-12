@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to GIF via Python
-url: /python-java/conversion/json-to-gif/
+
 description: Convert JSON to GIF format in Python code. Save JSON as GIF using Python.
 ---
 

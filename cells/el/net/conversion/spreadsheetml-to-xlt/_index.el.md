@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή SPREADSHEETML σε XLT μέσω C#
-url: /el/net/conversion/spreadsheetml-to-xlt/
+
 description: Δείγμα κώδικα για μετατροπή υπολογιστικού φύλλου ml σε xlt C#. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία υπολογιστικών φύλλων ml σε μετατροπή xlt εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

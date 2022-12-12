@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง TXT เป็น PNG ผ่าน Python
-url: /th/python-java/conversion/txt-to-png/
+
 description: โค้ดตัวอย่างสำหรับการแปลง txt เป็น png Python ใช้โค้ดตัวอย่าง API สำหรับการแปลงไฟล์แบตช์ txt เป็น png ภายในแอปพลิเคชัน Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

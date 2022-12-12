@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan TSV ke JPG melalui Java 
-url: /id/java/conversion/tsv-to-jpg/ 
+
 description: Contoh Java kode konversi untuk format TSV ke file JPG. Pemrogram dapat menggunakan kode contoh ini untuk mengekspor spreadsheet Excel & OpenOffice ke JPG dalam Aplikasi berbasis Web atau Desktop Java apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

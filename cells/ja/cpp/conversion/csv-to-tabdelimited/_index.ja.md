@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++アプリケーションを介してCSVをTABDELIMITEDに変換します 
-url: /ja/cpp/conversion/csv-to-tabdelimited/ 
+
 description: CSVドキュメントのサンプルC++変換コードをTABDELIMITED形式に変換します。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でCSVからTABDELIMITEDへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

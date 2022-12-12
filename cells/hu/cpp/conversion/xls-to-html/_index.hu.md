@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertálja az XLS-t HTML-re a(z) C++ alkalmazással 
 weight: 2680
-url: /hu/cpp/conversion/xls-to-html/ 
+
 description: Minta C++ konverziós kód XLS dokumentumhoz HTML formátumba. A programozók ezt a forráskódot használhatják kötegelt XLS-HTML-konverzióhoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

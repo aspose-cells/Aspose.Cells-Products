@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してTABDELIMITEDをMARKDOWNに変換します
-url: /ja/net/conversion/tabdelimited-to-markdown/
+
 description: tabdelimitedからmarkdownC#への変換のサンプルコード。バッチタブ区切りファイルのAPIサンプルコードを使用して、VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内で変換をマークダウンします。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

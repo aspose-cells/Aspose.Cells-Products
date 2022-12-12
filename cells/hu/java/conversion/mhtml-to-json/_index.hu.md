@@ -1,7 +1,7 @@
-﻿---
+---
 title: "MHTML konvertálása JSON formátumba a következőn keresztül: Java "
 weight: 4770
-url: /hu/java/conversion/mhtml-to-json/ 
+
 description: Minta Java konverziós kód MHTML-formátumhoz JSON-fájllá. A programozók ezt a példakódot használhatják Excel- és OpenOffice-táblázatok exportálására JSON-ba bármely web- vagy asztali Java-alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Cari dokumen XLSM tanpa membuka melalui .NET 
 weight: 4880
-url: /id/net/search/xlsm/ 
+
 description: C# kode sumber untuk mencari kata-kata dengan pola dalam file XLSM pada .NET Framework, .NET Core, Mono atau Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

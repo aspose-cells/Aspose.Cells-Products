@@ -1,7 +1,7 @@
-﻿---
+---
 title: Podziel pliki XLS przez Java 
 weight: 610
-url: /pl/java/splitter/xls/ 
+
 description: Java przykładowy kod do dzielenia dokumentów XLS w Java środowisku wykonawczym dla aplikacji JSP/JSF i aplikacji komputerowych.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

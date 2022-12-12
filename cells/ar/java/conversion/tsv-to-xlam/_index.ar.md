@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TSV إلى XLAM عبر Java 
-url: /ar/java/conversion/tsv-to-xlam/ 
+
 description: نموذج رمز تحويل Java لتنسيق TSV إلى ملف XLAM. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى XLAM داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование JSON в TXT с помощью приложения C++ 
-url: /ru/cpp/conversion/json-to-txt/ 
+
 description: Пример кода преобразования C++ для документа JSON в формат TXT. Программисты могут использовать этот исходный код для пакетного преобразования JSON в TXT в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++アプリケーションを介してXLSMをSVGに変換します 
-url: /ja/cpp/conversion/xlsm-to-svg/ 
+
 description: XLSMドキュメントからSVG形式へのサンプルC++変換コード。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でXLSMからSVGへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

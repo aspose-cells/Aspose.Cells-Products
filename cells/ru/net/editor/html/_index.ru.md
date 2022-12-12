@@ -1,6 +1,6 @@
-﻿---
+---
 title: Редактируйте HTML-файлы через .NET 
-url: /ru/net/editor/html/ 
+
 description: Исходный код C# для редактирования документа HTML на платформах .NET Framework, .NET Core, Windows Azure, Mono или Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

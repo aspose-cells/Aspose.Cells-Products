@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してXLSMをHTMLに変換します
-url: /ja/net/conversion/xlsm-to-html/
+
 description: xlsmからhtmlC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチxlsmファイルからhtmlへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

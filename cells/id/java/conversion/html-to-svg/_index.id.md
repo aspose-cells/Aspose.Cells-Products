@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversi HTML ke SVG melalui Java 
 weight: 7120
-url: /id/java/conversion/html-to-svg/ 
+
 description: Contoh Java kode konversi untuk format HTML ke file SVG. Pemrogram dapat menggunakan kode contoh ini untuk mengekspor spreadsheet Excel & OpenOffice ke SVG dalam Aplikasi berbasis Web atau Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

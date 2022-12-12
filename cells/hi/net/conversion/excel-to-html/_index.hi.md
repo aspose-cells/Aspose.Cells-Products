@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# के द्वारा EXCEL को HTML में बदलें
-url: /hi/net/conversion/excel-to-html/
+
 description: एक्सेल से html C# रूपांतरण के लिए नमूना कोड। VB.NET, Asp.NET या किसी .NET आधारित एप्लिकेशन के भीतर html रूपांतरण के लिए बैच एक्सेल फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

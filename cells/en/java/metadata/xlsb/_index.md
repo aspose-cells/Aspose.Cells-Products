@@ -1,7 +1,7 @@
 ---
 title: Edit or View XLSB Files Metadata via Java 
 weight: 7290
-url: /java/metadata/xlsb/ 
+
 description: Java sample code to edit or view XLSB format metadata on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

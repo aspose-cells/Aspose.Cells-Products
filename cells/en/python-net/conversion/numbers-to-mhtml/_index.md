@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to MHTML via Python
-url: /python-net/conversion/numbers-to-mhtml/
+
 description: Sample code for numbers to mhtml Python conversion. Use API example code for batch numbers files to mhtml conversion within Python application.
 ---
 

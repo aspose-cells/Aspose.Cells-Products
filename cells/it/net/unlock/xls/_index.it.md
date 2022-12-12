@@ -1,7 +1,7 @@
-﻿---
+---
 title: Sblocca il documento XLS tramite .NET 
 weight: 4260
-url: /it/net/unlock/xls/ 
+
 description: C# codice sorgente per sbloccare il file XLS protetto da password su piattaforme .NET Framework, .NET Core, Mono o Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

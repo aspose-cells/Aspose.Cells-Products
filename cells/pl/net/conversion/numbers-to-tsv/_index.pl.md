@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj NUMBERS na TSV przez C#
-url: /pl/net/conversion/numbers-to-tsv/
+
 description: Przykładowy kod konwersji liczb do tsv C#. Użyj przykładowego kodu API dla plików numerów partii do konwersji tsv w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

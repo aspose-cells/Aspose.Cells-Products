@@ -1,7 +1,7 @@
-﻿---
+---
 title: البحث في مستند ODS بدون فتح عبر C++ 
 weight: 3300
-url: /ar/cpp/search/ods/ 
+
 description: C++ مثال على رمز للبحث عن الكلمات ذات النمط في ملف ODS في C++ Runtime Environment لأنظمة Windows 32 بت و Windows 64 بت و Linux 64 بت.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

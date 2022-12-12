@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TABDELIMITED konvertálása PNG-re a következőn keresztül: C#"
-url: /hu/net/conversion/tabdelimited-to-png/
+
 description: Mintakód a tabulátorral tagolt png C# konverzióhoz. Használjon API példakódot a tabulátorral tagolt fájlok kötegelt png konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

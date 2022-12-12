@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLSB naar HTML via Python
-url: /nl/python-java/conversion/xlsb-to-html/
+
 description: Voorbeeldcode voor xlsb naar html Python conversie. Gebruik API voorbeeldcode voor batch xlsb-bestanden naar html-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

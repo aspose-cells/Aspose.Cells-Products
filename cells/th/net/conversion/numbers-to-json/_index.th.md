@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง NUMBERS เป็น JSON ผ่าน C#
-url: /th/net/conversion/numbers-to-json/
+
 description: โค้ดตัวอย่างสำหรับการแปลงตัวเลขเป็น json C# ใช้โค้ดตัวอย่าง API สำหรับไฟล์หมายเลขแบทช์เป็นการแปลง json ภายใน VB.NET, Asp.NET หรือแอปพลิเคชันที่ใช้ .NET
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

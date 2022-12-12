@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل FODS إلى DIF عبر C#
-url: /ar/net/conversion/fods-to-dif/
+
 description: نموذج كود لتحويل fods إلى C#. استخدم API رمز المثال لملفات fods الدفعية من أجل التحويل المختلف داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

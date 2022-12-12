@@ -1,6 +1,6 @@
-﻿---
+---
 title: Java aracılığıyla MS Excel XLSB Dosyaları oluşturun 
-url: /tr/java/create-xlsb/ 
+
 description: Java XLSB belgeleri oluşturmak için örnek kod. Java tabanlı masaüstü veya web uygulamasında MS Excel XLSB dosyaları oluşturmak için bu kodu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést CSV na JPEG prostřednictvím Java 
 weight: 7490
-url: /cs/java/conversion/csv-to-jpeg/ 
+
 description: Ukázka převodního kódu Java pro formát CSV na soubor JPEG. Programátoři mohou tento příklad kódu použít k exportu tabulek Excelu a OpenOffice do formátu JPEG v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

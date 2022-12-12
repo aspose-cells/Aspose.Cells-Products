@@ -1,6 +1,6 @@
 ---
 title: Convert XLSM to XLT via Java 
-url: /java/conversion/xlsm-to-xlt/
+
 description: Convert XLSM to XLT format in Java code. Save XLSM as XLT using Java.
 ---
 

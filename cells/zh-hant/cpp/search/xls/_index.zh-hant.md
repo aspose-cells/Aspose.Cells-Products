@@ -1,7 +1,7 @@
-﻿---
+---
 title: 無需通過 C++ 打開即可搜索 XLS 文檔 
 weight: 4560
-url: /zh-hant/cpp/search/xls/ 
+
 description: C++ 示例代碼，用於在用於 Windows 32 位、Windows 64 位和 Linux 64 位的 C++ Runtime Environment 上的 XLS 文件中搜索帶有模式的單詞。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

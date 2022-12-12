@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to TSV via C++
-url: /cpp/conversion/ods-to-tsv/
+
 description: Convert ODS to TSV format in C++ code. Save ODS as TSV using C++.
 ---
 

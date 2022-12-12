@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj TABDELIMITED na TIFF za pomocą aplikacji C++ 
-url: /pl/cpp/conversion/tabdelimited-to-tiff/ 
+
 description: Przykładowy kod konwersji C++ dla dokumentu TABDELIMITED do formatu TIFF. Programiści mogą używać tego kodu źródłowego do wsadowej konwersji TABDELIMITED na TIFF w dowolnej aplikacji C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

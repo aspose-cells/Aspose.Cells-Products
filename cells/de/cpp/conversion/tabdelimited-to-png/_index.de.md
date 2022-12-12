@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie TABDELIMITED über die Anwendung C++ in PNG 
-url: /de/cpp/conversion/tabdelimited-to-png/ 
+
 description: Beispiel-Umwandlungscode C++ für das TABDELIMITED-Dokument in das PNG-Format. Programmierer können diesen Quellcode für die Batch-Konvertierung von TABDELIMITED in PNG in jeder C++-Anwendung verwenden.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

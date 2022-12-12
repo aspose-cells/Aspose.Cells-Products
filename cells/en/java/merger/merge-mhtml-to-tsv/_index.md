@@ -1,6 +1,6 @@
 ---
 title: Merge MHTML to TSV Files via Java 
-url: /java/merger/merge-mhtml-to-tsv/ 
+
 description: Merge MHTML to TSV file in Java code. Combine MHTML to TSV file using Java based desktop or web application.
 ---
 

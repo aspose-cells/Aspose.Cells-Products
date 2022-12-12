@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer TSV naar TIFF via Python
-url: /nl/python-java/conversion/tsv-to-tiff/
+
 description: Voorbeeldcode voor conversie van tsv naar tiff Python. Gebruik API voorbeeldcode voor batch-tsv-bestanden naar tiff-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

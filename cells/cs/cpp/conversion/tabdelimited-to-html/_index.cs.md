@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte TABDELIMITED do HTML pomocí aplikace C++ 
-url: /cs/cpp/conversion/tabdelimited-to-html/ 
+
 description: Ukázkový konverzní kód C++ pro dokument TABDELIMITED do formátu HTML. Programátoři mohou použít tento zdrojový kód pro dávkový převod TABDELIMITED do HTML v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert TSV to XLTM via Python
-url: /python-java/conversion/tsv-to-xltm/
+
 description: Convert TSV to XLTM format in Python code. Save TSV as XLTM using Python.
 ---
 

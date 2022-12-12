@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte JSON na XPS pomocí aplikace C++ 
-url: /cs/cpp/conversion/json-to-xps/ 
+
 description: Ukázkový konverzní kód C++ pro dokument JSON na formát XPS. Programátoři mohou tento zdrojový kód použít pro dávkový převod JSON na XPS v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

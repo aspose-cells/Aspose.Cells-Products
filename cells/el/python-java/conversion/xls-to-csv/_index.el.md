@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή XLS σε CSV μέσω Python
-url: /el/python-java/conversion/xls-to-csv/
+
 description: Δείγμα κώδικα για μετατροπή xls σε csv Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία xls σε μετατροπή csv εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

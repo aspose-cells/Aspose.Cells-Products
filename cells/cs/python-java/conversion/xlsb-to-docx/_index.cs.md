@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLSB na DOCX přes Python
-url: /cs/python-java/conversion/xlsb-to-docx/
+
 description: Ukázkový kód pro převod xlsb na docx Python. Použijte API ukázkový kód pro dávkový převod souborů xlsb na docx v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

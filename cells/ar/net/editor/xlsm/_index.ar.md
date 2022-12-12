@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحرير ملفات XLSM عبر .NET 
-url: /ar/net/editor/xlsm/ 
+
 description: C# كود المصدر لتعديل مستند XLSM على الأنظمة الأساسية .NET Framework أو .NET Core أو Windows Azure Mono أو Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

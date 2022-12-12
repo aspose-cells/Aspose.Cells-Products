@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLTM konvertálása XLAM-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/xltm-to-xlam/
+
 description: Mintakód az xltm–xlam Python konverzióhoz. Használjon API példakódot a kötegelt xltm fájlok xlam konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

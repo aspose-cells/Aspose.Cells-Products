@@ -1,6 +1,6 @@
-﻿---
+---
 title: Twórz wykresy liniowe za pomocą Python
-url: /pl/python-java/create-line-chart/
+
 description: Python Przykładowy kod do tworzenia wykresów liniowych w programie Excel przy użyciu biblioteki Python. Użyj tego kodu do tworzenia wykresu liniowego do MS Excel w aplikacji opartej na Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

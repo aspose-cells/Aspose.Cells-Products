@@ -1,6 +1,6 @@
-﻿---
+---
 title: XLS को MD से Python में बदलें
-url: /hi/python-java/conversion/xls-to-md/
+
 description: xls से md Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर बैच xls फ़ाइलों से एमडी रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

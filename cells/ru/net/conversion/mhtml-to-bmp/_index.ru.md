@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование MHTML в BMP через C#
-url: /ru/net/conversion/mhtml-to-bmp/
+
 description: Пример кода для преобразования mhtml в bmp C#. Используйте пример кода API для пакетного преобразования файлов mhtml в bmp в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

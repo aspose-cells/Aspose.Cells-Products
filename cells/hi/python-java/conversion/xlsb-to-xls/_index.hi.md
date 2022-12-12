@@ -1,6 +1,6 @@
-﻿---
+---
 title: XLSB को XLS से Python में कनवर्ट करें
-url: /hi/python-java/conversion/xlsb-to-xls/
+
 description: xlsb से xls Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर xlsb फ़ाइलों से xls रूपांतरण में बैच के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

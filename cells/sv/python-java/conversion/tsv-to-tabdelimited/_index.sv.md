@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera TSV till TABDELIMITED via Python
-url: /sv/python-java/conversion/tsv-to-tabdelimited/
+
 description: Exempelkod för tsv till tabbavgränsad Python-omvandling. Använd API exempelkod för batch-tsv-filer till tabbavgränsad konvertering inom Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

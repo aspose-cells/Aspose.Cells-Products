@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 Python 將 XLS 轉換為 GIF
-url: /zh-hant/python-java/conversion/xls-to-gif/
+
 description: xls 到 gif Python 轉換的示例代碼。使用 Python 應用程序中將 xls 文件批量轉換為 gif 的 API 示例代碼。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

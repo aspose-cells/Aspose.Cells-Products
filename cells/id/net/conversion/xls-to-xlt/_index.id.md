@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan XLS ke XLT melalui C#
-url: /id/net/conversion/xls-to-xlt/
+
 description: Contoh kode untuk konversi xls ke xlt C#. Gunakan API kode contoh untuk file batch xls ke konversi xlt dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

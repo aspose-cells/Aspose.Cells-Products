@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera ODS till XPS via Python
-url: /sv/python-java/conversion/ods-to-xps/
+
 description: Exempelkod för konvertering av ods till xps Python. Använd API exempelkod för batch-ods-filer till xps-konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "NUMBERS konvertálása FODS-re a következőn keresztül: C#"
-url: /hu/net/conversion/numbers-to-fods/
+
 description: Mintakód a számok C# konverziójához. Használjon API példakódot a kötegszámfájlokhoz a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belüli konvertáláshoz.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
 ---
 title: Search TSV document without opening via .NET 
 weight: 2810
-url: /net/search/tsv/ 
+
 description: C# source code to search words with pattern in TSV file on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

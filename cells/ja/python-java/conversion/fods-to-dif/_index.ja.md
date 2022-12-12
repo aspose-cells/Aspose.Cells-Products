@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してFODSをDIFに変換します
-url: /ja/python-java/conversion/fods-to-dif/
+
 description: fodsからdifPythonへの変換のサンプルコード。 Pythonアプリケーション内で変換をdifするバッチfodファイルのAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: إنشاء مخططات Column3D عبر Python
-url: /ar/python-java/create-column3d-chart/
+
 description: Python نموذج كود لإنشاء مخططات Column3D في Excel باستخدام Python Library. استخدم هذا الرمز لإنشاء مخطط Column3D إلى MS Excel داخل التطبيق المستند إلى Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

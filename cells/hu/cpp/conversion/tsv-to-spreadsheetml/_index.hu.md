@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja a TSV-t SPREADSHEETML-be a(z) C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/tsv-to-spreadsheetml/ 
+
 description: Minta C++ konverziós kód a TSV-dokumentumhoz SPREADSHEETML formátumba. A programozók ezt a forráskódot használhatják kötegelt TSV-ből SPREADSHEETML-be konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

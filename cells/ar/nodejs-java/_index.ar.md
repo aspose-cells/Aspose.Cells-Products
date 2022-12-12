@@ -1,7 +1,7 @@
-﻿---
+---
 title: واجهات برمجة تطبيقات Node.js لجداول بيانات Excel - Aspose 
 weight: 3120
-url: /ar/nodejs-java/ 
+
 description: معالجة تنسيقات ملفات Excel عبر مكتبة Node.js. قراءة عرض الكتابة وتحويل XLS XLSX XLSB XLTX XLTM XLSM XML ODS CSV والمزيد من التنسيقات عبر Node.js على Windows و macOS و Linux
 ---
 {{< blocks/products/pf/main-wrap-class >}}

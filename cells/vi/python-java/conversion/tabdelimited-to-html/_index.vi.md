@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển TABDELIMITED sang HTML qua Python
-url: /vi/python-java/conversion/tabdelimited-to-html/
+
 description: Mã mẫu cho chuyển đổi được giới hạn bằng tab thành html Python. Sử dụng mã mẫu API cho các tệp được giới hạn bằng tab hàng loạt để chuyển đổi html trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

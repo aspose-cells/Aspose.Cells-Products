@@ -1,6 +1,6 @@
-﻿---
+---
 title: "JSON konvertálása PNG-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/json-to-png/
+
 description: Mintakód a json–png Python konverzióhoz. Használjon API példakódot a kötegelt json-fájlokhoz a png konverzióhoz a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

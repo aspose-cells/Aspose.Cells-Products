@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj HTML na DIF przez C#
-url: /pl/net/conversion/html-to-dif/
+
 description: Przykładowy kod konwersji html na różnicowanie C#. Użyj przykładowego kodu API dla wsadowych plików html do konwersji dif w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

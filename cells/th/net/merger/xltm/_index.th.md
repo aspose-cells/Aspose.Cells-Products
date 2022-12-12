@@ -1,7 +1,7 @@
-﻿---
+---
 title: รวมไฟล์ XLTM ผ่าน .NET 
 weight: 9010
-url: /th/net/merger/xltm/ 
+
 description: C# ซอร์สโค้ดเพื่อรวมเอกสาร XLTM บน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

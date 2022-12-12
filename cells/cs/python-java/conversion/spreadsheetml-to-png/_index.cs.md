@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést SPREADSHEETML na PNG přes Python
-url: /cs/python-java/conversion/spreadsheetml-to-png/
+
 description: Ukázkový kód pro převod tabulky ml na png Python. Použijte API ukázkový kód pro dávkový převod tabulkových souborů ml na png v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

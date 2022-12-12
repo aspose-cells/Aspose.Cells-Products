@@ -1,7 +1,7 @@
-﻿---
+---
 title: Soluzione formato file Excel
 weight: 7730
-url: /it/
+
 description: Crea applicazioni di manipolazione dei file Excel utilizzando API High Code o Low Code o No Code Apps per visualizzare confrontare, ispezionare o convertire file Excel.
 ---
 {{< blocks/products/pf/main-wrap-class >}}

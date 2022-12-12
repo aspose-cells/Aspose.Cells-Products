@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést CSV na TABDELIMITED přes C#
-url: /cs/net/conversion/csv-to-tabdelimited/
+
 description: Ukázkový kód pro převod csv na C# oddělený tabulátory. Použijte API ukázkový kód pro dávkové soubory csv na převod oddělený tabulátory v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

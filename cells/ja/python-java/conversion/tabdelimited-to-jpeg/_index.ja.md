@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してTABDELIMITEDをJPEGに変換します
-url: /ja/python-java/conversion/tabdelimited-to-jpeg/
+
 description: tabdelimitedからjpegPythonへの変換のサンプルコード。 Pythonアプリケーション内でタブ区切りファイルをjpegに変換するには、APIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

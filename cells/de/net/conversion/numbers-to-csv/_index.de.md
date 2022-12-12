@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie NUMBERS in CSV über C#
-url: /de/net/conversion/numbers-to-csv/
+
 description: Beispielcode für die Umwandlung von Zahlen in CSV C#. Verwenden Sie API Beispielcode für die Konvertierung von Stapelnummerndateien in CSV innerhalb von VB.NET, Asp.NET oder einer beliebigen .NET-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

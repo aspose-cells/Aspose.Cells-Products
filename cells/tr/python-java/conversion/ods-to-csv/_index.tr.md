@@ -1,6 +1,6 @@
-﻿---
+---
 title: ODS'yi Python aracılığıyla CSV'ye dönüştürün
-url: /tr/python-java/conversion/ods-to-csv/
+
 description: ods'den csv'ye Python dönüştürme için örnek kod. Python uygulamasında toplu ods dosyalarından csv'ye dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

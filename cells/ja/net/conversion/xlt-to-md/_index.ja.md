@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してXLTをMDに変換する
-url: /ja/net/conversion/xlt-to-md/
+
 description: xltからmdC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチxltファイルからmdへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

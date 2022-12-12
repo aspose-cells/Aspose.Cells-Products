@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to SVG via Java 
-url: /java/conversion/json-to-svg/
+
 description: Convert JSON to SVG format in Java code. Save JSON as SVG using Java.
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Sök och ersätt text i XLS-dokument via .NET 
 weight: 7280
-url: /sv/net/redaction/xls/ 
+
 description: C# källkod för att redigera känslig information i XLS-fil på .NET Framework, .NET Core, Mono eller Xamarin-plattformar.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

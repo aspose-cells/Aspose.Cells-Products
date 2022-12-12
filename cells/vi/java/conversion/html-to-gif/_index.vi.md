@@ -1,7 +1,7 @@
-﻿---
+---
 title: Chuyển đổi HTML sang GIF qua Java 
 weight: 3180
-url: /vi/java/conversion/html-to-gif/ 
+
 description: Mã chuyển đổi Java mẫu cho định dạng HTML sang tệp GIF. Lập trình viên có thể sử dụng mã ví dụ này để xuất bảng tính Excel & OpenOffice sang GIF trong bất kỳ Ứng dụng dựa trên Web hoặc Máy tính để bàn Java nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

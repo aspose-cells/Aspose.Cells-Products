@@ -1,7 +1,7 @@
-﻿---
+---
 title: รวมไฟล์ TSV ผ่าน Java 
 weight: 9260
-url: /th/java/merger/tsv/ 
+
 description: Java โค้ดตัวอย่างเพื่อรวมเอกสาร TSV บน Java Runtime Environment สำหรับแอปพลิเคชัน JSP/JSF และแอปพลิเคชันเดสก์ท็อป
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

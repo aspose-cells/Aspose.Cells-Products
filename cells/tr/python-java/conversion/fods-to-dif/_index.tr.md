@@ -1,6 +1,6 @@
-﻿---
+---
 title: FODS'u Python aracılığıyla DIF'ye dönüştürün
-url: /tr/python-java/conversion/fods-to-dif/
+
 description: Python dönüşümünü farklılaştıracak yemler için örnek kod. Python uygulamasında dönüşümleri ayırt etmek için toplu dosya dosyaları için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

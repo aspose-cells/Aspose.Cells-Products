@@ -1,6 +1,6 @@
-﻿---
+---
 title: Crear gráficos circulares a través de C#
-url: /es/net/create-pie-chart/
+
 description: C# Código de ejemplo para crear gráficos circulares en Excel mediante la biblioteca .NET. Utilice este código para crear un gráfico circular en MS Excel dentro de VB.NET, Asp.NET o cualquier aplicación basada en .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

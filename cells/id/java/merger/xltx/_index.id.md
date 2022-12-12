@@ -1,7 +1,7 @@
-﻿---
+---
 title: Gabungkan File XLTX melalui Java 
 weight: 680
-url: /id/java/merger/xltx/ 
+
 description: Java kode contoh untuk menggabungkan dokumen XLTX di Java Runtime Environment untuk Aplikasi JSP/JSF dan Aplikasi Desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

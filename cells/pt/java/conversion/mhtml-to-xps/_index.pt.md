@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converter MHTML para XPS via Java 
 weight: 6220
-url: /pt/java/conversion/mhtml-to-xps/ 
+
 description: Exemplo de código de conversão Java para formato MHTML para arquivo XPS. Os programadores podem usar este código de exemplo para exportar planilhas do Excel e OpenOffice para XPS em qualquer aplicativo baseado na Web ou Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Lägg till XLSM-anteckning via C++ 
 weight: 2860
-url: /sv/cpp/annotation/xlsm/ 
+
 description: C++ exempelkod för att ta bort anteckningar i XLSM-format i C++ Runtime Environment för Windows 32-bitars, Windows 64-bitars och Linux 64-bitars.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

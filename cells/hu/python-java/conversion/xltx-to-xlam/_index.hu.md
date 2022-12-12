@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLTX konvertálása XLAM-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/xltx-to-xlam/
+
 description: Mintakód az xltx–xlam Python konverzióhoz. Használjon API példakódot a kötegelt xltx fájlok xlam konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj FODS na PNG za pomocą Java 
-url: /pl/java/conversion/fods-to-png/ 
+
 description: Przykładowy kod konwersji Java dla formatu FODS do pliku PNG. Programiści mogą użyć tego przykładowego kodu, aby wyeksportować arkusze kalkulacyjne Excel i OpenOffice do formatu PNG w dowolnej aplikacji internetowej lub desktopowej Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera SPREADSHEETML till EMF via Python
-url: /sv/python-java/conversion/spreadsheetml-to-emf/
+
 description: Exempelkod för konvertering från kalkylarkml till emf Python. Använd API exempelkod för batch-kalkylarkml-filer för att emf-konvertera i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

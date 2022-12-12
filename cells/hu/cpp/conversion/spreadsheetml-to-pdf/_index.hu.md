@@ -1,6 +1,6 @@
-﻿---
+---
 title: A SPREADSHEETML konvertálása PDF-be a C++ alkalmazással 
-url: /hu/cpp/conversion/spreadsheetml-to-pdf/ 
+
 description: Minta C++ konverziós kód a SPREADSHEETML dokumentumhoz PDF formátumba. A programozók ezt a forráskódot használhatják a SPREADSHEETML-ből PDF-be történő kötegelt konvertáláshoz bármely C++ alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

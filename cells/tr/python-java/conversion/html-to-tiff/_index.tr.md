@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla HTML'yi TIFF'ye dönüştürün
-url: /tr/python-java/conversion/html-to-tiff/
+
 description: Html'den tiff'e Python dönüşümü için örnek kod. Python uygulamasında dönüşüm tiff için toplu html dosyaları için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

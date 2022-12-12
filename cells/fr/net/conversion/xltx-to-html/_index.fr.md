@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir XLTX en HTML via C#
-url: /fr/net/conversion/xltx-to-html/
+
 description: Exemple de code pour la conversion xltx vers html C#. Utilisez l'exemple de code API pour les fichiers xltx par lots en conversion html dans VB.NET, Asp.NET ou toute application basée sur .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

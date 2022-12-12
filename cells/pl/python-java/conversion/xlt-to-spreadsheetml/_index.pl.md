@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj XLT na SPREADSHEETML za pomocą Python
-url: /pl/python-java/conversion/xlt-to-spreadsheetml/
+
 description: Przykładowy kod konwersji xlt do arkusza kalkulacyjnego ml Python. Użyj przykładowego kodu API dla wsadowych plików xlt do konwersji arkusza kalkulacyjnego na ml w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

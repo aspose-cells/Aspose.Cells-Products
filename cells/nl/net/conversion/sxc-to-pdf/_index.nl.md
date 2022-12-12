@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer SXC naar PDF via C#
-url: /nl/net/conversion/sxc-to-pdf/
+
 description: Voorbeeldcode voor conversie van sxc naar pdf C#. Gebruik API voorbeeldcode voor batch-sxc-bestanden naar pdf-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

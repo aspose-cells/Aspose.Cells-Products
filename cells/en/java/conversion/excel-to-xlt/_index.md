@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to XLT via Java 
-url: /java/conversion/excel-to-xlt/
+
 description: Convert EXCEL to XLT format in Java code. Save EXCEL as XLT using Java.
 ---
 

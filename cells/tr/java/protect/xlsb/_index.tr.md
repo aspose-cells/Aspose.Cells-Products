@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLSB belgesini Java aracılığıyla koruyun ve kilitleyin 
 weight: 6590
-url: /tr/java/protect/xlsb/ 
+
 description: JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Runtime Environment'da şifre kullanarak XLSB dosyasını kilitlemek için Java örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

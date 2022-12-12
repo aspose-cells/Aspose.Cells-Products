@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer CSV naar HTML via Python
-url: /nl/python-java/conversion/csv-to-html/
+
 description: Voorbeeldcode voor conversie van csv naar html Python. Gebruik API voorbeeldcode voor batch-csv-bestanden naar html-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

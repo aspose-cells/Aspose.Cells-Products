@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή ODS σε XLT μέσω C#
-url: /el/net/conversion/ods-to-xlt/
+
 description: Δείγμα κώδικα για μετατροπή ods σε xlt C#. Χρησιμοποιήστε API παράδειγμα κώδικα για αρχεία batch ods σε μετατροπή xlt εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

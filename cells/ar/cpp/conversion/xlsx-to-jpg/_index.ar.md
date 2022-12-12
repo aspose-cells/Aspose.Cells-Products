@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLSX إلى JPG عبر تطبيق C++ 
-url: /ar/cpp/conversion/xlsx-to-jpg/ 
+
 description: نموذج رمز تحويل C++ لمستند XLSX إلى تنسيق JPG. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل XLSX دفعة واحدة إلى JPG داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

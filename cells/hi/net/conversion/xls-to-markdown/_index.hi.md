@@ -1,6 +1,6 @@
-﻿---
+---
 title: XLS को C# के माध्यम से MARKDOWN में बदलें
-url: /hi/net/conversion/xls-to-markdown/
+
 description: C# रूपांतरण को चिह्नित करने के लिए xls के लिए नमूना कोड। VB.NET, Asp.NET या किसी .NET आधारित एप्लिकेशन के भीतर रूपांतरण को चिह्नित करने के लिए बैच xls फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

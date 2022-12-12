@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してHTMLをXLSBに変換します
-url: /ja/python-java/conversion/html-to-xlsb/
+
 description: htmlからxlsbPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチhtmlファイルからxlsbへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

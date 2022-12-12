@@ -1,6 +1,6 @@
 ---
 title: Convert TSV to DIF via C++
-url: /cpp/conversion/tsv-to-dif/
+
 description: Convert TSV to DIF format in C++ code. Save TSV as DIF using C++.
 ---
 

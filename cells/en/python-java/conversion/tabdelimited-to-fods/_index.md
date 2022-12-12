@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to FODS via Python
-url: /python-java/conversion/tabdelimited-to-fods/
+
 description: Convert TABDELIMITED to FODS format in Python code. Save TABDELIMITED as FODS using Python.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "MHTML konvertálása MD-vé a következőn keresztül: Python"
-url: /hu/python-java/conversion/mhtml-to-md/
+
 description: Mintakód az mhtml–md Python konverzióhoz. Használjon API példakódot az mhtml fájlok kötegelt mdd konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

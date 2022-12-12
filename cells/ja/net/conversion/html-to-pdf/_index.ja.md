@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してHTMLをPDFに変換する
-url: /ja/net/conversion/html-to-pdf/
+
 description: htmlからpdfC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチhtmlファイルからpdfへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

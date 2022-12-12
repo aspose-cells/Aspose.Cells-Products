@@ -1,6 +1,6 @@
-﻿---
+---
 title: SPREADSHEETML'yi C# aracılığıyla XPS'ye dönüştürün
-url: /tr/net/conversion/spreadsheetml-to-xps/
+
 description: E-tablo ml'den xps'e C# dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu elektronik tabloml dosyalarını xps'e dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to SPREADSHEETML via Java 
-url: /java/conversion/sxc-to-spreadsheetml/
+
 description: Convert SXC to SPREADSHEETML format in Java code. Save SXC as SPREADSHEETML using Java.
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: แก้ไขหรือดูข้อมูลเมตาของเอกสาร XLSB ผ่าน C++ 
 weight: 4820
-url: /th/cpp/metadata/xlsb/ 
+
 description: C++ ตัวอย่างโค้ดสำหรับแก้ไขหรือดูข้อมูลเมตาของไฟล์ XLSB บน C++ Runtime Environment สำหรับ Windows 32 บิต, Windows 64 บิต และ Linux 64 บิต
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

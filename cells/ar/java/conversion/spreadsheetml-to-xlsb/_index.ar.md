@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل SPREADSHEETML إلى XLSB عبر Java 
-url: /ar/java/conversion/spreadsheetml-to-xlsb/ 
+
 description: نموذج رمز تحويل Java لتنسيق SPREADSHEETML إلى ملف XLSB. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى XLSB داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

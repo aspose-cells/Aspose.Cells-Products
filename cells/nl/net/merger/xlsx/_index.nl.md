@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLSX-bestanden samenvoegen via .NET 
 weight: 8290
-url: /nl/net/merger/xlsx/ 
+
 description: C# broncode om XLSX-documenten te combineren op .NET Framework, .NET Core, Mono of Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

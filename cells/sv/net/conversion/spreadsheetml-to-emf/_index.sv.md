@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera SPREADSHEETML till EMF via C#
-url: /sv/net/conversion/spreadsheetml-to-emf/
+
 description: Exempelkod för konvertering från kalkylarkml till emf C#. Använd API exempelkod för batch-kalkylarkml-filer för att emf-konvertera inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Merge HTML to HTML Files via Java 
-url: /java/merger/merge-html-to-html/ 
+
 description: Merge HTML to HTML file in Java code. Combine HTML to HTML file using Java based desktop or web application.
 ---
 

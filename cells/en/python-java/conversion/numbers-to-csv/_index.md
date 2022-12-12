@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to CSV via Python
-url: /python-java/conversion/numbers-to-csv/
+
 description: Convert NUMBERS to CSV format in Python code. Save NUMBERS as CSV using Python.
 ---
 

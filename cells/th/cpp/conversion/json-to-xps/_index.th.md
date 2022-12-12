@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง JSON เป็น XPS ผ่าน C++ แอปพลิเคชัน 
-url: /th/cpp/conversion/json-to-xps/ 
+
 description: ตัวอย่างรหัสการแปลง C++ สำหรับเอกสาร JSON เป็นรูปแบบ XPS โปรแกรมเมอร์สามารถใช้ซอร์สโค้ดนี้สำหรับการแปลง JSON เป็น XPS แบบแบตช์ภายในแอปพลิเคชัน C++ ใดๆ
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

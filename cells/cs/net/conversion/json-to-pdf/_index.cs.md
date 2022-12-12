@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést JSON na PDF přes C#
-url: /cs/net/conversion/json-to-pdf/
+
 description: Ukázkový kód pro převod json na pdf C#. Použijte API ukázkový kód pro dávkový převod souborů json na pdf v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

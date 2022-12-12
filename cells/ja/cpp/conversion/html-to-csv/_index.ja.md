@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++アプリケーションを介してHTMLをCSVに変換する 
 weight: 6850
-url: /ja/cpp/conversion/html-to-csv/ 
+
 description: HTMLドキュメントからCSV形式へのサンプルC++変換コード。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でHTMLからCSVへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

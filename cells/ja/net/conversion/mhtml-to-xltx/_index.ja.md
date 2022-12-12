@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してMHTMLをXLTXに変換します
-url: /ja/net/conversion/mhtml-to-xltx/
+
 description: mhtmlからxltxC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチmhtmlファイルからxltxへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

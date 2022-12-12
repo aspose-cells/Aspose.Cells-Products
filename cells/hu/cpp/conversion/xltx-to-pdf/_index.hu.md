@@ -1,6 +1,6 @@
-﻿---
+---
 title: Az XLTX konvertálása PDF-be a C++ alkalmazással 
-url: /hu/cpp/conversion/xltx-to-pdf/ 
+
 description: Minta C++ konverziós kód XLTX dokumentumhoz PDF formátumba. A programozók ezt a forráskódot használhatják az XLTX-ből PDF-be történő kötegelt konvertálására bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

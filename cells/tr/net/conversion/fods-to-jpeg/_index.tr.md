@@ -1,6 +1,6 @@
-﻿---
+---
 title: FODS'u C# aracılığıyla JPEG'e dönüştürün
-url: /tr/net/conversion/fods-to-jpeg/
+
 description: Yemler için jpeg C# dönüşümü için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde jpeg dönüşümüne toplu dosya dosyaları için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

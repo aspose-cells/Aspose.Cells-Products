@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 Python 将 TABDELIMITED 转换为 PNG
-url: /zh/python-java/conversion/tabdelimited-to-png/
+
 description: tabdelimited 到 png Python 转换的示例代码。使用 Python 应用程序中的批处理制表符分隔文件到 png 转换的 API 示例代码。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

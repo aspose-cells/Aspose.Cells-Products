@@ -1,6 +1,6 @@
-﻿---
+---
 title: Java aracılığıyla MHTML Dosyaları oluşturun 
-url: /tr/java/create-mhtml/ 
+
 description: Java MHTML belgeleri oluşturmak için örnek kod. Java tabanlı masaüstü veya web uygulamasında MHTML dosyaları oluşturmak için bu kodu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

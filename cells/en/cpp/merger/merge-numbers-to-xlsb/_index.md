@@ -1,6 +1,6 @@
 ---
 title: Merge NUMBERS to XLSB Files via C++ 
-url: /cpp/merger/merge-numbers-to-xlsb/ 
+
 description: Merge NUMBERS to XLSB file in C++ code. Combine NUMBERS to XLSB file using C++.
 ---
 

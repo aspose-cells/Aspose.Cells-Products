@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to XML via C#
-url: /net/conversion/excel-to-xml/
+
 description: Convert EXCEL to XML format in C# code. Save EXCEL as XML using VB.NET, Asp.NET or any .NET based application.
 ---
 

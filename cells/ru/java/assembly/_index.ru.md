@@ -1,6 +1,6 @@
-﻿---
+---
 title: Создание файлов Excel через Java
-url: /ru/java/assembly/
+
 description: Создавайте электронные таблицы Microsoft Excel из листа шаблона с помощью библиотеки электронных таблиц Java.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

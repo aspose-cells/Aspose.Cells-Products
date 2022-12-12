@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta ODS a FODS a través de Python
-url: /es/python-java/conversion/ods-to-fods/
+
 description: Código de muestra para la conversión de ods a fods Python. Utilice el código de ejemplo API para la conversión de archivos ods por lotes en la aplicación Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

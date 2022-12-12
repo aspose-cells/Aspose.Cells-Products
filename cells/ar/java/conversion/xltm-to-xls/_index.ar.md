@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل XLTM إلى XLS عبر Java 
 weight: 4850
-url: /ar/java/conversion/xltm-to-xls/ 
+
 description: نموذج Java رمز التحويل لتنسيق XLTM إلى ملف XLS. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى XLS داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

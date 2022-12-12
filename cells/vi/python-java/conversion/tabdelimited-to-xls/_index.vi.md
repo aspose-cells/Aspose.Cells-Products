@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi TABDELIMITED sang XLS qua Python
-url: /vi/python-java/conversion/tabdelimited-to-xls/
+
 description: Mã mẫu cho chuyển đổi được giới hạn bằng tab thành xls Python. Sử dụng mã mẫu API cho các tệp được giới hạn bằng tab hàng loạt thành chuyển đổi xls trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

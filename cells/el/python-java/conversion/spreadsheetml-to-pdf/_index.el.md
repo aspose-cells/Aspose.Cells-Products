@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή SPREADSHEETML σε PDF μέσω Python
-url: /el/python-java/conversion/spreadsheetml-to-pdf/
+
 description: Δείγμα κώδικα για μετατροπή υπολογιστικού φύλλου σε pdf Python. Χρησιμοποιήστε API παράδειγμα κώδικα για μαζική μετατροπή αρχείων υπολογιστικών φύλλων σε pdf εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

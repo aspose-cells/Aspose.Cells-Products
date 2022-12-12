@@ -1,6 +1,6 @@
-﻿---
+---
 title: MHT Dosya Biçimlerini .NET üzerinden görüntüleyin 
-url: /tr/net/viewer/mht/ 
+
 description: .NET Framework, .NET Core, Windows Azure, Mono veya Xamarin Platformlarında MHT belgelerini yüklemek, oluşturmak ve görüntülemek için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

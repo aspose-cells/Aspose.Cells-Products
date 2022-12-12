@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLSM na JPEG přes Python
-url: /cs/python-java/conversion/xlsm-to-jpeg/
+
 description: Ukázkový kód pro převod xlsm na jpeg Python. Použijte API ukázkový kód pro dávkový převod souborů xlsm na jpeg v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

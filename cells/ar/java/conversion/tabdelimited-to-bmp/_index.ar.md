@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TABDELIMITED إلى BMP عبر Java 
-url: /ar/java/conversion/tabdelimited-to-bmp/ 
+
 description: نموذج Java رمز تحويل لتنسيق TABDELIMITED إلى ملف BMP. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى BMP داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

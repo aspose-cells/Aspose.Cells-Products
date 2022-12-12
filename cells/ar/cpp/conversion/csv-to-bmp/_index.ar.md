@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل CSV إلى BMP عبر تطبيق C++ 
 weight: 4890
-url: /ar/cpp/conversion/csv-to-bmp/ 
+
 description: نموذج لشفرة تحويل C++ لمستند CSV إلى تنسيق BMP. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل CSV إلى BMP داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Gabungkan File XLSX melalui C++ 
-url: /id/cpp/merger/xlsx/ 
+
 description: C++ contoh kode untuk menggabungkan dokumen XLSX pada C++ Runtime Environment untuk Windows 32 bit, Windows 64 bit, dan Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to WORD via C++
-url: /cpp/conversion/xls-to-word/
+
 description: Convert XLS to WORD format in C++ code. Save XLS as WORD using C++.
 ---
 

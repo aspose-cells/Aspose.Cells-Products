@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to DOCX via C#
-url: /net/conversion/tabdelimited-to-docx/
+
 description: Convert TABDELIMITED to DOCX format in C# code. Save TABDELIMITED as DOCX using VB.NET, Asp.NET or any .NET based application.
 ---
 

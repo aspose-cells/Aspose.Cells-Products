@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java के माध्यम से XLSB फ़ाइलों में रिपोर्ट जेनरेट करें 
 weight: 3560
-url: /hi/java/assembly/xlsb/ 
+
 description: Java जेएसपी/जेएसएफ एप्लिकेशन और डेस्कटॉप एप्लिकेशन के लिए Java रनटाइम एनवायरनमेंट पर एक्सएलएसबी प्रारूप रिपोर्ट बनाने के लिए नमूना कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

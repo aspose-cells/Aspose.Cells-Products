@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to PDF via C++
-url: /cpp/conversion/excel-to-pdf/
+
 description: Convert EXCEL to PDF format in C++ code. Save EXCEL as PDF using C++.
 ---
 

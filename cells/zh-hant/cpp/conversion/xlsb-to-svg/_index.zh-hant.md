@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通過 C++ 應用程序將 XLSB 轉換為 SVG 
 weight: 4450
-url: /zh-hant/cpp/conversion/xlsb-to-svg/ 
+
 description: 將 XLSB 文檔轉換為 SVG 格式的示例 C++。程序員可以使用此源代碼在任何 C++ 應用程序中進行批量 XLSB 到 SVG 的轉換。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

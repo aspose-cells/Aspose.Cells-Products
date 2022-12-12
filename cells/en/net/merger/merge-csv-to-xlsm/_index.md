@@ -1,6 +1,6 @@
 ---
 title: Merge CSV to XLSM Files via C# 
-url: /net/merger/merge-csv-to-xlsm/ 
+
 description: Merge CSV to XLSM file in C# code. Combine CSV to XLSM file using VB.NET, Asp.NET or any .NET based application.
 ---
 

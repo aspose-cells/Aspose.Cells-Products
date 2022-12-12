@@ -1,7 +1,7 @@
-﻿---
+---
 title: Vyhledejte a nahraďte text v dokumentu XLS prostřednictvím .NET 
 weight: 7280
-url: /cs/net/redaction/xls/ 
+
 description: C# zdrojový kód k redigování citlivých informací v souboru XLS na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

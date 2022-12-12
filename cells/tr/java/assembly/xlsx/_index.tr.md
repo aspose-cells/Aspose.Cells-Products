@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java aracılığıyla XLSX Dosyalarında Raporlar Oluşturun 
 weight: 7710
-url: /tr/java/assembly/xlsx/ 
+
 description: JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Runtime Environment'da XLSX biçiminde raporlar oluşturmak için Java örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

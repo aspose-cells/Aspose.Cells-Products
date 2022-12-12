@@ -1,7 +1,7 @@
-﻿---
+---
 title: Chuyển đổi XLSB sang XLSM qua Java 
 weight: 3270
-url: /vi/java/conversion/xlsb-to-xlsm/ 
+
 description: Mã chuyển đổi Java mẫu cho định dạng XLSB thành tệp XLSM. Lập trình viên có thể sử dụng mã mẫu này để xuất bảng tính Excel & OpenOffice sang XLSM trong bất kỳ Ứng dụng dựa trên Web hoặc Máy tính để bàn Java nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

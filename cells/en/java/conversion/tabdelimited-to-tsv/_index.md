@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to TSV via Java 
-url: /java/conversion/tabdelimited-to-tsv/
+
 description: Convert TABDELIMITED to TSV format in Java code. Save TABDELIMITED as TSV using Java.
 ---
 

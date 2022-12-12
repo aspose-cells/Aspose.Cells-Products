@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してXLTをJPGに変換します 
-url: /ja/java/conversion/xlt-to-jpg/ 
+
 description: XLT形式からJPGファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、WebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをJPGにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

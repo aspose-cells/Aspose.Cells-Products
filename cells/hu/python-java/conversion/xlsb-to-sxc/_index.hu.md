@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Konvertálja az XLSB-t SXC-vé a következőn keresztül: Python"
-url: /hu/python-java/conversion/xlsb-to-sxc/
+
 description: Mintakód az xlsb–sxc Python konverzióhoz. Használjon API példakódot a kötegelt xlsb fájlok sxc konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

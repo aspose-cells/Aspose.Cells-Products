@@ -1,6 +1,6 @@
-﻿---
+---
 title: Buat File CSV melalui C# 
-url: /id/net/create-csv/ 
+
 description: C# Contoh kode untuk membuat dokumen CSV. Gunakan kode ini untuk membuat file CSV dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

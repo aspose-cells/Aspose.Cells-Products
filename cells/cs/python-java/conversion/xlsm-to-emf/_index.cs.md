@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLSM na EMF přes Python
-url: /cs/python-java/conversion/xlsm-to-emf/
+
 description: Ukázkový kód pro převod xlsm na emf Python. Použijte API ukázkový kód pro dávkový převod souborů xlsm na emf v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

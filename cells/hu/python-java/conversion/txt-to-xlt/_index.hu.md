@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TXT konvertálása XLT-vé a következőn keresztül: Python"
-url: /hu/python-java/conversion/txt-to-xlt/
+
 description: Mintakód a txt-ből xlt-be való Python konverzióhoz. Használjon API példakódot a kötegelt txt fájlok xlt konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

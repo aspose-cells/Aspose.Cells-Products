@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLT إلى TIFF عبر تطبيق C++ 
-url: /ar/cpp/conversion/xlt-to-tiff/ 
+
 description: نموذج رمز تحويل C++ لمستند XLT إلى تنسيق TIFF. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل XLT إلى TIFF دفعة داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

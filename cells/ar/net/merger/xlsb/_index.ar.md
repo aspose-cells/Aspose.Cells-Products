@@ -1,7 +1,7 @@
-﻿---
+---
 title: دمج ملفات XLSB عبر .NET 
 weight: 2970
-url: /ar/net/merger/xlsb/ 
+
 description: C# شفرة المصدر لدمج مستندات XLSB في .NET Framework أو .NET Core أو Mono أو أنظمة Xamarin الأساسية.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

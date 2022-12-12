@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してXLTをCSVに変換する
-url: /ja/net/conversion/xlt-to-csv/
+
 description: xltからcsvC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチxltファイルからcsvへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

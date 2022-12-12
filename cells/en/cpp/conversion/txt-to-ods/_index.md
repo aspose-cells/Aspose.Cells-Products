@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to ODS via C++
-url: /cpp/conversion/txt-to-ods/
+
 description: Convert TXT to ODS format in C++ code. Save TXT as ODS using C++.
 ---
 

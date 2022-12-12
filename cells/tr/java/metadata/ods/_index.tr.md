@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java aracılığıyla ODS Dosyaları Meta Verilerini Düzenleyin veya Görüntüleyin 
 weight: 2080
-url: /tr/java/metadata/ods/ 
+
 description: JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Runtime Environment'da ODS biçimi meta verilerini düzenlemek veya görüntülemek için Java örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

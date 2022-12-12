@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to ODS via Java 
-url: /java/conversion/excel-to-ods/
+
 description: Convert EXCEL to ODS format in Java code. Save EXCEL as ODS using Java.
 ---
 

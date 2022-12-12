@@ -1,7 +1,7 @@
-﻿---
+---
 title: Μετατρέψτε το ODS σε XLTM μέσω της εφαρμογής C++ 
 weight: 7720
-url: /el/cpp/conversion/ods-to-xltm/ 
+
 description: Δείγμα κώδικα μετατροπής C++ για έγγραφο ODS σε μορφή XLTM. Οι προγραμματιστές μπορούν να χρησιμοποιήσουν αυτόν τον πηγαίο κώδικα για ομαδική μετατροπή ODS σε XLTM σε οποιαδήποτε εφαρμογή C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

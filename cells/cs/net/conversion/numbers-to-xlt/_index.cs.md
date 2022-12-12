@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést NUMBERS na XLT přes C#
-url: /cs/net/conversion/numbers-to-xlt/
+
 description: Ukázkový kód pro převod čísel na xlt C#. Použijte API ukázkový kód pro dávkové soubory čísel ke konverzi xlt v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

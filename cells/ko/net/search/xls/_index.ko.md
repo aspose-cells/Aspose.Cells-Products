@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET을(를) 통해 열지 않고 XLS 문서 검색 
 weight: 1490
-url: /ko/net/search/xls/ 
+
 description: C# 소스 코드는 .NET Framework, .NET Core, Mono 또는 Xamarin Platforms의 XLS 파일에서 패턴이 있는 단어를 검색합니다.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

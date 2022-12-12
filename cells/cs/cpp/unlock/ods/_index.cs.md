@@ -1,7 +1,7 @@
-﻿---
+---
 title: Odemknout dokument ODS prostřednictvím C++ 
 weight: 1190
-url: /cs/cpp/unlock/ods/ 
+
 description: C++ ukázkový kód pro odemknutí souboru ODS chráněného heslem v C++ Runtime Environment pro Windows 32bit, Windows 64bit a Linux 64bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

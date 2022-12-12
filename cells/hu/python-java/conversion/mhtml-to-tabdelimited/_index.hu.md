@@ -1,6 +1,6 @@
-﻿---
+---
 title: "MHTML konvertálása TAB-raDELIMITED a következőn keresztül: Python"
-url: /hu/python-java/conversion/mhtml-to-tabdelimited/
+
 description: Mintakód az mhtml tabulátorral határolt Python konverzióhoz. Használjon API példakódot kötegelt mhtml-fájlokhoz a tabulátorral tagolt konverzióhoz a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

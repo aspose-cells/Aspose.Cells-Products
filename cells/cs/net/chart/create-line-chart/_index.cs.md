@@ -1,6 +1,6 @@
-﻿---
+---
 title: Vytvořit spojnicové grafy prostřednictvím C# 
-url: /cs/net/create-line-chart/ 
+
 description: C# Ukázkový kód pro vytváření spojnicových grafů do aplikace Excel pomocí knihovny .NET. Tento kód použijte k vytvoření spojnicového grafu do MS Excel v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

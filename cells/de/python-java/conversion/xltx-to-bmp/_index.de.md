@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie XLTX in BMP über Python
-url: /de/python-java/conversion/xltx-to-bmp/
+
 description: Beispielcode für die xltx-zu-bmp-Python-Konvertierung. Verwenden Sie API Beispielcode für die Batch-Konvertierung von xltx-Dateien in bmp innerhalb der Anwendung Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

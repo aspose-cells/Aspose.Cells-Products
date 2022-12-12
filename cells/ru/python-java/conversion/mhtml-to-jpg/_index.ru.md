@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование MHTML в JPG через Python
-url: /ru/python-java/conversion/mhtml-to-jpg/
+
 description: Пример кода для преобразования mhtml в jpg Python. Используйте пример кода API для пакетного преобразования файлов mhtml в jpg в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

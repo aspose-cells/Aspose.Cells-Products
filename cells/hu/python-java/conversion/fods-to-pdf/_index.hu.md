@@ -1,6 +1,6 @@
-﻿---
+---
 title: "FODS konvertálása PDF-be a következőn keresztül: Python"
-url: /hu/python-java/conversion/fods-to-pdf/
+
 description: Mintakód a fod-ból pdf-be Python konvertáláshoz. Használjon API példakódot a fods fájlok kötegelt pdf-té konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

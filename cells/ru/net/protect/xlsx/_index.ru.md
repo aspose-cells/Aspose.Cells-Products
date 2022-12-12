@@ -1,7 +1,7 @@
-﻿---
+---
 title: Защитите и заблокируйте документ XLSX через .NET 
 weight: 90
-url: /ru/net/protect/xlsx/ 
+
 description: Исходный код C# для блокировки файла XLSX с помощью пароля на платформах .NET Framework, .NET Core, Mono или Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Trích xuất văn bản và hình ảnh từ tài liệu XLS qua .NET 
 weight: 5600
-url: /vi/net/parser/xls/ 
+
 description: C# mã nguồn để trích xuất văn bản và hình ảnh từ tệp XLS trên Nền tảng .NET Framework, .NET Core Mono hoặc Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

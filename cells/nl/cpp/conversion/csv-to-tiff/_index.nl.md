@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer CSV naar TIFF via C++ applicatie 
 weight: 2920
-url: /nl/cpp/conversion/csv-to-tiff/ 
+
 description: Voorbeeld C++-conversiecode voor CSV-document naar TIFF-indeling. Programmeurs kunnen deze broncode gebruiken voor batch-CSV-naar-TIFF-conversie binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

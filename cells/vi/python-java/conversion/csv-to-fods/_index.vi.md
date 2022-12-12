@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi CSV sang FODS qua Python
-url: /vi/python-java/conversion/csv-to-fods/
+
 description: Mã mẫu cho chuyển đổi csv thành fods Python. Sử dụng API mã ví dụ cho các tệp csv hàng loạt để hỗ trợ chuyển đổi trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

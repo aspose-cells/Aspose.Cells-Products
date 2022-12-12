@@ -1,6 +1,6 @@
-﻿---
+---
 title: Wandeln Sie SPREADSHEETML über Python in MHTML um
-url: /de/python-java/conversion/spreadsheetml-to-mhtml/
+
 description: Beispielcode für die Umwandlung von Spreadsheetml in Mhtml Python. Verwenden Sie den API Beispielcode für die Batch-Konvertierung von Spreadsheetml-Dateien in MHTML innerhalb der Anwendung Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

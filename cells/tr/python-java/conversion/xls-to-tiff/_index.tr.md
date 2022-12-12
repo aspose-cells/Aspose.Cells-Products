@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla XLS'yi TIFF'ye dönüştürün
-url: /tr/python-java/conversion/xls-to-tiff/
+
 description: xls'den tiff'e Python dönüşümü için örnek kod. Python uygulamasında dönüştürmeyi tifflemek için toplu xls dosyaları için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

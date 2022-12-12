@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést CSV na BMP prostřednictvím Python
-url: /cs/python-java/conversion/csv-to-bmp/
+
 description: Ukázkový kód pro převod csv na bmp Python. Použijte API ukázkový kód pro dávkový převod souborů csv na bmp v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

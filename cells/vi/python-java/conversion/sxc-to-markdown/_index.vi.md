@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi SXC thành MARKDOWN qua Python
-url: /vi/python-java/conversion/sxc-to-markdown/
+
 description: Mã mẫu cho chuyển đổi sxc để đánh dấu Python. Sử dụng mã mẫu API cho các tệp sxc hàng loạt để đánh dấu chuyển đổi trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

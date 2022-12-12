@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi NUMBER ke JSON melalui Java 
-url: /id/java/conversion/numbers-to-json/ 
+
 description: Contoh Java kode konversi untuk format NUMBER ke file JSON. Pemrogram dapat menggunakan kode contoh ini untuk mengekspor spreadsheet Excel & OpenOffice ke JSON dalam Aplikasi berbasis Java Web atau Desktop apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ Programação de planilhas do Excel API - Aspose 
 weight: 7140
-url: /pt/cpp/ 
+
 description: C++ Biblioteca do Excel para ler, gravar e analisar arquivos, incluindo os formatos XLS, XLSX, XLSM e XLSB. Converta planilhas para PDF, CSV e outros formatos
 ---
 {{< blocks/products/pf/main-wrap-class >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertera XLSM till TXT via Java 
 weight: 9530
-url: /sv/java/conversion/xlsm-to-txt/ 
+
 description: Exempel Java-konverteringskod för XLSM-format till TXT-fil. Programmerare kan använda den här exempelkoden för att exportera Excel- och OpenOffice-kalkylblad till TXT inom alla webb- eller skrivbordsbaserade Java-applikationer.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

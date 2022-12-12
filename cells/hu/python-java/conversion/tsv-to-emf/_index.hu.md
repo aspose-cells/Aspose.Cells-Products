@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TSV konvertálása EMF-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/tsv-to-emf/
+
 description: Mintakód a tsv-ből emf-be Python konverzióhoz. Használjon API példakódot kötegelt tsv-fájlokhoz az EMF-konverzióhoz a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

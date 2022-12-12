@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to GIF via C++
-url: /cpp/conversion/sxc-to-gif/
+
 description: Convert SXC to GIF format in C++ code. Save SXC as GIF using C++.
 ---
 

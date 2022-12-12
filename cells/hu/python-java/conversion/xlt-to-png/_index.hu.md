@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLT konvertálása PNG-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/xlt-to-png/
+
 description: Mintakód az xlt png Python átalakításhoz. Használjon API példakódot a kötegelt xlt fájlokhoz png konvertáláshoz a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

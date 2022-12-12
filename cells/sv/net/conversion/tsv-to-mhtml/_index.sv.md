@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera TSV till MHTML via C#
-url: /sv/net/conversion/tsv-to-mhtml/
+
 description: Exempelkod för konvertering från tsv till mhtml C#. Använd API exempelkod för batch-tsv-filer till mhtml-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

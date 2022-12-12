@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง TABDELIMITED เป็น TSV ผ่าน Python
-url: /th/python-java/conversion/tabdelimited-to-tsv/
+
 description: โค้ดตัวอย่างสำหรับการแปลงแท็บเป็น tsv Python ใช้รหัสตัวอย่าง API สำหรับไฟล์ที่คั่นด้วยแท็บแบทช์เป็นการแปลง tsv ภายในแอปพลิเคชัน Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

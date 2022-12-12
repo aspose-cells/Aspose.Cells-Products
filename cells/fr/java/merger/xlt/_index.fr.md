@@ -1,7 +1,7 @@
-﻿---
+---
 title: Fusionner les fichiers XLT via Java 
 weight: 9960
-url: /fr/java/merger/xlt/ 
+
 description: Java exemple de code pour combiner des documents XLT sur Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

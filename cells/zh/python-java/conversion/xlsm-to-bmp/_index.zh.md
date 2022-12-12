@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 Python 将 XLSM 转换为 BMP
-url: /zh/python-java/conversion/xlsm-to-bmp/
+
 description: xlsm 到 bmp Python 转换的示例代码。使用 Python 应用程序中批处理 xlsm 文件到 bmp 转换的 API 示例代码。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

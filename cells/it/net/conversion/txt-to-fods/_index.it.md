@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converti TXT in FODS tramite C#
-url: /it/net/conversion/txt-to-fods/
+
 description: Codice di esempio per la conversione da txt a fods C#. Utilizza API codice di esempio per la conversione di file txt in batch in fods all'interno di VB.NET, Asp.NET o qualsiasi applicazione basata su .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

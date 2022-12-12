@@ -1,7 +1,7 @@
 ---
 title: Convert CSV to Byte Array via C# 
 weight: 7690
-url: /net/conversion/csv-to-byte-array/ 
+
 description: C# Sample code for CSV to Byte Array conversion. Use this code for Excel CSV to Byte Array conversion within VB.NET, Asp.NET or any .NET based application.
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLTM-Dateien über Java zusammenführen 
 weight: 8210
-url: /de/java/merger/xltm/ 
+
 description: Java Beispielcode zum Kombinieren von XLTM-Dokumenten in Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

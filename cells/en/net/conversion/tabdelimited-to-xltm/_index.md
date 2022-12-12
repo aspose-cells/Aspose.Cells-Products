@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to XLTM via C#
-url: /net/conversion/tabdelimited-to-xltm/
+
 description: Convert TABDELIMITED to XLTM format in C# code. Save TABDELIMITED as XLTM using VB.NET, Asp.NET or any .NET based application.
 ---
 

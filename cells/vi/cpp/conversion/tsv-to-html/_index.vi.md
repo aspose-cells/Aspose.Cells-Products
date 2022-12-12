@@ -1,7 +1,7 @@
-﻿---
+---
 title: Chuyển đổi TSV sang HTML thông qua ứng dụng C++ 
 weight: 4980
-url: /vi/cpp/conversion/tsv-to-html/ 
+
 description: Mã chuyển đổi C++ mẫu cho tài liệu TSV sang định dạng HTML. Các lập trình viên có thể sử dụng mã nguồn này để chuyển đổi TSV sang HTML hàng loạt trong bất kỳ Ứng dụng C++ nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

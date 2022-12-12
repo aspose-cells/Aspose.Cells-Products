@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通過 Java 將 HTML 轉換為 XLS 
 weight: 6700
-url: /zh-hant/java/conversion/html-to-xls/ 
+
 description: HTML 格式到 XLS 文件的示例 Java 轉換代碼。程序員可以使用此示例代碼將 Excel 和 OpenOffice 電子表格導出到任何基於 Web 或桌面 Java 的應用程序中的 XLS。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Xuất báo cáo trong Excel XLS XLSX PDF ODS trong JasperReports và JasperServer 
 weight: 9460
-url: /vi/jasperreports/ 
+
 description: Xuất báo cáo từ Báo cáo Jasper và JasperServer ở định dạng Excel XLS XLSX PDF ODS TXT và SpreadsheetML. Cũng in báo cáo dưới dạng Bảng tính Excel
 ---
 {{< blocks/products/pf/main-wrap-class >}}

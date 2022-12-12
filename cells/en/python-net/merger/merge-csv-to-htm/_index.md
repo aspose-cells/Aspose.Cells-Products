@@ -1,6 +1,6 @@
 ---
 title: Merge CSV to HTM Files via Python 
-url: /python-net/merger/merge-csv-to-htm/ 
+
 description: Merge CSV to HTM file in Python code. Combine CSV to HTM file using Python.
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: إنشاء التقارير في ملفات XLSM عبر Java 
 weight: 270
-url: /ar/java/assembly/xlsm/ 
+
 description: Java نموذج لرمز لإنشاء تقارير بتنسيق XLSM حول Java Runtime Environment لتطبيق JSP / JSF وتطبيقات سطح المكتب.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

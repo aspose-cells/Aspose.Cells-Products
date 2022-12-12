@@ -1,7 +1,7 @@
-﻿---
+---
 title: Αναζήτηση εγγράφου TSV χωρίς άνοιγμα μέσω Java 
 weight: 4940
-url: /el/java/search/tsv/ 
+
 description: Java δείγμα κώδικα για αναζήτηση λέξεων με μοτίβο σε αρχείο TSV στο Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

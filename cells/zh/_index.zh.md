@@ -1,7 +1,7 @@
-﻿---
+---
 title: Excel文件格式解决方案
 weight: 7730
-url: /zh/
+
 description: 使用高代码或低代码 API 或无代码应用程序创建 Excel 文件操作应用程序，以查看比较检查或转换 Excel 文件。
 ---
 {{< blocks/products/pf/main-wrap-class >}}

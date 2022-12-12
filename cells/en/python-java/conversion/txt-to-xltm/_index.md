@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to XLTM via Python
-url: /python-java/conversion/txt-to-xltm/
+
 description: Convert TXT to XLTM format in Python code. Save TXT as XLTM using Python.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést SPREADSHEETML na PNG přes C#
-url: /cs/net/conversion/spreadsheetml-to-png/
+
 description: Ukázkový kód pro převod tabulky ml na png C#. Použijte API ukázkový kód pro dávkové soubory tabulkového procesoruml na převod png v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

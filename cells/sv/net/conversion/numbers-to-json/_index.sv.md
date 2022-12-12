@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera NUMBERS till JSON via C#
-url: /sv/net/conversion/numbers-to-json/
+
 description: Exempelkod för konvertering av nummer till json C#. Använd API exempelkod för batchnummerfiler till json-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Edit file TXT melalui .NET 
-url: /id/net/editor/txt/ 
+
 description: C# kode sumber untuk mengedit dokumen TXT pada .NET Framework, .NET Core, Windows Azure, Mono atau Platform Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

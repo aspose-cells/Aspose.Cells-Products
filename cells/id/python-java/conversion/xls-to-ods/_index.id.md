@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan XLS ke ODS melalui Python
-url: /id/python-java/conversion/xls-to-ods/
+
 description: Contoh kode untuk konversi xls ke ods Python. Gunakan API kode contoh untuk file batch xls ke konversi ods dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

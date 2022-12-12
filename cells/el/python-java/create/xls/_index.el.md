@@ -1,6 +1,6 @@
-﻿---
+---
 title: Δημιουργία αρχείων MS Excel XLS μέσω Python 
-url: /el/python-java/create-xls/ 
+
 description: Python Δείγμα κώδικα για τη δημιουργία εγγράφων XLS. Χρησιμοποιήστε αυτόν τον κώδικα για τη δημιουργία αρχείων MS Excel XLS εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

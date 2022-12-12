@@ -1,6 +1,6 @@
-﻿---
+---
 title: สร้างแผนภูมิวงกลมผ่าน Python
-url: /th/python-java/create-pie-chart/
+
 description: Python โค้ดตัวอย่างสำหรับสร้างแผนภูมิวงกลมใน Excel โดยใช้ Python ไลบรารี ใช้รหัสนี้เพื่อสร้างแผนภูมิวงกลมใน MS Excel ภายในแอปพลิเคชันที่ใช้ Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

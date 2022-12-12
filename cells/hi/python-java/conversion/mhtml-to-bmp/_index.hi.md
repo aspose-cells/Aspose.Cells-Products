@@ -1,6 +1,6 @@
-﻿---
+---
 title: एमएचटीएमएल को बीएमपी में बदलने के लिए Python
-url: /hi/python-java/conversion/mhtml-to-bmp/
+
 description: mhtml से bmp Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर बीएमपी रूपांतरण के लिए बैच एमएचटीएमएल फाइलों के लिए API उदाहरण कोड का प्रयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

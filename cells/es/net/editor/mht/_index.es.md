@@ -1,6 +1,6 @@
-﻿---
+---
 title: Editar archivos MHT a través de .NET 
-url: /es/net/editor/mht/ 
+
 description: C# código fuente para editar documentos MHT en .NET Framework, .NET Core, Windows Azure, Mono o Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

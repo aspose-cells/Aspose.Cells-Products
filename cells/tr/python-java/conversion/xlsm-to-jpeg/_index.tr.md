@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla XLSM'yi JPEG'e dönüştürün
-url: /tr/python-java/conversion/xlsm-to-jpeg/
+
 description: xlsm'den jpeg'e Python dönüştürme için örnek kod. Python uygulamasında toplu xlsm dosyaları için jpeg dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

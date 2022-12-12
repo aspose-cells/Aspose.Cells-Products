@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversi HTML ke XLTM melalui C++ aplikasi 
 weight: 7740
-url: /id/cpp/conversion/html-to-xltm/ 
+
 description: Contoh C++ kode konversi untuk dokumen HTML ke format XLTM. Pemrogram dapat menggunakan kode sumber ini untuk konversi batch HTML ke XLTM dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Μετατροπή HTML σε ODS μέσω της εφαρμογής C++ 
 weight: 4390
-url: /el/cpp/conversion/html-to-ods/ 
+
 description: Δείγμα κώδικα μετατροπής C++ για έγγραφο HTML σε μορφή ODS. Οι προγραμματιστές μπορούν να χρησιμοποιήσουν αυτόν τον πηγαίο κώδικα για ομαδική μετατροπή HTML σε ODS σε οποιαδήποτε εφαρμογή C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

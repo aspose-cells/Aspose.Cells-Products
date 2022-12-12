@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование ODS в XLSX через C#
-url: /ru/net/conversion/ods-to-xlsx/
+
 description: Пример кода для преобразования ods в xlsx C#. Используйте пример кода API для пакетного преобразования файлов ods в xlsx в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

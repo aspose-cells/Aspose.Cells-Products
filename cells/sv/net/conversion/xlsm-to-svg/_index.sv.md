@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera XLSM till SVG via C#
-url: /sv/net/conversion/xlsm-to-svg/
+
 description: Exempelkod för konvertering av xlsm till svg C#. Använd API exempelkod för batch-xlsm-filer till svg-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

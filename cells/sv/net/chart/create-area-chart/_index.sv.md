@@ -1,6 +1,6 @@
-﻿---
+---
 title: Skapa områdesdiagram via C#
-url: /sv/net/create-area-chart/
+
 description: C# Exempelkod för att skapa Ytdiagram till Excel med hjälp av .NET Library. Använd den här koden för att skapa ett områdesdiagram till MS Excel i VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

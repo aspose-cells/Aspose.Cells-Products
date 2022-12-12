@@ -1,7 +1,7 @@
-﻿---
+---
 title: عرض تنسيقات ملفات ODS عبر .NET 
 weight: 130
-url: /ar/net/viewer/ods/ 
+
 description: C# شفرة المصدر لتحميل وعرض وعرض مستندات ODS على الأنظمة الأساسية .NET Framework أو .NET Core أو Mono أو Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

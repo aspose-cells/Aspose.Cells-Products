@@ -1,7 +1,7 @@
-﻿---
+---
 title: Объединить файлы MHTML через .NET 
 weight: 2610
-url: /ru/net/merger/mhtml/ 
+
 description: Исходный код C# для объединения документов MHTML на платформах .NET Framework, .NET Core, Mono или Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

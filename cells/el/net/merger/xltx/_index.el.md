@@ -1,7 +1,7 @@
-﻿---
+---
 title: Συγχώνευση αρχείων XLTX μέσω .NET 
 weight: 1220
-url: /el/net/merger/xltx/ 
+
 description: C# πηγαίος κώδικας για συνδυασμό εγγράφων XLTX σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

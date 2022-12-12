@@ -1,6 +1,6 @@
-﻿---
+---
 title: Visa MHTML-filformat via .NET 
-url: /sv/net/viewer/mhtml/ 
+
 description: C# källkod för att ladda, rendera och visa MHTML-dokument på .NET Framework, .NET Core, Windows Azure, Mono eller Xamarin-plattformar.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

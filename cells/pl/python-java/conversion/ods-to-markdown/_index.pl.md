@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj ODS na MARKDOWN za pomocą Python
-url: /pl/python-java/conversion/ods-to-markdown/
+
 description: Przykładowy kod konwersji kursów na przecenę Python. Użyj przykładowego kodu API dla wsadowych plików ofert do konwersji przecen w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

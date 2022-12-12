@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Hozzon létre MS Excel XLT fájlokat a következőn keresztül: Java "
-url: /hu/java/create-xlt/ 
+
 description: Java Mintakód XLT-dokumentumok generálásához. Ezzel a kóddal MS Excel XLT fájlokat hozhat létre Java alapú asztali vagy webes alkalmazásban.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

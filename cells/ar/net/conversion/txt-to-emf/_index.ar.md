@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TXT إلى EMF عبر C#
-url: /ar/net/conversion/txt-to-emf/
+
 description: نموذج كود لتحويل TXT إلى emf C#. استخدم API رمز المثال لملفات txt الدفعية لتحويل emf داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

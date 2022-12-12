@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converti TSV in TIFF tramite C#
-url: /it/net/conversion/tsv-to-tiff/
+
 description: Codice di esempio per la conversione da tsv a tiff C#. Utilizza API codice di esempio per la conversione batch di file tsv in tiff all'interno di VB.NET, Asp.NET o qualsiasi applicazione basata su .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

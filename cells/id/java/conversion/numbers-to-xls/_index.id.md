@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi NUMBER ke XLS melalui Java 
-url: /id/java/conversion/numbers-to-xls/ 
+
 description: Contoh Java kode konversi untuk format NUMBER ke file XLS. Pemrogram dapat menggunakan kode contoh ini untuk mengekspor spreadsheet Excel & OpenOffice ke XLS dalam Aplikasi berbasis Web atau Desktop Java apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

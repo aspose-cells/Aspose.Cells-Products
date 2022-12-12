@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj SPREADSHEETML na TXT przez C#
-url: /pl/net/conversion/spreadsheetml-to-txt/
+
 description: Przykładowy kod konwersji arkusza kalkulacyjnego z ml na txt C#. Użyj przykładowego kodu API dla plików arkusza kalkulacyjnego wsadowego do konwersji txt w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

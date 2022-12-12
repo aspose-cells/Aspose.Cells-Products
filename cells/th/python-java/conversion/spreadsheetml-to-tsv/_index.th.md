@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง SPREADSHEETML เป็น TSV ผ่าน Python
-url: /th/python-java/conversion/spreadsheetml-to-tsv/
+
 description: โค้ดตัวอย่างสำหรับการแปลงสเปรดชีตml เป็น tsv Python ใช้โค้ดตัวอย่าง API สำหรับไฟล์แบทช์สเปรดชีตml เป็นการแปลง tsv ภายในแอปพลิเคชัน Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

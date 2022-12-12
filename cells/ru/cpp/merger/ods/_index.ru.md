@@ -1,6 +1,6 @@
-﻿---
+---
 title: Объединить файлы ODS через C++ 
-url: /ru/cpp/merger/ods/ 
+
 description: Пример кода C++ для объединения документов ODS в среде выполнения C++ для 32-разрядной, 64-разрядной Windows и 64-разрядной версии Linux.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

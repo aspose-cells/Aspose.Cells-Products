@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してXLTをPDFに変換する 
 weight: 2550
-url: /ja/java/conversion/xlt-to-pdf/ 
+
 description: XLT形式からPDFファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、WebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをPDFにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

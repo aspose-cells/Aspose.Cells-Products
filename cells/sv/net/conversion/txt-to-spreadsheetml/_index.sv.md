@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera TXT till SPREADSHEETML via C#
-url: /sv/net/conversion/txt-to-spreadsheetml/
+
 description: Exempelkod för konvertering från txt till kalkylbladml C#. Använd API exempelkod för batch-txt-filer till kalkylarkml-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET Java C++ API di analisi di fogli di calcolo Excel per PHP e Android 
 weight: 10
-url: /it/family
+
 description: Librerie per leggere, scrivere e manipolare file Microsoft Excel in .NET Java C++ app Android e SharePoint. Esporta fogli di lavoro in SSRS e JasperReports
 ---
 {{< blocks/products/pf/main-wrap-class >}}

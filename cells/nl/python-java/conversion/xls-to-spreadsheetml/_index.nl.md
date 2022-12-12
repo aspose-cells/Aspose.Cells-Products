@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLS naar SPREADSHEETML via Python
-url: /nl/python-java/conversion/xls-to-spreadsheetml/
+
 description: Voorbeeldcode voor xls naar spreadsheetml Python conversie. Gebruik API voorbeeldcode voor batch xls-bestanden naar spreadsheetml-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

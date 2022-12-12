@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή FODS σε DIF μέσω Python
-url: /el/python-java/conversion/fods-to-dif/
+
 description: Δείγμα κώδικα για τροφές για να διαφοροποιήσετε τη μετατροπή Python. Χρησιμοποιήστε API παράδειγμα κώδικα για αρχεία batch fods για να διαφοροποιήσετε τη μετατροπή εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "CSV konvertálása JPG formátumba a következőn keresztül: C#"
-url: /hu/net/conversion/csv-to-jpg/
+
 description: Mintakód a csv-ből jpg-be C# konvertáláshoz. Használjon API példakódot a csv fájlok kötegelt jpg konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

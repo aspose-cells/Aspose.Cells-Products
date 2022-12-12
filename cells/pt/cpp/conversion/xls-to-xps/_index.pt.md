@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converter XLS para XPS por meio do aplicativo C++ 
 weight: 2830
-url: /pt/cpp/conversion/xls-to-xps/ 
+
 description: Exemplo de código de conversão C++ de documento XLS para formato XPS. Os programadores podem usar esse código-fonte para conversão em lote de XLS para XPS em qualquer aplicativo C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

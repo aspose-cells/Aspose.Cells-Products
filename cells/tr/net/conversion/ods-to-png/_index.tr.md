@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla ODS'yi PNG'ye dönüştürün
-url: /tr/net/conversion/ods-to-png/
+
 description: ods'den png'ye C# dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu ods dosyalarını png'ye dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

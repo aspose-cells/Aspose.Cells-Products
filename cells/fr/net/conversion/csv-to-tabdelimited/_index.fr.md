@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir CSV en TABDELIMITED via C#
-url: /fr/net/conversion/csv-to-tabdelimited/
+
 description: Exemple de code pour la conversion csv vers C# délimité par des tabulations. Utilisez l'exemple de code API pour les fichiers csv par lots en conversion délimitée par des tabulations dans VB.NET, Asp.NET ou toute application basée sur .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

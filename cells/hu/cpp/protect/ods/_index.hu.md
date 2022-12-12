@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Az ODS-dokumentum védelme és zárolása a következőn keresztül: C++ "
 weight: 10010
-url: /hu/cpp/protect/ods/ 
+
 description: C++ példakód az ODS-fájl jelszóval történő zárolására a C++ Runtime Environment for Windows 32 bit, a Windows 64 bit és a Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

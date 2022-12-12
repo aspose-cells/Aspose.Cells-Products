@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование JSON в PDF через Python
-url: /ru/python-java/conversion/json-to-pdf/
+
 description: Пример кода для преобразования json в pdf Python. Используйте пример кода API для пакетного преобразования файлов json в pdf в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

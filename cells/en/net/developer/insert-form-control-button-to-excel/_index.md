@@ -1,7 +1,7 @@
 ---
 title: Insert Button(Form control) into Excel via .NET 
 weight: 10
-url: /net/developer/insert-form-control-button-to-excel/
+
 description: C# source code to insert button(Form control) into Excel on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

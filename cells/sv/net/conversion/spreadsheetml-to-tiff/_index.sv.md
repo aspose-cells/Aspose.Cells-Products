@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera SPREADSHEETML till TIFF via C#
-url: /sv/net/conversion/spreadsheetml-to-tiff/
+
 description: Exempelkod för konvertering från kalkylarkml till tiff C#. Använd API exempelkod för batch-kalkylarkml-filer för att tiff-konvertera inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to ODS via Java 
-url: /java/conversion/xlsb-to-ods/
+
 description: Convert XLSB to ODS format in Java code. Save XLSB as ODS using Java.
 ---
 

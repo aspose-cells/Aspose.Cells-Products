@@ -1,6 +1,6 @@
 ---
 title: Merge XLSM to CSV Files via C++ 
-url: /cpp/merger/merge-xlsm-to-csv/ 
+
 description: Merge XLSM to CSV file in C++ code. Combine XLSM to CSV file using C++.
 ---
 

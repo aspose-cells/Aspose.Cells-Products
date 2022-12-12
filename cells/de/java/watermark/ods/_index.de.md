@@ -1,7 +1,7 @@
-﻿---
+---
 title: ODS-Dokument mit Wasserzeichen über Java 
 weight: 1040
-url: /de/java/watermark/ods/ 
+
 description: Java Beispielcode zum Hinzufügen oder Entfernen von Wasserzeichen zur ODS-Datei in Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

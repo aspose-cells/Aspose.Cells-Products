@@ -1,7 +1,7 @@
-﻿---
+---
 title: Sök i XLSM-dokument utan att öppna via .NET 
 weight: 4880
-url: /sv/net/search/xlsm/ 
+
 description: C# källkod för att söka efter ord med mönster i XLSM-fil på .NET Framework, .NET Core, Mono eller Xamarin-plattformar.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: NUMBERS'ı Java aracılığıyla TSV'ye dönüştürün 
-url: /tr/java/conversion/numbers-to-tsv/ 
+
 description: NUMBERS biçimi için TSV dosyasına örnek Java dönüştürme kodu. Programcılar, Excel ve OpenOffice elektronik tablolarını herhangi bir Web veya Masaüstü Java tabanlı Uygulamada TSV'ye aktarmak için bu örnek kodu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

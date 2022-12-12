@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla XLT'yi ODS'ye dönüştürün
-url: /tr/net/conversion/xlt-to-ods/
+
 description: xlt'den ods'ye C# dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu xlt dosyalarından ods'ye dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

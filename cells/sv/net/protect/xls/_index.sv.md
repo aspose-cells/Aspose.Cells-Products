@@ -1,7 +1,7 @@
-﻿---
+---
 title: Skydda och lås XLS-dokument via .NET 
 weight: 7010
-url: /sv/net/protect/xls/ 
+
 description: C# källkod för att låsa XLS-fil med lösenord på .NET Framework, .NET Core, Mono eller Xamarin-plattformar.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

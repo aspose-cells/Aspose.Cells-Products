@@ -1,6 +1,6 @@
-﻿---
+---
 title: TSV को C# के माध्यम से EMF में बदलें
-url: /hi/net/conversion/tsv-to-emf/
+
 description: tsv से emf C# रूपांतरण के लिए नमूना कोड। वीबी.NET, एएसपी.NET या किसी .NET आधारित एप्लिकेशन के भीतर ईएमएफ रूपांतरण के लिए बैच टीएसवी फाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan SPREADSHEETML ke CSV melalui Python
-url: /id/python-java/conversion/spreadsheetml-to-csv/
+
 description: Contoh kode untuk spreadsheetml ke csv Python konversi. Gunakan API kode contoh untuk file batch spreadsheetml ke konversi csv dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

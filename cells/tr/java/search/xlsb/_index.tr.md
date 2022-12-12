@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java üzerinden açmadan XLSB belgesini arayın 
 weight: 9420
-url: /tr/java/search/xlsb/ 
+
 description: JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Runtime Environment'daki XLSB dosyasında kalıplı kelimeleri aramak için Java örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

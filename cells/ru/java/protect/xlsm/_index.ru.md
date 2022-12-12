@@ -1,7 +1,7 @@
-﻿---
+---
 title: Защитите и заблокируйте документ XLSM через Java 
 weight: 9620
-url: /ru/java/protect/xlsm/ 
+
 description: Пример кода Java для блокировки файла XLSM с помощью пароля в Java среде выполнения для приложений JSP/JSF и настольных приложений.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

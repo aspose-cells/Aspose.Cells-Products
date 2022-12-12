@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLS в PDF через Python
-url: /ru/python-java/conversion/xls-to-pdf/
+
 description: Пример кода для преобразования xls в pdf Python. Используйте пример кода API для пакетного преобразования файлов xls в pdf в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

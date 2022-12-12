@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLTX إلى TXT عبر تطبيق C++ 
-url: /ar/cpp/conversion/xltx-to-txt/ 
+
 description: نموذج C++ رمز التحويل لمستند XLTX إلى تنسيق TXT. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل XLTX إلى TXT دفعة داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

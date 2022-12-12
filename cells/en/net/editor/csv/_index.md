@@ -1,6 +1,6 @@
 ---
 title: Edit CSV files via .NET 
-url: /net/editor/csv/ 
+
 description: C# source code to edit CSV document on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
 

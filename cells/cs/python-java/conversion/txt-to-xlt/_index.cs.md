@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TXT na XLT přes Python
-url: /cs/python-java/conversion/txt-to-xlt/
+
 description: Ukázkový kód pro převod txt na xlt Python. Použijte API ukázkový kód pro dávkový převod souborů txt na xlt v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

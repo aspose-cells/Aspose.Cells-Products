@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 C++ 应用程序将 JSON 转换为 MD 
-url: /zh/cpp/conversion/json-to-md/ 
+
 description: JSON 文档到 MD 格式的示例 C++ 转换代码。程序员可以使用此源代码在任何 C++ 应用程序中进行批量 JSON 到 MD 的转换。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

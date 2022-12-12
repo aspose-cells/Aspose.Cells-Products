@@ -1,6 +1,6 @@
-﻿---
+---
 title: Tạo Biểu đồ bong bóng qua C#
-url: /vi/net/create-bubble-chart/
+
 description: C# Mã mẫu để tạo biểu đồ Bong bóng sang Excel bằng .NET Thư viện. Sử dụng mã này để tạo biểu đồ {chart} cho MS Excel trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

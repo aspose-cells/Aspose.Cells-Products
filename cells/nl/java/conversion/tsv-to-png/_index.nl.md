@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer TSV naar PNG via Java 
 weight: 9740
-url: /nl/java/conversion/tsv-to-png/ 
+
 description: Voorbeeld Java conversiecode voor TSV-indeling naar PNG-bestand. Programmeurs kunnen deze voorbeeldcode gebruiken om Excel- en OpenOffice-spreadsheets naar PNG te exporteren binnen elke web- of desktoptoepassing Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

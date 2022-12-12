@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java के माध्यम से ODS फ़ाइलें मर्ज करें 
 weight: 6270
-url: /hi/java/merger/ods/ 
+
 description: Java ODS दस्तावेज़ों को Java JSP/JSF एप्लिकेशन और डेस्कटॉप एप्लिकेशन के लिए रनटाइम एनवायरनमेंट पर संयोजित करने के लिए नमूना कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

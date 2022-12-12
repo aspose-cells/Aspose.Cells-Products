@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# के माध्यम से कॉलम चार्ट बनाएं
-url: /hi/net/create-column-chart/
+
 description: C# .NET लाइब्रेरी का उपयोग करके एक्सेल में कॉलम चार्ट बनाने के लिए नमूना कोड। वीबी.NET, एएसपी.NET या किसी .NET आधारित एप्लिकेशन के भीतर एमएस एक्सेल में कॉलम चार्ट बनाने के लिए इस कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

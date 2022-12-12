@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer XLSB naar XLSM via C++ applicatie 
 weight: 2360
-url: /nl/cpp/conversion/xlsb-to-xlsm/ 
+
 description: Voorbeeld C++ conversiecode voor XLSB-document naar XLSM-indeling. Programmeurs kunnen deze broncode gebruiken voor batch-conversie van XLSB naar XLSM binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

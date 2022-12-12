@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل ODS إلى EMF عبر تطبيق C++ 
 weight: 8180
-url: /ar/cpp/conversion/ods-to-emf/ 
+
 description: نموذج C++ رمز تحويل لمستند ODS إلى تنسيق EMF. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل دفعة من ODS إلى EMF داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: .NET C# aracılığıyla Excel Dosya Meta Verilerini Yönetin
-url: /tr/net/metadata/
+
 description: Yalnızca birkaç satır C# koduyla Excel dosyalarının meta verilerini görüntüleyin, ekleyin, düzenleyin, kaldırın veya çıkarın
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

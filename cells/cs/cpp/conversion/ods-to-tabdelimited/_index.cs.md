@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést ODS na TABDELIMITED pomocí aplikace C++ 
-url: /cs/cpp/conversion/ods-to-tabdelimited/ 
+
 description: Ukázkový konverzní kód C++ pro dokument ODS do formátu TABDELIMITED. Programátoři mohou použít tento zdrojový kód pro dávkovou konverzi ODS na TABDELIMITED v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

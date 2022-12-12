@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Konvertálja az XLT-t MARKDOWN-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/xlt-to-markdown/
+
 description: Mintakód az xlt to markdown Python konverzióhoz. Használjon API példakódot kötegelt xlt-fájlokhoz a konverzió leértékeléséhez a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование HTML в ODS через Python
-url: /ru/python-java/conversion/html-to-ods/
+
 description: Пример кода для преобразования html в ods Python. Используйте пример кода API для пакетного преобразования файлов html в ods в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

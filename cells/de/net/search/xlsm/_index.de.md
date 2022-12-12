@@ -1,7 +1,7 @@
-﻿---
+---
 title: Durchsuchen Sie das XLSM-Dokument, ohne es über .NET zu öffnen 
 weight: 4880
-url: /de/net/search/xlsm/ 
+
 description: C#-Quellcode zum Suchen von Wörtern mit Muster in der XLSM-Datei auf .NET Framework-, .NET Core-, Mono- oder Xamarin-Plattformen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLS-documentdiagram via Java 
 weight: 1050
-url: /nl/java/chart/xls/ 
+
 description: Java voorbeeldcode om een grafiek of diagram in XLS-bestand te tekenen en om te zetten in Java Runtime-omgeving voor JSP/JSF-applicaties en desktopapplicaties.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

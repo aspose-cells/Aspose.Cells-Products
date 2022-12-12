@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してJSONをEXCELに変換します
-url: /ja/net/conversion/json-to-excel/
+
 description: C#変換に優れたjsonのサンプルコード。バッチjsonファイルのAPIサンプルコードを使用して、VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内での変換に優れています。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

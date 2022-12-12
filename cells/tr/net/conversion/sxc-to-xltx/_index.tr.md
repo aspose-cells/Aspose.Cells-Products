@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla SXC'yi XLTX'e dönüştürün
-url: /tr/net/conversion/sxc-to-xltx/
+
 description: sxc'den xltx'e C# dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu sxc dosyalarından xltx'e dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

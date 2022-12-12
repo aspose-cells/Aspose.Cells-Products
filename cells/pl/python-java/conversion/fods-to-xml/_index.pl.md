@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj FODS na XML za pomocą Python
-url: /pl/python-java/conversion/fods-to-xml/
+
 description: Przykładowy kod konwersji fod do xml Python. Użyj przykładowego kodu API dla wsadowych plików fods do konwersji xml w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

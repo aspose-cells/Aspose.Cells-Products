@@ -1,6 +1,6 @@
-﻿---
+---
 title: สร้างแผนภูมิพื้นที่ผ่าน C#
-url: /th/net/create-area-chart/
+
 description: C# โค้ดตัวอย่างสำหรับสร้างแผนภูมิพื้นที่ไปยัง Excel โดยใช้ .NET ไลบรารี ใช้รหัสนี้เพื่อสร้างแผนภูมิพื้นที่ไปยัง MS Excel ภายใน VB.NET, Asp.NET หรือแอปพลิเคชันที่ใช้ .NET
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

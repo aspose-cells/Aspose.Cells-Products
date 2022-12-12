@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Excel-diagramok létrehozása és konvertálása képekké a következőn keresztül: Java"
-url: /hu/java/chart/
+
 description: Java forráskód a diagram vagy diagram megrajzolásához és konvertálásához Microsoft Excelben a Java Library segítségével. 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

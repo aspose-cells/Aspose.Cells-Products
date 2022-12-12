@@ -1,7 +1,7 @@
-﻿---
+---
 title:  Tabla de documentos XLS a imágenes a través de .NET 
 weight: 3210
-url: /es/net/chart/xls/ 
+
 description: C# código fuente para dibujar y convertir gráficos o diagramas en un archivo XLS en .NET Framework, .NET Core, Mono o Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

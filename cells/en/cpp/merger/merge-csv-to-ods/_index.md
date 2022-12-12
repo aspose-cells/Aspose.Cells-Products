@@ -1,6 +1,6 @@
 ---
 title: Merge CSV to ODS Files via C++ 
-url: /cpp/merger/merge-csv-to-ods/ 
+
 description: Merge CSV to ODS file in C++ code. Combine CSV to ODS file using C++.
 ---
 

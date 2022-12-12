@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TXT na SPREADSHEETML přes Python
-url: /cs/python-java/conversion/txt-to-spreadsheetml/
+
 description: Ukázkový kód pro převod txt na tabulkuml Python. Použijte API ukázkový kód pro dávkový převod souborů txt do tabulkyml v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

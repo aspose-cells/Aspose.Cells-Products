@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to BMP via C++
-url: /cpp/conversion/spreadsheetml-to-bmp/
+
 description: Convert SPREADSHEETML to BMP format in C++ code. Save SPREADSHEETML as BMP using C++.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование NUMBERS в MARKDOWN с помощью Python
-url: /ru/python-java/conversion/numbers-to-markdown/
+
 description: Пример кода для преобразования чисел в уценку Python. Используйте пример кода API для файлов номеров пакетов для преобразования уценки в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

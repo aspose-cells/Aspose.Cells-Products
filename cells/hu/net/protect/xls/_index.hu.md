@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLS-dokumentum védelme és zárolása a következőn keresztül: .NET "
 weight: 7010
-url: /hu/net/protect/xls/ 
+
 description: C# forráskód az XLS-fájl jelszóval történő zárolásához .NET Framework, .NET Core, Mono vagy Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

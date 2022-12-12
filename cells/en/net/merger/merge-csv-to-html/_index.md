@@ -1,6 +1,6 @@
 ---
 title: Merge CSV to HTML Files via C# 
-url: /net/merger/merge-csv-to-html/ 
+
 description: Merge CSV to HTML file in C# code. Combine CSV to HTML file using VB.NET, Asp.NET or any .NET based application.
 ---
 

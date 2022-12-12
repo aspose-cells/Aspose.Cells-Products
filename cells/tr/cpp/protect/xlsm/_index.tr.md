@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLSM belgesini C++ aracılığıyla koruyun ve kilitleyin 
 weight: 8770
-url: /tr/cpp/protect/xlsm/ 
+
 description: C++ Windows 32 bit, Windows 64 bit ve Linux 64 bit için C++ Runtime Environment'da parola kullanarak XLSM dosyasını kilitlemek için örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to CSV via Java 
-url: /java/conversion/mhtml-to-csv/
+
 description: Convert MHTML to CSV format in Java code. Save MHTML as CSV using Java.
 ---
 

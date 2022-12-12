@@ -1,7 +1,7 @@
-﻿---
+---
 title: Dela ODS-filer via .NET 
 weight: 140
-url: /sv/net/splitter/ods/ 
+
 description: C# källkod för att dela ODS-dokument på .NET Framework, .NET Core, Mono eller Xamarin-plattformar.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

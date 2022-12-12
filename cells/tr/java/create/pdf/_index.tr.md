@@ -1,6 +1,6 @@
-﻿---
+---
 title: Java aracılığıyla PDF Dosyaları Oluşturun 
-url: /tr/java/create-pdf/ 
+
 description: Java PDF belgeleri oluşturmak için örnek kod. Java tabanlı masaüstü veya web uygulamasında PDF dosyaları oluşturmak için bu kodu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

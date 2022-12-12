@@ -1,7 +1,7 @@
-﻿---
+---
 title: Zobrazit formáty souborů ODS prostřednictvím .NET 
 weight: 130
-url: /cs/net/viewer/ods/ 
+
 description: C# zdrojový kód pro načtení, vykreslení a zobrazení dokumentů ODS na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

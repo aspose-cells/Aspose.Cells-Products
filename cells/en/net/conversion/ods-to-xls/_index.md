@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to XLS via C#
-url: /net/conversion/ods-to-xls/
+
 description: Convert ODS to XLS format in C# code. Save ODS as XLS using VB.NET, Asp.NET or any .NET based application.
 ---
 

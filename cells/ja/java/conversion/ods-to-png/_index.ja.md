@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してODSをPNGに変換する 
 weight: 6180
-url: /ja/java/conversion/ods-to-png/ 
+
 description: ODS形式からPNGファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、WebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをPNGにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

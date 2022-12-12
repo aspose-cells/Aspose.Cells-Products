@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLSX-et XML-re a(z) C++ alkalmazással 
-url: /hu/cpp/conversion/xlsx-to-xml/ 
+
 description: Minta C++ konverziós kód XLSX dokumentumhoz XML formátumba. A programozók ezt a forráskódot használhatják XLSX-ből XML-be kötegelt konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

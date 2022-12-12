@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してXLSBをXLAMに変換します 
-url: /ja/java/conversion/xlsb-to-xlam/ 
+
 description: XLSB形式からXLAMファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のXLAMにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

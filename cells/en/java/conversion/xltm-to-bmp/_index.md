@@ -1,6 +1,6 @@
 ---
 title: Convert XLTM to BMP via Java 
-url: /java/conversion/xltm-to-bmp/
+
 description: Convert XLTM to BMP format in Java code. Save XLTM as BMP using Java.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل الأرقام إلى GIF عبر C#
-url: /ar/net/conversion/numbers-to-gif/
+
 description: نموذج رمز للأرقام لتحويل C# gif. استخدم API رمز المثال لملفات أرقام الدُفعات لتحويل gif داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

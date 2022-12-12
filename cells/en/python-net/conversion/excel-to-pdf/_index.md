@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to PDF via Python
-url: /python-net/conversion/excel-to-pdf/
+
 description: Sample code for excel to pdf Python conversion. Use API example code for batch excel files to pdf conversion within Python application.
 ---
 

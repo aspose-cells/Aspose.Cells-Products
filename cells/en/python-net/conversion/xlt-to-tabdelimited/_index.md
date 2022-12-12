@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to TABDELIMITED via Python
-url: /python-net/conversion/xlt-to-tabdelimited/
+
 description: Sample code for xlt to tabdelimited Python conversion. Use API example code for batch xlt files to tabdelimited conversion within Python application.
 ---
 

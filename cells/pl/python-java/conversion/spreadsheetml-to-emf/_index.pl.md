@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj SPREADSHEETML na EMF za pomocą Python
-url: /pl/python-java/conversion/spreadsheetml-to-emf/
+
 description: Przykładowy kod konwersji arkusza kalkulacyjnego na emf Python. Użyj przykładowego kodu API dla wsadowych plików arkusza kalkulacyjnego w celu konwersji emf w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

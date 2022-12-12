@@ -1,6 +1,6 @@
 ---
 title: Merge ODS to NUMBERS Files via C++ 
-url: /cpp/merger/merge-ods-to-numbers/ 
+
 description: Merge ODS to NUMBERS file in C++ code. Combine ODS to NUMBERS file using C++.
 ---
 

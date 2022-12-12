@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحرير ملفات MHTML عبر .NET 
-url: /ar/net/editor/mhtml/ 
+
 description: C# شفرة المصدر لتعديل مستند MHTML على الأنظمة الأساسية .NET Framework أو .NET Core أو Windows Azure Mono أو Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

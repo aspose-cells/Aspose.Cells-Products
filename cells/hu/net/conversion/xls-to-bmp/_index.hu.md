@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLS konvertálása BMP-vé a következőn keresztül: C#"
-url: /hu/net/conversion/xls-to-bmp/
+
 description: Mintakód az xls–bmp C# konverzióhoz. Használjon API példakódot kötegelt xls fájlokhoz a bmp konverzióhoz VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

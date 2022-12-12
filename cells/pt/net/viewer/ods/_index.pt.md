@@ -1,7 +1,7 @@
-﻿---
+---
 title: Visualize Formatos de Arquivo ODS via .NET 
 weight: 130
-url: /pt/net/viewer/ods/ 
+
 description: C# código-fonte para carregar, renderizar e exibir documentos ODS em plataformas .NET Framework, .NET Core, Mono ou Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

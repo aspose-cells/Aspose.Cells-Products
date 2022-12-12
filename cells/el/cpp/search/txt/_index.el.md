@@ -1,7 +1,7 @@
-﻿---
+---
 title: Αναζήτηση εγγράφου TXT χωρίς άνοιγμα μέσω C++ 
 weight: 5090
-url: /el/cpp/search/txt/ 
+
 description: C++ παράδειγμα κώδικα για αναζήτηση λέξεων με μοτίβο σε αρχείο TXT σε C++ Runtime Environment για Windows 32 bit, Windows 64 bit και Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

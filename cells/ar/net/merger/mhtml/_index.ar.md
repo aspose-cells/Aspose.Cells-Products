@@ -1,7 +1,7 @@
-﻿---
+---
 title: دمج ملفات MHTML عبر .NET 
 weight: 2610
-url: /ar/net/merger/mhtml/ 
+
 description: C# شفرة المصدر لدمج مستندات MHTML في .NET Framework أو .NET Core أو Mono أو أنظمة Xamarin الأساسية.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

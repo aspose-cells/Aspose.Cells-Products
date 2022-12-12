@@ -1,7 +1,7 @@
-﻿---
+---
 title: Extrahera text och bilder från XLSB-dokument via .NET 
 weight: 2200
-url: /sv/net/parser/xlsb/ 
+
 description: C# källkod för att extrahera text och bilder från XLSB-fil på .NET Framework, .NET Core, Mono eller Xamarin-plattformar.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

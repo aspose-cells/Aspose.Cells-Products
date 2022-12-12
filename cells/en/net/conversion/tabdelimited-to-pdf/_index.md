@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to PDF via C#
-url: /net/conversion/tabdelimited-to-pdf/
+
 description: Convert TABDELIMITED to PDF format in C# code. Save TABDELIMITED as PDF using VB.NET, Asp.NET or any .NET based application.
 ---
 

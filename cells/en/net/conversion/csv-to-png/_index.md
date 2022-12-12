@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to PNG via C#
-url: /net/conversion/csv-to-png/
+
 description: Convert CSV to PNG format in C# code. Save CSV as PNG using VB.NET, Asp.NET or any .NET based application.
 ---
 

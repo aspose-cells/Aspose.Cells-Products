@@ -1,6 +1,6 @@
-﻿---
+---
 title: Tạo Tệp PDF qua Java 
-url: /vi/java/create-pdf/ 
+
 description: Java Mã mẫu để tạo tài liệu PDF. Sử dụng mã này để tạo tệp PDF trong ứng dụng web hoặc máy tính để bàn dựa trên Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

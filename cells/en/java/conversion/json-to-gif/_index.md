@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to GIF via Java 
-url: /java/conversion/json-to-gif/
+
 description: Convert JSON to GIF format in Java code. Save JSON as GIF using Java.
 ---
 

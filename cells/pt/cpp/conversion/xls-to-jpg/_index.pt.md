@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter XLS para JPG por meio do aplicativo C++ 
-url: /pt/cpp/conversion/xls-to-jpg/ 
+
 description: Exemplo de código de conversão C++ de documento XLS para formato JPG. Os programadores podem usar esse código-fonte para conversão em lote de XLS para JPG em qualquer aplicativo C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

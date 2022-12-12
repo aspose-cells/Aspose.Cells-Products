@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 C# 将 XLSX 转换为 ODS
-url: /zh/net/conversion/xlsx-to-ods/
+
 description: xlsx 到 ods C# 转换的示例代码。使用 API 示例代码在 VB.NET、Asp.NET 或任何基于 .NET 的应用程序中将 xlsx 文件批量转换为 ods。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

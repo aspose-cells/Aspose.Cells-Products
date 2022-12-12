@@ -1,7 +1,7 @@
-﻿---
+---
 title: Gabungkan File TSV melalui .NET 
 weight: 1360
-url: /id/net/merger/tsv/ 
+
 description: C# kode sumber untuk menggabungkan dokumen TSV pada .NET Framework, .NET Core, Mono atau Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi XLTX ke XLSX melalui C++ aplikasi 
-url: /id/cpp/conversion/xltx-to-xlsx/ 
+
 description: Contoh C++ kode konversi untuk dokumen XLTX ke format XLSX. Pemrogram dapat menggunakan kode sumber ini untuk konversi batch XLTX ke XLSX dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

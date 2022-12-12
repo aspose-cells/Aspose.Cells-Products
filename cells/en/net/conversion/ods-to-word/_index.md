@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to WORD via C#
-url: /net/conversion/ods-to-word/
+
 description: Convert ODS to WORD format in C# code. Save ODS as WORD using VB.NET, Asp.NET or any .NET based application.
 ---
 

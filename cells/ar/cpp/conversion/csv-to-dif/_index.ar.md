@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل CSV إلى DIF عبر تطبيق C++ 
 weight: 460
-url: /ar/cpp/conversion/csv-to-dif/ 
+
 description: نموذج C++ رمز التحويل لمستند CSV إلى تنسيق DIF. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل CSV إلى DIF داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

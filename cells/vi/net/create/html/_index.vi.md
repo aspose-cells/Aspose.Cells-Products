@@ -1,6 +1,6 @@
-﻿---
+---
 title: Tạo Tệp HTML qua C# 
-url: /vi/net/create-html/ 
+
 description: C# Mã mẫu để tạo tài liệu HTML. Sử dụng mã này để tạo tệp HTML trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

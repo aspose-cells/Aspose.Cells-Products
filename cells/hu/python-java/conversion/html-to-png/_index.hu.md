@@ -1,6 +1,6 @@
-﻿---
+---
 title: "HTML konvertálása PNG-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/html-to-png/
+
 description: Mintakód a html-ből png-be Python konverzióhoz. Használjon API példakódot kötegelt html fájlok png konverziójához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

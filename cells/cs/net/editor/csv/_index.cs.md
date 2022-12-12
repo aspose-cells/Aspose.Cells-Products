@@ -1,6 +1,6 @@
-﻿---
+---
 title: Upravit soubory CSV prostřednictvím .NET 
-url: /cs/net/editor/csv/ 
+
 description: C# zdrojový kód k úpravě dokumentu CSV na platformách .NET Framework, .NET Core, Windows Azure, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

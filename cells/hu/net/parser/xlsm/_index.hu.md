@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Szöveg és képek kinyerése XLSM-dokumentumból a következőn keresztül: .NET "
 weight: 4010
-url: /hu/net/parser/xlsm/ 
+
 description: C# forráskód a szövegek és képek XLSM-fájlból való kinyeréséhez .NET Framework, .NET Core, Mono vagy Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

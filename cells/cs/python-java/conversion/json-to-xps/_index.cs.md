@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést JSON na XPS přes Python
-url: /cs/python-java/conversion/json-to-xps/
+
 description: Ukázkový kód pro převod json na xps Python. Použijte API ukázkový kód pro dávkový převod souborů json na xps v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

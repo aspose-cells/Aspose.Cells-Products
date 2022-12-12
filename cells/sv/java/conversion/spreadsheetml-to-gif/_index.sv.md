@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera SPREADSHEETML till GIF via Java 
-url: /sv/java/conversion/spreadsheetml-to-gif/ 
+
 description: Exempel Java-konverteringskod för SPREADSHEETML-format till GIF-fil. Programmerare kan använda den här exempelkoden för att exportera Excel- och OpenOffice-kalkylblad till GIF inom alla webb- eller skrivbordsbaserade Java-applikationer.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

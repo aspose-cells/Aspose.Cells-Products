@@ -1,6 +1,6 @@
-﻿---
+---
 title: Generera Excel-filer via C#
-url: /sv/net/assembly/
+
 description: Generera Microsoft Excel-kalkylblad från ett mallark med C#-koden
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

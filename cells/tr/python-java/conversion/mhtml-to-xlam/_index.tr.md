@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla MHTML'yi XLAM'e dönüştürün
-url: /tr/python-java/conversion/mhtml-to-xlam/
+
 description: mhtml'den xlam'e Python dönüştürme için örnek kod. Python uygulamasında toplu mhtml dosyalarından xlam'e dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

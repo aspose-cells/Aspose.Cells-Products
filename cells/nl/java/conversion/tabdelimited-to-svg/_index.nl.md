@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer TABDELIMITED naar SVG via Java 
-url: /nl/java/conversion/tabdelimited-to-svg/ 
+
 description: Voorbeeld Java-conversiecode voor TABDELIMITED-indeling naar SVG-bestand. Programmeurs kunnen deze voorbeeldcode gebruiken om Excel- en OpenOffice-spreadsheets naar SVG te exporteren binnen elke web- of desktoptoepassing Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

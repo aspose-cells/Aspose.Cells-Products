@@ -1,7 +1,7 @@
-﻿---
+---
 title: Ứng dụng chuyển đổi bảng tính SharePoint Excel - Aspose 
 weight: 940
-url: /vi/sharepoint/ 
+
 description: Aspose.Cells cho Ứng dụng SharePoint là một trình chuyển đổi Bảng tính SharePoint Excel. Xuất XLS XLSX XML CSV PDF ODS & amp; Các định dạng HTML trong MOSS WSS
 ---
 {{< blocks/products/pf/main-wrap-class >}}

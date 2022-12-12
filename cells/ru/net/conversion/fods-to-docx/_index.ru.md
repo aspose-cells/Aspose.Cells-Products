@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование FODS в DOCX через C#
-url: /ru/net/conversion/fods-to-docx/
+
 description: Пример кода для преобразования fods в docx C#. Используйте пример кода API для пакетного преобразования файлов fods в docx в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

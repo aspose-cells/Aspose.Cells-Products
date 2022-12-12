@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง TXT เป็น PNG ผ่าน C#
-url: /th/net/conversion/txt-to-png/
+
 description: โค้ดตัวอย่างสำหรับการแปลง txt เป็น png C# ใช้โค้ดตัวอย่าง API สำหรับไฟล์แบตช์ txt เป็นการแปลง png ภายใน VB.NET, Asp.NET หรือแอปพลิเคชันที่ใช้ .NET ใดๆ
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

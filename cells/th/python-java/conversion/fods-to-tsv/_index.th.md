@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง FODS เป็น TSV ผ่าน Python
-url: /th/python-java/conversion/fods-to-tsv/
+
 description: โค้ดตัวอย่างสำหรับการแปลง fods เป็น tsv Python ใช้รหัสตัวอย่าง API สำหรับไฟล์แบตช์ fods เป็นการแปลง tsv ภายในแอปพลิเคชัน Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

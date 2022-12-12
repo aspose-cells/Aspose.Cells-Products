@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj TABDELIMITED na TXT przez Python
-url: /pl/python-java/conversion/tabdelimited-to-txt/
+
 description: Przykładowy kod konwersji rozdzielanej tabulatorami na txt Python. Użyj przykładowego kodu API dla plików wsadowych rozdzielanych tabulatorami do konwersji txt w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

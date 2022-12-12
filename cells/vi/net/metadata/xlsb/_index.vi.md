@@ -1,7 +1,7 @@
-﻿---
+---
 title: Xem hoặc chỉnh sửa siêu dữ liệu tệp XLSB qua .NET 
 weight: 7890
-url: /vi/net/metadata/xlsb/ 
+
 description: C# mã nguồn để chỉnh sửa hoặc xem siêu dữ liệu định dạng XLSB trên Nền tảng .NET Framework, .NET Core Mono hoặc Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: MHTML को JSON में C++ एप्लिकेशन के माध्यम से कनवर्ट करें 
-url: /hi/cpp/conversion/mhtml-to-json/ 
+
 description: नमूना C++ एमएचटीएमएल दस्तावेज़ के लिए जेएसओएन प्रारूप में रूपांतरण कोड। प्रोग्रामर इस स्रोत कोड का उपयोग किसी भी C++ एप्लिकेशन में बैच एमएचटीएमएल से जेएसओएन रूपांतरण के लिए कर सकते हैं।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

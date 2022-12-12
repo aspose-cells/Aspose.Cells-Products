@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Az XLSM-dokumentum feloldása a következőn keresztül: Java "
 weight: 7700
-url: /hu/java/unlock/xlsm/ 
+
 description: Java mintakód a jelszóval védett XLSM-fájl feloldásához a Java Runtime Environment for JSP/JSF alkalmazásokhoz és asztali alkalmazásokhoz.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera SPREADSHEETML till SXC via C#
-url: /sv/net/conversion/spreadsheetml-to-sxc/
+
 description: Exempelkod för konvertering från kalkylarkml till sxc C#. Använd API exempelkod för batch-kalkylarkml-filer till sxc-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

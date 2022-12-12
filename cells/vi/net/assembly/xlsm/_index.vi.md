@@ -1,7 +1,7 @@
-﻿---
+---
 title: Tạo Báo cáo trong Tệp XLSM qua .NET 
 weight: 4400
-url: /vi/net/assembly/xlsm/ 
+
 description: C# mã nguồn để tạo báo cáo định dạng XLSM trên Nền tảng .NET Framework, .NET Core Mono hoặc Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

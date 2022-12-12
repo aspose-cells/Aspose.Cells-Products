@@ -1,7 +1,7 @@
-﻿---
+---
 title: "ODS konvertálása XLTM-re a következőn keresztül: Java "
 weight: 1520
-url: /hu/java/conversion/ods-to-xltm/ 
+
 description: Minta Java konverziós kód az ODS-formátumhoz XLTM-fájllá. A programozók ezt a példakódot használhatják Excel- és OpenOffice-táblázatok XLTM-be exportálására bármely web- vagy asztali Java-alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してFODSをMARKDOWNに変換します
-url: /ja/net/conversion/fods-to-markdown/
+
 description: fodsからmarkdownC#への変換のサンプルコード。バッチfodsファイルのAPIサンプルコードを使用して、VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内で変換をマークダウンします。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést NUMBERS na BMP přes Python
-url: /cs/python-java/conversion/numbers-to-bmp/
+
 description: Ukázkový kód pro převod čísel na bmp Python. Použijte API ukázkový kód pro dávkové soubory čísel na převod bmp v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

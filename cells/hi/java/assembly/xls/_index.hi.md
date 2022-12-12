@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLS फ़ाइलों में Java के माध्यम से रिपोर्ट जेनरेट करें 
 weight: 1090
-url: /hi/java/assembly/xls/ 
+
 description: Java जेएसपी/जेएसएफ एप्लिकेशन और डेस्कटॉप एप्लिकेशन के लिए Java रनटाइम एनवायरनमेंट पर एक्सएलएस प्रारूप रिपोर्ट बनाने के लिए नमूना कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

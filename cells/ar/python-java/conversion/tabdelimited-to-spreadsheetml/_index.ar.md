@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TABDELIMITED إلى SPREADSHEETML عبر Python
-url: /ar/python-java/conversion/tabdelimited-to-spreadsheetml/
+
 description: نموذج رمز لجدولة محدّدة لتحويل جدول البيانات Python. استخدم API رمز المثال للملفات المحددة بعلامات جدولة مجمعة لتحويل ملف جدول بيانات داخل Python التطبيق.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

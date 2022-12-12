@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla CSV Dosyaları oluşturun 
-url: /tr/python-java/create-csv/ 
+
 description: Python CSV belgeleri oluşturmak için örnek kod. Python uygulamasında CSV dosyaları oluşturmak için bu kodu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

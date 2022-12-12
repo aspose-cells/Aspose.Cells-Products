@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してSPREADSHEETMLをBMPに変換します
-url: /ja/net/conversion/spreadsheetml-to-bmp/
+
 description: SpreadsheetmlからbmpC#への変換のサンプルコード。バッチspreadsheetmlファイルのAPIサンプルコードを使用して、VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内で変換をbmpします。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

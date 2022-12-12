@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java을(를) 통해 XLSX 문서 보호 및 잠금 
 weight: 1870
-url: /ko/java/protect/xlsx/ 
+
 description: Java JSP/JSF 애플리케이션 및 데스크톱 애플리케이션용 Java 런타임 환경에서 비밀번호를 사용하여 XLSX 파일을 잠그는 샘플 코드.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

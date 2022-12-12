@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET Java C++ Interfejsy API analizowania arkuszy kalkulacyjnych PHP i Android Excel 
 weight: 10
-url: /pl/family
+
 description: Biblioteki do odczytu, zapisu i obsługi plików Microsoft Excel w aplikacjach .NET Java C++ na Androida i SharePoint. Eksportuj arkusze robocze w SSRS i JasperReports
 ---
 {{< blocks/products/pf/main-wrap-class >}}

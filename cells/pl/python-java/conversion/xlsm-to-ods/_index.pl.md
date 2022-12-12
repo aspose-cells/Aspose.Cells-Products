@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj XLSM na ODS przez Python
-url: /pl/python-java/conversion/xlsm-to-ods/
+
 description: Przykładowy kod konwersji xlsm do ods Python. Użyj przykładowego kodu API dla wsadowych plików xlsm do konwersji kursów w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

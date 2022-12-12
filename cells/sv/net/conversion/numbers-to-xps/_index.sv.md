@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera NUMBERS till XPS via C#
-url: /sv/net/conversion/numbers-to-xps/
+
 description: Exempelkod för konvertering av tal till xps C#. Använd API exempelkod för batchnummerfiler till xps-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

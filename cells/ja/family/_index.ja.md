@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET JavaC++PHPおよびAndroidExcelSpreadsheet解析API 
 weight: 10
-url: /ja/family
+
 description: .NET JavaC++AndroidおよびSharePointアプリでMicrosoftExcelファイルを読み書きおよび操作するためのライブラリ。 SSRSおよびJasperReportsでワークシートをエクスポートする
 ---
 {{< blocks/products/pf/main-wrap-class >}}

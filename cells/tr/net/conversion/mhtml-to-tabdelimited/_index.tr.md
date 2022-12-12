@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla MHTML'yi TABDELIMITED'e dönüştürün
-url: /tr/net/conversion/mhtml-to-tabdelimited/
+
 description: mhtml'den sekmeyle ayrılmış C# dönüşümüne ilişkin örnek kod. Toplu mhtml dosyaları için VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde sekmeyle ayrılmış dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

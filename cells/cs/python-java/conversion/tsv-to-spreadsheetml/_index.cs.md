@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TSV na SPREADSHEETML prostřednictvím Python
-url: /cs/python-java/conversion/tsv-to-spreadsheetml/
+
 description: Ukázkový kód pro převod tsv na tabulkuml Python. Použijte API ukázkový kód pro dávkový převod souborů tsv do tabulkyml v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

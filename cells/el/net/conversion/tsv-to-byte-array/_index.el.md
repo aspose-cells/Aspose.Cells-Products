@@ -1,7 +1,7 @@
-﻿---
+---
 title: Μετατροπή TSV σε πίνακα Byte μέσω C# 
 weight: 7690
-url: /el/net/conversion/tsv-to-byte-array/ 
+
 description: C# Δείγμα κώδικα για μετατροπή TSV σε πίνακα Byte. Χρησιμοποιήστε αυτόν τον κώδικα για τη μετατροπή Excel TSV σε Byte Array εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

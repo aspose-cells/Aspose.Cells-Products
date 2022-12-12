@@ -1,6 +1,6 @@
-﻿---
+---
 title: FODS को Python के माध्यम से XML में बदलें
-url: /hi/python-java/conversion/fods-to-xml/
+
 description: फोड से xml Python रूपांतरण के लिए नमूना कोड। बैच फोड फ़ाइलों के लिए Python एप्लिकेशन के भीतर xml रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

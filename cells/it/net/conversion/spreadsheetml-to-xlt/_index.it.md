@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converti SPREADSHEETML in XLT tramite C#
-url: /it/net/conversion/spreadsheetml-to-xlt/
+
 description: Codice di esempio per la conversione da foglio di calcoloml a xlt C#. Usa API codice di esempio per la conversione batch di file spreadsheetml in xlt all'interno di VB.NET, Asp.NET o qualsiasi applicazione basata su .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してXLSをXLTに変換します
-url: /ja/python-java/conversion/xls-to-xlt/
+
 description: xlsからxltPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチxlsファイルからxltへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

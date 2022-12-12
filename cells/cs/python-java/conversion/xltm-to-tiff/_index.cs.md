@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLTM na TIFF přes Python
-url: /cs/python-java/conversion/xltm-to-tiff/
+
 description: Ukázkový kód pro převod xltm na tiff Python. Použijte API ukázkový kód pro dávkové soubory xltm k převodu tiff v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

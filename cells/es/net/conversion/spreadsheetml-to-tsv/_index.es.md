@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta SPREADSHEETML a TSV a través de C#
-url: /es/net/conversion/spreadsheetml-to-tsv/
+
 description: Código de muestra para la conversión de hoja de cálculo a tsv C#. Utilice el código de ejemplo API para la conversión de archivos de hoja de cálculo por lotes a tsv dentro de VB.NET, Asp.NET o cualquier aplicación basada en .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

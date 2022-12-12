@@ -1,6 +1,6 @@
-﻿---
+---
 title: SPREADSHEETML को C# के माध्यम से ODS में बदलें
-url: /hi/net/conversion/spreadsheetml-to-ods/
+
 description: स्प्रेडशीटएमएल से ऑड्स C# रूपांतरण के लिए नमूना कोड। VB.NET, Asp.NET या किसी भी .NET आधारित एप्लिकेशन के भीतर ods रूपांतरण में बैच स्प्रेडशीटएमएल फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

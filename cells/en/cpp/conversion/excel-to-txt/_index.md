@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to TXT via C++
-url: /cpp/conversion/excel-to-txt/
+
 description: Convert EXCEL to TXT format in C++ code. Save EXCEL as TXT using C++.
 ---
 

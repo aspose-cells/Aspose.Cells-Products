@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer ODS naar XLS via C#
-url: /nl/net/conversion/ods-to-xls/
+
 description: Voorbeeldcode voor conversie van ods naar xls C#. Gebruik API voorbeeldcode voor batch-ods-bestanden naar xls-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

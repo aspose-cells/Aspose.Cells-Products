@@ -1,7 +1,7 @@
-﻿---
+---
 title: Hợp nhất các tệp TXT qua .NET 
 weight: 7350
-url: /vi/net/merger/txt/ 
+
 description: C# mã nguồn để kết hợp các tài liệu TXT trên Nền tảng .NET Framework, .NET Core Mono hoặc Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

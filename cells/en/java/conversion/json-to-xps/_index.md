@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to XPS via Java 
-url: /java/conversion/json-to-xps/
+
 description: Convert JSON to XPS format in Java code. Save JSON as XPS using Java.
 ---
 

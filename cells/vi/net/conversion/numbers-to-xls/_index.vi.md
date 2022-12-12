@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi NUMBERS thành XLS qua C#
-url: /vi/net/conversion/numbers-to-xls/
+
 description: Mã mẫu cho chuyển đổi số thành xls C#. Sử dụng API mã ví dụ cho các tệp số lô sang chuyển đổi xls trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

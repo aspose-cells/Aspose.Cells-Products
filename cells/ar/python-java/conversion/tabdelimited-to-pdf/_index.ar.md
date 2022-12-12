@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TABDELIMITED إلى PDF عبر Python
-url: /ar/python-java/conversion/tabdelimited-to-pdf/
+
 description: نموذج التعليمات البرمجية لجدولة محدودة لتحويل Python pdf. استخدم API رمز المثال للملفات المحددة بعلامات جدولة مجمعة لتحويل pdf داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

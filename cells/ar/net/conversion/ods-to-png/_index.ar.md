@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل ODS إلى PNG عبر C#
-url: /ar/net/conversion/ods-to-png/
+
 description: نموذج كود لتحويل ods إلى png C#. استخدم API مثال الكود لتحويل ملفات ods الدفعية إلى png داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TABDELIMITED إلى TSV عبر تطبيق C++ 
-url: /ar/cpp/conversion/tabdelimited-to-tsv/ 
+
 description: نموذج رمز تحويل C++ لمستند TABDELIMITED إلى تنسيق TSV. يمكن للمبرمجين استخدام رمز المصدر هذا للتحويل الدفعي من TABDELIMITED إلى TSV داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

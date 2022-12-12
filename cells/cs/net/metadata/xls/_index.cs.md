@@ -1,7 +1,7 @@
-﻿---
+---
 title: Zobrazení nebo úprava metadat souborů XLS prostřednictvím .NET 
 weight: 1410
-url: /cs/net/metadata/xls/ 
+
 description: C# zdrojový kód pro úpravu nebo zobrazení metadat formátu XLS na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

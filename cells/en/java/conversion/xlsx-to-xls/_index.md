@@ -1,6 +1,6 @@
 ---
 title: Convert XLSX to XLS via Java 
-url: /java/conversion/xlsx-to-xls/
+
 description: Convert XLSX to XLS format in Java code. Save XLSX as XLS using Java.
 ---
 

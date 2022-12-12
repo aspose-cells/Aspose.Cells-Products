@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to GIF via Java 
-url: /java/conversion/tabdelimited-to-gif/
+
 description: Convert TABDELIMITED to GIF format in Java code. Save TABDELIMITED as GIF using Java.
 ---
 

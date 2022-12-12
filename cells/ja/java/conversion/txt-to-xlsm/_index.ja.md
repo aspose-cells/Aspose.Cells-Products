@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してTXTをXLSMに変換します 
-url: /ja/java/conversion/txt-to-xlsm/ 
+
 description: TXT形式からXLSMファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、WebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをXLSMにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to XPS via Java 
-url: /java/conversion/spreadsheetml-to-xps/
+
 description: Convert SPREADSHEETML to XPS format in Java code. Save SPREADSHEETML as XPS using Java.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to JPG via Python
-url: /python-java/conversion/ods-to-jpg/
+
 description: Convert ODS to JPG format in Python code. Save ODS as JPG using Python.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj XLSM na MD przez C#
-url: /pl/net/conversion/xlsm-to-md/
+
 description: Przykładowy kod konwersji xlsm do md C#. Użyj przykładowego kodu API dla plików wsadowych xlsm do konwersji md w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

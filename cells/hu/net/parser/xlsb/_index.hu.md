@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Szöveg és képek kibontása XLSB-dokumentumból a következőn keresztül: .NET "
 weight: 2200
-url: /hu/net/parser/xlsb/ 
+
 description: C# forráskód a szövegek és képek XLSB-fájlból való kinyeréséhez .NET Framework, .NET Core, Mono vagy Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

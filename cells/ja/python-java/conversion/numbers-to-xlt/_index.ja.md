@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してNUMBERSをXLTに変換します
-url: /ja/python-java/conversion/numbers-to-xlt/
+
 description: 数値からxltPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチ番号ファイルからxltへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

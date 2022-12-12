@@ -1,6 +1,6 @@
 ---
 title: Merge MHT to ODS Files via C++ 
-url: /cpp/merger/merge-mht-to-ods/ 
+
 description: Merge MHT to ODS file in C++ code. Combine MHT to ODS file using C++.
 ---
 

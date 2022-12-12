@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera NUMBERS till DIF via C#
-url: /sv/net/conversion/numbers-to-dif/
+
 description: Exempelkod för siffror till skillnad C#-konvertering. Använd API exempelkod för batchnummerfiler för att skilja konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

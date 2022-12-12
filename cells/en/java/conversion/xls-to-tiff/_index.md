@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to TIFF via Java 
-url: /java/conversion/xls-to-tiff/
+
 description: Convert XLS to TIFF format in Java code. Save XLS as TIFF using Java.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してNUMBERSをHTMLに変換します
-url: /ja/python-java/conversion/numbers-to-html/
+
 description: 数値からhtmlPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチ番号ファイルからhtmlへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

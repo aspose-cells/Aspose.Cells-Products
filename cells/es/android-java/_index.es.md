@@ -1,7 +1,7 @@
-﻿---
+---
 title: Hoja de cálculo de Excel de Android API - Aspose 
 weight: 6510
-url: /es/android-java/ 
+
 description: Biblioteca de hojas de cálculo de Android para crear archivos de Excel de lectura, escritura y análisis. Una hoja de cálculo API para el desarrollo de aplicaciones móviles
 ---
 {{< blocks/products/pf/main-wrap-class >}}

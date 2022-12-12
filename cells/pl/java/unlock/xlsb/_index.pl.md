@@ -1,7 +1,7 @@
-﻿---
+---
 title: Odblokuj dokument XLSB przez Java 
 weight: 5860
-url: /pl/java/unlock/xlsb/ 
+
 description: Java przykładowy kod do odblokowania chronionego hasłem pliku XLSB w Java środowisku wykonawczym dla aplikacji JSP/JSF i aplikacji komputerowych.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

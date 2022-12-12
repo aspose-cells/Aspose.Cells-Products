@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển NUMBERS sang PDF qua Java 
-url: /vi/java/conversion/numbers-to-pdf/ 
+
 description: Mã chuyển đổi Java mẫu cho định dạng NUMBERS sang tệp PDF. Lập trình viên có thể sử dụng mã ví dụ này để xuất bảng tính Excel & OpenOffice sang PDF trong bất kỳ Ứng dụng dựa trên Web hoặc Máy tính Java nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

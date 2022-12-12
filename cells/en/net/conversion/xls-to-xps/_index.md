@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to XPS via C#
-url: /net/conversion/xls-to-xps/
+
 description: Convert XLS to XPS format in C# code. Save XLS as XPS using VB.NET, Asp.NET or any .NET based application.
 ---
 

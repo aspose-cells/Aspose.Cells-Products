@@ -1,7 +1,7 @@
-﻿---
+---
 title: Python Spreadsheet Excel API - Aspose 
 weight: 2820
-url: /id/python/ 
+
 description: Python pustaka spreadsheet untuk membuat baca tulis dan parsing file Excel.
 ---
 {{< blocks/products/pf/main-wrap-class >}}

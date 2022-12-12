@@ -1,6 +1,6 @@
-﻿---
+---
 title: Modifier les fichiers XLSM via .NET 
-url: /fr/net/editor/xlsm/ 
+
 description: Code source C# pour modifier le document XLSM sur les plates-formes .NET Framework, .NET Core, Windows Azure, Mono ou Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

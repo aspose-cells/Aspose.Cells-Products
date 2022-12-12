@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést SPREADSHEETML na BMP přes Java 
-url: /cs/java/conversion/spreadsheetml-to-bmp/ 
+
 description: Ukázka převodního kódu Java pro formát SPREADSHEETML na soubor BMP. Programátoři mohou tento ukázkový kód použít k exportu tabulek Excelu a OpenOffice do BMP v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

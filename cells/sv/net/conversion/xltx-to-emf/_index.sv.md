@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera XLTX till EMF via C#
-url: /sv/net/conversion/xltx-to-emf/
+
 description: Exempelkod för konvertering av xltx till emf C#. Använd API exempelkod för batch-xltx-filer för att emf-konvertera inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

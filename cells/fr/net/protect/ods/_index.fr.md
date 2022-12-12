@@ -1,7 +1,7 @@
-﻿---
+---
 title: Protégez et verrouillez le document ODS via .NET 
 weight: 5580
-url: /fr/net/protect/ods/ 
+
 description: Code source C# pour verrouiller le fichier ODS à l'aide d'un mot de passe sur .NET Framework, .NET Core, Mono ou Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

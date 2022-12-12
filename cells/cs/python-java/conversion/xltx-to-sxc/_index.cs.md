@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLTX na SXC přes Python
-url: /cs/python-java/conversion/xltx-to-sxc/
+
 description: Ukázkový kód pro převod xltx na sxc Python. Použijte API ukázkový kód pro dávkový převod souborů xltx na sxc v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

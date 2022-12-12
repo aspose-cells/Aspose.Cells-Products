@@ -1,7 +1,7 @@
-﻿---
+---
 title: Arkusz kalkulacyjny Android Excel API – Aspose 
 weight: 6510
-url: /pl/android-java/ 
+
 description: Biblioteka arkuszy kalkulacyjnych systemu Android do tworzenia plików do odczytu, zapisu i analizy Excel. Arkusz kalkulacyjny API do tworzenia aplikacji mobilnych
 ---
 {{< blocks/products/pf/main-wrap-class >}}

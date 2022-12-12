@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir TXT en MARKDOWN via Python
-url: /fr/python-java/conversion/txt-to-markdown/
+
 description: Exemple de code pour la conversion de txt en démarque Python. Utilisez l'exemple de code API pour les fichiers txt par lots en conversion de démarquage dans l'application Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konwertuj JSON na MD przez Java 
 weight: 9410
-url: /pl/java/conversion/json-to-md/ 
+
 description: Przykładowy kod konwersji Java dla formatu JSON do pliku MD. Programiści mogą użyć tego przykładowego kodu do eksportowania arkuszy kalkulacyjnych Excel i OpenOffice do MD w dowolnej aplikacji internetowej lub desktopowej Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

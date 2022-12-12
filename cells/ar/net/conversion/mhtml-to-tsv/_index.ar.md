@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل MHTML إلى TSV عبر C#
-url: /ar/net/conversion/mhtml-to-tsv/
+
 description: نموذج رمز للتحويل من mhtml إلى tsv C#. استخدم API رمز المثال لملفات mhtml الدفعية لتحويل tsv داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

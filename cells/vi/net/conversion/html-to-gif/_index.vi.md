@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi HTML sang GIF qua C#
-url: /vi/net/conversion/html-to-gif/
+
 description: Mã mẫu cho chuyển đổi html sang gif C#. Sử dụng API mã mẫu cho hàng loạt tệp html sang chuyển đổi gif trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

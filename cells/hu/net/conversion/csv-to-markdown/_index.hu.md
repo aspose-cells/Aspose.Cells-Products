@@ -1,6 +1,6 @@
-﻿---
+---
 title: "CSV konvertálása MARKDOWN formátumba a következőn keresztül: C#"
-url: /hu/net/conversion/csv-to-markdown/
+
 description: Mintakód a csv-hez a C# konverzióhoz. Használjon API példakódot kötegelt csv fájlokhoz a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazás konverziójának leértékeléséhez.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

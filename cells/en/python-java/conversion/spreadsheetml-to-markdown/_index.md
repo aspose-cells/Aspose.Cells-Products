@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to MARKDOWN via Python
-url: /python-java/conversion/spreadsheetml-to-markdown/
+
 description: Convert SPREADSHEETML to MARKDOWN format in Python code. Save SPREADSHEETML as MARKDOWN using Python.
 ---
 

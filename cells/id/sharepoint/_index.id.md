@@ -1,7 +1,7 @@
-﻿---
+---
 title: Aplikasi Pengonversi Spreadsheet SharePoint Excel - Aspose 
 weight: 940
-url: /id/sharepoint/ 
+
 description: Aspose.Cells untuk Aplikasi SharePoint adalah konverter Spreadsheet SharePoint Excel. Ekspor XLS XLSX XML CSV PDF ODS &amp; Format HTML di MOSS WSS
 ---
 {{< blocks/products/pf/main-wrap-class >}}

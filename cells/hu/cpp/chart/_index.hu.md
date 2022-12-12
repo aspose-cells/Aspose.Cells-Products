@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Excel-diagramok létrehozása és konvertálása képekké a következőn keresztül: C++"
-url: /hu/cpp/chart/
+
 description: C++ forráskód a diagram vagy diagram megrajzolásához és konvertálásához Microsoft Excelben a C++ Library segítségével
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

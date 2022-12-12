@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to SPREADSHEETML via Java 
-url: /java/conversion/txt-to-spreadsheetml/
+
 description: Convert TXT to SPREADSHEETML format in Java code. Save TXT as SPREADSHEETML using Java.
 ---
 

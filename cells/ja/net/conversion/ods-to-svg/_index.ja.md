@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してODSをSVGに変換する
-url: /ja/net/conversion/ods-to-svg/
+
 description: odsからsvgC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチodsファイルからsvgへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

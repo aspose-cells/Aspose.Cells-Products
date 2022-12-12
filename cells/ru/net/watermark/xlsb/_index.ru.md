@@ -1,7 +1,7 @@
-﻿---
+---
 title: Документ XLSB с водяным знаком через .NET 
 weight: 5410
-url: /ru/net/watermark/xlsb/ 
+
 description: Исходный код C# для добавления или удаления водяных знаков в файле XLSB на платформах .NET Framework, .NET Core, Mono или Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

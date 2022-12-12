@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通过 .NET 解锁 XLSM 文档 
 weight: 9810
-url: /zh/net/unlock/xlsm/ 
+
 description: C# 用于在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上解锁受密码保护的 XLSM 文件的源代码。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

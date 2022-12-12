@@ -1,6 +1,6 @@
-﻿---
+---
 title: Maak kolomdiagrammen via C#
-url: /nl/net/create-column-chart/
+
 description: C# Voorbeeldcode voor het maken van kolomdiagrammen naar Excel met .NET Bibliotheek. Gebruik deze code voor het maken van een kolomdiagram naar MS Excel binnen VB.NET, Asp.NET of een op .NET gebaseerde toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

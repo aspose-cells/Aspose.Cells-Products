@@ -1,7 +1,7 @@
-﻿---
+---
 title: Sök i TXT-dokument utan att öppna via Java 
 weight: 1200
-url: /sv/java/search/txt/ 
+
 description: Java exempelkod för att söka efter ord med mönster i TXT-fil i Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertálja az XLS-t PNG-re a(z) C++ alkalmazással 
 weight: 80
-url: /hu/cpp/conversion/xls-to-png/ 
+
 description: Minta C++ konverziós kód XLS-dokumentumhoz PNG formátumba. A programozók ezt a forráskódot használhatják kötegelt XLS-ből PNG-be konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

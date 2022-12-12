@@ -1,7 +1,7 @@
-﻿---
+---
 title: Generera rapporter i XLSB-filer via .NET 
 weight: 1690
-url: /sv/net/assembly/xlsb/ 
+
 description: C# källkod för att generera rapporter i XLSB-format på .NET Framework, .NET Core, Mono eller Xamarin-plattformar.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TXT konvertálása DIF-re a következőn keresztül: C#"
-url: /hu/net/conversion/txt-to-dif/
+
 description: Mintakód a txt to dif C# konverzióhoz. Használjon API példakódot a kötegelt txt fájlokhoz a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belüli konverziók szétválasztásához.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

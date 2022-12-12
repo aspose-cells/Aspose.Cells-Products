@@ -1,7 +1,7 @@
-﻿---
+---
 title: Υδατογράφημα εγγράφου XLSM μέσω Java 
 weight: 7680
-url: /el/java/watermark/xlsm/ 
+
 description: Java δείγμα κώδικα για προσθήκη ή κατάργηση υδατογραφήματος σε αρχείο XLSM στο Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

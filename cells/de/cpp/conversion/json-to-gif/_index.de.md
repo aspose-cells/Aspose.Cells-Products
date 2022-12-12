@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie JSON über die Anwendung C++ in GIF 
-url: /de/cpp/conversion/json-to-gif/ 
+
 description: Beispiel-Umwandlungscode C++ für das JSON-Dokument in das GIF-Format. Programmierer können diesen Quellcode für die Batch-Konvertierung von JSON in GIF in jeder C++-Anwendung verwenden.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

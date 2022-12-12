@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل CSV إلى XLSX عبر C#
-url: /ar/net/conversion/csv-to-xlsx/
+
 description: نموذج كود لتحويل csv إلى xlsx C#. استخدم API رمز المثال لملفات csv المجمعة لتحويل xlsx داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

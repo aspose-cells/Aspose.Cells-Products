@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to MARKDOWN via Python
-url: /python-java/conversion/numbers-to-markdown/
+
 description: Convert NUMBERS to MARKDOWN format in Python code. Save NUMBERS as MARKDOWN using Python.
 ---
 

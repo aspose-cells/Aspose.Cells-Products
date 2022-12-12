@@ -1,6 +1,6 @@
-﻿---
+---
 title: Erstellen Sie ODS-Dateien (Openoffice / Lbreoffice) über Java 
-url: /de/java/create-ods/ 
+
 description: Java Beispielcode zum Generieren von ODS-Dokumenten. Verwenden Sie diesen Code zum Erstellen von ODS-Dateien (Openoffice / Lbreoffice) in Java-basierten Desktop- oder Webanwendungen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

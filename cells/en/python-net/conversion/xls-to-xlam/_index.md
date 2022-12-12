@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to XLAM via Python
-url: /python-net/conversion/xls-to-xlam/
+
 description: Sample code for xls to xlam Python conversion. Use API example code for batch xls files to xlam conversion within Python application.
 ---
 

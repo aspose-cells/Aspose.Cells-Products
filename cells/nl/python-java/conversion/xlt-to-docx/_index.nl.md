@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLT naar DOCX via Python
-url: /nl/python-java/conversion/xlt-to-docx/
+
 description: Voorbeeldcode voor xlt naar docx Python conversie. Gebruik API voorbeeldcode voor batch xlt-bestanden naar docx-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

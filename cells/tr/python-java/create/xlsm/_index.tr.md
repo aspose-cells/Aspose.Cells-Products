@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla MS Excel XLSM Dosyaları oluşturun 
-url: /tr/python-java/create-xlsm/ 
+
 description: Python XLSM belgeleri oluşturmak için örnek kod. Python uygulamasında MS Excel XLSM dosyaları oluşturmak için bu kodu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してNUMBERSをXLSに変換します 
-url: /ja/java/conversion/numbers-to-xls/ 
+
 description: NUMBERS形式のXLSファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のXLSにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

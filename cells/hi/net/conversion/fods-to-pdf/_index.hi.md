@@ -1,6 +1,6 @@
-﻿---
+---
 title: FODS को C# के माध्यम से PDF में बदलें
-url: /hi/net/conversion/fods-to-pdf/
+
 description: pdf C# रूपांतरण के लिए खाद्य पदार्थों के लिए नमूना कोड। वीबी.NET, एएसपी.NET या किसी भी .NET आधारित एप्लिकेशन के भीतर बैच फोड फाइलों को पीडीएफ में बदलने के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Rozdělit soubory XLSB prostřednictvím Java 
 weight: 7880
-url: /cs/java/splitter/xlsb/ 
+
 description: Java ukázkový kód pro rozdělení dokumentů XLSB na Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

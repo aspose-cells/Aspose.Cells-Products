@@ -1,7 +1,7 @@
-﻿---
+---
 title: Chroń i blokuj dokument XLSM za pomocą .NET 
 weight: 7530
-url: /pl/net/protect/xlsm/ 
+
 description: C# kod źródłowy do blokowania pliku XLSM przy użyciu hasła na platformach .NET Framework, .NET Core, Mono lub Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

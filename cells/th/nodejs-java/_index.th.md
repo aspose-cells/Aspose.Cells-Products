@@ -1,7 +1,7 @@
-﻿---
+---
 title: Node.js API สำหรับสเปรดชีต Excel - Aspose 
 weight: 3120
-url: /th/nodejs-java/ 
+
 description: ประมวลผลรูปแบบไฟล์ Excel ผ่านไลบรารี Node.js อ่านการเขียนและแปลง XLS XLSX XLSB XLTX XLTM XLSM XML ODS CSV และรูปแบบอื่นๆ ผ่าน Node.js บน Windows, macOS และ Linux
 ---
 {{< blocks/products/pf/main-wrap-class >}}

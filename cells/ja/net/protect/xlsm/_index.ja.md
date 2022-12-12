@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NETを介してXLSMドキュメントを保護およびロックする 
 weight: 7530
-url: /ja/net/protect/xlsm/ 
+
 description: .NETフレームワーク、.NETコア、Mono、またはXamarinプラットフォームでパスワードを使用してXLSMファイルをロックするためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

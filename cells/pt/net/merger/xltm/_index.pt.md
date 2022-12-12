@@ -1,7 +1,7 @@
-﻿---
+---
 title: Mesclar arquivos XLTM via .NET 
 weight: 9010
-url: /pt/net/merger/xltm/ 
+
 description: C# código-fonte para combinar documentos XLTM em plataformas .NET Framework, .NET Core, Mono ou Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

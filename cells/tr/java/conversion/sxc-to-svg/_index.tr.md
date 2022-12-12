@@ -1,6 +1,6 @@
-﻿---
+---
 title: Java aracılığıyla SXC'yi SVG'ye dönüştürün 
-url: /tr/java/conversion/sxc-to-svg/ 
+
 description: SXC formatı için SVG dosyasına örnek Java dönüştürme kodu. Programcılar, Excel ve OpenOffice elektronik tablolarını herhangi bir Web veya Masaüstü Java tabanlı Uygulamada SVG'ye aktarmak için bu örnek kodu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

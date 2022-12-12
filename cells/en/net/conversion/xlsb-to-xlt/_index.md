@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to XLT via C#
-url: /net/conversion/xlsb-to-xlt/
+
 description: Convert XLSB to XLT format in C# code. Save XLSB as XLT using VB.NET, Asp.NET or any .NET based application.
 ---
 

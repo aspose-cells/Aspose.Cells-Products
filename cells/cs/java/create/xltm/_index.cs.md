@@ -1,6 +1,6 @@
-﻿---
+---
 title: Vytvářejte soubory MS Excel XLTM prostřednictvím Java 
-url: /cs/java/create-xltm/ 
+
 description: Java Ukázkový kód pro generování dokumentů XLTM. Tento kód použijte k vytváření souborů MS Excel XLTM v desktopové nebo webové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

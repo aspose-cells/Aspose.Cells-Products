@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TABDELIMITED na FODS přes Python
-url: /cs/python-java/conversion/tabdelimited-to-fods/
+
 description: Ukázkový kód pro konverzi tabdelimited na fods Python. Použijte API ukázkový kód pro dávkový převod souborů oddělených tabulátory na fods v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

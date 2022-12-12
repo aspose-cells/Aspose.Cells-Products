@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование SPREADSHETML в XLTM через C#
-url: /ru/net/conversion/spreadsheetml-to-xltm/
+
 description: Пример кода для преобразования электронной таблицыml в xltm C#. Используйте пример кода API для пакетного преобразования файлов электронной таблицыml в xltm в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to XLTM via C++
-url: /cpp/conversion/mhtml-to-xltm/
+
 description: Convert MHTML to XLTM format in C++ code. Save MHTML as XLTM using C++.
 ---
 

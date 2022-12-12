@@ -1,6 +1,6 @@
 ---
 title: Merge ODS to XLSB Files via C# 
-url: /net/merger/merge-ods-to-xlsb/ 
+
 description: Merge ODS to XLSB file in C# code. Combine ODS to XLSB file using VB.NET, Asp.NET or any .NET based application.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést JSON na DIF přes C#
-url: /cs/net/conversion/json-to-dif/
+
 description: Ukázkový kód pro konverzi json na rozdíl C#. Použijte API ukázkový kód pro dávkové soubory json pro převod převodu v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

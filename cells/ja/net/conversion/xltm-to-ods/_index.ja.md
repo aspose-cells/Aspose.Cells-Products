@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してXLTMをODSに変換します
-url: /ja/net/conversion/xltm-to-ods/
+
 description: xltmからodsC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチxltmファイルからodsへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

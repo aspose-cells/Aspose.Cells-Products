@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla MHTML'yi PDF'ye dönüştürün
-url: /tr/python-java/conversion/mhtml-to-pdf/
+
 description: mhtml'den pdf'ye Python dönüştürme için örnek kod. Python uygulamasında toplu mhtml dosyalarını pdf'ye dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

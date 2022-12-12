@@ -1,6 +1,6 @@
-﻿---
+---
 title: "FODS konvertálása EMF-vé a következőn keresztül: Java "
-url: /hu/java/conversion/fods-to-emf/ 
+
 description: Minta Java konverziós kód a FODS formátumhoz EMF fájllá. A programozók ezt a példakódot használhatják Excel- és OpenOffice-táblázatok exportálására EMF-be bármely web- vagy asztali Java-alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

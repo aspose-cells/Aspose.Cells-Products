@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera TXT till PNG via appen C++ 
-url: /sv/cpp/conversion/txt-to-png/ 
+
 description: Exempel på C++-konverteringskod för TXT-dokument till PNG-format. Programmerare kan använda den här källkoden för batchkonvertering av TXT till PNG inom alla C++-program.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

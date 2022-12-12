@@ -1,7 +1,7 @@
-﻿---
+---
 title: Поиск и замена текста в документе XLS через C++ 
 weight: 380
-url: /ru/cpp/redaction/xls/ 
+
 description: Пример кода C++ для редактирования конфиденциальной информации в файле XLS в среде выполнения C++ для 32-разрядной, 64-разрядной и Linux 64-разрядной версии Windows.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

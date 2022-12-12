@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLTM إلى TXT عبر تطبيق C++ 
-url: /ar/cpp/conversion/xltm-to-txt/ 
+
 description: نموذج C++ رمز تحويل لمستند XLTM إلى تنسيق TXT. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل دفعة XLTM إلى TXT داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

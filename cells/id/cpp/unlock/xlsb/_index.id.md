@@ -1,7 +1,7 @@
-﻿---
+---
 title: Buka kunci dokumen XLSB melalui C++ 
 weight: 7420
-url: /id/cpp/unlock/xlsb/ 
+
 description: C++ kode contoh untuk membuka kunci file XLSB yang dilindungi sandi di C++ Runtime Environment untuk Windows 32 bit, Windows 64 bit, dan Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

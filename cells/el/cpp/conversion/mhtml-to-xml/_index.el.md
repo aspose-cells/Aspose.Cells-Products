@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή MHTML σε XML μέσω εφαρμογής C++ 
-url: /el/cpp/conversion/mhtml-to-xml/ 
+
 description: Δείγμα κώδικα μετατροπής C++ για έγγραφο MHTML σε μορφή XML. Οι προγραμματιστές μπορούν να χρησιμοποιήσουν αυτόν τον πηγαίο κώδικα για ομαδική μετατροπή MHTML σε XML σε οποιαδήποτε εφαρμογή C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

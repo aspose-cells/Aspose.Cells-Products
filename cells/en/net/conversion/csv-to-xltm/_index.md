@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to XLTM via C#
-url: /net/conversion/csv-to-xltm/
+
 description: Convert CSV to XLTM format in C# code. Save CSV as XLTM using VB.NET, Asp.NET or any .NET based application.
 ---
 

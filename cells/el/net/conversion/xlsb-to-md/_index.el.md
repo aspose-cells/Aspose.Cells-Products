@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή XLSB σε MD μέσω C#
-url: /el/net/conversion/xlsb-to-md/
+
 description: Δείγμα κώδικα για μετατροπή xlsb σε md C#. Χρησιμοποιήστε API παράδειγμα κώδικα για μαζική μετατροπή αρχείων xlsb σε md εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

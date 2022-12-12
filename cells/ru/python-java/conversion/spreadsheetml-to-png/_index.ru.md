@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование SPREADSHETML в PNG с помощью Python
-url: /ru/python-java/conversion/spreadsheetml-to-png/
+
 description: Пример кода для преобразования электронной таблицыml в png Python. Используйте пример кода API для пакетного преобразования файлов электронной таблицыml в png в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

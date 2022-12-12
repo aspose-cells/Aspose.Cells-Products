@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera TABDELIMITED till XLSX via C#
-url: /sv/net/conversion/tabdelimited-to-xlsx/
+
 description: Exempelkod för tabbavgränsad till xlsx C#-konvertering. Använd API exempelkod för batch-tabbavgränsade filer till xlsx-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

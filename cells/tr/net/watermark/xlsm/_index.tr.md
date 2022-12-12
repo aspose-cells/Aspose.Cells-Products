@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET aracılığıyla filigran XLSM belgesi 
 weight: 8270
-url: /tr/net/watermark/xlsm/ 
+
 description: .NET Framework, .NET Core, Mono veya Xamarin Platformlarında XLSM dosyasına filigran eklemek veya kaldırmak için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

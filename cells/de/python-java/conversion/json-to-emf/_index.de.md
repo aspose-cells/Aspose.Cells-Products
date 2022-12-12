@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie JSON über Python in EMF
-url: /de/python-java/conversion/json-to-emf/
+
 description: Beispielcode für die Umwandlung von json in emf Python. Verwenden Sie API Beispielcode für die Batch-Konvertierung von JSON-Dateien in EMF innerhalb der Anwendung Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

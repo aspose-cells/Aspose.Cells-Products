@@ -1,6 +1,6 @@
-﻿---
+---
 title: Buat File TSV melalui C++ 
-url: /id/cpp/create-tsv/ 
+
 description: C++ Contoh kode untuk membuat file TSV. Gunakan kode ini untuk membuat file TSV dalam aplikasi berbasis C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

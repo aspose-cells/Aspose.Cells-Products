@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 C++ 應用程序將 XLTX 轉換為 ODS 
-url: /zh-hant/cpp/conversion/xltx-to-ods/ 
+
 description: XLTX 文檔到 ODS 格式的示例 C++ 轉換代碼。程序員可以使用此源代碼在任何 C++ 應用程序中進行批量 XLTX 到 ODS 的轉換。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

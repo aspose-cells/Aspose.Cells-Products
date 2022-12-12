@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to SVG via C#
-url: /net/conversion/mhtml-to-svg/
+
 description: Convert MHTML to SVG format in C# code. Save MHTML as SVG using VB.NET, Asp.NET or any .NET based application.
 ---
 

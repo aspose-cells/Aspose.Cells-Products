@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 C++ 创建 CSV 文件 
-url: /zh/cpp/create-csv/ 
+
 description: C++ 用于生成 CSV 文件的示例代码。使用此代码在基于 C++ 的应用程序中创建 CSV 文件。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

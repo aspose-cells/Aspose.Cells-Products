@@ -1,7 +1,7 @@
-﻿---
+---
 title: Rechercher et remplacer du texte dans un document XLS via Java 
 weight: 7900
-url: /fr/java/redaction/xls/ 
+
 description: Java exemple de code pour masquer les informations sensibles dans le fichier XLS sur Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

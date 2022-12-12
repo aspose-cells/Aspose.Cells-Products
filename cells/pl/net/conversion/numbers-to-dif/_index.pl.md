@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj NUMBERS na DIF przez C#
-url: /pl/net/conversion/numbers-to-dif/
+
 description: Przykładowy kod liczb do różnicowania konwersji C#. Użyj przykładowego kodu API dla plików numerów partii, aby przeprowadzić konwersję różnicową w ramach VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

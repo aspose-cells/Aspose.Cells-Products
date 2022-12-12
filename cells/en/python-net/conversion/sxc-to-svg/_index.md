@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to SVG via Python
-url: /python-net/conversion/sxc-to-svg/
+
 description: Sample code for sxc to svg Python conversion. Use API example code for batch sxc files to svg conversion within Python application.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "CSV konvertálása XLAM-re a következőn keresztül: C#"
-url: /hu/net/conversion/csv-to-xlam/
+
 description: Mintakód a csv–xlam C# konverzióhoz. Használjon API példakódot kötegelt csv-fájlokhoz az xlam-konverzióhoz VB.NET-on, Asp-n.NET vagy bármely .NET-alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

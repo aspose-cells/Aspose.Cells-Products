@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta XLTM a TXT a través de Python
-url: /es/python-java/conversion/xltm-to-txt/
+
 description: Código de muestra para la conversión de xltm a txt Python. Utilice el código de ejemplo API para la conversión de archivos xltm por lotes a txt dentro de la aplicación Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

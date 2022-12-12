@@ -1,7 +1,7 @@
-﻿---
+---
 title: Lägg till XLS Excel-filanteckning via C++ 
 weight: 10040
-url: /sv/cpp/annotation/xls/ 
+
 description: C++ exempelkod för att lägga till och ta bort kommentarer i XLS-format i C++ Runtime Environment för Windows 32-bitars, Windows 64-bitars och Linux 64-bitars.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

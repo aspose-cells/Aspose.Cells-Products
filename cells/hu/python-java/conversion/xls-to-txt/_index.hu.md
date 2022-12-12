@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLS konvertálása TXT-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/xls-to-txt/
+
 description: Mintakód az xls-ből txt-be Python konverzióhoz. Használjon API példakódot a kötegelt xls fájlok txt konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

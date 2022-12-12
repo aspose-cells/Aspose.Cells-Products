@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してXLSMファイルのメタデータを編集または表示する 
 weight: 9030
-url: /ja/java/metadata/xlsm/ 
+
 description: Java JSP/JSFアプリケーションおよびデスクトップアプリケーションのランタイム環境でXLSM形式のメタデータを編集または表示するためのサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してTSVをDIFに変換します 
 weight: 9110
-url: /ja/java/conversion/tsv-to-dif/ 
+
 description: TSV形式からDIFファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のDIFにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

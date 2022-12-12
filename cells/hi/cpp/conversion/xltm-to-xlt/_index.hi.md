@@ -1,6 +1,6 @@
-﻿---
+---
 title: एक्सएलटीएम को एक्सएलटी में C++ एप्लिकेशन के माध्यम से कनवर्ट करें 
-url: /hi/cpp/conversion/xltm-to-xlt/ 
+
 description: नमूना C++ XLTM दस्तावेज़ के लिए XLT प्रारूप में रूपांतरण कोड। प्रोग्रामर इस स्रोत कोड का उपयोग किसी भी C++ एप्लिकेशन में बैच XLTM से XLT रूपांतरण के लिए कर सकते हैं।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

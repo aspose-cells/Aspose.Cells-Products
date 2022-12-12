@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TABDELIMITED إلى EMF عبر تطبيق C++ 
-url: /ar/cpp/conversion/tabdelimited-to-emf/ 
+
 description: نموذج C++ رمز تحويل لمستند TABDELIMITED إلى تنسيق EMF. يمكن للمبرمجين استخدام رمز المصدر هذا للتحويل الدفعي من TABDELIMITED إلى EMF داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

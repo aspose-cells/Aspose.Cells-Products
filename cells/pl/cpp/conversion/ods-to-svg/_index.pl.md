@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konwertuj ODS na SVG za pomocą aplikacji C++ 
 weight: 3080
-url: /pl/cpp/conversion/ods-to-svg/ 
+
 description: Przykładowy kod konwersji C++ dla dokumentu ODS do formatu SVG. Programiści mogą używać tego kodu źródłowego do wsadowej konwersji ODS na SVG w dowolnej aplikacji C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

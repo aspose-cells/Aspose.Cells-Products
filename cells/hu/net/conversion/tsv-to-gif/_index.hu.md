@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TSV konvertálása GIF formátumba a következőn keresztül: C#"
-url: /hu/net/conversion/tsv-to-gif/
+
 description: Mintakód a tsv-ből gif-be C#. Használjon API példakódot kötegelt tsv-fájlokhoz a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazás gif-konverziójához.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

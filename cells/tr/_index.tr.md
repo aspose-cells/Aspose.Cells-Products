@@ -1,7 +1,7 @@
-﻿---
+---
 title: Excel Dosya Biçimi Çözümü
 weight: 7730
-url: /tr/
+
 description: Excel dosyalarını incelemek veya dönüştürmek için karşılaştırmayı görüntülemek için Yüksek Kodlu veya Düşük Kodlu API'leri veya Kodsuz Uygulamaları kullanarak Excel dosya işleme uygulamaları oluşturun.
 ---
 {{< blocks/products/pf/main-wrap-class >}}

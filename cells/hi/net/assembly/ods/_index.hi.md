@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET के माध्यम से ओडीएस फाइलों में रिपोर्ट जेनरेट करें 
 weight: 520
-url: /hi/net/assembly/ods/ 
+
 description: .NET Framework, .NET Core, Mono या Xamarin Platforms पर ODS प्रारूप रिपोर्ट जेनरेट करने के लिए C# स्रोत कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

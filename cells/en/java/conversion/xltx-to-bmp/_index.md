@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to BMP via Java 
-url: /java/conversion/xltx-to-bmp/
+
 description: Convert XLTX to BMP format in Java code. Save XLTX as BMP using Java.
 ---
 

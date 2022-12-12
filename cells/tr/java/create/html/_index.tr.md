@@ -1,6 +1,6 @@
-﻿---
+---
 title: Java aracılığıyla HTML Dosyaları Oluşturun 
-url: /tr/java/create-html/ 
+
 description: Java HTML belgeleri oluşturmak için örnek kod. Java tabanlı masaüstü veya web uygulamasında HTML dosyaları oluşturmak için bu kodu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

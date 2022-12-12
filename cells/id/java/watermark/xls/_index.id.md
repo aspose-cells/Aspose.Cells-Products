@@ -1,7 +1,7 @@
-﻿---
+---
 title: Dokumen XLS tanda air melalui Java 
 weight: 2210
-url: /id/java/watermark/xls/ 
+
 description: Java contoh kode untuk menambah atau menghapus tanda air ke file XLS di Java Lingkungan Waktu Proses untuk Aplikasi JSP/JSF dan Aplikasi Desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

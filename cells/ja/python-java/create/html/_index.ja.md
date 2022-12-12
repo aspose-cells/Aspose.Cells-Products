@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してHTMLファイルを作成する 
-url: /ja/python-java/create-html/ 
+
 description: PythonHTMLドキュメントを生成するためのサンプルコード。このコードを使用して、Pythonアプリケーション内でHTMLファイルを作成します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Διαχωρισμός αρχείων ODS μέσω Java 
 weight: 1950
-url: /el/java/splitter/ods/ 
+
 description: Java δείγμα κώδικα για διαχωρισμό εγγράφων ODS σε Java Runtime Environment για εφαρμογές JSP/JSF και εφαρμογές επιφάνειας εργασίας.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

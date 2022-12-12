@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to SXC via C#
-url: /net/conversion/xlsb-to-sxc/
+
 description: Convert XLSB to SXC format in C# code. Save XLSB as SXC using VB.NET, Asp.NET or any .NET based application.
 ---
 

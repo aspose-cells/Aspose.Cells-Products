@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET के माध्यम से CSV फ़ाइलें मर्ज करें 
 weight: 6450
-url: /hi/net/merger/csv/ 
+
 description: .NET Framework, .NET Core, Mono या Xamarin प्लेटफॉर्म पर CSV दस्तावेज़ों को संयोजित करने के लिए C# स्रोत कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

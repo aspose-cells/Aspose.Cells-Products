@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera SXC till MHTML via C#
-url: /sv/net/conversion/sxc-to-mhtml/
+
 description: Exempelkod för konvertering från sxc till mhtml C#. Använd API exempelkod för batch-sxc-filer till mhtml-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

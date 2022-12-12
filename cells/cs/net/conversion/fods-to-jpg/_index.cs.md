@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést FODS na JPG přes C#
-url: /cs/net/conversion/fods-to-jpg/
+
 description: Ukázkový kód pro převod fod na jpg C#. Použijte API ukázkový kód pro dávkový převod souborů fods na jpg v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

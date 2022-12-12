@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NETを介してXLSMドキュメントのロックを解除します 
 weight: 9810
-url: /ja/net/unlock/xlsm/ 
+
 description: .NETフレームワーク、.NETコア、Mono、またはXamarinプラットフォームでパスワードで保護されたXLSMファイルのロックを解除するためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

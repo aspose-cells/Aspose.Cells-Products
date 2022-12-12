@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง SPREADSHEETML เป็น XLTM ผ่าน Python
-url: /th/python-java/conversion/spreadsheetml-to-xltm/
+
 description: โค้ดตัวอย่างสำหรับการแปลงสเปรดชีตml เป็น xltm Python ใช้โค้ดตัวอย่าง API สำหรับไฟล์แบทช์สเปรดชีตml เป็นการแปลง xltm ภายในแอปพลิเคชัน Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

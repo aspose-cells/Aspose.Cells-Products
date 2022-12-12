@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLT-t XLSB-vé a C++ alkalmazással 
-url: /hu/cpp/conversion/xlt-to-xlsb/ 
+
 description: Minta C++ konverziós kód XLT dokumentumhoz XLSB formátumba. A programozók ezt a forráskódot használhatják az XLT-ből XLSB-be kötegelt konvertáláshoz bármely C++ alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Cari dan ganti teks dalam dokumen XLS melalui Java 
 weight: 7900
-url: /id/java/redaction/xls/ 
+
 description: Java kode contoh untuk menyunting informasi sensitif dalam file XLS di Java Lingkungan Waktu Proses untuk Aplikasi JSP/JSF dan Aplikasi Desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

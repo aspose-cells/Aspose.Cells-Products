@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to JPG via Python
-url: /python-java/conversion/txt-to-jpg/
+
 description: Convert TXT to JPG format in Python code. Save TXT as JPG using Python.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Konvertálja az XLS-t SXC-vé a következőn keresztül: Python"
-url: /hu/python-java/conversion/xls-to-sxc/
+
 description: Mintakód az xls–sxc Python konverzióhoz. Használjon API példakódot a kötegelt xls fájlok sxc konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

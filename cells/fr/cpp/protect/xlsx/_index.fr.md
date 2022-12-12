@@ -1,7 +1,7 @@
-﻿---
+---
 title: Protégez et verrouillez le document XLSX via C++ 
 weight: 1140
-url: /fr/cpp/protect/xlsx/ 
+
 description: C++ Exemple de code pour verrouiller le fichier XLSX à l'aide d'un mot de passe sur C++ Runtime Environment pour Windows 32 bits, Windows 64 bits et Linux 64 bits.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi CSV sang XLSM qua C#
-url: /vi/net/conversion/csv-to-xlsm/
+
 description: Mã mẫu cho chuyển đổi csv sang xlsm C#. Sử dụng API mã mẫu cho hàng loạt tệp csv sang chuyển đổi xlsm trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

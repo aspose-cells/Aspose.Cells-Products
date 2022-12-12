@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển NUMBERS thành EMF qua Java 
-url: /vi/java/conversion/numbers-to-emf/ 
+
 description: Mã chuyển đổi Java mẫu cho định dạng NUMBERS thành tệp EMF. Người lập trình có thể sử dụng mã ví dụ này để xuất bảng tính Excel & OpenOffice sang EMF trong bất kỳ Ứng dụng dựa trên Web hoặc Máy tính Java nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

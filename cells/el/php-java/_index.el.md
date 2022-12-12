@@ -1,7 +1,7 @@
-﻿---
+---
 title: Υπολογιστικό φύλλο Excel PHP API - Aspose 
 weight: 3660
-url: /el/php-java/ 
+
 description: Υπολογιστικό φύλλο PHP Excel API για ανάγνωση εγγραφής και μετατροπή XLS XLSX CSV TSV HTML ODS Υπολογιστικό φύλλοML και όλες τις μορφές του Excel 97-2016. Εξαγωγή υπολογιστικών φύλλων σε πολλές μορφές
 ---
 {{< blocks/products/pf/main-wrap-class >}}

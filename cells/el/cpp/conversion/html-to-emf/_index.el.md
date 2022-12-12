@@ -1,7 +1,7 @@
-﻿---
+---
 title: Μετατροπή HTML σε EMF μέσω της εφαρμογής C++ 
 weight: 8550
-url: /el/cpp/conversion/html-to-emf/ 
+
 description: Δείγμα κώδικα μετατροπής C++ για έγγραφο HTML σε μορφή EMF. Οι προγραμματιστές μπορούν να χρησιμοποιήσουν αυτόν τον πηγαίο κώδικα για ομαδική μετατροπή HTML σε EMF σε οποιαδήποτε εφαρμογή C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

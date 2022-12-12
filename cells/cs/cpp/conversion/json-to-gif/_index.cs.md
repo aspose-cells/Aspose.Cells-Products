@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte JSON na GIF pomocí aplikace C++ 
-url: /cs/cpp/conversion/json-to-gif/ 
+
 description: Ukázka převodního kódu C++ pro dokument JSON na formát GIF. Programátoři mohou tento zdrojový kód použít pro dávkový převod JSON na GIF v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

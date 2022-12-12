@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer EXCEL naar PPTX via Python
-url: /nl/python-java/conversion/excel-to-pptx/
+
 description: Voorbeeldcode voor conversie van Excel naar pptx Python. Gebruik API voorbeeldcode voor batch Excel-bestanden naar pptx-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

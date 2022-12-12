@@ -1,7 +1,7 @@
-﻿---
+---
 title: Преобразование XLSB в EMF через Java 
 weight: 710
-url: /ru/java/conversion/xlsb-to-emf/ 
+
 description: Пример кода преобразования Java для формата XLSB в файл EMF. Программисты могут использовать этот пример кода для экспорта электронных таблиц Excel и OpenOffice в EMF в любом веб-или настольном Java приложении.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

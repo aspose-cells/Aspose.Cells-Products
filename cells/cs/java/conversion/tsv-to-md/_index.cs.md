@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TSV na MD prostřednictvím Java 
-url: /cs/java/conversion/tsv-to-md/ 
+
 description: Ukázka převodního kódu Java pro formát TSV na soubor MD. Programátoři mohou tento příklad kódu použít k exportu tabulek Excelu a OpenOffice do MD v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

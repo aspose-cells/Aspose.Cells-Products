@@ -1,6 +1,6 @@
-﻿---
+---
 title: إنشاء ملفات ODS (Openoffice / Lbreoffice) عبر C++ 
-url: /ar/cpp/create-ods/ 
+
 description: C++ نموذج كود لإنشاء ملفات ODS (Openoffice / Lbreoffice). استخدم هذا الرمز لإنشاء ملفات ODS (Openoffice / Lbreoffice) داخل التطبيق المستند إلى C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

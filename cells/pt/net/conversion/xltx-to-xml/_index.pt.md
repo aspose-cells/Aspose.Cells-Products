@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter XLTX para XML via C#
-url: /pt/net/conversion/xltx-to-xml/
+
 description: Código de exemplo para conversão de xltx para xml C#. Use API código de exemplo para arquivos xltx em lote para conversão xml em VB.NET, Asp.NET ou qualquer aplicativo baseado em .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: แยกไฟล์ XLSB ผ่าน .NET 
 weight: 7370
-url: /th/net/splitter/xlsb/ 
+
 description: C# ซอร์สโค้ดเพื่อแยกเอกสาร XLSB บน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

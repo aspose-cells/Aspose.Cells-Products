@@ -1,7 +1,7 @@
-﻿---
+---
 title: Извлечение текста и изображений из документа XLSB через C++ 
 weight: 3140
-url: /ru/cpp/parser/xlsb/ 
+
 description: Пример кода C++ для извлечения текста и изображений из файла XLSB в C++ среде выполнения для 32-разрядной, 64-разрядной Windows и 64-разрядной версии Linux.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

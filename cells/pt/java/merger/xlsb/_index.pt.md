@@ -1,7 +1,7 @@
-﻿---
+---
 title: Mesclar arquivos XLSB via Java 
 weight: 4840
-url: /pt/java/merger/xlsb/ 
+
 description: Java código de amostra para combinar documentos XLSB no Java ambiente de tempo de execução para aplicativos JSP/JSF e aplicativos de desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

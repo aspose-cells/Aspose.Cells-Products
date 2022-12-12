@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést CSV na SVG prostřednictvím Python
-url: /cs/python-java/conversion/csv-to-svg/
+
 description: Ukázkový kód pro převod csv na svg Python. Použijte API ukázkový kód pro dávkový převod souborů csv na svg v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

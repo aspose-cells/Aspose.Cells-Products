@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converti TSV in BMP tramite C#
-url: /it/net/conversion/tsv-to-bmp/
+
 description: Codice di esempio per la conversione da tsv a bmp C#. Utilizza API codice di esempio per la conversione batch di file tsv in bmp all'interno di VB.NET, Asp.NET o qualsiasi applicazione basata su .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

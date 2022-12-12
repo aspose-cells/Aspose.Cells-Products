@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLTM в MHTML с помощью приложения C++ 
-url: /ru/cpp/conversion/xltm-to-mhtml/ 
+
 description: Пример кода преобразования C++ для документа XLTM в формат MHTML. Программисты могут использовать этот исходный код для пакетного преобразования XLTM в MHTML в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

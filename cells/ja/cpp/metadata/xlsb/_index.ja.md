@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++を介してXLSBドキュメントメタデータを編集または表示する 
 weight: 4820
-url: /ja/cpp/metadata/xlsb/ 
+
 description: Windows 32ビット、Windows 64ビット、およびLinux64ビットのC++ランタイム環境でXLSBファイルのメタデータを編集または表示するためのC++サンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

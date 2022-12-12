@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java aracılığıyla TXT'yi XLS'ye dönüştürün 
 weight: 10070
-url: /tr/java/conversion/txt-to-xls/ 
+
 description: TXT biçimi için XLS dosyasına örnek Java dönüştürme kodu. Programcılar, Excel ve OpenOffice elektronik tablolarını herhangi bir Web veya Masaüstü Java tabanlı Uygulamada XLS'ye aktarmak için bu örnek kodu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversi HTML ke XLTM melalui Java 
 weight: 6670
-url: /id/java/conversion/html-to-xltm/ 
+
 description: Contoh Java kode konversi untuk format HTML ke file XLTM. Pemrogram dapat menggunakan kode contoh ini untuk mengekspor spreadsheet Excel & OpenOffice ke XLTM dalam Aplikasi berbasis Web atau Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

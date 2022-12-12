@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta NÚMEROS a SVG a través de C#
-url: /es/net/conversion/numbers-to-svg/
+
 description: Código de muestra para conversión de números a svg C#. Use código de ejemplo API para archivos de números de lote para la conversión de svg dentro de VB.NET, Asp.NET o cualquier aplicación basada en .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

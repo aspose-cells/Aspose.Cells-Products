@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi CSV sang PNG qua C#
-url: /vi/net/conversion/csv-to-png/
+
 description: Mã mẫu cho chuyển đổi csv sang png C#. Sử dụng API mã mẫu cho hàng loạt tệp csv sang chuyển đổi png trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

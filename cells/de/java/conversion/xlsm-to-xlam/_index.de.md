@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie XLSM in XLAM über Java 
-url: /de/java/conversion/xlsm-to-xlam/ 
+
 description: Beispiel-Umwandlungscode Java für das XLSM-Format in die XLAM-Datei. Programmierer können diesen Beispielcode verwenden, um Excel- und OpenOffice-Tabellen in XLAM innerhalb jeder Web- oder Desktop-Java-basierten Anwendung zu exportieren.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

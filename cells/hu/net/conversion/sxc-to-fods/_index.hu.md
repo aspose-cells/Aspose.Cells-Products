@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SXC konvertálása FODS-re a következőn keresztül: C#"
-url: /hu/net/conversion/sxc-to-fods/
+
 description: Mintakód az sxc to fods C# konverziójához. Használjon API példakódot kötegelt sxc fájlok fods konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

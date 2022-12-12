@@ -1,7 +1,7 @@
-﻿---
+---
 title: Εξαγωγή κειμένου και εικόνων από έγγραφο ODS μέσω .NET 
 weight: 6970
-url: /el/net/parser/ods/ 
+
 description: C# πηγαίος κώδικας για εξαγωγή κειμένου και εικόνων από αρχείο ODS σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

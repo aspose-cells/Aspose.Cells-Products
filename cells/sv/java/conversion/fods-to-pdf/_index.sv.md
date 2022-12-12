@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera FODS till PDF via Java 
-url: /sv/java/conversion/fods-to-pdf/ 
+
 description: Exempel på Java-konverteringskod för FODS-format till PDF-fil. Programmerare kan använda den här exempelkoden för att exportera Excel- och OpenOffice-kalkylblad till PDF inom alla webb- eller skrivbordsbaserade program Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

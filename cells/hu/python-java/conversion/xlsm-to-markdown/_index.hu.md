@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLSM konvertálása MARKDOWN-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/xlsm-to-markdown/
+
 description: Mintakód az xlsm to markdown Python konverzióhoz. Használjon API példakódot a kötegelt xlsm fájlokhoz a Python alkalmazáson belüli leértékeléshez.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

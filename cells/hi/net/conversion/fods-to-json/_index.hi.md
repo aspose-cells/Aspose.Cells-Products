@@ -1,6 +1,6 @@
-﻿---
+---
 title: FODS को C# के माध्यम से JSON में बदलें
-url: /hi/net/conversion/fods-to-json/
+
 description: फ़ीड के लिए नमूना कोड json C# रूपांतरण में। VB.NET, Asp.NET या किसी .NET आधारित एप्लिकेशन के भीतर बैच फोड फ़ाइलों को json रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

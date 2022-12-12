@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta NUMBERS a XLTX a través de Python
-url: /es/python-java/conversion/numbers-to-xltx/
+
 description: Ejemplo de código para conversión de números a xltx Python. Use el código de ejemplo API para archivos de números de lote para la conversión xltx dentro de la aplicación Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

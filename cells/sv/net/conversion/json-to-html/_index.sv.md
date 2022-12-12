@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera JSON till HTML via C#
-url: /sv/net/conversion/json-to-html/
+
 description: Exempelkod för konvertering från json till html C#. Använd API exempelkod för batch-json-filer till html-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

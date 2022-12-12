@@ -1,6 +1,6 @@
-﻿---
+---
 title: "EXCEL konvertálása HTML-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/excel-to-html/
+
 description: Mintakód az excelből html-be Python történő konverzióhoz. Használjon API példakódot az Excel fájlok kötegelt html konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

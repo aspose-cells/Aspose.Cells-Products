@@ -1,6 +1,6 @@
-﻿---
+---
 title: Wyświetl formaty plików MHTML za pomocą .NET 
-url: /pl/net/viewer/mhtml/ 
+
 description: C# kod źródłowy do ładowania, renderowania i wyświetlania dokumentów MHTML na platformach .NET Framework, .NET Core, Windows Azure, Mono lub Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

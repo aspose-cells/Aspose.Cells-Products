@@ -1,6 +1,6 @@
-﻿---
+---
 title: TABDELIMITED को Python के ज़रिए PNG में बदलें
-url: /hi/python-java/conversion/tabdelimited-to-png/
+
 description: png Python रूपांतरण के लिए सीमित टैब के लिए नमूना कोड। Python एप्लिकेशन के भीतर पीएनजी रूपांतरण में बैच टैबसीमांकित फाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

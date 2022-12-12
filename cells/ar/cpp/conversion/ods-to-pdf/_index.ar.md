@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل ODS إلى PDF عبر تطبيق C++ 
 weight: 6720
-url: /ar/cpp/conversion/ods-to-pdf/ 
+
 description: نموذج C++ رمز تحويل لمستند ODS إلى تنسيق PDF. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل دفعة من المواد المستنفدة للأوزون إلى PDF داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

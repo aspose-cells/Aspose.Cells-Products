@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi XLSB thành MARKDOWN qua C#
-url: /vi/net/conversion/xlsb-to-markdown/
+
 description: Mã mẫu cho chuyển đổi xlsb để đánh dấu C#. Sử dụng API mã ví dụ cho hàng loạt tệp xlsb để đánh dấu chuyển đổi trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

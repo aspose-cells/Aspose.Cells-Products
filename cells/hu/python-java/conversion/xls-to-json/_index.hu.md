@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLS konvertálása JSON-ra a következőn keresztül: Python"
-url: /hu/python-java/conversion/xls-to-json/
+
 description: Mintakód az xls–json Python konverzióhoz. Használjon API példakódot a kötegelt xls-fájlok JSON-konverziójához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

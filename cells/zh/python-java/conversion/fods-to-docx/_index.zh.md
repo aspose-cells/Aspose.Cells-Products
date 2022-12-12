@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 Python 将 FODS 转换为 DOCX
-url: /zh/python-java/conversion/fods-to-docx/
+
 description: fods 到 docx Python 转换的示例代码。使用 Python 应用程序中批量 fods 文件到 docx 转换的示例代码。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Tạo Tệp MS Excel XLSX qua C# 
-url: /vi/net/create-xlsx/ 
+
 description: C# Mã mẫu để tạo tài liệu XLSX. Sử dụng mã này để tạo tệp MS Excel XLSX trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してXLSXをDIFに変換します 
 weight: 5300
-url: /ja/java/conversion/xlsx-to-dif/ 
+
 description: XLSX形式からDIFファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のDIFにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

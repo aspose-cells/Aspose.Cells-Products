@@ -1,7 +1,7 @@
-﻿---
+---
 title: Объединить файлы XLSX через .NET 
 weight: 8290
-url: /ru/net/merger/xlsx/ 
+
 description: Исходный код C# для объединения документов XLSX на платформах .NET Framework, .NET Core, Mono или Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してXLTをPDFに変換する
-url: /ja/python-java/conversion/xlt-to-pdf/
+
 description: xltからpdfPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチxltファイルからpdfへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

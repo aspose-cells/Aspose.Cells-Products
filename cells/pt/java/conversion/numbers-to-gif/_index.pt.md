@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter NUMBERS para GIF via Java 
-url: /pt/java/conversion/numbers-to-gif/ 
+
 description: Exemplo de código de conversão Java para o formato NUMBERS para arquivo GIF. Os programadores podem usar este código de exemplo para exportar planilhas do Excel e OpenOffice para GIF em qualquer aplicativo baseado na Web ou Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

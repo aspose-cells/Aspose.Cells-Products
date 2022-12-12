@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to HTML via Python
-url: /python-java/conversion/tabdelimited-to-html/
+
 description: Convert TABDELIMITED to HTML format in Python code. Save TABDELIMITED as HTML using Python.
 ---
 

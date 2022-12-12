@@ -1,7 +1,7 @@
-﻿---
+---
 title: SharePoint Excel 스프레드시트 변환기 앱 - Aspose 
 weight: 940
-url: /ko/sharepoint/ 
+
 description: Aspose.Cells for SharePoint 앱은 SharePoint Excel 스프레드시트 변환기입니다. XLS XLSX XML CSV PDF ODS &amp; MOSS WSS의 HTML 형식
 ---
 {{< blocks/products/pf/main-wrap-class >}}

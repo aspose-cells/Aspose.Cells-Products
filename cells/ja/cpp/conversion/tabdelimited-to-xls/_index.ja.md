@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++アプリケーションを介してTABDELIMITEDをXLSに変換します 
-url: /ja/cpp/conversion/tabdelimited-to-xls/ 
+
 description: TABDELIMITEDドキュメントのXLS形式へのサンプルC++変換コード。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でTABDELIMITEDからXLSへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

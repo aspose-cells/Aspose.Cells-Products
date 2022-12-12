@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή NUMBERS σε EMF μέσω Python
-url: /el/python-java/conversion/numbers-to-emf/
+
 description: Δείγμα κωδικού για αριθμούς σε μετατροπή emf Python. Χρησιμοποιήστε API παράδειγμα κώδικα για αρχεία αριθμών παρτίδας για μετατροπή emf εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

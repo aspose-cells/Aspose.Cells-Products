@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to XLTM via Java 
-url: /java/conversion/tabdelimited-to-xltm/
+
 description: Convert TABDELIMITED to XLTM format in Java code. Save TABDELIMITED as XLTM using Java.
 ---
 

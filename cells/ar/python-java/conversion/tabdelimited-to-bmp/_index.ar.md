@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TABDELIMITED إلى BMP عبر Python
-url: /ar/python-java/conversion/tabdelimited-to-bmp/
+
 description: نموذج التعليمات البرمجية لجدولة محدودية لتحويل bmp Python. استخدم API رمز المثال للملفات المحددة بعلامات جدولة مجمعة لتحويل bmp داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

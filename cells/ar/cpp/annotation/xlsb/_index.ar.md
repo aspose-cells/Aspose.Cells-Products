@@ -1,7 +1,7 @@
-﻿---
+---
 title: إضافة ملف Excel للتعليق التوضيحي XLSB عبر C++ 
 weight: 860
-url: /ar/cpp/annotation/xlsb/ 
+
 description: C++ نموذج التعليمات البرمجية لحذف التعليقات التوضيحية بتنسيق XLSB في C++ Runtime Environment لأنظمة التشغيل Windows 32 بت و Windows 64 بت و Linux 64 بت.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

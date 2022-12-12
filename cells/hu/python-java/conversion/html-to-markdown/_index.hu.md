@@ -1,6 +1,6 @@
-﻿---
+---
 title: "HTML konvertálása MARKDOWN-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/html-to-markdown/
+
 description: Mintakód a html-ből a Python konverzióhoz. Használjon API példakódot kötegelt html-fájlokhoz a leértékeléshez a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

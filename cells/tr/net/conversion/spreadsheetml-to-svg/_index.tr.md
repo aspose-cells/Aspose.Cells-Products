@@ -1,6 +1,6 @@
-﻿---
+---
 title: SPREADSHEETML'yi C# aracılığıyla SVG'ye dönüştürün
-url: /tr/net/conversion/spreadsheetml-to-svg/
+
 description: E-tablodan svg'ye C# dönüşümü için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu elektronik tabloml dosyalarının svg dönüşümüne API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++アプリケーションを介してTSVをXLSに変換する 
 weight: 630
-url: /ja/cpp/conversion/tsv-to-xls/ 
+
 description: TSVドキュメントからXLS形式へのサンプルC++変換コード。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でTSVからXLSへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

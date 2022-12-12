@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to JPG via Python
-url: /python-java/conversion/xlsb-to-jpg/
+
 description: Convert XLSB to JPG format in Python code. Save XLSB as JPG using Python.
 ---
 

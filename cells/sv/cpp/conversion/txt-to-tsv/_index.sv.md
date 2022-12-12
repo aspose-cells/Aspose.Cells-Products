@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera TXT till TSV via appen C++ 
-url: /sv/cpp/conversion/txt-to-tsv/ 
+
 description: Exempel på C++-konverteringskod för TXT-dokument till TSV-format. Programmerare kan använda den här källkoden för batchkonvertering av TXT till TSV inom alla C++-program.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

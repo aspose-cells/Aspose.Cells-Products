@@ -1,7 +1,7 @@
-﻿---
+---
 title: Visualizza i formati di file XLSX tramite .NET 
 weight: 2180
-url: /it/net/viewer/xlsx/ 
+
 description: C# codice sorgente per caricare, eseguire il rendering e visualizzare documenti XLSX su piattaforme .NET Framework, .NET Core, Mono o Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

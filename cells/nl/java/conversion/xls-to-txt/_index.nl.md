@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer XLS naar TXT via Java 
 weight: 810
-url: /nl/java/conversion/xls-to-txt/ 
+
 description: Voorbeeld Java conversiecode voor XLS-indeling naar TXT-bestand. Programmeurs kunnen deze voorbeeldcode gebruiken om Excel- en OpenOffice-spreadsheets naar TXT te exporteren binnen elke web- of desktoptoepassing Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

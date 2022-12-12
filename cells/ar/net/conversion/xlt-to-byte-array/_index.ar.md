@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل XLT إلى صفيف بايت عبر C# 
 weight: 7690
-url: /ar/net/conversion/xlt-to-byte-array/ 
+
 description: C# نموذج كود لتحويل XLT إلى صفيف بايت. استخدم هذا الرمز لتحويل Excel XLT إلى Byte Array داخل VB .NET أو Asp .NET أو أي تطبيق يستند إلى .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

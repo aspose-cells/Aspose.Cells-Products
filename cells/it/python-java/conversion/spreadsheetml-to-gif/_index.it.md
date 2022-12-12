@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converti FOGLIO DI LAVORO ML in GIF tramite Python
-url: /it/python-java/conversion/spreadsheetml-to-gif/
+
 description: Codice di esempio per la conversione da foglio di calcoloml a gif Python. Usa API codice di esempio per la conversione batch di file di foglio di calcoloml in gif all'interno dell'applicazione Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

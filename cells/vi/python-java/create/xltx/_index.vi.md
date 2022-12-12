@@ -1,6 +1,6 @@
-﻿---
+---
 title: Tạo Tệp MS Excel XLTX qua Python 
-url: /vi/python-java/create-xltx/ 
+
 description: Python Mã mẫu để tạo tài liệu XLTX. Sử dụng mã này để tạo tệp MS Excel XLTX trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

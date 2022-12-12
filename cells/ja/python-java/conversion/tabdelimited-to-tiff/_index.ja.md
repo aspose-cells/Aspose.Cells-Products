@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してTABDELIMITEDをTIFFに変換します
-url: /ja/python-java/conversion/tabdelimited-to-tiff/
+
 description: tabdelimitedからtiffPythonへの変換のサンプルコード。 Pythonアプリケーション内で変換をtiffするために、バッチタブ区切りファイルのAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

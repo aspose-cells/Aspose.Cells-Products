@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi FODS ke XML melalui C#
-url: /id/net/conversion/fods-to-xml/
+
 description: Contoh kode untuk fods ke xml C# konversi. Gunakan API kode contoh untuk file batch fods ke konversi xml dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

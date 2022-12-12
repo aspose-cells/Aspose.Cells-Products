@@ -1,7 +1,7 @@
-﻿---
+---
 title: Ekstrak teks dan gambar dari dokumen ODS melalui Java 
 weight: 4740
-url: /id/java/parser/ods/ 
+
 description: Java contoh kode untuk mengekstrak teks dan gambar dari file ODS di Java Runtime Environment untuk Aplikasi JSP/JSF dan Aplikasi Desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

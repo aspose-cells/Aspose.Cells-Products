@@ -1,6 +1,6 @@
-﻿---
+---
 title: Δημιουργία αρχείων Excel μέσω Java
-url: /el/java/assembly/
+
 description: Δημιουργήστε υπολογιστικά φύλλα Microsoft Excel από ένα φύλλο προτύπου χρησιμοποιώντας τη βιβλιοθήκη υπολογιστικών φύλλων Java
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

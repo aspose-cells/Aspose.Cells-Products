@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla XLTM'yi JPEG'e dönüştürün
-url: /tr/python-java/conversion/xltm-to-jpeg/
+
 description: xltm'den jpeg'e Python dönüştürme için örnek kod. Python uygulamasında toplu xltm dosyalarından jpeg'e dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

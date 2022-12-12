@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python के माध्यम से ODS को TIFF में बदलें
-url: /hi/python-java/conversion/ods-to-tiff/
+
 description: ऑड्स टू टिफ़ Python कन्वर्ज़न के लिए नमूना कोड। Python एप्लिकेशन के भीतर कनवर्ज़न को टफ़ करने के लिए बैच ऑड्स फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

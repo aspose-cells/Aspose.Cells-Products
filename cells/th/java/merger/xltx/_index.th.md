@@ -1,7 +1,7 @@
-﻿---
+---
 title: รวมไฟล์ XLTX ผ่าน Java 
 weight: 680
-url: /th/java/merger/xltx/ 
+
 description: Java โค้ดตัวอย่างเพื่อรวมเอกสาร XLTX ใน Java Runtime Environment สำหรับแอปพลิเคชัน JSP/JSF และแอปพลิเคชันเดสก์ท็อป
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

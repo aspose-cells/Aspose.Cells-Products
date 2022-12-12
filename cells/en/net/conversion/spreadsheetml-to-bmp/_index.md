@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to BMP via C#
-url: /net/conversion/spreadsheetml-to-bmp/
+
 description: Convert SPREADSHEETML to BMP format in C# code. Save SPREADSHEETML as BMP using VB.NET, Asp.NET or any .NET based application.
 ---
 

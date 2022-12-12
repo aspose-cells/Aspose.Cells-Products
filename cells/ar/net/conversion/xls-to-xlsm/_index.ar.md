@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLS إلى XLSM عبر C#
-url: /ar/net/conversion/xls-to-xlsm/
+
 description: نموذج كود للتحويل من xls إلى xlsm C#. استخدم API رمز المثال لملفات xls الدفعية لتحويل xlsm داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

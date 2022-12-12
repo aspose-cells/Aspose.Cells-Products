@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή TXT σε HTML μέσω Python
-url: /el/python-java/conversion/txt-to-html/
+
 description: Δείγμα κώδικα για μετατροπή txt σε html Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδική μετατροπή αρχείων txt σε html εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

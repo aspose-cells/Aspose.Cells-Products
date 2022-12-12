@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converter CSV para XLS via Java 
 weight: 10120
-url: /pt/java/conversion/csv-to-xls/ 
+
 description: Exemplo de código de conversão Java para formato CSV para arquivo XLS. Os programadores podem usar este código de exemplo para exportar planilhas do Excel e OpenOffice para XLS em qualquer aplicativo baseado na Web ou Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

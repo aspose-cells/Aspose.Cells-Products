@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer NUMMERS naar XLSB via Python
-url: /nl/python-java/conversion/numbers-to-xlsb/
+
 description: Voorbeeldcode voor conversie van getallen naar xlsb Python. Gebruik API voorbeeldcode voor batchnummerbestanden naar xlsb-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

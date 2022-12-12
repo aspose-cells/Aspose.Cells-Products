@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή SPREADSHEETML σε EMF μέσω C#
-url: /el/net/conversion/spreadsheetml-to-emf/
+
 description: Δείγμα κώδικα για τη μετατροπή υπολογιστικού φύλλου ml σε emf C#. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία υπολογιστικού φύλλου ml για μετατροπή emf εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

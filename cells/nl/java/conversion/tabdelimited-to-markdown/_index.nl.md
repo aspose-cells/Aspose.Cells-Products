@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer TABDELIMITED naar MARKDOWN via Java 
-url: /nl/java/conversion/tabdelimited-to-markdown/ 
+
 description: Voorbeeld Java-conversiecode voor TABDELIMITED-indeling naar MARKDOWN-bestand. Programmeurs kunnen deze voorbeeldcode gebruiken om Excel- en OpenOffice-spreadsheets naar MARKDOWN te exporteren binnen elke web- of desktoptoepassing Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

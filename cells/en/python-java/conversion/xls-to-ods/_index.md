@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to ODS via Python
-url: /python-java/conversion/xls-to-ods/
+
 description: Convert XLS to ODS format in Python code. Save XLS as ODS using Python.
 ---
 

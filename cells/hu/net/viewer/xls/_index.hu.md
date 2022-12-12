@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLS fájlformátumok megtekintése a következőn keresztül: .NET "
 weight: 1260
-url: /hu/net/viewer/xls/ 
+
 description: C# forráskód az XLS dokumentumok betöltéséhez, rendereléséhez és megjelenítéséhez .NET Framework, .NET Core, Mono vagy Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

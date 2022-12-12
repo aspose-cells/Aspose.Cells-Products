@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie XLT in MARKDOWN über Python
-url: /de/python-java/conversion/xlt-to-markdown/
+
 description: Beispielcode für xlt-zu-Markdown-Python-Konvertierung. Verwenden Sie API Beispielcode für XLT-Stapeldateien zur Markdown-Konvertierung in der Anwendung Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

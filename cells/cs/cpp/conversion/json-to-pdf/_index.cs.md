@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte JSON do PDF pomocí aplikace C++ 
-url: /cs/cpp/conversion/json-to-pdf/ 
+
 description: Ukázkový konverzní kód C++ pro dokument JSON do formátu PDF. Programátoři mohou tento zdrojový kód použít pro dávkový převod JSON do PDF v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

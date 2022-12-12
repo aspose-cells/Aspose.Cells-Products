@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to SVG via C++
-url: /cpp/conversion/csv-to-svg/
+
 description: Convert CSV to SVG format in C++ code. Save CSV as SVG using C++.
 ---
 

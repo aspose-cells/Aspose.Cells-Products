@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte MHTML na XLT pomocí aplikace C++ 
-url: /cs/cpp/conversion/mhtml-to-xlt/ 
+
 description: Ukázka převodního kódu C++ pro dokument MHTML na formát XLT. Programátoři mohou použít tento zdrojový kód pro dávkovou konverzi MHTML na XLT v jakékoli C++ aplikaci.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

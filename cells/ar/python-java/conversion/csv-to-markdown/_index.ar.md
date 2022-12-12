@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل CSV إلى MARKDOWN عبر Python
-url: /ar/python-java/conversion/csv-to-markdown/
+
 description: نموذج رمز لتحويل csv إلى markdown Python. استخدم API رمز المثال لملفات csv المجمعة لتحديد التحويل داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

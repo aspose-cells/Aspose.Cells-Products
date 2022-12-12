@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer TSV naar GIF via Python
-url: /nl/python-java/conversion/tsv-to-gif/
+
 description: Voorbeeldcode voor conversie van tsv naar gif Python. Gebruik API voorbeeldcode voor batch TSV-bestanden naar GIF-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

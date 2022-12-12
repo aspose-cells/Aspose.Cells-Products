@@ -1,7 +1,7 @@
 ---
 title: Insert Pictures into Excel via .NET 
 weight: 200
-url: /net/pictures/insert-pictures-to-excel/ 
+
 description: C# source code to insert Pictures into Excel on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

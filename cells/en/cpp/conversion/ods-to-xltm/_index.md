@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to XLTM via C++
-url: /cpp/conversion/ods-to-xltm/
+
 description: Convert ODS to XLTM format in C++ code. Save ODS as XLTM using C++.
 ---
 

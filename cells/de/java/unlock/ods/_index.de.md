@@ -1,7 +1,7 @@
-﻿---
+---
 title: Entsperren Sie das ODS-Dokument über Java 
 weight: 5080
-url: /de/java/unlock/ods/ 
+
 description: Java Beispielcode zum Entsperren der passwortgeschützten ODS-Datei in Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

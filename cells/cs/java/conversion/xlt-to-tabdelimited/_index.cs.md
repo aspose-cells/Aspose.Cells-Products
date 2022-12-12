@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLT na TABDELIMITED přes Java 
-url: /cs/java/conversion/xlt-to-tabdelimited/ 
+
 description: Ukázkový konverzní kód Java pro formát XLT na soubor TABDELIMITED. Programátoři mohou použít tento příklad kódu k exportu tabulek Excelu a OpenOffice do TABDELIMITED v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

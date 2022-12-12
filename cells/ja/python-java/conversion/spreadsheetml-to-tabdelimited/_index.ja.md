@@ -1,6 +1,6 @@
-﻿---
+---
 title: SPREADSHEETMLをPython経由でTABDELIMITEDに変換します
-url: /ja/python-java/conversion/spreadsheetml-to-tabdelimited/
+
 description: SpreadsheetmlからtabdelimitedPythonへの変換のサンプルコード。 Pythonアプリケーション内でのタブ区切り変換へのバッチspreadsheetmlファイルのAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

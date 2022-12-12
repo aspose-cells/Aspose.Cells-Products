@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLT إلى JPG عبر Python
-url: /ar/python-java/conversion/xlt-to-jpg/
+
 description: نموذج كود للتحويل من xlt إلى jpg Python. استخدم API رمز المثال لملفات xlt الدفعية لتحويل jpg داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

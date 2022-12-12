@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla HTML'yi SXC'ye dönüştürün
-url: /tr/net/conversion/html-to-sxc/
+
 description: Html'den sxc'ye C# dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu html dosyalarından sxc'ye dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

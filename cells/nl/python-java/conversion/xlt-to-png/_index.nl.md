@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLT naar PNG via Python
-url: /nl/python-java/conversion/xlt-to-png/
+
 description: Voorbeeldcode voor conversie van xlt naar png Python. Gebruik API voorbeeldcode voor batch-xlt-bestanden naar png-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Scal pliki MHTML przez Java 
 weight: 4420
-url: /pl/java/merger/mhtml/ 
+
 description: Java przykładowy kod do łączenia dokumentów MHTML w Java środowisku wykonawczym dla aplikacji JSP/JSF i aplikacji komputerowych.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

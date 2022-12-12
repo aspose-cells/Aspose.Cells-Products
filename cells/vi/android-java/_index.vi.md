@@ -1,7 +1,7 @@
-﻿---
+---
 title: Bảng tính Excel Android API - Aspose 
 weight: 6510
-url: /vi/android-java/ 
+
 description: Thư viện bảng tính Android để tạo đọc ghi và phân tích cú pháp tệp Excel. Bảng tính API để phát triển Ứng dụng trên điện thoại di động
 ---
 {{< blocks/products/pf/main-wrap-class >}}

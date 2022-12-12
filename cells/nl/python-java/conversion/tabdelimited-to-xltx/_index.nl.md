@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer TABDELIMITED naar XLTX via Python
-url: /nl/python-java/conversion/tabdelimited-to-xltx/
+
 description: Voorbeeldcode voor door tabs gescheiden naar xltx Python conversie. Gebruik API voorbeeldcode voor batch-tabdelimited-bestanden naar xltx-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

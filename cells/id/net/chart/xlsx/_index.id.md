@@ -1,7 +1,7 @@
-﻿---
+---
 title:  Bagan dokumen XLSX ke gambar melalui .NET 
 weight: 2630
-url: /id/net/chart/xlsx/ 
+
 description: C# kode sumber untuk menggambar dan mengonversi bagan atau diagram dalam file XLSX pada Platform .NET Framework, .NET Core, Mono atau Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

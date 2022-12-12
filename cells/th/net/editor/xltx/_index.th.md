@@ -1,6 +1,6 @@
-﻿---
+---
 title: แก้ไขไฟล์ XLTX ผ่าน .NET 
-url: /th/net/editor/xltx/ 
+
 description: C# ซอร์สโค้ดสำหรับแก้ไขเอกสาร XLTX บน .NET Framework, .NET Core, Windows Azure, Mono หรือ Xamarin Platforms
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

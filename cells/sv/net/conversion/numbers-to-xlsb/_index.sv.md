@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera NUMBERS till XLSB via C#
-url: /sv/net/conversion/numbers-to-xlsb/
+
 description: Exempelkod för konvertering av tal till xlsb C#. Använd API exempelkod för batchnummerfiler till xlsb-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Vytvářejte 3D spojnicové grafy prostřednictvím Python
-url: /cs/python-java/create-line3d-chart/
+
 description: Python Ukázkový kód pro vytváření 3D spojnicových grafů do aplikace Excel pomocí knihovny Python. Tento kód použijte k vytvoření 3D spojnicového grafu do MS Excel v aplikaci založené na Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

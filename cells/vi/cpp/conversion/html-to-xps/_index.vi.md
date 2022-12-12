@@ -1,7 +1,7 @@
-﻿---
+---
 title: Chuyển đổi HTML sang XPS qua ứng dụng C++ 
 weight: 1420
-url: /vi/cpp/conversion/html-to-xps/ 
+
 description: Mã chuyển đổi C++ mẫu cho tài liệu HTML sang định dạng XPS. Lập trình viên có thể sử dụng mã nguồn này để chuyển đổi hàng loạt HTML sang XPS trong bất kỳ Ứng dụng C++ nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

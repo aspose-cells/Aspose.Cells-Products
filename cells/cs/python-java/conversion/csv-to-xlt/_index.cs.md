@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést CSV na XLT přes Python
-url: /cs/python-java/conversion/csv-to-xlt/
+
 description: Ukázkový kód pro převod csv na xlt Python. Použijte API ukázkový kód pro dávkový převod souborů csv na xlt v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

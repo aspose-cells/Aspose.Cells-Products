@@ -1,6 +1,6 @@
-﻿---
+---
 title: TABDELIMITED को C# के माध्यम से BMP में बदलें
-url: /hi/net/conversion/tabdelimited-to-bmp/
+
 description: bmp C# रूपांतरण के लिए सीमित टैब के लिए नमूना कोड। VB.NET, Asp.NET या किसी .NET आधारित एप्लिकेशन के भीतर bmp रूपांतरण के लिए बैच टैब-सीमित फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj TABDELIMITED na FODS przez Java 
-url: /pl/java/conversion/tabdelimited-to-fods/ 
+
 description: Przykładowy kod konwersji Java dla formatu TABDELIMITED do pliku FODS. Programiści mogą użyć tego przykładowego kodu, aby wyeksportować arkusze kalkulacyjne Excel i OpenOffice do FODS w dowolnej aplikacji internetowej lub desktopowej Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

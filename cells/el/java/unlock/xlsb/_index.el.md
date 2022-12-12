@@ -1,7 +1,7 @@
-﻿---
+---
 title: Ξεκλείδωμα εγγράφου XLSB μέσω Java 
 weight: 5860
-url: /el/java/unlock/xlsb/ 
+
 description: Java δείγμα κώδικα για να ξεκλειδώσετε το προστατευμένο με κωδικό πρόσβασης αρχείο XLSB στο Java Runtime Environment για JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

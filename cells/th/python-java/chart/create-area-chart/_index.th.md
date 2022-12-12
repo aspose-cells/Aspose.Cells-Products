@@ -1,6 +1,6 @@
-﻿---
+---
 title: สร้างแผนภูมิพื้นที่ผ่าน Python
-url: /th/python-java/create-area-chart/
+
 description: Python โค้ดตัวอย่างสำหรับสร้างแผนภูมิพื้นที่ไปยัง Excel โดยใช้ Python ไลบรารี ใช้รหัสนี้เพื่อสร้างแผนภูมิพื้นที่ไปยัง MS Excel ภายในแอปพลิเคชันที่ใช้ Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

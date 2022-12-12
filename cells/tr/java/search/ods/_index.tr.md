@@ -1,7 +1,7 @@
-﻿---
+---
 title: ODS belgesini Java üzerinden açmadan arayın 
 weight: 8140
-url: /tr/java/search/ods/ 
+
 description: JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Runtime Environment'daki ODS dosyasında kalıplı kelimeleri aramak için Java örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

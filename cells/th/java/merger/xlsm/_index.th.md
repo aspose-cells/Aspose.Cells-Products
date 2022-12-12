@@ -1,7 +1,7 @@
-﻿---
+---
 title: รวมไฟล์ XLSM ผ่าน Java 
 weight: 1270
-url: /th/java/merger/xlsm/ 
+
 description: Java โค้ดตัวอย่างเพื่อรวมเอกสาร XLSM บน Java Runtime Environment สำหรับแอปพลิเคชัน JSP/JSF และแอปพลิเคชันเดสก์ท็อป
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

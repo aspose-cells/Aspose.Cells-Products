@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NETを介してXLSドキュメントのテキストを検索および置換します 
 weight: 7280
-url: /ja/net/redaction/xls/ 
+
 description: .NETフレームワーク、.NETコア、Mono、またはXamarinプラットフォーム上のXLSファイル内の機密情報を編集するためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

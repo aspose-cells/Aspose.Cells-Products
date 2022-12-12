@@ -1,7 +1,7 @@
-﻿---
+---
 title: Zoek XLSM-document zonder te openen via .NET 
 weight: 4880
-url: /nl/net/search/xlsm/ 
+
 description: C# broncode om woorden met patroon te zoeken in XLSM-bestand op .NET Framework, .NET Core, Mono of Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

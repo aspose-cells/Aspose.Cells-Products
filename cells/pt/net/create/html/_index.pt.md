@@ -1,6 +1,6 @@
-﻿---
+---
 title: Crie arquivos HTML por meio de C# 
-url: /pt/net/create-html/ 
+
 description: C# Código de amostra para gerar documentos HTML. Use este código para criar arquivos HTML em VB.NET, Asp.NET ou qualquer aplicativo baseado em .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

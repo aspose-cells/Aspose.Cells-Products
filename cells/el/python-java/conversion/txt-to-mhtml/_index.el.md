@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή TXT σε MHTML μέσω Python
-url: /el/python-java/conversion/txt-to-mhtml/
+
 description: Δείγμα κώδικα για μετατροπή txt σε mhtml Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδική μετατροπή αρχείων txt σε mhtml εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer NUMMERS naar SVG via Python
-url: /nl/python-java/conversion/numbers-to-svg/
+
 description: Voorbeeldcode voor conversie van getallen naar svg Python. Gebruik API voorbeeldcode voor batchnummerbestanden naar svg-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

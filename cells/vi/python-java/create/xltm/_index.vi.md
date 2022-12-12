@@ -1,6 +1,6 @@
-﻿---
+---
 title: Tạo Tệp MS Excel XLTM qua Python 
-url: /vi/python-java/create-xltm/ 
+
 description: Python Mã mẫu để tạo tài liệu XLTM. Sử dụng mã này để tạo tệp MS Excel XLTM trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してCSVファイルを作成する 
-url: /ja/net/create-csv/ 
+
 description: C#CSVドキュメントを生成するためのサンプルコード。このコードを使用して、VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でCSVファイルを作成します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

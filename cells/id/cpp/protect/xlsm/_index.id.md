@@ -1,7 +1,7 @@
-﻿---
+---
 title: Lindungi dan kunci dokumen XLSM melalui C++ 
 weight: 8770
-url: /id/cpp/protect/xlsm/ 
+
 description: C++ contoh kode untuk mengunci file XLSM menggunakan sandi pada C++ Runtime Environment untuk Windows 32 bit, Windows 64 bit, dan Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

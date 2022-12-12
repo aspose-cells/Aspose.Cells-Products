@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir XLSX en HTML via Python
-url: /fr/python-java/conversion/xlsx-to-html/
+
 description: Exemple de code pour la conversion xlsx vers html Python. Utilisez l'exemple de code API pour la conversion par lot de fichiers xlsx en html dans l'application Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

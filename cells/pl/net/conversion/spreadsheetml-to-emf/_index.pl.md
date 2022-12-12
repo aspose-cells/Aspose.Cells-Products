@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj SPREADSHEETML na EMF za pomocą C#
-url: /pl/net/conversion/spreadsheetml-to-emf/
+
 description: Przykładowy kod konwersji arkusza kalkulacyjnego na emf C#. Użyj przykładowego kodu API dla plików arkusza kalkulacyjnego wsadowego do konwersji emf w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

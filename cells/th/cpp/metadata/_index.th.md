@@ -1,6 +1,6 @@
-﻿---
+---
 title: จัดการข้อมูลเมตาของไฟล์ Excel ผ่าน C++
-url: /th/cpp/metadata/
+
 description: ดู เพิ่ม แก้ไข ลบ หรือแยกข้อมูลเมตาของไฟล์ Excel โดยใช้ C++ library
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

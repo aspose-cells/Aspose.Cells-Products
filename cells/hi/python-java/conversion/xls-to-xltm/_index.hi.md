@@ -1,6 +1,6 @@
-﻿---
+---
 title: XLS को XLTM में परिवर्तित करें Python के द्वारा
-url: /hi/python-java/conversion/xls-to-xltm/
+
 description: xls से xltm Python रूपांतरण के लिए नमूना कोड। बैच xls फ़ाइलों के लिए Python एप्लिकेशन के भीतर xltm रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

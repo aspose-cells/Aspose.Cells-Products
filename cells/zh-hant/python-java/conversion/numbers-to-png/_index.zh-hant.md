@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 Python 將 NUMBERS 轉換為 PNG
-url: /zh-hant/python-java/conversion/numbers-to-png/
+
 description: 數字到 png Python 轉換的示例代碼。使用 Python 應用程序中批號文件到 png 轉換的 API 示例代碼。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

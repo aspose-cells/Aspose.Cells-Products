@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通過 C++ 搜索和替換 XLSM 文檔中的文本 
 weight: 9570
-url: /zh-hant/cpp/redaction/xlsm/ 
+
 description: C++ 用於編輯 XLSM 文件中敏感信息的示例代碼 C++ 適用於 Windows 32 位、Windows 64 位和 Linux 64 位的運行時環境。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TXT konvertálása BMP-vé a következőn keresztül: Python"
-url: /hu/python-java/conversion/txt-to-bmp/
+
 description: Mintakód a txt-ből bmp-be Python konverzióhoz. Használjon API példakódot a kötegelt txt fájlokhoz a bmp konverzióhoz a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

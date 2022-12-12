@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển NUMBERS thành DIF qua Python
-url: /vi/python-java/conversion/numbers-to-dif/
+
 description: Mã mẫu cho các số để chuyển đổi Python. Sử dụng mã mẫu API cho các tệp số lô để chuyển đổi khác trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

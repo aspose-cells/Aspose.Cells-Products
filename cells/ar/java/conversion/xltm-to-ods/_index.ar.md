@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل XLTM إلى ODS عبر Java 
 weight: 6190
-url: /ar/java/conversion/xltm-to-ods/ 
+
 description: نموذج Java رمز تحويل من تنسيق XLTM إلى ملف ODS. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى ODS من خلال أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

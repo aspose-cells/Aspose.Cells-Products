@@ -1,6 +1,6 @@
-﻿---
+---
 title: إنشاء ملفات MS Excel XLSB عبر Python 
-url: /ar/python-java/create-xlsb/ 
+
 description: Python نموذج كود لإنشاء مستندات XLSB. استخدم هذا الرمز لإنشاء ملفات MS Excel XLSB داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

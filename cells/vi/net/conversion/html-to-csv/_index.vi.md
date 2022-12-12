@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi HTML sang CSV qua C#
-url: /vi/net/conversion/html-to-csv/
+
 description: Mã mẫu cho chuyển đổi html sang csv C#. Sử dụng API mã mẫu cho hàng loạt tệp html sang chuyển đổi csv trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

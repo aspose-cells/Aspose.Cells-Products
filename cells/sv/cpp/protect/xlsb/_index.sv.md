@@ -1,7 +1,7 @@
-﻿---
+---
 title: Skydda och lås XLSB-dokument via C++ 
 weight: 4860
-url: /sv/cpp/protect/xlsb/ 
+
 description: C++ exempelkod för att låsa XLSB-fil med lösenord i C++ Runtime Environment för Windows 32-bitars, Windows 64-bitars och Linux 64-bitars.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi TXT sang JPG qua C#
-url: /vi/net/conversion/txt-to-jpg/
+
 description: Mã mẫu cho chuyển đổi txt sang jpg C#. Sử dụng API mã mẫu cho hàng loạt tệp txt sang chuyển đổi jpg trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

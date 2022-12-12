@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java के माध्यम से XLSX फ़ाइलें मर्ज करें 
 weight: 8930
-url: /hi/java/merger/xlsx/ 
+
 description: Java JSP/JSF अनुप्रयोग और डेस्कटॉप अनुप्रयोगों के लिए रनटाइम परिवेश पर XLSX दस्तावेज़ों को संयोजित करने के लिए Java नमूना कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

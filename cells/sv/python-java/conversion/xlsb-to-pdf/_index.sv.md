@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera XLSB till PDF via Python
-url: /sv/python-java/conversion/xlsb-to-pdf/
+
 description: Exempelkod för konvertering av xlsb till pdf Python. Använd API exempelkod för batch-xlsb-filer till pdf-konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

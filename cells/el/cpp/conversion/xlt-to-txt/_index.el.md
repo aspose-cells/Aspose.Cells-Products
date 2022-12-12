@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή XLT σε TXT μέσω της εφαρμογής C++ 
-url: /el/cpp/conversion/xlt-to-txt/ 
+
 description: Δείγμα κώδικα μετατροπής C++ για έγγραφο XLT σε μορφή TXT. Οι προγραμματιστές μπορούν να χρησιμοποιήσουν αυτόν τον πηγαίο κώδικα για ομαδική μετατροπή XLT σε TXT σε οποιαδήποτε εφαρμογή C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

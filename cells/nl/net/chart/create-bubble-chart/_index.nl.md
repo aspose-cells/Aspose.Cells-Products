@@ -1,6 +1,6 @@
-﻿---
+---
 title: Maak bellendiagrammen via C#
-url: /nl/net/create-bubble-chart/
+
 description: C# Voorbeeldcode voor het maken van bellendiagrammen naar Excel met .NET Bibliotheek. Gebruik deze code voor het maken van een {chart}-diagram naar MS Excel binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

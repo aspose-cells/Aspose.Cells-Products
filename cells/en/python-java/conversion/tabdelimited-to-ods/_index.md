@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to ODS via Python
-url: /python-java/conversion/tabdelimited-to-ods/
+
 description: Convert TABDELIMITED to ODS format in Python code. Save TABDELIMITED as ODS using Python.
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Διαχωρισμός αρχείων XLSB μέσω Java 
 weight: 7880
-url: /el/java/splitter/xlsb/ 
+
 description: Java δείγμα κώδικα για διαχωρισμό εγγράφων XLSB σε Java Runtime Environment για JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

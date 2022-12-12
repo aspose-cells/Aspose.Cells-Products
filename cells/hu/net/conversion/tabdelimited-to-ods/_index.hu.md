@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TABDELIMITED konvertálása ODS-re a következőn keresztül: C#"
-url: /hu/net/conversion/tabdelimited-to-ods/
+
 description: Mintakód a tabulátorral elválasztott ods C# konverzióhoz. Használjon API példakódot a tabulátorral határolt fájlok kötegelt ods konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazásban.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

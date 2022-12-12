@@ -1,7 +1,7 @@
-﻿---
+---
 title: Protégez et verrouillez le document XLSB via Java 
 weight: 6590
-url: /fr/java/protect/xlsb/ 
+
 description: Java Exemple de code pour verrouiller le fichier XLSB à l'aide d'un mot de passe sur Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

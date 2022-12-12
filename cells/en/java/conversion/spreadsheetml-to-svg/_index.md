@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to SVG via Java 
-url: /java/conversion/spreadsheetml-to-svg/
+
 description: Convert SPREADSHEETML to SVG format in Java code. Save SPREADSHEETML as SVG using Java.
 ---
 

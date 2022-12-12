@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to XLAM via Python
-url: /python-java/conversion/xltx-to-xlam/
+
 description: Convert XLTX to XLAM format in Python code. Save XLTX as XLAM using Python.
 ---
 

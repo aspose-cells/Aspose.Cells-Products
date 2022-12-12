@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLTX-et ODS-vé a C++ alkalmazással 
-url: /hu/cpp/conversion/xltx-to-ods/ 
+
 description: Minta C++ konverziós kód az XLTX dokumentumhoz ODS formátumba. A programozók ezt a forráskódot használhatják az XLTX-ből ODS-be kötegelt konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

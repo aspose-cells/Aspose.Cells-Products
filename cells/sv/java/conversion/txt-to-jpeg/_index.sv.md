@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertera TXT till JPEG via Java 
 weight: 4930
-url: /sv/java/conversion/txt-to-jpeg/ 
+
 description: Exempel Java-konverteringskod för TXT-format till JPEG-fil. Programmerare kan använda den här exempelkoden för att exportera Excel- och OpenOffice-kalkylblad till JPEG inom alla webb- eller skrivbordsbaserade Java-applikationer.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

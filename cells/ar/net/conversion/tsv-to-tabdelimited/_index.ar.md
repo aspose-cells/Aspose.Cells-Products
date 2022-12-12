@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TSV إلى TABDELIMITED عبر C#
-url: /ar/net/conversion/tsv-to-tabdelimited/
+
 description: نموذج رمز للتحويل من tsv إلى الجدولة C# المحدود. استخدم API رمز المثال لملفات tsv المجمعة لتحويل محدد بعلامات جدولة داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل XLSX إلى XLS عبر تطبيق C++ 
 weight: 2660
-url: /ar/cpp/conversion/xlsx-to-xls/ 
+
 description: نموذج C++ رمز تحويل لمستند XLSX إلى تنسيق XLS. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل XLSX إلى XLS دفعة داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

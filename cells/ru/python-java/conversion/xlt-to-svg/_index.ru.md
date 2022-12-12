@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLT в SVG через Python
-url: /ru/python-java/conversion/xlt-to-svg/
+
 description: Пример кода для преобразования xlt в svg Python. Используйте пример кода API для пакетного преобразования файлов xlt в svg в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

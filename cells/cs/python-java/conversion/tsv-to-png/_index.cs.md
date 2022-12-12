@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TSV na PNG prostřednictvím Python
-url: /cs/python-java/conversion/tsv-to-png/
+
 description: Ukázkový kód pro převod tsv na png Python. Použijte API ukázkový kód pro dávkový převod souborů tsv na png v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

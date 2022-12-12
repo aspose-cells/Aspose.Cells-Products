@@ -1,6 +1,6 @@
-﻿---
+---
 title: إنشاء ملفات PDF عبر Python 
-url: /ar/python-java/create-pdf/ 
+
 description: Python نموذج كود لإنشاء مستندات PDF. استخدم هذا الرمز لإنشاء ملفات PDF داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

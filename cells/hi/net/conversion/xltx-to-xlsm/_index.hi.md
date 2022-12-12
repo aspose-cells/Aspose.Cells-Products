@@ -1,6 +1,6 @@
-﻿---
+---
 title: XLTX को XLSM में बदलने के लिए C#
-url: /hi/net/conversion/xltx-to-xlsm/
+
 description: xltx से xlsm C# रूपांतरण के लिए नमूना कोड। VB.NET, Asp.NET या किसी .NET आधारित एप्लिकेशन के भीतर xlsm रूपांतरण के लिए बैच xltx फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

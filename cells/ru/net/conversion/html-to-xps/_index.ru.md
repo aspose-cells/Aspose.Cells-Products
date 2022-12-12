@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование HTML в XPS через C#
-url: /ru/net/conversion/html-to-xps/
+
 description: Пример кода для преобразования html в xps C#. Используйте пример кода API для пакетного преобразования файлов html в xps в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

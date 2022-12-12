@@ -1,6 +1,6 @@
-﻿---
+---
 title: "NUMBERS konvertálása XLT-re a következőn keresztül: C#"
-url: /hu/net/conversion/numbers-to-xlt/
+
 description: Mintakód számok xlt C# konverziójára. Használjon API példakódot a kötegszámfájlokhoz az xlt konverzióhoz VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

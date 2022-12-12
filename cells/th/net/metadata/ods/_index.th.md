@@ -1,7 +1,7 @@
-﻿---
+---
 title: ดูหรือแก้ไขข้อมูลเมตาของไฟล์ ODS ผ่าน .NET 
 weight: 320
-url: /th/net/metadata/ods/ 
+
 description: C# ซอร์สโค้ดสำหรับแก้ไขหรือดูข้อมูลเมตาของรูปแบบ ODS บน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

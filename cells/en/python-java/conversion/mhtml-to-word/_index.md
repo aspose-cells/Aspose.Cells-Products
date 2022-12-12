@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to WORD via Python
-url: /python-java/conversion/mhtml-to-word/
+
 description: Convert MHTML to WORD format in Python code. Save MHTML as WORD using Python.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してHTMLをCSVに変換する
-url: /ja/python-java/conversion/html-to-csv/
+
 description: htmlからcsvPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチhtmlファイルからcsvへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

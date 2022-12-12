@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převeďte MHTML na SVG pomocí aplikace C++ 
 weight: 7050
-url: /cs/cpp/conversion/mhtml-to-svg/ 
+
 description: Ukázka převodního kódu C++ pro dokument MHTML na formát SVG. Programátoři mohou použít tento zdrojový kód pro dávkovou konverzi MHTML na SVG v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

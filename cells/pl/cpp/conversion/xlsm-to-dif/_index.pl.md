@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj XLSM na DIF za pomocą aplikacji C++ 
-url: /pl/cpp/conversion/xlsm-to-dif/ 
+
 description: Przykładowy kod konwersji C++ dla dokumentu XLSM do formatu DIF. Programiści mogą używać tego kodu źródłowego do wsadowej konwersji XLSM na DIF w dowolnej aplikacji C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

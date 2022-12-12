@@ -1,6 +1,6 @@
 ---
 title: Convert TSV to SXC via C#
-url: /net/conversion/tsv-to-sxc/
+
 description: Convert TSV to SXC format in C# code. Save TSV as SXC using VB.NET, Asp.NET or any .NET based application.
 ---
 

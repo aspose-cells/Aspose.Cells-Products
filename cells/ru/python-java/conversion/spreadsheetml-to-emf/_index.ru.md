@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование SPREADSHETML в EMF через Python
-url: /ru/python-java/conversion/spreadsheetml-to-emf/
+
 description: Пример кода для преобразования электронной таблицыml в emf Python. Используйте пример кода API для пакетного преобразования файлов электронной таблицыml в emf в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to EMF via C++
-url: /cpp/conversion/html-to-emf/
+
 description: Convert HTML to EMF format in C++ code. Save HTML as EMF using C++.
 ---
 

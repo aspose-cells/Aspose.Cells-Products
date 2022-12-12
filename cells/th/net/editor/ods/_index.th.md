@@ -1,6 +1,6 @@
-﻿---
+---
 title: แก้ไขไฟล์ ODS ผ่าน .NET 
-url: /th/net/editor/ods/ 
+
 description: C# ซอร์สโค้ดเพื่อแก้ไขเอกสาร ODS บน .NET Framework, .NET Core, Windows Azure, Mono หรือ Xamarin Platforms
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

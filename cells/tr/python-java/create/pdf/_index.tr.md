@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla PDF Dosyaları Oluşturun 
-url: /tr/python-java/create-pdf/ 
+
 description: Python PDF belgeleri oluşturmak için örnek kod. Python uygulamasında PDF dosyaları oluşturmak için bu kodu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

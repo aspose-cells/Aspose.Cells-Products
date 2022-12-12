@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل MHTML إلى XLAM عبر تطبيق C++ 
-url: /ar/cpp/conversion/mhtml-to-xlam/ 
+
 description: نموذج لشفرة تحويل C++ لمستند MHTML إلى تنسيق XLAM. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل MHTML إلى XLAM دفعة داخل أي C++ تطبيق.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

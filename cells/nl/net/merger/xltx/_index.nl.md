@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLTX-bestanden samenvoegen via .NET 
 weight: 1220
-url: /nl/net/merger/xltx/ 
+
 description: C# broncode om XLTX-documenten te combineren op .NET Framework, .NET Core, Mono of Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

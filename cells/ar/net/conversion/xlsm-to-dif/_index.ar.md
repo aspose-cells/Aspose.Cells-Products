@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLSM إلى DIF عبر C#
-url: /ar/net/conversion/xlsm-to-dif/
+
 description: نموذج التعليمات البرمجية لتحويل xlsm إلى ديف C#. استخدم API مثال الكود لملفات xlsm الدفعية لتغيير التحويل داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

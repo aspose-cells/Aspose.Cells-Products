@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi XLT sang MD qua C#
-url: /vi/net/conversion/xlt-to-md/
+
 description: Mã mẫu cho chuyển đổi xlt sang md C#. Sử dụng API mã mẫu cho hàng loạt tệp xlt sang chuyển đổi md trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

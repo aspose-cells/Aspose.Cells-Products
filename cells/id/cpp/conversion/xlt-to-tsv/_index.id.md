@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan XLT ke TSV melalui C++ aplikasi 
-url: /id/cpp/conversion/xlt-to-tsv/ 
+
 description: Contoh C++ kode konversi untuk dokumen XLT ke format TSV. Pemrogram dapat menggunakan kode sumber ini untuk konversi batch XLT ke TSV dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést NUMBERS na XLSX přes Python
-url: /cs/python-java/conversion/numbers-to-xlsx/
+
 description: Ukázkový kód pro převod čísel na xlsx Python. Použijte API ukázkový kód pro převod souborů s čísly dávek na xlsx v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

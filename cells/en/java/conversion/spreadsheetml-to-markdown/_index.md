@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to MARKDOWN via Java 
-url: /java/conversion/spreadsheetml-to-markdown/
+
 description: Convert SPREADSHEETML to MARKDOWN format in Java code. Save SPREADSHEETML as MARKDOWN using Java.
 ---
 

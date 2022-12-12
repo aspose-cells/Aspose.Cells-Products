@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLT konvertálása MHTML-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/xlt-to-mhtml/
+
 description: Mintakód az xlt–mhtml Python konverzióhoz. Használjon API példakódot az xlt fájlok kötegelt mhtml konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

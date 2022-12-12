@@ -1,6 +1,6 @@
 ---
 title: Merge MHT to HTML Files via Python 
-url: /python-java/merger/merge-mht-to-html/ 
+
 description: Merge MHT to HTML file in Python code. Combine MHT to HTML file using Python.
 ---
 

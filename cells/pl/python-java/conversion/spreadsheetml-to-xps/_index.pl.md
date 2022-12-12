@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj SPREADSHEETML na XPS za pomocą Python
-url: /pl/python-java/conversion/spreadsheetml-to-xps/
+
 description: Przykładowy kod konwersji arkusza kalkulacyjnego ml do XPS Python. Użyj przykładowego kodu API dla wsadowych plików arkusza kalkulacyjnego w formacie xps do konwersji xps w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

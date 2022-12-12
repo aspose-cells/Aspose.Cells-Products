@@ -1,7 +1,7 @@
-﻿---
+---
 title: Fusionner les fichiers XLSX via Java 
 weight: 8930
-url: /fr/java/merger/xlsx/ 
+
 description: Java Exemple de code pour combiner des documents XLSX sur Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

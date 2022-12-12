@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLSB naar MHTML via C#
-url: /nl/net/conversion/xlsb-to-mhtml/
+
 description: Voorbeeldcode voor xlsb naar mhtml C# conversie. Gebruik API voorbeeldcode voor batch xlsb-bestanden naar mhtml-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

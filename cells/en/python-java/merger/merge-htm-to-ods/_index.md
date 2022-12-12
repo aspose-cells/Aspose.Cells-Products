@@ -1,6 +1,6 @@
 ---
 title: Merge HTM to ODS Files via Python 
-url: /python-java/merger/merge-htm-to-ods/ 
+
 description: Merge HTM to ODS file in Python code. Combine HTM to ODS file using Python.
 ---
 

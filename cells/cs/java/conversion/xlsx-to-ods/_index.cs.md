@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést XLSX na ODS přes Java 
 weight: 5130
-url: /cs/java/conversion/xlsx-to-ods/ 
+
 description: Ukázkový konverzní kód Java pro soubor ve formátu XLSX na soubor ODS. Programátoři mohou použít tento příklad kódu k exportu tabulek Excelu a OpenOffice do ODS v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

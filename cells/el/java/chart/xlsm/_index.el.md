@@ -1,7 +1,7 @@
-﻿---
+---
 title: Γράφημα εγγράφων XLSM μέσω Java 
 weight: 3020
-url: /el/java/chart/xlsm/ 
+
 description: Java δείγμα κώδικα για σχεδίαση και μετατροπή γραφήματος ή διαγράμματος σε αρχείο XLSM στο Java Περιβάλλον χρόνου εκτέλεσης για εφαρμογές JSP/JSF και εφαρμογές επιφάνειας εργασίας.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

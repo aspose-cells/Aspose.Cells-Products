@@ -1,6 +1,6 @@
-﻿---
+---
 title: Создайте диаграммы с областями с помощью C#
-url: /ru/net/create-area-chart/
+
 description: C# Пример кода для создания диаграмм с областями в Excel с использованием библиотеки .NET. Используйте этот код для создания диаграммы с областями для MS Excel в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

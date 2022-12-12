@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést NUMBERS na PNG přes Python
-url: /cs/python-java/conversion/numbers-to-png/
+
 description: Ukázkový kód pro převod čísel na png Python. Použijte ukázkový kód API pro převod souborů s čísly šarže na png v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLTM na XPS přes C#
-url: /cs/net/conversion/xltm-to-xps/
+
 description: Ukázkový kód pro převod xltm na xps C#. Použijte API ukázkový kód pro dávkový převod souborů xltm na xps v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

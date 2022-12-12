@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLSB konvertálása FODS-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/xlsb-to-fods/
+
 description: Mintakód az xlsb to fods Python konverziójához. Használjon API példakódot a kötegelt xlsb fájlok fods konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

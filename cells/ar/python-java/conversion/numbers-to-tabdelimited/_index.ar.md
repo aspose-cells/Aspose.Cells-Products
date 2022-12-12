@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل NUMBERS إلى TABDELIMITED عبر Python
-url: /ar/python-java/conversion/numbers-to-tabdelimited/
+
 description: نموذج رمز للأرقام المراد تحويلها بعلامات جدولة Python. استخدم API رمز المثال لملفات أرقام الدُفعات للتحويل المحدود بعلامات جدولة داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

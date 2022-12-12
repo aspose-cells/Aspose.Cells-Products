@@ -1,7 +1,7 @@
-﻿---
+---
 title: Lihat atau Edit Metadata File XLSB melalui .NET 
 weight: 7890
-url: /id/net/metadata/xlsb/ 
+
 description: C# kode sumber untuk mengedit atau melihat metadata format XLSB pada Platform .NET Framework, .NET Core, Mono atau Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

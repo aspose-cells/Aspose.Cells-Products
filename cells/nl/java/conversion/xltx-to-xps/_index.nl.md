@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer XLTX naar XPS via Java 
 weight: 2990
-url: /nl/java/conversion/xltx-to-xps/ 
+
 description: Voorbeeld Java conversiecode voor XLTX-indeling naar XPS-bestand. Programmeurs kunnen deze voorbeeldcode gebruiken om Excel- en OpenOffice-spreadsheets naar XPS te exporteren binnen elke web- of desktoptoepassing Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

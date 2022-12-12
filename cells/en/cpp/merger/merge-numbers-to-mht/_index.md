@@ -1,6 +1,6 @@
 ---
 title: Merge NUMBERS to MHT Files via C++ 
-url: /cpp/merger/merge-numbers-to-mht/ 
+
 description: Merge NUMBERS to MHT file in C++ code. Combine NUMBERS to MHT file using C++.
 ---
 

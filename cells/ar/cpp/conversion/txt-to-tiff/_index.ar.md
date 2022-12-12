@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TXT إلى TIFF عبر تطبيق C++ 
-url: /ar/cpp/conversion/txt-to-tiff/ 
+
 description: نموذج C++ رمز التحويل لمستند TXT إلى تنسيق TIFF. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل TXT إلى TIFF دفعة داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

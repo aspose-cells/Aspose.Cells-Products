@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to JSON via C#
-url: /net/conversion/sxc-to-json/
+
 description: Convert SXC to JSON format in C# code. Save SXC as JSON using VB.NET, Asp.NET or any .NET based application.
 ---
 

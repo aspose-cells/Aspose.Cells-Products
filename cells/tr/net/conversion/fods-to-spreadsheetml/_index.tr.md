@@ -1,6 +1,6 @@
-﻿---
+---
 title: FODS'u C# aracılığıyla SPREADSHEETML'ye dönüştürün
-url: /tr/net/conversion/fods-to-spreadsheetml/
+
 description: Yemlerin e-tabloya ml C# dönüşümü için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu dosya dosyaları için elektronik tabloml dönüşümü için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

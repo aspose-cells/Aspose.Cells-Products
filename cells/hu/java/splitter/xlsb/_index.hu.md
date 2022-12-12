@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLSB-fájlok felosztása a következőn keresztül: Java "
 weight: 7880
-url: /hu/java/splitter/xlsb/ 
+
 description: Java mintakód az XLSB dokumentumok felosztásához a Java Futási környezet JSP/JSF alkalmazásokhoz és asztali alkalmazásokhoz.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Bảo vệ và khóa tài liệu XLSX qua C++ 
 weight: 1140
-url: /vi/cpp/protect/xlsx/ 
+
 description: C++ mã ví dụ để khóa tệp XLSX bằng mật khẩu trên C++ Môi trường thời gian chạy cho Windows 32 bit, Windows 64 bit và Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

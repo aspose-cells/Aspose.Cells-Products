@@ -1,7 +1,7 @@
-﻿---
+---
 title: قم بتحويل ODS إلى SVG عبر تطبيق C++ 
 weight: 3080
-url: /ar/cpp/conversion/ods-to-svg/ 
+
 description: نموذج C++ رمز تحويل لمستند ODS إلى تنسيق SVG. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل دفعة ODS إلى SVG داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

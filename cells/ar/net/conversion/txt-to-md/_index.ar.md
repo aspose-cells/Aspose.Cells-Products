@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TXT إلى MD عبر C#
-url: /ar/net/conversion/txt-to-md/
+
 description: نموذج كود للتحويل من TXT إلى md C#. استخدم API رمز المثال لملفات txt الدفعية لتحويل md داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

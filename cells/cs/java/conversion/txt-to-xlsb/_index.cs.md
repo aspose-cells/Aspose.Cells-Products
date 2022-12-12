@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést TXT na XLSB přes Java 
 weight: 3360
-url: /cs/java/conversion/txt-to-xlsb/ 
+
 description: Ukázkový konverzní kód Java pro formát TXT na soubor XLSB. Programátoři mohou použít tento příklad kódu k exportu tabulek Excelu a OpenOffice do XLSB v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

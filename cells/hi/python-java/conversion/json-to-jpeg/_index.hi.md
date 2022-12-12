@@ -1,6 +1,6 @@
-﻿---
+---
 title: JSON को JPEG में Python के माध्यम से बदलें
-url: /hi/python-java/conversion/json-to-jpeg/
+
 description: जेसन से जेपीईजी Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर jpeg रूपांतरण के लिए बैच json फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

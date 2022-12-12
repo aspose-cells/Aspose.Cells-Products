@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to TSV via C++
-url: /cpp/conversion/tabdelimited-to-tsv/
+
 description: Convert TABDELIMITED to TSV format in C++ code. Save TABDELIMITED as TSV using C++.
 ---
 

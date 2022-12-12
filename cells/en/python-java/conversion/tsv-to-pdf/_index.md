@@ -1,6 +1,6 @@
 ---
 title: Convert TSV to PDF via Python
-url: /python-java/conversion/tsv-to-pdf/
+
 description: Convert TSV to PDF format in Python code. Save TSV as PDF using Python.
 ---
 

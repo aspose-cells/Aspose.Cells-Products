@@ -1,7 +1,7 @@
-﻿---
+---
 title: Entsperren Sie das XLSX-Dokument über Java 
 weight: 310
-url: /de/java/unlock/xlsx/ 
+
 description: Java Beispielcode zum Entsperren der passwortgeschützten XLSX-Datei in Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

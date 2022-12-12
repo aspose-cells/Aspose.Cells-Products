@@ -1,7 +1,7 @@
-﻿---
+---
 title: Поиск документа CSV без открытия через Java 
 weight: 390
-url: /ru/java/search/csv/ 
+
 description: Пример кода Java для поиска слов с шаблоном в файле CSV в Java среде выполнения для приложений JSP/JSF и настольных приложений.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

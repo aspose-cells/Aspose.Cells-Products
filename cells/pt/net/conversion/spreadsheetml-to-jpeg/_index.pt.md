@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter SPREADSHEETML para JPEG via C#
-url: /pt/net/conversion/spreadsheetml-to-jpeg/
+
 description: Código de exemplo para conversão de planilhaml para jpeg C#. Use API código de exemplo para arquivos de planilhaml em lote para conversão de jpeg em VB.NET, Asp.NET ou qualquer aplicativo baseado em .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

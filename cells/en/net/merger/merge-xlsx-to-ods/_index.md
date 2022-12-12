@@ -1,6 +1,6 @@
 ---
 title: Merge XLSX to ODS Files via C# 
-url: /net/merger/merge-xlsx-to-ods/ 
+
 description: Merge XLSX to ODS file in C# code. Combine XLSX to ODS file using VB.NET, Asp.NET or any .NET based application.
 ---
 

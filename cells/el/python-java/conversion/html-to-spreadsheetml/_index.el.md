@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή HTML σε SPREADSHEETML μέσω Python
-url: /el/python-java/conversion/html-to-spreadsheetml/
+
 description: Δείγμα κώδικα για μετατροπή Python html σε υπολογιστικό φύλλο. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία html για μετατροπή υπολογιστικού φύλλου εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

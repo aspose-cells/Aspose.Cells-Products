@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera JSON till CSV via C#
-url: /sv/net/conversion/json-to-csv/
+
 description: Exempelkod för konvertering från json till csv C#. Använd API exempelkod för batch-json-filer till csv-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

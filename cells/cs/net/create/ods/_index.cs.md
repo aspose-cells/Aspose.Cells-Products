@@ -1,6 +1,6 @@
-﻿---
+---
 title: Vytvářejte soubory ODS (Openoffice / Lbreoffice) prostřednictvím C# 
-url: /cs/net/create-ods/ 
+
 description: C# Ukázkový kód pro generování dokumentů ODS. Tento kód použijte k vytváření souborů ODS (Openoffice / Lbreoffice) v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Pisahkan File XLS melalui Java 
 weight: 610
-url: /id/java/splitter/xls/ 
+
 description: Java kode contoh untuk membagi dokumen XLS pada Java Runtime Environment untuk Aplikasi JSP/JSF dan Aplikasi Desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

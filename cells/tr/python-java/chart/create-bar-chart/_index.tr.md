@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python ile Çubuk Grafikler Oluşturun
-url: /tr/python-java/create-bar-chart/
+
 description: Python Python Kitaplığı kullanarak Excel'de Çubuk grafikler oluşturmak için örnek kod. Python tabanlı uygulama içinde MS Excel'e bir Çubuk grafik oluşturmak için bu kodu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

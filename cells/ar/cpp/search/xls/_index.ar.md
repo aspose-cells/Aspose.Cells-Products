@@ -1,7 +1,7 @@
-﻿---
+---
 title: البحث في مستند XLS بدون فتح عبر C++ 
 weight: 4560
-url: /ar/cpp/search/xls/ 
+
 description: C++ مثال على رمز للبحث عن الكلمات ذات النمط في ملف XLS في C++ Runtime Environment لأنظمة Windows 32 بت و Windows 64 بت و Linux 64 بت.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

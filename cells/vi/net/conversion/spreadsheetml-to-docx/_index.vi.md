@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi SPREADSHEETML sang DOCX qua C#
-url: /vi/net/conversion/spreadsheetml-to-docx/
+
 description: Mã mẫu cho chuyển đổi từ bảng tínhml sang docx C#. Sử dụng API mã ví dụ cho hàng loạt tệpml bảng tính để chuyển đổi docx trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

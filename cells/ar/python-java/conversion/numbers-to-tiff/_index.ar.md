@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل الأرقام إلى TIFF عبر Python
-url: /ar/python-java/conversion/numbers-to-tiff/
+
 description: نموذج رمز للأرقام لمزج التحويل Python. استخدم API رمز المثال لملفات أرقام الدُفعات لإجراء تحويل في تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

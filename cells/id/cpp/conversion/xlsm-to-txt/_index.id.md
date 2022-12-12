@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi XLSM ke TXT melalui C++ aplikasi 
-url: /id/cpp/conversion/xlsm-to-txt/ 
+
 description: Contoh C++ kode konversi untuk dokumen XLSM ke format TXT. Pemrogram dapat menggunakan kode sumber ini untuk konversi batch XLSM ke TXT dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

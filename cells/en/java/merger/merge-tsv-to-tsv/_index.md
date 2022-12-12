@@ -1,6 +1,6 @@
 ---
 title: Merge TSV to TSV Files via Java 
-url: /java/merger/merge-tsv-to-tsv/ 
+
 description: Merge TSV to TSV file in Java code. Combine TSV to TSV file using Java based desktop or web application.
 ---
 

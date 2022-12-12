@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to PNG via Python
-url: /python-java/conversion/excel-to-png/
+
 description: Convert EXCEL to PNG format in Python code. Save EXCEL as PNG using Python.
 ---
 

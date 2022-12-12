@@ -1,7 +1,7 @@
-﻿---
+---
 title:  通過 .NET 將 XLS 文檔圖表轉換為圖像 
 weight: 3210
-url: /zh-hant/net/chart/xls/ 
+
 description: C# 用於在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上繪製和轉換 XLS 文件中的圖表或圖表的源代碼。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

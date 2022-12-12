@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLT naar XLSM via Python
-url: /nl/python-java/conversion/xlt-to-xlsm/
+
 description: Voorbeeldcode voor xlt naar xlsm Python conversie. Gebruik API voorbeeldcode voor batch-xlt-bestanden naar xlsm-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

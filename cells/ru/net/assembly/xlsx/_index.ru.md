@@ -1,7 +1,7 @@
-﻿---
+---
 title: Создание отчетов в файлах XLSX с помощью .NET 
 weight: 6740
-url: /ru/net/assembly/xlsx/ 
+
 description: Исходный код C# для создания отчетов в формате XLSX на платформах .NET Framework, .NET Core, Mono или Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

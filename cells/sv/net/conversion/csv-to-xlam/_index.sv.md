@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera CSV till XLAM via C#
-url: /sv/net/conversion/csv-to-xlam/
+
 description: Exempelkod för konvertering av csv till xlam C#. Använd API exempelkod för batch-csv-filer till xlam-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

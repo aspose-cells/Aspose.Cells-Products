@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET के माध्यम से खोले बिना XLSB दस्तावेज़ खोजें 
 weight: 8880
-url: /hi/net/search/xlsb/ 
+
 description: .NET Framework, .NET Core, Mono या Xamarin Platforms पर XLSB फ़ाइल में पैटर्न वाले शब्दों को खोजने के लिए C# स्रोत कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLS إلى DOCX عبر C#
-url: /ar/net/conversion/xls-to-docx/
+
 description: نموذج كود لتحويل xls إلى docx C#. استخدم API مثال الكود لملفات xls الدفعية لتحويل docx داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

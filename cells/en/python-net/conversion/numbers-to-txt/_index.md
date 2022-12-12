@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to TXT via Python
-url: /python-net/conversion/numbers-to-txt/
+
 description: Sample code for numbers to txt Python conversion. Use API example code for batch numbers files to txt conversion within Python application.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla MHTML'yi MD'ye dönüştürün
-url: /tr/python-java/conversion/mhtml-to-md/
+
 description: mhtml'den md'ye Python dönüştürme için örnek kod. Python uygulamasında toplu mhtml dosyalarından md'ye dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

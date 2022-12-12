@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل FODS إلى XPS عبر C#
-url: /ar/net/conversion/fods-to-xps/
+
 description: نموذج كود لتحويل fods إلى xps C#. استخدم API رمز المثال لملفات fods الدفعية لتحويل xps داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierte NÚMEROS a PNG a través de C#
-url: /es/net/conversion/numbers-to-png/
+
 description: Ejemplo de código para conversión de números a png C#. Utilice el código de ejemplo API para convertir archivos de números de lote a png dentro de VB.NET, Asp.NET o cualquier aplicación basada en .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

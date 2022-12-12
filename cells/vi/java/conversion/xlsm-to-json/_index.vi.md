@@ -1,7 +1,7 @@
-﻿---
+---
 title: Chuyển đổi XLSM sang JSON qua Java 
 weight: 1640
-url: /vi/java/conversion/xlsm-to-json/ 
+
 description: Mã chuyển đổi Java mẫu cho định dạng XLSM thành tệp JSON. Lập trình viên có thể sử dụng mã ví dụ này để xuất bảng tính Excel & OpenOffice sang JSON trong bất kỳ Ứng dụng dựa trên Web hoặc Máy tính để bàn Java nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

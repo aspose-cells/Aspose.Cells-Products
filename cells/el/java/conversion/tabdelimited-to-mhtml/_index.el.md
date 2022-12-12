@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή TABDELIMITED σε MHTML μέσω Java 
-url: /el/java/conversion/tabdelimited-to-mhtml/ 
+
 description: Δείγμα κώδικα μετατροπής Java για μορφή TABDELIMITED σε αρχείο MHTML. Οι προγραμματιστές μπορούν να χρησιμοποιήσουν αυτό το παράδειγμα κώδικα για να εξάγουν υπολογιστικά φύλλα Excel και OpenOffice σε MHTML σε οποιαδήποτε εφαρμογή που βασίζεται στον Ιστό ή στην επιφάνεια εργασίας Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

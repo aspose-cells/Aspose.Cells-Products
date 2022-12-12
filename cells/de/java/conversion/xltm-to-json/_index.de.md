@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertieren Sie XLTM in JSON über Java 
 weight: 1030
-url: /de/java/conversion/xltm-to-json/ 
+
 description: Beispiel-Umwandlungscode Java für das XLTM-Format in eine JSON-Datei. Programmierer können diesen Beispielcode verwenden, um Excel- und OpenOffice-Tabellen in JSON in jeder Web- oder Desktop-Java-basierten Anwendung zu exportieren.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

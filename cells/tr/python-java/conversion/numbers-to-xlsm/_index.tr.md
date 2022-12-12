@@ -1,6 +1,6 @@
-﻿---
+---
 title: NUMBERS'ı Python aracılığıyla XLSM'ye dönüştürün
-url: /tr/python-java/conversion/numbers-to-xlsm/
+
 description: Sayıları xlsm'ye Python dönüştürme için örnek kod. Python uygulamasında toplu iş numarası dosyalarını xlsm'ye dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

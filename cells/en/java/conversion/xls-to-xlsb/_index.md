@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to XLSB via Java 
-url: /java/conversion/xls-to-xlsb/
+
 description: Convert XLS to XLSB format in Java code. Save XLS as XLSB using Java.
 ---
 

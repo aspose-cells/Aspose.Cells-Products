@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera NUMBERS till HTML via C#
-url: /sv/net/conversion/numbers-to-html/
+
 description: Exempelkod för siffror till html C#-konvertering. Använd API exempelkod för batchnummerfiler till html-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

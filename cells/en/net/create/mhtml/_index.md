@@ -1,6 +1,6 @@
 ---
 title: Create MHTML Files via C# 
-url: /net/create-mhtml/ 
+
 description: Create MHTML files in C# code. Generate MHTML files using VB.NET, Asp.NET or any .NET based application.
 ---
 

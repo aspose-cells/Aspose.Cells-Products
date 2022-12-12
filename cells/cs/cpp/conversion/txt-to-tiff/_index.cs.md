@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte TXT na TIFF pomocí aplikace C++ 
-url: /cs/cpp/conversion/txt-to-tiff/ 
+
 description: Ukázka převodního kódu C++ pro dokument TXT na formát TIFF. Programátoři mohou použít tento zdrojový kód pro dávkový převod TXT na TIFF v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

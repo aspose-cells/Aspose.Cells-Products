@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to PNG via Python
-url: /python-net/conversion/xls-to-png/
+
 description: Sample code for xls to png Python conversion. Use API example code for batch xls files to png conversion within Python application.
 ---
 

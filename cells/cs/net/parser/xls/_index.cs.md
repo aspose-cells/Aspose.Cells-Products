@@ -1,7 +1,7 @@
-﻿---
+---
 title: Extrahujte text a obrázky z dokumentu XLS prostřednictvím .NET 
 weight: 5600
-url: /cs/net/parser/xls/ 
+
 description: Zdrojový kód C# pro extrahování textu a obrázků ze souboru XLS na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

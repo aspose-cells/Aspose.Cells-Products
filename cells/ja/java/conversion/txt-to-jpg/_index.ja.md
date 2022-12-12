@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してTXTをJPGに変換します 
-url: /ja/java/conversion/txt-to-jpg/ 
+
 description: TXT形式からJPGファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、WebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをJPGにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

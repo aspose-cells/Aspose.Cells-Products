@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertálja az XLSB-t JPEG-be a(z) C++ alkalmazással 
 weight: 6990
-url: /hu/cpp/conversion/xlsb-to-jpeg/ 
+
 description: Minta C++ konverziós kód XLSB dokumentumhoz JPEG formátumba. A programozók ezt a forráskódot használhatják XLSB-ből JPEG-be kötegelt konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla SXC'yi GIF'e dönüştürün
-url: /tr/python-java/conversion/sxc-to-gif/
+
 description: sxc'den gif'e Python dönüştürme için örnek kod. Python uygulamasında toplu sxc dosyaları gif dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

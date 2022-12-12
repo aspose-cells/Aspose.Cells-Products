@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TSV na TABDELIMITED přes C#
-url: /cs/net/conversion/tsv-to-tabdelimited/
+
 description: Ukázkový kód pro převod tsv na C# oddělený tabulátory. Použijte API ukázkový kód pro dávkové soubory tsv na převod oddělený tabulátory v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

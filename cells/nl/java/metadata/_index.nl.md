@@ -1,6 +1,6 @@
-﻿---
+---
 title: Beheer Excel-bestandsmetagegevens via Java
-url: /nl/java/metadata/
+
 description: Metadata van Excel-bestanden bekijken, toevoegen, bewerken, verwijderen of extraheren met slechts enkele regels Java-code
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

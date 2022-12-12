@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLS konvertálása DIF-re a következőn keresztül: Java "
 weight: 7820
-url: /hu/java/conversion/xls-to-dif/ 
+
 description: Minta Java konverziós kód XLS-formátumhoz DIF-fájllá. A programozók ezt a példakódot használhatják Excel- és OpenOffice-táblázatok exportálására DIF-be bármely web- vagy asztali Java-alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

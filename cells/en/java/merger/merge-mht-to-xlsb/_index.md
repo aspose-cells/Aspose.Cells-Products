@@ -1,6 +1,6 @@
 ---
 title: Merge MHT to XLSB Files via Java 
-url: /java/merger/merge-mht-to-xlsb/ 
+
 description: Merge MHT to XLSB file in Java code. Combine MHT to XLSB file using Java based desktop or web application.
 ---
 

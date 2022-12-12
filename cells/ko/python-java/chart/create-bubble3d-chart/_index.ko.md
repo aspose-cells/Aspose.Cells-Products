@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python를 통해 Bubble3D 차트 만들기
-url: /ko/python-java/create-bubble3d-chart/
+
 description: Python Python 라이브러리를 사용하여 Excel에 Bubble3D 차트를 만들기 위한 샘플 코드. 이 코드를 사용하여 Python 기반 애플리케이션 내에서 MS Excel로 Bubble3D 차트를 생성합니다.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

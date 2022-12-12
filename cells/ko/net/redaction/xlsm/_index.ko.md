@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET을(를) 통해 XLSM 문서에서 텍스트 검색 및 바꾸기 
 weight: 2370
-url: /ko/net/redaction/xlsm/ 
+
 description: C# 소스 코드는 .NET Framework, .NET Core, Mono 또는 Xamarin Platforms에서 XLSM 파일의 민감한 정보를 수정합니다.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

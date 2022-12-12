@@ -1,7 +1,7 @@
-﻿---
+---
 title: Преобразование XLSM в CSV через Java 
 weight: 9910
-url: /ru/java/conversion/xlsm-to-csv/ 
+
 description: Пример кода преобразования Java для формата XLSM в файл CSV. Программисты могут использовать этот пример кода для экспорта электронных таблиц Excel и OpenOffice в CSV в любом веб-или настольном Java приложении.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

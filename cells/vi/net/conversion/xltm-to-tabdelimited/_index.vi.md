@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi XLTM thành TABDELIMITED qua C#
-url: /vi/net/conversion/xltm-to-tabdelimited/
+
 description: Mã mẫu cho chuyển đổi xltm thành tabdelimited C#. Sử dụng API mã ví dụ cho hàng loạt tệp xltm để chuyển đổi theo tab trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

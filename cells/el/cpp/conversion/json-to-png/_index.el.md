@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή JSON σε PNG μέσω της εφαρμογής C++ 
-url: /el/cpp/conversion/json-to-png/ 
+
 description: Δείγμα κώδικα μετατροπής C++ για έγγραφο JSON σε μορφή PNG. Οι προγραμματιστές μπορούν να χρησιμοποιήσουν αυτόν τον πηγαίο κώδικα για μαζική μετατροπή JSON σε PNG σε οποιαδήποτε εφαρμογή C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

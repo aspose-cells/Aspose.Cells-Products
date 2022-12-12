@@ -1,6 +1,6 @@
-﻿---
+---
 title: Объединение файлов Excel API .NET C#
-url: /ru/net/merger/
+
 description: Объединяйте файлы электронных таблиц Excel и OpenOffice всего несколькими строками кода C#.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

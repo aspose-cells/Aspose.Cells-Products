@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to XLT via C#
-url: /net/conversion/ods-to-xlt/
+
 description: Convert ODS to XLT format in C# code. Save ODS as XLT using VB.NET, Asp.NET or any .NET based application.
 ---
 

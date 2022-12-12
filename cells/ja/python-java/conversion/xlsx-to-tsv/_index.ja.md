@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してXLSXをTSVに変換します
-url: /ja/python-java/conversion/xlsx-to-tsv/
+
 description: xlsxからtsvPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチxlsxファイルからtsvへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

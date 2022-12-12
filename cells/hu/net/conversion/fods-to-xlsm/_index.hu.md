@@ -1,6 +1,6 @@
-﻿---
+---
 title: "FODS konvertálása XLSM-re a következőn keresztül: C#"
-url: /hu/net/conversion/fods-to-xlsm/
+
 description: Mintakód a fod-ból xlsm-be C# konverzióhoz. Használjon API példakódot a kötegelt fods fájlok xlsm konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Поиск документа CSV без открытия через .NET 
 weight: 7510
-url: /ru/net/search/csv/ 
+
 description: Исходный код C# для поиска слов с шаблоном в файле CSV на платформах .NET Framework, .NET Core, Mono или Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

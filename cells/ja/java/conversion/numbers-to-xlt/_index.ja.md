@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してNUMBERSをXLTに変換します 
-url: /ja/java/conversion/numbers-to-xlt/ 
+
 description: NUMBERS形式のXLTファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のXLTにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

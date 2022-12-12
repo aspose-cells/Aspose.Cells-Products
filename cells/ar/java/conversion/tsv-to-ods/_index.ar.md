@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل TSV إلى ODS عبر Java 
 weight: 9340
-url: /ar/java/conversion/tsv-to-ods/ 
+
 description: نموذج Java رمز تحويل لتنسيق TSV إلى ملف ODS. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى ODS من خلال أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

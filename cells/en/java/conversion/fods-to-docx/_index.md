@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to DOCX via Java 
-url: /java/conversion/fods-to-docx/
+
 description: Convert FODS to DOCX format in Java code. Save FODS as DOCX using Java.
 ---
 

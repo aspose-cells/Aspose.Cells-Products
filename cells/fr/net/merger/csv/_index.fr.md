@@ -1,7 +1,7 @@
-﻿---
+---
 title: Fusionner les fichiers CSV via .NET 
 weight: 6450
-url: /fr/net/merger/csv/ 
+
 description: Code source C# pour combiner des documents CSV sur .NET Framework, .NET Core, Mono ou Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

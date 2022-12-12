@@ -1,7 +1,7 @@
-﻿---
+---
 title: Ver o editar metadatos de archivos XLSM a través de .NET 
 weight: 5590
-url: /es/net/metadata/xlsm/ 
+
 description: C# código fuente para editar o ver metadatos en formato XLSM en .NET Framework, .NET Core, Mono o Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

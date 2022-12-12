@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to JPG via Java 
-url: /java/conversion/excel-to-jpg/
+
 description: Convert EXCEL to JPG format in Java code. Save EXCEL as JPG using Java.
 ---
 

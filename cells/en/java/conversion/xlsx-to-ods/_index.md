@@ -1,6 +1,6 @@
 ---
 title: Convert XLSX to ODS via Java 
-url: /java/conversion/xlsx-to-ods/
+
 description: Convert XLSX to ODS format in Java code. Save XLSX as ODS using Java.
 ---
 

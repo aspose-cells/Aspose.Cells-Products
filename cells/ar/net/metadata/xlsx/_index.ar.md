@@ -1,7 +1,7 @@
-﻿---
+---
 title: عرض أو تحرير البيانات الوصفية لملفات XLSX عبر .NET 
 weight: 3430
-url: /ar/net/metadata/xlsx/ 
+
 description: C# شفرة المصدر لتحرير أو عرض البيانات الوصفية بتنسيق XLSX على الأنظمة الأساسية .NET Framework أو .NET Core أو Mono أو Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

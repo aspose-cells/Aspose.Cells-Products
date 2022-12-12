@@ -1,7 +1,7 @@
-﻿---
+---
 title: إنشاء التقارير في ملفات ODS عبر .NET 
 weight: 520
-url: /ar/net/assembly/ods/ 
+
 description: C# شفرة المصدر لإنشاء تقارير بتنسيق ODS حول .NET Framework أو .NET Core أو Mono أو أنظمة Xamarin الأساسية.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

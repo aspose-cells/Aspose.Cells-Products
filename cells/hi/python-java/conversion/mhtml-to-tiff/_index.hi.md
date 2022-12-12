@@ -1,6 +1,6 @@
-﻿---
+---
 title: MHTML को Python के माध्यम से TIFF में बदलें
-url: /hi/python-java/conversion/mhtml-to-tiff/
+
 description: mhtml से tiff Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर रूपांतरण को टफ करने के लिए बैच एमएचटीएमएल फाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

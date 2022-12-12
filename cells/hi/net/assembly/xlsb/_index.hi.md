@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET के माध्यम से XLSB फ़ाइलों में रिपोर्ट जेनरेट करें 
 weight: 1690
-url: /hi/net/assembly/xlsb/ 
+
 description: .NET Framework, .NET Core, Mono या Xamarin प्लेटफॉर्म पर XLSB प्रारूप रिपोर्ट जेनरेट करने के लिए C# स्रोत कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLTM-et SVG-vé a(z) C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/xltm-to-svg/ 
+
 description: Minta C++ konverziós kód XLTM dokumentumhoz SVG formátumba. A programozók ezt a forráskódot használhatják kötegelt XLTM-ből SVG-vé konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

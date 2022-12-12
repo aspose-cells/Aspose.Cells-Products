@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie XLSM in HTML über C#
-url: /de/net/conversion/xlsm-to-html/
+
 description: Beispielcode für die Umwandlung von xlsm in html C#. Verwenden Sie API Beispielcode für die Batch-Konvertierung von xlsm-Dateien in HTML in VB.NET, Asp.NET oder einer beliebigen .NET-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

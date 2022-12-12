@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést FODS na HTML pomocí Python
-url: /cs/python-java/conversion/fods-to-html/
+
 description: Ukázkový kód pro konverzi fod na html Python. Použijte API ukázkový kód pro dávkový převod souborů fods na html v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

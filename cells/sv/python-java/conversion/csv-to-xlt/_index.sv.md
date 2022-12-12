@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera CSV till XLT via Python
-url: /sv/python-java/conversion/csv-to-xlt/
+
 description: Exempelkod för konvertering av csv till xlt Python. Använd API exempelkod för batch-csv-filer till xlt-konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

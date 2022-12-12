@@ -1,7 +1,7 @@
-﻿---
+---
 title: مخطط مستند XLSB عبر C++ 
 weight: 5200
-url: /ar/cpp/chart/xlsb/ 
+
 description: C++ مثال على رمز لرسم وتحويل مخطط أو رسم تخطيطي في ملف XLSB على C++ Runtime Environment لأنظمة Windows 32 بت و Windows 64 بت و Linux 64 بت.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

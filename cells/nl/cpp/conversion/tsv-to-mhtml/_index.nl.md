@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer TSV naar MHTML via C++ applicatie 
 weight: 9310
-url: /nl/cpp/conversion/tsv-to-mhtml/ 
+
 description: Voorbeeld C++ conversiecode voor TSV-document naar MHTML-indeling. Programmeurs kunnen deze broncode gebruiken voor batchconversie van TSV naar MHTML binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

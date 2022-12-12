@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi CSV sang MD qua Python
-url: /vi/python-java/conversion/csv-to-md/
+
 description: Mã mẫu cho chuyển đổi csv sang md Python. Sử dụng API mã mẫu cho hàng loạt tệp csv sang chuyển đổi md trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

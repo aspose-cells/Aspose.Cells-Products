@@ -1,7 +1,7 @@
-﻿---
+---
 title: مستند العلامة المائية XLS عبر .NET 
 weight: 3050
-url: /ar/net/watermark/xls/ 
+
 description: C# شفرة المصدر لإضافة أو إزالة العلامة المائية إلى ملف XLS على الأنظمة الأساسية .NET Framework أو .NET Core أو Mono أو Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

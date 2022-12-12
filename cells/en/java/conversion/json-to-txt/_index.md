@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to TXT via Java 
-url: /java/conversion/json-to-txt/
+
 description: Convert JSON to TXT format in Java code. Save JSON as TXT using Java.
 ---
 

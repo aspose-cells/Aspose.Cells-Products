@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte XLSM na ODS pomocí aplikace C++ 
-url: /cs/cpp/conversion/xlsm-to-ods/ 
+
 description: Ukázkový konverzní kód C++ pro dokument XLSM na formát ODS. Programátoři mohou použít tento zdrojový kód pro dávkovou konverzi XLSM na ODS v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

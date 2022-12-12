@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 C# 将 FODS 转换为 MD
-url: /zh/net/conversion/fods-to-md/
+
 description: fods 到 md C# 转换的示例代码。使用 API 示例代码在 VB.NET、Asp.NET 或任何基于 .NET 的应用程序中将 fods 文件批量转换为 md。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

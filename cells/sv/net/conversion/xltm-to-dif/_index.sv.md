@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera XLTM till DIF via C#
-url: /sv/net/conversion/xltm-to-dif/
+
 description: Exempelkod för xltm till dif C#-konvertering. Använd API exempelkod för batch-xltm-filer för att skilja konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

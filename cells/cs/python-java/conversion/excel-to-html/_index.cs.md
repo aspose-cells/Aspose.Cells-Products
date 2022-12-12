@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést EXCEL na HTML pomocí Python
-url: /cs/python-java/conversion/excel-to-html/
+
 description: Ukázkový kód pro převod Excel do HTML Python. Použijte API ukázkový kód pro dávkový převod souborů Excel na html v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

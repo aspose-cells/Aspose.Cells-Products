@@ -1,6 +1,6 @@
-﻿---
+---
 title: แก้ไขไฟล์ TSV ผ่าน .NET 
-url: /th/net/editor/tsv/ 
+
 description: C# ซอร์สโค้ดสำหรับแก้ไขเอกสาร TSV บน .NET Framework, .NET Core, Windows Azure, Mono หรือ Xamarin Platforms
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

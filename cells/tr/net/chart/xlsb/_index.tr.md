@@ -1,7 +1,7 @@
-﻿---
+---
 title:  .NET aracılığıyla görüntülere XLSB belge grafiği 
 weight: 8560
-url: /tr/net/chart/xlsb/ 
+
 description: .NET Framework, .NET Core, Mono veya Xamarin Platformlarında XLSB dosyasında grafik veya diyagram çizmek ve dönüştürmek için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

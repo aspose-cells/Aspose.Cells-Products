@@ -1,7 +1,7 @@
-﻿---
+---
 title: Chuyển đổi XLSX sang XPS qua Java 
 weight: 8260
-url: /vi/java/conversion/xlsx-to-xps/ 
+
 description: Mã chuyển đổi Java mẫu cho định dạng XLSX thành tệp XPS. Người lập trình có thể sử dụng mã ví dụ này để xuất bảng tính Excel & OpenOffice sang XPS trong bất kỳ Ứng dụng dựa trên Web hoặc Máy tính Java nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

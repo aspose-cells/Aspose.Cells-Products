@@ -1,7 +1,7 @@
-﻿---
+---
 title: Gabungkan File HTML melalui Java 
 weight: 8830
-url: /id/java/merger/html/ 
+
 description: Java contoh kode untuk menggabungkan dokumen HTML pada Java Runtime Environment untuk Aplikasi JSP/JSF dan Aplikasi Desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

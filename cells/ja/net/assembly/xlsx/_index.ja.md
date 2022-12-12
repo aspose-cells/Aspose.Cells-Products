@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NETを介してXLSXファイルでレポートを生成する 
 weight: 6740
-url: /ja/net/assembly/xlsx/ 
+
 description: .NETフレームワーク、.NETコア、Mono、またはXamarinプラットフォームでXLSX形式のレポートを生成するためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

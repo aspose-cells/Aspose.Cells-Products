@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLTM إلى CSV عبر تطبيق C++ 
-url: /ar/cpp/conversion/xltm-to-csv/ 
+
 description: نموذج C++ رمز تحويل لمستند XLTM إلى تنسيق CSV. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل دفعة XLTM إلى CSV داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

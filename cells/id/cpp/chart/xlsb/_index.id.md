@@ -1,7 +1,7 @@
-﻿---
+---
 title: Bagan dokumen XLSB melalui C++ 
 weight: 5200
-url: /id/cpp/chart/xlsb/ 
+
 description: C++ contoh kode untuk menggambar dan mengonversi bagan atau diagram dalam file XLSB di C++ Runtime Environment untuk Windows 32 bit, Windows 64 bit, dan Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

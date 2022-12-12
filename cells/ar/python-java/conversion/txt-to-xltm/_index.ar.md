@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TXT إلى XLTM عبر Python
-url: /ar/python-java/conversion/txt-to-xltm/
+
 description: نموذج رمز للتحويل من TXT إلى xltm Python. استخدم API رمز المثال لملفات txt الدفعية لتحويل xltm داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

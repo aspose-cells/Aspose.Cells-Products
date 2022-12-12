@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte XLSM na MHTML pomocí aplikace C++ 
-url: /cs/cpp/conversion/xlsm-to-mhtml/ 
+
 description: Ukázka převodního kódu C++ pro dokument XLSM na formát MHTML. Programátoři mohou použít tento zdrojový kód pro dávkovou konverzi XLSM na MHTML v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

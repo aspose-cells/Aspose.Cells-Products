@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversi CSV ke SVG melalui C++ aplikasi 
 weight: 1710
-url: /id/cpp/conversion/csv-to-svg/ 
+
 description: Contoh C++ kode konversi untuk dokumen CSV ke format SVG. Pemrogram dapat menggunakan kode sumber ini untuk konversi batch CSV ke SVG dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést NUMBERS na HTML prostřednictvím C#
-url: /cs/net/conversion/numbers-to-html/
+
 description: Ukázkový kód pro převod čísel na html C#. Použijte API ukázkový kód pro převod souborů s čísly dávek na html v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

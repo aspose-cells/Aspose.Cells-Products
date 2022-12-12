@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převeďte MHTML na XLS pomocí aplikace C++ 
 weight: 7320
-url: /cs/cpp/conversion/mhtml-to-xls/ 
+
 description: Ukázka převodního kódu C++ pro dokument MHTML na formát XLS. Programátoři mohou použít tento zdrojový kód pro dávkovou konverzi MHTML na XLS v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

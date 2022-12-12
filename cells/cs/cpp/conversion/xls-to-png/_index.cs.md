@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převeďte XLS na PNG pomocí aplikace C++ 
 weight: 80
-url: /cs/cpp/conversion/xls-to-png/ 
+
 description: Ukázka převodního kódu C++ pro dokument XLS na formát PNG. Programátoři mohou použít tento zdrojový kód pro dávkový převod XLS na PNG v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

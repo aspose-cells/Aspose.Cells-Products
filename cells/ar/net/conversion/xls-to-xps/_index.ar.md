@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLS إلى XPS عبر C#
-url: /ar/net/conversion/xls-to-xps/
+
 description: نموذج كود للتحويل من xls إلى xps C#. استخدم API رمز المثال لملفات xls الدفعية لتحويل xps داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

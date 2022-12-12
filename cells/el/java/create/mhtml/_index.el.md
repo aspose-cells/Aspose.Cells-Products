@@ -1,6 +1,6 @@
-﻿---
+---
 title: Δημιουργία αρχείων MHTML μέσω Java 
-url: /el/java/create-mhtml/ 
+
 description: Java Δείγμα κώδικα για τη δημιουργία εγγράφων MHTML. Χρησιμοποιήστε αυτόν τον κώδικα για τη δημιουργία αρχείων MHTML μέσα σε Java επιτραπέζιους υπολογιστές ή εφαρμογές ιστού.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

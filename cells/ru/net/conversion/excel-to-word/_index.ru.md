@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование EXCEL в WORD с помощью C#
-url: /ru/net/conversion/excel-to-word/
+
 description: Пример кода для преобразования Excel в слово C#. Используйте пример кода API для пакетного преобразования файлов Excel в слова в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

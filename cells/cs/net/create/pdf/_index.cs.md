@@ -1,6 +1,6 @@
-﻿---
+---
 title: Vytvářejte soubory PDF prostřednictvím C# 
-url: /cs/net/create-pdf/ 
+
 description: C# Ukázkový kód pro generování dokumentů PDF. Tento kód použijte k vytváření souborů PDF v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Chránit a uzamknout dokument XLSX prostřednictvím C++ 
 weight: 1140
-url: /cs/cpp/protect/xlsx/ 
+
 description: C++ ukázkový kód pro uzamčení souboru XLSX pomocí hesla v C++ Runtime Environment pro Windows 32 bit, Windows 64 bit a Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer MHTML naar HTML via Python
-url: /nl/python-java/conversion/mhtml-to-html/
+
 description: Voorbeeldcode voor conversie van mhtml naar html Python. Gebruik API voorbeeldcode voor batch-mhtml-bestanden naar html-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

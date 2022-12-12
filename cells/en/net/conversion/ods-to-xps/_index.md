@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to XPS via C#
-url: /net/conversion/ods-to-xps/
+
 description: Convert ODS to XPS format in C# code. Save ODS as XPS using VB.NET, Asp.NET or any .NET based application.
 ---
 

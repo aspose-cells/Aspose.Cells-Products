@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to GIF via Python
-url: /python-net/conversion/fods-to-gif/
+
 description: Sample code for fods to gif Python conversion. Use API example code for batch fods files to gif conversion within Python application.
 ---
 

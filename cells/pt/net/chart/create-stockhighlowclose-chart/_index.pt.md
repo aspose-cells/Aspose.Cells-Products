@@ -1,6 +1,6 @@
-﻿---
+---
 title: Crie gráficos de ações high-low-close via C#
-url: /pt/net/create-stockhighlowclose-chart/
+
 description: C# Código de exemplo para criar gráficos de estoque de alto-baixo-fechamento para Excel usando a biblioteca .NET. Use este código para criar um gráfico de ações High-Low-Close para MS Excel em VB.NET, Asp.NET ou qualquer aplicativo baseado em .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

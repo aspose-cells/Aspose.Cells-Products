@@ -1,7 +1,7 @@
-﻿---
+---
 title: Convertir CSV en XLSX via Java 
 weight: 5180
-url: /fr/java/conversion/csv-to-xlsx/ 
+
 description: Exemple de code de conversion Java pour le format CSV en fichier XLSX. Les programmeurs peuvent utiliser cet exemple de code pour exporter des feuilles de calcul Excel et OpenOffice vers XLSX dans n'importe quelle application Web ou de bureau Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

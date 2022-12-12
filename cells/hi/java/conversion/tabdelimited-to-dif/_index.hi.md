@@ -1,6 +1,6 @@
-﻿---
+---
 title: TABDELIMITED को Java के ज़रिए DIF में बदलें 
-url: /hi/java/conversion/tabdelimited-to-dif/ 
+
 description: DIF फ़ाइल में TABDELIMITED प्रारूप के लिए नमूना Java रूपांतरण कोड। प्रोग्रामर इस उदाहरण कोड का उपयोग किसी भी वेब या डेस्कटॉप Java आधारित एप्लिकेशन के भीतर एक्सेल और ओपनऑफिस स्प्रेडशीट को डीआईएफ में निर्यात करने के लिए कर सकते हैं।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

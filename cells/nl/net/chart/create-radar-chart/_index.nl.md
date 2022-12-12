@@ -1,6 +1,6 @@
-﻿---
+---
 title: Maak radardiagrammen via C#
-url: /nl/net/create-radar-chart/
+
 description: C# Voorbeeldcode voor het maken van radardiagrammen naar Excel met .NET Bibliotheek. Gebruik deze code voor het maken van een radardiagram naar MS Excel binnen VB.NET, Asp.NET of een op .NET gebaseerde toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

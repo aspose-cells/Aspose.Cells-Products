@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to DIF via Python
-url: /python-net/conversion/txt-to-dif/
+
 description: Sample code for txt to dif Python conversion. Use API example code for batch txt files to dif conversion within Python application.
 ---
 

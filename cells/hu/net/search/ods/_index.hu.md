@@ -1,7 +1,7 @@
-﻿---
+---
 title: "ODS-dokumentum keresése megnyitás nélkül a következőn keresztül: .NET "
 weight: 160
-url: /hu/net/search/ods/ 
+
 description: C# forráskóddal kereshet szavakat mintával az ODS-fájlban .NET Framework, .NET Core, Mono vagy Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

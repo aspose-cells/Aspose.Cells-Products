@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java을(를) 통해 XLSM 파일 메타데이터 편집 또는 보기 
 weight: 9030
-url: /ko/java/metadata/xlsm/ 
+
 description: Java JSP/JSF 애플리케이션 및 데스크톱 애플리케이션용 런타임 환경에서 XLSM 형식 메타데이터를 편집하거나 보기 위한 Java 샘플 코드.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

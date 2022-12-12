@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通过 Java 搜索和替换 ODS 文档中的文本 
 weight: 9210
-url: /zh/java/redaction/ods/ 
+
 description: Java 示例代码，用于在 Java JSP/JSF 应用程序和桌面应用程序的运行时环境上的 ODS 文件中编辑敏感信息。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

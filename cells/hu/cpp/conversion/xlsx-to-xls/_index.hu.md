@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertálja az XLSX-et XLS-re a(z) C++ alkalmazással 
 weight: 2660
-url: /hu/cpp/conversion/xlsx-to-xls/ 
+
 description: Minta C++ konverziós kód XLSX dokumentumhoz XLS formátumba. A programozók ezt a forráskódot használhatják az XLSX-ből XLS-be kötegelt konvertáláshoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

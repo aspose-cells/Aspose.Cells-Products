@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET के माध्यम से ODS फ़ाइलें मेटाडेटा देखें या संपादित करें 
 weight: 320
-url: /hi/net/metadata/ods/ 
+
 description: .NET Framework, .NET Core, Mono या Xamarin प्लेटफॉर्म पर ODS प्रारूप मेटाडेटा को संपादित करने या देखने के लिए C# स्रोत कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

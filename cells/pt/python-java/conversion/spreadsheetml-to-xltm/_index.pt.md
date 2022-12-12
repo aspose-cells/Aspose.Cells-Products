@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter SPREADSHEETML para XLTM via Python
-url: /pt/python-java/conversion/spreadsheetml-to-xltm/
+
 description: Código de exemplo para conversão de planilhaml para xltm Python. Use API código de exemplo para arquivos de planilhaml em lote para conversão xltm no aplicativo Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

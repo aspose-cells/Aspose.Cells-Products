@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 C# 将 TABDELIMITED 转换为 SVG
-url: /zh/net/conversion/tabdelimited-to-svg/
+
 description: tabdelimited 到 svg C# 转换的示例代码。在 VB.NET、Asp.NET 或任何基于 .NET 的应用程序中，将 API 示例代码用于批处理制表符分隔文件到 svg 转换。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to XLTM via Java 
-url: /java/conversion/txt-to-xltm/
+
 description: Convert TXT to XLTM format in Java code. Save TXT as XLTM using Java.
 ---
 

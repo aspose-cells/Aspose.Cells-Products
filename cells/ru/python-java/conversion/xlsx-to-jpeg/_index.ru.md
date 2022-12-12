@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLSX в JPEG через Python
-url: /ru/python-java/conversion/xlsx-to-jpeg/
+
 description: Пример кода для преобразования xlsx в jpeg Python. Используйте пример кода API для пакетного преобразования файлов xlsx в jpeg в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

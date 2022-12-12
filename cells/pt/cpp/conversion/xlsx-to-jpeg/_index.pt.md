@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converta XLSX para JPEG por meio do aplicativo C++ 
 weight: 6820
-url: /pt/cpp/conversion/xlsx-to-jpeg/ 
+
 description: Exemplo de código de conversão C++ de documento XLSX para formato JPEG. Os programadores podem usar esse código-fonte para conversão em lote de XLSX para JPEG em qualquer aplicativo C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

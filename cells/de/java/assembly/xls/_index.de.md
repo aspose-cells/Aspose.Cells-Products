@@ -1,7 +1,7 @@
-﻿---
+---
 title: Generieren Sie Berichte in XLS-Dateien über Java 
 weight: 1090
-url: /de/java/assembly/xls/ 
+
 description: Java Beispielcode zum Erstellen von Berichten im XLS-Format in Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

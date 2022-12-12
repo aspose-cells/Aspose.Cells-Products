@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to ODS via Java 
-url: /java/conversion/xltx-to-ods/
+
 description: Convert XLTX to ODS format in Java code. Save XLTX as ODS using Java.
 ---
 

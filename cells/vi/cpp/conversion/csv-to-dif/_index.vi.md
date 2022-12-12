@@ -1,7 +1,7 @@
-﻿---
+---
 title: Chuyển đổi CSV sang DIF qua ứng dụng C++ 
 weight: 460
-url: /vi/cpp/conversion/csv-to-dif/ 
+
 description: Mã chuyển đổi C++ mẫu cho tài liệu CSV sang định dạng DIF. Lập trình viên có thể sử dụng mã nguồn này để chuyển đổi hàng loạt CSV sang DIF trong bất kỳ Ứng dụng C++ nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

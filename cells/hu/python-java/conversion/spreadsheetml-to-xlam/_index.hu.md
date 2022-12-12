@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SPREADSHEETML konvertálása XLAM-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/spreadsheetml-to-xlam/
+
 description: Mintakód a táblázatkezelőből xlam Python konvertáláshoz. Használjon API példakódot a kötegelt táblázatkezelő fájlok xlam konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

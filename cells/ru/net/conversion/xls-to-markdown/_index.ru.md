@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLS в MARKDOWN через C#
-url: /ru/net/conversion/xls-to-markdown/
+
 description: Пример кода для преобразования xls в уценку C#. Используйте пример кода API для пакетных файлов xls для преобразования уценки в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: FODS को Python के माध्यम से GIF में बदलें
-url: /hi/python-java/conversion/fods-to-gif/
+
 description: खाद्य पदार्थों के लिए gif Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर बैच फोड फ़ाइलों को जीआईएफ रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

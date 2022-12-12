@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie XLTX in JPG über die Anwendung C++ 
-url: /de/cpp/conversion/xltx-to-jpg/ 
+
 description: Beispiel-Umwandlungscode C++ für das XLTX-Dokument in das JPG-Format. Programmierer können diesen Quellcode für die Batch-Konvertierung von XLTX in JPG in jeder C++-Anwendung verwenden.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してFODSをXLTに変換します 
-url: /ja/java/conversion/fods-to-xlt/ 
+
 description: FODS形式からXLTファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のXLTにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование TXT в PNG с помощью приложения C++ 
-url: /ru/cpp/conversion/txt-to-png/ 
+
 description: Пример C++ кода преобразования документа TXT в формат PNG. Программисты могут использовать этот исходный код для пакетного преобразования TXT в PNG в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

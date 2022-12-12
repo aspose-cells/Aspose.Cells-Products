@@ -1,6 +1,6 @@
-﻿---
+---
 title: .NET를 통해 MHT 파일 형식 보기 
-url: /ko/net/viewer/mht/ 
+
 description: C# 소스 코드는 .NET Framework, .NET Core, Windows Azure, Mono 또는 Xamarin Platforms에서 MHT 문서를 로드, 렌더링 및 표시합니다.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

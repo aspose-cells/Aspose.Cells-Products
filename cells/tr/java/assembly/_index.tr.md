@@ -1,6 +1,6 @@
-﻿---
+---
 title: Java ile Excel Dosyaları Oluşturun
-url: /tr/java/assembly/
+
 description: Java elektronik tablo kitaplığını kullanarak bir şablon sayfasından Microsoft Excel elektronik tabloları oluşturun
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

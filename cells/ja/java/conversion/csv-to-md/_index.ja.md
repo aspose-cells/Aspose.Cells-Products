@@ -1,6 +1,6 @@
-﻿---
+---
 title: Java経由でCSVをMDに変換 
-url: /ja/java/conversion/csv-to-md/ 
+
 description: CSV形式のサンプルJava変換コードをMDファイルに変換します。プログラマーは、このサンプルコードを使用して、WebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをMDにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

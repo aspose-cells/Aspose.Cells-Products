@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง SPREADSHEETML เป็น TIFF ผ่าน Python
-url: /th/python-java/conversion/spreadsheetml-to-tiff/
+
 description: โค้ดตัวอย่างสำหรับการแปลงสเปรดชีตml เป็น tiff Python ใช้โค้ดตัวอย่าง API สำหรับไฟล์แบทช์สเปรดชีตml เพื่อแปลง tiff ภายในแอปพลิเคชัน Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

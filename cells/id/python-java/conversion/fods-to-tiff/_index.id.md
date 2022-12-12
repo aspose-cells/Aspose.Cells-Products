@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan FODS ke TIFF melalui Python
-url: /id/python-java/conversion/fods-to-tiff/
+
 description: Contoh kode untuk konversi fods ke tiff Python. Gunakan API kode contoh untuk file batch fods ke konversi tiff dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

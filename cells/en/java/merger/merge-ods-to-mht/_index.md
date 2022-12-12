@@ -1,6 +1,6 @@
 ---
 title: Merge ODS to MHT Files via Java 
-url: /java/merger/merge-ods-to-mht/ 
+
 description: Merge ODS to MHT file in Java code. Combine ODS to MHT file using Java based desktop or web application.
 ---
 

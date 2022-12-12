@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++アプリケーションを介してODSをEMFに変換する 
 weight: 8180
-url: /ja/cpp/conversion/ods-to-emf/ 
+
 description: ODSドキュメントからEMF形式へのサンプルC++変換コード。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でODSからEMFへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

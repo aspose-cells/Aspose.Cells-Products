@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python를 통해 HTML을 PNG로 변환
-url: /ko/python-java/conversion/html-to-png/
+
 description: html에서 png로의 Python 변환을 위한 샘플 코드입니다. Python 애플리케이션 내에서 배치 html 파일을 png로 변환하는 API 예제 코드를 사용하십시오.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

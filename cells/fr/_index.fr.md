@@ -1,7 +1,7 @@
-﻿---
+---
 title: Solution de format de fichier Excel
 weight: 7730
-url: /fr/
+
 description: Créez des applications de manipulation de fichiers Excel à l'aide d'API High Code ou Low Code ou d'applications No Code pour afficher, comparer, inspecter ou convertir des fichiers Excel.
 ---
 {{< blocks/products/pf/main-wrap-class >}}

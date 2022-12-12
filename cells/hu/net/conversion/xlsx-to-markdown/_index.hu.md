@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Az XLSX konvertálása MARKDOWN-re a következőn keresztül: C#"
-url: /hu/net/conversion/xlsx-to-markdown/
+
 description: Mintakód az xlsx-hez a C# konverzióhoz. Használjon API példakódot kötegelt xlsx fájlokhoz a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazás konverziójának leértékeléséhez.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

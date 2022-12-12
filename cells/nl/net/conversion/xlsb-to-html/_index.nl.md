@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLSB naar HTML via C#
-url: /nl/net/conversion/xlsb-to-html/
+
 description: Voorbeeldcode voor xlsb naar html C# conversie. Gebruik API voorbeeldcode voor batch xlsb-bestanden naar html-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 C# 将 NUMBERS 转换为 TIFF
-url: /zh/net/conversion/numbers-to-tiff/
+
 description: 用于 tiff C# 转换的数字示例代码。使用批号文件的 API 示例代码在 VB.NET、Asp.NET 或任何基于 .NET 的应用程序中进行 tiff 转换。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

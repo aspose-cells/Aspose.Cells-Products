@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla XLSX'i FODS'ye dönüştürün
-url: /tr/net/conversion/xlsx-to-fods/
+
 description: xlsx'ten fos'a C# dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu xlsx dosyalarından fods'a dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

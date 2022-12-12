@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to EMF via Python
-url: /python-java/conversion/excel-to-emf/
+
 description: Convert EXCEL to EMF format in Python code. Save EXCEL as EMF using Python.
 ---
 

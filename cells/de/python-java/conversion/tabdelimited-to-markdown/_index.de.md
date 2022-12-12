@@ -1,6 +1,6 @@
-﻿---
+---
 title: Wandeln Sie TABDELIMITED über Python in MARKDOWN um
-url: /de/python-java/conversion/tabdelimited-to-markdown/
+
 description: Beispielcode für die Konvertierung von tabulatorgetrennt zu Markdown Python. Verwenden Sie API Beispielcode für tabulatorgetrennte Stapeldateien für die Markdown-Konvertierung in der Anwendung Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

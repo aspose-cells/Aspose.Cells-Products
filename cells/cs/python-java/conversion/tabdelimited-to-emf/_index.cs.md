@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TABDELIMITED na EMF přes Python
-url: /cs/python-java/conversion/tabdelimited-to-emf/
+
 description: Ukázkový kód pro převod oddělený tabulátory na emf Python. Použijte API ukázkový kód pro dávkový převod souborů oddělených tabulátory na EMF v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

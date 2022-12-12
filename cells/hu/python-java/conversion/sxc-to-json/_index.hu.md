@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SXC konvertálása JSON-ra a következőn keresztül: Python"
-url: /hu/python-java/conversion/sxc-to-json/
+
 description: Mintakód az sxc–json Python konverzióhoz. Használjon API példakódot a kötegelt sxc-fájlok JSON-konverziójához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

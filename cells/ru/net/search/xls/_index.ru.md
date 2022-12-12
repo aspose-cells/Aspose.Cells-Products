@@ -1,7 +1,7 @@
-﻿---
+---
 title: Поиск документа XLS без открытия через .NET 
 weight: 1490
-url: /ru/net/search/xls/ 
+
 description: Исходный код C# для поиска слов с шаблоном в файле XLS на платформах .NET Framework, .NET Core, Mono или Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

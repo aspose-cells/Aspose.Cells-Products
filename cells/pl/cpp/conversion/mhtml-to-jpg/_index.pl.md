@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj MHTML na JPG za pomocą aplikacji C++ 
-url: /pl/cpp/conversion/mhtml-to-jpg/ 
+
 description: Przykładowy kod konwersji C++ dla dokumentu MHTML do formatu JPG. Programiści mogą używać tego kodu źródłowego do wsadowej konwersji MHTML na JPG w dowolnej aplikacji C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

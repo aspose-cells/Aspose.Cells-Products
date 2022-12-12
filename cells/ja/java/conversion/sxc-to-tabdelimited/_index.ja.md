@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してSXCをTABDELIMITEDに変換します 
-url: /ja/java/conversion/sxc-to-tabdelimited/ 
+
 description: SXC形式からTABDELIMITEDファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートをWebまたはデスクトップJavaベースのアプリケーション内のTABDELIMITEDにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

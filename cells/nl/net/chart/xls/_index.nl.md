@@ -1,7 +1,7 @@
-﻿---
+---
 title:  XLS-documentdiagram naar afbeeldingen via .NET 
 weight: 3210
-url: /nl/net/chart/xls/ 
+
 description: C# broncode om een diagram of diagram te tekenen en om te zetten in XLS-bestand op .NET Framework, .NET Core, Mono of Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

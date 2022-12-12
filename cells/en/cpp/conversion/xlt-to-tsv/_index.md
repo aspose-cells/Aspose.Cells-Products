@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to TSV via C++
-url: /cpp/conversion/xlt-to-tsv/
+
 description: Convert XLT to TSV format in C++ code. Save XLT as TSV using C++.
 ---
 

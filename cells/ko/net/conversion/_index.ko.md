@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#을 통한 Microsoft Excel 파일 변환 
-url: /ko/net/conversion/
+
 description: 몇 줄의 C# 코드로 Excel XLS, XLSX, ODS, CSV를 PDF, XPS, HTML, JPEG, HTML 및 기타 널리 사용되는 형식으로 변환합니다.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

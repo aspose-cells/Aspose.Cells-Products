@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converter TSV para DIF via Java 
 weight: 9110
-url: /pt/java/conversion/tsv-to-dif/ 
+
 description: Exemplo de código de conversão Java para formato TSV em arquivo DIF. Os programadores podem usar este código de exemplo para exportar planilhas do Excel e OpenOffice para DIF em qualquer aplicativo baseado na Web ou Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

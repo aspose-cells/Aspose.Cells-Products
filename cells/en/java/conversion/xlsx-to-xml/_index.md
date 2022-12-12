@@ -1,6 +1,6 @@
 ---
 title: Convert XLSX to XML via Java 
-url: /java/conversion/xlsx-to-xml/
+
 description: Convert XLSX to XML format in Java code. Save XLSX as XML using Java.
 ---
 

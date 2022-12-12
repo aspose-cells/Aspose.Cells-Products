@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してXLTMをSVGに変換する
-url: /ja/python-java/conversion/xltm-to-svg/
+
 description: xltmからsvgPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチxltmファイルからsvgへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

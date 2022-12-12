@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل HTML إلى XML عبر تطبيق C++ 
-url: /ar/cpp/conversion/html-to-xml/ 
+
 description: نموذج C++ رمز التحويل لمستند HTML إلى تنسيق XML. يمكن للمبرمجين استخدام رمز المصدر هذا لتحويل دفعة HTML إلى XML داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

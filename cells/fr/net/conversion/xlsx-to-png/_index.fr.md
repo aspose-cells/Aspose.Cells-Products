@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir XLSX en PNG via C#
-url: /fr/net/conversion/xlsx-to-png/
+
 description: Exemple de code pour la conversion xlsx en png C#. Utilisez API exemple de code pour la conversion par lot de fichiers xlsx en png dans VB.NET, Asp.NET ou toute application basée sur .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

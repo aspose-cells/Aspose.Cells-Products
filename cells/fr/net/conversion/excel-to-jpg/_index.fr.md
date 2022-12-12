@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir EXCEL en JPG via C#
-url: /fr/net/conversion/excel-to-jpg/
+
 description: Exemple de code pour la conversion d'excel en jpg C#. Utilisez l'exemple de code API pour la conversion par lot de fichiers Excel en jpg dans VB.NET, Asp.NET ou toute application basée sur .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

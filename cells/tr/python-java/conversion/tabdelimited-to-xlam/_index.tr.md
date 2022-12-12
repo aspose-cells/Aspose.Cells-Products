@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla TABDELIMITED'i XLAM'e dönüştürün
-url: /tr/python-java/conversion/tabdelimited-to-xlam/
+
 description: Sekmeyle sınırlandırılmış xlam Python dönüşümü için örnek kod. Python uygulamasında toplu sekmeyle ayrılmış dosyalardan xlam'e dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

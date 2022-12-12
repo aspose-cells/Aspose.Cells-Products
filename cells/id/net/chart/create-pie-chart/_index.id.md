@@ -1,6 +1,6 @@
-﻿---
+---
 title: Buat Diagram Lingkaran melalui C#
-url: /id/net/create-pie-chart/
+
 description: C# Contoh kode untuk membuat diagram lingkaran ke Excel menggunakan .NET Pustaka. Gunakan kode ini untuk membuat diagram lingkaran ke MS Excel dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

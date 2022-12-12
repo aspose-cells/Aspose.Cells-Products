@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل ODS إلى XLTX عبر تطبيق C++ 
 weight: 180
-url: /ar/cpp/conversion/ods-to-xltx/ 
+
 description: نموذج C++ رمز تحويل لمستند ODS إلى تنسيق XLTX. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل دفعة من ODS إلى XLTX داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

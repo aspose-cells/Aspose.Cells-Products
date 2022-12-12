@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLT в HTML через Python
-url: /ru/python-java/conversion/xlt-to-html/
+
 description: Пример кода для преобразования xlt в html Python. Используйте пример кода API для пакетного преобразования файлов xlt в html в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Skydda och lås XLS-dokument via Java 
 weight: 5070
-url: /sv/java/protect/xls/ 
+
 description: Java exempelkod för att låsa XLS-fil med lösenord på Java Runtime Environment för JSP/JSF Application och Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

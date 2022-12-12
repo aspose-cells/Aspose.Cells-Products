@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera MHTML till XLSB via C#
-url: /sv/net/conversion/mhtml-to-xlsb/
+
 description: Exempelkod för konvertering från mhtml till xlsb C#. Använd API exempelkod för batch-mhtml-filer till xlsb-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

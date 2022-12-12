@@ -1,6 +1,6 @@
-﻿---
+---
 title: รวมไฟล์ MHT ผ่าน .NET 
-url: /th/net/merger/mht/ 
+
 description: ลองใช้ API การควบรวมข้อความภายในองค์กรเพื่อรวมเอกสาร MHT บน .NET Framework, .NET Core และ Xamarin Platforms
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

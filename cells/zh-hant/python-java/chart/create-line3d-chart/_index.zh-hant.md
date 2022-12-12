@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 Python 創建 3D 折線圖
-url: /zh-hant/python-java/create-line3d-chart/
+
 description: Python 使用 Python 庫將 3D 折線圖創建到 Excel 的示例代碼。使用此代碼在基於 Python 的應用程序中創建到 MS Excel 的 3D 折線圖。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

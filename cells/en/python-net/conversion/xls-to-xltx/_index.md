@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to XLTX via Python
-url: /python-net/conversion/xls-to-xltx/
+
 description: Sample code for xls to xltx Python conversion. Use API example code for batch xls files to xltx conversion within Python application.
 ---
 

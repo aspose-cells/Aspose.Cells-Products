@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python के माध्यम से HTML को MARKDOWN में बदलें
-url: /hi/python-java/conversion/html-to-markdown/
+
 description: html को मार्कडाउन Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन में रूपांतरण को मार्कडाउन करने के लिए बैच HTML फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

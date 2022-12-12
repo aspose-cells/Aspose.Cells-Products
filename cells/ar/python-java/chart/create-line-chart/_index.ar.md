@@ -1,6 +1,6 @@
-﻿---
+---
 title: إنشاء مخططات خطية عبر Python
-url: /ar/python-java/create-line-chart/
+
 description: Python نموذج كود لإنشاء مخططات خطية في Excel باستخدام Python Library. استخدم هذا الرمز لإنشاء مخطط خطي لبرنامج MS Excel داخل تطبيق يستند إلى Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

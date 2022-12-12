@@ -1,6 +1,6 @@
-﻿---
+---
 title: Создание точечных диаграмм с помощью C#
-url: /ru/net/create-scatter-chart/
+
 description: C# Пример кода для создания точечных диаграмм в Excel с использованием библиотеки .NET. Используйте этот код для создания точечной диаграммы в MS Excel в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

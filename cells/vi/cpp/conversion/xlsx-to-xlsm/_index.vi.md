@@ -1,7 +1,7 @@
-﻿---
+---
 title: Chuyển đổi XLSX sang XLSM qua ứng dụng C++ 
 weight: 2230
-url: /vi/cpp/conversion/xlsx-to-xlsm/ 
+
 description: Mã chuyển đổi C++ mẫu cho tài liệu XLSX sang định dạng XLSM. Lập trình viên có thể sử dụng mã nguồn này để chuyển đổi hàng loạt XLSX sang XLSM trong bất kỳ Ứng dụng C++ nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversikan XLTM ke JPEG melalui Java 
 weight: 2450
-url: /id/java/conversion/xltm-to-jpeg/ 
+
 description: Contoh Java kode konversi untuk format XLTM ke file JPEG. Pemrogram dapat menggunakan kode contoh ini untuk mengekspor spreadsheet Excel & OpenOffice ke JPEG dalam Aplikasi berbasis Web atau Desktop Java apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

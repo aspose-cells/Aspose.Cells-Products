@@ -1,7 +1,7 @@
-﻿---
+---
 title: Odemknout dokument XLSM přes Java 
 weight: 7700
-url: /cs/java/unlock/xlsm/ 
+
 description: Java ukázkový kód k odemknutí heslem chráněného souboru XLSM v Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

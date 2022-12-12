@@ -1,7 +1,7 @@
 ---
 title: Unlock XLSB document via Java 
 weight: 5860
-url: /java/unlock/xlsb/ 
+
 description: Java sample code to unlock password protected XLSB file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

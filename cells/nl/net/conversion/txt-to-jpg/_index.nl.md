@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer TXT naar JPG via C#
-url: /nl/net/conversion/txt-to-jpg/
+
 description: Voorbeeldcode voor conversie van txt naar jpg C#. Gebruik API voorbeeldcode voor batch-txt-bestanden naar jpg-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

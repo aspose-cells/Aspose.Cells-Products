@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 Python 將 XLS 轉換為 TABDELIMITED
-url: /zh-hant/python-java/conversion/xls-to-tabdelimited/
+
 description: xls 到製表符分隔的 Python 轉換的示例代碼。在 Python 應用程序中使用用於批處理 xls 文件的 API 示例代碼到製表符分隔的轉換。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

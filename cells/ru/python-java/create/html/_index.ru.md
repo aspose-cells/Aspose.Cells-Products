@@ -1,6 +1,6 @@
-﻿---
+---
 title: Создание файлов HTML с помощью Python 
-url: /ru/python-java/create-html/ 
+
 description: Python Пример кода для создания HTML-документов. Используйте этот код для создания файлов HTML в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

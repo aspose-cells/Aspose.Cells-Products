@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi HTML ke DOCX melalui C#
-url: /id/net/conversion/html-to-docx/
+
 description: Contoh kode untuk konversi html ke docx C#. Gunakan API kode contoh untuk file html batch ke konversi docx dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

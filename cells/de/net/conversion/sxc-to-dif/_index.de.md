@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie SXC in DIF über C#
-url: /de/net/conversion/sxc-to-dif/
+
 description: Beispielcode für die Umwandlung von sxc in dif C#. Verwenden Sie API Beispielcode für Batch-SXC-Dateien, um die Konvertierung innerhalb von VB.NET, Asp.NET oder einer beliebigen .NET-basierten Anwendung zu unterscheiden.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

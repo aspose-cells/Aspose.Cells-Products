@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++アプリケーションを介してTXTをXLSXに変換します 
-url: /ja/cpp/conversion/txt-to-xlsx/ 
+
 description: TXTドキュメントからXLSX形式へのサンプルC++変換コード。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でTXTからXLSXへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

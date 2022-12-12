@@ -1,6 +1,6 @@
-﻿---
+---
 title: "EXCEL konvertálása DOCX-re a következőn keresztül: C#"
-url: /hu/net/conversion/excel-to-docx/
+
 description: Mintakód az excelből docx-ba C# konverzióhoz. Használjon API példakódot kötegelt excel fájlok docx konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 Python 将 TABDELIMITED 转换为 XPS
-url: /zh/python-java/conversion/tabdelimited-to-xps/
+
 description: tabdelimited 到 xps Python 转换的示例代码。在 Python 应用程序中使用 API 示例代码将制表符分隔的文件批量转换为 xps。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

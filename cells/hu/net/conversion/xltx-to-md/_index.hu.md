@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLTX konvertálása MD-re a következőn keresztül: C#"
-url: /hu/net/conversion/xltx-to-md/
+
 description: Mintakód az xltx–md C# konverzióhoz. Használjon API példakódot a kötegelt xltx fájlok md konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

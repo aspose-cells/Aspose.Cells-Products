@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta NÚMEROS a XLS a través de Python
-url: /es/python-java/conversion/numbers-to-xls/
+
 description: Ejemplo de código para conversión de números a xls Python. Utilice el código de ejemplo API para la conversión de archivos de números de lote a xls dentro de la aplicación Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

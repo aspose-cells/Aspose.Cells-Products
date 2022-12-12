@@ -1,7 +1,7 @@
-﻿---
+---
 title: Genereer rapporten in XLSM-bestanden via Java 
 weight: 270
-url: /nl/java/assembly/xlsm/ 
+
 description: Java voorbeeldcode om rapporten in XLSM-indeling te maken op Java Runtime Environment voor JSP/JSF-applicaties en desktopapplicaties.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

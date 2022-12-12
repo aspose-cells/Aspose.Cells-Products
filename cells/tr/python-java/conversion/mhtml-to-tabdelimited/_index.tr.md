@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla MHTML'yi TABDELIMITED'e dönüştürün
-url: /tr/python-java/conversion/mhtml-to-tabdelimited/
+
 description: mhtml'den sekmeyle ayrılmış Python dönüşümüne ilişkin örnek kod. Python uygulamasında toplu mhtml dosyaları için sekmeyle ayrılmış dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

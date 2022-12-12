@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to ODS via Python
-url: /python-net/conversion/spreadsheetml-to-ods/
+
 description: Sample code for spreadsheetml to ods Python conversion. Use API example code for batch spreadsheetml files to ods conversion within Python application.
 ---
 

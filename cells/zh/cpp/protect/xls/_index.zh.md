@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通过 C++ 保护和锁定 XLS 文档 
 weight: 8760
-url: /zh/cpp/protect/xls/ 
+
 description: C++ 在 Windows 32 位、Windows 64 位和 Linux 64 位的 C++ 运行时环境中使用密码锁定 XLS 文件的示例代码。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

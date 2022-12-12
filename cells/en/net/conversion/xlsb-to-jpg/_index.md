@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to JPG via C#
-url: /net/conversion/xlsb-to-jpg/
+
 description: Convert XLSB to JPG format in C# code. Save XLSB as JPG using VB.NET, Asp.NET or any .NET based application.
 ---
 

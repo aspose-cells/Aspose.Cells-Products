@@ -1,6 +1,6 @@
-﻿---
+---
 title: แก้ไขไฟล์ HTML ผ่าน .NET 
-url: /th/net/editor/html/ 
+
 description: C# ซอร์สโค้ดสำหรับแก้ไขเอกสาร HTML บน .NET Framework, .NET Core, Windows Azure, Mono หรือ Xamarin Platforms
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

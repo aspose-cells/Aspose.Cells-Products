@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SPREADSHEETML konvertálása BMP-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/spreadsheetml-to-bmp/
+
 description: Mintakód a táblázatkezelőből bmp-be Python konverzióhoz. Használjon API példakódot a kötegelt táblázatkezelő fájlokhoz a bmp konverzióhoz a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

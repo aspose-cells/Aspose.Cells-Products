@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést FODS na XLTX přes Python
-url: /cs/python-java/conversion/fods-to-xltx/
+
 description: Ukázkový kód pro konverzi fod na xltx Python. Použijte API ukázkový kód pro dávkový převod souborů fods na xltx v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

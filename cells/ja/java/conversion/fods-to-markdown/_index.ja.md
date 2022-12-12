@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してFODSをMARKDOWNに変換します 
-url: /ja/java/conversion/fods-to-markdown/ 
+
 description: FODS形式からMARKDOWNファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートをWebまたはデスクトップJavaベースのアプリケーション内のMARKDOWNにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

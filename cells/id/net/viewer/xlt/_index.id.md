@@ -1,7 +1,7 @@
-﻿---
+---
 title: Lihat Format File XLT melalui .NET 
 weight: 3610
-url: /id/net/viewer/xlt/ 
+
 description: C# kode sumber untuk memuat, merender, dan menampilkan dokumen XLT pada .NET Framework, .NET Core, Mono atau Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

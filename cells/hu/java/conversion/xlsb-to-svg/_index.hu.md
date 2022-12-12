@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLSB konvertálása SVG-vé a következőn keresztül: Java "
 weight: 5560
-url: /hu/java/conversion/xlsb-to-svg/ 
+
 description: Minta Java konverziós kód az XLSB formátumhoz SVG-fájllá. A programozók ezt a példakódot használhatják Excel és OpenOffice táblázatok exportálására SVG formátumba bármely web- vagy asztali Java alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

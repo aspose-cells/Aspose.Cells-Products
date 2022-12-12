@@ -1,7 +1,7 @@
-﻿---
+---
 title: Proteja e bloqueie o documento XLSB via Java 
 weight: 6590
-url: /pt/java/protect/xlsb/ 
+
 description: Java código de amostra para bloquear o arquivo XLSB usando senha no Java ambiente de tempo de execução para aplicativos JSP/JSF e aplicativos de desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

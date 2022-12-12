@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla JSON'u PNG'ye dönüştürün
-url: /tr/python-java/conversion/json-to-png/
+
 description: json'dan png'ye Python dönüştürme için örnek kod. Python uygulamasında toplu json dosyalarının png'ye dönüştürülmesi için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

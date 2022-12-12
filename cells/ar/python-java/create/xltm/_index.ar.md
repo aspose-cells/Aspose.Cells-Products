@@ -1,6 +1,6 @@
-﻿---
+---
 title: إنشاء ملفات MS Excel XLTM عبر Python 
-url: /ar/python-java/create-xltm/ 
+
 description: Python نموذج كود لإنشاء مستندات XLTM. استخدم هذا الرمز لإنشاء ملفات MS Excel XLTM داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

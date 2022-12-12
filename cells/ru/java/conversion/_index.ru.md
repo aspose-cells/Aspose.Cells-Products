@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование файлов Microsoft Excel через Java 
-url: /ru/java/conversion/
+
 description: Преобразование Excel XLS, XLSX, ODS, CSV в PDF, XPS, HTML, JPEG, HTML и многие другие популярные форматы с помощью всего нескольких строк кода Java.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

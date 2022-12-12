@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET Excel API | Procesar formatos de hojas de cálculo a través de .NET Core 
 weight: 2030
-url: /es/net/ 
+
 description: Biblioteca C# ASP.NET VB.NET para trabajar con documentos de Microsoft Excel. Cree archivos de hoja de cálculo de lectura, escritura, guardado e impresión. Convertir a PDF o más formatos
 ---
 {{< blocks/products/pf/main-wrap-class >}}

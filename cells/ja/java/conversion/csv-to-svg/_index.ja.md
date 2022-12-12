@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してCSVをSVGに変換する 
 weight: 9790
-url: /ja/java/conversion/csv-to-svg/ 
+
 description: CSV形式のSVGファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のSVGにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

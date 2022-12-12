@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してODSをXLSMに変換します 
-url: /ja/java/conversion/ods-to-xlsm/ 
+
 description: ODS形式からXLSMファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、WebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをXLSMにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

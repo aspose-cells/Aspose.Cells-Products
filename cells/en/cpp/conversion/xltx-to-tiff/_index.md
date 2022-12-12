@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to TIFF via C++
-url: /cpp/conversion/xltx-to-tiff/
+
 description: Convert XLTX to TIFF format in C++ code. Save XLTX as TIFF using C++.
 ---
 

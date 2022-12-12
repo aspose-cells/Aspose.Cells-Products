@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование ODS в DOCX через C#
-url: /ru/net/conversion/ods-to-docx/
+
 description: Пример кода для преобразования ods в docx C#. Используйте пример кода API для пакетного преобразования файлов ods в docx в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

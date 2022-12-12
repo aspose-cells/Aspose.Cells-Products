@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή ODS σε XLAM μέσω Python
-url: /el/python-java/conversion/ods-to-xlam/
+
 description: Δείγμα κώδικα για μετατροπή ods σε xlam Python. Χρησιμοποιήστε API παράδειγμα κώδικα για μετατροπή ομαδικών αρχείων ods σε xlam εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

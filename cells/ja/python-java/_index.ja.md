@@ -1,7 +1,7 @@
-﻿---
+---
 title: PythonExcelスプレッドシートAPI-Aspose 
 weight: 2820
-url: /ja/python-java/ 
+
 description: Pythonスプレッドシートライブラリ。読み取り/書き込みを作成し、Excelファイルを解析します。
 ---
 {{< blocks/products/pf/main-wrap-class >}}

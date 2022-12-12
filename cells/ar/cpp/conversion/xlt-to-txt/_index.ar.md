@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLT إلى TXT عبر تطبيق C++ 
-url: /ar/cpp/conversion/xlt-to-txt/ 
+
 description: نموذج C++ رمز التحويل لمستند XLT إلى تنسيق TXT. يمكن للمبرمجين استخدام رمز المصدر هذا لتحويل دفعة XLT إلى TXT داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

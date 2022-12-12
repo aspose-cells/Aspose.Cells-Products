@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLSX na DOCX přes Python
-url: /cs/python-java/conversion/xlsx-to-docx/
+
 description: Ukázkový kód pro převod xlsx na docx Python. Použijte ukázkový kód API pro dávkový převod souborů xlsx na docx v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

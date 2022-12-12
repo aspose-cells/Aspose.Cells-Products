@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj ODS na SPREADSHEETML za pomocą Python
-url: /pl/python-java/conversion/ods-to-spreadsheetml/
+
 description: Przykładowy kod konwersji ods do arkusza kalkulacyjnego Python. Użyj przykładowego kodu API dla wsadowych plików ods do konwersji arkusza kalkulacyjnego na ml w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

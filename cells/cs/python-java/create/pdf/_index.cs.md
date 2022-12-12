@@ -1,6 +1,6 @@
-﻿---
+---
 title: Vytvářejte soubory PDF prostřednictvím Python 
-url: /cs/python-java/create-pdf/ 
+
 description: Python Ukázkový kód pro generování dokumentů PDF. Tento kód použijte k vytváření souborů PDF v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

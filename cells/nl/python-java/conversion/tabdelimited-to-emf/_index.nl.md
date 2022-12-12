@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer TABDELIMITED naar EMF via Python
-url: /nl/python-java/conversion/tabdelimited-to-emf/
+
 description: Voorbeeldcode voor door tabs gescheiden naar emf Python conversie. Gebruik API voorbeeldcode voor batch-tabdelimited-bestanden naar emf-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

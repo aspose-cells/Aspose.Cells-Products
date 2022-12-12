@@ -1,6 +1,6 @@
-﻿---
+---
 title: Crie arquivos PDF por meio de C# 
-url: /pt/net/create-pdf/ 
+
 description: C# Código de amostra para gerar documentos PDF. Use este código para criar arquivos PDF em VB.NET, Asp.NET ou qualquer aplicativo baseado em .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

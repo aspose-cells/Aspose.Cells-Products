@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést NUMBERS na MARKDOWN prostřednictvím Python
-url: /cs/python-java/conversion/numbers-to-markdown/
+
 description: Ukázkový kód pro převod čísel na snížení Python. Použijte API ukázkový kód pro soubory s čísly dávek ke konverzi markdown v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

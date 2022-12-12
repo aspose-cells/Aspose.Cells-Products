@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NETを介して開かずにODSドキュメントを検索する 
 weight: 160
-url: /ja/net/search/ods/ 
+
 description: .NETフレームワーク、.NETコア、Mono、またはXamarinプラットフォーム上のODSファイル内のパターンを持つ単語を検索するためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

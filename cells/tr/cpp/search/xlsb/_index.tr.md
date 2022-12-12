@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ üzerinden açmadan XLSB belgesini arayın 
 weight: 7020
-url: /tr/cpp/search/xlsb/ 
+
 description: C++ Windows 32 bit, Windows 64 bit ve Linux 64 bit için C++ Runtime Environment üzerinde XLSB dosyasında kalıplı sözcükleri aramak için örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

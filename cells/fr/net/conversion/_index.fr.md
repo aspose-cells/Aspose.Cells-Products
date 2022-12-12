@@ -1,6 +1,6 @@
-﻿---
+---
 title: Conversion de fichiers Microsoft Excel via C# 
-url: /fr/net/conversion/
+
 description: Convertissez Excel XLS, XLSX, ODS, CSV en PDF, XPS, HTML, JPEG, HTML et de nombreux autres formats populaires avec seulement quelques lignes de code C#.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

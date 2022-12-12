@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してNUMBERSをXLTMに変換します
-url: /ja/python-java/conversion/numbers-to-xltm/
+
 description: 数値からxltmPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチ番号ファイルからxltmへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

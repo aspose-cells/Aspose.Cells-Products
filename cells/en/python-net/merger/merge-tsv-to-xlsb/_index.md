@@ -1,6 +1,6 @@
 ---
 title: Merge TSV to XLSB Files via Python 
-url: /python-net/merger/merge-tsv-to-xlsb/ 
+
 description: Merge TSV to XLSB file in Python code. Combine TSV to XLSB file using Python.
 ---
 

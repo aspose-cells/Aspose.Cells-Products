@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi NUMBER ke SPREADSHEETML melalui C#
-url: /id/net/conversion/numbers-to-spreadsheetml/
+
 description: Contoh kode untuk angka ke spreadsheetml C# konversi. Gunakan API kode contoh untuk file nomor batch ke konversi spreadsheetml dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

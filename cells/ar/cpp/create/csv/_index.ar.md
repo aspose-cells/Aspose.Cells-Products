@@ -1,6 +1,6 @@
-﻿---
+---
 title: إنشاء ملفات CSV عبر C++ 
-url: /ar/cpp/create-csv/ 
+
 description: C++ نموذج كود لإنشاء ملفات CSV. استخدم هذا الرمز لإنشاء ملفات CSV داخل تطبيق يستند إلى C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NETを介してXLSBドキュメントのロックを解除します 
 weight: 6410
-url: /ja/net/unlock/xlsb/ 
+
 description: .NETフレームワーク、.NETコア、Mono、またはXamarinプラットフォームでパスワードで保護されたXLSBファイルのロックを解除するためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

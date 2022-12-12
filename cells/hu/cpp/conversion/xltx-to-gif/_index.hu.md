@@ -1,6 +1,6 @@
-﻿---
+---
 title: Az XLTX konvertálása GIF formátumba a C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/xltx-to-gif/ 
+
 description: Minta C++ konverziós kód XLTX dokumentumhoz GIF formátumba. A programozók ezt a forráskódot használhatják XLTX-ből GIF-be kötegelt konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

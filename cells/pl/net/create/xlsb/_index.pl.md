@@ -1,6 +1,6 @@
-﻿---
+---
 title: Twórz pliki MS Excel XLSB za pomocą C# 
-url: /pl/net/create-xlsb/ 
+
 description: C# Przykładowy kod do generowania dokumentów XLSB. Użyj tego kodu do tworzenia plików MS Excel XLSB w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Chuyển đổi HTML sang JPEG qua Java 
 weight: 8400
-url: /vi/java/conversion/html-to-jpeg/ 
+
 description: Mã chuyển đổi Java mẫu cho định dạng HTML sang tệp JPEG. Người lập trình có thể sử dụng mã ví dụ này để xuất bảng tính Excel & OpenOffice sang JPEG trong bất kỳ Ứng dụng dựa trên Web hoặc Máy tính Java nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

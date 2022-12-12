@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してMSExcelXLSMファイルを作成する 
-url: /ja/java/create-xlsm/ 
+
 description: JavaXLSMドキュメントを生成するためのサンプルコード。このコードを使用して、JavaベースのデスクトップまたはWebアプリケーション内にMSExcelXLSMファイルを作成します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

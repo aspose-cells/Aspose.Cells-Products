@@ -1,6 +1,6 @@
 ---
 title: Create MHTML Files via Java 
-url: /java/create-mhtml/ 
+
 description: Create MHTML files in Java code. Generate MHTML files using Java based desktop or web application.
 ---
 

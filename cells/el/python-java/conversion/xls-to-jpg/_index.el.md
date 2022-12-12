@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή XLS σε JPG μέσω Python
-url: /el/python-java/conversion/xls-to-jpg/
+
 description: Δείγμα κώδικα για μετατροπή xls σε jpg Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδική μετατροπή αρχείων xls σε jpg εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

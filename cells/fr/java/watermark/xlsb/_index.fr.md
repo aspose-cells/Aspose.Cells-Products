@@ -1,7 +1,7 @@
-﻿---
+---
 title: Document XLSB en filigrane via Java 
 weight: 5900
-url: /fr/java/watermark/xlsb/ 
+
 description: Java exemple de code pour ajouter ou supprimer un filigrane au fichier XLSB sur Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: แผนภูมิเอกสาร XLS ผ่าน Java 
 weight: 1050
-url: /th/java/chart/xls/ 
+
 description: Java โค้ดตัวอย่างเพื่อวาดและแปลงแผนภูมิหรือไดอะแกรมในไฟล์ XLS บน Java Runtime Environment สำหรับแอปพลิเคชัน JSP/JSF และแอปพลิเคชันเดสก์ท็อป
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

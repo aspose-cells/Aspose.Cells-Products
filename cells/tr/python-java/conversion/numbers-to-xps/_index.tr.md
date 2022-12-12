@@ -1,6 +1,6 @@
-﻿---
+---
 title: NUMBERS'ı Python aracılığıyla XPS'e dönüştürün
-url: /tr/python-java/conversion/numbers-to-xps/
+
 description: Sayıları xps'e Python dönüştürme için örnek kod. Python uygulamasında toplu iş numarası dosyalarını xps'e dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

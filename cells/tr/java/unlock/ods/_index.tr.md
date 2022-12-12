@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java aracılığıyla ODS belgesinin kilidini açın 
 weight: 5080
-url: /tr/java/unlock/ods/ 
+
 description: JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Runtime Environment'da parola korumalı ODS dosyasının kilidini açmak için Java örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

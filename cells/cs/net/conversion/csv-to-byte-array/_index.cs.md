@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést CSV na Byte Array prostřednictvím C# 
 weight: 7690
-url: /cs/net/conversion/csv-to-byte-array/ 
+
 description: C# Ukázkový kód pro převod CSV na Byte Array. Tento kód použijte pro převod Excel CSV na Byte Array v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

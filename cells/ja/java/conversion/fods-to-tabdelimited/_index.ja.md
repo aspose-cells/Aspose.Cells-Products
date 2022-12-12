@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してFODSをTABDELIMITEDに変換します 
-url: /ja/java/conversion/fods-to-tabdelimited/ 
+
 description: FODS形式からTABDELIMITEDファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のTABDELIMITEDにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

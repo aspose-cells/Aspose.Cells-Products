@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TSV konvertálása XML-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/tsv-to-xml/
+
 description: Mintakód a tsv–xml Python konverzióhoz. Használjon API példakódot a tsv-fájlok kötegelt xml-lé konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

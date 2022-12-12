@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してラインチャートを作成する 
-url: /ja/net/create-line-chart/ 
+
 description: C#.NETライブラリを使用してExcelに折れ線グラフを作成するためのサンプルコード。このコードを使用して、VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でMSExcelへの折れ線グラフを作成します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

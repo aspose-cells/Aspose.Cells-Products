@@ -1,6 +1,6 @@
 ---
 title: Convert XLSM to MARKDOWN via C#
-url: /net/conversion/xlsm-to-markdown/
+
 description: Convert XLSM to MARKDOWN format in C# code. Save XLSM as MARKDOWN using VB.NET, Asp.NET or any .NET based application.
 ---
 

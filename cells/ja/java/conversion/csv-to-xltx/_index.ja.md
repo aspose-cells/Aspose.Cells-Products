@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java経由でCSVをXLTXに変換 
 weight: 4680
-url: /ja/java/conversion/csv-to-xltx/ 
+
 description: CSV形式のXLTXファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、WebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをXLTXにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

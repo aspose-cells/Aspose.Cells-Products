@@ -1,7 +1,7 @@
-﻿---
+---
 title: Déverrouiller le document XLSM via C++ 
 weight: 6070
-url: /fr/cpp/unlock/xlsm/ 
+
 description: C++ Exemple de code pour déverrouiller le fichier XLSM protégé par mot de passe sur C++ Runtime Environment pour Windows 32 bits, Windows 64 bits et Linux 64 bits.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

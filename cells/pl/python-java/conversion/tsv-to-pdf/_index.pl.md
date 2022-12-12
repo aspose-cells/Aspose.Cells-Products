@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj TSV na PDF za pomocą Python
-url: /pl/python-java/conversion/tsv-to-pdf/
+
 description: Przykładowy kod konwersji tsv do pdf Python. Użyj przykładowego kodu API dla plików wsadowych tsv do konwersji pdf w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

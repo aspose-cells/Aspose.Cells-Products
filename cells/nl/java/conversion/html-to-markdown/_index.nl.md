@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer HTML naar MARKDOWN via Java 
-url: /nl/java/conversion/html-to-markdown/ 
+
 description: Voorbeeld Java conversiecode voor HTML-indeling naar MARKDOWN-bestand. Programmeurs kunnen deze voorbeeldcode gebruiken om Excel- en OpenOffice-spreadsheets naar MARKDOWN te exporteren binnen elke web- of desktoptoepassing Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

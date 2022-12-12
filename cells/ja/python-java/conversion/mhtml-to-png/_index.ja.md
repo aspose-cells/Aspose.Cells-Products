@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してMHTMLをPNGに変換する
-url: /ja/python-java/conversion/mhtml-to-png/
+
 description: mhtmlからpngPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチmhtmlファイルからpngへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

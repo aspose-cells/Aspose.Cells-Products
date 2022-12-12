@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to MD via Python
-url: /python-java/conversion/mhtml-to-md/
+
 description: Convert MHTML to MD format in Python code. Save MHTML as MD using Python.
 ---
 

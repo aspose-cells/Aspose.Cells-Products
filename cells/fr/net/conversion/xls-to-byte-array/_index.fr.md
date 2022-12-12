@@ -1,7 +1,7 @@
-﻿---
+---
 title: Convertir XLS en tableau d'octets via C# 
 weight: 7690
-url: /fr/net/conversion/xls-to-byte-array/ 
+
 description: C# Exemple de code pour la conversion XLS en tableau d'octets. Utilisez ce code pour la conversion Excel XLS en tableau d'octets dans VB.NET, Asp.NET ou toute application basée sur .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

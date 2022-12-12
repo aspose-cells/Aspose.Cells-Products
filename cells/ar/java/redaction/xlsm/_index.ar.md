@@ -1,7 +1,7 @@
-﻿---
+---
 title: البحث عن نص واستبداله في مستند XLSM عبر Java 
 weight: 1590
-url: /ar/java/redaction/xlsm/ 
+
 description: Java نموذج لرمز لتنقيح المعلومات الحساسة في ملف XLSM في Java Runtime Environment لتطبيق JSP / JSF وتطبيقات سطح المكتب.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

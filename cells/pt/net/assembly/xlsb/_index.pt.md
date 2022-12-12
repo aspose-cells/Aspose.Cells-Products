@@ -1,7 +1,7 @@
-﻿---
+---
 title: Gere relatórios em arquivos XLSB via .NET 
 weight: 1690
-url: /pt/net/assembly/xlsb/ 
+
 description: C# código-fonte para gerar relatórios em formato XLSB em plataformas .NET Framework, .NET Core, Mono ou Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

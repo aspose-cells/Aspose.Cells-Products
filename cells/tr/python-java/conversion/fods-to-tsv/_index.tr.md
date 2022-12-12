@@ -1,6 +1,6 @@
-﻿---
+---
 title: FODS'u Python üzerinden TSV'ye dönüştürün
-url: /tr/python-java/conversion/fods-to-tsv/
+
 description: Yemlerin tsv Python dönüşümü için örnek kod. Python uygulamasında toplu dosya dosyalarını tsv'ye dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: स्प्रेडशीटएमएल को एक्सएलएसएक्स में C++ एप्लिकेशन के माध्यम से कनवर्ट करें 
-url: /hi/cpp/conversion/spreadsheetml-to-xlsx/ 
+
 description: SPREADSHEETML दस्तावेज़ के लिए XLSX प्रारूप में नमूना C++ रूपांतरण कोड। प्रोग्रामर इस स्रोत कोड का उपयोग किसी भी C++ एप्लिकेशन के भीतर PREADSHEETML से XLSX रूपांतरण के बैच के लिए कर सकते हैं।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

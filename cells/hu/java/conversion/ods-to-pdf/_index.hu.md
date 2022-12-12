@@ -1,7 +1,7 @@
-﻿---
+---
 title: "ODS konvertálása PDF-be a következőn keresztül: Java "
 weight: 4170
-url: /hu/java/conversion/ods-to-pdf/ 
+
 description: Minta Java konverziós kód az ODS-formátumhoz PDF-fájllá. A programozók ezt a példakódot használhatják Excel- és OpenOffice-táblázatok PDF-formátumba exportálására bármely web- vagy asztali Java-alapú alkalmazásban.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

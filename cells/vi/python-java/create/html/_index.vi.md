@@ -1,6 +1,6 @@
-﻿---
+---
 title: Tạo Tệp HTML qua Python 
-url: /vi/python-java/create-html/ 
+
 description: Python Mã mẫu để tạo tài liệu HTML. Sử dụng mã này để tạo tệp HTML trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

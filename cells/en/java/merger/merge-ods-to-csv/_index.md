@@ -1,6 +1,6 @@
 ---
 title: Merge ODS to CSV Files via Java 
-url: /java/merger/merge-ods-to-csv/ 
+
 description: Merge ODS to CSV file in Java code. Combine ODS to CSV file using Java based desktop or web application.
 ---
 

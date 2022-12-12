@@ -1,6 +1,6 @@
 ---
 title: Convert XLTM to JSON via Java 
-url: /java/conversion/xltm-to-json/
+
 description: Convert XLTM to JSON format in Java code. Save XLTM as JSON using Java.
 ---
 

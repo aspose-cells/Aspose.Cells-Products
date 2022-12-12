@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLSM إلى XML عبر تطبيق C++ 
-url: /ar/cpp/conversion/xlsm-to-xml/ 
+
 description: نموذج C++ رمز التحويل لمستند XLSM إلى تنسيق XML. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل XLSM إلى XML في أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

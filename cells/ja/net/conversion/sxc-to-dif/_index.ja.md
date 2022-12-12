@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してSXCをDIFに変換します
-url: /ja/net/conversion/sxc-to-dif/
+
 description: sxcからdifC#への変換のサンプルコード。バッチsxcファイルのAPIサンプルコードを使用して、VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内で変換をdifします。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Buka kunci dokumen XLSM melalui Java 
 weight: 7700
-url: /id/java/unlock/xlsm/ 
+
 description: Java contoh kode untuk membuka kunci file XLSM yang dilindungi sandi di Java Runtime Environment untuk Aplikasi JSP/JSF dan Aplikasi Desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

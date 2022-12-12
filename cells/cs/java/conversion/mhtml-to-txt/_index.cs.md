@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést MHTML na TXT přes Java 
 weight: 1440
-url: /cs/java/conversion/mhtml-to-txt/ 
+
 description: Ukázka převodního kódu Java pro formát MHTML na soubor TXT. Programátoři mohou tento příklad kódu použít k exportu tabulek Excelu a OpenOffice do TXT v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

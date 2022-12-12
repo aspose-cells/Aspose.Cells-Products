@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET를 통해 ODS 파일에서 보고서 생성 
 weight: 520
-url: /ko/net/assembly/ods/ 
+
 description: C# 소스 코드는 .NET Framework, .NET Core, Mono 또는 Xamarin Platforms에서 ODS 형식 보고서를 생성합니다.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Merge HTML to XLS Files via C# 
-url: /net/merger/merge-html-to-xls/ 
+
 description: Merge HTML to XLS file in C# code. Combine HTML to XLS file using VB.NET, Asp.NET or any .NET based application.
 ---
 

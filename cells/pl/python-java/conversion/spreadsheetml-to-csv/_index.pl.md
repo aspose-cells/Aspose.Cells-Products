@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj SPREADSHEETML na CSV przez Python
-url: /pl/python-java/conversion/spreadsheetml-to-csv/
+
 description: Przykładowy kod konwersji arkusz kalkulacyjnyml do csv Python. Użyj przykładowego kodu API dla wsadowych plików arkusza kalkulacyjnego w celu konwersji csv w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

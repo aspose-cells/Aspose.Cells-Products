@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan ODS ke JPG melalui Python
-url: /id/python-java/conversion/ods-to-jpg/
+
 description: Contoh kode untuk konversi ods ke jpg Python. Gunakan API kode contoh untuk file batch ods ke konversi jpg dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

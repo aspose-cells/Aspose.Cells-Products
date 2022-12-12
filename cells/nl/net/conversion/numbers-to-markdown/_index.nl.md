@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer NUMMERS naar MARKDOWN via C#
-url: /nl/net/conversion/numbers-to-markdown/
+
 description: Voorbeeldcode voor getallen om C# conversie af te waarderen. Gebruik API voorbeeldcode voor batchnummerbestanden om conversie te verlagen binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to ODS via Java 
-url: /java/conversion/html-to-ods/
+
 description: Convert HTML to ODS format in Java code. Save HTML as ODS using Java.
 ---
 

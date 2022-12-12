@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to DIF via Python
-url: /python-java/conversion/mhtml-to-dif/
+
 description: Convert MHTML to DIF format in Python code. Save MHTML as DIF using Python.
 ---
 

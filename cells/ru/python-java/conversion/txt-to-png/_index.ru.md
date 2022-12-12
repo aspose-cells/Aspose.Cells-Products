@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование TXT в PNG через Python
-url: /ru/python-java/conversion/txt-to-png/
+
 description: Пример кода для преобразования txt в png Python. Используйте пример кода API для пакетного преобразования файлов txt в png в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLTX na PNG přes C#
-url: /cs/net/conversion/xltx-to-png/
+
 description: Ukázkový kód pro převod xltx na png C#. Použijte API ukázkový kód pro dávkový převod souborů xltx na png v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

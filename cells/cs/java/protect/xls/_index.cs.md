@@ -1,7 +1,7 @@
-﻿---
+---
 title: Chránit a uzamknout dokument XLS prostřednictvím Java 
 weight: 5070
-url: /cs/java/protect/xls/ 
+
 description: Java ukázkový kód pro uzamčení souboru XLS pomocí hesla v Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

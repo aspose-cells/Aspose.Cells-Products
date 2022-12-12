@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir SXC en TXT via C#
-url: /fr/net/conversion/sxc-to-txt/
+
 description: Exemple de code pour la conversion sxc en txt C#. Utilisez API exemple de code pour la conversion par lots de fichiers sxc en txt dans VB.NET, Asp.NET ou toute application basée sur .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

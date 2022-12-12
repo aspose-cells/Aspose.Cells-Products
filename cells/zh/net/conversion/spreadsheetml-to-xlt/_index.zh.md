@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 C# 将 SPREADSHEETML 转换为 XLT
-url: /zh/net/conversion/spreadsheetml-to-xlt/
+
 description: 电子表格ml 到 xlt C# 转换的示例代码。在 VB.NET、Asp.NET 或任何基于 .NET 的应用程序中使用 API 示例代码将电子表格文件批量转换为 xlt。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

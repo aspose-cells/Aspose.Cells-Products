@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést NUMBERS na JPEG prostřednictvím Python
-url: /cs/python-java/conversion/numbers-to-jpeg/
+
 description: Ukázkový kód pro převod čísel na jpeg Python. Použijte API ukázkový kód pro převod souborů s čísly dávek na jpeg v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

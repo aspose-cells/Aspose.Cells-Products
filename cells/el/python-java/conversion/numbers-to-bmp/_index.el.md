@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή NUMBERS σε BMP μέσω Python
-url: /el/python-java/conversion/numbers-to-bmp/
+
 description: Δείγμα κώδικα για αριθμούς για μετατροπή bmp Python. Χρησιμοποιήστε API παράδειγμα κώδικα για αρχεία αριθμών παρτίδας για μετατροπή bmp εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

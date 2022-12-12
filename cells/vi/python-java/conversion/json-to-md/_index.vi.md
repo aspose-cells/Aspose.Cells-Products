@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi JSON sang MD qua Python
-url: /vi/python-java/conversion/json-to-md/
+
 description: Mã mẫu cho chuyển đổi json sang md Python. Sử dụng mã mẫu API cho chuyển đổi hàng loạt tệp json sang md trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

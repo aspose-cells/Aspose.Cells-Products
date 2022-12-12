@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLSB-Dokument mit Wasserzeichen über Java 
 weight: 5900
-url: /de/java/watermark/xlsb/ 
+
 description: Java Beispielcode zum Hinzufügen oder Entfernen von Wasserzeichen zur XLSB-Datei in Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie ODS in TXT über die Anwendung C++ 
-url: /de/cpp/conversion/ods-to-txt/ 
+
 description: Beispiel-Umwandlungscode C++ für das ODS-Dokument in das TXT-Format. Programmierer können diesen Quellcode für die Batch-Konvertierung von ODS in TXT in jeder C++-Anwendung verwenden.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

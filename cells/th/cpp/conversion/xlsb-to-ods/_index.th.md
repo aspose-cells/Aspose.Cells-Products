@@ -1,7 +1,7 @@
-﻿---
+---
 title: แปลง XLSB เป็น ODS ผ่าน C++ แอปพลิเคชัน 
 weight: 3450
-url: /th/cpp/conversion/xlsb-to-ods/ 
+
 description: ตัวอย่างรหัสการแปลง C++ สำหรับเอกสาร XLSB เป็นรูปแบบ ODS โปรแกรมเมอร์สามารถใช้ซอร์สโค้ดนี้สำหรับการแปลง XLSB เป็น ODS แบบแบตช์ภายในแอปพลิเคชัน C++ ใดๆ
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

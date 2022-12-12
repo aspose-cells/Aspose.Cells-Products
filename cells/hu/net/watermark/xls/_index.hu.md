@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Vízjel XLS dokumentum a következőn keresztül: .NET "
 weight: 3050
-url: /hu/net/watermark/xls/ 
+
 description: C# forráskód vízjel hozzáadásához vagy eltávolításához az XLS-fájlhoz .NET Framework, .NET Core, Mono vagy Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

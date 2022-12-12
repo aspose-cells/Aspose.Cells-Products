@@ -1,6 +1,6 @@
-﻿---
+---
 title: "FODS konvertálása TIFF-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/fods-to-tiff/
+
 description: Mintakód a fods to tiff Python konverzióhoz. Használjon API példakódot kötegelt fods fájlok tiff konverziójához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

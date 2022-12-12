@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java aracılığıyla JSON'u XLT'ye dönüştürün 
 weight: 7430
-url: /tr/java/conversion/json-to-xlt/ 
+
 description: JSON biçimi için XLT dosyasına örnek Java dönüştürme kodu. Programcılar, Excel ve OpenOffice elektronik tablolarını herhangi bir Web veya Masaüstü Java tabanlı Uygulamada XLT'ye aktarmak için bu örnek kodu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

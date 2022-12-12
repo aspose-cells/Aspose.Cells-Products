@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertálja a HTML-t MHTML-re a(z) C++ alkalmazással 
 weight: 4130
-url: /hu/cpp/conversion/html-to-mhtml/ 
+
 description: Minta C++ konverziós kód HTML dokumentumhoz MHTML formátumba. A programozók ezt a forráskódot használhatják kötegelt HTML-ből MHTML-re konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

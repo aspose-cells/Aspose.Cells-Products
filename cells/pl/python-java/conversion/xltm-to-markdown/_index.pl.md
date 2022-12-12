@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj XLTM na MARKDOWN za pomocą Python
-url: /pl/python-java/conversion/xltm-to-markdown/
+
 description: Przykładowy kod konwersji xltm na przecenę Python. Użyj przykładowego kodu API dla wsadowych plików xltm do konwersji przecen w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

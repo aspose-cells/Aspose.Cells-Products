@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi TXT ke TSV melalui C++ aplikasi 
-url: /id/cpp/conversion/txt-to-tsv/ 
+
 description: Contoh C++ kode konversi untuk dokumen TXT ke format TSV. Pemrogram dapat menggunakan kode sumber ini untuk konversi batch TXT ke TSV dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

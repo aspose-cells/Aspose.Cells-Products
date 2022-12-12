@@ -1,7 +1,7 @@
-﻿---
+---
 title: Tìm kiếm tài liệu XLSB mà không cần mở qua Java 
 weight: 9420
-url: /vi/java/search/xlsb/ 
+
 description: Java mã mẫu để tìm kiếm các từ có mẫu trong tệp XLSB trên Java Môi trường thời gian chạy cho Ứng dụng JSP / JSF và Ứng dụng máy tính để bàn.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Repair xlsb file via .NET
-url: /net/recovery/repair-xlsb/ 
+
 description: Repair a corrupt xlsb file using C#. Recovery tool to repair corrupted xlsb file within .NET application.
 ---
 

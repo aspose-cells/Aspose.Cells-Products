@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi HTML sang MD qua Python
-url: /vi/python-java/conversion/html-to-md/
+
 description: Mã mẫu cho chuyển đổi html sang md Python. Sử dụng mã mẫu API cho chuyển đổi hàng loạt tệp html sang md trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

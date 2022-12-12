@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NETを介してXLSファイル形式を表示する 
 weight: 1260
-url: /ja/net/viewer/xls/ 
+
 description: .NETフレームワーク、.NETコア、Mono、またはXamarinプラットフォームでXLSドキュメントをロード、レンダリング、表示するためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to MD via C++
-url: /cpp/conversion/mhtml-to-md/
+
 description: Convert MHTML to MD format in C++ code. Save MHTML as MD using C++.
 ---
 

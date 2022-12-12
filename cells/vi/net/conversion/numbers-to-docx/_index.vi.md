@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển NUMBERS sang DOCX qua C#
-url: /vi/net/conversion/numbers-to-docx/
+
 description: Mã mẫu cho chuyển đổi số thành docx C#. Sử dụng mã mẫu API cho các tệp số lô để chuyển đổi docx trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

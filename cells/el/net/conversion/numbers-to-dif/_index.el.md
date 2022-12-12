@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή NUMBERS σε DIF μέσω C#
-url: /el/net/conversion/numbers-to-dif/
+
 description: Δείγμα κωδικού για αριθμούς που διαφοροποιούν τη μετατροπή C#. Χρησιμοποιήστε API παράδειγμα κώδικα για αρχεία αριθμών παρτίδας για να διαφοροποιήσετε τη μετατροπή σε VB.NET, Asp.NET ή οποιαδήποτε εφαρμογή που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: CSV-Dateien über Java zusammenführen 
 weight: 3860
-url: /de/java/merger/csv/ 
+
 description: Java Beispielcode zum Kombinieren von CSV-Dokumenten in Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

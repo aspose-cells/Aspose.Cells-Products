@@ -1,6 +1,6 @@
-﻿---
+---
 title: XLTM को XLS से C# में बदलें
-url: /hi/net/conversion/xltm-to-xls/
+
 description: xltm से xls C# रूपांतरण के लिए नमूना कोड। VB.NET, Asp.NET या किसी .NET आधारित एप्लिकेशन के भीतर xls से xls रूपांतरण में बैच xltm फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

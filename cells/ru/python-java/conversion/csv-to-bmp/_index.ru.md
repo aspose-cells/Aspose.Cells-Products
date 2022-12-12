@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование CSV в BMP через Python
-url: /ru/python-java/conversion/csv-to-bmp/
+
 description: Пример кода для преобразования csv в bmp Python. Используйте пример кода API для пакетного преобразования CSV-файлов в BMP в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

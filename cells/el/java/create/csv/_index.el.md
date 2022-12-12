@@ -1,6 +1,6 @@
-﻿---
+---
 title: Δημιουργία αρχείων CSV μέσω Java 
-url: /el/java/create-csv/ 
+
 description: Java Δείγμα κώδικα για τη δημιουργία εγγράφων CSV. Χρησιμοποιήστε αυτόν τον κώδικα για τη δημιουργία αρχείων CSV μέσα σε Java επιτραπέζιους υπολογιστές ή εφαρμογές ιστού.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

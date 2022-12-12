@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python를 통해 XLSX를 EMF로 변환
-url: /ko/python-java/conversion/xlsx-to-emf/
+
 description: xlsx에서 emf Python로의 변환을 위한 샘플 코드입니다. Python 애플리케이션 내에서 배치 xlsx 파일을 emf로 변환하는 API 예제 코드를 사용합니다.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

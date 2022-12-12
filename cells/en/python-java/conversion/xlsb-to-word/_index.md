@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to WORD via Python
-url: /python-java/conversion/xlsb-to-word/
+
 description: Convert XLSB to WORD format in Python code. Save XLSB as WORD using Python.
 ---
 

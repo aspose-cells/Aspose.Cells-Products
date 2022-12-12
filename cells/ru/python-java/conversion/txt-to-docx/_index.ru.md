@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование TXT в DOCX через Python
-url: /ru/python-java/conversion/txt-to-docx/
+
 description: Пример кода для преобразования txt в docx Python. Используйте пример кода API для пакетного преобразования файлов txt в docx в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

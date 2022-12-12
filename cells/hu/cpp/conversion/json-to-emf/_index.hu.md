@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja a JSON-t EMF-re a(z) C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/json-to-emf/ 
+
 description: Minta C++ konverziós kód a JSON-dokumentumhoz EMF formátumba. A programozók ezt a forráskódot használhatják a JSON-ból EMF-be történő kötegelt konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

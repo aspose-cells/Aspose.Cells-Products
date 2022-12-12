@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to CSV via C++
-url: /cpp/conversion/sxc-to-csv/
+
 description: Convert SXC to CSV format in C++ code. Save SXC as CSV using C++.
 ---
 

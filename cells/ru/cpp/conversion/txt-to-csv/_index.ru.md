@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование TXT в CSV с помощью приложения C++ 
-url: /ru/cpp/conversion/txt-to-csv/ 
+
 description: Пример кода преобразования C++ для документа TXT в формат CSV. Программисты могут использовать этот исходный код для пакетного преобразования TXT в CSV в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to EMF via C++
-url: /cpp/conversion/tabdelimited-to-emf/
+
 description: Convert TABDELIMITED to EMF format in C++ code. Save TABDELIMITED as EMF using C++.
 ---
 

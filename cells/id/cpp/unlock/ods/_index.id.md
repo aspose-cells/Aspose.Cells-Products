@@ -1,7 +1,7 @@
-﻿---
+---
 title: Buka kunci dokumen ODS melalui C++ 
 weight: 1190
-url: /id/cpp/unlock/ods/ 
+
 description: C++ kode contoh untuk membuka kunci file ODS yang dilindungi sandi di C++ Runtime Environment untuk Windows 32 bit, Windows 64 bit, dan Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

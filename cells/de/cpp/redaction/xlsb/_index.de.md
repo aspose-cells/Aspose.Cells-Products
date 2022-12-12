@@ -1,7 +1,7 @@
-﻿---
+---
 title: Suchen und ersetzen Sie Text im XLSB-Dokument über C++ 
 weight: 6660
-url: /de/cpp/redaction/xlsb/ 
+
 description: C++ Beispielcode zum Schwärzen vertraulicher Informationen in XLSB-Datei auf C++ Runtime Environment für Windows 32 Bit, Windows 64 Bit und Linux 64 Bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

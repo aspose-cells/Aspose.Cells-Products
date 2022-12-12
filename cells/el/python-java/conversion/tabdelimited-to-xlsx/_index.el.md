@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή TABDELIMITED σε XLSX μέσω Python
-url: /el/python-java/conversion/tabdelimited-to-xlsx/
+
 description: Δείγμα κώδικα για μετατροπή οριοθετημένης καρτέλας σε xlsx Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικές μετατροπές οριοθετημένων καρτελών σε xlsx εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

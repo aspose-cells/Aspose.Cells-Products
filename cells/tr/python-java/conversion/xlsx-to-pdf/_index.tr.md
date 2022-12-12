@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla XLSX'i PDF'ye dönüştürün
-url: /tr/python-java/conversion/xlsx-to-pdf/
+
 description: xlsx'ten pdf'ye Python dönüştürme için örnek kod. Python uygulamasında toplu xlsx dosyalarını pdf'ye dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

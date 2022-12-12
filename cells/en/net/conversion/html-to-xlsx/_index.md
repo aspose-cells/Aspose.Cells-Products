@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to XLSX via C#
-url: /net/conversion/html-to-xlsx/
+
 description: Convert HTML to XLSX format in C# code. Save HTML as XLSX using VB.NET, Asp.NET or any .NET based application.
 ---
 

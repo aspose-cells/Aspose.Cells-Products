@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie XLS in PNG über Python
-url: /de/python-java/conversion/xls-to-png/
+
 description: Beispielcode für die Umwandlung von xls in png Python. Verwenden Sie den API Beispielcode für die Batch-Konvertierung von XLS-Dateien in PNG innerhalb der Anwendung Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

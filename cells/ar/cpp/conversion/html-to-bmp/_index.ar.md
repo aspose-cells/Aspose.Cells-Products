@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل HTML إلى BMP عبر تطبيق C++ 
 weight: 9710
-url: /ar/cpp/conversion/html-to-bmp/ 
+
 description: نموذج رمز تحويل C++ لمستند HTML إلى تنسيق BMP. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل دفعة HTML إلى BMP داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert JPEG to WORD via Python
-url: /python-java/conversion/jpeg-to-word/
+
 description: Convert JPEG to WORD format in Python code. Save JPEG as WORD using Python.
 ---
 

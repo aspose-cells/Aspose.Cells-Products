@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TXT na PDF přes C#
-url: /cs/net/conversion/txt-to-pdf/
+
 description: Ukázkový kód pro převod txt na pdf C#. Použijte API ukázkový kód pro dávkový převod souborů txt na pdf v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

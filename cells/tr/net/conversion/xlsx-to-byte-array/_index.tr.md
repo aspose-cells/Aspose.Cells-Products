@@ -1,7 +1,7 @@
-﻿---
+---
 title: C# aracılığıyla XLSX'i Bayt Dizisine dönüştürün 
 weight: 7690
-url: /tr/net/conversion/xlsx-to-byte-array/ 
+
 description: C# XLSX'ten Bayt Dizisine dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde Excel XLSX'ten Bayt Dizisine dönüştürme için bu kodu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

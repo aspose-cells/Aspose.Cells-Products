@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TXT إلى TABDELIMITED عبر Python
-url: /ar/python-java/conversion/txt-to-tabdelimited/
+
 description: نموذج رمز لتحويل النص إلى Python محدد بعلامات جدولة. استخدم API رمز المثال لملفات TXT المجمعة لتحويل محدد بعلامات جدولة داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

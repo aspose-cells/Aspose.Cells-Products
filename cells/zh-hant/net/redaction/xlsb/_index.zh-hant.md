@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通過 .NET 搜索和替換 XLSB 文檔中的文本 
 weight: 3890
-url: /zh-hant/net/redaction/xlsb/ 
+
 description: C# 源代碼，用於在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上編輯 XLSB 文件中的敏感信息。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést TXT na CSV prostřednictvím Java 
 weight: 990
-url: /cs/java/conversion/txt-to-csv/ 
+
 description: Ukázkový konverzní kód Java pro formát TXT na soubor CSV. Programátoři mohou tento příklad kódu použít k exportu tabulek Excelu a OpenOffice do CSV v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

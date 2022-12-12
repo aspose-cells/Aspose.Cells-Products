@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převeďte TSV na XLSB pomocí aplikace C++ 
 weight: 1370
-url: /cs/cpp/conversion/tsv-to-xlsb/ 
+
 description: Ukázka převodního kódu C++ pro dokument TSV na formát XLSB. Programátoři mohou použít tento zdrojový kód pro dávkový převod TSV na XLSB v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

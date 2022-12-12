@@ -1,6 +1,6 @@
-﻿---
+---
 title: Δημιουργία αρχείων ODS (Openoffice / Lbreoffice) μέσω C++ 
-url: /el/cpp/create-ods/ 
+
 description: C++ Δείγμα κώδικα για τη δημιουργία αρχείων ODS (Openoffice / Lbreoffice). Χρησιμοποιήστε αυτόν τον κωδικό για τη δημιουργία αρχείων ODS (Openoffice / Lbreoffice) εντός εφαρμογής που βασίζεται σε C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

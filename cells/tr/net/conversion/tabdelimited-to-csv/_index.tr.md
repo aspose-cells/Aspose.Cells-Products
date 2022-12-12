@@ -1,6 +1,6 @@
-﻿---
+---
 title: TABDELIMITED'i C# aracılığıyla CSV'ye dönüştürün
-url: /tr/net/conversion/tabdelimited-to-csv/
+
 description: Tabdelited to csv C# dönüşümü için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu sekmeyle ayrılmış dosyalardan csv'ye dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

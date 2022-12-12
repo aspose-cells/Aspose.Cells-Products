@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование SPREADSHEETML в TABDELIMITED через C#
-url: /ru/net/conversion/spreadsheetml-to-tabdelimited/
+
 description: Пример кода для преобразования электронной таблицыml в C# с разделителями табуляции. Используйте пример кода API для пакетных файлов электронной таблицыml для преобразования с разделителями табуляции в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

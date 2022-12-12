@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte TXT na XLT pomocí aplikace C++ 
-url: /cs/cpp/conversion/txt-to-xlt/ 
+
 description: Ukázkový konverzní kód C++ pro dokument TXT na formát XLT. Programátoři mohou použít tento zdrojový kód pro dávkový převod TXT na XLT v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

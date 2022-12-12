@@ -1,6 +1,6 @@
-﻿---
+---
 title: ODS'yi C# aracılığıyla FODS'ye dönüştürün
-url: /tr/net/conversion/ods-to-fods/
+
 description: ods'den fos'a C# dönüşümü için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu ods dosyalarından fods'a dönüşüm için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

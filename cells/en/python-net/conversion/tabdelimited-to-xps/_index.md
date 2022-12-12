@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to XPS via Python
-url: /python-net/conversion/tabdelimited-to-xps/
+
 description: Sample code for tabdelimited to xps Python conversion. Use API example code for batch tabdelimited files to xps conversion within Python application.
 ---
 

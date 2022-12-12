@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python के माध्यम से NUMBERS को CSV में बदलें
-url: /hi/python-java/conversion/numbers-to-csv/
+
 description: csv Python रूपांतरण में संख्याओं के लिए नमूना कोड। Python एप्लिकेशन के भीतर सीएसवी रूपांतरण में बैच नंबर फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

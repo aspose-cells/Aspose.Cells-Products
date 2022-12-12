@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla HTML'yi FODS'ye dönüştürün
-url: /tr/net/conversion/html-to-fods/
+
 description: HTML'den fos'a C# dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu html dosyalarından fods'a dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

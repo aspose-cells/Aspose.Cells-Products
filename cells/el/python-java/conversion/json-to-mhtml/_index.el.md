@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή JSON σε MHTML μέσω Python
-url: /el/python-java/conversion/json-to-mhtml/
+
 description: Δείγμα κώδικα για μετατροπή json σε mhtml Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδική μετατροπή αρχείων json σε mhtml εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

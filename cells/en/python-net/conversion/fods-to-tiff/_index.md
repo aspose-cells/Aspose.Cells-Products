@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to TIFF via Python
-url: /python-net/conversion/fods-to-tiff/
+
 description: Sample code for fods to tiff Python conversion. Use API example code for batch fods files to tiff conversion within Python application.
 ---
 

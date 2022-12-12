@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してHTMLをODSに変換する
-url: /ja/net/conversion/html-to-ods/
+
 description: htmlからodsC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチhtmlファイルからodsへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

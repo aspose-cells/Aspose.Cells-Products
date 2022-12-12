@@ -1,7 +1,7 @@
-﻿---
+---
 title: Преобразование JSON в GIF через Java 
 weight: 3740
-url: /ru/java/conversion/json-to-gif/ 
+
 description: Пример кода преобразования Java для формата JSON в файл GIF. Программисты могут использовать этот пример кода для экспорта электронных таблиц Excel и OpenOffice в формат GIF в любом веб- или настольном Java приложении.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

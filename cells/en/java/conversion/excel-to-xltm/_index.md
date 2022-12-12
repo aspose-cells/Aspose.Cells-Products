@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to XLTM via Java 
-url: /java/conversion/excel-to-xltm/
+
 description: Convert EXCEL to XLTM format in Java code. Save EXCEL as XLTM using Java.
 ---
 

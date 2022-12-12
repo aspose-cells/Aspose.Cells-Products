@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してODSドキュメントからテキストと画像を抽出します 
 weight: 4740
-url: /ja/java/parser/ods/ 
+
 description: Java JSP/JSFアプリケーションおよびデスクトップアプリケーションのランタイム環境でODSファイルからテキストと画像を抽出するためのサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

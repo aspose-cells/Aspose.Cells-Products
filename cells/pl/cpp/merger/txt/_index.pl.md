@@ -1,6 +1,6 @@
-﻿---
+---
 title: Scal pliki TXT przez C++ 
-url: /pl/cpp/merger/txt/ 
+
 description: C++ przykładowy kod do łączenia dokumentów TXT w C++ środowisku wykonawczym dla 32-bitowego systemu Windows, 64-bitowego systemu Windows i 64-bitowego systemu Linux.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

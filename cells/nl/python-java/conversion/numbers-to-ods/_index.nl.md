@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer NUMMERS naar ODS via Python
-url: /nl/python-java/conversion/numbers-to-ods/
+
 description: Voorbeeldcode voor conversie van getallen naar ods Python. Gebruik API voorbeeldcode voor batchnummerbestanden naar ods-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

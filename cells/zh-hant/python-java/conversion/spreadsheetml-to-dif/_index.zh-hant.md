@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 Python 將 SPREADSHEETML 轉換為 DIF
-url: /zh-hant/python-java/conversion/spreadsheetml-to-dif/
+
 description: 電子表格到 diff Python 轉換的示例代碼。使用批量電子表格ml 文件的 API 示例代碼在 Python 應用程序中進行差異轉換。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

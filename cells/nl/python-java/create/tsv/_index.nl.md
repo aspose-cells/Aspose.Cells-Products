@@ -1,6 +1,6 @@
-﻿---
+---
 title: TSV-bestanden maken via Python 
-url: /nl/python-java/create-tsv/ 
+
 description: Python Voorbeeldcode voor het genereren van TSV-documenten. Gebruik deze code voor het maken van TSV-bestanden binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

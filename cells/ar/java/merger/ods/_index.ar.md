@@ -1,7 +1,7 @@
-﻿---
+---
 title: دمج ملفات ODS عبر Java 
 weight: 6270
-url: /ar/java/merger/ods/ 
+
 description: Java نموذج لرمز لدمج مستندات ODS في Java Runtime Environment لتطبيق JSP / JSF وتطبيقات سطح المكتب.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

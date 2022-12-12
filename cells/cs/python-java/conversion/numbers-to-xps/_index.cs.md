@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést NUMBERS na XPS prostřednictvím Python
-url: /cs/python-java/conversion/numbers-to-xps/
+
 description: Ukázkový kód pro převod čísel na xps Python. Použijte API ukázkový kód pro převod souborů s čísly dávek na xps v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

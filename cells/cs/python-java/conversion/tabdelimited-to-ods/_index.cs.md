@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TABDELIMITED na ODS přes Python
-url: /cs/python-java/conversion/tabdelimited-to-ods/
+
 description: Ukázkový kód pro konverzi tabdelimited na ods Python. Použijte API ukázkový kód pro dávkový převod souborů oddělených tabulátory na ods v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование JSON в PNG с помощью Python
-url: /ru/python-java/conversion/json-to-png/
+
 description: Пример кода для преобразования json в png Python. Используйте пример кода API для пакетного преобразования файлов json в png в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: ODS-Dokument durchsuchen, ohne es über C++ zu öffnen 
 weight: 3300
-url: /de/cpp/search/ods/ 
+
 description: C++ Beispielcode zum Suchen von Wörtern mit Muster in ODS-Datei in C++ Runtime Environment für Windows 32 Bit, Windows 64 Bit und Linux 64 Bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

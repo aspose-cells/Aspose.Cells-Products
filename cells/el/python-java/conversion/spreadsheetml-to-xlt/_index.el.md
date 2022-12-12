@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή SPREADSHEETML σε XLT μέσω Python
-url: /el/python-java/conversion/spreadsheetml-to-xlt/
+
 description: Δείγμα κώδικα για μετατροπή υπολογιστικού φύλλου ml σε xlt Python. Χρησιμοποιήστε API παράδειγμα κώδικα για μαζική μετατροπή υπολογιστικών φύλλων σε xlt εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

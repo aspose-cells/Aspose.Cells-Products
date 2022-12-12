@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование SPREADSHEETML в MHTML с помощью C#
-url: /ru/net/conversion/spreadsheetml-to-mhtml/
+
 description: Пример кода для преобразования электронной таблицыml в mhtml C#. Используйте пример кода API для пакетного преобразования файлов электронной таблицыml в mhtml в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

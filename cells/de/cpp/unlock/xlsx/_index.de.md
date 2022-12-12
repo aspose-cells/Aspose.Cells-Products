@@ -1,7 +1,7 @@
-﻿---
+---
 title: Entsperren Sie das XLSX-Dokument über C++ 
 weight: 3680
-url: /de/cpp/unlock/xlsx/ 
+
 description: C++ Beispielcode zum Entsperren der passwortgeschützten XLSX-Datei in C++ Runtime Environment für Windows 32 Bit, Windows 64 Bit und Linux 64 Bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLSX-Dokument über .NET schützen und sperren 
 weight: 90
-url: /de/net/protect/xlsx/ 
+
 description: C#-Quellcode zum Sperren der XLSX-Datei mithilfe eines Kennworts auf .NET Framework-, .NET Core-, Mono- oder Xamarin-Plattformen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

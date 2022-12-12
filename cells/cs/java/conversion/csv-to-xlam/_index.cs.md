@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést CSV na XLAM přes Java 
-url: /cs/java/conversion/csv-to-xlam/ 
+
 description: Ukázkový konverzní kód Java pro formát CSV na soubor XLAM. Programátoři mohou použít tento příklad kódu k exportu tabulek Excelu a OpenOffice do XLAM v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

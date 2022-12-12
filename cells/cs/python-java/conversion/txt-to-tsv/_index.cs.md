@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TXT na TSV přes Python
-url: /cs/python-java/conversion/txt-to-tsv/
+
 description: Ukázkový kód pro převod txt na tsv Python. Použijte API ukázkový kód pro dávkový převod souborů txt na tsv v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

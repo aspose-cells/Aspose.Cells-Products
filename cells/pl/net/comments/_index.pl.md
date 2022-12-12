@@ -1,6 +1,6 @@
-﻿---
+---
 title: Wstawiaj komentarze w Excelu za pomocą .NET
-url: /pl/net/comment/
+
 description: C# kody źródłowe, jak wstawiać komentarz do plików programu Microsoft Excel za pomocą biblioteki .NET. 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

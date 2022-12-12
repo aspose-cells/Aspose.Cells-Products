@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj NUMBERS na XLSM przez Python
-url: /pl/python-java/conversion/numbers-to-xlsm/
+
 description: Przykładowy kod konwersji liczb do xlsm Python. Użyj przykładowego kodu API dla plików numerów partii do konwersji xlsm w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

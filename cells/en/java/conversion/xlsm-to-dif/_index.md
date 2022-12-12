@@ -1,6 +1,6 @@
 ---
 title: Convert XLSM to DIF via Java 
-url: /java/conversion/xlsm-to-dif/
+
 description: Convert XLSM to DIF format in Java code. Save XLSM as DIF using Java.
 ---
 

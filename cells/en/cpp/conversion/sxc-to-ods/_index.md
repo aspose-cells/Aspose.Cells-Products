@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to ODS via C++
-url: /cpp/conversion/sxc-to-ods/
+
 description: Convert SXC to ODS format in C++ code. Save SXC as ODS using C++.
 ---
 

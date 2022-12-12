@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést CSV na HTML pomocí Java 
 weight: 6910
-url: /cs/java/conversion/csv-to-html/ 
+
 description: Ukázka převodního kódu Java pro formát CSV na soubor HTML. Programátoři mohou použít tento příklad kódu k exportu tabulek Excelu a OpenOffice do HTML v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

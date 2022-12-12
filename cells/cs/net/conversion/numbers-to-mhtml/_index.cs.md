@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést NUMBERS na MHTML prostřednictvím C#
-url: /cs/net/conversion/numbers-to-mhtml/
+
 description: Ukázkový kód pro převod čísel na mhtml C#. Použijte API ukázkový kód pro dávkové soubory čísel na převod mhtml v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Vytvořit pruhové grafy prostřednictvím Python
-url: /cs/python-java/create-bar-chart/
+
 description: Python Ukázkový kód pro vytváření pruhových grafů do aplikace Excel pomocí knihovny Python. Tento kód použijte k vytvoření sloupcového grafu do MS Excel v aplikaci založené na Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

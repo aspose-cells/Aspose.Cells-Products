@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++を介してXLSドキュメントメタデータを編集または表示する 
 weight: 2150
-url: /ja/cpp/metadata/xls/ 
+
 description: C++ Windows 32ビット、Windows 64ビット、およびLinux64ビットのランタイム環境でXLSファイルメタデータを編集または表示するためのサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

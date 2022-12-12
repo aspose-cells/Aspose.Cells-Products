@@ -1,7 +1,7 @@
-﻿---
+---
 title: Ekstrak teks dan gambar dari dokumen XLSM melalui Java 
 weight: 3260
-url: /id/java/parser/xlsm/ 
+
 description: Java contoh kode untuk mengekstrak teks dan gambar dari file XLSM di Java Runtime Environment untuk Aplikasi JSP/JSF dan Aplikasi Desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

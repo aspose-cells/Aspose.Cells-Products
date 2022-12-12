@@ -1,7 +1,7 @@
-﻿---
+---
 title: Rechercher un document XLS sans ouvrir via .NET 
 weight: 1490
-url: /fr/net/search/xls/ 
+
 description: C# code source pour rechercher des mots avec un modèle dans le fichier XLS sur .NET Framework, .NET Core, Mono ou Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

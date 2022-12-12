@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to SVG via C++
-url: /cpp/conversion/json-to-svg/
+
 description: Convert JSON to SVG format in C++ code. Save JSON as SVG using C++.
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++アプリケーションを介してTSVをXLTXに変換します 
 weight: 3100
-url: /ja/cpp/conversion/tsv-to-xltx/ 
+
 description: TSVドキュメントからXLTX形式へのサンプルC++変換コード。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でTSVからXLTXへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

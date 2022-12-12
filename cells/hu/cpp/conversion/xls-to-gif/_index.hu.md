@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertálja az XLS-t GIF-be a(z) C++ alkalmazással 
 weight: 8820
-url: /hu/cpp/conversion/xls-to-gif/ 
+
 description: Minta C++ konverziós kód XLS-dokumentumhoz GIF formátumba. A programozók ezt a forráskódot használhatják XLS-ből GIF-be kötegelt konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

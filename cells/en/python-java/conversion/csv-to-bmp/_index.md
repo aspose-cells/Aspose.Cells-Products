@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to BMP via Python
-url: /python-java/conversion/csv-to-bmp/
+
 description: Convert CSV to BMP format in Python code. Save CSV as BMP using Python.
 ---
 

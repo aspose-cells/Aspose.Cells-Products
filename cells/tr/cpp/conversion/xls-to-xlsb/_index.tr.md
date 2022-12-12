@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ uygulaması aracılığıyla XLS'yi XLSB'ye dönüştürün 
 weight: 9080
-url: /tr/cpp/conversion/xls-to-xlsb/ 
+
 description: XLS belgesi için XLSB biçimine örnek C++ dönüştürme kodu. Programcılar, herhangi bir C++ Uygulamasında toplu XLS'den XLSB'ye dönüştürme için bu kaynak kodunu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

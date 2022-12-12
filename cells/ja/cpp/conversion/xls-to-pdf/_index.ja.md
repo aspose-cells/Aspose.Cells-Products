@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++アプリケーションを介してXLSをPDFに変換する 
 weight: 8010
-url: /ja/cpp/conversion/xls-to-pdf/ 
+
 description: XLSドキュメントからPDF形式へのサンプルC++変換コード。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でXLSからPDFへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

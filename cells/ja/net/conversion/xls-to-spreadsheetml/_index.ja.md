@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してXLSをSPREADSHEETMLに変換します
-url: /ja/net/conversion/xls-to-spreadsheetml/
+
 description: xlsからspreadplacemlC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチxlsファイルからspreadsheetmlへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

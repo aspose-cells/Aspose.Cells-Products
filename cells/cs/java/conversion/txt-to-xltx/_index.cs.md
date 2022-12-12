@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést TXT na XLTX přes Java 
 weight: 2280
-url: /cs/java/conversion/txt-to-xltx/ 
+
 description: Ukázkový konverzní kód Java pro soubor ve formátu TXT na soubor XLTX. Programátoři mohou použít tento příklad kódu k exportu tabulek Excelu a OpenOffice do XLTX v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

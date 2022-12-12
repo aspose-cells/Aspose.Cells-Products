@@ -1,6 +1,6 @@
-﻿---
+---
 title: Σχολιασμοί αρχείων Excel μέσω C++
-url: /el/cpp/annotation/
+
 description: Προσθέστε ή αφαιρέστε σχόλια σχολιασμού δεδομένων υπολογιστικών φύλλων Excel και OpenOffice με τη βιβλιοθήκη C++.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

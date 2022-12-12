@@ -1,6 +1,6 @@
-﻿---
+---
 title: "ODS konvertálása SPREADSHEETML-re a következőn keresztül: Java "
-url: /hu/java/conversion/ods-to-spreadsheetml/ 
+
 description: Minta Java konverziós kód az ODS formátumhoz SPREADSHEETML fájlba. A programozók ezt a példakódot használhatják Excel és OpenOffice táblázatok SPREADSHEETML formátumba exportálására bármely web- vagy asztali Java alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

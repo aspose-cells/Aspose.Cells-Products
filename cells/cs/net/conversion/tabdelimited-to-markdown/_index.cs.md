@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TABDELIMITED na MARKDOWN prostřednictvím C#
-url: /cs/net/conversion/tabdelimited-to-markdown/
+
 description: Ukázkový kód pro konverzi C# oddělená tabulátorem až markdown. Použijte API ukázkový kód pro dávkové soubory oddělené tabulátory k převodu markdown v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

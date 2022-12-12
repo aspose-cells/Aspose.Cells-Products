@@ -1,6 +1,6 @@
-﻿---
+---
 title: 在 Java 中將 Excel 電子表格拆分為工作表
-url: /zh-hant/java/splitter/
+
 description: Java 說明如何使用 Java Excel 庫將 Microsoft Excel 文件拆分為多個文檔的源代碼
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

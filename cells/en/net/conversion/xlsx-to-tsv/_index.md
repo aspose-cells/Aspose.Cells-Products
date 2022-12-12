@@ -1,6 +1,6 @@
 ---
 title: Convert XLSX to TSV via C#
-url: /net/conversion/xlsx-to-tsv/
+
 description: Convert XLSX to TSV format in C# code. Save XLSX as TSV using VB.NET, Asp.NET or any .NET based application.
 ---
 

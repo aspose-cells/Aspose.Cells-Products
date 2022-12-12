@@ -1,6 +1,6 @@
-﻿---
+---
 title: "CSV-fájlok létrehozása a következőn keresztül: C# "
-url: /hu/net/create-csv/ 
+
 description: C# Mintakód CSV-dokumentumok generálásához. Használja ezt a kódot CSV-fájlok létrehozásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazásban.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

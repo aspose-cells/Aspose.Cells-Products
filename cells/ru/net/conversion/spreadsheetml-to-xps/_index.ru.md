@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование SPREADSHETML в XPS через C#
-url: /ru/net/conversion/spreadsheetml-to-xps/
+
 description: Пример кода для преобразования электронной таблицыml в xps C#. Используйте пример кода API для пакетного преобразования файлов электронной таблицыml в XPS в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

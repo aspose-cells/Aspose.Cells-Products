@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SXC konvertálása TABLEDELIMITED-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/sxc-to-tabdelimited/
+
 description: Mintakód az sxc-ből tabulátorral tagolt Python-es konverzióhoz. Használjon API példakódot kötegelt sxc fájlokhoz a tabulátorral tagolt konverzióhoz a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SPREADSHEETML konvertálása EMF-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/spreadsheetml-to-emf/
+
 description: Mintakód a táblázatkezelőből az emf Python konverzióhoz. Használjon API példakódot a kötegelt táblázatkezelő fájlokhoz az EMF konvertáláshoz a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

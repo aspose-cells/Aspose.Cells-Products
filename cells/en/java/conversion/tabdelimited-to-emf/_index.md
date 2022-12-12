@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to EMF via Java 
-url: /java/conversion/tabdelimited-to-emf/
+
 description: Convert TABDELIMITED to EMF format in Java code. Save TABDELIMITED as EMF using Java.
 ---
 

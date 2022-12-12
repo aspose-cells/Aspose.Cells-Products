@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to MARKDOWN via Java 
-url: /java/conversion/xlt-to-markdown/
+
 description: Convert XLT to MARKDOWN format in Java code. Save XLT as MARKDOWN using Java.
 ---
 

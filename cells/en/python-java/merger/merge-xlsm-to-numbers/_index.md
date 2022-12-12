@@ -1,6 +1,6 @@
 ---
 title: Merge XLSM to NUMBERS Files via Python 
-url: /python-java/merger/merge-xlsm-to-numbers/ 
+
 description: Merge XLSM to NUMBERS file in Python code. Combine XLSM to NUMBERS file using Python.
 ---
 

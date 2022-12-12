@@ -1,7 +1,7 @@
-﻿---
+---
 title: Zobrazení nebo úprava metadat souborů XLSX prostřednictvím .NET 
 weight: 3430
-url: /cs/net/metadata/xlsx/ 
+
 description: C# zdrojový kód pro úpravu nebo zobrazení metadat formátu XLSX na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

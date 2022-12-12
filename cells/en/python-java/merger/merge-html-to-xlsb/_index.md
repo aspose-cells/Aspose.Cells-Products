@@ -1,6 +1,6 @@
 ---
 title: Merge HTML to XLSB Files via Python 
-url: /python-java/merger/merge-html-to-xlsb/ 
+
 description: Merge HTML to XLSB file in Python code. Combine HTML to XLSB file using Python.
 ---
 

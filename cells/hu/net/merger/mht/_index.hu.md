@@ -1,6 +1,6 @@
-﻿---
+---
 title: "MHT-fájlok egyesítése a következőn keresztül: .NET "
-url: /hu/net/merger/mht/ 
+
 description: Próbálja ki On-Premise üzenet-egyesítési API-jainkat, amelyekkel kombinálhatja az MHT-dokumentumokat a .NET Framework, a .NET Core és a Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to BMP via Java 
-url: /java/conversion/xlsb-to-bmp/
+
 description: Convert XLSB to BMP format in Java code. Save XLSB as BMP using Java.
 ---
 

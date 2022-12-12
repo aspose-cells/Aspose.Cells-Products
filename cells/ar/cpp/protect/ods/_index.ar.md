@@ -1,7 +1,7 @@
-﻿---
+---
 title: حماية وقفل مستند ODS عبر C++ 
 weight: 10010
-url: /ar/cpp/protect/ods/ 
+
 description: C++ مثال على رمز لتأمين ملف ODS باستخدام كلمة مرور في C++ Runtime Environment لأنظمة التشغيل Windows 32 بت و Windows 64 بت و Linux 64 بت.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

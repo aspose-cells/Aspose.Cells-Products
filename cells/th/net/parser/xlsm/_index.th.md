@@ -1,7 +1,7 @@
-﻿---
+---
 title: แยกข้อความและรูปภาพจากเอกสาร XLSM ผ่าน .NET 
 weight: 4010
-url: /th/net/parser/xlsm/ 
+
 description: C# ซอร์สโค้ดเพื่อแยกข้อความและรูปภาพจากไฟล์ XLSM บน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

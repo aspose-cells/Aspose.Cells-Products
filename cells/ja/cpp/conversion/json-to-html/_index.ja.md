@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++アプリケーションを介してJSONをHTMLに変換する 
-url: /ja/cpp/conversion/json-to-html/ 
+
 description: JSONドキュメントからHTML形式へのサンプルC++変換コード。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でJSONからHTMLへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

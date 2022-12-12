@@ -1,7 +1,7 @@
-﻿---
+---
 title: แปลง ODS เป็น GIF ผ่าน Java 
 weight: 4810
-url: /th/java/conversion/ods-to-gif/ 
+
 description: ตัวอย่างรหัสการแปลง Java สำหรับรูปแบบ ODS เป็นไฟล์ GIF โปรแกรมเมอร์สามารถใช้โค้ดตัวอย่างนี้เพื่อส่งออกสเปรดชีต Excel และ OpenOffice ไปยัง GIF ภายในแอปพลิเคชันบนเว็บหรือเดสก์ท็อป Java
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

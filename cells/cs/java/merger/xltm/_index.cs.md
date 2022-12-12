@@ -1,7 +1,7 @@
-﻿---
+---
 title: Sloučit soubory XLTM přes Java 
 weight: 8210
-url: /cs/java/merger/xltm/ 
+
 description: Java ukázkový kód pro kombinaci dokumentů XLTM v Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

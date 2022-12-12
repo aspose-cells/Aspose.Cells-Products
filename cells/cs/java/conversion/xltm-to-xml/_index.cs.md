@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLTM na XML přes Java 
-url: /cs/java/conversion/xltm-to-xml/ 
+
 description: Ukázka převodního kódu Java pro formát XLTM na soubor XML. Programátoři mohou tento příklad kódu použít k exportu tabulek Excelu a OpenOffice do XML v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

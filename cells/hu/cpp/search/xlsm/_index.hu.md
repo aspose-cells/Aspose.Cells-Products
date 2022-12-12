@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLSM-dokumentum keresése megnyitás nélkül a következőn keresztül: C++ "
 weight: 9280
-url: /hu/cpp/search/xlsm/ 
+
 description: C++ példakód a szavak mintájának keresésére az XLSM fájlban a C++ Runtime Environment for Windows 32 bit, Windows 64 bit és Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

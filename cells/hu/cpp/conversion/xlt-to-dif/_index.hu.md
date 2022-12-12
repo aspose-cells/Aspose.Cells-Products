@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLT-t DIF-re a(z) C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/xlt-to-dif/ 
+
 description: Minta C++ konverziós kód XLT dokumentumhoz DIF formátumba. A programozók ezt a forráskódot használhatják kötegelt XLT-DIF-konverzióhoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

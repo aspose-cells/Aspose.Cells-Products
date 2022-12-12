@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to MD via C++
-url: /cpp/conversion/fods-to-md/
+
 description: Convert FODS to MD format in C++ code. Save FODS as MD using C++.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل JSON إلى PNG عبر تطبيق C++ 
-url: /ar/cpp/conversion/json-to-png/ 
+
 description: نموذج رمز تحويل C++ لمستند JSON إلى تنسيق PNG. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل دفعة JSON إلى PNG داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

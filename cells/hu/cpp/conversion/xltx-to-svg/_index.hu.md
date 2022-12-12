@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLTX-et SVG-vé a C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/xltx-to-svg/ 
+
 description: Minta C++ konverziós kód XLTX dokumentumhoz SVG formátumba. A programozók ezt a forráskódot használhatják kötegelt XLTX-SVG-konverzióhoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование HTML в EMF через C#
-url: /ru/net/conversion/html-to-emf/
+
 description: Пример кода для преобразования html в emf C#. Используйте пример кода API для пакетного преобразования файлов html в emf в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

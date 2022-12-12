@@ -1,6 +1,6 @@
-﻿---
+---
 title: สร้างไฟล์ PDF ผ่าน Python 
-url: /th/python-java/create-pdf/ 
+
 description: Python โค้ดตัวอย่างสำหรับสร้างเอกสาร PDF ใช้รหัสนี้เพื่อสร้างไฟล์ PDF ภายในแอปพลิเคชัน Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

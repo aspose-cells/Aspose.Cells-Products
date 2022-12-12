@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してTXTをXLAMに変換します
-url: /ja/python-java/conversion/txt-to-xlam/
+
 description: txtからxlamPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチtxtファイルからxlamへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

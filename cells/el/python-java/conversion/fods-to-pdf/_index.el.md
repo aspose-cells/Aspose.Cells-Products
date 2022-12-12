@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή FODS σε PDF μέσω Python
-url: /el/python-java/conversion/fods-to-pdf/
+
 description: Δείγμα κώδικα για μετατροπή fods σε pdf Python. Χρησιμοποιήστε API παράδειγμα κώδικα για μετατροπή ομαδικών αρχείων σε pdf εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

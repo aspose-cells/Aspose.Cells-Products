@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to XLSB via C++
-url: /cpp/conversion/sxc-to-xlsb/
+
 description: Convert SXC to XLSB format in C++ code. Save SXC as XLSB using C++.
 ---
 

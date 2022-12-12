@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertera XLS till XLTX via C++-programmet 
 weight: 5210
-url: /sv/cpp/conversion/xls-to-xltx/ 
+
 description: Exempel på C++-konverteringskod för XLS-dokument till XLTX-format. Programmerare kan använda den här källkoden för batchkonvertering av XLS till XLTX inom alla C++-program.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

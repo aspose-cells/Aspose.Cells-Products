@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera NUMBERS till XLT via Python
-url: /sv/python-java/conversion/numbers-to-xlt/
+
 description: Exempelkod för siffror till xlt Python-konvertering. Använd API exempelkod för batchnummerfiler till xlt-konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

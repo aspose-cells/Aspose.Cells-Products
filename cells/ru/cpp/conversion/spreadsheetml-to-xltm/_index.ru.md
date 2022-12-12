@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование SPREADSHEETML в XLTM с помощью приложения C++ 
-url: /ru/cpp/conversion/spreadsheetml-to-xltm/ 
+
 description: Пример кода преобразования C++ для документа SPREADSHEETML в формат XLTM. Программисты могут использовать этот исходный код для пакетного преобразования SPREADSHEETML в XLTM в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

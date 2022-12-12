@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή XLTM σε MD μέσω Python
-url: /el/python-java/conversion/xltm-to-md/
+
 description: Δείγμα κώδικα για μετατροπή xltm σε md Python. Χρησιμοποιήστε API παράδειγμα κώδικα για μαζική μετατροπή αρχείων xltm σε md εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

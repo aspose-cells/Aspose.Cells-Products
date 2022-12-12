@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converter TSV para matriz de bytes via C# 
 weight: 7690
-url: /pt/net/conversion/tsv-to-byte-array/ 
+
 description: C# Código de amostra para conversão de TSV para matriz de bytes. Use este código para conversão de Excel TSV para Byte Array em VB.NET, Asp.NET ou qualquer aplicativo baseado em .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

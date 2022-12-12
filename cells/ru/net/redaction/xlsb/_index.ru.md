@@ -1,7 +1,7 @@
-﻿---
+---
 title: Поиск и замена текста в документе XLSB через .NET 
 weight: 3890
-url: /ru/net/redaction/xlsb/ 
+
 description: Исходный код C# для редактирования конфиденциальной информации в файле XLSB на платформах .NET Framework, .NET Core, Mono или Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

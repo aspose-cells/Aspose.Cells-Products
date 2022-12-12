@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést MHTML na DOCX přes C#
-url: /cs/net/conversion/mhtml-to-docx/
+
 description: Ukázkový kód pro konverzi mhtml na docx C#. Použijte API ukázkový kód pro dávkový převod souborů mhtml na docx v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title:  Диаграмма документа XLSX в изображения через .NET 
 weight: 2630
-url: /ru/net/chart/xlsx/ 
+
 description: Исходный код C# для рисования и преобразования диаграммы или диаграммы в файл XLSX на платформах .NET Framework, .NET Core, Mono или Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

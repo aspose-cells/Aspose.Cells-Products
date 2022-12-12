@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer JSON naar EXCEL via C#
-url: /nl/net/conversion/json-to-excel/
+
 description: Voorbeeldcode voor json om C#-conversie uit te blinken. Gebruik API voorbeeldcode voor batch json-bestanden om de conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie uit te blinken.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

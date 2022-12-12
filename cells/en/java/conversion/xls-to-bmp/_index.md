@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to BMP via Java 
-url: /java/conversion/xls-to-bmp/
+
 description: Convert XLS to BMP format in Java code. Save XLS as BMP using Java.
 ---
 

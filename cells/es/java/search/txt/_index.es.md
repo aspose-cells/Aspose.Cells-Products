@@ -1,7 +1,7 @@
-﻿---
+---
 title: Buscar documento TXT sin abrir a través de Java 
 weight: 1200
-url: /es/java/search/txt/ 
+
 description: Java código de ejemplo para buscar palabras con patrón en un archivo TXT en Java entorno de tiempo de ejecución para aplicaciones de escritorio y aplicaciones JSP/JSF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

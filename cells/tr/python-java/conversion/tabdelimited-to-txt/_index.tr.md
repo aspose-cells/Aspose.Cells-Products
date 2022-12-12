@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla TABDELIMITED'i TXT'ye dönüştürün
-url: /tr/python-java/conversion/tabdelimited-to-txt/
+
 description: Tabdelited to txt Python dönüşümü için örnek kod. Python uygulamasında toplu sekmeyle ayrılmış dosyalardan txt'ye dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

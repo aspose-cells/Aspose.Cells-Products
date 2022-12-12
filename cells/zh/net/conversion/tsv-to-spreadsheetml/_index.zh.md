@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 C# 将 TSV 转换为 SPREADSHEETML
-url: /zh/net/conversion/tsv-to-spreadsheetml/
+
 description: tsv 到电子表格 C# 转换的示例代码。在 VB.NET、Asp.NET 或任何基于 .NET 的应用程序中使用 API 示例代码将批处理 tsv 文件转换为电子表格。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

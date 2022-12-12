@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir FODS en XML via C#
-url: /fr/net/conversion/fods-to-xml/
+
 description: Exemple de code pour la conversion de fods en xml C#. Utilisez l'exemple de code API pour les fichiers fods par lots en conversion xml dans VB.NET, Asp.NET ou toute application basée sur .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

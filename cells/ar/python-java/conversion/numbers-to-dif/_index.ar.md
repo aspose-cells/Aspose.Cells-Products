@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل الأرقام إلى DIF عبر Python
-url: /ar/python-java/conversion/numbers-to-dif/
+
 description: نموذج كود للأرقام لمفرق التحويل Python. استخدم API مثال الكود لملفات أرقام الدُفعات من أجل ديف التحويل داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

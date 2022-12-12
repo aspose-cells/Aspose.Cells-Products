@@ -1,7 +1,7 @@
-﻿---
+---
 title: تطبيق محول جداول بيانات SharePoint Excel - Aspose 
 weight: 940
-url: /ar/sharepoint/ 
+
 description: Aspose.Cells لتطبيق SharePoint هو محول جداول بيانات SharePoint Excel. تصدير XLS XLSX XML CSV PDF ODS & amp؛ تنسيقات HTML في MOSS WSS
 ---
 {{< blocks/products/pf/main-wrap-class >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj XLT na XLSM przez Python
-url: /pl/python-java/conversion/xlt-to-xlsm/
+
 description: Przykładowy kod konwersji xlt do xlsm Python. Użyj przykładowego kodu API dla wsadowych plików xlt do konwersji xlsm w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte SPREADSHEETML na MHTML pomocí aplikace C++ 
-url: /cs/cpp/conversion/spreadsheetml-to-mhtml/ 
+
 description: Ukázka převodního kódu C++ pro dokument SPREADSHEETML do formátu MHTML. Programátoři mohou použít tento zdrojový kód pro dávkový převod SPREADSHEETML do MHTML v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

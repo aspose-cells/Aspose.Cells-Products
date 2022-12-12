@@ -1,6 +1,6 @@
-﻿---
+---
 title: Maak staafdiagrammen via Python
-url: /nl/python-java/create-bar-chart/
+
 description: Python Voorbeeldcode voor het maken van staafdiagrammen naar Excel met Python Bibliotheek. Gebruik deze code voor het maken van een staafdiagram naar MS Excel binnen een op Python gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter FODS para ODS via Java 
-url: /pt/java/conversion/fods-to-ods/ 
+
 description: Exemplo de código de conversão Java para formato FODS para arquivo ODS. Os programadores podem usar este código de exemplo para exportar planilhas do Excel e OpenOffice para ODS em qualquer aplicativo baseado na Web ou Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

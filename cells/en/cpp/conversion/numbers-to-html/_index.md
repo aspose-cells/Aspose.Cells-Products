@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to HTML via C++
-url: /cpp/conversion/numbers-to-html/
+
 description: Convert NUMBERS to HTML format in C++ code. Save NUMBERS as HTML using C++.
 ---
 

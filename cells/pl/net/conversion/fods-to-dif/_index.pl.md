@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj FODS na DIF przez C#
-url: /pl/net/conversion/fods-to-dif/
+
 description: Przykładowy kod dla konwersji fods C#. Użyj przykładowego kodu API dla wsadowych plików fod do konwersji różnic w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

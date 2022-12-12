@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通过 .NET 给 XLSM 文档添加水印 
 weight: 8270
-url: /zh/net/watermark/xlsm/ 
+
 description: C# 源代码，用于在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上向 XLSM 文件添加或删除水印。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

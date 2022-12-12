@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie JPG in DOCX über Python
-url: /de/python-java/conversion/jpg-to-docx/
+
 description: Beispielcode für die Umwandlung von jpg in docx Python. Verwenden Sie den API Beispielcode für die Batch-Konvertierung von JPG-Dateien in DocX innerhalb der Anwendung Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer XLS naar BMP via Java 
 weight: 2560
-url: /nl/java/conversion/xls-to-bmp/ 
+
 description: Voorbeeld Java conversiecode voor XLS-indeling naar BMP-bestand. Programmeurs kunnen deze voorbeeldcode gebruiken om Excel- en OpenOffice-spreadsheets naar BMP te exporteren binnen elke web- of desktoptoepassing Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

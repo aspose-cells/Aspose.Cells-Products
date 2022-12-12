@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# üzerinden TSV'yi MARKDOWN'a dönüştürün
-url: /tr/net/conversion/tsv-to-markdown/
+
 description: C# dönüşümünü işaretlemek için tsv için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde dönüştürmeyi işaretlemek için toplu tsv dosyaları için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

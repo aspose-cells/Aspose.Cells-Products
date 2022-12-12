@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してTABDELIMITEDをHTMLに変換します
-url: /ja/python-java/conversion/tabdelimited-to-html/
+
 description: tabdelimitedからhtmlPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチタブ区切りファイルからhtmlへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: C#を介してXLTをバイト配列に変換します 
 weight: 7690
-url: /ja/net/conversion/xlt-to-byte-array/ 
+
 description: C#XLTからバイト配列への変換のサンプルコード。このコードは、VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのExcelXLTからバイト配列への変換に使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

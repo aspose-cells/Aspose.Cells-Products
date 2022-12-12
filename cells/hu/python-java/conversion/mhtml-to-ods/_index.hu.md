@@ -1,6 +1,6 @@
-﻿---
+---
 title: "MHTML konvertálása ODS-vé a következőn keresztül: Python"
-url: /hu/python-java/conversion/mhtml-to-ods/
+
 description: Mintakód az mhtml-ből ods Python konverzióhoz. Használjon API példakódot az mhtml fájlok kötegelt ods konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή TABDELIMITED σε ODS μέσω Python
-url: /el/python-java/conversion/tabdelimited-to-ods/
+
 description: Δείγμα κώδικα για μετατροπή οριοθετημένης καρτέλας σε ods Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικές μετατροπές οριοθετημένων καρτελών σε αποδόσεις εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

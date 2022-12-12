@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してMHTMLをODSに変換する 
 weight: 9670
-url: /ja/java/conversion/mhtml-to-ods/ 
+
 description: MHTML形式からODSファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のODSにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

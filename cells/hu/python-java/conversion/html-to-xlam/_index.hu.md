@@ -1,6 +1,6 @@
-﻿---
+---
 title: "HTML konvertálása XLAM-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/html-to-xlam/
+
 description: Mintakód a html-ből xlam Python-ba való konverzióhoz. Használjon API példakódot kötegelt html-fájlokhoz az xlam-konverzióhoz a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

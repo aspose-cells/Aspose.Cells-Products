@@ -1,7 +1,7 @@
 ---
 title: Insert Label(Form control) into Excel via Python 
 weight: 80
-url: /python-net/developer/insert-form-control-label-to-excel/ 
+
 description: Python source code to insert Label(Form control) into Excel.
 ---
 

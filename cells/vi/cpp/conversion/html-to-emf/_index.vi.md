@@ -1,7 +1,7 @@
-﻿---
+---
 title: Chuyển đổi HTML sang EMF qua ứng dụng C++ 
 weight: 8550
-url: /vi/cpp/conversion/html-to-emf/ 
+
 description: Mã chuyển đổi C++ mẫu cho tài liệu HTML sang định dạng EMF. Lập trình viên có thể sử dụng mã nguồn này để chuyển đổi hàng loạt HTML sang EMF trong bất kỳ Ứng dụng C++ nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

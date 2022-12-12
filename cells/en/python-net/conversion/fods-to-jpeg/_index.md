@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to JPEG via Python
-url: /python-net/conversion/fods-to-jpeg/
+
 description: Sample code for fods to jpeg Python conversion. Use API example code for batch fods files to jpeg conversion within Python application.
 ---
 

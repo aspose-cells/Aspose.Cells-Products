@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển NUMBERS thành XLAM qua Python
-url: /vi/python-java/conversion/numbers-to-xlam/
+
 description: Mã mẫu cho chuyển đổi số thành xlam Python. Sử dụng mã mẫu API cho các tệp số lô để chuyển đổi xlam trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

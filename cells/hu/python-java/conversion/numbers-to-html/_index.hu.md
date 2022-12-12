@@ -1,6 +1,6 @@
-﻿---
+---
 title: "NUMBERS konvertálása HTML-be a következőn keresztül: Python"
-url: /hu/python-java/conversion/numbers-to-html/
+
 description: Mintakód számok html Python konvertálásához. Használjon API példakódot a kötegszámfájlokhoz a html konverzióhoz a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

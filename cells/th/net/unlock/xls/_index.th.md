@@ -1,7 +1,7 @@
-﻿---
+---
 title: ปลดล็อกเอกสาร XLS ผ่าน .NET 
 weight: 4260
-url: /th/net/unlock/xls/ 
+
 description: C# ซอร์สโค้ดเพื่อปลดล็อกไฟล์ XLS ที่ป้องกันด้วยรหัสผ่านบน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

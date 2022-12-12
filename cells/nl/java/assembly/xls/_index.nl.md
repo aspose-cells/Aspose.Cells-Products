@@ -1,7 +1,7 @@
-﻿---
+---
 title: Rapporten genereren in XLS-bestanden via Java 
 weight: 1090
-url: /nl/java/assembly/xls/ 
+
 description: Java voorbeeldcode om rapporten in XLS-indeling te maken op Java Runtime Environment voor JSP/JSF-applicaties en desktopapplicaties.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to BMP via C++
-url: /cpp/conversion/html-to-bmp/
+
 description: Convert HTML to BMP format in C++ code. Save HTML as BMP using C++.
 ---
 

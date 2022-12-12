@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してXLSBをPDFに変換する
-url: /ja/net/conversion/xlsb-to-pdf/
+
 description: xlsbからpdfC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチxlsbファイルからpdfへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

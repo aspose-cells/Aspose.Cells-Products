@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование CSV в SPREADSHEETML через C#
-url: /ru/net/conversion/csv-to-spreadsheetml/
+
 description: Пример кода для преобразования csv в электронную таблицуml C#. Используйте пример кода API для пакетного преобразования CSV-файлов в электронные таблицы в рамках VB.NET, Asp.NET или любого приложения на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

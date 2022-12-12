@@ -1,6 +1,6 @@
-﻿---
+---
 title: ODS'yi C# aracılığıyla SVG'ye dönüştürün
-url: /tr/net/conversion/ods-to-svg/
+
 description: ods'den svg C# dönüşümüne ilişkin örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu ods dosyalarından svg'ye dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

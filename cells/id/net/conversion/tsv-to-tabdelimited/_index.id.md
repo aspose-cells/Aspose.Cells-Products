@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan TSV ke TABDELIMITED melalui C#
-url: /id/net/conversion/tsv-to-tabdelimited/
+
 description: Contoh kode untuk konversi tsv ke tabdelimited C#. Gunakan API kode contoh untuk berkas tsv batch ke konversi tabdelimited dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

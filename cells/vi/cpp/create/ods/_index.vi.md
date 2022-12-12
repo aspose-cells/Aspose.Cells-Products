@@ -1,6 +1,6 @@
-﻿---
+---
 title: Tạo tệp ODS (Openoffice / Lbreoffice) qua C++ 
-url: /vi/cpp/create-ods/ 
+
 description: C++ Mã mẫu để tạo tệp ODS (Openoffice / Lbreoffice). Sử dụng mã này để tạo tệp ODS (Openoffice / Lbreoffice) trong ứng dụng dựa trên C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

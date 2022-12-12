@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python के माध्यम से HTML को XLTX में बदलें
-url: /hi/python-java/conversion/html-to-xltx/
+
 description: html से xltx Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर html फ़ाइलों को xltx रूपांतरण में बैच के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

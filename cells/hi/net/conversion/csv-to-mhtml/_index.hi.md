@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# के माध्यम से CSV को MHTML में बदलें
-url: /hi/net/conversion/csv-to-mhtml/
+
 description: csv से mhtml C# रूपांतरण के लिए नमूना कोड। वीबी.NET, एएसपी.NET या किसी भी .NET आधारित एप्लिकेशन के भीतर बैच सीएसवी फाइलों से एमएचटीएमएल रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

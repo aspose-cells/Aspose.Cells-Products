@@ -1,6 +1,6 @@
 ---
 title: Merge CSV to TSV Files via Python 
-url: /python-java/merger/merge-csv-to-tsv/ 
+
 description: Merge CSV to TSV file in Python code. Combine CSV to TSV file using Python.
 ---
 

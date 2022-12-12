@@ -1,6 +1,6 @@
-﻿---
+---
 title: "CSV konvertálása XLTX-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/csv-to-xltx/
+
 description: Mintakód a csv–xltx Python konverzióhoz. Használjon API példakódot a csv fájlok kötegelt xltx konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

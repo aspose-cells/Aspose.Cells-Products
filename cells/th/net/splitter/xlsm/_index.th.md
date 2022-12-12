@@ -1,7 +1,7 @@
-﻿---
+---
 title: แยกไฟล์ XLSM ผ่าน .NET 
 weight: 8890
-url: /th/net/splitter/xlsm/ 
+
 description: C# ซอร์สโค้ดเพื่อแยกเอกสาร XLSM บน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

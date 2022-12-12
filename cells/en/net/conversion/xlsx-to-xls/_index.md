@@ -1,6 +1,6 @@
 ---
 title: Convert XLSX to XLS via C#
-url: /net/conversion/xlsx-to-xls/
+
 description: Convert XLSX to XLS format in C# code. Save XLSX as XLS using VB.NET, Asp.NET or any .NET based application.
 ---
 

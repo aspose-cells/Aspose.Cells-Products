@@ -1,6 +1,6 @@
-﻿---
+---
 title: NUMBERS को Python के द्वारा FODS में बदलें
-url: /hi/python-java/conversion/numbers-to-fods/
+
 description: संख्याओं के लिए नमूना कोड से fods Python रूपांतरण। Python एप्लिकेशन के भीतर बैच नंबर फ़ाइलों को फोड रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

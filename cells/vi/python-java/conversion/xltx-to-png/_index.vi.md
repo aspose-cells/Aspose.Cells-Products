@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi XLTX sang PNG qua Python
-url: /vi/python-java/conversion/xltx-to-png/
+
 description: Mã mẫu cho chuyển đổi xltx sang png Python. Sử dụng API mã mẫu cho hàng loạt tệp xltx sang chuyển đổi png trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

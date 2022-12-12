@@ -1,7 +1,7 @@
-﻿---
+---
 title: بحث في مستند XLSM بدون فتح عبر .NET 
 weight: 4880
-url: /ar/net/search/xlsm/ 
+
 description: C# شفرة المصدر للبحث عن الكلمات ذات النمط في ملف XLSM على الأنظمة الأساسية .NET Framework أو .NET Core أو Mono أو Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

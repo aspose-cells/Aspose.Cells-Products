@@ -1,6 +1,6 @@
-﻿---
+---
 title: Excel Elektronik Tablosunu Java içinde Çalışma Sayfalarına Böl
-url: /tr/java/splitter/
+
 description: Java Excel kitaplığı kullanılarak Microsoft Excel dosyalarının birden çok belgeye nasıl bölüneceğini açıklayan Java kaynak kodları
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

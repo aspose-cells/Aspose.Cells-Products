@@ -1,6 +1,6 @@
-﻿---
+---
 title: Создавайте PDF-файлы с помощью Python 
-url: /ru/python-java/create-pdf/ 
+
 description: Python Пример кода для создания PDF-документов. Используйте этот код для создания файлов PDF в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

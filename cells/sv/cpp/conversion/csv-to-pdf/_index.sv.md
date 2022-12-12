@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertera CSV till PDF via programmet C++ 
 weight: 8330
-url: /sv/cpp/conversion/csv-to-pdf/ 
+
 description: Exempel på C++-konverteringskod för CSV-dokument till PDF-format. Programmerare kan använda den här källkoden för batchkonvertering av CSV till PDF i alla C++-program.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

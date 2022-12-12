@@ -1,6 +1,6 @@
-﻿---
+---
 title: قم بتحويل XLTX إلى ODS عبر تطبيق C++ 
-url: /ar/cpp/conversion/xltx-to-ods/ 
+
 description: نموذج C++ كود التحويل لوثيقة XLTX إلى تنسيق ODS. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل XLTX دفعة واحدة إلى ODS في أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

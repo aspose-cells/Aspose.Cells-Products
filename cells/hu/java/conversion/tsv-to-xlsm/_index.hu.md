@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TSV konvertálása XLSM-re a következőn keresztül: Java "
-url: /hu/java/conversion/tsv-to-xlsm/ 
+
 description: Minta Java konverziós kód a TSV formátumhoz XLSM fájllá. A programozók ezt a példakódot használhatják Excel- és OpenOffice-táblázatok XLSM-be exportálására bármely web- vagy asztali Java-alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

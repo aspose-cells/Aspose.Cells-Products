@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLSM konvertálása DIF-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/xlsm-to-dif/
+
 description: Mintakód az xlsm to dif Python konverzióhoz. Használjon API példakódot kötegelt xlsm fájlokhoz a Python alkalmazáson belüli átalakításhoz.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

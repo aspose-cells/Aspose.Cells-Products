@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj MHTML na MD przez Python
-url: /pl/python-java/conversion/mhtml-to-md/
+
 description: Przykładowy kod konwersji mhtml do md Python. Użyj przykładowego kodu API dla wsadowych plików mhtml do konwersji md w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "HTML konvertálása SVG-vé a következőn keresztül: Python"
-url: /hu/python-java/conversion/html-to-svg/
+
 description: Mintakód a html-ből svg-be Python történő konverzióhoz. Használjon API példakódot kötegelt html fájlok SVG konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

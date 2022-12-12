@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj XLSM na DIF przez Python
-url: /pl/python-java/conversion/xlsm-to-dif/
+
 description: Przykładowy kod konwersji xlsm do różnic Python. Użyj przykładowego kodu API dla wsadowych plików xlsm do konwersji różnic w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

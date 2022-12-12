@@ -1,6 +1,6 @@
 ---
 title: Merge NUMBERS to ODS Files via Python 
-url: /python-net/merger/merge-numbers-to-ods/ 
+
 description: Merge NUMBERS to ODS file in Python code. Combine NUMBERS to ODS file using Python.
 ---
 

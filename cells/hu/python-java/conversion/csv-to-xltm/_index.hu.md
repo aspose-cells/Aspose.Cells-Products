@@ -1,6 +1,6 @@
-﻿---
+---
 title: "CSV konvertálása XLTM-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/csv-to-xltm/
+
 description: Mintakód a csv–xltm Python konverzióhoz. Használjon API példakódot a kötegelt csv fájlok xltm konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

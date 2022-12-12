@@ -1,7 +1,7 @@
-﻿---
+---
 title: Vyhledejte a nahraďte text v dokumentu XLSB prostřednictvím C++ 
 weight: 6660
-url: /cs/cpp/redaction/xlsb/ 
+
 description: C++ ukázkový kód pro redigování citlivých informací v souboru XLSB v C++ Runtime Environment pro Windows 32 bit, Windows 64 bit a Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Redigera XLSB-filer via .NET 
-url: /sv/net/editor/xlsb/ 
+
 description: C# källkod för att redigera XLSB-dokument på .NET Framework, .NET Core, Windows Azure, Mono eller Xamarin-plattformar.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

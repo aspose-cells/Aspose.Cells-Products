@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer HTML naar CSV via C++ applicatie 
 weight: 6850
-url: /nl/cpp/conversion/html-to-csv/ 
+
 description: Voorbeeld C++ conversiecode voor HTML-document naar CSV-indeling. Programmeurs kunnen deze broncode gebruiken voor batch-HTML-naar-CSV-conversie binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

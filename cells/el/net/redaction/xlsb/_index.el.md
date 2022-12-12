@@ -1,7 +1,7 @@
-﻿---
+---
 title: Αναζήτηση και αντικατάσταση κειμένου σε έγγραφο XLSB μέσω .NET 
 weight: 3890
-url: /el/net/redaction/xlsb/ 
+
 description: C# πηγαίος κώδικας για διόρθωση ευαίσθητων πληροφοριών σε αρχείο XLSB σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

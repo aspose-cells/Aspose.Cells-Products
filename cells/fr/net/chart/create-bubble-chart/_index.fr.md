@@ -1,6 +1,6 @@
-﻿---
+---
 title: Créer des graphiques à bulles via C#
-url: /fr/net/create-bubble-chart/
+
 description: C# Exemple de code pour créer des graphiques à bulles dans Excel à l'aide de la bibliothèque .NET. Utilisez ce code pour créer un graphique {chart} vers MS Excel dans VB.NET, Asp.NET ou toute application basée sur .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

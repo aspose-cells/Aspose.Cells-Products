@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してTABDELIMITEDをXLSに変換します
-url: /ja/python-java/conversion/tabdelimited-to-xls/
+
 description: tabdelimitedからxlsPythonへの変換のサンプルコード。 Pythonアプリケーション内でタブ区切りファイルをxlsに変換するには、APIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

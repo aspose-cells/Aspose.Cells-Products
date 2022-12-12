@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してNUMBERSをODSに変換します 
-url: /ja/java/conversion/numbers-to-ods/ 
+
 description: NUMBERS形式のサンプルJava変換コードからODSファイルへ。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のODSにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

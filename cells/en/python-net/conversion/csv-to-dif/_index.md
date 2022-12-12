@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to DIF via Python
-url: /python-net/conversion/csv-to-dif/
+
 description: Sample code for csv to dif Python conversion. Use API example code for batch csv files to dif conversion within Python application.
 ---
 

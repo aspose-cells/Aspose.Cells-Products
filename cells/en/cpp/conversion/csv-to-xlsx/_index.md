@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to XLSX via C++
-url: /cpp/conversion/csv-to-xlsx/
+
 description: Convert CSV to XLSX format in C++ code. Save CSV as XLSX using C++.
 ---
 

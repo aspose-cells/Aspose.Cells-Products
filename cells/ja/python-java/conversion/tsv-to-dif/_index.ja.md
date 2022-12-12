@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してTSVをDIFに変換します
-url: /ja/python-java/conversion/tsv-to-dif/
+
 description: tsvからdifPythonへの変換のサンプルコード。 Pythonアプリケーション内で変換をdifするためのバッチtsvファイルのAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

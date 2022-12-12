@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi TABDELIMITED thành BMP qua ứng dụng C++ 
-url: /vi/cpp/conversion/tabdelimited-to-bmp/ 
+
 description: Mã chuyển đổi C++ mẫu cho tài liệu TABDELIMITED sang định dạng BMP. Lập trình viên có thể sử dụng mã nguồn này để chuyển đổi hàng loạt TABDELIMITED thành BMP trong bất kỳ Ứng dụng C++ nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

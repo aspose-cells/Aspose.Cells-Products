@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi TXT sang DIF qua Python
-url: /vi/python-java/conversion/txt-to-dif/
+
 description: Mã mẫu cho chuyển đổi txt sang dif Python. Sử dụng API mã ví dụ cho các tệp txt hàng loạt để chuyển đổi khác trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

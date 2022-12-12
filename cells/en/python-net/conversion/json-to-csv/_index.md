@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to CSV via Python
-url: /python-net/conversion/json-to-csv/
+
 description: Sample code for json to csv Python conversion. Use API example code for batch json files to csv conversion within Python application.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLSX в XML с помощью приложения C++ 
-url: /ru/cpp/conversion/xlsx-to-xml/ 
+
 description: Пример кода преобразования C++ для документа XLSX в формат XML. Программисты могут использовать этот исходный код для пакетного преобразования XLSX в XML в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

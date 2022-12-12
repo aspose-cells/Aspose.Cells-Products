@@ -1,6 +1,6 @@
-﻿---
+---
 title: ODS'yi Python aracılığıyla MD'ye dönüştürün
-url: /tr/python-java/conversion/ods-to-md/
+
 description: ods'den md'ye Python dönüştürme için örnek kod. Python uygulamasında toplu ods dosyalarından md'ye dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

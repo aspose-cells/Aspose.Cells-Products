@@ -1,6 +1,6 @@
-﻿---
+---
 title: XLTM को C# के द्वारा EMF में बदलें
-url: /hi/net/conversion/xltm-to-emf/
+
 description: एक्सएलटीएम से ईएमएफ C# रूपांतरण के लिए नमूना कोड। वीबी.NET, एएसपी.NET या किसी भी .NET आधारित एप्लिकेशन के भीतर ईएमएफ रूपांतरण के लिए बैच xltm फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

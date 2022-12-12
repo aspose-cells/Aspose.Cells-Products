@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to DIF via Python
-url: /python-net/conversion/xlt-to-dif/
+
 description: Sample code for xlt to dif Python conversion. Use API example code for batch xlt files to dif conversion within Python application.
 ---
 

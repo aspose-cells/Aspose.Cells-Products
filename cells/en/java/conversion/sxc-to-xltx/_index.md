@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to XLTX via Java 
-url: /java/conversion/sxc-to-xltx/
+
 description: Convert SXC to XLTX format in Java code. Save SXC as XLTX using Java.
 ---
 

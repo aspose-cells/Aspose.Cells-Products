@@ -1,6 +1,6 @@
 ---
 title: Merge HTML to NUMBERS Files via C++ 
-url: /cpp/merger/merge-html-to-numbers/ 
+
 description: Merge HTML to NUMBERS file in C++ code. Combine HTML to NUMBERS file using C++.
 ---
 

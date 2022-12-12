@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to TXT via Java 
-url: /java/conversion/numbers-to-txt/
+
 description: Convert NUMBERS to TXT format in Java code. Save NUMBERS as TXT using Java.
 ---
 

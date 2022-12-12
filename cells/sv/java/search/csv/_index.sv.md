@@ -1,7 +1,7 @@
-﻿---
+---
 title: Sök i CSV-dokument utan att öppna via Java 
 weight: 390
-url: /sv/java/search/csv/ 
+
 description: Java exempelkod för att söka efter ord med mönster i CSV-fil i Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

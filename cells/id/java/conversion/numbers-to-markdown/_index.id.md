@@ -1,6 +1,6 @@
-﻿---
+---
 title: Ubah NUMBER ke MARKDOWN melalui Java 
-url: /id/java/conversion/numbers-to-markdown/ 
+
 description: Contoh Java kode konversi untuk format ANGKA ke file MARKDOWN. Pemrogram dapat menggunakan kode contoh ini untuk mengekspor spreadsheet Excel & OpenOffice ke MARKDOWN dalam Aplikasi berbasis Web atau Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

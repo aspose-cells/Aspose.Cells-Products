@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie ODS in MD über C#
-url: /de/net/conversion/ods-to-md/
+
 description: Beispielcode für die Umwandlung von ods in md C#. Verwenden Sie API Beispielcode für die Batch-Konvertierung von ODS-Dateien in MD innerhalb von VB.NET, Asp.NET oder einer beliebigen .NET-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

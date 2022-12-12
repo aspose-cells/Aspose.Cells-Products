@@ -1,7 +1,7 @@
-﻿---
+---
 title: Rozhraní API Node.js pro tabulky Excel – Aspose 
 weight: 3120
-url: /cs/nodejs-java/ 
+
 description: Zpracujte formáty souborů Excel prostřednictvím knihovny Node.js. Čtení zápisu vykreslování a převod XLS XLSX XLSB XLTX XLTM XLSM XML ODS CSV a dalších formátů přes Node.js na Windows, MacOS a Linux
 ---
 {{< blocks/products/pf/main-wrap-class >}}

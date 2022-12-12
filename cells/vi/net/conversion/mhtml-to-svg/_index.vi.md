@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển MHTML sang SVG qua C#
-url: /vi/net/conversion/mhtml-to-svg/
+
 description: Mã mẫu cho chuyển đổi mhtml sang svg C#. Sử dụng API mã mẫu cho hàng loạt tệp mhtml để chuyển đổi svg trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

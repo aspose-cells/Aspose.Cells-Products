@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi TXT ke MD melalui C++ aplikasi 
-url: /id/cpp/conversion/txt-to-md/ 
+
 description: Contoh C++ kode konversi untuk dokumen TXT ke format MD. Pemrogram dapat menggunakan kode sumber ini untuk konversi batch TXT ke MD dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

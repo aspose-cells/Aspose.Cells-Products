@@ -1,7 +1,7 @@
-﻿---
+---
 title: MHTML-bestanden samenvoegen via .NET 
 weight: 2610
-url: /nl/net/merger/mhtml/ 
+
 description: C# broncode om MHTML-documenten te combineren op .NET Framework, .NET Core, Mono of Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

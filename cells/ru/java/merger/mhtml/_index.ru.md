@@ -1,7 +1,7 @@
-﻿---
+---
 title: Объединить файлы MHTML через Java 
 weight: 4420
-url: /ru/java/merger/mhtml/ 
+
 description: Пример кода Java для объединения документов MHTML в Java среде выполнения для приложений JSP/JSF и настольных приложений.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง JSON เป็น PDF ผ่าน C#
-url: /th/net/conversion/json-to-pdf/
+
 description: โค้ดตัวอย่างสำหรับการแปลง json เป็น pdf C# ใช้โค้ดตัวอย่าง API สำหรับไฟล์แบตช์ json เป็นการแปลง pdf ภายใน VB.NET, Asp.NET หรือแอปพลิเคชันที่ใช้ .NET
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

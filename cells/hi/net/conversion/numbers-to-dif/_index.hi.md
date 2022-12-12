@@ -1,6 +1,6 @@
-﻿---
+---
 title: NUMBERS को C# के द्वारा DIF में बदलें
-url: /hi/net/conversion/numbers-to-dif/
+
 description: भिन्न C# रूपांतरण के लिए संख्याओं के लिए नमूना कोड। VB.NET, Asp.NET या किसी .NET आधारित एप्लिकेशन के भीतर रूपांतरण को अलग करने के लिए बैच नंबर फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

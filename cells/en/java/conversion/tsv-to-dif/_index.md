@@ -1,6 +1,6 @@
 ---
 title: Convert TSV to DIF via Java 
-url: /java/conversion/tsv-to-dif/
+
 description: Convert TSV to DIF format in Java code. Save TSV as DIF using Java.
 ---
 

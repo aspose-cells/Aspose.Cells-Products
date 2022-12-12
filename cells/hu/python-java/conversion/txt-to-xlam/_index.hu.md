@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TXT konvertálása XLAM-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/txt-to-xlam/
+
 description: Mintakód a txt-ből xlam Python konvertáláshoz. Használjon API példakódot a kötegelt txt fájlok xlam konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

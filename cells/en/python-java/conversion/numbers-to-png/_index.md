@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to PNG via Python
-url: /python-java/conversion/numbers-to-png/
+
 description: Convert NUMBERS to PNG format in Python code. Save NUMBERS as PNG using Python.
 ---
 

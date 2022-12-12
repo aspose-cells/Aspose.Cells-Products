@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja a HTML-t TXT-re a(z) C++ alkalmazással 
-url: /hu/cpp/conversion/html-to-txt/ 
+
 description: Minta C++ konverziós kód HTML-dokumentumhoz TXT formátumba. A programozók ezt a forráskódot használhatják HTML-ből TXT-be kötegelt konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

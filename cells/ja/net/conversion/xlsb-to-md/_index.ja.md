@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してXLSBをMDに変換します
-url: /ja/net/conversion/xlsb-to-md/
+
 description: xlsbからmdC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチxlsbファイルからmdへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

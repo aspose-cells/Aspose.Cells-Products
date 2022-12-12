@@ -1,7 +1,7 @@
-﻿---
+---
 title: Μετατροπή XLSM σε JPEG μέσω Java 
 weight: 560
-url: /el/java/conversion/xlsm-to-jpeg/ 
+
 description: Δείγμα κώδικα μετατροπής Java για μορφή XLSM σε αρχείο JPEG. Οι προγραμματιστές μπορούν να χρησιμοποιήσουν αυτό το παράδειγμα κώδικα για να εξάγουν υπολογιστικά φύλλα Excel και OpenOffice σε JPEG σε οποιαδήποτε εφαρμογή που βασίζεται στον Ιστό ή στην επιφάνεια εργασίας Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

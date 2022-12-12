@@ -1,7 +1,7 @@
-﻿---
+---
 title: Преобразование CSV в MHTML через Java 
 weight: 9650
-url: /ru/java/conversion/csv-to-mhtml/ 
+
 description: Пример кода преобразования Java для формата CSV в файл MHTML. Программисты могут использовать этот пример кода для экспорта электронных таблиц Excel и OpenOffice в формат MHTML в любом веб- или настольном Java приложении.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

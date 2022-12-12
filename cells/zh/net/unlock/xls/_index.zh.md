@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通过 .NET 解锁 XLS 文档 
 weight: 4260
-url: /zh/net/unlock/xls/ 
+
 description: C# 用于在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上解锁受密码保护的 XLS 文件的源代码。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

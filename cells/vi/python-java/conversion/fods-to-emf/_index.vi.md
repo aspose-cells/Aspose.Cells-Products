@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi FODS sang EMF qua Python
-url: /vi/python-java/conversion/fods-to-emf/
+
 description: Mã mẫu cho chuyển đổi fods thành emf Python. Sử dụng mã mẫu API cho các tệp fods hàng loạt để chuyển đổi emf trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

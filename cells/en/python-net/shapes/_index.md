@@ -1,6 +1,6 @@
 ---
 title: Insert shapes in Excel via Python 
-url: /python-net/shapes/
+
 description: Python source codes that how to insert a shape into Microsoft Excel files using Python Library. 
 ---
 

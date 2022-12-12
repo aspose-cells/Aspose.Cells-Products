@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование HTML в MHTML через Python
-url: /ru/python-java/conversion/html-to-mhtml/
+
 description: Пример кода для преобразования html в mhtml Python. Используйте пример кода API для пакетного преобразования файлов html в mhtml в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

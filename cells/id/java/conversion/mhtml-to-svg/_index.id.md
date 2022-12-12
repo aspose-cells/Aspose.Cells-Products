@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversikan MHTML ke SVG melalui Java 
 weight: 8850
-url: /id/java/conversion/mhtml-to-svg/ 
+
 description: Contoh Java kode konversi untuk format MHTML ke file SVG. Pemrogram dapat menggunakan kode contoh ini untuk mengekspor spreadsheet Excel & OpenOffice ke SVG dalam Aplikasi berbasis Web atau Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

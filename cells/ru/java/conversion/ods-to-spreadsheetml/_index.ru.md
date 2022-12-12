@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование ODS в SPREADSHETML через Java 
-url: /ru/java/conversion/ods-to-spreadsheetml/ 
+
 description: Пример кода преобразования Java для формата ODS в файл SPREADSHEETML. Программисты могут использовать этот пример кода для экспорта электронных таблиц Excel и OpenOffice в SPREADSHEETML в любом веб-или настольном Java приложении.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

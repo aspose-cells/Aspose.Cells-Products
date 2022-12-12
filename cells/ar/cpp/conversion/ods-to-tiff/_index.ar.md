@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل ODS إلى TIFF عبر تطبيق C++ 
 weight: 8450
-url: /ar/cpp/conversion/ods-to-tiff/ 
+
 description: نموذج C++ كود تحويل لمستند ODS إلى تنسيق TIFF. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل دفعة من ODS إلى TIFF داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

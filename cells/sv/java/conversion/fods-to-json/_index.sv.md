@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera FODS till JSON via Java 
-url: /sv/java/conversion/fods-to-json/ 
+
 description: Exempel Java-konverteringskod för FODS-format till JSON-fil. Programmerare kan använda den här exempelkoden för att exportera Excel- och OpenOffice-kalkylblad till JSON inom alla webb- eller skrivbordsbaserade Java-applikationer.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converter XLSB para DIF via Java 
 weight: 6840
-url: /pt/java/conversion/xlsb-to-dif/ 
+
 description: Exemplo de código de conversão Java para formato XLSB para arquivo DIF. Os programadores podem usar este código de exemplo para exportar planilhas do Excel e OpenOffice para DIF em qualquer aplicativo baseado na Web ou Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

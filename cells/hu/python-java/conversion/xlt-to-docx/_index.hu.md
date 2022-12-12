@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLT konvertálása DOCX-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/xlt-to-docx/
+
 description: Mintakód az xlt–docx Python konverzióhoz. Használjon API példakódot a kötegelt xlt fájlok docx konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

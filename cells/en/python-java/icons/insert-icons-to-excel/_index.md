@@ -1,7 +1,7 @@
 ---
 title: Insert Icons into Excel via Python 
 weight: 200
-url: /python-java/icons/insert-icons-to-excel/ 
+
 description: Python source code to insert Icons into Excel.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to JPG via C#
-url: /net/conversion/xltx-to-jpg/
+
 description: Convert XLTX to JPG format in C# code. Save XLTX as JPG using VB.NET, Asp.NET or any .NET based application.
 ---
 

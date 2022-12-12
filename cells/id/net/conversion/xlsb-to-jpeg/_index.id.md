@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan XLSB ke JPEG melalui C#
-url: /id/net/conversion/xlsb-to-jpeg/
+
 description: Contoh kode untuk konversi xlsb ke jpeg C#. Gunakan API kode contoh untuk file batch xlsb ke konversi jpeg dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

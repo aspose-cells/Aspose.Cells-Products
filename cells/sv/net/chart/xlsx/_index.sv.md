@@ -1,7 +1,7 @@
-﻿---
+---
 title:  XLSX dokumentdiagram till bilder via .NET 
 weight: 2630
-url: /sv/net/chart/xlsx/ 
+
 description: C# källkod för att rita och konvertera diagram eller diagram i XLSX-fil på .NET Framework, .NET Core, Mono eller Xamarin-plattformar.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

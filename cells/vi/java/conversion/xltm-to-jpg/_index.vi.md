@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi XLTM sang JPG qua Java 
-url: /vi/java/conversion/xltm-to-jpg/ 
+
 description: Mã chuyển đổi Java mẫu cho định dạng XLTM sang tệp JPG. Người lập trình có thể sử dụng mã ví dụ này để xuất bảng tính Excel & OpenOffice sang JPG trong bất kỳ Ứng dụng dựa trên Web hoặc Máy tính để bàn Java nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

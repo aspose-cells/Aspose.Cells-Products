@@ -1,6 +1,6 @@
-﻿---
+---
 title: Gabungkan File MHT melalui .NET 
-url: /id/net/merger/mht/ 
+
 description: Coba API penggabungan pesan Lokal kami untuk menggabungkan dokumen MHT di Platform .NET Framework, .NET Core, dan Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

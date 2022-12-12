@@ -1,6 +1,6 @@
-﻿---
+---
 title: "HTML konvertálása XLS-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/html-to-xls/
+
 description: Mintakód a html-ből xls-be Python konverzióhoz. Használjon API példakódot a html fájlok kötegelt xls formátumba konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

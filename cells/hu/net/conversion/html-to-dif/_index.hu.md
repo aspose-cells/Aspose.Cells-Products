@@ -1,6 +1,6 @@
-﻿---
+---
 title: "HTML konvertálása DIF-re a következőn keresztül: C#"
-url: /hu/net/conversion/html-to-dif/
+
 description: Mintakód a html–diff C# konverzióhoz. Használjon API példakódot kötegelt html-fájlokhoz a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belüli konverzió szétválasztásához.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

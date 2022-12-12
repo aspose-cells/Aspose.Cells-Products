@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to TABDELIMITED via C++
-url: /cpp/conversion/html-to-tabdelimited/
+
 description: Convert HTML to TABDELIMITED format in C++ code. Save HTML as TABDELIMITED using C++.
 ---
 

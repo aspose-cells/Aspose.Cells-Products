@@ -1,7 +1,7 @@
-﻿---
+---
 title: "ODS-fájlok egyesítése a következőn keresztül: .NET "
 weight: 4330
-url: /hu/net/merger/ods/ 
+
 description: C# forráskód az ODS dokumentumok kombinálásához .NET Framework, .NET Core, Mono vagy Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

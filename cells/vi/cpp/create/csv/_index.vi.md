@@ -1,6 +1,6 @@
-﻿---
+---
 title: Tạo Tệp CSV qua C++ 
-url: /vi/cpp/create-csv/ 
+
 description: C++ Mã mẫu để tạo tệp CSV. Sử dụng mã này để tạo tệp CSV trong ứng dụng dựa trên C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

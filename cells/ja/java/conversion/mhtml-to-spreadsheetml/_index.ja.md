@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してMHTMLをSPREADSHEETMLに変換します 
-url: /ja/java/conversion/mhtml-to-spreadsheetml/ 
+
 description: MHTML形式のサンプルJava変換コードからSPREADSHEETMLファイルへ。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のSPREADSHEETMLにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

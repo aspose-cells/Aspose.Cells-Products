@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 C# 将 SXC 转换为 TSV
-url: /zh/net/conversion/sxc-to-tsv/
+
 description: sxc 到 tsv C# 转换的示例代码。使用 API 示例代码在 VB.NET、Asp.NET 或任何基于 .NET 的应用程序中将 sxc 文件批量转换为 tsv。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

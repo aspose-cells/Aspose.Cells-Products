@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést JSON na MD přes C#
-url: /cs/net/conversion/json-to-md/
+
 description: Ukázkový kód pro převod json na md C#. Použijte API ukázkový kód pro dávkový převod souborů json na MD v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل SXC إلى GIF عبر C#
-url: /ar/net/conversion/sxc-to-gif/
+
 description: نموذج كود للتحويل من sxc إلى gif C#. استخدم API رمز المثال لملفات sxc المجمعة لتحويل gif داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

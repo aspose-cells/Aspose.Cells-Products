@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi SPREADSHEETML sang XPS qua Python
-url: /vi/python-java/conversion/spreadsheetml-to-xps/
+
 description: Mã mẫu cho chuyển đổi từ bảng tínhml sang xps Python. Sử dụng API mã ví dụ cho hàng loạt tệpml bảng tính sang chuyển đổi xps trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

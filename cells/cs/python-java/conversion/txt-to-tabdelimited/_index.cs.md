@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TXT na TABDELIMITED přes Python
-url: /cs/python-java/conversion/txt-to-tabdelimited/
+
 description: Ukázkový kód pro převod txt na tabulátory Python. Použijte ukázkový kód API pro dávkové soubory txt na převod oddělený tabulátory v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

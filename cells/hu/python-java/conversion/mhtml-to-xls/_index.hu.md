@@ -1,6 +1,6 @@
-﻿---
+---
 title: "MHTML konvertálása XLS-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/mhtml-to-xls/
+
 description: Mintakód az mhtml–xls Python konverzióhoz. Használjon API példakódot az mhtml fájlok kötegelt xls konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

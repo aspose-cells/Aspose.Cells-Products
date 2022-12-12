@@ -1,6 +1,6 @@
-﻿---
+---
 title: Vytvářejte grafy Excel a převádějte je na obrázky prostřednictvím C++
-url: /cs/cpp/chart/
+
 description: Zdrojový kód C++ pro kreslení a převod grafu nebo diagramu v aplikaci Microsoft Excel pomocí knihovny C++
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

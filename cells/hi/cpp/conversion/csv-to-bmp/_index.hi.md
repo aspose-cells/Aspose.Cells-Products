@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ एप्लिकेशन के माध्यम से CSV को BMP में बदलें 
 weight: 4890
-url: /hi/cpp/conversion/csv-to-bmp/ 
+
 description: नमूना C++ सीएसवी दस्तावेज़ के लिए बीएमपी प्रारूप में रूपांतरण कोड। प्रोग्रामर इस स्रोत कोड का उपयोग किसी भी C++ एप्लिकेशन के भीतर सीएसवी से बीएमपी रूपांतरण के बैच के लिए कर सकते हैं।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

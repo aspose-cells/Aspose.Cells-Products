@@ -1,6 +1,6 @@
-﻿---
+---
 title: FODS'u C# aracılığıyla CSV'ye dönüştürün
-url: /tr/net/conversion/fods-to-csv/
+
 description: Yemlerin csv C# dönüşümüne ilişkin örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu fods dosyalarından csv'ye dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

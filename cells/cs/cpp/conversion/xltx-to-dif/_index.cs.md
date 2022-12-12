@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte XLTX na DIF pomocí aplikace C++ 
-url: /cs/cpp/conversion/xltx-to-dif/ 
+
 description: Ukázka převodního kódu C++ pro dokument XLTX na formát DIF. Programátoři mohou použít tento zdrojový kód pro dávkovou konverzi XLTX na DIF v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

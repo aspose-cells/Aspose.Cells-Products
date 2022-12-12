@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to XLAM via C#
-url: /net/conversion/sxc-to-xlam/
+
 description: Convert SXC to XLAM format in C# code. Save SXC as XLAM using VB.NET, Asp.NET or any .NET based application.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Wandeln Sie SPREADSHEETML über C# in JPEG um
-url: /de/net/conversion/spreadsheetml-to-jpeg/
+
 description: Beispielcode für die Umwandlung von Spreadsheetml in jpeg C#. Verwenden Sie API Beispielcode für die Batch-Konvertierung von Spreadsheetml-Dateien in JPEG innerhalb von VB.NET, Asp.NET oder einer beliebigen .NET-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java aracılığıyla filigran XLS belgesi 
 weight: 2210
-url: /tr/java/watermark/xls/ 
+
 description: JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Runtime Environment'daki XLS dosyasına filigran eklemek veya kaldırmak için Java örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

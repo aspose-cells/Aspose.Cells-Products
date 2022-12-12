@@ -1,7 +1,7 @@
-﻿---
+---
 title: Sloučit soubory ODS přes .NET 
 weight: 4330
-url: /cs/net/merger/ods/ 
+
 description: Zdrojový kód C# pro kombinaci dokumentů ODS na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

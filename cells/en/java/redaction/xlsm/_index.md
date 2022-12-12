@@ -1,7 +1,7 @@
 ---
 title: Search and replace text in XLSM document via Java 
 weight: 1590
-url: /java/redaction/xlsm/ 
+
 description: Java sample code to redact sensitive information in XLSM file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

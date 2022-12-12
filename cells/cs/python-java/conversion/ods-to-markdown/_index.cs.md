@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést ODS na MARKDOWN prostřednictvím Python
-url: /cs/python-java/conversion/ods-to-markdown/
+
 description: Ukázkový kód pro konverzi ods na markdown Python. Použijte API ukázkový kód pro dávkové soubory ods k převodu markdown v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLSB-t JPG-vé a C++ alkalmazással 
-url: /hu/cpp/conversion/xlsb-to-jpg/ 
+
 description: Minta C++ konverziós kód XLSB dokumentumhoz JPG formátumba. A programozók ezt a forráskódot használhatják kötegelt XLSB-ből JPG-vé konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

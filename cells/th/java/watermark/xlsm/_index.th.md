@@ -1,7 +1,7 @@
-﻿---
+---
 title: เอกสารลายน้ำ XLSM ผ่าน Java 
 weight: 7680
-url: /th/java/watermark/xlsm/ 
+
 description: Java ตัวอย่างโค้ดเพื่อเพิ่มหรือลบลายน้ำในไฟล์ XLSM บน Java Runtime Environment สำหรับแอปพลิเคชัน JSP/JSF และแอปพลิเคชันเดสก์ท็อป
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

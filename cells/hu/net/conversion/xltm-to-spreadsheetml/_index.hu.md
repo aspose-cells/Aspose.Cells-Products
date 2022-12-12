@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLTM konvertálása SPREADSHEETML-re a következőn keresztül: C#"
-url: /hu/net/conversion/xltm-to-spreadsheetml/
+
 description: Mintakód az xltm-ből táblázattáblázatba C# konverzióhoz. Használjon API példakódot kötegelt xltm-fájlokhoz a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belüli táblázatkezelő konvertálásához.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

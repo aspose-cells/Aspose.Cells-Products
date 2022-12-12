@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi JSON ke XLSX melalui Python
-url: /id/python-java/conversion/json-to-xlsx/
+
 description: Contoh kode untuk json ke xlsx Python konversi. Gunakan API kode contoh untuk file batch json ke konversi xlsx dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

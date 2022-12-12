@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir SPREADSHEETML en GIF via C#
-url: /fr/net/conversion/spreadsheetml-to-gif/
+
 description: Exemple de code pour la conversion de tableurml en gif C#. Utilisez l'exemple de code API pour la conversion par lots de fichiers tableurml en gif dans VB.NET, Asp.NET ou toute application basée sur .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

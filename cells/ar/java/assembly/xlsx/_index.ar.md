@@ -1,7 +1,7 @@
-﻿---
+---
 title: إنشاء التقارير في ملفات XLSX عبر Java 
 weight: 7710
-url: /ar/java/assembly/xlsx/ 
+
 description: Java نموذج لرمز لإنشاء تقارير بتنسيق XLSX حول Java Runtime Environment لتطبيق JSP / JSF وتطبيقات سطح المكتب.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

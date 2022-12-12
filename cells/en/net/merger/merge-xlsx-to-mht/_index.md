@@ -1,6 +1,6 @@
 ---
 title: Merge XLSX to MHT Files via C# 
-url: /net/merger/merge-xlsx-to-mht/ 
+
 description: Merge XLSX to MHT file in C# code. Combine XLSX to MHT file using VB.NET, Asp.NET or any .NET based application.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Convert XLSX to CSV via C#
-url: /net/conversion/xlsx-to-csv/
+
 description: Convert XLSX to CSV format in C# code. Save XLSX as CSV using VB.NET, Asp.NET or any .NET based application.
 ---
 

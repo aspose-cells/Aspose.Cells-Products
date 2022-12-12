@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してJSONをPNGに変換する 
 weight: 4910
-url: /ja/java/conversion/json-to-png/ 
+
 description: JSON形式からPNGファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、WebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをPNGにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

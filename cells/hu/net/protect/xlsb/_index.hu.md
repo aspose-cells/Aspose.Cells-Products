@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLSB-dokumentum védelme és zárolása a következőn keresztül: .NET "
 weight: 5920
-url: /hu/net/protect/xlsb/ 
+
 description: C# forráskód az XLSB-fájl jelszóval történő zárolásához .NET Framework, .NET Core, Mono vagy Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

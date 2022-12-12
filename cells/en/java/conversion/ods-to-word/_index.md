@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to WORD via Java 
-url: /java/conversion/ods-to-word/
+
 description: Convert ODS to WORD format in Java code. Save ODS as WORD using Java.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer HTML naar MD via Python
-url: /nl/python-java/conversion/html-to-md/
+
 description: Voorbeeldcode voor conversie van html naar md Python. Gebruik API voorbeeldcode voor batch-html-bestanden naar md-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

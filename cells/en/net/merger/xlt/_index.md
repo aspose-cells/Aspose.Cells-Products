@@ -1,7 +1,7 @@
 ---
 title: Merge XLT Files via .NET 
 weight: 1820
-url: /net/merger/xlt/ 
+
 description: C# source code to combine XLT documents on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

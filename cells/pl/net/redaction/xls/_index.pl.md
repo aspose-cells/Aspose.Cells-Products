@@ -1,7 +1,7 @@
-﻿---
+---
 title: Wyszukaj i zamień tekst w dokumencie XLS za pomocą .NET 
 weight: 7280
-url: /pl/net/redaction/xls/ 
+
 description: C# kod źródłowy do redagowania poufnych informacji w pliku XLS na platformach .NET Framework, .NET Core, Mono lub Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

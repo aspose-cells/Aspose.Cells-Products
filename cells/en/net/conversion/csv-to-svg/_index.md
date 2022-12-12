@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to SVG via C#
-url: /net/conversion/csv-to-svg/
+
 description: Convert CSV to SVG format in C# code. Save CSV as SVG using VB.NET, Asp.NET or any .NET based application.
 ---
 

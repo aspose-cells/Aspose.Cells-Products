@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してXLSをTABDELIMITEDに変換します 
-url: /ja/java/conversion/xls-to-tabdelimited/ 
+
 description: XLS形式からTABDELIMITEDファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のTABDELIMITEDにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

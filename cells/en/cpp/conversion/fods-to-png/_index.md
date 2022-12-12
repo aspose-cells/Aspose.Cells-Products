@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to PNG via C++
-url: /cpp/conversion/fods-to-png/
+
 description: Convert FODS to PNG format in C++ code. Save FODS as PNG using C++.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter TSV para XLAM via C#
-url: /pt/net/conversion/tsv-to-xlam/
+
 description: Código de exemplo para conversão de tsv para xlam C#. Use API código de exemplo para arquivos tsv em lote para conversão xlam em VB.NET, Asp.NET ou qualquer aplicativo baseado em .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

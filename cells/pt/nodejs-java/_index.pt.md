@@ -1,7 +1,7 @@
-﻿---
+---
 title: APIs Node.js para planilhas do Excel - Aspose 
 weight: 3120
-url: /pt/nodejs-java/ 
+
 description: Processe formatos de arquivo do Excel por meio da biblioteca Node.js. Ler escrever, renderizar e converter XLS XLSX XLSB XLTX XLTM XLSM XML ODS CSV e mais formatos via Node.js no Windows, macOS e Linux
 ---
 {{< blocks/products/pf/main-wrap-class >}}

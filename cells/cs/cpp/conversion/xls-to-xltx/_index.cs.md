@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převeďte XLS na XLTX pomocí aplikace C++ 
 weight: 5210
-url: /cs/cpp/conversion/xls-to-xltx/ 
+
 description: Ukázkový konverzní kód C++ pro dokument XLS na formát XLTX. Programátoři mohou použít tento zdrojový kód pro dávkovou konverzi XLS na XLTX v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

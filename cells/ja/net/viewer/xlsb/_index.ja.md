@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NETを介してXLSBファイル形式を表示 
 weight: 6260
-url: /ja/net/viewer/xlsb/ 
+
 description: .NETフレームワーク、.NETコア、Mono、またはXamarinプラットフォームでXLSBドキュメントをロード、レンダリング、表示するためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

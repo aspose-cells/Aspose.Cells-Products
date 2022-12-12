@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++ aracılığıyla MHTML Dosyaları oluşturun 
-url: /tr/cpp/create-mhtml/ 
+
 description: C++ MHTML dosyaları oluşturmak için örnek kod. C++ tabanlı uygulama içinde MHTML dosyaları oluşturmak için bu kodu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera MHTML till BMP via Python
-url: /sv/python-java/conversion/mhtml-to-bmp/
+
 description: Exempelkod för konvertering från mhtml till bmp Python. Använd API exempelkod för batch-mhtml-filer för att bmp-konvertera i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

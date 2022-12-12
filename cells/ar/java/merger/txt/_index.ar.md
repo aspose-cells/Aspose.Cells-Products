@@ -1,7 +1,7 @@
-﻿---
+---
 title: دمج ملفات TXT عبر Java 
 weight: 4480
-url: /ar/java/merger/txt/ 
+
 description: Java نموذج كود لدمج مستندات TXT في Java Runtime Environment لتطبيق JSP / JSF وتطبيقات سطح المكتب.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

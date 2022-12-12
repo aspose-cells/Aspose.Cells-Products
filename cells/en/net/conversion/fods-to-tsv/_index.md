@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to TSV via C#
-url: /net/conversion/fods-to-tsv/
+
 description: Convert FODS to TSV format in C# code. Save FODS as TSV using VB.NET, Asp.NET or any .NET based application.
 ---
 

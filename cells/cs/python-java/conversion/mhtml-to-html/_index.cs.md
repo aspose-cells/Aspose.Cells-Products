@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést MHTML na HTML pomocí Python
-url: /cs/python-java/conversion/mhtml-to-html/
+
 description: Ukázkový kód pro konverzi mhtml na html Python. Použijte API ukázkový kód pro dávkový převod souborů mhtml na html v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

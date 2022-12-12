@@ -1,6 +1,6 @@
 ---
 title: Convert XLSX to BMP via Java 
-url: /java/conversion/xlsx-to-bmp/
+
 description: Convert XLSX to BMP format in Java code. Save XLSX as BMP using Java.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование TSV в JSON через Python
-url: /ru/python-java/conversion/tsv-to-json/
+
 description: Пример кода для преобразования tsv в json Python. Используйте пример кода API для пакетного преобразования файлов tsv в json в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

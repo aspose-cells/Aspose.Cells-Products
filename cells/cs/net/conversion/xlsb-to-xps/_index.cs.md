@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLSB na XPS přes C#
-url: /cs/net/conversion/xlsb-to-xps/
+
 description: Ukázkový kód pro převod xlsb na xps C#. Použijte API ukázkový kód pro dávkový převod souborů xlsb na xps v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

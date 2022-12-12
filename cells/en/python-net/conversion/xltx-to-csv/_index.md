@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to CSV via Python
-url: /python-net/conversion/xltx-to-csv/
+
 description: Sample code for xltx to csv Python conversion. Use API example code for batch xltx files to csv conversion within Python application.
 ---
 

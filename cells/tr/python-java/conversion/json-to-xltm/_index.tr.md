@@ -1,6 +1,6 @@
-﻿---
+---
 title: JSON'u Python aracılığıyla XLTM'ye dönüştürün
-url: /tr/python-java/conversion/json-to-xltm/
+
 description: json'dan xltm'ye Python dönüştürme için örnek kod. Python uygulamasında toplu json dosyalarından xltm'ye dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Visa eller redigera XLS-filers metadata via .NET 
 weight: 1410
-url: /sv/net/metadata/xls/ 
+
 description: C# källkod för att redigera eller visa XLS-formatmetadata på .NET Framework, .NET Core, Mono eller Xamarin-plattformar.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

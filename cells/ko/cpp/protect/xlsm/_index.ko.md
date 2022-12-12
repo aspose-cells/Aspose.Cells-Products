@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++을(를) 통해 XLSM 문서 보호 및 잠금 
 weight: 8770
-url: /ko/cpp/protect/xlsm/ 
+
 description: C++ Windows 32비트, Windows 64비트 및 Linux 64비트용 C++ 런타임 환경에서 비밀번호를 사용하여 XLSM 파일을 잠그는 예제 코드.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: إنشاء مخططات شريطية عبر Python
-url: /ar/python-java/create-bar-chart/
+
 description: Python نموذج كود لإنشاء مخططات شريطية في Excel باستخدام Python Library. استخدم هذا الرمز لإنشاء مخطط شريطي لبرنامج MS Excel داخل التطبيق المستند إلى Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

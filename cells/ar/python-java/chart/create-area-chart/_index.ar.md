@@ -1,6 +1,6 @@
-﻿---
+---
 title: إنشاء مخططات المنطقة عبر Python
-url: /ar/python-java/create-area-chart/
+
 description: Python نموذج كود لإنشاء مخططات منطقة في Excel باستخدام Python Library. استخدم هذا الرمز لإنشاء مخطط مساحي لبرنامج MS Excel داخل تطبيق يستند إلى Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

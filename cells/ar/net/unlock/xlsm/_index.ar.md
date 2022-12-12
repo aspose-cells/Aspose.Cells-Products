@@ -1,7 +1,7 @@
-﻿---
+---
 title: فتح مستند XLSM عبر .NET 
 weight: 9810
-url: /ar/net/unlock/xlsm/ 
+
 description: C# شفرة المصدر لإلغاء تأمين ملف XLSM المحمي بكلمة مرور على أنظمة .NET Framework أو .NET Core أو Mono أو Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

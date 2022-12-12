@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie TABDELIMITED in XLSM über die Anwendung C++ 
-url: /de/cpp/conversion/tabdelimited-to-xlsm/ 
+
 description: Beispiel-Umwandlungscode C++ für das TABDELIMITED-Dokument in das XLSM-Format. Programmierer können diesen Quellcode für die Batch-Konvertierung von TABDELIMITED in XLSM in jeder C++-Anwendung verwenden.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

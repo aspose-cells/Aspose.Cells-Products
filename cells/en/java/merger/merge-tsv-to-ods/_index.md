@@ -1,6 +1,6 @@
 ---
 title: Merge TSV to ODS Files via Java 
-url: /java/merger/merge-tsv-to-ods/ 
+
 description: Merge TSV to ODS file in Java code. Combine TSV to ODS file using Java based desktop or web application.
 ---
 

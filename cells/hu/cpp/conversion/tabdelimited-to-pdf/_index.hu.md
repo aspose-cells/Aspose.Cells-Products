@@ -1,6 +1,6 @@
-﻿---
+---
 title: A TABDELIMITED konvertálása PDF-be a C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/tabdelimited-to-pdf/ 
+
 description: Minta C++ konverziós kód a TABDELIMITED dokumentumhoz PDF formátumba. A programozók ezt a forráskódot használhatják a TABDELIMITED kötegelt PDF konvertáláshoz bármely C++ alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してXLTMをXLTXに変換します
-url: /ja/net/conversion/xltm-to-xltx/
+
 description: xltmからxltxC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチxltmファイルからxltxへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

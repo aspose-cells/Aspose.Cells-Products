@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to MARKDOWN via C++
-url: /cpp/conversion/numbers-to-markdown/
+
 description: Convert NUMBERS to MARKDOWN format in C++ code. Save NUMBERS as MARKDOWN using C++.
 ---
 

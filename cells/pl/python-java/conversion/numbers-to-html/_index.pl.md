@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj NUMBERS na HTML za pomocą Python
-url: /pl/python-java/conversion/numbers-to-html/
+
 description: Przykładowy kod konwersji liczb do html Python. Użyj przykładowego kodu API dla plików numerów partii do konwersji html w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

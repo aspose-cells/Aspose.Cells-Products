@@ -1,7 +1,7 @@
 ---
 title: Android Excel Spreadsheet API - Aspose 
 weight: 6510
-url: /android-java/ 
+
 description: Android spreadsheet library to create read write and parse Excel files. A spreadsheet API for mobile Apps development
 ---
 

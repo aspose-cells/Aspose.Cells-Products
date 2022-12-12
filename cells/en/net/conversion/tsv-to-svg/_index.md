@@ -1,6 +1,6 @@
 ---
 title: Convert TSV to SVG via C#
-url: /net/conversion/tsv-to-svg/
+
 description: Convert TSV to SVG format in C# code. Save TSV as SVG using VB.NET, Asp.NET or any .NET based application.
 ---
 

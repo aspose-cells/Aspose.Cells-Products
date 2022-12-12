@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل NUMBERS إلى JSON عبر تطبيق C++ 
-url: /ar/cpp/conversion/numbers-to-json/ 
+
 description: نموذج رمز تحويل C++ لمستند NUMBERS إلى تنسيق JSON. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل مجموعة الأرقام إلى JSON في أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

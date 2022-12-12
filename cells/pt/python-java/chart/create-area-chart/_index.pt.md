@@ -1,6 +1,6 @@
-﻿---
+---
 title: Crie gráficos de área por meio de Python
-url: /pt/python-java/create-area-chart/
+
 description: Python Código de exemplo para criar gráficos de área para Excel usando a biblioteca Python. Use este código para criar um gráfico de área para MS Excel dentro do aplicativo baseado em Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

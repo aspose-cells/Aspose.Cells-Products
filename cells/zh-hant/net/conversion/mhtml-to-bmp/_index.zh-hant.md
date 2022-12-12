@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 C# 將 MHTML 轉換為 BMP
-url: /zh-hant/net/conversion/mhtml-to-bmp/
+
 description: mhtml 到 bmp C# 轉換的示例代碼。在 VB.NET、Asp.NET 或任何基於 .NET 的應用程序中使用 API 批處理 mhtml 文件的示例代碼到 bmp 轉換。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

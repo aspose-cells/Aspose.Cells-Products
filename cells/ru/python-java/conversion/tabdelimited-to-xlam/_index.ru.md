@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование TABDELIMITED в XLAM через Python
-url: /ru/python-java/conversion/tabdelimited-to-xlam/
+
 description: Пример кода для преобразования tabdelimited в xlam Python. Используйте пример кода API для пакетного преобразования файлов с разделителями табуляции в xlam в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

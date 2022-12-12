@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla CSV'yi JSON'a dönüştürün
-url: /tr/net/conversion/csv-to-json/
+
 description: csv'den json'a C# dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu csv dosyalarından json'a dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

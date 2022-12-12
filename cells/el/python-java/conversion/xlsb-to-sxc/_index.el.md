@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή XLSB σε SXC μέσω Python
-url: /el/python-java/conversion/xlsb-to-sxc/
+
 description: Δείγμα κώδικα για μετατροπή xlsb σε sxc Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδική μετατροπή αρχείων xlsb σε sxc εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

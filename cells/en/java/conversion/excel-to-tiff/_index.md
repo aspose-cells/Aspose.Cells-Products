@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to TIFF via Java 
-url: /java/conversion/excel-to-tiff/
+
 description: Convert EXCEL to TIFF format in Java code. Save EXCEL as TIFF using Java.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python経由でTSVをPNGに変換
-url: /ja/python-java/conversion/tsv-to-png/
+
 description: tsvからpngPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチtsvファイルからpngへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

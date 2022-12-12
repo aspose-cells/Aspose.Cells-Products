@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera TSV till DIF via Python
-url: /sv/python-java/conversion/tsv-to-dif/
+
 description: Exempelkod för tsv till dif Python-konvertering. Använd API-exempelkod för batch-tsv-filer för att ändra konvertering inom Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

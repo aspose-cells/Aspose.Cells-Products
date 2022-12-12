@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLS-t MD-vé a C++ alkalmazással 
-url: /hu/cpp/conversion/xls-to-md/ 
+
 description: Minta C++ konverziós kód XLS dokumentumhoz MD formátumba. A programozók ezt a forráskódot használhatják kötegelt XLS-ből MD-vé konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

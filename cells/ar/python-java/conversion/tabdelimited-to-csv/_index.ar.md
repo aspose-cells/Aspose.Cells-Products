@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TABDELIMITED إلى CSV عبر Python
-url: /ar/python-java/conversion/tabdelimited-to-csv/
+
 description: نموذج شفرة لجدولة محدّدة لتحويل csv Python. استخدم API رمز المثال للملفات المحددة بعلامات جدولة مجمعة لتحويل csv داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

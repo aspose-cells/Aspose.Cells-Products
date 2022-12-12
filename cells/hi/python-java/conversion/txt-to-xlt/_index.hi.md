@@ -1,6 +1,6 @@
-﻿---
+---
 title: TXT को Python के माध्यम से XLT में कनवर्ट करें
-url: /hi/python-java/conversion/txt-to-xlt/
+
 description: txt से xlt Python रूपांतरण के लिए नमूना कोड। बैच txt फ़ाइलों के लिए Python एप्लिकेशन के भीतर xlt रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

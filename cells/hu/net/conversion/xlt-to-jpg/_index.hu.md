@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLT konvertálása JPG formátumba a következőn keresztül: C#"
-url: /hu/net/conversion/xlt-to-jpg/
+
 description: Mintakód az xlt-ből jpg-be C# konvertáláshoz. Használjon API példakódot a kötegelt xlt fájlok jpg formátumú konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazásban.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

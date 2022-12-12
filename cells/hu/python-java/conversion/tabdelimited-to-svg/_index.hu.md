@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TABDELIMITED konvertálása SVG-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/tabdelimited-to-svg/
+
 description: Mintakód a tabulátorral elválasztott svg Python konverzióhoz. Használjon API példakódot a tabulátorral határolt fájlok kötegelt SVG konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

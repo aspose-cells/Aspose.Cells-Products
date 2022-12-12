@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan XLSB ke JPEG melalui Python
-url: /id/python-java/conversion/xlsb-to-jpeg/
+
 description: Contoh kode untuk konversi xlsb ke jpeg Python. Gunakan API kode contoh untuk file batch xlsb ke konversi jpeg dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

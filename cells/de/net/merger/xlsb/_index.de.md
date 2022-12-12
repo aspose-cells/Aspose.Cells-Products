@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLSB-Dateien über .NET zusammenführen 
 weight: 2970
-url: /de/net/merger/xlsb/ 
+
 description: C#-Quellcode zum Kombinieren von XLSB-Dokumenten auf .NET Framework-, .NET Core-, Mono- oder Xamarin-Plattformen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

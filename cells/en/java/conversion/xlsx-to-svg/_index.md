@@ -1,6 +1,6 @@
 ---
 title: Convert XLSX to SVG via Java 
-url: /java/conversion/xlsx-to-svg/
+
 description: Convert XLSX to SVG format in Java code. Save XLSX as SVG using Java.
 ---
 

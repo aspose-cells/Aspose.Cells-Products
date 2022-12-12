@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést HTML na CSV prostřednictvím Python
-url: /cs/python-java/conversion/html-to-csv/
+
 description: Ukázkový kód pro konverzi html na csv Python. Použijte API ukázkový kód pro dávkový převod html souborů na csv v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

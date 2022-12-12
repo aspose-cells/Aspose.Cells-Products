@@ -1,6 +1,6 @@
-﻿---
+---
 title: Microsoft Excel-filkonvertering via Java 
-url: /sv/java/conversion/
+
 description: Konvertera Excel XLS, XLSX, ODS, CSV till PDF, XPS, HTML, JPEG, HTML och många andra populära format med bara några rader med Java-kod.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

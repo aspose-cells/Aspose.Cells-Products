@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to TIFF via Java 
-url: /java/conversion/xlt-to-tiff/
+
 description: Convert XLT to TIFF format in Java code. Save XLT as TIFF using Java.
 ---
 

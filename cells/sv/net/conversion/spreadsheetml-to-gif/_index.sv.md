@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera SPREADSHEETML till GIF via C#
-url: /sv/net/conversion/spreadsheetml-to-gif/
+
 description: Exempelkod för konvertering från kalkylarkml till gif C#. Använd API exempelkod för batch-kalkylarkml-filer till gif-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

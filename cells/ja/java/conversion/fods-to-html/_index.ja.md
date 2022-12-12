@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してFODSをHTMLに変換する 
-url: /ja/java/conversion/fods-to-html/ 
+
 description: FODS形式のHTMLファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、任意のWebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをHTMLにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

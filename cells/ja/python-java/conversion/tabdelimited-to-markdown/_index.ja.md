@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してTABDELIMITEDをMARKDOWNに変換します
-url: /ja/python-java/conversion/tabdelimited-to-markdown/
+
 description: tabdelimitedからmarkdownPythonへの変換のサンプルコード。 Pythonアプリケーション内で変換をマークダウンするためのバッチタブ区切りファイルのAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

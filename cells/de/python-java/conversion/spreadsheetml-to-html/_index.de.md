@@ -1,6 +1,6 @@
-﻿---
+---
 title: Wandeln Sie SPREADSHEETML über Python in HTML um
-url: /de/python-java/conversion/spreadsheetml-to-html/
+
 description: Beispielcode für die Umwandlung von Spreadsheetml in HTML Python. Verwenden Sie den API Beispielcode für die Batch-Konvertierung von Spreadsheetml-Dateien in HTML innerhalb der Anwendung Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

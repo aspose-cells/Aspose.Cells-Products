@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển MHTML thành TABDELIMITED qua C#
-url: /vi/net/conversion/mhtml-to-tabdelimited/
+
 description: Mã mẫu cho chuyển đổi mhtml thành C# tabdelimited. Sử dụng API mã ví dụ cho hàng loạt tệp mhtml để chuyển đổi được giới hạn bằng tab trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

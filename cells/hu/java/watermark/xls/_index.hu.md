@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Vízjel XLS dokumentum a következőn keresztül: Java "
 weight: 2210
-url: /hu/java/watermark/xls/ 
+
 description: Java mintakód a vízjel XLS-fájlhoz való hozzáadásához vagy eltávolításához a Java Runtime Environment for JSP/JSF alkalmazásokhoz és asztali alkalmazásokhoz.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

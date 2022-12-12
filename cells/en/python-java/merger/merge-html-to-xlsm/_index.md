@@ -1,6 +1,6 @@
 ---
 title: Merge HTML to XLSM Files via Python 
-url: /python-java/merger/merge-html-to-xlsm/ 
+
 description: Merge HTML to XLSM file in Python code. Combine HTML to XLSM file using Python.
 ---
 

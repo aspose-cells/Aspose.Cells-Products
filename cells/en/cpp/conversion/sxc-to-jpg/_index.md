@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to JPG via C++
-url: /cpp/conversion/sxc-to-jpg/
+
 description: Convert SXC to JPG format in C++ code. Save SXC as JPG using C++.
 ---
 

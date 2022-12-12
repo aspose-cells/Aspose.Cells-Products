@@ -1,7 +1,7 @@
-﻿---
+---
 title: Xem Định dạng Tệp XLSM qua .NET 
 weight: 9980
-url: /vi/net/viewer/xlsm/ 
+
 description: C# mã nguồn để tải, hiển thị và hiển thị các tài liệu XLSM trên Nền tảng .NET Framework, .NET Core Mono hoặc Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

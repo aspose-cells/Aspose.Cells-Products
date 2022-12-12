@@ -1,6 +1,6 @@
-﻿---
+---
 title: Создание круговых диаграмм с помощью Python
-url: /ru/python-java/create-pie-chart/
+
 description: Python Пример кода для создания круговых диаграмм в Excel с использованием библиотеки Python. Используйте этот код для создания круговой диаграммы в MS Excel в приложении на основе Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

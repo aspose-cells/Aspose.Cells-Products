@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLSM konvertálása CSV-vé a következőn keresztül: C#"
-url: /hu/net/conversion/xlsm-to-csv/
+
 description: Mintakód az xlsm–csv C# konverzióhoz. Használjon API példakódot a kötegelt xlsm fájlok csv konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

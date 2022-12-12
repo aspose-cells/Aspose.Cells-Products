@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NETを介してXLSドキュメントを保護およびロックする 
 weight: 7010
-url: /ja/net/protect/xls/ 
+
 description: .NETフレームワーク、.NETコア、Mono、またはXamarinプラットフォームでパスワードを使用してXLSファイルをロックするためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

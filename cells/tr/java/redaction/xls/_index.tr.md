@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java aracılığıyla XLS belgesindeki metni arayın ve değiştirin 
 weight: 7900
-url: /tr/java/redaction/xls/ 
+
 description: JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Runtime Environment'daki XLS dosyasındaki hassas bilgileri yeniden düzenlemek için Java örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

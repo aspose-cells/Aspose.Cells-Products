@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TXT na EMF přes C#
-url: /cs/net/conversion/txt-to-emf/
+
 description: Ukázkový kód pro převod txt na emf C#. Použijte API ukázkový kód pro dávkové soubory txt na převod EMF v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

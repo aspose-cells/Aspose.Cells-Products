@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte XLSM na XML pomocí aplikace C++ 
-url: /cs/cpp/conversion/xlsm-to-xml/ 
+
 description: Ukázka převodního kódu C++ pro dokument XLSM na formát XML. Programátoři mohou tento zdrojový kód použít pro dávkovou konverzi XLSM na XML v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

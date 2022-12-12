@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TXT إلى XPS عبر تطبيق C++ 
-url: /ar/cpp/conversion/txt-to-xps/ 
+
 description: نموذج C++ رمز التحويل لمستند TXT إلى تنسيق XPS. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل TXT إلى XPS دفعة داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

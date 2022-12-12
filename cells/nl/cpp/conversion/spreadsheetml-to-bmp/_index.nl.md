@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer SPREADSHEETML naar BMP via C++ applicatie 
-url: /nl/cpp/conversion/spreadsheetml-to-bmp/ 
+
 description: Voorbeeld C++-conversiecode voor SPREADSHEETML-document naar BMP-indeling. Programmeurs kunnen deze broncode gebruiken voor batch-SPREADSHEETML-naar-BMP-conversie binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

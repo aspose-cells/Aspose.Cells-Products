@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SPREADSHEETML konvertálása PNG-re a következőn keresztül: C#"
-url: /hu/net/conversion/spreadsheetml-to-png/
+
 description: Mintakód a táblázatkezelőből png C# konvertáláshoz. Használjon API példakódot kötegelt táblázatkezelő fájlokhoz a png konverzióhoz VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to SVG via Python
-url: /python-net/conversion/spreadsheetml-to-svg/
+
 description: Sample code for spreadsheetml to svg Python conversion. Use API example code for batch spreadsheetml files to svg conversion within Python application.
 ---
 

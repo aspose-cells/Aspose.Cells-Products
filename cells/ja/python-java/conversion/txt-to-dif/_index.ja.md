@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してTXTをDIFに変換します
-url: /ja/python-java/conversion/txt-to-dif/
+
 description: txtからdifPythonへの変換のサンプルコード。 Pythonアプリケーション内で変換を行うためのバッチtxtファイルのAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

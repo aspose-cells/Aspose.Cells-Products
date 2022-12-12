@@ -1,6 +1,6 @@
-﻿---
+---
 title: Создание гистограмм с помощью Python
-url: /ru/python-java/create-bar-chart/
+
 description: Python Пример кода для создания гистограмм в Excel с использованием библиотеки Python. Используйте этот код для создания гистограммы в MS Excel в приложении на основе Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

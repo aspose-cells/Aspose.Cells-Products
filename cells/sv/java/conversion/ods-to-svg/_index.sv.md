@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertera ODS till SVG via Java 
 weight: 5640
-url: /sv/java/conversion/ods-to-svg/ 
+
 description: Exempel på Java-konverteringskod för ODS-format till SVG-fil. Programmerare kan använda den här exempelkoden för att exportera Excel- och OpenOffice-kalkylblad till SVG inom alla webb- eller skrivbordsbaserade Javaapplikationer.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Twórz wykresy słupkowe za pomocą C#
-url: /pl/net/create-bar-chart/
+
 description: C# Przykładowy kod do tworzenia wykresów słupkowych w programie Excel przy użyciu biblioteki .NET. Użyj tego kodu, aby utworzyć wykres słupkowy do MS Excel w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

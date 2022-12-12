@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование NUMBERS в XLSM через Python
-url: /ru/python-java/conversion/numbers-to-xlsm/
+
 description: Пример кода для преобразования чисел в xlsm Python. Используйте пример кода API для преобразования файлов номеров пакетов в xlsm в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してTXTをODSに変換します
-url: /ja/python-java/conversion/txt-to-ods/
+
 description: txtからodsPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチtxtファイルからodsへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

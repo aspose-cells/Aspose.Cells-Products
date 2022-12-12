@@ -1,7 +1,7 @@
-﻿---
+---
 title: Extrahujte text a obrázky z dokumentu XLSB prostřednictvím C++ 
 weight: 3140
-url: /cs/cpp/parser/xlsb/ 
+
 description: C++ ukázkový kód pro extrahování textu a obrázků ze souboru XLSB v C++ Runtime Environment pro Windows 32 bit, Windows 64 bit a Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python के माध्यम से CSV को JSON में बदलें
-url: /hi/python-java/conversion/csv-to-json/
+
 description: csv से json Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर बैच सीएसवी फाइलों से जोंस रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLSM naar CSV via C++ applicatie 
-url: /nl/cpp/conversion/xlsm-to-csv/ 
+
 description: Voorbeeld C++ conversiecode voor XLSM-document naar CSV-indeling. Programmeurs kunnen deze broncode gebruiken voor batch-XLSM naar CSV-conversie binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

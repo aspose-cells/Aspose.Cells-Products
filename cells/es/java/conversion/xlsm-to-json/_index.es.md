@@ -1,7 +1,7 @@
-﻿---
+---
 title: Convierta XLSM a JSON a través de Java 
 weight: 1640
-url: /es/java/conversion/xlsm-to-json/ 
+
 description: Ejemplo de código de conversión Java para formato XLSM a archivo JSON. Los programadores pueden usar este código de ejemplo para exportar hojas de cálculo de Excel y OpenOffice a JSON dentro de cualquier aplicación basada en Web o escritorio Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

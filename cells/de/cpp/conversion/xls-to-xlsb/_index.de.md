@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertieren Sie XLS in XLSB über die Anwendung C++ 
 weight: 9080
-url: /de/cpp/conversion/xls-to-xlsb/ 
+
 description: Beispiel-Umwandlungscode C++ für das XLS-Dokument in das XLSB-Format. Programmierer können diesen Quellcode für die Batch-Konvertierung von XLS in XLSB in jeder C++-Anwendung verwenden.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

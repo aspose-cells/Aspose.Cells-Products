@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง SPREADSHEETML เป็น TXT ผ่าน Python
-url: /th/python-java/conversion/spreadsheetml-to-txt/
+
 description: โค้ดตัวอย่างสำหรับการแปลงสเปรดชีตml เป็น txt Python ใช้โค้ดตัวอย่าง API สำหรับไฟล์สเปรดชีตสเปรดชีตแบบแบตช์เป็นการแปลง txt ภายในแอปพลิเคชัน Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

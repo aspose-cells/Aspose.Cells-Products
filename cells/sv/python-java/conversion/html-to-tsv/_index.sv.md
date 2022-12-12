@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera HTML till TSV via Python
-url: /sv/python-java/conversion/html-to-tsv/
+
 description: Exempelkod för html till tsv Python-konvertering. Använd API exempelkod för batch-html-filer till tsv-konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

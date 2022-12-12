@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل CSV إلى JPEG عبر Python
-url: /ar/python-java/conversion/csv-to-jpeg/
+
 description: نموذج رمز لتحويل csv إلى jpeg Python. استخدم API رمز المثال لملفات csv المجمعة لتحويل jpeg داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

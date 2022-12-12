@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してJSONをXLSXに変換する
-url: /ja/net/conversion/json-to-xlsx/
+
 description: jsonからxlsxC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチjsonファイルからxlsxへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

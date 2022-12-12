@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir XLT a MD a través de C#
-url: /es/net/conversion/xlt-to-md/
+
 description: Ejemplo de código para la conversión de xlt a md C#. Utilice el código de ejemplo API para archivos xlt por lotes para la conversión md dentro de VB.NET, Asp.NET o cualquier aplicación basada en .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

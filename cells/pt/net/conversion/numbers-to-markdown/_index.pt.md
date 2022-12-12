@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter NUMBERS para MARKDOWN via C#
-url: /pt/net/conversion/numbers-to-markdown/
+
 description: Código de amostra para conversão de números para redução de C#. Use API código de exemplo para arquivos de números de lote para conversão de markdown em VB.NET, Asp.NET ou qualquer aplicativo baseado em .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

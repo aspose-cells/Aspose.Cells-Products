@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan SXC ke MARKDOWN melalui Python
-url: /id/python-java/conversion/sxc-to-markdown/
+
 description: Contoh kode untuk konversi sxc ke penurunan harga Python. Gunakan API kode contoh untuk file batch sxc untuk konversi penurunan harga dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

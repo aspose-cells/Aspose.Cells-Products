@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLTX naar MD via Python
-url: /nl/python-java/conversion/xltx-to-md/
+
 description: Voorbeeldcode voor conversie van xltx naar md Python. Gebruik API voorbeeldcode voor batch xltx-bestanden naar md-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

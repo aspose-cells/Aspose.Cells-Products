@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést SPREADSHEETML na ODS prostřednictvím C#
-url: /cs/net/conversion/spreadsheetml-to-ods/
+
 description: Ukázkový kód pro převod tabulky ml na ods C#. Použijte API ukázkový kód pro dávkový převod souborů tabulkového procesoru ml na převod ODS v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java के माध्यम से खोले बिना XLSM दस्तावेज़ खोजें 
 weight: 6780
-url: /hi/java/search/xlsm/ 
+
 description: Java जेएसपी/जेएसएफ एप्लिकेशन और डेस्कटॉप एप्लिकेशन के लिए रनटाइम एनवायरनमेंट पर Java XLSM फ़ाइल में पैटर्न वाले शब्दों को खोजने के लिए नमूना कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

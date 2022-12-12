@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir CSV en GIF via Python
-url: /fr/python-java/conversion/csv-to-gif/
+
 description: Exemple de code pour la conversion csv en gif Python. Utilisez l'exemple de code API pour la conversion de fichiers csv par lots en gif dans l'application Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Generovat sestavy v souborech XLSX prostřednictvím Java 
 weight: 7710
-url: /cs/java/assembly/xlsx/ 
+
 description: Java ukázkový kód pro vytváření sestav ve formátu XLSX v Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

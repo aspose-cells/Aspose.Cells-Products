@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést SXC na CSV prostřednictvím C#
-url: /cs/net/conversion/sxc-to-csv/
+
 description: Ukázkový kód pro převod sxc na csv C#. Použijte API ukázkový kód pro dávkový převod souborů sxc na csv v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

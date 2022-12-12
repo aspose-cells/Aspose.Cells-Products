@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan XLTM ke XPS melalui C#
-url: /id/net/conversion/xltm-to-xps/
+
 description: Contoh kode untuk konversi xltm ke xps C#. Gunakan API kode contoh untuk file batch xltm ke konversi xps dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "FODS konvertálása BMP-vé a következőn keresztül: Python"
-url: /hu/python-java/conversion/fods-to-bmp/
+
 description: Mintakód a fod to bmp Python konverziójához. Használjon API példakódot kötegelt fod-fájlokhoz bmp-konverzióhoz a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

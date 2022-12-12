@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi XLSM ke JPEG melalui C#
-url: /id/net/conversion/xlsm-to-jpeg/
+
 description: Contoh kode untuk konversi xlsm ke jpeg C#. Gunakan API kode contoh untuk file batch xlsm ke konversi jpeg dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

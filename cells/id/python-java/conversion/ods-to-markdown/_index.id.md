@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan ODS ke MARKDOWN melalui Python
-url: /id/python-java/conversion/ods-to-markdown/
+
 description: Contoh kode untuk ods to markdown Python konversi. Gunakan API kode contoh untuk file batch ods untuk konversi penurunan harga dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

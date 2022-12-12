@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してXLTをXMLに変換する
-url: /ja/net/conversion/xlt-to-xml/
+
 description: xltからxmlC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチxltファイルからxmlへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

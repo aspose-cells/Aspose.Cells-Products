@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή TXT σε JSON μέσω C#
-url: /el/net/conversion/txt-to-json/
+
 description: Δείγμα κώδικα για μετατροπή txt σε json C#. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία txt για μετατροπή json εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

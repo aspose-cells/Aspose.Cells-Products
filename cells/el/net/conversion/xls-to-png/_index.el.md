@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή XLS σε PNG μέσω C#
-url: /el/net/conversion/xls-to-png/
+
 description: Δείγμα κώδικα για μετατροπή xls σε png C#. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδική μετατροπή αρχείων xls σε png εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

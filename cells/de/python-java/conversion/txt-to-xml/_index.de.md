@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie TXT in XML über Python
-url: /de/python-java/conversion/txt-to-xml/
+
 description: Beispielcode für die Umwandlung von txt in xml Python. Verwenden Sie API Beispielcode für die Batch-Konvertierung von TXT-Dateien in XML innerhalb der Anwendung Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

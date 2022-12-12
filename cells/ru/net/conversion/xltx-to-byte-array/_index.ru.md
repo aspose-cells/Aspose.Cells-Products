@@ -1,7 +1,7 @@
-﻿---
+---
 title: Преобразование XLTX в байтовый массив с помощью C# 
 weight: 7690
-url: /ru/net/conversion/xltx-to-byte-array/ 
+
 description: C# Пример кода для преобразования XLTX в байтовый массив. Используйте этот код для преобразования Excel XLTX в массив байтов в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

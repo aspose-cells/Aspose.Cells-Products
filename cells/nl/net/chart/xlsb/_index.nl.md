@@ -1,7 +1,7 @@
-﻿---
+---
 title:  XLSB-documentdiagram naar afbeeldingen via .NET 
 weight: 8560
-url: /nl/net/chart/xlsb/ 
+
 description: C# broncode om een diagram of diagram te tekenen en om te zetten in XLSB-bestand op .NET Framework, .NET Core, Mono of Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

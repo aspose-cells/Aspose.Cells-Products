@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してXLSMをJSONに変換する
-url: /ja/net/conversion/xlsm-to-json/
+
 description: xlsmからjsonC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチxlsmファイルからjsonへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

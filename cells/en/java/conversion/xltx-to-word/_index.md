@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to WORD via Java 
-url: /java/conversion/xltx-to-word/
+
 description: Convert XLTX to WORD format in Java code. Save XLTX as WORD using Java.
 ---
 

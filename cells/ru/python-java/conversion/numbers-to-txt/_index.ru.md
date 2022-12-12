@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование NUMBERS в TXT через Python
-url: /ru/python-java/conversion/numbers-to-txt/
+
 description: Пример кода для преобразования чисел в txt Python. Используйте пример кода API для преобразования файлов номеров пакетов в txt в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

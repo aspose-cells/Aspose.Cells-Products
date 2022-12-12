@@ -1,7 +1,7 @@
-﻿---
+---
 title: Protégez et verrouillez le document ODS via C++ 
 weight: 10010
-url: /fr/cpp/protect/ods/ 
+
 description: Exemple de code C++ pour verrouiller le fichier ODS à l'aide d'un mot de passe sur l'environnement d'exécution C++ pour Windows 32 bits, Windows 64 bits et Linux 64 bits.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

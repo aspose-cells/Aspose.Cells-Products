@@ -1,7 +1,7 @@
-﻿---
+---
 title: Foglio di lavoro Excel Android API - Aspose 
 weight: 6510
-url: /it/android-java/ 
+
 description: Libreria di fogli di calcolo Android per creare lettura, scrittura e analisi di file Excel. Un foglio di lavoro API per lo sviluppo di app mobili
 ---
 {{< blocks/products/pf/main-wrap-class >}}

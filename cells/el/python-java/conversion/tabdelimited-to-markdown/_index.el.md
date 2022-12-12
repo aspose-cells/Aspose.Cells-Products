@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή TABDELIMITED σε MARKDOWN μέσω Python
-url: /el/python-java/conversion/tabdelimited-to-markdown/
+
 description: Δείγμα κώδικα για μετατροπή οριοθετημένης καρτέλας σε σήμανση Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά οριοθετημένα στηλοθέτες αρχεία για να μαρκάρετε τη μετατροπή εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

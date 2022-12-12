@@ -1,7 +1,7 @@
-﻿---
+---
 title: Wyszukaj i zamień tekst w dokumencie XLS za pomocą Java 
 weight: 7900
-url: /pl/java/redaction/xls/ 
+
 description: Java przykładowy kod do redagowania poufnych informacji w pliku XLS w Java środowisku wykonawczym dla aplikacji JSP/JSF i aplikacji komputerowych.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

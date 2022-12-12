@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET Java C++ PHP 和 Android Excel 電子表格解析 API 
 weight: 10
-url: /zh-hant/family
+
 description: 用於在 .NET Java C++ Android 和 SharePoint 應用程序中讀寫和操作 Microsoft Excel 文件的庫。在 SSRS 和 JasperReports 中導出工作表
 ---
 {{< blocks/products/pf/main-wrap-class >}}

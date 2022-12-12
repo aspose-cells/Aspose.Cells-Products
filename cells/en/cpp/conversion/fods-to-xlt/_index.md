@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to XLT via C++
-url: /cpp/conversion/fods-to-xlt/
+
 description: Convert FODS to XLT format in C++ code. Save FODS as XLT using C++.
 ---
 

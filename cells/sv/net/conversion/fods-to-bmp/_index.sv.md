@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera FODS till BMP via C#
-url: /sv/net/conversion/fods-to-bmp/
+
 description: Exempelkod för fods till bmp C#-omvandling. Använd API exempelkod för batch fods-filer till bmp-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

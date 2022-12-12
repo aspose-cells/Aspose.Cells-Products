@@ -1,6 +1,6 @@
-﻿---
+---
 title: Creazione di grafici Excel e conversione in immagini tramite .NET
-url: /it/net/chart/
+
 description: C# codice sorgente per disegnare e convertire grafici o diagrammi in Microsoft Excel utilizzando .NET Libreria. 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to WORD via C#
-url: /net/conversion/csv-to-word/
+
 description: Convert CSV to WORD format in C# code. Save CSV as WORD using VB.NET, Asp.NET or any .NET based application.
 ---
 

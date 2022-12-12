@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 Python 將 SXC 轉換為 TSV
-url: /zh-hant/python-java/conversion/sxc-to-tsv/
+
 description: sxc 到 tsv Python 轉換的示例代碼。使用 Python 應用程序中將 sxc 文件批量轉換為 tsv 的 API 示例代碼。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést FODS na DOCX přes Python
-url: /cs/python-java/conversion/fods-to-docx/
+
 description: Ukázkový kód pro konverzi fod na docx Python. Použijte API ukázkový kód pro dávkový převod fods souborů na docx v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

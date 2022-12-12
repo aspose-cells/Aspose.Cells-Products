@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل MHTML إلى JSON عبر تطبيق C++ 
-url: /ar/cpp/conversion/mhtml-to-json/ 
+
 description: نموذج لشفرة تحويل C++ لمستند MHTML إلى تنسيق JSON. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل MHTML إلى JSON الدفعي في أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

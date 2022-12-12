@@ -1,6 +1,6 @@
-﻿---
+---
 title: "ODS konvertálása XLSB-vé a következőn keresztül: Python"
-url: /hu/python-java/conversion/ods-to-xlsb/
+
 description: Mintakód az ods–xlsb Python konverzióhoz. Használjon API példakódot a kötegelt ods fájlok xlsb konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to XPS via Python
-url: /python-java/conversion/xlsb-to-xps/
+
 description: Convert XLSB to XPS format in Python code. Save XLSB as XPS using Python.
 ---
 

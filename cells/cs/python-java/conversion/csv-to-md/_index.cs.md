@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést CSV na MD prostřednictvím Python
-url: /cs/python-java/conversion/csv-to-md/
+
 description: Ukázkový kód pro převod csv na md Python. Použijte API ukázkový kód pro dávkový převod souborů csv na MD v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Skapa Excel-diagram och konvertera till bilder via Java
-url: /sv/java/chart/
+
 description: Java källkod för att rita och konvertera diagram eller diagram i Microsoft Excel med hjälp av Java Library. 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Pesquisar documento TXT sem abrir via C++ 
 weight: 5090
-url: /pt/cpp/search/txt/ 
+
 description: C++ código de exemplo para pesquisar palavras com padrão em arquivo TXT em C++ Runtime Environment para Windows 32 bits, Windows 64 bits e Linux 64 bits.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

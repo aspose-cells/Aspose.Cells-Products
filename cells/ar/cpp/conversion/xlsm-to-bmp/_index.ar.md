@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLSM إلى BMP عبر تطبيق C++ 
-url: /ar/cpp/conversion/xlsm-to-bmp/ 
+
 description: نموذج C++ كود التحويل لوثيقة XLSM إلى تنسيق BMP. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل XLSM دفعة إلى BMP داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

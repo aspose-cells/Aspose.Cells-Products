@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan SPREADSHEETML ke PNG melalui Python
-url: /id/python-java/conversion/spreadsheetml-to-png/
+
 description: Contoh kode untuk konversi spreadsheetml ke png Python. Gunakan API kode contoh untuk file batch spreadsheetml ke konversi png dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

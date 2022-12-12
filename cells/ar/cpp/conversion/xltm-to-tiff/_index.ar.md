@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLTM إلى TIFF عبر تطبيق C++ 
-url: /ar/cpp/conversion/xltm-to-tiff/ 
+
 description: نموذج C++ رمز تحويل لمستند XLTM إلى تنسيق TIFF. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل XLTM إلى TIFF في أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

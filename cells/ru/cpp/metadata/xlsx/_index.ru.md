@@ -1,7 +1,7 @@
-﻿---
+---
 title: Редактировать или просматривать метаданные документа XLSX через C++ 
 weight: 8970
-url: /ru/cpp/metadata/xlsx/ 
+
 description: Пример кода C++ для редактирования или просмотра метаданных файла XLSX в C++ среде выполнения для 32-разрядной, 64-разрядной Windows и 64-разрядной версии Linux.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

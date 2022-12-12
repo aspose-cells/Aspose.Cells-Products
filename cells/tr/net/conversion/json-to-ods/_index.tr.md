@@ -1,6 +1,6 @@
-﻿---
+---
 title: JSON'u C# aracılığıyla ODS'ye dönüştürün
-url: /tr/net/conversion/json-to-ods/
+
 description: json'dan ods'ye C# dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu json dosyalarından ods'ye dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

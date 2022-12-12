@@ -1,7 +1,7 @@
-﻿---
+---
 title: Wykres dokumentu XLS za pośrednictwem C++ 
 weight: 2500
-url: /pl/cpp/chart/xls/ 
+
 description: C++ przykładowy kod do rysowania i konwertowania wykresu lub diagramu w pliku XLS w C++ środowisku wykonawczym dla 32-bitowego systemu Windows, 64-bitowego systemu Windows i 64-bitowego systemu Linux.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

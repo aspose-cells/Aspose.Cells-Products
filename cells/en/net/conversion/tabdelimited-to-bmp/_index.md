@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to BMP via C#
-url: /net/conversion/tabdelimited-to-bmp/
+
 description: Convert TABDELIMITED to BMP format in C# code. Save TABDELIMITED as BMP using VB.NET, Asp.NET or any .NET based application.
 ---
 

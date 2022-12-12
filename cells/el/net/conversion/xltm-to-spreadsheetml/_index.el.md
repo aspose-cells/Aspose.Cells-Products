@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή XLTM σε SPREADSHEETML μέσω C#
-url: /el/net/conversion/xltm-to-spreadsheetml/
+
 description: Δείγμα κώδικα για μετατροπή xltm σε υπολογιστικό φύλλο C#. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία xltm για μετατροπή υπολογιστικών φύλλων σε VB.NET, Asp.NET ή οποιαδήποτε εφαρμογή που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

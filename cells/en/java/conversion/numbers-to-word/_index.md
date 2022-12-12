@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to WORD via Java 
-url: /java/conversion/numbers-to-word/
+
 description: Convert NUMBERS to WORD format in Java code. Save NUMBERS as WORD using Java.
 ---
 

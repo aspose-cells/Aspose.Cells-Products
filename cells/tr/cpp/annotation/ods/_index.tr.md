@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ üzerinden ODS Ek Açıklaması ekleyin 
 weight: 8840
-url: /tr/cpp/annotation/ods/ 
+
 description: Windows 32 bit, Windows 64 bit ve Linux 64 bit için C++ Runtime Environment'da ODS biçimi ek açıklamalarını silmek için C++ örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

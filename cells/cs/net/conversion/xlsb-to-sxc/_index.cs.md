@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLSB na SXC přes C#
-url: /cs/net/conversion/xlsb-to-sxc/
+
 description: Ukázkový kód pro převod xlsb na sxc C#. Použijte API ukázkový kód pro dávkový převod souborů xlsb na sxc v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLTM konvertálása HTML-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/xltm-to-html/
+
 description: Mintakód az xltm-ből html-be Python konverzióhoz. Használjon API példakódot az xltm fájlok kötegelt html konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

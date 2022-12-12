@@ -1,7 +1,7 @@
-﻿---
+---
 title: Unisci file XLTX tramite Java 
 weight: 680
-url: /it/java/merger/xltx/ 
+
 description: Java codice di esempio per combinare documenti XLTX su Java Runtime Environment per applicazioni JSP/JSF e applicazioni desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLSX-fájlok felosztása a következőn keresztül: Java "
 weight: 3250
-url: /hu/java/splitter/xlsx/ 
+
 description: Java mintakód az XLSX dokumentumok felosztásához a Java Futási környezet JSP/JSF alkalmazásokhoz és asztali alkalmazásokhoz.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

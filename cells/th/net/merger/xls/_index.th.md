@@ -1,7 +1,7 @@
-﻿---
+---
 title: รวมไฟล์ XLS ผ่าน .NET 
 weight: 3000
-url: /th/net/merger/xls/ 
+
 description: C# ซอร์สโค้ดเพื่อรวมเอกสาร XLS บน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

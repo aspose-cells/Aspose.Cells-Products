@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή NUMBERS σε TXT μέσω C#
-url: /el/net/conversion/numbers-to-txt/
+
 description: Δείγμα κώδικα για μετατροπή αριθμών σε txt C#. Χρησιμοποιήστε API παράδειγμα κώδικα για αρχεία αριθμών παρτίδας σε μετατροπή txt εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

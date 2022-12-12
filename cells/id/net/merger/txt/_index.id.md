@@ -1,7 +1,7 @@
-﻿---
+---
 title: Gabungkan File TXT melalui .NET 
 weight: 7350
-url: /id/net/merger/txt/ 
+
 description: C# kode sumber untuk menggabungkan dokumen TXT pada .NET Framework, .NET Core, Mono atau Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

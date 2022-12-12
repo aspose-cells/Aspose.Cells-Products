@@ -1,7 +1,7 @@
-﻿---
+---
 title: MHTML konvertálása DIF-re a(z) C++ alkalmazáson keresztül 
 weight: 5470
-url: /hu/cpp/conversion/mhtml-to-dif/ 
+
 description: Minta C++ konverziós kód MHTML dokumentumhoz DIF formátumba. A programozók ezt a forráskódot használhatják kötegelt MHTML-DIF-konverzióhoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

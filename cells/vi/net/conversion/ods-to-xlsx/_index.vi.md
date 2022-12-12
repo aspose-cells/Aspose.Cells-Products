@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi ODS sang XLSX qua C#
-url: /vi/net/conversion/ods-to-xlsx/
+
 description: Mã mẫu cho chuyển đổi ods sang xlsx C#. Sử dụng mã mẫu API cho các tệp ods hàng loạt để chuyển đổi xlsx trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

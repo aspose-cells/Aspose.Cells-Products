@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte TSV na SPREADSHEETML pomocí aplikace C++ 
-url: /cs/cpp/conversion/tsv-to-spreadsheetml/ 
+
 description: Ukázka převodního kódu C++ pro dokument TSV do formátu SPREADSHEETML. Programátoři mohou tento zdrojový kód použít pro dávkový převod TSV do SPREADSHEETML v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل SPREADSHEETML إلى EMF عبر Python
-url: /ar/python-java/conversion/spreadsheetml-to-emf/
+
 description: نموذج كود لتحويل جدول البيانات إلى emf Python. استخدم API رمز المثال لملفات جداول البيانات الدفعية لتحويل emf داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

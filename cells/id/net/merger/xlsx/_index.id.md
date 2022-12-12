@@ -1,7 +1,7 @@
-﻿---
+---
 title: Gabungkan File XLSX melalui .NET 
 weight: 8290
-url: /id/net/merger/xlsx/ 
+
 description: C# kode sumber untuk menggabungkan dokumen XLSX pada .NET Framework, .NET Core, Mono atau Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

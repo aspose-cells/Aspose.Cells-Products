@@ -1,6 +1,6 @@
 ---
 title: Merge TSV to NUMBERS Files via Python 
-url: /python-net/merger/merge-tsv-to-numbers/ 
+
 description: Merge TSV to NUMBERS file in Python code. Combine TSV to NUMBERS file using Python.
 ---
 

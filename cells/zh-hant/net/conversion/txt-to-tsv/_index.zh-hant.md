@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 C# 將 TXT 轉換為 TSV
-url: /zh-hant/net/conversion/txt-to-tsv/
+
 description: txt 到 tsv C# 轉換的示例代碼。使用 API 示例代碼在 VB.NET、Asp.NET 或任何基於 .NET 的應用程序中將 txt 文件批量轉換為 tsv。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

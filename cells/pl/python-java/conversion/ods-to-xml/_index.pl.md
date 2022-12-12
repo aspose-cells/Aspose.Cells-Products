@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj ODS na XML za pomocą Python
-url: /pl/python-java/conversion/ods-to-xml/
+
 description: Przykładowy kod konwersji ods do xml Python. Użyj przykładowego kodu API dla wsadowych plików ods do konwersji XML w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

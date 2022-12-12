@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer TABDELIMITED naar JPEG via C#
-url: /nl/net/conversion/tabdelimited-to-jpeg/
+
 description: Voorbeeldcode voor door tabs gescheiden naar jpeg C#-conversie. Gebruik API voorbeeldcode voor batch-tabdelimited-bestanden naar jpeg-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

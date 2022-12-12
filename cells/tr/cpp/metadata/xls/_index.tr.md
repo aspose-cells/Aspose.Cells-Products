@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ aracılığıyla XLS Belge Meta Verilerini Düzenleyin veya Görüntüleyin 
 weight: 2150
-url: /tr/cpp/metadata/xls/ 
+
 description: C++ Windows 32 bit, Windows 64 bit ve Linux 64 bit için C++ Runtime Environment üzerinde XLS dosya meta verilerini düzenlemek veya görüntülemek için örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

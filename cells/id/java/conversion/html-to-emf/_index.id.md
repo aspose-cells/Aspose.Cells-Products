@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversi HTML ke EMF melalui Java 
 weight: 2260
-url: /id/java/conversion/html-to-emf/ 
+
 description: Contoh Java kode konversi untuk format HTML ke file EMF. Pemrogram dapat menggunakan kode contoh ini untuk mengekspor spreadsheet Excel & OpenOffice ke EMF dalam Aplikasi berbasis Web atau Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Sloučit soubory TXT přes .NET 
 weight: 7350
-url: /cs/net/merger/txt/ 
+
 description: Zdrojový kód C# pro kombinaci dokumentů TXT na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

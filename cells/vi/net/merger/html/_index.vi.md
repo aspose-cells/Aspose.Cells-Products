@@ -1,7 +1,7 @@
-﻿---
+---
 title: Hợp nhất các tệp HTML qua .NET 
 weight: 9440
-url: /vi/net/merger/html/ 
+
 description: C# mã nguồn để kết hợp các tài liệu HTML trên Nền tảng .NET Framework, .NET Core Mono hoặc Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

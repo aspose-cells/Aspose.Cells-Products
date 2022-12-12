@@ -1,6 +1,6 @@
-﻿---
+---
 title: Tạo Biểu đồ Excel và Chuyển đổi sang Hình ảnh qua C++
-url: /vi/cpp/chart/
+
 description: C++ mã nguồn để vẽ và chuyển đổi biểu đồ hoặc sơ đồ trong Microsoft Excel bằng cách sử dụng C++ Thư viện
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

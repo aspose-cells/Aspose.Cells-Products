@@ -1,6 +1,6 @@
 ---
 title: Convert JPG to PDF via C#
-url: /net/conversion/jpg-to-pdf/
+
 description: Convert JPG to PDF format in C# code. Save JPG as PDF using VB.NET, Asp.NET or any .NET based application.
 ---
 

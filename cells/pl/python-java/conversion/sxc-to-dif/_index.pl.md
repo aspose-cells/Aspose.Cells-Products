@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj SXC na DIF przez Python
-url: /pl/python-java/conversion/sxc-to-dif/
+
 description: Przykładowy kod konwersji sxc do różnic Python. Użyj przykładowego kodu API dla wsadowych plików sxc do konwersji różnic w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

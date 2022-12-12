@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLSX-document ontgrendelen via Java 
 weight: 310
-url: /nl/java/unlock/xlsx/ 
+
 description: Java voorbeeldcode om met een wachtwoord beveiligd XLSX-bestand te ontgrendelen in Java Runtime Environment voor JSP/JSF-applicaties en desktopapplicaties.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

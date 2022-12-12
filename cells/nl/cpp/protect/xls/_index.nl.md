@@ -1,7 +1,7 @@
-﻿---
+---
 title: Bescherm en vergrendel XLS-document via C++ 
 weight: 8760
-url: /nl/cpp/protect/xls/ 
+
 description: C++ voorbeeldcode om XLS-bestand te vergrendelen met wachtwoord op C++ Runtime Environment voor Windows 32 bit, Windows 64 bit en Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Genereer rapporten in XLSX-bestanden via .NET 
 weight: 6740
-url: /nl/net/assembly/xlsx/ 
+
 description: C# broncode om rapporten in XLSX-indeling te genereren op .NET Framework-, .NET Core-, Mono- of Xamarin-platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

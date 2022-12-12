@@ -1,7 +1,7 @@
-﻿---
+---
 title: Chuyển MHTML sang TXT qua Java 
 weight: 1440
-url: /vi/java/conversion/mhtml-to-txt/ 
+
 description: Mã chuyển đổi Java mẫu cho định dạng MHTML thành tệp TXT. Lập trình viên có thể sử dụng mã ví dụ này để xuất bảng tính Excel & OpenOffice sang TXT trong bất kỳ Ứng dụng dựa trên Web hoặc Máy tính để bàn nào Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

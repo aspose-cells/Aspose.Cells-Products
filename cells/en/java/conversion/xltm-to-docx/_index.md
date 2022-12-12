@@ -1,6 +1,6 @@
 ---
 title: Convert XLTM to DOCX via Java 
-url: /java/conversion/xltm-to-docx/
+
 description: Convert XLTM to DOCX format in Java code. Save XLTM as DOCX using Java.
 ---
 

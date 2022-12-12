@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi SPREADSHEETML sang SXC qua Python
-url: /vi/python-java/conversion/spreadsheetml-to-sxc/
+
 description: Mã mẫu cho chuyển đổi từ bảng tínhml sang sxc Python. Sử dụng mã mẫu API cho hàng loạt tệpml bảng tính để chuyển đổi sxc trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLSM в MHTML с помощью приложения C++ 
-url: /ru/cpp/conversion/xlsm-to-mhtml/ 
+
 description: Пример кода преобразования C++ для документа XLSM в формат MHTML. Программисты могут использовать этот исходный код для пакетного преобразования XLSM в MHTML в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

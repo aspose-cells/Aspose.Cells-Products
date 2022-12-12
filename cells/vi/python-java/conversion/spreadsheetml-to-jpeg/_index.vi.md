@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi SPREADSHEETML sang JPEG qua Python
-url: /vi/python-java/conversion/spreadsheetml-to-jpeg/
+
 description: Mã mẫu cho chuyển đổi từ bảng tínhml sang jpeg Python. Sử dụng mã mẫu API cho hàng loạt tệpml bảng tính để chuyển đổi jpeg trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

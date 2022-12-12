@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi FODS sang JSON qua Python
-url: /vi/python-java/conversion/fods-to-json/
+
 description: Mã mẫu cho chuyển đổi fods thành json Python. Sử dụng mã mẫu API cho các tệp fods hàng loạt để chuyển đổi json trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

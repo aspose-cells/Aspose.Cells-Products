@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Hozzon létre MS Excel XLSB fájlokat a következőn keresztül: Java "
-url: /hu/java/create-xlsb/ 
+
 description: Java Mintakód XLSB dokumentumok generálásához. Ezzel a kóddal MS Excel XLSB fájlokat hozhat létre Java alapú asztali vagy webes alkalmazásban.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

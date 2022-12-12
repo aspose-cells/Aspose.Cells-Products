@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést CSV na PNG prostřednictvím C#
-url: /cs/net/conversion/csv-to-png/
+
 description: Ukázkový kód pro převod csv na png C#. Použijte API ukázkový kód pro dávkový převod souborů csv na png v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

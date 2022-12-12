@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل SPREADSHEETML إلى XLTX عبر C#
-url: /ar/net/conversion/spreadsheetml-to-xltx/
+
 description: نموذج كود لتحويل جدول البيانات إلى xltx C#. استخدم API رمز المثال لملفات جداول البيانات الدفعية لتحويل xltx داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

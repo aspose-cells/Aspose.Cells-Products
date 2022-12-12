@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi FODS sang XLTM qua C#
-url: /vi/net/conversion/fods-to-xltm/
+
 description: Mã mẫu cho chuyển đổi fods sang xltm C#. Sử dụng API mã mẫu cho các tệp fods hàng loạt để chuyển đổi xltm trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

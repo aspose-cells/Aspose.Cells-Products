@@ -1,6 +1,6 @@
-﻿---
+---
 title: Wandeln Sie SPREADSHEETML über C# in TABDELIMITED um
-url: /de/net/conversion/spreadsheetml-to-tabdelimited/
+
 description: Beispielcode für die Umwandlung von Spreadsheetml in tabulatorgetrennte C#. Verwenden Sie API Beispielcode für Batch-Spreadsheetml-Dateien zur tabulatorgetrennten Konvertierung in VB.NET, Asp.NET oder einer beliebigen .NET-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

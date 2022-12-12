@@ -1,7 +1,7 @@
-﻿---
+---
 title: Scal pliki XLS przez Java 
 weight: 5140
-url: /pl/java/merger/xls/ 
+
 description: Java przykładowy kod do łączenia dokumentów XLS w Java środowisku wykonawczym dla aplikacji JSP/JSF i aplikacji komputerowych.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

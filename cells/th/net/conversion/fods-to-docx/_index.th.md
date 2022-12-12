@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง FODS เป็น DOCX ผ่าน C#
-url: /th/net/conversion/fods-to-docx/
+
 description: โค้ดตัวอย่างสำหรับการแปลง fods เป็น docx C# ใช้รหัสตัวอย่าง API สำหรับไฟล์แบตช์ fods เป็นการแปลง docx ภายใน VB.NET, Asp.NET หรือแอปพลิเคชันที่ใช้ .NET
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

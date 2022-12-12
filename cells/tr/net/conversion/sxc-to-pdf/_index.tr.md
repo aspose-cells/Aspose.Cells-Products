@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla SXC'yi PDF'ye dönüştürün
-url: /tr/net/conversion/sxc-to-pdf/
+
 description: sxc'den pdf'ye C# dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu sxc dosyalarını pdf'ye dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

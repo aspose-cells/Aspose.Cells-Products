@@ -1,6 +1,6 @@
-﻿---
+---
 title: MHT फ़ाइलें .NET के द्वारा मर्ज करें 
-url: /hi/net/merger/mht/ 
+
 description: एमएचटी दस्तावेज़ों को .NET फ्रेमवर्क, .NET कोर, और ज़ैमरिन प्लेटफ़ॉर्म पर संयोजित करने के लिए हमारे ऑन-प्रिमाइसेस संदेश विलय API का प्रयास करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

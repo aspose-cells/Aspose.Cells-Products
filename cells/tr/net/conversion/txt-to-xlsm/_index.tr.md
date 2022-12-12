@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla TXT'yi XLSM'ye dönüştürün
-url: /tr/net/conversion/txt-to-xlsm/
+
 description: txt'den xlsm'ye C# dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu txt dosyalarını xlsm'ye dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

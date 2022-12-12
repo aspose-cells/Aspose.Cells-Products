@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل HTML إلى EMF عبر تطبيق C++ 
 weight: 8550
-url: /ar/cpp/conversion/html-to-emf/ 
+
 description: نموذج رمز تحويل C++ لمستند HTML إلى تنسيق EMF. يمكن للمبرمجين استخدام رمز المصدر هذا لتحويل دفعة HTML إلى EMF داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

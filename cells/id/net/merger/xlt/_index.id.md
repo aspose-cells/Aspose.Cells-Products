@@ -1,7 +1,7 @@
-﻿---
+---
 title: Gabungkan File XLT melalui .NET 
 weight: 1820
-url: /id/net/merger/xlt/ 
+
 description: C# kode sumber untuk menggabungkan dokumen XLT pada .NET Framework, .NET Core, Mono atau Platform Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

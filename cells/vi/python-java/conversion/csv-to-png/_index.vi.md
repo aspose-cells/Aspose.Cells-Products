@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi CSV sang PNG qua Python
-url: /vi/python-java/conversion/csv-to-png/
+
 description: Mã mẫu cho chuyển đổi csv sang png Python. Sử dụng API mã mẫu cho hàng loạt tệp csv sang chuyển đổi png trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: สร้างแผนภูมิเส้น 3 มิติผ่าน Python
-url: /th/python-java/create-line3d-chart/
+
 description: Python โค้ดตัวอย่างสำหรับสร้างแผนภูมิเส้น 3 มิติไปยัง Excel โดยใช้ Python ไลบรารี ใช้รหัสนี้เพื่อสร้างแผนภูมิเส้น 3 มิติไปยัง MS Excel ภายในแอปพลิเคชันที่ใช้ Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

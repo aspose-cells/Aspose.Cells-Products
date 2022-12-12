@@ -1,7 +1,7 @@
-﻿---
+---
 title: Αναζήτηση εγγράφου ODS χωρίς άνοιγμα μέσω Java 
 weight: 8140
-url: /el/java/search/ods/ 
+
 description: Java δείγμα κώδικα για αναζήτηση λέξεων με μοτίβο στο αρχείο ODS στο Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

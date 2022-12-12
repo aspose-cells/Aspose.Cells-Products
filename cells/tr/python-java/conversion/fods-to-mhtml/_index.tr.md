@@ -1,6 +1,6 @@
-﻿---
+---
 title: FODS'u Python aracılığıyla MHTML'ye dönüştürün
-url: /tr/python-java/conversion/fods-to-mhtml/
+
 description: Yemlerin mhtml Python dönüşümüne ilişkin örnek kod. Python uygulamasında toplu dosya dosyaları için mhtml dönüşümü için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

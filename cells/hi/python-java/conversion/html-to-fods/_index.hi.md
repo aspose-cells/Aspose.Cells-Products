@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python के माध्यम से HTML को FODS में बदलें
-url: /hi/python-java/conversion/html-to-fods/
+
 description: html से fods Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर बैच एचटीएमएल फाइलों को फोड रूपांतरण के लिए API उदाहरण कोड का प्रयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

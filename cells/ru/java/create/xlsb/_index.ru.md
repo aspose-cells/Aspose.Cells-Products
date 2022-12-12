@@ -1,6 +1,6 @@
-﻿---
+---
 title: Создание файлов MS Excel XLSB с помощью Java 
-url: /ru/java/create-xlsb/ 
+
 description: Java Пример кода для создания документов XLSB. Используйте этот код для создания файлов MS Excel XLSB в настольном или веб-приложении на основе Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

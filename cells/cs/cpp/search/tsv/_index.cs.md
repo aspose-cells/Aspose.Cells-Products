@@ -1,7 +1,7 @@
-﻿---
+---
 title: Prohledejte dokument TSV bez otevření prostřednictvím C++ 
 weight: 930
-url: /cs/cpp/search/tsv/ 
+
 description: C++ ukázkový kód pro vyhledávání slov se vzorem v souboru TSV v C++ Runtime Environment pro Windows 32 bit, Windows 64 bit a Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

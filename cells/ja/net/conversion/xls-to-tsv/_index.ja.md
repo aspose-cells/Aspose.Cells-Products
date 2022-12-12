@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してXLSをTSVに変換します
-url: /ja/net/conversion/xls-to-tsv/
+
 description: xlsからtsvC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチxlsファイルからtsvへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

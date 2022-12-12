@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie XLTM in MD über die Anwendung C++ 
-url: /de/cpp/conversion/xltm-to-md/ 
+
 description: Beispiel-Umwandlungscode C++ für das XLTM-Dokument in das MD-Format. Programmierer können diesen Quellcode für die Batch-Konvertierung von XLTM in MD in jeder C++-Anwendung verwenden.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

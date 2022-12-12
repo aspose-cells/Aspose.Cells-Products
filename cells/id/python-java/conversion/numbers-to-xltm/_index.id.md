@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi NUMBER ke XLTM melalui Python
-url: /id/python-java/conversion/numbers-to-xltm/
+
 description: Contoh kode untuk angka ke xltm Python konversi. Gunakan API kode contoh untuk file nomor batch ke konversi xltm dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

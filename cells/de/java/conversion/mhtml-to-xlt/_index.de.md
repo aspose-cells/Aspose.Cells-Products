@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertieren Sie MHTML in XLT über Java 
 weight: 6530
-url: /de/java/conversion/mhtml-to-xlt/ 
+
 description: Beispiel-Umwandlungscode Java für das MHTML-Format in eine XLT-Datei. Programmierer können diesen Beispielcode verwenden, um Excel- und OpenOffice-Tabellen in XLT innerhalb jeder Web- oder Desktop-Java-basierten Anwendung zu exportieren.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

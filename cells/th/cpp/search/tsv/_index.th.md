@@ -1,7 +1,7 @@
-﻿---
+---
 title: ค้นหาเอกสาร TSV โดยไม่ต้องเปิดผ่าน C++ 
 weight: 930
-url: /th/cpp/search/tsv/ 
+
 description: C++ ตัวอย่างโค้ดเพื่อค้นหาคำที่มีรูปแบบในไฟล์ TSV บน C++ Runtime Environment สำหรับ Windows 32 บิต, Windows 64 บิต และ Linux 64 บิต
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

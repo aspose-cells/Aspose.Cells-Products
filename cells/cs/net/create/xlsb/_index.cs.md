@@ -1,6 +1,6 @@
-﻿---
+---
 title: Vytvářejte soubory MS Excel XLSB prostřednictvím C# 
-url: /cs/net/create-xlsb/ 
+
 description: C# Ukázkový kód pro generování dokumentů XLSB. Tento kód použijte k vytváření souborů MS Excel XLSB v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

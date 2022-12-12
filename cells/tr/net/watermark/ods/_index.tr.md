@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET aracılığıyla ODS belgesini filigranla 
 weight: 4190
-url: /tr/net/watermark/ods/ 
+
 description: .NET Framework, .NET Core, Mono veya Xamarin Platformlarında ODS dosyasına filigran eklemek veya kaldırmak için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

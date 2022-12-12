@@ -1,6 +1,6 @@
-﻿---
+---
 title: EXCEL'i Python aracılığıyla PDF'ye dönüştürün
-url: /tr/python-java/conversion/excel-to-pdf/
+
 description: Excel'den pdf'ye Python dönüştürme için örnek kod. Python uygulamasında toplu excel dosyalarından pdf'ye dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

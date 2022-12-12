@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to MD via Java 
-url: /java/conversion/mhtml-to-md/
+
 description: Convert MHTML to MD format in Java code. Save MHTML as MD using Java.
 ---
 

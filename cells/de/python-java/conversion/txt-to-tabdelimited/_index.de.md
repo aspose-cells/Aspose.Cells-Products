@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie TXT in TABDELIMITED über Python
-url: /de/python-java/conversion/txt-to-tabdelimited/
+
 description: Beispielcode für die Umwandlung von txt in tabulatorgetrennte Python. Verwenden Sie API-Beispielcode für Batch-TXT-Dateien in tabulatorgetrennte Konvertierung innerhalb der Python-Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

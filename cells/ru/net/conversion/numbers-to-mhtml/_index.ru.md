@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование NUMBERS в MHTML через C#
-url: /ru/net/conversion/numbers-to-mhtml/
+
 description: Пример кода для преобразования чисел в mhtml C#. Используйте пример кода API для преобразования файлов номеров пакетов в mhtml в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

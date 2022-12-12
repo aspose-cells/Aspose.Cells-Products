@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python के द्वारा HTML को PDF में बदलें
-url: /hi/python-java/conversion/html-to-pdf/
+
 description: html से pdf Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन में एचटीएमएल फाइलों को पीडीएफ में बदलने के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

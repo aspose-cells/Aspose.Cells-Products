@@ -1,6 +1,6 @@
 ---
 title: Create Column3D Charts via Python
-url: /python-java/create-column3d-chart/
+
 description: Python Sample code for creating Column3D charts to Excel using Python Library. Use this code for creating a Column3D chart to MS Excel within Python based application.
 
 ---

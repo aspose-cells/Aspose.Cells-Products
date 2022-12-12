@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte JSON na MD pomocí aplikace C++ 
-url: /cs/cpp/conversion/json-to-md/ 
+
 description: Ukázka převodního kódu C++ pro dokument JSON na formát MD. Programátoři mohou tento zdrojový kód použít pro dávkový převod JSON na MD v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

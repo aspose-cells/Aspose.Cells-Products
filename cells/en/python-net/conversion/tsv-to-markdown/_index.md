@@ -1,6 +1,6 @@
 ---
 title: Convert TSV to MARKDOWN via Python
-url: /python-net/conversion/tsv-to-markdown/
+
 description: Sample code for tsv to markdown Python conversion. Use API example code for batch tsv files to markdown conversion within Python application.
 ---
 

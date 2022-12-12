@@ -1,6 +1,6 @@
-﻿---
+---
 title: "JSON konvertálása DIF-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/json-to-dif/
+
 description: Mintakód a json to dif Python konverzióhoz. Használjon API példakódot a kötegelt JSON-fájlokhoz a Python alkalmazáson belüli átalakításhoz.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

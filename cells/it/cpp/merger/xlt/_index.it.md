@@ -1,6 +1,6 @@
-﻿---
+---
 title: Unisci file XLT tramite C++ 
-url: /it/cpp/merger/xlt/ 
+
 description: C++ codice di esempio per combinare documenti XLT su C++ Runtime Environment per Windows 32 bit, Windows 64 bit e Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

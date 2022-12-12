@@ -1,7 +1,7 @@
-﻿---
+---
 title:  .NET経由の画像へのXLSドキュメントチャート 
 weight: 3210
-url: /ja/net/chart/xls/ 
+
 description: .NETフレームワーク、.NETコア、Mono、またはXamarinプラットフォーム上のXLSファイルでチャートまたは図を描画および変換するためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

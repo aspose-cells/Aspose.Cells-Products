@@ -1,7 +1,7 @@
-﻿---
+---
 title: Mở khóa tài liệu XLSB qua .NET 
 weight: 6410
-url: /vi/net/unlock/xlsb/ 
+
 description: C# mã nguồn để mở khóa tệp XLSB được bảo vệ bằng mật khẩu trên Nền tảng .NET Framework, .NET Core Mono hoặc Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

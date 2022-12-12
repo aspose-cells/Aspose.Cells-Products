@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to HTML via C#
-url: /net/conversion/csv-to-html/
+
 description: Convert CSV to HTML format in C# code. Save CSV as HTML using VB.NET, Asp.NET or any .NET based application.
 ---
 

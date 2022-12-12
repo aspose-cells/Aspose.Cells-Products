@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to DOCX via Python
-url: /python-java/conversion/excel-to-docx/
+
 description: Convert EXCEL to DOCX format in Python code. Save EXCEL as DOCX using Python.
 ---
 

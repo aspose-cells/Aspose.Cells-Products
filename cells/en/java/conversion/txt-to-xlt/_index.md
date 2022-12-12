@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to XLT via Java 
-url: /java/conversion/txt-to-xlt/
+
 description: Convert TXT to XLT format in Java code. Save TXT as XLT using Java.
 ---
 

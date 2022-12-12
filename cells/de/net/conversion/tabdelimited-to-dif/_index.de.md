@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie TABDELIMITED in DIF über C#
-url: /de/net/conversion/tabdelimited-to-dif/
+
 description: Beispielcode für eine durch Tabulatoren getrennte Konversion von C#. Verwenden Sie API Beispielcode für tabulatorgetrennte Stapeldateien, um die Konvertierung innerhalb von VB.NET, Asp.NET oder einer beliebigen .NET-basierten Anwendung zu unterscheiden.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

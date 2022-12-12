@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 C# 創建 MS Excel XLTX 文件 
-url: /zh-hant/net/create-xltx/ 
+
 description: C# 用於生成 XLTX 文檔的示例代碼。使用此代碼在 VB.NET、Asp.NET 或任何基於 .NET 的應用程序中創建 MS Excel XLTX 文件。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

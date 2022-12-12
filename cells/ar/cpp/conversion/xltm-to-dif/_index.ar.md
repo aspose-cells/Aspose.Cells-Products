@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLTM إلى DIF عبر تطبيق C++ 
-url: /ar/cpp/conversion/xltm-to-dif/ 
+
 description: نموذج C++ رمز تحويل لمستند XLTM إلى تنسيق DIF. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل XLTM إلى DIF دفعة داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

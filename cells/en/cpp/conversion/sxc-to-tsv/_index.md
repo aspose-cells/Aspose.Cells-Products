@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to TSV via C++
-url: /cpp/conversion/sxc-to-tsv/
+
 description: Convert SXC to TSV format in C++ code. Save SXC as TSV using C++.
 ---
 

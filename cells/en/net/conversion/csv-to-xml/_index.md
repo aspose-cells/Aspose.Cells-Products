@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to XML via C#
-url: /net/conversion/csv-to-xml/
+
 description: Convert CSV to XML format in C# code. Save CSV as XML using VB.NET, Asp.NET or any .NET based application.
 ---
 

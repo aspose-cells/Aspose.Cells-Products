@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie JSON über Python in MHTML
-url: /de/python-java/conversion/json-to-mhtml/
+
 description: Beispielcode für die Umwandlung von json in mhtml Python. Verwenden Sie API Beispielcode für die Batch-Konvertierung von JSON-Dateien in MHTML innerhalb der Anwendung Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla Pasta Grafikler oluşturun
-url: /tr/python-java/create-pie-chart/
+
 description: Python Python Kitaplığı kullanarak Excel'de Pasta grafikler oluşturmak için örnek kod. Python tabanlı uygulama içinde MS Excel'e bir Pasta grafiği oluşturmak için bu kodu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

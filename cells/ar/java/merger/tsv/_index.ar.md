@@ -1,7 +1,7 @@
-﻿---
+---
 title: دمج ملفات TSV عبر Java 
 weight: 9260
-url: /ar/java/merger/tsv/ 
+
 description: Java نموذج كود لدمج مستندات TSV في Java Runtime Environment لتطبيق JSP / JSF وتطبيقات سطح المكتب.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

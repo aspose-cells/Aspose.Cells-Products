@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή XLTX σε TABDELIMITED μέσω Python
-url: /el/python-java/conversion/xltx-to-tabdelimited/
+
 description: Δείγμα κώδικα για μετατροπή xltx σε οριοθετημένη καρτέλα Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία xltx σε μετατροπή οριοθετημένης καρτέλας εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

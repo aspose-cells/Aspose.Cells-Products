@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java를 통해 XLS 파일에서 보고서 생성 
 weight: 1090
-url: /ko/java/assembly/xls/ 
+
 description: Java JSP/JSF 애플리케이션 및 데스크톱 애플리케이션용 런타임 환경에서 XLS 형식 보고서를 생성하기 위한 Java 샘플 코드.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

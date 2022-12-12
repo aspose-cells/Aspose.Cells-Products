@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertálja a CSV-t MHTML-re a(z) C++ alkalmazással 
 weight: 5890
-url: /hu/cpp/conversion/csv-to-mhtml/ 
+
 description: Minta C++ konverziós kód a CSV-dokumentumhoz MHTML formátumba. A programozók ezt a forráskódot használhatják a CSV-ből MHTML-be kötegelt konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

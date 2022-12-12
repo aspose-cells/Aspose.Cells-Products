@@ -1,7 +1,7 @@
-﻿---
+---
 title: Dividir archivos XLSM a través de .NET 
 weight: 8890
-url: /es/net/splitter/xlsm/ 
+
 description: C# código fuente para dividir documentos XLSM en .NET Framework, .NET Core, Mono o Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

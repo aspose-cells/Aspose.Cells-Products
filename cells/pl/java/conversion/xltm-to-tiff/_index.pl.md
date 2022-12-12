@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konwertuj XLTM na TIFF przez Java 
 weight: 3320
-url: /pl/java/conversion/xltm-to-tiff/ 
+
 description: Przykładowy kod konwersji Java dla formatu XLTM do pliku TIFF. Programiści mogą użyć tego przykładowego kodu, aby wyeksportować arkusze kalkulacyjne Excel i OpenOffice do formatu TIFF w dowolnej aplikacji internetowej lub desktopowej Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование NUMBERS в ODS через C#
-url: /ru/net/conversion/numbers-to-ods/
+
 description: Пример кода для преобразования чисел в ods C#. Используйте пример кода API для преобразования файлов с номерами пакетов в ods в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

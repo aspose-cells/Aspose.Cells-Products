@@ -1,7 +1,7 @@
-﻿---
+---
 title: Dokumen XLSB tanda air melalui .NET 
 weight: 5410
-url: /id/net/watermark/xlsb/ 
+
 description: C# kode sumber untuk menambah atau menghapus tanda air ke file XLSB di .NET Framework, .NET Core, Mono atau Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj TABDELIMITED na PNG przez Python
-url: /pl/python-java/conversion/tabdelimited-to-png/
+
 description: Przykładowy kod do konwersji rozdzielanej tabulatorami na png Python. Użyj przykładowego kodu API dla plików wsadowych rozdzielanych tabulatorami do konwersji png w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง CSV เป็น FODS ผ่าน C#
-url: /th/net/conversion/csv-to-fods/
+
 description: โค้ดตัวอย่างสำหรับการแปลง csv เป็น fods C# ใช้ API โค้ดตัวอย่างสำหรับไฟล์แบตช์ csv เพื่อแปลงเป็น fods ภายใน VB.NET, Asp.NET หรือแอปพลิเคชันที่ใช้ .NET
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

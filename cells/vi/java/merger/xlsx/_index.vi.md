@@ -1,7 +1,7 @@
-﻿---
+---
 title: Hợp nhất các tệp XLSX qua Java 
 weight: 8930
-url: /vi/java/merger/xlsx/ 
+
 description: Java mã mẫu để kết hợp tài liệu XLSX trên Java Môi trường thời gian chạy cho Ứng dụng JSP / JSF và Ứng dụng máy tính để bàn.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java経由の透かしXLSドキュメント 
 weight: 2210
-url: /ja/java/watermark/xls/ 
+
 description: JSP/JSFアプリケーションおよびデスクトップアプリケーションのJavaランタイム環境でXLSファイルに透かしを追加または削除するためのJavaサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

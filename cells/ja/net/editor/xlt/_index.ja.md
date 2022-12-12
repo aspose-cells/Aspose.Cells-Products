@@ -1,6 +1,6 @@
-﻿---
+---
 title: .NETを介してXLTファイルを編集する 
-url: /ja/net/editor/xlt/ 
+
 description: .NETフレームワーク、.NETコア、Windows Azure、Mono、またはXamarinプラットフォームでXLTドキュメントを編集するためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

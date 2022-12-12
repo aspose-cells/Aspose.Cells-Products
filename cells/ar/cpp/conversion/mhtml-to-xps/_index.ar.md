@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل MHTML إلى XPS عبر تطبيق C++ 
 weight: 7930
-url: /ar/cpp/conversion/mhtml-to-xps/ 
+
 description: نموذج لشفرة تحويل C++ لمستند MHTML إلى تنسيق XPS. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل MHTML إلى XPS دفعة داخل أي C++ تطبيق.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

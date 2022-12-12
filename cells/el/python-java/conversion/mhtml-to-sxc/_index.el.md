@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή MHTML σε SXC μέσω Python
-url: /el/python-java/conversion/mhtml-to-sxc/
+
 description: Δείγμα κώδικα για μετατροπή mhtml σε sxc Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδική μετατροπή αρχείων mhtml σε sxc εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

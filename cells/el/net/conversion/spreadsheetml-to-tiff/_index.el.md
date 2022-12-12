@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή SPREADSHEETML σε TIFF μέσω C#
-url: /el/net/conversion/spreadsheetml-to-tiff/
+
 description: Δείγμα κώδικα για τη μετατροπή υπολογιστικών φύλλων ml σε tiff C#. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία υπολογιστικών φύλλων ml για να ρυθμίσετε τη μετατροπή σε VB.NET, Asp.NET ή οποιαδήποτε εφαρμογή που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

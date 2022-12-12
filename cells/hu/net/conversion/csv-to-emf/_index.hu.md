@@ -1,6 +1,6 @@
-﻿---
+---
 title: "CSV konvertálása EMF-re a következőn keresztül: C#"
-url: /hu/net/conversion/csv-to-emf/
+
 description: Mintakód a csv-ből emf-be C#. Használjon API példakódot kötegelt csv-fájlokhoz az EMF-konverzióhoz VB.NET-on, Asp-n.NET vagy bármely .NET-alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

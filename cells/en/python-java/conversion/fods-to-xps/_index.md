@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to XPS via Python
-url: /python-java/conversion/fods-to-xps/
+
 description: Convert FODS to XPS format in Python code. Save FODS as XPS using Python.
 ---
 

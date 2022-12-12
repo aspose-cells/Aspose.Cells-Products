@@ -1,7 +1,7 @@
-﻿---
+---
 title: Fusionner les fichiers CSV via Java 
 weight: 3860
-url: /fr/java/merger/csv/ 
+
 description: Java exemple de code pour combiner des documents CSV sur Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

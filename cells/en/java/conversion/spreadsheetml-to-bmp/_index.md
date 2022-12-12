@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to BMP via Java 
-url: /java/conversion/spreadsheetml-to-bmp/
+
 description: Convert SPREADSHEETML to BMP format in Java code. Save SPREADSHEETML as BMP using Java.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: एक्सेल चार्ट बनाएं और C++ के माध्यम से छवियों में कनवर्ट करें
-url: /hi/cpp/chart/
+
 description: C++ लाइब्रेरी का उपयोग करके Microsoft Excel में चार्ट या आरेख बनाने और परिवर्तित करने के लिए C++ स्रोत कोड
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

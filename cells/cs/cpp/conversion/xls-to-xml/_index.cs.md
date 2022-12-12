@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte XLS na XML pomocí aplikace C++ 
-url: /cs/cpp/conversion/xls-to-xml/ 
+
 description: Ukázka převodního kódu C++ pro dokument XLS do formátu XML. Programátoři mohou použít tento zdrojový kód pro dávkovou konverzi XLS na XML v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

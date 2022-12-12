@@ -1,6 +1,6 @@
 ---
 title: Convert XLTM to MARKDOWN via C++
-url: /cpp/conversion/xltm-to-markdown/
+
 description: Convert XLTM to MARKDOWN format in C++ code. Save XLTM as MARKDOWN using C++.
 ---
 

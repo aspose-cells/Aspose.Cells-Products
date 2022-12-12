@@ -1,7 +1,7 @@
-﻿---
+---
 title: Python สเปรดชีต Excel API - Aspose 
 weight: 2820
-url: /th/python/ 
+
 description: Python ไลบรารีสเปรดชีตเพื่อสร้างการอ่านเขียนและแยกวิเคราะห์ไฟล์ Excel
 ---
 {{< blocks/products/pf/main-wrap-class >}}

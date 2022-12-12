@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển XLSM sang PDF qua Python
-url: /vi/python-java/conversion/xlsm-to-pdf/
+
 description: Mã mẫu để chuyển đổi xlsm sang pdf Python. Sử dụng API mã ví dụ cho chuyển đổi hàng loạt tệp xlsm sang pdf trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

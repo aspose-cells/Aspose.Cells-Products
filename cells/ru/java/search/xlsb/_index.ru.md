@@ -1,7 +1,7 @@
-﻿---
+---
 title: Поиск документа XLSB без открытия через Java 
 weight: 9420
-url: /ru/java/search/xlsb/ 
+
 description: Пример кода Java для поиска слов с шаблоном в файле XLSB в Java среде выполнения для приложений JSP/JSF и настольных приложений.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

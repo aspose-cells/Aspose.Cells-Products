@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan XLTM ke SVG melalui Python
-url: /id/python-java/conversion/xltm-to-svg/
+
 description: Contoh kode untuk konversi xltm ke svg Python. Gunakan API kode contoh untuk file batch xltm ke konversi svg dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

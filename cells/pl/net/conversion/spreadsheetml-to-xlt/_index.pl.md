@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj SPREADSHEETML na XLT za pomocą C#
-url: /pl/net/conversion/spreadsheetml-to-xlt/
+
 description: Przykładowy kod konwersji arkusza kalkulacyjnego ml na xlt C#. Użyj przykładowego kodu API dla plików arkusza kalkulacyjnego wsadowego do konwersji xlt w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

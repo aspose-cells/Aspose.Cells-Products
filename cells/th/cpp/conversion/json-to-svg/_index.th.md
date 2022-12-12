@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง JSON เป็น SVG ผ่าน C++ แอปพลิเคชัน 
-url: /th/cpp/conversion/json-to-svg/ 
+
 description: ตัวอย่างรหัสการแปลง C++ สำหรับเอกสาร JSON เป็นรูปแบบ SVG โปรแกรมเมอร์สามารถใช้ซอร์สโค้ดนี้สำหรับการแปลง JSON เป็น SVG แบบแบตช์ภายในแอปพลิเคชัน C++ ใดก็ได้
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

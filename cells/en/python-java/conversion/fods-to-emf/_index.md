@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to EMF via Python
-url: /python-java/conversion/fods-to-emf/
+
 description: Convert FODS to EMF format in Python code. Save FODS as EMF using Python.
 ---
 

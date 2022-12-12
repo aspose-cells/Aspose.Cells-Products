@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してNUMBERSをTXTに変換します
-url: /ja/net/conversion/numbers-to-txt/
+
 description: 数値からtxtC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチ番号ファイルからtxtへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

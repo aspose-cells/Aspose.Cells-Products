@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to JPEG via C++
-url: /cpp/conversion/json-to-jpeg/
+
 description: Convert JSON to JPEG format in C++ code. Save JSON as JPEG using C++.
 ---
 

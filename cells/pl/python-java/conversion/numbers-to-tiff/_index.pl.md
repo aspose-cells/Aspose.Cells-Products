@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj NUMBERS na TIFF przez Python
-url: /pl/python-java/conversion/numbers-to-tiff/
+
 description: Przykładowy kod liczb do konwersji tiff Python. Użyj przykładowego kodu API dla plików numerów partii do konwersji tiff w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

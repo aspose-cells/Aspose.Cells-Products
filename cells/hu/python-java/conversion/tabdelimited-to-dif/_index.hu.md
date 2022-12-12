@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TABDELIMITED konvertálása DIF-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/tabdelimited-to-dif/
+
 description: Mintakód a tabulátorral tagolt Python konverzióhoz. Használjon API példakódot a kötegelt tabulátorral tagolt fájlokhoz a Python alkalmazáson belüli konvertáláshoz.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

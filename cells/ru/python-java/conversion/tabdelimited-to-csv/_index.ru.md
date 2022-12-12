@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование TABDELIMITED в CSV через Python
-url: /ru/python-java/conversion/tabdelimited-to-csv/
+
 description: Пример кода для преобразования tabdelimited в csv Python. Используйте пример кода API для пакетного преобразования файлов с разделителями табуляции в CSV в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

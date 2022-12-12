@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Szöveg és képek kinyerése XLS-dokumentumból a következőn keresztül: C++ "
 weight: 7610
-url: /hu/cpp/parser/xls/ 
+
 description: C++ példakód szöveg és képek XLS-fájlból való kivonásához a C++ Runtime Environment for Windows 32 bit, Windows 64 bit és Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++アプリケーションを介してHTMLをMHTMLに変換する 
 weight: 4130
-url: /ja/cpp/conversion/html-to-mhtml/ 
+
 description: HTMLドキュメントからMHTML形式へのサンプルC++変換コード。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でHTMLからMHTMLへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

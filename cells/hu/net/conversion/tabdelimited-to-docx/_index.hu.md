@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TABDELIMITED konvertálása DOCX-re a következőn keresztül: C#"
-url: /hu/net/conversion/tabdelimited-to-docx/
+
 description: Mintakód a tabulátorral elválasztott docx C# konverzióhoz. Használjon API példakódot a tabulátorral elválasztott fájlok kötegelt docx konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

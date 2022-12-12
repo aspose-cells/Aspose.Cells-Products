@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してTXTをXLTXに変換します
-url: /ja/python-java/conversion/txt-to-xltx/
+
 description: txtからxltxPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチtxtファイルからxltxへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

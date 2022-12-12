@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SPREADSHEETML konvertálása TIFF-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/spreadsheetml-to-tiff/
+
 description: Mintakód a táblázatkezelőből a tiff Python konverzióhoz. Használjon API példakódot kötegelt táblázatkezelő fájlokhoz a tiff konverzióhoz a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

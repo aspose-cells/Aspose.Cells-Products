@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLT в SVG через C#
-url: /ru/net/conversion/xlt-to-svg/
+
 description: Пример кода для преобразования xlt в svg C#. Используйте пример кода API для пакетного преобразования файлов xlt в svg в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

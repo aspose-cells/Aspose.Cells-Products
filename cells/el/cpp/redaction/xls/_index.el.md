@@ -1,7 +1,7 @@
-﻿---
+---
 title: Αναζήτηση και αντικατάσταση κειμένου σε έγγραφο XLS μέσω C++ 
 weight: 380
-url: /el/cpp/redaction/xls/ 
+
 description: C++ παράδειγμα κώδικα για τη διόρθωση ευαίσθητων πληροφοριών σε αρχείο XLS στο C++ Runtime Environment για Windows 32 bit, Windows 64 bit και Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

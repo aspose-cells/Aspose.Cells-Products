@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer TSV naar FODS via C#
-url: /nl/net/conversion/tsv-to-fods/
+
 description: Voorbeeldcode voor conversie van tsv naar fods C#. Gebruik API voorbeeldcode voor batch-tsv-bestanden naar fods-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

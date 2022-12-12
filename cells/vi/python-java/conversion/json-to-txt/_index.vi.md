@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi JSON sang TXT qua Python
-url: /vi/python-java/conversion/json-to-txt/
+
 description: Mã mẫu cho chuyển đổi json sang txt Python. Sử dụng mã mẫu API cho hàng loạt tệp json sang chuyển đổi txt trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

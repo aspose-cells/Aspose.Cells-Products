@@ -1,6 +1,6 @@
 ---
 title: Convert XLSX to DOCX via Python
-url: /python-java/conversion/xlsx-to-docx/
+
 description: Convert XLSX to DOCX format in Python code. Save XLSX as DOCX using Python.
 ---
 

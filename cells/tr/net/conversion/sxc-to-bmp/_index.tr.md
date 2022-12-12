@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla SXC'yi BMP'ye dönüştürün
-url: /tr/net/conversion/sxc-to-bmp/
+
 description: sxc'den bmp'ye C# dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu sxc dosyalarının bmp'ye dönüştürülmesi için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

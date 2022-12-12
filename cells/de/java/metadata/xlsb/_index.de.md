@@ -1,7 +1,7 @@
-﻿---
+---
 title: Bearbeiten oder Anzeigen von Metadaten von XLSB-Dateien über Java 
 weight: 7290
-url: /de/java/metadata/xlsb/ 
+
 description: Java Beispielcode zum Bearbeiten oder Anzeigen von Metadaten im XLSB-Format in Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

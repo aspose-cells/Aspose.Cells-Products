@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan XLSX ke XLSM melalui C#
-url: /id/net/conversion/xlsx-to-xlsm/
+
 description: Contoh kode untuk konversi xlsx ke xlsm C#. Gunakan API kode contoh untuk file batch xlsx ke konversi xlsm dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

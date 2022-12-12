@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLTM konvertálása MARKDOWN-re a következőn keresztül: C#"
-url: /hu/net/conversion/xltm-to-markdown/
+
 description: Mintakód az xltm to markdown C# konverzióhoz. Használjon API példakódot kötegelt xltm fájlokhoz a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazás konverziójának leértékeléséhez.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

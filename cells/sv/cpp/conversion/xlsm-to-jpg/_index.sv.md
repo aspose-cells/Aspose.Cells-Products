@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera XLSM till JPG via appen C++ 
-url: /sv/cpp/conversion/xlsm-to-jpg/ 
+
 description: Exempel på konverteringskod för C++ för XLSM-dokument till JPG-format. Programmerare kan använda den här källkoden för batchkonvertering av XLSM till JPG inom alla C++-program.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

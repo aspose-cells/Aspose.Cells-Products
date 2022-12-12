@@ -1,6 +1,6 @@
-﻿---
+---
 title: Ubah NUMBER ke MARKDOWN melalui C#
-url: /id/net/conversion/numbers-to-markdown/
+
 description: Contoh kode angka untuk penurunan harga C# konversi. Gunakan API kode contoh untuk file nomor batch untuk konversi penurunan harga dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

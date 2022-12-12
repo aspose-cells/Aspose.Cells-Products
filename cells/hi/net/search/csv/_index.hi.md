@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET से खोले बिना CSV दस्तावेज़ खोजें 
 weight: 7510
-url: /hi/net/search/csv/ 
+
 description: .NET Framework, .NET Core, Mono या Xamarin Platforms पर CSV फ़ाइल में पैटर्न वाले शब्दों को खोजने के लिए C# स्रोत कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

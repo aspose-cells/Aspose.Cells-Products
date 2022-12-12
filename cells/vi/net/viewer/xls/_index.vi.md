@@ -1,7 +1,7 @@
-﻿---
+---
 title: Xem Định dạng Tệp XLS qua .NET 
 weight: 1260
-url: /vi/net/viewer/xls/ 
+
 description: C# mã nguồn để tải, hiển thị và hiển thị các tài liệu XLS trên Nền tảng .NET Framework, .NET Core Mono hoặc Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

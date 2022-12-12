@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to XLTM via C++
-url: /cpp/conversion/numbers-to-xltm/
+
 description: Convert NUMBERS to XLTM format in C++ code. Save NUMBERS as XLTM using C++.
 ---
 

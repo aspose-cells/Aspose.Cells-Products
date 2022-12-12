@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLSB в MD через C#
-url: /ru/net/conversion/xlsb-to-md/
+
 description: Пример кода для преобразования xlsb в md C#. Используйте пример кода API для пакетного преобразования файлов xlsb в md в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Lihat Format File HTML melalui .NET 
-url: /id/net/viewer/html/ 
+
 description: C# kode sumber untuk memuat, merender, dan menampilkan dokumen HTML pada .NET Framework, .NET Core, Windows Azure, Mono atau Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

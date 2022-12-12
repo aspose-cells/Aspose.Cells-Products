@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NETを介してXLSMファイルを分割する 
 weight: 8890
-url: /ja/net/splitter/xlsm/ 
+
 description: .NETフレームワーク、.NETコア、Mono、またはXamarinプラットフォームでXLSMドキュメントを分割するためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

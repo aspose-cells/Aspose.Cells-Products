@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 C++ 應用程序將 XLTM 轉換為 JPG 
-url: /zh-hant/cpp/conversion/xltm-to-jpg/ 
+
 description: XLTM 文檔到 JPG 格式的示例 C++ 轉換代碼。程序員可以使用此源代碼在任何 C++ 應用程序中進行批量 XLTM 到 JPG 的轉換。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

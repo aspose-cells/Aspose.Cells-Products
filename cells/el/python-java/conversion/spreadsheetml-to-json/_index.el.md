@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή SPREADSHEETML σε JSON μέσω Python
-url: /el/python-java/conversion/spreadsheetml-to-json/
+
 description: Δείγμα κώδικα για μετατροπή υπολογιστικού φύλλου σε json Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία υπολογιστικού φύλλου σε μετατροπή json εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

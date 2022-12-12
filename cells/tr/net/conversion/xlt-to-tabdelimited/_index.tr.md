@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla XLT'yi TABDELIMITED'e dönüştürün
-url: /tr/net/conversion/xlt-to-tabdelimited/
+
 description: xlt'den sekmeyle ayrılmış C# dönüşümüne ilişkin örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu xlt dosyaları için sekmeyle ayrılmış dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

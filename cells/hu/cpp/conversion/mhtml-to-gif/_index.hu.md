@@ -1,7 +1,7 @@
-﻿---
+---
 title: MHTML konvertálása GIF formátumba a(z) C++ alkalmazással 
 weight: 3630
-url: /hu/cpp/conversion/mhtml-to-gif/ 
+
 description: Minta C++ konverziós kód MHTML-dokumentumhoz GIF formátumba. A programozók ezt a forráskódot használhatják az MHTML-ből GIF-be kötegelt konvertálásához bármely C++ alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

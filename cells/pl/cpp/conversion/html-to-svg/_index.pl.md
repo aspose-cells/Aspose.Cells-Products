@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konwertuj HTML do SVG za pomocą aplikacji C++ 
 weight: 3480
-url: /pl/cpp/conversion/html-to-svg/ 
+
 description: Przykładowy kod konwersji C++ dla dokumentu HTML do formatu SVG. Programiści mogą używać tego kodu źródłowego do wsadowej konwersji HTML do SVG w dowolnej aplikacji C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

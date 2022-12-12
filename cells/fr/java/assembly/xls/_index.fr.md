@@ -1,7 +1,7 @@
-﻿---
+---
 title: Générer des rapports dans des fichiers XLS via Java 
 weight: 1090
-url: /fr/java/assembly/xls/ 
+
 description: Java exemple de code pour créer des rapports au format XLS sur Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

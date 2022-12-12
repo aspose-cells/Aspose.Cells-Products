@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 C# 将 SPREADSHEETML 转换为 SXC
-url: /zh/net/conversion/spreadsheetml-to-sxc/
+
 description: 电子表格到 sxc C# 转换的示例代码。在 VB.NET、Asp.NET 或任何基于 .NET 的应用程序中，将 API 示例代码用于批处理电子表格ml 文件到 sxc 转换。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Spravujte metadata souboru Excel prostřednictvím .NET C#
-url: /cs/net/metadata/
+
 description: Zobrazujte, přidávejte, upravujte, odebírejte nebo extrahujte metadata souborů Excel pomocí několika řádků kódu C#
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

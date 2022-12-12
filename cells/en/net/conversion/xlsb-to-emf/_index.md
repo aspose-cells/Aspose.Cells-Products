@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to EMF via C#
-url: /net/conversion/xlsb-to-emf/
+
 description: Convert XLSB to EMF format in C# code. Save XLSB as EMF using VB.NET, Asp.NET or any .NET based application.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja a HTML-t XML-be a(z) C++ alkalmazással 
-url: /hu/cpp/conversion/html-to-xml/ 
+
 description: Minta C++ konverziós kód HTML dokumentumhoz XML formátumba. A programozók ezt a forráskódot használhatják kötegelt HTML-ből XML-be konvertálásához bármely C++ alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

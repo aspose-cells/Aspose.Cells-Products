@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to SXC via Python
-url: /python-java/conversion/mhtml-to-sxc/
+
 description: Convert MHTML to SXC format in Python code. Save MHTML as SXC using Python.
 ---
 

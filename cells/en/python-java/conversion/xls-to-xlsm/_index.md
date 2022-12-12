@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to XLSM via Python
-url: /python-java/conversion/xls-to-xlsm/
+
 description: Convert XLS to XLSM format in Python code. Save XLS as XLSM using Python.
 ---
 

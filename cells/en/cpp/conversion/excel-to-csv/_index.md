@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to CSV via C++
-url: /cpp/conversion/excel-to-csv/
+
 description: Convert EXCEL to CSV format in C++ code. Save EXCEL as CSV using C++.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: XLTM को C# के द्वारा MARKDOWN में बदलें
-url: /hi/net/conversion/xltm-to-markdown/
+
 description: xltm से मार्कडाउन C# रूपांतरण के लिए नमूना कोड। VB.NET, Asp.NET या किसी .NET आधारित एप्लिकेशन में रूपांतरण को चिह्नित करने के लिए बैच xltm फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してMHTMLをJPGに変換します
-url: /ja/python-java/conversion/mhtml-to-jpg/
+
 description: mhtmlからjpgPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチmhtmlファイルからjpgへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

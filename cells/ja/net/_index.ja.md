@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET Excel API | .NETコアを介してスプレッドシート形式を処理する 
 weight: 2030
-url: /ja/net/ 
+
 description: C# ASP .NET VB .NETライブラリは、MicrosoftExcelドキュメントで動作します。読み取り、書き込み、保存、および印刷スプレッドシートファイルを作成します。 PDF以上の形式に変換する
 ---
 {{< blocks/products/pf/main-wrap-class >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Создание отчетов в файлах XLSM с помощью Java 
 weight: 270
-url: /ru/java/assembly/xlsm/ 
+
 description: Пример кода Java для создания отчетов в формате XLSM в Java среде выполнения для приложений JSP/JSF и настольных приложений.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

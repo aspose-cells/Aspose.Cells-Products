@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++アプリケーションを介してXLSMをPNGに変換する 
-url: /ja/cpp/conversion/xlsm-to-png/ 
+
 description: XLSMドキュメントからPNG形式へのサンプルC++変換コード。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でXLSMからPNGへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

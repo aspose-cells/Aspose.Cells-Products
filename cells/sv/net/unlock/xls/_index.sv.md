@@ -1,7 +1,7 @@
-﻿---
+---
 title: Lås upp XLS-dokument via .NET 
 weight: 4260
-url: /sv/net/unlock/xls/ 
+
 description: C# källkod för att låsa upp lösenordsskyddad XLS-fil på .NET Framework, .NET Core, Mono eller Xamarin-plattformar.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

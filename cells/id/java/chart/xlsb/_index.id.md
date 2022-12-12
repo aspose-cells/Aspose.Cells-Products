@@ -1,7 +1,7 @@
-﻿---
+---
 title: Bagan dokumen XLSB melalui Java 
 weight: 670
-url: /id/java/chart/xlsb/ 
+
 description: Java contoh kode untuk menggambar dan mengonversi bagan atau diagram dalam file XLSB di Java Runtime Environment untuk Aplikasi JSP/JSF dan Aplikasi Desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

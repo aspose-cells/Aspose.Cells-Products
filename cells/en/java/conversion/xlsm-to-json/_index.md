@@ -1,6 +1,6 @@
 ---
 title: Convert XLSM to JSON via Java 
-url: /java/conversion/xlsm-to-json/
+
 description: Convert XLSM to JSON format in Java code. Save XLSM as JSON using Java.
 ---
 

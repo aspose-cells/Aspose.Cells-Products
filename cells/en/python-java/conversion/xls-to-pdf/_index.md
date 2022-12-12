@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to PDF via Python
-url: /python-java/conversion/xls-to-pdf/
+
 description: Convert XLS to PDF format in Python code. Save XLS as PDF using Python.
 ---
 

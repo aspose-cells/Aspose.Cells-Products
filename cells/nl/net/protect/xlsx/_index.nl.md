@@ -1,7 +1,7 @@
-﻿---
+---
 title: Bescherm en vergrendel XLSX-document via .NET 
 weight: 90
-url: /nl/net/protect/xlsx/ 
+
 description: C# broncode om XLSX-bestand te vergrendelen met wachtwoord op .NET Framework, .NET Core, Mono of Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

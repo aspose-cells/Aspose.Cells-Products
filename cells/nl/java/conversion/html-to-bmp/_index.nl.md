@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer HTML naar BMP via Java 
 weight: 740
-url: /nl/java/conversion/html-to-bmp/ 
+
 description: Voorbeeld Java conversiecode voor HTML-indeling naar BMP-bestand. Programmeurs kunnen deze voorbeeldcode gebruiken om Excel- en OpenOffice-spreadsheets naar BMP te exporteren binnen elke web- of desktoptoepassing Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

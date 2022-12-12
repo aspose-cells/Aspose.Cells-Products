@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to TXT via Python
-url: /python-java/conversion/tabdelimited-to-txt/
+
 description: Convert TABDELIMITED to TXT format in Python code. Save TABDELIMITED as TXT using Python.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLSM konvertálása SVG-vé a következőn keresztül: C#"
-url: /hu/net/conversion/xlsm-to-svg/
+
 description: Mintakód az xlsm–svg C# konverzióhoz. Használjon API példakódot kötegelt xlsm fájlok SVG konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

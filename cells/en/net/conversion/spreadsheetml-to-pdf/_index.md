@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to PDF via C#
-url: /net/conversion/spreadsheetml-to-pdf/
+
 description: Convert SPREADSHEETML to PDF format in C# code. Save SPREADSHEETML as PDF using VB.NET, Asp.NET or any .NET based application.
 ---
 

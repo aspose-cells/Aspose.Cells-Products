@@ -1,7 +1,7 @@
-﻿---
+---
 title: Chuyển MHTML sang ODS qua Java 
 weight: 9670
-url: /vi/java/conversion/mhtml-to-ods/ 
+
 description: Mã chuyển đổi Java mẫu cho định dạng MHTML thành tệp ODS. Người lập trình có thể sử dụng mã ví dụ này để xuất bảng tính Excel & OpenOffice sang ODS trong bất kỳ Ứng dụng dựa trên Web hoặc Máy tính Java nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

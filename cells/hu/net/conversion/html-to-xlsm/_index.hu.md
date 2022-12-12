@@ -1,6 +1,6 @@
-﻿---
+---
 title: "HTML konvertálása XLSM-re a következőn keresztül: C#"
-url: /hu/net/conversion/html-to-xlsm/
+
 description: Mintakód a html-ből xlsm-be C# konverzióhoz. Használjon API példakódot a kötegelt html fájlok xlsm konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

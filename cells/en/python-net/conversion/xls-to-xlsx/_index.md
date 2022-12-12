@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to XLSX via Python
-url: /python-net/conversion/xls-to-xlsx/
+
 description: Sample code for xls to xlsx Python conversion. Use API example code for batch xls files to xlsx conversion within Python application.
 ---
 

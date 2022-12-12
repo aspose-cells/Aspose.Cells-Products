@@ -1,7 +1,7 @@
-﻿---
+---
 title: Wyszukaj dokument XLS bez otwierania przez .NET 
 weight: 1490
-url: /pl/net/search/xls/ 
+
 description: C# kod źródłowy do wyszukiwania słów ze wzorcem w pliku XLS na platformach .NET Framework, .NET Core, Mono lub Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してHTMLをBMPに変換します 
 weight: 740
-url: /ja/java/conversion/html-to-bmp/ 
+
 description: HTML形式からBMPファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のBMPにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

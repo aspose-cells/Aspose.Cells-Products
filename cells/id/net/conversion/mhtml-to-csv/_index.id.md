@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan MHTML ke CSV melalui C#
-url: /id/net/conversion/mhtml-to-csv/
+
 description: Contoh kode untuk konversi mhtml ke csv C#. Gunakan API kode contoh untuk file batch mhtml ke konversi csv dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

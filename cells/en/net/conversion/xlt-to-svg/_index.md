@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to SVG via C#
-url: /net/conversion/xlt-to-svg/
+
 description: Convert XLT to SVG format in C# code. Save XLT as SVG using VB.NET, Asp.NET or any .NET based application.
 ---
 

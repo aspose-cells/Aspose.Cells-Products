@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή HTML σε TABDELIMITED μέσω Python
-url: /el/python-java/conversion/html-to-tabdelimited/
+
 description: Δείγμα κώδικα για μετατροπή html σε οριοθέτηση καρτέλας Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία html σε μετατροπή οριοθετημένης καρτέλας εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

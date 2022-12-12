@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést NUMBERS na DIF prostřednictvím Python
-url: /cs/python-java/conversion/numbers-to-dif/
+
 description: Ukázkový kód pro převod čísel na rozdíl Python. Použijte API ukázkový kód pro dávkové číselné soubory pro převod převodu v Python aplikaci.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

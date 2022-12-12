@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLSX-et MD-vé a C++ alkalmazással 
-url: /hu/cpp/conversion/xlsx-to-md/ 
+
 description: Minta C++ konverziós kód XLSX dokumentumhoz MD formátumba. A programozók ezt a forráskódot használhatják az XLSX-ből MD-be kötegelt konvertáláshoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

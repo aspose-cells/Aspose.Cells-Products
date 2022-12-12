@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLTX na DIF přes C#
-url: /cs/net/conversion/xltx-to-dif/
+
 description: Ukázkový kód pro převod xltx na rozdíl C#. Použijte API ukázkový kód pro dávkové soubory xltx pro převod převodu v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

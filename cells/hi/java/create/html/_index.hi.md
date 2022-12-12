@@ -1,6 +1,6 @@
-﻿---
+---
 title: Java के द्वारा HTML फ़ाइलें बनाएं 
-url: /hi/java/create-html/ 
+
 description: Java HTML दस्तावेज़ बनाने के लिए नमूना कोड। Java आधारित डेस्कटॉप या वेब एप्लिकेशन में HTML फ़ाइलें बनाने के लिए इस कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

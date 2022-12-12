@@ -1,7 +1,7 @@
-﻿---
+---
 title: Ajouter une annotation de fichier Excel XLS via C++ 
 weight: 10040
-url: /fr/cpp/annotation/xls/ 
+
 description: C++ exemple de code pour ajouter et supprimer des annotations au format XLS sur C++ l'environnement d'exécution pour Windows 32 bits, Windows 64 bits et Linux 64 bits.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

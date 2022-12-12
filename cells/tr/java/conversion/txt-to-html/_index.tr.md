@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java aracılığıyla TXT'yi HTML'ye dönüştürün 
 weight: 9800
-url: /tr/java/conversion/txt-to-html/ 
+
 description: TXT biçimi için HTML dosyasına örnek Java dönüştürme kodu. Programcılar, Excel ve OpenOffice elektronik tablolarını herhangi bir Web veya Masaüstü Java tabanlı Uygulamada HTML'ye aktarmak için bu örnek kodu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

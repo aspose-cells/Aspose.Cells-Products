@@ -1,6 +1,6 @@
-﻿---
+---
 title: Buat Bagan Bubble3D melalui Python
-url: /id/python-java/create-bubble3d-chart/
+
 description: Python Contoh kode untuk membuat bagan Bubble3D ke Excel menggunakan Python Pustaka. Gunakan kode ini untuk membuat bagan Bubble3D ke MS Excel dalam aplikasi berbasis Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

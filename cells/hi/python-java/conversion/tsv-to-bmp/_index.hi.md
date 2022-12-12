@@ -1,6 +1,6 @@
-﻿---
+---
 title: TSV को Python के माध्यम से BMP में बदलें
-url: /hi/python-java/conversion/tsv-to-bmp/
+
 description: tsv से bmp Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर बीएमपी रूपांतरण के लिए बैच tsv फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

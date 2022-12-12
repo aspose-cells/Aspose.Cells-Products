@@ -1,7 +1,7 @@
 ---
 title: Insert ScrollBar(Form control) into Excel via Python 
 weight: 90
-url: /python-net/developer/insert-form-control-scroll-bar-to-excel/ 
+
 description: Python source code to insert ScrollBar(Form control) into Excel.
 ---
 

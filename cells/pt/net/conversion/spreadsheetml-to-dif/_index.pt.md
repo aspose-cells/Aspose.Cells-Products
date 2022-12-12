@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter SPREADSHEETML para DIF via C#
-url: /pt/net/conversion/spreadsheetml-to-dif/
+
 description: Código de exemplo para planilhaml para conversão de C# dif. Use API código de exemplo para arquivos de planilhaml em lote para conversão diferente em VB.NET, Asp.NET ou qualquer aplicativo baseado em .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование NUMBERS в SVG через C#
-url: /ru/net/conversion/numbers-to-svg/
+
 description: Пример кода для преобразования чисел в SVG C#. Используйте пример кода API для преобразования файлов номеров пакетов в SVG в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

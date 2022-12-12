@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してXLSXをJPGに変換します 
-url: /ja/java/conversion/xlsx-to-jpg/ 
+
 description: XLSX形式からJPGファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、任意のWebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをJPGにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

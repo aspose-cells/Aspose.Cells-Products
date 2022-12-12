@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie XLT in XLAM über C#
-url: /de/net/conversion/xlt-to-xlam/
+
 description: Beispielcode für die xlt-zu-xlam-C#-Konvertierung. Verwenden Sie API Beispielcode für die Batch-Konvertierung von xlt-Dateien in xlam innerhalb von VB.NET, Asp.NET oder einer beliebigen .NET-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

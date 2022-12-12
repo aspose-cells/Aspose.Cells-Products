@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer TABDELIMITED naar DIF via C#
-url: /nl/net/conversion/tabdelimited-to-dif/
+
 description: Voorbeeldcode voor tabdelimited to dif C# conversie. Gebruik API voorbeeldcode voor batch-tabdelimited-bestanden voor dif-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

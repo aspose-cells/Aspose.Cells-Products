@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してNUMBERSをMARKDOWNに変換します 
-url: /ja/java/conversion/numbers-to-markdown/ 
+
 description: NUMBERS形式からMARKDOWNファイルへのJava変換コードのサンプル。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートをWebまたはデスクトップJavaベースのアプリケーション内のMARKDOWNにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie NUMBERS in SVG über Python
-url: /de/python-java/conversion/numbers-to-svg/
+
 description: Beispielcode für die Umwandlung von Zahlen in SVG Python. Verwenden Sie den API Beispielcode für die Konvertierung von Stapelnummerndateien in SVG innerhalb der Anwendung Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

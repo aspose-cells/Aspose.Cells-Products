@@ -1,6 +1,6 @@
 ---
 title: Convert XLSM to CSV via Java 
-url: /java/conversion/xlsm-to-csv/
+
 description: Convert XLSM to CSV format in Java code. Save XLSM as CSV using Java.
 ---
 

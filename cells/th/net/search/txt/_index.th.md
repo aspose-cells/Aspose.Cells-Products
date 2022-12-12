@@ -1,7 +1,7 @@
-﻿---
+---
 title: ค้นหาเอกสาร TXT โดยไม่ต้องเปิดผ่าน .NET 
 weight: 8410
-url: /th/net/search/txt/ 
+
 description: C# ซอร์สโค้ดเพื่อค้นหาคำที่มีรูปแบบในไฟล์ TXT บน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

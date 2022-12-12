@@ -1,7 +1,7 @@
-﻿---
+---
 title: Rechercher un document TXT sans l'ouvrir via .NET 
 weight: 8410
-url: /fr/net/search/txt/ 
+
 description: C# code source pour rechercher des mots avec un modèle dans le fichier TXT sur .NET Framework, .NET Core, Mono ou Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

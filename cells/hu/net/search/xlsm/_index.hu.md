@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLSM-dokumentum keresése megnyitás nélkül a következőn keresztül: .NET "
 weight: 4880
-url: /hu/net/search/xlsm/ 
+
 description: C# forráskóddal kereshet szavakat mintával XLSM-fájlban .NET Framework, .NET Core, Mono vagy Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

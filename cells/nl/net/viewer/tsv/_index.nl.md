@@ -1,7 +1,7 @@
-﻿---
+---
 title: Bekijk TSV-bestandsindelingen via .NET 
 weight: 3090
-url: /nl/net/viewer/tsv/ 
+
 description: C# broncode om TSV-documenten te laden, weer te geven en weer te geven op .NET Framework-, .NET Core-, Mono- of Xamarin-platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

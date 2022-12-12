@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to XLSM via Python
-url: /python-net/conversion/xlt-to-xlsm/
+
 description: Sample code for xlt to xlsm Python conversion. Use API example code for batch xlt files to xlsm conversion within Python application.
 ---
 

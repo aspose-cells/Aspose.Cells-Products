@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter NUMBERS para XLTM via C#
-url: /pt/net/conversion/numbers-to-xltm/
+
 description: Código de amostra para conversão de números para xltm C#. Use API código de exemplo para arquivos de números de lote para conversão xltm em VB.NET, Asp.NET ou qualquer aplicativo baseado em .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

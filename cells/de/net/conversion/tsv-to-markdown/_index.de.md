@@ -1,6 +1,6 @@
-﻿---
+---
 title: Wandeln Sie TSV über C# in MARKDOWN um
-url: /de/net/conversion/tsv-to-markdown/
+
 description: Beispielcode für die Umwandlung von tsv in Markdown C#. Verwenden Sie API Beispielcode für Batch-tsv-Dateien zur Markdown-Konvertierung in VB.NET, Asp.NET oder einer beliebigen .NET-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

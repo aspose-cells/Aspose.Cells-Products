@@ -1,6 +1,6 @@
-﻿---
+---
 title: "JSON konvertálása EXCEL-re a következőn keresztül: C#"
-url: /hu/net/conversion/json-to-excel/
+
 description: Json mintakód az Excel C# konverzióhoz. Használjon API példakódot kötegelt json-fájlokhoz a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belüli konverzióhoz.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

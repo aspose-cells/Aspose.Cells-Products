@@ -1,6 +1,6 @@
 ---
 title: Convert XLTM to EMF via C#
-url: /net/conversion/xltm-to-emf/
+
 description: Convert XLTM to EMF format in C# code. Save XLTM as EMF using VB.NET, Asp.NET or any .NET based application.
 ---
 

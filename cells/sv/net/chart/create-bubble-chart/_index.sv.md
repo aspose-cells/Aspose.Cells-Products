@@ -1,6 +1,6 @@
-﻿---
+---
 title: Skapa bubbeldiagram via C#
-url: /sv/net/create-bubble-chart/
+
 description: C# Exempelkod för att skapa bubbeldiagram till Excel med hjälp av .NET Library. Använd den här koden för att skapa ett {chart}-diagram till MS Excel inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

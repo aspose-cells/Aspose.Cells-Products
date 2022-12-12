@@ -1,6 +1,6 @@
-﻿---
+---
 title: XLSB को XLSX से C# में कनवर्ट करें
-url: /hi/net/conversion/xlsb-to-xlsx/
+
 description: xlsb से xlsx C# रूपांतरण के लिए नमूना कोड। VB.NET, Asp.NET या किसी .NET आधारित एप्लिकेशन के भीतर xlsb फ़ाइलों को xlsx रूपांतरण में बैच के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

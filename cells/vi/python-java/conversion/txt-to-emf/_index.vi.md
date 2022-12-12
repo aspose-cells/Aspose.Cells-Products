@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi TXT sang EMF qua Python
-url: /vi/python-java/conversion/txt-to-emf/
+
 description: Mã mẫu cho chuyển đổi txt sang emf Python. Sử dụng mã mẫu API cho các tệp txt hàng loạt để chuyển đổi emf trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

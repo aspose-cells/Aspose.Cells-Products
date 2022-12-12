@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してFODSをSPREADSHEETMLに変換します
-url: /ja/net/conversion/fods-to-spreadsheetml/
+
 description: fodsからspreadplacemlC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチfodファイルからspreadsheetmlへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

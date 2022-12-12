@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NETを介してXLSドキュメントからテキストと画像を抽出します 
 weight: 5600
-url: /ja/net/parser/xls/ 
+
 description: .NETフレームワーク、.NETコア、Mono、またはXamarinプラットフォーム上のXLSファイルからテキストと画像を抽出するためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

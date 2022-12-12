@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to JPG via Java 
-url: /java/conversion/html-to-jpg/
+
 description: Convert HTML to JPG format in Java code. Save HTML as JPG using Java.
 ---
 

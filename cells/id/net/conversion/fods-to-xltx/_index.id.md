@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan FODS ke XLTX melalui C#
-url: /id/net/conversion/fods-to-xltx/
+
 description: Contoh kode untuk konversi fods ke xltx C#. Gunakan API kode contoh untuk file batch fods ke konversi xltx dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

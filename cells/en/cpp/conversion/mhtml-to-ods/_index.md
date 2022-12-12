@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to ODS via C++
-url: /cpp/conversion/mhtml-to-ods/
+
 description: Convert MHTML to ODS format in C++ code. Save MHTML as ODS using C++.
 ---
 

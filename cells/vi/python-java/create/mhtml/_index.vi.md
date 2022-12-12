@@ -1,6 +1,6 @@
-﻿---
+---
 title: Tạo Tệp MHTML qua Python 
-url: /vi/python-java/create-mhtml/ 
+
 description: Python Mã mẫu để tạo tài liệu MHTML. Sử dụng mã này để tạo tệp MHTML trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

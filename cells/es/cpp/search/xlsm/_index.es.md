@@ -1,7 +1,7 @@
-﻿---
+---
 title: Buscar documento XLSM sin abrir a través de C++ 
 weight: 9280
-url: /es/cpp/search/xlsm/ 
+
 description: C++ código de ejemplo para buscar palabras con patrón en un archivo XLSM en C++ entorno de tiempo de ejecución para Windows de 32 bits, Windows de 64 bits y Linux de 64 bits.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

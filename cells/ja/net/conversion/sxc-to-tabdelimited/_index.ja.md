@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してSXCをTABDELIMITEDに変換します
-url: /ja/net/conversion/sxc-to-tabdelimited/
+
 description: sxcからtabdelimitedC#への変換のサンプルコード。バッチsxcファイルのAPIサンプルコードを使用して、VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でタブ区切りの変換を行います。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to CSV via Python
-url: /python-net/conversion/txt-to-csv/
+
 description: Sample code for txt to csv Python conversion. Use API example code for batch txt files to csv conversion within Python application.
 ---
 

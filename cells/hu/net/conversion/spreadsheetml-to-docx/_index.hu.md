@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SPREADSHEETML konvertálása DOCX-re a következőn keresztül: C#"
-url: /hu/net/conversion/spreadsheetml-to-docx/
+
 description: Mintakód a táblázatkezelőből a docx C# konverzióhoz. Használjon API példakódot kötegelt táblázatkezelő fájlokhoz a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazás docx konvertálásához.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

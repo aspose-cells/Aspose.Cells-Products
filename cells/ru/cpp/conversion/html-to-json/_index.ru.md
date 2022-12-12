@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование HTML в JSON с помощью приложения C++ 
-url: /ru/cpp/conversion/html-to-json/ 
+
 description: Пример C++ кода преобразования HTML-документа в формат JSON. Программисты могут использовать этот исходный код для пакетного преобразования HTML в JSON в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

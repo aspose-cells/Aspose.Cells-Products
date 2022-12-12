@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to SVG via Java 
-url: /java/conversion/sxc-to-svg/
+
 description: Convert SXC to SVG format in Java code. Save SXC as SVG using Java.
 ---
 

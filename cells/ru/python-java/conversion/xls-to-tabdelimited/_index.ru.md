@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLS в TABDELIMITED через Python
-url: /ru/python-java/conversion/xls-to-tabdelimited/
+
 description: Пример кода для преобразования xls в Python с разделителями табуляции. Используйте пример кода API для пакетных файлов xls для преобразования с разделителями табуляции в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

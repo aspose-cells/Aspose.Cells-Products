@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to XML via Java 
-url: /java/conversion/xlsb-to-xml/
+
 description: Convert XLSB to XML format in Java code. Save XLSB as XML using Java.
 ---
 

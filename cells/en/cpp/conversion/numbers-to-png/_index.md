@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to PNG via C++
-url: /cpp/conversion/numbers-to-png/
+
 description: Convert NUMBERS to PNG format in C++ code. Save NUMBERS as PNG using C++.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer JSON naar PDF via C#
-url: /nl/net/conversion/json-to-pdf/
+
 description: Voorbeeldcode voor conversie van json naar pdf C#. Gebruik API voorbeeldcode voor batch json-bestanden naar pdf-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

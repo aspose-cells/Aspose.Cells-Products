@@ -1,6 +1,6 @@
-﻿---
+---
 title: Hợp nhất các Tệp MHTML qua C++ 
-url: /vi/cpp/merger/mhtml/ 
+
 description: C++ mã ví dụ để kết hợp tài liệu MHTML trên C++ Môi trường thời gian chạy cho Windows 32 bit, Windows 64 bit và Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

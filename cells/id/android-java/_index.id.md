@@ -1,7 +1,7 @@
-﻿---
+---
 title: Spreadsheet Android Excel API - Aspose 
 weight: 6510
-url: /id/android-java/ 
+
 description: Pustaka spreadsheet Android untuk membuat baca tulis dan parsing file Excel. Spreadsheet API untuk pengembangan Aplikasi seluler
 ---
 {{< blocks/products/pf/main-wrap-class >}}

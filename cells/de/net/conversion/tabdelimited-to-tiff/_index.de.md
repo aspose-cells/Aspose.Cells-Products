@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie TABDELIMITED in TIFF über C#
-url: /de/net/conversion/tabdelimited-to-tiff/
+
 description: Beispielcode für die Umwandlung von tabulatorgetrennt in tiff C#. Verwenden Sie API Beispielcode für die Batch-Konvertierung tabulatorgetrennter Dateien in TIFF innerhalb von VB.NET, Asp.NET oder einer beliebigen .NET-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

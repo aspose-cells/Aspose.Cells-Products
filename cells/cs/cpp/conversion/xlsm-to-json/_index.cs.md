@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte XLSM na JSON pomocí aplikace C++ 
-url: /cs/cpp/conversion/xlsm-to-json/ 
+
 description: Ukázkový konverzní kód C++ pro dokument XLSM na formát JSON. Programátoři mohou tento zdrojový kód použít pro dávkový převod XLSM na JSON v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

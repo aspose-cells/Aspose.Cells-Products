@@ -1,6 +1,6 @@
-﻿---
+---
 title: Erstellen Sie 3D-Liniendiagramme über Python
-url: /de/python-java/create-line3d-chart/
+
 description: Python Beispielcode zum Erstellen von 3D-Liniendiagrammen in Excel mithilfe der Python-Bibliothek. Verwenden Sie diesen Code zum Erstellen eines 3D-Liniendiagramms in MS Excel innerhalb einer Python-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

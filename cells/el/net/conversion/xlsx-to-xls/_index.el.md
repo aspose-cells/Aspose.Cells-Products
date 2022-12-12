@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή XLSX σε XLS μέσω C#
-url: /el/net/conversion/xlsx-to-xls/
+
 description: Δείγμα κώδικα για μετατροπή xlsx σε xls C#. Χρησιμοποιήστε API παράδειγμα κώδικα για μαζική μετατροπή αρχείων xlsx σε xls εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

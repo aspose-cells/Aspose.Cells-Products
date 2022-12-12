@@ -1,7 +1,7 @@
-﻿---
+---
 title: RDL 보고서를 SQL Server의 Excel XLS XLSX 및 SpreadsheetML로 내보내기 
 weight: 3460
-url: /ko/reporting-services/ 
+
 description: SQL Server Reporting Services 렌더링 확장 - Excel XLS XLSX XLSM XLSB CSV SpreadsheetML HTML ODS 및 TXT 형식 내보내기
 ---
 {{< blocks/products/pf/main-wrap-class >}}

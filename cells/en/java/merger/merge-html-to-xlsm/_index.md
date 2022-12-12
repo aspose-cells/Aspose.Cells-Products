@@ -1,6 +1,6 @@
 ---
 title: Merge HTML to XLSM Files via Java 
-url: /java/merger/merge-html-to-xlsm/ 
+
 description: Merge HTML to XLSM file in Java code. Combine HTML to XLSM file using Java based desktop or web application.
 ---
 

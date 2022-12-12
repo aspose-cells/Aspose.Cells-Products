@@ -1,6 +1,6 @@
-﻿---
+---
 title: "JSON konvertálása TXT-re a következőn keresztül: C#"
-url: /hu/net/conversion/json-to-txt/
+
 description: Json-txt C# konverzió mintakódja. Használjon API példakódot a kötegelt json fájlok txt konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

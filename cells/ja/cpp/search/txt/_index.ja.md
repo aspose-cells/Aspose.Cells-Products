@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++を介して開かずにTXTドキュメントを検索する 
 weight: 5090
-url: /ja/cpp/search/txt/ 
+
 description: Windows 32ビット、Windows 64ビット、およびLinux64ビットのC++ランタイム環境でTXTファイル内のパターンを含む単語を検索するためのC++サンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

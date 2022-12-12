@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan ODS ke XLAM melalui C++ aplikasi 
-url: /id/cpp/conversion/ods-to-xlam/ 
+
 description: Contoh C++ kode konversi untuk dokumen ODS ke format XLAM. Pemrogram dapat menggunakan kode sumber ini untuk konversi batch ODS ke XLAM dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

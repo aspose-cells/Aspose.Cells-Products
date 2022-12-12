@@ -1,6 +1,6 @@
-﻿---
+---
 title: Vytvářejte soubory ODS (Openoffice / Lbreoffice) prostřednictvím Python 
-url: /cs/python-java/create-ods/ 
+
 description: Python Ukázkový kód pro generování dokumentů ODS. Tento kód použijte pro vytváření souborů ODS (Openoffice / Lbreoffice) v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

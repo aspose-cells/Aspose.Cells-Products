@@ -1,7 +1,7 @@
-﻿---
+---
 title: Fusionner les fichiers XLS via Java 
 weight: 5140
-url: /fr/java/merger/xls/ 
+
 description: Java exemple de code pour combiner des documents XLS sur Java l'environnement d'exécution pour les applications d'application et de bureau JSP/JSF.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

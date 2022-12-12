@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to XPS via Python
-url: /python-net/conversion/fods-to-xps/
+
 description: Sample code for fods to xps Python conversion. Use API example code for batch fods files to xps conversion within Python application.
 ---
 

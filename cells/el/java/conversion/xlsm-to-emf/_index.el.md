@@ -1,7 +1,7 @@
-﻿---
+---
 title: Μετατροπή XLSM σε EMF μέσω Java 
 weight: 5630
-url: /el/java/conversion/xlsm-to-emf/ 
+
 description: Δείγμα κώδικα μετατροπής Java για μορφή XLSM σε αρχείο EMF. Οι προγραμματιστές μπορούν να χρησιμοποιήσουν αυτό το παράδειγμα κώδικα για να εξάγουν υπολογιστικά φύλλα Excel και OpenOffice σε EMF σε οποιαδήποτε εφαρμογή που βασίζεται στον Ιστό ή στην επιφάνεια εργασίας Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

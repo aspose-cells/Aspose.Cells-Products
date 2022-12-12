@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla XLSX'i DIF'ye dönüştürün
-url: /tr/python-java/conversion/xlsx-to-dif/
+
 description: xlsx'ten dif Python dönüşümüne ilişkin örnek kod. Python uygulamasında dönüştürmeyi farklılaştırmak için toplu xlsx dosyaları için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

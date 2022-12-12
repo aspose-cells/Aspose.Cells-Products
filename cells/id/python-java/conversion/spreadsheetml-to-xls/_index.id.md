@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan SPREADSHEETML ke XLS melalui Python
-url: /id/python-java/conversion/spreadsheetml-to-xls/
+
 description: Contoh kode untuk spreadsheetml ke xls Python konversi. Gunakan API kode contoh untuk file batch spreadsheetml ke konversi xls dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

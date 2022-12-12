@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Hozzon létre MHTML-fájlokat a következőn keresztül: C++ "
-url: /hu/cpp/create-mhtml/ 
+
 description: C++ Mintakód MHTML-fájlok generálásához. Használja ezt a kódot MHTML-fájlok létrehozásához C++ alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

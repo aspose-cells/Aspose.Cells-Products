@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie SXC über Java in JSON 
-url: /de/java/conversion/sxc-to-json/ 
+
 description: Beispiel-Umwandlungscode Java für das SXC-Format in eine JSON-Datei. Programmierer können diesen Beispielcode verwenden, um Excel- und OpenOffice-Tabellen in JSON in jeder Web- oder Desktop-Java-basierten Anwendung zu exportieren.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

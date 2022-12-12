@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή SPREADSHEETML σε XLAM μέσω C#
-url: /el/net/conversion/spreadsheetml-to-xlam/
+
 description: Δείγμα κώδικα για μετατροπή υπολογιστικού φύλλου σε xlam C#. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία υπολογιστικών φύλλων σε μετατροπή xlam σε VB.NET, Asp.NET ή οποιαδήποτε εφαρμογή που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

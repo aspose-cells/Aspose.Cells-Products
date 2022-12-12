@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET aracılığıyla ODS belgesinden metin ve resim ayıklayın 
 weight: 6970
-url: /tr/net/parser/ods/ 
+
 description: .NET Framework, .NET Core, Mono veya Xamarin Platformlarında ODS dosyasından metin ve resim çıkarmak için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

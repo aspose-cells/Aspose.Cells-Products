@@ -1,6 +1,6 @@
-﻿---
+---
 title: Upravit soubory XLT prostřednictvím .NET 
-url: /cs/net/editor/xlt/ 
+
 description: C# zdrojový kód pro úpravu dokumentu XLT na platformách .NET Framework, .NET Core, Windows Azure, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

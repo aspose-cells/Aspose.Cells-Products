@@ -1,6 +1,6 @@
 ---
 title: Create HTML Files via C# 
-url: /net/create-html/ 
+
 description: Create HTML files in C# code. Generate HTML files using VB.NET, Asp.NET or any .NET based application.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to XLAM via Java 
-url: /java/conversion/html-to-xlam/
+
 description: Convert HTML to XLAM format in Java code. Save HTML as XLAM using Java.
 ---
 

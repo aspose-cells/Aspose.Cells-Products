@@ -1,7 +1,7 @@
-﻿---
+---
 title: เอกสาร ODS ลายน้ำผ่าน .NET 
 weight: 4190
-url: /th/net/watermark/ods/ 
+
 description: C# ซอร์สโค้ดเพื่อเพิ่มหรือลบลายน้ำในไฟล์ ODS บน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

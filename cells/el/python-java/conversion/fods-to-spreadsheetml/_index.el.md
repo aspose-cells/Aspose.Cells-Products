@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή FODS σε SPREADSHEETML μέσω Python
-url: /el/python-java/conversion/fods-to-spreadsheetml/
+
 description: Δείγμα κώδικα για μετατροπή fods σε υπολογιστικό φύλλο ml Python. Χρησιμοποιήστε API παράδειγμα κώδικα για αρχεία fods παρτίδας για τη μετατροπή υπολογιστικών φύλλων εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

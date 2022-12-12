@@ -1,6 +1,6 @@
-﻿---
+---
 title: स्प्रैडशीटएमएल को C# के माध्यम से टीआईएफएफ में बदलें
-url: /hi/net/conversion/spreadsheetml-to-tiff/
+
 description: स्प्रैडशीटएमएल के लिए नमूना कोड C# रूपांतरण के लिए। VB.NET, Asp.NET या किसी भी .NET आधारित एप्लिकेशन के भीतर रूपांतरण के लिए बैच स्प्रेडशीटएमएल फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

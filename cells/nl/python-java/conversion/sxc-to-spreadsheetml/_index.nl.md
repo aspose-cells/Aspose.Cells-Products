@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer SXC naar SPREADSHEETML via Python
-url: /nl/python-java/conversion/sxc-to-spreadsheetml/
+
 description: Voorbeeldcode voor conversie van sxc naar spreadsheetml Python. Gebruik API voorbeeldcode voor batch sxc-bestanden naar spreadsheetml-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

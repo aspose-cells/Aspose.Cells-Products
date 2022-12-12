@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to ODS via C++
-url: /cpp/conversion/xlt-to-ods/
+
 description: Convert XLT to ODS format in C++ code. Save XLT as ODS using C++.
 ---
 

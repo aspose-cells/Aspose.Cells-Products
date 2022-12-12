@@ -1,6 +1,6 @@
-﻿---
+---
 title: Προσθήκη γραμμής στο γράφημα μέσω C# 
-url: /el/net/add-line-in-chart/ 
+
 description: C# Δείγμα κώδικα για την προσθήκη γραμμής στο γράφημα στο Excel χρησιμοποιώντας τη Βιβλιοθήκη .NET. Χρησιμοποιήστε αυτόν τον κώδικα για να προσθέσετε μια γραμμή στο γράφημα στο MS Excel εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

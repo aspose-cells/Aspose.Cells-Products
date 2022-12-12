@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla TSV Dosyaları oluşturun 
-url: /tr/python-java/create-tsv/ 
+
 description: Python TSV belgeleri oluşturmak için örnek kod. Python uygulamasında TSV dosyaları oluşturmak için bu kodu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

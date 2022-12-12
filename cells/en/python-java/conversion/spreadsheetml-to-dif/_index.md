@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to DIF via Python
-url: /python-java/conversion/spreadsheetml-to-dif/
+
 description: Convert SPREADSHEETML to DIF format in Python code. Save SPREADSHEETML as DIF using Python.
 ---
 

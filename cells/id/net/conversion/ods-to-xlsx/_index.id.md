@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan ODS ke XLSX melalui C#
-url: /id/net/conversion/ods-to-xlsx/
+
 description: Contoh kode untuk konversi ods ke xlsx C#. Gunakan API kode contoh untuk file batch ods ke konversi xlsx dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

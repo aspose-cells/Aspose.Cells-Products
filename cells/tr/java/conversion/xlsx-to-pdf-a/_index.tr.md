@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java aracılığıyla XLSX'i PDF/A Uyumlu Dosyalara Dönüştürün 
 weight: 3200
-url: /tr/java/conversion/xlsx-to-pdf-a/ 
+
 description: XLSX biçimi için PDF A Uyumlu Dosyalara örnek Java dönüştürme kodu. Programcılar, Excel ve OpenOffice elektronik tablolarını herhangi bir Web veya Masaüstü Java tabanlı Uygulamada PDFA Uyumlu Dosyalara aktarmak için bu örnek kodu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

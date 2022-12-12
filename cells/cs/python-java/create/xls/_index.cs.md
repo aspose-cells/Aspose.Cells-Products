@@ -1,6 +1,6 @@
-﻿---
+---
 title: Vytvářejte soubory MS Excel XLS prostřednictvím Python 
-url: /cs/python-java/create-xls/ 
+
 description: Python Ukázkový kód pro generování dokumentů XLS. Tento kód použijte pro vytváření souborů MS Excel XLS v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

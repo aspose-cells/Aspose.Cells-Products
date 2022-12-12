@@ -1,7 +1,7 @@
-﻿---
+---
 title: Prohledejte dokument TSV bez otevření prostřednictvím .NET 
 weight: 2810
-url: /cs/net/search/tsv/ 
+
 description: Zdrojový kód C# pro vyhledávání slov se vzorem v souboru TSV na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: สร้างแผนภูมิ Column3D ผ่าน Python
-url: /th/python-java/create-column3d-chart/
+
 description: Python โค้ดตัวอย่างสำหรับการสร้างแผนภูมิ Column3D ไปยัง Excel โดยใช้ Python Library ใช้รหัสนี้เพื่อสร้างแผนภูมิ Column3D ไปยัง MS Excel ภายในแอปพลิเคชันที่ใช้ Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

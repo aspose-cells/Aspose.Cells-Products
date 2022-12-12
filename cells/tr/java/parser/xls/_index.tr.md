@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java aracılığıyla XLS belgesinden metin ve resim ayıklayın 
 weight: 3700
-url: /tr/java/parser/xls/ 
+
 description: JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Runtime Environment'daki XLS dosyasından metin ve resim ayıklamak için Java örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

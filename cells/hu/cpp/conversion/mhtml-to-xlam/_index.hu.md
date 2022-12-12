@@ -1,6 +1,6 @@
-﻿---
+---
 title: MHTML konvertálása XLAM-re a(z) C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/mhtml-to-xlam/ 
+
 description: Minta C++ konverziós kód MHTML dokumentumhoz XLAM formátumba. A programozók ezt a forráskódot használhatják az MHTML-ből XLAM-be kötegelt konvertálásához bármely C++ alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

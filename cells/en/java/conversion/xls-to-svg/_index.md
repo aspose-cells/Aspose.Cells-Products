@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to SVG via Java 
-url: /java/conversion/xls-to-svg/
+
 description: Convert XLS to SVG format in Java code. Save XLS as SVG using Java.
 ---
 

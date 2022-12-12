@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLS-Dateien über .NET zusammenführen 
 weight: 3000
-url: /de/net/merger/xls/ 
+
 description: C#-Quellcode zum Kombinieren von XLS-Dokumenten auf .NET Framework-, .NET Core-, Mono- oder Xamarin-Plattformen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

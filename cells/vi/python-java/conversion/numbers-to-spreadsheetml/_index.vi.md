@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi NUMBERS thành SPREADSHEETML qua Python
-url: /vi/python-java/conversion/numbers-to-spreadsheetml/
+
 description: Mã mẫu cho các số thành chuyển đổi bảng tínhml Python. Sử dụng mã mẫu API cho các tệp số lô để chuyển đổi bảng tínhml trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

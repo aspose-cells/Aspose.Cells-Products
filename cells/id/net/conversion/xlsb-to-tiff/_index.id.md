@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan XLSB ke TIFF melalui C#
-url: /id/net/conversion/xlsb-to-tiff/
+
 description: Contoh kode untuk konversi xlsb ke tiff C#. Gunakan API kode contoh untuk file batch xlsb ke konversi tiff dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

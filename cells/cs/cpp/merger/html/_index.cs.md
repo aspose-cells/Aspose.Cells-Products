@@ -1,6 +1,6 @@
-﻿---
+---
 title: Sloučit soubory HTML prostřednictvím C++ 
-url: /cs/cpp/merger/html/ 
+
 description: C++ ukázkový kód pro kombinaci dokumentů HTML v C++ Runtime Environment pro Windows 32 bit, Windows 64 bit a Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

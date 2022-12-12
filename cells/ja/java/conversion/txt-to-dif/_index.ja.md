@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してTXTをDIFに変換します 
 weight: 8220
-url: /ja/java/conversion/txt-to-dif/ 
+
 description: TXT形式からDIFファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のDIFにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

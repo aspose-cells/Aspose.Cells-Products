@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 Java 管理 Excel 文件元數據
-url: /zh-hant/java/metadata/
+
 description: 只需幾行 Java 代碼即可查看、添加、編輯、刪除或提取 Excel 文件元數據
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

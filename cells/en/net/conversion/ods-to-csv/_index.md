@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to CSV via C#
-url: /net/conversion/ods-to-csv/
+
 description: Convert ODS to CSV format in C# code. Save ODS as CSV using VB.NET, Asp.NET or any .NET based application.
 ---
 

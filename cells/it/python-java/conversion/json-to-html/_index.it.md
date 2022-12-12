@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converti JSON in HTML tramite Python
-url: /it/python-java/conversion/json-to-html/
+
 description: Codice di esempio per la conversione da json a html Python. Usa API codice di esempio per la conversione batch di file json in html all'interno dell'applicazione Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

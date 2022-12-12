@@ -1,7 +1,7 @@
-﻿---
+---
 title: مخطط مستند XLSX عبر Java 
 weight: 5380
-url: /ar/java/chart/xlsx/ 
+
 description: Java نموذج تعليمة برمجية لرسم وتحويل مخطط أو رسم تخطيطي في ملف XLSX على Java Runtime Environment for JSP / JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

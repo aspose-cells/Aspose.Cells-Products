@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer FODS naar MHTML via C#
-url: /nl/net/conversion/fods-to-mhtml/
+
 description: Voorbeeldcode voor conversie van fods naar mhtml C#. Gebruik API voorbeeldcode voor batch-fods-bestanden naar mhtml-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

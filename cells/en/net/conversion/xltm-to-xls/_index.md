@@ -1,6 +1,6 @@
 ---
 title: Convert XLTM to XLS via C#
-url: /net/conversion/xltm-to-xls/
+
 description: Convert XLTM to XLS format in C# code. Save XLTM as XLS using VB.NET, Asp.NET or any .NET based application.
 ---
 

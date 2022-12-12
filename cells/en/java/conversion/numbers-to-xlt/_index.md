@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to XLT via Java 
-url: /java/conversion/numbers-to-xlt/
+
 description: Convert NUMBERS to XLT format in Java code. Save NUMBERS as XLT using Java.
 ---
 

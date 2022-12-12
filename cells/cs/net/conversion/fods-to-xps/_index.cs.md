@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést FODS na XPS prostřednictvím C#
-url: /cs/net/conversion/fods-to-xps/
+
 description: Ukázkový kód pro konverzi fod na xps C#. Použijte API ukázkový kód pro dávkový převod souborů fods na xps v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

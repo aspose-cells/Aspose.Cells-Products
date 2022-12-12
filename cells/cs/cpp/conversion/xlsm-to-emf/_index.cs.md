@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte XLSM na EMF pomocí aplikace C++ 
-url: /cs/cpp/conversion/xlsm-to-emf/ 
+
 description: Ukázka převodního kódu C++ pro dokument XLSM na formát EMF. Programátoři mohou použít tento zdrojový kód pro dávkový převod XLSM na EMF v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

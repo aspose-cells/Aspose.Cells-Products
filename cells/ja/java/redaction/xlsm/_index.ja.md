@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してXLSMドキュメントのテキストを検索して置換します 
 weight: 1590
-url: /ja/java/redaction/xlsm/ 
+
 description: JSP/JSFアプリケーションおよびデスクトップアプリケーションのJavaランタイム環境でXLSMファイルの機密情報を編集するためのJavaサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

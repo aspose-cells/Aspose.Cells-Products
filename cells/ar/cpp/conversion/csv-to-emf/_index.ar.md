@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل CSV إلى EMF عبر تطبيق C++ 
 weight: 6560
-url: /ar/cpp/conversion/csv-to-emf/ 
+
 description: نموذج C++ رمز التحويل لمستند CSV إلى تنسيق EMF. يمكن للمبرمجين استخدام رمز المصدر هذا لتحويل ملف CSV إلى EMF داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

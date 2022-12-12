@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل NUMBERS إلى TXT عبر C#
-url: /ar/net/conversion/numbers-to-txt/
+
 description: نموذج رمز للأرقام لتحويل C# النص. استخدم API رمز المثال لملفات أرقام الدُفعات لتحويل النص داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

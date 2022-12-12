@@ -1,6 +1,6 @@
-﻿---
+---
 title: Maak Column3D-diagrammen via Python
-url: /nl/python-java/create-column3d-chart/
+
 description: Python Voorbeeldcode voor het maken van Column3D-diagrammen naar Excel met behulp van Python Bibliotheek. Gebruik deze code voor het maken van een Column3D-diagram naar MS Excel binnen een op Python gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

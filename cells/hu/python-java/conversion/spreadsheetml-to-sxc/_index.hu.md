@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SPREADSHEETML konvertálása SXC-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/spreadsheetml-to-sxc/
+
 description: Mintakód a táblázatkezelőből sxc-be Python. Használjon API példakódot a kötegelt táblázatkezelő fájlok sxc konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Exportar relatórios no Excel XLS XLSX PDF ODS no JasperReports e JasperServer 
 weight: 9460
-url: /pt/jasperreports/ 
+
 description: Exporte relatórios do Jasper Reports e JasperServer no formato Excel XLS XLSX PDF ODS TXT e SpreadsheetML. Imprima também relatórios como planilhas do Excel
 ---
 {{< blocks/products/pf/main-wrap-class >}}

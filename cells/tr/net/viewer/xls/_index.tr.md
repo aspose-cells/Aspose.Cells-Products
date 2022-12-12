@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET üzerinden XLS Dosya Biçimlerini görüntüleyin 
 weight: 1260
-url: /tr/net/viewer/xls/ 
+
 description: .NET Framework, .NET Core, Mono veya Xamarin Platformlarında XLS belgelerini yüklemek, oluşturmak ve görüntülemek için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

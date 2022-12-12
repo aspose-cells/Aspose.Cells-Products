@@ -1,6 +1,6 @@
-﻿---
+---
 title: ดูรูปแบบไฟล์ MHT ผ่าน .NET 
-url: /th/net/viewer/mht/ 
+
 description: C# ซอร์สโค้ดเพื่อโหลด แสดงผล และแสดงเอกสาร MHT บน .NET Framework, .NET Core, Windows Azure, Mono หรือ Xamarin Platforms
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

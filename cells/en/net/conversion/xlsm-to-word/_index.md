@@ -1,6 +1,6 @@
 ---
 title: Convert XLSM to WORD via C#
-url: /net/conversion/xlsm-to-word/
+
 description: Convert XLSM to WORD format in C# code. Save XLSM as WORD using VB.NET, Asp.NET or any .NET based application.
 ---
 

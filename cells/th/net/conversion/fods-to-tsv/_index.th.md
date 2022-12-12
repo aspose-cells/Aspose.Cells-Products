@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง FODS เป็น TSV ผ่าน C#
-url: /th/net/conversion/fods-to-tsv/
+
 description: โค้ดตัวอย่างสำหรับการแปลง fods เป็น tsv C# ใช้รหัสตัวอย่าง API สำหรับไฟล์แบตช์ fods เป็นการแปลง tsv ภายใน VB.NET, Asp.NET หรือแอปพลิเคชันที่ใช้ .NET
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

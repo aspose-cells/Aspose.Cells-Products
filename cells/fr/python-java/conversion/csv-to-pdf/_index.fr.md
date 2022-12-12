@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir CSV en PDF via Python
-url: /fr/python-java/conversion/csv-to-pdf/
+
 description: Exemple de code pour la conversion csv en pdf Python. Utilisez l'exemple de code API pour la conversion de fichiers csv par lots en pdf dans l'application Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

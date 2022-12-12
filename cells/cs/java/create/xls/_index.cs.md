@@ -1,6 +1,6 @@
-﻿---
+---
 title: Vytvářejte soubory MS Excel XLS prostřednictvím Java 
-url: /cs/java/create-xls/ 
+
 description: Java Ukázkový kód pro generování dokumentů XLS. Tento kód použijte k vytváření souborů MS Excel XLS v desktopové nebo webové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование JSON в XLSX с помощью приложения C++ 
-url: /ru/cpp/conversion/json-to-xlsx/ 
+
 description: Пример кода преобразования C++ для документа JSON в формат XLSX. Программисты могут использовать этот исходный код для пакетного преобразования JSON в XLSX в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLSB को C# के माध्यम से बाइट ऐरे में बदलें 
 weight: 7690
-url: /hi/net/conversion/xlsb-to-byte-array/ 
+
 description: C# XLSB से बाइट सरणी रूपांतरण के लिए नमूना कोड। इस कोड का उपयोग एक्सेल एक्सएलएसबी से वीबी.NET, एएसपी.NET या किसी भी .NET आधारित एप्लिकेशन के भीतर बाइट ऐरे रूपांतरण के लिए करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

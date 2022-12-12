@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer CSV naar MARKDOWN via C#
-url: /nl/net/conversion/csv-to-markdown/
+
 description: Voorbeeldcode voor csv-naar-markdown C#-conversie. Gebruik API voorbeeldcode voor batch-csv-bestanden om conversie te verlagen binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

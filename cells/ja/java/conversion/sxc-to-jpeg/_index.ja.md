@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してSXCをJPEGに変換します 
-url: /ja/java/conversion/sxc-to-jpeg/ 
+
 description: SXC形式からJPEGファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、任意のWebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをJPEGにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

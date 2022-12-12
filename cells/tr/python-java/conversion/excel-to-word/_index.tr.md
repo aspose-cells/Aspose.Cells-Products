@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla EXCEL'i WORD'e dönüştürün
-url: /tr/python-java/conversion/excel-to-word/
+
 description: Excel'den kelimeye Python dönüştürme için örnek kod. Python uygulamasında toplu excel dosyalarından kelimeye dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

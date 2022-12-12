@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to XLSX via Java 
-url: /java/conversion/numbers-to-xlsx/
+
 description: Convert NUMBERS to XLSX format in Java code. Save NUMBERS as XLSX using Java.
 ---
 

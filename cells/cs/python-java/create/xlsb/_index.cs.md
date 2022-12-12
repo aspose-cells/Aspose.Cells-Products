@@ -1,6 +1,6 @@
-﻿---
+---
 title: Vytvářejte soubory MS Excel XLSB prostřednictvím Python 
-url: /cs/python-java/create-xlsb/ 
+
 description: Python Ukázkový kód pro generování dokumentů XLSB. Tento kód použijte pro vytváření souborů MS Excel XLSB v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

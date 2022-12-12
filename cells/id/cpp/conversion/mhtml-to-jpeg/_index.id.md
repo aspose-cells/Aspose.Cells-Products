@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversi MHTML ke JPEG melalui C++ aplikasi 
 weight: 820
-url: /id/cpp/conversion/mhtml-to-jpeg/ 
+
 description: Contoh C++ kode konversi untuk dokumen MHTML ke format JPEG. Pemrogram dapat menggunakan kode sumber ini untuk konversi batch MHTML ke JPEG dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

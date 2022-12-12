@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل FODS إلى DIF عبر Java 
-url: /ar/java/conversion/fods-to-dif/ 
+
 description: نموذج Java رمز تحويل لتنسيق FODS إلى ملف DIF. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى DIF داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

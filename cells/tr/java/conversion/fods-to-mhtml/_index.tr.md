@@ -1,6 +1,6 @@
-﻿---
+---
 title: FODS'u Java aracılığıyla MHTML'ye dönüştürün 
-url: /tr/java/conversion/fods-to-mhtml/ 
+
 description: FODS biçimi için MHTML dosyasına örnek Java dönüştürme kodu. Programcılar, Excel ve OpenOffice elektronik tablolarını herhangi bir Web veya Masaüstü Java tabanlı Uygulamada MHTML'ye aktarmak için bu örnek kodu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

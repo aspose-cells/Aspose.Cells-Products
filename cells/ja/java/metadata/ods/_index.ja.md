@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してODSファイルのメタデータを編集または表示する 
 weight: 2080
-url: /ja/java/metadata/ods/ 
+
 description: Java JSP/JSFアプリケーションおよびデスクトップアプリケーションのランタイム環境でODS形式のメタデータを編集または表示するためのサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

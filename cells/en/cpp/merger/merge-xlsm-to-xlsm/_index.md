@@ -1,6 +1,6 @@
 ---
 title: Merge XLSM to XLSM Files via C++ 
-url: /cpp/merger/merge-xlsm-to-xlsm/ 
+
 description: Merge XLSM to XLSM file in C++ code. Combine XLSM to XLSM file using C++.
 ---
 

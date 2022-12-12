@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してNUMBERSをPDFに変換する
-url: /ja/python-java/conversion/numbers-to-pdf/
+
 description: 数値からPDFPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチ番号ファイルからPDFへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

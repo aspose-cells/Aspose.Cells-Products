@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan ODS ke TSV melalui C#
-url: /id/net/conversion/ods-to-tsv/
+
 description: Contoh kode untuk konversi ods ke tsv C#. Gunakan API kode contoh untuk file batch ods ke konversi tsv dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

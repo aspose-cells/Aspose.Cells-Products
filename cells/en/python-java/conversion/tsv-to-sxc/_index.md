@@ -1,6 +1,6 @@
 ---
 title: Convert TSV to SXC via Python
-url: /python-java/conversion/tsv-to-sxc/
+
 description: Convert TSV to SXC format in Python code. Save TSV as SXC using Python.
 ---
 

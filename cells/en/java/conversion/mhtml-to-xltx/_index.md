@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to XLTX via Java 
-url: /java/conversion/mhtml-to-xltx/
+
 description: Convert MHTML to XLTX format in Java code. Save MHTML as XLTX using Java.
 ---
 

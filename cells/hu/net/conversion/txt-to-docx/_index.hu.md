@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TXT konvertálása DOCX-re a következőn keresztül: C#"
-url: /hu/net/conversion/txt-to-docx/
+
 description: Mintakód a txt-ből docx-be C# konverzióhoz. Használjon API példakódot kötegelt txt fájlokhoz a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazás docx-konverziójához.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

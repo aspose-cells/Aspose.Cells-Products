@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést TSV na PDF prostřednictvím Java 
 weight: 2470
-url: /cs/java/conversion/tsv-to-pdf/ 
+
 description: Ukázka převodního kódu Java pro formát TSV na soubor PDF. Programátoři mohou použít tento příklad kódu k exportu tabulek Excelu a OpenOffice do PDF v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

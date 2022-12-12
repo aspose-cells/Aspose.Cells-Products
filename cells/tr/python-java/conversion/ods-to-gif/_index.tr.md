@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla ODS'yi GIF'e dönüştürün
-url: /tr/python-java/conversion/ods-to-gif/
+
 description: ods'den gif Python dönüşümüne ilişkin örnek kod. Python uygulamasında toplu ods dosyaları gif dönüşümü için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

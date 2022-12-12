@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to MARKDOWN via Java 
-url: /java/conversion/mhtml-to-markdown/
+
 description: Convert MHTML to MARKDOWN format in Java code. Save MHTML as MARKDOWN using Java.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLSB-t XML-be a(z) C++ alkalmazással 
-url: /hu/cpp/conversion/xlsb-to-xml/ 
+
 description: Minta C++ konverziós kód XLSB dokumentumhoz XML formátumba. A programozók ezt a forráskódot használhatják az XLSB-ből XML-be kötegelt konvertáláshoz bármely C++ alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

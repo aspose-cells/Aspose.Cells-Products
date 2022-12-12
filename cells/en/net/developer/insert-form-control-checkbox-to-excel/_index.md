@@ -1,7 +1,7 @@
 ---
 title: Insert CheckBox(Form control) into Excel via .NET 
 weight: 30
-url: /net/developer/insert-form-control-checkbox-to-excel/ 
+
 description: C# source code to insert CheckBox(Form control) into Excel on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

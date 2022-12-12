@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++経由のXLSXドキュメントチャート 
 weight: 750
-url: /ja/cpp/chart/xlsx/ 
+
 description: C++ Windows 32ビット、Windows 64ビット、およびLinux64ビットのランタイム環境でXLSXファイルにチャートまたは図を描画および変換するためのサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

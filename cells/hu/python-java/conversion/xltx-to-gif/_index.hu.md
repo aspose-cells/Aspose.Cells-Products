@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLTX konvertálása GIF formátumba a következőn keresztül: Python"
-url: /hu/python-java/conversion/xltx-to-gif/
+
 description: Mintakód xltx-ből gif-be Python. Használjon API példakódot kötegelt xltx fájlok gif konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLTM-et JSON-ba a(z) C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/xltm-to-json/ 
+
 description: Minta C++ konverziós kód az XLTM dokumentumhoz JSON formátumba. A programozók ezt a forráskódot használhatják XLTM-ből JSON-ba kötegelt konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

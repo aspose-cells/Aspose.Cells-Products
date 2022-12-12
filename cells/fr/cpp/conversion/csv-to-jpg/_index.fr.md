@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir CSV en JPG via l'application C++ 
-url: /fr/cpp/conversion/csv-to-jpg/ 
+
 description: Exemple de code de conversion C++ pour le document CSV au format JPG. Les programmeurs peuvent utiliser ce code source pour la conversion par lots de CSV en JPG dans n'importe quelle application C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

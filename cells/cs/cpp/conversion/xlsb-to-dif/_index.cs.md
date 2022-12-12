@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převeďte XLSB na DIF pomocí aplikace C++ 
 weight: 3280
-url: /cs/cpp/conversion/xlsb-to-dif/ 
+
 description: Ukázka převodního kódu C++ pro dokument XLSB do formátu DIF. Programátoři mohou použít tento zdrojový kód pro dávkovou konverzi XLSB na DIF v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

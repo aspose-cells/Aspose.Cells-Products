@@ -1,7 +1,7 @@
-﻿---
+---
 title: รวมไฟล์ XLSM ผ่าน .NET 
 weight: 660
-url: /th/net/merger/xlsm/ 
+
 description: C# ซอร์สโค้ดเพื่อรวมเอกสาร XLSM บน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

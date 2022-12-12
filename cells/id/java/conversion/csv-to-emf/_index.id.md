@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversi CSV ke EMF melalui Java 
 weight: 4550
-url: /id/java/conversion/csv-to-emf/ 
+
 description: Contoh Java kode konversi untuk format CSV ke file EMF. Pemrogram dapat menggunakan kode contoh ini untuk mengekspor spreadsheet Excel & OpenOffice ke EMF dalam Aplikasi berbasis Web atau Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

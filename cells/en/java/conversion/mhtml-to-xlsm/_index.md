@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to XLSM via Java 
-url: /java/conversion/mhtml-to-xlsm/
+
 description: Convert MHTML to XLSM format in Java code. Save MHTML as XLSM using Java.
 ---
 

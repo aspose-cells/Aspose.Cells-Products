@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Hozzon létre MHTML-fájlokat a következőn keresztül: Python "
-url: /hu/python-java/create-mhtml/ 
+
 description: Python Mintakód MHTML dokumentumok generálásához. Használja ezt a kódot MHTML-fájlok létrehozásához a(z) Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: دمج ملفات XLTM عبر Java 
 weight: 8210
-url: /ar/java/merger/xltm/ 
+
 description: Java نموذج كود لدمج مستندات XLTM في Java Runtime Environment لتطبيق JSP / JSF وتطبيقات سطح المكتب.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

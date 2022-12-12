@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLSM إلى HTML عبر تطبيق C++ 
-url: /ar/cpp/conversion/xlsm-to-html/ 
+
 description: نموذج رمز تحويل C++ لمستند XLSM إلى تنسيق HTML. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل XLSM إلى HTML دفعة داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: JSON को C# के माध्यम से XLTM में कनवर्ट करें
-url: /hi/net/conversion/json-to-xltm/
+
 description: json से xltm C# रूपांतरण के लिए नमूना कोड। VB.NET, Asp.NET या किसी .NET आधारित एप्लिकेशन के भीतर बैच json फ़ाइलों को xltm रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

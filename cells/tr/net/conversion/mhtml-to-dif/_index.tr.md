@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla MHTML'yi DIF'ye dönüştürün
-url: /tr/net/conversion/mhtml-to-dif/
+
 description: C# dönüşümü için mhtml için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde farklı dönüştürme için toplu mhtml dosyaları için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

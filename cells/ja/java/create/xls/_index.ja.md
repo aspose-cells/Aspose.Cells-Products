@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してMSExcelXLSファイルを作成する 
-url: /ja/java/create-xls/ 
+
 description: JavaXLSドキュメントを生成するためのサンプルコード。このコードを使用して、JavaベースのデスクトップまたはWebアプリケーション内にMSExcelXLSファイルを作成します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj TXT na MARKDOWN przez Python
-url: /pl/python-java/conversion/txt-to-markdown/
+
 description: Przykładowy kod konwersji txt na przecenę Python. Użyj przykładowego kodu API dla plików wsadowych txt do konwersji przecen w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

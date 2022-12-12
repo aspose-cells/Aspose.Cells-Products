@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer TSV naar HTML via C#
-url: /nl/net/conversion/tsv-to-html/
+
 description: Voorbeeldcode voor conversie van tsv naar html C#. Gebruik API voorbeeldcode voor batch-tsv-bestanden naar html-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

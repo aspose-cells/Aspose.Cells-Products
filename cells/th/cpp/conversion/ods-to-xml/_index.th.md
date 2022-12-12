@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง ODS เป็น XML ผ่าน C++ แอปพลิเคชัน 
-url: /th/cpp/conversion/ods-to-xml/ 
+
 description: ตัวอย่างรหัสการแปลง C++ สำหรับเอกสาร ODS เป็นรูปแบบ XML โปรแกรมเมอร์สามารถใช้ซอร์สโค้ดนี้สำหรับการแปลง ODS เป็นกลุ่มเป็น XML ภายในแอปพลิเคชัน C++ ใดๆ
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

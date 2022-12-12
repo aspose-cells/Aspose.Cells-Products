@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++アプリケーションを介してXLSをPNGに変換する 
 weight: 80
-url: /ja/cpp/conversion/xls-to-png/ 
+
 description: XLSドキュメントからPNG形式へのサンプルC++変換コード。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でXLSからPNGへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

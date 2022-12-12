@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chỉnh sửa tệp XLT qua .NET 
-url: /vi/net/editor/xlt/ 
+
 description: C# mã nguồn để chỉnh sửa tài liệu XLT trên Nền tảng .NET Framework, .NET Core, Windows Azure, Mono hoặc Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

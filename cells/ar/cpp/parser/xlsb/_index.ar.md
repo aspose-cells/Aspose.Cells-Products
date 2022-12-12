@@ -1,7 +1,7 @@
-﻿---
+---
 title: استخراج النص والصور من مستند XLSB عبر C++ 
 weight: 3140
-url: /ar/cpp/parser/xlsb/ 
+
 description: C++ مثال على رمز لاستخراج النصوص والصور من ملف XLSB في C++ Runtime Environment لأنظمة التشغيل Windows 32 بت و Windows 64 بت و Linux 64 بت.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

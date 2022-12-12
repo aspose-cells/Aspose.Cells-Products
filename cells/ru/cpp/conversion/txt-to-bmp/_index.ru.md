@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование TXT в BMP с помощью приложения C++ 
-url: /ru/cpp/conversion/txt-to-bmp/ 
+
 description: Пример кода преобразования C++ для документа TXT в формат BMP. Программисты могут использовать этот исходный код для пакетного преобразования TXT в BMP в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

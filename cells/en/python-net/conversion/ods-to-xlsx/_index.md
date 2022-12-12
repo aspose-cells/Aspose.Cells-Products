@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to XLSX via Python
-url: /python-net/conversion/ods-to-xlsx/
+
 description: Sample code for ods to xlsx Python conversion. Use API example code for batch ods files to xlsx conversion within Python application.
 ---
 

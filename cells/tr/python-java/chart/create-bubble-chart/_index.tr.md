@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python ile Kabarcık Grafikleri Oluşturun
-url: /tr/python-java/create-bubble-chart/
+
 description: Python Python Kitaplığı kullanarak Excel'de Kabarcık grafikleri oluşturmak için örnek kod. Python tabanlı uygulama içinde MS Excel'e bir Kabarcık grafiği oluşturmak için bu kodu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

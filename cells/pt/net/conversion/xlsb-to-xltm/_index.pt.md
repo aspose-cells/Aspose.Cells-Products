@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter XLSB para XLTM via C#
-url: /pt/net/conversion/xlsb-to-xltm/
+
 description: Código de amostra para conversão de xlsb para xltm C#. Use API código de exemplo para arquivos xlsb em lote para conversão xltm em VB.NET, Asp.NET ou qualquer aplicativo baseado em .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

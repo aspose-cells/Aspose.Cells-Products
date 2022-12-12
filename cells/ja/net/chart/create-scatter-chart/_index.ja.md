@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してスキャッターチャートを作成する
-url: /ja/net/create-scatter-chart/
+
 description: C#.NETライブラリを使用してExcelにスキャッターチャートを作成するためのサンプルコード。このコードを使用して、VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でMSExcelへの散布図を作成します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

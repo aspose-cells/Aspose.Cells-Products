@@ -1,6 +1,6 @@
-﻿---
+---
 title: एमएचटीएमएल को Python के माध्यम से पीडीएफ में बदलें
-url: /hi/python-java/conversion/mhtml-to-pdf/
+
 description: mhtml से pdf Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर बैच एमएचटीएमएल फाइलों से पीडीएफ रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

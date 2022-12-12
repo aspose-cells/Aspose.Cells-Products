@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertálja az XLSX-et XLTM-re a(z) C++ alkalmazáson keresztül 
 weight: 7840
-url: /hu/cpp/conversion/xlsx-to-xltm/ 
+
 description: Minta C++ konverziós kód az XLSX dokumentumhoz XLTM formátumba. A programozók ezt a forráskódot használhatják az XLSX-ből XLTM-be kötegelt konvertáláshoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

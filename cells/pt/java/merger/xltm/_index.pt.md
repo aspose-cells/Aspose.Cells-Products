@@ -1,7 +1,7 @@
-﻿---
+---
 title: Mesclar arquivos XLTM via Java 
 weight: 8210
-url: /pt/java/merger/xltm/ 
+
 description: Java código de amostra para combinar documentos XLTM no Java ambiente de tempo de execução para aplicativos JSP/JSF e aplicativos de desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

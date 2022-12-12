@@ -1,7 +1,7 @@
-﻿---
+---
 title: Диаграмма документа XLSX через C++ 
 weight: 750
-url: /ru/cpp/chart/xlsx/ 
+
 description: Пример кода C++ для рисования и преобразования диаграммы или диаграммы в файл XLSX в C++ среде выполнения для 32-разрядной, 64-разрядной и Linux 64-разрядной версии.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

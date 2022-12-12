@@ -1,7 +1,7 @@
 ---
 title: Edit or View XLSM Files Metadata via Java 
 weight: 9030
-url: /java/metadata/xlsm/ 
+
 description: Java sample code to edit or view XLSM format metadata on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Odemknout dokument XLS přes Java 
 weight: 6390
-url: /cs/java/unlock/xls/ 
+
 description: Java ukázkový kód pro odemknutí heslem chráněného souboru XLS v Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

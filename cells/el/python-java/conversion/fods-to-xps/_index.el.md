@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή FODS σε XPS μέσω Python
-url: /el/python-java/conversion/fods-to-xps/
+
 description: Δείγμα κώδικα για μετατροπή fods σε xps Python. Χρησιμοποιήστε API παράδειγμα κώδικα για μετατροπή ομαδικών αρχείων fods σε xps εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

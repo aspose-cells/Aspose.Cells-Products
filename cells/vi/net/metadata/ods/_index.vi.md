@@ -1,7 +1,7 @@
-﻿---
+---
 title: Xem hoặc Chỉnh sửa Siêu dữ liệu Tệp ODS qua .NET 
 weight: 320
-url: /vi/net/metadata/ods/ 
+
 description: C# mã nguồn để chỉnh sửa hoặc xem siêu dữ liệu định dạng ODS trên Nền tảng .NET Framework, .NET Core Mono hoặc Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

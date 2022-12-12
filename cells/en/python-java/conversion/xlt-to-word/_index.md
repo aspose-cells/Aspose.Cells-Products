@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to WORD via Python
-url: /python-java/conversion/xlt-to-word/
+
 description: Convert XLT to WORD format in Python code. Save XLT as WORD using Python.
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してXLSXドキュメントのロックを解除します 
 weight: 310
-url: /ja/java/unlock/xlsx/ 
+
 description: Java JSP/JSFアプリケーションおよびデスクトップアプリケーションのランタイム環境でパスワードで保護されたXLSXファイルのロックを解除するためのサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj NUMBERS na JPEG przez Python
-url: /pl/python-java/conversion/numbers-to-jpeg/
+
 description: Przykładowy kod konwersji liczb do formatu jpeg Python. Użyj przykładowego kodu API dla plików numerów partii do konwersji jpeg w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

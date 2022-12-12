@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง SPREADSHEETML เป็น FODS ผ่าน Python
-url: /th/python-java/conversion/spreadsheetml-to-fods/
+
 description: โค้ดตัวอย่างสำหรับการแปลงสเปรดชีตml เป็น fods Python ใช้โค้ดตัวอย่าง API สำหรับไฟล์สเปรดชีตสเปรดชีตแบบแบตช์เป็นการแปลง fods ภายในแอปพลิเคชัน Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLS naar MD via C++ applicatie 
-url: /nl/cpp/conversion/xls-to-md/ 
+
 description: Voorbeeld C++-conversiecode voor XLS-document naar MD-indeling. Programmeurs kunnen deze broncode gebruiken voor batch-conversie van XLS naar MD binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

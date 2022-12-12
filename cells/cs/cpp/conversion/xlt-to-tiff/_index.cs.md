@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte XLT na TIFF pomocí aplikace C++ 
-url: /cs/cpp/conversion/xlt-to-tiff/ 
+
 description: Ukázka převodního kódu C++ pro dokument XLT na formát TIFF. Programátoři mohou použít tento zdrojový kód pro dávkovou konverzi XLT na TIFF v jakékoli C++ aplikaci.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

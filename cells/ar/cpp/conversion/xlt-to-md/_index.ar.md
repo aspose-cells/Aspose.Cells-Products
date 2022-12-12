@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLT إلى MD عبر تطبيق C++ 
-url: /ar/cpp/conversion/xlt-to-md/ 
+
 description: نموذج C++ رمز تحويل لمستند XLT إلى تنسيق MD. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل دفعة XLT إلى MD داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

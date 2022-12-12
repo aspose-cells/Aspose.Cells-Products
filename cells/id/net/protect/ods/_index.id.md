@@ -1,7 +1,7 @@
-﻿---
+---
 title: Lindungi dan kunci dokumen ODS melalui .NET 
 weight: 5580
-url: /id/net/protect/ods/ 
+
 description: C# kode sumber untuk mengunci file ODS menggunakan sandi pada Platform .NET Framework, .NET Core, Mono atau Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

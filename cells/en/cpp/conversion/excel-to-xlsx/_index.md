@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to XLSX via C++
-url: /cpp/conversion/excel-to-xlsx/
+
 description: Convert EXCEL to XLSX format in C++ code. Save EXCEL as XLSX using C++.
 ---
 

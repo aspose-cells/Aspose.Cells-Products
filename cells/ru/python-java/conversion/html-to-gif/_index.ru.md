@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование HTML в GIF через Python
-url: /ru/python-java/conversion/html-to-gif/
+
 description: Пример кода для преобразования html в gif Python. Используйте пример кода API для пакетного преобразования файлов html в gif в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

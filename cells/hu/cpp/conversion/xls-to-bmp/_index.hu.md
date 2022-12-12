@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertálja az XLS-t BMP-vé a C++ alkalmazással 
 weight: 5750
-url: /hu/cpp/conversion/xls-to-bmp/ 
+
 description: Minta C++ konverziós kód XLS-dokumentumhoz BMP formátumba. A programozók ezt a forráskódot használhatják az XLS-ből BMP-be kötegelt konvertáláshoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

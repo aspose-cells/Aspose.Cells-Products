@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحرير أو عرض البيانات الوصفية لملفات XLSB عبر Java 
 weight: 7290
-url: /ar/java/metadata/xlsb/ 
+
 description: Java نموذج رمز لتعديل أو عرض البيانات الوصفية بتنسيق XLSB في Java Runtime Environment لتطبيق JSP / JSF وتطبيقات سطح المكتب.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

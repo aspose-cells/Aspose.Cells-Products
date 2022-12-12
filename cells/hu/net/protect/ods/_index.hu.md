@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Az ODS-dokumentum védelme és zárolása a következőn keresztül: .NET "
 weight: 5580
-url: /hu/net/protect/ods/ 
+
 description: C# forráskód az ODS-fájl jelszóval történő zárolásához .NET Framework, .NET Core, Mono vagy Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

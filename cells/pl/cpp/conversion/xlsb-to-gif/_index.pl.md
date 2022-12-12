@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konwertuj XLSB na GIF za pomocą aplikacji C++ 
 weight: 5740
-url: /pl/cpp/conversion/xlsb-to-gif/ 
+
 description: Przykładowy kod konwersji C++ dla dokumentu XLSB do formatu GIF. Programiści mogą używać tego kodu źródłowego do wsadowej konwersji plików XLSB na GIF w dowolnej aplikacji C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

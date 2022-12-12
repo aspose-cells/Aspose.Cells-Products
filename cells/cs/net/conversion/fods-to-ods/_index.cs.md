@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést FODS na ODS přes C#
-url: /cs/net/conversion/fods-to-ods/
+
 description: Ukázkový kód pro konverzi fod na ods C#. Použijte API ukázkový kód pro dávkové konverze souborů fods na ODS v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

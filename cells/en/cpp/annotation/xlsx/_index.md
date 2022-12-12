@@ -1,7 +1,7 @@
 ---
 title: Add XLSX Annotation via C++ 
 weight: 5260
-url: /cpp/annotation/xlsx/ 
+
 description: C++ sample code to add or delete XLSX format annotations on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
 

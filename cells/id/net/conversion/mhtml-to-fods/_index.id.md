@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan MHTML ke FODS melalui C#
-url: /id/net/conversion/mhtml-to-fods/
+
 description: Contoh kode untuk konversi mhtml ke fods C#. Gunakan API kode contoh untuk file batch mhtml ke konversi makanan dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

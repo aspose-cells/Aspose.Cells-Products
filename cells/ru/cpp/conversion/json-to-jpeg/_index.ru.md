@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование JSON в JPEG с помощью приложения C++ 
-url: /ru/cpp/conversion/json-to-jpeg/ 
+
 description: Пример кода преобразования C++ для документа JSON в формат JPEG. Программисты могут использовать этот исходный код для пакетного преобразования JSON в JPEG в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

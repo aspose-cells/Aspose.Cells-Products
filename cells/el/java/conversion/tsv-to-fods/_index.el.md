@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή TSV σε FODS μέσω Java 
-url: /el/java/conversion/tsv-to-fods/ 
+
 description: Δείγμα κώδικα μετατροπής Java για μορφή TSV σε αρχείο FODS. Οι προγραμματιστές μπορούν να χρησιμοποιήσουν αυτό το παράδειγμα κώδικα για να εξάγουν υπολογιστικά φύλλα Excel και OpenOffice σε FODS σε οποιαδήποτε εφαρμογή που βασίζεται στον Ιστό ή στην επιφάνεια εργασίας Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

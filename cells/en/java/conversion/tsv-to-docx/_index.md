@@ -1,6 +1,6 @@
 ---
 title: Convert TSV to DOCX via Java 
-url: /java/conversion/tsv-to-docx/
+
 description: Convert TSV to DOCX format in Java code. Save TSV as DOCX using Java.
 ---
 

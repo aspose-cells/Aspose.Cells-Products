@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to JPEG via Python
-url: /python-net/conversion/tabdelimited-to-jpeg/
+
 description: Sample code for tabdelimited to jpeg Python conversion. Use API example code for batch tabdelimited files to jpeg conversion within Python application.
 ---
 

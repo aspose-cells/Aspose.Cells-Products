@@ -1,7 +1,7 @@
-﻿---
+---
 title: Python Excel Elektronik Tablosu API - Aspose 
 weight: 2820
-url: /tr/python/ 
+
 description: Okuma yazma ve Excel dosyalarını ayrıştırma oluşturmak için Python elektronik tablo kitaplığı.
 ---
 {{< blocks/products/pf/main-wrap-class >}}

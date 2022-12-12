@@ -1,7 +1,7 @@
 ---
 title: Unlock ODS document via C++ 
 weight: 1190
-url: /cpp/unlock/ods/ 
+
 description: C++ example code to unlock password protected ODS file on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to DIF via Java 
-url: /java/conversion/csv-to-dif/
+
 description: Convert CSV to DIF format in Java code. Save CSV as DIF using Java.
 ---
 

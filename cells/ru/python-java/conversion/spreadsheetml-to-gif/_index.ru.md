@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование SPREADSHETML в GIF с помощью Python
-url: /ru/python-java/conversion/spreadsheetml-to-gif/
+
 description: Пример кода для преобразования электронной таблицыml в gif Python. Используйте пример кода API для пакетного преобразования файлов электронных таблиц в gif в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLTM konvertálása BMP-vé a következőn keresztül: Python"
-url: /hu/python-java/conversion/xltm-to-bmp/
+
 description: Mintakód az xltm–bmp Python konverzióhoz. Használjon API példakódot kötegelt xltm-fájlokhoz bmp-konverzióhoz a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi XLS thành SPREADSHEETML qua C#
-url: /vi/net/conversion/xls-to-spreadsheetml/
+
 description: Mã mẫu để chuyển đổi xls sang bảng tínhml C#. Sử dụng API mã mẫu cho các tệp xls hàng loạt để chuyển đổi bảng tínhml trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

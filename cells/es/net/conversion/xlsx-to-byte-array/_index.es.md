@@ -1,7 +1,7 @@
-﻿---
+---
 title: Convierta XLSX a Byte Array a través de C# 
 weight: 7690
-url: /es/net/conversion/xlsx-to-byte-array/ 
+
 description: C# Código de muestra para la conversión de XLSX a Byte Array. Use este código para la conversión de Excel XLSX a Byte Array dentro de VB.NET, Asp.NET o cualquier aplicación basada en .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

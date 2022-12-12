@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to MHTML via Java 
-url: /java/conversion/tabdelimited-to-mhtml/
+
 description: Convert TABDELIMITED to MHTML format in Java code. Save TABDELIMITED as MHTML using Java.
 ---
 

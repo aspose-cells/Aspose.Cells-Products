@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversi JSON ke TXT melalui Java 
 weight: 3070
-url: /id/java/conversion/json-to-txt/ 
+
 description: Contoh Java kode konversi untuk format JSON ke file TXT. Pemrogram dapat menggunakan kode contoh ini untuk mengekspor spreadsheet Excel & OpenOffice ke TXT dalam Aplikasi berbasis Web atau Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir SPREADSHEETML en MARKDOWN via Python
-url: /fr/python-java/conversion/spreadsheetml-to-markdown/
+
 description: Exemple de code pour la conversion de feuille de calcul ml en démarque Python. Utilisez l'exemple de code API pour les fichiers de tableur par lots vers la conversion de démarquage dans l'application Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

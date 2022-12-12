@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera XLT till GIF via appen C++ 
-url: /sv/cpp/conversion/xlt-to-gif/ 
+
 description: Exempel C++-konverteringskod för XLT-dokument till GIF-format. Programmerare kan använda den här källkoden för batchkonvertering av XLT till GIF inom alla C++-program.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

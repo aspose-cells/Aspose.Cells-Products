@@ -1,6 +1,6 @@
-﻿---
+---
 title: Tạo Tệp MS Excel XLSM qua Java 
-url: /vi/java/create-xlsm/ 
+
 description: Java Mã mẫu để tạo tài liệu XLSM. Sử dụng mã này để tạo tệp MS Excel XLSM trong ứng dụng web hoặc máy tính để bàn dựa trên Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

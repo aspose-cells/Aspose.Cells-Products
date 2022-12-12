@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 C# 将 NUMBERS 转换为 TXT
-url: /zh/net/conversion/numbers-to-txt/
+
 description: 数字到 txt C# 转换的示例代码。在 VB.NET、Asp.NET 或任何基于 .NET 的应用程序中使用 API 批号文件到 txt 转换的示例代码。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

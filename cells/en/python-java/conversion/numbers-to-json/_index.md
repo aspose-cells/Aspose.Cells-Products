@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to JSON via Python
-url: /python-java/conversion/numbers-to-json/
+
 description: Convert NUMBERS to JSON format in Python code. Save NUMBERS as JSON using Python.
 ---
 

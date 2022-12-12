@@ -1,6 +1,6 @@
-﻿---
+---
 title: Erstellen Sie Excel-Diagramme und konvertieren Sie sie in Bilder über Java
-url: /de/java/chart/
+
 description: Java-Quellcode zum Zeichnen und Konvertieren von Diagrammen oder Diagrammen in Microsoft Excel mithilfe der Java-Bibliothek. 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

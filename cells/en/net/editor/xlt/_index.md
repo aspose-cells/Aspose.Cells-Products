@@ -1,6 +1,6 @@
 ---
 title: Edit XLT files via .NET 
-url: /net/editor/xlt/ 
+
 description: C# source code to edit XLT document on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
 

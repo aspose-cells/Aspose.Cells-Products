@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertera TXT till TSV via Java 
 weight: 5440
-url: /sv/java/conversion/txt-to-tsv/ 
+
 description: Exempel Java-konverteringskod för TXT-format till TSV-fil. Programmerare kan använda den här exempelkoden för att exportera Excel- och OpenOffice-kalkylblad till TSV inom alla webb- eller skrivbordsbaserade Javaapplikationer.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

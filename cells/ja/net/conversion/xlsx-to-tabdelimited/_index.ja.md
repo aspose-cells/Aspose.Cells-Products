@@ -1,6 +1,6 @@
-﻿---
+---
 title: XLSXをC#経由でTABDELIMITEDに変換します
-url: /ja/net/conversion/xlsx-to-tabdelimited/
+
 description: xlsxからtabdelimitedC#への変換のサンプルコード。バッチxlsxファイルのAPIサンプルコードを使用して、VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でタブ区切りの変換を行います。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

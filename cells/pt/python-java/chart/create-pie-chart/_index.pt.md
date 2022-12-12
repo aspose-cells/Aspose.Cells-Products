@@ -1,6 +1,6 @@
-﻿---
+---
 title: Crie gráficos de pizza por meio de Python
-url: /pt/python-java/create-pie-chart/
+
 description: Python Código de amostra para criar gráficos de pizza no Excel usando a biblioteca Python. Use este código para criar um gráfico de pizza para o MS Excel dentro do aplicativo baseado em Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

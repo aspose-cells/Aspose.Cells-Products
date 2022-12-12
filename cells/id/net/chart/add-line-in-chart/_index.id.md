@@ -1,6 +1,6 @@
-﻿---
+---
 title: Tambahkan garis dalam bagan melalui C# 
-url: /id/net/add-line-in-chart/ 
+
 description: C# Contoh kode untuk menambahkan garis dalam bagan ke Excel menggunakan .NET Pustaka. Gunakan kode ini untuk menambahkan garis dalam bagan ke MS Excel dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan XLS ke TABDELIMITED melalui C#
-url: /id/net/conversion/xls-to-tabdelimited/
+
 description: Contoh kode untuk konversi xls ke tabdelimited C#. Gunakan API kode contoh untuk file batch xls ke konversi tabdelimited dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

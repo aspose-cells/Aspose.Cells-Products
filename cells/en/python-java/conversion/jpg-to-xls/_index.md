@@ -1,6 +1,6 @@
 ---
 title: Convert JPG to XLS via Python
-url: /python-java/conversion/jpg-to-xls/
+
 description: Convert JPG to XLS format in Python code. Save JPG as XLS using Python.
 ---
 

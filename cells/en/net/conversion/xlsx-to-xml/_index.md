@@ -1,6 +1,6 @@
 ---
 title: Convert XLSX to XML via C#
-url: /net/conversion/xlsx-to-xml/
+
 description: Convert XLSX to XML format in C# code. Save XLSX as XML using VB.NET, Asp.NET or any .NET based application.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: .NETを介してXLSMファイルを編集します 
-url: /ja/net/editor/xlsm/ 
+
 description: .NETフレームワーク、.NETコア、Windows Azure、Mono、またはXamarinプラットフォームでXLSMドキュメントを編集するためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

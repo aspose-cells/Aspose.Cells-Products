@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง XLTM เป็น EMF ผ่าน C++ แอปพลิเคชัน 
-url: /th/cpp/conversion/xltm-to-emf/ 
+
 description: ตัวอย่างรหัสการแปลง C++ สำหรับเอกสาร XLTM เป็นรูปแบบ EMF โปรแกรมเมอร์สามารถใช้ซอร์สโค้ดนี้สำหรับการแปลง XLTM เป็นแบทช์เป็น EMF ภายในแอปพลิเคชัน C++ ใดก็ได้
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

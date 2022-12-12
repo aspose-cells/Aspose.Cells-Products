@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierte XLS a JPEG a través de Python
-url: /es/python-java/conversion/xls-to-jpeg/
+
 description: Ejemplo de código para la conversión de xls a jpeg Python. Use el código de ejemplo API para la conversión de archivos xls por lotes a jpeg dentro de la aplicación Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل CSV إلى DIF عبر Java 
 weight: 8250
-url: /ar/java/conversion/csv-to-dif/ 
+
 description: نموذج لشفرة تحويل Java لتنسيق CSV إلى ملف DIF. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى DIF داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

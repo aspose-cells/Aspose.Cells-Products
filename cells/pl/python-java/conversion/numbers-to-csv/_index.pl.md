@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj NUMBERS na CSV przez Python
-url: /pl/python-java/conversion/numbers-to-csv/
+
 description: Przykładowy kod konwersji liczb do csv Python. Użyj przykładowego kodu API dla plików numerów partii do konwersji csv w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

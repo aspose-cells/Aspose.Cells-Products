@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java के द्वारा HTML फ़ाइलें मर्ज करें 
 weight: 8830
-url: /hi/java/merger/html/ 
+
 description: Java JSP/JSF एप्लिकेशन और डेस्कटॉप एप्लिकेशन के लिए रनटाइम परिवेश पर HTML दस्तावेज़ों को संयोजित करने के लिए Java नमूना कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

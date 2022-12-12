@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLTX konvertálása PDF-be a következőn keresztül: Java "
 weight: 8110
-url: /hu/java/conversion/xltx-to-pdf/ 
+
 description: Minta Java konverziós kód XLTX formátumhoz PDF fájllá. A programozók ezt a példakódot használhatják Excel- és OpenOffice-táblázatok PDF-formátumba exportálására bármely web- vagy asztali Java-alapú alkalmazásban.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

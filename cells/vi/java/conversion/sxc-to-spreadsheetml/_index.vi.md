@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi SXC thành SPREADSHEETML qua Java 
-url: /vi/java/conversion/sxc-to-spreadsheetml/ 
+
 description: Mã chuyển đổi Java mẫu cho định dạng SXC thành tệp SPREADSHEETML. Lập trình viên có thể sử dụng mã ví dụ này để xuất bảng tính Excel & OpenOffice sang SPREADSHEETML trong bất kỳ Ứng dụng dựa trên Web hoặc Máy tính Java nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

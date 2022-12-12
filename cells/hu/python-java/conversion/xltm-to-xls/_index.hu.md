@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLTM konvertálása XLS-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/xltm-to-xls/
+
 description: Mintakód az xltm–xls Python konverzióhoz. Használjon API példakódot az xltm fájlok kötegelt xls átalakításához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してXLSをBMPに変換します
-url: /ja/net/conversion/xls-to-bmp/
+
 description: xlsからbmpC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチxlsファイルからbmpへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

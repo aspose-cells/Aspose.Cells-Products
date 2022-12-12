@@ -1,7 +1,7 @@
-﻿---
+---
 title: Wyszukaj dokument CSV bez otwierania przez Java 
 weight: 390
-url: /pl/java/search/csv/ 
+
 description: Java przykładowy kod do wyszukiwania słów ze wzorcem w pliku CSV w Java środowisku wykonawczym dla aplikacji JSP/JSF i aplikacji komputerowych.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

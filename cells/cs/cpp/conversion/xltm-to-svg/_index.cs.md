@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte XLTM na SVG pomocí aplikace C++ 
-url: /cs/cpp/conversion/xltm-to-svg/ 
+
 description: Ukázka převodního kódu C++ pro dokument XLTM do formátu SVG. Programátoři mohou použít tento zdrojový kód pro dávkovou konverzi XLTM na SVG v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

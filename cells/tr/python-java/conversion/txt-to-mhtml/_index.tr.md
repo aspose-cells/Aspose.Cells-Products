@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla TXT'yi MHTML'ye dönüştürün
-url: /tr/python-java/conversion/txt-to-mhtml/
+
 description: txt'den mhtml'ye Python dönüştürme için örnek kod. Python uygulamasında toplu txt dosyalarını mhtml'ye dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLS दस्तावेज़ से .NET के माध्यम से टेक्स्ट और चित्र निकालें 
 weight: 5600
-url: /hi/net/parser/xls/ 
+
 description: .NET Framework, .NET Core, Mono या Xamarin Platforms पर XLS फ़ाइल से टेक्स्ट और छवियों को निकालने के लिए C# स्रोत कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

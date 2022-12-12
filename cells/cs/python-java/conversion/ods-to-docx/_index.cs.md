@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést ODS na DOCX prostřednictvím Python
-url: /cs/python-java/conversion/ods-to-docx/
+
 description: Ukázkový kód pro převod z ods na docx Python. Použijte API ukázkový kód pro dávkový převod souborů ods na docx v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

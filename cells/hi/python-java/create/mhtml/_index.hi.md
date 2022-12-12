@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python के माध्यम से एमएचटीएमएल फ़ाइलें बनाएं 
-url: /hi/python-java/create-mhtml/ 
+
 description: Python एमएचटीएमएल दस्तावेज़ जनरेट करने के लिए नमूना कोड। Python एप्लिकेशन के भीतर एमएचटीएमएल फाइल बनाने के लिए इस कोड का प्रयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

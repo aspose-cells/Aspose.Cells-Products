@@ -1,7 +1,7 @@
-﻿---
+---
 title: Sloučit soubory MHTML přes .NET 
 weight: 2610
-url: /cs/net/merger/mhtml/ 
+
 description: Zdrojový kód C# pro kombinaci dokumentů MHTML na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

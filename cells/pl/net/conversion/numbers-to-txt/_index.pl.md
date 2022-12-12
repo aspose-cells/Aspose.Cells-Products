@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj NUMBERS na TXT przez C#
-url: /pl/net/conversion/numbers-to-txt/
+
 description: Przykładowy kod konwersji liczb na txt C#. Użyj przykładowego kodu API dla plików z numerami partii do konwersji txt w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

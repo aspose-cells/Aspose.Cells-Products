@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertera ODS till GIF via Java 
 weight: 4810
-url: /sv/java/conversion/ods-to-gif/ 
+
 description: Exempel Java-konverteringskod för ODS-format till GIF-fil. Programmerare kan använda den här exempelkoden för att exportera Excel- och OpenOffice-kalkylblad till GIF inom alla webb- eller skrivbordsbaserade Java-applikationer.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

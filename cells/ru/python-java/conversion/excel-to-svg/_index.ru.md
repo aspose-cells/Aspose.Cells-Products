@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование EXCEL в SVG через Python
-url: /ru/python-java/conversion/excel-to-svg/
+
 description: Пример кода для преобразования Excel в SVG Python. Используйте пример кода API для пакетного преобразования файлов Excel в SVG в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

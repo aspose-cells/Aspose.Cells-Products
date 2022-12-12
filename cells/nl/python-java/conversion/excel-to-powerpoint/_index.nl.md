@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer EXCEL naar POWERPOINT via Python
-url: /nl/python-java/conversion/excel-to-powerpoint/
+
 description: Voorbeeldcode voor conversie van Excel naar PowerPoint Python. Gebruik API voorbeeldcode voor batch Excel-bestanden naar PowerPoint-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

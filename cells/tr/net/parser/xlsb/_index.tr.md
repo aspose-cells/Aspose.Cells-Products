@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET aracılığıyla XLSB belgesinden metin ve resim ayıklayın 
 weight: 2200
-url: /tr/net/parser/xlsb/ 
+
 description: .NET Framework, .NET Core, Mono veya Xamarin Platformlarında XLSB dosyasından metin ve resim ayıklamak için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

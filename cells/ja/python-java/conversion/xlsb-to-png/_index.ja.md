@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してXLSBをPNGに変換する
-url: /ja/python-java/conversion/xlsb-to-png/
+
 description: xlsbからpngPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチxlsbファイルからpngへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

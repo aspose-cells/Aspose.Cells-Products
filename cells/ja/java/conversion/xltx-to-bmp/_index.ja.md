@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してXLTXをBMPに変換します 
 weight: 5980
-url: /ja/java/conversion/xltx-to-bmp/ 
+
 description: XLTX形式からBMPファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のBMPにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

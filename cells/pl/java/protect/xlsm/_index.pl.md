@@ -1,7 +1,7 @@
-﻿---
+---
 title: Chroń i blokuj dokument XLSM za pomocą Java 
 weight: 9620
-url: /pl/java/protect/xlsm/ 
+
 description: Java przykładowy kod do blokowania pliku XLSM przy użyciu hasła w Java środowisku wykonawczym dla aplikacji JSP/JSF i aplikacji komputerowych.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

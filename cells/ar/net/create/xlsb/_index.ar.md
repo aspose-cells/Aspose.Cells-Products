@@ -1,6 +1,6 @@
-﻿---
+---
 title: إنشاء ملفات MS Excel XLSB عبر C# 
-url: /ar/net/create-xlsb/ 
+
 description: C# نموذج كود لإنشاء مستندات XLSB. استخدم هذا الرمز لإنشاء ملفات MS Excel XLSB داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

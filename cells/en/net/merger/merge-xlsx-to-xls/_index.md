@@ -1,6 +1,6 @@
 ---
 title: Merge XLSX to XLS Files via C# 
-url: /net/merger/merge-xlsx-to-xls/ 
+
 description: Merge XLSX to XLS file in C# code. Combine XLSX to XLS file using VB.NET, Asp.NET or any .NET based application.
 ---
 

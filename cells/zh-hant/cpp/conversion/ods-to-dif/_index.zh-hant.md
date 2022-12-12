@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通過 C++ 應用程序將 ODS 轉換為 DIF 
 weight: 4040
-url: /zh-hant/cpp/conversion/ods-to-dif/ 
+
 description: ODS 文檔到 DIF 格式的示例 C++ 轉換代碼。程序員可以使用此源代碼在任何 C++ 應用程序中進行批量 ODS 到 DIF 的轉換。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

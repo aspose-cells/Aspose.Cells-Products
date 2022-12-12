@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertálja az XLS-t JPEG formátumba a C++ alkalmazással 
 weight: 1860
-url: /hu/cpp/conversion/xls-to-jpeg/ 
+
 description: Minta C++ konverziós kód XLS dokumentumhoz JPEG formátumba. A programozók ezt a forráskódot használhatják kötegelt XLS-ből JPEG-be konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

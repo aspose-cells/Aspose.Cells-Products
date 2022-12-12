@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera TXT till XLTM via appen C++ 
-url: /sv/cpp/conversion/txt-to-xltm/ 
+
 description: Exempel på C++-konverteringskod för TXT-dokument till XLTM-format. Programmerare kan använda den här källkoden för batchkonvertering av TXT till XLTM inom alla C++-program.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

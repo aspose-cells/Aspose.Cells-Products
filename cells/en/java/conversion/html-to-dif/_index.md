@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to DIF via Java 
-url: /java/conversion/html-to-dif/
+
 description: Convert HTML to DIF format in Java code. Save HTML as DIF using Java.
 ---
 

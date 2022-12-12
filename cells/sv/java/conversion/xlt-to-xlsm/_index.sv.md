@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera XLT till XLSM via Java 
-url: /sv/java/conversion/xlt-to-xlsm/ 
+
 description: Exempel på Java-konverteringskod för XLT-format till XLSM-fil. Programmerare kan använda den här exempelkoden för att exportera Excel- och OpenOffice-kalkylblad till XLSM inom alla webb- eller skrivbordsbaserade Java-applikationer.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

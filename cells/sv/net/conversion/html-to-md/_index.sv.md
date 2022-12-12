@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera HTML till MD via C#
-url: /sv/net/conversion/html-to-md/
+
 description: Exempelkod för konvertering från html till md C#. Använd API exempelkod för batch-html-filer till md-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

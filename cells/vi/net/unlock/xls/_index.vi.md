@@ -1,7 +1,7 @@
-﻿---
+---
 title: Mở khóa tài liệu XLS qua .NET 
 weight: 4260
-url: /vi/net/unlock/xls/ 
+
 description: C# mã nguồn để mở khóa tệp XLS được bảo vệ bằng mật khẩu trên Nền tảng .NET Framework, .NET Core Mono hoặc Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

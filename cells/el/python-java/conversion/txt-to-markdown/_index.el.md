@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή TXT σε MARKDOWN μέσω Python
-url: /el/python-java/conversion/txt-to-markdown/
+
 description: Δείγμα κώδικα για τη μετατροπή txt σε markdown Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία txt για να σημειώσετε τη μετατροπή εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

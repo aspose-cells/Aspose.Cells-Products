@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLS в SQL через C#
-url: /ru/net/conversion/xls-to-sql/
+
 description: Пример кода для преобразования xls в sql C#. Используйте пример кода API для пакетного преобразования файлов xls в sql в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

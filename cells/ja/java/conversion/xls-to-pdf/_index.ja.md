@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してXLSをPDFに変換する 
 weight: 600
-url: /ja/java/conversion/xls-to-pdf/ 
+
 description: XLS形式からPDFファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、WebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをPDFにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

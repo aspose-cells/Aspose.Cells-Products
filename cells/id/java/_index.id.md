@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java Excel API - Aspose 
 weight: 6830
-url: /id/java/ 
+
 description: Java Pustaka Excel untuk pemrosesan spreadsheet. Baca tulis render dan konversi XLS XLSX XLSM ODS CSV TSV dan format lainnya. Kompatibel dengan Windows Linux & Unix
 ---
 {{< blocks/products/pf/main-wrap-class >}}

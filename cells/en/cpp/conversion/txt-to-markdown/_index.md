@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to MARKDOWN via C++
-url: /cpp/conversion/txt-to-markdown/
+
 description: Convert TXT to MARKDOWN format in C++ code. Save TXT as MARKDOWN using C++.
 ---
 

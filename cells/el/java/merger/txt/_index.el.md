@@ -1,7 +1,7 @@
-﻿---
+---
 title: Συγχώνευση αρχείων TXT μέσω Java 
 weight: 4480
-url: /el/java/merger/txt/ 
+
 description: Java δείγμα κώδικα για συνδυασμό εγγράφων TXT στο Java Runtime Environment για εφαρμογές JSP/JSF και εφαρμογές επιφάνειας εργασίας.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

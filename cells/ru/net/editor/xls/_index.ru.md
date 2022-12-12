@@ -1,6 +1,6 @@
-﻿---
+---
 title: Редактировать файлы XLS через .NET 
-url: /ru/net/editor/xls/ 
+
 description: Исходный код C# для редактирования документа XLS на платформах .NET Framework, .NET Core, Windows Azure, Mono или Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

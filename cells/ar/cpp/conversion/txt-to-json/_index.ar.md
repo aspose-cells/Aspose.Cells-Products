@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TXT إلى JSON عبر تطبيق C++ 
-url: /ar/cpp/conversion/txt-to-json/ 
+
 description: نموذج C++ رمز التحويل لمستند TXT إلى تنسيق JSON. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل TXT إلى JSON دفعة داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

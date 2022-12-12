@@ -1,7 +1,7 @@
-﻿---
+---
 title: Genera rapporti in file XLSB tramite Java 
 weight: 3560
-url: /it/java/assembly/xlsb/ 
+
 description: Java codice di esempio per creare report in formato XLSB su Java Runtime Environment per applicazioni JSP/JSF e applicazioni desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

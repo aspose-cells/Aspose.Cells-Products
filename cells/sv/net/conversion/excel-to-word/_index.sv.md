@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera EXCEL till WORD via C#
-url: /sv/net/conversion/excel-to-word/
+
 description: Exempelkod för konvertering från excel till ord C#. Använd API exempelkod för batch Excel-filer till ordkonvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

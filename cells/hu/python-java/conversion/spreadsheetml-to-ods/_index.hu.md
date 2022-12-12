@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SPREADSHEETML konvertálása ODS-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/spreadsheetml-to-ods/
+
 description: Mintakód a táblázatkezelőből az ods Python konverziójához. Használjon API példakódot a táblázatkezelő fájlok kötegelt ods konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

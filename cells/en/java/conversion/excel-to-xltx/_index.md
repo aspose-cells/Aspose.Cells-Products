@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to XLTX via Java 
-url: /java/conversion/excel-to-xltx/
+
 description: Convert EXCEL to XLTX format in Java code. Save EXCEL as XLTX using Java.
 ---
 

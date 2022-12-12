@@ -1,7 +1,7 @@
-﻿---
+---
 title:  通过 .NET 将 XLSM 文档图表转换为图像 
 weight: 5100
-url: /zh/net/chart/xlsm/ 
+
 description: C# 用于在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上绘制和转换 XLSM 文件中的图表或图表的源代码。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

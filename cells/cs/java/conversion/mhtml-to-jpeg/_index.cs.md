@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést MHTML na JPEG prostřednictvím Java 
 weight: 3580
-url: /cs/java/conversion/mhtml-to-jpeg/ 
+
 description: Ukázka převodního kódu Java pro formát MHTML na soubor JPEG. Programátoři mohou tento příklad kódu použít k exportu tabulek Excelu a OpenOffice do formátu JPEG v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

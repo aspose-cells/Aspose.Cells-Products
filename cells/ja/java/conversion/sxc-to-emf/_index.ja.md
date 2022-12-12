@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してSXCをEMFに変換します 
-url: /ja/java/conversion/sxc-to-emf/ 
+
 description: SXC形式からEMFファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のEMFにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera ODS till SXC via C#
-url: /sv/net/conversion/ods-to-sxc/
+
 description: Exempelkod för konvertering av ods till sxc C#. Använd API exempelkod för batch-ods-filer till sxc-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل MHTML إلى TIFF عبر Python
-url: /ar/python-java/conversion/mhtml-to-tiff/
+
 description: نموذج رمز لـ mhtml لتحويل Python. استخدم API مثال الكود لملفات mhtml الدفعية لتحويل شجاع داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

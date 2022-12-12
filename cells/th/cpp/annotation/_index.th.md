@@ -1,6 +1,6 @@
-﻿---
+---
 title: คำอธิบายประกอบไฟล์ Excel ผ่าน C++
-url: /th/cpp/annotation/
+
 description: เพิ่มหรือลบความคิดเห็นเกี่ยวกับคำอธิบายประกอบข้อมูลของ Excel และสเปรดชีต OpenOffice ด้วยไลบรารี C++
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

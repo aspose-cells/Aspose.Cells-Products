@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan XLT ke FODS melalui C#
-url: /id/net/conversion/xlt-to-fods/
+
 description: Contoh kode untuk konversi xlt ke fods C#. Gunakan API kode contoh untuk file batch xlt ke konversi makanan dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

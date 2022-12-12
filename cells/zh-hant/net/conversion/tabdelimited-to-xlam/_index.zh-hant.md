@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 C# 將 TABDELIMITED 轉換為 XLAM
-url: /zh-hant/net/conversion/tabdelimited-to-xlam/
+
 description: tabdelimited 到 xlam C# 轉換的示例代碼。使用 API 示例代碼在 VB.NET、Asp.NET 或任何基於 .NET 的應用程序中將製表符分隔文件批量轉換為 xlam。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

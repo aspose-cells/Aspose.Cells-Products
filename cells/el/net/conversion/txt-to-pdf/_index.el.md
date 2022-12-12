@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή TXT σε PDF μέσω C#
-url: /el/net/conversion/txt-to-pdf/
+
 description: Δείγμα κώδικα για μετατροπή C# txt σε pdf. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδική μετατροπή αρχείων txt σε pdf εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

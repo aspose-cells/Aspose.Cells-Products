@@ -1,7 +1,7 @@
-﻿---
+---
 title: Trích xuất văn bản và hình ảnh từ tài liệu ODS qua Java 
 weight: 4740
-url: /vi/java/parser/ods/ 
+
 description: Java mã mẫu để trích xuất văn bản và hình ảnh từ tệp ODS trên Java Môi trường thời gian chạy cho Ứng dụng JSP / JSF và Ứng dụng máy tính để bàn.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

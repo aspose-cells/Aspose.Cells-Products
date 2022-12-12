@@ -1,7 +1,7 @@
-﻿---
+---
 title: Grafico del documento XLSB tramite Java 
 weight: 670
-url: /it/java/chart/xlsb/ 
+
 description: Java codice di esempio per disegnare e convertire grafici o diagrammi in file XLSB su Java Runtime Environment per applicazioni JSP/JSF e applicazioni desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

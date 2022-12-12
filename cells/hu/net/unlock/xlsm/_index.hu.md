@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Az XLSM-dokumentum feloldása a következőn keresztül: .NET "
 weight: 9810
-url: /hu/net/unlock/xlsm/ 
+
 description: C# forráskód a jelszóval védett XLSM-fájl feloldásához .NET Framework, .NET Core, Mono vagy Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

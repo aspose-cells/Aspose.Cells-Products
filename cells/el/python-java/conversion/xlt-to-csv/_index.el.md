@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή XLT σε CSV μέσω Python
-url: /el/python-java/conversion/xlt-to-csv/
+
 description: Δείγμα κώδικα για μετατροπή xlt σε csv Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία xlt σε μετατροπή csv εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

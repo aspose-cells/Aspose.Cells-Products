@@ -1,6 +1,6 @@
 ---
 title: Merge MHT to XLSB Files via C# 
-url: /net/merger/merge-mht-to-xlsb/ 
+
 description: Merge MHT to XLSB file in C# code. Combine MHT to XLSB file using VB.NET, Asp.NET or any .NET based application.
 ---
 

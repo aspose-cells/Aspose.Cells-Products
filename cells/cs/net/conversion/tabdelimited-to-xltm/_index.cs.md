@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TABDELIMITED na XLTM přes C#
-url: /cs/net/conversion/tabdelimited-to-xltm/
+
 description: Ukázkový kód pro převod tabdelimited na xltm C#. Použijte API ukázkový kód pro dávkový převod souborů oddělených tabulátory na xltm v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

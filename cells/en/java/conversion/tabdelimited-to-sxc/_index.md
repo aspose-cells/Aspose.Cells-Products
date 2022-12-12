@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to SXC via Java 
-url: /java/conversion/tabdelimited-to-sxc/
+
 description: Convert TABDELIMITED to SXC format in Java code. Save TABDELIMITED as SXC using Java.
 ---
 

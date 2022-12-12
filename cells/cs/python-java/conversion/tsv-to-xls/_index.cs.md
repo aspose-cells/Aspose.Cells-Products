@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TSV na XLS přes Python
-url: /cs/python-java/conversion/tsv-to-xls/
+
 description: Ukázkový kód pro převod tsv na xls Python. Použijte API ukázkový kód pro dávkový převod souborů tsv na xls v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

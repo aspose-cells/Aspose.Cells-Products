@@ -1,7 +1,7 @@
-﻿---
+---
 title: Interfejsy API Node.js dla arkuszy kalkulacyjnych programu Excel — Aspose 
 weight: 3120
-url: /pl/nodejs-java/ 
+
 description: Przetwarzaj formaty plików Excel za pomocą biblioteki Node.js. Odczyt, zapis, renderowanie i konwersja XLS XLSX XLSB XLTX XLTM XLSM XML ODS CSV i inne formaty za pośrednictwem Node.js w systemach Windows, macOS i Linux
 ---
 {{< blocks/products/pf/main-wrap-class >}}

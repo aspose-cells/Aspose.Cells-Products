@@ -1,7 +1,7 @@
-﻿---
+---
 title: دمج ملفات XLSB عبر Java 
 weight: 4840
-url: /ar/java/merger/xlsb/ 
+
 description: Java نموذج كود لدمج مستندات XLSB في Java Runtime Environment لتطبيق JSP / JSF وتطبيقات سطح المكتب.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLT إلى XLTM عبر Python
-url: /ar/python-java/conversion/xlt-to-xltm/
+
 description: نموذج كود للتحويل من xlt إلى xltm Python. استخدم API رمز المثال لملفات xlt الدفعية لتحويل xltm داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

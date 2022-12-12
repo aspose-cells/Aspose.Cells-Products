@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLSM na XLAM přes C#
-url: /cs/net/conversion/xlsm-to-xlam/
+
 description: Ukázkový kód pro převod xlsm na xlam C#. Použijte API ukázkový kód pro dávkové soubory xlsm na převod xlam v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

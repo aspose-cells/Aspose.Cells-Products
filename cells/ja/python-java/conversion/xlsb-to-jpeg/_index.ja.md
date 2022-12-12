@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してXLSBをJPEGに変換します
-url: /ja/python-java/conversion/xlsb-to-jpeg/
+
 description: xlsbからjpegPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチxlsbファイルからjpegへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

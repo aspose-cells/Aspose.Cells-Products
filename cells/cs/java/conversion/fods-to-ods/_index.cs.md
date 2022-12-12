@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést FODS na ODS přes Java 
-url: /cs/java/conversion/fods-to-ods/ 
+
 description: Ukázkový konverzní kód Java pro formát FODS na soubor ODS. Programátoři mohou použít tento příklad kódu k exportu tabulek Excelu a OpenOffice do ODS v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

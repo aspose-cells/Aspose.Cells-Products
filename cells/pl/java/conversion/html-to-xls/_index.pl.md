@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konwertuj HTML na XLS przez Java 
 weight: 6700
-url: /pl/java/conversion/html-to-xls/ 
+
 description: Przykładowy kod konwersji Java dla formatu HTML do pliku XLS. Programiści mogą użyć tego przykładowego kodu, aby wyeksportować arkusze kalkulacyjne Excel i OpenOffice do XLS w dowolnej aplikacji internetowej lub desktopowej Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

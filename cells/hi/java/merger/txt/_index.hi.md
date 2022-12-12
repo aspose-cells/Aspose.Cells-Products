@@ -1,7 +1,7 @@
-﻿---
+---
 title: TXT फ़ाइलों को Java के द्वारा मर्ज करें 
 weight: 4480
-url: /hi/java/merger/txt/ 
+
 description: Java जेएसपी/जेएसएफ एप्लिकेशन और डेस्कटॉप एप्लिकेशन के लिए Java रनटाइम एनवायरनमेंट पर TXT दस्तावेज़ों को संयोजित करने के लिए नमूना कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Buka kunci dokumen XLS melalui Java 
 weight: 6390
-url: /id/java/unlock/xls/ 
+
 description: Java kode contoh untuk membuka kunci file XLS yang dilindungi sandi di Java Lingkungan Waktu Proses untuk Aplikasi JSP/JSF dan Aplikasi Desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

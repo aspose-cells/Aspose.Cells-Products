@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование SPREADSHETML в BMP с помощью Python
-url: /ru/python-java/conversion/spreadsheetml-to-bmp/
+
 description: Пример кода для преобразования электронной таблицыml в bmp Python. Используйте пример кода API для пакетного преобразования файлов электронной таблицыml в bmp в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

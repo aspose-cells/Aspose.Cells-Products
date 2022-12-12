@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer JSON naar JPEG via Python
-url: /nl/python-java/conversion/json-to-jpeg/
+
 description: Voorbeeldcode voor conversie van json naar jpeg Python. Gebruik API voorbeeldcode voor batch json-bestanden naar jpeg-conversie binnen Python toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل JSON إلى XPS عبر تطبيق C++ 
-url: /ar/cpp/conversion/json-to-xps/ 
+
 description: نموذج رمز تحويل C++ لمستند JSON إلى تنسيق XPS. يمكن للمبرمجين استخدام رمز المصدر هذا لتحويل دفعة JSON إلى XPS داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

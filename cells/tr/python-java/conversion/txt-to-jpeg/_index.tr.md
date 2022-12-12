@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla TXT'yi JPEG'e dönüştürün
-url: /tr/python-java/conversion/txt-to-jpeg/
+
 description: txt'den jpeg'e Python dönüştürme için örnek kod. Python uygulamasında toplu txt dosyaları için jpeg dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

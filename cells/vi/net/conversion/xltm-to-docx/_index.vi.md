@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi XLTM sang DOCX qua C#
-url: /vi/net/conversion/xltm-to-docx/
+
 description: Mã mẫu cho chuyển đổi xltm sang docx C#. Sử dụng API mã ví dụ cho hàng loạt tệp xltm để chuyển đổi docx trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

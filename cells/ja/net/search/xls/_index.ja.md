@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NETを介して開かずにXLSドキュメントを検索する 
 weight: 1490
-url: /ja/net/search/xls/ 
+
 description: .NETフレームワーク、.NETコア、Mono、またはXamarinプラットフォーム上のXLSファイル内のパターンを持つ単語を検索するためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

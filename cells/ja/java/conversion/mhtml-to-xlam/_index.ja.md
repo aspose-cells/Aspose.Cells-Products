@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してMHTMLをXLAMに変換します 
-url: /ja/java/conversion/mhtml-to-xlam/ 
+
 description: MHTML形式からXLAMファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のXLAMにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

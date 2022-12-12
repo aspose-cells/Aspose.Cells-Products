@@ -1,6 +1,6 @@
-﻿---
+---
 title: Δημιουργία αρχείων Excel μέσω C#
-url: /el/net/assembly/
+
 description: Δημιουργήστε υπολογιστικά φύλλα Microsoft Excel από ένα φύλλο προτύπου χρησιμοποιώντας κώδικα C#
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

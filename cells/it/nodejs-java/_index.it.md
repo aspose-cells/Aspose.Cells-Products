@@ -1,7 +1,7 @@
-﻿---
+---
 title: API Node.js per fogli di lavoro Excel - Aspose 
 weight: 3120
-url: /it/nodejs-java/ 
+
 description: Elabora i formati di file Excel tramite la libreria Node.js. Leggi, scrivi, renderizza e converti XLS XLSX XLSB XLTX XLTM XLSM XML ODS CSV e altri formati tramite Node.js su Windows, macOS e Linux
 ---
 {{< blocks/products/pf/main-wrap-class >}}

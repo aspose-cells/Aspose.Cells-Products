@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python के माध्यम से CSV को EMF में बदलें
-url: /hi/python-java/conversion/csv-to-emf/
+
 description: सीएसवी से ईएमएफ Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर ईएमएफ रूपांतरण के लिए बैच सीएसवी फाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

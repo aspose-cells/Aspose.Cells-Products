@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# üzerinden XLTX'i TXT'ye dönüştürün
-url: /tr/net/conversion/xltx-to-txt/
+
 description: xltx'ten txt'ye C# dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu xltx dosyalarından txt'ye dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してHTMLをXMLに変換する
-url: /ja/python-java/conversion/html-to-xml/
+
 description: htmlからxmlPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチhtmlファイルからxmlへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

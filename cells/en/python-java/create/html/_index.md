@@ -1,6 +1,6 @@
 ---
 title: Create HTML Files via Python 
-url: /python-java/create-html/ 
+
 description: Create HTML files in Python code. Generate HTML files using Python application.
 ---
 

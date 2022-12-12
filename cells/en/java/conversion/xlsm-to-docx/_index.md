@@ -1,6 +1,6 @@
 ---
 title: Convert XLSM to DOCX via Java 
-url: /java/conversion/xlsm-to-docx/
+
 description: Convert XLSM to DOCX format in Java code. Save XLSM as DOCX using Java.
 ---
 

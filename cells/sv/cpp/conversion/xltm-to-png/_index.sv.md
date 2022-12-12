@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera XLTM till PNG via appen C++ 
-url: /sv/cpp/conversion/xltm-to-png/ 
+
 description: Exempel på C++-konverteringskod för XLTM-dokument till PNG-format. Programmerare kan använda den här källkoden för batchkonvertering av XLTM till PNG inom alla C++-program.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Modifier les fichiers TSV via .NET 
-url: /fr/net/editor/tsv/ 
+
 description: Code source C# pour modifier le document TSV sur les plates-formes .NET Framework, .NET Core, Windows Azure, Mono ou Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

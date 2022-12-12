@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل XLSM إلى JPEG عبر Java 
 weight: 560
-url: /ar/java/conversion/xlsm-to-jpeg/ 
+
 description: نموذج رمز تحويل Java لتنسيق XLSM إلى ملف JPEG. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى JPEG داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

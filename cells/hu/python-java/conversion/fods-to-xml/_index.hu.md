@@ -1,6 +1,6 @@
-﻿---
+---
 title: "FODS konvertálása XML-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/fods-to-xml/
+
 description: Mintakód a fod-ból xml-be Python konverzióhoz. Használjon API példakódot a fod-fájlok kötegelt XML-re konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

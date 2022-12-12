@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to WORD via C#
-url: /net/conversion/sxc-to-word/
+
 description: Convert SXC to WORD format in C# code. Save SXC as WORD using VB.NET, Asp.NET or any .NET based application.
 ---
 

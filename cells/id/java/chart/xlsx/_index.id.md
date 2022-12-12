@@ -1,7 +1,7 @@
-﻿---
+---
 title: Bagan dokumen XLSX melalui Java 
 weight: 5380
-url: /id/java/chart/xlsx/ 
+
 description: Java contoh kode untuk menggambar dan mengonversi bagan atau diagram dalam file XLSX di Java Lingkungan Waktu Proses untuk Aplikasi JSP/JSF dan Aplikasi Desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

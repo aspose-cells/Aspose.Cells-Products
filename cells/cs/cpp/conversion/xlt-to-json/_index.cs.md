@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte XLT na JSON pomocí aplikace C++ 
-url: /cs/cpp/conversion/xlt-to-json/ 
+
 description: Ukázkový konverzní kód C++ pro dokument XLT do formátu JSON. Programátoři mohou tento zdrojový kód použít pro dávkový převod XLT na JSON v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

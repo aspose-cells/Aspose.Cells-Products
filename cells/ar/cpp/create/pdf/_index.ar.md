@@ -1,6 +1,6 @@
-﻿---
+---
 title: إنشاء ملفات PDF عبر C++ 
-url: /ar/cpp/create-pdf/ 
+
 description: C++ نموذج كود لإنشاء ملفات PDF. استخدم هذا الرمز لإنشاء ملفات PDF داخل تطبيق يستند إلى C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

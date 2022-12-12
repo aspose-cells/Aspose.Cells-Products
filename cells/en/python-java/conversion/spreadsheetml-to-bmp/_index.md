@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to BMP via Python
-url: /python-java/conversion/spreadsheetml-to-bmp/
+
 description: Convert SPREADSHEETML to BMP format in Python code. Save SPREADSHEETML as BMP using Python.
 ---
 

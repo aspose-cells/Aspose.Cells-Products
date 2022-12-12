@@ -1,6 +1,6 @@
 ---
 title: Merge TSV to MHT Files via Python 
-url: /python-net/merger/merge-tsv-to-mht/ 
+
 description: Merge TSV to MHT file in Python code. Combine TSV to MHT file using Python.
 ---
 

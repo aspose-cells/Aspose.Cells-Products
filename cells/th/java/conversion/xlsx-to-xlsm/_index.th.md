@@ -1,7 +1,7 @@
-﻿---
+---
 title: แปลง XLSX เป็น XLSM ผ่าน Java 
 weight: 3160
-url: /th/java/conversion/xlsx-to-xlsm/ 
+
 description: ตัวอย่างโค้ดการแปลง Java สำหรับรูปแบบ XLSX เป็นไฟล์ XLSM โปรแกรมเมอร์สามารถใช้โค้ดตัวอย่างนี้เพื่อส่งออกสเปรดชีต Excel & OpenOffice ไปยัง XLSM ภายในแอปพลิเคชันบนเว็บหรือเดสก์ท็อป Java
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

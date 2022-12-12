@@ -1,7 +1,7 @@
-﻿---
+---
 title: ODS Dosyalarını .NET ile Birleştir 
 weight: 4330
-url: /tr/net/merger/ods/ 
+
 description: ODS belgelerini .NET Framework, .NET Core, Mono veya Xamarin Platformlarında birleştirmek için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

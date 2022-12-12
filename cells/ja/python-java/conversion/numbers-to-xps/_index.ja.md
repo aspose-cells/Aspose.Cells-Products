@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してNUMBERSをXPSに変換します
-url: /ja/python-java/conversion/numbers-to-xps/
+
 description: 数値からxpsPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチ番号ファイルからxpsへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

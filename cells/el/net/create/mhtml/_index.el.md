@@ -1,6 +1,6 @@
-﻿---
+---
 title: Δημιουργία αρχείων MHTML μέσω C# 
-url: /el/net/create-mhtml/ 
+
 description: C# Δείγμα κώδικα για τη δημιουργία εγγράφων MHTML. Χρησιμοποιήστε αυτόν τον κώδικα για τη δημιουργία αρχείων MHTML σε VB.NET, Asp.NET ή οποιαδήποτε εφαρμογή που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

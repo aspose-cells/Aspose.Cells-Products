@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi CSV sang XLT qua C#
-url: /vi/net/conversion/csv-to-xlt/
+
 description: Mã mẫu cho chuyển đổi csv sang xlt C#. Sử dụng API mã mẫu cho hàng loạt tệp csv sang chuyển đổi xlt trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

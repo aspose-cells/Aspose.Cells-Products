@@ -1,6 +1,6 @@
-﻿---
+---
 title: "NUMBERS konvertálása HTML-be a következőn keresztül: C#"
-url: /hu/net/conversion/numbers-to-html/
+
 description: Mintakód számok html C# konvertálásához. Használjon API példakódot kötegszámfájlokhoz a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazás HTML-konverziójához.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: حل تنسيق ملف Excel
 weight: 7730
-url: /ar/
+
 description: قم بإنشاء تطبيقات معالجة ملفات Excel باستخدام High Code أو Low Code APIs أو No Code Apps لعرض فحص المقارنة أو تحويل ملفات Excel.
 ---
 {{< blocks/products/pf/main-wrap-class >}}

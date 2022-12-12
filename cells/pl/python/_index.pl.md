@@ -1,7 +1,7 @@
-﻿---
+---
 title: Python Arkusz kalkulacyjny Excela API - Aspose 
 weight: 2820
-url: /pl/python/ 
+
 description: Python biblioteka arkuszy kalkulacyjnych do tworzenia plików do odczytu, zapisu i analizy Excel.
 ---
 {{< blocks/products/pf/main-wrap-class >}}

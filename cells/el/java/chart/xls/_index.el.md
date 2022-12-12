@@ -1,7 +1,7 @@
-﻿---
+---
 title: Γράφημα εγγράφων XLS μέσω Java 
 weight: 1050
-url: /el/java/chart/xls/ 
+
 description: Java δείγμα κώδικα για σχεδίαση και μετατροπή γραφήματος ή διαγράμματος σε αρχείο XLS στο Java Runtime Environment για εφαρμογές JSP/JSF και εφαρμογές επιφάνειας εργασίας.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

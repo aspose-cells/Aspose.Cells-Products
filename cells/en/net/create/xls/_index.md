@@ -1,6 +1,6 @@
 ---
 title: Create MS Excel XLS Files via C# 
-url: /net/create-xls/ 
+
 description: Create XLS files in C# code. Generate MS Excel XLS files using VB.NET, Asp.NET or any .NET based application.
 ---
 

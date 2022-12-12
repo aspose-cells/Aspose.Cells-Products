@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie XLTM in CSV über die Anwendung C++ 
-url: /de/cpp/conversion/xltm-to-csv/ 
+
 description: Beispiel-Umwandlungscode C++ für das XLTM-Dokument in das CSV-Format. Programmierer können diesen Quellcode für die Batch-Konvertierung von XLTM in CSV in jeder C++-Anwendung verwenden.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

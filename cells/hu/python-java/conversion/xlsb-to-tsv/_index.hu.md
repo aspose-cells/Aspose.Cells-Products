@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLSB konvertálása TSV-vé a következőn keresztül: Python"
-url: /hu/python-java/conversion/xlsb-to-tsv/
+
 description: Mintakód az xlsb–tsv Python konverzióhoz. Használjon API példakódot a kötegelt xlsb fájlok tsv konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET के द्वारा XLT फ़ाइलें मर्ज करें 
 weight: 1820
-url: /hi/net/merger/xlt/ 
+
 description: .NET Framework, .NET Core, Mono या Xamarin प्लेटफॉर्म पर XLT दस्तावेज़ों को संयोजित करने के लिए C# स्रोत कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

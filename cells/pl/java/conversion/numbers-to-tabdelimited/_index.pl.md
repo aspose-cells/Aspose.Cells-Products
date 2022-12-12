@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj NUMBERS na TABDELIMITED przez Java 
-url: /pl/java/conversion/numbers-to-tabdelimited/ 
+
 description: Przykładowy kod konwersji Java dla formatu NUMBERS do pliku TABDELIMITED. Programiści mogą użyć tego przykładowego kodu, aby wyeksportować arkusze kalkulacyjne Excel i OpenOffice do TABDELIMITED w dowolnej aplikacji internetowej lub desktopowej Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

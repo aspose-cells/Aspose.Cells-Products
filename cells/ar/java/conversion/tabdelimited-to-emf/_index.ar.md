@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TABDELIMITED إلى EMF عبر Java 
-url: /ar/java/conversion/tabdelimited-to-emf/ 
+
 description: نموذج رمز تحويل Java لتنسيق TABDELIMITED إلى ملف EMF. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى EMF داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

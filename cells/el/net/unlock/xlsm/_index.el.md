@@ -1,7 +1,7 @@
-﻿---
+---
 title: Ξεκλείδωμα εγγράφου XLSM μέσω .NET 
 weight: 9810
-url: /el/net/unlock/xlsm/ 
+
 description: C# πηγαίος κώδικας για ξεκλείδωμα προστατευμένου με κωδικό πρόσβασης αρχείου XLSM σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

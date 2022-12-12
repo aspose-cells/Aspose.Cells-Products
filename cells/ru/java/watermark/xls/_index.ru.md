@@ -1,7 +1,7 @@
-﻿---
+---
 title: Документ XLS с водяным знаком через Java 
 weight: 2210
-url: /ru/java/watermark/xls/ 
+
 description: Пример кода Java для добавления или удаления водяного знака в файле XLS в Java среде выполнения для приложений JSP/JSF и настольных приложений.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

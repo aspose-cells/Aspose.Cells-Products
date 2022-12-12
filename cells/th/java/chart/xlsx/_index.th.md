@@ -1,7 +1,7 @@
-﻿---
+---
 title: แผนภูมิเอกสาร XLSX ผ่าน Java 
 weight: 5380
-url: /th/java/chart/xlsx/ 
+
 description: Java โค้ดตัวอย่างเพื่อวาดและแปลงแผนภูมิหรือไดอะแกรมในไฟล์ XLSX บน Java Runtime Environment สำหรับแอปพลิเคชัน JSP/JSF และแอปพลิเคชันเดสก์ท็อป
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla TSV'yi TABDELIMITED'e dönüştürün
-url: /tr/python-java/conversion/tsv-to-tabdelimited/
+
 description: tsv'den sekmeyle ayrılmış Python dönüşümüne ilişkin örnek kod. Python uygulamasında toplu tsv dosyaları sekmeyle ayrılmış dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

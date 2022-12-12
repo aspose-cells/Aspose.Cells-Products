@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to PDF via C#
-url: /net/conversion/xlt-to-pdf/
+
 description: Convert XLT to PDF format in C# code. Save XLT as PDF using VB.NET, Asp.NET or any .NET based application.
 ---
 

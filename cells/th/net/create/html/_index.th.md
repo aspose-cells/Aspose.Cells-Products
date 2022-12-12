@@ -1,6 +1,6 @@
-﻿---
+---
 title: สร้างไฟล์ HTML ผ่าน C# 
-url: /th/net/create-html/ 
+
 description: C# โค้ดตัวอย่างสำหรับสร้างเอกสาร HTML ใช้รหัสนี้เพื่อสร้างไฟล์ HTML ภายใน VB.NET, Asp.NET หรือแอปพลิเคชันที่ใช้ .NET
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

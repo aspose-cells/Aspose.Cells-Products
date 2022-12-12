@@ -1,6 +1,6 @@
-﻿---
+---
 title: Bearbeiten Sie XLT-Dateien über .NET 
-url: /de/net/editor/xlt/ 
+
 description: C#-Quellcode zum Bearbeiten des XLT-Dokuments auf .NET Framework-, .NET Core-, Windows Azure-, Mono- oder Xamarin-Plattformen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

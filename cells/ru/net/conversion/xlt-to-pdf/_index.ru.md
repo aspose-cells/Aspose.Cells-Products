@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLT в PDF через C#
-url: /ru/net/conversion/xlt-to-pdf/
+
 description: Пример кода для преобразования xlt в pdf C#. Используйте пример кода API для пакетного преобразования файлов xlt в pdf в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

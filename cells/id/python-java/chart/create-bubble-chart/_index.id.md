@@ -1,6 +1,6 @@
-﻿---
+---
 title: Buat Bagan Balon melalui Python
-url: /id/python-java/create-bubble-chart/
+
 description: Python Contoh kode untuk membuat bagan Gelembung ke Excel menggunakan Python Pustaka. Gunakan kode ini untuk membuat bagan Gelembung ke MS Excel dalam aplikasi berbasis Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: ค้นหาเอกสาร XLSB โดยไม่ต้องเปิดผ่าน Java 
 weight: 9420
-url: /th/java/search/xlsb/ 
+
 description: Java โค้ดตัวอย่างเพื่อค้นหาคำที่มีรูปแบบในไฟล์ XLSB บน Java Runtime Environment สำหรับแอปพลิเคชัน JSP/JSF และแอปพลิเคชันเดสก์ท็อป
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

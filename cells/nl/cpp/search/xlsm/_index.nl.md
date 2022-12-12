@@ -1,7 +1,7 @@
-﻿---
+---
 title: Zoek XLSM-document zonder te openen via C++ 
 weight: 9280
-url: /nl/cpp/search/xlsm/ 
+
 description: C++ voorbeeldcode om woorden met patroon te zoeken in XLSM-bestand op C++ Runtime Environment voor Windows 32 bit, Windows 64 bit en Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

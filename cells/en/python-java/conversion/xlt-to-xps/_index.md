@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to XPS via Python
-url: /python-java/conversion/xlt-to-xps/
+
 description: Convert XLT to XPS format in Python code. Save XLT as XPS using Python.
 ---
 

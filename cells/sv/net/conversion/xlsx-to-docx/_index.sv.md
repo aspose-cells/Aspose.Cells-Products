@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera XLSX till DOCX via C#
-url: /sv/net/conversion/xlsx-to-docx/
+
 description: Exempelkod för konvertering från xlsx till docx C#. Använd API exempelkod för batch-xlsx-filer till docx-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

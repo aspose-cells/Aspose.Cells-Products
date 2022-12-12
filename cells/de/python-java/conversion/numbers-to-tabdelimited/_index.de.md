@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie NUMBERS in TABDELIMITED über Python
-url: /de/python-java/conversion/numbers-to-tabdelimited/
+
 description: Beispielcode für die Umwandlung von Zahlen in tabulatorgetrennte Python. Verwenden Sie den API-Beispielcode für Batchnummerndateien in tabulatorgetrennte Konvertierung innerhalb der Python-Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

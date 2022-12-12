@@ -1,7 +1,7 @@
-﻿---
+---
 title: Gere relatórios em arquivos XLSX via Java 
 weight: 7710
-url: /pt/java/assembly/xlsx/ 
+
 description: Java código de amostra para criar relatórios em formato XLSX no Java ambiente de tempo de execução para aplicativos JSP/JSF e aplicativos de desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

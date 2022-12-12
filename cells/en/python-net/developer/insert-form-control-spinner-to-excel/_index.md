@@ -1,7 +1,7 @@
 ---
 title: Insert Spin Button(Form control) into Excel via Python 
 weight: 40
-url: /python-net/developer/insert-form-control-spinner-to-excel/ 
+
 description: Python source code to insert Spin Button(Form control) into Excel.
 ---
 

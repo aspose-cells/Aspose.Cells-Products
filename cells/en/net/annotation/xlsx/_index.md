@@ -1,7 +1,7 @@
 ---
 title: Remove XLSX Annotation via .NET 
 weight: 2010
-url: /net/annotation/xlsx/ 
+
 description: C# source code to add and delete XLSX format annotations on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

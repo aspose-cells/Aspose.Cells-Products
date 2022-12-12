@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj XLTM na XLSM przez Python
-url: /pl/python-java/conversion/xltm-to-xlsm/
+
 description: Przykładowy kod konwersji xltm do xlsm Python. Użyj przykładowego kodu API dla wsadowych plików xltm do konwersji xlsm w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

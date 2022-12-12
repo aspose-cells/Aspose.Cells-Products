@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést SPREADSHEETML na DIF prostřednictvím C#
-url: /cs/net/conversion/spreadsheetml-to-dif/
+
 description: Ukázkový kód pro konverzi tabulkyml na rozdíl C#. Použijte API ukázkový kód pro dávkové tabulkové soubory ml pro převod převodu v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

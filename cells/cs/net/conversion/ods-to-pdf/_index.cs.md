@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést ODS na PDF prostřednictvím C#
-url: /cs/net/conversion/ods-to-pdf/
+
 description: Ukázkový kód pro převod z ods na pdf C#. Použijte API ukázkový kód pro dávkový převod souborů ods do formátu PDF v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

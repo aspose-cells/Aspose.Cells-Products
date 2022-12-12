@@ -1,7 +1,7 @@
-﻿---
+---
 title: Slå samman XLSM-filer via .NET 
 weight: 660
-url: /sv/net/merger/xlsm/ 
+
 description: C# källkod för att kombinera XLSM-dokument på .NET Framework, .NET Core, Mono eller Xamarin-plattformar.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

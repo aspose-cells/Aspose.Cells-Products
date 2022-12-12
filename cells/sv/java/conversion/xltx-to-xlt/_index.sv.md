@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertera XLTX till XLT via Java 
 weight: 2650
-url: /sv/java/conversion/xltx-to-xlt/ 
+
 description: Exempel på Java-konverteringskod för XLTX-format till XLT-fil. Programmerare kan använda den här exempelkoden för att exportera Excel- och OpenOffice-kalkylblad till XLT inom alla webb- eller skrivbordsbaserade Java-applikationer.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SPREADSHEETML konvertálása TXT-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/spreadsheetml-to-txt/
+
 description: Mintakód a táblázatkezelőből txt-be Python. Használjon API példakódot a kötegelt táblázatkezelő fájlok txt konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

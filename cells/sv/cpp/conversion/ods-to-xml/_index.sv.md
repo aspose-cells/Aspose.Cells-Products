@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera ODS till XML via applikationen C++ 
-url: /sv/cpp/conversion/ods-to-xml/ 
+
 description: Exempel på C++-konverteringskod för ODS-dokument till XML-format. Programmerare kan använda den här källkoden för batch-konvertering av ODS till XML i alla C++-program.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

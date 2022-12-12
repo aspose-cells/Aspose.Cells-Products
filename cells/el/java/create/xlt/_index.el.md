@@ -1,6 +1,6 @@
-﻿---
+---
 title: Δημιουργία αρχείων MS Excel XLT μέσω Java 
-url: /el/java/create-xlt/ 
+
 description: Java Δείγμα κώδικα για τη δημιουργία εγγράφων XLT. Χρησιμοποιήστε αυτόν τον κώδικα για τη δημιουργία αρχείων MS Excel XLT σε εφαρμογή υπολογιστή ή web που βασίζεται σε Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

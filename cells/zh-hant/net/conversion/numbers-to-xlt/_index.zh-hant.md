@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 C# 將 NUMBERS 轉換為 XLT
-url: /zh-hant/net/conversion/numbers-to-xlt/
+
 description: 數字到 xlt C# 轉換的示例代碼。在 VB.NET、Asp.NET 或任何基於 .NET 的應用程序中使用 API 示例代碼將批號文件轉換為 xlt。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Excel文件格式解決方案
 weight: 7730
-url: /zh-hant/
+
 description: 使用高代碼或低代碼 API 或無代碼應用程序創建 Excel 文件操作應用程序，以查看比較檢查或轉換 Excel 文件。
 ---
 {{< blocks/products/pf/main-wrap-class >}}

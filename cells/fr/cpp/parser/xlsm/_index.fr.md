@@ -1,7 +1,7 @@
-﻿---
+---
 title: Extraire le texte et les images du document XLSM via C++ 
 weight: 570
-url: /fr/cpp/parser/xlsm/ 
+
 description: C++ Exemple de code pour extraire du texte et des images d'un fichier XLSM sur C++ Runtime Environment pour Windows 32 bits, Windows 64 bits et Linux 64 bits.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

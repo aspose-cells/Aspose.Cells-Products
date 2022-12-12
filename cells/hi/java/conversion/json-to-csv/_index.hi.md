@@ -1,7 +1,7 @@
-﻿---
+---
 title: JSON को Java के माध्यम से CSV में बदलें 
 weight: 3440
-url: /hi/java/conversion/json-to-csv/ 
+
 description: जेएसओएन प्रारूप के लिए सीएसवी फ़ाइल में नमूना Java रूपांतरण कोड। प्रोग्रामर इस उदाहरण कोड का उपयोग एक्सेल और ओपनऑफिस स्प्रेडशीट को किसी भी वेब या डेस्कटॉप Java आधारित एप्लिकेशन के भीतर CSV में निर्यात करने के लिए कर सकते हैं।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

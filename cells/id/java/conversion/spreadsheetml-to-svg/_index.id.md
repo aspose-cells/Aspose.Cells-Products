@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan SPREADSHEETML ke SVG melalui Java 
-url: /id/java/conversion/spreadsheetml-to-svg/ 
+
 description: Contoh Java kode konversi untuk format SPREADSHEETML ke file SVG. Pemrogram dapat menggunakan kode contoh ini untuk mengekspor spreadsheet Excel & OpenOffice ke SVG dalam Aplikasi berbasis Web atau Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

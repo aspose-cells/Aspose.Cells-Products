@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera SXC till FODS via Python
-url: /sv/python-java/conversion/sxc-to-fods/
+
 description: Exempelkod för konvertering från sxc till fods Python. Använd API-exempelkod för batch-sxc-filer för att ge konvertering inom Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

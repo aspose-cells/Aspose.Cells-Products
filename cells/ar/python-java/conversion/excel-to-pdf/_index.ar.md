@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل EXCEL إلى PDF عبر Python
-url: /ar/python-java/conversion/excel-to-pdf/
+
 description: نموذج رمز للتحويل من Excel إلى pdf Python. استخدم API رمز المثال لملفات Excel الدفعية لتحويل pdf داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

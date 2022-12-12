@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLT konvertálása DIF-re a következőn keresztül: C#"
-url: /hu/net/conversion/xlt-to-dif/
+
 description: Mintakód az xlt–diff C# konverzióhoz. Használjon API példakódot kötegelt xlt fájlokhoz a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belüli konvertáláshoz.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

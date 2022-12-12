@@ -1,6 +1,6 @@
-﻿---
+---
 title: CSV-bestanden maken via Python 
-url: /nl/python-java/create-csv/ 
+
 description: Python Voorbeeldcode voor het genereren van CSV-documenten. Gebruik deze code voor het maken van CSV-bestanden binnen Python applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介して3D折れ線グラフを作成する
-url: /ja/net/create-line3d-chart/
+
 description: C#.NETライブラリを使用してExcelに3D折れ線グラフを作成するためのサンプルコード。このコードを使用して、VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でMSExcelへの3Dラインチャートを作成します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

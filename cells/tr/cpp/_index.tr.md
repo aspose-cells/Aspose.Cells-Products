@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ Excel Elektronik Tablo Programlama API - Aspose 
 weight: 7140
-url: /tr/cpp/ 
+
 description: C++ XLS, XLSX, XLSM ve XLSB biçimleri dahil olmak üzere dosyaları okumak ve ayrıştırmak için Excel kitaplığı. Elektronik tabloları PDF, CSV ve daha fazla formata dönüştürün
 ---
 {{< blocks/products/pf/main-wrap-class >}}

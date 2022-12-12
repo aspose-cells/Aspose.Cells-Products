@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to XPS via Java 
-url: /java/conversion/csv-to-xps/
+
 description: Convert CSV to XPS format in Java code. Save CSV as XPS using Java.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 C# 将 SPREADSHEETML 转换为 EMF
-url: /zh/net/conversion/spreadsheetml-to-emf/
+
 description: 电子表格到 emf C# 转换的示例代码。在 VB.NET、Asp.NET 或任何基于 .NET 的应用程序中使用 API 示例代码将批处理电子表格文件转换为 emf。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

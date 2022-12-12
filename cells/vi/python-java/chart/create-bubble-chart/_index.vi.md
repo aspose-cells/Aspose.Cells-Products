@@ -1,6 +1,6 @@
-﻿---
+---
 title: Tạo Biểu đồ bong bóng qua Python
-url: /vi/python-java/create-bubble-chart/
+
 description: Python Mã mẫu để tạo biểu đồ Bong bóng sang Excel bằng Python Thư viện. Sử dụng mã này để tạo biểu đồ Bong bóng cho MS Excel trong ứng dụng dựa trên Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

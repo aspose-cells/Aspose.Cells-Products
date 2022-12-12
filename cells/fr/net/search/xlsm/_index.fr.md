@@ -1,7 +1,7 @@
-﻿---
+---
 title: Rechercher un document XLSM sans ouvrir via .NET 
 weight: 4880
-url: /fr/net/search/xlsm/ 
+
 description: Code source C# pour rechercher des mots avec un modèle dans le fichier XLSM sur .NET Framework, .NET Core, Mono ou Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

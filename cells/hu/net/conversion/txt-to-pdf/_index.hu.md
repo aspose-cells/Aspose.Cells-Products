@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TXT konvertálása PDF-be a következőn keresztül: C#"
-url: /hu/net/conversion/txt-to-pdf/
+
 description: Mintakód a txt-ből pdf-be C# konvertáláshoz. Használjon API példakódot a kötegelt txt fájlok PDF formátumba konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazásban.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

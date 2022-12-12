@@ -1,7 +1,7 @@
-﻿---
+---
 title: Tambahkan Anotasi XLSB File Excel melalui C++ 
 weight: 860
-url: /id/cpp/annotation/xlsb/ 
+
 description: C++ contoh kode untuk menghapus anotasi format XLSB pada C++ Runtime Environment untuk Windows 32 bit, Windows 64 bit, dan Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

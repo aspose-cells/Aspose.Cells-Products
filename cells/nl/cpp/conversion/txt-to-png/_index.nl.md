@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer TXT naar PNG via C++ applicatie 
-url: /nl/cpp/conversion/txt-to-png/ 
+
 description: Voorbeeld C++-conversiecode voor TXT-document naar PNG-indeling. Programmeurs kunnen deze broncode gebruiken voor batchconversie van TXT naar PNG binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

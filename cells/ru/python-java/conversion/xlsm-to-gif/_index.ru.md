@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLSM в GIF через Python
-url: /ru/python-java/conversion/xlsm-to-gif/
+
 description: Пример кода для преобразования xlsm в gif Python. Используйте пример кода API для пакетного преобразования файлов xlsm в gif в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してMSExcelXLSBファイルを作成する 
-url: /ja/net/create-xlsb/ 
+
 description: C#XLSBドキュメントを生成するためのサンプルコード。このコードを使用して、VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内にMSExcelXLSBファイルを作成します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

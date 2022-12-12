@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to ODS via Python
-url: /python-net/conversion/numbers-to-ods/
+
 description: Sample code for numbers to ods Python conversion. Use API example code for batch numbers files to ods conversion within Python application.
 ---
 

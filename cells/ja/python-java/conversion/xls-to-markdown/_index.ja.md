@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してXLSをMARKDOWNに変換します
-url: /ja/python-java/conversion/xls-to-markdown/
+
 description: xlsからマークダウンPythonへの変換のサンプルコード。バッチxlsファイルのAPIサンプルコードを使用して、Pythonアプリケーション内で変換をマークダウンします。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

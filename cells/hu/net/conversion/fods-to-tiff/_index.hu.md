@@ -1,6 +1,6 @@
-﻿---
+---
 title: "FODS konvertálása TIFF-re a következőn keresztül: C#"
-url: /hu/net/conversion/fods-to-tiff/
+
 description: Mintakód a fods to tiff C# konverzióhoz. Használjon API példakódot kötegelt fods fájlokhoz a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazás tiff konverziójához.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

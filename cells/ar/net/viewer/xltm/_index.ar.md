@@ -1,7 +1,7 @@
-﻿---
+---
 title: عرض تنسيقات ملفات XLTM عبر .NET 
 weight: 430
-url: /ar/net/viewer/xltm/ 
+
 description: C# شفرة المصدر لتحميل مستندات XLTM وعرضها وعرضها على الأنظمة الأساسية .NET Framework أو .NET Core أو Mono أو Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

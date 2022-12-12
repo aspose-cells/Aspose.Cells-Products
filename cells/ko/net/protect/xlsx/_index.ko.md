@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET을(를) 통해 XLSX 문서 보호 및 잠금 
 weight: 90
-url: /ko/net/protect/xlsx/ 
+
 description: C# 소스 코드는 .NET Framework, .NET Core, Mono 또는 Xamarin Platforms에서 비밀번호를 사용하여 XLSX 파일을 잠급니다.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

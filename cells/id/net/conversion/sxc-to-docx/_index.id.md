@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan SXC ke DOCX melalui C#
-url: /id/net/conversion/sxc-to-docx/
+
 description: Contoh kode untuk konversi sxc ke docx C#. Gunakan API kode contoh untuk file batch sxc ke konversi docx dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Диаграмма документа ODS через Java 
 weight: 2240
-url: /ru/java/chart/ods/ 
+
 description: Java пример кода для рисования и преобразования диаграммы или диаграммы в файле ODS в Java среде выполнения для приложений JSP/JSF и настольных приложений.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

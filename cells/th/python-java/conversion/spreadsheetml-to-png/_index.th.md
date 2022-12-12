@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง SPREADSHEETML เป็น PNG ผ่าน Python
-url: /th/python-java/conversion/spreadsheetml-to-png/
+
 description: โค้ดตัวอย่างสำหรับการแปลงสเปรดชีตml เป็น png Python ใช้โค้ดตัวอย่าง API สำหรับไฟล์สเปรดชีตแบบแบตช์เป็นการแปลง png ภายในแอปพลิเคชัน Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

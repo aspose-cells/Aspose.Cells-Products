@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversikan XLSX ke PDF melalui Java 
 weight: 3200
-url: /id/java/conversion/xlsx-to-pdf/ 
+
 description: Contoh Java kode konversi untuk format XLSX ke file PDF. Pemrogram dapat menggunakan kode contoh ini untuk mengekspor spreadsheet Excel & OpenOffice ke PDF dalam Aplikasi berbasis Web atau Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

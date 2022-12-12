@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLSX na PPTX přes C#
-url: /cs/net/conversion/xlsx-to-pptx/
+
 description: Ukázkový kód pro převod xlsx na pptx C#. Použijte API ukázkový kód pro dávkový převod souborů xlsx na pptx v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

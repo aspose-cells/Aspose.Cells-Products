@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل NUMBERS إلى TSV عبر C#
-url: /ar/net/conversion/numbers-to-tsv/
+
 description: نموذج كود لتحويل الأرقام إلى tsv C#. استخدم API رمز المثال لملفات أرقام الدُفعات لتحويل tsv داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

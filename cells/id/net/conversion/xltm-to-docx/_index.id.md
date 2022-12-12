@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan XLTM ke DOCX melalui C#
-url: /id/net/conversion/xltm-to-docx/
+
 description: Contoh kode untuk konversi xltm ke docx C#. Gunakan API kode contoh untuk file batch xltm ke konversi docx dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to XML via Java 
-url: /java/conversion/txt-to-xml/
+
 description: Convert TXT to XML format in Java code. Save TXT as XML using Java.
 ---
 

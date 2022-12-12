@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してNUMBERSをFODSに変換します
-url: /ja/net/conversion/numbers-to-fods/
+
 description: 数値からfodsC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチ番号ファイルからfodへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

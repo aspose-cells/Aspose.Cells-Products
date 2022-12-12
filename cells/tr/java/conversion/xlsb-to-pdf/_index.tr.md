@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLSB'yi Java aracılığıyla PDF'ye dönüştürün 
 weight: 4270
-url: /tr/java/conversion/xlsb-to-pdf/ 
+
 description: XLSB formatının PDF dosyasına örnek Java dönüştürme kodu. Programcılar, Excel ve OpenOffice elektronik tablolarını herhangi bir Web veya Masaüstü Java tabanlı Uygulamada PDF'ye dışa aktarmak için bu örnek kodu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

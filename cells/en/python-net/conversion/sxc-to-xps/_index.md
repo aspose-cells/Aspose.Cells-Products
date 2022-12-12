@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to XPS via Python
-url: /python-net/conversion/sxc-to-xps/
+
 description: Sample code for sxc to xps Python conversion. Use API example code for batch sxc files to xps conversion within Python application.
 ---
 

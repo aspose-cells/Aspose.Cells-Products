@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer TXT naar MARKDOWN via Python
-url: /nl/python-java/conversion/txt-to-markdown/
+
 description: Voorbeeldcode voor conversie van txt naar markdown Python. Gebruik API voorbeeldcode voor batch-txt-bestanden om conversie te verlagen binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

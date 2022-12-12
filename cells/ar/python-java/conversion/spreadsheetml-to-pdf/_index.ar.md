@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل SPREADSHEETML إلى PDF عبر Python
-url: /ar/python-java/conversion/spreadsheetml-to-pdf/
+
 description: نموذج كود لتحويل جدول البيانات إلى pdf Python. استخدم API رمز المثال لملفات جداول البيانات الدفعية لتحويل pdf داخل التطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

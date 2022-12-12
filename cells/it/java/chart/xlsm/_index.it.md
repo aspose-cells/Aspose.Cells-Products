@@ -1,7 +1,7 @@
-﻿---
+---
 title: Grafico del documento XLSM tramite Java 
 weight: 3020
-url: /it/java/chart/xlsm/ 
+
 description: Java codice di esempio per disegnare e convertire grafici o diagrammi in file XLSM su Java Runtime Environment per applicazioni JSP/JSF e applicazioni desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

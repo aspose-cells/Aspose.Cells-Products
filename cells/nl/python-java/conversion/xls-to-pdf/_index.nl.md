@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLS naar PDF via Python
-url: /nl/python-java/conversion/xls-to-pdf/
+
 description: Voorbeeldcode voor conversie van xls naar pdf Python. Gebruik API voorbeeldcode voor batch-xls-bestanden naar pdf-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

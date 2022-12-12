@@ -1,7 +1,7 @@
-﻿---
+---
 title: Durchsuchen Sie das XLS-Dokument, ohne es über C++ zu öffnen 
 weight: 4560
-url: /de/cpp/search/xls/ 
+
 description: C++ Beispielcode zum Suchen von Wörtern mit Muster in XLS-Datei in C++ Runtime Environment für Windows 32 Bit, Windows 64 Bit und Linux 64 Bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

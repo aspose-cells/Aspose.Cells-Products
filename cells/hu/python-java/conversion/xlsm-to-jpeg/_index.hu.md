@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLSM konvertálása JPEG formátumba a következőn keresztül: Python"
-url: /hu/python-java/conversion/xlsm-to-jpeg/
+
 description: Mintakód az xlsm-ből jpeg-be Python konvertáláshoz. Használjon API példakódot a kötegelt xlsm fájlok jpeg konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

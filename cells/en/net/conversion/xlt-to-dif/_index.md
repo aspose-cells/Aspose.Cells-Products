@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to DIF via C#
-url: /net/conversion/xlt-to-dif/
+
 description: Convert XLT to DIF format in C# code. Save XLT as DIF using VB.NET, Asp.NET or any .NET based application.
 ---
 

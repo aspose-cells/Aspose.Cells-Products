@@ -1,6 +1,6 @@
-﻿---
+---
 title: NUMBERS'ı Python aracılığıyla MHTML'ye dönüştürün
-url: /tr/python-java/conversion/numbers-to-mhtml/
+
 description: Sayıların mhtml Python dönüşümüne ilişkin örnek kod. Python uygulamasında toplu iş numarası dosyalarını mhtml'ye dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

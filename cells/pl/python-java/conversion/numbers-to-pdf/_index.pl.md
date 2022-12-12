@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj NUMBERS na PDF przez Python
-url: /pl/python-java/conversion/numbers-to-pdf/
+
 description: Przykładowy kod konwersji liczb do formatu PDF Python. Użyj przykładowego kodu API dla plików z numerami partii do konwersji pdf w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

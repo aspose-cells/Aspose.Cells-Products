@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to TIFF via Java 
-url: /java/conversion/numbers-to-tiff/
+
 description: Convert NUMBERS to TIFF format in Java code. Save NUMBERS as TIFF using Java.
 ---
 

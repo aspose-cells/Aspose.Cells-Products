@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte TABDELIMITED na XLTX pomocí aplikace C++ 
-url: /cs/cpp/conversion/tabdelimited-to-xltx/ 
+
 description: Ukázkový konverzní kód C++ pro dokument TABDELIMITED do formátu XLTX. Programátoři mohou použít tento zdrojový kód pro dávkovou konverzi TABDELIMITED na XLTX v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

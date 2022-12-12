@@ -1,6 +1,6 @@
-﻿---
+---
 title: Wandeln Sie FODS über Python in MARKDOWN um
-url: /de/python-java/conversion/fods-to-markdown/
+
 description: Beispielcode für die Conversion „fods to markdown Python“. Verwenden Sie API Beispielcode für Batch-FODs-Dateien zur Markdown-Konvertierung innerhalb der Anwendung Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

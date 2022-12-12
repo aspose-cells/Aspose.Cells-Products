@@ -1,7 +1,7 @@
-﻿---
+---
 title: ดูรูปแบบไฟล์ XLSM ผ่าน .NET 
 weight: 9980
-url: /th/net/viewer/xlsm/ 
+
 description: C# ซอร์สโค้ดสำหรับการโหลด แสดงผล และแสดงเอกสาร XLSM บน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

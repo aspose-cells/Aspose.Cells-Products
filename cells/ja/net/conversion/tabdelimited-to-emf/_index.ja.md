@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してTABDELIMITEDをEMFに変換します
-url: /ja/net/conversion/tabdelimited-to-emf/
+
 description: tabdelimitedからemfC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内で変換をemfするために、バッチタブ区切りファイルのAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

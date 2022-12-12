@@ -1,7 +1,7 @@
-﻿---
+---
 title: Bescherm en vergrendel ODS-document via Java 
 weight: 6360
-url: /nl/java/protect/ods/ 
+
 description: Java voorbeeldcode om ODS-bestand te vergrendelen met wachtwoord in Java Runtime-omgeving voor JSP/JSF-applicaties en desktopapplicaties.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

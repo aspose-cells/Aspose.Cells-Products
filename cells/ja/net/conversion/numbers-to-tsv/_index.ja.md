@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してNUMBERSをTSVに変換します
-url: /ja/net/conversion/numbers-to-tsv/
+
 description: 数値からtsvC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチ番号ファイルからtsvへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

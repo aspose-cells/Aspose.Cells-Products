@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést SXC na DOCX přes Python
-url: /cs/python-java/conversion/sxc-to-docx/
+
 description: Ukázkový kód pro převod sxc na docx Python. Použijte API ukázkový kód pro dávkový převod souborů sxc na docx v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

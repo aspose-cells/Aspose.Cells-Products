@@ -1,7 +1,7 @@
-﻿---
+---
 title: Trích xuất văn bản và hình ảnh từ tài liệu XLSM qua .NET 
 weight: 4010
-url: /vi/net/parser/xlsm/ 
+
 description: C# mã nguồn để trích xuất văn bản và hình ảnh từ tệp XLSM trên Nền tảng .NET Framework, .NET Core Mono hoặc Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

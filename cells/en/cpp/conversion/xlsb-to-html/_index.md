@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to HTML via C++
-url: /cpp/conversion/xlsb-to-html/
+
 description: Convert XLSB to HTML format in C++ code. Save XLSB as HTML using C++.
 ---
 

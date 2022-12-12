@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera NUMBERS till FODS via C#
-url: /sv/net/conversion/numbers-to-fods/
+
 description: Exempelkod för siffror till fods C#-konvertering. Använd API exempelkod för batchnummerfiler för att ge konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

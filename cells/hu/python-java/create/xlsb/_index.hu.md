@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Hozzon létre MS Excel XLSB fájlokat a következőn keresztül: Python "
-url: /hu/python-java/create-xlsb/ 
+
 description: Python Mintakód XLSB dokumentumok generálásához. Ezzel a kóddal hozhat létre MS Excel XLSB fájlokat a(z) Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

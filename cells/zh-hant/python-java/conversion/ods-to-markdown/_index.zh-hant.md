@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 Python 將 ODS 轉換為 MARKDOWN
-url: /zh-hant/python-java/conversion/ods-to-markdown/
+
 description: ods 到 markdown Python 轉換的示例代碼。使用批量 ods 文件的 API 示例代碼在 Python 應用程序中進行降價轉換。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

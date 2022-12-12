@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 Python 將 TABDELIMITED 轉換為 XLSX
-url: /zh-hant/python-java/conversion/tabdelimited-to-xlsx/
+
 description: tabdelimited 到 xlsx Python 轉換的示例代碼。在 Python 應用程序中使用 API 示例代碼將製表符分隔的文件批量轉換為 xlsx。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

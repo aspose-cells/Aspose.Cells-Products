@@ -1,6 +1,6 @@
-﻿---
+---
 title: XLSM Dosyalarını C++ ile Birleştir 
-url: /tr/cpp/merger/xlsm/ 
+
 description: C++ Windows 32 bit, Windows 64 bit ve Linux 64 bit için C++ Runtime Environment'da XLSM belgelerini birleştirmek için örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

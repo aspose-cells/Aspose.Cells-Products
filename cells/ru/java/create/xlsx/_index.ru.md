@@ -1,6 +1,6 @@
-﻿---
+---
 title: Создание файлов MS Excel XLSX с помощью Java 
-url: /ru/java/create-xlsx/ 
+
 description: Java Пример кода для создания документов XLSX. Используйте этот код для создания файлов MS Excel XLSX в настольном или веб-приложении на базе Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

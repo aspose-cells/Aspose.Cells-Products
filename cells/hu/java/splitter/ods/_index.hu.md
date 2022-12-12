@@ -1,7 +1,7 @@
-﻿---
+---
 title: "ODS-fájlok felosztása a következőn keresztül: Java "
 weight: 1950
-url: /hu/java/splitter/ods/ 
+
 description: Java mintakód az ODS dokumentumok felosztásához a Java Futókörnyezetben JSP/JSF alkalmazásokhoz és asztali alkalmazásokhoz.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

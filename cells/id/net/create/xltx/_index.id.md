@@ -1,6 +1,6 @@
-﻿---
+---
 title: Buat File MS Excel XLTX melalui C# 
-url: /id/net/create-xltx/ 
+
 description: C# Contoh kode untuk membuat dokumen XLTX. Gunakan kode ini untuk membuat file MS Excel XLTX dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

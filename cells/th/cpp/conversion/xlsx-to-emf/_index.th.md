@@ -1,7 +1,7 @@
-﻿---
+---
 title: แปลง XLSX เป็น EMF ผ่าน C++ แอปพลิเคชัน 
 weight: 8040
-url: /th/cpp/conversion/xlsx-to-emf/ 
+
 description: ตัวอย่างรหัสการแปลง C++ สำหรับเอกสาร XLSX เป็นรูปแบบ EMF โปรแกรมเมอร์สามารถใช้ซอร์สโค้ดนี้สำหรับการแปลง XLSX เป็น EMF แบบแบตช์ภายในแอปพลิเคชัน C++ ใดๆ
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

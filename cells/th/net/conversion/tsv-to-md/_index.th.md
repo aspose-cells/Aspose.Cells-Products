@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง TSV เป็น MD ผ่าน C#
-url: /th/net/conversion/tsv-to-md/
+
 description: โค้ดตัวอย่างสำหรับการแปลง tsv เป็น md C# ใช้รหัสตัวอย่าง API สำหรับไฟล์แบตช์ tsv เป็นการแปลง md ภายใน VB.NET, Asp.NET หรือแอปพลิเคชันที่ใช้ .NET
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

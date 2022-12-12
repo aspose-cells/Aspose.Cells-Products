@@ -1,7 +1,7 @@
-﻿---
+---
 title: TSV को C# के माध्यम से बाइट सरणी में बदलें 
 weight: 7690
-url: /hi/net/conversion/tsv-to-byte-array/ 
+
 description: C# TSV से बाइट सरणी रूपांतरण के लिए नमूना कोड। VB.NET, Asp.NET या किसी .NET आधारित एप्लिकेशन के भीतर Excel TSV से बाइट सरणी रूपांतरण के लिए इस कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

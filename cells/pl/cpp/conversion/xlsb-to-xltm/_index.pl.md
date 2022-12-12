@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konwertuj XLSB na XLTM za pomocą aplikacji C++ 
 weight: 8080
-url: /pl/cpp/conversion/xlsb-to-xltm/ 
+
 description: Przykładowy kod konwersji C++ dla dokumentu XLSB do formatu XLTM. Programiści mogą używać tego kodu źródłowego do wsadowej konwersji XLSB na XLTM w dowolnej aplikacji C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLSM konvertálása TIFF-re a következőn keresztül: Java "
 weight: 3950
-url: /hu/java/conversion/xlsm-to-tiff/ 
+
 description: Minta Java konverziós kód XLSM formátumhoz TIFF fájlba. A programozók ezt a példakódot használhatják Excel és OpenOffice táblázatok TIFF formátumba exportálására bármely web- vagy asztali Java alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

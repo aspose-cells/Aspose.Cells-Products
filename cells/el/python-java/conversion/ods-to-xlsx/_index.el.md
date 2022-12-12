@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή ODS σε XLSX μέσω Python
-url: /el/python-java/conversion/ods-to-xlsx/
+
 description: Δείγμα κώδικα για μετατροπή ods σε xlsx Python. Χρησιμοποιήστε API παράδειγμα κώδικα για μετατροπή ομαδικών αρχείων σε xlsx εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

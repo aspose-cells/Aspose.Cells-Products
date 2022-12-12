@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer SPREADSHEETML naar DOCX via C#
-url: /nl/net/conversion/spreadsheetml-to-docx/
+
 description: Voorbeeldcode voor conversie van spreadsheetml naar docx C#. Gebruik API voorbeeldcode voor batch-spreadsheetml-bestanden naar docx-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

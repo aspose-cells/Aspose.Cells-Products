@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή TABDELIMITED σε CSV μέσω Python
-url: /el/python-java/conversion/tabdelimited-to-csv/
+
 description: Δείγμα κώδικα για μετατροπή οριοθετημένης καρτέλας σε csv Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία οριοθετημένα από τηλοθέτες σε μετατροπή csv εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

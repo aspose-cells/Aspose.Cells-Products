@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera TABDELIMITED till PNG via Java 
-url: /sv/java/conversion/tabdelimited-to-png/ 
+
 description: Exempel på konverteringskod för Java för TABDELIMITED-format till PNG-fil. Programmerare kan använda den här exempelkoden för att exportera Excel- och OpenOffice-kalkylblad till PNG inom alla webb- eller skrivbordsbaserade Java-applikationer.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

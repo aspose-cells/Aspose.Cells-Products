@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi HTML sang XLTM qua C#
-url: /vi/net/conversion/html-to-xltm/
+
 description: Mã mẫu cho chuyển đổi html sang xltm C#. Sử dụng API mã ví dụ cho hàng loạt tệp html sang chuyển đổi xltm trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

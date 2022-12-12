@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést SPREADSHEETML na JSON prostřednictvím Java 
-url: /cs/java/conversion/spreadsheetml-to-json/ 
+
 description: Ukázkový konverzní kód Java pro formát SPREADSHEETML na soubor JSON. Programátoři mohou tento příklad kódu použít k exportu tabulek Excelu a OpenOffice do formátu JSON v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

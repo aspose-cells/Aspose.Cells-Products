@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLTM в JSON через Python
-url: /ru/python-java/conversion/xltm-to-json/
+
 description: Пример кода для преобразования xltm в json Python. Используйте пример кода API для пакетного преобразования файлов xltm в json в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

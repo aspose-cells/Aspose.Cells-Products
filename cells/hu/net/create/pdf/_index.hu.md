@@ -1,6 +1,6 @@
-﻿---
+---
 title: "PDF-fájlok létrehozása a következőn keresztül: C# "
-url: /hu/net/create-pdf/ 
+
 description: C# Mintakód PDF dokumentumok generálásához. Használja ezt a kódot PDF-fájlok létrehozásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazásban.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

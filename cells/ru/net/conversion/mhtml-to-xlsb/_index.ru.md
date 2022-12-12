@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование MHTML в XLSB через C#
-url: /ru/net/conversion/mhtml-to-xlsb/
+
 description: Пример кода для преобразования mhtml в xlsb C#. Используйте пример кода API для пакетного преобразования файлов mhtml в xlsb в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

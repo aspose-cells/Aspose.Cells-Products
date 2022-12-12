@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET के माध्यम से खोले बिना XLSM दस्तावेज़ खोजें 
 weight: 4880
-url: /hi/net/search/xlsm/ 
+
 description: .NET Framework, .NET Core, Mono या Xamarin Platforms पर XLSM फ़ाइल में पैटर्न वाले शब्दों को खोजने के लिए C# स्रोत कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta SPREADSHEETML a EMF a través de Python
-url: /es/python-java/conversion/spreadsheetml-to-emf/
+
 description: Código de ejemplo para la conversión de hoja de cálculo ml a fem Python. Use el código de ejemplo API para archivos de hoja de cálculo ml por lotes para la conversión emf dentro de la aplicación Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

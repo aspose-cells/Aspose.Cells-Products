@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan SPREADSHEETML ke JPEG melalui Java 
-url: /id/java/conversion/spreadsheetml-to-jpeg/ 
+
 description: Contoh Java kode konversi untuk format SPREADSHEETML ke file JPEG. Pemrogram dapat menggunakan kode contoh ini untuk mengekspor spreadsheet Excel & OpenOffice ke JPEG dalam Aplikasi berbasis Web atau Desktop Java apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

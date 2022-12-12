@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversi XLTX ke JPEG melalui Java 
 weight: 9380
-url: /id/java/conversion/xltx-to-jpeg/ 
+
 description: Contoh Java kode konversi untuk format XLTX ke file JPEG. Pemrogram dapat menggunakan kode contoh ini untuk mengekspor spreadsheet Excel & OpenOffice ke JPEG dalam Aplikasi berbasis Web atau Desktop Java apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

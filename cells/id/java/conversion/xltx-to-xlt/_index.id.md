@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversikan XLTX ke XLT melalui Java 
 weight: 2650
-url: /id/java/conversion/xltx-to-xlt/ 
+
 description: Contoh Java kode konversi untuk format XLTX ke file XLT. Pemrogram dapat menggunakan kode contoh ini untuk mengekspor spreadsheet Excel & OpenOffice ke XLT dalam Aplikasi berbasis Web atau Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to PNG via C++
-url: /cpp/conversion/html-to-png/
+
 description: Convert HTML to PNG format in C++ code. Save HTML as PNG using C++.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta SPREADSHEETML a HTML a través de C#
-url: /es/net/conversion/spreadsheetml-to-html/
+
 description: Código de muestra para la conversión de hoja de cálculo a html C#. Utilice el código de ejemplo API para la conversión de archivos de hojas de cálculo por lotes en html dentro de VB.NET, Asp.NET o cualquier aplicación basada en .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

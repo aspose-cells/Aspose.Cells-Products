@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to PNG via Python
-url: /python-net/conversion/fods-to-png/
+
 description: Sample code for fods to png Python conversion. Use API example code for batch fods files to png conversion within Python application.
 ---
 

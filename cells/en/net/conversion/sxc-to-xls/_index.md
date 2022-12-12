@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to XLS via C#
-url: /net/conversion/sxc-to-xls/
+
 description: Convert SXC to XLS format in C# code. Save SXC as XLS using VB.NET, Asp.NET or any .NET based application.
 ---
 

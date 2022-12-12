@@ -1,6 +1,6 @@
-﻿---
+---
 title: Δημιουργία αρχείων MS Excel XLSB μέσω Java 
-url: /el/java/create-xlsb/ 
+
 description: Java Δείγμα κώδικα για τη δημιουργία εγγράφων XLSB. Χρησιμοποιήστε αυτόν τον κώδικα για τη δημιουργία αρχείων MS Excel XLSB μέσα σε Java επιτραπέζιους υπολογιστές ή εφαρμογές ιστού.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

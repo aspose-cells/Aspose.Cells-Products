@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla TABDELIMITED'i GIF'e dönüştürün
-url: /tr/net/conversion/tabdelimited-to-gif/
+
 description: Tabdelimited to gif C# dönüşümü için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde gif dönüşümüne yönelik toplu sekmeyle ayrılmış dosyalar için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

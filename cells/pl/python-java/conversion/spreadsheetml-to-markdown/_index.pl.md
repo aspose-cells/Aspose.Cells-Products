@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj SPREADSHEETML na MARKDOWN za pomocą Python
-url: /pl/python-java/conversion/spreadsheetml-to-markdown/
+
 description: Przykładowy kod dla konwersji arkusza kalkulacyjnego ml do przeceny Python. Użyj przykładowego kodu API dla wsadowych plików arkusza kalkulacyjnego w celu konwersji przecen w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

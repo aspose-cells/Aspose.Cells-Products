@@ -1,7 +1,7 @@
-﻿---
+---
 title: Hình mờ tài liệu ODS qua .NET 
 weight: 4190
-url: /vi/net/watermark/ods/ 
+
 description: C# mã nguồn để thêm hoặc xóa hình mờ vào tệp ODS trên Nền tảng .NET Framework, .NET Core Mono hoặc Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

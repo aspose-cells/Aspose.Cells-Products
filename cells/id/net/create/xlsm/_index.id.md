@@ -1,6 +1,6 @@
-﻿---
+---
 title: Buat File MS Excel XLSM melalui C# 
-url: /id/net/create-xlsm/ 
+
 description: C# Contoh kode untuk membuat dokumen XLSM. Gunakan kode ini untuk membuat file MS Excel XLSM dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

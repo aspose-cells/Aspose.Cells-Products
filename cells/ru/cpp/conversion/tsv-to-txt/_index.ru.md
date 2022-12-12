@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование TSV в TXT с помощью приложения C++ 
-url: /ru/cpp/conversion/tsv-to-txt/ 
+
 description: Пример кода преобразования C++ для документа TSV в формат TXT. Программисты могут использовать этот исходный код для пакетного преобразования TSV в TXT в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

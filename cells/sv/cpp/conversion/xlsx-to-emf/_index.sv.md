@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertera XLSX till EMF via applikationen C++ 
 weight: 8040
-url: /sv/cpp/conversion/xlsx-to-emf/ 
+
 description: Exempel på C++-konverteringskod för XLSX-dokument till EMF-format. Programmerare kan använda den här källkoden för batchkonvertering av XLSX till EMF inom alla C++-program.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

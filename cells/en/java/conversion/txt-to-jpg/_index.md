@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to JPG via Java 
-url: /java/conversion/txt-to-jpg/
+
 description: Convert TXT to JPG format in Java code. Save TXT as JPG using Java.
 ---
 

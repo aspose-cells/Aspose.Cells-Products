@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 Python 创建 ODS (Openoffice / Lbreoffice) 文件 
-url: /zh/python-java/create-ods/ 
+
 description: Python 用于生成 ODS 文档的示例代码。使用此代码在 Python 应用程序中创建 ODS (Openoffice / Lbreoffice) 文件。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

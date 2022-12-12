@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera TSV till SVG via C#
-url: /sv/net/conversion/tsv-to-svg/
+
 description: Exempelkod för konvertering från tsv till svg C#. Använd API exempelkod för batch-tsv-filer till svg-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

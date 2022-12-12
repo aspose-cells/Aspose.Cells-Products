@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to BMP via Java 
-url: /java/conversion/tabdelimited-to-bmp/
+
 description: Convert TABDELIMITED to BMP format in Java code. Save TABDELIMITED as BMP using Java.
 ---
 

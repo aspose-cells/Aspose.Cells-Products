@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование SXC в TABDELIMITED через Python
-url: /ru/python-java/conversion/sxc-to-tabdelimited/
+
 description: Пример кода для преобразования sxc в Python с разделителями табуляции. Используйте пример кода API для пакетного преобразования файлов sxc в разделители табуляции в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

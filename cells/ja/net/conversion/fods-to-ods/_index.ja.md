@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してFODSをODSに変換する
-url: /ja/net/conversion/fods-to-ods/
+
 description: fodsからodsC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチfodsファイルからodsへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

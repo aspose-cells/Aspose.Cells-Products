@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLS konvertálása MHTML-re a következőn keresztül: C#"
-url: /hu/net/conversion/xls-to-mhtml/
+
 description: Mintakód az xls–mhtml C# konverzióhoz. Használjon API példakódot kötegelt xls fájlok mhtml konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazásban.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

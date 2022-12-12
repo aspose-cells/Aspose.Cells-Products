@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera TABDELIMITED till TIFF via Python
-url: /sv/python-java/conversion/tabdelimited-to-tiff/
+
 description: Exempelkod för tabbavgränsad till tiff Python-omvandling. Använd API exempelkod för batch-tabbavgränsade filer till tiff-konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan FODS ke MD melalui C#
-url: /id/net/conversion/fods-to-md/
+
 description: Contoh kode untuk konversi fods ke md C#. Gunakan API kode contoh untuk file batch fods ke konversi md dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

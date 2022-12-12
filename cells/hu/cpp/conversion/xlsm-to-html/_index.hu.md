@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLSM-et HTML-re a(z) C++ alkalmazással 
-url: /hu/cpp/conversion/xlsm-to-html/ 
+
 description: Minta C++ konverziós kód XLSM dokumentumhoz HTML formátumba. A programozók ezt a forráskódot használhatják kötegelt XLSM-HTML-konverzióhoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

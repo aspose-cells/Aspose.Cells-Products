@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Hozzon létre MS Excel XLTM fájlokat a következőn keresztül: Python "
-url: /hu/python-java/create-xltm/ 
+
 description: Python Mintakód XLTM dokumentumok generálásához. Ezzel a kóddal hozhat létre MS Excel XLTM fájlokat a(z) Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

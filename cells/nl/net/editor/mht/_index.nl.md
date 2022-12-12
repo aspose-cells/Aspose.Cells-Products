@@ -1,6 +1,6 @@
-﻿---
+---
 title: MHT-bestanden bewerken via .NET 
-url: /nl/net/editor/mht/ 
+
 description: C# broncode om het MHT-document te bewerken op .NET Framework, .NET Core, Windows Azure, Mono of Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

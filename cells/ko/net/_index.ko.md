@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET 엑셀 API | .NET Core를 통해 스프레드시트 형식 처리 
 weight: 2030
-url: /ko/net/ 
+
 description: Microsoft Excel 문서 작업을 위한 C# ASP.NET VB.NET 라이브러리. 읽기 쓰기 저장을 만들고 스프레드시트 파일을 인쇄합니다. PDF 또는 더 많은 형식으로 변환
 ---
 {{< blocks/products/pf/main-wrap-class >}}

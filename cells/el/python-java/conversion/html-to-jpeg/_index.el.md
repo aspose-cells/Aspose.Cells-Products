@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή HTML σε JPEG μέσω Python
-url: /el/python-java/conversion/html-to-jpeg/
+
 description: Δείγμα κώδικα για μετατροπή html σε jpeg Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία html σε μετατροπή jpeg εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

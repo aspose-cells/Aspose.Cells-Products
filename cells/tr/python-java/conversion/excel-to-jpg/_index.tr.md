@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla EXCEL'i JPG'ye dönüştürün
-url: /tr/python-java/conversion/excel-to-jpg/
+
 description: Excel'den jpg'ye Python dönüştürme için örnek kod. Python uygulamasında toplu excel dosyalarından jpg'ye dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

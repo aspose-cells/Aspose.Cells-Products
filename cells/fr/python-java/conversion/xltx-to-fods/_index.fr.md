@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir XLTX en FODS via Python
-url: /fr/python-java/conversion/xltx-to-fods/
+
 description: Exemple de code pour la conversion de xltx en fods Python. Utilisez l'exemple de code API pour la conversion par lots de fichiers xltx en fods dans l'application Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

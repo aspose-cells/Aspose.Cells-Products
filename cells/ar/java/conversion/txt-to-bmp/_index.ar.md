@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل TXT إلى BMP عبر Java 
 weight: 3530
-url: /ar/java/conversion/txt-to-bmp/ 
+
 description: نموذج Java رمز التحويل لتنسيق TXT إلى ملف BMP. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى BMP داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してFODSをJSONに変換する 
-url: /ja/java/conversion/fods-to-json/ 
+
 description: FODS形式からJSONファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、WebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをJSONにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

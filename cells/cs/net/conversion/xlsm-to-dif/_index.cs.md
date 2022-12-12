@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLSM na DIF přes C#
-url: /cs/net/conversion/xlsm-to-dif/
+
 description: Ukázkový kód pro převod xlsm na dif C#. Použijte API ukázkový kód pro dávkové soubory xlsm pro převod převodu v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

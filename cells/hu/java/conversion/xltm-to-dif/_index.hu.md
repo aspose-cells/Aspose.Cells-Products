@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLTM konvertálása DIF-re a következőn keresztül: Java "
 weight: 6620
-url: /hu/java/conversion/xltm-to-dif/ 
+
 description: Minta Java konverziós kód az XLTM formátumhoz DIF fájllá. A programozók ezt a példakódot használhatják Excel- és OpenOffice-táblázatok exportálására DIF-be bármely web- vagy asztali Java-alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

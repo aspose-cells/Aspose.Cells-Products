@@ -1,6 +1,6 @@
-﻿---
+---
 title: Buat File MS Excel XLSX melalui C# 
-url: /id/net/create-xlsx/ 
+
 description: C# Contoh kode untuk membuat dokumen XLSX. Gunakan kode ini untuk membuat file MS Excel XLSX dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

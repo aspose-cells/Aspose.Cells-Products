@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή NUMBERS σε XLSM μέσω Python
-url: /el/python-java/conversion/numbers-to-xlsm/
+
 description: Δείγμα κώδικα για μετατροπή αριθμών σε xlsm Python. Χρησιμοποιήστε API παράδειγμα κώδικα για αρχεία αριθμών παρτίδας σε μετατροπή xlsm εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

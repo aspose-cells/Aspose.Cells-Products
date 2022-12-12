@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer TXT naar BMP via Python
-url: /nl/python-java/conversion/txt-to-bmp/
+
 description: Voorbeeldcode voor conversie van txt naar bmp Python. Gebruik API voorbeeldcode voor batch txt-bestanden naar bmp-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

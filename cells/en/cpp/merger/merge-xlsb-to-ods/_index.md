@@ -1,6 +1,6 @@
 ---
 title: Merge XLSB to ODS Files via C++ 
-url: /cpp/merger/merge-xlsb-to-ods/ 
+
 description: Merge XLSB to ODS file in C++ code. Combine XLSB to ODS file using C++.
 ---
 

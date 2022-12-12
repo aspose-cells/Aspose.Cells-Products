@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést ODS na PNG prostřednictvím C#
-url: /cs/net/conversion/ods-to-png/
+
 description: Ukázkový kód pro převod z ods na png C#. Použijte API ukázkový kód pro dávkový převod souborů ods na png v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

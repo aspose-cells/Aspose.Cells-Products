@@ -1,6 +1,6 @@
 ---
 title: Merge HTML to XLSX Files via C++ 
-url: /cpp/merger/merge-html-to-xlsx/ 
+
 description: Merge HTML to XLSX file in C++ code. Combine HTML to XLSX file using C++.
 ---
 

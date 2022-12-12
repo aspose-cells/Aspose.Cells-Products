@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer XLTX naar DIF via Java 
 weight: 890
-url: /nl/java/conversion/xltx-to-dif/ 
+
 description: Voorbeeld Java conversiecode voor XLTX-indeling naar DIF-bestand. Programmeurs kunnen deze voorbeeldcode gebruiken om Excel- en OpenOffice-spreadsheets naar DIF te exporteren binnen elke web- of desktoptoepassing Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

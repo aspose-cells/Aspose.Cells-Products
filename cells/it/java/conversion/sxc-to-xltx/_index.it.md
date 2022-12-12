@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converti SXC in XLTX tramite Java 
-url: /it/java/conversion/sxc-to-xltx/ 
+
 description: Esempio di codice di conversione Java per il formato SXC in file XLTX. I programmatori possono utilizzare questo codice di esempio per esportare fogli di calcolo Excel e OpenOffice in XLTX all'interno di qualsiasi applicazione basata su Web o desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

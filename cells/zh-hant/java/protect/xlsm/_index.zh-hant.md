@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通過 Java 保護和鎖定 XLSM 文檔 
 weight: 9620
-url: /zh-hant/java/protect/xlsm/ 
+
 description: Java 在 JSP/JSF 應用程序和桌面應用程序的 Java 運行時環境中使用密碼鎖定 XLSM 文件的示例代碼。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

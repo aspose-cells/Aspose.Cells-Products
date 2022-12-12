@@ -1,7 +1,7 @@
-﻿---
+---
 title: Αναζήτηση εγγράφου CSV χωρίς άνοιγμα μέσω .NET 
 weight: 7510
-url: /el/net/search/csv/ 
+
 description: C# πηγαίος κώδικας για αναζήτηση λέξεων με μοτίβο σε αρχείο CSV σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

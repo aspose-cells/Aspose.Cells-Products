@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera XLTX till MARKDOWN via Python
-url: /sv/python-java/conversion/xltx-to-markdown/
+
 description: Exempelkod för xltx till markdown Python-omvandling. Använd API-exempelkod för batch-xltx-filer för att markera nedkonvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

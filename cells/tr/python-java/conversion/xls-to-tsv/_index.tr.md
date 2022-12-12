@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla XLS'yi TSV'ye dönüştürün
-url: /tr/python-java/conversion/xls-to-tsv/
+
 description: xls'den tsv'ye Python dönüştürme için örnek kod. Python uygulamasında toplu xls dosyalarından tsv'ye dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

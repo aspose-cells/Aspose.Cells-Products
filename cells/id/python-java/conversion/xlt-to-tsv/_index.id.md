@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan XLT ke TSV melalui Python
-url: /id/python-java/conversion/xlt-to-tsv/
+
 description: Contoh kode untuk konversi xlt ke tsv Python. Gunakan API kode contoh untuk file batch xlt ke konversi tsv dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

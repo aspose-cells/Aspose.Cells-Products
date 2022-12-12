@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi XLTM ke ODS melalui C++ aplikasi 
-url: /id/cpp/conversion/xltm-to-ods/ 
+
 description: Contoh C++ kode konversi untuk dokumen XLTM ke format ODS. Pemrogram dapat menggunakan kode sumber ini untuk konversi batch XLTM ke ODS dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

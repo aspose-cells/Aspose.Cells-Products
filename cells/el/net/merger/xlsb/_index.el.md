@@ -1,7 +1,7 @@
-﻿---
+---
 title: Συγχώνευση αρχείων XLSB μέσω .NET 
 weight: 2970
-url: /el/net/merger/xlsb/ 
+
 description: C# πηγαίος κώδικας για συνδυασμό εγγράφων XLSB σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to POWERPOINT via Java 
-url: /java/conversion/excel-to-powerpoint/
+
 description: Convert EXCEL to POWERPOINT format in Java code. Save EXCEL as POWERPOINT using Java.
 ---
 

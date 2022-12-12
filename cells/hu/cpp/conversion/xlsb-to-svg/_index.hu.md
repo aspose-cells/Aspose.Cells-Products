@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertálja az XLSB-t SVG-vé a(z) C++ alkalmazással 
 weight: 4450
-url: /hu/cpp/conversion/xlsb-to-svg/ 
+
 description: Minta C++ konverziós kód XLSB dokumentumhoz SVG formátumba. A programozók ezt a forráskódot használhatják kötegelt XLSB-SVG-konverzióhoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

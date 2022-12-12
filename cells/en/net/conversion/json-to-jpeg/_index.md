@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to JPEG via C#
-url: /net/conversion/json-to-jpeg/
+
 description: Convert JSON to JPEG format in C# code. Save JSON as JPEG using VB.NET, Asp.NET or any .NET based application.
 ---
 

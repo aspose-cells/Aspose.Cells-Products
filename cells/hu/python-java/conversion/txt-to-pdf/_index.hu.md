@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TXT konvertálása PDF-be a következőn keresztül: Python"
-url: /hu/python-java/conversion/txt-to-pdf/
+
 description: Mintakód a txt-ből pdf-be Python konvertáláshoz. Használjon API példakódot a txt fájlok kötegelt PDF formátumba konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

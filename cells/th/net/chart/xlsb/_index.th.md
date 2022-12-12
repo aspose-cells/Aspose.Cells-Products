@@ -1,7 +1,7 @@
-﻿---
+---
 title:  แผนภูมิเอกสาร XLSB เป็นรูปภาพผ่าน .NET 
 weight: 8560
-url: /th/net/chart/xlsb/ 
+
 description: C# ซอร์สโค้ดสำหรับวาดและแปลงแผนภูมิหรือไดอะแกรมในไฟล์ XLSB บน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

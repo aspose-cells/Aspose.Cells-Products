@@ -1,6 +1,6 @@
-﻿---
+---
 title: .NET을(를) 통해 XLSB 파일 수정 
-url: /ko/net/editor/xlsb/ 
+
 description: C# 소스 코드는 .NET Framework, .NET Core, Windows Azure, Mono 또는 Xamarin Platforms에서 XLSB 문서를 편집합니다.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

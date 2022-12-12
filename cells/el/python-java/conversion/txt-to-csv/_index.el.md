@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή TXT σε CSV μέσω Python
-url: /el/python-java/conversion/txt-to-csv/
+
 description: Δείγμα κώδικα για μετατροπή txt σε csv Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία txt σε μετατροπή csv εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

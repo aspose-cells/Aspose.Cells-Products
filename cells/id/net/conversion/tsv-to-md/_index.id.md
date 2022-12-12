@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan TSV ke MD melalui C#
-url: /id/net/conversion/tsv-to-md/
+
 description: Contoh kode untuk konversi tsv ke md C#. Gunakan API kode contoh untuk file batch tsv ke konversi md dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

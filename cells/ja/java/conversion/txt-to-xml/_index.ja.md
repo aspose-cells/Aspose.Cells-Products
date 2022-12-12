@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してTXTをXMLに変換します 
-url: /ja/java/conversion/txt-to-xml/ 
+
 description: TXT形式からXMLファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、任意のWebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをXMLにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

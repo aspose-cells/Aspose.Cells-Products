@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介して開かずにCSVドキュメントを検索する 
 weight: 390
-url: /ja/java/search/csv/ 
+
 description: Java JSP/JSFアプリケーションおよびデスクトップアプリケーションのランタイム環境でCSVファイル内のパターンを持つ単語を検索するためのサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

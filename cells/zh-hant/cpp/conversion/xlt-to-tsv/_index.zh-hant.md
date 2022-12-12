@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 C++ 應用程序將 XLT 轉換為 TSV 
-url: /zh-hant/cpp/conversion/xlt-to-tsv/ 
+
 description: XLT 文檔到 TSV 格式的示例 C++ 轉換代碼。程序員可以使用此源代碼在任何 C++ 應用程序中批量轉換 XLT 到 TSV。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

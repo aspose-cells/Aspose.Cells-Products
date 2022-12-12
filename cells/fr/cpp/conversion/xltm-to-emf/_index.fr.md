@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertissez XLTM en EMF via l'application C++ 
-url: /fr/cpp/conversion/xltm-to-emf/ 
+
 description: Exemple de code de conversion C++ pour le document XLTM au format EMF. Les programmeurs peuvent utiliser ce code source pour la conversion par lots de XLTM en EMF dans n'importe quelle application C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to GIF via C++
-url: /cpp/conversion/txt-to-gif/
+
 description: Convert TXT to GIF format in C++ code. Save TXT as GIF using C++.
 ---
 

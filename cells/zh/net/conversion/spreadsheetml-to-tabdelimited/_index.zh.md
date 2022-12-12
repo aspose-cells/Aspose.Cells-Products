@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 C# 将 SPREADSHEETML 转换为 TABDELIMITED
-url: /zh/net/conversion/spreadsheetml-to-tabdelimited/
+
 description: 电子表格到制表符分隔的 C# 转换的示例代码。在 VB.NET、Asp.NET 或任何基于 .NET 的应用程序中使用 API 批量电子表格文件的示例代码到制表符分隔的转换。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

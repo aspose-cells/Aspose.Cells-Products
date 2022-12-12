@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++アプリケーションを介してHTMLをXPSに変換する 
 weight: 1420
-url: /ja/cpp/conversion/html-to-xps/ 
+
 description: HTMLドキュメントからXPS形式へのサンプルC++変換コード。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でHTMLからXPSへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

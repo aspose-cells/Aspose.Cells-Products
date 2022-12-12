@@ -1,6 +1,6 @@
-﻿---
+---
 title: "HTML konvertálása XLS-re a következőn keresztül: C#"
-url: /hu/net/conversion/html-to-xls/
+
 description: Mintakód a html-ből xls-be C# konverzióhoz. Használjon API példakódot a kötegelt html fájlok xls formátumba konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

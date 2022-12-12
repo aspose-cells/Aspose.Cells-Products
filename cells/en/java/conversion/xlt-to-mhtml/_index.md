@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to MHTML via Java 
-url: /java/conversion/xlt-to-mhtml/
+
 description: Convert XLT to MHTML format in Java code. Save XLT as MHTML using Java.
 ---
 

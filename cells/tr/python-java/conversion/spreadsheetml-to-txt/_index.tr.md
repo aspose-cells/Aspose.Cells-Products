@@ -1,6 +1,6 @@
-﻿---
+---
 title: SPREADSHEETML'yi Python aracılığıyla TXT'ye dönüştürün
-url: /tr/python-java/conversion/spreadsheetml-to-txt/
+
 description: E-tablodan txt'ye Python dönüştürme için örnek kod. Python uygulamasında toplu elektronik tablo ml dosyalarını txt'ye dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversi XLS ke Byte Array melalui C# 
 weight: 7690
-url: /id/net/conversion/xls-to-byte-array/ 
+
 description: C# Contoh kode untuk konversi XLS ke Byte Array. Gunakan kode ini untuk konversi Excel XLS ke Byte Array dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

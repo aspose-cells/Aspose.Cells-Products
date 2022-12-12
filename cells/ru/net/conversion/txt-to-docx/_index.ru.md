@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование TXT в DOCX через C#
-url: /ru/net/conversion/txt-to-docx/
+
 description: Пример кода для преобразования txt в docx C#. Используйте пример кода API для пакетного преобразования файлов txt в docx в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

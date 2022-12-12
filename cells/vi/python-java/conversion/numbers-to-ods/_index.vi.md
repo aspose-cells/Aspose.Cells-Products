@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi NUMBERS thành ODS qua Python
-url: /vi/python-java/conversion/numbers-to-ods/
+
 description: Mã mẫu cho chuyển đổi số thành ods Python. Sử dụng mã mẫu API cho các tệp số lô để chuyển đổi ods trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

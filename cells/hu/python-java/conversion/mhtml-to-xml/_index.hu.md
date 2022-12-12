@@ -1,6 +1,6 @@
-﻿---
+---
 title: "MHTML konvertálása XML-be a következőn keresztül: Python"
-url: /hu/python-java/conversion/mhtml-to-xml/
+
 description: Mintakód az mhtml–xml Python konverzióhoz. Használjon API példakódot az mhtml-fájlok kötegelt XML-re konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

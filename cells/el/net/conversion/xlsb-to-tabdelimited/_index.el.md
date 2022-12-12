@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή XLSB σε TABDELIMITED μέσω C#
-url: /el/net/conversion/xlsb-to-tabdelimited/
+
 description: Δείγμα κώδικα για μετατροπή xlsb σε περιορισμένη καρτέλα C#. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία xlsb σε μετατροπή οριοθετημένης καρτέλας εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

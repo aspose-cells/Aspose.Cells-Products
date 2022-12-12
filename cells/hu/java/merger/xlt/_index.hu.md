@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLT-fájlok egyesítése a következőn keresztül: Java "
 weight: 9960
-url: /hu/java/merger/xlt/ 
+
 description: Java mintakód az XLT-dokumentumok kombinálásához a Java Runtime Environment for JSP/JSF-alkalmazásokhoz és asztali alkalmazásokhoz.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

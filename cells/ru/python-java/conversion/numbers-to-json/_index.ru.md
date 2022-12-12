@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование NUMBERS в JSON через Python
-url: /ru/python-java/conversion/numbers-to-json/
+
 description: Пример кода для преобразования чисел в json Python. Используйте пример кода API для преобразования файлов номеров пакетов в json в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

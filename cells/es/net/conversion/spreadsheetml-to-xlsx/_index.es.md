@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta SPREADSHEETML a XLSX a través de C#
-url: /es/net/conversion/spreadsheetml-to-xlsx/
+
 description: Código de muestra para la conversión de hoja de cálculo a xlsx C#. Utilice el código de ejemplo API para la conversión por lotes de archivos de hoja de cálculo ml a xlsx dentro de VB.NET, Asp.NET o cualquier aplicación basada en .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

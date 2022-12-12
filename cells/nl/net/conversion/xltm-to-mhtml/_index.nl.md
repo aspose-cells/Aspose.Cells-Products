@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLTM naar MHTML via C#
-url: /nl/net/conversion/xltm-to-mhtml/
+
 description: Voorbeeldcode voor xltm naar mhtml C# conversie. Gebruik API voorbeeldcode voor batch xltm-bestanden naar mhtml-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

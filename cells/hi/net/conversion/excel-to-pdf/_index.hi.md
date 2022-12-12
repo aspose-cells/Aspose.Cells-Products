@@ -1,6 +1,6 @@
-﻿---
+---
 title: EXCEL को C# के माध्यम से PDF में बदलें
-url: /hi/net/conversion/excel-to-pdf/
+
 description: एक्सेल से पीडीएफ़ C# रूपांतरण के लिए नमूना कोड। वीबी.NET, एएसपी.NET या किसी भी .NET आधारित एप्लिकेशन के भीतर बैच एक्सेल फाइलों को पीडीएफ में बदलने के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

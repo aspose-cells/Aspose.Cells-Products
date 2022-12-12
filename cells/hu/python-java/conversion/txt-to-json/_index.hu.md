@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TXT konvertálása JSON-ra a következőn keresztül: Python"
-url: /hu/python-java/conversion/txt-to-json/
+
 description: Mintakód a txt-ből json-ba Python konverzióhoz. Használjon API példakódot a kötegelt txt-fájlok JSON-konverziójához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

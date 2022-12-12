@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj XLS na TIFF przez C#
-url: /pl/net/conversion/xls-to-tiff/
+
 description: Przykładowy kod konwersji xls do tiff C#. Użyj przykładowego kodu API dla plików wsadowych xls do konwersji tiff w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

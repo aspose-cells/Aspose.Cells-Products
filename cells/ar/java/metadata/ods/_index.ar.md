@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحرير أو عرض البيانات الوصفية لملفات ODS عبر Java 
 weight: 2080
-url: /ar/java/metadata/ods/ 
+
 description: Java نموذج تعليمة برمجية لتحرير أو عرض البيانات الوصفية لتنسيق ODS في Java Runtime Environment لتطبيق JSP / JSF وتطبيقات سطح المكتب.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

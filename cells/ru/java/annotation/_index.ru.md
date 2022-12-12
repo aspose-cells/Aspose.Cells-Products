@@ -1,6 +1,6 @@
-﻿---
+---
 title: Аннотации файлов Excel через Java
-url: /ru/java/annotation/
+
 description: Добавляйте или удаляйте аннотации к данным электронных таблиц Excel и OpenOffice с библиотекой Java.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

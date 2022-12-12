@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل CSV إلى XLSM عبر C#
-url: /ar/net/conversion/csv-to-xlsm/
+
 description: نموذج رمز لتحويل csv إلى xlsm C#. استخدم API رمز المثال لملفات csv المجمعة لتحويل xlsm داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

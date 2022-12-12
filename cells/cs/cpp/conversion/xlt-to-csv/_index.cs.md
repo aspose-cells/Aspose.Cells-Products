@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte XLT na CSV pomocí aplikace C++ 
-url: /cs/cpp/conversion/xlt-to-csv/ 
+
 description: Ukázka převodního kódu C++ pro dokument XLT na formát CSV. Programátoři mohou použít tento zdrojový kód pro dávkový převod XLT na CSV v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

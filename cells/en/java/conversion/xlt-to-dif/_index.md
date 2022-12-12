@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to DIF via Java 
-url: /java/conversion/xlt-to-dif/
+
 description: Convert XLT to DIF format in Java code. Save XLT as DIF using Java.
 ---
 

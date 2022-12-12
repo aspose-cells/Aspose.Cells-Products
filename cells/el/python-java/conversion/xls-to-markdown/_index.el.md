@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή XLS σε MARKDOWN μέσω Python
-url: /el/python-java/conversion/xls-to-markdown/
+
 description: Δείγμα κώδικα για μετατροπή xls σε σήμανση Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία xls για να σημειώσετε τη μετατροπή εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してHTMLをMARKDOWNに変換します
-url: /ja/python-java/conversion/html-to-markdown/
+
 description: htmlからマークダウンPythonへの変換のサンプルコード。 Pythonアプリケーション内で変換をマークダウンするためのバッチHTMLファイルのAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

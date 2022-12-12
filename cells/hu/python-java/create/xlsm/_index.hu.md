@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Hozzon létre MS Excel XLSM fájlokat a következőn keresztül: Python "
-url: /hu/python-java/create-xlsm/ 
+
 description: Python Mintakód XLSM dokumentumok generálásához. Ezzel a kóddal hozhat létre MS Excel XLSM fájlokat a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

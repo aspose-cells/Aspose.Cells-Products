@@ -1,7 +1,7 @@
-﻿---
+---
 title: Lås upp XLSM-dokument via C++ 
 weight: 6070
-url: /sv/cpp/unlock/xlsm/ 
+
 description: C++ exempelkod för att låsa upp lösenordsskyddad XLSM-fil i C++ Runtime Environment för Windows 32-bitars, Windows 64-bitars och Linux 64-bitars.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

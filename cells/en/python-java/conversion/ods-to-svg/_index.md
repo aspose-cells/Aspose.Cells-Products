@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to SVG via Python
-url: /python-java/conversion/ods-to-svg/
+
 description: Convert ODS to SVG format in Python code. Save ODS as SVG using Python.
 ---
 

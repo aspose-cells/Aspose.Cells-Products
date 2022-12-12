@@ -1,7 +1,7 @@
-﻿---
+---
 title: Desbloquear documento XLSB a través de .NET 
 weight: 6410
-url: /es/net/unlock/xlsb/ 
+
 description: C# código fuente para desbloquear archivos XLSB protegidos con contraseña en .NET Framework, .NET Core, Mono o Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

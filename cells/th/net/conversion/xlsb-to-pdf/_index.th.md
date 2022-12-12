@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง XLSB เป็น PDF ผ่าน C#
-url: /th/net/conversion/xlsb-to-pdf/
+
 description: โค้ดตัวอย่างสำหรับการแปลง xlsb เป็น pdf C# ใช้โค้ดตัวอย่าง API สำหรับไฟล์ batch xlsb เป็นการแปลง pdf ภายใน VB.NET, Asp.NET หรือแอปพลิเคชันที่ใช้ .NET
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

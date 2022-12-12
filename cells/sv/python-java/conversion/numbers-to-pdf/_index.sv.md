@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera NUMBERS till PDF via Python
-url: /sv/python-java/conversion/numbers-to-pdf/
+
 description: Exempelkod för konvertering av siffror till pdf Python. Använd API exempelkod för batchnummerfiler till pdf-konvertering i applikationen Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή JSON σε BMP μέσω εφαρμογής C++ 
-url: /el/cpp/conversion/json-to-bmp/ 
+
 description: Δείγμα κώδικα μετατροπής C++ για έγγραφο JSON σε μορφή BMP. Οι προγραμματιστές μπορούν να χρησιμοποιήσουν αυτόν τον πηγαίο κώδικα για μαζική μετατροπή JSON σε BMP σε οποιαδήποτε εφαρμογή C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

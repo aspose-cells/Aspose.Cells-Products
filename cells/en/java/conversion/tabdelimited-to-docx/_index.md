@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to DOCX via Java 
-url: /java/conversion/tabdelimited-to-docx/
+
 description: Convert TABDELIMITED to DOCX format in Java code. Save TABDELIMITED as DOCX using Java.
 ---
 

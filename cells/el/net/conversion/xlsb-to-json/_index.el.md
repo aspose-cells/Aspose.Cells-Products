@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή XLSB σε JSON μέσω C#
-url: /el/net/conversion/xlsb-to-json/
+
 description: Δείγμα κώδικα για μετατροπή xlsb σε json C#. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία xlsb για μετατροπή json εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

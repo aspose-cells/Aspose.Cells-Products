@@ -1,7 +1,7 @@
-﻿---
+---
 title: ODS Dosya Biçimlerini .NET üzerinden görüntüleyin 
 weight: 130
-url: /tr/net/viewer/ods/ 
+
 description: ODS belgelerini .NET Framework, .NET Core, Mono veya Xamarin Platformlarında yüklemek, oluşturmak ve görüntülemek için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

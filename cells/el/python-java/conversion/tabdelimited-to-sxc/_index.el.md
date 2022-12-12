@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή TABDELIMITED σε SXC μέσω Python
-url: /el/python-java/conversion/tabdelimited-to-sxc/
+
 description: Δείγμα κώδικα για μετατροπή οριοθετημένης καρτέλας σε sxc Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικές μετατροπές οριοθετημένων καρτελών σε sxc εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Tài liệu Watermark XLS qua Java 
 weight: 2210
-url: /vi/java/watermark/xls/ 
+
 description: Java mã mẫu để thêm hoặc xóa hình mờ vào tệp XLS trên Java Môi trường thời gian chạy cho Ứng dụng JSP / JSF và Ứng dụng máy tính để bàn.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

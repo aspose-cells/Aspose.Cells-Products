@@ -1,7 +1,7 @@
-﻿---
+---
 title: แยกไฟล์ ODS ผ่าน Java 
 weight: 1950
-url: /th/java/splitter/ods/ 
+
 description: Java โค้ดตัวอย่างเพื่อแยกเอกสาร ODS บน Java Runtime Environment สำหรับแอปพลิเคชัน JSP/JSF และแอปพลิเคชันเดสก์ท็อป
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

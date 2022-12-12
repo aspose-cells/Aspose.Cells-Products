@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TSV na EMF prostřednictvím C#
-url: /cs/net/conversion/tsv-to-emf/
+
 description: Ukázkový kód pro převod tsv na emf C#. Použijte API ukázkový kód pro dávkové soubory tsv na převod EMF v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

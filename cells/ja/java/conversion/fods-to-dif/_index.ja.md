@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してFODSをDIFに変換します 
-url: /ja/java/conversion/fods-to-dif/ 
+
 description: FODS形式からDIFファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のDIFにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

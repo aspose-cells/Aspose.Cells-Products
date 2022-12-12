@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLSB-t SPREADSHEETML-be a(z) C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/xlsb-to-spreadsheetml/ 
+
 description: Minta C++ konverziós kód XLSB dokumentumhoz SPREADSHEETML formátumba. A programozók ezt a forráskódot használhatják az XLSB-ből SPREADSHEETML-be kötegelt konvertáláshoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

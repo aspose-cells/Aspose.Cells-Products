@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してSPREADSHEETMLをTIFFに変換します
-url: /ja/python-java/conversion/spreadsheetml-to-tiff/
+
 description: SpreadsheetmlからtiffPythonへの変換のサンプルコード。 Pythonアプリケーション内で変換をtiffするために、バッチspreadsheetmlファイルのAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

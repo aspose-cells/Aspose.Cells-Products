@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést MHTML na XLSM přes Java 
-url: /cs/java/conversion/mhtml-to-xlsm/ 
+
 description: Ukázkový konverzní kód Java pro formát MHTML na soubor XLSM. Programátoři mohou použít tento příklad kódu k exportu tabulek Excelu a OpenOffice do XLSM v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

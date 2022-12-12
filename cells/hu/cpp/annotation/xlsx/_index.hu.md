@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLSX megjegyzés hozzáadása a következőn keresztül: C++ "
 weight: 5260
-url: /hu/cpp/annotation/xlsx/ 
+
 description: C++ mintakód XLSX formátumú megjegyzések hozzáadásához vagy törléséhez a C++ Runtime Environment for Windows 32 bit, a Windows 64 bit és a Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

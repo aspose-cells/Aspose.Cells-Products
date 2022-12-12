@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してHTMLをEMFに変換する
-url: /ja/python-java/conversion/html-to-emf/
+
 description: htmlからemfPythonへの変換のサンプルコード。 Pythonアプリケーション内で変換をemfするためのバッチhtmlファイルのAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

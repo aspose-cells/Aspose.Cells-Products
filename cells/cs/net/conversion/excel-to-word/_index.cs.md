@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést EXCEL na WORD přes C#
-url: /cs/net/conversion/excel-to-word/
+
 description: Ukázkový kód pro převod z Excelu na slovo C#. Použijte API ukázkový kód pro dávkový převod souborů Excel na slovo v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

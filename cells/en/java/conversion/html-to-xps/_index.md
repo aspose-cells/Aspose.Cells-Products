@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to XPS via Java 
-url: /java/conversion/html-to-xps/
+
 description: Convert HTML to XPS format in Java code. Save HTML as XPS using Java.
 ---
 

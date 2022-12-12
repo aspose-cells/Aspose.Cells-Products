@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TABDELIMITED إلى PNG عبر تطبيق C++ 
-url: /ar/cpp/conversion/tabdelimited-to-png/ 
+
 description: نموذج C++ رمز التحويل لمستند TABDELIMITED إلى تنسيق PNG. يمكن للمبرمجين استخدام رمز المصدر هذا للتحويل الدفعي من TABDELIMITED إلى PNG داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

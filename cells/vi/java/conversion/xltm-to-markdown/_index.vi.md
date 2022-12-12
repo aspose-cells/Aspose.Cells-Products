@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi XLTM thành MARKDOWN qua Java 
-url: /vi/java/conversion/xltm-to-markdown/ 
+
 description: Mã chuyển đổi Java mẫu cho định dạng XLTM thành tệp MARKDOWN. Người lập trình có thể sử dụng mã ví dụ này để xuất bảng tính Excel & OpenOffice sang MARKDOWN trong bất kỳ Ứng dụng dựa trên Web hoặc Máy tính để bàn nào Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to DIF via Python
-url: /python-net/conversion/xltx-to-dif/
+
 description: Sample code for xltx to dif Python conversion. Use API example code for batch xltx files to dif conversion within Python application.
 ---
 

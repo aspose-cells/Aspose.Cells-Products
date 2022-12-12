@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή XLT σε SXC μέσω C#
-url: /el/net/conversion/xlt-to-sxc/
+
 description: Δείγμα κώδικα για μετατροπή xlt σε sxc C#. Χρησιμοποιήστε API παράδειγμα κώδικα για μαζική μετατροπή αρχείων xlt σε sxc εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

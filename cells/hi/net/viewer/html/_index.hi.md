@@ -1,6 +1,6 @@
-﻿---
+---
 title: .NET के द्वारा HTML फ़ाइल स्वरूप देखें 
-url: /hi/net/viewer/html/ 
+
 description: .NET Framework, .NET Core, Windows Azure, Mono या Xamarin Platforms पर HTML दस्तावेज़ों को लोड करने, प्रस्तुत करने और प्रदर्शित करने के लिए C# स्रोत कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

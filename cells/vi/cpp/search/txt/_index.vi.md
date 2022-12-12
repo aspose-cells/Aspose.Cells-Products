@@ -1,7 +1,7 @@
-﻿---
+---
 title: Tìm kiếm tài liệu TXT mà không cần mở qua C++ 
 weight: 5090
-url: /vi/cpp/search/txt/ 
+
 description: C++ mã ví dụ để tìm kiếm các từ có mẫu trong tệp TXT trên C++ Môi trường thời gian chạy cho Windows 32 bit, Windows 64 bit và Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

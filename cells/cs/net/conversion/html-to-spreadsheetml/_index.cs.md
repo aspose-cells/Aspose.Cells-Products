@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést HTML na SPREADSHEETML pomocí C#
-url: /cs/net/conversion/html-to-spreadsheetml/
+
 description: Ukázkový kód pro převod html do tabulkyml C#. Použijte API ukázkový kód pro dávkové html soubory pro převod tabulkového procesoru v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

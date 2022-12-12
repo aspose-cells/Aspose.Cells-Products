@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してHTMLファイルをマージする 
 weight: 8830
-url: /ja/java/merger/html/ 
+
 description: Java JSP/JSFアプリケーションとデスクトップアプリケーションのランタイム環境でHTMLドキュメントを組み合わせるためのサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

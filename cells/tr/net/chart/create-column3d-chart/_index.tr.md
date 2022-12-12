@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla Column3D Grafikleri oluşturun
-url: /tr/net/create-column3d-chart/
+
 description: C# .NET Kitaplığı'nı kullanarak Excel'de Column3D çizelgeleri oluşturmak için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde MS Excel'e bir Column3D grafiği oluşturmak için bu kodu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

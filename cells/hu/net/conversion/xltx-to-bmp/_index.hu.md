@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLTX konvertálása BMP-vé a következőn keresztül: C#"
-url: /hu/net/conversion/xltx-to-bmp/
+
 description: Mintakód az xltx–bmp C# konverzióhoz. Használjon API példakódot kötegelt xltx fájlokhoz a bmp konverzióhoz VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

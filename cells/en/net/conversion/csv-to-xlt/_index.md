@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to XLT via C#
-url: /net/conversion/csv-to-xlt/
+
 description: Convert CSV to XLT format in C# code. Save CSV as XLT using VB.NET, Asp.NET or any .NET based application.
 ---
 

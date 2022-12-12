@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to XLSX via Java 
-url: /java/conversion/spreadsheetml-to-xlsx/
+
 description: Convert SPREADSHEETML to XLSX format in Java code. Save SPREADSHEETML as XLSX using Java.
 ---
 

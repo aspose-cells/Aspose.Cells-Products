@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést MHTML na TABDELIMITED přes C#
-url: /cs/net/conversion/mhtml-to-tabdelimited/
+
 description: Ukázkový kód pro převod mhtml na tabulátory C#. Použijte API ukázkový kód pro dávkové soubory mhtml na převod oddělený tabulátory v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

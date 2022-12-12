@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java aracılığıyla XLSM belgesinden metin ve resim ayıklayın 
 weight: 3260
-url: /tr/java/parser/xlsm/ 
+
 description: JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Runtime Environment'daki XLSM dosyasından metin ve resimleri çıkarmak için Java örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

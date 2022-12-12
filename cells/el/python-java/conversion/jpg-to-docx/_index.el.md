@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή JPG σε DOCX μέσω Python
-url: /el/python-java/conversion/jpg-to-docx/
+
 description: Δείγμα κώδικα για μετατροπή jpg σε docx Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία jpg σε μετατροπή docx εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TSV konvertálása DIF-re a következőn keresztül: C#"
-url: /hu/net/conversion/tsv-to-dif/
+
 description: Mintakód a tsv to dif C# konverzióhoz. Használjon API példakódot kötegelt tsv-fájlokhoz a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belüli átalakításhoz.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

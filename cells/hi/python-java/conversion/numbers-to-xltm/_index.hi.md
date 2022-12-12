@@ -1,6 +1,6 @@
-﻿---
+---
 title: NUMBERS को Python के द्वारा XLTM में बदलें
-url: /hi/python-java/conversion/numbers-to-xltm/
+
 description: संख्याओं के लिए नमूना कोड xltm Python रूपांतरण के लिए। Python एप्लिकेशन के भीतर xltm रूपांतरण के लिए बैच संख्या फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

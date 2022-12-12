@@ -1,6 +1,6 @@
 ---
 title: Convert TSV to GIF via C#
-url: /net/conversion/tsv-to-gif/
+
 description: Convert TSV to GIF format in C# code. Save TSV as GIF using VB.NET, Asp.NET or any .NET based application.
 ---
 

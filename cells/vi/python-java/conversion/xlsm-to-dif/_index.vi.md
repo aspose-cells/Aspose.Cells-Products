@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi XLSM sang DIF qua Python
-url: /vi/python-java/conversion/xlsm-to-dif/
+
 description: Mã mẫu cho chuyển đổi xlsm sang dif Python. Sử dụng mã mẫu API cho hàng loạt tệp xlsm để chuyển đổi trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

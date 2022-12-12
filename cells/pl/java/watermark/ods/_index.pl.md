@@ -1,7 +1,7 @@
-﻿---
+---
 title: Dokument ODS ze znakiem wodnym za pośrednictwem Java 
 weight: 1040
-url: /pl/java/watermark/ods/ 
+
 description: Java przykładowy kod do dodawania lub usuwania znaku wodnego do pliku ODS w Java środowisku wykonawczym dla aplikacji JSP/JSF i aplikacji komputerowych.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

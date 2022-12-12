@@ -1,7 +1,7 @@
-﻿---
+---
 title: Rechercher un document ODS sans ouvrir via .NET 
 weight: 160
-url: /fr/net/search/ods/ 
+
 description: Code source C# pour rechercher des mots avec un modèle dans le fichier ODS sur .NET Framework, .NET Core, Mono ou Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

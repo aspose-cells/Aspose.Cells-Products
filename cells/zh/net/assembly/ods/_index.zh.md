@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通过 .NET 在 ODS 文件中生成报告 
 weight: 520
-url: /zh/net/assembly/ods/ 
+
 description: C# 用于在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上生成 ODS 格式报告的源代码。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

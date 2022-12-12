@@ -1,6 +1,6 @@
-﻿---
+---
 title: MHT-bestanden samenvoegen via .NET 
-url: /nl/net/merger/mht/ 
+
 description: Probeer onze On-Premise API's voor het samenvoegen van berichten om MHT-documenten te combineren op .NET Framework, .NET Core en Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java के माध्यम से MHTML को XLTM में बदलें 
 weight: 1230
-url: /hi/java/conversion/mhtml-to-xltm/ 
+
 description: नमूना Java एमएचटीएमएल प्रारूप के लिए एक्सएलटीएम फ़ाइल में रूपांतरण कोड। प्रोग्रामर इस उदाहरण कोड का उपयोग किसी भी वेब या डेस्कटॉप Java आधारित एप्लिकेशन के भीतर एक्सेल और ओपनऑफिस स्प्रेडशीट को एक्सएलटीएम में निर्यात करने के लिए कर सकते हैं।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

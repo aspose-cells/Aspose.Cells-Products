@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter XLT para XLS por meio do aplicativo C++ 
-url: /pt/cpp/conversion/xlt-to-xls/ 
+
 description: Exemplo de código de conversão C++ de documento XLT para formato XLS. Os programadores podem usar esse código-fonte para conversão em lote de XLT para XLS em qualquer aplicativo C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

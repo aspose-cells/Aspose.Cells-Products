@@ -1,7 +1,7 @@
 ---
 title: Protect and lock XLSM document via Java 
 weight: 9620
-url: /java/protect/xlsm/ 
+
 description: Java sample code to lock XLSM file using password on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

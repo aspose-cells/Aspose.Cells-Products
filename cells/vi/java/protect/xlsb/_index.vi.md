@@ -1,7 +1,7 @@
-﻿---
+---
 title: Bảo vệ và khóa tài liệu XLSB qua Java 
 weight: 6590
-url: /vi/java/protect/xlsb/ 
+
 description: Java mã mẫu để khóa tệp XLSB bằng mật khẩu trên Java Môi trường thời gian chạy cho Ứng dụng JSP / JSF và Ứng dụng trên máy tính.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

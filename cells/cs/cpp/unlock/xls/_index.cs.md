@@ -1,7 +1,7 @@
-﻿---
+---
 title: Odemknout dokument XLS přes C++ 
 weight: 2380
-url: /cs/cpp/unlock/xls/ 
+
 description: C++ ukázkový kód pro odemknutí heslem chráněného souboru XLS v C++ Runtime Environment pro Windows 32bit, Windows 64bit a Linux 64bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

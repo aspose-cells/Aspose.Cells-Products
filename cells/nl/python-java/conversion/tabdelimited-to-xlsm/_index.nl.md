@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer TABDELIMITED naar XLSM via Python
-url: /nl/python-java/conversion/tabdelimited-to-xlsm/
+
 description: Voorbeeldcode voor door tabs gescheiden naar xlsm Python conversie. Gebruik API voorbeeldcode voor batch-tabdelimited-bestanden naar xlsm-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

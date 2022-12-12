@@ -1,7 +1,7 @@
-﻿---
+---
 title: Convierta XLS a EMF a través de la aplicación C++ 
 weight: 6870
-url: /es/cpp/conversion/xls-to-emf/ 
+
 description: Ejemplo de código de conversión C++ para documento XLS a formato EMF. Los programadores pueden usar este código fuente para la conversión por lotes de XLS a EMF dentro de cualquier aplicación C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

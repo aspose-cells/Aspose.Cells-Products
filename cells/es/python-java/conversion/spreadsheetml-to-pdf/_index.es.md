@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta SPREADSHEETML a PDF a través de Python
-url: /es/python-java/conversion/spreadsheetml-to-pdf/
+
 description: Código de muestra para la conversión de hoja de cálculo ml a pdf Python. Utilice el código de ejemplo API para la conversión de archivos de hojas de cálculo por lotes a PDF dentro de la aplicación Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

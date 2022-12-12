@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj TABDELIMITED na XLSX za pomocą aplikacji C++ 
-url: /pl/cpp/conversion/tabdelimited-to-xlsx/ 
+
 description: Przykładowy kod konwersji C++ dla dokumentu TABDELIMITED do formatu XLSX. Programiści mogą używać tego kodu źródłowego do wsadowej konwersji TABDELIMITED na XLSX w dowolnej aplikacji C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

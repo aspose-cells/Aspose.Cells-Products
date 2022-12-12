@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してXLTMをMARKDOWNに変換します
-url: /ja/python-java/conversion/xltm-to-markdown/
+
 description: xltmからマークダウンPythonへの変換のサンプルコード。バッチxltmファイルのAPIサンプルコードを使用して、Pythonアプリケーション内で変換をマークダウンします。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

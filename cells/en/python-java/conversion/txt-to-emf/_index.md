@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to EMF via Python
-url: /python-java/conversion/txt-to-emf/
+
 description: Convert TXT to EMF format in Python code. Save TXT as EMF using Python.
 ---
 

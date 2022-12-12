@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera XLS till SQL via C#
-url: /sv/net/conversion/xls-to-sql/
+
 description: Exempelkod för konvertering av xls till sql C#. Använd API exempelkod för batch-xls-filer till sql-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

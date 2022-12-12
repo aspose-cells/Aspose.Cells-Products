@@ -1,7 +1,7 @@
-﻿---
+---
 title: Durchsuchen Sie das XLS-Dokument, ohne es über .NET zu öffnen 
 weight: 1490
-url: /de/net/search/xls/ 
+
 description: C#-Quellcode zum Suchen von Wörtern mit Muster in XLS-Dateien auf .NET Framework-, .NET Core-, Mono- oder Xamarin-Plattformen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to CSV via Java 
-url: /java/conversion/html-to-csv/
+
 description: Convert HTML to CSV format in Java code. Save HTML as CSV using Java.
 ---
 

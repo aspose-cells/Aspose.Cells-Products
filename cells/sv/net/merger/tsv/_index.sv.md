@@ -1,7 +1,7 @@
-﻿---
+---
 title: Slå samman TSV-filer via .NET 
 weight: 1360
-url: /sv/net/merger/tsv/ 
+
 description: C# källkod för att kombinera TSV-dokument på .NET Framework, .NET Core, Mono eller Xamarin-plattformar.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer ODS naar XLT via C++ applicatie 
-url: /nl/cpp/conversion/ods-to-xlt/ 
+
 description: Voorbeeld C++ conversiecode voor ODS-document naar XLT-indeling. Programmeurs kunnen deze broncode gebruiken voor batchconversie van ODS naar XLT binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

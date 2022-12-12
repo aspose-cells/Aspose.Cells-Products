@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل SPREADSHEETML إلى MARKDOWN عبر Python
-url: /ar/python-java/conversion/spreadsheetml-to-markdown/
+
 description: نموذج كود لجدول بيانات لتحويل Python. استخدم API رمز المثال لملفات جداول البيانات الدفعية لتحويل العلامات التجارية داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi XLSB ke GIF melalui Python
-url: /id/python-java/conversion/xlsb-to-gif/
+
 description: Contoh kode untuk konversi xlsb ke gif Python. Gunakan API kode contoh untuk file batch xlsb ke konversi gif dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

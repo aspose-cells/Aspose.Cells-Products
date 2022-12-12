@@ -1,6 +1,6 @@
 ---
 title: Merge XLSB to TSV Files via Java 
-url: /java/merger/merge-xlsb-to-tsv/ 
+
 description: Merge XLSB to TSV file in Java code. Combine XLSB to TSV file using Java based desktop or web application.
 ---
 

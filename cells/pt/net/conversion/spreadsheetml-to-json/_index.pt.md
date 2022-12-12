@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter SPREADSHEETML para JSON via C#
-url: /pt/net/conversion/spreadsheetml-to-json/
+
 description: Código de exemplo para conversão de planilhaml para json C#. Use API código de exemplo para arquivos de planilhaml em lote para conversão de json em VB.NET, Asp.NET ou qualquer aplicativo baseado em .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

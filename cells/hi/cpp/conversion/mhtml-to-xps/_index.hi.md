@@ -1,7 +1,7 @@
-﻿---
+---
 title: MHTML को XPS में C++ एप्लिकेशन के माध्यम से कनवर्ट करें 
 weight: 7930
-url: /hi/cpp/conversion/mhtml-to-xps/ 
+
 description: नमूना C++ एमएचटीएमएल दस्तावेज़ के लिए एक्सपीएस प्रारूप में रूपांतरण कोड। प्रोग्रामर इस स्रोत कोड का उपयोग किसी भी C++ एप्लिकेशन में बैच एमएचटीएमएल से एक्सपीएस रूपांतरण के लिए कर सकते हैं।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование TABDELIMITED в DIF с помощью приложения C++ 
-url: /ru/cpp/conversion/tabdelimited-to-dif/ 
+
 description: Пример кода преобразования C++ для документа TABDELIMITED в формат DIF. Программисты могут использовать этот исходный код для пакетного преобразования TABDELIMITED в DIF в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

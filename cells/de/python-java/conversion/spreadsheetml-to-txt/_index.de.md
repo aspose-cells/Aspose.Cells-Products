@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie SPREADSHEETML in TXT über Python
-url: /de/python-java/conversion/spreadsheetml-to-txt/
+
 description: Beispielcode für die Umwandlung von Spreadsheetml in TXT Python. Verwenden Sie den API Beispielcode für die Batch-Konvertierung von Spreadsheetml-Dateien in TXT innerhalb der Anwendung Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

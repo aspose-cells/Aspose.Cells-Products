@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование TSV в SPREADSHEETML через Python
-url: /ru/python-java/conversion/tsv-to-spreadsheetml/
+
 description: Пример кода для преобразования tsv в электронную таблицуml Python. Используйте пример кода API для пакетного преобразования tsv-файлов в электронную таблицуml в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

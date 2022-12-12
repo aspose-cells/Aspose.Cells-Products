@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してSPREADSHEETMLをDIFに変換します
-url: /ja/net/conversion/spreadsheetml-to-dif/
+
 description: SpreadsheetmlからdifC#への変換のサンプルコード。バッチspreadsheetmlファイルのAPIサンプルコードを使用して、VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内で変換を行います。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

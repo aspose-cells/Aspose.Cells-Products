@@ -1,7 +1,7 @@
-﻿---
+---
 title: Python Υπολογιστικό φύλλο Excel API - Aspose 
 weight: 2820
-url: /el/python-java/ 
+
 description: Python βιβλιοθήκη υπολογιστικών φύλλων για τη δημιουργία ανάγνωσης εγγραφής και ανάλυσης αρχείων Excel.
 ---
 {{< blocks/products/pf/main-wrap-class >}}

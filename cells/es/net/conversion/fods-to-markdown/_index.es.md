@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta FODS en MARKDOWN a través de C#
-url: /es/net/conversion/fods-to-markdown/
+
 description: Código de ejemplo para conversión de alimentos a rebajas C#. Utilice el código de ejemplo API para archivos fods por lotes para rebajar la conversión dentro de VB.NET, Asp.NET o cualquier aplicación basada en .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

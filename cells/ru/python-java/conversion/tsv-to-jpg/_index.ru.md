@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование TSV в JPG через Python
-url: /ru/python-java/conversion/tsv-to-jpg/
+
 description: Пример кода для преобразования tsv в jpg Python. Используйте пример кода API для пакетного преобразования файлов tsv в jpg в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

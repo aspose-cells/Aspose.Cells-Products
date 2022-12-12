@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++アプリケーションを介してTSVをHTMLに変換する 
 weight: 4980
-url: /ja/cpp/conversion/tsv-to-html/ 
+
 description: TSVドキュメントからHTML形式へのサンプルC++変換コード。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でTSVからHTMLへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

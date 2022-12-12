@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++을 통한 XLSM 문서 차트 
 weight: 8510
-url: /ko/cpp/chart/xlsm/ 
+
 description: C++ Windows 32비트, Windows 64비트 및 Linux 64비트용 C++ 런타임 환경의 XLSM 파일에 차트 또는 다이어그램을 그리고 변환하는 예제 코드.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

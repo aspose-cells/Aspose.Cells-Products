@@ -1,7 +1,7 @@
-﻿---
+---
 title: Cari dokumen XLSM tanpa membuka melalui C++ 
 weight: 9280
-url: /id/cpp/search/xlsm/ 
+
 description: C++ contoh kode untuk mencari kata dengan pola dalam file XLSM pada C++ Runtime Environment untuk Windows 32 bit, Windows 64 bit dan Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

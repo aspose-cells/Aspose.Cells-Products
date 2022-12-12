@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง NUMBERS เป็น PDF ผ่าน C#
-url: /th/net/conversion/numbers-to-pdf/
+
 description: โค้ดตัวอย่างสำหรับการแปลงตัวเลขเป็น pdf C# ใช้ API โค้ดตัวอย่างสำหรับไฟล์หมายเลขแบทช์เป็นการแปลง pdf ภายใน VB.NET, Asp.NET หรือแอปพลิเคชันที่ใช้ .NET ใดๆ
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

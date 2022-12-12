@@ -1,7 +1,7 @@
-﻿---
+---
 title: ค้นหาเอกสาร ODS โดยไม่ต้องเปิดผ่าน .NET 
 weight: 160
-url: /th/net/search/ods/ 
+
 description: C# ซอร์สโค้ดเพื่อค้นหาคำที่มีรูปแบบในไฟล์ ODS บน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

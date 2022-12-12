@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to GIF via Python
-url: /python-java/conversion/spreadsheetml-to-gif/
+
 description: Convert SPREADSHEETML to GIF format in Python code. Save SPREADSHEETML as GIF using Python.
 ---
 

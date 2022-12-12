@@ -1,7 +1,7 @@
-﻿---
+---
 title: Wyszukaj i zamień tekst w dokumencie XLSB za pomocą .NET 
 weight: 3890
-url: /pl/net/redaction/xlsb/ 
+
 description: C# kod źródłowy do redagowania poufnych informacji w pliku XLSB na platformach .NET Framework, .NET Core, Mono lub Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

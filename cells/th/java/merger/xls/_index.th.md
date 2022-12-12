@@ -1,7 +1,7 @@
-﻿---
+---
 title: รวมไฟล์ XLS ผ่าน Java 
 weight: 5140
-url: /th/java/merger/xls/ 
+
 description: Java โค้ดตัวอย่างเพื่อรวมเอกสาร XLS บน Java Runtime Environment สำหรับแอปพลิเคชัน JSP/JSF และแอปพลิเคชันเดสก์ท็อป
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

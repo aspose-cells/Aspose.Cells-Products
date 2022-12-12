@@ -1,6 +1,6 @@
-﻿---
+---
 title: Maak lijndiagrammen via Python
-url: /nl/python-java/create-line-chart/
+
 description: Python Voorbeeldcode voor het maken van lijndiagrammen naar Excel met Python Bibliotheek. Gebruik deze code voor het maken van een lijndiagram naar MS Excel binnen een op Python gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

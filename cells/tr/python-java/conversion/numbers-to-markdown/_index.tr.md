@@ -1,6 +1,6 @@
-﻿---
+---
 title: NUMBERS'ı Python üzerinden MARKDOWN'a dönüştürün
-url: /tr/python-java/conversion/numbers-to-markdown/
+
 description: Python dönüşümünü işaretlemek için sayılar için örnek kod. Python uygulamasında dönüştürmeyi azaltmak için toplu iş numarası dosyaları için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

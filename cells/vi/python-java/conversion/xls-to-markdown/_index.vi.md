@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi XLS thành MARKDOWN qua Python
-url: /vi/python-java/conversion/xls-to-markdown/
+
 description: Mã mẫu cho chuyển đổi xls để đánh dấu Python. Sử dụng mã mẫu API cho các tệp xls hàng loạt để đánh dấu chuyển đổi trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

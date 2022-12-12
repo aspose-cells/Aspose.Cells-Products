@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to DIF via Python
-url: /python-net/conversion/xlsb-to-dif/
+
 description: Sample code for xlsb to dif Python conversion. Use API example code for batch xlsb files to dif conversion within Python application.
 ---
 

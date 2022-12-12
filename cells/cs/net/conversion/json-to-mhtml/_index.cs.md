@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést JSON na MHTML přes C#
-url: /cs/net/conversion/json-to-mhtml/
+
 description: Ukázkový kód pro konverzi json na mhtml C#. Použijte API ukázkový kód pro dávkový převod souborů json na mhtml v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

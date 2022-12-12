@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera SPREADSHEETML till GIF via Python
-url: /sv/python-java/conversion/spreadsheetml-to-gif/
+
 description: Exempelkod för konvertering från kalkylarkml till gif Python. Använd API exempelkod för batch-kalkylarkml-filer till gif-konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

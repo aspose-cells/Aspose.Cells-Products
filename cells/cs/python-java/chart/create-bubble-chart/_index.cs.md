@@ -1,6 +1,6 @@
-﻿---
+---
 title: Vytvářejte bublinové grafy prostřednictvím Python
-url: /cs/python-java/create-bubble-chart/
+
 description: Python Ukázkový kód pro vytváření bublinových grafů do aplikace Excel pomocí knihovny Python. Tento kód použijte k vytvoření bublinového grafu do MS Excel v aplikaci založené na Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: เพิ่มคำอธิบายประกอบไฟล์ XLS Excel ผ่าน C++ 
 weight: 10040
-url: /th/cpp/annotation/xls/ 
+
 description: C++ ตัวอย่างโค้ดเพื่อเพิ่มและลบคำอธิบายประกอบรูปแบบ XLS บน C++ Runtime Environment สำหรับ Windows 32 บิต, Windows 64 บิต และ Linux 64 บิต
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

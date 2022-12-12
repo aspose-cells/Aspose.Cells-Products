@@ -1,7 +1,7 @@
-﻿---
+---
 title: 在不通過 Java 打開的情況下搜索 XLSB 文檔 
 weight: 9420
-url: /zh-hant/java/search/xlsb/ 
+
 description: Java 示例代碼，用於在 Java JSP/JSF 應用程序和桌面應用程序的運行時環境中的 XLSB 文件中搜索具有模式的單詞。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

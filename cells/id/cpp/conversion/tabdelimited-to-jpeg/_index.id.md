@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi TABDELIMITED ke JPEG melalui C++ aplikasi 
-url: /id/cpp/conversion/tabdelimited-to-jpeg/ 
+
 description: Contoh C++ kode konversi untuk dokumen TABDELIMITED ke format JPEG. Pemrogram dapat menggunakan kode sumber ini untuk konversi batch TABDELIMITED ke JPEG dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

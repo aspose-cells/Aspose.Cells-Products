@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan TXT ke SXC melalui C#
-url: /id/net/conversion/txt-to-sxc/
+
 description: Contoh kode untuk konversi txt ke sxc C#. Gunakan API kode contoh untuk file batch txt ke konversi sxc dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLSM-Dateien über .NET zusammenführen 
 weight: 660
-url: /de/net/merger/xlsm/ 
+
 description: C#-Quellcode zum Kombinieren von XLSM-Dokumenten auf .NET Framework-, .NET Core-, Mono- oder Xamarin-Plattformen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

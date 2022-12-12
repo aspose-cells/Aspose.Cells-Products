@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TABDELIMITED na XLSM přes C#
-url: /cs/net/conversion/tabdelimited-to-xlsm/
+
 description: Ukázkový kód pro převod tabdelimited na xlsm C#. Použijte API ukázkový kód pro dávkový převod souborů oddělených tabulátory na xlsm v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

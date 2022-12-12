@@ -1,7 +1,7 @@
-﻿---
+---
 title: Redigera eller visa XLSM-dokumentmetadata via C++ 
 weight: 1300
-url: /sv/cpp/metadata/xlsm/ 
+
 description: C++ exempelkod för att redigera eller visa XLSM-filmetadata i C++ Runtime Environment för Windows 32 bitar, Windows 64 bitar och Linux 64 bitar.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

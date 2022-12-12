@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést MHTML na MD přes Python
-url: /cs/python-java/conversion/mhtml-to-md/
+
 description: Ukázkový kód pro konverzi mhtml na md Python. Použijte API ukázkový kód pro dávkový převod souborů mhtml na md v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

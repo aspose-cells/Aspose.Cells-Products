@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer CSV naar TABDELIMITED via C#
-url: /nl/net/conversion/csv-to-tabdelimited/
+
 description: Voorbeeldcode voor conversie van csv naar door tabs gescheiden C#. Gebruik API voorbeeldcode voor batch-csv-bestanden naar door tabs gescheiden conversies binnen VB.NET, Asp.NET of een op .NET gebaseerde toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

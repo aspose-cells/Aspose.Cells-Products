@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to TABDELIMITED via C#
-url: /net/conversion/fods-to-tabdelimited/
+
 description: Convert FODS to TABDELIMITED format in C# code. Save FODS as TABDELIMITED using VB.NET, Asp.NET or any .NET based application.
 ---
 

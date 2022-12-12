@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to PDF via Java 
-url: /java/conversion/xls-to-pdf/
+
 description: Convert XLS to PDF format in Java code. Save XLS as PDF using Java.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TXT konvertálása MARKDOWN-re a következőn keresztül: C#"
-url: /hu/net/conversion/txt-to-markdown/
+
 description: Mintakód a txt-ből a C# konverzióhoz. Használjon API példakódot kötegelt txt fájlokhoz a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazás konverziójának leértékeléséhez.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

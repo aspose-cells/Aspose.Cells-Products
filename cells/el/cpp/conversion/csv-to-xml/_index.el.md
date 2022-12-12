@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή CSV σε XML μέσω της εφαρμογής C++ 
-url: /el/cpp/conversion/csv-to-xml/ 
+
 description: Δείγμα κώδικα μετατροπής C++ για έγγραφο CSV σε μορφή XML. Οι προγραμματιστές μπορούν να χρησιμοποιήσουν αυτόν τον πηγαίο κώδικα για ομαδική μετατροπή CSV σε XML σε οποιαδήποτε εφαρμογή C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

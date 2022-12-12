@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή TABDELIMITED σε MHTML μέσω C#
-url: /el/net/conversion/tabdelimited-to-mhtml/
+
 description: Δείγμα κώδικα για μετατροπή οριοθετημένης καρτέλας σε mhtml C#. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικές μετατροπές οριοθετημένων στηλοθέτων σε mhtml εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

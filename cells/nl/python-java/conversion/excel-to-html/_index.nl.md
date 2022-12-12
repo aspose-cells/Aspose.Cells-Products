@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer EXCEL naar HTML via Python
-url: /nl/python-java/conversion/excel-to-html/
+
 description: Voorbeeldcode voor conversie van Excel naar html Python. Gebruik API voorbeeldcode voor batch Excel-bestanden naar html-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

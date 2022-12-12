@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta NUMBERS a JSON a través de Python
-url: /es/python-java/conversion/numbers-to-json/
+
 description: Ejemplo de código para la conversión de números a json Python. Utilice el código de ejemplo API para la conversión de archivos de números de lote a json dentro de la aplicación Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

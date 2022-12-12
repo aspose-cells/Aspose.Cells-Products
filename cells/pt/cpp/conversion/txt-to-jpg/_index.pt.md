@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter TXT para JPG por meio do aplicativo C++ 
-url: /pt/cpp/conversion/txt-to-jpg/ 
+
 description: Exemplo de código de conversão C++ de documento TXT para formato JPG. Os programadores podem usar esse código-fonte para conversão em lote de TXT para JPG em qualquer aplicativo C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

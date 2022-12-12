@@ -1,7 +1,7 @@
-﻿---
+---
 title: Gráfico de documentos ODS a través de Java 
 weight: 2240
-url: /es/java/chart/ods/ 
+
 description: Java código de ejemplo para dibujar y convertir gráficos o diagramas en un archivo ODS en Java entorno de tiempo de ejecución para aplicaciones JSP/JSF y aplicaciones de escritorio.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

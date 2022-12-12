@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TABDELIMITED إلى ODS عبر Python
-url: /ar/python-java/conversion/tabdelimited-to-ods/
+
 description: نموذج التعليمات البرمجية لجدولة محدودة لتحويل ods Python. استخدم API رمز المثال للملفات المحددة بعلامات جدولة مجمعة لتحويل ods داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

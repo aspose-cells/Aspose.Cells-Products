@@ -1,6 +1,6 @@
-﻿---
+---
 title: Kreisdiagramme über Python erstellen
-url: /de/python-java/create-pie-chart/
+
 description: Python Beispielcode zum Erstellen von Kreisdiagrammen in Excel mithilfe der Python-Bibliothek. Verwenden Sie diesen Code zum Erstellen eines Kreisdiagramms in MS Excel innerhalb einer Python-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

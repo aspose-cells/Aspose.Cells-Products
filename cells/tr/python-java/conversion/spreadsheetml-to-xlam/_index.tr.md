@@ -1,6 +1,6 @@
-﻿---
+---
 title: SPREADSHEETML'yi Python aracılığıyla XLAM'e dönüştürün
-url: /tr/python-java/conversion/spreadsheetml-to-xlam/
+
 description: E-tabloml'den xlam'e Python dönüşümü için örnek kod. Python uygulamasında toplu elektronik tablo ml dosyalarından xlam'e dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

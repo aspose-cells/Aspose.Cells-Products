@@ -1,6 +1,6 @@
-﻿---
+---
 title: "CSV konvertálása SVG-vé a következőn keresztül: Python"
-url: /hu/python-java/conversion/csv-to-svg/
+
 description: Mintakód a csv-ből svg-be való Python konverzióhoz. Használjon API példakódot a kötegelt csv fájlok SVG konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

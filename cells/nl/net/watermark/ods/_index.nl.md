@@ -1,7 +1,7 @@
-﻿---
+---
 title: Watermerk ODS-document via .NET 
 weight: 4190
-url: /nl/net/watermark/ods/ 
+
 description: C# broncode voor het toevoegen of verwijderen van een watermerk aan het ODS-bestand op .NET Framework, .NET Core, Mono of Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

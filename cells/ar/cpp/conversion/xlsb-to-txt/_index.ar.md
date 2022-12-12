@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLSB إلى TXT عبر تطبيق C++ 
-url: /ar/cpp/conversion/xlsb-to-txt/ 
+
 description: نموذج C++ رمز تحويل لمستند XLSB إلى تنسيق TXT. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل XLSB إلى TXT دفعة داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

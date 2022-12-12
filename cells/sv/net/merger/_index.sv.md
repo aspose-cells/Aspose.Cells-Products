@@ -1,6 +1,6 @@
-﻿---
+---
 title: Excel-filsammanslagning API .NET C#
-url: /sv/net/merger/
+
 description: Sammanfoga Excel- och OpenOffice-kalkylbladsfiler med bara några rader med C#-kod.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

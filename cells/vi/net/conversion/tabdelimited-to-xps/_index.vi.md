@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi TABDELIMITED sang XPS qua C#
-url: /vi/net/conversion/tabdelimited-to-xps/
+
 description: Mã mẫu cho chuyển đổi được giới hạn bằng tab thành xps C#. Sử dụng API mã mẫu cho các tệp được giới hạn bằng tab hàng loạt thành chuyển đổi xps trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

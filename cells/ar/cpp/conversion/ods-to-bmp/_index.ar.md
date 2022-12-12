@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل ODS إلى BMP عبر تطبيق C++ 
 weight: 8940
-url: /ar/cpp/conversion/ods-to-bmp/ 
+
 description: نموذج C++ رمز تحويل لمستند ODS إلى تنسيق BMP. يمكن للمبرمجين استخدام شفرة المصدر هذه لتحويل دفعة من ODS إلى BMP داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

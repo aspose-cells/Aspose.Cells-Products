@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLTM na XLT přes C#
-url: /cs/net/conversion/xltm-to-xlt/
+
 description: Ukázkový kód pro převod xltm na xlt C#. Použijte API ukázkový kód pro dávkové soubory xltm na převod xlt v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

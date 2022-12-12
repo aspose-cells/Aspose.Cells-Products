@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converti NUMBERS in HTML tramite Python
-url: /it/python-java/conversion/numbers-to-html/
+
 description: Codice di esempio per la conversione da numeri a html Python. Usa il codice di esempio API per la conversione dei file dei numeri di lotto in html all'interno dell'applicazione Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

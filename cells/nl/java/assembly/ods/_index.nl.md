@@ -1,7 +1,7 @@
-﻿---
+---
 title: Genereer rapporten in ODS-bestanden via Java 
 weight: 2440
-url: /nl/java/assembly/ods/ 
+
 description: Java voorbeeldcode om rapporten in ODS-indeling te maken op Java Runtime Environment voor JSP/JSF-applicaties en desktopapplicaties.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést JSON na CSV prostřednictvím C#
-url: /cs/net/conversion/json-to-csv/
+
 description: Ukázkový kód pro převod json na csv C#. Použijte API ukázkový kód pro dávkový převod souborů json na csv v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

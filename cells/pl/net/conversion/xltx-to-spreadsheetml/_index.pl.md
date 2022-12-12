@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj XLTX na SPREADSHEETML przez C#
-url: /pl/net/conversion/xltx-to-spreadsheetml/
+
 description: Przykładowy kod konwersji xltx do arkusza kalkulacyjnego C#. Użyj przykładowego kodu API dla wsadowych plików xltx do konwersji arkusza kalkulacyjnego na ml w ramach VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

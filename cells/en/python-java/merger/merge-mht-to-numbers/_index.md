@@ -1,6 +1,6 @@
 ---
 title: Merge MHT to NUMBERS Files via Python 
-url: /python-java/merger/merge-mht-to-numbers/ 
+
 description: Merge MHT to NUMBERS file in Python code. Combine MHT to NUMBERS file using Python.
 ---
 

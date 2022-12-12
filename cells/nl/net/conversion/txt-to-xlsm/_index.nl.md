@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer TXT naar XLSM via C#
-url: /nl/net/conversion/txt-to-xlsm/
+
 description: Voorbeeldcode voor conversie van txt naar xlsm C#. Gebruik API voorbeeldcode voor batch-txt-bestanden naar xlsm-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

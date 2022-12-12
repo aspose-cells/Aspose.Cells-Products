@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie SPREADSHEETML in TIFF über die Anwendung C++ 
-url: /de/cpp/conversion/spreadsheetml-to-tiff/ 
+
 description: Beispiel-Umwandlungscode C++ für das SPREADSHEETML-Dokument in das TIFF-Format. Programmierer können diesen Quellcode für die Batch-Konvertierung von SPREADSHEETML in TIFF in jeder C++-Anwendung verwenden.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

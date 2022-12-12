@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή TSV σε XLSX μέσω C#
-url: /el/net/conversion/tsv-to-xlsx/
+
 description: Δείγμα κώδικα για μετατροπή tsv σε xlsx C#. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδική μετατροπή αρχείων tsv σε xlsx εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

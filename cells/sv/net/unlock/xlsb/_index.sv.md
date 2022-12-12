@@ -1,7 +1,7 @@
-﻿---
+---
 title: Lås upp XLSB-dokument via .NET 
 weight: 6410
-url: /sv/net/unlock/xlsb/ 
+
 description: C# källkod för att låsa upp lösenordsskyddad XLSB-fil på .NET Framework, .NET Core, Mono eller Xamarin-plattformar.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

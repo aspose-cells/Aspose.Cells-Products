@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to XLT via Python
-url: /python-net/conversion/ods-to-xlt/
+
 description: Sample code for ods to xlt Python conversion. Use API example code for batch ods files to xlt conversion within Python application.
 ---
 

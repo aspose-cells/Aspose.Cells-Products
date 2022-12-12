@@ -1,7 +1,7 @@
-﻿---
+---
 title: Sloučit soubory XLSB přes Java 
 weight: 4840
-url: /cs/java/merger/xlsb/ 
+
 description: Java ukázkový kód pro kombinaci dokumentů XLSB v Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

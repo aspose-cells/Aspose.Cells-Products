@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή FODS σε DIF μέσω C#
-url: /el/net/conversion/fods-to-dif/
+
 description: Δείγμα κώδικα για τροφές για να διαφοροποιήσετε τη μετατροπή C#. Χρησιμοποιήστε API παράδειγμα κώδικα για αρχεία batch fods για να διαφοροποιήσετε τη μετατροπή σε VB.NET, Asp.NET ή οποιαδήποτε εφαρμογή που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

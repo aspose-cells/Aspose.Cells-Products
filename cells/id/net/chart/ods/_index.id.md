@@ -1,7 +1,7 @@
-﻿---
+---
 title:  Bagan dokumen ODS ke gambar melalui .NET 
 weight: 4360
-url: /id/net/chart/ods/ 
+
 description: C# kode sumber untuk menggambar dan mengonversi bagan atau diagram dalam file ODS pada Platform .NET Framework, .NET Core, Mono atau Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

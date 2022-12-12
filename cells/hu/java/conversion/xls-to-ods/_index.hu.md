@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLS konvertálása ODS-re a következőn keresztül: Java "
 weight: 7650
-url: /hu/java/conversion/xls-to-ods/ 
+
 description: Minta Java konverziós kód az XLS formátumhoz ODS-fájllá. A programozók ezt a példakódot használhatják Excel- és OpenOffice-táblázatok exportálására ODS-be bármely web- vagy asztali Java-alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

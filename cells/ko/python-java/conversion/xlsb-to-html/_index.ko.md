@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python를 통해 XLSB를 HTML로 변환
-url: /ko/python-java/conversion/xlsb-to-html/
+
 description: xlsb에서 html Python로의 변환을 위한 샘플 코드. Python 애플리케이션 내에서 배치 xlsb 파일을 html로 변환하는 API 예제 코드를 사용합니다.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

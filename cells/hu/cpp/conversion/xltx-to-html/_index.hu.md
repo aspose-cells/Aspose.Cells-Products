@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLTX-et HTML-be a(z) C++ alkalmazással 
-url: /hu/cpp/conversion/xltx-to-html/ 
+
 description: Minta C++ konverziós kód XLTX dokumentumhoz HTML formátumba. A programozók ezt a forráskódot használhatják kötegelt XLTX-HTML-konverzióhoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

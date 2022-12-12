@@ -1,6 +1,6 @@
-﻿---
+---
 title: "EXCEL konvertálása SVG-vé a következőn keresztül: Python"
-url: /hu/python-java/conversion/excel-to-svg/
+
 description: Mintakód az excelből svg-be Python történő konverzióhoz. Használjon API példakódot kötegelt excel fájlok SVG konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to MARKDOWN via C#
-url: /net/conversion/sxc-to-markdown/
+
 description: Convert SXC to MARKDOWN format in C# code. Save SXC as MARKDOWN using VB.NET, Asp.NET or any .NET based application.
 ---
 

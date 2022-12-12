@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer TABDELIMITED naar MHTML via C++ applicatie 
-url: /nl/cpp/conversion/tabdelimited-to-mhtml/ 
+
 description: Voorbeeld C++-conversiecode voor TABDELIMITED-document naar MHTML-indeling. Programmeurs kunnen deze broncode gebruiken voor batchconversie van TABDELIMITED naar MHTML binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

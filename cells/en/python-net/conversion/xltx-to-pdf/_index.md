@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to PDF via Python
-url: /python-net/conversion/xltx-to-pdf/
+
 description: Sample code for xltx to pdf Python conversion. Use API example code for batch xltx files to pdf conversion within Python application.
 ---
 

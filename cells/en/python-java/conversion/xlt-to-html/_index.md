@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to HTML via Python
-url: /python-java/conversion/xlt-to-html/
+
 description: Convert XLT to HTML format in Python code. Save XLT as HTML using Python.
 ---
 

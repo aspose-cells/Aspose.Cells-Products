@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل HTML إلى PDF عبر تطبيق C++ 
 weight: 6400
-url: /ar/cpp/conversion/html-to-pdf/ 
+
 description: نموذج C++ رمز التحويل لمستند HTML إلى تنسيق PDF. يمكن للمبرمجين استخدام رمز المصدر هذا لتحويل دفعة HTML إلى PDF داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

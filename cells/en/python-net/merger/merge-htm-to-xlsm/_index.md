@@ -1,6 +1,6 @@
 ---
 title: Merge HTM to XLSM Files via Python 
-url: /python-net/merger/merge-htm-to-xlsm/ 
+
 description: Merge HTM to XLSM file in Python code. Combine HTM to XLSM file using Python.
 ---
 

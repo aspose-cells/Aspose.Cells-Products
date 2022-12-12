@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to HTML via C++
-url: /cpp/conversion/xlt-to-html/
+
 description: Convert XLT to HTML format in C++ code. Save XLT as HTML using C++.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Convert JPG to PPTX via Java 
-url: /java/conversion/jpg-to-pptx/
+
 description: Convert JPG to PPTX format in Java code. Save JPG as PPTX using Java.
 ---
 

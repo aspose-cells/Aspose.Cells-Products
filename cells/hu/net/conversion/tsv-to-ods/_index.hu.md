@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TSV konvertálása ODS-re a következőn keresztül: C#"
-url: /hu/net/conversion/tsv-to-ods/
+
 description: Mintakód a tsv-ből ods-ba C# konverzióhoz. Használjon API példakódot a tsv-fájlok kötegelt ods-s konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

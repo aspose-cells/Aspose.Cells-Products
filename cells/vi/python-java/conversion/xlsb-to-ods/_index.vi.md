@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi XLSB sang ODS qua Python
-url: /vi/python-java/conversion/xlsb-to-ods/
+
 description: Mã mẫu cho chuyển đổi xlsb sang ods Python. Sử dụng API mã mẫu cho hàng loạt tệp xlsb để chuyển đổi ods trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

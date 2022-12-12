@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل FODS إلى MARKDOWN عبر C#
-url: /ar/net/conversion/fods-to-markdown/
+
 description: نموذج كود fods لتخفيض سعر التحويل C#. استخدم API رمز المثال لملفات fods الدفعية لتحديد التحويل داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

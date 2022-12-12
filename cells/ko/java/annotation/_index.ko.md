@@ -1,6 +1,6 @@
-﻿---
+---
 title: Java을 통한 Excel 파일 주석
-url: /ko/java/annotation/
+
 description: Java 라이브러리를 사용하여 Excel 및 OpenOffice 스프레드시트의 데이터 주석을 추가하거나 제거합니다.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

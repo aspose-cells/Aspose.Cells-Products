@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer EXCEL naar SVG via Python
-url: /nl/python-java/conversion/excel-to-svg/
+
 description: Voorbeeldcode voor conversie van Excel naar SVG Python. Gebruik API voorbeeldcode voor batch Excel-bestanden naar svg-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

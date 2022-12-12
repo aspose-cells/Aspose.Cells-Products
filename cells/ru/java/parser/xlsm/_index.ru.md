@@ -1,7 +1,7 @@
-﻿---
+---
 title: Извлечение текста и изображений из документа XLSM с помощью Java 
 weight: 3260
-url: /ru/java/parser/xlsm/ 
+
 description: Пример кода Java для извлечения текста и изображений из файла XLSM в Java среде выполнения для приложений JSP/JSF и настольных приложений.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

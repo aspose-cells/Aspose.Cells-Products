@@ -1,6 +1,6 @@
 ---
 title: Create MS Excel XLT Files via Java 
-url: /java/create-xlt/ 
+
 description: Create XLT files in Java code. Generate MS Excel XLT files using Java based desktop or web application.
 ---
 

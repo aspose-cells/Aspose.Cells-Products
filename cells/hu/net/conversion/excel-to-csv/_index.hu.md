@@ -1,6 +1,6 @@
-﻿---
+---
 title: "EXCEL konvertálása CSV-vé a következőn keresztül: C#"
-url: /hu/net/conversion/excel-to-csv/
+
 description: Mintakód az excelből csv-be C# konverzióhoz. Használjon API példakódot az excel-fájlok kötegelt csv-vé konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

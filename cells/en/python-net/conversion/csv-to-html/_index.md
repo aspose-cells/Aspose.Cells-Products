@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to HTML via Python
-url: /python-net/conversion/csv-to-html/
+
 description: Sample code for csv to html Python conversion. Use API example code for batch csv files to html conversion within Python application.
 ---
 

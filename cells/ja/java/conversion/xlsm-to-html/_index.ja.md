@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してXLSMをHTMLに変換します 
 weight: 4720
-url: /ja/java/conversion/xlsm-to-html/ 
+
 description: XLSM形式からHTMLファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、任意のWebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをHTMLにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

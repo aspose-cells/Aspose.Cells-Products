@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง SPREADSHEETML เป็น XLAM ผ่าน C#
-url: /th/net/conversion/spreadsheetml-to-xlam/
+
 description: โค้ดตัวอย่างสำหรับการแปลงสเปรดชีตml เป็น xlam C# ใช้โค้ดตัวอย่าง API สำหรับไฟล์แบทช์สเปรดชีตml เป็นการแปลง xlam ภายใน VB.NET, Asp.NET หรือแอปพลิเคชันที่ใช้ .NET
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

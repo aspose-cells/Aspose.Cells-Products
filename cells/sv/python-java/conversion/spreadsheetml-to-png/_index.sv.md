@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera SPREADSHEETML till PNG via Python
-url: /sv/python-java/conversion/spreadsheetml-to-png/
+
 description: Exempelkod för konvertering från kalkylarkml till png Python. Använd API-exempelkod för batch-kalkylarkml-filer till png-konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

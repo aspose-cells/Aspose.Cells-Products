@@ -1,6 +1,6 @@
-﻿---
+---
 title: Tạo Tệp MS Excel XLSX qua Java 
-url: /vi/java/create-xlsx/ 
+
 description: Java Mã mẫu để tạo tài liệu XLSX. Sử dụng mã này để tạo tệp MS Excel XLSX trong ứng dụng web hoặc máy tính để bàn dựa trên Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

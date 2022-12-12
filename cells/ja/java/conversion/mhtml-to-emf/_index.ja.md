@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してMHTMLをEMFに変換する 
 weight: 3750
-url: /ja/java/conversion/mhtml-to-emf/ 
+
 description: MHTML形式からEMFファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のEMFにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

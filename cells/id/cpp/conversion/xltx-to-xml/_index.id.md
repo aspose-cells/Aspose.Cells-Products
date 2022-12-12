@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi XLTX ke XML melalui C++ aplikasi 
-url: /id/cpp/conversion/xltx-to-xml/ 
+
 description: Contoh C++ kode konversi untuk dokumen XLTX ke format XML. Pemrogram dapat menggunakan kode sumber ini untuk konversi batch XLTX ke XML dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

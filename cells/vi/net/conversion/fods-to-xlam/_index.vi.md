@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi FODS sang XLAM qua C#
-url: /vi/net/conversion/fods-to-xlam/
+
 description: Mã mẫu cho chuyển đổi fods thành xlam C#. Sử dụng mã mẫu API cho các tệp fods hàng loạt để chuyển đổi xlam trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

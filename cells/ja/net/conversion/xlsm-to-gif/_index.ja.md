@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してXLSMをGIFに変換します
-url: /ja/net/conversion/xlsm-to-gif/
+
 description: xlsmからgifC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチxlsmファイルからgifへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: SPREADSHEETML konvertálása CSV formátumba a(z) C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/spreadsheetml-to-csv/ 
+
 description: Minta C++ konverziós kód a SPREADSHEETML dokumentumhoz CSV formátumba. A programozók ezt a forráskódot használhatják a SPREADSHEETML-ből CSV-vé történő kötegelt konvertáláshoz bármely C++ alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

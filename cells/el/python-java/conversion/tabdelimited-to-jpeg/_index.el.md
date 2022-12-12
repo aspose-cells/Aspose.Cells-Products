@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή TABDELIMITED σε JPEG μέσω Python
-url: /el/python-java/conversion/tabdelimited-to-jpeg/
+
 description: Δείγμα κώδικα για μετατροπή οριοθετημένης καρτέλας σε jpeg Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία οριοθετημένα στηλοθέτες σε μετατροπή jpeg εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

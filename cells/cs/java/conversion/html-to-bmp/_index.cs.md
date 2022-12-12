@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést HTML na BMP prostřednictvím Java 
 weight: 740
-url: /cs/java/conversion/html-to-bmp/ 
+
 description: Ukázka převodního kódu Java pro formát HTML na soubor BMP. Programátoři mohou tento ukázkový kód použít k exportu tabulek Excelu a OpenOffice do BMP v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

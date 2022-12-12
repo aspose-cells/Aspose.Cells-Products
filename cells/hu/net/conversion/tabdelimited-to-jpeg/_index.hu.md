@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TABDELIMITED konvertálása JPEG formátumba a következőn keresztül: C#"
-url: /hu/net/conversion/tabdelimited-to-jpeg/
+
 description: Mintakód a tabulátorral elválasztott jpeg C# konverzióhoz. Használjon API példakódot a kötegelt tabulátorral tagolt fájlokhoz JPEG konvertáláshoz VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

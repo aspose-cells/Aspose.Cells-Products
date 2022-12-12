@@ -1,6 +1,6 @@
-﻿---
+---
 title: สร้างแผนภูมิหุ้นสูง-ต่ำ-ปิดผ่าน C#
-url: /th/net/create-stockhighlowclose-chart/
+
 description: C# โค้ดตัวอย่างสำหรับสร้างแผนภูมิหุ้นสูง-ต่ำ-ปิดไปยัง Excel โดยใช้ .NET ไลบรารี ใช้รหัสนี้เพื่อสร้างแผนภูมิหุ้นสูง-ต่ำ-ปิดไปยัง MS Excel ภายใน VB.NET, Asp.NET หรือแอปพลิเคชันที่ใช้ .NET
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

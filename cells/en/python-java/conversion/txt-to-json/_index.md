@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to JSON via Python
-url: /python-java/conversion/txt-to-json/
+
 description: Convert TXT to JSON format in Python code. Save TXT as JSON using Python.
 ---
 

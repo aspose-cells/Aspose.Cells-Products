@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してXLSBドキュメントを保護およびロックする 
 weight: 6590
-url: /ja/java/protect/xlsb/ 
+
 description: Java JSP/JSFアプリケーションおよびデスクトップアプリケーションのランタイム環境でパスワードを使用してXLSBファイルをロックするためのサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

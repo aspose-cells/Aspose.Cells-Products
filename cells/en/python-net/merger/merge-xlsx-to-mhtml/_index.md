@@ -1,6 +1,6 @@
 ---
 title: Merge XLSX to MHTML Files via Python 
-url: /python-net/merger/merge-xlsx-to-mhtml/ 
+
 description: Merge XLSX to MHTML file in Python code. Combine XLSX to MHTML file using Python.
 ---
 

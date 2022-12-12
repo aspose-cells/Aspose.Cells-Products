@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj MHTML na TSV przez Python
-url: /pl/python-java/conversion/mhtml-to-tsv/
+
 description: Przykładowy kod konwersji mhtml na tsv Python. Użyj przykładowego kodu API dla wsadowych plików mhtml do konwersji tsv w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

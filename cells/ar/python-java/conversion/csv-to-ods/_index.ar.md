@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل CSV إلى ODS عبر Python
-url: /ar/python-java/conversion/csv-to-ods/
+
 description: نموذج رمز لتحويل ملفات csv إلى ods Python. استخدم API رمز المثال لملفات دفعية csv لتحويل ods داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

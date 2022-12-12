@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to HTML via Java 
-url: /java/conversion/fods-to-html/
+
 description: Convert FODS to HTML format in Java code. Save FODS as HTML using Java.
 ---
 

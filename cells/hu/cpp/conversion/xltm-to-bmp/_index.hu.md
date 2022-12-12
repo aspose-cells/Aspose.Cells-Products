@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLTM-et BMP-vé a C++ alkalmazással 
-url: /hu/cpp/conversion/xltm-to-bmp/ 
+
 description: Minta C++ konverziós kód XLTM dokumentumhoz BMP formátumba. A programozók ezt a forráskódot használhatják kötegelt XLTM-ből BMP-be konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

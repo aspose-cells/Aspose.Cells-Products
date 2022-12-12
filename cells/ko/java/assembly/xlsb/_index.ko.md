@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java을(를) 통해 XLSB 파일로 보고서 생성 
 weight: 3560
-url: /ko/java/assembly/xlsb/ 
+
 description: Java JSP/JSF 애플리케이션 및 데스크톱 애플리케이션을 위한 Java 런타임 환경에서 XLSB 형식 보고서를 만드는 샘플 코드.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

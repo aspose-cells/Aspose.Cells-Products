@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera FODS till JPEG via Java 
-url: /sv/java/conversion/fods-to-jpeg/ 
+
 description: Exempel Java-konverteringskod för FODS-format till JPEG-fil. Programmerare kan använda den här exempelkoden för att exportera Excel- och OpenOffice-kalkylblad till JPEG inom alla webb- eller skrivbordsbaserade Java-applikationer.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

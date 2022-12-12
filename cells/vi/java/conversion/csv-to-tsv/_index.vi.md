@@ -1,7 +1,7 @@
-﻿---
+---
 title: Chuyển đổi CSV sang TSV qua Java 
 weight: 5500
-url: /vi/java/conversion/csv-to-tsv/ 
+
 description: Mã chuyển đổi Java mẫu cho định dạng CSV thành tệp TSV. Người lập trình có thể sử dụng mã ví dụ này để xuất bảng tính Excel & OpenOffice sang TSV trong bất kỳ Ứng dụng dựa trên Web hoặc Máy tính để bàn Java nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

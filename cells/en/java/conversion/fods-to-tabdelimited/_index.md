@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to TABDELIMITED via Java 
-url: /java/conversion/fods-to-tabdelimited/
+
 description: Convert FODS to TABDELIMITED format in Java code. Save FODS as TABDELIMITED using Java.
 ---
 

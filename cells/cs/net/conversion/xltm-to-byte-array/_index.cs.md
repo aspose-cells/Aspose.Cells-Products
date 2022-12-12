@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést XLTM na Byte Array přes C# 
 weight: 7690
-url: /cs/net/conversion/xltm-to-byte-array/ 
+
 description: C# Ukázkový kód pro převod XLTM na Byte Array. Tento kód použijte pro převod Excel XLTM na Byte Array v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

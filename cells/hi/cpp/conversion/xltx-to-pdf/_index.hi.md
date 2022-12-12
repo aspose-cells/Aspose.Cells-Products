@@ -1,6 +1,6 @@
-﻿---
+---
 title: XLTX को C++ एप्लिकेशन के माध्यम से PDF में बदलें 
-url: /hi/cpp/conversion/xltx-to-pdf/ 
+
 description: XLTX दस्तावेज़ के लिए PDF प्रारूप में नमूना C++ रूपांतरण कोड। प्रोग्रामर इस स्रोत कोड का उपयोग बैच XLTX से PDF रूपांतरण के लिए किसी भी C++ एप्लिकेशन में कर सकते हैं।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

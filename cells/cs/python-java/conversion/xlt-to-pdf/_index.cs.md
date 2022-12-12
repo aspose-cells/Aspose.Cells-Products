@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLT na PDF přes Python
-url: /cs/python-java/conversion/xlt-to-pdf/
+
 description: Ukázkový kód pro převod xlt na pdf Python. Použijte API ukázkový kód pro dávkový převod souborů xlt na pdf v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLSB na JSON přes Python
-url: /cs/python-java/conversion/xlsb-to-json/
+
 description: Ukázkový kód pro převod xlsb na json Python. Použijte API ukázkový kód pro dávkový převod souborů xlsb na json v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "FODS konvertálása DIF-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/fods-to-dif/
+
 description: Mintakód a takarmány-diff Python konverzióhoz. Használja a(z) API példakódot a kötegelt fod-fájlokhoz a Python alkalmazáson belüli átalakításhoz.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

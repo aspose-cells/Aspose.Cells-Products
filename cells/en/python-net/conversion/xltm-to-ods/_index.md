@@ -1,6 +1,6 @@
 ---
 title: Convert XLTM to ODS via Python
-url: /python-net/conversion/xltm-to-ods/
+
 description: Sample code for xltm to ods Python conversion. Use API example code for batch xltm files to ods conversion within Python application.
 ---
 

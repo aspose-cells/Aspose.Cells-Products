@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通過 C# 將 TSV 轉換為字節數組 
 weight: 7690
-url: /zh-hant/net/conversion/tsv-to-byte-array/ 
+
 description: C# TSV 到字節數組轉換的示例代碼。使用此代碼在 VB.NET、Asp.NET 或任何基於 .NET 的應用程序中進行 Excel TSV 到字節數組的轉換。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

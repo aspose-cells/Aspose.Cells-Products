@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Konvertálja az XLSM-et XLT-vé a következőn keresztül: C#"
-url: /hu/net/conversion/xlsm-to-xlt/
+
 description: Mintakód az xlsm–xlt C# konverzióhoz. Használjon API példakódot a kötegelt xlsm fájlok xlt konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

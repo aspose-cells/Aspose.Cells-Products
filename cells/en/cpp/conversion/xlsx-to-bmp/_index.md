@@ -1,6 +1,6 @@
 ---
 title: Convert XLSX to BMP via C++
-url: /cpp/conversion/xlsx-to-bmp/
+
 description: Convert XLSX to BMP format in C++ code. Save XLSX as BMP using C++.
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Visualizza i formati di file CSV tramite .NET 
 weight: 7690
-url: /it/net/viewer/csv/ 
+
 description: C# codice sorgente per caricare, eseguire il rendering e visualizzare documenti CSV su piattaforme .NET Framework, .NET Core, Mono o Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

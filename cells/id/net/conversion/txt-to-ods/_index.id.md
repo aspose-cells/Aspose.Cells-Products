@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan TXT ke ODS melalui C#
-url: /id/net/conversion/txt-to-ods/
+
 description: Contoh kode untuk konversi txt ke ods C#. Gunakan API kode contoh untuk file batch txt ke konversi ods dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

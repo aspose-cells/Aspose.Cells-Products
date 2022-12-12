@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLTX-et XLSB-vé a C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/xltx-to-xlsb/ 
+
 description: Minta C++ konverziós kód XLTX dokumentumhoz XLSB formátumba. A programozók ezt a forráskódot használhatják az XLTX-ből XLSB-be kötegelt konvertáláshoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

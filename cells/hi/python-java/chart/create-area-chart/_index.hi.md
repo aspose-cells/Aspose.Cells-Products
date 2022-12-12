@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python के माध्यम से क्षेत्र चार्ट बनाएं
-url: /hi/python-java/create-area-chart/
+
 description: Python Python लाइब्रेरी का उपयोग करके एक्सेल में एरिया चार्ट बनाने के लिए नमूना कोड। इस कोड का उपयोग Python आधारित एप्लिकेशन के भीतर एमएस एक्सेल में एरिया चार्ट बनाने के लिए करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

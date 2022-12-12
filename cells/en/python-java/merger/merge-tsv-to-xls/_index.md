@@ -1,6 +1,6 @@
 ---
 title: Merge TSV to XLS Files via Python 
-url: /python-java/merger/merge-tsv-to-xls/ 
+
 description: Merge TSV to XLS file in Python code. Combine TSV to XLS file using Python.
 ---
 

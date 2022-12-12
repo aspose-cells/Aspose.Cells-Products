@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLS naar MARKDOWN via C#
-url: /nl/net/conversion/xls-to-markdown/
+
 description: Voorbeeldcode voor xls om C# conversie af te waarderen. Gebruik API voorbeeldcode voor batch xls-bestanden om conversie te verlagen binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta XLTM a MD a través de C#
-url: /es/net/conversion/xltm-to-md/
+
 description: Código de muestra para la conversión de xltm a md C#. Utilice el código de ejemplo API para archivos xltm por lotes para la conversión md dentro de VB.NET, Asp.NET o cualquier aplicación basada en .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

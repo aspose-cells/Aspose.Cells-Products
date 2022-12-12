@@ -1,7 +1,7 @@
-﻿---
+---
 title: Thêm chú thích XLSM qua C++ 
 weight: 2860
-url: /vi/cpp/annotation/xlsm/ 
+
 description: C++ mã mẫu để xóa chú thích định dạng XLSM trên C++ Môi trường thời gian chạy cho Windows 32 bit, Windows 64 bit và Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

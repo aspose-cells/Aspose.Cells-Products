@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή FODS σε JSON μέσω Python
-url: /el/python-java/conversion/fods-to-json/
+
 description: Δείγμα κώδικα για μετατροπή fods σε json Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία fods για μετατροπή json εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

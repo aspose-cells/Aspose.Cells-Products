@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してNUMBERSをPNGに変換する
-url: /ja/net/conversion/numbers-to-png/
+
 description: 数値からpngC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチ番号ファイルからpngへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

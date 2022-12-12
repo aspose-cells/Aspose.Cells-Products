@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera XLSX till EMF via Python
-url: /sv/python-java/conversion/xlsx-to-emf/
+
 description: Exempelkod för konvertering från xlsx till emf Python. Använd API exempelkod för batch-xlsx-filer för att emf-konvertera i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

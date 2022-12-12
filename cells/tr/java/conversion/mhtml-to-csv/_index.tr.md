@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java aracılığıyla MHTML'yi CSV'ye dönüştürün 
 weight: 1900
-url: /tr/java/conversion/mhtml-to-csv/ 
+
 description: MHTML biçimi için CSV dosyasına örnek Java dönüştürme kodu. Programcılar, Excel ve OpenOffice elektronik tablolarını herhangi bir Web veya Masaüstü Java tabanlı Uygulamada CSV'ye aktarmak için bu örnek kodu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

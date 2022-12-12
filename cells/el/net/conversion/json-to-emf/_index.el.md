@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή JSON σε EMF μέσω C#
-url: /el/net/conversion/json-to-emf/
+
 description: Δείγμα κώδικα για μετατροπή json σε emf C#. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία json για μετατροπή emf εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

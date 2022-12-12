@@ -1,7 +1,7 @@
-﻿---
+---
 title: مستند العلامة المائية XLSM عبر Java 
 weight: 7680
-url: /ar/java/watermark/xlsm/ 
+
 description: Java نموذج كود لإضافة أو إزالة العلامة المائية إلى ملف XLSM في Java Runtime Environment for JSP / JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

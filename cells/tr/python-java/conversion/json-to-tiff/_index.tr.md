@@ -1,6 +1,6 @@
-﻿---
+---
 title: JSON'u Python aracılığıyla TIFF'ye dönüştürün
-url: /tr/python-java/conversion/json-to-tiff/
+
 description: json'dan tiff Python dönüşümüne ilişkin örnek kod. Python uygulamasında dönüştürmeyi tifflemek için toplu json dosyaları için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

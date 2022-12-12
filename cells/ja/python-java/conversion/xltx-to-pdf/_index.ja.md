@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してXLTXをPDFに変換する
-url: /ja/python-java/conversion/xltx-to-pdf/
+
 description: xltxからpdfPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチxltxファイルからpdfへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

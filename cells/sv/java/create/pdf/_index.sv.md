@@ -1,6 +1,6 @@
-﻿---
+---
 title: Skapa PDF-filer via Java 
-url: /sv/java/create-pdf/ 
+
 description: Java Exempelkod för att generera PDF-dokument. Använd den här koden för att skapa PDF-filer inom Java-baserad skrivbords- eller webbapplikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

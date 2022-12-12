@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLT-t PNG-re a(z) C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/xlt-to-png/ 
+
 description: Minta C++ konverziós kód XLT-dokumentumhoz PNG formátumba. A programozók ezt a forráskódot használhatják az XLT-ből PNG-be kötegelt konvertáláshoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

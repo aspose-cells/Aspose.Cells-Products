@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera FODS till PNG via C#
-url: /sv/net/conversion/fods-to-png/
+
 description: Exempelkod för fods till png C#-konvertering. Använd API exempelkod för batch fods-filer till png-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

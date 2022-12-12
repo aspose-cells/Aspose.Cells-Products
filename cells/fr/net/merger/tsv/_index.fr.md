@@ -1,7 +1,7 @@
-﻿---
+---
 title: Fusionner les fichiers TSV via .NET 
 weight: 1360
-url: /fr/net/merger/tsv/ 
+
 description: Code source C# pour combiner des documents TSV sur .NET Framework, .NET Core, Mono ou Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

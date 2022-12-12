@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to JPEG via Java 
-url: /java/conversion/xlsb-to-jpeg/
+
 description: Convert XLSB to JPEG format in Java code. Save XLSB as JPEG using Java.
 ---
 

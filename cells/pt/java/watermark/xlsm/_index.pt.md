@@ -1,7 +1,7 @@
-﻿---
+---
 title: Documento XLSM de marca d'água via Java 
 weight: 7680
-url: /pt/java/watermark/xlsm/ 
+
 description: Java código de amostra para adicionar ou remover marca d'água no arquivo XLSM no Java ambiente de tempo de execução para aplicativos JSP/JSF e aplicativos de desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

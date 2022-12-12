@@ -1,7 +1,7 @@
-﻿---
+---
 title: Преобразование XLSX в байтовый массив с помощью C# 
 weight: 7690
-url: /ru/net/conversion/xlsx-to-byte-array/ 
+
 description: C# Пример кода для преобразования XLSX в байтовый массив. Используйте этот код для преобразования Excel XLSX в байтовый массив в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

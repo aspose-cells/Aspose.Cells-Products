@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj CSV na SPREADSHEETML za pomocą C#
-url: /pl/net/conversion/csv-to-spreadsheetml/
+
 description: Przykładowy kod konwersji csv do arkusza kalkulacyjnego C#. Użyj przykładowego kodu API dla wsadowych plików csv do konwersji arkusza kalkulacyjnego na ml w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

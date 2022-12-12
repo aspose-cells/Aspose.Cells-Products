@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLTM naar EMF via C++ applicatie 
-url: /nl/cpp/conversion/xltm-to-emf/ 
+
 description: Voorbeeld C++-conversiecode voor XLTM-document naar EMF-indeling. Programmeurs kunnen deze broncode gebruiken voor batch-XLTM-naar-EMF-conversie binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Telusuri dokumen TXT tanpa membuka melalui .NET 
 weight: 8410
-url: /id/net/search/txt/ 
+
 description: C# kode sumber untuk mencari kata-kata dengan pola dalam file TXT pada .NET Framework, .NET Core, Mono atau Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

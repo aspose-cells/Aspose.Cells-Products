@@ -1,6 +1,6 @@
-﻿---
+---
 title: "NUMBERS konvertálása MHTML-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/numbers-to-mhtml/
+
 description: Mintakód a számok mhtml Python konverziójához. Használjon API példakódot a kötegszámfájlok mhtml konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

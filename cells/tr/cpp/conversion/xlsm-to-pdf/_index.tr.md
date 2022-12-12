@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++ uygulamasıyla XLSM'yi PDF'ye dönüştürün 
-url: /tr/cpp/conversion/xlsm-to-pdf/ 
+
 description: XLSM belgesinden PDF biçimine örnek C++ dönüştürme kodu. Programcılar, herhangi bir C++ Uygulamasında toplu XLSM'den PDF'ye dönüştürme için bu kaynak kodunu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

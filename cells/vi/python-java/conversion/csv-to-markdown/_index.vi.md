@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi CSV thành MARKDOWN qua Python
-url: /vi/python-java/conversion/csv-to-markdown/
+
 description: Mã mẫu cho csv để đánh dấu chuyển đổi Python. Sử dụng API mã mẫu cho các tệp csv hàng loạt để đánh dấu chuyển đổi trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

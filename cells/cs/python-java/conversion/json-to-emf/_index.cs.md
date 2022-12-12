@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést JSON na EMF přes Python
-url: /cs/python-java/conversion/json-to-emf/
+
 description: Ukázkový kód pro konverzi json na emf Python. Použijte ukázkový kód API pro dávkové soubory json na převod EMF v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

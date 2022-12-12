@@ -1,6 +1,6 @@
-﻿---
+---
 title: "HTML konvertálása GIF formátumba a következőn keresztül: Python"
-url: /hu/python-java/conversion/html-to-gif/
+
 description: Mintakód a html-ből gif-be való Python konverzióhoz. Használjon API példakódot kötegelt html-fájlokhoz a gif-konverzióhoz a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

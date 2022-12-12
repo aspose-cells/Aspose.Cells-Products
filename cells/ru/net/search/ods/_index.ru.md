@@ -1,7 +1,7 @@
-﻿---
+---
 title: Поиск документа ODS без открытия через .NET 
 weight: 160
-url: /ru/net/search/ods/ 
+
 description: Исходный код C# для поиска слов с шаблоном в файле ODS на платформах .NET Framework, .NET Core, Mono или Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

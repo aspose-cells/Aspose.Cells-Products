@@ -1,6 +1,6 @@
-﻿---
+---
 title: Crear gráficos de columnas a través de Python
-url: /es/python-java/create-column-chart/
+
 description: Python Código de muestra para crear gráficos de columnas en Excel usando la biblioteca Python. Use este código para crear un gráfico de columnas para MS Excel dentro de la aplicación basada en Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

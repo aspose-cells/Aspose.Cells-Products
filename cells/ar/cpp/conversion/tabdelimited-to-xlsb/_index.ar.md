@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TABDELIMITED إلى XLSB عبر تطبيق C++ 
-url: /ar/cpp/conversion/tabdelimited-to-xlsb/ 
+
 description: نموذج C++ رمز تحويل لمستند TABDELIMITED إلى تنسيق XLSB. يمكن للمبرمجين استخدام رمز المصدر هذا للتحويل الدفعي من TABDELIMITED إلى XLSB داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

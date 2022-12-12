@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET経由のウォーターマークXLSBドキュメント 
 weight: 5410
-url: /ja/net/watermark/xlsb/ 
+
 description: .NETフレームワーク、.NETコア、Mono、またはXamarinプラットフォーム上のXLSBファイルに透かしを追加または削除するためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

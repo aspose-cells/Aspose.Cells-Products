@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してXLTXをSXCに変換します
-url: /ja/net/conversion/xltx-to-sxc/
+
 description: xltxからsxcC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチxltxファイルからsxcへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

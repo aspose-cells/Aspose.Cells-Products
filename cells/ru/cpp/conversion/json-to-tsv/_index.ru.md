@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование JSON в TSV через приложение C++ 
-url: /ru/cpp/conversion/json-to-tsv/ 
+
 description: Пример кода преобразования C++ для документа JSON в формат TSV. Программисты могут использовать этот исходный код для пакетного преобразования JSON в TSV в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

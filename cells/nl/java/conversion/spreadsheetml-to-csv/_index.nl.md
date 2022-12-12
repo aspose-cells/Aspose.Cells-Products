@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer SPREADSHEETML naar CSV via Java 
-url: /nl/java/conversion/spreadsheetml-to-csv/ 
+
 description: Voorbeeld Java conversiecode voor SPREADSHEETML-indeling naar CSV-bestand. Programmeurs kunnen deze voorbeeldcode gebruiken om Excel- en OpenOffice-spreadsheets naar CSV te exporteren binnen elke web- of desktoptoepassing Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLSM naar ODS via C++ applicatie 
-url: /nl/cpp/conversion/xlsm-to-ods/ 
+
 description: Voorbeeld C++ conversiecode voor XLSM-document naar ODS-indeling. Programmeurs kunnen deze broncode gebruiken voor batch-conversie van XLSM naar ODS binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

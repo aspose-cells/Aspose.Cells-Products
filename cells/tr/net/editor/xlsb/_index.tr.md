@@ -1,6 +1,6 @@
-﻿---
+---
 title: XLSB dosyalarını .NET aracılığıyla düzenleyin 
-url: /tr/net/editor/xlsb/ 
+
 description: .NET Framework, .NET Core, Windows Azure, Mono veya Xamarin Platformlarında XLSB belgesini düzenlemek için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

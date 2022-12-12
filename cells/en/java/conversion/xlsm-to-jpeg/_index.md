@@ -1,6 +1,6 @@
 ---
 title: Convert XLSM to JPEG via Java 
-url: /java/conversion/xlsm-to-jpeg/
+
 description: Convert XLSM to JPEG format in Java code. Save XLSM as JPEG using Java.
 ---
 

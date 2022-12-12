@@ -1,7 +1,7 @@
-﻿---
+---
 title: Gere relatórios em arquivos XLSM via .NET 
 weight: 4400
-url: /pt/net/assembly/xlsm/ 
+
 description: C# código-fonte para gerar relatórios em formato XLSM em plataformas .NET Framework, .NET Core, Mono ou Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

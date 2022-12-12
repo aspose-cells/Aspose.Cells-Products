@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertera XLSM till DIF via Java 
 weight: 1940
-url: /sv/java/conversion/xlsm-to-dif/ 
+
 description: Exempel på Java-konverteringskod för XLSM-format till DIF-fil. Programmerare kan använda den här exempelkoden för att exportera Excel- och OpenOffice-kalkylblad till DIF inom alla webb- eller skrivbordsbaserade Java-applikationer.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

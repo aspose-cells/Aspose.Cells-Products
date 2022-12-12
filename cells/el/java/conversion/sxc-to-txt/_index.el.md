@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή SXC σε TXT μέσω Java 
-url: /el/java/conversion/sxc-to-txt/ 
+
 description: Δείγμα κώδικα μετατροπής Java για μορφή SXC σε αρχείο TXT. Οι προγραμματιστές μπορούν να χρησιμοποιήσουν αυτό το παράδειγμα κώδικα για να εξάγουν υπολογιστικά φύλλα Excel και OpenOffice σε TXT σε οποιαδήποτε εφαρμογή που βασίζεται στον ιστό ή στην επιφάνεια εργασίας Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

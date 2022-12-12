@@ -1,7 +1,7 @@
-﻿---
+---
 title:  .NET을(를) 통해 이미지에 대한 XLSB 문서 차트 
 weight: 8560
-url: /ko/net/chart/xlsb/ 
+
 description: C# 소스 코드를 사용하여 .NET Framework, .NET Core, Mono 또는 Xamarin Platforms의 XLSB 파일에 차트 또는 다이어그램을 그리고 변환합니다.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

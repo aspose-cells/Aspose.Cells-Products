@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést MHTML na HTML pomocí C#
-url: /cs/net/conversion/mhtml-to-html/
+
 description: Ukázkový kód pro konverzi mhtml na html C#. Použijte API ukázkový kód pro dávkový převod souborů mhtml na html v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

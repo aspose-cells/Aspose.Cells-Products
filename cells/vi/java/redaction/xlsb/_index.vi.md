@@ -1,7 +1,7 @@
-﻿---
+---
 title: Tìm kiếm và thay thế văn bản trong tài liệu XLSB qua Java 
 weight: 4590
-url: /vi/java/redaction/xlsb/ 
+
 description: Java mã mẫu để biên tập lại thông tin nhạy cảm trong tệp XLSB trên Java Môi trường thời gian chạy cho Ứng dụng JSP / JSF và Ứng dụng máy tính để bàn.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してXLSXをTXTに変換します
-url: /ja/net/conversion/xlsx-to-txt/
+
 description: xlsxからtxtC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチxlsxファイルからtxtへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

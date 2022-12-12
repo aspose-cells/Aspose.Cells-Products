@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter XLTX para TXT por meio do aplicativo C++ 
-url: /pt/cpp/conversion/xltx-to-txt/ 
+
 description: Exemplo de código de conversão C++ de documento XLTX para formato TXT. Os programadores podem usar esse código-fonte para conversão em lote de XLTX para TXT em qualquer aplicativo C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

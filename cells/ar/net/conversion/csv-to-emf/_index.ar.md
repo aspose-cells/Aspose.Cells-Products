@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل CSV إلى EMF عبر C#
-url: /ar/net/conversion/csv-to-emf/
+
 description: نموذج رمز لتحويل csv إلى emf C#. استخدم API رمز المثال لملفات csv المجمعة لتحويل emf داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

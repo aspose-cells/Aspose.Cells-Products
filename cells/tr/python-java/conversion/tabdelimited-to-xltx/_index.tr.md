@@ -1,6 +1,6 @@
-﻿---
+---
 title: TABDELIMITED'i Python üzerinden XLTX'e dönüştürün
-url: /tr/python-java/conversion/tabdelimited-to-xltx/
+
 description: xltx Python dönüşümü için sekmeyle ayrılmış örnek kod. Python uygulamasında toplu sekmeyle ayrılmış dosyalardan xltx'e dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

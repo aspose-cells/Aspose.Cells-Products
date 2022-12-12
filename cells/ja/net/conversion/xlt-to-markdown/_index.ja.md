@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してXLTをMARKDOWNに変換します
-url: /ja/net/conversion/xlt-to-markdown/
+
 description: xltからマークダウンC#への変換のサンプルコード。バッチxltファイルのAPIサンプルコードを使用して、VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内で変換をマークダウンします。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

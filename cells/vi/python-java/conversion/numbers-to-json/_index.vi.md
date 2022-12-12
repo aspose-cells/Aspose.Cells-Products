@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi NUMBERS thành JSON qua Python
-url: /vi/python-java/conversion/numbers-to-json/
+
 description: Mã mẫu cho chuyển đổi số thành json Python. Sử dụng mã mẫu API cho các tệp số lô để chuyển đổi json trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

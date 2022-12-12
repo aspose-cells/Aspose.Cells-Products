@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to EMF via Python
-url: /python-java/conversion/json-to-emf/
+
 description: Convert JSON to EMF format in Python code. Save JSON as EMF using Python.
 ---
 

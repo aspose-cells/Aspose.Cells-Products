@@ -1,7 +1,7 @@
-﻿---
+---
 title: Fusionner les fichiers MHTML via .NET 
 weight: 2610
-url: /fr/net/merger/mhtml/ 
+
 description: Code source C# pour combiner des documents MHTML sur .NET Framework, .NET Core, Mono ou Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

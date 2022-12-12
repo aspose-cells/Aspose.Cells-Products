@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง XLS เป็น XLAM ผ่าน Java 
-url: /th/java/conversion/xls-to-xlam/ 
+
 description: ตัวอย่างโค้ดการแปลง Java สำหรับรูปแบบ XLS เป็นไฟล์ XLAM โปรแกรมเมอร์สามารถใช้โค้ดตัวอย่างนี้เพื่อส่งออกสเปรดชีต Excel & OpenOffice ไปยัง XLAM ภายในแอปพลิเคชันบนเว็บหรือเดสก์ท็อป Java
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

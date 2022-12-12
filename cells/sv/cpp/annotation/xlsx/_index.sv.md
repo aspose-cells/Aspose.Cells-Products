@@ -1,7 +1,7 @@
-﻿---
+---
 title: Lägg till XLSX-anteckning via C++ 
 weight: 5260
-url: /sv/cpp/annotation/xlsx/ 
+
 description: C++ exempelkod för att lägga till eller ta bort kommentarer i XLSX-format i C++ Runtime Environment för Windows 32-bitars, Windows 64-bitars och Linux 64-bitars.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

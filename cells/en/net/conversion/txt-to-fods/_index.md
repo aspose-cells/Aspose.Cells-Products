@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to FODS via C#
-url: /net/conversion/txt-to-fods/
+
 description: Convert TXT to FODS format in C# code. Save TXT as FODS using VB.NET, Asp.NET or any .NET based application.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: FODS'u C# üzerinden TIFF'ye dönüştürün
-url: /tr/net/conversion/fods-to-tiff/
+
 description: C# dönüşümünü tiff yapmak için yemler için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde dönüşüm tiff için toplu dosya dosyaları için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

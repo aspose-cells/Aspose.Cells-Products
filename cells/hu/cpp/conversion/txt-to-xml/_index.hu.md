@@ -1,6 +1,6 @@
-﻿---
+---
 title: TXT konvertálása XML-re a(z) C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/txt-to-xml/ 
+
 description: Minta C++ konverziós kód TXT-dokumentumhoz XML formátumba. A programozók ezt a forráskódot használhatják kötegelt TXT-ből XML-be konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

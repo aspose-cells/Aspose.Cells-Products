@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή TSV σε SPREADSHEETML μέσω Python
-url: /el/python-java/conversion/tsv-to-spreadsheetml/
+
 description: Δείγμα κώδικα για μετατροπή tsv σε υπολογιστικό φύλλο Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία tsv για μετατροπή υπολογιστικού φύλλου εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 Python 將 TXT 轉換為 DOCX
-url: /zh-hant/python-java/conversion/txt-to-docx/
+
 description: txt 到 docx Python 轉換的示例代碼。在 Python 應用程序中使用 API 示例代碼將批處理 txt 文件轉換為 docx。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

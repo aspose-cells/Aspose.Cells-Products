@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLSB na TABDELIMITED přes C#
-url: /cs/net/conversion/xlsb-to-tabdelimited/
+
 description: Ukázkový kód pro převod xlsb na C# oddělený tabulátory. Použijte API ukázkový kód pro dávkové soubory xlsb na převod oddělený tabulátory v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

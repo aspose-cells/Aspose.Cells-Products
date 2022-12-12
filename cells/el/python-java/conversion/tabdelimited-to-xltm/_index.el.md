@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή TABDELIMITED σε XLTM μέσω Python
-url: /el/python-java/conversion/tabdelimited-to-xltm/
+
 description: Δείγμα κώδικα για μετατροπή οριοθετημένης καρτέλας σε xltm Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικές μετατροπές οριοθετημένων καρτελών σε xltm εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

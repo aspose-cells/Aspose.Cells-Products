@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to DIF via C#
-url: /net/conversion/xltx-to-dif/
+
 description: Convert XLTX to DIF format in C# code. Save XLTX as DIF using VB.NET, Asp.NET or any .NET based application.
 ---
 

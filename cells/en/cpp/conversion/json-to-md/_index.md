@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to MD via C++
-url: /cpp/conversion/json-to-md/
+
 description: Convert JSON to MD format in C++ code. Save JSON as MD using C++.
 ---
 

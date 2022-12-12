@@ -1,6 +1,6 @@
-﻿---
+---
 title: एक्सएलटी को एमएचटीएमएल में C# के माध्यम से कनवर्ट करें
-url: /hi/net/conversion/xlt-to-mhtml/
+
 description: xlt से mhtml C# रूपांतरण के लिए नमूना कोड। VB.NET, Asp.NET या किसी .NET आधारित एप्लिकेशन के अंतर्गत बैच xlt फ़ाइलों से mhtml रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

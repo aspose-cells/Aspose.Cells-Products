@@ -1,7 +1,7 @@
-﻿---
+---
 title: Chránit a uzamknout dokument XLSB prostřednictvím .NET 
 weight: 5920
-url: /cs/net/protect/xlsb/ 
+
 description: C# zdrojový kód k uzamčení souboru XLSB pomocí hesla na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

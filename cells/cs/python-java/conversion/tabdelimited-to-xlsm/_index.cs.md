@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TABDELIMITED na XLSM přes Python
-url: /cs/python-java/conversion/tabdelimited-to-xlsm/
+
 description: Ukázkový kód pro převod tabdelimited na xlsm Python. Použijte API ukázkový kód pro dávkový převod souborů oddělených tabulátory na xlsm v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

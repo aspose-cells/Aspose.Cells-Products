@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLTM إلى HTML عبر تطبيق C++ 
-url: /ar/cpp/conversion/xltm-to-html/ 
+
 description: نموذج C++ رمز تحويل لمستند XLTM إلى تنسيق HTML. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل دفعة XLTM إلى HTML داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

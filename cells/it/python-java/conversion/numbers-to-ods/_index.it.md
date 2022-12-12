@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converti NUMBERS in ODS tramite Python
-url: /it/python-java/conversion/numbers-to-ods/
+
 description: Codice di esempio per la conversione da numeri a ods Python. Usa il codice di esempio API per la conversione dei file dei numeri di lotto in ods all'interno dell'applicazione Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

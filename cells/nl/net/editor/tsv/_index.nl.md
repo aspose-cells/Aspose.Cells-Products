@@ -1,6 +1,6 @@
-﻿---
+---
 title: Bewerk TSV-bestanden via .NET 
-url: /nl/net/editor/tsv/ 
+
 description: C# broncode om TSV-document te bewerken op .NET Framework, .NET Core, Windows Azure, Mono of Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

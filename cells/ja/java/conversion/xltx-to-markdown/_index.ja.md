@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してXLTXをMARKDOWNに変換します 
-url: /ja/java/conversion/xltx-to-markdown/ 
+
 description: XLTX形式からMARKDOWNファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートをWebまたはデスクトップJavaベースのアプリケーション内のMARKDOWNにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

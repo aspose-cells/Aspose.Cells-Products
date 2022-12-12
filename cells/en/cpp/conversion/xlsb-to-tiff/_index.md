@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to TIFF via C++
-url: /cpp/conversion/xlsb-to-tiff/
+
 description: Convert XLSB to TIFF format in C++ code. Save XLSB as TIFF using C++.
 ---
 

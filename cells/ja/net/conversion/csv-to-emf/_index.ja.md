@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してCSVをEMFに変換する
-url: /ja/net/conversion/csv-to-emf/
+
 description: csvからemfC#への変換のサンプルコード。バッチcsvファイルのAPIサンプルコードを使用して、VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内で変換をemfします。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SPREADSHEETML konvertálása FODS-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/spreadsheetml-to-fods/
+
 description: Mintakód a táblázatkezelőből a fods Python konverziójához. Használjon API példakódot a kötegelt táblázatkezelő fájlok konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

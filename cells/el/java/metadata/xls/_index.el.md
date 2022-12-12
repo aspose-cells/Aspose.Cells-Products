@@ -1,7 +1,7 @@
-﻿---
+---
 title: Επεξεργασία ή προβολή μεταδεδομένων αρχείων XLS μέσω Java 
 weight: 730
-url: /el/java/metadata/xls/ 
+
 description: Java δείγμα κώδικα για επεξεργασία ή προβολή μεταδεδομένων μορφής XLS στο Java Runtime Environment για JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

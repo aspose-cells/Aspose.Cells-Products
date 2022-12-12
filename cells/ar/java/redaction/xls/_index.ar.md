@@ -1,7 +1,7 @@
-﻿---
+---
 title: البحث عن نص واستبداله في مستند XLS عبر Java 
 weight: 7900
-url: /ar/java/redaction/xls/ 
+
 description: Java نموذج رمز لتنقيح المعلومات الحساسة في ملف XLS في Java Runtime Environment لتطبيق JSP / JSF وتطبيقات سطح المكتب.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

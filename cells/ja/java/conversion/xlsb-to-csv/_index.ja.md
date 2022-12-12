@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してXLSBをCSVに変換する 
 weight: 4800
-url: /ja/java/conversion/xlsb-to-csv/ 
+
 description: XLSB形式からCSVファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、WebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをCSVにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

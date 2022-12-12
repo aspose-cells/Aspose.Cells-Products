@@ -1,6 +1,6 @@
 ---
 title: Convert XLSM to EMF via Python
-url: /python-java/conversion/xlsm-to-emf/
+
 description: Convert XLSM to EMF format in Python code. Save XLSM as EMF using Python.
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET aracılığıyla XLSX belgesinin kilidini açın 
 weight: 2040
-url: /tr/net/unlock/xlsx/ 
+
 description: .NET Framework, .NET Core, Mono veya Xamarin Platformlarında parola korumalı XLSX dosyasının kilidini açmak için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

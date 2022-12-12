@@ -1,7 +1,7 @@
-﻿---
+---
 title: Feuille de calcul Excel Android API - Aspose 
 weight: 6510
-url: /fr/android-java/ 
+
 description: Bibliothèque de feuilles de calcul Android pour créer des fichiers Excel en lecture, écriture et analyse. Une feuille de calcul API pour le développement d'applications mobiles
 ---
 {{< blocks/products/pf/main-wrap-class >}}

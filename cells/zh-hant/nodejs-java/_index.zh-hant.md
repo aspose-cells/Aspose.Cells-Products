@@ -1,7 +1,7 @@
-﻿---
+---
 title: Excel 電子表格的 Node.js API - Aspose 
 weight: 3120
-url: /zh-hant/nodejs-java/ 
+
 description: 通過 Node.js 庫處理 Excel 文件格式。在 Windows、macOS 和 Linux 上通過 Node.js 讀寫渲染和轉換 XLS XLSX XLSB XLTX XLTM XLSM XML ODS CSV 和更多格式
 ---
 {{< blocks/products/pf/main-wrap-class >}}

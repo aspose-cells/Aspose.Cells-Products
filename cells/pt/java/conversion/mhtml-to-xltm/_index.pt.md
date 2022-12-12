@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converter MHTML para XLTM via Java 
 weight: 1230
-url: /pt/java/conversion/mhtml-to-xltm/ 
+
 description: Exemplo de código de conversão Java para formato MHTML para arquivo XLTM. Os programadores podem usar este código de exemplo para exportar planilhas do Excel e OpenOffice para XLTM em qualquer aplicativo baseado na Web ou Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

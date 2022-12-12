@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してXLSMをXLSに変換します 
 weight: 1080
-url: /ja/java/conversion/xlsm-to-xls/ 
+
 description: XLSM形式からXLSファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のXLSにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

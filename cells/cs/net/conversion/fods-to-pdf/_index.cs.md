@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést FODS na PDF přes C#
-url: /cs/net/conversion/fods-to-pdf/
+
 description: Ukázkový kód pro převod fod na pdf C#. Použijte API ukázkový kód pro dávkové převody fods souborů do PDF v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

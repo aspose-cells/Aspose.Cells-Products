@@ -1,6 +1,6 @@
 ---
 title: Merge NUMBERS to XLSX Files via Java 
-url: /java/merger/merge-numbers-to-xlsx/ 
+
 description: Merge NUMBERS to XLSX file in Java code. Combine NUMBERS to XLSX file using Java based desktop or web application.
 ---
 

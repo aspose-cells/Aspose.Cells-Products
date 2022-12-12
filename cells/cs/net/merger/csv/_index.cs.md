@@ -1,7 +1,7 @@
-﻿---
+---
 title: Sloučit soubory CSV přes .NET 
 weight: 6450
-url: /cs/net/merger/csv/ 
+
 description: Zdrojový kód C# pro kombinaci dokumentů CSV na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

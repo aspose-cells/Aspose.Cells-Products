@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++ uygulaması aracılığıyla ODS'yi XLAM'a dönüştürün 
-url: /tr/cpp/conversion/ods-to-xlam/ 
+
 description: ODS belgesi için XLAM biçimine örnek C++ dönüştürme kodu. Programcılar, herhangi bir C++ Uygulamasında toplu ODS'den XLAM'e dönüştürme için bu kaynak kodunu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLS-t JPG-vé a C++ alkalmazással 
-url: /hu/cpp/conversion/xls-to-jpg/ 
+
 description: Minta C++ konverziós kód XLS-dokumentumhoz JPG formátumba. A programozók ezt a forráskódot használhatják kötegelt XLS-ből JPG-vé konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

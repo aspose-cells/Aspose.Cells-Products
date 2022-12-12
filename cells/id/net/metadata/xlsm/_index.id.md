@@ -1,7 +1,7 @@
-﻿---
+---
 title: Lihat atau Edit Metadata File XLSM melalui .NET 
 weight: 5590
-url: /id/net/metadata/xlsm/ 
+
 description: C# kode sumber untuk mengedit atau melihat metadata format XLSM pada Platform .NET Framework, .NET Core, Mono atau Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

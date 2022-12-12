@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to XLAM via Java 
-url: /java/conversion/xltx-to-xlam/
+
 description: Convert XLTX to XLAM format in Java code. Save XLTX as XLAM using Java.
 ---
 

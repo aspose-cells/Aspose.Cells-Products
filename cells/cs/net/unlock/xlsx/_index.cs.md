@@ -1,7 +1,7 @@
-﻿---
+---
 title: Odemknout dokument XLSX přes .NET 
 weight: 2040
-url: /cs/net/unlock/xlsx/ 
+
 description: C# zdrojový kód k odemknutí heslem chráněného souboru XLSX na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

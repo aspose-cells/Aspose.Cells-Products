@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja a TXT-t XLSB-vé a C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/txt-to-xlsb/ 
+
 description: Minta C++ konverziós kód a TXT dokumentumhoz XLSB formátumba. A programozók ezt a forráskódot használhatják a kötegelt TXT-ből XLSB-vé konvertáláshoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

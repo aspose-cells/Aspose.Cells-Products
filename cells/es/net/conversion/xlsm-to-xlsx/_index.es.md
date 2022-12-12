@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta XLSM a XLSX a través de C#
-url: /es/net/conversion/xlsm-to-xlsx/
+
 description: Código de muestra para la conversión de xlsm a xlsx C#. Utilice el código de ejemplo API para la conversión por lotes de archivos xlsm a xlsx dentro de VB.NET, Asp.NET o cualquier aplicación basada en .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

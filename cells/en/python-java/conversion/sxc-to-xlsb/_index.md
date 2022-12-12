@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to XLSB via Python
-url: /python-java/conversion/sxc-to-xlsb/
+
 description: Convert SXC to XLSB format in Python code. Save SXC as XLSB using Python.
 ---
 

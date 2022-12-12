@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera XLSX till JSON via C++-appen 
-url: /sv/cpp/conversion/xlsx-to-json/ 
+
 description: Exempel på C++-konverteringskod för XLSX-dokument till JSON-format. Programmerare kan använda den här källkoden för batchkonvertering av XLSX till JSON inom alla C++-program.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

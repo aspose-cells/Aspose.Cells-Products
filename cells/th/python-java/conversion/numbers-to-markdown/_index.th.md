@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง NUMBERS เป็น MARKDOWN ผ่าน Python
-url: /th/python-java/conversion/numbers-to-markdown/
+
 description: โค้ดตัวอย่างสำหรับตัวเลขที่จะมาร์กดาวน์ Python การแปลง ใช้โค้ดตัวอย่าง API สำหรับไฟล์หมายเลขแบทช์เพื่อมาร์กดาวน์การแปลงภายในแอปพลิเคชัน Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

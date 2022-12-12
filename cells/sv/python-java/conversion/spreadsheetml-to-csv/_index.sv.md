@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera SPREADSHEETML till CSV via Python
-url: /sv/python-java/conversion/spreadsheetml-to-csv/
+
 description: Exempelkod för konvertering från kalkylarkml till csv Python. Använd API exempelkod för batch-kalkylarkml-filer till csv-konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

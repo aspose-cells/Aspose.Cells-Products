@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLTM konvertálása TSV-vé a következőn keresztül: Java "
 weight: 9480
-url: /hu/java/conversion/xltm-to-tsv/ 
+
 description: Minta Java konverziós kód az XLTM formátumhoz TSV-fájllá. A programozók ezt a példakódot használhatják Excel és OpenOffice táblázatok exportálására TSV-be bármely web- vagy asztali Java alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

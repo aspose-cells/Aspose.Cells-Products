@@ -1,7 +1,7 @@
-﻿---
+---
 title: C#を介してXLTXをバイト配列に変換します 
 weight: 7690
-url: /ja/net/conversion/xltx-to-byte-array/ 
+
 description: C#XLTXからバイト配列への変換のサンプルコード。このコードは、VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのExcelXLTXからバイトアレイへの変換に使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

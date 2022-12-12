@@ -1,6 +1,6 @@
-﻿---
+---
 title: Excel-bestand annotaties via Java
-url: /nl/java/annotation/
+
 description: Gegevensannotatie van Excel- en OpenOffice-spreadsheets toevoegen of verwijderen met Java-bibliotheek.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Wyszukaj i zamień tekst w dokumencie ODS za pomocą Java 
 weight: 9210
-url: /pl/java/redaction/ods/ 
+
 description: Java przykładowy kod do redagowania poufnych informacji w pliku ODS w Java środowisku wykonawczym dla aplikacji JSP/JSF i aplikacji komputerowych.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

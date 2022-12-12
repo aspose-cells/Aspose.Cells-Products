@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++アプリケーションを介してCSVをEMFに変換する 
 weight: 6560
-url: /ja/cpp/conversion/csv-to-emf/ 
+
 description: CSVドキュメントからEMF形式へのサンプルC++変換コード。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でCSVからEMFへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

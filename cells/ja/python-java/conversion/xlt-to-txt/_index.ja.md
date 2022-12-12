@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してXLTをTXTに変換します
-url: /ja/python-java/conversion/xlt-to-txt/
+
 description: xltからtxtPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチxltファイルからtxtへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

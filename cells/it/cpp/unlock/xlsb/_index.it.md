@@ -1,7 +1,7 @@
-﻿---
+---
 title: Sblocca il documento XLSB tramite C++ 
 weight: 7420
-url: /it/cpp/unlock/xlsb/ 
+
 description: C++ codice di esempio per sbloccare il file XLSB protetto da password su C++ Runtime Environment per Windows 32 bit, Windows 64 bit e Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

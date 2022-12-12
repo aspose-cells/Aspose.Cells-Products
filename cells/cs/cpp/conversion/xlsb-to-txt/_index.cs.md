@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte XLSB na TXT pomocí aplikace C++ 
-url: /cs/cpp/conversion/xlsb-to-txt/ 
+
 description: Ukázka převodního kódu C++ pro dokument XLSB na formát TXT. Programátoři mohou použít tento zdrojový kód pro dávkový převod XLSB na TXT v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

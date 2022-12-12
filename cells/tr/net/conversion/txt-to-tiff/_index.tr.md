@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla TXT'yi TIFF'ye dönüştürün
-url: /tr/net/conversion/txt-to-tiff/
+
 description: txt'den tiff'e C# dönüşümü için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde dönüşüm tiff için toplu txt dosyaları için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

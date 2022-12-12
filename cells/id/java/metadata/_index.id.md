@@ -1,6 +1,6 @@
-﻿---
+---
 title: Kelola Metadata File Excel melalui Java
-url: /id/java/metadata/
+
 description: Lihat, tambah, edit, hapus, atau ekstrak metadata file Excel hanya dengan beberapa baris Java kode
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

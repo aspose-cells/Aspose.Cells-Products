@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konwertuj XLT na tablicę bajtów za pomocą C# 
 weight: 7690
-url: /pl/net/conversion/xlt-to-byte-array/ 
+
 description: C# Przykładowy kod konwersji XLT na tablicę bajtów. Użyj tego kodu do konwersji Excel XLT na Byte Array w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

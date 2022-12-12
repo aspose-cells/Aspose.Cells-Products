@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to TIFF via Java 
-url: /java/conversion/tabdelimited-to-tiff/
+
 description: Convert TABDELIMITED to TIFF format in Java code. Save TABDELIMITED as TIFF using Java.
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertálja a CSV-t BMP-vé a C++ alkalmazáson keresztül 
 weight: 4890
-url: /hu/cpp/conversion/csv-to-bmp/ 
+
 description: Minta C++ konverziós kód a CSV-dokumentumhoz BMP formátumba. A programozók ezt a forráskódot használhatják kötegelt CSV-ből BMP-vé konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

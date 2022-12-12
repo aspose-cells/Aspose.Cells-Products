@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera XLSM till TXT via Python
-url: /sv/python-java/conversion/xlsm-to-txt/
+
 description: Exempelkod för konvertering av xlsm till txt Python. Använd API exempelkod för batch-xlsm-filer till txt-konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

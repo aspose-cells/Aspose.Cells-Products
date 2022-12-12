@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to JPG via C#
-url: /net/conversion/txt-to-jpg/
+
 description: Convert TXT to JPG format in C# code. Save TXT as JPG using VB.NET, Asp.NET or any .NET based application.
 ---
 

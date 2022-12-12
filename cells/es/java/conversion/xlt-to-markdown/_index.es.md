@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta XLT a MARKDOWN a través de Java 
-url: /es/java/conversion/xlt-to-markdown/ 
+
 description: Ejemplo de código de conversión Java para formato XLT a archivo MARKDOWN. Los programadores pueden usar este código de ejemplo para exportar hojas de cálculo de Excel y OpenOffice a MARKDOWN dentro de cualquier aplicación basada en Web o escritorio Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

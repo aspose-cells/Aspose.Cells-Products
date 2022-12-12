@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera FODS till XPS via Python
-url: /sv/python-java/conversion/fods-to-xps/
+
 description: Exempelkod för fods till xps Python konvertering. Använd API exempelkod för batch fods-filer till xps-konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

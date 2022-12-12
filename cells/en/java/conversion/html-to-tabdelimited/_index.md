@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to TABDELIMITED via Java 
-url: /java/conversion/html-to-tabdelimited/
+
 description: Convert HTML to TABDELIMITED format in Java code. Save HTML as TABDELIMITED using Java.
 ---
 

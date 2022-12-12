@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل CSV إلى XML عبر تطبيق C++ 
-url: /ar/cpp/conversion/csv-to-xml/ 
+
 description: نموذج C++ رمز التحويل لمستند CSV إلى تنسيق XML. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل CSV إلى XML في أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

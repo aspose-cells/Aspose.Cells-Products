@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to FODS via Java 
-url: /java/conversion/xlsb-to-fods/
+
 description: Convert XLSB to FODS format in Java code. Save XLSB as FODS using Java.
 ---
 

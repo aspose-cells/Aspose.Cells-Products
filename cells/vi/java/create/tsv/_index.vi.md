@@ -1,6 +1,6 @@
-﻿---
+---
 title: Tạo Tệp TSV qua Java 
-url: /vi/java/create-tsv/ 
+
 description: Java Mã mẫu để tạo tài liệu TSV. Sử dụng mã này để tạo tệp TSV trong ứng dụng web hoặc máy tính để bàn dựa trên Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

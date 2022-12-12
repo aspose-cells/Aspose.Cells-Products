@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj SPREADSHEETML na MARKDOWN za pomocą C#
-url: /pl/net/conversion/spreadsheetml-to-markdown/
+
 description: Przykładowy kod dla konwersji arkusza kalkulacyjnego ml do przeceny C#. Użyj przykładowego kodu API dla wsadowych plików arkusza kalkulacyjnego w celu konwersji przecen w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

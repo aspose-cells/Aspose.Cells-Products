@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介して開かずにTSVドキュメントを検索する 
 weight: 4940
-url: /ja/java/search/tsv/ 
+
 description: JSP/JSFアプリケーションおよびデスクトップアプリケーションのJavaランタイム環境でTSVファイル内のパターンを持つ単語を検索するためのJavaサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

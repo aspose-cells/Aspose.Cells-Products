@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to GIF via C++
-url: /cpp/conversion/json-to-gif/
+
 description: Convert JSON to GIF format in C++ code. Save JSON as GIF using C++.
 ---
 

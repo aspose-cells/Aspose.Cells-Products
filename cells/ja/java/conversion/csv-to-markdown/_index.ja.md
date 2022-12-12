@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してCSVをMARKDOWNに変換します 
-url: /ja/java/conversion/csv-to-markdown/ 
+
 description: CSV形式のサンプルJava変換コードからMARKDOWNファイルへ。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートをWebまたはデスクトップJavaベースのアプリケーション内のMARKDOWNにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

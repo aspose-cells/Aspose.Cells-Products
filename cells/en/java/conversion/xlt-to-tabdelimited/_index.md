@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to TABDELIMITED via Java 
-url: /java/conversion/xlt-to-tabdelimited/
+
 description: Convert XLT to TABDELIMITED format in Java code. Save XLT as TABDELIMITED using Java.
 ---
 

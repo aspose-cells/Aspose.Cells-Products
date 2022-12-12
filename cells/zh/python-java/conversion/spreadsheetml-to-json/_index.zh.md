@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 Python 将 SPREADSHEETML 转换为 JSON
-url: /zh/python-java/conversion/spreadsheetml-to-json/
+
 description: 电子表格到 json Python 转换的示例代码。在 Python 应用程序中使用 API 示例代码将电子表格文件批量转换为 json。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

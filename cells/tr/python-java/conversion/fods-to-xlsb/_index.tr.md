@@ -1,6 +1,6 @@
-﻿---
+---
 title: FODS'u Python aracılığıyla XLSB'ye dönüştürün
-url: /tr/python-java/conversion/fods-to-xlsb/
+
 description: Fos'tan xlsb'ye Python dönüştürme için örnek kod. Python uygulamasında toplu dosya dosyalarını xlsb'ye dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

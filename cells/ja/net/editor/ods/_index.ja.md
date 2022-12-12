@@ -1,6 +1,6 @@
-﻿---
+---
 title: .NETを介してODSファイルを編集する 
-url: /ja/net/editor/ods/ 
+
 description: .NETフレームワーク、.NETコア、Windows Azure、Mono、またはXamarinプラットフォームでODSドキュメントを編集するためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Fusionner les fichiers MHT via .NET 
-url: /fr/net/merger/mht/ 
+
 description: Essayez nos API de fusion de messages sur site pour combiner des documents MHT sur les plates-formes .NET Framework, .NET Core et Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

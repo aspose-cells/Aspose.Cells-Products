@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi HTML ke MD melalui Java 
-url: /id/java/conversion/html-to-md/ 
+
 description: Contoh Java kode konversi untuk format HTML ke file MD. Pemrogram dapat menggunakan kode contoh ini untuk mengekspor spreadsheet Excel & OpenOffice ke MD dalam Aplikasi berbasis Web atau Desktop Java apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

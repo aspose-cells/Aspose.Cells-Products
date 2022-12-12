@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование SPREADSHETML в FODS через C#
-url: /ru/net/conversion/spreadsheetml-to-fods/
+
 description: Пример кода для преобразования электронной таблицыml в fods C#. Используйте пример кода API для пакетного преобразования файлов электронных таблиц в fods в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

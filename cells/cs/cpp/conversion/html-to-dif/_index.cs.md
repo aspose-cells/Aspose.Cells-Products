@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převeďte HTML na DIF pomocí aplikace C++ 
 weight: 4790
-url: /cs/cpp/conversion/html-to-dif/ 
+
 description: Ukázka převodního kódu C++ pro dokument HTML na formát DIF. Programátoři mohou tento zdrojový kód použít pro dávkový převod HTML na DIF v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

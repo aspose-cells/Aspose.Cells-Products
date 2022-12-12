@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to CSV via Python
-url: /python-net/conversion/excel-to-csv/
+
 description: Sample code for excel to csv Python conversion. Use API example code for batch excel files to csv conversion within Python application.
 ---
 

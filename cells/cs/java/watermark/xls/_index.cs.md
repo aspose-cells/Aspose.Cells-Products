@@ -1,7 +1,7 @@
-﻿---
+---
 title: Vodoznak XLS dokumentu prostřednictvím Java 
 weight: 2210
-url: /cs/java/watermark/xls/ 
+
 description: Java ukázkový kód pro přidání nebo odstranění vodoznaku do souboru XLS v Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

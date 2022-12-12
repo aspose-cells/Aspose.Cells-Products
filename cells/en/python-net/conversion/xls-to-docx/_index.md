@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to DOCX via Python
-url: /python-net/conversion/xls-to-docx/
+
 description: Sample code for xls to docx Python conversion. Use API example code for batch xls files to docx conversion within Python application.
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Generovat sestavy v souborech XLS prostřednictvím .NET 
 weight: 1700
-url: /cs/net/assembly/xls/ 
+
 description: C# zdrojový kód pro generování sestav ve formátu XLS na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

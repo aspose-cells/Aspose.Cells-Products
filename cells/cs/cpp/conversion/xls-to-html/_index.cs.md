@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převeďte XLS na HTML pomocí aplikace C++ 
 weight: 2680
-url: /cs/cpp/conversion/xls-to-html/ 
+
 description: Ukázka převodního kódu C++ pro dokument XLS do formátu HTML. Programátoři mohou použít tento zdrojový kód pro dávkovou konverzi XLS do HTML v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してXLTMをPNGに変換します 
 weight: 7310
-url: /ja/java/conversion/xltm-to-png/ 
+
 description: XLTM形式のPNGファイルへのJava変換コードのサンプル。プログラマーは、このサンプルコードを使用して、WebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをPNGにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

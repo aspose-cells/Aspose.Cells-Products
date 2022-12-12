@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést ODS na XLS přes Python
-url: /cs/python-java/conversion/ods-to-xls/
+
 description: Ukázkový kód pro převod z ods na xls Python. Použijte API ukázkový kód pro dávkový převod souborů ods na xls v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

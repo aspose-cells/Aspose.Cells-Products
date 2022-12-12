@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to PNG via Python
-url: /python-java/conversion/xlt-to-png/
+
 description: Convert XLT to PNG format in Python code. Save XLT as PNG using Python.
 ---
 

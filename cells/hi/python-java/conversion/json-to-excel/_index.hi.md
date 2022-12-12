@@ -1,6 +1,6 @@
-﻿---
+---
 title: JSON को Python के माध्यम से EXCEL में बदलें
-url: /hi/python-java/conversion/json-to-excel/
+
 description: Python रूपांतरण को उत्कृष्ट बनाने के लिए json के लिए नमूना कोड। Python एप्लिकेशन के भीतर रूपांतरण को उत्कृष्ट बनाने के लिए बैच json फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

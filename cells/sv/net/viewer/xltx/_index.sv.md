@@ -1,7 +1,7 @@
-﻿---
+---
 title: Visa XLTX-filformat via .NET 
 weight: 7870
-url: /sv/net/viewer/xltx/ 
+
 description: C# källkod för att ladda, rendera och visa XLTX-dokument på .NET Framework, .NET Core, Mono eller Xamarin-plattformar.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

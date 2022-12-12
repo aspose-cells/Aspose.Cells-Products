@@ -1,7 +1,7 @@
-﻿---
+---
 title: جدول بيانات Excel PHP API - Aspose 
 weight: 3660
-url: /ar/php-java/ 
+
 description: جدول بيانات PHP Excel API لقراءة الكتابة وتحويل XLS XLSX CSV TSV HTML ODS SpreadsheetML وجميع تنسيقات Excel 97-2016. تصدير جداول البيانات إلى تنسيقات متعددة
 ---
 {{< blocks/products/pf/main-wrap-class >}}

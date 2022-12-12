@@ -1,7 +1,7 @@
-﻿---
+---
 title: Bekijk XLTM-bestandsindelingen via .NET 
 weight: 430
-url: /nl/net/viewer/xltm/ 
+
 description: C# broncode voor het laden, weergeven en weergeven van XLTM-documenten op .NET Framework-, .NET Core-, Mono- of Xamarin-platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

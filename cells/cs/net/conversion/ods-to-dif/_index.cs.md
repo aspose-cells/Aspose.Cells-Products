@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést ODS na DIF prostřednictvím C#
-url: /cs/net/conversion/ods-to-dif/
+
 description: Ukázkový kód pro převod ods na rozdíl C#. Použijte API ukázkový kód pro dávkové soubory ods pro převod převodu v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta XLSM a BMP a través de C#
-url: /es/net/conversion/xlsm-to-bmp/
+
 description: Código de muestra para la conversión de xlsm a bmp C#. Use código de ejemplo API para archivos xlsm por lotes para la conversión bmp dentro de VB.NET, Asp.NET o cualquier aplicación basada en .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Python Excel 스프레드시트 API - Aspose 
 weight: 2820
-url: /ko/python/ 
+
 description: Python 스프레드시트 라이브러리를 사용하여 Excel 파일 읽기 및 구문 분석을 생성합니다.
 ---
 {{< blocks/products/pf/main-wrap-class >}}

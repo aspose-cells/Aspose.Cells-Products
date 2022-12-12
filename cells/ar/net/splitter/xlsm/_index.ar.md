@@ -1,7 +1,7 @@
-﻿---
+---
 title: تقسيم ملفات XLSM عبر .NET 
 weight: 8890
-url: /ar/net/splitter/xlsm/ 
+
 description: C# شفرة المصدر لتقسيم مستندات XLSM على .NET Framework أو .NET Core أو Mono أو أنظمة Xamarin الأساسية.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

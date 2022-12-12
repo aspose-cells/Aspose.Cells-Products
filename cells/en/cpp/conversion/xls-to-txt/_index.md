@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to TXT via C++
-url: /cpp/conversion/xls-to-txt/
+
 description: Convert XLS to TXT format in C++ code. Save XLS as TXT using C++.
 ---
 

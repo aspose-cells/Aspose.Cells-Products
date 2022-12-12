@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل ODS إلى TABDELIMITED عبر تطبيق C++ 
-url: /ar/cpp/conversion/ods-to-tabdelimited/ 
+
 description: نموذج C++ رمز تحويل لمستند ODS إلى تنسيق TABDELIMITED. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل دفعة ODS إلى TABDELIMITED داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

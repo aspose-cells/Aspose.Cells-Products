@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++ के द्वारा HTML फ़ाइलें मर्ज करें 
-url: /hi/cpp/merger/html/ 
+
 description: C++ विंडोज 32 बिट, विंडोज 64 बिट और लिनक्स 64 बिट के लिए रनटाइम एनवायरनमेंट पर HTML दस्तावेज़ों को संयोजित करने के लिए C++ उदाहरण कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

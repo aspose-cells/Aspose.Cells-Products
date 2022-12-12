@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java के माध्यम से XLSM दस्तावेज़ चार्ट 
 weight: 3020
-url: /hi/java/chart/xlsm/ 
+
 description: Java JSP/JSF एप्लिकेशन और डेस्कटॉप एप्लिकेशन के लिए रनटाइम एनवायरनमेंट पर XLSM फ़ाइल में चार्ट या आरेख बनाने और कनवर्ट करने के लिए Java नमूना कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

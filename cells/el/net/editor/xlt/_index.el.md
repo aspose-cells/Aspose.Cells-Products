@@ -1,6 +1,6 @@
-﻿---
+---
 title: Επεξεργασία αρχείων XLT μέσω .NET 
-url: /el/net/editor/xlt/ 
+
 description: C# πηγαίος κώδικας για επεξεργασία εγγράφου XLT σε πλατφόρμες .NET Framework, .NET Core, Windows Azure, Mono ή Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: ODS दस्तावेज़ से C++ के माध्यम से टेक्स्ट और चित्र निकालें 
 weight: 9130
-url: /hi/cpp/parser/ods/ 
+
 description: C++ ओडीएस फ़ाइल से टेक्स्ट और छवियों को निकालने के लिए उदाहरण कोड C++ विंडोज 32 बिट, विंडोज 64 बिट और लिनक्स 64 बिट के लिए रनटाइम एनवायरनमेंट।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

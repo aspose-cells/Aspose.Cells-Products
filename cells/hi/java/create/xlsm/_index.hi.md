@@ -1,6 +1,6 @@
-﻿---
+---
 title: Java के द्वारा MS Excel XLSM फ़ाइलें बनाएँ 
-url: /hi/java/create-xlsm/ 
+
 description: Java XLSM दस्तावेज़ जनरेट करने के लिए नमूना कोड। Java आधारित डेस्कटॉप या वेब एप्लिकेशन के भीतर MS Excel XLSM फ़ाइलें बनाने के लिए इस कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

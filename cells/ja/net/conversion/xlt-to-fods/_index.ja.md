@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してXLTをFODSに変換します
-url: /ja/net/conversion/xlt-to-fods/
+
 description: xltからfodsC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチxltファイルからfodsへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

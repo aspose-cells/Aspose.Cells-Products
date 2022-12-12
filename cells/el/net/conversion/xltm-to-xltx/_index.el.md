@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή XLTM σε XLTX μέσω C#
-url: /el/net/conversion/xltm-to-xltx/
+
 description: Δείγμα κώδικα για μετατροπή xltm σε xltx C#. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδική μετατροπή αρχείων xltm σε xltx εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

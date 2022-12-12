@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést SXC na GIF přes C#
-url: /cs/net/conversion/sxc-to-gif/
+
 description: Ukázkový kód pro převod sxc na gif C#. Použijte API ukázkový kód pro dávkový převod souborů sxc na gif v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

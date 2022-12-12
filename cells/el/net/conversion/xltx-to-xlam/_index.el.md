@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή XLTX σε XLAM μέσω C#
-url: /el/net/conversion/xltx-to-xlam/
+
 description: Δείγμα κώδικα για μετατροπή xltx σε xlam C#. Χρησιμοποιήστε API παράδειγμα κώδικα για μαζική μετατροπή αρχείων xltx σε xlam εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

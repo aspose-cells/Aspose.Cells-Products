@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通過 C++ 添加 XLSM 註釋 
 weight: 2860
-url: /zh-hant/cpp/annotation/xlsm/ 
+
 description: C++ 刪除 XLSM 格式註釋的示例代碼 C++ 適用於 Windows 32 位、Windows 64 位和 Linux 64 位的運行時環境。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

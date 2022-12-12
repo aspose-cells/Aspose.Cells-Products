@@ -1,7 +1,7 @@
-﻿---
+---
 title: Dela XLSM-filer via Java 
 weight: 5670
-url: /sv/java/splitter/xlsm/ 
+
 description: Java exempelkod för att dela XLSM-dokument i Java Runtime Environment för JSP/JSF Application och Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

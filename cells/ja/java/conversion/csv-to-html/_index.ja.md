@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してCSVをHTMLに変換する 
 weight: 6910
-url: /ja/java/conversion/csv-to-html/ 
+
 description: CSV形式のHTMLファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、WebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをHTMLにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

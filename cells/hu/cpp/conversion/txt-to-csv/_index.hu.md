@@ -1,6 +1,6 @@
-﻿---
+---
 title: TXT konvertálása CSV-vé a C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/txt-to-csv/ 
+
 description: Minta C++ konverziós kód a TXT-dokumentumhoz CSV-formátumba. A programozók ezt a forráskódot használhatják a kötegelt TXT-ből CSV-vé konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

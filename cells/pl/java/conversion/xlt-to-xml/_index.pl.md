@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj XLT na XML za pomocą Java 
-url: /pl/java/conversion/xlt-to-xml/ 
+
 description: Przykładowy kod konwersji Java dla formatu XLT do pliku XML. Programiści mogą użyć tego przykładowego kodu do eksportowania arkuszy kalkulacyjnych Excel i OpenOffice do XML w dowolnej aplikacji opartej na sieci Web lub Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

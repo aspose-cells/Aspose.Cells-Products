@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SXC konvertálása TIFF-re a következőn keresztül: C#"
-url: /hu/net/conversion/sxc-to-tiff/
+
 description: Mintakód az sxc–tiff C# konverzióhoz. Használjon API példakódot kötegelt sxc fájlokhoz a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazás tiff konverziójához.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

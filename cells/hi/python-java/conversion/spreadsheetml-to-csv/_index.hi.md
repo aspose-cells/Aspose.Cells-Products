@@ -1,6 +1,6 @@
-﻿---
+---
 title: स्प्रैडशीटएमएल को Python के माध्यम से सीएसवी में बदलें
-url: /hi/python-java/conversion/spreadsheetml-to-csv/
+
 description: स्प्रेडशीटएमएल से सीएसवी Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर सीएसवी रूपांतरण में बैच स्प्रेडशीटएमएल फाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer NUMBERS naar SPREADSHEETML via Python
-url: /nl/python-java/conversion/numbers-to-spreadsheetml/
+
 description: Voorbeeldcode voor conversie van getallen naar spreadsheetml Python. Gebruik API voorbeeldcode voor batchnummerbestanden naar spreadsheetml-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

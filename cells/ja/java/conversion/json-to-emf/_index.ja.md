@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してJSONをEMFに変換する 
 weight: 2020
-url: /ja/java/conversion/json-to-emf/ 
+
 description: JSON形式のEMFファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のEMFにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

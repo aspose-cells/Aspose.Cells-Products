@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer ODS naar HTML via C++ applicatie 
 weight: 7800
-url: /nl/cpp/conversion/ods-to-html/ 
+
 description: Voorbeeld C++ conversiecode voor ODS-document naar HTML-indeling. Programmeurs kunnen deze broncode gebruiken voor batch-ODS naar HTML-conversie binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

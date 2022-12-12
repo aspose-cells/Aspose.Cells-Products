@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi TXT sang XLSX qua Python
-url: /vi/python-java/conversion/txt-to-xlsx/
+
 description: Mã mẫu cho chuyển đổi txt sang xlsx Python. Sử dụng API mã ví dụ cho hàng loạt tệp txt sang chuyển đổi xlsx trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

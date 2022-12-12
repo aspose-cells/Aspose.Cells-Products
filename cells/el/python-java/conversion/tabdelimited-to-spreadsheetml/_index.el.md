@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή TABDELIMITED σε SPREADSHEETML μέσω Python
-url: /el/python-java/conversion/tabdelimited-to-spreadsheetml/
+
 description: Δείγμα κώδικα για μετατροπή Python οριοθετημένου πίνακα σε υπολογιστικό φύλλο. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία οριοθετημένα στηλοθέτες για μετατροπή υπολογιστικού φύλλου εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

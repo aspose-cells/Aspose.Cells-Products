@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してXLTMをSPREADSHEETMLに変換します
-url: /ja/python-java/conversion/xltm-to-spreadsheetml/
+
 description: xltmからspreadplacemlPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチxltmファイルからspreadsheetmlへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to JSON via Java 
-url: /java/conversion/xlt-to-json/
+
 description: Convert XLT to JSON format in Java code. Save XLT as JSON using Java.
 ---
 

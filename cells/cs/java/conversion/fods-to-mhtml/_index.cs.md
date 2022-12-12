@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést FODS na MHTML prostřednictvím Java 
-url: /cs/java/conversion/fods-to-mhtml/ 
+
 description: Ukázka převodního kódu Java pro formát FODS na soubor MHTML. Programátoři mohou použít tento příklad kódu k exportu tabulek Excelu a OpenOffice do MHTML v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

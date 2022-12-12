@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Az XLSM-fájlok metaadatainak megtekintése vagy szerkesztése a következőn keresztül: .NET "
 weight: 5590
-url: /hu/net/metadata/xlsm/ 
+
 description: C# forráskód az XLSM formátumú metaadatok szerkesztéséhez vagy megtekintéséhez a .NET Framework, .NET Core, Mono vagy Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Hozzon létre radardiagramokat a következőn keresztül: C#"
-url: /hu/net/create-radar-chart/
+
 description: C# Mintakód radardiagramok létrehozásához Excelbe a .NET Library használatával. Ezzel a kóddal radardiagramot hozhat létre MS Excelben VB.NET, Asp.NET vagy bármely .NET alapú alkalmazásban.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

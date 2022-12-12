@@ -1,6 +1,6 @@
 ---
 title: Convert XLSX to XLT via Python
-url: /python-java/conversion/xlsx-to-xlt/
+
 description: Convert XLSX to XLT format in Python code. Save XLSX as XLT using Python.
 ---
 

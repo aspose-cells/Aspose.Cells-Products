@@ -1,7 +1,7 @@
-﻿---
+---
 title: Объединить файлы TXT через Java 
 weight: 4480
-url: /ru/java/merger/txt/ 
+
 description: Пример кода Java для объединения документов TXT в Java среде выполнения для приложений JSP/JSF и настольных приложений.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

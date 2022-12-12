@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan SPREADSHEETML ke DIF melalui C#
-url: /id/net/conversion/spreadsheetml-to-dif/
+
 description: Contoh kode untuk spreadsheetml ke konversi C# yang berbeda. Gunakan API kode contoh untuk file spreadsheetml batch ke konversi berbeda dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

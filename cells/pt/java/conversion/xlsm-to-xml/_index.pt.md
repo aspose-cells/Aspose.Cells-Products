@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter XLSM para XML via Java 
-url: /pt/java/conversion/xlsm-to-xml/ 
+
 description: Exemplo de código de conversão Java do formato XLSM para arquivo XML. Os programadores podem usar este código de exemplo para exportar planilhas do Excel e OpenOffice para XML em qualquer aplicativo baseado na Web ou Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Συγχώνευση αρχείων Excel API .NET C#
-url: /el/net/merger/
+
 description: Συνδυάστε αρχεία υπολογιστικού φύλλου Excel και OpenOffice με λίγες μόνο γραμμές κώδικα C#.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

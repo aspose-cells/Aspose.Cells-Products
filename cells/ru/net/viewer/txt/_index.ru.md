@@ -1,7 +1,7 @@
-﻿---
+---
 title: Просмотр форматов файлов TXT через .NET 
 weight: 8300
-url: /ru/net/viewer/txt/ 
+
 description: Исходный код C# для загрузки, обработки и отображения документов TXT на платформах .NET Framework, .NET Core, Mono или Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

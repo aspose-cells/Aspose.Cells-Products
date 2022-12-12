@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLTM-et XML-re a(z) C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/xltm-to-xml/ 
+
 description: Minta C++ konverziós kód XLTM dokumentumhoz XML formátumba. A programozók ezt a forráskódot használhatják XLTM-ből XML-be kötegelt konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

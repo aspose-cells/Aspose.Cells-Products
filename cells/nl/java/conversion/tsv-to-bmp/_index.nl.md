@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer TSV naar BMP via Java 
 weight: 4200
-url: /nl/java/conversion/tsv-to-bmp/ 
+
 description: Voorbeeld Java conversiecode voor TSV-indeling naar BMP-bestand. Programmeurs kunnen deze voorbeeldcode gebruiken om Excel- en OpenOffice-spreadsheets naar BMP te exporteren binnen elke web- of desktoptoepassing Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

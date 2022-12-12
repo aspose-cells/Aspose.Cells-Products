@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to MD via Python
-url: /python-net/conversion/ods-to-md/
+
 description: Sample code for ods to md Python conversion. Use API example code for batch ods files to md conversion within Python application.
 ---
 

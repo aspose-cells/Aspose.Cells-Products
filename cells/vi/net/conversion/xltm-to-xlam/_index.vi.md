@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi XLTM sang XLAM qua C#
-url: /vi/net/conversion/xltm-to-xlam/
+
 description: Mã mẫu cho chuyển đổi xltm sang xlam C#. Sử dụng API mã ví dụ cho hàng loạt tệp xltm sang chuyển đổi xlam trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

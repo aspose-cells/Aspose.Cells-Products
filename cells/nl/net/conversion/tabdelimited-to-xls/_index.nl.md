@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer TABDELIMITED naar XLS via C#
-url: /nl/net/conversion/tabdelimited-to-xls/
+
 description: Voorbeeldcode voor door tabs gescheiden naar xls C# conversie. Gebruik API voorbeeldcode voor batch-tabdelimited-bestanden naar xls-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

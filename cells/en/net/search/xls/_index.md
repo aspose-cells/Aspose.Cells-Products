@@ -1,7 +1,7 @@
 ---
 title: Search XLS document without opening via .NET 
 weight: 1490
-url: /net/search/xls/ 
+
 description: C# source code to search words with pattern in XLS file on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to POWERPOINT via C#
-url: /net/conversion/excel-to-powerpoint/
+
 description: Convert EXCEL to POWERPOINT format in C# code. Save EXCEL as POWERPOINT using VB.NET, Asp.NET or any .NET based application.
 ---
 

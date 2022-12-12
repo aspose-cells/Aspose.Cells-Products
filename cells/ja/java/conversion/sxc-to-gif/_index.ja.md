@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してSXCをGIFに変換する 
-url: /ja/java/conversion/sxc-to-gif/ 
+
 description: SXC形式からGIFファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のGIFにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

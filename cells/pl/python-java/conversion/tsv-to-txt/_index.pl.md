@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj TSV na TXT przez Python
-url: /pl/python-java/conversion/tsv-to-txt/
+
 description: Przykładowy kod konwersji tsv na txt Python. Użyj przykładowego kodu API dla plików wsadowych tsv do konwersji txt w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

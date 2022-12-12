@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to XLTM via Python
-url: /python-net/conversion/tabdelimited-to-xltm/
+
 description: Sample code for tabdelimited to xltm Python conversion. Use API example code for batch tabdelimited files to xltm conversion within Python application.
 ---
 

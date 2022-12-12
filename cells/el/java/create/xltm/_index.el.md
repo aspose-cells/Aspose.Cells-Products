@@ -1,6 +1,6 @@
-﻿---
+---
 title: Δημιουργία αρχείων MS Excel XLTM μέσω Java 
-url: /el/java/create-xltm/ 
+
 description: Java Δείγμα κώδικα για τη δημιουργία εγγράφων XLTM. Χρησιμοποιήστε αυτόν τον κώδικα για τη δημιουργία αρχείων MS Excel XLTM σε εφαρμογή υπολογιστή ή web που βασίζεται σε Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

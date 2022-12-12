@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してJSONをDOCXに変換する 
 weight: 970
-url: /ja/java/conversion/json-to-docx/ 
+
 description: JSON形式のDOCXファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のDOCXにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

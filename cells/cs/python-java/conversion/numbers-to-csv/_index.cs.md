@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést NUMBERS na CSV prostřednictvím Python
-url: /cs/python-java/conversion/numbers-to-csv/
+
 description: Ukázkový kód pro převod čísel na csv Python. Použijte API ukázkový kód pro převod souborů s čísly dávek na csv v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

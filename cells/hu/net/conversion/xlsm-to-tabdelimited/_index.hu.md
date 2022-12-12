@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLSM konvertálása TAB-raDELIMITED a következőn keresztül: C#"
-url: /hu/net/conversion/xlsm-to-tabdelimited/
+
 description: Mintakód az xlsm-ből tabulátorral tagolt C#-es konverzióhoz. Használjon API példakódot kötegelt xlsm fájlokhoz a tabulátorral tagolt konverzióhoz VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

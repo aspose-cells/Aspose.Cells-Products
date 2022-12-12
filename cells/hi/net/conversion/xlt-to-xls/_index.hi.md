@@ -1,6 +1,6 @@
-﻿---
+---
 title: XLT को XLS से C# में कनवर्ट करें
-url: /hi/net/conversion/xlt-to-xls/
+
 description: xlt से xls C# रूपांतरण के लिए नमूना कोड। VB.NET, Asp.NET या किसी भी .NET आधारित एप्लिकेशन के भीतर बैच xlt फ़ाइलों से xls रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

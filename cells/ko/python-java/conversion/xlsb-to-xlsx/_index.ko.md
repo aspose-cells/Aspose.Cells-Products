@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python을(를) 통해 XLSB를 XLSX로 변환
-url: /ko/python-java/conversion/xlsb-to-xlsx/
+
 description: xlsb에서 xlsx로의 Python 변환을 위한 샘플 코드입니다. Python 애플리케이션 내에서 일괄 xlsb 파일을 xlsx로 변환하는 API 예제 코드를 사용합니다.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

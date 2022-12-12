@@ -1,7 +1,7 @@
-﻿---
+---
 title: รวมไฟล์ XLT ผ่าน Java 
 weight: 9960
-url: /th/java/merger/xlt/ 
+
 description: Java โค้ดตัวอย่างเพื่อรวมเอกสาร XLT บน Java Runtime Environment สำหรับแอปพลิเคชัน JSP/JSF และแอปพลิเคชันเดสก์ท็อป
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

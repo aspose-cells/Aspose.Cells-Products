@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla Dağılım Grafikleri oluşturun
-url: /tr/net/create-scatter-chart/
+
 description: C# .NET Kitaplığı kullanarak Excel'de Dağılım grafikleri oluşturmak için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde MS Excel'e bir Dağılım grafiği oluşturmak için bu kodu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

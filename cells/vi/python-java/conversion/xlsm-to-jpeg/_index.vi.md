@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi XLSM sang JPEG qua Python
-url: /vi/python-java/conversion/xlsm-to-jpeg/
+
 description: Mã mẫu cho chuyển đổi xlsm sang jpeg Python. Sử dụng API mã mẫu cho hàng loạt tệp xlsm để chuyển đổi jpeg trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してNUMBERSをXLAMに変換します
-url: /ja/python-java/conversion/numbers-to-xlam/
+
 description: 数値からxlamPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチ番号ファイルからxlamへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

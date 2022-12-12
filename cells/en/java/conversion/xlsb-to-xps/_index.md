@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to XPS via Java 
-url: /java/conversion/xlsb-to-xps/
+
 description: Convert XLSB to XPS format in Java code. Save XLSB as XPS using Java.
 ---
 

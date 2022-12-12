@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLSB konvertálása GIF-be a következőn keresztül: Python"
-url: /hu/python-java/conversion/xlsb-to-gif/
+
 description: Mintakód xlsb–gif Python konverzióhoz. Használjon API példakódot kötegelt xlsb fájlok gif-konverziójához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

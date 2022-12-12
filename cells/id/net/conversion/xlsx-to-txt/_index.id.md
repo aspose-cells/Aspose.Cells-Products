@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan XLSX ke TXT melalui C#
-url: /id/net/conversion/xlsx-to-txt/
+
 description: Contoh kode untuk konversi xlsx ke txt C#. Gunakan API kode contoh untuk file batch xlsx ke konversi txt dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

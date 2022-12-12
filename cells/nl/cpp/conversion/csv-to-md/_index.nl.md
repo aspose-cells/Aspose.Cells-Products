@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer CSV naar MD via C++ applicatie 
-url: /nl/cpp/conversion/csv-to-md/ 
+
 description: Voorbeeld C++-conversiecode voor CSV-document naar MD-indeling. Programmeurs kunnen deze broncode gebruiken voor batch-CSV-naar-MD-conversie binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

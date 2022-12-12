@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj XLSX na ODS przez C#
-url: /pl/net/conversion/xlsx-to-ods/
+
 description: Przykładowy kod konwersji xlsx do ods C#. Użyj przykładowego kodu API dla plików wsadowych xlsx do konwersji ods w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLTM в XML с помощью приложения C++ 
-url: /ru/cpp/conversion/xltm-to-xml/ 
+
 description: Пример кода преобразования C++ для документа XLTM в формат XML. Программисты могут использовать этот исходный код для пакетного преобразования XLTM в XML в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

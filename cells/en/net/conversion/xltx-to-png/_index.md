@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to PNG via C#
-url: /net/conversion/xltx-to-png/
+
 description: Convert XLTX to PNG format in C# code. Save XLTX as PNG using VB.NET, Asp.NET or any .NET based application.
 ---
 

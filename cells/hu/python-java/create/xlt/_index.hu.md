@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Hozzon létre MS Excel XLT fájlokat a következőn keresztül: Python "
-url: /hu/python-java/create-xlt/ 
+
 description: Python Mintakód XLT-dokumentumok generálásához. Ezzel a kóddal MS Excel XLT fájlokat hozhat létre a(z) Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

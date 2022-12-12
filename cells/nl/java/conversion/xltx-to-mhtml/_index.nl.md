@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer XLTX naar MHTML via Java 
 weight: 4920
-url: /nl/java/conversion/xltx-to-mhtml/ 
+
 description: Voorbeeld Java conversiecode voor XLTX-indeling naar MHTML-bestand. Programmeurs kunnen deze voorbeeldcode gebruiken om Excel- en OpenOffice-spreadsheets naar MHTML te exporteren binnen elke web- of desktoptoepassing Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

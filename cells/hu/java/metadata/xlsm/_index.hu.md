@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Szerkessze vagy tekintse meg az XLSM-fájlok metaadatait a következőn keresztül: Java "
 weight: 9030
-url: /hu/java/metadata/xlsm/ 
+
 description: Java mintakód az XLSM formátumú metaadatok szerkesztéséhez vagy megtekintéséhez a Java Runtime Environment for JSP/JSF alkalmazásokhoz és asztali alkalmazásokhoz.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

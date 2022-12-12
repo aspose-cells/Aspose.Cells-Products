@@ -1,6 +1,6 @@
 ---
 title: Convert TSV to XML via C++
-url: /cpp/conversion/tsv-to-xml/
+
 description: Convert TSV to XML format in C++ code. Save TSV as XML using C++.
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してODSファイルでレポートを生成する 
 weight: 2440
-url: /ja/java/assembly/ods/ 
+
 description: Java JSP/JSFアプリケーションおよびデスクトップアプリケーションのランタイム環境でODS形式のレポートを作成するためのサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

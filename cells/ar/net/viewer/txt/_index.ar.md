@@ -1,7 +1,7 @@
-﻿---
+---
 title: عرض تنسيقات ملف TXT عبر .NET 
 weight: 8300
-url: /ar/net/viewer/txt/ 
+
 description: C# شفرة المصدر لتحميل مستندات TXT وعرضها وعرضها على الأنظمة الأساسية .NET Framework أو .NET Core أو Mono أو Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: "TSV-fájlok egyesítése a következőn keresztül: .NET "
 weight: 1360
-url: /hu/net/merger/tsv/ 
+
 description: C# forráskód a TSV dokumentumok kombinálásához .NET Framework, .NET Core, Mono vagy Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

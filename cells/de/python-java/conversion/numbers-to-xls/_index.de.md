@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie NUMBERS in XLS über Python
-url: /de/python-java/conversion/numbers-to-xls/
+
 description: Beispielcode für die Umwandlung von Zahlen in xls Python. Verwenden Sie den API Beispielcode für die Konvertierung von Stapelnummerndateien in xls innerhalb der Anwendung Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

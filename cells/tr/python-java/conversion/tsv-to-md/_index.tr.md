@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla TSV'yi MD'ye dönüştürün
-url: /tr/python-java/conversion/tsv-to-md/
+
 description: tsv'den md'ye Python dönüştürme için örnek kod. Python uygulamasında toplu tsv dosyalarının md'ye dönüştürülmesi için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

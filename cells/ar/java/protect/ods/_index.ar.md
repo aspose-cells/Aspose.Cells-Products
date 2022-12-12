@@ -1,7 +1,7 @@
-﻿---
+---
 title: حماية وقفل مستند ODS عبر Java 
 weight: 6360
-url: /ar/java/protect/ods/ 
+
 description: Java نموذج لرمز لتأمين ملف ODS باستخدام كلمة المرور في Java Runtime Environment for JSP / JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

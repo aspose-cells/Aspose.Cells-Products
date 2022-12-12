@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to XLT via C++
-url: /cpp/conversion/excel-to-xlt/
+
 description: Convert EXCEL to XLT format in C++ code. Save EXCEL as XLT using C++.
 ---
 

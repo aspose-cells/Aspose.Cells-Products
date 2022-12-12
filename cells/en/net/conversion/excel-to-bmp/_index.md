@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to BMP via C#
-url: /net/conversion/excel-to-bmp/
+
 description: Convert EXCEL to BMP format in C# code. Save EXCEL as BMP using VB.NET, Asp.NET or any .NET based application.
 ---
 

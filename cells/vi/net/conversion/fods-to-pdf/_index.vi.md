@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển FODS sang PDF qua C#
-url: /vi/net/conversion/fods-to-pdf/
+
 description: Mã mẫu cho chuyển đổi fods sang pdf C#. Sử dụng API mã mẫu cho các tệp fods hàng loạt sang chuyển đổi pdf trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

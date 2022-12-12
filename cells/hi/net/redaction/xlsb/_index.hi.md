@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLSB दस्तावेज़ में .NET के माध्यम से टेक्स्ट खोजें और बदलें 
 weight: 3890
-url: /hi/net/redaction/xlsb/ 
+
 description: .NET Framework, .NET Core, Mono या Xamarin Platforms पर XLSB फ़ाइल में संवेदनशील जानकारी को संशोधित करने के लिए C# स्रोत कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

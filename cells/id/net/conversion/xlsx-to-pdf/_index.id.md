@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan XLSX ke PDF melalui C#
-url: /id/net/conversion/xlsx-to-pdf/
+
 description: Contoh kode untuk xlsx ke pdf C# konversi. Gunakan API kode contoh untuk file batch xlsx ke konversi pdf dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

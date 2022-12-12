@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversi MHTML ke DIF melalui C++ aplikasi 
 weight: 5470
-url: /id/cpp/conversion/mhtml-to-dif/ 
+
 description: Contoh C++ kode konversi untuk dokumen MHTML ke format DIF. Pemrogram dapat menggunakan kode sumber ini untuk konversi batch MHTML ke DIF dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Создание файлов MS Excel XLT через Java 
-url: /ru/java/create-xlt/ 
+
 description: Java Пример кода для создания документов XLT. Используйте этот код для создания файлов MS Excel XLT в настольном или веб-приложении на основе Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

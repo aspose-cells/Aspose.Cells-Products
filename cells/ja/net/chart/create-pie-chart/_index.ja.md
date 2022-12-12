@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介して円グラフを作成する
-url: /ja/net/create-pie-chart/
+
 description: C#.NETライブラリを使用してExcelに円グラフを作成するためのサンプルコード。このコードを使用して、VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でMSExcelへの円グラフを作成します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

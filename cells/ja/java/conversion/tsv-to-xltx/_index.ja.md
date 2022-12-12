@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java経由でTSVをXLTXに変換 
 weight: 6680
-url: /ja/java/conversion/tsv-to-xltx/ 
+
 description: TSV形式からXLTXファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、任意のWebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをXLTXにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

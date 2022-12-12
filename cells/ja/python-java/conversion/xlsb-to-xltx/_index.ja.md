@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してXLSBをXLTXに変換します
-url: /ja/python-java/conversion/xlsb-to-xltx/
+
 description: xlsbからxltxPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチxlsbファイルからxltxへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

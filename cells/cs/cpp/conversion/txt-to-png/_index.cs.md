@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte TXT na PNG pomocí aplikace C++ 
-url: /cs/cpp/conversion/txt-to-png/ 
+
 description: Ukázka převodního kódu C++ pro dokument TXT do formátu PNG. Programátoři mohou použít tento zdrojový kód pro dávkový převod TXT na PNG v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

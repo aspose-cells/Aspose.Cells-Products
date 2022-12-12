@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla XLT'yi DIF'ye dönüştürün
-url: /tr/net/conversion/xlt-to-dif/
+
 description: xlt to dif C# dönüşümü için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde farklı dönüştürme için toplu xlt dosyaları için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

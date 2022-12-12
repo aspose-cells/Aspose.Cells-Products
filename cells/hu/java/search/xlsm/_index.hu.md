@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLSM-dokumentum keresése megnyitás nélkül a következőn keresztül: Java "
 weight: 6780
-url: /hu/java/search/xlsm/ 
+
 description: Java mintakód a mintával rendelkező szavak kereséséhez az XLSM-fájlban a Java Futási környezet JSP/JSF alkalmazásokhoz és asztali alkalmazásokhoz.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

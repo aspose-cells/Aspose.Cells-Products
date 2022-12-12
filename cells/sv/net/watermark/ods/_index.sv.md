@@ -1,7 +1,7 @@
-﻿---
+---
 title: Vattenstämpel ODS-dokument via .NET 
 weight: 4190
-url: /sv/net/watermark/ods/ 
+
 description: C# källkod för att lägga till eller ta bort vattenstämpel till ODS-fil på .NET Framework, .NET Core, Mono eller Xamarin-plattformar.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

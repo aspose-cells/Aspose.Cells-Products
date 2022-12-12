@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to JPEG via Java 
-url: /java/conversion/sxc-to-jpeg/
+
 description: Convert SXC to JPEG format in Java code. Save SXC as JPEG using Java.
 ---
 

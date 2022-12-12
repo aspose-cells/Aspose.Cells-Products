@@ -1,6 +1,6 @@
 ---
 title: Convert XLSX to DOCX via C#
-url: /net/conversion/xlsx-to-docx/
+
 description: Convert XLSX to DOCX format in C# code. Save XLSX as DOCX using VB.NET, Asp.NET or any .NET based application.
 ---
 

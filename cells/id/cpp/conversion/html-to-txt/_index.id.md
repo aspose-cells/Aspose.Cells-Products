@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi HTML ke TXT melalui C++ aplikasi 
-url: /id/cpp/conversion/html-to-txt/ 
+
 description: Contoh C++ kode konversi untuk dokumen HTML ke format TXT. Pemrogram dapat menggunakan kode sumber ini untuk konversi batch HTML ke TXT dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

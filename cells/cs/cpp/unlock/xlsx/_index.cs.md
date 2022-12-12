@@ -1,7 +1,7 @@
-﻿---
+---
 title: Odemknout dokument XLSX přes C++ 
 weight: 3680
-url: /cs/cpp/unlock/xlsx/ 
+
 description: C++ ukázkový kód pro odemknutí heslem chráněného souboru XLSX v C++ Runtime Environment pro Windows 32bit, Windows 64bit a Linux 64bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

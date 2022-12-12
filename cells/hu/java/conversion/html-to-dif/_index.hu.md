@@ -1,7 +1,7 @@
-﻿---
+---
 title: "HTML konvertálása DIF-re a következőn keresztül: Java "
 weight: 6050
-url: /hu/java/conversion/html-to-dif/ 
+
 description: Minta Java konverziós kód HTML formátumhoz DIF fájlba. A programozók ezt a példakódot használhatják Excel- és OpenOffice-táblázatok exportálására DIF-be bármely web- vagy asztali Java-alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

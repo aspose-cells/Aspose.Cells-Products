@@ -1,6 +1,6 @@
-﻿---
+---
 title: Tạo tệp MS Excel XLT qua C# 
-url: /vi/net/create-xlt/ 
+
 description: C# Mã mẫu để tạo tài liệu XLT. Sử dụng mã này để tạo tệp MS Excel XLT trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

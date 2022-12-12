@@ -1,6 +1,6 @@
 ---
 title: Merge TSV to CSV Files via Python 
-url: /python-net/merger/merge-tsv-to-csv/ 
+
 description: Merge TSV to CSV file in Python code. Combine TSV to CSV file using Python.
 ---
 

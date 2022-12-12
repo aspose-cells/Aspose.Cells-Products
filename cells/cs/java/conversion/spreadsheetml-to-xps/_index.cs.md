@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést SPREADSHEETML na XPS přes Java 
-url: /cs/java/conversion/spreadsheetml-to-xps/ 
+
 description: Ukázkový konverzní kód Java pro formát SPREADSHEETML na soubor XPS. Programátoři mohou tento příklad kódu použít k exportu tabulek Excelu a OpenOffice do XPS v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してCSVファイルをマージ 
 weight: 3860
-url: /ja/java/merger/csv/ 
+
 description: Java JSP/JSFアプリケーションとデスクトップアプリケーションのランタイム環境でCSVドキュメントを組み合わせるためのサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

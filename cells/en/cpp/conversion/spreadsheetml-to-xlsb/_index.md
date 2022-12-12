@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to XLSB via C++
-url: /cpp/conversion/spreadsheetml-to-xlsb/
+
 description: Convert SPREADSHEETML to XLSB format in C++ code. Save SPREADSHEETML as XLSB using C++.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TSV konvertálása BMP-vé a következőn keresztül: C#"
-url: /hu/net/conversion/tsv-to-bmp/
+
 description: Mintakód a tsv–bmp C# konverzióhoz. Használjon API példakódot kötegelt tsv-fájlokhoz a bmp-konverzióhoz VB.NET-on, Asp-n.NET vagy bármely .NET-alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

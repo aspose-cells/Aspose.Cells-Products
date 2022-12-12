@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan XLSM ke EMF melalui C#
-url: /id/net/conversion/xlsm-to-emf/
+
 description: Contoh kode untuk konversi xlsm ke emf C#. Gunakan API kode contoh untuk file batch xlsm ke konversi emf dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

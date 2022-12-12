@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi JSON ke MHTML melalui C++ aplikasi 
-url: /id/cpp/conversion/json-to-mhtml/ 
+
 description: Contoh C++ kode konversi untuk dokumen JSON ke format MHTML. Pemrogram dapat menggunakan kode sumber ini untuk konversi batch JSON ke MHTML dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

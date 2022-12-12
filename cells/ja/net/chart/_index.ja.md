@@ -1,6 +1,6 @@
-﻿---
+---
 title: Excelチャートの作成と.NETによる画像への変換
-url: /ja/net/chart/
+
 description: .NETライブラリを使用してMicrosoftExcelでチャートまたは図を描画および変換するためのC#ソースコード。 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Fusionner les fichiers TXT via Java 
 weight: 4480
-url: /fr/java/merger/txt/ 
+
 description: Java exemple de code pour combiner des documents TXT sur Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

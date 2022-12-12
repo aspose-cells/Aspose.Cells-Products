@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to XLSM via C#
-url: /net/conversion/xlt-to-xlsm/
+
 description: Convert XLT to XLSM format in C# code. Save XLT as XLSM using VB.NET, Asp.NET or any .NET based application.
 ---
 

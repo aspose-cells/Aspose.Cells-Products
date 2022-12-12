@@ -1,7 +1,7 @@
-﻿---
+---
 title: Tài liệu XLSB hình mờ qua .NET 
 weight: 5410
-url: /vi/net/watermark/xlsb/ 
+
 description: C# mã nguồn để thêm hoặc xóa hình mờ vào tệp XLSB trên Nền tảng .NET Framework, .NET Core Mono hoặc Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

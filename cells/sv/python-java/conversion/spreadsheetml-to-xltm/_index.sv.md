@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera SPREADSHEETML till XLTM via Python
-url: /sv/python-java/conversion/spreadsheetml-to-xltm/
+
 description: Exempelkod för konvertering från kalkylarkml till xltm Python. Använd API exempelkod för batch-kalkylarkml-filer till xltm-konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

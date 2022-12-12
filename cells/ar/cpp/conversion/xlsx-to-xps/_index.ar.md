@@ -1,7 +1,7 @@
-﻿---
+---
 title: قم بتحويل XLSX إلى XPS عبر تطبيق C++ 
 weight: 1880
-url: /ar/cpp/conversion/xlsx-to-xps/ 
+
 description: نموذج رمز تحويل C++ لمستند XLSX إلى تنسيق XPS. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل XLSX إلى XPS دفعة داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

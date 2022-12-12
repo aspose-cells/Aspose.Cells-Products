@@ -1,6 +1,6 @@
-﻿---
+---
 title: إنشاء ملفات TSV عبر C++ 
-url: /ar/cpp/create-tsv/ 
+
 description: C++ نموذج كود لإنشاء ملفات TSV. استخدم هذا الرمز لإنشاء ملفات TSV داخل تطبيق يستند إلى C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

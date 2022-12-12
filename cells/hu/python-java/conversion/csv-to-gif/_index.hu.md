@@ -1,6 +1,6 @@
-﻿---
+---
 title: "CSV konvertálása GIF formátumba a következőn keresztül: Python"
-url: /hu/python-java/conversion/csv-to-gif/
+
 description: Mintakód a csv-ből gif-be Python. Használjon API példakódot kötegelt csv fájlok gif konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLT konvertálása JPG formátumba a következőn keresztül: Java "
-url: /hu/java/conversion/xlt-to-jpg/ 
+
 description: Minta Java konverziós kód az XLT formátumhoz JPG fájllá. A programozók ezt a példakódot használhatják Excel és OpenOffice táblázatok exportálására JPG formátumban bármely web- vagy asztali Java alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

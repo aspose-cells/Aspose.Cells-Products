@@ -1,6 +1,6 @@
-﻿---
+---
 title: .NET C#을(를) 통해 Excel 파일 메타데이터 관리
-url: /ko/net/metadata/
+
 description: 몇 줄의 C# 코드로 Excel 파일 메타데이터 보기, 추가, 편집, 제거 또는 추출
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

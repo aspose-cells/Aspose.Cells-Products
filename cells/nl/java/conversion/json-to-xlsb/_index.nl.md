@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer JSON naar XLSB via Java 
 weight: 2870
-url: /nl/java/conversion/json-to-xlsb/ 
+
 description: Voorbeeld Java-conversiecode voor JSON-indeling naar XLSB-bestand. Programmeurs kunnen deze voorbeeldcode gebruiken om Excel- en OpenOffice-spreadsheets naar XLSB te exporteren binnen elke web- of desktoptoepassing Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

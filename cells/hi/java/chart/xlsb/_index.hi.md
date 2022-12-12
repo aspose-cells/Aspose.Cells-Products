@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java के माध्यम से XLSB दस्तावेज़ चार्ट 
 weight: 670
-url: /hi/java/chart/xlsb/ 
+
 description: Java JSP/JSF एप्लिकेशन और डेस्कटॉप एप्लिकेशन के लिए रनटाइम एनवायरनमेंट पर Java XLSB फ़ाइल में चार्ट या आरेख बनाने और कनवर्ट करने के लिए नमूना कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

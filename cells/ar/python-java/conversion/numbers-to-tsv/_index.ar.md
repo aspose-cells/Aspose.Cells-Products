@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل NUMBERS إلى TSV عبر Python
-url: /ar/python-java/conversion/numbers-to-tsv/
+
 description: نموذج كود لتحويل الأرقام إلى tsv Python. استخدم API رمز المثال لملفات أرقام الدُفعات لتحويل tsv داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

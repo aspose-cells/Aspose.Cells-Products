@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل FODS إلى MHTML عبر Python
-url: /ar/python-java/conversion/fods-to-mhtml/
+
 description: نموذج كود لتحويل fods إلى mhtml Python. استخدم API رمز المثال لملفات fods الدفعية لتحويل mhtml داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

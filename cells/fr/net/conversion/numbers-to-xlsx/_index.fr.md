@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir NUMBERS en XLSX via C#
-url: /fr/net/conversion/numbers-to-xlsx/
+
 description: Exemple de code pour la conversion de nombres en xlsx C#. Utilisez l'exemple de code API pour les fichiers de numéros de lot en conversion xlsx dans VB.NET, Asp.NET ou toute application basée sur .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

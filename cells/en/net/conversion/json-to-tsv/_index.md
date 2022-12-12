@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to TSV via C#
-url: /net/conversion/json-to-tsv/
+
 description: Convert JSON to TSV format in C# code. Save JSON as TSV using VB.NET, Asp.NET or any .NET based application.
 ---
 

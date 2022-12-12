@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést MHTML na XML prostřednictvím Python
-url: /cs/python-java/conversion/mhtml-to-xml/
+
 description: Ukázkový kód pro převod mhtml na xml Python. Použijte API ukázkový kód pro dávkový převod souborů mhtml na xml v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

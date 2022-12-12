@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل NUMBERS إلى XLTX عبر Java 
-url: /ar/java/conversion/numbers-to-xltx/ 
+
 description: نموذج Java رمز تحويل لتنسيق NUMBERS إلى ملف XLTX. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى XLTX داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

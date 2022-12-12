@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to MHTML via C#
-url: /net/conversion/xltx-to-mhtml/
+
 description: Convert XLTX to MHTML format in C# code. Save XLTX as MHTML using VB.NET, Asp.NET or any .NET based application.
 ---
 

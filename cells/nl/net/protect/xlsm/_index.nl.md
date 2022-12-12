@@ -1,7 +1,7 @@
-﻿---
+---
 title: Bescherm en vergrendel XLSM-document via .NET 
 weight: 7530
-url: /nl/net/protect/xlsm/ 
+
 description: C# broncode om XLSM-bestand te vergrendelen met wachtwoord op .NET Framework, .NET Core, Mono of Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

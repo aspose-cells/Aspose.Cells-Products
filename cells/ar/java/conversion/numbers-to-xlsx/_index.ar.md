@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل NUMBERS إلى XLSX عبر Java 
-url: /ar/java/conversion/numbers-to-xlsx/ 
+
 description: نموذج Java رمز تحويل لتنسيق NUMBERS إلى ملف XLSX. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى XLSX داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

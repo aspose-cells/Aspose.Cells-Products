@@ -1,7 +1,7 @@
-﻿---
+---
 title: ODS-annotatie toevoegen via C++ 
 weight: 8840
-url: /nl/cpp/annotation/ods/ 
+
 description: C++ voorbeeldcode voor het verwijderen van annotaties in ODS-indeling op C++ Runtime Environment voor Windows 32 bit, Windows 64 bit en Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してNUMBERSをTIFFに変換します 
-url: /ja/java/conversion/numbers-to-tiff/ 
+
 description: NUMBERS形式からTIFFファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のTIFFにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

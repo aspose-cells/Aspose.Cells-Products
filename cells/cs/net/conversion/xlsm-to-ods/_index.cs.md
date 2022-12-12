@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLSM na ODS přes C#
-url: /cs/net/conversion/xlsm-to-ods/
+
 description: Ukázkový kód pro převod xlsm na ods C#. Použijte API ukázkový kód pro dávkový převod souborů xlsm na ODS v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

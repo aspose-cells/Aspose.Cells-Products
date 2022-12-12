@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převeďte XLS na JPEG pomocí aplikace C++ 
 weight: 1860
-url: /cs/cpp/conversion/xls-to-jpeg/ 
+
 description: Ukázka převodního kódu C++ pro dokument XLS do formátu JPEG. Programátoři mohou použít tento zdrojový kód pro dávkový převod XLS na JPEG v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

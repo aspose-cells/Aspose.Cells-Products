@@ -1,7 +1,7 @@
-﻿---
+---
 title: TXT को Java के माध्यम से SVG में बदलें 
 weight: 9880
-url: /hi/java/conversion/txt-to-svg/ 
+
 description: नमूना Java एसवीजी फ़ाइल में TXT प्रारूप के लिए रूपांतरण कोड। प्रोग्रामर इस उदाहरण कोड का उपयोग किसी भी वेब या डेस्कटॉप Java आधारित एप्लिकेशन में एसवीजी को एक्सेल और ओपनऑफिस स्प्रेडशीट निर्यात करने के लिए कर सकते हैं।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

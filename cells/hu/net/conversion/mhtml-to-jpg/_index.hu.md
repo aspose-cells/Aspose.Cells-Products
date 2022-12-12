@@ -1,6 +1,6 @@
-﻿---
+---
 title: "MHTML konvertálása JPG formátumba a következőn keresztül: C#"
-url: /hu/net/conversion/mhtml-to-jpg/
+
 description: Mintakód az mhtml-ből jpg-vé C# konvertáláshoz. Használjon API példakódot az mhtml fájlok kötegelt jpg konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Hợp nhất các tệp XLTM qua .NET 
 weight: 9010
-url: /vi/net/merger/xltm/ 
+
 description: C# mã nguồn để kết hợp các tài liệu XLTM trên Nền tảng .NET Framework, .NET Core Mono hoặc Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

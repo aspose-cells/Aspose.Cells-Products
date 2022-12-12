@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést CSV na TSV prostřednictvím C#
-url: /cs/net/conversion/csv-to-tsv/
+
 description: Ukázkový kód pro převod csv na tsv C#. Použijte API ukázkový kód pro dávkový převod souborů csv na tsv v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

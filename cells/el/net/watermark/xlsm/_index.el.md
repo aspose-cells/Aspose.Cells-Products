@@ -1,7 +1,7 @@
-﻿---
+---
 title: Υδατογράφημα εγγράφου XLSM μέσω .NET 
 weight: 8270
-url: /el/net/watermark/xlsm/ 
+
 description: C# πηγαίος κώδικας για προσθήκη ή κατάργηση υδατογραφήματος σε αρχείο XLSM σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

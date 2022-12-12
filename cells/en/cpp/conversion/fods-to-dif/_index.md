@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to DIF via C++
-url: /cpp/conversion/fods-to-dif/
+
 description: Convert FODS to DIF format in C++ code. Save FODS as DIF using C++.
 ---
 

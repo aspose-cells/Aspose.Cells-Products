@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to HTML via C#
-url: /net/conversion/txt-to-html/
+
 description: Convert TXT to HTML format in C# code. Save TXT as HTML using VB.NET, Asp.NET or any .NET based application.
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java経由でCSVをJPEGに変換 
 weight: 7490
-url: /ja/java/conversion/csv-to-jpeg/ 
+
 description: CSV形式のJPEGファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、WebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをJPEGにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

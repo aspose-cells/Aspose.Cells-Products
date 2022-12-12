@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer TXT naar MD via C#
-url: /nl/net/conversion/txt-to-md/
+
 description: Voorbeeldcode voor conversie van txt naar md C#. Gebruik API voorbeeldcode voor batch txt-bestanden naar md-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

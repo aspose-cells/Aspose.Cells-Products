@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera MHTML till SVG via C#
-url: /sv/net/conversion/mhtml-to-svg/
+
 description: Exempelkod för konvertering från mhtml till svg C#. Använd API exempelkod för batch-mhtml-filer till svg-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

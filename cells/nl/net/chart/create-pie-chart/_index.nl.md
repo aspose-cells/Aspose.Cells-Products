@@ -1,6 +1,6 @@
-﻿---
+---
 title: Cirkeldiagrammen maken via C#
-url: /nl/net/create-pie-chart/
+
 description: C# Voorbeeldcode voor het maken van cirkeldiagrammen naar Excel met .NET Bibliotheek. Gebruik deze code om een cirkeldiagram naar MS Excel te maken binnen VB.NET, Asp.NET of een op .NET gebaseerde toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

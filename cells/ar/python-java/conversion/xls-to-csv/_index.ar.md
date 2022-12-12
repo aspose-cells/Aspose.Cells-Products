@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLS إلى CSV عبر Python
-url: /ar/python-java/conversion/xls-to-csv/
+
 description: نموذج كود لتحويل xls إلى csv Python. استخدم API رمز المثال لملفات xls الدفعية لتحويل csv داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi EXCEL sang WORD qua Python
-url: /vi/python-java/conversion/excel-to-word/
+
 description: Mã mẫu để chuyển đổi từ excel sang từ Python. Sử dụng mã mẫu API cho các tệp excel hàng loạt để chuyển đổi từ trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

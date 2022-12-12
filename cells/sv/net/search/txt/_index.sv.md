@@ -1,7 +1,7 @@
-﻿---
+---
 title: Sök i TXT-dokument utan att öppna via .NET 
 weight: 8410
-url: /sv/net/search/txt/ 
+
 description: C# källkod för att söka efter ord med mönster i TXT-fil på .NET Framework, .NET Core, Mono eller Xamarin-plattformar.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

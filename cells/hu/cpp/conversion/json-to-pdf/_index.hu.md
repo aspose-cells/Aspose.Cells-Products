@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja a JSON-t PDF-be a(z) C++ alkalmazással 
-url: /hu/cpp/conversion/json-to-pdf/ 
+
 description: Minta C++ konverziós kód a JSON-dokumentumhoz PDF formátumba. A programozók ezt a forráskódot használhatják a JSON-ból PDF-be való kötegelt konvertáláshoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

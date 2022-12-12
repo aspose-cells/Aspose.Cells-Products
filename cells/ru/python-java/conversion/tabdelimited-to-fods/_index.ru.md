@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование TABDELIMITED в FODS через Python
-url: /ru/python-java/conversion/tabdelimited-to-fods/
+
 description: Пример кода для преобразования tabdelimited в fods Python. Используйте пример кода API для пакетного преобразования файлов с разделителями табуляции в fods в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: حماية وقفل مستند XLSM عبر .NET 
 weight: 7530
-url: /ar/net/protect/xlsm/ 
+
 description: C# شفرة المصدر لقفل ملف XLSM باستخدام كلمة المرور في .NET Framework أو .NET Core أو Mono أو أنظمة Xamarin الأساسية.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

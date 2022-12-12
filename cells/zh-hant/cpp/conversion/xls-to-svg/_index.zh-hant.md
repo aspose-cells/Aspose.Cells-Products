@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通過 C++ 應用程序將 XLS 轉換為 SVG 
 weight: 2060
-url: /zh-hant/cpp/conversion/xls-to-svg/ 
+
 description: XLS 文檔到 SVG 格式的示例 C++ 轉換代碼。程序員可以使用此源代碼在任何 C++ 應用程序中進行批量 XLS 到 SVG 的轉換。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

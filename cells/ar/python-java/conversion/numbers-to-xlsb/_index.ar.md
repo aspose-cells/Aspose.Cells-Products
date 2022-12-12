@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل NUMBERS إلى XLSB عبر Python
-url: /ar/python-java/conversion/numbers-to-xlsb/
+
 description: نموذج رمز للأرقام لتحويل xlsb Python. استخدم API رمز المثال لملفات أرقام الدُفعات لتحويل xlsb داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

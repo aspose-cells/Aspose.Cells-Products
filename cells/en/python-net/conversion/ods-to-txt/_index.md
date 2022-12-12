@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to TXT via Python
-url: /python-net/conversion/ods-to-txt/
+
 description: Sample code for ods to txt Python conversion. Use API example code for batch ods files to txt conversion within Python application.
 ---
 

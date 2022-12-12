@@ -1,6 +1,6 @@
-﻿---
+---
 title: Vytvářejte soubory MS Excel XLS prostřednictvím C# 
-url: /cs/net/create-xls/ 
+
 description: C# Ukázkový kód pro generování dokumentů XLS. Tento kód použijte k vytváření souborů MS Excel XLS v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

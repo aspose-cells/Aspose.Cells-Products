@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLS na SQL přes Python
-url: /cs/python-java/conversion/xls-to-sql/
+
 description: Ukázkový kód pro převod xls na sql Python. Použijte API ukázkový kód pro dávkový převod souborů xls na SQL v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

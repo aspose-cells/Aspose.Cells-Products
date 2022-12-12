@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLS-fájlok egyesítése a következőn keresztül: Java "
 weight: 5140
-url: /hu/java/merger/xls/ 
+
 description: Java mintakód az XLS dokumentumok kombinálásához a Java Runtime Environment for JSP/JSF Applications and Desktop Applications rendszerben.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

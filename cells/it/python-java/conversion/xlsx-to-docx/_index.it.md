@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converti XLSX in DOCX tramite Python
-url: /it/python-java/conversion/xlsx-to-docx/
+
 description: Codice di esempio per la conversione da xlsx a docx Python. Usa API codice di esempio per la conversione batch di file xlsx in docx all'interno dell'applicazione Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

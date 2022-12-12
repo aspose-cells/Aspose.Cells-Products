@@ -1,6 +1,6 @@
-﻿---
+---
 title: FODS को C# के माध्यम से XLSB में बदलें
-url: /hi/net/conversion/fods-to-xlsb/
+
 description: फ़ोड्स के लिए xlsb C# रूपांतरण के लिए नमूना कोड। VB.NET, Asp.NET या किसी भी .NET आधारित एप्लिकेशन के भीतर बैच फोड फ़ाइलों के xlsb रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

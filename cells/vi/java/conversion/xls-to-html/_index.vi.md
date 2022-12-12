@@ -1,7 +1,7 @@
-﻿---
+---
 title: Chuyển đổi XLS sang HTML qua Java 
 weight: 6290
-url: /vi/java/conversion/xls-to-html/ 
+
 description: Mã chuyển đổi Java mẫu cho định dạng XLS sang tệp HTML. Lập trình viên có thể sử dụng mã mẫu này để xuất bảng tính Excel & OpenOffice sang HTML trong bất kỳ Ứng dụng dựa trên Web hoặc Máy tính Java nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

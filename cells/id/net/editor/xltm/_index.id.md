@@ -1,6 +1,6 @@
-﻿---
+---
 title: Edit file XLTM melalui .NET 
-url: /id/net/editor/xltm/ 
+
 description: C# kode sumber untuk mengedit dokumen XLTM di .NET Framework, .NET Core, Windows Azure, Mono atau Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

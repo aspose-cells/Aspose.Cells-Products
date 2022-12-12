@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή TXT σε XML μέσω της εφαρμογής C++ 
-url: /el/cpp/conversion/txt-to-xml/ 
+
 description: Δείγμα κώδικα μετατροπής C++ για έγγραφο TXT σε μορφή XML. Οι προγραμματιστές μπορούν να χρησιμοποιήσουν αυτόν τον πηγαίο κώδικα για ομαδική μετατροπή TXT σε XML σε οποιαδήποτε εφαρμογή C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

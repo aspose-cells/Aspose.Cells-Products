@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLTX إلى DIF عبر تطبيق C++ 
-url: /ar/cpp/conversion/xltx-to-dif/ 
+
 description: نموذج C++ رمز تحويل لمستند XLTX إلى تنسيق DIF. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل XLTX إلى DIF دفعة داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

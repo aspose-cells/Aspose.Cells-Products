@@ -1,7 +1,7 @@
-﻿---
+---
 title: แปลง TSV เป็น SVG ผ่าน Java 
 weight: 7460
-url: /th/java/conversion/tsv-to-svg/ 
+
 description: ตัวอย่างรหัสการแปลง Java สำหรับรูปแบบ TSV เป็นไฟล์ SVG โปรแกรมเมอร์สามารถใช้โค้ดตัวอย่างนี้เพื่อส่งออกสเปรดชีต Excel & OpenOffice ไปยัง SVG ภายในแอปพลิเคชันบนเว็บหรือเดสก์ท็อป Java
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

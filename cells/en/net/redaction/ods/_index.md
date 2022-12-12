@@ -1,7 +1,7 @@
 ---
 title: Search and replace text in ODS document via .NET 
 weight: 6100
-url: /net/redaction/ods/ 
+
 description: C# source code to redact sensitive information in ODS file on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

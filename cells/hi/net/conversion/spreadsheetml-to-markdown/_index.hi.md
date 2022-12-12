@@ -1,6 +1,6 @@
-﻿---
+---
 title: स्प्रैडशीटएमएल को C# के माध्यम से मार्कडाउन में बदलें
-url: /hi/net/conversion/spreadsheetml-to-markdown/
+
 description: C# रूपांतरण को मार्कडाउन करने के लिए स्प्रेडशीटएमएल के लिए नमूना कोड। VB.NET, Asp.NET या किसी .NET आधारित एप्लिकेशन में रूपांतरण को मार्कडाउन करने के लिए बैच स्प्रेडशीटएमएल फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

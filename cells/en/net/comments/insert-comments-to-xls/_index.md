@@ -1,6 +1,6 @@
 ---
 title: Insert comments to Excel XLS file via .NET
-url: /net/comments/insert-comments-to-xls/ 
+
 description: Insert comments to XLS using C#. Use API example code to insert comments within .NET application.
 ---
 

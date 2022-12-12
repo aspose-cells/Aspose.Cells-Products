@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET Java C++ واجهات برمجة تطبيقات تحليل جداول بيانات PHP و Android Excel 
 weight: 10
-url: /ar/family
+
 description: مكتبات لقراءة الكتابة ومعالجة ملفات Microsoft Excel في .NET Java C++ تطبيقات Android و SharePoint. تصدير أوراق العمل في SSRS و JasperReports
 ---
 {{< blocks/products/pf/main-wrap-class >}}

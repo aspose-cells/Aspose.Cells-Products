@@ -1,6 +1,6 @@
 ---
 title: Merge NUMBERS to HTM Files via Java 
-url: /java/merger/merge-numbers-to-htm/ 
+
 description: Merge NUMBERS to HTM file in Java code. Combine NUMBERS to HTM file using Java based desktop or web application.
 ---
 

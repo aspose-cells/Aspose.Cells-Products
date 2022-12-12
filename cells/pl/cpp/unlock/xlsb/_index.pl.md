@@ -1,7 +1,7 @@
-﻿---
+---
 title: Odblokuj dokument XLSB przez C++ 
 weight: 7420
-url: /pl/cpp/unlock/xlsb/ 
+
 description: C++ przykładowy kod odblokowujący chroniony hasłem plik XLSB w C++ środowisku wykonawczym dla 32-bitowego systemu Windows, 64-bitowego systemu Windows i 64-bitowego systemu Linux.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

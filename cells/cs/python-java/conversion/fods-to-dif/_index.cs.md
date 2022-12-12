@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést FODS na DIF prostřednictvím Python
-url: /cs/python-java/conversion/fods-to-dif/
+
 description: Ukázkový kód pro konverzi fod to dif Python. Použijte API ukázkový kód pro dávkové soubory fods pro převod převodu v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

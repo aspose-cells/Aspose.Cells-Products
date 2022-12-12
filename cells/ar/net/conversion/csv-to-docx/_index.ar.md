@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل CSV إلى DOCX عبر C#
-url: /ar/net/conversion/csv-to-docx/
+
 description: نموذج كود لتحويل csv إلى docx C#. استخدم API رمز المثال لملفات csv المجمعة لتحويل docx داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

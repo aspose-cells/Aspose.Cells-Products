@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to PPTX via Java 
-url: /java/conversion/excel-to-pptx/
+
 description: Convert EXCEL to PPTX format in Java code. Save EXCEL as PPTX using Java.
 ---
 

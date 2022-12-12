@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla CSV'yi MHTML'ye dönüştürün
-url: /tr/net/conversion/csv-to-mhtml/
+
 description: csv'den mhtml'ye C# dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu csv dosyalarını mhtml'ye dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

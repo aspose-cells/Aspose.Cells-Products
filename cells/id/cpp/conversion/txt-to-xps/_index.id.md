@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi TXT ke XPS melalui C++ aplikasi 
-url: /id/cpp/conversion/txt-to-xps/ 
+
 description: Contoh C++ kode konversi untuk dokumen TXT ke format XPS. Pemrogram dapat menggunakan kode sumber ini untuk konversi batch TXT ke XPS dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してXLTMをODSに変換します
-url: /ja/python-java/conversion/xltm-to-ods/
+
 description: xltmからodsPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチxltmファイルからodsへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

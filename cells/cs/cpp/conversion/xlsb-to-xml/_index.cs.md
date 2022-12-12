@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte XLSB na XML pomocí aplikace C++ 
-url: /cs/cpp/conversion/xlsb-to-xml/ 
+
 description: Ukázka převodního kódu C++ pro dokument XLSB do formátu XML. Programátoři mohou použít tento zdrojový kód pro dávkovou konverzi XLSB na XML v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

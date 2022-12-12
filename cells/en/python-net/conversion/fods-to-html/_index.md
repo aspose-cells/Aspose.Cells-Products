@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to HTML via Python
-url: /python-net/conversion/fods-to-html/
+
 description: Sample code for fods to html Python conversion. Use API example code for batch fods files to html conversion within Python application.
 ---
 

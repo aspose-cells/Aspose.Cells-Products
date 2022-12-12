@@ -1,7 +1,7 @@
-﻿---
+---
 title: Genereer rapporten in XLSX-bestanden via Java 
 weight: 7710
-url: /nl/java/assembly/xlsx/ 
+
 description: Java voorbeeldcode om rapporten in XLSX-indeling te maken op Java Runtime Environment voor JSP/JSF-applicaties en desktopapplicaties.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

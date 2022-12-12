@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi CSV sang XLS qua Python
-url: /vi/python-java/conversion/csv-to-xls/
+
 description: Mã mẫu cho chuyển đổi csv sang xls Python. Sử dụng API mã ví dụ cho chuyển đổi hàng loạt tệp csv sang xls trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Manage Excel File Metadata via .NET C#
-url: /net/metadata/
+
 description: View, add, edit, remove or extract Excel files metadata with just few lines of C# code
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Επεξεργασία ή προβολή μεταδεδομένων αρχείων XLSM μέσω Java 
 weight: 9030
-url: /el/java/metadata/xlsm/ 
+
 description: Java δείγμα κώδικα για επεξεργασία ή προβολή μεταδεδομένων μορφής XLSM στο Java Runtime Environment για JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

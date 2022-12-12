@@ -1,6 +1,6 @@
 ---
 title: Convert XLSM to SVG via Python
-url: /python-net/conversion/xlsm-to-svg/
+
 description: Sample code for xlsm to svg Python conversion. Use API example code for batch xlsm files to svg conversion within Python application.
 ---
 

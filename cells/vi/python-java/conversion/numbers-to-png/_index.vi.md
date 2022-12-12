@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển NUMBERS thành PNG qua Python
-url: /vi/python-java/conversion/numbers-to-png/
+
 description: Mã mẫu cho chuyển đổi số thành png Python. Sử dụng mã mẫu API cho các tệp số lô thành chuyển đổi png trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

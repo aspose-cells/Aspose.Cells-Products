@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLSB konvertálása XLTM-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/xlsb-to-xltm/
+
 description: Mintakód az xlsb–xltm Python konverzióhoz. Használjon API példakódot a kötegelt xlsb fájlok xltm konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

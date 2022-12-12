@@ -1,7 +1,7 @@
 ---
 title: Merge XLSM Files via .NET 
 weight: 660
-url: /net/merger/xlsm/ 
+
 description: C# source code to combine XLSM documents on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

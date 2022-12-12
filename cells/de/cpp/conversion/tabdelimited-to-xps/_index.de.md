@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie TABDELIMITED über die Anwendung C++ in XPS 
-url: /de/cpp/conversion/tabdelimited-to-xps/ 
+
 description: Beispiel-Umwandlungscode C++ für das TABDELIMITED-Dokument in das XPS-Format. Programmierer können diesen Quellcode für die Batch-Konvertierung von TABDELIMITED in XPS in jeder C++-Anwendung verwenden.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

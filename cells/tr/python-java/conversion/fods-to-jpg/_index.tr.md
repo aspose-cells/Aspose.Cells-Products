@@ -1,6 +1,6 @@
-﻿---
+---
 title: FODS'u Python aracılığıyla JPG'ye dönüştürün
-url: /tr/python-java/conversion/fods-to-jpg/
+
 description: Yemlerin jpg Python dönüşümüne ilişkin örnek kod. Python uygulamasında toplu dosya dosyalarını jpg'ye dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

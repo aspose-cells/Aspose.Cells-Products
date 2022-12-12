@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLTM को C# के माध्यम से बाइट ऐरे में बदलें 
 weight: 7690
-url: /hi/net/conversion/xltm-to-byte-array/ 
+
 description: C# XLTM से बाइट सरणी रूपांतरण के लिए नमूना कोड। VB.NET, Asp.NET या किसी .NET आधारित एप्लिकेशन के भीतर Excel XLTM से बाइट ऐरे रूपांतरण के लिए इस कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

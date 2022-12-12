@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte JSON na XLSX pomocí aplikace C++ 
-url: /cs/cpp/conversion/json-to-xlsx/ 
+
 description: Ukázkový konverzní kód C++ pro dokument JSON na formát XLSX. Programátoři mohou použít tento zdrojový kód pro dávkový převod JSON na XLSX v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

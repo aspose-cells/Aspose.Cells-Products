@@ -1,6 +1,6 @@
-﻿---
+---
 title: "MHTML konvertálása XLTM-re a következőn keresztül: C#"
-url: /hu/net/conversion/mhtml-to-xltm/
+
 description: Mintakód az mhtml–xltm C# konverzióhoz. Használjon API példakódot kötegelt mhtml fájlok xltm konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

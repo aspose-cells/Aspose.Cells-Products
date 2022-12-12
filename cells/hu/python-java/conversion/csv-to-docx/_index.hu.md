@@ -1,6 +1,6 @@
-﻿---
+---
 title: "CSV konvertálása DOCX-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/csv-to-docx/
+
 description: Mintakód a csv–docx Python konverzióhoz. Használjon API példakódot a kötegelt csv fájlok docx konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

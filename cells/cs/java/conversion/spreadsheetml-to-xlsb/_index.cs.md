@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést SPREADSHEETML na XLSB přes Java 
-url: /cs/java/conversion/spreadsheetml-to-xlsb/ 
+
 description: Ukázkový konverzní kód Java pro formát SPREADSHEETML na soubor XLSB. Programátoři mohou použít tento příklad kódu k exportu tabulek Excelu a OpenOffice do XLSB v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

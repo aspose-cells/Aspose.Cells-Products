@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل SPREADSHEETML إلى HTML عبر Python
-url: /ar/python-java/conversion/spreadsheetml-to-html/
+
 description: نموذج كود لتحويل جدول البيانات إلى html Python. استخدم API رمز المثال لملفات جداول البيانات الدفعية لتحويل html داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

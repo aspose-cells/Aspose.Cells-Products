@@ -1,7 +1,7 @@
-﻿---
+---
 title: แผนภูมิเอกสาร XLSM ผ่าน C++ 
 weight: 8510
-url: /th/cpp/chart/xlsm/ 
+
 description: C++ ตัวอย่างโค้ดสำหรับการวาดและแปลงแผนภูมิหรือไดอะแกรมในไฟล์ XLSM บน C++ Runtime Environment สำหรับ Windows 32 บิต, Windows 64 บิต และ Linux 64 บิต
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

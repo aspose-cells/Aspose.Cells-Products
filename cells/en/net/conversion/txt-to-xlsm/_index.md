@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to XLSM via C#
-url: /net/conversion/txt-to-xlsm/
+
 description: Convert TXT to XLSM format in C# code. Save TXT as XLSM using VB.NET, Asp.NET or any .NET based application.
 ---
 

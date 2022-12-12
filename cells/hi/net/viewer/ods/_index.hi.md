@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET के माध्यम से ODS फ़ाइल स्वरूप देखें 
 weight: 130
-url: /hi/net/viewer/ods/ 
+
 description: .NET फ्रेमवर्क, .NET कोर, Mono या Xamarin प्लेटफॉर्म पर ODS दस्तावेज़ों को लोड करने, प्रस्तुत करने और प्रदर्शित करने के लिए C# स्रोत कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

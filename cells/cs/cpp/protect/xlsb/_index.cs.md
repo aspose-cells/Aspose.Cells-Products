@@ -1,7 +1,7 @@
-﻿---
+---
 title: Chránit a uzamknout dokument XLSB prostřednictvím C++ 
 weight: 4860
-url: /cs/cpp/protect/xlsb/ 
+
 description: C++ ukázkový kód pro uzamčení souboru XLSB pomocí hesla v C++ Runtime Environment pro Windows 32 bit, Windows 64 bit a Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

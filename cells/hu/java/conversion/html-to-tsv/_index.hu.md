@@ -1,7 +1,7 @@
-﻿---
+---
 title: "HTML konvertálása TSV-vé a következőn keresztül: Java "
 weight: 8790
-url: /hu/java/conversion/html-to-tsv/ 
+
 description: Minta Java konverziós kód HTML-formátumhoz TSV-fájllá. A programozók ezt a példakódot használhatják Excel- és OpenOffice-táblázatok exportálására TSV-be bármely web- vagy asztali Java-alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

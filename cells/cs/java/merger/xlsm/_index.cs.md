@@ -1,7 +1,7 @@
-﻿---
+---
 title: Sloučit soubory XLSM přes Java 
 weight: 1270
-url: /cs/java/merger/xlsm/ 
+
 description: Java ukázkový kód pro kombinaci dokumentů XLSM v Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

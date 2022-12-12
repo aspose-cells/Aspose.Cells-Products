@@ -1,7 +1,7 @@
-﻿---
+---
 title: MHTML konvertálása XLS-re a(z) C++ alkalmazással 
 weight: 7320
-url: /hu/cpp/conversion/mhtml-to-xls/ 
+
 description: Minta C++ konverziós kód MHTML dokumentumhoz XLS formátumba. A programozók ezt a forráskódot használhatják MHTML-ből XLS-be kötegelt konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

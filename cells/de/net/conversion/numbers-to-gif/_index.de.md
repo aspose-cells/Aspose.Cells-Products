@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie NUMBERS in GIF über C#
-url: /de/net/conversion/numbers-to-gif/
+
 description: Beispielcode für die Umwandlung von Zahlen in gif C#. Verwenden Sie den API Beispielcode für die Umwandlung von Stapelnummerndateien in gif in VB.NET, Asp.NET oder einer beliebigen .NET-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

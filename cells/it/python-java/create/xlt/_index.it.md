@@ -1,6 +1,6 @@
-﻿---
+---
 title: Crea file XLT di MS Excel tramite Python 
-url: /it/python-java/create-xlt/ 
+
 description: Python Codice di esempio per la generazione di documenti XLT. Utilizzare questo codice per creare file XLT di MS Excel all'interno dell'applicazione Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

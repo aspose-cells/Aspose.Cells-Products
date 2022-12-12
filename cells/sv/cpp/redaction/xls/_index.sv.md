@@ -1,7 +1,7 @@
-﻿---
+---
 title: Sök och ersätt text i XLS-dokument via C++ 
 weight: 380
-url: /sv/cpp/redaction/xls/ 
+
 description: C++ exempelkod för att redigera känslig information i XLS-fil i C++ Runtime Environment för Windows 32-bitars, Windows 64-bitars och Linux 64-bitars.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan TSV ke MHTML melalui Python
-url: /id/python-java/conversion/tsv-to-mhtml/
+
 description: Contoh kode untuk konversi tsv ke mhtml Python. Gunakan API kode contoh untuk file tsv batch ke konversi mhtml dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

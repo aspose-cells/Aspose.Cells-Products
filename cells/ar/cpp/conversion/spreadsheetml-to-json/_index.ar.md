@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل SPREADSHEETML إلى JSON عبر تطبيق C++ 
-url: /ar/cpp/conversion/spreadsheetml-to-json/ 
+
 description: نموذج رمز تحويل C++ لمستند SPREADSHEETML إلى تنسيق JSON. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل SPREADSHEETML دفعة واحدة إلى JSON داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

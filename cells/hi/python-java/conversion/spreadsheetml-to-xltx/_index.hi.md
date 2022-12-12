@@ -1,6 +1,6 @@
-﻿---
+---
 title: PREADSHEETML को Python के माध्यम से XLTX में बदलें
-url: /hi/python-java/conversion/spreadsheetml-to-xltx/
+
 description: स्प्रेडशीटएमएल से xltx Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर xltx रूपांतरण में बैच स्प्रेडशीटएमएल फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

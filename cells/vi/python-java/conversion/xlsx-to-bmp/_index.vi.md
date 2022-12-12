@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi XLSX sang BMP qua Python
-url: /vi/python-java/conversion/xlsx-to-bmp/
+
 description: Mã mẫu cho chuyển đổi xlsx sang bmp Python. Sử dụng API mã mẫu cho hàng loạt tệp xlsx để chuyển đổi bmp trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Hozzon létre HTML-fájlokat a következőn keresztül: Python "
-url: /hu/python-java/create-html/ 
+
 description: Python Mintakód HTML-dokumentumok generálásához. Ezzel a kóddal hozhat létre HTML-fájlokat a(z) Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

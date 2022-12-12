@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan TXT ke XLAM melalui C#
-url: /id/net/conversion/txt-to-xlam/
+
 description: Contoh kode untuk konversi txt ke xlam C#. Gunakan API kode contoh untuk file batch txt ke konversi xlam dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

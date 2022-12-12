@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLSM-bestanden splitsen via Java 
 weight: 5670
-url: /nl/java/splitter/xlsm/ 
+
 description: Java voorbeeldcode om XLSM-documenten te splitsen in Java Runtime Environment voor JSP/JSF-applicaties en desktopapplicaties.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

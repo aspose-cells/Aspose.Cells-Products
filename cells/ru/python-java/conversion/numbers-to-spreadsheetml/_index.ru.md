@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование NUMBERS в SPREADSHETML через Python
-url: /ru/python-java/conversion/numbers-to-spreadsheetml/
+
 description: Пример кода для преобразования чисел в электронную таблицуPython. Используйте пример кода API для преобразования файлов номеров пакетов в электронную таблицу в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

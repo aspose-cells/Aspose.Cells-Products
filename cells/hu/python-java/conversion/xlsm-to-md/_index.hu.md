@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Konvertálja az XLSM-et MD-vé a következőn keresztül: Python"
-url: /hu/python-java/conversion/xlsm-to-md/
+
 description: Mintakód az xlsm–md Python konverzióhoz. Használjon API példakódot a kötegelt xlsm fájlok md konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

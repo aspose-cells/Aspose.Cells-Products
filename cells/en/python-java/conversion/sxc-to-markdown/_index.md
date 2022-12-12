@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to MARKDOWN via Python
-url: /python-java/conversion/sxc-to-markdown/
+
 description: Convert SXC to MARKDOWN format in Python code. Save SXC as MARKDOWN using Python.
 ---
 

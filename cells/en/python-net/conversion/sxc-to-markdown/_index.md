@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to MARKDOWN via Python
-url: /python-net/conversion/sxc-to-markdown/
+
 description: Sample code for sxc to markdown Python conversion. Use API example code for batch sxc files to markdown conversion within Python application.
 ---
 

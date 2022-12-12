@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera NUMBERS till TSV via Java 
-url: /sv/java/conversion/numbers-to-tsv/ 
+
 description: Exempel på Java-konverteringskod för NUMBERS-format till TSV-fil. Programmerare kan använda den här exempelkoden för att exportera Excel- och OpenOffice-kalkylblad till TSV inom alla webb- eller skrivbordsbaserade Javaapplikationer.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

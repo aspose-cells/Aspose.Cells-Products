@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή SXC σε HTML μέσω Python
-url: /el/python-java/conversion/sxc-to-html/
+
 description: Δείγμα κώδικα για μετατροπή από sxc σε html Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδική μετατροπή αρχείων sxc σε html εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

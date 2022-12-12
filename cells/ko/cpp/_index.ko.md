@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ Excel 스프레드시트 프로그래밍 API - Aspose 
 weight: 7140
-url: /ko/cpp/ 
+
 description: C++ XLS, XLSX, XLSM 및 XLSB 형식을 포함한 쓰기 및 구문 분석 파일을 읽기 위한 Excel 라이브러리. 스프레드시트를 PDF, CSV 및 기타 형식으로 변환
 ---
 {{< blocks/products/pf/main-wrap-class >}}

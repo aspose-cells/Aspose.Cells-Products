@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してTXTをMARKDOWNに変換します
-url: /ja/python-java/conversion/txt-to-markdown/
+
 description: txtからマークダウンPythonへの変換のサンプルコード。バッチtxtファイルのAPIサンプルコードを使用して、Pythonアプリケーション内で変換をマークダウンします。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

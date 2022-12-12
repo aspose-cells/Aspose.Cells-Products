@@ -1,7 +1,7 @@
-﻿---
+---
 title: Zoek en vervang tekst in XLS-document via Java 
 weight: 7900
-url: /nl/java/redaction/xls/ 
+
 description: Java voorbeeldcode om gevoelige informatie in XLS-bestand te redigeren in Java Runtime Environment voor JSP/JSF-applicaties en desktopapplicaties.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

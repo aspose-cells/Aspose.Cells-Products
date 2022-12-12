@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してNUMBERSをJPEGに変換します
-url: /ja/python-java/conversion/numbers-to-jpeg/
+
 description: 数値からjpegPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチ番号ファイルからjpegへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

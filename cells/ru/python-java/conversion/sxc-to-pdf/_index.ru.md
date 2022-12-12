@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование SXC в PDF через Python
-url: /ru/python-java/conversion/sxc-to-pdf/
+
 description: Пример кода для преобразования sxc в pdf Python. Используйте пример кода API для пакетного преобразования файлов sxc в pdf в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLTX в DIF с помощью приложения C++ 
-url: /ru/cpp/conversion/xltx-to-dif/ 
+
 description: Пример кода преобразования C++ для документа XLTX в формат DIF. Программисты могут использовать этот исходный код для пакетного преобразования XLTX в DIF в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

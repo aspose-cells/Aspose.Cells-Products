@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi TABDELIMITED ke PDF melalui Python
-url: /id/python-java/conversion/tabdelimited-to-pdf/
+
 description: Contoh kode untuk konversi tabdelimited ke pdf Python. Gunakan API kode contoh untuk berkas tabdelimited batch ke konversi pdf dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

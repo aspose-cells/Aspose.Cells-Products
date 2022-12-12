@@ -1,7 +1,7 @@
-﻿---
+---
 title: Durchsuchen Sie das TSV-Dokument, ohne es über C++ zu öffnen 
 weight: 930
-url: /de/cpp/search/tsv/ 
+
 description: C++ Beispielcode zum Suchen von Wörtern mit Muster in der TSV-Datei in der C++ Laufzeitumgebung für Windows 32 Bit, Windows 64 Bit und Linux 64 Bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

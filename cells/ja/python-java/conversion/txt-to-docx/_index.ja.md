@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してTXTをDOCXに変換します
-url: /ja/python-java/conversion/txt-to-docx/
+
 description: txtからdocxPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチtxtファイルからdocxへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

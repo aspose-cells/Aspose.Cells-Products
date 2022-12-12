@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TXT إلى XML عبر Python
-url: /ar/python-java/conversion/txt-to-xml/
+
 description: نموذج رمز للتحويل من TXT إلى xml Python. استخدم API رمز المثال لملفات txt الدفعية لتحويل xml داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to PNG via Java 
-url: /java/conversion/html-to-png/
+
 description: Convert HTML to PNG format in Java code. Save HTML as PNG using Java.
 ---
 

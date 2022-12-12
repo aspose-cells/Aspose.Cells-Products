@@ -1,6 +1,6 @@
-﻿---
+---
 title: Java aracılığıyla CSV'yi SPREADSHEETML'ye dönüştürün 
-url: /tr/java/conversion/csv-to-spreadsheetml/ 
+
 description: CSV biçimi için SPREADSHEETML dosyasına örnek Java dönüştürme kodu. Programcılar, Excel ve OpenOffice elektronik tablolarını herhangi bir Web veya Masaüstü Java tabanlı Uygulamada SPREADSHEETML'ye aktarmak için bu örnek kodu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

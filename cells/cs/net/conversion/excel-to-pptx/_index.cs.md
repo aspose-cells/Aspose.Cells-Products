@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést EXCEL na PPTX přes C#
-url: /cs/net/conversion/excel-to-pptx/
+
 description: Ukázkový kód pro převod Excel na pptx C#. Použijte API ukázkový kód pro dávkový převod souborů Excel na pptx v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

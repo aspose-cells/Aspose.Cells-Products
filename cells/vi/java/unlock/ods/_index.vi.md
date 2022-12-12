@@ -1,7 +1,7 @@
-﻿---
+---
 title: Mở khóa tài liệu ODS qua Java 
 weight: 5080
-url: /vi/java/unlock/ods/ 
+
 description: Java mã mẫu để mở khóa tệp ODS được bảo vệ bằng mật khẩu trên Java Môi trường thời gian chạy cho Ứng dụng JSP / JSF và Ứng dụng máy tính để bàn.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование NUMBERS в MARKDOWN с помощью C#
-url: /ru/net/conversion/numbers-to-markdown/
+
 description: Пример кода для преобразования чисел в уценку C#. Используйте пример кода API для файлов номеров пакетов для преобразования уценки в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

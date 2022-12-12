@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง XLSM เป็น HTML ผ่าน Python
-url: /th/python-java/conversion/xlsm-to-html/
+
 description: โค้ดตัวอย่างสำหรับการแปลง xlsm เป็น html Python ใช้โค้ดตัวอย่าง API สำหรับไฟล์ batch xlsm เป็นการแปลง html ภายในแอปพลิเคชัน Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

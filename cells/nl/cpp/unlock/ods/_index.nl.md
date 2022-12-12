@@ -1,7 +1,7 @@
-﻿---
+---
 title: Ontgrendel ODS-document via C++ 
 weight: 1190
-url: /nl/cpp/unlock/ods/ 
+
 description: C++ voorbeeldcode om met een wachtwoord beveiligd ODS-bestand te ontgrendelen op C++ Runtime Environment voor Windows 32 bit, Windows 64 bit en Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してSPREADSHEETMLをTIFFに変換します
-url: /ja/net/conversion/spreadsheetml-to-tiff/
+
 description: SpreadsheetmlからtiffC#への変換のサンプルコード。バッチspreadsheetmlファイルのAPIサンプルコードを使用して、VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内で変換をtiffします。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

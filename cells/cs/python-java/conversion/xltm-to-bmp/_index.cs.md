@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLTM na BMP přes Python
-url: /cs/python-java/conversion/xltm-to-bmp/
+
 description: Ukázkový kód pro převod xltm na bmp Python. Použijte API ukázkový kód pro dávkový převod souborů xltm na bmp v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

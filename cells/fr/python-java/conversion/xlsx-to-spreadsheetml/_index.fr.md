@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir XLSX en SPREADSHEETML via Python
-url: /fr/python-java/conversion/xlsx-to-spreadsheetml/
+
 description: Exemple de code pour la conversion xlsx vers tableurml Python. Utilisez l'exemple de code API pour la conversion de fichiers xlsx par lots en feuille de calcul dans l'application Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

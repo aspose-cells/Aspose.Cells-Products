@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést HTML na DOCX pomocí C#
-url: /cs/net/conversion/html-to-docx/
+
 description: Ukázkový kód pro převod html na docx C#. Použijte API ukázkový kód pro dávkový převod html souborů na docx v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

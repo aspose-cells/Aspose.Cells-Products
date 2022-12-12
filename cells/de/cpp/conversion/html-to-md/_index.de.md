@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie HTML in MD über die Anwendung C++ 
-url: /de/cpp/conversion/html-to-md/ 
+
 description: Beispiel-Umwandlungscode C++ für ein HTML-Dokument in das MD-Format. Programmierer können diesen Quellcode für die Batch-Konvertierung von HTML in MD in jeder C++-Anwendung verwenden.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

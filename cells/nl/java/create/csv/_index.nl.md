@@ -1,6 +1,6 @@
-﻿---
+---
 title: CSV-bestanden maken via Java 
-url: /nl/java/create-csv/ 
+
 description: Java Voorbeeldcode voor het genereren van CSV-documenten. Gebruik deze code om CSV-bestanden te maken binnen een op Java gebaseerde desktop- of webtoepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

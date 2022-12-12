@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLS दस्तावेज़ में C++ के माध्यम से टेक्स्ट खोजें और बदलें 
 weight: 380
-url: /hi/cpp/redaction/xls/ 
+
 description: C++ Windows 32 बिट, Windows 64 बिट और Linux 64 बिट के लिए रनटाइम परिवेश पर XLS फ़ाइल में संवेदनशील जानकारी को संशोधित करने के लिए C++ उदाहरण कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

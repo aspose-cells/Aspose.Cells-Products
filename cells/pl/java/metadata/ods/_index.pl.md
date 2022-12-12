@@ -1,7 +1,7 @@
-﻿---
+---
 title: Edytuj lub wyświetl metadane plików ODS za pomocą Java 
 weight: 2080
-url: /pl/java/metadata/ods/ 
+
 description: Java przykładowy kod do edycji lub przeglądania metadanych formatu ODS w Java środowisku wykonawczym dla aplikacji JSP/JSF i aplikacji komputerowych.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

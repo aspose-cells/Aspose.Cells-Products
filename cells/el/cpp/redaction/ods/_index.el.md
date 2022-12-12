@@ -1,7 +1,7 @@
-﻿---
+---
 title: Αναζήτηση και αντικατάσταση κειμένου στο έγγραφο ODS μέσω C++ 
 weight: 1610
-url: /el/cpp/redaction/ods/ 
+
 description: C++ παράδειγμα κώδικα για τη διόρθωση ευαίσθητων πληροφοριών σε αρχείο ODS στο C++ Runtime Environment για Windows 32 bit, Windows 64 bit και Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

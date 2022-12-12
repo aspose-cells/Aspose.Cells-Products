@@ -1,6 +1,6 @@
-﻿---
+---
 title: XLS को MD से C# में बदलें
-url: /hi/net/conversion/xls-to-md/
+
 description: xls से md C# रूपांतरण के लिए नमूना कोड। VB.NET, Asp.NET या किसी .NET आधारित एप्लिकेशन के भीतर बैच xls फ़ाइलों से md रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

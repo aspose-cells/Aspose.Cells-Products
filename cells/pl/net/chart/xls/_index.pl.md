@@ -1,7 +1,7 @@
-﻿---
+---
 title:  Wykres dokumentów XLS do obrazów za pośrednictwem .NET 
 weight: 3210
-url: /pl/net/chart/xls/ 
+
 description: C# kod źródłowy do rysowania i konwertowania wykresu lub diagramu w pliku XLS na platformach .NET Framework, .NET Core, Mono lub Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

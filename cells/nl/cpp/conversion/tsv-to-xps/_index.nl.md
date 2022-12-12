@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer TSV naar XPS via C++ applicatie 
 weight: 3960
-url: /nl/cpp/conversion/tsv-to-xps/ 
+
 description: Voorbeeld C++ conversiecode voor TSV-document naar XPS-indeling. Programmeurs kunnen deze broncode gebruiken voor batch-TSV-naar-XPS-conversie binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

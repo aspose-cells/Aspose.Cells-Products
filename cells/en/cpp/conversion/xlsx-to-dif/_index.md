@@ -1,6 +1,6 @@
 ---
 title: Convert XLSX to DIF via C++
-url: /cpp/conversion/xlsx-to-dif/
+
 description: Convert XLSX to DIF format in C++ code. Save XLSX as DIF using C++.
 ---
 

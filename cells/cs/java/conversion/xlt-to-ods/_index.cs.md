@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést XLT na ODS přes Java 
 weight: 5710
-url: /cs/java/conversion/xlt-to-ods/ 
+
 description: Ukázka převodního kódu Java pro soubor ve formátu XLT na soubor ODS. Programátoři mohou použít tento příklad kódu k exportu tabulek Excelu a OpenOffice do ODS v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

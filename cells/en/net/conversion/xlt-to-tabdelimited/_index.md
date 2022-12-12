@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to TABDELIMITED via C#
-url: /net/conversion/xlt-to-tabdelimited/
+
 description: Convert XLT to TABDELIMITED format in C# code. Save XLT as TABDELIMITED using VB.NET, Asp.NET or any .NET based application.
 ---
 

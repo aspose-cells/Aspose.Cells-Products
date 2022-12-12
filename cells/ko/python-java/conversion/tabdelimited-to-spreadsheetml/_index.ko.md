@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python을(를) 통해 TABDELIMITED를 SPREADSHEETML로 변환
-url: /ko/python-java/conversion/tabdelimited-to-spreadsheetml/
+
 description: 탭으로 구분된 스프레드시트ml Python 변환을 위한 샘플 코드입니다. Python 애플리케이션 내에서 일괄 탭으로 구분된 파일을 스프레드시트ml로 변환하는 API 예제 코드를 사용합니다.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

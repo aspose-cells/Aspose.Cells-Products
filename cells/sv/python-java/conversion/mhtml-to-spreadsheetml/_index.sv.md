@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera MHTML till SPREADSHEETML via Python
-url: /sv/python-java/conversion/mhtml-to-spreadsheetml/
+
 description: Exempelkod för konvertering från mhtml till kalkylarkml Python. Använd API exempelkod för batch-mhtml-filer till kalkylarkml-konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

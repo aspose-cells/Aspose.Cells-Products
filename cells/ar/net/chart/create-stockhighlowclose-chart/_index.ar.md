@@ -1,6 +1,6 @@
-﻿---
+---
 title: إنشاء مخططات الأسهم من أعلى إلى أدنى ومنخفض عبر C#
-url: /ar/net/create-stockhighlowclose-chart/
+
 description: C# نموذج تعليمة برمجية لإنشاء مخططات الأسهم المرتفعة والمنخفضة والمغلقة لبرنامج Excel باستخدام .NET المكتبة. استخدم هذا الرمز لإنشاء مخطط الأسهم من أعلى ومنخفض وإغلاق إلى MS Excel داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

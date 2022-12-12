@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla MS Excel XLS Dosyaları oluşturun 
-url: /tr/net/create-xls/ 
+
 description: C# XLS belgeleri oluşturmak için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde MS Excel XLS dosyaları oluşturmak için bu kodu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

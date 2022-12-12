@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to XLTM via C#
-url: /net/conversion/ods-to-xltm/
+
 description: Convert ODS to XLTM format in C# code. Save ODS as XLTM using VB.NET, Asp.NET or any .NET based application.
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通過 .NET 查看 XLSX 文件格式 
 weight: 2180
-url: /zh-hant/net/viewer/xlsx/ 
+
 description: C# 用於在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上加載、呈現和顯示 XLSX 文檔的源代碼。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

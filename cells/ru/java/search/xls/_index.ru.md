@@ -1,7 +1,7 @@
-﻿---
+---
 title: Поиск документа XLS без открытия через Java 
 weight: 9430
-url: /ru/java/search/xls/ 
+
 description: Пример кода Java для поиска слов с шаблоном в файле XLS в Java среде выполнения для приложений JSP/JSF и настольных приложений.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

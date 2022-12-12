@@ -1,6 +1,6 @@
 ---
 title: Merge MHTML to HTML Files via C++ 
-url: /cpp/merger/merge-mhtml-to-html/ 
+
 description: Merge MHTML to HTML file in C++ code. Combine MHTML to HTML file using C++.
 ---
 

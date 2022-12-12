@@ -1,6 +1,6 @@
-﻿---
+---
 title: PREADSHEETML को C++ एप्लिकेशन के माध्यम से JSON में कनवर्ट करें 
-url: /hi/cpp/conversion/spreadsheetml-to-json/ 
+
 description: स्प्रैडशीटएमएल दस्तावेज़ के लिए नमूना C++ रूपांतरण कोड JSON प्रारूप में। प्रोग्रामर इस स्रोत कोड का उपयोग किसी भी C++ एप्लिकेशन के भीतर PREADSHEETML से JSON रूपांतरण के बैच के लिए कर सकते हैं।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

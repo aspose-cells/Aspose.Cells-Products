@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést SPREADSHEETML na XLAM přes C#
-url: /cs/net/conversion/spreadsheetml-to-xlam/
+
 description: Ukázkový kód pro převod tabulky ml na xlam C#. Použijte API ukázkový kód pro dávkové tabulkové soubory ml ke konverzi xlam v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

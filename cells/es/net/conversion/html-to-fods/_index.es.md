@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta HTML a FODS a través de C#
-url: /es/net/conversion/html-to-fods/
+
 description: Ejemplo de código para la conversión de html a fods C#. Utilice el código de ejemplo API para archivos html por lotes para fomentar la conversión dentro de VB.NET, Asp.NET o cualquier aplicación basada en .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

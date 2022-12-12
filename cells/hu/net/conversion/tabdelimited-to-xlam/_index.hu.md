@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TABDELIMITED konvertálása XLAM-re a következőn keresztül: C#"
-url: /hu/net/conversion/tabdelimited-to-xlam/
+
 description: Mintakód a tabulátorral elválasztott xlam C# konverzióhoz. Használjon API példakódot a kötegelt tabulátorral elválasztott fájlok xlam konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to XML via Java 
-url: /java/conversion/excel-to-xml/
+
 description: Convert EXCEL to XML format in Java code. Save EXCEL as XML using Java.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование NUMBERS в TIFF через C#
-url: /ru/net/conversion/numbers-to-tiff/
+
 description: Пример кода для преобразования чисел в tiff C#. Используйте пример кода API для файлов номеров пакетов для преобразования tiff в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

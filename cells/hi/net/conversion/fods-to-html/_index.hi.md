@@ -1,6 +1,6 @@
-﻿---
+---
 title: FODS को C# के माध्यम से HTML में बदलें
-url: /hi/net/conversion/fods-to-html/
+
 description: html C# रूपांतरण के लिए फ़ूड के लिए नमूना कोड। VB.NET, Asp.NET या किसी .NET आधारित एप्लिकेशन के भीतर html रूपांतरण के लिए बैच फोड फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

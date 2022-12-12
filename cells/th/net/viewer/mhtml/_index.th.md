@@ -1,6 +1,6 @@
-﻿---
+---
 title: ดูรูปแบบไฟล์ MHTML ผ่าน .NET 
-url: /th/net/viewer/mhtml/ 
+
 description: C# ซอร์สโค้ดสำหรับโหลด แสดงผล และแสดงเอกสาร MHTML บน .NET Framework, .NET Core, Windows Azure, Mono หรือ Xamarin Platforms
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل FODS إلى XPS عبر Java 
-url: /ar/java/conversion/fods-to-xps/ 
+
 description: نموذج Java رمز تحويل لتنسيق FODS إلى ملف XPS. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى XPS داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

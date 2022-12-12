@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLT в XLSB через C#
-url: /ru/net/conversion/xlt-to-xlsb/
+
 description: Пример кода для преобразования xlt в xlsb C#. Используйте пример кода API для пакетного преобразования файлов xlt в xlsb в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

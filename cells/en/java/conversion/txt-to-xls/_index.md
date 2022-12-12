@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to XLS via Java 
-url: /java/conversion/txt-to-xls/
+
 description: Convert TXT to XLS format in Java code. Save TXT as XLS using Java.
 ---
 

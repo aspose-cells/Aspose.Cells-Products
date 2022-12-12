@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++ के माध्यम से एक्सेल फ़ाइल एनोटेशन
-url: /hi/cpp/annotation/
+
 description: C++ लाइब्रेरी के साथ Excel और OpenOffice स्प्रैडशीट की डेटा एनोटेशन टिप्पणियां जोड़ें या निकालें.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

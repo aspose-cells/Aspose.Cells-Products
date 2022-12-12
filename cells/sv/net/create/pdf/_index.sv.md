@@ -1,6 +1,6 @@
-﻿---
+---
 title: Skapa PDF-filer via C# 
-url: /sv/net/create-pdf/ 
+
 description: C# Exempelkod för att generera PDF-dokument. Använd den här koden för att skapa PDF-filer inom VB.NET, Asp.NET eller någon annan .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

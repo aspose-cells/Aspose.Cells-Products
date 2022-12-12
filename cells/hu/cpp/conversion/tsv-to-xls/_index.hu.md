@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertálja a TSV-t XLS-re a(z) C++ alkalmazáson keresztül 
 weight: 630
-url: /hu/cpp/conversion/tsv-to-xls/ 
+
 description: Minta C++ konverziós kód a TSV-dokumentumhoz XLS formátumba. A programozók ezt a forráskódot használhatják kötegelt TSV-ből XLS-be konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

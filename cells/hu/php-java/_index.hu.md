@@ -1,7 +1,7 @@
-﻿---
+---
 title: Excel-táblázat PHP API - Aspose 
 weight: 3660
-url: /hu/php-java/ 
+
 description: PHP Excel táblázat API az XLS XLSX CSV TSV HTML ODS SpreadsheetML és az összes Excel 97-2016 formátum olvasásához és konvertálásához. Táblázatok exportálása több formátumba
 ---
 {{< blocks/products/pf/main-wrap-class >}}

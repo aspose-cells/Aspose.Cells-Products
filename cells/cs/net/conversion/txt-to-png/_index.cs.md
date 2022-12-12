@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TXT na PNG přes C#
-url: /cs/net/conversion/txt-to-png/
+
 description: Ukázkový kód pro převod txt na png C#. Použijte API ukázkový kód pro dávkový převod souborů txt na png v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

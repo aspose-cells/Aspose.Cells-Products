@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan SXC ke SPREADSHEETML melalui Java 
-url: /id/java/conversion/sxc-to-spreadsheetml/ 
+
 description: Contoh Java kode konversi untuk format SXC ke file SPREADSHEETML. Pemrogram dapat menggunakan kode contoh ini untuk mengekspor spreadsheet Excel & OpenOffice ke SPREADSHEETML dalam Aplikasi berbasis Web atau Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

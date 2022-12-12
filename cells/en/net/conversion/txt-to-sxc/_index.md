@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to SXC via C#
-url: /net/conversion/txt-to-sxc/
+
 description: Convert TXT to SXC format in C# code. Save TXT as SXC using VB.NET, Asp.NET or any .NET based application.
 ---
 

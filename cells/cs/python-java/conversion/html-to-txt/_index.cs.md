@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést HTML na TXT pomocí Python
-url: /cs/python-java/conversion/html-to-txt/
+
 description: Ukázkový kód pro převod html na txt Python. Použijte API ukázkový kód pro dávkový převod html souborů na txt v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل SPREADSHEETML إلى CSV عبر Python
-url: /ar/python-java/conversion/spreadsheetml-to-csv/
+
 description: نموذج كود لتحويل جدول البيانات إلى ملف csv Python. استخدم API رمز المثال لملفات جداول البيانات الدفعية لتحويل csv داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

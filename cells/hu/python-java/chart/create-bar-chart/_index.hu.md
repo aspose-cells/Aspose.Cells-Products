@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Oszlopdiagramok létrehozása a következőn keresztül: Python"
-url: /hu/python-java/create-bar-chart/
+
 description: Python Mintakód oszlopdiagramok készítéséhez Excelbe a Python Library használatával. Ezzel a kóddal oszlopdiagramot hozhat létre MS Excelben a Python alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

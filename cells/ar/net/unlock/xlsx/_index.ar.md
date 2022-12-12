@@ -1,7 +1,7 @@
-﻿---
+---
 title: فتح مستند XLSX عبر .NET 
 weight: 2040
-url: /ar/net/unlock/xlsx/ 
+
 description: C# شفرة المصدر لإلغاء تأمين ملف XLSX المحمي بكلمة مرور على .NET Framework أو .NET Core أو Mono أو أنظمة Xamarin الأساسية.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ üzerinden açmadan CSV belgesini arayın 
 weight: 5540
-url: /tr/cpp/search/csv/ 
+
 description: C++ Windows 32 bit, Windows 64 bit ve Linux 64 bit için C++ Runtime Environment'da CSV dosyasında kalıplı sözcükleri aramak için örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

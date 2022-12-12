@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to SVG via Java 
-url: /java/conversion/excel-to-svg/
+
 description: Convert EXCEL to SVG format in Java code. Save EXCEL as SVG using Java.
 ---
 

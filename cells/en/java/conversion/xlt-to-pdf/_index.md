@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to PDF via Java 
-url: /java/conversion/xlt-to-pdf/
+
 description: Convert XLT to PDF format in Java code. Save XLT as PDF using Java.
 ---
 

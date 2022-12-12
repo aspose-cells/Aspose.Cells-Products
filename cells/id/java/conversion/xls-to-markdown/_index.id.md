@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan XLS ke MARKDOWN melalui Java 
-url: /id/java/conversion/xls-to-markdown/ 
+
 description: Contoh Java kode konversi untuk format XLS ke file MARKDOWN. Pemrogram dapat menggunakan kode contoh ini untuk mengekspor spreadsheet Excel & OpenOffice ke MARKDOWN dalam Aplikasi berbasis Web atau Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

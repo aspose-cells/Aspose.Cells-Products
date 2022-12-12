@@ -1,6 +1,6 @@
 ---
 title: Convert TSV to XLSX via Python
-url: /python-java/conversion/tsv-to-xlsx/
+
 description: Convert TSV to XLSX format in Python code. Save TSV as XLSX using Python.
 ---
 

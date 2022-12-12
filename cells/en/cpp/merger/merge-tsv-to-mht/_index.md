@@ -1,6 +1,6 @@
 ---
 title: Merge TSV to MHT Files via C++ 
-url: /cpp/merger/merge-tsv-to-mht/ 
+
 description: Merge TSV to MHT file in C++ code. Combine TSV to MHT file using C++.
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Szöveg keresése és cseréje az ODS-dokumentumban a következőn keresztül: .NET "
 weight: 6100
-url: /hu/net/redaction/ods/ 
+
 description: C# forráskód az ODS-fájl érzékeny információinak törléséhez a .NET Framework, a .NET Core, a Mono vagy a Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

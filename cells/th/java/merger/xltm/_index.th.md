@@ -1,7 +1,7 @@
-﻿---
+---
 title: รวมไฟล์ XLTM ผ่าน Java 
 weight: 8210
-url: /th/java/merger/xltm/ 
+
 description: Java โค้ดตัวอย่างเพื่อรวมเอกสาร XLTM บน Java Runtime Environment สำหรับแอปพลิเคชัน JSP/JSF และแอปพลิเคชันเดสก์ท็อป
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

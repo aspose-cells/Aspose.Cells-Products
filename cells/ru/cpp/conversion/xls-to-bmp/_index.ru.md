@@ -1,7 +1,7 @@
-﻿---
+---
 title: Преобразование XLS в BMP с помощью приложения C++ 
 weight: 5750
-url: /ru/cpp/conversion/xls-to-bmp/ 
+
 description: Пример кода преобразования C++ для документа XLS в формат BMP. Программисты могут использовать этот исходный код для пакетного преобразования XLS в BMP в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

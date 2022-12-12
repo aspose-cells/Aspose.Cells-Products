@@ -1,6 +1,6 @@
-﻿---
+---
 title: "NUMBERS konvertálása XLT-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/numbers-to-xlt/
+
 description: Mintakód számok xlt Python konverziójára. Használjon API példakódot a kötegszámfájlok xlt-konverziójához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

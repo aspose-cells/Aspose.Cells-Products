@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Jelentések létrehozása XLSB-fájlokban a következőn keresztül: Java "
 weight: 3560
-url: /hu/java/assembly/xlsb/ 
+
 description: Java mintakód XLSB formátumú jelentések létrehozásához a Java Futókörnyezetben JSP/JSF alkalmazásokhoz és asztali alkalmazásokhoz.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan XLT ke SPREADSHEETML melalui C#
-url: /id/net/conversion/xlt-to-spreadsheetml/
+
 description: Contoh kode untuk konversi xlt ke spreadsheetml C#. Gunakan API kode contoh untuk file batch xlt ke konversi spreadsheetml dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

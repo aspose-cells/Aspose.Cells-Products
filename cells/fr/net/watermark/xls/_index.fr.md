@@ -1,7 +1,7 @@
-﻿---
+---
 title: Document XLS en filigrane via .NET 
 weight: 3050
-url: /fr/net/watermark/xls/ 
+
 description: Code source C# pour ajouter ou supprimer un filigrane au fichier XLS sur .NET Framework, .NET Core, Mono ou Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

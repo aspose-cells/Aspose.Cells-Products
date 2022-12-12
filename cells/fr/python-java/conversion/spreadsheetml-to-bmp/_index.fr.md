@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir SPREADSHEETML en BMP via Python
-url: /fr/python-java/conversion/spreadsheetml-to-bmp/
+
 description: Exemple de code pour la conversion de tableur ml en bmp Python. Utilisez l'exemple de code API pour les fichiers de tableur par lots vers la conversion bmp dans l'application Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

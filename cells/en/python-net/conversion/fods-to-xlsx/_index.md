@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to XLSX via Python
-url: /python-net/conversion/fods-to-xlsx/
+
 description: Sample code for fods to xlsx Python conversion. Use API example code for batch fods files to xlsx conversion within Python application.
 ---
 

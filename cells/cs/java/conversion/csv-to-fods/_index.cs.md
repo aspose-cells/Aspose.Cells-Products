@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést CSV na FODS prostřednictvím Java 
-url: /cs/java/conversion/csv-to-fods/ 
+
 description: Ukázkový konverzní kód Java pro formát CSV na soubor FODS. Programátoři mohou použít tento příklad kódu k exportu tabulek Excelu a OpenOffice do FODS v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

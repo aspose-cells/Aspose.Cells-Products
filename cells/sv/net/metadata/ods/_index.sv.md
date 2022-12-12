@@ -1,7 +1,7 @@
-﻿---
+---
 title: Visa eller redigera metadata för ODS-filer via .NET 
 weight: 320
-url: /sv/net/metadata/ods/ 
+
 description: C# källkod för att redigera eller visa ODS-formatmetadata på .NET Framework, .NET Core, Mono eller Xamarin-plattformar.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

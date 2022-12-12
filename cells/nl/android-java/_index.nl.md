@@ -1,7 +1,7 @@
-﻿---
+---
 title: Android Excel-spreadsheet API - Aspose 
 weight: 6510
-url: /nl/android-java/ 
+
 description: Android-spreadsheetbibliotheek om Excel-bestanden voor lezen en schrijven te maken en te ontleden. Een spreadsheet API voor de ontwikkeling van mobiele apps
 ---
 {{< blocks/products/pf/main-wrap-class >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLSB в PDF через C#
-url: /ru/net/conversion/xlsb-to-pdf/
+
 description: Пример кода для преобразования xlsb в pdf C#. Используйте пример кода API для пакетного преобразования файлов xlsb в pdf в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

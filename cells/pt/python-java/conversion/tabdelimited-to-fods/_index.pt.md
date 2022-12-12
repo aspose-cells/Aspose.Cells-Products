@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter TABDELIMITED para FODS via Python
-url: /pt/python-java/conversion/tabdelimited-to-fods/
+
 description: Código de exemplo para conversão delimitada por tabulação para fods Python. Use o código de exemplo API para arquivos delimitados por tabulação em lote para conversão de fods no aplicativo Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

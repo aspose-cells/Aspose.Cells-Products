@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to XLAM via Java 
-url: /java/conversion/xls-to-xlam/
+
 description: Convert XLS to XLAM format in Java code. Save XLS as XLAM using Java.
 ---
 

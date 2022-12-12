@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to XLT via Python
-url: /python-java/conversion/numbers-to-xlt/
+
 description: Convert NUMBERS to XLT format in Python code. Save NUMBERS as XLT using Python.
 ---
 

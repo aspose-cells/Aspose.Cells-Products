@@ -1,7 +1,7 @@
-﻿---
+---
 title: Поиск и замена текста в документе XLSB через Java 
 weight: 4590
-url: /ru/java/redaction/xlsb/ 
+
 description: Пример кода Java для редактирования конфиденциальной информации в файле XLSB в Java среде выполнения для приложений JSP/JSF и настольных приложений.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

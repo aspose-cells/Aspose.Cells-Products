@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera MHTML till XML via programmet C++ 
-url: /sv/cpp/conversion/mhtml-to-xml/ 
+
 description: Exempel C++ konverteringskod för MHTML-dokument till XML-format. Programmerare kan använda den här källkoden för batch-omvandling av MHTML till XML i alla C++-program.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

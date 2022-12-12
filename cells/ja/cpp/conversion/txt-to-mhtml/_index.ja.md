@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++アプリケーションを介してTXTをMHTMLに変換します 
-url: /ja/cpp/conversion/txt-to-mhtml/ 
+
 description: TXTドキュメントからMHTML形式へのサンプルC++変換コード。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でTXTからMHTMLへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

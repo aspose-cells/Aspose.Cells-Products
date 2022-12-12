@@ -1,6 +1,6 @@
-﻿---
+---
 title: "ODS konvertálása XPS-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/ods-to-xps/
+
 description: Mintakód az ods–xps Python konverzióhoz. Használjon API példakódot a kötegelt ods fájlok xps konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to MARKDOWN via Java 
-url: /java/conversion/csv-to-markdown/
+
 description: Convert CSV to MARKDOWN format in Java code. Save CSV as MARKDOWN using Java.
 ---
 

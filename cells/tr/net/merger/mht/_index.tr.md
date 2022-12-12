@@ -1,6 +1,6 @@
-﻿---
+---
 title: MHT Dosyalarını .NET ile Birleştir 
-url: /tr/net/merger/mht/ 
+
 description: MHT belgelerini .NET Framework, .NET Core ve Xamarin Platformlarında birleştirmek için Şirket İçi mesaj birleştirme API'lerimizi deneyin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

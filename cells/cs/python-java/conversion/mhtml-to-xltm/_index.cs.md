@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést MHTML na XLTM přes Python
-url: /cs/python-java/conversion/mhtml-to-xltm/
+
 description: Ukázkový kód pro konverzi mhtml na xltm Python. Použijte API ukázkový kód pro dávkový převod souborů mhtml na xltm v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

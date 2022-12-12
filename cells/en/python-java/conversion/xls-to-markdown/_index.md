@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to MARKDOWN via Python
-url: /python-java/conversion/xls-to-markdown/
+
 description: Convert XLS to MARKDOWN format in Python code. Save XLS as MARKDOWN using Python.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLSM na JPG přes C#
-url: /cs/net/conversion/xlsm-to-jpg/
+
 description: Ukázkový kód pro převod xlsm na jpg C#. Použijte API ukázkový kód pro dávkový převod souborů xlsm na jpg v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

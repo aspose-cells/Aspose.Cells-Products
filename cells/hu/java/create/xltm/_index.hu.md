@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Hozzon létre MS Excel XLTM fájlokat a következőn keresztül: Java "
-url: /hu/java/create-xltm/ 
+
 description: Java Mintakód XLTM dokumentumok generálásához. Ezzel a kóddal MS Excel XLTM fájlokat hozhat létre Java alapú asztali vagy webes alkalmazásban.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

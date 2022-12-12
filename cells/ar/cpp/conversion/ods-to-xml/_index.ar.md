@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل ODS إلى XML عبر تطبيق C++ 
-url: /ar/cpp/conversion/ods-to-xml/ 
+
 description: نموذج C++ رمز التحويل لوثيقة ODS إلى تنسيق XML. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل دفعة من ODS إلى XML داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

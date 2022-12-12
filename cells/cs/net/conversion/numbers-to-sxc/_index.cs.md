@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést NUMBERS na SXC přes C#
-url: /cs/net/conversion/numbers-to-sxc/
+
 description: Ukázkový kód pro převod čísel na sxc C#. Použijte API ukázkový kód pro dávkové soubory čísel na převod sxc v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

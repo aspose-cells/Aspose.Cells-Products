@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή TABDELIMITED σε DIF μέσω Python
-url: /el/python-java/conversion/tabdelimited-to-dif/
+
 description: Δείγμα κώδικα για μετατροπή οριοθετημένη στηλοθέτη σε διαφορετική Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία οριοθετημένα στηλοθέτες για να διαφοροποιήσετε τη μετατροπή εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to EMF via C#
-url: /net/conversion/spreadsheetml-to-emf/
+
 description: Convert SPREADSHEETML to EMF format in C# code. Save SPREADSHEETML as EMF using VB.NET, Asp.NET or any .NET based application.
 ---
 

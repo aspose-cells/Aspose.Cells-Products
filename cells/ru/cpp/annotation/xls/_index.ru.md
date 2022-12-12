@@ -1,7 +1,7 @@
-﻿---
+---
 title: Добавить аннотацию файла XLS Excel через C++ 
 weight: 10040
-url: /ru/cpp/annotation/xls/ 
+
 description: Пример кода C++ для добавления и удаления аннотаций формата XLS в C++ среде выполнения для 32-разрядной, 64-разрядной и Linux 64-разрядной версии.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง SPREADSHEETML เป็น MARKDOWN ผ่าน Python
-url: /th/python-java/conversion/spreadsheetml-to-markdown/
+
 description: โค้ดตัวอย่างสำหรับสเปรดชีตml ถึงมาร์กดาวน์ Python การแปลง ใช้โค้ดตัวอย่าง API สำหรับไฟล์แบทช์สเปรดชีตml เพื่อทำเครื่องหมายการแปลงภายในแอปพลิเคชัน Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

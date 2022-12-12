@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل HTML إلى TSV عبر Python
-url: /ar/python-java/conversion/html-to-tsv/
+
 description: نموذج كود لتحويل html إلى tsv Python. استخدم API رمز المثال لملفات html الدفعية لتحويل tsv داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

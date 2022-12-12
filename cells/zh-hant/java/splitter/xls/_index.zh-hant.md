@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通過 Java 拆分 XLS 文件 
 weight: 610
-url: /zh-hant/java/splitter/xls/ 
+
 description: Java 用於在 Java JSP/JSF 應用程序和桌面應用程序的運行時環境中拆分 XLS 文檔的示例代碼。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

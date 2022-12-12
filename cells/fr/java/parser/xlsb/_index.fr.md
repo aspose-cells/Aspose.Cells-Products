@@ -1,7 +1,7 @@
-﻿---
+---
 title: Extraire le texte et les images du document XLSB via Java 
 weight: 440
-url: /fr/java/parser/xlsb/ 
+
 description: Java exemple de code pour extraire du texte et des images du fichier XLSB sur Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

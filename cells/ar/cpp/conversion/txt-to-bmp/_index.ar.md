@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TXT إلى BMP عبر تطبيق C++ 
-url: /ar/cpp/conversion/txt-to-bmp/ 
+
 description: نموذج C++ كود التحويل لمستند TXT إلى تنسيق BMP. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل دفعة TXT إلى BMP داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj NUMBERS na XLTX przez Python
-url: /pl/python-java/conversion/numbers-to-xltx/
+
 description: Przykładowy kod konwersji liczb do xltx Python. Użyj przykładowego kodu API dla plików numerów partii do konwersji xltx w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: 在不通过 Java 打开的情况下搜索 CSV 文档 
 weight: 390
-url: /zh/java/search/csv/ 
+
 description: Java 示例代码，用于在 Java JSP/JSF 应用程序和桌面应用程序的运行时环境中的 CSV 文件中搜索具有模式的单词。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

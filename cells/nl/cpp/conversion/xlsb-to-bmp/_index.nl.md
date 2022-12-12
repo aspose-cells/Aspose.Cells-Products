@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer XLSB naar BMP via C++ applicatie 
 weight: 8800
-url: /nl/cpp/conversion/xlsb-to-bmp/ 
+
 description: Voorbeeld C++-conversiecode voor XLSB-document naar BMP-indeling. Programmeurs kunnen deze broncode gebruiken voor batch-XLSB-naar-BMP-conversie binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Merge XLSM to HTM Files via C# 
-url: /net/merger/merge-xlsm-to-htm/ 
+
 description: Merge XLSM to HTM file in C# code. Combine XLSM to HTM file using VB.NET, Asp.NET or any .NET based application.
 ---
 

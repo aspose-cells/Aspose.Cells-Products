@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل ODS إلى CSV عبر Python
-url: /ar/python-java/conversion/ods-to-csv/
+
 description: نموذج كود لتحويل ods إلى csv Python. استخدم API رمز المثال لملفات دفعية لتحويل csv داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

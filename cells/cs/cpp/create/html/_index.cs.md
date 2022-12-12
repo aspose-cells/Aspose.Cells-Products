@@ -1,6 +1,6 @@
-﻿---
+---
 title: Vytvářejte soubory HTML prostřednictvím C++ 
-url: /cs/cpp/create-html/ 
+
 description: C++ Ukázkový kód pro generování souborů HTML. Tento kód použijte k vytváření souborů HTML v aplikaci založené na C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

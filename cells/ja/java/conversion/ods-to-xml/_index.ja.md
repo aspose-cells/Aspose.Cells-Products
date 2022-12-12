@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してODSをXMLに変換する 
-url: /ja/java/conversion/ods-to-xml/ 
+
 description: ODS形式からXMLファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、任意のWebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをXMLにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLTM na XLSX přes Python
-url: /cs/python-java/conversion/xltm-to-xlsx/
+
 description: Ukázkový kód pro převod xltm na xlsx Python. Použijte API ukázkový kód pro dávkový převod souborů xltm na xlsx v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to WORD via C++
-url: /cpp/conversion/numbers-to-word/
+
 description: Convert NUMBERS to WORD format in C++ code. Save NUMBERS as WORD using C++.
 ---
 

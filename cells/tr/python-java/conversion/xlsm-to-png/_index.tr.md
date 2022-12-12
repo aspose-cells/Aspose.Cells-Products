@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla XLSM'yi PNG'ye dönüştürün
-url: /tr/python-java/conversion/xlsm-to-png/
+
 description: xlsm'den png'ye Python dönüştürme için örnek kod. Python uygulamasında toplu xlsm dosyalarını png'ye dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

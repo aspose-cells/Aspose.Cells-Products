@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to XLT via Java 
-url: /java/conversion/ods-to-xlt/
+
 description: Convert ODS to XLT format in Java code. Save ODS as XLT using Java.
 ---
 

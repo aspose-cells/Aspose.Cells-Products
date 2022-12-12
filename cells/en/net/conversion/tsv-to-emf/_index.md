@@ -1,6 +1,6 @@
 ---
 title: Convert TSV to EMF via C#
-url: /net/conversion/tsv-to-emf/
+
 description: Convert TSV to EMF format in C# code. Save TSV as EMF using VB.NET, Asp.NET or any .NET based application.
 ---
 

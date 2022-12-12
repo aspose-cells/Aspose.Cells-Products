@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan SPREADSHEETML ke JSON melalui Python
-url: /id/python-java/conversion/spreadsheetml-to-json/
+
 description: Contoh kode untuk spreadsheetml ke json Python konversi. Gunakan API kode contoh untuk file batch spreadsheetml ke konversi json dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

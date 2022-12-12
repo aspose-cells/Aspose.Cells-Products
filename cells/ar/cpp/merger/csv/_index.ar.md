@@ -1,6 +1,6 @@
-﻿---
+---
 title: دمج ملفات CSV عبر C++ 
-url: /ar/cpp/merger/csv/ 
+
 description: C++ مثال على رمز لدمج مستندات CSV في C++ Runtime Environment لأنظمة التشغيل Windows 32 بت و Windows 64 بت و Linux 64 بت.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

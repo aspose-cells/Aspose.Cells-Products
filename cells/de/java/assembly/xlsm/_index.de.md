@@ -1,7 +1,7 @@
-﻿---
+---
 title: Generieren Sie Berichte in XLSM-Dateien über Java 
 weight: 270
-url: /de/java/assembly/xlsm/ 
+
 description: Java Beispielcode zum Erstellen von Berichten im XLSM-Format in Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

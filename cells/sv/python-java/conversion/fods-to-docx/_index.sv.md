@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera FODS till DOCX via Python
-url: /sv/python-java/conversion/fods-to-docx/
+
 description: Exempelkod för fods till docx Python-konvertering. Använd API exempelkod för batch fods-filer till docx-konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

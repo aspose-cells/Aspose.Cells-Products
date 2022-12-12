@@ -1,7 +1,7 @@
-﻿---
+---
 title: แปลง TSV เป็น ODS ผ่าน Java 
 weight: 9340
-url: /th/java/conversion/tsv-to-ods/ 
+
 description: ตัวอย่างรหัสการแปลง Java สำหรับรูปแบบ TSV เป็นไฟล์ ODS โปรแกรมเมอร์สามารถใช้โค้ดตัวอย่างนี้เพื่อส่งออกสเปรดชีต Excel & OpenOffice ไปยัง ODS ภายในแอปพลิเคชันบนเว็บหรือเดสก์ท็อป Java
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование SPREADSHETML в EMF через C#
-url: /ru/net/conversion/spreadsheetml-to-emf/
+
 description: Пример кода для преобразования электронной таблицыml в emf C#. Используйте пример кода API для пакетного преобразования файлов электронной таблицыml в emf в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

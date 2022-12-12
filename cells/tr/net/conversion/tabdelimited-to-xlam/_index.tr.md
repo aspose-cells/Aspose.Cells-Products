@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla TABDELIMITED'i XLAM'e dönüştürün
-url: /tr/net/conversion/tabdelimited-to-xlam/
+
 description: Sekmeyle sınırlandırılmış xlam C# dönüşümü için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu sekmeyle ayrılmış dosyalardan xlam'e dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

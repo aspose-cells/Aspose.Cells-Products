@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést JSON na TIFF přes Python
-url: /cs/python-java/conversion/json-to-tiff/
+
 description: Ukázkový kód pro konverzi json na tiff Python. Použijte API ukázkový kód pro dávkové soubory json k převodu tiff v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

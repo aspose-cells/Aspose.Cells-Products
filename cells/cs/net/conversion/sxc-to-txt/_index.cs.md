@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést SXC na TXT přes C#
-url: /cs/net/conversion/sxc-to-txt/
+
 description: Ukázkový kód pro převod sxc na txt C#. Použijte API ukázkový kód pro dávkový převod souborů sxc na txt v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

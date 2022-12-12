@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 C# 将 ODS 转换为 PNG
-url: /zh/net/conversion/ods-to-png/
+
 description: ods 到 png C# 转换的示例代码。在 VB.NET、Asp.NET 或任何基于 .NET 的应用程序中使用 API 示例代码将 ods 文件批量转换为 png 转换。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

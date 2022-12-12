@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python के माध्यम से एमएचटीएमएल को सीएसवी में बदलें
-url: /hi/python-java/conversion/mhtml-to-csv/
+
 description: एमएचटीएमएल से सीएसवी Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर सीएसवी रूपांतरण के लिए बैच एमएचटीएमएल फाइलों के लिए API उदाहरण कोड का प्रयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

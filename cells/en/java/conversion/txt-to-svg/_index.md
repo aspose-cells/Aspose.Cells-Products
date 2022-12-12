@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to SVG via Java 
-url: /java/conversion/txt-to-svg/
+
 description: Convert TXT to SVG format in Java code. Save TXT as SVG using Java.
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ aracılığıyla XLSM Ek Açıklaması ekleyin 
 weight: 2860
-url: /tr/cpp/annotation/xlsm/ 
+
 description: Windows 32 bit, Windows 64 bit ve Linux 64 bit için C++ Runtime Environment'da XLSM biçimi ek açıklamalarını silmek için C++ örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

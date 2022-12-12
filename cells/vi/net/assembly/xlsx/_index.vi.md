@@ -1,7 +1,7 @@
-﻿---
+---
 title: Tạo Báo cáo trong Tệp XLSX qua .NET 
 weight: 6740
-url: /vi/net/assembly/xlsx/ 
+
 description: C# mã nguồn để tạo báo cáo định dạng XLSX trên Nền tảng .NET Framework, .NET Core Mono hoặc Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

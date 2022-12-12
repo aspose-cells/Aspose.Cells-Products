@@ -1,6 +1,6 @@
-﻿---
+---
 title: "FODS konvertálása GIF-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/fods-to-gif/
+
 description: Mintakód a fods to gif Python konverzióhoz. Használjon API példakódot kötegelt fods fájlok gif konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

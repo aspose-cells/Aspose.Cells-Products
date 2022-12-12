@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Vízjel ODS-dokumentum a következőn keresztül: Java "
 weight: 1040
-url: /hu/java/watermark/ods/ 
+
 description: Java mintakód a vízjel hozzáadásához vagy eltávolításához az ODS-fájlhoz a Java Runtime Environment for JSP/JSF alkalmazásokhoz és asztali alkalmazásokhoz.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

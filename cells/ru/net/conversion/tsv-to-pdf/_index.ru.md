@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование TSV в PDF через C#
-url: /ru/net/conversion/tsv-to-pdf/
+
 description: Пример кода для преобразования tsv в pdf C#. Используйте пример кода API для пакетного преобразования файлов tsv в pdf в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

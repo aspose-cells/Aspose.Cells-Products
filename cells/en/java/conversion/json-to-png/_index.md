@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to PNG via Java 
-url: /java/conversion/json-to-png/
+
 description: Convert JSON to PNG format in Java code. Save JSON as PNG using Java.
 ---
 

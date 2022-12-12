@@ -1,7 +1,7 @@
-﻿---
+---
 title: Visa XLT-filformat via .NET 
 weight: 3610
-url: /sv/net/viewer/xlt/ 
+
 description: C# källkod för att ladda, rendera och visa XLT-dokument på .NET Framework, .NET Core, Mono eller Xamarin-plattformar.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

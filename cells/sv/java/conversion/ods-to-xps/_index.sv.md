@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertera ODS till XPS via Java 
 weight: 9230
-url: /sv/java/conversion/ods-to-xps/ 
+
 description: Exempel Java-konverteringskod för ODS-format till XPS-fil. Programmerare kan använda den här exempelkoden för att exportera Excel- och OpenOffice-kalkylblad till XPS inom alla webb- eller skrivbordsbaserade Java-applikationer.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

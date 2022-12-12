@@ -1,6 +1,6 @@
-﻿---
+---
 title: Vytvořit sloupcové grafy prostřednictvím Python
-url: /cs/python-java/create-column-chart/
+
 description: Python Ukázkový kód pro vytváření sloupcových grafů do aplikace Excel pomocí knihovny Python. Tento kód použijte k vytvoření sloupcového grafu do MS Excel v aplikaci založené na Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

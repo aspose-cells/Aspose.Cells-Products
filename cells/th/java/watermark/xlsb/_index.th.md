@@ -1,7 +1,7 @@
-﻿---
+---
 title: เอกสารลายน้ำ XLSB ผ่าน Java 
 weight: 5900
-url: /th/java/watermark/xlsb/ 
+
 description: Java ตัวอย่างโค้ดเพื่อเพิ่มหรือลบลายน้ำในไฟล์ XLSB บน Java Runtime Environment สำหรับแอปพลิเคชัน JSP/JSF และแอปพลิเคชันเดสก์ท็อป
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

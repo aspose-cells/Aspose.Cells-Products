@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή XLTX σε ODS μέσω Python
-url: /el/python-java/conversion/xltx-to-ods/
+
 description: Δείγμα κώδικα για μετατροπή xltx σε ods Python. Χρησιμοποιήστε API παράδειγμα κώδικα για μαζική μετατροπή αρχείων xltx σε ods εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

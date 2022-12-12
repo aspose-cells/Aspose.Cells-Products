@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést HTML na XPS pomocí Python
-url: /cs/python-java/conversion/html-to-xps/
+
 description: Ukázkový kód pro konverzi html na xps Python. Použijte ukázkový kód API pro dávkový převod souborů html na xps v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

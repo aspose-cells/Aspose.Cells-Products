@@ -1,7 +1,7 @@
-﻿---
+---
 title: بحث في مستند CSV بدون فتح عبر C++ 
 weight: 5540
-url: /ar/cpp/search/csv/ 
+
 description: C++ مثال على رمز للبحث عن الكلمات ذات النمط في ملف CSV في C++ Runtime Environment لأنظمة التشغيل Windows 32 بت و Windows 64 بت و Linux 64 بت.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

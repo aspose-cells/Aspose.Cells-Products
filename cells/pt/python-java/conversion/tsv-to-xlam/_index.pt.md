@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter TSV para XLAM via Python
-url: /pt/python-java/conversion/tsv-to-xlam/
+
 description: Código de exemplo para conversão de tsv para xlam Python. Use API código de exemplo para arquivos tsv em lote para conversão xlam no aplicativo Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

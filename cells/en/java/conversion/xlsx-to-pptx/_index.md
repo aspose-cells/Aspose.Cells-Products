@@ -1,6 +1,6 @@
 ---
 title: Convert XLSX to PPTX via Java 
-url: /java/conversion/xlsx-to-pptx/
+
 description: Convert XLSX to PPTX format in Java code. Save XLSX as PPTX using Java.
 ---
 

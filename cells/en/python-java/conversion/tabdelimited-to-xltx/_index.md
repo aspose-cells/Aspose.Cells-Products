@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to XLTX via Python
-url: /python-java/conversion/tabdelimited-to-xltx/
+
 description: Convert TABDELIMITED to XLTX format in Python code. Save TABDELIMITED as XLTX using Python.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: XLTX को BMP के माध्यम से C# में बदलें
-url: /hi/net/conversion/xltx-to-bmp/
+
 description: xltx से bmp C# रूपांतरण के लिए नमूना कोड। VB.NET, Asp.NET या किसी .NET आधारित एप्लिकेशन के भीतर बैच xltx फ़ाइलों को bmp रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

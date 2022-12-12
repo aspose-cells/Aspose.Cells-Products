@@ -1,6 +1,6 @@
 ---
 title: Merge NUMBERS to MHTML Files via Python 
-url: /python-java/merger/merge-numbers-to-mhtml/ 
+
 description: Merge NUMBERS to MHTML file in Python code. Combine NUMBERS to MHTML file using Python.
 ---
 

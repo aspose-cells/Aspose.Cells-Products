@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj SPREADSHEETML na TXT przez Python
-url: /pl/python-java/conversion/spreadsheetml-to-txt/
+
 description: Przykładowy kod konwersji arkusza kalkulacyjnego z ml na txt Python. Użyj przykładowego kodu API dla wsadowych plików arkusza kalkulacyjnego w celu konwersji txt w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

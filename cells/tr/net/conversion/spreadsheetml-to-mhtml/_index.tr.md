@@ -1,6 +1,6 @@
-﻿---
+---
 title: SPREADSHEETML'yi C# aracılığıyla MHTML'ye dönüştürün
-url: /tr/net/conversion/spreadsheetml-to-mhtml/
+
 description: E-tabloml'den mhtml'ye C# dönüşümü için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu elektronik tabloml dosyalarını mhtml'ye dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

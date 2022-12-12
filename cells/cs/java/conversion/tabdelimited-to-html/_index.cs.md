@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TABDELIMITED na HTML pomocí Java 
-url: /cs/java/conversion/tabdelimited-to-html/ 
+
 description: Ukázkový konverzní kód Java pro soubor ve formátu TABDELIMITED na HTML. Programátoři mohou použít tento příklad kódu k exportu tabulek Excelu a OpenOffice do HTML v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

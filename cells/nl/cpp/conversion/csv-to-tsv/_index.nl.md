@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer CSV naar TSV via C++ applicatie 
 weight: 2940
-url: /nl/cpp/conversion/csv-to-tsv/ 
+
 description: Voorbeeld C++-conversiecode voor CSV-document naar TSV-indeling. Programmeurs kunnen deze broncode gebruiken voor batch-conversie van CSV naar TSV binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

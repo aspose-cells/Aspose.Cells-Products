@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#経由でTSVをPNGに変換
-url: /ja/net/conversion/tsv-to-png/
+
 description: tsvからpngC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチtsvファイルからpngへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

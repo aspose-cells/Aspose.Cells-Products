@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera HTML till MD via Java 
-url: /sv/java/conversion/html-to-md/ 
+
 description: Exempel Java-konverteringskod för HTML-format till MD-fil. Programmerare kan använda den här exempelkoden för att exportera Excel- och OpenOffice-kalkylblad till MD inom alla webb- eller skrivbordsbaserade Java-applikationer.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

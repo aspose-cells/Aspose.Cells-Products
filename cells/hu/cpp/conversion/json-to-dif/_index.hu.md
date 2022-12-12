@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja a JSON-t DIF-re a(z) C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/json-to-dif/ 
+
 description: Minta C++ konverziós kód a JSON-dokumentumhoz DIF formátumba. A programozók ezt a forráskódot használhatják a JSON-ból DIF-be kötegelt konvertáláshoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Odemknout dokument XLSX přes Java 
 weight: 310
-url: /cs/java/unlock/xlsx/ 
+
 description: Java ukázkový kód k odemknutí heslem chráněného souboru XLSX v Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

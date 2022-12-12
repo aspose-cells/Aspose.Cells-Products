@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل CSV إلى TXT عبر Python
-url: /ar/python-java/conversion/csv-to-txt/
+
 description: نموذج كود لتحويل csv إلى txt Python. استخدم API رمز المثال لملفات دفعية csv لتحويل txt داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

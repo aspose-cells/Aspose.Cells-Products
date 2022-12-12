@@ -1,6 +1,6 @@
-﻿---
+---
 title: Создание диаграмм Excel и преобразование в изображения с помощью C++
-url: /ru/cpp/chart/
+
 description: Исходный код C++ для рисования и преобразования диаграммы или диаграммы в Microsoft Excel с использованием библиотеки C++
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

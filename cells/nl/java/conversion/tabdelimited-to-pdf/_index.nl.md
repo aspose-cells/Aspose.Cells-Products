@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer TABDELIMITED naar PDF via Java 
-url: /nl/java/conversion/tabdelimited-to-pdf/ 
+
 description: Voorbeeld Java-conversiecode voor TABDELIMITED-indeling naar PDF-bestand. Programmeurs kunnen deze voorbeeldcode gebruiken om Excel- en OpenOffice-spreadsheets naar PDF te exporteren binnen elke web- of desktoptoepassing Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

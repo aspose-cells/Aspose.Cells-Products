@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง FODS เป็น XLT ผ่าน C#
-url: /th/net/conversion/fods-to-xlt/
+
 description: โค้ดตัวอย่างสำหรับการแปลง fods เป็น xlt C# ใช้รหัสตัวอย่าง API สำหรับไฟล์แบตช์ fods เป็นการแปลง xlt ภายใน VB.NET, Asp.NET หรือแอปพลิเคชันที่ใช้ .NET
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to JPEG via Java 
-url: /java/conversion/csv-to-jpeg/
+
 description: Convert CSV to JPEG format in Java code. Save CSV as JPEG using Java.
 ---
 

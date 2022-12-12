@@ -1,7 +1,7 @@
-﻿---
+---
 title: Biểu đồ tài liệu ODS qua C++ 
 weight: 3820
-url: /vi/cpp/chart/ods/ 
+
 description: C++ mã ví dụ để vẽ và chuyển đổi biểu đồ hoặc sơ đồ trong tệp ODS trên C++ Môi trường thời gian chạy cho Windows 32 bit, Windows 64 bit và Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

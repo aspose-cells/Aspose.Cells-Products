@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLTM na DIF přes C#
-url: /cs/net/conversion/xltm-to-dif/
+
 description: Ukázkový kód pro převod xltm na rozdíl C#. Použijte API ukázkový kód pro dávkové soubory xltm pro převod převodu v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 C++ 应用程序将 XLTM 转换为 ODS 
-url: /zh/cpp/conversion/xltm-to-ods/ 
+
 description: XLTM 文档到 ODS 格式的示例 C++ 转换代码。程序员可以在任何 C++ 应用程序中使用此源代码进行批量 XLTM 到 ODS 的转换。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

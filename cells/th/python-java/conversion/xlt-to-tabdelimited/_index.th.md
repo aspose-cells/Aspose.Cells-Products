@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง XLT เป็น TABDELIMITED ผ่าน Python
-url: /th/python-java/conversion/xlt-to-tabdelimited/
+
 description: โค้ดตัวอย่างสำหรับการแปลง xlt เป็น tabdelimited Python ใช้โค้ดตัวอย่าง API สำหรับไฟล์แบตช์ xlt เป็นการแปลงแบบคั่นด้วยแท็บภายในแอปพลิเคชัน Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

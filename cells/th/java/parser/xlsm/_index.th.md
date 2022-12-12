@@ -1,7 +1,7 @@
-﻿---
+---
 title: แยกข้อความและรูปภาพจากเอกสาร XLSM ผ่าน Java 
 weight: 3260
-url: /th/java/parser/xlsm/ 
+
 description: Java โค้ดตัวอย่างเพื่อแยกข้อความและรูปภาพจากไฟล์ XLSM บน Java Runtime Environment สำหรับแอปพลิเคชัน JSP/JSF และแอปพลิเคชันเดสก์ท็อป
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

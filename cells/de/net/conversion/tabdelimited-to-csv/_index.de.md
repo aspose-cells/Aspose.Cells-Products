@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie TABDELIMITED über C# in CSV
-url: /de/net/conversion/tabdelimited-to-csv/
+
 description: Beispielcode für die Umwandlung von tabulatorgetrennt in csv C#. Verwenden Sie API Beispielcode für die Batch-Konvertierung tabulatorgetrennter Dateien in csv innerhalb von VB.NET, Asp.NET oder einer beliebigen .NET-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

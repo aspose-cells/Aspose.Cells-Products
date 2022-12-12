@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja a JSON-t XLSM-re a(z) C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/json-to-xlsm/ 
+
 description: Minta C++ konverziós kód a JSON-dokumentumhoz XLSM formátumba. A programozók ezt a forráskódot használhatják a JSON-ból XLSM-be kötegelt konvertáláshoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

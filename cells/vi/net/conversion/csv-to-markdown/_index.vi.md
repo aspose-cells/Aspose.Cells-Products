@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi CSV thành MARKDOWN qua C#
-url: /vi/net/conversion/csv-to-markdown/
+
 description: Mã mẫu cho csv để đánh dấu chuyển đổi C#. Sử dụng API mã mẫu cho các tệp csv hàng loạt để đánh dấu chuyển đổi trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

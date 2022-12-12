@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konwertuj ODS na XLTX za pomocą aplikacji C++ 
 weight: 180
-url: /pl/cpp/conversion/ods-to-xltx/ 
+
 description: Przykładowy kod konwersji C++ dla dokumentu ODS do formatu XLTX. Programiści mogą używać tego kodu źródłowego do wsadowej konwersji ODS na XLTX w dowolnej aplikacji C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

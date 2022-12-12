@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera XLSM till MARKDOWN via C#
-url: /sv/net/conversion/xlsm-to-markdown/
+
 description: Exempelkod för xlsm till markdown C#-omvandling. Använd API-exempelkod för batch-xlsm-filer för att markdown-konvertera inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

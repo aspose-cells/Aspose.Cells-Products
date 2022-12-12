@@ -1,6 +1,6 @@
 ---
 title: Convert XLTM to DOCX via Python
-url: /python-net/conversion/xltm-to-docx/
+
 description: Sample code for xltm to docx Python conversion. Use API example code for batch xltm files to docx conversion within Python application.
 ---
 

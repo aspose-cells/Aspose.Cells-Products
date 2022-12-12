@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla MHTML Dosyaları oluşturun 
-url: /tr/net/create-mhtml/ 
+
 description: C# MHTML belgeleri oluşturmak için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde MHTML dosyaları oluşturmak için bu kodu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

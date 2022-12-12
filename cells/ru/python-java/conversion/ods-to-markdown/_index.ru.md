@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование ODS в MARKDOWN через Python
-url: /ru/python-java/conversion/ods-to-markdown/
+
 description: Пример кода для преобразования ods в уценку Python. Используйте пример кода API для пакетных файлов ods для преобразования уценки в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

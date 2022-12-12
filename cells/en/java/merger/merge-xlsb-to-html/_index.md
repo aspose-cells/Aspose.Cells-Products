@@ -1,6 +1,6 @@
 ---
 title: Merge XLSB to HTML Files via Java 
-url: /java/merger/merge-xlsb-to-html/ 
+
 description: Merge XLSB to HTML file in Java code. Combine XLSB to HTML file using Java based desktop or web application.
 ---
 

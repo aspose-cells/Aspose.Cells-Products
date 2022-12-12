@@ -1,6 +1,6 @@
 ---
 title: Convert JPG to PDF via Python
-url: /python-java/conversion/jpg-to-pdf/
+
 description: Convert JPG to PDF format in Python code. Save JPG as PDF using Python.
 ---
 

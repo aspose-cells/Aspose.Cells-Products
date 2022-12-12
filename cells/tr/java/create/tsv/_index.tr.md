@@ -1,6 +1,6 @@
-﻿---
+---
 title: Java aracılığıyla TSV Dosyaları oluşturun 
-url: /tr/java/create-tsv/ 
+
 description: Java TSV belgeleri oluşturmak için örnek kod. Java tabanlı masaüstü veya web uygulamasında TSV dosyaları oluşturmak için bu kodu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

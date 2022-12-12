@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل MHTML إلى CSV عبر Python
-url: /ar/python-java/conversion/mhtml-to-csv/
+
 description: نموذج رمز للتحويل من mhtml إلى csv Python. استخدم API رمز المثال لملفات mhtml الدفعية لتحويل csv داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

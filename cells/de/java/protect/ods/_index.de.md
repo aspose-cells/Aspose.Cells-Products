@@ -1,7 +1,7 @@
-﻿---
+---
 title: ODS-Dokument über Java schützen und sperren 
 weight: 6360
-url: /de/java/protect/ods/ 
+
 description: Java Beispielcode zum Sperren der ODS-Datei mithilfe des Kennworts in Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

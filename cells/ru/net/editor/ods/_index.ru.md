@@ -1,6 +1,6 @@
-﻿---
+---
 title: Редактировать файлы ODS через .NET 
-url: /ru/net/editor/ods/ 
+
 description: Исходный код C# для редактирования документа ODS на платформах .NET Framework, .NET Core, Windows Azure, Mono или Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

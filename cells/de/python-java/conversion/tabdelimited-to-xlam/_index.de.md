@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie TABDELIMITED in XLAM über Python
-url: /de/python-java/conversion/tabdelimited-to-xlam/
+
 description: Beispielcode für die Umwandlung von tabulatorgetrennt in xlam Python. Verwenden Sie den API-Beispielcode für die Batch-Konvertierung von tabulatorgetrennten Dateien in xlam innerhalb der Anwendung Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést TSV na SVG prostřednictvím Java 
 weight: 7460
-url: /cs/java/conversion/tsv-to-svg/ 
+
 description: Ukázka převodního kódu Java pro formát TSV na soubor SVG. Programátoři mohou tento příklad kódu použít k exportu tabulek Excelu a OpenOffice do SVG v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل CSV إلى ODS عبر تطبيق C++ 
 weight: 340
-url: /ar/cpp/conversion/csv-to-ods/ 
+
 description: نموذج C++ رمز التحويل لمستند CSV إلى تنسيق ODS. يمكن للمبرمجين استخدام شفرة المصدر هذه لتحويل ملف CSV إلى نظام ODS في أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

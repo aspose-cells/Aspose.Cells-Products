@@ -1,6 +1,6 @@
 ---
 title: Merge XLSM to XLSM Files via Python 
-url: /python-java/merger/merge-xlsm-to-xlsm/ 
+
 description: Merge XLSM to XLSM file in Python code. Combine XLSM to XLSM file using Python.
 ---
 

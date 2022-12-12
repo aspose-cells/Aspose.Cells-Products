@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java経由のXLSBドキュメントチャート 
 weight: 670
-url: /ja/java/chart/xlsb/ 
+
 description: JSP/JSFアプリケーションおよびデスクトップアプリケーションのJavaランタイム環境でXLSBファイルにチャートまたは図を描画および変換するためのJavaサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

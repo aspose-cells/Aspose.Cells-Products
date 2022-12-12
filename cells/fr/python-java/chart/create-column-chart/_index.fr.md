@@ -1,6 +1,6 @@
-﻿---
+---
 title: Créer des graphiques à colonnes via Python
-url: /fr/python-java/create-column-chart/
+
 description: Python Exemple de code pour créer des histogrammes dans Excel à l'aide de la bibliothèque Python. Utilisez ce code pour créer un graphique à colonnes vers MS Excel dans une application basée sur Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

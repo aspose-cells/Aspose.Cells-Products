@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to DOCX via Java 
-url: /java/conversion/html-to-docx/
+
 description: Convert HTML to DOCX format in Java code. Save HTML as DOCX using Java.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer NUMMERS naar SXC via Python
-url: /nl/python-java/conversion/numbers-to-sxc/
+
 description: Voorbeeldcode voor conversie van getallen naar sxc Python. Gebruik API voorbeeldcode voor batchnummerbestanden naar sxc-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

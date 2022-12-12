@@ -1,6 +1,6 @@
-﻿---
+---
 title: "ODS konvertálása PDF-be a következőn keresztül: C#"
-url: /hu/net/conversion/ods-to-pdf/
+
 description: Mintakód az ods-ból pdf-be C# konvertáláshoz. Használjon API példakódot a kötegelt ods fájlok PDF formátumba konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

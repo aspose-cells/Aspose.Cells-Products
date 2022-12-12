@@ -1,6 +1,6 @@
 ---
 title: Convert XLTM to CSV via Java 
-url: /java/conversion/xltm-to-csv/
+
 description: Convert XLTM to CSV format in Java code. Save XLTM as CSV using Java.
 ---
 

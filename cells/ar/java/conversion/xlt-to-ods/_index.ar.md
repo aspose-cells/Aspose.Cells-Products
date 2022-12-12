@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل XLT إلى ODS عبر Java 
 weight: 5710
-url: /ar/java/conversion/xlt-to-ods/ 
+
 description: نموذج Java كود التحويل لتنسيق XLT إلى ملف ODS. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى ODS من خلال أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

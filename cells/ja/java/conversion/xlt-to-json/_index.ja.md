@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してXLTをJSONに変換する 
 weight: 4060
-url: /ja/java/conversion/xlt-to-json/ 
+
 description: XLT形式からJSONファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、任意のWebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをJSONにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Merge XLS to TSV Files via C# 
-url: /net/merger/merge-xls-to-tsv/ 
+
 description: Merge XLS to TSV file in C# code. Combine XLS to TSV file using VB.NET, Asp.NET or any .NET based application.
 ---
 

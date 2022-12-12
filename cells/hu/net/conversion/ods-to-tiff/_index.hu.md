@@ -1,6 +1,6 @@
-﻿---
+---
 title: "ODS konvertálása TIFF-re a következőn keresztül: C#"
-url: /hu/net/conversion/ods-to-tiff/
+
 description: Mintakód az ods to tiff C# konverzióhoz. Használjon API példakódot kötegelt ods fájlokhoz a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazás tiff konverziójához.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

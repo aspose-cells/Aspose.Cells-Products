@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to PNG via C++
-url: /cpp/conversion/mhtml-to-png/
+
 description: Convert MHTML to PNG format in C++ code. Save MHTML as PNG using C++.
 ---
 

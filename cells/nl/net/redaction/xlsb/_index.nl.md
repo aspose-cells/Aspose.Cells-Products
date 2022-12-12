@@ -1,7 +1,7 @@
-﻿---
+---
 title: Zoek en vervang tekst in XLSB-document via .NET 
 weight: 3890
-url: /nl/net/redaction/xlsb/ 
+
 description: C# broncode om gevoelige informatie in XLSB-bestand op .NET Framework, .NET Core, Mono of Xamarin Platforms te redigeren.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

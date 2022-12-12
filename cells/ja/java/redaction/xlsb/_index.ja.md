@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してXLSBドキュメントのテキストを検索および置換します 
 weight: 4590
-url: /ja/java/redaction/xlsb/ 
+
 description: JSP/JSFアプリケーションおよびデスクトップアプリケーションのJavaランタイム環境でXLSBファイルの機密情報を編集するためのJavaサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

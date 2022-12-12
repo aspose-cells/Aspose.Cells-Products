@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TABDELIMITED konvertálása MARKDOWN-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/tabdelimited-to-markdown/
+
 description: Mintakód a tabulátorral elválasztott leértékelésig Python konverzióhoz. Használjon API példakódot a kötegelt tabulátorral tagolt fájlokhoz a konverzió leértékeléséhez a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter XLSB para TIFF via Python
-url: /pt/python-java/conversion/xlsb-to-tiff/
+
 description: Código de amostra para conversão de xlsb para tiff Python. Use o código de exemplo API para arquivos xlsb em lote para conversão tiff no aplicativo Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

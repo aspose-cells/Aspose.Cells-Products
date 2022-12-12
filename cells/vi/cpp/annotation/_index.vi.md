@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chú thích Tệp Excel qua C++
-url: /vi/cpp/annotation/
+
 description: Thêm hoặc xóa nhận xét chú thích dữ liệu của bảng tính Excel và OpenOffice với thư viện C++.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Создание диаграмм Excel и преобразование в изображения с помощью .NET
-url: /ru/net/chart/
+
 description: Исходный код C# для рисования и преобразования диаграммы или диаграммы в Microsoft Excel с использованием библиотеки .NET. 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

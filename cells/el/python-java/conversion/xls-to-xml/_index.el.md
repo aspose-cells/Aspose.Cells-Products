@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή XLS σε XML μέσω Python
-url: /el/python-java/conversion/xls-to-xml/
+
 description: Δείγμα κώδικα για μετατροπή xls σε xml Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδική μετατροπή αρχείων xls σε xml εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

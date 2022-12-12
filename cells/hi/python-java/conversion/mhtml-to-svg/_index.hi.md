@@ -1,6 +1,6 @@
-﻿---
+---
 title: एमएचटीएमएल को एसवीजी में बदलने के लिए Python
-url: /hi/python-java/conversion/mhtml-to-svg/
+
 description: mhtml से svg Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर svg रूपांतरण में बैच mhtml फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

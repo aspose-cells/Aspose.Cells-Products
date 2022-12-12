@@ -1,6 +1,6 @@
-﻿---
+---
 title: Java aracılığıyla MS Excel XLT Dosyaları oluşturun 
-url: /tr/java/create-xlt/ 
+
 description: Java XLT belgeleri oluşturmak için örnek kod. Java tabanlı masaüstü veya web uygulamasında MS Excel XLT dosyaları oluşturmak için bu kodu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

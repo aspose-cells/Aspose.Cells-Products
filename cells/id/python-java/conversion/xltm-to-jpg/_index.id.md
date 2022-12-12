@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan XLTM ke JPG melalui Python
-url: /id/python-java/conversion/xltm-to-jpg/
+
 description: Contoh kode untuk konversi xltm ke jpg Python. Gunakan API kode contoh untuk file batch xltm ke konversi jpg dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan SXC ke XLTM melalui C#
-url: /id/net/conversion/sxc-to-xltm/
+
 description: Contoh kode untuk konversi sxc ke xltm C#. Gunakan API kode contoh untuk file batch sxc ke konversi xltm dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

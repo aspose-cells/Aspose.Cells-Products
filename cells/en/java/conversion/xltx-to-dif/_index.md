@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to DIF via Java 
-url: /java/conversion/xltx-to-dif/
+
 description: Convert XLTX to DIF format in Java code. Save XLTX as DIF using Java.
 ---
 

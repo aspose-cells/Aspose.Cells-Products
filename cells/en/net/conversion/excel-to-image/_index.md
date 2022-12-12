@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to IMAGE via C#
-url: /net/conversion/excel-to-image/
+
 description: Convert EXCEL to IMAGE format in C# code. Save EXCEL as IMAGE using C#.
 ---
 

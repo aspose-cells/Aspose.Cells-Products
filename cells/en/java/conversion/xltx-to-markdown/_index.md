@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to MARKDOWN via Java 
-url: /java/conversion/xltx-to-markdown/
+
 description: Convert XLTX to MARKDOWN format in Java code. Save XLTX as MARKDOWN using Java.
 ---
 

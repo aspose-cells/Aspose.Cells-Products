@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してMSExcelXLSBファイルを作成する 
-url: /ja/python-java/create-xlsb/ 
+
 description: PythonXLSBドキュメントを生成するためのサンプルコード。このコードを使用して、Pythonアプリケーション内にMSExcelXLSBファイルを作成します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

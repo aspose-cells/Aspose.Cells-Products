@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLTX konvertálása HTML-vé a következőn keresztül: Java "
 weight: 6110
-url: /hu/java/conversion/xltx-to-html/ 
+
 description: Minta Java konverziós kód XLTX formátumhoz HTML fájlba. A programozók ezt a példakódot használhatják Excel és OpenOffice táblázatok exportálására HTML formátumba bármely web- vagy asztali Java alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

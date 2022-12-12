@@ -1,6 +1,6 @@
-﻿---
+---
 title: Java을 통해 SXC를 JSON으로 변환 
-url: /ko/java/conversion/sxc-to-json/ 
+
 description: SXC 형식을 JSON 파일로 변환하는 샘플 Java 변환 코드. 프로그래머는 이 예제 코드를 사용하여 Excel 및 OpenOffice 스프레드시트를 웹 또는 데스크톱 Java 기반 애플리케이션 내에서 JSON으로 내보낼 수 있습니다.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

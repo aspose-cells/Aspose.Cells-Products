@@ -1,7 +1,7 @@
-﻿---
+---
 title: ปลดล็อกเอกสาร XLSX ผ่าน C++ 
 weight: 3680
-url: /th/cpp/unlock/xlsx/ 
+
 description: C++ ตัวอย่างโค้ดเพื่อปลดล็อกไฟล์ XLSX ที่ป้องกันด้วยรหัสผ่านใน C++ Runtime Environment สำหรับ Windows 32 บิต, Windows 64 บิต และ Linux 64 บิต
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

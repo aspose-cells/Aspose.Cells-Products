@@ -1,7 +1,7 @@
-﻿---
+---
 title: Gabungkan File XLS melalui .NET 
 weight: 3000
-url: /id/net/merger/xls/ 
+
 description: C# kode sumber untuk menggabungkan dokumen XLS pada .NET Framework, .NET Core, Mono atau Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

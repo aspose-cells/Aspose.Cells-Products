@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง TSV เป็น TABDELIMITED ผ่าน Java 
-url: /th/java/conversion/tsv-to-tabdelimited/ 
+
 description: ตัวอย่างโค้ดการแปลง Java สำหรับรูปแบบ TSV เป็นไฟล์ TABDELIMITED โปรแกรมเมอร์สามารถใช้โค้ดตัวอย่างนี้เพื่อส่งออกสเปรดชีต Excel & OpenOffice ไปยัง TABDELIMITED ภายในแอปพลิเคชันบนเว็บหรือเดสก์ท็อป Java
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

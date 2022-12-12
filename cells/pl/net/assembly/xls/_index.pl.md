@@ -1,7 +1,7 @@
-﻿---
+---
 title: Generuj raporty w plikach XLS za pomocą .NET 
 weight: 1700
-url: /pl/net/assembly/xls/ 
+
 description: C# kod źródłowy do generowania raportów w formacie XLS na platformach .NET Framework, .NET Core, Mono lub Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

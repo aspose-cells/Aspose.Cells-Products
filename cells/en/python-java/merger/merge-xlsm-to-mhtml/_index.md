@@ -1,6 +1,6 @@
 ---
 title: Merge XLSM to MHTML Files via Python 
-url: /python-java/merger/merge-xlsm-to-mhtml/ 
+
 description: Merge XLSM to MHTML file in Python code. Combine XLSM to MHTML file using Python.
 ---
 

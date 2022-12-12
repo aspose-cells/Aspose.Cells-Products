@@ -1,6 +1,6 @@
-﻿---
+---
 title: Δημιουργία γραφημάτων Column3D μέσω Python
-url: /el/python-java/create-column3d-chart/
+
 description: Python Δείγμα κώδικα για τη δημιουργία γραφημάτων Column3D στο Excel χρησιμοποιώντας τη Βιβλιοθήκη Python. Χρησιμοποιήστε αυτόν τον κώδικα για τη δημιουργία ενός γραφήματος Column3D στο MS Excel εντός εφαρμογής που βασίζεται σε Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

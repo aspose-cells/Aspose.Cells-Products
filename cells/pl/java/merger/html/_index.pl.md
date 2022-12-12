@@ -1,7 +1,7 @@
-﻿---
+---
 title: Scal pliki HTML przez Java 
 weight: 8830
-url: /pl/java/merger/html/ 
+
 description: Java przykładowy kod do łączenia dokumentów HTML w Java środowisku wykonawczym dla aplikacji JSP/JSF i aplikacji komputerowych.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

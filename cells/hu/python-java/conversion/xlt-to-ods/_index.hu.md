@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Az XLT konvertálása ODS-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/xlt-to-ods/
+
 description: Mintakód az xlt ods Python konverziójához. Használjon API példakódot az xlt fájlok kötegelt ods konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

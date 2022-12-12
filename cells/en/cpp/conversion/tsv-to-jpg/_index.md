@@ -1,6 +1,6 @@
 ---
 title: Convert TSV to JPG via C++
-url: /cpp/conversion/tsv-to-jpg/
+
 description: Convert TSV to JPG format in C++ code. Save TSV as JPG using C++.
 ---
 

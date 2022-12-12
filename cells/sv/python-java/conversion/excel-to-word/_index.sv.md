@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera EXCEL till WORD via Python
-url: /sv/python-java/conversion/excel-to-word/
+
 description: Exempelkod för konvertering från excel till ord Python. Använd API exempelkod för batch-exelfiler till ordkonvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

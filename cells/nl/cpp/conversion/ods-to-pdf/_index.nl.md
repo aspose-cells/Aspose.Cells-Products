@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer ODS naar PDF via C++ applicatie 
 weight: 6720
-url: /nl/cpp/conversion/ods-to-pdf/ 
+
 description: Voorbeeld C++ conversiecode voor ODS-document naar PDF-formaat. Programmeurs kunnen deze broncode gebruiken voor batch-ODS naar PDF-conversie binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

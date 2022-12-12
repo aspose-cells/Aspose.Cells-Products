@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل الأرقام إلى DIF عبر C#
-url: /ar/net/conversion/numbers-to-dif/
+
 description: نموذج كود للأرقام لمفرق التحويل C#. استخدم API رمز المثال لملفات أرقام الدُفعات لتغيير التحويل داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: JSON'u C# aracılığıyla XLSX'e dönüştürün
-url: /tr/net/conversion/json-to-xlsx/
+
 description: json'dan xlsx'e C# dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu json dosyalarından xlsx'e dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

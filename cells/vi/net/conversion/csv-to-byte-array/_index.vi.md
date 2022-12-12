@@ -1,7 +1,7 @@
-﻿---
+---
 title: Chuyển đổi CSV sang Mảng Byte qua C# 
 weight: 7690
-url: /vi/net/conversion/csv-to-byte-array/ 
+
 description: C# Mã mẫu để chuyển đổi CSV sang Mảng Byte. Sử dụng mã này để chuyển đổi Excel CSV sang Mảng Byte trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

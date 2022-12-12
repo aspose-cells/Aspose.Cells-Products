@@ -1,7 +1,7 @@
-﻿---
+---
 title: مخطط مستند XLS عبر Java 
 weight: 1050
-url: /ar/java/chart/xls/ 
+
 description: Java نموذج تعليمة برمجية لرسم وتحويل مخطط أو رسم تخطيطي في ملف XLS على Java Runtime Environment for JSP / JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

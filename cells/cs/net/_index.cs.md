@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET Excel API | Zpracujte tabulkové formáty prostřednictvím .NET Core 
 weight: 2030
-url: /cs/net/ 
+
 description: Knihovna C# ASP.NET VB.NET pro práci s dokumenty Microsoft Excel. Vytvářejte soubory pro čtení, zápis, ukládání a tisk tabulkových procesorů. Převést do PDF nebo více formátů
 ---
 {{< blocks/products/pf/main-wrap-class >}}

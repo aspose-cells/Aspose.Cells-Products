@@ -1,6 +1,6 @@
-﻿---
+---
 title: Créer des fichiers Excel via Java
-url: /fr/java/assembly/
+
 description: Générez des feuilles de calcul Microsoft Excel à partir d'une feuille de modèle à l'aide de la bibliothèque de feuilles de calcul Java
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

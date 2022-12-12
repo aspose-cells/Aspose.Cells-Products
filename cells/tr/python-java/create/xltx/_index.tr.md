@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla MS Excel XLTX Dosyaları oluşturun 
-url: /tr/python-java/create-xltx/ 
+
 description: Python XLTX belgeleri oluşturmak için örnek kod. Python uygulamasında MS Excel XLTX dosyaları oluşturmak için bu kodu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

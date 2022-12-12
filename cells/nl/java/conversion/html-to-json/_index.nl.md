@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer HTML naar JSON via Java 
 weight: 9560
-url: /nl/java/conversion/html-to-json/ 
+
 description: Voorbeeld Java conversiecode voor HTML-indeling naar JSON-bestand. Programmeurs kunnen deze voorbeeldcode gebruiken om Excel- en OpenOffice-spreadsheets naar JSON te exporteren binnen elke web- of desktoptoepassing Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

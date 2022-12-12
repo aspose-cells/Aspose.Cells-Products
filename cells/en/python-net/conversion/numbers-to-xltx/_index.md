@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to XLTX via Python
-url: /python-net/conversion/numbers-to-xltx/
+
 description: Sample code for numbers to xltx Python conversion. Use API example code for batch numbers files to xltx conversion within Python application.
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Telusuri dokumen TXT tanpa membuka melalui Java 
 weight: 1200
-url: /id/java/search/txt/ 
+
 description: Java contoh kode untuk mencari kata dengan pola dalam file TXT di Java Runtime Environment untuk Aplikasi JSP/JSF dan Aplikasi Desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

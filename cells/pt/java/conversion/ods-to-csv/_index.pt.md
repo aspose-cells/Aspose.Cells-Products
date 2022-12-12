@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converter ODS para CSV via Java 
 weight: 4610
-url: /pt/java/conversion/ods-to-csv/ 
+
 description: Exemplo de código de conversão Java para formato ODS para arquivo CSV. Os programadores podem usar este código de exemplo para exportar planilhas do Excel e OpenOffice para CSV em qualquer aplicativo baseado na Web ou Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

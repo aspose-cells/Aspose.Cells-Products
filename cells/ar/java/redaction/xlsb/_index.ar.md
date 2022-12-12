@@ -1,7 +1,7 @@
-﻿---
+---
 title: البحث عن نص واستبداله في مستند XLSB عبر Java 
 weight: 4590
-url: /ar/java/redaction/xlsb/ 
+
 description: Java نموذج كود لتنقيح المعلومات الحساسة في ملف XLSB على Java Runtime Environment لتطبيق JSP / JSF وتطبيقات سطح المكتب.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

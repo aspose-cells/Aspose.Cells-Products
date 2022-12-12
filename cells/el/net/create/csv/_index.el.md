@@ -1,6 +1,6 @@
-﻿---
+---
 title: Δημιουργία αρχείων CSV μέσω C# 
-url: /el/net/create-csv/ 
+
 description: C# Δείγμα κώδικα για τη δημιουργία εγγράφων CSV. Χρησιμοποιήστε αυτόν τον κώδικα για τη δημιουργία αρχείων CSV σε VB.NET, Asp.NET ή οποιαδήποτε εφαρμογή που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

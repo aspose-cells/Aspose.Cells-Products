@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLSB в TIFF через C#
-url: /ru/net/conversion/xlsb-to-tiff/
+
 description: Пример кода для преобразования xlsb в tiff C#. Используйте пример кода API для пакетного преобразования файлов xlsb в tiff в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

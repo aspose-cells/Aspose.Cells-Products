@@ -1,7 +1,7 @@
-﻿---
+---
 title: ODS belgesini C++ aracılığıyla koruyun ve kilitleyin 
 weight: 10010
-url: /tr/cpp/protect/ods/ 
+
 description: C++ Windows 32 bit, Windows 64 bit ve Linux 64 bit için C++ Runtime Environment'da parola kullanarak ODS dosyasını kilitlemek için örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

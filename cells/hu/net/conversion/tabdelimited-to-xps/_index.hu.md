@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TABDELIMITED konvertálása XPS-re a következőn keresztül: C#"
-url: /hu/net/conversion/tabdelimited-to-xps/
+
 description: Mintakód a tabulátorral tagolt xps C# konverzióhoz. Használjon API példakódot a tabulátorral elválasztott fájlok kötegelt XP-s konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

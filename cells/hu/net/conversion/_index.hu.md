@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Microsoft Excel fájlkonverzió a következőn keresztül: C# "
-url: /hu/net/conversion/
+
 description: Konvertálja az Excel XLS-t, XLSX-et, ODS-t, CSV-t PDF-, XPS-, HTML-, JPEG-, HTML- és sok más népszerű formátumba mindössze néhány soros C#-kóddal.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

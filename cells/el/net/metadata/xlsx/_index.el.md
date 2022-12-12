@@ -1,7 +1,7 @@
-﻿---
+---
 title: Προβολή ή επεξεργασία μεταδεδομένων αρχείων XLSX μέσω .NET 
 weight: 3430
-url: /el/net/metadata/xlsx/ 
+
 description: C# πηγαίος κώδικας για επεξεργασία ή προβολή μεταδεδομένων μορφής XLSX σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

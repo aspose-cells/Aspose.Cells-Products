@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLTX в XML с помощью приложения C++ 
-url: /ru/cpp/conversion/xltx-to-xml/ 
+
 description: Пример кода преобразования C++ для документа XLTX в формат XML. Программисты могут использовать этот исходный код для пакетного преобразования XLTX в XML в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

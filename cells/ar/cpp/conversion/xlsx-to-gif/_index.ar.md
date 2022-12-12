@@ -1,7 +1,7 @@
-﻿---
+---
 title: قم بتحويل XLSX إلى GIF عبر تطبيق C++ 
 weight: 6370
-url: /ar/cpp/conversion/xlsx-to-gif/ 
+
 description: نموذج C++ رمز تحويل لمستند XLSX إلى تنسيق GIF. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل XLSX إلى GIF دفعة داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

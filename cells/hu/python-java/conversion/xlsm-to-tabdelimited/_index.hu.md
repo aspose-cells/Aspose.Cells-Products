@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLSM konvertálása TAB-raDELIMITED a következőn keresztül: Python"
-url: /hu/python-java/conversion/xlsm-to-tabdelimited/
+
 description: Mintakód az xlsm-ből tabulátorral tagolt Python-es konverzióhoz. Használjon API példakódot kötegelt xlsm-fájlokhoz a tabulátorral tagolt konverzióhoz a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

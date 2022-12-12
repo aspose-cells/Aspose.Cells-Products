@@ -1,7 +1,7 @@
 ---
 title: Insert ListBox(Form control) into Excel via Python 
 weight: 50
-url: /python-net/developer/insert-form-control-listbox-to-excel/ 
+
 description: Python source code to insert ListBox(Form control) into Excel.
 ---
 

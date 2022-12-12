@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to DOCX via Python
-url: /python-net/conversion/txt-to-docx/
+
 description: Sample code for txt to docx Python conversion. Use API example code for batch txt files to docx conversion within Python application.
 ---
 

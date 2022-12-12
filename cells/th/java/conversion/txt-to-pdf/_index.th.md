@@ -1,7 +1,7 @@
-﻿---
+---
 title: แปลง TXT เป็น PDF ผ่าน Java 
 weight: 420
-url: /th/java/conversion/txt-to-pdf/ 
+
 description: ตัวอย่างโค้ดการแปลง Java สำหรับรูปแบบ TXT เป็นไฟล์ PDF โปรแกรมเมอร์สามารถใช้โค้ดตัวอย่างนี้เพื่อส่งออกสเปรดชีต Excel และ OpenOffice เป็น PDF ภายในแอปพลิเคชันบนเว็บหรือเดสก์ท็อป Java
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

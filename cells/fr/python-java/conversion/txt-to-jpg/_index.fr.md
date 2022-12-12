@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir TXT en JPG via Python
-url: /fr/python-java/conversion/txt-to-jpg/
+
 description: Exemple de code pour la conversion txt en jpg Python. Utilisez l'exemple de code API pour la conversion de fichiers txt par lots en jpg dans l'application Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert XLSM to TXT via Python
-url: /python-net/conversion/xlsm-to-txt/
+
 description: Sample code for xlsm to txt Python conversion. Use API example code for batch xlsm files to txt conversion within Python application.
 ---
 

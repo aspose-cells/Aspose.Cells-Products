@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést MHTML na GIF prostřednictvím Python
-url: /cs/python-java/conversion/mhtml-to-gif/
+
 description: Ukázkový kód pro převod mhtml na gif Python. Použijte API ukázkový kód pro dávkový převod souborů mhtml na gif v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to DOCX via C++
-url: /cpp/conversion/mhtml-to-docx/
+
 description: Convert MHTML to DOCX format in C++ code. Save MHTML as DOCX using C++.
 ---
 

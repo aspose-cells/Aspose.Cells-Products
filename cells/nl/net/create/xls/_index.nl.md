@@ -1,6 +1,6 @@
-﻿---
+---
 title: Maak MS Excel XLS-bestanden via C# 
-url: /nl/net/create-xls/ 
+
 description: C# Voorbeeldcode voor het genereren van XLS-documenten. Gebruik deze code om MS Excel XLS-bestanden te maken binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

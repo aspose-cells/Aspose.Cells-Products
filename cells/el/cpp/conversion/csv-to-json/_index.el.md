@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή CSV σε JSON μέσω εφαρμογής C++ 
-url: /el/cpp/conversion/csv-to-json/ 
+
 description: Δείγμα κώδικα μετατροπής C++ για έγγραφο CSV σε μορφή JSON. Οι προγραμματιστές μπορούν να χρησιμοποιήσουν αυτόν τον πηγαίο κώδικα για ομαδική μετατροπή CSV σε JSON σε οποιαδήποτε εφαρμογή C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

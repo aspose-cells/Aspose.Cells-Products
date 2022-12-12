@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل MHTML إلى EMF عبر تطبيق C++ 
 weight: 2140
-url: /ar/cpp/conversion/mhtml-to-emf/ 
+
 description: نموذج لشفرة تحويل C++ لمستند MHTML إلى تنسيق EMF. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل MHTML إلى EMF دفعة داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

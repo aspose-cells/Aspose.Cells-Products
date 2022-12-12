@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#을(를) 통해 FODS를 MARKDOWN으로 변환
-url: /ko/net/conversion/fods-to-markdown/
+
 description: fods를 마크다운 C#로 변환하는 샘플 코드입니다. 배치 fods 파일에 대한 API 예제 코드를 사용하여 VB.NET, Asp.NET 또는 .NET 기반 애플리케이션 내에서 마크다운 변환을 수행합니다.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET Java C++ API phân tích cú pháp bảng tính PHP và Android Excel 
 weight: 10
-url: /vi/family
+
 description: Thư viện để đọc ghi và thao tác với các tệp Microsoft Excel trong .NET Java C++ ứng dụng Android và SharePoint. Xuất Bảng tính trong SSRS và JasperReports
 ---
 {{< blocks/products/pf/main-wrap-class >}}

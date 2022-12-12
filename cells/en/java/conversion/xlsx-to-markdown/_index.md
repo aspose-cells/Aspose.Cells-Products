@@ -1,6 +1,6 @@
 ---
 title: Convert XLSX to MARKDOWN via Java 
-url: /java/conversion/xlsx-to-markdown/
+
 description: Convert XLSX to MARKDOWN format in Java code. Save XLSX as MARKDOWN using Java.
 ---
 

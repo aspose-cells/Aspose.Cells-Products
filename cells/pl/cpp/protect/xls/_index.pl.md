@@ -1,7 +1,7 @@
-﻿---
+---
 title: Chroń i blokuj dokument XLS za pomocą C++ 
 weight: 8760
-url: /pl/cpp/protect/xls/ 
+
 description: C++ przykładowy kod do blokowania pliku XLS przy użyciu hasła w C++ Runtime Environment dla Windows 32-bitowy, Windows 64-bitowy i Linux 64-bitowy.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

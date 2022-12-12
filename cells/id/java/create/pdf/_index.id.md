@@ -1,6 +1,6 @@
-﻿---
+---
 title: Buat File PDF melalui Java 
-url: /id/java/create-pdf/ 
+
 description: Java Contoh kode untuk membuat dokumen PDF. Gunakan kode ini untuk membuat berkas PDF dalam Java desktop atau aplikasi web berbasis.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

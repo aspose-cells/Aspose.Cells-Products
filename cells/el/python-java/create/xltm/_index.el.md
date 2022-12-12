@@ -1,6 +1,6 @@
-﻿---
+---
 title: Δημιουργία αρχείων MS Excel XLTM μέσω Python 
-url: /el/python-java/create-xltm/ 
+
 description: Python Δείγμα κώδικα για τη δημιουργία εγγράφων XLTM. Χρησιμοποιήστε αυτόν τον κώδικα για τη δημιουργία αρχείων MS Excel XLTM εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

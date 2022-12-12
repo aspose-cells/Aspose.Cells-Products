@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konwertuj TSV na GIF przez Java 
 weight: 1600
-url: /pl/java/conversion/tsv-to-gif/ 
+
 description: Przykładowy kod konwersji Java dla formatu TSV do pliku GIF. Programiści mogą użyć tego przykładowego kodu, aby wyeksportować arkusze kalkulacyjne Excel i OpenOffice do formatu GIF w dowolnej aplikacji internetowej lub desktopowej Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

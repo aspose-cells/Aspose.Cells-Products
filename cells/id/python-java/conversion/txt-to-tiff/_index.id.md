@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan TXT ke TIFF melalui Python
-url: /id/python-java/conversion/txt-to-tiff/
+
 description: Contoh kode untuk konversi txt ke tiff Python. Gunakan API kode contoh untuk file txt batch ke konversi tiff dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Vytvářejte soubory PDF prostřednictvím C++ 
-url: /cs/cpp/create-pdf/ 
+
 description: C++ Ukázkový kód pro generování souborů PDF. Tento kód použijte k vytváření souborů PDF v aplikaci založené na C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

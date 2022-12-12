@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python के माध्यम से XLTX को PNG में बदलें
-url: /hi/python-java/conversion/xltx-to-png/
+
 description: xltx से png Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर पीएनजी रूपांतरण में बैच xltx फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

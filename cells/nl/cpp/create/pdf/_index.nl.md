@@ -1,6 +1,6 @@
-﻿---
+---
 title: PDF-bestanden maken via C++ 
-url: /nl/cpp/create-pdf/ 
+
 description: C++ Voorbeeldcode voor het genereren van PDF-bestanden. Gebruik deze code voor het maken van PDF-bestanden binnen een op C++ gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Chránit a uzamknout dokument XLS prostřednictvím .NET 
 weight: 7010
-url: /cs/net/protect/xls/ 
+
 description: C# zdrojový kód pro uzamčení souboru XLS pomocí hesla na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

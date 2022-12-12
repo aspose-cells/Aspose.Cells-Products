@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést NUMBERS na XLTX přes Python
-url: /cs/python-java/conversion/numbers-to-xltx/
+
 description: Ukázkový kód pro převod čísel na xltx Python. Použijte ukázkový kód API pro převod souborů s čísly dávek na xltx v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

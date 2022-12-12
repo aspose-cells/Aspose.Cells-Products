@@ -1,6 +1,6 @@
 ---
 title: Convert TSV to XLSB via C++
-url: /cpp/conversion/tsv-to-xlsb/
+
 description: Convert TSV to XLSB format in C++ code. Save TSV as XLSB using C++.
 ---
 

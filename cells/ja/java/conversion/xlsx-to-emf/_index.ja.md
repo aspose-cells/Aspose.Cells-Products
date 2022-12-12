@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してXLSXをEMFに変換します 
 weight: 1730
-url: /ja/java/conversion/xlsx-to-emf/ 
+
 description: XLSX形式からEMFファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のEMFにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Αναζήτηση και αντικατάσταση κειμένου σε έγγραφο XLSM μέσω .NET 
 weight: 2370
-url: /el/net/redaction/xlsm/ 
+
 description: C# πηγαίος κώδικας για διόρθωση ευαίσθητων πληροφοριών σε αρχείο XLSM σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

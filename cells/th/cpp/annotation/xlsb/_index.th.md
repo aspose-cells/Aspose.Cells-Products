@@ -1,7 +1,7 @@
-﻿---
+---
 title: เพิ่มคำอธิบายประกอบไฟล์ Excel XLSB ผ่าน C++ 
 weight: 860
-url: /th/cpp/annotation/xlsb/ 
+
 description: C++ ตัวอย่างโค้ดสำหรับลบคำอธิบายประกอบรูปแบบ XLSB บน C++ Runtime Environment สำหรับ Windows 32 บิต, Windows 64 บิต และ Linux 64 บิต
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

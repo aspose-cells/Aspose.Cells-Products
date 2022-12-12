@@ -1,6 +1,6 @@
-﻿---
+---
 title: قم بتحويل XLTX إلى CSV عبر تطبيق C++ 
-url: /ar/cpp/conversion/xltx-to-csv/ 
+
 description: نموذج C++ رمز التحويل لمستند XLTX إلى تنسيق CSV. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل XLTX إلى CSV دفعة داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

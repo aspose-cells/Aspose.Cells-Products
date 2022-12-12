@@ -1,6 +1,6 @@
-﻿---
+---
 title: "NUMBERS konvertálása MARKDOWN-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/numbers-to-markdown/
+
 description: Mintakód számokhoz a Python konverzió leértékeléséhez. Használjon API példakódot kötegszámfájlokhoz a konverzió leértékeléséhez a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 C# 将 XLSM 转换为 XLSB
-url: /zh/net/conversion/xlsm-to-xlsb/
+
 description: xlsm 到 xlsb C# 转换的示例代码。使用 API 示例代码在 VB.NET、Asp.NET 或任何基于 .NET 的应用程序中将 xlsm 文件批量转换为 xlsb。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

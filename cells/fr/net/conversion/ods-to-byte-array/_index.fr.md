@@ -1,7 +1,7 @@
-﻿---
+---
 title: Convertir ODS en tableau d'octets via C# 
 weight: 7690
-url: /fr/net/conversion/ods-to-byte-array/ 
+
 description: C# Exemple de code pour la conversion d'ODS en tableau d'octets. Utilisez ce code pour la conversion Excel ODS en Byte Array dans VB.NET, Asp.NET ou toute application basée sur .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

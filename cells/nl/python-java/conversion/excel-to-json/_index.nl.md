@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer EXCEL naar JSON via Python
-url: /nl/python-java/conversion/excel-to-json/
+
 description: Voorbeeldcode voor conversie van Excel naar json Python. Gebruik API voorbeeldcode voor batch Excel-bestanden naar json-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

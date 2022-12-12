@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan XLSB ke EMF melalui Python
-url: /id/python-java/conversion/xlsb-to-emf/
+
 description: Contoh kode untuk konversi xlsb ke emf Python. Gunakan API kode contoh untuk file batch xlsb ke konversi emf dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

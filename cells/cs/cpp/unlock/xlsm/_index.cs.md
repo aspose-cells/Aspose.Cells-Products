@@ -1,7 +1,7 @@
-﻿---
+---
 title: Odemknout dokument XLSM přes C++ 
 weight: 6070
-url: /cs/cpp/unlock/xlsm/ 
+
 description: C++ ukázkový kód k odemknutí heslem chráněného souboru XLSM v C++ Runtime Environment pro Windows 32bit, Windows 64bit a Linux 64bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

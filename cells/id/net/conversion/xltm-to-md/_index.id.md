@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan XLTM ke MD melalui C#
-url: /id/net/conversion/xltm-to-md/
+
 description: Contoh kode untuk konversi xltm ke md C#. Gunakan API kode contoh untuk file batch xltm ke konversi md dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

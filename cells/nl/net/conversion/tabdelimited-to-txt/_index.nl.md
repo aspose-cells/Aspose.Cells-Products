@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer TABDELIMITED naar TXT via C#
-url: /nl/net/conversion/tabdelimited-to-txt/
+
 description: Voorbeeldcode voor door tabs gescheiden naar txt C# conversie. Gebruik API voorbeeldcode voor batch-tabdelimited-bestanden naar txt-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

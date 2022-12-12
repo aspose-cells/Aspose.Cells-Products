@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi TXT sang DIF qua C#
-url: /vi/net/conversion/txt-to-dif/
+
 description: Mã mẫu cho chuyển đổi txt sang dif C#. Sử dụng API mã mẫu cho các tệp txt hàng loạt để chuyển đổi khác trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

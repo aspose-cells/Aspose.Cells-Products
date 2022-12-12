@@ -1,6 +1,6 @@
-﻿---
+---
 title: SPREADSHEETML'yi Python aracılığıyla FODS'ye dönüştürün
-url: /tr/python-java/conversion/spreadsheetml-to-fods/
+
 description: E-tabloml'den yemlere Python dönüşümü için örnek kod. Python uygulamasında toplu elektronik tabloml dosyalarından fods'a dönüşüm için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

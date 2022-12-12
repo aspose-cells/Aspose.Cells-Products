@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj SPREADSHEETML na GIF przez C#
-url: /pl/net/conversion/spreadsheetml-to-gif/
+
 description: Przykładowy kod konwersji arkusza kalkulacyjnego na gif C#. Użyj przykładowego kodu API dla wsadowych plików arkusza kalkulacyjnego w celu konwersji gif w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

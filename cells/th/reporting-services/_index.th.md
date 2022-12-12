@@ -1,7 +1,7 @@
-﻿---
+---
 title: ส่งออกรายงาน RDL ไปยัง Excel XLS XLSX และ SpreadsheetML ใน SQL Server 
 weight: 3460
-url: /th/reporting-services/ 
+
 description: ส่วนขยายการแสดงผลของบริการรายงานของ SQL Server - ส่งออกรูปแบบ Excel XLS XLSX XLSM XLSB CSV SpreadsheetML HTML ODS และ TXT
 ---
 {{< blocks/products/pf/main-wrap-class >}}

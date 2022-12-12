@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLTX-et MHTML-re a(z) C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/xltx-to-mhtml/ 
+
 description: Minta C++ konverziós kód XLTX dokumentumhoz MHTML formátumba. A programozók ezt a forráskódot használhatják kötegelt XLTX-MHTML-konverzióhoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

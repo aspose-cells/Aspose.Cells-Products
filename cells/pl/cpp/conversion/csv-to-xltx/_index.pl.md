@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konwertuj CSV na XLTX za pomocą aplikacji C++ 
 weight: 5790
-url: /pl/cpp/conversion/csv-to-xltx/ 
+
 description: Przykładowy kod konwersji C++ dla dokumentu CSV do formatu XLTX. Programiści mogą używać tego kodu źródłowego do wsadowej konwersji CSV na XLTX w dowolnej aplikacji C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

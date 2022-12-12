@@ -1,7 +1,7 @@
-﻿---
+---
 title: Επεξεργασία ή προβολή μεταδεδομένων εγγράφου XLSB μέσω C++ 
 weight: 4820
-url: /el/cpp/metadata/xlsb/ 
+
 description: C++ παράδειγμα κώδικα για επεξεργασία ή προβολή μεταδεδομένων αρχείου XLSB στο C++ Runtime Environment για Windows 32 bit, Windows 64 bit και Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

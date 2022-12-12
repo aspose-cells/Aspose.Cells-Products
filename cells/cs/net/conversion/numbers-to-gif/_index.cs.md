@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést NUMBERS na GIF prostřednictvím C#
-url: /cs/net/conversion/numbers-to-gif/
+
 description: Ukázkový kód pro převod čísel na gif C#. Použijte API ukázkový kód pro dávkové soubory čísel na převod GIF v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

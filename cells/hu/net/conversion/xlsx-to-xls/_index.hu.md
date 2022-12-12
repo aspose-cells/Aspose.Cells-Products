@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLSX konvertálása XLS-re a következőn keresztül: C#"
-url: /hu/net/conversion/xlsx-to-xls/
+
 description: Mintakód az xlsx–xls C# konverzióhoz. Használjon API példakódot a kötegelt xlsx fájlok xls konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

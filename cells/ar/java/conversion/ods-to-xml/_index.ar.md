@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل ODS إلى XML عبر Java 
-url: /ar/java/conversion/ods-to-xml/ 
+
 description: نموذج Java رمز التحويل لتنسيق ODS إلى ملف XML. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel و OpenOffice إلى XML داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

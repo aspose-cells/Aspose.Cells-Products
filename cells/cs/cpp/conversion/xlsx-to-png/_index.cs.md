@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převeďte XLSX na PNG pomocí aplikace C++ 
 weight: 4660
-url: /cs/cpp/conversion/xlsx-to-png/ 
+
 description: Ukázka převodního kódu C++ pro dokument XLSX na formát PNG. Programátoři mohou použít tento zdrojový kód pro dávkový převod XLSX na PNG v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование TABDELIMITED в CSV с помощью приложения C++ 
-url: /ru/cpp/conversion/tabdelimited-to-csv/ 
+
 description: Пример кода преобразования C++ для документа TABDELIMITED в формат CSV. Программисты могут использовать этот исходный код для пакетного преобразования TABDELIMITED в CSV в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

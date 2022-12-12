@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してMHTMLをMARKDOWNに変換します
-url: /ja/net/conversion/mhtml-to-markdown/
+
 description: mhtmlからマークダウンC#への変換のサンプルコード。バッチmhtmlファイルのAPIサンプルコードを使用して、VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内で変換をマークダウンします。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

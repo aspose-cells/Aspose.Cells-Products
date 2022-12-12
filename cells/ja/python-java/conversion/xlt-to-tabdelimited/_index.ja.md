@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してXLTをTABDELIMITEDに変換します
-url: /ja/python-java/conversion/xlt-to-tabdelimited/
+
 description: xltからtabdelimitedPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチxltファイルからタブ区切りへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

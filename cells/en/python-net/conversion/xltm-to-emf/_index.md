@@ -1,6 +1,6 @@
 ---
 title: Convert XLTM to EMF via Python
-url: /python-net/conversion/xltm-to-emf/
+
 description: Sample code for xltm to emf Python conversion. Use API example code for batch xltm files to emf conversion within Python application.
 ---
 

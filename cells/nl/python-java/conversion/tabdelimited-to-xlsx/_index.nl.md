@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer TABDELIMITED naar XLSX via Python
-url: /nl/python-java/conversion/tabdelimited-to-xlsx/
+
 description: Voorbeeldcode voor door tabs gescheiden naar xlsx Python conversie. Gebruik API voorbeeldcode voor batch-tabdelimited-bestanden naar xlsx-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

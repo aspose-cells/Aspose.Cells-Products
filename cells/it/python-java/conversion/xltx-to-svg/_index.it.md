@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converti XLTX in SVG tramite Python
-url: /it/python-java/conversion/xltx-to-svg/
+
 description: Codice di esempio per la conversione da xltx a svg Python. Usa il codice di esempio API per la conversione batch di file xltx in svg all'interno dell'applicazione Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

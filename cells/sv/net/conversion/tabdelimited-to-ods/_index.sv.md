@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera TABDELIMITED till ODS via C#
-url: /sv/net/conversion/tabdelimited-to-ods/
+
 description: Exempelkod för tabbavgränsad till ods C#-omvandling. Använd API exempelkod för batch-tabbavgränsade filer till ods-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert XLSM to ODS via Java 
-url: /java/conversion/xlsm-to-ods/
+
 description: Convert XLSM to ODS format in Java code. Save XLSM as ODS using Java.
 ---
 

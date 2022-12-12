@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してTSVをMDに変換します 
-url: /ja/java/conversion/tsv-to-md/ 
+
 description: TSV形式からMDファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、WebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをMDにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

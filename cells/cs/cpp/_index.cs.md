@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ Programování tabulkových procesorů Excel API – Aspose 
 weight: 7140
-url: /cs/cpp/ 
+
 description: C++ Knihovna Excel pro čtení, zápis a analýzu souborů včetně formátů XLS, XLSX, XLSM a XLSB. Převeďte tabulky do PDF, CSV a dalších formátů
 ---
 {{< blocks/products/pf/main-wrap-class >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง SPREADSHEETML เป็น XLSX ผ่าน Python
-url: /th/python-java/conversion/spreadsheetml-to-xlsx/
+
 description: โค้ดตัวอย่างสำหรับการแปลงสเปรดชีตml เป็น xlsx Python ใช้โค้ดตัวอย่าง API สำหรับไฟล์สเปรดชีตสเปรดชีตแบบแบตช์เป็นการแปลง xlsx ภายในแอปพลิเคชัน Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

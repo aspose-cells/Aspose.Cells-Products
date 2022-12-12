@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование NUMBERS в PNG с помощью C#
-url: /ru/net/conversion/numbers-to-png/
+
 description: Пример кода для преобразования чисел в png C#. Используйте пример кода API для преобразования файлов номеров пакетов в png в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

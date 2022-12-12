@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla HTML'yi XML'e dönüştürün
-url: /tr/python-java/conversion/html-to-xml/
+
 description: Html'den xml'ye Python dönüştürme için örnek kod. Python uygulamasında toplu html dosyalarından xml'ye dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert TSV to CSV via Python
-url: /python-net/conversion/tsv-to-csv/
+
 description: Sample code for tsv to csv Python conversion. Use API example code for batch tsv files to csv conversion within Python application.
 ---
 

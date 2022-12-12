@@ -1,7 +1,7 @@
-﻿---
+---
 title: Tìm kiếm và thay thế văn bản trong tài liệu XLS qua Java 
 weight: 7900
-url: /vi/java/redaction/xls/ 
+
 description: Java mã mẫu để biên tập lại thông tin nhạy cảm trong tệp XLS trên Java Môi trường thời gian chạy cho Ứng dụng JSP / JSF và Ứng dụng máy tính để bàn.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

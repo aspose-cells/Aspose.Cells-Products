@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to TXT via Java 
-url: /java/conversion/csv-to-txt/
+
 description: Convert CSV to TXT format in Java code. Save CSV as TXT using Java.
 ---
 

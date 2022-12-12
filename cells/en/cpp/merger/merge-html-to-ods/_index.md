@@ -1,6 +1,6 @@
 ---
 title: Merge HTML to ODS Files via C++ 
-url: /cpp/merger/merge-html-to-ods/ 
+
 description: Merge HTML to ODS file in C++ code. Combine HTML to ODS file using C++.
 ---
 

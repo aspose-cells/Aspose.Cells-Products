@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLSB-t XLAM-re a(z) C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/xlsb-to-xlam/ 
+
 description: Minta C++ konverziós kód az XLSB dokumentumhoz XLAM formátumba. A programozók ezt a forráskódot használhatják az XLSB-ből XLAM-be kötegelt konvertáláshoz bármely C++ alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: รวมไฟล์ XLSB ผ่าน C++ 
-url: /th/cpp/merger/xlsb/ 
+
 description: C++ โค้ดตัวอย่างเพื่อรวมเอกสาร XLSB บน C++ Runtime Environment สำหรับ Windows 32 บิต, Windows 64 บิต และ Linux 64 บิต
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET을(를) 통해 XLS 문서에서 텍스트 검색 및 바꾸기 
 weight: 7280
-url: /ko/net/redaction/xls/ 
+
 description: C# 소스 코드를 사용하여 .NET Framework, .NET Core, Mono 또는 Xamarin Platform에서 XLS 파일의 민감한 정보를 수정합니다.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

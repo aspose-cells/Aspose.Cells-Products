@@ -1,6 +1,6 @@
-﻿---
+---
 title: "NUMBERS konvertálása TAB-raDELIMITED a következőn keresztül: Python"
-url: /hu/python-java/conversion/numbers-to-tabdelimited/
+
 description: Mintakód számokhoz a tabulátorral határolt Python konverzióhoz. Használjon API példakódot kötegszámfájlokhoz a tabulátorral tagolt konverzióhoz a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

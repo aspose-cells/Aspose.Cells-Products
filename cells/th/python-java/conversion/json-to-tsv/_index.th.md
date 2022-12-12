@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง JSON เป็น TSV ผ่าน Python
-url: /th/python-java/conversion/json-to-tsv/
+
 description: โค้ดตัวอย่างสำหรับการแปลง json เป็น tsv Python ใช้โค้ดตัวอย่าง API สำหรับไฟล์แบตช์ json เป็นการแปลง tsv ภายในแอปพลิเคชัน Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

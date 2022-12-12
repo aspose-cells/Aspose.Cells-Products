@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést XLSM na XLTX přes Java 
 weight: 7030
-url: /cs/java/conversion/xlsm-to-xltx/ 
+
 description: Ukázkový konverzní kód Java pro formát XLSM na soubor XLTX. Programátoři mohou použít tento příklad kódu k exportu tabulek Excelu a OpenOffice do XLTX v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

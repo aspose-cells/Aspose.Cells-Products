@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter SPREADSHEETML para XLTM via C#
-url: /pt/net/conversion/spreadsheetml-to-xltm/
+
 description: Código de exemplo para conversão de planilhaml para xltm C#. Use API código de exemplo para arquivos de planilhaml em lote para conversão xltm em VB.NET, Asp.NET ou qualquer aplicativo baseado em .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

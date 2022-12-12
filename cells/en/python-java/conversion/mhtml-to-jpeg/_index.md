@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to JPEG via Python
-url: /python-java/conversion/mhtml-to-jpeg/
+
 description: Convert MHTML to JPEG format in Python code. Save MHTML as JPEG using Python.
 ---
 

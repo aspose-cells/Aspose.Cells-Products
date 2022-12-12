@@ -1,6 +1,6 @@
-﻿---
+---
 title: XLT को FODS में Python के माध्यम से कनवर्ट करें
-url: /hi/python-java/conversion/xlt-to-fods/
+
 description: xlt से fods Python रूपांतरण के लिए नमूना कोड। बैच xlt फ़ाइलों के लिए Python एप्लिकेशन के भीतर फोड रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

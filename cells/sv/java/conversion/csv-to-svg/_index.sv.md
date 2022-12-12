@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertera CSV till SVG via Java 
 weight: 9790
-url: /sv/java/conversion/csv-to-svg/ 
+
 description: Exempel Java-konverteringskod för CSV-format till SVG-fil. Programmerare kan använda den här exempelkoden för att exportera Excel- och OpenOffice-kalkylblad till SVG inom alla webb- eller skrivbordsbaserade Javaapplikationer.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

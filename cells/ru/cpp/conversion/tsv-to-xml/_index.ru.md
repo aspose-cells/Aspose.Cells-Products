@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование TSV в XML с помощью приложения C++ 
-url: /ru/cpp/conversion/tsv-to-xml/ 
+
 description: Пример C++ кода преобразования документа TSV в формат XML. Программисты могут использовать этот исходный код для пакетного преобразования TSV в XML в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

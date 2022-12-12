@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta SPREADSHEETML a FODS a través de Python
-url: /es/python-java/conversion/spreadsheetml-to-fods/
+
 description: Código de muestra para conversión de hoja de cálculo a fods Python. Use API código de ejemplo para archivos de hoja de cálculo por lotes para fomentar la conversión dentro de la aplicación Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

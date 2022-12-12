@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Microsoft Excel fájlkonverzió a következőn keresztül: Python "
-url: /hu/python/conversion/
+
 description: Konvertálja az Excel XLS-t, XLSX-et, ODS-t, CSV-t PDF-, XPS-, HTML-, JPEG-, HTML- és sok más népszerű formátumba mindössze néhány soros Python-kóddal.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

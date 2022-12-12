@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل الأرقام إلى SXC عبر C#
-url: /ar/net/conversion/numbers-to-sxc/
+
 description: نموذج كود للأرقام المراد تحويلها C#. استخدم API رمز المثال لملفات أرقام الدُفعات لتحويل sxc داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

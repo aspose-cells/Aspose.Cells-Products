@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to XLTX via C#
-url: /net/conversion/xlsb-to-xltx/
+
 description: Convert XLSB to XLTX format in C# code. Save XLSB as XLTX using VB.NET, Asp.NET or any .NET based application.
 ---
 

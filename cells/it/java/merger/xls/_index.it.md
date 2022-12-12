@@ -1,7 +1,7 @@
-﻿---
+---
 title: Unisci file XLS tramite Java 
 weight: 5140
-url: /it/java/merger/xls/ 
+
 description: Java codice di esempio per combinare documenti XLS su Java Runtime Environment per applicazioni JSP/JSF e applicazioni desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

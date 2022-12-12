@@ -1,6 +1,6 @@
 ---
 title: Convert XLSX to SPREADSHEETML via Python
-url: /python-java/conversion/xlsx-to-spreadsheetml/
+
 description: Convert XLSX to SPREADSHEETML format in Python code. Save XLSX as SPREADSHEETML using Python.
 ---
 

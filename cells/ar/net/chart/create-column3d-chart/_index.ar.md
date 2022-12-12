@@ -1,6 +1,6 @@
-﻿---
+---
 title: إنشاء مخططات Column3D عبر C#
-url: /ar/net/create-column3d-chart/
+
 description: C# نموذج كود لإنشاء مخططات Column3D في Excel باستخدام .NET Library. استخدم هذا الرمز لإنشاء مخطط Column3D إلى MS Excel داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

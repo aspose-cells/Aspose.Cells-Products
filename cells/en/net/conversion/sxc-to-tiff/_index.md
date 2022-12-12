@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to TIFF via C#
-url: /net/conversion/sxc-to-tiff/
+
 description: Convert SXC to TIFF format in C# code. Save SXC as TIFF using VB.NET, Asp.NET or any .NET based application.
 ---
 

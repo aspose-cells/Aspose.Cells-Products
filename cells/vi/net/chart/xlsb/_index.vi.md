@@ -1,7 +1,7 @@
-﻿---
+---
 title:  Biểu đồ tài liệu XLSB sang hình ảnh qua .NET 
 weight: 8560
-url: /vi/net/chart/xlsb/ 
+
 description: C# mã nguồn để vẽ và chuyển đổi biểu đồ hoặc sơ đồ trong tệp XLSB trên Nền tảng .NET Framework, .NET Core Mono hoặc Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

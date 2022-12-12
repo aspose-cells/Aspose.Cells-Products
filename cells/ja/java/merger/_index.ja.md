@@ -1,6 +1,6 @@
-﻿---
+---
 title: 異なるExcelファイルをJavaの1つのファイルにマージします
-url: /ja/java/merger/
+
 description: Javaを使用してExcelファイルを複数のシートまたは単一のシートにマージします。 ExcelドキュメントをPDF、画像、HTMLにマージ、結合、または連結します。
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

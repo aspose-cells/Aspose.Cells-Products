@@ -1,6 +1,6 @@
-﻿---
+---
 title: Skapa stapeldiagram via Python
-url: /sv/python-java/create-bar-chart/
+
 description: Python Exempelkod för att skapa stapeldiagram till Excel med hjälp av Python Library. Använd den här koden för att skapa ett stapeldiagram till MS Excel i en Python-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

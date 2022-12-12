@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง XLS เป็น CSV ผ่าน C#
-url: /th/net/conversion/xls-to-csv/
+
 description: โค้ดตัวอย่างสำหรับการแปลง xls เป็น csv C# ใช้โค้ดตัวอย่าง API สำหรับไฟล์ batch xls เป็นการแปลง csv ภายใน VB.NET, Asp.NET หรือแอปพลิเคชันที่ใช้ .NET
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

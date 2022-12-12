@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera NUMBERS till HTML via Python
-url: /sv/python-java/conversion/numbers-to-html/
+
 description: Exempelkod för siffror till html Python-konvertering. Använd API exempelkod för batchnummerfiler till html-konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "FODS konvertálása SPREADSHEETML-re a következőn keresztül: C#"
-url: /hu/net/conversion/fods-to-spreadsheetml/
+
 description: Mintakód a fods to tablesheetml C# konverzióhoz. Használjon API példakódot kötegelt fod fájlokhoz a táblázatkezelők konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

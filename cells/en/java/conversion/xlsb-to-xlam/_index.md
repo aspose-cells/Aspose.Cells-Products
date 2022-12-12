@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to XLAM via Java 
-url: /java/conversion/xlsb-to-xlam/
+
 description: Convert XLSB to XLAM format in Java code. Save XLSB as XLAM using Java.
 ---
 

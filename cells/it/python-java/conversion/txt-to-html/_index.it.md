@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converti TXT in HTML tramite Python
-url: /it/python-java/conversion/txt-to-html/
+
 description: Codice di esempio per la conversione da txt a html Python. Usa il codice di esempio API per la conversione in batch di file txt in html all'interno dell'applicazione Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

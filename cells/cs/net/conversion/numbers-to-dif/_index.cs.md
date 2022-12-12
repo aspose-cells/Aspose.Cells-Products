@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést NUMBERS na DIF prostřednictvím C#
-url: /cs/net/conversion/numbers-to-dif/
+
 description: Ukázkový kód pro převod čísel na rozdíl C#. Použijte API ukázkový kód pro dávkové číselné soubory pro převod převodu v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

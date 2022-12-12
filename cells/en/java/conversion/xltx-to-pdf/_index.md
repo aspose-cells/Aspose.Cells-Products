@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to PDF via Java 
-url: /java/conversion/xltx-to-pdf/
+
 description: Convert XLTX to PDF format in Java code. Save XLTX as PDF using Java.
 ---
 

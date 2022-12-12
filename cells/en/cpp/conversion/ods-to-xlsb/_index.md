@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to XLSB via C++
-url: /cpp/conversion/ods-to-xlsb/
+
 description: Convert ODS to XLSB format in C++ code. Save ODS as XLSB using C++.
 ---
 

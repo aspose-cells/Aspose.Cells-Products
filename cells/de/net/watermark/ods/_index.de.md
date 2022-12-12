@@ -1,7 +1,7 @@
-﻿---
+---
 title: ODS-Dokument mit Wasserzeichen über .NET 
 weight: 4190
-url: /de/net/watermark/ods/ 
+
 description: C#-Quellcode zum Hinzufügen oder Entfernen von Wasserzeichen zur ODS-Datei auf .NET Framework-, .NET Core-, Mono- oder Xamarin-Plattformen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: SPREADSHEETML'yi Python aracılığıyla EMF'ye dönüştürün
-url: /tr/python-java/conversion/spreadsheetml-to-emf/
+
 description: E-tabloml'den emf'ye Python dönüşümü için örnek kod. Python uygulamasında toplu elektronik tablo ml dosyaları için emf dönüşümü için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

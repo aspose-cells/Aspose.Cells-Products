@@ -1,6 +1,6 @@
-﻿---
+---
 title: "FODS konvertálása PNG-re a következőn keresztül: C#"
-url: /hu/net/conversion/fods-to-png/
+
 description: Mintakód a fod to png C# konverziójához. Használjon API példakódot kötegelt fod fájlokhoz a png konverzióhoz VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

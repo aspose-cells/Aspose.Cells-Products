@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to BMP via Python
-url: /python-net/conversion/mhtml-to-bmp/
+
 description: Sample code for mhtml to bmp Python conversion. Use API example code for batch mhtml files to bmp conversion within Python application.
 ---
 

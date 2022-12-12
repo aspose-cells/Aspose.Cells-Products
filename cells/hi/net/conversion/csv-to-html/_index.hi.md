@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# के माध्यम से CSV को HTML में बदलें
-url: /hi/net/conversion/csv-to-html/
+
 description: csv से html C# रूपांतरण के लिए नमूना कोड। VB.NET, Asp.NET या किसी भी .NET आधारित एप्लिकेशन में html रूपांतरण में बैच csv फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

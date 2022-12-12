@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLTM naar XLS via C#
-url: /nl/net/conversion/xltm-to-xls/
+
 description: Voorbeeldcode voor xltm naar xls C# conversie. Gebruik API voorbeeldcode voor batch xltm-bestanden naar xls-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

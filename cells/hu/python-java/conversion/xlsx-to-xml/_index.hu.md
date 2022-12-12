@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLSX konvertálása XML-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/xlsx-to-xml/
+
 description: Mintakód az xlsx–xml Python konverzióhoz. Használjon API példakódot a kötegelt xlsx fájlok xml-lé konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

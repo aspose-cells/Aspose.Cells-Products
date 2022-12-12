@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan ODS ke TABDELIMITED melalui C++ aplikasi 
-url: /id/cpp/conversion/ods-to-tabdelimited/ 
+
 description: Contoh C++ kode konversi untuk dokumen ODS ke format TABDELIMITED. Pemrogram dapat menggunakan kode sumber ini untuk konversi batch ODS ke TABDELIMITED dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

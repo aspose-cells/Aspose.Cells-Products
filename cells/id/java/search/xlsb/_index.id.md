@@ -1,7 +1,7 @@
-﻿---
+---
 title: Telusuri dokumen XLSB tanpa membuka melalui Java 
 weight: 9420
-url: /id/java/search/xlsb/ 
+
 description: Java contoh kode untuk mencari kata dengan pola dalam file XLSB di Java Runtime Environment untuk Aplikasi JSP/JSF dan Aplikasi Desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

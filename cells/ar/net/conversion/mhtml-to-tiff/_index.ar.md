@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل MHTML إلى TIFF عبر C#
-url: /ar/net/conversion/mhtml-to-tiff/
+
 description: نموذج رمز لـ mhtml لتحويل C#. استخدم API رمز المثال لملفات mhtml المجمعة لإجراء تحويل شجاع داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

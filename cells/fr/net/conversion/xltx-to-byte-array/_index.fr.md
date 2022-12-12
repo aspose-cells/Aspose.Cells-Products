@@ -1,7 +1,7 @@
-﻿---
+---
 title: Convertir XLTX en tableau d'octets via C# 
 weight: 7690
-url: /fr/net/conversion/xltx-to-byte-array/ 
+
 description: C# Exemple de code pour la conversion de XLTX en tableau d'octets. Utilisez ce code pour la conversion Excel XLTX en tableau d'octets dans VB.NET, Asp.NET ou toute application basée sur .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

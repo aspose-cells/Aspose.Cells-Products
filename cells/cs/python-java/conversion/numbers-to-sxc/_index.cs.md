@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést NUMBERS na SXC přes Python
-url: /cs/python-java/conversion/numbers-to-sxc/
+
 description: Ukázkový kód pro převod čísel na sxc Python. Použijte API ukázkový kód pro dávkové soubory čísel pro převod sxc v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

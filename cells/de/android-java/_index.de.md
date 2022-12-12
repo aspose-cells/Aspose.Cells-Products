@@ -1,7 +1,7 @@
-﻿---
+---
 title: Android-Excel-Tabelle API - Aspose 
 weight: 6510
-url: /de/android-java/ 
+
 description: Android-Tabellenkalkulationsbibliothek zum Erstellen von Lese-Schreib- und Analyse-Excel-Dateien. Eine Tabelle API für die Entwicklung mobiler Apps
 ---
 {{< blocks/products/pf/main-wrap-class >}}

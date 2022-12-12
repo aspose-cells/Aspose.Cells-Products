@@ -1,7 +1,7 @@
-﻿---
+---
 title: Buscar documento XLSM sin abrir a través de .NET 
 weight: 4880
-url: /es/net/search/xlsm/ 
+
 description: C# código fuente para buscar palabras con patrón en el archivo XLSM en .NET Framework, .NET Core, Mono o Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

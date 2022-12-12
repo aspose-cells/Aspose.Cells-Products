@@ -1,6 +1,6 @@
-﻿---
+---
 title: Επεξεργασία αρχείων XLSM μέσω .NET 
-url: /el/net/editor/xlsm/ 
+
 description: C# πηγαίος κώδικας για επεξεργασία εγγράφου XLSM σε πλατφόρμες .NET Framework, .NET Core, Windows Azure, Mono ή Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

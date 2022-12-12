@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to XLSM via C#
-url: /net/conversion/excel-to-xlsm/
+
 description: Convert EXCEL to XLSM format in C# code. Save EXCEL as XLSM using VB.NET, Asp.NET or any .NET based application.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Convert JPG to EXCEL via C#
-url: /net/conversion/jpg-to-excel/
+
 description: Convert JPG to EXCEL format in C# code. Save JPG as EXCEL using VB.NET, Asp.NET or any .NET based application.
 ---
 

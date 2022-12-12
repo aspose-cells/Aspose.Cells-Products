@@ -1,6 +1,6 @@
-﻿---
+---
 title: NUMBERS'ı Python aracılığıyla BMP'ye dönüştürün
-url: /tr/python-java/conversion/numbers-to-bmp/
+
 description: Sayıların bmp Python dönüşümüne ilişkin örnek kod. Python uygulamasında toplu iş numarası dosyalarının dönüşüme dönüştürülmesi için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Node.js API για υπολογιστικά φύλλα Excel - Aspose 
 weight: 3120
-url: /el/nodejs-java/ 
+
 description: Επεξεργαστείτε τις μορφές αρχείων Excel μέσω της βιβλιοθήκης Node.js. Ανάγνωση απόδοσης εγγραφής και μετατροπή XLS XLSX XLSB XLTX XLTM XLSM XML ODS CSV και περισσότερες μορφές μέσω του Node.js σε Windows, macOS και Linux
 ---
 {{< blocks/products/pf/main-wrap-class >}}

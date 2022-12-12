@@ -1,7 +1,7 @@
-﻿---
+---
 title: Protégez et verrouillez le document XLSM via Java 
 weight: 9620
-url: /fr/java/protect/xlsm/ 
+
 description: Java Exemple de code pour verrouiller le fichier XLSM à l'aide d'un mot de passe sur Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

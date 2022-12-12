@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie XLS in PPTX über Python
-url: /de/python-java/conversion/xls-to-pptx/
+
 description: Beispielcode für die Umwandlung von xls in pptx Python. Verwenden Sie API Beispielcode für die Batch-Konvertierung von xls-Dateien in pptx innerhalb der Anwendung Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

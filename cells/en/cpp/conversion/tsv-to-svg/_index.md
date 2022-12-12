@@ -1,6 +1,6 @@
 ---
 title: Convert TSV to SVG via C++
-url: /cpp/conversion/tsv-to-svg/
+
 description: Convert TSV to SVG format in C++ code. Save TSV as SVG using C++.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Tạo Tệp Excel qua C#
-url: /vi/net/assembly/
+
 description: Tạo bảng tính Microsoft Excel từ trang tính mẫu bằng mã C#
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET을(를) 통해 ODS 문서에서 텍스트 검색 및 바꾸기 
 weight: 6100
-url: /ko/net/redaction/ods/ 
+
 description: C# 소스 코드는 .NET Framework, .NET Core, Mono 또는 Xamarin Platforms에서 ODS 파일의 민감한 정보를 수정합니다.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

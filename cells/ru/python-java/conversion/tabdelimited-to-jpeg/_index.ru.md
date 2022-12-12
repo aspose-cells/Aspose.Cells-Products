@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование TABDELIMITED в JPEG через Python
-url: /ru/python-java/conversion/tabdelimited-to-jpeg/
+
 description: Пример кода для преобразования с разделителями табуляции в jpeg Python. Используйте пример кода API для пакетного преобразования файлов с разделителями табуляцией в jpeg в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

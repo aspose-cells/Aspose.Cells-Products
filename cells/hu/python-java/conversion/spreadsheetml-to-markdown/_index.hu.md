@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SPREADSHEETML konvertálása MARKDOWN-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/spreadsheetml-to-markdown/
+
 description: Mintakód a táblázatkezelőhöz a Python konverzió leértékeléséhez. Használja a(z) API példakódot a kötegelt táblázatkezelő fájlokhoz a konverzió leértékeléséhez a(z) Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to XLTM via C#
-url: /net/conversion/fods-to-xltm/
+
 description: Convert FODS to XLTM format in C# code. Save FODS as XLTM using VB.NET, Asp.NET or any .NET based application.
 ---
 

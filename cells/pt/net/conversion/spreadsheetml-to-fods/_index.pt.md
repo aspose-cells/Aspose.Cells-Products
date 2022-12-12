@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter SPREADSHEETML para FODS via C#
-url: /pt/net/conversion/spreadsheetml-to-fods/
+
 description: Código de exemplo para planilhaml para conversão de fods C#. Use API código de exemplo para arquivos de planilhaml em lote para conversão de fods em VB.NET, Asp.NET ou qualquer aplicativo baseado em .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

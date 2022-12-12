@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to JPEG via Java 
-url: /java/conversion/xlt-to-jpeg/
+
 description: Convert XLT to JPEG format in Java code. Save XLT as JPEG using Java.
 ---
 

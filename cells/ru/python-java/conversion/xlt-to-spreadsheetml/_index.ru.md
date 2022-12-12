@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLT в SPREADSHETML через Python
-url: /ru/python-java/conversion/xlt-to-spreadsheetml/
+
 description: Пример кода для преобразования xlt в электронную таблицуml Python. Используйте пример кода API для пакетного преобразования xlt-файлов в электронную таблицуml в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

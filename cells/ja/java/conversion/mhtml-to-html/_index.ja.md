@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してMHTMLをHTMLに変換する 
 weight: 1760
-url: /ja/java/conversion/mhtml-to-html/ 
+
 description: MHTML形式からHTMLファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、任意のWebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをHTMLにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Lihat Format File MHT melalui .NET 
-url: /id/net/viewer/mht/ 
+
 description: C# kode sumber untuk memuat, merender, dan menampilkan dokumen MHT pada .NET Framework, .NET Core, Windows Azure, Mono atau Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

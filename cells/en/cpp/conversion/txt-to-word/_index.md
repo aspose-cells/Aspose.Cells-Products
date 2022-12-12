@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to WORD via C++
-url: /cpp/conversion/txt-to-word/
+
 description: Convert TXT to WORD format in C++ code. Save TXT as WORD using C++.
 ---
 

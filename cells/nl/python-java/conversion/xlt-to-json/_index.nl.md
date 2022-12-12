@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLT naar JSON via Python
-url: /nl/python-java/conversion/xlt-to-json/
+
 description: Voorbeeldcode voor conversie van xlt naar json Python. Gebruik API voorbeeldcode voor batch xlt-bestanden naar json-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Chuyển đổi TXT sang XLSX qua Java 
 weight: 7970
-url: /vi/java/conversion/txt-to-xlsx/ 
+
 description: Mã chuyển đổi Java mẫu cho định dạng TXT thành tệp XLSX. Lập trình viên có thể sử dụng mã ví dụ này để xuất bảng tính Excel & OpenOffice sang XLSX trong bất kỳ Ứng dụng dựa trên Web hoặc Máy tính để bàn Java nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

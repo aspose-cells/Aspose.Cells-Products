@@ -1,7 +1,7 @@
-﻿---
+---
 title: Μετατροπή CSV σε PDF μέσω της εφαρμογής C++ 
 weight: 8330
-url: /el/cpp/conversion/csv-to-pdf/ 
+
 description: Δείγμα κώδικα μετατροπής C++ για έγγραφο CSV σε μορφή PDF. Οι προγραμματιστές μπορούν να χρησιμοποιήσουν αυτόν τον πηγαίο κώδικα για ομαδική μετατροπή CSV σε PDF σε οποιαδήποτε εφαρμογή C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

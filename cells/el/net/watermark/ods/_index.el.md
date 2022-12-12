@@ -1,7 +1,7 @@
-﻿---
+---
 title: Έγγραφο ODS υδατογραφήματος μέσω .NET 
 weight: 4190
-url: /el/net/watermark/ods/ 
+
 description: C# πηγαίος κώδικας για προσθήκη ή κατάργηση υδατογραφήματος σε αρχείο ODS σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

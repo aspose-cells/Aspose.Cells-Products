@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to WORD via Python
-url: /python-java/conversion/fods-to-word/
+
 description: Convert FODS to WORD format in Python code. Save FODS as WORD using Python.
 ---
 

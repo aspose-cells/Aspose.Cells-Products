@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してHTMLをPNGに変換する 
 weight: 5350
-url: /ja/java/conversion/html-to-png/ 
+
 description: HTML形式からPNGファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、任意のWebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをPNGにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

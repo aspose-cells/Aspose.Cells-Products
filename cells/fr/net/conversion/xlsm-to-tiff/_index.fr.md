@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir XLSM en TIFF via C#
-url: /fr/net/conversion/xlsm-to-tiff/
+
 description: Exemple de code pour la conversion xlsm vers tiff C#. Utilisez l'exemple de code API pour les fichiers batch xlsm en conversion tiff dans VB.NET, Asp.NET ou toute application basée sur .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla HTML'yi PDF'ye dönüştürün
-url: /tr/python-java/conversion/html-to-pdf/
+
 description: Html'den pdf'ye Python dönüştürme için örnek kod. Python uygulamasında toplu html dosyalarının pdf'ye dönüştürülmesi için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

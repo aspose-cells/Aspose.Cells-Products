@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést EXCEL na CSV prostřednictvím Python
-url: /cs/python-java/conversion/excel-to-csv/
+
 description: Ukázkový kód pro převod z Excelu na CSV Python. Použijte API ukázkový kód pro dávkový převod souborů Excel na csv v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

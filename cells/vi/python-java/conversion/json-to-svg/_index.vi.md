@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi JSON sang SVG qua Python
-url: /vi/python-java/conversion/json-to-svg/
+
 description: Mã mẫu cho chuyển đổi json sang svg Python. Sử dụng mã mẫu API cho hàng loạt tệp json để chuyển đổi svg trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

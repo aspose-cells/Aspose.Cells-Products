@@ -1,6 +1,6 @@
-﻿---
+---
 title: "FODS konvertálása XLTX-re a következőn keresztül: C#"
-url: /hu/net/conversion/fods-to-xltx/
+
 description: Mintakód a fod to xltx C# konverziójához. Használjon API példakódot a kötegelt fod fájlok xltx konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

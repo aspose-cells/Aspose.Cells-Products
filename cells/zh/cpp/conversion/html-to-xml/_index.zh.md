@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 C++ 应用程序将 HTML 转换为 XML 
-url: /zh/cpp/conversion/html-to-xml/ 
+
 description: HTML 文档到 XML 格式的示例 C++ 转换代码。程序员可以使用此源代码在任何 C++ 应用程序中进行批量 HTML 到 XML 的转换。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter HTML para PDF via Python
-url: /pt/python-java/conversion/html-to-pdf/
+
 description: Código de exemplo para conversão de html para pdf Python. Use API código de exemplo para conversão de arquivos html em lote para pdf dentro do aplicativo Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

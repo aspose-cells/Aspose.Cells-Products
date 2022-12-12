@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してTXTファイルをマージ 
 weight: 4480
-url: /ja/java/merger/txt/ 
+
 description: Java JSP/JSFアプリケーションとデスクトップアプリケーションのランタイム環境でTXTドキュメントを組み合わせるためのサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert JPG to XLS via C++
-url: /cpp/conversion/jpg-to-xls/
+
 description: Convert JPG to XLS format in C++ code. Save JPG as XLS using C++.
 ---
 

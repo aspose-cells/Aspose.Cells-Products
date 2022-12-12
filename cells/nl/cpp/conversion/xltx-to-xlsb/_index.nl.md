@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLTX naar XLSB via C++ applicatie 
-url: /nl/cpp/conversion/xltx-to-xlsb/ 
+
 description: Voorbeeld C++ conversiecode voor XLTX-document naar XLSB-indeling. Programmeurs kunnen deze broncode gebruiken voor batch-XLTX naar XLSB-conversie binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

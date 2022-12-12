@@ -1,7 +1,7 @@
-﻿---
+---
 title: Visa eller redigera XLSM-filers metadata via .NET 
 weight: 5590
-url: /sv/net/metadata/xlsm/ 
+
 description: C# källkod för att redigera eller visa metadata i XLSM-format på .NET Framework, .NET Core, Mono eller Xamarin-plattformar.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

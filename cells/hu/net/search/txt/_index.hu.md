@@ -1,7 +1,7 @@
-﻿---
+---
 title: "TXT-dokumentum keresése megnyitás nélkül a következőn keresztül: .NET "
 weight: 8410
-url: /hu/net/search/txt/ 
+
 description: C# forráskód a TXT-fájl mintájával rendelkező szavak kereséséhez .NET Framework, .NET Core, Mono vagy Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

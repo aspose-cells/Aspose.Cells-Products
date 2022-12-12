@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง XLT เป็น HTML ผ่าน C++ แอปพลิเคชัน 
-url: /th/cpp/conversion/xlt-to-html/ 
+
 description: ตัวอย่างโค้ดการแปลง C++ สำหรับเอกสาร XLT เป็นรูปแบบ HTML โปรแกรมเมอร์สามารถใช้ซอร์สโค้ดนี้สำหรับการแปลง XLT เป็นกลุ่มเป็น HTML ภายในแอปพลิเคชัน C++ ใดๆ
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to MARKDOWN via Python
-url: /python-net/conversion/xlt-to-markdown/
+
 description: Sample code for xlt to markdown Python conversion. Use API example code for batch xlt files to markdown conversion within Python application.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLTM إلى JPG عبر Java 
-url: /ar/java/conversion/xltm-to-jpg/ 
+
 description: نموذج Java رمز تحويل من تنسيق XLTM إلى ملف JPG. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel و OpenOffice إلى JPG من خلال أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

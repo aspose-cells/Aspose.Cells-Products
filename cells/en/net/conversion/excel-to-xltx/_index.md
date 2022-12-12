@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to XLTX via C#
-url: /net/conversion/excel-to-xltx/
+
 description: Convert EXCEL to XLTX format in C# code. Save EXCEL as XLTX using VB.NET, Asp.NET or any .NET based application.
 ---
 

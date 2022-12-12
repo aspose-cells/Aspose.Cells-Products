@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to MHTML via C++
-url: /cpp/conversion/html-to-mhtml/
+
 description: Convert HTML to MHTML format in C++ code. Save HTML as MHTML using C++.
 ---
 

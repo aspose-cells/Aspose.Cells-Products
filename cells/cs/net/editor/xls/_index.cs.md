@@ -1,6 +1,6 @@
-﻿---
+---
 title: Upravit soubory XLS prostřednictvím .NET 
-url: /cs/net/editor/xls/ 
+
 description: C# zdrojový kód pro úpravu dokumentu XLS na platformách .NET Framework, .NET Core, Windows Azure, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

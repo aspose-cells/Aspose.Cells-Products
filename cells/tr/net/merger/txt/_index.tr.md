@@ -1,7 +1,7 @@
-﻿---
+---
 title: TXT Dosyalarını .NET ile Birleştir 
 weight: 7350
-url: /tr/net/merger/txt/ 
+
 description: TXT belgelerini .NET Framework, .NET Core, Mono veya Xamarin Platformlarında birleştirmek için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

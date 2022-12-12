@@ -1,7 +1,7 @@
-﻿---
+---
 title: Convertir CSV en XLSM via l'application C++ 
 weight: 6520
-url: /fr/cpp/conversion/csv-to-xlsm/ 
+
 description: Exemple de code de conversion C++ pour le document CSV au format XLSM. Les programmeurs peuvent utiliser ce code source pour la conversion par lots CSV vers XLSM dans n'importe quelle application C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

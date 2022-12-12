@@ -1,7 +1,7 @@
-﻿---
+---
 title: ส่งออกรายงานใน Excel XLS XLSX PDF ODS ใน JasperReports และ JasperServer 
 weight: 9460
-url: /th/jasperreports/ 
+
 description: ส่งออกรายงานจาก Jasper Reports และ JasperServer ในรูปแบบ Excel XLS XLSX PDF ODS TXT และ SpreadsheetML พิมพ์รายงานเป็นสเปรดชีต Excel ด้วย
 ---
 {{< blocks/products/pf/main-wrap-class >}}

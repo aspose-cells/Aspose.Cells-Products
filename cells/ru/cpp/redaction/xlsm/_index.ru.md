@@ -1,7 +1,7 @@
-﻿---
+---
 title: Поиск и замена текста в документе XLSM через C++ 
 weight: 9570
-url: /ru/cpp/redaction/xlsm/ 
+
 description: Пример кода C++ для редактирования конфиденциальной информации в файле XLSM в среде выполнения C++ для 32-разрядной, 64-разрядной Windows и 64-разрядной версии Linux.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

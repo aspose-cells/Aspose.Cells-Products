@@ -1,6 +1,6 @@
-﻿---
+---
 title: "NUMBERS konvertálása XLTX-re a következőn keresztül: C#"
-url: /hu/net/conversion/numbers-to-xltx/
+
 description: Mintakód a számok xltx C# konverziójához. Használjon API példakódot a kötegszámfájlok xltx konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazásban.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to PNG via C#
-url: /net/conversion/json-to-png/
+
 description: Convert JSON to PNG format in C# code. Save JSON as PNG using VB.NET, Asp.NET or any .NET based application.
 ---
 

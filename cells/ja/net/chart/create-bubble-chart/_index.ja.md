@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してバブルチャートを作成する
-url: /ja/net/create-bubble-chart/
+
 description: C#.NETライブラリを使用してExcelにバブルチャートを作成するためのサンプルコード。このコードを使用して、VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でMSExcelへの{チャート}チャートを作成します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

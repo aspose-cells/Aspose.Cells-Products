@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést HTML na EMF prostřednictvím Python
-url: /cs/python-java/conversion/html-to-emf/
+
 description: Ukázkový kód pro konverzi html na emf Python. Použijte API ukázkový kód pro dávkové html soubory pro převod EMF v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++を介して開かずにCSVドキュメントを検索する 
 weight: 5540
-url: /ja/cpp/search/csv/ 
+
 description: C++ Windows 32ビット、Windows 64ビット、Linux64ビットのランタイム環境でCSVファイルのパターンを含む単語を検索するコード例。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

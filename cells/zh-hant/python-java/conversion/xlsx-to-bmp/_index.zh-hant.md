@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 Python 將 XLSX 轉換為 BMP
-url: /zh-hant/python-java/conversion/xlsx-to-bmp/
+
 description: xlsx 到 bmp Python 轉換的示例代碼。將 API 示例代碼用於批處理 xlsx 文件到 Python 應用程序中的 bmp 轉換。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

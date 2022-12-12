@@ -1,7 +1,7 @@
 ---
 title: Merge XLSB Files via .NET 
 weight: 2970
-url: /net/merger/xlsb/ 
+
 description: C# source code to combine XLSB documents on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

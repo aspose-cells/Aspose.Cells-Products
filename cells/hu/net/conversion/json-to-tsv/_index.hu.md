@@ -1,6 +1,6 @@
-﻿---
+---
 title: "JSON konvertálása TSV-vé a következőn keresztül: C#"
-url: /hu/net/conversion/json-to-tsv/
+
 description: Mintakód a json–tsv C# konverzióhoz. Használjon API példakódot a kötegelt json fájlok tsv konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

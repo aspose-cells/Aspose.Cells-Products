@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést SPREADSHEETML na FODS prostřednictvím C#
-url: /cs/net/conversion/spreadsheetml-to-fods/
+
 description: Ukázkový kód pro konverzi tabulkyml na fods C#. Použijte API ukázkový kód pro dávkové převody tabulkových souborů ml do fods v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla CSV'yi XLTM'ye dönüştürün
-url: /tr/net/conversion/csv-to-xltm/
+
 description: csv'den xltm'ye C# dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu csv dosyalarından xltm'ye dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

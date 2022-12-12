@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TXT na HTML pomocí C#
-url: /cs/net/conversion/txt-to-html/
+
 description: Ukázkový kód pro převod txt na html C#. Použijte API ukázkový kód pro dávkový převod souborů txt na html v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: สร้างแผนภูมิแท่งผ่าน C#
-url: /th/net/create-bar-chart/
+
 description: C# โค้ดตัวอย่างสำหรับสร้างแผนภูมิแท่งใน Excel โดยใช้ .NET Library ใช้รหัสนี้เพื่อสร้างแผนภูมิแท่งใน MS Excel ภายใน VB.NET, Asp.NET หรือแอปพลิเคชันที่ใช้ .NET
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

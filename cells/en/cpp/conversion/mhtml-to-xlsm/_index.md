@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to XLSM via C++
-url: /cpp/conversion/mhtml-to-xlsm/
+
 description: Convert MHTML to XLSM format in C++ code. Save MHTML as XLSM using C++.
 ---
 

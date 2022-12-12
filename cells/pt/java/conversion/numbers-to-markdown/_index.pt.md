@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter NUMBERS para MARKDOWN via Java 
-url: /pt/java/conversion/numbers-to-markdown/ 
+
 description: Exemplo de código de conversão Java para o formato NUMBERS para arquivo MARKDOWN. Os programadores podem usar este código de exemplo para exportar planilhas do Excel e OpenOffice para MARKDOWN em qualquer aplicativo baseado na Web ou Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

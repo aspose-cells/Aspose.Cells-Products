@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla ODS'yi XML'e dönüştürün
-url: /tr/python-java/conversion/ods-to-xml/
+
 description: ods'den xml'e Python dönüştürme için örnek kod. Python uygulamasında toplu ods dosyalarından xml'ye dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

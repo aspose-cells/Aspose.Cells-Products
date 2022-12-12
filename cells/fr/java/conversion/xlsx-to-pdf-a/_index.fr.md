@@ -1,7 +1,7 @@
-﻿---
+---
 title: Convertir XLSX en fichiers conformes PDF/A via Java 
 weight: 3200
-url: /fr/java/conversion/xlsx-to-pdf-a/ 
+
 description: Exemple de code de conversion Java pour le format XLSX en fichiers PDF A conformes. Les programmeurs peuvent utiliser cet exemple de code pour exporter des feuilles de calcul Excel et OpenOffice vers des fichiers conformes PDFA dans n'importe quelle application Web ou de bureau Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

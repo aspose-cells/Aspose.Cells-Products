@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通過 C++ 應用程序將 ODS 轉換為 JPEG 
 weight: 7230
-url: /zh-hant/cpp/conversion/ods-to-jpeg/ 
+
 description: ODS 文檔到 JPEG 格式的示例 C++ 轉換代碼。程序員可以使用此源代碼在任何 C++ 應用程序中將 ODS 批量轉換為 JPEG。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

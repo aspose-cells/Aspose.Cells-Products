@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TABDELIMITED konvertálása GIF-re a következőn keresztül: C#"
-url: /hu/net/conversion/tabdelimited-to-gif/
+
 description: Mintakód a tabulátorral tagolt gif C# konverzióhoz. Használjon API példakódot a kötegelt tabulátorral tagolt fájlok gif konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

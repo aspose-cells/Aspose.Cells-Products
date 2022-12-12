@@ -1,6 +1,6 @@
-﻿---
+---
 title: "HTML konvertálása DIF-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/html-to-dif/
+
 description: Mintakód a html–diff Python konverzióhoz. Használjon API példakódot kötegelt html-fájlokhoz a Python alkalmazáson belüli átalakításhoz.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

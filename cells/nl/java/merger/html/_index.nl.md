@@ -1,7 +1,7 @@
-﻿---
+---
 title: HTML-bestanden samenvoegen via Java 
 weight: 8830
-url: /nl/java/merger/html/ 
+
 description: Java voorbeeldcode om HTML-documenten te combineren in Java Runtime Environment voor JSP/JSF-applicaties en desktopapplicaties.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

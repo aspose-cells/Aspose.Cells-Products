@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование TSV в MARKDOWN через C#
-url: /ru/net/conversion/tsv-to-markdown/
+
 description: Пример кода для преобразования tsv в markdown C#. Используйте пример кода API для пакетных файлов tsv для преобразования уценки в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

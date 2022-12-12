@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte TABDELIMITED na CSV prostřednictvím aplikace C++ 
-url: /cs/cpp/conversion/tabdelimited-to-csv/ 
+
 description: Ukázkový konverzní kód C++ pro dokument TABDELIMITED do formátu CSV. Programátoři mohou použít tento zdrojový kód pro dávkový převod TABDELIMITED na CSV v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή NUMBERS σε PDF μέσω Python
-url: /el/python-java/conversion/numbers-to-pdf/
+
 description: Δείγμα κώδικα για μετατροπή αριθμών σε pdf Python. Χρησιμοποιήστε API παράδειγμα κώδικα για μετατροπή αριθμών δέσμης αρχείων σε pdf εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

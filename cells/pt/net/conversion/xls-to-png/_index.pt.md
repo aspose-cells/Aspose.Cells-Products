@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter XLS para PNG via C#
-url: /pt/net/conversion/xls-to-png/
+
 description: Código de exemplo para conversão de xls para png C#. Use API código de exemplo para conversão de arquivos xls em lote para png em VB.NET, Asp.NET ou qualquer aplicativo baseado em .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

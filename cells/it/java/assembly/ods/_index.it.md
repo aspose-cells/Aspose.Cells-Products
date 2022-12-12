@@ -1,7 +1,7 @@
-﻿---
+---
 title: Genera rapporti nei file ODS tramite Java 
 weight: 2440
-url: /it/java/assembly/ods/ 
+
 description: Java codice di esempio per creare report in formato ODS su Java Runtime Environment per applicazioni JSP/JSF e applicazioni desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

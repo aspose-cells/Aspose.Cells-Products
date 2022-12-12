@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ Programowanie arkuszy kalkulacyjnych Excel API - Aspose 
 weight: 7140
-url: /pl/cpp/ 
+
 description: C++ Biblioteka Excel do odczytu, zapisu i analizy plików, w tym formatów XLS, XLSX, XLSM i XLSB. Konwertuj arkusze kalkulacyjne do formatu PDF, CSV i innych
 ---
 {{< blocks/products/pf/main-wrap-class >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Java aracılığıyla TXT'yi MD'ye dönüştürün 
-url: /tr/java/conversion/txt-to-md/ 
+
 description: TXT biçimi için MD dosyasına örnek Java dönüştürme kodu. Programcılar, Excel ve OpenOffice elektronik tablolarını herhangi bir Web veya Masaüstü Java tabanlı Uygulamada MD'ye aktarmak için bu örnek kodu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

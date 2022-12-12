@@ -1,7 +1,7 @@
-﻿---
+---
 title: Skydda och lås XLSX-dokument via C++ 
 weight: 1140
-url: /sv/cpp/protect/xlsx/ 
+
 description: C++ exempelkod för att låsa XLSX-fil med lösenord i C++ Runtime Environment för Windows 32-bitars, Windows 64-bitars och Linux 64-bitars.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

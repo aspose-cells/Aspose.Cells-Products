@@ -1,6 +1,6 @@
 ---
 title: Convert XLSX to DIF via Java 
-url: /java/conversion/xlsx-to-dif/
+
 description: Convert XLSX to DIF format in Java code. Save XLSX as DIF using Java.
 ---
 

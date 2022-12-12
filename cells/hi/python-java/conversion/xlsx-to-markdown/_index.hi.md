@@ -1,6 +1,6 @@
-﻿---
+---
 title: XLSX को Python के माध्यम से MARKDOWN में बदलें
-url: /hi/python-java/conversion/xlsx-to-markdown/
+
 description: xlsx से मार्कडाउन Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर रूपांतरण को मार्कडाउन करने के लिए बैच xlsx फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: إنشاء ملفات TSV عبر Python 
-url: /ar/python-java/create-tsv/ 
+
 description: Python نموذج كود لإنشاء مستندات TSV. استخدم هذا الرمز لإنشاء ملفات TSV داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

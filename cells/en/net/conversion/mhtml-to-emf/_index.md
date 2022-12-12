@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to EMF via C#
-url: /net/conversion/mhtml-to-emf/
+
 description: Convert MHTML to EMF format in C# code. Save MHTML as EMF using VB.NET, Asp.NET or any .NET based application.
 ---
 

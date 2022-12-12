@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NETを介してXLSXドキュメントを保護およびロックする 
 weight: 90
-url: /ja/net/protect/xlsx/ 
+
 description: .NETフレームワーク、.NETコア、Mono、またはXamarinプラットフォームでパスワードを使用してXLSXファイルをロックするためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

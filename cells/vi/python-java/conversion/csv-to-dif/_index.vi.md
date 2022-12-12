@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi CSV sang DIF qua Python
-url: /vi/python-java/conversion/csv-to-dif/
+
 description: Mã mẫu cho chuyển đổi csv sang dif Python. Sử dụng API mã ví dụ cho hàng loạt tệp csv để chuyển đổi khác trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

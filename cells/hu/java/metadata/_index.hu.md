@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Az Excel fájl metaadatainak kezelése a következőn keresztül: Java"
-url: /hu/java/metadata/
+
 description: Az Excel-fájlok metaadatainak megtekintése, hozzáadása, szerkesztése, eltávolítása vagy kibontása mindössze néhány sornyi Java kóddal
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

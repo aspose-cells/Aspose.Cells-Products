@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to WORD via Java 
-url: /java/conversion/tabdelimited-to-word/
+
 description: Convert TABDELIMITED to WORD format in Java code. Save TABDELIMITED as WORD using Java.
 ---
 

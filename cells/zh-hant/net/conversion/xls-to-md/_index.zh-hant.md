@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 C# 將 XLS 轉換為 MD
-url: /zh-hant/net/conversion/xls-to-md/
+
 description: xls 到 md C# 轉換的示例代碼。使用 API 示例代碼在 VB.NET、Asp.NET 或任何基於 .NET 的應用程序中將 xls 文件批量轉換為 md。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést SXC na XML prostřednictvím Python
-url: /cs/python-java/conversion/sxc-to-xml/
+
 description: Ukázkový kód pro převod sxc na xml Python. Použijte API ukázkový kód pro dávkový převod souborů sxc na xml v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

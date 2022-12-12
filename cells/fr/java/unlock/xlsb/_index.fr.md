@@ -1,7 +1,7 @@
-﻿---
+---
 title: Déverrouiller le document XLSB via Java 
 weight: 5860
-url: /fr/java/unlock/xlsb/ 
+
 description: Java exemple de code pour déverrouiller le fichier XLSB protégé par mot de passe sur Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

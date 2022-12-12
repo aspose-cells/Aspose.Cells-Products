@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést ODS na XLS přes C#
-url: /cs/net/conversion/ods-to-xls/
+
 description: Ukázkový kód pro převod z ods na xls C#. Použijte API ukázkový kód pro dávkový převod souborů ods na xls v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

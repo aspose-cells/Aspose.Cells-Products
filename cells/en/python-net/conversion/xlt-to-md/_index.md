@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to MD via Python
-url: /python-net/conversion/xlt-to-md/
+
 description: Sample code for xlt to md Python conversion. Use API example code for batch xlt files to md conversion within Python application.
 ---
 

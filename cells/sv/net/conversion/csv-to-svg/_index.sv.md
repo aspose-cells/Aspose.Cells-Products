@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera CSV till SVG via C#
-url: /sv/net/conversion/csv-to-svg/
+
 description: Exempelkod för konvertering från csv till svg C#. Använd API exempelkod för batch-csv-filer till svg-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

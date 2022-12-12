@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést TXT na BMP přes Java 
 weight: 3530
-url: /cs/java/conversion/txt-to-bmp/ 
+
 description: Ukázkový konverzní kód Java pro formát TXT na soubor BMP. Programátoři mohou tento ukázkový kód použít k exportu tabulek Excelu a OpenOffice do BMP v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

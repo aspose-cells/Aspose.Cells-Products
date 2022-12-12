@@ -1,7 +1,7 @@
-﻿---
+---
 title: Generar informes en archivos XLS a través de .NET 
 weight: 1700
-url: /es/net/assembly/xls/ 
+
 description: C# código fuente para generar informes en formato XLS en .NET Framework, .NET Core, Mono o Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

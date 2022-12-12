@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi XLT sang JSON qua C#
-url: /vi/net/conversion/xlt-to-json/
+
 description: Mã mẫu cho chuyển đổi xlt sang json C#. Sử dụng API mã ví dụ cho hàng loạt tệp xlt sang chuyển đổi json trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

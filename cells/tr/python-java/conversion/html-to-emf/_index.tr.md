@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla HTML'yi EMF'ye dönüştürün
-url: /tr/python-java/conversion/html-to-emf/
+
 description: Html'den emf'ye Python dönüşümü için örnek kod. Python uygulamasında toplu html dosyaları için emf dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer TXT naar DOCX via C#
-url: /nl/net/conversion/txt-to-docx/
+
 description: Voorbeeldcode voor conversie van txt naar docx C#. Gebruik API voorbeeldcode voor batch txt-bestanden naar docx-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#経由でCSVをJPEGに変換
-url: /ja/net/conversion/csv-to-jpeg/
+
 description: csvからjpegC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチcsvファイルからjpegへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

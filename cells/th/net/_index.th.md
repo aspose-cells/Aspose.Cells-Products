@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET Excel API | ประมวลผลรูปแบบสเปรดชีตผ่าน .NET Core 
 weight: 2030
-url: /th/net/ 
+
 description: ไลบรารี C# ASP.NET VB.NET เพื่อทำงานกับเอกสาร Microsoft Excel สร้างบันทึกการอ่านเขียนและพิมพ์ไฟล์สเปรดชีต แปลงเป็น PDF หรือรูปแบบอื่น ๆ
 ---
 {{< blocks/products/pf/main-wrap-class >}}

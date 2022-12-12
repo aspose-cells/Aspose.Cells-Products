@@ -1,6 +1,6 @@
-﻿---
+---
 title: إنشاء ملفات MS Excel XLTX عبر C++ 
-url: /ar/cpp/create-xltx/ 
+
 description: C++ نموذج كود لإنشاء ملفات MS Excel XLTX. استخدم هذا الرمز لإنشاء ملفات MS Excel XLTX داخل تطبيق يستند إلى C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

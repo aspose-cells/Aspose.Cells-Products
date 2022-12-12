@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan FODS ke TXT melalui C#
-url: /id/net/conversion/fods-to-txt/
+
 description: Contoh kode untuk konversi fods ke txt C#. Gunakan API kode contoh untuk file batch fods ke konversi txt dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

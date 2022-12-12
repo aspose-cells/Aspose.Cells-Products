@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi EXCEL ke HTML melalui C#
-url: /id/net/conversion/excel-to-html/
+
 description: Contoh kode untuk konversi excel ke html C#. Gunakan API kode contoh untuk file batch excel ke konversi html dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

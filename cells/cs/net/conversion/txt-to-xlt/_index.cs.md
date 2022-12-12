@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TXT na XLT přes C#
-url: /cs/net/conversion/txt-to-xlt/
+
 description: Ukázkový kód pro převod txt na xlt C#. Použijte API ukázkový kód pro dávkové soubory txt na převod xlt v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

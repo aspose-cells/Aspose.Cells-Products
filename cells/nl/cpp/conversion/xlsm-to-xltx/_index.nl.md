@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLSM naar XLTX via C++ applicatie 
-url: /nl/cpp/conversion/xlsm-to-xltx/ 
+
 description: Voorbeeld C++ conversiecode voor XLSM-document naar XLTX-indeling. Programmeurs kunnen deze broncode gebruiken voor batch-conversie van XLSM naar XLTX binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

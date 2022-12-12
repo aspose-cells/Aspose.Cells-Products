@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to PDF via C++
-url: /cpp/conversion/spreadsheetml-to-pdf/
+
 description: Convert SPREADSHEETML to PDF format in C++ code. Save SPREADSHEETML as PDF using C++.
 ---
 

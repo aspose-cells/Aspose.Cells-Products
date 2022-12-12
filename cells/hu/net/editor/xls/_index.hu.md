@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLS-fájlok szerkesztése a következőn keresztül: .NET "
-url: /hu/net/editor/xls/ 
+
 description: C# forráskód az XLS-dokumentum szerkesztéséhez .NET Framework, .NET Core, Windows Azure, Mono vagy Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

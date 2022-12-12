@@ -1,6 +1,6 @@
-﻿---
+---
 title: Tạo Tệp HTML qua C++ 
-url: /vi/cpp/create-html/ 
+
 description: C++ Mã mẫu để tạo tệp HTML. Sử dụng mã này để tạo tệp HTML trong ứng dụng dựa trên C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversi JSON ke DOCX melalui Java 
 weight: 970
-url: /id/java/conversion/json-to-docx/ 
+
 description: Contoh Java kode konversi untuk format JSON ke file DOCX. Pemrogram dapat menggunakan kode contoh ini untuk mengekspor spreadsheet Excel & OpenOffice ke DOCX dalam Aplikasi berbasis Web atau Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

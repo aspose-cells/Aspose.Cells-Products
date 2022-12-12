@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera SPREADSHEETML till PDF via programmet C++ 
-url: /sv/cpp/conversion/spreadsheetml-to-pdf/ 
+
 description: Exempel på konverteringskod för C++ för SPREADSHEETML-dokument till PDF-format. Programmerare kan använda den här källkoden för batchkonvertering av SPREADSHEETML till PDF inom alla C++-program.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

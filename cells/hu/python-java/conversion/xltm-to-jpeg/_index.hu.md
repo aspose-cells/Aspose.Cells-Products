@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLTM konvertálása JPEG formátumba a következőn keresztül: Python"
-url: /hu/python-java/conversion/xltm-to-jpeg/
+
 description: Mintakód az xltm-ből jpeg-be Python konverzióhoz. Használjon API példakódot a kötegelt xltm fájlok JPEG konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

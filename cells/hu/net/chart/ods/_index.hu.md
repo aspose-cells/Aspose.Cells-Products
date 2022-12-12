@@ -1,7 +1,7 @@
-﻿---
+---
 title: " ODS dokumentumdiagram a képekhez a következőn keresztül: .NET "
 weight: 4360
-url: /hu/net/chart/ods/ 
+
 description: C# forráskód diagramok vagy diagramok ODS-fájlba való rajzolásához és konvertálásához .NET Framework, .NET Core, Mono vagy Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

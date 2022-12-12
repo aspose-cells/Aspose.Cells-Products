@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera TXT till ODS via appen C++ 
-url: /sv/cpp/conversion/txt-to-ods/ 
+
 description: Exempel C++-konverteringskod för TXT-dokument till ODS-format. Programmerare kan använda den här källkoden för batchkonvertering av TXT till ODS inom alla C++-program.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

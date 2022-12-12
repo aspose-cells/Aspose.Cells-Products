@@ -1,6 +1,6 @@
 ---
 title: Merge Excel Files via Python 
-url: /python-java/merger/ 
+
 description: Merge Excel file in Python code. Combine Excel file using Python.
 ---
 

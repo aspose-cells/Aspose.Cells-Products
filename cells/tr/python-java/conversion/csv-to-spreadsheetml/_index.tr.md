@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla CSV'yi SPREADSHEETML'ye dönüştürün
-url: /tr/python-java/conversion/csv-to-spreadsheetml/
+
 description: csv'den elektronik tabloml'ye Python dönüşümü için örnek kod. Python uygulamasında toplu csv dosyalarından elektronik tabloml dönüşümüne API örnek kodu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

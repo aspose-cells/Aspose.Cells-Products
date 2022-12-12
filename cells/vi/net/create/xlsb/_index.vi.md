@@ -1,6 +1,6 @@
-﻿---
+---
 title: Tạo Tệp MS Excel XLSB qua C# 
-url: /vi/net/create-xlsb/ 
+
 description: C# Mã mẫu để tạo tài liệu XLSB. Sử dụng mã này để tạo tệp MS Excel XLSB trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

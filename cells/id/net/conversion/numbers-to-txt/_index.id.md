@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi NUMBER ke TXT melalui C#
-url: /id/net/conversion/numbers-to-txt/
+
 description: Contoh kode untuk angka ke konversi txt C#. Gunakan API kode contoh untuk file nomor batch ke konversi txt dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

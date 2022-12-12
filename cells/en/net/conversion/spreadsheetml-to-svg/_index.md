@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to SVG via C#
-url: /net/conversion/spreadsheetml-to-svg/
+
 description: Convert SPREADSHEETML to SVG format in C# code. Save SPREADSHEETML as SVG using VB.NET, Asp.NET or any .NET based application.
 ---
 

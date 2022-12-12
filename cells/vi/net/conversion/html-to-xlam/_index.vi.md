@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi HTML sang XLAM qua C#
-url: /vi/net/conversion/html-to-xlam/
+
 description: Mã mẫu cho chuyển đổi html sang xlam C#. Sử dụng API mã mẫu cho chuyển đổi hàng loạt tệp html sang xlam trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

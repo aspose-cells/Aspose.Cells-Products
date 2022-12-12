@@ -1,6 +1,6 @@
 ---
 title: Merge CSV to MHTML Files via Python 
-url: /python-java/merger/merge-csv-to-mhtml/ 
+
 description: Merge CSV to MHTML file in Python code. Combine CSV to MHTML file using Python.
 ---
 

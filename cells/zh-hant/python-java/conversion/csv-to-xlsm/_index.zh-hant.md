@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 Python 將 CSV 轉換為 XLSM
-url: /zh-hant/python-java/conversion/csv-to-xlsm/
+
 description: csv 到 xlsm Python 轉換的示例代碼。在 Python 應用程序中使用 API 示例代碼將 csv 文件批量轉換為 xlsm。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

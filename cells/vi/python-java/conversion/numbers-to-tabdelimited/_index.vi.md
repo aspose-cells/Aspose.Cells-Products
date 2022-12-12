@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi NUMBERS thành TABDELIMITED qua Python
-url: /vi/python-java/conversion/numbers-to-tabdelimited/
+
 description: Mã mẫu cho các số để chuyển đổi Python được giới hạn bằng tab. Sử dụng mã mẫu API cho các tệp số lô để chuyển đổi được giới hạn bằng tab trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

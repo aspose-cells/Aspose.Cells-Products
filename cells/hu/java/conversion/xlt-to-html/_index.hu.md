@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Konvertálja az XLT-t HTML-vé a következőn keresztül: Java "
 weight: 2250
-url: /hu/java/conversion/xlt-to-html/ 
+
 description: Minta Java konverziós kód XLT formátumhoz HTML fájlba. A programozók ezt a példakódot használhatják Excel és OpenOffice táblázatok exportálására HTML formátumba bármely web- vagy asztali Java alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

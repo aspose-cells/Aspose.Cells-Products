@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή XLSX σε TABDELIMITED μέσω C#
-url: /el/net/conversion/xlsx-to-tabdelimited/
+
 description: Δείγμα κώδικα για μετατροπή xlsx σε οριοθετημένη καρτέλα C#. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία xlsx σε μετατροπή οριοθετημένης καρτέλας εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

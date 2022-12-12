@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή NUMBERS σε DIF μέσω Python
-url: /el/python-java/conversion/numbers-to-dif/
+
 description: Δείγμα κωδικού για αριθμούς που διαφοροποιούν τη μετατροπή Python. Χρησιμοποιήστε API παράδειγμα κώδικα για αρχεία αριθμών παρτίδας για να διαφοροποιήσετε τη μετατροπή εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

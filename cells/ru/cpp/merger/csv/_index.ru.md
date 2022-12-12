@@ -1,6 +1,6 @@
-﻿---
+---
 title: Объединить файлы CSV через C++ 
-url: /ru/cpp/merger/csv/ 
+
 description: Пример кода C++ для объединения документов CSV в среде выполнения C++ для 32-разрядной, 64-разрядной и Linux 64-разрядной версии Windows.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してTXTをCSVに変換します
-url: /ja/python-java/conversion/txt-to-csv/
+
 description: txtからcsvPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチtxtファイルからcsvへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

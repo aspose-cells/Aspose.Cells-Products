@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir XLT en PDF via l'application C++ 
-url: /fr/cpp/conversion/xlt-to-pdf/ 
+
 description: Exemple de code de conversion C++ pour un document XLT au format PDF. Les programmeurs peuvent utiliser ce code source pour la conversion par lots de XLT en PDF dans n'importe quelle application C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

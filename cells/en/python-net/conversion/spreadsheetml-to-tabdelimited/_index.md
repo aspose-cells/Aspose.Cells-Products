@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to TABDELIMITED via Python
-url: /python-net/conversion/spreadsheetml-to-tabdelimited/
+
 description: Sample code for spreadsheetml to tabdelimited Python conversion. Use API example code for batch spreadsheetml files to tabdelimited conversion within Python application.
 ---
 

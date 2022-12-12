@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TABDELIMITED إلى XLTX عبر تطبيق C++ 
-url: /ar/cpp/conversion/tabdelimited-to-xltx/ 
+
 description: نموذج C++ رمز تحويل لمستند TABDELIMITED إلى تنسيق XLTX. يمكن للمبرمجين استخدام رمز المصدر هذا للتحويل الدفعي من TABDELIMITED إلى XLTX داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

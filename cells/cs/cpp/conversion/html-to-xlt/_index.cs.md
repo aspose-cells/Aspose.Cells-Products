@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte HTML na XLT pomocí aplikace C++ 
-url: /cs/cpp/conversion/html-to-xlt/ 
+
 description: Ukázka převodního kódu C++ pro dokument HTML na formát XLT. Programátoři mohou tento zdrojový kód použít pro dávkový převod HTML na XLT v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

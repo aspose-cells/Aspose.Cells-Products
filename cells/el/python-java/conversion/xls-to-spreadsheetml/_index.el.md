@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή XLS σε SPREADSHEETML μέσω Python
-url: /el/python-java/conversion/xls-to-spreadsheetml/
+
 description: Δείγμα κώδικα για μετατροπή xls σε υπολογιστικό φύλλο Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία xls για μετατροπή υπολογιστικού φύλλου εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してFODSをMARKDOWNに変換します
-url: /ja/python-java/conversion/fods-to-markdown/
+
 description: fodsからmarkdownPythonへの変換のサンプルコード。 Pythonアプリケーション内で変換をマークダウンするためのバッチfodファイルのAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

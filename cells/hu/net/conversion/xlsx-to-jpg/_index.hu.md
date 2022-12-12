@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLSX konvertálása JPG formátumba a következőn keresztül: C#"
-url: /hu/net/conversion/xlsx-to-jpg/
+
 description: Mintakód az xlsx-ből jpg-re C# konvertálásához. Használjon API példakódot a kötegelt xlsx fájlok jpg konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazásban.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

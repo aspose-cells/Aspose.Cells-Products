@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to CSV via Python
-url: /python-net/conversion/numbers-to-csv/
+
 description: Sample code for numbers to csv Python conversion. Use API example code for batch numbers files to csv conversion within Python application.
 ---
 

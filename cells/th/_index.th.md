@@ -1,7 +1,7 @@
-﻿---
+---
 title: โซลูชันรูปแบบไฟล์ Excel
 weight: 7730
-url: /th/
+
 description: สร้างแอปพลิเคชันการจัดการไฟล์ Excel โดยใช้ High Code หรือ Low Code API หรือ No Code Apps เพื่อดูการเปรียบเทียบการตรวจสอบหรือแปลงไฟล์ Excel
 ---
 {{< blocks/products/pf/main-wrap-class >}}

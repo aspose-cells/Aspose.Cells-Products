@@ -1,6 +1,6 @@
 ---
 title: Merge MHTML to HTML Files via Java 
-url: /java/merger/merge-mhtml-to-html/ 
+
 description: Merge MHTML to HTML file in Java code. Combine MHTML to HTML file using Java based desktop or web application.
 ---
 

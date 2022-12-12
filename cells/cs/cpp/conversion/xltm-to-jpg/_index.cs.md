@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte XLTM na JPG pomocí aplikace C++ 
-url: /cs/cpp/conversion/xltm-to-jpg/ 
+
 description: Ukázka převodního kódu C++ pro dokument XLTM do formátu JPG. Programátoři mohou použít tento zdrojový kód pro dávkovou konverzi XLTM na JPG v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

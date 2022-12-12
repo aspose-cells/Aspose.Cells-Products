@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Konvertálja az XLSB-t XLT-vé a következőn keresztül: Python"
-url: /hu/python-java/conversion/xlsb-to-xlt/
+
 description: Mintakód az xlsb–xlt Python konverzióhoz. Használjon API példakódot a kötegelt xlsb fájlok xlt konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

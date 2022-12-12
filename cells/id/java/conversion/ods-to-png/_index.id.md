@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversikan ODS ke PNG melalui Java 
 weight: 6180
-url: /id/java/conversion/ods-to-png/ 
+
 description: Contoh Java kode konversi untuk format ODS ke file PNG. Pemrogram dapat menggunakan kode contoh ini untuk mengekspor spreadsheet Excel & OpenOffice ke PNG dalam Aplikasi berbasis Web atau Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

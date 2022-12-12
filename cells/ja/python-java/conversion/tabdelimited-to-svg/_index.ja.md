@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してTABDELIMITEDをSVGに変換します
-url: /ja/python-java/conversion/tabdelimited-to-svg/
+
 description: tabdelimitedからsvgPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチタブ区切りファイルからsvgへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

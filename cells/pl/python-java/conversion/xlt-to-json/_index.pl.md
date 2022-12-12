@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj XLT na JSON przez Python
-url: /pl/python-java/conversion/xlt-to-json/
+
 description: Przykładowy kod konwersji xlt do json Python. Użyj przykładowego kodu API dla wsadowych plików xlt do konwersji json w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

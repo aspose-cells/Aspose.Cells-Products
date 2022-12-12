@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to JSON via C++
-url: /cpp/conversion/numbers-to-json/
+
 description: Convert NUMBERS to JSON format in C++ code. Save NUMBERS as JSON using C++.
 ---
 

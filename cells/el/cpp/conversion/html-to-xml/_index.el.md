@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή HTML σε XML μέσω εφαρμογής C++ 
-url: /el/cpp/conversion/html-to-xml/ 
+
 description: Δείγμα κώδικα μετατροπής C++ για έγγραφο HTML σε μορφή XML. Οι προγραμματιστές μπορούν να χρησιμοποιήσουν αυτόν τον πηγαίο κώδικα για ομαδική μετατροπή HTML σε XML σε οποιαδήποτε εφαρμογή C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

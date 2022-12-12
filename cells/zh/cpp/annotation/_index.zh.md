@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 C++ 的 Excel 文件注释
-url: /zh/cpp/annotation/
+
 description: 使用 C++ 库添加或删除 Excel 和 OpenOffice 电子表格的数据注释注释。
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

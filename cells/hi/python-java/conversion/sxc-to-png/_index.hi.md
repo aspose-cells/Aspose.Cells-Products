@@ -1,6 +1,6 @@
-﻿---
+---
 title: SXC को Python के माध्यम से PNG में बदलें
-url: /hi/python-java/conversion/sxc-to-png/
+
 description: sxc से png Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर पीएनजी रूपांतरण में बैच एसएक्ससी फाइलों के लिए API उदाहरण कोड का प्रयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

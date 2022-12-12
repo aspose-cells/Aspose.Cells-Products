@@ -1,6 +1,6 @@
-﻿---
+---
 title: Tạo Tệp MS Excel XLSB qua C++ 
-url: /vi/cpp/create-xlsb/ 
+
 description: C++ Mã mẫu để tạo tệp MS Excel XLSB. Sử dụng mã này để tạo tệp MS Excel XLSB trong ứng dụng dựa trên C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

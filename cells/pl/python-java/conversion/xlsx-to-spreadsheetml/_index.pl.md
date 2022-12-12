@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj XLSX na SPREADSHEETML przez Python
-url: /pl/python-java/conversion/xlsx-to-spreadsheetml/
+
 description: Przykładowy kod konwersji xlsx do arkusza kalkulacyjnego Python. Użyj przykładowego kodu API dla plików wsadowych xlsx do konwersji arkusza kalkulacyjnego na ml w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

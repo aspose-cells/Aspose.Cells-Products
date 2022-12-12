@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل CSV إلى JSON عبر Java 
 weight: 9040
-url: /ar/java/conversion/csv-to-json/ 
+
 description: نموذج لشفرة تحويل Java لتنسيق CSV إلى ملف JSON. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى JSON داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

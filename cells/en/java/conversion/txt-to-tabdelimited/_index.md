@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to TABDELIMITED via Java 
-url: /java/conversion/txt-to-tabdelimited/
+
 description: Convert TXT to TABDELIMITED format in Java code. Save TXT as TABDELIMITED using Java.
 ---
 

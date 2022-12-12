@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++를 통해 HTML 파일 만들기 
-url: /ko/cpp/create-html/ 
+
 description: C++ HTML 파일 생성을 위한 샘플 코드. 이 코드를 사용하여 C++ 기반 애플리케이션 내에서 HTML 파일을 생성합니다.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

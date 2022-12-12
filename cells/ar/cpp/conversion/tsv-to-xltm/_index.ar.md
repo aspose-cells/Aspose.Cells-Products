@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل TSV إلى XLTM عبر تطبيق C++ 
 weight: 5330
-url: /ar/cpp/conversion/tsv-to-xltm/ 
+
 description: نموذج C++ رمز التحويل لمستند TSV إلى تنسيق XLTM. يمكن للمبرمجين استخدام رمز المصدر هذا لتحويل TSV إلى XLTM الدفعي داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

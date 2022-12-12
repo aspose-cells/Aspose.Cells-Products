@@ -1,6 +1,6 @@
-﻿---
+---
 title: .NETを介してCSVファイルを編集する 
-url: /ja/net/editor/csv/ 
+
 description: .NETフレームワーク、.NETコア、Windows Azure、Mono、またはXamarinプラットフォームでCSVドキュメントを編集するためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

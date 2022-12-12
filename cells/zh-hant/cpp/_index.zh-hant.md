@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ Excel 電子表格編程API - Aspose 
 weight: 7140
-url: /zh-hant/cpp/ 
+
 description: C++ 用於讀取寫入和解析文件的 Excel 庫，包括 XLS、XLSX、XLSM 和 XLSB 格式。將電子表格轉換為 PDF、CSV 等格式
 ---
 {{< blocks/products/pf/main-wrap-class >}}

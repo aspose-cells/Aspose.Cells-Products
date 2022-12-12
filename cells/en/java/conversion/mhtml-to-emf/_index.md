@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to EMF via Java 
-url: /java/conversion/mhtml-to-emf/
+
 description: Convert MHTML to EMF format in Java code. Save MHTML as EMF using Java.
 ---
 

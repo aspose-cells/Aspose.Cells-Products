@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TABDELIMITED إلى TXT عبر Python
-url: /ar/python-java/conversion/tabdelimited-to-txt/
+
 description: نموذج التعليمات البرمجية لجدولة محدودة لتحويل النص Python. استخدم API رمز المثال للملفات المحددة بعلامات جدولة مجمعة لتحويل النص ضمن Python التطبيق.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

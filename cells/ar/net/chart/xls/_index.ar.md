@@ -1,7 +1,7 @@
-﻿---
+---
 title:  مخطط مستند XLS للصور عبر .NET 
 weight: 3210
-url: /ar/net/chart/xls/ 
+
 description: C# شفرة المصدر لرسم وتحويل مخطط أو رسم تخطيطي في ملف XLS على الأنظمة الأساسية .NET Framework أو .NET Core أو Mono أو Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

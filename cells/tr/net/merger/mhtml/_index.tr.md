@@ -1,7 +1,7 @@
-﻿---
+---
 title: MHTML Dosyalarını .NET ile Birleştir 
 weight: 2610
-url: /tr/net/merger/mhtml/ 
+
 description: MHTML belgelerini .NET Framework, .NET Core, Mono veya Xamarin Platformlarında birleştirmek için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

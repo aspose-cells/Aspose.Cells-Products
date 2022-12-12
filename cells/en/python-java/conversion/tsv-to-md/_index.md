@@ -1,6 +1,6 @@
 ---
 title: Convert TSV to MD via Python
-url: /python-java/conversion/tsv-to-md/
+
 description: Convert TSV to MD format in Python code. Save TSV as MD using Python.
 ---
 

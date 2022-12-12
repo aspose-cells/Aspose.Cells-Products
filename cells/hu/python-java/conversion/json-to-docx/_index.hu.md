@@ -1,6 +1,6 @@
-﻿---
+---
 title: "JSON konvertálása DOCX-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/json-to-docx/
+
 description: Mintakód a json–docx Python konverzióhoz. Használjon API példakódot kötegelt JSON-fájlokhoz a docx-konverzióhoz a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

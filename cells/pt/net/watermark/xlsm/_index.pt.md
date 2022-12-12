@@ -1,7 +1,7 @@
-﻿---
+---
 title: Documento XLSM de marca d'água via .NET 
 weight: 8270
-url: /pt/net/watermark/xlsm/ 
+
 description: C# código-fonte para adicionar ou remover marca d'água do arquivo XLSM nas plataformas .NET Framework, .NET Core, Mono ou Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

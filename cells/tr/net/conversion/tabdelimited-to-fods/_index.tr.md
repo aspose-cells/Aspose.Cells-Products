@@ -1,6 +1,6 @@
-﻿---
+---
 title: TABDELIMITED'i C# aracılığıyla FODS'a dönüştürün
-url: /tr/net/conversion/tabdelimited-to-fods/
+
 description: C# dönüşümü için sekmeyle ayrılmış örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu sekmeyle ayrılmış dosyalardan fos'a dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

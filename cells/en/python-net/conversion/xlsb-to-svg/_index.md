@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to SVG via Python
-url: /python-net/conversion/xlsb-to-svg/
+
 description: Sample code for xlsb to svg Python conversion. Use API example code for batch xlsb files to svg conversion within Python application.
 ---
 

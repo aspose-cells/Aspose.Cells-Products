@@ -1,6 +1,6 @@
 ---
 title: Convert XLSM to WORD via Java 
-url: /java/conversion/xlsm-to-word/
+
 description: Convert XLSM to WORD format in Java code. Save XLSM as WORD using Java.
 ---
 

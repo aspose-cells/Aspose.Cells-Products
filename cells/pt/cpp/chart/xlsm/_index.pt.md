@@ -1,7 +1,7 @@
-﻿---
+---
 title: Gráfico de documento XLSM via C++ 
 weight: 8510
-url: /pt/cpp/chart/xlsm/ 
+
 description: C++ código de exemplo para desenhar e converter gráfico ou diagrama em arquivo XLSM no C++ ambiente de tempo de execução para Windows de 32 bits, Windows de 64 bits e Linux de 64 bits.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

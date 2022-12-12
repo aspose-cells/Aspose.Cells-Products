@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TSV إلى XLSM عبر Python
-url: /ar/python-java/conversion/tsv-to-xlsm/
+
 description: نموذج كود للتحويل من tsv إلى xlsm Python. استخدم API رمز المثال لملفات دفعية tsv لتحويل xlsm داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

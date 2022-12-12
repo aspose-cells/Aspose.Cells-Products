@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést FODS na DIF prostřednictvím C#
-url: /cs/net/conversion/fods-to-dif/
+
 description: Ukázkový kód pro konverzi fod to dif C#. Použijte API ukázkový kód pro dávkové soubory fods pro převod převodu v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Buat File MS Excel XLSB melalui Java 
-url: /id/java/create-xlsb/ 
+
 description: Java Contoh kode untuk membuat dokumen XLSB. Gunakan kode ini untuk membuat file MS Excel XLSB dalam Java desktop atau aplikasi web berbasis.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

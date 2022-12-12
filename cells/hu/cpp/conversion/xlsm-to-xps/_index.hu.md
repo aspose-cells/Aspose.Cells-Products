@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLSM-et XPS-re a(z) C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/xlsm-to-xps/ 
+
 description: Minta C++ konverziós kód XLSM dokumentumhoz XPS formátumba. A programozók ezt a forráskódot használhatják az XLSM-ből XPS-be kötegelt konvertáláshoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

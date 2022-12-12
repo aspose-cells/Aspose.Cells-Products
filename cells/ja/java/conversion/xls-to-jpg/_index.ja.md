@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してXLSをJPGに変換します 
-url: /ja/java/conversion/xls-to-jpg/ 
+
 description: XLS形式からJPGファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、WebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをJPGにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

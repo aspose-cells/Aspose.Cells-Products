@@ -1,6 +1,6 @@
-﻿---
+---
 title: Vytvářejte soubory HTML prostřednictvím Python 
-url: /cs/python-java/create-html/ 
+
 description: Python Ukázkový kód pro generování dokumentů HTML. Tento kód použijte k vytváření souborů HTML v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést XLS na SVG přes Java 
 weight: 9510
-url: /cs/java/conversion/xls-to-svg/ 
+
 description: Ukázkový konverzní kód Java pro formát XLS na soubor SVG. Programátoři mohou tento příklad kódu použít k exportu tabulek Excelu a OpenOffice do SVG v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

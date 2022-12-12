@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してTABDELIMITEDをXLSMに変換します
-url: /ja/net/conversion/tabdelimited-to-xlsm/
+
 description: tabdelimitedからxlsmC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でタブ区切りファイルをxlsmに変換するには、APIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

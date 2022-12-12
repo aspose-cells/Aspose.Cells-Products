@@ -1,7 +1,7 @@
-﻿---
+---
 title: ODS'yi Java aracılığıyla JSON'a dönüştürün 
 weight: 4670
-url: /tr/java/conversion/ods-to-json/ 
+
 description: ODS biçimi için JSON dosyasına örnek Java dönüştürme kodu. Programcılar, Excel ve OpenOffice elektronik tablolarını herhangi bir Web veya Masaüstü Java tabanlı Uygulamada JSON'a aktarmak için bu örnek kodu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

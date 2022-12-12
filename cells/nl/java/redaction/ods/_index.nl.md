@@ -1,7 +1,7 @@
-﻿---
+---
 title: Zoek en vervang tekst in ODS-document via Java 
 weight: 9210
-url: /nl/java/redaction/ods/ 
+
 description: Java voorbeeldcode om gevoelige informatie in ODS-bestand op Java Runtime Environment voor JSP/JSF-toepassing en desktoptoepassingen te redigeren.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLT в MARKDOWN через C#
-url: /ru/net/conversion/xlt-to-markdown/
+
 description: Пример кода для преобразования xlt в уценку C#. Используйте пример кода API для пакетных файлов xlt для преобразования уценки в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

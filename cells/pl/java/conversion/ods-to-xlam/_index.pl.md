@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj ODS na XLAM przez Java 
-url: /pl/java/conversion/ods-to-xlam/ 
+
 description: Przykładowy kod konwersji Java dla formatu ODS do pliku XLAM. Programiści mogą użyć tego przykładowego kodu do eksportowania arkuszy kalkulacyjnych Excel i OpenOffice do XLAM w dowolnej aplikacji internetowej lub desktopowej Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

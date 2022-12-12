@@ -1,6 +1,6 @@
-﻿---
+---
 title: إنشاء مخططات عمودية عبر C#
-url: /ar/net/create-column-chart/
+
 description: C# نموذج كود لإنشاء مخططات عمودية لبرنامج Excel باستخدام .NET المكتبة. استخدم هذا الرمز لإنشاء مخطط عمودي إلى MS Excel داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

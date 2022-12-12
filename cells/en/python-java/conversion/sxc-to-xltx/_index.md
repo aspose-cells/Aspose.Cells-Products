@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to XLTX via Python
-url: /python-java/conversion/sxc-to-xltx/
+
 description: Convert SXC to XLTX format in Python code. Save SXC as XLTX using Python.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter SPREADSHEETML para MHTML via C#
-url: /pt/net/conversion/spreadsheetml-to-mhtml/
+
 description: Código de exemplo para conversão de planilhaml para mhtml C#. Use API código de exemplo para arquivos de planilhaml em lote para conversão mhtml em VB.NET, Asp.NET ou qualquer aplicativo baseado em .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

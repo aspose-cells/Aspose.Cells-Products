@@ -1,6 +1,6 @@
-﻿---
+---
 title: "JSON konvertálása XLS-re a következőn keresztül: C#"
-url: /hu/net/conversion/json-to-xls/
+
 description: Mintakód a json–xls C# konverzióhoz. Használjon API példakódot a kötegelt json-fájlok xls-be konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование NUMBERS в XLS через C#
-url: /ru/net/conversion/numbers-to-xls/
+
 description: Пример кода для преобразования чисел в xls C#. Используйте пример кода API для преобразования файлов номеров пакетов в xls в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

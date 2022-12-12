@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLSM إلى MD عبر تطبيق C++ 
-url: /ar/cpp/conversion/xlsm-to-md/ 
+
 description: نموذج C++ كود التحويل لوثيقة XLSM إلى تنسيق MD. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل XLSM إلى MD دفعة داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

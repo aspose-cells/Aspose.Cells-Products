@@ -1,6 +1,6 @@
-﻿---
+---
 title: TABDELIMITED konvertálása GIF formátumba a(z) C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/tabdelimited-to-gif/ 
+
 description: Minta C++ konverziós kód a TABDELIMITED dokumentumhoz GIF formátumba. A programozók ezt a forráskódot használhatják a TABDELIMITED kötegelt GIF-konverzióhoz bármely C++ alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

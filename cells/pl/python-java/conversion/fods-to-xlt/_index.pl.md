@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj FODS na XLT przez Python
-url: /pl/python-java/conversion/fods-to-xlt/
+
 description: Przykładowy kod konwersji fod do xlt Python. Użyj przykładowego kodu API dla wsadowych plików fods do konwersji xlt w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

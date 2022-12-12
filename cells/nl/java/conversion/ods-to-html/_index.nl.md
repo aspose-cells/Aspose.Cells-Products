@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer ODS naar HTML via Java 
 weight: 1560
-url: /nl/java/conversion/ods-to-html/ 
+
 description: Voorbeeld Java conversiecode voor ODS-indeling naar HTML-bestand. Programmeurs kunnen deze voorbeeldcode gebruiken om Excel- en OpenOffice-spreadsheets naar HTML te exporteren binnen elke web- of desktoptoepassing Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

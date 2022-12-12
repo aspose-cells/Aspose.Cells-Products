@@ -1,6 +1,6 @@
-﻿---
+---
 title: XLS को DOCX में बदलने के लिए C#
-url: /hi/net/conversion/xls-to-docx/
+
 description: xls से docx C# रूपांतरण के लिए नमूना कोड। VB.NET, Asp.NET या किसी .NET आधारित एप्लिकेशन में बैच xls फ़ाइलों से docx रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLTM-et TIFF-re a(z) C++ alkalmazással 
-url: /hu/cpp/conversion/xltm-to-tiff/ 
+
 description: Minta C++ konverziós kód XLTM dokumentumhoz TIFF formátumba. A programozók ezt a forráskódot használhatják kötegelt XLTM-TIFF-konverzióhoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

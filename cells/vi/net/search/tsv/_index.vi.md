@@ -1,7 +1,7 @@
-﻿---
+---
 title: Tìm kiếm tài liệu TSV mà không cần mở qua .NET 
 weight: 2810
-url: /vi/net/search/tsv/ 
+
 description: C# mã nguồn để tìm kiếm các từ có mẫu trong tệp TSV trên Nền tảng .NET Framework, .NET Core Mono hoặc Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

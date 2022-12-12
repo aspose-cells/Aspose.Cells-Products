@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل XLT إلى TXT عبر Java 
 weight: 2710
-url: /ar/java/conversion/xlt-to-txt/ 
+
 description: نموذج Java رمز التحويل لتنسيق XLT إلى ملف TXT. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى TXT داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

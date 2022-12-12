@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++ aracılığıyla Excel Dosya Meta Verilerini Yönetin
-url: /tr/cpp/metadata/
+
 description: C++ kitaplığını kullanarak Excel dosyaları meta verilerini görüntüleyin, ekleyin, düzenleyin, kaldırın veya çıkarın
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

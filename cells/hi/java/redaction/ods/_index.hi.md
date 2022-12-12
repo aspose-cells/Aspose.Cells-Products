@@ -1,7 +1,7 @@
-﻿---
+---
 title: ODS दस्तावेज़ में टेक्स्ट को Java के माध्यम से खोजें और बदलें 
 weight: 9210
-url: /hi/java/redaction/ods/ 
+
 description: Java जेएसपी/जेएसएफ एप्लिकेशन और डेस्कटॉप एप्लिकेशन के लिए रनटाइम एनवायरनमेंट पर ओडीएस फ़ाइल में संवेदनशील जानकारी को संशोधित करने के लिए नमूना कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

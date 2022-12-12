@@ -1,7 +1,7 @@
-﻿---
+---
 title: Convertir TXT en TIFF via Java 
 weight: 9200
-url: /fr/java/conversion/txt-to-tiff/ 
+
 description: Exemple de code de conversion Java pour le format TXT en fichier TIFF. Les programmeurs peuvent utiliser cet exemple de code pour exporter des feuilles de calcul Excel et OpenOffice au format TIFF dans n'importe quelle application Web ou de bureau Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

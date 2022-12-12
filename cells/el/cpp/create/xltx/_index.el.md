@@ -1,6 +1,6 @@
-﻿---
+---
 title: Δημιουργία αρχείων MS Excel XLTX μέσω C++ 
-url: /el/cpp/create-xltx/ 
+
 description: C++ Δείγμα κώδικα για τη δημιουργία αρχείων MS Excel XLTX. Χρησιμοποιήστε αυτόν τον κώδικα για τη δημιουργία αρχείων MS Excel XLTX εντός εφαρμογής που βασίζεται σε C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

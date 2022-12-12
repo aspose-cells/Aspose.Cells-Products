@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してHTMLをXMLに変換する
-url: /ja/net/conversion/html-to-xml/
+
 description: htmlからxmlC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチhtmlファイルからxmlへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

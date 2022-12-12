@@ -1,7 +1,7 @@
-﻿---
+---
 title: Zobrazit formáty souborů XLSX prostřednictvím .NET 
 weight: 2180
-url: /cs/net/viewer/xlsx/ 
+
 description: C# zdrojový kód pro načítání, vykreslování a zobrazování dokumentů XLSX na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование TABDELIMITED в XLTX через Java 
-url: /ru/java/conversion/tabdelimited-to-xltx/ 
+
 description: Пример кода преобразования Java для формата TABDELIMITED в файл XLTX. Программисты могут использовать этот пример кода для экспорта электронных таблиц Excel и OpenOffice в формат XLTX в любом веб- или настольном Java приложении.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

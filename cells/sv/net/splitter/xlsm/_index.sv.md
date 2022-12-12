@@ -1,7 +1,7 @@
-﻿---
+---
 title: Dela XLSM-filer via .NET 
 weight: 8890
-url: /sv/net/splitter/xlsm/ 
+
 description: C# källkod för att dela XLSM-dokument på .NET Framework, .NET Core, Mono eller Xamarin-plattformar.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

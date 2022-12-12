@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET을(를) 통해 XLSB 파일 메타데이터 보기 또는 편집 
 weight: 7890
-url: /ko/net/metadata/xlsb/ 
+
 description: C# 소스 코드를 사용하여 .NET Framework, .NET Core, Mono 또는 Xamarin Platforms에서 XLSB 형식 메타데이터를 편집하거나 봅니다.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

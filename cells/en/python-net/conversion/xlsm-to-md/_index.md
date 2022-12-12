@@ -1,6 +1,6 @@
 ---
 title: Convert XLSM to MD via Python
-url: /python-net/conversion/xlsm-to-md/
+
 description: Sample code for xlsm to md Python conversion. Use API example code for batch xlsm files to md conversion within Python application.
 ---
 

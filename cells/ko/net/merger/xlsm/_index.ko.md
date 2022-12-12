@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET를 통해 XLSM 파일 병합 
 weight: 660
-url: /ko/net/merger/xlsm/ 
+
 description: C# 소스 코드를 사용하여 .NET Framework, .NET Core, Mono 또는 Xamarin Platforms에서 XLSM 문서를 결합합니다.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

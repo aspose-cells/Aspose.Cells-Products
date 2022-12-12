@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi TXT ke XML melalui Python
-url: /id/python-java/conversion/txt-to-xml/
+
 description: Contoh kode untuk konversi txt ke xml Python. Gunakan API kode contoh untuk file txt batch ke konversi xml dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

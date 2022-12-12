@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# के माध्यम से TXT को XLAM में बदलें
-url: /hi/net/conversion/txt-to-xlam/
+
 description: txt से xlam C# रूपांतरण के लिए नमूना कोड। VB.NET, Asp.NET या किसी .NET आधारित एप्लिकेशन के भीतर बैच txt फ़ाइलों को xlam रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

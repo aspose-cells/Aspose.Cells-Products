@@ -1,7 +1,7 @@
 ---
 title: Convert XLSM to Byte Array via C# 
 weight: 7690
-url: /net/conversion/xlsm-to-byte-array/ 
+
 description: C# Sample code for XLSM to Byte Array conversion. Use this code for Excel XLSM to Byte Array conversion within VB.NET, Asp.NET or any .NET based application.
 ---
 

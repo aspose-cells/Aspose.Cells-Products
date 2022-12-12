@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi MHTML ke MD melalui C++ aplikasi 
-url: /id/cpp/conversion/mhtml-to-md/ 
+
 description: Contoh C++ kode konversi untuk dokumen MHTML ke format MD. Pemrogram dapat menggunakan kode sumber ini untuk konversi batch MHTML ke MD dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

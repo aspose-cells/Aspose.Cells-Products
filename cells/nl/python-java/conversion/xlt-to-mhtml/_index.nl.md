@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLT naar MHTML via Python
-url: /nl/python-java/conversion/xlt-to-mhtml/
+
 description: Voorbeeldcode voor xlt naar mhtml Python conversie. Gebruik API voorbeeldcode voor batch xlt-bestanden naar mhtml-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

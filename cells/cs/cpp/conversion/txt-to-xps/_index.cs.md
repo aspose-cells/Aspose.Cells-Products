@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte TXT na XPS pomocí aplikace C++ 
-url: /cs/cpp/conversion/txt-to-xps/ 
+
 description: Ukázkový konverzní kód C++ pro dokument TXT do formátu XPS. Programátoři mohou použít tento zdrojový kód pro dávkový převod TXT na XPS v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

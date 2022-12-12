@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển NUMBERS thành EMF qua Python
-url: /vi/python-java/conversion/numbers-to-emf/
+
 description: Mã mẫu cho chuyển đổi số thành emf Python. Sử dụng mã mẫu API cho các tệp số lô để chuyển đổi emf trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

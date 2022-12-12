@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to XPS via Java 
-url: /java/conversion/ods-to-xps/
+
 description: Convert ODS to XPS format in Java code. Save ODS as XPS using Java.
 ---
 

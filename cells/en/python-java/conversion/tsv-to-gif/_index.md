@@ -1,6 +1,6 @@
 ---
 title: Convert TSV to GIF via Python
-url: /python-java/conversion/tsv-to-gif/
+
 description: Convert TSV to GIF format in Python code. Save TSV as GIF using Python.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj SPREADSHEETML na TABDELIMITED przez Python
-url: /pl/python-java/conversion/spreadsheetml-to-tabdelimited/
+
 description: Przykładowy kod konwersji arkusza kalkulacyjnego ml do rozdzielanej tabulatorami Python. Użyj przykładowego kodu API dla wsadowych plików arkusza kalkulacyjnego w celu konwersji rozdzielanej tabulatorami w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to XML via C++
-url: /cpp/conversion/xlt-to-xml/
+
 description: Convert XLT to XML format in C++ code. Save XLT as XML using C++.
 ---
 

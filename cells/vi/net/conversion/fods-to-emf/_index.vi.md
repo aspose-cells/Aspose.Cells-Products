@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi FODS sang EMF qua C#
-url: /vi/net/conversion/fods-to-emf/
+
 description: Mã mẫu cho chuyển đổi fods thành emf C#. Sử dụng API mã mẫu cho các tệp fods hàng loạt để chuyển đổi emf trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

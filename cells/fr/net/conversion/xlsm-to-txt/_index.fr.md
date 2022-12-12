@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir XLSM en TXT via C#
-url: /fr/net/conversion/xlsm-to-txt/
+
 description: Exemple de code pour la conversion xlsm en txt C#. Utilisez l'exemple de code API pour la conversion par lots de fichiers xlsm en txt dans VB.NET, Asp.NET ou toute application basée sur .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Python Bảng tính Excel API - Aspose 
 weight: 2820
-url: /vi/python/ 
+
 description: Python thư viện bảng tính để tạo đọc ghi và phân tích cú pháp tệp Excel.
 ---
 {{< blocks/products/pf/main-wrap-class >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert JPG to PDF via C++
-url: /cpp/conversion/jpg-to-pdf/
+
 description: Convert JPG to PDF format in C++ code. Save JPG as PDF using C++.
 ---
 

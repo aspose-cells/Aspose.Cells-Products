@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj JSON na JPEG przez Python
-url: /pl/python-java/conversion/json-to-jpeg/
+
 description: Przykładowy kod konwersji json do jpeg Python. Użyj przykładowego kodu API dla wsadowych plików json do konwersji jpeg w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

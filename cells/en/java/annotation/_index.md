@@ -1,6 +1,6 @@
 ---
 title: Excel File Annotations via Java
-url: /java/annotation/
+
 description: Add or remove data annotation of Excel and OpenOffice spreadsheets with Java library.
 ---
 

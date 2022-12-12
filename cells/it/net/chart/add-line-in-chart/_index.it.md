@@ -1,6 +1,6 @@
-﻿---
+---
 title: Aggiungi una linea nel grafico tramite C# 
-url: /it/net/add-line-in-chart/ 
+
 description: C# Codice di esempio per aggiungere una linea in un grafico a Excel utilizzando .NET Libreria. Utilizzare questo codice per aggiungere una linea nel grafico a MS Excel all'interno di VB.NET, Asp.NET o qualsiasi applicazione basata su .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

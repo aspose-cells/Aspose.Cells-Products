@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversi MHTML ke XLTM melalui C++ aplikasi 
 weight: 4310
-url: /id/cpp/conversion/mhtml-to-xltm/ 
+
 description: Contoh C++ kode konversi untuk dokumen MHTML ke format XLTM. Pemrogram dapat menggunakan kode sumber ini untuk konversi batch MHTML ke XLTM dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer JSON naar TSV via Java 
 weight: 8320
-url: /nl/java/conversion/json-to-tsv/ 
+
 description: Voorbeeld Java-conversiecode voor JSON-indeling naar TSV-bestand. Programmeurs kunnen deze voorbeeldcode gebruiken om Excel- en OpenOffice-spreadsheets naar TSV te exporteren binnen elke web- of desktoptoepassing Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

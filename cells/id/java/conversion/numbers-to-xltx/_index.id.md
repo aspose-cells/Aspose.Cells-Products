@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi NUMBER ke XLTX melalui Java 
-url: /id/java/conversion/numbers-to-xltx/ 
+
 description: Contoh Java kode konversi untuk format NUMBER ke file XLTX. Pemrogram dapat menggunakan kode contoh ini untuk mengekspor spreadsheet Excel & OpenOffice ke XLTX dalam Aplikasi berbasis Web atau Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

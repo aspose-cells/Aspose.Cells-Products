@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversikan ODS ke TIFF melalui C++ aplikasi 
 weight: 8450
-url: /id/cpp/conversion/ods-to-tiff/ 
+
 description: Contoh C++ kode konversi untuk dokumen ODS ke format TIFF. Pemrogram dapat menggunakan kode sumber ini untuk konversi batch ODS ke TIFF dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

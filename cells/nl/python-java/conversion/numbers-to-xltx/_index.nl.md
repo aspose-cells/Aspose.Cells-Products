@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer NUMMERS naar XLTX via Python
-url: /nl/python-java/conversion/numbers-to-xltx/
+
 description: Voorbeeldcode voor conversie van getallen naar xltx Python. Gebruik API voorbeeldcode voor batchnummerbestanden naar xltx-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

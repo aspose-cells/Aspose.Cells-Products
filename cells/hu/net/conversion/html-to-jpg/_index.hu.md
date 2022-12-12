@@ -1,6 +1,6 @@
-﻿---
+---
 title: "HTML konvertálása JPG-be a következőn keresztül: C#"
-url: /hu/net/conversion/html-to-jpg/
+
 description: Mintakód a html-ből jpg-be C# konvertáláshoz. Használjon API példakódot a kötegelt html fájlok jpg formátumba konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

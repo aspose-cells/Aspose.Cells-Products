@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to MD via C#
-url: /net/conversion/xlt-to-md/
+
 description: Convert XLT to MD format in C# code. Save XLT as MD using VB.NET, Asp.NET or any .NET based application.
 ---
 

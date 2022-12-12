@@ -1,7 +1,7 @@
-﻿---
+---
 title: "CSV konvertálása DIF-re a következőn keresztül: Java "
 weight: 8250
-url: /hu/java/conversion/csv-to-dif/ 
+
 description: Minta Java konverziós kód CSV-formátumhoz DIF-fájllá. A programozók ezt a példakódot használhatják Excel- és OpenOffice-táblázatok exportálására DIF-be bármely web- vagy asztali Java-alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

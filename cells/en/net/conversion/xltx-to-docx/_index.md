@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to DOCX via C#
-url: /net/conversion/xltx-to-docx/
+
 description: Convert XLTX to DOCX format in C# code. Save XLTX as DOCX using VB.NET, Asp.NET or any .NET based application.
 ---
 

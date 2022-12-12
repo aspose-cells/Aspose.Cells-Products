@@ -1,7 +1,7 @@
-﻿---
+---
 title: Tài liệu Watermark XLS qua .NET 
 weight: 3050
-url: /vi/net/watermark/xls/ 
+
 description: C# mã nguồn để thêm hoặc xóa hình mờ vào tệp XLS trên Nền tảng .NET Framework, .NET Core Mono hoặc Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to JPEG via C#
-url: /net/conversion/tabdelimited-to-jpeg/
+
 description: Convert TABDELIMITED to JPEG format in C# code. Save TABDELIMITED as JPEG using VB.NET, Asp.NET or any .NET based application.
 ---
 

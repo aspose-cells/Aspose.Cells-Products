@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj TABDELIMITED na SVG za pomocą C#
-url: /pl/net/conversion/tabdelimited-to-svg/
+
 description: Przykładowy kod dla konwersji rozdzielanej tabulatorami na svg C#. Użyj przykładowego kodu API dla plików wsadowych rozdzielanych tabulatorami do konwersji SVG w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

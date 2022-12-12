@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir SPREADSHEETML en GIF via Python
-url: /fr/python-java/conversion/spreadsheetml-to-gif/
+
 description: Exemple de code pour la conversion de tableurml en gif Python. Utilisez l'exemple de code API pour la conversion par lots de fichiers tableurml en gif dans l'application Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

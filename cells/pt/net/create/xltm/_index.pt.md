@@ -1,6 +1,6 @@
-﻿---
+---
 title: Crie arquivos MS Excel XLTM via C# 
-url: /pt/net/create-xltm/ 
+
 description: C# Código de amostra para gerar documentos XLTM. Use este código para criar arquivos MS Excel XLTM em VB.NET, Asp.NET ou qualquer aplicativo baseado em .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

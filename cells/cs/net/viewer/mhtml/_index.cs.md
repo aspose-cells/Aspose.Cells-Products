@@ -1,6 +1,6 @@
-﻿---
+---
 title: Zobrazit formáty souborů MHTML prostřednictvím .NET 
-url: /cs/net/viewer/mhtml/ 
+
 description: C# zdrojový kód pro načítání, vykreslování a zobrazování dokumentů MHTML na platformách .NET Framework, .NET Core, Windows Azure, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

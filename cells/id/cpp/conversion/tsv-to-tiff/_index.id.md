@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversi TSV ke TIFF melalui C++ aplikasi 
 weight: 5960
-url: /id/cpp/conversion/tsv-to-tiff/ 
+
 description: Contoh C++ kode konversi untuk dokumen TSV ke format TIFF. Pemrogram dapat menggunakan kode sumber ini untuk konversi TSV ke TIFF batch dalam Aplikasi C++ apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

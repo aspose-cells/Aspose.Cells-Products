@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование TABDELIMITED в SXC через C#
-url: /ru/net/conversion/tabdelimited-to-sxc/
+
 description: Пример кода для преобразования tabdelimited в sxc C#. Используйте пример кода API для пакетного преобразования файлов с разделителями табуляции в sxc в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: สร้างรายงานในไฟล์ XLSM ผ่าน .NET 
 weight: 4400
-url: /th/net/assembly/xlsm/ 
+
 description: C# ซอร์สโค้ดเพื่อสร้างรายงานรูปแบบ XLSM บน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

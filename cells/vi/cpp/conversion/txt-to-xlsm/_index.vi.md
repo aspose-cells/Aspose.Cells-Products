@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi TXT sang XLSM qua ứng dụng C++ 
-url: /vi/cpp/conversion/txt-to-xlsm/ 
+
 description: Mã chuyển đổi C++ mẫu cho tài liệu TXT sang định dạng XLSM. Các lập trình viên có thể sử dụng mã nguồn này để chuyển đổi hàng loạt TXT sang XLSM trong bất kỳ Ứng dụng C++ nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

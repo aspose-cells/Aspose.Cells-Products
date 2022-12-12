@@ -1,7 +1,7 @@
-﻿---
+---
 title: Αναζήτηση και αντικατάσταση κειμένου στο έγγραφο ODS μέσω .NET 
 weight: 6100
-url: /el/net/redaction/ods/ 
+
 description: C# πηγαίος κώδικας για διόρθωση ευαίσθητων πληροφοριών σε αρχείο ODS σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera SPREADSHEETML till XLSB via Python
-url: /sv/python-java/conversion/spreadsheetml-to-xlsb/
+
 description: Exempelkod för konvertering från kalkylarkml till xlsb Python. Använd API-exempelkod för batch-kalkylarkml-filer till xlsb-konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

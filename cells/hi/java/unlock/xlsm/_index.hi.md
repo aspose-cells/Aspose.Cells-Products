@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLSM दस्तावेज़ को Java के माध्यम से अनलॉक करें 
 weight: 7700
-url: /hi/java/unlock/xlsm/ 
+
 description: Java JSP/JSF एप्लिकेशन और डेस्कटॉप एप्लिकेशन के लिए रनटाइम एनवायरनमेंट पर पासवर्ड से सुरक्षित XLSM फ़ाइल अनलॉक करने के लिए Java नमूना कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل HTML إلى SPREADSHEETML عبر C#
-url: /ar/net/conversion/html-to-spreadsheetml/
+
 description: نموذج رمز للتحويل من html إلى جدول بيانات C#. استخدم API رمز المثال لملفات html الدفعية لتحويل جدول البيانات داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

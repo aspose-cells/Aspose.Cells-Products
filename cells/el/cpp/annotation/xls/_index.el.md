@@ -1,7 +1,7 @@
-﻿---
+---
 title: Προσθήκη σχολιασμού αρχείου XLS Excel μέσω C++ 
 weight: 10040
-url: /el/cpp/annotation/xls/ 
+
 description: C++ δείγμα κώδικα για προσθήκη και διαγραφή σχολιασμών μορφής XLS στο C++ Runtime Environment για Windows 32 bit, Windows 64 bit και Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

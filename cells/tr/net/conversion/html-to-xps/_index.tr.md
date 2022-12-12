@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla HTML'yi XPS'ye dönüştürün
-url: /tr/net/conversion/html-to-xps/
+
 description: Html'den xps'e C# dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu html dosyalarını xps'e dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

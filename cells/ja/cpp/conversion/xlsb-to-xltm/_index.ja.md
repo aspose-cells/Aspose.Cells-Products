@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++アプリケーションを介してXLSBをXLTMに変換する 
 weight: 8080
-url: /ja/cpp/conversion/xlsb-to-xltm/ 
+
 description: XLSBドキュメントからXLTM形式へのサンプルC++変換コード。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でXLSBからXLTMへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

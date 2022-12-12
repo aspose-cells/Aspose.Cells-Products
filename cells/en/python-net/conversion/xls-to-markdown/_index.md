@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to MARKDOWN via Python
-url: /python-net/conversion/xls-to-markdown/
+
 description: Sample code for xls to markdown Python conversion. Use API example code for batch xls files to markdown conversion within Python application.
 ---
 

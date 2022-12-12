@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SXC konvertálása XML-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/sxc-to-xml/
+
 description: Mintakód az sxc–xml Python konverzióhoz. Használjon API példakódot az sxc fájlok kötegelt xml-lé konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

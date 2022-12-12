@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLSM إلى ODS عبر Python
-url: /ar/python-java/conversion/xlsm-to-ods/
+
 description: نموذج رمز للتحويل من xlsm إلى ods Python. استخدم API رمز المثال لملفات xlsm الدفعية لتحويل ods داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

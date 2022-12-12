@@ -1,6 +1,6 @@
-﻿---
+---
 title: Вставка комментариев в Excel через .NET
-url: /ru/net/comment/
+
 description: Исходные коды C# о том, как вставлять комментарии в файлы Microsoft Excel с помощью библиотеки .NET. 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

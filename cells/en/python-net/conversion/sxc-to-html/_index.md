@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to HTML via Python
-url: /python-net/conversion/sxc-to-html/
+
 description: Sample code for sxc to html Python conversion. Use API example code for batch sxc files to html conversion within Python application.
 ---
 

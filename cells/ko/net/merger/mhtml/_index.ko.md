@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET를 통해 MHTML 파일 병합 
 weight: 2610
-url: /ko/net/merger/mhtml/ 
+
 description: C# 소스 코드는 .NET Framework, .NET Core, Mono 또는 Xamarin Platforms에서 MHTML 문서를 결합합니다.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

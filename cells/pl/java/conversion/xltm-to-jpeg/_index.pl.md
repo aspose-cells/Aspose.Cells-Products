@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konwertuj XLTM na JPEG przez Java 
 weight: 2450
-url: /pl/java/conversion/xltm-to-jpeg/ 
+
 description: Przykładowy kod konwersji Java dla formatu XLTM do pliku JPEG. Programiści mogą użyć tego przykładowego kodu do eksportowania arkuszy kalkulacyjnych Excel i OpenOffice do formatu JPEG w dowolnej aplikacji internetowej lub desktopowej Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

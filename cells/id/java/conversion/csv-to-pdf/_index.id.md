@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversi CSV ke PDF melalui Java 
 weight: 360
-url: /id/java/conversion/csv-to-pdf/ 
+
 description: Contoh Java kode konversi untuk format CSV ke file PDF. Pemrogram dapat menggunakan kode contoh ini untuk mengekspor spreadsheet Excel & OpenOffice ke PDF dalam Aplikasi berbasis Web atau Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

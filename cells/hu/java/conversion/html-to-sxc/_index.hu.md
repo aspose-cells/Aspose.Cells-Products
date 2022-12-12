@@ -1,6 +1,6 @@
-﻿---
+---
 title: "HTML konvertálása SXC-vé a következőn keresztül: Java "
-url: /hu/java/conversion/html-to-sxc/ 
+
 description: Minta Java konverziós kód a HTML formátumhoz SXC fájllá. A programozók ezt a példakódot használhatják Excel- és OpenOffice-táblázatok exportálására SXC-be bármely web- vagy asztali Java-alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

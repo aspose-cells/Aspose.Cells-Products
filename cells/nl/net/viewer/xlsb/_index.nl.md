@@ -1,7 +1,7 @@
-﻿---
+---
 title: Bekijk XLSB-bestandsindelingen via .NET 
 weight: 6260
-url: /nl/net/viewer/xlsb/ 
+
 description: C# broncode voor het laden, weergeven en weergeven van XLSB-documenten op .NET Framework-, .NET Core-, Mono- of Xamarin-platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

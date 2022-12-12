@@ -1,6 +1,6 @@
-﻿---
+---
 title: "FODS konvertálása ODS-vé a következőn keresztül: C#"
-url: /hu/net/conversion/fods-to-ods/
+
 description: Mintakód a fods to ods C# konverzióhoz. Használjon API példakódot a fods fájlok kötegelt ods-sá konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

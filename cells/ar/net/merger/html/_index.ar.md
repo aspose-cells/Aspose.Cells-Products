@@ -1,7 +1,7 @@
-﻿---
+---
 title: دمج ملفات HTML عبر .NET 
 weight: 9440
-url: /ar/net/merger/html/ 
+
 description: C# شفرة المصدر لدمج مستندات HTML في .NET Framework أو .NET Core أو Mono أو أنظمة Xamarin الأساسية.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

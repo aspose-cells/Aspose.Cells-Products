@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to XLT via Java 
-url: /java/conversion/json-to-xlt/
+
 description: Convert JSON to XLT format in Java code. Save JSON as XLT using Java.
 ---
 

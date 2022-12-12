@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi XLT ke TIFF melalui C++ aplikasi 
-url: /id/cpp/conversion/xlt-to-tiff/ 
+
 description: Contoh C++ kode konversi untuk dokumen XLT ke format TIFF. Pemrogram dapat menggunakan kode sumber ini untuk konversi batch XLT ke TIFF dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převeďte CSV na SVG pomocí aplikace C++ 
 weight: 1710
-url: /cs/cpp/conversion/csv-to-svg/ 
+
 description: Ukázka převodního kódu C++ pro dokument CSV na formát SVG. Programátoři mohou tento zdrojový kód použít pro dávkový převod CSV na SVG v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

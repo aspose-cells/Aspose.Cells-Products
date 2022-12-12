@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer MHTML naar JPEG via Python
-url: /nl/python-java/conversion/mhtml-to-jpeg/
+
 description: Voorbeeldcode voor conversie van mhtml naar jpeg Python. Gebruik API voorbeeldcode voor batch-mhtml-bestanden naar jpeg-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

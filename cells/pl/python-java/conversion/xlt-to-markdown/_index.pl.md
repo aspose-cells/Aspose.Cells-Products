@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj XLT na MARKDOWN za pomocą Python
-url: /pl/python-java/conversion/xlt-to-markdown/
+
 description: Przykładowy kod konwersji xlt na przecenę Python. Użyj przykładowego kodu API dla wsadowych plików xlt do konwersji przecen w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést XLTX na TSV přes Java 
 weight: 3420
-url: /cs/java/conversion/xltx-to-tsv/ 
+
 description: Ukázkový konverzní kód Java pro formát XLTX na soubor TSV. Programátoři mohou použít tento příklad kódu k exportu tabulek Excelu a OpenOffice do TSV v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

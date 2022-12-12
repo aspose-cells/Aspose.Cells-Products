@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to XML via Java 
-url: /java/conversion/html-to-xml/
+
 description: Convert HTML to XML format in Java code. Save HTML as XML using Java.
 ---
 

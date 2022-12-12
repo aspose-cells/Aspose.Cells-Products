@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to SXC via Java 
-url: /java/conversion/ods-to-sxc/
+
 description: Convert ODS to SXC format in Java code. Save ODS as SXC using Java.
 ---
 

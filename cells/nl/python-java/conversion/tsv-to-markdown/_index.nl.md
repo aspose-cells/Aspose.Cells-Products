@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer TSV naar MARKDOWN via Python
-url: /nl/python-java/conversion/tsv-to-markdown/
+
 description: Voorbeeldcode voor conversie van tsv naar markdown Python. Gebruik API voorbeeldcode voor batch-tsv-bestanden om conversie te verlagen binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

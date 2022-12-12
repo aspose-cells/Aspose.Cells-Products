@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převeďte XLSX na SVG pomocí aplikace C++ 
 weight: 2980
-url: /cs/cpp/conversion/xlsx-to-svg/ 
+
 description: Ukázka převodního kódu C++ pro dokument XLSX na formát SVG. Programátoři mohou použít tento zdrojový kód pro dávkový převod XLSX na SVG v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

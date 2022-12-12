@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLT na JPG přes Python
-url: /cs/python-java/conversion/xlt-to-jpg/
+
 description: Ukázkový kód pro převod xlt na jpg Python. Použijte ukázkový kód API pro dávkový převod souborů xlt na jpg v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

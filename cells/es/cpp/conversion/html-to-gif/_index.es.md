@@ -1,7 +1,7 @@
-﻿---
+---
 title: Convierta HTML a GIF a través de la aplicación C++ 
 weight: 6750
-url: /es/cpp/conversion/html-to-gif/ 
+
 description: Ejemplo de código de conversión C++ de documento HTML a formato GIF. Los programadores pueden usar este código fuente para la conversión por lotes de HTML a GIF dentro de cualquier aplicación C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

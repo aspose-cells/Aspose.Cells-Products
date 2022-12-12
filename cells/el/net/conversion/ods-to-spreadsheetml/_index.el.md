@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή ODS σε SPREADSHEETML μέσω C#
-url: /el/net/conversion/ods-to-spreadsheetml/
+
 description: Δείγμα κώδικα για μετατροπή ods σε υπολογιστικό φύλλο ml C#. Χρησιμοποιήστε API παράδειγμα κώδικα για αρχεία batch ods για μετατροπή υπολογιστικών φύλλων σε VB.NET, Asp.NET ή οποιαδήποτε εφαρμογή που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

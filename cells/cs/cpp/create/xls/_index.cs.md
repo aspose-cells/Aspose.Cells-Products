@@ -1,6 +1,6 @@
-﻿---
+---
 title: Vytvářejte soubory MS Excel XLS prostřednictvím C++ 
-url: /cs/cpp/create-xls/ 
+
 description: C++ Ukázkový kód pro generování souborů MS Excel XLS. Tento kód použijte pro vytváření souborů MS Excel XLS v aplikaci založené na C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

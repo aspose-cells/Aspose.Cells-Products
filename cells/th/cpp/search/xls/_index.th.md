@@ -1,7 +1,7 @@
-﻿---
+---
 title: ค้นหาเอกสาร XLS โดยไม่ต้องเปิดผ่าน C++ 
 weight: 4560
-url: /th/cpp/search/xls/ 
+
 description: C++ โค้ดตัวอย่างเพื่อค้นหาคำที่มีรูปแบบในไฟล์ XLS บน C++ Runtime Environment สำหรับ Windows 32 บิต, Windows 64 บิต และ Linux 64 บิต
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

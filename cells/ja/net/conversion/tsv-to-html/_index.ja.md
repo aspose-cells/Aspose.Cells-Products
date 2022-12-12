@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してTSVをHTMLに変換します
-url: /ja/net/conversion/tsv-to-html/
+
 description: tsvからhtmlC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチtsvファイルからhtmlへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

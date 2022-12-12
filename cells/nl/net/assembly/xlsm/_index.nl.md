@@ -1,7 +1,7 @@
-﻿---
+---
 title: Genereer rapporten in XLSM-bestanden via .NET 
 weight: 4400
-url: /nl/net/assembly/xlsm/ 
+
 description: C# broncode om rapporten in XLSM-indeling te genereren op .NET Framework-, .NET Core-, Mono- of Xamarin-platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

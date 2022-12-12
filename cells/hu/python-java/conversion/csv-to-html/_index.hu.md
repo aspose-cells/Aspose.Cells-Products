@@ -1,6 +1,6 @@
-﻿---
+---
 title: "CSV konvertálása HTML-be a következőn keresztül: Python"
-url: /hu/python-java/conversion/csv-to-html/
+
 description: Mintakód a csv-ből html-be Python konverzióhoz. Használjon API példakódot a csv fájlok kötegelt html konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

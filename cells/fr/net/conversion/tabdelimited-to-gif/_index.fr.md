@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir TABDELIMITED en GIF via C#
-url: /fr/net/conversion/tabdelimited-to-gif/
+
 description: Exemple de code pour la conversion tabdelimited en gif C#. Utilisez l'exemple de code API pour la conversion par lot de fichiers délimités par des tabulations en gif dans VB.NET, Asp.NET ou toute application basée sur .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

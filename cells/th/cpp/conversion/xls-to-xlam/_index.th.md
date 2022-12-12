@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง XLS เป็น XLAM ผ่าน C++ แอปพลิเคชัน 
-url: /th/cpp/conversion/xls-to-xlam/ 
+
 description: ตัวอย่างรหัสการแปลง C++ สำหรับเอกสาร XLS เป็นรูปแบบ XLAM โปรแกรมเมอร์สามารถใช้ซอร์สโค้ดนี้สำหรับการแปลง XLS เป็น XLAM แบบแบตช์ภายในแอปพลิเคชัน C++ ใดๆ
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to SPREADSHEETML via C++
-url: /cpp/conversion/sxc-to-spreadsheetml/
+
 description: Convert SXC to SPREADSHEETML format in C++ code. Save SXC as SPREADSHEETML using C++.
 ---
 

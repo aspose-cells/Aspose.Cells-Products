@@ -1,7 +1,7 @@
 ---
 title: Insert WordArt into Excel via .NET 
 weight: 370
-url: /net/wordart/insert-wordart-to-excel/ 
+
 description: C# source code to insert WordArt into Excel on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

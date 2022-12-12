@@ -1,7 +1,7 @@
-﻿---
+---
 title: Προβολή ή επεξεργασία μεταδεδομένων αρχείων ODS μέσω .NET 
 weight: 320
-url: /el/net/metadata/ods/ 
+
 description: C# πηγαίος κώδικας για επεξεργασία ή προβολή μεταδεδομένων μορφής ODS σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

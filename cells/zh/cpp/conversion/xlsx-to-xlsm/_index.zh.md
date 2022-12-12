@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通过 C++ 应用程序将 XLSX 转换为 XLSM 
 weight: 2230
-url: /zh/cpp/conversion/xlsx-to-xlsm/ 
+
 description: XLSX 文档到 XLSM 格式的示例 C++ 转换代码。程序员可以使用此源代码在任何 C++ 应用程序中进行批量 XLSX 到 XLSM 的转换。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介して開かずにXLSBドキュメントを検索する 
 weight: 9420
-url: /ja/java/search/xlsb/ 
+
 description: JSP/JSFアプリケーションおよびデスクトップアプリケーションのJavaランタイム環境でXLSBファイル内のパターンを持つ単語を検索するためのJavaサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

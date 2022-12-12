@@ -1,7 +1,7 @@
-﻿---
+---
 title: Odblokuj dokument XLS przez Java 
 weight: 6390
-url: /pl/java/unlock/xls/ 
+
 description: Java przykładowy kod do odblokowania chronionego hasłem pliku XLS w Java środowisku wykonawczym dla aplikacji JSP/JSF i aplikacji komputerowych.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

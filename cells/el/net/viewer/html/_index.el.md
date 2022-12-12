@@ -1,6 +1,6 @@
-﻿---
+---
 title: Προβολή μορφών αρχείων HTML μέσω .NET 
-url: /el/net/viewer/html/ 
+
 description: C# πηγαίος κώδικας για φόρτωση, απόδοση και εμφάνιση εγγράφων HTML σε πλατφόρμες .NET Framework, .NET Core, Windows Azure, Mono ή Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

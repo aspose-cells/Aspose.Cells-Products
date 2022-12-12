@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi TXT sang XLS qua ứng dụng C++ 
-url: /vi/cpp/conversion/txt-to-xls/ 
+
 description: Mã chuyển đổi C++ mẫu cho tài liệu TXT sang định dạng XLS. Lập trình viên có thể sử dụng mã nguồn này để chuyển đổi hàng loạt TXT sang XLS trong bất kỳ Ứng dụng C++ nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

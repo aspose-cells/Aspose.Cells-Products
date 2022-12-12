@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to BMP via Java 
-url: /java/conversion/mhtml-to-bmp/
+
 description: Convert MHTML to BMP format in Java code. Save MHTML as BMP using Java.
 ---
 

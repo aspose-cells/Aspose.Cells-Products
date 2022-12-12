@@ -1,7 +1,7 @@
 ---
 title:  XLSB document chart to images via .NET 
 weight: 8560
-url: /net/chart/xlsb/ 
+
 description: C# source code to draw and convert chart or diagram in XLSB file on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

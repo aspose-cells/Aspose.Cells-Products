@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to PDF via Java 
-url: /java/conversion/mhtml-to-pdf/
+
 description: Convert MHTML to PDF format in Java code. Save MHTML as PDF using Java.
 ---
 

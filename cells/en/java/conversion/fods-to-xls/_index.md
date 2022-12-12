@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to XLS via Java 
-url: /java/conversion/fods-to-xls/
+
 description: Convert FODS to XLS format in Java code. Save FODS as XLS using Java.
 ---
 

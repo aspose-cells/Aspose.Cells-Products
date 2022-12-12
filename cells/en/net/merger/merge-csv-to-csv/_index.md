@@ -1,6 +1,6 @@
 ---
 title: Merge CSV to CSV Files via C# 
-url: /net/merger/merge-csv-to-csv/ 
+
 description: Merge CSV to CSV file in C# code. Combine CSV to CSV file using VB.NET, Asp.NET or any .NET based application.
 ---
 

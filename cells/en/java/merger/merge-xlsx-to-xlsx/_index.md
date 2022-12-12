@@ -1,6 +1,6 @@
 ---
 title: Merge XLSX to XLSX Files via Java 
-url: /java/merger/merge-xlsx-to-xlsx/ 
+
 description: Merge XLSX to XLSX file in Java code. Combine XLSX to XLSX file using Java based desktop or web application.
 ---
 

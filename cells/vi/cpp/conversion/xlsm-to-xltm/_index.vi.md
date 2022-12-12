@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi XLSM sang XLTM thông qua ứng dụng C++ 
-url: /vi/cpp/conversion/xlsm-to-xltm/ 
+
 description: Mã chuyển đổi C++ mẫu cho tài liệu XLSM sang định dạng XLTM. Lập trình viên có thể sử dụng mã nguồn này để chuyển đổi hàng loạt XLSM sang XLTM trong bất kỳ Ứng dụng C++ nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

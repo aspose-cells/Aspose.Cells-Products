@@ -1,7 +1,7 @@
-﻿---
+---
 title: Generieren Sie Berichte in XLS-Dateien über .NET 
 weight: 1700
-url: /de/net/assembly/xls/ 
+
 description: C#-Quellcode zum Generieren von Berichten im XLS-Format auf .NET Framework-, .NET Core-, Mono- oder Xamarin-Plattformen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

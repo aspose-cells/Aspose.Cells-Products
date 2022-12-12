@@ -1,7 +1,7 @@
-﻿---
+---
 title: Buka kunci dokumen ODS melalui .NET 
 weight: 3110
-url: /id/net/unlock/ods/ 
+
 description: C# kode sumber untuk membuka kunci file ODS yang dilindungi sandi di .NET Framework, .NET Core, Mono atau Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

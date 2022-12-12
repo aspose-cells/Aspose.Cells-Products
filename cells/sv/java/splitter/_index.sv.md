@@ -1,6 +1,6 @@
-﻿---
+---
 title: Dela upp Excel-kalkylblad i kalkylblad i Java
-url: /sv/java/splitter/
+
 description: Java källkoder som förklarar hur du delar upp Microsoft Excel-filer i flera dokument med hjälp av Java Excel-bibliotek
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

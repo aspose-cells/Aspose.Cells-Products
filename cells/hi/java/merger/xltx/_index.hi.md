@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLTX फ़ाइलों को Java के माध्यम से मर्ज करें 
 weight: 680
-url: /hi/java/merger/xltx/ 
+
 description: Java JSP/JSF अनुप्रयोग और डेस्कटॉप अनुप्रयोगों के लिए रनटाइम परिवेश पर XLTX दस्तावेज़ों को संयोजित करने के लिए Java नमूना कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

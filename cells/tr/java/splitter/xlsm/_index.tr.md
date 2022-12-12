@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLSM Dosyalarını Java ile Böl 
 weight: 5670
-url: /tr/java/splitter/xlsm/ 
+
 description: JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Runtime Environment'da XLSM belgelerini bölmek için Java örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

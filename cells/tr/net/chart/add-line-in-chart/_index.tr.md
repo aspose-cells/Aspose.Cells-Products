@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# üzerinden grafiğe bir çizgi ekleyin 
-url: /tr/net/add-line-in-chart/ 
+
 description: C# .NET Kitaplığı kullanarak Excel'e grafikte satır eklemek için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde MS Excel'e grafikte bir satır eklemek için bu kodu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

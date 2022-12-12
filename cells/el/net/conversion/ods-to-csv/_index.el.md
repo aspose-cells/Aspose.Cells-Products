@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή ODS σε CSV μέσω C#
-url: /el/net/conversion/ods-to-csv/
+
 description: Δείγμα κώδικα για μετατροπή ods σε csv C#. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία ods για μετατροπή csv εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

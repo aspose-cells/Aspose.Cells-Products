@@ -1,6 +1,6 @@
 ---
 title: Merge XLSM to TSV Files via Python 
-url: /python-java/merger/merge-xlsm-to-tsv/ 
+
 description: Merge XLSM to TSV file in Python code. Combine XLSM to TSV file using Python.
 ---
 

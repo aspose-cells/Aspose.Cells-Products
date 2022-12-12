@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή ODS σε XPS μέσω C#
-url: /el/net/conversion/ods-to-xps/
+
 description: Δείγμα κώδικα για μετατροπή ods σε xps C#. Χρησιμοποιήστε API παράδειγμα κώδικα για αρχεία ομαδικών αποδόσεων σε μετατροπή xps εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

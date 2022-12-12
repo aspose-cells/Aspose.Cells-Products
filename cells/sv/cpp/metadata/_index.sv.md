@@ -1,6 +1,6 @@
-﻿---
+---
 title: Hantera Excel-filmetadata via C++
-url: /sv/cpp/metadata/
+
 description: Visa, lägg till, redigera, ta bort eller extrahera Excel-filers metadata med hjälp av C++-biblioteket
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

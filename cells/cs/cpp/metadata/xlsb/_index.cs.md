@@ -1,7 +1,7 @@
-﻿---
+---
 title: Upravit nebo zobrazit metadata dokumentu XLSB prostřednictvím C++ 
 weight: 4820
-url: /cs/cpp/metadata/xlsb/ 
+
 description: C++ ukázkový kód pro úpravu nebo zobrazení metadat souboru XLSB v C++ Runtime Environment pro Windows 32 bit, Windows 64 bit a Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

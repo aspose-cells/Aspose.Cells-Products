@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi XLT sang XML qua Python
-url: /vi/python-java/conversion/xlt-to-xml/
+
 description: Mã mẫu cho chuyển đổi xlt sang xml Python. Sử dụng mã mẫu API cho chuyển đổi hàng loạt tệp xlt sang xml trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

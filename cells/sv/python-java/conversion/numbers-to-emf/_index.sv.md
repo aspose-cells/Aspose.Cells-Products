@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera TAL till EMF via Python
-url: /sv/python-java/conversion/numbers-to-emf/
+
 description: Exempelkod för siffror till emf Python-konvertering. Använd API exempelkod för batchnummerfiler för att emf-konvertera i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

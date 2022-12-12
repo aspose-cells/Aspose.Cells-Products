@@ -1,7 +1,7 @@
-﻿---
+---
 title: Pesquise e substitua texto no documento ODS por meio de .NET 
 weight: 6100
-url: /pt/net/redaction/ods/ 
+
 description: C# código-fonte para redigir informações confidenciais no arquivo ODS nas plataformas .NET Framework, .NET Core, Mono ou Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

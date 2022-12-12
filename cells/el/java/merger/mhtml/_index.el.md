@@ -1,7 +1,7 @@
-﻿---
+---
 title: Συγχώνευση αρχείων MHTML μέσω Java 
 weight: 4420
-url: /el/java/merger/mhtml/ 
+
 description: Java δείγμα κώδικα για συνδυασμό εγγράφων MHTML σε Java Runtime Environment για εφαρμογές JSP/JSF και εφαρμογές επιφάνειας εργασίας.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

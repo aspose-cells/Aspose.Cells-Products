@@ -1,7 +1,7 @@
-﻿---
+---
 title: Pesquise e substitua texto no documento ODS por meio de Java 
 weight: 9210
-url: /pt/java/redaction/ods/ 
+
 description: Java código de amostra para redigir informações confidenciais no arquivo ODS no Java ambiente de tempo de execução para aplicativos JSP/JSF e aplicativos de desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

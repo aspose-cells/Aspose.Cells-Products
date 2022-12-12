@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to JPEG via Python
-url: /python-java/conversion/numbers-to-jpeg/
+
 description: Convert NUMBERS to JPEG format in Python code. Save NUMBERS as JPEG using Python.
 ---
 

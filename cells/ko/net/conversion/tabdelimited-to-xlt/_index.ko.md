@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#을(를) 통해 TABDELIMITED를 XLT로 변환
-url: /ko/net/conversion/tabdelimited-to-xlt/
+
 description: xlt C# 변환으로 탭으로 구분된 샘플 코드. VB.NET, Asp.NET 또는 .NET 기반 애플리케이션 내에서 탭으로 구분된 일괄 파일을 xlt로 변환하는 API 예제 코드를 사용합니다.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

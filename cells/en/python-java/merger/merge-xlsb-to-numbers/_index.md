@@ -1,6 +1,6 @@
 ---
 title: Merge XLSB to NUMBERS Files via Python 
-url: /python-java/merger/merge-xlsb-to-numbers/ 
+
 description: Merge XLSB to NUMBERS file in Python code. Combine XLSB to NUMBERS file using Python.
 ---
 

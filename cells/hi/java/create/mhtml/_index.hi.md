@@ -1,6 +1,6 @@
-﻿---
+---
 title: Java के माध्यम से एमएचटीएमएल फ़ाइलें बनाएं 
-url: /hi/java/create-mhtml/ 
+
 description: Java एमएचटीएमएल दस्तावेज़ जनरेट करने के लिए नमूना कोड। Java आधारित डेस्कटॉप या वेब एप्लिकेशन के भीतर एमएचटीएमएल फाइलें बनाने के लिए इस कोड का प्रयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

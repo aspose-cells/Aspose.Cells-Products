@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to XLAM via Python
-url: /python-java/conversion/numbers-to-xlam/
+
 description: Convert NUMBERS to XLAM format in Python code. Save NUMBERS as XLAM using Python.
 ---
 

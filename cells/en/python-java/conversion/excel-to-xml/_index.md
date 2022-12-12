@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to XML via Python
-url: /python-java/conversion/excel-to-xml/
+
 description: Convert EXCEL to XML format in Python code. Save EXCEL as XML using Python.
 ---
 

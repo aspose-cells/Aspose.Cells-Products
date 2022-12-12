@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TABDELIMITED na DIF přes Python
-url: /cs/python-java/conversion/tabdelimited-to-dif/
+
 description: Ukázkový kód pro převod oddělený tabulátory na rozdíl Python. Použijte API ukázkový kód pro dávkové soubory oddělené tabulátory k převodu rozdílů v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++を介してTXTファイルをマージ 
-url: /ja/cpp/merger/txt/ 
+
 description: C++ Windows 32ビット、Windows 64ビット、およびLinux64ビットのランタイム環境でTXTドキュメントを組み合わせるためのサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

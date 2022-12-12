@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 C# 将 XLTX 转换为 PNG
-url: /zh/net/conversion/xltx-to-png/
+
 description: xltx 到 png C# 转换的示例代码。使用 API 示例代码在 VB.NET、Asp.NET 或任何基于 .NET 的应用程序中批量 xltx 文件到 png 转换。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chia Bảng tính Excel thành Trang tính trong Java
-url: /vi/java/splitter/
+
 description: Java mã nguồn giải thích cách chia tệp Microsoft Excel thành nhiều tài liệu bằng cách sử dụng Java thư viện Excel
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

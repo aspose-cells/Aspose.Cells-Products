@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla HTML'yi FODS'ye dönüştürün
-url: /tr/python-java/conversion/html-to-fods/
+
 description: HTML'den fos'a Python dönüştürme için örnek kod. Python uygulamasında toplu html dosyalarından fods'a dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

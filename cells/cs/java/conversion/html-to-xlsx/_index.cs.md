@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést HTML na XLSX pomocí Java 
 weight: 6000
-url: /cs/java/conversion/html-to-xlsx/ 
+
 description: Ukázkový konverzní kód Java pro formát HTML na soubor XLSX. Programátoři mohou použít tento příklad kódu k exportu tabulek Excelu a OpenOffice do XLSX v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

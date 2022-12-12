@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer JSON naar TSV via Python
-url: /nl/python-java/conversion/json-to-tsv/
+
 description: Voorbeeldcode voor conversie van json naar tsv Python. Gebruik API voorbeeldcode voor batch json-bestanden naar tsv-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert TSV to XLSB via Python
-url: /python-net/conversion/tsv-to-xlsb/
+
 description: Sample code for tsv to xlsb Python conversion. Use API example code for batch tsv files to xlsb conversion within Python application.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to GIF via Python
-url: /python-net/conversion/spreadsheetml-to-gif/
+
 description: Sample code for spreadsheetml to gif Python conversion. Use API example code for batch spreadsheetml files to gif conversion within Python application.
 ---
 

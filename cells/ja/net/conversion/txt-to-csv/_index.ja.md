@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してTXTをCSVに変換します
-url: /ja/net/conversion/txt-to-csv/
+
 description: txtからcsvC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチtxtファイルからcsvへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

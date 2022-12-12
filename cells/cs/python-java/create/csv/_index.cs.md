@@ -1,6 +1,6 @@
-﻿---
+---
 title: Vytvářejte soubory CSV prostřednictvím Python 
-url: /cs/python-java/create-csv/ 
+
 description: Python Ukázkový kód pro generování dokumentů CSV. Tento kód použijte k vytváření souborů CSV v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

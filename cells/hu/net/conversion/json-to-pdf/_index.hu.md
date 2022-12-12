@@ -1,6 +1,6 @@
-﻿---
+---
 title: "JSON konvertálása PDF-be a következőn keresztül: C#"
-url: /hu/net/conversion/json-to-pdf/
+
 description: Mintakód a json–pdf C# átalakításhoz. Használjon API példakódot a kötegelt json-fájlok PDF-vé konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazásban.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

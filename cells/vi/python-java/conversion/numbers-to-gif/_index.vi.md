@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển NUMBERS thành GIF qua Python
-url: /vi/python-java/conversion/numbers-to-gif/
+
 description: Mã mẫu cho chuyển đổi số thành gif Python. Sử dụng mã ví dụ API cho các tệp số lô thành chuyển đổi gif trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

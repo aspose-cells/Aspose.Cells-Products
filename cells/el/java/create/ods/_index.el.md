@@ -1,6 +1,6 @@
-﻿---
+---
 title: Δημιουργία αρχείων ODS (Openoffice / Lbreoffice) μέσω Java 
-url: /el/java/create-ods/ 
+
 description: Java Δείγμα κώδικα για τη δημιουργία εγγράφων ODS. Χρησιμοποιήστε αυτόν τον κώδικα για τη δημιουργία αρχείων ODS (Openoffice / Lbreoffice) σε εφαρμογή υπολογιστή ή web που βασίζεται σε Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

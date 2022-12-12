@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera NUMBERS till ODS via C#
-url: /sv/net/conversion/numbers-to-ods/
+
 description: Exempelkod för konvertering av tal till ods C#. Använd API exempelkod för batchnummerfiler till ods-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

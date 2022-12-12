@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή MHTML σε EMF μέσω Python
-url: /el/python-java/conversion/mhtml-to-emf/
+
 description: Δείγμα κώδικα για μετατροπή mhtml σε emf Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία mhtml για μετατροπή emf εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla HTML'yi MD'ye dönüştürün
-url: /tr/python-java/conversion/html-to-md/
+
 description: html'den md'ye Python dönüştürme için örnek kod. Python uygulamasında toplu html dosyalarından md'ye dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

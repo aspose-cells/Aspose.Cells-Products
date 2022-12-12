@@ -1,7 +1,7 @@
-﻿---
+---
 title: Chuyển đổi CSV sang TSV qua ứng dụng C++ 
 weight: 2940
-url: /vi/cpp/conversion/csv-to-tsv/ 
+
 description: Mã chuyển đổi C++ mẫu cho tài liệu CSV sang định dạng TSV. Người lập trình có thể sử dụng mã nguồn này để chuyển đổi hàng loạt CSV sang TSV trong bất kỳ Ứng dụng C++ nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to XLSX via C++
-url: /cpp/conversion/txt-to-xlsx/
+
 description: Convert TXT to XLSX format in C++ code. Save TXT as XLSX using C++.
 ---
 

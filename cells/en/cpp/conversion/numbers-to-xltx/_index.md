@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to XLTX via C++
-url: /cpp/conversion/numbers-to-xltx/
+
 description: Convert NUMBERS to XLTX format in C++ code. Save NUMBERS as XLTX using C++.
 ---
 

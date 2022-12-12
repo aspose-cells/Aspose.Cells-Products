@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLTX na PDF přes Python
-url: /cs/python-java/conversion/xltx-to-pdf/
+
 description: Ukázkový kód pro převod xltx na pdf Python. Použijte API ukázkový kód pro dávkový převod souborů xltx na pdf v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

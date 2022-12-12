@@ -1,6 +1,6 @@
-﻿---
+---
 title: Java aracılığıyla SXC'yi XLTM'ye dönüştürün 
-url: /tr/java/conversion/sxc-to-xltm/ 
+
 description: SXC formatı için XLTM dosyasına örnek Java dönüştürme kodu. Programcılar, Excel ve OpenOffice elektronik tablolarını herhangi bir Web veya Masaüstü Java tabanlı Uygulamada XLTM'ye aktarmak için bu örnek kodu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

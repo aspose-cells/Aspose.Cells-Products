@@ -1,7 +1,7 @@
-﻿---
+---
 title: Wyszukaj dokument CSV bez otwierania przez .NET 
 weight: 7510
-url: /pl/net/search/csv/ 
+
 description: C# kod źródłowy do wyszukiwania słów ze wzorcem w pliku CSV na platformach .NET Framework, .NET Core, Mono lub Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

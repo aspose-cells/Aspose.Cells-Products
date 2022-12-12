@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer TXT naar XLTM via Java 
 weight: 9940
-url: /nl/java/conversion/txt-to-xltm/ 
+
 description: Voorbeeld Java conversiecode voor TXT-indeling naar XLTM-bestand. Programmeurs kunnen deze voorbeeldcode gebruiken om Excel- en OpenOffice-spreadsheets naar XLTM te exporteren binnen elke web- of desktoptoepassing Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

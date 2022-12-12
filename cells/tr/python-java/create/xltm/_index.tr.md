@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla MS Excel XLTM Dosyaları oluşturun 
-url: /tr/python-java/create-xltm/ 
+
 description: Python XLTM belgeleri oluşturmak için örnek kod. Python uygulamasında MS Excel XLTM dosyaları oluşturmak için bu kodu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

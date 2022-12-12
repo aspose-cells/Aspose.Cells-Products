@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل SPREADSHEETML إلى MARKDOWN عبر C#
-url: /ar/net/conversion/spreadsheetml-to-markdown/
+
 description: نموذج كود لجدول بيانات لتحويل C#. استخدم API مثال الكود لملفات جداول البيانات المجمعة لتحديد التحويل ضمن VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

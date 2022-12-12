@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to JSON via C++
-url: /cpp/conversion/xls-to-json/
+
 description: Convert XLS to JSON format in C++ code. Save XLS as JSON using C++.
 ---
 

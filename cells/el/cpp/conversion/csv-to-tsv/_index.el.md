@@ -1,7 +1,7 @@
-﻿---
+---
 title: Μετατροπή CSV σε TSV μέσω της εφαρμογής C++ 
 weight: 2940
-url: /el/cpp/conversion/csv-to-tsv/ 
+
 description: Δείγμα κώδικα μετατροπής C++ για έγγραφο CSV σε μορφή TSV. Οι προγραμματιστές μπορούν να χρησιμοποιήσουν αυτόν τον πηγαίο κώδικα για ομαδική μετατροπή CSV σε TSV σε οποιαδήποτε εφαρμογή C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

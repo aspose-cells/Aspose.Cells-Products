@@ -1,6 +1,6 @@
-﻿---
+---
 title: "ODS konvertálása SVG-vé a következőn keresztül: C#"
-url: /hu/net/conversion/ods-to-svg/
+
 description: Mintakód az ods to svg C# konverziójához. Használjon API példakódot kötegelt ods-fájlokhoz az SVG-konverzióhoz VB.NET-on, Asp-n.NET vagy bármely .NET-alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

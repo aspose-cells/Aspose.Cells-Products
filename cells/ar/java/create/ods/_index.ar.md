@@ -1,6 +1,6 @@
-﻿---
+---
 title: إنشاء ملفات ODS (Openoffice / Lbreoffice) عبر Java 
-url: /ar/java/create-ods/ 
+
 description: Java نموذج كود لإنشاء مستندات ODS. استخدم هذا الرمز لإنشاء ملفات ODS (Openoffice / Lbreoffice) داخل تطبيق ويب أو سطح مكتب يستند إلى Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

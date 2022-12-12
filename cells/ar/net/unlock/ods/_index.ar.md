@@ -1,7 +1,7 @@
-﻿---
+---
 title: فتح مستند ODS عبر .NET 
 weight: 3110
-url: /ar/net/unlock/ods/ 
+
 description: C# شفرة المصدر لإلغاء تأمين ملف ODS المحمي بكلمة مرور على .NET Framework أو .NET Core أو Mono أو أنظمة Xamarin الأساسية.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

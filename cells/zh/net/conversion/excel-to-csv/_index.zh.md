@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 C# 将 EXCEL 转换为 CSV
-url: /zh/net/conversion/excel-to-csv/
+
 description: excel 到 csv C# 转换的示例代码。使用 API 示例代码在 VB.NET、Asp.NET 或任何基于 .NET 的应用程序中将 excel 文件批量转换为 csv。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

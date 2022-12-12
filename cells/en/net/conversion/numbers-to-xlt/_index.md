@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to XLT via C#
-url: /net/conversion/numbers-to-xlt/
+
 description: Convert NUMBERS to XLT format in C# code. Save NUMBERS as XLT using VB.NET, Asp.NET or any .NET based application.
 ---
 

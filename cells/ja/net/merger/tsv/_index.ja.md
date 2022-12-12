@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NETを介してTSVファイルをマージ 
 weight: 1360
-url: /ja/net/merger/tsv/ 
+
 description: .NETフレームワーク、.NETコア、Mono、またはXamarinプラットフォームでTSVドキュメントを組み合わせるためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Unisci file XLS tramite .NET 
 weight: 3000
-url: /it/net/merger/xls/ 
+
 description: C# codice sorgente per combinare documenti XLS su piattaforme .NET Framework, .NET Core, Mono o Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

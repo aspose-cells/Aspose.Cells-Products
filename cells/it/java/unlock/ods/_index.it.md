@@ -1,7 +1,7 @@
-﻿---
+---
 title: Sblocca il documento ODS tramite Java 
 weight: 5080
-url: /it/java/unlock/ods/ 
+
 description: Java codice di esempio per sbloccare il file ODS protetto da password su Java Runtime Environment per applicazioni JSP/JSF e applicazioni desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

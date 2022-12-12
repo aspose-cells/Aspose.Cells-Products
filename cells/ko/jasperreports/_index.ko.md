@@ -1,7 +1,7 @@
-﻿---
+---
 title: JasperReports 및 JasperServer의 Excel XLS XLSX PDF ODS에서 보고서 내보내기 
 weight: 9460
-url: /ko/jasperreports/ 
+
 description: Excel XLS XLSX PDF ODS TXT 및 SpreadsheetML 형식으로 Jasper Reports 및 JasperServer에서 보고서를 내보냅니다. 보고서를 Excel 스프레드시트로 인쇄할 수도 있습니다.
 ---
 {{< blocks/products/pf/main-wrap-class >}}

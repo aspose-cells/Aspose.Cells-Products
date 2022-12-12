@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to MD via C#
-url: /net/conversion/ods-to-md/
+
 description: Convert ODS to MD format in C# code. Save ODS as MD using VB.NET, Asp.NET or any .NET based application.
 ---
 

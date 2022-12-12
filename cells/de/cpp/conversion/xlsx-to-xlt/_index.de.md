@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie XLSX in XLT über die Anwendung C++ 
-url: /de/cpp/conversion/xlsx-to-xlt/ 
+
 description: Beispiel-Umwandlungscode C++ für das XLSX-Dokument in das XLT-Format. Programmierer können diesen Quellcode für die Batch-Konvertierung von XLSX in XLT in jeder C++-Anwendung verwenden.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

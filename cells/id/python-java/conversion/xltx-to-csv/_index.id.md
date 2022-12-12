@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan XLTX ke CSV melalui Python
-url: /id/python-java/conversion/xltx-to-csv/
+
 description: Contoh kode untuk konversi xltx ke csv Python. Gunakan API kode contoh untuk file batch xltx ke konversi csv dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

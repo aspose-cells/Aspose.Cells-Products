@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 Python 將 NUMBERS 轉換為 HTML
-url: /zh-hant/python-java/conversion/numbers-to-html/
+
 description: 數字到 html Python 轉換的示例代碼。在 Python 應用程序中使用 API 示例代碼將批號文件轉換為 html。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

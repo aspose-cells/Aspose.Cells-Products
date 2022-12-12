@@ -1,6 +1,6 @@
-﻿---
+---
 title: Bekijk MHT-bestandsindelingen via .NET 
-url: /nl/net/viewer/mht/ 
+
 description: C# broncode om MHT-documenten te laden, weer te geven en weer te geven op .NET Framework, .NET Core, Windows Azure, Mono of Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

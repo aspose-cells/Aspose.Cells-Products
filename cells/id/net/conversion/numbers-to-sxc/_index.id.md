@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi NUMBER ke SXC melalui C#
-url: /id/net/conversion/numbers-to-sxc/
+
 description: Contoh kode untuk angka ke sxc C# konversi. Gunakan API kode contoh untuk file nomor batch ke konversi sxc dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

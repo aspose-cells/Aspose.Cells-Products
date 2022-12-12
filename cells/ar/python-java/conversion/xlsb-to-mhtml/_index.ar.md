@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLSB إلى MHTML عبر Python
-url: /ar/python-java/conversion/xlsb-to-mhtml/
+
 description: نموذج كود للتحويل من xlsb إلى mhtml Python. استخدم API رمز المثال لملفات xlsb الدفعية لتحويل mhtml داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

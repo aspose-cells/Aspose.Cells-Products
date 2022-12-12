@@ -1,6 +1,6 @@
-﻿---
+---
 title: Создание файлов MS Excel XLSM с помощью Java 
-url: /ru/java/create-xlsm/ 
+
 description: Java Пример кода для создания документов XLSM. Используйте этот код для создания файлов MS Excel XLSM в настольном или веб-приложении на основе Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

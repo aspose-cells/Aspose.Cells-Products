@@ -1,6 +1,6 @@
-﻿---
+---
 title: SPREADSHEETML'yi C# aracılığıyla JPEG'e dönüştürün
-url: /tr/net/conversion/spreadsheetml-to-jpeg/
+
 description: E-tablodan jpeg'e C# dönüşümü için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde jpeg dönüşümüne toplu elektronik tabloml dosyaları için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

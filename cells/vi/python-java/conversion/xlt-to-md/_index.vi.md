@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi XLT sang MD qua Python
-url: /vi/python-java/conversion/xlt-to-md/
+
 description: Mã mẫu cho chuyển đổi xlt sang md Python. Sử dụng API mã ví dụ cho hàng loạt tệp xlt sang chuyển đổi md trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

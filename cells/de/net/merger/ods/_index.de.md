@@ -1,7 +1,7 @@
-﻿---
+---
 title: ODS-Dateien über .NET zusammenführen 
 weight: 4330
-url: /de/net/merger/ods/ 
+
 description: C#-Quellcode zum Kombinieren von ODS-Dokumenten auf .NET Framework-, .NET Core-, Mono- oder Xamarin-Plattformen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

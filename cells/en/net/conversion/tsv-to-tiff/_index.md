@@ -1,6 +1,6 @@
 ---
 title: Convert TSV to TIFF via C#
-url: /net/conversion/tsv-to-tiff/
+
 description: Convert TSV to TIFF format in C# code. Save TSV as TIFF using VB.NET, Asp.NET or any .NET based application.
 ---
 

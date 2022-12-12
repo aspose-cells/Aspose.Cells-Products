@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET経由でXLTファイル形式を表示 
 weight: 3610
-url: /ja/net/viewer/xlt/ 
+
 description: .NETフレームワーク、.NETコア、Mono、またはXamarinプラットフォームでXLTドキュメントをロード、レンダリング、表示するためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

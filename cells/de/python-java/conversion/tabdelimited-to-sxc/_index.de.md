@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie TABDELIMITED in SXC über Python
-url: /de/python-java/conversion/tabdelimited-to-sxc/
+
 description: Beispielcode für eine durch Tabulatoren getrennte Umwandlung in sxc Python. Verwenden Sie den API-Beispielcode für die Batch-Konvertierung von tabulatorgetrennten Dateien in sxc innerhalb der Anwendung Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

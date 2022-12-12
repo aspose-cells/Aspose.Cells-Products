@@ -1,7 +1,7 @@
-﻿---
+---
 title: แปลง XLSX เป็น PNG ผ่าน C++ แอปพลิเคชัน 
 weight: 4660
-url: /th/cpp/conversion/xlsx-to-png/ 
+
 description: ตัวอย่างโค้ดการแปลง C++ สำหรับเอกสาร XLSX เป็นรูปแบบ PNG โปรแกรมเมอร์สามารถใช้ซอร์สโค้ดนี้สำหรับการแปลงชุด XLSX เป็น PNG ภายในแอปพลิเคชัน C++ ใดๆ
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

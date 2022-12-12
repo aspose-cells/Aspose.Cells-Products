@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta XLSM a XLTM a través de C#
-url: /es/net/conversion/xlsm-to-xltm/
+
 description: Código de muestra para la conversión de xlsm a xltm C#. Utilice el código de ejemplo API para la conversión de archivos xlsm por lotes a xltm dentro de VB.NET, Asp.NET o cualquier aplicación basada en .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

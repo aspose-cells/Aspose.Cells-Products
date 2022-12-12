@@ -1,7 +1,7 @@
-﻿---
+---
 title: Sblocca il documento XLS tramite Java 
 weight: 6390
-url: /it/java/unlock/xls/ 
+
 description: Java codice di esempio per sbloccare il file XLS protetto da password su Java Runtime Environment per applicazioni JSP/JSF e applicazioni desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

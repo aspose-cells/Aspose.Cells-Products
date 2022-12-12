@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan ODS ke HTML melalui Python
-url: /id/python-java/conversion/ods-to-html/
+
 description: Contoh kode untuk konversi ods ke html Python. Gunakan API kode contoh untuk file batch ods ke konversi html dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

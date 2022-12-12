@@ -1,6 +1,6 @@
-﻿---
+---
 title: "HTML konvertálása SXC-vé a következőn keresztül: Python"
-url: /hu/python-java/conversion/html-to-sxc/
+
 description: Mintakód a html-ből sxc-be Python történő konverzióhoz. Használjon API példakódot a kötegelt html fájlok sxc konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

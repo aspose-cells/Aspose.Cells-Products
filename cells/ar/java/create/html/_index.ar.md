@@ -1,6 +1,6 @@
-﻿---
+---
 title: إنشاء ملفات HTML عبر Java 
-url: /ar/java/create-html/ 
+
 description: Java نموذج كود لإنشاء مستندات HTML. استخدم هذا الرمز لإنشاء ملفات HTML داخل تطبيق ويب أو سطح مكتب يستند إلى Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

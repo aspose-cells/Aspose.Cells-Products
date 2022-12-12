@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera MHTML till XLTX via C#
-url: /sv/net/conversion/mhtml-to-xltx/
+
 description: Exempelkod för konvertering från mhtml till xltx C#. Använd API exempelkod för batch-mhtml-filer till xltx-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

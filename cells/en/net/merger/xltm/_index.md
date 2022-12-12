@@ -1,7 +1,7 @@
 ---
 title: Merge XLTM Files via .NET 
 weight: 9010
-url: /net/merger/xltm/ 
+
 description: C# source code to combine XLTM documents on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

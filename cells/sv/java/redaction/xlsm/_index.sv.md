@@ -1,7 +1,7 @@
-﻿---
+---
 title: Sök och ersätt text i XLSM-dokument via Java 
 weight: 1590
-url: /sv/java/redaction/xlsm/ 
+
 description: Java exempelkod för att redigera känslig information i XLSM-filen i Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

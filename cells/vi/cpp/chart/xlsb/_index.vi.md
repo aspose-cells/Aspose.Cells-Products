@@ -1,7 +1,7 @@
-﻿---
+---
 title: Biểu đồ tài liệu XLSB qua C++ 
 weight: 5200
-url: /vi/cpp/chart/xlsb/ 
+
 description: C++ mã ví dụ để vẽ và chuyển đổi biểu đồ hoặc sơ đồ trong tệp XLSB trên C++ Môi trường thời gian chạy cho Windows 32 bit, Windows 64 bit và Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

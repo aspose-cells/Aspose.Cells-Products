@@ -1,7 +1,7 @@
-﻿---
+---
 title: Wyszukaj i zamień tekst w dokumencie XLSM za pomocą Java 
 weight: 1590
-url: /pl/java/redaction/xlsm/ 
+
 description: Java przykładowy kod do redagowania poufnych informacji w pliku XLSM w Java środowisku wykonawczym dla aplikacji JSP/JSF i aplikacji komputerowych.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

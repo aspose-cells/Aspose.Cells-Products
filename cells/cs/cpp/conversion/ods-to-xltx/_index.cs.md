@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převeďte ODS na XLTX pomocí aplikace C++ 
 weight: 180
-url: /cs/cpp/conversion/ods-to-xltx/ 
+
 description: Ukázkový konverzní kód C++ pro dokument ODS na formát XLTX. Programátoři mohou použít tento zdrojový kód pro dávkovou konverzi ODS na XLTX v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

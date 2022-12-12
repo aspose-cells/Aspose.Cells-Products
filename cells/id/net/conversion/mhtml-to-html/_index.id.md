@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan MHTML ke HTML melalui C#
-url: /id/net/conversion/mhtml-to-html/
+
 description: Contoh kode untuk mhtml ke html C# konversi. Gunakan API kode contoh untuk file batch mhtml ke konversi html dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

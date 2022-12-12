@@ -1,7 +1,7 @@
-﻿---
+---
 title:  مخطط مستند XLSX للصور عبر .NET 
 weight: 2630
-url: /ar/net/chart/xlsx/ 
+
 description: C# شفرة المصدر لرسم وتحويل مخطط أو رسم تخطيطي في ملف XLSX على الأنظمة الأساسية .NET Framework أو .NET Core أو Mono أو Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to GIF via Java 
-url: /java/conversion/mhtml-to-gif/
+
 description: Convert MHTML to GIF format in Java code. Save MHTML as GIF using Java.
 ---
 

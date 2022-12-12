@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to TABDELIMITED via Python
-url: /python-java/conversion/spreadsheetml-to-tabdelimited/
+
 description: Convert SPREADSHEETML to TABDELIMITED format in Python code. Save SPREADSHEETML as TABDELIMITED using Python.
 ---
 

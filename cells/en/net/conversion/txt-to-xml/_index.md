@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to XML via C#
-url: /net/conversion/txt-to-xml/
+
 description: Convert TXT to XML format in C# code. Save TXT as XML using VB.NET, Asp.NET or any .NET based application.
 ---
 

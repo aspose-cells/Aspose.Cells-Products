@@ -1,7 +1,7 @@
-﻿---
+---
 title: "CSV-fájlok egyesítése a következőn keresztül: .NET "
 weight: 6450
-url: /hu/net/merger/csv/ 
+
 description: C# forráskód a CSV-dokumentumok kombinálásához .NET Framework, .NET Core, Mono vagy Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

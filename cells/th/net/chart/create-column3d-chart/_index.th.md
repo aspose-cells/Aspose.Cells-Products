@@ -1,6 +1,6 @@
-﻿---
+---
 title: สร้างแผนภูมิ Column3D ผ่าน C#
-url: /th/net/create-column3d-chart/
+
 description: C# โค้ดตัวอย่างสำหรับการสร้างแผนภูมิ Column3D ไปยัง Excel โดยใช้ .NET Library ใช้รหัสนี้เพื่อสร้างแผนภูมิ Column3D ไปยัง MS Excel ภายใน VB.NET, Asp.NET หรือแอปพลิเคชันที่ใช้ .NET
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 C# 將 NUMBERS 轉換為 PNG
-url: /zh-hant/net/conversion/numbers-to-png/
+
 description: 數字到 png C# 轉換的示例代碼。在 VB.NET、Asp.NET 或任何基於 .NET 的應用程序中使用 API 批號文件到 png 轉換的示例代碼。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

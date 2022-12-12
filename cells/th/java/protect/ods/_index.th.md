@@ -1,7 +1,7 @@
-﻿---
+---
 title: ปกป้องและล็อคเอกสาร ODS ผ่าน Java 
 weight: 6360
-url: /th/java/protect/ods/ 
+
 description: Java ตัวอย่างโค้ดสำหรับล็อกไฟล์ ODS โดยใช้รหัสผ่านบน Java Runtime Environment สำหรับแอปพลิเคชัน JSP/JSF และแอปพลิเคชันเดสก์ท็อป
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

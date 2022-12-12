@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter SXC para XLTM via C#
-url: /pt/net/conversion/sxc-to-xltm/
+
 description: Código de exemplo para conversão de sxc para xltm C#. Use API código de exemplo para conversão de arquivos sxc em lote para xltm em VB.NET, Asp.NET ou qualquer aplicativo baseado em .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

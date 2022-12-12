@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi XLTM sang BMP qua Python
-url: /vi/python-java/conversion/xltm-to-bmp/
+
 description: Mã mẫu cho chuyển đổi xltm sang bmp Python. Sử dụng API mã mẫu cho hàng loạt tệp xltm để chuyển đổi bmp trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

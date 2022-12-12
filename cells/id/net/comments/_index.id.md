@@ -1,6 +1,6 @@
-﻿---
+---
 title: Sisipkan komentar di Excel melalui .NET
-url: /id/net/comment/
+
 description: C# kode sumber yang cara menyisipkan komentar ke dalam file Microsoft Excel menggunakan .NET Pustaka. 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

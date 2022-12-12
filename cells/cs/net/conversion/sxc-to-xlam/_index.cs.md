@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést SXC na XLAM přes C#
-url: /cs/net/conversion/sxc-to-xlam/
+
 description: Ukázkový kód pro převod sxc na xlam C#. Použijte API ukázkový kód pro dávkový převod souborů sxc na xlam v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

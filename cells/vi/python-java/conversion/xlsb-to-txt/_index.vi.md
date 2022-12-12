@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi XLSB sang TXT qua Python
-url: /vi/python-java/conversion/xlsb-to-txt/
+
 description: Mã mẫu cho chuyển đổi xlsb sang txt Python. Sử dụng API mã mẫu cho hàng loạt tệp xlsb sang chuyển đổi txt trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

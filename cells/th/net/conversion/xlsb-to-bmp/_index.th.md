@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง XLSB เป็น BMP ผ่าน C#
-url: /th/net/conversion/xlsb-to-bmp/
+
 description: โค้ดตัวอย่างสำหรับการแปลง xlsb เป็น bmp C# ใช้โค้ดตัวอย่าง API สำหรับไฟล์แบตช์ xlsb เป็นการแปลง bmp ภายใน VB.NET, Asp.NET หรือแอปพลิเคชันที่ใช้ .NET
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

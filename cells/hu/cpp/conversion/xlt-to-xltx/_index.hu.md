@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLT-t XLTX-re a(z) C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/xlt-to-xltx/ 
+
 description: Minta C++ konverziós kód az XLT dokumentumhoz XLTX formátumba. A programozók ezt a forráskódot használhatják az XLT-ből XLTX-be történő kötegelt konvertáláshoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

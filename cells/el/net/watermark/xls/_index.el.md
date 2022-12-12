@@ -1,7 +1,7 @@
-﻿---
+---
 title: Υδατογράφημα εγγράφου XLS μέσω .NET 
 weight: 3050
-url: /el/net/watermark/xls/ 
+
 description: C# πηγαίος κώδικας για προσθήκη ή κατάργηση υδατογραφήματος σε αρχείο XLS σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

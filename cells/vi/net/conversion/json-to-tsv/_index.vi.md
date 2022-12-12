@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi JSON sang TSV qua C#
-url: /vi/net/conversion/json-to-tsv/
+
 description: Mã mẫu cho chuyển đổi json sang tsv C#. Sử dụng API mã mẫu cho các tệp json hàng loạt để chuyển đổi tsv trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

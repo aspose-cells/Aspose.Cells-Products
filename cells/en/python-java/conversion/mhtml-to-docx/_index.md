@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to DOCX via Python
-url: /python-java/conversion/mhtml-to-docx/
+
 description: Convert MHTML to DOCX format in Python code. Save MHTML as DOCX using Python.
 ---
 

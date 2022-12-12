@@ -1,6 +1,6 @@
-﻿---
+---
 title: أدخل التعليقات في Excel عبر .NET
-url: /ar/net/comment/
+
 description: C# رموز المصدر التي توضح كيفية إدراج تعليق في ملفات Microsoft Excel باستخدام .NET المكتبة. 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

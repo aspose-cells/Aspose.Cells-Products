@@ -1,7 +1,7 @@
-﻿---
+---
 title: فتح مستند XLSB عبر Java 
 weight: 5860
-url: /ar/java/unlock/xlsb/ 
+
 description: Java نموذج رمز لإلغاء تأمين ملف XLSB المحمي بكلمة مرور في Java Runtime Environment لتطبيق JSP / JSF وتطبيقات سطح المكتب.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

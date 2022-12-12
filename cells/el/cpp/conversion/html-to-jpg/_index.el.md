@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή HTML σε JPG μέσω της εφαρμογής C++ 
-url: /el/cpp/conversion/html-to-jpg/ 
+
 description: Δείγμα κώδικα μετατροπής C++ για έγγραφο HTML σε μορφή JPG. Οι προγραμματιστές μπορούν να χρησιμοποιήσουν αυτόν τον πηγαίο κώδικα για ομαδική μετατροπή HTML σε JPG σε οποιαδήποτε εφαρμογή C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

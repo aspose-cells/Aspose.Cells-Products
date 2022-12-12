@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TSV konvertálása PNG-re a következőn keresztül: C#"
-url: /hu/net/conversion/tsv-to-png/
+
 description: Mintakód a tsv-ből png-be C# konverzióhoz. Használjon API példakódot kötegelt tsv fájlokhoz a png konverzióhoz VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή HTML σε MARKDOWN μέσω Python
-url: /el/python-java/conversion/html-to-markdown/
+
 description: Δείγμα κώδικα για μετατροπή html σε σήμανση Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία html για να σημειώσετε τη μετατροπή εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

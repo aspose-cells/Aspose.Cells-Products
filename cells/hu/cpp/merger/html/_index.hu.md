@@ -1,6 +1,6 @@
-﻿---
+---
 title: "HTML-fájlok egyesítése a következőn keresztül: C++ "
-url: /hu/cpp/merger/html/ 
+
 description: C++ példakód HTML-dokumentumok kombinálására a C++ Runtime Environment for Windows 32 bit, Windows 64 bit és a Linux 64 bites rendszeren.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

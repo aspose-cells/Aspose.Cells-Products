@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Konvertálja az XLT-t bájttömbbé a következőn keresztül: C# "
 weight: 7690
-url: /hu/net/conversion/xlt-to-byte-array/ 
+
 description: C# Mintakód XLT-bájttömb átalakításhoz. Használja ezt a kódot az Excel XLT-ből Byte Array konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

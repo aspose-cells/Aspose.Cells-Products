@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera XLTX till XML via Python
-url: /sv/python-java/conversion/xltx-to-xml/
+
 description: Exempelkod för konvertering av xltx till xml Python. Använd API exempelkod för batch-xltx-filer till xml-konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

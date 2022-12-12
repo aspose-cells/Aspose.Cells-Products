@@ -1,7 +1,7 @@
-﻿---
+---
 title: Μετατροπή XLSB σε πίνακα Byte μέσω C# 
 weight: 7690
-url: /el/net/conversion/xlsb-to-byte-array/ 
+
 description: C# Δείγμα κώδικα για μετατροπή XLSB σε πίνακα Byte. Χρησιμοποιήστε αυτόν τον κώδικα για μετατροπή Excel XLSB σε Byte Array εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

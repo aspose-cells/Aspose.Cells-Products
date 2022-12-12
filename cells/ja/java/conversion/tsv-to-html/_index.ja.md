@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してTSVをHTMLに変換します 
 weight: 3880
-url: /ja/java/conversion/tsv-to-html/ 
+
 description: TSV形式からHTMLファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、任意のWebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをHTMLにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

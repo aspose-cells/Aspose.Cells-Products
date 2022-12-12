@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してFODSをXPSに変換します 
-url: /ja/java/conversion/fods-to-xps/ 
+
 description: FODS形式からXPSファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のXPSにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

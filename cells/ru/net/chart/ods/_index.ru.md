@@ -1,7 +1,7 @@
-﻿---
+---
 title:  Диаграмма документа ODS к изображениям через .NET 
 weight: 4360
-url: /ru/net/chart/ods/ 
+
 description: Исходный код C# для рисования и преобразования диаграмм или диаграмм в файл ODS на платформах .NET Framework, .NET Core, Mono или Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

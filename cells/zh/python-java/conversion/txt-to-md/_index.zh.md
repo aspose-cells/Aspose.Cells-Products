@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 Python 将 TXT 转换为 MD
-url: /zh/python-java/conversion/txt-to-md/
+
 description: txt 到 md Python 转换的示例代码。在 Python 应用程序中使用 API 示例代码将批处理 txt 文件转换为 md。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

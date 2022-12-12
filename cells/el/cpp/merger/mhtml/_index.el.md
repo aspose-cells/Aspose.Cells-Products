@@ -1,6 +1,6 @@
-﻿---
+---
 title: Συγχώνευση αρχείων MHTML μέσω C++ 
-url: /el/cpp/merger/mhtml/ 
+
 description: C++ παράδειγμα κώδικα για συνδυασμό εγγράφων MHTML σε C++ Runtime Environment για Windows 32 bit, Windows 64 bit και Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

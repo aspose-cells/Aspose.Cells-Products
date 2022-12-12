@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển NUMBERS sang JPEG qua Python
-url: /vi/python-java/conversion/numbers-to-jpeg/
+
 description: Mã mẫu cho chuyển đổi số thành jpeg Python. Sử dụng mã mẫu API cho các tệp số lô để chuyển đổi jpeg trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

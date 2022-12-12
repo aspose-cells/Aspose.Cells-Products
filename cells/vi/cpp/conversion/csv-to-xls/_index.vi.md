@@ -1,7 +1,7 @@
-﻿---
+---
 title: Chuyển đổi CSV sang XLS qua ứng dụng C++ 
 weight: 1460
-url: /vi/cpp/conversion/csv-to-xls/ 
+
 description: Mã chuyển đổi C++ mẫu cho tài liệu CSV sang định dạng XLS. Các lập trình viên có thể sử dụng mã nguồn này để chuyển đổi hàng loạt CSV sang XLS trong bất kỳ Ứng dụng C++ nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

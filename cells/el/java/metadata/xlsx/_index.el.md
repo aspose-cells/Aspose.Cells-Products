@@ -1,7 +1,7 @@
-﻿---
+---
 title: Επεξεργασία ή προβολή μεταδεδομένων αρχείων XLSX μέσω Java 
 weight: 1240
-url: /el/java/metadata/xlsx/ 
+
 description: Java δείγμα κώδικα για επεξεργασία ή προβολή μεταδεδομένων μορφής XLSX στο Java Runtime Environment για JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

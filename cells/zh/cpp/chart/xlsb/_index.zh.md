@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通过 C++ 的 XLSB 文档图表 
 weight: 5200
-url: /zh/cpp/chart/xlsb/ 
+
 description: C++ 用于在 XLSB 文件中绘制和转换图表或图表的示例代码，适用于 C++ Windows 32 位、Windows 64 位和 Linux 64 位运行时环境。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter SPREADSHEETML para MARKDOWN via Python
-url: /pt/python-java/conversion/spreadsheetml-to-markdown/
+
 description: Código de exemplo para conversão de planilhaml para markdown Python. Use API código de exemplo para arquivos de planilhaml em lote para conversão de markdown no aplicativo Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

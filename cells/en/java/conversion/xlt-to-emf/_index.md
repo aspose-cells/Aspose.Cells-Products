@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to EMF via Java 
-url: /java/conversion/xlt-to-emf/
+
 description: Convert XLT to EMF format in Java code. Save XLT as EMF using Java.
 ---
 

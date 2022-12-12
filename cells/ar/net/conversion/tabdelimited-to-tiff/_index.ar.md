@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TABDELIMITED إلى TIFF عبر C#
-url: /ar/net/conversion/tabdelimited-to-tiff/
+
 description: نموذج رمز لجدولة محدودية لتحويل C#. استخدم API رمز المثال للملفات المحددة بعلامات جدولة مجمعة لإجراء تحويل داخل VB .NET أو Asp .NET أو أي تطبيق يستند إلى .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

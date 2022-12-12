@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++ aracılığıyla MS Excel XLSB Dosyaları oluşturun 
-url: /tr/cpp/create-xlsb/ 
+
 description: C++ MS Excel XLSB dosyaları oluşturmak için örnek kod. C++ tabanlı uygulamada MS Excel XLSB dosyaları oluşturmak için bu kodu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert TSV to SVG via Java 
-url: /java/conversion/tsv-to-svg/
+
 description: Convert TSV to SVG format in Java code. Save TSV as SVG using Java.
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Pesquise e substitua texto no documento XLSB por meio de C++ 
 weight: 6660
-url: /pt/cpp/redaction/xlsb/ 
+
 description: C++ código de exemplo para redigir informações confidenciais no arquivo XLSB em C++ Runtime Environment para Windows de 32 bits, Windows de 64 bits e Linux de 64 bits.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

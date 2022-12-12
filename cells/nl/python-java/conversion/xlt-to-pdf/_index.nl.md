@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLT naar PDF via Python
-url: /nl/python-java/conversion/xlt-to-pdf/
+
 description: Voorbeeldcode voor conversie van xlt naar pdf Python. Gebruik API voorbeeldcode voor batch-xlt-bestanden naar pdf-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

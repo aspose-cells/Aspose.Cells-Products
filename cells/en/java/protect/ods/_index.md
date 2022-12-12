@@ -1,7 +1,7 @@
 ---
 title: Protect and lock ODS document via Java 
 weight: 6360
-url: /java/protect/ods/ 
+
 description: Java sample code to lock ODS file using password on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversikan ODS ke DIF melalui C++ aplikasi 
 weight: 4040
-url: /id/cpp/conversion/ods-to-dif/ 
+
 description: Contoh C++ kode konversi untuk dokumen ODS ke format DIF. Pemrogram dapat menggunakan kode sumber ini untuk konversi batch ODS ke DIF dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

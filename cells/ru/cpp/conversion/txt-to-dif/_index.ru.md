@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование TXT в DIF с помощью приложения C++ 
-url: /ru/cpp/conversion/txt-to-dif/ 
+
 description: Пример кода преобразования C++ для документа TXT в формат DIF. Программисты могут использовать этот исходный код для пакетного преобразования TXT в DIF в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

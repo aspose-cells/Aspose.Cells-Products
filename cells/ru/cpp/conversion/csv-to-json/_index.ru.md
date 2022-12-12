@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование CSV в JSON через приложение C++ 
-url: /ru/cpp/conversion/csv-to-json/ 
+
 description: Пример кода преобразования C++ для документа CSV в формат JSON. Программисты могут использовать этот исходный код для пакетного преобразования CSV в JSON в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

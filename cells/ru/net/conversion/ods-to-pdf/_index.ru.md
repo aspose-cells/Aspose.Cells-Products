@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование ODS в PDF через C#
-url: /ru/net/conversion/ods-to-pdf/
+
 description: Пример кода для преобразования ods в pdf C#. Используйте пример кода API для пакетного преобразования файлов ods в pdf в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

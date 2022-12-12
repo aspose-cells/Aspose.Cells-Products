@@ -1,7 +1,7 @@
-﻿---
+---
 title: Tạo Báo cáo trong Tệp XLSM qua Java 
 weight: 270
-url: /vi/java/assembly/xlsm/ 
+
 description: Java mã mẫu để tạo báo cáo định dạng XLSM trên Java Môi trường thời gian chạy cho Ứng dụng JSP / JSF và Ứng dụng máy tính để bàn.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

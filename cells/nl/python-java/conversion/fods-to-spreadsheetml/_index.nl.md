@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer FODS naar SPREADSHEETML via Python
-url: /nl/python-java/conversion/fods-to-spreadsheetml/
+
 description: Voorbeeldcode voor conversie van fods naar spreadsheetml Python. Gebruik API voorbeeldcode voor batch-fods-bestanden naar spreadsheetml-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

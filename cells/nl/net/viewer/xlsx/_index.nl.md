@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLSX-bestandsindelingen bekijken via .NET 
 weight: 2180
-url: /nl/net/viewer/xlsx/ 
+
 description: C# broncode voor het laden, weergeven en weergeven van XLSX-documenten op .NET Framework-, .NET Core-, Mono- of Xamarin-platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

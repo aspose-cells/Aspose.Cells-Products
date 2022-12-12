@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to XLS via Python
-url: /python-java/conversion/tabdelimited-to-xls/
+
 description: Convert TABDELIMITED to XLS format in Python code. Save TABDELIMITED as XLS using Python.
 ---
 

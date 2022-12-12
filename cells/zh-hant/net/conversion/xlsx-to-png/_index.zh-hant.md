@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 C# 將 XLSX 轉換為 PNG
-url: /zh-hant/net/conversion/xlsx-to-png/
+
 description: xlsx 到 png C# 轉換的示例代碼。使用 API 示例代碼在 VB.NET、Asp.NET 或任何基於 .NET 的應用程序中批量 xlsx 文件到 png 轉換。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

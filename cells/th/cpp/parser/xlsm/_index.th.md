@@ -1,7 +1,7 @@
-﻿---
+---
 title: แยกข้อความและรูปภาพจากเอกสาร XLSM ผ่าน C++ 
 weight: 570
-url: /th/cpp/parser/xlsm/ 
+
 description: C++ โค้ดตัวอย่างเพื่อแยกข้อความและรูปภาพจากไฟล์ XLSM บน C++ Runtime Environment สำหรับ Windows 32 บิต, Windows 64 บิต และ Linux 64 บิต
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

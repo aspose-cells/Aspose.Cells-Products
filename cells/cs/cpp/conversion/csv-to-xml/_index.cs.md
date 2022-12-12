@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte CSV na XML pomocí aplikace C++ 
-url: /cs/cpp/conversion/csv-to-xml/ 
+
 description: Ukázka převodního kódu C++ pro dokument CSV do formátu XML. Programátoři mohou použít tento zdrojový kód pro dávkový převod CSV na XML v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

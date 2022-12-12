@@ -1,7 +1,7 @@
-﻿---
+---
 title: Mesclar arquivos XLSB via .NET 
 weight: 2970
-url: /pt/net/merger/xlsb/ 
+
 description: C# código-fonte para combinar documentos XLSB em plataformas .NET Framework, .NET Core, Mono ou Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

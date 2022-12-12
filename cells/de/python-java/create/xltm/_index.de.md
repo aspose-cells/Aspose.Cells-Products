@@ -1,6 +1,6 @@
-﻿---
+---
 title: Erstellen Sie MS Excel XLTM-Dateien über Python 
-url: /de/python-java/create-xltm/ 
+
 description: Python Beispielcode zum Generieren von XLTM-Dokumenten. Verwenden Sie diesen Code zum Erstellen von MS Excel XLTM-Dateien in der Anwendung Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

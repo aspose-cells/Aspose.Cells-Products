@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLSM na XLSB přes Python
-url: /cs/python-java/conversion/xlsm-to-xlsb/
+
 description: Ukázkový kód pro převod xlsm na xlsb Python. Použijte ukázkový kód API pro dávkový převod souborů xlsm na xlsb v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

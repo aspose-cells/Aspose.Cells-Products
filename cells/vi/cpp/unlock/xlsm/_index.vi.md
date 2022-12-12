@@ -1,7 +1,7 @@
-﻿---
+---
 title: Mở khóa tài liệu XLSM qua C++ 
 weight: 6070
-url: /vi/cpp/unlock/xlsm/ 
+
 description: C++ mã ví dụ để mở khóa tệp XLSM được bảo vệ bằng mật khẩu trên C++ Môi trường thời gian chạy dành cho Windows 32 bit, Windows 64 bit và Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

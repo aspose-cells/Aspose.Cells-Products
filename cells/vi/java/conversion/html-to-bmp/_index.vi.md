@@ -1,7 +1,7 @@
-﻿---
+---
 title: Chuyển đổi HTML sang BMP qua Java 
 weight: 740
-url: /vi/java/conversion/html-to-bmp/ 
+
 description: Mã chuyển đổi Java mẫu cho định dạng HTML thành tệp BMP. Lập trình viên có thể sử dụng mã mẫu này để xuất bảng tính Excel & OpenOffice sang BMP trong bất kỳ Ứng dụng dựa trên Web hoặc Máy tính Java nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل ODS إلى JPG عبر تطبيق C++ 
-url: /ar/cpp/conversion/ods-to-jpg/ 
+
 description: نموذج C++ رمز تحويل لمستند ODS إلى تنسيق JPG. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل دفعة من ODS إلى JPG داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

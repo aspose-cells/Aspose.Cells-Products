@@ -1,6 +1,6 @@
-﻿---
+---
 title: Buat File HTML melalui C# 
-url: /id/net/create-html/ 
+
 description: C# Contoh kode untuk membuat dokumen HTML. Gunakan kode ini untuk membuat file HTML dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

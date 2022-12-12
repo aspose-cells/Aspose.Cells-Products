@@ -1,7 +1,7 @@
-﻿---
+---
 title: Entsperren Sie das XLSB-Dokument über Java 
 weight: 5860
-url: /de/java/unlock/xlsb/ 
+
 description: Java Beispielcode zum Entsperren der passwortgeschützten XLSB-Datei in Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla HTML'yi DIF'ye dönüştürün
-url: /tr/python-java/conversion/html-to-dif/
+
 description: Python dönüşümünü farklılaştırmak için html için örnek kod. Python uygulamasında dönüştürmeyi farklılaştırmak için toplu html dosyaları için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

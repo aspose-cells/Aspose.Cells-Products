@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通過 Java 解鎖 XLS 文檔 
 weight: 6390
-url: /zh-hant/java/unlock/xls/ 
+
 description: Java 用於在 Java JSP/JSF 應用程序和桌面應用程序的運行時環境中解鎖受密碼保護的 XLS 文件的示例代碼。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

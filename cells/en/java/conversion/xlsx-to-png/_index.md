@@ -1,6 +1,6 @@
 ---
 title: Convert XLSX to PNG via Java 
-url: /java/conversion/xlsx-to-png/
+
 description: Convert XLSX to PNG format in Java code. Save XLSX as PNG using Java.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja a TXT-t JSON-ba a(z) C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/txt-to-json/ 
+
 description: Minta C++ konverziós kód TXT-dokumentumhoz JSON formátumba. A programozók ezt a forráskódot használhatják a TXT-ből JSON-ba történő kötegelt konverzióhoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

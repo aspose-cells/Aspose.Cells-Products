@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta TABDELIMITED a BMP a través de Python
-url: /es/python-java/conversion/tabdelimited-to-bmp/
+
 description: Código de ejemplo para la conversión tabdelimited to bmp Python. Utilice el código de ejemplo API para archivos delimitados por tabulaciones por lotes para la conversión bmp dentro de la aplicación Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Merge MHTML to MHTML Files via C# 
-url: /net/merger/merge-mhtml-to-mhtml/ 
+
 description: Merge MHTML to MHTML file in C# code. Combine MHTML to MHTML file using VB.NET, Asp.NET or any .NET based application.
 ---
 

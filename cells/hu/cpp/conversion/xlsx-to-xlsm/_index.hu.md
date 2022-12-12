@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertálja az XLSX-et XLSM-re a(z) C++ alkalmazáson keresztül 
 weight: 2230
-url: /hu/cpp/conversion/xlsx-to-xlsm/ 
+
 description: Minta C++ konverziós kód XLSX dokumentumhoz XLSM formátumba. A programozók ezt a forráskódot használhatják kötegelt XLSX-XLSM konvertáláshoz bármely C++ alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

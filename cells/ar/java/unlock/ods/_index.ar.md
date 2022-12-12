@@ -1,7 +1,7 @@
-﻿---
+---
 title: فتح مستند ODS عبر Java 
 weight: 5080
-url: /ar/java/unlock/ods/ 
+
 description: Java نموذج رمز لإلغاء تأمين ملف ODS المحمي بكلمة مرور في Java Runtime Environment لتطبيق JSP / JSF وتطبيقات سطح المكتب.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

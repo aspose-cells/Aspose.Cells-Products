@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to DIF via Java 
-url: /java/conversion/xlsb-to-dif/
+
 description: Convert XLSB to DIF format in Java code. Save XLSB as DIF using Java.
 ---
 

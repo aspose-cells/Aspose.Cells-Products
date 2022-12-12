@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera TSV till JSON via Python
-url: /sv/python-java/conversion/tsv-to-json/
+
 description: Exempelkod för konvertering från tsv till json Python. Använd API exempelkod för batch-tsv-filer till json-konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

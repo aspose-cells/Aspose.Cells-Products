@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to BMP via Java 
-url: /java/conversion/html-to-bmp/
+
 description: Convert HTML to BMP format in Java code. Save HTML as BMP using Java.
 ---
 

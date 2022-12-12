@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převeďte MHTML na HTML pomocí aplikace C++ 
 weight: 3810
-url: /cs/cpp/conversion/mhtml-to-html/ 
+
 description: Ukázka převodního kódu C++ pro dokument MHTML do formátu HTML. Programátoři mohou použít tento zdrojový kód pro dávkovou konverzi MHTML do HTML v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

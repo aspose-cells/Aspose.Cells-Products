@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer TSV naar HTML via C++ applicatie 
 weight: 4980
-url: /nl/cpp/conversion/tsv-to-html/ 
+
 description: Voorbeeld C++ conversiecode voor TSV-document naar HTML-indeling. Programmeurs kunnen deze broncode gebruiken voor batch-TSV-naar-HTML-conversie binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

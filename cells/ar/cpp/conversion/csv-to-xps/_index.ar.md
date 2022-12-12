@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل CSV إلى XPS عبر تطبيق C++ 
 weight: 3170
-url: /ar/cpp/conversion/csv-to-xps/ 
+
 description: نموذج C++ رمز التحويل لمستند CSV إلى تنسيق XPS. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل CSV إلى XPS داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

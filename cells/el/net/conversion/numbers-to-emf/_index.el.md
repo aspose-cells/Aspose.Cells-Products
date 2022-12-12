@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή NUMBERS σε EMF μέσω C#
-url: /el/net/conversion/numbers-to-emf/
+
 description: Δείγμα κωδικού για αριθμούς σε μετατροπή emf C#. Χρησιμοποιήστε API παράδειγμα κώδικα για αρχεία αριθμών παρτίδας για μετατροπή emf εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte XLSB na MD pomocí aplikace C++ 
-url: /cs/cpp/conversion/xlsb-to-md/ 
+
 description: Ukázka převodního kódu C++ pro dokument XLSB na formát MD. Programátoři mohou použít tento zdrojový kód pro dávkovou konverzi XLSB na MD v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

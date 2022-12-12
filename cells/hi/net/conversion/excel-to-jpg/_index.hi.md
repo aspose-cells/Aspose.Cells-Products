@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# के माध्यम से EXCEL को JPG में बदलें
-url: /hi/net/conversion/excel-to-jpg/
+
 description: एक्सेल से जेपीजी C# रूपांतरण के लिए नमूना कोड। VB.NET, Asp.NET या किसी .NET आधारित एप्लिकेशन के भीतर बैच एक्सेल फ़ाइलों को jpg रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

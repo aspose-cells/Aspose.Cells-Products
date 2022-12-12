@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte XLTX na JSON pomocí aplikace C++ 
-url: /cs/cpp/conversion/xltx-to-json/ 
+
 description: Ukázkový konverzní kód C++ pro dokument XLTX do formátu JSON. Programátoři mohou použít tento zdrojový kód pro dávkový převod XLTX na JSON v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

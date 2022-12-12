@@ -1,7 +1,7 @@
-﻿---
+---
 title: مخطط مستند ODS عبر Java 
 weight: 2240
-url: /ar/java/chart/ods/ 
+
 description: Java نموذج تعليمة برمجية لرسم وتحويل مخطط أو رسم تخطيطي في ملف ODS على Java Runtime Environment for JSP / JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Преобразование CSV в SVG с помощью приложения C++ 
 weight: 1710
-url: /ru/cpp/conversion/csv-to-svg/ 
+
 description: Пример кода преобразования C++ для документа CSV в формат SVG. Программисты могут использовать этот исходный код для пакетного преобразования CSV в SVG в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

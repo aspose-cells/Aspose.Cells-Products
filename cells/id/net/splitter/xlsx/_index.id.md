@@ -1,7 +1,7 @@
-﻿---
+---
 title: Pisahkan File XLSX melalui .NET 
 weight: 1350
-url: /id/net/splitter/xlsx/ 
+
 description: C# kode sumber untuk membagi dokumen XLSX pada .NET Framework, .NET Core, Mono atau Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

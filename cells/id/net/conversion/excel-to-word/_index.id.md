@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi EXCEL ke WORD melalui C#
-url: /id/net/conversion/excel-to-word/
+
 description: Contoh kode untuk konversi excel ke word C#. Gunakan API kode contoh untuk file batch excel ke konversi kata dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

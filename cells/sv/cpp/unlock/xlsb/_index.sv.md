@@ -1,7 +1,7 @@
-﻿---
+---
 title: Lås upp XLSB-dokument via C++ 
 weight: 7420
-url: /sv/cpp/unlock/xlsb/ 
+
 description: C++ exempelkod för att låsa upp lösenordsskyddad XLSB-fil i C++ Runtime Environment för Windows 32-bitars, Windows 64-bitars och Linux 64-bitars.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla TXT'yi XLTM'ye dönüştürün
-url: /tr/net/conversion/txt-to-xltm/
+
 description: txt'den xltm'ye C# dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu txt dosyalarından xltm'ye dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

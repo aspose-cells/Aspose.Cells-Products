@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to XLTX via Java 
-url: /java/conversion/html-to-xltx/
+
 description: Convert HTML to XLTX format in Java code. Save HTML as XLTX using Java.
 ---
 

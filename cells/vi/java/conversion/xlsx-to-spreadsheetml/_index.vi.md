@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi XLSX thành SPREADSHEETML qua Java 
-url: /vi/java/conversion/xlsx-to-spreadsheetml/ 
+
 description: Mã chuyển đổi Java mẫu cho định dạng XLSX thành tệp SPREADSHEETML. Lập trình viên có thể sử dụng mã ví dụ này để xuất bảng tính Excel & OpenOffice sang SPREADSHEETML trong bất kỳ Ứng dụng dựa trên Web hoặc Máy tính Java nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

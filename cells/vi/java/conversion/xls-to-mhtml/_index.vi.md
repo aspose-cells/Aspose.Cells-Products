@@ -1,7 +1,7 @@
-﻿---
+---
 title: Chuyển đổi XLS sang MHTML qua Java 
 weight: 5430
-url: /vi/java/conversion/xls-to-mhtml/ 
+
 description: Mã chuyển đổi Java mẫu cho định dạng XLS thành tệp MHTML. Người lập trình có thể sử dụng mã ví dụ này để xuất bảng tính Excel & OpenOffice sang MHTML trong bất kỳ Ứng dụng dựa trên Web hoặc Máy tính Java nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

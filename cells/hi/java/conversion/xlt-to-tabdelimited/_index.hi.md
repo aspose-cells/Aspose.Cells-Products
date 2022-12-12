@@ -1,6 +1,6 @@
-﻿---
+---
 title: XLT को TABDELIMITED में बदलें Java के द्वारा 
-url: /hi/java/conversion/xlt-to-tabdelimited/ 
+
 description: XLT प्रारूप के लिए TABDELIMITED फ़ाइल में नमूना Java रूपांतरण कोड। प्रोग्रामर इस उदाहरण कोड का उपयोग एक्सेल और ओपनऑफिस स्प्रेडशीट को किसी भी वेब या डेस्कटॉप Java आधारित एप्लिकेशन के भीतर TABDELIMITED को निर्यात करने के लिए कर सकते हैं।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

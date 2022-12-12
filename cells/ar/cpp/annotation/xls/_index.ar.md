@@ -1,7 +1,7 @@
-﻿---
+---
 title: إضافة تعليق توضيحي لملف XLS Excel عبر C++ 
 weight: 10040
-url: /ar/cpp/annotation/xls/ 
+
 description: C++ نموذج لرمز لإضافة وحذف التعليقات التوضيحية بتنسيق XLS في C++ Runtime Environment لأنظمة التشغيل Windows 32 بت و Windows 64 بت و Linux 64 بت.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

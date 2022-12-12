@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLT в PNG с помощью приложения C++ 
-url: /ru/cpp/conversion/xlt-to-png/ 
+
 description: Пример кода преобразования C++ для документа XLT в формат PNG. Программисты могут использовать этот исходный код для пакетного преобразования XLT в PNG в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

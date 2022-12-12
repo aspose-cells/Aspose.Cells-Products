@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan XLT ke MARKDOWN melalui Python
-url: /id/python-java/conversion/xlt-to-markdown/
+
 description: Contoh kode untuk konversi xlt ke penurunan harga Python. Gunakan API kode contoh untuk file batch xlt untuk konversi penurunan harga dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

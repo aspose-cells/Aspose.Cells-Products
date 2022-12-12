@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++ एप्लिकेशन के माध्यम से CSV को JPG में बदलें 
-url: /hi/cpp/conversion/csv-to-jpg/ 
+
 description: नमूना C++ सीएसवी दस्तावेज़ के लिए जेपीजी प्रारूप में रूपांतरण कोड। प्रोग्रामर इस स्रोत कोड का उपयोग किसी भी C++ एप्लिकेशन के अंतर्गत बैच CSV से JPG रूपांतरण के लिए कर सकते हैं।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Μετατροπή XLSX σε PDF/A Complied Files μέσω Java 
 weight: 3200
-url: /el/java/conversion/xlsx-to-pdf-a/ 
+
 description: Δείγμα κώδικα μετατροπής Java για μορφή XLSX σε PDF A Complied Files. Οι προγραμματιστές μπορούν να χρησιμοποιήσουν αυτό το παράδειγμα κώδικα για να εξάγουν υπολογιστικά φύλλα Excel και OpenOffice σε αρχεία PDFA Complied εντός οποιασδήποτε εφαρμογής που βασίζεται στον Ιστό ή στην επιφάνεια εργασίας Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

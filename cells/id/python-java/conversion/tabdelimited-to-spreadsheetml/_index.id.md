@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan TABDELIMITED ke SPREADSHEETML melalui Python
-url: /id/python-java/conversion/tabdelimited-to-spreadsheetml/
+
 description: Contoh kode untuk tabdelimited ke spreadsheetml Python konversi. Gunakan API kode contoh untuk berkas tabdelimited batch ke konversi spreadsheetml dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

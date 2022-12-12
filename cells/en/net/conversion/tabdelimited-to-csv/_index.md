@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to CSV via C#
-url: /net/conversion/tabdelimited-to-csv/
+
 description: Convert TABDELIMITED to CSV format in C# code. Save TABDELIMITED as CSV using VB.NET, Asp.NET or any .NET based application.
 ---
 

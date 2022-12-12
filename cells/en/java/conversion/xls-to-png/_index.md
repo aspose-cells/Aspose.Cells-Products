@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to PNG via Java 
-url: /java/conversion/xls-to-png/
+
 description: Convert XLS to PNG format in Java code. Save XLS as PNG using Java.
 ---
 

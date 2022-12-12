@@ -1,7 +1,7 @@
-﻿---
+---
 title: Přidat anotaci XLSB souboru Excel prostřednictvím C++ 
 weight: 860
-url: /cs/cpp/annotation/xlsb/ 
+
 description: C++ ukázkový kód pro odstranění anotací ve formátu XLSB v C++ Runtime Environment pro Windows 32bit, Windows 64bit a Linux 64bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Twórz wykresy radarowe za pomocą C#
-url: /pl/net/create-radar-chart/
+
 description: C# Przykładowy kod do tworzenia wykresów radarowych w programie Excel przy użyciu biblioteki .NET. Użyj tego kodu, aby utworzyć wykres radarowy do MS Excel w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 Python 将 TABDELIMITED 转换为 JPEG
-url: /zh/python-java/conversion/tabdelimited-to-jpeg/
+
 description: tabdelimited 到 jpeg Python 转换的示例代码。使用 Python 应用程序中的批处理制表符分隔文件到 jpeg 转换的 API 示例代码。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

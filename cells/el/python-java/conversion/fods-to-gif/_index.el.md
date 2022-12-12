@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή FODS σε GIF μέσω Python
-url: /el/python-java/conversion/fods-to-gif/
+
 description: Δείγμα κώδικα για μετατροπή fods σε gif Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία fods για μετατροπή gif εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

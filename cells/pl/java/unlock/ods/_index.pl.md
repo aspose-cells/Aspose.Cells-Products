@@ -1,7 +1,7 @@
-﻿---
+---
 title: Odblokuj dokument ODS przez Java 
 weight: 5080
-url: /pl/java/unlock/ods/ 
+
 description: Java przykładowy kod do odblokowania chronionego hasłem pliku ODS w Java środowisku wykonawczym dla aplikacji JSP/JSF i aplikacji komputerowych.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

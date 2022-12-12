@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan FODS ke TIFF melalui C#
-url: /id/net/conversion/fods-to-tiff/
+
 description: Contoh kode untuk konversi fods ke tiff C#. Gunakan API kode contoh untuk file batch fods ke konversi tiff dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Vytvářejte soubory MS Excel XLSM prostřednictvím C++ 
-url: /cs/cpp/create-xlsm/ 
+
 description: C++ Ukázkový kód pro generování souborů MS Excel XLSM. Tento kód použijte k vytváření souborů MS Excel XLSM v aplikaci založené na C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

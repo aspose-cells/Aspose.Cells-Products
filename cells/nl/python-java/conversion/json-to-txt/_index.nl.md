@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer JSON naar TXT via Python
-url: /nl/python-java/conversion/json-to-txt/
+
 description: Voorbeeldcode voor conversie van json naar txt Python. Gebruik API voorbeeldcode voor batch json-bestanden naar txt-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

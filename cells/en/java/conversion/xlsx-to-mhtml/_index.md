@@ -1,6 +1,6 @@
 ---
 title: Convert XLSX to MHTML via Java 
-url: /java/conversion/xlsx-to-mhtml/
+
 description: Convert XLSX to MHTML format in Java code. Save XLSX as MHTML using Java.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to XLTM via C#
-url: /net/conversion/excel-to-xltm/
+
 description: Convert EXCEL to XLTM format in C# code. Save EXCEL as XLTM using VB.NET, Asp.NET or any .NET based application.
 ---
 

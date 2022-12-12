@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してXLTMをDIFに変換します
-url: /ja/net/conversion/xltm-to-dif/
+
 description: xltmからdifC#への変換のサンプルコード。バッチxltmファイルのAPIサンプルコードを使用して、VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内で変換をdifします。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

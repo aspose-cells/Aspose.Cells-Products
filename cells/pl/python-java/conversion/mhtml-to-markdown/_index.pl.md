@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj MHTML na MARKDOWN za pomocą Python
-url: /pl/python-java/conversion/mhtml-to-markdown/
+
 description: Przykładowy kod konwersji mhtml na przecenę Python. Użyj przykładowego kodu API dla wsadowych plików mhtml do konwersji przecen w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

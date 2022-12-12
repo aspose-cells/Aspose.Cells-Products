@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to BMP via Python
-url: /python-net/conversion/txt-to-bmp/
+
 description: Sample code for txt to bmp Python conversion. Use API example code for batch txt files to bmp conversion within Python application.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla XLS'yi MARKDOWN'a dönüştürün
-url: /tr/python-java/conversion/xls-to-markdown/
+
 description: Python dönüşümünü azaltmak için xls için örnek kod. Python uygulamasında dönüştürmeyi işaretlemek için toplu xls dosyaları için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

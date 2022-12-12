@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل XLT إلى XLSB عبر Java 
 weight: 5780
-url: /ar/java/conversion/xlt-to-xlsb/ 
+
 description: نموذج Java رمز تحويل لتنسيق XLT إلى ملف XLSB. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى XLSB داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

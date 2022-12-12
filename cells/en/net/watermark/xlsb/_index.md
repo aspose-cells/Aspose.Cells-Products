@@ -1,7 +1,7 @@
 ---
 title: Watermark XLSB document via .NET 
 weight: 5410
-url: /net/watermark/xlsb/ 
+
 description: C# source code to add or remove watermark to XLSB file on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

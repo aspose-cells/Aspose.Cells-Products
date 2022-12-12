@@ -1,7 +1,7 @@
-﻿---
+---
 title: Slå samman XLSM-filer via Java 
 weight: 1270
-url: /sv/java/merger/xlsm/ 
+
 description: Java exempelkod för att kombinera XLSM-dokument i Java Runtime Environment för JSP/JSF Application och Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

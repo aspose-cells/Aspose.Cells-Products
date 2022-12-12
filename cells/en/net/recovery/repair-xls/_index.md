@@ -1,6 +1,6 @@
 ---
 title: Repair xls file via .NET
-url: /net/recovery/repair-xls/ 
+
 description: Repair a corrupt xls file using C#. Recovery tool to repair corrupted xls file within .NET application.
 ---
 

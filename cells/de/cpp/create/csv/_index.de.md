@@ -1,6 +1,6 @@
-﻿---
+---
 title: CSV-Dateien über C++ erstellen 
-url: /de/cpp/create-csv/ 
+
 description: C++ Beispielcode zum Generieren von CSV-Dateien. Verwenden Sie diesen Code zum Erstellen von CSV-Dateien in einer C++-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

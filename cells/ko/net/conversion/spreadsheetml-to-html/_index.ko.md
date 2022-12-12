@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#를 통해 SPREADSHEETML을 HTML로 변환
-url: /ko/net/conversion/spreadsheetml-to-html/
+
 description: 스프레드시트ml에서 html로의 C# 변환을 위한 샘플 코드입니다. VB.NET, Asp.NET 또는 모든 .NET 기반 응용 프로그램 내에서 배치 스프레드시트ml 파일을 html로 변환하는 API 예제 코드를 사용합니다.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

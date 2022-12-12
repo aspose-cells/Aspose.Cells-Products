@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to BMP via C++
-url: /cpp/conversion/excel-to-bmp/
+
 description: Convert EXCEL to BMP format in C++ code. Save EXCEL as BMP using C++.
 ---
 

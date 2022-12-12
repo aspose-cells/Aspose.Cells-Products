@@ -1,6 +1,6 @@
 ---
 title: Merge XLS to HTM Files via Python 
-url: /python-java/merger/merge-xls-to-htm/ 
+
 description: Merge XLS to HTM file in Python code. Combine XLS to HTM file using Python.
 ---
 

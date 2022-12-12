@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++을(를) 통해 XLS 문서 잠금 해제 
 weight: 2380
-url: /ko/cpp/unlock/xls/ 
+
 description: C++ Windows 32비트, Windows 64비트 및 Linux 64비트용 C++ 런타임 환경에서 비밀번호로 보호된 XLS 파일의 잠금을 해제하는 예제 코드.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

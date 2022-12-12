@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή NUMBERS σε TABDELIMITED μέσω C#
-url: /el/net/conversion/numbers-to-tabdelimited/
+
 description: Δείγμα κωδικού για αριθμούς σε μετατροπή οριοθετημένης καρτέλας C#. Χρησιμοποιήστε API παράδειγμα κώδικα για αρχεία αριθμών παρτίδας για μετατροπή οριοθετημένης καρτέλας εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

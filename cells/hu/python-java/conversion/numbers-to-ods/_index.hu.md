@@ -1,6 +1,6 @@
-﻿---
+---
 title: "NUMBERS konvertálása ODS-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/numbers-to-ods/
+
 description: Mintakód a számok ods Python konverziójához. Használjon API példakódot a kötegszámfájlok ods-konverziójához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Az XLSX konvertálása bájttömbbé a következőn keresztül: C# "
 weight: 7690
-url: /hu/net/conversion/xlsx-to-byte-array/ 
+
 description: C# Mintakód az XLSX-ből byte Array konvertáláshoz. Használja ezt a kódot az Excel XLSX-ből byte Array konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to DIF via Java 
-url: /java/conversion/numbers-to-dif/
+
 description: Convert NUMBERS to DIF format in Java code. Save NUMBERS as DIF using Java.
 ---
 

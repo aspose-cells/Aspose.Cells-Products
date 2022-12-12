@@ -1,6 +1,6 @@
-﻿---
+---
 title: "FODS konvertálása XLT-vé a következőn keresztül: Python"
-url: /hu/python-java/conversion/fods-to-xlt/
+
 description: Mintakód a fod-ból xlt-be Python konverzióhoz. Használjon API példakódot a fod fájlok kötegelt xlt konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

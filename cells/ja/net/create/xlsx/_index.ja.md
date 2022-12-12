@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してMSExcelXLSXファイルを作成する 
-url: /ja/net/create-xlsx/ 
+
 description: C#XLSXドキュメントを生成するためのサンプルコード。このコードを使用して、VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内にMSExcelXLSXファイルを作成します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

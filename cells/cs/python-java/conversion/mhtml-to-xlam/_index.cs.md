@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést MHTML na XLAM přes Python
-url: /cs/python-java/conversion/mhtml-to-xlam/
+
 description: Ukázkový kód pro konverzi mhtml na xlam Python. Použijte API ukázkový kód pro dávkový převod souborů mhtml na xlam v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertálja az XLS-t XLTX-re a(z) C++ alkalmazáson keresztül 
 weight: 5210
-url: /hu/cpp/conversion/xls-to-xltx/ 
+
 description: Minta C++ konverziós kód az XLS dokumentumhoz XLTX formátumba. A programozók ezt a forráskódot használhatják az XLS-ből XLTX-be történő kötegelt konvertáláshoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++を介してCSVファイルをマージ 
-url: /ja/cpp/merger/csv/ 
+
 description: C++ Windows 32ビット、Windows 64ビット、およびLinux64ビットのランタイム環境でCSVドキュメントを組み合わせるためのサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

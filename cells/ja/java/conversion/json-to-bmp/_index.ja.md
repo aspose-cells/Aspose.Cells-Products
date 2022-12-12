@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してJSONをBMPに変換する 
 weight: 910
-url: /ja/java/conversion/json-to-bmp/ 
+
 description: JSON形式からBMPファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のBMPにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

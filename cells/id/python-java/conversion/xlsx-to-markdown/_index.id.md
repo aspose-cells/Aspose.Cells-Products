@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan XLSX ke MARKDOWN melalui Python
-url: /id/python-java/conversion/xlsx-to-markdown/
+
 description: Contoh kode untuk xlsx ke penurunan harga Python konversi. Gunakan API kode contoh untuk berkas xlsx batch untuk konversi penurunan harga dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

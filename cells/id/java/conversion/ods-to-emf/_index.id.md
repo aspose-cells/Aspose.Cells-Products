@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversikan ODS ke EMF melalui Java 
 weight: 760
-url: /id/java/conversion/ods-to-emf/ 
+
 description: Contoh Java kode konversi untuk format ODS ke file EMF. Pemrogram dapat menggunakan kode contoh ini untuk mengekspor spreadsheet Excel & OpenOffice ke EMF dalam Aplikasi berbasis Web atau Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

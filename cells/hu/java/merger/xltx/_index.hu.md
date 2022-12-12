@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLTX fájlok egyesítése a következőn keresztül: Java "
 weight: 680
-url: /hu/java/merger/xltx/ 
+
 description: Java mintakód az XLTX dokumentumok kombinálásához a Java Runtime Environment for JSP/JSF alkalmazásokhoz és asztali alkalmazásokhoz.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

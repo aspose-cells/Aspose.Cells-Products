@@ -1,6 +1,6 @@
 ---
 title: Convert XLTM to SVG via Python
-url: /python-java/conversion/xltm-to-svg/
+
 description: Convert XLTM to SVG format in Python code. Save XLTM as SVG using Python.
 ---
 

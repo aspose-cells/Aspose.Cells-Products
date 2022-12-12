@@ -1,7 +1,7 @@
-﻿---
+---
 title: Vattenstämpel XLS-dokument via .NET 
 weight: 3050
-url: /sv/net/watermark/xls/ 
+
 description: C# källkod för att lägga till eller ta bort vattenstämpel till XLS-fil på .NET Framework, .NET Core, Mono eller Xamarin-plattformar.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

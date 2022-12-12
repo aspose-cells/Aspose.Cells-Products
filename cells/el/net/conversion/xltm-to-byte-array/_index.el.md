@@ -1,7 +1,7 @@
-﻿---
+---
 title: Μετατροπή XLTM σε πίνακα Byte μέσω C# 
 weight: 7690
-url: /el/net/conversion/xltm-to-byte-array/ 
+
 description: C# Δείγμα κώδικα για μετατροπή XLTM σε πίνακα Byte. Χρησιμοποιήστε αυτόν τον κώδικα για τη μετατροπή του Excel XLTM σε πίνακα Byte εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

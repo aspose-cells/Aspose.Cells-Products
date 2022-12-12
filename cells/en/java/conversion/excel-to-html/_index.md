@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to HTML via Java 
-url: /java/conversion/excel-to-html/
+
 description: Convert EXCEL to HTML format in Java code. Save EXCEL as HTML using Java.
 ---
 

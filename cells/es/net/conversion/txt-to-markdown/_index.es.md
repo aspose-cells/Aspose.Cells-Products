@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta TXT a MARKDOWN a través de C#
-url: /es/net/conversion/txt-to-markdown/
+
 description: Ejemplo de código para la conversión de txt a markdown C#. Utilice el código de ejemplo API para archivos txt por lotes para rebajar la conversión dentro de VB.NET, Asp.NET o cualquier aplicación basada en .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi NUMBER ke XLSM melalui Java 
-url: /id/java/conversion/numbers-to-xlsm/ 
+
 description: Contoh Java kode konversi untuk format ANGKA ke file XLSM. Pemrogram dapat menggunakan kode contoh ini untuk mengekspor spreadsheet Excel & OpenOffice ke XLSM dalam Aplikasi berbasis Web atau Desktop Java apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Δημιουργία γραφημάτων Excel και μετατροπή σε εικόνες μέσω Java
-url: /el/java/chart/
+
 description: Java πηγαίος κώδικας για σχεδίαση και μετατροπή γραφήματος ή διαγράμματος στο Microsoft Excel χρησιμοποιώντας τη Βιβλιοθήκη Java. 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

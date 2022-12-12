@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLSB إلى MD عبر تطبيق C++ 
-url: /ar/cpp/conversion/xlsb-to-md/ 
+
 description: نموذج C++ كود التحويل لوثيقة XLSB إلى تنسيق MD. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل دفعة XLSB إلى MD داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

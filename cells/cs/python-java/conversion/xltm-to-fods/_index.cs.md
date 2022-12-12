@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLTM na FODS přes Python
-url: /cs/python-java/conversion/xltm-to-fods/
+
 description: Ukázkový kód pro konverzi xltm na fods Python. Použijte API ukázkový kód pro dávkový převod souborů xltm na fods v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

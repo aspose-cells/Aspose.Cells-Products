@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TSV konvertálása FODS-re a következőn keresztül: Java "
-url: /hu/java/conversion/tsv-to-fods/ 
+
 description: Minta Java konverziós kód a TSV-formátumhoz FODS-fájllá. A programozók ezt a példakódot használhatják Excel- és OpenOffice-táblázatok exportálására FODS-be bármely web- vagy asztali Java-alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

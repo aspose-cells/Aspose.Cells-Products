@@ -1,7 +1,7 @@
-﻿---
+---
 title: Cerca il documento XLSB senza aprire tramite C++ 
 weight: 7020
-url: /it/cpp/search/xlsb/ 
+
 description: C++ codice di esempio per cercare parole con pattern nel file XLSB in C++ Runtime Environment per Windows 32 bit, Windows 64 bit e Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 Python 将 TXT 转换为 FODS
-url: /zh/python-java/conversion/txt-to-fods/
+
 description: txt 到 fods Python 转换的示例代码。使用 Python 应用程序中将 txt 文件批量转换为 fods 的 API 示例代码。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

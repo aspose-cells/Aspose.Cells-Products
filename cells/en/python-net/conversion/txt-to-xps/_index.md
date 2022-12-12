@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to XPS via Python
-url: /python-net/conversion/txt-to-xps/
+
 description: Sample code for txt to xps Python conversion. Use API example code for batch txt files to xps conversion within Python application.
 ---
 

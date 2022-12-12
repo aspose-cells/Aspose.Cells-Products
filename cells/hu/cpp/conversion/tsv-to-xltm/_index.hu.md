@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertálja a TSV-t XLTM-re a(z) C++ alkalmazáson keresztül 
 weight: 5330
-url: /hu/cpp/conversion/tsv-to-xltm/ 
+
 description: Minta C++ konverziós kód a TSV-dokumentumhoz XLTM formátumba. A programozók ezt a forráskódot használhatják kötegelt TSV-ből XLTM-be konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

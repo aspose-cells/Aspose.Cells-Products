@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLSM в PDF с помощью приложения C++ 
-url: /ru/cpp/conversion/xlsm-to-pdf/ 
+
 description: Пример кода преобразования C++ для документа XLSM в формат PDF. Программисты могут использовать этот исходный код для пакетного преобразования XLSM в PDF в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してODSをTXTに変換します 
 weight: 4320
-url: /ja/java/conversion/ods-to-txt/ 
+
 description: ODS形式からTXTファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のTXTにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

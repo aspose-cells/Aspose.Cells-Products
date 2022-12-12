@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通過 Java 給 XLSB 文檔添加水印 
 weight: 5900
-url: /zh-hant/java/watermark/xlsb/ 
+
 description: Java 用於在 Java JSP/JSF 應用程序和桌面應用程序的運行時環境中向 XLSB 文件添加或刪除水印的示例代碼。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

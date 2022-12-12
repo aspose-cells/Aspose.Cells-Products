@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++アプリケーションを介してHTMLをTABDELIMITEDに変換します 
-url: /ja/cpp/conversion/html-to-tabdelimited/ 
+
 description: HTMLドキュメントのサンプルC++変換コードをTABDELIMITED形式に変換します。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でHTMLからTABDELIMITEDへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

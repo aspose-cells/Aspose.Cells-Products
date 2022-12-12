@@ -1,6 +1,6 @@
 ---
 title: Convert XLSX to CSV via Java 
-url: /java/conversion/xlsx-to-csv/
+
 description: Convert XLSX to CSV format in Java code. Save XLSX as CSV using Java.
 ---
 

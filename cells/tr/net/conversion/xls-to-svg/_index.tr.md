@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla XLS'yi SVG'ye dönüştürün
-url: /tr/net/conversion/xls-to-svg/
+
 description: xls'den svg'ye C# dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu xls dosyalarından svg'ye dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

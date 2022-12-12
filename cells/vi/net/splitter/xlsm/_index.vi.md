@@ -1,7 +1,7 @@
-﻿---
+---
 title: Tách tệp XLSM qua .NET 
 weight: 8890
-url: /vi/net/splitter/xlsm/ 
+
 description: C# mã nguồn để tách các tài liệu XLSM trên Nền tảng .NET Framework, .NET Core Mono hoặc Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

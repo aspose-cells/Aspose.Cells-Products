@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TXT konvertálása EMF-vé a következőn keresztül: C#"
-url: /hu/net/conversion/txt-to-emf/
+
 description: Mintakód a txt-ből emf-be C# konverzióhoz. Használjon API példakódot kötegelt txt fájlokhoz az EMF-konverzióhoz VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

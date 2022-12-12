@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SXC konvertálása XPS-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/sxc-to-xps/
+
 description: Mintakód az sxc–xps Python konverzióhoz. Használjon API példakódot az sxc fájlok kötegelt xps konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

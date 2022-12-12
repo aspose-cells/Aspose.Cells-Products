@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer SPREADSHEETML naar XLSX via C#
-url: /nl/net/conversion/spreadsheetml-to-xlsx/
+
 description: Voorbeeldcode voor conversie van spreadsheetml naar xlsx C#. Gebruik API voorbeeldcode voor batch-spreadsheetml-bestanden naar xlsx-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

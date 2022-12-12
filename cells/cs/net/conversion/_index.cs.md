@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převod souborů Microsoft Excel prostřednictvím C# 
-url: /cs/net/conversion/
+
 description: Převeďte Excel XLS, XLSX, ODS, CSV do PDF, XPS, HTML, JPEG, HTML a mnoha dalších oblíbených formátů pomocí pouhých několika řádků kódu C#.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

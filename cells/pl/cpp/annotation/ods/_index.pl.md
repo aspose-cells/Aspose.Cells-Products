@@ -1,7 +1,7 @@
-﻿---
+---
 title: Dodaj adnotację ODS przez C++ 
 weight: 8840
-url: /pl/cpp/annotation/ods/ 
+
 description: C++ przykładowy kod do usuwania adnotacji formatu ODS w C++ środowisku wykonawczym dla 32-bitowego systemu Windows, 64-bitowego systemu Windows i 64-bitowego systemu Linux.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

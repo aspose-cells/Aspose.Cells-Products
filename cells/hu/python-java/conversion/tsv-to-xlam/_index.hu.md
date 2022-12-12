@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TSV konvertálása XLAM-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/tsv-to-xlam/
+
 description: Mintakód a tsv–xlam Python konverzióhoz. Használjon API példakódot a tsv-fájlok kötegelt xlam-konverziójához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

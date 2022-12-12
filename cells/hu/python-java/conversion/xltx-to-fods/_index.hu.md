@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLTX konvertálása FODS-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/xltx-to-fods/
+
 description: Mintakód az xltx to fods Python konverziójához. Használjon API példakódot a kötegelt xltx fájlok fods konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

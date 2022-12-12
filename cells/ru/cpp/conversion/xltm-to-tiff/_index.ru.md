@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLTM в TIFF с помощью приложения C++ 
-url: /ru/cpp/conversion/xltm-to-tiff/ 
+
 description: Пример кода преобразования C++ для документа XLTM в формат TIFF. Программисты могут использовать этот исходный код для пакетного преобразования XLTM в TIFF в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Konvertálja az XLSB-t JPG-vé a következőn keresztül: C#"
-url: /hu/net/conversion/xlsb-to-jpg/
+
 description: Mintakód az xlsb-ből jpg-be C# konvertáláshoz. Használjon API példakódot a kötegelt xlsb fájlok jpg formátumú konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazásban.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

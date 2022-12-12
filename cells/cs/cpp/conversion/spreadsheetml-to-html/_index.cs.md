@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte SPREADSHEETML do HTML pomocí aplikace C++ 
-url: /cs/cpp/conversion/spreadsheetml-to-html/ 
+
 description: Ukázka převodního kódu C++ pro dokument SPREADSHEETML do formátu HTML. Programátoři mohou použít tento zdrojový kód pro dávkový převod SPREADSHEETML do HTML v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

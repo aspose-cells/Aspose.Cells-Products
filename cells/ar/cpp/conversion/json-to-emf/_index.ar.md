@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل JSON إلى EMF عبر تطبيق C++ 
-url: /ar/cpp/conversion/json-to-emf/ 
+
 description: نموذج رمز تحويل C++ لمستند JSON إلى تنسيق EMF. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل JSON دفعة إلى EMF داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

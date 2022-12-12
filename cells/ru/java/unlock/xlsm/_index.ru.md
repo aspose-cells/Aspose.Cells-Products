@@ -1,7 +1,7 @@
-﻿---
+---
 title: Разблокировать документ XLSM через Java 
 weight: 7700
-url: /ru/java/unlock/xlsm/ 
+
 description: Пример кода Java для разблокировки защищенного паролем файла XLSM в Java среде выполнения для приложений JSP/JSF и настольных приложений.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

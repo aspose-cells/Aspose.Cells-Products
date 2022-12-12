@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++アプリケーションを介してXLSをSPREADSHEETMLに変換します 
-url: /ja/cpp/conversion/xls-to-spreadsheetml/ 
+
 description: XLSドキュメントからSPREADSHEETML形式へのサンプルC++変換コード。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でXLSからSPREADSHEETMLへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

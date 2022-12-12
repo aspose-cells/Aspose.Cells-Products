@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование ODS в BMP через C#
-url: /ru/net/conversion/ods-to-bmp/
+
 description: Пример кода для преобразования ods в bmp C#. Используйте пример кода API для пакетного преобразования файлов ods в bmp в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

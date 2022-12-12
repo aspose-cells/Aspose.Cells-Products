@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLSB в PNG через C#
-url: /ru/net/conversion/xlsb-to-png/
+
 description: Пример кода для преобразования xlsb в png C#. Используйте пример кода API для пакетного преобразования файлов xlsb в png в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

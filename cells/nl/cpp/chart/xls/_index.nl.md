@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLS-documentdiagram via C++ 
 weight: 2500
-url: /nl/cpp/chart/xls/ 
+
 description: C++ voorbeeldcode om een grafiek of diagram in XLS-bestand te tekenen en om te zetten in C++ Runtime Environment voor Windows 32 bit, Windows 64 bit en Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

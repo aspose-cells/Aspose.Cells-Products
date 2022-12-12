@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter SXC para SPREADSHEETML via C#
-url: /pt/net/conversion/sxc-to-spreadsheetml/
+
 description: Código de exemplo para conversão de sxc para planilhaml C#. Use API código de exemplo para arquivos sxc em lote para conversão de planilhaml em VB.NET, Asp.NET ou qualquer aplicativo baseado em .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

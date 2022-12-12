@@ -1,7 +1,7 @@
-﻿---
+---
 title: Rapporten genereren in XLS-bestanden via .NET 
 weight: 1700
-url: /nl/net/assembly/xls/ 
+
 description: C# broncode om rapporten in XLS-indeling te genereren op .NET Framework-, .NET Core-, Mono- of Xamarin-platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: MHTML को JSON में Python के माध्यम से कनवर्ट करें
-url: /hi/python-java/conversion/mhtml-to-json/
+
 description: mhtml से json Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर बैच एमएचटीएमएल फाइलों से जोंस रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

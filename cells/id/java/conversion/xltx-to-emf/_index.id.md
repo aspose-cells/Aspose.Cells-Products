@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversikan XLTX ke EMF melalui Java 
 weight: 6710
-url: /id/java/conversion/xltx-to-emf/ 
+
 description: Contoh Java kode konversi untuk format XLTX ke file EMF. Pemrogram dapat menggunakan kode contoh ini untuk mengekspor spreadsheet Excel & OpenOffice ke EMF dalam Aplikasi berbasis Web atau Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

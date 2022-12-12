@@ -1,6 +1,6 @@
-﻿---
+---
 title: Wandeln Sie TABDELIMITED über C# in MARKDOWN um
-url: /de/net/conversion/tabdelimited-to-markdown/
+
 description: Beispielcode für die Konvertierung von tabulatorgetrennt zu Markdown C#. Verwenden Sie API Beispielcode für tabulatorgetrennte Stapeldateien für die Markdown-Konvertierung in VB.NET, Asp.NET oder einer beliebigen .NET-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

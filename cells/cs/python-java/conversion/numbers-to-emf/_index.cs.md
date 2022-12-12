@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést NUMBERS na EMF přes Python
-url: /cs/python-java/conversion/numbers-to-emf/
+
 description: Ukázkový kód pro převod čísel na emf Python. Použijte API ukázkový kód pro dávkové soubory čísel na převod EMF v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer SPREADSHEETML naar XLSX via C++ applicatie 
-url: /nl/cpp/conversion/spreadsheetml-to-xlsx/ 
+
 description: Voorbeeld C++-conversiecode voor SPREADSHEETML-document naar XLSX-indeling. Programmeurs kunnen deze broncode gebruiken voor batch-conversie van SPREADSHEETML naar XLSX binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

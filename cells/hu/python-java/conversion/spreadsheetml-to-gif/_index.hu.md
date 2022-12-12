@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SPREADSHEETML konvertálása GIF formátumba a következőn keresztül: Python"
-url: /hu/python-java/conversion/spreadsheetml-to-gif/
+
 description: Mintakód a táblázatkezelőből gif-be Python. Használjon API példakódot kötegelt táblázatkezelő fájlok gif-konverziójához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to SXC via Python
-url: /python-java/conversion/txt-to-sxc/
+
 description: Convert TXT to SXC format in Python code. Save TXT as SXC using Python.
 ---
 

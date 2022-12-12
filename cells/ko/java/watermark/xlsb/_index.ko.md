@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java을 통한 XLSB 문서 워터마크 
 weight: 5900
-url: /ko/java/watermark/xlsb/ 
+
 description: Java JSP/JSF 애플리케이션 및 데스크톱 애플리케이션용 런타임 환경의 Java XLSB 파일에 워터마크를 추가하거나 제거하는 샘플 코드.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

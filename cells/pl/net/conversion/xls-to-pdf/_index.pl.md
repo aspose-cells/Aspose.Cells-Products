@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj XLS na PDF przez C#
-url: /pl/net/conversion/xls-to-pdf/
+
 description: Przykładowy kod konwersji xls do pdf C#. Użyj przykładowego kodu API dla plików wsadowych xls do konwersji pdf w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

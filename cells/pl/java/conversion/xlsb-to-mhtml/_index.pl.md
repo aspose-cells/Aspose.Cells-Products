@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konwertuj XLSB na MHTML przez Java 
 weight: 4300
-url: /pl/java/conversion/xlsb-to-mhtml/ 
+
 description: Przykładowy kod konwersji Java dla formatu XLSB do pliku MHTML. Programiści mogą użyć tego przykładowego kodu do eksportowania arkuszy kalkulacyjnych Excel i OpenOffice do MHTML w dowolnej aplikacji internetowej lub desktopowej Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

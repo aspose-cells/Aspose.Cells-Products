@@ -1,7 +1,7 @@
 ---
 title: Split XLS Files via .NET 
 weight: 1340
-url: /net/splitter/xls/ 
+
 description: C# source code to split XLS documents on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

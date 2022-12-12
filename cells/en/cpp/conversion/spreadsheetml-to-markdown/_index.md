@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to MARKDOWN via C++
-url: /cpp/conversion/spreadsheetml-to-markdown/
+
 description: Convert SPREADSHEETML to MARKDOWN format in C++ code. Save SPREADSHEETML as MARKDOWN using C++.
 ---
 

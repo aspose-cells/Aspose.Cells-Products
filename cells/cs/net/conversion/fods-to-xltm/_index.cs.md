@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést FODS na XLTM přes C#
-url: /cs/net/conversion/fods-to-xltm/
+
 description: Ukázkový kód pro konverzi fod na xltm C#. Použijte API ukázkový kód pro dávkové soubory fods na xltm převod v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

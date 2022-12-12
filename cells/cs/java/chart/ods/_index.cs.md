@@ -1,7 +1,7 @@
-﻿---
+---
 title: Graf dokumentu ODS prostřednictvím Java 
 weight: 2240
-url: /cs/java/chart/ods/ 
+
 description: Java ukázkový kód pro kreslení a převod grafu nebo diagramu v souboru ODS v Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

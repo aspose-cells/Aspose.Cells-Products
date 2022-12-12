@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLSX-bestanden splitsen via .NET 
 weight: 1350
-url: /nl/net/splitter/xlsx/ 
+
 description: C# broncode om XLSX-documenten te splitsen op .NET Framework-, .NET Core-, Mono- of Xamarin-platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

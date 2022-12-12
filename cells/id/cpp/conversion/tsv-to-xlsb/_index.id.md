@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversi TSV ke XLSB melalui C++ aplikasi 
 weight: 1370
-url: /id/cpp/conversion/tsv-to-xlsb/ 
+
 description: Contoh C++ kode konversi untuk dokumen TSV ke format XLSB. Pemrogram dapat menggunakan kode sumber ini untuk konversi batch TSV ke XLSB dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Sloučit soubory TSV přes .NET 
 weight: 1360
-url: /cs/net/merger/tsv/ 
+
 description: Zdrojový kód C# pro kombinaci dokumentů TSV na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

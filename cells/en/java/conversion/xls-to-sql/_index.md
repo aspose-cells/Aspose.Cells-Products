@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to SQL via Java 
-url: /java/conversion/xls-to-sql/
+
 description: Convert XLS to SQL format in Java code. Save XLS as SQL using Java.
 ---
 

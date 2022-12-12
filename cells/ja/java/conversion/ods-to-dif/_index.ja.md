@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してODSをDIFに変換します 
 weight: 6760
-url: /ja/java/conversion/ods-to-dif/ 
+
 description: ODS形式からDIFファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のDIFにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

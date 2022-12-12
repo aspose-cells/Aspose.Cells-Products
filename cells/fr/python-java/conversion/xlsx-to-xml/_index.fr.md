@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir XLSX en XML via Python
-url: /fr/python-java/conversion/xlsx-to-xml/
+
 description: Exemple de code pour la conversion xlsx vers xml Python. Utilisez l'exemple de code API pour la conversion par lots de fichiers xlsx en xml dans l'application Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

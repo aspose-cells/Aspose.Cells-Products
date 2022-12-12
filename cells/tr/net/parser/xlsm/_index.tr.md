@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET aracılığıyla XLSM belgesinden metin ve resim ayıklayın 
 weight: 4010
-url: /tr/net/parser/xlsm/ 
+
 description: .NET Framework, .NET Core, Mono veya Xamarin Platformlarında XLSM dosyasından metin ve resim ayıklamak için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

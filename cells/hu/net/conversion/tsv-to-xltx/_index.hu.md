@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TSV konvertálása XLTX-re a következőn keresztül: C#"
-url: /hu/net/conversion/tsv-to-xltx/
+
 description: Mintakód a tsv–xltx C# konverzióhoz. Használjon API példakódot a tsv fájlok kötegelt xltx konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

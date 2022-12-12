@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 Python 將 XLTX 轉換為 TABDELIMITED
-url: /zh-hant/python-java/conversion/xltx-to-tabdelimited/
+
 description: xltx 到製表符分隔的 Python 轉換的示例代碼。使用 Python 應用程序中批處理 xltx 文件的 API 示例代碼到製表符分隔的轉換。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

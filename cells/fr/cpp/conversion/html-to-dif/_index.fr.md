@@ -1,7 +1,7 @@
-﻿---
+---
 title: Convertir HTML en DIF via l'application C++ 
 weight: 4790
-url: /fr/cpp/conversion/html-to-dif/ 
+
 description: Exemple de code de conversion C++ pour le document HTML au format DIF. Les programmeurs peuvent utiliser ce code source pour la conversion par lots de HTML en DIF dans n'importe quelle application C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

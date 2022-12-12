@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi HTML sang XML qua Python
-url: /vi/python-java/conversion/html-to-xml/
+
 description: Mã mẫu cho chuyển đổi html sang xml Python. Sử dụng mã mẫu API cho chuyển đổi hàng loạt tệp html sang xml trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

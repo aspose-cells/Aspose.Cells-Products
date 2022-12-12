@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java aracılığıyla TXT'yi XLT'ye dönüştürün 
 weight: 5000
-url: /tr/java/conversion/txt-to-xlt/ 
+
 description: TXT biçimi için XLT dosyasına örnek Java dönüştürme kodu. Programcılar, Excel ve OpenOffice elektronik tablolarını herhangi bir Web veya Masaüstü Java tabanlı Uygulamada XLT'ye aktarmak için bu örnek kodu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

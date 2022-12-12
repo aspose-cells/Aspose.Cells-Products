@@ -1,7 +1,7 @@
-﻿---
+---
 title: แยกข้อความและรูปภาพจากเอกสาร ODS ผ่าน C++ 
 weight: 9130
-url: /th/cpp/parser/ods/ 
+
 description: C++ ตัวอย่างโค้ดเพื่อแยกข้อความและรูปภาพจากไฟล์ ODS บน C++ Runtime Environment สำหรับ Windows 32 บิต, Windows 64 บิต และ Linux 64 บิต
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

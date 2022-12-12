@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to FODS via C++
-url: /cpp/conversion/tabdelimited-to-fods/
+
 description: Convert TABDELIMITED to FODS format in C++ code. Save TABDELIMITED as FODS using C++.
 ---
 

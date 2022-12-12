@@ -1,7 +1,7 @@
-﻿---
+---
 title: Tách tệp XLS qua .NET 
 weight: 1340
-url: /vi/net/splitter/xls/ 
+
 description: C# mã nguồn để tách các tài liệu XLS trên Nền tảng .NET Framework, .NET Core Mono hoặc Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

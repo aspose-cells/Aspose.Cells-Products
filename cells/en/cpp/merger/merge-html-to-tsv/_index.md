@@ -1,6 +1,6 @@
 ---
 title: Merge HTML to TSV Files via C++ 
-url: /cpp/merger/merge-html-to-tsv/ 
+
 description: Merge HTML to TSV file in C++ code. Combine HTML to TSV file using C++.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Rozdělit tabulku Excel na listy v Java
-url: /cs/java/splitter/
+
 description: Java zdrojové kódy, které vysvětlují, jak rozdělit soubory Microsoft Excel do více dokumentů pomocí knihovny Excel Java
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

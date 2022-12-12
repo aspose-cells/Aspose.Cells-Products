@@ -1,7 +1,7 @@
-﻿---
+---
 title: Genere informes en archivos XLSB a través de Java 
 weight: 3560
-url: /es/java/assembly/xlsb/ 
+
 description: Java código de ejemplo para crear informes en formato XLSB en Java entorno de tiempo de ejecución para aplicaciones JSP/JSF y aplicaciones de escritorio.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

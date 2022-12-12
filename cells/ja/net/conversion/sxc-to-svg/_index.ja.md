@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してSXCをSVGに変換する
-url: /ja/net/conversion/sxc-to-svg/
+
 description: sxcからsvgC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチsxcファイルからsvgへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to JPEG via C++
-url: /cpp/conversion/spreadsheetml-to-jpeg/
+
 description: Convert SPREADSHEETML to JPEG format in C++ code. Save SPREADSHEETML as JPEG using C++.
 ---
 

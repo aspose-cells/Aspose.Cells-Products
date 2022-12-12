@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést SPREADSHEETML na JSON prostřednictvím Python
-url: /cs/python-java/conversion/spreadsheetml-to-json/
+
 description: Ukázkový kód pro převod tabulky ml na JSON Python. Použijte API ukázkový kód pro dávkový převod tabulkových souborů ml na json v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

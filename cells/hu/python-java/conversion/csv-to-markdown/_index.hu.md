@@ -1,6 +1,6 @@
-﻿---
+---
 title: "CSV konvertálása MARKDOWN formátumba a következőn keresztül: Python"
-url: /hu/python-java/conversion/csv-to-markdown/
+
 description: Mintakód a csv-hez a Python konverzióhoz. Használjon API példakódot kötegelt csv-fájlokhoz a konverzió leértékeléséhez a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

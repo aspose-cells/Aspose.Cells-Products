@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل FODS إلى HTML عبر C#
-url: /ar/net/conversion/fods-to-html/
+
 description: نموذج كود للتحويل من fods إلى html C#. استخدم API رمز المثال لملفات fods الدفعية لتحويل html داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Merge TSV to HTML Files via Python 
-url: /python-net/merger/merge-tsv-to-html/ 
+
 description: Merge TSV to HTML file in Python code. Combine TSV to HTML file using Python.
 ---
 

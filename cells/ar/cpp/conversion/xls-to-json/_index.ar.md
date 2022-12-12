@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLS إلى JSON عبر تطبيق C++ 
-url: /ar/cpp/conversion/xls-to-json/ 
+
 description: نموذج رمز تحويل C++ لمستند XLS إلى تنسيق JSON. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل XLS إلى JSON دفعة داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

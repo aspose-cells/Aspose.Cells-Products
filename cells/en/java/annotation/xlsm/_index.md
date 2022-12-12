@@ -1,7 +1,7 @@
 ---
 title: Remove XLSM Annotation via Java 
 weight: 2860
-url: /java/annotation/xlsm/ 
+
 description: Java sample code to delete XLSM format annotations on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

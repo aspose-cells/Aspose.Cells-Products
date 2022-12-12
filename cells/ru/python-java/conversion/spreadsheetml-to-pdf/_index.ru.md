@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование SPREADSHETML в PDF с помощью Python
-url: /ru/python-java/conversion/spreadsheetml-to-pdf/
+
 description: Пример кода для преобразования электронной таблицыml в pdf Python. Используйте пример кода API для пакетного преобразования файлов электронной таблицыml в pdf в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

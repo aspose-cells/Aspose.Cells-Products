@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer ODS naar XLTM via C++ applicatie 
 weight: 7720
-url: /nl/cpp/conversion/ods-to-xltm/ 
+
 description: Voorbeeld C++ conversiecode voor ODS-document naar XLTM-indeling. Programmeurs kunnen deze broncode gebruiken voor batchconversie van ODS naar XLTM binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

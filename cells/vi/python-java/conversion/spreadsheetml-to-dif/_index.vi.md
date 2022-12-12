@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi SPREADSHEETML sang DIF qua Python
-url: /vi/python-java/conversion/spreadsheetml-to-dif/
+
 description: Mã mẫu cho chuyển đổi từ bảng tínhml sang dif Python. Sử dụng API mã ví dụ cho hàng loạt tệpml bảng tính để chuyển đổi khác trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

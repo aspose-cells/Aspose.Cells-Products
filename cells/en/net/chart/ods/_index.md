@@ -1,7 +1,7 @@
 ---
 title:  ODS document chart to images via .NET 
 weight: 4360
-url: /net/chart/ods/ 
+
 description: C# source code to draw and convert chart or diagram in ODS file on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

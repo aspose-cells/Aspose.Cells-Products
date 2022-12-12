@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertera XLSB till HTML via Java 
 weight: 6480
-url: /sv/java/conversion/xlsb-to-html/ 
+
 description: Exempel Java-konverteringskod för XLSB-format till HTML-fil. Programmerare kan använda den här exempelkoden för att exportera Excel- och OpenOffice-kalkylblad till HTML inom alla webb- eller skrivbordsbaserade Java-applikationer.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

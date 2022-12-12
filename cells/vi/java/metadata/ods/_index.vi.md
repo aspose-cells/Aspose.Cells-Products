@@ -1,7 +1,7 @@
-﻿---
+---
 title: Chỉnh sửa hoặc Xem Siêu dữ liệu Tệp ODS qua Java 
 weight: 2080
-url: /vi/java/metadata/ods/ 
+
 description: Java mã mẫu để chỉnh sửa hoặc xem siêu dữ liệu định dạng ODS trên Java Môi trường thời gian chạy cho Ứng dụng JSP / JSF và Ứng dụng máy tính để bàn.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

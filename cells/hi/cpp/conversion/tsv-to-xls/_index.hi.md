@@ -1,7 +1,7 @@
-﻿---
+---
 title: TSV को C++ एप्लिकेशन के द्वारा XLS में बदलें 
 weight: 630
-url: /hi/cpp/conversion/tsv-to-xls/ 
+
 description: नमूना C++ TSV दस्तावेज़ के लिए XLS प्रारूप में रूपांतरण कोड। प्रोग्रामर इस स्रोत कोड का उपयोग किसी भी C++ एप्लिकेशन में बैच TSV से XLS रूपांतरण के लिए कर सकते हैं।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

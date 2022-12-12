@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してCSVをMHTMLに変換する
-url: /ja/net/conversion/csv-to-mhtml/
+
 description: csvからmhtmlC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチcsvファイルからmhtmlへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

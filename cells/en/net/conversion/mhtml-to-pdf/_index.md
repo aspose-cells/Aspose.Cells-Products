@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to PDF via C#
-url: /net/conversion/mhtml-to-pdf/
+
 description: Convert MHTML to PDF format in C# code. Save MHTML as PDF using VB.NET, Asp.NET or any .NET based application.
 ---
 

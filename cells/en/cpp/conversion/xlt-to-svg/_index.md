@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to SVG via C++
-url: /cpp/conversion/xlt-to-svg/
+
 description: Convert XLT to SVG format in C++ code. Save XLT as SVG using C++.
 ---
 

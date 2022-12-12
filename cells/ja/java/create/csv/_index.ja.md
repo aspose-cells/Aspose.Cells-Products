@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してCSVファイルを作成する 
-url: /ja/java/create-csv/ 
+
 description: JavaCSVドキュメントを生成するためのサンプルコード。このコードを使用して、JavaベースのデスクトップまたはWebアプリケーション内にCSVファイルを作成します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

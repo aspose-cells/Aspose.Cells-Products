@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++アプリケーションを介してHTMLをXLSBに変換する 
 weight: 4050
-url: /ja/cpp/conversion/html-to-xlsb/ 
+
 description: HTMLドキュメントからXLSB形式へのサンプルC++変換コード。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でHTMLからXLSBへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

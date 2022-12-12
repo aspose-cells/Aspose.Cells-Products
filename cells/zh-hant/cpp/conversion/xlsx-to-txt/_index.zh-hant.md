@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 C++ 應用程序將 XLSX 轉換為 TXT 
-url: /zh-hant/cpp/conversion/xlsx-to-txt/ 
+
 description: XLSX 文檔到 TXT 格式的示例 C++ 轉換代碼。程序員可以使用此源代碼在任何 C++ 應用程序中將 XLSX 批量轉換為 TXT。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

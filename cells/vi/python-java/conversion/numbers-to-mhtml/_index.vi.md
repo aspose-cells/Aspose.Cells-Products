@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển NUMBERS thành MHTML qua Python
-url: /vi/python-java/conversion/numbers-to-mhtml/
+
 description: Mã mẫu cho chuyển đổi số thành mhtml Python. Sử dụng API mã mẫu cho các tệp số lô để chuyển đổi mhtml trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

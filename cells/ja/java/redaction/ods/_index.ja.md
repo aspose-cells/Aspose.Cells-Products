@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してODSドキュメント内のテキストを検索して置換します 
 weight: 9210
-url: /ja/java/redaction/ods/ 
+
 description: Java JSP/JSFアプリケーションおよびデスクトップアプリケーションのランタイム環境でODSファイルの機密情報を編集するためのサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést SPREADSHEETML na BMP přes C#
-url: /cs/net/conversion/spreadsheetml-to-bmp/
+
 description: Ukázkový kód pro převod tabulky ml na bmp C#. Použijte API ukázkový kód pro dávkové soubory tabulekml na převod bmp v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla XLSX'i PNG'ye dönüştürün
-url: /tr/net/conversion/xlsx-to-png/
+
 description: xlsx'ten png'ye C# dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu xlsx dosyalarını png'ye dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

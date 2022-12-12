@@ -1,7 +1,7 @@
 ---
 title: Generate Reports in XLSB Files via .NET 
 weight: 1690
-url: /net/assembly/xlsb/ 
+
 description: C# source code to generate XLSB format reports on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

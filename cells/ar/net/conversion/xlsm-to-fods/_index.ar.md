@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLSM إلى FODS عبر C#
-url: /ar/net/conversion/xlsm-to-fods/
+
 description: نموذج كود لتحويل xlsm إلى fods C#. استخدم API رمز المثال لملفات xlsm الدفعية لتحويل fods داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

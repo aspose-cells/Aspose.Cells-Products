@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή SPREADSHEETML σε PDF μέσω C#
-url: /el/net/conversion/spreadsheetml-to-pdf/
+
 description: Δείγμα κώδικα για μετατροπή υπολογιστικού φύλλου σε pdf C#. Χρησιμοποιήστε API παράδειγμα κώδικα για μαζική μετατροπή αρχείων υπολογιστικών φύλλων σε pdf σε VB.NET, Asp.NET ή οποιαδήποτε εφαρμογή που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

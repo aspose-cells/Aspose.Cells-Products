@@ -1,6 +1,6 @@
-﻿---
+---
 title: Tạo Tệp TSV qua Python 
-url: /vi/python-java/create-tsv/ 
+
 description: Python Mã mẫu để tạo tài liệu TSV. Sử dụng mã này để tạo tệp TSV trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

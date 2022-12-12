@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل HTML إلى SPREADSHEETML عبر Java 
-url: /ar/java/conversion/html-to-spreadsheetml/ 
+
 description: نموذج رمز تحويل Java لتنسيق HTML إلى ملف SPREADSHEETML. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel و OpenOffice إلى SPREADSHEETML داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

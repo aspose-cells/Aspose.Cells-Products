@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertálja az XLS-t SVG-vé a C++ alkalmazással 
 weight: 2060
-url: /hu/cpp/conversion/xls-to-svg/ 
+
 description: Minta C++ konverziós kód XLS dokumentumhoz SVG formátumba. A programozók ezt a forráskódot használhatják kötegelt XLS-ből SVG-vé konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

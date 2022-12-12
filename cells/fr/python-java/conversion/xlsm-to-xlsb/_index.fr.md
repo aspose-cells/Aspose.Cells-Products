@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir XLSM en XLSB via Python
-url: /fr/python-java/conversion/xlsm-to-xlsb/
+
 description: Exemple de code pour la conversion xlsm vers xlsb Python. Utilisez l'exemple de code API pour la conversion par lots de fichiers xlsm en xlsb dans l'application Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

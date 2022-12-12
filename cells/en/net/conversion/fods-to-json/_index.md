@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to JSON via C#
-url: /net/conversion/fods-to-json/
+
 description: Convert FODS to JSON format in C# code. Save FODS as JSON using VB.NET, Asp.NET or any .NET based application.
 ---
 

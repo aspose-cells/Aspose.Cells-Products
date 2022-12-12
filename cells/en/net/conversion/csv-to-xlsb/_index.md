@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to XLSB via C#
-url: /net/conversion/csv-to-xlsb/
+
 description: Convert CSV to XLSB format in C# code. Save CSV as XLSB using VB.NET, Asp.NET or any .NET based application.
 ---
 

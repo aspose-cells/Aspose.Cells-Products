@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TXT na GIF přes C#
-url: /cs/net/conversion/txt-to-gif/
+
 description: Ukázkový kód pro převod txt na gif C#. Použijte API ukázkový kód pro dávkový převod souborů txt na gif v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

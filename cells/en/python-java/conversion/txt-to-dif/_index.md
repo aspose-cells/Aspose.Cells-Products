@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to DIF via Python
-url: /python-java/conversion/txt-to-dif/
+
 description: Convert TXT to DIF format in Python code. Save TXT as DIF using Python.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla FODS'u PNG'ye dönüştürün
-url: /tr/python-java/conversion/fods-to-png/
+
 description: Yemlerden png'ye Python dönüştürme için örnek kod. Python uygulamasında toplu dosya dosyalarının png'ye dönüştürülmesi için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

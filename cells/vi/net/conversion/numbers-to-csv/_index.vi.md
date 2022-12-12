@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi NUMBERS thành CSV qua C#
-url: /vi/net/conversion/numbers-to-csv/
+
 description: Mã mẫu cho chuyển đổi số thành csv C#. Sử dụng API mã ví dụ cho các tệp số lô để chuyển đổi csv trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

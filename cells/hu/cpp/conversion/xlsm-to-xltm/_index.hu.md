@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLSM-et XLTM-re a(z) C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/xlsm-to-xltm/ 
+
 description: Minta C++ konverziós kód az XLSM dokumentumhoz XLTM formátumba. A programozók ezt a forráskódot használhatják kötegelt XLSM-XLTM konvertáláshoz bármely C++ alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

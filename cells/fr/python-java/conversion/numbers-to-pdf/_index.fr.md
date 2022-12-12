@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir NUMBERS en PDF via Python
-url: /fr/python-java/conversion/numbers-to-pdf/
+
 description: Exemple de code pour la conversion des nombres en pdf Python. Utilisez l'exemple de code API pour les fichiers de numéros de lot en conversion pdf dans l'application Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

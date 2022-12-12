@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLT-t PDF-be a C++ alkalmazással 
-url: /hu/cpp/conversion/xlt-to-pdf/ 
+
 description: Minta C++ konverziós kód XLT-dokumentumhoz PDF formátumba. A programozók ezt a forráskódot használhatják az XLT-ből PDF-be történő kötegelt konvertáláshoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

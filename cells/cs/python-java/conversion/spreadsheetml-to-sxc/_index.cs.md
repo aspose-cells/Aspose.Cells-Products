@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést SPREADSHEETML na SXC přes Python
-url: /cs/python-java/conversion/spreadsheetml-to-sxc/
+
 description: Ukázkový kód pro převod tabulky ml na sxc Python. Použijte API ukázkový kód pro dávkový převod tabulkových souborů ml na sxc v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

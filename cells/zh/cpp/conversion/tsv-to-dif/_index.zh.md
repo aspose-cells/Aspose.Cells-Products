@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通过 C++ 应用程序将 TSV 转换为 DIF 
 weight: 2350
-url: /zh/cpp/conversion/tsv-to-dif/ 
+
 description: TSV 文档到 DIF 格式的示例 C++ 转换代码。程序员可以在任何 C++ 应用程序中使用此源代码进行批量 TSV 到 DIF 的转换。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

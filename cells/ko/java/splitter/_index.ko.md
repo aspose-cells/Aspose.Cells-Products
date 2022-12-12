@@ -1,6 +1,6 @@
-﻿---
+---
 title: Excel 스프레드시트를 Java의 워크시트로 분할
-url: /ko/java/splitter/
+
 description: Java Excel 라이브러리를 사용하여 Microsoft Excel 파일을 여러 문서로 분할하는 방법을 설명하는 Java 소스 코드
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

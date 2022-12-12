@@ -1,7 +1,7 @@
-﻿---
+---
 title: Unisci file HTML tramite .NET 
 weight: 9440
-url: /it/net/merger/html/ 
+
 description: C# codice sorgente per combinare documenti HTML su piattaforme .NET Framework, .NET Core, Mono o Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

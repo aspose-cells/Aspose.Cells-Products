@@ -1,7 +1,7 @@
-﻿---
+---
 title: Lindungi dan kunci dokumen XLSB melalui C++ 
 weight: 4860
-url: /id/cpp/protect/xlsb/ 
+
 description: C++ contoh kode untuk mengunci file XLSB menggunakan sandi pada C++ Runtime Environment untuk Windows 32 bit, Windows 64 bit dan Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

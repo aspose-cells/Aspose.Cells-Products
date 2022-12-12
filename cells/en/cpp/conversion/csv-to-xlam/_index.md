@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to XLAM via C++
-url: /cpp/conversion/csv-to-xlam/
+
 description: Convert CSV to XLAM format in C++ code. Save CSV as XLAM using C++.
 ---
 

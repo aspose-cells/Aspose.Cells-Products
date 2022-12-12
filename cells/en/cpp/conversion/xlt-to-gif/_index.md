@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to GIF via C++
-url: /cpp/conversion/xlt-to-gif/
+
 description: Convert XLT to GIF format in C++ code. Save XLT as GIF using C++.
 ---
 

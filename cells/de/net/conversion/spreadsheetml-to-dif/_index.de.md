@@ -1,6 +1,6 @@
-﻿---
+---
 title: Wandeln Sie SPREADSHEETML in DIF über C# um
-url: /de/net/conversion/spreadsheetml-to-dif/
+
 description: Beispielcode für Spreadsheetml zum Dif C# Conversion. Verwenden Sie API Beispielcode für Batch-Spreadsheetml-Dateien, um die Konvertierung innerhalb von VB.NET, Asp.NET oder einer beliebigen .NET-basierten Anwendung zu unterscheiden.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

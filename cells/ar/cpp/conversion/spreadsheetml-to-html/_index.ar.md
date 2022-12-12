@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل SPREADSHEETML إلى HTML عبر التطبيق C++ 
-url: /ar/cpp/conversion/spreadsheetml-to-html/ 
+
 description: نموذج رمز تحويل C++ لمستند SPREADSHEETML إلى تنسيق HTML. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل SPREADSHEETML دفعة واحدة إلى HTML داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

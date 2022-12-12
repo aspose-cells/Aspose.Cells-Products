@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converti SPREADSHEETML in XLS tramite C#
-url: /it/net/conversion/spreadsheetml-to-xls/
+
 description: Codice di esempio per la conversione da foglio di calcoloml a xls C#. Utilizza API codice di esempio per la conversione batch di file da fogli di lavoro ml in xls all'interno di VB.NET, Asp.NET o qualsiasi applicazione basata su .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

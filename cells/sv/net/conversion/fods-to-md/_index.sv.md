@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera FODS till MD via C#
-url: /sv/net/conversion/fods-to-md/
+
 description: Exempelkod för fods till md C#-konvertering. Använd API exempelkod för batch fods-filer till md-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

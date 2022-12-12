@@ -1,7 +1,7 @@
-﻿---
+---
 title: Dividi i file XLSX tramite .NET 
 weight: 1350
-url: /it/net/splitter/xlsx/ 
+
 description: C# codice sorgente per dividere i documenti XLSX su piattaforme .NET Framework, .NET Core, Mono o Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

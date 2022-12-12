@@ -1,7 +1,7 @@
-﻿---
+---
 title: دمج ملفات XLT عبر .NET 
 weight: 1820
-url: /ar/net/merger/xlt/ 
+
 description: C# شفرة المصدر لدمج مستندات XLT في .NET Framework أو .NET Core أو Mono أو أنظمة Xamarin الأساسية.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή JSON σε XLSX μέσω Python
-url: /el/python-java/conversion/json-to-xlsx/
+
 description: Δείγμα κώδικα για μετατροπή json σε xlsx Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδική μετατροπή αρχείων json σε xlsx εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

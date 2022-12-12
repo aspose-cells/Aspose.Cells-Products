@@ -1,6 +1,6 @@
-﻿---
+---
 title: Создание файлов CSV через Python 
-url: /ru/python-java/create-csv/ 
+
 description: Python Пример кода для создания CSV-документов. Используйте этот код для создания файлов CSV в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

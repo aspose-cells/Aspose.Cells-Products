@@ -1,7 +1,7 @@
-﻿---
+---
 title: Sblocca il documento XLSX tramite .NET 
 weight: 2040
-url: /it/net/unlock/xlsx/ 
+
 description: C# codice sorgente per sbloccare il file XLSX protetto da password su piattaforme .NET Framework, .NET Core, Mono o Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

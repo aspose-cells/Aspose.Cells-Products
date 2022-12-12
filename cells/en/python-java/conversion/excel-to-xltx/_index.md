@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to XLTX via Python
-url: /python-java/conversion/excel-to-xltx/
+
 description: Convert EXCEL to XLTX format in Python code. Save EXCEL as XLTX using Python.
 ---
 

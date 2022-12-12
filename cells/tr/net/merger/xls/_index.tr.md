@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLS Dosyalarını .NET ile Birleştir 
 weight: 3000
-url: /tr/net/merger/xls/ 
+
 description: .NET Framework, .NET Core, Mono veya Xamarin Platformlarında XLS belgelerini birleştirmek için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

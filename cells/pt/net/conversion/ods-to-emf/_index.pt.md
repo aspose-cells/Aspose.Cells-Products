@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter ODS para EMF via C#
-url: /pt/net/conversion/ods-to-emf/
+
 description: Código de amostra para conversão de ods para emf C#. Use API código de exemplo para arquivos ods em lote para conversão emf em VB.NET, Asp.NET ou qualquer aplicativo baseado em .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

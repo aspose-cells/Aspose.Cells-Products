@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET Java C++ PHP és Android Excel táblázatelemző API-k 
 weight: 10
-url: /hu/family
+
 description: Könyvtárak olvasáshoz, íráshoz és Microsoft Excel-fájlok kezeléséhez .NET Java C++ Android és SharePoint alkalmazásokban. Munkalapok exportálása SSRS-ben és JasperReports-ban
 ---
 {{< blocks/products/pf/main-wrap-class >}}

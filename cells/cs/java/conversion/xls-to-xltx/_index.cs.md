@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést XLS na XLTX přes Java 
 weight: 4100
-url: /cs/java/conversion/xls-to-xltx/ 
+
 description: Ukázkový konverzní kód Java pro soubor ve formátu XLS na soubor XLTX. Programátoři mohou použít tento příklad kódu k exportu tabulek Excelu a OpenOffice do XLTX v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

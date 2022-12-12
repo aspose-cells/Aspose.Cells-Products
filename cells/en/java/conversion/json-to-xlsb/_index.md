@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to XLSB via Java 
-url: /java/conversion/json-to-xlsb/
+
 description: Convert JSON to XLSB format in Java code. Save JSON as XLSB using Java.
 ---
 

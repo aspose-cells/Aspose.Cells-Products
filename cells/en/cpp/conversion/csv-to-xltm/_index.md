@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to XLTM via C++
-url: /cpp/conversion/csv-to-xltm/
+
 description: Convert CSV to XLTM format in C++ code. Save CSV as XLTM using C++.
 ---
 

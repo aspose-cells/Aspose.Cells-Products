@@ -1,6 +1,6 @@
-﻿---
+---
 title: Vytvářejte soubory MS Excel XLTM prostřednictvím C++ 
-url: /cs/cpp/create-xltm/ 
+
 description: C++ Ukázkový kód pro generování souborů MS Excel XLTM. Tento kód použijte k vytváření souborů MS Excel XLTM v aplikaci založené na C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

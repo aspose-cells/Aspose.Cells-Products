@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to CSV via Python
-url: /python-net/conversion/mhtml-to-csv/
+
 description: Sample code for mhtml to csv Python conversion. Use API example code for batch mhtml files to csv conversion within Python application.
 ---
 

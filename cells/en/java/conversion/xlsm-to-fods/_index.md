@@ -1,6 +1,6 @@
 ---
 title: Convert XLSM to FODS via Java 
-url: /java/conversion/xlsm-to-fods/
+
 description: Convert XLSM to FODS format in Java code. Save XLSM as FODS using Java.
 ---
 

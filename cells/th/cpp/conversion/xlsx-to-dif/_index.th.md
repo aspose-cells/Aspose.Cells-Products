@@ -1,7 +1,7 @@
-﻿---
+---
 title: แปลง XLSX เป็น DIF ผ่าน C++ แอปพลิเคชัน 
 weight: 4180
-url: /th/cpp/conversion/xlsx-to-dif/ 
+
 description: ตัวอย่างรหัสการแปลง C++ สำหรับเอกสาร XLSX เป็นรูปแบบ DIF โปรแกรมเมอร์สามารถใช้ซอร์สโค้ดนี้สำหรับการแปลง XLSX เป็น DIF แบบแบตช์ภายในแอปพลิเคชัน C++ ใดๆ
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

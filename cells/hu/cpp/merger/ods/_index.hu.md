@@ -1,6 +1,6 @@
-﻿---
+---
 title: "ODS-fájlok egyesítése a következőn keresztül: C++ "
-url: /hu/cpp/merger/ods/ 
+
 description: C++ példakód az ODS-dokumentumok kombinálásához a C++ Runtime Environment for Windows 32 bit, a Windows 64 bit és a Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

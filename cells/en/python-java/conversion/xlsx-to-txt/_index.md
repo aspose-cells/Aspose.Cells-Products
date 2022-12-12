@@ -1,6 +1,6 @@
 ---
 title: Convert XLSX to TXT via Python
-url: /python-java/conversion/xlsx-to-txt/
+
 description: Convert XLSX to TXT format in Python code. Save XLSX as TXT using Python.
 ---
 

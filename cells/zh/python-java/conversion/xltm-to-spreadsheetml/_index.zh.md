@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 Python 将 XLTM 转换为 SPREADSHEETML
-url: /zh/python-java/conversion/xltm-to-spreadsheetml/
+
 description: xltm 到电子表格Python 转换的示例代码。在 Python 应用程序中使用 API 示例代码将 xltm 文件批量转换为电子表格。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

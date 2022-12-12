@@ -1,7 +1,7 @@
-﻿---
+---
 title: Αναζήτηση εγγράφου TSV χωρίς άνοιγμα μέσω .NET 
 weight: 2810
-url: /el/net/search/tsv/ 
+
 description: C# πηγαίος κώδικας για αναζήτηση λέξεων με μοτίβο σε αρχείο TSV σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

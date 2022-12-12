@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to XLS via Python
-url: /python-net/conversion/sxc-to-xls/
+
 description: Sample code for sxc to xls Python conversion. Use API example code for batch sxc files to xls conversion within Python application.
 ---
 

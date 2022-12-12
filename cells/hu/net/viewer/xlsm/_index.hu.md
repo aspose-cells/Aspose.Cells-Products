@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLSM fájlformátumok megtekintése a következőn keresztül: .NET "
 weight: 9980
-url: /hu/net/viewer/xlsm/ 
+
 description: C# forráskód az XLSM-dokumentumok betöltéséhez, megjelenítéséhez és megjelenítéséhez .NET Framework, .NET Core, Mono vagy Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

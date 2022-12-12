@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to XPS via C#
-url: /net/conversion/csv-to-xps/
+
 description: Convert CSV to XPS format in C# code. Save CSV as XPS using VB.NET, Asp.NET or any .NET based application.
 ---
 

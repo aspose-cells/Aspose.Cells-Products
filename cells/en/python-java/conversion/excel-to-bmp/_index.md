@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to BMP via Python
-url: /python-java/conversion/excel-to-bmp/
+
 description: Convert EXCEL to BMP format in Python code. Save EXCEL as BMP using Python.
 ---
 

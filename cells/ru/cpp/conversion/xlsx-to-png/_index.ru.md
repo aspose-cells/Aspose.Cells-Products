@@ -1,7 +1,7 @@
-﻿---
+---
 title: Преобразование XLSX в PNG с помощью приложения C++ 
 weight: 4660
-url: /ru/cpp/conversion/xlsx-to-png/ 
+
 description: Пример кода преобразования C++ для документа XLSX в формат PNG. Программисты могут использовать этот исходный код для пакетного преобразования XLSX в PNG в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

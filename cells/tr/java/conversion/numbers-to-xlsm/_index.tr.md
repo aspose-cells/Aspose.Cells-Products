@@ -1,6 +1,6 @@
-﻿---
+---
 title: NUMBERS'ı Java aracılığıyla XLSM'ye dönüştürün 
-url: /tr/java/conversion/numbers-to-xlsm/ 
+
 description: NUMBERS biçimi için XLSM dosyasına örnek Java dönüştürme kodu. Programcılar, Excel ve OpenOffice elektronik tablolarını herhangi bir Web veya Masaüstü Java tabanlı Uygulamada XLSM'ye aktarmak için bu örnek kodu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

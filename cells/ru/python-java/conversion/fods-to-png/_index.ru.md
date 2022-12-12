@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование FODS в PNG через Python
-url: /ru/python-java/conversion/fods-to-png/
+
 description: Пример кода для преобразования fods в png Python. Используйте пример кода API для пакетного преобразования файлов fods в png в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

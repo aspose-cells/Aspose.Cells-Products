@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj NUMBERS na XLAM przez Python
-url: /pl/python-java/conversion/numbers-to-xlam/
+
 description: Przykładowy kod liczb do konwersji xlam Python. Użyj przykładowego kodu API dla plików numerów partii do konwersji xlam w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

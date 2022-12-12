@@ -1,7 +1,7 @@
-﻿---
+---
 title: Поиск документа TXT без открытия через .NET 
 weight: 8410
-url: /ru/net/search/txt/ 
+
 description: Исходный код C# для поиска слов с шаблоном в файле TXT на платформах .NET Framework, .NET Core, Mono или Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

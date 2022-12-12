@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してMHTMLをTSVに変換する
-url: /ja/net/conversion/mhtml-to-tsv/
+
 description: mhtmlからtsvC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチmhtmlファイルからtsvへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

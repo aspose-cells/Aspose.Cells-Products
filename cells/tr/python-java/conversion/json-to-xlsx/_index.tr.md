@@ -1,6 +1,6 @@
-﻿---
+---
 title: JSON'u Python aracılığıyla XLSX'e dönüştürün
-url: /tr/python-java/conversion/json-to-xlsx/
+
 description: json'dan xlsx'e Python dönüştürme için örnek kod. Python uygulamasında toplu json dosyalarından xlsx'e dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "FODS konvertálása TSV-vé a következőn keresztül: Python"
-url: /hu/python-java/conversion/fods-to-tsv/
+
 description: Mintakód a fods to tsv Python konverziójához. Használjon API példakódot a fods fájlok kötegelt tsv konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to DIF via Python
-url: /python-net/conversion/xls-to-dif/
+
 description: Sample code for xls to dif Python conversion. Use API example code for batch xls files to dif conversion within Python application.
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: เอกสารลายน้ำ XLS ผ่าน .NET 
 weight: 3050
-url: /th/net/watermark/xls/ 
+
 description: C# ซอร์สโค้ดเพื่อเพิ่มหรือลบลายน้ำในไฟล์ XLS บน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

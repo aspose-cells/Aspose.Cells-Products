@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi SPREADSHEETML thành TABDELIMITED qua ứng dụng C++ 
-url: /vi/cpp/conversion/spreadsheetml-to-tabdelimited/ 
+
 description: Mã chuyển đổi C++ mẫu cho tài liệu SPREADSHEETML sang định dạng TABDELIMITED. Lập trình viên có thể sử dụng mã nguồn này để chuyển đổi hàng loạt SPREADSHEETML sang TABDELIMITED trong bất kỳ Ứng dụng C++ nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# के द्वारा पाई चार्ट बनाएं
-url: /hi/net/create-pie-chart/
+
 description: C# .NET लाइब्रेरी का उपयोग करके एक्सेल में पाई चार्ट बनाने के लिए नमूना कोड। वीबी.NET, एएसपी.NET या किसी .NET आधारित एप्लिकेशन के भीतर एमएस एक्सेल में पाई चार्ट बनाने के लिए इस कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

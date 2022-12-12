@@ -1,7 +1,7 @@
-﻿---
+---
 title: ดูรูปแบบไฟล์ XLSX ผ่าน .NET 
 weight: 2180
-url: /th/net/viewer/xlsx/ 
+
 description: C# ซอร์สโค้ดสำหรับโหลด แสดงผล และแสดงเอกสาร XLSX บน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

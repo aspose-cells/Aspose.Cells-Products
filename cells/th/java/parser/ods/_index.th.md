@@ -1,7 +1,7 @@
-﻿---
+---
 title: แยกข้อความและรูปภาพจากเอกสาร ODS ผ่าน Java 
 weight: 4740
-url: /th/java/parser/ods/ 
+
 description: Java โค้ดตัวอย่างเพื่อดึงข้อความและรูปภาพจากไฟล์ ODS บน Java Runtime Environment สำหรับแอปพลิเคชัน JSP/JSF และแอปพลิเคชันเดสก์ท็อป
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή HTML σε XML μέσω C#
-url: /el/net/conversion/html-to-xml/
+
 description: Δείγμα κώδικα για μετατροπή html σε xml C#. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδική μετατροπή αρχείων html σε xml εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

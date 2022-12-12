@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte TABDELIMITED na XLSM pomocí aplikace C++ 
-url: /cs/cpp/conversion/tabdelimited-to-xlsm/ 
+
 description: Ukázkový konverzní kód C++ pro dokument TABDELIMITED na formát XLSM. Programátoři mohou použít tento zdrojový kód pro dávkový převod TABDELIMITED na XLSM v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

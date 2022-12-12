@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLTX в GIF через C#
-url: /ru/net/conversion/xltx-to-gif/
+
 description: Пример кода для преобразования xltx в gif C#. Используйте пример кода API для пакетного преобразования файлов xltx в gif в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

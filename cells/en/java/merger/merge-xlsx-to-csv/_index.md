@@ -1,6 +1,6 @@
 ---
 title: Merge XLSX to CSV Files via Java 
-url: /java/merger/merge-xlsx-to-csv/ 
+
 description: Merge XLSX to CSV file in Java code. Combine XLSX to CSV file using Java based desktop or web application.
 ---
 

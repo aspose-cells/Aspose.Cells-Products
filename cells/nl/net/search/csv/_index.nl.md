@@ -1,7 +1,7 @@
-﻿---
+---
 title: Zoek CSV-document zonder te openen via .NET 
 weight: 7510
-url: /nl/net/search/csv/ 
+
 description: C# broncode om woorden met patroon in CSV-bestand te zoeken op .NET Framework, .NET Core, Mono of Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

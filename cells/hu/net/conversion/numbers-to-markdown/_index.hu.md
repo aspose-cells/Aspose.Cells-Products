@@ -1,6 +1,6 @@
-﻿---
+---
 title: "NUMBERS konvertálása MARKDOWN-re a következőn keresztül: C#"
-url: /hu/net/conversion/numbers-to-markdown/
+
 description: Mintakód számokhoz a C# konverzió leértékeléséhez. Használjon API példakódot kötegszámfájlokhoz a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazás konverziójának leértékeléséhez.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

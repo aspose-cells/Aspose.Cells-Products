@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter XLS para DIF via Python
-url: /pt/python-java/conversion/xls-to-dif/
+
 description: Código de exemplo para conversão xls para dif Python. Use o código de exemplo API para arquivos xls em lote para conversão diferente no aplicativo Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通过 Java 给 XLS 文档添加水印 
 weight: 2210
-url: /zh/java/watermark/xls/ 
+
 description: Java 示例代码，用于在 Java JSP/JSF 应用程序和桌面应用程序的运行时环境中的 XLS 文件中添加或删除水印。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

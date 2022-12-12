@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TXT إلى MHTML عبر Python
-url: /ar/python-java/conversion/txt-to-mhtml/
+
 description: نموذج رمز للتحويل من txt إلى mhtml Python. استخدم API رمز المثال لملفات txt الدفعية لتحويل mhtml داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

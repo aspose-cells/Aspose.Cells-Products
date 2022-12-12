@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง ODS เป็น DIF ผ่าน Python
-url: /th/python-java/conversion/ods-to-dif/
+
 description: โค้ดตัวอย่างสำหรับการแปลง ods ถึง Python ใช้โค้ดตัวอย่าง API สำหรับไฟล์ batch ods เพื่อแปลงเป็น dif ภายในแอปพลิเคชัน Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

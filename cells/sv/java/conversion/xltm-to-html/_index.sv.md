@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertera XLTM till HTML via Java 
 weight: 2930
-url: /sv/java/conversion/xltm-to-html/ 
+
 description: Exempel på Java-konverteringskod för XLTM-format till HTML-fil. Programmerare kan använda den här exempelkoden för att exportera Excel- och OpenOffice-kalkylblad till HTML inom alla webb- eller skrivbordsbaserade Java-applikationer.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

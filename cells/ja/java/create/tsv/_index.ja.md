@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してTSVファイルを作成する 
-url: /ja/java/create-tsv/ 
+
 description: JavaTSVドキュメントを生成するためのサンプルコード。このコードを使用して、JavaベースのデスクトップまたはWebアプリケーション内にTSVファイルを作成します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

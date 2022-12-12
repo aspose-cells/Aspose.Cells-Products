@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してXLSMをTXTに変換します 
 weight: 9530
-url: /ja/java/conversion/xlsm-to-txt/ 
+
 description: XLSM形式からTXTファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のTXTにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

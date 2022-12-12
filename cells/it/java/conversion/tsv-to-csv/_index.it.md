@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converti TSV in CSV tramite Java 
 weight: 1720
-url: /it/java/conversion/tsv-to-csv/ 
+
 description: Esempio di codice di conversione Java per il formato TSV in file CSV. I programmatori possono utilizzare questo codice di esempio per esportare fogli di calcolo Excel e OpenOffice in CSV all'interno di qualsiasi applicazione basata su Web o desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

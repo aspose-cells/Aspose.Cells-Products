@@ -1,7 +1,7 @@
-﻿---
+---
 title: TXT-bestanden samenvoegen via Java 
 weight: 4480
-url: /nl/java/merger/txt/ 
+
 description: Java voorbeeldcode om TXT-documenten te combineren op Java Runtime Environment voor JSP/JSF-applicaties en desktopapplicaties.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

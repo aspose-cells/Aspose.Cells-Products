@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir SPREADSHEETML en SVG via Python
-url: /fr/python-java/conversion/spreadsheetml-to-svg/
+
 description: Exemple de code pour la conversion de feuille de calcul en svg Python. Utilisez l'exemple de code API pour la conversion par lots de fichiers tableurml en svg dans l'application Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

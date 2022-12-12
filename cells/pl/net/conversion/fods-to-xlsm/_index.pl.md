@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj FODS na XLSM przez C#
-url: /pl/net/conversion/fods-to-xlsm/
+
 description: Przykładowy kod konwersji fod do xlsm C#. Użyj przykładowego kodu API dla plików wsadowych fods do konwersji xlsm w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

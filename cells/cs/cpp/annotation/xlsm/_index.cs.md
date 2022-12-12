@@ -1,7 +1,7 @@
-﻿---
+---
 title: Přidat anotaci XLSM prostřednictvím C++ 
 weight: 2860
-url: /cs/cpp/annotation/xlsm/ 
+
 description: C++ ukázkový kód pro odstranění anotací ve formátu XLSM v C++ Runtime Environment pro Windows 32bit, Windows 64bit a Linux 64bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

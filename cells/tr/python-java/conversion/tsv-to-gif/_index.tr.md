@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla TSV'yi GIF'e dönüştürün
-url: /tr/python-java/conversion/tsv-to-gif/
+
 description: tsv'den gif'e Python dönüşümü için örnek kod. Python uygulamasında toplu tsv dosyaları gif dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

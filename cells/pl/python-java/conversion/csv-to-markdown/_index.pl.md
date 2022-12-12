@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj CSV na MARKDOWN za pomocą Python
-url: /pl/python-java/conversion/csv-to-markdown/
+
 description: Przykładowy kod konwersji csv na przecenę Python. Użyj przykładowego kodu API dla wsadowych plików csv do konwersji przecen w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

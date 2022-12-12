@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj ODS na XLT za pomocą aplikacji C++ 
-url: /pl/cpp/conversion/ods-to-xlt/ 
+
 description: Przykładowy kod konwersji C++ dla dokumentu ODS do formatu XLT. Programiści mogą używać tego kodu źródłowego do wsadowej konwersji ODS na XLT w dowolnej aplikacji C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

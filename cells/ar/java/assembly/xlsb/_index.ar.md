@@ -1,7 +1,7 @@
-﻿---
+---
 title: إنشاء التقارير في ملفات XLSB عبر Java 
 weight: 3560
-url: /ar/java/assembly/xlsb/ 
+
 description: Java نموذج لرمز لإنشاء تقارير بتنسيق XLSB حول Java Runtime Environment لتطبيق JSP / JSF وتطبيقات سطح المكتب.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

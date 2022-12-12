@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLSM-et PDF-be a C++ alkalmazással 
-url: /hu/cpp/conversion/xlsm-to-pdf/ 
+
 description: Minta C++ konverziós kód az XLSM dokumentumhoz PDF formátumba. A programozók ezt a forráskódot használhatják kötegelt XLSM-ből PDF-be konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

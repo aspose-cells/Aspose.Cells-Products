@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง XLS เป็น SPREADSHEETML ผ่าน Python
-url: /th/python-java/conversion/xls-to-spreadsheetml/
+
 description: โค้ดตัวอย่างสำหรับการแปลง xls เป็น spreadsheetml Python ใช้โค้ดตัวอย่าง API สำหรับไฟล์แบตช์ xls เป็นการแปลงสเปรดชีตml ภายในแอปพลิเคชัน Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

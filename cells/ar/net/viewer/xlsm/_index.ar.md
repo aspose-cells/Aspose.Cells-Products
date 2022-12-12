@@ -1,7 +1,7 @@
-﻿---
+---
 title: عرض تنسيقات ملفات XLSM عبر .NET 
 weight: 9980
-url: /ar/net/viewer/xlsm/ 
+
 description: C# شفرة المصدر لتحميل مستندات XLSM وعرضها وعرضها على الأنظمة الأساسية .NET Framework أو .NET Core أو Mono أو Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

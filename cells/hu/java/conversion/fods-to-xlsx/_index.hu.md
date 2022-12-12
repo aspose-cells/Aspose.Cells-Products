@@ -1,6 +1,6 @@
-﻿---
+---
 title: "FODS konvertálása XLSX-re a következőn keresztül: Java "
-url: /hu/java/conversion/fods-to-xlsx/ 
+
 description: Minta Java konverziós kód FODS formátumhoz XLSX fájllá. A programozók ezt a példakódot használhatják Excel és OpenOffice táblázatok XLSX formátumba exportálására bármely web- vagy asztali Java alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

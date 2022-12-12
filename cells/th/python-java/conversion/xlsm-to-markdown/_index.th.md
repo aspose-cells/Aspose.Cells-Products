@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง XLSM เป็น MARKDOWN ผ่าน Python
-url: /th/python-java/conversion/xlsm-to-markdown/
+
 description: โค้ดตัวอย่างสำหรับการแปลง xlsm ถึง markdown Python ใช้โค้ดตัวอย่าง API สำหรับไฟล์ batch xlsm เพื่อแปลง markdown ภายในแอปพลิเคชัน Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

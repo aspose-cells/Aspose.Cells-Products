@@ -1,6 +1,6 @@
-﻿---
+---
 title: Buat File HTML melalui Java 
-url: /id/java/create-html/ 
+
 description: Java Contoh kode untuk membuat dokumen HTML. Gunakan kode ini untuk membuat file HTML dalam Java desktop atau aplikasi web berbasis Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

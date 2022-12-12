@@ -1,7 +1,7 @@
-﻿---
+---
 title: Редактировать или просматривать метаданные файлов XLSX через Java 
 weight: 1240
-url: /ru/java/metadata/xlsx/ 
+
 description: Java пример кода для редактирования или просмотра метаданных формата XLSX в Java среде выполнения для приложений JSP/JSF и настольных приложений.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Twórz pliki PDF za pomocą C++ 
-url: /pl/cpp/create-pdf/ 
+
 description: C++ Przykładowy kod do generowania plików PDF. Użyj tego kodu do tworzenia plików PDF w aplikacji opartej na C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

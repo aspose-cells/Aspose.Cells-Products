@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET üzerinden XLT Dosya Biçimlerini görüntüleyin 
 weight: 3610
-url: /tr/net/viewer/xlt/ 
+
 description: .NET Framework, .NET Core, Mono veya Xamarin Platformlarında XLT belgelerini yüklemek, oluşturmak ve görüntülemek için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

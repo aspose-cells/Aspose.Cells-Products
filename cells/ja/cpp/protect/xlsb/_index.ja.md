@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++を介してXLSBドキュメントを保護およびロックする 
 weight: 4860
-url: /ja/cpp/protect/xlsb/ 
+
 description: C++ Windows 32ビット、Windows 64ビット、およびLinux64ビットのC++ランタイム環境でパスワードを使用してXLSBファイルをロックするためのサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

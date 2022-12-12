@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLTM Dosyalarını Java ile Birleştir 
 weight: 8210
-url: /tr/java/merger/xltm/ 
+
 description: JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Runtime Environment'da XLTM belgelerini birleştirmek için Java örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TABDELIMITED إلى XPS عبر C#
-url: /ar/net/conversion/tabdelimited-to-xps/
+
 description: نموذج رمز لجدولة محدّدة لتحويل xps C#. استخدم API رمز المثال للملفات المحددة بعلامات جدولة لتحويل xps داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

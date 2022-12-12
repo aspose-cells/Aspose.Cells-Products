@@ -1,6 +1,6 @@
 ---
 title: Merge ODS to XLS Files via Java 
-url: /java/merger/merge-ods-to-xls/ 
+
 description: Merge ODS to XLS file in Java code. Combine ODS to XLS file using Java based desktop or web application.
 ---
 

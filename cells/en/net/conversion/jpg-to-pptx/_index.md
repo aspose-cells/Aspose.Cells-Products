@@ -1,6 +1,6 @@
 ---
 title: Convert JPG to PPTX via C#
-url: /net/conversion/jpg-to-pptx/
+
 description: Convert JPG to PPTX format in C# code. Save JPG as PPTX using VB.NET, Asp.NET or any .NET based application.
 ---
 

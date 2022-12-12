@@ -1,6 +1,6 @@
 ---
 title: Convert XLTM to SVG via Python
-url: /python-net/conversion/xltm-to-svg/
+
 description: Sample code for xltm to svg Python conversion. Use API example code for batch xltm files to svg conversion within Python application.
 ---
 

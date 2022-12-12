@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to XPS via Java 
-url: /java/conversion/tabdelimited-to-xps/
+
 description: Convert TABDELIMITED to XPS format in Java code. Save TABDELIMITED as XPS using Java.
 ---
 

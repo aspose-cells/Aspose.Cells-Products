@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLTM в XPS с помощью приложения C++ 
-url: /ru/cpp/conversion/xltm-to-xps/ 
+
 description: Пример кода преобразования C++ для документа XLTM в формат XPS. Программисты могут использовать этот исходный код для пакетного преобразования XLTM в XPS в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

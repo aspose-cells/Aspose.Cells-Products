@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TXT konvertálása PNG-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/txt-to-png/
+
 description: Mintakód a txt-ből png-be Python konverzióhoz. Használjon API példakódot kötegelt txt fájlok png konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

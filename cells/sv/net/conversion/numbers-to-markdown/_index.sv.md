@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera NUMBERS till MARKDOWN via C#
-url: /sv/net/conversion/numbers-to-markdown/
+
 description: Exempelkod för siffror för att markera C# omvandling. Använd API-exempelkod för batchnummerfiler för att avmarkera konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

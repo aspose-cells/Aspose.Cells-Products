@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLSM-fájlok szerkesztése a következőn keresztül: .NET "
-url: /hu/net/editor/xlsm/ 
+
 description: C# forráskód az XLSM-dokumentum szerkesztéséhez .NET Framework, .NET Core, Windows Azure, Mono vagy Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

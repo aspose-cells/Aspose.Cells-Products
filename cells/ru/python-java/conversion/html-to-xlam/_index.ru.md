@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование HTML в XLAM через Python
-url: /ru/python-java/conversion/html-to-xlam/
+
 description: Пример кода для преобразования html в xlam Python. Используйте пример кода API для пакетного преобразования файлов html в xlam в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

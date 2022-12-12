@@ -1,7 +1,7 @@
-﻿---
+---
 title: Преобразование JSON в JPEG через Java 
 weight: 5990
-url: /ru/java/conversion/json-to-jpeg/ 
+
 description: Пример кода преобразования Java для формата JSON в файл JPEG. Программисты могут использовать этот пример кода для экспорта электронных таблиц Excel и OpenOffice в формат JPEG в любом веб- или настольном Java приложении.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

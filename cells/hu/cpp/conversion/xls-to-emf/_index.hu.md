@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertálja az XLS-t EMF-re a(z) C++ alkalmazással 
 weight: 6870
-url: /hu/cpp/conversion/xls-to-emf/ 
+
 description: Minta C++ konverziós kód az XLS dokumentumhoz EMF formátumba. A programozók ezt a forráskódot használhatják a kötegelt XLS-ből EMF konvertáláshoz bármely C++ alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

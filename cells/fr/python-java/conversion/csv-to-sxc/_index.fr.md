@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir CSV en SXC via Python
-url: /fr/python-java/conversion/csv-to-sxc/
+
 description: Exemple de code pour la conversion csv vers sxc Python. Utilisez l'exemple de code API pour la conversion de fichiers csv par lots en sxc dans l'application Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

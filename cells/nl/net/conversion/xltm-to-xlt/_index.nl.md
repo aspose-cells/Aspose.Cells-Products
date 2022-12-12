@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLTM naar XLT via C#
-url: /nl/net/conversion/xltm-to-xlt/
+
 description: Voorbeeldcode voor xltm naar xlt C# conversie. Gebruik API voorbeeldcode voor batch xltm-bestanden naar xlt-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Wyszukaj i zamień tekst w dokumencie XLSM za pomocą .NET 
 weight: 2370
-url: /pl/net/redaction/xlsm/ 
+
 description: C# kod źródłowy do redagowania poufnych informacji w pliku XLSM na platformach .NET Framework, .NET Core, Mono lub Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

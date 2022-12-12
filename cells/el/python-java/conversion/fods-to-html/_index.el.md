@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή FODS σε HTML μέσω Python
-url: /el/python-java/conversion/fods-to-html/
+
 description: Δείγμα κώδικα για μετατροπή fods σε html Python. Χρησιμοποιήστε API παράδειγμα κώδικα για μετατροπή ομαδικών αρχείων fods σε html εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

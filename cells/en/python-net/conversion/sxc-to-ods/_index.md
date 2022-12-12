@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to ODS via Python
-url: /python-net/conversion/sxc-to-ods/
+
 description: Sample code for sxc to ods Python conversion. Use API example code for batch sxc files to ods conversion within Python application.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer FODS naar SVG via C#
-url: /nl/net/conversion/fods-to-svg/
+
 description: Voorbeeldcode voor conversie van fods naar svg C#. Gebruik API voorbeeldcode voor batch-fods-bestanden naar svg-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

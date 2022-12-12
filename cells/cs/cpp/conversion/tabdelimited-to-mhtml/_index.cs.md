@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte TABDELIMITED na MHTML pomocí aplikace C++ 
-url: /cs/cpp/conversion/tabdelimited-to-mhtml/ 
+
 description: Ukázkový konverzní kód C++ pro dokument TABDELIMITED do formátu MHTML. Programátoři mohou použít tento zdrojový kód pro dávkový převod TABDELIMITED na MHTML v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

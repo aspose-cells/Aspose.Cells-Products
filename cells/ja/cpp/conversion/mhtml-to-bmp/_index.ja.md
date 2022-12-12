@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++アプリケーションを介してMHTMLをBMPに変換する 
 weight: 1020
-url: /ja/cpp/conversion/mhtml-to-bmp/ 
+
 description: MHTMLドキュメントからBMP形式へのサンプルC++変換コード。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でMHTMLからBMPへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

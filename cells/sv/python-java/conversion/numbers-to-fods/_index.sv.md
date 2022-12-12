@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera NUMBERS till FODS via Python
-url: /sv/python-java/conversion/numbers-to-fods/
+
 description: Exempelkod för siffror till fods Python-konvertering. Använd API exempelkod för batchnummerfiler för att ge konvertering inom Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

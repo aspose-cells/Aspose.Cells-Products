@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to XLSB via Python
-url: /python-java/conversion/txt-to-xlsb/
+
 description: Convert TXT to XLSB format in Python code. Save TXT as XLSB using Python.
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konwertuj JSON na XLSX przez Java 
 weight: 8370
-url: /pl/java/conversion/json-to-xlsx/ 
+
 description: Przykładowy kod konwersji Java dla formatu JSON do pliku XLSX. Programiści mogą użyć tego przykładowego kodu, aby wyeksportować arkusze kalkulacyjne Excel i OpenOffice do XLSX w dowolnej aplikacji internetowej lub desktopowej Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

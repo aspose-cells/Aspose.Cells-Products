@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to WORD via Java 
-url: /java/conversion/spreadsheetml-to-word/
+
 description: Convert SPREADSHEETML to WORD format in Java code. Save SPREADSHEETML as WORD using Java.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 C# 將 XLTX 轉換為 SVG
-url: /zh-hant/net/conversion/xltx-to-svg/
+
 description: xltx 到 svg C# 轉換的示例代碼。在 VB.NET、Asp.NET 或任何基於 .NET 的應用程序中使用 API 示例代碼將批處理 xltx 文件轉換為 svg。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

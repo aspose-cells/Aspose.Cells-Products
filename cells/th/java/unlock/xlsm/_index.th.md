@@ -1,7 +1,7 @@
-﻿---
+---
 title: ปลดล็อกเอกสาร XLSM ผ่าน Java 
 weight: 7700
-url: /th/java/unlock/xlsm/ 
+
 description: Java ตัวอย่างโค้ดเพื่อปลดล็อกไฟล์ XLSM ที่ป้องกันด้วยรหัสผ่านบน Java Runtime Environment สำหรับแอปพลิเคชัน JSP/JSF และแอปพลิเคชันเดสก์ท็อป
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 C# 將 XLSM 轉換為 EMF
-url: /zh-hant/net/conversion/xlsm-to-emf/
+
 description: xlsm 到 emf C# 轉換的示例代碼。在 VB.NET、Asp.NET 或任何基於 .NET 的應用程序中使用 API 示例代碼將批量 xlsm 文件轉換為 emf。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

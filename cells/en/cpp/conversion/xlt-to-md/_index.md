@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to MD via C++
-url: /cpp/conversion/xlt-to-md/
+
 description: Convert XLT to MD format in C++ code. Save XLT as MD using C++.
 ---
 

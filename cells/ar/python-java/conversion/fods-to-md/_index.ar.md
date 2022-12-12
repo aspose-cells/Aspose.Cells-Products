@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل FODS إلى MD عبر Python
-url: /ar/python-java/conversion/fods-to-md/
+
 description: نموذج كود للتحويل من fods إلى md Python. استخدم API رمز المثال لملفات دفعات fods لتحويل md داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

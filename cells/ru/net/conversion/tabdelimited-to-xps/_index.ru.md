@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование TABDELIMITED в XPS через C#
-url: /ru/net/conversion/tabdelimited-to-xps/
+
 description: Пример кода для преобразования tabdelimited в xps C#. Используйте пример кода API для пакетного преобразования файлов с разделителями табуляции в XPS в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

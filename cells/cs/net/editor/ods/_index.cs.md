@@ -1,6 +1,6 @@
-﻿---
+---
 title: Upravit soubory ODS prostřednictvím .NET 
-url: /cs/net/editor/ods/ 
+
 description: C# zdrojový kód k úpravě dokumentu ODS na platformách .NET Framework, .NET Core, Windows Azure, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

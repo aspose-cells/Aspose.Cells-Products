@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل الأرقام إلى EMF عبر Python
-url: /ar/python-java/conversion/numbers-to-emf/
+
 description: نموذج رمز للأرقام لتحويل Python emf. استخدم API رمز المثال لملفات أرقام الدُفعات لتحويل emf داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
 ---
 title: Merge TXT Files via .NET 
 weight: 7350
-url: /net/merger/txt/ 
+
 description: C# source code to combine TXT documents on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to ODS via Python
-url: /python-java/conversion/csv-to-ods/
+
 description: Convert CSV to ODS format in Python code. Save CSV as ODS using Python.
 ---
 

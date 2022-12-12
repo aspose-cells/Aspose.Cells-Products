@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# üzerinden XLTX'i MARKDOWN'a dönüştürün
-url: /tr/net/conversion/xltx-to-markdown/
+
 description: C# dönüşümünü azaltmak için xltx için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde dönüştürmeyi işaretlemek için toplu xltx dosyaları için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

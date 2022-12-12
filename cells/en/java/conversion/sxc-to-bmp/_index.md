@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to BMP via Java 
-url: /java/conversion/sxc-to-bmp/
+
 description: Convert SXC to BMP format in Java code. Save SXC as BMP using Java.
 ---
 

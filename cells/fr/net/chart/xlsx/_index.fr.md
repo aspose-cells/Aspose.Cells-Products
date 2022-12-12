@@ -1,7 +1,7 @@
-﻿---
+---
 title:  Tableau de documents XLSX vers images via .NET 
 weight: 2630
-url: /fr/net/chart/xlsx/ 
+
 description: Code source C# pour dessiner et convertir un graphique ou un diagramme dans un fichier XLSX sur .NET Framework, .NET Core, Mono ou Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

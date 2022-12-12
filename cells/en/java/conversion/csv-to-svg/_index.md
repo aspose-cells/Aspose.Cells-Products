@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to SVG via Java 
-url: /java/conversion/csv-to-svg/
+
 description: Convert CSV to SVG format in Java code. Save CSV as SVG using Java.
 ---
 

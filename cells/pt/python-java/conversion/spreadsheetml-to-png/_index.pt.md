@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter SPREADSHEETML para PNG via Python
-url: /pt/python-java/conversion/spreadsheetml-to-png/
+
 description: Código de exemplo para conversão de planilhaml para png Python. Use o código de exemplo API para arquivos de planilhaml em lote para conversão png no aplicativo Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: A TABDELIMITED konvertálása PNG-re a(z) C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/tabdelimited-to-png/ 
+
 description: Minta C++ konverziós kód a TABDELIMITED dokumentumhoz PNG formátumba. A programozók ezt a forráskódot használhatják a TABDELIMITED kötegelt PNG-re konvertálásához bármely C++ alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

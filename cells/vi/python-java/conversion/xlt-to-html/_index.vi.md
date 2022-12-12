@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi XLT sang HTML qua Python
-url: /vi/python-java/conversion/xlt-to-html/
+
 description: Mã mẫu cho chuyển đổi xlt sang html Python. Sử dụng API mã mẫu cho hàng loạt tệp xlt sang chuyển đổi html trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

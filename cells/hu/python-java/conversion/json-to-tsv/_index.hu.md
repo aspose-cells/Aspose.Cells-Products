@@ -1,6 +1,6 @@
-﻿---
+---
 title: "JSON konvertálása TSV-vé a következőn keresztül: Python"
-url: /hu/python-java/conversion/json-to-tsv/
+
 description: Mintakód a json–tsv Python konverzióhoz. Használjon API példakódot a json-fájlok kötegelt tsv-vé konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

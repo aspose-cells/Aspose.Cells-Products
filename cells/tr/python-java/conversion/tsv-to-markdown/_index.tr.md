@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python üzerinden TSV'yi MARKDOWN'a dönüştürün
-url: /tr/python-java/conversion/tsv-to-markdown/
+
 description: Python dönüşümünü işaretlemek için tsv için örnek kod. Python uygulamasında dönüştürmeyi işaretlemek için toplu tsv dosyaları için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

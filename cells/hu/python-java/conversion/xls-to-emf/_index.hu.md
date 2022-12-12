@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLS konvertálása EMF-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/xls-to-emf/
+
 description: Mintakód az xls–emf Python konverzióhoz. Használjon API példakódot kötegelt xls fájlokhoz az EMF konverzióhoz a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

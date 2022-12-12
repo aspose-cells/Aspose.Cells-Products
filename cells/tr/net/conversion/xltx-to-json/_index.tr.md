@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla XLTX'i JSON'a dönüştürün
-url: /tr/net/conversion/xltx-to-json/
+
 description: xltx'ten json'a C# dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu xltx dosyalarından json'a dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

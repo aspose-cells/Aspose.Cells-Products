@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 Python 將 XLS 轉換為 PNG
-url: /zh-hant/python-java/conversion/xls-to-png/
+
 description: xls 到 png Python 轉換的示例代碼。使用 Python 應用程序中批量 xls 文件到 png 轉換的 API 示例代碼。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

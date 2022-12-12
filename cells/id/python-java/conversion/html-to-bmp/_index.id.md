@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi HTML ke BMP melalui Python
-url: /id/python-java/conversion/html-to-bmp/
+
 description: Contoh kode untuk konversi html ke bmp Python. Gunakan API kode contoh untuk file html batch ke konversi bmp dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

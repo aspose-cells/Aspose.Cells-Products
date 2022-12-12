@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi HTML sang DIF qua Python
-url: /vi/python-java/conversion/html-to-dif/
+
 description: Mã mẫu cho chuyển đổi html sang dif Python. Sử dụng API mã ví dụ cho hàng loạt tệp html để chuyển đổi khác trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

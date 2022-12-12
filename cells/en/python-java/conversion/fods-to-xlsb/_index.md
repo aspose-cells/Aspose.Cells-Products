@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to XLSB via Python
-url: /python-java/conversion/fods-to-xlsb/
+
 description: Convert FODS to XLSB format in Python code. Save FODS as XLSB using Python.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "NUMBERS konvertálása SVG-vé a következőn keresztül: Python"
-url: /hu/python-java/conversion/numbers-to-svg/
+
 description: Mintakód számok SVG Python konverziójára. Használjon API példakódot a kötegszámfájlokhoz az SVG konvertáláshoz a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

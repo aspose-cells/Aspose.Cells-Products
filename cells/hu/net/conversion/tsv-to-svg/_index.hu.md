@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TSV konvertálása SVG-vé a következőn keresztül: C#"
-url: /hu/net/conversion/tsv-to-svg/
+
 description: Mintakód a tsv–svg C# konverzióhoz. Használjon API példakódot kötegelt tsv-fájlokhoz az SVG-konverzióhoz VB.NET-on, Asp-n.NET vagy bármely .NET-alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

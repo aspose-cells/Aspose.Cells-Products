@@ -1,7 +1,7 @@
-﻿---
+---
 title: دمج ملفات XLS عبر Java 
 weight: 5140
-url: /ar/java/merger/xls/ 
+
 description: Java نموذج كود لدمج مستندات XLS في Java Runtime Environment لتطبيق JSP / JSF وتطبيقات سطح المكتب.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

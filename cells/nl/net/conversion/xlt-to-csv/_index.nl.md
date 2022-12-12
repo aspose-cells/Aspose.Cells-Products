@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLT naar CSV via C#
-url: /nl/net/conversion/xlt-to-csv/
+
 description: Voorbeeldcode voor xlt naar csv C# conversie. Gebruik API voorbeeldcode voor batch xlt-bestanden naar csv-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

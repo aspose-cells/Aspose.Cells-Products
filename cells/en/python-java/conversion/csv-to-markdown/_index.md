@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to MARKDOWN via Python
-url: /python-java/conversion/csv-to-markdown/
+
 description: Convert CSV to MARKDOWN format in Python code. Save CSV as MARKDOWN using Python.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLS na DIF přes Python
-url: /cs/python-java/conversion/xls-to-dif/
+
 description: Ukázkový kód pro převod xls na rozdíl Python. Použijte API ukázkový kód pro dávkové soubory xls pro převod převodu v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

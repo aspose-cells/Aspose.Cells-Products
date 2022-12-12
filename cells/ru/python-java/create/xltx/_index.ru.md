@@ -1,6 +1,6 @@
-﻿---
+---
 title: Создание файлов MS Excel XLTX с помощью Python 
-url: /ru/python-java/create-xltx/ 
+
 description: Python Пример кода для создания документов XLTX. Используйте этот код для создания файлов MS Excel XLTX в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

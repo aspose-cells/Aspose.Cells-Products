@@ -1,7 +1,7 @@
-﻿---
+---
 title: Объединить файлы HTML через .NET 
 weight: 9440
-url: /ru/net/merger/html/ 
+
 description: Исходный код C# для объединения документов HTML на платформах .NET Framework, .NET Core, Mono или Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

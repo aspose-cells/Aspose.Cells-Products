@@ -1,6 +1,6 @@
-﻿---
+---
 title: Разделить лист Excel по частям C#
-url: /ru/net/splitter/
+
 description: Исходные коды C#, объясняющие, как разделить файлы Microsoft Excel на несколько файлов в приложениях Visual C#.NET
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

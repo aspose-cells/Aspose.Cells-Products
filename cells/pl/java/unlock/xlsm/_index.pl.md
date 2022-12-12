@@ -1,7 +1,7 @@
-﻿---
+---
 title: Odblokuj dokument XLSM przez Java 
 weight: 7700
-url: /pl/java/unlock/xlsm/ 
+
 description: Java przykładowy kod do odblokowania chronionego hasłem pliku XLSM w Java środowisku wykonawczym dla aplikacji JSP/JSF i aplikacji komputerowych.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

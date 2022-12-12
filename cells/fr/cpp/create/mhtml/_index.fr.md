@@ -1,6 +1,6 @@
-﻿---
+---
 title: Créer des fichiers MHTML via C++ 
-url: /fr/cpp/create-mhtml/ 
+
 description: C++ Exemple de code pour générer des fichiers MHTML. Utilisez ce code pour créer des fichiers MHTML dans une application basée sur C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

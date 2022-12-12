@@ -1,7 +1,7 @@
-﻿---
+---
 title: دمج ملفات XLTX عبر .NET 
 weight: 1220
-url: /ar/net/merger/xltx/ 
+
 description: C# شفرة المصدر لدمج مستندات XLTX في .NET Framework أو .NET Core أو Mono أو أنظمة Xamarin الأساسية.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

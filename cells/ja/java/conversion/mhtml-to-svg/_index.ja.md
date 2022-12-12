@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してMHTMLをSVGに変換する 
 weight: 8850
-url: /ja/java/conversion/mhtml-to-svg/ 
+
 description: MHTML形式からSVGファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のSVGにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

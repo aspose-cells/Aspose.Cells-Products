@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل NUMBERS إلى CSV عبر C#
-url: /ar/net/conversion/numbers-to-csv/
+
 description: نموذج رمز للأرقام لتحويل csv C#. استخدم API رمز المثال لملفات أرقام الدُفعات لتحويل csv داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

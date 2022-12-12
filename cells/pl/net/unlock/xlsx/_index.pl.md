@@ -1,7 +1,7 @@
-﻿---
+---
 title: Odblokuj dokument XLSX przez .NET 
 weight: 2040
-url: /pl/net/unlock/xlsx/ 
+
 description: C# kod źródłowy do odblokowania chronionego hasłem pliku XLSX na platformach .NET Framework, .NET Core, Mono lub Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

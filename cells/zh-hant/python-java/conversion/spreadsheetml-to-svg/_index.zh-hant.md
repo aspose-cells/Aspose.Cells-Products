@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 Python 將 SPREADSHEETML 轉換為 SVG
-url: /zh-hant/python-java/conversion/spreadsheetml-to-svg/
+
 description: 電子表格到 svg Python 轉換的示例代碼。在 Python 應用程序中使用批量電子表格文件的 API 示例代碼到 svg 轉換。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Twórz pliki ODS (Openoffice / Lbreoffice) za pomocą C# 
-url: /pl/net/create-ods/ 
+
 description: C# Przykładowy kod do generowania dokumentów ODS. Użyj tego kodu do tworzenia plików ODS (Openoffice / Lbreoffice) w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

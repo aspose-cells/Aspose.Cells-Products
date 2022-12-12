@@ -1,7 +1,7 @@
-﻿---
+---
 title: Sök och ersätt text i XLS-dokument via Java 
 weight: 7900
-url: /sv/java/redaction/xls/ 
+
 description: Java exempelkod för att redigera känslig information i XLS-fil i Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

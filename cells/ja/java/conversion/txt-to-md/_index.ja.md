@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してTXTをMDに変換します 
-url: /ja/java/conversion/txt-to-md/ 
+
 description: TXT形式からMDファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、WebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをMDにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

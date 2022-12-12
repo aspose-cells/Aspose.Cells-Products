@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie NUMBERS in TIFF über Python
-url: /de/python-java/conversion/numbers-to-tiff/
+
 description: Beispielcode für die Umwandlung von Zahlen in Tiff Python. Verwenden Sie den API-Beispielcode für die Konvertierung von Stapelnummerndateien in TIFF innerhalb der Anwendung Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

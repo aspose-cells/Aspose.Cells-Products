@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to TSV via Java 
-url: /java/conversion/csv-to-tsv/
+
 description: Convert CSV to TSV format in Java code. Save CSV as TSV using Java.
 ---
 

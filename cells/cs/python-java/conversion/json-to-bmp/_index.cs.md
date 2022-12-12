@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést JSON na BMP přes Python
-url: /cs/python-java/conversion/json-to-bmp/
+
 description: Ukázkový kód pro převod json na bmp Python. Použijte API ukázkový kód pro dávkový převod souborů json na bmp v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Lindungi dan kunci dokumen XLSB melalui Java 
 weight: 6590
-url: /id/java/protect/xlsb/ 
+
 description: Java contoh kode untuk mengunci file XLSB menggunakan sandi di Java Runtime Environment untuk Aplikasi JSP/JSF dan Aplikasi Desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

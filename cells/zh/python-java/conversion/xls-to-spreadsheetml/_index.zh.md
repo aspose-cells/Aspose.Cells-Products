@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 Python 将 XLS 转换为 SPREADSHEETML
-url: /zh/python-java/conversion/xls-to-spreadsheetml/
+
 description: xls 到电子表格的示例代码 Python 转换。使用 Python 应用程序中将 xls 文件批量转换为电子表格ml 的 API 示例代码。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

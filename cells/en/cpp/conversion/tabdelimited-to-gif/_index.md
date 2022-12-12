@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to GIF via C++
-url: /cpp/conversion/tabdelimited-to-gif/
+
 description: Convert TABDELIMITED to GIF format in C++ code. Save TABDELIMITED as GIF using C++.
 ---
 

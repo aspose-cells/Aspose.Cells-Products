@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převeďte ODS na XPS pomocí aplikace C++ 
 weight: 1930
-url: /cs/cpp/conversion/ods-to-xps/ 
+
 description: Ukázkový konverzní kód C++ pro dokument ODS na formát XPS. Programátoři mohou použít tento zdrojový kód pro dávkovou konverzi ODS na XPS v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

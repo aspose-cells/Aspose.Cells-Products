@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte SPREADSHEETML na GIF pomocí aplikace C++ 
-url: /cs/cpp/conversion/spreadsheetml-to-gif/ 
+
 description: Ukázka převodního kódu C++ pro dokument SPREADSHEETML do formátu GIF. Programátoři mohou tento zdrojový kód použít pro dávkový převod SPREADSHEETML na GIF v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#를 통해 MHTML을 SPREADSHEETML로 변환
-url: /ko/net/conversion/mhtml-to-spreadsheetml/
+
 description: mhtml에서 스프레드시트로의 샘플 코드ml C# 변환. VB.NET, Asp.NET 또는 모든 .NET 기반 응용 프로그램 내에서 일괄 mhtml 파일을 스프레드시트ml로 변환하는 API 예제 코드를 사용합니다.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

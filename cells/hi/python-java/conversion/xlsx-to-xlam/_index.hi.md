@@ -1,6 +1,6 @@
-﻿---
+---
 title: XLSX को XLAM से Python में बदलें
-url: /hi/python-java/conversion/xlsx-to-xlam/
+
 description: xlsx से xlam Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर बैच xlsx फ़ाइलों से xlam रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

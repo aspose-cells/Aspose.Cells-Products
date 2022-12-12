@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla XLS'yi XML'e dönüştürün
-url: /tr/net/conversion/xls-to-xml/
+
 description: xls'den xml'ye C# dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu xls dosyalarından xml'ye dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

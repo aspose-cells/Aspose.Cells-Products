@@ -1,6 +1,6 @@
 ---
 title: Edit XLS files via .NET 
-url: /net/editor/xls/ 
+
 description: C# source code to edit XLS document on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Wandeln Sie SPREADSHEETML über Java in SXC um 
-url: /de/java/conversion/spreadsheetml-to-sxc/ 
+
 description: Beispiel-Umwandlungscode Java für das SPREADSHEETML-Format in eine SXC-Datei. Programmierer können diesen Beispielcode verwenden, um Excel- und OpenOffice-Tabellen innerhalb jeder Web- oder Desktop-Java-basierten Anwendung nach SXC zu exportieren.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
 ---
 title: Node.js APIs for Excel Spreadsheets - Aspose 
 weight: 3120
-url: /nodejs-java/ 
+
 description: Process Excel file formats via Node.js library. Read write render & convert XLS XLSX XLSB XLTX XLTM XLSM XML ODS CSV and more formats via Node.js on Windows, macOS & Linux
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Crea file XLTX di MS Excel tramite C++ 
-url: /it/cpp/create-xltx/ 
+
 description: C++ Codice di esempio per la generazione di file XLTX di MS Excel. Utilizzare questo codice per creare file XLTX di MS Excel all'interno di un'applicazione basata su C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

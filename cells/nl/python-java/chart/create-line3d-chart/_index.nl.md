@@ -1,6 +1,6 @@
-﻿---
+---
 title: Maak 3D-lijndiagrammen via Python
-url: /nl/python-java/create-line3d-chart/
+
 description: Python Voorbeeldcode voor het maken van 3D-lijndiagrammen naar Excel met Python Bibliotheek. Gebruik deze code voor het maken van een 3D-lijndiagram naar MS Excel in een op Python gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

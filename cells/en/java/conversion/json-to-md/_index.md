@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to MD via Java 
-url: /java/conversion/json-to-md/
+
 description: Convert JSON to MD format in Java code. Save JSON as MD using Java.
 ---
 

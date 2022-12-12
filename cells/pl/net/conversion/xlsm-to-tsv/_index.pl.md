@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj XLSM na TSV przez C#
-url: /pl/net/conversion/xlsm-to-tsv/
+
 description: Przykładowy kod konwersji xlsm do tsv C#. Użyj przykładowego kodu API dla plików wsadowych xlsm do konwersji tsv w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

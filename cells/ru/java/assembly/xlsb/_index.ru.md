@@ -1,7 +1,7 @@
-﻿---
+---
 title: Создание отчетов в файлах XLSB с помощью Java 
 weight: 3560
-url: /ru/java/assembly/xlsb/ 
+
 description: Пример кода Java для создания отчетов в формате XLSB в Java среде выполнения для приложений JSP/JSF и настольных приложений.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

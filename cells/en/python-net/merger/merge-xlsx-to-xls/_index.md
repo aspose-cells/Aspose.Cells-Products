@@ -1,6 +1,6 @@
 ---
 title: Merge XLSX to XLS Files via Python 
-url: /python-net/merger/merge-xlsx-to-xls/ 
+
 description: Merge XLSX to XLS file in Python code. Combine XLSX to XLS file using Python.
 ---
 

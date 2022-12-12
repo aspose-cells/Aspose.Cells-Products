@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή TABDELIMITED σε EMF μέσω Python
-url: /el/python-java/conversion/tabdelimited-to-emf/
+
 description: Δείγμα κώδικα για μετατροπή οριοθετημένης καρτέλας σε emf Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία οριοθετημένα στηλοθέτες για μετατροπή emf εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

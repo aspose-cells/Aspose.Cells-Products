@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pembuatan dan Konversi Bagan Excel ke Gambar melalui .NET
-url: /id/net/chart/
+
 description: C# kode sumber untuk menggambar dan mengonversi bagan atau diagram di Microsoft Excel menggunakan .NET Pustaka. 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

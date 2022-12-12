@@ -1,7 +1,7 @@
-﻿---
+---
 title: Editar o ver metadatos de archivos XLSM a través de Java 
 weight: 9030
-url: /es/java/metadata/xlsm/ 
+
 description: Java código de muestra para editar o ver metadatos en formato XLSM en Java entorno de tiempo de ejecución para aplicaciones JSP/JSF y aplicaciones de escritorio.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

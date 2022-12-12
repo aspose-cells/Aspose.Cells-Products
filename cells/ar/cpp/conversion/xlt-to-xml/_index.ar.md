@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLT إلى XML عبر تطبيق C++ 
-url: /ar/cpp/conversion/xlt-to-xml/ 
+
 description: نموذج C++ رمز التحويل لمستند XLT إلى تنسيق XML. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل XLT إلى XML دفعة داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

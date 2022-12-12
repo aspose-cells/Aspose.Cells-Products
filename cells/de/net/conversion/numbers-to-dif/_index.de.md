@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie NUMBERS in DIF über C#
-url: /de/net/conversion/numbers-to-dif/
+
 description: Beispielcode für Zahlen, um die C#-Konvertierung zu unterscheiden. Verwenden Sie API Beispielcode für Stapelnummerndateien, um die Konvertierung innerhalb von VB.NET, Asp.NET oder einer beliebigen .NET-basierten Anwendung zu unterscheiden.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

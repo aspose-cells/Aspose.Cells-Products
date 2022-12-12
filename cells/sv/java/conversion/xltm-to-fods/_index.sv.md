@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera XLTM till FODS via Java 
-url: /sv/java/conversion/xltm-to-fods/ 
+
 description: Exempel Java-konverteringskod för XLTM-format till FODS-fil. Programmerare kan använda den här exempelkoden för att exportera Excel- och OpenOffice-kalkylblad till FODS inom vilken webb- eller skrivbordsbaserad applikation som helst.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

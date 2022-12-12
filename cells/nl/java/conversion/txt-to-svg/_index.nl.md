@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer TXT naar SVG via Java 
 weight: 9880
-url: /nl/java/conversion/txt-to-svg/ 
+
 description: Voorbeeld Java conversiecode voor TXT-indeling naar SVG-bestand. Programmeurs kunnen deze voorbeeldcode gebruiken om Excel- en OpenOffice-spreadsheets naar SVG te exporteren binnen elke web- of desktoptoepassing Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

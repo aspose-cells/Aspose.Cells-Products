@@ -1,6 +1,6 @@
-﻿---
+---
 title: "NUMBERS konvertálása TIFF-re a következőn keresztül: C#"
-url: /hu/net/conversion/numbers-to-tiff/
+
 description: Mintakód számokhoz a tiff C# konverzióhoz. Használjon API példakódot kötegszámfájlokhoz a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazás tiff konverziójához.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

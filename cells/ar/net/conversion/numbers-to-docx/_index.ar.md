@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل NUMBERS إلى DOCX عبر C#
-url: /ar/net/conversion/numbers-to-docx/
+
 description: نموذج كود لتحويل الأرقام إلى docx C#. استخدم API مثال الكود لملفات أرقام الدُفعات لتحويل docx داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

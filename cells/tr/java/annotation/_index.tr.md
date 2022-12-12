@@ -1,6 +1,6 @@
-﻿---
+---
 title: Java aracılığıyla Excel Dosyası Açıklamaları
-url: /tr/java/annotation/
+
 description: Java kitaplığı ile Excel ve OpenOffice elektronik tablolarının veri açıklamalarını ekleyin veya kaldırın.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

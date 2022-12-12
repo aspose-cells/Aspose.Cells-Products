@@ -1,6 +1,6 @@
-﻿---
+---
 title: XLS को HTML में Python के माध्यम से कनवर्ट करें
-url: /hi/python-java/conversion/xls-to-html/
+
 description: xls से html Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर html रूपांतरण के लिए बैच xls फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

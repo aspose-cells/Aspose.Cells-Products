@@ -1,6 +1,6 @@
 ---
 title: Convert XLSM to SVG via Java 
-url: /java/conversion/xlsm-to-svg/
+
 description: Convert XLSM to SVG format in Java code. Save XLSM as SVG using Java.
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: RDL-rapporten exporteren naar Excel XLS XLSX en SpreadsheetML in SQL Server 
 weight: 3460
-url: /nl/reporting-services/ 
+
 description: SQL Server Reporting Services rendering-extensie - Excel XLS XLSX XLSM XLSB CSV SpreadsheetML HTML ODS- en TXT-indelingen exporteren
 ---
 {{< blocks/products/pf/main-wrap-class >}}

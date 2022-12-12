@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してNUMBERSをTABDELIMITEDに変換します
-url: /ja/net/conversion/numbers-to-tabdelimited/
+
 description: 数値からタブ区切りのC#への変換のサンプルコード。バッチ番号ファイルのAPIサンプルコードを使用して、VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でタブ区切りの変換を行います。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

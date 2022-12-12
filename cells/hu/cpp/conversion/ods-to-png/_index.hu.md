@@ -1,7 +1,7 @@
-﻿---
+---
 title: ODS konvertálása PNG-re a(z) C++ alkalmazással 
 weight: 4710
-url: /hu/cpp/conversion/ods-to-png/ 
+
 description: Minta C++ konverziós kód az ODS-dokumentumhoz PNG formátumba. A programozók ezt a forráskódot használhatják az ODS-ből PNG-be kötegelt konvertáláshoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to SXC via Java 
-url: /java/conversion/csv-to-sxc/
+
 description: Convert CSV to SXC format in Java code. Save CSV as SXC using Java.
 ---
 

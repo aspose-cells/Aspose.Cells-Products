@@ -1,6 +1,6 @@
-﻿---
+---
 title: "CSV konvertálása XLS-re a következőn keresztül: C#"
-url: /hu/net/conversion/csv-to-xls/
+
 description: Mintakód a csv–xls C# konverzióhoz. Használjon API példakódot a csv fájlok kötegelt xls formátumba konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

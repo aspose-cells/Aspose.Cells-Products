@@ -1,7 +1,7 @@
-﻿---
+---
 title: Python Hoja de cálculo de Excel API - Aspose 
 weight: 2820
-url: /es/python/ 
+
 description: Python biblioteca de hojas de cálculo para crear archivos de Excel de lectura, escritura y análisis.
 ---
 {{< blocks/products/pf/main-wrap-class >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to HTML via Python
-url: /python-net/conversion/spreadsheetml-to-html/
+
 description: Sample code for spreadsheetml to html Python conversion. Use API example code for batch spreadsheetml files to html conversion within Python application.
 ---
 

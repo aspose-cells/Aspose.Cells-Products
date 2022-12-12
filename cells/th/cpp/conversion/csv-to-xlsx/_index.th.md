@@ -1,7 +1,7 @@
-﻿---
+---
 title: แปลง CSV เป็น XLSX ผ่าน C++ แอปพลิเคชัน 
 weight: 4030
-url: /th/cpp/conversion/csv-to-xlsx/ 
+
 description: ตัวอย่างโค้ดการแปลง C++ สำหรับเอกสาร CSV เป็นรูปแบบ XLSX โปรแกรมเมอร์สามารถใช้ซอร์สโค้ดนี้สำหรับการแปลงแบตช์ CSV เป็น XLSX ภายในแอปพลิเคชัน C++ ใดๆ
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

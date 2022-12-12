@@ -1,7 +1,7 @@
-﻿---
+---
 title: Generar informes en archivos ODS a través de Java 
 weight: 2440
-url: /es/java/assembly/ods/ 
+
 description: Java código de ejemplo para crear informes en formato ODS en Java entorno de tiempo de ejecución para aplicaciones JSP/JSF y aplicaciones de escritorio.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

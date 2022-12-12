@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование TSV в FODS через C#
-url: /ru/net/conversion/tsv-to-fods/
+
 description: Пример кода для преобразования tsv в fods C#. Используйте пример кода API для пакетного преобразования файлов tsv в fods в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

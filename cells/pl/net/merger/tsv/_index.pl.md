@@ -1,7 +1,7 @@
-﻿---
+---
 title: Scal pliki TSV przez .NET 
 weight: 1360
-url: /pl/net/merger/tsv/ 
+
 description: C# kod źródłowy do łączenia dokumentów TSV na platformach .NET Framework, .NET Core, Mono lub Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

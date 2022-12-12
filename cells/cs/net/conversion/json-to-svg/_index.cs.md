@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést JSON na SVG přes C#
-url: /cs/net/conversion/json-to-svg/
+
 description: Ukázkový kód pro převod json na svg C#. Použijte API ukázkový kód pro dávkové soubory json na převod svg v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

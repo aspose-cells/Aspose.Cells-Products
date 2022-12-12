@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 Java 创建 Excel 图表并转换为图像
-url: /zh/java/chart/
+
 description: Java 使用 Java 库在 Microsoft Excel 中绘制和转换图表或图表的源代码。 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

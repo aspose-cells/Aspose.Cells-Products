@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง SPREADSHEETML เป็น GIF ผ่าน Python
-url: /th/python-java/conversion/spreadsheetml-to-gif/
+
 description: โค้ดตัวอย่างสำหรับการแปลงสเปรดชีตml เป็น gif Python ใช้โค้ดตัวอย่าง API สำหรับไฟล์สเปรดชีตสเปรดชีตแบบแบตช์เป็นการแปลง gif ภายในแอปพลิเคชัน Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

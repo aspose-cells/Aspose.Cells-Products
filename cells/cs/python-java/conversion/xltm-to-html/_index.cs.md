@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLTM na HTML pomocí Python
-url: /cs/python-java/conversion/xltm-to-html/
+
 description: Ukázkový kód pro převod xltm na html Python. Použijte API ukázkový kód pro dávkový převod souborů xltm na html v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

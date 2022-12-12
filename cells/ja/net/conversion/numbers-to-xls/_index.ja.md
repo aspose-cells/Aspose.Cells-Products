@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してNUMBERSをXLSに変換します
-url: /ja/net/conversion/numbers-to-xls/
+
 description: 数値からxlsC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチ番号ファイルからxlsへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

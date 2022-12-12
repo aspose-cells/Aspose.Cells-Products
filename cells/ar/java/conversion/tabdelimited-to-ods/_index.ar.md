@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TABDELIMITED إلى ODS عبر Java 
-url: /ar/java/conversion/tabdelimited-to-ods/ 
+
 description: نموذج Java رمز تحويل لتنسيق TABDELIMITED إلى ملف ODS. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى ODS من خلال أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

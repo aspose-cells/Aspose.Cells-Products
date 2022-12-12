@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLTX в TIFF через C#
-url: /ru/net/conversion/xltx-to-tiff/
+
 description: Пример кода для преобразования xltx в tiff C#. Используйте пример кода API для пакетного преобразования xltx-файлов в формат tiff в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

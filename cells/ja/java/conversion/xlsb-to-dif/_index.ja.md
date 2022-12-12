@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してXLSBをDIFに変換します 
 weight: 6840
-url: /ja/java/conversion/xlsb-to-dif/ 
+
 description: XLSB形式からDIFファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のDIFにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

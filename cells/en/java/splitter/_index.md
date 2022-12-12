@@ -1,6 +1,6 @@
 ---
 title: Split Excel Spreadsheet into Worksheets in Java
-url: /java/splitter/
+
 description: Java source codes that explains how to split Microsoft Excel files into multiple documents using Java Excel library
 ---
 

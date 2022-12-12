@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to TSV via Java 
-url: /java/conversion/sxc-to-tsv/
+
 description: Convert SXC to TSV format in Java code. Save SXC as TSV using Java.
 ---
 

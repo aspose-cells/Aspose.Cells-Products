@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to MARKDOWN via Python
-url: /python-net/conversion/fods-to-markdown/
+
 description: Sample code for fods to markdown Python conversion. Use API example code for batch fods files to markdown conversion within Python application.
 ---
 

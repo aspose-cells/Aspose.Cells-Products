@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование NUMBERS в SPREADSHETML через C#
-url: /ru/net/conversion/numbers-to-spreadsheetml/
+
 description: Пример кода для преобразования чисел в электронную таблицуC#. Используйте пример кода API для файлов с номерами пакетов для преобразования электронных таблиц в VB.NET, Asp.NET или любое приложение на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

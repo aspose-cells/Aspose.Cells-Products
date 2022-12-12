@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++を介してHTMLファイルを作成する 
-url: /ja/cpp/create-html/ 
+
 description: C++HTMLファイルを生成するためのサンプルコード。このコードを使用して、C++ベースのアプリケーション内でHTMLファイルを作成します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

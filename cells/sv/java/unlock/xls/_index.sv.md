@@ -1,7 +1,7 @@
-﻿---
+---
 title: Lås upp XLS-dokument via Java 
 weight: 6390
-url: /sv/java/unlock/xls/ 
+
 description: Java exempelkod för att låsa upp lösenordsskyddad XLS-fil i Java Runtime Environment för JSP/JSF Application och Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

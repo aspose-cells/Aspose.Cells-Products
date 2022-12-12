@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera FODS till PDF via C#
-url: /sv/net/conversion/fods-to-pdf/
+
 description: Exempelkod för konvertering av fods till pdf C#. Använd API exempelkod för batch fods-filer till pdf-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

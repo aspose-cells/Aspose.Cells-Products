@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java을(를) 통해 XLSB 문서에서 텍스트 검색 및 바꾸기 
 weight: 4590
-url: /ko/java/redaction/xlsb/ 
+
 description: Java JSP/JSF 애플리케이션 및 데스크톱 애플리케이션용 런타임 환경의 Java XLSB 파일에서 민감한 정보를 수정하기 위한 샘플 코드.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

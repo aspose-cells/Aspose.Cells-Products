@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή TABDELIMITED σε XLAM μέσω Python
-url: /el/python-java/conversion/tabdelimited-to-xlam/
+
 description: Δείγμα κώδικα για μετατροπή οριοθετημένης καρτέλας σε xlam Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία με οριοθετημένη καρτέλα σε xlam μετατροπή εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: แปลง ODS เป็น DIF ผ่าน C++ แอปพลิเคชัน 
 weight: 4040
-url: /th/cpp/conversion/ods-to-dif/ 
+
 description: ตัวอย่างรหัสการแปลง C++ สำหรับเอกสาร ODS เป็นรูปแบบ DIF โปรแกรมเมอร์สามารถใช้ซอร์สโค้ดนี้สำหรับการแปลง ODS เป็นกลุ่มเป็น DIF ภายในแอปพลิเคชัน C++ ใดๆ
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

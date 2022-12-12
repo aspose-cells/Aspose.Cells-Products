@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++ uygulaması aracılığıyla CSV'yi XML'e dönüştürün 
-url: /tr/cpp/conversion/csv-to-xml/ 
+
 description: CSV belgesi için XML biçimine örnek C++ dönüştürme kodu. Programcılar, herhangi bir C++ Uygulamasında toplu CSV'den XML'e dönüştürme için bu kaynak kodunu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi TXT ke JSON melalui C++ aplikasi 
-url: /id/cpp/conversion/txt-to-json/ 
+
 description: Contoh C++ kode konversi untuk dokumen TXT ke format JSON. Pemrogram dapat menggunakan kode sumber ini untuk konversi batch TXT ke JSON dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

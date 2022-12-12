@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLTX konvertálása CSV-vé a következőn keresztül: C#"
-url: /hu/net/conversion/xltx-to-csv/
+
 description: Mintakód az xltx-ből csv-be C# konverzióhoz. Használjon API példakódot a kötegelt xltx fájlok csv-vé konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

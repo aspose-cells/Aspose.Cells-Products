@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python経由でCSVをXLTMに変換
-url: /ja/python-java/conversion/csv-to-xltm/
+
 description: csvからxltmPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチcsvファイルからxltmへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

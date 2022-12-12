@@ -1,6 +1,6 @@
-﻿---
+---
 title: एमएचटीएमएल को Python के माध्यम से एक्सएलटी में कनवर्ट करें
-url: /hi/python-java/conversion/mhtml-to-xlt/
+
 description: mhtml से xlt Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर बैच एमएचटीएमएल फाइलों के एक्सएलटी रूपांतरण के लिए API उदाहरण कोड का प्रयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

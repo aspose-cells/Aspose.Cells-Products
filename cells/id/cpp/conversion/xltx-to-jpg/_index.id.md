@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi XLTX ke JPG melalui C++ aplikasi 
-url: /id/cpp/conversion/xltx-to-jpg/ 
+
 description: Contoh C++ kode konversi untuk dokumen XLTX ke format JPG. Pemrogram dapat menggunakan kode sumber ini untuk konversi batch XLTX ke JPG dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

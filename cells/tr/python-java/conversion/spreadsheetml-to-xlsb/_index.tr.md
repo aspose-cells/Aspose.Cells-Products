@@ -1,6 +1,6 @@
-﻿---
+---
 title: SPREADSHEETML'yi Python aracılığıyla XLSB'ye dönüştürün
-url: /tr/python-java/conversion/spreadsheetml-to-xlsb/
+
 description: E-tabloml'den xlsb'ye Python dönüşümü için örnek kod. Python uygulamasında toplu elektronik tabloml dosyalarını xlsb'ye dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

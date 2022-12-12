@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してXLSBをXLAMに変換します
-url: /ja/net/conversion/xlsb-to-xlam/
+
 description: xlsbからxlamC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチxlsbファイルからxlamへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

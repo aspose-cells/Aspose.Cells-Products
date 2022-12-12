@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++アプリケーションを介してXLSXをXLSMに変換する 
 weight: 2230
-url: /ja/cpp/conversion/xlsx-to-xlsm/ 
+
 description: XLSXドキュメントからXLSM形式へのサンプルC++変換コード。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でXLSXからXLSMへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

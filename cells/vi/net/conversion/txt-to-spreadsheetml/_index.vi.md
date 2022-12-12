@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi TXT thành SPREADSHEETML qua C#
-url: /vi/net/conversion/txt-to-spreadsheetml/
+
 description: Mã mẫu cho chuyển đổi txt sang bảng tínhml C#. Sử dụng API mã mẫu cho các tệp txt hàng loạt để chuyển đổi bảng tínhml trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

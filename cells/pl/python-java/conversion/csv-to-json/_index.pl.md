@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj CSV na JSON przez Python
-url: /pl/python-java/conversion/csv-to-json/
+
 description: Przykładowy kod konwersji csv do json Python. Użyj przykładowego kodu API dla wsadowych plików csv do konwersji json w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

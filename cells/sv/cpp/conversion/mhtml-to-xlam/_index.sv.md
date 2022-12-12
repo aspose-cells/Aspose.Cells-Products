@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera MHTML till XLAM via programmet C++ 
-url: /sv/cpp/conversion/mhtml-to-xlam/ 
+
 description: Exempel C++-konverteringskod för MHTML-dokument till XLAM-format. Programmerare kan använda den här källkoden för batch-omvandling av MHTML till XLAM inom alla C++-program.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

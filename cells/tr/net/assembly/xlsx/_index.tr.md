@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET aracılığıyla XLSX Dosyalarında Raporlar Oluşturun 
 weight: 6740
-url: /tr/net/assembly/xlsx/ 
+
 description: .NET Framework, .NET Core, Mono veya Xamarin Platformlarında XLSX biçiminde raporlar oluşturmak için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

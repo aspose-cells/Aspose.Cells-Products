@@ -1,7 +1,7 @@
-﻿---
+---
 title: Συγχώνευση αρχείων XLTX μέσω Java 
 weight: 680
-url: /el/java/merger/xltx/ 
+
 description: Java δείγμα κώδικα για συνδυασμό εγγράφων XLTX σε Java Runtime Environment για εφαρμογές JSP/JSF και εφαρμογές επιφάνειας εργασίας.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование SXC в XLAM через Java 
-url: /ru/java/conversion/sxc-to-xlam/ 
+
 description: Пример кода преобразования Java для формата SXC в файл XLAM. Программисты могут использовать этот пример кода для экспорта электронных таблиц Excel и OpenOffice в формат XLAM в любом веб- или настольном Java приложении.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

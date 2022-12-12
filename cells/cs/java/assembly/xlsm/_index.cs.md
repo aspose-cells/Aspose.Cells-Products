@@ -1,7 +1,7 @@
-﻿---
+---
 title: Generovat sestavy v souborech XLSM prostřednictvím Java 
 weight: 270
-url: /cs/java/assembly/xlsm/ 
+
 description: Java ukázkový kód pro vytváření sestav ve formátu XLSM v Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to CSV via C++
-url: /cpp/conversion/html-to-csv/
+
 description: Convert HTML to CSV format in C++ code. Save HTML as CSV using C++.
 ---
 

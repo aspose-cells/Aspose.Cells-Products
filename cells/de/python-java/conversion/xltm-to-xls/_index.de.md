@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie XLTM in XLS über Python
-url: /de/python-java/conversion/xltm-to-xls/
+
 description: Beispielcode für die Umwandlung von xltm in xls Python. Verwenden Sie API Beispielcode für die Batch-Konvertierung von xltm-Dateien in xls innerhalb der Anwendung Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

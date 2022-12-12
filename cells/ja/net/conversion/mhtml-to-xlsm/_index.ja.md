@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してMHTMLをXLSMに変換します
-url: /ja/net/conversion/mhtml-to-xlsm/
+
 description: mhtmlからxlsmC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチmhtmlファイルからxlsmへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

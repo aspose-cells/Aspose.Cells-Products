@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển MHTML sang MD qua ứng dụng C++ 
-url: /vi/cpp/conversion/mhtml-to-md/ 
+
 description: Mã chuyển đổi C++ mẫu cho tài liệu MHTML sang định dạng MD. Lập trình viên có thể sử dụng mã nguồn này để chuyển đổi MHTML sang MD hàng loạt trong bất kỳ Ứng dụng C++ nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

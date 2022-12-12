@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer SPREADSHEETML naar SXC via C#
-url: /nl/net/conversion/spreadsheetml-to-sxc/
+
 description: Voorbeeldcode voor conversie van spreadsheetml naar sxc C#. Gebruik API voorbeeldcode voor batch-spreadsheetml-bestanden naar sxc-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

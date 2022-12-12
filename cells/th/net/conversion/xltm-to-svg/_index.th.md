@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง XLTM เป็น SVG ผ่าน C#
-url: /th/net/conversion/xltm-to-svg/
+
 description: โค้ดตัวอย่างสำหรับการแปลง xltm เป็น svg C# ใช้โค้ดตัวอย่าง API สำหรับไฟล์แบตช์ xltm เพื่อแปลง svg ภายใน VB.NET, Asp.NET หรือแอปพลิเคชันที่ใช้ .NET
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

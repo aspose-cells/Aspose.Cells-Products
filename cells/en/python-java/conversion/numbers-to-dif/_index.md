@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to DIF via Python
-url: /python-java/conversion/numbers-to-dif/
+
 description: Convert NUMBERS to DIF format in Python code. Save NUMBERS as DIF using Python.
 ---
 

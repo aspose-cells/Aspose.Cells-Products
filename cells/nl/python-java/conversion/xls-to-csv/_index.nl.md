@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLS naar CSV via Python
-url: /nl/python-java/conversion/xls-to-csv/
+
 description: Voorbeeldcode voor xls naar csv Python conversie. Gebruik API voorbeeldcode voor batch xls-bestanden naar csv-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

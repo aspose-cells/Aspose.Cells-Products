@@ -1,7 +1,7 @@
-﻿---
+---
 title: Преобразование JSON в MD через Java 
 weight: 9410
-url: /ru/java/conversion/json-to-md/ 
+
 description: Пример кода преобразования Java для формата JSON в файл MD. Программисты могут использовать этот пример кода для экспорта электронных таблиц Excel и OpenOffice в MD в любом веб- или настольном Java приложении.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

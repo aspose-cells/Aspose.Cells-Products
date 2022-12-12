@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET経由の透かしXLSXドキュメント 
 weight: 8270
-url: /ja/net/watermark/xlsx/ 
+
 description: .NETフレームワーク、.NETコア、Mono、またはXamarinプラットフォーム上のXLSXファイルに透かしを追加または削除するためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

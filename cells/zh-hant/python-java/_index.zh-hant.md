@@ -1,7 +1,7 @@
-﻿---
+---
 title: Python Excel 電子表格 API - Aspose 
 weight: 2820
-url: /zh-hant/python-java/ 
+
 description: Python 電子表格庫，用於創建讀寫和解析 Excel 文件。
 ---
 {{< blocks/products/pf/main-wrap-class >}}

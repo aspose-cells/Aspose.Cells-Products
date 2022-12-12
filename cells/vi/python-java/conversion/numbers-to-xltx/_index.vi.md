@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi NUMBERS thành XLTX qua Python
-url: /vi/python-java/conversion/numbers-to-xltx/
+
 description: Mã mẫu cho chuyển đổi số thành xltx Python. Sử dụng mã mẫu API cho các tệp số lô để chuyển đổi xltx trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

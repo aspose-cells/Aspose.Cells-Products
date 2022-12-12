@@ -1,6 +1,6 @@
-﻿---
+---
 title: Gabungkan File ODS melalui C++ 
-url: /id/cpp/merger/ods/ 
+
 description: C++ contoh kode untuk menggabungkan dokumen ODS pada C++ Runtime Environment untuk Windows 32 bit, Windows 64 bit dan Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

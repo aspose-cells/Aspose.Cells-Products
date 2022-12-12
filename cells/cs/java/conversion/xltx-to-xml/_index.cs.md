@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLTX na XML přes Java 
-url: /cs/java/conversion/xltx-to-xml/ 
+
 description: Ukázkový konverzní kód Java pro formát XLTX na soubor XML. Programátoři mohou tento příklad kódu použít k exportu tabulek Excelu a OpenOffice do XML v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

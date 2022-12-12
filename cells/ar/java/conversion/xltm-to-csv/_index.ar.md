@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل XLTM إلى CSV عبر Java 
 weight: 3930
-url: /ar/java/conversion/xltm-to-csv/ 
+
 description: نموذج Java رمز التحويل لتنسيق XLTM إلى ملف CSV. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى CSV داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

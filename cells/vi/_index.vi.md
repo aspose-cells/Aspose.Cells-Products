@@ -1,7 +1,7 @@
-﻿---
+---
 title: Giải pháp định dạng tệp Excel
 weight: 7730
-url: /vi/
+
 description: Tạo ứng dụng thao tác tệp Excel bằng API Mã cao hoặc Mã thấp hoặc Ứng dụng không mã để xem kiểm tra so sánh hoặc chuyển đổi tệp Excel.
 ---
 {{< blocks/products/pf/main-wrap-class >}}

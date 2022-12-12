@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++を介してXLSMドキュメントを保護およびロックする 
 weight: 8770
-url: /ja/cpp/protect/xlsm/ 
+
 description: C++ Windows 32ビット、Windows 64ビット、Linux64ビットのランタイム環境でパスワードを使用してXLSMファイルをロックするコード例。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

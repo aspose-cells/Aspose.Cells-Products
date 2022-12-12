@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan TSV ke JSON melalui Python
-url: /id/python-java/conversion/tsv-to-json/
+
 description: Contoh kode untuk konversi tsv ke json Python. Gunakan API kode contoh untuk file batch tsv ke konversi json dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

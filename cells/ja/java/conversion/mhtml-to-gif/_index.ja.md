@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してMHTMLをGIFに変換する 
 weight: 2000
-url: /ja/java/conversion/mhtml-to-gif/ 
+
 description: MHTML形式からGIFファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のGIFにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

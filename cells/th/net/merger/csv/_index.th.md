@@ -1,7 +1,7 @@
-﻿---
+---
 title: รวมไฟล์ CSV ผ่าน .NET 
 weight: 6450
-url: /th/net/merger/csv/ 
+
 description: C# ซอร์สโค้ดเพื่อรวมเอกสาร CSV บน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Μετατροπή XLS σε DIF μέσω Java 
 weight: 7820
-url: /el/java/conversion/xls-to-dif/ 
+
 description: Δείγμα κώδικα μετατροπής Java για μορφή XLS σε αρχείο DIF. Οι προγραμματιστές μπορούν να χρησιμοποιήσουν αυτό το παράδειγμα κώδικα για να εξάγουν υπολογιστικά φύλλα Excel και OpenOffice σε DIF σε οποιαδήποτε εφαρμογή που βασίζεται στον Ιστό ή στην επιφάνεια εργασίας Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Buat Laporan dalam File ODS melalui Java 
 weight: 2440
-url: /id/java/assembly/ods/ 
+
 description: Java kode contoh untuk membuat laporan format ODS di Java Runtime Environment untuk Aplikasi JSP/JSF dan Aplikasi Desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

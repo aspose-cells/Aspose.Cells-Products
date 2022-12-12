@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLSM-bestanden samenvoegen via .NET 
 weight: 660
-url: /nl/net/merger/xlsm/ 
+
 description: C# broncode om XLSM-documenten te combineren op .NET Framework, .NET Core, Mono of Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

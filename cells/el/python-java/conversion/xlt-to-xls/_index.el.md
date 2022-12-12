@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή XLT σε XLS μέσω Python
-url: /el/python-java/conversion/xlt-to-xls/
+
 description: Δείγμα κώδικα για μετατροπή xlt σε xls Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδική μετατροπή αρχείων xlt σε xls εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

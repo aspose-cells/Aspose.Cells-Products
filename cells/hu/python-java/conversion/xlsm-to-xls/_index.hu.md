@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLSM konvertálása XLS-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/xlsm-to-xls/
+
 description: Mintakód az xlsm–xls Python konverzióhoz. Használjon API példakódot az xlsm fájlok kötegelt xls átalakításához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

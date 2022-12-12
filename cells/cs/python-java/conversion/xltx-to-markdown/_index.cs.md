@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLTX na MARKDOWN přes Python
-url: /cs/python-java/conversion/xltx-to-markdown/
+
 description: Ukázkový kód pro konverzi xltx na markdown Python. Použijte API ukázkový kód pro dávkové soubory xltx ke konverzi markdown v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

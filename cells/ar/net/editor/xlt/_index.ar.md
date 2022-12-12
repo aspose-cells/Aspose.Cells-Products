@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحرير ملفات XLT عبر .NET 
-url: /ar/net/editor/xlt/ 
+
 description: C# كود المصدر لتعديل مستند XLT على الأنظمة الأساسية .NET Framework أو .NET Core أو Windows Azure Mono أو Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

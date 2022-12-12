@@ -1,7 +1,7 @@
-﻿---
+---
 title: Преобразование XLSB в байтовый массив с помощью C# 
 weight: 7690
-url: /ru/net/conversion/xlsb-to-byte-array/ 
+
 description: C# Пример кода для преобразования XLSB в байтовый массив. Используйте этот код для преобразования Excel XLSB в массив байтов в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

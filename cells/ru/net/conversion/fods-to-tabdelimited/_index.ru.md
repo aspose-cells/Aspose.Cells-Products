@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование FODS в TABDELIMITED через C#
-url: /ru/net/conversion/fods-to-tabdelimited/
+
 description: Пример кода для преобразования fods в C# с разделителями табуляции. Используйте пример кода API для пакетных файлов fods для преобразования с разделителями табуляции в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

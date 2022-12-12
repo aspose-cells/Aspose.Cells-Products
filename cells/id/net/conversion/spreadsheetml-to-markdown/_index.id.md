@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan SPREADSHEETML ke MARKDOWN melalui C#
-url: /id/net/conversion/spreadsheetml-to-markdown/
+
 description: Contoh kode untuk spreadsheetml ke penurunan harga C# konversi. Gunakan API kode contoh untuk file spreadsheetml batch untuk konversi penurunan harga dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter XLT para GIF via C#
-url: /pt/net/conversion/xlt-to-gif/
+
 description: Código de exemplo para conversão de xlt para gif C#. Use API código de exemplo para arquivos xlt em lote para conversão gif em VB.NET, Asp.NET ou qualquer aplicativo baseado em .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja a JSON-t BMP-vé a(z) C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/json-to-bmp/ 
+
 description: Minta C++ konverziós kód a JSON-dokumentumhoz BMP formátumba. A programozók ezt a forráskódot használhatják a JSON-ból BMP-be kötegelt konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

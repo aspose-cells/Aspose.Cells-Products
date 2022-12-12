@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#를 통해 TSV를 DIF로 변환
-url: /ko/net/conversion/tsv-to-dif/
+
 description: tsv에서 diff C#로의 변환을 위한 샘플 코드입니다. 배치 tsv 파일에 대한 API 예제 코드를 사용하여 VB.NET, Asp.NET 또는 모든 .NET 기반 애플리케이션 내에서 변환을 변환합니다.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

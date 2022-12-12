@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLS konvertálása TXT-re a következőn keresztül: C#"
-url: /hu/net/conversion/xls-to-txt/
+
 description: Mintakód az xls-ből txt-be C# konverzióhoz. Használjon API példakódot a kötegelt xls fájlok txt konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

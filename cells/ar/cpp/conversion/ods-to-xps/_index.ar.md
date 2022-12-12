@@ -1,7 +1,7 @@
-﻿---
+---
 title: قم بتحويل ODS إلى XPS عبر تطبيق C++ 
 weight: 1930
-url: /ar/cpp/conversion/ods-to-xps/ 
+
 description: نموذج C++ رمز تحويل لمستند ODS إلى تنسيق XPS. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل دفعة من ODS إلى XPS داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi HTML ke FODS melalui Python
-url: /id/python-java/conversion/html-to-fods/
+
 description: Contoh kode untuk konversi html ke fods Python. Gunakan API kode contoh untuk file html batch ke konversi makanan dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést ODS na DIF prostřednictvím Python
-url: /cs/python-java/conversion/ods-to-dif/
+
 description: Ukázkový kód pro převod ods na rozdíl Python. Použijte API ukázkový kód pro dávkové soubory ods pro převod převodu v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi EXCEL sang JPG qua Python
-url: /vi/python-java/conversion/excel-to-jpg/
+
 description: Mã mẫu để chuyển đổi excel sang jpg Python. Sử dụng API mã mẫu cho hàng loạt tệp excel chuyển đổi sang jpg trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

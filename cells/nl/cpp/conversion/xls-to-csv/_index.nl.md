@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer XLS naar CSV via C++ applicatie 
 weight: 8520
-url: /nl/cpp/conversion/xls-to-csv/ 
+
 description: Voorbeeld C++ conversiecode voor XLS-document naar CSV-indeling. Programmeurs kunnen deze broncode gebruiken voor batch-XLS-naar-CSV-conversie binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

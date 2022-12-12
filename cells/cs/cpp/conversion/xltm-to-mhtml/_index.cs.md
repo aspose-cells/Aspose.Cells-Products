@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte XLTM na MHTML pomocí aplikace C++ 
-url: /cs/cpp/conversion/xltm-to-mhtml/ 
+
 description: Ukázka převodního kódu C++ pro dokument XLTM do formátu MHTML. Programátoři mohou použít tento zdrojový kód pro dávkovou konverzi XLTM na MHTML v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

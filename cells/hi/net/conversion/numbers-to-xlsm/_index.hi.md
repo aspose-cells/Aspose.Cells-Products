@@ -1,6 +1,6 @@
-﻿---
+---
 title: NUMBERS को C# के द्वारा XLSM में बदलें
-url: /hi/net/conversion/numbers-to-xlsm/
+
 description: संख्याओं के लिए नमूना कोड xlsm C# रूपांतरण के लिए। VB.NET, Asp.NET या किसी .NET आधारित एप्लिकेशन के भीतर बैच संख्या फ़ाइलों को xlsm रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

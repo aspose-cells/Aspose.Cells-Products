@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi XLTX ke TXT melalui C++ aplikasi 
-url: /id/cpp/conversion/xltx-to-txt/ 
+
 description: Contoh C++ kode konversi untuk dokumen XLTX ke format TXT. Pemrogram dapat menggunakan kode sumber ini untuk konversi batch XLTX ke TXT dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

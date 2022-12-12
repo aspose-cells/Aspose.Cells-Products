@@ -1,6 +1,6 @@
-﻿---
+---
 title: "JSON konvertálása XLT-vé a következőn keresztül: C#"
-url: /hu/net/conversion/json-to-xlt/
+
 description: Mintakód a json–xlt C# konverzióhoz. Használjon API példakódot a kötegelt json fájlokhoz az xlt konverzióhoz VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

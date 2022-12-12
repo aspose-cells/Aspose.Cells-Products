@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to TSV via C#
-url: /net/conversion/ods-to-tsv/
+
 description: Convert ODS to TSV format in C# code. Save ODS as TSV using VB.NET, Asp.NET or any .NET based application.
 ---
 

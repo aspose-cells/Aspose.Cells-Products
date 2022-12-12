@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to SVG via Java 
-url: /java/conversion/tabdelimited-to-svg/
+
 description: Convert TABDELIMITED to SVG format in Java code. Save TABDELIMITED as SVG using Java.
 ---
 

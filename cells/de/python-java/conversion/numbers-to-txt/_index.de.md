@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie NUMBERS in TXT über Python
-url: /de/python-java/conversion/numbers-to-txt/
+
 description: Beispielcode für die Umwandlung von Zahlen in txt Python. Verwenden Sie den API Beispielcode für die Konvertierung von Chargennummerndateien in TXT innerhalb der Anwendung Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta NUMBERS a XLSB a través de Python
-url: /es/python-java/conversion/numbers-to-xlsb/
+
 description: Ejemplo de código para conversión de números a xlsb Python. Utilice el código de ejemplo API para la conversión de archivos de números de lote a xlsb dentro de la aplicación Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

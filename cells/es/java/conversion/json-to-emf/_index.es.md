@@ -1,7 +1,7 @@
-﻿---
+---
 title: Convierta JSON a EMF a través de Java 
 weight: 2020
-url: /es/java/conversion/json-to-emf/ 
+
 description: Ejemplo de código de conversión Java para formato JSON a archivo EMF. Los programadores pueden usar este código de ejemplo para exportar hojas de cálculo de Excel y OpenOffice a EMF dentro de cualquier aplicación basada en Web o escritorio Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi TXT sang XLT qua Python
-url: /vi/python-java/conversion/txt-to-xlt/
+
 description: Mã mẫu cho chuyển đổi txt sang xlt Python. Sử dụng API mã mẫu cho các tệp txt hàng loạt để chuyển đổi xlt trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

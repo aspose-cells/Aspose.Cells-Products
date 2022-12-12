@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通過 C++ 解鎖 ODS 文檔 
 weight: 1190
-url: /zh-hant/cpp/unlock/ods/ 
+
 description: C++ 示例代碼，用於在 Windows 32 位、Windows 64 位和 Linux 64 位的 C++ 運行時環境中解鎖密碼保護的 ODS 文件。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

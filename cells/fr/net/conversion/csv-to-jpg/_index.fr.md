@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir CSV en JPG via C#
-url: /fr/net/conversion/csv-to-jpg/
+
 description: Exemple de code pour la conversion csv en jpg C#. Utilisez API exemple de code pour la conversion de fichiers csv par lots en jpg dans VB.NET, Asp.NET ou toute application basée sur .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Edit atau Lihat Metadata File XLSB melalui Java 
 weight: 7290
-url: /id/java/metadata/xlsb/ 
+
 description: Java kode contoh untuk mengedit atau melihat metadata format XLSB di Java Lingkungan Waktu Proses untuk Aplikasi JSP/JSF dan Aplikasi Desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

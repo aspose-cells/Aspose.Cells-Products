@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to GIF via C#
-url: /net/conversion/spreadsheetml-to-gif/
+
 description: Convert SPREADSHEETML to GIF format in C# code. Save SPREADSHEETML as GIF using VB.NET, Asp.NET or any .NET based application.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل الأرقام إلى SVG عبر Java 
-url: /ar/java/conversion/numbers-to-svg/ 
+
 description: نموذج Java رمز تحويل لتنسيق NUMBERS لملف SVG. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel و OpenOffice إلى SVG داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

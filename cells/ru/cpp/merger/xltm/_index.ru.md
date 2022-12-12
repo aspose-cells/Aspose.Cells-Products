@@ -1,6 +1,6 @@
-﻿---
+---
 title: Объединить файлы XLTM через C++ 
-url: /ru/cpp/merger/xltm/ 
+
 description: Пример кода C++ для объединения документов XLTM в среде выполнения C++ для 32-разрядной, 64-разрядной Windows и 64-разрядной версии Linux.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

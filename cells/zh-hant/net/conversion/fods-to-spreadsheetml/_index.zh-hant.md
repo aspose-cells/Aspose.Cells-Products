@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 C# 將 FODS 轉換為 SPREADSHEETML
-url: /zh-hant/net/conversion/fods-to-spreadsheetml/
+
 description: fods 到電子表格C# 轉換的示例代碼。在 VB.NET、Asp.NET 或任何基於 .NET 的應用程序中使用 API 示例代碼將批量 fods 文件轉換為電子表格。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してXLSMをEMFに変換します
-url: /ja/net/conversion/xlsm-to-emf/
+
 description: xlsmからemfC#への変換のサンプルコード。バッチxlsmファイルのAPIサンプルコードを使用して、VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内で変換をemfします。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to PNG via Python
-url: /python-net/conversion/csv-to-png/
+
 description: Sample code for csv to png Python conversion. Use API example code for batch csv files to png conversion within Python application.
 ---
 

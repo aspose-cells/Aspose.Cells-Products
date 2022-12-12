@@ -1,6 +1,6 @@
-﻿---
+---
 title: Lägg till en linje i diagrammet via C# 
-url: /sv/net/add-line-in-chart/ 
+
 description: C# Exempelkod för att lägga till en linje i diagrammet i Excel med hjälp av .NET bibliotek. Använd den här koden för att lägga till en linje i diagrammet till MS Excel i VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

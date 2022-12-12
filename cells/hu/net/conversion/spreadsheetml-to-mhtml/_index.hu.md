@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SPREADSHEETML konvertálása MHTML-re a következőn keresztül: C#"
-url: /hu/net/conversion/spreadsheetml-to-mhtml/
+
 description: Mintakód a táblázatkezelőből mhtml-re C# konverzióhoz. Használjon API példakódot a kötegelt táblázatkezelő fájlok mhtml konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazásban.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

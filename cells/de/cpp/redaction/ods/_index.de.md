@@ -1,7 +1,7 @@
-﻿---
+---
 title: Suchen und ersetzen Sie Text im ODS-Dokument über C++ 
 weight: 1610
-url: /de/cpp/redaction/ods/ 
+
 description: C++ Beispielcode zum Schwärzen vertraulicher Informationen in der ODS-Datei in C++ Runtime Environment für Windows 32 Bit, Windows 64 Bit und Linux 64 Bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: إنشاء التقارير في ملفات XLS عبر .NET 
 weight: 1700
-url: /ar/net/assembly/xls/ 
+
 description: C# شفرة المصدر لإنشاء تقارير بتنسيق XLS على .NET Framework أو .NET Core أو Mono أو أنظمة Xamarin الأساسية.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Merge ODS to HTM Files via C++ 
-url: /cpp/merger/merge-ods-to-htm/ 
+
 description: Merge ODS to HTM file in C++ code. Combine ODS to HTM file using C++.
 ---
 

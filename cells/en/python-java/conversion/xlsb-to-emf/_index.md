@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to EMF via Python
-url: /python-java/conversion/xlsb-to-emf/
+
 description: Convert XLSB to EMF format in Python code. Save XLSB as EMF using Python.
 ---
 

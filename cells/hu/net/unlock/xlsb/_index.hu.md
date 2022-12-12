@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLSB-dokumentum feloldása a következőn keresztül: .NET "
 weight: 6410
-url: /hu/net/unlock/xlsb/ 
+
 description: C# forráskód a jelszóval védett XLSB fájl feloldásához .NET Framework, .NET Core, Mono vagy Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

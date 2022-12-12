@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLSB konvertálása TABLEDELIMITED-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/xlsb-to-tabdelimited/
+
 description: Mintakód az xlsb-ből tabulátorral tagolt Python konverzióhoz. Használjon API példakódot a kötegelt xlsb fájlokhoz a tabulátorral tagolt konverzióhoz a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

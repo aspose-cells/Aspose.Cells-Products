@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLSM naar MARKDOWN via C#
-url: /nl/net/conversion/xlsm-to-markdown/
+
 description: Voorbeeldcode voor xlsm om C#-conversie af te waarderen. Gebruik API voorbeeldcode voor batch xlsm-bestanden om conversie te verlagen binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

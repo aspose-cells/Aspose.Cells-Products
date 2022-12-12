@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést NUMBERS na SVG přes Python
-url: /cs/python-java/conversion/numbers-to-svg/
+
 description: Ukázkový kód pro převod čísel na svg Python. Použijte API ukázkový kód pro dávkové soubory čísel na převod svg v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

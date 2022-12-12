@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer NUMMERS naar DIF via Python
-url: /nl/python-java/conversion/numbers-to-dif/
+
 description: Voorbeeldcode voor getallen voor de conversie van Python. Gebruik API voorbeeldcode voor batchnummerbestanden voor dif-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

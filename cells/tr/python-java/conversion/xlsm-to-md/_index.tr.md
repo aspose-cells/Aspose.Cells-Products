@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla XLSM'yi MD'ye dönüştürün
-url: /tr/python-java/conversion/xlsm-to-md/
+
 description: xlsm'den md'ye Python dönüştürme için örnek kod. Python uygulamasında toplu xlsm dosyalarından md'ye dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

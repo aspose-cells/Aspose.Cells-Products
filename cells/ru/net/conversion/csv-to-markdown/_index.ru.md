@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование CSV в MARKDOWN с помощью C#
-url: /ru/net/conversion/csv-to-markdown/
+
 description: Пример кода для преобразования csv в markdown C#. Используйте пример кода API для пакетной обработки CSV-файлов для преобразования уценки в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

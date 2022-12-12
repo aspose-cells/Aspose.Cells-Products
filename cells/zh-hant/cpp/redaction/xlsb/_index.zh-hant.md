@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通過 C++ 搜索和替換 XLSB 文檔中的文本 
 weight: 6660
-url: /zh-hant/cpp/redaction/xlsb/ 
+
 description: C++ 示例代碼，用於在 Windows 32 位、Windows 64 位和 Linux 64 位的 C++ 運行時環境上編輯 XLSB 文件中的敏感信息。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

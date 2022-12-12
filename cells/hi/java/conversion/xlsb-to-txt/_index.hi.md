@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLSB को Java द्वारा TXT में बदलें 
 weight: 4110
-url: /hi/java/conversion/xlsb-to-txt/ 
+
 description: TXT फ़ाइल में XLSB प्रारूप के लिए नमूना Java रूपांतरण कोड। प्रोग्रामर इस उदाहरण कोड का उपयोग किसी भी वेब या डेस्कटॉप Java आधारित एप्लिकेशन के भीतर एक्सेल और ओपनऑफिस स्प्रेडशीट को TXT में निर्यात करने के लिए कर सकते हैं।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

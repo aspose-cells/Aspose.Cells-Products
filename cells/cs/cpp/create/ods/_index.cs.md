@@ -1,6 +1,6 @@
-﻿---
+---
 title: Vytvářejte soubory ODS (Openoffice / Lbreoffice) prostřednictvím C++ 
-url: /cs/cpp/create-ods/ 
+
 description: C++ Ukázkový kód pro generování souborů ODS (Openoffice / Lbreoffice). Tento kód použijte k vytváření souborů ODS (Openoffice / Lbreoffice) v aplikaci založené na C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

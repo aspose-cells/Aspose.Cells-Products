@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование TABDELIMITED в GIF с помощью приложения C++ 
-url: /ru/cpp/conversion/tabdelimited-to-gif/ 
+
 description: Пример кода преобразования C++ для документа TABDELIMITED в формат GIF. Программисты могут использовать этот исходный код для пакетного преобразования TABDELIMITED в GIF в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

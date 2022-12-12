@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to JSON via Python
-url: /python-java/conversion/mhtml-to-json/
+
 description: Convert MHTML to JSON format in Python code. Save MHTML as JSON using Python.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Java aracılığıyla HTML'yi FODS'ye dönüştürün 
-url: /tr/java/conversion/html-to-fods/ 
+
 description: HTML biçimi için FODS dosyasına örnek Java dönüştürme kodu. Programcılar, Excel ve OpenOffice elektronik tablolarını herhangi bir Web veya Masaüstü Java tabanlı Uygulamada FODS'ye aktarmak için bu örnek kodu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

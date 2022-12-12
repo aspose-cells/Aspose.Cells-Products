@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TABDELIMITED إلى DIF عبر تطبيق C++ 
-url: /ar/cpp/conversion/tabdelimited-to-dif/ 
+
 description: نموذج C++ رمز التحويل لمستند TABDELIMITED إلى تنسيق DIF. يمكن للمبرمجين استخدام رمز المصدر هذا للتحويل الدفعي من TABDELIMITED إلى DIF داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

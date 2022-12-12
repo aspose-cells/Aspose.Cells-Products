@@ -1,6 +1,6 @@
-﻿---
+---
 title: HTML को C# के माध्यम से EMF में बदलें
-url: /hi/net/conversion/html-to-emf/
+
 description: एचटीएमएल से ईएमएफ C# रूपांतरण के लिए नमूना कोड। वीबी.NET, एएसपी.NET या किसी .NET आधारित एप्लिकेशन के भीतर ईएमएफ रूपांतरण के लिए बैच एचटीएमएल फाइलों के लिए API उदाहरण कोड का प्रयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

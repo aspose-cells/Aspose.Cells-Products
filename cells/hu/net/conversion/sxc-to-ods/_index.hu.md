@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SXC konvertálása ODS-vé a következőn keresztül: C#"
-url: /hu/net/conversion/sxc-to-ods/
+
 description: Mintakód az sxc-ből ods C# konverzióhoz. Használjon API példakódot a kötegelt sxc fájlok ods konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

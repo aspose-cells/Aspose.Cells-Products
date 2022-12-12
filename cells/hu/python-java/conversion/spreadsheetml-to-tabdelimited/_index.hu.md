@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SPREADSHEETML konvertálása TAB-raDELIMITED a következőn keresztül: Python"
-url: /hu/python-java/conversion/spreadsheetml-to-tabdelimited/
+
 description: Mintakód a táblázatkezelőből tabulátorral tagolt Python konverzióra. Használjon API példakódot a kötegelt táblázatkezelő fájlokhoz a tabulátorral tagolt konverzióhoz a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

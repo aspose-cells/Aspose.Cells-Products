@@ -1,6 +1,6 @@
-﻿---
+---
 title: Ubah NUMBER ke MARKDOWN melalui Python
-url: /id/python-java/conversion/numbers-to-markdown/
+
 description: Contoh kode angka untuk penurunan harga Python konversi. Gunakan API kode contoh untuk file nomor batch untuk konversi penurunan harga dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla CSV'yi XLSM'ye dönüştürün
-url: /tr/python-java/conversion/csv-to-xlsm/
+
 description: csv'den xlsm'ye Python dönüştürme için örnek kod. Python uygulamasında toplu csv dosyalarını xlsm'ye dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

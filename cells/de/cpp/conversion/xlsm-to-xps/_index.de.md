@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie XLSM in XPS über die Anwendung C++ 
-url: /de/cpp/conversion/xlsm-to-xps/ 
+
 description: Beispiel-Umwandlungscode C++ für das XLSM-Dokument in das XPS-Format. Programmierer können diesen Quellcode für die Batch-Konvertierung von XLSM in XPS in jeder C++-Anwendung verwenden.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

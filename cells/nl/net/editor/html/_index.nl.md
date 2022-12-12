@@ -1,6 +1,6 @@
-﻿---
+---
 title: HTML-bestanden bewerken via .NET 
-url: /nl/net/editor/html/ 
+
 description: C# broncode om HTML-document te bewerken op .NET Framework, .NET Core, Windows Azure, Mono of Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

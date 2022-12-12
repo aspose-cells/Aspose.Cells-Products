@@ -1,6 +1,6 @@
-﻿---
+---
 title: "ODS konvertálása XLAM-re a következőn keresztül: C#"
-url: /hu/net/conversion/ods-to-xlam/
+
 description: Mintakód az ods–xlam C# konverzióhoz. Használjon API példakódot kötegelt ods-fájlokhoz az xlam konverzióhoz VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

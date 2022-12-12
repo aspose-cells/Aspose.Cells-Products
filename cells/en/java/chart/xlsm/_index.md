@@ -1,7 +1,7 @@
 ---
 title: XLSM document chart via Java 
 weight: 3020
-url: /java/chart/xlsm/ 
+
 description: Java sample code to draw and convert chart or diagram in XLSM file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

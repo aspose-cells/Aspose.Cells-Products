@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ aracılığıyla ODS belgesinden metin ve resim ayıklayın 
 weight: 9130
-url: /tr/cpp/parser/ods/ 
+
 description: C++ Windows 32 bit, Windows 64 bit ve Linux 64 bit için C++ Runtime Environment'daki ODS dosyasından metin ve resim ayıklamak için örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

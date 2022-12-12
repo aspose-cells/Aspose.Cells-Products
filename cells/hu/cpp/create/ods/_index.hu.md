@@ -1,6 +1,6 @@
-﻿---
+---
 title: "ODS (Openoffice / Lbreoffice) fájlok létrehozása a következőn keresztül: C++ "
-url: /hu/cpp/create-ods/ 
+
 description: C++ Mintakód az ODS (Openoffice / Lbreoffice) fájlok generálásához. Ezzel a kóddal ODS (Openoffice / Lbreoffice) fájlokat hozhat létre C++ alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

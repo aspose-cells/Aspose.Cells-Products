@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta NÚMEROS a TIFF a través de C#
-url: /es/net/conversion/numbers-to-tiff/
+
 description: Ejemplo de código para conversión de números a tiff C#. Utilice el código de ejemplo API para archivos de números de lote para la conversión TIFF dentro de VB.NET, Asp.NET o cualquier aplicación basada en .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

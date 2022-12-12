@@ -1,6 +1,6 @@
-﻿---
+---
 title: FODS'u Python üzerinden MARKDOWN'a dönüştürün
-url: /tr/python-java/conversion/fods-to-markdown/
+
 description: Python dönüşümünü azaltmak için yemler için örnek kod. Python uygulamasında dönüştürmeyi azaltmak için toplu dosya dosyaları için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

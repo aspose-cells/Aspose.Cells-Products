@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل SXC إلى JSON عبر تطبيق C++ 
-url: /ar/cpp/conversion/sxc-to-json/ 
+
 description: نموذج رمز تحويل C++ لمستند SXC إلى تنسيق JSON. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل دفعة SXC إلى JSON داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

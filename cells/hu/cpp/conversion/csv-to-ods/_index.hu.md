@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertálja a CSV-t ODS-vé a(z) C++ alkalmazáson keresztül 
 weight: 340
-url: /hu/cpp/conversion/csv-to-ods/ 
+
 description: Minta C++ konverziós kód a CSV-dokumentumhoz ODS formátumba. A programozók ezt a forráskódot használhatják kötegelt CSV-ből ODS-vé konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

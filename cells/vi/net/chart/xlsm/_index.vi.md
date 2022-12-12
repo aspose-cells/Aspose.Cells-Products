@@ -1,7 +1,7 @@
-﻿---
+---
 title:  Biểu đồ tài liệu XLSM sang hình ảnh qua .NET 
 weight: 5100
-url: /vi/net/chart/xlsm/ 
+
 description: C# mã nguồn để vẽ và chuyển đổi biểu đồ hoặc sơ đồ trong tệp XLSM trên Nền tảng .NET Framework, .NET Core Mono hoặc Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

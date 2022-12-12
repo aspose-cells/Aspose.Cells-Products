@@ -1,6 +1,6 @@
-﻿---
+---
 title: Créer des graphiques à bulles via Python
-url: /fr/python-java/create-bubble-chart/
+
 description: Python Exemple de code pour créer des graphiques à bulles dans Excel à l'aide de la bibliothèque Python. Utilisez ce code pour créer un graphique à bulles vers MS Excel dans une application basée sur Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

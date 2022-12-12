@@ -1,6 +1,6 @@
-﻿---
+---
 title: XLT को XPS से C# में बदलें
-url: /hi/net/conversion/xlt-to-xps/
+
 description: xlt से xps C# रूपांतरण के लिए नमूना कोड। VB.NET, Asp.NET या किसी .NET आधारित एप्लिकेशन के भीतर xps फ़ाइलों को xps में बदलने के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

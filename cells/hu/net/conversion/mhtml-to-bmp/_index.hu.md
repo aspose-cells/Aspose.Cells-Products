@@ -1,6 +1,6 @@
-﻿---
+---
 title: "MHTML konvertálása BMP-vé a következőn keresztül: C#"
-url: /hu/net/conversion/mhtml-to-bmp/
+
 description: Mintakód az mhtml–bmp C# konverzióhoz. Használjon API példakódot kötegelt mhtml fájlok bmp konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

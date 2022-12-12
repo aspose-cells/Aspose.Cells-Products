@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer CSV naar EMF via C#
-url: /nl/net/conversion/csv-to-emf/
+
 description: Voorbeeldcode voor conversie van csv naar emf C#. Gebruik API voorbeeldcode voor batch-csv-bestanden naar emf-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

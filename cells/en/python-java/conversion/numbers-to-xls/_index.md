@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to XLS via Python
-url: /python-java/conversion/numbers-to-xls/
+
 description: Convert NUMBERS to XLS format in Python code. Save NUMBERS as XLS using Python.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj SPREADSHEETML na XPS za pomocą C#
-url: /pl/net/conversion/spreadsheetml-to-xps/
+
 description: Przykładowy kod konwersji arkusza kalkulacyjnego ml do XPS C#. Użyj przykładowego kodu API dla plików arkusza kalkulacyjnego wsadowego do konwersji XPS w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

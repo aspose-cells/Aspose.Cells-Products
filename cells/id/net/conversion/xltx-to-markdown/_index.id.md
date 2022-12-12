@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan XLTX ke MARKDOWN melalui C#
-url: /id/net/conversion/xltx-to-markdown/
+
 description: Contoh kode untuk konversi xltx ke penurunan harga C#. Gunakan API kode contoh untuk file batch xltx untuk konversi penurunan harga dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

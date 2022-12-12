@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してFODSをXLTMに変換します 
-url: /ja/java/conversion/fods-to-xltm/ 
+
 description: FODS形式からXLTMファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、任意のWebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをXLTMにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Δημιουργία αρχείων MS Excel XLTX μέσω Python 
-url: /el/python-java/create-xltx/ 
+
 description: Python Δείγμα κώδικα για τη δημιουργία εγγράφων XLTX. Χρησιμοποιήστε αυτόν τον κώδικα για τη δημιουργία αρχείων MS Excel XLTX εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

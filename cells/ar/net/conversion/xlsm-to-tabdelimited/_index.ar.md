@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLSM إلى TABDELIMITED عبر C#
-url: /ar/net/conversion/xlsm-to-tabdelimited/
+
 description: نموذج كود لتحويل xlsm إلى C# محدد بعلامات جدولة. استخدم API رمز المثال لملفات xlsm الدفعية لتحويل محدد بعلامات جدولة داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

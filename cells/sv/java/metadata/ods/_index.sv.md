@@ -1,7 +1,7 @@
-﻿---
+---
 title: Redigera eller visa metadata för ODS-filer via Java 
 weight: 2080
-url: /sv/java/metadata/ods/ 
+
 description: Java exempelkod för att redigera eller visa ODS-formatmetadata i Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

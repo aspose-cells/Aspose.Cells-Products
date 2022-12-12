@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera TABDELIMITED till XPS via C#
-url: /sv/net/conversion/tabdelimited-to-xps/
+
 description: Exempelkod för tabbavgränsad till xps C#-konvertering. Använd API exempelkod för batch-tabbavgränsade filer till xps-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

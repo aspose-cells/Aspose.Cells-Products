@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#을(를) 통해 Excel 파일 생성
-url: /ko/net/assembly/
+
 description: C# 코드를 사용하여 템플릿 시트에서 Microsoft Excel 스프레드시트 생성
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

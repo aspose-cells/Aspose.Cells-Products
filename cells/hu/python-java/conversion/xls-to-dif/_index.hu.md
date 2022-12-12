@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLS konvertálása DIF-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/xls-to-dif/
+
 description: Mintakód az xls to dif Python konverzióhoz. Használjon API példakódot kötegelt xls fájlokhoz a Python alkalmazáson belüli átalakításhoz.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

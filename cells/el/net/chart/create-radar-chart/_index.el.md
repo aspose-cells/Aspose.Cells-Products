@@ -1,6 +1,6 @@
-﻿---
+---
 title: Δημιουργία γραφημάτων ραντάρ μέσω C#
-url: /el/net/create-radar-chart/
+
 description: C# Δείγμα κώδικα για τη δημιουργία γραφημάτων ραντάρ στο Excel χρησιμοποιώντας τη Βιβλιοθήκη .NET. Χρησιμοποιήστε αυτόν τον κώδικα για τη δημιουργία ενός γραφήματος ραντάρ στο MS Excel εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

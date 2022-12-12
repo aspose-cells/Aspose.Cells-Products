@@ -1,7 +1,7 @@
-﻿---
+---
 title: Mesclar arquivos ODS via Java 
 weight: 6270
-url: /pt/java/merger/ods/ 
+
 description: Java código de amostra para combinar documentos ODS no Java ambiente de tempo de execução para aplicativos JSP/JSF e aplicativos de desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

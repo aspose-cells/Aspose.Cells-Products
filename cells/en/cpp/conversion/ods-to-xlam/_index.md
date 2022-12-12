@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to XLAM via C++
-url: /cpp/conversion/ods-to-xlam/
+
 description: Convert ODS to XLAM format in C++ code. Save ODS as XLAM using C++.
 ---
 

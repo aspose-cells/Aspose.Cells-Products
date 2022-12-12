@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer SPREADSHEETML naar HTML via Python
-url: /nl/python-java/conversion/spreadsheetml-to-html/
+
 description: Voorbeeldcode voor conversie van spreadsheetml naar html Python. Gebruik API voorbeeldcode voor batch-spreadsheetml-bestanden naar html-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

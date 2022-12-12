@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование MHTML в HTML через C#
-url: /ru/net/conversion/mhtml-to-html/
+
 description: Пример кода для преобразования mhtml в html C#. Используйте пример кода API для пакетного преобразования файлов mhtml в html в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

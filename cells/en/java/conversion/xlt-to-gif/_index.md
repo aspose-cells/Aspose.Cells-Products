@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to GIF via Java 
-url: /java/conversion/xlt-to-gif/
+
 description: Convert XLT to GIF format in Java code. Save XLT as GIF using Java.
 ---
 

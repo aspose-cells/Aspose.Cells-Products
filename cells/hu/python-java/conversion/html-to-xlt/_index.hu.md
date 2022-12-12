@@ -1,6 +1,6 @@
-﻿---
+---
 title: "HTML konvertálása XLT-vé a következőn keresztül: Python"
-url: /hu/python-java/conversion/html-to-xlt/
+
 description: Mintakód a html-ből xlt-be való Python konverzióhoz. Használjon API példakódot a kötegelt html fájlok xlt konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

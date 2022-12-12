@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SPREADSHEETML konvertálása JPEG formátumba a következőn keresztül: Python"
-url: /hu/python-java/conversion/spreadsheetml-to-jpeg/
+
 description: Mintakód a táblázatkezelőből JPEG-be Python. Használjon API példakódot a kötegelt táblázatkezelő fájlok jpeg konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

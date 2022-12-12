@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převeďte ODS na CSV pomocí aplikace C++ 
 weight: 6200
-url: /cs/cpp/conversion/ods-to-csv/ 
+
 description: Ukázkový konverzní kód C++ pro dokument ODS na formát CSV. Programátoři mohou použít tento zdrojový kód pro dávkový převod ODS na CSV v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

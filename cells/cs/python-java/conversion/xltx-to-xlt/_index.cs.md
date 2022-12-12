@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLTX na XLT přes Python
-url: /cs/python-java/conversion/xltx-to-xlt/
+
 description: Ukázkový kód pro převod xltx na xlt Python. Použijte API ukázkový kód pro dávkový převod souborů xltx na xlt v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

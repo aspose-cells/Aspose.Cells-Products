@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to DIF via C#
-url: /net/conversion/fods-to-dif/
+
 description: Convert FODS to DIF format in C# code. Save FODS as DIF using VB.NET, Asp.NET or any .NET based application.
 ---
 

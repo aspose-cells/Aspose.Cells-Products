@@ -1,7 +1,7 @@
-﻿---
+---
 title: Mesclar arquivos XLS via Java 
 weight: 5140
-url: /pt/java/merger/xls/ 
+
 description: Java código de amostra para combinar documentos XLS no Java ambiente de tempo de execução para aplicativos JSP/JSF e aplicativos de desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

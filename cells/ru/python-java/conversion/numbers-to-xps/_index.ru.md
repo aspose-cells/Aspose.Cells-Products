@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование NUMBERS в XPS через Python
-url: /ru/python-java/conversion/numbers-to-xps/
+
 description: Пример кода для преобразования чисел в xps Python. Используйте пример кода API для преобразования файлов номеров пакетов в xps в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

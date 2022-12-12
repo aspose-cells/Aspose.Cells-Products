@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLTM na PDF přes Python
-url: /cs/python-java/conversion/xltm-to-pdf/
+
 description: Ukázkový kód pro převod xltm na pdf Python. Použijte API ukázkový kód pro dávkový převod souborů xltm na pdf v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to GIF via Java 
-url: /java/conversion/fods-to-gif/
+
 description: Convert FODS to GIF format in Java code. Save FODS as GIF using Java.
 ---
 

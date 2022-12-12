@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversikan XLS ke MHTML melalui Java 
 weight: 5430
-url: /id/java/conversion/xls-to-mhtml/ 
+
 description: Contoh Java kode konversi untuk format XLS ke file MHTML. Pemrogram dapat menggunakan kode contoh ini untuk mengekspor spreadsheet Excel & OpenOffice ke MHTML dalam Aplikasi berbasis Web atau Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

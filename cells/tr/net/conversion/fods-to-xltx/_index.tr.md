@@ -1,6 +1,6 @@
-﻿---
+---
 title: FODS'u C# üzerinden XLTX'e dönüştürün
-url: /tr/net/conversion/fods-to-xltx/
+
 description: Yemlerden xltx'e C# dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu dosya dosyalarından xltx'e dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

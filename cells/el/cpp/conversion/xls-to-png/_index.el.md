@@ -1,7 +1,7 @@
-﻿---
+---
 title: Μετατροπή XLS σε PNG μέσω της εφαρμογής C++ 
 weight: 80
-url: /el/cpp/conversion/xls-to-png/ 
+
 description: Δείγμα κώδικα μετατροπής C++ για έγγραφο XLS σε μορφή PNG. Οι προγραμματιστές μπορούν να χρησιμοποιήσουν αυτόν τον πηγαίο κώδικα για ομαδική μετατροπή XLS σε PNG σε οποιαδήποτε εφαρμογή C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

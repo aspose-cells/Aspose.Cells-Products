@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertieren Sie CSV in PDF über Java 
 weight: 360
-url: /de/java/conversion/csv-to-pdf/ 
+
 description: Beispiel-Umwandlungscode Java für das CSV-Format in eine PDF-Datei. Programmierer können diesen Beispielcode verwenden, um Excel- und OpenOffice-Tabellen in PDF innerhalb einer beliebigen Web- oder Desktop-Java-basierten Anwendung zu exportieren.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

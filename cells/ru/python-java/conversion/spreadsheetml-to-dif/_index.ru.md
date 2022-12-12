@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование SPREADSHETML в DIF через Python
-url: /ru/python-java/conversion/spreadsheetml-to-dif/
+
 description: Пример кода для преобразования электронной таблицыml в разность Python. Используйте пример кода API для пакетных файлов электронной таблицыml для преобразования различий в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

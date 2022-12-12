@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TXT na MARKDOWN přes Python
-url: /cs/python-java/conversion/txt-to-markdown/
+
 description: Ukázkový kód pro převod txt na markdown Python. Použijte API ukázkový kód pro dávkové soubory txt k převodu markdown v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

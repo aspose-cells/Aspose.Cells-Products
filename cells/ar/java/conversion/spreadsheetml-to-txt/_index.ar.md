@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل SPREADSHEETML إلى TXT عبر Java 
-url: /ar/java/conversion/spreadsheetml-to-txt/ 
+
 description: نموذج رمز تحويل Java لتنسيق SPREADSHEETML إلى ملف TXT. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى TXT داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

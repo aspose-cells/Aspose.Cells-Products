@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertera XLS till XLSX via Java 
 weight: 5760
-url: /sv/java/conversion/xls-to-xlsx/ 
+
 description: Exempel Java-konverteringskod för XLS-format till XLSX-fil. Programmerare kan använda den här exempelkoden för att exportera Excel- och OpenOffice-kalkylblad till XLSX inom alla webb- eller skrivbordsbaserade Java-applikationer.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

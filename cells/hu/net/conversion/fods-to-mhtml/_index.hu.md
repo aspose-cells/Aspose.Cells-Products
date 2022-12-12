@@ -1,6 +1,6 @@
-﻿---
+---
 title: "FODS konvertálása MHTML-re a következőn keresztül: C#"
-url: /hu/net/conversion/fods-to-mhtml/
+
 description: Mintakód a fod-ból mhtml-be C# konverzióhoz. Használjon API példakódot a kötegelt fod fájlok mhtml konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

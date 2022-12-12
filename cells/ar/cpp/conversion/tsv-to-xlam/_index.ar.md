@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TSV إلى XLAM عبر تطبيق C++ 
-url: /ar/cpp/conversion/tsv-to-xlam/ 
+
 description: نموذج رمز تحويل C++ لمستند TSV إلى تنسيق XLAM. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل TSV إلى XLAM دفعة داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

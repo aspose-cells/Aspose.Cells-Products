@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj SPREADSHEETML na DIF przez C#
-url: /pl/net/conversion/spreadsheetml-to-dif/
+
 description: Przykładowy kod dla arkusza kalkulacyjnego w celu porównania konwersji C#. Użyj przykładowego kodu API dla wsadowych plików arkusza kalkulacyjnego w celu konwersji różnic w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

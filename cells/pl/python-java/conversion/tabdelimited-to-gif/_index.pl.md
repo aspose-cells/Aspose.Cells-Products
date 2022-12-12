@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj TABDELIMITED na GIF przez Python
-url: /pl/python-java/conversion/tabdelimited-to-gif/
+
 description: Przykładowy kod do konwersji rozdzielanej tabulatorami na gif Python. Użyj przykładowego kodu API dla plików wsadowych rozdzielanych tabulatorami do konwersji gif w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

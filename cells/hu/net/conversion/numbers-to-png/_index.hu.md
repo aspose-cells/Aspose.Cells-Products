@@ -1,6 +1,6 @@
-﻿---
+---
 title: "NUMBERS konvertálása PNG-re a következőn keresztül: C#"
-url: /hu/net/conversion/numbers-to-png/
+
 description: Mintakód számok png C# konverziójára. Használjon API példakódot kötegszámfájlokhoz a png konverzióhoz VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

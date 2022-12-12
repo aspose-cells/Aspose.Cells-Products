@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer JSON naar GIF via Python
-url: /nl/python-java/conversion/json-to-gif/
+
 description: Voorbeeldcode voor conversie van json naar gif Python. Gebruik API voorbeeldcode voor batch json-bestanden naar gif-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

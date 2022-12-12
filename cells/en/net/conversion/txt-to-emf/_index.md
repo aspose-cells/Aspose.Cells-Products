@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to EMF via C#
-url: /net/conversion/txt-to-emf/
+
 description: Convert TXT to EMF format in C# code. Save TXT as EMF using VB.NET, Asp.NET or any .NET based application.
 ---
 

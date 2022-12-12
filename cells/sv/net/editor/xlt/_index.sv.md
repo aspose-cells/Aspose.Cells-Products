@@ -1,6 +1,6 @@
-﻿---
+---
 title: Redigera XLT-filer via .NET 
-url: /sv/net/editor/xlt/ 
+
 description: C# källkod för att redigera XLT-dokument på .NET Framework, .NET Core, Windows Azure, Mono eller Xamarin-plattformar.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

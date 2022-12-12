@@ -1,6 +1,6 @@
 ---
 title: Merge MHTML to XLSM Files via Java 
-url: /java/merger/merge-mhtml-to-xlsm/ 
+
 description: Merge MHTML to XLSM file in Java code. Combine MHTML to XLSM file using Java based desktop or web application.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie NUMBERS in TABDELIMITED über C#
-url: /de/net/conversion/numbers-to-tabdelimited/
+
 description: Beispielcode für die Umwandlung von Zahlen in tabulatorgetrennte C#. Verwenden Sie den API-Beispielcode für Batch-Nummerndateien in tabulatorgetrennte Konvertierung innerhalb von VB.NET, Asp.NET oder einer beliebigen .NET-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

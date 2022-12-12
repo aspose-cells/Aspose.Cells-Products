@@ -1,6 +1,6 @@
-﻿---
+---
 title: Σχολιασμοί αρχείων Excel μέσω Java
-url: /el/java/annotation/
+
 description: Προσθέστε ή αφαιρέστε σχολιασμούς δεδομένων υπολογιστικών φύλλων Excel και OpenOffice με τη βιβλιοθήκη Java.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Dela XLSB-filer via Java 
 weight: 7880
-url: /sv/java/splitter/xlsb/ 
+
 description: Java exempelkod för att dela XLSB-dokument i Java Runtime Environment för JSP/JSF Application och Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

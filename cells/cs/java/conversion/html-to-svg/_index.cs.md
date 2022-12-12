@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést HTML na SVG pomocí Java 
 weight: 7120
-url: /cs/java/conversion/html-to-svg/ 
+
 description: Ukázka převodního kódu Java pro formát HTML na soubor SVG. Programátoři mohou tento příklad kódu použít k exportu tabulek Excelu a OpenOffice do SVG v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

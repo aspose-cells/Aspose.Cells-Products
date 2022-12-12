@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή NUMBERS σε JSON μέσω Python
-url: /el/python-java/conversion/numbers-to-json/
+
 description: Δείγμα κώδικα για μετατροπή αριθμών σε json Python. Χρησιμοποιήστε API παράδειγμα κώδικα για αρχεία αριθμών παρτίδας για μετατροπή json εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

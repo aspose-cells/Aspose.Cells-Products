@@ -1,6 +1,6 @@
-﻿---
+---
 title: Xem Định dạng Tệp MHTML qua .NET 
-url: /vi/net/viewer/mhtml/ 
+
 description: C# mã nguồn để tải, kết xuất và hiển thị tài liệu MHTML trên Nền tảng .NET Framework, .NET Core, Windows Azure, Mono hoặc Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

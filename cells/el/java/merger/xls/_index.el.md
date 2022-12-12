@@ -1,7 +1,7 @@
-﻿---
+---
 title: Συγχώνευση αρχείων XLS μέσω Java 
 weight: 5140
-url: /el/java/merger/xls/ 
+
 description: Java δείγμα κώδικα για συνδυασμό εγγράφων XLS στο Java Runtime Environment για JSP/JSF Application και Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

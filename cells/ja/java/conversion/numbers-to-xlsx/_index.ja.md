@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してNUMBERSをXLSXに変換します 
-url: /ja/java/conversion/numbers-to-xlsx/ 
+
 description: NUMBERS形式のXLSXファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のXLSXにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Edit atau Lihat Metadata File ODS melalui Java 
 weight: 2080
-url: /id/java/metadata/ods/ 
+
 description: Java kode contoh untuk mengedit atau melihat metadata format ODS di Java Lingkungan Waktu Proses untuk Aplikasi JSP/JSF dan Aplikasi Desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert TSV to JSON via Python
-url: /python-java/conversion/tsv-to-json/
+
 description: Convert TSV to JSON format in Python code. Save TSV as JSON using Python.
 ---
 

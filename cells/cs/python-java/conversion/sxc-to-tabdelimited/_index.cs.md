@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést SXC na TABDELIMITED přes Python
-url: /cs/python-java/conversion/sxc-to-tabdelimited/
+
 description: Ukázkový kód pro převod sxc na Python oddělený tabulátory. Použijte API ukázkový kód pro dávkový převod souborů sxc na tabulátory v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

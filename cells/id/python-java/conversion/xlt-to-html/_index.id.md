@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi XLT ke HTML melalui Python
-url: /id/python-java/conversion/xlt-to-html/
+
 description: Contoh kode untuk konversi xlt ke html Python. Gunakan API kode contoh untuk file batch xlt ke konversi html dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

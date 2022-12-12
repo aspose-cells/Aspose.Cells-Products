@@ -1,7 +1,7 @@
-﻿---
+---
 title: "ODS-fájlok egyesítése a következőn keresztül: Java "
 weight: 6270
-url: /hu/java/merger/ods/ 
+
 description: Java mintakód az ODS dokumentumok kombinálásához a Java Runtime Environment for JSP/JSF Applications és az asztali alkalmazásokhoz.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

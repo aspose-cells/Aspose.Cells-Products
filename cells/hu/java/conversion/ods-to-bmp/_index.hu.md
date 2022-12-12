@@ -1,7 +1,7 @@
-﻿---
+---
 title: "ODS konvertálása BMP-vé a következőn keresztül: Java "
 weight: 2160
-url: /hu/java/conversion/ods-to-bmp/ 
+
 description: Minta Java konverziós kód az ODS-formátumhoz BMP-fájllá. A programozók ezt a példakódot használhatják Excel- és OpenOffice-táblázatok exportálására BMP-be bármely web- vagy asztali Java-alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

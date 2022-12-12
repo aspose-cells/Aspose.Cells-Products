@@ -1,6 +1,6 @@
-﻿---
+---
 title: SPREADSHEETML'yi Python aracılığıyla TIFF'ye dönüştürün
-url: /tr/python-java/conversion/spreadsheetml-to-tiff/
+
 description: E-tablodan tiff'e Python dönüşümü için örnek kod. Python uygulaması içinde dönüştürmeyi değiştirmek için toplu elektronik tabloml dosyaları için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

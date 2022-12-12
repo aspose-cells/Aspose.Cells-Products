@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل CSV إلى XLTM عبر C#
-url: /ar/net/conversion/csv-to-xltm/
+
 description: نموذج رمز لتحويل csv إلى xltm C#. استخدم API رمز المثال لملفات csv المجمعة لتحويل xltm داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

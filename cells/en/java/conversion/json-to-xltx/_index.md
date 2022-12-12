@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to XLTX via Java 
-url: /java/conversion/json-to-xltx/
+
 description: Convert JSON to XLTX format in Java code. Save JSON as XLTX using Java.
 ---
 

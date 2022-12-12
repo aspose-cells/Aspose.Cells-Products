@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLSX-bestanden samenvoegen via Java 
 weight: 8930
-url: /nl/java/merger/xlsx/ 
+
 description: Java voorbeeldcode om XLSX-documenten te combineren in Java Runtime Environment voor JSP/JSF-applicaties en desktopapplicaties.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

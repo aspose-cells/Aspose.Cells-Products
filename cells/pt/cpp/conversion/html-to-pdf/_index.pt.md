@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converter HTML para PDF por meio do aplicativo C++ 
 weight: 6400
-url: /pt/cpp/conversion/html-to-pdf/ 
+
 description: Exemplo de código de conversão C++ de documento HTML para formato PDF. Os programadores podem usar esse código-fonte para conversão em lote de HTML para PDF em qualquer aplicativo C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

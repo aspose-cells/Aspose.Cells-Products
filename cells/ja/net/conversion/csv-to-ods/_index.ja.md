@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してCSVをODSに変換する
-url: /ja/net/conversion/csv-to-ods/
+
 description: csvからodsC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチcsvファイルからodsへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

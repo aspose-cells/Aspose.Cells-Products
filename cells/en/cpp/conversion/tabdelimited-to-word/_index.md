@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to WORD via C++
-url: /cpp/conversion/tabdelimited-to-word/
+
 description: Convert TABDELIMITED to WORD format in C++ code. Save TABDELIMITED as WORD using C++.
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET Excel API | Tabellenkalkulationsformate über .NET Core verarbeiten 
 weight: 2030
-url: /de/net/ 
+
 description: C# ASP.NET VB.NET-Bibliothek für die Arbeit mit Microsoft Excel-Dokumenten. Tabellenkalkulationsdateien erstellen, lesen, schreiben, speichern und drucken. In PDF oder weitere Formate konvertieren
 ---
 {{< blocks/products/pf/main-wrap-class >}}

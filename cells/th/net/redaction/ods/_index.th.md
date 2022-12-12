@@ -1,7 +1,7 @@
-﻿---
+---
 title: ค้นหาและแทนที่ข้อความในเอกสาร ODS ผ่าน .NET 
 weight: 6100
-url: /th/net/redaction/ods/ 
+
 description: C# ซอร์สโค้ดเพื่อแก้ไขข้อมูลที่ละเอียดอ่อนในไฟล์ ODS บน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

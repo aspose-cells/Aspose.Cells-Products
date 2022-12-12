@@ -1,7 +1,7 @@
-﻿---
+---
 title: Μετατροπή MHTML σε BMP μέσω της εφαρμογής C++ 
 weight: 1020
-url: /el/cpp/conversion/mhtml-to-bmp/ 
+
 description: Δείγμα κώδικα μετατροπής C++ για έγγραφο MHTML σε μορφή BMP. Οι προγραμματιστές μπορούν να χρησιμοποιήσουν αυτόν τον πηγαίο κώδικα για ομαδική μετατροπή MHTML σε BMP σε οποιαδήποτε εφαρμογή C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla XLSB'yi TABDELIMITED'e dönüştürün
-url: /tr/python-java/conversion/xlsb-to-tabdelimited/
+
 description: xlsb'den sekmeyle ayrılmış Python dönüşümüne ilişkin örnek kod. Python uygulamasında toplu xlsb dosyalarından sekmeyle ayrılmış dönüştürmeye yönelik API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

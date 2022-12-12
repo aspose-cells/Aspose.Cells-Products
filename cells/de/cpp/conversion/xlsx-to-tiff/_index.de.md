@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertieren Sie XLSX in TIFF über die Anwendung C++ 
 weight: 8570
-url: /de/cpp/conversion/xlsx-to-tiff/ 
+
 description: Beispiel-Umwandlungscode C++ für das XLSX-Dokument in das TIFF-Format. Programmierer können diesen Quellcode für die Batch-Konvertierung von XLSX in TIFF in jeder C++-Anwendung verwenden.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi SPREADSHEETML sang XLSM qua ứng dụng C++ 
-url: /vi/cpp/conversion/spreadsheetml-to-xlsm/ 
+
 description: Mã chuyển đổi C++ mẫu cho tài liệu SPREADSHEETML sang định dạng XLSM. Lập trình viên có thể sử dụng mã nguồn này để chuyển đổi hàng loạt SPREADSHEETML sang XLSM trong bất kỳ Ứng dụng C++ nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla Microsoft Excel Dosya Dönüştürme 
-url: /tr/python/conversion/
+
 description: Yalnızca birkaç satır Python koduyla Excel XLS, XLSX, ODS, CSV'yi PDF, XPS, HTML, JPEG, HTML ve diğer birçok popüler biçime dönüştürün.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

@@ -1,7 +1,7 @@
 ---
 title: XLSB document chart via Java 
 weight: 670
-url: /java/chart/xlsb/ 
+
 description: Java sample code to draw and convert chart or diagram in XLSB file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

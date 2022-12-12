@@ -1,7 +1,7 @@
-﻿---
+---
 title: Slå samman XLTX-filer via .NET 
 weight: 1220
-url: /sv/net/merger/xltx/ 
+
 description: C# källkod för att kombinera XLTX-dokument på .NET Framework, .NET Core, Mono eller Xamarin-plattformar.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

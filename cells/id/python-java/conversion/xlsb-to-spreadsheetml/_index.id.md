@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan XLSB ke SPREADSHEETML melalui Python
-url: /id/python-java/conversion/xlsb-to-spreadsheetml/
+
 description: Contoh kode untuk xlsb ke spreadsheetml Python konversi. Gunakan API kode contoh untuk file batch xlsb ke konversi spreadsheetml dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

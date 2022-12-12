@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converti TXT in GIF tramite Python
-url: /it/python-java/conversion/txt-to-gif/
+
 description: Codice di esempio per la conversione da txt a gif Python. Usa il codice di esempio API per la conversione batch di file txt in gif all'interno dell'applicazione Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

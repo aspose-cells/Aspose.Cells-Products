@@ -1,6 +1,6 @@
 ---
 title: Merge NUMBERS to XLS Files via C# 
-url: /net/merger/merge-numbers-to-xls/ 
+
 description: Merge NUMBERS to XLS file in C# code. Combine NUMBERS to XLS file using VB.NET, Asp.NET or any .NET based application.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Merge MHTML to XLS Files via Java 
-url: /java/merger/merge-mhtml-to-xls/ 
+
 description: Merge MHTML to XLS file in Java code. Combine MHTML to XLS file using Java based desktop or web application.
 ---
 

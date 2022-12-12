@@ -1,7 +1,7 @@
-﻿---
+---
 title: Generieren Sie Berichte in XLSB-Dateien über .NET 
 weight: 1690
-url: /de/net/assembly/xlsb/ 
+
 description: C#-Quellcode zum Generieren von Berichten im XLSB-Format auf .NET Framework-, .NET Core-, Mono- oder Xamarin-Plattformen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

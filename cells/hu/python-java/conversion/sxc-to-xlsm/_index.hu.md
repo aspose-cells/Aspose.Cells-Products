@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SXC konvertálása XLSM-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/sxc-to-xlsm/
+
 description: Mintakód az sxc–xlsm Python konverzióhoz. Használjon API példakódot az sxc fájlok kötegelt xlsm konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง NUMBERS เป็น XLT ผ่าน C#
-url: /th/net/conversion/numbers-to-xlt/
+
 description: โค้ดตัวอย่างสำหรับการแปลงตัวเลขเป็น xlt C# ใช้รหัสตัวอย่าง API สำหรับไฟล์หมายเลขแบทช์เป็นการแปลง xlt ภายใน VB.NET, Asp.NET หรือแอปพลิเคชันที่ใช้ .NET
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

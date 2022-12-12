@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer EXCEL naar WORD via Python
-url: /nl/python-java/conversion/excel-to-word/
+
 description: Voorbeeldcode voor conversie van Excel naar Word Python. Gebruik API voorbeeldcode voor batch Excel-bestanden naar woordconversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

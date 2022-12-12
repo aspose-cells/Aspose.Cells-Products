@@ -1,7 +1,7 @@
-﻿---
+---
 title: Документ XLSB с водяным знаком через Java 
 weight: 5900
-url: /ru/java/watermark/xlsb/ 
+
 description: Пример кода Java для добавления или удаления водяного знака в файле XLSB в Java среде выполнения для приложений JSP/JSF и настольных приложений.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

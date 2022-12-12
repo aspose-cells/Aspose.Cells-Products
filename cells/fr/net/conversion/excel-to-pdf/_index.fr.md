@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir EXCEL en PDF via C#
-url: /fr/net/conversion/excel-to-pdf/
+
 description: Exemple de code pour la conversion d'excel en pdf C#. Utilisez API exemple de code pour la conversion de fichiers Excel par lots en PDF dans VB.NET, Asp.NET ou toute application basée sur .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

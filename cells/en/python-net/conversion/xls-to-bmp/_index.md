@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to BMP via Python
-url: /python-net/conversion/xls-to-bmp/
+
 description: Sample code for xls to bmp Python conversion. Use API example code for batch xls files to bmp conversion within Python application.
 ---
 

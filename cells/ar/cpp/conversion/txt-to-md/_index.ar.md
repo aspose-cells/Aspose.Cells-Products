@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TXT إلى MD عبر تطبيق C++ 
-url: /ar/cpp/conversion/txt-to-md/ 
+
 description: نموذج C++ رمز التحويل لمستند TXT إلى تنسيق MD. يمكن للمبرمجين استخدام رمز المصدر هذا لتحويل دفعة TXT إلى MD في أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title:  Диаграмма документа XLSM к изображениям через .NET 
 weight: 5100
-url: /ru/net/chart/xlsm/ 
+
 description: Исходный код C# для рисования и преобразования диаграммы или диаграммы в файл XLSM на платформах .NET Framework, .NET Core, Mono или Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

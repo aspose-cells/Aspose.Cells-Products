@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést SPREADSHEETML na JPEG prostřednictvím C#
-url: /cs/net/conversion/spreadsheetml-to-jpeg/
+
 description: Ukázkový kód pro převod tabulky ml na jpeg C#. Použijte API ukázkový kód pro dávkový převod tabulkových souborů ml na jpeg v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

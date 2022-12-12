@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter SXC para ODS via Java 
-url: /pt/java/conversion/sxc-to-ods/ 
+
 description: Exemplo de código de conversão Java do formato SXC para arquivo ODS. Os programadores podem usar este código de exemplo para exportar planilhas do Excel e OpenOffice para ODS em qualquer aplicativo baseado na Web ou Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

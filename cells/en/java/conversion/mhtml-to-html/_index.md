@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to HTML via Java 
-url: /java/conversion/mhtml-to-html/
+
 description: Convert MHTML to HTML format in Java code. Save MHTML as HTML using Java.
 ---
 

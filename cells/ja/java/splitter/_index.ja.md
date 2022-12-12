@@ -1,6 +1,6 @@
-﻿---
+---
 title: ExcelスプレッドシートをJavaのワークシートに分割
-url: /ja/java/splitter/
+
 description: JavaExcelライブラリを使用してMicrosoftExcelファイルを複数のドキュメントに分割する方法を説明するJavaソースコード
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

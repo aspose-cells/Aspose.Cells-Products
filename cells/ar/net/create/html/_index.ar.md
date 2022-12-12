@@ -1,6 +1,6 @@
-﻿---
+---
 title: إنشاء ملفات HTML عبر C# 
-url: /ar/net/create-html/ 
+
 description: C# نموذج كود لإنشاء مستندات HTML. استخدم هذا الرمز لإنشاء ملفات HTML داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

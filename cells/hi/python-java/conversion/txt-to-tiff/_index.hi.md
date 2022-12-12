@@ -1,6 +1,6 @@
-﻿---
+---
 title: TXT को Python के माध्यम से TIFF में बदलें
-url: /hi/python-java/conversion/txt-to-tiff/
+
 description: txt से tiff Python रूपांतरण के लिए नमूना कोड. बैच txt फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें ताकि Python एप्लिकेशन में रूपांतरण को टफ़ किया जा सके।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

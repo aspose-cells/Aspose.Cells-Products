@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование TABDELIMITED в SPREADSHEETML через Python
-url: /ru/python-java/conversion/tabdelimited-to-spreadsheetml/
+
 description: Пример кода для преобразования tabdelimited в электронную таблицуml Python. Используйте пример кода API для пакетного преобразования файлов с разделителями табуляцией в электронную таблицу в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

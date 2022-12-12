@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie XLS in HTML über C#
-url: /de/net/conversion/xls-to-html/
+
 description: Beispielcode für die Umwandlung von xls in html C#. Verwenden Sie API Beispielcode für die Batch-Konvertierung von XLS-Dateien in HTML in VB.NET, Asp.NET oder einer beliebigen .NET-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

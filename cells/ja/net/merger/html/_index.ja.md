@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NETを介してHTMLファイルをマージする 
 weight: 9440
-url: /ja/net/merger/html/ 
+
 description: .NETフレームワーク、.NETコア、Mono、またはXamarinプラットフォームでHTMLドキュメントを結合するためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển NUMBERS thành EMF qua C#
-url: /vi/net/conversion/numbers-to-emf/
+
 description: Mã mẫu cho chuyển đổi số thành emf C#. Sử dụng mã mẫu API cho các tệp số lô để chuyển đổi emf trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

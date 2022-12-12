@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET Excel API |通过 .NET Core 处理电子表格格式 
 weight: 2030
-url: /zh/net/ 
+
 description: C# ASP.NET VB.NET 库，用于处理 Microsoft Excel 文档。创建读写保存和打印电子表格文件。转换为 PDF 或更多格式
 ---
 {{< blocks/products/pf/main-wrap-class >}}

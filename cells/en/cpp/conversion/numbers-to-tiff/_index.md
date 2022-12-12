@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to TIFF via C++
-url: /cpp/conversion/numbers-to-tiff/
+
 description: Convert NUMBERS to TIFF format in C++ code. Save NUMBERS as TIFF using C++.
 ---
 

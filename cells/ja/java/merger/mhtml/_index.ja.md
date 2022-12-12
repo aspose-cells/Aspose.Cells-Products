@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してMHTMLファイルをマージします 
 weight: 4420
-url: /ja/java/merger/mhtml/ 
+
 description: JSP/JSFアプリケーションとデスクトップアプリケーションのJavaランタイム環境でMHTMLドキュメントを組み合わせるためのJavaサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

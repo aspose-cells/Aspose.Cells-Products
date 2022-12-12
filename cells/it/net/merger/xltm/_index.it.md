@@ -1,7 +1,7 @@
-﻿---
+---
 title: Unisci file XLTM tramite .NET 
 weight: 9010
-url: /it/net/merger/xltm/ 
+
 description: C# codice sorgente per combinare documenti XLTM su piattaforme .NET Framework, .NET Core, Mono o Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

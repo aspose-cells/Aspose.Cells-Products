@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést MHTML na PDF přes Python
-url: /cs/python-java/conversion/mhtml-to-pdf/
+
 description: Ukázkový kód pro převod mhtml na pdf Python. Použijte API ukázkový kód pro dávkový převod souborů mhtml na pdf v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

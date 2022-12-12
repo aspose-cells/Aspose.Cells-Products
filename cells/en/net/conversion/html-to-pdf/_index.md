@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to PDF via C#
-url: /net/conversion/html-to-pdf/
+
 description: Convert HTML to PDF format in C# code. Save HTML as PDF using VB.NET, Asp.NET or any .NET based application.
 ---
 

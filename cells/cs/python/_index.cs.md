@@ -1,7 +1,7 @@
-﻿---
+---
 title: Python Tabulka Excel API – Aspose 
 weight: 2820
-url: /cs/python/ 
+
 description: Knihovna tabulek Python pro vytváření souborů Excel pro čtení, zápis a analýzu.
 ---
 {{< blocks/products/pf/main-wrap-class >}}

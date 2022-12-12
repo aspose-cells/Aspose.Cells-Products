@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование MHTML в MARKDOWN с помощью C#
-url: /ru/net/conversion/mhtml-to-markdown/
+
 description: Пример кода для преобразования mhtml в markdown C#. Используйте пример кода API для пакетных файлов mhtml для преобразования уценки в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

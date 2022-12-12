@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to MD via Java 
-url: /java/conversion/html-to-md/
+
 description: Convert HTML to MD format in Java code. Save HTML as MD using Java.
 ---
 

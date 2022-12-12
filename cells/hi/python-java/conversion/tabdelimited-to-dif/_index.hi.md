@@ -1,6 +1,6 @@
-﻿---
+---
 title: TABDELIMITED को Python के ज़रिए DIF में बदलें
-url: /hi/python-java/conversion/tabdelimited-to-dif/
+
 description: भिन्न Python रूपांतरण के लिए सीमित टैब के लिए नमूना कोड। बैच टैबसीमांकित फ़ाइलों के लिए Python एप्लिकेशन के भीतर रूपांतरण को अलग करने के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Entsperren Sie das XLSM-Dokument über C++ 
 weight: 6070
-url: /de/cpp/unlock/xlsm/ 
+
 description: C++ Beispielcode zum Entsperren einer passwortgeschützten XLSM-Datei in C++ Runtime Environment für Windows 32 Bit, Windows 64 Bit und Linux 64 Bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

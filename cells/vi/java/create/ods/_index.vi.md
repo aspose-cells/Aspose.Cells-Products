@@ -1,6 +1,6 @@
-﻿---
+---
 title: Tạo tệp ODS (Openoffice / Lbreoffice) qua Java 
-url: /vi/java/create-ods/ 
+
 description: Java Mã mẫu để tạo tài liệu ODS. Sử dụng mã này để tạo tệp ODS (Openoffice / Lbreoffice) trong ứng dụng web hoặc máy tính để bàn dựa trên Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

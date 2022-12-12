@@ -1,6 +1,6 @@
-﻿---
+---
 title: Buat File Excel melalui Java
-url: /id/java/assembly/
+
 description: Buat spreadsheet Microsoft Excel dari lembar template menggunakan Java pustaka spreadsheet
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

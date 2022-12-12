@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer FODS naar PNG via Java 
-url: /nl/java/conversion/fods-to-png/ 
+
 description: Voorbeeld Java conversiecode voor FODS-indeling naar PNG-bestand. Programmeurs kunnen deze voorbeeldcode gebruiken om Excel- en OpenOffice-spreadsheets naar PNG te exporteren binnen elke web- of desktoptoepassing Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

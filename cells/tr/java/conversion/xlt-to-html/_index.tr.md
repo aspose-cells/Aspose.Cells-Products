@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java aracılığıyla XLT'yi HTML'ye dönüştürün 
 weight: 2250
-url: /tr/java/conversion/xlt-to-html/ 
+
 description: XLT biçimi için HTML dosyasına örnek Java dönüştürme kodu. Programcılar, Excel ve OpenOffice elektronik tablolarını herhangi bir Web veya Masaüstü Java tabanlı Uygulamada HTML'ye aktarmak için bu örnek kodu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLSM-Anmerkung über C++ hinzufügen 
 weight: 2860
-url: /de/cpp/annotation/xlsm/ 
+
 description: C++ Beispielcode zum Löschen von Annotationen im XLSM-Format in C++ Runtime Environment für Windows 32 Bit, Windows 64 Bit und Linux 64 Bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

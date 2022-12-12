@@ -1,6 +1,6 @@
-﻿---
+---
 title: Skapa HTML-filer via Java 
-url: /sv/java/create-html/ 
+
 description: Java Exempelkod för att generera HTML-dokument. Använd den här koden för att skapa HTML-filer inom Java-baserade skrivbords- eller webbapplikationer.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

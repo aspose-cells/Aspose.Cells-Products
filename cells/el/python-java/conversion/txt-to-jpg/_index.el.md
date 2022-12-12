@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή TXT σε JPG μέσω Python
-url: /el/python-java/conversion/txt-to-jpg/
+
 description: Δείγμα κώδικα για μετατροπή txt σε jpg Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδική μετατροπή αρχείων txt σε jpg εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta MHTML a SPREADSHEETML a través de Python
-url: /es/python-java/conversion/mhtml-to-spreadsheetml/
+
 description: Ejemplo de código para la conversión de mhtml a hoja de cálculo Python. Utilice el código de ejemplo API para la conversión de archivos mhtml por lotes a hoja de cálculo dentro de la aplicación Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

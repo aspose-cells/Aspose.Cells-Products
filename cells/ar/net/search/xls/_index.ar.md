@@ -1,7 +1,7 @@
-﻿---
+---
 title: البحث في مستند XLS بدون فتح عبر .NET 
 weight: 1490
-url: /ar/net/search/xls/ 
+
 description: C# شفرة المصدر للبحث عن الكلمات ذات النمط في ملف XLS على الأنظمة الأساسية .NET Framework أو .NET Core أو Mono أو Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir XLSX en MHTML via Python
-url: /fr/python-java/conversion/xlsx-to-mhtml/
+
 description: Exemple de code pour la conversion xlsx vers mhtml Python. Utilisez l'exemple de code API pour la conversion par lots de fichiers xlsx en mhtml dans l'application Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل الأرقام إلى MHTML عبر Java 
-url: /ar/java/conversion/numbers-to-mhtml/ 
+
 description: نموذج Java رمز تحويل لتنسيق NUMBERS إلى ملف MHTML. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى MHTML داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

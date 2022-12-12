@@ -1,6 +1,6 @@
 ---
 title: Convert TSV to MD via C++
-url: /cpp/conversion/tsv-to-md/
+
 description: Convert TSV to MD format in C++ code. Save TSV as MD using C++.
 ---
 

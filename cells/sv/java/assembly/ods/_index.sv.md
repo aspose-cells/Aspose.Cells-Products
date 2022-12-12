@@ -1,7 +1,7 @@
-﻿---
+---
 title: Generera rapporter i ODS-filer via Java 
 weight: 2440
-url: /sv/java/assembly/ods/ 
+
 description: Java exempelkod för att skapa ODS-formatrapporter på Java Runtime Environment för JSP/JSF Application och Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

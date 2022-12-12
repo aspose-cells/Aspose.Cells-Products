@@ -1,6 +1,6 @@
 ---
 title: Merge MHTML to TSV Files via C++ 
-url: /cpp/merger/merge-mhtml-to-tsv/ 
+
 description: Merge MHTML to TSV file in C++ code. Combine MHTML to TSV file using C++.
 ---
 

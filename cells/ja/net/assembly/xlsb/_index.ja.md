@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NETを介してXLSBファイルでレポートを生成する 
 weight: 1690
-url: /ja/net/assembly/xlsb/ 
+
 description: .NETフレームワーク、.NETコア、Mono、またはXamarinプラットフォームでXLSB形式のレポートを生成するためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

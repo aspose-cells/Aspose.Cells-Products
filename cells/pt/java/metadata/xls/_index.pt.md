@@ -1,7 +1,7 @@
-﻿---
+---
 title: Edite ou visualize metadados de arquivos XLS via Java 
 weight: 730
-url: /pt/java/metadata/xls/ 
+
 description: Java código de amostra para editar ou visualizar metadados de formato XLS no Java ambiente de tempo de execução para aplicativos JSP/JSF e aplicativos de desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

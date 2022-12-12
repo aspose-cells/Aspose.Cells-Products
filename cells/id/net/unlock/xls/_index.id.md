@@ -1,7 +1,7 @@
-﻿---
+---
 title: Buka kunci dokumen XLS melalui .NET 
 weight: 4260
-url: /id/net/unlock/xls/ 
+
 description: C# kode sumber untuk membuka kunci file XLS yang dilindungi sandi di .NET Framework, .NET Core, Mono atau Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

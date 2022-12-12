@@ -1,6 +1,6 @@
-﻿---
+---
 title: Crie gráficos de colunas por meio de C#
-url: /pt/net/create-column-chart/
+
 description: C# Código de exemplo para criar gráficos de colunas para Excel usando a biblioteca .NET. Use este código para criar um gráfico de colunas para MS Excel em VB.NET, Asp.NET ou qualquer aplicativo baseado em .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

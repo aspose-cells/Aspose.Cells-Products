@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversikan XLT ke BMP melalui Java 
 weight: 590
-url: /id/java/conversion/xlt-to-bmp/ 
+
 description: Contoh Java kode konversi untuk format XLT ke file BMP. Pemrogram dapat menggunakan kode contoh ini untuk mengekspor spreadsheet Excel & OpenOffice ke BMP dalam Aplikasi berbasis Web atau Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Mesclar arquivos XLSX via Java 
 weight: 8930
-url: /pt/java/merger/xlsx/ 
+
 description: Java código de amostra para combinar documentos XLSX no Java ambiente de tempo de execução para aplicativos JSP/JSF e aplicativos de desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to PDF via Python
-url: /python-java/conversion/mhtml-to-pdf/
+
 description: Convert MHTML to PDF format in Python code. Save MHTML as PDF using Python.
 ---
 

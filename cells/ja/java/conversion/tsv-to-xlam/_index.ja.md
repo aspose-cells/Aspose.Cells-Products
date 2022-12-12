@@ -1,6 +1,6 @@
-﻿---
+---
 title: Java経由でTSVをXLAMに変換 
-url: /ja/java/conversion/tsv-to-xlam/ 
+
 description: TSV形式からXLAMファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のXLAMにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

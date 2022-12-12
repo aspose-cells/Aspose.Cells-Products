@@ -1,6 +1,6 @@
-﻿---
+---
 title: Buat File CSV melalui Python 
-url: /id/python-java/create-csv/ 
+
 description: Python Contoh kode untuk membuat dokumen CSV. Gunakan kode ini untuk membuat file CSV dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: แผนภูมิเอกสาร ODS ผ่าน Java 
 weight: 2240
-url: /th/java/chart/ods/ 
+
 description: Java โค้ดตัวอย่างเพื่อวาดและแปลงแผนภูมิหรือไดอะแกรมในไฟล์ ODS บน Java Runtime Environment สำหรับแอปพลิเคชัน JSP/JSF และแอปพลิเคชันเดสก์ท็อป
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

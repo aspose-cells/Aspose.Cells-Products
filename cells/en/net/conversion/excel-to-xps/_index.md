@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to XPS via C#
-url: /net/conversion/excel-to-xps/
+
 description: Convert EXCEL to XPS format in C# code. Save EXCEL as XPS using VB.NET, Asp.NET or any .NET based application.
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通過 C++ 應用程序將 MHTML 轉換為 XLSM 
 weight: 6120
-url: /zh-hant/cpp/conversion/mhtml-to-xlsm/ 
+
 description: MHTML 文檔到 XLSM 格式的示例 C++ 轉換代碼。程序員可以使用此源代碼在任何 C++ 應用程序中將 MHTML 批量轉換為 XLSM。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

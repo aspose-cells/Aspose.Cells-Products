@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してXLSドキュメントのテキストを検索および置換します 
 weight: 7900
-url: /ja/java/redaction/xls/ 
+
 description: Java JSP/JSFアプリケーションおよびデスクトップアプリケーションのランタイム環境でXLSファイルの機密情報を編集するためのサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

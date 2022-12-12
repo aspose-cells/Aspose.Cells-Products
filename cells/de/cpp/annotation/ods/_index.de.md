@@ -1,7 +1,7 @@
-﻿---
+---
 title: ODS-Anmerkung über C++ hinzufügen 
 weight: 8840
-url: /de/cpp/annotation/ods/ 
+
 description: C++ Beispielcode zum Löschen von Anmerkungen im ODS-Format in C++ Runtime Environment für Windows 32 Bit, Windows 64 Bit und Linux 64 Bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

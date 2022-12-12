@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง XLSB เป็น HTML ผ่าน Python
-url: /th/python-java/conversion/xlsb-to-html/
+
 description: โค้ดตัวอย่างสำหรับการแปลง xlsb เป็น html Python ใช้โค้ดตัวอย่าง API สำหรับไฟล์แบตช์ xlsb เป็นการแปลง html ภายในแอปพลิเคชัน Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

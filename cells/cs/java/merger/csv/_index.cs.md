@@ -1,7 +1,7 @@
-﻿---
+---
 title: Sloučit soubory CSV přes Java 
 weight: 3860
-url: /cs/java/merger/csv/ 
+
 description: Java ukázkový kód pro kombinaci dokumentů CSV v Java Runtime Environment pro aplikace JSP/JSF a aplikace pro stolní počítače.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

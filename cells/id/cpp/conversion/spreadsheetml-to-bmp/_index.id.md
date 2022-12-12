@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi SPREADSHEETML ke BMP melalui C++ aplikasi 
-url: /id/cpp/conversion/spreadsheetml-to-bmp/ 
+
 description: Contoh C++ kode konversi untuk dokumen SPREADSHEETML ke format BMP. Pemrogram dapat menggunakan kode sumber ini untuk konversi batch SPREADSHEETML ke BMP dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Repair xlsx file via Java
-url: /java/recovery/repair-xlsx/ 
+
 description: Repair a corrupt xlsx file using Java. Recovery tool to repair corrupted xlsx file within Java application.
 ---
 

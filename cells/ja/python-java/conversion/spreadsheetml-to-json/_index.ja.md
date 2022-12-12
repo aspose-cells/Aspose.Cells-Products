@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してSPREADSHEETMLをJSONに変換します
-url: /ja/python-java/conversion/spreadsheetml-to-json/
+
 description: SpreadsheetmlからjsonPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチspreadsheetmlファイルからjsonへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

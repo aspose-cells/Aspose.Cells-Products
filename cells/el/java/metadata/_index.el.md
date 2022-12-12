@@ -1,6 +1,6 @@
-﻿---
+---
 title: Διαχείριση μεταδεδομένων αρχείων Excel μέσω Java
-url: /el/java/metadata/
+
 description: Προβάλετε, προσθέστε, επεξεργαστείτε, αφαιρέστε ή εξαγάγετε μεταδεδομένα αρχείων Excel με λίγες μόνο γραμμές κώδικα Java
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

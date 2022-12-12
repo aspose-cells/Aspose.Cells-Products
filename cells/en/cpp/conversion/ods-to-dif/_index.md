@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to DIF via C++
-url: /cpp/conversion/ods-to-dif/
+
 description: Convert ODS to DIF format in C++ code. Save ODS as DIF using C++.
 ---
 

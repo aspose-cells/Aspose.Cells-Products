@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera NUMBERS till XLT via Java 
-url: /sv/java/conversion/numbers-to-xlt/ 
+
 description: Exempel på Java-konverteringskod för NUMBERS-format till XLT-fil. Programmerare kan använda den här exempelkoden för att exportera Excel- och OpenOffice-kalkylblad till XLT inom alla webb- eller skrivbordsbaserade Java-applikationer.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

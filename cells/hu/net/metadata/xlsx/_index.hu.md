@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Az XLSX-fájlok metaadatainak megtekintése vagy szerkesztése a következőn keresztül: .NET "
 weight: 3430
-url: /hu/net/metadata/xlsx/ 
+
 description: C# forráskód az XLSX formátumú metaadatok szerkesztéséhez vagy megtekintéséhez a .NET Framework, .NET Core, Mono vagy Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

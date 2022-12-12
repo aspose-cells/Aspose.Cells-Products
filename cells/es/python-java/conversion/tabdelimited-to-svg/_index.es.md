@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta TABDELIMITED a SVG a través de Python
-url: /es/python-java/conversion/tabdelimited-to-svg/
+
 description: Código de muestra para la conversión tabdelimited to svg Python. Utilice el código de ejemplo API para archivos separados por tabulaciones por lotes para la conversión de svg dentro de la aplicación Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

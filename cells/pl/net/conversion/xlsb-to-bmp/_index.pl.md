@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj XLSB na BMP przez C#
-url: /pl/net/conversion/xlsb-to-bmp/
+
 description: Przykładowy kod konwersji xlsb do bmp C#. Użyj przykładowego kodu API dla plików wsadowych xlsb do konwersji bmp w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer HTML naar XLSX via Java 
 weight: 6000
-url: /nl/java/conversion/html-to-xlsx/ 
+
 description: Voorbeeld Java conversiecode voor HTML-indeling naar XLSX-bestand. Programmeurs kunnen deze voorbeeldcode gebruiken om Excel- en OpenOffice-spreadsheets naar XLSX te exporteren binnen elke web- of desktoptoepassing Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

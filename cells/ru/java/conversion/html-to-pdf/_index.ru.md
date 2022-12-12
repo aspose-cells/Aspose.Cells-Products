@@ -1,7 +1,7 @@
-﻿---
+---
 title: Преобразование HTML в PDF через Java 
 weight: 2780
-url: /ru/java/conversion/html-to-pdf/ 
+
 description: Пример кода преобразования Java для формата HTML в файл PDF. Программисты могут использовать этот пример кода для экспорта электронных таблиц Excel и OpenOffice в формат PDF в любом веб-приложении или настольном Java приложении.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

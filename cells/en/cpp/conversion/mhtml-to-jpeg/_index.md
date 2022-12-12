@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to JPEG via C++
-url: /cpp/conversion/mhtml-to-jpeg/
+
 description: Convert MHTML to JPEG format in C++ code. Save MHTML as JPEG using C++.
 ---
 

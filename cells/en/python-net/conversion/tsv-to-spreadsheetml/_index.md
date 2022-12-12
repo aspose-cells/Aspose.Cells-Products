@@ -1,6 +1,6 @@
 ---
 title: Convert TSV to SPREADSHEETML via Python
-url: /python-net/conversion/tsv-to-spreadsheetml/
+
 description: Sample code for tsv to spreadsheetml Python conversion. Use API example code for batch tsv files to spreadsheetml conversion within Python application.
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Node.js API:er för Excel-kalkylblad - Aspose "
 weight: 3120
-url: /sv/nodejs-java/ 
+
 description: Bearbeta Excel-filformat via Node.js-biblioteket. Läs skriv rendera och konvertera XLS XLSX XLSB XLTX XLTM XLSM XML ODS CSV och fler format via Node.js på Windows, macOS och Linux
 ---
 {{< blocks/products/pf/main-wrap-class >}}

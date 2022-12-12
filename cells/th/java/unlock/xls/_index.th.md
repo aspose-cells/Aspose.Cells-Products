@@ -1,7 +1,7 @@
-﻿---
+---
 title: ปลดล็อกเอกสาร XLS ผ่าน Java 
 weight: 6390
-url: /th/java/unlock/xls/ 
+
 description: Java ตัวอย่างโค้ดเพื่อปลดล็อกไฟล์ XLS ที่ป้องกันด้วยรหัสผ่านบน Java Runtime Environment สำหรับแอปพลิเคชัน JSP/JSF และแอปพลิเคชันเดสก์ท็อป
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

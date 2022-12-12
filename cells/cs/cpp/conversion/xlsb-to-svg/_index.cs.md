@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převeďte XLSB na SVG pomocí aplikace C++ 
 weight: 4450
-url: /cs/cpp/conversion/xlsb-to-svg/ 
+
 description: Ukázka převodního kódu C++ pro dokument XLSB do formátu SVG. Programátoři mohou použít tento zdrojový kód pro dávkový převod XLSB na SVG v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

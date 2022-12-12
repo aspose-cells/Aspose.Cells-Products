@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést NUMBERS na JSON přes C#
-url: /cs/net/conversion/numbers-to-json/
+
 description: Ukázkový kód pro převod čísel na JSON C#. Použijte API ukázkový kód pro konverzi souborů dávkových čísel na JSON v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

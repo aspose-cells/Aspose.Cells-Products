@@ -1,6 +1,6 @@
-﻿---
+---
 title: TSV-bestanden maken via Java 
-url: /nl/java/create-tsv/ 
+
 description: Java Voorbeeldcode voor het genereren van TSV-documenten. Gebruik deze code om TSV-bestanden te maken binnen een op Java gebaseerde desktop- of webtoepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

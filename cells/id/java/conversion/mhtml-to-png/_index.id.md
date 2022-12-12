@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversikan MHTML ke PNG melalui Java 
 weight: 9360
-url: /id/java/conversion/mhtml-to-png/ 
+
 description: Contoh Java kode konversi untuk format MHTML ke file PNG. Pemrogram dapat menggunakan kode contoh ini untuk mengekspor spreadsheet Excel & OpenOffice ke PNG dalam Aplikasi berbasis Web atau Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

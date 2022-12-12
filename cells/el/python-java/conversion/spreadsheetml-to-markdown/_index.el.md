@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή SPREADSHEETML σε MARKDOWN μέσω Python
-url: /el/python-java/conversion/spreadsheetml-to-markdown/
+
 description: Δείγμα κώδικα για τη μετατροπή υπολογιστικών φύλλων ml σε επισήμανση Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία υπολογιστικού φύλλου ml για να μαρκάρετε τη μετατροπή εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

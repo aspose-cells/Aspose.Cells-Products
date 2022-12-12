@@ -1,6 +1,6 @@
-﻿---
+---
 title: Rozdělit list Excel v C#
-url: /cs/net/splitter/
+
 description: C# zdrojové kódy, které vysvětlují, jak rozdělit soubory Microsoft Excel do více souborů v aplikacích Visual C#.NET
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

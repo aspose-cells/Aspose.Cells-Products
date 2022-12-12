@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan XLTM ke DIF melalui Python
-url: /id/python-java/conversion/xltm-to-dif/
+
 description: Contoh kode untuk xltm ke dif Python konversi. Gunakan API kode contoh untuk file batch xltm untuk mengubah konversi dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

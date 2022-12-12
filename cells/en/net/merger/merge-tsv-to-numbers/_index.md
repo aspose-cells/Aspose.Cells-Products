@@ -1,6 +1,6 @@
 ---
 title: Merge TSV to NUMBERS Files via C# 
-url: /net/merger/merge-tsv-to-numbers/ 
+
 description: Merge TSV to NUMBERS file in C# code. Combine TSV to NUMBERS file using VB.NET, Asp.NET or any .NET based application.
 ---
 

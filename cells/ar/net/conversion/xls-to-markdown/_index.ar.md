@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLS إلى MARKDOWN عبر C#
-url: /ar/net/conversion/xls-to-markdown/
+
 description: نموذج التعليمات البرمجية لـ xls للتخصيص C# للتحويل. استخدم API رمز المثال لملفات xls الدفعية لتحديد التحويل داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

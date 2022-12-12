@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++을 통한 Microsoft Excel 파일 변환 
-url: /ko/cpp/conversion/
+
 description: 몇 줄의 C++ 코드로 Excel XLS, XLSX, ODS, CSV를 PDF, XPS, HTML, JPEG 및 기타 형식으로 변환합니다.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

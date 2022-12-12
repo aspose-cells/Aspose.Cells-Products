@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل MHTML إلى XLTX عبر C#
-url: /ar/net/conversion/mhtml-to-xltx/
+
 description: نموذج رمز للتحويل من mhtml إلى xltx C#. استخدم API رمز المثال لملفات mhtml الدفعية لتحويل xltx داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

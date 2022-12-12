@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή XLS σε DOCX μέσω Python
-url: /el/python-java/conversion/xls-to-docx/
+
 description: Δείγμα κώδικα για μετατροπή xls σε docx Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία xls σε μετατροπή docx εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

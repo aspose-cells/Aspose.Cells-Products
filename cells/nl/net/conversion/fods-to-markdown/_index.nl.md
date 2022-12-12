@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer FODS naar MARKDOWN via C#
-url: /nl/net/conversion/fods-to-markdown/
+
 description: Voorbeeldcode voor fods om C#-conversie te verlagen. Gebruik API voorbeeldcode voor batch-fods-bestanden om conversie te verlagen binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

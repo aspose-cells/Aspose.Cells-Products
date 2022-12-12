@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Vízjel XLSM dokumentum a következőn keresztül: Java "
 weight: 7680
-url: /hu/java/watermark/xlsm/ 
+
 description: Java mintakód a vízjel hozzáadásához vagy eltávolításához az XLSM-fájlhoz a Java Runtime Environment for JSP/JSF Applications and Desktop Applications webhelyen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

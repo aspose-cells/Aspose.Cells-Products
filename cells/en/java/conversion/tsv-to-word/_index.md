@@ -1,6 +1,6 @@
 ---
 title: Convert TSV to WORD via Java 
-url: /java/conversion/tsv-to-word/
+
 description: Convert TSV to WORD format in Java code. Save TSV as WORD using Java.
 ---
 

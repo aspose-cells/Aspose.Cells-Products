@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer ODS naar TIFF via Java 
 weight: 2110
-url: /nl/java/conversion/ods-to-tiff/ 
+
 description: Voorbeeld Java conversiecode voor ODS-indeling naar TIFF-bestand. Programmeurs kunnen deze voorbeeldcode gebruiken om Excel- en OpenOffice-spreadsheets naar TIFF te exporteren binnen elke web- of desktoptoepassing Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

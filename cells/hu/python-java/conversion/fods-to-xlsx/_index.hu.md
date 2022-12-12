@@ -1,6 +1,6 @@
-﻿---
+---
 title: "FODS konvertálása XLSX-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/fods-to-xlsx/
+
 description: Mintakód a fod to xlsx Python konverziójához. Használjon API példakódot a fods fájlok kötegelt xlsx konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: تقسيم ملفات XLS عبر Java 
 weight: 610
-url: /ar/java/splitter/xls/ 
+
 description: Java نموذج كود لتقسيم مستندات XLS على Java Runtime Environment لتطبيق JSP / JSF وتطبيقات سطح المكتب.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

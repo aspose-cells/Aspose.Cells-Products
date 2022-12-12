@@ -1,7 +1,7 @@
-﻿---
+---
 title: 在不通过 Java 打开的情况下搜索 TXT 文档 
 weight: 1200
-url: /zh/java/search/txt/ 
+
 description: Java JSP/JSF 应用程序和桌面应用程序运行时环境中用于在 TXT 文件中搜索带有模式的单词的示例代码。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

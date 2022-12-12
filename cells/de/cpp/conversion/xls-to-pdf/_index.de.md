@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertieren Sie XLS in PDF über die Anwendung C++ 
 weight: 8010
-url: /de/cpp/conversion/xls-to-pdf/ 
+
 description: Beispiel-Umwandlungscode C++ für ein XLS-Dokument in das PDF-Format. Programmierer können diesen Quellcode für die Batch-Konvertierung von XLS in PDF in jeder C++-Anwendung verwenden.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to JPG via Java 
-url: /java/conversion/xls-to-jpg/
+
 description: Convert XLS to JPG format in Java code. Save XLS as JPG using Java.
 ---
 

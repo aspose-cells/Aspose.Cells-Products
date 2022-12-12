@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi TSV thành SPREADSHEETML qua Python
-url: /vi/python-java/conversion/tsv-to-spreadsheetml/
+
 description: Mã mẫu cho chuyển đổi tsv sang bảng tínhml Python. Sử dụng mã mẫu API cho hàng loạt tệp tsv để chuyển đổi bảng tínhml trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

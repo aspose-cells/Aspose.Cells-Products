@@ -1,6 +1,6 @@
-﻿---
+---
 title: SPREADSHEETML'yi Python aracılığıyla JSON'a dönüştürün
-url: /tr/python-java/conversion/spreadsheetml-to-json/
+
 description: E-tablodan json'a Python dönüşümü için örnek kod. Python uygulamasında toplu elektronik tablo ml dosyalarını json'a dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

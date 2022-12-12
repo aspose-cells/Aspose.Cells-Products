@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLSB naar BMP via C#
-url: /nl/net/conversion/xlsb-to-bmp/
+
 description: Voorbeeldcode voor xlsb naar bmp C# conversie. Gebruik API voorbeeldcode voor batch xlsb-bestanden naar bmp-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

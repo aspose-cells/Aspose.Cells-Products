@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή JSON σε DIF μέσω Python
-url: /el/python-java/conversion/json-to-dif/
+
 description: Δείγμα κώδικα για json σε διαφορετική μετατροπή Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία json για να διαφοροποιήσετε τη μετατροπή εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLTX в JPG через Java 
-url: /ru/java/conversion/xltx-to-jpg/ 
+
 description: Пример кода преобразования Java для формата XLTX в файл JPG. Программисты могут использовать этот пример кода для экспорта электронных таблиц Excel и OpenOffice в формат JPG в любом веб- или настольном Java приложении.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

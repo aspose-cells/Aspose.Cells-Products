@@ -1,6 +1,6 @@
 ---
 title: Merge XLSX to TSV Files via Python 
-url: /python-net/merger/merge-xlsx-to-tsv/ 
+
 description: Merge XLSX to TSV file in Python code. Combine XLSX to TSV file using Python.
 ---
 

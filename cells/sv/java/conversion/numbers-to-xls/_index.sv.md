@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera NUMBERS till XLS via Java 
-url: /sv/java/conversion/numbers-to-xls/ 
+
 description: Exempel på konverteringskod för Java för NUMBERS-format till XLS-fil. Programmerare kan använda den här exempelkoden för att exportera Excel- och OpenOffice-kalkylblad till XLS inom alla webb- eller skrivbordsbaserade Javaapplikationer.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

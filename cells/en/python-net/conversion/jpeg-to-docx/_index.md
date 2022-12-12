@@ -1,6 +1,6 @@
 ---
 title: Convert JPEG to DOCX via Python
-url: /python-net/conversion/jpeg-to-docx/
+
 description: Sample code for jpeg to docx Python conversion. Use API example code for batch jpeg files to docx conversion within Python application.
 ---
 

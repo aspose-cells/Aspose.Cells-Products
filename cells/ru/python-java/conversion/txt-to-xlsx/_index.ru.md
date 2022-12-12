@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование TXT в XLSX через Python
-url: /ru/python-java/conversion/txt-to-xlsx/
+
 description: Пример кода для преобразования txt в xlsx Python. Используйте пример кода API для пакетного преобразования файлов txt в xlsx в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

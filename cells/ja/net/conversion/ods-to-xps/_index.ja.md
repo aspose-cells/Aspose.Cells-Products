@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してODSをXPSに変換する
-url: /ja/net/conversion/ods-to-xps/
+
 description: odsからxpsC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチodsファイルからxpsへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

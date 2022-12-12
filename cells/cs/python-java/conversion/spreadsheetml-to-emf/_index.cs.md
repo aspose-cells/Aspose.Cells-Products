@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést SPREADSHEETML na EMF prostřednictvím Python
-url: /cs/python-java/conversion/spreadsheetml-to-emf/
+
 description: Ukázkový kód pro konverzi tabulkyml na emf Python. Použijte API ukázkový kód pro dávkové soubory tabulkového procesoruml na převod EMF v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

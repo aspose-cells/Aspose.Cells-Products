@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή FODS σε MD μέσω C#
-url: /el/net/conversion/fods-to-md/
+
 description: Δείγμα κώδικα για μετατροπή fods σε md C#. Χρησιμοποιήστε API παράδειγμα κώδικα για αρχεία ομαδικής μετατροπής fods σε md εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

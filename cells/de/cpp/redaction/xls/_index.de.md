@@ -1,7 +1,7 @@
-﻿---
+---
 title: Suchen und ersetzen Sie Text im XLS-Dokument über C++ 
 weight: 380
-url: /de/cpp/redaction/xls/ 
+
 description: C++ Beispielcode zum Schwärzen vertraulicher Informationen in XLS-Dateien in C++ Runtime Environment für Windows 32 Bit, Windows 64 Bit und Linux 64 Bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

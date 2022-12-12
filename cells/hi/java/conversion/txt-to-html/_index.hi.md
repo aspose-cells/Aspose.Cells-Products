@@ -1,7 +1,7 @@
-﻿---
+---
 title: TXT को Java के माध्यम से HTML में बदलें 
 weight: 9800
-url: /hi/java/conversion/txt-to-html/ 
+
 description: HTML फ़ाइल में TXT प्रारूप के लिए नमूना Java रूपांतरण कोड। प्रोग्रामर इस उदाहरण कोड का उपयोग किसी भी वेब या डेस्कटॉप Java आधारित एप्लिकेशन के भीतर एक्सेल और ओपनऑफिस स्प्रेडशीट को HTML में निर्यात करने के लिए कर सकते हैं।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

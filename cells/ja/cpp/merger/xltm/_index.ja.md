@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++を介してXLTMファイルをマージ 
-url: /ja/cpp/merger/xltm/ 
+
 description: C++ Windows 32ビット、Windows 64ビット、およびLinux64ビットのランタイム環境でXLTMドキュメントを組み合わせるためのサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Поиск и замена текста в документе XLSM через Java 
 weight: 1590
-url: /ru/java/redaction/xlsm/ 
+
 description: Пример кода Java для редактирования конфиденциальной информации в файле XLSM в Java среде выполнения для приложений JSP/JSF и настольных приложений.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

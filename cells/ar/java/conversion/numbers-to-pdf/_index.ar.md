@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل الأرقام إلى PDF عبر Java 
-url: /ar/java/conversion/numbers-to-pdf/ 
+
 description: نموذج Java رمز تحويل من تنسيق NUMBERS إلى ملف PDF. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel و OpenOffice إلى PDF داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

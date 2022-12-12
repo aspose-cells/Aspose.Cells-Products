@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python के माध्यम से ODS को FODS में बदलें
-url: /hi/python-java/conversion/ods-to-fods/
+
 description: ods to fods Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर फोड रूपांतरण के लिए बैच ऑड्स फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

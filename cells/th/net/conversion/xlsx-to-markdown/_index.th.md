@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง XLSX เป็น MARKDOWN ผ่าน C#
-url: /th/net/conversion/xlsx-to-markdown/
+
 description: โค้ดตัวอย่างสำหรับ xlsx เพื่อมาร์กดาวน์ C# การแปลง ใช้โค้ดตัวอย่าง API สำหรับไฟล์แบตช์ xlsx เพื่อทำเครื่องหมายการแปลงภายใน VB.NET, Asp.NET หรือแอปพลิเคชันที่ใช้ .NET
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

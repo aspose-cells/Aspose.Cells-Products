@@ -1,7 +1,7 @@
-﻿---
+---
 title: Extraheer tekst en afbeeldingen uit XLSM-document via Java 
 weight: 3260
-url: /nl/java/parser/xlsm/ 
+
 description: Java voorbeeldcode om tekst en afbeeldingen uit het XLSM-bestand te extraheren in Java Runtime Environment voor JSP/JSF-applicaties en desktopapplicaties.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

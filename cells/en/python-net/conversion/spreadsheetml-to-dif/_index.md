@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to DIF via Python
-url: /python-net/conversion/spreadsheetml-to-dif/
+
 description: Sample code for spreadsheetml to dif Python conversion. Use API example code for batch spreadsheetml files to dif conversion within Python application.
 ---
 

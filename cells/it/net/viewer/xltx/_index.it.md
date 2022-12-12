@@ -1,7 +1,7 @@
-﻿---
+---
 title: Visualizza i formati di file XLTX tramite .NET 
 weight: 7870
-url: /it/net/viewer/xltx/ 
+
 description: C# codice sorgente per caricare, eseguire il rendering e visualizzare documenti XLTX su piattaforme .NET Framework, .NET Core, Mono o Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

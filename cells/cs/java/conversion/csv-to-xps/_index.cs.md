@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést CSV na XPS prostřednictvím Java 
 weight: 5290
-url: /cs/java/conversion/csv-to-xps/ 
+
 description: Ukázkový konverzní kód Java pro formát CSV na soubor XPS. Programátoři mohou tento příklad kódu použít k exportu tabulek Excelu a OpenOffice do XPS v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

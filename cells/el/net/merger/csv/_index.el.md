@@ -1,7 +1,7 @@
-﻿---
+---
 title: Συγχώνευση αρχείων CSV μέσω .NET 
 weight: 6450
-url: /el/net/merger/csv/ 
+
 description: C# πηγαίος κώδικας για συνδυασμό εγγράφων CSV σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

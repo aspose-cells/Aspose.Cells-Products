@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل NUMBERS إلى TABDELIMITED عبر C#
-url: /ar/net/conversion/numbers-to-tabdelimited/
+
 description: نموذج رمز للأرقام المراد تحويلها بعلامات جدولة C#. استخدم API رمز المثال لملفات أرقام الدُفعات لتحويل محدد بعلامات جدولة داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

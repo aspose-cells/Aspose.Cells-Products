@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi XLSX sang XML qua Python
-url: /vi/python-java/conversion/xlsx-to-xml/
+
 description: Mã mẫu cho chuyển đổi xlsx sang xml Python. Sử dụng API mã mẫu cho hàng loạt tệp xlsx sang chuyển đổi xml trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

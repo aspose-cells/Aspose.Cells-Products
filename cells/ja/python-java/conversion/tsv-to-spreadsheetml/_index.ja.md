@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してTSVをSPREADSHEETMLに変換します
-url: /ja/python-java/conversion/tsv-to-spreadsheetml/
+
 description: tsvからspreadplacemlPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチtsvファイルからspreadsheetmlへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

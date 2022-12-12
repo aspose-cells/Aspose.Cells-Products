@@ -1,6 +1,6 @@
-﻿---
+---
 title: Δημιουργία αρχείων PDF μέσω Python 
-url: /el/python-java/create-pdf/ 
+
 description: Python Δείγμα κώδικα για τη δημιουργία εγγράφων PDF. Χρησιμοποιήστε αυτόν τον κώδικα για τη δημιουργία αρχείων PDF εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

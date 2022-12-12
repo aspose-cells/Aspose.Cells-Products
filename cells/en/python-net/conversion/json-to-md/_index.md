@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to MD via Python
-url: /python-net/conversion/json-to-md/
+
 description: Sample code for json to md Python conversion. Use API example code for batch json files to md conversion within Python application.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to FODS via Python
-url: /python-java/conversion/xlt-to-fods/
+
 description: Convert XLT to FODS format in Python code. Save XLT as FODS using Python.
 ---
 

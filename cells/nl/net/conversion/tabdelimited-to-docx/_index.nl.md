@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer TABDELIMITED naar DOCX via C#
-url: /nl/net/conversion/tabdelimited-to-docx/
+
 description: Voorbeeldcode voor door tabs gescheiden naar docx C#-conversie. Gebruik API voorbeeldcode voor batch-tabdelimited-bestanden naar docx-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

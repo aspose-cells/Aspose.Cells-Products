@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง MHTML เป็น MARKDOWN ผ่าน Python
-url: /th/python-java/conversion/mhtml-to-markdown/
+
 description: โค้ดตัวอย่างสำหรับการแปลง mhtml ถึง markdown Python ใช้โค้ดตัวอย่าง API สำหรับไฟล์ batch mhtml เพื่อแปลง markdown ภายในแอปพลิเคชัน Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to DIF via C#
-url: /net/conversion/csv-to-dif/
+
 description: Convert CSV to DIF format in C# code. Save CSV as DIF using VB.NET, Asp.NET or any .NET based application.
 ---
 

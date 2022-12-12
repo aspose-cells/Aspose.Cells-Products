@@ -1,6 +1,6 @@
-﻿---
+---
 title: .NETを介してHTMLファイル形式を表示する 
-url: /ja/net/viewer/html/ 
+
 description: .NETフレームワーク、.NETコア、Windows Azure、Mono、またはXamarinプラットフォームでHTMLドキュメントをロード、レンダリング、表示するためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

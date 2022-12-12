@@ -1,6 +1,6 @@
 ---
 title: Convert XLTM to HTML via C++
-url: /cpp/conversion/xltm-to-html/
+
 description: Convert XLTM to HTML format in C++ code. Save XLTM as HTML using C++.
 ---
 

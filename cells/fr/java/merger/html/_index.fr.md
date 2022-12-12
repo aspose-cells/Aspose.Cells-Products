@@ -1,7 +1,7 @@
-﻿---
+---
 title: Fusionner les fichiers HTML via Java 
 weight: 8830
-url: /fr/java/merger/html/ 
+
 description: Java exemple de code pour combiner des documents HTML sur Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: MHTML konvertálása MD-vé a C++ alkalmazással 
-url: /hu/cpp/conversion/mhtml-to-md/ 
+
 description: Minta C++ konverziós kód MHTML dokumentumhoz MD formátumba. A programozók ezt a forráskódot használhatják kötegelt MHTML-ből MD-vé konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

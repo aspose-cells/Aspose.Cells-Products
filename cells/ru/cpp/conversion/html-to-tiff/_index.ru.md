@@ -1,7 +1,7 @@
-﻿---
+---
 title: Преобразование HTML в TIFF с помощью приложения C++ 
 weight: 8480
-url: /ru/cpp/conversion/html-to-tiff/ 
+
 description: Пример C++ кода преобразования HTML-документа в формат TIFF. Программисты могут использовать этот исходный код для пакетного преобразования HTML в TIFF в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

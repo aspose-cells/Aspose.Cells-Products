@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#를 통해 XLSB를 MD로 변환
-url: /ko/net/conversion/xlsb-to-md/
+
 description: xlsb에서 md C#로의 변환을 위한 샘플 코드. VB.NET, Asp.NET 또는 모든 .NET 기반 애플리케이션 내에서 배치 xlsb 파일을 md로 변환하는 API 예제 코드를 사용합니다.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

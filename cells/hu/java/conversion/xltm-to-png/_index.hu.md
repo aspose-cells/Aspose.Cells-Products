@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLTM konvertálása PNG-re a következőn keresztül: Java "
 weight: 7310
-url: /hu/java/conversion/xltm-to-png/ 
+
 description: Minta Java konverziós kód az XLTM formátumhoz PNG fájllá. A programozók ezt a példakódot használhatják Excel és OpenOffice táblázatok PNG formátumba exportálására bármely web- vagy asztali Java alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLSM naar HTML via C++ applicatie 
-url: /nl/cpp/conversion/xlsm-to-html/ 
+
 description: Voorbeeld C++ conversiecode voor XLSM-document naar HTML-indeling. Programmeurs kunnen deze broncode gebruiken voor batch-XLSM naar HTML-conversie binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

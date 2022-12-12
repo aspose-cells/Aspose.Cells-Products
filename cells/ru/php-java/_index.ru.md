@@ -1,7 +1,7 @@
-﻿---
+---
 title: Электронная таблица Excel PHP API - Aspose 
 weight: 3660
-url: /ru/php-java/ 
+
 description: Электронная таблица PHP Excel API для чтения, записи и преобразования XLS XLSX CSV TSV HTML ODS SpreadsheetML и все форматы Excel 97-2016. Экспорт электронных таблиц в несколько форматов
 ---
 {{< blocks/products/pf/main-wrap-class >}}

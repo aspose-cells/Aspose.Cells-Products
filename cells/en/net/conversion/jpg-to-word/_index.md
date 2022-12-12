@@ -1,6 +1,6 @@
 ---
 title: Convert JPG to WORD via C#
-url: /net/conversion/jpg-to-word/
+
 description: Convert JPG to WORD format in C# code. Save JPG as WORD using VB.NET, Asp.NET or any .NET based application.
 ---
 

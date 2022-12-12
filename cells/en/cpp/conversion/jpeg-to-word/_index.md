@@ -1,6 +1,6 @@
 ---
 title: Convert JPEG to WORD via C++
-url: /cpp/conversion/jpeg-to-word/
+
 description: Convert JPEG to WORD format in C++ code. Save JPEG as WORD using C++.
 ---
 

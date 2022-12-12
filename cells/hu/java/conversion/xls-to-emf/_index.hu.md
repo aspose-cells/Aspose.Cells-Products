@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLS konvertálása EMF-re a következőn keresztül: Java "
 weight: 4350
-url: /hu/java/conversion/xls-to-emf/ 
+
 description: Minta Java konverziós kód az XLS formátumhoz EMF fájllá. A programozók ezt a példakódot használhatják Excel és OpenOffice táblázatok exportálására EMF-be bármely web- vagy asztali Java alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: XLSB को C# के माध्यम से PDF में बदलें
-url: /hi/net/conversion/xlsb-to-pdf/
+
 description: xlsb से pdf C# रूपांतरण के लिए नमूना कोड। VB.NET, Asp.NET या किसी .NET आधारित एप्लिकेशन के भीतर बैच xlsb फ़ाइलों से पीडीएफ रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

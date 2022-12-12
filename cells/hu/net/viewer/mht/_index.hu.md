@@ -1,6 +1,6 @@
-﻿---
+---
 title: "MHT fájlformátumok megtekintése a következőn keresztül: .NET "
-url: /hu/net/viewer/mht/ 
+
 description: C# forráskód az MHT-dokumentumok betöltéséhez, megjelenítéséhez és megjelenítéséhez .NET Framework, .NET Core, Windows Azure, Mono vagy Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

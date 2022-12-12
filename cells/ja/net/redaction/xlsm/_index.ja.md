@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NETを介してXLSMドキュメントのテキストを検索して置換します 
 weight: 2370
-url: /ja/net/redaction/xlsm/ 
+
 description: .NETフレームワーク、.NETコア、Mono、またはXamarinプラットフォーム上のXLSMファイル内の機密情報を編集するためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

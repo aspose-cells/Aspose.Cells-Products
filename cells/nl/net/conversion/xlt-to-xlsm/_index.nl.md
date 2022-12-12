@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLT naar XLSM via C#
-url: /nl/net/conversion/xlt-to-xlsm/
+
 description: Voorbeeldcode voor xlt naar xlsm C# conversie. Gebruik API voorbeeldcode voor batch-xlt-bestanden naar xlsm-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

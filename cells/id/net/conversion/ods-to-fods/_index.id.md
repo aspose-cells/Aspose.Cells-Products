@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan ODS ke FODS melalui C#
-url: /id/net/conversion/ods-to-fods/
+
 description: Contoh kode untuk konversi ods ke fods C#. Gunakan API kode contoh untuk file batch ods ke konversi makanan dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

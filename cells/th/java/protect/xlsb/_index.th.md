@@ -1,7 +1,7 @@
-﻿---
+---
 title: ป้องกันและล็อกเอกสาร XLSB ผ่าน Java 
 weight: 6590
-url: /th/java/protect/xlsb/ 
+
 description: Java ตัวอย่างโค้ดสำหรับล็อกไฟล์ XLSB โดยใช้รหัสผ่านบน Java Runtime Environment สำหรับแอปพลิเคชัน JSP/JSF และแอปพลิเคชันเดสก์ท็อป
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

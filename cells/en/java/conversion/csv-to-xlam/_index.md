@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to XLAM via Java 
-url: /java/conversion/csv-to-xlam/
+
 description: Convert CSV to XLAM format in Java code. Save CSV as XLAM using Java.
 ---
 

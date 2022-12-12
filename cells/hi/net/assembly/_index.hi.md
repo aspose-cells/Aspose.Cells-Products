@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# के माध्यम से एक्सेल फ़ाइलें उत्पन्न करें
-url: /hi/net/assembly/
+
 description: C# कोड . का उपयोग करके टेम्प्लेट शीट से Microsoft Excel स्प्रैडशीट जेनरेट करें
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

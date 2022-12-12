@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi EXCEL ke PPTX melalui C#
-url: /id/net/conversion/excel-to-pptx/
+
 description: Contoh kode untuk konversi excel ke pptx C#. Gunakan API kode contoh untuk file batch excel ke konversi pptx dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

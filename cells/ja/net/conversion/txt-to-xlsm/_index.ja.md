@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してTXTをXLSMに変換します
-url: /ja/net/conversion/txt-to-xlsm/
+
 description: txtからxlsmC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチtxtファイルからxlsmへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

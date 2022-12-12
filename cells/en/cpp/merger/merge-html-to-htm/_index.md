@@ -1,6 +1,6 @@
 ---
 title: Merge HTML to HTM Files via C++ 
-url: /cpp/merger/merge-html-to-htm/ 
+
 description: Merge HTML to HTM file in C++ code. Combine HTML to HTM file using C++.
 ---
 

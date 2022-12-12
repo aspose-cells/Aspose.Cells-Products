@@ -1,6 +1,6 @@
-﻿---
+---
 title: Vytvářejte soubory MS Excel XLT prostřednictvím Python 
-url: /cs/python-java/create-xlt/ 
+
 description: Python Ukázkový kód pro generování dokumentů XLT. Tento kód použijte pro vytváření souborů MS Excel XLT v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

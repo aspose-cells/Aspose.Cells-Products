@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to TXT via C++
-url: /cpp/conversion/xlsb-to-txt/
+
 description: Convert XLSB to TXT format in C++ code. Save XLSB as TXT using C++.
 ---
 

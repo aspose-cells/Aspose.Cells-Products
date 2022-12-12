@@ -1,7 +1,7 @@
-﻿---
+---
 title: Genera rapporti nei file XLSX tramite .NET 
 weight: 6740
-url: /it/net/assembly/xlsx/ 
+
 description: C# codice sorgente per generare report in formato XLSX su piattaforme .NET Framework, .NET Core, Mono o Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

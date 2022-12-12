@@ -1,7 +1,7 @@
-﻿---
+---
 title: Объединить файлы XLTX через .NET 
 weight: 1220
-url: /ru/net/merger/xltx/ 
+
 description: Исходный код C# для объединения документов XLTX на платформах .NET Framework, .NET Core, Mono или Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

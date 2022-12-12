@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla SXC'yi TABDELIMITED'e dönüştürün
-url: /tr/net/conversion/sxc-to-tabdelimited/
+
 description: sxc'den sekmeyle ayrılmış C# dönüşümüne ilişkin örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu sxc dosyaları için sekmeyle ayrılmış dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

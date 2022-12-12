@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل EXCEL إلى JPG عبر Python
-url: /ar/python-java/conversion/excel-to-jpg/
+
 description: نموذج رمز للتحويل من Excel إلى jpg Python. استخدم API رمز المثال لملفات Excel الدفعية لتحويل jpg داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

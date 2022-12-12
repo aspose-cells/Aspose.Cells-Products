@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή EXCEL σε WORD μέσω C#
-url: /el/net/conversion/excel-to-word/
+
 description: Δείγμα κώδικα για μετατροπή excel σε word C#. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδική μετατροπή αρχείων excel σε word εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

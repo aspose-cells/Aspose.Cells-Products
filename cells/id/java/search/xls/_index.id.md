@@ -1,7 +1,7 @@
-﻿---
+---
 title: Telusuri dokumen XLS tanpa membuka melalui Java 
 weight: 9430
-url: /id/java/search/xls/ 
+
 description: Java contoh kode untuk mencari kata dengan pola dalam file XLS di Java Runtime Environment untuk Aplikasi JSP/JSF dan Aplikasi Desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

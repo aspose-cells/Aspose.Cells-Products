@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj ODS na JPEG przez Python
-url: /pl/python-java/conversion/ods-to-jpeg/
+
 description: Przykładowy kod konwersji ods do jpeg Python. Użyj przykładowego kodu API dla wsadowych plików ods do konwersji jpeg w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

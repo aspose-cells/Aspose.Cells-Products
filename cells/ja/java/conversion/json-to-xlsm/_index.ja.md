@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してJSONをXLSMに変換する 
 weight: 870
-url: /ja/java/conversion/json-to-xlsm/ 
+
 description: JSON形式のXLSMファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、WebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをXLSMにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

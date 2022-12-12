@@ -1,6 +1,6 @@
-﻿---
+---
 title: "MHTML konvertálása XPS-re a következőn keresztül: C#"
-url: /hu/net/conversion/mhtml-to-xps/
+
 description: Mintakód az mhtml–xps C# konverzióhoz. Használjon API példakódot az mhtml fájlok kötegelt xps konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

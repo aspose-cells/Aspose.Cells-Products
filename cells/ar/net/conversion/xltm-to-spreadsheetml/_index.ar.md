@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLTM إلى SPREADSHEETML عبر C#
-url: /ar/net/conversion/xltm-to-spreadsheetml/
+
 description: نموذج رمز للتحويل من xltm إلى جدول بيانات C#. استخدم API رمز المثال لملفات xltm الدفعية لتحويل جدول البيانات داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

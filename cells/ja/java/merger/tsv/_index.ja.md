@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してTSVファイルをマージ 
 weight: 9260
-url: /ja/java/merger/tsv/ 
+
 description: Java JSP/JSFアプリケーションとデスクトップアプリケーションのランタイム環境でTSVドキュメントを組み合わせるためのサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

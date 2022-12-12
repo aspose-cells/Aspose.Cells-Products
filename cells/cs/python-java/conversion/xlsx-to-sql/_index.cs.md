@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLSX na SQL přes Python
-url: /cs/python-java/conversion/xlsx-to-sql/
+
 description: Ukázkový kód pro převod xlsx na sql Python. Použijte API ukázkový kód pro dávkový převod souborů xlsx na sql v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

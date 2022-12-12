@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java के माध्यम से खोले बिना XLS दस्तावेज़ खोजें 
 weight: 9430
-url: /hi/java/search/xls/ 
+
 description: Java JSP/JSF एप्लिकेशन और डेस्कटॉप एप्लिकेशन के लिए रनटाइम एनवायरनमेंट पर XLS फ़ाइल में पैटर्न वाले शब्दों को खोजने के लिए Java नमूना कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: HTML-bestanden maken via Python 
-url: /nl/python-java/create-html/ 
+
 description: Python Voorbeeldcode voor het genereren van HTML-documenten. Gebruik deze code voor het maken van HTML-bestanden binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

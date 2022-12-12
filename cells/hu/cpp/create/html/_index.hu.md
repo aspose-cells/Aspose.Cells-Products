@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Hozzon létre HTML-fájlokat a következőn keresztül: C++ "
-url: /hu/cpp/create-html/ 
+
 description: C++ Mintakód HTML-fájlok generálásához. Ezzel a kóddal HTML-fájlokat hozhat létre C++ alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

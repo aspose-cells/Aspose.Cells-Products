@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převeďte CSV na BMP pomocí aplikace C++ 
 weight: 4890
-url: /cs/cpp/conversion/csv-to-bmp/ 
+
 description: Ukázka převodního kódu C++ pro dokument CSV na formát BMP. Programátoři mohou použít tento zdrojový kód pro dávkový převod CSV na BMP v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

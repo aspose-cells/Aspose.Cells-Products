@@ -1,7 +1,7 @@
-﻿---
+---
 title: สร้างรายงานในไฟล์ XLSB ผ่าน Java 
 weight: 3560
-url: /th/java/assembly/xlsb/ 
+
 description: Java ตัวอย่างโค้ดเพื่อสร้างรายงานรูปแบบ XLSB บน Java Runtime Environment สำหรับแอปพลิเคชัน JSP/JSF และแอปพลิเคชันเดสก์ท็อป
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

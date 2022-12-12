@@ -1,6 +1,6 @@
-﻿---
+---
 title: "FODS konvertálása CSV-vé a következőn keresztül: C#"
-url: /hu/net/conversion/fods-to-csv/
+
 description: Mintakód a fod-ból csv-vé C# konverzióhoz. Használjon API példakódot a kötegelt fod-fájlok csv-vé konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してXLSをSQLに変換します
-url: /ja/python-java/conversion/xls-to-sql/
+
 description: xlsからsqlPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチxlsファイルからSQLへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

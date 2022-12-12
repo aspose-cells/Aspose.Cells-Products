@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してXLSMをXMLに変換します
-url: /ja/python-java/conversion/xlsm-to-xml/
+
 description: xlsmからxmlPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチxlsmファイルからxmlへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

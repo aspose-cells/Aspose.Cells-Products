@@ -1,6 +1,6 @@
-﻿---
+---
 title: Erstellen Sie Balkendiagramme über Python
-url: /de/python-java/create-bar-chart/
+
 description: Python Beispielcode zum Erstellen von Balkendiagrammen in Excel mithilfe der Python-Bibliothek. Verwenden Sie diesen Code zum Erstellen eines Balkendiagramms in MS Excel innerhalb einer Python-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

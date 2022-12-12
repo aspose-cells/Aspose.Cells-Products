@@ -1,6 +1,6 @@
-﻿---
+---
 title: Sloučit soubory ODS přes C++ 
-url: /cs/cpp/merger/ods/ 
+
 description: C++ ukázkový kód pro kombinaci dokumentů ODS v C++ Runtime Environment pro Windows 32 bit, Windows 64 bit a Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title:  Wykres dokumentów XLSM do obrazów za pośrednictwem .NET 
 weight: 5100
-url: /pl/net/chart/xlsm/ 
+
 description: C# kod źródłowy do rysowania i konwertowania wykresu lub diagramu w pliku XLSM na platformach .NET Framework, .NET Core, Mono lub Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

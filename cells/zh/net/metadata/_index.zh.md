@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 .NET C# 管理 Excel 文件元数据
-url: /zh/net/metadata/
+
 description: 只需几行 C# 代码即可查看、添加、编辑、删除或提取 Excel 文件元数据
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

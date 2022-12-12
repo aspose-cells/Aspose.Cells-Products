@@ -1,6 +1,6 @@
-﻿---
+---
 title: Excel 文件合并 API .NET C#
-url: /zh/net/merger/
+
 description: 只需几行 C# 代码即可连接 Excel 和 OpenOffice 电子表格文件。
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

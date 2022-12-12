@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLT إلى SXC عبر Python
-url: /ar/python-java/conversion/xlt-to-sxc/
+
 description: نموذج كود للتحويل من xlt إلى sxc Python. استخدم API رمز المثال لملفات xlt الدفعية لتحويل sxc داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

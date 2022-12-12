@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla Sütun Grafikleri Oluşturun
-url: /tr/python-java/create-column-chart/
+
 description: Python Python Kitaplığı kullanarak Excel'de Sütun grafikleri oluşturmak için örnek kod. Python tabanlı uygulama içinde MS Excel'e bir Sütun grafiği oluşturmak için bu kodu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

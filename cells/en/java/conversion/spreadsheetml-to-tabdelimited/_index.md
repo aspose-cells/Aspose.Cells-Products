@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to TABDELIMITED via Java 
-url: /java/conversion/spreadsheetml-to-tabdelimited/
+
 description: Convert SPREADSHEETML to TABDELIMITED format in Java code. Save SPREADSHEETML as TABDELIMITED using Java.
 ---
 

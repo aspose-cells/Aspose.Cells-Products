@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter TABDELIMITED para EMF por meio do aplicativo C++ 
-url: /pt/cpp/conversion/tabdelimited-to-emf/ 
+
 description: Exemplo de código de conversão C++ do documento TABDELIMITED para o formato EMF. Os programadores podem usar esse código-fonte para conversão em lote TABDELIMITED para EMF em qualquer aplicativo C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

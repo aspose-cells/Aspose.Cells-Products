@@ -1,6 +1,6 @@
-﻿---
+---
 title: "JSON konvertálása XPS-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/json-to-xps/
+
 description: Mintakód a json–xps Python konverzióhoz. Használjon API példakódot a JSON-fájlok kötegelt xps-re konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

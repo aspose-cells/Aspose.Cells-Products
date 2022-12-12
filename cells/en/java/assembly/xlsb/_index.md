@@ -1,7 +1,7 @@
 ---
 title: Generate Reports in XLSB Files via Java 
 weight: 3560
-url: /java/assembly/xlsb/ 
+
 description: Java sample code to create XLSB format reports on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

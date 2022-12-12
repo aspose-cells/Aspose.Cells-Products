@@ -1,7 +1,7 @@
-﻿---
+---
 title: Lihat Format File TSV melalui .NET 
 weight: 3090
-url: /id/net/viewer/tsv/ 
+
 description: C# kode sumber untuk memuat, merender, dan menampilkan dokumen TSV pada .NET Framework, .NET Core, Mono atau Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

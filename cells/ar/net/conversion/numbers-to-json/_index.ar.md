@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل NUMBERS إلى JSON عبر C#
-url: /ar/net/conversion/numbers-to-json/
+
 description: نموذج رمز لتحويل الأرقام إلى json C#. استخدم API رمز المثال لملفات أرقام الدُفعات لتحويل json داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

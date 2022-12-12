@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TXT na MD přes Python
-url: /cs/python-java/conversion/txt-to-md/
+
 description: Ukázkový kód pro převod txt na MD Python. Použijte API ukázkový kód pro dávkový převod souborů txt na MD v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

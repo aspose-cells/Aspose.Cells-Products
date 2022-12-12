@@ -1,7 +1,7 @@
-﻿---
+---
 title: Prohledávejte dokument XLSM bez otevírání prostřednictvím .NET 
 weight: 4880
-url: /cs/net/search/xlsm/ 
+
 description: C# zdrojový kód pro vyhledávání slov se vzorem v souboru XLSM na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

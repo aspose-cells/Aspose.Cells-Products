@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to XLTM via Java 
-url: /java/conversion/ods-to-xltm/
+
 description: Convert ODS to XLTM format in Java code. Save ODS as XLTM using Java.
 ---
 

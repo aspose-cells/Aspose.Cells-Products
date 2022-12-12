@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to PNG via Java 
-url: /java/conversion/xlt-to-png/
+
 description: Convert XLT to PNG format in Java code. Save XLT as PNG using Java.
 ---
 

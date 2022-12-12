@@ -1,6 +1,6 @@
-﻿---
+---
 title: PythonによるMicrosoftExcelファイル変換 
-url: /ja/python/conversion/
+
 description: Excel XLS、XLSX、ODS、CSVをPDF、XPS、HTML、JPEG、HTML、およびその他の多くの一般的な形式に、わずか数行のPythonコードで変換します。
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

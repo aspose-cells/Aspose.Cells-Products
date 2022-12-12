@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést MHTML na TIFF přes C#
-url: /cs/net/conversion/mhtml-to-tiff/
+
 description: Ukázkový kód pro konverzi mhtml na tiff C#. Použijte API ukázkový kód pro dávkové soubory mhtml k převodu tiff v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

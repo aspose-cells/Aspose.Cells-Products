@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLSM-et MD-vé a C++ alkalmazással 
-url: /hu/cpp/conversion/xlsm-to-md/ 
+
 description: Minta C++ konverziós kód XLSM dokumentumhoz MD formátumba. A programozók ezt a forráskódot használhatják az XLSM-ből MD-be történő kötegelt konvertáláshoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

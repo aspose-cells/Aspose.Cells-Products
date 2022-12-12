@@ -1,7 +1,7 @@
-﻿---
+---
 title: Tabulka Android Excel API – Aspose 
 weight: 6510
-url: /cs/android-java/ 
+
 description: Knihovna tabulek pro Android pro vytváření souborů Excel pro čtení, zápis a analýzu. Tabulka API pro vývoj mobilních aplikací
 ---
 {{< blocks/products/pf/main-wrap-class >}}

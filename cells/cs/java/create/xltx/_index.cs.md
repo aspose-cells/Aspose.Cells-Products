@@ -1,6 +1,6 @@
-﻿---
+---
 title: Vytvářejte soubory MS Excel XLTX prostřednictvím Java 
-url: /cs/java/create-xltx/ 
+
 description: Java Ukázkový kód pro generování dokumentů XLTX. Tento kód použijte k vytváření souborů MS Excel XLTX v desktopové nebo webové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

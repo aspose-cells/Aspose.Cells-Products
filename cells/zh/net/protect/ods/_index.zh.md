@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通过 .NET 保护和锁定 ODS 文档 
 weight: 5580
-url: /zh/net/protect/ods/ 
+
 description: C# 源代码，用于在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上使用密码锁定 ODS 文件。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

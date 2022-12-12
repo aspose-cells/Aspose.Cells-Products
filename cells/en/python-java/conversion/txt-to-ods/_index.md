@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to ODS via Python
-url: /python-java/conversion/txt-to-ods/
+
 description: Convert TXT to ODS format in Python code. Save TXT as ODS using Python.
 ---
 

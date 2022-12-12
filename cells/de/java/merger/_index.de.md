@@ -1,6 +1,6 @@
-﻿---
+---
 title: Führen Sie verschiedene Excel-Dateien in Java zu einer einzigen zusammen
-url: /de/java/merger/
+
 description: Führen Sie Excel-Dateien mit Java in mehrere Blätter oder ein einzelnes Blatt zusammen. Zusammenführen, Kombinieren oder Verketten von Excel-Dokumenten zu PDF, Bildern und HTML.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

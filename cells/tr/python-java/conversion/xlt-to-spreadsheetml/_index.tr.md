@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla XLT'yi SPREADSHEETML'ye dönüştürün
-url: /tr/python-java/conversion/xlt-to-spreadsheetml/
+
 description: xlt'den elektronik tabloml'ye Python dönüşümü için örnek kod. Python uygulamasında toplu xlt dosyalarından elektronik tabloml dönüşümüne API örnek kodu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

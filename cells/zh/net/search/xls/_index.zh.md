@@ -1,7 +1,7 @@
-﻿---
+---
 title: 无需通过 .NET 打开即可搜索 XLS 文档 
 weight: 1490
-url: /zh/net/search/xls/ 
+
 description: C# 源代码，用于在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上的 XLS 文件中搜索带有模式的单词。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

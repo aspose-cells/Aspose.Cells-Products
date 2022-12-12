@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla MHTML'yi CSV'ye dönüştürün
-url: /tr/python-java/conversion/mhtml-to-csv/
+
 description: mhtml'den csv'ye Python dönüştürme için örnek kod. Python uygulamasında toplu mhtml dosyalarını csv'ye dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

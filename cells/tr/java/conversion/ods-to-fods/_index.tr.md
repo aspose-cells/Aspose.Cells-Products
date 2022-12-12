@@ -1,6 +1,6 @@
-﻿---
+---
 title: ODS'yi Java aracılığıyla FODS'ye dönüştürün 
-url: /tr/java/conversion/ods-to-fods/ 
+
 description: ODS formatı için FODS dosyasına örnek Java dönüştürme kodu. Programcılar, Excel ve OpenOffice elektronik tablolarını herhangi bir Web veya Masaüstü Java tabanlı Uygulamada FODS'ye aktarmak için bu örnek kodu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

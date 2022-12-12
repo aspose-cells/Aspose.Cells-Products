@@ -1,6 +1,6 @@
-﻿---
+---
 title: Sloučení souborů Excel API .NET C#
-url: /cs/net/merger/
+
 description: Spojte soubory tabulek Excelu a OpenOffice pomocí několika řádků kódu C#.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi FODS sang BMP qua Python
-url: /vi/python-java/conversion/fods-to-bmp/
+
 description: Mã mẫu cho chuyển đổi fods thành bmp Python. Sử dụng mã mẫu API cho các tệp fods hàng loạt để chuyển đổi bmp trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

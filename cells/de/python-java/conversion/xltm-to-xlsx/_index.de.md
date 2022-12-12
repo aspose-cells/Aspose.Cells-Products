@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie XLTM in XLSX über Python
-url: /de/python-java/conversion/xltm-to-xlsx/
+
 description: Beispielcode für die Umwandlung von xltm in xlsx Python. Verwenden Sie API Beispielcode für die Batch-Konvertierung von xltm-Dateien in xlsx innerhalb der Anwendung Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

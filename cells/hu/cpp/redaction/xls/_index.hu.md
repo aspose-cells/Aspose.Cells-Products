@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Szöveg keresése és cseréje XLS-dokumentumban a következőn keresztül: C++ "
 weight: 380
-url: /hu/cpp/redaction/xls/ 
+
 description: C++ példakód az XLS-fájl érzékeny információinak törlésére a C++ Runtime Environment for Windows 32 bit, a Windows 64 bit és a Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

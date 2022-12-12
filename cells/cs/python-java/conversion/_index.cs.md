@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převod souborů Microsoft Excel prostřednictvím Python 
-url: /cs/python/conversion/
+
 description: Převeďte Excel XLS, XLSX, ODS, CSV do PDF, XPS, HTML, JPEG, HTML a mnoha dalších oblíbených formátů pomocí pouhých několika řádků kódu Python.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

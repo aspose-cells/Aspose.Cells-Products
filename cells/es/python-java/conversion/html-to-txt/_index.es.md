@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierte HTML a TXT a través de Python
-url: /es/python-java/conversion/html-to-txt/
+
 description: Código de muestra para la conversión de html a txt Python. Use el código de ejemplo API para la conversión de archivos html por lotes a txt dentro de la aplicación Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

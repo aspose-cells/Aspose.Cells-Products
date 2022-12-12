@@ -1,6 +1,6 @@
-﻿---
+---
 title: "JSON konvertálása TIFF-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/json-to-tiff/
+
 description: Mintakód a json–tiff Python konverzióhoz. Használjon API példakódot kötegelt json-fájlokhoz a tiff-konverzióhoz a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

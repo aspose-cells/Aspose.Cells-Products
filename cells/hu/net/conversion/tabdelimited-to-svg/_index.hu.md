@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TABDELIMITED konvertálása SVG-re a következőn keresztül: C#"
-url: /hu/net/conversion/tabdelimited-to-svg/
+
 description: Mintakód a tabulátorral elválasztott svg C# konverzióhoz. Használjon API példakódot a tabulátorral határolt fájlok kötegelt svg konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

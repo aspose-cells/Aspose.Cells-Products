@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++を介してXLSMドキュメントメタデータを編集または表示する 
 weight: 1300
-url: /ja/cpp/metadata/xlsm/ 
+
 description: C++ Windows 32ビット、Windows 64ビット、およびLinux64ビットのランタイム環境でXLSMファイルメタデータを編集または表示するためのサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

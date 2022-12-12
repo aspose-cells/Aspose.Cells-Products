@@ -1,6 +1,6 @@
-﻿---
+---
 title: Twórz wykresy bąbelkowe za pomocą Python
-url: /pl/python-java/create-bubble-chart/
+
 description: Python Przykładowy kod do tworzenia wykresów bąbelkowych w programie Excel przy użyciu biblioteki Python. Użyj tego kodu, aby utworzyć wykres bąbelkowy do MS Excel w aplikacji opartej na Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

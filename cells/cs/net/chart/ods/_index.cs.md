@@ -1,7 +1,7 @@
-﻿---
+---
 title:  Graf dokumentu ODS k obrázkům prostřednictvím .NET 
 weight: 4360
-url: /cs/net/chart/ods/ 
+
 description: C# zdrojový kód pro kreslení a převod grafu nebo diagramu v souboru ODS na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

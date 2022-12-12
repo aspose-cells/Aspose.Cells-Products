@@ -1,7 +1,7 @@
-﻿---
+---
 title:  XLSM dokumentdiagram till bilder via .NET 
 weight: 5100
-url: /sv/net/chart/xlsm/ 
+
 description: C# källkod för att rita och konvertera diagram eller diagram i XLSM-fil på .NET Framework, .NET Core, Mono eller Xamarin-plattformar.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

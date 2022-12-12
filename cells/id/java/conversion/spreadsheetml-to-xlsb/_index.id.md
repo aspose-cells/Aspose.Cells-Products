@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan SPREADSHEETML ke XLSB melalui Java 
-url: /id/java/conversion/spreadsheetml-to-xlsb/ 
+
 description: Contoh Java kode konversi untuk format SPREADSHEETML ke file XLSB. Pemrogram dapat menggunakan kode contoh ini untuk mengekspor spreadsheet Excel & OpenOffice ke XLSB dalam Aplikasi berbasis Java Web atau Desktop apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

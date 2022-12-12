@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل MHTML إلى XLSM عبر C#
-url: /ar/net/conversion/mhtml-to-xlsm/
+
 description: نموذج رمز للتحويل من mhtml إلى xlsm C#. استخدم API رمز المثال لملفات mhtml الدفعية لتحويل xlsm داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

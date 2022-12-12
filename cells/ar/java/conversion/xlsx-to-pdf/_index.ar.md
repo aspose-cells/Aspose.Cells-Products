@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل XLSX إلى PDF عبر Java 
 weight: 3200
-url: /ar/java/conversion/xlsx-to-pdf/ 
+
 description: نموذج Java رمز التحويل لتنسيق XLSX إلى ملف PDF. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel و OpenOffice إلى PDF داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Buscar documento XLS sin abrir a través de .NET 
 weight: 1490
-url: /es/net/search/xls/ 
+
 description: C# código fuente para buscar palabras con patrón en archivo XLS en .NET Framework, .NET Core, Mono o Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

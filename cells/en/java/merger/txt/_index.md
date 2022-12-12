@@ -1,7 +1,7 @@
 ---
 title: Merge TXT Files via Java 
 weight: 4480
-url: /java/merger/txt/ 
+
 description: Java sample code to combine TXT documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

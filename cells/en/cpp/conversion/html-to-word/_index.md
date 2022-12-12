@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to WORD via C++
-url: /cpp/conversion/html-to-word/
+
 description: Convert HTML to WORD format in C++ code. Save HTML as WORD using C++.
 ---
 

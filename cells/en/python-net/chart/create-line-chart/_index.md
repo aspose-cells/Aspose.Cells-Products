@@ -1,6 +1,6 @@
 ---
 title: Create Line Charts via Python
-url: /python-net/create-line-chart/
+
 description: Python Sample code for creating Line charts to Excel using Python Library. Use this code for creating a Line chart to MS Excel within Python based application.
 
 ---

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してNUMBERSをPDFに変換する 
-url: /ja/java/conversion/numbers-to-pdf/ 
+
 description: NUMBERS形式のPDFファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、任意のWebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをPDFにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "MHTML konvertálása XLTX-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/mhtml-to-xltx/
+
 description: Mintakód az mhtml–xltx Python konverzióhoz. Használjon API példakódot az mhtml fájlok kötegelt xltx konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NETを介してXLSファイルを分割する 
 weight: 1340
-url: /ja/net/splitter/xls/ 
+
 description: .NETフレームワーク、.NETコア、Mono、またはXamarinプラットフォームでXLSドキュメントを分割するためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to TABDELIMITED via C++
-url: /cpp/conversion/xltx-to-tabdelimited/
+
 description: Convert XLTX to TABDELIMITED format in C++ code. Save XLTX as TABDELIMITED using C++.
 ---
 

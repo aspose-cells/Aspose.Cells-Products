@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Az XLTX konvertálása SPREADSHEETML-re a következőn keresztül: C#"
-url: /hu/net/conversion/xltx-to-spreadsheetml/
+
 description: Mintakód az xltx-ből táblázattáblázatba C# konverzióhoz. Használjon API példakódot kötegelt xltx fájlokhoz a táblázatkezelők konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

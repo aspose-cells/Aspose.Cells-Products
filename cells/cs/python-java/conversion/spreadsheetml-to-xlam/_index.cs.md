@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést SPREADSHEETML na XLAM přes Python
-url: /cs/python-java/conversion/spreadsheetml-to-xlam/
+
 description: Ukázkový kód pro převod tabulky ml na xlam Python. Použijte API ukázkový kód pro dávkové soubory tabulkového procesoruml na převod xlam v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

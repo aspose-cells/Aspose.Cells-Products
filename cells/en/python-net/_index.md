@@ -1,7 +1,7 @@
 ---
 title: Python Excel Spreadsheet API - Aspose 
 weight: 2800
-url: /python-net/ 
+
 description: Python spreadsheet library to create read write and parse Excel files.
 ---
 

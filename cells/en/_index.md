@@ -1,7 +1,7 @@
 ---
 title: Excel File Format Solution
 weight: 7730
-url: /
+
 description: Create Excel file manipulation applications using High Code or Low Code APIs or No Code Apps to view compare inspect or convert Excel files.
 ---
 

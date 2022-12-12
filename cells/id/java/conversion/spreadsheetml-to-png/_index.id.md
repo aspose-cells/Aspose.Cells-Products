@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan SPREADSHEETML ke PNG melalui Java 
-url: /id/java/conversion/spreadsheetml-to-png/ 
+
 description: Contoh Java kode konversi untuk format SPREADSHEETML ke file PNG. Pemrogram dapat menggunakan kode contoh ini untuk mengekspor spreadsheet Excel & OpenOffice ke PNG dalam Aplikasi berbasis Web atau Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

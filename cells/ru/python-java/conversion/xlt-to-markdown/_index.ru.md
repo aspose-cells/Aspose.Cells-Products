@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLT в MARKDOWN через Python
-url: /ru/python-java/conversion/xlt-to-markdown/
+
 description: Пример кода для преобразования xlt в уценку Python. Используйте пример кода API для пакетного преобразования xlt-файлов в уценку в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

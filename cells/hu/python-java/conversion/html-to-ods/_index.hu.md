@@ -1,6 +1,6 @@
-﻿---
+---
 title: "HTML konvertálása ODS-vé a következőn keresztül: Python"
-url: /hu/python-java/conversion/html-to-ods/
+
 description: Mintakód a html-ből ods Python konvertáláshoz. Használjon API példakódot a html fájlok kötegelt ods konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

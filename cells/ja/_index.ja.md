@@ -1,7 +1,7 @@
-﻿---
+---
 title: Excelファイル形式ソリューション
 weight: 7730
-url: /ja/
+
 description: ハイコードまたはローコードAPIまたはノーコードアプリを使用してExcelファイル操作アプリケーションを作成し、Excelファイルの比較検査または変換を表示します。
 ---
 {{< blocks/products/pf/main-wrap-class >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: أضف خطًا في المخطط عبر C# 
-url: /ar/net/add-line-in-chart/ 
+
 description: C# نموذج كود لإضافة خط في مخطط إلى Excel باستخدام .NET المكتبة. استخدم هذا الرمز لإضافة خط في مخطط إلى MS Excel داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

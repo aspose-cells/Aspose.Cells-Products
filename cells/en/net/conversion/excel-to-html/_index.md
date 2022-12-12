@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to HTML via C#
-url: /net/conversion/excel-to-html/
+
 description: Convert EXCEL to HTML format in C# code. Save EXCEL as HTML using VB.NET, Asp.NET or any .NET based application.
 ---
 

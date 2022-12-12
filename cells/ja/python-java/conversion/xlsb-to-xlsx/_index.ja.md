@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してXLSBをXLSXに変換します
-url: /ja/python-java/conversion/xlsb-to-xlsx/
+
 description: xlsbからxlsxPythonへの変換のサンプルコード。 Pythonアプリケーション内でのxlsbファイルからxlsxへのバッチ変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

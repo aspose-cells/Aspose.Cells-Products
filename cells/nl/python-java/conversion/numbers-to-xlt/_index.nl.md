@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer NUMMERS naar XLT via Python
-url: /nl/python-java/conversion/numbers-to-xlt/
+
 description: Voorbeeldcode voor conversie van getallen naar xlt Python. Gebruik API voorbeeldcode voor batchnummerbestanden naar xlt-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

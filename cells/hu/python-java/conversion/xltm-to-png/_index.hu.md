@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLTM konvertálása PNG-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/xltm-to-png/
+
 description: Mintakód az xltm–png Python konverzióhoz. Használjon API példakódot a kötegelt xltm fájlokhoz a png konverzióhoz a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

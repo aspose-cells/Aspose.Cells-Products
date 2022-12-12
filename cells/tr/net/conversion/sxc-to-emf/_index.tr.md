@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla SXC'yi EMF'ye dönüştürün
-url: /tr/net/conversion/sxc-to-emf/
+
 description: sxc'den emf'ye C# dönüştürme için örnek kod. Toplu sxc dosyaları için VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde emf dönüşümü için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

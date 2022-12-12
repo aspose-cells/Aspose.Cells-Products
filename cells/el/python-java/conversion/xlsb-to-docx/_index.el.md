@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή XLSB σε DOCX μέσω Python
-url: /el/python-java/conversion/xlsb-to-docx/
+
 description: Δείγμα κώδικα για μετατροπή xlsb σε docx Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία xlsb σε μετατροπή docx εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

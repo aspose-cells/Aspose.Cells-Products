@@ -1,7 +1,7 @@
-﻿---
+---
 title: Zeigen Sie XLSM-Dateiformate über .NET an 
 weight: 9980
-url: /de/net/viewer/xlsm/ 
+
 description: C#-Quellcode zum Laden, Rendern und Anzeigen von XLSM-Dokumenten auf .NET Framework-, .NET Core-, Mono- oder Xamarin-Plattformen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

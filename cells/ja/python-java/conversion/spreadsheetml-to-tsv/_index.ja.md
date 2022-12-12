@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してSPREADSHEETMLをTSVに変換します
-url: /ja/python-java/conversion/spreadsheetml-to-tsv/
+
 description: SpreadsheetmlからtsvPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチspreadsheetmlファイルからtsvへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

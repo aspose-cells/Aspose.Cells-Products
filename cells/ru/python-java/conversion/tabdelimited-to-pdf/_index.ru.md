@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование TABDELIMITED в PDF через Python
-url: /ru/python-java/conversion/tabdelimited-to-pdf/
+
 description: Пример кода для преобразования tabdelimited в pdf Python. Используйте пример кода API для пакетного преобразования файлов с разделителями табуляции в PDF в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

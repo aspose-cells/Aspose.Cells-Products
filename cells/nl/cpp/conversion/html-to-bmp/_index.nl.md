@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer HTML naar BMP via C++ applicatie 
 weight: 9710
-url: /nl/cpp/conversion/html-to-bmp/ 
+
 description: Voorbeeld C++-conversiecode voor HTML-document naar BMP-indeling. Programmeurs kunnen deze broncode gebruiken voor batch-HTML-naar-BMP-conversie binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla EXCEL'i JPG'ye dönüştürün
-url: /tr/net/conversion/excel-to-jpg/
+
 description: Excel'den jpg'ye C# dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu excel dosyalarından jpg'ye dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TXT konvertálása GIF-be a következőn keresztül: C#"
-url: /hu/net/conversion/txt-to-gif/
+
 description: Mintakód a txt-ből gif-be C# konverzióhoz. Használjon API példakódot kötegelt txt fájlokhoz a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazás gif konvertálásához.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

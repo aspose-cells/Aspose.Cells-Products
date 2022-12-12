@@ -1,7 +1,7 @@
-﻿---
+---
 title: Excel Elektronik Tabloları için Node.js API'leri - Aspose 
 weight: 3120
-url: /tr/nodejs-java/ 
+
 description: Node.js kitaplığı aracılığıyla Excel dosya biçimlerini işleyin. Windows, macOS ve Linux üzerinde Node.js aracılığıyla okuma yazma oluşturma ve XLS XLSX XLSB XLTX XLTM XLSM XML ODS CSV ve daha fazla formatı dönüştürme
 ---
 {{< blocks/products/pf/main-wrap-class >}}

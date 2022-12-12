@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertera HTML till TXT via Java 
 weight: 2590
-url: /sv/java/conversion/html-to-txt/ 
+
 description: Exempel Java-konverteringskod för HTML-format till TXT-fil. Programmerare kan använda den här exempelkoden för att exportera Excel- och OpenOffice-kalkylblad till TXT inom alla webb- eller skrivbordsbaserade Java-applikationer.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل EXCEL إلى JSON عبر C#
-url: /ar/net/conversion/excel-to-json/
+
 description: نموذج رمز للتحويل من Excel إلى json C#. استخدم API رمز المثال لملفات Excel المجمعة لتحويل json داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

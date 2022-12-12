@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to DOCX via Python
-url: /python-java/conversion/csv-to-docx/
+
 description: Convert CSV to DOCX format in Python code. Save CSV as DOCX using Python.
 ---
 

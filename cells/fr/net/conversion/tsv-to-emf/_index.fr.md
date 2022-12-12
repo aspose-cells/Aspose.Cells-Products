@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir TSV en EMF via C#
-url: /fr/net/conversion/tsv-to-emf/
+
 description: Exemple de code pour la conversion tsv en emf C#. Utilisez l'exemple de code API pour les fichiers tsv par lots en conversion emf dans VB.NET, Asp.NET ou toute application basée sur .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

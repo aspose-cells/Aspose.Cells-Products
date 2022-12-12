@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Vízjel XLSB dokumentum a következőn keresztül: .NET "
 weight: 5410
-url: /hu/net/watermark/xlsb/ 
+
 description: C# forráskód a vízjel hozzáadásához vagy eltávolításához XLSB-fájlhoz .NET Framework, .NET Core, Mono vagy Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

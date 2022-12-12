@@ -1,7 +1,7 @@
-﻿---
+---
 title: Преобразование XLT в байтовый массив с помощью C# 
 weight: 7690
-url: /ru/net/conversion/xlt-to-byte-array/ 
+
 description: C# Пример кода для преобразования XLT в байтовый массив. Используйте этот код для преобразования Excel XLT в байтовый массив в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

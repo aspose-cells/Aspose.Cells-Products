@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to JPG via Python
-url: /python-java/conversion/excel-to-jpg/
+
 description: Convert EXCEL to JPG format in Python code. Save EXCEL as JPG using Python.
 ---
 

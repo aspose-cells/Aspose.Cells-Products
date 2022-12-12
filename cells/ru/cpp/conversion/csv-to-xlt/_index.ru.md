@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование CSV в XLT через приложение C++ 
-url: /ru/cpp/conversion/csv-to-xlt/ 
+
 description: Пример кода преобразования C++ для документа CSV в формат XLT. Программисты могут использовать этот исходный код для пакетного преобразования CSV в XLT в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

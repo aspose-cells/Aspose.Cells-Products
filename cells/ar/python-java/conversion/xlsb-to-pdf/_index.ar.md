@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLSB إلى PDF عبر Python
-url: /ar/python-java/conversion/xlsb-to-pdf/
+
 description: نموذج كود للتحويل من xlsb إلى pdf Python. استخدم API رمز المثال لملفات xlsb الدفعية لتحويل pdf داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

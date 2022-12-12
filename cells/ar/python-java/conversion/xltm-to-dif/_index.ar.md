@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLTM إلى DIF عبر Python
-url: /ar/python-java/conversion/xltm-to-dif/
+
 description: نموذج رمز للتحويل من xltm إلى Python. استخدم API مثال الكود لملفات xltm الدفعية لتعريف التحويل داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

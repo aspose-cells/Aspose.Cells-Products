@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera TABDELIMITED till DIF via appen C++ 
-url: /sv/cpp/conversion/tabdelimited-to-dif/ 
+
 description: Exempel på konverteringskod för C++ för TABDELLIMITED-dokument till DIF-format. Programmerare kan använda den här källkoden för batchkonvertering av TABDELLIMITED till DIF inom alla C++-program.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

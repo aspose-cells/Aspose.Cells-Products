@@ -1,6 +1,6 @@
-﻿---
+---
 title: Upravit soubory XLTX prostřednictvím .NET 
-url: /cs/net/editor/xltx/ 
+
 description: C# zdrojový kód pro úpravu dokumentu XLTX na platformách .NET Framework, .NET Core, Windows Azure, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

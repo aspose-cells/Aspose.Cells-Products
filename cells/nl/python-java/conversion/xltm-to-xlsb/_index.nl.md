@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLTM naar XLSB via Python
-url: /nl/python-java/conversion/xltm-to-xlsb/
+
 description: Voorbeeldcode voor xltm naar xlsb Python conversie. Gebruik API voorbeeldcode voor batch xltm-bestanden naar xlsb-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

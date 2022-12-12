@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter XLS para TXT por meio do aplicativo C++ 
-url: /pt/cpp/conversion/xls-to-txt/ 
+
 description: Exemplo de código de conversão C++ de documento XLS para formato TXT. Os programadores podem usar esse código-fonte para conversão em lote de XLS para TXT em qualquer aplicativo C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

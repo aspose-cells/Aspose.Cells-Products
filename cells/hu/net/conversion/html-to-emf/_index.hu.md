@@ -1,6 +1,6 @@
-﻿---
+---
 title: "HTML konvertálása EMF-vé a következőn keresztül: C#"
-url: /hu/net/conversion/html-to-emf/
+
 description: Mintakód a html-ből emf-be C# történő konverzióhoz. Használjon API példakódot kötegelt html-fájlokhoz az EMF-konverzióhoz VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

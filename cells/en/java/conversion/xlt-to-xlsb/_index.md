@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to XLSB via Java 
-url: /java/conversion/xlt-to-xlsb/
+
 description: Convert XLT to XLSB format in Java code. Save XLT as XLSB using Java.
 ---
 

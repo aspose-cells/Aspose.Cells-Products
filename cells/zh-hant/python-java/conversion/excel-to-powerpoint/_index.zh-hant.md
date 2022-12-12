@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 Python 將 EXCEL 轉換為 POWERPOINT
-url: /zh-hant/python-java/conversion/excel-to-powerpoint/
+
 description: excel 到 powerpoint Python 轉換的示例代碼。使用 Python 應用程序中的批量 excel 文件到 powerpoint 轉換的 API 示例代碼。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

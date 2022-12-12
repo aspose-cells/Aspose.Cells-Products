@@ -1,7 +1,7 @@
-﻿---
+---
 title: البحث في مستند ODS بدون فتح عبر .NET 
 weight: 160
-url: /ar/net/search/ods/ 
+
 description: C# شفرة المصدر للبحث عن الكلمات ذات النمط في ملف ODS على الأنظمة الأساسية .NET Framework أو .NET Core أو Mono أو Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

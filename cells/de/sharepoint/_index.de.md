@@ -1,7 +1,7 @@
-﻿---
+---
 title: SharePoint Excel-Tabellenkonverter-App – Aspose 
 weight: 940
-url: /de/sharepoint/ 
+
 description: Aspose.Cells für die SharePoint-App ist ein SharePoint-Excel-Tabellenkonverter. Export XLS XLSX XML CSV PDF ODS &amp; HTML-Formate in MOSS WSS
 ---
 {{< blocks/products/pf/main-wrap-class >}}

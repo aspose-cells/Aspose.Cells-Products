@@ -1,7 +1,7 @@
-﻿---
+---
 title: Generovat zprávy v souborech ODS prostřednictvím Java 
 weight: 2440
-url: /cs/java/assembly/ods/ 
+
 description: Java ukázkový kód pro vytváření sestav formátu ODS v Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

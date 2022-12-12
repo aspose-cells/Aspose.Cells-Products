@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLSB в TXT с помощью приложения C++ 
-url: /ru/cpp/conversion/xlsb-to-txt/ 
+
 description: Пример кода преобразования C++ для документа XLSB в формат TXT. Программисты могут использовать этот исходный код для пакетного преобразования XLSB в TXT в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

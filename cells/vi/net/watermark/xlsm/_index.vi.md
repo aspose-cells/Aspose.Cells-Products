@@ -1,7 +1,7 @@
-﻿---
+---
 title: Tài liệu XLSM hình mờ qua .NET 
 weight: 8270
-url: /vi/net/watermark/xlsm/ 
+
 description: C# mã nguồn để thêm hoặc xóa hình mờ vào tệp XLSM trên Nền tảng .NET Framework, .NET Core Mono hoặc Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

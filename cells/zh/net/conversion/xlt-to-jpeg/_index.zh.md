@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 C# 将 XLT 转换为 JPEG
-url: /zh/net/conversion/xlt-to-jpeg/
+
 description: xlt 到 jpeg C# 转换的示例代码。使用 API 示例代码在 VB.NET、Asp.NET 或任何基于 .NET 的应用程序中将 xlt 文件批量转换为 jpeg。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

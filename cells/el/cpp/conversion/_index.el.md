@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή αρχείου Microsoft Excel μέσω C++ 
-url: /el/cpp/conversion/
+
 description: Μετατρέψτε το Excel XLS, XLSX, ODS, CSV σε PDF, XPS, HTML, JPEG και άλλες μορφές με λίγες μόνο γραμμές κώδικα C++.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

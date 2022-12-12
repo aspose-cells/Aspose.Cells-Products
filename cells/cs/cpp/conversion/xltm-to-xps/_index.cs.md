@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte XLTM na XPS pomocí aplikace C++ 
-url: /cs/cpp/conversion/xltm-to-xps/ 
+
 description: Ukázkový konverzní kód C++ pro dokument XLTM na formát XPS. Programátoři mohou použít tento zdrojový kód pro dávkovou konverzi XLTM na XPS v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Merge NUMBERS to NUMBERS Files via C++ 
-url: /cpp/merger/merge-numbers-to-numbers/ 
+
 description: Merge NUMBERS to NUMBERS file in C++ code. Combine NUMBERS to NUMBERS file using C++.
 ---
 

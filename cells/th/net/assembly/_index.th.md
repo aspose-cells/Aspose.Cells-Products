@@ -1,6 +1,6 @@
-﻿---
+---
 title: สร้างไฟล์ Excel ผ่าน C#
-url: /th/net/assembly/
+
 description: สร้างสเปรดชีต Microsoft Excel จากแผ่นเทมเพลตโดยใช้ C# code
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

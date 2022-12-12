@@ -1,6 +1,6 @@
-﻿---
+---
 title: Créer des graphiques en aires via Python
-url: /fr/python-java/create-area-chart/
+
 description: Python Exemple de code pour créer des graphiques en aires dans Excel à l'aide de la bibliothèque Python. Utilisez ce code pour créer un graphique en aires dans MS Excel dans une application basée sur Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

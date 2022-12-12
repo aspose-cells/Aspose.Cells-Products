@@ -1,7 +1,7 @@
-﻿---
+---
 title: Cerca e sostituisci testo nel documento ODS tramite Java 
 weight: 9210
-url: /it/java/redaction/ods/ 
+
 description: Java codice di esempio per redigere informazioni riservate nel file ODS in Java Runtime Environment per applicazioni JSP/JSF e applicazioni desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

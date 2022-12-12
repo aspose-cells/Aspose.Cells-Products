@@ -1,6 +1,6 @@
 ---
 title: Merge CSV to NUMBERS Files via Java 
-url: /java/merger/merge-csv-to-numbers/ 
+
 description: Merge CSV to NUMBERS file in Java code. Combine CSV to NUMBERS file using Java based desktop or web application.
 ---
 

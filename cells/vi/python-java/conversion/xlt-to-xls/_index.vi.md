@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi XLT sang XLS qua Python
-url: /vi/python-java/conversion/xlt-to-xls/
+
 description: Mã mẫu cho chuyển đổi xlt sang xls Python. Sử dụng API mã ví dụ để chuyển đổi hàng loạt tệp xlt sang xls trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera NUMBERS till CSV via Java 
-url: /sv/java/conversion/numbers-to-csv/ 
+
 description: Exempel på konverteringskod för Java för NUMBERS-format till CSV-fil. Programmerare kan använda den här exempelkoden för att exportera Excel- och OpenOffice-kalkylblad till CSV inom alla webb- eller skrivbordsbaserade Javaapplikationer.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

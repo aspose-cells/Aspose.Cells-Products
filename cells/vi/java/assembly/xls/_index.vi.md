@@ -1,7 +1,7 @@
-﻿---
+---
 title: Tạo Báo cáo trong Tệp XLS qua Java 
 weight: 1090
-url: /vi/java/assembly/xls/ 
+
 description: Java mã mẫu để tạo báo cáo định dạng XLS trên Java Môi trường thời gian chạy cho Ứng dụng JSP / JSF và Ứng dụng máy tính để bàn.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

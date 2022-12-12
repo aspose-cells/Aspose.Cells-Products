@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование TXT в TIFF через C#
-url: /ru/net/conversion/txt-to-tiff/
+
 description: Пример кода для преобразования txt в tiff C#. Используйте пример кода API для пакетного преобразования файлов txt в tiff в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

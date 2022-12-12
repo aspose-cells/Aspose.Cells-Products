@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla SXC'yi DOCX'e dönüştürün
-url: /tr/python-java/conversion/sxc-to-docx/
+
 description: sxc'den docx'e Python dönüştürme için örnek kod. Python uygulamasında toplu sxc dosyalarından docx'e dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

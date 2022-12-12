@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer EXCEL naar SVG via C#
-url: /nl/net/conversion/excel-to-svg/
+
 description: Voorbeeldcode voor conversie van Excel naar SVG C#. Gebruik API voorbeeldcode voor batch Excel-bestanden naar svg-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

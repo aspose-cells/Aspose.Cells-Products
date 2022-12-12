@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java aracılığıyla filigran XLSM belgesi 
 weight: 7680
-url: /tr/java/watermark/xlsm/ 
+
 description: JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Runtime Environment'daki XLSM dosyasına filigran eklemek veya kaldırmak için Java örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TABDELIMITED إلى FODS عبر C#
-url: /ar/net/conversion/tabdelimited-to-fods/
+
 description: نموذج التعليمات البرمجية لجدولة محدودة لتحويل fods C#. استخدم API رمز المثال للملفات المحددة بعلامات الجدولة المجمعة لتحويل fods داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

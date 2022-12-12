@@ -1,6 +1,6 @@
-﻿---
+---
 title: JSON को C# के माध्यम से EMF में बदलें
-url: /hi/net/conversion/json-to-emf/
+
 description: जेसन से ईएमएफ C# रूपांतरण के लिए नमूना कोड। वीबी.NET, एएसपी.NET या किसी भी .NET आधारित एप्लिकेशन के भीतर बैच जेसन फाइलों के ईएमएफ रूपांतरण के लिए API उदाहरण कोड का प्रयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

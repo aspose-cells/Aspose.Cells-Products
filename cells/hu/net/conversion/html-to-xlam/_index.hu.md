@@ -1,6 +1,6 @@
-﻿---
+---
 title: "HTML konvertálása XLAM-re a következőn keresztül: C#"
-url: /hu/net/conversion/html-to-xlam/
+
 description: Mintakód a html-ből xlam C#-ba való konverzióhoz. Használjon API példakódot kötegelt html fájlokhoz az xlam konverzióhoz VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

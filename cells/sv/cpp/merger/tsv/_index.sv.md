@@ -1,6 +1,6 @@
-﻿---
+---
 title: Slå samman TSV-filer via C++ 
-url: /sv/cpp/merger/tsv/ 
+
 description: C++ exempelkod för att kombinera TSV-dokument i C++ Runtime Environment för Windows 32-bitars, Windows 64-bitars och Linux 64-bitars.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

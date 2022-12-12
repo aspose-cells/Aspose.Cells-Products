@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή XLSX σε TABDELIMITED μέσω Java 
-url: /el/java/conversion/xlsx-to-tabdelimited/ 
+
 description: Δείγμα κώδικα μετατροπής Java για μορφή XLSX σε αρχείο TABDELIMITED. Οι προγραμματιστές μπορούν να χρησιμοποιήσουν αυτό το παράδειγμα κώδικα για να εξάγουν υπολογιστικά φύλλα Excel και OpenOffice σε TABDELIMITED σε οποιαδήποτε εφαρμογή που βασίζεται στον Ιστό ή στην επιφάνεια εργασίας Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

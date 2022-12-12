@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#을 통해 Column3D 차트 만들기
-url: /ko/net/create-column3d-chart/
+
 description: C# .NET 라이브러리를 사용하여 Excel에 Column3D 차트를 생성하기 위한 샘플 코드. 이 코드를 사용하여 VB.NET, Asp.NET 또는 .NET 기반 애플리케이션 내에서 MS Excel에 대한 Column3D 차트를 생성합니다.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

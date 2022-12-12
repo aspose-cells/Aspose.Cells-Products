@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Hozzon létre MS Excel XLT fájlokat a következőn keresztül: C++ "
-url: /hu/cpp/create-xlt/ 
+
 description: C++ Mintakód MS Excel XLT fájlok generálásához. Ezzel a kóddal MS Excel XLT fájlokat hozhat létre C++ alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to DOCX via Java 
-url: /java/conversion/csv-to-docx/
+
 description: Convert CSV to DOCX format in Java code. Save CSV as DOCX using Java.
 ---
 

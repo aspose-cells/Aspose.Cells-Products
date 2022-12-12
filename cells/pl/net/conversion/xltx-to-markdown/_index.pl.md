@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj XLTX na MARKDOWN przez C#
-url: /pl/net/conversion/xltx-to-markdown/
+
 description: Przykładowy kod konwersji xltx na przecenę C#. Użyj przykładowego kodu API dla wsadowych plików xltx do konwersji przecen w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

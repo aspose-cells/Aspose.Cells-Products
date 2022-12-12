@@ -1,6 +1,6 @@
 ---
 title: Merge XLSX to MHT Files via Java 
-url: /java/merger/merge-xlsx-to-mht/ 
+
 description: Merge XLSX to MHT file in Java code. Combine XLSX to MHT file using Java based desktop or web application.
 ---
 

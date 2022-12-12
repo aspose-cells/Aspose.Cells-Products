@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل ODS إلى GIF عبر C#
-url: /ar/net/conversion/ods-to-gif/
+
 description: نموذج كود لتحويل ods إلى gif C#. استخدم API مثال الكود لملفات دفعات لتحويل gif داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

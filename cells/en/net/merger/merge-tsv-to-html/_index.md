@@ -1,6 +1,6 @@
 ---
 title: Merge TSV to HTML Files via C# 
-url: /net/merger/merge-tsv-to-html/ 
+
 description: Merge TSV to HTML file in C# code. Combine TSV to HTML file using VB.NET, Asp.NET or any .NET based application.
 ---
 

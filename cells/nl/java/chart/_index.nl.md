@@ -1,6 +1,6 @@
-﻿---
+---
 title: Maak Excel-diagrammen en converteer naar afbeeldingen via Java
-url: /nl/java/chart/
+
 description: Java broncode om een diagram of diagram in Microsoft Excel te tekenen en om te zetten met behulp van Java Bibliotheek. 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

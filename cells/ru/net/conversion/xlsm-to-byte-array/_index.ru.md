@@ -1,7 +1,7 @@
-﻿---
+---
 title: Преобразование XLSM в байтовый массив с помощью C# 
 weight: 7690
-url: /ru/net/conversion/xlsm-to-byte-array/ 
+
 description: C# Пример кода для преобразования XLSM в байтовый массив. Используйте этот код для преобразования Excel XLSM в байтовый массив в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

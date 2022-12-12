@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera NUMBERS till BMP via Python
-url: /sv/python-java/conversion/numbers-to-bmp/
+
 description: Exempelkod för siffror till bmp Python-konvertering. Använd API exempelkod för batchnummerfiler för att bmp-konvertera i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

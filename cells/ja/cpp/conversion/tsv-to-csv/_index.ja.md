@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++アプリケーションを介してTSVをCSVに変換する 
 weight: 9820
-url: /ja/cpp/conversion/tsv-to-csv/ 
+
 description: TSVドキュメントからCSV形式へのサンプルC++変換コード。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でTSVからCSVへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

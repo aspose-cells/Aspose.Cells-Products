@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to TXT via C#
-url: /net/conversion/spreadsheetml-to-txt/
+
 description: Convert SPREADSHEETML to TXT format in C# code. Save SPREADSHEETML as TXT using VB.NET, Asp.NET or any .NET based application.
 ---
 

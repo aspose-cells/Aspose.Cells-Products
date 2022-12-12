@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter TABDELIMITED para PDF por meio do aplicativo C++ 
-url: /pt/cpp/conversion/tabdelimited-to-pdf/ 
+
 description: Exemplo de código de conversão C++ para documento TABDELIMITED para formato PDF. Os programadores podem usar este código-fonte para conversão em lote TABDELIMITED para PDF em qualquer aplicativo C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

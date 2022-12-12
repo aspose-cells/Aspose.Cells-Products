@@ -1,6 +1,6 @@
-﻿---
+---
 title: MHTML को XLSX में C# के माध्यम से कनवर्ट करें
-url: /hi/net/conversion/mhtml-to-xlsx/
+
 description: mhtml से xlsx C# रूपांतरण के लिए नमूना कोड। वीबी.NET, एएसपी.NET या किसी भी .NET आधारित एप्लिकेशन के भीतर बैच एमएचटीएमएल फाइलों के एक्सएलएसएक्स रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

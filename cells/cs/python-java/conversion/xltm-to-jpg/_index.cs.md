@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLTM na JPG přes Python
-url: /cs/python-java/conversion/xltm-to-jpg/
+
 description: Ukázkový kód pro převod xltm na jpg Python. Použijte API ukázkový kód pro dávkový převod souborů xltm na jpg v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

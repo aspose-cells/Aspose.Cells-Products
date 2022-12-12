@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan MHTML ke XML melalui C#
-url: /id/net/conversion/mhtml-to-xml/
+
 description: Contoh kode untuk mhtml ke xml C# konversi. Gunakan API kode contoh untuk file batch mhtml ke konversi xml dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

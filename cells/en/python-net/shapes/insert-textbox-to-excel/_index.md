@@ -1,7 +1,7 @@
 ---
 title: Insert TextBox into Excel via Python 
 weight: 10
-url: /python-net/shapes/insert-textbox-to-excel/ 
+
 description: Python source code to insert TextBox into Excel.
 ---
 

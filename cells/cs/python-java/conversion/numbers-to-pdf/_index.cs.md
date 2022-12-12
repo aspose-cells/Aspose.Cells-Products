@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést NUMBERS do PDF přes Python
-url: /cs/python-java/conversion/numbers-to-pdf/
+
 description: Ukázkový kód pro převod čísel do formátu pdf Python. Použijte API ukázkový kód pro převod souborů s čísly dávek na pdf v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

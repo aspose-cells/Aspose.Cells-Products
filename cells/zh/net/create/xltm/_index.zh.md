@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 C# 创建 MS Excel XLTM 文件 
-url: /zh/net/create-xltm/ 
+
 description: C# 用于生成 XLTM 文档的示例代码。使用此代码在 VB.NET、Asp.NET 或任何基于 .NET 的应用程序中创建 MS Excel XLTM 文件。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertálja a HTML-t DIF-re a(z) C++ alkalmazással 
 weight: 4790
-url: /hu/cpp/conversion/html-to-dif/ 
+
 description: Minta C++ konverziós kód HTML-dokumentumhoz DIF formátumba. A programozók ezt a forráskódot használhatják kötegelt HTML-ből DIF-be konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

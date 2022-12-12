@@ -1,6 +1,6 @@
 ---
 title: Merge ODS to MHTML Files via Python 
-url: /python-java/merger/merge-ods-to-mhtml/ 
+
 description: Merge ODS to MHTML file in Python code. Combine ODS to MHTML file using Python.
 ---
 

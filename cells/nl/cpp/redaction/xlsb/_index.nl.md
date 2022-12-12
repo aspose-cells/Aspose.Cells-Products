@@ -1,7 +1,7 @@
-﻿---
+---
 title: Zoek en vervang tekst in XLSB-document via C++ 
 weight: 6660
-url: /nl/cpp/redaction/xlsb/ 
+
 description: C++ voorbeeldcode om gevoelige informatie in XLSB-bestand op C++ Runtime Environment voor Windows 32 bit, Windows 64 bit en Linux 64 bit te redigeren.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

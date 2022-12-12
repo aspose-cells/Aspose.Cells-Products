@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter XLT para BMP por meio do aplicativo C++ 
-url: /pt/cpp/conversion/xlt-to-bmp/ 
+
 description: Exemplo de código de conversão C++ de documento XLT para formato BMP. Os programadores podem usar esse código-fonte para conversão em lote de XLT para BMP em qualquer aplicativo C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

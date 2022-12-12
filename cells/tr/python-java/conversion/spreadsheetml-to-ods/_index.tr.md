@@ -1,6 +1,6 @@
-﻿---
+---
 title: SPREADSHEETML'yi Python aracılığıyla ODS'ye dönüştürün
-url: /tr/python-java/conversion/spreadsheetml-to-ods/
+
 description: E-tablodan ods'ye Python dönüşümü için örnek kod. Python uygulamasında toplu elektronik tablo ml dosyalarından ods'ye dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

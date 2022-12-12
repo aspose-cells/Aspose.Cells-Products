@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie XLSX in SVG über Python
-url: /de/python-java/conversion/xlsx-to-svg/
+
 description: Beispielcode für die Umwandlung von xlsx in svg Python. Verwenden Sie API Beispielcode für die Batch-Konvertierung von XLSX-Dateien in SVG innerhalb der Anwendung Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

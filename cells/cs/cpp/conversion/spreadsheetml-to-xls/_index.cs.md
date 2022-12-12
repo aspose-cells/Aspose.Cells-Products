@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte SPREADSHEETML na XLS pomocí aplikace C++ 
-url: /cs/cpp/conversion/spreadsheetml-to-xls/ 
+
 description: Ukázkový konverzní kód C++ pro dokument SPREADSHEETML do formátu XLS. Programátoři mohou použít tento zdrojový kód pro dávkový převod SPREADSHEETML na XLS v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

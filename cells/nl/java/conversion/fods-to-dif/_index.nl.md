@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer FODS naar DIF via Java 
-url: /nl/java/conversion/fods-to-dif/ 
+
 description: Voorbeeld Java conversiecode voor FODS-indeling naar DIF-bestand. Programmeurs kunnen deze voorbeeldcode gebruiken om Excel- en OpenOffice-spreadsheets naar DIF te exporteren binnen elke web- of desktoptoepassing Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

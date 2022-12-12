@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to MD via Java 
-url: /java/conversion/csv-to-md/
+
 description: Convert CSV to MD format in Java code. Save CSV as MD using Java.
 ---
 

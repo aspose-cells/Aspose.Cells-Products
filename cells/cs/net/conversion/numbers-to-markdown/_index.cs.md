@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést NUMBERS na MARKDOWN prostřednictvím C#
-url: /cs/net/conversion/numbers-to-markdown/
+
 description: Ukázkový kód pro převod čísel na snížení C#. Použijte API ukázkový kód pro soubory s čísly dávek pro převod markdown v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

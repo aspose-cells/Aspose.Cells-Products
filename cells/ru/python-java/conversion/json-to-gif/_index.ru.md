@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование JSON в GIF через Python
-url: /ru/python-java/conversion/json-to-gif/
+
 description: Пример кода для преобразования json в gif Python. Используйте пример кода API для пакетного преобразования файлов json в gif в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

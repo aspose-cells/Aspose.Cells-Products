@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir SPREADSHEETML en XPS via Java 
-url: /fr/java/conversion/spreadsheetml-to-xps/ 
+
 description: Exemple de code de conversion Java pour le format SPREADSHEETML en fichier XPS. Les programmeurs peuvent utiliser cet exemple de code pour exporter des feuilles de calcul Excel et OpenOffice vers XPS dans n'importe quelle application Web ou de bureau Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

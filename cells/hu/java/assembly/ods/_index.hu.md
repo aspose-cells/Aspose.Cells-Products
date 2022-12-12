@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Jelentések generálása ODS-fájlokban a következőn keresztül: Java "
 weight: 2440
-url: /hu/java/assembly/ods/ 
+
 description: Java mintakód az ODS formátumú jelentések létrehozásához a Java Runtime Environment for JSP/JSF alkalmazásokhoz és asztali alkalmazásokhoz.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést SPREADSHEETML na MARKDOWN prostřednictvím Python
-url: /cs/python-java/conversion/spreadsheetml-to-markdown/
+
 description: Ukázkový kód pro konverzi tabulkyml do markdown Python. Použijte API ukázkový kód pro dávkové soubory tabulkového procesoruml k převodu markdown v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

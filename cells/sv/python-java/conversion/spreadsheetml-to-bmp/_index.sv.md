@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera SPREADSHEETML till BMP via Python
-url: /sv/python-java/conversion/spreadsheetml-to-bmp/
+
 description: Exempelkod för konvertering från kalkylarkml till bmp Python. Använd API exempelkod för batch-kalkylarkml-filer för att bmp-konvertera i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

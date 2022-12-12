@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TSV konvertálása XLAM-re a következőn keresztül: C#"
-url: /hu/net/conversion/tsv-to-xlam/
+
 description: Mintakód a tsv–xlam C# konverzióhoz. Használjon API példakódot kötegelt tsv-fájlokhoz az xlam-konverzióhoz VB.NET-on, Asp-n.NET vagy bármely .NET-alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

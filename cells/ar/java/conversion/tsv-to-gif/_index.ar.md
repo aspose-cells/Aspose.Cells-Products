@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل TSV إلى GIF عبر Java 
 weight: 1600
-url: /ar/java/conversion/tsv-to-gif/ 
+
 description: نموذج رمز تحويل Java لتنسيق TSV إلى ملف GIF. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel و OpenOffice إلى GIF داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

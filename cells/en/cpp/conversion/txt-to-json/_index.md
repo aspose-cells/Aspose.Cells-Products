@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to JSON via C++
-url: /cpp/conversion/txt-to-json/
+
 description: Convert TXT to JSON format in C++ code. Save TXT as JSON using C++.
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: " XLSB dokumentumdiagram képekhez a következőn keresztül: .NET "
 weight: 8560
-url: /hu/net/chart/xlsb/ 
+
 description: C# forráskód a diagramok vagy diagramok XLSB-fájlba való rajzolásához és konvertálásához .NET Framework, .NET Core, Mono vagy Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLSM-et DIF-re a(z) C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/xlsm-to-dif/ 
+
 description: Minta C++ konverziós kód XLSM dokumentumhoz DIF formátumba. A programozók ezt a forráskódot használhatják kötegelt XLSM-DIF-konverzióhoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést MHTML na SXC přes C#
-url: /cs/net/conversion/mhtml-to-sxc/
+
 description: Ukázkový kód pro konverzi mhtml na sxc C#. Použijte API ukázkový kód pro dávkový převod souborů mhtml na sxc v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

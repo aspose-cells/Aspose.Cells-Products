@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte SXC na JSON prostřednictvím aplikace C++ 
-url: /cs/cpp/conversion/sxc-to-json/ 
+
 description: Ukázkový konverzní kód C++ pro dokument SXC na formát JSON. Programátoři mohou použít tento zdrojový kód pro dávkový převod SXC na JSON v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

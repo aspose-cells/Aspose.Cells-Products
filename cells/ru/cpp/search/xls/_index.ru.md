@@ -1,7 +1,7 @@
-﻿---
+---
 title: Поиск документа XLS без открытия через C++ 
 weight: 4560
-url: /ru/cpp/search/xls/ 
+
 description: Пример кода C++ для поиска слов с шаблоном в файле XLS в C++ среде выполнения для 32-разрядной, 64-разрядной Windows и 64-разрядной версии Linux.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

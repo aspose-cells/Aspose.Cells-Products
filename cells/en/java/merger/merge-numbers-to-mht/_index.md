@@ -1,6 +1,6 @@
 ---
 title: Merge NUMBERS to MHT Files via Java 
-url: /java/merger/merge-numbers-to-mht/ 
+
 description: Merge NUMBERS to MHT file in Java code. Combine NUMBERS to MHT file using Java based desktop or web application.
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: تقسيم ملفات ODS عبر .NET 
 weight: 140
-url: /ar/net/splitter/ods/ 
+
 description: C# شفرة المصدر لتقسيم مستندات ODS على الأنظمة الأساسية .NET Framework أو .NET Core أو Mono أو Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

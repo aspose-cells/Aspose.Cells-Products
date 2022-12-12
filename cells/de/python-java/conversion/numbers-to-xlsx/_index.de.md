@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie NUMBERS in XLSX über Python
-url: /de/python-java/conversion/numbers-to-xlsx/
+
 description: Beispielcode für die Umwandlung von Zahlen in xlsx Python. Verwenden Sie den API-Beispielcode für die Konvertierung von Stapelnummerndateien in xlsx innerhalb der Anwendung Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

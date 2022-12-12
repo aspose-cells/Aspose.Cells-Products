@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera XLTM till TSV via appen C++ 
-url: /sv/cpp/conversion/xltm-to-tsv/ 
+
 description: Exempel på C++-konverteringskod för XLTM-dokument till TSV-format. Programmerare kan använda den här källkoden för batchkonvertering av XLTM till TSV inom alla C++-program.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

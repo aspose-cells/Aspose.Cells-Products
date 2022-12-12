@@ -1,6 +1,6 @@
 ---
 title: Merge HTML to HTML Files via Python 
-url: /python-java/merger/merge-html-to-html/ 
+
 description: Merge HTML to HTML file in Python code. Combine HTML to HTML file using Python.
 ---
 

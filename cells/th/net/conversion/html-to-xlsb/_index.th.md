@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง HTML เป็น XLSB ผ่าน C#
-url: /th/net/conversion/html-to-xlsb/
+
 description: โค้ดตัวอย่างสำหรับการแปลง html เป็น xlsb C# ใช้โค้ดตัวอย่าง API สำหรับไฟล์ html แบบกลุ่มเป็นการแปลง xlsb ภายใน VB.NET, Asp.NET หรือแอปพลิเคชันที่ใช้ .NET
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

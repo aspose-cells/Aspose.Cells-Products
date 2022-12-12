@@ -1,7 +1,7 @@
-﻿---
+---
 title: Извлечение текста и изображений из документа XLSB через Java 
 weight: 440
-url: /ru/java/parser/xlsb/ 
+
 description: Пример кода Java для извлечения текста и изображений из файла XLSB в среде выполнения Java для приложений JSP/JSF и настольных приложений.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Crie gráficos de bolhas por meio de Python
-url: /pt/python-java/create-bubble-chart/
+
 description: Python Código de exemplo para criar gráficos de bolhas para Excel usando a biblioteca Python. Use este código para criar um gráfico de bolhas para MS Excel dentro do aplicativo baseado em Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

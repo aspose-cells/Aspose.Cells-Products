@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++ uygulaması aracılığıyla CSV'yi MD'ye dönüştürün 
-url: /tr/cpp/conversion/csv-to-md/ 
+
 description: CSV belgesi için MD biçimine örnek C++ dönüştürme kodu. Programcılar, herhangi bir C++ Uygulamasında toplu CSV'den MD'ye dönüştürme için bu kaynak kodunu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to TIFF via Java 
-url: /java/conversion/json-to-tiff/
+
 description: Convert JSON to TIFF format in Java code. Save JSON as TIFF using Java.
 ---
 

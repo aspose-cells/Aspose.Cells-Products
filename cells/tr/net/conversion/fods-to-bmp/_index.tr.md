@@ -1,6 +1,6 @@
-﻿---
+---
 title: FODS'u C# aracılığıyla BMP'ye dönüştürün
-url: /tr/net/conversion/fods-to-bmp/
+
 description: Yemlerin bmp C# dönüşümü için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu dosya dosyaları için API örnek kodu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

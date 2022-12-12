@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通過 Java 將 XLT 轉換為 XPS 
 weight: 7470
-url: /zh-hant/java/conversion/xlt-to-xps/ 
+
 description: XLT 格式到 XPS 文件的示例 Java 轉換代碼。程序員可以使用此示例代碼將 Excel 和 OpenOffice 電子表格導出到任何基於 Web 或桌面 Java 的應用程序中的 XPS。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

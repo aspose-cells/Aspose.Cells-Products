@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java aracılığıyla XLSB belgesindeki metni arayın ve değiştirin 
 weight: 4590
-url: /tr/java/redaction/xlsb/ 
+
 description: JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Runtime Environment'daki XLSB dosyasındaki hassas bilgileri yeniden düzenlemek için Java örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

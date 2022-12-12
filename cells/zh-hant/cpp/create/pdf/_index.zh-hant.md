@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 C++ 創建 PDF 文件 
-url: /zh-hant/cpp/create-pdf/ 
+
 description: C++ 用於生成 PDF 文件的示例代碼。使用此代碼在基於 C++ 的應用程序中創建 PDF 文件。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

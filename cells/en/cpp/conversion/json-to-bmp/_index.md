@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to BMP via C++
-url: /cpp/conversion/json-to-bmp/
+
 description: Convert JSON to BMP format in C++ code. Save JSON as BMP using C++.
 ---
 

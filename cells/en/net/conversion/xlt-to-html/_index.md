@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to HTML via C#
-url: /net/conversion/xlt-to-html/
+
 description: Convert XLT to HTML format in C# code. Save XLT as HTML using VB.NET, Asp.NET or any .NET based application.
 ---
 

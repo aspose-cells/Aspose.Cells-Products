@@ -1,7 +1,7 @@
-﻿---
+---
 title: TSV-bestanden samenvoegen via Java 
 weight: 9260
-url: /nl/java/merger/tsv/ 
+
 description: Java voorbeeldcode om TSV-documenten te combineren in Java Runtime Environment voor JSP/JSF-applicaties en desktopapplicaties.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

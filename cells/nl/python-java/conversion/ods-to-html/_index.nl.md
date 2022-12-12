@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer ODS naar HTML via Python
-url: /nl/python-java/conversion/ods-to-html/
+
 description: Voorbeeldcode voor conversie van ods naar html Python. Gebruik API voorbeeldcode voor batch-ods-bestanden naar html-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

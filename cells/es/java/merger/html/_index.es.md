@@ -1,7 +1,7 @@
-﻿---
+---
 title: Combinar archivos HTML a través de Java 
 weight: 8830
-url: /es/java/merger/html/ 
+
 description: Java código de muestra para combinar documentos HTML en Java entorno de tiempo de ejecución para aplicaciones JSP/JSF y aplicaciones de escritorio.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

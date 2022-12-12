@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง JSON เป็น CSV ผ่าน Python
-url: /th/python-java/conversion/json-to-csv/
+
 description: โค้ดตัวอย่างสำหรับการแปลง json เป็น csv Python ใช้โค้ดตัวอย่าง API สำหรับไฟล์แบตช์ json เป็นการแปลง csv ภายในแอปพลิเคชัน Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

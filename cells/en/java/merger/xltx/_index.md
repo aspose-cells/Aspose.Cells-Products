@@ -1,7 +1,7 @@
 ---
 title: Merge XLTX Files via Java 
 weight: 680
-url: /java/merger/xltx/ 
+
 description: Java sample code to combine XLTX documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

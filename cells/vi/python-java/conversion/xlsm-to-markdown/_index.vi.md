@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi XLSM thành MARKDOWN qua Python
-url: /vi/python-java/conversion/xlsm-to-markdown/
+
 description: Mã mẫu cho chuyển đổi xlsm sang đánh dấu Python. Sử dụng API mã mẫu cho hàng loạt tệp xlsm để đánh dấu chuyển đổi trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

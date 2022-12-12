@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование CSV в BMP через C#
-url: /ru/net/conversion/csv-to-bmp/
+
 description: Пример кода для преобразования csv в bmp C#. Используйте пример кода API для пакетного преобразования CSV-файлов в bmp в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

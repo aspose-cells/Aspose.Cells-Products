@@ -1,6 +1,6 @@
-﻿---
+---
 title: XLT को PDF में C# के माध्यम से कनवर्ट करें
-url: /hi/net/conversion/xlt-to-pdf/
+
 description: xlt से pdf C# रूपांतरण के लिए नमूना कोड। VB.NET, Asp.NET या किसी भी .NET आधारित एप्लिकेशन के भीतर बैच xlt फ़ाइलों के पीडीएफ रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Αναζήτηση εγγράφου XLSB χωρίς άνοιγμα μέσω C++ 
 weight: 7020
-url: /el/cpp/search/xlsb/ 
+
 description: C++ παράδειγμα κώδικα για αναζήτηση λέξεων με μοτίβο σε αρχείο XLSB σε C++ Runtime Environment για Windows 32 bit, Windows 64 bit και Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

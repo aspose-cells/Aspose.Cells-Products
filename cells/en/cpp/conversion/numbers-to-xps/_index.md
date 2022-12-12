@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to XPS via C++
-url: /cpp/conversion/numbers-to-xps/
+
 description: Convert NUMBERS to XPS format in C++ code. Save NUMBERS as XPS using C++.
 ---
 

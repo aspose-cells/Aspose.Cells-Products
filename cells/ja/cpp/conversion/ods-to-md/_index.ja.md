@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++アプリケーションを介してODSをMDに変換する 
-url: /ja/cpp/conversion/ods-to-md/ 
+
 description: ODSドキュメントからMD形式へのサンプルC++変換コード。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でODSからMDへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

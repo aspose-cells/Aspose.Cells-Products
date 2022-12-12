@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Hozzon létre MS Excel XLSX fájlokat a következőn keresztül: C++ "
-url: /hu/cpp/create-xlsx/ 
+
 description: C++ Mintakód MS Excel XLSX fájlok generálásához. Ezzel a kóddal MS Excel XLSX fájlokat hozhat létre C++ alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

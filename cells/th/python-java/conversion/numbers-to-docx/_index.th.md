@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง NUMBERS เป็น DOCX ผ่าน Python
-url: /th/python-java/conversion/numbers-to-docx/
+
 description: โค้ดตัวอย่างสำหรับการแปลงตัวเลขเป็น docx Python ใช้โค้ดตัวอย่าง API สำหรับไฟล์หมายเลขแบทช์เป็นการแปลง docx ภายในแอปพลิเคชัน Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

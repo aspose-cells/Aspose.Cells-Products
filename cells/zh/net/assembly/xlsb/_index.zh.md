@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通过 .NET 在 XLSB 文件中生成报告 
 weight: 1690
-url: /zh/net/assembly/xlsb/ 
+
 description: C# 用于在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上生成 XLSB 格式报告的源代码。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

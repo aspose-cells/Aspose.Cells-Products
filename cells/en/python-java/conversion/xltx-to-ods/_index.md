@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to ODS via Python
-url: /python-java/conversion/xltx-to-ods/
+
 description: Convert XLTX to ODS format in Python code. Save XLTX as ODS using Python.
 ---
 

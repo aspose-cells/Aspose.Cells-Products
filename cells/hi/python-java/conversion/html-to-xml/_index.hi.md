@@ -1,6 +1,6 @@
-﻿---
+---
 title: HTML को XML में Python के माध्यम से कनवर्ट करें
-url: /hi/python-java/conversion/html-to-xml/
+
 description: एचटीएमएल से एक्सएमएल Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर बैच HTML फ़ाइलों से xml रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

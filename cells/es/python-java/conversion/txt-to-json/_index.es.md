@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta TXT a JSON a través de Python
-url: /es/python-java/conversion/txt-to-json/
+
 description: Código de muestra para la conversión de txt a json Python. Use el código de ejemplo API para la conversión de archivos txt por lotes a json dentro de la aplicación Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

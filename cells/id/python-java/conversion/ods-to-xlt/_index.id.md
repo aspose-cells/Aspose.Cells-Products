@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan ODS ke XLT melalui Python
-url: /id/python-java/conversion/ods-to-xlt/
+
 description: Contoh kode untuk konversi ods ke xlt Python. Gunakan API kode contoh untuk file batch ods ke konversi xlt dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

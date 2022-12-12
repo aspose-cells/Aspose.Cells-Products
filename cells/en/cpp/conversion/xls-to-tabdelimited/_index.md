@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to TABDELIMITED via C++
-url: /cpp/conversion/xls-to-tabdelimited/
+
 description: Convert XLS to TABDELIMITED format in C++ code. Save XLS as TABDELIMITED using C++.
 ---
 

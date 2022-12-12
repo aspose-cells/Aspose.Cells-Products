@@ -1,6 +1,6 @@
-﻿---
+---
 title: "CSV konvertálása XLT-vé a következőn keresztül: Python"
-url: /hu/python-java/conversion/csv-to-xlt/
+
 description: Mintakód a csv–xlt Python konverzióhoz. Használjon API példakódot a kötegelt csv fájlok xlt konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NETを介してODSファイルのメタデータを表示または編集する 
 weight: 320
-url: /ja/net/metadata/ods/ 
+
 description: .NETフレームワーク、.NETコア、Mono、またはXamarinプラットフォームでODS形式のメタデータを編集または表示するためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

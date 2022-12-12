@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to HTML via Python
-url: /python-net/conversion/xlsb-to-html/
+
 description: Sample code for xlsb to html Python conversion. Use API example code for batch xlsb files to html conversion within Python application.
 ---
 

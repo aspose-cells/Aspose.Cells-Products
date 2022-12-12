@@ -1,6 +1,6 @@
-﻿---
+---
 title: Wandeln Sie SPREADSHEETML über Python in BMP um
-url: /de/python-java/conversion/spreadsheetml-to-bmp/
+
 description: Beispielcode für die Umwandlung von Spreadsheetml in bmp Python. Verwenden Sie API Beispielcode für die Batch-Konvertierung von Spreadsheetml-Dateien in BMP innerhalb der Anwendung Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to XLT via Python
-url: /python-net/conversion/xls-to-xlt/
+
 description: Sample code for xls to xlt Python conversion. Use API example code for batch xls files to xlt conversion within Python application.
 ---
 

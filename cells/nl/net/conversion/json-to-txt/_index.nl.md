@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer JSON naar TXT via C#
-url: /nl/net/conversion/json-to-txt/
+
 description: Voorbeeldcode voor conversie van json naar txt C#. Gebruik API voorbeeldcode voor batch json-bestanden naar txt-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

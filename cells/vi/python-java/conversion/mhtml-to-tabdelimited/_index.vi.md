@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển MHTML thành TABDELIMITED qua Python
-url: /vi/python-java/conversion/mhtml-to-tabdelimited/
+
 description: Mã mẫu cho chuyển đổi mhtml thành Python tabdelimited. Sử dụng API mã mẫu cho hàng loạt tệp mhtml để chuyển đổi được giới hạn bằng tab trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

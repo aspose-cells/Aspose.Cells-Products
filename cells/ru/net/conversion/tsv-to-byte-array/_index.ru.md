@@ -1,7 +1,7 @@
-﻿---
+---
 title: Преобразование TSV в байтовый массив с помощью C# 
 weight: 7690
-url: /ru/net/conversion/tsv-to-byte-array/ 
+
 description: C# Пример кода для преобразования TSV в байтовый массив. Используйте этот код для преобразования Excel TSV в массив байтов в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: XLSX को C# के माध्यम से MD में बदलें
-url: /hi/net/conversion/xlsx-to-md/
+
 description: xlsx से md C# रूपांतरण के लिए नमूना कोड। VB.NET, Asp.NET या किसी .NET आधारित एप्लिकेशन के भीतर बैच xlsx फ़ाइलों से md रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

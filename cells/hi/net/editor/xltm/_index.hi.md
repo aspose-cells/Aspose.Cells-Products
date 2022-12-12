@@ -1,6 +1,6 @@
-﻿---
+---
 title: .NET के द्वारा XLTM फ़ाइलें संपादित करें 
-url: /hi/net/editor/xltm/ 
+
 description: .NET Framework, .NET Core, Windows Azure, Mono या Xamarin Platforms पर XLTM दस्तावेज़ को संपादित करने के लिए C# स्रोत कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Δημιουργία αρχείων CSV μέσω Python 
-url: /el/python-java/create-csv/ 
+
 description: Python Δείγμα κώδικα για τη δημιουργία εγγράφων CSV. Χρησιμοποιήστε αυτόν τον κώδικα για τη δημιουργία αρχείων CSV εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

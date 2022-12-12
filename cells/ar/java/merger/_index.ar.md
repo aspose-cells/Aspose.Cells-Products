@@ -1,6 +1,6 @@
-﻿---
+---
 title: دمج ملفات Excel المختلفة في ملف واحد في Java
-url: /ar/java/merger/
+
 description: دمج ملفات Excel باستخدام Java في أوراق متعددة أو ورقة واحدة. قم بدمج مستندات Excel أو دمجها أو دمجها في ملفات PDF والصور و HTML أيضًا.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

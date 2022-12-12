@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TABDELIMITED إلى MARKDOWN عبر C#
-url: /ar/net/conversion/tabdelimited-to-markdown/
+
 description: نموذج شفرة للتحويل المحدّد بعلامات جدولة حتى التخفيض C#. استخدم API مثال الكود للملفات المحددة بعلامات جدولة مجمعة لتحديد تحويل العلامات داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

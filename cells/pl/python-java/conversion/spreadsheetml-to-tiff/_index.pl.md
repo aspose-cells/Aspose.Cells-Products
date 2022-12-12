@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj SPREADSHEETML na TIFF przez Python
-url: /pl/python-java/conversion/spreadsheetml-to-tiff/
+
 description: Przykładowy kod konwersji arkusz kalkulacyjnyml na tiff Python. Użyj przykładowego kodu API dla wsadowych plików arkusza kalkulacyjnego w celu konwersji tiff w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

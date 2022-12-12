@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést HTML na JPG prostřednictvím C#
-url: /cs/net/conversion/html-to-jpg/
+
 description: Ukázkový kód pro konverzi html na jpg C#. Použijte API ukázkový kód pro dávkový převod html souborů na jpg v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

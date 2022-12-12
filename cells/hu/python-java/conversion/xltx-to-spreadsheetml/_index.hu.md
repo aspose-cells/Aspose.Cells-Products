@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Az XLTX konvertálása SPREADSHEETML-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/xltx-to-spreadsheetml/
+
 description: Mintakód az xltx-ből táblázattáblázatba Python konverzióhoz. Használjon API példakódot kötegelt xltx fájlokhoz a Python alkalmazáson belüli táblázatkezelő konverzióhoz.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

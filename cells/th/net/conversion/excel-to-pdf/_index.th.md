@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง EXCEL เป็น PDF ผ่าน C#
-url: /th/net/conversion/excel-to-pdf/
+
 description: โค้ดตัวอย่างสำหรับการแปลง excel เป็น pdf C# ใช้ API โค้ดตัวอย่างสำหรับไฟล์ excel แบบแบตช์เป็นการแปลง pdf ภายใน VB.NET, Asp.NET หรือแอปพลิเคชันที่ใช้ .NET ใดๆ
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

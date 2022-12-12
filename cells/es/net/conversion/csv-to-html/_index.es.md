@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierte CSV a HTML a través de C#
-url: /es/net/conversion/csv-to-html/
+
 description: Ejemplo de código para la conversión de csv a html C#. Utilice el código de ejemplo API para la conversión de archivos csv por lotes a html dentro de VB.NET, Asp.NET o cualquier aplicación basada en .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan ODS ke PDF melalui C#
-url: /id/net/conversion/ods-to-pdf/
+
 description: Contoh kode untuk ods ke pdf C# konversi. Gunakan API kode contoh untuk file batch ods ke konversi pdf dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

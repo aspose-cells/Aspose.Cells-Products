@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง XLTX เป็น XLAM ผ่าน Java 
-url: /th/java/conversion/xltx-to-xlam/ 
+
 description: ตัวอย่างโค้ดการแปลง Java สำหรับรูปแบบ XLTX เป็นไฟล์ XLAM โปรแกรมเมอร์สามารถใช้โค้ดตัวอย่างนี้เพื่อส่งออกสเปรดชีต Excel & OpenOffice ไปยัง XLAM ภายในแอปพลิเคชันบนเว็บหรือเดสก์ท็อป Java
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

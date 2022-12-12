@@ -1,6 +1,6 @@
-﻿---
+---
 title: "JSON konvertálása EMF-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/json-to-emf/
+
 description: Mintakód a json–emf Python konverzióhoz. Használjon API példakódot kötegelt json-fájlokhoz az EMF-konverzióhoz a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Bewerk MHTML-bestanden via .NET 
-url: /nl/net/editor/mhtml/ 
+
 description: C# broncode om het MHTML-document te bewerken op .NET Framework, .NET Core, Windows Azure, Mono of Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

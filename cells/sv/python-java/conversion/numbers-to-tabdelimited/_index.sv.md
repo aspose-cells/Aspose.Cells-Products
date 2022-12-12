@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera NUMBERS till TABDELIMITED via Python
-url: /sv/python-java/conversion/numbers-to-tabdelimited/
+
 description: Exempelkod för siffror till tabbavgränsad Python-omvandling. Använd API exempelkod för batchnummerfiler till tabbavgränsad konvertering inom Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

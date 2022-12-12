@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLSX को XLTM में C++ एप्लिकेशन के माध्यम से कनवर्ट करें 
 weight: 7840
-url: /hi/cpp/conversion/xlsx-to-xltm/ 
+
 description: नमूना C++ XLSX दस्तावेज़ के लिए XLTM प्रारूप में रूपांतरण कोड। प्रोग्रामर इस स्रोत कोड का उपयोग किसी भी C++ एप्लिकेशन में बैच XLSX से XLTM रूपांतरण के लिए कर सकते हैं।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

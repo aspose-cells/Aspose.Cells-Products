@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل CSV إلى TABDELIMITED عبر C#
-url: /ar/net/conversion/csv-to-tabdelimited/
+
 description: نموذج رمز لتحويل csv إلى C# محدد بعلامات جدولة. استخدم API رمز المثال لملفات CSV المجمعة لتحويل محدد بعلامات جدولة داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

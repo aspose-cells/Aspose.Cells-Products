@@ -1,7 +1,7 @@
-﻿---
+---
 title: Электронная таблица Android Excel API–Aspose 
 weight: 6510
-url: /ru/android-java/ 
+
 description: Библиотека электронных таблиц Android для создания файлов Excel для чтения, записи и анализа. Электронная таблица API для разработки мобильных приложений
 ---
 {{< blocks/products/pf/main-wrap-class >}}

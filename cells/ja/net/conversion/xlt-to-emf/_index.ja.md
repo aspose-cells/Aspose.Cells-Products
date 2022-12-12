@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してXLTをEMFに変換します
-url: /ja/net/conversion/xlt-to-emf/
+
 description: xltからemfC#への変換のサンプルコード。バッチxltファイルのAPIサンプルコードを使用して、VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内で変換をemfします。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

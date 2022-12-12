@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to XLSM via Python
-url: /python-net/conversion/numbers-to-xlsm/
+
 description: Sample code for numbers to xlsm Python conversion. Use API example code for batch numbers files to xlsm conversion within Python application.
 ---
 

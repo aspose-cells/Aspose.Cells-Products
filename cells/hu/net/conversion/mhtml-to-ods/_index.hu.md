@@ -1,6 +1,6 @@
-﻿---
+---
 title: "MHTML konvertálása ODS-vé a következőn keresztül: C#"
-url: /hu/net/conversion/mhtml-to-ods/
+
 description: Mintakód az mhtml-ből ods C# konverzióhoz. Használjon API példakódot az mhtml fájlok kötegelt ods konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Merge XLS to MHTML Files via C# 
-url: /net/merger/merge-xls-to-mhtml/ 
+
 description: Merge XLS to MHTML file in C# code. Combine XLS to MHTML file using VB.NET, Asp.NET or any .NET based application.
 ---
 

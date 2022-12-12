@@ -1,6 +1,6 @@
-﻿---
+---
 title: Vytvářejte soubory MS Excel XLSM prostřednictvím Python 
-url: /cs/python-java/create-xlsm/ 
+
 description: Python Ukázkový kód pro generování dokumentů XLSM. Tento kód použijte pro vytváření souborů MS Excel XLSM v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Sloučit soubory HTML prostřednictvím .NET 
 weight: 9440
-url: /cs/net/merger/html/ 
+
 description: Zdrojový kód C# pro kombinaci dokumentů HTML na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

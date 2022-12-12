@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to EMF via Java 
-url: /java/conversion/xltx-to-emf/
+
 description: Convert XLTX to EMF format in Java code. Save XLTX as EMF using Java.
 ---
 

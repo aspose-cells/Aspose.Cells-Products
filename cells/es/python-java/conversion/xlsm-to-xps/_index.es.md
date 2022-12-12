@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta XLSM a XPS a través de Python
-url: /es/python-java/conversion/xlsm-to-xps/
+
 description: Código de muestra para la conversión de xlsm a xps Python. Use el código de ejemplo API para la conversión de archivos xlsm por lotes a xps dentro de la aplicación Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

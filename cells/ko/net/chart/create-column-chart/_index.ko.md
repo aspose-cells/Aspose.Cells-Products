@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#을(를) 통해 세로 막대형 차트 만들기
-url: /ko/net/create-column-chart/
+
 description: C# .NET 라이브러리를 사용하여 Excel에 세로 막대형 차트를 만들기 위한 샘플 코드. 이 코드를 사용하여 VB.NET, Asp.NET 또는 모든 .NET 기반 응용 프로그램 내에서 MS Excel에 대한 세로 막대형 차트를 생성합니다.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj TABDELIMITED na JPEG przez Java 
-url: /pl/java/conversion/tabdelimited-to-jpeg/ 
+
 description: Przykładowy kod konwersji Java dla formatu TABDELIMITED do pliku JPEG. Programiści mogą użyć tego przykładowego kodu do eksportowania arkuszy kalkulacyjnych Excel i OpenOffice do formatu JPEG w dowolnej aplikacji internetowej lub desktopowej Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

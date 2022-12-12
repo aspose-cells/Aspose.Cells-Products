@@ -1,6 +1,6 @@
 ---
 title: Convert TSV to GIF via Java 
-url: /java/conversion/tsv-to-gif/
+
 description: Convert TSV to GIF format in Java code. Save TSV as GIF using Java.
 ---
 

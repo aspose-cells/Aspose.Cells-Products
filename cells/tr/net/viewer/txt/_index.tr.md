@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET üzerinden TXT Dosya Biçimlerini görüntüleyin 
 weight: 8300
-url: /tr/net/viewer/txt/ 
+
 description: .NET Framework, .NET Core, Mono veya Xamarin Platformlarında TXT belgelerini yüklemek, oluşturmak ve görüntülemek için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل CSV إلى XLT عبر تطبيق C++ 
-url: /ar/cpp/conversion/csv-to-xlt/ 
+
 description: نموذج C++ رمز التحويل لمستند CSV إلى تنسيق XLT. يمكن للمبرمجين استخدام هذا الكود المصدري لتحويل CSV إلى XLT في أي C++ تطبيق.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

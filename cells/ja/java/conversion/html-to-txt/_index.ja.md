@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してHTMLをTXTに変換します 
 weight: 2590
-url: /ja/java/conversion/html-to-txt/ 
+
 description: HTML形式からTXTファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のTXTにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

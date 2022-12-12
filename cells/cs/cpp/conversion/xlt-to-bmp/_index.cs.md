@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte XLT na BMP pomocí aplikace C++ 
-url: /cs/cpp/conversion/xlt-to-bmp/ 
+
 description: Ukázka převodního kódu C++ pro dokument XLT do formátu BMP. Programátoři mohou použít tento zdrojový kód pro dávkovou konverzi XLT na BMP v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: ODS Dosyalarını Java ile Birleştir 
 weight: 6270
-url: /tr/java/merger/ods/ 
+
 description: ODS belgelerini Java JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Çalışma Zamanı Ortamı'nda birleştirmek için Java örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

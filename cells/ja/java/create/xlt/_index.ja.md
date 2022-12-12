@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してMSExcelXLTファイルを作成する 
-url: /ja/java/create-xlt/ 
+
 description: JavaXLTドキュメントを生成するためのサンプルコード。このコードを使用して、JavaベースのデスクトップまたはWebアプリケーション内にMSExcelXLTファイルを作成します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

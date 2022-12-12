@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konwertuj XLSB na tablicę bajtów za pomocą C# 
 weight: 7690
-url: /pl/net/conversion/xlsb-to-byte-array/ 
+
 description: C# Przykładowy kod konwersji XLSB na tablicę bajtów. Użyj tego kodu do konwersji Excel XLSB na Byte Array w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

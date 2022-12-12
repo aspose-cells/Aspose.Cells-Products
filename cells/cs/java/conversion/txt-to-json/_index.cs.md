@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést TXT na JSON přes Java 
 weight: 6380
-url: /cs/java/conversion/txt-to-json/ 
+
 description: Ukázkový konverzní kód Java pro formát TXT na soubor JSON. Programátoři mohou tento příklad kódu použít k exportu tabulek Excelu a OpenOffice do formátu JSON v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

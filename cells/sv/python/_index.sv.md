@@ -1,7 +1,7 @@
-﻿---
+---
 title: Python Excel-kalkylblad API - Aspose 
 weight: 2820
-url: /sv/python/ 
+
 description: Python kalkylarksbibliotek för att skapa läs-skriv- och tolka Excel-filer.
 ---
 {{< blocks/products/pf/main-wrap-class >}}

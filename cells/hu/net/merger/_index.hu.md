@@ -1,6 +1,6 @@
-﻿---
+---
 title: Excel-fájl egyesítése API .NET C#
-url: /hu/net/merger/
+
 description: Összefűzhet Excel és OpenOffice táblázatfájlokat néhány sornyi C# kóddal.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

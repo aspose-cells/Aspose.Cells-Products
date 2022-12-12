@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla TXT'yi HTML'ye dönüştürün
-url: /tr/net/conversion/txt-to-html/
+
 description: txt'den html'ye C# dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu txt dosyalarını html'ye dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

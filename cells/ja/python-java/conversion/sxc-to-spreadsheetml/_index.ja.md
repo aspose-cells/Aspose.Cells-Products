@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してSXCをSPREADSHEETMLに変換します
-url: /ja/python-java/conversion/sxc-to-spreadsheetml/
+
 description: sxcからspreadplacemlPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチsxcファイルからspreadsheetmlへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

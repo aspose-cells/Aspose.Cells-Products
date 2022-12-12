@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してXLTXをHTMLに変換します
-url: /ja/net/conversion/xltx-to-html/
+
 description: xltxからhtmlC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチxltxファイルからhtmlへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

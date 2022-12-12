@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή XLTX σε XLSB μέσω Python
-url: /el/python-java/conversion/xltx-to-xlsb/
+
 description: Δείγμα κώδικα για μετατροπή xltx σε xlsb Python. Χρησιμοποιήστε API παράδειγμα κώδικα για μαζική μετατροπή αρχείων xltx σε xlsb εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

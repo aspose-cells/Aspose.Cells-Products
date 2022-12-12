@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή TXT σε XLSX μέσω C#
-url: /el/net/conversion/txt-to-xlsx/
+
 description: Δείγμα κώδικα για μετατροπή txt σε xlsx C#. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδική μετατροπή αρχείων txt σε xlsx εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

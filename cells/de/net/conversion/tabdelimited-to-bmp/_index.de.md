@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie TABDELIMITED in BMP über C#
-url: /de/net/conversion/tabdelimited-to-bmp/
+
 description: Beispielcode für die Umwandlung von tabulatorgetrennt in bmp C#. Verwenden Sie API Beispielcode für die Batch-Konvertierung tabulatorgetrennter Dateien in bmp innerhalb von VB.NET, Asp.NET oder einer beliebigen .NET-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

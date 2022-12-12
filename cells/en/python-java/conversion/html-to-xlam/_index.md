@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to XLAM via Python
-url: /python-java/conversion/html-to-xlam/
+
 description: Convert HTML to XLAM format in Python code. Save HTML as XLAM using Python.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést ODS na MD přes Python
-url: /cs/python-java/conversion/ods-to-md/
+
 description: Ukázkový kód pro převod z ods na md Python. Použijte API ukázkový kód pro dávkový převod souborů ods na md v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

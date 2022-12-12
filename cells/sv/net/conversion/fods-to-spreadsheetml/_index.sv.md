@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera FODS till SPREADSHEETML via C#
-url: /sv/net/conversion/fods-to-spreadsheetml/
+
 description: Exempelkod för fods till kalkylbladml C#-konvertering. Använd API exempelkod för batch fods-filer till kalkylarkml-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

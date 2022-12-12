@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to SPREADSHEETML via Python
-url: /python-java/conversion/xltx-to-spreadsheetml/
+
 description: Convert XLTX to SPREADSHEETML format in Python code. Save XLTX as SPREADSHEETML using Python.
 ---
 

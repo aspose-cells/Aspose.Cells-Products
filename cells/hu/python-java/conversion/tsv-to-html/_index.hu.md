@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TSV konvertálása HTML-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/tsv-to-html/
+
 description: Mintakód a tsv-ből html-vé Python konverzióhoz. Használjon API példakódot a tsv fájlok kötegelt html konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

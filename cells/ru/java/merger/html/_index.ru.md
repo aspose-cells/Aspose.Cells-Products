@@ -1,7 +1,7 @@
-﻿---
+---
 title: Объединить файлы HTML через Java 
 weight: 8830
-url: /ru/java/merger/html/ 
+
 description: Пример кода Java для объединения HTML-документов в Java среде выполнения для приложений JSP/JSF и настольных приложений.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

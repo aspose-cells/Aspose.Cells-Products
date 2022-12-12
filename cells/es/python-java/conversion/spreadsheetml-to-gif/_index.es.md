@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta SPREADSHEETML a GIF a través de Python
-url: /es/python-java/conversion/spreadsheetml-to-gif/
+
 description: Ejemplo de código para la conversión de hoja de cálculo a gif Python. Use el código de ejemplo API para archivos de hoja de cálculo por lotes para la conversión de gif dentro de la aplicación Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

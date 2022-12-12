@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java経由のXLSMドキュメントチャート 
 weight: 3020
-url: /ja/java/chart/xlsm/ 
+
 description: JSP/JSFアプリケーションおよびデスクトップアプリケーションのJavaランタイム環境でXLSMファイルにチャートまたは図を描画および変換するためのJavaサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

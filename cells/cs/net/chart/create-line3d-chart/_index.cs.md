@@ -1,6 +1,6 @@
-﻿---
+---
 title: Vytvářejte 3D spojnicové grafy prostřednictvím C#
-url: /cs/net/create-line3d-chart/
+
 description: C# Ukázkový kód pro vytváření 3D spojnicových grafů do aplikace Excel pomocí knihovny .NET. Tento kód použijte k vytvoření 3D spojnicového grafu do MS Excel v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

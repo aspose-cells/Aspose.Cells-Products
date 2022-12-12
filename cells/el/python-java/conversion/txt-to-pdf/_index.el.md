@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή TXT σε PDF μέσω Python
-url: /el/python-java/conversion/txt-to-pdf/
+
 description: Δείγμα κώδικα για μετατροπή Python txt σε pdf. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδική μετατροπή αρχείων txt σε pdf εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

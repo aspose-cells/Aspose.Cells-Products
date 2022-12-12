@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera NUMBERS till PNG via C#
-url: /sv/net/conversion/numbers-to-png/
+
 description: Exempelkod för siffror till png C#-konvertering. Använd API exempelkod för batchnummerfiler till png-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: MHTML konvertálása XPS-re a(z) C++ alkalmazáson keresztül 
 weight: 7930
-url: /hu/cpp/conversion/mhtml-to-xps/ 
+
 description: Minta C++ konverziós kód MHTML dokumentumhoz XPS formátumba. A programozók ezt a forráskódot használhatják az MHTML-ből XPS-be kötegelt konvertáláshoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

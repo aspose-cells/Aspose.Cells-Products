@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera HTML till DOCX via C#
-url: /sv/net/conversion/html-to-docx/
+
 description: Exempelkod för html till docx C#-konvertering. Använd API exempelkod för batch-html-filer till docx-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

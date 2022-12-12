@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLT na DOCX přes C#
-url: /cs/net/conversion/xlt-to-docx/
+
 description: Ukázkový kód pro převod xlt na docx C#. Použijte API ukázkový kód pro dávkový převod souborů xlt na docx v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

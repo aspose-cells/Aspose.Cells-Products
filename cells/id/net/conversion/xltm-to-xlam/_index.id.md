@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan XLTM ke XLAM melalui C#
-url: /id/net/conversion/xltm-to-xlam/
+
 description: Contoh kode untuk konversi xltm ke xlam C#. Gunakan API kode contoh untuk file batch xltm ke konversi xlam dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

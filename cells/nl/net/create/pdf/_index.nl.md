@@ -1,6 +1,6 @@
-﻿---
+---
 title: PDF-bestanden maken via C# 
-url: /nl/net/create-pdf/ 
+
 description: C# Voorbeeldcode voor het genereren van PDF-documenten. Gebruik deze code om PDF-bestanden te maken binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

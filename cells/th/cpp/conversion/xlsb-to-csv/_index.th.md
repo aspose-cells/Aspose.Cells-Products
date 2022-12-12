@@ -1,7 +1,7 @@
-﻿---
+---
 title: แปลง XLSB เป็น CSV ผ่าน C++ แอปพลิเคชัน 
 weight: 6060
-url: /th/cpp/conversion/xlsb-to-csv/ 
+
 description: ตัวอย่างรหัสการแปลง C++ สำหรับเอกสาร XLSB เป็นรูปแบบ CSV โปรแกรมเมอร์สามารถใช้ซอร์สโค้ดนี้สำหรับการแปลง XLSB เป็น CSV เป็นกลุ่มภายในแอปพลิเคชัน C++ ใดๆ
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

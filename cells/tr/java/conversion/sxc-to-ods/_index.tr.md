@@ -1,6 +1,6 @@
-﻿---
+---
 title: Java aracılığıyla SXC'yi ODS'ye dönüştürün 
-url: /tr/java/conversion/sxc-to-ods/ 
+
 description: SXC formatı için ODS dosyasına örnek Java dönüştürme kodu. Programcılar, Excel ve OpenOffice elektronik tablolarını herhangi bir Web veya Masaüstü Java tabanlı Uygulamada ODS'ye aktarmak için bu örnek kodu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

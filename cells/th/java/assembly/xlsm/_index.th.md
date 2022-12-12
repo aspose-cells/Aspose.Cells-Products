@@ -1,7 +1,7 @@
-﻿---
+---
 title: สร้างรายงานในไฟล์ XLSM ผ่าน Java 
 weight: 270
-url: /th/java/assembly/xlsm/ 
+
 description: Java ตัวอย่างโค้ดเพื่อสร้างรายงานรูปแบบ XLSM บน Java Runtime Environment สำหรับแอปพลิเคชัน JSP/JSF และแอปพลิเคชันเดสก์ท็อป
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

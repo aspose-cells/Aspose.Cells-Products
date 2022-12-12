@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést HTML na GIF pomocí Python
-url: /cs/python-java/conversion/html-to-gif/
+
 description: Ukázkový kód pro konverzi html na gif Python. Použijte API ukázkový kód pro dávkový převod html souborů na gif v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

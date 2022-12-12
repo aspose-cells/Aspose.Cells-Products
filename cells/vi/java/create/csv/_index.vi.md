@@ -1,6 +1,6 @@
-﻿---
+---
 title: Tạo Tệp CSV qua Java 
-url: /vi/java/create-csv/ 
+
 description: Java Mã mẫu để tạo tài liệu CSV. Sử dụng mã này để tạo tệp CSV trong ứng dụng web hoặc máy tính để bàn dựa trên Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

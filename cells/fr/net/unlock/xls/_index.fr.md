@@ -1,7 +1,7 @@
-﻿---
+---
 title: Déverrouiller le document XLS via .NET 
 weight: 4260
-url: /fr/net/unlock/xls/ 
+
 description: Code source C# pour déverrouiller le fichier XLS protégé par mot de passe sur .NET Framework, .NET Core, Mono ou Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

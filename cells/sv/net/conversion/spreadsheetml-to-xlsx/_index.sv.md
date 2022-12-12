@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera SPREADSHEETML till XLSX via C#
-url: /sv/net/conversion/spreadsheetml-to-xlsx/
+
 description: Exempelkod för konvertering från kalkylarkml till xlsx C#. Använd API-exempelkod för batch-kalkylarkml-filer till xlsx-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

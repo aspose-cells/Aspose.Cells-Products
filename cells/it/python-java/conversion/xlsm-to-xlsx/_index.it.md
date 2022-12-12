@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converti XLSM in XLSX tramite Python
-url: /it/python-java/conversion/xlsm-to-xlsx/
+
 description: Codice di esempio per la conversione da xlsm a xlsx Python. Usa API codice di esempio per la conversione batch di file xlsm in xlsx all'interno dell'applicazione Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

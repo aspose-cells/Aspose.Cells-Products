@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحرير أو عرض البيانات الوصفية لملفات XLSM عبر Java 
 weight: 9030
-url: /ar/java/metadata/xlsm/ 
+
 description: Java نموذج رمز لتعديل أو عرض البيانات الوصفية بتنسيق XLSM في Java Runtime Environment لتطبيق JSP / JSF وتطبيقات سطح المكتب.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést NUMBERS do PDF přes C#
-url: /cs/net/conversion/numbers-to-pdf/
+
 description: Ukázkový kód pro převod čísel do formátu pdf C#. Použijte API ukázkový kód pro dávkové soubory s čísly na převod PDF v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

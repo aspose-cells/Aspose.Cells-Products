@@ -1,6 +1,6 @@
-﻿---
+---
 title: MHTML konvertálása TABDELIMITED-re a(z) C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/mhtml-to-tabdelimited/ 
+
 description: Minta C++ konverziós kód MHTML dokumentumhoz TABDELIMITED formátumba. A programozók ezt a forráskódot használhatják kötegelt MHTML-ből TABDELIMITED konvertáláshoz bármely C++ alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

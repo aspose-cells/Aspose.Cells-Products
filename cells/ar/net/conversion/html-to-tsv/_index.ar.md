@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل HTML إلى TSV عبر C#
-url: /ar/net/conversion/html-to-tsv/
+
 description: نموذج كود لتحويل html إلى tsv C#. استخدم API رمز المثال لملفات html الدفعية لتحويل tsv داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

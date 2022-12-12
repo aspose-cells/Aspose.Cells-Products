@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLTX na CSV přes C#
-url: /cs/net/conversion/xltx-to-csv/
+
 description: Ukázkový kód pro převod xltx na csv C#. Použijte API ukázkový kód pro dávkový převod souborů xltx na csv v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

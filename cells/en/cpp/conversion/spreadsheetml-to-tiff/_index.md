@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to TIFF via C++
-url: /cpp/conversion/spreadsheetml-to-tiff/
+
 description: Convert SPREADSHEETML to TIFF format in C++ code. Save SPREADSHEETML as TIFF using C++.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie JSON in XLT über C#
-url: /de/net/conversion/json-to-xlt/
+
 description: Beispielcode für die Umwandlung von json in xlt C#. Verwenden Sie API Beispielcode für die Batch-Konvertierung von json-Dateien in xlt innerhalb von VB.NET, Asp.NET oder einer beliebigen .NET-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

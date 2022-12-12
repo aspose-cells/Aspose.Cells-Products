@@ -1,6 +1,6 @@
 ---
 title: Create MS Excel XLSX Files via Python 
-url: /python-java/create-xlsx/ 
+
 description: Create XLSX files in Python code. Generate MS Excel XLSX files using Python application.
 ---
 

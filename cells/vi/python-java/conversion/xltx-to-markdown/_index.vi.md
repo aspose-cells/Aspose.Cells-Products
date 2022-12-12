@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi XLTX thành MARKDOWN qua Python
-url: /vi/python-java/conversion/xltx-to-markdown/
+
 description: Mã mẫu cho chuyển đổi xltx để đánh dấu Python. Sử dụng mã mẫu API cho các tệp xltx hàng loạt để đánh dấu chuyển đổi trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

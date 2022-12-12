@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte XLT do PDF pomocí aplikace C++ 
-url: /cs/cpp/conversion/xlt-to-pdf/ 
+
 description: Ukázka převodního kódu C++ pro dokument XLT do formátu PDF. Programátoři mohou použít tento zdrojový kód pro dávkový převod XLT do PDF v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

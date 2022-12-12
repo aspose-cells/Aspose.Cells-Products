@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してXLSBをXMLに変換します
-url: /ja/net/conversion/xlsb-to-xml/
+
 description: xlsbからxmlC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチxlsbファイルからxmlへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή SPREADSHEETML σε SVG μέσω C#
-url: /el/net/conversion/spreadsheetml-to-svg/
+
 description: Δείγμα κώδικα για μετατροπή υπολογιστικού φύλλου σε svg C#. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία υπολογιστικών φύλλων ml για μετατροπή svg εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

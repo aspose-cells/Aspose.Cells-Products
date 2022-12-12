@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل HTML إلى XLT عبر تطبيق C++ 
-url: /ar/cpp/conversion/html-to-xlt/ 
+
 description: نموذج C++ رمز تحويل لمستند HTML إلى تنسيق XLT. يمكن للمبرمجين استخدام رمز المصدر هذا لتحويل دفعة HTML إلى XLT داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Merge XLS to MHT Files via Python 
-url: /python-net/merger/merge-xls-to-mht/ 
+
 description: Merge XLS to MHT file in Python code. Combine XLS to MHT file using Python.
 ---
 

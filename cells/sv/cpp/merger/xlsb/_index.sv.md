@@ -1,6 +1,6 @@
-﻿---
+---
 title: Slå samman XLSB-filer via C++ 
-url: /sv/cpp/merger/xlsb/ 
+
 description: C++ exempelkod för att kombinera XLSB-dokument i C++ Runtime Environment för Windows 32-bitars, Windows 64-bitars och Linux 64-bitars.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

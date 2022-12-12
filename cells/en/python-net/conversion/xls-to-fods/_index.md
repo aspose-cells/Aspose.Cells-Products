@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to FODS via Python
-url: /python-net/conversion/xls-to-fods/
+
 description: Sample code for xls to fods Python conversion. Use API example code for batch xls files to fods conversion within Python application.
 ---
 

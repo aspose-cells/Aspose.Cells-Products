@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer ODS naar XLTX via Python
-url: /nl/python-java/conversion/ods-to-xltx/
+
 description: Voorbeeldcode voor conversie van ods naar xltx Python. Gebruik API voorbeeldcode voor batch-ods-bestanden naar xltx-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

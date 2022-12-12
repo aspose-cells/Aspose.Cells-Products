@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversi CSV ke PNG melalui C++ aplikasi 
 weight: 920
-url: /id/cpp/conversion/csv-to-png/ 
+
 description: Contoh C++ kode konversi untuk dokumen CSV ke format PNG. Pemrogram dapat menggunakan kode sumber ini untuk konversi CSV ke PNG dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

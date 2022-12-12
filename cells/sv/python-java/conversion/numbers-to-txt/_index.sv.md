@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera NUMBERS till TXT via Python
-url: /sv/python-java/conversion/numbers-to-txt/
+
 description: Exempelkod för siffror till txt-konvertering av Python. Använd API exempelkod för batchnummerfiler till txt-konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

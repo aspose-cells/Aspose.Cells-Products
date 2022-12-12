@@ -1,6 +1,6 @@
-﻿---
+---
 title: FODS को Python के माध्यम से PNG में बदलें
-url: /hi/python-java/conversion/fods-to-png/
+
 description: फोड के लिए नमूना कोड पीएनजी Python रूपांतरण के लिए। Python एप्लिकेशन के भीतर पीएनजी रूपांतरण में बैच फोड फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

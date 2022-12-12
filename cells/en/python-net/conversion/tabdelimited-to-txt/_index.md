@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to TXT via Python
-url: /python-net/conversion/tabdelimited-to-txt/
+
 description: Sample code for tabdelimited to txt Python conversion. Use API example code for batch tabdelimited files to txt conversion within Python application.
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertera XLSM till PDF via Java 
 weight: 9400
-url: /sv/java/conversion/xlsm-to-pdf/ 
+
 description: Exempel Java-konverteringskod för XLSM-format till PDF-fil. Programmerare kan använda den här exempelkoden för att exportera Excel- och OpenOffice-kalkylblad till PDF inom alla webb- eller skrivbordsbaserade program Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

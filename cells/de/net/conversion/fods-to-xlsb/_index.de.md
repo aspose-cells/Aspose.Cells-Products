@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie FODS über C# in XLSB
-url: /de/net/conversion/fods-to-xlsb/
+
 description: Beispielcode für die Umwandlung von fods in xlsb C#. Verwenden Sie API Beispielcode für die Batch-Konvertierung von fods-Dateien in xlsb innerhalb von VB.NET, Asp.NET oder einer beliebigen .NET-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

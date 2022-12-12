@@ -1,6 +1,6 @@
-﻿---
+---
 title: ODS-bestanden samenvoegen via C++ 
-url: /nl/cpp/merger/ods/ 
+
 description: C++ voorbeeldcode om ODS-documenten te combineren op C++ Runtime Environment voor Windows 32 bit, Windows 64 bit en Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

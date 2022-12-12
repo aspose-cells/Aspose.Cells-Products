@@ -1,6 +1,6 @@
 ---
 title: Merge XLSM to ODS Files via C# 
-url: /net/merger/merge-xlsm-to-ods/ 
+
 description: Merge XLSM to ODS file in C# code. Combine XLSM to ODS file using VB.NET, Asp.NET or any .NET based application.
 ---
 

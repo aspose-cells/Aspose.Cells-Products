@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi SPREADSHEETML thành TABDELIMITED qua Python
-url: /vi/python-java/conversion/spreadsheetml-to-tabdelimited/
+
 description: Mã mẫu cho chuyển đổi từ bảng tínhml sang tabdelimited Python. Sử dụng mã mẫu API cho hàng loạt tệpml bảng tính để chuyển đổi được giới hạn bằng tab trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

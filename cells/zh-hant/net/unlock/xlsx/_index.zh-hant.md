@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通過 .NET 解鎖 XLSX 文檔 
 weight: 2040
-url: /zh-hant/net/unlock/xlsx/ 
+
 description: C# 用於在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上解鎖受密碼保護的 XLSX 文件的源代碼。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Řešení formátu souboru Excel
 weight: 7730
-url: /cs/
+
 description: Vytvářejte aplikace pro manipulaci se soubory Excel pomocí High Code nebo Low Code API nebo No Code Apps pro zobrazení porovnání, kontroly nebo převodu souborů Excel.
 ---
 {{< blocks/products/pf/main-wrap-class >}}

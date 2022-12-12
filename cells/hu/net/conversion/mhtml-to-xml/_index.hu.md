@@ -1,6 +1,6 @@
-﻿---
+---
 title: "MHTML konvertálása XML-be a következőn keresztül: C#"
-url: /hu/net/conversion/mhtml-to-xml/
+
 description: Mintakód az mhtml–xml C# konverzióhoz. Használjon API példakódot az mhtml fájlok kötegelt XML-re konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

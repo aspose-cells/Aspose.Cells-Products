@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NETを介してXLSMドキュメントからテキストと画像を抽出します 
 weight: 4010
-url: /ja/net/parser/xlsm/ 
+
 description: .NETフレームワーク、.NETコア、Mono、またはXamarinプラットフォーム上のXLSMファイルからテキストと画像を抽出するためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

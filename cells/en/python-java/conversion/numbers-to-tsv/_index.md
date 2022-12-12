@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to TSV via Python
-url: /python-java/conversion/numbers-to-tsv/
+
 description: Convert NUMBERS to TSV format in Python code. Save NUMBERS as TSV using Python.
 ---
 

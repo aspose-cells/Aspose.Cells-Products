@@ -1,6 +1,6 @@
-﻿---
+---
 title: Δημιουργία αρχείων MS Excel XLSM μέσω C++ 
-url: /el/cpp/create-xlsm/ 
+
 description: C++ Δείγμα κώδικα για τη δημιουργία αρχείων MS Excel XLSM. Χρησιμοποιήστε αυτόν τον κώδικα για τη δημιουργία αρχείων MS Excel XLSM εντός εφαρμογής που βασίζεται σε C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

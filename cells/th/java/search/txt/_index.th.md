@@ -1,7 +1,7 @@
-﻿---
+---
 title: ค้นหาเอกสาร TXT โดยไม่ต้องเปิดผ่าน Java 
 weight: 1200
-url: /th/java/search/txt/ 
+
 description: Java โค้ดตัวอย่างเพื่อค้นหาคำที่มีรูปแบบในไฟล์ TXT บน Java Runtime Environment สำหรับแอปพลิเคชัน JSP/JSF และแอปพลิเคชันเดสก์ท็อป
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

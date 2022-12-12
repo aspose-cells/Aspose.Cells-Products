@@ -1,7 +1,7 @@
-﻿---
+---
 title: Pesquise e substitua texto no documento XLSB por meio de Java 
 weight: 4590
-url: /pt/java/redaction/xlsb/ 
+
 description: Java código de amostra para redigir informações confidenciais no arquivo XLSB no Java ambiente de tempo de execução para aplicativos JSP/JSF e aplicativos de desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

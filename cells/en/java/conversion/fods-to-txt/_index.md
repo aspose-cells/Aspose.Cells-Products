@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to TXT via Java 
-url: /java/conversion/fods-to-txt/
+
 description: Convert FODS to TXT format in Java code. Save FODS as TXT using Java.
 ---
 

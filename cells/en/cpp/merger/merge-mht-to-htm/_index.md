@@ -1,6 +1,6 @@
 ---
 title: Merge MHT to HTM Files via C++ 
-url: /cpp/merger/merge-mht-to-htm/ 
+
 description: Merge MHT to HTM file in C++ code. Combine MHT to HTM file using C++.
 ---
 

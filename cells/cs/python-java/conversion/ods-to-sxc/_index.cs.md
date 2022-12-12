@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést ODS na SXC přes Python
-url: /cs/python-java/conversion/ods-to-sxc/
+
 description: Ukázkový kód pro převod z ods na sxc Python. Použijte API ukázkový kód pro dávkový převod souborů ods na sxc v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

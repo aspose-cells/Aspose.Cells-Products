@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование SPREADSHEETML в XLSX через Python
-url: /ru/python-java/conversion/spreadsheetml-to-xlsx/
+
 description: Пример кода для преобразования электронной таблицыml в xlsx Python. Используйте пример кода API для пакетного преобразования файлов электронной таблицыml в xlsx в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

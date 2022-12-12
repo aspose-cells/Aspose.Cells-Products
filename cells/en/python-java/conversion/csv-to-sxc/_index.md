@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to SXC via Python
-url: /python-java/conversion/csv-to-sxc/
+
 description: Convert CSV to SXC format in Python code. Save CSV as SXC using Python.
 ---
 

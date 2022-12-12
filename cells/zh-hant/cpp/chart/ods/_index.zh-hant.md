@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通過 C++ 的 ODS 文檔圖表 
 weight: 3820
-url: /zh-hant/cpp/chart/ods/ 
+
 description: C++ 在 Windows 32 位、Windows 64 位和 Linux 64 位的 C++ 運行時環境中繪製和轉換 ODS 文件中的圖表或圖表的示例代碼。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

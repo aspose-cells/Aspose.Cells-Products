@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++ aracılığıyla MS Excel XLTM Dosyaları oluşturun 
-url: /tr/cpp/create-xltm/ 
+
 description: C++ MS Excel XLTM dosyaları oluşturmak için örnek kod. C++ tabanlı uygulamada MS Excel XLTM dosyaları oluşturmak için bu kodu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

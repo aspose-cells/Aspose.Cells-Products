@@ -1,7 +1,7 @@
-﻿---
+---
 title: Tách tệp XLSX qua .NET 
 weight: 1350
-url: /vi/net/splitter/xlsx/ 
+
 description: C# mã nguồn để tách các tài liệu XLSX trên Nền tảng .NET Framework, .NET Core Mono hoặc Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل الأرقام إلى BMP عبر Python
-url: /ar/python-java/conversion/numbers-to-bmp/
+
 description: نموذج رمز للأرقام لتحويل bmp Python. استخدم API رمز المثال لملفات أرقام الدُفعات لتحويل bmp داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie XLTX in MARKDOWN über Java 
-url: /de/java/conversion/xltx-to-markdown/ 
+
 description: Beispiel-Umwandlungscode Java für das XLTX-Format in die MARKDOWN-Datei. Programmierer können diesen Beispielcode verwenden, um Excel- und OpenOffice-Tabellen in MARKDOWN innerhalb einer beliebigen Web- oder Desktop-Java-basierten Anwendung zu exportieren.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

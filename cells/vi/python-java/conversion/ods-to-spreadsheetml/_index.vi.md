@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi ODS thành SPREADSHEETML qua Python
-url: /vi/python-java/conversion/ods-to-spreadsheetml/
+
 description: Mã mẫu cho chuyển đổi ods sang bảng tínhml Python. Sử dụng mã mẫu API cho các tệp ods hàng loạt để chuyển đổi bảng tínhml trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

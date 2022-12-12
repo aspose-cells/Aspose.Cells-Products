@@ -1,6 +1,6 @@
-﻿---
+---
 title: "CSV konvertálása ODS-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/csv-to-ods/
+
 description: Mintakód a csv-ből ods-ba Python konverzióhoz. Használjon API példakódot a csv fájlok kötegelt ods konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

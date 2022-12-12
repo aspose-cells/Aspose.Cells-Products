@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLSB إلى XML عبر C#
-url: /ar/net/conversion/xlsb-to-xml/
+
 description: نموذج كود للتحويل من xlsb إلى xml C#. استخدم API رمز المثال لملفات xlsb الدفعية لتحويل xml داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

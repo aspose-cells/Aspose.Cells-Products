@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi XLSM sang TXT qua Python
-url: /vi/python-java/conversion/xlsm-to-txt/
+
 description: Mã mẫu cho chuyển đổi xlsm sang txt Python. Sử dụng API mã mẫu cho hàng loạt tệp xlsm sang chuyển đổi txt trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

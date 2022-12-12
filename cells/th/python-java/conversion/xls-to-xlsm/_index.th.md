@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง XLS เป็น XLSM ผ่าน Python
-url: /th/python-java/conversion/xls-to-xlsm/
+
 description: โค้ดตัวอย่างสำหรับการแปลง xls เป็น xlsm Python ใช้โค้ดตัวอย่าง API สำหรับไฟล์แบตช์ xls เป็นการแปลง xlsm ภายในแอปพลิเคชัน Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

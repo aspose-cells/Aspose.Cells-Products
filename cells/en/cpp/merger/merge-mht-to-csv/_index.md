@@ -1,6 +1,6 @@
 ---
 title: Merge MHT to CSV Files via C++ 
-url: /cpp/merger/merge-mht-to-csv/ 
+
 description: Merge MHT to CSV file in C++ code. Combine MHT to CSV file using C++.
 ---
 

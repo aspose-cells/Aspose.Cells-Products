@@ -1,6 +1,6 @@
-﻿---
+---
 title: قم بتحويل XLTM إلى PNG عبر تطبيق C++ 
-url: /ar/cpp/conversion/xltm-to-png/ 
+
 description: نموذج C++ كود التحويل لمستند XLTM إلى تنسيق PNG. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل XLTM إلى PNG داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

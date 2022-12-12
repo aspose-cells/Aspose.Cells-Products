@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование файлов Microsoft Excel через Python 
-url: /ru/python/conversion/
+
 description: Преобразование Excel XLS, XLSX, ODS, CSV в PDF, XPS, HTML, JPEG, HTML и многие другие популярные форматы с помощью всего нескольких строк кода Python.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

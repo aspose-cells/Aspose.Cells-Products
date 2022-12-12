@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET Java C++ PHP- und Android-Excel-Spreadsheet-Parsing-APIs 
 weight: 10
-url: /de/family
+
 description: Bibliotheken zum Lesen, Schreiben und Bearbeiten von Microsoft Excel-Dateien in .NET Java C++ Android- und SharePoint-Apps. Exportieren Sie Arbeitsblätter in SSRS und JasperReports
 ---
 {{< blocks/products/pf/main-wrap-class >}}

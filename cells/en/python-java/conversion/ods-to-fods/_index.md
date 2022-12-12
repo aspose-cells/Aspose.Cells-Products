@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to FODS via Python
-url: /python-java/conversion/ods-to-fods/
+
 description: Convert ODS to FODS format in Python code. Save ODS as FODS using Python.
 ---
 

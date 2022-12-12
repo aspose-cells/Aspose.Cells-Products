@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование SPREADSHETML в PNG с помощью приложения C++ 
-url: /ru/cpp/conversion/spreadsheetml-to-png/ 
+
 description: Пример кода преобразования C++ для документа SPREADSHEETML в формат PNG. Программисты могут использовать этот исходный код для пакетного преобразования SPREADSHEETML в PNG в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

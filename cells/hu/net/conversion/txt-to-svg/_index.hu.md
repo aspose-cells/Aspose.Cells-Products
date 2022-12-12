@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TXT konvertálása SVG-vé a következőn keresztül: C#"
-url: /hu/net/conversion/txt-to-svg/
+
 description: Mintakód a txt-ből svg-be C# konverzióhoz. Használjon API példakódot kötegelt txt fájlok SVG konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

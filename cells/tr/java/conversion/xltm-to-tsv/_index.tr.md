@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java üzerinden XLTM'yi TSV'ye dönüştürün 
 weight: 9480
-url: /tr/java/conversion/xltm-to-tsv/ 
+
 description: XLTM biçimi için TSV dosyasına örnek Java dönüştürme kodu. Programcılar, Excel ve OpenOffice elektronik tablolarını herhangi bir Web veya Masaüstü Java tabanlı Uygulamada TSV'ye aktarmak için bu örnek kodu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

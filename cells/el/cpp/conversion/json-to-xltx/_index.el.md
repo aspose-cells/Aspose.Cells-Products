@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή JSON σε XLTX μέσω της εφαρμογής C++ 
-url: /el/cpp/conversion/json-to-xltx/ 
+
 description: Δείγμα κώδικα μετατροπής C++ για έγγραφο JSON σε μορφή XLTX. Οι προγραμματιστές μπορούν να χρησιμοποιήσουν αυτόν τον πηγαίο κώδικα για μαζική μετατροπή JSON σε XLTX σε οποιαδήποτε εφαρμογή C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

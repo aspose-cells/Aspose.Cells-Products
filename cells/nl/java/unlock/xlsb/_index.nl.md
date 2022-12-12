@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLSB-document ontgrendelen via Java 
 weight: 5860
-url: /nl/java/unlock/xlsb/ 
+
 description: Java voorbeeldcode om met een wachtwoord beveiligd XLSB-bestand te ontgrendelen in Java Runtime Environment voor JSP/JSF-applicaties en desktopapplicaties.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

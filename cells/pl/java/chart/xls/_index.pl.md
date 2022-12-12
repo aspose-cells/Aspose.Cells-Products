@@ -1,7 +1,7 @@
-﻿---
+---
 title: Wykres dokumentu XLS za pośrednictwem Java 
 weight: 1050
-url: /pl/java/chart/xls/ 
+
 description: Java przykładowy kod do rysowania i konwertowania wykresu lub diagramu w pliku XLS w Java środowisku wykonawczym dla aplikacji JSP/JSF i aplikacji komputerowych.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

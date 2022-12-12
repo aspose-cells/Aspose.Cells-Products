@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer FODS naar TABDELIMITED via Java 
-url: /nl/java/conversion/fods-to-tabdelimited/ 
+
 description: Voorbeeld Java conversiecode voor FODS-indeling naar TABDELIMITED-bestand. Programmeurs kunnen deze voorbeeldcode gebruiken om Excel- en OpenOffice-spreadsheets te exporteren naar TABDELIMITED binnen elke web- of desktoptoepassing Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

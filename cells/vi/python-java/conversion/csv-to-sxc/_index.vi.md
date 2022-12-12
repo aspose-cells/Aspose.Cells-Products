@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi CSV sang SXC qua Python
-url: /vi/python-java/conversion/csv-to-sxc/
+
 description: Mã mẫu cho chuyển đổi csv sang sxc Python. Sử dụng API mã mẫu cho hàng loạt tệp csv sang chuyển đổi sxc trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

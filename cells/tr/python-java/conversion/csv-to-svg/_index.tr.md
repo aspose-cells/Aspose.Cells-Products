@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla CSV'yi SVG'ye dönüştürün
-url: /tr/python-java/conversion/csv-to-svg/
+
 description: csv'den svg'ye Python dönüştürme için örnek kod. Python uygulamasında toplu csv dosyalarından svg'ye dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

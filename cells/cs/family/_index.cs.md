@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET Java C++ Rozhraní API pro analýzu PHP a Android Excel Spreadsheet Parsing 
 weight: 10
-url: /cs/family
+
 description: Knihovny pro čtení, zápis a manipulaci se soubory Microsoft Excel v .NET Java C++ aplikacích pro Android a SharePoint. Exportujte pracovní listy do SSRS a JasperReports
 ---
 {{< blocks/products/pf/main-wrap-class >}}

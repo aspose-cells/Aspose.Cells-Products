@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi XLTM sang XLS qua Python
-url: /vi/python-java/conversion/xltm-to-xls/
+
 description: Mã mẫu cho chuyển đổi xltm sang xls Python. Sử dụng API mã mẫu cho hàng loạt tệp xltm sang chuyển đổi xls trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

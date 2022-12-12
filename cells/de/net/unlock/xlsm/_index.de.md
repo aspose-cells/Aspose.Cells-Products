@@ -1,7 +1,7 @@
-﻿---
+---
 title: Entsperren Sie das XLSM-Dokument über .NET 
 weight: 9810
-url: /de/net/unlock/xlsm/ 
+
 description: C#-Quellcode zum Entsperren der passwortgeschützten XLSM-Datei auf .NET Framework-, .NET Core-, Mono- oder Xamarin-Plattformen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

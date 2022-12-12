@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή XLSM σε JPG μέσω C#
-url: /el/net/conversion/xlsm-to-jpg/
+
 description: Δείγμα κώδικα για μετατροπή xlsm σε jpg C#. Χρησιμοποιήστε API παράδειγμα κώδικα για μαζική μετατροπή αρχείων xlsm σε jpg εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

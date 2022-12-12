@@ -1,7 +1,7 @@
-﻿---
+---
 title: قم بتحويل ODS إلى PNG عبر تطبيق C++ 
 weight: 4710
-url: /ar/cpp/conversion/ods-to-png/ 
+
 description: نموذج C++ كود تحويل لمستند ODS إلى تنسيق PNG. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل دفعة من ODS إلى PNG داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

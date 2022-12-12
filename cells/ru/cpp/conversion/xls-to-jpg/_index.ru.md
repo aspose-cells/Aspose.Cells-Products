@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLS в JPG с помощью приложения C++ 
-url: /ru/cpp/conversion/xls-to-jpg/ 
+
 description: Пример кода преобразования C++ для документа XLS в формат JPG. Программисты могут использовать этот исходный код для пакетного преобразования XLS в JPG в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

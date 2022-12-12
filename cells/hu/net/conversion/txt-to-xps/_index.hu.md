@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TXT konvertálása XPS-re a következőn keresztül: C#"
-url: /hu/net/conversion/txt-to-xps/
+
 description: Mintakód a txt–xps C# konverzióhoz. Használjon API példakódot a kötegelt txt fájlok xps konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

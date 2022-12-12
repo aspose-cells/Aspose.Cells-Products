@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 Python 將 JPEG 轉換為 DOCX
-url: /zh-hant/python-java/conversion/jpeg-to-docx/
+
 description: jpeg 到 docx Python 轉換的示例代碼。在 Python 應用程序中使用 API 示例代碼將 jpeg 文件批量轉換為 docx。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

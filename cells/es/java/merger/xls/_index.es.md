@@ -1,7 +1,7 @@
-﻿---
+---
 title: Combinar archivos XLS a través de Java 
 weight: 5140
-url: /es/java/merger/xls/ 
+
 description: Java código de ejemplo para combinar documentos XLS en Java entorno de tiempo de ejecución para aplicaciones JSP/JSF y aplicaciones de escritorio.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

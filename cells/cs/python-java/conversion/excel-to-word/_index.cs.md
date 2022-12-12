@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést EXCEL na WORD přes Python
-url: /cs/python-java/conversion/excel-to-word/
+
 description: Ukázkový kód pro převod z Excelu na slovo Python. Použijte API ukázkový kód pro dávkový převod souborů Excel na slovo v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

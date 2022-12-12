@@ -1,7 +1,7 @@
 ---
 title: Generate Reports in XLSM Files via .NET 
 weight: 4400
-url: /net/assembly/xlsm/ 
+
 description: C# source code to generate XLSM format reports on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

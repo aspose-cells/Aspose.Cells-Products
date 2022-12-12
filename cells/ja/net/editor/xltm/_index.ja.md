@@ -1,6 +1,6 @@
-﻿---
+---
 title: .NETを介してXLTMファイルを編集する 
-url: /ja/net/editor/xltm/ 
+
 description: .NETフレームワーク、.NETコア、Windows Azure、Mono、またはXamarinプラットフォームでXLTMドキュメントを編集するためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

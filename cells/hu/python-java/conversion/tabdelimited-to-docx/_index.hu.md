@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TABDELIMITED konvertálása DOCX-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/tabdelimited-to-docx/
+
 description: Mintakód a tabulátorral elválasztott docx Python konverzióhoz. Használjon API példakódot a tabulátorral tagolt fájlok kötegelt docx konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

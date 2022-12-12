@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python를 통해 XLSB를 ODS로 변환
-url: /ko/python-java/conversion/xlsb-to-ods/
+
 description: xlsb에서 ods Python로의 변환을 위한 샘플 코드입니다. Python 애플리케이션 내에서 배치 xlsb 파일에서 ods 변환에 대한 API 예제 코드를 사용합니다.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: استخراج النص والصور من مستند XLSM عبر Java 
 weight: 3260
-url: /ar/java/parser/xlsm/ 
+
 description: Java نموذج كود لاستخراج نص وصور من ملف XLSM في Java Runtime Environment لتطبيق JSP / JSF وتطبيقات سطح المكتب.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

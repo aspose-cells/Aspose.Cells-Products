@@ -1,7 +1,7 @@
-﻿---
+---
 title: Zobrazení nebo úprava metadat souborů XLSB prostřednictvím .NET 
 weight: 7890
-url: /cs/net/metadata/xlsb/ 
+
 description: C# zdrojový kód pro úpravu nebo zobrazení metadat ve formátu XLSB na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

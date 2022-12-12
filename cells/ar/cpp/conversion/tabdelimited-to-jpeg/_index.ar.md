@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TABDELIMITED إلى JPEG عبر تطبيق C++ 
-url: /ar/cpp/conversion/tabdelimited-to-jpeg/ 
+
 description: نموذج رمز تحويل C++ لمستند TABDELIMITED إلى تنسيق JPEG. يمكن للمبرمجين استخدام رمز المصدر هذا للتحويل الدفعي من TABDELIMITED إلى JPEG داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

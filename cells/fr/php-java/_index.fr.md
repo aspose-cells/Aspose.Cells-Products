@@ -1,7 +1,7 @@
-﻿---
+---
 title: Feuille de calcul Excel PHP API - Aspose 
 weight: 3660
-url: /fr/php-java/ 
+
 description: Feuille de calcul PHP Excel API pour lire écrire et convertir XLS XLSX CSV TSV HTML ODS SpreadsheetML et tous les formats Excel 97-2016. Exporter des feuilles de calcul vers plusieurs formats
 ---
 {{< blocks/products/pf/main-wrap-class >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 Python 將 FODS 轉換為 PNG
-url: /zh-hant/python-java/conversion/fods-to-png/
+
 description: fods 到 png Python 轉換的示例代碼。使用 Python 應用程序中批量 fods 文件到 png 轉換的示例代碼。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

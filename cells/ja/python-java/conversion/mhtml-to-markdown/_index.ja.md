@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してMHTMLをMARKDOWNに変換します
-url: /ja/python-java/conversion/mhtml-to-markdown/
+
 description: mhtmlからマークダウンPythonへの変換のサンプルコード。 Pythonアプリケーション内で変換をマークダウンするバッチmhtmlファイルのAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

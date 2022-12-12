@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# के माध्यम से CSV को MARKDOWN में बदलें
-url: /hi/net/conversion/csv-to-markdown/
+
 description: csv से मार्कडाउन C# रूपांतरण के लिए नमूना कोड। VB.NET, Asp.NET या किसी .NET आधारित एप्लिकेशन में रूपांतरण को मार्कडाउन करने के लिए बैच csv फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Поиск документа XLSM без открытия через C++ 
 weight: 9280
-url: /ru/cpp/search/xlsm/ 
+
 description: Пример кода C++ для поиска слов с шаблоном в файле XLSM в C++ среде выполнения для 32-разрядной, 64-разрядной и Linux 64-разрядной версии.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

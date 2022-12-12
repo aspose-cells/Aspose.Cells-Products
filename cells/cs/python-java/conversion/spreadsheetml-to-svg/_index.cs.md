@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést SPREADSHEETML na SVG prostřednictvím Python
-url: /cs/python-java/conversion/spreadsheetml-to-svg/
+
 description: Ukázkový kód pro převod tabulky ml na svg Python. Použijte API ukázkový kód pro dávkové tabulkové soubory ml na převod svg v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

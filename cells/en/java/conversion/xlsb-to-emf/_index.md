@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to EMF via Java 
-url: /java/conversion/xlsb-to-emf/
+
 description: Convert XLSB to EMF format in Java code. Save XLSB as EMF using Java.
 ---
 

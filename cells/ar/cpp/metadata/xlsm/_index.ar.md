@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحرير أو عرض البيانات الوصفية لمستند XLSM عبر C++ 
 weight: 1300
-url: /ar/cpp/metadata/xlsm/ 
+
 description: C++ مثال على رمز لتعديل أو عرض البيانات الوصفية لملف XLSM في C++ Runtime Environment لأنظمة التشغيل Windows 32 بت و Windows 64 بت و Linux 64 بت.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

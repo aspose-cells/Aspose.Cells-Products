@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera HTML till XLSX via Python
-url: /sv/python-java/conversion/html-to-xlsx/
+
 description: Exempelkod för html till xlsx Python-konvertering. Använd API exempelkod för batch-html-filer till xlsx-konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

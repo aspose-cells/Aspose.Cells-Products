@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to TABDELIMITED via C#
-url: /net/conversion/numbers-to-tabdelimited/
+
 description: Convert NUMBERS to TABDELIMITED format in C# code. Save NUMBERS as TABDELIMITED using VB.NET, Asp.NET or any .NET based application.
 ---
 

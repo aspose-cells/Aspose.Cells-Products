@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++을 통해 XLSX 주석 추가 
 weight: 5260
-url: /ko/cpp/annotation/xlsx/ 
+
 description: C++ Windows 32비트, Windows 64비트 및 Linux 64비트용 C++ 런타임 환경에서 XLSX 형식 주석을 추가하거나 삭제하는 샘플 코드.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

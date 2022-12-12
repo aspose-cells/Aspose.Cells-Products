@@ -1,7 +1,7 @@
-﻿---
+---
 title: ค้นหาเอกสาร CSV โดยไม่ต้องเปิดผ่าน C++ 
 weight: 5540
-url: /th/cpp/search/csv/ 
+
 description: C++ โค้ดตัวอย่างเพื่อค้นหาคำที่มีรูปแบบในไฟล์ CSV บน C++ Runtime Environment สำหรับ Windows 32 บิต, Windows 64 บิต และ Linux 64 บิต
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

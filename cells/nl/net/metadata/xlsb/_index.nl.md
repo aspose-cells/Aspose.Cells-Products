@@ -1,7 +1,7 @@
-﻿---
+---
 title: Bekijk of bewerk XLSB-bestanden metadata via .NET 
 weight: 7890
-url: /nl/net/metadata/xlsb/ 
+
 description: C# broncode om metadata in XLSB-indeling te bewerken of te bekijken op .NET Framework-, .NET Core-, Mono- of Xamarin-platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

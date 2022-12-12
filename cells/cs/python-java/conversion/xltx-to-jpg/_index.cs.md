@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLTX na JPG přes Python
-url: /cs/python-java/conversion/xltx-to-jpg/
+
 description: Ukázkový kód pro převod xltx na jpg Python. Použijte API ukázkový kód pro dávkový převod souborů xltx na jpg v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

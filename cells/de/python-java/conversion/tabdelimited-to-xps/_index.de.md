@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie TABDELIMITED über Python in XPS
-url: /de/python-java/conversion/tabdelimited-to-xps/
+
 description: Beispielcode für die Umwandlung von tabulatorgetrennt in xps Python. Verwenden Sie den API-Beispielcode für die Batch-Konvertierung von tabulatorgetrennten Dateien in xps innerhalb der Anwendung Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

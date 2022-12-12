@@ -1,7 +1,7 @@
 ---
 title: Insert Cube into Excel via .NET 
 weight: 325
-url: /net/shapes/insert-cube-to-excel/ 
+
 description: C# source code to insert Cube into Excel on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

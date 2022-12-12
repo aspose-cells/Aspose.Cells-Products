@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++를 통해 XLSM 주석 추가 
 weight: 2860
-url: /ko/cpp/annotation/xlsm/ 
+
 description: C++ Windows 32비트, Windows 64비트 및 Linux 64비트용 C++ 런타임 환경에서 XLSM 형식 주석을 삭제하는 샘플 코드.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

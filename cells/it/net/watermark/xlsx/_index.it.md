@@ -1,7 +1,7 @@
-﻿---
+---
 title: Documento filigrana XLSX tramite .NET 
 weight: 8270
-url: /it/net/watermark/xlsx/ 
+
 description: C# codice sorgente per aggiungere o rimuovere la filigrana nel file XLSX su piattaforme .NET Framework, .NET Core, Mono o Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla TSV'yi TXT'ye dönüştürün
-url: /tr/python-java/conversion/tsv-to-txt/
+
 description: tsv'den txt'ye Python dönüştürme için örnek kod. Python uygulamasında toplu tsv dosyalarını txt'ye dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

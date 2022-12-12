@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java के द्वारा HTML को PDF में बदलें 
 weight: 2780
-url: /hi/java/conversion/html-to-pdf/ 
+
 description: HTML प्रारूप से PDF फ़ाइल के लिए नमूना Java रूपांतरण कोड। प्रोग्रामर इस उदाहरण कोड का उपयोग किसी भी वेब या डेस्कटॉप Java आधारित एप्लिकेशन के भीतर एक्सेल और ओपनऑफिस स्प्रेडशीट को पीडीएफ में निर्यात करने के लिए कर सकते हैं।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

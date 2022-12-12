@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование TABDELIMITED в SPREADSHEETML через Java 
-url: /ru/java/conversion/tabdelimited-to-spreadsheetml/ 
+
 description: Пример кода преобразования Java для формата TABDELIMITED в файл SPREADSHEETML. Программисты могут использовать этот пример кода для экспорта электронных таблиц Excel и OpenOffice в SPREADSHEETML в любом веб-или настольном Java приложении.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převeďte HTML na CSV pomocí aplikace C++ 
 weight: 6850
-url: /cs/cpp/conversion/html-to-csv/ 
+
 description: Ukázka převodního kódu C++ pro dokument HTML na formát CSV. Programátoři mohou tento zdrojový kód použít pro dávkový převod HTML na CSV v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

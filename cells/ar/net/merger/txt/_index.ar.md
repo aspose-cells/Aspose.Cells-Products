@@ -1,7 +1,7 @@
-﻿---
+---
 title: دمج ملفات TXT عبر .NET 
 weight: 7350
-url: /ar/net/merger/txt/ 
+
 description: C# شفرة المصدر لدمج مستندات TXT في .NET Framework أو .NET Core أو Mono أو أنظمة Xamarin الأساسية.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

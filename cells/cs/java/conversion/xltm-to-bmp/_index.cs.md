@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést XLTM na BMP přes Java 
 weight: 1430
-url: /cs/java/conversion/xltm-to-bmp/ 
+
 description: Ukázka převodního kódu Java pro formát XLTM na soubor BMP. Programátoři mohou tento ukázkový kód použít k exportu tabulek Excelu a OpenOffice do BMP v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

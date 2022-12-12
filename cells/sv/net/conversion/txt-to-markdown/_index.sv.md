@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera TXT till MARKDOWN via C#
-url: /sv/net/conversion/txt-to-markdown/
+
 description: Exempelkod för txt för att markera C# omvandling. Använd API exempelkod för batch-txt-filer för att markera nedkonvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

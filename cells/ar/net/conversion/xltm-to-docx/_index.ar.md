@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLTM إلى DOCX عبر C#
-url: /ar/net/conversion/xltm-to-docx/
+
 description: نموذج كود لتحويل xltm إلى docx C#. استخدم API مثال الكود لملفات xltm الدفعية لتحويل docx داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

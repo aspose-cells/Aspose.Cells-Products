@@ -1,7 +1,7 @@
-﻿---
+---
 title: Преобразование HTML в XLTX с помощью приложения C++ 
 weight: 230
-url: /ru/cpp/conversion/html-to-xltx/ 
+
 description: Пример кода преобразования C++ для документа HTML в формат XLTX. Программисты могут использовать этот исходный код для пакетного преобразования HTML в XLTX в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

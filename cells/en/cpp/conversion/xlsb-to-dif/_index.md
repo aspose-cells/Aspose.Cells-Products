@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to DIF via C++
-url: /cpp/conversion/xlsb-to-dif/
+
 description: Convert XLSB to DIF format in C++ code. Save XLSB as DIF using C++.
 ---
 

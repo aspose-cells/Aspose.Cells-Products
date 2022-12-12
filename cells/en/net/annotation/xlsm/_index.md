@@ -1,7 +1,7 @@
 ---
 title: Remove XLSM Annotation via .NET 
 weight: 9890
-url: /net/annotation/xlsm/ 
+
 description: C# source code to add and delete XLSM format annotations on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

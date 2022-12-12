@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to MARKDOWN via C#
-url: /net/conversion/mhtml-to-markdown/
+
 description: Convert MHTML to MARKDOWN format in C# code. Save MHTML as MARKDOWN using VB.NET, Asp.NET or any .NET based application.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "ODS konvertálása SPREADSHEETML-re a következőn keresztül: C#"
-url: /hu/net/conversion/ods-to-spreadsheetml/
+
 description: Mintakód az ods to spreadsheetml C# konverziójához. Használjon API példakódot kötegelt ods fájlokhoz a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belüli táblázatkezelő konverzióhoz.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

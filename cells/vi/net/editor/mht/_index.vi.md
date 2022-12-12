@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chỉnh sửa tệp MHT qua .NET 
-url: /vi/net/editor/mht/ 
+
 description: C# mã nguồn để chỉnh sửa tài liệu MHT trên Nền tảng .NET Framework, .NET Core, Windows Azure, Mono hoặc Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

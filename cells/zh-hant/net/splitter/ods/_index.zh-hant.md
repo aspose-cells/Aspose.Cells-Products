@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通過 .NET 拆分 ODS 文件 
 weight: 140
-url: /zh-hant/net/splitter/ods/ 
+
 description: C# 用於在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上拆分 ODS 文檔的源代碼。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

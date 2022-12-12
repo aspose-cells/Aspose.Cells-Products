@@ -1,7 +1,7 @@
-﻿---
+---
 title: عرض أو تحرير البيانات الوصفية لملفات XLSM عبر .NET 
 weight: 5590
-url: /ar/net/metadata/xlsm/ 
+
 description: C# شفرة المصدر لتعديل أو عرض البيانات الوصفية بتنسيق XLSM على الأنظمة الأساسية .NET Framework أو .NET Core أو Mono أو Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

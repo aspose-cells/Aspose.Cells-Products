@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してXLTXをXLSBに変換します 
 weight: 2460
-url: /ja/java/conversion/xltx-to-xlsb/ 
+
 description: XLTX形式からXLSBファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のXLSBにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

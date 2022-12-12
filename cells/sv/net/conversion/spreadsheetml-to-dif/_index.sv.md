@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera SPREADSHEETML till DIF via C#
-url: /sv/net/conversion/spreadsheetml-to-dif/
+
 description: Exempelkod för omvandling av kalkylarkml till dif C#. Använd API exempelkod för batch-kalkylarkml-filer för att skilja konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

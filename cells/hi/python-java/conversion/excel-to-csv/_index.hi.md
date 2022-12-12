@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python के माध्यम से EXCEL को CSV में बदलें
-url: /hi/python-java/conversion/excel-to-csv/
+
 description: एक्सेल से सीएसवी Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर सीएसवी रूपांतरण में बैच एक्सेल फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

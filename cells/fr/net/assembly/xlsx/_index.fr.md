@@ -1,7 +1,7 @@
-﻿---
+---
 title: Générer des rapports dans des fichiers XLSX via .NET 
 weight: 6740
-url: /fr/net/assembly/xlsx/ 
+
 description: Code source C# pour générer des rapports au format XLSX sur les plates-formes .NET Framework, .NET Core, Mono ou Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

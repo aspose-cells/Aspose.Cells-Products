@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python을(를) 통해 SPREADSHEETML을 MARKDOWN으로 변환
-url: /ko/python-java/conversion/spreadsheetml-to-markdown/
+
 description: 스프레드시트ml에서 마크다운 Python로의 변환을 위한 샘플 코드입니다. 배치 스프레드시트ml 파일에 대한 API 예제 코드를 사용하여 Python 애플리케이션 내에서 변환을 마크다운합니다.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

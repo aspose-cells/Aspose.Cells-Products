@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง TXT เป็น XLSX ผ่าน C++ แอปพลิเคชัน 
-url: /th/cpp/conversion/txt-to-xlsx/ 
+
 description: ตัวอย่างโค้ดการแปลง C++ สำหรับเอกสาร TXT เป็นรูปแบบ XLSX โปรแกรมเมอร์สามารถใช้ซอร์สโค้ดนี้สำหรับการแปลงแบตช์ TXT เป็น XLSX ภายในแอปพลิเคชัน C++ ใดๆ
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

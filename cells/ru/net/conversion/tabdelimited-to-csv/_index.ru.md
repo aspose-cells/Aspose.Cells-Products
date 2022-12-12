@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование TABDELIMITED в CSV через C#
-url: /ru/net/conversion/tabdelimited-to-csv/
+
 description: Пример кода для преобразования tabdelimited в csv C#. Используйте пример кода API для пакетного преобразования файлов с разделителями табуляции в csv в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

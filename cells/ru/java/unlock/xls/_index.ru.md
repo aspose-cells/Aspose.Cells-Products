@@ -1,7 +1,7 @@
-﻿---
+---
 title: Разблокировать документ XLS через Java 
 weight: 6390
-url: /ru/java/unlock/xls/ 
+
 description: Пример кода Java для разблокировки защищенного паролем файла XLS в Java среде выполнения для приложений JSP/JSF и настольных приложений.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

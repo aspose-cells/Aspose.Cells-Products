@@ -1,6 +1,6 @@
-﻿---
+---
 title: SPREADSHEETML'yi Python aracılığıyla GIF'e dönüştürün
-url: /tr/python-java/conversion/spreadsheetml-to-gif/
+
 description: E-tabloml'den gif'e Python dönüşümü için örnek kod. Python uygulamasında toplu e-tablo ml dosyaları gif dönüşümü için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Tạo Báo cáo trong Tệp ODS qua .NET 
 weight: 520
-url: /vi/net/assembly/ods/ 
+
 description: C# mã nguồn để tạo báo cáo định dạng ODS trên Nền tảng .NET Framework, .NET Core Mono hoặc Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

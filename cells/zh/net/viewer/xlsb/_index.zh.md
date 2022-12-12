@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通过 .NET 查看 XLSB 文件格式 
 weight: 6260
-url: /zh/net/viewer/xlsb/ 
+
 description: C# 用于在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上加载、呈现和显示 XLSB 文档的源代码。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

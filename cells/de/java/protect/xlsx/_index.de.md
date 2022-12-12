@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLSX-Dokument über Java schützen und sperren 
 weight: 1870
-url: /de/java/protect/xlsx/ 
+
 description: Java Beispielcode zum Sperren der XLSX-Datei mithilfe des Kennworts in Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

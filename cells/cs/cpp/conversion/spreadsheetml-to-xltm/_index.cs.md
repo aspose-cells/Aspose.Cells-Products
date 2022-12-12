@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte SPREADSHEETML na XLTM pomocí aplikace C++ 
-url: /cs/cpp/conversion/spreadsheetml-to-xltm/ 
+
 description: Ukázka převodního kódu C++ pro dokument SPREADSHEETML do formátu XLTM. Programátoři mohou použít tento zdrojový kód pro dávkovou konverzi SPREADSHEETML na XLTM v jakékoli C++ aplikaci.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

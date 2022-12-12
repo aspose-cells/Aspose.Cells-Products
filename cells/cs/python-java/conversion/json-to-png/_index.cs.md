@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést JSON na PNG přes Python
-url: /cs/python-java/conversion/json-to-png/
+
 description: Ukázkový kód pro převod json na png Python. Použijte API ukázkový kód pro dávkový převod souborů json na png v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل HTML إلى MARKDOWN عبر C#
-url: /ar/net/conversion/html-to-markdown/
+
 description: نموذج كود لـ html للتخفيض C# للتحويل. استخدم API مثال الكود لملفات html الدفعية لتحويل العلامات المميزة داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

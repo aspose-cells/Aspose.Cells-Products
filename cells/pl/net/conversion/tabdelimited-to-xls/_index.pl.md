@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj TABDELIMITED na XLS przez C#
-url: /pl/net/conversion/tabdelimited-to-xls/
+
 description: Przykładowy kod dla konwersji rozdzielanej tabulatorami do xls C#. Użyj przykładowego kodu API dla plików wsadowych rozdzielanych tabulatorami do konwersji xls w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

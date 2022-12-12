@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLTM na XLSM přes Java 
-url: /cs/java/conversion/xltm-to-xlsm/ 
+
 description: Ukázkový konverzní kód Java pro formát XLTM na soubor XLSM. Programátoři mohou použít tento příklad kódu k exportu tabulek Excelu a OpenOffice do XLSM v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

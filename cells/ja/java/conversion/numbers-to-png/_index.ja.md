@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してNUMBERSをPNGに変換する 
-url: /ja/java/conversion/numbers-to-png/ 
+
 description: NUMBERS形式のPNGファイルへのJava変換コードのサンプル。プログラマーは、このサンプルコードを使用して、WebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをPNGにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

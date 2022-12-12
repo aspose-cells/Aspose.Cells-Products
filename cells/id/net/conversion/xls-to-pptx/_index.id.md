@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan XLS ke PPTX melalui C#
-url: /id/net/conversion/xls-to-pptx/
+
 description: Contoh kode untuk konversi xls ke pptx C#. Gunakan API kode contoh untuk file batch xls ke konversi pptx dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TXT na JPEG přes Python
-url: /cs/python-java/conversion/txt-to-jpeg/
+
 description: Ukázkový kód pro převod txt na jpeg Python. Použijte API ukázkový kód pro dávkový převod souborů txt na jpeg v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

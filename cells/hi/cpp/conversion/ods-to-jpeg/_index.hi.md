@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ एप्लिकेशन के माध्यम से ODS को JPEG में बदलें 
 weight: 7230
-url: /hi/cpp/conversion/ods-to-jpeg/ 
+
 description: नमूना C++ ODS दस्तावेज़ के लिए JPEG स्वरूप में रूपांतरण कोड। प्रोग्रामर इस स्रोत कोड का उपयोग किसी भी C++ एप्लिकेशन में ODS से JPEG रूपांतरण के बैच के लिए कर सकते हैं।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

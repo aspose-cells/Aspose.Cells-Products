@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++アプリケーションを介してXLTをTXTに変換する 
-url: /ja/cpp/conversion/xlt-to-txt/ 
+
 description: XLTドキュメントからTXT形式へのサンプルC++変換コード。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でXLTからTXTへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

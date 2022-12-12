@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie TABDELIMITED über Python in MHTML
-url: /de/python-java/conversion/tabdelimited-to-mhtml/
+
 description: Beispielcode für die Umwandlung von tabulatorgetrennt in mhtml Python. Verwenden Sie den API-Beispielcode für die Batch-Konvertierung von tabulatorgetrennten Dateien in MHTML innerhalb der Anwendung Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

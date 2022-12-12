@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to XLAM via Python
-url: /python-net/conversion/numbers-to-xlam/
+
 description: Sample code for numbers to xlam Python conversion. Use API example code for batch numbers files to xlam conversion within Python application.
 ---
 

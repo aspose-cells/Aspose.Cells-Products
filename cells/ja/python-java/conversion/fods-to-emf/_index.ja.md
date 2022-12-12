@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してFODSをEMFに変換します
-url: /ja/python-java/conversion/fods-to-emf/
+
 description: fodsからemfPythonへの変換のサンプルコード。 Pythonアプリケーション内で変換をemfするためのバッチfodファイルのAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést SPREADSHEETML na TIFF přes Python
-url: /cs/python-java/conversion/spreadsheetml-to-tiff/
+
 description: Ukázkový kód pro konverzi tabulky ml na tiff Python. Použijte API ukázkový kód pro dávkové soubory tabulkového procesoruml k převodu tiff v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

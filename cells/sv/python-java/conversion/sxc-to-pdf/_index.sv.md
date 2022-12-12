@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera SXC till PDF via Python
-url: /sv/python-java/conversion/sxc-to-pdf/
+
 description: Exempelkod för konvertering av sxc till pdf Python. Använd API exempelkod för batch-sxc-filer till pdf-konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

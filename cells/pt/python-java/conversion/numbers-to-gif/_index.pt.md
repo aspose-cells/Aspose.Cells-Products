@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter NUMBERS para GIF via Python
-url: /pt/python-java/conversion/numbers-to-gif/
+
 description: Código de exemplo para conversão de números para gif Python. Use o código de exemplo API para arquivos de números de lote para conversão gif no aplicativo Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

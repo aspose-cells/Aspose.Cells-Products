@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 C# 將 XLS 轉換為 SPREADSHEETML
-url: /zh-hant/net/conversion/xls-to-spreadsheetml/
+
 description: xls 到電子表格的示例代碼 C# 轉換。在 VB.NET、Asp.NET 或任何基於 .NET 的應用程序中使用 API 示例代碼將批量 xls 文件轉換為電子表格。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

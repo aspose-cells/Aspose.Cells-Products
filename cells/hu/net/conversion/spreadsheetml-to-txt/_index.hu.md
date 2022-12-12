@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SPREADSHEETML konvertálása TXT-re a következőn keresztül: C#"
-url: /hu/net/conversion/spreadsheetml-to-txt/
+
 description: Mintakód a táblázatkezelőből txt-be C#. Használjon API példakódot a kötegelt táblázatkezelő fájlok txt konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

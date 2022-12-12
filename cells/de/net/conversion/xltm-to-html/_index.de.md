@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie XLTM in HTML über C#
-url: /de/net/conversion/xltm-to-html/
+
 description: Beispielcode für die Umwandlung von xltm in html C#. Verwenden Sie API Beispielcode für die Batch-Konvertierung von xltm-Dateien in HTML in VB.NET, Asp.NET oder einer beliebigen .NET-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

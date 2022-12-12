@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Konvertálja az XLS-t XLSB-vé a következőn keresztül: C#"
-url: /hu/net/conversion/xls-to-xlsb/
+
 description: Mintakód az xls–xlsb C# konverzióhoz. Használjon API példakódot a kötegelt xls fájlok xlsb konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

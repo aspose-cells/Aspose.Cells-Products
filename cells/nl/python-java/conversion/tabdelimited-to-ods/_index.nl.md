@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer TABDELIMITED naar ODS via Python
-url: /nl/python-java/conversion/tabdelimited-to-ods/
+
 description: Voorbeeldcode voor door tabs gescheiden tot ods Python conversie. Gebruik API voorbeeldcode voor batch-tabdelimited-bestanden naar ods-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

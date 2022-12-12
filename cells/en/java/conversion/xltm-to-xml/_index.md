@@ -1,6 +1,6 @@
 ---
 title: Convert XLTM to XML via Java 
-url: /java/conversion/xltm-to-xml/
+
 description: Convert XLTM to XML format in Java code. Save XLTM as XML using Java.
 ---
 

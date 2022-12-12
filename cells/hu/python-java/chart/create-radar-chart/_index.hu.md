@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Hozzon létre radardiagramokat a következőn keresztül: Python"
-url: /hu/python-java/create-radar-chart/
+
 description: Python Mintakód radardiagramok létrehozásához Excelbe a Python Library használatával. Használja ezt a kódot radardiagram létrehozásához MS Excelben a Python alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

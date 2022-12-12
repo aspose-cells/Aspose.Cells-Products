@@ -1,7 +1,7 @@
-﻿---
+---
 title: Odblokuj dokument XLSX przez Java 
 weight: 310
-url: /pl/java/unlock/xlsx/ 
+
 description: Java przykładowy kod do odblokowania chronionego hasłem pliku XLSX w Java środowisku wykonawczym dla aplikacji JSP/JSF i aplikacji komputerowych.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

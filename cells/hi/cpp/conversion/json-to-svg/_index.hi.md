@@ -1,6 +1,6 @@
-﻿---
+---
 title: JSON को C++ एप्लिकेशन के माध्यम से SVG में बदलें 
-url: /hi/cpp/conversion/json-to-svg/ 
+
 description: नमूना C++ जेएसओएन दस्तावेज़ के लिए एसवीजी प्रारूप में रूपांतरण कोड। प्रोग्रामर इस स्रोत कोड का उपयोग किसी भी C++ एप्लिकेशन में JSON से SVG रूपांतरण के बैच के लिए कर सकते हैं।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

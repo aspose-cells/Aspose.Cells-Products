@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera TXT till DOCX via Python
-url: /sv/python-java/conversion/txt-to-docx/
+
 description: Exempelkod för konvertering från txt till docx Python. Använd API exempelkod för batch-txt-filer till docx-konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLSB na SVG přes Python
-url: /cs/python-java/conversion/xlsb-to-svg/
+
 description: Ukázkový kód pro převod xlsb na svg Python. Použijte ukázkový kód API pro dávkový převod souborů xlsb na svg v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

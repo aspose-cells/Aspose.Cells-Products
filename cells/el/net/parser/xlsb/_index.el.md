@@ -1,7 +1,7 @@
-﻿---
+---
 title: Εξαγωγή κειμένου και εικόνων από έγγραφο XLSB μέσω .NET 
 weight: 2200
-url: /el/net/parser/xlsb/ 
+
 description: C# πηγαίος κώδικας για εξαγωγή κειμένου και εικόνων από αρχείο XLSB σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

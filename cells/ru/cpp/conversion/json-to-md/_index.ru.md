@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование JSON в MD через приложение C++ 
-url: /ru/cpp/conversion/json-to-md/ 
+
 description: Пример кода преобразования C++ для документа JSON в формат MD. Программисты могут использовать этот исходный код для пакетного преобразования JSON в MD в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

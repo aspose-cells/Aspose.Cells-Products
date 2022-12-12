@@ -1,6 +1,6 @@
-﻿---
+---
 title: Fusionner les fichiers TSV via C++ 
-url: /fr/cpp/merger/tsv/ 
+
 description: C++ Exemple de code pour combiner des documents TSV sur C++ Runtime Environment pour Windows 32 bits, Windows 64 bits et Linux 64 bits.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

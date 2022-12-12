@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 Python 將 XLTX 轉換為 EMF
-url: /zh-hant/python-java/conversion/xltx-to-emf/
+
 description: xltx 到 emf Python 轉換的示例代碼。將 API 示例代碼用於批處理 xltx 文件到 Python 應用程序中的 emf 轉換。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

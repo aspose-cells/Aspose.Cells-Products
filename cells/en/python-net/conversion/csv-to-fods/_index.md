@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to FODS via Python
-url: /python-net/conversion/csv-to-fods/
+
 description: Sample code for csv to fods Python conversion. Use API example code for batch csv files to fods conversion within Python application.
 ---
 

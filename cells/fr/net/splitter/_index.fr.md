@@ -1,6 +1,6 @@
-﻿---
+---
 title: Diviser la feuille de calcul Excel en C#
-url: /fr/net/splitter/
+
 description: C# codes sources expliquant comment diviser des fichiers Microsoft Excel en plusieurs fichiers dans les applications Visual C#.NET
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

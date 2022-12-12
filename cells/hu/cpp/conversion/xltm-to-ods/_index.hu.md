@@ -1,6 +1,6 @@
-﻿---
+---
 title: Az XLTM konvertálása ODS-re a C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/xltm-to-ods/ 
+
 description: Minta C++ konverziós kód az XLTM dokumentumhoz ODS formátumba. A programozók ezt a forráskódot használhatják az XLTM-ből ODS-be kötegelt konvertáláshoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

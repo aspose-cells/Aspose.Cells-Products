@@ -1,7 +1,7 @@
-﻿---
+---
 title: Rechercher et remplacer du texte dans le document XLSB via .NET 
 weight: 3890
-url: /fr/net/redaction/xlsb/ 
+
 description: Code source C# pour masquer les informations sensibles dans le fichier XLSB sur .NET Framework, .NET Core, Mono ou Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Создание радарных диаграмм с помощью Python
-url: /ru/python-java/create-radar-chart/
+
 description: Python Пример кода для создания радарных диаграмм в Excel с использованием библиотеки Python. Используйте этот код для создания радарной диаграммы в MS Excel в приложении на основе Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

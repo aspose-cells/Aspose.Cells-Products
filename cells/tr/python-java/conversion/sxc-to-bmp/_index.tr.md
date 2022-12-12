@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla SXC'yi BMP'ye dönüştürün
-url: /tr/python-java/conversion/sxc-to-bmp/
+
 description: sxc'den bmp'ye Python dönüştürme için örnek kod. Python uygulamasında toplu sxc dosyalarının bmp'ye dönüştürülmesi için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

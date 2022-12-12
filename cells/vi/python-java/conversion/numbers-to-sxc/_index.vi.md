@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển NUMBERS thành SXC qua Python
-url: /vi/python-java/conversion/numbers-to-sxc/
+
 description: Mã mẫu cho chuyển đổi số thành sxc Python. Sử dụng mã mẫu API cho các tệp số lô để chuyển đổi sxc trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

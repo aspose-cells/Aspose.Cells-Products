@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLSB belgesini .NET aracılığıyla koruyun ve kilitleyin 
 weight: 5920
-url: /tr/net/protect/xlsb/ 
+
 description: .NET Framework, .NET Core, Mono veya Xamarin Platformlarında şifre kullanarak XLSB dosyasını kilitlemek için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

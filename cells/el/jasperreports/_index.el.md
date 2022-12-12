@@ -1,7 +1,7 @@
-﻿---
+---
 title: Εξαγωγή αναφορών στο Excel XLS XLSX PDF ODS σε JasperReports και JasperServer 
 weight: 9460
-url: /el/jasperreports/ 
+
 description: Εξαγωγή αναφορών από Jasper Reports και JasperServer σε μορφή Excel XLS XLSX PDF ODS TXT και SpreadsheetML. Εκτυπώστε επίσης αναφορές ως υπολογιστικά φύλλα του Excel
 ---
 {{< blocks/products/pf/main-wrap-class >}}

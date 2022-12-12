@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLSM إلى XLSB عبر تطبيق C++ 
-url: /ar/cpp/conversion/xlsm-to-xlsb/ 
+
 description: نموذج C++ رمز تحويل لمستند XLSM إلى تنسيق XLSB. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل XLSM إلى XLSB دفعة داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

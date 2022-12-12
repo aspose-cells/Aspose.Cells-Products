@@ -1,6 +1,6 @@
-﻿---
+---
 title: "CSV konvertálása MD formátumba a következőn keresztül: Java "
-url: /hu/java/conversion/csv-to-md/ 
+
 description: Minta Java konverziós kód a CSV-formátumhoz MD-fájllá. A programozók ezt a példakódot használhatják Excel- és OpenOffice-táblázatok exportálására MD-re bármely web- vagy asztali Java-alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

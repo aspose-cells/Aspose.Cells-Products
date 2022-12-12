@@ -1,7 +1,7 @@
-﻿---
+---
 title: Gere relatórios em arquivos XLS via .NET 
 weight: 1700
-url: /pt/net/assembly/xls/ 
+
 description: C# código-fonte para gerar relatórios em formato XLS em plataformas .NET Framework, .NET Core, Mono ou Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

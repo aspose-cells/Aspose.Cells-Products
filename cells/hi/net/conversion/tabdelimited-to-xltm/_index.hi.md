@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# के माध्यम से TABDELIMITED को XLTM में बदलें
-url: /hi/net/conversion/tabdelimited-to-xltm/
+
 description: xltm C# रूपांतरण के लिए सीमित टैब के लिए नमूना कोड। VB.NET, Asp.NET या किसी .NET आधारित एप्लिकेशन के भीतर xltm रूपांतरण में बैच टैबसीमांकित फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

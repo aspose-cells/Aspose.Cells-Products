@@ -1,7 +1,7 @@
-﻿---
+---
 title: Объединить файлы XLSX через Java 
 weight: 8930
-url: /ru/java/merger/xlsx/ 
+
 description: Пример кода Java для объединения документов XLSX в Java среде выполнения для приложений JSP/JSF и настольных приложений.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

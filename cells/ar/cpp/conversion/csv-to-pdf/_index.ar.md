@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل CSV إلى PDF عبر تطبيق C++ 
 weight: 8330
-url: /ar/cpp/conversion/csv-to-pdf/ 
+
 description: نموذج C++ رمز التحويل لمستند CSV إلى تنسيق PDF. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل CSV إلى PDF دفعة داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

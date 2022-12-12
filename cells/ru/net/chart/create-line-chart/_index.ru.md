@@ -1,6 +1,6 @@
-﻿---
+---
 title: Создание линейных диаграмм с помощью C# 
-url: /ru/net/create-line-chart/ 
+
 description: C# Пример кода для создания линейных диаграмм в Excel с использованием библиотеки .NET. Используйте этот код для создания линейной диаграммы в MS Excel в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

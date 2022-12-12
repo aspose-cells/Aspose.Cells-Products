@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TSV konvertálása XPS-re a következőn keresztül: C#"
-url: /hu/net/conversion/tsv-to-xps/
+
 description: Mintakód a tsv–xps C# konverzióhoz. Használjon API példakódot a tsv fájlok kötegelt xps-re konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

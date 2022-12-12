@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to MHTML via C#
-url: /net/conversion/ods-to-mhtml/
+
 description: Convert ODS to MHTML format in C# code. Save ODS as MHTML using VB.NET, Asp.NET or any .NET based application.
 ---
 

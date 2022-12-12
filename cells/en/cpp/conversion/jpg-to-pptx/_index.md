@@ -1,6 +1,6 @@
 ---
 title: Convert JPG to PPTX via C++
-url: /cpp/conversion/jpg-to-pptx/
+
 description: Convert JPG to PPTX format in C++ code. Save JPG as PPTX using C++.
 ---
 

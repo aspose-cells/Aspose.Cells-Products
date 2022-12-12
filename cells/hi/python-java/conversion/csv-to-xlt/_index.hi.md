@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python के माध्यम से CSV को XLT में बदलें
-url: /hi/python-java/conversion/csv-to-xlt/
+
 description: csv से xlt Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर बैच सीएसवी फाइलों से एक्सएलटी रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

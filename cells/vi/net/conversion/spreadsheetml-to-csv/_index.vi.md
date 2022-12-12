@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi SPREADSHEETML sang CSV qua C#
-url: /vi/net/conversion/spreadsheetml-to-csv/
+
 description: Mã mẫu cho chuyển đổi từ bảng tínhml sang csv C#. Sử dụng API mã mẫu cho hàng loạt tệpml bảng tính để chuyển đổi csv trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

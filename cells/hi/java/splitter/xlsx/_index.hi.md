@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLSX फ़ाइलों को Java के द्वारा विभाजित करें 
 weight: 3250
-url: /hi/java/splitter/xlsx/ 
+
 description: Java XLSX दस्तावेज़ों को विभाजित करने के लिए नमूना कोड Java JSP/JSF अनुप्रयोग और डेस्कटॉप अनुप्रयोगों के लिए रनटाइम परिवेश।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

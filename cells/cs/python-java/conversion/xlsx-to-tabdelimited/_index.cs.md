@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLSX na TABDELIMITED přes Python
-url: /cs/python-java/conversion/xlsx-to-tabdelimited/
+
 description: Ukázkový kód pro převod xlsx na Python oddělený tabulátory. Použijte API ukázkový kód pro dávkový převod souborů xlsx na tabulátory v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

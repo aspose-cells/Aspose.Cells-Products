@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python के माध्यम से TXT को CSV में बदलें
-url: /hi/python-java/conversion/txt-to-csv/
+
 description: txt से csv Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर csv रूपांतरण में बैच txt फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

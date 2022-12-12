@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 Python 將 ODS 轉換為 TABDELIMITED
-url: /zh-hant/python-java/conversion/ods-to-tabdelimited/
+
 description: ods 到製表符分隔的 Python 轉換的示例代碼。使用 Python 應用程序中批量 ods 文件的 API 示例代碼到製表符分隔的轉換。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

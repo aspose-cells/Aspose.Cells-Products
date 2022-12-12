@@ -1,6 +1,6 @@
-﻿---
+---
 title: एमएचटीएमएल को Python के माध्यम से मार्कडाउन में बदलें
-url: /hi/python-java/conversion/mhtml-to-markdown/
+
 description: Python रूपांतरण को चिह्नित करने के लिए mhtml के लिए नमूना कोड। Python एप्लिकेशन के भीतर रूपांतरण को मार्कडाउन करने के लिए बैच एमएचटीएमएल फाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

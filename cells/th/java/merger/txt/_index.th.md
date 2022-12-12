@@ -1,7 +1,7 @@
-﻿---
+---
 title: รวมไฟล์ TXT ผ่าน Java 
 weight: 4480
-url: /th/java/merger/txt/ 
+
 description: Java โค้ดตัวอย่างเพื่อรวมเอกสาร TXT ใน Java Runtime Environment สำหรับแอปพลิเคชัน JSP/JSF และแอปพลิเคชันเดสก์ท็อป
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

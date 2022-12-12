@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TSV konvertálása MARKDOWN-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/tsv-to-markdown/
+
 description: Mintakód a tsv-hez a Python konverzióhoz. Használjon API példakódot a kötegelt tsv-fájlokhoz a Python alkalmazáson belüli leértékeléshez.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

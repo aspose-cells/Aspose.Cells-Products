@@ -1,6 +1,6 @@
-﻿---
+---
 title: TABDELIMITED'i Python aracılığıyla HTML'ye dönüştürün
-url: /tr/python-java/conversion/tabdelimited-to-html/
+
 description: Sekmeyle sınırlandırılmış html Python dönüşümü için örnek kod. Python uygulamasında toplu sekmeyle ayrılmış dosyaları html'ye dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

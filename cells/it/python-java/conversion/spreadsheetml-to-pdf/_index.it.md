@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converti FOGLIO DI LAVORO ML in PDF tramite Python
-url: /it/python-java/conversion/spreadsheetml-to-pdf/
+
 description: Codice di esempio per la conversione da foglio di calcoloml a pdf Python. Usa API codice di esempio per la conversione batch di file da fogli di lavoro ml in pdf all'interno dell'applicazione Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

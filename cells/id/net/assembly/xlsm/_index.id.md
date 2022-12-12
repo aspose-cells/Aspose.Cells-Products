@@ -1,7 +1,7 @@
-﻿---
+---
 title: Hasilkan Laporan dalam File XLSM melalui .NET 
 weight: 4400
-url: /id/net/assembly/xlsm/ 
+
 description: C# kode sumber untuk menghasilkan laporan format XLSM di .NET Framework, .NET Core, Mono atau Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

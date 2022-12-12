@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++アプリケーションを介してODSをXPSに変換する 
 weight: 1930
-url: /ja/cpp/conversion/ods-to-xps/ 
+
 description: ODSドキュメントからXPS形式へのサンプルC++変換コード。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でODSからXPSへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

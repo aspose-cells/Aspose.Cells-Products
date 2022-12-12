@@ -1,6 +1,6 @@
-﻿---
+---
 title: Excel-diagrammen maken en converteren naar afbeeldingen via .NET
-url: /nl/net/chart/
+
 description: C# broncode om een diagram of diagram in Microsoft Excel te tekenen en om te zetten met behulp van .NET Bibliotheek. 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

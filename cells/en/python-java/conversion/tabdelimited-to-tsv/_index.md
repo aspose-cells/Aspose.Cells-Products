@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to TSV via Python
-url: /python-java/conversion/tabdelimited-to-tsv/
+
 description: Convert TABDELIMITED to TSV format in Python code. Save TABDELIMITED as TSV using Python.
 ---
 

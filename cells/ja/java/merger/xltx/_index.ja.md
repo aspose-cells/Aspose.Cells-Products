@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してXLTXファイルをマージします 
 weight: 680
-url: /ja/java/merger/xltx/ 
+
 description: Java JSP/JSFアプリケーションとデスクトップアプリケーションのランタイム環境でXLTXドキュメントを組み合わせるためのサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

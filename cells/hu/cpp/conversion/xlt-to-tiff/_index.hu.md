@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLT-t TIFF-re a(z) C++ alkalmazással 
-url: /hu/cpp/conversion/xlt-to-tiff/ 
+
 description: Minta C++ konverziós kód XLT-dokumentumhoz TIFF formátumba. A programozók ezt a forráskódot használhatják kötegelt XLT-TIFF-konverzióhoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

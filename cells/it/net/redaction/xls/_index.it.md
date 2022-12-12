@@ -1,7 +1,7 @@
-﻿---
+---
 title: Cerca e sostituisci testo nel documento XLS tramite .NET 
 weight: 7280
-url: /it/net/redaction/xls/ 
+
 description: C# codice sorgente per oscurare le informazioni riservate nel file XLS su piattaforme .NET Framework, .NET Core, Mono o Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

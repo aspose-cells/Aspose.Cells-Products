@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi NUMBER ke JPEG melalui Python
-url: /id/python-java/conversion/numbers-to-jpeg/
+
 description: Contoh kode untuk konversi angka ke jpeg Python. Gunakan API kode contoh untuk file nomor batch ke konversi jpeg dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to XLAM via C#
-url: /net/conversion/tabdelimited-to-xlam/
+
 description: Convert TABDELIMITED to XLAM format in C# code. Save TABDELIMITED as XLAM using VB.NET, Asp.NET or any .NET based application.
 ---
 

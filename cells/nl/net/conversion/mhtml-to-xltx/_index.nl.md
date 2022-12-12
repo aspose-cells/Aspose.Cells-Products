@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer MHTML naar XLTX via C#
-url: /nl/net/conversion/mhtml-to-xltx/
+
 description: Voorbeeldcode voor conversie van mhtml naar xltx C#. Gebruik API voorbeeldcode voor batch-mhtml-bestanden naar xltx-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

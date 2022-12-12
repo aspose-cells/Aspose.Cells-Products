@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TSV na BMP prostřednictvím Python
-url: /cs/python-java/conversion/tsv-to-bmp/
+
 description: Ukázkový kód pro převod tsv na bmp Python. Použijte API ukázkový kód pro dávkový převod souborů tsv na bmp v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

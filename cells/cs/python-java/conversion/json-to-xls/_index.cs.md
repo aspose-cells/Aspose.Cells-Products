@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést JSON na XLS přes Python
-url: /cs/python-java/conversion/json-to-xls/
+
 description: Ukázkový kód pro převod json na xls Python. Použijte API ukázkový kód pro dávkový převod souborů json na xls v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

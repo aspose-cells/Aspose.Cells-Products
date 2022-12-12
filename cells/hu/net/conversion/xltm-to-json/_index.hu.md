@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLTM konvertálása JSON-ra a következőn keresztül: C#"
-url: /hu/net/conversion/xltm-to-json/
+
 description: Mintakód az xltm–json C# konverzióhoz. Használjon API példakódot kötegelt xltm fájlok JSON-konverziójához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

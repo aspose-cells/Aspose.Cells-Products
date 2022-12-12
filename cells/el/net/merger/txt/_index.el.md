@@ -1,7 +1,7 @@
-﻿---
+---
 title: Συγχώνευση αρχείων TXT μέσω .NET 
 weight: 7350
-url: /el/net/merger/txt/ 
+
 description: C# πηγαίος κώδικας για συνδυασμό εγγράφων TXT σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

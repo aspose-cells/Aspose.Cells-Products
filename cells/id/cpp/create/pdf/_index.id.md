@@ -1,6 +1,6 @@
-﻿---
+---
 title: Buat File PDF melalui C++ 
-url: /id/cpp/create-pdf/ 
+
 description: C++ Contoh kode untuk menghasilkan file PDF. Gunakan kode ini untuk membuat file PDF dalam aplikasi berbasis C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# के माध्यम से ODS को TIFF में बदलें
-url: /hi/net/conversion/ods-to-tiff/
+
 description: ऑड्स टू टिफ़ C# कन्वर्ज़न के लिए नमूना कोड। VB.NET, Asp.NET या किसी भी .NET आधारित एप्लिकेशन के भीतर रूपांतरण के लिए बैच ods फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

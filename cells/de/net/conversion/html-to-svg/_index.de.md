@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie HTML in SVG über C#
-url: /de/net/conversion/html-to-svg/
+
 description: Beispielcode für die Umwandlung von HTML in SVG C#. Verwenden Sie API Beispielcode für die Batch-Konvertierung von HTML-Dateien in SVG innerhalb von VB.NET, Asp.NET oder einer beliebigen .NET-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

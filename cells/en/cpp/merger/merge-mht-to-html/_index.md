@@ -1,6 +1,6 @@
 ---
 title: Merge MHT to HTML Files via C++ 
-url: /cpp/merger/merge-mht-to-html/ 
+
 description: Merge MHT to HTML file in C++ code. Combine MHT to HTML file using C++.
 ---
 

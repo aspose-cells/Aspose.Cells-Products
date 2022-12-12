@@ -1,7 +1,7 @@
-﻿---
+---
 title:  XLSBドキュメントチャートから.NET経由の画像へ 
 weight: 8560
-url: /ja/net/chart/xlsb/ 
+
 description: .NETフレームワーク、.NETコア、Mono、またはXamarinプラットフォーム上のXLSBファイルでチャートまたは図を描画および変換するためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

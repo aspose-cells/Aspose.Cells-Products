@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi NUMBERS thành XLSB qua Python
-url: /vi/python-java/conversion/numbers-to-xlsb/
+
 description: Mã mẫu cho chuyển đổi số thành xlsb Python. Sử dụng mã ví dụ API cho các tệp số lô để chuyển đổi xlsb trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

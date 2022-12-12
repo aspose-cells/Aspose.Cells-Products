@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir HTML en XML via C#
-url: /fr/net/conversion/html-to-xml/
+
 description: Exemple de code pour la conversion html vers xml C#. Utilisez l'exemple de code API pour la conversion de fichiers html par lots en xml dans VB.NET, Asp.NET ou toute application basée sur .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

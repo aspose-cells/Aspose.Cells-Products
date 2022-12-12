@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter TABDELIMITED para XLTM por meio do aplicativo C++ 
-url: /pt/cpp/conversion/tabdelimited-to-xltm/ 
+
 description: Exemplo de código de conversão C++ do documento TABDELIMITED para o formato XLTM. Os programadores podem usar esse código-fonte para conversão em lote de TABDELIMITED para XLTM em qualquer aplicativo C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

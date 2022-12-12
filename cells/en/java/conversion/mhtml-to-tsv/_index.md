@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to TSV via Java 
-url: /java/conversion/mhtml-to-tsv/
+
 description: Convert MHTML to TSV format in Java code. Save MHTML as TSV using Java.
 ---
 

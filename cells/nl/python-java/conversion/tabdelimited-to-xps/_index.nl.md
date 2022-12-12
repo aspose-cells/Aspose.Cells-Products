@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer TABDELIMITED naar XPS via Python
-url: /nl/python-java/conversion/tabdelimited-to-xps/
+
 description: Voorbeeldcode voor door tabs gescheiden naar xps Python conversie. Gebruik API voorbeeldcode voor batch-tabdelimited-bestanden naar xps-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

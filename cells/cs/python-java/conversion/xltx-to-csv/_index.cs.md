@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLTX na CSV přes Python
-url: /cs/python-java/conversion/xltx-to-csv/
+
 description: Ukázkový kód pro převod xltx na csv Python. Použijte API ukázkový kód pro dávkový převod souborů xltx na csv v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

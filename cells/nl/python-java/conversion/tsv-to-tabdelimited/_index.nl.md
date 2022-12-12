@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer TSV naar TABDELIMITED via Python
-url: /nl/python-java/conversion/tsv-to-tabdelimited/
+
 description: Voorbeeldcode voor conversie van tsv naar tabgescheiden Python. Gebruik API voorbeeldcode voor batch-tsv-bestanden naar door tabs gescheiden conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

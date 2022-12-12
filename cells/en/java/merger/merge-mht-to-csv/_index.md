@@ -1,6 +1,6 @@
 ---
 title: Merge MHT to CSV Files via Java 
-url: /java/merger/merge-mht-to-csv/ 
+
 description: Merge MHT to CSV file in Java code. Combine MHT to CSV file using Java based desktop or web application.
 ---
 

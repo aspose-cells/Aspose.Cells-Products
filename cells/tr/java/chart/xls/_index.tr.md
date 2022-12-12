@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java üzerinden XLS belge grafiği 
 weight: 1050
-url: /tr/java/chart/xls/ 
+
 description: Java Runtime Environment for JSP/JSF Application and Desktop Applications üzerinde XLS dosyasında çizelge veya diyagram çizmek ve dönüştürmek için Java örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

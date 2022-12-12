@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++を介して開かずにODSドキュメントを検索する 
 weight: 3300
-url: /ja/cpp/search/ods/ 
+
 description: C++ Windows 32ビット、Windows 64ビット、およびLinux64ビットのランタイム環境でODSファイル内のパターンを含む単語を検索するためのサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

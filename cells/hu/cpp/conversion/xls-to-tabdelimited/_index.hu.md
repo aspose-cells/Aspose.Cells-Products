@@ -1,6 +1,6 @@
-﻿---
+---
 title: XLS konvertálása TABDELIMITED-re C++ alkalmazással 
-url: /hu/cpp/conversion/xls-to-tabdelimited/ 
+
 description: Minta C++ konverziós kód XLS dokumentumhoz TABDELIMITED formátumba. A programozók ezt a forráskódot használhatják kötegelt XLS-ből TABDELIMITED konvertáláshoz bármely C++ alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLSB в JPG с помощью приложения C++ 
-url: /ru/cpp/conversion/xlsb-to-jpg/ 
+
 description: Пример кода преобразования C++ для документа XLSB в формат JPG. Программисты могут использовать этот исходный код для пакетного преобразования XLSB в JPG в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

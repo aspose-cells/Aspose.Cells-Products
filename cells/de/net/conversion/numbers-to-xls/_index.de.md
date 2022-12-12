@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie NUMBERS in XLS über C#
-url: /de/net/conversion/numbers-to-xls/
+
 description: Beispielcode für die Umwandlung von Zahlen in xls C#. Verwenden Sie den API Beispielcode für die Konvertierung von Stapelnummerndateien in xls innerhalb von VB.NET, Asp.NET oder einer beliebigen .NET-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

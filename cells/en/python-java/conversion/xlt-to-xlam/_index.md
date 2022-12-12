@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to XLAM via Python
-url: /python-java/conversion/xlt-to-xlam/
+
 description: Convert XLT to XLAM format in Python code. Save XLT as XLAM using Python.
 ---
 

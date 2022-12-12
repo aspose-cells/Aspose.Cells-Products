@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLS na XLTX přes Python
-url: /cs/python-java/conversion/xls-to-xltx/
+
 description: Ukázkový kód pro převod xls na xltx Python. Použijte API ukázkový kód pro dávkový převod souborů xls na xltx v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

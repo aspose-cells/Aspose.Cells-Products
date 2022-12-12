@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversi JSON ke XLS melalui Java 
 weight: 7220
-url: /id/java/conversion/json-to-xls/ 
+
 description: Contoh Java kode konversi untuk format JSON ke file XLS. Pemrogram dapat menggunakan kode contoh ini untuk mengekspor spreadsheet Excel & OpenOffice ke XLS dalam Aplikasi berbasis Web atau Desktop Java apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

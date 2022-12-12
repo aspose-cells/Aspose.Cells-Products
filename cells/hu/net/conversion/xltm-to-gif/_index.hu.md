@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLTM konvertálása GIF formátumba a következőn keresztül: C#"
-url: /hu/net/conversion/xltm-to-gif/
+
 description: Mintakód xltm-ből gif-be C#. Használjon API példakódot kötegelt xltm fájlok gif konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

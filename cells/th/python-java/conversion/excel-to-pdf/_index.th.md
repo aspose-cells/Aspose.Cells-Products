@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง EXCEL เป็น PDF ผ่าน Python
-url: /th/python-java/conversion/excel-to-pdf/
+
 description: โค้ดตัวอย่างสำหรับการแปลง excel เป็น pdf Python ใช้โค้ดตัวอย่าง API สำหรับไฟล์แบตช์ excel เป็นการแปลง pdf ภายในแอปพลิเคชัน Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

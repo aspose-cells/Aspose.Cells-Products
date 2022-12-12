@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Konvertálja az XLSM-et SXC-vé a következőn keresztül: C#"
-url: /hu/net/conversion/xlsm-to-sxc/
+
 description: Mintakód az xlsm–sxc C# konverzióhoz. Használjon API példakódot a kötegelt xlsm fájlok sxc konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

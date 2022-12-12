@@ -1,6 +1,6 @@
-﻿---
+---
 title: Создание файлов HTML с помощью C# 
-url: /ru/net/create-html/ 
+
 description: C# Пример кода для создания HTML-документов. Используйте этот код для создания файлов HTML в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

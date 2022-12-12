@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer TXT naar BMP via C++ applicatie 
-url: /nl/cpp/conversion/txt-to-bmp/ 
+
 description: Voorbeeld C++ conversiecode voor TXT-document naar BMP-indeling. Programmeurs kunnen deze broncode gebruiken voor batchconversie van TXT naar BMP binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

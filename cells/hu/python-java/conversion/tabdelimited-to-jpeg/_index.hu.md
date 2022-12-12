@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TABDELIMITED konvertálása JPEG formátumba a következőn keresztül: Python"
-url: /hu/python-java/conversion/tabdelimited-to-jpeg/
+
 description: Mintakód a tabulátorral elválasztott jpeg Python konverzióhoz. Használjon API példakódot a tabulátorral határolt fájlok kötegelt jpeg konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

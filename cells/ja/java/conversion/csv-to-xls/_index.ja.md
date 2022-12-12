@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してCSVをXLSに変換します 
 weight: 10120
-url: /ja/java/conversion/csv-to-xls/ 
+
 description: CSV形式のXLSファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のXLSにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

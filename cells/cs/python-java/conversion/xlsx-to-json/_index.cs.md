@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLSX na JSON přes Python
-url: /cs/python-java/conversion/xlsx-to-json/
+
 description: Ukázkový kód pro převod xlsx na json Python. Použijte API ukázkový kód pro dávkový převod souborů xlsx na json v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

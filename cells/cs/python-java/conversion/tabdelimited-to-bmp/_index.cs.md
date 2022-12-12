@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TABDELIMITED na BMP přes Python
-url: /cs/python-java/conversion/tabdelimited-to-bmp/
+
 description: Ukázkový kód pro převod tabulátorem na bmp Python. Použijte API ukázkový kód pro dávkový převod souborů oddělených tabulátory na bmp v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

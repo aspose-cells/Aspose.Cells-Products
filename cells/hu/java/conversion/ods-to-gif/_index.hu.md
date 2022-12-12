@@ -1,7 +1,7 @@
-﻿---
+---
 title: "ODS konvertálása GIF-re a következőn keresztül: Java "
 weight: 4810
-url: /hu/java/conversion/ods-to-gif/ 
+
 description: Minta Java konverziós kód az ODS-formátumhoz GIF-fájllá. A programozók ezt a példakódot használhatják Excel és OpenOffice táblázatok exportálására GIF formátumba bármely web- vagy asztali Java alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

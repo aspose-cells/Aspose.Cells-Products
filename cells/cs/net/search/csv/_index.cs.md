@@ -1,7 +1,7 @@
-﻿---
+---
 title: Prohledejte dokument CSV bez otevření prostřednictvím .NET 
 weight: 7510
-url: /cs/net/search/csv/ 
+
 description: Zdrojový kód C# pro vyhledávání slov se vzorem v souboru CSV na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

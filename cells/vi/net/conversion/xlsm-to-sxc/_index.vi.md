@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi XLSM sang SXC qua C#
-url: /vi/net/conversion/xlsm-to-sxc/
+
 description: Mã mẫu cho chuyển đổi xlsm sang sxc C#. Sử dụng API mã ví dụ cho hàng loạt tệp xlsm để chuyển đổi sxc trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

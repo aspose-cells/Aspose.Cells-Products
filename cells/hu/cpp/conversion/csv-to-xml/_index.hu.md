@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja a CSV-t XML-be a(z) C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/csv-to-xml/ 
+
 description: Minta C++ konverziós kód a CSV-dokumentumhoz XML formátumba. A programozók ezt a forráskódot használhatják kötegelt CSV-ből XML-be konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

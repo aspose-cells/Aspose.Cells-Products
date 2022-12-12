@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi NUMBER ke CSV melalui C#
-url: /id/net/conversion/numbers-to-csv/
+
 description: Contoh kode untuk angka ke csv C# konversi. Gunakan API kode contoh untuk file nomor batch ke konversi csv dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

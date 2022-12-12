@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer MHTML naar GIF via C#
-url: /nl/net/conversion/mhtml-to-gif/
+
 description: Voorbeeldcode voor conversie van mhtml naar gif C#. Gebruik API voorbeeldcode voor batch-mhtml-bestanden naar gif-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: TXT-bestanden samenvoegen via .NET 
 weight: 7350
-url: /nl/net/merger/txt/ 
+
 description: C# broncode om TXT-documenten te combineren op .NET Framework, .NET Core, Mono of Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

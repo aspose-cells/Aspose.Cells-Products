@@ -1,6 +1,6 @@
-﻿---
+---
 title: XLTX Dosyalarını C++ ile Birleştir 
-url: /tr/cpp/merger/xltx/ 
+
 description: C++ Windows 32 bit, Windows 64 bit ve Linux 64 bit için C++ Runtime Environment'da XLTX belgelerini birleştirmek için örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

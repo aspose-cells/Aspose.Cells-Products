@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل EXCEL إلى WORD عبر Python
-url: /ar/python-java/conversion/excel-to-word/
+
 description: نموذج رمز للتحويل من Excel إلى Word Python. استخدم API رمز المثال لملفات Excel الدفعية لتحويل الكلمات داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

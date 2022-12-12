@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή NUMBERS σε MARKDOWN μέσω C#
-url: /el/net/conversion/numbers-to-markdown/
+
 description: Δείγμα κωδικού για αριθμούς για τη σήμανση C# μετατροπής. Χρησιμοποιήστε API παράδειγμα κώδικα για αρχεία αριθμών παρτίδας για να επισημάνετε τη μετατροπή σε VB.NET, Asp.NET ή οποιαδήποτε εφαρμογή που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Pesquisar documento XLSB sem abrir via .NET 
 weight: 8880
-url: /pt/net/search/xlsb/ 
+
 description: C# código-fonte para pesquisar palavras com padrão no arquivo XLSB nas plataformas .NET Framework, .NET Core, Mono ou Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to SXC via C#
-url: /net/conversion/xltx-to-sxc/
+
 description: Convert XLTX to SXC format in C# code. Save XLTX as SXC using VB.NET, Asp.NET or any .NET based application.
 ---
 

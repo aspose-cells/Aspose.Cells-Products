@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi HTML sang FODS qua Python
-url: /vi/python-java/conversion/html-to-fods/
+
 description: Mã mẫu cho chuyển đổi html thành fods Python. Sử dụng mã mẫu API cho các tệp html hàng loạt để chuyển đổi fods trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

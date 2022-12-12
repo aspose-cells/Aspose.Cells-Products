@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển NUMBERS thành DIF qua C#
-url: /vi/net/conversion/numbers-to-dif/
+
 description: Mã mẫu cho các số để chuyển đổi C#. Sử dụng API mã mẫu cho các tệp số lô để chuyển đổi khác trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

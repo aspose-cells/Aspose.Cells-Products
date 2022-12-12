@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj TABDELIMITED na DOCX przez Python
-url: /pl/python-java/conversion/tabdelimited-to-docx/
+
 description: Przykładowy kod konwersji rozdzielanej tabulatorami na docx Python. Użyj przykładowego kodu API dla plików wsadowych rozdzielanych tabulatorami do konwersji docx w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Erstellen Sie Flächendiagramme über Python
-url: /de/python-java/create-area-chart/
+
 description: Python Beispielcode zum Erstellen von Flächendiagrammen in Excel mithilfe der Python-Bibliothek. Verwenden Sie diesen Code zum Erstellen eines Flächendiagramms in MS Excel innerhalb einer Python-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

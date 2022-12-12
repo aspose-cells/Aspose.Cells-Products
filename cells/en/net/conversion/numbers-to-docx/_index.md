@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to DOCX via C#
-url: /net/conversion/numbers-to-docx/
+
 description: Convert NUMBERS to DOCX format in C# code. Save NUMBERS as DOCX using VB.NET, Asp.NET or any .NET based application.
 ---
 

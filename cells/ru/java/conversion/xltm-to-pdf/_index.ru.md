@@ -1,7 +1,7 @@
-﻿---
+---
 title: Преобразование XLTM в PDF через Java 
 weight: 4600
-url: /ru/java/conversion/xltm-to-pdf/ 
+
 description: Пример кода преобразования Java для формата XLTM в файл PDF. Программисты могут использовать этот пример кода для экспорта электронных таблиц Excel и OpenOffice в формат PDF в любом веб-приложении или настольном Java приложении.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

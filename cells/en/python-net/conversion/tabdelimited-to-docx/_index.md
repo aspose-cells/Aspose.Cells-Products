@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to DOCX via Python
-url: /python-net/conversion/tabdelimited-to-docx/
+
 description: Sample code for tabdelimited to docx Python conversion. Use API example code for batch tabdelimited files to docx conversion within Python application.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to JSON via C++
-url: /cpp/conversion/ods-to-json/
+
 description: Convert ODS to JSON format in C++ code. Save ODS as JSON using C++.
 ---
 

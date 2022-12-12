@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi TSV sang DIF qua Python
-url: /vi/python-java/conversion/tsv-to-dif/
+
 description: Mã mẫu cho chuyển đổi tsv sang dif Python. Sử dụng mã mẫu API cho hàng loạt tệp tsv để chuyển đổi dif trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

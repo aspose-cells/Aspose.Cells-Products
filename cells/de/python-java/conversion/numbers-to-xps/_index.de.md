@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie NUMBERS in XPS über Python
-url: /de/python-java/conversion/numbers-to-xps/
+
 description: Beispielcode für die Umwandlung von Zahlen in xps Python. Verwenden Sie den API Beispielcode für die Konvertierung von Stapelnummerndateien in XPS innerhalb der Anwendung Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

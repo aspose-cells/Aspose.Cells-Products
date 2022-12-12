@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحرير ملفات XLSX عبر .NET 
-url: /ar/net/editor/xlsx/ 
+
 description: C# كود المصدر لتعديل مستند XLSX على الأنظمة الأساسية .NET Framework أو .NET Core أو Windows Azure Mono أو Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

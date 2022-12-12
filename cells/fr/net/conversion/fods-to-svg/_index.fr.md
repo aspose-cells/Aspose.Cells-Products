@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir FODS en SVG via C#
-url: /fr/net/conversion/fods-to-svg/
+
 description: Exemple de code pour la conversion de fods en svg C#. Utilisez l'exemple de code API pour la conversion par lots de fichiers fods en svg dans VB.NET, Asp.NET ou toute application basée sur .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

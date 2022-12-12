@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla CSV'yi XLTM'ye dönüştürün
-url: /tr/python-java/conversion/csv-to-xltm/
+
 description: csv'den xltm'ye Python dönüştürme için örnek kod. Python uygulamasında toplu csv dosyalarından xltm'ye dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

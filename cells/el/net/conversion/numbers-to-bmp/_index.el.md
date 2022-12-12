@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή NUMBERS σε BMP μέσω C#
-url: /el/net/conversion/numbers-to-bmp/
+
 description: Δείγμα κώδικα για αριθμούς για μετατροπή bmp C#. Χρησιμοποιήστε API παράδειγμα κώδικα για αρχεία αριθμών παρτίδας για μετατροπή bmp εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

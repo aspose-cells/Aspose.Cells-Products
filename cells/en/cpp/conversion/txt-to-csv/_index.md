@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to CSV via C++
-url: /cpp/conversion/txt-to-csv/
+
 description: Convert TXT to CSV format in C++ code. Save TXT as CSV using C++.
 ---
 

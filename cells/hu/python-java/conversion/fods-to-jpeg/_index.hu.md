@@ -1,6 +1,6 @@
-﻿---
+---
 title: "FODS konvertálása JPEG formátumba a következőn keresztül: Python"
-url: /hu/python-java/conversion/fods-to-jpeg/
+
 description: Mintakód a fodsból jpeg-be Python konvertáláshoz. Használjon API példakódot a kötegelt fods fájlok jpeg konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: XLS को EMF में बदलें C# के माध्यम से
-url: /hi/net/conversion/xls-to-emf/
+
 description: एक्सएलएस से ईएमएफ C# रूपांतरण के लिए नमूना कोड। VB.NET, Asp.NET या किसी .NET आधारित एप्लिकेशन के भीतर बैच xls फ़ाइलों को emf रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

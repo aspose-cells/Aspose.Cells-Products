@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to CSV via Java 
-url: /java/conversion/ods-to-csv/
+
 description: Convert ODS to CSV format in Java code. Save ODS as CSV using Java.
 ---
 

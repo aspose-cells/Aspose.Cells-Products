@@ -1,6 +1,6 @@
-﻿---
+---
 title: "HTML konvertálása XLSM-re a következőn keresztül: Java "
-url: /hu/java/conversion/html-to-xlsm/ 
+
 description: Minta Java konverziós kód HTML formátumhoz XLSM fájllá. A programozók ezt a példakódot használhatják Excel- és OpenOffice-táblázatok XLSM-be exportálására bármely web- vagy asztali Java-alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

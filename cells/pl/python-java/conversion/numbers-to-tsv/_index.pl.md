@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj NUMBERS na TSV przez Python
-url: /pl/python-java/conversion/numbers-to-tsv/
+
 description: Przykładowy kod konwersji liczb do tsv Python. Użyj przykładowego kodu API dla plików numerów partii do konwersji tsv w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

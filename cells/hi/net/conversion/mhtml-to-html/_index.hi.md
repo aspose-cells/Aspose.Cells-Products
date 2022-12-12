@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# के माध्यम से एमएचटीएमएल को एचटीएमएल में बदलें
-url: /hi/net/conversion/mhtml-to-html/
+
 description: एमएचटीएमएल से एचटीएमएल C# रूपांतरण के लिए नमूना कोड। वीबी.NET, एएसपी.NET या किसी .NET आधारित एप्लिकेशन के भीतर बैच एमएचटीएमएल फाइलों के एचटीएमएल रूपांतरण के लिए API उदाहरण कोड का प्रयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NETを介してXLSBドキュメントのテキストを検索および置換します 
 weight: 3890
-url: /ja/net/redaction/xlsb/ 
+
 description: .NETフレームワーク、.NETコア、Mono、またはXamarinプラットフォーム上のXLSBファイルの機密情報を編集するためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

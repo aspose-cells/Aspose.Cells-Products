@@ -1,7 +1,7 @@
-﻿---
+---
 title: Tách tệp XLSM qua Java 
 weight: 5670
-url: /vi/java/splitter/xlsm/ 
+
 description: Java mã mẫu để tách tài liệu XLSM trên Java Môi trường thời gian chạy cho Ứng dụng JSP / JSF và Ứng dụng trên máy tính để bàn.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

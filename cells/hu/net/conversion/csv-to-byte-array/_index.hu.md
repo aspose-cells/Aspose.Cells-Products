@@ -1,7 +1,7 @@
-﻿---
+---
 title: "CSV konvertálása bájttömbbé a következőn keresztül: C# "
 weight: 7690
-url: /hu/net/conversion/csv-to-byte-array/ 
+
 description: C# Mintakód a CSV-ből Byte Array konvertáláshoz. Használja ezt a kódot az Excel CSV-ből Byte Array konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: แปลง HTML เป็น PNG ผ่าน C++ แอปพลิเคชัน 
 weight: 4280
-url: /th/cpp/conversion/html-to-png/ 
+
 description: ตัวอย่างโค้ดการแปลง C++ สำหรับเอกสาร HTML เป็นรูปแบบ PNG โปรแกรมเมอร์สามารถใช้ซอร์สโค้ดนี้สำหรับการแปลง HTML เป็นชุดงานเป็น PNG ภายในแอปพลิเคชัน C++ ใดๆ
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

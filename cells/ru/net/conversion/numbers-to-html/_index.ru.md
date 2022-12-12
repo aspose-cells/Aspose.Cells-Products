@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование NUMBERS в HTML с помощью C#
-url: /ru/net/conversion/numbers-to-html/
+
 description: Пример кода для преобразования чисел в HTML C#. Используйте пример кода API для преобразования файлов номеров пакетов в html в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

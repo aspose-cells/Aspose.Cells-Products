@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++経由のODSドキュメントチャート 
 weight: 3820
-url: /ja/cpp/chart/ods/ 
+
 description: C++ Windows 32ビット、Windows 64ビット、およびLinux64ビットのランタイム環境でODSファイルにチャートまたは図を描画および変換するためのサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

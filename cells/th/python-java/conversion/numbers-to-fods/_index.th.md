@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง NUMBERS เป็น FODS ผ่าน Python
-url: /th/python-java/conversion/numbers-to-fods/
+
 description: โค้ดตัวอย่างสำหรับการแปลงตัวเลขเป็น fods Python ใช้รหัสตัวอย่าง API สำหรับไฟล์หมายเลขแบทช์เพื่อแปลงเป็น fods ภายในแอปพลิเคชัน Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

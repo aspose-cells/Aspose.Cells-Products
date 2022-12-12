@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to JPEG via Java 
-url: /java/conversion/fods-to-jpeg/
+
 description: Convert FODS to JPEG format in Java code. Save FODS as JPEG using Java.
 ---
 

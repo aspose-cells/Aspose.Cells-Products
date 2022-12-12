@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование SPREADSHETML в SVG с помощью Python
-url: /ru/python-java/conversion/spreadsheetml-to-svg/
+
 description: Пример кода для преобразования электронной таблицыml в svg Python. Используйте пример кода API для пакетного преобразования файлов электронной таблицыml в svg в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

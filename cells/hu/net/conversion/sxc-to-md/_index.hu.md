@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SXC konvertálása MD-vé a következőn keresztül: C#"
-url: /hu/net/conversion/sxc-to-md/
+
 description: Mintakód az sxc–md C# konverzióhoz. Használjon API példakódot kötegelt sxc fájlok md konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazásban.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert XLTM to PNG via C++
-url: /cpp/conversion/xltm-to-png/
+
 description: Convert XLTM to PNG format in C++ code. Save XLTM as PNG using C++.
 ---
 

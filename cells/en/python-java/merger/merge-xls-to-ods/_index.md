@@ -1,6 +1,6 @@
 ---
 title: Merge XLS to ODS Files via Python 
-url: /python-java/merger/merge-xls-to-ods/ 
+
 description: Merge XLS to ODS file in Python code. Combine XLS to ODS file using Python.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TSV konvertálása XPS-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/tsv-to-xps/
+
 description: Mintakód a tsv–xps Python konverzióhoz. Használjon API példakódot a tsv fájlok kötegelt xps konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "ODS konvertálása GIF-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/ods-to-gif/
+
 description: Mintakód az ods-ból gif-be Python konverzióhoz. Használjon API példakódot kötegelt ods fájlok gif konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

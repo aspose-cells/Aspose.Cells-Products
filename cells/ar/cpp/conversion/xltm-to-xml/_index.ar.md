@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLTM إلى XML عبر تطبيق C++ 
-url: /ar/cpp/conversion/xltm-to-xml/ 
+
 description: نموذج C++ رمز تحويل لمستند XLTM إلى تنسيق XML. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل XLTM إلى XML في أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

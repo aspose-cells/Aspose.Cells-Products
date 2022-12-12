@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование NUMBERS в XLAM через Python
-url: /ru/python-java/conversion/numbers-to-xlam/
+
 description: Пример кода для преобразования чисел в xlam Python. Используйте пример кода API для преобразования файлов номеров пакетов в xlam в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

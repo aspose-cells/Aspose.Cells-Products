@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie CSV in SXC über Java 
-url: /de/java/conversion/csv-to-sxc/ 
+
 description: Beispiel-Umwandlungscode Java für das CSV-Format in eine SXC-Datei. Programmierer können diesen Beispielcode verwenden, um Excel- und OpenOffice-Tabellen innerhalb jeder Web- oder Desktop-Java-basierten Anwendung nach SXC zu exportieren.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

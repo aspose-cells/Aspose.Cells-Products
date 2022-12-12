@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera TSV till XML via Java 
-url: /sv/java/conversion/tsv-to-xml/ 
+
 description: Exempel Java-konverteringskod för TSV-format till XML-fil. Programmerare kan använda den här exempelkoden för att exportera Excel- och OpenOffice-kalkylblad till XML inom alla webb- eller skrivbordsbaserade Javaapplikationer.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

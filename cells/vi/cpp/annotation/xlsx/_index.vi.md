@@ -1,7 +1,7 @@
-﻿---
+---
 title: Thêm chú thích XLSX qua C++ 
 weight: 5260
-url: /vi/cpp/annotation/xlsx/ 
+
 description: C++ mã mẫu để thêm hoặc xóa chú thích định dạng XLSX trên C++ Môi trường thời gian chạy cho Windows 32 bit, Windows 64 bit và Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert TSV to MARKDOWN via C#
-url: /net/conversion/tsv-to-markdown/
+
 description: Convert TSV to MARKDOWN format in C# code. Save TSV as MARKDOWN using VB.NET, Asp.NET or any .NET based application.
 ---
 

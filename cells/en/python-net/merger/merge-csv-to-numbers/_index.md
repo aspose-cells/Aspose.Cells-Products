@@ -1,6 +1,6 @@
 ---
 title: Merge CSV to NUMBERS Files via Python 
-url: /python-net/merger/merge-csv-to-numbers/ 
+
 description: Merge CSV to NUMBERS file in Python code. Combine CSV to NUMBERS file using Python.
 ---
 

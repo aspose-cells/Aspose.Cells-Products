@@ -1,6 +1,6 @@
-﻿---
+---
 title: รวมไฟล์ Excel ต่างๆ ให้เป็นไฟล์เดียวใน Java
-url: /th/java/merger/
+
 description: รวมไฟล์ Excel โดยใช้ Java ลงในแผ่นงานหลายแผ่นหรือแผ่นเดียว ผสาน รวม หรือเชื่อมเอกสาร Excel เป็น PDF, รูปภาพ และ HTML เช่นกัน
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

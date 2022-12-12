@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převeďte HTML na BMP pomocí aplikace C++ 
 weight: 9710
-url: /cs/cpp/conversion/html-to-bmp/ 
+
 description: Ukázka převodního kódu C++ pro dokument HTML do formátu BMP. Programátoři mohou použít tento zdrojový kód pro dávkový převod HTML na BMP v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi HTML ke TXT melalui C#
-url: /id/net/conversion/html-to-txt/
+
 description: Contoh kode untuk konversi html ke txt C#. Gunakan API kode contoh untuk file html batch ke konversi txt dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

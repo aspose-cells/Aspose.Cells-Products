@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla XLTX'i JSON'a dönüştürün
-url: /tr/python-java/conversion/xltx-to-json/
+
 description: xltx'ten json'a Python dönüştürme için örnek kod. Python uygulamasında toplu xltx dosyalarından json'a dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

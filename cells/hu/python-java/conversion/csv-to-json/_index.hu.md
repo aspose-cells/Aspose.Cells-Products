@@ -1,6 +1,6 @@
-﻿---
+---
 title: "CSV konvertálása JSON formátumba a következőn keresztül: Python"
-url: /hu/python-java/conversion/csv-to-json/
+
 description: Mintakód a csv–json Python konverzióhoz. Használjon API példakódot a kötegelt csv-fájlok JSON-konverziójához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

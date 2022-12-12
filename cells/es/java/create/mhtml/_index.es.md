@@ -1,6 +1,6 @@
-﻿---
+---
 title: Crear archivos MHTML a través de Java 
-url: /es/java/create-mhtml/ 
+
 description: Java Código de ejemplo para generar documentos MHTML. Utilice este código para crear archivos MHTML dentro de una aplicación web o de escritorio basada en Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

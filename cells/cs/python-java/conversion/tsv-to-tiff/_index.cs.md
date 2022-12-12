@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TSV na TIFF prostřednictvím Python
-url: /cs/python-java/conversion/tsv-to-tiff/
+
 description: Ukázkový kód pro konverzi tsv na tiff Python. Použijte API ukázkový kód pro dávkové tsv soubory pro převod tiff v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل JSON إلى SVG عبر Java 
 weight: 6900
-url: /ar/java/conversion/json-to-svg/ 
+
 description: نموذج رمز تحويل Java لتنسيق JSON إلى ملف SVG. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel و OpenOffice إلى SVG داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

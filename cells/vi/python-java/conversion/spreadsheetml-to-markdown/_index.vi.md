@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi SPREADSHEETML thành MARKDOWN qua Python
-url: /vi/python-java/conversion/spreadsheetml-to-markdown/
+
 description: Mã mẫu cho chuyển đổi từ bảng tính sangml để đánh dấu Python. Sử dụng mã mẫu API cho hàng loạt tệpml bảng tính để chuyển đổi đánh dấu trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Szöveg és képek kibontása XLSB-dokumentumból a következőn keresztül: Java "
 weight: 440
-url: /hu/java/parser/xlsb/ 
+
 description: Java mintakód szövegek és képek XLSB-fájlból való kivonásához a Java Runtime Environment for JSP/JSF alkalmazásokhoz és asztali alkalmazásokhoz.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

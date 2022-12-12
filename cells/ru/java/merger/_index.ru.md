@@ -1,6 +1,6 @@
-﻿---
+---
 title: Объединить разные файлы Excel в один в Java
-url: /ru/java/merger/
+
 description: Объедините файлы Excel с помощью Java в несколько листов или один лист. Объединяйте, комбинируйте или объединяйте документы Excel в PDF, изображения и HTML.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: "HTML konvertálása SVG-vé a következőn keresztül: Java "
 weight: 7120
-url: /hu/java/conversion/html-to-svg/ 
+
 description: Minta Java konverziós kód a HTML formátumhoz SVG-fájllá. A programozók ezt a példakódot használhatják Excel és OpenOffice táblázatok exportálására SVG formátumba bármely web- vagy asztali Java alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

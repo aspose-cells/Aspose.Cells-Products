@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή EXCEL σε JSON μέσω C#
-url: /el/net/conversion/excel-to-json/
+
 description: Δείγμα κώδικα για μετατροπή excel σε json C#. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία excel για μετατροπή json εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

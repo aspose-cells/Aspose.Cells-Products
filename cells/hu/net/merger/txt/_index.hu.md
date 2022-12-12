@@ -1,7 +1,7 @@
-﻿---
+---
 title: "TXT-fájlok egyesítése a következőn keresztül: .NET "
 weight: 7350
-url: /hu/net/merger/txt/ 
+
 description: C# forráskód a TXT dokumentumok kombinálásához .NET Framework, .NET Core, Mono vagy Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

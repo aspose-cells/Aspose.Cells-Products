@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to GIF via Python
-url: /python-java/conversion/xltx-to-gif/
+
 description: Convert XLTX to GIF format in Python code. Save XLTX as GIF using Python.
 ---
 

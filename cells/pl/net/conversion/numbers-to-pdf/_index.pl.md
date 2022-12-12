@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj NUMBERS na PDF przez C#
-url: /pl/net/conversion/numbers-to-pdf/
+
 description: Przykładowy kod konwersji liczb do formatu PDF C#. Użyj przykładowego kodu API dla plików z numerami partii do konwersji pdf w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

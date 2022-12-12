@@ -1,6 +1,6 @@
-﻿---
+---
 title: สร้างไฟล์ MS Excel XLSM ผ่าน Java 
-url: /th/java/create-xlsm/ 
+
 description: Java โค้ดตัวอย่างสำหรับสร้างเอกสาร XLSM ใช้รหัสนี้เพื่อสร้างไฟล์ MS Excel XLSM ภายในเดสก์ท็อปหรือแอปพลิเคชันบนเว็บที่ใช้ Java
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

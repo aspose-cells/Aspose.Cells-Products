@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj CSV na TABDELIMITED za pomocą aplikacji C++ 
-url: /pl/cpp/conversion/csv-to-tabdelimited/ 
+
 description: Przykładowy kod konwersji C++ dla dokumentu CSV do formatu TABDELIMITED. Programiści mogą używać tego kodu źródłowego do wsadowej konwersji CSV do TABDELIMITED w dowolnej aplikacji C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

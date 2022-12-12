@@ -1,6 +1,6 @@
 ---
 title: Convert XLTM to DIF via C#
-url: /net/conversion/xltm-to-dif/
+
 description: Convert XLTM to DIF format in C# code. Save XLTM as DIF using VB.NET, Asp.NET or any .NET based application.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してTABDELIMITEDをCSVに変換します
-url: /ja/net/conversion/tabdelimited-to-csv/
+
 description: tabdelimitedからcsvC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でタブ区切りファイルをcsvに変換するには、APIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

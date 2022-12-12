@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer HTML naar EMF via C#
-url: /nl/net/conversion/html-to-emf/
+
 description: Voorbeeldcode voor conversie van html naar emf C#. Gebruik API voorbeeldcode voor batch-html-bestanden naar emf-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

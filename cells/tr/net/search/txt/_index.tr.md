@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET üzerinden açmadan TXT belgesini arayın 
 weight: 8410
-url: /tr/net/search/txt/ 
+
 description: .NET Framework, .NET Core, Mono veya Xamarin Platformlarında TXT dosyasında kalıplı kelimeleri aramak için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

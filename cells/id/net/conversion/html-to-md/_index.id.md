@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi HTML ke MD melalui C#
-url: /id/net/conversion/html-to-md/
+
 description: Contoh kode untuk konversi html ke md C#. Gunakan API kode contoh untuk berkas html batch ke konversi md dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

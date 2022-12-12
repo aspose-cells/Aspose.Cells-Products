@@ -1,7 +1,7 @@
-﻿---
+---
 title: Node.js API-k Excel-táblázatokhoz – Aspose 
 weight: 3120
-url: /hu/nodejs-java/ 
+
 description: Az Excel fájlformátumok feldolgozása a Node.js könyvtáron keresztül. Írási renderelés olvasása és XLS XLSX XLSB XLTX XLTM XLSM XML ODS CSV és további formátumok konvertálása a Node.js segítségével Windows, macOS és Linux rendszeren
 ---
 {{< blocks/products/pf/main-wrap-class >}}

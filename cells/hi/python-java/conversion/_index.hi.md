@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python के माध्यम से Microsoft Excel फ़ाइल रूपांतरण 
-url: /hi/python/conversion/
+
 description: एक्सेल एक्सएलएस, एक्सएलएसएक्स, ओडीएस, सीएसवी को पीडीएफ, एक्सपीएस, एचटीएमएल, जेपीईजी, एचटीएमएल और कई अन्य लोकप्रिय प्रारूपों को Python कोड की कुछ पंक्तियों के साथ कनवर्ट करें।
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

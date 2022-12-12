@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to XLSB via Python
-url: /python-java/conversion/xls-to-xlsb/
+
 description: Convert XLS to XLSB format in Python code. Save XLS as XLSB using Python.
 ---
 

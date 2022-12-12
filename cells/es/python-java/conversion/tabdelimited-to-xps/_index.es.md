@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta TABDELIMITED a XPS a través de Python
-url: /es/python-java/conversion/tabdelimited-to-xps/
+
 description: Código de muestra para la conversión delimitada por tabuladores a xps Python. Utilice el código de ejemplo API para la conversión por lotes de archivos delimitados por tabulaciones a xps dentro de la aplicación Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

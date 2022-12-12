@@ -1,7 +1,7 @@
-﻿---
+---
 title: Telusuri dokumen TSV tanpa membuka melalui C++ 
 weight: 930
-url: /id/cpp/search/tsv/ 
+
 description: C++ contoh kode untuk mencari kata dengan pola dalam file TSV pada C++ Runtime Environment untuk Windows 32 bit, Windows 64 bit dan Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

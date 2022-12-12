@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převeďte MHTML na CSV pomocí aplikace C++ 
 weight: 3510
-url: /cs/cpp/conversion/mhtml-to-csv/ 
+
 description: Ukázka převodního kódu C++ pro dokument MHTML na formát CSV. Programátoři mohou použít tento zdrojový kód pro dávkový převod MHTML na CSV v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

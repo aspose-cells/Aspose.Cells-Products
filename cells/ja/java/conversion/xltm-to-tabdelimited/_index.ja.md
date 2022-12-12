@@ -1,6 +1,6 @@
-﻿---
+---
 title: XLTMをJava経由でTABDELIMITEDに変換します 
-url: /ja/java/conversion/xltm-to-tabdelimited/ 
+
 description: XLTM形式からTABDELIMITEDファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のTABDELIMITEDにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

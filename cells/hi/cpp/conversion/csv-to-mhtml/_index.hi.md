@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ एप्लिकेशन के माध्यम से CSV को MHTML में कनवर्ट करें 
 weight: 5890
-url: /hi/cpp/conversion/csv-to-mhtml/ 
+
 description: नमूना C++ सीएसवी दस्तावेज़ के लिए एमएचटीएमएल प्रारूप में रूपांतरण कोड। प्रोग्रामर इस स्रोत कोड का उपयोग किसी भी C++ एप्लिकेशन में सीएसवी से एमएचटीएमएल रूपांतरण के बैच के लिए कर सकते हैं।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

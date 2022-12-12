@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta HTML a XLSM a través de Python
-url: /es/python-java/conversion/html-to-xlsm/
+
 description: Código de muestra para la conversión de html a xlsm Python. Utilice el código de ejemplo API para la conversión de archivos html por lotes a xlsm dentro de la aplicación Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

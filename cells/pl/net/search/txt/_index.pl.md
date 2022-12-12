@@ -1,7 +1,7 @@
-﻿---
+---
 title: Przeszukaj dokument TXT bez otwierania przez .NET 
 weight: 8410
-url: /pl/net/search/txt/ 
+
 description: C# kod źródłowy do wyszukiwania słów ze wzorem w pliku TXT na platformach .NET Framework, .NET Core, Mono lub Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

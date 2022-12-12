@@ -1,7 +1,7 @@
-﻿---
+---
 title: ODS'yi Java aracılığıyla BMP'ye dönüştürün 
 weight: 2160
-url: /tr/java/conversion/ods-to-bmp/ 
+
 description: ODS biçimi için BMP dosyasına örnek Java dönüştürme kodu. Programcılar, Excel ve OpenOffice elektronik tablolarını herhangi bir Web veya Masaüstü Java tabanlı Uygulamada BMP'ye aktarmak için bu örnek kodu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

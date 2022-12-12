@@ -1,7 +1,7 @@
-﻿---
+---
 title: Gabungkan File XLTM melalui .NET 
 weight: 9010
-url: /id/net/merger/xltm/ 
+
 description: C# kode sumber untuk menggabungkan dokumen XLTM pada .NET Framework, .NET Core, Mono atau Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

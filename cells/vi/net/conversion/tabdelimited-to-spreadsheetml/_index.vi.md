@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi TABDELIMITED thành SPREADSHEETML qua C#
-url: /vi/net/conversion/tabdelimited-to-spreadsheetml/
+
 description: Mã mẫu cho chuyển đổi được giới hạn bằng tab C# trong bảng tính. Sử dụng API mã ví dụ cho hàng loạt tệp được giới hạn bằng tab để chuyển đổi bảng tínhml trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

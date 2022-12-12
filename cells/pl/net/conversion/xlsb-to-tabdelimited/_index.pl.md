@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj XLSB na TABDELIMITED przez C#
-url: /pl/net/conversion/xlsb-to-tabdelimited/
+
 description: Przykładowy kod konwersji xlsb do rozdzielanej tabulatorami C#. Użyj przykładowego kodu API dla plików wsadowych xlsb do konwersji rozdzielanej tabulatorami w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

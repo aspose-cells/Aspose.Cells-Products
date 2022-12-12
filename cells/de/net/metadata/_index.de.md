@@ -1,6 +1,6 @@
-﻿---
+---
 title: Verwalten Sie Metadaten von Excel-Dateien über .NET C#
-url: /de/net/metadata/
+
 description: Metadaten von Excel-Dateien mit nur wenigen C#-Codezeilen anzeigen, hinzufügen, bearbeiten, entfernen oder extrahieren
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

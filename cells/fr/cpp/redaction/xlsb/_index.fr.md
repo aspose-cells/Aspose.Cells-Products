@@ -1,7 +1,7 @@
-﻿---
+---
 title: Rechercher et remplacer du texte dans le document XLSB via C++ 
 weight: 6660
-url: /fr/cpp/redaction/xlsb/ 
+
 description: C++ Exemple de code pour masquer les informations sensibles dans le fichier XLSB sur C++ Runtime Environment pour Windows 32 bits, Windows 64 bits et Linux 64 bits.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

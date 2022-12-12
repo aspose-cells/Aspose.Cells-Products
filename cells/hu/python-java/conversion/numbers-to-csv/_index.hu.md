@@ -1,6 +1,6 @@
-﻿---
+---
 title: "NUMBERS konvertálása CSV-vé a következőn keresztül: Python"
-url: /hu/python-java/conversion/numbers-to-csv/
+
 description: Mintakód számok csv Python konvertálásához. Használjon API példakódot a kötegszámfájlok csv-vé konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

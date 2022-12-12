@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer CSV naar JPEG via Java 
 weight: 7490
-url: /nl/java/conversion/csv-to-jpeg/ 
+
 description: Voorbeeld Java conversiecode voor CSV-indeling naar JPEG-bestand. Programmeurs kunnen deze voorbeeldcode gebruiken om Excel- en OpenOffice-spreadsheets naar JPEG te exporteren binnen elke web- of desktoptoepassing Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

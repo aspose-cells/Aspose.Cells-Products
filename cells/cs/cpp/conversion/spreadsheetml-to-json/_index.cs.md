@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte SPREADSHEETML na JSON pomocí aplikace C++ 
-url: /cs/cpp/conversion/spreadsheetml-to-json/ 
+
 description: Ukázkový konverzní kód C++ pro dokument SPREADSHEETML do formátu JSON. Programátoři mohou tento zdrojový kód použít pro dávkový převod SPREADSHEETML na JSON v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

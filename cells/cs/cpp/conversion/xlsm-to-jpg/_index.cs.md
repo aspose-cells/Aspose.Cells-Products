@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte XLSM na JPG pomocí aplikace C++ 
-url: /cs/cpp/conversion/xlsm-to-jpg/ 
+
 description: Ukázka převodního kódu C++ pro dokument XLSM na formát JPG. Programátoři mohou použít tento zdrojový kód pro dávkovou konverzi XLSM na JPG v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

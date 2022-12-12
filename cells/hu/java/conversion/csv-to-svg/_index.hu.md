@@ -1,7 +1,7 @@
-﻿---
+---
 title: "CSV konvertálása SVG-vé a következőn keresztül: Java "
 weight: 9790
-url: /hu/java/conversion/csv-to-svg/ 
+
 description: Minta Java konverziós kód a CSV formátumhoz SVG-fájllá. A programozók ezt a példakódot használhatják Excel és OpenOffice táblázatok exportálására SVG formátumba bármely web- vagy asztali Java alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi FODS sang XLAM qua Python
-url: /vi/python-java/conversion/fods-to-xlam/
+
 description: Mã mẫu cho chuyển đổi fods thành xlam Python. Sử dụng mã ví dụ API cho các tệp fods hàng loạt để chuyển đổi xlam trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

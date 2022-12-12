@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή XLTM σε MD μέσω C#
-url: /el/net/conversion/xltm-to-md/
+
 description: Δείγμα κώδικα για μετατροπή xltm σε md C#. Χρησιμοποιήστε API παράδειγμα κώδικα για μαζική μετατροπή αρχείων xltm σε md εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

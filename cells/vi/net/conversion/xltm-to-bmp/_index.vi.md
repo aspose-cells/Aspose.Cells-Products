@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi XLTM sang BMP qua C#
-url: /vi/net/conversion/xltm-to-bmp/
+
 description: Mã mẫu cho chuyển đổi xltm sang bmp C#. Sử dụng API mã mẫu cho các tệp xltm hàng loạt để chuyển đổi bmp trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

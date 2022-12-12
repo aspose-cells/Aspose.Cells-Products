@@ -1,7 +1,7 @@
-﻿---
+---
 title: Scal pliki TXT przez Java 
 weight: 4480
-url: /pl/java/merger/txt/ 
+
 description: Java przykładowy kod do łączenia dokumentów TXT w Java środowisku wykonawczym dla aplikacji JSP/JSF i aplikacji komputerowych.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

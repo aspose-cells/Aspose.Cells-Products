@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Buborékdiagramok létrehozása a következőn keresztül: C#"
-url: /hu/net/create-bubble-chart/
+
 description: C# Mintakód Buborékdiagramok készítéséhez Excelbe a .NET Library használatával. Ezzel a kóddal {chart} diagramot hozhat létre MS Excelben VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

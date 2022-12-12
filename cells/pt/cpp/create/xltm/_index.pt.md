@@ -1,6 +1,6 @@
-﻿---
+---
 title: Crie arquivos MS Excel XLTM via C++ 
-url: /pt/cpp/create-xltm/ 
+
 description: C++ Código de exemplo para gerar arquivos MS Excel XLTM. Use este código para criar arquivos MS Excel XLTM dentro do aplicativo baseado em C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

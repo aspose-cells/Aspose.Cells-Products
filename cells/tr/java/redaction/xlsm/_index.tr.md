@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java aracılığıyla XLSM belgesindeki metni arayın ve değiştirin 
 weight: 1590
-url: /tr/java/redaction/xlsm/ 
+
 description: JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Runtime Environment'daki XLSM dosyasındaki hassas bilgileri yeniden düzenlemek için Java örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

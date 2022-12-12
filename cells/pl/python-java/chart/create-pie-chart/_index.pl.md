@@ -1,6 +1,6 @@
-﻿---
+---
 title: Twórz wykresy kołowe za pomocą Python
-url: /pl/python-java/create-pie-chart/
+
 description: Python Przykładowy kod do tworzenia wykresów kołowych w programie Excel przy użyciu biblioteki Python. Użyj tego kodu, aby utworzyć wykres kołowy do MS Excel w aplikacji opartej na Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

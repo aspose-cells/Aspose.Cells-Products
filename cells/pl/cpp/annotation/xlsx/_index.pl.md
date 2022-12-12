@@ -1,7 +1,7 @@
-﻿---
+---
 title: Dodaj adnotację XLSX przez C++ 
 weight: 5260
-url: /pl/cpp/annotation/xlsx/ 
+
 description: C++ przykładowy kod do dodawania lub usuwania adnotacji w formacie XLSX w C++ środowisku wykonawczym dla 32-bitowego systemu Windows, 64-bitowego systemu Windows i 64-bitowego systemu Linux.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

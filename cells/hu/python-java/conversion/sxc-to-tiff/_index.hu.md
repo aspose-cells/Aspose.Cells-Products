@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SXC konvertálása TIFF-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/sxc-to-tiff/
+
 description: Mintakód az sxc–tiff Python konverzióhoz. Használjon API példakódot kötegelt sxc fájlok tiff konverziójához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

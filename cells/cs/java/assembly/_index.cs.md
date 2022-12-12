@@ -1,6 +1,6 @@
-﻿---
+---
 title: Vytvářejte soubory Excel prostřednictvím Java
-url: /cs/java/assembly/
+
 description: Generujte tabulky Microsoft Excel ze šablony pomocí knihovny tabulek Java
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

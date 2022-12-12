@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja a JSON-t MHTML-re a(z) C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/json-to-mhtml/ 
+
 description: Minta C++ konverziós kód a JSON-dokumentumhoz MHTML formátumba. A programozók ezt a forráskódot használhatják a JSON-ból MHTML-be történő kötegelt konvertáláshoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to DOCX via C++
-url: /cpp/conversion/txt-to-docx/
+
 description: Convert TXT to DOCX format in C++ code. Save TXT as DOCX using C++.
 ---
 

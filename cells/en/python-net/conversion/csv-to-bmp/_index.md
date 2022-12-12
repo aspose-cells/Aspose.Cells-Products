@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to BMP via Python
-url: /python-net/conversion/csv-to-bmp/
+
 description: Sample code for csv to bmp Python conversion. Use API example code for batch csv files to bmp conversion within Python application.
 ---
 

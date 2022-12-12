@@ -1,6 +1,6 @@
-﻿---
+---
 title: Vytvářejte bodové grafy prostřednictvím C#
-url: /cs/net/create-scatter-chart/
+
 description: C# Ukázkový kód pro vytváření bodových grafů do aplikace Excel pomocí knihovny .NET. Tento kód použijte k vytvoření bodového grafu do MS Excel v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

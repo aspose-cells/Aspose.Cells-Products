@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование SPREADSHETML в DOCX через C#
-url: /ru/net/conversion/spreadsheetml-to-docx/
+
 description: Пример кода для преобразования электронной таблицыml в docx C#. Используйте пример кода API для пакетного преобразования файлов электронных таблиц в docx в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

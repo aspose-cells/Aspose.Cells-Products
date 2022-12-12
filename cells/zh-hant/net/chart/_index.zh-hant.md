@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 .NET 創建 Excel 圖表並將其轉換為圖像
-url: /zh-hant/net/chart/
+
 description: C# 使用 .NET 庫在 Microsoft Excel 中繪製和轉換圖表或圖表的源代碼。 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

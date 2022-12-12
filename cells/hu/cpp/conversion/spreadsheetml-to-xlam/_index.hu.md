@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja a SPREADSHEETML-t XLAM-re a(z) C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/spreadsheetml-to-xlam/ 
+
 description: Minta C++ konverziós kód a SPREADSHEETML dokumentumhoz XLAM formátumba. A programozók ezt a forráskódot használhatják a SPREADSHEETML-ből XLAM-be történő kötegelt konvertáláshoz bármely C++ alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

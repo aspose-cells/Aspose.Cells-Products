@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla HTML'yi SPREADSHEETML'ye dönüştürün
-url: /tr/python-java/conversion/html-to-spreadsheetml/
+
 description: Html'den elektronik tabloyaml Python dönüşümü için örnek kod. Python uygulamasında toplu html dosyalarından elektronik tablo ml'sine dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

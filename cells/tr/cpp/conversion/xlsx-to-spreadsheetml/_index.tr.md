@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++ uygulaması aracılığıyla XLSX'i SPREADSHEETML'ye dönüştürün 
-url: /tr/cpp/conversion/xlsx-to-spreadsheetml/ 
+
 description: XLSX belgesi için SPREADSHEETML biçimine örnek C++ dönüştürme kodu. Programcılar, herhangi bir C++ Uygulamasında toplu XLSX'ten SPREADSHEETML'ye dönüştürme için bu kaynak kodunu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

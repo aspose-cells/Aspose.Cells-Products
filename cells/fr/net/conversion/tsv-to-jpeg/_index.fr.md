@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir TSV en JPEG via C#
-url: /fr/net/conversion/tsv-to-jpeg/
+
 description: Exemple de code pour la conversion tsv en jpeg C#. Utilisez l'exemple de code API pour la conversion par lot de fichiers tsv en jpeg dans VB.NET, Asp.NET ou toute application basée sur .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

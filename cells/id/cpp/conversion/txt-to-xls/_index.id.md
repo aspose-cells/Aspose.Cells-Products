@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi TXT ke XLS melalui C++ aplikasi 
-url: /id/cpp/conversion/txt-to-xls/ 
+
 description: Contoh C++ kode konversi untuk dokumen TXT ke format XLS. Pemrogram dapat menggunakan kode sumber ini untuk konversi batch TXT ke XLS dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

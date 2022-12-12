@@ -1,7 +1,7 @@
-﻿---
+---
 title: Διαχωρισμός αρχείων XLS μέσω Java 
 weight: 610
-url: /el/java/splitter/xls/ 
+
 description: Java δείγμα κώδικα για διαχωρισμό εγγράφων XLS σε Java Runtime Environment για JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

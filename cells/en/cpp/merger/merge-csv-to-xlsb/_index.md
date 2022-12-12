@@ -1,6 +1,6 @@
 ---
 title: Merge CSV to XLSB Files via C++ 
-url: /cpp/merger/merge-csv-to-xlsb/ 
+
 description: Merge CSV to XLSB file in C++ code. Combine CSV to XLSB file using C++.
 ---
 

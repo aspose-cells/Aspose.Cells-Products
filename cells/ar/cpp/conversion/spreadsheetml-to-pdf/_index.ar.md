@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل SPREADSHEETML إلى PDF عبر تطبيق C++ 
-url: /ar/cpp/conversion/spreadsheetml-to-pdf/ 
+
 description: نموذج رمز تحويل C++ لمستند SPREADSHEETML إلى تنسيق PDF. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل SPREADSHEETML دفعة واحدة إلى PDF داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

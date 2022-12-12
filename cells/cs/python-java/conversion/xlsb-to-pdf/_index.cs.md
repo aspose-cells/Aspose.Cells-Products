@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLSB na PDF přes Python
-url: /cs/python-java/conversion/xlsb-to-pdf/
+
 description: Ukázkový kód pro převod xlsb na pdf Python. Použijte API ukázkový kód pro dávkový převod souborů xlsb na pdf v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

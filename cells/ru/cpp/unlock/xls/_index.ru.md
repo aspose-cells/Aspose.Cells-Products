@@ -1,7 +1,7 @@
-﻿---
+---
 title: Разблокировать документ XLS через C++ 
 weight: 2380
-url: /ru/cpp/unlock/xls/ 
+
 description: Пример кода C++ для разблокировки защищенного паролем файла XLS в C++ среде выполнения для 32-разрядной, 64-разрядной Windows и 64-разрядной версии Linux.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

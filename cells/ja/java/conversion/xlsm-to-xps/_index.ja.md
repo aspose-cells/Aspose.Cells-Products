@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してXLSMをXPSに変換します 
 weight: 4070
-url: /ja/java/conversion/xlsm-to-xps/ 
+
 description: XLSM形式からXPSファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のXPSにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

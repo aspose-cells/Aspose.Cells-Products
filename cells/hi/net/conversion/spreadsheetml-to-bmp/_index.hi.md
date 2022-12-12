@@ -1,6 +1,6 @@
-﻿---
+---
 title: PREADSHEETML को C# के माध्यम से BMP में बदलें
-url: /hi/net/conversion/spreadsheetml-to-bmp/
+
 description: स्प्रेडशीटएमएल से बीएमपी C# रूपांतरण के लिए नमूना कोड। वीबी.NET, एएसपी.NET या किसी भी .NET आधारित एप्लिकेशन के भीतर बीएमपी रूपांतरण के लिए बैच स्प्रेडशीटएमएल फाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

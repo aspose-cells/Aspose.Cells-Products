@@ -1,7 +1,7 @@
 ---
 title: Protect and lock ODS document via .NET 
 weight: 5580
-url: /net/protect/ods/ 
+
 description: C# source code to lock ODS file using password on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

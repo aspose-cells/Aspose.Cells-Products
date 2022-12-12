@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 C# 將 SPREADSHEETML 轉換為 DIF
-url: /zh-hant/net/conversion/spreadsheetml-to-dif/
+
 description: 電子表格到 diff C# 轉換的示例代碼。使用批處理電子表格ml 文件的 API 示例代碼在 VB.NET、Asp.NET 或任何基於 .NET 的應用程序中進行差異轉換。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

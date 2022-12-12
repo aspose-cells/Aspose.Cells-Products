@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLSB konvertálása JSON-ba a következőn keresztül: C#"
-url: /hu/net/conversion/xlsb-to-json/
+
 description: Mintakód az xlsb–json C# konverzióhoz. Használjon API példakódot kötegelt xlsb fájlok json konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

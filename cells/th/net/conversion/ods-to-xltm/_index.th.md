@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง ODS เป็น XLTM ผ่าน C#
-url: /th/net/conversion/ods-to-xltm/
+
 description: โค้ดตัวอย่างสำหรับการแปลง ods เป็น xltm C# ใช้โค้ดตัวอย่าง API สำหรับไฟล์ batch ods เป็นการแปลง xltm ภายใน VB.NET, Asp.NET หรือแอปพลิเคชันที่ใช้ .NET
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

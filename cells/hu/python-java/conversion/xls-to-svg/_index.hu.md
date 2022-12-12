@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLS konvertálása SVG-vé a következőn keresztül: Python"
-url: /hu/python-java/conversion/xls-to-svg/
+
 description: Mintakód az xls–svg Python konverzióhoz. Használjon API példakódot a kötegelt xls fájlokhoz az SVG konvertáláshoz a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

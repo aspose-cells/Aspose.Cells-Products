@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte TABDELIMITED na PNG pomocí aplikace C++ 
-url: /cs/cpp/conversion/tabdelimited-to-png/ 
+
 description: Ukázkový konverzní kód C++ pro dokument TABDELIMITED do formátu PNG. Programátoři mohou použít tento zdrojový kód pro dávkový převod TABDELIMITED na PNG v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
 ---
 title: Search XLSM document without opening via C++ 
 weight: 9280
-url: /cpp/search/xlsm/ 
+
 description: C++ example code to search words with pattern in XLSM file on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
 

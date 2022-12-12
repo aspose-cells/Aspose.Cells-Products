@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLS konvertálása DOCX-re a következőn keresztül: C#"
-url: /hu/net/conversion/xls-to-docx/
+
 description: Mintakód az xls-ből docx-ba C# konverzióhoz. Használjon API példakódot kötegelt xls fájlokhoz a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazás docx konvertálásához.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

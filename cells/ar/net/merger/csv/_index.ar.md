@@ -1,7 +1,7 @@
-﻿---
+---
 title: دمج ملفات CSV عبر .NET 
 weight: 6450
-url: /ar/net/merger/csv/ 
+
 description: C# شفرة المصدر لدمج مستندات CSV في .NET Framework أو .NET Core أو Mono أو أنظمة Xamarin الأساسية.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

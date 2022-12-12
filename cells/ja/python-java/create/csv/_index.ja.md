@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してCSVファイルを作成する 
-url: /ja/python-java/create-csv/ 
+
 description: PythonCSVドキュメントを生成するためのサンプルコード。このコードを使用して、Pythonアプリケーション内にCSVファイルを作成します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

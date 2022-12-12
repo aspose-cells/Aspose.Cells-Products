@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to SPREADSHEETML via C#
-url: /net/conversion/numbers-to-spreadsheetml/
+
 description: Convert NUMBERS to SPREADSHEETML format in C# code. Save NUMBERS as SPREADSHEETML using VB.NET, Asp.NET or any .NET based application.
 ---
 

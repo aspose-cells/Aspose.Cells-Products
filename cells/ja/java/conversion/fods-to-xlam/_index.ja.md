@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してFODSをXLAMに変換します 
-url: /ja/java/conversion/fods-to-xlam/ 
+
 description: FODS形式からXLAMファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のXLAMにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

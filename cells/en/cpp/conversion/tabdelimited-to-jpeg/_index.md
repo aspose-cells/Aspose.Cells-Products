@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to JPEG via C++
-url: /cpp/conversion/tabdelimited-to-jpeg/
+
 description: Convert TABDELIMITED to JPEG format in C++ code. Save TABDELIMITED as JPEG using C++.
 ---
 

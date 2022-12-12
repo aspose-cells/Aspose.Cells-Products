@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to PDF via C#
-url: /net/conversion/numbers-to-pdf/
+
 description: Convert NUMBERS to PDF format in C# code. Save NUMBERS as PDF using VB.NET, Asp.NET or any .NET based application.
 ---
 

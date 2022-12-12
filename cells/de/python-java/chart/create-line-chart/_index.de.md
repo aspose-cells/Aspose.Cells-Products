@@ -1,6 +1,6 @@
-﻿---
+---
 title: Erstellen Sie Liniendiagramme über Python
-url: /de/python-java/create-line-chart/
+
 description: Python Beispielcode zum Erstellen von Liniendiagrammen in Excel mithilfe der Python-Bibliothek. Verwenden Sie diesen Code zum Erstellen eines Liniendiagramms in MS Excel innerhalb einer Python-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

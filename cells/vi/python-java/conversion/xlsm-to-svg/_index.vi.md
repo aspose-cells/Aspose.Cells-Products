@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi XLSM sang SVG qua Python
-url: /vi/python-java/conversion/xlsm-to-svg/
+
 description: Mã mẫu cho chuyển đổi xlsm sang svg Python. Sử dụng API mã mẫu cho hàng loạt tệp xlsm để chuyển đổi svg trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

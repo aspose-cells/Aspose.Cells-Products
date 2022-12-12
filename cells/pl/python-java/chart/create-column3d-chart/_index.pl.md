@@ -1,6 +1,6 @@
-﻿---
+---
 title: Twórz wykresy kolumnowe 3D za pomocą Python
-url: /pl/python-java/create-column3d-chart/
+
 description: Python Przykładowy kod do tworzenia wykresów Column3D w programie Excel przy użyciu biblioteki Python. Użyj tego kodu, aby utworzyć wykres Column3D do MS Excel w aplikacji opartej na Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

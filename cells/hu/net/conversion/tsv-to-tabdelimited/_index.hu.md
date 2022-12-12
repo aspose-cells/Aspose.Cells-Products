@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TSV konvertálása TAB-raDELIMITED a következőn keresztül: C#"
-url: /hu/net/conversion/tsv-to-tabdelimited/
+
 description: Mintakód a tsv-ből tabulátorral tagolt C# konverzióhoz. Használjon API példakódot kötegelt tsv-fájlokhoz a tabulátorral tagolt konverzióhoz VB.NET, Asp.NET vagy bármely .NET alapú alkalmazásban.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

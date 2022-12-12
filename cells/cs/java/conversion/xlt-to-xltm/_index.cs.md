@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést XLT na XLTM přes Java 
 weight: 2100
-url: /cs/java/conversion/xlt-to-xltm/ 
+
 description: Ukázkový konverzní kód Java pro formát XLT na soubor XLTM. Programátoři mohou tento příklad kódu použít k exportu tabulek Excelu a OpenOffice do XLTM v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

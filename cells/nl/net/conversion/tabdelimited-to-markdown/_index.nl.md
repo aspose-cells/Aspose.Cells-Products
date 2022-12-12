@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer TABDELIMITED naar MARKDOWN via C#
-url: /nl/net/conversion/tabdelimited-to-markdown/
+
 description: Voorbeeldcode voor conversie met tabdelimited to markdown C#. Gebruik API voorbeeldcode voor batch-tabdelimited-bestanden voor markdown-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

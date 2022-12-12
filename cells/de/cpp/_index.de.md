@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ Excel-Tabellenprogrammierung API - Aspose 
 weight: 7140
-url: /de/cpp/ 
+
 description: C++ Excel-Bibliothek zum Lesen, Schreiben und Analysieren von Dateien, einschließlich XLS-, XLSX-, XLSM- und XLSB-Formaten. Konvertieren Sie Tabellenkalkulationen in PDF-, CSV- und weitere Formate
 ---
 {{< blocks/products/pf/main-wrap-class >}}

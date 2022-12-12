@@ -1,6 +1,6 @@
-﻿---
+---
 title: Wandeln Sie SPREADSHEETML über C# in MARKDOWN um
-url: /de/net/conversion/spreadsheetml-to-markdown/
+
 description: Beispielcode für Spreadsheetml zur Markdown-Konvertierung C#. Verwenden Sie API Beispielcode für Batch-Spreadsheetml-Dateien zur Markdown-Konvertierung in VB.NET, Asp.NET oder einer beliebigen .NET-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

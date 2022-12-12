@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLS na EMF přes C#
-url: /cs/net/conversion/xls-to-emf/
+
 description: Ukázkový kód pro převod xls na emf C#. Použijte API ukázkový kód pro dávkové soubory xls na převod EMF v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

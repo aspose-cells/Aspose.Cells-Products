@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLSX-dokumentum védelme és zárolása a következőn keresztül: .NET "
 weight: 90
-url: /hu/net/protect/xlsx/ 
+
 description: C# forráskóddal az XLSX fájl jelszóval történő zárolásához .NET Framework, .NET Core, Mono vagy Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

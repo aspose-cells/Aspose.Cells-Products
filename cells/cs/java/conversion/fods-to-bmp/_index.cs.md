@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést FODS na BMP přes Java 
-url: /cs/java/conversion/fods-to-bmp/ 
+
 description: Ukázka převodního kódu Java pro formát FODS na soubor BMP. Programátoři mohou tento ukázkový kód použít k exportu tabulek Excelu a OpenOffice do BMP v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi JSON sang MHTML qua C#
-url: /vi/net/conversion/json-to-mhtml/
+
 description: Mã mẫu cho chuyển đổi json sang mhtml C#. Sử dụng API mã ví dụ cho hàng loạt tệp json sang chuyển đổi mhtml trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

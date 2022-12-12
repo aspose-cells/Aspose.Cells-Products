@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to PDF via Python
-url: /python-java/conversion/xltx-to-pdf/
+
 description: Convert XLTX to PDF format in Python code. Save XLTX as PDF using Python.
 ---
 

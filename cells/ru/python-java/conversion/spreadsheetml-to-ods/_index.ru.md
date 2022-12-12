@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование SPREADSHETML в ODS через Python
-url: /ru/python-java/conversion/spreadsheetml-to-ods/
+
 description: Пример кода для преобразования электронной таблицыml в ods Python. Используйте пример кода API для пакетного преобразования файлов электронной таблицыml в ods в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

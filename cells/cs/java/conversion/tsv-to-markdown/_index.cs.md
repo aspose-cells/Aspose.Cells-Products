@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TSV na MARKDOWN prostřednictvím Java 
-url: /cs/java/conversion/tsv-to-markdown/ 
+
 description: Ukázka převodního kódu Java pro formát TSV na soubor MARKDOWN. Programátoři mohou tento příklad kódu použít k exportu tabulek Excelu a OpenOffice do MARKDOWN v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

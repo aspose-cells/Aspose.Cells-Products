@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование CSV в TXT через Python
-url: /ru/python-java/conversion/csv-to-txt/
+
 description: Пример кода для преобразования csv в txt Python. Используйте пример кода API для пакетного преобразования CSV-файлов в txt в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

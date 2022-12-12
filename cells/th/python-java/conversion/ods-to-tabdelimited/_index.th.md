@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง ODS เป็น TABDELIMITED ผ่าน Python
-url: /th/python-java/conversion/ods-to-tabdelimited/
+
 description: โค้ดตัวอย่างสำหรับการแปลงจาก ods เป็น tabdelimited Python ใช้โค้ดตัวอย่าง API สำหรับไฟล์ batch ods เพื่อแปลงเป็น tabdelimited ภายในแอปพลิเคชัน Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

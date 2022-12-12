@@ -1,7 +1,7 @@
 ---
 title: View ODS File Formats via .NET 
 weight: 130
-url: /net/viewer/ods/ 
+
 description: C# source code to load, render and display ODS documents on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

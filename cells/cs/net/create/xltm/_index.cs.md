@@ -1,6 +1,6 @@
-﻿---
+---
 title: Vytvářejte soubory MS Excel XLTM prostřednictvím C# 
-url: /cs/net/create-xltm/ 
+
 description: C# Ukázkový kód pro generování dokumentů XLTM. Tento kód použijte k vytváření souborů MS Excel XLTM v aplikacích založených na VB.NET, Asp.NET nebo v jakékoli .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

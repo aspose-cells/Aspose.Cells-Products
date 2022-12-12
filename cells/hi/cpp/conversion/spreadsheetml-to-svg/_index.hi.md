@@ -1,6 +1,6 @@
-﻿---
+---
 title: स्प्रेडशीटएमएल को एसवीजी में C++ एप्लिकेशन के माध्यम से बदलें 
-url: /hi/cpp/conversion/spreadsheetml-to-svg/ 
+
 description: SVG प्रारूप में SPREADSHEETML दस्तावेज़ के लिए नमूना C++ रूपांतरण कोड। प्रोग्रामर इस स्रोत कोड का उपयोग किसी भी C++ एप्लिकेशन के भीतर स्प्रैडशीटएमएल से एसवीजी रूपांतरण के बैच के लिए कर सकते हैं।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

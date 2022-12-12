@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java経由のXLSドキュメントチャート 
 weight: 1050
-url: /ja/java/chart/xls/ 
+
 description: Java JSP/JSFアプリケーションおよびデスクトップアプリケーションのランタイム環境でXLSファイルにチャートまたは図を描画および変換するためのサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

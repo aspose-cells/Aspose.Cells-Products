@@ -1,6 +1,6 @@
-﻿---
+---
 title: XLSX को C# के माध्यम से XML में बदलें
-url: /hi/net/conversion/xlsx-to-xml/
+
 description: xlsx से xml C# रूपांतरण के लिए नमूना कोड। VB.NET, Asp.NET या किसी .NET आधारित एप्लिकेशन के भीतर xlsx फ़ाइलों के बैच से xml रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

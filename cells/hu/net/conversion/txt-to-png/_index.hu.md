@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TXT konvertálása PNG-re a következőn keresztül: C#"
-url: /hu/net/conversion/txt-to-png/
+
 description: Mintakód a txt-ből png-be C# konverzióhoz. Használjon API példakódot kötegelt txt fájlok png konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

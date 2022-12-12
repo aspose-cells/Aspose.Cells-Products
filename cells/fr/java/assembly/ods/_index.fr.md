@@ -1,7 +1,7 @@
-﻿---
+---
 title: Générer des rapports dans des fichiers ODS via Java 
 weight: 2440
-url: /fr/java/assembly/ods/ 
+
 description: Java exemple de code pour créer des rapports au format ODS sur Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertálja az XLSB-t BMP-vé a C++ alkalmazással 
 weight: 8800
-url: /hu/cpp/conversion/xlsb-to-bmp/ 
+
 description: Minta C++ konverziós kód XLSB dokumentumhoz BMP formátumba. A programozók ezt a forráskódot használhatják az XLSB-ből BMP-be kötegelt konvertáláshoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

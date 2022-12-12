@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل XLTX إلى SVG عبر Java 
 weight: 1800
-url: /ar/java/conversion/xltx-to-svg/ 
+
 description: نموذج Java رمز تحويل لتنسيق XLTX إلى ملف SVG. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel و OpenOffice إلى SVG داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

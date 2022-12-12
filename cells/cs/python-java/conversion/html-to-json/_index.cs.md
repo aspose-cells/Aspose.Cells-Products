@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést HTML na JSON prostřednictvím Python
-url: /cs/python-java/conversion/html-to-json/
+
 description: Ukázkový kód pro konverzi html na json Python. Použijte API ukázkový kód pro dávkový převod souborů html na json v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

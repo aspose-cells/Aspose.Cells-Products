@@ -1,7 +1,7 @@
-﻿---
+---
 title: Извлечение текста и изображений из документа ODS через C++ 
 weight: 9130
-url: /ru/cpp/parser/ods/ 
+
 description: Пример кода C++ для извлечения текста и изображений из файла ODS в C++ среде выполнения для 32-разрядной, 64-разрядной и 64-разрядной версии Windows.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

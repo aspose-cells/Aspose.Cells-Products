@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte XLSM na XPS pomocí aplikace C++ 
-url: /cs/cpp/conversion/xlsm-to-xps/ 
+
 description: Ukázkový konverzní kód C++ pro dokument XLSM na formát XPS. Programátoři mohou použít tento zdrojový kód pro dávkový převod XLSM na XPS v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

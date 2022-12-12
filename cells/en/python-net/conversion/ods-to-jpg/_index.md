@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to JPG via Python
-url: /python-net/conversion/ods-to-jpg/
+
 description: Sample code for ods to jpg Python conversion. Use API example code for batch ods files to jpg conversion within Python application.
 ---
 

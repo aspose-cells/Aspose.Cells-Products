@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# के माध्यम से Column3D चार्ट बनाएं
-url: /hi/net/create-column3d-chart/
+
 description: C# .NET लाइब्रेरी का उपयोग करके Excel में Column3D चार्ट बनाने के लिए नमूना कोड. वीबी.NET, एएसपी.NET या किसी .NET आधारित एप्लिकेशन के भीतर एमएस एक्सेल के लिए कॉलम 3 डी चार्ट बनाने के लिए इस कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

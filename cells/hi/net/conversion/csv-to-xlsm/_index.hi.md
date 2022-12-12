@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# के माध्यम से CSV को XLSM में बदलें
-url: /hi/net/conversion/csv-to-xlsm/
+
 description: csv से xlsm C# रूपांतरण के लिए नमूना कोड। बैच सीएसवी फाइलों के लिए वीबी.NET, एएसपी.NET या किसी .NET आधारित एप्लिकेशन के भीतर xlsm रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

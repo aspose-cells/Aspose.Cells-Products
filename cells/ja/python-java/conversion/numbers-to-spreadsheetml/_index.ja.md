@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してNUMBERSをSPREADSHEETMLに変換します
-url: /ja/python-java/conversion/numbers-to-spreadsheetml/
+
 description: 数値からspreadplacemlPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチ番号ファイルからspreadsheetmlへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

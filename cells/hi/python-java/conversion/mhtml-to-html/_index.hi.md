@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python के माध्यम से एमएचटीएमएल को एचटीएमएल में बदलें
-url: /hi/python-java/conversion/mhtml-to-html/
+
 description: एमएचटीएमएल से एचटीएमएल Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर बैच एमएचटीएमएल फाइलों से एचटीएमएल रूपांतरण के लिए API उदाहरण कोड का प्रयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertera XLS till ODS via Java 
 weight: 7650
-url: /sv/java/conversion/xls-to-ods/ 
+
 description: Exempel på Java-konverteringskod för XLS-format till ODS-fil. Programmerare kan använda den här exempelkoden för att exportera Excel- och OpenOffice-kalkylblad till ODS inom alla webb- eller skrivbordsbaserade Java-applikationer.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

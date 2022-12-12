@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLSB إلى CSV عبر C#
-url: /ar/net/conversion/xlsb-to-csv/
+
 description: نموذج كود لتحويل xlsb إلى csv C#. استخدم API رمز المثال لملفات xlsb الدفعية لتحويل csv داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

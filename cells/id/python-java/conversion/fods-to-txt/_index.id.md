@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan FODS ke TXT melalui Python
-url: /id/python-java/conversion/fods-to-txt/
+
 description: Contoh kode untuk konversi fods ke txt Python. Gunakan API kode contoh untuk file batch fods ke konversi txt dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

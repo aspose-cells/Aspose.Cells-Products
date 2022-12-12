@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLSM na MD přes Python
-url: /cs/python-java/conversion/xlsm-to-md/
+
 description: Ukázkový kód pro převod xlsm na md Python. Použijte API ukázkový kód pro dávkový převod souborů xlsm na MD v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

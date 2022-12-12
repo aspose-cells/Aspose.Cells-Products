@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla TXT'yi TABDELIMITED'e dönüştürün
-url: /tr/net/conversion/txt-to-tabdelimited/
+
 description: txt'den sekmeyle ayrılmış C# dönüşümü için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu txt dosyaları için sekmeyle ayrılmış dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

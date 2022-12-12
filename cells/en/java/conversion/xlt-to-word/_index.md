@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to WORD via Java 
-url: /java/conversion/xlt-to-word/
+
 description: Convert XLT to WORD format in Java code. Save XLT as WORD using Java.
 ---
 

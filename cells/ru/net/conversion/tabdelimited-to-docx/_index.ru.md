@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование TABDELIMITED в DOCX через C#
-url: /ru/net/conversion/tabdelimited-to-docx/
+
 description: Пример кода для преобразования tabdelimited в docx C#. Используйте пример кода API для пакетного преобразования файлов с разделителями табуляции в docx в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

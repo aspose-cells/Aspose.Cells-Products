@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla XLS'yi MD'ye dönüştürün
-url: /tr/python-java/conversion/xls-to-md/
+
 description: xls'den md'ye Python dönüştürme için örnek kod. Python uygulamasında toplu xls dosyalarından md'ye dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

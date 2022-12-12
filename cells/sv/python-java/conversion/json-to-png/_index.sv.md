@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera JSON till PNG via Python
-url: /sv/python-java/conversion/json-to-png/
+
 description: Exempelkod för konvertering från json till png Python. Använd API exempelkod för batch-json-filer till png-konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

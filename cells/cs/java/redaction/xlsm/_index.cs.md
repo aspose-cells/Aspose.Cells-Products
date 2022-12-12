@@ -1,7 +1,7 @@
-﻿---
+---
 title: Vyhledejte a nahraďte text v dokumentu XLSM prostřednictvím Java 
 weight: 1590
-url: /cs/java/redaction/xlsm/ 
+
 description: Java ukázkový kód pro redigování citlivých informací v souboru XLSM v Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

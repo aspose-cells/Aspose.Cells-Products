@@ -1,6 +1,6 @@
-﻿---
+---
 title: Az XLTX konvertálása JSON formátumba a C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/xltx-to-json/ 
+
 description: Minta C++ konverziós kód XLTX dokumentumhoz JSON formátumba. A programozók ezt a forráskódot használhatják az XLTX-ből JSON-ba történő kötegelt konvertáláshoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

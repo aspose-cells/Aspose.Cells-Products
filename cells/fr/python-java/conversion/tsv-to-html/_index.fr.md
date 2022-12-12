@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir TSV en HTML via Python
-url: /fr/python-java/conversion/tsv-to-html/
+
 description: Exemple de code pour la conversion tsv en html Python. Utilisez l'exemple de code API pour la conversion de fichiers tsv par lots en html dans l'application Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

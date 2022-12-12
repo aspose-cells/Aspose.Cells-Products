@@ -1,7 +1,7 @@
-﻿---
+---
 title: بحث في مستند XLSB بدون فتح عبر .NET 
 weight: 8880
-url: /ar/net/search/xlsb/ 
+
 description: C# شفرة المصدر للبحث عن الكلمات ذات النمط في ملف XLSB على الأنظمة الأساسية .NET Framework أو .NET Core أو Mono أو Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLTX-et XPS-re a(z) C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/xltx-to-xps/ 
+
 description: Minta C++ konverziós kód XLTX dokumentumhoz XPS formátumba. A programozók ezt a forráskódot használhatják az XLTX-ből XPS-be kötegelt konvertáláshoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

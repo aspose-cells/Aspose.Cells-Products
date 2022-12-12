@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi TABDELIMITED ke XPS melalui C#
-url: /id/net/conversion/tabdelimited-to-xps/
+
 description: Contoh kode untuk konversi tabdelimited ke xps C#. Gunakan API kode contoh untuk berkas tabdelimited batch ke konversi xps dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

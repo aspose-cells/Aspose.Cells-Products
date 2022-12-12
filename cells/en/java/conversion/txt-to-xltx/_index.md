@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to XLTX via Java 
-url: /java/conversion/txt-to-xltx/
+
 description: Convert TXT to XLTX format in Java code. Save TXT as XLTX using Java.
 ---
 

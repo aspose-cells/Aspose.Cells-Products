@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera XLS till JSON via C#
-url: /sv/net/conversion/xls-to-json/
+
 description: Exempelkod för konvertering av xls till json C#. Använd API exempelkod för batch-xls-filer till json-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

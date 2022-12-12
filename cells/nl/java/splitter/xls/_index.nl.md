@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLS-bestanden splitsen via Java 
 weight: 610
-url: /nl/java/splitter/xls/ 
+
 description: Java voorbeeldcode om XLS-documenten te splitsen in Java Runtime Environment voor JSP/JSF-applicaties en desktopapplicaties.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

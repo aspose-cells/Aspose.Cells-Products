@@ -1,7 +1,7 @@
 ---
 title: Generate Reports in XLSM Files via Java 
 weight: 270
-url: /java/assembly/xlsm/ 
+
 description: Java sample code to create XLSM format reports on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

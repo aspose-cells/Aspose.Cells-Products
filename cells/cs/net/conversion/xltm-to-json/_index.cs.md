@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLTM na JSON přes C#
-url: /cs/net/conversion/xltm-to-json/
+
 description: Ukázkový kód pro převod xltm na json C#. Použijte API ukázkový kód pro dávkový převod souborů xltm na json v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

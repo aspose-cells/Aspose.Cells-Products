@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してXLSBをTIFFに変換します
-url: /ja/net/conversion/xlsb-to-tiff/
+
 description: xlsbからtiffC#への変換のサンプルコード。バッチxlsbファイルのAPIサンプルコードを使用して、VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内で変換をtiffします。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

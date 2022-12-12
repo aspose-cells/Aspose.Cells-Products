@@ -1,7 +1,7 @@
-﻿---
+---
 title: Solución de formato de archivo de Excel
 weight: 7730
-url: /es/
+
 description: Cree aplicaciones de manipulación de archivos de Excel utilizando API de código alto o bajo o aplicaciones sin código para ver, comparar, inspeccionar o convertir archivos de Excel.
 ---
 {{< blocks/products/pf/main-wrap-class >}}

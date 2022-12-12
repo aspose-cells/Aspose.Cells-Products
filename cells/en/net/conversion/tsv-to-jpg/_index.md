@@ -1,6 +1,6 @@
 ---
 title: Convert TSV to JPG via C#
-url: /net/conversion/tsv-to-jpg/
+
 description: Convert TSV to JPG format in C# code. Save TSV as JPG using VB.NET, Asp.NET or any .NET based application.
 ---
 

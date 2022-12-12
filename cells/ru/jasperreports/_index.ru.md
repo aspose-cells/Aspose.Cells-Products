@@ -1,7 +1,7 @@
-﻿---
+---
 title: Экспорт отчетов в Excel XLS XLSX PDF ODS в JasperReports и JasperServer 
 weight: 9460
-url: /ru/jasperreports/ 
+
 description: Экспорт отчетов из Jasper Reports и JasperServer в формате Excel XLS XLSX PDF ODS TXT и SpreadsheetML. Также распечатывать отчеты в виде электронных таблиц Excel
 ---
 {{< blocks/products/pf/main-wrap-class >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Hasilkan Laporan dalam File XLSB melalui .NET 
 weight: 1690
-url: /id/net/assembly/xlsb/ 
+
 description: C# kode sumber untuk menghasilkan laporan format XLSB di .NET Framework, .NET Core, Mono atau Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

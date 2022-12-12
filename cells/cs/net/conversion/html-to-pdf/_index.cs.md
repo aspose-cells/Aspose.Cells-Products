@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést HTML do PDF pomocí C#
-url: /cs/net/conversion/html-to-pdf/
+
 description: Ukázkový kód pro převod html na pdf C#. Použijte API ukázkový kód pro dávkový převod html souborů na pdf v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل TSV إلى TXT عبر Java 
 weight: 2320
-url: /ar/java/conversion/tsv-to-txt/ 
+
 description: نموذج Java رمز تحويل من تنسيق TSV إلى ملف TXT. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى TXT داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

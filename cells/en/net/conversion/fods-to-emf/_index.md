@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to EMF via C#
-url: /net/conversion/fods-to-emf/
+
 description: Convert FODS to EMF format in C# code. Save FODS as EMF using VB.NET, Asp.NET or any .NET based application.
 ---
 

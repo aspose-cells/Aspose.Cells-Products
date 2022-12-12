@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer ODS naar XPS via C++ applicatie 
 weight: 1930
-url: /nl/cpp/conversion/ods-to-xps/ 
+
 description: Voorbeeld C++ conversiecode voor ODS-document naar XPS-indeling. Programmeurs kunnen deze broncode gebruiken voor batchconversie van ODS naar XPS binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

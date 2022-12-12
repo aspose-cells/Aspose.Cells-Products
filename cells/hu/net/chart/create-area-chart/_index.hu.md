@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Területi diagramok létrehozása a következőn keresztül: C#"
-url: /hu/net/create-area-chart/
+
 description: C# Mintakód Területdiagramok létrehozásához Excelben a .NET Könyvtár használatával. Használja ezt a kódot Területdiagram létrehozásához MS Excelhez VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

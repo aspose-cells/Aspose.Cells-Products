@@ -1,6 +1,6 @@
-﻿---
+---
 title: "MHTML konvertálása TIFF formátumba a következőn keresztül: C#"
-url: /hu/net/conversion/mhtml-to-tiff/
+
 description: Mintakód az mhtml–tiff C# konverzióhoz. Használjon API példakódot kötegelt mhtml fájlokhoz a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazás tiff konverziójához.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

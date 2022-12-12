@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してXLSをXLTXに変換します 
 weight: 4100
-url: /ja/java/conversion/xls-to-xltx/ 
+
 description: XLS形式からXLTXファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、任意のWebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをXLTXにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

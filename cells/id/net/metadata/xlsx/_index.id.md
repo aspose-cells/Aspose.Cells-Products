@@ -1,7 +1,7 @@
-﻿---
+---
 title: Lihat atau Edit Metadata File XLSX melalui .NET 
 weight: 3430
-url: /id/net/metadata/xlsx/ 
+
 description: C# kode sumber untuk mengedit atau melihat metadata format XLSX pada Platform .NET Framework, .NET Core, Mono atau Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

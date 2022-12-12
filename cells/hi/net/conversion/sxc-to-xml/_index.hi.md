@@ -1,6 +1,6 @@
-﻿---
+---
 title: SXC को C# के माध्यम से XML में बदलें
-url: /hi/net/conversion/sxc-to-xml/
+
 description: sxc से xml C# रूपांतरण के लिए नमूना कोड। वीबी.NET, एएसपी.NET या किसी भी .NET आधारित एप्लिकेशन के भीतर बैच एसएक्ससी फाइलों से एक्सएमएल रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

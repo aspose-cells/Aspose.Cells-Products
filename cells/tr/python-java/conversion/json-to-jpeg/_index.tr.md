@@ -1,6 +1,6 @@
-﻿---
+---
 title: JSON'u Python aracılığıyla JPEG'e dönüştürün
-url: /tr/python-java/conversion/json-to-jpeg/
+
 description: json'dan jpeg'e Python dönüştürme için örnek kod. Python uygulamasında toplu json dosyaları için jpeg dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter JSON para ODS via C#
-url: /pt/net/conversion/json-to-ods/
+
 description: Código de amostra para conversão de json para ods C#. Use API código de exemplo para arquivos json em lote para conversão de ods em VB.NET, Asp.NET ou qualquer aplicativo baseado em .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

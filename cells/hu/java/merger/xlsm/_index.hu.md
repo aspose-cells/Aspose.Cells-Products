@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLSM-fájlok egyesítése a következőn keresztül: Java "
 weight: 1270
-url: /hu/java/merger/xlsm/ 
+
 description: Java mintakód az XLSM dokumentumok kombinálásához a Java Runtime Environment for JSP/JSF alkalmazásokhoz és asztali alkalmazásokhoz.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

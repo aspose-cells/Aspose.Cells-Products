@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi XLSB ke JSON melalui C#
-url: /id/net/conversion/xlsb-to-json/
+
 description: Contoh kode untuk konversi xlsb ke json C#. Gunakan API kode contoh untuk file batch xlsb ke konversi json dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

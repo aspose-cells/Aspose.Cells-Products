@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan XLSX ke TABDELIMITED melalui C#
-url: /id/net/conversion/xlsx-to-tabdelimited/
+
 description: Contoh kode untuk konversi xlsx ke tabdelimited C#. Gunakan API kode contoh untuk file batch xlsx ke konversi tabdelimited dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

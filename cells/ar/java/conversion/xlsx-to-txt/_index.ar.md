@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل XLSX إلى TXT عبر Java 
 weight: 3370
-url: /ar/java/conversion/xlsx-to-txt/ 
+
 description: نموذج Java رمز التحويل لتنسيق XLSX إلى ملف TXT. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى TXT داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

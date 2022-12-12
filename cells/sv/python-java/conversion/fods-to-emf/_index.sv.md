@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera FODS till EMF via Python
-url: /sv/python-java/conversion/fods-to-emf/
+
 description: Exempelkod för fods till emf Python-konvertering. Använd API exempelkod för batch fods-filer till emf-konvertering inom Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

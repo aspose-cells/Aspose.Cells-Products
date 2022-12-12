@@ -1,6 +1,6 @@
-﻿---
+---
 title: NUMBERS को Python के द्वारा SVG में बदलें
-url: /hi/python-java/conversion/numbers-to-svg/
+
 description: svg Python रूपांतरण में संख्याओं के लिए नमूना कोड। Python एप्लिकेशन के भीतर svg रूपांतरण में बैच संख्या फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

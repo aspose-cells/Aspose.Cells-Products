@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie FODS in TABDELIMITED über Python
-url: /de/python-java/conversion/fods-to-tabdelimited/
+
 description: Beispielcode für die Umwandlung von fods in tabulatorgetrennte Python. Verwenden Sie den API-Beispielcode für die Stapelverarbeitung von fods-Dateien in tabulatorgetrennte Konvertierung innerhalb der Anwendung Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

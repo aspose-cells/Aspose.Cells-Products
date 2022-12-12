@@ -1,7 +1,7 @@
-﻿---
+---
 title: Python جدول بيانات Excel API - Aspose 
 weight: 2820
-url: /ar/python/ 
+
 description: Python مكتبة جداول البيانات لإنشاء ملفات Excel للقراءة والكتابة وتحليلها.
 ---
 {{< blocks/products/pf/main-wrap-class >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLS в ODS через Python
-url: /ru/python-java/conversion/xls-to-ods/
+
 description: Пример кода для преобразования xls в ods Python. Используйте пример кода API для пакетного преобразования файлов xls в ods в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

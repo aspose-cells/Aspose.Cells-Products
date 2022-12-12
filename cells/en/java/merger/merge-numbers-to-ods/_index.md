@@ -1,6 +1,6 @@
 ---
 title: Merge NUMBERS to ODS Files via Java 
-url: /java/merger/merge-numbers-to-ods/ 
+
 description: Merge NUMBERS to ODS file in Java code. Combine NUMBERS to ODS file using Java based desktop or web application.
 ---
 

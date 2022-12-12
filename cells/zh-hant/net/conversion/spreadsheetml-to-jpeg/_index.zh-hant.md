@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 C# 將 SPREADSHEETML 轉換為 JPEG
-url: /zh-hant/net/conversion/spreadsheetml-to-jpeg/
+
 description: 電子表格到 jpeg C# 轉換的示例代碼。在 VB.NET、Asp.NET 或任何基於 .NET 的應用程序中使用 API 示例代碼將批處理電子表格ml 文件轉換為 jpeg。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

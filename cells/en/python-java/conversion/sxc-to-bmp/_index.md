@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to BMP via Python
-url: /python-java/conversion/sxc-to-bmp/
+
 description: Convert SXC to BMP format in Python code. Save SXC as BMP using Python.
 ---
 

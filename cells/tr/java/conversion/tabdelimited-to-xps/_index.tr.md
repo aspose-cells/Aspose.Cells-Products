@@ -1,6 +1,6 @@
-﻿---
+---
 title: Java aracılığıyla TABDELIMITED'i XPS'e dönüştürün 
-url: /tr/java/conversion/tabdelimited-to-xps/ 
+
 description: TABDELIMITED biçimi için XPS dosyasına örnek Java dönüştürme kodu. Programcılar, Excel ve OpenOffice elektronik tablolarını herhangi bir Web veya Masaüstü Java tabanlı Uygulamada XPS'e aktarmak için bu örnek kodu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan FODS ke XLSX melalui Python
-url: /id/python-java/conversion/fods-to-xlsx/
+
 description: Contoh kode untuk konversi fods ke xlsx Python. Gunakan API kode contoh untuk file batch fods ke konversi xlsx dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

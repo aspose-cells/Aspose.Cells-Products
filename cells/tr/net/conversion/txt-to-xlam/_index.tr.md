@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla TXT'yi XLAM'e dönüştürün
-url: /tr/net/conversion/txt-to-xlam/
+
 description: txt'den xlam'e C# dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu txt dosyalarından xlam'e dönüştürme için API örnek kodu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

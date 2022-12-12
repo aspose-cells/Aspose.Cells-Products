@@ -1,7 +1,7 @@
-﻿---
+---
 title: Zeigen Sie XLS-Dateiformate über .NET an 
 weight: 1260
-url: /de/net/viewer/xls/ 
+
 description: C#-Quellcode zum Laden, Rendern und Anzeigen von XLS-Dokumenten auf .NET Framework-, .NET Core-, Mono- oder Xamarin-Plattformen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

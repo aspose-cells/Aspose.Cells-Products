@@ -1,6 +1,6 @@
-﻿---
+---
 title: Wandeln Sie SPREADSHEETML über Java in SVG um 
-url: /de/java/conversion/spreadsheetml-to-svg/ 
+
 description: Beispiel-Umwandlungscode Java für das SPREADSHEETML-Format in eine SVG-Datei. Programmierer können diesen Beispielcode verwenden, um Excel- und OpenOffice-Tabellen in SVG innerhalb jeder Web- oder Desktop-Java-basierten Anwendung zu exportieren.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

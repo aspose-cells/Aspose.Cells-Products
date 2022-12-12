@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή SXC σε TIFF μέσω Python
-url: /el/python-java/conversion/sxc-to-tiff/
+
 description: Δείγμα κώδικα για μετατροπή από sxc σε tiff Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία sxc για τη μετατροπή tiff εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

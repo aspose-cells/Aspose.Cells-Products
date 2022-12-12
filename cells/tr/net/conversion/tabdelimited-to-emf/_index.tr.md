@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla TABDELIMITED'i EMF'ye dönüştürün
-url: /tr/net/conversion/tabdelimited-to-emf/
+
 description: Sekmeyle sınırlandırılmış emf C# dönüşümü için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde emf dönüştürme için toplu sekmeyle ayrılmış dosyalar için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

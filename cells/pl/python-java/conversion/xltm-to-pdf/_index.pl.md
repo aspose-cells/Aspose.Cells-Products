@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj XLTM na PDF przez Python
-url: /pl/python-java/conversion/xltm-to-pdf/
+
 description: Przykładowy kod konwersji xltm na pdf Python. Użyj przykładowego kodu API dla wsadowych plików xltm do konwersji pdf w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

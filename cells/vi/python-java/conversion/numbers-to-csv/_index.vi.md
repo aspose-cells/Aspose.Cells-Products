@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi NUMBERS thành CSV qua Python
-url: /vi/python-java/conversion/numbers-to-csv/
+
 description: Mã mẫu cho chuyển đổi số thành csv Python. Sử dụng API mã mẫu cho các tệp số lô để chuyển đổi csv trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

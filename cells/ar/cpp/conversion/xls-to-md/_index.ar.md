@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLS إلى MD عبر تطبيق C++ 
-url: /ar/cpp/conversion/xls-to-md/ 
+
 description: نموذج C++ كود التحويل لمستند XLS إلى تنسيق MD. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل دفعة XLS إلى MD داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

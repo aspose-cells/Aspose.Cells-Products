@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してFODSをXLSBに変換します
-url: /ja/python-java/conversion/fods-to-xlsb/
+
 description: fodsからxlsbPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチfodsファイルからxlsbへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: NUMBERS'ı Python aracılığıyla JPEG'e dönüştürün
-url: /tr/python-java/conversion/numbers-to-jpeg/
+
 description: Sayıları jpeg'e Python dönüştürmek için örnek kod. Python uygulamasında toplu iş numarası dosyaları için jpeg dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

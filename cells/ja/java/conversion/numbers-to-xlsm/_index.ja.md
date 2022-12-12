@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してNUMBERSをXLSMに変換します 
-url: /ja/java/conversion/numbers-to-xlsm/ 
+
 description: NUMBERS形式のXLSMファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、WebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをXLSMにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to JSON via Python
-url: /python-java/conversion/fods-to-json/
+
 description: Convert FODS to JSON format in Python code. Save FODS as JSON using Python.
 ---
 

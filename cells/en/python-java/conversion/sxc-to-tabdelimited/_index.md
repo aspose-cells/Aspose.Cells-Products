@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to TABDELIMITED via Python
-url: /python-java/conversion/sxc-to-tabdelimited/
+
 description: Convert SXC to TABDELIMITED format in Python code. Save SXC as TABDELIMITED using Python.
 ---
 

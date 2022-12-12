@@ -1,6 +1,6 @@
-﻿---
+---
 title: Δημιουργία Αρχείων HTML μέσω Java 
-url: /el/java/create-html/ 
+
 description: Java Δείγμα κώδικα για τη δημιουργία εγγράφων HTML. Χρησιμοποιήστε αυτόν τον κώδικα για τη δημιουργία αρχείων HTML μέσα σε Java επιτραπέζιους υπολογιστές ή εφαρμογές ιστού.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

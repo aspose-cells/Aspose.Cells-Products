@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование MHTML в SPREADSHEETML с помощью Python
-url: /ru/python-java/conversion/mhtml-to-spreadsheetml/
+
 description: Пример кода для преобразования mhtml в электронную таблицуml Python. Используйте пример кода API для пакетного преобразования mhtml-файлов в электронную таблицуml в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

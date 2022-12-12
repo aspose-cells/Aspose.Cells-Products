@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TABDELIMITED إلى SVG عبر تطبيق C++ 
-url: /ar/cpp/conversion/tabdelimited-to-svg/ 
+
 description: نموذج C++ رمز تحويل لمستند TABDELIMITED إلى تنسيق SVG. يمكن للمبرمجين استخدام رمز المصدر هذا للتحويل الدفعي من TABDELIMITED إلى SVG داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++アプリケーションを介してTSVをPNGに変換する 
 weight: 1770
-url: /ja/cpp/conversion/tsv-to-png/ 
+
 description: TSVドキュメントからPNG形式へのサンプルC++変換コード。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でTSVからPNGへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

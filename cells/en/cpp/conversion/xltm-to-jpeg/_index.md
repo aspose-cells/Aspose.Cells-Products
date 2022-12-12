@@ -1,6 +1,6 @@
 ---
 title: Convert XLTM to JPEG via C++
-url: /cpp/conversion/xltm-to-jpeg/
+
 description: Convert XLTM to JPEG format in C++ code. Save XLTM as JPEG using C++.
 ---
 

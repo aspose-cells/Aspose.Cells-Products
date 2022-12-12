@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してXLSMをTIFFに変換します
-url: /ja/net/conversion/xlsm-to-tiff/
+
 description: xlsmからtiffC#への変換のサンプルコード。バッチxlsmファイルのAPIサンプルコードを使用して、VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内で変換をtiffします。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to MARKDOWN via C#
-url: /net/conversion/txt-to-markdown/
+
 description: Convert TXT to MARKDOWN format in C# code. Save TXT as MARKDOWN using VB.NET, Asp.NET or any .NET based application.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera ODS till TIFF via C#
-url: /sv/net/conversion/ods-to-tiff/
+
 description: Exempelkod för ods till tiff C#-konvertering. Använd API exempelkod för batch-ods-filer för att tiff-konvertera inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

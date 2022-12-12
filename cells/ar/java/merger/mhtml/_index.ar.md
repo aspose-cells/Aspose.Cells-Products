@@ -1,7 +1,7 @@
-﻿---
+---
 title: دمج ملفات MHTML عبر Java 
 weight: 4420
-url: /ar/java/merger/mhtml/ 
+
 description: Java نموذج كود لدمج مستندات MHTML في Java Runtime Environment لتطبيق JSP / JSF وتطبيقات سطح المكتب.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

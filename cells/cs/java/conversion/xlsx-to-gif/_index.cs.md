@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést XLSX na GIF přes Java 
 weight: 2750
-url: /cs/java/conversion/xlsx-to-gif/ 
+
 description: Ukázka převodního kódu Java pro formát XLSX na soubor GIF. Programátoři mohou tento příklad kódu použít k exportu tabulek Excelu a OpenOffice do formátu GIF v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

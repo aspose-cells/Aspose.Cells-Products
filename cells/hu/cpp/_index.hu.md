@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ Excel táblázatkezelő programozás API - Aspose 
 weight: 7140
-url: /hu/cpp/ 
+
 description: C++ Excel-könyvtár az XLS, XLSX, XLSM és XLSB formátumú fájlok olvasásához és elemzéséhez. Konvertálja a táblázatokat PDF, CSV és egyéb formátumokká
 ---
 {{< blocks/products/pf/main-wrap-class >}}

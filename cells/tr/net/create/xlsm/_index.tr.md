@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla MS Excel XLSM Dosyaları oluşturun 
-url: /tr/net/create-xlsm/ 
+
 description: C# XLSM belgeleri oluşturmak için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde MS Excel XLSM dosyaları oluşturmak için bu kodu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

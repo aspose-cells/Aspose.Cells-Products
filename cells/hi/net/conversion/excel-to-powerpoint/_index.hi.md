@@ -1,6 +1,6 @@
-﻿---
+---
 title: EXCEL को C# के माध्यम से पावरपॉइंट में बदलें
-url: /hi/net/conversion/excel-to-powerpoint/
+
 description: एक्सेल से पावरपॉइंट C# रूपांतरण के लिए नमूना कोड। VB.NET, Asp.NET या किसी भी .NET आधारित एप्लिकेशन के भीतर बैच एक्सेल फ़ाइलों को पावरपॉइंट रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

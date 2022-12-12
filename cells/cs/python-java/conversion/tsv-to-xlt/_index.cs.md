@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TSV na XLT přes Python
-url: /cs/python-java/conversion/tsv-to-xlt/
+
 description: Ukázkový kód pro převod tsv na xlt Python. Použijte API ukázkový kód pro dávkový převod souborů tsv na xlt v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

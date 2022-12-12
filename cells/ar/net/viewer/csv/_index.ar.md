@@ -1,7 +1,7 @@
-﻿---
+---
 title: عرض تنسيقات ملف CSV عبر .NET 
 weight: 7690
-url: /ar/net/viewer/csv/ 
+
 description: C# شفرة المصدر لتحميل وعرض وعرض مستندات CSV على الأنظمة الأساسية .NET Framework أو .NET Core أو Mono أو Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python के माध्यम से HTML को GIF में बदलें
-url: /hi/python-java/conversion/html-to-gif/
+
 description: html से gif Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर बैच एचटीएमएल फाइलों को जीआईएफ रूपांतरण के लिए API उदाहरण कोड का प्रयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

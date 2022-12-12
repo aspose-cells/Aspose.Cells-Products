@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してXLSXをPDF/A準拠ファイルに変換します 
 weight: 3200
-url: /ja/java/conversion/xlsx-to-pdf-a/ 
+
 description: XLSX形式からPDFA準拠ファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のPDFA準拠ファイルにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

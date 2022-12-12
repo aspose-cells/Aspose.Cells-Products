@@ -1,7 +1,7 @@
-﻿---
+---
 title: Hợp nhất các Tệp MHTML qua Java 
 weight: 4420
-url: /vi/java/merger/mhtml/ 
+
 description: Java mã mẫu để kết hợp tài liệu MHTML trên Java Môi trường thời gian chạy cho Ứng dụng JSP / JSF và Ứng dụng máy tính để bàn.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

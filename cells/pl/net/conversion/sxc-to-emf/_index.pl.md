@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj SXC na EMF przez C#
-url: /pl/net/conversion/sxc-to-emf/
+
 description: Przykładowy kod konwersji sxc na emf C#. Użyj przykładowego kodu API dla plików wsadowych sxc do konwersji emf w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

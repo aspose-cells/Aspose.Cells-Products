@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to XLT via C#
-url: /net/conversion/txt-to-xlt/
+
 description: Convert TXT to XLT format in C# code. Save TXT as XLT using VB.NET, Asp.NET or any .NET based application.
 ---
 

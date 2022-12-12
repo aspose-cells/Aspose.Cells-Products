@@ -1,6 +1,6 @@
-﻿---
+---
 title: "CSV konvertálása TXT-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/csv-to-txt/
+
 description: Mintakód a csv-ből txt-be Python konverzióhoz. Használjon API példakódot a csv-fájlok kötegelt txt-be konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

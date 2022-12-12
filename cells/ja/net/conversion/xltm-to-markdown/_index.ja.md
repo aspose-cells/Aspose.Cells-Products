@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してXLTMをMARKDOWNに変換します
-url: /ja/net/conversion/xltm-to-markdown/
+
 description: xltmからマークダウンC#への変換のサンプルコード。バッチxltmファイルのAPIサンプルコードを使用して、VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内で変換をマークダウンします。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

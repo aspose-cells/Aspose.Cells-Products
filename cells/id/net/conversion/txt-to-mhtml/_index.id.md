@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan TXT ke MHTML melalui C#
-url: /id/net/conversion/txt-to-mhtml/
+
 description: Contoh kode untuk konversi txt ke mhtml C#. Gunakan API kode contoh untuk file batch txt ke konversi mhtml dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

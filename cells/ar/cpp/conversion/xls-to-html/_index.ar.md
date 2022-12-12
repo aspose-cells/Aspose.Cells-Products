@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل XLS إلى HTML عبر تطبيق C++ 
 weight: 2680
-url: /ar/cpp/conversion/xls-to-html/ 
+
 description: نموذج C++ رمز التحويل لمستند XLS إلى تنسيق HTML. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل XLS إلى HTML دفعة داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan XLS ke JSON melalui Python
-url: /id/python-java/conversion/xls-to-json/
+
 description: Contoh kode untuk konversi xls ke json Python. Gunakan API kode contoh untuk file batch xls ke konversi json dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

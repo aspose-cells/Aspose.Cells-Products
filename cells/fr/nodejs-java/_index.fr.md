@@ -1,7 +1,7 @@
-﻿---
+---
 title: API Node.js pour les feuilles de calcul Excel – Aspose 
 weight: 3120
-url: /fr/nodejs-java/ 
+
 description: Traiter les formats de fichiers Excel via la bibliothèque Node.js. Lire écrire rendre et convertir XLS XLSX XLSB XLTX XLTM XLSM XML ODS CSV et plus de formats via Node.js sur Windows, macOS et Linux
 ---
 {{< blocks/products/pf/main-wrap-class >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Sök och ersätt text i XLSM-dokument via .NET 
 weight: 2370
-url: /sv/net/redaction/xlsm/ 
+
 description: C# källkod för att redigera känslig information i XLSM-fil på .NET Framework, .NET Core, Mono eller Xamarin-plattformar.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

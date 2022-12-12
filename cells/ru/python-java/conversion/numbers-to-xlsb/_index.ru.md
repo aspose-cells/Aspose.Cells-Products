@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование NUMBERS в XLSB через Python
-url: /ru/python-java/conversion/numbers-to-xlsb/
+
 description: Пример кода для преобразования чисел в xlsb Python. Используйте пример кода API для преобразования файлов номеров пакетов в xlsb в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

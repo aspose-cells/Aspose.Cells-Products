@@ -1,6 +1,6 @@
-﻿---
+---
 title: Hợp nhất các tệp MHT qua .NET 
-url: /vi/net/merger/mht/ 
+
 description: Hãy thử các API hợp nhất tin nhắn On-Premise của chúng tôi để kết hợp các tài liệu MHT trên Nền tảng .NET Framework, .NET Core và Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

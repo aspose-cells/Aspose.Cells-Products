@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertieren Sie XLS in EMF über Java 
 weight: 4350
-url: /de/java/conversion/xls-to-emf/ 
+
 description: Beispiel-Umwandlungscode Java für das XLS-Format in eine EMF-Datei. Programmierer können diesen Beispielcode verwenden, um Excel- und OpenOffice-Tabellen in EMF innerhalb einer beliebigen Web- oder Desktop-Java-basierten Anwendung zu exportieren.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

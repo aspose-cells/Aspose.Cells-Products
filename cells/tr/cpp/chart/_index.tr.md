@@ -1,6 +1,6 @@
-﻿---
+---
 title: Excel Grafikleri Oluşturun ve C++ ile Görüntülere Dönüştürün
-url: /tr/cpp/chart/
+
 description: C++ Kitaplığı'nı kullanarak Microsoft Excel'de grafik veya diyagram çizmek ve dönüştürmek için C++ kaynak kodu
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

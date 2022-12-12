@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してODSをMARKDOWNに変換する
-url: /ja/python-java/conversion/ods-to-markdown/
+
 description: odsからmarkdownPythonへの変換のサンプルコード。 Pythonアプリケーション内で変換をマークダウンするためのバッチodsファイルのAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

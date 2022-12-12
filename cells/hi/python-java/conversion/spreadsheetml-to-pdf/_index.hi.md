@@ -1,6 +1,6 @@
-﻿---
+---
 title: स्प्रैडशीटएमएल को Python के माध्यम से पीडीएफ में बदलें
-url: /hi/python-java/conversion/spreadsheetml-to-pdf/
+
 description: स्प्रैडशीटएमएल से पीडीएफ़ Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर बैच स्प्रेडशीटएमएल फाइलों से पीडीएफ रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

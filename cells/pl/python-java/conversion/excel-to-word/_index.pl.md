@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj EXCEL na WORD przez Python
-url: /pl/python-java/conversion/excel-to-word/
+
 description: Przykładowy kod konwersji programu Excel do słowa Python. Użyj przykładowego kodu API dla wsadowych plików programu Excel do konwersji słów w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

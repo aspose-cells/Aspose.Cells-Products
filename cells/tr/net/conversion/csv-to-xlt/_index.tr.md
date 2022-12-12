@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla CSV'yi XLT'ye dönüştürün
-url: /tr/net/conversion/csv-to-xlt/
+
 description: csv'den xlt'ye C# dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu csv dosyalarından xlt'ye dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

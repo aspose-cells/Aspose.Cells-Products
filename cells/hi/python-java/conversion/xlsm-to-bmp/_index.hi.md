@@ -1,6 +1,6 @@
-﻿---
+---
 title: XLSM को BMP से Python में बदलें
-url: /hi/python-java/conversion/xlsm-to-bmp/
+
 description: xlsm से bmp Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर बैच xlsm फ़ाइलों को bmp रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

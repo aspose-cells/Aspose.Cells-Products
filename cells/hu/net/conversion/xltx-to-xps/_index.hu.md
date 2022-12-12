@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLTX konvertálása XPS-re a következőn keresztül: C#"
-url: /hu/net/conversion/xltx-to-xps/
+
 description: Mintakód az xltx–xps C# konverzióhoz. Használjon API példakódot az xltx fájlok kötegelt xps-re konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

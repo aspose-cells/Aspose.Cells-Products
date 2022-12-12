@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 C++ 應用程序將 TXT 轉換為 PDF 
-url: /zh-hant/cpp/conversion/txt-to-pdf/ 
+
 description: TXT 文檔到 PDF 格式的示例 C++ 轉換代碼。程序員可以使用此源代碼在任何 C++ 應用程序中將 TXT 批量轉換為 PDF。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Crear archivos CSV a través de Java 
-url: /es/java/create-csv/ 
+
 description: Java Código de ejemplo para generar documentos CSV. Utilice este código para crear archivos CSV dentro de una aplicación web o de escritorio basada en Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

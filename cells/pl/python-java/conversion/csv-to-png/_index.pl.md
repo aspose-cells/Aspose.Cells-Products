@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj CSV na PNG za pomocą Python
-url: /pl/python-java/conversion/csv-to-png/
+
 description: Przykładowy kod konwersji csv do png Python. Użyj przykładowego kodu API dla wsadowych plików csv do konwersji png w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

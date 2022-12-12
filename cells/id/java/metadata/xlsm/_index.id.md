@@ -1,7 +1,7 @@
-﻿---
+---
 title: Edit atau Lihat Metadata File XLSM melalui Java 
 weight: 9030
-url: /id/java/metadata/xlsm/ 
+
 description: Java kode contoh untuk mengedit atau melihat metadata format XLSM di Java Lingkungan Waktu Proses untuk Aplikasi JSP/JSF dan Aplikasi Desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

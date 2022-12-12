@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLTM को Java के द्वारा TIFF में बदलें 
 weight: 3320
-url: /hi/java/conversion/xltm-to-tiff/ 
+
 description: नमूना Java XLTM प्रारूप के लिए TIFF फ़ाइल में रूपांतरण कोड। प्रोग्रामर इस उदाहरण कोड का उपयोग एक्सेल और ओपनऑफिस स्प्रेडशीट को किसी भी वेब या डेस्कटॉप Java आधारित एप्लिकेशन के भीतर टीआईएफएफ को निर्यात करने के लिए कर सकते हैं।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

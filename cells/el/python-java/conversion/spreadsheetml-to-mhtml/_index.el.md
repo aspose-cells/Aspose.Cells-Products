@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή SPREADSHEETML σε MHTML μέσω Python
-url: /el/python-java/conversion/spreadsheetml-to-mhtml/
+
 description: Δείγμα κώδικα για μετατροπή υπολογιστικού φύλλου σε mhtml Python. Χρησιμοποιήστε API παράδειγμα κώδικα για μαζική μετατροπή αρχείων υπολογιστικών φύλλων σε mhtml εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

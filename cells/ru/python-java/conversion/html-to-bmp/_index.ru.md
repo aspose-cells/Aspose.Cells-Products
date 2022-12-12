@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование HTML в BMP через Python
-url: /ru/python-java/conversion/html-to-bmp/
+
 description: Пример кода для преобразования html в bmp Python. Используйте пример кода API для пакетного преобразования файлов html в bmp в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

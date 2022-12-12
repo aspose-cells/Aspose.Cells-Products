@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TSV إلى SVG عبر Python
-url: /ar/python-java/conversion/tsv-to-svg/
+
 description: نموذج رمز للتحويل من tsv إلى svg Python. استخدم API مثال الكود لملفات دفعية tsv لتحويل svg داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

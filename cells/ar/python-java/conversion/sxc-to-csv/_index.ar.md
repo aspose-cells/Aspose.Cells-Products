@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل SXC إلى CSV عبر Python
-url: /ar/python-java/conversion/sxc-to-csv/
+
 description: نموذج كود للتحويل من sxc إلى csv Python. استخدم API رمز المثال لملفات sxc الدفعية لتحويل csv داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

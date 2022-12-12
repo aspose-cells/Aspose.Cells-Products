@@ -1,7 +1,7 @@
-﻿---
+---
 title: Wyszukaj dokument XLSB bez otwierania przez C++ 
 weight: 7020
-url: /pl/cpp/search/xlsb/ 
+
 description: C++ przykładowy kod do wyszukiwania słów ze wzorcem w pliku XLSB w C++ środowisku wykonawczym dla Windows 32-bitowy, Windows 64-bitowy i Linux 64-bitowy.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

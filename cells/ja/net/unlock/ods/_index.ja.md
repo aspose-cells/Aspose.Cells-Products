@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NETを介してODSドキュメントのロックを解除します 
 weight: 3110
-url: /ja/net/unlock/ods/ 
+
 description: .NETフレームワーク、.NETコア、Mono、またはXamarinプラットフォームでパスワードで保護されたODSファイルのロックを解除するためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

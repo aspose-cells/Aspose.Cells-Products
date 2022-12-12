@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie CSV in GIF über C#
-url: /de/net/conversion/csv-to-gif/
+
 description: Beispielcode für die Umwandlung von csv in gif C#. Verwenden Sie API Beispielcode für die Batch-Konvertierung von CSV-Dateien in GIF in VB.NET, Asp.NET oder einer beliebigen .NET-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to TABDELIMITED via Java 
-url: /java/conversion/xltx-to-tabdelimited/
+
 description: Convert XLTX to TABDELIMITED format in Java code. Save XLTX as TABDELIMITED using Java.
 ---
 

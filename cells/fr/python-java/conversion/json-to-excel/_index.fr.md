@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir JSON en EXCEL via Python
-url: /fr/python-java/conversion/json-to-excel/
+
 description: Exemple de code pour la conversion json vers excel Python. Utilisez l'exemple de code API pour les fichiers json batch vers la conversion Excel dans l'application Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

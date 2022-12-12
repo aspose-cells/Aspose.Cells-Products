@@ -1,6 +1,6 @@
-﻿---
+---
 title: Hantera Excel-filmetadata via .NET C#
-url: /sv/net/metadata/
+
 description: Visa, lägg till, redigera, ta bort eller extrahera Excel-filers metadata med bara några rader med C#-kod
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

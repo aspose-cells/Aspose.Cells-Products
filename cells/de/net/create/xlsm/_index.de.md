@@ -1,6 +1,6 @@
-﻿---
+---
 title: Erstellen Sie MS Excel XLSM-Dateien über C# 
-url: /de/net/create-xlsm/ 
+
 description: C# Beispielcode zum Generieren von XLSM-Dokumenten. Verwenden Sie diesen Code zum Erstellen von MS Excel XLSM-Dateien in VB.NET, Asp.NET oder einer beliebigen .NET-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

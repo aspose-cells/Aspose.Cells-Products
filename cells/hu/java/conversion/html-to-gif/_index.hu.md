@@ -1,7 +1,7 @@
-﻿---
+---
 title: "HTML konvertálása GIF formátumba a következőn keresztül: Java "
 weight: 3180
-url: /hu/java/conversion/html-to-gif/ 
+
 description: Minta Java konverziós kód HTML-formátumhoz GIF-fájllá. A programozók ezt a példakódot használhatják Excel és OpenOffice táblázatok exportálására GIF formátumba bármely web- vagy asztali Java alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

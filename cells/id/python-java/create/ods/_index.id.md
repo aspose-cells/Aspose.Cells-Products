@@ -1,6 +1,6 @@
-﻿---
+---
 title: Buat File ODS (Openoffice / Lbreoffice) melalui Python 
-url: /id/python-java/create-ods/ 
+
 description: Python Contoh kode untuk membuat dokumen ODS. Gunakan kode ini untuk membuat file ODS (Openoffice / Lbreoffice) dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

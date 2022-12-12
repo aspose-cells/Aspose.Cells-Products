@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir MHTML en HTML via C#
-url: /fr/net/conversion/mhtml-to-html/
+
 description: Exemple de code pour la conversion mhtml en html C#. Utilisez l'exemple de code API pour les fichiers batch mhtml en conversion html dans VB.NET, Asp.NET ou toute application basée sur .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

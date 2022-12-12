@@ -1,7 +1,7 @@
-﻿---
+---
 title: Vyhledejte a nahraďte text v dokumentu XLSM prostřednictvím .NET 
 weight: 2370
-url: /cs/net/redaction/xlsm/ 
+
 description: C# zdrojového kódu pro redigování citlivých informací v souboru XLSM na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

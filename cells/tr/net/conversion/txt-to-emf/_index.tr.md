@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# üzerinden TXT'yi EMF'ye dönüştürün
-url: /tr/net/conversion/txt-to-emf/
+
 description: txt'den emf'ye C# dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde emf dönüşümüne toplu txt dosyaları için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

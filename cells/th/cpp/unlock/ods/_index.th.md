@@ -1,7 +1,7 @@
-﻿---
+---
 title: ปลดล็อกเอกสาร ODS ผ่าน C++ 
 weight: 1190
-url: /th/cpp/unlock/ods/ 
+
 description: C++ ตัวอย่างโค้ดเพื่อปลดล็อกไฟล์ ODS ที่ป้องกันด้วยรหัสผ่านใน C++ Runtime Environment สำหรับ Windows 32 บิต, Windows 64 บิต และ Linux 64 บิต
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: FODS'u C# aracılığıyla XLTM'ye dönüştürün
-url: /tr/net/conversion/fods-to-xltm/
+
 description: Yemlerden xltm'ye C# dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu dosya dosyalarından xltm'ye dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

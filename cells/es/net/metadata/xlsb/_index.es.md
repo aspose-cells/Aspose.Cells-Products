@@ -1,7 +1,7 @@
-﻿---
+---
 title: Ver o editar metadatos de archivos XLSB a través de .NET 
 weight: 7890
-url: /es/net/metadata/xlsb/ 
+
 description: C# código fuente para editar o ver metadatos en formato XLSB en .NET Framework, .NET Core, Mono o Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

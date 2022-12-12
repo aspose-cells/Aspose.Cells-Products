@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してHTMLをXLTMに変換します
-url: /ja/net/conversion/html-to-xltm/
+
 description: htmlからxltmC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチhtmlファイルからxltmへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

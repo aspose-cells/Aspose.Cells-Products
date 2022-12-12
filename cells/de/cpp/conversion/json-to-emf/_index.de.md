@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie JSON über die Anwendung C++ in EMF 
-url: /de/cpp/conversion/json-to-emf/ 
+
 description: Beispiel-Umwandlungscode C++ für das JSON-Dokument in das EMF-Format. Programmierer können diesen Quellcode für die Batch-Konvertierung von JSON in EMF in jeder C++-Anwendung verwenden.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

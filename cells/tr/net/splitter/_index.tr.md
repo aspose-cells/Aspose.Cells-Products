@@ -1,6 +1,6 @@
-﻿---
+---
 title: Excel Çalışma Sayfası sayfasını C# içinde akıllıca ayırın
-url: /tr/net/splitter/
+
 description: Microsoft Excel dosyalarının Visual C#.NET uygulamalarında birden çok dosyaya nasıl bölüneceğini açıklayan C# kaynak kodları
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

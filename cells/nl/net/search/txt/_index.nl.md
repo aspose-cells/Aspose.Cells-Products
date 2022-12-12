@@ -1,7 +1,7 @@
-﻿---
+---
 title: Zoek TXT-document zonder te openen via .NET 
 weight: 8410
-url: /nl/net/search/txt/ 
+
 description: C# broncode om woorden met patroon te zoeken in TXT-bestand op .NET Framework, .NET Core, Mono of Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLSX konvertálása MD-re a következőn keresztül: C#"
-url: /hu/net/conversion/xlsx-to-md/
+
 description: Mintakód az xlsx–md C# konverzióhoz. Használjon API példakódot a kötegelt xlsx fájlok md konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

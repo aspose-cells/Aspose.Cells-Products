@@ -1,6 +1,6 @@
-﻿---
+---
 title: "ODS konvertálása SVG-vé a következőn keresztül: Python"
-url: /hu/python-java/conversion/ods-to-svg/
+
 description: Mintakód az ods to svg Python konverziójához. Használjon API példakódot kötegelt ods-fájlokhoz az SVG-konverzióhoz a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

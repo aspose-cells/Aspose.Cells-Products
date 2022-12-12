@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLSM-et SVG-vé a C++ alkalmazással 
-url: /hu/cpp/conversion/xlsm-to-svg/ 
+
 description: Minta C++ konverziós kód az XLSM dokumentumhoz SVG formátumba. A programozók ezt a forráskódot használhatják kötegelt XLSM-SVG-konverzióhoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

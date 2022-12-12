@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TABDELIMITED إلى XPS عبر تطبيق C++ 
-url: /ar/cpp/conversion/tabdelimited-to-xps/ 
+
 description: نموذج C++ رمز تحويل لمستند TABDELIMITED إلى تنسيق XPS. يمكن للمبرمجين استخدام رمز المصدر هذا للتحويل الدفعي من TABDELIMITED إلى XPS داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

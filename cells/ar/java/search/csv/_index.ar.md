@@ -1,7 +1,7 @@
-﻿---
+---
 title: بحث في مستند CSV بدون فتح عبر Java 
 weight: 390
-url: /ar/java/search/csv/ 
+
 description: Java نموذج كود للبحث عن الكلمات ذات النمط في ملف CSV في Java Runtime Environment لتطبيق JSP / JSF وتطبيقات سطح المكتب.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

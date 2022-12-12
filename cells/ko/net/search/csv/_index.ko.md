@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET을(를) 통해 열지 않고 CSV 문서 검색 
 weight: 7510
-url: /ko/net/search/csv/ 
+
 description: C# 소스 코드를 사용하여 .NET Framework, .NET Core, Mono 또는 Xamarin 플랫폼에서 CSV 파일의 패턴이 있는 단어를 검색합니다.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

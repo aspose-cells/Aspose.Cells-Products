@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή NUMBERS σε SPREADSHEETML μέσω Python
-url: /el/python-java/conversion/numbers-to-spreadsheetml/
+
 description: Δείγμα κώδικα για τη μετατροπή αριθμών σε υπολογιστικό φύλλο ml Python. Χρησιμοποιήστε API παράδειγμα κώδικα για αρχεία αριθμών παρτίδας για τη μετατροπή υπολογιστικών φύλλων εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

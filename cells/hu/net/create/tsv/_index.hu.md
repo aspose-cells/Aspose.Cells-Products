@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TSV-fájlok létrehozása a következőn keresztül: C# "
-url: /hu/net/create-tsv/ 
+
 description: C# Mintakód a TSV-dokumentumok generálásához. Használja ezt a kódot TSV-fájlok létrehozásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazásban.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

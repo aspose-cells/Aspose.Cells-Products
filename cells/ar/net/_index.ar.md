@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET Excel API | تنسيقات جدول البيانات العملية عبر .NET Core 
 weight: 2030
-url: /ar/net/ 
+
 description: مكتبة C# ASP .NET VB .NET للعمل مع مستندات Microsoft Excel. إنشاء قراءة وكتابة وحفظ وطباعة ملفات جداول البيانات. قم بالتحويل إلى PDF أو تنسيقات أكثر
 ---
 {{< blocks/products/pf/main-wrap-class >}}

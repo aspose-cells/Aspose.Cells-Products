@@ -1,6 +1,6 @@
-﻿---
+---
 title: SXC को JSON में C++ एप्लिकेशन के माध्यम से कनवर्ट करें 
-url: /hi/cpp/conversion/sxc-to-json/ 
+
 description: नमूना C++ एसएक्ससी दस्तावेज़ के लिए जेएसओएन प्रारूप में रूपांतरण कोड। प्रोग्रामर इस स्रोत कोड का उपयोग किसी भी C++ एप्लिकेशन के भीतर बैच SXC से JSON रूपांतरण के लिए कर सकते हैं।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

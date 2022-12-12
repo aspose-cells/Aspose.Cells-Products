@@ -1,6 +1,6 @@
-﻿---
+---
 title: XLTXをPython経由でTABDELIMITEDに変換します
-url: /ja/python-java/conversion/xltx-to-tabdelimited/
+
 description: xltxからtabdelimitedPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチxltxファイルからタブ区切りへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

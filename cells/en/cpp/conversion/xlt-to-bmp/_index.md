@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to BMP via C++
-url: /cpp/conversion/xlt-to-bmp/
+
 description: Convert XLT to BMP format in C++ code. Save XLT as BMP using C++.
 ---
 

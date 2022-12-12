@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to PDF via Python
-url: /python-net/conversion/xlt-to-pdf/
+
 description: Sample code for xlt to pdf Python conversion. Use API example code for batch xlt files to pdf conversion within Python application.
 ---
 

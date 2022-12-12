@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést MHTML na MARKDOWN prostřednictvím Python
-url: /cs/python-java/conversion/mhtml-to-markdown/
+
 description: Ukázkový kód pro konverzi mhtml na markdown Python. Použijte API ukázkový kód pro dávkové soubory mhtml ke konverzi markdown v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

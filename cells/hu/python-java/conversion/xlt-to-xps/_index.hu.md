@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLT konvertálása XPS-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/xlt-to-xps/
+
 description: Mintakód az xlt–xps Python konverzióhoz. Használjon API példakódot a kötegelt xlt-fájlok xps-re konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

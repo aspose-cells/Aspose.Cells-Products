@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to TSV via Java 
-url: /java/conversion/fods-to-tsv/
+
 description: Convert FODS to TSV format in Java code. Save FODS as TSV using Java.
 ---
 

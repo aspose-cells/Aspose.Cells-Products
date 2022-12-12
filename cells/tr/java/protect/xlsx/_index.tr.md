@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java aracılığıyla XLSX belgesini koruyun ve kilitleyin 
 weight: 1870
-url: /tr/java/protect/xlsx/ 
+
 description: Java JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Runtime Environment'da şifre kullanarak XLSX dosyasını kilitlemek için örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

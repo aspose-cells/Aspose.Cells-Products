@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla TXT'yi JSON'a dönüştürün
-url: /tr/net/conversion/txt-to-json/
+
 description: txt'den json'a C# dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu txt dosyalarından json'a dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

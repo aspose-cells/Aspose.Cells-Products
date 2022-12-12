@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer TSV naar SVG via Python
-url: /nl/python-java/conversion/tsv-to-svg/
+
 description: Voorbeeldcode voor conversie van tsv naar svg Python. Gebruik API voorbeeldcode voor batch-tsv-bestanden naar svg-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

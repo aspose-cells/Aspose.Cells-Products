@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer XLSB naar XPS via Java 
 weight: 9470
-url: /nl/java/conversion/xlsb-to-xps/ 
+
 description: Voorbeeld Java conversiecode voor XLSB-indeling naar XPS-bestand. Programmeurs kunnen deze voorbeeldcode gebruiken om Excel- en OpenOffice-spreadsheets naar XPS te exporteren binnen elke web- of desktoptoepassing Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

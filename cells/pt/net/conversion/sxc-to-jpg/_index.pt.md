@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter SXC para JPG via C#
-url: /pt/net/conversion/sxc-to-jpg/
+
 description: Código de exemplo para conversão de sxc para jpg C#. Use API código de exemplo para conversão de arquivos sxc em lote para jpg em VB.NET, Asp.NET ou qualquer aplicativo baseado em .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

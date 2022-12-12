@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل SPREADSHEETML إلى CSV عبر تطبيق C++ 
-url: /ar/cpp/conversion/spreadsheetml-to-csv/ 
+
 description: نموذج رمز تحويل C++ لمستند SPREADSHEETML إلى تنسيق CSV. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل SPREADSHEETML دفعة واحدة إلى CSV داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

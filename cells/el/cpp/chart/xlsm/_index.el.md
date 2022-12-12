@@ -1,7 +1,7 @@
-﻿---
+---
 title: Γράφημα εγγράφων XLSM μέσω C++ 
 weight: 8510
-url: /el/cpp/chart/xlsm/ 
+
 description: C++ παράδειγμα κώδικα για τη σχεδίαση και τη μετατροπή γραφήματος ή διαγράμματος σε αρχείο XLSM σε C++ Runtime Environment για Windows 32 bit, Windows 64 bit και Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

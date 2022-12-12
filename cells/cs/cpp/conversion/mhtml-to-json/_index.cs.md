@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte MHTML na JSON pomocí aplikace C++ 
-url: /cs/cpp/conversion/mhtml-to-json/ 
+
 description: Ukázka převodního kódu C++ pro dokument MHTML na formát JSON. Programátoři mohou použít tento zdrojový kód pro dávkový převod MHTML na JSON v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

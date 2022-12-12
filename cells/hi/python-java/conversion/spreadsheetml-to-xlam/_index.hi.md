@@ -1,6 +1,6 @@
-﻿---
+---
 title: PREADSHEETML को Python के माध्यम से XLAM में बदलें
-url: /hi/python-java/conversion/spreadsheetml-to-xlam/
+
 description: स्प्रेडशीटएमएल से xlam Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर xlam रूपांतरण में बैच स्प्रेडशीटएमएल फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

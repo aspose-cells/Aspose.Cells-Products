@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование JSON в TIFF с помощью приложения C++ 
-url: /ru/cpp/conversion/json-to-tiff/ 
+
 description: Пример кода преобразования C++ для документа JSON в формат TIFF. Программисты могут использовать этот исходный код для пакетного преобразования JSON в TIFF в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง HTML เป็น JPEG ผ่าน Python
-url: /th/python-java/conversion/html-to-jpeg/
+
 description: โค้ดตัวอย่างสำหรับการแปลง html เป็น jpeg Python ใช้โค้ดตัวอย่าง API สำหรับไฟล์ html แบบแบตช์เป็นการแปลง jpeg ภายในแอปพลิเคชัน Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

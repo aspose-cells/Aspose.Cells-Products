@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование TXT в DIF через Python
-url: /ru/python-java/conversion/txt-to-dif/
+
 description: Пример кода для преобразования txt в dif Python. Используйте пример кода API для пакетных файлов txt для преобразования различий в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

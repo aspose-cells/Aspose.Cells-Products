@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan XLTX ke SVG melalui C#
-url: /id/net/conversion/xltx-to-svg/
+
 description: Contoh kode untuk konversi xltx ke svg C#. Gunakan API kode contoh untuk file batch xltx ke konversi svg dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

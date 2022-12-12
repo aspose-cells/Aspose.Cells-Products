@@ -1,7 +1,7 @@
-﻿---
+---
 title: Telusuri dokumen XLSB tanpa membuka melalui C++ 
 weight: 7020
-url: /id/cpp/search/xlsb/ 
+
 description: C++ contoh kode untuk mencari kata dengan pola dalam file XLSB pada C++ Runtime Environment untuk Windows 32 bit, Windows 64 bit dan Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

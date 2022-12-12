@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLSM-et XLS-re a(z) C++ alkalmazással 
-url: /hu/cpp/conversion/xlsm-to-xls/ 
+
 description: Minta C++ konverziós kód XLSM dokumentumhoz XLS formátumba. A programozók ezt a forráskódot használhatják kötegelt XLSM-XLS-konverzióhoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

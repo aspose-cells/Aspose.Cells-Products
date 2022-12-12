@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Szöveg keresése és cseréje XLSM-dokumentumban a következőn keresztül: Java "
 weight: 1590
-url: /hu/java/redaction/xlsm/ 
+
 description: Java mintakód az XLSM-fájl érzékeny információinak törléséhez a Java Runtime Environment for JSP/JSF Applications and Desktop Applications webhelyen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

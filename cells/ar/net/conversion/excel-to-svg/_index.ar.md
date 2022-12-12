@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل EXCEL إلى SVG عبر C#
-url: /ar/net/conversion/excel-to-svg/
+
 description: نموذج رمز للتحويل من Excel إلى svg C#. استخدم API رمز المثال لملفات Excel الدفعية لتحويل svg داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

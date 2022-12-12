@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLSM konvertálása TXT-re a következőn keresztül: C#"
-url: /hu/net/conversion/xlsm-to-txt/
+
 description: Mintakód az xlsm–txt C# konverzióhoz. Használjon API példakódot a kötegelt xlsm fájlok txt konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

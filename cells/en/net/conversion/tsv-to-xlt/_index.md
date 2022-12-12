@@ -1,6 +1,6 @@
 ---
 title: Convert TSV to XLT via C#
-url: /net/conversion/tsv-to-xlt/
+
 description: Convert TSV to XLT format in C# code. Save TSV as XLT using VB.NET, Asp.NET or any .NET based application.
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ के माध्यम से एक्सेल फ़ाइल एक्सएलएसबी एनोटेशन जोड़ें 
 weight: 860
-url: /hi/cpp/annotation/xlsb/ 
+
 description: C++ विंडोज 32 बिट, विंडोज 64 बिट और लिनक्स 64 बिट के लिए C++ रनटाइम एनवायरनमेंट पर एक्सएलएसबी प्रारूप एनोटेशन हटाने के लिए नमूना कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

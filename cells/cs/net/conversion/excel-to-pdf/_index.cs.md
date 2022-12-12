@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést EXCEL do PDF přes C#
-url: /cs/net/conversion/excel-to-pdf/
+
 description: Ukázkový kód pro převod Excel do PDF C#. Použijte API ukázkový kód pro dávkový převod souborů Excel na PDF v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

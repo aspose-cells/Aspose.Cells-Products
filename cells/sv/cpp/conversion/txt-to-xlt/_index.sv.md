@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera TXT till XLT via appen C++ 
-url: /sv/cpp/conversion/txt-to-xlt/ 
+
 description: Exempel C++-konverteringskod för TXT-dokument till XLT-format. Programmerare kan använda den här källkoden för batchkonvertering av TXT till XLT inom alla C++-program.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

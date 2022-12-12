@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل SXC إلى XLT عبر Java 
-url: /ar/java/conversion/sxc-to-xlt/ 
+
 description: نموذج Java كود التحويل لتنسيق SXC إلى ملف XLT. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى XLT داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

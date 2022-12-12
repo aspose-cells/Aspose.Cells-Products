@@ -1,7 +1,7 @@
-﻿---
+---
 title: Odblokuj dokument XLS przez C++ 
 weight: 2380
-url: /pl/cpp/unlock/xls/ 
+
 description: C++ przykładowy kod odblokowujący chroniony hasłem plik XLS w C++ środowisku wykonawczym dla 32-bitowego systemu Windows, 64-bitowego systemu Windows i 64-bitowego systemu Linux.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

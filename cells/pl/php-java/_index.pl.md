@@ -1,7 +1,7 @@
-﻿---
+---
 title: Arkusz kalkulacyjny Excel PHP API – Aspose 
 weight: 3660
-url: /pl/php-java/ 
+
 description: Arkusz kalkulacyjny PHP Excel API do odczytu, zapisu i konwersji XLS XLSX CSV TSV HTML Arkusz kalkulacyjny ODSML i wszystkie formaty Excel 97-2016. Eksportuj arkusze kalkulacyjne do wielu formatów
 ---
 {{< blocks/products/pf/main-wrap-class >}}

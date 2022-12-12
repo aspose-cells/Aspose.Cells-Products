@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 C# 將 SPREADSHEETML 轉換為 DOCX
-url: /zh-hant/net/conversion/spreadsheetml-to-docx/
+
 description: 電子表格到 docx C# 轉換的示例代碼。在 VB.NET、Asp.NET 或任何基於 .NET 的應用程序中使用 API 示例代碼將電子表格文件批量轉換為 docx。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

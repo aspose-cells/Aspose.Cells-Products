@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLTM Dosya Biçimlerini .NET üzerinden görüntüleyin 
 weight: 430
-url: /tr/net/viewer/xltm/ 
+
 description: XLTM belgelerini .NET Framework, .NET Core, Mono veya Xamarin Platformlarında yüklemek, oluşturmak ve görüntülemek için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

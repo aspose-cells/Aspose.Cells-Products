@@ -1,7 +1,7 @@
-﻿---
+---
 title: Python Planilha do Excel API - Aspose 
 weight: 2820
-url: /pt/python/ 
+
 description: Python biblioteca de planilhas para criar leitura, gravação e análise de arquivos do Excel.
 ---
 {{< blocks/products/pf/main-wrap-class >}}

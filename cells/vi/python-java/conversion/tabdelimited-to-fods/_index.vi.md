@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi TABDELIMITED thành FODS qua Python
-url: /vi/python-java/conversion/tabdelimited-to-fods/
+
 description: Mã mẫu cho chuyển đổi giới hạn tab thành fods Python. Sử dụng mã ví dụ API cho các tệp được giới hạn bằng tab hàng loạt để hỗ trợ chuyển đổi trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

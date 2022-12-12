@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 Python 将 SPREADSHEETML 转换为 DOCX
-url: /zh/python-java/conversion/spreadsheetml-to-docx/
+
 description: 电子表格到 docx Python 转换的示例代码。在 Python 应用程序中使用 API 示例代码将电子表格文件批量转换为 docx。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Merge XLSB to HTM Files via Java 
-url: /java/merger/merge-xlsb-to-htm/ 
+
 description: Merge XLSB to HTM file in Java code. Combine XLSB to HTM file using Java based desktop or web application.
 ---
 

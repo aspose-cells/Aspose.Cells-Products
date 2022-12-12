@@ -1,7 +1,7 @@
-﻿---
+---
 title:  Graf dokumentů XLSM k obrázkům prostřednictvím .NET 
 weight: 5100
-url: /cs/net/chart/xlsm/ 
+
 description: C# zdrojový kód pro kreslení a převod grafu nebo diagramu do souboru XLSM na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

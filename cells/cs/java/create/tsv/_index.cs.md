@@ -1,6 +1,6 @@
-﻿---
+---
 title: Vytvořit soubory TSV prostřednictvím Java 
-url: /cs/java/create-tsv/ 
+
 description: Java Ukázkový kód pro generování dokumentů TSV. Tento kód použijte k vytváření souborů TSV v počítačové nebo webové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

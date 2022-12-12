@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie SXC in PNG über C#
-url: /de/net/conversion/sxc-to-png/
+
 description: Beispielcode für die Umwandlung von sxc in png C#. Verwenden Sie API Beispielcode für die Batch-Konvertierung von sxc-Dateien in png innerhalb von VB.NET, Asp.NET oder einer beliebigen .NET-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

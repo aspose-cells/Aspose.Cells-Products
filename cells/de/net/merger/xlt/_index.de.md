@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLT-Dateien über .NET zusammenführen 
 weight: 1820
-url: /de/net/merger/xlt/ 
+
 description: C#-Quellcode zum Kombinieren von XLT-Dokumenten auf .NET Framework-, .NET Core-, Mono- oder Xamarin-Plattformen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

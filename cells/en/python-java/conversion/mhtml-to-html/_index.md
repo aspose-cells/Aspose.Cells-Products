@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to HTML via Python
-url: /python-java/conversion/mhtml-to-html/
+
 description: Convert MHTML to HTML format in Python code. Save MHTML as HTML using Python.
 ---
 

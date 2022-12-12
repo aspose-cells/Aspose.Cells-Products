@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi CSV sang BMP qua C#
-url: /vi/net/conversion/csv-to-bmp/
+
 description: Mã mẫu cho chuyển đổi csv sang bmp C#. Sử dụng API mã mẫu cho các tệp csv hàng loạt để chuyển đổi bmp trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

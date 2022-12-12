@@ -1,6 +1,6 @@
-﻿---
+---
 title: Создание файлов CSV через C++ 
-url: /ru/cpp/create-csv/ 
+
 description: C++ Пример кода для создания файлов CSV. Используйте этот код для создания файлов CSV в приложении на основе C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

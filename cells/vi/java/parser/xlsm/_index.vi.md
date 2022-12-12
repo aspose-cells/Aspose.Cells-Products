@@ -1,7 +1,7 @@
-﻿---
+---
 title: Trích xuất văn bản và hình ảnh từ tài liệu XLSM qua Java 
 weight: 3260
-url: /vi/java/parser/xlsm/ 
+
 description: Java mã mẫu để trích xuất văn bản và hình ảnh từ tệp XLSM trên Java Môi trường thời gian chạy cho Ứng dụng JSP / JSF và Ứng dụng máy tính để bàn.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

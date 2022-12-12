@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla FODS'u DOCX'e dönüştürün
-url: /tr/net/conversion/fods-to-docx/
+
 description: Yemlerin docx'e C# dönüşümü için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu dosya dosyalarından docx'e dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

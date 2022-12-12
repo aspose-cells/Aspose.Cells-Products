@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta JSON a EXCEL a través de C#
-url: /es/net/conversion/json-to-excel/
+
 description: Ejemplo de código para la conversión json a excel C#. Utilice el código de ejemplo API para archivos json por lotes para sobresalir en la conversión dentro de VB.NET, Asp.NET o cualquier aplicación basada en .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

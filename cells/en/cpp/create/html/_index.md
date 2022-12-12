@@ -1,6 +1,6 @@
 ---
 title: Create HTML Files via C++ 
-url: /cpp/create-html/ 
+
 description: Create HTML files in C++ code. Generate HTML files using C++ application.
 ---
 

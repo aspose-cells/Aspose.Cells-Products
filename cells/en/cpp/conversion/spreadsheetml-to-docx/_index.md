@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to DOCX via C++
-url: /cpp/conversion/spreadsheetml-to-docx/
+
 description: Convert SPREADSHEETML to DOCX format in C++ code. Save SPREADSHEETML as DOCX using C++.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: एक्सएलटी को एक्सएमएल में Python के माध्यम से कनवर्ट करें
-url: /hi/python-java/conversion/xlt-to-xml/
+
 description: xlt से xml Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन में बैच xlt फ़ाइलों से xml रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

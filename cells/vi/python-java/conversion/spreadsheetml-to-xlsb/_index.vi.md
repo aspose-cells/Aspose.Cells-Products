@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi SPREADSHEETML sang XLSB qua Python
-url: /vi/python-java/conversion/spreadsheetml-to-xlsb/
+
 description: Mã mẫu cho chuyển đổi từ bảng tínhml sang xlsb Python. Sử dụng API mã ví dụ cho hàng loạt tệp tin bảng tính sang chuyển đổi xlsb trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

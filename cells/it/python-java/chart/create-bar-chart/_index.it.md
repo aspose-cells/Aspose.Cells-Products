@@ -1,6 +1,6 @@
-﻿---
+---
 title: Crea grafici a barre tramite Python
-url: /it/python-java/create-bar-chart/
+
 description: Python Codice di esempio per la creazione di grafici a barre in Excel utilizzando Python Libreria. Utilizzare questo codice per creare un grafico a barre in MS Excel all'interno di un'applicazione basata su Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

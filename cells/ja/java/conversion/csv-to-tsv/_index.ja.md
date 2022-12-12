@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java経由でCSVをTSVに変換 
 weight: 5500
-url: /ja/java/conversion/csv-to-tsv/ 
+
 description: CSV形式のTSVファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のTSVにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

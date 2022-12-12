@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to XLS via C++
-url: /cpp/conversion/xltx-to-xls/
+
 description: Convert XLTX to XLS format in C++ code. Save XLTX as XLS using C++.
 ---
 

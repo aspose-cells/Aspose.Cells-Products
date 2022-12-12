@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést SPREADSHEETML na MHTML prostřednictvím Python
-url: /cs/python-java/conversion/spreadsheetml-to-mhtml/
+
 description: Ukázkový kód pro převod tabulky ml na mhtml Python. Použijte API ukázkový kód pro dávkový převod tabulkových souborů ml na mhtml v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

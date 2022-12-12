@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++アプリケーションを介してXLTをJSONに変換する 
-url: /ja/cpp/conversion/xlt-to-json/ 
+
 description: XLTドキュメントからJSON形式へのサンプルC++変換コード。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でXLTからJSONへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

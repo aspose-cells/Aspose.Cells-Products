@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование FODS в TIFF через Python
-url: /ru/python-java/conversion/fods-to-tiff/
+
 description: Пример кода для преобразования fods в tiff Python. Используйте пример кода API для пакетного преобразования файлов fods в tiff в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

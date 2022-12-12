@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TABDELIMITED na TIFF přes C#
-url: /cs/net/conversion/tabdelimited-to-tiff/
+
 description: Ukázkový kód pro konverzi C# oddělující tabulátory na tiff. Použijte API ukázkový kód pro dávkové soubory oddělené tabulátory k převodu tiff v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

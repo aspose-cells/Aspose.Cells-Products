@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通过 .NET 合并 HTML 文件 
 weight: 9440
-url: /zh/net/merger/html/ 
+
 description: C# 源代码，用于在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上组合 HTML 文档。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

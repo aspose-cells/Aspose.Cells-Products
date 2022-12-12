@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLT konvertálása DIF-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/xlt-to-dif/
+
 description: Mintakód az xlt–diff Python konverzióhoz. Használjon API példakódot a kötegelt xlt fájlokhoz a Python alkalmazáson belüli átalakításhoz.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

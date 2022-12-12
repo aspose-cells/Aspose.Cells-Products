@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to TIFF via Java 
-url: /java/conversion/fods-to-tiff/
+
 description: Convert FODS to TIFF format in Java code. Save FODS as TIFF using Java.
 ---
 

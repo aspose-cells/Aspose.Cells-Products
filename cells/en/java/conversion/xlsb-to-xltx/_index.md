@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to XLTX via Java 
-url: /java/conversion/xlsb-to-xltx/
+
 description: Convert XLSB to XLTX format in Java code. Save XLSB as XLTX using Java.
 ---
 

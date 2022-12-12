@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή NUMBERS σε TIFF μέσω Python
-url: /el/python-java/conversion/numbers-to-tiff/
+
 description: Δείγμα κωδικού για αριθμούς για τη μετατροπή Python. Χρησιμοποιήστε API παράδειγμα κώδικα για αρχεία αριθμών παρτίδας για να καθορίσετε τη μετατροπή εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

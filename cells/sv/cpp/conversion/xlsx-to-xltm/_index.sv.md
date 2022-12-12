@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertera XLSX till XLTM via applikationen C++ 
 weight: 7840
-url: /sv/cpp/conversion/xlsx-to-xltm/ 
+
 description: Exempel på konverteringskod för C++ för XLSX-dokument till XLTM-format. Programmerare kan använda den här källkoden för batchkonvertering av XLSX till XLTM inom alla C++-program.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

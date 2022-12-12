@@ -1,6 +1,6 @@
-﻿---
+---
 title: "CSV konvertálása HTML-be a következőn keresztül: C#"
-url: /hu/net/conversion/csv-to-html/
+
 description: Mintakód a csv-ből html-be C# konverzióhoz. Használjon API példakódot a csv-fájlok kötegelt HTML-konverziójához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

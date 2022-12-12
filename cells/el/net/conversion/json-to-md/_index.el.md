@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή JSON σε MD μέσω C#
-url: /el/net/conversion/json-to-md/
+
 description: Δείγμα κώδικα για μετατροπή json σε md C#. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδική μετατροπή αρχείων json σε md εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

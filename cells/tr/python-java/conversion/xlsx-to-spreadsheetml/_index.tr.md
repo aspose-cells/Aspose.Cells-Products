@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla XLSX'i SPREADSHEETML'ye dönüştürün
-url: /tr/python-java/conversion/xlsx-to-spreadsheetml/
+
 description: xlsx'ten elektronik tabloml'ye Python dönüştürme için örnek kod. Python uygulamasında toplu xlsx dosyalarından elektronik tabloml dönüşümüne API örnek kodu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

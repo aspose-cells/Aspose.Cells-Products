@@ -1,7 +1,7 @@
-﻿---
+---
 title: Prohledejte dokument ODS bez otevření prostřednictvím .NET 
 weight: 160
-url: /cs/net/search/ods/ 
+
 description: Zdrojový kód C# pro vyhledávání slov se vzorem v souboru ODS na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to GIF via C++
-url: /cpp/conversion/excel-to-gif/
+
 description: Convert EXCEL to GIF format in C++ code. Save EXCEL as GIF using C++.
 ---
 

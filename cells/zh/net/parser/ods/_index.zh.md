@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通过 .NET 从 ODS 文档中提取文本和图像 
 weight: 6970
-url: /zh/net/parser/ods/ 
+
 description: C# 源代码，用于从 .NET Framework、.NET Core、Mono 或 Xamarin 平台上的 ODS 文件中提取文本和图像。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

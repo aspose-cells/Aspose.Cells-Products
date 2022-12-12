@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLSM फ़ाइलों में Java के माध्यम से रिपोर्ट जेनरेट करें 
 weight: 270
-url: /hi/java/assembly/xlsm/ 
+
 description: Java JSP/JSF अनुप्रयोग और डेस्कटॉप अनुप्रयोगों के लिए रनटाइम परिवेश पर XLSM प्रारूप रिपोर्ट बनाने के लिए Java नमूना कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

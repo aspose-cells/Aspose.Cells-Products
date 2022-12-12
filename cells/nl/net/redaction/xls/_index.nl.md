@@ -1,7 +1,7 @@
-﻿---
+---
 title: Zoek en vervang tekst in XLS-document via .NET 
 weight: 7280
-url: /nl/net/redaction/xls/ 
+
 description: C# broncode om gevoelige informatie in XLS-bestand op .NET Framework, .NET Core, Mono of Xamarin Platforms te redigeren.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

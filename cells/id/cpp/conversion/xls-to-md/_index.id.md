@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi XLS ke MD melalui C++ aplikasi 
-url: /id/cpp/conversion/xls-to-md/ 
+
 description: Contoh C++ kode konversi untuk dokumen XLS ke format MD. Pemrogram dapat menggunakan kode sumber ini untuk konversi batch XLS ke MD dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertissez MHTML en XLT via l'application C++ 
-url: /fr/cpp/conversion/mhtml-to-xlt/ 
+
 description: Exemple de code de conversion C++ pour un document MHTML au format XLT. Les programmeurs peuvent utiliser ce code source pour la conversion par lots de MHTML en XLT dans n'importe quelle application C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

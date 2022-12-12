@@ -1,7 +1,7 @@
-﻿---
+---
 title: Μετατροπή JSON σε HTML μέσω Java 
 weight: 9240
-url: /el/java/conversion/json-to-html/ 
+
 description: Δείγμα κώδικα μετατροπής Java για μορφή JSON σε αρχείο HTML. Οι προγραμματιστές μπορούν να χρησιμοποιήσουν αυτό το παράδειγμα κώδικα για να εξάγουν υπολογιστικά φύλλα Excel και OpenOffice σε HTML σε οποιαδήποτε εφαρμογή που βασίζεται στον Ιστό ή στην επιφάνεια εργασίας Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

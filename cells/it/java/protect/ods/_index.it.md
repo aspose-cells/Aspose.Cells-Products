@@ -1,7 +1,7 @@
-﻿---
+---
 title: Proteggi e blocca il documento ODS tramite Java 
 weight: 6360
-url: /it/java/protect/ods/ 
+
 description: Java codice di esempio per bloccare il file ODS utilizzando la password in Java Runtime Environment per applicazioni JSP/JSF e desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

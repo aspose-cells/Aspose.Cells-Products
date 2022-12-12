@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++アプリケーションを介してXLSをBMPに変換する 
 weight: 5750
-url: /ja/cpp/conversion/xls-to-bmp/ 
+
 description: XLSドキュメントからBMP形式へのサンプルC++変換コード。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でXLSからBMPへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

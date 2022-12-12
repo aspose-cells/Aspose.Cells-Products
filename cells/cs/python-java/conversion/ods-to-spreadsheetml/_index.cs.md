@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést ODS na SPREADSHEETML prostřednictvím Python
-url: /cs/python-java/conversion/ods-to-spreadsheetml/
+
 description: Ukázkový kód pro převod ods do tabulkyml Python. Použijte ukázkový kód API pro dávkové převody souborů ods do tabulkyml v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

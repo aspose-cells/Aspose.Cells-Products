@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to TIFF via Python
-url: /python-java/conversion/sxc-to-tiff/
+
 description: Convert SXC to TIFF format in Python code. Save SXC as TIFF using Python.
 ---
 

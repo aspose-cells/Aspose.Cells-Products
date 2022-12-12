@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή TABDELIMITED σε BMP μέσω Python
-url: /el/python-java/conversion/tabdelimited-to-bmp/
+
 description: Δείγμα κώδικα για μετατροπή οριοθετημένης καρτέλας σε bmp Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία οριοθετημένα στηλοθέτες σε μετατροπή bmp εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 C# 将 TSV 转换为 ODS
-url: /zh/net/conversion/tsv-to-ods/
+
 description: tsv 到 ods C# 转换的示例代码。使用 API 示例代码在 VB.NET、Asp.NET 或任何基于 .NET 的应用程序中将批量 tsv 文件转换为 ods。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

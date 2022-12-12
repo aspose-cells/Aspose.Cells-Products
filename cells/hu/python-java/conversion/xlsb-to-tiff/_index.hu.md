@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLSB konvertálása TIFF-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/xlsb-to-tiff/
+
 description: Mintakód az xlsb–tiff Python konverzióhoz. Használjon API példakódot kötegelt xlsb fájlokhoz a tiff konverzióhoz a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan TXT ke MARKDOWN melalui Python
-url: /id/python-java/conversion/txt-to-markdown/
+
 description: Contoh kode untuk konversi txt ke penurunan harga Python. Gunakan API kode contoh untuk file txt batch untuk konversi penurunan harga dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

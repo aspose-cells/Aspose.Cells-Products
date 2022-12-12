@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TABDELIMITED إلى GIF عبر تطبيق C++ 
-url: /ar/cpp/conversion/tabdelimited-to-gif/ 
+
 description: نموذج C++ رمز تحويل لمستند TABDELIMITED إلى تنسيق GIF. يمكن للمبرمجين استخدام رمز المصدر هذا للتحويل الدفعي من TABDELIMITED إلى GIF داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLS na XLT přes Python
-url: /cs/python-java/conversion/xls-to-xlt/
+
 description: Ukázkový kód pro převod xls na xlt Python. Použijte API ukázkový kód pro dávkový převod souborů xls na xlt v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

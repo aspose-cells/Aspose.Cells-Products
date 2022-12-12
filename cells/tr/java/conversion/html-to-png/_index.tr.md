@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java aracılığıyla HTML'yi PNG'ye dönüştürün 
 weight: 5350
-url: /tr/java/conversion/html-to-png/ 
+
 description: HTML biçimi için PNG dosyasına örnek Java dönüştürme kodu. Programcılar, Excel ve OpenOffice elektronik tablolarını herhangi bir Web veya Masaüstü Java tabanlı Uygulamada PNG'ye aktarmak için bu örnek kodu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

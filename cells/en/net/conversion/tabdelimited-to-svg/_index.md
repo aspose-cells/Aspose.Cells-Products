@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to SVG via C#
-url: /net/conversion/tabdelimited-to-svg/
+
 description: Convert TABDELIMITED to SVG format in C# code. Save TABDELIMITED as SVG using VB.NET, Asp.NET or any .NET based application.
 ---
 

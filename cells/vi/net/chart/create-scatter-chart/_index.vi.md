@@ -1,6 +1,6 @@
-﻿---
+---
 title: Tạo Biểu đồ phân tán qua C#
-url: /vi/net/create-scatter-chart/
+
 description: C# Mã mẫu để tạo biểu đồ Phân tán sang Excel bằng .NET Thư viện. Sử dụng mã này để tạo biểu đồ Phân tán cho MS Excel trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

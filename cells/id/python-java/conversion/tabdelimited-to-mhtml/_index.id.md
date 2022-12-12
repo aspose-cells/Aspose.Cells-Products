@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi TABDELIMITED ke MHTML melalui Python
-url: /id/python-java/conversion/tabdelimited-to-mhtml/
+
 description: Contoh kode untuk konversi tabdelimited ke mhtml Python. Gunakan kode contoh API untuk berkas tabdelimited batch ke konversi mhtml dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

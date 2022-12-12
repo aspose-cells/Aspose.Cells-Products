@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してTABDELIMITEDをSVGに変換します
-url: /ja/net/conversion/tabdelimited-to-svg/
+
 description: tabdelimitedからsvgC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチタブ区切りファイルからsvgへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET aracılığıyla XLSB belgesindeki metni arayın ve değiştirin 
 weight: 3890
-url: /tr/net/redaction/xlsb/ 
+
 description: .NET Framework, .NET Core, Mono veya Xamarin Platformlarında XLSB dosyasındaki hassas bilgileri yeniden düzenlemek için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

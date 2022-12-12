@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή CSV σε MARKDOWN μέσω Python
-url: /el/python-java/conversion/csv-to-markdown/
+
 description: Δείγμα κώδικα για μετατροπή csv σε σήμανση Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία csv για να σημειώσετε τη μετατροπή εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

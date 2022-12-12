@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla HTML'yi MARKDOWN'a dönüştürün
-url: /tr/python-java/conversion/html-to-markdown/
+
 description: Python dönüşümünü azaltmak için html için örnek kod. Python uygulamasında dönüştürmeyi işaretlemek için toplu html dosyaları için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi TSV sang XLT qua C#
-url: /vi/net/conversion/tsv-to-xlt/
+
 description: Mã mẫu cho chuyển đổi tsv sang xlt C#. Sử dụng API mã ví dụ cho hàng loạt tệp tsv sang chuyển đổi xlt trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Extraia texto e imagens do documento XLSM via Java 
 weight: 3260
-url: /pt/java/parser/xlsm/ 
+
 description: Java código de amostra para extrair texto e imagens do arquivo XLSM no Java ambiente de tempo de execução para aplicativos JSP/JSF e aplicativos de desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

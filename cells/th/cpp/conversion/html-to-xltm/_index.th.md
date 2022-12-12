@@ -1,7 +1,7 @@
-﻿---
+---
 title: แปลง HTML เป็น XLTM ผ่าน C++ แอปพลิเคชัน 
 weight: 7740
-url: /th/cpp/conversion/html-to-xltm/ 
+
 description: ตัวอย่างโค้ดการแปลง C++ สำหรับเอกสาร HTML เป็นรูปแบบ XLTM โปรแกรมเมอร์สามารถใช้ซอร์สโค้ดนี้สำหรับการแปลงชุด HTML เป็น XLTM ภายในแอปพลิเคชัน C++ ใดๆ
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

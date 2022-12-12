@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NETを介してXLSBファイルを分割する 
 weight: 7370
-url: /ja/net/splitter/xlsb/ 
+
 description: .NETフレームワーク、.NETコア、Mono、またはXamarinプラットフォームでXLSBドキュメントを分割するためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

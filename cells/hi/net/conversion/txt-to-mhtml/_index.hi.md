@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# के माध्यम से TXT को MHTML में बदलें
-url: /hi/net/conversion/txt-to-mhtml/
+
 description: txt से mhtml C# रूपांतरण के लिए नमूना कोड। VB.NET, Asp.NET या किसी भी .NET आधारित एप्लिकेशन के भीतर बैच txt फ़ाइलों को mhtml रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

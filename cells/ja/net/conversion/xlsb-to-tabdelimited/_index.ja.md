@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してXLSBをTABDELIMITEDに変換します
-url: /ja/net/conversion/xlsb-to-tabdelimited/
+
 description: xlsbからtabdelimitedC#への変換のサンプルコード。バッチxlsbファイルのAPIサンプルコードを使用して、VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でタブ区切りの変換を行います。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

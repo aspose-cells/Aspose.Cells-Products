@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie TXT in SPREADSHEETML über C#
-url: /de/net/conversion/txt-to-spreadsheetml/
+
 description: Beispielcode für die Umwandlung von txt in Spreadsheetml C#. Verwenden Sie API Beispielcode für die Umwandlung von TXT-Dateien in Tabellenkalkulationstabellen per Batch in VB.NET, Asp.NET oder einer beliebigen .NET-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

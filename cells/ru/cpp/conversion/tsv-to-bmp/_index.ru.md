@@ -1,7 +1,7 @@
-﻿---
+---
 title: Преобразование TSV в BMP с помощью приложения C++ 
 weight: 7000
-url: /ru/cpp/conversion/tsv-to-bmp/ 
+
 description: Пример кода преобразования C++ для документа TSV в формат BMP. Программисты могут использовать этот исходный код для пакетного преобразования TSV в BMP в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

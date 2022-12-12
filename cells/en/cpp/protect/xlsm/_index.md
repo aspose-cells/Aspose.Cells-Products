@@ -1,7 +1,7 @@
 ---
 title: Protect and lock XLSM document via C++ 
 weight: 8770
-url: /cpp/protect/xlsm/ 
+
 description: C++ example code to lock XLSM file using password on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
 

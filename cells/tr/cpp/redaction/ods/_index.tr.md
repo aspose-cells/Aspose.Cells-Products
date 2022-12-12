@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ aracılığıyla ODS belgesindeki metni arayın ve değiştirin 
 weight: 1610
-url: /tr/cpp/redaction/ods/ 
+
 description: C++ Windows 32 bit, Windows 64 bit ve Linux 64 bit için C++ Runtime Environment'daki ODS dosyasındaki hassas bilgileri yeniden düzenlemek için örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

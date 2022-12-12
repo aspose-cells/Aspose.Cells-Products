@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie SPREADSHEETML in TIFF über C#
-url: /de/net/conversion/spreadsheetml-to-tiff/
+
 description: Beispielcode für die Umwandlung von Spreadsheetml in Tiff C#. Verwenden Sie API Beispielcode für Batch-Spreadsheetml-Dateien zur TIFF-Konvertierung in VB.NET, Asp.NET oder einer beliebigen .NET-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

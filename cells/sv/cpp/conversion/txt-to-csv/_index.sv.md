@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera TXT till CSV via appen C++ 
-url: /sv/cpp/conversion/txt-to-csv/ 
+
 description: Exempel på C++-konverteringskod för TXT-dokument till CSV-format. Programmerare kan använda den här källkoden för batchkonvertering av TXT till CSV inom alla C++-program.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

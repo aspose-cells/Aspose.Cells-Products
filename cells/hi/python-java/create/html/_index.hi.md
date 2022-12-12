@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python के द्वारा HTML फ़ाइलें बनाएं 
-url: /hi/python-java/create-html/ 
+
 description: Python HTML दस्तावेज़ बनाने के लिए नमूना कोड। Python एप्लिकेशन में HTML फ़ाइलें बनाने के लिए इस कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

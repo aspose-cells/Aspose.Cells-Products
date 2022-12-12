@@ -1,6 +1,6 @@
-﻿---
+---
 title: Teilen Sie das Excel-Arbeitsblatt weise in C#
-url: /de/net/splitter/
+
 description: C#-Quellcodes, die erklären, wie Microsoft Excel-Dateien in Visual C#.NET-Anwendungen in mehrere Dateien aufgeteilt werden
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to MD via C#
-url: /net/conversion/json-to-md/
+
 description: Convert JSON to MD format in C# code. Save JSON as MD using VB.NET, Asp.NET or any .NET based application.
 ---
 

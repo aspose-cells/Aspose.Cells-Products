@@ -1,6 +1,6 @@
-﻿---
+---
 title: NUMBERS को C# के माध्यम से TIFF में बदलें
-url: /hi/net/conversion/numbers-to-tiff/
+
 description: C# रूपांतरण के लिए संख्याओं के लिए नमूना कोड। VB.NET, Asp.NET या किसी भी .NET आधारित एप्लिकेशन के भीतर रूपांतरण के लिए बैच नंबर फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

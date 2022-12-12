@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to XPS via Python
-url: /python-net/conversion/xlt-to-xps/
+
 description: Sample code for xlt to xps Python conversion. Use API example code for batch xlt files to xps conversion within Python application.
 ---
 

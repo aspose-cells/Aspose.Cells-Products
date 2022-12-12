@@ -1,6 +1,6 @@
-﻿---
+---
 title: XLTM को C# के माध्यम से PNG में बदलें
-url: /hi/net/conversion/xltm-to-png/
+
 description: xltm से png C# रूपांतरण के लिए नमूना कोड। VB.NET, Asp.NET या किसी भी .NET आधारित एप्लिकेशन के भीतर png रूपांतरण के लिए बैच xltm फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

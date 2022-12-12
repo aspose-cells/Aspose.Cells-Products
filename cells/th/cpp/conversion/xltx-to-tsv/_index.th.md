@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง XLTX เป็น TSV ผ่าน C++ แอปพลิเคชัน 
-url: /th/cpp/conversion/xltx-to-tsv/ 
+
 description: ตัวอย่างรหัสการแปลง C++ สำหรับเอกสาร XLTX เป็นรูปแบบ TSV โปรแกรมเมอร์สามารถใช้ซอร์สโค้ดนี้สำหรับการแปลง XLTX เป็น TSV เป็นกลุ่มภายในแอปพลิเคชัน C++ ใดๆ
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

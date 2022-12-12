@@ -1,7 +1,7 @@
 ---
 title: Insert GroupBox(Form control) into Excel via Python 
 weight: 40
-url: /python-net/developer/insert-form-control-groupbox-to-excel/ 
+
 description: Python source code to insert GroupBox(Form control) into Excel.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: XLSX-bestanden samenvoegen via C++ 
-url: /nl/cpp/merger/xlsx/ 
+
 description: C++ voorbeeldcode om XLSX-documenten te combineren op C++ Runtime Environment voor Windows 32 bit, Windows 64 bit en Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

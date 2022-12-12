@@ -1,7 +1,7 @@
-﻿---
+---
 title: Sloučit soubory XLSM přes .NET 
 weight: 660
-url: /cs/net/merger/xlsm/ 
+
 description: Zdrojový kód C# pro kombinaci dokumentů XLSM na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

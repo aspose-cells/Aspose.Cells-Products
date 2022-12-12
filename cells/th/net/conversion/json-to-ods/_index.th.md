@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง JSON เป็น ODS ผ่าน C#
-url: /th/net/conversion/json-to-ods/
+
 description: โค้ดตัวอย่างสำหรับการแปลง json เป็น ods C# ใช้โค้ดตัวอย่าง API สำหรับไฟล์แบตช์ json เป็นการแปลง ods ภายใน VB.NET, Asp.NET หรือแอปพลิเคชันที่ใช้ .NET
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

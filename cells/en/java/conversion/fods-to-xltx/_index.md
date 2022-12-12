@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to XLTX via Java 
-url: /java/conversion/fods-to-xltx/
+
 description: Convert FODS to XLTX format in Java code. Save FODS as XLTX using Java.
 ---
 

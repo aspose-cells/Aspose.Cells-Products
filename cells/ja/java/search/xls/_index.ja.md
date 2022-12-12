@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介して開かずにXLSドキュメントを検索する 
 weight: 9430
-url: /ja/java/search/xls/ 
+
 description: JSP/JSFアプリケーションおよびデスクトップアプリケーションのJavaランタイム環境でXLSファイル内のパターンを持つ単語を検索するためのJavaサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

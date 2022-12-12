@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to TIFF via Python
-url: /python-java/conversion/numbers-to-tiff/
+
 description: Convert NUMBERS to TIFF format in Python code. Save NUMBERS as TIFF using Python.
 ---
 

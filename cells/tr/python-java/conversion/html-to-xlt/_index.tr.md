@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla HTML'yi XLT'ye dönüştürün
-url: /tr/python-java/conversion/html-to-xlt/
+
 description: Html'den xlt'ye Python dönüştürme için örnek kod. Python uygulamasında toplu html dosyalarından xlt'ye dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

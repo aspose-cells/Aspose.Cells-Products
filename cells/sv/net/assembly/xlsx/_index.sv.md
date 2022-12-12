@@ -1,7 +1,7 @@
-﻿---
+---
 title: Generera rapporter i XLSX-filer via .NET 
 weight: 6740
-url: /sv/net/assembly/xlsx/ 
+
 description: C# källkod för att generera rapporter i XLSX-format på .NET Framework, .NET Core, Mono eller Xamarin-plattformar.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

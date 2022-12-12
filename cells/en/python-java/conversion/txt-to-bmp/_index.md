@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to BMP via Python
-url: /python-java/conversion/txt-to-bmp/
+
 description: Convert TXT to BMP format in Python code. Save TXT as BMP using Python.
 ---
 

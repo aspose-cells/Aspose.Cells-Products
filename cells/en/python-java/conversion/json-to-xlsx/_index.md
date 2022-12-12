@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to XLSX via Python
-url: /python-java/conversion/json-to-xlsx/
+
 description: Convert JSON to XLSX format in Python code. Save JSON as XLSX using Python.
 ---
 

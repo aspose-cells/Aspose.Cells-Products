@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi XLTX ke PNG melalui C++ aplikasi 
-url: /id/cpp/conversion/xltx-to-png/ 
+
 description: Contoh C++ kode konversi untuk dokumen XLTX ke format PNG. Pemrogram dapat menggunakan kode sumber ini untuk konversi batch XLTX ke PNG dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

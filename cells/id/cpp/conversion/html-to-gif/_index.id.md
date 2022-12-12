@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversi HTML ke GIF melalui C++ aplikasi 
 weight: 6750
-url: /id/cpp/conversion/html-to-gif/ 
+
 description: Contoh C++ kode konversi untuk dokumen HTML ke format GIF. Pemrogram dapat menggunakan kode sumber ini untuk konversi batch HTML ke GIF dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

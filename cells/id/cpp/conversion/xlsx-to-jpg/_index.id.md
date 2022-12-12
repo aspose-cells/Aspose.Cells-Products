@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi XLSX ke JPG melalui C++ aplikasi 
-url: /id/cpp/conversion/xlsx-to-jpg/ 
+
 description: Contoh C++ kode konversi untuk dokumen XLSX ke format JPG. Pemrogram dapat menggunakan kode sumber ini untuk konversi batch XLSX ke JPG dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Visa XLS-filformat via .NET 
 weight: 1260
-url: /sv/net/viewer/xls/ 
+
 description: C# källkod för att ladda, rendera och visa XLS-dokument på .NET Framework, .NET Core, Mono eller Xamarin-plattformar.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

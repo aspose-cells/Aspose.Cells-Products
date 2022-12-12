@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta TABDELIMITED a SPREADSHEETML a través de C#
-url: /es/net/conversion/tabdelimited-to-spreadsheetml/
+
 description: Código de muestra para la conversión tabdelimited to spreadsheetml C#. Utilice el código de ejemplo API para la conversión por lotes de archivos delimitados por tabuladores a hojas de cálculo en VB.NET, Asp.NET o cualquier aplicación basada en .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

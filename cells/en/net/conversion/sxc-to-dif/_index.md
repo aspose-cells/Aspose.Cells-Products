@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to DIF via C#
-url: /net/conversion/sxc-to-dif/
+
 description: Convert SXC to DIF format in C# code. Save SXC as DIF using VB.NET, Asp.NET or any .NET based application.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Merge TSV to MHTML Files via Python 
-url: /python-net/merger/merge-tsv-to-mhtml/ 
+
 description: Merge TSV to MHTML file in Python code. Combine TSV to MHTML file using Python.
 ---
 

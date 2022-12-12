@@ -1,7 +1,7 @@
-﻿---
+---
 title: C# aracılığıyla XLTX'i Bayt Dizisine dönüştürün 
 weight: 7690
-url: /tr/net/conversion/xltx-to-byte-array/ 
+
 description: C# XLTX'ten Bayt Dizisine dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde Excel XLTX'ten Bayt Dizisine dönüştürme için bu kodu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

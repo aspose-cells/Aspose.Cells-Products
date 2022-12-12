@@ -1,7 +1,7 @@
-﻿---
+---
 title: افتح مستند XLS عبر C++ 
 weight: 2380
-url: /ar/cpp/unlock/xls/ 
+
 description: C++ مثال على رمز لإلغاء تأمين ملف XLS المحمي بكلمة مرور في C++ Runtime Environment لأنظمة التشغيل Windows 32 بت و Windows 64 بت و Linux 64 بت.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

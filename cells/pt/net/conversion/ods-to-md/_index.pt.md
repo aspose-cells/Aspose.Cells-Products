@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter ODS para MD via C#
-url: /pt/net/conversion/ods-to-md/
+
 description: Código de amostra para conversão de ods para md C#. Use API código de exemplo para arquivos ods em lote para conversão md em VB.NET, Asp.NET ou qualquer aplicativo baseado em .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

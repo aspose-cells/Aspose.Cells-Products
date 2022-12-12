@@ -1,7 +1,7 @@
-﻿---
+---
 title: Skydda och lås XLSB-dokument via Java 
 weight: 6590
-url: /sv/java/protect/xlsb/ 
+
 description: Java exempelkod för att låsa XLSB-fil med lösenord på Java Runtime Environment för JSP/JSF Application och Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

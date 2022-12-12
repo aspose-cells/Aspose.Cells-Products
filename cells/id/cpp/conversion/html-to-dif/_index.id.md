@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversi HTML ke DIF melalui C++ aplikasi 
 weight: 4790
-url: /id/cpp/conversion/html-to-dif/ 
+
 description: Contoh C++ kode konversi untuk dokumen HTML ke format DIF. Pemrogram dapat menggunakan kode sumber ini untuk konversi HTML batch ke DIF dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

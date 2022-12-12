@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to HTML via Java 
-url: /java/conversion/numbers-to-html/
+
 description: Convert NUMBERS to HTML format in Java code. Save NUMBERS as HTML using Java.
 ---
 

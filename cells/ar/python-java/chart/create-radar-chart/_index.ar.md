@@ -1,6 +1,6 @@
-﻿---
+---
 title: إنشاء مخططات نسيجي عبر Python
-url: /ar/python-java/create-radar-chart/
+
 description: Python نموذج كود لإنشاء مخططات نسيجي في Excel باستخدام Python Library. استخدم هذا الرمز لإنشاء مخطط نسيجي لبرنامج MS Excel داخل تطبيق يستند إلى Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

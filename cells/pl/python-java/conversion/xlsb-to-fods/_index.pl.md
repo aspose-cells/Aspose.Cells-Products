@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj XLSB na FODS przez Python
-url: /pl/python-java/conversion/xlsb-to-fods/
+
 description: Przykładowy kod konwersji xlsb do fods Python. Użyj przykładowego kodu API dla plików wsadowych xlsb do konwersji fods w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

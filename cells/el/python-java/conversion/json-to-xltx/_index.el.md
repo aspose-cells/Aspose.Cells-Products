@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή JSON σε XLTX μέσω Python
-url: /el/python-java/conversion/json-to-xltx/
+
 description: Δείγμα κώδικα για μετατροπή json σε xltx Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδική μετατροπή αρχείων json σε xltx εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

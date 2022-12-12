@@ -1,6 +1,6 @@
 ---
 title: Merge ODS to XLSX Files via Python 
-url: /python-net/merger/merge-ods-to-xlsx/ 
+
 description: Merge ODS to XLSX file in Python code. Combine ODS to XLSX file using Python.
 ---
 

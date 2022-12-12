@@ -1,7 +1,7 @@
-﻿---
+---
 title: Odemknout dokument XLSB přes Java 
 weight: 5860
-url: /cs/java/unlock/xlsb/ 
+
 description: Java ukázkový kód k odemknutí heslem chráněného souboru XLSB v Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

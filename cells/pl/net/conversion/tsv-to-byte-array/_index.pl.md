@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konwertuj TSV na tablicę bajtów za pomocą C# 
 weight: 7690
-url: /pl/net/conversion/tsv-to-byte-array/ 
+
 description: C# Przykładowy kod konwersji TSV na tablicę bajtów. Użyj tego kodu do konwersji Excela TSV na tablicę bajtów w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

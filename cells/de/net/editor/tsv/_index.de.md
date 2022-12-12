@@ -1,6 +1,6 @@
-﻿---
+---
 title: Bearbeiten Sie TSV-Dateien über .NET 
-url: /de/net/editor/tsv/ 
+
 description: C#-Quellcode zum Bearbeiten des TSV-Dokuments auf .NET Framework-, .NET Core-, Windows Azure-, Mono- oder Xamarin-Plattformen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

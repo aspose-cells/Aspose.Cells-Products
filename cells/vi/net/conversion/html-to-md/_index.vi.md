@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi HTML sang MD qua C#
-url: /vi/net/conversion/html-to-md/
+
 description: Mã mẫu cho chuyển đổi html sang md C#. Sử dụng API mã mẫu cho hàng loạt tệp html sang chuyển đổi md trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

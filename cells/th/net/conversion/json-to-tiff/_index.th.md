@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง JSON เป็น TIFF ผ่าน C#
-url: /th/net/conversion/json-to-tiff/
+
 description: โค้ดตัวอย่างสำหรับการแปลง json เป็น tiff C# ใช้โค้ดตัวอย่าง API สำหรับไฟล์แบตช์ json เพื่อแปลง tiff ภายใน VB.NET, Asp.NET หรือแอปพลิเคชันที่ใช้ .NET
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Преобразование XLSX в MHTML с помощью приложения C++ 
 weight: 4120
-url: /ru/cpp/conversion/xlsx-to-mhtml/ 
+
 description: Пример кода преобразования C++ для документа XLSX в формат MHTML. Программисты могут использовать этот исходный код для пакетного преобразования XLSX в MHTML в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

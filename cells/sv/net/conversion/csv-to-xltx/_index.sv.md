@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera CSV till XLTX via C#
-url: /sv/net/conversion/csv-to-xltx/
+
 description: Exempelkod för konvertering av csv till xltx C#. Använd API exempelkod för batch-csv-filer till xltx-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

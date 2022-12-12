@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to PDF via C#
-url: /net/conversion/txt-to-pdf/
+
 description: Convert TXT to PDF format in C# code. Save TXT as PDF using VB.NET, Asp.NET or any .NET based application.
 ---
 

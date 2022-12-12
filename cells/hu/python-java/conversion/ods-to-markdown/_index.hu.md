@@ -1,6 +1,6 @@
-﻿---
+---
 title: "ODS konvertálása MARKDOWN-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/ods-to-markdown/
+
 description: Mintakód az ods to markdown Python konverzióhoz. Használjon API példakódot kötegelt ods-fájlokhoz a leértékeléshez a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

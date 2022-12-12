@@ -1,7 +1,7 @@
-﻿---
+---
 title: Lihat Format File XLSX melalui .NET 
 weight: 2180
-url: /id/net/viewer/xlsx/ 
+
 description: C# kode sumber untuk memuat, merender, dan menampilkan dokumen XLSX pada Platform .NET Framework, .NET Core, Mono atau Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

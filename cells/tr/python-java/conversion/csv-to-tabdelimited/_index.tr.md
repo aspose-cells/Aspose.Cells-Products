@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla CSV'yi TABDELIMITED'e dönüştürün
-url: /tr/python-java/conversion/csv-to-tabdelimited/
+
 description: csv'den sekmeyle ayrılmış Python dönüşümüne ilişkin örnek kod. Python uygulamasında toplu csv dosyaları için sekmeyle ayrılmış dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

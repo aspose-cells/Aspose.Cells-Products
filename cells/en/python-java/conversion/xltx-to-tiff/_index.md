@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to TIFF via Python
-url: /python-java/conversion/xltx-to-tiff/
+
 description: Convert XLTX to TIFF format in Python code. Save XLTX as TIFF using Python.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést SPREADSHEETML na TXT přes Python
-url: /cs/python-java/conversion/spreadsheetml-to-txt/
+
 description: Ukázkový kód pro převod tabulky ml na txt Python. Použijte API ukázkový kód pro dávkový převod tabulkových souborů ml do txt v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

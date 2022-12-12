@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển EXCEL sang PDF qua C#
-url: /vi/net/conversion/excel-to-pdf/
+
 description: Mã mẫu để chuyển đổi excel sang pdf C#. Sử dụng API mã ví dụ cho chuyển đổi hàng loạt tệp excel sang pdf trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

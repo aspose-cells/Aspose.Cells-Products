@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer FODS naar CSV via C#
-url: /nl/net/conversion/fods-to-csv/
+
 description: Voorbeeldcode voor conversie van fods naar csv C#. Gebruik API voorbeeldcode voor batch-fods-bestanden naar csv-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

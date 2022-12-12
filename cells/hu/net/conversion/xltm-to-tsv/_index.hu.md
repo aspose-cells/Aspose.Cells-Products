@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLTM konvertálása TSV-vé a következőn keresztül: C#"
-url: /hu/net/conversion/xltm-to-tsv/
+
 description: Mintakód az xltm–tsv C# konverzióhoz. Használjon API példakódot a kötegelt xltm fájlok tsv konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

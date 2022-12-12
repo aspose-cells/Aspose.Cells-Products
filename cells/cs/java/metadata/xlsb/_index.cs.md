@@ -1,7 +1,7 @@
-﻿---
+---
 title: Upravit nebo zobrazit metadata souborů XLSB prostřednictvím Java 
 weight: 7290
-url: /cs/java/metadata/xlsb/ 
+
 description: Java ukázkový kód pro úpravu nebo zobrazení metadat ve formátu XLSB v Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

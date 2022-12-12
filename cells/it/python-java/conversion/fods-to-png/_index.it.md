@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converti FODS in PNG tramite Python
-url: /it/python-java/conversion/fods-to-png/
+
 description: Codice di esempio per la conversione da fod a png Python. Usa il codice di esempio API per la conversione dei file batch fods in png all'interno dell'applicazione Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

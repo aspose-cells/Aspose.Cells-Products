@@ -1,7 +1,7 @@
-﻿---
+---
 title: Odemknout dokument XLSB přes .NET 
 weight: 6410
-url: /cs/net/unlock/xlsb/ 
+
 description: C# zdrojový kód k odemknutí heslem chráněného souboru XLSB na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

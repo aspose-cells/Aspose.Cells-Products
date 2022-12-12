@@ -1,6 +1,6 @@
-﻿---
+---
 title: "ODS konvertálása FODS-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/ods-to-fods/
+
 description: Mintakód az ods to fods Python konverzióhoz. Használjon API példakódot a kötegelt ods-fájlok konvertálásához a(z) Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Genereer rapporten in XLSB-bestanden via .NET 
 weight: 1690
-url: /nl/net/assembly/xlsb/ 
+
 description: C# broncode om rapporten in XLSB-indeling te genereren op .NET Framework-, .NET Core-, Mono- of Xamarin-platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

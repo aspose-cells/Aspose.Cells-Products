@@ -1,6 +1,6 @@
-﻿---
+---
 title: Tạo Biểu đồ Cột 3D qua C#
-url: /vi/net/create-column3d-chart/
+
 description: C# Mã mẫu để tạo biểu đồ Column3D sang Excel bằng cách sử dụng Thư viện .NET. Sử dụng mã này để tạo biểu đồ Column3D cho MS Excel trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

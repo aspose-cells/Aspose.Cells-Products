@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer JSON naar HTML via C++ applicatie 
-url: /nl/cpp/conversion/json-to-html/ 
+
 description: Voorbeeld C++-conversiecode voor JSON-document naar HTML-indeling. Programmeurs kunnen deze broncode gebruiken voor batchconversie van JSON naar HTML binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

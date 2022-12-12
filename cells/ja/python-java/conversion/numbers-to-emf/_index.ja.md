@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してNUMBERSをEMFに変換します
-url: /ja/python-java/conversion/numbers-to-emf/
+
 description: 数値からemfPythonへの変換のサンプルコード。 Pythonアプリケーション内で変換をemfするために、バッチ番号ファイルのAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

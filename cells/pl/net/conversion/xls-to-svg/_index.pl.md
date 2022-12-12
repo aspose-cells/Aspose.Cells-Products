@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj XLS na SVG za pomocą C#
-url: /pl/net/conversion/xls-to-svg/
+
 description: Przykładowy kod konwersji xls do svg C#. Użyj przykładowego kodu API dla plików wsadowych xls do konwersji SVG w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

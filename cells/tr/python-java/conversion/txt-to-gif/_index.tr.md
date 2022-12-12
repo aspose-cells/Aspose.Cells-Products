@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla TXT'yi GIF'e dönüştürün
-url: /tr/python-java/conversion/txt-to-gif/
+
 description: txt'den gif'e Python dönüştürme için örnek kod. Python uygulamasında toplu txt dosyaları için gif dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

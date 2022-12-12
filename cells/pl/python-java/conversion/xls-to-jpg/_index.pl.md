@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj XLS na JPG przez Python
-url: /pl/python-java/conversion/xls-to-jpg/
+
 description: Przykładowy kod konwersji xls do jpg Python. Użyj przykładowego kodu API dla plików wsadowych xls do konwersji jpg w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง TXT เป็น XLTM ผ่าน C#
-url: /th/net/conversion/txt-to-xltm/
+
 description: โค้ดตัวอย่างสำหรับการแปลง txt เป็น xltm C# ใช้โค้ดตัวอย่าง API สำหรับไฟล์แบตช์ txt เป็นการแปลง xltm ภายใน VB.NET, Asp.NET หรือแอปพลิเคชันที่ใช้ .NET
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

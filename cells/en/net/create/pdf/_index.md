@@ -1,6 +1,6 @@
 ---
 title: Create PDF Files via C# 
-url: /net/create-pdf/ 
+
 description: Create PDF files in C# code. Generate PDF files using VB.NET, Asp.NET or any .NET based application.
 ---
 

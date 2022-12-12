@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta NÚMEROS a BMP a través de C#
-url: /es/net/conversion/numbers-to-bmp/
+
 description: Ejemplo de código para conversión de números a bmp C#. Utilice el código de ejemplo API para los archivos de números de lote para la conversión bmp dentro de VB.NET, Asp.NET o cualquier aplicación basada en .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

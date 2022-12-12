@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj FODS na SPREADSHEETML za pomocą Python
-url: /pl/python-java/conversion/fods-to-spreadsheetml/
+
 description: Przykładowy kod konwersji fod do arkusza kalkulacyjnego Python. Użyj przykładowego kodu API dla wsadowych plików fods do konwersji arkusza kalkulacyjnego na ml w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

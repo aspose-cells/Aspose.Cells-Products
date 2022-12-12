@@ -1,6 +1,6 @@
-﻿---
+---
 title: CSV-bestanden maken via C++ 
-url: /nl/cpp/create-csv/ 
+
 description: C++ Voorbeeldcode voor het genereren van CSV-bestanden. Gebruik deze code om CSV-bestanden te maken binnen een op C++ gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

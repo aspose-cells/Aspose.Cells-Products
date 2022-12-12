@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi ODS sang TSV qua C#
-url: /vi/net/conversion/ods-to-tsv/
+
 description: Mã mẫu cho chuyển đổi ods thành tsv C#. Sử dụng mã mẫu API cho các tệp ods hàng loạt để chuyển đổi tsv trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

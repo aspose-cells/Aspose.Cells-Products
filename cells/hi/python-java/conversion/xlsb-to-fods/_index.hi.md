@@ -1,6 +1,6 @@
-﻿---
+---
 title: XLSB को Python के द्वारा FODS में बदलें
-url: /hi/python-java/conversion/xlsb-to-fods/
+
 description: xlsb से fods Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन में बैच xlsb फ़ाइलों को फ़ॉड्स रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

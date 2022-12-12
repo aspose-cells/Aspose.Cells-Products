@@ -1,6 +1,6 @@
-﻿---
+---
 title: Java을(를) 통해 Excel 차트를 만들고 이미지로 변환
-url: /ko/java/chart/
+
 description: Java 소스 코드는 Java 라이브러리를 사용하여 Microsoft Excel에서 차트 또는 다이어그램을 그리고 변환합니다. 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

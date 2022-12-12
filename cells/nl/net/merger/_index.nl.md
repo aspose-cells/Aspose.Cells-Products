@@ -1,6 +1,6 @@
-﻿---
+---
 title: Excel-bestandsfusie API .NET C#
-url: /nl/net/merger/
+
 description: Voeg Excel- en OpenOffice-spreadsheetbestanden samen met slechts enkele regels C#-code.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

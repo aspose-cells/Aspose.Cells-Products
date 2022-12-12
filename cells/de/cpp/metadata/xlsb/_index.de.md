@@ -1,7 +1,7 @@
-﻿---
+---
 title: Bearbeiten oder Anzeigen von XLSB-Dokumentmetadaten über C++ 
 weight: 4820
-url: /de/cpp/metadata/xlsb/ 
+
 description: C++ Beispielcode zum Bearbeiten oder Anzeigen von XLSB-Dateimetadaten in C++ Runtime Environment für Windows 32 Bit, Windows 64 Bit und Linux 64 Bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Προβολή μορφών αρχείων MHTML μέσω .NET 
-url: /el/net/viewer/mhtml/ 
+
 description: C# πηγαίος κώδικας για φόρτωση, απόδοση και εμφάνιση εγγράφων MHTML σε πλατφόρμες .NET Framework, .NET Core, Windows Azure, Mono ή Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

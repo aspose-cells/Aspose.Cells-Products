@@ -1,6 +1,6 @@
-﻿---
+---
 title: Buat File MS Excel XLTM melalui C# 
-url: /id/net/create-xltm/ 
+
 description: C# Contoh kode untuk membuat dokumen XLTM. Gunakan kode ini untuk membuat file MS Excel XLTM dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

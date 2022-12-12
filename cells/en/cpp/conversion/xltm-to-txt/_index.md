@@ -1,6 +1,6 @@
 ---
 title: Convert XLTM to TXT via C++
-url: /cpp/conversion/xltm-to-txt/
+
 description: Convert XLTM to TXT format in C++ code. Save XLTM as TXT using C++.
 ---
 

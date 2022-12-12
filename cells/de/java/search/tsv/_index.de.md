@@ -1,7 +1,7 @@
-﻿---
+---
 title: Durchsuchen Sie das TSV-Dokument, ohne es über Java zu öffnen 
 weight: 4940
-url: /de/java/search/tsv/ 
+
 description: Java Beispielcode zum Suchen von Wörtern mit Muster in der TSV-Datei in Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

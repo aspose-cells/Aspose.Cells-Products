@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل XLSB إلى XLSX عبر Java 
 weight: 5700
-url: /ar/java/conversion/xlsb-to-xlsx/ 
+
 description: نموذج Java رمز تحويل لتنسيق XLSB إلى ملف XLSX. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى XLSX داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

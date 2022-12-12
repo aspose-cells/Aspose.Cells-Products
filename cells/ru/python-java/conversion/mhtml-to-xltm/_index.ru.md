@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование MHTML в XLTM через Python
-url: /ru/python-java/conversion/mhtml-to-xltm/
+
 description: Пример кода для преобразования mhtml в xltm Python. Используйте пример кода API для пакетного преобразования файлов mhtml в xltm в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

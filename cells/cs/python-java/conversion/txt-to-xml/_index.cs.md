@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TXT na XML prostřednictvím Python
-url: /cs/python-java/conversion/txt-to-xml/
+
 description: Ukázkový kód pro převod txt na xml Python. Použijte API ukázkový kód pro dávkový převod souborů txt do xml v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi JSON sang XLTX qua C#
-url: /vi/net/conversion/json-to-xltx/
+
 description: Mã mẫu cho chuyển đổi json sang xltx C#. Sử dụng API mã ví dụ cho hàng loạt tệp json sang chuyển đổi xltx trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

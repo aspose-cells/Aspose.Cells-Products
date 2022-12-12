@@ -1,6 +1,6 @@
-﻿---
+---
 title: "JSON konvertálása DOCX-re a következőn keresztül: C#"
-url: /hu/net/conversion/json-to-docx/
+
 description: Mintakód a json–docx C# konverzióhoz. Használjon API példakódot kötegelt json fájlokhoz a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazás docx-konverziójához.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

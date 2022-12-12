@@ -1,6 +1,6 @@
-﻿---
+---
 title: Java aracılığıyla MS Excel XLSX Dosyaları oluşturun 
-url: /tr/java/create-xlsx/ 
+
 description: Java XLSX belgeleri oluşturmak için örnek kod. Java tabanlı masaüstü veya web uygulamasında MS Excel XLSX dosyaları oluşturmak için bu kodu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

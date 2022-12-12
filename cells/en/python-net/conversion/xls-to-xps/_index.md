@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to XPS via Python
-url: /python-net/conversion/xls-to-xps/
+
 description: Sample code for xls to xps Python conversion. Use API example code for batch xls files to xps conversion within Python application.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte SPREADSHEETML na CSV pomocí aplikace C++ 
-url: /cs/cpp/conversion/spreadsheetml-to-csv/ 
+
 description: Ukázka převodního kódu C++ pro dokument SPREADSHEETML do formátu CSV. Programátoři mohou tento zdrojový kód použít pro dávkový převod SPREADSHEETML do CSV v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

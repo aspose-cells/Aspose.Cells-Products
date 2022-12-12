@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer XLSX naar SVG via Java 
 weight: 6580
-url: /nl/java/conversion/xlsx-to-svg/ 
+
 description: Voorbeeld Java conversiecode voor XLSX-indeling naar SVG-bestand. Programmeurs kunnen deze voorbeeldcode gebruiken om Excel- en OpenOffice-spreadsheets naar SVG te exporteren binnen elke web- of desktoptoepassing Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

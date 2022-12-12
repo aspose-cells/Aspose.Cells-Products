@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 C++ 创建 MS Excel XLT 文件 
-url: /zh/cpp/create-xlt/ 
+
 description: C++ 用于生成 MS Excel XLT 文件的示例代码。使用此代码在基于 C++ 的应用程序中创建 MS Excel XLT 文件。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

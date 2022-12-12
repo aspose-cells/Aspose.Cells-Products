@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversikan TSV ke XLTM melalui C++ aplikasi 
 weight: 5330
-url: /id/cpp/conversion/tsv-to-xltm/ 
+
 description: Contoh C++ kode konversi untuk dokumen TSV ke format XLTM. Pemrogram dapat menggunakan kode sumber ini untuk konversi batch TSV ke XLTM dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET aracılığıyla XLS belgesinden metin ve resim ayıklayın 
 weight: 5600
-url: /tr/net/parser/xls/ 
+
 description: .NET Framework, .NET Core, Mono veya Xamarin Platformlarında XLS dosyasından metin ve resim çıkarmak için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLSM-bestanden splitsen via .NET 
 weight: 8890
-url: /nl/net/splitter/xlsm/ 
+
 description: C# broncode om XLSM-documenten te splitsen op .NET Framework-, .NET Core-, Mono- of Xamarin-platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

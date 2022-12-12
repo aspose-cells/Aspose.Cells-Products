@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLSM konvertálása DOCX-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/xlsm-to-docx/
+
 description: Mintakód az xlsm–docx Python konverzióhoz. Használjon API példakódot kötegelt xlsm fájlok docx konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

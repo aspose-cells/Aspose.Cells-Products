@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 C# 將 SXC 轉換為 BMP
-url: /zh-hant/net/conversion/sxc-to-bmp/
+
 description: sxc 到 bmp C# 轉換的示例代碼。在 VB.NET、Asp.NET 或任何基於 .NET 的應用程序中，使用批量 sxc 文件的 API 示例代碼到 bmp 轉換。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

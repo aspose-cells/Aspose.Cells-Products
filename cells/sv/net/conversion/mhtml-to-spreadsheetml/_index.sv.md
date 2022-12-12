@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera MHTML till SPREADSHEETML via C#
-url: /sv/net/conversion/mhtml-to-spreadsheetml/
+
 description: Exempelkod för konvertering från mhtml till kalkylarkml C#. Använd API exempelkod för batch-mhtml-filer till kalkylarkml-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

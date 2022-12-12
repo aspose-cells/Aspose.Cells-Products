@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést MHTML na SPREADSHEETML prostřednictvím C#
-url: /cs/net/conversion/mhtml-to-spreadsheetml/
+
 description: Ukázkový kód pro převod mhtml na tabulkuml C#. Použijte API ukázkový kód pro dávkové soubory mhtml na převod tabulkového procesoru v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

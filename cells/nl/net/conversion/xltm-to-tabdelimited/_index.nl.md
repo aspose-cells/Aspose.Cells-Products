@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLTM naar TABDELIMITED via C#
-url: /nl/net/conversion/xltm-to-tabdelimited/
+
 description: Voorbeeldcode voor xltm naar door tabs gescheiden C# conversie. Gebruik API voorbeeldcode voor batch xltm-bestanden naar door tabs gescheiden conversies binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

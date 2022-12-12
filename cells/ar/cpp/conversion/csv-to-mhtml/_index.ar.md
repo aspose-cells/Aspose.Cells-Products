@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل CSV إلى MHTML عبر تطبيق C++ 
 weight: 5890
-url: /ar/cpp/conversion/csv-to-mhtml/ 
+
 description: نموذج لشفرة تحويل C++ لمستند CSV إلى تنسيق MHTML. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل CSV إلى MHTML في أي C++ تطبيق.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET aracılığıyla filigran XLS belgesi 
 weight: 3050
-url: /tr/net/watermark/xls/ 
+
 description: .NET Framework, .NET Core, Mono veya Xamarin Platformlarında XLS dosyasına filigran eklemek veya kaldırmak için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

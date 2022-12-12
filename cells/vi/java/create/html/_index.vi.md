@@ -1,6 +1,6 @@
-﻿---
+---
 title: Tạo Tệp HTML qua Java 
-url: /vi/java/create-html/ 
+
 description: Java Mã mẫu để tạo tài liệu HTML. Sử dụng mã này để tạo tệp HTML trong ứng dụng web hoặc máy tính để bàn dựa trên Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

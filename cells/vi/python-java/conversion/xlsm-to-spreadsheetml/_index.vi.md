@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi XLSM thành SPREADSHEETML qua Python
-url: /vi/python-java/conversion/xlsm-to-spreadsheetml/
+
 description: Mã mẫu để chuyển đổi xlsm sang bảng tínhml Python. Sử dụng API mã mẫu cho hàng loạt tệp xlsm để chuyển đổi bảng tínhml trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

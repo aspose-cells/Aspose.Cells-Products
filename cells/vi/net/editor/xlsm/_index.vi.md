@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chỉnh sửa tệp XLSM qua .NET 
-url: /vi/net/editor/xlsm/ 
+
 description: C# mã nguồn để chỉnh sửa tài liệu XLSM trên Nền tảng .NET Framework, .NET Core, Windows Azure, Mono hoặc Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

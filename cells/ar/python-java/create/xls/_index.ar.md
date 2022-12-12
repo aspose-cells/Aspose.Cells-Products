@@ -1,6 +1,6 @@
-﻿---
+---
 title: إنشاء ملفات MS Excel XLS عبر Python 
-url: /ar/python-java/create-xls/ 
+
 description: Python نموذج كود لإنشاء مستندات XLS. استخدم هذا الرمز لإنشاء ملفات MS Excel XLS داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

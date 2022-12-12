@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل JSON إلى DIF عبر تطبيق C++ 
-url: /ar/cpp/conversion/json-to-dif/ 
+
 description: نموذج رمز تحويل C++ لمستند JSON إلى تنسيق DIF. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل JSON إلى DIF دفعة داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

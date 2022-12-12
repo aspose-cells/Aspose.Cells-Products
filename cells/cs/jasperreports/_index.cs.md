@@ -1,7 +1,7 @@
-﻿---
+---
 title: Export sestav v Excelu XLS XLSX PDF ODS v JasperReports a JasperServer 
 weight: 9460
-url: /cs/jasperreports/ 
+
 description: Export sestav z Jasper Reports a JasperServer ve formátu Excel XLS XLSX PDF ODS TXT a SpreadsheetML. Také tiskněte sestavy jako tabulky aplikace Excel
 ---
 {{< blocks/products/pf/main-wrap-class >}}

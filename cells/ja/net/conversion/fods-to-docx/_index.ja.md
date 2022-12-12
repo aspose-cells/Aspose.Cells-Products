@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してFODSをDOCXに変換します
-url: /ja/net/conversion/fods-to-docx/
+
 description: fodsからdocxC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチfodsファイルからdocxへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

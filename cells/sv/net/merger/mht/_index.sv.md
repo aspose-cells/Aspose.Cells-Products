@@ -1,6 +1,6 @@
-﻿---
+---
 title: Slå samman MHT-filer via .NET 
-url: /sv/net/merger/mht/ 
+
 description: "Prova våra lokala API:er för meddelandesammanslagningar för att kombinera MHT-dokument på .NET Framework, .NET Core och Xamarin-plattformar."
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してFODSをPNGに変換する 
-url: /ja/java/conversion/fods-to-png/ 
+
 description: FODS形式からPNGファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、WebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをPNGにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

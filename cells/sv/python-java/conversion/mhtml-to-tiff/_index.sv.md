@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera MHTML till TIFF via Python
-url: /sv/python-java/conversion/mhtml-to-tiff/
+
 description: Exempelkod för konvertering från mhtml till tiff Python. Använd API exempelkod för batch-mhtml-filer för att tiff-konvertera i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

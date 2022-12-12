@@ -1,6 +1,6 @@
-﻿---
+---
 title: แยกแผ่นงาน Excel อย่างชาญฉลาดใน C#
-url: /th/net/splitter/
+
 description: C# ซอร์สโค้ดที่อธิบายวิธีแยกไฟล์ Microsoft Excel ออกเป็นหลายไฟล์ในแอปพลิเคชัน Visual C#.NET
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

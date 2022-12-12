@@ -1,7 +1,7 @@
-﻿---
+---
 title: Αναζήτηση εγγράφου XLSM χωρίς άνοιγμα μέσω C++ 
 weight: 9280
-url: /el/cpp/search/xlsm/ 
+
 description: C++ παράδειγμα κώδικα για αναζήτηση λέξεων με μοτίβο σε αρχείο XLSM στο C++ Runtime Environment για Windows 32 bit, Windows 64 bit και Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

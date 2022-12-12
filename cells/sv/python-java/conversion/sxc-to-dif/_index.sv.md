@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera SXC till DIF via Python
-url: /sv/python-java/conversion/sxc-to-dif/
+
 description: Exempelkod för sxc till dif Python-konvertering. Använd API-exempelkod för batch-sxc-filer för att ändra konvertering inom Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

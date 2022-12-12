@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla XLS'yi SPREADSHEETML'ye dönüştürün
-url: /tr/net/conversion/xls-to-spreadsheetml/
+
 description: xls'den elektronik tabloml'ye C# dönüşümü için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu xls dosyalarından elektronik tabloml dönüşümüne API örnek kodu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

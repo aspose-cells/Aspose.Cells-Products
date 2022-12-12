@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj CSV na JSON za pomocą aplikacji C++ 
-url: /pl/cpp/conversion/csv-to-json/ 
+
 description: Przykładowy kod konwersji C++ dla dokumentu CSV do formatu JSON. Programiści mogą używać tego kodu źródłowego do wsadowej konwersji pliku CSV do formatu JSON w dowolnej aplikacji C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to GIF via Java 
-url: /java/conversion/xlsb-to-gif/
+
 description: Convert XLSB to GIF format in Java code. Save XLSB as GIF using Java.
 ---
 

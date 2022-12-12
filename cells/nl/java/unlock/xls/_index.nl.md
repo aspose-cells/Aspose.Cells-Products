@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLS-document ontgrendelen via Java 
 weight: 6390
-url: /nl/java/unlock/xls/ 
+
 description: Java voorbeeldcode om met een wachtwoord beveiligd XLS-bestand te ontgrendelen in Java Runtime Environment voor JSP/JSF-applicaties en desktopapplicaties.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

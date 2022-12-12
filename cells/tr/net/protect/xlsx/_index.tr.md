@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET aracılığıyla XLSX belgesini koruyun ve kilitleyin 
 weight: 90
-url: /tr/net/protect/xlsx/ 
+
 description: .NET Framework, .NET Core, Mono veya Xamarin Platformlarında şifre kullanarak XLSX dosyasını kilitlemek için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

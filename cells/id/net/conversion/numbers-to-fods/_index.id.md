@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi NUMBER ke FODS melalui C#
-url: /id/net/conversion/numbers-to-fods/
+
 description: Contoh kode untuk konversi angka ke makanan C#. Gunakan API kode contoh untuk file nomor batch ke konversi makanan dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

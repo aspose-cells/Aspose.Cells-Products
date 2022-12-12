@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通過 Java 編輯或查看 XLSB 文件元數據 
 weight: 7290
-url: /zh-hant/java/metadata/xlsb/ 
+
 description: Java 用於在 Java JSP/JSF 應用程序和桌面應用程序的運行時環境中編輯或查看 XLSB 格式元數據的示例代碼。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

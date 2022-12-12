@@ -1,7 +1,7 @@
-﻿---
+---
 title: Ekspor Laporan RDL ke Excel XLS XLSX dan SpreadsheetML di SQL Server 
 weight: 3460
-url: /id/reporting-services/ 
+
 description: Ekstensi rendering Layanan Pelaporan SQL Server - Ekspor Excel XLS XLSX XLSM XLSB CSV SpreadsheetML HTML ODS dan format TXT
 ---
 {{< blocks/products/pf/main-wrap-class >}}

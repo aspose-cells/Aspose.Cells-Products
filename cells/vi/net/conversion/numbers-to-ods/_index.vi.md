@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi NUMBERS thành ODS qua C#
-url: /vi/net/conversion/numbers-to-ods/
+
 description: Mã mẫu cho chuyển đổi số thành ods C#. Sử dụng mã mẫu API cho các tệp số lô để chuyển đổi ods trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj XLT na XLSB przez Python
-url: /pl/python-java/conversion/xlt-to-xlsb/
+
 description: Przykładowy kod konwersji xlt do xlsb Python. Użyj przykładowego kodu API dla wsadowych plików xlt do konwersji xlsb w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

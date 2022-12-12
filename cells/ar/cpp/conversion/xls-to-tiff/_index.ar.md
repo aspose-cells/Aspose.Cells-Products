@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل XLS إلى TIFF عبر تطبيق C++ 
 weight: 3550
-url: /ar/cpp/conversion/xls-to-tiff/ 
+
 description: نموذج رمز تحويل C++ لمستند XLS إلى تنسيق TIFF. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل XLS إلى TIFF دفعة داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

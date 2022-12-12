@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLSX в TABDELIMITED через C#
-url: /ru/net/conversion/xlsx-to-tabdelimited/
+
 description: Пример кода для преобразования xlsx в C# с разделителями табуляции. Используйте пример кода API для пакетных файлов xlsx для преобразования с разделителями табуляции в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

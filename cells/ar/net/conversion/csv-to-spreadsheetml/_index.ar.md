@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل CSV إلى SPREADSHEETML عبر C#
-url: /ar/net/conversion/csv-to-spreadsheetml/
+
 description: نموذج كود لتحويل ملف csv إلى جدول بيانات C#. استخدم API رمز المثال لملفات csv المجمعة لتحويل جدول البيانات داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

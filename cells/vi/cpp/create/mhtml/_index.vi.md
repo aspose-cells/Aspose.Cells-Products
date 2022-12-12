@@ -1,6 +1,6 @@
-﻿---
+---
 title: Tạo Tệp MHTML qua C++ 
-url: /vi/cpp/create-mhtml/ 
+
 description: C++ Mã mẫu để tạo tệp MHTML. Sử dụng mã này để tạo tệp MHTML trong ứng dụng dựa trên C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: "TXT konvertálása XLSB-vé a következőn keresztül: Java "
 weight: 3360
-url: /hu/java/conversion/txt-to-xlsb/ 
+
 description: Minta Java konverziós kód TXT formátumhoz XLSB fájllá. A programozók ezt a példakódot használhatják Excel és OpenOffice táblázatok XLSB formátumba exportálására bármely web- vagy asztali Java alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

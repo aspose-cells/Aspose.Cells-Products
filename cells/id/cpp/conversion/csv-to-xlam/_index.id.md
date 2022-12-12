@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi CSV ke XLAM melalui C++ aplikasi 
-url: /id/cpp/conversion/csv-to-xlam/ 
+
 description: Contoh C++ kode konversi untuk dokumen CSV ke format XLAM. Pemrogram dapat menggunakan kode sumber ini untuk konversi CSV ke XLAM batch dalam Aplikasi C++ apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

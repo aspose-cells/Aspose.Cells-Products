@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta ODS a TABDELIMITED a través de C#
-url: /es/net/conversion/ods-to-tabdelimited/
+
 description: Código de muestra para la conversión de C# delimitada por tabuladores. Utilice el código de ejemplo API para archivos ods por lotes para la conversión delimitada por tabuladores dentro de VB.NET, Asp.NET o cualquier aplicación basada en .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

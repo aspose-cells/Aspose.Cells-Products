@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java के माध्यम से HTML को BMP में बदलें 
 weight: 740
-url: /hi/java/conversion/html-to-bmp/ 
+
 description: HTML प्रारूप से BMP फ़ाइल के लिए नमूना Java रूपांतरण कोड। प्रोग्रामर इस उदाहरण कोड का उपयोग किसी भी वेब या डेस्कटॉप Java आधारित एप्लिकेशन के भीतर एक्सेल और ओपनऑफिस स्प्रेडशीट को बीएमपी में निर्यात करने के लिए कर सकते हैं।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

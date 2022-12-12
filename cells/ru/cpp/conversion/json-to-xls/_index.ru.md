@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование JSON в XLS с помощью приложения C++ 
-url: /ru/cpp/conversion/json-to-xls/ 
+
 description: Пример кода преобразования C++ для документа JSON в формат XLS. Программисты могут использовать этот исходный код для пакетного преобразования JSON в XLS в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

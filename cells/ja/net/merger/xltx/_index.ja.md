@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NETを介してXLTXファイルをマージします 
 weight: 1220
-url: /ja/net/merger/xltx/ 
+
 description: .NETフレームワーク、.NETコア、Mono、またはXamarinプラットフォームでXLTXドキュメントを組み合わせるためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

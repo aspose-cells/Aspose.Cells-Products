@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir FODS en GIF via C#
-url: /fr/net/conversion/fods-to-gif/
+
 description: Exemple de code pour la conversion des fods en gif C#. Utilisez l'exemple de code API pour la conversion de fichiers fods par lots en gif dans VB.NET, Asp.NET ou toute application basée sur .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

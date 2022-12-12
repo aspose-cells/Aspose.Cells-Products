@@ -1,6 +1,6 @@
-﻿---
+---
 title: FODS'u C# aracılığıyla PDF'ye dönüştürün
-url: /tr/net/conversion/fods-to-pdf/
+
 description: Yemleri pdf'ye C# dönüştürmek için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu dosya dosyalarından pdf'ye dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

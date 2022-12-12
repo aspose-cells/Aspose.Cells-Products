@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést SPREADSHEETML na XLSB přes C#
-url: /cs/net/conversion/spreadsheetml-to-xlsb/
+
 description: Ukázkový kód pro převod tabulky ml na xlsb C#. Použijte API ukázkový kód pro dávkový převod tabulkových souborůml na xlsb v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

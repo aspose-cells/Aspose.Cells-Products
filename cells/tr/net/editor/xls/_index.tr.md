@@ -1,6 +1,6 @@
-﻿---
+---
 title: XLS dosyalarını .NET aracılığıyla düzenleyin 
-url: /tr/net/editor/xls/ 
+
 description: .NET Framework, .NET Core, Windows Azure, Mono veya Xamarin Platformlarında XLS belgesini düzenlemek için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

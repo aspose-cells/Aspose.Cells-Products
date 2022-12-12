@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie HTML in TABDELIMITED über Python
-url: /de/python-java/conversion/html-to-tabdelimited/
+
 description: Beispielcode für die Umwandlung von HTML in tabulatorgetrennte Python. Verwenden Sie den API-Beispielcode für eine Batch-HTML-Datei in eine tabulatorgetrennte Konvertierung innerhalb der Python-Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

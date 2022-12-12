@@ -1,6 +1,6 @@
-﻿---
+---
 title: Erstellen Sie Excel-Dateien über Java
-url: /de/java/assembly/
+
 description: Generieren Sie Microsoft Excel-Tabellen aus einem Vorlagenblatt mit der Tabellenbibliothek Java
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

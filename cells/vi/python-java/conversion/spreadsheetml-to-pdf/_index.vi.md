@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi SPREADSHEETML sang PDF qua Python
-url: /vi/python-java/conversion/spreadsheetml-to-pdf/
+
 description: Mã mẫu cho chuyển đổi từ bảng tínhml sang pdf Python. Sử dụng API mã ví dụ cho hàng loạt tệp bảng tínhml sang chuyển đổi pdf trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

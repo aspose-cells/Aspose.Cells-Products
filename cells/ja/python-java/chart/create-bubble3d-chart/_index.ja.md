@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してBubble3Dチャートを作成する
-url: /ja/python-java/create-bubble3d-chart/
+
 description: PythonPythonライブラリを使用してExcelにBubble3Dチャートを作成するためのサンプルコード。このコードを使用して、Pythonベースのアプリケーション内でMSExcelへのBubble3Dチャートを作成します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

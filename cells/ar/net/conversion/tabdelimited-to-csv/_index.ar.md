@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TABDELIMITED إلى CSV عبر C#
-url: /ar/net/conversion/tabdelimited-to-csv/
+
 description: نموذج شفرة لجدولة محدّدة لتحويل csv C#. استخدم API رمز المثال للملفات المحددة بعلامات الجدولة المجمعة لتحويل csv داخل VB .NET أو Asp .NET أو أي تطبيق يستند إلى .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

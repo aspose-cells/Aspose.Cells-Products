@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla XLS'yi GIF'e dönüştürün
-url: /tr/net/conversion/xls-to-gif/
+
 description: xls'den gif'e C# dönüşümü için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde gif dönüşümüne toplu xls dosyaları için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

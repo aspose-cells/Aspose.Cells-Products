@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to SXC via Python
-url: /python-java/conversion/numbers-to-sxc/
+
 description: Convert NUMBERS to SXC format in Python code. Save NUMBERS as SXC using Python.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "CSV konvertálása MHTML-re a következőn keresztül: C#"
-url: /hu/net/conversion/csv-to-mhtml/
+
 description: Mintakód a csv–mhtml C# konverzióhoz. Használjon API példakódot a csv fájlok kötegelt mhtml konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

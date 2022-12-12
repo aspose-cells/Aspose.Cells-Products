@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla XLSB'yi JPEG'e dönüştürün
-url: /tr/python-java/conversion/xlsb-to-jpeg/
+
 description: xlsb'den jpeg'e Python dönüştürme için örnek kod. Python uygulamasında toplu xlsb dosyaları için jpeg dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

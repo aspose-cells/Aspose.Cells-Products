@@ -1,6 +1,6 @@
-﻿---
+---
 title: Crear gráficos Column3D a través de C#
-url: /es/net/create-column3d-chart/
+
 description: C# Código de muestra para crear gráficos Column3D en Excel usando la biblioteca .NET. Utilice este código para crear un gráfico Column3D en MS Excel dentro de VB.NET, Asp.NET o cualquier aplicación basada en .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

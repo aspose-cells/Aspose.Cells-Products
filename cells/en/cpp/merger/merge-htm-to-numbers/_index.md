@@ -1,6 +1,6 @@
 ---
 title: Merge HTM to NUMBERS Files via C++ 
-url: /cpp/merger/merge-htm-to-numbers/ 
+
 description: Merge HTM to NUMBERS file in C++ code. Combine HTM to NUMBERS file using C++.
 ---
 

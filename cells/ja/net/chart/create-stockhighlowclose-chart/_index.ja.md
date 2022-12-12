@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介して高-低-終値の株価チャートを作成する
-url: /ja/net/create-stockhighlowclose-chart/
+
 description: C#.NETライブラリを使用してExcelに高値-安値-終値の株価チャートを作成するためのサンプルコード。このコードを使用して、VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でMSExcelの高値-安値-終値チャートを作成します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to TIFF via Java 
-url: /java/conversion/ods-to-tiff/
+
 description: Convert ODS to TIFF format in Java code. Save ODS as TIFF using Java.
 ---
 

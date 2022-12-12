@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLTM إلى BMP عبر تطبيق C++ 
-url: /ar/cpp/conversion/xltm-to-bmp/ 
+
 description: نموذج C++ كود تحويل لمستند XLTM إلى تنسيق BMP. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل مجموعة XLTM إلى BMP داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

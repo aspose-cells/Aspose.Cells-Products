@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertieren Sie TSV in TIFF über Java 
 weight: 4760
-url: /de/java/conversion/tsv-to-tiff/ 
+
 description: Beispiel-Umwandlungscode Java für das TSV-Format in eine TIFF-Datei. Programmierer können diesen Beispielcode zum Exportieren von Excel- und OpenOffice-Tabellen in TIFF innerhalb einer beliebigen Web- oder Desktop-Java-basierten Anwendung verwenden.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

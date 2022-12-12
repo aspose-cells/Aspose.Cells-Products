@@ -1,6 +1,6 @@
 ---
 title: Insert notes to Excel XLS file via .NET
-url: /net/notes/insert-notes-to-xls/ 
+
 description: Insert notes to XLS using C#. Use API example code to insert notes within .NET application.
 ---
 

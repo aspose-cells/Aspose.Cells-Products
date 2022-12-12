@@ -1,6 +1,6 @@
-﻿---
+---
 title: TXT को Python के माध्यम से DIF में बदलें
-url: /hi/python-java/conversion/txt-to-dif/
+
 description: txt से भिन्न Python रूपांतरण के लिए नमूना कोड। बैच txt फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें ताकि Python एप्लिकेशन के भीतर रूपांतरण हो सके।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

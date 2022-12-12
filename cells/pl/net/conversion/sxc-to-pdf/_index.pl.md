@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj SXC na PDF za pomocą C#
-url: /pl/net/conversion/sxc-to-pdf/
+
 description: Przykładowy kod konwersji sxc do pdf C#. Użyj przykładowego kodu API dla plików wsadowych sxc do konwersji pdf w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

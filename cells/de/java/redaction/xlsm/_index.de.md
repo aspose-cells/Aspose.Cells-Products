@@ -1,7 +1,7 @@
-﻿---
+---
 title: Suchen und ersetzen Sie Text im XLSM-Dokument über Java 
 weight: 1590
-url: /de/java/redaction/xlsm/ 
+
 description: Java Beispielcode zum Schwärzen sensibler Informationen in der XLSM-Datei in Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

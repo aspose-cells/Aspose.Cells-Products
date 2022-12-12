@@ -1,6 +1,6 @@
-﻿---
+---
 title: PREADSHEETML को Python के माध्यम से DIF में बदलें
-url: /hi/python-java/conversion/spreadsheetml-to-dif/
+
 description: भिन्न Python रूपांतरण के लिए स्प्रेडशीटएमएल के लिए नमूना कोड। Python एप्लिकेशन के भीतर रूपांतरण को अलग करने के लिए बैच स्प्रेडशीटएमएल फाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

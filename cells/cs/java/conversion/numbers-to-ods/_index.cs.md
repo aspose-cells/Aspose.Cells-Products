@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést NUMBERS na ODS přes Java 
-url: /cs/java/conversion/numbers-to-ods/ 
+
 description: Ukázka převodního kódu Java pro soubor ve formátu NUMBERS na soubor ODS. Programátoři mohou použít tento příklad kódu k exportu tabulek Excelu a OpenOffice do ODS v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

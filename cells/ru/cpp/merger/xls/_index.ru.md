@@ -1,6 +1,6 @@
-﻿---
+---
 title: Объединить файлы XLS через C++ 
-url: /ru/cpp/merger/xls/ 
+
 description: Пример кода C++ для объединения документов XLS в C++ среде выполнения для 32-разрядной, 64-разрядной Windows и 64-разрядной версии Linux.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

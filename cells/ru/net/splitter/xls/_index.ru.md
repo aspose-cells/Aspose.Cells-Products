@@ -1,7 +1,7 @@
-﻿---
+---
 title: Разделить файлы XLS через .NET 
 weight: 1340
-url: /ru/net/splitter/xls/ 
+
 description: Исходный код C# для разделения документов XLS на платформах .NET Framework, .NET Core, Mono или Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

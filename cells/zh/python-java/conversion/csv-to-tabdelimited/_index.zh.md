@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 Python 将 CSV 转换为 TABDELIMITED
-url: /zh/python-java/conversion/csv-to-tabdelimited/
+
 description: csv 到制表符分隔 Python 转换的示例代码。使用 Python 应用程序中批量 csv 文件的 API 示例代码到制表符分隔的转换。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

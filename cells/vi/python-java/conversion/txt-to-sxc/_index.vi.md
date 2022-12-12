@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi TXT sang SXC qua Python
-url: /vi/python-java/conversion/txt-to-sxc/
+
 description: Mã mẫu cho chuyển đổi txt sang sxc Python. Sử dụng mã mẫu API cho các tệp txt hàng loạt để chuyển đổi sxc trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

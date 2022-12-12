@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to DOCX via Java 
-url: /java/conversion/json-to-docx/
+
 description: Convert JSON to DOCX format in Java code. Save JSON as DOCX using Java.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++ के द्वारा PDF फ़ाइलें बनाएं 
-url: /hi/cpp/create-pdf/ 
+
 description: C++ PDF फ़ाइलें बनाने के लिए नमूना कोड। इस कोड का उपयोग C++ आधारित एप्लिकेशन के भीतर पीडीएफ फाइल बनाने के लिए करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

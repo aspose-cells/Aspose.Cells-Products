@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte XLSX na SPREADSHEETML pomocí aplikace C++ 
-url: /cs/cpp/conversion/xlsx-to-spreadsheetml/ 
+
 description: Ukázkový konverzní kód C++ pro dokument XLSX do formátu SPREADSHEETML. Programátoři mohou použít tento zdrojový kód pro dávkový převod XLSX do SPREADSHEETML v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

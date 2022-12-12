@@ -1,7 +1,7 @@
-﻿---
+---
 title: Zobrazit formáty souborů TSV prostřednictvím .NET 
 weight: 3090
-url: /cs/net/viewer/tsv/ 
+
 description: C# zdrojový kód pro načítání, vykreslování a zobrazování dokumentů TSV na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

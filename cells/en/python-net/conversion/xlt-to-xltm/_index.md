@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to XLTM via Python
-url: /python-net/conversion/xlt-to-xltm/
+
 description: Sample code for xlt to xltm Python conversion. Use API example code for batch xlt files to xltm conversion within Python application.
 ---
 

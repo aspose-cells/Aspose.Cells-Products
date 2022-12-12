@@ -1,6 +1,6 @@
-﻿---
+---
 title: Bearbeiten Sie TXT-Dateien über .NET 
-url: /de/net/editor/txt/ 
+
 description: C#-Quellcode zum Bearbeiten des TXT-Dokuments auf .NET Framework-, .NET Core-, Windows Azure-, Mono- oder Xamarin-Plattformen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

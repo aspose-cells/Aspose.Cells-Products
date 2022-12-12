@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to TIFF via Python
-url: /python-net/conversion/mhtml-to-tiff/
+
 description: Sample code for mhtml to tiff Python conversion. Use API example code for batch mhtml files to tiff conversion within Python application.
 ---
 

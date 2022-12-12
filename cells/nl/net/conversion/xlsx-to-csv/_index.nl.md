@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLSX naar CSV via C#
-url: /nl/net/conversion/xlsx-to-csv/
+
 description: Voorbeeldcode voor xlsx naar csv C# conversie. Gebruik API voorbeeldcode voor batch xlsx-bestanden naar csv-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

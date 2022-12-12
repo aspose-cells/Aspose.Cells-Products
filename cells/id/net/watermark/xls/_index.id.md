@@ -1,7 +1,7 @@
-﻿---
+---
 title: Dokumen XLS tanda air melalui .NET 
 weight: 3050
-url: /id/net/watermark/xls/ 
+
 description: C# kode sumber untuk menambah atau menghapus tanda air ke file XLS di .NET Framework, .NET Core, Mono atau Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

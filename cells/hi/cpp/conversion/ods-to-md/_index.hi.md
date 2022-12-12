@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++ एप्लिकेशन के माध्यम से ODS को MD में बदलें 
-url: /hi/cpp/conversion/ods-to-md/ 
+
 description: नमूना C++ ODS दस्तावेज़ के लिए MD स्वरूप में रूपांतरण कोड। प्रोग्रामर इस स्रोत कोड का उपयोग किसी भी C++ एप्लिकेशन के भीतर बैच ODS से MD रूपांतरण के लिए कर सकते हैं।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

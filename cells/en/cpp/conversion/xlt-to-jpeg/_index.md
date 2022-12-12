@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to JPEG via C++
-url: /cpp/conversion/xlt-to-jpeg/
+
 description: Convert XLT to JPEG format in C++ code. Save XLT as JPEG using C++.
 ---
 

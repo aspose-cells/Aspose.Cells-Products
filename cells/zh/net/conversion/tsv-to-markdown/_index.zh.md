@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 C# 将 TSV 转换为 MARKDOWN
-url: /zh/net/conversion/tsv-to-markdown/
+
 description: tsv 到 markdown C# 转换的示例代码。使用批处理 tsv 文件的 API 示例代码在 VB.NET、Asp.NET 或任何基于 .NET 的应用程序中进行降价转换。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

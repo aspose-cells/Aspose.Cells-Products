@@ -1,6 +1,6 @@
-﻿---
+---
 title: Buat Bagan Excel dan Konversikan ke Gambar melalui C++
-url: /id/cpp/chart/
+
 description: C++ kode sumber untuk menggambar dan mengonversi bagan atau diagram di Microsoft Excel menggunakan C++ Pustaka
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

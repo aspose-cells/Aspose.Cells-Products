@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převeďte CSV na DIF pomocí aplikace C++ 
 weight: 460
-url: /cs/cpp/conversion/csv-to-dif/ 
+
 description: Ukázka převodního kódu C++ pro dokument CSV na formát DIF. Programátoři mohou použít tento zdrojový kód pro dávkový převod CSV na DIF v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

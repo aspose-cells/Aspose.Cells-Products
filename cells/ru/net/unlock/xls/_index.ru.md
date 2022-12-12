@@ -1,7 +1,7 @@
-﻿---
+---
 title: Разблокировать документ XLS через .NET 
 weight: 4260
-url: /ru/net/unlock/xls/ 
+
 description: Исходный код C# для разблокировки защищенного паролем файла XLS на платформах .NET Framework, .NET Core, Mono или Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to FODS via C#
-url: /net/conversion/xlt-to-fods/
+
 description: Convert XLT to FODS format in C# code. Save XLT as FODS using VB.NET, Asp.NET or any .NET based application.
 ---
 

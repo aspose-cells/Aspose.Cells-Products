@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to XLTX via Python
-url: /python-net/conversion/tabdelimited-to-xltx/
+
 description: Sample code for tabdelimited to xltx Python conversion. Use API example code for batch tabdelimited files to xltx conversion within Python application.
 ---
 

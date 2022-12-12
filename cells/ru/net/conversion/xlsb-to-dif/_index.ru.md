@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLSB в DIF через C#
-url: /ru/net/conversion/xlsb-to-dif/
+
 description: Пример кода для преобразования xlsb в dif C#. Используйте пример кода API для пакетных файлов xlsb для преобразования различий в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

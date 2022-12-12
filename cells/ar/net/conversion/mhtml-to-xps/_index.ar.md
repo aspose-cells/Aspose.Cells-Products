@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل MHTML إلى XPS عبر C#
-url: /ar/net/conversion/mhtml-to-xps/
+
 description: نموذج رمز للتحويل من mhtml إلى xps C#. استخدم API رمز المثال لملفات mhtml الدفعية لتحويل xps داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

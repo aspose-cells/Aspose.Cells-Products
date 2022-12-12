@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してXLSMをMHTMLに変換します
-url: /ja/python-java/conversion/xlsm-to-mhtml/
+
 description: xlsmからmhtmlPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチxlsmファイルからmhtmlへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

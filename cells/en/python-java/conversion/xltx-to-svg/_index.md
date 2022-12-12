@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to SVG via Python
-url: /python-java/conversion/xltx-to-svg/
+
 description: Convert XLTX to SVG format in Python code. Save XLTX as SVG using Python.
 ---
 

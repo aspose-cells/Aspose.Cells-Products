@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLT na DIF přes Python
-url: /cs/python-java/conversion/xlt-to-dif/
+
 description: Ukázkový kód pro převod xlt na rozdíl Python. Použijte API ukázkový kód pro dávkové soubory xlt pro převod převodu v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

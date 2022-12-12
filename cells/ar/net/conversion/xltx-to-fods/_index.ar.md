@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLTX إلى FODS عبر C#
-url: /ar/net/conversion/xltx-to-fods/
+
 description: نموذج كود لتحويل xltx إلى fods C#. استخدم API رمز المثال لملفات xltx الدفعية لتحويل fods داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

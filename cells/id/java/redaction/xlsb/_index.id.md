@@ -1,7 +1,7 @@
-﻿---
+---
 title: Cari dan ganti teks dalam dokumen XLSB melalui Java 
 weight: 4590
-url: /id/java/redaction/xlsb/ 
+
 description: Java kode contoh untuk menyunting informasi sensitif dalam file XLSB di Java Lingkungan Waktu Proses untuk Aplikasi JSP/JSF dan Aplikasi Desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

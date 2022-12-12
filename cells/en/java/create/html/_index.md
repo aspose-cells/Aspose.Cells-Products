@@ -1,6 +1,6 @@
 ---
 title: Create HTML Files via Java 
-url: /java/create-html/ 
+
 description: Create HTML files in Java code. Generate HTML files using Java based desktop or web application.
 ---
 

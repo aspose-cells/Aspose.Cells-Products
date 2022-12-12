@@ -1,7 +1,7 @@
-﻿---
+---
 title: Sloučit soubory XLTM přes .NET 
 weight: 9010
-url: /cs/net/merger/xltm/ 
+
 description: Zdrojový kód C# pro kombinaci dokumentů XLTM na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

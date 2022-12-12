@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj SPREADSHEETML na TABDELIMITED przez C#
-url: /pl/net/conversion/spreadsheetml-to-tabdelimited/
+
 description: Przykładowy kod konwersji arkusza kalkulacyjnego ml do rozdzielanej tabulatorami C#. Użyj przykładowego kodu API dla wsadowych plików arkusza kalkulacyjnego w celu konwersji rozdzielanej tabulatorami w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: XLTM को Python के द्वारा EMF में बदलें
-url: /hi/python-java/conversion/xltm-to-emf/
+
 description: एक्सएलटीएम से ईएमएफ Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर ईएमएफ रूपांतरण के लिए बैच xltm फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

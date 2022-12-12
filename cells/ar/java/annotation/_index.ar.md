@@ -1,6 +1,6 @@
-﻿---
+---
 title: التعليقات التوضيحية لملف Excel عبر Java
-url: /ar/java/annotation/
+
 description: قم بإضافة أو إزالة التعليقات التوضيحية للبيانات من جداول بيانات Excel و OpenOffice باستخدام مكتبة Java.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

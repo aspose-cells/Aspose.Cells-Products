@@ -1,6 +1,6 @@
 ---
 title: Edit ODS files via .NET 
-url: /net/editor/ods/ 
+
 description: C# source code to edit ODS document on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
 

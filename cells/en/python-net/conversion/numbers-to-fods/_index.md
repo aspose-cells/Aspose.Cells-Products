@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to FODS via Python
-url: /python-net/conversion/numbers-to-fods/
+
 description: Sample code for numbers to fods Python conversion. Use API example code for batch numbers files to fods conversion within Python application.
 ---
 

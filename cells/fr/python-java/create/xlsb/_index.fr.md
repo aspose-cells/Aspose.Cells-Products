@@ -1,6 +1,6 @@
-﻿---
+---
 title: Créer des fichiers MS Excel XLSB via Python 
-url: /fr/python-java/create-xlsb/ 
+
 description: Python Exemple de code pour générer des documents XLSB. Utilisez ce code pour créer des fichiers MS Excel XLSB dans l'application Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

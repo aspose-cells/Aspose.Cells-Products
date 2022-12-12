@@ -1,6 +1,6 @@
-﻿---
+---
 title: "FODS konvertálása TAB-raDELIMITED a következőn keresztül: C#"
-url: /hu/net/conversion/fods-to-tabdelimited/
+
 description: Mintakód a tabulátorral tagolt C# konverzióhoz. Használjon API példakódot kötegelt fods fájlokhoz a tabulátorral tagolt konverzióhoz VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

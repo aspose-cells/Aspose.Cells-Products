@@ -1,7 +1,7 @@
 ---
 title: Insert Button(Form control) into Excel via Python 
 weight: 200
-url: /python-net/developer/insert-form-control-button-to-excel/ 
+
 description: Python source code to insert Button(Form control) into Excel.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte TXT na MHTML pomocí aplikace C++ 
-url: /cs/cpp/conversion/txt-to-mhtml/ 
+
 description: Ukázka převodního kódu C++ pro dokument TXT do formátu MHTML. Programátoři mohou použít tento zdrojový kód pro dávkový převod TXT na MHTML v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Ekstrak teks dan gambar dari dokumen XLS melalui Java 
 weight: 3700
-url: /id/java/parser/xls/ 
+
 description: Java kode contoh untuk mengekstrak teks dan gambar dari file XLS di Java Lingkungan Waktu Proses untuk Aplikasi JSP/JSF dan Aplikasi Desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

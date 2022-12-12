@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLSM dokumentdiagram via Java 
 weight: 3020
-url: /sv/java/chart/xlsm/ 
+
 description: Java exempelkod för att rita och konvertera diagram eller diagram i XLSM-fil i Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

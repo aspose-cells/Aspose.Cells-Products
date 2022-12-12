@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLSB в JSON через C#
-url: /ru/net/conversion/xlsb-to-json/
+
 description: Пример кода для преобразования xlsb в json C#. Используйте пример кода API для пакетного преобразования файлов xlsb в json в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

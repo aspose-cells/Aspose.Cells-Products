@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to XLAM via Python
-url: /python-net/conversion/tabdelimited-to-xlam/
+
 description: Sample code for tabdelimited to xlam Python conversion. Use API example code for batch tabdelimited files to xlam conversion within Python application.
 ---
 

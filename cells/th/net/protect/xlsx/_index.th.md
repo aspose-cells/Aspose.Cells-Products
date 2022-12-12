@@ -1,7 +1,7 @@
-﻿---
+---
 title: ป้องกันและล็อกเอกสาร XLSX ผ่าน .NET 
 weight: 90
-url: /th/net/protect/xlsx/ 
+
 description: C# ซอร์สโค้ดสำหรับล็อกไฟล์ XLSX โดยใช้รหัสผ่านบน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

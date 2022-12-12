@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLTX إلى TABDELIMITED عبر C#
-url: /ar/net/conversion/xltx-to-tabdelimited/
+
 description: نموذج كود لتحويل xltx إلى جدولة C# محدد. استخدم API رمز المثال لملفات xltx الدفعية للتحويل المحدود بعلامات جدولة داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

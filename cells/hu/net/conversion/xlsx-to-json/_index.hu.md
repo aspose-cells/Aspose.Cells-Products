@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLSX konvertálása JSON formátumba a következőn keresztül: C#"
-url: /hu/net/conversion/xlsx-to-json/
+
 description: Mintakód az xlsx–json C# konverzióhoz. Használjon API példakódot kötegelt xlsx fájlok json konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

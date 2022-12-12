@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést HTML do PDF pomocí Python
-url: /cs/python-java/conversion/html-to-pdf/
+
 description: Ukázkový kód pro převod html na pdf Python. Použijte API ukázkový kód pro dávkový převod html souborů na pdf v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

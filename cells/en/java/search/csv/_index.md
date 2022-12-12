@@ -1,7 +1,7 @@
 ---
 title: Search CSV document without opening via Java 
 weight: 390
-url: /java/search/csv/ 
+
 description: Java sample code to search words with pattern in CSV file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

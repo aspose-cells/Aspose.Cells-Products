@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLSX konvertálása GIF formátumba a következőn keresztül: Python"
-url: /hu/python-java/conversion/xlsx-to-gif/
+
 description: Mintakód xlsx-ből gif-be Python. Használjon API példakódot kötegelt xlsx fájlok gif-konverziójához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLT konvertálása GIF-re a következőn keresztül: Java "
 weight: 3400
-url: /hu/java/conversion/xlt-to-gif/ 
+
 description: Minta Java konverziós kód az XLT formátumhoz GIF-fájllá. A programozók ezt a példakódot használhatják Excel és OpenOffice táblázatok exportálására GIF formátumba bármely web- vagy asztali Java alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

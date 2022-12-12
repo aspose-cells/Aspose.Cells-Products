@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to MARKDOWN via Python
-url: /python-net/conversion/tabdelimited-to-markdown/
+
 description: Sample code for tabdelimited to markdown Python conversion. Use API example code for batch tabdelimited files to markdown conversion within Python application.
 ---
 

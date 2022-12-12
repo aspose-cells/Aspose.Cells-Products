@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi CSV ke MARKDOWN melalui C#
-url: /id/net/conversion/csv-to-markdown/
+
 description: Contoh kode untuk konversi csv ke penurunan harga C#. Gunakan API kode contoh untuk file csv batch untuk konversi penurunan harga dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

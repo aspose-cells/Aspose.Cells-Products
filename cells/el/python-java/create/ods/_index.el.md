@@ -1,6 +1,6 @@
-﻿---
+---
 title: Δημιουργία αρχείων ODS (Openoffice / Lbreoffice) μέσω Python 
-url: /el/python-java/create-ods/ 
+
 description: Python Δείγμα κώδικα για τη δημιουργία εγγράφων ODS. Χρησιμοποιήστε αυτόν τον κωδικό για τη δημιουργία αρχείων ODS (Openoffice / Lbreoffice) εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

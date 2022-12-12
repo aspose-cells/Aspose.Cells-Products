@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง TXT เป็น TABDELIMITED ผ่าน Java 
-url: /th/java/conversion/txt-to-tabdelimited/ 
+
 description: ตัวอย่างโค้ดการแปลง Java สำหรับรูปแบบ TXT เป็นไฟล์ TABDELIMITED โปรแกรมเมอร์สามารถใช้โค้ดตัวอย่างนี้เพื่อส่งออกสเปรดชีต Excel & OpenOffice ไปยัง TABDELIMITED ภายในแอปพลิเคชันบนเว็บหรือเดสก์ท็อป Java
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

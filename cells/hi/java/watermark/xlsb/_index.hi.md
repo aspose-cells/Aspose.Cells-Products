@@ -1,7 +1,7 @@
-﻿---
+---
 title: वॉटरमार्क XLSB दस्तावेज़ Java के ज़रिए 
 weight: 5900
-url: /hi/java/watermark/xlsb/ 
+
 description: Java JSP/JSF एप्लिकेशन और डेस्कटॉप एप्लिकेशन के लिए रनटाइम एनवायरनमेंट पर XLSB फ़ाइल में वॉटरमार्क जोड़ने या निकालने के लिए Java नमूना कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

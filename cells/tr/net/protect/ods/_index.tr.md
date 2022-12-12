@@ -1,7 +1,7 @@
-﻿---
+---
 title: ODS belgesini .NET aracılığıyla koruyun ve kilitleyin 
 weight: 5580
-url: /tr/net/protect/ods/ 
+
 description: .NET Framework, .NET Core, Mono veya Xamarin Platformlarında şifre kullanarak ODS dosyasını kilitlemek için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

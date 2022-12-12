@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατρέψτε το XLTX σε EMF μέσω της εφαρμογής C++ 
-url: /el/cpp/conversion/xltx-to-emf/ 
+
 description: Δείγμα κώδικα μετατροπής C++ για έγγραφο XLTX σε μορφή EMF. Οι προγραμματιστές μπορούν να χρησιμοποιήσουν αυτόν τον πηγαίο κώδικα για μαζική μετατροπή XLTX σε EMF σε οποιαδήποτε εφαρμογή C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

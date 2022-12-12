@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to ODS via Python
-url: /python-java/conversion/numbers-to-ods/
+
 description: Convert NUMBERS to ODS format in Python code. Save NUMBERS as ODS using Python.
 ---
 

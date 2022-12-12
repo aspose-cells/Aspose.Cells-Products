@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to PNG via Java 
-url: /java/conversion/csv-to-png/
+
 description: Convert CSV to PNG format in Java code. Save CSV as PNG using Java.
 ---
 

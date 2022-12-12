@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل MHTML إلى JSON عبر C#
-url: /ar/net/conversion/mhtml-to-json/
+
 description: نموذج رمز للتحويل من mhtml إلى json C#. استخدم API رمز المثال لملفات mhtml المجمعة لتحويل json داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

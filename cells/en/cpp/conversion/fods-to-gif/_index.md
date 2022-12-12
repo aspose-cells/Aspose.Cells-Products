@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to GIF via C++
-url: /cpp/conversion/fods-to-gif/
+
 description: Convert FODS to GIF format in C++ code. Save FODS as GIF using C++.
 ---
 

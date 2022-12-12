@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to PNG via Java 
-url: /java/conversion/tabdelimited-to-png/
+
 description: Convert TABDELIMITED to PNG format in Java code. Save TABDELIMITED as PNG using Java.
 ---
 

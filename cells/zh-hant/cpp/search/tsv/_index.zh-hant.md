@@ -1,7 +1,7 @@
-﻿---
+---
 title: 無需通過 C++ 打開即可搜索 TSV 文檔 
 weight: 930
-url: /zh-hant/cpp/search/tsv/ 
+
 description: C++ 示例代碼，用於在 Windows 32 位、Windows 64 位和 Linux 64 位的 C++ 運行時環境中搜索 TSV 文件中的模式。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

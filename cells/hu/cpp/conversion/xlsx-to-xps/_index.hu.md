@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertálja az XLSX-et XPS-re a(z) C++ alkalmazáson keresztül 
 weight: 1880
-url: /hu/cpp/conversion/xlsx-to-xps/ 
+
 description: Minta C++ konverziós kód XLSX dokumentumhoz XPS formátumba. A programozók ezt a forráskódot használhatják az XLSX-ből XPS-be kötegelt konvertáláshoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir XLTX en MARKDOWN via C#
-url: /fr/net/conversion/xltx-to-markdown/
+
 description: Exemple de code pour la conversion de xltx en démarque C#. Utilisez l'exemple de code API pour les fichiers batch xltx en conversion de démarquage dans VB.NET, Asp.NET ou toute application basée sur .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

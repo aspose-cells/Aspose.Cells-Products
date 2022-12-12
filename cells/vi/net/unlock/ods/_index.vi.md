@@ -1,7 +1,7 @@
-﻿---
+---
 title: Mở khóa tài liệu ODS qua .NET 
 weight: 3110
-url: /vi/net/unlock/ods/ 
+
 description: C# mã nguồn để mở khóa tệp ODS được bảo vệ bằng mật khẩu trên Nền tảng .NET Framework, .NET Core Mono hoặc Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

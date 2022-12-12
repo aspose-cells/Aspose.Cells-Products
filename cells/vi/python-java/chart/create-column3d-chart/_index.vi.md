@@ -1,6 +1,6 @@
-﻿---
+---
 title: Tạo Biểu đồ Cột 3D qua Python
-url: /vi/python-java/create-column3d-chart/
+
 description: Python Mã mẫu để tạo biểu đồ Column3D sang Excel bằng cách sử dụng Thư viện Python. Sử dụng mã này để tạo biểu đồ Column3D cho MS Excel trong ứng dụng dựa trên Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

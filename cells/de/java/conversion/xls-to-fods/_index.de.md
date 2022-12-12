@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie XLS in FODS über Java 
-url: /de/java/conversion/xls-to-fods/ 
+
 description: Beispiel-Umwandlungscode Java für das XLS-Format in eine FODS-Datei. Programmierer können diesen Beispielcode verwenden, um Excel- und OpenOffice-Tabellen in FODS innerhalb jeder Web- oder Desktop-Java-basierten Anwendung zu exportieren.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

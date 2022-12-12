@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte MHTML na MD pomocí aplikace C++ 
-url: /cs/cpp/conversion/mhtml-to-md/ 
+
 description: Ukázka převodního kódu C++ pro dokument MHTML na formát MD. Programátoři mohou použít tento zdrojový kód pro dávkový převod MHTML na MD v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

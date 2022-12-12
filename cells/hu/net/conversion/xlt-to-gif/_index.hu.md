@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLT konvertálása GIF-re a következőn keresztül: C#"
-url: /hu/net/conversion/xlt-to-gif/
+
 description: Mintakód xlt-ből gif-be C#. Használjon API példakódot kötegelt xlt fájlokhoz a gif konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazásban.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

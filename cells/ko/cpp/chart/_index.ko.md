@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++을(를) 통해 Excel 차트를 만들고 이미지로 변환
-url: /ko/cpp/chart/
+
 description: C++ 라이브러리를 사용하여 Microsoft Excel에서 차트 또는 다이어그램을 그리고 변환하는 C++ 소스 코드
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

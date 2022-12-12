@@ -1,6 +1,6 @@
 ---
 title: Convert XLTM to GIF via C++
-url: /cpp/conversion/xltm-to-gif/
+
 description: Convert XLTM to GIF format in C++ code. Save XLTM as GIF using C++.
 ---
 

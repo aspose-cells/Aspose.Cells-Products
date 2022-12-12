@@ -1,6 +1,6 @@
 ---
 title: Insert notes to Excel ODS file via .NET
-url: /net/notes/insert-notes-to-ods/ 
+
 description: Insert notes to ODS using C#. Use API example code to insert notes within .NET application.
 ---
 

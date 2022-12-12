@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to JSON via Java 
-url: /java/conversion/html-to-json/
+
 description: Convert HTML to JSON format in Java code. Save HTML as JSON using Java.
 ---
 

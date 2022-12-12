@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLTX naar MARKDOWN via Python
-url: /nl/python-java/conversion/xltx-to-markdown/
+
 description: Voorbeeldcode voor xltx om Python-conversie af te waarderen. Gebruik API voorbeeldcode voor batch xltx-bestanden om de conversie binnen de Python-toepassing af te waarderen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

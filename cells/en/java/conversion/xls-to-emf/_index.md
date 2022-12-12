@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to EMF via Java 
-url: /java/conversion/xls-to-emf/
+
 description: Convert XLS to EMF format in Java code. Save XLS as EMF using Java.
 ---
 

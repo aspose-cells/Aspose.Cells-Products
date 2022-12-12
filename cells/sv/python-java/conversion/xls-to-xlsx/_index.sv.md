@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera XLS till XLSX via Python
-url: /sv/python-java/conversion/xls-to-xlsx/
+
 description: Exempelkod för konvertering av xls till xlsx Python. Använd API exempelkod för batch-xls-filer till xlsx-konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

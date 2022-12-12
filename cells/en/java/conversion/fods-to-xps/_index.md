@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to XPS via Java 
-url: /java/conversion/fods-to-xps/
+
 description: Convert FODS to XPS format in Java code. Save FODS as XPS using Java.
 ---
 

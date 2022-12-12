@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TSV konvertálása JPG formátumba a következőn keresztül: Python"
-url: /hu/python-java/conversion/tsv-to-jpg/
+
 description: Mintakód a tsv-ből jpg-vé Python konvertáláshoz. Használjon API példakódot a tsv fájlok kötegelt jpg konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

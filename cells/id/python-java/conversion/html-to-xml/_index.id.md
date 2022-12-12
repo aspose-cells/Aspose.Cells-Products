@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi HTML ke XML melalui Python
-url: /id/python-java/conversion/html-to-xml/
+
 description: Contoh kode untuk konversi html ke xml Python. Gunakan API kode contoh untuk file batch html ke konversi xml dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Cerca e sostituisci testo nel documento XLSB tramite .NET 
 weight: 3890
-url: /it/net/redaction/xlsb/ 
+
 description: C# codice sorgente per oscurare le informazioni riservate nel file XLSB su piattaforme .NET Framework, .NET Core, Mono o Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

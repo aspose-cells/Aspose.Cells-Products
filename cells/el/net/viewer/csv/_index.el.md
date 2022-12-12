@@ -1,7 +1,7 @@
-﻿---
+---
 title: Προβολή μορφών αρχείων CSV μέσω .NET 
 weight: 7690
-url: /el/net/viewer/csv/ 
+
 description: C# πηγαίος κώδικας για φόρτωση, απόδοση και εμφάνιση εγγράφων CSV σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

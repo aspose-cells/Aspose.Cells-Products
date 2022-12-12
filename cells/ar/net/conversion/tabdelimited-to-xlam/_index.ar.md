@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TABDELIMITED إلى XLAM عبر C#
-url: /ar/net/conversion/tabdelimited-to-xlam/
+
 description: نموذج رمز لجدولة محدّدة لتحويل C# xlam. استخدم API رمز المثال للملفات المحددة بعلامات الجدولة المجمعة لتحويل xlam داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi TXT ke DIF melalui C++ aplikasi 
-url: /id/cpp/conversion/txt-to-dif/ 
+
 description: Contoh C++ kode konversi untuk dokumen TXT ke format DIF. Pemrogram dapat menggunakan kode sumber ini untuk konversi batch TXT ke DIF dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera SXC till MD via Python
-url: /sv/python-java/conversion/sxc-to-md/
+
 description: Exempelkod för konvertering från sxc till md Python. Använd API exempelkod för batch-sxc-filer till md-konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

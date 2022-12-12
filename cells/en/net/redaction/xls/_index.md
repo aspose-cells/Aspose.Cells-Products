@@ -1,7 +1,7 @@
 ---
 title: Search and replace text in XLS document via .NET 
 weight: 7280
-url: /net/redaction/xls/ 
+
 description: C# source code to redact sensitive information in XLS file on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

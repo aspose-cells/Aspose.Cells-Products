@@ -1,6 +1,6 @@
-﻿---
+---
 title: ODS'yi Python aracılığıyla FODS'ye dönüştürün
-url: /tr/python-java/conversion/ods-to-fods/
+
 description: ods'den fos'a Python dönüşümü için örnek kod. Python uygulamasında toplu ods dosyalarından fods'a dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

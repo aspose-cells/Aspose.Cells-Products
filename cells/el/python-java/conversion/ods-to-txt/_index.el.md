@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή ODS σε TXT μέσω Python
-url: /el/python-java/conversion/ods-to-txt/
+
 description: Δείγμα κώδικα για μετατροπή ods σε txt Python. Χρησιμοποιήστε API παράδειγμα κώδικα για μετατροπή ομαδικών αρχείων σε txt εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

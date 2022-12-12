@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLTM naar JSON via Python
-url: /nl/python-java/conversion/xltm-to-json/
+
 description: Voorbeeldcode voor conversie van xltm naar json Python. Gebruik API voorbeeldcode voor batch xltm-bestanden naar json-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

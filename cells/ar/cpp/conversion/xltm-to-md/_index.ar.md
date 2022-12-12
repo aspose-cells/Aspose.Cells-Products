@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLTM إلى MD عبر تطبيق C++ 
-url: /ar/cpp/conversion/xltm-to-md/ 
+
 description: نموذج C++ رمز تحويل لمستند XLTM إلى تنسيق MD. يمكن للمبرمجين استخدام رمز المصدر هذا لتحويل دفعة XLTM إلى MD داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

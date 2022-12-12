@@ -1,7 +1,7 @@
-﻿---
+---
 title: ".NET Java C++ API:er för tolkning av kalkylblad för PHP och Android Excel "
 weight: 10
-url: /sv/family
+
 description: Bibliotek för att läsa skriv och manipulera Microsoft Excel-filer i .NET Java C++ Android- och SharePoint-appar. Exportera arbetsblad i SSRS och JasperReports
 ---
 {{< blocks/products/pf/main-wrap-class >}}

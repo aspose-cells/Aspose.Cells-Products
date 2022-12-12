@@ -1,6 +1,6 @@
-﻿---
+---
 title: "MHTML konvertálása BMP-vé a következőn keresztül: Python"
-url: /hu/python-java/conversion/mhtml-to-bmp/
+
 description: Mintakód az mhtml–bmp Python konverzióhoz. Használjon API példakódot kötegelt mhtml fájlok bmp konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

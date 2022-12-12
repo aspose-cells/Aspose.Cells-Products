@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to XLSX via Python
-url: /python-java/conversion/ods-to-xlsx/
+
 description: Convert ODS to XLSX format in Python code. Save ODS as XLSX using Python.
 ---
 

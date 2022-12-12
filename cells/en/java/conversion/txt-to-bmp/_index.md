@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to BMP via Java 
-url: /java/conversion/txt-to-bmp/
+
 description: Convert TXT to BMP format in Java code. Save TXT as BMP using Java.
 ---
 

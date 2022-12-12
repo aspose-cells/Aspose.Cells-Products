@@ -1,6 +1,6 @@
-﻿---
+---
 title: SPREADSHEETML'yi Python aracılığıyla TSV'ye dönüştürün
-url: /tr/python-java/conversion/spreadsheetml-to-tsv/
+
 description: E-tablo ml'den tsv'ye Python dönüştürme için örnek kod. Python uygulamasında toplu elektronik tabloml dosyalarını tsv'ye dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

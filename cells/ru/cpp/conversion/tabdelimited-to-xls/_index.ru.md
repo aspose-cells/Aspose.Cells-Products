@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование TABDELIMITED в XLS с помощью приложения C++ 
-url: /ru/cpp/conversion/tabdelimited-to-xls/ 
+
 description: Пример кода преобразования C++ для документа TABDELIMITED в формат XLS. Программисты могут использовать этот исходный код для пакетного преобразования TABDELIMITED в XLS в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

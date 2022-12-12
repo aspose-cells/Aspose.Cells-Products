@@ -1,6 +1,6 @@
-﻿---
+---
 title: Podziel arkusz Excela mądrze w C#
-url: /pl/net/splitter/
+
 description: C# kody źródłowe wyjaśniające, jak podzielić pliki Microsoft Excel na wiele plików w C#.NET aplikacjach wizualnych
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل TSV إلى DIF عبر تطبيق C++ 
 weight: 2350
-url: /ar/cpp/conversion/tsv-to-dif/ 
+
 description: نموذج C++ رمز التحويل لمستند TSV إلى تنسيق DIF. يمكن للمبرمجين استخدام رمز المصدر هذا لتحويل TSV إلى DIF الدفعي داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή TABDELIMITED σε SVG μέσω Python
-url: /el/python-java/conversion/tabdelimited-to-svg/
+
 description: Δείγμα κώδικα για μετατροπή οριοθετημένης καρτέλας σε svg Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικές μετατροπές οριοθετημένων καρτελών σε svg εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

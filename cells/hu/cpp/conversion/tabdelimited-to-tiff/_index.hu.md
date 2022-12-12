@@ -1,6 +1,6 @@
-﻿---
+---
 title: TABDELIMITED konvertálása TIFF-re a(z) C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/tabdelimited-to-tiff/ 
+
 description: Minta C++ konverziós kód a TABDELIMITED dokumentumhoz TIFF formátumba. A programozók ezt a forráskódot használhatják kötegelt TABDELIMITED-TIFF-konverzióhoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

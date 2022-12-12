@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla TABDELIMITED'i EMF'ye dönüştürün
-url: /tr/python-java/conversion/tabdelimited-to-emf/
+
 description: Sekmeyle sınırlandırılmış emf Python dönüşümü için örnek kod. Python uygulamasında toplu sekmeyle ayrılmış dosyalar için emf dönüşümü için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

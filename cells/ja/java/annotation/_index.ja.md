@@ -1,6 +1,6 @@
-﻿---
+---
 title: JavaによるExcelファイルの注釈
-url: /ja/java/annotation/
+
 description: Javaライブラリを使用してExcelおよびOpenOfficeスプレッドシートのデータ注釈を追加または削除します。
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

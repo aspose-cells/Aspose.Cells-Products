@@ -1,7 +1,7 @@
-﻿---
+---
 title: ดูรูปแบบไฟล์ ODS ผ่าน .NET 
 weight: 130
-url: /th/net/viewer/ods/ 
+
 description: C# ซอร์สโค้ดสำหรับโหลด แสดงผล และแสดงเอกสาร ODS บน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

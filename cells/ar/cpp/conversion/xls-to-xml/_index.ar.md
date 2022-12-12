@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLS إلى XML عبر تطبيق C++ 
-url: /ar/cpp/conversion/xls-to-xml/ 
+
 description: نموذج C++ رمز التحويل لمستند XLS إلى تنسيق XML. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل XLS إلى XML في أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to TIFF via Java 
-url: /java/conversion/xlsb-to-tiff/
+
 description: Convert XLSB to TIFF format in Java code. Save XLSB as TIFF using Java.
 ---
 

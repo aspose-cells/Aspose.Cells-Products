@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir XLS a MD a través de C#
-url: /es/net/conversion/xls-to-md/
+
 description: Código de muestra para la conversión de xls a md C#. Utilice el código de ejemplo API para archivos xls por lotes para la conversión md dentro de VB.NET, Asp.NET o cualquier aplicación basada en .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

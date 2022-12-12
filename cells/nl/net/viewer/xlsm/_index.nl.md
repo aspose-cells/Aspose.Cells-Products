@@ -1,7 +1,7 @@
-﻿---
+---
 title: Bekijk XLSM-bestandsindelingen via .NET 
 weight: 9980
-url: /nl/net/viewer/xlsm/ 
+
 description: C# broncode voor het laden, weergeven en weergeven van XLSM-documenten op .NET Framework-, .NET Core-, Mono- of Xamarin-platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

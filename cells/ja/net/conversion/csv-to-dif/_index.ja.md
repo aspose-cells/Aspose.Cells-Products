@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#経由でCSVをDIFに変換
-url: /ja/net/conversion/csv-to-dif/
+
 description: csvからdifC#への変換のサンプルコード。バッチcsvファイルのAPIサンプルコードを使用して、VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内で変換をdifします。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

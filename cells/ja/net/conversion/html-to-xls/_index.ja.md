@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してHTMLをXLSに変換します
-url: /ja/net/conversion/html-to-xls/
+
 description: htmlからxlsC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチhtmlファイルからxlsへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

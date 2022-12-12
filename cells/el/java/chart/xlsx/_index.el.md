@@ -1,7 +1,7 @@
-﻿---
+---
 title: Γράφημα εγγράφων XLSX μέσω Java 
 weight: 5380
-url: /el/java/chart/xlsx/ 
+
 description: Java δείγμα κώδικα για σχεδίαση και μετατροπή γραφήματος ή διαγράμματος σε αρχείο XLSX στο Java Runtime Environment για εφαρμογές JSP/JSF και εφαρμογές επιφάνειας εργασίας.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

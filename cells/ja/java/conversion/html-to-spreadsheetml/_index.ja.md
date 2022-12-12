@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してHTMLをSPREADSHEETMLに変換します 
-url: /ja/java/conversion/html-to-spreadsheetml/ 
+
 description: HTML形式のサンプルJava変換コードからSPREADSHEETMLファイルへ。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のSPREADSHEETMLにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

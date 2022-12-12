@@ -1,7 +1,7 @@
-﻿---
+---
 title: ODS दस्तावेज़ को Java के माध्यम से अनलॉक करें 
 weight: 5080
-url: /hi/java/unlock/ods/ 
+
 description: Java पासवर्ड से सुरक्षित ODS फ़ाइल को अनलॉक करने के लिए नमूना कोड Java JSP/JSF एप्लिकेशन और डेस्कटॉप एप्लिकेशन के लिए रनटाइम एनवायरनमेंट।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

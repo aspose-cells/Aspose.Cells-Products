@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to TXT via Python
-url: /python-net/conversion/html-to-txt/
+
 description: Sample code for html to txt Python conversion. Use API example code for batch html files to txt conversion within Python application.
 ---
 

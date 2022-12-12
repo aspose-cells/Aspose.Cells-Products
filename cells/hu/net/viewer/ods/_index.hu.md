@@ -1,7 +1,7 @@
-﻿---
+---
 title: "ODS-fájlformátumok megtekintése a következőn keresztül: .NET "
 weight: 130
-url: /hu/net/viewer/ods/ 
+
 description: C# forráskód az ODS dokumentumok betöltéséhez, rendereléséhez és megjelenítéséhez .NET Framework, .NET Core, Mono vagy Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Γράφημα εγγράφων XLSB μέσω Java 
 weight: 670
-url: /el/java/chart/xlsb/ 
+
 description: Java δείγμα κώδικα για σχεδίαση και μετατροπή γραφήματος ή διαγράμματος σε αρχείο XLSB στο Java Περιβάλλον χρόνου εκτέλεσης για εφαρμογές JSP/JSF και εφαρμογές επιφάνειας εργασίας.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

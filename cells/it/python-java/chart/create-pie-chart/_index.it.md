@@ -1,6 +1,6 @@
-﻿---
+---
 title: Crea grafici a torta tramite Python
-url: /it/python-java/create-pie-chart/
+
 description: Python Codice di esempio per la creazione di grafici a torta in Excel utilizzando Python Libreria. Utilizzare questo codice per creare un grafico a torta in MS Excel all'interno di un'applicazione basata su Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

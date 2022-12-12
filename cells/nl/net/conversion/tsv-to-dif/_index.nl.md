@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer TSV naar DIF via C#
-url: /nl/net/conversion/tsv-to-dif/
+
 description: Voorbeeldcode voor conversie van tsv naar dif C#. Gebruik API voorbeeldcode voor batch-tsv-bestanden voor dif-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

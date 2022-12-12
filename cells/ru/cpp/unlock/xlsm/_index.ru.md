@@ -1,7 +1,7 @@
-﻿---
+---
 title: Разблокировать документ XLSM через C++ 
 weight: 6070
-url: /ru/cpp/unlock/xlsm/ 
+
 description: Пример кода C++ для разблокировки защищенного паролем файла XLSM в C++ среде выполнения для 32-разрядной, 64-разрядной Windows и 64-разрядной версии Linux.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Поиск и замена текста в документе ODS через .NET 
 weight: 6100
-url: /ru/net/redaction/ods/ 
+
 description: Исходный код C# для редактирования конфиденциальной информации в файле ODS на платформах .NET Framework, .NET Core, Mono или Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

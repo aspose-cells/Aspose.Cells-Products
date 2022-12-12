@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++によるExcelファイルの注釈
-url: /ja/cpp/annotation/
+
 description: C++ライブラリを使用してExcelおよびOpenOfficeスプレッドシートのデータ注釈コメントを追加または削除します。
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

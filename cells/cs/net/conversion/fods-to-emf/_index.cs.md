@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést FODS na EMF prostřednictvím C#
-url: /cs/net/conversion/fods-to-emf/
+
 description: Ukázkový kód pro konverzi fod na emf C#. Použijte API ukázkový kód pro dávkové soubory fods na převod EMF v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

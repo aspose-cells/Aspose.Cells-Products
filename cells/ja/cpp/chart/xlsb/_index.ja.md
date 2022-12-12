@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++経由のXLSBドキュメントチャート 
 weight: 5200
-url: /ja/cpp/chart/xlsb/ 
+
 description: C++ Windows 32ビット、Windows 64ビット、およびLinux64ビットのランタイム環境でXLSBファイルにチャートまたは図を描画および変換するためのサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

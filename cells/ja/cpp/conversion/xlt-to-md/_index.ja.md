@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++アプリケーションを介してXLTをMDに変換する 
-url: /ja/cpp/conversion/xlt-to-md/ 
+
 description: XLTドキュメントからMD形式へのサンプルC++変換コード。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でXLTからMDへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

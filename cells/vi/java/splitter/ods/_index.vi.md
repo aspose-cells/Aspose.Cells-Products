@@ -1,7 +1,7 @@
-﻿---
+---
 title: Tách tệp ODS qua Java 
 weight: 1950
-url: /vi/java/splitter/ods/ 
+
 description: Java mã mẫu để tách tài liệu ODS trên Java Môi trường thời gian chạy cho Ứng dụng JSP / JSF và Ứng dụng trên máy tính.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

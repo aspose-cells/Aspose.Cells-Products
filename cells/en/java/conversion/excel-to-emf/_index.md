@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to EMF via Java 
-url: /java/conversion/excel-to-emf/
+
 description: Convert EXCEL to EMF format in Java code. Save EXCEL as EMF using Java.
 ---
 

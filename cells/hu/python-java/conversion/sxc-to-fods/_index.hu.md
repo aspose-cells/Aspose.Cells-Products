@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SXC konvertálása FODS-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/sxc-to-fods/
+
 description: Mintakód az sxc to fods Python konverziójához. Használjon API példakódot a kötegelt sxc fájlok fods konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

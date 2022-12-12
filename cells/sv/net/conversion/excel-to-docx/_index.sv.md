@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera EXCEL till DOCX via C#
-url: /sv/net/conversion/excel-to-docx/
+
 description: Exempelkod för konvertering från excel till docx C#. Använd API exempelkod för batch-excel-filer till docx-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

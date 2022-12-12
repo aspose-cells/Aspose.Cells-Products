@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SXC konvertálása MARKDOWN-re a következőn keresztül: C#"
-url: /hu/net/conversion/sxc-to-markdown/
+
 description: Mintakód az sxc to markdown C# konverzióhoz. Használjon API példakódot kötegelt sxc fájlokhoz a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazás konverziójának leértékeléséhez.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

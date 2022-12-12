@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer TABDELIMITED naar SXC via Python
-url: /nl/python-java/conversion/tabdelimited-to-sxc/
+
 description: Voorbeeldcode voor door tabs gescheiden naar sxc Python conversie. Gebruik API voorbeeldcode voor batch-tabdelimited-bestanden naar sxc-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

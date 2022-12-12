@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java를 통해 XLSB를 HTML로 변환 
 weight: 6480
-url: /ko/java/conversion/xlsb-to-html/ 
+
 description: XLSB 형식을 HTML 파일로 변환하는 샘플 Java 변환 코드. 프로그래머는 이 예제 코드를 사용하여 Excel 및 OpenOffice 스프레드시트를 웹 또는 데스크톱 Java 기반 응용 프로그램 내에서 HTML로 내보낼 수 있습니다.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

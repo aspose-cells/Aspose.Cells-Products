@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Konvertálja az XLSB-t ODS-vé a következőn keresztül: Java "
 weight: 7080
-url: /hu/java/conversion/xlsb-to-ods/ 
+
 description: Minta Java konverziós kód az XLSB formátumhoz ODS-fájllá. A programozók ezt a példakódot használhatják Excel- és OpenOffice-táblázatok exportálására ODS-be bármely web- vagy asztali Java-alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

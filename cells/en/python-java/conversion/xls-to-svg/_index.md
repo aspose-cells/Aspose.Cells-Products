@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to SVG via Python
-url: /python-java/conversion/xls-to-svg/
+
 description: Convert XLS to SVG format in Python code. Save XLS as SVG using Python.
 ---
 

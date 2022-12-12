@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera XLTX till JPEG via Python
-url: /sv/python-java/conversion/xltx-to-jpeg/
+
 description: Exempelkod för konvertering av xltx till jpeg Python. Använd API exempelkod för batch-xltx-filer till jpeg-konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

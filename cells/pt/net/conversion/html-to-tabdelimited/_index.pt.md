@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter HTML para TABDELIMITED via C#
-url: /pt/net/conversion/html-to-tabdelimited/
+
 description: Código de exemplo para conversão de html para C# delimitado por tabulação. Use API código de exemplo para arquivos html em lote para conversão delimitada por tabulação em VB.NET, Asp.NET ou qualquer aplicativo baseado em .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

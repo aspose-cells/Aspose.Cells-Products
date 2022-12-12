@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通过 Java 搜索和替换 XLSB 文档中的文本 
 weight: 4590
-url: /zh/java/redaction/xlsb/ 
+
 description: Java 用于在 Java JSP/JSF 应用程序和桌面应用程序的运行时环境中编辑 XLSB 文件中的敏感信息的示例代码。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla JSON'u TXT'ye dönüştürün
-url: /tr/python-java/conversion/json-to-txt/
+
 description: json'dan txt'ye Python dönüştürme için örnek kod. Python uygulamasında toplu json dosyalarından txt'ye dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter NUMBERS para CSV via Python
-url: /pt/python-java/conversion/numbers-to-csv/
+
 description: Código de amostra para conversão de números para csv Python. Use o código de exemplo API para arquivos de números de lote para conversão csv no aplicativo Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

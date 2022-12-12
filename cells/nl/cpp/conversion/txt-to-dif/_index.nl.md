@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer TXT naar DIF via C++ applicatie 
-url: /nl/cpp/conversion/txt-to-dif/ 
+
 description: Voorbeeld C++-conversiecode voor TXT-document naar DIF-indeling. Programmeurs kunnen deze broncode gebruiken voor batchconversie van TXT naar DIF binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

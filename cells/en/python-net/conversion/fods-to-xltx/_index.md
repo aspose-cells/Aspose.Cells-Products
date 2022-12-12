@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to XLTX via Python
-url: /python-net/conversion/fods-to-xltx/
+
 description: Sample code for fods to xltx Python conversion. Use API example code for batch fods files to xltx conversion within Python application.
 ---
 

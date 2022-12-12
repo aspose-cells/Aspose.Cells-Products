@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer TXT naar XLSM via Java 
-url: /nl/java/conversion/txt-to-xlsm/ 
+
 description: Voorbeeld Java conversiecode voor TXT-indeling naar XLSM-bestand. Programmeurs kunnen deze voorbeeldcode gebruiken om Excel- en OpenOffice-spreadsheets naar XLSM te exporteren binnen elke web- of desktoptoepassing Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

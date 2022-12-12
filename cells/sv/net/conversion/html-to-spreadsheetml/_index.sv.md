@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera HTML till SPREADSHEETML via C#
-url: /sv/net/conversion/html-to-spreadsheetml/
+
 description: Exempelkod för konvertering från html till kalkylarkml C#. Använd API exempelkod för batch-html-filer till kalkylarkml-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

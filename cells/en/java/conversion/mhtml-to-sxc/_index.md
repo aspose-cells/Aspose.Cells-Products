@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to SXC via Java 
-url: /java/conversion/mhtml-to-sxc/
+
 description: Convert MHTML to SXC format in Java code. Save MHTML as SXC using Java.
 ---
 

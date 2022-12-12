@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SXC konvertálása CSV-vé a következőn keresztül: C#"
-url: /hu/net/conversion/sxc-to-csv/
+
 description: Mintakód az sxc-ből csv-be C# konverzióhoz. Használjon API példakódot kötegelt sxc fájlok csv-vé konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

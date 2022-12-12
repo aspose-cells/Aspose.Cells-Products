@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj NUMBERS na CSV przez C#
-url: /pl/net/conversion/numbers-to-csv/
+
 description: Przykładowy kod konwersji liczb do csv C#. Użyj przykładowego kodu API dla plików numerów partii do konwersji csv w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

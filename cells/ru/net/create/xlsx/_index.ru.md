@@ -1,6 +1,6 @@
-﻿---
+---
 title: Создание файлов MS Excel XLSX с помощью C# 
-url: /ru/net/create-xlsx/ 
+
 description: C# Пример кода для создания документов XLSX. Используйте этот код для создания файлов MS Excel XLSX в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

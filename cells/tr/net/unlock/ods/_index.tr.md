@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET aracılığıyla ODS belgesinin kilidini açın 
 weight: 3110
-url: /tr/net/unlock/ods/ 
+
 description: .NET Framework, .NET Core, Mono veya Xamarin Platformlarında parola korumalı ODS dosyasının kilidini açmak için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通过 Java 给 XLSM 文档添加水印 
 weight: 7680
-url: /zh/java/watermark/xlsm/ 
+
 description: Java 用于在 Java JSP/JSF 应用程序和桌面应用程序的运行时环境中向 XLSM 文件添加或删除水印的示例代码。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

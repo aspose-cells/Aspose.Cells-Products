@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή XLSM σε DOCX μέσω C#
-url: /el/net/conversion/xlsm-to-docx/
+
 description: Δείγμα κώδικα για μετατροπή xlsm σε docx C#. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία xlsm για μετατροπή docx εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

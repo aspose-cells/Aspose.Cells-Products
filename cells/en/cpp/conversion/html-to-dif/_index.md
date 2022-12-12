@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to DIF via C++
-url: /cpp/conversion/html-to-dif/
+
 description: Convert HTML to DIF format in C++ code. Save HTML as DIF using C++.
 ---
 

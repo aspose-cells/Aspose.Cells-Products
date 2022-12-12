@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل NUMBERS إلى CSV عبر Python
-url: /ar/python-java/conversion/numbers-to-csv/
+
 description: نموذج رمز للأرقام لتحويل csv Python. استخدم API رمز المثال لملفات أرقام الدُفعات لتحويل csv داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

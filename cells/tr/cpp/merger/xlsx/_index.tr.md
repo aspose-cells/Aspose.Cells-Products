@@ -1,6 +1,6 @@
-﻿---
+---
 title: XLSX Dosyalarını C++ ile Birleştir 
-url: /tr/cpp/merger/xlsx/ 
+
 description: C++ Windows 32 bit, Windows 64 bit ve Linux 64 bit için C++ Runtime Environment'da XLSX belgelerini birleştirmek için örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

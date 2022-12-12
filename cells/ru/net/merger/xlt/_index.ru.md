@@ -1,7 +1,7 @@
-﻿---
+---
 title: Объединить файлы XLT через .NET 
 weight: 1820
-url: /ru/net/merger/xlt/ 
+
 description: Исходный код C# для объединения документов XLT на платформах .NET Framework, .NET Core, Mono или Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

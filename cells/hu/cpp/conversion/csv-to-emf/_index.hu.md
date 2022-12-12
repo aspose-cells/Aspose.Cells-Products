@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertálja a CSV-t EMF-vé a(z) C++ alkalmazással 
 weight: 6560
-url: /hu/cpp/conversion/csv-to-emf/ 
+
 description: Minta C++ konverziós kód a CSV-dokumentumhoz EMF formátumba. A programozók ezt a forráskódot használhatják kötegelt CSV-ből EMF-vé konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

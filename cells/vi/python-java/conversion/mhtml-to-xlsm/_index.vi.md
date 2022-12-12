@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển MHTML sang XLSM qua Python
-url: /vi/python-java/conversion/mhtml-to-xlsm/
+
 description: Mã mẫu cho chuyển đổi mhtml sang xlsm Python. Sử dụng API mã mẫu cho hàng loạt tệp mhtml sang chuyển đổi xlsm trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してSXCをMARKDOWNに変換します
-url: /ja/python-java/conversion/sxc-to-markdown/
+
 description: sxcからマークダウンPythonへの変換のサンプルコード。バッチsxcファイルのAPIサンプルコードを使用して、Pythonアプリケーション内で変換をマークダウンします。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

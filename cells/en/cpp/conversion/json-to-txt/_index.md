@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to TXT via C++
-url: /cpp/conversion/json-to-txt/
+
 description: Convert JSON to TXT format in C++ code. Save JSON as TXT using C++.
 ---
 

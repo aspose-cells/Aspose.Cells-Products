@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLTM naar XPS via Python
-url: /nl/python-java/conversion/xltm-to-xps/
+
 description: Voorbeeldcode voor xltm naar xps Python conversie. Gebruik API voorbeeldcode voor batch xltm-bestanden naar xps-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

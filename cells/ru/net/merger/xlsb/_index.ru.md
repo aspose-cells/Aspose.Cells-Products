@@ -1,7 +1,7 @@
-﻿---
+---
 title: Объединить файлы XLSB через .NET 
 weight: 2970
-url: /ru/net/merger/xlsb/ 
+
 description: Исходный код C# для объединения документов XLSB на платформах .NET Framework, .NET Core, Mono или Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

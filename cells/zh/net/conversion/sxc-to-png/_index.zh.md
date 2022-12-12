@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 C# 将 SXC 转换为 PNG
-url: /zh/net/conversion/sxc-to-png/
+
 description: sxc 到 png C# 转换的示例代码。使用 API 示例代码在 VB.NET、Asp.NET 或任何基于 .NET 的应用程序中批量 sxc 文件到 png 转换。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

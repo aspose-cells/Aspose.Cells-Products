@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل FODS إلى JSON عبر تطبيق C++ 
-url: /ar/cpp/conversion/fods-to-json/ 
+
 description: نموذج C++ رمز تحويل لمستند FODS إلى تنسيق JSON. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل دفعة FODS إلى JSON داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

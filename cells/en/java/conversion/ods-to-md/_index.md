@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to MD via Java 
-url: /java/conversion/ods-to-md/
+
 description: Convert ODS to MD format in Java code. Save ODS as MD using Java.
 ---
 

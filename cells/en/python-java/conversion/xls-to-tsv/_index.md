@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to TSV via Python
-url: /python-java/conversion/xls-to-tsv/
+
 description: Convert XLS to TSV format in Python code. Save XLS as TSV using Python.
 ---
 

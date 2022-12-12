@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل MHTML إلى PDF عبر Python
-url: /ar/python-java/conversion/mhtml-to-pdf/
+
 description: نموذج رمز للتحويل من mhtml إلى pdf Python. استخدم API رمز المثال لملفات mhtml الدفعية لتحويل pdf داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
 ---
 title: Protect and lock XLSB document via .NET 
 weight: 5920
-url: /net/protect/xlsb/ 
+
 description: C# source code to lock XLSB file using password on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

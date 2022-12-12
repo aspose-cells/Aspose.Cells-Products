@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to XPS via C++
-url: /cpp/conversion/xltx-to-xps/
+
 description: Convert XLTX to XPS format in C++ code. Save XLTX as XPS using C++.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Crea grafici Excel e converti in immagini tramite Java
-url: /it/java/chart/
+
 description: Java codice sorgente per disegnare e convertire grafici o diagrammi in Microsoft Excel utilizzando Java Libreria. 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

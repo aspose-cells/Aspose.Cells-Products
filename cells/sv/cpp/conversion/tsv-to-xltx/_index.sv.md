@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertera TSV till XLTX via C++-appen 
 weight: 3100
-url: /sv/cpp/conversion/tsv-to-xltx/ 
+
 description: Exempel på C++-konverteringskod för TSV-dokument till XLTX-format. Programmerare kan använda den här källkoden för batchkonvertering av TSV till XLTX inom alla C++-program.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

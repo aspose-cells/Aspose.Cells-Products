@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převeďte HTML na XLSX pomocí aplikace C++ 
 weight: 9770
-url: /cs/cpp/conversion/html-to-xlsx/ 
+
 description: Ukázka převodního kódu C++ pro dokument HTML na formát XLSX. Programátoři mohou použít tento zdrojový kód pro dávkovou konverzi HTML na XLSX v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Trích xuất văn bản và hình ảnh từ tài liệu ODS qua .NET 
 weight: 6970
-url: /vi/net/parser/ods/ 
+
 description: C# mã nguồn để trích xuất văn bản và hình ảnh từ tệp ODS trên Nền tảng .NET Framework, .NET Core Mono hoặc Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

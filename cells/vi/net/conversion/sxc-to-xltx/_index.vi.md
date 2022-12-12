@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi SXC sang XLTX qua C#
-url: /vi/net/conversion/sxc-to-xltx/
+
 description: Mã mẫu cho chuyển đổi sxc sang xltx C#. Sử dụng API mã ví dụ cho hàng loạt tệp sxc sang chuyển đổi xltx trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

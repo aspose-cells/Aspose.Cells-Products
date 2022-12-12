@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SPREADSHEETML konvertálása PDF-be a következőn keresztül: C#"
-url: /hu/net/conversion/spreadsheetml-to-pdf/
+
 description: Mintakód a táblázatkezelőből pdf-be C# konvertáláshoz. Használjon API példakódot a kötegelt táblázatkezelő fájlok PDF konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazásban.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

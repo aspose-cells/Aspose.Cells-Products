@@ -1,7 +1,7 @@
-﻿---
+---
 title: แปลงไฟล์ XLSX เป็น PDF/A ผ่าน Java 
 weight: 3200
-url: /th/java/conversion/xlsx-to-pdf-a/ 
+
 description: ตัวอย่างโค้ดการแปลง Java สำหรับรูปแบบ XLSX เป็นไฟล์ PDF A Complied โปรแกรมเมอร์สามารถใช้โค้ดตัวอย่างนี้เพื่อส่งออกสเปรดชีต Excel & OpenOffice ไปยังไฟล์ PDFA Complied ภายในแอปพลิเคชันที่ใช้เว็บหรือเดสก์ท็อป Java
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

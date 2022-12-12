@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla Column3D Grafikleri oluşturun
-url: /tr/python-java/create-column3d-chart/
+
 description: Python Python Kitaplığı'nı kullanarak Excel'de Column3D çizelgeleri oluşturmak için örnek kod. Python tabanlı uygulama içinde MS Excel'e bir Column3D grafiği oluşturmak için bu kodu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

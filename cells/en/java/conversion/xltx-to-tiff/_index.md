@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to TIFF via Java 
-url: /java/conversion/xltx-to-tiff/
+
 description: Convert XLTX to TIFF format in Java code. Save XLTX as TIFF using Java.
 ---
 

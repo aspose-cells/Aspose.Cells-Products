@@ -1,7 +1,7 @@
-﻿---
+---
 title: Visa ODS-filformat via .NET 
 weight: 130
-url: /sv/net/viewer/ods/ 
+
 description: C# källkod för att ladda, rendera och visa ODS-dokument på .NET Framework, .NET Core, Mono eller Xamarin-plattformar.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

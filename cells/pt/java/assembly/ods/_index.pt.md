@@ -1,7 +1,7 @@
-﻿---
+---
 title: Gere relatórios em arquivos ODS via Java 
 weight: 2440
-url: /pt/java/assembly/ods/ 
+
 description: Java código de amostra para criar relatórios de formato ODS no Java ambiente de tempo de execução para aplicativos JSP/JSF e aplicativos de desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi FODS sang XLS qua C#
-url: /vi/net/conversion/fods-to-xls/
+
 description: Mã mẫu cho chuyển đổi fods thành xls C#. Sử dụng API mã mẫu cho các tệp fods hàng loạt sang chuyển đổi xls trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

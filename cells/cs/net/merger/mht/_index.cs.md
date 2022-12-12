@@ -1,6 +1,6 @@
-﻿---
+---
 title: Sloučit soubory MHT přes .NET 
-url: /cs/net/merger/mht/ 
+
 description: Vyzkoušejte naše On-Premise rozhraní API pro slučování zpráv a zkombinujte dokumenty MHT na platformách .NET Framework, .NET Core a Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

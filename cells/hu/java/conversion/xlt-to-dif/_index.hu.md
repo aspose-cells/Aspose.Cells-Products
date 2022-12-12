@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLT konvertálása DIF-re a következőn keresztül: Java "
 weight: 5850
-url: /hu/java/conversion/xlt-to-dif/ 
+
 description: Minta Java konverziós kód az XLT formátumhoz DIF fájllá. A programozók ezt a példakódot használhatják Excel- és OpenOffice-táblázatok exportálására DIF-be bármely web- vagy asztali Java-alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

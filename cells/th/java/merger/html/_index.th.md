@@ -1,7 +1,7 @@
-﻿---
+---
 title: รวมไฟล์ HTML ผ่าน Java 
 weight: 8830
-url: /th/java/merger/html/ 
+
 description: Java โค้ดตัวอย่างเพื่อรวมเอกสาร HTML ใน Java Runtime Environment สำหรับแอปพลิเคชัน JSP/JSF และแอปพลิเคชันเดสก์ท็อป
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

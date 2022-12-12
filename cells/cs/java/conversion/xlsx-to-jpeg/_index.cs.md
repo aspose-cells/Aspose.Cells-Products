@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést XLSX na JPEG přes Java 
 weight: 8680
-url: /cs/java/conversion/xlsx-to-jpeg/ 
+
 description: Ukázkový konverzní kód Java pro formát XLSX na soubor JPEG. Programátoři mohou tento příklad kódu použít k exportu tabulek Excelu a OpenOffice do formátu JPEG v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

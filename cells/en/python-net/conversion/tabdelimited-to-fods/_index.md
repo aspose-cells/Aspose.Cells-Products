@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to FODS via Python
-url: /python-net/conversion/tabdelimited-to-fods/
+
 description: Sample code for tabdelimited to fods Python conversion. Use API example code for batch tabdelimited files to fods conversion within Python application.
 ---
 

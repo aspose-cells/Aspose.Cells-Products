@@ -1,7 +1,7 @@
-﻿---
+---
 title:  Biểu đồ tài liệu XLSX sang hình ảnh qua .NET 
 weight: 2630
-url: /vi/net/chart/xlsx/ 
+
 description: C# mã nguồn để vẽ và chuyển đổi biểu đồ hoặc sơ đồ trong tệp XLSX trên Nền tảng .NET Framework, .NET Core Mono hoặc Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

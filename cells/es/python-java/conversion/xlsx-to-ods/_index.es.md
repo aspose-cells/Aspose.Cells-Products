@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta XLSX a ODS a través de Python
-url: /es/python-java/conversion/xlsx-to-ods/
+
 description: Código de muestra para la conversión de xlsx a ods Python. Use el código de ejemplo API para la conversión de archivos xlsx por lotes a ods dentro de la aplicación Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

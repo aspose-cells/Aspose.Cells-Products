@@ -1,7 +1,7 @@
-﻿---
+---
 title: Proteja e bloqueie o documento XLSX via Java 
 weight: 1870
-url: /pt/java/protect/xlsx/ 
+
 description: Java código de amostra para bloquear o arquivo XLSX usando senha no Java ambiente de tempo de execução para aplicativos JSP/JSF e aplicativos de desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

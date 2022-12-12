@@ -1,7 +1,7 @@
-﻿---
+---
 title: Afficher les formats de fichier TSV via .NET 
 weight: 3090
-url: /fr/net/viewer/tsv/ 
+
 description: Code source C# pour charger, restituer et afficher des documents TSV sur .NET Framework, .NET Core, Mono ou Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

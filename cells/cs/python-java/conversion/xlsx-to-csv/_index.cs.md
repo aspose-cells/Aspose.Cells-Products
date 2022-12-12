@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLSX na CSV prostřednictvím Python
-url: /cs/python-java/conversion/xlsx-to-csv/
+
 description: Ukázkový kód pro převod xlsx na csv Python. Použijte API ukázkový kód pro dávkový převod souborů xlsx na csv v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

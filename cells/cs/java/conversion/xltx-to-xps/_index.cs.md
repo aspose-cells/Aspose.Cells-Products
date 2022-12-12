@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést XLTX na XPS přes Java 
 weight: 2990
-url: /cs/java/conversion/xltx-to-xps/ 
+
 description: Ukázkový konverzní kód Java pro soubor XLTX ve formátu XPS. Programátoři mohou tento příklad kódu použít k exportu tabulek Excelu a OpenOffice do XPS v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

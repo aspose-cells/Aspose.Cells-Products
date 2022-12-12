@@ -1,6 +1,6 @@
 ---
 title: Convert XLSM to XLSX via C#
-url: /net/conversion/xlsm-to-xlsx/
+
 description: Convert XLSM to XLSX format in C# code. Save XLSM as XLSX using VB.NET, Asp.NET or any .NET based application.
 ---
 

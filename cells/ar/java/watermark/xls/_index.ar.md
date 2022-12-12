@@ -1,7 +1,7 @@
-﻿---
+---
 title: مستند العلامة المائية XLS عبر Java 
 weight: 2210
-url: /ar/java/watermark/xls/ 
+
 description: Java نموذج كود لإضافة أو إزالة العلامة المائية إلى ملف XLS في Java Runtime Environment for JSP / JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi XLTM ke XLT melalui C++ aplikasi 
-url: /id/cpp/conversion/xltm-to-xlt/ 
+
 description: Contoh C++ kode konversi untuk dokumen XLTM ke format XLT. Pemrogram dapat menggunakan kode sumber ini untuk konversi batch XLTM ke XLT dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

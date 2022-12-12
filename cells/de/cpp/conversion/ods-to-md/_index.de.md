@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie ODS in MD über die Anwendung C++ 
-url: /de/cpp/conversion/ods-to-md/ 
+
 description: Beispiel-Umwandlungscode C++ für das ODS-Dokument in das MD-Format. Programmierer können diesen Quellcode für die Batch-Konvertierung von ODS in MD in jeder C++-Anwendung verwenden.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

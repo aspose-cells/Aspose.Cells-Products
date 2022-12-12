@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLSB-Dokument mit Wasserzeichen über .NET 
 weight: 5410
-url: /de/net/watermark/xlsb/ 
+
 description: C#-Quellcode zum Hinzufügen oder Entfernen von Wasserzeichen zur XLSB-Datei auf .NET Framework-, .NET Core-, Mono- oder Xamarin-Plattformen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

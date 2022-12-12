@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan XLT ke DIF melalui Python
-url: /id/python-java/conversion/xlt-to-dif/
+
 description: Contoh kode untuk konversi xlt ke dif Python. Gunakan API kode contoh untuk file batch xlt ke konversi berbeda dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

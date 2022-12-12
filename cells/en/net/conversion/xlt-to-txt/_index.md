@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to TXT via C#
-url: /net/conversion/xlt-to-txt/
+
 description: Convert XLT to TXT format in C# code. Save XLT as TXT using VB.NET, Asp.NET or any .NET based application.
 ---
 

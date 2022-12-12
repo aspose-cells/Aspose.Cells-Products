@@ -1,6 +1,6 @@
 ---
 title: Convert XLTM to WORD via C#
-url: /net/conversion/xltm-to-word/
+
 description: Convert XLTM to WORD format in C# code. Save XLTM as WORD using VB.NET, Asp.NET or any .NET based application.
 ---
 

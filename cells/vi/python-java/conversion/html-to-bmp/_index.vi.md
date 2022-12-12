@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi HTML sang BMP qua Python
-url: /vi/python-java/conversion/html-to-bmp/
+
 description: Mã mẫu cho chuyển đổi html sang bmp Python. Sử dụng mã mẫu API cho hàng loạt tệp html sang chuyển đổi bmp trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

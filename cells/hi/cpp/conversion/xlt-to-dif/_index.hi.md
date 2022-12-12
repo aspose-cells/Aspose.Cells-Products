@@ -1,6 +1,6 @@
-﻿---
+---
 title: XLT को DIF में C++ एप्लिकेशन के माध्यम से कनवर्ट करें 
-url: /hi/cpp/conversion/xlt-to-dif/ 
+
 description: एक्सएलटी दस्तावेज़ के लिए डीआईएफ प्रारूप में नमूना C++ रूपांतरण कोड। प्रोग्रामर इस स्रोत कोड का उपयोग बैच XLT से DIF रूपांतरण के लिए किसी भी C++ एप्लिकेशन में कर सकते हैं।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Bagan dokumen XLS melalui C++ 
 weight: 2500
-url: /id/cpp/chart/xls/ 
+
 description: C++ kode contoh untuk menggambar dan mengonversi bagan atau diagram dalam file XLS di C++ Runtime Environment untuk Windows 32 bit, Windows 64 bit, dan Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

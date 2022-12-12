@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer MHTML naar XPS via C++ applicatie 
 weight: 7930
-url: /nl/cpp/conversion/mhtml-to-xps/ 
+
 description: Voorbeeld C++ conversiecode voor MHTML-document naar XPS-indeling. Programmeurs kunnen deze broncode gebruiken voor batch-MHTML-naar-XPS-conversie binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

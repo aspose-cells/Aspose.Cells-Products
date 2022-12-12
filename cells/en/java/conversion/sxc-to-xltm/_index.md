@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to XLTM via Java 
-url: /java/conversion/sxc-to-xltm/
+
 description: Convert SXC to XLTM format in Java code. Save SXC as XLTM using Java.
 ---
 

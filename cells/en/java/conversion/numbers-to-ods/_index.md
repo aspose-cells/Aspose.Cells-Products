@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to ODS via Java 
-url: /java/conversion/numbers-to-ods/
+
 description: Convert NUMBERS to ODS format in Java code. Save NUMBERS as ODS using Java.
 ---
 

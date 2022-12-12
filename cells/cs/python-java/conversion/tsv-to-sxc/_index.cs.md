@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TSV na SXC přes Python
-url: /cs/python-java/conversion/tsv-to-sxc/
+
 description: Ukázkový kód pro převod tsv na sxc Python. Použijte API ukázkový kód pro dávkový převod souborů tsv na sxc v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

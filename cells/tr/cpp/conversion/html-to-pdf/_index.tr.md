@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ uygulamasıyla HTML'yi PDF'ye dönüştürün 
 weight: 6400
-url: /tr/cpp/conversion/html-to-pdf/ 
+
 description: HTML belgesinden PDF biçimine örnek C++ dönüştürme kodu. Programcılar, herhangi bir C++ Uygulamasında toplu HTML'den PDF'ye dönüştürme için bu kaynak kodunu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

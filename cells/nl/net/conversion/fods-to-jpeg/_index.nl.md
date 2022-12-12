@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer FODS naar JPEG via C#
-url: /nl/net/conversion/fods-to-jpeg/
+
 description: Voorbeeldcode voor conversie van fods naar jpeg C#. Gebruik API voorbeeldcode voor batch-fods-bestanden naar jpeg-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

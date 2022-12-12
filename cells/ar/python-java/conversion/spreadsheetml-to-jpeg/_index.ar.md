@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل SPREADSHEETML إلى JPEG عبر Python
-url: /ar/python-java/conversion/spreadsheetml-to-jpeg/
+
 description: نموذج كود لتحويل جدول البيانات إلى ملف jpeg Python. استخدم API رمز المثال لملفات جداول البيانات الدفعية لتحويل jpeg داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

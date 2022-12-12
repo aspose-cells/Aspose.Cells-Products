@@ -1,7 +1,7 @@
-﻿---
+---
 title: वॉटरमार्क XLS दस्तावेज़ .NET के ज़रिए 
 weight: 3050
-url: /hi/net/watermark/xls/ 
+
 description: .NET Framework, .NET Core, Mono या Xamarin Platforms पर XLS फ़ाइल में वॉटरमार्क जोड़ने या निकालने के लिए C# स्रोत कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj EXCEL na JPG przez Python
-url: /pl/python-java/conversion/excel-to-jpg/
+
 description: Przykładowy kod konwersji programu Excel do jpg Python. Użyj przykładowego kodu API dla plików wsadowych programu Excel do konwersji jpg w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

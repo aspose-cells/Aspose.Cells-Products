@@ -1,6 +1,6 @@
-﻿---
+---
 title: "ODS konvertálása JPG-vé a következőn keresztül: C#"
-url: /hu/net/conversion/ods-to-jpg/
+
 description: Mintakód az ods-ból jpg-be C# konvertáláshoz. Használjon API példakódot kötegelt ods fájlok jpg formátumba konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

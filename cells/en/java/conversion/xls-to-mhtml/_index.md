@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to MHTML via Java 
-url: /java/conversion/xls-to-mhtml/
+
 description: Convert XLS to MHTML format in Java code. Save XLS as MHTML using Java.
 ---
 

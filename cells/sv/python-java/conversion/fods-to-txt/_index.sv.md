@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera FODS till TXT via Python
-url: /sv/python-java/conversion/fods-to-txt/
+
 description: Exempelkod för fods till txt Python-konvertering. Använd API exempelkod för batch fods-filer till txt-konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

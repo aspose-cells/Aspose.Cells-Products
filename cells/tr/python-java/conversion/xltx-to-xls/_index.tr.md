@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla XLTX'i XLS'ye dönüştürün
-url: /tr/python-java/conversion/xltx-to-xls/
+
 description: xltx'ten xls'e Python dönüştürme için örnek kod. Python uygulamasında toplu xltx dosyalarını xls'ye dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

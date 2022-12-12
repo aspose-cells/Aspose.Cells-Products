@@ -1,7 +1,7 @@
-﻿---
+---
 title:  通过 .NET 将 ODS 文档图表转换为图像 
 weight: 4360
-url: /zh/net/chart/ods/ 
+
 description: C# 用于在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上绘制和转换 ODS 文件中的图表或图表的源代码。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

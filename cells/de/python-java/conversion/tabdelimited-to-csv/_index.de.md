@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie TABDELIMITED über Python in CSV
-url: /de/python-java/conversion/tabdelimited-to-csv/
+
 description: Beispielcode für die Umwandlung von tabulatorgetrennt in csv Python. Verwenden Sie den API-Beispielcode für die Batch-Konvertierung von tabulatorgetrennten Dateien in CSV innerhalb der Anwendung Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

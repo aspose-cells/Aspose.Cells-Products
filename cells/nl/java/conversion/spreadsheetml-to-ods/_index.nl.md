@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer SPREADSHEETML naar ODS via Java 
-url: /nl/java/conversion/spreadsheetml-to-ods/ 
+
 description: Voorbeeld Java conversiecode voor SPREADSHEETML-indeling naar ODS-bestand. Programmeurs kunnen deze voorbeeldcode gebruiken om Excel- en OpenOffice-spreadsheets naar ODS te exporteren binnen elke web- of desktoptoepassing Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python के माध्यम से TXT को JSON में बदलें
-url: /hi/python-java/conversion/txt-to-json/
+
 description: txt से json Python रूपांतरण के लिए नमूना कोड। बैच txt फ़ाइलों के लिए Python एप्लिकेशन के भीतर json रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

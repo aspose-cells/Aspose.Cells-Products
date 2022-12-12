@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLSX na HTML pomocí C#
-url: /cs/net/conversion/xlsx-to-html/
+
 description: Ukázkový kód pro převod xlsx na html C#. Použijte API ukázkový kód pro dávkový převod souborů xlsx na html v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

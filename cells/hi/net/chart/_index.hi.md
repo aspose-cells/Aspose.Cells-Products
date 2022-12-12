@@ -1,6 +1,6 @@
-﻿---
+---
 title: .NET के माध्यम से एक्सेल चार्ट निर्माण और छवियों में रूपांतरण
-url: /hi/net/chart/
+
 description: .NET लाइब्रेरी का उपयोग करके Microsoft Excel में चार्ट या आरेख बनाने और परिवर्तित करने के लिए C# स्रोत कोड। 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

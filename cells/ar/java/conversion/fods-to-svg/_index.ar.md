@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل FODS إلى SVG عبر Java 
-url: /ar/java/conversion/fods-to-svg/ 
+
 description: نموذج Java رمز تحويل لتنسيق FODS إلى ملف SVG. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel و OpenOffice إلى SVG داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

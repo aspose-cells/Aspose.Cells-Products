@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してTSVをHTMLに変換します
-url: /ja/python-java/conversion/tsv-to-html/
+
 description: tsvからhtmlPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチtsvファイルからhtmlへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 .NET 在 Excel 中插入註釋
-url: /zh-hant/net/comment/
+
 description: C# 源代碼，說明如何使用 .NET 庫將註釋插入 Microsoft Excel 文件。 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

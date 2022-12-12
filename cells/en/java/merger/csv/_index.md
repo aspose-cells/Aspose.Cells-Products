@@ -1,7 +1,7 @@
 ---
 title: Merge CSV Files via Java 
 weight: 3860
-url: /java/merger/csv/ 
+
 description: Java sample code to combine CSV documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

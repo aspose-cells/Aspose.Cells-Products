@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование NUMBERS в TIFF через Python
-url: /ru/python-java/conversion/numbers-to-tiff/
+
 description: Пример кода для преобразования чисел в tiff Python. Используйте пример кода API для файлов номеров пакетов для преобразования tiff в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

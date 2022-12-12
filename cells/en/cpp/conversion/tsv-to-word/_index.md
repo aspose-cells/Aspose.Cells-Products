@@ -1,6 +1,6 @@
 ---
 title: Convert TSV to WORD via C++
-url: /cpp/conversion/tsv-to-word/
+
 description: Convert TSV to WORD format in C++ code. Save TSV as WORD using C++.
 ---
 

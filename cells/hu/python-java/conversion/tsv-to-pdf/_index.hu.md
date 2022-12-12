@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TSV konvertálása PDF-be a következőn keresztül: Python"
-url: /hu/python-java/conversion/tsv-to-pdf/
+
 description: Mintakód a tsv-ből pdf-be Python konvertáláshoz. Használjon API példakódot a tsv-fájlok kötegelt pdf-té konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

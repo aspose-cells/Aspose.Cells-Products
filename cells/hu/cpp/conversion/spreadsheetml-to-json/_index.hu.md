@@ -1,6 +1,6 @@
-﻿---
+---
 title: A SPREADSHEETML konvertálása JSON formátumba a(z) C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/spreadsheetml-to-json/ 
+
 description: Minta C++ konverziós kód a SPREADSHEETML dokumentumhoz JSON formátumba. A programozók ezt a forráskódot használhatják a SPREADSHEETML-ből JSON-ba történő kötegelt konvertáláshoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

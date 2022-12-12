@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل XLSB إلى TIFF عبر تطبيق C++ 
 weight: 8720
-url: /ar/cpp/conversion/xlsb-to-tiff/ 
+
 description: نموذج رمز تحويل C++ لمستند XLSB إلى تنسيق TIFF. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل XLSB المجمعة إلى TIFF داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# के माध्यम से JSON को PNG में बदलें
-url: /hi/net/conversion/json-to-png/
+
 description: json से png C# रूपांतरण के लिए नमूना कोड। वीबी.NET, एएसपी.NET या किसी भी .NET आधारित एप्लिकेशन के भीतर बैच जेसन फाइलों के पीएनजी रूपांतरण के लिए API उदाहरण कोड का प्रयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

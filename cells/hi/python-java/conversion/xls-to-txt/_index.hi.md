@@ -1,6 +1,6 @@
-﻿---
+---
 title: XLS को TXT में बदलें Python के माध्यम से
-url: /hi/python-java/conversion/xls-to-txt/
+
 description: xls से txt Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर txt रूपांतरण के लिए बैच xls फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

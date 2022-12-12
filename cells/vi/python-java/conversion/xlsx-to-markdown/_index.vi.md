@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi XLSX thành MARKDOWN qua Python
-url: /vi/python-java/conversion/xlsx-to-markdown/
+
 description: Mã mẫu cho chuyển đổi xlsx để đánh dấu Python. Sử dụng API mã mẫu cho hàng loạt tệp xlsx để đánh dấu chuyển đổi trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

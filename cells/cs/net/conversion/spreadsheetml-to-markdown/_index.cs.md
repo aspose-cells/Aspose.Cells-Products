@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést SPREADSHEETML na MARKDOWN prostřednictvím C#
-url: /cs/net/conversion/spreadsheetml-to-markdown/
+
 description: Ukázkový kód pro konverzi tabulkyml do markdown C#. Použijte API ukázkový kód pro dávkové soubory tabulkového procesoruml k převodu markdown v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

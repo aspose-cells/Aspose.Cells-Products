@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to TIFF via C#
-url: /net/conversion/xls-to-tiff/
+
 description: Convert XLS to TIFF format in C# code. Save XLS as TIFF using VB.NET, Asp.NET or any .NET based application.
 ---
 

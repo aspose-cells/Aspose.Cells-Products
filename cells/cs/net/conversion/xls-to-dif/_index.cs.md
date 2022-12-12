@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLS na DIF přes C#
-url: /cs/net/conversion/xls-to-dif/
+
 description: Ukázkový kód pro převod xls na rozdíl C#. Použijte API ukázkový kód pro dávkové soubory xls pro převod převodu v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

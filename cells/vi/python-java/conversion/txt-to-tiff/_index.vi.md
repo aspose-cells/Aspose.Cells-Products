@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi TXT sang TIFF qua Python
-url: /vi/python-java/conversion/txt-to-tiff/
+
 description: Mã mẫu cho chuyển đổi txt sang tiff Python. Sử dụng mã mẫu API cho các tệp txt hàng loạt để chuyển đổi tiff trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter CSV para MD por meio do aplicativo C++ 
-url: /pt/cpp/conversion/csv-to-md/ 
+
 description: Exemplo de código de conversão C++ de documento CSV para formato MD. Os programadores podem usar esse código-fonte para conversão em lote de CSV para MD em qualquer aplicativo C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

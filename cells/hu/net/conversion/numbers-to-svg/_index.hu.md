@@ -1,6 +1,6 @@
-﻿---
+---
 title: "NUMBERS konvertálása SVG-vé a következőn keresztül: C#"
-url: /hu/net/conversion/numbers-to-svg/
+
 description: Mintakód számok SVG C# konverziójára. Használjon API példakódot kötegszámfájlokhoz az SVG konverzióhoz VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: A TXT konvertálása MHTML-re a(z) C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/txt-to-mhtml/ 
+
 description: Minta C++ konverziós kód TXT-dokumentumhoz MHTML formátumba. A programozók ezt a forráskódot használhatják kötegelt TXT-MHTML konvertáláshoz bármely C++ alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

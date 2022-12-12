@@ -1,6 +1,6 @@
-﻿---
+---
 title: "CSV konvertálása XPS-re a következőn keresztül: C#"
-url: /hu/net/conversion/csv-to-xps/
+
 description: Mintakód a csv–xps C# konverzióhoz. Használjon API példakódot a csv-fájlok kötegelt xps-re konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

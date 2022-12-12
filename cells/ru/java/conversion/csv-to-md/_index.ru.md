@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование CSV в MD через Java 
-url: /ru/java/conversion/csv-to-md/ 
+
 description: Пример кода преобразования Java для формата CSV в файл MD. Программисты могут использовать этот пример кода для экспорта электронных таблиц Excel и OpenOffice в MD в любом веб- или настольном Java приложении.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

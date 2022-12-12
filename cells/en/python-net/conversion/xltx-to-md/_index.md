@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to MD via Python
-url: /python-net/conversion/xltx-to-md/
+
 description: Sample code for xltx to md Python conversion. Use API example code for batch xltx files to md conversion within Python application.
 ---
 

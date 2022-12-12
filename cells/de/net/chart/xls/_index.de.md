@@ -1,7 +1,7 @@
-﻿---
+---
 title:  XLS-Dokumentdiagramm zu Bildern über .NET 
 weight: 3210
-url: /de/net/chart/xls/ 
+
 description: C# Quellcode zum Zeichnen und Konvertieren von Diagrammen oder Diagrammen in XLS-Dateien auf .NET Framework-, .NET Core-, Mono- oder Xamarin-Plattformen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

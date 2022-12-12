@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Az XLSM-dokumentum feloldása a következőn keresztül: C++ "
 weight: 6070
-url: /hu/cpp/unlock/xlsm/ 
+
 description: C++ példakód a jelszóval védett XLSM-fájl feloldásához a C++ Runtime Environment for Windows 32 bit, Windows 64 bit és Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

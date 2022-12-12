@@ -1,7 +1,7 @@
-﻿---
+---
 title: CSV-Dateien über .NET zusammenführen 
 weight: 6450
-url: /de/net/merger/csv/ 
+
 description: C#-Quellcode zum Kombinieren von CSV-Dokumenten auf .NET Framework-, .NET Core-, Mono- oder Xamarin-Plattformen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

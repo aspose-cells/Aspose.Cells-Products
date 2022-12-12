@@ -1,6 +1,6 @@
-﻿---
+---
 title: "FODS konvertálása MARKDOWN-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/fods-to-markdown/
+
 description: Mintakód a fod-hoz a Python konverzió leértékeléséhez. Használjon API példakódot kötegelt fod-fájlokhoz a konverzió leértékeléséhez a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Crie arquivos MHTML por meio de Python 
-url: /pt/python-java/create-mhtml/ 
+
 description: Python Código de exemplo para gerar documentos MHTML. Use este código para criar arquivos MHTML no aplicativo Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

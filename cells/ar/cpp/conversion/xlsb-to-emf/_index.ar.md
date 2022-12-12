@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل XLSB إلى EMF عبر تطبيق C++ 
 weight: 9640
-url: /ar/cpp/conversion/xlsb-to-emf/ 
+
 description: نموذج C++ رمز تحويل لمستند XLSB إلى تنسيق EMF. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل XLSB دفعة إلى EMF داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

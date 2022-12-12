@@ -1,7 +1,7 @@
-﻿---
+---
 title: เอกสารลายน้ำ XLSM ผ่าน .NET 
 weight: 8270
-url: /th/net/watermark/xlsm/ 
+
 description: C# ซอร์สโค้ดเพื่อเพิ่มหรือลบลายน้ำในไฟล์ XLSM บน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

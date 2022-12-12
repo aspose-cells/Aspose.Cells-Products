@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera TXT till XLTM via C#
-url: /sv/net/conversion/txt-to-xltm/
+
 description: Exempelkod för konvertering från txt till xltm C#. Använd API exempelkod för batch-txt-filer till xltm-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

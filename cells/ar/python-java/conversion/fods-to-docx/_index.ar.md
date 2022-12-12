@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل FODS إلى DOCX عبر Python
-url: /ar/python-java/conversion/fods-to-docx/
+
 description: نموذج كود لتحويل fods إلى docx Python. استخدم API رمز المثال لملفات fods الدفعية لتحويل docx داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

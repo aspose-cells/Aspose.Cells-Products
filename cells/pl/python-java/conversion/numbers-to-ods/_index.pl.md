@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj NUMBERS na ODS przez Python
-url: /pl/python-java/conversion/numbers-to-ods/
+
 description: Przykładowy kod konwersji liczb do kursów Python. Użyj przykładowego kodu API dla plików numerów partii do konwersji kursów w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

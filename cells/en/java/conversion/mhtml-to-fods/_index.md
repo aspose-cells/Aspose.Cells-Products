@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to FODS via Java 
-url: /java/conversion/mhtml-to-fods/
+
 description: Convert MHTML to FODS format in Java code. Save MHTML as FODS using Java.
 ---
 

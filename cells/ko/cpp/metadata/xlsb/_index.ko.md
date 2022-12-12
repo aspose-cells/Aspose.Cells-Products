@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++을(를) 통해 XLSB 문서 메타데이터 수정 또는 보기 
 weight: 4820
-url: /ko/cpp/metadata/xlsb/ 
+
 description: C++ Windows 32비트, Windows 64비트 및 Linux 64비트용 C++ Runtime Environment에서 XLSB 파일 메타데이터를 편집하거나 보기 위한 예제 코드.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

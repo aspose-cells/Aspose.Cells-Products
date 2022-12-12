@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLS-dokumentum feloldása a következőn keresztül: C++ "
 weight: 2380
-url: /hu/cpp/unlock/xls/ 
+
 description: C++ példakód a jelszóval védett XLS-fájl feloldásához C++ Runtime Environment for Windows 32 bit, Windows 64 bit és Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

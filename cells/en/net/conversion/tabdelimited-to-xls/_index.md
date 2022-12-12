@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to XLS via C#
-url: /net/conversion/tabdelimited-to-xls/
+
 description: Convert TABDELIMITED to XLS format in C# code. Save TABDELIMITED as XLS using VB.NET, Asp.NET or any .NET based application.
 ---
 

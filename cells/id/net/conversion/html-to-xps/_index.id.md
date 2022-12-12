@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi HTML ke XPS melalui C#
-url: /id/net/conversion/html-to-xps/
+
 description: Contoh kode untuk konversi html ke xps C#. Gunakan API kode contoh untuk file batch html ke konversi xps dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Δημιουργία αρχείων MS Excel XLS μέσω C++ 
-url: /el/cpp/create-xls/ 
+
 description: C++ Δείγμα κώδικα για τη δημιουργία αρχείων MS Excel XLS. Χρησιμοποιήστε αυτόν τον κώδικα για τη δημιουργία αρχείων MS Excel XLS εντός εφαρμογής που βασίζεται σε C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

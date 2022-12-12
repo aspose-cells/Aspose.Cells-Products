@@ -1,6 +1,6 @@
 ---
 title: Convert XLTM to TABDELIMITED via C++
-url: /cpp/conversion/xltm-to-tabdelimited/
+
 description: Convert XLTM to TABDELIMITED format in C++ code. Save XLTM as TABDELIMITED using C++.
 ---
 

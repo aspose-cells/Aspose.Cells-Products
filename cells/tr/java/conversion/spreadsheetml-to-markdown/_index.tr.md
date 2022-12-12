@@ -1,6 +1,6 @@
-﻿---
+---
 title: SPREADSHEETML'yi Java aracılığıyla MARKDOWN'a dönüştürün 
-url: /tr/java/conversion/spreadsheetml-to-markdown/ 
+
 description: SPREADSHEETML biçimi için MARKDOWN dosyasına örnek Java dönüştürme kodu. Programcılar, Excel ve OpenOffice elektronik tablolarını herhangi bir Web veya Masaüstü Java tabanlı Uygulamada MARKDOWN'a aktarmak için bu örnek kodu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

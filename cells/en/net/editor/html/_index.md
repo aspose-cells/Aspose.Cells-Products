@@ -1,6 +1,6 @@
 ---
 title: Edit HTML files via .NET 
-url: /net/editor/html/ 
+
 description: C# source code to edit HTML document on .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms.
 ---
 

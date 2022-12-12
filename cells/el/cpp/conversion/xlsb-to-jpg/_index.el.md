@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή XLSB σε JPG μέσω της εφαρμογής C++ 
-url: /el/cpp/conversion/xlsb-to-jpg/ 
+
 description: Δείγμα κώδικα μετατροπής C++ για έγγραφο XLSB σε μορφή JPG. Οι προγραμματιστές μπορούν να χρησιμοποιήσουν αυτόν τον πηγαίο κώδικα για μαζική μετατροπή XLSB σε JPG σε οποιαδήποτε εφαρμογή C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

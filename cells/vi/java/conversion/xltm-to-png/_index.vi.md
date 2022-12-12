@@ -1,7 +1,7 @@
-﻿---
+---
 title: Chuyển đổi XLTM sang PNG qua Java 
 weight: 7310
-url: /vi/java/conversion/xltm-to-png/ 
+
 description: Mã chuyển đổi Java mẫu cho định dạng XLTM sang tệp PNG. Lập trình viên có thể sử dụng mã ví dụ này để xuất bảng tính Excel & OpenOffice sang PNG trong bất kỳ Ứng dụng dựa trên Web hoặc Máy tính Java nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

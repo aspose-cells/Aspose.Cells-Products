@@ -1,7 +1,7 @@
-﻿---
+---
 title: ODS-documentdiagram via C++ 
 weight: 3820
-url: /nl/cpp/chart/ods/ 
+
 description: C++ voorbeeldcode om een grafiek of diagram in ODS-bestand te tekenen en om te zetten in C++ Runtime Environment voor Windows 32 bit, Windows 64 bit en Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

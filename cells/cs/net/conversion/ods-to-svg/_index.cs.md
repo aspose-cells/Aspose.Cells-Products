@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést ODS na SVG prostřednictvím C#
-url: /cs/net/conversion/ods-to-svg/
+
 description: Ukázkový kód pro převod z ods na svg C#. Použijte API ukázkový kód pro dávkové převody souborů ods na svg v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

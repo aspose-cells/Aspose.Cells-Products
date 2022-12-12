@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte JSON na XLS pomocí aplikace C++ 
-url: /cs/cpp/conversion/json-to-xls/ 
+
 description: Ukázkový konverzní kód C++ pro dokument JSON na formát XLS. Programátoři mohou tento zdrojový kód použít pro dávkový převod JSON na XLS v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

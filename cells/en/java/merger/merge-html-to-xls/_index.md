@@ -1,6 +1,6 @@
 ---
 title: Merge HTML to XLS Files via Java 
-url: /java/merger/merge-html-to-xls/ 
+
 description: Merge HTML to XLS file in Java code. Combine HTML to XLS file using Java based desktop or web application.
 ---
 

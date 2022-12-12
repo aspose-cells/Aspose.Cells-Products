@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++を介して開かずにXLSMドキュメントを検索する 
 weight: 9280
-url: /ja/cpp/search/xlsm/ 
+
 description: C++ Windows 32ビット、Windows 64ビット、Linux64ビットのランタイム環境でXLSMファイルのパターンを持つ単語を検索するためのサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

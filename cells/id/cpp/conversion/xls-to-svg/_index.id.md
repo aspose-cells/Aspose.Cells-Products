@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversi XLS ke SVG melalui C++ aplikasi 
 weight: 2060
-url: /id/cpp/conversion/xls-to-svg/ 
+
 description: Contoh C++ kode konversi untuk dokumen XLS ke format SVG. Pemrogram dapat menggunakan kode sumber ini untuk konversi batch XLS ke SVG dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

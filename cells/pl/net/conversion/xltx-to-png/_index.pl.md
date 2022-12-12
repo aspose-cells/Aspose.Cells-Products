@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj XLTX na PNG przez C#
-url: /pl/net/conversion/xltx-to-png/
+
 description: Przykładowy kod konwersji xltx do png C#. Użyj przykładowego kodu API dla plików wsadowych xltx do konwersji png w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

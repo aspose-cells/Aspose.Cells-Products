@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLTX naar XLSX via Python
-url: /nl/python-java/conversion/xltx-to-xlsx/
+
 description: Voorbeeldcode voor xltx naar xlsx Python conversie. Gebruik API voorbeeldcode voor batch xltx-bestanden naar xlsx-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLTX konvertálása JPEG formátumba a következőn keresztül: Java "
 weight: 9380
-url: /hu/java/conversion/xltx-to-jpeg/ 
+
 description: Minta Java konverziós kód XLTX formátumhoz JPEG fájllá. A programozók ezt a példakódot használhatják Excel és OpenOffice táblázatok exportálására JPEG formátumban bármely web- vagy asztali Java alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer XLSB naar TIFF via Java 
 weight: 6860
-url: /nl/java/conversion/xlsb-to-tiff/ 
+
 description: Voorbeeld Java conversiecode voor XLSB-indeling naar TIFF-bestand. Programmeurs kunnen deze voorbeeldcode gebruiken om Excel- en OpenOffice-spreadsheets naar TIFF te exporteren binnen elke web- of desktoptoepassing Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

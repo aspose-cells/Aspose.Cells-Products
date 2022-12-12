@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj EXCEL na WORD przez C#
-url: /pl/net/conversion/excel-to-word/
+
 description: Przykładowy kod konwersji programu Excel do słowa C#. Użyj przykładowego kodu API dla plików wsadowych Excela do konwersji słów w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

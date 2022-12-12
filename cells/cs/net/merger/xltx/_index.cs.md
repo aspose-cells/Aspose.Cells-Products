@@ -1,7 +1,7 @@
-﻿---
+---
 title: Sloučit soubory XLTX přes .NET 
 weight: 1220
-url: /cs/net/merger/xltx/ 
+
 description: Zdrojový kód C# pro kombinaci dokumentů XLTX na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

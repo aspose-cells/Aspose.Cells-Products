@@ -1,6 +1,6 @@
-﻿---
+---
 title: Tạo Tệp PDF qua Python 
-url: /vi/python-java/create-pdf/ 
+
 description: Python Mã mẫu để tạo tài liệu PDF. Sử dụng mã này để tạo tệp PDF trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

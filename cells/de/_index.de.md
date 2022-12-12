@@ -1,7 +1,7 @@
-﻿---
+---
 title: Lösung für Excel-Dateiformate
 weight: 7730
-url: /de/
+
 description: Erstellen Sie Anwendungen zur Bearbeitung von Excel-Dateien mit High-Code- oder Low-Code-APIs oder No-Code-Apps, um Excel-Dateien anzuzeigen, zu vergleichen, zu prüfen oder zu konvertieren.
 ---
 {{< blocks/products/pf/main-wrap-class >}}

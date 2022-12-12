@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to FODS via Java 
-url: /java/conversion/sxc-to-fods/
+
 description: Convert SXC to FODS format in Java code. Save SXC as FODS using Java.
 ---
 

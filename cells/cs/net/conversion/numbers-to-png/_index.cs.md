@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést NUMBERS na PNG přes C#
-url: /cs/net/conversion/numbers-to-png/
+
 description: Ukázkový kód pro převod čísel na png C#. Použijte API ukázkový kód pro dávkové soubory čísel na převod png v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

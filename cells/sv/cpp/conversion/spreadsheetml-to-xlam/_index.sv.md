@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera SPREADSHEETML till XLAM via applikationen C++ 
-url: /sv/cpp/conversion/spreadsheetml-to-xlam/ 
+
 description: Exempel på konverteringskod för C++ för SPREADSHEETML-dokument till XLAM-format. Programmerare kan använda den här källkoden för batch-SPREADSHEETML till XLAM-konvertering inom vilken C++-applikation som helst.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

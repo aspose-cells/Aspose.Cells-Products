@@ -1,6 +1,6 @@
-﻿---
+---
 title: إنشاء ملفات Excel عبر Java
-url: /ar/java/assembly/
+
 description: قم بإنشاء جداول بيانات Microsoft Excel من ورقة نموذج باستخدام مكتبة جداول البيانات Java
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

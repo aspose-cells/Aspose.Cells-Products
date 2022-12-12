@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLSB إلى JPG عبر Java 
-url: /ar/java/conversion/xlsb-to-jpg/ 
+
 description: نموذج Java رمز تحويل لتنسيق XLSB إلى ملف JPG. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel و OpenOffice إلى JPG من خلال أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

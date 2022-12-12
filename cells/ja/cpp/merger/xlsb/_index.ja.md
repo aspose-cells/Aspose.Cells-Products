@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++を介してXLSBファイルをマージします 
-url: /ja/cpp/merger/xlsb/ 
+
 description: C++ Windows 32ビット、Windows 64ビット、およびLinux64ビットのランタイム環境でXLSBドキュメントを組み合わせるためのサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

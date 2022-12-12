@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to PDF via Python
-url: /python-java/conversion/json-to-pdf/
+
 description: Convert JSON to PDF format in Python code. Save JSON as PDF using Python.
 ---
 

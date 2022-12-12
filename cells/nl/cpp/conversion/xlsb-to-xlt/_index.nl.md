@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLSB naar XLT via C++ applicatie 
-url: /nl/cpp/conversion/xlsb-to-xlt/ 
+
 description: Voorbeeld C++ conversiecode voor XLSB-document naar XLT-indeling. Programmeurs kunnen deze broncode gebruiken voor batch-conversie van XLSB naar XLT binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

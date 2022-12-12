@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование FODS в HTML через C#
-url: /ru/net/conversion/fods-to-html/
+
 description: Пример кода для преобразования fods в html C#. Используйте пример кода API для пакетного преобразования файлов fods в html в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter FODS para CSV via C#
-url: /pt/net/conversion/fods-to-csv/
+
 description: Código de exemplo para conversão de fods para csv C#. Use API código de exemplo para arquivos fods em lote para conversão csv em VB.NET, Asp.NET ou qualquer aplicativo baseado em .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

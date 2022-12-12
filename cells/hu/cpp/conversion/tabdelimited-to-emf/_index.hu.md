@@ -1,6 +1,6 @@
-﻿---
+---
 title: A TABDELIMITED konvertálása EMF-re a(z) C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/tabdelimited-to-emf/ 
+
 description: Minta C++ konverziós kód a TABDELIMITED dokumentumhoz EMF formátumba. A programozók ezt a forráskódot használhatják a TABDELIMITED kötegelt EMF konvertáláshoz bármely C++ alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

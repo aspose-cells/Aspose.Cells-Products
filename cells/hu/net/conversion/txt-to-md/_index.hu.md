@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TXT konvertálása MD-vé a következőn keresztül: C#"
-url: /hu/net/conversion/txt-to-md/
+
 description: Mintakód a txt–md C# konverzióhoz. Használjon API példakódot a kötegelt txt fájlok md konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazásban.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

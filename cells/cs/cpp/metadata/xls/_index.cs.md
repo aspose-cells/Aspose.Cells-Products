@@ -1,7 +1,7 @@
-﻿---
+---
 title: Upravit nebo zobrazit metadata dokumentu XLS prostřednictvím C++ 
 weight: 2150
-url: /cs/cpp/metadata/xls/ 
+
 description: C++ ukázkový kód pro úpravu nebo zobrazení metadat souboru XLS v C++ Runtime Environment pro Windows 32bit, Windows 64bit a Linux 64bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

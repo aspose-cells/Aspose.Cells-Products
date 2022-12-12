@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi XLS sang SQL qua Python
-url: /vi/python-java/conversion/xls-to-sql/
+
 description: Mã mẫu cho chuyển đổi xls sang sql Python. Sử dụng API mã ví dụ cho hàng loạt tệp xls sang chuyển đổi sql trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

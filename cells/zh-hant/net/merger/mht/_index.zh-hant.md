@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 .NET 合併 MHT 文件 
-url: /zh-hant/net/merger/mht/ 
+
 description: 嘗試我們的本地消息合併 API，以在 .NET Framework、.NET Core 和 Xamarin 平台上合併 MHT 文檔。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Bescherm en vergrendel XLSX-document via Java 
 weight: 1870
-url: /nl/java/protect/xlsx/ 
+
 description: Java voorbeeldcode om XLSX-bestand te vergrendelen met wachtwoord in Java Runtime Environment voor JSP/JSF-applicaties en desktopapplicaties.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: قم بتحويل XLT إلى GIF عبر تطبيق C++ 
-url: /ar/cpp/conversion/xlt-to-gif/ 
+
 description: نموذج C++ رمز التحويل لمستند XLT إلى تنسيق GIF. يمكن للمبرمجين استخدام هذا الكود المصدري لتحويل XLT إلى GIF في أي C++ تطبيق.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

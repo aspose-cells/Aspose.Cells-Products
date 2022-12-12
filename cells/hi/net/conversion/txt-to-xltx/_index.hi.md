@@ -1,6 +1,6 @@
-﻿---
+---
 title: TXT को C# के माध्यम से XLTX में बदलें
-url: /hi/net/conversion/txt-to-xltx/
+
 description: txt से xltx C# रूपांतरण के लिए नमूना कोड। VB.NET, Asp.NET या किसी भी .NET आधारित एप्लिकेशन के भीतर xltx रूपांतरण के लिए बैच txt फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

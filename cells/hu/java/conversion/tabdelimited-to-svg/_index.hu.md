@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TABDELIMITED konvertálása SVG-re a következőn keresztül: Java "
-url: /hu/java/conversion/tabdelimited-to-svg/ 
+
 description: Minta Java konverziós kód a TABDELIMITED formátumhoz SVG-fájllá. A programozók ezt a példakódot használhatják Excel és OpenOffice táblázatok exportálására SVG formátumba bármely web- vagy asztali Java alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

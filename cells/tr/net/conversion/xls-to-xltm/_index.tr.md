@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla XLS'yi XLTM'ye dönüştürün
-url: /tr/net/conversion/xls-to-xltm/
+
 description: xls'den xltm'ye C# dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu xls dosyalarından xltm'ye dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

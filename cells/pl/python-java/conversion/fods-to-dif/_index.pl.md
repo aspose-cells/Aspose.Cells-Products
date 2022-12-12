@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj FODS na DIF przez Python
-url: /pl/python-java/conversion/fods-to-dif/
+
 description: Przykładowy kod dla konwersji fods Python. Użyj przykładowego kodu API dla wsadowych plików fods do konwersji różnic w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

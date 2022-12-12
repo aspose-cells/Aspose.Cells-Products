@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta XLS a XLAM a través de Python
-url: /es/python-java/conversion/xls-to-xlam/
+
 description: Ejemplo de código para la conversión de xls a xlam Python. Utilice el código de ejemplo API para la conversión de archivos xls por lotes a xlam dentro de la aplicación Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

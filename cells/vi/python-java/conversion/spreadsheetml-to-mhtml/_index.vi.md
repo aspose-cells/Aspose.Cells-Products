@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi SPREADSHEETML sang MHTML qua Python
-url: /vi/python-java/conversion/spreadsheetml-to-mhtml/
+
 description: Mã mẫu cho chuyển đổi từ bảng tínhml sang mhtml Python. Sử dụng API mã mẫu cho hàng loạt tệpml bảng tính thành chuyển đổi mhtml trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

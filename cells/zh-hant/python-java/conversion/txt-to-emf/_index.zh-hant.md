@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 Python 將 TXT 轉換為 EMF
-url: /zh-hant/python-java/conversion/txt-to-emf/
+
 description: txt 到 emf Python 轉換的示例代碼。在 Python 應用程序中使用 API 示例代碼將批處理 txt 文件轉換為 emf。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

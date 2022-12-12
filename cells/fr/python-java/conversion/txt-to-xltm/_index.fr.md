@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir TXT en XLTM via Python
-url: /fr/python-java/conversion/txt-to-xltm/
+
 description: Exemple de code pour la conversion txt vers xltm Python. Utilisez l'exemple de code API pour la conversion de fichiers txt par lots en xltm dans l'application Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLSM naar HTML via Python
-url: /nl/python-java/conversion/xlsm-to-html/
+
 description: Voorbeeldcode voor xlsm naar html Python conversie. Gebruik API voorbeeldcode voor batch xlsm-bestanden naar html-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

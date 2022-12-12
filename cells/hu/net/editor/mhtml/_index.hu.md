@@ -1,6 +1,6 @@
-﻿---
+---
 title: "MHTML-fájlok szerkesztése a következőn keresztül: .NET "
-url: /hu/net/editor/mhtml/ 
+
 description: C# forráskód az MHTML-dokumentum szerkesztéséhez .NET Framework, .NET Core, Windows Azure, Mono vagy Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

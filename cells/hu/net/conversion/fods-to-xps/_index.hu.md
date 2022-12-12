@@ -1,6 +1,6 @@
-﻿---
+---
 title: "FODS konvertálása XPS-re a következőn keresztül: C#"
-url: /hu/net/conversion/fods-to-xps/
+
 description: Mintakód a fod-s xps C# konverzióhoz. Használjon API példakódot a fod fájlok kötegelt xps-re konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

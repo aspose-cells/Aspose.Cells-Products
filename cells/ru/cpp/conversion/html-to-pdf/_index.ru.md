@@ -1,7 +1,7 @@
-﻿---
+---
 title: Преобразование HTML в PDF с помощью приложения C++ 
 weight: 6400
-url: /ru/cpp/conversion/html-to-pdf/ 
+
 description: Пример кода преобразования C++ для документа HTML в формат PDF. Программисты могут использовать этот исходный код для пакетного преобразования HTML в PDF в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

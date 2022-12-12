@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してXLTをMDに変換する 
-url: /ja/java/conversion/xlt-to-md/ 
+
 description: XLT形式からMDファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のMDにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

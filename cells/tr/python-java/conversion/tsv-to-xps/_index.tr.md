@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla TSV'yi XPS'ye dönüştürün
-url: /tr/python-java/conversion/tsv-to-xps/
+
 description: tsv'den xps'e Python dönüştürme için örnek kod. Python uygulamasında toplu tsv dosyalarını xps'e dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

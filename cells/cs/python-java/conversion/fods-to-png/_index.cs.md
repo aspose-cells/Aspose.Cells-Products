@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést FODS na PNG přes Python
-url: /cs/python-java/conversion/fods-to-png/
+
 description: Ukázkový kód pro konverzi fod na png Python. Použijte API ukázkový kód pro dávkový převod souborů fods na png v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

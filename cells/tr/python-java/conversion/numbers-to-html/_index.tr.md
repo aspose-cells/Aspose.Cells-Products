@@ -1,6 +1,6 @@
-﻿---
+---
 title: NUMBERS'ı Python aracılığıyla HTML'ye dönüştürün
-url: /tr/python-java/conversion/numbers-to-html/
+
 description: Sayıları html'ye Python dönüştürmek için örnek kod. Python uygulamasında toplu iş numarası dosyalarını html'ye dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

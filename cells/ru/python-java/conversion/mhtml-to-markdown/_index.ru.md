@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование MHTML в MARKDOWN с помощью Python
-url: /ru/python-java/conversion/mhtml-to-markdown/
+
 description: Пример кода для преобразования mhtml в markdown Python. Используйте пример кода API для пакетного преобразования mhtml-файлов в уценку в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

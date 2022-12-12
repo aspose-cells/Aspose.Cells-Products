@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή TABDELIMITED σε BMP μέσω C#
-url: /el/net/conversion/tabdelimited-to-bmp/
+
 description: Δείγμα κώδικα για μετατροπή οριοθετημένης καρτέλας σε bmp C#. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία οριοθετημένα στηλοθέτες για μετατροπή bmp εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

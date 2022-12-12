@@ -1,6 +1,6 @@
-﻿---
+---
 title: "CSV konvertálása SXC formátumba a következőn keresztül: Python"
-url: /hu/python-java/conversion/csv-to-sxc/
+
 description: Mintakód a csv–sxc Python konverzióhoz. Használjon API példakódot a csv fájlok kötegelt sxc konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

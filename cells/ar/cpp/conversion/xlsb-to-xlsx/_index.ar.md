@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل XLSB إلى XLSX عبر تطبيق C++ 
 weight: 10130
-url: /ar/cpp/conversion/xlsb-to-xlsx/ 
+
 description: نموذج C++ رمز تحويل لمستند XLSB إلى تنسيق XLSX. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل XLSB إلى XLSX دفعة داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование TXT в HTML с помощью приложения C++ 
-url: /ru/cpp/conversion/txt-to-html/ 
+
 description: Пример кода преобразования C++ для документа TXT в формат HTML. Программисты могут использовать этот исходный код для пакетного преобразования TXT в HTML в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

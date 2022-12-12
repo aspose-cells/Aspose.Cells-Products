@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLTX إلى HTML عبر تطبيق C++ 
-url: /ar/cpp/conversion/xltx-to-html/ 
+
 description: نموذج C++ رمز التحويل لمستند XLTX إلى تنسيق HTML. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل XLTX إلى HTML دفعة داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

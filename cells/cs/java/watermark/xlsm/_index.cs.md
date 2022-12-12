@@ -1,7 +1,7 @@
-﻿---
+---
 title: Vodoznak XLSM dokument prostřednictvím Java 
 weight: 7680
-url: /cs/java/watermark/xlsm/ 
+
 description: Java ukázkový kód pro přidání nebo odstranění vodoznaku do souboru XLSM v Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

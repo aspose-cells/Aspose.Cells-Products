@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést ODS na JPG prostřednictvím Python
-url: /cs/python-java/conversion/ods-to-jpg/
+
 description: Ukázkový kód pro převod z ods na jpg Python. Použijte API ukázkový kód pro dávkový převod souborů ods na jpg v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

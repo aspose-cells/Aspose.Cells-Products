@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to TXT via C++
-url: /cpp/conversion/mhtml-to-txt/
+
 description: Convert MHTML to TXT format in C++ code. Save MHTML as TXT using C++.
 ---
 

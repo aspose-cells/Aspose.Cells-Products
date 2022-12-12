@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi TXT sang SVG qua ứng dụng C++ 
-url: /vi/cpp/conversion/txt-to-svg/ 
+
 description: Mã chuyển đổi C++ mẫu cho tài liệu TXT sang định dạng SVG. Người lập trình có thể sử dụng mã nguồn này để chuyển đổi hàng loạt TXT sang SVG trong bất kỳ Ứng dụng C++ nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

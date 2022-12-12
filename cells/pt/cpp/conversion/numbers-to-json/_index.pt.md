@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter NUMBERS para JSON por meio do aplicativo C++ 
-url: /pt/cpp/conversion/numbers-to-json/ 
+
 description: Exemplo de código de conversão C++ do documento NUMBERS para o formato JSON. Os programadores podem usar esse código-fonte para conversão de NUMBERS em lote para JSON em qualquer aplicativo C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

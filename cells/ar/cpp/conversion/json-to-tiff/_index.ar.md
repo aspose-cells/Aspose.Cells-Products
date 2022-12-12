@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل JSON إلى TIFF عبر تطبيق C++ 
-url: /ar/cpp/conversion/json-to-tiff/ 
+
 description: نموذج رمز تحويل C++ لمستند JSON إلى تنسيق TIFF. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل JSON المجمع إلى TIFF داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

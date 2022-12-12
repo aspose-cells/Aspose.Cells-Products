@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to EMF via Java 
-url: /java/conversion/csv-to-emf/
+
 description: Convert CSV to EMF format in Java code. Save CSV as EMF using Java.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή TABDELIMITED σε PDF μέσω Python
-url: /el/python-java/conversion/tabdelimited-to-pdf/
+
 description: Δείγμα κώδικα για μετατροπή οριοθετημένης καρτέλας σε pdf Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδική μετατροπή αρχείων οριοθετημένων στηλοθέτων σε pdf εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

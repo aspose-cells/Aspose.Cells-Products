@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to MHTML via C++
-url: /cpp/conversion/json-to-mhtml/
+
 description: Convert JSON to MHTML format in C++ code. Save JSON as MHTML using C++.
 ---
 

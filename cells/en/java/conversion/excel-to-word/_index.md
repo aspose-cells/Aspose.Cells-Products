@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to WORD via Java 
-url: /java/conversion/excel-to-word/
+
 description: Convert EXCEL to WORD format in Java code. Save EXCEL as WORD using Java.
 ---
 

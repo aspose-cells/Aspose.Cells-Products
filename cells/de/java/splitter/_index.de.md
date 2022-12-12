@@ -1,6 +1,6 @@
-﻿---
+---
 title: Excel-Tabelle in Arbeitsblätter in Java aufteilen
-url: /de/java/splitter/
+
 description: Java Quellcodes, die erklären, wie Microsoft Excel-Dateien mithilfe der Java Excel-Bibliothek in mehrere Dokumente aufgeteilt werden
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

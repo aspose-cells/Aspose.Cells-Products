@@ -1,7 +1,7 @@
-﻿---
+---
 title: "TSV-dokumentum keresése megnyitás nélkül a következőn keresztül: C++ "
 weight: 930
-url: /hu/cpp/search/tsv/ 
+
 description: C++ példakód a szavak mintájának keresésére a TSV-fájlban C++ Runtime Environment for Windows 32 bit, Windows 64 bit és Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

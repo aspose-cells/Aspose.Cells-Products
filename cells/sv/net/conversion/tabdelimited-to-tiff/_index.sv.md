@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera TABDELIMITED till TIFF via C#
-url: /sv/net/conversion/tabdelimited-to-tiff/
+
 description: Exempelkod för tabbavgränsad till tiff C#-omvandling. Använd API exempelkod för batch-tabbavgränsade filer till tiff-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

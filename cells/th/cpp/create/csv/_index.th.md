@@ -1,6 +1,6 @@
-﻿---
+---
 title: สร้างไฟล์ CSV ผ่าน C++ 
-url: /th/cpp/create-csv/ 
+
 description: C++ โค้ดตัวอย่างสำหรับสร้างไฟล์ CSV ใช้รหัสนี้เพื่อสร้างไฟล์ CSV ภายในแอปพลิเคชันที่ใช้ C++
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

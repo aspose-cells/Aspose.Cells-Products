@@ -1,6 +1,6 @@
-﻿---
+---
 title: Δημιουργία Αρχείων HTML μέσω Python 
-url: /el/python-java/create-html/ 
+
 description: Python Δείγμα κώδικα για τη δημιουργία εγγράφων HTML. Χρησιμοποιήστε αυτόν τον κώδικα για τη δημιουργία αρχείων HTML εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

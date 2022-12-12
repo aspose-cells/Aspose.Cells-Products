@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TSV na HTML pomocí Python
-url: /cs/python-java/conversion/tsv-to-html/
+
 description: Ukázkový kód pro převod tsv na html Python. Použijte API ukázkový kód pro dávkový převod souborů tsv na html v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

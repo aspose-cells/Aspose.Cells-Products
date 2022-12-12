@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή MHTML σε PNG μέσω Python
-url: /el/python-java/conversion/mhtml-to-png/
+
 description: Δείγμα κώδικα για μετατροπή Python mhtml σε png. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδική μετατροπή αρχείων mhtml σε png εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert XLSX to PDF via C++
-url: /cpp/conversion/xlsx-to-pdf/
+
 description: Convert XLSX to PDF format in C++ code. Save XLSX as PDF using C++.
 ---
 

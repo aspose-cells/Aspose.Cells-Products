@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie ODS in XLAM über C#
-url: /de/net/conversion/ods-to-xlam/
+
 description: Beispielcode für die Umwandlung von ods in xlam C#. Verwenden Sie API Beispielcode für die Konvertierung von Batch-ODS-Dateien in xlam in VB.NET, Asp.NET oder einer beliebigen .NET-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

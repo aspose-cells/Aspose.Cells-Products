@@ -1,6 +1,6 @@
 ---
 title: Convert XLTM to JSON via Python
-url: /python-java/conversion/xltm-to-json/
+
 description: Convert XLTM to JSON format in Python code. Save XLTM as JSON using Python.
 ---
 

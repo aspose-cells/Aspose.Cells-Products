@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง NUMBERS เป็น CSV ผ่าน C#
-url: /th/net/conversion/numbers-to-csv/
+
 description: โค้ดตัวอย่างสำหรับการแปลงตัวเลขเป็น csv C# ใช้รหัสตัวอย่าง API สำหรับไฟล์หมายเลขแบทช์เป็นการแปลง csv ภายใน VB.NET, Asp.NET หรือแอปพลิเคชันที่ใช้ .NET
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

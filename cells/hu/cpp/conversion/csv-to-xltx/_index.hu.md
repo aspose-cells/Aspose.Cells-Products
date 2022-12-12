@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertálja a CSV-t XLTX-re a(z) C++ alkalmazáson keresztül 
 weight: 5790
-url: /hu/cpp/conversion/csv-to-xltx/ 
+
 description: Minta C++ konverziós kód a CSV-dokumentumhoz XLTX formátumba. A programozók ezt a forráskódot használhatják kötegelt CSV-ből XLTX-be konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

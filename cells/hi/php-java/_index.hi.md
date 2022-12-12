@@ -1,7 +1,7 @@
-﻿---
+---
 title: एक्सेल स्प्रेडशीट PHP API - Aspose 
 weight: 3660
-url: /hi/php-java/ 
+
 description: PHP एक्सेल स्प्रेडशीट API XLS XLSX CSV TSV HTML ODS स्प्रेडशीटएमएल और सभी एक्सेल 97-2016 प्रारूपों को लिखने और बदलने के लिए। स्प्रेडशीट को कई प्रारूपों में निर्यात करें
 ---
 {{< blocks/products/pf/main-wrap-class >}}

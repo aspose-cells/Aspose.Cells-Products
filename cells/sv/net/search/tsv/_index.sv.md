@@ -1,7 +1,7 @@
-﻿---
+---
 title: Sök i TSV-dokument utan att öppna via .NET 
 weight: 2810
-url: /sv/net/search/tsv/ 
+
 description: C# källkod för att söka efter ord med mönster i TSV-fil på .NET Framework, .NET Core, Mono eller Xamarin-plattformar.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

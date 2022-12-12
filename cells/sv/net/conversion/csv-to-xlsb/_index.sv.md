@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera CSV till XLSB via C#
-url: /sv/net/conversion/csv-to-xlsb/
+
 description: Exempelkod för konvertering av csv till xlsb C#. Använd API exempelkod för batch-csv-filer till xlsb-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

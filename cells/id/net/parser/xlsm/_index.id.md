@@ -1,7 +1,7 @@
-﻿---
+---
 title: Ekstrak teks dan gambar dari dokumen XLSM melalui .NET 
 weight: 4010
-url: /id/net/parser/xlsm/ 
+
 description: C# kode sumber untuk mengekstrak teks dan gambar dari file XLSM di .NET Framework, .NET Core, Mono atau Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

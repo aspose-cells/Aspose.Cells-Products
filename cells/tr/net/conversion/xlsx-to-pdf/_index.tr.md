@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla XLSX'i PDF'ye dönüştürün
-url: /tr/net/conversion/xlsx-to-pdf/
+
 description: xlsx'ten pdf'ye C# dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu xlsx dosyalarını pdf'ye dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

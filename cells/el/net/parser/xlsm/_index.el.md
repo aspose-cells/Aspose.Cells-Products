@@ -1,7 +1,7 @@
-﻿---
+---
 title: Εξαγωγή κειμένου και εικόνων από έγγραφο XLSM μέσω .NET 
 weight: 4010
-url: /el/net/parser/xlsm/ 
+
 description: C# πηγαίος κώδικας για εξαγωγή κειμένου και εικόνων από αρχείο XLSM σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

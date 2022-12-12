@@ -1,7 +1,7 @@
-﻿---
+---
 title: Lihat atau Edit Metadata File ODS melalui .NET 
 weight: 320
-url: /id/net/metadata/ods/ 
+
 description: C# kode sumber untuk mengedit atau melihat metadata format ODS pada .NET Framework, .NET Core, Mono, atau Platform Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

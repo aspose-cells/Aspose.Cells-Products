@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera CSV till MARKDOWN via Python
-url: /sv/python-java/conversion/csv-to-markdown/
+
 description: Exempelkod för csv för att markera Python konvertering. Använd API exempelkod för batch-csv-filer för att markera nedkonvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

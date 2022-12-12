@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter MHTML para XPS via C#
-url: /pt/net/conversion/mhtml-to-xps/
+
 description: Código de exemplo para conversão de mhtml para xps C#. Use API código de exemplo para conversão de arquivos mhtml em lote para xps em VB.NET, Asp.NET ou qualquer aplicativo baseado em .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

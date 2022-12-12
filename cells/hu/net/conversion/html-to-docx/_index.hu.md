@@ -1,6 +1,6 @@
-﻿---
+---
 title: "HTML konvertálása DOCX-re a következőn keresztül: C#"
-url: /hu/net/conversion/html-to-docx/
+
 description: Mintakód a html-ből docx-be C# történő konverzióhoz. Használjon API példakódot kötegelt html fájlokhoz a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazás docx konvertálásához.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

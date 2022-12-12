@@ -1,7 +1,7 @@
-﻿---
+---
 title: جدول بيانات Android Excel API - Aspose 
 weight: 6510
-url: /ar/android-java/ 
+
 description: مكتبة جداول بيانات Android لإنشاء قراءة وكتابة وتحليل ملفات Excel. جدول بيانات API لتطوير تطبيقات الجوال
 ---
 {{< blocks/products/pf/main-wrap-class >}}

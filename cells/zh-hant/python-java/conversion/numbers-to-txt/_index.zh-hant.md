@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 Python 將 NUMBERS 轉換為 TXT
-url: /zh-hant/python-java/conversion/numbers-to-txt/
+
 description: 數字到 txt Python 轉換的示例代碼。使用 Python 應用程序中批號文件到 txt 轉換的 API 示例代碼。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

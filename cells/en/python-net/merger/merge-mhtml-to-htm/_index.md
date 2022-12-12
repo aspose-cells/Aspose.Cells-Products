@@ -1,6 +1,6 @@
 ---
 title: Merge MHTML to HTM Files via Python 
-url: /python-net/merger/merge-mhtml-to-htm/ 
+
 description: Merge MHTML to HTM file in Python code. Combine MHTML to HTM file using Python.
 ---
 

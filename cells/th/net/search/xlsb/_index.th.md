@@ -1,7 +1,7 @@
-﻿---
+---
 title: ค้นหาเอกสาร XLSB โดยไม่ต้องเปิดผ่าน .NET 
 weight: 8880
-url: /th/net/search/xlsb/ 
+
 description: C# ซอร์สโค้ดเพื่อค้นหาคำที่มีรูปแบบในไฟล์ XLSB บน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

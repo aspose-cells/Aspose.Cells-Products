@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل XLTM إلى Byte Array عبر C# 
 weight: 7690
-url: /ar/net/conversion/xltm-to-byte-array/ 
+
 description: C# نموذج كود لـ XLTM لتحويل صفيف البايت. استخدم هذا الرمز لتحويل Excel XLTM إلى تحويل صفيف البايت داخل VB .NET أو Asp .NET أو أي تطبيق يستند إلى .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

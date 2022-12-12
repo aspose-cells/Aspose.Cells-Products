@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to SVG via Java 
-url: /java/conversion/ods-to-svg/
+
 description: Convert ODS to SVG format in Java code. Save ODS as SVG using Java.
 ---
 

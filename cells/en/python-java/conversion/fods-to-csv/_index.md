@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to CSV via Python
-url: /python-java/conversion/fods-to-csv/
+
 description: Convert FODS to CSV format in Python code. Save FODS as CSV using Python.
 ---
 

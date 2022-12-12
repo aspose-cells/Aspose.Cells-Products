@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi CSV ke FODS melalui Python
-url: /id/python-java/conversion/csv-to-fods/
+
 description: Contoh kode untuk konversi csv ke fods Python. Gunakan API kode contoh untuk file csv batch ke konversi makanan dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

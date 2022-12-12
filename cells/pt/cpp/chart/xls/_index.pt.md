@@ -1,7 +1,7 @@
-﻿---
+---
 title: Gráfico de documento XLS via C++ 
 weight: 2500
-url: /pt/cpp/chart/xls/ 
+
 description: C++ código de exemplo para desenhar e converter gráfico ou diagrama em arquivo XLS no C++ ambiente de tempo de execução para Windows de 32 bits, Windows de 64 bits e Linux de 64 bits.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

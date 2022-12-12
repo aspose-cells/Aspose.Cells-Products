@@ -1,7 +1,7 @@
-﻿---
+---
 title: Поиск документа TSV без открытия через Java 
 weight: 4940
-url: /ru/java/search/tsv/ 
+
 description: Пример кода Java для поиска слов с шаблоном в файле TSV в Java среде выполнения для приложений JSP/JSF и настольных приложений.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

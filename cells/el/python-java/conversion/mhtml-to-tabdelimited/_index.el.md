@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή MHTML σε TABDELIMITED μέσω Python
-url: /el/python-java/conversion/mhtml-to-tabdelimited/
+
 description: Δείγμα κώδικα για μετατροπή mhtml σε οριοθετημένη καρτέλα Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία mhtml σε μετατροπή οριοθετημένης καρτέλας εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

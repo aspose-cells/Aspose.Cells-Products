@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή ODS σε XLTM μέσω Python
-url: /el/python-java/conversion/ods-to-xltm/
+
 description: Δείγμα κώδικα για μετατροπή ods σε xltm Python. Χρησιμοποιήστε API παράδειγμα κώδικα για μετατροπή ομαδικών αρχείων σε xltm εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

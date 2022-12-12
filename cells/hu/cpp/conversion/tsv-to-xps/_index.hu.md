@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertálja a TSV-t XPS-re a(z) C++ alkalmazáson keresztül 
 weight: 3960
-url: /hu/cpp/conversion/tsv-to-xps/ 
+
 description: Minta C++ konverziós kód a TSV-dokumentumhoz XPS formátumba. A programozók ezt a forráskódot használhatják kötegelt TSV-ből XPS-be konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

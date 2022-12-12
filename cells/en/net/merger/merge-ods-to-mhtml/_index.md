@@ -1,6 +1,6 @@
 ---
 title: Merge ODS to MHTML Files via C# 
-url: /net/merger/merge-ods-to-mhtml/ 
+
 description: Merge ODS to MHTML file in C# code. Combine ODS to MHTML file using VB.NET, Asp.NET or any .NET based application.
 ---
 

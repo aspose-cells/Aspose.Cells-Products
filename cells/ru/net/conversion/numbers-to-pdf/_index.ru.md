@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование NUMBERS в PDF через C#
-url: /ru/net/conversion/numbers-to-pdf/
+
 description: Пример кода для преобразования чисел в pdf C#. Используйте пример кода API для преобразования файлов с номерами пакетов в формат pdf в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

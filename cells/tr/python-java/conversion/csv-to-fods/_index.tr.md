@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla CSV'yi FODS'ye dönüştürün
-url: /tr/python-java/conversion/csv-to-fods/
+
 description: csv'den fos'a Python dönüştürme için örnek kod. Python uygulamasında toplu csv dosyalarından fods'a dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

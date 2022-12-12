@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to MD via C++
-url: /cpp/conversion/html-to-md/
+
 description: Convert HTML to MD format in C++ code. Save HTML as MD using C++.
 ---
 

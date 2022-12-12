@@ -1,6 +1,6 @@
 ---
 title: Merge MHTML to XLS Files via Python 
-url: /python-java/merger/merge-mhtml-to-xls/ 
+
 description: Merge MHTML to XLS file in Python code. Combine MHTML to XLS file using Python.
 ---
 

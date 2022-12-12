@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование TABDELIMITED в BMP с помощью приложения C++ 
-url: /ru/cpp/conversion/tabdelimited-to-bmp/ 
+
 description: Пример кода преобразования C++ для документа TABDELIMITED в формат BMP. Программисты могут использовать этот исходный код для пакетного преобразования TABDELIMITED в BMP в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

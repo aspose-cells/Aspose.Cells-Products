@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja a JSON-t CSV-vé a(z) C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/json-to-csv/ 
+
 description: Minta C++ konverziós kód a JSON-dokumentumhoz CSV formátumba. A programozók ezt a forráskódot használhatják a JSON-ból CSV-vé kötegelt konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

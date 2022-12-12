@@ -1,7 +1,7 @@
 ---
 title: Add Excel File XLSB Annotation via C++ 
 weight: 860
-url: /cpp/annotation/xlsb/ 
+
 description: C++ sample code to delete XLSB format annotations on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
 

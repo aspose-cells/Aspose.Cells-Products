@@ -1,6 +1,6 @@
 ---
 title: Create CSV Files via Java 
-url: /java/create-csv/ 
+
 description: Create CSV files in Java code. Generate CSV files using Java based desktop or web application.
 ---
 

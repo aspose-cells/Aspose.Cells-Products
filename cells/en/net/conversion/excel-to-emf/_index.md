@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to EMF via C#
-url: /net/conversion/excel-to-emf/
+
 description: Convert EXCEL to EMF format in C# code. Save EXCEL as EMF using VB.NET, Asp.NET or any .NET based application.
 ---
 

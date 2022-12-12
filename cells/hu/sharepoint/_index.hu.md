@@ -1,7 +1,7 @@
-﻿---
+---
 title: SharePoint Excel Spreadsheet Converter alkalmazás – Aspose 
 weight: 940
-url: /hu/sharepoint/ 
+
 description: A Aspose.Cells for SharePoint App egy SharePoint Excel-táblázat-konvertáló. Export XLS XLSX XML CSV PDF ODS &amp; HTML formátumok MOSS WSS-ben
 ---
 {{< blocks/products/pf/main-wrap-class >}}

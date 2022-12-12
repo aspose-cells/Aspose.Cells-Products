@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή FODS σε PNG μέσω C#
-url: /el/net/conversion/fods-to-png/
+
 description: Δείγμα κώδικα για μετατροπή fods σε png C#. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία fods σε μετατροπή png εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

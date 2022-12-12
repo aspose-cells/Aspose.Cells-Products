@@ -1,7 +1,7 @@
-﻿---
+---
 title: Generieren Sie Berichte in XLSM-Dateien über .NET 
 weight: 4400
-url: /de/net/assembly/xlsm/ 
+
 description: C#-Quellcode zum Generieren von Berichten im XLSM-Format auf .NET Framework-, .NET Core-, Mono- oder Xamarin-Plattformen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

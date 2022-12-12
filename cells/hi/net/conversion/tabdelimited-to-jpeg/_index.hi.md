@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# के माध्यम से TABDELIMITED को JPEG में बदलें
-url: /hi/net/conversion/tabdelimited-to-jpeg/
+
 description: जेपीईजी C# रूपांतरण के लिए सीमित टैब के लिए नमूना कोड। VB.NET, Asp.NET या किसी भी .NET आधारित एप्लिकेशन के भीतर jpeg रूपांतरण के लिए बैच टैबसीमांकित फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

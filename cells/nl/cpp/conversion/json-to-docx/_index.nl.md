@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer JSON naar DOCX via C++ applicatie 
-url: /nl/cpp/conversion/json-to-docx/ 
+
 description: Voorbeeld C++-conversiecode voor JSON-document naar DOCX-indeling. Programmeurs kunnen deze broncode gebruiken voor batch-conversie van JSON naar DOCX binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

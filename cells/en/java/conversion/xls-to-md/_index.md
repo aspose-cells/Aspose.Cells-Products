@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to MD via Java 
-url: /java/conversion/xls-to-md/
+
 description: Convert XLS to MD format in Java code. Save XLS as MD using Java.
 ---
 

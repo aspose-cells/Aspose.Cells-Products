@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converti XLS in SVG tramite l'applicazione C++ 
 weight: 2060
-url: /it/cpp/conversion/xls-to-svg/ 
+
 description: Esempio di codice di conversione C++ per un documento XLS in formato SVG. I programmatori possono utilizzare questo codice sorgente per la conversione batch da XLS a SVG all'interno di qualsiasi applicazione C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

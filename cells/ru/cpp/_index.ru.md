@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ Программирование электронных таблиц Excel API–Aspose 
 weight: 7140
-url: /ru/cpp/ 
+
 description: Библиотека C++ Excel для чтения, записи и анализа файлов, включая форматы XLS, XLSX, XLSM и XLSB. Преобразование электронных таблиц в PDF, CSV и другие форматы
 ---
 {{< blocks/products/pf/main-wrap-class >}}

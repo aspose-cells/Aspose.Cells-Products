@@ -1,6 +1,6 @@
-﻿---
+---
 title: "ODS konvertálása XLS-re a következőn keresztül: C#"
-url: /hu/net/conversion/ods-to-xls/
+
 description: Mintakód az ods–xls C# konverzióhoz. Használjon API példakódot a kötegelt ods fájlok xls formátumba konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

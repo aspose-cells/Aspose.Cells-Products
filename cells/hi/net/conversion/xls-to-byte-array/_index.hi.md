@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLS को C# के माध्यम से बाइट ऐरे में बदलें 
 weight: 7690
-url: /hi/net/conversion/xls-to-byte-array/ 
+
 description: C# XLS से बाइट सरणी रूपांतरण के लिए नमूना कोड। VB.NET, Asp.NET या किसी .NET आधारित एप्लिकेशन के भीतर Excel XLS से बाइट सरणी रूपांतरण के लिए इस कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

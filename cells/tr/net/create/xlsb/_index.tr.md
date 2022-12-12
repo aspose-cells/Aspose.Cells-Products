@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla MS Excel XLSB Dosyaları oluşturun 
-url: /tr/net/create-xlsb/ 
+
 description: C# XLSB belgeleri oluşturmak için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde MS Excel XLSB dosyaları oluşturmak için bu kodu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

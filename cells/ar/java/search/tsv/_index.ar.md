@@ -1,7 +1,7 @@
-﻿---
+---
 title: البحث في مستند TSV بدون الفتح عبر Java 
 weight: 4940
-url: /ar/java/search/tsv/ 
+
 description: Java نموذج كود للبحث عن الكلمات ذات النمط في ملف TSV في Java Runtime Environment لتطبيق JSP / JSF وتطبيقات سطح المكتب.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

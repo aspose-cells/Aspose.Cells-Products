@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通过 Java 从 XLSB 文档中提取文本和图像 
 weight: 440
-url: /zh/java/parser/xlsb/ 
+
 description: Java 示例代码，用于从 Java JSP/JSF 应用程序和桌面应用程序的运行时环境中的 XLSB 文件中提取文本和图像。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

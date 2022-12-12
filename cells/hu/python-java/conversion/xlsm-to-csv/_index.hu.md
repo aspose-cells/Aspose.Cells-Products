@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLSM konvertálása CSV-vé a következőn keresztül: Python"
-url: /hu/python-java/conversion/xlsm-to-csv/
+
 description: Mintakód az xlsm–csv Python konverzióhoz. Használjon API példakódot a kötegelt xlsm-fájlok csv-vé konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

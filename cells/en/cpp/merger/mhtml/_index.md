@@ -1,6 +1,6 @@
 ---
 title: Merge MHTML Files via C++ 
-url: /cpp/merger/mhtml/ 
+
 description: C++ example code to combine MHTML documents on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
 

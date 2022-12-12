@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to MHTML via C#
-url: /net/conversion/numbers-to-mhtml/
+
 description: Convert NUMBERS to MHTML format in C# code. Save NUMBERS as MHTML using VB.NET, Asp.NET or any .NET based application.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi FODS sang PNG qua C#
-url: /vi/net/conversion/fods-to-png/
+
 description: Mã mẫu cho chuyển đổi fods sang png C#. Sử dụng API mã mẫu cho các tệp fods hàng loạt thành chuyển đổi png trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

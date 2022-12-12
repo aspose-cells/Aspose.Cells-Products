@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer NUMMERS naar MARKDOWN via Python
-url: /nl/python-java/conversion/numbers-to-markdown/
+
 description: Voorbeeldcode voor getallen om Python conversie af te waarderen. Gebruik API voorbeeldcode voor batchnummerbestanden om conversie te verlagen binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

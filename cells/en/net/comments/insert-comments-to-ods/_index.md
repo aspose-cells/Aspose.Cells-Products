@@ -1,6 +1,6 @@
 ---
 title: Insert comments to Excel ODS file via .NET
-url: /net/comments/insert-comments-to-ods/ 
+
 description: Insert comments to ODS using C#. Use API example code to insert comments within .NET application.
 ---
 

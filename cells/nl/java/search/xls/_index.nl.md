@@ -1,7 +1,7 @@
-﻿---
+---
 title: Zoek XLS-document zonder te openen via Java 
 weight: 9430
-url: /nl/java/search/xls/ 
+
 description: Java voorbeeldcode om woorden met patroon te zoeken in XLS-bestand op Java Runtime-omgeving voor JSP/JSF-applicaties en desktopapplicaties.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

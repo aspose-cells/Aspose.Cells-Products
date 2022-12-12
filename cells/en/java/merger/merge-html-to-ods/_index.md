@@ -1,6 +1,6 @@
 ---
 title: Merge HTML to ODS Files via Java 
-url: /java/merger/merge-html-to-ods/ 
+
 description: Merge HTML to ODS file in Java code. Combine HTML to ODS file using Java based desktop or web application.
 ---
 

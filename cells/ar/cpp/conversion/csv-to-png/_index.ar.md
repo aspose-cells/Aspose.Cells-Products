@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل CSV إلى PNG عبر تطبيق C++ 
 weight: 920
-url: /ar/cpp/conversion/csv-to-png/ 
+
 description: نموذج لشفرة تحويل C++ لمستند CSV إلى تنسيق PNG. يمكن للمبرمجين استخدام رمز المصدر هذا لتحويل ملف CSV إلى PNG دفعة داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

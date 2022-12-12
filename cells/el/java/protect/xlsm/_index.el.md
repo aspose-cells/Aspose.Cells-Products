@@ -1,7 +1,7 @@
-﻿---
+---
 title: Προστασία και κλείδωμα εγγράφου XLSM μέσω Java 
 weight: 9620
-url: /el/java/protect/xlsm/ 
+
 description: Java δείγμα κώδικα για το κλείδωμα του αρχείου XLSM με χρήση κωδικού πρόσβασης στο Java Runtime Environment για JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

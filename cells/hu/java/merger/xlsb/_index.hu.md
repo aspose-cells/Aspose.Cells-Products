@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLSB fájlok egyesítése a következőn keresztül: Java "
 weight: 4840
-url: /hu/java/merger/xlsb/ 
+
 description: Java mintakód az XLSB dokumentumok kombinálásához a Java Runtime Environment for JSP/JSF Applications és asztali alkalmazásokhoz.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

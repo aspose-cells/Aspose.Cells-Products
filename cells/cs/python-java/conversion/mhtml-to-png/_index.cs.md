@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést MHTML na PNG přes Python
-url: /cs/python-java/conversion/mhtml-to-png/
+
 description: Ukázkový kód pro konverzi mhtml na png Python. Použijte API ukázkový kód pro dávkový převod souborů mhtml na png v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

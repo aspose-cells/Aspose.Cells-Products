@@ -1,7 +1,7 @@
-﻿---
+---
 title: Xem Định dạng Tệp CSV qua .NET 
 weight: 7690
-url: /vi/net/viewer/csv/ 
+
 description: C# mã nguồn để tải, hiển thị và hiển thị tài liệu CSV trên Nền tảng .NET Framework, .NET Core Mono hoặc Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

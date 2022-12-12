@@ -1,7 +1,7 @@
-﻿---
+---
 title: ODS belgesini Java aracılığıyla koruyun ve kilitleyin 
 weight: 6360
-url: /tr/java/protect/ods/ 
+
 description: JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Runtime Environment'da parola kullanarak ODS dosyasını kilitlemek için Java örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

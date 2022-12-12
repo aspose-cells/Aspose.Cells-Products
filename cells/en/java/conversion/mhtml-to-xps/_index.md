@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to XPS via Java 
-url: /java/conversion/mhtml-to-xps/
+
 description: Convert MHTML to XPS format in Java code. Save MHTML as XPS using Java.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#経由でTSVをXLTXに変換
-url: /ja/net/conversion/tsv-to-xltx/
+
 description: tsvからxltxC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチtsvファイルからxltxへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

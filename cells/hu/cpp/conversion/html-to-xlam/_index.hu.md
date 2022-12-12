@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja a HTML-t XLAM-re a(z) C++ alkalmazással 
-url: /hu/cpp/conversion/html-to-xlam/ 
+
 description: Minta C++ konverziós kód HTML-dokumentumhoz XLAM formátumba. A programozók ezt a forráskódot használhatják kötegelt HTML-ből XLAM-má konvertálásához bármely C++ alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

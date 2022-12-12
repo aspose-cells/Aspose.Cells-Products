@@ -1,7 +1,7 @@
-﻿---
+---
 title: Lås upp ODS-dokument via .NET 
 weight: 3110
-url: /sv/net/unlock/ods/ 
+
 description: C# källkod för att låsa upp lösenordsskyddad ODS-fil på .NET Framework, .NET Core, Mono eller Xamarin-plattformar.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

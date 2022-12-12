@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TABDELIMITED na GIF přes Python
-url: /cs/python-java/conversion/tabdelimited-to-gif/
+
 description: Ukázkový kód pro převod tabulátorů na gif Python. Použijte API ukázkový kód pro dávkový převod souborů oddělených tabulátory na gif v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

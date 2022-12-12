@@ -1,7 +1,7 @@
-﻿---
+---
 title: Przeszukaj dokument XLSM bez otwierania przez .NET 
 weight: 4880
-url: /pl/net/search/xlsm/ 
+
 description: C# kod źródłowy do wyszukiwania słów ze wzorcem w pliku XLSM na platformach .NET Framework, .NET Core, Mono lub Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to PDF via C#
-url: /net/conversion/json-to-pdf/
+
 description: Convert JSON to PDF format in C# code. Save JSON as PDF using VB.NET, Asp.NET or any .NET based application.
 ---
 

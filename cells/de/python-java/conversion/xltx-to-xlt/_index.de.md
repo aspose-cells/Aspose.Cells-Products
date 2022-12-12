@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie XLTX in XLT über Python
-url: /de/python-java/conversion/xltx-to-xlt/
+
 description: Beispielcode für die Umwandlung von xltx in xlt Python. Verwenden Sie API Beispielcode für die Batch-Konvertierung von xltx-Dateien in xlt innerhalb der Anwendung Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

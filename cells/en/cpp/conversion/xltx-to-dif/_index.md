@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to DIF via C++
-url: /cpp/conversion/xltx-to-dif/
+
 description: Convert XLTX to DIF format in C++ code. Save XLTX as DIF using C++.
 ---
 

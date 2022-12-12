@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte JSON na DIF pomocí aplikace C++ 
-url: /cs/cpp/conversion/json-to-dif/ 
+
 description: Ukázka převodního kódu C++ pro dokument JSON na formát DIF. Programátoři mohou tento zdrojový kód použít pro dávkový převod JSON na DIF v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

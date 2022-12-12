@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java aracılığıyla XLSM Dosyaları Meta Verilerini Düzenleyin veya Görüntüleyin 
 weight: 9030
-url: /tr/java/metadata/xlsm/ 
+
 description: JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Runtime Environment'da XLSM biçimi meta verilerini düzenlemek veya görüntülemek için Java örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

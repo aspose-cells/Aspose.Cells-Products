@@ -1,6 +1,6 @@
-﻿---
+---
 title: Vytvářejte bublinové 3D grafy prostřednictvím Python
-url: /cs/python-java/create-bubble3d-chart/
+
 description: Python Ukázkový kód pro vytváření bublinových 3D grafů do Excelu pomocí knihovny Python. Tento kód použijte k vytvoření grafu Bubble3D do MS Excel v aplikaci založené na Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

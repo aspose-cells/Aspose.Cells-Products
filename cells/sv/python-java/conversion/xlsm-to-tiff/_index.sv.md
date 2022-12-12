@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera XLSM till TIFF via Python
-url: /sv/python-java/conversion/xlsm-to-tiff/
+
 description: Exempelkod för konvertering från xlsm till tiff Python. Använd API exempelkod för batch-xlsm-filer för att tiff-konvertera i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

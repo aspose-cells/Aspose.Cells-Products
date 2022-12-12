@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java aracılığıyla XLSX belgesinin kilidini açın 
 weight: 310
-url: /tr/java/unlock/xlsx/ 
+
 description: JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Runtime Environment'da parola korumalı XLSX dosyasının kilidini açmak için Java örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

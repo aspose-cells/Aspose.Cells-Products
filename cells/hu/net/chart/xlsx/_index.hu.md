@@ -1,7 +1,7 @@
-﻿---
+---
 title: " XLSX dokumentumdiagram képekhez a következőn keresztül: .NET "
 weight: 2630
-url: /hu/net/chart/xlsx/ 
+
 description: C# forráskód diagramok vagy diagramok XLSX-fájlba való rajzolásához és konvertálásához .NET Framework, .NET Core, Mono vagy Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

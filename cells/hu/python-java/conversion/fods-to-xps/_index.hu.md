@@ -1,6 +1,6 @@
-﻿---
+---
 title: "FODS konvertálása XPS-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/fods-to-xps/
+
 description: Mintakód a fod-s xps Python konverzióhoz. Használjon API példakódot a fod fájlok kötegelt xps konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

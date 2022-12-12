@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLSM-document ontgrendelen via .NET 
 weight: 9810
-url: /nl/net/unlock/xlsm/ 
+
 description: C# broncode om met een wachtwoord beveiligd XLSM-bestand te ontgrendelen op .NET Framework, .NET Core, Mono of Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

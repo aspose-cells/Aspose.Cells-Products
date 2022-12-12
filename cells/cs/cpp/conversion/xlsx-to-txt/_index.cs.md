@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte XLSX na TXT pomocí aplikace C++ 
-url: /cs/cpp/conversion/xlsx-to-txt/ 
+
 description: Ukázka převodního kódu C++ pro dokument XLSX na formát TXT. Programátoři mohou použít tento zdrojový kód pro dávkový převod XLSX na TXT v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést XLT na PNG přes Java 
 weight: 5150
-url: /cs/java/conversion/xlt-to-png/ 
+
 description: Ukázkový konverzní kód Java pro formát XLT na soubor PNG. Programátoři mohou tento příklad kódu použít k exportu tabulek Excelu a OpenOffice do formátu PNG v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

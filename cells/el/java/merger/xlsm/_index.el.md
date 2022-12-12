@@ -1,7 +1,7 @@
-﻿---
+---
 title: Συγχώνευση αρχείων XLSM μέσω Java 
 weight: 1270
-url: /el/java/merger/xlsm/ 
+
 description: Java δείγμα κώδικα για συνδυασμό εγγράφων XLSM στο Java Runtime Environment για εφαρμογές JSP/JSF και εφαρμογές επιφάνειας εργασίας.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

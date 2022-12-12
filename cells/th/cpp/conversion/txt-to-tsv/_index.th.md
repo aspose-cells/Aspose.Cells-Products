@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง TXT เป็น TSV ผ่าน C++ แอปพลิเคชัน 
-url: /th/cpp/conversion/txt-to-tsv/ 
+
 description: ตัวอย่างรหัสการแปลง C++ สำหรับเอกสาร TXT เป็นรูปแบบ TSV โปรแกรมเมอร์สามารถใช้ซอร์สโค้ดนี้สำหรับการแปลงแบตช์ TXT เป็น TSV ภายในแอปพลิเคชัน C++ ใดก็ได้
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

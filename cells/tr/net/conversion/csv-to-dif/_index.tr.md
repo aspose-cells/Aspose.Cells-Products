@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla CSV'yi DIF'ye dönüştürün
-url: /tr/net/conversion/csv-to-dif/
+
 description: C# dönüşümü için csv için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde farklı dönüştürme için toplu csv dosyaları için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

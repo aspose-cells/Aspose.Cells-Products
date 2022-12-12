@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter FODS para PDF via Python
-url: /pt/python-java/conversion/fods-to-pdf/
+
 description: Código de exemplo para conversão de fods para pdf Python. Use o código de exemplo API para arquivos fods em lote para conversão de pdf no aplicativo Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TABDELIMITED na PNG přes Java 
-url: /cs/java/conversion/tabdelimited-to-png/ 
+
 description: Ukázkový konverzní kód Java pro soubor ve formátu TABDELIMITED na soubor PNG. Programátoři mohou tento příklad kódu použít k exportu tabulek Excelu a OpenOffice do formátu PNG v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

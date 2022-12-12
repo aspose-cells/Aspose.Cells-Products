@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง XLTX เป็น TABDELIMITED ผ่าน Python
-url: /th/python-java/conversion/xltx-to-tabdelimited/
+
 description: โค้ดตัวอย่างสำหรับการแปลง xltx เป็น tabdelimited Python ใช้โค้ดตัวอย่าง API สำหรับไฟล์แบตช์ xltx เป็นการแปลงที่คั่นด้วยแท็บภายในแอปพลิเคชัน Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

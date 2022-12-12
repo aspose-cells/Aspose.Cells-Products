@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta SPREADSHEETML a BMP a través de C#
-url: /es/net/conversion/spreadsheetml-to-bmp/
+
 description: Código de muestra para la conversión de hoja de cálculo a bmp C#. Utilice el código de ejemplo API para archivos de hoja de cálculo por lotes para la conversión bmp dentro de VB.NET, Asp.NET o cualquier aplicación basada en .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

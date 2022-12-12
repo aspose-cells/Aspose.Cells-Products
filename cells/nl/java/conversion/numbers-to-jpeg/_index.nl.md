@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer NUMMERS naar JPEG via Java 
-url: /nl/java/conversion/numbers-to-jpeg/ 
+
 description: Voorbeeld Java-conversiecode voor NUMBERS-indeling naar JPEG-bestand. Programmeurs kunnen deze voorbeeldcode gebruiken om Excel- en OpenOffice-spreadsheets naar JPEG te exporteren binnen elke web- of desktoptoepassing Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

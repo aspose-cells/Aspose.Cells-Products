@@ -1,6 +1,6 @@
-﻿---
+---
 title: TABDELIMITED'i Java aracılığıyla XLTM'ye dönüştürün 
-url: /tr/java/conversion/tabdelimited-to-xltm/ 
+
 description: TABDELIMITED biçimi için XLTM dosyasına örnek Java dönüştürme kodu. Programcılar, Excel ve OpenOffice elektronik tablolarını herhangi bir Web veya Masaüstü Java tabanlı Uygulamada XLTM'ye aktarmak için bu örnek kodu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

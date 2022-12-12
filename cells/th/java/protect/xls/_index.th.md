@@ -1,7 +1,7 @@
-﻿---
+---
 title: ป้องกันและล็อกเอกสาร XLS ผ่าน Java 
 weight: 5070
-url: /th/java/protect/xls/ 
+
 description: Java ตัวอย่างโค้ดสำหรับล็อกไฟล์ XLS โดยใช้รหัสผ่านบน Java Runtime Environment สำหรับแอปพลิเคชัน JSP/JSF และแอปพลิเคชันเดสก์ท็อป
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

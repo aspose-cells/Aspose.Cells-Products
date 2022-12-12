@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi EXCEL sang JSON qua Python
-url: /vi/python-java/conversion/excel-to-json/
+
 description: Mã mẫu cho chuyển đổi excel sang json Python. Sử dụng mã ví dụ API cho các tệp excel hàng loạt để chuyển đổi json trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

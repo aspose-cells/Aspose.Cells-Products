@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NETを介してXLTMファイルをマージ 
 weight: 9010
-url: /ja/net/merger/xltm/ 
+
 description: .NETフレームワーク、.NETコア、Mono、またはXamarinプラットフォームでXLTMドキュメントを組み合わせるためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

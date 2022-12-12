@@ -1,6 +1,6 @@
 ---
 title: Repair xlsb file via Java
-url: /java/recovery/repair-xlsb/ 
+
 description: Repair a corrupt xlsb file using Java. Recovery tool to repair corrupted xlsb file within Java application.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: .NETを介してMHTファイル形式を表示する 
-url: /ja/net/viewer/mht/ 
+
 description: .NETフレームワーク、.NETコア、Windows Azure、Mono、またはXamarinプラットフォームでMHTドキュメントをロード、レンダリング、表示するためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

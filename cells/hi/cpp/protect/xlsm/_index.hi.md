@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLSM दस्तावेज़ को C++ के माध्यम से सुरक्षित और लॉक करें 
 weight: 8770
-url: /hi/cpp/protect/xlsm/ 
+
 description: C++ पासवर्ड का उपयोग करके XLSM फ़ाइल को लॉक करने के लिए उदाहरण कोड C++ विंडोज 32 बिट, विंडोज 64 बिट और लिनक्स 64 बिट के लिए रनटाइम एनवायरनमेंट।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

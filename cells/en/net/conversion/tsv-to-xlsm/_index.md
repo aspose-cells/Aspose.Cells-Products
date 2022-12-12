@@ -1,6 +1,6 @@
 ---
 title: Convert TSV to XLSM via C#
-url: /net/conversion/tsv-to-xlsm/
+
 description: Convert TSV to XLSM format in C# code. Save TSV as XLSM using VB.NET, Asp.NET or any .NET based application.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to JSON via C#
-url: /net/conversion/spreadsheetml-to-json/
+
 description: Convert SPREADSHEETML to JSON format in C# code. Save SPREADSHEETML as JSON using VB.NET, Asp.NET or any .NET based application.
 ---
 

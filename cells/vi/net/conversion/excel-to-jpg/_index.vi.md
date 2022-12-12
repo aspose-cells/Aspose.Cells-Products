@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi EXCEL sang JPG qua C#
-url: /vi/net/conversion/excel-to-jpg/
+
 description: Mã mẫu để chuyển đổi excel sang jpg C#. Sử dụng API mã mẫu cho hàng loạt tệp excel sang chuyển đổi jpg trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

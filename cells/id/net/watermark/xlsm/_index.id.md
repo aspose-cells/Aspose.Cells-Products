@@ -1,7 +1,7 @@
-﻿---
+---
 title: Dokumen XLSM tanda air melalui .NET 
 weight: 8270
-url: /id/net/watermark/xlsm/ 
+
 description: C# kode sumber untuk menambah atau menghapus tanda air ke file XLSM di .NET Framework, .NET Core, Mono atau Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

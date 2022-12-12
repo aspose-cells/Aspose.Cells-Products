@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to MD via Python
-url: /python-java/conversion/xlt-to-md/
+
 description: Convert XLT to MD format in Python code. Save XLT as MD using Python.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してXLTMをSPREADSHEETMLに変換します 
-url: /ja/java/conversion/xltm-to-spreadsheetml/ 
+
 description: XLTM形式のサンプルJava変換コードからSPREADSHEETMLファイルへ。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のSPREADSHEETMLにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

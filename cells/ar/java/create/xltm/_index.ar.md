@@ -1,6 +1,6 @@
-﻿---
+---
 title: إنشاء ملفات MS Excel XLTM عبر Java 
-url: /ar/java/create-xltm/ 
+
 description: Java نموذج كود لإنشاء مستندات XLTM. استخدم هذا الرمز لإنشاء ملفات MS Excel XLTM داخل تطبيق ويب أو سطح مكتب يستند إلى Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

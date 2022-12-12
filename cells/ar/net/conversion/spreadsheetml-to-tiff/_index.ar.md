@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل SPREADSHEETML إلى TIFF عبر C#
-url: /ar/net/conversion/spreadsheetml-to-tiff/
+
 description: نموذج كود لجدول بيانات لتحويل C#. استخدم API مثال الكود لملفات جداول البيانات الدفعية لإجراء تحويل داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

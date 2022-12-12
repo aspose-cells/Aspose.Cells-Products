@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to XLAM via Java 
-url: /java/conversion/spreadsheetml-to-xlam/
+
 description: Convert SPREADSHEETML to XLAM format in Java code. Save SPREADSHEETML as XLAM using Java.
 ---
 

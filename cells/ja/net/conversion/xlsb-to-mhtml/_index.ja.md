@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してXLSBをMHTMLに変換します
-url: /ja/net/conversion/xlsb-to-mhtml/
+
 description: xlsbからmhtmlC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチxlsbファイルからmhtmlへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

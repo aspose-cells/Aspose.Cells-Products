@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie JSON in SVG über C#
-url: /de/net/conversion/json-to-svg/
+
 description: Beispielcode für die Umwandlung von json in svg C#. Verwenden Sie API Beispielcode für die Batch-Konvertierung von JSON-Dateien in SVG in VB.NET, Asp.NET oder einer beliebigen .NET-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

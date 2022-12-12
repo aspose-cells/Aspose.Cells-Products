@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してHTMLをMDに変換する
-url: /ja/net/conversion/html-to-md/
+
 description: htmlからmdC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチhtmlファイルからmdへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

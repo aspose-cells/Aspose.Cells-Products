@@ -1,6 +1,6 @@
-﻿---
+---
 title: Vytvářejte soubory MS Excel XLTX prostřednictvím C++ 
-url: /cs/cpp/create-xltx/ 
+
 description: C++ Ukázkový kód pro generování souborů MS Excel XLTX. Tento kód použijte k vytváření souborů MS Excel XLTX v aplikaci založené na C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

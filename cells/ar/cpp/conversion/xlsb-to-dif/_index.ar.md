@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل XLSB إلى DIF عبر تطبيق C++ 
 weight: 3280
-url: /ar/cpp/conversion/xlsb-to-dif/ 
+
 description: نموذج C++ رمز تحويل لمستند XLSB إلى تنسيق DIF. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل XLSB إلى DIF الدفعي داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

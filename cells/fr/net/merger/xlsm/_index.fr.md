@@ -1,7 +1,7 @@
-﻿---
+---
 title: Fusionner les fichiers XLSM via .NET 
 weight: 660
-url: /fr/net/merger/xlsm/ 
+
 description: Code source C# pour combiner des documents XLSM sur .NET Framework, .NET Core, Mono ou Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

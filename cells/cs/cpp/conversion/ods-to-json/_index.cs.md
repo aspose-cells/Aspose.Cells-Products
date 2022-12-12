@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte ODS na JSON pomocí aplikace C++ 
-url: /cs/cpp/conversion/ods-to-json/ 
+
 description: Ukázkový konverzní kód C++ pro dokument ODS na formát JSON. Programátoři mohou tento zdrojový kód použít pro dávkový převod ODS na JSON v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

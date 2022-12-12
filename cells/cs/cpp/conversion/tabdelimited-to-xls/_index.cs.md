@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte TABDELIMITED na XLS pomocí aplikace C++ 
-url: /cs/cpp/conversion/tabdelimited-to-xls/ 
+
 description: Ukázkový konverzní kód C++ pro dokument TABDELIMITED na formát XLS. Programátoři mohou použít tento zdrojový kód pro dávkový převod TABDELIMITED na XLS v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

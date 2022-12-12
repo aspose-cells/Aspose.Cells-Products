@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést SXC na XML prostřednictvím C#
-url: /cs/net/conversion/sxc-to-xml/
+
 description: Ukázkový kód pro převod sxc na xml C#. Použijte API ukázkový kód pro dávkový převod souborů sxc na xml v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

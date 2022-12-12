@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET経由のウォーターマークXLSMドキュメント 
 weight: 8270
-url: /ja/net/watermark/xlsm/ 
+
 description: .NETフレームワーク、.NETコア、Mono、またはXamarinプラットフォーム上のXLSMファイルに透かしを追加または削除するためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

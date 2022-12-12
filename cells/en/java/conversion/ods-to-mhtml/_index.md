@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to MHTML via Java 
-url: /java/conversion/ods-to-mhtml/
+
 description: Convert ODS to MHTML format in Java code. Save ODS as MHTML using Java.
 ---
 

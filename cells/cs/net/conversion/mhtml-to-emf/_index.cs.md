@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést MHTML na EMF prostřednictvím C#
-url: /cs/net/conversion/mhtml-to-emf/
+
 description: Ukázkový kód pro konverzi mhtml na emf C#. Použijte API ukázkový kód pro dávkové soubory mhtml na převod EMF v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

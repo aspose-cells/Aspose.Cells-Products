@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to FODS via Python
-url: /python-java/conversion/csv-to-fods/
+
 description: Convert CSV to FODS format in Python code. Save CSV as FODS using Python.
 ---
 

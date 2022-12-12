@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi XLS sang BMP qua Python
-url: /vi/python-java/conversion/xls-to-bmp/
+
 description: Mã mẫu cho chuyển đổi xls sang bmp Python. Sử dụng mã mẫu API cho các tệp xls hàng loạt để chuyển đổi bmp trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

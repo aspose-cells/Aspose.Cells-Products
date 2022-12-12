@@ -1,6 +1,6 @@
-﻿---
+---
 title: NUMBERS'ı Python aracılığıyla TIFF'e dönüştürün
-url: /tr/python-java/conversion/numbers-to-tiff/
+
 description: Python dönüşümünü tiff yapmak için sayılar için örnek kod. Python uygulaması içinde dönüştürme işlemi yapmak için toplu iş numarası dosyaları için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

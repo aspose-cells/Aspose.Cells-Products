@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converti EXCEL in CSV tramite C#
-url: /it/net/conversion/excel-to-csv/
+
 description: Codice di esempio per la conversione da excel a csv C#. Utilizza API codice di esempio per la conversione in batch di file excel in csv all'interno di VB.NET, Asp.NET o qualsiasi applicazione basata su .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή NUMBERS σε XLSB μέσω Python
-url: /el/python-java/conversion/numbers-to-xlsb/
+
 description: Δείγμα κώδικα για μετατροπή αριθμών σε xlsb Python. Χρησιμοποιήστε API παράδειγμα κώδικα για αρχεία αριθμών παρτίδας σε μετατροπή xlsb εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

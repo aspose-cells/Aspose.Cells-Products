@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie ODS in MARKDOWN über C#
-url: /de/net/conversion/ods-to-markdown/
+
 description: Beispielcode für Odds-to-Markdown-C#-Conversion. Verwenden Sie API Beispielcode für Batch-ODS-Dateien zur Markdown-Konvertierung in VB.NET, Asp.NET oder einer beliebigen .NET-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

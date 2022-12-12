@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést HTML na XLTX prostřednictvím Python
-url: /cs/python-java/conversion/html-to-xltx/
+
 description: Ukázkový kód pro převod html na xltx Python. Použijte ukázkový kód API pro dávkový převod souborů html na xltx v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

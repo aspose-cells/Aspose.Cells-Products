@@ -1,7 +1,7 @@
-﻿---
+---
 title: Przeszukaj dokument TXT bez otwierania przez Java 
 weight: 1200
-url: /pl/java/search/txt/ 
+
 description: Java przykładowy kod do wyszukiwania słów ze wzorcem w pliku TXT w Java środowisku wykonawczym dla aplikacji JSP/JSF i aplikacji komputerowych.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

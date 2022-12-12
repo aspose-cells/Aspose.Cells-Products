@@ -1,6 +1,6 @@
 ---
 title: Create HTML Files via Python 
-url: /python-net/create-html/ 
+
 description: Python Sample code for generating HTML documents. Use this code for creating HTML files within Python application.
 ---
 

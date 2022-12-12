@@ -1,7 +1,7 @@
-﻿---
+---
 title: 在不通过 .NET 打开的情况下搜索 XLSB 文档 
 weight: 8880
-url: /zh/net/search/xlsb/ 
+
 description: C# 源代码，用于在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上搜索具有模式的 XLSB 文件中的单词。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

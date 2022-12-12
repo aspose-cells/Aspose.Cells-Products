@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLSM na FODS přes Python
-url: /cs/python-java/conversion/xlsm-to-fods/
+
 description: Ukázkový kód pro převod xlsm na fods Python. Použijte API ukázkový kód pro dávkovou konverzi xlsm souborů na fods v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversi JSON ke XPS melalui Java 
 weight: 7860
-url: /id/java/conversion/json-to-xps/ 
+
 description: Contoh Java kode konversi untuk format JSON ke file XPS. Pemrogram dapat menggunakan kode contoh ini untuk mengekspor spreadsheet Excel & OpenOffice ke XPS dalam Aplikasi berbasis Web atau Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

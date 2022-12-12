@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converter TSV para JPEG via Java 
 weight: 900
-url: /pt/java/conversion/tsv-to-jpeg/ 
+
 description: Exemplo de código de conversão Java para formato TSV para arquivo JPEG. Os programadores podem usar este código de exemplo para exportar planilhas do Excel e OpenOffice para JPEG em qualquer aplicativo baseado na Web ou Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

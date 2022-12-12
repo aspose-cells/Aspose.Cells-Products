@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してMHTMLをXLSBに変換します 
 weight: 5390
-url: /ja/java/conversion/mhtml-to-xlsb/ 
+
 description: MHTML形式からXLSBファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のXLSBにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

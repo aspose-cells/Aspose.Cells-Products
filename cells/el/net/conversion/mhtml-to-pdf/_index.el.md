@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή MHTML σε PDF μέσω C#
-url: /el/net/conversion/mhtml-to-pdf/
+
 description: Δείγμα κώδικα για μετατροπή mhtml σε pdf C#. Χρησιμοποιήστε API παράδειγμα κώδικα για μαζική μετατροπή αρχείων mhtml σε pdf εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "ODS konvertálása TSV-vé a következőn keresztül: Python"
-url: /hu/python-java/conversion/ods-to-tsv/
+
 description: Mintakód az ods–tsv Python konverzióhoz. Használjon API példakódot a kötegelt ods fájlok tsv konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

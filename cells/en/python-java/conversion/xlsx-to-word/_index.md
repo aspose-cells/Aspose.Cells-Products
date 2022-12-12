@@ -1,6 +1,6 @@
 ---
 title: Convert XLSX to WORD via Python
-url: /python-java/conversion/xlsx-to-word/
+
 description: Convert XLSX to WORD format in Python code. Save XLSX as WORD using Python.
 ---
 

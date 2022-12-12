@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az ODS-t JPG-vé a C++ alkalmazással 
-url: /hu/cpp/conversion/ods-to-jpg/ 
+
 description: Minta C++ konverziós kód az ODS-dokumentumhoz JPG formátumba. A programozók ezt a forráskódot használhatják az ODS-ből JPG-be való kötegelt konvertáláshoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

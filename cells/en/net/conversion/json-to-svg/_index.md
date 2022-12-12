@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to SVG via C#
-url: /net/conversion/json-to-svg/
+
 description: Convert JSON to SVG format in C# code. Save JSON as SVG using VB.NET, Asp.NET or any .NET based application.
 ---
 

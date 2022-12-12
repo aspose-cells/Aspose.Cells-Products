@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést CSV na DOCX prostřednictvím Python
-url: /cs/python-java/conversion/csv-to-docx/
+
 description: Ukázkový kód pro převod csv na docx Python. Použijte API ukázkový kód pro dávkový převod souborů csv na docx v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

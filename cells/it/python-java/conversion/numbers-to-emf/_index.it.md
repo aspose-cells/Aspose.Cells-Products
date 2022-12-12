@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converti NUMBERS in EMF tramite Python
-url: /it/python-java/conversion/numbers-to-emf/
+
 description: Codice di esempio per la conversione da numeri a emf Python. Usa il codice di esempio API per i file dei numeri di lotto nella conversione emf all'interno dell'applicazione Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

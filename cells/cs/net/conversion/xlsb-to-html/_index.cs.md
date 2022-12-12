@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLSB na HTML pomocí C#
-url: /cs/net/conversion/xlsb-to-html/
+
 description: Ukázkový kód pro převod xlsb na html C#. Použijte API ukázkový kód pro dávkový převod souborů xlsb na html v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

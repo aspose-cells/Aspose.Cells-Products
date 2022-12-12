@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#によるMicrosoftExcelファイル変換 
-url: /ja/net/conversion/
+
 description: Excel XLS、XLSX、ODS、CSVをPDF、XPS、HTML、JPEG、HTML、およびその他の多くの一般的な形式に、わずか数行のC#コードで変換します。
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

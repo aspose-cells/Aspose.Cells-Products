@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer TXT naar PNG via C#
-url: /nl/net/conversion/txt-to-png/
+
 description: Voorbeeldcode voor conversie van txt naar png C#. Gebruik API voorbeeldcode voor batch-txt-bestanden naar png-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

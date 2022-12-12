@@ -1,7 +1,7 @@
-﻿---
+---
 title: Gráfico de documentos XLS a través de Java 
 weight: 1050
-url: /es/java/chart/xls/ 
+
 description: Java código de ejemplo para dibujar y convertir gráficos o diagramas en un archivo XLS en Java entorno de tiempo de ejecución para aplicaciones JSP/JSF y aplicaciones de escritorio.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

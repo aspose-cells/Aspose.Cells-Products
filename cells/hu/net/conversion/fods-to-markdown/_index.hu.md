@@ -1,6 +1,6 @@
-﻿---
+---
 title: "FODS konvertálása MARKDOWN-re a következőn keresztül: C#"
-url: /hu/net/conversion/fods-to-markdown/
+
 description: Mintakód a fod-hoz a C# konverzió leértékeléséhez. Használjon API példakódot kötegelt fod-fájlokhoz a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazás konverziójának leértékeléséhez.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

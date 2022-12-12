@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to XML via C#
-url: /net/conversion/xls-to-xml/
+
 description: Convert XLS to XML format in C# code. Save XLS as XML using VB.NET, Asp.NET or any .NET based application.
 ---
 

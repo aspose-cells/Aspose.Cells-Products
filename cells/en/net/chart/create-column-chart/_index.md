@@ -1,6 +1,6 @@
 ---
 title: Create Column Charts via C#
-url: /net/create-column-chart/
+
 description: C# Sample code for creating Column charts to Excel using .NET Library. Use this code for creating a Column chart to MS Excel within VB.NET, Asp.NET or any .NET based application.
 
 ---

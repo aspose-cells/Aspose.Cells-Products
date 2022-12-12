@@ -1,6 +1,6 @@
-﻿---
+---
 title: Tạo Tệp PDF qua C++ 
-url: /vi/cpp/create-pdf/ 
+
 description: C++ Mã mẫu để tạo tệp PDF. Sử dụng mã này để tạo tệp PDF trong ứng dụng dựa trên C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

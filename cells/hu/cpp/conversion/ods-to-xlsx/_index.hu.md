@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertálja az ODS-t XLSX-re a(z) C++ alkalmazáson keresztül 
 weight: 9720
-url: /hu/cpp/conversion/ods-to-xlsx/ 
+
 description: Minta C++ konverziós kód az ODS-dokumentumhoz XLSX formátumba. A programozók ezt a forráskódot használhatják az ODS-ből XLSX-be történő kötegelt konvertáláshoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

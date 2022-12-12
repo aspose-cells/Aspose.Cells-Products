@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TXT konvertálása XLT-vé a következőn keresztül: C#"
-url: /hu/net/conversion/txt-to-xlt/
+
 description: Mintakód a txt-ből xlt-be való C# konverzióhoz. Használjon API példakódot a kötegelt txt fájlok xlt konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

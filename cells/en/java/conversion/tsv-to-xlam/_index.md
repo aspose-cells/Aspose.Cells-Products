@@ -1,6 +1,6 @@
 ---
 title: Convert TSV to XLAM via Java 
-url: /java/conversion/tsv-to-xlam/
+
 description: Convert TSV to XLAM format in Java code. Save TSV as XLAM using Java.
 ---
 

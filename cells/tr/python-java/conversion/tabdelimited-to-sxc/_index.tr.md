@@ -1,6 +1,6 @@
-﻿---
+---
 title: TABDELIMITED'i Python aracılığıyla SXC'ye dönüştürün
-url: /tr/python-java/conversion/tabdelimited-to-sxc/
+
 description: Sekmeyle sınırlandırılmış sxc Python dönüşümü için örnek kod. Python uygulamasında toplu sekmeyle ayrılmış dosyalardan sxc'ye dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Slå samman XLTM-filer via .NET 
 weight: 9010
-url: /sv/net/merger/xltm/ 
+
 description: C# källkod för att kombinera XLTM-dokument på .NET Framework, .NET Core, Mono eller Xamarin-plattformar.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

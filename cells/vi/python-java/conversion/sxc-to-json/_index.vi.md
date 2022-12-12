@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi SXC sang JSON qua Python
-url: /vi/python-java/conversion/sxc-to-json/
+
 description: Mã mẫu cho chuyển đổi sxc sang json Python. Sử dụng mã mẫu API cho hàng loạt tệp sxc để chuyển đổi json trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

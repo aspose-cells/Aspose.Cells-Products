@@ -1,6 +1,6 @@
-﻿---
+---
 title: Java üzerinden ODS (Openoffice / Lbreoffice) Dosyaları oluşturun 
-url: /tr/java/create-ods/ 
+
 description: Java ODS belgeleri oluşturmak için örnek kod. Java tabanlı masaüstü veya web uygulamasında ODS (Openoffice / Lbreoffice) dosyaları oluşturmak için bu kodu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

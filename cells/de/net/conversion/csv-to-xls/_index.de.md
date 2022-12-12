@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie CSV in XLS über C#
-url: /de/net/conversion/csv-to-xls/
+
 description: Beispielcode für die Umwandlung von csv in xls C#. Verwenden Sie API Beispielcode für die Batch-Konvertierung von CSV-Dateien in XLS in VB.NET, Asp.NET oder einer beliebigen .NET-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

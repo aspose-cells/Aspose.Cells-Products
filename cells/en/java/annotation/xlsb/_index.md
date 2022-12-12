@@ -1,7 +1,7 @@
 ---
 title: Remove XLSB Annotation via Java 
 weight: 860
-url: /java/annotation/xlsb/ 
+
 description: Java sample code to delete XLSB format annotations on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

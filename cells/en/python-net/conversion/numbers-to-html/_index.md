@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to HTML via Python
-url: /python-net/conversion/numbers-to-html/
+
 description: Sample code for numbers to html Python conversion. Use API example code for batch numbers files to html conversion within Python application.
 ---
 

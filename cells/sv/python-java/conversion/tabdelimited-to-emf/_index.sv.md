@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera TABDELIMITED till EMF via Python
-url: /sv/python-java/conversion/tabdelimited-to-emf/
+
 description: Exempelkod för tabbavgränsad till emf Python-omvandling. Använd API exempelkod för batch-tabbavgränsade filer för att emf-konvertera i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

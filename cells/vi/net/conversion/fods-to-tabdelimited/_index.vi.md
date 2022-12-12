@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi FODS thành TABDELIMITED qua C#
-url: /vi/net/conversion/fods-to-tabdelimited/
+
 description: Mã mẫu cho các fods để chuyển đổi C# tabdelimited. Sử dụng API mã ví dụ cho các tệp fods hàng loạt để chuyển đổi theo tab trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

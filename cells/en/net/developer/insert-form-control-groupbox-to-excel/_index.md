@@ -1,7 +1,7 @@
 ---
 title: Insert GroupBox(Form control) into Excel via .NET 
 weight: 40
-url: /net/developer/insert-form-control-groupbox-to-excel/ 
+
 description: C# source code to insert GroupBox(Form control) into Excel on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

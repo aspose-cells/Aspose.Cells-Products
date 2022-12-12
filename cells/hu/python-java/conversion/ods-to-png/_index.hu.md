@@ -1,6 +1,6 @@
-﻿---
+---
 title: "ODS konvertálása PNG-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/ods-to-png/
+
 description: Mintakód az ods to png Python konverzióhoz. Használjon API példakódot kötegelt ods fájlok png konverziójához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

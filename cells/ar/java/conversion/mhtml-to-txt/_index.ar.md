@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل MHTML إلى TXT عبر Java 
 weight: 1440
-url: /ar/java/conversion/mhtml-to-txt/ 
+
 description: نموذج لشفرة تحويل Java لتنسيق MHTML إلى ملف TXT. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى TXT داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

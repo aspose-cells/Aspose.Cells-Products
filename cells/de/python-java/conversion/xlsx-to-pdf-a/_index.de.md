@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie XLSX in PDF über Python
-url: /de/python-java/conversion/xlsx-to-pdf/
+
 description: Beispielcode für die Umwandlung von xlsx in pdf Python. Verwenden Sie API Beispielcode für die Batch-Konvertierung von xlsx-Dateien in PDF innerhalb der Anwendung Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

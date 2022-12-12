@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte XLTM na TIFF pomocí aplikace C++ 
-url: /cs/cpp/conversion/xltm-to-tiff/ 
+
 description: Ukázka převodního kódu C++ pro dokument XLTM na formát TIFF. Programátoři mohou použít tento zdrojový kód pro dávkovou konverzi XLTM na TIFF v jakékoli C++ aplikaci.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

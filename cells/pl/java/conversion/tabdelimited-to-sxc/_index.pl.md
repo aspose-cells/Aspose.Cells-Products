@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj TABDELIMITED na SXC przez Java 
-url: /pl/java/conversion/tabdelimited-to-sxc/ 
+
 description: Przykładowy kod konwersji Java dla formatu TABDELIMITED do pliku SXC. Programiści mogą użyć tego przykładowego kodu do eksportowania arkuszy kalkulacyjnych Excel i OpenOffice do SXC w dowolnej aplikacji internetowej lub desktopowej Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

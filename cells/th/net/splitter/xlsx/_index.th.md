@@ -1,7 +1,7 @@
-﻿---
+---
 title: แยกไฟล์ XLSX ผ่าน .NET 
 weight: 1350
-url: /th/net/splitter/xlsx/ 
+
 description: C# ซอร์สโค้ดเพื่อแยกเอกสาร XLSX บน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert XLSM to PDF via Python
-url: /python-java/conversion/xlsm-to-pdf/
+
 description: Convert XLSM to PDF format in Python code. Save XLSM as PDF using Python.
 ---
 

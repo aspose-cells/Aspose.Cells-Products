@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převeďte CSV na EMF pomocí aplikace C++ 
 weight: 6560
-url: /cs/cpp/conversion/csv-to-emf/ 
+
 description: Ukázka převodního kódu C++ pro dokument CSV na formát EMF. Programátoři mohou použít tento zdrojový kód pro dávkový převod CSV na EMF v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLSB Dosyalarını .NET ile Böl 
 weight: 7370
-url: /tr/net/splitter/xlsb/ 
+
 description: .NET Framework, .NET Core, Mono veya Xamarin Platformlarında XLSB belgelerini bölmek için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

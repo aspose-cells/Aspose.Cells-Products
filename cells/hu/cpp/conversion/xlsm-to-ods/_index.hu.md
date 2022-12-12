@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLSM-et ODS-re a(z) C++ alkalmazással 
-url: /hu/cpp/conversion/xlsm-to-ods/ 
+
 description: Minta C++ konverziós kód az XLSM dokumentumhoz ODS formátumba. A programozók ezt a forráskódot használhatják az XLSM-ből ODS-be történő kötegelt konvertáláshoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

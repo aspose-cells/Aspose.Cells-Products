@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte XLTX na MHTML pomocí aplikace C++ 
-url: /cs/cpp/conversion/xltx-to-mhtml/ 
+
 description: Ukázka převodního kódu C++ pro dokument XLTX do formátu MHTML. Programátoři mohou použít tento zdrojový kód pro dávkovou konverzi XLTX na MHTML v jakékoli C++ aplikaci.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

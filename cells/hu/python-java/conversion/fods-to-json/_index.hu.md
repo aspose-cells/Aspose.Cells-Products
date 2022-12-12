@@ -1,6 +1,6 @@
-﻿---
+---
 title: "FODS konvertálása JSON-ra a következőn keresztül: Python"
-url: /hu/python-java/conversion/fods-to-json/
+
 description: Mintakód a fods to json Python konverziójához. Használjon API példakódot a kötegelt fods-fájlok JSON-konverziójához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

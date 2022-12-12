@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to XPS via Python
-url: /python-java/conversion/spreadsheetml-to-xps/
+
 description: Convert SPREADSHEETML to XPS format in Python code. Save SPREADSHEETML as XPS using Python.
 ---
 

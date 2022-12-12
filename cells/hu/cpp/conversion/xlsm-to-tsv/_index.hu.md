@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLSM-et TSV-vé a C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/xlsm-to-tsv/ 
+
 description: Minta C++ konverziós kód az XLSM dokumentumhoz TSV formátumba. A programozók ezt a forráskódot használhatják kötegelt XLSM-ből TSV-vé konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

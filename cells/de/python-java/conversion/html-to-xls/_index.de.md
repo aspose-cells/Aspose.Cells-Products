@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie HTML in XLS über Python
-url: /de/python-java/conversion/html-to-xls/
+
 description: Beispielcode für die Umwandlung von html in xls Python. Verwenden Sie den API Beispielcode für die Batch-Konvertierung von HTML-Dateien in xls innerhalb der Anwendung Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

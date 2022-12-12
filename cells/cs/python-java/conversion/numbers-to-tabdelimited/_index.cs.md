@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést NUMBERS na TABDELIMITED přes Python
-url: /cs/python-java/conversion/numbers-to-tabdelimited/
+
 description: Ukázkový kód pro převod čísel na hodnotu oddělenou tabulátory Python. Použijte API ukázkový kód pro dávkové soubory s čísly na převod oddělený tabulátory v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

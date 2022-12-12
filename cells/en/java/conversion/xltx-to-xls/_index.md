@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to XLS via Java 
-url: /java/conversion/xltx-to-xls/
+
 description: Convert XLTX to XLS format in Java code. Save XLTX as XLS using Java.
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Generera rapporter i XLSB-filer via Java 
 weight: 3560
-url: /sv/java/assembly/xlsb/ 
+
 description: Java exempelkod för att skapa XLSB-formatrapporter på Java Runtime Environment för JSP/JSF Application och Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

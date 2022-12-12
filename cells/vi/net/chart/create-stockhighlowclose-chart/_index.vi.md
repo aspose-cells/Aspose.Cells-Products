@@ -1,6 +1,6 @@
-﻿---
+---
 title: Tạo Biểu đồ Cổ phiếu Đóng Cao-Thấp qua C#
-url: /vi/net/create-stockhighlowclose-chart/
+
 description: C# Mã mẫu để tạo biểu đồ Cổ phiếu Đóng Cao-Thấp cho Excel bằng cách sử dụng Thư viện .NET. Sử dụng mã này để tạo biểu đồ Cổ phiếu Cao-Thấp cho MS Excel trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

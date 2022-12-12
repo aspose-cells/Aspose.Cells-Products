@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل TXT إلى PNG عبر Java 
 weight: 7580
-url: /ar/java/conversion/txt-to-png/ 
+
 description: نموذج Java رمز التحويل لتنسيق TXT إلى ملف PNG. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel و OpenOffice إلى PNG داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

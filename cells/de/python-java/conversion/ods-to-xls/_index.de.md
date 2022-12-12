@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie ODS in XLS über Python
-url: /de/python-java/conversion/ods-to-xls/
+
 description: Beispielcode für die Umwandlung von ods in xls Python. Verwenden Sie API Beispielcode für die Batch-Konvertierung von ODS-Dateien in XLS innerhalb der Anwendung Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

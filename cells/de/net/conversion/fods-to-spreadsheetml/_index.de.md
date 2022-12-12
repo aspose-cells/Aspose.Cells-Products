@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie FODS über C# in SPREADSHEETML
-url: /de/net/conversion/fods-to-spreadsheetml/
+
 description: Beispielcode für die Umwandlung von fods in Spreadsheetml C#. Verwenden Sie API Beispielcode für die Batch-Konvertierung von FOD-Dateien in SpreadsheetML in VB.NET, Asp.NET oder einer beliebigen .NET-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

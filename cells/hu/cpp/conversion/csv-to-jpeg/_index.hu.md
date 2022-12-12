@@ -1,7 +1,7 @@
-﻿---
+---
 title: A CSV konvertálása JPEG formátumba a C++ alkalmazással 
 weight: 1280
-url: /hu/cpp/conversion/csv-to-jpeg/ 
+
 description: Minta C++ konverziós kód a CSV-dokumentumhoz JPEG formátumba. A programozók ezt a forráskódot használhatják kötegelt CSV-ből JPEG-be konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

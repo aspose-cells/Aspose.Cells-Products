@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést SPREADSHEETML na CSV prostřednictvím Python
-url: /cs/python-java/conversion/spreadsheetml-to-csv/
+
 description: Ukázkový kód pro převod tabulky ml na csv Python. Použijte API ukázkový kód pro dávkový převod tabulkových souborů ml na csv v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java経由でCSVをDIFに変換 
 weight: 8250
-url: /ja/java/conversion/csv-to-dif/ 
+
 description: CSV形式のDIFファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のDIFにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

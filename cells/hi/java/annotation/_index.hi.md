@@ -1,6 +1,6 @@
-﻿---
+---
 title: Java के माध्यम से एक्सेल फ़ाइल एनोटेशन
-url: /hi/java/annotation/
+
 description: Java लाइब्रेरी के साथ Excel और OpenOffice स्प्रैडशीट का डेटा एनोटेशन जोड़ें या निकालें.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

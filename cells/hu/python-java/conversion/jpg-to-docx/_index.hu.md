@@ -1,6 +1,6 @@
-﻿---
+---
 title: "JPG konvertálása DOCX-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/jpg-to-docx/
+
 description: Mintakód a jpg-ből docx-ba Python konvertálásához. Használjon API példakódot kötegelt jpg fájlok docx konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TSV-fájlok létrehozása a következőn keresztül: C++ "
-url: /hu/cpp/create-tsv/ 
+
 description: C++ Mintakód a TSV-fájlok generálásához. Használja ezt a kódot TSV-fájlok létrehozásához a C++ alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

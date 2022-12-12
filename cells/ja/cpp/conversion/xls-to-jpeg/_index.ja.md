@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++アプリケーションを介してXLSをJPEGに変換する 
 weight: 1860
-url: /ja/cpp/conversion/xls-to-jpeg/ 
+
 description: XLSドキュメントからJPEG形式へのサンプルC++変換コード。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でXLSからJPEGへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

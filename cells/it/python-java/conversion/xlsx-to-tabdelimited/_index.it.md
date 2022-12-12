@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converti XLSX in TABDELIMITED tramite Python
-url: /it/python-java/conversion/xlsx-to-tabdelimited/
+
 description: Codice di esempio per la conversione da xlsx a Python delimitata da tabulazioni. Usa API codice di esempio per file batch xlsx in conversione delimitata da tabulazioni all'interno dell'applicazione Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

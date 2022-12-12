@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj XLT na DIF przez C#
-url: /pl/net/conversion/xlt-to-dif/
+
 description: Przykładowy kod konwersji xlt do diff C#. Użyj przykładowego kodu API dla wsadowych plików xlt do konwersji dif w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TXT إلى TABDELIMITED عبر Java 
-url: /ar/java/conversion/txt-to-tabdelimited/ 
+
 description: نموذج رمز تحويل Java لتنسيق TXT إلى ملف TABDELIMITED. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel و OpenOffice إلى TABDELIMITED داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

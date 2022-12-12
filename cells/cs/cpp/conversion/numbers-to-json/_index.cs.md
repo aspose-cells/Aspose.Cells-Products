@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte NUMBERS na JSON pomocí aplikace C++ 
-url: /cs/cpp/conversion/numbers-to-json/ 
+
 description: Ukázkový konverzní kód C++ pro NUMBERS dokument do formátu JSON. Programátoři mohou tento zdrojový kód použít pro dávkový převod ČÍSEL na JSON v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

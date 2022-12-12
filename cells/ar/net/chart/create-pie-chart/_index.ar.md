@@ -1,6 +1,6 @@
-﻿---
+---
 title: إنشاء مخططات دائرية عبر C#
-url: /ar/net/create-pie-chart/
+
 description: C# نموذج كود لإنشاء مخططات دائرية في Excel باستخدام .NET Library. استخدم هذا الرمز لإنشاء مخطط دائري إلى MS Excel داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

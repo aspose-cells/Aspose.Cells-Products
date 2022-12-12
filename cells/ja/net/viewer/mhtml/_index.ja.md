@@ -1,6 +1,6 @@
-﻿---
+---
 title: .NETを介してMHTMLファイル形式を表示する 
-url: /ja/net/viewer/mhtml/ 
+
 description: .NET Framework、.NET Core、Windows Azure、Mono、またはXamarinプラットフォームでMHTMLドキュメントをロード、レンダリング、および表示するためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

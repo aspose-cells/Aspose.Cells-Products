@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Területi diagramok létrehozása a következőn keresztül: Python"
-url: /hu/python-java/create-area-chart/
+
 description: Python Mintakód Területdiagramok létrehozásához Excelben a Python Könyvtár használatával. Használja ezt a kódot Területdiagram létrehozásához MS Excelben a Python alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

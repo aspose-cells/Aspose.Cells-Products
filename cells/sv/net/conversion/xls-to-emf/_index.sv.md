@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera XLS till EMF via C#
-url: /sv/net/conversion/xls-to-emf/
+
 description: Exempelkod för xls till emf C#-konvertering. Använd API exempelkod för batch-xls-filer för att emf-konvertera inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

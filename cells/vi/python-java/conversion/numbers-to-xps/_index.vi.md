@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển NUMBERS thành XPS qua Python
-url: /vi/python-java/conversion/numbers-to-xps/
+
 description: Mã mẫu cho chuyển đổi số thành xps Python. Sử dụng mã mẫu API cho các tệp số lô thành chuyển đổi xps trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

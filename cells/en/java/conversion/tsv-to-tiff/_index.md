@@ -1,6 +1,6 @@
 ---
 title: Convert TSV to TIFF via Java 
-url: /java/conversion/tsv-to-tiff/
+
 description: Convert TSV to TIFF format in Java code. Save TSV as TIFF using Java.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 Python 将 NUMBERS 转换为 TIFF
-url: /zh/python-java/conversion/numbers-to-tiff/
+
 description: 用于 tiff Python 转换的数字示例代码。使用批号文件的 API 示例代码在 Python 应用程序中进行 tiff 转换。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

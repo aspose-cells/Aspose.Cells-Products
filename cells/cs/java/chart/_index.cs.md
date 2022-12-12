@@ -1,6 +1,6 @@
-﻿---
+---
 title: Vytvářejte grafy Excel a převádějte je na obrázky prostřednictvím Java
-url: /cs/java/chart/
+
 description: Zdrojový kód Java pro kreslení a převod grafu nebo diagramu v aplikaci Microsoft Excel pomocí knihovny Java. 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

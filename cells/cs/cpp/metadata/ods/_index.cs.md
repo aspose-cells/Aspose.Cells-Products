@@ -1,7 +1,7 @@
-﻿---
+---
 title: Upravit nebo zobrazit metadata dokumentu ODS prostřednictvím C++ 
 weight: 1000
-url: /cs/cpp/metadata/ods/ 
+
 description: C++ ukázkový kód pro úpravu nebo zobrazení metadat souboru ODS v C++ Runtime Environment pro Windows 32bit, Windows 64bit a Linux 64bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

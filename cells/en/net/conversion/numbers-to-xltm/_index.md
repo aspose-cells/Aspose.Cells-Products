@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to XLTM via C#
-url: /net/conversion/numbers-to-xltm/
+
 description: Convert NUMBERS to XLTM format in C# code. Save NUMBERS as XLTM using VB.NET, Asp.NET or any .NET based application.
 ---
 

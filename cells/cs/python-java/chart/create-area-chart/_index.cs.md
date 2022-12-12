@@ -1,6 +1,6 @@
-﻿---
+---
 title: Vytvořit plošné grafy prostřednictvím Python
-url: /cs/python-java/create-area-chart/
+
 description: Python Ukázkový kód pro vytváření plošných grafů do Excelu pomocí knihovny Python. Tento kód použijte k vytvoření plošného grafu do MS Excel v aplikaci založené na Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

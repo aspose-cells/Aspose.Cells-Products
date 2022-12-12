@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TXT konvertálása TIFF-re a következőn keresztül: C#"
-url: /hu/net/conversion/txt-to-tiff/
+
 description: Mintakód a txt-ből tiff-be C# konverzióhoz. Használjon API példakódot kötegelt txt fájlokhoz a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazás tiff konverziójához.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLTX naar MD via C++ applicatie 
-url: /nl/cpp/conversion/xltx-to-md/ 
+
 description: Voorbeeld C++-conversiecode voor XLTX-document naar MD-indeling. Programmeurs kunnen deze broncode gebruiken voor batch-conversie van XLTX naar MD binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: TABDELIMITED को C# के माध्यम से EMF में बदलें
-url: /hi/net/conversion/tabdelimited-to-emf/
+
 description: tabdelimited to emf C# रूपांतरण के लिए नमूना कोड। वीबी.NET, एएसपी.NET या किसी भी .NET आधारित एप्लिकेशन के भीतर बैच टैबसीमांकित फाइलों के ईएमएफ रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

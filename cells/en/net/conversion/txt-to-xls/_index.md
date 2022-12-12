@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to XLS via C#
-url: /net/conversion/txt-to-xls/
+
 description: Convert TXT to XLS format in C# code. Save TXT as XLS using VB.NET, Asp.NET or any .NET based application.
 ---
 

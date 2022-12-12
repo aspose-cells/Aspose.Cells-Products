@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή FODS σε TABDELIMITED μέσω C#
-url: /el/net/conversion/fods-to-tabdelimited/
+
 description: Δείγμα κώδικα για μετατροπή τροφών σε οριοθετημένη καρτέλα C#. Χρησιμοποιήστε API παράδειγμα κώδικα για αρχεία batch fods για μετατροπή οριοθετημένης καρτέλας εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

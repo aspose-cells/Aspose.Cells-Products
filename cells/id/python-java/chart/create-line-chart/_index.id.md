@@ -1,6 +1,6 @@
-﻿---
+---
 title: Buat Diagram Garis melalui Python
-url: /id/python-java/create-line-chart/
+
 description: Python Contoh kode untuk membuat Bagan garis ke Excel menggunakan Python Pustaka. Gunakan kode ini untuk membuat Bagan garis ke MS Excel dalam aplikasi berbasis Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

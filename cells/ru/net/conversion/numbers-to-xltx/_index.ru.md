@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование NUMBERS в XLTX через C#
-url: /ru/net/conversion/numbers-to-xltx/
+
 description: Пример кода для преобразования чисел в xltx C#. Используйте пример кода API для преобразования файлов номеров пакетов в xltx в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

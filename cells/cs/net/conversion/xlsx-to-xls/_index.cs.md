@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLSX na XLS přes C#
-url: /cs/net/conversion/xlsx-to-xls/
+
 description: Ukázkový kód pro převod xlsx na xls C#. Použijte API ukázkový kód pro dávkový převod souborů xlsx na xls v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

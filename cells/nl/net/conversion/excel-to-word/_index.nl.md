@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer EXCEL naar WORD via C#
-url: /nl/net/conversion/excel-to-word/
+
 description: Voorbeeldcode voor conversie van Excel naar Word C#. Gebruik API voorbeeldcode voor batch Excel-bestanden naar woordconversie binnen VB.NET, Asp.NET of een op .NET gebaseerde toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

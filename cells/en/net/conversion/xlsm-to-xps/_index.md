@@ -1,6 +1,6 @@
 ---
 title: Convert XLSM to XPS via C#
-url: /net/conversion/xlsm-to-xps/
+
 description: Convert XLSM to XPS format in C# code. Save XLSM as XPS using VB.NET, Asp.NET or any .NET based application.
 ---
 

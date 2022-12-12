@@ -1,7 +1,7 @@
-﻿---
+---
 title: دمج ملفات XLT عبر Java 
 weight: 9960
-url: /ar/java/merger/xlt/ 
+
 description: Java نموذج كود لدمج مستندات XLT في Java Runtime Environment لتطبيق JSP / JSF وتطبيقات سطح المكتب.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

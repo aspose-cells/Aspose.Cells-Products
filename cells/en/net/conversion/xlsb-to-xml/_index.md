@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to XML via C#
-url: /net/conversion/xlsb-to-xml/
+
 description: Convert XLSB to XML format in C# code. Save XLSB as XML using VB.NET, Asp.NET or any .NET based application.
 ---
 

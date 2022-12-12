@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla XLTM'yi TABDELIMITED'e dönüştürün
-url: /tr/net/conversion/xltm-to-tabdelimited/
+
 description: xltm'den sekmeyle ayrılmış C# dönüşümüne ilişkin örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu xltm dosyaları için sekmeyle ayrılmış dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

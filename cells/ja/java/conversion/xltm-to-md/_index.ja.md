@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してXLTMをMDに変換します 
-url: /ja/java/conversion/xltm-to-md/ 
+
 description: XLTM形式からMDファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、WebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをMDにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

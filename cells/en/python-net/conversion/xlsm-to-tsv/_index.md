@@ -1,6 +1,6 @@
 ---
 title: Convert XLSM to TSV via Python
-url: /python-net/conversion/xlsm-to-tsv/
+
 description: Sample code for xlsm to tsv Python conversion. Use API example code for batch xlsm files to tsv conversion within Python application.
 ---
 

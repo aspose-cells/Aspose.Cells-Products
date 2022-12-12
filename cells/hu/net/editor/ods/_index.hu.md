@@ -1,6 +1,6 @@
-﻿---
+---
 title: "ODS-fájlok szerkesztése a következőn keresztül: .NET "
-url: /hu/net/editor/ods/ 
+
 description: C# forráskód az ODS-dokumentum szerkesztéséhez .NET Framework, .NET Core, Windows Azure, Mono vagy Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

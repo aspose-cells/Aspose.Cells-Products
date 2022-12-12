@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してMHTMLをJPEGに変換します
-url: /ja/net/conversion/mhtml-to-jpeg/
+
 description: mhtmlからjpegC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチmhtmlファイルからjpegへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

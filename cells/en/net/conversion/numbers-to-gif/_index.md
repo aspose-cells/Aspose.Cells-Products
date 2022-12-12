@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to GIF via C#
-url: /net/conversion/numbers-to-gif/
+
 description: Convert NUMBERS to GIF format in C# code. Save NUMBERS as GIF using VB.NET, Asp.NET or any .NET based application.
 ---
 

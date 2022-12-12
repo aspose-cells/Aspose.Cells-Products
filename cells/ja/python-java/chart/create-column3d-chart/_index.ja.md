@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してColumn3Dチャートを作成する
-url: /ja/python-java/create-column3d-chart/
+
 description: PythonPythonライブラリを使用してExcelにColumn3Dグラフを作成するためのサンプルコード。このコードを使用して、Pythonベースのアプリケーション内でMSExcelへのColumn3Dチャートを作成します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

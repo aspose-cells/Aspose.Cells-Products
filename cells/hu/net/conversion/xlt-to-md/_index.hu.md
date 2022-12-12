@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Konvertálja az XLT-t MD-vé a következőn keresztül: C#"
-url: /hu/net/conversion/xlt-to-md/
+
 description: Mintakód az xlt–md C# konverzióhoz. Használjon API példakódot a kötegelt xlt fájlok md konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

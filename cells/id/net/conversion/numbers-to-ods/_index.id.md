@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi NUMBER ke ODS melalui C#
-url: /id/net/conversion/numbers-to-ods/
+
 description: Contoh kode untuk konversi angka ke angka C#. Gunakan API kode contoh untuk file nomor batch ke konversi ods dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

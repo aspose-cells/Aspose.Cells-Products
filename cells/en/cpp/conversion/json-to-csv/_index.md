@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to CSV via C++
-url: /cpp/conversion/json-to-csv/
+
 description: Convert JSON to CSV format in C++ code. Save JSON as CSV using C++.
 ---
 

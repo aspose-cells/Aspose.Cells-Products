@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 Python 將 JSON 轉換為 EXCEL
-url: /zh-hant/python-java/conversion/json-to-excel/
+
 description: json 到 excel Python 轉換的示例代碼。使用批處理 json 文件的 API 示例代碼在 Python 應用程序中進行 excel 轉換。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

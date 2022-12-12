@@ -1,6 +1,6 @@
-﻿---
+---
 title: "MHTML konvertálása DOCX-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/mhtml-to-docx/
+
 description: Mintakód az mhtml–docx Python konverzióhoz. Használjon API példakódot kötegelt mhtml fájlok docx konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

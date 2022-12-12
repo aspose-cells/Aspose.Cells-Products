@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to WORD via Java 
-url: /java/conversion/mhtml-to-word/
+
 description: Convert MHTML to WORD format in Java code. Save MHTML as WORD using Java.
 ---
 

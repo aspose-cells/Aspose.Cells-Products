@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera JSON till XLTX via C++-appen 
-url: /sv/cpp/conversion/json-to-xltx/ 
+
 description: Exempel på C++-konverteringskod för JSON-dokument till XLTX-format. Programmerare kan använda den här källkoden för batchkonvertering av JSON till XLTX inom alla C++-program.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

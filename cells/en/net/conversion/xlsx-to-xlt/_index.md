@@ -1,6 +1,6 @@
 ---
 title: Convert XLSX to XLT via C#
-url: /net/conversion/xlsx-to-xlt/
+
 description: Convert XLSX to XLT format in C# code. Save XLSX as XLT using VB.NET, Asp.NET or any .NET based application.
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Android Excel 电子表格 API - Aspose 
 weight: 6510
-url: /zh/android-java/ 
+
 description: 用于创建读写和解析 Excel 文件的 Android 电子表格库。用于移动应用开发的电子表格 API
 ---
 {{< blocks/products/pf/main-wrap-class >}}

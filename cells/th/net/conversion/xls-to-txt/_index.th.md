@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง XLS เป็น TXT ผ่าน C#
-url: /th/net/conversion/xls-to-txt/
+
 description: โค้ดตัวอย่างสำหรับการแปลง xls เป็น txt C# ใช้โค้ดตัวอย่าง API สำหรับไฟล์ batch xls เป็นการแปลง txt ภายใน VB.NET, Asp.NET หรือแอปพลิเคชันที่ใช้ .NET
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

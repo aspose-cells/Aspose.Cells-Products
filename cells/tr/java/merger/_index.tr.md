@@ -1,6 +1,6 @@
-﻿---
+---
 title: Java İçinde Farklı Excel Dosyalarını Tek Bir Dosyada Birleştirin
-url: /tr/java/merger/
+
 description: Java kullanarak Excel dosyalarını birden çok sayfa veya tek sayfa halinde birleştirin. Excel belgelerini PDF, Görüntüler ve HTML ile birleştirin, birleştirin veya birleştirin.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

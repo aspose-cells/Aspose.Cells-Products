@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TABDELIMITED إلى TIFF عبر Python
-url: /ar/python-java/conversion/tabdelimited-to-tiff/
+
 description: نموذج رمز لجدولة محدودية لتحويل Python. استخدم API رمز المثال للملفات المحددة بعلامات جدولة مجمعة لإجراء تحويل داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

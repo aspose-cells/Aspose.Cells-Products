@@ -1,6 +1,6 @@
-﻿---
+---
 title: Buat Bagan Radar melalui Python
-url: /id/python-java/create-radar-chart/
+
 description: Python Contoh kode untuk membuat bagan Radar ke Excel menggunakan Python Pustaka. Gunakan kode ini untuk membuat bagan Radar ke MS Excel dalam aplikasi berbasis Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj HTML na XLT za pomocą aplikacji C++ 
-url: /pl/cpp/conversion/html-to-xlt/ 
+
 description: Przykładowy kod konwersji C++ dla dokumentu HTML do formatu XLT. Programiści mogą używać tego kodu źródłowego do wsadowej konwersji HTML na XLT w dowolnej aplikacji C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

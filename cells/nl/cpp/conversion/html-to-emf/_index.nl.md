@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer HTML naar EMF via C++ applicatie 
 weight: 8550
-url: /nl/cpp/conversion/html-to-emf/ 
+
 description: Voorbeeld C++-conversiecode voor HTML-document naar EMF-indeling. Programmeurs kunnen deze broncode gebruiken voor batch-HTML naar EMF-conversie binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

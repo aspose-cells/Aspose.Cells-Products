@@ -1,6 +1,6 @@
-﻿---
+---
 title: XLT को XLTM में परिवर्तित करें C# के द्वारा
-url: /hi/net/conversion/xlt-to-xltm/
+
 description: xlt से xltm C# रूपांतरण के लिए नमूना कोड। VB.NET, Asp.NET या किसी .NET आधारित एप्लिकेशन के भीतर xltm रूपांतरण के लिए बैच xlt फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

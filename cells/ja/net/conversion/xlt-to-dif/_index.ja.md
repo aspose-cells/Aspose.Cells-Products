@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してXLTをDIFに変換します
-url: /ja/net/conversion/xlt-to-dif/
+
 description: xltからdifC#への変換のサンプルコード。バッチxltファイルのAPIサンプルコードを使用して、VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内で変換をdifします。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

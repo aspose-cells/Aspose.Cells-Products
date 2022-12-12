@@ -1,6 +1,6 @@
 ---
 title: Merge MHTML to XLSB Files via Java 
-url: /java/merger/merge-mhtml-to-xlsb/ 
+
 description: Merge MHTML to XLSB file in Java code. Combine MHTML to XLSB file using Java based desktop or web application.
 ---
 

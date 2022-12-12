@@ -1,6 +1,6 @@
-﻿---
+---
 title: "FODS konvertálása XLSB-re a következőn keresztül: C#"
-url: /hu/net/conversion/fods-to-xlsb/
+
 description: Mintakód a fod-ból xlsb-be C# konverzióhoz. Használjon API példakódot a kötegelt fods fájlok xlsb konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

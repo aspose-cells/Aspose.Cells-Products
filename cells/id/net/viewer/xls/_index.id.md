@@ -1,7 +1,7 @@
-﻿---
+---
 title: Lihat Format File XLS melalui .NET 
 weight: 1260
-url: /id/net/viewer/xls/ 
+
 description: C# kode sumber untuk memuat, merender, dan menampilkan dokumen XLS pada .NET Framework, .NET Core, Mono atau Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

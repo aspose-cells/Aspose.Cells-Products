@@ -1,6 +1,6 @@
-﻿---
+---
 title: Создавайте PDF-файлы с помощью C# 
-url: /ru/net/create-pdf/ 
+
 description: C# Пример кода для создания PDF-документов. Используйте этот код для создания файлов PDF в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Tạo Biểu đồ Thanh qua Python
-url: /vi/python-java/create-bar-chart/
+
 description: Python Mã mẫu để tạo Biểu đồ thanh sang Excel bằng Python Thư viện. Sử dụng mã này để tạo Biểu đồ thanh cho MS Excel trong ứng dụng dựa trên Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

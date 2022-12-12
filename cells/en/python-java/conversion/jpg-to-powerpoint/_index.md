@@ -1,6 +1,6 @@
 ---
 title: Convert JPG to POWERPOINT via Python
-url: /python-java/conversion/jpg-to-powerpoint/
+
 description: Convert JPG to POWERPOINT format in Python code. Save JPG as POWERPOINT using Python.
 ---
 

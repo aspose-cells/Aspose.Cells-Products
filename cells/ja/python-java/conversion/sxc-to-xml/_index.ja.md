@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してSXCをXMLに変換します
-url: /ja/python-java/conversion/sxc-to-xml/
+
 description: sxcからxmlPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチsxcファイルからxmlへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

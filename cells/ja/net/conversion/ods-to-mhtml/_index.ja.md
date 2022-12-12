@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してODSをMHTMLに変換する
-url: /ja/net/conversion/ods-to-mhtml/
+
 description: odsからmhtmlC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチodsファイルからmhtmlへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

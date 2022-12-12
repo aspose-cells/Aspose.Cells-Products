@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLSB в SPREADSHEETML через C#
-url: /ru/net/conversion/xlsb-to-spreadsheetml/
+
 description: Пример кода для преобразования xlsb в электронную таблицуml C#. Используйте API пример кода для пакетного преобразования xlsb-файлов в электронную таблицуml в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

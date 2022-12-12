@@ -1,7 +1,7 @@
-﻿---
+---
 title: Δημιουργία αναφορών σε αρχεία ODS μέσω .NET 
 weight: 520
-url: /el/net/assembly/ods/ 
+
 description: C# πηγαίος κώδικας για τη δημιουργία αναφορών μορφής ODS σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

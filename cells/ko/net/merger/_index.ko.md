@@ -1,6 +1,6 @@
-﻿---
+---
 title: Excel 파일 병합기 API .NET C#
-url: /ko/net/merger/
+
 description: 몇 줄의 C# 코드로 Excel 및 OpenOffice 스프레드시트 파일을 연결합니다.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

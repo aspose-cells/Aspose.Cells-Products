@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python के माध्यम से ODS को PDF में बदलें
-url: /hi/python-java/conversion/ods-to-pdf/
+
 description: ऑड्स टू पीडीएफ़ Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर बैच ऑड्स फाइलों को पीडीएफ में बदलने के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

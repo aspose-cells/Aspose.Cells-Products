@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converter HTML para TIFF via Java 
 weight: 7360
-url: /pt/java/conversion/html-to-tiff/ 
+
 description: Exemplo de código de conversão Java para formato HTML para arquivo TIFF. Os programadores podem usar este código de exemplo para exportar planilhas do Excel e OpenOffice para TIFF em qualquer aplicativo baseado na Web ou Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

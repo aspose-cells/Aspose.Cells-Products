@@ -1,7 +1,7 @@
-﻿---
+---
 title: Bekijk TXT-bestandsindelingen via .NET 
 weight: 8300
-url: /nl/net/viewer/txt/ 
+
 description: C# broncode om TXT-documenten te laden, weer te geven en weer te geven op .NET Framework-, .NET Core-, Mono- of Xamarin-platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

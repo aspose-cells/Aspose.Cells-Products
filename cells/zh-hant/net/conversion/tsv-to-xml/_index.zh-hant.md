@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 C# 將 TSV 轉換為 XML
-url: /zh-hant/net/conversion/tsv-to-xml/
+
 description: tsv 到 xml C# 轉換的示例代碼。使用 API 示例代碼在 VB.NET、Asp.NET 或任何基於 .NET 的應用程序中將 tsv 文件批量轉換為 xml。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte TSV na TABDELIMITED prostřednictvím aplikace C++ 
-url: /cs/cpp/conversion/tsv-to-tabdelimited/ 
+
 description: Ukázkový konverzní kód C++ pro dokument TSV do formátu TABDELIMITED. Programátoři mohou použít tento zdrojový kód pro dávkový převod TSV na TABDELIMITED v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

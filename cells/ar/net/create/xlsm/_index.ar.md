@@ -1,6 +1,6 @@
-﻿---
+---
 title: إنشاء ملفات MS Excel XLSM عبر C# 
-url: /ar/net/create-xlsm/ 
+
 description: C# نموذج كود لإنشاء مستندات XLSM. استخدم هذا الرمز لإنشاء ملفات MS Excel XLSM داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

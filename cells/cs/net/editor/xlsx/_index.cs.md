@@ -1,6 +1,6 @@
-﻿---
+---
 title: Upravit soubory XLSX prostřednictvím .NET 
-url: /cs/net/editor/xlsx/ 
+
 description: C# zdrojový kód pro úpravy dokumentu XLSX na platformách .NET Framework, .NET Core, Windows Azure, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to SVG via Java 
-url: /java/conversion/mhtml-to-svg/
+
 description: Convert MHTML to SVG format in Java code. Save MHTML as SVG using Java.
 ---
 

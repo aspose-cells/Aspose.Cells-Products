@@ -1,7 +1,7 @@
-﻿---
+---
 title: Entsperren Sie das XLSB-Dokument über C++ 
 weight: 7420
-url: /de/cpp/unlock/xlsb/ 
+
 description: C++ Beispielcode zum Entsperren der passwortgeschützten XLSB-Datei in C++ Runtime Environment für Windows 32 Bit, Windows 64 Bit und Linux 64 Bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

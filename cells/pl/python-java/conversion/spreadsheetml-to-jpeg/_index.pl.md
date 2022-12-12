@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj SPREADSHEETML na JPEG przez Python
-url: /pl/python-java/conversion/spreadsheetml-to-jpeg/
+
 description: Przykładowy kod konwersji arkusza kalkulacyjnego ml na jpeg Python. Użyj przykładowego kodu API dla wsadowych plików arkusza kalkulacyjnego do konwersji jpeg w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

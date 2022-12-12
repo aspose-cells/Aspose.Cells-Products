@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést FODS na XLT přes Python
-url: /cs/python-java/conversion/fods-to-xlt/
+
 description: Ukázkový kód pro konverzi fod na xlt Python. Použijte API ukázkový kód pro dávkové soubory fods na xlt konverzi v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

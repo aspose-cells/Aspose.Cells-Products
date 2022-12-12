@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通過 .NET 合併 TXT 文件 
 weight: 7350
-url: /zh-hant/net/merger/txt/ 
+
 description: C# 源代碼，用於在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上組合 TXT 文檔。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

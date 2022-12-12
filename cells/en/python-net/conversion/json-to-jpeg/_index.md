@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to JPEG via Python
-url: /python-net/conversion/json-to-jpeg/
+
 description: Sample code for json to jpeg Python conversion. Use API example code for batch json files to jpeg conversion within Python application.
 ---
 

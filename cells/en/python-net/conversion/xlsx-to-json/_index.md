@@ -1,6 +1,6 @@
 ---
 title: Convert XLSX to JSON via Python
-url: /python-net/conversion/xlsx-to-json/
+
 description: Sample code for xlsx to json Python conversion. Use API example code for batch xlsx files to json conversion within Python application.
 ---
 

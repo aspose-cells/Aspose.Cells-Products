@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte XLTX na XLSX pomocí aplikace C++ 
-url: /cs/cpp/conversion/xltx-to-xlsx/ 
+
 description: Ukázkový konverzní kód C++ pro dokument XLTX na formát XLSX. Programátoři mohou použít tento zdrojový kód pro dávkovou konverzi XLTX na XLSX v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

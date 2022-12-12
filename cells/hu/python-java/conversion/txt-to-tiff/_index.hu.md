@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TXT konvertálása TIFF-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/txt-to-tiff/
+
 description: Mintakód a txt-ből tiff-be Python konverzióhoz. Használjon API példakódot kötegelt txt fájlokhoz a tiff konverzióhoz a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

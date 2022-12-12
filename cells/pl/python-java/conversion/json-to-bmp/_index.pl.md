@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj JSON na BMP przez Python
-url: /pl/python-java/conversion/json-to-bmp/
+
 description: Przykładowy kod konwersji json do bmp Python. Użyj przykładowego kodu API dla wsadowych plików json do konwersji bmp w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

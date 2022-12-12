@@ -1,7 +1,7 @@
-﻿---
+---
 title: Cari dan ganti teks dalam dokumen ODS melalui .NET 
 weight: 6100
-url: /id/net/redaction/ods/ 
+
 description: C# kode sumber untuk menyunting informasi sensitif dalam file ODS pada .NET Framework, .NET Core, Mono atau Platform Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

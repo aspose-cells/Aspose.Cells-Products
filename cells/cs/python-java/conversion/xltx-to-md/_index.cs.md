@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLTX na MD přes Python
-url: /cs/python-java/conversion/xltx-to-md/
+
 description: Ukázkový kód pro převod xltx na md Python. Použijte API ukázkový kód pro dávkový převod souborů xltx na MD v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

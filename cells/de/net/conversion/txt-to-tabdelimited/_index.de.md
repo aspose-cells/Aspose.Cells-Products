@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie TXT in TABDELIMITED über C#
-url: /de/net/conversion/txt-to-tabdelimited/
+
 description: Beispielcode für die Umwandlung von txt in tabulatorgetrennte C#. Verwenden Sie API Beispielcode für Batch-TXT-Dateien in tabulatorgetrennte Konvertierung innerhalb von VB.NET, Asp.NET oder einer beliebigen .NET-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

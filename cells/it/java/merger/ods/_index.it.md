@@ -1,7 +1,7 @@
-﻿---
+---
 title: Unisci file ODS tramite Java 
 weight: 6270
-url: /it/java/merger/ods/ 
+
 description: Java codice di esempio per combinare documenti ODS su Java Runtime Environment per applicazioni JSP/JSF e applicazioni desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

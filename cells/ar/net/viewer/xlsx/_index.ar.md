@@ -1,7 +1,7 @@
-﻿---
+---
 title: عرض تنسيقات ملف XLSX عبر .NET 
 weight: 2180
-url: /ar/net/viewer/xlsx/ 
+
 description: C# شفرة المصدر لتحميل مستندات XLSX وعرضها وعرضها على الأنظمة الأساسية .NET Framework أو .NET Core أو Mono أو Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

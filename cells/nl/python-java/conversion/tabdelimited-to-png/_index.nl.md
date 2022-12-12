@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer TABDELIMITED naar PNG via Python
-url: /nl/python-java/conversion/tabdelimited-to-png/
+
 description: Voorbeeldcode voor door tabs gescheiden naar png Python conversie. Gebruik API voorbeeldcode voor batchgescheiden door tabs gescheiden bestanden naar png-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

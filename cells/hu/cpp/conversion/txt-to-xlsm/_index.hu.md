@@ -1,6 +1,6 @@
-﻿---
+---
 title: A TXT konvertálása XLSM-re a C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/txt-to-xlsm/ 
+
 description: Minta C++ konverziós kód TXT dokumentumhoz XLSM formátumba. A programozók ezt a forráskódot használhatják a kötegelt TXT-ből XLSM-be konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

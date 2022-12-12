@@ -1,6 +1,6 @@
-﻿---
+---
 title: Fusione file Excel API .NET C#
-url: /it/net/merger/
+
 description: Concatena file di fogli di lavoro Excel e OpenOffice con poche righe di codice C#.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

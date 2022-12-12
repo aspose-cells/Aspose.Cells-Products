@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera TABDELIMITED till SPREADSHEETML via C#
-url: /sv/net/conversion/tabdelimited-to-spreadsheetml/
+
 description: Exempelkod för tabbavgränsad till kalkylarkml C#-konvertering. Använd API exempelkod för batch-tabbavgränsade filer till kalkylarkml-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง FODS เป็น XPS ผ่าน C#
-url: /th/net/conversion/fods-to-xps/
+
 description: โค้ดตัวอย่างสำหรับการแปลง fods เป็น xps C# ใช้รหัสตัวอย่าง API สำหรับไฟล์แบตช์ fods เป็นการแปลง xps ภายใน VB.NET, Asp.NET หรือแอปพลิเคชันที่ใช้ .NET
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

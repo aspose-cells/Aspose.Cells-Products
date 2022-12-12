@@ -1,6 +1,6 @@
 ---
 title: Repair xlsm file via Java
-url: /java/recovery/repair-xlsm/ 
+
 description: Repair a corrupt xlsm file using Java. Recovery tool to repair corrupted xlsm file within Java application.
 ---
 

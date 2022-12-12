@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してNUMBERSをXPSに変換します
-url: /ja/net/conversion/numbers-to-xps/
+
 description: 数値からxpsC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチ番号ファイルからxpsへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertálja az XLSB-t XLSM-re a(z) C++ alkalmazáson keresztül 
 weight: 2360
-url: /hu/cpp/conversion/xlsb-to-xlsm/ 
+
 description: Minta C++ konverziós kód XLSB dokumentumhoz XLSM formátumba. A programozók ezt a forráskódot használhatják az XLSB-ből XLSM-be kötegelt konvertáláshoz bármely C++ alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

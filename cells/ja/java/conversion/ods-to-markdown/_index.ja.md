@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してODSをMARKDOWNに変換する 
-url: /ja/java/conversion/ods-to-markdown/ 
+
 description: ODS形式からMARKDOWNファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のMARKDOWNにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

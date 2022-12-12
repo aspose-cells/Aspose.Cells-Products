@@ -1,7 +1,7 @@
-﻿---
+---
 title: Odemknout dokument XLS přes .NET 
 weight: 4260
-url: /cs/net/unlock/xls/ 
+
 description: C# zdrojový kód k odemknutí heslem chráněného souboru XLS na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

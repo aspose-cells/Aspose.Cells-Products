@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj NUMBERS na PNG za pomocą Python
-url: /pl/python-java/conversion/numbers-to-png/
+
 description: Przykładowy kod konwersji liczb do formatu png Python. Użyj przykładowego kodu API dla plików numerów partii do konwersji png w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

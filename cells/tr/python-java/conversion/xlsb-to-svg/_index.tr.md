@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla XLSB'yi SVG'ye dönüştürün
-url: /tr/python-java/conversion/xlsb-to-svg/
+
 description: xlsb'den svg'ye Python dönüştürme için örnek kod. Python uygulamasında toplu xlsb dosyalarından svg'ye dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

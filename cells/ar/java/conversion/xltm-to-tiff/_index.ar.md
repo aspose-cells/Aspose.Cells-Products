@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل XLTM إلى TIFF عبر Java 
 weight: 3320
-url: /ar/java/conversion/xltm-to-tiff/ 
+
 description: نموذج Java رمز التحويل لتنسيق XLTM إلى ملف TIFF. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel و OpenOffice إلى TIFF داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

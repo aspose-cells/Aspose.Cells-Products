@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to XLTM via Java 
-url: /java/conversion/numbers-to-xltm/
+
 description: Convert NUMBERS to XLTM format in Java code. Save NUMBERS as XLTM using Java.
 ---
 

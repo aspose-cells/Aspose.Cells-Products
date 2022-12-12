@@ -1,7 +1,7 @@
-﻿---
+---
 title: Android Excel-táblázat API - Aspose 
 weight: 6510
-url: /hu/android-java/ 
+
 description: Android-táblázat-könyvtár az olvasási írási és -elemzési Excel-fájlok létrehozásához. Táblázat API mobilalkalmazások fejlesztéséhez
 ---
 {{< blocks/products/pf/main-wrap-class >}}

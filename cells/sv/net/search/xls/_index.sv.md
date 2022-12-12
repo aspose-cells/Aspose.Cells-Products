@@ -1,7 +1,7 @@
-﻿---
+---
 title: Sök i XLS-dokument utan att öppna via .NET 
 weight: 1490
-url: /sv/net/search/xls/ 
+
 description: C# källkod för att söka efter ord med mönster i XLS-fil på .NET Framework, .NET Core, Mono eller Xamarin-plattformar.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

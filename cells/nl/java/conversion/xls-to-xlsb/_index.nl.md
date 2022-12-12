@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer XLS naar XLSB via Java 
 weight: 250
-url: /nl/java/conversion/xls-to-xlsb/ 
+
 description: Voorbeeld Java conversiecode voor XLS-indeling naar XLSB-bestand. Programmeurs kunnen deze voorbeeldcode gebruiken om Excel- en OpenOffice-spreadsheets naar XLSB te exporteren binnen elke web- of desktoptoepassing Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

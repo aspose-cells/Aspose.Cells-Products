@@ -1,6 +1,6 @@
-﻿---
+---
 title: عرض تنسيقات ملفات HTML عبر .NET 
-url: /ar/net/viewer/html/ 
+
 description: C# شفرة المصدر لتحميل مستندات HTML وعرضها وعرضها على الأنظمة الأساسية .NET Framework أو .NET Core أو Windows Azure Mono أو Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

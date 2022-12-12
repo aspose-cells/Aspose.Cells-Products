@@ -1,6 +1,6 @@
-﻿---
+---
 title: Mesclar arquivos HTML por meio de C++ 
-url: /pt/cpp/merger/html/ 
+
 description: C++ código de exemplo para combinar documentos HTML em C++ Runtime Environment para Windows de 32 bits, Windows de 64 bits e Linux de 64 bits.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

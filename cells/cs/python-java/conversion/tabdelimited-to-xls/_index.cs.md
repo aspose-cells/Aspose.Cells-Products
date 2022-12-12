@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TABDELIMITED na XLS přes Python
-url: /cs/python-java/conversion/tabdelimited-to-xls/
+
 description: Ukázkový kód pro převod tabdelimited na xls Python. Použijte API ukázkový kód pro dávkový převod souborů oddělených tabulátory na xls v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

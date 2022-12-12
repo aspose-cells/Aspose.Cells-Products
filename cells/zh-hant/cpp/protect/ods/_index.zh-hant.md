@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通過 C++ 保護和鎖定 ODS 文檔 
 weight: 10010
-url: /zh-hant/cpp/protect/ods/ 
+
 description: C++ 在 Windows 32 位、Windows 64 位和 Linux 64 位的 C++ 運行時環境中使用密碼鎖定 ODS 文件的示例代碼。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

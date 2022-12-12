@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SPREADSHEETML konvertálása XLS-re a következőn keresztül: C#"
-url: /hu/net/conversion/spreadsheetml-to-xls/
+
 description: Mintakód a táblázatkezelőből xls-be C# konverzióhoz. Használjon API példakódot a kötegelt táblázatkezelő fájlok xls formátumú konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

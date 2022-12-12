@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi CSV ke MARKDOWN melalui Python
-url: /id/python-java/conversion/csv-to-markdown/
+
 description: Contoh kode untuk konversi csv ke penurunan harga Python. Gunakan API kode contoh untuk berkas csv batch untuk konversi penurunan harga dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

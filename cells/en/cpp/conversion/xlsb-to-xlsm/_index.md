@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to XLSM via C++
-url: /cpp/conversion/xlsb-to-xlsm/
+
 description: Convert XLSB to XLSM format in C++ code. Save XLSB as XLSM using C++.
 ---
 

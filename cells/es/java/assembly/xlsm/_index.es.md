@@ -1,7 +1,7 @@
-﻿---
+---
 title: Generar informes en archivos XLSM a través de Java 
 weight: 270
-url: /es/java/assembly/xlsm/ 
+
 description: Java código de ejemplo para crear informes en formato XLSM en Java entorno de tiempo de ejecución para aplicaciones JSP/JSF y aplicaciones de escritorio.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

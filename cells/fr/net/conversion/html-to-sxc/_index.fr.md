@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir HTML en SXC via C#
-url: /fr/net/conversion/html-to-sxc/
+
 description: Exemple de code pour la conversion html vers sxc C#. Utilisez l'exemple de code API pour la conversion de fichiers html par lots en sxc dans VB.NET, Asp.NET ou toute application basée sur .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

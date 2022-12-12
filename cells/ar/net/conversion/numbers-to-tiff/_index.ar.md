@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل الأرقام إلى TIFF عبر C#
-url: /ar/net/conversion/numbers-to-tiff/
+
 description: نموذج رمز للأرقام لمزج التحويل C#. استخدم API مثال الكود لملفات أرقام الدُفعات لإجراء تحويل داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

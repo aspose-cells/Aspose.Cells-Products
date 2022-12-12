@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLSB konvertálása GIF-be a következőn keresztül: C#"
-url: /hu/net/conversion/xlsb-to-gif/
+
 description: Mintakód xlsb–gif C# konverzióhoz. Használjon API példakódot kötegelt xlsb fájlokhoz a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazás gif konvertálásához.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

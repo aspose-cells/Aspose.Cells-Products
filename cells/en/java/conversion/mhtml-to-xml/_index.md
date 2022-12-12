@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to XML via Java 
-url: /java/conversion/mhtml-to-xml/
+
 description: Convert MHTML to XML format in Java code. Save MHTML as XML using Java.
 ---
 

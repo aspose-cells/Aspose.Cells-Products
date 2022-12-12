@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++を介してMSExcelXLSファイルを作成する 
-url: /ja/cpp/create-xls/ 
+
 description: C++ MSExcelXLSファイルを生成するためのサンプルコード。このコードを使用して、C++ベースのアプリケーション内にMSExcelXLSファイルを作成します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Erstellen Sie Excel-Diagramme und konvertieren Sie sie in Bilder über C++
-url: /de/cpp/chart/
+
 description: C++-Quellcode zum Zeichnen und Konvertieren von Diagrammen oder Diagrammen in Microsoft Excel mithilfe der C++-Bibliothek
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

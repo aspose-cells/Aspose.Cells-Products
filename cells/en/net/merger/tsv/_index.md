@@ -1,7 +1,7 @@
 ---
 title: Merge TSV Files via .NET 
 weight: 1360
-url: /net/merger/tsv/ 
+
 description: C# source code to combine TSV documents on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

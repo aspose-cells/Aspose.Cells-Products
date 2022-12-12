@@ -1,7 +1,7 @@
-﻿---
+---
 title: Entsperren Sie das XLS-Dokument über Java 
 weight: 6390
-url: /de/java/unlock/xls/ 
+
 description: Java Beispielcode zum Entsperren der passwortgeschützten XLS-Datei in Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

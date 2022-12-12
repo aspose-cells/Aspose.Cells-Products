@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TXT konvertálása XLSB-vé a következőn keresztül: Python"
-url: /hu/python-java/conversion/txt-to-xlsb/
+
 description: Mintakód a txt-ből xlsb-be Python konverzióhoz. Használjon API példakódot a txt fájlok kötegelt xlsb konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

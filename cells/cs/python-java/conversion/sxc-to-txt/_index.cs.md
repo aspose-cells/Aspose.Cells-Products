@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést SXC na TXT přes Python
-url: /cs/python-java/conversion/sxc-to-txt/
+
 description: Ukázkový kód pro převod sxc na txt Python. Použijte API ukázkový kód pro dávkový převod souborů sxc na txt v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

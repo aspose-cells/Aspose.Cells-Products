@@ -1,7 +1,7 @@
 ---
 title: Insert Pivot Chart in Micorsoft Excel XLS files via C# 
 weight: 7690
-url: /net/insert-pivot-chart-to-xls/
+
 description: C# Sample code for generating XLS documents with pivot chart. Use this code for creating Micorsoft Excel XLS files with pivot chart within VB.NET, Asp.NET or any .NET based application.
 ---
 

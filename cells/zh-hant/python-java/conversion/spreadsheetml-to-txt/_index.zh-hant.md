@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 Python 將 SPREADSHEETML 轉換為 TXT
-url: /zh-hant/python-java/conversion/spreadsheetml-to-txt/
+
 description: 電子表格到 txt Python 轉換的示例代碼。在 Python 應用程序中使用 API 批量電子表格文件到 txt 轉換的示例代碼。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

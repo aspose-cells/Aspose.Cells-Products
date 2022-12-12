@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してMHTMLをJSONに変換する
-url: /ja/python-java/conversion/mhtml-to-json/
+
 description: mhtmlからjsonPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチmhtmlファイルからjsonへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

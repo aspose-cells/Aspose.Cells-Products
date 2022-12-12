@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển FODS sang MHTML qua C#
-url: /vi/net/conversion/fods-to-mhtml/
+
 description: Mã mẫu cho chuyển đổi fods thành mhtml C#. Sử dụng API mã mẫu cho các tệp fods hàng loạt để chuyển đổi mhtml trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# के माध्यम से NUMBERS को PNG में बदलें
-url: /hi/net/conversion/numbers-to-png/
+
 description: पीएनजी C# रूपांतरण के लिए संख्याओं के लिए नमूना कोड। VB.NET, Asp.NET या किसी भी .NET आधारित एप्लिकेशन के भीतर बैच नंबर फ़ाइलों को पीएनजी रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

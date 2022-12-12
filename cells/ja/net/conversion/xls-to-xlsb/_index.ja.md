@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してXLSをXLSBに変換します
-url: /ja/net/conversion/xls-to-xlsb/
+
 description: xlsからxlsbC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのxlsファイルからxlsbへの変換にAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

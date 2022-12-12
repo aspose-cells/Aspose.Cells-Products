@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java aracılığıyla ODS belgesindeki metni arayın ve değiştirin 
 weight: 9210
-url: /tr/java/redaction/ods/ 
+
 description: JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Runtime Environment'daki ODS dosyasındaki hassas bilgileri yeniden düzenlemek için Java örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

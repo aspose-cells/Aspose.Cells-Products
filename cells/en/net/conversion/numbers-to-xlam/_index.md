@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to XLAM via C#
-url: /net/conversion/numbers-to-xlam/
+
 description: Convert NUMBERS to XLAM format in C# code. Save NUMBERS as XLAM using VB.NET, Asp.NET or any .NET based application.
 ---
 

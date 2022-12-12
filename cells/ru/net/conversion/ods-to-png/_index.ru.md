@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование ODS в PNG через C#
-url: /ru/net/conversion/ods-to-png/
+
 description: Пример кода для преобразования ods в png C#. Используйте пример кода API для пакетного преобразования файлов ods в png в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

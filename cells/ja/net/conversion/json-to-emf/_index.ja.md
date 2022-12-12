@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してJSONをEMFに変換する
-url: /ja/net/conversion/json-to-emf/
+
 description: jsonからemfC#への変換のサンプルコード。バッチjsonファイルのAPIサンプルコードを使用して、VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内で変換を実行します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

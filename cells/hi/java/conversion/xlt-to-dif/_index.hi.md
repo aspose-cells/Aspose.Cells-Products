@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLT को DIF में Java के माध्यम से कनवर्ट करें 
 weight: 5850
-url: /hi/java/conversion/xlt-to-dif/ 
+
 description: एक्सएलटी प्रारूप के लिए डीआईएफ फ़ाइल में नमूना Java रूपांतरण कोड। प्रोग्रामर इस उदाहरण कोड का उपयोग किसी भी वेब या डेस्कटॉप Java आधारित एप्लिकेशन के भीतर एक्सेल और ओपनऑफिस स्प्रेडशीट को डीआईएफ में निर्यात करने के लिए कर सकते हैं।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

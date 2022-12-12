@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to SPREADSHEETML via Python
-url: /python-java/conversion/numbers-to-spreadsheetml/
+
 description: Convert NUMBERS to SPREADSHEETML format in Python code. Save NUMBERS as SPREADSHEETML using Python.
 ---
 

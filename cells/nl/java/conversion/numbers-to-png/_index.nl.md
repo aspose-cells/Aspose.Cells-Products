@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer NUMMERS naar PNG via Java 
-url: /nl/java/conversion/numbers-to-png/ 
+
 description: Voorbeeld Java-conversiecode voor NUMBERS-indeling naar PNG-bestand. Programmeurs kunnen deze voorbeeldcode gebruiken om Excel- en OpenOffice-spreadsheets naar PNG te exporteren binnen elke web- of desktoptoepassing Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

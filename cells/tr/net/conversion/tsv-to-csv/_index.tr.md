@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla TSV'yi CSV'ye dönüştürün
-url: /tr/net/conversion/tsv-to-csv/
+
 description: tsv'den csv'ye C# dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu tsv dosyalarını csv'ye dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

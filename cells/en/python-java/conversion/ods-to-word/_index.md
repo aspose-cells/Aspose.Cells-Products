@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to WORD via Python
-url: /python-java/conversion/ods-to-word/
+
 description: Convert ODS to WORD format in Python code. Save ODS as WORD using Python.
 ---
 

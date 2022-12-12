@@ -1,7 +1,7 @@
 ---
 title: Insert RadioButton(Form control) into Excel via .NET 
 weight: 60
-url: /net/developer/insert-form-control-radio-button-to-excel/ 
+
 description: C# source code to insert RadioButton(Form control) into Excel on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

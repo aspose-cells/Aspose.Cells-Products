@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してXLTをPDFに変換する
-url: /ja/net/conversion/xlt-to-pdf/
+
 description: xltからpdfC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチxltファイルからpdfへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

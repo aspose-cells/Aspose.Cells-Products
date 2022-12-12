@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل الأرقام إلى MHTML عبر Python
-url: /ar/python-java/conversion/numbers-to-mhtml/
+
 description: نموذج رمز للأرقام لتحويل Python mhtml. استخدم API رمز المثال لملفات أرقام الدُفعات لتحويل mhtml داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

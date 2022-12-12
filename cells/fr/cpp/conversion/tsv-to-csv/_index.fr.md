@@ -1,7 +1,7 @@
-﻿---
+---
 title: Convertir TSV en CSV via l'application C++ 
 weight: 9820
-url: /fr/cpp/conversion/tsv-to-csv/ 
+
 description: Exemple de code de conversion C++ pour le document TSV au format CSV. Les programmeurs peuvent utiliser ce code source pour la conversion par lots de TSV en CSV dans n'importe quelle application C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

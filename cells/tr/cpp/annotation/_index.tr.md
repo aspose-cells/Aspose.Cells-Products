@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++ aracılığıyla Excel Dosyası Açıklamaları
-url: /tr/cpp/annotation/
+
 description: C++ kitaplığı ile Excel ve OpenOffice elektronik tablolarının veri açıklama yorumlarını ekleyin veya kaldırın.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

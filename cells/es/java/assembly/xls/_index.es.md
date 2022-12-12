@@ -1,7 +1,7 @@
-﻿---
+---
 title: Generar informes en archivos XLS a través de Java 
 weight: 1090
-url: /es/java/assembly/xls/ 
+
 description: Java código de ejemplo para crear informes en formato XLS en Java entorno de tiempo de ejecución para aplicaciones JSP/JSF y aplicaciones de escritorio.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

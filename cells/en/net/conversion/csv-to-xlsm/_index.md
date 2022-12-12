@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to XLSM via C#
-url: /net/conversion/csv-to-xlsm/
+
 description: Convert CSV to XLSM format in C# code. Save CSV as XLSM using VB.NET, Asp.NET or any .NET based application.
 ---
 

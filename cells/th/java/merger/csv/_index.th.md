@@ -1,7 +1,7 @@
-﻿---
+---
 title: รวมไฟล์ CSV ผ่าน Java 
 weight: 3860
-url: /th/java/merger/csv/ 
+
 description: Java ตัวอย่างโค้ดเพื่อรวมเอกสาร CSV บน Java Runtime Environment สำหรับแอปพลิเคชัน JSP/JSF และแอปพลิเคชันเดสก์ท็อป
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

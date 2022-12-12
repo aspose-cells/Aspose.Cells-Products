@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter NUMBERS para XLTX via C#
-url: /pt/net/conversion/numbers-to-xltx/
+
 description: Código de exemplo para conversão de números para xltx C#. Use API código de exemplo para arquivos de números de lote para conversão xltx em VB.NET, Asp.NET ou qualquer aplicativo baseado em .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

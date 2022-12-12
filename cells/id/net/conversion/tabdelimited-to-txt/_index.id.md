@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan TABDELIMITED ke TXT melalui C#
-url: /id/net/conversion/tabdelimited-to-txt/
+
 description: Contoh kode untuk tabdelimited to txt C# konversi. Gunakan API kode contoh untuk berkas tabdelimited batch ke konversi txt dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

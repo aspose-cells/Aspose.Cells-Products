@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj XLT na CSV za pomocą aplikacji C++ 
-url: /pl/cpp/conversion/xlt-to-csv/ 
+
 description: Przykładowy kod konwersji C++ dla dokumentu XLT do formatu CSV. Programiści mogą używać tego kodu źródłowego do wsadowej konwersji XLT na CSV w dowolnej aplikacji C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

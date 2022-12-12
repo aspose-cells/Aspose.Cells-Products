@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLSB-documentdiagram via Java 
 weight: 670
-url: /nl/java/chart/xlsb/ 
+
 description: Java voorbeeldcode om een grafiek of diagram in XLSB-bestand te tekenen en om te zetten in Java Runtime-omgeving voor JSP/JSF-applicaties en desktopapplicaties.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

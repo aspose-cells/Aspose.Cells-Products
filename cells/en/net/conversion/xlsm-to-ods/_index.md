@@ -1,6 +1,6 @@
 ---
 title: Convert XLSM to ODS via C#
-url: /net/conversion/xlsm-to-ods/
+
 description: Convert XLSM to ODS format in C# code. Save XLSM as ODS using VB.NET, Asp.NET or any .NET based application.
 ---
 

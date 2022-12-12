@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python을(를) 통해 TABDELIMITED를 DOCX로 변환
-url: /ko/python-java/conversion/tabdelimited-to-docx/
+
 description: tabdelimited to docx Python 변환을 위한 샘플 코드입니다. Python 애플리케이션 내에서 탭으로 구분된 일괄 파일을 docx로 변환하는 API 예제 코드를 사용하십시오.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Объединить файлы XLT через Java 
 weight: 9960
-url: /ru/java/merger/xlt/ 
+
 description: Пример кода Java для объединения документов XLT в Java среде выполнения для приложений JSP/JSF и настольных приложений.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

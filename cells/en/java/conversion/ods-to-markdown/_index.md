@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to MARKDOWN via Java 
-url: /java/conversion/ods-to-markdown/
+
 description: Convert ODS to MARKDOWN format in Java code. Save ODS as MARKDOWN using Java.
 ---
 

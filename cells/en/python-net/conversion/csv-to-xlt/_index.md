@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to XLT via Python
-url: /python-net/conversion/csv-to-xlt/
+
 description: Sample code for csv to xlt Python conversion. Use API example code for batch csv files to xlt conversion within Python application.
 ---
 

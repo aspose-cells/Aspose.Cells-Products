@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET üzerinden XLSM belgesinin kilidini açın 
 weight: 9810
-url: /tr/net/unlock/xlsm/ 
+
 description: .NET Framework, .NET Core, Mono veya Xamarin Platformlarında parola korumalı XLSM dosyasının kilidini açmak için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

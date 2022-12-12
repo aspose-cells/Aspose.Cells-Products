@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل TSV إلى Byte Array عبر C# 
 weight: 7690
-url: /ar/net/conversion/tsv-to-byte-array/ 
+
 description: C# نموذج كود لتحويل TSV إلى صفيف البايت. استخدم هذا الرمز لتحويل Excel TSV إلى صفيف البايت داخل VB .NET أو Asp .NET أو أي تطبيق يستند إلى .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

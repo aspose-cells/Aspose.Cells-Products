@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل MHTML إلى DIF عبر تطبيق C++ 
 weight: 5470
-url: /ar/cpp/conversion/mhtml-to-dif/ 
+
 description: نموذج لشفرة تحويل C++ لمستند MHTML إلى تنسيق DIF. يمكن للمبرمجين استخدام رمز المصدر هذا لتحويل MHTML إلى DIF الدفعي داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

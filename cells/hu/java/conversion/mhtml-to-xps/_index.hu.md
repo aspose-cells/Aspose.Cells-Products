@@ -1,7 +1,7 @@
-﻿---
+---
 title: "MHTML konvertálása XPS-re a következőn keresztül: Java "
 weight: 6220
-url: /hu/java/conversion/mhtml-to-xps/ 
+
 description: Minta Java konverziós kód MHTML formátumhoz XPS-fájllá. A programozók ezt a példakódot használhatják Excel és OpenOffice táblázatok XPS-re történő exportálására bármely web- vagy asztali Java alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

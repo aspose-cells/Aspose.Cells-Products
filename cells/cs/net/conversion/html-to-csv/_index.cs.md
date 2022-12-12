@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést HTML na CSV prostřednictvím C#
-url: /cs/net/conversion/html-to-csv/
+
 description: Ukázkový kód pro konverzi html na csv C#. Použijte API ukázkový kód pro dávkový převod html souborů na csv v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

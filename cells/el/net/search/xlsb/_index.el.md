@@ -1,7 +1,7 @@
-﻿---
+---
 title: Αναζήτηση εγγράφου XLSB χωρίς άνοιγμα μέσω .NET 
 weight: 8880
-url: /el/net/search/xlsb/ 
+
 description: C# πηγαίος κώδικας για αναζήτηση λέξεων με μοτίβο σε αρχείο XLSB σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

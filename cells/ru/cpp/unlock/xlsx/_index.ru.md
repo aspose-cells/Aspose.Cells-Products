@@ -1,7 +1,7 @@
-﻿---
+---
 title: Разблокировать документ XLSX через C++ 
 weight: 3680
-url: /ru/cpp/unlock/xlsx/ 
+
 description: Пример кода C++ для разблокировки защищенного паролем файла XLSX в C++ среде выполнения для 32-разрядной, 64-разрядной Windows и 64-разрядной версии Linux.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

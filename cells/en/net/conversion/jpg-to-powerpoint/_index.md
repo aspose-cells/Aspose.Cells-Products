@@ -1,6 +1,6 @@
 ---
 title: Convert JPG to POWERPOINT via C#
-url: /net/conversion/jpg-to-powerpoint/
+
 description: Convert JPG to POWERPOINT format in C# code. Save JPG as POWERPOINT using VB.NET, Asp.NET or any .NET based application.
 ---
 

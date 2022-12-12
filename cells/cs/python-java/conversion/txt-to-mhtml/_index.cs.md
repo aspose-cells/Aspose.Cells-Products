@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TXT na MHTML přes Python
-url: /cs/python-java/conversion/txt-to-mhtml/
+
 description: Ukázkový kód pro převod txt na mhtml Python. Použijte API ukázkový kód pro dávkový převod souborů txt na mhtml v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

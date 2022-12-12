@@ -1,6 +1,6 @@
-﻿---
+---
 title: Twórz wykresy liniowe za pomocą C# 
-url: /pl/net/create-line-chart/ 
+
 description: C# Przykładowy kod do tworzenia wykresów liniowych w programie Excel przy użyciu biblioteki .NET. Użyj tego kodu, aby utworzyć wykres liniowy do MS Excel w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

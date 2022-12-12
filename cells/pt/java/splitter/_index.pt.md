@@ -1,6 +1,6 @@
-﻿---
+---
 title: Dividir planilha do Excel em planilhas em Java
-url: /pt/java/splitter/
+
 description: Java códigos-fonte que explicam como dividir arquivos do Microsoft Excel em vários documentos usando a Java biblioteca do Excel
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

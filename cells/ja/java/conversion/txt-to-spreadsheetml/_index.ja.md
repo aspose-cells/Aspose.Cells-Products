@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してTXTをSPREADSHEETMLに変換します 
-url: /ja/java/conversion/txt-to-spreadsheetml/ 
+
 description: TXT形式からSPREADSHEETMLファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のSPREADSHEETMLにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

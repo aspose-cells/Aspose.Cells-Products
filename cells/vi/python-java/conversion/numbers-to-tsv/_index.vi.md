@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi NUMBERS thành TSV qua Python
-url: /vi/python-java/conversion/numbers-to-tsv/
+
 description: Mã mẫu cho chuyển đổi số thành tsv Python. Sử dụng mã mẫu API cho các tệp số lô để chuyển đổi tsv trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

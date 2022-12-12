@@ -1,7 +1,7 @@
-﻿---
+---
 title: Поиск документа ODS без открытия через Java 
 weight: 8140
-url: /ru/java/search/ods/ 
+
 description: Пример кода Java для поиска слов с шаблоном в файле ODS в Java среде выполнения для приложений JSP/JSF и настольных приложений.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: تصدير تقارير RDL إلى Excel XLS XLSX و SpreadsheetML في SQL Server 
 weight: 3460
-url: /ar/reporting-services/ 
+
 description: ملحق تقديم خدمات تقارير SQL Server - تصدير تنسيقات Excel XLS XLSX XLSM XLSB CSV SpreadsheetML HTML ODS و TXT
 ---
 {{< blocks/products/pf/main-wrap-class >}}

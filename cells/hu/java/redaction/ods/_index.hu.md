@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Szöveg keresése és cseréje az ODS-dokumentumban a következőn keresztül: Java "
 weight: 9210
-url: /hu/java/redaction/ods/ 
+
 description: Java mintakód az ODS-fájl érzékeny információinak törléséhez a Java Runtime Environment for JSP/JSF Applications and Desktop Applications webhelyen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

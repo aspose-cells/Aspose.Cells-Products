@@ -1,6 +1,6 @@
-﻿---
+---
 title: XLSM'yi C# aracılığıyla PDF'ye dönüştürün
-url: /tr/net/conversion/xlsm-to-pdf/
+
 description: xlsm'den pdf'ye C# dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu xlsm dosyalarını pdf'ye dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

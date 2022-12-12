@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 Python 將 NUMBERS 轉換為 XLSX
-url: /zh-hant/python-java/conversion/numbers-to-xlsx/
+
 description: 數字到 xlsx Python 轉換的示例代碼。在 Python 應用程序中使用 API 示例代碼將批號文件轉換為 xlsx。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

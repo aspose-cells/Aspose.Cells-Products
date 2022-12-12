@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLT-t SVG-vé a C++ alkalmazással 
-url: /hu/cpp/conversion/xlt-to-svg/ 
+
 description: Minta C++ konverziós kód XLT-dokumentumhoz SVG formátumba. A programozók ezt a forráskódot használhatják kötegelt XLT-ből SVG-vé konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

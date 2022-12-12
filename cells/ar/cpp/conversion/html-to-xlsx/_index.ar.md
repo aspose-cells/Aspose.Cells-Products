@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل HTML إلى XLSX عبر تطبيق C++ 
 weight: 9770
-url: /ar/cpp/conversion/html-to-xlsx/ 
+
 description: نموذج C++ رمز تحويل لمستند HTML إلى تنسيق XLSX. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل دفعة HTML إلى XLSX داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

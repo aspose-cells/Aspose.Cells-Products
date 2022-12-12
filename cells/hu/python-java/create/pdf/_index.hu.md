@@ -1,6 +1,6 @@
-﻿---
+---
 title: "PDF-fájlok létrehozása a következőn keresztül: Python "
-url: /hu/python-java/create-pdf/ 
+
 description: Python Mintakód PDF dokumentumok generálásához. Használja ezt a kódot PDF-fájlok létrehozásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

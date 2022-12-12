@@ -1,6 +1,6 @@
 ---
 title: Create MS Excel XLSM Files via C++ 
-url: /cpp/create-xlsm/ 
+
 description: Create XLSM files in C++ code. Generate MS Excel XLSM files using C++ application.
 ---
 

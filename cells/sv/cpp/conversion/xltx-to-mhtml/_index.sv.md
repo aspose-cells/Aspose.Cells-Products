@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera XLTX till MHTML via programmet C++ 
-url: /sv/cpp/conversion/xltx-to-mhtml/ 
+
 description: Exempel C++-konverteringskod för XLTX-dokument till MHTML-format. Programmerare kan använda den här källkoden för batchkonvertering av XLTX till MHTML inom alla C++-program.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

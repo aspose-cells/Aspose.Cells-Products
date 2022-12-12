@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή NUMBERS σε XPS μέσω Python
-url: /el/python-java/conversion/numbers-to-xps/
+
 description: Δείγμα κώδικα για μετατροπή αριθμών σε xps Python. Χρησιμοποιήστε API παράδειγμα κώδικα για μετατροπή ομαδικών αριθμών αρχείων σε xps εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

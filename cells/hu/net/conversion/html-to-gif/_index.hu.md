@@ -1,6 +1,6 @@
-﻿---
+---
 title: "HTML konvertálása GIF formátumba a következőn keresztül: C#"
-url: /hu/net/conversion/html-to-gif/
+
 description: Mintakód a html-ből gif-be való C# konverzióhoz. Használjon API példakódot kötegelt html-fájlokhoz a gif-konverzióhoz VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

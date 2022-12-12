@@ -1,6 +1,6 @@
-﻿---
+---
 title: MHTML को JSON में C# के माध्यम से कनवर्ट करें
-url: /hi/net/conversion/mhtml-to-json/
+
 description: mhtml से json C# रूपांतरण के लिए नमूना कोड। VB.NET, Asp.NET या किसी .NET आधारित एप्लिकेशन में बैच mhtml फ़ाइलों से json रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

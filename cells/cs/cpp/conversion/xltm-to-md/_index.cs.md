@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte XLTM na MD pomocí aplikace C++ 
-url: /cs/cpp/conversion/xltm-to-md/ 
+
 description: Ukázka převodního kódu C++ pro dokument XLTM na formát MD. Programátoři mohou použít tento zdrojový kód pro dávkovou konverzi XLTM na MD v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

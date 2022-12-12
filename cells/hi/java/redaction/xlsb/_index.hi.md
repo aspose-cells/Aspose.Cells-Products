@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLSB दस्तावेज़ में Java के माध्यम से टेक्स्ट खोजें और बदलें 
 weight: 4590
-url: /hi/java/redaction/xlsb/ 
+
 description: Java जेएसपी/जेएसएफ एप्लिकेशन और डेस्कटॉप एप्लिकेशन के लिए Java रनटाइम एनवायरनमेंट पर XLSB फ़ाइल में संवेदनशील जानकारी को संशोधित करने के लिए नमूना कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

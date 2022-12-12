@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLT konvertálása TXT-re a következőn keresztül: Java "
 weight: 2710
-url: /hu/java/conversion/xlt-to-txt/ 
+
 description: Minta Java konverziós kód az XLT formátumhoz TXT fájllá. A programozók ezt a példakódot használhatják Excel- és OpenOffice-táblázatok exportálására TXT-be bármely web- vagy asztali Java-alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

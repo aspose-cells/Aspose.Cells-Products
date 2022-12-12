@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してFODSをTSVに変換します 
-url: /ja/java/conversion/fods-to-tsv/ 
+
 description: FODS形式からTSVファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のTSVにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

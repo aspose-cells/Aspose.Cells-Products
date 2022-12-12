@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLSX-et XLAM-re a(z) C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/xlsx-to-xlam/ 
+
 description: Minta C++ konverziós kód XLSX dokumentumhoz XLAM formátumba. A programozók ezt a forráskódot használhatják kötegelt XLSX-XLAM konvertáláshoz bármely C++ alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

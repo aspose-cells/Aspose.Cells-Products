@@ -1,7 +1,7 @@
-﻿---
+---
 title: Chránit a uzamknout dokument XLSX prostřednictvím .NET 
 weight: 90
-url: /cs/net/protect/xlsx/ 
+
 description: C# zdrojový kód pro uzamčení souboru XLSX pomocí hesla na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

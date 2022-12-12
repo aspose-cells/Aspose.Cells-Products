@@ -1,7 +1,7 @@
-﻿---
+---
 title: فتح مستند XLSB عبر .NET 
 weight: 6410
-url: /ar/net/unlock/xlsb/ 
+
 description: C# شفرة المصدر لإلغاء تأمين ملف XLSB المحمي بكلمة مرور على .NET Framework أو .NET Core أو Mono أو أنظمة Xamarin الأساسية.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

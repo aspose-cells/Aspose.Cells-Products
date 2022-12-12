@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển NUMBERS thành MARKDOWN qua C#
-url: /vi/net/conversion/numbers-to-markdown/
+
 description: Mã mẫu cho các số để đánh dấu chuyển đổi C#. Sử dụng mã mẫu API cho các tệp số lô để đánh dấu chuyển đổi trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

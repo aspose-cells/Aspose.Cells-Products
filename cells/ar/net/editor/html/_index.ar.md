@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحرير ملفات HTML عبر .NET 
-url: /ar/net/editor/html/ 
+
 description: C# شفرة المصدر لتعديل مستند HTML على الأنظمة الأساسية .NET Framework أو .NET Core أو Windows Azure Mono أو Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

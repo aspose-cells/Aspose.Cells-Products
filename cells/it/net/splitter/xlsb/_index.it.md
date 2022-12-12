@@ -1,7 +1,7 @@
-﻿---
+---
 title: Dividi i file XLSB tramite .NET 
 weight: 7370
-url: /it/net/splitter/xlsb/ 
+
 description: C# codice sorgente per dividere i documenti XLSB su piattaforme .NET Framework, .NET Core, Mono o Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

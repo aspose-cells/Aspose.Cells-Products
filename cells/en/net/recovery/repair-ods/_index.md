@@ -1,6 +1,6 @@
 ---
 title: Repair ods file via .NET
-url: /net/recovery/repair-ods/ 
+
 description: Repair a corrupt ods file using C#. Recovery tool to repair corrupted ods file within .NET application.
 ---
 

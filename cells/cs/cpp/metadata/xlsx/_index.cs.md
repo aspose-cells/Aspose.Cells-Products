@@ -1,7 +1,7 @@
-﻿---
+---
 title: Upravit nebo zobrazit metadata dokumentu XLSX prostřednictvím C++ 
 weight: 8970
-url: /cs/cpp/metadata/xlsx/ 
+
 description: C++ ukázkový kód pro úpravu nebo zobrazení metadat souboru XLSX v C++ Runtime Environment pro Windows 32bitový, Windows 64bitový a Linux 64bitový.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera SPREADSHEETML till TSV via applikationen C++ 
-url: /sv/cpp/conversion/spreadsheetml-to-tsv/ 
+
 description: Exempel på konverteringskod för C++ för SPREADSHEETML-dokument till TSV-format. Programmerare kan använda den här källkoden för batchkonvertering av SPREADSHEETML till TSV inom vilken som helst C++-applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

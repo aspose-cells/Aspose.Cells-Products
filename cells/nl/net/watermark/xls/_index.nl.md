@@ -1,7 +1,7 @@
-﻿---
+---
 title: Watermerk XLS-document via .NET 
 weight: 3050
-url: /nl/net/watermark/xls/ 
+
 description: C# broncode om watermerk aan XLS-bestand toe te voegen of te verwijderen op .NET Framework, .NET Core, Mono of Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

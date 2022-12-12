@@ -1,7 +1,7 @@
 ---
 title: Insert ActiveX Control into Excel via Python 
 weight: 10
-url: /python-java/developer/insert-activex-control-to-excel/ 
+
 description: Python source code to insert ActiveX Control into Excel.
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLS-dokumentum keresése megnyitás nélkül a következőn keresztül: .NET "
 weight: 1490
-url: /hu/net/search/xls/ 
+
 description: C# forráskód, hogy XLS-fájlban mintával rendelkező szavakat keressen a .NET Framework, a .NET Core, a Mono vagy a Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

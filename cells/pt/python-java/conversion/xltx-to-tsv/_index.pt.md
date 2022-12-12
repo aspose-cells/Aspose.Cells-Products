@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter XLTX para TSV via Python
-url: /pt/python-java/conversion/xltx-to-tsv/
+
 description: Código de exemplo para conversão de xltx para tsv Python. Use API código de exemplo para arquivos xltx em lote para conversão tsv no aplicativo Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

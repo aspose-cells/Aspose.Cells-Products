@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to JSON via Python
-url: /python-net/conversion/sxc-to-json/
+
 description: Sample code for sxc to json Python conversion. Use API example code for batch sxc files to json conversion within Python application.
 ---
 

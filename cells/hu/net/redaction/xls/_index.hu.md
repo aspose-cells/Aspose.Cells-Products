@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Szöveg keresése és cseréje XLS-dokumentumban a következőn keresztül: .NET "
 weight: 7280
-url: /hu/net/redaction/xls/ 
+
 description: C# forráskód az XLS-fájl érzékeny információinak törléséhez a .NET Framework, .NET Core, Mono vagy Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

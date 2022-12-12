@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Szöveg és képek kinyerése XLS-dokumentumból a következőn keresztül: .NET "
 weight: 5600
-url: /hu/net/parser/xls/ 
+
 description: C# forráskód a szövegek és képek XLS-fájlból való kinyeréséhez .NET Framework, .NET Core, Mono vagy Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل SPREADSHEETML إلى TXT عبر Python
-url: /ar/python-java/conversion/spreadsheetml-to-txt/
+
 description: نموذج كود لتحويل جدول البيانات إلى txt Python. استخدم API رمز المثال لملفات جداول البيانات الدفعية لتحويل txt داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

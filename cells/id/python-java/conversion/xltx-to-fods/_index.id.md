@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan XLTX ke FODS melalui Python
-url: /id/python-java/conversion/xltx-to-fods/
+
 description: Contoh kode untuk konversi xltx ke fods Python. Gunakan API kode contoh untuk file batch xltx ke konversi makanan dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

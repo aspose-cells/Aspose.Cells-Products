@@ -1,7 +1,7 @@
-﻿---
+---
 title: Zobrazit formáty souborů XLTX prostřednictvím .NET 
 weight: 7870
-url: /cs/net/viewer/xltx/ 
+
 description: C# zdrojový kód pro načítání, vykreslování a zobrazování dokumentů XLTX na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

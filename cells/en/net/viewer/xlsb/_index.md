@@ -1,7 +1,7 @@
 ---
 title: View XLSB File Formats via .NET 
 weight: 6260
-url: /net/viewer/xlsb/ 
+
 description: C# source code to load, render and display XLSB documents on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

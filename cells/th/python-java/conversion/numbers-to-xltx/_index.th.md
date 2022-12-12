@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง NUMBERS เป็น XLTX ผ่าน Python
-url: /th/python-java/conversion/numbers-to-xltx/
+
 description: โค้ดตัวอย่างสำหรับการแปลงตัวเลขเป็น xltx Python ใช้โค้ดตัวอย่าง API สำหรับไฟล์หมายเลขแบทช์เป็นการแปลง xltx ภายในแอปพลิเคชัน Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

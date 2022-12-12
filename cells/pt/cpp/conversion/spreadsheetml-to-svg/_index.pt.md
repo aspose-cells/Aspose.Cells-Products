@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter SPREADSHEETML para SVG por meio do aplicativo C++ 
-url: /pt/cpp/conversion/spreadsheetml-to-svg/ 
+
 description: Exemplo de código de conversão C++ do documento SPREADSHEETML para o formato SVG. Os programadores podem usar esse código-fonte para conversão em lote de SPREADSHEETML para SVG em qualquer aplicativo C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

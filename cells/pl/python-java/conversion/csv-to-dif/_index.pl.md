@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj CSV na DIF przez Python
-url: /pl/python-java/conversion/csv-to-dif/
+
 description: Przykładowy kod konwersji csv do różnic Python. Użyj przykładowego kodu API dla wsadowych plików csv do konwersji różnic w Python aplikacji.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

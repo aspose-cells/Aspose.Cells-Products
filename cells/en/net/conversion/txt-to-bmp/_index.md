@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to BMP via C#
-url: /net/conversion/txt-to-bmp/
+
 description: Convert TXT to BMP format in C# code. Save TXT as BMP using VB.NET, Asp.NET or any .NET based application.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi TSV sang SVG qua C#
-url: /vi/net/conversion/tsv-to-svg/
+
 description: Mã mẫu cho chuyển đổi tsv sang svg C#. Sử dụng API mã mẫu cho các tệp tsv hàng loạt để chuyển đổi svg trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

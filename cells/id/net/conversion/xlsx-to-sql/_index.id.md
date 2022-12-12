@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi XLSX ke SQL melalui C#
-url: /id/net/conversion/xlsx-to-sql/
+
 description: Contoh kode untuk konversi xlsx ke sql C#. Gunakan API kode contoh untuk file batch xlsx ke konversi sql dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

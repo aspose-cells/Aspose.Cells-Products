@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertieren Sie ODS in HTML über Java 
 weight: 1560
-url: /de/java/conversion/ods-to-html/ 
+
 description: Beispiel-Umwandlungscode Java für das ODS-Format in eine HTML-Datei. Programmierer können diesen Beispielcode verwenden, um Excel- und OpenOffice-Tabellen in HTML innerhalb jeder Web- oder Desktop-Java-basierten Anwendung zu exportieren.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

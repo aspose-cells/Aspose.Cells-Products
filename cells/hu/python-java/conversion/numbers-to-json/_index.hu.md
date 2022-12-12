@@ -1,6 +1,6 @@
-﻿---
+---
 title: "NUMBERS konvertálása JSON-ra a következőn keresztül: Python"
-url: /hu/python-java/conversion/numbers-to-json/
+
 description: Mintakód számok json Python konverziójához. Használjon API példakódot a kötegszámfájlokhoz JSON-konverzióhoz a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

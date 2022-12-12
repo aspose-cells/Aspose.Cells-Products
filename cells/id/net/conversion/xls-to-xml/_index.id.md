@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi XLS ke XML melalui C#
-url: /id/net/conversion/xls-to-xml/
+
 description: Contoh kode untuk xls ke xml C# konversi. Gunakan API kode contoh untuk file batch xls ke konversi xml dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

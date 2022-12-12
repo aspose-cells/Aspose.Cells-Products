@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# के माध्यम से CSV को BMP में बदलें
-url: /hi/net/conversion/csv-to-bmp/
+
 description: सीएसवी से बीएमपी C# रूपांतरण के लिए नमूना कोड। वीबी.NET, एएसपी.NET या किसी भी .NET आधारित एप्लिकेशन के भीतर बीएमपी रूपांतरण के लिए बैच सीएसवी फाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

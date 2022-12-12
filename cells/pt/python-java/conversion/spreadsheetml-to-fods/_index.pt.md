@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter SPREADSHEETML para FODS via Python
-url: /pt/python-java/conversion/spreadsheetml-to-fods/
+
 description: Código de exemplo para planilhaml para conversão de fods Python. Use API código de exemplo para arquivos de planilhaml em lote para conversão de fods no aplicativo Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

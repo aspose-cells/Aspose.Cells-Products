@@ -1,7 +1,7 @@
-﻿---
+---
 title: Μετατροπή XLSM σε TIFF μέσω Java 
 weight: 3950
-url: /el/java/conversion/xlsm-to-tiff/ 
+
 description: Δείγμα κώδικα μετατροπής Java για μορφή XLSM σε αρχείο TIFF. Οι προγραμματιστές μπορούν να χρησιμοποιήσουν αυτό το παράδειγμα κώδικα για να εξάγουν υπολογιστικά φύλλα Excel και OpenOffice σε TIFF εντός οποιασδήποτε εφαρμογής που βασίζεται στον Ιστό ή στην επιφάνεια εργασίας Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

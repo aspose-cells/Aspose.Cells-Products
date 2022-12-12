@@ -1,6 +1,6 @@
-﻿---
+---
 title: "ODS konvertálása XLAM-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/ods-to-xlam/
+
 description: Mintakód az ods–xlam Python konverzióhoz. Használjon API példakódot kötegelt ods-fájlokhoz az xlam-konverzióhoz a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

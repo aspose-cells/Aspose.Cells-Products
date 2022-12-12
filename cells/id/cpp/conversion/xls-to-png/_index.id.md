@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversi XLS ke PNG melalui C++ aplikasi 
 weight: 80
-url: /id/cpp/conversion/xls-to-png/ 
+
 description: Contoh C++ kode konversi untuk dokumen XLS ke format PNG. Pemrogram dapat menggunakan kode sumber ini untuk konversi batch XLS ke PNG dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

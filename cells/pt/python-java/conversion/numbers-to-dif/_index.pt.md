@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter NUMBERS para DIF via Python
-url: /pt/python-java/conversion/numbers-to-dif/
+
 description: Código de amostra para conversão de números para Python dif. Use o código de exemplo API para arquivos de números de lote para conversão diferente no aplicativo Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

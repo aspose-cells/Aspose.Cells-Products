@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java के माध्यम से XLSM फ़ाइलें मर्ज करें 
 weight: 1270
-url: /hi/java/merger/xlsm/ 
+
 description: Java JSP/JSF अनुप्रयोग और डेस्कटॉप अनुप्रयोगों के लिए रनटाइम परिवेश पर XLSM दस्तावेज़ों को संयोजित करने के लिए Java नमूना कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

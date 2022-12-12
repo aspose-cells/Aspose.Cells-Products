@@ -1,6 +1,6 @@
-﻿---
+---
 title: Scal pliki TSV przez C++ 
-url: /pl/cpp/merger/tsv/ 
+
 description: C++ przykładowy kod do łączenia dokumentów TSV w C++ środowisku wykonawczym dla 32-bitowego systemu Windows, 64-bitowego systemu Windows i 64-bitowego systemu Linux.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

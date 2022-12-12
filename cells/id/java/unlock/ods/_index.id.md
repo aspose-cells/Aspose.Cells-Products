@@ -1,7 +1,7 @@
-﻿---
+---
 title: Buka kunci dokumen ODS melalui Java 
 weight: 5080
-url: /id/java/unlock/ods/ 
+
 description: Java kode contoh untuk membuka kunci file ODS yang dilindungi sandi di Java Lingkungan Waktu Proses untuk Aplikasi JSP/JSF dan Aplikasi Desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

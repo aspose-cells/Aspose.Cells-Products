@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++ uygulaması aracılığıyla CSV'yi TABDELIMITED'e dönüştürün 
-url: /tr/cpp/conversion/csv-to-tabdelimited/ 
+
 description: CSV belgesi için TABDELIMITED biçimine örnek C++ dönüştürme kodu. Programcılar, herhangi bir C++ Uygulamasında toplu CSV'den TABDELIMITED'e dönüştürme için bu kaynak kodunu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

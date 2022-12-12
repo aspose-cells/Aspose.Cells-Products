@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converter ODS para MHTML por meio do aplicativo C++ 
 weight: 1750
-url: /pt/cpp/conversion/ods-to-mhtml/ 
+
 description: Exemplo de código de conversão C++ de documento ODS para formato MHTML. Os programadores podem usar esse código-fonte para conversão de ODS em lote para MHTML em qualquer aplicativo C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

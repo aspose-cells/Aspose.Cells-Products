@@ -1,7 +1,7 @@
-﻿---
+---
 title: Aplikacja konwertera arkuszy kalkulacyjnych programu SharePoint Excel — Aspose 
 weight: 940
-url: /pl/sharepoint/ 
+
 description: Aspose.Cells dla aplikacji SharePoint to konwerter arkuszy kalkulacyjnych programu SharePoint Excel. Eksportuj XLS XLSX XML CSV PDF ODS &amp; Formaty HTML w MOSS WSS
 ---
 {{< blocks/products/pf/main-wrap-class >}}

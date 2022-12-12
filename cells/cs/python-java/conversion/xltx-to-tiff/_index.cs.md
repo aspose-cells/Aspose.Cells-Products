@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLTX na TIFF přes Python
-url: /cs/python-java/conversion/xltx-to-tiff/
+
 description: Ukázkový kód pro převod xltx na tiff Python. Použijte API ukázkový kód pro dávkové soubory xltx k převodu tiff v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

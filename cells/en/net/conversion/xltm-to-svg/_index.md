@@ -1,6 +1,6 @@
 ---
 title: Convert XLTM to SVG via C#
-url: /net/conversion/xltm-to-svg/
+
 description: Convert XLTM to SVG format in C# code. Save XLTM as SVG using VB.NET, Asp.NET or any .NET based application.
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++을(를) 통해 XLS 문서에서 텍스트 검색 및 바꾸기 
 weight: 380
-url: /ko/cpp/redaction/xls/ 
+
 description: C++ Windows 32비트, Windows 64비트 및 Linux 64비트용 C++ 런타임 환경에서 XLS 파일의 민감한 정보를 수정하는 예제 코드.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

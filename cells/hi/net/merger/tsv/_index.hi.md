@@ -1,7 +1,7 @@
-﻿---
+---
 title: TSV फ़ाइलें .NET के द्वारा मर्ज करें 
 weight: 1360
-url: /hi/net/merger/tsv/ 
+
 description: C# TSV दस्तावेज़ों को .NET Framework, .NET Core, Mono या Xamarin प्लेटफ़ॉर्म पर संयोजित करने के लिए स्रोत कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "FODS konvertálása GIF-re a következőn keresztül: Java "
-url: /hu/java/conversion/fods-to-gif/ 
+
 description: Minta Java konverziós kód FODS-formátumhoz GIF-fájllá. A programozók ezt a példakódot használhatják Excel és OpenOffice táblázatok exportálására GIF formátumba bármely web- vagy asztali Java alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

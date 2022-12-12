@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLTM в XML через Python
-url: /ru/python-java/conversion/xltm-to-xml/
+
 description: Пример кода для преобразования xltm в xml Python. Используйте пример кода API для пакетного преобразования файлов xltm в xml в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

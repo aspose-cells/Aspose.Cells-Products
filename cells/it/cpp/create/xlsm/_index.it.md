@@ -1,6 +1,6 @@
-﻿---
+---
 title: Crea file XLSM di MS Excel tramite C++ 
-url: /it/cpp/create-xlsm/ 
+
 description: C++ Codice di esempio per la generazione di file XLSM di MS Excel. Utilizzare questo codice per creare file XLSM di MS Excel all'interno di un'applicazione basata su C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

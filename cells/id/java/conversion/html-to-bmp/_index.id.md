@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversi HTML ke BMP melalui Java 
 weight: 740
-url: /id/java/conversion/html-to-bmp/ 
+
 description: Contoh Java kode konversi untuk format HTML ke file BMP. Pemrogram dapat menggunakan kode contoh ini untuk mengekspor spreadsheet Excel & OpenOffice ke BMP dalam Aplikasi berbasis Web atau Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

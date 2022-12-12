@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést TSV na PNG prostřednictvím Java 
 weight: 9740
-url: /cs/java/conversion/tsv-to-png/ 
+
 description: Ukázka převodního kódu Java pro formát TSV na soubor PNG. Programátoři mohou tento příklad kódu použít k exportu tabulek Excelu a OpenOffice do formátu PNG v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

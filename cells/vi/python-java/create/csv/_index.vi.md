@@ -1,6 +1,6 @@
-﻿---
+---
 title: Tạo Tệp CSV qua Python 
-url: /vi/python-java/create-csv/ 
+
 description: Python Mã mẫu để tạo tài liệu CSV. Sử dụng mã này để tạo tệp CSV trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

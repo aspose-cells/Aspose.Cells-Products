@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してXLSをHTMLに変換する 
 weight: 6290
-url: /ja/java/conversion/xls-to-html/ 
+
 description: XLS形式からHTMLファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、WebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをHTMLにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通过 Java 将 CSV 转换为 XLTX 
 weight: 4680
-url: /zh/java/conversion/csv-to-xltx/ 
+
 description: CSV 格式到 XLTX 文件的示例 Java 转换代码。程序员可以使用此示例代码将 Excel 和 OpenOffice 电子表格导出到任何基于 Web 或桌面 Java 的应用程序中的 XLTX。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

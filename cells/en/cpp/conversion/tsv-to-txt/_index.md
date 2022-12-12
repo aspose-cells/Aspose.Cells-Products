@@ -1,6 +1,6 @@
 ---
 title: Convert TSV to TXT via C++
-url: /cpp/conversion/tsv-to-txt/
+
 description: Convert TSV to TXT format in C++ code. Save TSV as TXT using C++.
 ---
 

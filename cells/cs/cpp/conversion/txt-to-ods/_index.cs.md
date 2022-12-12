@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte TXT na ODS pomocí aplikace C++ 
-url: /cs/cpp/conversion/txt-to-ods/ 
+
 description: Ukázka převodního kódu C++ pro dokument TXT na formát ODS. Programátoři mohou použít tento zdrojový kód pro dávkovou konverzi TXT na ODS v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

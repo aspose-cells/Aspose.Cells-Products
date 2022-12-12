@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta SPREADSHEETML a CSV a través de C#
-url: /es/net/conversion/spreadsheetml-to-csv/
+
 description: Código de muestra para la conversión de hoja de cálculo a csv C#. Utilice el código de ejemplo API para la conversión por lotes de archivos de hoja de cálculo ml a csv dentro de VB.NET, Asp.NET o cualquier aplicación basada en .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

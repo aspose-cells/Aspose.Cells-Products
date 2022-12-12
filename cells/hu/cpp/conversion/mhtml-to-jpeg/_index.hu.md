@@ -1,7 +1,7 @@
-﻿---
+---
 title: MHTML konvertálása JPEG formátumba a(z) C++ alkalmazással 
 weight: 820
-url: /hu/cpp/conversion/mhtml-to-jpeg/ 
+
 description: Minta C++ konverziós kód MHTML dokumentumhoz JPEG formátumba. A programozók ezt a forráskódot használhatják MHTML-ből JPEG-be kötegelt konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

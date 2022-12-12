@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla HTML'yi XPS'ye dönüştürün
-url: /tr/python-java/conversion/html-to-xps/
+
 description: Html'den xps'e Python dönüştürme için örnek kod. Python uygulamasında toplu html dosyalarından xps'e dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to FODS via Python
-url: /python-java/conversion/spreadsheetml-to-fods/
+
 description: Convert SPREADSHEETML to FODS format in Python code. Save SPREADSHEETML as FODS using Python.
 ---
 

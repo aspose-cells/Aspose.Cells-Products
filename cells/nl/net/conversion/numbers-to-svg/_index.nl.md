@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer NUMMERS naar SVG via C#
-url: /nl/net/conversion/numbers-to-svg/
+
 description: Voorbeeldcode voor conversie van getallen naar svg C#. Gebruik API voorbeeldcode voor batchnummerbestanden naar svg-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

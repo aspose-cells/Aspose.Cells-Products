@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj NUMBERS na XLSX przez Python
-url: /pl/python-java/conversion/numbers-to-xlsx/
+
 description: Przykładowy kod konwersji liczb do xlsx Python. Użyj przykładowego kodu API dla plików numerów partii do konwersji xlsx w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

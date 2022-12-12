@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLTX naar XPS via C++ applicatie 
-url: /nl/cpp/conversion/xltx-to-xps/ 
+
 description: Voorbeeld C++ conversiecode voor XLTX-document naar XPS-indeling. Programmeurs kunnen deze broncode gebruiken voor batch-conversie van XLTX naar XPS binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

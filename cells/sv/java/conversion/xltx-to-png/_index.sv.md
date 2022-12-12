@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertera XLTX till PNG via Java 
 weight: 190
-url: /sv/java/conversion/xltx-to-png/ 
+
 description: Exempel på Java-konverteringskod för XLTX-format till PNG-fil. Programmerare kan använda den här exempelkoden för att exportera Excel- och OpenOffice-kalkylblad till PNG inom alla webb- eller skrivbordsbaserade Java-applikationer.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést XLT na SVG přes Java 
 weight: 7200
-url: /cs/java/conversion/xlt-to-svg/ 
+
 description: Ukázkový konverzní kód Java pro formát XLT na soubor SVG. Programátoři mohou tento příklad kódu použít k exportu tabulek Excelu a OpenOffice do SVG v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

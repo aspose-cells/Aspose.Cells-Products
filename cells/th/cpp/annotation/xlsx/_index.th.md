@@ -1,7 +1,7 @@
-﻿---
+---
 title: เพิ่มคำอธิบายประกอบ XLSX ผ่าน C++ 
 weight: 5260
-url: /th/cpp/annotation/xlsx/ 
+
 description: C++ ตัวอย่างโค้ดเพื่อเพิ่มหรือลบคำอธิบายประกอบรูปแบบ XLSX บน C++ Runtime Environment สำหรับ Windows 32 บิต, Windows 64 บิต และ Linux 64 บิต
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

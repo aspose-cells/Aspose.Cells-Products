@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLTX-et EMF-re a(z) C++ alkalmazással 
-url: /hu/cpp/conversion/xltx-to-emf/ 
+
 description: Minta C++ konverziós kód az XLTX dokumentumhoz EMF formátumba. A programozók ezt a forráskódot használhatják az XLTX-ből EMF-be történő kötegelt konvertáláshoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

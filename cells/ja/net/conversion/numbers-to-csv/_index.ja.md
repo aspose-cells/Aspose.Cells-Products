@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してNUMBERSをCSVに変換します
-url: /ja/net/conversion/numbers-to-csv/
+
 description: 数値からcsvC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチ番号ファイルからcsvへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

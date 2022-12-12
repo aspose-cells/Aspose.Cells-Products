@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to XML via C++
-url: /cpp/conversion/txt-to-xml/
+
 description: Convert TXT to XML format in C++ code. Save TXT as XML using C++.
 ---
 

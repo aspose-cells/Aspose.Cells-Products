@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してTXTをJPEGに変換します 
 weight: 4930
-url: /ja/java/conversion/txt-to-jpeg/ 
+
 description: TXT形式からJPEGファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、任意のWebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをJPEGにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi SXC sang GIF qua Python
-url: /vi/python-java/conversion/sxc-to-gif/
+
 description: Mã mẫu cho chuyển đổi sxc sang gif Python. Sử dụng mã mẫu API cho hàng loạt tệp sxc thành chuyển đổi gif trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

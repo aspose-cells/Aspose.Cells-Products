@@ -1,6 +1,6 @@
 ---
 title: Merge XLSX to TSV Files via C++ 
-url: /cpp/merger/merge-xlsx-to-tsv/ 
+
 description: Merge XLSX to TSV file in C++ code. Combine XLSX to TSV file using C++.
 ---
 

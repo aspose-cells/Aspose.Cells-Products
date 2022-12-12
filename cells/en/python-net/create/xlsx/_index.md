@@ -1,6 +1,6 @@
 ---
 title: Create MS Excel XLSX Files via Python 
-url: /python-net/create-xlsx/ 
+
 description: Python Sample code for generating XLSX documents. Use this code for creating MS Excel XLSX files within Python application.
 ---
 

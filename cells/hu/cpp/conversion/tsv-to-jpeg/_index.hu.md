@@ -1,7 +1,7 @@
-﻿---
+---
 title: TSV konvertálása JPEG formátumba a C++ alkalmazáson keresztül 
 weight: 9870
-url: /hu/cpp/conversion/tsv-to-jpeg/ 
+
 description: Minta C++ konverziós kód a TSV-dokumentumhoz JPEG formátumba. A programozók ezt a forráskódot használhatják kötegelt TSV-ből JPEG-be konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to TIFF via C#
-url: /net/conversion/ods-to-tiff/
+
 description: Convert ODS to TIFF format in C# code. Save ODS as TIFF using VB.NET, Asp.NET or any .NET based application.
 ---
 

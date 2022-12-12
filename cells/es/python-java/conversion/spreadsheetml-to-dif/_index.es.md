@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta SPREADSHEETML a DIF a través de Python
-url: /es/python-java/conversion/spreadsheetml-to-dif/
+
 description: Código de muestra para la conversión de hoja de cálculo ml a dif Python. Utilice el código de ejemplo API para archivos de hoja de cálculo por lotes para diferenciar la conversión dentro de la aplicación Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: สร้างรายงานในไฟล์ XLSX ผ่าน .NET 
 weight: 6740
-url: /th/net/assembly/xlsx/ 
+
 description: C# ซอร์สโค้ดเพื่อสร้างรายงานรูปแบบ XLSX บน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

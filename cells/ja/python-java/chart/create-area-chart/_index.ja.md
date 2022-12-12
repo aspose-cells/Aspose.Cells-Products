@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してエリアチャートを作成する
-url: /ja/python-java/create-area-chart/
+
 description: PythonPythonライブラリを使用してExcelに面グラフを作成するためのサンプルコード。このコードを使用して、Pythonベースのアプリケーション内でMSExcelへの面グラフを作成します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

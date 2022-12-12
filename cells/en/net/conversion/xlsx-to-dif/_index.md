@@ -1,6 +1,6 @@
 ---
 title: Convert XLSX to DIF via C#
-url: /net/conversion/xlsx-to-dif/
+
 description: Convert XLSX to DIF format in C# code. Save XLSX as DIF using VB.NET, Asp.NET or any .NET based application.
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Sloučit soubory XLT přes .NET 
 weight: 1820
-url: /cs/net/merger/xlt/ 
+
 description: Zdrojový kód C# pro kombinaci dokumentů XLT na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

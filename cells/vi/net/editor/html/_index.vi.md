@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chỉnh sửa tệp HTML qua .NET 
-url: /vi/net/editor/html/ 
+
 description: C# mã nguồn để chỉnh sửa tài liệu HTML trên Nền tảng .NET Framework, .NET Core, Windows Azure, Mono hoặc Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

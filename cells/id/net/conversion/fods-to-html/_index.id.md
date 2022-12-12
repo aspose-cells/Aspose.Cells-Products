@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan FODS ke HTML melalui C#
-url: /id/net/conversion/fods-to-html/
+
 description: Contoh kode untuk konversi fods ke html C#. Gunakan API kode contoh untuk file batch fods ke konversi html dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

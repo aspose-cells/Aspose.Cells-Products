@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してNUMBERSをJPEGに変換します 
-url: /ja/java/conversion/numbers-to-jpeg/ 
+
 description: NUMBERS形式のJPEGファイルへのJava変換コードのサンプル。プログラマーは、このサンプルコードを使用して、任意のWebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをJPEGにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

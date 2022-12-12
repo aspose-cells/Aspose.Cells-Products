@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést CSV na TABDELIMITED přes Python
-url: /cs/python-java/conversion/csv-to-tabdelimited/
+
 description: Ukázkový kód pro převod csv na Python oddělený tabulátory. Použijte API ukázkový kód pro dávkový převod souborů csv na tabulátory v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

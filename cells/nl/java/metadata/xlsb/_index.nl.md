@@ -1,7 +1,7 @@
-﻿---
+---
 title: Metadata van XLSB-bestanden bewerken of bekijken via Java 
 weight: 7290
-url: /nl/java/metadata/xlsb/ 
+
 description: Java voorbeeldcode om metadata in XLSB-indeling te bewerken of te bekijken in Java Runtime Environment voor JSP/JSF-applicaties en desktopapplicaties.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

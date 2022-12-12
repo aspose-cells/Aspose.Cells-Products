@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte XLS na XLAM pomocí aplikace C++ 
-url: /cs/cpp/conversion/xls-to-xlam/ 
+
 description: Ukázkový konverzní kód C++ pro dokument XLS na formát XLAM. Programátoři mohou použít tento zdrojový kód pro dávkovou konverzi XLS na XLAM v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

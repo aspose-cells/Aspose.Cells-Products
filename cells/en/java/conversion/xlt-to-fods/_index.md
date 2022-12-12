@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to FODS via Java 
-url: /java/conversion/xlt-to-fods/
+
 description: Convert XLT to FODS format in Java code. Save XLT as FODS using Java.
 ---
 

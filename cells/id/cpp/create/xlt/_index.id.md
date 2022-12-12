@@ -1,6 +1,6 @@
-﻿---
+---
 title: Buat File MS Excel XLT melalui C++ 
-url: /id/cpp/create-xlt/ 
+
 description: C++ Contoh kode untuk menghasilkan file MS Excel XLT. Gunakan kode ini untuk membuat file MS Excel XLT dalam aplikasi berbasis C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Jelentések létrehozása XLSX-fájlokban a következőn keresztül: Java "
 weight: 7710
-url: /hu/java/assembly/xlsx/ 
+
 description: Java mintakód XLSX formátumú jelentések létrehozásához a Java futási környezet JSP/JSF alkalmazásokhoz és asztali alkalmazásokhoz.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

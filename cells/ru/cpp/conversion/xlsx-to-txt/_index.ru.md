@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLSX в TXT с помощью приложения C++ 
-url: /ru/cpp/conversion/xlsx-to-txt/ 
+
 description: Пример кода преобразования C++ для документа XLSX в формат TXT. Программисты могут использовать этот исходный код для пакетного преобразования XLSX в TXT в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

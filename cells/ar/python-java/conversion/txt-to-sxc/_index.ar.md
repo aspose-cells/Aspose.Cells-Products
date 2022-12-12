@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TXT إلى SXC عبر Python
-url: /ar/python-java/conversion/txt-to-sxc/
+
 description: نموذج كود للتحويل من TXT إلى sxc Python. استخدم API رمز المثال لملفات txt الدفعية لتحويل sxc داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

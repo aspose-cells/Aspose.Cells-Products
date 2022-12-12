@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLT в FODS через C#
-url: /ru/net/conversion/xlt-to-fods/
+
 description: Пример кода для преобразования xlt в fods C#. Используйте пример кода API для пакетного преобразования файлов xlt в fods в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

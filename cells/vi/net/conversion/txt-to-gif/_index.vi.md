@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi TXT thành GIF qua C#
-url: /vi/net/conversion/txt-to-gif/
+
 description: Mã mẫu cho chuyển đổi txt sang gif C#. Sử dụng API mã mẫu cho các tệp txt hàng loạt sang chuyển đổi gif trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

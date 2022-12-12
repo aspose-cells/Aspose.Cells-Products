@@ -1,7 +1,7 @@
-﻿---
+---
 title: Извлечение текста и изображений из документа XLSM с помощью .NET 
 weight: 4010
-url: /ru/net/parser/xlsm/ 
+
 description: Исходный код C# для извлечения текста и изображений из файла XLSM на платформах .NET Framework, .NET Core, Mono или Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

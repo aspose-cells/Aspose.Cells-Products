@@ -1,6 +1,6 @@
 ---
 title: Create Excel Files via Java
-url: /java/assembly/
+
 description: Generate Microsoft Excel spreadsheets from a template sheet using Java spreadsheet library
 ---
 

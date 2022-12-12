@@ -1,6 +1,6 @@
-﻿---
+---
 title: Modifica i file XLTM tramite .NET 
-url: /it/net/editor/xltm/ 
+
 description: C# codice sorgente per modificare il documento XLTM su piattaforme .NET Framework, .NET Core, Windows Azure, Mono o Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

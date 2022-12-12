@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to XLTM via Python
-url: /python-java/conversion/numbers-to-xltm/
+
 description: Convert NUMBERS to XLTM format in Python code. Save NUMBERS as XLTM using Python.
 ---
 

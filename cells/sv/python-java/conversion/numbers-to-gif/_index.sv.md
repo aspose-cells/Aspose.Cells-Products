@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera NUMBERS till GIF via Python
-url: /sv/python-java/conversion/numbers-to-gif/
+
 description: Exempelkod för konvertering av tal till gif Python. Använd API exempelkod för batchnummerfiler till gif-konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

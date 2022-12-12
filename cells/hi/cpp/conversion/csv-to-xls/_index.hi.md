@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ एप्लिकेशन के द्वारा CSV को XLS में बदलें 
 weight: 1460
-url: /hi/cpp/conversion/csv-to-xls/ 
+
 description: सीएसवी दस्तावेज़ के लिए एक्सएलएस प्रारूप में नमूना C++ रूपांतरण कोड। प्रोग्रामर इस स्रोत कोड का उपयोग किसी भी C++ एप्लिकेशन में CSV से XLS रूपांतरण के बैच के लिए कर सकते हैं।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

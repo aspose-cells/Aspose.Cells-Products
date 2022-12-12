@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte HTML na XML pomocí aplikace C++ 
-url: /cs/cpp/conversion/html-to-xml/ 
+
 description: Ukázka převodního kódu C++ pro dokument HTML do formátu XML. Programátoři mohou tento zdrojový kód použít pro dávkový převod HTML na XML v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

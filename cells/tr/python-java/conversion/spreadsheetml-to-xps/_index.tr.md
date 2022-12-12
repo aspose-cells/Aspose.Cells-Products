@@ -1,6 +1,6 @@
-﻿---
+---
 title: SPREADSHEETML'yi Python aracılığıyla XPS'ye dönüştürün
-url: /tr/python-java/conversion/spreadsheetml-to-xps/
+
 description: E-tablo ml'den xps'e Python dönüştürme için örnek kod. Python uygulamasında toplu elektronik tabloml dosyalarını xps'e dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

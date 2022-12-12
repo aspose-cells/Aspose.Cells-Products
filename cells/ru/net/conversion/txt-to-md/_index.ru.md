@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование TXT в MD через C#
-url: /ru/net/conversion/txt-to-md/
+
 description: Пример кода для преобразования txt в md C#. Используйте пример кода API для пакетного преобразования файлов txt в md в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

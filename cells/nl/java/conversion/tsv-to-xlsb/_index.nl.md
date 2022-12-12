@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer TSV naar XLSB via Java 
 weight: 7570
-url: /nl/java/conversion/tsv-to-xlsb/ 
+
 description: Voorbeeld Java conversiecode voor TSV-indeling naar XLSB-bestand. Programmeurs kunnen deze voorbeeldcode gebruiken om Excel- en OpenOffice-spreadsheets naar XLSB te exporteren binnen elke web- of desktoptoepassing Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

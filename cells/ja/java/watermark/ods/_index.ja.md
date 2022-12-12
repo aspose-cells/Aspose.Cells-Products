@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java経由の透かしODSドキュメント 
 weight: 1040
-url: /ja/java/watermark/ods/ 
+
 description: JSP/JSFアプリケーションおよびデスクトップアプリケーションのJavaランタイム環境でODSファイルに透かしを追加または削除するためのJavaサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

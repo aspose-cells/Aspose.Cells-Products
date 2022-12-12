@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование TABDELIMITED в XPS через Python
-url: /ru/python-java/conversion/tabdelimited-to-xps/
+
 description: Пример кода для преобразования tabdelimited в xps Python. Используйте пример кода API для пакетного преобразования файлов с разделителями табуляции в xps в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

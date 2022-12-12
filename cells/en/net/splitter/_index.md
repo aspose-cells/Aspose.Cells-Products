@@ -1,6 +1,6 @@
 ---
 title: Split Excel Worksheet sheet wise in C#
-url: /net/splitter/
+
 description: C# source codes that explains how to split Microsoft Excel files into multiple files in Visual C#.NET applications
 ---
 

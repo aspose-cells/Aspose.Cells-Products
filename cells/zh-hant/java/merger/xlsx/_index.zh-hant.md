@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通過 Java 合併 XLSX 文件 
 weight: 8930
-url: /zh-hant/java/merger/xlsx/ 
+
 description: Java 示例代碼，用於在 Java JSP/JSF 應用程序和桌面應用程序的運行時環境中組合 XLSX 文檔。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

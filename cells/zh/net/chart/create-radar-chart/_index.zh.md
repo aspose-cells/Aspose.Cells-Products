@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 C# 创建雷达图
-url: /zh/net/create-radar-chart/
+
 description: C# 使用 .NET 库将雷达图创建到 Excel 的示例代码。使用此代码在 VB.NET、Asp.NET 或任何基于 .NET 的应用程序中创建到 MS Excel 的雷达图。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

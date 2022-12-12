@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer NUMMERS naar TXT via Python
-url: /nl/python-java/conversion/numbers-to-txt/
+
 description: Voorbeeldcode voor conversie van getallen naar txt Python. Gebruik API voorbeeldcode voor batchnummerbestanden naar txt-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

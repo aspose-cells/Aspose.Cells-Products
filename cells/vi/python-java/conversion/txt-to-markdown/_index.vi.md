@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi TXT thành MARKDOWN qua Python
-url: /vi/python-java/conversion/txt-to-markdown/
+
 description: Mã mẫu cho chuyển đổi txt sang đánh dấu Python. Sử dụng mã mẫu API cho các tệp txt hàng loạt để đánh dấu chuyển đổi trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

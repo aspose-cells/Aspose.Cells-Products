@@ -1,7 +1,7 @@
-﻿---
+---
 title: Sblocca il documento ODS tramite C++ 
 weight: 1190
-url: /it/cpp/unlock/ods/ 
+
 description: C++ codice di esempio per sbloccare il file ODS protetto da password su C++ Runtime Environment per Windows a 32 bit, Windows a 64 bit e Linux a 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

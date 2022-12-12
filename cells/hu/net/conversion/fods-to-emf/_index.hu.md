@@ -1,6 +1,6 @@
-﻿---
+---
 title: "FODS konvertálása EMF-vé a következőn keresztül: C#"
-url: /hu/net/conversion/fods-to-emf/
+
 description: Mintakód a fods to emf C# konverziójához. Használjon API példakódot kötegelt fods fájlokhoz az EMF-konverzióhoz VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

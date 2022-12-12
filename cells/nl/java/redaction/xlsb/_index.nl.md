@@ -1,7 +1,7 @@
-﻿---
+---
 title: Zoek en vervang tekst in XLSB-document via Java 
 weight: 4590
-url: /nl/java/redaction/xlsb/ 
+
 description: Java voorbeeldcode om gevoelige informatie in XLSB-bestand op Java Runtime Environment voor JSP/JSF-toepassing en desktoptoepassingen te redigeren.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie NUMBERS in SVG über C#
-url: /de/net/conversion/numbers-to-svg/
+
 description: Beispielcode für die Umwandlung von Zahlen in SVG C#. Verwenden Sie API Beispielcode für die Umwandlung von Stapelnummerndateien in SVG in VB.NET, Asp.NET oder einer beliebigen .NET-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to TXT via Python
-url: /python-java/conversion/numbers-to-txt/
+
 description: Convert NUMBERS to TXT format in Python code. Save NUMBERS as TXT using Python.
 ---
 

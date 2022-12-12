@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi XLSB sang CSV qua Python
-url: /vi/python-java/conversion/xlsb-to-csv/
+
 description: Mã mẫu cho chuyển đổi xlsb sang csv Python. Sử dụng API mã mẫu cho hàng loạt tệp xlsb thành chuyển đổi csv trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

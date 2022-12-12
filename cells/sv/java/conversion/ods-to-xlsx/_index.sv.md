@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertera ODS till XLSX via Java 
 weight: 800
-url: /sv/java/conversion/ods-to-xlsx/ 
+
 description: Exempel Java-konverteringskod för ODS-format till XLSX-fil. Programmerare kan använda den här exempelkoden för att exportera Excel- och OpenOffice-kalkylblad till XLSX inom alla webb- eller skrivbordsbaserade Java-applikationer.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

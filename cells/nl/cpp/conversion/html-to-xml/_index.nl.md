@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer HTML naar XML via C++ applicatie 
-url: /nl/cpp/conversion/html-to-xml/ 
+
 description: Voorbeeld C++ conversiecode voor HTML-document naar XML-indeling. Programmeurs kunnen deze broncode gebruiken voor batch-HTML-naar-XML-conversie binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

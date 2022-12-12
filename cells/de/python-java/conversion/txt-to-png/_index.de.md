@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie TXT in PNG über Python
-url: /de/python-java/conversion/txt-to-png/
+
 description: Beispielcode für die Umwandlung von txt in png Python. Verwenden Sie den API-Beispielcode für die Batch-Konvertierung von TXT-Dateien in PNG innerhalb der Anwendung Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

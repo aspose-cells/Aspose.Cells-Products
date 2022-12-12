@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SXC konvertálása SPREADSHEETML-re a következőn keresztül: C#"
-url: /hu/net/conversion/sxc-to-spreadsheetml/
+
 description: Mintakód az sxc-ből táblázattáblázatba C# konverzióhoz. Használjon API példakódot kötegelt sxc fájlokhoz a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belüli táblázatkezelő konvertálásához.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

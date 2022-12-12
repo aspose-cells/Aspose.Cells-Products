@@ -1,6 +1,6 @@
-﻿---
+---
 title: إنشاء ملفات HTML عبر Python 
-url: /ar/python-java/create-html/ 
+
 description: Python نموذج كود لإنشاء مستندات HTML. استخدم هذا الرمز لإنشاء ملفات HTML داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

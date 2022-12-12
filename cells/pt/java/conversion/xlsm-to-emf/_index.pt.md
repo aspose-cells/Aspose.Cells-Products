@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converter XLSM para EMF via Java 
 weight: 5630
-url: /pt/java/conversion/xlsm-to-emf/ 
+
 description: Exemplo de código de conversão Java para formato XLSM para arquivo EMF. Os programadores podem usar este código de exemplo para exportar planilhas do Excel e OpenOffice para EMF em qualquer aplicativo baseado na Web ou Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

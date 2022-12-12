@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to SXC via Java 
-url: /java/conversion/txt-to-sxc/
+
 description: Convert TXT to SXC format in Java code. Save TXT as SXC using Java.
 ---
 

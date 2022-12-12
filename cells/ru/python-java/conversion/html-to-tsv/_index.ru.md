@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование HTML в TSV через Python
-url: /ru/python-java/conversion/html-to-tsv/
+
 description: Пример кода для преобразования html в tsv Python. Используйте пример кода API для пакетного преобразования файлов html в tsv в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

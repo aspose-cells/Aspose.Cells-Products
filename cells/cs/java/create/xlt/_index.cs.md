@@ -1,6 +1,6 @@
-﻿---
+---
 title: Vytvářejte soubory MS Excel XLT prostřednictvím Java 
-url: /cs/java/create-xlt/ 
+
 description: Java Ukázkový kód pro generování dokumentů XLT. Tento kód použijte k vytváření souborů MS Excel XLT v desktopové nebo webové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

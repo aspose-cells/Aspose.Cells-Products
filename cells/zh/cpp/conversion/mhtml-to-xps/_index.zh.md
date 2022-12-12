@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通过 C++ 应用程序将 MHTML 转换为 XPS 
 weight: 7930
-url: /zh/cpp/conversion/mhtml-to-xps/ 
+
 description: MHTML 文档到 XPS 格式的示例 C++ 转换代码。程序员可以在任何 C++ 应用程序中使用此源代码批量将 MHTML 转换为 XPS。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

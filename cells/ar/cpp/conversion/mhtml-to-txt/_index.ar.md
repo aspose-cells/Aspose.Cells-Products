@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل MHTML إلى TXT عبر تطبيق C++ 
-url: /ar/cpp/conversion/mhtml-to-txt/ 
+
 description: نموذج لشفرة تحويل C++ لمستند MHTML إلى تنسيق TXT. يمكن للمبرمجين استخدام كود المصدر هذا للتحويل المجمع من MHTML إلى TXT داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

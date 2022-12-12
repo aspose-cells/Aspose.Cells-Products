@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to TSV via Java 
-url: /java/conversion/excel-to-tsv/
+
 description: Convert EXCEL to TSV format in Java code. Save EXCEL as TSV using Java.
 ---
 

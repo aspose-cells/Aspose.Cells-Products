@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer HTML naar TABDELIMITED via C#
-url: /nl/net/conversion/html-to-tabdelimited/
+
 description: Voorbeeldcode voor conversie van html naar door tabs gescheiden C#. Gebruik API voorbeeldcode voor batch-html-bestanden naar door tabs gescheiden conversies binnen VB.NET, Asp.NET of een op .NET gebaseerde toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

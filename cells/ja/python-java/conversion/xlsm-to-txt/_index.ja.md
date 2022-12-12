@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してXLSMをTXTに変換します
-url: /ja/python-java/conversion/xlsm-to-txt/
+
 description: xlsmからtxtPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチxlsmファイルからtxtへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

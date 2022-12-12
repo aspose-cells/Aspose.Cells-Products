@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLSX na MARKDOWN přes Python
-url: /cs/python-java/conversion/xlsx-to-markdown/
+
 description: Ukázkový kód pro konverzi xlsx na markdown Python. Použijte API ukázkový kód pro dávkové soubory xlsx ke konverzi markdown v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

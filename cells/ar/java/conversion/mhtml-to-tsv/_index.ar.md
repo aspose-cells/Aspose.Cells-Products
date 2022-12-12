@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل MHTML إلى TSV عبر Java 
 weight: 7070
-url: /ar/java/conversion/mhtml-to-tsv/ 
+
 description: نموذج لشفرة تحويل Java لتنسيق MHTML إلى ملف TSV. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى TSV داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera XLTX till XLSX via C++-applikationen 
-url: /sv/cpp/conversion/xltx-to-xlsx/ 
+
 description: Exempel C++-konverteringskod för XLTX-dokument till XLSX-format. Programmerare kan använda den här källkoden för batchkonvertering av XLTX till XLSX inom alla C++-program.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

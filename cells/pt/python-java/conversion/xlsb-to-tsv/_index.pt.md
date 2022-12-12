@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter XLSB para TSV via Python
-url: /pt/python-java/conversion/xlsb-to-tsv/
+
 description: Código de amostra para conversão de xlsb para tsv Python. Use API código de exemplo para arquivos xlsb em lote para conversão tsv no aplicativo Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

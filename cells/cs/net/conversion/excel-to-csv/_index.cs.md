@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést EXCEL na CSV prostřednictvím C#
-url: /cs/net/conversion/excel-to-csv/
+
 description: Ukázkový kód pro převod z Excelu na CSV C#. Použijte API ukázkový kód pro dávkový převod souborů Excel na csv v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

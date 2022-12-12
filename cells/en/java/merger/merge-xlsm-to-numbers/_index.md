@@ -1,6 +1,6 @@
 ---
 title: Merge XLSM to NUMBERS Files via Java 
-url: /java/merger/merge-xlsm-to-numbers/ 
+
 description: Merge XLSM to NUMBERS file in Java code. Combine XLSM to NUMBERS file using Java based desktop or web application.
 ---
 

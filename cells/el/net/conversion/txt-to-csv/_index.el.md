@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή TXT σε CSV μέσω C#
-url: /el/net/conversion/txt-to-csv/
+
 description: Δείγμα κώδικα για μετατροπή txt σε csv C#. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία txt για μετατροπή csv εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Merge NUMBERS to XLSB Files via C# 
-url: /net/merger/merge-numbers-to-xlsb/ 
+
 description: Merge NUMBERS to XLSB file in C# code. Combine NUMBERS to XLSB file using VB.NET, Asp.NET or any .NET based application.
 ---
 

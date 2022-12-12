@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحرير ملفات MHT عبر .NET 
-url: /ar/net/editor/mht/ 
+
 description: C# شفرة المصدر لتحرير مستند MHT على الأنظمة الأساسية .NET Framework أو .NET Core أو Windows Azure Mono أو Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

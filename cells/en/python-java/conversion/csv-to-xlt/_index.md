@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to XLT via Python
-url: /python-java/conversion/csv-to-xlt/
+
 description: Convert CSV to XLT format in Python code. Save CSV as XLT using Python.
 ---
 

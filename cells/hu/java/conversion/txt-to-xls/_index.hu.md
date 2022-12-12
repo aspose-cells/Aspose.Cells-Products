@@ -1,7 +1,7 @@
-﻿---
+---
 title: "TXT konvertálása XLS-re a következőn keresztül: Java "
 weight: 10070
-url: /hu/java/conversion/txt-to-xls/ 
+
 description: Minta Java konverziós kód a TXT formátumhoz XLS fájllá. A programozók ezt a példakódot használhatják Excel és OpenOffice táblázatok XLS formátumba exportálására bármely web- vagy asztali Java alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

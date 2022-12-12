@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ एप्लिकेशन के माध्यम से ODS को PNG में बदलें 
 weight: 4710
-url: /hi/cpp/conversion/ods-to-png/ 
+
 description: ओडीएस दस्तावेज़ के लिए पीएनजी प्रारूप में नमूना C++ रूपांतरण कोड। प्रोग्रामर इस स्रोत कोड का उपयोग किसी भी C++ एप्लिकेशन में ODS से PNG रूपांतरण के बैच के लिए कर सकते हैं।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

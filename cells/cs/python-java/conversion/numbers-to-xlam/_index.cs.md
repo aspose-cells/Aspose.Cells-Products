@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést NUMBERS na XLAM přes Python
-url: /cs/python-java/conversion/numbers-to-xlam/
+
 description: Ukázkový kód pro převod čísel na xlam Python. Použijte API ukázkový kód pro dávkové soubory čísel na konverzi xlam v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

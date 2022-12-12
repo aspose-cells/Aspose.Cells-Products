@@ -1,6 +1,6 @@
-﻿---
+---
 title: Διαχείριση μεταδεδομένων αρχείων Excel μέσω .NET C#
-url: /el/net/metadata/
+
 description: Προβάλετε, προσθέστε, επεξεργαστείτε, αφαιρέστε ή εξαγάγετε μεταδεδομένα αρχείων Excel με λίγες μόνο γραμμές κώδικα C#
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

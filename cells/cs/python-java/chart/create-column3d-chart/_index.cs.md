@@ -1,6 +1,6 @@
-﻿---
+---
 title: Vytvářejte sloupcové 3D grafy prostřednictvím Python
-url: /cs/python-java/create-column3d-chart/
+
 description: Python Ukázkový kód pro vytváření grafů Column3D do Excelu pomocí knihovny Python. Tento kód použijte k vytvoření Column3D grafu do MS Excel v aplikaci založené na Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

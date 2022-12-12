@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してTXTをXLTに変換します 
 weight: 5000
-url: /ja/java/conversion/txt-to-xlt/ 
+
 description: TXT形式からXLTファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のXLTにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

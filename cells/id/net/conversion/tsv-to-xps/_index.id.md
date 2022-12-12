@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan TSV ke XPS melalui C#
-url: /id/net/conversion/tsv-to-xps/
+
 description: Contoh kode untuk konversi tsv ke xps C#. Gunakan API kode contoh untuk file batch tsv ke konversi xps dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

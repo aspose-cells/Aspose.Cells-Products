@@ -1,7 +1,7 @@
-﻿---
+---
 title: Genera rapporti in file XLS tramite .NET 
 weight: 1700
-url: /it/net/assembly/xls/ 
+
 description: C# codice sorgente per generare report in formato XLS su piattaforme .NET Framework, .NET Core, Mono o Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

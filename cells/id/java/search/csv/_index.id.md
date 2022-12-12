@@ -1,7 +1,7 @@
-﻿---
+---
 title: Telusuri dokumen CSV tanpa membuka melalui Java 
 weight: 390
-url: /id/java/search/csv/ 
+
 description: Java contoh kode untuk mencari kata dengan pola dalam file CSV di Java Runtime Environment untuk Aplikasi JSP/JSF dan Aplikasi Desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

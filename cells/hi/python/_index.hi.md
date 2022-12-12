@@ -1,7 +1,7 @@
-﻿---
+---
 title: Python एक्सेल स्प्रेडशीट API - Aspose 
 weight: 2820
-url: /hi/python/ 
+
 description: Python स्प्रैडशीट लाइब्रेरी पढ़ने के लिए लिखने और एक्सेल फ़ाइलों को पार्स करने के लिए।
 ---
 {{< blocks/products/pf/main-wrap-class >}}

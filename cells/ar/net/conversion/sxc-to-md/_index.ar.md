@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل SXC إلى MD عبر C#
-url: /ar/net/conversion/sxc-to-md/
+
 description: نموذج كود للتحويل من sxc إلى md C#. استخدم API رمز المثال لملفات sxc المجمعة لتحويل md داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLTM naar TIFF via C#
-url: /nl/net/conversion/xltm-to-tiff/
+
 description: Voorbeeldcode voor conversie van xltm naar tiff C#. Gebruik API voorbeeldcode voor batch xltm-bestanden naar tiff-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

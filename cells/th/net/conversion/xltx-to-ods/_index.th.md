@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง XLTX เป็น ODS ผ่าน C#
-url: /th/net/conversion/xltx-to-ods/
+
 description: โค้ดตัวอย่างสำหรับการแปลง xltx เป็น ods C# ใช้โค้ดตัวอย่าง API สำหรับไฟล์แบตช์ xltx เป็นการแปลง ods ภายใน VB.NET, Asp.NET หรือแอปพลิเคชันที่ใช้ .NET
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

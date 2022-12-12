@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLT na XLSB přes Python
-url: /cs/python-java/conversion/xlt-to-xlsb/
+
 description: Ukázkový kód pro převod xlt na xlsb Python. Použijte API ukázkový kód pro dávkový převod souborů xlt na xlsb v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

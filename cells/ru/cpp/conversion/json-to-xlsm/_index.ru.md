@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование JSON в XLSM с помощью приложения C++ 
-url: /ru/cpp/conversion/json-to-xlsm/ 
+
 description: Пример кода преобразования C++ для документа JSON в формат XLSM. Программисты могут использовать этот исходный код для пакетного преобразования JSON в XLSM в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

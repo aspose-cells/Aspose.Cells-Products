@@ -1,6 +1,6 @@
 ---
 title: Create PDF Files via Java 
-url: /java/create-pdf/ 
+
 description: Create PDF files in Java code. Generate PDF files using Java based desktop or web application.
 ---
 

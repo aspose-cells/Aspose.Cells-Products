@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحرير ملفات XLS عبر .NET 
-url: /ar/net/editor/xls/ 
+
 description: C# شفرة المصدر لتعديل مستند XLS على الأنظمة الأساسية .NET Framework أو .NET Core أو Windows Azure Mono أو Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

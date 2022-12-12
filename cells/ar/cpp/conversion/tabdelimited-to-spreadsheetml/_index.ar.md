@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TABDELIMITED إلى SPREADSHEETML عبر تطبيق C++ 
-url: /ar/cpp/conversion/tabdelimited-to-spreadsheetml/ 
+
 description: نموذج رمز تحويل C++ لمستند TABDELIMITED إلى تنسيق SPREADSHEETML. يمكن للمبرمجين استخدام رمز المصدر هذا للتحويل الدفعي من TABDELIMITED إلى SPREADSHEETML داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

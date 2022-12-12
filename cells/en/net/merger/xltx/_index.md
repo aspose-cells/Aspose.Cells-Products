@@ -1,7 +1,7 @@
 ---
 title: Merge XLTX Files via .NET 
 weight: 1220
-url: /net/merger/xltx/ 
+
 description: C# source code to combine XLTX documents on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

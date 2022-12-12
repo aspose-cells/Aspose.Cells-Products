@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή XLSX σε DIF μέσω C#
-url: /el/net/conversion/xlsx-to-dif/
+
 description: Δείγμα κώδικα για xlsx σε διαφορετική μετατροπή C#. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία xlsx για να διαφοροποιήσετε τη μετατροπή σε VB.NET, Asp.NET ή οποιαδήποτε εφαρμογή που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

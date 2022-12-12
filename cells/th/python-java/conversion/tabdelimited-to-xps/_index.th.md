@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง TABDELIMITED เป็น XPS ผ่าน Python
-url: /th/python-java/conversion/tabdelimited-to-xps/
+
 description: โค้ดตัวอย่างสำหรับการแปลงแท็บเป็น xps Python ใช้โค้ดตัวอย่าง API สำหรับไฟล์ที่คั่นด้วยแท็บแบตช์เป็นการแปลง xps ภายในแอปพลิเคชัน Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

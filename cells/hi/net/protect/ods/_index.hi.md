@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET के माध्यम से ODS दस्तावेज़ को सुरक्षित और लॉक करें 
 weight: 5580
-url: /hi/net/protect/ods/ 
+
 description: .NET Framework, .NET Core, Mono या Xamarin Platforms पर पासवर्ड का उपयोग करके ODS फ़ाइल को लॉक करने के लिए C# स्रोत कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

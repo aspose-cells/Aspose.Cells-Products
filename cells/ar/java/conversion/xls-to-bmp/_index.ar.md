@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل XLS إلى BMP عبر Java 
 weight: 2560
-url: /ar/java/conversion/xls-to-bmp/ 
+
 description: نموذج رمز تحويل Java لتنسيق XLS إلى ملف BMP. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى BMP داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

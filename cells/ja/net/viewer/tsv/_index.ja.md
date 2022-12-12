@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET経由でTSVファイル形式を表示 
 weight: 3090
-url: /ja/net/viewer/tsv/ 
+
 description: .NETフレームワーク、.NETコア、Mono、またはXamarinプラットフォームでTSVドキュメントをロード、レンダリング、表示するためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

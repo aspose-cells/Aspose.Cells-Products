@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera MHTML till XLAM via Java 
-url: /sv/java/conversion/mhtml-to-xlam/ 
+
 description: Exempel Java-konverteringskod för MHTML-format till XLAM-fil. Programmerare kan använda den här exempelkoden för att exportera Excel- och OpenOffice-kalkylblad till XLAM inom alla webb- eller skrivbordsbaserade Java-applikationer.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

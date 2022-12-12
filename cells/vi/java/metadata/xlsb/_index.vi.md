@@ -1,7 +1,7 @@
-﻿---
+---
 title: Chỉnh sửa hoặc xem siêu dữ liệu tệp XLSB qua Java 
 weight: 7290
-url: /vi/java/metadata/xlsb/ 
+
 description: Java mã mẫu để chỉnh sửa hoặc xem siêu dữ liệu định dạng XLSB trên Java Môi trường thời gian chạy cho Ứng dụng JSP / JSF và Ứng dụng máy tính để bàn.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLS-dokumentdiagram via C++ 
 weight: 2500
-url: /sv/cpp/chart/xls/ 
+
 description: C++ exempelkod för att rita och konvertera diagram eller diagram i XLS-fil i C++ Runtime Environment för Windows 32-bitars, Windows 64-bitars och Linux 64-bitars.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

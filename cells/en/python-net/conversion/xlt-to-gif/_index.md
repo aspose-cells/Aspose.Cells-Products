@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to GIF via Python
-url: /python-net/conversion/xlt-to-gif/
+
 description: Sample code for xlt to gif Python conversion. Use API example code for batch xlt files to gif conversion within Python application.
 ---
 

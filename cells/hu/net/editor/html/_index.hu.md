@@ -1,6 +1,6 @@
-﻿---
+---
 title: "HTML-fájlok szerkesztése a következőn keresztül: .NET "
-url: /hu/net/editor/html/ 
+
 description: C# forráskód HTML-dokumentum szerkesztéséhez .NET Framework, .NET Core, Windows Azure, Mono vagy Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

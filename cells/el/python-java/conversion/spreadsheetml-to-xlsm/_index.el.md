@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή SPREADSHEETML σε XLSM μέσω Python
-url: /el/python-java/conversion/spreadsheetml-to-xlsm/
+
 description: Δείγμα κώδικα για μετατροπή υπολογιστικού φύλλου σε xlsm Python. Χρησιμοποιήστε API παράδειγμα κώδικα για μαζική μετατροπή αρχείων υπολογιστικού φύλλου σε xlsm εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

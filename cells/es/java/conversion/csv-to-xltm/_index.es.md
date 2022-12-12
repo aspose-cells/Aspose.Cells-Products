@@ -1,7 +1,7 @@
-﻿---
+---
 title: Convierta CSV a XLTM a través de Java 
 weight: 7170
-url: /es/java/conversion/csv-to-xltm/ 
+
 description: Ejemplo de código de conversión Java de formato CSV a archivo XLTM. Los programadores pueden usar este código de ejemplo para exportar hojas de cálculo de Excel y OpenOffice a XLTM dentro de cualquier aplicación basada en Web o escritorio Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

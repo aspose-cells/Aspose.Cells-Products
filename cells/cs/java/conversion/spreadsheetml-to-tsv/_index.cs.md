@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést SPREADSHEETML na TSV prostřednictvím Java 
-url: /cs/java/conversion/spreadsheetml-to-tsv/ 
+
 description: Ukázkový konverzní kód Java pro formát SPREADSHEETML na soubor TSV. Programátoři mohou použít tento příklad kódu k exportu tabulek Excelu a OpenOffice do TSV v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

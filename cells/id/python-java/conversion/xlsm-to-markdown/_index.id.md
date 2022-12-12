@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan XLSM ke MARKDOWN melalui Python
-url: /id/python-java/conversion/xlsm-to-markdown/
+
 description: Contoh kode untuk xlsm ke penurunan harga Python konversi. Gunakan API kode contoh untuk berkas xlsm batch untuk konversi penurunan harga dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

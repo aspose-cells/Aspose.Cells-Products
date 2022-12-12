@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ExcelスプレッドシートプログラミングAPI-Aspose 
 weight: 7140
-url: /ja/cpp/ 
+
 description: C++ XLS、XLSX、XLSM、XLSB形式を含む書き込みおよび解析ファイルを読み取るためのExcelライブラリ。スプレッドシートをPDF、CSVなどの形式に変換する
 ---
 {{< blocks/products/pf/main-wrap-class >}}

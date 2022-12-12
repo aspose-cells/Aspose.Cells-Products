@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง TSV เป็น MARKDOWN ผ่าน Python
-url: /th/python-java/conversion/tsv-to-markdown/
+
 description: โค้ดตัวอย่างสำหรับการแปลง tsv to markdown Python ใช้รหัสตัวอย่าง API สำหรับไฟล์แบตช์ tsv เพื่อมาร์กดาวน์การแปลงภายในแอปพลิเคชัน Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

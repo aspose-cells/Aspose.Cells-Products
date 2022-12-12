@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή XLTX σε DIF μέσω Python
-url: /el/python-java/conversion/xltx-to-dif/
+
 description: Δείγμα κώδικα για μετατροπή xltx σε διαφορά Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία xltx για να διαφοροποιήσετε τη μετατροπή εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

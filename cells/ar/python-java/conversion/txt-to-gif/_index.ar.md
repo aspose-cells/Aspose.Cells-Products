@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TXT إلى GIF عبر Python
-url: /ar/python-java/conversion/txt-to-gif/
+
 description: نموذج رمز للتحويل من txt إلى gif Python. استخدم API رمز المثال لملفات txt الدفعية لتحويل gif داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

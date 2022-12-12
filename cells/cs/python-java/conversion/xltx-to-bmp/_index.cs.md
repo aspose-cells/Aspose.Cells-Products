@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLTX na BMP přes Python
-url: /cs/python-java/conversion/xltx-to-bmp/
+
 description: Ukázkový kód pro převod xltx na bmp Python. Použijte API ukázkový kód pro dávkový převod souborů xltx na bmp v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

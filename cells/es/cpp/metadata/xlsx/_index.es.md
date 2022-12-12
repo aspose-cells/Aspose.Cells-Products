@@ -1,7 +1,7 @@
-﻿---
+---
 title: Editar o ver metadatos de documentos XLSX a través de C++ 
 weight: 8970
-url: /es/cpp/metadata/xlsx/ 
+
 description: C++ código de ejemplo para editar o ver metadatos de archivos XLSX en C++ entorno de tiempo de ejecución para Windows de 32 bits, Windows de 64 bits y Linux de 64 bits.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

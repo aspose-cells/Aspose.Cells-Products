@@ -1,7 +1,7 @@
-﻿---
+---
 title: Znak wodny dokumentu XLSX za pośrednictwem .NET 
 weight: 8270
-url: /pl/net/watermark/xlsx/ 
+
 description: C# kod źródłowy do dodawania lub usuwania znaku wodnego do pliku XLSX na platformach .NET Framework, .NET Core, Mono lub Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

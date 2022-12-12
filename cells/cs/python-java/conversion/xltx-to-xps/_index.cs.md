@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLTX na XPS přes Python
-url: /cs/python-java/conversion/xltx-to-xps/
+
 description: Ukázkový kód pro převod xltx na xps Python. Použijte API ukázkový kód pro dávkový převod souborů xltx na xps v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

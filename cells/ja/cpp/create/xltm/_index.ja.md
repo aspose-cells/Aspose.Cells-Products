@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++を介してMSExcelXLTMファイルを作成する 
-url: /ja/cpp/create-xltm/ 
+
 description: C++ MSExcelXLTMファイルを生成するためのサンプルコード。このコードを使用して、C++ベースのアプリケーション内にMSExcelXLTMファイルを作成します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "ODS konvertálása TIFF-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/ods-to-tiff/
+
 description: Mintakód az ods to tiff Python konverzióhoz. Használjon API példakódot kötegelt ods-fájlokhoz a Python alkalmazáson belüli tiff-konverzióhoz.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

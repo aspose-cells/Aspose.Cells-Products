@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ Excel-spreadsheetprogrammering API - Aspose 
 weight: 7140
-url: /nl/cpp/ 
+
 description: C++ Excel-bibliotheek om schrijf- en parseerbestanden te lezen, inclusief XLS-, XLSX-, XLSM- en XLSB-indelingen. Converteer spreadsheets naar PDF, CSV en meer formaten
 ---
 {{< blocks/products/pf/main-wrap-class >}}

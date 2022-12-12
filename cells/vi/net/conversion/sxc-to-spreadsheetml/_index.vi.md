@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi SXC thành SPREADSHEETML qua C#
-url: /vi/net/conversion/sxc-to-spreadsheetml/
+
 description: Mã mẫu cho chuyển đổi sxc sang bảng tínhml C#. Sử dụng API mã mẫu cho hàng loạt tệp sxc để chuyển đổi bảng tínhml trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

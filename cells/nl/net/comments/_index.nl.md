@@ -1,6 +1,6 @@
-﻿---
+---
 title: Opmerkingen invoegen in Excel via .NET
-url: /nl/net/comment/
+
 description: C# broncodes voor het invoegen van opmerkingen in Microsoft Excel-bestanden met behulp van .NET Bibliotheek. 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

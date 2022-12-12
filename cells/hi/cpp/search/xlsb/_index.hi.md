@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ के माध्यम से खोले बिना XLSB दस्तावेज़ खोजें 
 weight: 7020
-url: /hi/cpp/search/xlsb/ 
+
 description: C++ विंडोज 32 बिट, विंडोज 64 बिट और लिनक्स 64 बिट के लिए रनटाइम एनवायरनमेंट पर एक्सएलएसबी फ़ाइल में पैटर्न वाले शब्दों को खोजने के लिए C++ उदाहरण कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

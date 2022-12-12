@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLTM konvertálása MARKDOWN-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/xltm-to-markdown/
+
 description: Mintakód az xltm to markdown Python konverzióhoz. Használjon API példakódot kötegelt xltm-fájlokhoz a konverzió leértékeléséhez a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Cree archivos MS Excel XLTM a través de Java 
-url: /es/java/create-xltm/ 
+
 description: Java Código de muestra para generar documentos XLTM. Utilice este código para crear archivos MS Excel XLTM dentro de una aplicación web o de escritorio basada en Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

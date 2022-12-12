@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή XLT σε ODS μέσω Python
-url: /el/python-java/conversion/xlt-to-ods/
+
 description: Δείγμα κώδικα για μετατροπή xlt σε ods Python. Χρησιμοποιήστε API παράδειγμα κώδικα για μαζική μετατροπή αρχείων xlt σε ods εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

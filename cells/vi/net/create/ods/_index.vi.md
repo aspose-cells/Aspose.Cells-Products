@@ -1,6 +1,6 @@
-﻿---
+---
 title: Tạo tệp ODS (Openoffice / Lbreoffice) qua C# 
-url: /vi/net/create-ods/ 
+
 description: C# Mã mẫu để tạo tài liệu ODS. Sử dụng mã này để tạo tệp ODS (Openoffice / Lbreoffice) trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

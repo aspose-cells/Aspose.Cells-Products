@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést SXC na SVG přes Java 
-url: /cs/java/conversion/sxc-to-svg/ 
+
 description: Ukázka převodního kódu Java pro formát SXC na soubor SVG. Programátoři mohou tento příklad kódu použít k exportu tabulek Excelu a OpenOffice do SVG v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

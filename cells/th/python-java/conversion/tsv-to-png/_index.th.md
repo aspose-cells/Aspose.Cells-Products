@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง TSV เป็น PNG ผ่าน Python
-url: /th/python-java/conversion/tsv-to-png/
+
 description: โค้ดตัวอย่างสำหรับการแปลง tsv เป็น png Python ใช้รหัสตัวอย่าง API สำหรับการแปลงไฟล์แบตช์ tsv เป็น png ภายในแอปพลิเคชัน Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

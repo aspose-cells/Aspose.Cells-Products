@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla TSV'yi SPREADSHEETML'ye dönüştürün
-url: /tr/net/conversion/tsv-to-spreadsheetml/
+
 description: tsv'den elektronik tabloml'ye C# dönüşümü için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu tsv dosyaları için elektronik tabloml dönüşümü için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

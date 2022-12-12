@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してNUMBERSをTIFFに変換します
-url: /ja/net/conversion/numbers-to-tiff/
+
 description: 数値からtiffC#への変換のサンプルコード。バッチ番号ファイルのAPIサンプルコードを使用して、VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内で変換をtiffします。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

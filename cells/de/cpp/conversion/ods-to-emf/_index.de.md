@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertieren Sie ODS in EMF über die Anwendung C++ 
 weight: 8180
-url: /de/cpp/conversion/ods-to-emf/ 
+
 description: Beispiel-Umwandlungscode C++ für das ODS-Dokument in das EMF-Format. Programmierer können diesen Quellcode für die Batch-Konvertierung von ODS in EMF in jeder C++-Anwendung verwenden.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

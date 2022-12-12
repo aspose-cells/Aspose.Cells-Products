@@ -1,6 +1,6 @@
-﻿---
+---
 title: دمج ملفات MHT عبر .NET 
-url: /ar/net/merger/mht/ 
+
 description: جرِّب واجهات برمجة تطبيقات دمج الرسائل المحلية الخاصة بنا لدمج مستندات MHT على الأنظمة الأساسية .NET Framework و .NET و Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

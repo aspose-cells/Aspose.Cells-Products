@@ -1,6 +1,6 @@
-﻿---
+---
 title: Crea grafici Excel e converti in immagini tramite C++
-url: /it/cpp/chart/
+
 description: C++ codice sorgente per disegnare e convertire grafici o diagrammi in Microsoft Excel utilizzando C++ Libreria
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

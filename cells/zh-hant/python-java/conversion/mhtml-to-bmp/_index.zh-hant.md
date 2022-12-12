@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 Python 將 MHTML 轉換為 BMP
-url: /zh-hant/python-java/conversion/mhtml-to-bmp/
+
 description: mhtml 到 bmp Python 轉換的示例代碼。使用 API 示例代碼將 mhtml 文件批量轉換為 Python 應用程序中的 bmp 轉換。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

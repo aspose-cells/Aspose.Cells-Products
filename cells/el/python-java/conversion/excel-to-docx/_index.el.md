@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή EXCEL σε DOCX μέσω Python
-url: /el/python-java/conversion/excel-to-docx/
+
 description: Δείγμα κώδικα για μετατροπή excel σε docx Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία excel σε μετατροπή docx εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

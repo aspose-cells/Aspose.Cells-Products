@@ -1,6 +1,6 @@
-﻿---
+---
 title: ExcelワークシートシートをC#で分割する
-url: /ja/net/splitter/
+
 description: VisualC#.NETアプリケーションでMicrosoftExcelファイルを複数のファイルに分割する方法を説明するC#ソースコード
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

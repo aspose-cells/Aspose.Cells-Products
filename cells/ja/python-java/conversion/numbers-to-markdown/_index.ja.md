@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してNUMBERSをMARKDOWNに変換します
-url: /ja/python-java/conversion/numbers-to-markdown/
+
 description: 数値からマークダウンPythonへの変換のサンプルコード。 Pythonアプリケーション内で変換をマークダウンするには、バッチ番号ファイルのAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

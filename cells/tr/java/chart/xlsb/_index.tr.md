@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java üzerinden XLSB belge grafiği 
 weight: 670
-url: /tr/java/chart/xlsb/ 
+
 description: Java Runtime Environment for JSP/JSF Application and Desktop Applications üzerinde XLSB dosyasında çizelge veya diyagram çizmek ve dönüştürmek için Java örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

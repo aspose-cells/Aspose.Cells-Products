@@ -1,7 +1,7 @@
-﻿---
+---
 title: Chuyển XLS sang PDF qua ứng dụng C++ 
 weight: 8010
-url: /vi/cpp/conversion/xls-to-pdf/ 
+
 description: Mã chuyển đổi C++ mẫu cho tài liệu XLS sang định dạng PDF. Lập trình viên có thể sử dụng mã nguồn này để chuyển đổi hàng loạt XLS sang PDF trong bất kỳ Ứng dụng C++ nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLSX إلى JPEG عبر Python
-url: /ar/python-java/conversion/xlsx-to-jpeg/
+
 description: نموذج كود للتحويل من xlsx إلى jpeg Python. استخدم API رمز المثال لملفات xlsx الدفعية لتحويل jpeg داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

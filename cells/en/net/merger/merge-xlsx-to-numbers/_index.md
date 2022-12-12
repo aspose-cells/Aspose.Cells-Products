@@ -1,6 +1,6 @@
 ---
 title: Merge XLSX to NUMBERS Files via C# 
-url: /net/merger/merge-xlsx-to-numbers/ 
+
 description: Merge XLSX to NUMBERS file in C# code. Combine XLSX to NUMBERS file using VB.NET, Asp.NET or any .NET based application.
 ---
 

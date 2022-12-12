@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to TXT via C++
-url: /cpp/conversion/fods-to-txt/
+
 description: Convert FODS to TXT format in C++ code. Save FODS as TXT using C++.
 ---
 

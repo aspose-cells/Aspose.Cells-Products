@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET के माध्यम से खोले बिना TSV दस्तावेज़ खोजें 
 weight: 2810
-url: /hi/net/search/tsv/ 
+
 description: .NET Framework, .NET Core, Mono या Xamarin Platforms पर TSV फ़ाइल में पैटर्न वाले शब्दों को खोजने के लिए C# स्रोत कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

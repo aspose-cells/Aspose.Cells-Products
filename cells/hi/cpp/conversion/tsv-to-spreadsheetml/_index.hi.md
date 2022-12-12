@@ -1,6 +1,6 @@
-﻿---
+---
 title: TSV को C++ एप्लिकेशन के माध्यम से PREADSHEETML में बदलें 
-url: /hi/cpp/conversion/tsv-to-spreadsheetml/ 
+
 description: TSV दस्तावेज़ के लिए SPREADSHEETML प्रारूप में नमूना C++ रूपांतरण कोड। प्रोग्रामर इस स्रोत कोड का उपयोग किसी भी C++ एप्लिकेशन में TSV से PREADSHEETML रूपांतरण के बैच के लिए कर सकते हैं।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή CSV σε TABDELIMITED μέσω C#
-url: /el/net/conversion/csv-to-tabdelimited/
+
 description: Δείγμα κώδικα για μετατροπή csv σε οριοθέτηση καρτέλας C#. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία csv σε μετατροπή οριοθετημένης καρτέλας εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

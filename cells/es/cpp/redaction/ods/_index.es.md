@@ -1,7 +1,7 @@
-﻿---
+---
 title: Buscar y reemplazar texto en el documento ODS a través de C++ 
 weight: 1610
-url: /es/cpp/redaction/ods/ 
+
 description: C++ código de ejemplo para redactar información confidencial en un archivo ODS en C++ entorno de tiempo de ejecución para Windows de 32 bits, Windows de 64 bits y Linux de 64 bits.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

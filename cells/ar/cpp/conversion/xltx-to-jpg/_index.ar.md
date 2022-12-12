@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLTX إلى JPG عبر تطبيق C++ 
-url: /ar/cpp/conversion/xltx-to-jpg/ 
+
 description: نموذج C++ رمز التحويل لمستند XLTX إلى تنسيق JPG. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل XLTX إلى JPG دفعة داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

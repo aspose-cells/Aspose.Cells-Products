@@ -1,6 +1,6 @@
-﻿---
+---
 title: NUMBERS'ı Python aracılığıyla PDF'ye dönüştürün
-url: /tr/python-java/conversion/numbers-to-pdf/
+
 description: Sayıları pdf'ye Python dönüştürmek için örnek kod. Python uygulamasında toplu iş numarası dosyalarını pdf'ye dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

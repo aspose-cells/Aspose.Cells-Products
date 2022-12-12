@@ -1,6 +1,6 @@
 ---
 title: Convert XLSM to XLTX via C++
-url: /cpp/conversion/xlsm-to-xltx/
+
 description: Convert XLSM to XLTX format in C++ code. Save XLSM as XLTX using C++.
 ---
 

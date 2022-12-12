@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir TXT en JPG via C#
-url: /fr/net/conversion/txt-to-jpg/
+
 description: Exemple de code pour la conversion txt en jpg C#. Utilisez API exemple de code pour la conversion de fichiers txt par lots en jpg dans VB.NET, Asp.NET ou toute application basée sur .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

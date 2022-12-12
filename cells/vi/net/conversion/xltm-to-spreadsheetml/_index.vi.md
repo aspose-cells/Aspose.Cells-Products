@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi XLTM sang SPREADSHEETML qua C#
-url: /vi/net/conversion/xltm-to-spreadsheetml/
+
 description: Mã mẫu để chuyển đổi xltm sang bảng tínhml C#. Sử dụng API mã mẫu cho hàng loạt tệp xltm để chuyển đổi bảng tínhml trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

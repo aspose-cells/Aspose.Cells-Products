@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to WORD via C#
-url: /net/conversion/html-to-word/
+
 description: Convert HTML to WORD format in C# code. Save HTML as WORD using VB.NET, Asp.NET or any .NET based application.
 ---
 

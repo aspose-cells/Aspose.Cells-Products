@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή TABDELIMITED σε TIFF μέσω Python
-url: /el/python-java/conversion/tabdelimited-to-tiff/
+
 description: Δείγμα κώδικα για μετατροπή οριοθετημένης καρτέλας σε tiff Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία οριοθετημένα στηλοθέτες για μετατροπή tiff εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

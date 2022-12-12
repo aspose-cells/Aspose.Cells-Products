@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง TSV เป็น XPS ผ่าน Python
-url: /th/python-java/conversion/tsv-to-xps/
+
 description: โค้ดตัวอย่างสำหรับการแปลง tsv เป็น xps Python ใช้โค้ดตัวอย่าง API สำหรับไฟล์แบตช์ tsv เป็นการแปลง xps ภายในแอปพลิเคชัน Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

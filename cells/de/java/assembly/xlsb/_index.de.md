@@ -1,7 +1,7 @@
-﻿---
+---
 title: Generieren Sie Berichte in XLSB-Dateien über Java 
 weight: 3560
-url: /de/java/assembly/xlsb/ 
+
 description: Java Beispielcode zum Erstellen von Berichten im XLSB-Format in Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

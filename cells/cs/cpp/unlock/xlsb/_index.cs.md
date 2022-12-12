@@ -1,7 +1,7 @@
-﻿---
+---
 title: Odemknout dokument XLSB přes C++ 
 weight: 7420
-url: /cs/cpp/unlock/xlsb/ 
+
 description: C++ ukázkový kód pro odemknutí heslem chráněného souboru XLSB v C++ Runtime Environment pro Windows 32bit, Windows 64bit a Linux 64bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển MHTML sang MD qua Java 
-url: /vi/java/conversion/mhtml-to-md/ 
+
 description: Mã chuyển đổi Java mẫu cho định dạng MHTML thành tệp MD. Lập trình viên có thể sử dụng mã ví dụ này để xuất bảng tính Excel & OpenOffice sang MD trong bất kỳ Ứng dụng dựa trên Web hoặc Máy tính Java nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

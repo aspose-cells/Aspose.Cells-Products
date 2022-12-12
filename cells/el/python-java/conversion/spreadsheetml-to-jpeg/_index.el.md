@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή SPREADSHEETML σε JPEG μέσω Python
-url: /el/python-java/conversion/spreadsheetml-to-jpeg/
+
 description: Δείγμα κώδικα για μετατροπή υπολογιστικού φύλλου σε jpeg Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία υπολογιστικού φύλλου σε μετατροπή jpeg εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

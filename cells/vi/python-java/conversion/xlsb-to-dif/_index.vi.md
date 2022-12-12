@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi XLSB sang DIF qua Python
-url: /vi/python-java/conversion/xlsb-to-dif/
+
 description: Mã mẫu cho chuyển đổi xlsb sang dif Python. Sử dụng mã ví dụ API cho các tệp xlsb hàng loạt để chuyển đổi trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

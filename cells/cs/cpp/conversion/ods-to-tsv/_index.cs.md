@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést ODS na TSV prostřednictvím aplikace C++ 
 weight: 1570
-url: /cs/cpp/conversion/ods-to-tsv/ 
+
 description: Ukázka převodního kódu C++ pro dokument ODS na formát TSV. Programátoři mohou použít tento zdrojový kód pro dávkový převod ODS na TSV v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

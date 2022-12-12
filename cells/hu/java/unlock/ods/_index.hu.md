@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Oldja fel az ODS-dokumentumot a következőn keresztül: Java "
 weight: 5080
-url: /hu/java/unlock/ods/ 
+
 description: Java mintakód a jelszóval védett ODS-fájl feloldásához a Java Futókörnyezetben JSP/JSF alkalmazásokhoz és asztali alkalmazásokhoz.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

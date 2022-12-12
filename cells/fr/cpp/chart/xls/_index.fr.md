@@ -1,7 +1,7 @@
-﻿---
+---
 title: Tableau de documents XLS via C++ 
 weight: 2500
-url: /fr/cpp/chart/xls/ 
+
 description: C++ Exemple de code pour dessiner et convertir un graphique ou un diagramme dans un fichier XLS sur C++ Runtime Environment pour Windows 32 bits, Windows 64 bits et Linux 64 bits.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

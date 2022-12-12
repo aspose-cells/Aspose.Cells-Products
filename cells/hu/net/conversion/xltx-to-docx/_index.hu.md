@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLTX konvertálása DOCX-re a következőn keresztül: C#"
-url: /hu/net/conversion/xltx-to-docx/
+
 description: Mintakód az xltx-ből docx-ba C# konverzióhoz. Használjon API példakódot kötegelt xltx fájlok docx konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

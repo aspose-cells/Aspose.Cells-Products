@@ -1,6 +1,6 @@
 ---
 title: Merge CSV to MHTML Files via C++ 
-url: /cpp/merger/merge-csv-to-mhtml/ 
+
 description: Merge CSV to MHTML file in C++ code. Combine CSV to MHTML file using C++.
 ---
 

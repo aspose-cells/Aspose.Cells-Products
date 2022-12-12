@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan MHTML ke MARKDOWN melalui C#
-url: /id/net/conversion/mhtml-to-markdown/
+
 description: Contoh kode untuk mhtml ke penurunan harga C# konversi. Gunakan API kode contoh untuk berkas mhtml batch untuk konversi penurunan harga dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

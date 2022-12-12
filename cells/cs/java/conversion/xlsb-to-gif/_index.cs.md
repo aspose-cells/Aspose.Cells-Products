@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést XLSB na GIF přes Java 
 weight: 4630
-url: /cs/java/conversion/xlsb-to-gif/ 
+
 description: Ukázkový konverzní kód Java pro formát XLSB na soubor GIF. Programátoři mohou tento příklad kódu použít k exportu tabulek Excelu a OpenOffice do formátu GIF v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

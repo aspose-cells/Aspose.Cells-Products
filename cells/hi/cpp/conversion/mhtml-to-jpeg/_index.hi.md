@@ -1,7 +1,7 @@
-﻿---
+---
 title: MHTML को JPEG में C++ एप्लिकेशन के माध्यम से कनवर्ट करें 
 weight: 820
-url: /hi/cpp/conversion/mhtml-to-jpeg/ 
+
 description: नमूना C++ एमएचटीएमएल दस्तावेज़ के लिए जेपीईजी प्रारूप में रूपांतरण कोड। प्रोग्रामर इस स्रोत कोड का उपयोग किसी भी C++ एप्लिकेशन में बैच एमएचटीएमएल से जेपीईजी रूपांतरण के लिए कर सकते हैं।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

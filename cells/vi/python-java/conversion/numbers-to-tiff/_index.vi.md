@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển NUMBERS thành TIFF qua Python
-url: /vi/python-java/conversion/numbers-to-tiff/
+
 description: Mã mẫu cho các số cần chuyển đổi Python. Sử dụng mã mẫu API cho các tệp số lô để thúc đẩy chuyển đổi trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

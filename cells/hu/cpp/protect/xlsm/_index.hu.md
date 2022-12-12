@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLSM-dokumentum védelme és zárolása a következőn keresztül: C++ "
 weight: 8770
-url: /hu/cpp/protect/xlsm/ 
+
 description: C++ példakód az XLSM-fájl jelszóval történő zárolására a C++ Runtime Environment for Windows 32 bit, a Windows 64 bit és a Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to HTML via C#
-url: /net/conversion/mhtml-to-html/
+
 description: Convert MHTML to HTML format in C# code. Save MHTML as HTML using VB.NET, Asp.NET or any .NET based application.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer CSV naar TABDELIMITED via C++ applicatie 
-url: /nl/cpp/conversion/csv-to-tabdelimited/ 
+
 description: Voorbeeld C++-conversiecode voor CSV-document naar TABDELIMITED-indeling. Programmeurs kunnen deze broncode gebruiken voor batch-CSV naar TABDELIMITED-conversie binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

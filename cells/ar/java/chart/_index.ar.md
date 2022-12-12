@@ -1,6 +1,6 @@
-﻿---
+---
 title: إنشاء مخططات Excel وتحويلها إلى صور عبر Java
-url: /ar/java/chart/
+
 description: Java شفرة المصدر لرسم وتحويل مخطط أو رسم تخطيطي في Microsoft Excel باستخدام Java Library. 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

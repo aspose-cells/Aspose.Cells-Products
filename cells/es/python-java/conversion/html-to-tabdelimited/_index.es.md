@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta HTML a TABDELIMITED a través de Python
-url: /es/python-java/conversion/html-to-tabdelimited/
+
 description: Código de muestra para la conversión de html a Python delimitado por tabuladores. Utilice el código de ejemplo API para archivos html por lotes para la conversión delimitada por tabuladores dentro de la aplicación Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

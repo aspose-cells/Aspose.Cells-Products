@@ -1,6 +1,6 @@
-﻿---
+---
 title: Buat File TSV melalui Python 
-url: /id/python-java/create-tsv/ 
+
 description: Python Contoh kode untuk membuat dokumen TSV. Gunakan kode ini untuk membuat file TSV dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

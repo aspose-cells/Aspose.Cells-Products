@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLSB konvertálása PNG-re a következőn keresztül: C#"
-url: /hu/net/conversion/xlsb-to-png/
+
 description: Mintakód az xlsb–png C# konverzióhoz. Használjon API példakódot kötegelt xlsb fájlokhoz a png konverzióhoz VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

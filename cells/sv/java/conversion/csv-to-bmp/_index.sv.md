@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertera CSV till BMP via Java 
 weight: 3540
-url: /sv/java/conversion/csv-to-bmp/ 
+
 description: Exempel på Java-konverteringskod för CSV-format till BMP-fil. Programmerare kan använda den här exempelkoden för att exportera Excel- och OpenOffice-kalkylblad till BMP inom alla webb- eller skrivbordsbaserade Java-applikationer.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

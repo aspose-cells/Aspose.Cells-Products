@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование HTML в MD через Java 
-url: /ru/java/conversion/html-to-md/ 
+
 description: Пример кода преобразования Java для формата HTML в файл MD. Программисты могут использовать этот пример кода для экспорта электронных таблиц Excel и OpenOffice в MD в любом веб- или настольном Java приложении.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

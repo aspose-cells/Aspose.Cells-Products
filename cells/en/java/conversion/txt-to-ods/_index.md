@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to ODS via Java 
-url: /java/conversion/txt-to-ods/
+
 description: Convert TXT to ODS format in Java code. Save TXT as ODS using Java.
 ---
 

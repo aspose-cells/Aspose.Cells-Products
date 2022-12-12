@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer XLS naar DIF via C++ applicatie 
 weight: 640
-url: /nl/cpp/conversion/xls-to-dif/ 
+
 description: Voorbeeld C++-conversiecode voor XLS-document naar DIF-indeling. Programmeurs kunnen deze broncode gebruiken voor batch-XLS naar DIF-conversie binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

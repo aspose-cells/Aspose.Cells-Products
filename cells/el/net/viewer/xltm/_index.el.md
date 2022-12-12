@@ -1,7 +1,7 @@
-﻿---
+---
 title: Προβολή μορφών αρχείων XLTM μέσω .NET 
 weight: 430
-url: /el/net/viewer/xltm/ 
+
 description: C# πηγαίος κώδικας για φόρτωση, απόδοση και εμφάνιση εγγράφων XLTM σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

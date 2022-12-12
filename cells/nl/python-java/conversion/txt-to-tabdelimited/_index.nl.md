@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer TXT naar TABDELIMITED via Python
-url: /nl/python-java/conversion/txt-to-tabdelimited/
+
 description: Voorbeeldcode voor conversie van txt naar tabgescheiden Python. Gebruik API voorbeeldcode voor batch-txt-bestanden naar door tabs gescheiden conversies binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

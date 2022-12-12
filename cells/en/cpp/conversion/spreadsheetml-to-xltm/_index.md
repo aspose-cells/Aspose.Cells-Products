@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to XLTM via C++
-url: /cpp/conversion/spreadsheetml-to-xltm/
+
 description: Convert SPREADSHEETML to XLTM format in C++ code. Save SPREADSHEETML as XLTM using C++.
 ---
 

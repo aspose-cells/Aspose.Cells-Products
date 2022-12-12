@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to GIF via Python
-url: /python-net/conversion/numbers-to-gif/
+
 description: Sample code for numbers to gif Python conversion. Use API example code for batch numbers files to gif conversion within Python application.
 ---
 

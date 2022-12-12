@@ -1,7 +1,7 @@
-﻿---
+---
 title: Sloučit soubory XLS přes .NET 
 weight: 3000
-url: /cs/net/merger/xls/ 
+
 description: Zdrojový kód C# pro kombinaci dokumentů XLS na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

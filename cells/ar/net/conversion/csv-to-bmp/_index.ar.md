@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل CSV إلى BMP عبر C#
-url: /ar/net/conversion/csv-to-bmp/
+
 description: نموذج رمز لتحويل csv إلى bmp C#. استخدم API رمز المثال لملفات csv المجمعة لتحويل bmp داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

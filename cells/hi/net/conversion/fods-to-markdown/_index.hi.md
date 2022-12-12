@@ -1,6 +1,6 @@
-﻿---
+---
 title: FODS को C# के द्वारा MARKDOWN में बदलें
-url: /hi/net/conversion/fods-to-markdown/
+
 description: फोड के लिए नमूना कोड C# रूपांतरण को चिह्नित करने के लिए। VB.NET, Asp.NET या किसी .NET आधारित एप्लिकेशन के भीतर रूपांतरण को चिह्नित करने के लिए बैच फोड फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

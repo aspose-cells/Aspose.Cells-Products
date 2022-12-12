@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLSB konvertálása EMF-re a következőn keresztül: Java "
 weight: 710
-url: /hu/java/conversion/xlsb-to-emf/ 
+
 description: Minta Java konverziós kód az XLSB formátumhoz EMF fájllá. A programozók ezt a példakódot használhatják Excel- és OpenOffice-táblázatok exportálására EMF-be bármely web- vagy asztali Java-alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

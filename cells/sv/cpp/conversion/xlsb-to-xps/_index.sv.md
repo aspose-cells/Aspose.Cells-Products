@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertera XLSB till XPS via programmet C++ 
 weight: 530
-url: /sv/cpp/conversion/xlsb-to-xps/ 
+
 description: Exempel på C++-konverteringskod för XLSB-dokument till XPS-format. Programmerare kan använda den här källkoden för batchkonvertering av XLSB till XPS inom alla C++-program.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Vytvářejte bublinové grafy prostřednictvím C#
-url: /cs/net/create-bubble-chart/
+
 description: C# Ukázkový kód pro vytváření bublinových grafů do aplikace Excel pomocí knihovny .NET. Tento kód použijte k vytvoření {grafu} grafu do MS Excel v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

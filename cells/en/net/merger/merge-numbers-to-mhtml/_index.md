@@ -1,6 +1,6 @@
 ---
 title: Merge NUMBERS to MHTML Files via C# 
-url: /net/merger/merge-numbers-to-mhtml/ 
+
 description: Merge NUMBERS to MHTML file in C# code. Combine NUMBERS to MHTML file using VB.NET, Asp.NET or any .NET based application.
 ---
 

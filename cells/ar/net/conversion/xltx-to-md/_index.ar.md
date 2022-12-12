@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLTX إلى MD عبر C#
-url: /ar/net/conversion/xltx-to-md/
+
 description: نموذج رمز للتحويل من xltx إلى md C#. استخدم API رمز المثال لملفات xltx الدفعية لتحويل md داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

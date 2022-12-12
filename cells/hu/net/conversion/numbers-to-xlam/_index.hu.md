@@ -1,6 +1,6 @@
-﻿---
+---
 title: "NUMBERS konvertálása XLAM-re a következőn keresztül: C#"
-url: /hu/net/conversion/numbers-to-xlam/
+
 description: Mintakód a számokhoz xlam C# konverzióvá. Használjon API példakódot kötegszámfájlokhoz az xlam konvertáláshoz VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: "HTML konvertálása XLTM-re a következőn keresztül: Java "
 weight: 6670
-url: /hu/java/conversion/html-to-xltm/ 
+
 description: Minta Java konverziós kód HTML formátumhoz XLTM fájllá. A programozók ezt a példakódot használhatják Excel- és OpenOffice-táblázatok XLTM-be exportálására bármely web- vagy asztali Java-alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

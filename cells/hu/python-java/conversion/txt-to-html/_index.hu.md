@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TXT konvertálása HTML-vé a következőn keresztül: Python"
-url: /hu/python-java/conversion/txt-to-html/
+
 description: Mintakód a txt-ből html-vé Python konvertáláshoz. Használjon API példakódot a kötegelt txt-fájlok html-vé konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

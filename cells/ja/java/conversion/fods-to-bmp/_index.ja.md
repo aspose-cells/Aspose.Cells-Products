@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してFODSをBMPに変換します 
-url: /ja/java/conversion/fods-to-bmp/ 
+
 description: FODS形式からBMPファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のBMPにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ aracılığıyla XLSB belgesinden metin ve resim ayıklayın 
 weight: 3140
-url: /tr/cpp/parser/xlsb/ 
+
 description: C++ Windows 32 bit, Windows 64 bit ve Linux 64 bit için C++ Runtime Environment'daki XLSB dosyasından metin ve resim ayıklamak için örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

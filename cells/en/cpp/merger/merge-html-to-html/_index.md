@@ -1,6 +1,6 @@
 ---
 title: Merge HTML to HTML Files via C++ 
-url: /cpp/merger/merge-html-to-html/ 
+
 description: Merge HTML to HTML file in C++ code. Combine HTML to HTML file using C++.
 ---
 

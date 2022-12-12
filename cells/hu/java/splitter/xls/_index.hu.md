@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLS-fájlok felosztása a következőn keresztül: Java "
 weight: 610
-url: /hu/java/splitter/xls/ 
+
 description: Java mintakód az XLS-dokumentumok felosztásához a Java Futókörnyezeten JSP/JSF alkalmazásokhoz és asztali alkalmazásokhoz.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

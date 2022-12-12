@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Az XLT konvertálása ODS-re a következőn keresztül: C#"
-url: /hu/net/conversion/xlt-to-ods/
+
 description: Mintakód az xlt ods C# konverziójához. Használjon API példakódot a kötegelt xlt-fájlok ods-konverziójához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

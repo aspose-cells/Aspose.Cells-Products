@@ -1,6 +1,6 @@
-﻿---
+---
 title: "HTML konvertálása XML-be a következőn keresztül: Python"
-url: /hu/python-java/conversion/html-to-xml/
+
 description: Mintakód a html-ből xml-be való Python konverzióhoz. Használjon API példakódot a kötegelt html-fájlok XML-re konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

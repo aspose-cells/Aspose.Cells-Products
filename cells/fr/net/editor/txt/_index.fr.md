@@ -1,6 +1,6 @@
-﻿---
+---
 title: Modifier les fichiers TXT via .NET 
-url: /fr/net/editor/txt/ 
+
 description: Code source C# pour modifier le document TXT sur les plates-formes .NET Framework, .NET Core, Windows Azure, Mono ou Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

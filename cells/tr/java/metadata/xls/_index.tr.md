@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java aracılığıyla XLS Dosyaları Meta Verilerini Düzenleyin veya Görüntüleyin 
 weight: 730
-url: /tr/java/metadata/xls/ 
+
 description: JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Runtime Environment'da XLS biçimi meta verilerini düzenlemek veya görüntülemek için Java örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLS إلى DIF عبر C#
-url: /ar/net/conversion/xls-to-dif/
+
 description: نموذج كود لتحويل xls إلى ديف C#. استخدم API مثال الكود لملفات xls الدفعية لتغيير التحويل داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

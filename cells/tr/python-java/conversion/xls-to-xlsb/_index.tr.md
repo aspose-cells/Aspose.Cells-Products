@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla XLS'yi XLSB'ye dönüştürün
-url: /tr/python-java/conversion/xls-to-xlsb/
+
 description: xls'den xlsb'ye Python dönüştürme için örnek kod. Python uygulamasında toplu xls dosyalarını xlsb'ye dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

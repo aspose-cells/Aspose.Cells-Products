@@ -1,6 +1,6 @@
-﻿---
+---
 title: Buat Diagram Area melalui C#
-url: /id/net/create-area-chart/
+
 description: C# Kode contoh untuk membuat bagan Area ke Excel menggunakan .NET Pustaka. Gunakan kode ini untuk membuat bagan Area ke MS Excel dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

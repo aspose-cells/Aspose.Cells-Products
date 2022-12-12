@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TSV na SVG prostřednictvím Python
-url: /cs/python-java/conversion/tsv-to-svg/
+
 description: Ukázkový kód pro převod tsv na svg Python. Použijte API ukázkový kód pro dávkový převod souborů tsv na svg v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

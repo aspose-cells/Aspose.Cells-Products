@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل XLSB إلى صفيف بايت عبر C# 
 weight: 7690
-url: /ar/net/conversion/xlsb-to-byte-array/ 
+
 description: C# نموذج كود لتحويل XLSB إلى صفيف بايت. استخدم هذا الرمز لتحويل Excel XLSB إلى Byte Array داخل VB .NET أو Asp .NET أو أي تطبيق يستند إلى .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

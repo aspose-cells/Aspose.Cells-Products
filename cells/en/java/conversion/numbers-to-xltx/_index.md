@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to XLTX via Java 
-url: /java/conversion/numbers-to-xltx/
+
 description: Convert NUMBERS to XLTX format in Java code. Save NUMBERS as XLTX using Java.
 ---
 

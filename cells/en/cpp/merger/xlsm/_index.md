@@ -1,6 +1,6 @@
 ---
 title: Merge XLSM Files via C++ 
-url: /cpp/merger/xlsm/ 
+
 description: C++ example code to combine XLSM documents on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
 

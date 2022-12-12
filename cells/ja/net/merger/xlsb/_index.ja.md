@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NETを介してXLSBファイルをマージします 
 weight: 2970
-url: /ja/net/merger/xlsb/ 
+
 description: .NETフレームワーク、.NETコア、Mono、またはXamarinプラットフォームでXLSBドキュメントを組み合わせるためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

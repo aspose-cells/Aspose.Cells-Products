@@ -1,6 +1,6 @@
 ---
 title: Convert XLSM to GIF via C#
-url: /net/conversion/xlsm-to-gif/
+
 description: Convert XLSM to GIF format in C# code. Save XLSM as GIF using VB.NET, Asp.NET or any .NET based application.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Convert XLSM to MHTML via C#
-url: /net/conversion/xlsm-to-mhtml/
+
 description: Convert XLSM to MHTML format in C# code. Save XLSM as MHTML using VB.NET, Asp.NET or any .NET based application.
 ---
 

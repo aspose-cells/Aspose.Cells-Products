@@ -1,7 +1,7 @@
-﻿---
+---
 title: استخراج نص وصور من مستند ODS عبر Java 
 weight: 4740
-url: /ar/java/parser/ods/ 
+
 description: Java نموذج لرمز لاستخراج النصوص والصور من ملف ODS في Java Runtime Environment لتطبيق JSP / JSF وتطبيقات سطح المكتب.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

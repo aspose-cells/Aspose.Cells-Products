@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera JSON till XLTX via Python
-url: /sv/python-java/conversion/json-to-xltx/
+
 description: Exempelkod för konvertering från json till xltx Python. Använd API exempelkod för batch-json-filer till xltx-konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

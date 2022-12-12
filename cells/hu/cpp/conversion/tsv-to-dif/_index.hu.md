@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertálja a TSV-t DIF-re a(z) C++ alkalmazáson keresztül 
 weight: 2350
-url: /hu/cpp/conversion/tsv-to-dif/ 
+
 description: Minta C++ konverziós kód a TSV-dokumentumhoz DIF formátumba. A programozók ezt a forráskódot használhatják kötegelt TSV-ből DIF-be konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

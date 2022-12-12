@@ -1,6 +1,6 @@
-﻿---
+---
 title: TSV konvertálása TAB-raDELIMITED C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/tsv-to-tabdelimited/ 
+
 description: Minta C++ konverziós kód a TSV-dokumentumhoz TABDELIMITED formátumba. A programozók ezt a forráskódot használhatják kötegelt TSV-ből TABDELIMITED konvertáláshoz bármely C++ alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

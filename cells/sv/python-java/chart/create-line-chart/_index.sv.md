@@ -1,6 +1,6 @@
-﻿---
+---
 title: Skapa linjediagram via Python
-url: /sv/python-java/create-line-chart/
+
 description: Python Exempelkod för att skapa linjediagram till Excel med hjälp av Python Library. Använd den här koden för att skapa ett linjediagram till MS Excel i en Python-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

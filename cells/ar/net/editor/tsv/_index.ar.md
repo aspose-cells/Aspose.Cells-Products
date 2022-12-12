@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحرير ملفات TSV عبر .NET 
-url: /ar/net/editor/tsv/ 
+
 description: C# شفرة المصدر لتحرير مستند TSV على الأنظمة الأساسية .NET Framework أو .NET Core أو Windows Azure Mono أو Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

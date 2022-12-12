@@ -1,6 +1,6 @@
 ---
 title: Create Column Charts via Python
-url: /python-java/create-column-chart/
+
 description: Python Sample code for creating Column charts to Excel using Python Library. Use this code for creating a Column chart to MS Excel within Python based application.
 
 ---

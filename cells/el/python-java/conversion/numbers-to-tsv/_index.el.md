@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή NUMBERS σε TSV μέσω Python
-url: /el/python-java/conversion/numbers-to-tsv/
+
 description: Δείγμα κωδικού για τη μετατροπή αριθμών σε tsv Python. Χρησιμοποιήστε API παράδειγμα κώδικα για αρχεία αριθμών παρτίδας σε μετατροπή tsv εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

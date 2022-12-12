@@ -1,6 +1,6 @@
-﻿---
+---
 title: एक्सेल वर्कशीट शीट को C# में विभाजित करें
-url: /hi/net/splitter/
+
 description: C# स्रोत कोड जो यह बताते हैं कि Microsoft Excel फ़ाइलों को विज़ुअल C#.NET अनुप्रयोगों में एकाधिक फ़ाइलों में कैसे विभाजित किया जाए
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

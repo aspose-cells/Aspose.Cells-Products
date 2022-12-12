@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera ODS till SXC via Python
-url: /sv/python-java/conversion/ods-to-sxc/
+
 description: Exempelkod för konvertering av ods till sxc Python. Använd API exempelkod för batch-ods-filer till sxc-konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

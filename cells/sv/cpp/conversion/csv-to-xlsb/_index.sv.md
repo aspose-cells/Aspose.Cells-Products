@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertera CSV till XLSB via appen C++ 
 weight: 9780
-url: /sv/cpp/conversion/csv-to-xlsb/ 
+
 description: Exempel på C++-konverteringskod för CSV-dokument till XLSB-format. Programmerare kan använda den här källkoden för batch-CSV till XLSB-konvertering inom alla C++-program.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

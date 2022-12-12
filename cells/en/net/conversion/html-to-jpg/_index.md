@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to JPG via C#
-url: /net/conversion/html-to-jpg/
+
 description: Convert HTML to JPG format in C# code. Save HTML as JPG using VB.NET, Asp.NET or any .NET based application.
 ---
 

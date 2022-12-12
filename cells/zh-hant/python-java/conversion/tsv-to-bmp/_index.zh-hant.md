@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 Python 將 TSV 轉換為 BMP
-url: /zh-hant/python-java/conversion/tsv-to-bmp/
+
 description: tsv 到 bmp Python 轉換的示例代碼。在 Python 應用程序中使用批處理 tsv 文件的 API 示例代碼到 bmp 轉換。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

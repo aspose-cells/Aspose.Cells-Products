@@ -1,7 +1,7 @@
-﻿---
+---
 title: Vodoznak XLSB dokumentu prostřednictvím Java 
 weight: 5900
-url: /cs/java/watermark/xlsb/ 
+
 description: Java ukázkový kód pro přidání nebo odstranění vodoznaku do souboru XLSB v Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

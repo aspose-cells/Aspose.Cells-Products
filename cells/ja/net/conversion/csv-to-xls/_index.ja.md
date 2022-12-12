@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してCSVをXLSに変換します
-url: /ja/net/conversion/csv-to-xls/
+
 description: csvからxlsC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチcsvファイルからxlsへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل SPREADSHEETML إلى XPS عبر Python
-url: /ar/python-java/conversion/spreadsheetml-to-xps/
+
 description: نموذج كود لتحويل جدول البيانات إلى xps Python. استخدم API رمز المثال لملفات جداول البيانات الدفعية لتحويل xps داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

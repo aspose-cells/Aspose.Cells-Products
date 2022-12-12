@@ -1,6 +1,6 @@
 ---
 title: Merge XLSB to XLSB Files via C++ 
-url: /cpp/merger/merge-xlsb-to-xlsb/ 
+
 description: Merge XLSB to XLSB file in C++ code. Combine XLSB to XLSB file using C++.
 ---
 

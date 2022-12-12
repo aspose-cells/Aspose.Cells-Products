@@ -1,6 +1,6 @@
-﻿---
+---
 title: Δημιουργία γραφημάτων Excel και μετατροπή σε εικόνες μέσω .NET
-url: /el/net/chart/
+
 description: C# πηγαίος κώδικας για σχεδίαση και μετατροπή γραφήματος ή διαγράμματος στο Microsoft Excel χρησιμοποιώντας τη Βιβλιοθήκη .NET. 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

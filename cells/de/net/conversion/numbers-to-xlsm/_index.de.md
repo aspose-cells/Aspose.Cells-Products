@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie NUMBERS in XLSM über C#
-url: /de/net/conversion/numbers-to-xlsm/
+
 description: Beispielcode für die Umwandlung von Zahlen in xlsm C#. Verwenden Sie den API Beispielcode für die Konvertierung von Stapelnummerndateien in xlsm innerhalb von VB.NET, Asp.NET oder einer beliebigen .NET-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer CSV naar XPS via Python
-url: /nl/python-java/conversion/csv-to-xps/
+
 description: Voorbeeldcode voor conversie van csv naar xps Python. Gebruik API voorbeeldcode voor batch-csv-bestanden naar xps-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

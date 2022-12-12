@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chèn nhận xét trong Excel qua .NET
-url: /vi/net/comment/
+
 description: C# mã nguồn cách chèn nhận xét vào tệp Microsoft Excel bằng cách sử dụng .NET Thư viện. 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

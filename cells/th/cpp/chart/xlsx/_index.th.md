@@ -1,7 +1,7 @@
-﻿---
+---
 title: แผนภูมิเอกสาร XLSX ผ่าน C++ 
 weight: 750
-url: /th/cpp/chart/xlsx/ 
+
 description: C++ ตัวอย่างโค้ดสำหรับการวาดและแปลงแผนภูมิหรือไดอะแกรมในไฟล์ XLSX บน C++ Runtime Environment สำหรับ Windows 32 บิต, Windows 64 บิต และ Linux 64 บิต
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to MHTML via Java 
-url: /java/conversion/json-to-mhtml/
+
 description: Convert JSON to MHTML format in Java code. Save JSON as MHTML using Java.
 ---
 

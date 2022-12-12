@@ -1,6 +1,6 @@
-﻿---
+---
 title: "EXCEL konvertálása POWERPOINT-ra a következőn keresztül: Python"
-url: /hu/python-java/conversion/excel-to-powerpoint/
+
 description: Mintakód az excelből powerpoint Python konvertáláshoz. Használjon API példakódot kötegelt Excel-fájlok Powerpoint-konverziójához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

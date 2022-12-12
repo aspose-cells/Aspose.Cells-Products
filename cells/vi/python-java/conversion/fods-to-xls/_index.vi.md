@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi FODS sang XLS qua Python
-url: /vi/python-java/conversion/fods-to-xls/
+
 description: Mã mẫu cho chuyển đổi fods thành xls Python. Sử dụng mã mẫu API cho các tệp fods hàng loạt thành chuyển đổi xls trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLTX na DIF přes Python
-url: /cs/python-java/conversion/xltx-to-dif/
+
 description: Ukázkový kód pro převod xltx na rozdíl Python. Použijte API ukázkový kód pro dávkové soubory xltx k převodu dif v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

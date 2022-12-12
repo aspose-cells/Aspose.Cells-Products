@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj XLTX na TXT przez Python
-url: /pl/python-java/conversion/xltx-to-txt/
+
 description: Przykładowy kod konwersji xltx na txt Python. Użyj przykładowego kodu API dla wsadowych plików xltx do konwersji txt w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

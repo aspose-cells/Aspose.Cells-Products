@@ -1,7 +1,7 @@
-﻿---
+---
 title: Sök och ersätt text i ODS-dokument via .NET 
 weight: 6100
-url: /sv/net/redaction/ods/ 
+
 description: C# källkod för att redigera känslig information i ODS-fil på .NET Framework, .NET Core, Mono eller Xamarin-plattformar.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

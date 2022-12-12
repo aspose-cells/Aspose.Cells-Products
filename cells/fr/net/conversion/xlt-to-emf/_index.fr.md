@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir XLT en EMF via C#
-url: /fr/net/conversion/xlt-to-emf/
+
 description: Exemple de code pour la conversion xlt vers emf C#. Utilisez l'exemple de code API pour les fichiers batch xlt en conversion emf dans VB.NET, Asp.NET ou toute application basée sur .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

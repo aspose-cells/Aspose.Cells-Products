@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter TABDELIMITED para TXT via C#
-url: /pt/net/conversion/tabdelimited-to-txt/
+
 description: Código de exemplo para conversão de delimitado por tabulação para txt C#. Use API código de exemplo para arquivos delimitados por tabulação em lote para conversão txt em VB.NET, Asp.NET ou qualquer aplicativo baseado em .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

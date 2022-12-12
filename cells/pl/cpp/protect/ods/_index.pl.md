@@ -1,7 +1,7 @@
-﻿---
+---
 title: Chroń i blokuj dokument ODS za pomocą C++ 
 weight: 10010
-url: /pl/cpp/protect/ods/ 
+
 description: C++ przykładowy kod do blokowania pliku ODS przy użyciu hasła w C++ środowisku wykonawczym dla 32-bitowego systemu Windows, 64-bitowego systemu Windows i 64-bitowego systemu Linux.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

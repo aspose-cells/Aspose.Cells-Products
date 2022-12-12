@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to JPEG via Java 
-url: /java/conversion/xltx-to-jpeg/
+
 description: Convert XLTX to JPEG format in Java code. Save XLTX as JPEG using Java.
 ---
 

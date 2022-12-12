@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل MHTML إلى XML عبر تطبيق C++ 
-url: /ar/cpp/conversion/mhtml-to-xml/ 
+
 description: نموذج C++ رمز التحويل لمستند MHTML إلى تنسيق XML. يمكن للمبرمجين استخدام رمز المصدر هذا لتحويل MHTML إلى XML الدفعي في أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

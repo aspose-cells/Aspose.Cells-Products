@@ -1,7 +1,7 @@
-﻿---
+---
 title: Wyszukaj i zamień tekst w dokumencie XLSB za pomocą C++ 
 weight: 6660
-url: /pl/cpp/redaction/xlsb/ 
+
 description: C++ przykładowy kod do redagowania poufnych informacji w pliku XLSB w C++ środowisku wykonawczym dla 32-bitowego systemu Windows, 64-bitowego systemu Windows i 64-bitowego systemu Linux.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

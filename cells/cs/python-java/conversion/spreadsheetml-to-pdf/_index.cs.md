@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést SPREADSHEETML do PDF přes Python
-url: /cs/python-java/conversion/spreadsheetml-to-pdf/
+
 description: Ukázkový kód pro převod tabulkyml na pdf Python. Použijte ukázkový kód API pro dávkový převod souborů tabulkového procesoruml do formátu PDF v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

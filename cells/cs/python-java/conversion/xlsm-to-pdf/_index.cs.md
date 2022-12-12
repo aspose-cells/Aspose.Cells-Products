@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLSM na PDF přes Python
-url: /cs/python-java/conversion/xlsm-to-pdf/
+
 description: Ukázkový kód pro převod xlsm na pdf Python. Použijte API ukázkový kód pro dávkový převod souborů xlsm na pdf v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to SXC via Python
-url: /python-java/conversion/ods-to-sxc/
+
 description: Convert ODS to SXC format in Python code. Save ODS as SXC using Python.
 ---
 

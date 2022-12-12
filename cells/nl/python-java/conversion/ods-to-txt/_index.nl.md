@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer ODS naar TXT via Python
-url: /nl/python-java/conversion/ods-to-txt/
+
 description: Voorbeeldcode voor conversie van ods naar txt Python. Gebruik API voorbeeldcode voor batch-ods-bestanden naar txt-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

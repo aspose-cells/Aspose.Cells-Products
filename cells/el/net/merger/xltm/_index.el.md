@@ -1,7 +1,7 @@
-﻿---
+---
 title: Συγχώνευση αρχείων XLTM μέσω .NET 
 weight: 9010
-url: /el/net/merger/xltm/ 
+
 description: C# πηγαίος κώδικας για συνδυασμό εγγράφων XLTM σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

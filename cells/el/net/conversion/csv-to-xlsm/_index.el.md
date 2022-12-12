@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή CSV σε XLSM μέσω C#
-url: /el/net/conversion/csv-to-xlsm/
+
 description: Δείγμα κώδικα για μετατροπή csv σε xlsm C#. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδική μετατροπή αρχείων csv σε xlsm εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

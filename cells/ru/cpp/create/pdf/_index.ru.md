@@ -1,6 +1,6 @@
-﻿---
+---
 title: Создавайте PDF-файлы с помощью C++ 
-url: /ru/cpp/create-pdf/ 
+
 description: C++ Пример кода для создания файлов PDF. Используйте этот код для создания файлов PDF в приложении на основе C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

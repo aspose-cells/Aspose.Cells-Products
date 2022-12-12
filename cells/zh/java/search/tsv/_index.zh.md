@@ -1,7 +1,7 @@
-﻿---
+---
 title: 无需通过 Java 打开即可搜索 TSV 文档 
 weight: 4940
-url: /zh/java/search/tsv/ 
+
 description: Java JSP/JSF 应用程序和桌面应用程序运行时环境中用于在 TSV 文件中搜索具有模式的单词的示例代码。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

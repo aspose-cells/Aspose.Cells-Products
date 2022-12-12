@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή XLSM σε XLAM μέσω C#
-url: /el/net/conversion/xlsm-to-xlam/
+
 description: Δείγμα κώδικα για μετατροπή xlsm σε xlam C#. Χρησιμοποιήστε API παράδειγμα κώδικα για μαζική μετατροπή αρχείων xlsm σε xlam εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

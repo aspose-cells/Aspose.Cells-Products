@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to PDF via C#
-url: /net/conversion/ods-to-pdf/
+
 description: Convert ODS to PDF format in C# code. Save ODS as PDF using VB.NET, Asp.NET or any .NET based application.
 ---
 

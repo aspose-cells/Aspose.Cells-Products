@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή NUMBERS σε FODS μέσω Python
-url: /el/python-java/conversion/numbers-to-fods/
+
 description: Δείγμα κωδικού για τη μετατροπή αριθμών σε τροφές Python. Χρησιμοποιήστε API παράδειγμα κώδικα για αρχεία αριθμών παρτίδας σε μετατροπή τροφίμων εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

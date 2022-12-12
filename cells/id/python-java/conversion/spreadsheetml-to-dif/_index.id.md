@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan SPREADSHEETML ke DIF melalui Python
-url: /id/python-java/conversion/spreadsheetml-to-dif/
+
 description: Contoh kode untuk spreadsheetml ke konversi Python yang berbeda. Gunakan API kode contoh untuk file spreadsheetml batch untuk mengubah konversi dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Generera rapporter i XLS-filer via .NET 
 weight: 1700
-url: /sv/net/assembly/xls/ 
+
 description: C# källkod för att generera XLS-formatrapporter på .NET Framework, .NET Core, Mono eller Xamarin-plattformar.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

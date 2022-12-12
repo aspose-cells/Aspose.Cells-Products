@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to JSON via Python
-url: /python-net/conversion/mhtml-to-json/
+
 description: Sample code for mhtml to json Python conversion. Use API example code for batch mhtml files to json conversion within Python application.
 ---
 

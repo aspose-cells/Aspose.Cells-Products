@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование ODS в XLTM через Python
-url: /ru/python-java/conversion/ods-to-xltm/
+
 description: Пример кода для преобразования ods в xltm Python. Используйте пример кода API для пакетного преобразования файлов ods в xltm в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

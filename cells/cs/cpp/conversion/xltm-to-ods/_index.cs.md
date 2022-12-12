@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte XLTM na ODS pomocí aplikace C++ 
-url: /cs/cpp/conversion/xltm-to-ods/ 
+
 description: Ukázka převodního kódu C++ pro dokument XLTM na formát ODS. Programátoři mohou použít tento zdrojový kód pro dávkovou konverzi XLTM na ODS v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

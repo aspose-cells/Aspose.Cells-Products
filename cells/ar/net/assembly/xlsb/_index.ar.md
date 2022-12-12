@@ -1,7 +1,7 @@
-﻿---
+---
 title: إنشاء التقارير في ملفات XLSB عبر .NET 
 weight: 1690
-url: /ar/net/assembly/xlsb/ 
+
 description: C# شفرة المصدر لإنشاء تقارير بتنسيق XLSB على .NET Framework أو .NET Core أو Mono أو أنظمة Xamarin الأساسية.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

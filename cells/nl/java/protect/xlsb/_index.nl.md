@@ -1,7 +1,7 @@
-﻿---
+---
 title: Bescherm en vergrendel XLSB-document via Java 
 weight: 6590
-url: /nl/java/protect/xlsb/ 
+
 description: Java voorbeeldcode om XLSB-bestand te vergrendelen met wachtwoord in Java Runtime Environment voor JSP/JSF-applicaties en desktopapplicaties.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

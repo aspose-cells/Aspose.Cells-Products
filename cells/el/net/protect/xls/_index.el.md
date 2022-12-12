@@ -1,7 +1,7 @@
-﻿---
+---
 title: Προστασία και κλείδωμα εγγράφου XLS μέσω .NET 
 weight: 7010
-url: /el/net/protect/xls/ 
+
 description: C# πηγαίος κώδικας για το κλείδωμα του αρχείου XLS με χρήση κωδικού πρόσβασης σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

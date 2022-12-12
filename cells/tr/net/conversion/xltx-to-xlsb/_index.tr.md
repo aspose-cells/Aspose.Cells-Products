@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla XLTX'i XLSB'ye dönüştürün
-url: /tr/net/conversion/xltx-to-xlsb/
+
 description: xltx'ten xlsb'ye C# dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu xltx dosyalarını xlsb'ye dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

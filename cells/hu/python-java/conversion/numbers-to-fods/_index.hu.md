@@ -1,6 +1,6 @@
-﻿---
+---
 title: "NUMBERS konvertálása FODS-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/numbers-to-fods/
+
 description: Mintakód a számok Python konverziójához. Használjon API példakódot a kötegszám-fájlok konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

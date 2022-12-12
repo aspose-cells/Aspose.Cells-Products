@@ -1,7 +1,7 @@
-﻿---
+---
 title: البحث عن نص واستبداله في مستند ODS عبر .NET 
 weight: 6100
-url: /ar/net/redaction/ods/ 
+
 description: C# شفرة المصدر لتنقيح المعلومات الحساسة في ملف ODS على .NET Framework أو .NET Core أو Mono أو أنظمة Xamarin الأساسية.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

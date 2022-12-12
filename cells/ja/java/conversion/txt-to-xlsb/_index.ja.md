@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してTXTをXLSBに変換します 
 weight: 3360
-url: /ja/java/conversion/txt-to-xlsb/ 
+
 description: TXT形式からXLSBファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のXLSBにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan TSV ke FODS melalui Python
-url: /id/python-java/conversion/tsv-to-fods/
+
 description: Contoh kode untuk konversi tsv ke fods Python. Gunakan API kode contoh untuk file batch tsv ke konversi makanan dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

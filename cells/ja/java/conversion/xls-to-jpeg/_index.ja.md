@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してXLSをJPEGに変換します 
 weight: 8280
-url: /ja/java/conversion/xls-to-jpeg/ 
+
 description: XLS形式からJPEGファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、WebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをJPEGにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Vytvářejte soubory MHTML prostřednictvím C++ 
-url: /cs/cpp/create-mhtml/ 
+
 description: C++ Ukázkový kód pro generování souborů MHTML. Tento kód použijte k vytváření souborů MHTML v aplikaci založené na C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

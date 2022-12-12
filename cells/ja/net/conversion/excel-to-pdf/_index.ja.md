@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してEXCELをPDFに変換する
-url: /ja/net/conversion/excel-to-pdf/
+
 description: ExcelからPDFC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチExcelファイルからPDFへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

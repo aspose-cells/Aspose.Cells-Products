@@ -1,7 +1,7 @@
-﻿---
+---
 title: Προβολή μορφών αρχείων XLT μέσω .NET 
 weight: 3610
-url: /el/net/viewer/xlt/ 
+
 description: C# πηγαίος κώδικας για φόρτωση, απόδοση και εμφάνιση εγγράφων XLT σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

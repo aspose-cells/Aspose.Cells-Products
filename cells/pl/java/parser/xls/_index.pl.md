@@ -1,7 +1,7 @@
-﻿---
+---
 title: Wyodrębnij tekst i obrazy z dokumentu XLS za pomocą Java 
 weight: 3700
-url: /pl/java/parser/xls/ 
+
 description: Java przykładowy kod do wyodrębniania tekstu i obrazów z pliku XLS w Java środowisku wykonawczym dla aplikacji JSP/JSF i aplikacji komputerowych.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

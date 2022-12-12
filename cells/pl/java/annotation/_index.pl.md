@@ -1,6 +1,6 @@
-﻿---
+---
 title: Adnotacje do pliku Excel za pośrednictwem Java
-url: /pl/java/annotation/
+
 description: Dodaj lub usuń adnotacje danych w arkuszach kalkulacyjnych Excel i OpenOffice za pomocą biblioteki Java.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi XLSB sang DOCX qua Python
-url: /vi/python-java/conversion/xlsb-to-docx/
+
 description: Mã mẫu cho chuyển đổi xlsb sang docx Python. Sử dụng mã mẫu API cho hàng loạt tệp xlsb để chuyển đổi docx trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

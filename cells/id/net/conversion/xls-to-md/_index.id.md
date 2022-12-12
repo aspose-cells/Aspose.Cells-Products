@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan XLS ke MD melalui C#
-url: /id/net/conversion/xls-to-md/
+
 description: Contoh kode untuk konversi xls ke md C#. Gunakan API kode contoh untuk file batch xls ke konversi md dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

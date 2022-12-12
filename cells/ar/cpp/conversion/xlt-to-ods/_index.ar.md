@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLT إلى ODS عبر تطبيق C++ 
-url: /ar/cpp/conversion/xlt-to-ods/ 
+
 description: نموذج C++ كود التحويل لوثيقة XLT إلى تنسيق ODS. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل XLT دفعة إلى ODS في أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

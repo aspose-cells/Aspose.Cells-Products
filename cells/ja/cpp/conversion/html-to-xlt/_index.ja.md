@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++アプリケーションを介してHTMLをXLTに変換する 
-url: /ja/cpp/conversion/html-to-xlt/ 
+
 description: HTMLドキュメントからXLT形式へのサンプルC++変換コード。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でHTMLからXLTへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

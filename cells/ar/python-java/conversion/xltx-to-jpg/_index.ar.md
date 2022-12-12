@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLTX إلى JPG عبر Python
-url: /ar/python-java/conversion/xltx-to-jpg/
+
 description: نموذج كود للتحويل من xltx إلى jpg Python. استخدم API رمز المثال لملفات xltx الدفعية لتحويل jpg داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

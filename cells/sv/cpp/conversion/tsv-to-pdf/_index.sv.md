@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertera TSV till PDF via programmet C++ 
 weight: 9090
-url: /sv/cpp/conversion/tsv-to-pdf/ 
+
 description: Exempel på konverteringskod för C++ för TSV-dokument till PDF-format. Programmerare kan använda den här källkoden för batchkonvertering av TSV till PDF inom alla C++-program.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

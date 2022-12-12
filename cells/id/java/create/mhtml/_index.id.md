@@ -1,6 +1,6 @@
-﻿---
+---
 title: Buat Berkas MHTML melalui Java 
-url: /id/java/create-mhtml/ 
+
 description: Java Contoh kode untuk membuat dokumen MHTML. Gunakan kode ini untuk membuat file MHTML dalam Java desktop atau aplikasi web berbasis.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

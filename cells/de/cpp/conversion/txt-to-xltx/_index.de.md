@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie TXT in XLTX über die Anwendung C++ 
-url: /de/cpp/conversion/txt-to-xltx/ 
+
 description: Beispiel-Umwandlungscode C++ für ein TXT-Dokument in das XLTX-Format. Programmierer können diesen Quellcode für die Batch-Konvertierung von TXT in XLTX in jeder C++-Anwendung verwenden.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

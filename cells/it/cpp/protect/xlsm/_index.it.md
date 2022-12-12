@@ -1,7 +1,7 @@
-﻿---
+---
 title: Proteggi e blocca il documento XLSM tramite C++ 
 weight: 8770
-url: /it/cpp/protect/xlsm/ 
+
 description: C++ codice di esempio per bloccare il file XLSM utilizzando la password in C++ Runtime Environment per Windows a 32 bit, Windows a 64 bit e Linux a 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

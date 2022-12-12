@@ -1,6 +1,6 @@
-﻿---
+---
 title: คำอธิบายประกอบไฟล์ Excel ผ่าน Java
-url: /th/java/annotation/
+
 description: เพิ่มหรือลบคำอธิบายประกอบข้อมูลของสเปรดชีต Excel และ OpenOffice ด้วยไลบรารี Java
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

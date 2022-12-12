@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل SXC إلى TXT عبر Java 
-url: /ar/java/conversion/sxc-to-txt/ 
+
 description: نموذج Java رمز تحويل لتنسيق SXC إلى ملف TXT. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى TXT داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

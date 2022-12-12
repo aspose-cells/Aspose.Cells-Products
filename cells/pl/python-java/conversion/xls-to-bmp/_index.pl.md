@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj XLS na BMP przez Python
-url: /pl/python-java/conversion/xls-to-bmp/
+
 description: Przykładowy kod konwersji xls do bmp Python. Użyj przykładowego kodu API dla plików wsadowych xls do konwersji bmp w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

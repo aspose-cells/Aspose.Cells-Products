@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してCSVをXPSに変換する
-url: /ja/net/conversion/csv-to-xps/
+
 description: csvからxpsC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチcsvファイルからxpsへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

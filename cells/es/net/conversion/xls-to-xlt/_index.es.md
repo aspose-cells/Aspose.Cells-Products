@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir XLS a XLT a través de C#
-url: /es/net/conversion/xls-to-xlt/
+
 description: Ejemplo de código para la conversión de xls a xlt C#. Utilice el código de ejemplo API para la conversión de archivos xls por lotes a xlt dentro de VB.NET, Asp.NET o cualquier aplicación basada en .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

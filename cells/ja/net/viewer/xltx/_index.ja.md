@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET経由でXLTXファイル形式を表示 
 weight: 7870
-url: /ja/net/viewer/xltx/ 
+
 description: .NETフレームワーク、.NETコア、Mono、またはXamarinプラットフォームでXLTXドキュメントをロード、レンダリング、表示するためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

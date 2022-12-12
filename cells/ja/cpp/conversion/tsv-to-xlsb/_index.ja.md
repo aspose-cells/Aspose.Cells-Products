@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++アプリケーションを介してTSVをXLSBに変換します 
 weight: 1370
-url: /ja/cpp/conversion/tsv-to-xlsb/ 
+
 description: TSVドキュメントからXLSB形式へのサンプルC++変換コード。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でTSVからXLSBへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

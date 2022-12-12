@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET aracılığıyla XLS Dosyalarında Raporlar Oluşturun 
 weight: 1700
-url: /tr/net/assembly/xls/ 
+
 description: .NET Framework, .NET Core, Mono veya Xamarin Platformlarında XLS biçiminde raporlar oluşturmak için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to DIF via Java 
-url: /java/conversion/xls-to-dif/
+
 description: Convert XLS to DIF format in Java code. Save XLS as DIF using Java.
 ---
 

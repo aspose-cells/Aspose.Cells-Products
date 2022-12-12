@@ -1,6 +1,6 @@
-﻿---
+---
 title: Twórz pliki MS Excel XLSX za pomocą C++ 
-url: /pl/cpp/create-xlsx/ 
+
 description: C++ Przykładowy kod do generowania plików MS Excel XLSX. Użyj tego kodu do tworzenia plików MS Excel XLSX w aplikacji opartej na C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

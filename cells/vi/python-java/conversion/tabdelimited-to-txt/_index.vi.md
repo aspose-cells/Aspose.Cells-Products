@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi TABDELIMITED thành TXT qua Python
-url: /vi/python-java/conversion/tabdelimited-to-txt/
+
 description: Mã mẫu cho chuyển đổi được giới hạn bằng tab Python. Sử dụng mã mẫu API cho các tệp được giới hạn bằng tab hàng loạt thành chuyển đổi txt trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

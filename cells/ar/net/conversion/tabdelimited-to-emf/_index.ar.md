@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TABDELIMITED إلى EMF عبر C#
-url: /ar/net/conversion/tabdelimited-to-emf/
+
 description: نموذج رمز لجدولة محدودية لتحويل C# emf. استخدم API رمز المثال للملفات المحددة بعلامات الجدولة المجمعة لتحويل emf داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

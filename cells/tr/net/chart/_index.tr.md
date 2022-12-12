@@ -1,6 +1,6 @@
-﻿---
+---
 title: Excel Grafikleri Oluşturma ve .NET aracılığıyla Görüntülere Dönüştürme
-url: /tr/net/chart/
+
 description: .NET Kitaplığı'nı kullanarak Microsoft Excel'de grafik veya diyagram çizmek ve dönüştürmek için C# kaynak kodu. 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

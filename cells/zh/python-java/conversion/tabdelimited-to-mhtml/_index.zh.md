@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 Python 将 TABDELIMITED 转换为 MHTML
-url: /zh/python-java/conversion/tabdelimited-to-mhtml/
+
 description: tabdelimited 到 mhtml Python 转换的示例代码。在 Python 应用程序中使用 API 示例代码将制表符分隔的文件批量转换为 mhtml。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

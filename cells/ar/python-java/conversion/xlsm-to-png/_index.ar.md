@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLSM إلى PNG عبر Python
-url: /ar/python-java/conversion/xlsm-to-png/
+
 description: نموذج كود للتحويل من xlsm إلى png Python. استخدم API رمز المثال لملفات xlsm الدفعية لتحويل png داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

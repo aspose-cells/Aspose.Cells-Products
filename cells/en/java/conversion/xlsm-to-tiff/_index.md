@@ -1,6 +1,6 @@
 ---
 title: Convert XLSM to TIFF via Java 
-url: /java/conversion/xlsm-to-tiff/
+
 description: Convert XLSM to TIFF format in Java code. Save XLSM as TIFF using Java.
 ---
 

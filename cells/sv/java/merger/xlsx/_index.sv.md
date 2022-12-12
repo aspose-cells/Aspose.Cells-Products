@@ -1,7 +1,7 @@
-﻿---
+---
 title: Slå samman XLSX-filer via Java 
 weight: 8930
-url: /sv/java/merger/xlsx/ 
+
 description: Java exempelkod för att kombinera XLSX-dokument i Java Runtime Environment för JSP/JSF Application och Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

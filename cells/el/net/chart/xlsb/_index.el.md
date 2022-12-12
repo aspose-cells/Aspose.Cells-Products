@@ -1,7 +1,7 @@
-﻿---
+---
 title:  Γράφημα εγγράφων XLSB σε εικόνες μέσω .NET 
 weight: 8560
-url: /el/net/chart/xlsb/ 
+
 description: C# πηγαίος κώδικας για σχεδίαση και μετατροπή γραφήματος ή διαγράμματος σε αρχείο XLSB σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

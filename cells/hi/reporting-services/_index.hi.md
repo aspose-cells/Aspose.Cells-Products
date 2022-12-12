@@ -1,7 +1,7 @@
-﻿---
+---
 title: SQL सर्वर में एक्सेल एक्सएलएस एक्सएलएसएक्स और स्प्रेडशीटएमएल को आरडीएल रिपोर्ट निर्यात करें 
 weight: 3460
-url: /hi/reporting-services/ 
+
 description: SQL सर्वर रिपोर्टिंग सेवाएँ रेंडरिंग एक्सटेंशन - एक्सेल XLS XLSX XLSM XLSB CSV स्प्रेडशीटएमएल HTML ODS और TXT प्रारूप निर्यात करें
 ---
 {{< blocks/products/pf/main-wrap-class >}}

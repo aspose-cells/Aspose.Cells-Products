@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera CSV till TIFF via Python
-url: /sv/python-java/conversion/csv-to-tiff/
+
 description: Exempelkod för konvertering från csv till tiff Python. Använd API exempelkod för batch-csv-filer för att tiff-konvertera i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

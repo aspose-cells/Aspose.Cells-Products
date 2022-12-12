@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to MD via Java 
-url: /java/conversion/xlsb-to-md/
+
 description: Convert XLSB to MD format in Java code. Save XLSB as MD using Java.
 ---
 

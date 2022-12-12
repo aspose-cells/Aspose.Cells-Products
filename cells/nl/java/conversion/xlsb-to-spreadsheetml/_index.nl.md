@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLSB naar SPREADSHEETML via Java 
-url: /nl/java/conversion/xlsb-to-spreadsheetml/ 
+
 description: Voorbeeld Java conversiecode voor XLSB-indeling naar SPREADSHEETML-bestand. Programmeurs kunnen deze voorbeeldcode gebruiken om Excel- en OpenOffice-spreadsheets te exporteren naar SPREADSHEETML binnen elke web- of desktoptoepassing Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

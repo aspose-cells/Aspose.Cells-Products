@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή SPREADSHEETML σε DOCX μέσω Python
-url: /el/python-java/conversion/spreadsheetml-to-docx/
+
 description: Δείγμα κώδικα για μετατροπή υπολογιστικού φύλλου σε docx Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία υπολογιστικού φύλλου για μετατροπή docx εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

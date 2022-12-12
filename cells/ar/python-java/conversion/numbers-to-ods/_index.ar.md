@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل الأرقام إلى ODS عبر Python
-url: /ar/python-java/conversion/numbers-to-ods/
+
 description: نموذج رمز لتحويل الأعداد إلى ods Python. استخدم API رمز المثال لملفات الأرقام الدفعية لتحويل ods داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

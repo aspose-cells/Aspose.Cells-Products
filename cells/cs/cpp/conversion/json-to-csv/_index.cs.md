@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte JSON na CSV prostřednictvím aplikace C++ 
-url: /cs/cpp/conversion/json-to-csv/ 
+
 description: Ukázkový konverzní kód C++ pro dokument JSON na formát CSV. Programátoři mohou tento zdrojový kód použít pro dávkový převod JSON na CSV v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

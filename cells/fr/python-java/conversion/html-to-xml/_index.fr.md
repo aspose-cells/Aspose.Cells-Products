@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir HTML en XML via Python
-url: /fr/python-java/conversion/html-to-xml/
+
 description: Exemple de code pour la conversion html vers xml Python. Utilisez l'exemple de code API pour la conversion de fichiers html par lots en xml dans l'application Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

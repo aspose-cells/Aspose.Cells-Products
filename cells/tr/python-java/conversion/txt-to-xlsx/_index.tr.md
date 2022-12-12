@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla TXT'yi XLSX'e dönüştürün
-url: /tr/python-java/conversion/txt-to-xlsx/
+
 description: txt'den xlsx'e Python dönüştürme için örnek kod. Python uygulamasında toplu txt dosyalarını xlsx'e dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

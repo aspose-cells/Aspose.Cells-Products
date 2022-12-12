@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi NUMBERS thành SVG qua Python
-url: /vi/python-java/conversion/numbers-to-svg/
+
 description: Mã mẫu cho chuyển đổi số thành svg Python. Sử dụng mã mẫu API cho các tệp số lô để chuyển đổi svg trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

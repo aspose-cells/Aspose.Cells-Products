@@ -1,6 +1,6 @@
 ---
 title: Convert XLTM to PDF via Python
-url: /python-java/conversion/xltm-to-pdf/
+
 description: Convert XLTM to PDF format in Python code. Save XLTM as PDF using Python.
 ---
 

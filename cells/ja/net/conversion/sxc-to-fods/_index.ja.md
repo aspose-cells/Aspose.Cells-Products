@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してSXCをFODSに変換します
-url: /ja/net/conversion/sxc-to-fods/
+
 description: sxcからfodsC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチsxcファイルからfodsへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

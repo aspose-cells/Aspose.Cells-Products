@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to TSV via C#
-url: /net/conversion/mhtml-to-tsv/
+
 description: Convert MHTML to TSV format in C# code. Save MHTML as TSV using VB.NET, Asp.NET or any .NET based application.
 ---
 

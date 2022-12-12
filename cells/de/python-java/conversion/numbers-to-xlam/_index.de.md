@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie NUMBERS in XLAM über Python
-url: /de/python-java/conversion/numbers-to-xlam/
+
 description: Beispielcode für die Umwandlung von Zahlen in xlam Python. Verwenden Sie den API-Beispielcode für die Konvertierung von Stapelnummerndateien in xlam innerhalb der Anwendung Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: FODS'u Python aracılığıyla XLT'ye dönüştürün
-url: /tr/python-java/conversion/fods-to-xlt/
+
 description: Fos'tan xlt'ye Python dönüştürme için örnek kod. Python uygulamasında toplu dosya dosyaları için xlt dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

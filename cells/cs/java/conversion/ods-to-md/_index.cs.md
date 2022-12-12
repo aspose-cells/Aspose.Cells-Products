@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést ODS na MD přes Java 
-url: /cs/java/conversion/ods-to-md/ 
+
 description: Ukázkový konverzní kód Java pro formát ODS na soubor MD. Programátoři mohou tento příklad kódu použít k exportu tabulek Excelu a OpenOffice do MD v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

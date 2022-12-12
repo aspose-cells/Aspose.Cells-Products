@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést SPREADSHEETML na XLT přes Python
-url: /cs/python-java/conversion/spreadsheetml-to-xlt/
+
 description: Ukázkový kód pro převod tabulky ml na xlt Python. Použijte ukázkový kód API pro dávkové soubory tabulkového procesoruml na převod xlt v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan XLSB ke MARKDOWN melalui Python
-url: /id/python-java/conversion/xlsb-to-markdown/
+
 description: Contoh kode untuk konversi xlsb ke penurunan harga Python. Gunakan API kode contoh untuk berkas xlsb batch untuk konversi penurunan harga dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

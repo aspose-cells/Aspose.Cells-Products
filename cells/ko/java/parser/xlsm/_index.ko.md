@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java을 통해 XLSM 문서에서 텍스트 및 이미지 추출 
 weight: 3260
-url: /ko/java/parser/xlsm/ 
+
 description: Java JSP/JSF 애플리케이션 및 데스크톱 애플리케이션을 위한 Java 런타임 환경의 XLSM 파일에서 텍스트와 이미지를 추출하는 샘플 코드.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

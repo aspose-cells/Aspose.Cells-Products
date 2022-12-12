@@ -1,7 +1,7 @@
-﻿---
+---
 title: Generuj raporty w plikach XLSX za pomocą .NET 
 weight: 6740
-url: /pl/net/assembly/xlsx/ 
+
 description: C# kod źródłowy do generowania raportów w formacie XLSX na platformach .NET Framework, .NET Core, Mono lub Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

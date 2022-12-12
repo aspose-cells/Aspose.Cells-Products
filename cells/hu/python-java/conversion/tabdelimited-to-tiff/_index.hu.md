@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TABDELIMITED konvertálása TIFF-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/tabdelimited-to-tiff/
+
 description: Mintakód a tabulátorral határolt tiff Python konverzióhoz. Használjon API példakódot a kötegelt tabulátorral tagolt fájlokhoz a tiff konverzióhoz a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

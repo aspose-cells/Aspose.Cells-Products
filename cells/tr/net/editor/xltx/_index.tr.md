@@ -1,6 +1,6 @@
-﻿---
+---
 title: XLTX dosyalarını .NET aracılığıyla düzenleyin 
-url: /tr/net/editor/xltx/ 
+
 description: .NET Framework, .NET Core, Windows Azure, Mono veya Xamarin Platformlarında XLTX belgesini düzenlemek için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

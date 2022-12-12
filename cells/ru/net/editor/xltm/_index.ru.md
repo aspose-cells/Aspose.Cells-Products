@@ -1,6 +1,6 @@
-﻿---
+---
 title: Редактируйте файлы XLTM через .NET 
-url: /ru/net/editor/xltm/ 
+
 description: Исходный код C# для редактирования документа XLTM на платформах .NET Framework, .NET Core, Windows Azure, Mono или Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

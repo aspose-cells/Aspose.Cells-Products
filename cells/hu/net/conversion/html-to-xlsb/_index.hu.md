@@ -1,6 +1,6 @@
-﻿---
+---
 title: "HTML konvertálása XLSB-re a következőn keresztül: C#"
-url: /hu/net/conversion/html-to-xlsb/
+
 description: Mintakód a html-ből xlsb-be C# történő konverzióhoz. Használjon API példakódot kötegelt html fájlok xlsb konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

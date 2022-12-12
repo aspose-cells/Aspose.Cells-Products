@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLS na PNG přes Python
-url: /cs/python-java/conversion/xls-to-png/
+
 description: Ukázkový kód pro převod xls na png Python. Použijte API ukázkový kód pro dávkový převod souborů xls na png v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

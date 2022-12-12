@@ -1,6 +1,6 @@
-﻿---
+---
 title: Erstellung von Excel-Diagrammen und Umwandlung in Bilder über .NET
-url: /de/net/chart/
+
 description: C#-Quellcode zum Zeichnen und Konvertieren von Diagrammen oder Diagrammen in Microsoft Excel mithilfe der .NET-Bibliothek. 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

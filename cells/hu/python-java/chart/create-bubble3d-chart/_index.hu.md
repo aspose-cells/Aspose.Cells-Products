@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Bubble3D diagramok létrehozása a következőn keresztül: Python"
-url: /hu/python-java/create-bubble3d-chart/
+
 description: Python Mintakód Bubble3D diagramok készítéséhez Excelbe a Python Library használatával. Használja ezt a kódot Bubble3D diagram létrehozásához MS Excelben a Python alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

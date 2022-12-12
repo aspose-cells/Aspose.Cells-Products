@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLS konvertálása JPEG formátumba a következőn keresztül: C#"
-url: /hu/net/conversion/xls-to-jpeg/
+
 description: Mintakód az xls-ből jpeg-be C# konvertáláshoz. Használjon API példakódot kötegelt xls fájlokhoz a jpeg konvertáláshoz VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

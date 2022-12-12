@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir TXT en TIFF via l'application C++ 
-url: /fr/cpp/conversion/txt-to-tiff/ 
+
 description: Exemple de code de conversion C++ pour le document TXT au format TIFF. Les programmeurs peuvent utiliser ce code source pour la conversion par lots de TXT en TIFF dans n'importe quelle application C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

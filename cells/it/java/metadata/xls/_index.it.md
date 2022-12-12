@@ -1,7 +1,7 @@
-﻿---
+---
 title: Modifica o visualizza i metadati dei file XLS tramite Java 
 weight: 730
-url: /it/java/metadata/xls/ 
+
 description: Java codice di esempio per modificare o visualizzare i metadati in formato XLS su Java Runtime Environment per applicazioni JSP/JSF e applicazioni desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte XLTM do PDF pomocí aplikace C++ 
-url: /cs/cpp/conversion/xltm-to-pdf/ 
+
 description: Ukázka převodního kódu C++ pro dokument XLTM do formátu PDF. Programátoři mohou použít tento zdrojový kód pro dávkový převod XLTM do PDF v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést HTML na FODS prostřednictvím C#
-url: /cs/net/conversion/html-to-fods/
+
 description: Ukázkový kód pro konverzi html na fods C#. Použijte API ukázkový kód pro dávkový převod html souborů na fods v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

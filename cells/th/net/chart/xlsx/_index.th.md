@@ -1,7 +1,7 @@
-﻿---
+---
 title:  แผนภูมิเอกสาร XLSX เป็นรูปภาพผ่าน .NET 
 weight: 2630
-url: /th/net/chart/xlsx/ 
+
 description: C# ซอร์สโค้ดสำหรับวาดและแปลงแผนภูมิหรือไดอะแกรมในไฟล์ XLSX บน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

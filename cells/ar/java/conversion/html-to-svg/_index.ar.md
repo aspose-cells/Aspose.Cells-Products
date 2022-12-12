@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل HTML إلى SVG عبر Java 
 weight: 7120
-url: /ar/java/conversion/html-to-svg/ 
+
 description: نموذج رمز تحويل Java لتنسيق HTML إلى ملف SVG. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel و OpenOffice إلى SVG داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: ดูหรือแก้ไขข้อมูลเมตาของไฟล์ XLSB ผ่าน .NET 
 weight: 7890
-url: /th/net/metadata/xlsb/ 
+
 description: C# ซอร์สโค้ดสำหรับแก้ไขหรือดูข้อมูลเมตารูปแบบ XLSB บน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

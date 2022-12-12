@@ -1,6 +1,6 @@
-﻿---
+---
 title: Δημιουργία αρχείων MS Excel XLSM μέσω Java 
-url: /el/java/create-xlsm/ 
+
 description: Java Δείγμα κώδικα για τη δημιουργία εγγράφων XLSM. Χρησιμοποιήστε αυτόν τον κώδικα για τη δημιουργία αρχείων MS Excel XLSM μέσα σε Java επιτραπέζιους υπολογιστές ή εφαρμογές ιστού.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

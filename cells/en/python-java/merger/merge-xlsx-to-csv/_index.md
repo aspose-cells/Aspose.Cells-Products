@@ -1,6 +1,6 @@
 ---
 title: Merge XLSX to CSV Files via Python 
-url: /python-java/merger/merge-xlsx-to-csv/ 
+
 description: Merge XLSX to CSV file in Python code. Combine XLSX to CSV file using Python.
 ---
 

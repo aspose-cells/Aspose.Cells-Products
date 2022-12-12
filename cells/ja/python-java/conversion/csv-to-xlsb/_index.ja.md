@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python経由でCSVをXLSBに変換
-url: /ja/python-java/conversion/csv-to-xlsb/
+
 description: csvからxlsbPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチcsvファイルからxlsbへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

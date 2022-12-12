@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést XLSB na HTML pomocí Java 
 weight: 6480
-url: /cs/java/conversion/xlsb-to-html/ 
+
 description: Ukázkový konverzní kód Java pro formát XLSB na soubor HTML. Programátoři mohou použít tento příklad kódu k exportu tabulek Excelu a OpenOffice do HTML v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

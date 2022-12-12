@@ -1,6 +1,6 @@
-﻿---
+---
 title: إنشاء ملفات MS Excel XLSM عبر C++ 
-url: /ar/cpp/create-xlsm/ 
+
 description: C++ نموذج كود لإنشاء ملفات MS Excel XLSM. استخدم هذا الرمز لإنشاء ملفات MS Excel XLSM داخل تطبيق يستند إلى C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

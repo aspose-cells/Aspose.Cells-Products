@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta NUMBERS a SPREADSHEETML a través de Python
-url: /es/python-java/conversion/numbers-to-spreadsheetml/
+
 description: Ejemplo de código para conversión de números a hoja de cálculo Python. Use el código de ejemplo API para los archivos de números de lote para la conversión de hoja de cálculo en Python aplicación.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

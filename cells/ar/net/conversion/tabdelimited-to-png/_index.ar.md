@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TABDELIMITED إلى PNG عبر C#
-url: /ar/net/conversion/tabdelimited-to-png/
+
 description: نموذج التعليمات البرمجية لجدولة محدودة لتحويل png C#. استخدم API رمز المثال للملفات المحددة بعلامات جدولة لتحويل ملفات png داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

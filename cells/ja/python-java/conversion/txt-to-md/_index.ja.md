@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してTXTをMDに変換します
-url: /ja/python-java/conversion/txt-to-md/
+
 description: txtからmdPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチtxtファイルからmdへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

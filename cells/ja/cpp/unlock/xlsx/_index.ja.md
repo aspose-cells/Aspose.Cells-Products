@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++を介してXLSXドキュメントのロックを解除します 
 weight: 3680
-url: /ja/cpp/unlock/xlsx/ 
+
 description: C++ Windows 32ビット、Windows 64ビット、およびLinux64ビットのランタイム環境でパスワードで保護されたXLSXファイルのロックを解除するためのサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

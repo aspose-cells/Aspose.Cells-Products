@@ -1,7 +1,7 @@
-﻿---
+---
 title: عرض أو تحرير البيانات الوصفية لملفات ODS عبر .NET 
 weight: 320
-url: /ar/net/metadata/ods/ 
+
 description: C# شفرة المصدر لتعديل أو عرض البيانات الوصفية لتنسيق ODS على الأنظمة الأساسية .NET Framework أو .NET Core أو Mono أو Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

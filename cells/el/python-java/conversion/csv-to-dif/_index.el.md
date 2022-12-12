@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή CSV σε DIF μέσω Python
-url: /el/python-java/conversion/csv-to-dif/
+
 description: Δείγμα κώδικα για μετατροπή csv στη διαφορά Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία csv για να διαφοροποιήσετε τη μετατροπή εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

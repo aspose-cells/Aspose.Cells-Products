@@ -1,7 +1,7 @@
-﻿---
+---
 title: แยกข้อความและรูปภาพจากเอกสาร XLSB ผ่าน .NET 
 weight: 2200
-url: /th/net/parser/xlsb/ 
+
 description: C# ซอร์สโค้ดเพื่อดึงข้อความและรูปภาพจากไฟล์ XLSB บน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

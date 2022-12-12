@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してXLTXをJPEGに変換します 
 weight: 9380
-url: /ja/java/conversion/xltx-to-jpeg/ 
+
 description: XLTX形式からJPEGファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、WebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをJPEGにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

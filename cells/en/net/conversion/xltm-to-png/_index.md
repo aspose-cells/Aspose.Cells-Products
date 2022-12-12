@@ -1,6 +1,6 @@
 ---
 title: Convert XLTM to PNG via C#
-url: /net/conversion/xltm-to-png/
+
 description: Convert XLTM to PNG format in C# code. Save XLTM as PNG using VB.NET, Asp.NET or any .NET based application.
 ---
 

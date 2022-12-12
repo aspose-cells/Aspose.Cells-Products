@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir SXC en BMP via C#
-url: /fr/net/conversion/sxc-to-bmp/
+
 description: Exemple de code pour la conversion sxc vers bmp C#. Utilisez l'exemple de code API pour les fichiers sxc par lots en conversion bmp dans VB.NET, Asp.NET ou toute application basée sur .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

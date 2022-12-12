@@ -1,6 +1,6 @@
-﻿---
+---
 title: Maak MS Excel XLSX-bestanden via Python 
-url: /nl/python-java/create-xlsx/ 
+
 description: Python Voorbeeldcode voor het genereren van XLSX-documenten. Gebruik deze code voor het maken van MS Excel XLSX-bestanden binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

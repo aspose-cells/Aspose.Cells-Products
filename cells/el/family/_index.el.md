@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET Java C++ API ανάλυσης υπολογιστικών φύλλων PHP και Android Excel 
 weight: 10
-url: /el/family
+
 description: Βιβλιοθήκες για ανάγνωση και διαχείριση αρχείων Microsoft Excel σε .NET Java C++ εφαρμογές Android και SharePoint. Εξαγωγή φύλλων εργασίας σε SSRS και JasperReports
 ---
 {{< blocks/products/pf/main-wrap-class >}}

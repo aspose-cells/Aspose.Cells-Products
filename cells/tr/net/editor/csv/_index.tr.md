@@ -1,6 +1,6 @@
-﻿---
+---
 title: .NET aracılığıyla CSV dosyalarını düzenleyin 
-url: /tr/net/editor/csv/ 
+
 description: .NET Framework, .NET Core, Windows Azure, Mono veya Xamarin Platformlarında CSV belgesini düzenlemek için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertálja a CSV-t XLSX-re a(z) C++ alkalmazáson keresztül 
 weight: 4030
-url: /hu/cpp/conversion/csv-to-xlsx/ 
+
 description: Minta C++ konverziós kód a CSV-dokumentumhoz XLSX formátumba. A programozók ezt a forráskódot használhatják kötegelt CSV-ből XLSX-be konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

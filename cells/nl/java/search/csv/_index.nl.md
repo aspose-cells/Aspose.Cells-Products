@@ -1,7 +1,7 @@
-﻿---
+---
 title: Zoek CSV-document zonder te openen via Java 
 weight: 390
-url: /nl/java/search/csv/ 
+
 description: Java voorbeeldcode om woorden met patroon te zoeken in CSV-bestand op Java Runtime Environment voor JSP/JSF-applicaties en desktopapplicaties.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

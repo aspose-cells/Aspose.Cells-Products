@@ -1,7 +1,7 @@
-﻿---
+---
 title: Vyhledejte a nahraďte text v dokumentu XLSB prostřednictvím .NET 
 weight: 3890
-url: /cs/net/redaction/xlsb/ 
+
 description: C# zdrojový kód k redigování citlivých informací v souboru XLSB na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

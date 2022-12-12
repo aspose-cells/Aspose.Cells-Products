@@ -1,7 +1,7 @@
-﻿---
+---
 title: Raporları Excel XLS XLSX PDF ODS'de JasperReports ve JasperServer'da Dışa Aktarma 
 weight: 9460
-url: /tr/jasperreports/ 
+
 description: Jasper Reports ve JasperServer'dan raporları Excel XLS XLSX PDF ODS TXT ve SpreadsheetML formatında dışa aktarın. Ayrıca raporları Excel Elektronik Tabloları olarak yazdırın
 ---
 {{< blocks/products/pf/main-wrap-class >}}

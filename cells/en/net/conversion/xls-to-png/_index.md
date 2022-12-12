@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to PNG via C#
-url: /net/conversion/xls-to-png/
+
 description: Convert XLS to PNG format in C# code. Save XLS as PNG using VB.NET, Asp.NET or any .NET based application.
 ---
 

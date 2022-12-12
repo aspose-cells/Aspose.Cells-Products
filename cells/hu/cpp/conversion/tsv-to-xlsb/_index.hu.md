@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertálja a TSV-t XLSB-re a(z) C++ alkalmazáson keresztül 
 weight: 1370
-url: /hu/cpp/conversion/tsv-to-xlsb/ 
+
 description: Minta C++ konverziós kód a TSV-dokumentumhoz XLSB formátumba. A programozók ezt a forráskódot használhatják kötegelt TSV-ből XLSB-vé konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Hozzon létre MS Excel XLTM fájlokat a következőn keresztül: C++ "
-url: /hu/cpp/create-xltm/ 
+
 description: C++ Mintakód MS Excel XLTM fájlok generálásához. Ezzel a kóddal MS Excel XLTM fájlokat hozhat létre C++ alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

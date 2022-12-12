@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer TXT naar SVG via C#
-url: /nl/net/conversion/txt-to-svg/
+
 description: Voorbeeldcode voor conversie van txt naar svg C#. Gebruik API voorbeeldcode voor batch-txt-bestanden naar svg-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

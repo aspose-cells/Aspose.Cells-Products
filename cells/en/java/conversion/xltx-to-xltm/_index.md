@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to XLTM via Java 
-url: /java/conversion/xltx-to-xltm/
+
 description: Convert XLTX to XLTM format in Java code. Save XLTX as XLTM using Java.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してNUMBERSをMHTMLに変換します 
-url: /ja/java/conversion/numbers-to-mhtml/ 
+
 description: NUMBERS形式のMHTMLファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、WebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをMHTMLにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

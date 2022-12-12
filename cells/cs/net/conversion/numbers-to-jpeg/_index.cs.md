@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést NUMBERS na JPEG prostřednictvím C#
-url: /cs/net/conversion/numbers-to-jpeg/
+
 description: Ukázkový kód pro převod čísel na jpeg C#. Použijte API ukázkový kód pro dávkové soubory čísel pro převod jpeg v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi XLSM ke CSV melalui C#
-url: /id/net/conversion/xlsm-to-csv/
+
 description: Contoh kode untuk konversi xlsm ke csv C#. Gunakan API kode contoh untuk file batch xlsm ke konversi csv dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

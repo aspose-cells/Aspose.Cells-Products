@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to TXT via C++
-url: /cpp/conversion/html-to-txt/
+
 description: Convert HTML to TXT format in C++ code. Save HTML as TXT using C++.
 ---
 

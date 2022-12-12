@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++アプリケーションを介してSPREADSHEETMLをXLSBに変換します 
-url: /ja/cpp/conversion/spreadsheetml-to-xlsb/ 
+
 description: SPREADSHEETMLドキュメントのサンプルC++変換コードからXLSB形式へ。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でSPREADSHEETMLからXLSBへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

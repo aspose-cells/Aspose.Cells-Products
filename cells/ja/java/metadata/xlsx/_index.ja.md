@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してXLSXファイルのメタデータを編集または表示する 
 weight: 1240
-url: /ja/java/metadata/xlsx/ 
+
 description: Java JSP/JSFアプリケーションおよびデスクトップアプリケーションのランタイム環境でXLSX形式のメタデータを編集または表示するためのサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

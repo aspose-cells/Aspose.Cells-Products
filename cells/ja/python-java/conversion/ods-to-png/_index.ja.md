@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してODSをPNGに変換する
-url: /ja/python-java/conversion/ods-to-png/
+
 description: odsからpngPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチodsファイルからpngへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

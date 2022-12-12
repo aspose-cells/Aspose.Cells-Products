@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java aracılığıyla XLSM Dosyalarında Raporlar Oluşturun 
 weight: 270
-url: /tr/java/assembly/xlsm/ 
+
 description: JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Runtime Environment'da XLSM biçiminde raporlar oluşturmak için Java örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

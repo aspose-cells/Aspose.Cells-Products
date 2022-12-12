@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to WORD via Java 
-url: /java/conversion/html-to-word/
+
 description: Convert HTML to WORD format in Java code. Save HTML as WORD using Java.
 ---
 

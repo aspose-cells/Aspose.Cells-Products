@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to TSV via Java 
-url: /java/conversion/numbers-to-tsv/
+
 description: Convert NUMBERS to TSV format in Java code. Save NUMBERS as TSV using Java.
 ---
 

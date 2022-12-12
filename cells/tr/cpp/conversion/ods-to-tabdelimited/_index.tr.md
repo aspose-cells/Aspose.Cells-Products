@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++ uygulaması aracılığıyla ODS'yi TABDELIMITED'e dönüştürün 
-url: /tr/cpp/conversion/ods-to-tabdelimited/ 
+
 description: ODS belgesi için TABDELIMITED biçimine örnek C++ dönüştürme kodu. Programcılar, herhangi bir C++ Uygulamasında toplu ODS'den TABDELIMITED'e dönüştürme için bu kaynak kodunu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TABDELIMITED إلى MARKDOWN عبر Python
-url: /ar/python-java/conversion/tabdelimited-to-markdown/
+
 description: نموذج شفرة للتحويل المحدّد بعلامات جدولة حتى التخفيض Python. استخدم API رمز المثال للملفات المحددة بعلامات جدولة مجمعة لتحويل العلامات المميزة داخل التطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

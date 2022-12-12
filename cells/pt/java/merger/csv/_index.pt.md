@@ -1,7 +1,7 @@
-﻿---
+---
 title: Mesclar arquivos CSV via Java 
 weight: 3860
-url: /pt/java/merger/csv/ 
+
 description: Java código de amostra para combinar documentos CSV no Java ambiente de tempo de execução para aplicativos JSP/JSF e aplicativos de desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

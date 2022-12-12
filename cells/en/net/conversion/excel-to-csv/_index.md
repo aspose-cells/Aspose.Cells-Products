@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to CSV via C#
-url: /net/conversion/excel-to-csv/
+
 description: Convert EXCEL to CSV format in C# code. Save EXCEL as CSV using VB.NET, Asp.NET or any .NET based application.
 ---
 

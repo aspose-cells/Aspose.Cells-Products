@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل CSV إلى JSON عبر تطبيق C++ 
-url: /ar/cpp/conversion/csv-to-json/ 
+
 description: نموذج C++ رمز التحويل لمستند CSV إلى تنسيق JSON. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل CSV إلى JSON الدفعي داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

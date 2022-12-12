@@ -1,7 +1,7 @@
-﻿---
+---
 title: वॉटरमार्क XLS दस्तावेज़ Java के ज़रिए 
 weight: 2210
-url: /hi/java/watermark/xls/ 
+
 description: Java JSP/JSF एप्लिकेशन और डेस्कटॉप एप्लिकेशन के लिए रनटाइम एनवायरनमेंट पर XLS फ़ाइल में वॉटरमार्क जोड़ने या निकालने के लिए Java नमूना कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

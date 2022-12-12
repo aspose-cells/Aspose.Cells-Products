@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TABDELIMITED إلى EMF عبر Python
-url: /ar/python-java/conversion/tabdelimited-to-emf/
+
 description: نموذج رمز لجدولة محدودية لتحويل Python emf. استخدم API رمز المثال للملفات المحددة بعلامات جدولة مجمعة لتحويل emf داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

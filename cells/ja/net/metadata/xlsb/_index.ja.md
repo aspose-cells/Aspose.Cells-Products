@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NETを介してXLSBファイルのメタデータを表示または編集する 
 weight: 7890
-url: /ja/net/metadata/xlsb/ 
+
 description: .NETフレームワーク、.NETコア、Mono、またはXamarinプラットフォームでXLSB形式のメタデータを編集または表示するためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

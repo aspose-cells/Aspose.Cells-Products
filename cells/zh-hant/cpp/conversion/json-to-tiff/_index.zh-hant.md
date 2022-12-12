@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 C++ 應用程序將 JSON 轉換為 TIFF 
-url: /zh-hant/cpp/conversion/json-to-tiff/ 
+
 description: JSON 文檔到 TIFF 格式的示例 C++ 轉換代碼。程序員可以在任何 C++ 應用程序中使用此源代碼進行批量 JSON 到 TIFF 的轉換。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

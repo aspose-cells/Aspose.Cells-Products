@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to XLS via Java 
-url: /java/conversion/numbers-to-xls/
+
 description: Convert NUMBERS to XLS format in Java code. Save NUMBERS as XLS using Java.
 ---
 

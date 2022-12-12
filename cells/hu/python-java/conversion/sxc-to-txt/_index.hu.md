@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SXC konvertálása TXT-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/sxc-to-txt/
+
 description: Mintakód az sxc-ből txt-be Python konverzióhoz. Használjon API példakódot a kötegelt sxc fájlok txt konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

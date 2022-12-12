@@ -1,7 +1,7 @@
 ---
 title: Merge ODS Files via .NET 
 weight: 4330
-url: /net/merger/ods/ 
+
 description: C# source code to combine ODS documents on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

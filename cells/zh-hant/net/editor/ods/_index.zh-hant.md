@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 .NET 編輯 ODS 文件 
-url: /zh-hant/net/editor/ods/ 
+
 description: C# 用於在 .NET Framework、.NET Core、Windows Azure、Mono 或 Xamarin 平台上編輯 ODS 文檔的源代碼。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

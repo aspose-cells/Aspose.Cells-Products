@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převeďte XLS na TSV pomocí aplikace C++ 
 weight: 3190
-url: /cs/cpp/conversion/xls-to-tsv/ 
+
 description: Ukázkový konverzní kód C++ pro dokument XLS na formát TSV. Programátoři mohou tento zdrojový kód použít pro dávkový převod XLS na TSV v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

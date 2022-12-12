@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera NUMBERS till SPREADSHEETML via Java 
-url: /sv/java/conversion/numbers-to-spreadsheetml/ 
+
 description: Exempel på konverteringskod för Java för NUMBERS-format till SPREADSHEETML-fil. Programmerare kan använda den här exempelkoden för att exportera Excel- och OpenOffice-kalkylblad till SPREADSHEETML inom alla webb- eller skrivbordsbaserade Java-applikationer.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

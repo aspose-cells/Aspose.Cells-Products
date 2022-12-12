@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converter TXT para HTML via Java 
 weight: 9800
-url: /pt/java/conversion/txt-to-html/ 
+
 description: Exemplo de código de conversão Java para formato TXT em arquivo HTML. Os programadores podem usar este código de exemplo para exportar planilhas do Excel e OpenOffice para HTML em qualquer aplicativo baseado na Web ou Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

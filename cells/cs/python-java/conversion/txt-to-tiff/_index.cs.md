@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TXT na TIFF přes Python
-url: /cs/python-java/conversion/txt-to-tiff/
+
 description: Ukázkový kód pro převod txt na tiff Python. Použijte API ukázkový kód pro dávkové soubory txt k převodu tiff v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

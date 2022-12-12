@@ -1,6 +1,6 @@
-﻿---
+---
 title: ODS konvertálása TABDELIMITED-re C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/ods-to-tabdelimited/ 
+
 description: Minta C++ konverziós kód az ODS dokumentumhoz TABDELIMITED formátumba. A programozók ezt a forráskódot használhatják kötegelt ODS-ből TABDELIMITED konverzióhoz bármely C++ alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Telusuri dokumen ODS tanpa membuka melalui C++ 
 weight: 3300
-url: /id/cpp/search/ods/ 
+
 description: C++ contoh kode untuk mencari kata dengan pola dalam file ODS pada C++ Runtime Environment untuk Windows 32 bit, Windows 64 bit dan Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

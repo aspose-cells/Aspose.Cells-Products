@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ एप्लिकेशन के माध्यम से CSV को PNG में बदलें 
 weight: 920
-url: /hi/cpp/conversion/csv-to-png/ 
+
 description: नमूना C++ सीएसवी दस्तावेज़ के लिए पीएनजी प्रारूप में रूपांतरण कोड। प्रोग्रामर इस स्रोत कोड का उपयोग किसी भी C++ एप्लिकेशन में CSV से PNG रूपांतरण के बैच के लिए कर सकते हैं।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

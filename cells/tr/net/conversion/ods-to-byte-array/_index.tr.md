@@ -1,7 +1,7 @@
-﻿---
+---
 title: ODS'yi C# aracılığıyla Bayt Dizisine dönüştürün 
 weight: 7690
-url: /tr/net/conversion/ods-to-byte-array/ 
+
 description: C# ODS'den Bayt Dizisine dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde Excel ODS'den Bayt Dizisine dönüştürme için bu kodu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

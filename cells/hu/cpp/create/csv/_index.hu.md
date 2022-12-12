@@ -1,6 +1,6 @@
-﻿---
+---
 title: "CSV-fájlok létrehozása a következőn keresztül: C++ "
-url: /hu/cpp/create-csv/ 
+
 description: C++ Mintakód CSV-fájlok létrehozásához. Használja ezt a kódot CSV-fájlok létrehozásához C++ alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

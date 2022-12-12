@@ -1,6 +1,6 @@
-﻿---
+---
 title: Разделить электронную таблицу Excel на рабочие листы в Java
-url: /ru/java/splitter/
+
 description: Исходные коды Java, объясняющие, как разделить файлы Microsoft Excel на несколько документов с помощью библиотеки Java Excel
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

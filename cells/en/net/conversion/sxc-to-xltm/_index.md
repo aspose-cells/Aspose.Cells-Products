@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to XLTM via C#
-url: /net/conversion/sxc-to-xltm/
+
 description: Convert SXC to XLTM format in C# code. Save SXC as XLTM using VB.NET, Asp.NET or any .NET based application.
 ---
 

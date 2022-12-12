@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi FODS thành MARKDOWN qua Python
-url: /vi/python-java/conversion/fods-to-markdown/
+
 description: Mã mẫu cho chuyển đổi fods để đánh dấu Python. Sử dụng mã mẫu API cho các tệp fods hàng loạt để đánh dấu chuyển đổi trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

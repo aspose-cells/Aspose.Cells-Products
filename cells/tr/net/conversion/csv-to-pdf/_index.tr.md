@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla CSV'yi PDF'ye dönüştürün
-url: /tr/net/conversion/csv-to-pdf/
+
 description: csv'den pdf'ye C# dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu csv dosyalarını pdf'ye dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

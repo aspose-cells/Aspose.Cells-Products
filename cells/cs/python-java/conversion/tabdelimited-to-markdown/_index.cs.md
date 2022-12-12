@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TABDELIMITED na MARKDOWN prostřednictvím Python
-url: /cs/python-java/conversion/tabdelimited-to-markdown/
+
 description: Ukázkový kód pro konverzi Python oddělená tabulátorem až markdown. Použijte API ukázkový kód pro dávkové soubory oddělené tabulátory k převodu markdown v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja a TXT-t TIFF-be a(z) C++ alkalmazással 
-url: /hu/cpp/conversion/txt-to-tiff/ 
+
 description: Minta C++ konverziós kód a TXT dokumentumhoz TIFF formátumba. A programozók ezt a forráskódot használhatják a kötegelt TXT-TIFF konvertáláshoz bármely C++ alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

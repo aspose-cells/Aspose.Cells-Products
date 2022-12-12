@@ -1,7 +1,7 @@
-﻿---
+---
 title: فتح مستند ODS عبر C++ 
 weight: 1190
-url: /ar/cpp/unlock/ods/ 
+
 description: C++ مثال على رمز لإلغاء تأمين ملف ODS المحمي بكلمة مرور في C++ Runtime Environment لأنظمة التشغيل Windows 32 بت و Windows 64 بت و Linux 64 بت.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

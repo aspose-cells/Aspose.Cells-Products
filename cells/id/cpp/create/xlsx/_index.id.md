@@ -1,6 +1,6 @@
-﻿---
+---
 title: Buat File MS Excel XLSX melalui C++ 
-url: /id/cpp/create-xlsx/ 
+
 description: C++ Contoh kode untuk membuat file MS Excel XLSX. Gunakan kode ini untuk membuat file MS Excel XLSX dalam aplikasi berbasis C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

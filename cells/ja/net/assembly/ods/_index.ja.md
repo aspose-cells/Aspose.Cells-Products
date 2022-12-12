@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NETを介してODSファイルでレポートを生成する 
 weight: 520
-url: /ja/net/assembly/ods/ 
+
 description: .NETフレームワーク、.NETコア、Mono、またはXamarinプラットフォームでODS形式のレポートを生成するためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

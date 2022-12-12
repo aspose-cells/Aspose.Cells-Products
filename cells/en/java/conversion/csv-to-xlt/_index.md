@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to XLT via Java 
-url: /java/conversion/csv-to-xlt/
+
 description: Convert CSV to XLT format in Java code. Save CSV as XLT using Java.
 ---
 

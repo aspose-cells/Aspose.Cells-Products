@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla FODS'u MD'ye dönüştürün
-url: /tr/python-java/conversion/fods-to-md/
+
 description: Yemlerin md Python dönüşümüne ilişkin örnek kod. Python uygulamasında toplu dosya dosyalarından md'ye dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

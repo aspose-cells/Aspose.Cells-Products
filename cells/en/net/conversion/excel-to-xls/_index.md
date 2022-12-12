@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to XLS via C#
-url: /net/conversion/excel-to-xls/
+
 description: Convert EXCEL to XLS format in C# code. Save EXCEL as XLS using VB.NET, Asp.NET or any .NET based application.
 ---
 

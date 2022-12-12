@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLS-t XML-be a(z) C++ alkalmazással 
-url: /hu/cpp/conversion/xls-to-xml/ 
+
 description: Minta C++ konverziós kód az XLS dokumentumhoz XML formátumba. A programozók ezt a forráskódot használhatják XLS-ből XML-be kötegelt konvertálásához bármely C++ alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

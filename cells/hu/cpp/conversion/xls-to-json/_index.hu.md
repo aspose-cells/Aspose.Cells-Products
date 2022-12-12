@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLS-t JSON-ra a(z) C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/xls-to-json/ 
+
 description: Minta C++ konverziós kód XLS-dokumentumhoz JSON formátumba. A programozók ezt a forráskódot használhatják az XLS-ből JSON-ba kötegelt konvertáláshoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert XLSX to HTML via Java 
-url: /java/conversion/xlsx-to-html/
+
 description: Convert XLSX to HTML format in Java code. Save XLSX as HTML using Java.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla CSV'yi DOCX'e dönüştürün
-url: /tr/python-java/conversion/csv-to-docx/
+
 description: csv'den docx'e Python dönüştürme için örnek kod. Python uygulamasında toplu csv dosyalarından docx'e dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

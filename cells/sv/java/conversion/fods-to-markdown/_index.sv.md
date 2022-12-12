@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera FODS till MARKDOWN via Java 
-url: /sv/java/conversion/fods-to-markdown/ 
+
 description: Exempel på Java-konverteringskod för FODS-format till MARKDOWN-fil. Programmerare kan använda den här exempelkoden för att exportera Excel- och OpenOffice-kalkylblad till MARKDOWN inom alla webb- eller skrivbordsbaserade Java-applikationer.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Δημιουργία αναφορών σε αρχεία XLSX μέσω .NET 
 weight: 6740
-url: /el/net/assembly/xlsx/ 
+
 description: C# πηγαίος κώδικας για τη δημιουργία αναφορών μορφής XLSX σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

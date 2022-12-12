@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi CSV sang XML qua ứng dụng C++ 
-url: /vi/cpp/conversion/csv-to-xml/ 
+
 description: Mã chuyển đổi C++ mẫu cho tài liệu CSV sang định dạng XML. Các lập trình viên có thể sử dụng mã nguồn này để chuyển đổi hàng loạt CSV sang XML trong bất kỳ Ứng dụng C++ nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

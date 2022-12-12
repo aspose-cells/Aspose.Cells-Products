@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj TXT na MHTML przez C#
-url: /pl/net/conversion/txt-to-mhtml/
+
 description: Przykładowy kod konwersji txt na mhtml C#. Użyj przykładowego kodu API dla plików wsadowych txt do konwersji mhtml w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

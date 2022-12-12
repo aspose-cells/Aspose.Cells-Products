@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java Excel API - Aspose 
 weight: 6830
-url: /tr/java/ 
+
 description: Java Elektronik tablo işleme için Excel kitaplığı. Yazma oluşturmayı okuyun ve XLS XLSX XLSM ODS CSV TSV ve daha fazla formatı dönüştürün. Windows Linux ve Unix ile uyumlu
 ---
 {{< blocks/products/pf/main-wrap-class >}}

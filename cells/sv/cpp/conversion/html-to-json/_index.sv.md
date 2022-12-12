@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera HTML till JSON via programmet C++ 
-url: /sv/cpp/conversion/html-to-json/ 
+
 description: Exempel på C++-konverteringskod för HTML-dokument till JSON-format. Programmerare kan använda den här källkoden för batchkonvertering av HTML till JSON i alla C++-program.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertera TSV till EMF via Java 
 weight: 2530
-url: /sv/java/conversion/tsv-to-emf/ 
+
 description: Exempel på Java-konverteringskod för TSV-format till EMF-fil. Programmerare kan använda den här exempelkoden för att exportera Excel- och OpenOffice-kalkylblad till EMF inom alla webb- eller skrivbordsbaserade Java-applikationer.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: دمج ملفات TSV عبر .NET 
 weight: 1360
-url: /ar/net/merger/tsv/ 
+
 description: C# شفرة المصدر لدمج مستندات TSV في .NET Framework أو .NET Core أو Mono أو أنظمة Xamarin الأساسية.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

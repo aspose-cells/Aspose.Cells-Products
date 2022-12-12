@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してXLSMをXLTMに変換します 
 weight: 4470
-url: /ja/java/conversion/xlsm-to-xltm/ 
+
 description: XLSM形式からXLTMファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、任意のWebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをXLTMにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

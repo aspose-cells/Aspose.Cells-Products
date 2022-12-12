@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converti XLSB in MARKDOWN tramite C#
-url: /it/net/conversion/xlsb-to-markdown/
+
 description: Codice di esempio per la conversione da xlsb a markdown C#. Utilizza API codice di esempio per file batch xlsb per ridurre la conversione all'interno di VB.NET, Asp.NET o qualsiasi applicazione basata su .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

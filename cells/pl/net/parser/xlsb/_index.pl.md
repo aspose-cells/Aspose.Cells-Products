@@ -1,7 +1,7 @@
-﻿---
+---
 title: Wyodrębnij tekst i obrazy z dokumentu XLSB za pomocą .NET 
 weight: 2200
-url: /pl/net/parser/xlsb/ 
+
 description: C# kod źródłowy do wyodrębniania tekstu i obrazów z pliku XLSB na platformach .NET Framework, .NET Core, Mono lub Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

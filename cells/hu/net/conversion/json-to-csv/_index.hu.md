@@ -1,6 +1,6 @@
-﻿---
+---
 title: "JSON konvertálása CSV-vé a következőn keresztül: C#"
-url: /hu/net/conversion/json-to-csv/
+
 description: Mintakód a json–csv C# konverzióhoz. Használjon API példakódot a kötegelt json-fájlok csv-vé konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

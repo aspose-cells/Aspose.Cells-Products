@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง TXT เป็น SVG ผ่าน Python
-url: /th/python-java/conversion/txt-to-svg/
+
 description: โค้ดตัวอย่างสำหรับการแปลง txt เป็น svg Python ใช้โค้ดตัวอย่าง API สำหรับไฟล์แบตช์ txt เพื่อแปลง svg ภายในแอปพลิเคชัน Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

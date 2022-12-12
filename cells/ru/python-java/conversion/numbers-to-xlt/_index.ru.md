@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование NUMBERS в XLT через Python
-url: /ru/python-java/conversion/numbers-to-xlt/
+
 description: Пример кода для преобразования чисел в xlt Python. Используйте пример кода API для преобразования файлов номеров пакетов в xlt в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

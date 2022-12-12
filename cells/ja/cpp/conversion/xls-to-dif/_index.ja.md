@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++アプリケーションを介してXLSをDIFに変換する 
 weight: 640
-url: /ja/cpp/conversion/xls-to-dif/ 
+
 description: XLSドキュメントからDIF形式へのサンプルC++変換コード。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でXLSからDIFへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

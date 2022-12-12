@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj HTML na SVG za pomocą C#
-url: /pl/net/conversion/html-to-svg/
+
 description: Przykładowy kod konwersji html na svg C#. Użyj przykładowego kodu API dla wsadowych plików html do konwersji svg w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

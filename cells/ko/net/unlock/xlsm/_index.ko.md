@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET을(를) 통해 XLSM 문서 잠금 해제 
 weight: 9810
-url: /ko/net/unlock/xlsm/ 
+
 description: C# 소스 코드는 .NET Framework, .NET Core, Mono 또는 Xamarin Platforms에서 비밀번호로 보호된 XLSM 파일을 잠금 해제합니다.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

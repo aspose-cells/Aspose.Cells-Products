@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta XLTX a XPS a través de Python
-url: /es/python-java/conversion/xltx-to-xps/
+
 description: Código de muestra para la conversión de xltx a xps Python. Utilice el código de ejemplo API para convertir archivos xltx por lotes a xps dentro de la aplicación Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

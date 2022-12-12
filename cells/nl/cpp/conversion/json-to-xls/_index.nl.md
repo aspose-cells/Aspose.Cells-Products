@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer JSON naar XLS via C++ applicatie 
-url: /nl/cpp/conversion/json-to-xls/ 
+
 description: Voorbeeld C++-conversiecode voor JSON-document naar XLS-indeling. Programmeurs kunnen deze broncode gebruiken voor batch-conversie van JSON naar XLS binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

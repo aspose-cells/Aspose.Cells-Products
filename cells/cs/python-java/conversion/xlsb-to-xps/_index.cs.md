@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLSB na XPS přes Python
-url: /cs/python-java/conversion/xlsb-to-xps/
+
 description: Ukázkový kód pro převod xlsb na xps Python. Použijte API ukázkový kód pro dávkový převod souborů xlsb na xps v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

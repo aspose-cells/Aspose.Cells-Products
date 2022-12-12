@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή CSV σε XPS μέσω C#
-url: /el/net/conversion/csv-to-xps/
+
 description: Δείγμα κώδικα για μετατροπή csv σε xps C#. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδική μετατροπή αρχείων csv σε xps εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "JSON konvertálása JPEG formátumba a következőn keresztül: C#"
-url: /hu/net/conversion/json-to-jpeg/
+
 description: Mintakód a json–jpeg C# konverzióhoz. Használjon API példakódot kötegelt json fájlokhoz a jpeg konvertáláshoz VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

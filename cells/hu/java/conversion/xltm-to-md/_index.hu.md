@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLTM konvertálása MD-re a következőn keresztül: Java "
-url: /hu/java/conversion/xltm-to-md/ 
+
 description: Minta Java konverziós kód az XLTM formátumhoz MD fájllá. A programozók ezt a példakódot használhatják Excel- és OpenOffice-táblázatok exportálására MD-re bármely web- vagy asztali Java-alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

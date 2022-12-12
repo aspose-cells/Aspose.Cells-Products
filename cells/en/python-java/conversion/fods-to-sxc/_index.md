@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to SXC via Python
-url: /python-java/conversion/fods-to-sxc/
+
 description: Convert FODS to SXC format in Python code. Save FODS as SXC using Python.
 ---
 

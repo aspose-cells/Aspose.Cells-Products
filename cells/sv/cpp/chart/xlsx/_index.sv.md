@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLSX dokumentdiagram via C++ 
 weight: 750
-url: /sv/cpp/chart/xlsx/ 
+
 description: C++ exempelkod för att rita och konvertera diagram eller diagram i XLSX-fil i C++ Runtime Environment för Windows 32-bitars, Windows 64-bitars och Linux 64-bitars.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

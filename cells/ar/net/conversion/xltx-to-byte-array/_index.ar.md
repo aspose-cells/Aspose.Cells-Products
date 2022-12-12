@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل XLTX إلى مصفوفة بايت عبر C# 
 weight: 7690
-url: /ar/net/conversion/xltx-to-byte-array/ 
+
 description: C# نموذج كود لتحويل XLTX إلى صفيف بايت. استخدم هذا الرمز لتحويل Excel XLTX إلى Byte Array داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

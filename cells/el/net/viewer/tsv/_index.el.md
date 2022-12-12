@@ -1,7 +1,7 @@
-﻿---
+---
 title: Προβολή μορφών αρχείων TSV μέσω .NET 
 weight: 3090
-url: /el/net/viewer/tsv/ 
+
 description: C# πηγαίος κώδικας για φόρτωση, απόδοση και εμφάνιση εγγράφων TSV σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

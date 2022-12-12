@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NETを介して開かずにCSVドキュメントを検索する 
 weight: 7510
-url: /ja/net/search/csv/ 
+
 description: .NETフレームワーク、.NETコア、Mono、またはXamarinプラットフォームでCSVファイル内のパターンを持つ単語を検索するためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

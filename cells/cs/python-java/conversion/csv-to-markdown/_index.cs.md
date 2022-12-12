@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést CSV na MARKDOWN prostřednictvím Python
-url: /cs/python-java/conversion/csv-to-markdown/
+
 description: Ukázkový kód pro konverzi csv na snížení Python. Použijte API ukázkový kód pro dávkové soubory csv ke konverzi markdown v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

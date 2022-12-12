@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converti MHTML in BMP tramite Java 
 weight: 4410
-url: /it/java/conversion/mhtml-to-bmp/ 
+
 description: Esempio di codice di conversione Java per il formato MHTML in file BMP. I programmatori possono utilizzare questo codice di esempio per esportare fogli di calcolo Excel e OpenOffice in BMP all'interno di qualsiasi applicazione basata su Web o desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

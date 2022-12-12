@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla XLSX'i SQL'e dönüştürün
-url: /tr/net/conversion/xlsx-to-sql/
+
 description: xlsx'ten sql'ye C# dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu xlsx dosyalarını sql'ye dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++アプリケーションを介してJSONをMDに変換する 
-url: /ja/cpp/conversion/json-to-md/ 
+
 description: JSONドキュメントからMD形式へのサンプルC++変換コード。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でJSONからMDへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

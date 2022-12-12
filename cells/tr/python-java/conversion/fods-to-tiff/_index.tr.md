@@ -1,6 +1,6 @@
-﻿---
+---
 title: FODS'u Python üzerinden TIFF'ye dönüştürün
-url: /tr/python-java/conversion/fods-to-tiff/
+
 description: Python dönüşümünü tiff yapmak için yemler için örnek kod. Python uygulaması içinde dönüştürme işlemi yapmak için toplu dosya dosyaları için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

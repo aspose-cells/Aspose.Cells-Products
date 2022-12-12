@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla SXC'yi JSON'a dönüştürün
-url: /tr/python-java/conversion/sxc-to-json/
+
 description: sxc'den json'a Python dönüştürme için örnek kod. Python uygulamasında toplu sxc dosyalarından json'a dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

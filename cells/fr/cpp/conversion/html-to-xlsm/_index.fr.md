@@ -1,7 +1,7 @@
-﻿---
+---
 title: Convertir HTML en XLSM via l'application C++ 
 weight: 2120
-url: /fr/cpp/conversion/html-to-xlsm/ 
+
 description: Exemple de code de conversion C++ pour un document HTML au format XLSM. Les programmeurs peuvent utiliser ce code source pour la conversion par lots HTML vers XLSM dans n'importe quelle application C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

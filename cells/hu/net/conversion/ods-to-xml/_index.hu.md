@@ -1,6 +1,6 @@
-﻿---
+---
 title: "ODS konvertálása XML-re a következőn keresztül: C#"
-url: /hu/net/conversion/ods-to-xml/
+
 description: Mintakód az ods–xml C# konverzióhoz. Használjon API példakódot a kötegelt ods fájlok XML-lé konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

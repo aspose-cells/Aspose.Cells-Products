@@ -1,6 +1,6 @@
-﻿---
+---
 title: 在 Java 中将不同的 Excel 文件合并为一个
-url: /zh/java/merger/
+
 description: 使用 Java 将 Excel 文件合并到多个工作表或单个工作表中。也可以将 Excel 文档合并、合并或连接为 PDF、图像和 HTML。
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLTM konvertálása TXT-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/xltm-to-txt/
+
 description: Mintakód az xltm-ből txt-be Python konverzióhoz. Használjon API példakódot a kötegelt xltm fájlok txt konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

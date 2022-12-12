@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLTX إلى GIF عبر Python
-url: /ar/python-java/conversion/xltx-to-gif/
+
 description: نموذج رمز للتحويل من xltx إلى gif Python. استخدم API رمز المثال لملفات xltx الدفعية لتحويل gif داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLSX dokumentumdiagram a következőn keresztül: Java "
 weight: 5380
-url: /hu/java/chart/xlsx/ 
+
 description: Java mintakód diagramok vagy diagramok XLSX-fájlba való rajzolásához és konvertálásához a Java Futási környezet JSP/JSF alkalmazásokhoz és asztali alkalmazásokhoz.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

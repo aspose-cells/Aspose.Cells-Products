@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera TABDELIMITED till XLS via Python
-url: /sv/python-java/conversion/tabdelimited-to-xls/
+
 description: Exempelkod för tabbavgränsad till xls Python-konvertering. Använd API exempelkod för batch-tabbavgränsade filer till xls-konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: ODS-document zoeken zonder te openen via .NET 
 weight: 160
-url: /nl/net/search/ods/ 
+
 description: C# broncode om woorden met patroon te zoeken in ODS-bestand op .NET Framework, .NET Core, Mono of Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

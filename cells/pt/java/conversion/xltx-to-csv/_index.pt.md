@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converter XLTX para CSV via Java 
 weight: 8750
-url: /pt/java/conversion/xltx-to-csv/ 
+
 description: Exemplo de código de conversão Java para formato XLTX para arquivo CSV. Os programadores podem usar este código de exemplo para exportar planilhas do Excel e OpenOffice para CSV em qualquer aplicativo baseado na Web ou Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

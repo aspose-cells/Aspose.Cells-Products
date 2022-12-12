@@ -1,7 +1,7 @@
-﻿---
+---
 title: Hợp nhất các tệp XLTX qua Java 
 weight: 680
-url: /vi/java/merger/xltx/ 
+
 description: Java mã mẫu để kết hợp các tài liệu XLTX trên Java Môi trường thời gian chạy cho Ứng dụng JSP / JSF và Ứng dụng trên máy tính để bàn.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

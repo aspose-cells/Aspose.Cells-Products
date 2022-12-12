@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 Python 將 HTML 轉換為 EMF
-url: /zh-hant/python-java/conversion/html-to-emf/
+
 description: html 到 emf Python 轉換的示例代碼。使用 API 示例代碼將批處理 html 文件轉換為 Python 應用程序中的 emf。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

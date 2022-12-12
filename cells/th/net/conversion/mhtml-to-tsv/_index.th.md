@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง MHTML เป็น TSV ผ่าน C#
-url: /th/net/conversion/mhtml-to-tsv/
+
 description: โค้ดตัวอย่างสำหรับการแปลง mhtml เป็น tsv C# ใช้โค้ดตัวอย่าง API สำหรับไฟล์ batch mhtml เป็นการแปลง tsv ภายใน VB.NET, Asp.NET หรือแอปพลิเคชันที่ใช้ .NET
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

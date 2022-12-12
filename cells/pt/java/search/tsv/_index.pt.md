@@ -1,7 +1,7 @@
-﻿---
+---
 title: Pesquisar documento TSV sem abrir via Java 
 weight: 4940
-url: /pt/java/search/tsv/ 
+
 description: Java código de amostra para pesquisar palavras com padrão no arquivo TSV no Java ambiente de tempo de execução para aplicativos JSP/JSF e aplicativos de desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

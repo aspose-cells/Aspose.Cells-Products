@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển XLS sang PDF qua Python
-url: /vi/python-java/conversion/xls-to-pdf/
+
 description: Mã mẫu để chuyển đổi xls sang pdf Python. Sử dụng API mã ví dụ cho chuyển đổi hàng loạt tệp xls sang pdf trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

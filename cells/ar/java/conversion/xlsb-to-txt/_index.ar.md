@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل XLSB إلى TXT عبر Java 
 weight: 4110
-url: /ar/java/conversion/xlsb-to-txt/ 
+
 description: نموذج Java رمز تحويل لتنسيق XLSB إلى ملف TXT. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى TXT داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

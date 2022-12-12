@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل XLTM إلى XLT عبر Java 
 weight: 10030
-url: /ar/java/conversion/xltm-to-xlt/ 
+
 description: نموذج Java رمز التحويل لتنسيق XLTM إلى ملف XLT. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى XLT داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

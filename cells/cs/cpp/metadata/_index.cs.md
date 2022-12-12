@@ -1,6 +1,6 @@
-﻿---
+---
 title: Spravujte metadata souboru Excel prostřednictvím C++
-url: /cs/cpp/metadata/
+
 description: Zobrazte, přidejte, upravte, odeberte nebo extrahujte metadata souborů Excel pomocí knihovny C++
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

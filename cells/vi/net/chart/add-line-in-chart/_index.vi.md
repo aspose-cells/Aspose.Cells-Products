@@ -1,6 +1,6 @@
-﻿---
+---
 title: Thêm một đường trong biểu đồ qua C# 
-url: /vi/net/add-line-in-chart/ 
+
 description: C# Mã mẫu để thêm một đường trong biểu đồ vào Excel bằng cách sử dụng .NET Thư viện. Sử dụng mã này để thêm một đường trong biểu đồ vào MS Excel trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

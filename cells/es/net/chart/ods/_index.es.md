@@ -1,7 +1,7 @@
-﻿---
+---
 title:  Gráfico de documentos ODS a imágenes a través de .NET 
 weight: 4360
-url: /es/net/chart/ods/ 
+
 description: C# código fuente para dibujar y convertir gráficos o diagramas en un archivo ODS en .NET Framework, .NET Core, Mono o Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

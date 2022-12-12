@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してFODSをMDに変換する
-url: /ja/net/conversion/fods-to-md/
+
 description: fodからmdC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチfodsファイルからmdへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

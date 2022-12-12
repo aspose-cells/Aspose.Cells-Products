@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง ODS เป็น MD ผ่าน C++ แอปพลิเคชัน 
-url: /th/cpp/conversion/ods-to-md/ 
+
 description: ตัวอย่างรหัสการแปลง C++ สำหรับเอกสาร ODS เป็นรูปแบบ MD โปรแกรมเมอร์สามารถใช้ซอร์สโค้ดนี้สำหรับการแปลง ODS เป็นกลุ่มเป็น MD ภายในแอปพลิเคชัน C++ ใดๆ
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

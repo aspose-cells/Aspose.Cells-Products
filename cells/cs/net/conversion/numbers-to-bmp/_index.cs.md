@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést NUMBERS na BMP přes C#
-url: /cs/net/conversion/numbers-to-bmp/
+
 description: Ukázkový kód pro převod čísel na bmp C#. Použijte API ukázkový kód pro dávkové soubory čísel na převod bmp v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

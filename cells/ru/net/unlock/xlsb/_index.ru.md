@@ -1,7 +1,7 @@
-﻿---
+---
 title: Разблокировать документ XLSB через .NET 
 weight: 6410
-url: /ru/net/unlock/xlsb/ 
+
 description: Исходный код C# для разблокировки защищенного паролем файла XLSB на платформах .NET Framework, .NET Core, Mono или Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Przeglądaj lub edytuj metadane plików XLS za pomocą .NET 
 weight: 1410
-url: /pl/net/metadata/xls/ 
+
 description: C# kod źródłowy do edycji lub wyświetlania metadanych formatu XLS na platformach .NET Framework, .NET Core, Mono lub Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

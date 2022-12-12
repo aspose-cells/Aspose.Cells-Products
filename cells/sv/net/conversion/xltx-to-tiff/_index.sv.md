@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera XLTX till TIFF via C#
-url: /sv/net/conversion/xltx-to-tiff/
+
 description: Exempelkod för konvertering från xltx till tiff C#. Använd API exempelkod för batch-xltx-filer för att tiff-konvertera inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

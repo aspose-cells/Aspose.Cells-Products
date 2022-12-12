@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 C++ 轉換 Microsoft Excel 文件 
-url: /zh-hant/cpp/conversion/
+
 description: 只需幾行 C++ 代碼，即可將 Excel XLS、XLSX、ODS、CSV 轉換為 PDF、XPS、HTML、JPEG 和其他格式。
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

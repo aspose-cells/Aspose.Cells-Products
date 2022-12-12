@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj TABDELIMITED na MARKDOWN przez Python
-url: /pl/python-java/conversion/tabdelimited-to-markdown/
+
 description: Przykładowy kod dla konwersji rozdzielanej tabulatorami na przecenę Python. Użyj przykładowego kodu API dla plików wsadowych rozdzielanych tabulatorami, aby dokonać konwersji przecen w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

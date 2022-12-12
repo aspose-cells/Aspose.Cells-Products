@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 C# 创建气泡图
-url: /zh/net/create-bubble-chart/
+
 description: C# 使用 .NET 库将气泡图创建到 Excel 的示例代码。使用此代码在 VB.NET、Asp.NET 或任何基于 .NET 的应用程序中为 MS Excel 创建 {chart} 图表。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

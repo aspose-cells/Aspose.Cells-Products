@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Oldja fel az ODS-dokumentumot a következőn keresztül: .NET "
 weight: 3110
-url: /hu/net/unlock/ods/ 
+
 description: C# forráskód a jelszóval védett ODS-fájl feloldásához .NET Framework, .NET Core, Mono vagy Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

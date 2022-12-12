@@ -1,6 +1,6 @@
 ---
 title: Convert XLSM to TIFF via Python
-url: /python-net/conversion/xlsm-to-tiff/
+
 description: Sample code for xlsm to tiff Python conversion. Use API example code for batch xlsm files to tiff conversion within Python application.
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Prohledejte dokument TXT bez otevření prostřednictvím Java 
 weight: 1200
-url: /cs/java/search/txt/ 
+
 description: Java ukázkový kód pro vyhledávání slov se vzorem v souboru TXT v Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

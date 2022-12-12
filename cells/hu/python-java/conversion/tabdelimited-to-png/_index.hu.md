@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TABDELIMITED konvertálása PNG-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/tabdelimited-to-png/
+
 description: Mintakód a tabulátorral tagolt png Python konverzióhoz. Használjon API példakódot a tabulátorral tagolt fájlok kötegelt png konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

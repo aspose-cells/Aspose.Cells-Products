@@ -1,7 +1,7 @@
-﻿---
+---
 title: Документ ODS с водяным знаком через .NET 
 weight: 4190
-url: /ru/net/watermark/ods/ 
+
 description: Исходный код C# для добавления или удаления водяных знаков в файле ODS на платформах .NET Framework, .NET Core, Mono или Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

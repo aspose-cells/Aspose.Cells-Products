@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera SPREADSHEETML till HTML via Python
-url: /sv/python-java/conversion/spreadsheetml-to-html/
+
 description: Exempelkod för konvertering från kalkylarkml till html Python. Använd API exempelkod för batch-kalkylarkml-filer till html-konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

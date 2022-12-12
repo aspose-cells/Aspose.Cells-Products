@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLTX naar JSON via C#
-url: /nl/net/conversion/xltx-to-json/
+
 description: Voorbeeldcode voor conversie van xltx naar json C#. Gebruik API voorbeeldcode voor batch xltx-bestanden naar json-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

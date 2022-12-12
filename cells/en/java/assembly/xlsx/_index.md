@@ -1,7 +1,7 @@
 ---
 title: Generate Reports in XLSX Files via Java 
 weight: 7710
-url: /java/assembly/xlsx/ 
+
 description: Java sample code to create XLSX format reports on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

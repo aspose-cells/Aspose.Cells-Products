@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل SPREADSHEETML إلى FODS عبر C#
-url: /ar/net/conversion/spreadsheetml-to-fods/
+
 description: نموذج كود لتحويل جدول بيانات إلى fods C#. استخدم API رمز المثال لملفات جداول البيانات الدفعية لتحويل الملفات داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to XLAM via Python
-url: /python-net/conversion/html-to-xlam/
+
 description: Sample code for html to xlam Python conversion. Use API example code for batch html files to xlam conversion within Python application.
 ---
 

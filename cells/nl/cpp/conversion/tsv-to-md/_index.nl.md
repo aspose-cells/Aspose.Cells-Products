@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer TSV naar MD via C++ applicatie 
-url: /nl/cpp/conversion/tsv-to-md/ 
+
 description: Voorbeeld C++-conversiecode voor TSV-document naar MD-indeling. Programmeurs kunnen deze broncode gebruiken voor batchconversie van TSV naar MD binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

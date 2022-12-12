@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง SXC เป็น GIF ผ่าน Python
-url: /th/python-java/conversion/sxc-to-gif/
+
 description: โค้ดตัวอย่างสำหรับการแปลง sxc เป็น gif Python ใช้โค้ดตัวอย่าง API สำหรับไฟล์แบตช์ sxc เป็นการแปลง gif ภายในแอปพลิเคชัน Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

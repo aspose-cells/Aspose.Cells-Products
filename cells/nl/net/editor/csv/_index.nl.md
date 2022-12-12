@@ -1,6 +1,6 @@
-﻿---
+---
 title: CSV-bestanden bewerken via .NET 
-url: /nl/net/editor/csv/ 
+
 description: C# broncode om CSV-document te bewerken op .NET Framework, .NET Core, Windows Azure, Mono of Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

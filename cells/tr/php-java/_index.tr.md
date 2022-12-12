@@ -1,7 +1,7 @@
-﻿---
+---
 title: Excel Elektronik Tablosu PHP API - Aspose 
 weight: 3660
-url: /tr/php-java/ 
+
 description: PHP Excel elektronik tablosu API okumak ve XLS XLSX CSV TSV HTML ODS Elektronik TablosuML ve tüm Excel 97-2016 biçimlerini dönüştürmek için. Elektronik Tabloları birden çok formata dışa aktarın
 ---
 {{< blocks/products/pf/main-wrap-class >}}

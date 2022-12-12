@@ -1,6 +1,6 @@
-﻿---
+---
 title: HTML-bestandsindelingen bekijken via .NET 
-url: /nl/net/viewer/html/ 
+
 description: C# broncode om HTML-documenten te laden, weer te geven en weer te geven op .NET Framework, .NET Core, Windows Azure, Mono of Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

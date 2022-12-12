@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to XLSM via C#
-url: /net/conversion/html-to-xlsm/
+
 description: Convert HTML to XLSM format in C# code. Save HTML as XLSM using VB.NET, Asp.NET or any .NET based application.
 ---
 

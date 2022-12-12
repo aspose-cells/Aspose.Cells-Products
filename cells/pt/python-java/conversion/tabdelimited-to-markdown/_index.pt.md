@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter TABDELIMITED para MARKDOWN via Python
-url: /pt/python-java/conversion/tabdelimited-to-markdown/
+
 description: Código de exemplo para conversão delimitada por tabulação para redução Python. Use o código de exemplo API para arquivos delimitados por tabulação em lote para conversão de redução no aplicativo Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

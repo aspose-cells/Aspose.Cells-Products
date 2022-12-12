@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie ODS in MARKDOWN über Python
-url: /de/python-java/conversion/ods-to-markdown/
+
 description: Beispielcode für Odds-to-Markdown-Python-Conversion. Verwenden Sie API Beispielcode für Batch-ODS-Dateien zur Markdown-Konvertierung innerhalb der Anwendung Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

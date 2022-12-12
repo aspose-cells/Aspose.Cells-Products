@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to JPG via C++
-url: /cpp/conversion/csv-to-jpg/
+
 description: Convert CSV to JPG format in C++ code. Save CSV as JPG using C++.
 ---
 

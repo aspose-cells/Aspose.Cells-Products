@@ -1,7 +1,7 @@
-﻿---
+---
 title: Преобразование XLTM в GIF через Java 
 weight: 3840
-url: /ru/java/conversion/xltm-to-gif/ 
+
 description: Пример кода преобразования Java для формата XLTM в файл GIF. Программисты могут использовать этот пример кода для экспорта электронных таблиц Excel и OpenOffice в формат GIF в любом веб- или настольном Java приложении.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

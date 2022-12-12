@@ -1,7 +1,7 @@
-﻿---
+---
 title:  XLSB-Dokumentendiagramm zu Bildern über .NET 
 weight: 8560
-url: /de/net/chart/xlsb/ 
+
 description: C# Quellcode zum Zeichnen und Konvertieren von Diagrammen oder Diagrammen in XLSB-Dateien auf .NET Framework-, .NET Core-, Mono- oder Xamarin-Plattformen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

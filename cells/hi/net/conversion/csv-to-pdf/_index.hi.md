@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# के माध्यम से CSV को PDF में बदलें
-url: /hi/net/conversion/csv-to-pdf/
+
 description: सीएसवी से पीडीएफ़ C# रूपांतरण के लिए नमूना कोड। वीबी.NET, एएसपी.NET या किसी भी .NET आधारित एप्लिकेशन के भीतर बैच सीएसवी फाइलों के पीडीएफ रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversikan TXT ke XLT melalui Java 
 weight: 5000
-url: /id/java/conversion/txt-to-xlt/ 
+
 description: Contoh Java kode konversi untuk format TXT ke file XLT. Pemrogram dapat menggunakan kode contoh ini untuk mengekspor spreadsheet Excel & OpenOffice ke XLT dalam Aplikasi berbasis Web atau Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

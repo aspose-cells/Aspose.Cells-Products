@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование FODS в TXT через Python
-url: /ru/python-java/conversion/fods-to-txt/
+
 description: Пример кода для преобразования fods в txt Python. Используйте пример кода API для пакетного преобразования файлов fods в txt в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

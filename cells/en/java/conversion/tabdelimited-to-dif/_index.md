@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to DIF via Java 
-url: /java/conversion/tabdelimited-to-dif/
+
 description: Convert TABDELIMITED to DIF format in Java code. Save TABDELIMITED as DIF using Java.
 ---
 

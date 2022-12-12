@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してNUMBERSをODSに変換します
-url: /ja/python-java/conversion/numbers-to-ods/
+
 description: 数値からodsPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチ番号ファイルからodsへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

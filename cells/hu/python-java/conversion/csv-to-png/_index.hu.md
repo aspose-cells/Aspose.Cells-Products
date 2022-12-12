@@ -1,6 +1,6 @@
-﻿---
+---
 title: "CSV konvertálása PNG-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/csv-to-png/
+
 description: Mintakód a csv-ből png-be Python konverzióhoz. Használjon API példakódot a kötegelt csv fájlok png konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

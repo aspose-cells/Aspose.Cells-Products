@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TABDELIMITED konvertálása MARKDOWN-re a következőn keresztül: C#"
-url: /hu/net/conversion/tabdelimited-to-markdown/
+
 description: Mintakód a tabulátorral elválasztott leértékelésig C# konverzióhoz. Használjon API példakódot a kötegelt tabulátorral tagolt fájlokhoz a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazás konverziójának leértékeléséhez.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

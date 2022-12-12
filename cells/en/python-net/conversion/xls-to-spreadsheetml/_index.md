@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to SPREADSHEETML via Python
-url: /python-net/conversion/xls-to-spreadsheetml/
+
 description: Sample code for xls to spreadsheetml Python conversion. Use API example code for batch xls files to spreadsheetml conversion within Python application.
 ---
 

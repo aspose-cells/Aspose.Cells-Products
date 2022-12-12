@@ -1,6 +1,6 @@
-﻿---
+---
 title: "CSV konvertálása MHTML-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/csv-to-mhtml/
+
 description: Mintakód a csv–mhtml Python konverzióhoz. Használjon API példakódot a csv fájlok kötegelt mhtml konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

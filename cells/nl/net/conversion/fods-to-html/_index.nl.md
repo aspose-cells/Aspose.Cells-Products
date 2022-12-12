@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer FODS naar HTML via C#
-url: /nl/net/conversion/fods-to-html/
+
 description: Voorbeeldcode voor conversie van fods naar html C#. Gebruik API voorbeeldcode voor batch-fods-bestanden naar html-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

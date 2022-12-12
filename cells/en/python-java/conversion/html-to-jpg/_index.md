@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to JPG via Python
-url: /python-java/conversion/html-to-jpg/
+
 description: Convert HTML to JPG format in Python code. Save HTML as JPG using Python.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "HTML konvertálása XLSB-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/html-to-xlsb/
+
 description: Mintakód a html-ből xlsb-be Python történő konverzióhoz. Használjon API példakódot a html fájlok kötegelt xlsb konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

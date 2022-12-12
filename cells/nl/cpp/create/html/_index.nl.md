@@ -1,6 +1,6 @@
-﻿---
+---
 title: HTML-bestanden maken via C++ 
-url: /nl/cpp/create-html/ 
+
 description: C++ Voorbeeldcode voor het genereren van HTML-bestanden. Gebruik deze code om HTML-bestanden te maken binnen een op C++ gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

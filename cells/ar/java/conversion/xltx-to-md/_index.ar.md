@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLTX إلى MD عبر Java 
-url: /ar/java/conversion/xltx-to-md/ 
+
 description: نموذج Java رمز تحويل لتنسيق XLTX إلى ملف MD. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى MD داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

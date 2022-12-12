@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通过 C++ 添加 ODS 注释 
 weight: 8840
-url: /zh/cpp/annotation/ods/ 
+
 description: C++ 删除 ODS 格式注释的示例代码 C++ 适用于 Windows 32 位、Windows 64 位和 Linux 64 位的运行时环境。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

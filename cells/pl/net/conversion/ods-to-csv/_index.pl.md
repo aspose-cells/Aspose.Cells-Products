@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj ODS na CSV za pomocą C#
-url: /pl/net/conversion/ods-to-csv/
+
 description: Przykładowy kod konwersji ods do csv C#. Użyj przykładowego kodu API dla wsadowych plików ods do konwersji csv w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

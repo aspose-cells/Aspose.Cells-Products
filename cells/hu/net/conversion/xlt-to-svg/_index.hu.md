@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLT konvertálása SVG-vé a következőn keresztül: C#"
-url: /hu/net/conversion/xlt-to-svg/
+
 description: Mintakód az xlt–svg C# konverzióhoz. Használjon API példakódot kötegelt xlt fájlok SVG konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter ODS para SPREADSHEETML via C#
-url: /pt/net/conversion/ods-to-spreadsheetml/
+
 description: Código de exemplo para conversão de ods para planilhaml C#. Use API código de exemplo para arquivos de lote de ods para conversão de planilhas em VB.NET, Asp.NET ou qualquer aplicativo baseado em .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

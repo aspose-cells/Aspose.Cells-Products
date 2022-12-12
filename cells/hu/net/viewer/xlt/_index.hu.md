@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLT fájlformátumok megtekintése a következőn keresztül: .NET "
 weight: 3610
-url: /hu/net/viewer/xlt/ 
+
 description: C# forráskód az XLT-dokumentumok betöltéséhez, megjelenítéséhez és megjelenítéséhez .NET Framework, .NET Core, Mono vagy Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

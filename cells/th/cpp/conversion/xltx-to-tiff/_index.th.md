@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง XLTX เป็น TIFF ผ่าน C++ แอปพลิเคชัน 
-url: /th/cpp/conversion/xltx-to-tiff/ 
+
 description: ตัวอย่างรหัสการแปลง C++ สำหรับเอกสาร XLTX เป็นรูปแบบ TIFF โปรแกรมเมอร์สามารถใช้ซอร์สโค้ดนี้สำหรับการแปลงชุด XLTX เป็น TIFF ภายในแอปพลิเคชัน C++ ใดๆ
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

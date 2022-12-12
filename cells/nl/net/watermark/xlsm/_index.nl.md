@@ -1,7 +1,7 @@
-﻿---
+---
 title: Watermerk XLSM-document via .NET 
 weight: 8270
-url: /nl/net/watermark/xlsm/ 
+
 description: C# broncode om watermerk aan XLSM-bestand toe te voegen of te verwijderen op .NET Framework, .NET Core, Mono of Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

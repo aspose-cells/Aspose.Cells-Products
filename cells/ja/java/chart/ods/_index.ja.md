@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java経由のODSドキュメントチャート 
 weight: 2240
-url: /ja/java/chart/ods/ 
+
 description: Java JSP/JSFアプリケーションおよびデスクトップアプリケーションのランタイム環境でODSファイルにチャートまたは図を描画および変換するためのサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

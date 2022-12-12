@@ -1,6 +1,6 @@
 ---
 title: Convert TSV to TXT via Python
-url: /python-java/conversion/tsv-to-txt/
+
 description: Convert TSV to TXT format in Python code. Save TSV as TXT using Python.
 ---
 

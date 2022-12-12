@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to GIF via C#
-url: /net/conversion/excel-to-gif/
+
 description: Convert EXCEL to GIF format in C# code. Save EXCEL as GIF using VB.NET, Asp.NET or any .NET based application.
 ---
 

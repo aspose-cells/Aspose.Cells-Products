@@ -1,6 +1,6 @@
-﻿---
+---
 title: إنشاء ملفات MS Excel XLSX عبر Python 
-url: /ar/python-java/create-xlsx/ 
+
 description: Python نموذج كود لإنشاء مستندات XLSX. استخدم هذا الرمز لإنشاء ملفات MS Excel XLSX داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

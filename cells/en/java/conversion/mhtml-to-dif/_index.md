@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to DIF via Java 
-url: /java/conversion/mhtml-to-dif/
+
 description: Convert MHTML to DIF format in Java code. Save MHTML as DIF using Java.
 ---
 

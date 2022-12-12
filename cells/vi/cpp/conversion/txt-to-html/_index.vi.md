@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi TXT sang HTML thông qua ứng dụng C++ 
-url: /vi/cpp/conversion/txt-to-html/ 
+
 description: Mã chuyển đổi C++ mẫu cho tài liệu TXT sang định dạng HTML. Các lập trình viên có thể sử dụng mã nguồn này để chuyển đổi hàng loạt TXT sang HTML trong bất kỳ Ứng dụng C++ nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

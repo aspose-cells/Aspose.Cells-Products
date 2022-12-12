@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή TABDELIMITED σε PDF μέσω C#
-url: /el/net/conversion/tabdelimited-to-pdf/
+
 description: Δείγμα κώδικα για μετατροπή οριοθετημένης καρτέλας σε pdf C#. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδική μετατροπή αρχείων οριοθετημένων στηλοθέτων σε pdf εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

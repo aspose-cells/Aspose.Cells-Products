@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java aracılığıyla XLS belgesini koruyun ve kilitleyin 
 weight: 5070
-url: /tr/java/protect/xls/ 
+
 description: Java JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Runtime Environment'da şifre kullanarak XLS dosyasını kilitlemek için örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

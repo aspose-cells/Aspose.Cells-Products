@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLS na BMP přes Python
-url: /cs/python-java/conversion/xls-to-bmp/
+
 description: Ukázkový kód pro převod xls na bmp Python. Použijte API ukázkový kód pro dávkový převod souborů xls na bmp v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: ODS-Dateien über .NET bearbeiten 
-url: /de/net/editor/ods/ 
+
 description: C#-Quellcode zum Bearbeiten des ODS-Dokuments auf .NET Framework-, .NET Core-, Windows Azure-, Mono- oder Xamarin-Plattformen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

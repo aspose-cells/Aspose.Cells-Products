@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to TXT via C#
-url: /net/conversion/numbers-to-txt/
+
 description: Convert NUMBERS to TXT format in C# code. Save NUMBERS as TXT using VB.NET, Asp.NET or any .NET based application.
 ---
 

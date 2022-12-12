@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to XLTM via C++
-url: /cpp/conversion/json-to-xltm/
+
 description: Convert JSON to XLTM format in C++ code. Save JSON as XLTM using C++.
 ---
 

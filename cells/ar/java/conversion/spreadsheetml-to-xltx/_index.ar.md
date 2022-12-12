@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل SPREADSHEETML إلى XLTX عبر Java 
-url: /ar/java/conversion/spreadsheetml-to-xltx/ 
+
 description: نموذج رمز تحويل Java لتنسيق SPREADSHEETML إلى ملف XLTX. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى XLTX داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

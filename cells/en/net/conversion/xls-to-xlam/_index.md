@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to XLAM via C#
-url: /net/conversion/xls-to-xlam/
+
 description: Convert XLS to XLAM format in C# code. Save XLS as XLAM using VB.NET, Asp.NET or any .NET based application.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование SPREADSHETML в TIFF с помощью Python
-url: /ru/python-java/conversion/spreadsheetml-to-tiff/
+
 description: Пример кода для преобразования электронной таблицыml в tiff Python. Используйте пример кода API для пакетного преобразования файлов электронной таблицыml в tiff в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

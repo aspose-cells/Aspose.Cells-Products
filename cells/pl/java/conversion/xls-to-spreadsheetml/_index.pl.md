@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj XLS na SPREADSHEETML za pomocą Java 
-url: /pl/java/conversion/xls-to-spreadsheetml/ 
+
 description: Przykładowy kod konwersji Java dla formatu XLS do pliku SPREADSHEETML. Programiści mogą użyć tego przykładowego kodu, aby wyeksportować arkusze kalkulacyjne Excel i OpenOffice do SPREADSHEETML w dowolnej aplikacji internetowej lub desktopowej Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

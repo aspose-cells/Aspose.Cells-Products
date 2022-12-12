@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converter XLSX para TXT via Java 
 weight: 3370
-url: /pt/java/conversion/xlsx-to-txt/ 
+
 description: Exemplo de código de conversão Java do formato XLSX para arquivo TXT. Os programadores podem usar este código de exemplo para exportar planilhas do Excel e OpenOffice para TXT em qualquer aplicativo baseado na Web ou Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

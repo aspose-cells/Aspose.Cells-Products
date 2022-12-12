@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertálja az XLSX-et TIFF-re a(z) C++ alkalmazással 
 weight: 8570
-url: /hu/cpp/conversion/xlsx-to-tiff/ 
+
 description: Minta C++ konverziós kód XLSX dokumentumhoz TIFF formátumba. A programozók ezt a forráskódot használhatják kötegelt XLSX-TIFF-konverzióhoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

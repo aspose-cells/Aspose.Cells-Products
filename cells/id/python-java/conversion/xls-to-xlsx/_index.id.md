@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi XLS ke XLSX melalui Python
-url: /id/python-java/conversion/xls-to-xlsx/
+
 description: Contoh kode untuk konversi xls ke xlsx Python. Gunakan API kode contoh untuk file batch xls ke konversi xlsx dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

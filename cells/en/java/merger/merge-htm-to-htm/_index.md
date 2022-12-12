@@ -1,6 +1,6 @@
 ---
 title: Merge HTM to HTM Files via Java 
-url: /java/merger/merge-htm-to-htm/ 
+
 description: Merge HTM to HTM file in Java code. Combine HTM to HTM file using Java based desktop or web application.
 ---
 

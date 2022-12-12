@@ -1,6 +1,6 @@
-﻿---
+---
 title: "FODS konvertálása XLT-vé a következőn keresztül: C#"
-url: /hu/net/conversion/fods-to-xlt/
+
 description: Mintakód a fod-ból xlt-be C# konverzióhoz. Használjon API példakódot a kötegelt fod fájlokhoz az xlt konvertáláshoz VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

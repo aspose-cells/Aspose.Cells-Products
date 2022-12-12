@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLSM belgesini .NET aracılığıyla koruyun ve kilitleyin 
 weight: 7530
-url: /tr/net/protect/xlsm/ 
+
 description: .NET Framework, .NET Core, Mono veya Xamarin Platformlarında şifre kullanarak XLSM dosyasını kilitlemek için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

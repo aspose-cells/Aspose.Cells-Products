@@ -1,6 +1,6 @@
-﻿---
+---
 title: Slå samman XLTM-filer via C++ 
-url: /sv/cpp/merger/xltm/ 
+
 description: C++ exempelkod för att kombinera XLTM-dokument i C++ Runtime Environment för Windows 32-bitars, Windows 64-bitars och Linux 64-bitars.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

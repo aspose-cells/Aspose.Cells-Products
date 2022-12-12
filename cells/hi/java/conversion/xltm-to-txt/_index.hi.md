@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLTM को TXT में Java के माध्यम से परिवर्तित करें 
 weight: 4440
-url: /hi/java/conversion/xltm-to-txt/ 
+
 description: नमूना Java XLTM प्रारूप के लिए TXT फ़ाइल में रूपांतरण कोड। प्रोग्रामर इस उदाहरण कोड का उपयोग किसी भी वेब या डेस्कटॉप Java आधारित एप्लिकेशन के भीतर एक्सेल और ओपनऑफिस स्प्रेडशीट को TXT में निर्यात करने के लिए कर सकते हैं।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Преобразование JSON в MHTML через Java 
 weight: 2190
-url: /ru/java/conversion/json-to-mhtml/ 
+
 description: Пример кода преобразования Java для формата JSON в файл MHTML. Программисты могут использовать этот пример кода для экспорта электронных таблиц Excel и OpenOffice в формат MHTML в любом веб- или настольном Java приложении.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

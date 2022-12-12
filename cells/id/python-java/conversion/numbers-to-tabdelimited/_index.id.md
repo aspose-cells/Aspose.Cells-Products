@@ -1,6 +1,6 @@
-﻿---
+---
 title: Ubah NUMBER ke TABDELIMITED melalui Python
-url: /id/python-java/conversion/numbers-to-tabdelimited/
+
 description: Kode contoh untuk angka ke konversi Python tabdelimited. Gunakan API kode contoh untuk file nomor batch ke konversi tabdelimited dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

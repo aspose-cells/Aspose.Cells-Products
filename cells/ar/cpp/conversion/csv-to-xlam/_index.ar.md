@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل CSV إلى XLAM عبر تطبيق C++ 
-url: /ar/cpp/conversion/csv-to-xlam/ 
+
 description: نموذج C++ رمز التحويل لمستند CSV إلى تنسيق XLAM. يمكن للمبرمجين استخدام هذا الكود المصدري لتحويل CSV إلى XLAM في أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

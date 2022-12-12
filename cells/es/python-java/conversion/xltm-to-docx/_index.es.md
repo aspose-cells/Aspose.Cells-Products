@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta XLTM a DOCX a través de Python
-url: /es/python-java/conversion/xltm-to-docx/
+
 description: Código de muestra para la conversión de xltm a docx Python. Utilice el código de ejemplo API para la conversión de archivos xltm por lotes a docx dentro de la aplicación Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

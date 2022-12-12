@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง XLT เป็น ODS ผ่าน C++ แอปพลิเคชัน 
-url: /th/cpp/conversion/xlt-to-ods/ 
+
 description: ตัวอย่างรหัสการแปลง C++ สำหรับเอกสาร XLT เป็นรูปแบบ ODS โปรแกรมเมอร์สามารถใช้ซอร์สโค้ดนี้สำหรับการแปลง XLT เป็นกลุ่มเป็น ODS ภายในแอปพลิเคชัน C++ ใดๆ
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

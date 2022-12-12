@@ -1,6 +1,6 @@
 ---
 title: Merge CSV to MHT Files via Python 
-url: /python-net/merger/merge-csv-to-mht/ 
+
 description: Merge CSV to MHT file in Python code. Combine CSV to MHT file using Python.
 ---
 

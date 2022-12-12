@@ -1,7 +1,7 @@
-﻿---
+---
 title: Επεξεργασία ή προβολή μεταδεδομένων εγγράφου XLSX μέσω C++ 
 weight: 8970
-url: /el/cpp/metadata/xlsx/ 
+
 description: C++ παράδειγμα κώδικα για επεξεργασία ή προβολή μεταδεδομένων αρχείου XLSX στο C++ Runtime Environment για Windows 32 bit, Windows 64 bit και Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

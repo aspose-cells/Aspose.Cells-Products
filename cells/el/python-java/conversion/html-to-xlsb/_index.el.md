@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή HTML σε XLSB μέσω Python
-url: /el/python-java/conversion/html-to-xlsb/
+
 description: Δείγμα κώδικα για μετατροπή html σε xlsb Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδική μετατροπή αρχείων html σε xlsb εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

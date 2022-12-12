@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan TXT ke TABDELIMITED melalui Python
-url: /id/python-java/conversion/txt-to-tabdelimited/
+
 description: Contoh kode untuk konversi txt ke tabdelimited Python. Gunakan API kode contoh untuk berkas txt batch ke konversi tabdelimited dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: JSON को Python के माध्यम से MD में बदलें
-url: /hi/python-java/conversion/json-to-md/
+
 description: जेसन से एमडी Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर बैच json फ़ाइलों से md रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή αρχείου Microsoft Excel μέσω C# 
-url: /el/net/conversion/
+
 description: Μετατρέψτε το Excel XLS, XLSX, ODS, CSV σε PDF, XPS, HTML, JPEG, HTML και πολλές άλλες δημοφιλείς μορφές με λίγες μόνο γραμμές κώδικα C#.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

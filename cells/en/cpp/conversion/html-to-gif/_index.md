@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to GIF via C++
-url: /cpp/conversion/html-to-gif/
+
 description: Convert HTML to GIF format in C++ code. Save HTML as GIF using C++.
 ---
 

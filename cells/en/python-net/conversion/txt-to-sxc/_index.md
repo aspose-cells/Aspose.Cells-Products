@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to SXC via Python
-url: /python-net/conversion/txt-to-sxc/
+
 description: Sample code for txt to sxc Python conversion. Use API example code for batch txt files to sxc conversion within Python application.
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Combinar archivos XLTX a través de .NET 
 weight: 1220
-url: /es/net/merger/xltx/ 
+
 description: C# código fuente para combinar documentos XLTX en .NET Framework, .NET Core, Mono o Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

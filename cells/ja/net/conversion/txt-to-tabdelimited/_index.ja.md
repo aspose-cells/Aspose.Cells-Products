@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してTXTをTABDELIMITEDに変換します
-url: /ja/net/conversion/txt-to-tabdelimited/
+
 description: txtからtabdelimitedC#への変換のサンプルコード。バッチtxtファイルのAPIサンプルコードを使用して、VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でタブ区切りの変換を行います。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

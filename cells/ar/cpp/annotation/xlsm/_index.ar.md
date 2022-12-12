@@ -1,7 +1,7 @@
-﻿---
+---
 title: إضافة شرح XLSM عبر C++ 
 weight: 2860
-url: /ar/cpp/annotation/xlsm/ 
+
 description: C++ نموذج التعليمات البرمجية لحذف التعليقات التوضيحية بتنسيق XLSM في C++ Runtime Environment لأنظمة التشغيل Windows 32 بت و Windows 64 بت و Linux 64 بت.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja a TXT-t JPG-vé a C++ alkalmazással 
-url: /hu/cpp/conversion/txt-to-jpg/ 
+
 description: Minta C++ konverziós kód TXT dokumentumhoz JPG formátumba. A programozók ezt a forráskódot használhatják kötegelt TXT-ből JPG-be konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

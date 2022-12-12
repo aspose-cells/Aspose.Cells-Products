@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie TXT in TIFF über Python
-url: /de/python-java/conversion/txt-to-tiff/
+
 description: Beispielcode für die Umwandlung von txt in tiff Python. Verwenden Sie API Beispielcode für die Batch-Konvertierung von TXT-Dateien in TIFF innerhalb der Anwendung Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

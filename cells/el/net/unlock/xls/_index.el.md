@@ -1,7 +1,7 @@
-﻿---
+---
 title: Ξεκλείδωμα εγγράφου XLS μέσω .NET 
 weight: 4260
-url: /el/net/unlock/xls/ 
+
 description: C# πηγαίος κώδικας για να ξεκλειδώσετε το προστατευμένο με κωδικό πρόσβασης αρχείο XLS σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

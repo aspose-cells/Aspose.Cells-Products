@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte ODS na JPG pomocí aplikace C++ 
-url: /cs/cpp/conversion/ods-to-jpg/ 
+
 description: Ukázka převodního kódu C++ pro dokument ODS do formátu JPG. Programátoři mohou použít tento zdrojový kód pro dávkovou konverzi ODS na JPG v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

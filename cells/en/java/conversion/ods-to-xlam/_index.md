@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to XLAM via Java 
-url: /java/conversion/ods-to-xlam/
+
 description: Convert ODS to XLAM format in Java code. Save ODS as XLAM using Java.
 ---
 

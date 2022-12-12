@@ -1,6 +1,6 @@
-﻿---
+---
 title: TXT को Java के माध्यम से TABDELIMITED में बदलें 
-url: /hi/java/conversion/txt-to-tabdelimited/ 
+
 description: TABDELIMITED फ़ाइल में TXT प्रारूप के लिए नमूना Java रूपांतरण कोड। प्रोग्रामर इस उदाहरण कोड का उपयोग एक्सेल और ओपनऑफिस स्प्रेडशीट को किसी भी वेब या डेस्कटॉप Java आधारित एप्लिकेशन के भीतर TABDELIMITED को निर्यात करने के लिए कर सकते हैं।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

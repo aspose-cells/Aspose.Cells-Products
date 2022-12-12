@@ -1,6 +1,6 @@
-﻿---
+---
 title: Buat File MS Excel XLSB melalui C# 
-url: /id/net/create-xlsb/ 
+
 description: C# Contoh kode untuk membuat dokumen XLSB. Gunakan kode ini untuk membuat file MS Excel XLSB dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter XLSM para TABDELIMITED via C#
-url: /pt/net/conversion/xlsm-to-tabdelimited/
+
 description: Código de exemplo para conversão de xlsm para C# delimitado por tabulação. Use API código de exemplo para arquivos xlsm em lote para conversão delimitada por tabulação em VB.NET, Asp.NET ou qualquer aplicativo baseado em .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

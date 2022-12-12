@@ -1,6 +1,6 @@
 ---
 title: Convert XLSX to PNG via Python
-url: /python-java/conversion/xlsx-to-png/
+
 description: Convert XLSX to PNG format in Python code. Save XLSX as PNG using Python.
 ---
 

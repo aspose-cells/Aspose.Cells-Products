@@ -1,6 +1,6 @@
-﻿---
+---
 title: "FODS konvertálása TXT-re a következőn keresztül: Java "
-url: /hu/java/conversion/fods-to-txt/ 
+
 description: Minta Java konverziós kód FODS formátumhoz TXT fájllá. A programozók ezt a példakódot használhatják Excel- és OpenOffice-táblázatok exportálására TXT-be bármely web- vagy asztali Java-alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

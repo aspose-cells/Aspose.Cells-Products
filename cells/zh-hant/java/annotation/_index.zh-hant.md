@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 Java 的 Excel 文件註釋
-url: /zh-hant/java/annotation/
+
 description: 使用 Java 庫添加或刪除 Excel 和 OpenOffice 電子表格的數據註釋。
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Afficher ou modifier les métadonnées des fichiers XLS via .NET 
 weight: 1410
-url: /fr/net/metadata/xls/ 
+
 description: Code source C# pour modifier ou afficher les métadonnées au format XLS sur les plates-formes .NET Framework, .NET Core, Mono ou Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

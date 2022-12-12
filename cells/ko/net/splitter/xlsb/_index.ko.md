@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET을(를) 통해 XLSB 파일 분할 
 weight: 7370
-url: /ko/net/splitter/xlsb/ 
+
 description: C# 소스 코드를 사용하여 .NET Framework, .NET Core, Mono 또는 Xamarin Platforms에서 XLSB 문서를 분할합니다.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

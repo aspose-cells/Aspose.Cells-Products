@@ -1,6 +1,6 @@
-﻿---
+---
 title: Δημιουργία αρχείων MHTML μέσω Python 
-url: /el/python-java/create-mhtml/ 
+
 description: Python Δείγμα κώδικα για τη δημιουργία εγγράφων MHTML. Χρησιμοποιήστε αυτόν τον κώδικα για τη δημιουργία αρχείων MHTML εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

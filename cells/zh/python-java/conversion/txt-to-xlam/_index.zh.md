@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 Python 将 TXT 转换为 XLAM
-url: /zh/python-java/conversion/txt-to-xlam/
+
 description: txt 到 xlam Python 转换的示例代码。使用 Python 应用程序中的批处理 txt 文件到 xlam 转换的示例代码。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

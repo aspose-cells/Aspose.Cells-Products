@@ -1,7 +1,7 @@
-﻿---
+---
 title: Lindungi dan kunci dokumen XLSB melalui .NET 
 weight: 5920
-url: /id/net/protect/xlsb/ 
+
 description: C# kode sumber untuk mengunci file XLSB menggunakan sandi di .NET Framework, .NET Core, Mono atau Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

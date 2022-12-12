@@ -1,6 +1,6 @@
-﻿---
+---
 title: NUMBERS'ı Python aracılığıyla FODS'a dönüştürün
-url: /tr/python-java/conversion/numbers-to-fods/
+
 description: Sayılardan yemlere Python dönüşümü için örnek kod. Python uygulamasında toplu iş numarası dosyalarından fods'a dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

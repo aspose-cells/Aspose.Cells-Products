@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLT в DIF с помощью приложения C++ 
-url: /ru/cpp/conversion/xlt-to-dif/ 
+
 description: Пример кода преобразования C++ для документа XLT в формат DIF. Программисты могут использовать этот исходный код для пакетного преобразования XLT в DIF в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Scal pliki TXT przez .NET 
 weight: 7350
-url: /pl/net/merger/txt/ 
+
 description: C# kod źródłowy do łączenia dokumentów TXT na platformach .NET Framework, .NET Core, Mono lub Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

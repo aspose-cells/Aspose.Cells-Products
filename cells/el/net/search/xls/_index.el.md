@@ -1,7 +1,7 @@
-﻿---
+---
 title: Αναζήτηση εγγράφου XLS χωρίς άνοιγμα μέσω .NET 
 weight: 1490
-url: /el/net/search/xls/ 
+
 description: C# πηγαίος κώδικας για αναζήτηση λέξεων με μοτίβο σε αρχείο XLS σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

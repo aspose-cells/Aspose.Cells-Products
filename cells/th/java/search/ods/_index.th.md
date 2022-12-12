@@ -1,7 +1,7 @@
-﻿---
+---
 title: ค้นหาเอกสาร ODS โดยไม่ต้องเปิดผ่าน Java 
 weight: 8140
-url: /th/java/search/ods/ 
+
 description: Java โค้ดตัวอย่างเพื่อค้นหาคำที่มีรูปแบบในไฟล์ ODS บน Java Runtime Environment สำหรับแอปพลิเคชัน JSP/JSF และแอปพลิเคชันเดสก์ท็อป
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

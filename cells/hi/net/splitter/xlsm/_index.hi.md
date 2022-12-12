@@ -1,7 +1,7 @@
-﻿---
+---
 title: एक्सएलएसएम फाइलों को .NET के माध्यम से विभाजित करें 
 weight: 8890
-url: /hi/net/splitter/xlsm/ 
+
 description: C# XLSM दस्तावेज़ों को .NET Framework, .NET Core, Mono या Xamarin प्लेटफॉर्म पर विभाजित करने के लिए स्रोत कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert XLTM to DOCX via Python
-url: /python-java/conversion/xltm-to-docx/
+
 description: Convert XLTM to DOCX format in Python code. Save XLTM as DOCX using Python.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla MS Excel XLSB Dosyaları oluşturun 
-url: /tr/python-java/create-xlsb/ 
+
 description: Python XLSB belgeleri oluşturmak için örnek kod. Python uygulamasında MS Excel XLSB dosyaları oluşturmak için bu kodu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

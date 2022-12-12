@@ -1,7 +1,7 @@
-﻿---
+---
 title: แยกไฟล์ ODS ผ่าน .NET 
 weight: 140
-url: /th/net/splitter/ods/ 
+
 description: C# ซอร์สโค้ดเพื่อแยกเอกสาร ODS บน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

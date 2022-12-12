@@ -1,6 +1,6 @@
-﻿---
+---
 title: "ODS konvertálása HTML-vé a következőn keresztül: C#"
-url: /hu/net/conversion/ods-to-html/
+
 description: Mintakód az ods-ból html-be C# konverzióhoz. Használjon API példakódot kötegelt ods fájlok html konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

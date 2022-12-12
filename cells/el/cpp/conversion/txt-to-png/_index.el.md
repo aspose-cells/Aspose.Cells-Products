@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή TXT σε PNG μέσω της εφαρμογής C++ 
-url: /el/cpp/conversion/txt-to-png/ 
+
 description: Δείγμα κώδικα μετατροπής C++ για έγγραφο TXT σε μορφή PNG. Οι προγραμματιστές μπορούν να χρησιμοποιήσουν αυτόν τον πηγαίο κώδικα για ομαδική μετατροπή TXT σε PNG σε οποιαδήποτε εφαρμογή C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

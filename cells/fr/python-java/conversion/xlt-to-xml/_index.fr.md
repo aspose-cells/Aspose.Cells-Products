@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir XLT en XML via Python
-url: /fr/python-java/conversion/xlt-to-xml/
+
 description: Exemple de code pour la conversion xlt vers xml Python. Utilisez l'exemple de code API pour la conversion par lots de fichiers xlt en xml dans l'application Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง SXC เป็น MARKDOWN ผ่าน Python
-url: /th/python-java/conversion/sxc-to-markdown/
+
 description: โค้ดตัวอย่างสำหรับ sxc เพื่อมาร์กดาวน์ Python การแปลง ใช้โค้ดตัวอย่าง API สำหรับไฟล์ batch sxc เพื่อแปลง markdown ภายในแอปพลิเคชัน Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

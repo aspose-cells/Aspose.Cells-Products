@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してMHTMLをSXCに変換する 
-url: /ja/java/conversion/mhtml-to-sxc/ 
+
 description: MHTML形式からSXCファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のSXCにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

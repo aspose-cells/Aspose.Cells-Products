@@ -1,7 +1,7 @@
-﻿---
+---
 title: Bekijk XLTX-bestandsindelingen via .NET 
 weight: 7870
-url: /nl/net/viewer/xltx/ 
+
 description: C# broncode om XLTX-documenten te laden, weer te geven en weer te geven op .NET Framework-, .NET Core-, Mono- of Xamarin-platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

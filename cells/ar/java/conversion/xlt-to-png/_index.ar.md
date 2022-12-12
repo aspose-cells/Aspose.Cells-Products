@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل XLT إلى PNG عبر Java 
 weight: 5150
-url: /ar/java/conversion/xlt-to-png/ 
+
 description: نموذج لشفرة تحويل Java لتنسيق XLT إلى ملف PNG. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel و OpenOffice إلى PNG داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to XLT via C#
-url: /net/conversion/excel-to-xlt/
+
 description: Convert EXCEL to XLT format in C# code. Save EXCEL as XLT using VB.NET, Asp.NET or any .NET based application.
 ---
 

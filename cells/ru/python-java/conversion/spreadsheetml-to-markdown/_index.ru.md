@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование SPREADSHEETML в MARKDOWN с помощью Python
-url: /ru/python-java/conversion/spreadsheetml-to-markdown/
+
 description: Пример кода для преобразования электронной таблицыml в уценку Python. Используйте пример кода API для пакетного преобразования файлов электронных таблиц в уценку в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

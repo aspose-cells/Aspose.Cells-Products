@@ -1,6 +1,6 @@
-﻿---
+---
 title: Excel 차트 생성 및 .NET을 통한 이미지 변환
-url: /ko/net/chart/
+
 description: C# 소스 코드는 .NET 라이브러리를 사용하여 Microsoft Excel에서 차트 또는 다이어그램을 그리고 변환합니다. 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert XLTM to TIFF via C#
-url: /net/conversion/xltm-to-tiff/
+
 description: Convert XLTM to TIFF format in C# code. Save XLTM as TIFF using VB.NET, Asp.NET or any .NET based application.
 ---
 

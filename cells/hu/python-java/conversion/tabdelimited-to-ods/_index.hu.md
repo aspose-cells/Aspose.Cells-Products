@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TABDELIMITED konvertálása ODS-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/tabdelimited-to-ods/
+
 description: Mintakód a tabulátorral elválasztott ods Python konverzióhoz. Használjon API példakódot a tabulátorral határolt fájlok kötegelt ods-konverziójához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

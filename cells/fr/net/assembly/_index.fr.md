@@ -1,6 +1,6 @@
-﻿---
+---
 title: Générer des fichiers Excel via C#
-url: /fr/net/assembly/
+
 description: Générer des feuilles de calcul Microsoft Excel à partir d'une feuille de modèle en utilisant le code C#
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

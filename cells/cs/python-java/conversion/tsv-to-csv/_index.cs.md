@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TSV na CSV prostřednictvím Python
-url: /cs/python-java/conversion/tsv-to-csv/
+
 description: Ukázkový kód pro převod tsv na csv Python. Použijte API ukázkový kód pro dávkový převod souborů tsv na csv v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

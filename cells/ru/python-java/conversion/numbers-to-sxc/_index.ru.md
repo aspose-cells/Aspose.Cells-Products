@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование NUMBERS в SXC через Python
-url: /ru/python-java/conversion/numbers-to-sxc/
+
 description: Пример кода для преобразования чисел в sxc Python. Используйте пример кода API для преобразования файлов номеров пакетов в sxc в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

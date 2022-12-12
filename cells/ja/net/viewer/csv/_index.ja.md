@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NETを介してCSVファイル形式を表示する 
 weight: 7690
-url: /ja/net/viewer/csv/ 
+
 description: .NETフレームワーク、.NETコア、Mono、またはXamarinプラットフォームでCSVドキュメントをロード、レンダリング、表示するためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

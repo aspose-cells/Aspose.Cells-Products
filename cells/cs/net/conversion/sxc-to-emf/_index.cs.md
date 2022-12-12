@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést SXC na EMF přes C#
-url: /cs/net/conversion/sxc-to-emf/
+
 description: Ukázkový kód pro převod sxc na emf C#. Použijte API ukázkový kód pro dávkový převod souborů sxc na emf v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

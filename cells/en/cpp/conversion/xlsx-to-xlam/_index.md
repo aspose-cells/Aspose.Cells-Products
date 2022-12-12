@@ -1,6 +1,6 @@
 ---
 title: Convert XLSX to XLAM via C++
-url: /cpp/conversion/xlsx-to-xlam/
+
 description: Convert XLSX to XLAM format in C++ code. Save XLSX as XLAM using C++.
 ---
 

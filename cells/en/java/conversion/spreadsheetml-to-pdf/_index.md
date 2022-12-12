@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to PDF via Java 
-url: /java/conversion/spreadsheetml-to-pdf/
+
 description: Convert SPREADSHEETML to PDF format in Java code. Save SPREADSHEETML as PDF using Java.
 ---
 

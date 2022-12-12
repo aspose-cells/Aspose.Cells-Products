@@ -1,7 +1,7 @@
-﻿---
+---
 title: ค้นหาและแทนที่ข้อความในเอกสาร XLSB ผ่าน Java 
 weight: 4590
-url: /th/java/redaction/xlsb/ 
+
 description: Java โค้ดตัวอย่างเพื่อแก้ไขข้อมูลที่ละเอียดอ่อนในไฟล์ XLSB บน Java Runtime Environment สำหรับแอปพลิเคชัน JSP/JSF และแอปพลิเคชันเดสก์ท็อป
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

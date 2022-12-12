@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi HTML ke MARKDOWN melalui Python
-url: /id/python-java/conversion/html-to-markdown/
+
 description: Contoh kode untuk html ke penurunan harga Python konversi. Gunakan API kode contoh untuk berkas html batch untuk konversi penurunan harga dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

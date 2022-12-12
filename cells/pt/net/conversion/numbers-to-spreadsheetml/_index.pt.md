@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter NUMBERS para SPREADSHEETML via C#
-url: /pt/net/conversion/numbers-to-spreadsheetml/
+
 description: Código de exemplo para conversão de números para planilhaml C#. Use API código de exemplo para arquivos de números de lote para conversão de planilhaml em VB.NET, Asp.NET ou qualquer aplicativo baseado em .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera NUMBERS till PNG via Python
-url: /sv/python-java/conversion/numbers-to-png/
+
 description: Exempelkod för siffror till png Python-konvertering. Använd API exempelkod för batchnummerfiler till png-konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

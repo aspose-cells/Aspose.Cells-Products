@@ -1,6 +1,6 @@
-﻿---
+---
 title: "MHTML konvertálása HTML-be a következőn keresztül: C#"
-url: /hu/net/conversion/mhtml-to-html/
+
 description: Mintakód az mhtml–HTML C# konverzióhoz. Használjon API példakódot kötegelt mhtml fájlok html konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

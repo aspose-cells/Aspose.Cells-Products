@@ -1,6 +1,6 @@
-﻿---
+---
 title: Redigera MHTML-filer via .NET 
-url: /sv/net/editor/mhtml/ 
+
 description: C# källkod för att redigera MHTML-dokument på .NET Framework, .NET Core, Windows Azure, Mono eller Xamarin-plattformar.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Разблокировать документ ODS через Java 
 weight: 5080
-url: /ru/java/unlock/ods/ 
+
 description: Пример кода Java для разблокировки защищенного паролем файла ODS в Java среде выполнения для приложений JSP/JSF и настольных приложений.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

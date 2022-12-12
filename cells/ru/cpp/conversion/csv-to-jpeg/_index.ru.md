@@ -1,7 +1,7 @@
-﻿---
+---
 title: Преобразование CSV в JPEG с помощью приложения C++ 
 weight: 1280
-url: /ru/cpp/conversion/csv-to-jpeg/ 
+
 description: Пример кода преобразования C++ для документа CSV в формат JPEG. Программисты могут использовать этот исходный код для пакетного преобразования CSV в JPEG в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

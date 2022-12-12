@@ -1,6 +1,6 @@
-﻿---
+---
 title: "CSV konvertálása DIF-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/csv-to-dif/
+
 description: Mintakód a csv–diff Python konverzióhoz. Használjon API példakódot a kötegelt csv-fájlokhoz a Python alkalmazáson belüli konvertáláshoz.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

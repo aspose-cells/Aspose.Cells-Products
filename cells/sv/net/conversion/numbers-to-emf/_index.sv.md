@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera TAL till EMF via C#
-url: /sv/net/conversion/numbers-to-emf/
+
 description: Exempelkod för siffror till emf C#-konvertering. Använd API exempelkod för batchnummerfiler för att emf-konvertera inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してXLSBをTABDELIMITEDに変換します 
-url: /ja/java/conversion/xlsb-to-tabdelimited/ 
+
 description: XLSB形式からTABDELIMITEDファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のTABDELIMITEDにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

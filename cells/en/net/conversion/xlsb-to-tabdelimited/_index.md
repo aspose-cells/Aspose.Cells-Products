@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to TABDELIMITED via C#
-url: /net/conversion/xlsb-to-tabdelimited/
+
 description: Convert XLSB to TABDELIMITED format in C# code. Save XLSB as TABDELIMITED using VB.NET, Asp.NET or any .NET based application.
 ---
 

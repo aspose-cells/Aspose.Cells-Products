@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést MHTML na XLSX přes Java 
 weight: 650
-url: /cs/java/conversion/mhtml-to-xlsx/ 
+
 description: Ukázka převodního kódu Java pro formát MHTML na soubor XLSX. Programátoři mohou použít tento příklad kódu k exportu tabulek Excelu a OpenOffice do XLSX v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

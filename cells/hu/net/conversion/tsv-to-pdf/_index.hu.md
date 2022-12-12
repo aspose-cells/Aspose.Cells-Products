@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TSV konvertálása PDF-be a következőn keresztül: C#"
-url: /hu/net/conversion/tsv-to-pdf/
+
 description: Mintakód a tsv-ből pdf-be C# konvertáláshoz. Használjon API példakódot a tsv-fájlok kötegelt PDF-vé konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazásban.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "HTML konvertálása DOCX-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/html-to-docx/
+
 description: Mintakód a html-ből docx-be Python történő konverzióhoz. Használjon API példakódot kötegelt html fájlok docx konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

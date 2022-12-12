@@ -1,6 +1,6 @@
-﻿---
+---
 title: JSON'u C# aracılığıyla DIF'ye dönüştürün
-url: /tr/net/conversion/json-to-dif/
+
 description: json'un farklı C# dönüşümü için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde dönüştürmeyi farklılaştırmak için toplu json dosyaları için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

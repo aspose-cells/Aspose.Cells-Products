@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してJSONをXPSに変換する
-url: /ja/python-java/conversion/json-to-xps/
+
 description: jsonからxpsPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチjsonファイルからxpsへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

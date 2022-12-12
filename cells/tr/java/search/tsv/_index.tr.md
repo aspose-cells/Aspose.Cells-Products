@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java üzerinden açmadan TSV belgesini arayın 
 weight: 4940
-url: /tr/java/search/tsv/ 
+
 description: JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Runtime Environment'da TSV dosyasında kalıplı kelimeleri aramak için Java örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

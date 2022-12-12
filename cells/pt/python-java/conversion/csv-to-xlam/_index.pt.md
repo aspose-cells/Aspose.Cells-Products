@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter CSV para XLAM via Python
-url: /pt/python-java/conversion/csv-to-xlam/
+
 description: Código de exemplo para conversão de csv para xlam Python. Use API código de exemplo para arquivos csv em lote para conversão xlam no aplicativo Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

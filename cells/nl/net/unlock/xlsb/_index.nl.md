@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLSB-document ontgrendelen via .NET 
 weight: 6410
-url: /nl/net/unlock/xlsb/ 
+
 description: C# broncode om met een wachtwoord beveiligd XLSB-bestand te ontgrendelen op .NET Framework, .NET Core, Mono of Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

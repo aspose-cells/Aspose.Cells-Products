@@ -1,6 +1,6 @@
 ---
 title: Merge TSV to ODS Files via C++ 
-url: /cpp/merger/merge-tsv-to-ods/ 
+
 description: Merge TSV to ODS file in C++ code. Combine TSV to ODS file using C++.
 ---
 

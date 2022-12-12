@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLTX konvertálása SVG-vé a következőn keresztül: C#"
-url: /hu/net/conversion/xltx-to-svg/
+
 description: Mintakód az xltx–svg C# konverzióhoz. Használjon API példakódot kötegelt xltx fájlok SVG konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

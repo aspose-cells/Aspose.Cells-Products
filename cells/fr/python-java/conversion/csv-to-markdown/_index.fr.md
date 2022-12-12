@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir CSV en MARKDOWN via Python
-url: /fr/python-java/conversion/csv-to-markdown/
+
 description: Exemple de code pour la conversion csv vers markdown Python. Utilisez l'exemple de code API pour les fichiers csv par lots en conversion de démarquage dans l'application Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

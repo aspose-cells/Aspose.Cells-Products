@@ -1,7 +1,7 @@
-﻿---
+---
 title: Tìm kiếm tài liệu ODS mà không cần mở qua Java 
 weight: 8140
-url: /vi/java/search/ods/ 
+
 description: Java mã mẫu để tìm kiếm các từ có mẫu trong tệp ODS trên Java Môi trường thời gian chạy cho Ứng dụng JSP / JSF và Ứng dụng máy tính để bàn.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

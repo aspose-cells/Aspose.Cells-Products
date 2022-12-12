@@ -1,6 +1,6 @@
-﻿---
+---
 title: PREADSHEETML को Python के माध्यम से XLSM में बदलें
-url: /hi/python-java/conversion/spreadsheetml-to-xlsm/
+
 description: स्प्रेडशीटएमएल से xlsm Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर xlsm रूपांतरण में बैच स्प्रेडशीटएमएल फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

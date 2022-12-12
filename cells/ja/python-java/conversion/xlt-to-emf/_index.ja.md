@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してXLTをEMFに変換します
-url: /ja/python-java/conversion/xlt-to-emf/
+
 description: xltからemfPythonへの変換のサンプルコード。 Pythonアプリケーション内で変換をemfするバッチxltファイルのAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

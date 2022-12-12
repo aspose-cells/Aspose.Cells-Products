@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++アプリケーションを介してXLSをEMFに変換する 
 weight: 6870
-url: /ja/cpp/conversion/xls-to-emf/ 
+
 description: XLSドキュメントからEMF形式へのサンプルC++変換コード。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でXLSからEMFへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

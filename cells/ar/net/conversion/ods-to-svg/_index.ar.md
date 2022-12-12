@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل ODS إلى SVG عبر C#
-url: /ar/net/conversion/ods-to-svg/
+
 description: نموذج كود لتحويل ods إلى svg C#. استخدم API رمز المثال لملفات ods الدفعية لتحويل svg داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

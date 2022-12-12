@@ -1,7 +1,7 @@
 ---
 title: Insert Label(Form control) into Excel via .NET 
 weight: 80
-url: /net/developer/insert-form-control-label-to-excel/ 
+
 description: C# source code to insert Label(Form control) into Excel on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

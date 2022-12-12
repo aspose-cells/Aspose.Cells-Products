@@ -1,7 +1,7 @@
-﻿---
+---
 title: ดูหรือแก้ไขข้อมูลเมตาของไฟล์ XLSX ผ่าน .NET 
 weight: 3430
-url: /th/net/metadata/xlsx/ 
+
 description: C# ซอร์สโค้ดสำหรับแก้ไขหรือดูข้อมูลเมตารูปแบบ XLSX บน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

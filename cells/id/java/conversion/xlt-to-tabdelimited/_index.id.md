@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan XLT ke TABDELIMITED melalui Java 
-url: /id/java/conversion/xlt-to-tabdelimited/ 
+
 description: Contoh Java kode konversi untuk format XLT ke file TABDELIMITED. Pemrogram dapat menggunakan kode contoh ini untuk mengekspor spreadsheet Excel & OpenOffice ke TABDELIMITED dalam Aplikasi berbasis Web atau Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

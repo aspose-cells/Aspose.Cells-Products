@@ -1,6 +1,6 @@
-﻿---
+---
 title: MHTML konvertálása SPREADSHEETML-be a C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/mhtml-to-spreadsheetml/ 
+
 description: Minta C++ konverziós kód MHTML dokumentumhoz SPREADSHEETML formátumba. A programozók ezt a forráskódot használhatják az MHTML-ből SPREADSHEETML-be kötegelt konvertáláshoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SXC konvertálása XPS-re a következőn keresztül: C#"
-url: /hu/net/conversion/sxc-to-xps/
+
 description: Mintakód az sxc–xps C# konverzióhoz. Használjon API példakódot az sxc fájlok kötegelt xps konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

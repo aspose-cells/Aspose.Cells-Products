@@ -1,6 +1,6 @@
-﻿---
+---
 title: FODS'u Python aracılığıyla JSON'a dönüştürün
-url: /tr/python-java/conversion/fods-to-json/
+
 description: Yemlerin json'a Python dönüşümü için örnek kod. Python uygulamasında toplu dosya dosyalarından json'a dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

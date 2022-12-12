@@ -1,6 +1,6 @@
-﻿---
+---
 title: FODS'u Python aracılığıyla XLSM'ye dönüştürün
-url: /tr/python-java/conversion/fods-to-xlsm/
+
 description: Yemlerden xlsm'ye Python dönüştürme için örnek kod. Python uygulamasında toplu dosya dosyalarını xlsm'ye dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

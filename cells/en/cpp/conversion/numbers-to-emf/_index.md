@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to EMF via C++
-url: /cpp/conversion/numbers-to-emf/
+
 description: Convert NUMBERS to EMF format in C++ code. Save NUMBERS as EMF using C++.
 ---
 

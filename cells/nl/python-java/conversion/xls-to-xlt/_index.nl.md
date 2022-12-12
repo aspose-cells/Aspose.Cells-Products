@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLS naar XLT via Python
-url: /nl/python-java/conversion/xls-to-xlt/
+
 description: Voorbeeldcode voor xls naar xlt Python conversie. Gebruik API voorbeeldcode voor batch xls-bestanden naar xlt-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

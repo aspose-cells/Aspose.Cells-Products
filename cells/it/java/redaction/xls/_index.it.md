@@ -1,7 +1,7 @@
-﻿---
+---
 title: Cerca e sostituisci testo nel documento XLS tramite Java 
 weight: 7900
-url: /it/java/redaction/xls/ 
+
 description: Java codice di esempio per oscurare le informazioni riservate nel file XLS su Java Runtime Environment per applicazioni JSP/JSF e applicazioni desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

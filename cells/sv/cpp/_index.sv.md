@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ Excel-kalkylbladsprogrammering API - Aspose 
 weight: 7140
-url: /sv/cpp/ 
+
 description: C++ Excel-bibliotek för att läsa skriv- och tolkfiler inklusive formaten XLS, XLSX, XLSM och XLSB. Konvertera kalkylblad till PDF, CSV och fler format
 ---
 {{< blocks/products/pf/main-wrap-class >}}

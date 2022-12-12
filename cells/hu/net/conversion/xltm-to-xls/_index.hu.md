@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLTM konvertálása XLS-re a következőn keresztül: C#"
-url: /hu/net/conversion/xltm-to-xls/
+
 description: Mintakód az xltm–xls C# konverzióhoz. Használjon API példakódot az xltm fájlok kötegelt xls formátumba konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NETを介してMHTMLファイルをマージします 
 weight: 2610
-url: /ja/net/merger/mhtml/ 
+
 description: .NETフレームワーク、.NETコア、Mono、またはXamarinプラットフォームでMHTMLドキュメントを組み合わせるためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

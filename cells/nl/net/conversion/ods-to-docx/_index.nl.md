@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer ODS naar DOCX via C#
-url: /nl/net/conversion/ods-to-docx/
+
 description: Voorbeeldcode voor conversie van ods naar docx C#. Gebruik API voorbeeldcode voor batch-ods-bestanden naar docx-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

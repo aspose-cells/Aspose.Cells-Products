@@ -1,7 +1,7 @@
-﻿---
+---
 title:  แผนผังเอกสาร ODS ไปยังรูปภาพผ่าน .NET 
 weight: 4360
-url: /th/net/chart/ods/ 
+
 description: C# ซอร์สโค้ดสำหรับวาดและแปลงแผนภูมิหรือไดอะแกรมในไฟล์ ODS บน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

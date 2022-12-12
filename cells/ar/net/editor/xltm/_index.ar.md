@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحرير ملفات XLTM عبر .NET 
-url: /ar/net/editor/xltm/ 
+
 description: C# كود المصدر لتحرير مستند XLTM على الأنظمة الأساسية .NET Framework أو .NET Core أو Windows Azure Mono أو Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

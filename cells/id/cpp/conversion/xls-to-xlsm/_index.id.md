@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversi XLS ke XLSM melalui C++ aplikasi 
 weight: 7180
-url: /id/cpp/conversion/xls-to-xlsm/ 
+
 description: Contoh C++ kode konversi untuk dokumen XLS ke format XLSM. Pemrogram dapat menggunakan kode sumber ini untuk konversi batch XLS ke XLSM dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

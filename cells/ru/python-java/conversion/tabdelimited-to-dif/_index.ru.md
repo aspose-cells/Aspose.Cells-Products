@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование TABDELIMITED в DIF через Python
-url: /ru/python-java/conversion/tabdelimited-to-dif/
+
 description: Пример кода для преобразования tabdelimited в dif Python. Используйте пример кода API для пакетного преобразования файлов с разделителями табуляцией в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

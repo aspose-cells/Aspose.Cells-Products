@@ -1,7 +1,7 @@
-﻿---
+---
 title:  .NET aracılığıyla görüntülere ODS belge grafiği 
 weight: 4360
-url: /tr/net/chart/ods/ 
+
 description: .NET Framework, .NET Core, Mono veya Xamarin Platformlarında ODS dosyasında grafik veya diyagram çizmek ve dönüştürmek için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

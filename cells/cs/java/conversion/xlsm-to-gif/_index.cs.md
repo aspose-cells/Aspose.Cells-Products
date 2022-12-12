@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést XLSM na GIF přes Java 
 weight: 10090
-url: /cs/java/conversion/xlsm-to-gif/ 
+
 description: Ukázka převodního kódu Java pro formát XLSM na soubor GIF. Programátoři mohou tento příklad kódu použít k exportu tabulek Excelu a OpenOffice do formátu GIF v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

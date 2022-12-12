@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to DIF via Python
-url: /python-java/conversion/xltx-to-dif/
+
 description: Convert XLTX to DIF format in Python code. Save XLTX as DIF using Python.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "HTML konvertálása TXT-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/html-to-txt/
+
 description: Mintakód a html-ből txt-be Python konvertáláshoz. Használjon API példakódot kötegelt html fájlok txt konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer FODS naar MARKDOWN via Python
-url: /nl/python-java/conversion/fods-to-markdown/
+
 description: Voorbeeldcode voor fods om Python-conversie te verlagen. Gebruik API voorbeeldcode voor batch-fods-bestanden om conversie te verlagen binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

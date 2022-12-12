@@ -1,6 +1,6 @@
-﻿---
+---
 title: تقسيم جدول بيانات Excel إلى أوراق عمل بتنسيق Java
-url: /ar/java/splitter/
+
 description: Java رموز المصدر التي تشرح كيفية تقسيم ملفات Microsoft Excel إلى مستندات متعددة باستخدام Java مكتبة Excel
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést SXC na PDF přes Python
-url: /cs/python-java/conversion/sxc-to-pdf/
+
 description: Ukázkový kód pro převod sxc na pdf Python. Použijte API ukázkový kód pro dávkový převod souborů sxc na pdf v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Crea file Excel tramite Java
-url: /it/java/assembly/
+
 description: Genera fogli di lavoro Microsoft Excel da un foglio modello utilizzando la libreria di fogli di lavoro Java
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

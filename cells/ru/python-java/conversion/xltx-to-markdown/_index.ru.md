@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLTX в MARKDOWN с помощью Python
-url: /ru/python-java/conversion/xltx-to-markdown/
+
 description: Пример кода для преобразования xltx в уценку Python. Используйте пример кода API для пакетного преобразования файлов xltx в уценку в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

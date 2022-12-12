@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してODSをXLTに変換します 
 weight: 8910
-url: /ja/java/conversion/ods-to-xlt/ 
+
 description: ODS形式からXLTファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のXLTにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

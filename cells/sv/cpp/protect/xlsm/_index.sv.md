@@ -1,7 +1,7 @@
-﻿---
+---
 title: Skydda och lås XLSM-dokument via C++ 
 weight: 8770
-url: /sv/cpp/protect/xlsm/ 
+
 description: C++ exempelkod för att låsa XLSM-fil med lösenord på C++ Runtime Environment för Windows 32-bitars, Windows 64-bitars och Linux 64-bitars.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

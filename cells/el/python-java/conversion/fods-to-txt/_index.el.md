@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή FODS σε TXT μέσω Python
-url: /el/python-java/conversion/fods-to-txt/
+
 description: Δείγμα κώδικα για μετατροπή fods σε txt Python. Χρησιμοποιήστε API παράδειγμα κώδικα για μετατροπή batch fods σε txt εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

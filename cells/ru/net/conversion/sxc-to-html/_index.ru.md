@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование SXC в HTML через C#
-url: /ru/net/conversion/sxc-to-html/
+
 description: Пример кода для преобразования sxc в html C#. Используйте пример кода API для пакетного преобразования файлов sxc в html в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

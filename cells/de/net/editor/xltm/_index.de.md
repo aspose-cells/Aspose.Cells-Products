@@ -1,6 +1,6 @@
-﻿---
+---
 title: Bearbeiten Sie XLTM-Dateien über .NET 
-url: /de/net/editor/xltm/ 
+
 description: C#-Quellcode zum Bearbeiten des XLTM-Dokuments auf .NET Framework-, .NET Core-, Windows Azure-, Mono- oder Xamarin-Plattformen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

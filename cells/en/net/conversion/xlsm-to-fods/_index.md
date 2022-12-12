@@ -1,6 +1,6 @@
 ---
 title: Convert XLSM to FODS via C#
-url: /net/conversion/xlsm-to-fods/
+
 description: Convert XLSM to FODS format in C# code. Save XLSM as FODS using VB.NET, Asp.NET or any .NET based application.
 ---
 

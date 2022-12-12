@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TXT na XLTM přes Python
-url: /cs/python-java/conversion/txt-to-xltm/
+
 description: Ukázkový kód pro převod txt na xltm Python. Použijte API ukázkový kód pro dávkový převod souborů txt na xltm v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

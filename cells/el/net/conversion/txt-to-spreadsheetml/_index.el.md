@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή TXT σε SPREADSHEETML μέσω C#
-url: /el/net/conversion/txt-to-spreadsheetml/
+
 description: Δείγμα κώδικα για μετατροπή txt σε υπολογιστικό φύλλο C#. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία txt για μετατροπή υπολογιστικών φύλλων σε VB.NET, Asp.NET ή οποιαδήποτε εφαρμογή που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

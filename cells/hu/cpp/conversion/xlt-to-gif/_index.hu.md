@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLT-t GIF-be a(z) C++ alkalmazással 
-url: /hu/cpp/conversion/xlt-to-gif/ 
+
 description: Minta C++ konverziós kód XLT-dokumentumhoz GIF formátumba. A programozók ezt a forráskódot használhatják XLT-ből GIF-be kötegelt konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

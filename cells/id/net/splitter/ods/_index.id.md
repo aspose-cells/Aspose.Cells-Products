@@ -1,7 +1,7 @@
-﻿---
+---
 title: Pisahkan File ODS melalui .NET 
 weight: 140
-url: /id/net/splitter/ods/ 
+
 description: C# kode sumber untuk membagi dokumen ODS pada .NET Framework, .NET Core, Mono atau Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

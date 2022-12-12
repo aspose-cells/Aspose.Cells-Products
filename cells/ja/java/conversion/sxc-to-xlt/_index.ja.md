@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してSXCをXLTに変換します 
-url: /ja/java/conversion/sxc-to-xlt/ 
+
 description: SXC形式からXLTファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のXLTにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

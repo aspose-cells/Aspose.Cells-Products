@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してXLTをXLAMに変換します
-url: /ja/python-java/conversion/xlt-to-xlam/
+
 description: xltからxlamPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチxltファイルからxlamへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

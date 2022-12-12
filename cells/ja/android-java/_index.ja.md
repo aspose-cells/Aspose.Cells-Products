@@ -1,7 +1,7 @@
-﻿---
+---
 title: AndroidExcelスプレッドシートAPI-Aspose 
 weight: 6510
-url: /ja/android-java/ 
+
 description: 読み取り/書き込みを作成し、Excelファイルを解析するためのAndroidスプレッドシートライブラリ。モバイルアプリ開発用のスプレッドシートAPI
 ---
 {{< blocks/products/pf/main-wrap-class >}}

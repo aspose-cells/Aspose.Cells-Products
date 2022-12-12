@@ -1,7 +1,7 @@
-﻿---
+---
 title: "JSON konvertálása XLS-re a következőn keresztül: Java "
 weight: 7220
-url: /hu/java/conversion/json-to-xls/ 
+
 description: Minta Java konverziós kód a JSON-formátumhoz XLS-fájllá. A programozók ezt a példakódot használhatják Excel és OpenOffice táblázatok XLS formátumba exportálására bármely web- vagy asztali Java alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

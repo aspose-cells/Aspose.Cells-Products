@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to FODS via C#
-url: /net/conversion/csv-to-fods/
+
 description: Convert CSV to FODS format in C# code. Save CSV as FODS using VB.NET, Asp.NET or any .NET based application.
 ---
 

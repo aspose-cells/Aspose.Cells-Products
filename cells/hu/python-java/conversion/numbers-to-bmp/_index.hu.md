@@ -1,6 +1,6 @@
-﻿---
+---
 title: "NUMBERS konvertálása BMP-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/numbers-to-bmp/
+
 description: Mintakód számokhoz bmp Python konverzióvá. Használjon API példakódot kötegszámfájlokhoz a bmp konverzióhoz a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

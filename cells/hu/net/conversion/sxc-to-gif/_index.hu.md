@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SXC konvertálása GIF formátumba a következőn keresztül: C#"
-url: /hu/net/conversion/sxc-to-gif/
+
 description: Mintakód az sxc-ből gif-be C# konverzióhoz. Használjon API példakódot kötegelt sxc fájlok gif konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

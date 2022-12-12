@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل الأرقام إلى SVG عبر Python
-url: /ar/python-java/conversion/numbers-to-svg/
+
 description: نموذج رمز للأرقام لتحويل svg Python. استخدم API رمز المثال لملفات أرقام الدُفعات لتحويل svg داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

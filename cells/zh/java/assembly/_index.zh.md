@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 Java 创建 Excel 文件
-url: /zh/java/assembly/
+
 description: 使用 Java 电子表格库从模板工作表生成 Microsoft Excel 电子表格
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

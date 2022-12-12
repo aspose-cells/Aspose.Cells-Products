@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi XLSB thành TABDELIMITED qua C#
-url: /vi/net/conversion/xlsb-to-tabdelimited/
+
 description: Mã mẫu cho chuyển đổi xlsb thành C# tabdelimited. Sử dụng API mã ví dụ cho hàng loạt tệp xlsb để chuyển đổi được giới hạn bằng tab trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

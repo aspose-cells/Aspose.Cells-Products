@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++を介してODS注釈を追加する 
 weight: 8840
-url: /ja/cpp/annotation/ods/ 
+
 description: C++ Windows 32ビット、Windows 64ビット、およびLinux64ビットのランタイム環境でODS形式の注釈を削除するためのサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

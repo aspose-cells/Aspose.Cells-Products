@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل CSV إلى SVG عبر C#
-url: /ar/net/conversion/csv-to-svg/
+
 description: نموذج رمز لتحويل csv إلى svg C#. استخدم API رمز المثال لملفات csv المجمعة لتحويل svg داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

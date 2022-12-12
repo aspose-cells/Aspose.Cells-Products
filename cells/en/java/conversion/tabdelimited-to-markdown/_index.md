@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to MARKDOWN via Java 
-url: /java/conversion/tabdelimited-to-markdown/
+
 description: Convert TABDELIMITED to MARKDOWN format in Java code. Save TABDELIMITED as MARKDOWN using Java.
 ---
 

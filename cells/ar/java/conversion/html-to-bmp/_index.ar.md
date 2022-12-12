@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل HTML إلى BMP عبر Java 
 weight: 740
-url: /ar/java/conversion/html-to-bmp/ 
+
 description: نموذج لشفرة تحويل Java لتنسيق HTML إلى ملف BMP. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى BMP داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

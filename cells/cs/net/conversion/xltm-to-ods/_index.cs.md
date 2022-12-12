@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLTM na ODS přes C#
-url: /cs/net/conversion/xltm-to-ods/
+
 description: Ukázkový kód pro převod xltm na ods C#. Použijte API ukázkový kód pro dávkový převod souborů xltm na ods v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

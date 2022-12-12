@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to XPS via Python
-url: /python-java/conversion/mhtml-to-xps/
+
 description: Convert MHTML to XPS format in Python code. Save MHTML as XPS using Python.
 ---
 

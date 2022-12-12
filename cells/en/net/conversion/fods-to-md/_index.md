@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to MD via C#
-url: /net/conversion/fods-to-md/
+
 description: Convert FODS to MD format in C# code. Save FODS as MD using VB.NET, Asp.NET or any .NET based application.
 ---
 

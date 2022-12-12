@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi Berkas Microsoft Excel melalui Python 
-url: /id/python/conversion/
+
 description: Konversi Excel XLS, XLSX, ODS, CSV ke PDF, XPS, HTML, JPEG, HTML, dan banyak format populer lainnya hanya dengan beberapa baris kode Python.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Sloučit soubory TXT přes Java 
 weight: 4480
-url: /cs/java/merger/txt/ 
+
 description: Java ukázkový kód pro kombinaci dokumentů TXT v Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง TSV เป็น XLSM ผ่าน Java 
-url: /th/java/conversion/tsv-to-xlsm/ 
+
 description: ตัวอย่างโค้ดการแปลง Java สำหรับรูปแบบ TSV เป็นไฟล์ XLSM โปรแกรมเมอร์สามารถใช้โค้ดตัวอย่างนี้เพื่อส่งออกสเปรดชีต Excel & OpenOffice ไปยัง XLSM ภายในแอปพลิเคชันบนเว็บหรือเดสก์ท็อป Java
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++ aracılığıyla MS Excel XLTX Dosyaları oluşturun 
-url: /tr/cpp/create-xltx/ 
+
 description: C++ MS Excel XLTX dosyaları oluşturmak için örnek kod. C++ tabanlı uygulamada MS Excel XLTX dosyaları oluşturmak için bu kodu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

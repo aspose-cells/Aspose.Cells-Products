@@ -1,6 +1,6 @@
 ---
 title: Convert XLSM to PDF via C++
-url: /cpp/conversion/xlsm-to-pdf/
+
 description: Convert XLSM to PDF format in C++ code. Save XLSM as PDF using C++.
 ---
 

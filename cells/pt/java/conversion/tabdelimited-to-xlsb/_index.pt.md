@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter TABDELIMITED para XLSB via Java 
-url: /pt/java/conversion/tabdelimited-to-xlsb/ 
+
 description: Exemplo de código de conversão Java para o formato TABDELIMITED para arquivo XLSB. Os programadores podem usar este código de exemplo para exportar planilhas do Excel e OpenOffice para XLSB em qualquer aplicativo baseado na Web ou Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

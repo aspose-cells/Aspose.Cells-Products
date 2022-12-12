@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir XLS en XLTM via C#
-url: /fr/net/conversion/xls-to-xltm/
+
 description: Exemple de code pour la conversion xls vers xltm C#. Utilisez l'exemple de code API pour la conversion de fichiers xls par lots en xltm dans VB.NET, Asp.NET ou toute application basée sur .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

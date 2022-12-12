@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte TSV na XLAM pomocí aplikace C++ 
-url: /cs/cpp/conversion/tsv-to-xlam/ 
+
 description: Ukázka převodního kódu C++ pro dokument TSV na formát XLAM. Programátoři mohou použít tento zdrojový kód pro dávkový převod TSV na XLAM v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

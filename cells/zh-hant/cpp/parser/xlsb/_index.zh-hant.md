@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通過 C++ 從 XLSB 文檔中提取文本和圖像 
 weight: 3140
-url: /zh-hant/cpp/parser/xlsb/ 
+
 description: C++ 從 XLSB 文件中提取文本和圖像的示例代碼 C++ 適用於 Windows 32 位、Windows 64 位和 Linux 64 位的運行時環境。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

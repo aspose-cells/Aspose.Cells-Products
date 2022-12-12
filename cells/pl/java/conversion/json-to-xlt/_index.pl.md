@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konwertuj JSON na XLT przez Java 
 weight: 7430
-url: /pl/java/conversion/json-to-xlt/ 
+
 description: Przykładowy kod konwersji Java dla formatu JSON na plik XLT. Programiści mogą użyć tego przykładowego kodu do eksportowania arkuszy kalkulacyjnych Excel i OpenOffice do XLT w dowolnej aplikacji internetowej lub desktopowej Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

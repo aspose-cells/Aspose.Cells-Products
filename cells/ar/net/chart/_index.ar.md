@@ -1,6 +1,6 @@
-﻿---
+---
 title: إنشاء مخططات Excel والتحويل إلى صور عبر .NET
-url: /ar/net/chart/
+
 description: C# شفرة المصدر لرسم وتحويل مخطط أو رسم تخطيطي في Microsoft Excel باستخدام .NET Library. 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLSM naar XLTM via C++ applicatie 
-url: /nl/cpp/conversion/xlsm-to-xltm/ 
+
 description: Voorbeeld C++ conversiecode voor XLSM-document naar XLTM-indeling. Programmeurs kunnen deze broncode gebruiken voor batch-conversie van XLSM naar XLTM binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

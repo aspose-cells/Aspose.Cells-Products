@@ -1,7 +1,7 @@
-﻿---
+---
 title: ค้นหาและแทนที่ข้อความในเอกสาร XLSM ผ่าน Java 
 weight: 1590
-url: /th/java/redaction/xlsm/ 
+
 description: Java โค้ดตัวอย่างเพื่อแก้ไขข้อมูลที่ละเอียดอ่อนในไฟล์ XLSM บน Java Runtime Environment สำหรับแอปพลิเคชัน JSP/JSF และแอปพลิเคชันเดสก์ท็อป
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

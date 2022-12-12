@@ -1,7 +1,7 @@
-﻿---
+---
 title: แปลง XLSM เป็น XLT ผ่าน Java 
 weight: 3800
-url: /th/java/conversion/xlsm-to-xlt/ 
+
 description: ตัวอย่างโค้ดการแปลง Java สำหรับรูปแบบ XLSM เป็นไฟล์ XLT โปรแกรมเมอร์สามารถใช้โค้ดตัวอย่างนี้เพื่อส่งออกสเปรดชีต Excel & OpenOffice ไปยัง XLT ภายในแอปพลิเคชันบนเว็บหรือเดสก์ท็อป Java
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

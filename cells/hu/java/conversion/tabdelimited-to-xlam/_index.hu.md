@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TABDELIMITED konvertálása XLAM-re a következőn keresztül: Java "
-url: /hu/java/conversion/tabdelimited-to-xlam/ 
+
 description: Minta Java konverziós kód a TABDELIMITED formátumhoz XLAM fájllá. A programozók ezt a példakódot használhatják Excel és OpenOffice táblázatok XLAM formátumba exportálására bármely web- vagy asztali Java alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

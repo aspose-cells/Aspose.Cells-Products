@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLTM konvertálása DIF-re a következőn keresztül: C#"
-url: /hu/net/conversion/xltm-to-dif/
+
 description: Mintakód az xltm to dif C# konverzióhoz. Használjon API példakódot kötegelt xltm fájlokhoz a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belüli átalakításhoz.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

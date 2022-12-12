@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLSX fájlformátumok megtekintése a következőn keresztül: .NET "
 weight: 2180
-url: /hu/net/viewer/xlsx/ 
+
 description: C# forráskód az XLSX dokumentumok betöltéséhez, rendereléséhez és megjelenítéséhez .NET Framework, .NET Core, Mono vagy Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

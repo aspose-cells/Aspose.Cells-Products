@@ -1,7 +1,7 @@
 ---
 title: Watermark XLSX document via .NET 
 weight: 8270
-url: /net/watermark/xlsx/ 
+
 description: C# source code to add or remove watermark to XLSX file on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

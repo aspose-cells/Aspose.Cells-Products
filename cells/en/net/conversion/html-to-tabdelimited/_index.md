@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to TABDELIMITED via C#
-url: /net/conversion/html-to-tabdelimited/
+
 description: Convert HTML to TABDELIMITED format in C# code. Save HTML as TABDELIMITED using VB.NET, Asp.NET or any .NET based application.
 ---
 

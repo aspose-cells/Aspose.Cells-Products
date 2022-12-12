@@ -1,6 +1,6 @@
-﻿---
+---
 title: Anotace souboru Excel prostřednictvím C++
-url: /cs/cpp/annotation/
+
 description: Přidejte nebo odeberte komentáře datových poznámek v tabulkách Excel a OpenOffice s knihovnou C++.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

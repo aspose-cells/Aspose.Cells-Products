@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést JSON na TXT přes C#
-url: /cs/net/conversion/json-to-txt/
+
 description: Ukázkový kód pro převod json na txt C#. Použijte API ukázkový kód pro dávkový převod souborů json na txt v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter TSV para TXT via C#
-url: /pt/net/conversion/tsv-to-txt/
+
 description: Código de exemplo para conversão de tsv para txt C#. Use API código de exemplo para conversão de arquivos tsv em lote para txt em VB.NET, Asp.NET ou qualquer aplicativo baseado em .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

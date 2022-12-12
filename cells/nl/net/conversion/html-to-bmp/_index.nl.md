@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer HTML naar BMP via C#
-url: /nl/net/conversion/html-to-bmp/
+
 description: Voorbeeldcode voor conversie van html naar bmp C#. Gebruik API voorbeeldcode voor batch-html-bestanden naar bmp-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Δημιουργία αναφορών σε αρχεία XLS μέσω Java 
 weight: 1090
-url: /el/java/assembly/xls/ 
+
 description: Java δείγμα κώδικα για τη δημιουργία αναφορών μορφής XLS στο Java Runtime Environment για JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

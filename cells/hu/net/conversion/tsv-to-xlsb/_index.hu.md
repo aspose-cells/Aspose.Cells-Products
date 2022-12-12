@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TSV konvertálása XLSB-re a következőn keresztül: C#"
-url: /hu/net/conversion/tsv-to-xlsb/
+
 description: Mintakód a tsv–xlsb C# konverzióhoz. Használjon API példakódot a tsv fájlok kötegelt xlsb formátumba konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

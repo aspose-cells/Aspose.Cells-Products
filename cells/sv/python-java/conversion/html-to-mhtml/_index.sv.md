@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera HTML till MHTML via Python
-url: /sv/python-java/conversion/html-to-mhtml/
+
 description: Exempelkod för html till mhtml Python-konvertering. Använd API exempelkod för batch-html-filer till mhtml-konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

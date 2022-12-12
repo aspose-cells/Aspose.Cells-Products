@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通过 C++ 编辑或查看 XLS 文档元数据 
 weight: 2150
-url: /zh/cpp/metadata/xls/ 
+
 description: C++ 在 Windows 32 位、Windows 64 位和 Linux 64 位的 C++ 运行时环境上编辑或查看 XLS 文件元数据的示例代码。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

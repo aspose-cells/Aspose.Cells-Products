@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera MHTML till TXT via C#
-url: /sv/net/conversion/mhtml-to-txt/
+
 description: Exempelkod för konvertering från mhtml till txt C#. Använd API exempelkod för batch-mhtml-filer till txt-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

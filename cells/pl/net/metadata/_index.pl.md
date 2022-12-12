@@ -1,6 +1,6 @@
-﻿---
+---
 title: Zarządzaj metadanymi pliku Excel za pośrednictwem .NET C#
-url: /pl/net/metadata/
+
 description: Przeglądaj, dodawaj, edytuj, usuwaj lub wyodrębniaj metadane plików Excel za pomocą zaledwie kilku linijek kodu C#
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer HTML naar GIF via C#
-url: /nl/net/conversion/html-to-gif/
+
 description: Voorbeeldcode voor conversie van html naar gif C#. Gebruik API voorbeeldcode voor batch-html-bestanden naar gif-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi HTML ke PDF melalui Python
-url: /id/python-java/conversion/html-to-pdf/
+
 description: Contoh kode untuk konversi html ke pdf Python. Gunakan API kode contoh untuk file batch html ke konversi pdf dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

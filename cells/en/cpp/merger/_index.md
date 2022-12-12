@@ -1,6 +1,6 @@
 ---
 title: Merge Excel Files via C++ 
-url: /cpp/merger/ 
+
 description: Merge Excel file in C++ code. Combine Excel file using C++.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TABDELIMITED na GIF přes Java 
-url: /cs/java/conversion/tabdelimited-to-gif/ 
+
 description: Ukázkový konverzní kód Java pro formát TABDELIMITED na soubor GIF. Programátoři mohou tento příklad kódu použít k exportu tabulek Excelu a OpenOffice do formátu GIF v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

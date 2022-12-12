@@ -1,6 +1,6 @@
-﻿---
+---
 title: "NUMBERS konvertálása TAB-raDELIMITED a következőn keresztül: C#"
-url: /hu/net/conversion/numbers-to-tabdelimited/
+
 description: Mintakód számokhoz a tabulátorral határolt C# konverzióhoz. Használjon API példakódot kötegszámfájlokhoz a tabulátorral tagolt konverzióhoz VB.NET, Asp.NET vagy bármely .NET alapú alkalmazásban.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

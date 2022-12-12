@@ -1,6 +1,6 @@
-﻿---
+---
 title: स्प्रैडशीटएमएल को Python के माध्यम से टीआईएफएफ में बदलें
-url: /hi/python-java/conversion/spreadsheetml-to-tiff/
+
 description: स्प्रैडशीटएमएल के लिए नमूना कोड Python रूपांतरण के लिए। Python एप्लिकेशन के भीतर रूपांतरण को टिफ़ करने के लिए बैच स्प्रेडशीटएमएल फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

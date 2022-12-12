@@ -1,7 +1,7 @@
 ---
 title: Insert PivotTable in Micorsoft Excel XLSX files via C# 
 weight: 7690
-url: /net/insert-pivottable-to-xlsx/
+
 description: C# Sample code for generating XLSX documents with PivotTable. Use this code for creating Micorsoft Excel XLSX files with PivotTable within VB.NET, Asp.NET or any .NET based application.
 ---
 

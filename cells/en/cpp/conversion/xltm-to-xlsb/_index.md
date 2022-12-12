@@ -1,6 +1,6 @@
 ---
 title: Convert XLTM to XLSB via C++
-url: /cpp/conversion/xltm-to-xlsb/
+
 description: Convert XLTM to XLSB format in C++ code. Save XLTM as XLSB using C++.
 ---
 

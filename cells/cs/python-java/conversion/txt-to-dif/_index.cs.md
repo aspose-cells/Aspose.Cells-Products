@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TXT na DIF přes Python
-url: /cs/python-java/conversion/txt-to-dif/
+
 description: Ukázkový kód pro převod txt na rozdíl Python. Použijte API ukázkový kód pro dávkové soubory txt pro převod převodu v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

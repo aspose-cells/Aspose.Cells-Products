@@ -1,7 +1,7 @@
-﻿---
+---
 title: Vyhledat a nahradit text v dokumentu ODS prostřednictvím Java 
 weight: 9210
-url: /cs/java/redaction/ods/ 
+
 description: Java ukázkový kód pro redigování citlivých informací v souboru ODS v Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

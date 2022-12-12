@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java üzerinden XLSB belgesinin kilidini açın 
 weight: 5860
-url: /tr/java/unlock/xlsb/ 
+
 description: JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Runtime Environment'da parola korumalı XLSB dosyasının kilidini açmak için Java örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

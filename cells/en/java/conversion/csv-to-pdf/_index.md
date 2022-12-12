@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to PDF via Java 
-url: /java/conversion/csv-to-pdf/
+
 description: Convert CSV to PDF format in Java code. Save CSV as PDF using Java.
 ---
 

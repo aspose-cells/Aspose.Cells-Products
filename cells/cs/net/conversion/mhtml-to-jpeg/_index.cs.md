@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést MHTML na JPEG prostřednictvím C#
-url: /cs/net/conversion/mhtml-to-jpeg/
+
 description: Ukázkový kód pro převod mhtml na jpeg C#. Použijte API ukázkový kód pro dávkový převod souborů mhtml na jpeg v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converter XLSM para matriz de bytes via C# 
 weight: 7690
-url: /pt/net/conversion/xlsm-to-byte-array/ 
+
 description: C# Código de exemplo para conversão de XLSM para matriz de bytes. Use este código para conversão de Excel XLSM para Byte Array em VB.NET, Asp.NET ou qualquer aplicativo baseado em .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to XLTX via C++
-url: /cpp/conversion/xlt-to-xltx/
+
 description: Convert XLT to XLTX format in C++ code. Save XLT as XLTX using C++.
 ---
 

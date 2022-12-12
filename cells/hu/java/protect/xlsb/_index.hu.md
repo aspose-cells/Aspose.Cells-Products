@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLSB-dokumentum védelme és zárolása a következőn keresztül: Java "
 weight: 6590
-url: /hu/java/protect/xlsb/ 
+
 description: Java mintakód az XLSB-fájl jelszóval történő zárolásához a Java Runtime Environment for JSP/JSF alkalmazásokhoz és asztali alkalmazásokhoz.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование HTML в MARKDOWN с помощью C#
-url: /ru/net/conversion/html-to-markdown/
+
 description: Пример кода для преобразования html в markdown C#. Используйте пример кода API для пакетных HTML-файлов для преобразования уценки в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

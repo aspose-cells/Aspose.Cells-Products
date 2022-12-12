@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést TXT na XLTM přes Java 
 weight: 9940
-url: /cs/java/conversion/txt-to-xltm/ 
+
 description: Ukázkový konverzní kód Java pro soubor ve formátu TXT na XLTM. Programátoři mohou tento příklad kódu použít k exportu tabulek Excelu a OpenOffice do XLTM v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

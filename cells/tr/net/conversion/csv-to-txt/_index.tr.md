@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla CSV'yi TXT'ye dönüştürün
-url: /tr/net/conversion/csv-to-txt/
+
 description: csv'den txt'ye C# dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu csv dosyalarını txt'ye dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: TXT konvertálása PNG-re a(z) C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/txt-to-png/ 
+
 description: Minta C++ konverziós kód TXT dokumentumhoz PNG formátumba. A programozók ezt a forráskódot használhatják kötegelt TXT-ből PNG-be konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

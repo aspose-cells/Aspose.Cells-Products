@@ -1,7 +1,7 @@
-﻿---
+---
 title: Telusuri dokumen ODS tanpa membuka melalui .NET 
 weight: 160
-url: /id/net/search/ods/ 
+
 description: C# kode sumber untuk mencari kata-kata dengan pola dalam file ODS pada .NET Framework, .NET Core, Mono atau Platform Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

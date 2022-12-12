@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してバブルチャートを作成する
-url: /ja/python-java/create-bubble-chart/
+
 description: PythonPythonライブラリを使用してExcelにバブルチャートを作成するためのサンプルコード。このコードを使用して、Pythonベースのアプリケーション内でMSExcelへのバブルチャートを作成します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

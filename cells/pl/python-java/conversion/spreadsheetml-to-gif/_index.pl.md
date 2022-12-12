@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj SPREADSHEETML na GIF przez Python
-url: /pl/python-java/conversion/spreadsheetml-to-gif/
+
 description: Przykładowy kod konwersji arkusza kalkulacyjnego na gif Python. Użyj przykładowego kodu API dla wsadowych plików arkusza kalkulacyjnego w celu konwersji gif w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

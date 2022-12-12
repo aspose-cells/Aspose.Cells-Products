@@ -1,6 +1,6 @@
-﻿---
+---
 title: Annotazioni file Excel tramite Java
-url: /it/java/annotation/
+
 description: Aggiungi o rimuovi l'annotazione dei dati dei fogli di lavoro di Excel e OpenOffice con la libreria Java.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

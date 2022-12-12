@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi XLTX sang XML qua Python
-url: /vi/python-java/conversion/xltx-to-xml/
+
 description: Mã mẫu cho chuyển đổi xltx sang xml Python. Sử dụng API mã mẫu cho hàng loạt tệp xltx sang chuyển đổi xml trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

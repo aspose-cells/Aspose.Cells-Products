@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してNUMBERSをDIFに変換します 
-url: /ja/java/conversion/numbers-to-dif/ 
+
 description: NUMBERS形式のDIFファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のDIFにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

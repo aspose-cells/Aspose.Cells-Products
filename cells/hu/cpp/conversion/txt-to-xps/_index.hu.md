@@ -1,6 +1,6 @@
-﻿---
+---
 title: A TXT konvertálása XPS-re a C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/txt-to-xps/ 
+
 description: Minta C++ konverziós kód TXT dokumentumhoz XPS formátumba. A programozók ezt a forráskódot használhatják a kötegelt TXT-ről XPS-re való konvertáláshoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

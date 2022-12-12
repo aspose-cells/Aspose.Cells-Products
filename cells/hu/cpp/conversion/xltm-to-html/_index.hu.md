@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLTM-et HTML-re a(z) C++ alkalmazással 
-url: /hu/cpp/conversion/xltm-to-html/ 
+
 description: Minta C++ konverziós kód XLTM dokumentumhoz HTML formátumba. A programozók ezt a forráskódot használhatják az XLTM-ből HTML-be történő kötegelt konvertáláshoz bármely C++ alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

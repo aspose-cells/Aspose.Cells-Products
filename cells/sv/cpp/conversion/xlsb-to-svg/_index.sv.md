@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertera XLSB till SVG via appen C++ 
 weight: 4450
-url: /sv/cpp/conversion/xlsb-to-svg/ 
+
 description: Exempel på konverteringskod för C++ för XLSB-dokument till SVG-format. Programmerare kan använda den här källkoden för batchkonvertering av XLSB till SVG inom alla C++-program.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

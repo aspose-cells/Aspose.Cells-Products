@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# üzerinden XLTX'i TABDELIMITED'e dönüştürün
-url: /tr/net/conversion/xltx-to-tabdelimited/
+
 description: xltx'ten sekmeyle ayrılmış C# dönüşümüne ilişkin örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu xltx dosyaları için sekmeyle ayrılmış dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

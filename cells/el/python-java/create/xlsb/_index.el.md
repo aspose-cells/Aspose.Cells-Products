@@ -1,6 +1,6 @@
-﻿---
+---
 title: Δημιουργία αρχείων MS Excel XLSB μέσω Python 
-url: /el/python-java/create-xlsb/ 
+
 description: Python Δείγμα κώδικα για τη δημιουργία εγγράφων XLSB. Χρησιμοποιήστε αυτόν τον κώδικα για τη δημιουργία αρχείων MS Excel XLSB εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

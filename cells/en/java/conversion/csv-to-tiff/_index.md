@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to TIFF via Java 
-url: /java/conversion/csv-to-tiff/
+
 description: Convert CSV to TIFF format in Java code. Save CSV as TIFF using Java.
 ---
 

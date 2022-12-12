@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést CSV na MARKDOWN prostřednictvím C#
-url: /cs/net/conversion/csv-to-markdown/
+
 description: Ukázkový kód pro konverzi csv na snížení C#. Použijte API ukázkový kód pro dávkové soubory csv ke konverzi markdown v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

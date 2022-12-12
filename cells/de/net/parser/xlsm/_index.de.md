@@ -1,7 +1,7 @@
-﻿---
+---
 title: Text und Bilder aus XLSM-Dokument über .NET extrahieren 
 weight: 4010
-url: /de/net/parser/xlsm/ 
+
 description: C#-Quellcode zum Extrahieren von Text und Bildern aus der XLSM-Datei auf .NET Framework-, .NET Core-, Mono- oder Xamarin-Plattformen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converti JSON in SVG tramite Java 
 weight: 6900
-url: /it/java/conversion/json-to-svg/ 
+
 description: Esempio di codice di conversione Java per il formato JSON in file SVG. I programmatori possono utilizzare questo codice di esempio per esportare fogli di calcolo Excel e OpenOffice in SVG all'interno di qualsiasi applicazione basata su Web o desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

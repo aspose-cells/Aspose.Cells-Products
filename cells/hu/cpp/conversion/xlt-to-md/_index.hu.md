@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLT-t MD-vé a C++ alkalmazással 
-url: /hu/cpp/conversion/xlt-to-md/ 
+
 description: Minta C++ konverziós kód az XLT dokumentumhoz MD formátumba. A programozók ezt a forráskódot használhatják kötegelt XLT-ből MD-re konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

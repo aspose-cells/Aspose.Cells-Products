@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TSV konvertálása XML-re a következőn keresztül: C#"
-url: /hu/net/conversion/tsv-to-xml/
+
 description: Mintakód a tsv–xml C# konverzióhoz. Használjon API példakódot a tsv fájlok kötegelt XML-re konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazásban.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

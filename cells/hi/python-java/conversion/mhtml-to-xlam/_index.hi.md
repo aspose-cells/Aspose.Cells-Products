@@ -1,6 +1,6 @@
-﻿---
+---
 title: एमएचटीएमएल को एक्सएलएएम में Python के माध्यम से कनवर्ट करें
-url: /hi/python-java/conversion/mhtml-to-xlam/
+
 description: mhtml से xlam Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन में बैच mhtml फ़ाइलों से xlam रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "NUMBERS konvertálása PDF-be a következőn keresztül: C#"
-url: /hu/net/conversion/numbers-to-pdf/
+
 description: Mintakód számok pdf-té konvertálásához C#. Használjon API példakódot a kötegszámfájlok PDF konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazásban.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

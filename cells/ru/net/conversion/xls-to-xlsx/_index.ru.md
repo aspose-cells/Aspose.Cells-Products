@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLS в XLSX через C#
-url: /ru/net/conversion/xls-to-xlsx/
+
 description: Пример кода для преобразования xls в xlsx C#. Используйте пример кода API для пакетного преобразования файлов xls в xlsx в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

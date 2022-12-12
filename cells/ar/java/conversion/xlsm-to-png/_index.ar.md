@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل XLSM إلى PNG عبر Java 
 weight: 1320
-url: /ar/java/conversion/xlsm-to-png/ 
+
 description: نموذج Java رمز تحويل لتنسيق XLSM إلى ملف PNG. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel و OpenOffice إلى PNG داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversikan TSV ke BMP melalui C++ aplikasi 
 weight: 7000
-url: /id/cpp/conversion/tsv-to-bmp/ 
+
 description: Contoh C++ kode konversi untuk dokumen TSV ke format BMP. Pemrogram dapat menggunakan kode sumber ini untuk konversi batch TSV ke BMP dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

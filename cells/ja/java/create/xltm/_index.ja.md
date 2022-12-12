@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してMSExcelXLTMファイルを作成する 
-url: /ja/java/create-xltm/ 
+
 description: JavaXLTMドキュメントを生成するためのサンプルコード。このコードを使用して、JavaベースのデスクトップまたはWebアプリケーション内にMSExcelXLTMファイルを作成します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

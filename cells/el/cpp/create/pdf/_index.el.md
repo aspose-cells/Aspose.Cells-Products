@@ -1,6 +1,6 @@
-﻿---
+---
 title: Δημιουργία αρχείων PDF μέσω C++ 
-url: /el/cpp/create-pdf/ 
+
 description: C++ Δείγμα κώδικα για τη δημιουργία αρχείων PDF. Χρησιμοποιήστε αυτόν τον κώδικα για τη δημιουργία αρχείων PDF εντός εφαρμογής που βασίζεται σε C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

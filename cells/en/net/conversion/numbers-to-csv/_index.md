@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to CSV via C#
-url: /net/conversion/numbers-to-csv/
+
 description: Convert NUMBERS to CSV format in C# code. Save NUMBERS as CSV using VB.NET, Asp.NET or any .NET based application.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi FODS sang DIF qua Python
-url: /vi/python-java/conversion/fods-to-dif/
+
 description: Mã mẫu cho chuyển đổi fods to dif Python. Sử dụng mã mẫu API cho các tệp fods hàng loạt để chuyển đổi khác trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

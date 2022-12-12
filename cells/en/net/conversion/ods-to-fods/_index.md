@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to FODS via C#
-url: /net/conversion/ods-to-fods/
+
 description: Convert ODS to FODS format in C# code. Save ODS as FODS using VB.NET, Asp.NET or any .NET based application.
 ---
 

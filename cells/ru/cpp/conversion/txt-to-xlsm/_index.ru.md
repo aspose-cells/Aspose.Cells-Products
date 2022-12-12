@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование TXT в XLSM с помощью приложения C++ 
-url: /ru/cpp/conversion/txt-to-xlsm/ 
+
 description: Пример кода преобразования C++ для документа TXT в формат XLSM. Программисты могут использовать этот исходный код для пакетного преобразования TXT в XLSM в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java üzerinden XLSM belge grafiği 
 weight: 3020
-url: /tr/java/chart/xlsm/ 
+
 description: Java JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Runtime Environment'daki XLSM dosyasında çizelge veya diyagram çizmek ve dönüştürmek için örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

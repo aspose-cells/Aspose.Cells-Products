@@ -1,7 +1,7 @@
-﻿---
+---
 title: Μετατροπή XLS σε XPS μέσω Java 
 weight: 5510
-url: /el/java/conversion/xls-to-xps/ 
+
 description: Δείγμα κώδικα μετατροπής Java για μορφή XLS σε αρχείο XPS. Οι προγραμματιστές μπορούν να χρησιμοποιήσουν αυτό το παράδειγμα κώδικα για να εξάγουν υπολογιστικά φύλλα Excel και OpenOffice σε XPS σε οποιαδήποτε εφαρμογή που βασίζεται στον Ιστό ή στην επιφάνεια εργασίας Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

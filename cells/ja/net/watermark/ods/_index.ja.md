@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET経由の透かしODSドキュメント 
 weight: 4190
-url: /ja/net/watermark/ods/ 
+
 description: .NETフレームワーク、.NETコア、Mono、またはXamarinプラットフォーム上のODSファイルに透かしを追加または削除するためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

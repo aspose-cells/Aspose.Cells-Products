@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLSX в CSV через Python
-url: /ru/python-java/conversion/xlsx-to-csv/
+
 description: Пример кода для преобразования xlsx в csv Python. Используйте пример кода API для пакетного преобразования файлов xlsx в csv в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

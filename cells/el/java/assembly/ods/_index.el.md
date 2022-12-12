@@ -1,7 +1,7 @@
-﻿---
+---
 title: Δημιουργία αναφορών σε αρχεία ODS μέσω Java 
 weight: 2440
-url: /el/java/assembly/ods/ 
+
 description: Java δείγμα κώδικα για τη δημιουργία αναφορών μορφής ODS στο Java Runtime Environment για JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

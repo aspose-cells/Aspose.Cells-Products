@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan FODS ke XLSM melalui Python
-url: /id/python-java/conversion/fods-to-xlsm/
+
 description: Contoh kode untuk konversi fods ke xlsm Python. Gunakan API kode contoh untuk file batch fods ke konversi xlsm dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

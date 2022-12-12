@@ -1,7 +1,7 @@
 ---
 title: Insert Cube into Excel via Python 
 weight: 10
-url: /python-net/shapes/insert-cube-to-excel/ 
+
 description: Python source code to insert Cube into Excel.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj HTML na XML za pomocą Java 
-url: /pl/java/conversion/html-to-xml/ 
+
 description: Przykładowy kod konwersji Java dla formatu HTML na plik XML. Programiści mogą użyć tego przykładowego kodu do eksportowania arkuszy kalkulacyjnych Excel i OpenOffice do XML w dowolnej aplikacji opartej na sieci Web lub Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

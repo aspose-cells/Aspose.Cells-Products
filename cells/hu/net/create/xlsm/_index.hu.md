@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Hozzon létre MS Excel XLSM fájlokat a következőn keresztül: C# "
-url: /hu/net/create-xlsm/ 
+
 description: C# Mintakód XLSM dokumentumok generálásához. Ezzel a kóddal MS Excel XLSM fájlokat hozhat létre VB.NET, Asp.NET vagy bármely .NET alapú alkalmazásban.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

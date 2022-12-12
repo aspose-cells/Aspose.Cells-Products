@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή NUMBERS σε CSV μέσω Python
-url: /el/python-java/conversion/numbers-to-csv/
+
 description: Δείγμα κώδικα για μετατροπή αριθμών σε csv Python. Χρησιμοποιήστε API παράδειγμα κώδικα για αρχεία αριθμών παρτίδας σε μετατροπή csv εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

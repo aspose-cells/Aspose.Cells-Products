@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az SXC-t JSON-ba a(z) C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/sxc-to-json/ 
+
 description: Minta C++ konverziós kód az SXC dokumentumhoz JSON formátumba. A programozók ezt a forráskódot használhatják az SXC-ből JSON-ba kötegelt konvertáláshoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

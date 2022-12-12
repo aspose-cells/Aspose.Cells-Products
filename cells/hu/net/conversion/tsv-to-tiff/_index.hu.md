@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TSV konvertálása TIFF-re a következőn keresztül: C#"
-url: /hu/net/conversion/tsv-to-tiff/
+
 description: Mintakód a tsv-ből tiff-be C# konverzióhoz. Használjon API példakódot kötegelt tsv-fájlokhoz a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazás tiff-konverziójához.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

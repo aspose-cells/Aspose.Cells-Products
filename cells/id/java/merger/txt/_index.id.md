@@ -1,7 +1,7 @@
-﻿---
+---
 title: Gabungkan File TXT melalui Java 
 weight: 4480
-url: /id/java/merger/txt/ 
+
 description: Java kode contoh untuk menggabungkan dokumen TXT pada Java Runtime Environment untuk Aplikasi JSP/JSF dan Aplikasi Desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

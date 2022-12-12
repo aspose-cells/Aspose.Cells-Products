@@ -1,7 +1,7 @@
-﻿---
+---
 title: Trích xuất văn bản và hình ảnh từ tài liệu XLSB qua .NET 
 weight: 2200
-url: /vi/net/parser/xlsb/ 
+
 description: C# mã nguồn để trích xuất văn bản và hình ảnh từ tệp XLSB trên Nền tảng .NET Framework, .NET Core Mono hoặc Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

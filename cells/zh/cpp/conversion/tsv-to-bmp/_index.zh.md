@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通过 C++ 应用程序将 TSV 转换为 BMP 
 weight: 7000
-url: /zh/cpp/conversion/tsv-to-bmp/ 
+
 description: TSV 文档到 BMP 格式的示例 C++ 转换代码。程序员可以使用此源代码在任何 C++ 应用程序中进行批量 TSV 到 BMP 的转换。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan XLTX ke MARKDOWN melalui Python
-url: /id/python-java/conversion/xltx-to-markdown/
+
 description: Contoh kode untuk konversi xltx ke penurunan harga Python. Gunakan API kode contoh untuk berkas xltx batch untuk konversi penurunan harga dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

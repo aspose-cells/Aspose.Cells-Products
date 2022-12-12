@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera TXT till JPG via Python
-url: /sv/python-java/conversion/txt-to-jpg/
+
 description: Exempelkod för konvertering från txt till jpg Python. Använd API exempelkod för batch-txt-filer till jpg-konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

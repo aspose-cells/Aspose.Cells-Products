@@ -1,7 +1,7 @@
-﻿---
+---
 title: Wykres dokumentów XLSM za pośrednictwem C++ 
 weight: 8510
-url: /pl/cpp/chart/xlsm/ 
+
 description: C++ przykładowy kod do rysowania i konwertowania wykresu lub diagramu w pliku XLSM w C++ środowisku wykonawczym dla 32-bitowego systemu Windows, 64-bitowego systemu Windows i 64-bitowego systemu Linux.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

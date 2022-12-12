@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj SPREADSHEETML na TSV przez C#
-url: /pl/net/conversion/spreadsheetml-to-tsv/
+
 description: Przykładowy kod konwersji arkusza kalkulacyjnego ml do tsv C#. Użyj przykładowego kodu API dla plików arkusza kalkulacyjnego wsadowego do konwersji tsv w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

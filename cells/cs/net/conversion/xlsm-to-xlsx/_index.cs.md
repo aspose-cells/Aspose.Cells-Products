@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLSM na XLSX přes C#
-url: /cs/net/conversion/xlsm-to-xlsx/
+
 description: Ukázkový kód pro převod xlsm na xlsx C#. Použijte API ukázkový kód pro dávkový převod souborů xlsm na xlsx v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLTX إلى DIF عبر Python
-url: /ar/python-java/conversion/xltx-to-dif/
+
 description: نموذج كود لتحويل xltx إلى ديف Python. استخدم API رمز المثال لملفات xltx الدفعية لتحويل ديف داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

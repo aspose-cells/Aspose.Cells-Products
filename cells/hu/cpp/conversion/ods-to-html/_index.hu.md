@@ -1,7 +1,7 @@
-﻿---
+---
 title: ODS konvertálása HTML-re a(z) C++ alkalmazással 
 weight: 7800
-url: /hu/cpp/conversion/ods-to-html/ 
+
 description: Minta C++ konverziós kód az ODS-dokumentumhoz HTML formátumba. A programozók ezt a forráskódot használhatják kötegelt ODS-HTML-konverzióhoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

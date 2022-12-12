@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++ aracılığıyla HTML Dosyaları Oluşturun 
-url: /tr/cpp/create-html/ 
+
 description: C++ HTML dosyaları oluşturmak için örnek kod. C++ tabanlı uygulamada HTML dosyaları oluşturmak için bu kodu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

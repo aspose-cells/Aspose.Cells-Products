@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést SPREADSHEETML na JPEG prostřednictvím Python
-url: /cs/python-java/conversion/spreadsheetml-to-jpeg/
+
 description: Ukázkový kód pro převod tabulky ml na jpeg Python. Použijte API ukázkový kód pro dávkový převod souborů tabulkového procesoruml na jpeg v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

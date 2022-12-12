@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta CSV a SPREADSHEETML a través de Python
-url: /es/python-java/conversion/csv-to-spreadsheetml/
+
 description: Código de muestra para la conversión de csv a hoja de cálculo Python. Utilice el código de ejemplo API para la conversión de archivos csv por lotes a una hoja de cálculo dentro de la aplicación Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

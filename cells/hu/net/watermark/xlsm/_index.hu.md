@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Vízjel XLSM dokumentum a következőn keresztül: .NET "
 weight: 8270
-url: /hu/net/watermark/xlsm/ 
+
 description: C# forráskód vízjel hozzáadásához vagy eltávolításához az XLSM-fájlhoz .NET Framework, .NET Core, Mono vagy Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

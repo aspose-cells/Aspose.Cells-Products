@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してODSをXLSMに変換します
-url: /ja/python-java/conversion/ods-to-xlsm/
+
 description: odsからxlsmPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチodsファイルからxlsmへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

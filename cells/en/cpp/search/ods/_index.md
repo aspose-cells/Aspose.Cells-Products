@@ -1,7 +1,7 @@
 ---
 title: Search ODS document without opening via C++ 
 weight: 3300
-url: /cpp/search/ods/ 
+
 description: C++ example code to search words with pattern in ODS file on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
 

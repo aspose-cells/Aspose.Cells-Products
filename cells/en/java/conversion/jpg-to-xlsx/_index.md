@@ -1,6 +1,6 @@
 ---
 title: Convert JPG to XLSX via Java 
-url: /java/conversion/jpg-to-xlsx/
+
 description: Convert JPG to XLSX format in Java code. Save JPG as XLSX using Java.
 ---
 

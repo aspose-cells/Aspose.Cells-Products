@@ -1,6 +1,6 @@
-﻿---
+---
 title: XLSM को C# के माध्यम से MARKDOWN में बदलें
-url: /hi/net/conversion/xlsm-to-markdown/
+
 description: xlsm से मार्कडाउन C# रूपांतरण के लिए नमूना कोड। VB.NET, Asp.NET या किसी .NET आधारित एप्लिकेशन में रूपांतरण को चिह्नित करने के लिए बैच xlsm फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

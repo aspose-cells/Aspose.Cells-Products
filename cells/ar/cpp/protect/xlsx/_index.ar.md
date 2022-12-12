@@ -1,7 +1,7 @@
-﻿---
+---
 title: حماية وقفل مستند XLSX عبر C++ 
 weight: 1140
-url: /ar/cpp/protect/xlsx/ 
+
 description: C++ مثال على رمز لقفل ملف XLSX باستخدام كلمة مرور في C++ Runtime Environment لأنظمة التشغيل Windows 32 بت و Windows 64 بت و Linux 64 بت.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

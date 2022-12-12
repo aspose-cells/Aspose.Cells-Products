@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir ODS en MHTML via Python
-url: /fr/python-java/conversion/ods-to-mhtml/
+
 description: Exemple de code pour la conversion ods en mhtml Python. Utilisez l'exemple de code API pour la conversion de fichiers ods par lots en mhtml dans l'application Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: FODS'u Python aracılığıyla SXC'ye dönüştürün
-url: /tr/python-java/conversion/fods-to-sxc/
+
 description: Fos'tan sxc'ye Python dönüştürme için örnek kod. Python uygulamasında toplu dosya dosyalarından sxc'ye dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

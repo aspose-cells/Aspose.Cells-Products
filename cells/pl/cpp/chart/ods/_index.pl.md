@@ -1,7 +1,7 @@
-﻿---
+---
 title: Wykres dokumentu ODS za pośrednictwem C++ 
 weight: 3820
-url: /pl/cpp/chart/ods/ 
+
 description: C++ przykładowy kod do rysowania i konwertowania wykresu lub diagramu w pliku ODS w C++ środowisku wykonawczym dla 32-bitowego systemu Windows, 64-bitowego systemu Windows i 64-bitowego systemu Linux.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

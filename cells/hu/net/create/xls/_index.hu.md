@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Hozzon létre MS Excel XLS fájlokat a következőn keresztül: C# "
-url: /hu/net/create-xls/ 
+
 description: C# Mintakód XLS-dokumentumok generálásához. Ezzel a kóddal MS Excel XLS fájlokat hozhat létre VB.NET, Asp.NET vagy bármely .NET alapú alkalmazásban.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

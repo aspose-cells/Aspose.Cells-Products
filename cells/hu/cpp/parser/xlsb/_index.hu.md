@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Szöveg és képek kibontása XLSB-dokumentumból a következőn keresztül: C++ "
 weight: 3140
-url: /hu/cpp/parser/xlsb/ 
+
 description: C++ példakód szöveg és képek XLSB-fájlból való kivonásához a C++ Runtime Environment for Windows 32 bit, Windows 64 bit és Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

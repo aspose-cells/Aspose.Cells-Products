@@ -1,6 +1,6 @@
 ---
 title: Merge MHTML to HTM Files via C# 
-url: /net/merger/merge-mhtml-to-htm/ 
+
 description: Merge MHTML to HTM file in C# code. Combine MHTML to HTM file using VB.NET, Asp.NET or any .NET based application.
 ---
 

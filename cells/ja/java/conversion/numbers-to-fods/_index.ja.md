@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してNUMBERSをFODSに変換します 
-url: /ja/java/conversion/numbers-to-fods/ 
+
 description: NUMBERS形式のサンプルJava変換コードからFODSファイルへ。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のFODSにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Lindungi dan kunci dokumen XLSX melalui Java 
 weight: 1870
-url: /id/java/protect/xlsx/ 
+
 description: Java contoh kode untuk mengunci file XLSX menggunakan sandi di Java Runtime Environment untuk Aplikasi JSP/JSF dan Aplikasi Desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Az Excel munkalap felosztása C# nyelven
-url: /hu/net/splitter/
+
 description: C# forráskód, amely elmagyarázza, hogyan lehet a Microsoft Excel fájlokat több fájlra felosztani a Visual C#.NET alkalmazásokban
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

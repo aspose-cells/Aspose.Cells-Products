@@ -1,6 +1,6 @@
-﻿---
+---
 title: Upravit soubory TSV prostřednictvím .NET 
-url: /cs/net/editor/tsv/ 
+
 description: Zdrojový kód C# pro úpravy dokumentu TSV na platformách .NET Framework, .NET Core, Windows Azure, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

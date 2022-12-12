@@ -1,6 +1,6 @@
-﻿---
+---
 title: Buat Diagram Lingkaran melalui Python
-url: /id/python-java/create-pie-chart/
+
 description: Python Contoh kode untuk membuat diagram lingkaran ke Excel menggunakan Python Pustaka. Gunakan kode ini untuk membuat diagram lingkaran ke MS Excel dalam aplikasi berbasis Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

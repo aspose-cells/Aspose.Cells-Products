@@ -1,7 +1,7 @@
-﻿---
+---
 title: Text und Bilder aus ODS-Dokument über Java extrahieren 
 weight: 4740
-url: /de/java/parser/ods/ 
+
 description: Java Beispielcode zum Extrahieren von Text und Bildern aus der ODS-Datei in Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Dokumen XLSM tanda air melalui Java 
 weight: 7680
-url: /id/java/watermark/xlsm/ 
+
 description: Java contoh kode untuk menambah atau menghapus tanda air ke file XLSM di Java Runtime Environment untuk Aplikasi JSP/JSF dan Aplikasi Desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

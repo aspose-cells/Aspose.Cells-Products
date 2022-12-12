@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してXLSXファイルでレポートを生成する 
 weight: 7710
-url: /ja/java/assembly/xlsx/ 
+
 description: Java JSP/JSFアプリケーションおよびデスクトップアプリケーションのランタイム環境でXLSX形式のレポートを作成するためのサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

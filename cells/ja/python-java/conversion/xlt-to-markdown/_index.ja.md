@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してXLTをMARKDOWNに変換します
-url: /ja/python-java/conversion/xlt-to-markdown/
+
 description: xltからマークダウンPythonへの変換のサンプルコード。バッチxltファイルのAPIサンプルコードを使用して、Pythonアプリケーション内で変換をマークダウンします。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

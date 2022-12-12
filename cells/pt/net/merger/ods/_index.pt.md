@@ -1,7 +1,7 @@
-﻿---
+---
 title: Mesclar arquivos ODS via .NET 
 weight: 4330
-url: /pt/net/merger/ods/ 
+
 description: C# código-fonte para combinar documentos ODS em plataformas .NET Framework, .NET Core, Mono ou Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

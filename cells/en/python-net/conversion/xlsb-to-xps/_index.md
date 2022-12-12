@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to XPS via Python
-url: /python-net/conversion/xlsb-to-xps/
+
 description: Sample code for xlsb to xps Python conversion. Use API example code for batch xlsb files to xps conversion within Python application.
 ---
 

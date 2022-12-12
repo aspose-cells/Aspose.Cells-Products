@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést JSON na PDF přes Python
-url: /cs/python-java/conversion/json-to-pdf/
+
 description: Ukázkový kód pro převod json na pdf Python. Použijte API ukázkový kód pro dávkový převod souborů json na pdf v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

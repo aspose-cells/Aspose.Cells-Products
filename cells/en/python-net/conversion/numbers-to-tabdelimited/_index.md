@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to TABDELIMITED via Python
-url: /python-net/conversion/numbers-to-tabdelimited/
+
 description: Sample code for numbers to tabdelimited Python conversion. Use API example code for batch numbers files to tabdelimited conversion within Python application.
 ---
 

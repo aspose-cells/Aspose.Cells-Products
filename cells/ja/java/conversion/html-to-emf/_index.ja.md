@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してHTMLをEMFに変換する 
 weight: 2260
-url: /ja/java/conversion/html-to-emf/ 
+
 description: HTML形式からEMFファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のEMFにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

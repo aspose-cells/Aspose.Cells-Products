@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj TSV na SPREADSHEETML za pomocą Python
-url: /pl/python-java/conversion/tsv-to-spreadsheetml/
+
 description: Przykładowy kod konwersji tsv do arkusza kalkulacyjnego Python. Użyj przykładowego kodu API dla wsadowych plików tsv do konwersji arkusza kalkulacyjnego na ml w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

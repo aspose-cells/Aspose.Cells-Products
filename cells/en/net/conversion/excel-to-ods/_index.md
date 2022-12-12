@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to ODS via C#
-url: /net/conversion/excel-to-ods/
+
 description: Convert EXCEL to ODS format in C# code. Save EXCEL as ODS using VB.NET, Asp.NET or any .NET based application.
 ---
 

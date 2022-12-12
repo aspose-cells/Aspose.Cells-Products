@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir SPREADSHEETML en DIF via Python
-url: /fr/python-java/conversion/spreadsheetml-to-dif/
+
 description: Exemple de code pour la conversion de spreadsheetml en dif Python. Utilisez l'exemple de code API pour les fichiers de tableur par lots vers la conversion dif dans l'application Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

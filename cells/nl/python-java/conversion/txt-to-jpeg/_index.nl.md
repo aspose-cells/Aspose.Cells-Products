@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer TXT naar JPEG via Python
-url: /nl/python-java/conversion/txt-to-jpeg/
+
 description: Voorbeeldcode voor conversie van txt naar jpeg Python. Gebruik API voorbeeldcode voor batch txt-bestanden naar jpeg-conversie binnen Python applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

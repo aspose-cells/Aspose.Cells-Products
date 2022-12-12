@@ -1,6 +1,6 @@
-﻿---
+---
 title: "HTML konvertálása PDF-be a következőn keresztül: Python"
-url: /hu/python-java/conversion/html-to-pdf/
+
 description: Mintakód a html-ből pdf-be Python konvertáláshoz. Használjon API példakódot a kötegelt html-fájlok PDF-vé konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

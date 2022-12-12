@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง CSV เป็น XLAM ผ่าน C++ แอปพลิเคชัน 
-url: /th/cpp/conversion/csv-to-xlam/ 
+
 description: ตัวอย่างรหัสการแปลง C++ สำหรับเอกสาร CSV เป็นรูปแบบ XLAM โปรแกรมเมอร์สามารถใช้ซอร์สโค้ดนี้สำหรับการแปลงแบตช์ CSV เป็น XLAM ภายในแอปพลิเคชัน C++ ใดๆ
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

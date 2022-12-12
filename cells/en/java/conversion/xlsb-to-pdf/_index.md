@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to PDF via Java 
-url: /java/conversion/xlsb-to-pdf/
+
 description: Convert XLSB to PDF format in Java code. Save XLSB as PDF using Java.
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertera HTML till PNG via Java 
 weight: 5350
-url: /sv/java/conversion/html-to-png/ 
+
 description: Exempel Java-konverteringskod för HTML-format till PNG-fil. Programmerare kan använda den här exempelkoden för att exportera Excel- och OpenOffice-kalkylblad till PNG inom alla webb- eller skrivbordsbaserade Java-applikationer.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してODSをSPREADSHEETMLに変換します
-url: /ja/python-java/conversion/ods-to-spreadsheetml/
+
 description: odsからspreadplacemlPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチodsファイルからspreadsheetmlへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to JPG via Java 
-url: /java/conversion/mhtml-to-jpg/
+
 description: Convert MHTML to JPG format in Java code. Save MHTML as JPG using Java.
 ---
 

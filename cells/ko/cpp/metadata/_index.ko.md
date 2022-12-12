@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++을(를) 통해 Excel 파일 메타데이터 관리
-url: /ko/cpp/metadata/
+
 description: C++ 라이브러리를 사용하여 Excel 파일 메타데이터 보기, 추가, 편집, 제거 또는 추출
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

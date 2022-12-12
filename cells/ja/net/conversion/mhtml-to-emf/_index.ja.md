@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してMHTMLをEMFに変換する
-url: /ja/net/conversion/mhtml-to-emf/
+
 description: mhtmlからemfC#への変換のサンプルコード。バッチmhtmlファイルのAPIサンプルコードを使用して、VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内で変換をemfします。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

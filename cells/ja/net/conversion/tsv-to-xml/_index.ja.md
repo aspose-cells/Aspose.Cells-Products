@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してTSVをXMLに変換します
-url: /ja/net/conversion/tsv-to-xml/
+
 description: tsvからxmlC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチtsvファイルからxmlへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

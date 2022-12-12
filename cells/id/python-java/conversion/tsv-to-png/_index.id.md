@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan TSV ke PNG melalui Python
-url: /id/python-java/conversion/tsv-to-png/
+
 description: Contoh kode untuk konversi tsv ke png Python. Gunakan API kode contoh untuk file batch tsv ke konversi png dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

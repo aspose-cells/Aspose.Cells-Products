@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLS na PDF přes C#
-url: /cs/net/conversion/xls-to-pdf/
+
 description: Ukázkový kód pro převod xls na pdf C#. Použijte API ukázkový kód pro dávkový převod souborů xls na pdf v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

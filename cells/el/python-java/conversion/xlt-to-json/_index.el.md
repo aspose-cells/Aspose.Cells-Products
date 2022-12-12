@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή XLT σε JSON μέσω Python
-url: /el/python-java/conversion/xlt-to-json/
+
 description: Δείγμα κώδικα για μετατροπή xlt σε json Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία xlt σε μετατροπή json εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

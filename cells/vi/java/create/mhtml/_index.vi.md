@@ -1,6 +1,6 @@
-﻿---
+---
 title: Tạo Tệp MHTML qua Java 
-url: /vi/java/create-mhtml/ 
+
 description: Java Mã mẫu để tạo tài liệu MHTML. Sử dụng mã này để tạo tệp MHTML trong ứng dụng web hoặc máy tính để bàn dựa trên Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Συγχώνευση αρχείων XLTM μέσω C++ 
-url: /el/cpp/merger/xltm/ 
+
 description: C++ παράδειγμα κώδικα για συνδυασμό εγγράφων XLTM σε C++ Runtime Environment για Windows 32 bit, Windows 64 bit και Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

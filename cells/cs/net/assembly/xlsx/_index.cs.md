@@ -1,7 +1,7 @@
-﻿---
+---
 title: Generovat sestavy v souborech XLSX prostřednictvím .NET 
 weight: 6740
-url: /cs/net/assembly/xlsx/ 
+
 description: C# zdrojový kód pro generování sestav ve formátu XLSX na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование FODS в JSON через Python
-url: /ru/python-java/conversion/fods-to-json/
+
 description: Пример кода для преобразования fods в json Python. Используйте пример кода API для пакетного преобразования файлов fods в json в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

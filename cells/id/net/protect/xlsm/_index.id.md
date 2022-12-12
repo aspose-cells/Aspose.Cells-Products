@@ -1,7 +1,7 @@
-﻿---
+---
 title: Lindungi dan kunci dokumen XLSM melalui .NET 
 weight: 7530
-url: /id/net/protect/xlsm/ 
+
 description: C# kode sumber untuk mengunci file XLSM menggunakan sandi di .NET Framework, .NET Core, Mono atau Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

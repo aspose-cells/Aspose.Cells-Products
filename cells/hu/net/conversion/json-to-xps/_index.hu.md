@@ -1,6 +1,6 @@
-﻿---
+---
 title: "JSON konvertálása XPS-re a következőn keresztül: C#"
-url: /hu/net/conversion/json-to-xps/
+
 description: Mintakód a json–xps C# konverzióhoz. Használjon API példakódot a kötegelt json-fájlok xps-re konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

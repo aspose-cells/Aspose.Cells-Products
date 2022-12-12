@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie XLTX in XLT über die Anwendung C++ 
-url: /de/cpp/conversion/xltx-to-xlt/ 
+
 description: Beispiel-Umwandlungscode C++ für das XLTX-Dokument in das XLT-Format. Programmierer können diesen Quellcode für die Batch-Konvertierung von XLTX in XLT in jeder C++-Anwendung verwenden.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

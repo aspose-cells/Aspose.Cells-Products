@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie MHTML in XLS über Python
-url: /de/python-java/conversion/mhtml-to-xls/
+
 description: Beispielcode für die Umwandlung von mhtml in xls Python. Verwenden Sie den API Beispielcode für die Batch-Konvertierung von mhtml-Dateien in xls innerhalb der Anwendung Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

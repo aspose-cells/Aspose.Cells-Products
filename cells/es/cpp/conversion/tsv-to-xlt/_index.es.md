@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta TSV a XLT a través de la aplicación C++ 
-url: /es/cpp/conversion/tsv-to-xlt/ 
+
 description: Ejemplo de código de conversión C++ para documento TSV a formato XLT. Los programadores pueden usar este código fuente para la conversión por lotes de TSV a XLT dentro de cualquier aplicación C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

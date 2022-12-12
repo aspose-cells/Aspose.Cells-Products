@@ -1,6 +1,6 @@
-﻿---
+---
 title: إنشاء ملفات HTML عبر C++ 
-url: /ar/cpp/create-html/ 
+
 description: C++ نموذج كود لإنشاء ملفات HTML. استخدم هذا الرمز لإنشاء ملفات HTML داخل تطبيق يستند إلى C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

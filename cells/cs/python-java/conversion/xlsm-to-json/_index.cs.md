@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLSM na JSON přes Python
-url: /cs/python-java/conversion/xlsm-to-json/
+
 description: Ukázkový kód pro převod xlsm na json Python. Použijte API ukázkový kód pro dávkový převod souborů xlsm na json v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

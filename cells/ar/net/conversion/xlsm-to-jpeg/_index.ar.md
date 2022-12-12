@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLSM إلى JPEG عبر C#
-url: /ar/net/conversion/xlsm-to-jpeg/
+
 description: نموذج كود للتحويل من xlsm إلى jpeg C#. استخدم API رمز المثال لملفات xlsm الدفعية لتحويل jpeg داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

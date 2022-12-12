@@ -1,7 +1,7 @@
-﻿---
+---
 title: Buscar y reemplazar texto en el documento XLSM a través de Java 
 weight: 1590
-url: /es/java/redaction/xlsm/ 
+
 description: Java código de ejemplo para redactar información confidencial en un archivo XLSM en Java entorno de tiempo de ejecución para aplicaciones JSP/JSF y aplicaciones de escritorio.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

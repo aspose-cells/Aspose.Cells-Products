@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla JPEG'i DOCX'e dönüştürün
-url: /tr/python-java/conversion/jpeg-to-docx/
+
 description: jpeg'den docx'e Python dönüştürme için örnek kod. Python uygulamasında toplu jpeg dosyalarından docx'e dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

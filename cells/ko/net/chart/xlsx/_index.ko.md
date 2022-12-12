@@ -1,7 +1,7 @@
-﻿---
+---
 title:  XLSX 문서 차트를 .NET을 통해 이미지로 
 weight: 2630
-url: /ko/net/chart/xlsx/ 
+
 description: C# 소스 코드를 사용하여 .NET Framework, .NET Core, Mono 또는 Xamarin Platforms의 XLSX 파일에 차트 또는 다이어그램을 그리고 변환합니다.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

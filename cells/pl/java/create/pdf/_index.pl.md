@@ -1,6 +1,6 @@
-﻿---
+---
 title: Twórz pliki PDF za pomocą Java 
-url: /pl/java/create-pdf/ 
+
 description: Java Przykładowy kod do generowania dokumentów PDF. Użyj tego kodu do tworzenia plików PDF w aplikacji komputerowej lub internetowej opartej na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

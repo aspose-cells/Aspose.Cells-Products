@@ -1,7 +1,7 @@
-﻿---
+---
 title:  Γράφημα εγγράφων XLS σε εικόνες μέσω .NET 
 weight: 3210
-url: /el/net/chart/xls/ 
+
 description: C# πηγαίος κώδικας για σχεδίαση και μετατροπή γραφήματος ή διαγράμματος σε αρχείο XLS σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

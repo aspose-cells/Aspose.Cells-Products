@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer JSON naar TIFF via C++ applicatie 
-url: /nl/cpp/conversion/json-to-tiff/ 
+
 description: Voorbeeld C++-conversiecode voor JSON-document naar TIFF-indeling. Programmeurs kunnen deze broncode gebruiken voor batchconversie van JSON naar TIFF binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

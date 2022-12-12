@@ -1,6 +1,6 @@
-﻿---
+---
 title: "FODS konvertálása MHTML-re a következőn keresztül: Java "
-url: /hu/java/conversion/fods-to-mhtml/ 
+
 description: Minta Java konverziós kód FODS formátumhoz MHTML fájlba. A programozók ezt a példakódot használhatják Excel- és OpenOffice-táblázatok exportálására MHTML-be bármely web- vagy asztali Java-alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

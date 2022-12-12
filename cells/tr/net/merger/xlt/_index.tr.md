@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLT Dosyalarını .NET ile Birleştir 
 weight: 1820
-url: /tr/net/merger/xlt/ 
+
 description: .NET Framework, .NET Core, Mono veya Xamarin Platformlarında XLT belgelerini birleştirmek için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

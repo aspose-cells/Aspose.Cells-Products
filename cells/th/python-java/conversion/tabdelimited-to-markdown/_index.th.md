@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง TABDELIMITED เป็น MARKDOWN ผ่าน Python
-url: /th/python-java/conversion/tabdelimited-to-markdown/
+
 description: โค้ดตัวอย่างสำหรับ tabdelimited ถึง markdown Python conversion ใช้โค้ดตัวอย่าง API สำหรับไฟล์แบตช์ tabdelimited เพื่อแปลง markdown ภายในแอปพลิเคชัน Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

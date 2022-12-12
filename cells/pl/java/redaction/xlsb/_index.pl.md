@@ -1,7 +1,7 @@
-﻿---
+---
 title: Wyszukaj i zamień tekst w dokumencie XLSB za pomocą Java 
 weight: 4590
-url: /pl/java/redaction/xlsb/ 
+
 description: Java przykładowy kod do redagowania poufnych informacji w pliku XLSB w Java środowisku wykonawczym dla aplikacji JSP/JSF i aplikacji komputerowych.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

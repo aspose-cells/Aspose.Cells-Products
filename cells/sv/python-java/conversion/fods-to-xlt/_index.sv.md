@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera FODS till XLT via Python
-url: /sv/python-java/conversion/fods-to-xlt/
+
 description: Exempelkod för fods till xlt Python-konvertering. Använd API exempelkod för batch fods-filer till xlt-konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

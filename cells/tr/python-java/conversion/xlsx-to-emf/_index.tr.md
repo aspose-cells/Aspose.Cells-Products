@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla XLSX'i EMF'ye dönüştürün
-url: /tr/python-java/conversion/xlsx-to-emf/
+
 description: xlsx'ten emf'ye Python dönüştürme için örnek kod. Python uygulamasında toplu xlsx dosyaları için emf dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

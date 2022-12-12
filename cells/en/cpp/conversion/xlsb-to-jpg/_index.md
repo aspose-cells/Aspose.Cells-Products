@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to JPG via C++
-url: /cpp/conversion/xlsb-to-jpg/
+
 description: Convert XLSB to JPG format in C++ code. Save XLSB as JPG using C++.
 ---
 

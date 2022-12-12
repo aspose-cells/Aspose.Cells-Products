@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir NUMBERS en CSV via Python
-url: /fr/python-java/conversion/numbers-to-csv/
+
 description: Exemple de code pour la conversion des nombres en csv Python. Utilisez l'exemple de code API pour les fichiers de numéros de lot en conversion csv dans l'application Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

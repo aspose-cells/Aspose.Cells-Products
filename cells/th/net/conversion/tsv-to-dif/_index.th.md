@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง TSV เป็น DIF ผ่าน C#
-url: /th/net/conversion/tsv-to-dif/
+
 description: โค้ดตัวอย่างสำหรับการแปลง tsv to dif C# ใช้โค้ดตัวอย่าง API สำหรับไฟล์แบตช์ tsv เพื่อแปลงไฟล์ภายใน VB.NET, Asp.NET หรือแอปพลิเคชันที่ใช้ .NET
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

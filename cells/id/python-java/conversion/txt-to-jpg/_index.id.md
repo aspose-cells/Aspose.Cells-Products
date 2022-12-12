@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi TXT ke JPG melalui Python
-url: /id/python-java/conversion/txt-to-jpg/
+
 description: Contoh kode untuk konversi txt ke jpg Python. Gunakan API kode contoh untuk file txt batch ke konversi jpg dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

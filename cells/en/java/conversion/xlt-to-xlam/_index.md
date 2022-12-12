@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to XLAM via Java 
-url: /java/conversion/xlt-to-xlam/
+
 description: Convert XLT to XLAM format in Java code. Save XLT as XLAM using Java.
 ---
 

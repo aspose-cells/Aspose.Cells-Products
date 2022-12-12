@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# के माध्यम से CSV को XLTX में बदलें
-url: /hi/net/conversion/csv-to-xltx/
+
 description: csv से xltx C# रूपांतरण के लिए नमूना कोड। बैच सीएसवी फाइलों के लिए वीबी.NET, एएसपी.NET या किसी .NET आधारित एप्लिकेशन के भीतर xltx रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

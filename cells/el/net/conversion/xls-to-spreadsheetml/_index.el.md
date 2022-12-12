@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή XLS σε SPREADSHEETML μέσω C#
-url: /el/net/conversion/xls-to-spreadsheetml/
+
 description: Δείγμα κώδικα για μετατροπή xls σε υπολογιστικό φύλλο C#. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία xls για μετατροπή υπολογιστικών φύλλων σε VB.NET, Asp.NET ή οποιαδήποτε εφαρμογή που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

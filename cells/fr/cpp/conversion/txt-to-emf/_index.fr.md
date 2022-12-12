@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir TXT en EMF via l'application C++ 
-url: /fr/cpp/conversion/txt-to-emf/ 
+
 description: Exemple de code de conversion C++ pour le document TXT au format EMF. Les programmeurs peuvent utiliser ce code source pour la conversion par lots de TXT en EMF dans n'importe quelle application C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

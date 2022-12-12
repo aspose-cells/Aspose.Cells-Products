@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan ODS ke MD melalui C#
-url: /id/net/conversion/ods-to-md/
+
 description: Contoh kode untuk konversi ods ke md C#. Gunakan API kode contoh untuk file batch ods ke konversi md dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

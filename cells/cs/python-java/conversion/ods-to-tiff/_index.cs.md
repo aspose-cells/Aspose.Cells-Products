@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést ODS na TIFF prostřednictvím Python
-url: /cs/python-java/conversion/ods-to-tiff/
+
 description: Ukázkový kód pro konverzi ods na tiff Python. Použijte API ukázkový kód pro dávkové soubory ods k převodu tiff v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

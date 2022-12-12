@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi NUMBERS thành JSON qua ứng dụng C++ 
-url: /vi/cpp/conversion/numbers-to-json/ 
+
 description: Mã chuyển đổi C++ mẫu cho tài liệu NUMBERS sang định dạng JSON. Lập trình viên có thể sử dụng mã nguồn này để chuyển đổi hàng loạt NUMBERS thành JSON trong bất kỳ Ứng dụng C++ nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

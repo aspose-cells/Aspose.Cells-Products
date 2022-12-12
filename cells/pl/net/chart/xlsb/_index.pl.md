@@ -1,7 +1,7 @@
-﻿---
+---
 title:  Wykres dokumentów XLSB do obrazów za pośrednictwem .NET 
 weight: 8560
-url: /pl/net/chart/xlsb/ 
+
 description: C# kod źródłowy do rysowania i konwertowania wykresu lub diagramu w pliku XLSB na platformach .NET Framework, .NET Core, Mono lub Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

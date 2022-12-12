@@ -1,7 +1,7 @@
-﻿---
+---
 title: Wyszukaj dokument ODS bez otwierania przez Java 
 weight: 8140
-url: /pl/java/search/ods/ 
+
 description: Java przykładowy kod do wyszukiwania słów ze wzorcem w pliku ODS w Java środowisku wykonawczym dla aplikacji JSP/JSF i aplikacji komputerowych.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

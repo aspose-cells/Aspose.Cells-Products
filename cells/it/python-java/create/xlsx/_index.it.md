@@ -1,6 +1,6 @@
-﻿---
+---
 title: Crea file XLSX di MS Excel tramite Python 
-url: /it/python-java/create-xlsx/ 
+
 description: Python Codice di esempio per la generazione di documenti XLSX. Utilizzare questo codice per creare file XLSX di MS Excel all'interno dell'applicazione Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

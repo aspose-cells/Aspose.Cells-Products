@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to GIF via Java 
-url: /java/conversion/txt-to-gif/
+
 description: Convert TXT to GIF format in Java code. Save TXT as GIF using Java.
 ---
 

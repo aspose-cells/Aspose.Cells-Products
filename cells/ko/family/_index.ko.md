@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET Java C++ PHP 및 Android Excel 스프레드시트 구문 분석 API 
 weight: 10
-url: /ko/family
+
 description: .NET Java C++ Android 및 SharePoint 앱에서 Microsoft Excel 파일을 읽고 쓰기 위한 라이브러리입니다. SSRS 및 JasperReports에서 워크시트 내보내기
 ---
 {{< blocks/products/pf/main-wrap-class >}}

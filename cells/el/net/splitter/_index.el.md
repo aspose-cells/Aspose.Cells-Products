@@ -1,6 +1,6 @@
-﻿---
+---
 title: Διαχωρίστε το φύλλο εργασίας του Excel σοφά σε C#
-url: /el/net/splitter/
+
 description: C# πηγαίοι κώδικες που εξηγούν πώς να χωρίσετε αρχεία Microsoft Excel σε πολλά αρχεία σε εφαρμογές Visual C#.NET
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

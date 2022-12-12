@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή TXT σε TABDELIMITED μέσω C#
-url: /el/net/conversion/txt-to-tabdelimited/
+
 description: Δείγμα κώδικα για μετατροπή txt σε οριοθετημένη καρτέλα C#. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία txt σε μετατροπή οριοθετημένης καρτέλας εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

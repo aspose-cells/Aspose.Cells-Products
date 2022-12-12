@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 Python 將 XLS 轉換為 XLSB
-url: /zh-hant/python-java/conversion/xls-to-xlsb/
+
 description: xls 到 xlsb Python 轉換的示例代碼。在 Python 應用程序中使用 API 示例代碼將 xls 文件批量轉換為 xlsb。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

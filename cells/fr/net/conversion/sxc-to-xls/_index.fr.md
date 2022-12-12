@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir SXC en XLS via C#
-url: /fr/net/conversion/sxc-to-xls/
+
 description: Exemple de code pour la conversion sxc vers xls C#. Utilisez l'exemple de code API pour la conversion par lot de fichiers sxc en xls dans VB.NET, Asp.NET ou toute application basée sur .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: 在不通過 C++ 打開的情況下搜索 XLSM 文檔 
 weight: 9280
-url: /zh-hant/cpp/search/xlsm/ 
+
 description: C++ 用於在 XLSM 文件中搜索具有模式的單詞的示例代碼，位於 C++ Windows 32 位、Windows 64 位和 Linux 64 位運行時環境中。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

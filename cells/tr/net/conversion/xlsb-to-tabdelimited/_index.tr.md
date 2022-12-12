@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla XLSB'yi TABDELIMITED'e dönüştürün
-url: /tr/net/conversion/xlsb-to-tabdelimited/
+
 description: xlsb'den sekmeyle ayrılmış C# dönüşümüne ilişkin örnek kod. Toplu xlsb dosyaları için VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde sekmeyle ayrılmış dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

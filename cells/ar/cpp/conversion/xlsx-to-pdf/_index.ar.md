@@ -1,7 +1,7 @@
-﻿---
+---
 title: قم بتحويل XLSX إلى PDF عبر تطبيق C++ 
 weight: 6790
-url: /ar/cpp/conversion/xlsx-to-pdf/ 
+
 description: نموذج C++ رمز التحويل لمستند XLSX إلى تنسيق PDF. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل XLSX إلى PDF دفعة داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

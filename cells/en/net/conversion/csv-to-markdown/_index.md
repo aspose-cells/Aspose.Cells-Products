@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to MARKDOWN via C#
-url: /net/conversion/csv-to-markdown/
+
 description: Convert CSV to MARKDOWN format in C# code. Save CSV as MARKDOWN using VB.NET, Asp.NET or any .NET based application.
 ---
 

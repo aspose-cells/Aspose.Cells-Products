@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή TABDELIMITED σε XLAM μέσω C#
-url: /el/net/conversion/tabdelimited-to-xlam/
+
 description: Δείγμα κώδικα για μετατροπή οριοθετημένης καρτέλας σε xlam C#. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία οριοθετημένα με στηλοθέτες σε xlam μετατροπή εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

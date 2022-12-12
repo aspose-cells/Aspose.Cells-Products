@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してXLSをXLSMに変換します
-url: /ja/python-java/conversion/xls-to-xlsm/
+
 description: xlsからxlsmPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチxlsファイルからxlsmへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

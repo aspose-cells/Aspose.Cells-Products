@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to MD via C#
-url: /net/conversion/mhtml-to-md/
+
 description: Convert MHTML to MD format in C# code. Save MHTML as MD using VB.NET, Asp.NET or any .NET based application.
 ---
 

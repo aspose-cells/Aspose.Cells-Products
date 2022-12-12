@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to XLAM via Java 
-url: /java/conversion/tabdelimited-to-xlam/
+
 description: Convert TABDELIMITED to XLAM format in Java code. Save TABDELIMITED as XLAM using Java.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter NUMBERS para XLSX via Java 
-url: /pt/java/conversion/numbers-to-xlsx/ 
+
 description: Exemplo de código de conversão Java para o formato NUMBERS para arquivo XLSX. Os programadores podem usar este código de exemplo para exportar planilhas do Excel e OpenOffice para XLSX em qualquer aplicativo baseado na Web ou Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

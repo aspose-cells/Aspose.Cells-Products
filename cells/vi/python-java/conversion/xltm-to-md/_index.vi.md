@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi XLTM sang MD qua Python
-url: /vi/python-java/conversion/xltm-to-md/
+
 description: Mã mẫu cho chuyển đổi xltm sang md Python. Sử dụng API mã mẫu cho hàng loạt tệp xltm sang chuyển đổi md trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

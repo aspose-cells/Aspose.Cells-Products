@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer FODS naar XLAM via Python
-url: /nl/python-java/conversion/fods-to-xlam/
+
 description: Voorbeeldcode voor conversie van fods naar xlam Python. Gebruik API voorbeeldcode voor batch-fods-bestanden naar xlam-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

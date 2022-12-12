@@ -1,7 +1,7 @@
-﻿---
+---
 title: Tách tệp XLSB qua Java 
 weight: 7880
-url: /vi/java/splitter/xlsb/ 
+
 description: Java mã mẫu để tách tài liệu XLSB trên Java Môi trường thời gian chạy cho Ứng dụng JSP / JSF và Ứng dụng trên máy tính để bàn.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

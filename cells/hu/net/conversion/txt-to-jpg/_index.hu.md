@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TXT konvertálása JPG-vé a következőn keresztül: C#"
-url: /hu/net/conversion/txt-to-jpg/
+
 description: Mintakód a txt-ből jpg-vé C# konvertálásához. Használjon API példakódot a txt fájlok kötegelt jpg konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazásban.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

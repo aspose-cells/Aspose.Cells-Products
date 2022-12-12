@@ -1,7 +1,7 @@
-﻿---
+---
 title: Sök i TSV-dokument utan att öppna via C++ 
 weight: 930
-url: /sv/cpp/search/tsv/ 
+
 description: C++ exempelkod för att söka efter ord med mönster i TSV-fil i C++ Runtime Environment för Windows 32-bitars, Windows 64-bitars och Linux 64-bitars.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

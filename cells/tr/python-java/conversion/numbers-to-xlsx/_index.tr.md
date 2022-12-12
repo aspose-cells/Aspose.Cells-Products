@@ -1,6 +1,6 @@
-﻿---
+---
 title: NUMBERS'ı Python aracılığıyla XLSX'e dönüştürün
-url: /tr/python-java/conversion/numbers-to-xlsx/
+
 description: Sayıları xlsx'e Python dönüştürmek için örnek kod. Python uygulamasında toplu iş numarası dosyalarını xlsx'e dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to DIF via Python
-url: /python-java/conversion/sxc-to-dif/
+
 description: Convert SXC to DIF format in Python code. Save SXC as DIF using Python.
 ---
 

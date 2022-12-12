@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer JSON naar DIF via C++ applicatie 
-url: /nl/cpp/conversion/json-to-dif/ 
+
 description: Voorbeeld C++-conversiecode voor JSON-document naar DIF-indeling. Programmeurs kunnen deze broncode gebruiken voor batch-conversie van JSON naar DIF binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to TXT via Java 
-url: /java/conversion/spreadsheetml-to-txt/
+
 description: Convert SPREADSHEETML to TXT format in Java code. Save SPREADSHEETML as TXT using Java.
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Slå samman XLSX-filer via .NET 
 weight: 8290
-url: /sv/net/merger/xlsx/ 
+
 description: C# källkod för att kombinera XLSX-dokument på .NET Framework, .NET Core, Mono eller Xamarin-plattformar.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

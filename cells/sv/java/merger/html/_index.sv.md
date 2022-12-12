@@ -1,7 +1,7 @@
-﻿---
+---
 title: Slå samman HTML-filer via Java 
 weight: 8830
-url: /sv/java/merger/html/ 
+
 description: Java exempelkod för att kombinera HTML-dokument i Java Runtime Environment för JSP/JSF Application och Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

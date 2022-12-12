@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLSX إلى DIF عبر Python
-url: /ar/python-java/conversion/xlsx-to-dif/
+
 description: نموذج كود لتحويل xlsx إلى ديف Python. استخدم API رمز المثال لملفات xlsx الدفعية لتحويل ديف داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

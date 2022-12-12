@@ -1,7 +1,7 @@
-﻿---
+---
 title: Redigera eller visa metadata för XLSB-filer via Java 
 weight: 7290
-url: /sv/java/metadata/xlsb/ 
+
 description: Java exempelkod för att redigera eller visa metadata i XLSB-format i Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

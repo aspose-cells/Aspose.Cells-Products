@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést NUMBERS na TXT přes Java 
-url: /cs/java/conversion/numbers-to-txt/ 
+
 description: Ukázkový konverzní kód Java pro formát NUMBERS na soubor TXT. Programátoři mohou tento příklad kódu použít k exportu tabulek Excelu a OpenOffice do TXT v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie TABDELIMITED über Python in PDF
-url: /de/python-java/conversion/tabdelimited-to-pdf/
+
 description: Beispielcode für die Umwandlung von tabulatorgetrennt in pdf Python. Verwenden Sie den API-Beispielcode für die Batch-Konvertierung von tabulatorgetrennten Dateien in PDF innerhalb der Anwendung Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

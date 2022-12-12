@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést XLT na DIF přes Java 
 weight: 5850
-url: /cs/java/conversion/xlt-to-dif/ 
+
 description: Ukázka převodního kódu Java pro soubor ve formátu XLT na soubor DIF. Programátoři mohou tento příklad kódu použít k exportu tabulek Excelu a OpenOffice do formátu DIF v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
 ---
 title: View or Edit ODS Files Metadata via .NET 
 weight: 320
-url: /net/metadata/ods/ 
+
 description: C# source code to edit or view ODS format metadata on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

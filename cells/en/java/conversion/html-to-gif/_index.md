@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to GIF via Java 
-url: /java/conversion/html-to-gif/
+
 description: Convert HTML to GIF format in Java code. Save HTML as GIF using Java.
 ---
 

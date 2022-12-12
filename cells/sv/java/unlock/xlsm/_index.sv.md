@@ -1,7 +1,7 @@
-﻿---
+---
 title: Lås upp XLSM-dokument via Java 
 weight: 7700
-url: /sv/java/unlock/xlsm/ 
+
 description: Java exempelkod för att låsa upp lösenordsskyddad XLSM-fil på Java Runtime Environment för JSP/JSF Application och Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

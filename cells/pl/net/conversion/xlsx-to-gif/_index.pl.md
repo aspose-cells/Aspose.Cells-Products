@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj XLSX na GIF przez C#
-url: /pl/net/conversion/xlsx-to-gif/
+
 description: Przykładowy kod konwersji xlsx na gif C#. Użyj przykładowego kodu API dla plików wsadowych xlsx do konwersji gif w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

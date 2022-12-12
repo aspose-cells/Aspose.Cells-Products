@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή NUMBERS σε ODS μέσω Python
-url: /el/python-java/conversion/numbers-to-ods/
+
 description: Δείγμα κωδικού για τη μετατροπή αριθμών σε ods Python. Χρησιμοποιήστε API παράδειγμα κώδικα για αρχεία αριθμών παρτίδας σε μετατροπή αποδείξεων εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

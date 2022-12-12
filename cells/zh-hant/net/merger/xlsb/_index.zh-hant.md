@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通過 .NET 合併 XLSB 文件 
 weight: 2970
-url: /zh-hant/net/merger/xlsb/ 
+
 description: C# 源代碼，用於在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上組合 XLSB 文檔。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

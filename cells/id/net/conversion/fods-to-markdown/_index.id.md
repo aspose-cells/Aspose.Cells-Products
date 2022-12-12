@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan FODS ke MARKDOWN melalui C#
-url: /id/net/conversion/fods-to-markdown/
+
 description: Contoh kode untuk fods to markdown C# konversi. Gunakan API kode contoh untuk file batch fods untuk konversi penurunan harga dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

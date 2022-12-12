@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera XLTX till TXT via C#
-url: /sv/net/conversion/xltx-to-txt/
+
 description: Exempelkod för konvertering av xltx till txt C#. Använd API exempelkod för batch-xltx-filer till txt-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

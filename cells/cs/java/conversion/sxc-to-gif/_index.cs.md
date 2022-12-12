@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést SXC na GIF přes Java 
-url: /cs/java/conversion/sxc-to-gif/ 
+
 description: Ukázka převodního kódu Java pro formát SXC na soubor GIF. Programátoři mohou tento příklad kódu použít k exportu tabulek Excelu a OpenOffice do formátu GIF v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

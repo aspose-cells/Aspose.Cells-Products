@@ -1,6 +1,6 @@
-﻿---
+---
 title: "NUMBERS konvertálása TSV-vé a következőn keresztül: Java "
-url: /hu/java/conversion/numbers-to-tsv/ 
+
 description: Minta Java konverziós kód NUMBERS formátumhoz TSV-fájllá. A programozók ezt a példakódot használhatják Excel és OpenOffice táblázatok exportálására TSV-be bármely web- vagy asztali Java alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

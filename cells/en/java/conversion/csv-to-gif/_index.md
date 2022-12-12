@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to GIF via Java 
-url: /java/conversion/csv-to-gif/
+
 description: Convert CSV to GIF format in Java code. Save CSV as GIF using Java.
 ---
 

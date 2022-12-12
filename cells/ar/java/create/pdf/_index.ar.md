@@ -1,6 +1,6 @@
-﻿---
+---
 title: إنشاء ملفات PDF عبر Java 
-url: /ar/java/create-pdf/ 
+
 description: Java نموذج كود لإنشاء مستندات PDF. استخدم هذا الرمز لإنشاء ملفات PDF داخل تطبيق ويب أو سطح مكتب يستند إلى Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

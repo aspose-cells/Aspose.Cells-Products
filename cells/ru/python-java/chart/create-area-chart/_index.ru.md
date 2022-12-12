@@ -1,6 +1,6 @@
-﻿---
+---
 title: Создайте диаграммы с областями с помощью Python
-url: /ru/python-java/create-area-chart/
+
 description: Python Пример кода для создания диаграмм с областями в Excel с использованием библиотеки Python. Используйте этот код для создания диаграммы с областями в MS Excel в приложении на основе Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

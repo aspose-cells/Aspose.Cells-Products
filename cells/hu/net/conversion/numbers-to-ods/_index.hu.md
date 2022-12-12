@@ -1,6 +1,6 @@
-﻿---
+---
 title: "NUMBERS konvertálása ODS-re a következőn keresztül: C#"
-url: /hu/net/conversion/numbers-to-ods/
+
 description: Mintakód a számok ods C# konverziójához. Használjon API példakódot a kötegszám-fájlok ods konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazásban.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

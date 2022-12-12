@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla XLS'yi JSON'a dönüştürün
-url: /tr/python-java/conversion/xls-to-json/
+
 description: xls'den json'a Python dönüştürme için örnek kod. Python uygulamasında toplu xls dosyalarından json'a dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

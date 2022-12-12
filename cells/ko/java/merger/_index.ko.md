@@ -1,6 +1,6 @@
-﻿---
+---
 title: Java에서 여러 Excel 파일을 단일 파일로 병합
-url: /ko/java/merger/
+
 description: Java을(를) 사용하여 Excel 파일을 여러 시트 또는 단일 시트로 병합합니다. Excel 문서를 PDF, 이미지 및 HTML로 병합, 결합 또는 연결합니다.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

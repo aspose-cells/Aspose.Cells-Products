@@ -1,6 +1,6 @@
-﻿---
+---
 title: إنشاء مخططات Excel وتحويلها إلى صور عبر C++
-url: /ar/cpp/chart/
+
 description: C++ شفرة المصدر لرسم وتحويل مخطط أو رسم تخطيطي في Microsoft Excel باستخدام C++ Library
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

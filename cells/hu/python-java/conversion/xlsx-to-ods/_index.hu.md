@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Az XLSX konvertálása ODS-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/xlsx-to-ods/
+
 description: Mintakód az xlsx-ből ods Python konverzióhoz. Használjon API példakódot a kötegelt xlsx fájlok ods konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

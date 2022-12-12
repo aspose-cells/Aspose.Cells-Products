@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to SPREADSHEETML via C++
-url: /cpp/conversion/tabdelimited-to-spreadsheetml/
+
 description: Convert TABDELIMITED to SPREADSHEETML format in C++ code. Save TABDELIMITED as SPREADSHEETML using C++.
 ---
 

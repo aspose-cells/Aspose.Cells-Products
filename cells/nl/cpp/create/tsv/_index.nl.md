@@ -1,6 +1,6 @@
-﻿---
+---
 title: TSV-bestanden maken via C++ 
-url: /nl/cpp/create-tsv/ 
+
 description: C++ Voorbeeldcode voor het genereren van TSV-bestanden. Gebruik deze code voor het maken van TSV-bestanden binnen een op C++ gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

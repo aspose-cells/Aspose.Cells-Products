@@ -1,6 +1,6 @@
 ---
 title: Merge HTML to CSV Files via C++ 
-url: /cpp/merger/merge-html-to-csv/ 
+
 description: Merge HTML to CSV file in C++ code. Combine HTML to CSV file using C++.
 ---
 

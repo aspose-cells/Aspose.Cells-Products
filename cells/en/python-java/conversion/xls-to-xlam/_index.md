@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to XLAM via Python
-url: /python-java/conversion/xls-to-xlam/
+
 description: Convert XLS to XLAM format in Python code. Save XLS as XLAM using Python.
 ---
 

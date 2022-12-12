@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer CSV naar GIF via Java 
 weight: 1130
-url: /nl/java/conversion/csv-to-gif/ 
+
 description: Voorbeeld Java conversiecode voor CSV-indeling naar GIF-bestand. Programmeurs kunnen deze voorbeeldcode gebruiken om Excel- en OpenOffice-spreadsheets naar GIF te exporteren binnen elke web- of desktoptoepassing Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

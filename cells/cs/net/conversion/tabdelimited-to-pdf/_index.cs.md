@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TABDELIMITED do PDF přes C#
-url: /cs/net/conversion/tabdelimited-to-pdf/
+
 description: Ukázkový kód pro převod tabulátorů na pdf C#. Použijte API ukázkový kód pro dávkový převod souborů oddělených tabulátory na PDF v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

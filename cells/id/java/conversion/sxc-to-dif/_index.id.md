@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan SXC ke DIF melalui Java 
-url: /id/java/conversion/sxc-to-dif/ 
+
 description: Contoh Java kode konversi untuk format SXC ke file DIF. Pemrogram dapat menggunakan kode contoh ini untuk mengekspor spreadsheet Excel & OpenOffice ke DIF dalam Aplikasi berbasis Java Web atau Desktop apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

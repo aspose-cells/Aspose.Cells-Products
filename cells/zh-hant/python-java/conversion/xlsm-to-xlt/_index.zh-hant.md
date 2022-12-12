@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 Python 將 XLSM 轉換為 XLT
-url: /zh-hant/python-java/conversion/xlsm-to-xlt/
+
 description: xlsm 到 xlt Python 轉換的示例代碼。在 Python 應用程序中使用 API 示例代碼將 xlsm 文件批量轉換為 xlt。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

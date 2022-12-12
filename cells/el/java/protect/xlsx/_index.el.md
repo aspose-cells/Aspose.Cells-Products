@@ -1,7 +1,7 @@
-﻿---
+---
 title: Προστασία και κλείδωμα εγγράφου XLSX μέσω Java 
 weight: 1870
-url: /el/java/protect/xlsx/ 
+
 description: Java δείγμα κώδικα για να κλειδώσετε το αρχείο XLSX χρησιμοποιώντας κωδικό πρόσβασης στο Java Runtime Environment για εφαρμογές JSP/JSF και εφαρμογές επιφάνειας εργασίας.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

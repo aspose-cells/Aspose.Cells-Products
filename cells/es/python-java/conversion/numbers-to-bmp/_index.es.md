@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta NÚMEROS a BMP a través de Python
-url: /es/python-java/conversion/numbers-to-bmp/
+
 description: Ejemplo de código para conversión de números a bmp Python. Utilice el código de ejemplo API para los archivos de números de lote para la conversión bmp dentro de la aplicación Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

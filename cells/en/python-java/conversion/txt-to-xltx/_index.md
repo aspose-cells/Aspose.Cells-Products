@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to XLTX via Python
-url: /python-java/conversion/txt-to-xltx/
+
 description: Convert TXT to XLTX format in Python code. Save TXT as XLTX using Python.
 ---
 

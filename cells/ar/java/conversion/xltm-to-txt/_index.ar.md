@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل XLTM إلى TXT عبر Java 
 weight: 4440
-url: /ar/java/conversion/xltm-to-txt/ 
+
 description: نموذج Java رمز تحويل من تنسيق XLTM إلى ملف TXT. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى TXT داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

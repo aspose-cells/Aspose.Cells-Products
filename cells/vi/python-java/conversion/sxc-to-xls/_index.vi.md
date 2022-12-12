@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi SXC sang XLS qua Python
-url: /vi/python-java/conversion/sxc-to-xls/
+
 description: Mã mẫu cho chuyển đổi sxc sang xls Python. Sử dụng mã mẫu API cho chuyển đổi hàng loạt tệp sxc sang xls trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

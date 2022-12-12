@@ -1,6 +1,6 @@
-﻿---
+---
 title: PREADSHEETML को C# के माध्यम से XLT में बदलें
-url: /hi/net/conversion/spreadsheetml-to-xlt/
+
 description: स्प्रेडशीटएमएल से एक्सएलटी C# रूपांतरण के लिए नमूना कोड। VB.NET, Asp.NET या किसी .NET आधारित एप्लिकेशन के भीतर xlt रूपांतरण के लिए बैच स्प्रेडशीटएमएल फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

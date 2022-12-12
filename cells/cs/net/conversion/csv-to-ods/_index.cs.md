@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést CSV na ODS prostřednictvím C#
-url: /cs/net/conversion/csv-to-ods/
+
 description: Ukázkový kód pro konverzi csv na ods C#. Použijte API ukázkový kód pro dávkový převod souborů csv na ods v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง XLS เป็น SQL ผ่าน C#
-url: /th/net/conversion/xls-to-sql/
+
 description: โค้ดตัวอย่างสำหรับการแปลง xls เป็น sql C# ใช้โค้ดตัวอย่าง API สำหรับไฟล์ batch xls เป็นการแปลง sql ภายใน VB.NET, Asp.NET หรือแอปพลิเคชันที่ใช้ .NET
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

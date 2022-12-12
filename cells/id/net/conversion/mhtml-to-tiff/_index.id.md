@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan MHTML ke TIFF melalui C#
-url: /id/net/conversion/mhtml-to-tiff/
+
 description: Contoh kode untuk konversi mhtml ke tiff C#. Gunakan API kode contoh untuk file batch mhtml ke konversi tiff dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

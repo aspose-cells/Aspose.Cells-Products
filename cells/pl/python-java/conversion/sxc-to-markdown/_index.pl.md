@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj SXC na MARKDOWN za pomocą Python
-url: /pl/python-java/conversion/sxc-to-markdown/
+
 description: Przykładowy kod konwersji sxc na przecenę Python. Użyj przykładowego kodu API dla wsadowych plików sxc do konwersji przecen w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

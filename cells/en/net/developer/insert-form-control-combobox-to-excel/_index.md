@@ -1,7 +1,7 @@
 ---
 title: Insert ComboBox(Form control) into Excel via .NET 
 weight: 20
-url: /net/developer/insert-form-control-combobox-to-excel/ 
+
 description: C# source code to insert ComboBox(Form control) into Excel on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

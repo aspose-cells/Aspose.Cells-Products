@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل CSV إلى JPEG عبر C#
-url: /ar/net/conversion/csv-to-jpeg/
+
 description: نموذج رمز لتحويل csv إلى jpeg C#. استخدم API رمز المثال لملفات csv المجمعة لتحويل jpeg داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

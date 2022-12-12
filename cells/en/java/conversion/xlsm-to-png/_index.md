@@ -1,6 +1,6 @@
 ---
 title: Convert XLSM to PNG via Java 
-url: /java/conversion/xlsm-to-png/
+
 description: Convert XLSM to PNG format in Java code. Save XLSM as PNG using Java.
 ---
 

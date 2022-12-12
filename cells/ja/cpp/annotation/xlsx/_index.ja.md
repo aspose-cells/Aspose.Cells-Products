@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++を介してXLSXアノテーションを追加 
 weight: 5260
-url: /ja/cpp/annotation/xlsx/ 
+
 description: C++ Windows 32ビット、Windows 64ビット、およびLinux64ビットのランタイム環境でXLSX形式の注釈を追加または削除するためのサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

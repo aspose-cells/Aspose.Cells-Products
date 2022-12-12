@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést SPREADSHEETML na TXT přes C#
-url: /cs/net/conversion/spreadsheetml-to-txt/
+
 description: Ukázkový kód pro převod tabulky ml na txt C#. Použijte API ukázkový kód pro dávkový převod tabulkových souborůml do txt v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

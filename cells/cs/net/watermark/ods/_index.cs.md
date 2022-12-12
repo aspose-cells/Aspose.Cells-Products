@@ -1,7 +1,7 @@
-﻿---
+---
 title: Vodoznak dokumentu ODS prostřednictvím .NET 
 weight: 4190
-url: /cs/net/watermark/ods/ 
+
 description: C# zdrojový kód pro přidání nebo odstranění vodoznaku do souboru ODS na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLSM na MARKDOWN přes Python
-url: /cs/python-java/conversion/xlsm-to-markdown/
+
 description: Ukázkový kód pro převod xlsm na markdown Python. Použijte API ukázkový kód pro dávkové soubory xlsm ke konverzi markdown v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

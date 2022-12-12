@@ -1,7 +1,7 @@
-﻿---
+---
 title: Tìm kiếm và thay thế văn bản trong tài liệu XLSM qua C++ 
 weight: 9570
-url: /vi/cpp/redaction/xlsm/ 
+
 description: C++ mã ví dụ để biên tập lại thông tin nhạy cảm trong tệp XLSM trên C++ Môi trường thời gian chạy cho Windows 32 bit, Windows 64 bit và Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

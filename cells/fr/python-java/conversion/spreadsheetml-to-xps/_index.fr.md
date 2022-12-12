@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir SPREADSHEETML en XPS via Python
-url: /fr/python-java/conversion/spreadsheetml-to-xps/
+
 description: Exemple de code pour la conversion de tableur ml en xps Python. Utilisez l'exemple de code API pour la conversion par lot de fichiers tableur ml en xps dans l'application Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla TSV'yi MD'ye dönüştürün
-url: /tr/net/conversion/tsv-to-md/
+
 description: tsv'den md'ye C# dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu tsv dosyalarından md'ye dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

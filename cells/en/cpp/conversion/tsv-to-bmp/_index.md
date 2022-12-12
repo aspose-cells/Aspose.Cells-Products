@@ -1,6 +1,6 @@
 ---
 title: Convert TSV to BMP via C++
-url: /cpp/conversion/tsv-to-bmp/
+
 description: Convert TSV to BMP format in C++ code. Save TSV as BMP using C++.
 ---
 

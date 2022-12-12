@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLSX konvertálása XLSB-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/xlsx-to-xlsb/
+
 description: Mintakód az xlsx–xlsb Python konverzióhoz. Használjon API példakódot az xlsx fájlok kötegelt xlsb konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

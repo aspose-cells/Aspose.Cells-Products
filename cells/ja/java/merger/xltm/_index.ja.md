@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してXLTMファイルをマージ 
 weight: 8210
-url: /ja/java/merger/xltm/ 
+
 description: Java JSP/JSFアプリケーションとデスクトップアプリケーションのランタイム環境でXLTMドキュメントを組み合わせるためのサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

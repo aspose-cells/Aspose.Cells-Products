@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLT konvertálása JPG formátumba a következőn keresztül: Python"
-url: /hu/python-java/conversion/xlt-to-jpg/
+
 description: Mintakód az xlt-ből jpg-be Python konvertáláshoz. Használjon API példakódot az xlt fájlok kötegelt jpg konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

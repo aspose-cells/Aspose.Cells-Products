@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer XLSX naar GIF via Java 
 weight: 2750
-url: /nl/java/conversion/xlsx-to-gif/ 
+
 description: Voorbeeld Java conversiecode voor XLSX-indeling naar GIF-bestand. Programmeurs kunnen deze voorbeeldcode gebruiken om Excel- en OpenOffice-spreadsheets naar GIF te exporteren binnen elke web- of desktoptoepassing Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

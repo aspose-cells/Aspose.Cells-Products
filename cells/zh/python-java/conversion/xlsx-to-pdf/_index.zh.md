@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 Python 将 XLSX 转换为 PDF
-url: /zh/python-java/conversion/xlsx-to-pdf/
+
 description: xlsx 到 pdf Python 转换的示例代码。在 Python 应用程序中使用 API 示例代码将 xlsx 文件批量转换为 pdf。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

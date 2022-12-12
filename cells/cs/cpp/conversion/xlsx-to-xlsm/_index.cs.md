@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převeďte XLSX na XLSM pomocí aplikace C++ 
 weight: 2230
-url: /cs/cpp/conversion/xlsx-to-xlsm/ 
+
 description: Ukázkový konverzní kód C++ pro dokument XLSX na formát XLSM. Programátoři mohou použít tento zdrojový kód pro dávkovou konverzi XLSX na XLSM v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

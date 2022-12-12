@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla XLT'yi DIF'ye dönüştürün
-url: /tr/python-java/conversion/xlt-to-dif/
+
 description: xlt to dif Python dönüşümü için örnek kod. Python uygulamasında farklı dönüştürme için toplu xlt dosyaları için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

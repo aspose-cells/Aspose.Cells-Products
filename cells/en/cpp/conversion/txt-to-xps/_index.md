@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to XPS via C++
-url: /cpp/conversion/txt-to-xps/
+
 description: Convert TXT to XPS format in C++ code. Save TXT as XPS using C++.
 ---
 

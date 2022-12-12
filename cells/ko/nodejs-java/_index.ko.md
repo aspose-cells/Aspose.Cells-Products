@@ -1,7 +1,7 @@
-﻿---
+---
 title: Excel 스프레드시트용 Node.js API - Aspose 
 weight: 3120
-url: /ko/nodejs-java/ 
+
 description: Node.js 라이브러리를 통해 Excel 파일 형식을 처리합니다. Windows, macOS 및 Linux에서 Node.js를 통해 읽기 쓰기 렌더링 및 XLS XLSX XLSB XLTX XLTM XLSM XML ODS CSV 및 기타 형식 변환
 ---
 {{< blocks/products/pf/main-wrap-class >}}

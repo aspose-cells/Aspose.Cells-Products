@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi SPREADSHEETML ke EMF melalui C++ aplikasi 
-url: /id/cpp/conversion/spreadsheetml-to-emf/ 
+
 description: Contoh C++ kode konversi untuk dokumen SPREADSHEETML ke format EMF. Pemrogram dapat menggunakan kode sumber ini untuk konversi batch SPREADSHEETML ke EMF dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

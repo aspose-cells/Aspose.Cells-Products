@@ -1,6 +1,6 @@
 ---
 title: Repair excel file via .NET
-url: /net/recovery/repair-excel/ 
+
 description: Repair a corrupt excel file using C#. Recovery tool to repair corrupted excel file within .NET application.
 ---
 

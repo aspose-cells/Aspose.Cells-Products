@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLSB-Dateien über Java zusammenführen 
 weight: 4840
-url: /de/java/merger/xlsb/ 
+
 description: Java Beispielcode zum Kombinieren von XLSB-Dokumenten in Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++ aracılığıyla Microsoft Excel Dosya Dönüştürme 
-url: /tr/cpp/conversion/
+
 description: Yalnızca birkaç satır C++ koduyla Excel XLS, XLSX, ODS, CSV'yi PDF, XPS, HTML, JPEG ve diğer biçimlere dönüştürün.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Skydda och lås ODS-dokument via C++ 
 weight: 10010
-url: /sv/cpp/protect/ods/ 
+
 description: C++ exempelkod för att låsa ODS-fil med lösenord på C++ Runtime Environment för Windows 32-bitars, Windows 64-bitars och Linux 64-bitars.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

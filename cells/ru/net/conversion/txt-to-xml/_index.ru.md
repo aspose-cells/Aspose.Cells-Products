@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование TXT в XML через C#
-url: /ru/net/conversion/txt-to-xml/
+
 description: Пример кода для преобразования txt в xml C#. Используйте пример кода API для пакетного преобразования файлов txt в xml в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

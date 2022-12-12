@@ -1,6 +1,6 @@
 ---
 title: Merge CSV to XLSB Files via Java 
-url: /java/merger/merge-csv-to-xlsb/ 
+
 description: Merge CSV to XLSB file in Java code. Combine CSV to XLSB file using Java based desktop or web application.
 ---
 

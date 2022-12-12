@@ -1,7 +1,7 @@
-﻿---
+---
 title: حماية وقفل مستند XLSM عبر Java 
 weight: 9620
-url: /ar/java/protect/xlsm/ 
+
 description: Java نموذج رمز لقفل ملف XLSM باستخدام كلمة مرور في Java Runtime Environment for JSP / JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

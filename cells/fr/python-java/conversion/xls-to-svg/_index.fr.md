@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir XLS en SVG via Python
-url: /fr/python-java/conversion/xls-to-svg/
+
 description: Exemple de code pour la conversion xls vers svg Python. Utilisez l'exemple de code API pour la conversion par lots de fichiers xls en svg dans l'application Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: افتح مستند XLS عبر Java 
 weight: 6390
-url: /ar/java/unlock/xls/ 
+
 description: Java نموذج رمز لإلغاء تأمين ملف XLS المحمي بكلمة مرور في Java Runtime Environment لتطبيق JSP / JSF وتطبيقات سطح المكتب.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

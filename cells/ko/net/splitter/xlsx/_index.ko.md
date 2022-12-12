@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET를 통해 XLSX 파일 분할 
 weight: 1350
-url: /ko/net/splitter/xlsx/ 
+
 description: C# 소스 코드를 사용하여 .NET Framework, .NET Core, Mono 또는 Xamarin Platforms에서 XLSX 문서를 분할합니다.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

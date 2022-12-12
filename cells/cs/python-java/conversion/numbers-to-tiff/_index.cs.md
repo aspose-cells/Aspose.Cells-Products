@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést NUMBERS na TIFF přes Python
-url: /cs/python-java/conversion/numbers-to-tiff/
+
 description: Ukázkový kód pro převod čísel na tiff Python. Použijte API ukázkový kód pro dávkové soubory čísel pro převod tiff v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

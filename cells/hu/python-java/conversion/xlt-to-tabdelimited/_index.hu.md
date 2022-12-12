@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Az XLT konvertálása TAB-raDELIMITED a következőn keresztül: Python"
-url: /hu/python-java/conversion/xlt-to-tabdelimited/
+
 description: Mintakód az xlt tabulátorral tagolt Python konverzióhoz. Használjon API példakódot kötegelt xlt-fájlokhoz a tabulátorral tagolt konverzióhoz a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

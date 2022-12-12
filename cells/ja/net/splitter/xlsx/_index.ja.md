@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NETを介してXLSXファイルを分割する 
 weight: 1350
-url: /ja/net/splitter/xlsx/ 
+
 description: .NETフレームワーク、.NETコア、Mono、またはXamarinプラットフォームでXLSXドキュメントを分割するためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

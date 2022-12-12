@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi XLT sang SVG qua Python
-url: /vi/python-java/conversion/xlt-to-svg/
+
 description: Mã mẫu cho chuyển đổi xlt sang svg Python. Sử dụng API mã mẫu cho các tệp xlt hàng loạt để chuyển đổi svg trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

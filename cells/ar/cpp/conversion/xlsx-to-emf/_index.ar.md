@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل XLSX إلى EMF عبر تطبيق C++ 
 weight: 8040
-url: /ar/cpp/conversion/xlsx-to-emf/ 
+
 description: نموذج رمز تحويل C++ لمستند XLSX إلى تنسيق EMF. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل XLSX دفعة واحدة إلى EMF داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

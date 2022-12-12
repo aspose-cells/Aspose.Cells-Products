@@ -1,6 +1,6 @@
 ---
 title: Generate Excel Files via C#
-url: /net/assembly/
+
 description: Generate Microsoft Excel spreadsheets from a template sheet using C# code
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLTM konvertálása DOCX-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/xltm-to-docx/
+
 description: Mintakód az xltm–docx Python konverzióhoz. Használjon API példakódot kötegelt xltm fájlok docx konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

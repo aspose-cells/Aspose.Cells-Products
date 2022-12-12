@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera TABDELIMITED till TIFF via Java 
-url: /sv/java/conversion/tabdelimited-to-tiff/ 
+
 description: Exempel på konverteringskod för Java för formatet TABBDELIMITED till TIFF-fil. Programmerare kan använda den här exempelkoden för att exportera Excel- och OpenOffice-kalkylblad till TIFF inom alla webb- eller skrivbordsbaserade Java-applikationer.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

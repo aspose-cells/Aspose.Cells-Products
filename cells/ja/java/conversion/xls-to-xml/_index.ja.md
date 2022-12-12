@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してXLSをXMLに変換する 
-url: /ja/java/conversion/xls-to-xml/ 
+
 description: XLS形式からXMLファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、WebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをXMLにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

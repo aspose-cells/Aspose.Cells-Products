@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi XLS thành MARKDOWN qua C#
-url: /vi/net/conversion/xls-to-markdown/
+
 description: Mã mẫu cho chuyển đổi xls để đánh dấu C#. Sử dụng API mã mẫu cho các tệp xls hàng loạt để đánh dấu chuyển đổi trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

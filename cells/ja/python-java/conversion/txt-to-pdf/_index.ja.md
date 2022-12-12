@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してTXTをPDFに変換する
-url: /ja/python-java/conversion/txt-to-pdf/
+
 description: txtからpdfPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチtxtファイルからpdfへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

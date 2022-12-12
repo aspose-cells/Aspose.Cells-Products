@@ -1,6 +1,6 @@
 ---
 title: Merge TSV to TSV Files via C++ 
-url: /cpp/merger/merge-tsv-to-tsv/ 
+
 description: Merge TSV to TSV file in C++ code. Combine TSV to TSV file using C++.
 ---
 

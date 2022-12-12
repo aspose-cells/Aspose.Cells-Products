@@ -1,6 +1,6 @@
 ---
 title: Merge NUMBERS to TSV Files via C++ 
-url: /cpp/merger/merge-numbers-to-tsv/ 
+
 description: Merge NUMBERS to TSV file in C++ code. Combine NUMBERS to TSV file using C++.
 ---
 

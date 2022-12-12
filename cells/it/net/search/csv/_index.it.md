@@ -1,7 +1,7 @@
-﻿---
+---
 title: Cerca il documento CSV senza aprire tramite .NET 
 weight: 7510
-url: /it/net/search/csv/ 
+
 description: C# codice sorgente per cercare parole con pattern nel file CSV su piattaforme .NET Framework, .NET Core, Mono o Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

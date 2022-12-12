@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή TXT σε SVG μέσω C#
-url: /el/net/conversion/txt-to-svg/
+
 description: Δείγμα κώδικα για μετατροπή txt σε svg C#. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία txt σε μετατροπή svg εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

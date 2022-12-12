@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to SXC via C++
-url: /cpp/conversion/fods-to-sxc/
+
 description: Convert FODS to SXC format in C++ code. Save FODS as SXC using C++.
 ---
 

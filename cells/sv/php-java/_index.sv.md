@@ -1,7 +1,7 @@
-﻿---
+---
 title: Excel-kalkylblad PHP API - Aspose 
 weight: 3660
-url: /sv/php-java/ 
+
 description: PHP Excel-kalkylblad API för att läsa skriv och konvertera XLS XLSX CSV TSV HTML ODS SpreadsheetML och alla Excel 97-2016-format. Exportera kalkylblad till flera format
 ---
 {{< blocks/products/pf/main-wrap-class >}}

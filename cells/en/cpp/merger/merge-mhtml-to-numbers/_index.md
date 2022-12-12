@@ -1,6 +1,6 @@
 ---
 title: Merge MHTML to NUMBERS Files via C++ 
-url: /cpp/merger/merge-mhtml-to-numbers/ 
+
 description: Merge MHTML to NUMBERS file in C++ code. Combine MHTML to NUMBERS file using C++.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera XLT till PNG via C#
-url: /sv/net/conversion/xlt-to-png/
+
 description: Exempelkod för konvertering av xlt till png C#. Använd API exempelkod för batch-xlt-filer till png-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

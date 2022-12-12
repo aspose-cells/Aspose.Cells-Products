@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést MHTML na DIF prostřednictvím Java 
 weight: 9920
-url: /cs/java/conversion/mhtml-to-dif/ 
+
 description: Ukázka převodního kódu Java pro formát MHTML na soubor DIF. Programátoři mohou tento příklad kódu použít k exportu tabulek Excelu a OpenOffice do formátu DIF v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

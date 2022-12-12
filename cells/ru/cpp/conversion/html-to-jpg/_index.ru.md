@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование HTML в JPG с помощью приложения C++ 
-url: /ru/cpp/conversion/html-to-jpg/ 
+
 description: Пример C++ кода преобразования документа HTML в формат JPG. Программисты могут использовать этот исходный код для пакетного преобразования HTML в JPG в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

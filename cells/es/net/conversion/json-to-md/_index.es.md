@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta JSON a MD a través de C#
-url: /es/net/conversion/json-to-md/
+
 description: Código de muestra para la conversión de json a md C#. Utilice el código de ejemplo API para archivos json por lotes para la conversión md dentro de VB.NET, Asp.NET o cualquier aplicación basada en .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل SPREADSHEETML إلى SVG عبر Python
-url: /ar/python-java/conversion/spreadsheetml-to-svg/
+
 description: نموذج كود لجدول بيانات لتحويل svg Python. استخدم API رمز المثال لملفات جداول البيانات الدفعية لتحويل svg داخل التطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

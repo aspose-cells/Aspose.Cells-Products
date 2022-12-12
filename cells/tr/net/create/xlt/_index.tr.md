@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla MS Excel XLT Dosyaları oluşturun 
-url: /tr/net/create-xlt/ 
+
 description: C# XLT belgeleri oluşturmak için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde MS Excel XLT dosyaları oluşturmak için bu kodu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

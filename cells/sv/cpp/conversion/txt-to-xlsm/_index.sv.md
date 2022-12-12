@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera TXT till XLSM via appen C++ 
-url: /sv/cpp/conversion/txt-to-xlsm/ 
+
 description: Exempel på konverteringskod för C++ för TXT-dokument till XLSM-format. Programmerare kan använda den här källkoden för batchkonvertering av TXT till XLSM inom alla C++-program.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

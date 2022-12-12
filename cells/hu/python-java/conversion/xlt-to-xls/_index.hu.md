@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLT konvertálása XLS-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/xlt-to-xls/
+
 description: Mintakód az xlt–xls Python konverzióhoz. Használjon API példakódot az xlt fájlok kötegelt xls formátumú konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

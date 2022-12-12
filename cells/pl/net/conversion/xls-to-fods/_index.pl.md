@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj XLS na FODS przez C#
-url: /pl/net/conversion/xls-to-fods/
+
 description: Przykładowy kod konwersji xls do fods C#. Użyj przykładowego kodu API dla plików wsadowych xls do konwersji fods w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

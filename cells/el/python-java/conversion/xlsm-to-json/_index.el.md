@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή XLSM σε JSON μέσω Python
-url: /el/python-java/conversion/xlsm-to-json/
+
 description: Δείγμα κώδικα για μετατροπή xlsm σε json Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία xlsm σε μετατροπή json εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

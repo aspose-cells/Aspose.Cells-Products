@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLSX Dosyalarını Java ile Böl 
 weight: 3250
-url: /tr/java/splitter/xlsx/ 
+
 description: JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Runtime Environment'da XLSX belgelerini bölmek için Java örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

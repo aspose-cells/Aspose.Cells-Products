@@ -1,7 +1,7 @@
 ---
 title: Unlock ODS document via .NET 
 weight: 3110
-url: /net/unlock/ods/ 
+
 description: C# source code to unlock password protected ODS file on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir XLS en MARKDOWN via Python
-url: /fr/python-java/conversion/xls-to-markdown/
+
 description: Exemple de code pour la conversion de xls en démarque Python. Utilisez l'exemple de code API pour les fichiers xls par lots en conversion de démarquage dans l'application Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

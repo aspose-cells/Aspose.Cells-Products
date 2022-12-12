@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj FODS na MARKDOWN za pomocą C#
-url: /pl/net/conversion/fods-to-markdown/
+
 description: Przykładowy kod dla konwersji fods do przeceny C#. Użyj przykładowego kodu API dla plików wsadowych fods do konwersji przecen w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

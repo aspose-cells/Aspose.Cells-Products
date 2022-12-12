@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# ile Kabarcık Grafikleri Oluşturun
-url: /tr/net/create-bubble-chart/
+
 description: C# .NET Kitaplığı kullanarak Excel'de Kabarcık grafikleri oluşturmak için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde MS Excel'e bir {chart} grafiği oluşturmak için bu kodu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 C# 将 XLTX 转换为 SPREADSHEETML
-url: /zh/net/conversion/xltx-to-spreadsheetml/
+
 description: xltx 到电子表格C# 转换的示例代码。在 VB.NET、Asp.NET 或任何基于 .NET 的应用程序中，使用 API 示例代码将 xltx 文件批量转换为电子表格。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

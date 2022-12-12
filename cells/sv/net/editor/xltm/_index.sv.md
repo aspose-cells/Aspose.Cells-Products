@@ -1,6 +1,6 @@
-﻿---
+---
 title: Redigera XLTM-filer via .NET 
-url: /sv/net/editor/xltm/ 
+
 description: C# källkod för att redigera XLTM-dokument på .NET Framework, .NET Core, Windows Azure, Mono eller Xamarin-plattformar.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

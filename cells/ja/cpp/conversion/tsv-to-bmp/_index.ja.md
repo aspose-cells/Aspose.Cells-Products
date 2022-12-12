@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++アプリケーションを介してTSVをBMPに変換します 
 weight: 7000
-url: /ja/cpp/conversion/tsv-to-bmp/ 
+
 description: TSVドキュメントからBMP形式へのサンプルC++変換コード。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でTSVからBMPへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLS naar MD via Java 
-url: /nl/java/conversion/xls-to-md/ 
+
 description: Voorbeeld Java conversiecode voor XLS-indeling naar MD-bestand. Programmeurs kunnen deze voorbeeldcode gebruiken om Excel- en OpenOffice-spreadsheets naar MD te exporteren binnen elke web- of desktoptoepassing Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Crie arquivos MS Excel XLS por meio de Java 
-url: /pt/java/create-xls/ 
+
 description: Java Código de amostra para gerar documentos XLS. Use este código para criar arquivos MS Excel XLS em Java desktop ou aplicativo da web baseado.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

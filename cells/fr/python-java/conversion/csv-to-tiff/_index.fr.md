@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir CSV en TIFF via Python
-url: /fr/python-java/conversion/csv-to-tiff/
+
 description: Exemple de code pour la conversion csv en tiff Python. Utilisez l'exemple de code API pour les fichiers csv par lots en conversion tiff dans l'application Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

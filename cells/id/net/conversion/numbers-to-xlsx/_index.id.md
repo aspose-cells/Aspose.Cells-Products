@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi NUMBER ke XLSX melalui C#
-url: /id/net/conversion/numbers-to-xlsx/
+
 description: Contoh kode untuk angka ke xlsx C# konversi. Gunakan API kode contoh untuk file nomor batch ke konversi xlsx dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

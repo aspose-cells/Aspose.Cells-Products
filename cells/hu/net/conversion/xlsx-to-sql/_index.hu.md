@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLSX konvertálása SQL-vé a következőn keresztül: C#"
-url: /hu/net/conversion/xlsx-to-sql/
+
 description: Mintakód az xlsx–sql C# konverzióhoz. Használjon API példakódot a kötegelt xlsx fájlok SQL konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

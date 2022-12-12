@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLTX konvertálása JPEG formátumba a következőn keresztül: C#"
-url: /hu/net/conversion/xltx-to-jpeg/
+
 description: Mintakód xltx-ből jpeg-be C#. Használjon API példakódot kötegelt xltx fájlok jpeg konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

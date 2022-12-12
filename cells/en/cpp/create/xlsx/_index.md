@@ -1,6 +1,6 @@
 ---
 title: Create MS Excel XLSX Files via C++ 
-url: /cpp/create-xlsx/ 
+
 description: Create XLSX files in C++ code. Generate MS Excel XLSX files using C++ application.
 ---
 

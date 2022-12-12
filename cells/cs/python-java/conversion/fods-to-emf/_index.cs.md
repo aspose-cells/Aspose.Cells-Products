@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést FODS na EMF prostřednictvím Python
-url: /cs/python-java/conversion/fods-to-emf/
+
 description: Ukázkový kód pro konverzi fod na emf Python. Použijte API ukázkový kód pro dávkové soubory fods na převod EMF v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

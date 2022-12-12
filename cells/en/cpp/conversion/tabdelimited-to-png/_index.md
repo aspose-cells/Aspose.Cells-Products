@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to PNG via C++
-url: /cpp/conversion/tabdelimited-to-png/
+
 description: Convert TABDELIMITED to PNG format in C++ code. Save TABDELIMITED as PNG using C++.
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Protégez et verrouillez le document XLSM via C++ 
 weight: 8770
-url: /fr/cpp/protect/xlsm/ 
+
 description: C++ Exemple de code pour verrouiller le fichier XLSM à l'aide d'un mot de passe sur C++ Runtime Environment pour Windows 32 bits, Windows 64 bits et Linux 64 bits.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

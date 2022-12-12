@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển MHTML sang PDF qua Python
-url: /vi/python-java/conversion/mhtml-to-pdf/
+
 description: Mã mẫu cho chuyển đổi mhtml sang pdf Python. Sử dụng API mã ví dụ cho chuyển đổi hàng loạt tệp mhtml sang pdf trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

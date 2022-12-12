@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET के माध्यम से ODS फ़ाइलें मर्ज करें 
 weight: 4330
-url: /hi/net/merger/ods/ 
+
 description: .NET फ्रेमवर्क, .NET कोर, Mono या Xamarin प्लेटफॉर्म पर ODS दस्तावेज़ों को संयोजित करने के लिए C# स्रोत कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

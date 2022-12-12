@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést HTML na ODS prostřednictvím C#
-url: /cs/net/conversion/html-to-ods/
+
 description: Ukázkový kód pro konverzi html na ods C#. Použijte API ukázkový kód pro dávkový převod souborů html na ODS v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

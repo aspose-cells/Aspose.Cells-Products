@@ -1,7 +1,7 @@
-﻿---
+---
 title: Planilha do Android Excel API - Aspose 
 weight: 6510
-url: /pt/android-java/ 
+
 description: Biblioteca de planilhas Android para criar leitura, gravação e análise de arquivos do Excel. Uma planilha API para desenvolvimento de aplicativos para dispositivos móveis
 ---
 {{< blocks/products/pf/main-wrap-class >}}

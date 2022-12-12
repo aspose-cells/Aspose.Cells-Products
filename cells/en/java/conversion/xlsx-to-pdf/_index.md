@@ -1,6 +1,6 @@
 ---
 title: Convert XLSX to PDF via Java 
-url: /java/conversion/xlsx-to-pdf/
+
 description: Convert XLSX to PDF format in Java code. Save XLSX as PDF using Java.
 ---
 

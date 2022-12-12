@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer ODS naar DOCX via Python
-url: /nl/python-java/conversion/ods-to-docx/
+
 description: Voorbeeldcode voor conversie van ods naar docx Python. Gebruik API voorbeeldcode voor batch-ods-bestanden naar docx-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

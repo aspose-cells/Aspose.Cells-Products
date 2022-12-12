@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++ uygulaması aracılığıyla HTML'yi JSON'a dönüştürün 
-url: /tr/cpp/conversion/html-to-json/ 
+
 description: HTML belgesi için JSON biçimine örnek C++ dönüştürme kodu. Programcılar, herhangi bir C++ Uygulamasında toplu HTML'den JSON'a dönüştürme için bu kaynak kodunu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

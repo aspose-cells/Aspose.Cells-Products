@@ -1,6 +1,6 @@
-﻿---
+---
 title: "HTML konvertálása SXC-vé a következőn keresztül: C#"
-url: /hu/net/conversion/html-to-sxc/
+
 description: Mintakód a html-ből sxc-be C# történő konverzióhoz. Használjon API példakódot kötegelt html fájlok sxc konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

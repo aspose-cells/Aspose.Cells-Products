@@ -1,6 +1,6 @@
-﻿---
+---
 title: "EXCEL konvertálása JPG-re a következőn keresztül: C#"
-url: /hu/net/conversion/excel-to-jpg/
+
 description: Mintakód az excelből jpg-be C# konvertáláshoz. Használjon API példakódot az Excel fájlok kötegelt jpg konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazásban.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

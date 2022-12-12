@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to JSON via C++
-url: /cpp/conversion/excel-to-json/
+
 description: Convert EXCEL to JSON format in C++ code. Save EXCEL as JSON using C++.
 ---
 

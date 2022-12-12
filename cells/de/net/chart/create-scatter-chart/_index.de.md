@@ -1,6 +1,6 @@
-﻿---
+---
 title: Erstellen Sie Streudiagramme über C#
-url: /de/net/create-scatter-chart/
+
 description: C# Beispielcode zum Erstellen von Streudiagrammen in Excel mithilfe der .NET-Bibliothek. Verwenden Sie diesen Code zum Erstellen eines Streudiagramms für MS Excel in VB.NET, Asp.NET oder einer beliebigen .NET-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

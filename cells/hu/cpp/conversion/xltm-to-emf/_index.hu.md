@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLTM-et EMF-re a(z) C++ alkalmazással 
-url: /hu/cpp/conversion/xltm-to-emf/ 
+
 description: Minta C++ konverziós kód az XLTM dokumentumhoz EMF formátumba. A programozók ezt a forráskódot használhatják kötegelt XLTM-ből EMF konvertáláshoz bármely C++ alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

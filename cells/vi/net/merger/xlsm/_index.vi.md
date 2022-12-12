@@ -1,7 +1,7 @@
-﻿---
+---
 title: Hợp nhất các tệp XLSM qua .NET 
 weight: 660
-url: /vi/net/merger/xlsm/ 
+
 description: C# mã nguồn để kết hợp các tài liệu XLSM trên Nền tảng .NET Framework, .NET Core Mono hoặc Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

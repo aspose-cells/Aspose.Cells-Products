@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java aracılığıyla CSV'yi GIF'e dönüştürün 
 weight: 1130
-url: /tr/java/conversion/csv-to-gif/ 
+
 description: CSV biçimi için GIF dosyasına örnek Java dönüştürme kodu. Programcılar, Excel ve OpenOffice elektronik tablolarını herhangi bir Web veya Masaüstü Java tabanlı Uygulamada GIF'e dışa aktarmak için bu örnek kodu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

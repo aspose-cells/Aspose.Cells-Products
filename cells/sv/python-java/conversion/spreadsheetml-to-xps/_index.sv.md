@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera SPREADSHEETML till XPS via Python
-url: /sv/python-java/conversion/spreadsheetml-to-xps/
+
 description: Exempelkod för konvertering från kalkylarkml till xps Python. Använd API exempelkod för batch-kalkylarkml-filer till xps-konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

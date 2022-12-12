@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan ODS ke TSV melalui Python
-url: /id/python-java/conversion/ods-to-tsv/
+
 description: Contoh kode untuk konversi ods ke tsv Python. Gunakan API kode contoh untuk file batch ods ke konversi tsv dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

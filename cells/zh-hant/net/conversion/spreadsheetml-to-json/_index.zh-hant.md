@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 C# 將 SPREADSHEETML 轉換為 JSON
-url: /zh-hant/net/conversion/spreadsheetml-to-json/
+
 description: 電子表格到 json C# 轉換的示例代碼。使用 API 示例代碼在 VB.NET、Asp.NET 或任何基於 .NET 的應用程序中將電子表格文件批量轉換為 json。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

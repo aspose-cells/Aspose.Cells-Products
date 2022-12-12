@@ -1,7 +1,7 @@
-﻿---
+---
 title: Wykres dokumentów XLSB za pośrednictwem Java 
 weight: 670
-url: /pl/java/chart/xlsb/ 
+
 description: Java przykładowy kod do rysowania i konwertowania wykresu lub diagramu w pliku XLSB w Java środowisku wykonawczym dla aplikacji JSP/JSF i aplikacji komputerowych.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

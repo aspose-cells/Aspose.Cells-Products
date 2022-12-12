@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi NUMBERS thành SVG qua C#
-url: /vi/net/conversion/numbers-to-svg/
+
 description: Mã mẫu cho chuyển đổi số thành svg C#. Sử dụng mã mẫu API cho các tệp số lô để chuyển đổi svg trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

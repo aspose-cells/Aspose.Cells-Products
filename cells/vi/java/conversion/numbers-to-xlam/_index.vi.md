@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển NUMBERS thành XLAM qua Java 
-url: /vi/java/conversion/numbers-to-xlam/ 
+
 description: Mã chuyển đổi Java mẫu cho định dạng NUMBERS thành tệp XLAM. Lập trình viên có thể sử dụng mã ví dụ này để xuất bảng tính Excel & OpenOffice sang XLAM trong bất kỳ Ứng dụng dựa trên Web hoặc Máy tính để bàn Java nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

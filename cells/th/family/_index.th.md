@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET Java C++ API การแยกวิเคราะห์สเปรดชีต PHP และ Android Excel 
 weight: 10
-url: /th/family
+
 description: ไลบรารีสำหรับอ่านเขียนและจัดการไฟล์ Microsoft Excel ใน .NET Java C++ แอป Android และ SharePoint ส่งออกแผ่นงานใน SSRS และ JasperReports
 ---
 {{< blocks/products/pf/main-wrap-class >}}

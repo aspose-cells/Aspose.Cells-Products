@@ -1,6 +1,6 @@
-﻿---
+---
 title: Создание столбчатых диаграмм с помощью C#
-url: /ru/net/create-column-chart/
+
 description: C# Пример кода для создания столбчатых диаграмм в Excel с использованием библиотеки .NET. Используйте этот код для создания гистограммы в MS Excel в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

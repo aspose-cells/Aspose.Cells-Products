@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++を介してXLSXファイルをマージします 
-url: /ja/cpp/merger/xlsx/ 
+
 description: C++ Windows 32ビット、Windows 64ビット、およびLinux64ビットのランタイム環境でXLSXドキュメントを組み合わせるためのサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

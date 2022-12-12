@@ -1,6 +1,6 @@
 ---
 title: Convert XLTM to MARKDOWN via Java 
-url: /java/conversion/xltm-to-markdown/
+
 description: Convert XLTM to MARKDOWN format in Java code. Save XLTM as MARKDOWN using Java.
 ---
 

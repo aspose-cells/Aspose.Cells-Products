@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل XLT إلى XLTX عبر Java 
 weight: 9750
-url: /ar/java/conversion/xlt-to-xltx/ 
+
 description: نموذج Java رمز التحويل لتنسيق XLT إلى ملف XLTX. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى XLTX داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

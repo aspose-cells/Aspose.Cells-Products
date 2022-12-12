@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++アプリケーションを介してCSVをXLSに変換する 
 weight: 1460
-url: /ja/cpp/conversion/csv-to-xls/ 
+
 description: CSVドキュメントからXLS形式へのサンプルC++変換コード。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でCSVからXLSへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

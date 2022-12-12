@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل TSV إلى XLSX عبر Java 
 weight: 3730
-url: /ar/java/conversion/tsv-to-xlsx/ 
+
 description: نموذج Java رمز تحويل لتنسيق TSV إلى ملف XLSX. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى XLSX داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

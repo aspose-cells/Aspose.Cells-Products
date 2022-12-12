@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to MARKDOWN via C#
-url: /net/conversion/spreadsheetml-to-markdown/
+
 description: Convert SPREADSHEETML to MARKDOWN format in C# code. Save SPREADSHEETML as MARKDOWN using VB.NET, Asp.NET or any .NET based application.
 ---
 

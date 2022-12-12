@@ -1,6 +1,6 @@
-﻿---
+---
 title: NUMBERS'ı Python aracılığıyla DOCX'e dönüştürün
-url: /tr/python-java/conversion/numbers-to-docx/
+
 description: Sayıları docx'e Python dönüştürmek için örnek kod. Python uygulamasında toplu iş numarası dosyalarından docx'e dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

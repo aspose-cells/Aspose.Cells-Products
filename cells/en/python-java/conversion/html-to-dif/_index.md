@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to DIF via Python
-url: /python-java/conversion/html-to-dif/
+
 description: Convert HTML to DIF format in Python code. Save HTML as DIF using Python.
 ---
 

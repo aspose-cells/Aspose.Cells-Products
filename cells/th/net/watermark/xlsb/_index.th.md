@@ -1,7 +1,7 @@
-﻿---
+---
 title: เอกสารลายน้ำ XLSB ผ่าน .NET 
 weight: 5410
-url: /th/net/watermark/xlsb/ 
+
 description: C# ซอร์สโค้ดเพื่อเพิ่มหรือลบลายน้ำในไฟล์ XLSB บน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

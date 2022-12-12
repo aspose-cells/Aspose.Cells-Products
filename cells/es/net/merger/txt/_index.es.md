@@ -1,7 +1,7 @@
-﻿---
+---
 title: Combinar archivos TXT a través de .NET 
 weight: 7350
-url: /es/net/merger/txt/ 
+
 description: C# código fuente para combinar documentos TXT en .NET Framework, .NET Core, Mono o Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

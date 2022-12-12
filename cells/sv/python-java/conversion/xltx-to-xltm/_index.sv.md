@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera XLTX till XLTM via Python
-url: /sv/python-java/conversion/xltx-to-xltm/
+
 description: Exempelkod för konvertering av xltx till xltm Python. Använd API exempelkod för batch-xltx-filer till xltm-konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

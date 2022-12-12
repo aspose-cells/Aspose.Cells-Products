@@ -1,7 +1,7 @@
-﻿---
+---
 title: Поиск документа TSV без открытия через .NET 
 weight: 2810
-url: /ru/net/search/tsv/ 
+
 description: Исходный код C# для поиска слов с шаблоном в файле TSV на платформах .NET Framework, .NET Core, Mono или Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

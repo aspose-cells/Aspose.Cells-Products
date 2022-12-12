@@ -1,7 +1,7 @@
-﻿---
+---
 title: Zoek en vervang tekst in ODS-document via C++ 
 weight: 1610
-url: /nl/cpp/redaction/ods/ 
+
 description: C++ voorbeeldcode om gevoelige informatie in ODS-bestand op C++ Runtime Environment voor Windows 32 bit, Windows 64 bit en Linux 64 bit te redigeren.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

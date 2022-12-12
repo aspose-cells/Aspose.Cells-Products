@@ -1,6 +1,6 @@
-﻿---
+---
 title: "CSV konvertálása SPREADSHEETML-be a következőn keresztül: Python"
-url: /hu/python-java/conversion/csv-to-spreadsheetml/
+
 description: Mintakód a csv-ből táblázattáblázatba Python konverzióhoz. Használjon API példakódot a kötegelt csv-fájlokhoz a Python alkalmazáson belüli táblázatkezelő-konverzióhoz.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: FODS'u Python aracılığıyla SVG'ye dönüştürün
-url: /tr/python-java/conversion/fods-to-svg/
+
 description: Yemlerin svg Python dönüşümü için örnek kod. Python uygulamasında toplu dosya dosyaları için svg dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

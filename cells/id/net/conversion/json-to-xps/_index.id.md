@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi JSON ke XPS melalui C#
-url: /id/net/conversion/json-to-xps/
+
 description: Contoh kode untuk json ke xps C# konversi. Gunakan API kode contoh untuk file batch json ke konversi xps dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

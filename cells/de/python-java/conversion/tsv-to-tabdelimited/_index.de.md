@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie TSV in TABDELIMITED über Python
-url: /de/python-java/conversion/tsv-to-tabdelimited/
+
 description: Beispielcode für die Umwandlung von tsv in tabulatorgetrennte Python. Verwenden Sie den API-Beispielcode für die Stapelkonvertierung von TSV-Dateien in tabulatorgetrennte Konvertierung innerhalb der Anwendung Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

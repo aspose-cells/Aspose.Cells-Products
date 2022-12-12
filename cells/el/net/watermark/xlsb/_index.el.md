@@ -1,7 +1,7 @@
-﻿---
+---
 title: Υδατογράφημα εγγράφου XLSB μέσω .NET 
 weight: 5410
-url: /el/net/watermark/xlsb/ 
+
 description: C# πηγαίος κώδικας για προσθήκη ή κατάργηση υδατογραφήματος σε αρχείο XLSB σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

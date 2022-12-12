@@ -1,6 +1,6 @@
-﻿---
+---
 title: Cree archivos MS Excel XLT a través de Java 
-url: /es/java/create-xlt/ 
+
 description: Java Código de muestra para generar documentos XLT. Utilice este código para crear archivos MS Excel XLT dentro de una aplicación web o de escritorio basada en Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

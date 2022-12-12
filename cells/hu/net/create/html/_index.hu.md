@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Hozzon létre HTML-fájlokat a következőn keresztül: C# "
-url: /hu/net/create-html/ 
+
 description: C# Mintakód HTML-dokumentumok generálásához. Használja ezt a kódot HTML-fájlok létrehozásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazásban.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

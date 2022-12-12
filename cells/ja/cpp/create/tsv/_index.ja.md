@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++を介してTSVファイルを作成する 
-url: /ja/cpp/create-tsv/ 
+
 description: C++TSVファイルを生成するためのサンプルコード。このコードを使用して、C++ベースのアプリケーション内にTSVファイルを作成します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

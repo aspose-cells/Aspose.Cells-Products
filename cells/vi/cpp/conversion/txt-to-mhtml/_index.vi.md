@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi TXT sang MHTML qua ứng dụng C++ 
-url: /vi/cpp/conversion/txt-to-mhtml/ 
+
 description: Mã chuyển đổi C++ mẫu cho tài liệu TXT sang định dạng MHTML. Các lập trình viên có thể sử dụng mã nguồn này để chuyển đổi hàng loạt TXT sang MHTML trong bất kỳ Ứng dụng C++ nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

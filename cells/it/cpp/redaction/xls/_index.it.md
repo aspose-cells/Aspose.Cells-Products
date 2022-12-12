@@ -1,7 +1,7 @@
-﻿---
+---
 title: Cerca e sostituisci testo nel documento XLS tramite C++ 
 weight: 380
-url: /it/cpp/redaction/xls/ 
+
 description: C++ codice di esempio per oscurare le informazioni riservate nel file XLS in C++ Runtime Environment per Windows a 32 bit, Windows a 64 bit e Linux a 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

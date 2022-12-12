@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TXT na XLAM přes Python
-url: /cs/python-java/conversion/txt-to-xlam/
+
 description: Ukázkový kód pro převod txt na xlam Python. Použijte API ukázkový kód pro dávkové soubory txt na konverzi xlam v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

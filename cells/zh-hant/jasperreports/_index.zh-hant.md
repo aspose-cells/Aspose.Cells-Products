@@ -1,7 +1,7 @@
-﻿---
+---
 title: 在 JasperReports 和 JasperServer 中導出 Excel XLS XLSX PDF ODS 報告 
 weight: 9460
-url: /zh-hant/jasperreports/ 
+
 description: 以 Excel XLS XLSX PDF ODS TXT 和 SpreadsheetML 格式從 Jasper Reports 和 JasperServer 導出報告。還將報告打印為 Excel 電子表格
 ---
 {{< blocks/products/pf/main-wrap-class >}}

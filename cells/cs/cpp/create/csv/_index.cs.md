@@ -1,6 +1,6 @@
-﻿---
+---
 title: Vytvářejte soubory CSV prostřednictvím C++ 
-url: /cs/cpp/create-csv/ 
+
 description: C++ Ukázkový kód pro generování souborů CSV. Tento kód použijte k vytváření souborů CSV v aplikaci založené na C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してXLSMをPDFに変換する
-url: /ja/net/conversion/xlsm-to-pdf/
+
 description: xlsmからpdfC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチxlsmファイルからpdfへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

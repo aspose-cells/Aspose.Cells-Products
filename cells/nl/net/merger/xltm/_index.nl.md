@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLTM-bestanden samenvoegen via .NET 
 weight: 9010
-url: /nl/net/merger/xltm/ 
+
 description: C# broncode om XLTM-documenten te combineren op .NET Framework, .NET Core, Mono of Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
 ---
 title: Protect and lock XLSB document via Java 
 weight: 6590
-url: /java/protect/xlsb/ 
+
 description: Java sample code to lock XLSB file using password on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

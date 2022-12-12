@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to MD via C#
-url: /net/conversion/csv-to-md/
+
 description: Convert CSV to MD format in C# code. Save CSV as MD using VB.NET, Asp.NET or any .NET based application.
 ---
 

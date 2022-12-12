@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera FODS till MHTML via Python
-url: /sv/python-java/conversion/fods-to-mhtml/
+
 description: Exempelkod för fods till mhtml Python-omvandling. Använd API exempelkod för batch fods-filer till mhtml-konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

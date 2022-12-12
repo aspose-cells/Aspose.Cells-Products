@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование NUMBERS в XLTM через Python
-url: /ru/python-java/conversion/numbers-to-xltm/
+
 description: Пример кода для преобразования чисел в xltm Python. Используйте пример кода API для преобразования файлов номеров пакетов в xltm в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

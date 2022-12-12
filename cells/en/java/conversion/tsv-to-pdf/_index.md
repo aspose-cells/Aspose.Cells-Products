@@ -1,6 +1,6 @@
 ---
 title: Convert TSV to PDF via Java 
-url: /java/conversion/tsv-to-pdf/
+
 description: Convert TSV to PDF format in Java code. Save TSV as PDF using Java.
 ---
 

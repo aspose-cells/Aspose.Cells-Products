@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta TABDELIMITED a SPREADSHEETML a través de Python
-url: /es/python-java/conversion/tabdelimited-to-spreadsheetml/
+
 description: Código de muestra para la conversión tabdelimited to spreadsheetml Python. Utilice el código de ejemplo API para la conversión por lotes de archivos delimitados por tabuladores a una hoja de cálculo dentro de la aplicación Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

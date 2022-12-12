@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java aracılığıyla TXT'yi SVG'ye dönüştürün 
 weight: 9880
-url: /tr/java/conversion/txt-to-svg/ 
+
 description: TXT biçimi için SVG dosyasına örnek Java dönüştürme kodu. Programcılar, Excel ve OpenOffice elektronik tablolarını herhangi bir Web veya Masaüstü Java tabanlı Uygulamada SVG'ye aktarmak için bu örnek kodu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

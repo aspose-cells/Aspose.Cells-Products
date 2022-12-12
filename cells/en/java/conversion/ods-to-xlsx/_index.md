@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to XLSX via Java 
-url: /java/conversion/ods-to-xlsx/
+
 description: Convert ODS to XLSX format in Java code. Save ODS as XLSX using Java.
 ---
 

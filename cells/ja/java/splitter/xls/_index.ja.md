@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してXLSファイルを分割する 
 weight: 610
-url: /ja/java/splitter/xls/ 
+
 description: Java JSP/JSFアプリケーションおよびデスクトップアプリケーションのランタイム環境でXLSドキュメントを分割するためのサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

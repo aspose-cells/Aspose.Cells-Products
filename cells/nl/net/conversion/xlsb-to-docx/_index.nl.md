@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLSB naar DOCX via C#
-url: /nl/net/conversion/xlsb-to-docx/
+
 description: Voorbeeldcode voor xlsb naar docx C# conversie. Gebruik API voorbeeldcode voor batch xlsb-bestanden naar docx-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

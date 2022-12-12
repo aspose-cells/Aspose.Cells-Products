@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to XPS via Python
-url: /python-net/conversion/html-to-xps/
+
 description: Sample code for html to xps Python conversion. Use API example code for batch html files to xps conversion within Python application.
 ---
 

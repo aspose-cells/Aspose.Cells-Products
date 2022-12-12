@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLS na XLT přes C#
-url: /cs/net/conversion/xls-to-xlt/
+
 description: Ukázkový kód pro převod xls na xlt C#. Použijte API ukázkový kód pro dávkové soubory xls na převod xlt v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

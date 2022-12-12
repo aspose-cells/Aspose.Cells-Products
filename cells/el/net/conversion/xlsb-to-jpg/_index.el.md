@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή XLSB σε JPG μέσω C#
-url: /el/net/conversion/xlsb-to-jpg/
+
 description: Δείγμα κώδικα για μετατροπή xlsb σε jpg C#. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδική μετατροπή αρχείων xlsb σε jpg εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

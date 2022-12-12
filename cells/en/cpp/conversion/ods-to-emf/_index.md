@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to EMF via C++
-url: /cpp/conversion/ods-to-emf/
+
 description: Convert ODS to EMF format in C++ code. Save ODS as EMF using C++.
 ---
 

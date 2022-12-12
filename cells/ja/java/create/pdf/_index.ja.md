@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してPDFファイルを作成する 
-url: /ja/java/create-pdf/ 
+
 description: JavaPDFドキュメントを生成するためのサンプルコード。このコードを使用して、JavaベースのデスクトップまたはWebアプリケーション内でPDFファイルを作成します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

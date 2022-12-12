@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してTSVをJPEGに変換します 
 weight: 900
-url: /ja/java/conversion/tsv-to-jpeg/ 
+
 description: TSV形式からJPEGファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、任意のWebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをJPEGにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

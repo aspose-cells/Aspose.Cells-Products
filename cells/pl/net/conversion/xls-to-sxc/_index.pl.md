@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj XLS na SXC przez C#
-url: /pl/net/conversion/xls-to-sxc/
+
 description: Przykładowy kod konwersji xls do sxc C#. Użyj przykładowego kodu API dla plików wsadowych xls do konwersji sxc w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

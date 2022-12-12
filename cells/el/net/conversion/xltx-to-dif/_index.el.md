@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή XLTX σε DIF μέσω C#
-url: /el/net/conversion/xltx-to-dif/
+
 description: Δείγμα κώδικα για μετατροπή xltx σε διαφορά C#. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία xltx για να διαφοροποιήσετε τη μετατροπή σε VB.NET, Asp.NET ή οποιαδήποτε εφαρμογή που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

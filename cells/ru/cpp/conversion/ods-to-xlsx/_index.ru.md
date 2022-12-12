@@ -1,7 +1,7 @@
-﻿---
+---
 title: Преобразование ODS в XLSX с помощью приложения C++ 
 weight: 9720
-url: /ru/cpp/conversion/ods-to-xlsx/ 
+
 description: Пример кода преобразования C++ для документа ODS в формат XLSX. Программисты могут использовать этот исходный код для пакетного преобразования ODS в XLSX в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

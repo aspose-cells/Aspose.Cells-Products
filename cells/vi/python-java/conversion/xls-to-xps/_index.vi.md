@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi XLS sang XPS qua Python
-url: /vi/python-java/conversion/xls-to-xps/
+
 description: Mã mẫu cho chuyển đổi xls sang xps Python. Sử dụng API mã mẫu cho hàng loạt tệp xls sang chuyển đổi xps trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

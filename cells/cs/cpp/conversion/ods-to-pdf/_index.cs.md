@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převeďte ODS na PDF pomocí aplikace C++ 
 weight: 6720
-url: /cs/cpp/conversion/ods-to-pdf/ 
+
 description: Ukázkový konverzní kód C++ pro dokument ODS do formátu PDF. Programátoři mohou použít tento zdrojový kód pro dávkový převod ODS do PDF v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

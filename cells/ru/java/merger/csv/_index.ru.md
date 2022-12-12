@@ -1,7 +1,7 @@
-﻿---
+---
 title: Объединить файлы CSV через Java 
 weight: 3860
-url: /ru/java/merger/csv/ 
+
 description: Пример кода Java для объединения CSV-документов в Java среде выполнения для приложений JSP/JSF и настольных приложений.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "HTML konvertálása XPS-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/html-to-xps/
+
 description: Mintakód a html-ből xps-be Python történő konverzióhoz. Használjon API példakódot a html fájlok kötegelt xps-re konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést ODS na TIFF prostřednictvím C#
-url: /cs/net/conversion/ods-to-tiff/
+
 description: Ukázkový kód pro konverzi ods na tiff C#. Použijte API ukázkový kód pro dávkové soubory ods k převodu tiff v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

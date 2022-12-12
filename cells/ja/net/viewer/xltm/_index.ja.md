@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NETを介してXLTMファイル形式を表示する 
 weight: 430
-url: /ja/net/viewer/xltm/ 
+
 description: .NETフレームワーク、.NETコア、Mono、またはXamarinプラットフォームでXLTMドキュメントをロード、レンダリング、表示するためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

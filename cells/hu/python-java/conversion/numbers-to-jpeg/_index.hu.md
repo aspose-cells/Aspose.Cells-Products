@@ -1,6 +1,6 @@
-﻿---
+---
 title: "NUMBERS konvertálása JPEG formátumba a következőn keresztül: Python"
-url: /hu/python-java/conversion/numbers-to-jpeg/
+
 description: Mintakód számok jpeg Python formátumba konvertálásához. Használjon API példakódot a kötegszámfájlokhoz a JPEG konvertáláshoz a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

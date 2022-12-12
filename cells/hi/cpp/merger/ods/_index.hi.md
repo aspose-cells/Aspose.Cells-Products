@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++ के माध्यम से ODS फ़ाइलें मर्ज करें 
-url: /hi/cpp/merger/ods/ 
+
 description: C++ ODS दस्तावेज़ों को C++ Windows 32 बिट, Windows 64 बिट और Linux 64 बिट के लिए रनटाइम परिवेश पर संयोजित करने के लिए उदाहरण कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

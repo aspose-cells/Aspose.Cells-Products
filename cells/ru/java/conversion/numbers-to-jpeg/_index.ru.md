@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование NUMBERS в JPEG с помощью Java 
-url: /ru/java/conversion/numbers-to-jpeg/ 
+
 description: Пример кода преобразования Java для формата NUMBERS в файл JPEG. Программисты могут использовать этот пример кода для экспорта электронных таблиц Excel и OpenOffice в формат JPEG в любом веб- или настольном Java приложении.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

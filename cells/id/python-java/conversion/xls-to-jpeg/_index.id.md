@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan XLS ke JPEG melalui Python
-url: /id/python-java/conversion/xls-to-jpeg/
+
 description: Contoh kode untuk konversi xls ke jpeg Python. Gunakan API kode contoh untuk file batch xls ke jpeg konversi dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

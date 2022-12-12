@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してFODSをMDに変換する
-url: /ja/python-java/conversion/fods-to-md/
+
 description: fodsからmdPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチfodsファイルからmdへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

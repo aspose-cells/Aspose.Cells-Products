@@ -1,7 +1,7 @@
-﻿---
+---
 title: Durchsuchen Sie das TSV-Dokument, ohne es über .NET zu öffnen 
 weight: 2810
-url: /de/net/search/tsv/ 
+
 description: C#-Quellcode zum Suchen von Wörtern mit Muster in der TSV-Datei auf .NET Framework-, .NET Core-, Mono- oder Xamarin-Plattformen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

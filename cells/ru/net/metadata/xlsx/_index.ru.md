@@ -1,7 +1,7 @@
-﻿---
+---
 title: Просмотр или редактирование метаданных файлов XLSX через .NET 
 weight: 3430
-url: /ru/net/metadata/xlsx/ 
+
 description: Исходный код C# для редактирования или просмотра метаданных формата XLSX на платформах .NET Framework, .NET Core, Mono или Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

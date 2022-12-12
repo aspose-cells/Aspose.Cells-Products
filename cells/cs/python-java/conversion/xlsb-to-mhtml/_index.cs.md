@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLSB na MHTML přes Python
-url: /cs/python-java/conversion/xlsb-to-mhtml/
+
 description: Ukázkový kód pro převod xlsb na mhtml Python. Použijte API ukázkový kód pro dávkový převod souborů xlsb na mhtml v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

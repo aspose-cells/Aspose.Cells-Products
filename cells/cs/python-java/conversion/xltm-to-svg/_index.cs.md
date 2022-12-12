@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLTM na SVG přes Python
-url: /cs/python-java/conversion/xltm-to-svg/
+
 description: Ukázkový kód pro převod xltm na svg Python. Použijte API ukázkový kód pro dávkový převod souborů xltm na svg v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

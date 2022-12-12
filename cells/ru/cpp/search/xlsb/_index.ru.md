@@ -1,7 +1,7 @@
-﻿---
+---
 title: Поиск документа XLSB без открытия через C++ 
 weight: 7020
-url: /ru/cpp/search/xlsb/ 
+
 description: Пример кода C++ для поиска слов с шаблоном в файле XLSB в C++ среде выполнения для 32-разрядной, 64-разрядной и 64-разрядной версии Windows.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

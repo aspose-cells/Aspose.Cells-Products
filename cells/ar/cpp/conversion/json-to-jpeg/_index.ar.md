@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل JSON إلى JPEG عبر تطبيق C++ 
-url: /ar/cpp/conversion/json-to-jpeg/ 
+
 description: نموذج رمز تحويل C++ لمستند JSON إلى تنسيق JPEG. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل دفعة JSON إلى JPEG داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

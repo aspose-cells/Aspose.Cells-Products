@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLSX konvertálása GIF formátumba a következőn keresztül: C#"
-url: /hu/net/conversion/xlsx-to-gif/
+
 description: Mintakód xlsx-ből gif-be C#. Használjon API példakódot kötegelt xlsx fájlokhoz a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazás gif konvertálásához.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

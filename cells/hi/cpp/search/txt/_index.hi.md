@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ के माध्यम से खोले बिना TXT दस्तावेज़ खोजें 
 weight: 5090
-url: /hi/cpp/search/txt/ 
+
 description: C++ Windows 32 बिट, Windows 64 बिट और Linux 64 बिट के लिए रनटाइम परिवेश पर TXT फ़ाइल में पैटर्न वाले शब्दों को खोजने के लिए C++ उदाहरण कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: शेयरपॉइंट एक्सेल स्प्रेडशीट कन्वर्टर ऐप - Aspose 
 weight: 940
-url: /hi/sharepoint/ 
+
 description: Aspose.Cells SharePoint ऐप के लिए एक SharePoint Excel स्प्रेडशीट कनवर्टर है। एक्सएलएस एक्सएलएसएक्स एक्सएमएल सीएसवी पीडीएफ ओडीएस &amp; MOSS WSS में HTML प्रारूप
 ---
 {{< blocks/products/pf/main-wrap-class >}}

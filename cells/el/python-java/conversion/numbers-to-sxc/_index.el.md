@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή NUMBERS σε SXC μέσω Python
-url: /el/python-java/conversion/numbers-to-sxc/
+
 description: Δείγμα κώδικα για μετατροπή αριθμών σε sxc Python. Χρησιμοποιήστε API παράδειγμα κώδικα για αρχεία αριθμών παρτίδας σε μετατροπή sxc εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

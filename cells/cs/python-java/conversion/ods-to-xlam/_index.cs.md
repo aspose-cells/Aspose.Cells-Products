@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést ODS na XLAM přes Python
-url: /cs/python-java/conversion/ods-to-xlam/
+
 description: Ukázkový kód pro konverzi ods na xlam Python. Použijte API ukázkový kód pro dávkový převod souborů ods na xlam v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

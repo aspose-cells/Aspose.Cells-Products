@@ -1,6 +1,6 @@
 ---
 title: Convert XLSM to MD via Python
-url: /python-java/conversion/xlsm-to-md/
+
 description: Convert XLSM to MD format in Python code. Save XLSM as MD using Python.
 ---
 

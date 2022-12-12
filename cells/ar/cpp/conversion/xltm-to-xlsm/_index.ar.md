@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLTM إلى XLSM عبر تطبيق C++ 
-url: /ar/cpp/conversion/xltm-to-xlsm/ 
+
 description: نموذج C++ رمز تحويل لمستند XLTM إلى تنسيق XLSM. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل دفعة XLTM إلى XLSM داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

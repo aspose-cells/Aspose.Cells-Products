@@ -1,7 +1,7 @@
-﻿---
+---
 title: Προστασία και κλείδωμα εγγράφου XLSB μέσω .NET 
 weight: 5920
-url: /el/net/protect/xlsb/ 
+
 description: C# πηγαίος κώδικας για το κλείδωμα του αρχείου XLSB με χρήση κωδικού πρόσβασης στις πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

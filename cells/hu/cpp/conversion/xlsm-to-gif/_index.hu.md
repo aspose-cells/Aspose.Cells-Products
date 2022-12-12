@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLSM-et GIF-re a(z) C++ alkalmazással 
-url: /hu/cpp/conversion/xlsm-to-gif/ 
+
 description: Minta C++ konverziós kód XLSM-dokumentumhoz GIF formátumba. A programozók ezt a forráskódot használhatják XLSM-ből GIF-be kötegelt konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

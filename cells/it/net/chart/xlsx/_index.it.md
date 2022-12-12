@@ -1,7 +1,7 @@
-﻿---
+---
 title:  Grafico del documento XLSX alle immagini tramite .NET 
 weight: 2630
-url: /it/net/chart/xlsx/ 
+
 description: C# codice sorgente per disegnare e convertire grafici o diagrammi in file XLSX su piattaforme .NET Framework, .NET Core, Mono o Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

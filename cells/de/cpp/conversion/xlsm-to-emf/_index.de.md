@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie XLSM in EMF über die Anwendung C++ 
-url: /de/cpp/conversion/xlsm-to-emf/ 
+
 description: Beispiel-Umwandlungscode C++ für das XLSM-Dokument in das EMF-Format. Programmierer können diesen Quellcode für die Batch-Konvertierung von XLSM in EMF in jeder C++-Anwendung verwenden.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

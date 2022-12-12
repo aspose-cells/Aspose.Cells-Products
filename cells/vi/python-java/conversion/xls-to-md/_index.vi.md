@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi XLS sang MD qua Python
-url: /vi/python-java/conversion/xls-to-md/
+
 description: Mã mẫu cho chuyển đổi xls sang md Python. Sử dụng mã mẫu API cho chuyển đổi hàng loạt tệp xls sang md trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

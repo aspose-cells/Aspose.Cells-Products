@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLSM إلى ODS عبر تطبيق C++ 
-url: /ar/cpp/conversion/xlsm-to-ods/ 
+
 description: نموذج C++ كود التحويل لوثيقة XLSM إلى تنسيق ODS. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل XLSM دفعة واحدة إلى ODS في أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

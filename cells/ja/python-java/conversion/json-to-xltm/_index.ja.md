@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してJSONをXLTMに変換する
-url: /ja/python-java/conversion/json-to-xltm/
+
 description: jsonからxltmPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチjsonファイルからxltmへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

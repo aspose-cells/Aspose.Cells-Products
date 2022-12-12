@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to SXC via Java 
-url: /java/conversion/numbers-to-sxc/
+
 description: Convert NUMBERS to SXC format in Java code. Save NUMBERS as SXC using Java.
 ---
 

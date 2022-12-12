@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してTSVをDOCXに変換します
-url: /ja/net/conversion/tsv-to-docx/
+
 description: tsvからdocxC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチtsvファイルからdocxへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

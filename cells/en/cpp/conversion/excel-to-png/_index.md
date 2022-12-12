@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to PNG via C++
-url: /cpp/conversion/excel-to-png/
+
 description: Convert EXCEL to PNG format in C++ code. Save EXCEL as PNG using C++.
 ---
 

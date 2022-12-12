@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla CSV'yi JPEG'e dönüştürün
-url: /tr/python-java/conversion/csv-to-jpeg/
+
 description: csv'den jpeg'e Python dönüştürme için örnek kod. Python uygulamasında toplu csv dosyaları için jpeg dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

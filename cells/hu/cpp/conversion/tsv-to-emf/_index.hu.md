@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertálja a TSV-t EMF-re a(z) C++ alkalmazással 
 weight: 5870
-url: /hu/cpp/conversion/tsv-to-emf/ 
+
 description: Minta C++ konverziós kód a TSV dokumentumhoz EMF formátumba. A programozók ezt a forráskódot használhatják kötegelt TSV-ből EMF-vé konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter NUMBERS para TXT via Python
-url: /pt/python-java/conversion/numbers-to-txt/
+
 description: Código de exemplo para conversão de números para txt Python. Use o código de exemplo API para arquivos de números de lote para conversão de txt no aplicativo Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLSM naar BMP via Python
-url: /nl/python-java/conversion/xlsm-to-bmp/
+
 description: Voorbeeldcode voor xlsm naar bmp Python conversie. Gebruik API voorbeeldcode voor batch xlsm-bestanden naar bmp-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

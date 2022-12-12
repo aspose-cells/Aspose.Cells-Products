@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Kördiagramok létrehozása a következőn keresztül: Python"
-url: /hu/python-java/create-pie-chart/
+
 description: Python Mintakód kördiagramok készítéséhez Excelbe a Python Library használatával. Ezzel a kóddal kördiagramot hozhat létre MS Excelben a Python alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

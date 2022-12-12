@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++アプリケーションを介してCSVをJPEGに変換する 
 weight: 1280
-url: /ja/cpp/conversion/csv-to-jpeg/ 
+
 description: CSVドキュメントからJPEG形式へのサンプルC++変換コード。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でCSVからJPEGへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

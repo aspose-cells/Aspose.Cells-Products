@@ -1,7 +1,7 @@
-﻿---
+---
 title: เอกสาร ODS ลายน้ำผ่าน Java 
 weight: 1040
-url: /th/java/watermark/ods/ 
+
 description: Java ตัวอย่างโค้ดเพื่อเพิ่มหรือลบลายน้ำในไฟล์ ODS บน Java Runtime Environment สำหรับแอปพลิเคชัน JSP/JSF และแอปพลิเคชันเดสก์ท็อป
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLSB dokumentumdiagram a következőn keresztül: Java "
 weight: 670
-url: /hu/java/chart/xlsb/ 
+
 description: Java mintakód diagramok vagy diagramok XLSB-fájlba történő rajzolásához és konvertálásához a Java Futási környezet JSP/JSF alkalmazásokhoz és asztali alkalmazásokhoz.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

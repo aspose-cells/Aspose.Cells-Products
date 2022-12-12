@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi TXT sang CSV qua Python
-url: /vi/python-java/conversion/txt-to-csv/
+
 description: Mã mẫu cho chuyển đổi txt sang csv Python. Sử dụng API mã mẫu cho các tệp txt hàng loạt sang chuyển đổi csv trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

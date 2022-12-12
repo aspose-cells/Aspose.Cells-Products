@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介して縦棒グラフを作成する
-url: /ja/python-java/create-column-chart/
+
 description: PythonPythonライブラリを使用してExcelに縦棒グラフを作成するためのサンプルコード。このコードを使用して、Pythonベースのアプリケーション内でMSExcelへの縦棒グラフを作成します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

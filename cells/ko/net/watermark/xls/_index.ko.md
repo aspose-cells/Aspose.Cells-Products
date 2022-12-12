@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET을 통한 워터마크 XLS 문서 
 weight: 3050
-url: /ko/net/watermark/xls/ 
+
 description: C# 소스 코드를 사용하여 .NET Framework, .NET Core, Mono 또는 Xamarin Platform에서 XLS 파일에 워터마크를 추가하거나 제거합니다.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

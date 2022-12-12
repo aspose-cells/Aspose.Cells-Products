@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to MD via Java 
-url: /java/conversion/excel-to-md/
+
 description: Convert EXCEL to MD format in Java code. Save EXCEL as MD using Java.
 ---
 

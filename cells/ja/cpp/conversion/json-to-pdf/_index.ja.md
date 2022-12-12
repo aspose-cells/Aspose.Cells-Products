@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++アプリケーションを介してJSONをPDFに変換する 
-url: /ja/cpp/conversion/json-to-pdf/ 
+
 description: JSONドキュメントからPDF形式へのサンプルC++変換コード。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でJSONからPDFへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

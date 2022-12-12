@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to CSV via C++
-url: /cpp/conversion/xlt-to-csv/
+
 description: Convert XLT to CSV format in C++ code. Save XLT as CSV using C++.
 ---
 

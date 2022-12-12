@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してTXTをJPEGに変換します
-url: /ja/python-java/conversion/txt-to-jpeg/
+
 description: txtからjpegPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチtxtファイルからjpegへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

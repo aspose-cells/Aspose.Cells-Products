@@ -1,7 +1,7 @@
-﻿---
+---
 title: Tìm kiếm tài liệu CSV mà không cần mở qua .NET 
 weight: 7510
-url: /vi/net/search/csv/ 
+
 description: C# mã nguồn để tìm kiếm các từ có mẫu trong tệp CSV trên Nền tảng .NET Framework, .NET Core Mono hoặc Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

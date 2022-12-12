@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to PNG via C++
-url: /cpp/conversion/xlt-to-png/
+
 description: Convert XLT to PNG format in C++ code. Save XLT as PNG using C++.
 ---
 

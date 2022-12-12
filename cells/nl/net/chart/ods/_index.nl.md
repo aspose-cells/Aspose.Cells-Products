@@ -1,7 +1,7 @@
-﻿---
+---
 title:  ODS-documentdiagram naar afbeeldingen via .NET 
 weight: 4360
-url: /nl/net/chart/ods/ 
+
 description: C# broncode om een grafiek of diagram te tekenen en om te zetten in een ODS-bestand op .NET Framework, .NET Core, Mono of Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

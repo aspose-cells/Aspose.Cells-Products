@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie NUMBERS in XLTM über C#
-url: /de/net/conversion/numbers-to-xltm/
+
 description: Beispielcode für die Umwandlung von Zahlen in xltm C#. Verwenden Sie API Beispielcode für die Konvertierung von Stapelnummerndateien in xltm innerhalb von VB.NET, Asp.NET oder einer beliebigen .NET-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

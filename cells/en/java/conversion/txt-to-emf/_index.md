@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to EMF via Java 
-url: /java/conversion/txt-to-emf/
+
 description: Convert TXT to EMF format in Java code. Save TXT as EMF using Java.
 ---
 

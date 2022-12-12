@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi HTML ke MHTML melalui Python
-url: /id/python-java/conversion/html-to-mhtml/
+
 description: Contoh kode untuk konversi html ke mhtml Python. Gunakan API kode contoh untuk file batch html ke konversi mhtml dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

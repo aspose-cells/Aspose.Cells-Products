@@ -1,6 +1,6 @@
 ---
 title: Merge TSV to HTML Files via Java 
-url: /java/merger/merge-tsv-to-html/ 
+
 description: Merge TSV to HTML file in Java code. Combine TSV to HTML file using Java based desktop or web application.
 ---
 

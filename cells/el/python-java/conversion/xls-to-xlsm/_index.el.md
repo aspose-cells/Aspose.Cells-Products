@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή XLS σε XLSM μέσω Python
-url: /el/python-java/conversion/xls-to-xlsm/
+
 description: Δείγμα κώδικα για μετατροπή xls σε xlsm Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδική μετατροπή αρχείων xls σε xlsm εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

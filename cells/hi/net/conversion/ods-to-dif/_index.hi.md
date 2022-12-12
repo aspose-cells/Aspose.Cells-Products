@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# के माध्यम से ODS को DIF में बदलें
-url: /hi/net/conversion/ods-to-dif/
+
 description: ऑड्स से भिन्न C# रूपांतरण के लिए नमूना कोड। VB.NET, Asp.NET या किसी .NET आधारित एप्लिकेशन के भीतर रूपांतरण को अलग करने के लिए बैच ods फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

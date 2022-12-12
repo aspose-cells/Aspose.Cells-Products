@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง NUMBERS เป็น TIFF ผ่าน Python
-url: /th/python-java/conversion/numbers-to-tiff/
+
 description: โค้ดตัวอย่างสำหรับการแปลงตัวเลขเป็น tiff Python ใช้โค้ดตัวอย่าง API สำหรับไฟล์หมายเลขแบทช์เพื่อแปลง tiff ภายในแอปพลิเคชัน Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

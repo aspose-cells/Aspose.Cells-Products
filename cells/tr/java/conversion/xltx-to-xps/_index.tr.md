@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java üzerinden XLTX'i XPS'ye dönüştürün 
 weight: 2990
-url: /tr/java/conversion/xltx-to-xps/ 
+
 description: XLTX biçimi için XPS dosyasına örnek Java dönüştürme kodu. Programcılar, Excel ve OpenOffice elektronik tablolarını herhangi bir Web veya Masaüstü Java tabanlı Uygulamada XPS'e aktarmak için bu örnek kodu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

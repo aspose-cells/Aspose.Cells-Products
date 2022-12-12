@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést ODS na TABDELIMITED přes C#
-url: /cs/net/conversion/ods-to-tabdelimited/
+
 description: Ukázkový kód pro převod z ods na C# oddělený tabulátory. Použijte API ukázkový kód pro dávkové soubory ods na převod oddělený tabulátory v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

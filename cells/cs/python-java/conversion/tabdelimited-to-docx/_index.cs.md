@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TABDELIMITED na DOCX přes Python
-url: /cs/python-java/conversion/tabdelimited-to-docx/
+
 description: Ukázkový kód pro převod tabulátorů na docx Python. Použijte API ukázkový kód pro dávkový převod souborů oddělených tabulátory na docx v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

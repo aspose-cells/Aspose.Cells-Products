@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to XLSX via Java 
-url: /java/conversion/tabdelimited-to-xlsx/
+
 description: Convert TABDELIMITED to XLSX format in Java code. Save TABDELIMITED as XLSX using Java.
 ---
 

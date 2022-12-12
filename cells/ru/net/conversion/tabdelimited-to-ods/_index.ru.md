@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование TABDELIMITED в ODS через C#
-url: /ru/net/conversion/tabdelimited-to-ods/
+
 description: Пример кода для преобразования tabdelimited в ods C#. Используйте пример кода API для пакетного преобразования файлов с разделителями табуляции в ods в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

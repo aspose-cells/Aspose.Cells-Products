@@ -1,6 +1,6 @@
 ---
 title: Merge NUMBERS to XLSM Files via C++ 
-url: /cpp/merger/merge-numbers-to-xlsm/ 
+
 description: Merge NUMBERS to XLSM file in C++ code. Combine NUMBERS to XLSM file using C++.
 ---
 

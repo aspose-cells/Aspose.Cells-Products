@@ -1,7 +1,7 @@
-﻿---
+---
 title: Convertir ODS en BMP via l'application C++ 
 weight: 8940
-url: /fr/cpp/conversion/ods-to-bmp/ 
+
 description: Exemple de code de conversion C++ pour le document ODS au format BMP. Les programmeurs peuvent utiliser ce code source pour la conversion par lots d'ODS en BMP dans n'importe quelle application C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

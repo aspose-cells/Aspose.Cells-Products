@@ -1,6 +1,6 @@
 ---
 title: Create Area Charts via Python
-url: /python-net/create-area-chart/
+
 description: Python Sample code for creating Area charts to Excel using Python Library. Use this code for creating an Area chart to MS Excel within Python based application.
 
 ---

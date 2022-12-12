@@ -1,6 +1,6 @@
-﻿---
+---
 title: Maak High-Low-Close-aandelengrafieken via C#
-url: /nl/net/create-stockhighlowclose-chart/
+
 description: C# Voorbeeldcode voor het maken van High-Low-Close Stock-diagrammen naar Excel met behulp van .NET Library. Gebruik deze code voor het maken van een High-Low-Close Stock-grafiek naar MS Excel binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

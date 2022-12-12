@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer ODS naar JSON via C++ applicatie 
-url: /nl/cpp/conversion/ods-to-json/ 
+
 description: Voorbeeld C++-conversiecode voor ODS-document naar JSON-indeling. Programmeurs kunnen deze broncode gebruiken voor batch-ODS naar JSON-conversie binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

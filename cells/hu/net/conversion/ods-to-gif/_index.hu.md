@@ -1,6 +1,6 @@
-﻿---
+---
 title: "ODS konvertálása GIF-re a következőn keresztül: C#"
-url: /hu/net/conversion/ods-to-gif/
+
 description: Mintakód az ods-ból gif-be C# konverzióhoz. Használjon API példakódot kötegelt ods fájlokhoz a gif-konverzióhoz VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

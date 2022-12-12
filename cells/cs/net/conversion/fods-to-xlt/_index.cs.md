@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést FODS na XLT přes C#
-url: /cs/net/conversion/fods-to-xlt/
+
 description: Ukázkový kód pro konverzi fod na xlt C#. Použijte API ukázkový kód pro dávkové soubory fods ke konverzi xlt v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

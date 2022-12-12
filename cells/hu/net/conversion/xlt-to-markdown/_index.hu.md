@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Konvertálja az XLT-t MARKDOWN-re a következőn keresztül: C#"
-url: /hu/net/conversion/xlt-to-markdown/
+
 description: Mintakód az xlt to markdown C# konverzióhoz. Használjon API példakódot kötegelt xlt fájlokhoz a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazás konverziójának leértékeléséhez.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

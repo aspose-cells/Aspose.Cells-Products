@@ -1,6 +1,6 @@
-﻿---
+---
 title: "HTML konvertálása XML-be a következőn keresztül: C#"
-url: /hu/net/conversion/html-to-xml/
+
 description: Mintakód a html-ből xml-be való C# konverzióhoz. Használjon API példakódot a kötegelt html fájlok XML-re konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLTX إلى JSON عبر تطبيق C++ 
-url: /ar/cpp/conversion/xltx-to-json/ 
+
 description: نموذج رمز تحويل C++ لمستند XLTX إلى تنسيق JSON. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل XLTX إلى JSON دفعة داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

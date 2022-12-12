@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل الأرقام إلى BMP عبر C#
-url: /ar/net/conversion/numbers-to-bmp/
+
 description: نموذج رمز للأرقام لتحويل bmp C#. استخدم API رمز المثال لملفات أرقام الدُفعات لتحويل bmp داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

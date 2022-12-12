@@ -1,7 +1,7 @@
-﻿---
+---
 title: Vodoznak XLSB dokumentu prostřednictvím .NET 
 weight: 5410
-url: /cs/net/watermark/xlsb/ 
+
 description: C# zdrojový kód pro přidání nebo odstranění vodoznaku do souboru XLSB na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: NUMBERS'ı C# üzerinden MARKDOWN'a dönüştürün
-url: /tr/net/conversion/numbers-to-markdown/
+
 description: C# dönüşümünü işaretlemek için sayılar için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde dönüşümü işaretlemek için toplu iş numarası dosyaları için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

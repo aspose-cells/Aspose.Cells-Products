@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer TABDELIMITED naar SVG via Python
-url: /nl/python-java/conversion/tabdelimited-to-svg/
+
 description: Voorbeeldcode voor door tabs gescheiden naar svg Python-conversie. Gebruik API voorbeeldcode voor batch-tabdelimited-bestanden naar svg-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

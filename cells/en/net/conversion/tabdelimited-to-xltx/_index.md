@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to XLTX via C#
-url: /net/conversion/tabdelimited-to-xltx/
+
 description: Convert TABDELIMITED to XLTX format in C# code. Save TABDELIMITED as XLTX using VB.NET, Asp.NET or any .NET based application.
 ---
 

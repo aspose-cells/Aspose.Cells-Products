@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to ODS via C#
-url: /net/conversion/html-to-ods/
+
 description: Convert HTML to ODS format in C# code. Save HTML as ODS using VB.NET, Asp.NET or any .NET based application.
 ---
 

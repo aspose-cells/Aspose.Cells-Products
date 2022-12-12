@@ -1,6 +1,6 @@
-﻿---
+---
 title: "MHTML konvertálása XLSB-vé a következőn keresztül: Python"
-url: /hu/python-java/conversion/mhtml-to-xlsb/
+
 description: Mintakód az mhtml–xlsb Python konverzióhoz. Használjon API példakódot az mhtml fájlok kötegelt xlsb konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

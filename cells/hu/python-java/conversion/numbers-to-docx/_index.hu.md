@@ -1,6 +1,6 @@
-﻿---
+---
 title: "NUMBERS konvertálása DOCX-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/numbers-to-docx/
+
 description: Mintakód számok docx Python konverziójához. Használjon API példakódot kötegszámfájlokhoz a docx-konverzióhoz a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: NUMBERS'ı Python aracılığıyla SXC'ye dönüştürün
-url: /tr/python-java/conversion/numbers-to-sxc/
+
 description: Sayıların sxc Python dönüşümüne ilişkin örnek kod. Python uygulamasında toplu iş numarası dosyaları için sxc dönüşümü için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

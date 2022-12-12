@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj XLSB na MARKDOWN za pomocą Python
-url: /pl/python-java/conversion/xlsb-to-markdown/
+
 description: Przykładowy kod konwersji xlsb na przecenę Python. Użyj przykładowego kodu API dla plików wsadowych xlsb do konwersji przecen w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

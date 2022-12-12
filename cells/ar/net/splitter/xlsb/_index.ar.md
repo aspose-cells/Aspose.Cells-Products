@@ -1,7 +1,7 @@
-﻿---
+---
 title: تقسيم ملفات XLSB عبر .NET 
 weight: 7370
-url: /ar/net/splitter/xlsb/ 
+
 description: C# شفرة المصدر لتقسيم مستندات XLSB على .NET Framework أو .NET Core أو Mono أو أنظمة Xamarin الأساسية.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

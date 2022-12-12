@@ -1,6 +1,6 @@
 ---
 title: Convert XLSM to WORD via Python
-url: /python-java/conversion/xlsm-to-word/
+
 description: Convert XLSM to WORD format in Python code. Save XLSM as WORD using Python.
 ---
 

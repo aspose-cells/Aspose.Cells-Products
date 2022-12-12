@@ -1,7 +1,7 @@
-﻿---
+---
 title: SharePoint Excel Elektronik Tablo Dönüştürücü Uygulaması - Aspose 
 weight: 940
-url: /tr/sharepoint/ 
+
 description: SharePoint Uygulaması için Aspose.Cells, bir SharePoint Excel Elektronik Tablo dönüştürücüsüdür. XLS XLSX XML CSV PDF Dışa Aktarma ODS &amp; MOSS WSS'deki HTML biçimleri
 ---
 {{< blocks/products/pf/main-wrap-class >}}

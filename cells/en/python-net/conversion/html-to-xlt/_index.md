@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to XLT via Python
-url: /python-net/conversion/html-to-xlt/
+
 description: Sample code for html to xlt Python conversion. Use API example code for batch html files to xlt conversion within Python application.
 ---
 

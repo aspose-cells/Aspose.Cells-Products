@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java을(를) 통해 XLTX를 BMP로 변환 
 weight: 5980
-url: /ko/java/conversion/xltx-to-bmp/ 
+
 description: XLTX 형식을 BMP 파일로 변환하는 샘플 Java 변환 코드. 프로그래머는 이 예제 코드를 사용하여 Excel 및 OpenOffice 스프레드시트를 웹 또는 데스크톱 Java 기반 응용 프로그램 내에서 BMP로 내보낼 수 있습니다.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Exportera rapporter i Excel XLS XLSX PDF ODS i JasperReports och JasperServer 
 weight: 9460
-url: /sv/jasperreports/ 
+
 description: Exportera rapporter från Jasper Reports och JasperServer i Excel XLS XLSX PDF ODS TXT och SpreadsheetML-format. Skriv även ut rapporter som Excel-kalkylblad
 ---
 {{< blocks/products/pf/main-wrap-class >}}

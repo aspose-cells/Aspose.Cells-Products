@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer HTML naar JPEG via C++ applicatie 
 weight: 7270
-url: /nl/cpp/conversion/html-to-jpeg/ 
+
 description: Voorbeeld C++ conversiecode voor HTML-document naar JPEG-indeling. Programmeurs kunnen deze broncode gebruiken voor batch-HTML-naar-JPEG-conversie binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

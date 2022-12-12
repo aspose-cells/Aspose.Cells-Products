@@ -1,7 +1,7 @@
-﻿---
+---
 title: فتح مستند XLSB عبر C++ 
 weight: 7420
-url: /ar/cpp/unlock/xlsb/ 
+
 description: C++ مثال على رمز لإلغاء تأمين ملف XLSB المحمي بكلمة مرور في C++ Runtime Environment لأنظمة التشغيل Windows 32 بت و Windows 64 بت و Linux 64 بت.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

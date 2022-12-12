@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to DOCX via Java 
-url: /java/conversion/xlt-to-docx/
+
 description: Convert XLT to DOCX format in Java code. Save XLT as DOCX using Java.
 ---
 

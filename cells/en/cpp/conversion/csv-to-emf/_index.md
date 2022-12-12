@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to EMF via C++
-url: /cpp/conversion/csv-to-emf/
+
 description: Convert CSV to EMF format in C++ code. Save CSV as EMF using C++.
 ---
 

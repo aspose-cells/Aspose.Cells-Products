@@ -1,7 +1,7 @@
-﻿---
+---
 title: Bảo vệ và khóa tài liệu ODS qua .NET 
 weight: 5580
-url: /vi/net/protect/ods/ 
+
 description: C# mã nguồn để khóa tệp ODS bằng mật khẩu trên Nền tảng .NET Framework, .NET Core Mono hoặc Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

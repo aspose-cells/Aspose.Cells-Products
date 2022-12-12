@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Konvertálja az XLT-t XLSB-vé a következőn keresztül: Java "
 weight: 5780
-url: /hu/java/conversion/xlt-to-xlsb/ 
+
 description: Minta Java konverziós kód az XLT formátumhoz XLSB fájllá. A programozók ezt a példakódot használhatják Excel és OpenOffice táblázatok XLSB formátumba exportálására bármely web- vagy asztali Java alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

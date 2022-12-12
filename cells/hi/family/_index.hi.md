@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET Java C++ PHP और Android Excel स्प्रेडशीट पार्सिंग API 
 weight: 10
-url: /hi/family
+
 description: .NET Java C++ Android और SharePoint ऐप्स में Microsoft Excel फ़ाइलों को पढ़ने और उनमें हेरफेर करने के लिए पुस्तकालय। SSRS और JasperReports में वर्कशीट निर्यात करें
 ---
 {{< blocks/products/pf/main-wrap-class >}}

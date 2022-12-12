@@ -1,7 +1,7 @@
-﻿---
+---
 title: Scal pliki XLSB przez Java 
 weight: 4840
-url: /pl/java/merger/xlsb/ 
+
 description: Java przykładowy kod do łączenia dokumentów XLSB w Java środowisku wykonawczym dla aplikacji JSP/JSF i aplikacji komputerowych.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

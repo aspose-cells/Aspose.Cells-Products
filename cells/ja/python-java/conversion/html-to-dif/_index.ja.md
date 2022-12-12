@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してHTMLをDIFに変換します
-url: /ja/python-java/conversion/html-to-dif/
+
 description: htmlからdifPythonへの変換のサンプルコード。 Pythonアプリケーション内で変換をdifするバッチhtmlファイルのAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converti HTML in SPREADSHEETML tramite C#
-url: /it/net/conversion/html-to-spreadsheetml/
+
 description: Codice di esempio per la conversione da html a foglio di calcoloml C#. Utilizza API codice di esempio per la conversione in batch di file html in spreadsheetml all'interno di VB.NET, Asp.NET o qualsiasi applicazione basata su .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

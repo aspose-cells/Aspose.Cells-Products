@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera XLSX till TXT via appen C++ 
-url: /sv/cpp/conversion/xlsx-to-txt/ 
+
 description: Exempel på konverteringskod för C++ för XLSX-dokument till TXT-format. Programmerare kan använda den här källkoden för batchkonvertering av XLSX till TXT inom alla C++-program.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

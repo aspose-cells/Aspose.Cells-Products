@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLT konvertálása XLAM-re a következőn keresztül: C#"
-url: /hu/net/conversion/xlt-to-xlam/
+
 description: Mintakód az xlt–xlam C# konverzióhoz. Használjon API példakódot kötegelt xlt fájlok xlam konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

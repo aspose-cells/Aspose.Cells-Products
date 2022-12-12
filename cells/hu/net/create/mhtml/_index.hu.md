@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Hozzon létre MHTML-fájlokat a következőn keresztül: C# "
-url: /hu/net/create-mhtml/ 
+
 description: C# Mintakód MHTML dokumentumok generálásához. Használja ezt a kódot MHTML-fájlok létrehozásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazásban.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

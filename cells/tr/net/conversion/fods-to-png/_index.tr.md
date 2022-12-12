@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla FODS'u PNG'ye dönüştürün
-url: /tr/net/conversion/fods-to-png/
+
 description: Yemlerden png'ye C# dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu dosya dosyalarını png'ye dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

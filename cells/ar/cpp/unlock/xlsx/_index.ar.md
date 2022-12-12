@@ -1,7 +1,7 @@
-﻿---
+---
 title: فتح مستند XLSX عبر C++ 
 weight: 3680
-url: /ar/cpp/unlock/xlsx/ 
+
 description: C++ مثال على رمز لإلغاء تأمين ملف XLSX المحمي بكلمة مرور في C++ Runtime Environment لأنظمة التشغيل Windows 32 بت و Windows 64 بت و Linux 64 بت.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

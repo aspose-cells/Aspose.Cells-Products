@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi XLSB sang XLS qua C#
-url: /vi/net/conversion/xlsb-to-xls/
+
 description: Mã mẫu cho chuyển đổi xlsb sang xls C#. Sử dụng API mã ví dụ cho chuyển đổi hàng loạt tệp xlsb sang xls trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

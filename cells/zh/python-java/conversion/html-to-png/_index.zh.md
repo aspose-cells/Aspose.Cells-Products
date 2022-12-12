@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 Python 将 HTML 转换为 PNG
-url: /zh/python-java/conversion/html-to-png/
+
 description: html 到 png Python 转换的示例代码。在 Python 应用程序中使用 API 示例代码批量 html 文件到 png 转换。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

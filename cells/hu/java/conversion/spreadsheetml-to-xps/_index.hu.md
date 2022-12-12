@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SPREADSHEETML konvertálása XPS-re a következőn keresztül: Java "
-url: /hu/java/conversion/spreadsheetml-to-xps/ 
+
 description: Minta Java konverziós kód a SPREADSHEETML formátumhoz XPS fájllá. A programozók ezt a példakódot használhatják Excel és OpenOffice táblázatok XPS-re történő exportálására bármely web- vagy asztali Java alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

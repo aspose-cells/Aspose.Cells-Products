@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer TXT naar MD via Java 
-url: /nl/java/conversion/txt-to-md/ 
+
 description: Voorbeeld Java conversiecode voor TXT-indeling naar MD-bestand. Programmeurs kunnen deze voorbeeldcode gebruiken om Excel- en OpenOffice-spreadsheets naar MD te exporteren binnen elke web- of desktoptoepassing Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

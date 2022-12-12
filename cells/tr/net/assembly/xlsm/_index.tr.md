@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET aracılığıyla XLSM Dosyalarında Raporlar Oluşturun 
 weight: 4400
-url: /tr/net/assembly/xlsm/ 
+
 description: .NET Framework, .NET Core, Mono veya Xamarin Platformlarında XLSM biçiminde raporlar oluşturmak için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

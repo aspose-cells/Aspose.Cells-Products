@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してXLSをXLAMに変換します
-url: /ja/net/conversion/xls-to-xlam/
+
 description: xlsからxlamC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチxlsファイルからxlamへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

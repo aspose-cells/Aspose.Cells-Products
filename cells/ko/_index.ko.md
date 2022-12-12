@@ -1,7 +1,7 @@
-﻿---
+---
 title: 엑셀 파일 포맷 솔루션
 weight: 7730
-url: /ko/
+
 description: 하이 코드 또는 로우 코드 API 또는 코드 없음 앱을 사용하여 Excel 파일 조작 응용 프로그램을 만들어 Excel 파일을 비교 검사하거나 변환합니다.
 ---
 {{< blocks/products/pf/main-wrap-class >}}

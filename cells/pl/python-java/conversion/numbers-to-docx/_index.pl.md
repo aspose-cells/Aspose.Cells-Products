@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj NUMBERS na DOCX przez Python
-url: /pl/python-java/conversion/numbers-to-docx/
+
 description: Przykładowy kod liczb do konwersji docx Python. Użyj przykładowego kodu API dla plików numerów partii do konwersji docx w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Twórz wykresy Excel i konwertuj na obrazy za pomocą C++
-url: /pl/cpp/chart/
+
 description: C++ kod źródłowy do rysowania i konwertowania wykresu lub diagramu w programie Microsoft Excel przy użyciu C++Biblioteki
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

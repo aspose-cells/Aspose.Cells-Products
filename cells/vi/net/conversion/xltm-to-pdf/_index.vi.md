@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển XLTM sang PDF qua C#
-url: /vi/net/conversion/xltm-to-pdf/
+
 description: Mã mẫu để chuyển đổi xltm sang pdf C#. Sử dụng API mã mẫu cho hàng loạt tệp xltm sang chuyển đổi pdf trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

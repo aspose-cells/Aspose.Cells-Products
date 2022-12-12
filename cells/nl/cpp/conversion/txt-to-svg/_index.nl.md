@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer TXT naar SVG via C++ applicatie 
-url: /nl/cpp/conversion/txt-to-svg/ 
+
 description: Voorbeeld C++ conversiecode voor TXT-document naar SVG-indeling. Programmeurs kunnen deze broncode gebruiken voor batchconversie van TXT naar SVG binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

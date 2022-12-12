@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง TXT เป็น MD ผ่าน Python
-url: /th/python-java/conversion/txt-to-md/
+
 description: โค้ดตัวอย่างสำหรับการแปลง txt เป็น md Python ใช้โค้ดตัวอย่าง API สำหรับไฟล์แบตช์ txt เป็นการแปลง md ภายในแอปพลิเคชัน Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

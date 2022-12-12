@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してHTMLファイルを作成する 
-url: /ja/net/create-html/ 
+
 description: C#HTMLドキュメントを生成するためのサンプルコード。このコードを使用して、VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でHTMLファイルを作成します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Ekstrak teks dan gambar dari dokumen XLSB melalui .NET 
 weight: 2200
-url: /id/net/parser/xlsb/ 
+
 description: C# kode sumber untuk mengekstrak teks dan gambar dari file XLSB di .NET Framework, .NET Core, Mono atau Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta XLTX a MD a través de la aplicación C++ 
-url: /es/cpp/conversion/xltx-to-md/ 
+
 description: Ejemplo de código de conversión C++ para documento XLTX a formato MD. Los programadores pueden usar este código fuente para la conversión por lotes de XLTX a MD dentro de cualquier aplicación C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

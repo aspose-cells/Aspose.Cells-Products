@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to TXT via Python
-url: /python-net/conversion/json-to-txt/
+
 description: Sample code for json to txt Python conversion. Use API example code for batch json files to txt conversion within Python application.
 ---
 

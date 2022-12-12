@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLSB na PNG přes Python
-url: /cs/python-java/conversion/xlsb-to-png/
+
 description: Ukázkový kód pro převod xlsb na png Python. Použijte API ukázkový kód pro dávkový převod souborů xlsb na png v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

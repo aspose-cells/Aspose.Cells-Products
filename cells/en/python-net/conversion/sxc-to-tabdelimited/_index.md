@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to TABDELIMITED via Python
-url: /python-net/conversion/sxc-to-tabdelimited/
+
 description: Sample code for sxc to tabdelimited Python conversion. Use API example code for batch sxc files to tabdelimited conversion within Python application.
 ---
 

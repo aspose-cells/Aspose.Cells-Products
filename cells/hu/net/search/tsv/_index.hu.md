@@ -1,7 +1,7 @@
-﻿---
+---
 title: "TSV-dokumentum keresése megnyitás nélkül a következőn keresztül: .NET "
 weight: 2810
-url: /hu/net/search/tsv/ 
+
 description: C# forráskód a mintával rendelkező szavak kereséséhez a TSV-fájlban .NET Framework, .NET Core, Mono vagy Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Az Excel-táblázat felosztása munkalapokra itt: Java"
-url: /hu/java/splitter/
+
 description: Java forráskód, amely elmagyarázza, hogyan oszthat fel Microsoft Excel fájlokat több dokumentumra az Java Excel könyvtár használatával
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

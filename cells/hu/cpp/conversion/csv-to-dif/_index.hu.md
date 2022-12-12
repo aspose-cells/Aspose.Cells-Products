@@ -1,7 +1,7 @@
-﻿---
+---
 title: A CSV konvertálása DIF-re a(z) C++ alkalmazáson keresztül 
 weight: 460
-url: /hu/cpp/conversion/csv-to-dif/ 
+
 description: Minta C++ konverziós kód a CSV-dokumentumhoz DIF formátumba. A programozók ezt a forráskódot használhatják kötegelt CSV-ből DIF-be konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

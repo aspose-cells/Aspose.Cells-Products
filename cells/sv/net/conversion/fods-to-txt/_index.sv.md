@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera FODS till TXT via C#
-url: /sv/net/conversion/fods-to-txt/
+
 description: Exempelkod för fods till txt C#-konvertering. Använd API exempelkod för batch fods-filer till txt-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

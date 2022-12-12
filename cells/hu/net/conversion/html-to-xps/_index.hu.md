@@ -1,6 +1,6 @@
-﻿---
+---
 title: "HTML konvertálása XPS-re a következőn keresztül: C#"
-url: /hu/net/conversion/html-to-xps/
+
 description: Mintakód a html-ből xps-be C# történő konverzióhoz. Használjon API példakódot a kötegelt html fájlok xps-re konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

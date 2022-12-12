@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してXLTXをDOCXに変換します
-url: /ja/net/conversion/xltx-to-docx/
+
 description: xltxからdocxC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチxltxファイルからdocxへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

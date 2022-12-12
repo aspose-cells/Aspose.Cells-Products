@@ -1,7 +1,7 @@
-﻿---
+---
 title: Bescherm en vergrendel ODS-document via .NET 
 weight: 5580
-url: /nl/net/protect/ods/ 
+
 description: C# broncode om het ODS-bestand te vergrendelen met een wachtwoord op .NET Framework, .NET Core, Mono of Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Scal pliki XLT przez Java 
 weight: 9960
-url: /pl/java/merger/xlt/ 
+
 description: Java przykładowy kod do łączenia dokumentów XLT w Java środowisku wykonawczym dla aplikacji JSP/JSF i aplikacji komputerowych.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

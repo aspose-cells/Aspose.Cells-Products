@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLS na SVG přes Python
-url: /cs/python-java/conversion/xls-to-svg/
+
 description: Ukázkový kód pro převod xls na svg Python. Použijte API ukázkový kód pro dávkový převod souborů xls na svg v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

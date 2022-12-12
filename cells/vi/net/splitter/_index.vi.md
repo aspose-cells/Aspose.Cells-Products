@@ -1,6 +1,6 @@
-﻿---
+---
 title: Tách trang tính Bảng tính Excel khôn ngoan trong C#
-url: /vi/net/splitter/
+
 description: C# mã nguồn giải thích cách chia tệp Microsoft Excel thành nhiều tệp trong ứng dụng Trực quan C# .NET
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

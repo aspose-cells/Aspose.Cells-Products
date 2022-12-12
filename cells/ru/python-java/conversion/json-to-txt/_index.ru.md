@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование JSON в TXT через Python
-url: /ru/python-java/conversion/json-to-txt/
+
 description: Пример кода для преобразования json в txt Python. Используйте пример кода API для пакетного преобразования файлов json в txt в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

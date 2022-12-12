@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل HTML إلى MD عبر Python
-url: /ar/python-java/conversion/html-to-md/
+
 description: نموذج كود للتحويل من html إلى md Python. استخدم API رمز المثال لملفات html الدفعية لتحويل md داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

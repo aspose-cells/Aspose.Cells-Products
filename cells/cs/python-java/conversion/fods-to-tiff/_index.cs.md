@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést FODS na TIFF přes Python
-url: /cs/python-java/conversion/fods-to-tiff/
+
 description: Ukázkový kód pro konverzi fod to tiff Python. Použijte API ukázkový kód pro dávkové soubory fods k převodu tiff v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

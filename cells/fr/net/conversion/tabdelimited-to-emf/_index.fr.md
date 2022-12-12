@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir TABDELIMITED en EMF via C#
-url: /fr/net/conversion/tabdelimited-to-emf/
+
 description: Exemple de code pour la conversion tabdelimited en emf C#. Utilisez l'exemple de code API pour les fichiers batch délimités par des tabulations en conversion emf dans VB.NET, Asp.NET ou toute application basée sur .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: NUMBERS'ı Python üzerinden XLTX'e dönüştürün
-url: /tr/python-java/conversion/numbers-to-xltx/
+
 description: Sayıları xltx'e Python dönüştürmek için örnek kod. Python uygulamasında toplu iş numarası dosyalarından xltx'e dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

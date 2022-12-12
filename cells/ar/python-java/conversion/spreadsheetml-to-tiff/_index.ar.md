@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل SPREADSHEETML إلى TIFF عبر Python
-url: /ar/python-java/conversion/spreadsheetml-to-tiff/
+
 description: نموذج كود لجدول بيانات لتحويل Python. استخدم API رمز المثال لملفات جداول البيانات الدفعية لتشديد التحويل داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

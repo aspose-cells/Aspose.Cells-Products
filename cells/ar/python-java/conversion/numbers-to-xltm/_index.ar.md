@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل NUMBERS إلى XLTM عبر Python
-url: /ar/python-java/conversion/numbers-to-xltm/
+
 description: نموذج كود لتحويل الأرقام إلى xltm Python. استخدم API رمز المثال لملفات أرقام الدُفعات لتحويل xltm داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

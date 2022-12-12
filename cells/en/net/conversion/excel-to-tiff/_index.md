@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to TIFF via C#
-url: /net/conversion/excel-to-tiff/
+
 description: Convert EXCEL to TIFF format in C# code. Save EXCEL as TIFF using VB.NET, Asp.NET or any .NET based application.
 ---
 

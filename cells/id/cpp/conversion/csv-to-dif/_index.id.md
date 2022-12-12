@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversi CSV ke DIF melalui C++ aplikasi 
 weight: 460
-url: /id/cpp/conversion/csv-to-dif/ 
+
 description: Contoh C++ kode konversi untuk dokumen CSV ke format DIF. Pemrogram dapat menggunakan kode sumber ini untuk konversi CSV ke DIF batch dalam Aplikasi C++ apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Merge MHT to HTML Files via Java 
-url: /java/merger/merge-mht-to-html/ 
+
 description: Merge MHT to HTML file in Java code. Combine MHT to HTML file using Java based desktop or web application.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Create Excel Charts and Convert to Images via C++
-url: /cpp/chart/
+
 description: C++ source code to draw and convert chart or diagram in Microsoft Excel using C++ Library
 ---
 

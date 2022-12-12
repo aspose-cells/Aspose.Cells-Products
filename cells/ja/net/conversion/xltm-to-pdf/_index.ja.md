@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してXLTMをPDFに変換する
-url: /ja/net/conversion/xltm-to-pdf/
+
 description: xltmからpdfC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチxltmファイルからpdfへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

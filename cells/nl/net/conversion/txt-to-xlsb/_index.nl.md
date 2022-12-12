@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer TXT naar XLSB via C#
-url: /nl/net/conversion/txt-to-xlsb/
+
 description: Voorbeeldcode voor conversie van txt naar xlsb C#. Gebruik API voorbeeldcode voor batch-txt-bestanden naar xlsb-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

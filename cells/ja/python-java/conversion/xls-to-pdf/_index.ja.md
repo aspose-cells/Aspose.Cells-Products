@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してXLSをPDFに変換する
-url: /ja/python-java/conversion/xls-to-pdf/
+
 description: xlsからpdfPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチxlsファイルからpdfへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

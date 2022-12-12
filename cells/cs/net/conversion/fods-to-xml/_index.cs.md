@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést FODS na XML prostřednictvím C#
-url: /cs/net/conversion/fods-to-xml/
+
 description: Ukázkový kód pro převod fods na xml C#. Použijte API ukázkový kód pro dávkové převody fods souborů do xml v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

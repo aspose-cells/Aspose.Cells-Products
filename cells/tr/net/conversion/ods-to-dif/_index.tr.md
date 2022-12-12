@@ -1,6 +1,6 @@
-﻿---
+---
 title: ODS'yi C# aracılığıyla DIF'ye dönüştürün
-url: /tr/net/conversion/ods-to-dif/
+
 description: C# dönüşümünü farklılaştırmak için ods için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde farklı dönüştürme için toplu ods dosyaları için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

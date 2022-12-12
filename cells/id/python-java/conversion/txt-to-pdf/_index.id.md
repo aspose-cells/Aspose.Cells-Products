@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi TXT ke PDF melalui Python
-url: /id/python-java/conversion/txt-to-pdf/
+
 description: Contoh kode untuk konversi txt ke pdf Python. Gunakan API kode contoh untuk file txt batch ke konversi pdf dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter XLSX para XPS via C#
-url: /pt/net/conversion/xlsx-to-xps/
+
 description: Código de exemplo para conversão de xlsx para xps C#. Use API código de exemplo para arquivos xlsx em lote para conversão xps em VB.NET, Asp.NET ou qualquer aplicativo baseado em .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

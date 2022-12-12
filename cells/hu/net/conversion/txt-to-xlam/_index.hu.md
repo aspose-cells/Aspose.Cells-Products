@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TXT konvertálása XLAM-re a következőn keresztül: C#"
-url: /hu/net/conversion/txt-to-xlam/
+
 description: Mintakód a txt-ből xlam C# konvertáláshoz. Használjon API példakódot kötegelt txt fájlok xlam konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

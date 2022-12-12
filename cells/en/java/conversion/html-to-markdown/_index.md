@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to MARKDOWN via Java 
-url: /java/conversion/html-to-markdown/
+
 description: Convert HTML to MARKDOWN format in Java code. Save HTML as MARKDOWN using Java.
 ---
 

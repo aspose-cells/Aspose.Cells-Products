@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLSM-et BMP-vé a C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/xlsm-to-bmp/ 
+
 description: Minta C++ konverziós kód XLSM dokumentumhoz BMP formátumba. A programozók ezt a forráskódot használhatják az XLSM-ből BMP-be kötegelt konvertáláshoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

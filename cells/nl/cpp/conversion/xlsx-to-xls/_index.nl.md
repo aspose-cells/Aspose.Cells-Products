@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer XLSX naar XLS via C++ applicatie 
 weight: 2660
-url: /nl/cpp/conversion/xlsx-to-xls/ 
+
 description: Voorbeeld C++ conversiecode voor XLSX-document naar XLS-indeling. Programmeurs kunnen deze broncode gebruiken voor batch-conversie van XLSX naar XLS binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

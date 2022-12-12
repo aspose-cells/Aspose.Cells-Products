@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversi XLSB ke XLTX melalui C++ aplikasi 
 weight: 550
-url: /id/cpp/conversion/xlsb-to-xltx/ 
+
 description: Contoh C++ kode konversi untuk dokumen XLSB ke format XLTX. Pemrogram dapat menggunakan kode sumber ini untuk konversi batch XLSB ke XLTX dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

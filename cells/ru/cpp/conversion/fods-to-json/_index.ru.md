@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование FODS в JSON через приложение C++ 
-url: /ru/cpp/conversion/fods-to-json/ 
+
 description: Пример кода преобразования C++ для документа FODS в формат JSON. Программисты могут использовать этот исходный код для пакетного преобразования FODS в JSON в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل FODS إلى SXC عبر Python
-url: /ar/python-java/conversion/fods-to-sxc/
+
 description: نموذج كود لتحويل fods إلى sxc Python. استخدم API رمز المثال لملفات fods الدفعية لتحويل sxc داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

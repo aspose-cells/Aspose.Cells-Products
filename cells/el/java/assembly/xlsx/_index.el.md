@@ -1,7 +1,7 @@
-﻿---
+---
 title: Δημιουργία αναφορών σε αρχεία XLSX μέσω Java 
 weight: 7710
-url: /el/java/assembly/xlsx/ 
+
 description: Java δείγμα κώδικα για τη δημιουργία αναφορών μορφής XLSX στο Java Runtime Environment για JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

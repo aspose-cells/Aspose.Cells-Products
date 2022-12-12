@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversikan TXT ke BMP melalui Java 
 weight: 3530
-url: /id/java/conversion/txt-to-bmp/ 
+
 description: Contoh Java kode konversi untuk format TXT ke file BMP. Pemrogram dapat menggunakan kode contoh ini untuk mengekspor spreadsheet Excel & OpenOffice ke BMP dalam Aplikasi berbasis Web atau Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

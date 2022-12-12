@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj XLSX na MARKDOWN za pomocą Python
-url: /pl/python-java/conversion/xlsx-to-markdown/
+
 description: Przykładowy kod konwersji xlsx na przecenę Python. Użyj przykładowego kodu API dla plików wsadowych xlsx do konwersji przecen w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

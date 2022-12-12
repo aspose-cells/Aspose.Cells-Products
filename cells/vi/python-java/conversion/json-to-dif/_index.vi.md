@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi JSON sang DIF qua Python
-url: /vi/python-java/conversion/json-to-dif/
+
 description: Mã mẫu cho chuyển đổi json sang dif Python. Sử dụng mã ví dụ API cho các tệp json hàng loạt để chuyển đổi khác trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

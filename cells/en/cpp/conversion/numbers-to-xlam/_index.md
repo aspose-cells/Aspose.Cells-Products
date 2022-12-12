@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to XLAM via C++
-url: /cpp/conversion/numbers-to-xlam/
+
 description: Convert NUMBERS to XLAM format in C++ code. Save NUMBERS as XLAM using C++.
 ---
 

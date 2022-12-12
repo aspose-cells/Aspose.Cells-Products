@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLSX konvertálása XPS-re a következőn keresztül: Java "
 weight: 8260
-url: /hu/java/conversion/xlsx-to-xps/ 
+
 description: Minta Java konverziós kód az XLSX formátumhoz XPS fájllá. A programozók ezt a példakódot használhatják Excel és OpenOffice táblázatok XPS-re történő exportálására bármely web- vagy asztali Java alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

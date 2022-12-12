@@ -1,6 +1,6 @@
 ---
 title: Merge NUMBERS to MHT Files via C# 
-url: /net/merger/merge-numbers-to-mht/ 
+
 description: Merge NUMBERS to MHT file in C# code. Combine NUMBERS to MHT file using VB.NET, Asp.NET or any .NET based application.
 ---
 

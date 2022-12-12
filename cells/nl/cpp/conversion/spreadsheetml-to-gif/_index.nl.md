@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer SPREADSHEETML naar GIF via C++ applicatie 
-url: /nl/cpp/conversion/spreadsheetml-to-gif/ 
+
 description: Voorbeeld C++-conversiecode voor SPREADSHEETML-document naar GIF-indeling. Programmeurs kunnen deze broncode gebruiken voor batch-conversie van SPREADSHEETML naar GIF binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

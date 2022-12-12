@@ -1,7 +1,7 @@
-﻿---
+---
 title: Συγχώνευση αρχείων TSV μέσω .NET 
 weight: 1360
-url: /el/net/merger/tsv/ 
+
 description: C# πηγαίος κώδικας για συνδυασμό εγγράφων TSV σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

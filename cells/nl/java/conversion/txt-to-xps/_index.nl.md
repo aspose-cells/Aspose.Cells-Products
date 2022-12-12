@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer TXT naar XPS via Java 
 weight: 5270
-url: /nl/java/conversion/txt-to-xps/ 
+
 description: Voorbeeld Java conversiecode voor TXT-indeling naar XPS-bestand. Programmeurs kunnen deze voorbeeldcode gebruiken om Excel- en OpenOffice-spreadsheets naar XPS te exporteren binnen elke web- of desktoptoepassing Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

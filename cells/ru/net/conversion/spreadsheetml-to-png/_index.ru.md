@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование SPREADSHETML в PNG с помощью C#
-url: /ru/net/conversion/spreadsheetml-to-png/
+
 description: Пример кода для преобразования электронной таблицыml в png C#. Используйте пример кода API для пакетного преобразования файлов электронной таблицыml в png в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

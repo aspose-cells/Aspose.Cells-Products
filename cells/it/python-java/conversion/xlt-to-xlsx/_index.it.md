@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converti XLT in XLSX tramite Python
-url: /it/python-java/conversion/xlt-to-xlsx/
+
 description: Codice di esempio per la conversione da xlt a xlsx Python. Usa API codice di esempio per la conversione batch di file xlt in xlsx all'interno dell'applicazione Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

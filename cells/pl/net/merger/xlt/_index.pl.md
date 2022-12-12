@@ -1,7 +1,7 @@
-﻿---
+---
 title: Scal pliki XLT przez .NET 
 weight: 1820
-url: /pl/net/merger/xlt/ 
+
 description: C# kod źródłowy do łączenia dokumentów XLT na platformach .NET Framework, .NET Core, Mono lub Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

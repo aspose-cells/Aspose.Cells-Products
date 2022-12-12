@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 C# 將 JSON 轉換為 TSV
-url: /zh-hant/net/conversion/json-to-tsv/
+
 description: json 到 tsv C# 轉換的示例代碼。在 VB.NET、Asp.NET 或任何基於 .NET 的應用程序中使用 API 示例代碼將批處理 json 文件轉換為 tsv。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

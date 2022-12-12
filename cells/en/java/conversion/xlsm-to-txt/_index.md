@@ -1,6 +1,6 @@
 ---
 title: Convert XLSM to TXT via Java 
-url: /java/conversion/xlsm-to-txt/
+
 description: Convert XLSM to TXT format in Java code. Save XLSM as TXT using Java.
 ---
 

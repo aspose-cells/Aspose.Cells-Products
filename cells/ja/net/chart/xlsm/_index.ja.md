@@ -1,7 +1,7 @@
-﻿---
+---
 title:  XLSMドキュメントチャートから.NET経由の画像 
 weight: 5100
-url: /ja/net/chart/xlsm/ 
+
 description: .NETフレームワーク、.NETコア、Mono、またはXamarinプラットフォーム上のXLSMファイルでチャートまたは図を描画および変換するためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

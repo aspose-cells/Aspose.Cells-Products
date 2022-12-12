@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to EMF via Java 
-url: /java/conversion/html-to-emf/
+
 description: Convert HTML to EMF format in Java code. Save HTML as EMF using Java.
 ---
 

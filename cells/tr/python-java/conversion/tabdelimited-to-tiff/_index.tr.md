@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla TABDELIMITED'i TIFF'ye dönüştürün
-url: /tr/python-java/conversion/tabdelimited-to-tiff/
+
 description: Python dönüşümü için sekmeyle ayrılmış örnek kod. Python uygulaması içinde dönüştürmeyi değiştirmek için sekmeyle ayrılmış toplu dosyalar için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Desbloquear documento ODS a través de C++ 
 weight: 1190
-url: /es/cpp/unlock/ods/ 
+
 description: C++ código de ejemplo para desbloquear el archivo ODS protegido por contraseña en C++ entorno de tiempo de ejecución para Windows de 32 bits, Windows de 64 bits y Linux de 64 bits.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

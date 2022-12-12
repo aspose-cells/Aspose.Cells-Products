@@ -1,7 +1,7 @@
-﻿---
+---
 title: Защитите и заблокируйте документ ODS через .NET 
 weight: 5580
-url: /ru/net/protect/ods/ 
+
 description: Исходный код C# для блокировки файла ODS с помощью пароля на платформах .NET Framework, .NET Core, Mono или Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

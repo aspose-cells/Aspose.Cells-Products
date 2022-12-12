@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 C# 将 TABDELIMITED 转换为 MHTML
-url: /zh/net/conversion/tabdelimited-to-mhtml/
+
 description: tabdelimited 到 mhtml C# 转换的示例代码。使用 API 示例代码在 VB.NET、Asp.NET 或任何基于 .NET 的应用程序中将制表符分隔的文件批量转换为 mhtml。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

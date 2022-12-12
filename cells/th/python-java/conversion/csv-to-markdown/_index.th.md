@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง CSV เป็น MARKDOWN ผ่าน Python
-url: /th/python-java/conversion/csv-to-markdown/
+
 description: โค้ดตัวอย่างสำหรับการแปลง csv เป็น markdown Python ใช้โค้ดตัวอย่าง API สำหรับไฟล์ batch csv เพื่อแปลง markdown ภายในแอปพลิเคชัน Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

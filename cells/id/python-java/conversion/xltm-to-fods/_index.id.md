@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan XLTM ke FODS melalui Python
-url: /id/python-java/conversion/xltm-to-fods/
+
 description: Contoh kode untuk konversi xltm ke fods Python. Gunakan API kode contoh untuk file batch xltm ke konversi makanan dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

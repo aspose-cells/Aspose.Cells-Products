@@ -1,7 +1,7 @@
-﻿---
+---
 title: Lås upp ODS-dokument via Java 
 weight: 5080
-url: /sv/java/unlock/ods/ 
+
 description: Java exempelkod för att låsa upp lösenordsskyddad ODS-fil i Java Runtime Environment för JSP/JSF Application och Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

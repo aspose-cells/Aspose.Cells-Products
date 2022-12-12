@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل SXC إلى CSV عبر Java 
-url: /ar/java/conversion/sxc-to-csv/ 
+
 description: نموذج رمز تحويل Java لتنسيق SXC إلى ملف CSV. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى CSV داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

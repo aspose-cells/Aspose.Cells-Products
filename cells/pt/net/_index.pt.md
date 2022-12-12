@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET Excel API | Processar Formatos de Planilha via .NET Core 
 weight: 2030
-url: /pt/net/ 
+
 description: Biblioteca C# ASP.NET VB.NET para trabalhar com documentos do Microsoft Excel. Criar ler escrever salvar e imprimir arquivos de planilha. Converta para PDF ou mais formatos
 ---
 {{< blocks/products/pf/main-wrap-class >}}

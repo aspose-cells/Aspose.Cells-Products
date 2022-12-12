@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir CSV en XPS via C#
-url: /fr/net/conversion/csv-to-xps/
+
 description: Exemple de code pour la conversion csv vers xps C#. Utilisez l'exemple de code API pour la conversion de fichiers csv par lots en xps dans VB.NET, Asp.NET ou toute application basée sur .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

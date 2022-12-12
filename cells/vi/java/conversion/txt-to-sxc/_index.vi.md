@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi TXT sang SXC qua Java 
-url: /vi/java/conversion/txt-to-sxc/ 
+
 description: Mã chuyển đổi Java mẫu cho định dạng TXT thành tệp SXC. Lập trình viên có thể sử dụng mã ví dụ này để xuất bảng tính Excel & OpenOffice sang SXC trong bất kỳ Ứng dụng dựa trên Web hoặc Máy tính để bàn nào Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

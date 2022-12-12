@@ -1,6 +1,6 @@
-﻿---
+---
 title: FODS über Java in SXC umwandeln 
-url: /de/java/conversion/fods-to-sxc/ 
+
 description: Beispiel-Umwandlungscode Java für das FODS-Format in eine SXC-Datei. Programmierer können diesen Beispielcode verwenden, um Excel- und OpenOffice-Tabellen innerhalb jeder Web- oder Desktop-Java-basierten Anwendung nach SXC zu exportieren.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

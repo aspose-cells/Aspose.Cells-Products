@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Az XLT konvertálása TAB-raDELIMITED a következőn keresztül: C#"
-url: /hu/net/conversion/xlt-to-tabdelimited/
+
 description: Mintakód az xlt tabulátorral tagolt C# konverzióhoz. Használjon API példakódot kötegelt xlt fájlokhoz a tabulátorral tagolt konverzióhoz VB.NET, Asp.NET vagy bármely .NET alapú alkalmazásban.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

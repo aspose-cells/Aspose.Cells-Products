@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to XLSX via Java 
-url: /java/conversion/excel-to-xlsx/
+
 description: Convert EXCEL to XLSX format in Java code. Save EXCEL as XLSX using Java.
 ---
 

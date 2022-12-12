@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 Python 創建面積圖
-url: /zh-hant/python-java/create-area-chart/
+
 description: Python 使用 Python 庫將面積圖創建到 Excel 的示例代碼。使用此代碼在基於 Python 的應用程序中為 MS Excel 創建面積圖。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

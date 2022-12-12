@@ -1,6 +1,6 @@
-﻿---
+---
 title: دمج ملفات XLSM عبر C++ 
-url: /ar/cpp/merger/xlsm/ 
+
 description: C++ مثال على رمز لدمج مستندات XLSM في C++ Runtime Environment لأنظمة التشغيل Windows 32 بت و Windows 64 بت و Linux 64 بت.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

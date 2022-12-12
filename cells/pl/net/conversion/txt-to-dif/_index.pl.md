@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj TXT na DIF przez C#
-url: /pl/net/conversion/txt-to-dif/
+
 description: Przykładowy kod konwersji txt do różnic C#. Użyj przykładowego kodu API dla plików wsadowych txt do konwersji różnic w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

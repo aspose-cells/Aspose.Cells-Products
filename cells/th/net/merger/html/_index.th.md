@@ -1,7 +1,7 @@
-﻿---
+---
 title: รวมไฟล์ HTML ผ่าน .NET 
 weight: 9440
-url: /th/net/merger/html/ 
+
 description: C# ซอร์สโค้ดเพื่อรวมเอกสาร HTML ใน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

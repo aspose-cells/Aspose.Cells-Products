@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to JPEG via Java 
-url: /java/conversion/json-to-jpeg/
+
 description: Convert JSON to JPEG format in Java code. Save JSON as JPEG using Java.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan FODS ke XLSB melalui Java 
-url: /id/java/conversion/fods-to-xlsb/ 
+
 description: Contoh Java kode konversi untuk format FODS ke file XLSB. Pemrogram dapat menggunakan kode contoh ini untuk mengekspor spreadsheet Excel & OpenOffice ke XLSB dalam Aplikasi berbasis Java Web atau Desktop apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

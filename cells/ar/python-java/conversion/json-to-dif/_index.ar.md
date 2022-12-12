@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل JSON إلى DIF عبر Python
-url: /ar/python-java/conversion/json-to-dif/
+
 description: نموذج رمز لتحويل json إلى Python. استخدم API مثال الكود لملفات json الدفعية لتحويل ديف داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

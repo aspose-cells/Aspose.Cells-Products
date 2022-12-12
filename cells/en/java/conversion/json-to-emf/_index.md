@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to EMF via Java 
-url: /java/conversion/json-to-emf/
+
 description: Convert JSON to EMF format in Java code. Save JSON as EMF using Java.
 ---
 

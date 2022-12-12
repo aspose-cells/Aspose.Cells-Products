@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してODSをJPGに変換します
-url: /ja/python-java/conversion/ods-to-jpg/
+
 description: odsからjpgPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチodsファイルからjpgへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

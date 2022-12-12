@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLSX konvertálása DOCX-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/xlsx-to-docx/
+
 description: Mintakód az xlsx–docx Python konverzióhoz. Használjon API példakódot a kötegelt xlsx fájlok docx konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj XLSM na MARKDOWN za pomocą Python
-url: /pl/python-java/conversion/xlsm-to-markdown/
+
 description: Przykładowy kod konwersji xlsm na przecenę Python. Użyj przykładowego kodu API dla wsadowych plików xlsm do konwersji przecen w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Tạo tệp MS Excel XLT qua C++ 
-url: /vi/cpp/create-xlt/ 
+
 description: C++ Mã mẫu để tạo tệp MS Excel XLT. Sử dụng mã này để tạo tệp MS Excel XLT trong ứng dụng dựa trên C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Hozzon létre MS Excel XLTX fájlokat a következőn keresztül: C++ "
-url: /hu/cpp/create-xltx/ 
+
 description: C++ Mintakód MS Excel XLTX fájlok generálásához. Ezzel a kóddal MS Excel XLTX fájlokat hozhat létre C++ alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

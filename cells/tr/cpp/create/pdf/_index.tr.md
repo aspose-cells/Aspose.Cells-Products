@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++ aracılığıyla PDF Dosyaları Oluşturun 
-url: /tr/cpp/create-pdf/ 
+
 description: C++ PDF dosyaları oluşturmak için örnek kod. C++ tabanlı uygulamada PDF dosyaları oluşturmak için bu kodu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

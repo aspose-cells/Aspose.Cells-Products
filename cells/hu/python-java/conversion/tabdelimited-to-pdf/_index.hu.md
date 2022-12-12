@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TABDELIMITED konvertálása PDF-be a következőn keresztül: Python"
-url: /hu/python-java/conversion/tabdelimited-to-pdf/
+
 description: Mintakód a tabulátorral határolt pdf Python átalakításhoz. Használjon API példakódot a tabulátorral határolt fájlok kötegelt pdf-té konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

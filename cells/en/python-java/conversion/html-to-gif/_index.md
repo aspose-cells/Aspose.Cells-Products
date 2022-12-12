@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to GIF via Python
-url: /python-java/conversion/html-to-gif/
+
 description: Convert HTML to GIF format in Python code. Save HTML as GIF using Python.
 ---
 

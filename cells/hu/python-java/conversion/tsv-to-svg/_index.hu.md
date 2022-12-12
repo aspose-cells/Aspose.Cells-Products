@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TSV konvertálása SVG-vé a következőn keresztül: Python"
-url: /hu/python-java/conversion/tsv-to-svg/
+
 description: Mintakód a tsv–svg Python konverzióhoz. Használjon API példakódot a tsv fájlok kötegelt SVG konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

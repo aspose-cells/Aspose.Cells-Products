@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++アプリケーションを介してTXTをODSに変換する 
-url: /ja/cpp/conversion/txt-to-ods/ 
+
 description: TXTドキュメントからODS形式へのサンプルC++変換コード。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でTXTからODSへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

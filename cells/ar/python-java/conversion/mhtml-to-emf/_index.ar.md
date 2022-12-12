@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل MHTML إلى EMF عبر Python
-url: /ar/python-java/conversion/mhtml-to-emf/
+
 description: نموذج رمز للتحويل من mhtml إلى emf Python. استخدم API رمز المثال لملفات mhtml الدفعية لتحويل emf داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

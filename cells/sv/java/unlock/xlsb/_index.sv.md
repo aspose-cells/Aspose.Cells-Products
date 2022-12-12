@@ -1,7 +1,7 @@
-﻿---
+---
 title: Lås upp XLSB-dokument via Java 
 weight: 5860
-url: /sv/java/unlock/xlsb/ 
+
 description: Java exempelkod för att låsa upp lösenordsskyddad XLSB-fil i Java Runtime Environment för JSP/JSF Application och Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل XLSX إلى XLS عبر Java 
 weight: 6280
-url: /ar/java/conversion/xlsx-to-xls/ 
+
 description: نموذج رمز تحويل Java لتنسيق XLSX إلى ملف XLS. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى XLS داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

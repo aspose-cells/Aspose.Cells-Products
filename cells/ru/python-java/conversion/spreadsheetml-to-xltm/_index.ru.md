@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование SPREADSHETML в XLTM через Python
-url: /ru/python-java/conversion/spreadsheetml-to-xltm/
+
 description: Пример кода для преобразования электронной таблицыml в xltm Python. Используйте пример кода API для пакетного преобразования файлов электронной таблицыml в xltm в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

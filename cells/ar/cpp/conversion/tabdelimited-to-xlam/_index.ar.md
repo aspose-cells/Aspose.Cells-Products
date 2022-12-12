@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TABDELIMITED إلى XLAM عبر تطبيق C++ 
-url: /ar/cpp/conversion/tabdelimited-to-xlam/ 
+
 description: نموذج رمز تحويل C++ لمستند TABDELIMITED إلى تنسيق XLAM. يمكن للمبرمجين استخدام رمز المصدر هذا للتحويل الدفعي من TABDELIMITED إلى XLAM داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

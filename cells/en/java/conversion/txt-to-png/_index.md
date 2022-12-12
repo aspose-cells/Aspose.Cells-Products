@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to PNG via Java 
-url: /java/conversion/txt-to-png/
+
 description: Convert TXT to PNG format in Java code. Save TXT as PNG using Java.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to MARKDOWN via C#
-url: /net/conversion/fods-to-markdown/
+
 description: Convert FODS to MARKDOWN format in C# code. Save FODS as MARKDOWN using VB.NET, Asp.NET or any .NET based application.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή XLSM σε MD μέσω Java 
-url: /el/java/conversion/xlsm-to-md/ 
+
 description: Δείγμα κώδικα μετατροπής Java για μορφή XLSM σε αρχείο MD. Οι προγραμματιστές μπορούν να χρησιμοποιήσουν αυτό το παράδειγμα κώδικα για να εξάγουν υπολογιστικά φύλλα Excel και OpenOffice σε MD σε οποιαδήποτε εφαρμογή που βασίζεται στον Ιστό ή στην επιφάνεια εργασίας Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

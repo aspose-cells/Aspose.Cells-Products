@@ -1,7 +1,7 @@
-﻿---
+---
 title: एक्सएलएसबी फाइलों को Java के माध्यम से विभाजित करें 
 weight: 7880
-url: /hi/java/splitter/xlsb/ 
+
 description: Java XLSB दस्तावेज़ों को विभाजित करने के लिए नमूना कोड Java JSP/JSF अनुप्रयोग और डेस्कटॉप अनुप्रयोगों के लिए रनटाइम परिवेश।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

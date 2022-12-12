@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to MHTML via C++
-url: /cpp/conversion/spreadsheetml-to-mhtml/
+
 description: Convert SPREADSHEETML to MHTML format in C++ code. Save SPREADSHEETML as MHTML using C++.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést ODS na XLTX přes Python
-url: /cs/python-java/conversion/ods-to-xltx/
+
 description: Ukázkový kód pro převod z ods na xltx Python. Použijte API ukázkový kód pro dávkový převod souborů ods na xltx v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera SPREADSHEETML till TABDELIMITED via Python
-url: /sv/python-java/conversion/spreadsheetml-to-tabdelimited/
+
 description: Exempelkod för konvertering från kalkylarkml till tabbavgränsad Python. Använd API exempelkod för batch-kalkylarkml-filer till tabbavgränsad konvertering inom Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

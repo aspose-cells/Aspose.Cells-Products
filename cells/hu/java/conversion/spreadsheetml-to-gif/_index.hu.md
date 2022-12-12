@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SPREADSHEETML konvertálása GIF formátumba a következőn keresztül: Java "
-url: /hu/java/conversion/spreadsheetml-to-gif/ 
+
 description: Minta Java konverziós kód a SPREADSHEETML formátumhoz GIF-fájllá. A programozók ezt a példakódot használhatják Excel és OpenOffice táblázatok exportálására GIF formátumba bármely web- vagy asztali Java alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

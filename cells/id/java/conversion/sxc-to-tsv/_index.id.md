@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan SXC ke TSV melalui Java 
-url: /id/java/conversion/sxc-to-tsv/ 
+
 description: Contoh Java kode konversi untuk format SXC ke file TSV. Pemrogram dapat menggunakan kode contoh ini untuk mengekspor spreadsheet Excel & OpenOffice ke TSV dalam Aplikasi berbasis Java Web atau Desktop apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

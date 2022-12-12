@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan XLS ke XLSM melalui Python
-url: /id/python-java/conversion/xls-to-xlsm/
+
 description: Contoh kode untuk xls ke xlsm Python konversi. Gunakan API kode contoh untuk file batch xls ke konversi xlsm dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

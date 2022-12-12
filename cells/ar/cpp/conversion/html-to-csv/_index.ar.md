@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل HTML إلى CSV عبر تطبيق C++ 
 weight: 6850
-url: /ar/cpp/conversion/html-to-csv/ 
+
 description: نموذج C++ رمز التحويل لمستند HTML إلى تنسيق CSV. يمكن للمبرمجين استخدام رمز المصدر هذا لتحويل دفعة HTML إلى CSV داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

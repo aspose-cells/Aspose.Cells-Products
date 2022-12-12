@@ -1,6 +1,6 @@
-﻿---
+---
 title: "NUMBERS konvertálása SXC-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/numbers-to-sxc/
+
 description: Mintakód számok sxc Python konverziójához. Használjon API példakódot a kötegszámfájlok sxc konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

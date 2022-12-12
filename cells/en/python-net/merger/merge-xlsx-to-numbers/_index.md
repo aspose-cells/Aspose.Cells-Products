@@ -1,6 +1,6 @@
 ---
 title: Merge XLSX to NUMBERS Files via Python 
-url: /python-net/merger/merge-xlsx-to-numbers/ 
+
 description: Merge XLSX to NUMBERS file in Python code. Combine XLSX to NUMBERS file using Python.
 ---
 

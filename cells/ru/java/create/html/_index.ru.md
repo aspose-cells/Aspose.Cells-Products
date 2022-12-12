@@ -1,6 +1,6 @@
-﻿---
+---
 title: Создание файлов HTML с помощью Java 
-url: /ru/java/create-html/ 
+
 description: Java Пример кода для создания HTML-документов. Используйте этот код для создания файлов HTML в настольном или веб-приложении на основе Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

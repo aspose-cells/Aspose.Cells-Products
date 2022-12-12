@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer XLT naar HTML via Java 
 weight: 2250
-url: /nl/java/conversion/xlt-to-html/ 
+
 description: Voorbeeld Java conversiecode voor XLT-indeling naar HTML-bestand. Programmeurs kunnen deze voorbeeldcode gebruiken om Excel- en OpenOffice-spreadsheets naar HTML te exporteren binnen elke web- of desktoptoepassing Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

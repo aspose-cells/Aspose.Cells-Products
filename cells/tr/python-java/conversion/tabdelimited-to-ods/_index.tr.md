@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla TABDELIMITED'i ODS'ye dönüştürün
-url: /tr/python-java/conversion/tabdelimited-to-ods/
+
 description: Sekmeyle sınırlandırılmış ods Python dönüşümü için örnek kod. Python uygulamasında toplu sekmeyle ayrılmış dosyalardan ods'ye dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

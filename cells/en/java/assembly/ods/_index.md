@@ -1,7 +1,7 @@
 ---
 title: Generate Reports in ODS Files via Java 
 weight: 2440
-url: /java/assembly/ods/ 
+
 description: Java sample code to create ODS format reports on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: ค้นหาเอกสาร CSV โดยไม่ต้องเปิดผ่าน Java 
 weight: 390
-url: /th/java/search/csv/ 
+
 description: Java โค้ดตัวอย่างเพื่อค้นหาคำที่มีรูปแบบในไฟล์ CSV บน Java Runtime Environment สำหรับแอปพลิเคชัน JSP/JSF และแอปพลิเคชันเดสก์ท็อป
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

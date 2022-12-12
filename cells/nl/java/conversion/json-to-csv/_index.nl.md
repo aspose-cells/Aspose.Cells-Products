@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer JSON naar CSV via Java 
 weight: 3440
-url: /nl/java/conversion/json-to-csv/ 
+
 description: Voorbeeld Java conversiecode voor JSON-indeling naar CSV-bestand. Programmeurs kunnen deze voorbeeldcode gebruiken om Excel- en OpenOffice-spreadsheets naar CSV te exporteren binnen elke web- of desktoptoepassing Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

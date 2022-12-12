@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してMHTMLをJPEGに変換します 
 weight: 3580
-url: /ja/java/conversion/mhtml-to-jpeg/ 
+
 description: MHTML形式からJPEGファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、任意のWebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをJPEGにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

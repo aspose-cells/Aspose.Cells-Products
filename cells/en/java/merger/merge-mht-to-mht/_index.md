@@ -1,6 +1,6 @@
 ---
 title: Merge MHT to MHT Files via Java 
-url: /java/merger/merge-mht-to-mht/ 
+
 description: Merge MHT to MHT file in Java code. Combine MHT to MHT file using Java based desktop or web application.
 ---
 

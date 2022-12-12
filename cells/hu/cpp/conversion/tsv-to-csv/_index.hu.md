@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertálja a TSV-t CSV-vé a C++ alkalmazáson keresztül 
 weight: 9820
-url: /hu/cpp/conversion/tsv-to-csv/ 
+
 description: Minta C++ konverziós kód a TSV-dokumentumhoz CSV-formátumba. A programozók ezt a forráskódot használhatják kötegelt TSV-ből CSV-vé konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

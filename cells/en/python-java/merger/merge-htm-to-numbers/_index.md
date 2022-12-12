@@ -1,6 +1,6 @@
 ---
 title: Merge HTM to NUMBERS Files via Python 
-url: /python-java/merger/merge-htm-to-numbers/ 
+
 description: Merge HTM to NUMBERS file in Python code. Combine HTM to NUMBERS file using Python.
 ---
 

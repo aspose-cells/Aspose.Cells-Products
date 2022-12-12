@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte XLSM na PNG pomocí aplikace C++ 
-url: /cs/cpp/conversion/xlsm-to-png/ 
+
 description: Ukázka převodního kódu C++ pro dokument XLSM na formát PNG. Programátoři mohou použít tento zdrojový kód pro dávkový převod XLSM na PNG v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

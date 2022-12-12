@@ -1,6 +1,6 @@
 ---
 title: Convert XLSM to JPEG via C#
-url: /net/conversion/xlsm-to-jpeg/
+
 description: Convert XLSM to JPEG format in C# code. Save XLSM as JPEG using VB.NET, Asp.NET or any .NET based application.
 ---
 

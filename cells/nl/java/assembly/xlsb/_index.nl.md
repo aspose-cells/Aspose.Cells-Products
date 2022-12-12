@@ -1,7 +1,7 @@
-﻿---
+---
 title: Genereer rapporten in XLSB-bestanden via Java 
 weight: 3560
-url: /nl/java/assembly/xlsb/ 
+
 description: Java voorbeeldcode om rapporten in XLSB-indeling te maken op Java Runtime Environment voor JSP/JSF-applicaties en desktopapplicaties.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

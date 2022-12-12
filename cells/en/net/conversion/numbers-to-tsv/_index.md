@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to TSV via C#
-url: /net/conversion/numbers-to-tsv/
+
 description: Convert NUMBERS to TSV format in C# code. Save NUMBERS as TSV using VB.NET, Asp.NET or any .NET based application.
 ---
 

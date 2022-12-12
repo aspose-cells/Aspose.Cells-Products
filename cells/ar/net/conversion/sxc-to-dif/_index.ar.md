@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل SXC إلى DIF عبر C#
-url: /ar/net/conversion/sxc-to-dif/
+
 description: نموذج كود للتحويل من نوع sxc إلى ديف C#. استخدم API مثال الكود لملفات sxc المجمعة لتغيير التحويل داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

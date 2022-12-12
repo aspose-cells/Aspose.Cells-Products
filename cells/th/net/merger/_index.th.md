@@ -1,6 +1,6 @@
-﻿---
+---
 title: การรวมไฟล์ Excel API .NET C#
-url: /th/net/merger/
+
 description: เชื่อมไฟล์สเปรดชีต Excel และ OpenOffice ด้วยโค้ด C# เพียงไม่กี่บรรทัด
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

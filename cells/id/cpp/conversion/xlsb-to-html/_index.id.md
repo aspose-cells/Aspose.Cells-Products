@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversi XLSB ke HTML melalui C++ aplikasi 
 weight: 7540
-url: /id/cpp/conversion/xlsb-to-html/ 
+
 description: Contoh C++ kode konversi untuk dokumen XLSB ke format HTML. Pemrogram dapat menggunakan kode sumber ini untuk konversi batch XLSB ke HTML dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

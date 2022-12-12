@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter NUMBERS para JSON via Java 
-url: /pt/java/conversion/numbers-to-json/ 
+
 description: Exemplo de código de conversão Java do formato NUMBERS para arquivo JSON. Os programadores podem usar este código de exemplo para exportar planilhas do Excel e OpenOffice para JSON em qualquer aplicativo baseado na Web ou Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

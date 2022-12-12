@@ -1,7 +1,7 @@
-﻿---
+---
 title: دمج ملفات XLTM عبر .NET 
 weight: 9010
-url: /ar/net/merger/xltm/ 
+
 description: C# شفرة المصدر لدمج مستندات XLTM في .NET Framework أو .NET Core أو Mono أو أنظمة Xamarin الأساسية.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

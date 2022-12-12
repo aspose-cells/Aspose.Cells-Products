@@ -1,6 +1,6 @@
-﻿---
+---
 title: XLSX को Python के माध्यम से MD में बदलें
-url: /hi/python-java/conversion/xlsx-to-md/
+
 description: xlsx से md Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर xlsx फ़ाइलों को md रूपांतरण में बैच के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

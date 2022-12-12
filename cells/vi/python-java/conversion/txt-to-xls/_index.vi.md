@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi TXT sang XLS qua Python
-url: /vi/python-java/conversion/txt-to-xls/
+
 description: Mã mẫu cho chuyển đổi txt sang xls Python. Sử dụng mã mẫu API cho chuyển đổi hàng loạt tệp txt sang xls trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

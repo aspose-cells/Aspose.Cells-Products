@@ -1,6 +1,6 @@
 ---
 title: Convert XLSM to JPEG via Python
-url: /python-java/conversion/xlsm-to-jpeg/
+
 description: Convert XLSM to JPEG format in Python code. Save XLSM as JPEG using Python.
 ---
 

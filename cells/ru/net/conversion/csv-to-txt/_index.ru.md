@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование CSV в TXT через C#
-url: /ru/net/conversion/csv-to-txt/
+
 description: Пример кода для преобразования csv в txt C#. Используйте пример кода API для пакетного преобразования CSV-файлов в txt в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Vložit komentáře do Excelu přes .NET
-url: /cs/net/comment/
+
 description: C# zdrojové kódy, které umožňují vložit komentář do souborů Microsoft Excel pomocí knihovny .NET. 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

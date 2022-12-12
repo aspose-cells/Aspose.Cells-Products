@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 Python 將 CSV 轉換為 PDF
-url: /zh-hant/python-java/conversion/csv-to-pdf/
+
 description: csv 到 pdf Python 轉換的示例代碼。在 Python 應用程序中使用 API 示例代碼將 csv 文件批量轉換為 pdf。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

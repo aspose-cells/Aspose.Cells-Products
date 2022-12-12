@@ -1,7 +1,7 @@
-﻿---
+---
 title: البحث عن نص واستبداله في مستند XLSB عبر .NET 
 weight: 3890
-url: /ar/net/redaction/xlsb/ 
+
 description: C# شفرة المصدر لتنقيح المعلومات الحساسة في ملف XLSB على .NET Framework أو .NET Core أو Mono أو أنظمة Xamarin الأساسية.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

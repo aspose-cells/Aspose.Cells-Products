@@ -1,7 +1,7 @@
-﻿---
+---
 title: دمج ملفات XLSM عبر Java 
 weight: 1270
-url: /ar/java/merger/xlsm/ 
+
 description: Java نموذج كود لدمج مستندات XLSM في Java Runtime Environment لتطبيق JSP / JSF وتطبيقات سطح المكتب.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

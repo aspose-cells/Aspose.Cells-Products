@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést XLSB na JSON přes Java 
 weight: 9970
-url: /cs/java/conversion/xlsb-to-json/ 
+
 description: Ukázkový konverzní kód Java pro formát XLSB na soubor JSON. Programátoři mohou tento příklad kódu použít k exportu tabulek Excelu a OpenOffice do formátu JSON v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

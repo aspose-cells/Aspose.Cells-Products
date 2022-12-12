@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to GIF via C#
-url: /net/conversion/tabdelimited-to-gif/
+
 description: Convert TABDELIMITED to GIF format in C# code. Save TABDELIMITED as GIF using VB.NET, Asp.NET or any .NET based application.
 ---
 

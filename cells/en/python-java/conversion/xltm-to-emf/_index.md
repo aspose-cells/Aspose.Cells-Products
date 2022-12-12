@@ -1,6 +1,6 @@
 ---
 title: Convert XLTM to EMF via Python
-url: /python-java/conversion/xltm-to-emf/
+
 description: Convert XLTM to EMF format in Python code. Save XLTM as EMF using Python.
 ---
 

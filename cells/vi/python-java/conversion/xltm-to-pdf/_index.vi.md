@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển XLTM sang PDF qua Python
-url: /vi/python-java/conversion/xltm-to-pdf/
+
 description: Mã mẫu để chuyển đổi xltm sang pdf Python. Sử dụng mã mẫu API cho chuyển đổi hàng loạt tệp xltm sang pdf trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

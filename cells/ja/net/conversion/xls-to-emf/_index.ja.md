@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してXLSをEMFに変換する
-url: /ja/net/conversion/xls-to-emf/
+
 description: xlsからemfC#への変換のサンプルコード。バッチxlsファイルのAPIサンプルコードを使用して、VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内で変換をemfします。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

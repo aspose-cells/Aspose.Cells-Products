@@ -1,7 +1,7 @@
-﻿---
+---
 title: Просмотр форматов файлов XLSX через .NET 
 weight: 2180
-url: /ru/net/viewer/xlsx/ 
+
 description: Исходный код C# для загрузки, рендеринга и отображения документов XLSX на платформах .NET Framework, .NET Core, Mono или Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi TSV sang JSON qua Python
-url: /vi/python-java/conversion/tsv-to-json/
+
 description: Mã mẫu cho chuyển đổi tsv sang json Python. Sử dụng mã mẫu API cho hàng loạt tệp tsv sang chuyển đổi json trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

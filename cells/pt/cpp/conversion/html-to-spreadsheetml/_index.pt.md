@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter HTML em SPREADSHEETML por meio do aplicativo C++ 
-url: /pt/cpp/conversion/html-to-spreadsheetml/ 
+
 description: Exemplo de código de conversão C++ de documento HTML para o formato SPREADSHEETML. Os programadores podem usar esse código-fonte para conversão de HTML em lote para SPREADSHEETML em qualquer aplicativo C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

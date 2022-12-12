@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversi XLS ke HTML melalui C++ aplikasi 
 weight: 2680
-url: /id/cpp/conversion/xls-to-html/ 
+
 description: Contoh C++ kode konversi untuk dokumen XLS ke format HTML. Pemrogram dapat menggunakan kode sumber ini untuk konversi batch XLS ke HTML dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

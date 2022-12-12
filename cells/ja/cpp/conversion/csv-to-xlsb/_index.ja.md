@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++アプリケーションを介してCSVをXLSBに変換する 
 weight: 9780
-url: /ja/cpp/conversion/csv-to-xlsb/ 
+
 description: CSVドキュメントのサンプルC++変換コードからXLSB形式へ。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でCSVからXLSBへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

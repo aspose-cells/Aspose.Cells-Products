@@ -1,7 +1,7 @@
 ---
 title: Protect and lock XLS document via .NET 
 weight: 7010
-url: /net/protect/xls/ 
+
 description: C# source code to lock XLS file using password on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

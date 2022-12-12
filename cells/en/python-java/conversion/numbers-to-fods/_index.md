@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to FODS via Python
-url: /python-java/conversion/numbers-to-fods/
+
 description: Convert NUMBERS to FODS format in Python code. Save NUMBERS as FODS using Python.
 ---
 

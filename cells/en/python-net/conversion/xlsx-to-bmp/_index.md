@@ -1,6 +1,6 @@
 ---
 title: Convert XLSX to BMP via Python
-url: /python-net/conversion/xlsx-to-bmp/
+
 description: Sample code for xlsx to bmp Python conversion. Use API example code for batch xlsx files to bmp conversion within Python application.
 ---
 

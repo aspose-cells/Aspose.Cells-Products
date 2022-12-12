@@ -1,7 +1,7 @@
-﻿---
+---
 title: C#을 통해 XLTX를 바이트 배열로 변환 
 weight: 7690
-url: /ko/net/conversion/xltx-to-byte-array/ 
+
 description: C# XLTX에서 바이트 배열로의 변환을 위한 샘플 코드입니다. VB.NET, Asp.NET 또는 .NET 기반 애플리케이션 내에서 Excel XLTX에서 바이트 배열로 변환하려면 이 코드를 사용하십시오.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

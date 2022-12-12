@@ -1,6 +1,6 @@
-﻿---
+---
 title: قم بتحويل XLSX إلى XLAM عبر تطبيق C++ 
-url: /ar/cpp/conversion/xlsx-to-xlam/ 
+
 description: نموذج C++ رمز تحويل لمستند XLSX إلى تنسيق XLAM. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل XLSX إلى XLAM دفعة داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

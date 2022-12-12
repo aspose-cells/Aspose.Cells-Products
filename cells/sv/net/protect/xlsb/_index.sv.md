@@ -1,7 +1,7 @@
-﻿---
+---
 title: Skydda och lås XLSB-dokument via .NET 
 weight: 5920
-url: /sv/net/protect/xlsb/ 
+
 description: C# källkod för att låsa XLSB-fil med lösenord på .NET Framework, .NET Core, Mono eller Xamarin-plattformar.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

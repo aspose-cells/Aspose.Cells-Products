@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertieren Sie XLSX in PDF/A-kompilierte Dateien über Java 
 weight: 3200
-url: /de/java/conversion/xlsx-to-pdf-a/ 
+
 description: Beispiel-Konvertierungscode Java für das XLSX-Format in kompilierte PDF-A-Dateien. Programmierer können diesen Beispielcode verwenden, um Excel- und OpenOffice-Kalkulationstabellen in PDFA-kompilierte Dateien in jeder Web- oder Desktop-Java-basierten Anwendung zu exportieren.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

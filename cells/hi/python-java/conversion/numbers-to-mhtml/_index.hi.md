@@ -1,6 +1,6 @@
-﻿---
+---
 title: NUMBERS को Python के द्वारा MHTML में बदलें
-url: /hi/python-java/conversion/numbers-to-mhtml/
+
 description: संख्याओं के लिए नमूना कोड mhtml Python रूपांतरण के लिए। Python एप्लिकेशन के भीतर बैच संख्या फ़ाइलों को mhtml रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

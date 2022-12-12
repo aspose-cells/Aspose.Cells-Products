@@ -1,7 +1,7 @@
-﻿---
+---
 title: Gabungkan File XLTX melalui .NET 
 weight: 1220
-url: /id/net/merger/xltx/ 
+
 description: C# kode sumber untuk menggabungkan dokumen XLTX pada .NET Framework, .NET Core, Mono atau Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

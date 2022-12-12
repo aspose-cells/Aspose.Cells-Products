@@ -1,7 +1,7 @@
-﻿---
+---
 title: Εφαρμογή μετατροπής υπολογιστικών φύλλων του SharePoint Excel - Aspose 
 weight: 940
-url: /el/sharepoint/ 
+
 description: Το Aspose.Cells για την εφαρμογή SharePoint είναι ένας μετατροπέας υπολογιστικών φύλλων του SharePoint Excel. Εξαγωγή XLS XLSX XML CSV PDF ODS &amp; Μορφές HTML στο MOSS WSS
 ---
 {{< blocks/products/pf/main-wrap-class >}}

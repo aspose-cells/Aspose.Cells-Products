@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLTM в MARKDOWN через C#
-url: /ru/net/conversion/xltm-to-markdown/
+
 description: Пример кода для преобразования xltm в markdown C#. Используйте пример кода API для пакетной обработки файлов xltm для преобразования уценки в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

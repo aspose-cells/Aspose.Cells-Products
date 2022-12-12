@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to GIF via Java 
-url: /java/conversion/sxc-to-gif/
+
 description: Convert SXC to GIF format in Java code. Save SXC as GIF using Java.
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NETを介してXLSMファイルをマージします 
 weight: 660
-url: /ja/net/merger/xlsm/ 
+
 description: .NETフレームワーク、.NETコア、Mono、またはXamarinプラットフォームでXLSMドキュメントを組み合わせるためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

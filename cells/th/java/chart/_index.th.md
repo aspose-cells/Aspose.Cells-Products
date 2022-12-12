@@ -1,6 +1,6 @@
-﻿---
+---
 title: สร้างแผนภูมิ Excel และแปลงเป็นรูปภาพผ่าน Java
-url: /th/java/chart/
+
 description: Java ซอร์สโค้ดสำหรับวาดและแปลงแผนภูมิหรือไดอะแกรมใน Microsoft Excel โดยใช้ Java Library 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

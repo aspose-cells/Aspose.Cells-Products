@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to DIF via C#
-url: /net/conversion/xlsb-to-dif/
+
 description: Convert XLSB to DIF format in C# code. Save XLSB as DIF using VB.NET, Asp.NET or any .NET based application.
 ---
 

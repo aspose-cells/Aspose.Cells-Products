@@ -1,6 +1,6 @@
-﻿---
+---
 title: Kelola Metadata Berkas Excel melalui .NET C#
-url: /id/net/metadata/
+
 description: Lihat, tambah, edit, hapus, atau ekstrak metadata file Excel hanya dengan beberapa baris C# kode
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

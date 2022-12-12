@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLT na TIFF přes Python
-url: /cs/python-java/conversion/xlt-to-tiff/
+
 description: Ukázkový kód pro konverzi xlt na tiff Python. Použijte API ukázkový kód pro dávkové soubory xlt k převodu tiff v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

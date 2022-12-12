@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie ODS in XML über C#
-url: /de/net/conversion/ods-to-xml/
+
 description: Beispielcode für die Umwandlung von ods in xml C#. Verwenden Sie API Beispielcode für die Batch-Konvertierung von ODS-Dateien in XML innerhalb von VB.NET, Asp.NET oder einer beliebigen .NET-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

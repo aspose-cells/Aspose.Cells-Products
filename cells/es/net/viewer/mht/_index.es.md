@@ -1,6 +1,6 @@
-﻿---
+---
 title: Ver formatos de archivo MHT a través de .NET 
-url: /es/net/viewer/mht/ 
+
 description: C# código fuente para cargar, procesar y mostrar documentos MHT en .NET Framework, .NET Core, Windows Azure, Mono o Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

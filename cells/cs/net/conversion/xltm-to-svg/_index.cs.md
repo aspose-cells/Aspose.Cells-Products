@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLTM na SVG přes C#
-url: /cs/net/conversion/xltm-to-svg/
+
 description: Ukázkový kód pro převod xltm na svg C#. Použijte API ukázkový kód pro dávkový převod souborů xltm na svg v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převeďte HTML do PDF pomocí aplikace C++ 
 weight: 6400
-url: /cs/cpp/conversion/html-to-pdf/ 
+
 description: Ukázka převodního kódu C++ pro dokument HTML do formátu PDF. Programátoři mohou tento zdrojový kód použít pro dávkový převod HTML do PDF v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python के माध्यम से ODS को SVG में बदलें
-url: /hi/python-java/conversion/ods-to-svg/
+
 description: ods से svg Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर svg रूपांतरण के लिए बैच ods फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

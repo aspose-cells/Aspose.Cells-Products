@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してMHTMLファイルを作成する 
-url: /ja/java/create-mhtml/ 
+
 description: JavaMHTMLドキュメントを生成するためのサンプルコード。このコードを使用して、JavaベースのデスクトップまたはWebアプリケーション内でMHTMLファイルを作成します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

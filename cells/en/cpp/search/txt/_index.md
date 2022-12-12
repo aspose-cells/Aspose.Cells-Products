@@ -1,7 +1,7 @@
 ---
 title: Search TXT document without opening via C++ 
 weight: 5090
-url: /cpp/search/txt/ 
+
 description: C++ example code to search words with pattern in TXT file on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
 

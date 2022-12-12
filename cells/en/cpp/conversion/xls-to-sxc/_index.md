@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to SXC via C++
-url: /cpp/conversion/xls-to-sxc/
+
 description: Convert XLS to SXC format in C++ code. Save XLS as SXC using C++.
 ---
 

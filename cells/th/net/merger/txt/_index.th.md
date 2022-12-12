@@ -1,7 +1,7 @@
-﻿---
+---
 title: รวมไฟล์ TXT ผ่าน .NET 
 weight: 7350
-url: /th/net/merger/txt/ 
+
 description: C# ซอร์สโค้ดเพื่อรวมเอกสาร TXT บน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

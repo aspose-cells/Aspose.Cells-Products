@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLTX na MD přes C#
-url: /cs/net/conversion/xltx-to-md/
+
 description: Ukázkový kód pro převod xltx na md C#. Použijte API ukázkový kód pro dávkový převod souborů xltx na MD v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

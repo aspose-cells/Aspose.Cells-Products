@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してFODSをTXTに変換します 
-url: /ja/java/conversion/fods-to-txt/ 
+
 description: FODS形式からTXTファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のTXTにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

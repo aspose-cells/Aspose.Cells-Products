@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla HTML'yi DIF'ye dönüştürün
-url: /tr/net/conversion/html-to-dif/
+
 description: Html'nin farklı C# dönüşümü için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde farklı dönüştürme için toplu html dosyaları için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

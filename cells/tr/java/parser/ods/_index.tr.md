@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java aracılığıyla ODS belgesinden metin ve resim ayıklayın 
 weight: 4740
-url: /tr/java/parser/ods/ 
+
 description: JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Runtime Environment'daki ODS dosyasından metin ve resimleri çıkarmak için Java örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

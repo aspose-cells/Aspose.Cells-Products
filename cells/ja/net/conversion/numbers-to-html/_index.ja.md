@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してNUMBERSをHTMLに変換します
-url: /ja/net/conversion/numbers-to-html/
+
 description: 数値からhtmlC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチ番号ファイルからhtmlへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

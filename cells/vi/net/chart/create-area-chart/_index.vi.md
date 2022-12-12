@@ -1,6 +1,6 @@
-﻿---
+---
 title: Tạo Biểu đồ Khu vực qua C#
-url: /vi/net/create-area-chart/
+
 description: C# Mã mẫu để tạo Biểu đồ vùng sang Excel bằng .NET Thư viện. Sử dụng mã này để tạo biểu đồ Khu vực cho MS Excel trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Create Bubble Charts via Python
-url: /python-net/create-bubble-chart/
+
 description: Python Sample code for creating Bubble charts to Excel using Python Library. Use this code for creating a Bubble chart to MS Excel within Python based application.
 
 ---

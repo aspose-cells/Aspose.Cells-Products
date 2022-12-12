@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to BMP via C#
-url: /net/conversion/fods-to-bmp/
+
 description: Convert FODS to BMP format in C# code. Save FODS as BMP using VB.NET, Asp.NET or any .NET based application.
 ---
 

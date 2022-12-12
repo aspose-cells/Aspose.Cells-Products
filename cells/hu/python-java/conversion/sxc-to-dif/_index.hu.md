@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SXC konvertálása DIF-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/sxc-to-dif/
+
 description: Mintakód az sxc to dif Python konverzióhoz. Használjon API példakódot kötegelt sxc fájlokhoz a Python alkalmazáson belüli átalakításhoz.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

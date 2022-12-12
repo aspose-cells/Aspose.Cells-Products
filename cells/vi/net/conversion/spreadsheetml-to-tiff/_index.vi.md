@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi SPREADSHEETML sang TIFF qua C#
-url: /vi/net/conversion/spreadsheetml-to-tiff/
+
 description: Mã mẫu cho chuyển đổi từ bảng tínhml sang tiff C#. Sử dụng API mã ví dụ cho hàng loạt tệpml bảng tính để chuyển đổi tiff trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

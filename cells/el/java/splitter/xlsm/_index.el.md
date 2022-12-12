@@ -1,7 +1,7 @@
-﻿---
+---
 title: Διαχωρισμός αρχείων XLSM μέσω Java 
 weight: 5670
-url: /el/java/splitter/xlsm/ 
+
 description: Java δείγμα κώδικα για διαχωρισμό εγγράφων XLSM σε Java Runtime Environment για εφαρμογές JSP/JSF και εφαρμογές επιφάνειας εργασίας.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

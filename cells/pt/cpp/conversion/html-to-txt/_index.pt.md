@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter HTML para TXT por meio do aplicativo C++ 
-url: /pt/cpp/conversion/html-to-txt/ 
+
 description: Exemplo de código de conversão C++ de documento HTML para formato TXT. Os programadores podem usar esse código-fonte para conversão em lote de HTML para TXT em qualquer aplicativo C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

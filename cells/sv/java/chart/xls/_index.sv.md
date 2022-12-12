@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLS-dokumentdiagram via Java 
 weight: 1050
-url: /sv/java/chart/xls/ 
+
 description: Java exempelkod för att rita och konvertera diagram eller diagram i XLS-fil i Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

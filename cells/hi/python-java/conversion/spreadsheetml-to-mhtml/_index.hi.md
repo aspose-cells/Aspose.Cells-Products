@@ -1,6 +1,6 @@
-﻿---
+---
 title: स्प्रैडशीटएमएल को Python के माध्यम से एमएचटीएमएल में बदलें
-url: /hi/python-java/conversion/spreadsheetml-to-mhtml/
+
 description: स्प्रैडशीटएमएल से एमएचटीएमएल Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर बैच स्प्रेडशीटएमएल फाइलों से एमएचटीएमएल रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

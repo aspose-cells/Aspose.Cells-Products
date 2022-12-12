@@ -1,6 +1,6 @@
-﻿---
+---
 title: एक्सएलएस को एमएचटीएमएल में Python के माध्यम से कनवर्ट करें
-url: /hi/python-java/conversion/xls-to-mhtml/
+
 description: xls से mhtml Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर बैच xls फ़ाइलों से mhtml रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

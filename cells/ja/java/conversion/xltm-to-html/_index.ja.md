@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してXLTMをHTMLに変換します 
 weight: 2930
-url: /ja/java/conversion/xltm-to-html/ 
+
 description: XLTM形式からHTMLファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、WebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをHTMLにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

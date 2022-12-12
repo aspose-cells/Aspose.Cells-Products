@@ -1,6 +1,6 @@
-﻿---
+---
 title: Vytvářejte soubory MS Excel XLT prostřednictvím C++ 
-url: /cs/cpp/create-xlt/ 
+
 description: C++ Ukázkový kód pro generování souborů MS Excel XLT. Tento kód použijte k vytváření souborů MS Excel XLT v aplikaci založené na C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

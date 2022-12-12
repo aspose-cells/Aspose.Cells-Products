@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Hozzon létre MS Excel XLTX fájlokat a következőn keresztül: Python "
-url: /hu/python-java/create-xltx/ 
+
 description: Python Mintakód XLTX dokumentumok generálásához. Ezzel a kóddal MS Excel XLTX fájlokat hozhat létre a(z) Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

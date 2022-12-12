@@ -1,7 +1,7 @@
-﻿---
+---
 title: Просмотр форматов файлов XLT через .NET 
 weight: 3610
-url: /ru/net/viewer/xlt/ 
+
 description: Исходный код C# для загрузки, обработки и отображения документов XLT на платформах .NET Framework, .NET Core, Mono или Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

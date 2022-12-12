@@ -1,7 +1,7 @@
-﻿---
+---
 title: Suchen und ersetzen Sie Text im XLSB-Dokument über Java 
 weight: 4590
-url: /de/java/redaction/xlsb/ 
+
 description: Java Beispielcode zum Schwärzen vertraulicher Informationen in XLSB-Dateien in Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

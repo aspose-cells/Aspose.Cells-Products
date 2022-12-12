@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést JSON na XLTM přes Python
-url: /cs/python-java/conversion/json-to-xltm/
+
 description: Ukázkový kód pro převod json na xltm Python. Použijte API ukázkový kód pro dávkový převod souborů json na xltm v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してPDFファイルを作成する 
-url: /ja/python-java/create-pdf/ 
+
 description: PythonPDFドキュメントを生成するためのサンプルコード。このコードを使用して、Pythonアプリケーション内でPDFファイルを作成します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

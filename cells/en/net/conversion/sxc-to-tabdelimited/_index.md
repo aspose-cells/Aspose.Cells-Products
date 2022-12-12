@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to TABDELIMITED via C#
-url: /net/conversion/sxc-to-tabdelimited/
+
 description: Convert SXC to TABDELIMITED format in C# code. Save SXC as TABDELIMITED using VB.NET, Asp.NET or any .NET based application.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή ODS σε FODS μέσω C#
-url: /el/net/conversion/ods-to-fods/
+
 description: Δείγμα κωδικού για τη μετατροπή ods to fods C#. Χρησιμοποιήστε API παράδειγμα κώδικα για μετατροπή ομαδικών αρχείων σε τροφές εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

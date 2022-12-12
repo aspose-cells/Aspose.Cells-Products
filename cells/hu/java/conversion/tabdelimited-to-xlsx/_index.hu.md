@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TABDELIMITED konvertálása XLSX-re a következőn keresztül: Java "
-url: /hu/java/conversion/tabdelimited-to-xlsx/ 
+
 description: Minta Java konverziós kód a TABDELIMITED formátumhoz XLSX fájllá. A programozók ezt a példakódot használhatják Excel és OpenOffice táblázatok XLSX formátumba exportálására bármely web- vagy asztali Java alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést XLSB na PDF přes Java 
 weight: 4270
-url: /cs/java/conversion/xlsb-to-pdf/ 
+
 description: Ukázkový konverzní kód Java pro formát XLSB na soubor PDF. Programátoři mohou použít tento příklad kódu k exportu tabulek Excelu a OpenOffice do PDF v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Merge XLSB to MHTML Files via Python 
-url: /python-net/merger/merge-xlsb-to-mhtml/ 
+
 description: Merge XLSB to MHTML file in Python code. Combine XLSB to MHTML file using Python.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Generate Reports in ODS Files via .NET 
 weight: 520
-url: /net/assembly/ods/ 
+
 description: C# source code to generate ODS format reports on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

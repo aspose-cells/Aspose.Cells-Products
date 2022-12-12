@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή XLTM σε DIF μέσω Python
-url: /el/python-java/conversion/xltm-to-dif/
+
 description: Δείγμα κώδικα για μετατροπή xltm σε διαφορά Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία xltm για να διαφοροποιήσετε τη μετατροπή εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

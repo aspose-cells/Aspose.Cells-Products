@@ -1,6 +1,6 @@
-﻿---
+---
 title: Buat Bagan Excel dan Konversikan ke Gambar melalui Java
-url: /id/java/chart/
+
 description: Java kode sumber untuk menggambar dan mengonversi bagan atau diagram di Microsoft Excel menggunakan Java Pustaka. 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

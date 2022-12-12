@@ -1,7 +1,7 @@
-﻿---
+---
 title: แปลง XLTM เป็น XPS ผ่าน Java 
 weight: 9700
-url: /th/java/conversion/xltm-to-xps/ 
+
 description: ตัวอย่างรหัสการแปลง Java สำหรับรูปแบบ XLTM เป็นไฟล์ XPS โปรแกรมเมอร์สามารถใช้โค้ดตัวอย่างนี้เพื่อส่งออกสเปรดชีต Excel & OpenOffice ไปยัง XPS ภายในแอปพลิเคชันบนเว็บหรือเดสก์ท็อป Java
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

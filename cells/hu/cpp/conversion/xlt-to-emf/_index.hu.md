@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLT-t EMF-vé a C++ alkalmazással 
-url: /hu/cpp/conversion/xlt-to-emf/ 
+
 description: Minta C++ konverziós kód az XLT dokumentumhoz EMF formátumba. A programozók ezt a forráskódot használhatják kötegelt XLT-ből EMF konvertáláshoz bármely C++ alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

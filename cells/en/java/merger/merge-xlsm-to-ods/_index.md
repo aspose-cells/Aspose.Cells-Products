@@ -1,6 +1,6 @@
 ---
 title: Merge XLSM to ODS Files via Java 
-url: /java/merger/merge-xlsm-to-ods/ 
+
 description: Merge XLSM to ODS file in Java code. Combine XLSM to ODS file using Java based desktop or web application.
 ---
 

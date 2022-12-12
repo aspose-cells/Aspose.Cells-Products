@@ -1,7 +1,7 @@
-﻿---
+---
 title: Поиск и замена текста в документе XLS через .NET 
 weight: 7280
-url: /ru/net/redaction/xls/ 
+
 description: Исходный код C# для редактирования конфиденциальной информации в файле XLS на платформах .NET Framework, .NET Core, Mono или Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

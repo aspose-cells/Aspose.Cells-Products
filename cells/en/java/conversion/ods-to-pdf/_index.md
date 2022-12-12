@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to PDF via Java 
-url: /java/conversion/ods-to-pdf/
+
 description: Convert ODS to PDF format in Java code. Save ODS as PDF using Java.
 ---
 

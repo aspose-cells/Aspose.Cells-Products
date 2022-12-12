@@ -1,7 +1,7 @@
-﻿---
+---
 title: Thêm chú thích XLSB Tệp Excel qua C++ 
 weight: 860
-url: /vi/cpp/annotation/xlsb/ 
+
 description: C++ mã mẫu để xóa chú thích định dạng XLSB trên C++ Môi trường thời gian chạy cho Windows 32 bit, Windows 64 bit và Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

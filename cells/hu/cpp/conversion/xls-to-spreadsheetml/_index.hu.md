@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLS-t SPREADSHEETML-be a(z) C++ alkalmazással 
-url: /hu/cpp/conversion/xls-to-spreadsheetml/ 
+
 description: Minta C++ konverziós kód XLS dokumentumhoz SPREADSHEETML formátumba. A programozók ezt a forráskódot használhatják az XLS-ből SPREADSHEETML-be történő kötegelt konvertáláshoz bármely C++ alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

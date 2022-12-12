@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLSX в JSON через C#
-url: /ru/net/conversion/xlsx-to-json/
+
 description: Пример кода для преобразования xlsx в json C#. Используйте пример кода API для пакетного преобразования файлов xlsx в json в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

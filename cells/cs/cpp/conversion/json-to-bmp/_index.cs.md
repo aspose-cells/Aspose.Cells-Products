@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte JSON na BMP pomocí aplikace C++ 
-url: /cs/cpp/conversion/json-to-bmp/ 
+
 description: Ukázka převodního kódu C++ pro dokument JSON na formát BMP. Programátoři mohou tento zdrojový kód použít pro dávkový převod JSON na BMP v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

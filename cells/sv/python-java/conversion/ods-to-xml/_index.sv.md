@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera ODS till XML via Python
-url: /sv/python-java/conversion/ods-to-xml/
+
 description: Exempelkod för konvertering av ods till xml Python. Använd API exempelkod för batch-ods-filer till xml-konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

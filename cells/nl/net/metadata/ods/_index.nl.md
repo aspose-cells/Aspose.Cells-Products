@@ -1,7 +1,7 @@
-﻿---
+---
 title: Metadata van ODS-bestanden bekijken of bewerken via .NET 
 weight: 320
-url: /nl/net/metadata/ods/ 
+
 description: C# broncode om metadata in ODS-indeling te bewerken of te bekijken op .NET Framework-, .NET Core-, Mono- of Xamarin-platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

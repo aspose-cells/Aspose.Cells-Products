@@ -1,7 +1,7 @@
-﻿---
+---
 title: Преобразование ODS в XLSM с помощью приложения C++ 
 weight: 2090
-url: /ru/cpp/conversion/ods-to-xlsm/ 
+
 description: Пример кода преобразования C++ для документа ODS в формат XLSM. Программисты могут использовать этот исходный код для пакетного преобразования ODS в XLSM в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してXLSをEMFに変換する
-url: /ja/python-java/conversion/xls-to-emf/
+
 description: xlsからemfPythonへの変換のサンプルコード。 Pythonアプリケーション内でのemf変換へのバッチxlsファイルのAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Gabungkan File CSV melalui Java 
 weight: 3860
-url: /id/java/merger/csv/ 
+
 description: Java kode contoh untuk menggabungkan dokumen CSV pada Java Runtime Environment untuk Aplikasi JSP/JSF dan Aplikasi Desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

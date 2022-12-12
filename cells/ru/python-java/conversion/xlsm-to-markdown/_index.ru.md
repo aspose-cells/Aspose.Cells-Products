@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLSM в MARKDOWN с помощью Python
-url: /ru/python-java/conversion/xlsm-to-markdown/
+
 description: Пример кода для преобразования xlsm в markdown Python. Используйте пример кода API для пакетного преобразования файлов xlsm в уценку в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

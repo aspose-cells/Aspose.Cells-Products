@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLTM إلى MHTML عبر تطبيق C++ 
-url: /ar/cpp/conversion/xltm-to-mhtml/ 
+
 description: نموذج C++ رمز تحويل لمستند XLTM إلى تنسيق MHTML. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل دفعة XLTM إلى MHTML داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

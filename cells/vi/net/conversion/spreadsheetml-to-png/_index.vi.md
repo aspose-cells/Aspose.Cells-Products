@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi SPREADSHEETML sang PNG qua C#
-url: /vi/net/conversion/spreadsheetml-to-png/
+
 description: Mã mẫu cho chuyển đổi bảng tínhml sang png C#. Sử dụng API mã ví dụ cho hàng loạt tệp bảng tínhml sang chuyển đổi png trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TSV na TXT prostřednictvím C#
-url: /cs/net/conversion/tsv-to-txt/
+
 description: Ukázkový kód pro převod tsv na txt C#. Použijte API ukázkový kód pro dávkový převod souborů tsv na txt v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

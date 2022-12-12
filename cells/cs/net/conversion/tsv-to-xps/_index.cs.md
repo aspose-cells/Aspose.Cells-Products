@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TSV na XPS prostřednictvím C#
-url: /cs/net/conversion/tsv-to-xps/
+
 description: Ukázkový kód pro převod tsv na xps C#. Použijte API ukázkový kód pro dávkový převod souborů tsv na xps v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

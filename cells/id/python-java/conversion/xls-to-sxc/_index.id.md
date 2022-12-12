@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi XLS ke SXC melalui Python
-url: /id/python-java/conversion/xls-to-sxc/
+
 description: Contoh kode untuk konversi xls ke sxc Python. Gunakan API kode contoh untuk file batch xls ke konversi sxc dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

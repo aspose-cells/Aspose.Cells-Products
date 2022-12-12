@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Szöveg és képek kinyerése XLSM-dokumentumból a következőn keresztül: C++ "
 weight: 570
-url: /hu/cpp/parser/xlsm/ 
+
 description: C++ példakód szöveg és képek XLSM-fájlból való kivonásához a C++ Runtime Environment for Windows 32 bit, Windows 64 bit és Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

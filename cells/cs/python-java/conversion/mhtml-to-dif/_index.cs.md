@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést MHTML na DIF prostřednictvím Python
-url: /cs/python-java/conversion/mhtml-to-dif/
+
 description: Ukázkový kód pro konverzi mhtml na rozdíl Python. Použijte API ukázkový kód pro dávkové soubory mhtml k převodu dif v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

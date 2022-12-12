@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل MHTML إلى FODS عبر Java 
-url: /ar/java/conversion/mhtml-to-fods/ 
+
 description: نموذج لشفرة تحويل Java لتنسيق MHTML إلى ملف FODS. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى FODS داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

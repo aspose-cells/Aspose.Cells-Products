@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java से खोले बिना CSV दस्तावेज़ खोजें 
 weight: 390
-url: /hi/java/search/csv/ 
+
 description: Java जेएसपी/जेएसएफ एप्लिकेशन और डेस्कटॉप एप्लिकेशन के लिए Java रनटाइम एनवायरनमेंट पर CSV फ़ाइल में पैटर्न वाले शब्दों को खोजने के लिए नमूना कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

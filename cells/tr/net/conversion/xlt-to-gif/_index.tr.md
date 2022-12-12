@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla XLT'yi GIF'e dönüştürün
-url: /tr/net/conversion/xlt-to-gif/
+
 description: xlt'den gif'e C# dönüşümü için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde gif dönüştürme için toplu xlt dosyaları için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

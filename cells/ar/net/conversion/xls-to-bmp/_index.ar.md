@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLS إلى BMP عبر C#
-url: /ar/net/conversion/xls-to-bmp/
+
 description: نموذج كود للتحويل من xls إلى bmp C#. استخدم API رمز المثال لملفات xls الدفعية لتحويل bmp داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
 ---
 title: Merge XLSX Files via .NET 
 weight: 8290
-url: /net/merger/xlsx/ 
+
 description: C# source code to combine XLSX documents on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

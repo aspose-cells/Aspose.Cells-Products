@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET aracılığıyla CSV Dosya Biçimlerini görüntüleyin 
 weight: 7690
-url: /tr/net/viewer/csv/ 
+
 description: .NET Framework, .NET Core, Mono veya Xamarin Platformlarında CSV belgelerini yüklemek, oluşturmak ve görüntülemek için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

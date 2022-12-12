@@ -1,7 +1,7 @@
-﻿---
+---
 title: Pesquisar documento XLS sem abrir via Java 
 weight: 9430
-url: /pt/java/search/xls/ 
+
 description: Java código de amostra para pesquisar palavras com padrão no arquivo XLS no Java ambiente de tempo de execução para aplicativos JSP/JSF e aplicativos de desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

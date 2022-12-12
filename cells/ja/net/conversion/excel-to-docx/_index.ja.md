@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してEXCELをDOCXに変換します
-url: /ja/net/conversion/excel-to-docx/
+
 description: ExcelからdocxC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチExcelファイルからdocxへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Vytvořit soubory TSV prostřednictvím C++ 
-url: /cs/cpp/create-tsv/ 
+
 description: C++ Ukázkový kód pro generování souborů TSV. Tento kód použijte k vytváření souborů TSV v aplikaci založené na C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介して棒グラフを作成する
-url: /ja/net/create-bar-chart/
+
 description: C#.NETライブラリを使用してExcelに棒グラフを作成するためのサンプルコード。このコードを使用して、VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でMSExcelへの棒グラフを作成します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

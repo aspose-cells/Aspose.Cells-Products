@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer NUMMERS naar XLS via Python
-url: /nl/python-java/conversion/numbers-to-xls/
+
 description: Voorbeeldcode voor conversie van getallen naar xls Python. Gebruik API voorbeeldcode voor batchnummerbestanden naar xls-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

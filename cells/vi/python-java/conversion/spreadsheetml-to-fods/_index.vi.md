@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi SPREADSHEETML sang FODS qua Python
-url: /vi/python-java/conversion/spreadsheetml-to-fods/
+
 description: Mã mẫu cho chuyển đổi từ bảng tínhml sang fods Python. Sử dụng mã mẫu API cho hàng loạt tệpml bảng tính để hỗ trợ chuyển đổi trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

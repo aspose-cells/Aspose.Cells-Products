@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertálja a HTML-t XLTM-re a(z) C++ alkalmazással 
 weight: 7740
-url: /hu/cpp/conversion/html-to-xltm/ 
+
 description: Minta C++ konverziós kód HTML-dokumentumhoz XLTM formátumba. A programozók ezt a forráskódot használhatják kötegelt HTML-ből XLTM-be konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

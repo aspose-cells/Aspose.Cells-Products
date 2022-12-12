@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TXT konvertálása BMP-vé a következőn keresztül: C#"
-url: /hu/net/conversion/txt-to-bmp/
+
 description: Mintakód a txt-ből bmp-be C# konverzióhoz. Használjon API példakódot kötegelt txt fájlokhoz a bmp konverzióhoz VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

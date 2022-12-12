@@ -1,6 +1,6 @@
-﻿---
+---
 title: Buat File MS Excel XLS melalui Java 
-url: /id/java/create-xls/ 
+
 description: Java Contoh kode untuk membuat dokumen XLS. Gunakan kode ini untuk membuat file MS Excel XLS dalam Java desktop atau aplikasi web berbasis.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

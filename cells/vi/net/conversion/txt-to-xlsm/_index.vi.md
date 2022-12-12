@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi TXT sang XLSM qua C#
-url: /vi/net/conversion/txt-to-xlsm/
+
 description: Mã mẫu cho chuyển đổi txt sang xlsm C#. Sử dụng API mã ví dụ cho hàng loạt tệp txt sang chuyển đổi xlsm trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

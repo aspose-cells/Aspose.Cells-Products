@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل MHTML إلى MARKDOWN عبر Python
-url: /ar/python-java/conversion/mhtml-to-markdown/
+
 description: نموذج شفرة لتحويل mhtml إلى markdown Python. استخدم API رمز المثال لملفات mhtml الدفعية لتحويل markdown داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

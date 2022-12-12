@@ -1,6 +1,6 @@
-﻿---
+---
 title: "CSV konvertálása JPG formátumba a következőn keresztül: Python"
-url: /hu/python-java/conversion/csv-to-jpg/
+
 description: Mintakód a csv-ből jpg-be Python konvertáláshoz. Használjon API példakódot a csv fájlok kötegelt jpg formátumba konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

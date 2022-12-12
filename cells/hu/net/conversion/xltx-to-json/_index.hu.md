@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLTX konvertálása JSON-ba a következőn keresztül: C#"
-url: /hu/net/conversion/xltx-to-json/
+
 description: Mintakód az xltx–json C# konverzióhoz. Használjon API példakódot kötegelt xltx fájlok json konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

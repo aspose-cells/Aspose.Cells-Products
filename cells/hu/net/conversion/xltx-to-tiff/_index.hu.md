@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLTX konvertálása TIFF-re a következőn keresztül: C#"
-url: /hu/net/conversion/xltx-to-tiff/
+
 description: Mintakód xltx-ből tiff-be C#. Használjon API példakódot kötegelt xltx fájlokhoz a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazás tiff konverziójához.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

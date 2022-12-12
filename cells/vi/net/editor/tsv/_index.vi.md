@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chỉnh sửa tệp TSV qua .NET 
-url: /vi/net/editor/tsv/ 
+
 description: C# mã nguồn để chỉnh sửa tài liệu TSV trên Nền tảng .NET Framework, .NET Core, Windows Azure, Mono hoặc Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Sblocca il documento XLS tramite C++ 
 weight: 2380
-url: /it/cpp/unlock/xls/ 
+
 description: C++ codice di esempio per sbloccare il file XLS protetto da password su C++ Runtime Environment per Windows a 32 bit, Windows a 64 bit e Linux a 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

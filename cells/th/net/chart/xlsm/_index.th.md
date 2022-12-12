@@ -1,7 +1,7 @@
-﻿---
+---
 title:  แผนภูมิเอกสาร XLSM เป็นรูปภาพผ่าน .NET 
 weight: 5100
-url: /th/net/chart/xlsm/ 
+
 description: C# ซอร์สโค้ดสำหรับวาดและแปลงแผนภูมิหรือไดอะแกรมในไฟล์ XLSM บน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

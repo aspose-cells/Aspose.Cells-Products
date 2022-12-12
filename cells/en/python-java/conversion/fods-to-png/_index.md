@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to PNG via Python
-url: /python-java/conversion/fods-to-png/
+
 description: Convert FODS to PNG format in Python code. Save FODS as PNG using Python.
 ---
 

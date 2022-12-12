@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi FODS sang TSV qua Python
-url: /vi/python-java/conversion/fods-to-tsv/
+
 description: Mã mẫu cho chuyển đổi fods thành tsv Python. Sử dụng mã mẫu API cho các tệp fods hàng loạt để chuyển đổi tsv trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

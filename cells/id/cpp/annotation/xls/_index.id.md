@@ -1,7 +1,7 @@
-﻿---
+---
 title: Tambahkan Anotasi File Excel XLS melalui C++ 
 weight: 10040
-url: /id/cpp/annotation/xls/ 
+
 description: C++ contoh kode untuk menambah dan menghapus anotasi format XLS pada C++ Runtime Environment untuk Windows 32 bit, Windows 64 bit, dan Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

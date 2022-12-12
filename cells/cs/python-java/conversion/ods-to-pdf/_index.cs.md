@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést ODS na PDF prostřednictvím Python
-url: /cs/python-java/conversion/ods-to-pdf/
+
 description: Ukázkový kód pro převod z ods na pdf Python. Použijte API ukázkový kód pro dávkový převod souborů ods do PDF v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

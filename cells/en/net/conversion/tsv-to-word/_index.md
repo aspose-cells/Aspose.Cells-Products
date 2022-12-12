@@ -1,6 +1,6 @@
 ---
 title: Convert TSV to WORD via C#
-url: /net/conversion/tsv-to-word/
+
 description: Convert TSV to WORD format in C# code. Save TSV as WORD using VB.NET, Asp.NET or any .NET based application.
 ---
 

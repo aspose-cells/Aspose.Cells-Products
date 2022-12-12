@@ -1,7 +1,7 @@
-﻿---
+---
 title:  Γράφημα εγγράφων XLSM σε εικόνες μέσω .NET 
 weight: 5100
-url: /el/net/chart/xlsm/ 
+
 description: C# πηγαίος κώδικας για σχεδίαση και μετατροπή γραφήματος ή διαγράμματος σε αρχείο XLSM σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

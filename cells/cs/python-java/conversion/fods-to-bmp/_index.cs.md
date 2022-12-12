@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést FODS na BMP přes Python
-url: /cs/python-java/conversion/fods-to-bmp/
+
 description: Ukázkový kód pro konverzi fod na bmp Python. Použijte API ukázkový kód pro dávkové soubory fods do bmp v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

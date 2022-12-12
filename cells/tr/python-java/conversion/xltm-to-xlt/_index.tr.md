@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla XLTM'yi XLT'ye dönüştürün
-url: /tr/python-java/conversion/xltm-to-xlt/
+
 description: xltm'den xlt'ye Python dönüştürme için örnek kod. Python uygulamasında toplu xltm dosyalarından xlt'ye dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

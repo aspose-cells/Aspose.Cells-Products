@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TXT إلى PNG عبر تطبيق C++ 
-url: /ar/cpp/conversion/txt-to-png/ 
+
 description: نموذج C++ رمز التحويل لمستند TXT إلى تنسيق PNG. يمكن للمبرمجين استخدام رمز المصدر هذا لتحويل دفعة TXT إلى PNG داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++アプリケーションを介してCSVをMHTMLに変換する 
 weight: 5890
-url: /ja/cpp/conversion/csv-to-mhtml/ 
+
 description: CSVドキュメントのサンプルC++変換コードからMHTML形式へ。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でCSVからMHTMLへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

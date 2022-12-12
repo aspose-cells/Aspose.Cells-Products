@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++ uygulaması aracılığıyla HTML'yi JPG'ye dönüştürün 
-url: /tr/cpp/conversion/html-to-jpg/ 
+
 description: HTML belgesinden JPG biçimine örnek C++ dönüştürme kodu. Programcılar, herhangi bir C++ Uygulamasında toplu HTML'den JPG'ye dönüştürme için bu kaynak kodunu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

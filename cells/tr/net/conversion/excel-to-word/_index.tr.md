@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla EXCEL'i WORD'e dönüştürün
-url: /tr/net/conversion/excel-to-word/
+
 description: Excel'den kelimeye C# dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu excel dosyalarından kelimeye dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してTXTをMDに変換します
-url: /ja/net/conversion/txt-to-md/
+
 description: txtからmdC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチtxtファイルからmdへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

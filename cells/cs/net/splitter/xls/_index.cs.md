@@ -1,7 +1,7 @@
-﻿---
+---
 title: Rozdělit soubory XLS prostřednictvím .NET 
 weight: 1340
-url: /cs/net/splitter/xls/ 
+
 description: Zdrojový kód C# pro rozdělení dokumentů XLS na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

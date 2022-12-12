@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLSB إلى JPG عبر Python
-url: /ar/python-java/conversion/xlsb-to-jpg/
+
 description: نموذج كود للتحويل من xlsb إلى jpg Python. استخدم API رمز المثال لملفات xlsb الدفعية لتحويل jpg داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

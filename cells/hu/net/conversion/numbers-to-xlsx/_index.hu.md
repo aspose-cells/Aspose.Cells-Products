@@ -1,6 +1,6 @@
-﻿---
+---
 title: "NUMBERS konvertálása XLSX-re a következőn keresztül: C#"
-url: /hu/net/conversion/numbers-to-xlsx/
+
 description: Mintakód a számok xlsx C# konverziójához. Használjon API példakódot a kötegszámfájlok xlsx konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazásban.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

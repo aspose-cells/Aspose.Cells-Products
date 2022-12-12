@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TSV konvertálása TXT-re a következőn keresztül: C#"
-url: /hu/net/conversion/tsv-to-txt/
+
 description: Mintakód a tsv-ből txt-be C# konverzióhoz. Használjon API példakódot a tsv-fájlok kötegelt txtté konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

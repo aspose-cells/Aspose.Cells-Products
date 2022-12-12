@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLSX konvertálása XPS-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/xlsx-to-xps/
+
 description: Mintakód az xlsx–xps Python konverzióhoz. Használjon API példakódot xlsx fájlok kötegelt xps konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

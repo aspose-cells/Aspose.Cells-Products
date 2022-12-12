@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to TABDELIMITED via C++
-url: /cpp/conversion/txt-to-tabdelimited/
+
 description: Convert TXT to TABDELIMITED format in C++ code. Save TXT as TABDELIMITED using C++.
 ---
 

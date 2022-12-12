@@ -1,6 +1,6 @@
-﻿---
+---
 title: Java aracılığıyla TABDELIMITED'i SVG'ye dönüştürün 
-url: /tr/java/conversion/tabdelimited-to-svg/ 
+
 description: TABDELIMITED biçimi için SVG dosyasına örnek Java dönüştürme kodu. Programcılar, Excel ve OpenOffice elektronik tablolarını herhangi bir Web veya Masaüstü Java tabanlı Uygulamada SVG'ye aktarmak için bu örnek kodu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

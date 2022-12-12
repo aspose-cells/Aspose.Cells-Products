@@ -1,6 +1,6 @@
-﻿---
+---
 title: Upravit soubory HTML prostřednictvím .NET 
-url: /cs/net/editor/html/ 
+
 description: Zdrojový kód C# pro úpravy dokumentu HTML na platformách .NET Framework, .NET Core, Windows Azure, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

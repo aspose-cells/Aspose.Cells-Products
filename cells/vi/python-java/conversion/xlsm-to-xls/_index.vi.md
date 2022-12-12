@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi XLSM sang XLS qua Python
-url: /vi/python-java/conversion/xlsm-to-xls/
+
 description: Mã mẫu cho chuyển đổi xlsm sang xls Python. Sử dụng API mã mẫu cho hàng loạt tệp xlsm sang chuyển đổi xls trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

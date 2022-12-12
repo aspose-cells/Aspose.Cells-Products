@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan FODS ke PNG melalui C#
-url: /id/net/conversion/fods-to-png/
+
 description: Contoh kode untuk konversi makanan ke png C#. Gunakan API kode contoh untuk file batch fods ke konversi png dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

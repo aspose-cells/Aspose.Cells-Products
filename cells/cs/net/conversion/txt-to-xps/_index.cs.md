@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TXT na XPS přes C#
-url: /cs/net/conversion/txt-to-xps/
+
 description: Ukázkový kód pro převod txt na xps C#. Použijte API ukázkový kód pro dávkový převod souborů txt na xps v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

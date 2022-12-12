@@ -1,6 +1,6 @@
-﻿---
+---
 title: Créer des diagrammes de dispersion via C#
-url: /fr/net/create-scatter-chart/
+
 description: C# Exemple de code pour créer des graphiques en nuage de points dans Excel à l'aide de la bibliothèque .NET. Utilisez ce code pour créer un diagramme de dispersion vers MS Excel dans VB.NET, Asp.NET ou toute application basée sur .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

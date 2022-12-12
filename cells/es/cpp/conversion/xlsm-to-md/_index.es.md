@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta XLSM a MD a través de la aplicación C++ 
-url: /es/cpp/conversion/xlsm-to-md/ 
+
 description: Ejemplo de código de conversión C++ para documento XLSM a formato MD. Los programadores pueden usar este código fuente para la conversión por lotes de XLSM a MD dentro de cualquier aplicación C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

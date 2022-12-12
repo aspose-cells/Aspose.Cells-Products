@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to SQL via Python
-url: /python-java/conversion/xls-to-sql/
+
 description: Convert XLS to SQL format in Python code. Save XLS as SQL using Python.
 ---
 

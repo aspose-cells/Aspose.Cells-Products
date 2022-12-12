@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή HTML σε CSV μέσω Python
-url: /el/python-java/conversion/html-to-csv/
+
 description: Δείγμα κώδικα για μετατροπή html σε csv Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία html σε μετατροπή csv εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

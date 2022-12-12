@@ -1,7 +1,7 @@
 ---
 title: Export Reports in Excel XLS XLSX PDF ODS in JasperReports and JasperServer 
 weight: 9460
-url: /jasperreports/ 
+
 description: Export reports from Jasper Reports and JasperServer in Excel XLS XLSX PDF ODS TXT and SpreadsheetML format. Also print reports as Excel Spreadsheets
 ---
 

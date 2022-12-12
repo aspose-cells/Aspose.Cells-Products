@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to DOCX via C++
-url: /cpp/conversion/json-to-docx/
+
 description: Convert JSON to DOCX format in C++ code. Save JSON as DOCX using C++.
 ---
 

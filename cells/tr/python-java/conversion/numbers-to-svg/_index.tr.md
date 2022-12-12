@@ -1,6 +1,6 @@
-﻿---
+---
 title: NUMBERS'ı Python aracılığıyla SVG'ye dönüştürün
-url: /tr/python-java/conversion/numbers-to-svg/
+
 description: Sayıların svg Python dönüşümüne ilişkin örnek kod. Python uygulamasında toplu iş numarası dosyalarının svg dönüşümü için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してXLSMをMDに変換します 
-url: /ja/java/conversion/xlsm-to-md/ 
+
 description: XLSM形式からMDファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のMDにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

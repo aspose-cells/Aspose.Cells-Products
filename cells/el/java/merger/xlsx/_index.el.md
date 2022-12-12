@@ -1,7 +1,7 @@
-﻿---
+---
 title: Συγχώνευση αρχείων XLSX μέσω Java 
 weight: 8930
-url: /el/java/merger/xlsx/ 
+
 description: Java δείγμα κώδικα για συνδυασμό εγγράφων XLSX στο Java Runtime Environment για εφαρμογές JSP/JSF και εφαρμογές επιφάνειας εργασίας.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

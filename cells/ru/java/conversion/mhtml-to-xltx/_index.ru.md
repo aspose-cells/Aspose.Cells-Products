@@ -1,7 +1,7 @@
-﻿---
+---
 title: Преобразование MHTML в XLTX через Java 
 weight: 9000
-url: /ru/java/conversion/mhtml-to-xltx/ 
+
 description: Пример кода преобразования Java для формата MHTML в файл XLTX. Программисты могут использовать этот пример кода для экспорта электронных таблиц Excel и OpenOffice в формат XLTX в любом веб- или настольном Java приложении.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

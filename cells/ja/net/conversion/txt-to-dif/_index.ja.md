@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してTXTをDIFに変換します
-url: /ja/net/conversion/txt-to-dif/
+
 description: txtからdifC#への変換のサンプルコード。バッチtxtファイルのAPIサンプルコードを使用して、VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内で変換をdifします。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

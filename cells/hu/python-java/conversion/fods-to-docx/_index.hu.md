@@ -1,6 +1,6 @@
-﻿---
+---
 title: "FODS konvertálása DOCX-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/fods-to-docx/
+
 description: Mintakód a fods to docx Python konverzióhoz. Használjon API példakódot a kötegelt fods fájlok docx konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

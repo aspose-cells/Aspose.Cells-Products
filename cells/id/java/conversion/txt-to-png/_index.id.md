@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversi TXT ke PNG melalui Java 
 weight: 7580
-url: /id/java/conversion/txt-to-png/ 
+
 description: Contoh Java kode konversi untuk format TXT ke file PNG. Pemrogram dapat menggunakan kode contoh ini untuk mengekspor spreadsheet Excel & OpenOffice ke PNG dalam Aplikasi berbasis Web atau Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

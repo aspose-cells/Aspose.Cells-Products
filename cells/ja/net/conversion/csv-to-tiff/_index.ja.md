@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してCSVをTIFFに変換します
-url: /ja/net/conversion/csv-to-tiff/
+
 description: csvからtiffC#への変換のサンプルコード。バッチcsvファイルのAPIサンプルコードを使用して、VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内で変換をtiffします。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

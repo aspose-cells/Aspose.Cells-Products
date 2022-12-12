@@ -1,7 +1,7 @@
 ---
 title: Edit or View XLSM Document Metadata via C++ 
 weight: 1300
-url: /cpp/metadata/xlsm/ 
+
 description: C++ example code to edit or view XLSM file metadata on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
 

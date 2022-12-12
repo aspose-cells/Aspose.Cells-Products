@@ -1,7 +1,7 @@
-﻿---
+---
 title: สร้างรายงานในไฟล์ XLS ผ่าน .NET 
 weight: 1700
-url: /th/net/assembly/xls/ 
+
 description: C# ซอร์สโค้ดเพื่อสร้างรายงานรูปแบบ XLS บน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

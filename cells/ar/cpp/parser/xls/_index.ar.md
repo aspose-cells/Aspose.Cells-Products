@@ -1,7 +1,7 @@
-﻿---
+---
 title: استخراج النص والصور من مستند XLS عبر C++ 
 weight: 7610
-url: /ar/cpp/parser/xls/ 
+
 description: C++ مثال على رمز لاستخراج النصوص والصور من ملف XLS في C++ Runtime Environment لأنظمة التشغيل Windows 32 بت و Windows 64 بت و Linux 64 بت.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

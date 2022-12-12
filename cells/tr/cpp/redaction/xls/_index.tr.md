@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ aracılığıyla XLS belgesindeki metni arayın ve değiştirin 
 weight: 380
-url: /tr/cpp/redaction/xls/ 
+
 description: C++ Windows 32 bit, Windows 64 bit ve Linux 64 bit için C++ Runtime Environment'daki XLS dosyasındaki hassas bilgileri yeniden düzenlemek için örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Extraia texto e imagens do documento XLSB via .NET 
 weight: 2200
-url: /pt/net/parser/xlsb/ 
+
 description: C# código-fonte para extrair texto e imagens do arquivo XLSB em plataformas .NET Framework, .NET Core, Mono ou Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

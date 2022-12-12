@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή FODS σε MARKDOWN μέσω Python
-url: /el/python-java/conversion/fods-to-markdown/
+
 description: Δείγμα κωδικού για τροφές για μετατροπή Python σήμανσης. Χρησιμοποιήστε API παράδειγμα κώδικα για αρχεία batch fods για να σημειώσετε τη μετατροπή εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

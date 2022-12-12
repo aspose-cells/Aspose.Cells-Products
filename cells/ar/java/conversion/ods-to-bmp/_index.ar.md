@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل ODS إلى BMP عبر Java 
 weight: 2160
-url: /ar/java/conversion/ods-to-bmp/ 
+
 description: نموذج Java رمز تحويل لتنسيق ODS إلى ملف BMP. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى BMP داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

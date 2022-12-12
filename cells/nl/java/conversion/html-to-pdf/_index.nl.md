@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer HTML naar PDF via Java 
 weight: 2780
-url: /nl/java/conversion/html-to-pdf/ 
+
 description: Voorbeeld Java conversiecode voor HTML-indeling naar PDF-bestand. Programmeurs kunnen deze voorbeeldcode gebruiken om Excel- en OpenOffice-spreadsheets naar PDF te exporteren binnen elke web- of desktoptoepassing Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

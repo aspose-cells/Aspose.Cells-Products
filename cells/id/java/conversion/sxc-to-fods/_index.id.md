@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan SXC ke FODS melalui Java 
-url: /id/java/conversion/sxc-to-fods/ 
+
 description: Contoh Java kode konversi untuk format SXC ke file FODS. Pemrogram dapat menggunakan kode contoh ini untuk mengekspor spreadsheet Excel & OpenOffice ke FODS dalam Aplikasi berbasis Web atau Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

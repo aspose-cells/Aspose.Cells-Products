@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte XLT na EMF pomocí aplikace C++ 
-url: /cs/cpp/conversion/xlt-to-emf/ 
+
 description: Ukázka převodního kódu C++ pro dokument XLT do formátu EMF. Programátoři mohou použít tento zdrojový kód pro dávkový převod XLT na EMF v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

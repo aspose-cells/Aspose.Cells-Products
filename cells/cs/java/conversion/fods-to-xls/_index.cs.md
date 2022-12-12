@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést FODS na XLS přes Java 
-url: /cs/java/conversion/fods-to-xls/ 
+
 description: Ukázkový konverzní kód Java pro formát FODS na soubor XLS. Programátoři mohou použít tento příklad kódu k exportu tabulek Excelu a OpenOffice do XLS v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# ile Çizgi Grafikleri Oluşturun 
-url: /tr/net/create-line-chart/ 
+
 description: C# .NET Kitaplığı kullanarak Excel'de çizgi grafikler oluşturmak için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde MS Excel'e bir çizgi grafiği oluşturmak için bu kodu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

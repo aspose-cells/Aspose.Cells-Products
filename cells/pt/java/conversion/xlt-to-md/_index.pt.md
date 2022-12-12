@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter XLT para MD via Java 
-url: /pt/java/conversion/xlt-to-md/ 
+
 description: Exemplo de código de conversão Java para formato XLT para arquivo MD. Os programadores podem usar este código de exemplo para exportar planilhas do Excel e OpenOffice para MD em qualquer aplicativo baseado na Web ou Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

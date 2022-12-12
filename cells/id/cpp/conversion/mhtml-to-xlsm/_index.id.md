@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversikan MHTML ke XLSM melalui C++ aplikasi 
 weight: 6120
-url: /id/cpp/conversion/mhtml-to-xlsm/ 
+
 description: Contoh C++ kode konversi untuk dokumen MHTML ke format XLSM. Pemrogram dapat menggunakan kode sumber ini untuk konversi batch MHTML ke XLSM dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

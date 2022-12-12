@@ -1,7 +1,7 @@
-﻿---
+---
 title: Vyhledejte a nahraďte text v dokumentu XLSB prostřednictvím Java 
 weight: 4590
-url: /cs/java/redaction/xlsb/ 
+
 description: Java ukázkový kód pro redigování citlivých informací v souboru XLSB v Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie XLSM in BMP über die Anwendung C++ 
-url: /de/cpp/conversion/xlsm-to-bmp/ 
+
 description: Beispiel-Umwandlungscode C++ für das XLSM-Dokument in das BMP-Format. Programmierer können diesen Quellcode für die Batch-Konvertierung von XLSM in BMP in jeder C++-Anwendung verwenden.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

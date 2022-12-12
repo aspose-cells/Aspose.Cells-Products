@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してMSExcelXLTMファイルを作成する 
-url: /ja/python-java/create-xltm/ 
+
 description: PythonXLTMドキュメントを生成するためのサンプルコード。このコードを使用して、Pythonアプリケーション内にMSExcelXLTMファイルを作成します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převeďte ODS na XLSB pomocí aplikace C++ 
 weight: 4080
-url: /cs/cpp/conversion/ods-to-xlsb/ 
+
 description: Ukázkový konverzní kód C++ pro dokument ODS na formát XLSB. Programátoři mohou použít tento zdrojový kód pro dávkovou konverzi ODS na XLSB v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

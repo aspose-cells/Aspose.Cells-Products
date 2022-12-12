@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLSB na XLS přes C#
-url: /cs/net/conversion/xlsb-to-xls/
+
 description: Ukázkový kód pro převod xlsb na xls C#. Použijte API ukázkový kód pro dávkový převod souborů xlsb na xls v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

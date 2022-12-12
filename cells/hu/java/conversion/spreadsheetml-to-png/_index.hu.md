@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SPREADSHEETML konvertálása PNG-re a következőn keresztül: Java "
-url: /hu/java/conversion/spreadsheetml-to-png/ 
+
 description: Minta Java konverziós kód a SPREADSHEETML formátumhoz PNG-fájllá. A programozók ezt a példakódot használhatják Excel és OpenOffice táblázatok PNG formátumba exportálására bármely web- vagy asztali Java alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Wyszukaj dokument XLS bez otwierania przez Java 
 weight: 9430
-url: /pl/java/search/xls/ 
+
 description: Java przykładowy kod do wyszukiwania słów ze wzorcem w pliku XLS w Java środowisku wykonawczym dla aplikacji JSP/JSF i aplikacji komputerowych.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Bearbeiten Sie XLSX-Dateien über .NET 
-url: /de/net/editor/xlsx/ 
+
 description: C#-Quellcode zum Bearbeiten des XLSX-Dokuments auf .NET Framework-, .NET Core-, Windows Azure-, Mono- oder Xamarin-Plattformen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: ODS konvertálása GIF formátumba a C++ alkalmazáson keresztül 
 weight: 6230
-url: /hu/cpp/conversion/ods-to-gif/ 
+
 description: Minta C++ konverziós kód az ODS-dokumentumhoz GIF formátumba. A programozók ezt a forráskódot használhatják az ODS-ből GIF-be kötegelt konvertáláshoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

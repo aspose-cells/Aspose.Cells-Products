@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLTM naar MARKDOWN via C#
-url: /nl/net/conversion/xltm-to-markdown/
+
 description: Voorbeeldcode voor xltm om C#-conversie af te waarderen. Gebruik API voorbeeldcode voor batch xltm-bestanden om conversie te verlagen binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してColumn3Dチャートを作成する
-url: /ja/net/create-column3d-chart/
+
 description: C#.NETライブラリを使用してExcelにColumn3Dグラフを作成するためのサンプルコード。このコードを使用して、VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でMSExcelへのColumn3Dチャートを作成します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

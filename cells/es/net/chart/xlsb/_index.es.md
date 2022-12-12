@@ -1,7 +1,7 @@
-﻿---
+---
 title:  Tabla de documentos XLSB a imágenes a través de .NET 
 weight: 8560
-url: /es/net/chart/xlsb/ 
+
 description: C# código fuente para dibujar y convertir gráficos o diagramas en un archivo XLSB en .NET Framework, .NET Core, Mono o Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

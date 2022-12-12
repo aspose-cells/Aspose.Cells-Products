@@ -1,6 +1,6 @@
-﻿---
+---
 title: Java के माध्यम से NUMBERS को PNG में बदलें 
-url: /hi/java/conversion/numbers-to-png/ 
+
 description: पीएनजी फ़ाइल में NUMBERS प्रारूप के लिए नमूना Java रूपांतरण कोड। प्रोग्रामर इस उदाहरण कोड का उपयोग किसी भी वेब या डेस्कटॉप Java आधारित एप्लिकेशन के भीतर एक्सेल और ओपनऑफिस स्प्रेडशीट को पीएनजी में निर्यात करने के लिए कर सकते हैं।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

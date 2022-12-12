@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Különböző Excel-fájlok egyesítése a következőben: Java"
-url: /hu/java/merger/
+
 description: Egyesítse az Excel-fájlokat a Java használatával több lapra vagy egyetlen lapra. Egyesítse, kombinálja vagy fűzze össze Excel-dokumentumokat PDF-be, Képekbe és HTML-be is.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

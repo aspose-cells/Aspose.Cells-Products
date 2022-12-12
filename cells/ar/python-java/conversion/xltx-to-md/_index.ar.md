@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLTX إلى MD عبر Python
-url: /ar/python-java/conversion/xltx-to-md/
+
 description: نموذج رمز للتحويل من xltx إلى md Python. استخدم API رمز المثال لملفات xltx الدفعية لتحويل md داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

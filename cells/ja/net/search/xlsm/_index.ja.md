@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NETを介して開かずにXLSMドキュメントを検索する 
 weight: 4880
-url: /ja/net/search/xlsm/ 
+
 description: .NETフレームワーク、.NETコア、Mono、またはXamarinプラットフォーム上のXLSMファイル内のパターンを持つ単語を検索するためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

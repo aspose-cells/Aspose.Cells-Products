@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง SPREADSHEETML เป็น DIF ผ่าน C#
-url: /th/net/conversion/spreadsheetml-to-dif/
+
 description: โค้ดตัวอย่างสำหรับสเปรดชีตml ถึงการแปลง C# ใช้โค้ดตัวอย่าง API สำหรับไฟล์แบทช์สเปรดชีตml เพื่อแปลงไฟล์ต่างๆ ภายใน VB.NET, Asp.NET หรือแอปพลิเคชันที่ใช้ .NET
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

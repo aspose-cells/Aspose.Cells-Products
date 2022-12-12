@@ -1,7 +1,7 @@
-﻿---
+---
 title: Gabungkan File XLSM melalui .NET 
 weight: 660
-url: /id/net/merger/xlsm/ 
+
 description: C# kode sumber untuk menggabungkan dokumen XLSM di .NET Framework, .NET Core, Mono atau Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

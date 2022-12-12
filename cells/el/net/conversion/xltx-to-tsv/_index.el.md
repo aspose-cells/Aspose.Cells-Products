@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή XLTX σε TSV μέσω C#
-url: /el/net/conversion/xltx-to-tsv/
+
 description: Δείγμα κώδικα για μετατροπή xltx σε tsv C#. Χρησιμοποιήστε API παράδειγμα κώδικα για μαζική μετατροπή αρχείων xltx σε tsv εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

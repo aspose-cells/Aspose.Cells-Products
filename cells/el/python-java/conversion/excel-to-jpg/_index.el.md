@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή EXCEL σε JPG μέσω Python
-url: /el/python-java/conversion/excel-to-jpg/
+
 description: Δείγμα κώδικα για μετατροπή excel σε jpg Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδική μετατροπή αρχείων excel σε jpg εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

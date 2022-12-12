@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TXT konvertálása TAB-raDELIMITED a következőn keresztül: Python"
-url: /hu/python-java/conversion/txt-to-tabdelimited/
+
 description: Mintakód a txt tabulátorral tagolt Python konverziójához. Használjon API példakódot a kötegelt txt fájlokhoz a tabulátorral tagolt konverzióhoz a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

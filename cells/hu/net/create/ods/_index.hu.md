@@ -1,6 +1,6 @@
-﻿---
+---
 title: "ODS (Openoffice / Lbreoffice) fájlok létrehozása a következőn keresztül: C# "
-url: /hu/net/create-ods/ 
+
 description: C# Mintakód az ODS dokumentumok generálásához. Használja ezt a kódot ODS (Openoffice / Lbreoffice) fájlok létrehozásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazásban.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

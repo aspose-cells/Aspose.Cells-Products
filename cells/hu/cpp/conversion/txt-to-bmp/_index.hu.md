@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja a TXT-t BMP-vé a C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/txt-to-bmp/ 
+
 description: Minta C++ konverziós kód TXT dokumentumhoz BMP formátumba. A programozók ezt a forráskódot használhatják a kötegelt TXT-ből BMP-be konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

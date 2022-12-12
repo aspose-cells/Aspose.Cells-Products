@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi SPREADSHEETML sang SVG qua Python
-url: /vi/python-java/conversion/spreadsheetml-to-svg/
+
 description: Mã mẫu cho chuyển đổi từ bảng tínhml sang svg Python. Sử dụng mã mẫu API cho hàng loạt tệpml bảng tính để chuyển đổi svg trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

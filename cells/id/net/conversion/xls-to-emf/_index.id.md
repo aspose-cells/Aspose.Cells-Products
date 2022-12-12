@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan XLS ke EMF melalui C#
-url: /id/net/conversion/xls-to-emf/
+
 description: Contoh kode untuk konversi xls ke emf C#. Gunakan API kode contoh untuk file batch xls ke konversi emf dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

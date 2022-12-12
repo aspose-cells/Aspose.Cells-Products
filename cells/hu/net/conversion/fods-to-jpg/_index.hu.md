@@ -1,6 +1,6 @@
-﻿---
+---
 title: "FODS konvertálása JPG-re a következőn keresztül: C#"
-url: /hu/net/conversion/fods-to-jpg/
+
 description: Mintakód a fod-ból jpg-vé C# konvertáláshoz. Használjon API példakódot a kötegelt fods fájlok jpg formátumba konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

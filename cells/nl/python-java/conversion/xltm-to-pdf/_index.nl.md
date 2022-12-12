@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLTM naar PDF via Python
-url: /nl/python-java/conversion/xltm-to-pdf/
+
 description: Voorbeeldcode voor conversie van xltm naar pdf Python. Gebruik API voorbeeldcode voor batch xltm-bestanden naar pdf-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

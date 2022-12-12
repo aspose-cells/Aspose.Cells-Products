@@ -1,6 +1,6 @@
-﻿---
+---
 title: FODS को Python के द्वारा MARKDOWN में बदलें
-url: /hi/python-java/conversion/fods-to-markdown/
+
 description: फोड के लिए नमूना कोड Python रूपांतरण को चिह्नित करने के लिए। Python एप्लिकेशन के भीतर रूपांतरण को चिह्नित करने के लिए बैच फोड फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

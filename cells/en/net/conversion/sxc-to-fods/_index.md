@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to FODS via C#
-url: /net/conversion/sxc-to-fods/
+
 description: Convert SXC to FODS format in C# code. Save SXC as FODS using VB.NET, Asp.NET or any .NET based application.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta SPREADSHEETML a FODS a través de C#
-url: /es/net/conversion/spreadsheetml-to-fods/
+
 description: Código de muestra para conversión de hoja de cálculo a fods C#. Utilice el código de ejemplo API para archivos de hoja de cálculo por lotes para fomentar la conversión dentro de VB.NET, Asp.NET o cualquier aplicación basada en .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

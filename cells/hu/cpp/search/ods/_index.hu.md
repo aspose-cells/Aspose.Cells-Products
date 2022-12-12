@@ -1,7 +1,7 @@
-﻿---
+---
 title: "ODS-dokumentum keresése megnyitás nélkül a következőn keresztül: C++ "
 weight: 3300
-url: /hu/cpp/search/ods/ 
+
 description: C++ példakód az ODS-fájlban lévő mintákkal rendelkező szavak kereséséhez a C++ Runtime Environment for Windows 32 bit, a Windows 64 bit és a Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

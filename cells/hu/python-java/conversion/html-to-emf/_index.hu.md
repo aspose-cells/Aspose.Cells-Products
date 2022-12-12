@@ -1,6 +1,6 @@
-﻿---
+---
 title: "HTML konvertálása EMF-vé a következőn keresztül: Python"
-url: /hu/python-java/conversion/html-to-emf/
+
 description: Mintakód a html-ből emf-be Python történő konverzióhoz. Használjon API példakódot kötegelt html-fájlokhoz az EMF-konverzióhoz a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

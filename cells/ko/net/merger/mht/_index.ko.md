@@ -1,6 +1,6 @@
-﻿---
+---
 title: .NET를 통해 MHT 파일 병합 
-url: /ko/net/merger/mht/ 
+
 description: 온프레미스 메시지 병합 API를 사용해 .NET Framework, .NET Core 및 Xamarin 플랫폼에서 MHT 문서를 결합하세요.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

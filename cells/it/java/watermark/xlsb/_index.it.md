@@ -1,7 +1,7 @@
-﻿---
+---
 title: Documento filigrana XLSB tramite Java 
 weight: 5900
-url: /it/java/watermark/xlsb/ 
+
 description: Java codice di esempio per aggiungere o rimuovere filigrana nel file XLSB in Java ambiente di runtime per applicazioni JSP/JSF e applicazioni desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

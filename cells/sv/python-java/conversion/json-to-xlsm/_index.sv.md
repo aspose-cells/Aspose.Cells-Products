@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera JSON till XLSM via Python
-url: /sv/python-java/conversion/json-to-xlsm/
+
 description: Exempelkod för konvertering från json till xlsm Python. Använd API exempelkod för batch-json-filer till xlsm-konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

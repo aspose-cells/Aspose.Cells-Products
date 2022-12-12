@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera TXT till JSON via appen C++ 
-url: /sv/cpp/conversion/txt-to-json/ 
+
 description: Exempel på C++-konverteringskod för TXT-dokument till JSON-format. Programmerare kan använda den här källkoden för batchkonvertering av TXT till JSON i vilken C++-applikation som helst.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Ontgrendel ODS-document via .NET 
 weight: 3110
-url: /nl/net/unlock/ods/ 
+
 description: C# broncode om met een wachtwoord beveiligd ODS-bestand te ontgrendelen op .NET Framework, .NET Core, Mono of Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

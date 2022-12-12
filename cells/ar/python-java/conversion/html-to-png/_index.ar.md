@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل HTML إلى PNG عبر Python
-url: /ar/python-java/conversion/html-to-png/
+
 description: نموذج كود لتحويل html إلى png Python. استخدم API رمز المثال لملفات html الدفعية لتحويل png داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

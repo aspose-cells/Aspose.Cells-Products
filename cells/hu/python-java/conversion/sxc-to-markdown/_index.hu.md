@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SXC konvertálása MARKDOWN-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/sxc-to-markdown/
+
 description: Mintakód az sxc to markdown Python konverzióhoz. Használjon API példakódot kötegelt sxc fájlokhoz a leértékeléshez a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

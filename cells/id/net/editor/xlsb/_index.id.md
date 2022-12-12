@@ -1,6 +1,6 @@
-﻿---
+---
 title: Edit file XLSB melalui .NET 
-url: /id/net/editor/xlsb/ 
+
 description: C# kode sumber untuk mengedit dokumen XLSB di .NET Framework, .NET Core, Windows Azure, Mono atau Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

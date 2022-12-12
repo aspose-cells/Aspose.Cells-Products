@@ -1,6 +1,6 @@
 ---
 title: Convert XLTM to SPREADSHEETML via Java 
-url: /java/conversion/xltm-to-spreadsheetml/
+
 description: Convert XLTM to SPREADSHEETML format in Java code. Save XLTM as SPREADSHEETML using Java.
 ---
 

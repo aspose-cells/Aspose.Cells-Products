@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja a TSV-t XML-re a(z) C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/tsv-to-xml/ 
+
 description: Minta C++ konverziós kód a TSV-dokumentumhoz XML formátumba. A programozók ezt a forráskódot használhatják kötegelt TSV-ből XML-be konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

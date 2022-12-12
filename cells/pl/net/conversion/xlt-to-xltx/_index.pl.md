@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj XLT na XLTX przez C#
-url: /pl/net/conversion/xlt-to-xltx/
+
 description: Przykładowy kod konwersji xlt do xltx C#. Użyj przykładowego kodu API dla wsadowych plików xlt do konwersji xltx w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

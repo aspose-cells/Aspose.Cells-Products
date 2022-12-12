@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLSM в MARKDOWN с помощью Java 
-url: /ru/java/conversion/xlsm-to-markdown/ 
+
 description: Пример кода преобразования Java для формата XLSM в файл MARKDOWN. Программисты могут использовать этот пример кода для экспорта электронных таблиц Excel и OpenOffice в формат MARKDOWN в любом веб- или настольном Java приложении.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

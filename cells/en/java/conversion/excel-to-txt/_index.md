@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to TXT via Java 
-url: /java/conversion/excel-to-txt/
+
 description: Convert EXCEL to TXT format in Java code. Save EXCEL as TXT using Java.
 ---
 

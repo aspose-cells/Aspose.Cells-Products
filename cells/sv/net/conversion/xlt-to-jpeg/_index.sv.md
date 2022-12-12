@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera XLT till JPEG via C#
-url: /sv/net/conversion/xlt-to-jpeg/
+
 description: Exempelkod för konvertering av xlt till jpeg C#. Använd API exempelkod för batch-xlt-filer till jpeg-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

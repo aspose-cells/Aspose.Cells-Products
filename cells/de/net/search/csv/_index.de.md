@@ -1,7 +1,7 @@
-﻿---
+---
 title: Durchsuchen Sie das CSV-Dokument, ohne es über .NET zu öffnen 
 weight: 7510
-url: /de/net/search/csv/ 
+
 description: C#-Quellcode zum Suchen von Wörtern mit Muster in einer CSV-Datei auf .NET Framework-, .NET Core-, Mono- oder Xamarin-Plattformen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

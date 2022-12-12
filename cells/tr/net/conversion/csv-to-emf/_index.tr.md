@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla CSV'yi EMF'ye dönüştürün
-url: /tr/net/conversion/csv-to-emf/
+
 description: csv'den emf'ye C# dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulamada toplu csv dosyaları için emf dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

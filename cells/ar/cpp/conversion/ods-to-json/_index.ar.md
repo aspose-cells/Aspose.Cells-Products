@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل ODS إلى JSON عبر تطبيق C++ 
-url: /ar/cpp/conversion/ods-to-json/ 
+
 description: نموذج C++ كود تحويل لمستند ODS إلى تنسيق JSON. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل دفعة من ODS إلى JSON داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "JSON konvertálása TIFF-re a következőn keresztül: C#"
-url: /hu/net/conversion/json-to-tiff/
+
 description: Mintakód a json–tiff C# konverzióhoz. Használjon API példakódot kötegelt json fájlokhoz a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazás tiff konverziójához.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

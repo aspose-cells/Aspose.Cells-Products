@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer MHTML naar TSV via Java 
 weight: 7070
-url: /nl/java/conversion/mhtml-to-tsv/ 
+
 description: Voorbeeld Java conversiecode voor MHTML-indeling naar TSV-bestand. Programmeurs kunnen deze voorbeeldcode gebruiken om Excel- en OpenOffice-spreadsheets naar TSV te exporteren binnen elke web- of desktoptoepassing Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

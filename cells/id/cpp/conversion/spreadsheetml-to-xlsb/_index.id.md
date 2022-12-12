@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi SPREADSHEETML ke XLSB melalui C++ aplikasi 
-url: /id/cpp/conversion/spreadsheetml-to-xlsb/ 
+
 description: Contoh C++ kode konversi untuk dokumen SPREADSHEETML ke format XLSB. Pemrogram dapat menggunakan kode sumber ini untuk konversi batch SPREADSHEETML ke XLSB dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

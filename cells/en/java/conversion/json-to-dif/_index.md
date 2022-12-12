@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to DIF via Java 
-url: /java/conversion/json-to-dif/
+
 description: Convert JSON to DIF format in Java code. Save JSON as DIF using Java.
 ---
 

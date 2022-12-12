@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést MHTML na BMP přes Java 
 weight: 4410
-url: /cs/java/conversion/mhtml-to-bmp/ 
+
 description: Ukázka převodního kódu Java pro formát MHTML na soubor BMP. Programátoři mohou tento ukázkový kód použít k exportu tabulek Excelu a OpenOffice do BMP v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

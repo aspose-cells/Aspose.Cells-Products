@@ -1,6 +1,6 @@
-﻿---
+---
 title: Redigera CSV-filer via .NET 
-url: /sv/net/editor/csv/ 
+
 description: C# källkod för att redigera CSV-dokument på .NET Framework, .NET Core, Windows Azure, Mono eller Xamarin-plattformar.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

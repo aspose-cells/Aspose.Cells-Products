@@ -1,6 +1,6 @@
-﻿---
+---
 title: एक्सेल स्प्रेडशीट को वर्कशीट में Java में विभाजित करें
-url: /hi/java/splitter/
+
 description: Java स्रोत कोड जो Java एक्सेल लाइब्रेरी का उपयोग करके Microsoft Excel फ़ाइलों को एकाधिक दस्तावेज़ों में विभाजित करने का तरीका बताते हैं
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLS-Excel-Dateianmerkung über C++ hinzufügen 
 weight: 10040
-url: /de/cpp/annotation/xls/ 
+
 description: C++ Beispielcode zum Hinzufügen und Löschen von Anmerkungen im XLS-Format in C++ Runtime Environment für Windows 32 Bit, Windows 64 Bit und Linux 64 Bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

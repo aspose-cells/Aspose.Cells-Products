@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή MHTML σε MARKDOWN μέσω Python
-url: /el/python-java/conversion/mhtml-to-markdown/
+
 description: Δείγμα κώδικα για μετατροπή mhtml σε επισήμανση Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία mhtml για να σημειώσετε τη μετατροπή εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

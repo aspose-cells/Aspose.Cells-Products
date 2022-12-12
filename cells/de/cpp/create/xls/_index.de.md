@@ -1,6 +1,6 @@
-﻿---
+---
 title: Erstellen Sie MS Excel XLS-Dateien über C++ 
-url: /de/cpp/create-xls/ 
+
 description: C++ Beispielcode zum Generieren von MS Excel XLS-Dateien. Verwenden Sie diesen Code zum Erstellen von MS Excel XLS-Dateien in einer C++-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

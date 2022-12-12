@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést NUMBERS na JSON přes Python
-url: /cs/python-java/conversion/numbers-to-json/
+
 description: Ukázkový kód pro převod čísel na JSON Python. Použijte API ukázkový kód pro konverzi souborů dávkových čísel na JSON v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

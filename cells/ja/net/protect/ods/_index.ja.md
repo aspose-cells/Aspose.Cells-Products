@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NETを介してODSドキュメントを保護およびロックする 
 weight: 5580
-url: /ja/net/protect/ods/ 
+
 description: .NETフレームワーク、.NETコア、Mono、またはXamarinプラットフォームでパスワードを使用してODSファイルをロックするためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

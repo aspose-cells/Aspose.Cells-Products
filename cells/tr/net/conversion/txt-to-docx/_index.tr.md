@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla TXT'yi DOCX'e dönüştürün
-url: /tr/net/conversion/txt-to-docx/
+
 description: txt'den docx'e C# dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu txt dosyalarından docx'e dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

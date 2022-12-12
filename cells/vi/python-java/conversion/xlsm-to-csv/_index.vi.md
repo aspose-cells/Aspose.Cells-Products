@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi XLSM sang CSV qua Python
-url: /vi/python-java/conversion/xlsm-to-csv/
+
 description: Mã mẫu cho chuyển đổi xlsm sang csv Python. Sử dụng API mã mẫu cho hàng loạt tệp xlsm thành chuyển đổi csv trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

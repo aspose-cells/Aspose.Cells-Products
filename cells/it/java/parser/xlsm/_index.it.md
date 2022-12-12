@@ -1,7 +1,7 @@
-﻿---
+---
 title: Estrai testo e immagini dal documento XLSM tramite Java 
 weight: 3260
-url: /it/java/parser/xlsm/ 
+
 description: Java codice di esempio per estrarre testo e immagini dal file XLSM su Java Runtime Environment per applicazioni JSP/JSF e applicazioni desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

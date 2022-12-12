@@ -1,7 +1,7 @@
-﻿---
+---
 title: Vyhledat a nahradit text v dokumentu ODS prostřednictvím .NET 
 weight: 6100
-url: /cs/net/redaction/ods/ 
+
 description: C# zdrojový kód k redigování citlivých informací v souboru ODS na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

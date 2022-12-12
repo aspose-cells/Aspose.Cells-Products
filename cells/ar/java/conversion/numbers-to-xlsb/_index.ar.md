@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل NUMBERS إلى XLSB عبر Java 
-url: /ar/java/conversion/numbers-to-xlsb/ 
+
 description: نموذج Java رمز تحويل لتنسيق NUMBERS إلى ملف XLSB. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى XLSB داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

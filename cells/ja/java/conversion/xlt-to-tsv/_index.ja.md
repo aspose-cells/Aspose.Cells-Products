@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してXLTをTSVに変換します 
 weight: 8690
-url: /ja/java/conversion/xlt-to-tsv/ 
+
 description: XLT形式からTSVファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のTSVにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLSB в CSV через Python
-url: /ru/python-java/conversion/xlsb-to-csv/
+
 description: Пример кода для преобразования xlsb в csv Python. Используйте пример кода API для пакетного преобразования файлов xlsb в csv в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

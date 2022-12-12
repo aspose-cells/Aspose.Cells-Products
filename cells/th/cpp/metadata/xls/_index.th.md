@@ -1,7 +1,7 @@
-﻿---
+---
 title: แก้ไขหรือดูข้อมูลเมตาของเอกสาร XLS ผ่าน C++ 
 weight: 2150
-url: /th/cpp/metadata/xls/ 
+
 description: C++ ตัวอย่างโค้ดเพื่อแก้ไขหรือดูข้อมูลเมตาของไฟล์ XLS บน C++ Runtime Environment สำหรับ Windows 32 บิต, Windows 64 บิต และ Linux 64 บิต
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

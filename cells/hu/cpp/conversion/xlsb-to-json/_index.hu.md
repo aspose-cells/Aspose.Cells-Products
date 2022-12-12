@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLSB-t JSON-ba a(z) C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/xlsb-to-json/ 
+
 description: Minta C++ konverziós kód az XLSB dokumentumhoz JSON formátumba. A programozók ezt a forráskódot használhatják az XLSB-ből JSON-ba kötegelt konvertáláshoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

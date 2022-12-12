@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通過 C++ 應用程序將 MHTML 轉換為 XLTM 
 weight: 4310
-url: /zh-hant/cpp/conversion/mhtml-to-xltm/ 
+
 description: MHTML 文檔到 XLTM 格式的示例 C++ 轉換代碼。程序員可以使用此源代碼在任何 C++ 應用程序中批量轉換 MHTML 到 XLTM。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

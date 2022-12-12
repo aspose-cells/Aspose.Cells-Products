@@ -1,7 +1,7 @@
-﻿---
+---
 title: Μετατροπή ODS σε Συστοιχία Byte μέσω C# 
 weight: 7690
-url: /el/net/conversion/ods-to-byte-array/ 
+
 description: C# Δείγμα κώδικα για μετατροπή ODS σε Συστοιχία Byte. Χρησιμοποιήστε αυτόν τον κώδικα για τη μετατροπή Excel ODS σε Byte Array σε VB.NET, Asp.NET ή οποιαδήποτε εφαρμογή που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie XLSM über die Anwendung C++ in JSON 
-url: /de/cpp/conversion/xlsm-to-json/ 
+
 description: Beispiel-Umwandlungscode C++ für das XLSM-Dokument in das JSON-Format. Programmierer können diesen Quellcode für die Batch-Konvertierung von XLSM in JSON in jeder C++-Anwendung verwenden.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

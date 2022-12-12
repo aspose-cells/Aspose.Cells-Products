@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte TABDELIMITED do PDF pomocí aplikace C++ 
-url: /cs/cpp/conversion/tabdelimited-to-pdf/ 
+
 description: Ukázkový konverzní kód C++ pro dokument TABDELIMITED do formátu PDF. Programátoři mohou použít tento zdrojový kód pro dávkový převod TABDELIMITED do PDF v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

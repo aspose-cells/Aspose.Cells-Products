@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển MHTML sang XML qua Python
-url: /vi/python-java/conversion/mhtml-to-xml/
+
 description: Mã mẫu cho chuyển đổi mhtml sang xml Python. Sử dụng API mã ví dụ cho chuyển đổi hàng loạt tệp mhtml sang xml trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

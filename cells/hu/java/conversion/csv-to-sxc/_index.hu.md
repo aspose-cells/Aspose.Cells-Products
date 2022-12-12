@@ -1,6 +1,6 @@
-﻿---
+---
 title: "CSV konvertálása SXC formátumba a következőn keresztül: Java "
-url: /hu/java/conversion/csv-to-sxc/ 
+
 description: Minta Java konverziós kód a CSV formátumhoz SXC fájllá. A programozók ezt a példakódot használhatják Excel- és OpenOffice-táblázatok exportálására SXC-be bármely web- vagy asztali Java-alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

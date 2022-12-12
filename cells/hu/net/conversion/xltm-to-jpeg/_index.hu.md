@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLTM konvertálása JPEG formátumba a következőn keresztül: C#"
-url: /hu/net/conversion/xltm-to-jpeg/
+
 description: Mintakód az xltm-ből jpeg-be C# konverzióhoz. Használjon API példakódot kötegelt xltm fájlok jpeg konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

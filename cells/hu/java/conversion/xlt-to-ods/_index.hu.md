@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Az XLT konvertálása ODS-re a következőn keresztül: Java "
 weight: 5710
-url: /hu/java/conversion/xlt-to-ods/ 
+
 description: Minta Java konverziós kód az XLT formátumhoz ODS-fájllá. A programozók ezt a példakódot használhatják Excel- és OpenOffice-táblázatok exportálására ODS-be bármely web- vagy asztali Java-alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

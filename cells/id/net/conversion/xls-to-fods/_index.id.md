@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi XLS ke FODS melalui C#
-url: /id/net/conversion/xls-to-fods/
+
 description: Contoh kode untuk konversi xls ke fods C#. Gunakan API kode contoh untuk file batch xls ke konversi makanan dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

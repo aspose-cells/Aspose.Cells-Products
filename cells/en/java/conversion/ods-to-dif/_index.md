@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to DIF via Java 
-url: /java/conversion/ods-to-dif/
+
 description: Convert ODS to DIF format in Java code. Save ODS as DIF using Java.
 ---
 

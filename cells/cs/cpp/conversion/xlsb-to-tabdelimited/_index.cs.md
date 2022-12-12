@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte XLSB na TABDELIMITED pomocí aplikace C++ 
-url: /cs/cpp/conversion/xlsb-to-tabdelimited/ 
+
 description: Ukázkový konverzní kód C++ pro dokument XLSB do formátu TABDELIMITED. Programátoři mohou použít tento zdrojový kód pro dávkovou konverzi XLSB na TABDELIMITED v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

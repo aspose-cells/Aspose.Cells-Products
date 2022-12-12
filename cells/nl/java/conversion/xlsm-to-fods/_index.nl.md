@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLSM naar FODS via Java 
-url: /nl/java/conversion/xlsm-to-fods/ 
+
 description: Voorbeeld Java conversiecode voor XLSM-indeling naar FODS-bestand. Programmeurs kunnen deze voorbeeldcode gebruiken om Excel- en OpenOffice-spreadsheets te exporteren naar FODS binnen elke web- of desktoptoepassing Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

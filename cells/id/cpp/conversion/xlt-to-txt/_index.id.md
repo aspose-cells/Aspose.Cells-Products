@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi XLT ke TXT melalui C++ aplikasi 
-url: /id/cpp/conversion/xlt-to-txt/ 
+
 description: Contoh C++ kode konversi untuk dokumen XLT ke format TXT. Pemrogram dapat menggunakan kode sumber ini untuk konversi batch XLT ke TXT dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

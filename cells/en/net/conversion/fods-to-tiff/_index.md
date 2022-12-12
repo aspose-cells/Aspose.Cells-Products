@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to TIFF via C#
-url: /net/conversion/fods-to-tiff/
+
 description: Convert FODS to TIFF format in C# code. Save FODS as TIFF using VB.NET, Asp.NET or any .NET based application.
 ---
 

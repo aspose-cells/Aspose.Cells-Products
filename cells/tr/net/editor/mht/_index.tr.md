@@ -1,6 +1,6 @@
-﻿---
+---
 title: MHT dosyalarını .NET aracılığıyla düzenleyin 
-url: /tr/net/editor/mht/ 
+
 description: .NET Framework, .NET Core, Windows Azure, Mono veya Xamarin Platformlarında MHT belgesini düzenlemek için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

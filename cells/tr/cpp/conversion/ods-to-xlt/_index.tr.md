@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++ uygulaması aracılığıyla ODS'yi XLT'ye dönüştürün 
-url: /tr/cpp/conversion/ods-to-xlt/ 
+
 description: ODS belgesi için XLT biçimine örnek C++ dönüştürme kodu. Programcılar, herhangi bir C++ Uygulamasında toplu ODS'den XLT'ye dönüştürme için bu kaynak kodunu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

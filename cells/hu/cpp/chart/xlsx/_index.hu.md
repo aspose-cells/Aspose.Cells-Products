@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLSX dokumentumdiagram a következőn keresztül: C++ "
 weight: 750
-url: /hu/cpp/chart/xlsx/ 
+
 description: C++ példakód diagramok vagy diagramok XLSX-fájlba történő rajzolásához és konvertálásához a C++ Runtime Environment for Windows 32 bit, Windows 64 bit és Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

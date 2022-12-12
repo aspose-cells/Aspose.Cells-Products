@@ -1,6 +1,6 @@
-﻿---
+---
 title: Создание диаграмм Column3D с помощью Python
-url: /ru/python-java/create-column3d-chart/
+
 description: Python Пример кода для создания диаграмм Column3D в Excel с использованием библиотеки Python. Используйте этот код для создания диаграммы Column3D в MS Excel в приложении на основе Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

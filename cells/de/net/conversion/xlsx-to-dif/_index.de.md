@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie XLSX in DIF über C#
-url: /de/net/conversion/xlsx-to-dif/
+
 description: Beispielcode für xlsx, um die C#-Konvertierung zu unterscheiden. Verwenden Sie API Beispielcode für Batch-XLSX-Dateien, um die Konvertierung innerhalb von VB.NET, Asp.NET oder einer beliebigen .NET-basierten Anwendung zu unterscheiden.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Документ XLSM с водяным знаком через Java 
 weight: 7680
-url: /ru/java/watermark/xlsm/ 
+
 description: Пример кода Java для добавления или удаления водяного знака в файле XLSM в Java среде выполнения для приложений JSP/JSF и настольных приложений.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

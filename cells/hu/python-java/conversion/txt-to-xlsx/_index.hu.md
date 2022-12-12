@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TXT konvertálása XLSX-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/txt-to-xlsx/
+
 description: Mintakód a txt-ből xlsx-be Python konverzióhoz. Használjon API példakódot a txt fájlok kötegelt xlsx konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

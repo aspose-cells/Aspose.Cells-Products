@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή NUMBERS σε XLSX μέσω Python
-url: /el/python-java/conversion/numbers-to-xlsx/
+
 description: Δείγμα κώδικα για μετατροπή αριθμών σε xlsx Python. Χρησιμοποιήστε API παράδειγμα κώδικα για μετατροπή ομαδικών αριθμών σε xlsx εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

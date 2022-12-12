@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLS na SXC přes Python
-url: /cs/python-java/conversion/xls-to-sxc/
+
 description: Ukázkový kód pro převod xls na sxc Python. Použijte API ukázkový kód pro dávkový převod souborů xls na sxc v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: عرض أو تحرير البيانات الوصفية لملفات XLSB عبر .NET 
 weight: 7890
-url: /ar/net/metadata/xlsb/ 
+
 description: C# شفرة المصدر لتعديل أو عرض البيانات الوصفية بتنسيق XLSB على الأنظمة الأساسية .NET Framework أو .NET Core أو Mono أو Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla MS Excel XLSX Dosyaları oluşturun 
-url: /tr/python-java/create-xlsx/ 
+
 description: Python XLSX belgeleri oluşturmak için örnek kod. Python uygulamasında MS Excel XLSX dosyaları oluşturmak için bu kodu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

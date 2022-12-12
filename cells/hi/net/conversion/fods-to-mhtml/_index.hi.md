@@ -1,6 +1,6 @@
-﻿---
+---
 title: FODS को C# के माध्यम से MHTML में बदलें
-url: /hi/net/conversion/fods-to-mhtml/
+
 description: एमएचटीएमएल C# रूपांतरण के लिए खाद्य पदार्थों के लिए नमूना कोड। VB.NET, Asp.NET या किसी भी .NET आधारित एप्लिकेशन के भीतर बैच फोड फ़ाइलों को mhtml रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

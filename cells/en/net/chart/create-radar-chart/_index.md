@@ -1,6 +1,6 @@
 ---
 title: Create Radar Charts via C#
-url: /net/create-radar-chart/
+
 description: C# Sample code for creating Radar charts to Excel using .NET Library. Use this code for creating a Radar chart to MS Excel within VB.NET, Asp.NET or any .NET based application.
 
 ---

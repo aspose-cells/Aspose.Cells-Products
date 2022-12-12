@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SXC konvertálása XLS-re a következőn keresztül: C#"
-url: /hu/net/conversion/sxc-to-xls/
+
 description: Mintakód az sxc–xls C# konverzióhoz. Használjon API példakódot az sxc fájlok kötegelt xls konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

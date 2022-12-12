@@ -1,6 +1,6 @@
 ---
 title: Convert XLSX to BMP via C#
-url: /net/conversion/xlsx-to-bmp/
+
 description: Convert XLSX to BMP format in C# code. Save XLSX as BMP using VB.NET, Asp.NET or any .NET based application.
 ---
 

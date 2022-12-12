@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование TABDELIMITED в EMF через Java 
-url: /ru/java/conversion/tabdelimited-to-emf/ 
+
 description: Пример кода преобразования Java для формата TABDELIMITED в файл EMF. Программисты могут использовать этот пример кода для экспорта электронных таблиц Excel и OpenOffice в EMF в любом веб-или настольном Java приложении.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

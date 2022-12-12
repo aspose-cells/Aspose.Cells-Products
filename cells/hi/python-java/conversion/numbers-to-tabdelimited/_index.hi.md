@@ -1,6 +1,6 @@
-﻿---
+---
 title: NUMBERS को Python के माध्यम से TABDELIMITED में बदलें
-url: /hi/python-java/conversion/numbers-to-tabdelimited/
+
 description: टैबसीमांकित Python रूपांतरण में संख्याओं के लिए नमूना कोड। Python एप्लिकेशन के भीतर टैबसीमांकित रूपांतरण के लिए बैच संख्या फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

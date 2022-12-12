@@ -1,7 +1,7 @@
-﻿---
+---
 title: استخراج النص والصور من مستند XLSM عبر .NET 
 weight: 4010
-url: /ar/net/parser/xlsm/ 
+
 description: C# شفرة المصدر لاستخراج النص والصور من ملف XLSM على الأنظمة الأساسية .NET Framework أو .NET Core أو Mono أو Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

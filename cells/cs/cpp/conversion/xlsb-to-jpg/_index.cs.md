@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte XLSB na JPG pomocí aplikace C++ 
-url: /cs/cpp/conversion/xlsb-to-jpg/ 
+
 description: Ukázka převodního kódu C++ pro dokument XLSB do formátu JPG. Programátoři mohou použít tento zdrojový kód pro dávkovou konverzi XLSB na JPG v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

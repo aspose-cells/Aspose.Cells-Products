@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir TABDELIMITED en DOCX via C#
-url: /fr/net/conversion/tabdelimited-to-docx/
+
 description: Exemple de code pour la conversion tabdelimited vers docx C#. Utilisez l'exemple de code API pour la conversion par lots de fichiers délimités par des tabulations en docx dans VB.NET, Asp.NET ou toute application basée sur .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to EMF via C++
-url: /cpp/conversion/excel-to-emf/
+
 description: Convert EXCEL to EMF format in C++ code. Save EXCEL as EMF using C++.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: SPREADSHEETMLをC#経由でTABDELIMITEDに変換します
-url: /ja/net/conversion/spreadsheetml-to-tabdelimited/
+
 description: SpreadsheetmlからtabdelimitedC#への変換のサンプルコード。バッチspreadsheetmlファイルのAPIサンプルコードを使用して、VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でタブ区切りの変換を行います。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

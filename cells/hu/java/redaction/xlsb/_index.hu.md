@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Szöveg keresése és cseréje XLSB-dokumentumban a következőn keresztül: Java "
 weight: 4590
-url: /hu/java/redaction/xlsb/ 
+
 description: Java mintakód az XLSB-fájl érzékeny információinak törléséhez a Java Runtime Environment for JSP/JSF Applications and Desktop Applications webhelyen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

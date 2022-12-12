@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++ uygulamasıyla XLT'yi PDF'ye dönüştürün 
-url: /tr/cpp/conversion/xlt-to-pdf/ 
+
 description: XLT belgesinden PDF biçimine örnek C++ dönüştürme kodu. Programcılar, herhangi bir C++ Uygulamasında toplu XLT'den PDF'ye dönüştürme için bu kaynak kodunu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

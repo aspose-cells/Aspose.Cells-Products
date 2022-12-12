@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést SXC na JPG přes Python
-url: /cs/python-java/conversion/sxc-to-jpg/
+
 description: Ukázkový kód pro převod sxc na jpg Python. Použijte API ukázkový kód pro dávkový převod souborů sxc na jpg v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

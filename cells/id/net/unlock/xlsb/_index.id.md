@@ -1,7 +1,7 @@
-﻿---
+---
 title: Buka kunci dokumen XLSB melalui .NET 
 weight: 6410
-url: /id/net/unlock/xlsb/ 
+
 description: C# kode sumber untuk membuka kunci file XLSB yang dilindungi sandi di .NET Framework, .NET Core, Mono atau Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

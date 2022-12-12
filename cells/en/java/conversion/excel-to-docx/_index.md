@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to DOCX via Java 
-url: /java/conversion/excel-to-docx/
+
 description: Convert EXCEL to DOCX format in Java code. Save EXCEL as DOCX using Java.
 ---
 

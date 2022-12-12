@@ -1,6 +1,6 @@
-﻿---
+---
 title: Δημιουργία αρχείων MS Excel XLT μέσω Python 
-url: /el/python-java/create-xlt/ 
+
 description: Python Δείγμα κώδικα για τη δημιουργία εγγράφων XLT. Χρησιμοποιήστε αυτόν τον κώδικα για τη δημιουργία αρχείων MS Excel XLT εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: ODS konvertálása SVG-vé a C++ alkalmazáson keresztül 
 weight: 3080
-url: /hu/cpp/conversion/ods-to-svg/ 
+
 description: Minta C++ konverziós kód az ODS-dokumentumhoz SVG formátumba. A programozók ezt a forráskódot használhatják kötegelt ODS-SVG-konverzióhoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง TABDELIMITED เป็น PNG ผ่าน Python
-url: /th/python-java/conversion/tabdelimited-to-png/
+
 description: โค้ดตัวอย่างสำหรับการแปลง tabdelimited เป็น png Python ใช้โค้ดตัวอย่าง API สำหรับไฟล์ที่คั่นด้วยแท็บแบทช์เป็นการแปลง png ภายในแอปพลิเคชัน Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi XLSX sang MHTML qua C#
-url: /vi/net/conversion/xlsx-to-mhtml/
+
 description: Mã mẫu cho chuyển đổi xlsx sang mhtml C#. Sử dụng API mã mẫu cho hàng loạt tệp xlsx sang chuyển đổi mhtml trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

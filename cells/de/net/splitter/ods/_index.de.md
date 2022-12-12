@@ -1,7 +1,7 @@
-﻿---
+---
 title: ODS-Dateien über .NET aufteilen 
 weight: 140
-url: /de/net/splitter/ods/ 
+
 description: C#-Quellcode zum Aufteilen von ODS-Dokumenten auf .NET Framework-, .NET Core-, Mono- oder Xamarin-Plattformen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

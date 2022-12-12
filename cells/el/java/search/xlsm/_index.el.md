@@ -1,7 +1,7 @@
-﻿---
+---
 title: Αναζήτηση εγγράφου XLSM χωρίς άνοιγμα μέσω Java 
 weight: 6780
-url: /el/java/search/xlsm/ 
+
 description: Java δείγμα κώδικα για αναζήτηση λέξεων με μοτίβο σε αρχείο XLSM στο Java Περιβάλλον χρόνου εκτέλεσης για εφαρμογές JSP/JSF και εφαρμογές επιφάνειας εργασίας.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

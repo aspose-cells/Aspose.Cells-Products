@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to TXT via Java 
-url: /java/conversion/xls-to-txt/
+
 description: Convert XLS to TXT format in Java code. Save XLS as TXT using Java.
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Cerca il documento TXT senza aprire tramite .NET 
 weight: 8410
-url: /it/net/search/txt/ 
+
 description: C# codice sorgente per cercare parole con pattern nel file TXT su piattaforme .NET Framework, .NET Core, Mono o Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

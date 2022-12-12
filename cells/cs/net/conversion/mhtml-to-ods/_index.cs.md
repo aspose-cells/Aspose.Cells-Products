@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést MHTML na ODS přes C#
-url: /cs/net/conversion/mhtml-to-ods/
+
 description: Ukázkový kód pro konverzi mhtml na ods C#. Použijte API ukázkový kód pro dávkový převod souborů mhtml na ods v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

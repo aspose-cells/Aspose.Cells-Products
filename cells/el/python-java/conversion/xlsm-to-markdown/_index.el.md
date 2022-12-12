@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή XLSM σε MARKDOWN μέσω Python
-url: /el/python-java/conversion/xlsm-to-markdown/
+
 description: Δείγμα κώδικα για μετατροπή xlsm σε σήμανση Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία xlsm για να σημειώσετε τη μετατροπή εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

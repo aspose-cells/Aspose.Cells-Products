@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir XLTX en PDF via C#
-url: /fr/net/conversion/xltx-to-pdf/
+
 description: Exemple de code pour la conversion xltx en pdf C#. Utilisez API exemple de code pour la conversion de fichiers xltx par lots en pdf dans VB.NET, Asp.NET ou toute application basée sur .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

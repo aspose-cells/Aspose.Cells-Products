@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή NUMBERS σε DOCX μέσω Python
-url: /el/python-java/conversion/numbers-to-docx/
+
 description: Δείγμα κώδικα για τη μετατροπή αριθμών σε docx Python. Χρησιμοποιήστε API παράδειγμα κώδικα για αρχεία αριθμών παρτίδας για μετατροπή docx εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

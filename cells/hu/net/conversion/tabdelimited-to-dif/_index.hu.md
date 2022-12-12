@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TABDELIMITED konvertálása DIF-re a következőn keresztül: C#"
-url: /hu/net/conversion/tabdelimited-to-dif/
+
 description: Mintakód a tabulátorral tagolt C# konverzióhoz. Használjon API példakódot a kötegelt tabulátorral elválasztott fájlokhoz a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belüli konvertáláshoz.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

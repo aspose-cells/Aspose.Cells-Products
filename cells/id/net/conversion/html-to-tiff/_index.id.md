@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi HTML ke TIFF melalui C#
-url: /id/net/conversion/html-to-tiff/
+
 description: Contoh kode untuk konversi html ke tiff C#. Gunakan API kode contoh untuk file html batch ke konversi tiff dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

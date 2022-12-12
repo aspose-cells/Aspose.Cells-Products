@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést ODS na TXT přes Python
-url: /cs/python-java/conversion/ods-to-txt/
+
 description: Ukázkový kód pro převod z ods na txt Python. Použijte API ukázkový kód pro dávkový převod souborů ods na txt v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

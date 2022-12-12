@@ -1,6 +1,6 @@
 ---
 title: Merge TSV to MHT Files via Java 
-url: /java/merger/merge-tsv-to-mht/ 
+
 description: Merge TSV to MHT file in Java code. Combine TSV to MHT file using Java based desktop or web application.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir SPREADSHEETML en XLSX via C#
-url: /fr/net/conversion/spreadsheetml-to-xlsx/
+
 description: Exemple de code pour la conversion de tableur ml en xlsx C#. Utilisez l'exemple de code API pour la conversion par lots de fichiers tableurml vers xlsx dans VB.NET, Asp.NET ou toute application basée sur .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

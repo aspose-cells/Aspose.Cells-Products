@@ -1,6 +1,6 @@
-﻿---
+---
 title: FODS'u C# aracılığıyla MHTML'ye dönüştürün
-url: /tr/net/conversion/fods-to-mhtml/
+
 description: Yemlerin mhtml C# dönüşümüne ilişkin örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu dosya dosyaları için mhtml dönüştürme için API örnek kodu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

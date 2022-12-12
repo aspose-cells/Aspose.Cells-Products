@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera NUMBERS till TIFF via C#
-url: /sv/net/conversion/numbers-to-tiff/
+
 description: Exempelkod för siffror till tiff C#-konvertering. Använd API exempelkod för batchnummerfiler för att tiff-konvertera inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

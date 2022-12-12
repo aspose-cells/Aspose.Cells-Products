@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer FODS naar XLTM via C#
-url: /nl/net/conversion/fods-to-xltm/
+
 description: Voorbeeldcode voor conversie van fods naar xltm C#. Gebruik API voorbeeldcode voor batch-fods-bestanden naar xltm-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

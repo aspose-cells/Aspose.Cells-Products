@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést ODS na SVG prostřednictvím Python
-url: /cs/python-java/conversion/ods-to-svg/
+
 description: Ukázkový kód pro převod z ods na svg Python. Použijte API ukázkový kód pro dávkový převod souborů ods na svg v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

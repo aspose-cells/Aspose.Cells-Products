@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование TABDELIMITED в HTML через Java 
-url: /ru/java/conversion/tabdelimited-to-html/ 
+
 description: Пример кода преобразования Java для формата TABDELIMITED в файл HTML. Программисты могут использовать этот пример кода для экспорта электронных таблиц Excel и OpenOffice в формат HTML в любом веб- или настольном Java приложении.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

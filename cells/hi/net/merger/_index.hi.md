@@ -1,6 +1,6 @@
-﻿---
+---
 title: एक्सेल फ़ाइल मर्जर API .NET C#
-url: /hi/net/merger/
+
 description: एक्सेल और ओपनऑफिस स्प्रेडशीट फाइलों को केवल C# कोड की कुछ पंक्तियों के साथ संयोजित करें।
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

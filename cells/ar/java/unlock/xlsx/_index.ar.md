@@ -1,7 +1,7 @@
-﻿---
+---
 title: فتح مستند XLSX عبر Java 
 weight: 310
-url: /ar/java/unlock/xlsx/ 
+
 description: Java نموذج رمز لإلغاء تأمين ملف XLSX المحمي بكلمة مرور في Java Runtime Environment لتطبيق JSP / JSF وتطبيقات سطح المكتب.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++アプリケーションを介してXLSをXLTMに変換する 
 weight: 2890
-url: /ja/cpp/conversion/xls-to-xltm/ 
+
 description: XLSドキュメントからXLTM形式へのサンプルC++変換コード。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でXLSからXLTMへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

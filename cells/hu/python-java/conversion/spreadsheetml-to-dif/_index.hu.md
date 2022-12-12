@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SPREADSHEETML konvertálása DIF-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/spreadsheetml-to-dif/
+
 description: Mintakód a táblázatkezelőből a dif Python konverzióhoz. Használjon API példakódot a kötegelt táblázatkezelő fájlokhoz a konverzió szétválasztásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

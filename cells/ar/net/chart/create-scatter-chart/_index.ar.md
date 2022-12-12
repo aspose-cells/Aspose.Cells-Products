@@ -1,6 +1,6 @@
-﻿---
+---
 title: إنشاء مخططات مبعثرة عبر C#
-url: /ar/net/create-scatter-chart/
+
 description: C# نموذج كود لإنشاء مخططات مبعثرة في Excel باستخدام .NET Library. استخدم هذا الرمز لإنشاء مخطط مبعثر إلى MS Excel داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

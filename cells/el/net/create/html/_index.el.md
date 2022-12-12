@@ -1,6 +1,6 @@
-﻿---
+---
 title: Δημιουργία Αρχείων HTML μέσω C# 
-url: /el/net/create-html/ 
+
 description: C# Δείγμα κώδικα για τη δημιουργία εγγράφων HTML. Χρησιμοποιήστε αυτόν τον κώδικα για τη δημιουργία αρχείων HTML σε VB.NET, Asp.NET ή οποιαδήποτε εφαρμογή που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

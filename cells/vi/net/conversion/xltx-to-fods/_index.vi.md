@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi XLTX sang FODS qua C#
-url: /vi/net/conversion/xltx-to-fods/
+
 description: Mã mẫu cho chuyển đổi xltx sang fods C#. Sử dụng API mã mẫu cho các tệp xltx hàng loạt để chuyển đổi fods trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

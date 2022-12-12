@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TSV إلى MARKDOWN عبر C#
-url: /ar/net/conversion/tsv-to-markdown/
+
 description: نموذج رمز لتحويل tsv إلى تخفيض السعر C#. استخدم API رمز المثال لملفات tsv المجمعة لتسليط الضوء على التحويل داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

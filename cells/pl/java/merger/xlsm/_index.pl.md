@@ -1,7 +1,7 @@
-﻿---
+---
 title: Scal pliki XLSM przez Java 
 weight: 1270
-url: /pl/java/merger/xlsm/ 
+
 description: Java przykładowy kod do łączenia dokumentów XLSM w Java środowisku wykonawczym dla aplikacji JSP/JSF i aplikacji komputerowych.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

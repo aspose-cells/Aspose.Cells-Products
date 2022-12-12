@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование SPREADSHEETML в XLAM с помощью Python
-url: /ru/python-java/conversion/spreadsheetml-to-xlam/
+
 description: Пример кода для преобразования электронной таблицыml в xlam Python. Используйте пример кода API для пакетного преобразования файлов электронной таблицыml в xlam в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

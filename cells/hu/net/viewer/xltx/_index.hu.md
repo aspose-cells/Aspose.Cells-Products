@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLTX fájlformátumok megtekintése a következőn keresztül: .NET "
 weight: 7870
-url: /hu/net/viewer/xltx/ 
+
 description: C# forráskód az XLTX dokumentumok betöltéséhez, rendereléséhez és megjelenítéséhez .NET Framework, .NET Core, Mono vagy Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

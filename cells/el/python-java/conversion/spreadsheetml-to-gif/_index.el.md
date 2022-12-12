@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή SPREADSHEETML σε GIF μέσω Python
-url: /el/python-java/conversion/spreadsheetml-to-gif/
+
 description: Δείγμα κώδικα για τη μετατροπή υπολογιστικού φύλλου ml σε gif Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία υπολογιστικού φύλλου για μετατροπή gif εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

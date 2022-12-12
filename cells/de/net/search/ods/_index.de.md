@@ -1,7 +1,7 @@
-﻿---
+---
 title: ODS-Dokument durchsuchen, ohne es über .NET zu öffnen 
 weight: 160
-url: /de/net/search/ods/ 
+
 description: C#-Quellcode zum Suchen von Wörtern mit Muster in der ODS-Datei auf .NET Framework-, .NET Core-, Mono- oder Xamarin-Plattformen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Crie gráficos de linha por meio de Python
-url: /pt/python-java/create-line-chart/
+
 description: Python Código de amostra para criar gráficos de linha para Excel usando a biblioteca Python. Use este código para criar um gráfico de linhas para o MS Excel dentro do aplicativo baseado em Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to DIF via C#
-url: /net/conversion/html-to-dif/
+
 description: Convert HTML to DIF format in C# code. Save HTML as DIF using VB.NET, Asp.NET or any .NET based application.
 ---
 

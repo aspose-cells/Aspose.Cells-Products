@@ -1,6 +1,6 @@
 ---
 title: Convert XLSM to TABDELIMITED via C++
-url: /cpp/conversion/xlsm-to-tabdelimited/
+
 description: Convert XLSM to TABDELIMITED format in C++ code. Save XLSM as TABDELIMITED using C++.
 ---
 

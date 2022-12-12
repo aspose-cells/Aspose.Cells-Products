@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLSM na HTML pomocí Python
-url: /cs/python-java/conversion/xlsm-to-html/
+
 description: Ukázkový kód pro převod xlsm na html Python. Použijte API ukázkový kód pro dávkový převod souborů xlsm na html v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

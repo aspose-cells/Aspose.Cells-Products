@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan XLTX ke DIF melalui C#
-url: /id/net/conversion/xltx-to-dif/
+
 description: Contoh kode untuk konversi xltx ke dif C#. Gunakan API kode contoh untuk berkas xltx batch ke konversi berbeda dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل SPREADSHEETML إلى XLAM عبر Python
-url: /ar/python-java/conversion/spreadsheetml-to-xlam/
+
 description: نموذج كود لتحويل جدول البيانات إلى xlam Python. استخدم API رمز المثال لملفات جداول البيانات الدفعية لتحويل xlam داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

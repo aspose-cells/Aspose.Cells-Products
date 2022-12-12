@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLT naar BMP via Python
-url: /nl/python-java/conversion/xlt-to-bmp/
+
 description: Voorbeeldcode voor xlt naar bmp Python conversie. Gebruik API voorbeeldcode voor batch xlt-bestanden naar bmp-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

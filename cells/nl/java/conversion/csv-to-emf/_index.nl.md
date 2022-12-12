@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer CSV naar EMF via Java 
 weight: 4550
-url: /nl/java/conversion/csv-to-emf/ 
+
 description: Voorbeeld Java conversiecode voor CSV-indeling naar EMF-bestand. Programmeurs kunnen deze voorbeeldcode gebruiken om Excel- en OpenOffice-spreadsheets naar EMF te exporteren binnen elke web- of desktoptoepassing Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

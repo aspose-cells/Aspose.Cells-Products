@@ -1,7 +1,7 @@
-﻿---
+---
 title: إنشاء التقارير في ملفات XLSM عبر .NET 
 weight: 4400
-url: /ar/net/assembly/xlsm/ 
+
 description: C# شفرة المصدر لإنشاء تقارير بتنسيق XLSM على .NET Framework أو .NET Core أو Mono أو أنظمة Xamarin الأساسية.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

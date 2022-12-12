@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通過 C++ 應用程序將 ODS 轉換為 XPS 
 weight: 1930
-url: /zh-hant/cpp/conversion/ods-to-xps/ 
+
 description: ODS 文檔到 XPS 格式的示例 C++ 轉換代碼。程序員可以使用此源代碼在任何 C++ 應用程序中批量轉換 ODS 到 XPS。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

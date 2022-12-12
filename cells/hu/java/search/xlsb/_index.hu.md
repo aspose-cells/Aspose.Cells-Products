@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLSB-dokumentum keresése megnyitás nélkül a következőn keresztül: Java "
 weight: 9420
-url: /hu/java/search/xlsb/ 
+
 description: Java mintakód a mintával rendelkező szavak kereséséhez az XLSB fájlban a Java Futási környezet JSP/JSF alkalmazásokhoz és asztali alkalmazásokhoz.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

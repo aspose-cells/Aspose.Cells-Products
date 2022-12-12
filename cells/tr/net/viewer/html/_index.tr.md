@@ -1,6 +1,6 @@
-﻿---
+---
 title: .NET aracılığıyla HTML Dosya Biçimlerini Görüntüle 
-url: /tr/net/viewer/html/ 
+
 description: .NET Framework, .NET Core, Windows Azure, Mono veya Xamarin Platformlarında HTML belgelerini yüklemek, oluşturmak ve görüntülemek için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLSB-Dateien über .NET aufteilen 
 weight: 7370
-url: /de/net/splitter/xlsb/ 
+
 description: C#-Quellcode zum Aufteilen von XLSB-Dokumenten auf .NET Framework-, .NET Core-, Mono- oder Xamarin-Plattformen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

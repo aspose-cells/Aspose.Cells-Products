@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل TSV إلى BMP عبر تطبيق C++ 
 weight: 7000
-url: /ar/cpp/conversion/tsv-to-bmp/ 
+
 description: نموذج لشفرة تحويل C++ لمستند TSV إلى تنسيق BMP. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل TSV دفعة إلى BMP داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

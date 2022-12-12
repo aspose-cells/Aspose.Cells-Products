@@ -1,6 +1,6 @@
-﻿---
+---
 title: एमएचटीएमएल को Python के माध्यम से एमडी में बदलें
-url: /hi/python-java/conversion/mhtml-to-md/
+
 description: mhtml से md Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर md रूपांतरण के लिए बैच mhtml फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

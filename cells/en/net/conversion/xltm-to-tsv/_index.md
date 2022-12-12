@@ -1,6 +1,6 @@
 ---
 title: Convert XLTM to TSV via C#
-url: /net/conversion/xltm-to-tsv/
+
 description: Convert XLTM to TSV format in C# code. Save XLTM as TSV using VB.NET, Asp.NET or any .NET based application.
 ---
 

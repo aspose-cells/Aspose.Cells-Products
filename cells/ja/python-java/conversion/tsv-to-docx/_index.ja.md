@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してTSVをDOCXに変換します
-url: /ja/python-java/conversion/tsv-to-docx/
+
 description: tsvからdocxPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチtsvファイルからdocxへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

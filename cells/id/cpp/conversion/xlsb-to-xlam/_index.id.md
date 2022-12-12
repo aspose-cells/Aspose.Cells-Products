@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi XLSB ke XLAM melalui C++ aplikasi 
-url: /id/cpp/conversion/xlsb-to-xlam/ 
+
 description: Contoh C++ kode konversi untuk dokumen XLSB ke format XLAM. Pemrogram dapat menggunakan kode sumber ini untuk konversi batch XLSB ke XLAM dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

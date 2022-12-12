@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to XPS via C++
-url: /cpp/conversion/sxc-to-xps/
+
 description: Convert SXC to XPS format in C++ code. Save SXC as XPS using C++.
 ---
 

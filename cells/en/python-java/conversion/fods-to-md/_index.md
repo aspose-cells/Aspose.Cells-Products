@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to MD via Python
-url: /python-java/conversion/fods-to-md/
+
 description: Convert FODS to MD format in Python code. Save FODS as MD using Python.
 ---
 

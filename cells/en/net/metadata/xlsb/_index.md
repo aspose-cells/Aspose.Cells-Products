@@ -1,7 +1,7 @@
 ---
 title: View or Edit XLSB Files Metadata via .NET 
 weight: 7890
-url: /net/metadata/xlsb/ 
+
 description: C# source code to edit or view XLSB format metadata on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

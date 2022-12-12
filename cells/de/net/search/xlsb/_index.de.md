@@ -1,7 +1,7 @@
-﻿---
+---
 title: Durchsuchen Sie das XLSB-Dokument, ohne es über .NET zu öffnen 
 weight: 8880
-url: /de/net/search/xlsb/ 
+
 description: C#-Quellcode zum Suchen von Wörtern mit Muster in der XLSB-Datei auf .NET Framework-, .NET Core-, Mono- oder Xamarin-Plattformen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

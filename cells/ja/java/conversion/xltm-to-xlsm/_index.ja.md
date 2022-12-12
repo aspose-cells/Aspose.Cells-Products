@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してXLTMをXLSMに変換します 
-url: /ja/java/conversion/xltm-to-xlsm/ 
+
 description: XLTM形式からXLSMファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のXLSMにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

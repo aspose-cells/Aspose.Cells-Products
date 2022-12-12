@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してXLSMをXMLに変換します
-url: /ja/net/conversion/xlsm-to-xml/
+
 description: xlsmからxmlC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチxlsmファイルからxmlへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

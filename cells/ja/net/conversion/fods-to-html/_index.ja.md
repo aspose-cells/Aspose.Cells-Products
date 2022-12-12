@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してFODSをHTMLに変換する
-url: /ja/net/conversion/fods-to-html/
+
 description: fodsからhtmlC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチfodsファイルからhtmlへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

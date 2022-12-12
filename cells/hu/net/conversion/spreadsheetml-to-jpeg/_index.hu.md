@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SPREADSHEETML konvertálása JPEG formátumba a következőn keresztül: C#"
-url: /hu/net/conversion/spreadsheetml-to-jpeg/
+
 description: Mintakód a táblázatkezelőből JPEG-be C#. Használjon API példakódot kötegelt táblázatkezelő fájlokhoz a jpeg konvertáláshoz VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

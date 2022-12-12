@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer TSV naar GIF via C#
-url: /nl/net/conversion/tsv-to-gif/
+
 description: Voorbeeldcode voor conversie van tsv naar gif C#. Gebruik API voorbeeldcode voor batch-tsv-bestanden naar gif-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

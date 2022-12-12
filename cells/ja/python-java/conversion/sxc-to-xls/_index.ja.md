@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してSXCをXLSに変換します
-url: /ja/python-java/conversion/sxc-to-xls/
+
 description: sxcからxlsPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチsxcファイルからxlsへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to TABDELIMITED via Python
-url: /python-net/conversion/xls-to-tabdelimited/
+
 description: Sample code for xls to tabdelimited Python conversion. Use API example code for batch xls files to tabdelimited conversion within Python application.
 ---
 

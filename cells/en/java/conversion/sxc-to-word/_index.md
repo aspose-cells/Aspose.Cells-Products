@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to WORD via Java 
-url: /java/conversion/sxc-to-word/
+
 description: Convert SXC to WORD format in Java code. Save SXC as WORD using Java.
 ---
 

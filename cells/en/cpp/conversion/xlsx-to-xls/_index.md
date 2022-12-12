@@ -1,6 +1,6 @@
 ---
 title: Convert XLSX to XLS via C++
-url: /cpp/conversion/xlsx-to-xls/
+
 description: Convert XLSX to XLS format in C++ code. Save XLSX as XLS using C++.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TABDELIMITED konvertálása FODS-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/tabdelimited-to-fods/
+
 description: Mintakód a tabulátorral elválasztott fods Python konverzióhoz. Használjon API példakódot a tabulátorral határolt fájlok kötegelt konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

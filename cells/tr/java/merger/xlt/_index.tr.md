@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLT Dosyalarını Java ile Birleştir 
 weight: 9960
-url: /tr/java/merger/xlt/ 
+
 description: JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Runtime Environment'da XLT belgelerini birleştirmek için Java örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konwertuj CSV na XPS za pomocą aplikacji C++ 
 weight: 3170
-url: /pl/cpp/conversion/csv-to-xps/ 
+
 description: Przykładowy kod konwersji C++ dla dokumentu CSV do formatu XPS. Programiści mogą używać tego kodu źródłowego do wsadowej konwersji plików CSV do XPS w dowolnej aplikacji C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

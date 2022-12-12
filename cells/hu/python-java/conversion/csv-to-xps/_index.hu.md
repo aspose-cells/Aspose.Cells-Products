@@ -1,6 +1,6 @@
-﻿---
+---
 title: "CSV konvertálása XPS-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/csv-to-xps/
+
 description: Mintakód a csv–xps Python konverzióhoz. Használjon API példakódot a csv-fájlok kötegelt xps-be konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

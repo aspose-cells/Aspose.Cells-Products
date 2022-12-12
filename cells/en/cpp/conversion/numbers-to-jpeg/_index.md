@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to JPEG via C++
-url: /cpp/conversion/numbers-to-jpeg/
+
 description: Convert NUMBERS to JPEG format in C++ code. Save NUMBERS as JPEG using C++.
 ---
 

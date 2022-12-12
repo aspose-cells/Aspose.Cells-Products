@@ -1,7 +1,7 @@
 ---
 title: Unlock XLSM document via Java 
 weight: 7700
-url: /java/unlock/xlsm/ 
+
 description: Java sample code to unlock password protected XLSM file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

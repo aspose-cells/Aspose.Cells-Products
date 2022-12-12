@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 Python 將 CSV 轉換為 XLAM
-url: /zh-hant/python-java/conversion/csv-to-xlam/
+
 description: csv 到 xlam Python 轉換的示例代碼。使用 Python 應用程序中將 csv 文件批量轉換為 xlam 的 API 示例代碼。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

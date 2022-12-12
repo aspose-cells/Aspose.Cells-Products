@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή SPREADSHEETML σε XLSB μέσω C#
-url: /el/net/conversion/spreadsheetml-to-xlsb/
+
 description: Δείγμα κώδικα για μετατροπή υπολογιστικού φύλλου σε xlsb C#. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία υπολογιστικού φύλλου ml σε μετατροπή xlsb εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

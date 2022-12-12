@@ -1,7 +1,7 @@
-﻿---
+---
 title: Создание отчетов в файлах XLS с помощью Java 
 weight: 1090
-url: /ru/java/assembly/xls/ 
+
 description: Пример кода Java для создания отчетов в формате XLS в Java среде выполнения для приложений JSP/JSF и настольных приложений.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to PDF via C++
-url: /cpp/conversion/json-to-pdf/
+
 description: Convert JSON to PDF format in C++ code. Save JSON as PDF using C++.
 ---
 

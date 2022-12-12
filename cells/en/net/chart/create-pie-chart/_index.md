@@ -1,6 +1,6 @@
 ---
 title: Create Pie Charts via C#
-url: /net/create-pie-chart/
+
 description: C# Sample code for creating Pie charts to Excel using .NET Library. Use this code for creating a Pie chart to MS Excel within VB.NET, Asp.NET or any .NET based application.
 
 ---

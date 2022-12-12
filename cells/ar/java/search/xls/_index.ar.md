@@ -1,7 +1,7 @@
-﻿---
+---
 title: البحث في مستند XLS بدون فتح عبر Java 
 weight: 9430
-url: /ar/java/search/xls/ 
+
 description: Java نموذج كود للبحث عن الكلمات ذات النمط في ملف XLS في Java Runtime Environment لتطبيق JSP / JSF وتطبيقات سطح المكتب.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

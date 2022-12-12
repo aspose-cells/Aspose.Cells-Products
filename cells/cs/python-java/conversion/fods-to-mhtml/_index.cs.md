@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést FODS na MHTML prostřednictvím Python
-url: /cs/python-java/conversion/fods-to-mhtml/
+
 description: Ukázkový kód pro konverzi fod na mhtml Python. Použijte API ukázkový kód pro dávkové soubory fods na mhtml konverzi v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

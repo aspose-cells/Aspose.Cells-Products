@@ -1,6 +1,6 @@
-﻿---
+---
 title: Tạo Tệp MS Excel XLTM qua C# 
-url: /vi/net/create-xltm/ 
+
 description: C# Mã mẫu để tạo tài liệu XLTM. Sử dụng mã này để tạo tệp MS Excel XLTM trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

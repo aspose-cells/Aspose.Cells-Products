@@ -1,7 +1,7 @@
-﻿---
+---
 title: Chuyển đổi XLSX sang PDF / A Tệp được tuân thủ qua Java 
 weight: 3200
-url: /vi/java/conversion/xlsx-to-pdf-a/ 
+
 description: Mã chuyển đổi Java mẫu cho định dạng XLSX sang PDF A Tệp tuân thủ. Người lập trình có thể sử dụng mã ví dụ này để xuất bảng tính Excel & OpenOffice sang Tệp tuân thủ PDFA trong bất kỳ Ứng dụng dựa trên Web hoặc Máy tính để bàn Java nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してHTMLをJSONに変換する
-url: /ja/net/conversion/html-to-json/
+
 description: htmlからjsonC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチhtmlファイルからjsonへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

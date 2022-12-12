@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++を介してTSVファイルをマージ 
-url: /ja/cpp/merger/tsv/ 
+
 description: C++ Windows 32ビット、Windows 64ビット、Linux64ビットのランタイム環境でTSVドキュメントを組み合わせるためのサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

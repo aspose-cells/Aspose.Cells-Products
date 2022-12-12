@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla TSV'yi TABDELIMITED'e dönüştürün
-url: /tr/net/conversion/tsv-to-tabdelimited/
+
 description: tsv'den sekmeyle ayrılmış C# dönüşümüne ilişkin örnek kod. Toplu tsv dosyaları için VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde sekmeyle ayrılmış dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

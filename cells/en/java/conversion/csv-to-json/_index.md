@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to JSON via Java 
-url: /java/conversion/csv-to-json/
+
 description: Convert CSV to JSON format in Java code. Save CSV as JSON using Java.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLTM na XLSB přes Python
-url: /cs/python-java/conversion/xltm-to-xlsb/
+
 description: Ukázkový kód pro převod xltm na xlsb Python. Použijte API ukázkový kód pro dávkový převod souborů xltm na xlsb v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "CSV konvertálása PDF-be a következőn keresztül: C#"
-url: /hu/net/conversion/csv-to-pdf/
+
 description: Mintakód a csv-ből pdf-be C# konvertáláshoz. Használjon API példakódot a csv fájlok kötegelt PDF konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

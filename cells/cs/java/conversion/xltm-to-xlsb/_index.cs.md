@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést XLTM na XLSB přes Java 
 weight: 9370
-url: /cs/java/conversion/xltm-to-xlsb/ 
+
 description: Ukázkový konverzní kód Java pro formát XLTM na soubor XLSB. Programátoři mohou použít tento příklad kódu k exportu tabulek Excelu a OpenOffice do XLSB v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

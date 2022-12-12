@@ -1,7 +1,7 @@
-﻿---
+---
 title: Преобразование HTML в XLT через Java 
 weight: 8090
-url: /ru/java/conversion/html-to-xlt/ 
+
 description: Пример кода преобразования Java для формата HTML в файл XLT. Программисты могут использовать этот пример кода для экспорта электронных таблиц Excel и OpenOffice в формат XLT в любом веб- или настольном Java приложении.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

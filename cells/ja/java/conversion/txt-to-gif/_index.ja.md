@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してTXTをGIFに変換します 
 weight: 1100
-url: /ja/java/conversion/txt-to-gif/ 
+
 description: TXT形式からGIFファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のGIFにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

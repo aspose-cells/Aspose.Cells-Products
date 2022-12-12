@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to BMP via Python
-url: /python-java/conversion/numbers-to-bmp/
+
 description: Convert NUMBERS to BMP format in Python code. Save NUMBERS as BMP using Python.
 ---
 

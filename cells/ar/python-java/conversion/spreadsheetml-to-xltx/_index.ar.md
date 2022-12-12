@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل SPREADSHEETML إلى XLTX عبر Python
-url: /ar/python-java/conversion/spreadsheetml-to-xltx/
+
 description: نموذج كود لتحويل جدول البيانات إلى xltx Python. استخدم API رمز المثال لملفات جداول البيانات الدفعية لتحويل xltx داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

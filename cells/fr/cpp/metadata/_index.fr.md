@@ -1,6 +1,6 @@
-﻿---
+---
 title: Gérer les métadonnées des fichiers Excel via C++
-url: /fr/cpp/metadata/
+
 description: Afficher, ajouter, modifier, supprimer ou extraire les métadonnées des fichiers Excel à l'aide de la bibliothèque C++
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

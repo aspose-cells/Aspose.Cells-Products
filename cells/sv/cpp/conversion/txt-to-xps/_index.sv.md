@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera TXT till XPS via programmet C++ 
-url: /sv/cpp/conversion/txt-to-xps/ 
+
 description: Exempel på konverteringskod för C++ för TXT-dokument till XPS-format. Programmerare kan använda den här källkoden för batchkonvertering av TXT till XPS inom alla C++-program.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

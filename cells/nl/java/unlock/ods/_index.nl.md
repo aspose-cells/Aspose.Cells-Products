@@ -1,7 +1,7 @@
-﻿---
+---
 title: Ontgrendel ODS-document via Java 
 weight: 5080
-url: /nl/java/unlock/ods/ 
+
 description: Java voorbeeldcode om met een wachtwoord beveiligd ODS-bestand te ontgrendelen in Java Runtime Environment voor JSP/JSF-applicaties en desktopapplicaties.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

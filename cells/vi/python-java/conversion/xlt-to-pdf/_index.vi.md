@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển XLT sang PDF qua Python
-url: /vi/python-java/conversion/xlt-to-pdf/
+
 description: Mã mẫu cho chuyển đổi xlt sang pdf Python. Sử dụng mã mẫu API cho chuyển đổi hàng loạt tệp xlt sang pdf trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

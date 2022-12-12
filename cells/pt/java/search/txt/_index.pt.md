@@ -1,7 +1,7 @@
-﻿---
+---
 title: Pesquisar documento TXT sem abrir via Java 
 weight: 1200
-url: /pt/java/search/txt/ 
+
 description: Java código de amostra para pesquisar palavras com padrão no arquivo TXT no Java ambiente de tempo de execução para aplicativos JSP/JSF e aplicativos de desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

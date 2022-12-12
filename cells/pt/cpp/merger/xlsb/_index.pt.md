@@ -1,6 +1,6 @@
-﻿---
+---
 title: Mesclar arquivos XLSB via C++ 
-url: /pt/cpp/merger/xlsb/ 
+
 description: C++ código de exemplo para combinar documentos XLSB em C++ Runtime Environment para Windows 32 bits, Windows 64 bits e Linux 64 bits.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

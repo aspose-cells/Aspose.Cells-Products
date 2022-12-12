@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование CSV в XLTM через Python
-url: /ru/python-java/conversion/csv-to-xltm/
+
 description: Пример кода для преобразования csv в xltm Python. Используйте пример кода API для пакетного преобразования CSV-файлов в xltm в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

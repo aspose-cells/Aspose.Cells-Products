@@ -1,6 +1,6 @@
-﻿---
+---
 title: NUMBERS को C# के द्वारा MHTML में बदलें
-url: /hi/net/conversion/numbers-to-mhtml/
+
 description: संख्याओं के लिए नमूना कोड mhtml C# रूपांतरण के लिए। VB.NET, Asp.NET या किसी भी .NET आधारित एप्लिकेशन में बैच नंबर फ़ाइलों के लिए mhtml रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta XLSB a TABDELIMITED a través de la aplicación C++ 
-url: /es/cpp/conversion/xlsb-to-tabdelimited/ 
+
 description: Ejemplo de código de conversión C++ para documento XLSB a formato TABDELIMITED. Los programadores pueden usar este código fuente para la conversión por lotes de XLSB a TABDELIMITED dentro de cualquier aplicación C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

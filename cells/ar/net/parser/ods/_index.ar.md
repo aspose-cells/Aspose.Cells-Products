@@ -1,7 +1,7 @@
-﻿---
+---
 title: استخراج نص وصور من مستند ODS عبر .NET 
 weight: 6970
-url: /ar/net/parser/ods/ 
+
 description: C# شفرة المصدر لاستخراج نص وصور من ملف ODS على .NET Framework أو .NET Core أو Mono أو أنظمة Xamarin الأساسية.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

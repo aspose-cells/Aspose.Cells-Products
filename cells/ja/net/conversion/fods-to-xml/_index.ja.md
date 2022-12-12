@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してFODSをXMLに変換します
-url: /ja/net/conversion/fods-to-xml/
+
 description: fodsからxmlC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチfodファイルからxmlへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

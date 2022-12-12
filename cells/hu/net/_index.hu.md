@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET Excel API | Táblázatformátumok feldolgozása a .NET Core segítségével 
 weight: 2030
-url: /hu/net/ 
+
 description: C# ASP.NET VB.NET könyvtár a Microsoft Excel dokumentumok kezeléséhez. Hozzon létre olvasási írási mentést és nyomtasson táblázatfájlokat. Konvertálja PDF vagy több formátumba
 ---
 {{< blocks/products/pf/main-wrap-class >}}

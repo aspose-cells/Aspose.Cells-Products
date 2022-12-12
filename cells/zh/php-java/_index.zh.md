@@ -1,7 +1,7 @@
-﻿---
+---
 title: Excel 电子表格 PHP API - Aspose 
 weight: 3660
-url: /zh/php-java/ 
+
 description: PHP Excel 电子表格 API 用于读写和转换 XLS XLSX CSV TSV HTML ODS SpreadsheetML 和所有 Excel 97-2016 格式。将电子表格导出为多种格式
 ---
 {{< blocks/products/pf/main-wrap-class >}}

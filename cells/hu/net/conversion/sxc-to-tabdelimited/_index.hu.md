@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SXC konvertálása TABLEDELIMITED-re a következőn keresztül: C#"
-url: /hu/net/conversion/sxc-to-tabdelimited/
+
 description: Mintakód az sxc-ből tabulátorral tagolt C#-es konverzióhoz. Használjon API példakódot kötegelt sxc fájlokhoz a tabulátorral tagolt konverzióhoz VB.NET, Asp.NET vagy bármely .NET alapú alkalmazásban.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

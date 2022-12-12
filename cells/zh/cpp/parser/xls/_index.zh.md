@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通过 C++ 从 XLS 文档中提取文本和图像 
 weight: 7610
-url: /zh/cpp/parser/xls/ 
+
 description: C++ 示例代码，用于在 Windows 32 位、Windows 64 位和 Linux 64 位的 C++ 运行时环境中从 XLS 文件中提取文本和图像。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

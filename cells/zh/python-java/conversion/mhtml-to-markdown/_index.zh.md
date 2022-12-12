@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 Python 将 MHTML 转换为 MARKDOWN
-url: /zh/python-java/conversion/mhtml-to-markdown/
+
 description: mhtml 到 markdown Python 转换的示例代码。使用批量 mhtml 文件的 API 示例代码在 Python 应用程序中进行降价转换。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

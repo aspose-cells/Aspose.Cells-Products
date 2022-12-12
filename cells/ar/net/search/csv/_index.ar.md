@@ -1,7 +1,7 @@
-﻿---
+---
 title: بحث في مستند CSV بدون فتح عبر .NET 
 weight: 7510
-url: /ar/net/search/csv/ 
+
 description: C# شفرة المصدر للبحث عن الكلمات ذات النمط في ملف CSV على .NET Framework أو .NET Core أو Mono أو أنظمة Xamarin الأساسية.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

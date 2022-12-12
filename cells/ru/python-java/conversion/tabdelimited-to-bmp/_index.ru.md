@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование TABDELIMITED в BMP через Python
-url: /ru/python-java/conversion/tabdelimited-to-bmp/
+
 description: Пример кода для преобразования tabdelimited в bmp Python. Используйте пример кода API для пакетного преобразования файлов с разделителями табуляции в bmp в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

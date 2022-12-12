@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertieren Sie ODS in XLT über Java 
 weight: 8910
-url: /de/java/conversion/ods-to-xlt/ 
+
 description: Beispiel-Umwandlungscode Java für das ODS-Format in eine XLT-Datei. Programmierer können diesen Beispielcode verwenden, um Excel- und OpenOffice-Tabellen in XLT innerhalb jeder Web- oder Desktop-Java-basierten Anwendung zu exportieren.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

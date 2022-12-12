@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ uygulamasıyla MHTML'yi PDF'ye dönüştürün 
 weight: 2850
-url: /tr/cpp/conversion/mhtml-to-pdf/ 
+
 description: MHTML belgesinden PDF biçimine örnek C++ dönüştürme kodu. Programcılar, herhangi bir C++ Uygulamasında toplu MHTML'den PDF'ye dönüştürme için bu kaynak kodunu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

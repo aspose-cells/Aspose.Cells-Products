@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to XML via C++
-url: /cpp/conversion/html-to-xml/
+
 description: Convert HTML to XML format in C++ code. Save HTML as XML using C++.
 ---
 

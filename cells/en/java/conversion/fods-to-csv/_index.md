@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to CSV via Java 
-url: /java/conversion/fods-to-csv/
+
 description: Convert FODS to CSV format in Java code. Save FODS as CSV using Java.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLSX-et TXT-vé a C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/xlsx-to-txt/ 
+
 description: Minta C++ konverziós kód XLSX dokumentumhoz TXT formátumba. A programozók ezt a forráskódot használhatják kötegelt XLSX-TXT konvertáláshoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

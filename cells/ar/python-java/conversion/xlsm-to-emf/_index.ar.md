@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLSM إلى EMF عبر Python
-url: /ar/python-java/conversion/xlsm-to-emf/
+
 description: نموذج كود للتحويل من xlsm إلى emf Python. استخدم API رمز المثال لملفات xlsm الدفعية لتحويل emf داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj TXT na PDF przez Python
-url: /pl/python-java/conversion/txt-to-pdf/
+
 description: Przykładowy kod konwersji txt do pdf Python. Użyj przykładowego kodu API dla plików wsadowych txt do konwersji pdf w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

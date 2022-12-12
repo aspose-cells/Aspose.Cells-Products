@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++ uygulaması aracılığıyla HTML'yi XLAM'a dönüştürün 
-url: /tr/cpp/conversion/html-to-xlam/ 
+
 description: HTML belgesi için XLAM biçimine örnek C++ dönüştürme kodu. Programcılar, herhangi bir C++ Uygulamasında toplu HTML'den XLAM'e dönüştürme için bu kaynak kodunu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してTXTをXMLに変換します
-url: /ja/python-java/conversion/txt-to-xml/
+
 description: txtからxmlPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチtxtファイルからxmlへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

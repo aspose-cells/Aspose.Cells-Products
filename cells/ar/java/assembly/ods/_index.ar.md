@@ -1,7 +1,7 @@
-﻿---
+---
 title: إنشاء التقارير في ملفات ODS عبر Java 
 weight: 2440
-url: /ar/java/assembly/ods/ 
+
 description: Java نموذج التعليمات البرمجية لإنشاء تقارير بتنسيق ODS حول Java Runtime Environment لتطبيق JSP / JSF وتطبيقات سطح المكتب.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

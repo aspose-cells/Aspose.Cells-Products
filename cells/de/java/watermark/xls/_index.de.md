@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLS-Dokument mit Wasserzeichen über Java 
 weight: 2210
-url: /de/java/watermark/xls/ 
+
 description: Java Beispielcode zum Hinzufügen oder Entfernen von Wasserzeichen zu einer XLS-Datei in Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

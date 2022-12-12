@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java経由でCSVをTXTに変換 
 weight: 500
-url: /ja/java/conversion/csv-to-txt/ 
+
 description: CSV形式からTXTファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のTXTにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

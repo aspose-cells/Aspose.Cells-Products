@@ -1,7 +1,7 @@
-﻿---
+---
 title: TSV को Java के माध्यम से EMF में बदलें 
 weight: 2530
-url: /hi/java/conversion/tsv-to-emf/ 
+
 description: नमूना Java TSV प्रारूप के लिए EMF फ़ाइल में रूपांतरण कोड। प्रोग्रामर इस उदाहरण कोड का उपयोग किसी भी वेब या डेस्कटॉप Java आधारित एप्लिकेशन के भीतर एक्सेल और ओपनऑफिस स्प्रेडशीट को ईएमएफ में निर्यात करने के लिए कर सकते हैं।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

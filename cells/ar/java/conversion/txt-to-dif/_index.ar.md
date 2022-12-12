@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل TXT إلى DIF عبر Java 
 weight: 8220
-url: /ar/java/conversion/txt-to-dif/ 
+
 description: نموذج Java رمز التحويل لتنسيق TXT إلى ملف DIF. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى DIF داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

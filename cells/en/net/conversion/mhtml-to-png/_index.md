@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to PNG via C#
-url: /net/conversion/mhtml-to-png/
+
 description: Convert MHTML to PNG format in C# code. Save MHTML as PNG using VB.NET, Asp.NET or any .NET based application.
 ---
 

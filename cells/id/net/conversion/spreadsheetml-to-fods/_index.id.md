@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan SPREADSHEETML ke FODS melalui C#
-url: /id/net/conversion/spreadsheetml-to-fods/
+
 description: Contoh kode untuk spreadsheetml ke fods C# konversi. Gunakan API kode contoh untuk file spreadsheetml batch ke konversi makanan dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

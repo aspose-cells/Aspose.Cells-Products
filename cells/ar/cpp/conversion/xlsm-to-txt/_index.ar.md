@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLSM إلى TXT عبر تطبيق C++ 
-url: /ar/cpp/conversion/xlsm-to-txt/ 
+
 description: نموذج C++ رمز التحويل لمستند XLSM إلى تنسيق TXT. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل XLSM إلى TXT في أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

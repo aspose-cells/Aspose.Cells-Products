@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to DIF via C#
-url: /net/conversion/tabdelimited-to-dif/
+
 description: Convert TABDELIMITED to DIF format in C# code. Save TABDELIMITED as DIF using VB.NET, Asp.NET or any .NET based application.
 ---
 

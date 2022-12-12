@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to PNG via Java 
-url: /java/conversion/mhtml-to-png/
+
 description: Convert MHTML to PNG format in Java code. Save MHTML as PNG using Java.
 ---
 

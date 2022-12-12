@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir des NUMBERS en DOCX via Python
-url: /fr/python-java/conversion/numbers-to-docx/
+
 description: Exemple de code pour la conversion des nombres en docx Python. Utilisez l'exemple de code API pour les fichiers de numéros de lot en conversion docx dans l'application Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

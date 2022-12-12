@@ -1,6 +1,6 @@
-﻿---
+---
 title: Crie arquivos do Excel por meio de Java
-url: /pt/java/assembly/
+
 description: Gere planilhas do Microsoft Excel a partir de uma planilha de modelo usando a biblioteca de planilhas Java
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

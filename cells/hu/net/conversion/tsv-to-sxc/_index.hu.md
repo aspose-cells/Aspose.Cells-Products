@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TSV konvertálása SXC-re a következőn keresztül: C#"
-url: /hu/net/conversion/tsv-to-sxc/
+
 description: Mintakód a tsv–sxc C# konverzióhoz. Használjon API példakódot a tsv fájlok kötegelt sxc konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

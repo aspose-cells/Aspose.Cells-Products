@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Konvertálja az XLT-t PDF-be a következőn keresztül: Python"
-url: /hu/python-java/conversion/xlt-to-pdf/
+
 description: Mintakód az xlt-ből pdf-be Python konvertáláshoz. Használjon API példakódot a kötegelt xlt-fájlok PDF-be konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

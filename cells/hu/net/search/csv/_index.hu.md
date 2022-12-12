@@ -1,7 +1,7 @@
-﻿---
+---
 title: "CSV-dokumentum keresése megnyitás nélkül a következőn keresztül: .NET "
 weight: 7510
-url: /hu/net/search/csv/ 
+
 description: C# forráskód a CSV-fájlban lévő mintákkal rendelkező szavak kereséséhez a .NET Framework, .NET Core, Mono vagy Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

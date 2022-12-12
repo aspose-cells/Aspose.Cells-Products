@@ -1,7 +1,7 @@
-﻿---
+---
 title: Anzeigen oder Bearbeiten von Metadaten von XLS-Dateien über .NET 
 weight: 1410
-url: /de/net/metadata/xls/ 
+
 description: C#-Quellcode zum Bearbeiten oder Anzeigen von Metadaten im XLS-Format auf .NET Framework-, .NET Core-, Mono- oder Xamarin-Plattformen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

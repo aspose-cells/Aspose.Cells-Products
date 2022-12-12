@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SXC konvertálása DOCX-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/sxc-to-docx/
+
 description: Mintakód az sxc–docx Python konverzióhoz. Használjon API példakódot kötegelt sxc fájlok docx konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

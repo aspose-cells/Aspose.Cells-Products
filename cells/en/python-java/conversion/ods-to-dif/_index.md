@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to DIF via Python
-url: /python-java/conversion/ods-to-dif/
+
 description: Convert ODS to DIF format in Python code. Save ODS as DIF using Python.
 ---
 

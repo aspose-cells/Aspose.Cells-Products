@@ -1,7 +1,7 @@
-﻿---
+---
 title: Συγχώνευση αρχείων CSV μέσω Java 
 weight: 3860
-url: /el/java/merger/csv/ 
+
 description: Java δείγμα κώδικα για συνδυασμό εγγράφων CSV στο Java Runtime Environment για JSP/JSF Application και Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

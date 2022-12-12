@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to PNG via C#
-url: /net/conversion/excel-to-png/
+
 description: Convert EXCEL to PNG format in C# code. Save EXCEL as PNG using VB.NET, Asp.NET or any .NET based application.
 ---
 

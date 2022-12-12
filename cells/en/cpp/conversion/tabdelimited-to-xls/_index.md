@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to XLS via C++
-url: /cpp/conversion/tabdelimited-to-xls/
+
 description: Convert TABDELIMITED to XLS format in C++ code. Save TABDELIMITED as XLS using C++.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "ODS konvertálása EMF-vé a következőn keresztül: C#"
-url: /hu/net/conversion/ods-to-emf/
+
 description: Mintakód az ods to emf C# konverziójához. Használjon API példakódot kötegelt ods-fájlokhoz az EMF-konverzióhoz VB.NET-on, Asp-n.NET vagy bármely .NET-alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

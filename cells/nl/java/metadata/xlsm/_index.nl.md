@@ -1,7 +1,7 @@
-﻿---
+---
 title: Metadata van XLSM-bestanden bewerken of bekijken via Java 
 weight: 9030
-url: /nl/java/metadata/xlsm/ 
+
 description: Java voorbeeldcode om metadata in XLSM-indeling te bewerken of te bekijken in Java Runtime Environment voor JSP/JSF-applicaties en desktopapplicaties.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

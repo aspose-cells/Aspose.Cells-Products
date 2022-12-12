@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET経由でXLSMファイル形式を表示 
 weight: 9980
-url: /ja/net/viewer/xlsm/ 
+
 description: .NETフレームワーク、.NETコア、Mono、またはXamarinプラットフォームでXLSMドキュメントをロード、レンダリング、および表示するためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SPREADSHEETML konvertálása XPS-re a következőn keresztül: C#"
-url: /hu/net/conversion/spreadsheetml-to-xps/
+
 description: Mintakód a táblázatkezelőből az xps C# konverziójához. Használjon API példakódot a kötegelt táblázatkezelő fájlok xps konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

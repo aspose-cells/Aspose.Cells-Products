@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést SPREADSHEETML na MARKDOWN prostřednictvím Java 
-url: /cs/java/conversion/spreadsheetml-to-markdown/ 
+
 description: Ukázkový konverzní kód Java pro formát SPREADSHEETML na soubor MARKDOWN. Programátoři mohou tento příklad kódu použít k exportu tabulek Excelu a OpenOffice do MARKDOWN v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

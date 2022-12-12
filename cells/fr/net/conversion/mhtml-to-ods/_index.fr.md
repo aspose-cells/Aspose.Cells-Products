@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir MHTML en ODS via C#
-url: /fr/net/conversion/mhtml-to-ods/
+
 description: Exemple de code pour la conversion mhtml en ods C#. Utilisez API exemple de code pour la conversion de fichiers mhtml par lots en ods dans VB.NET, Asp.NET ou toute application basée sur .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

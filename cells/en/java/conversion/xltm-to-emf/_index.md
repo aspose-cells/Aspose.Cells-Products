@@ -1,6 +1,6 @@
 ---
 title: Convert XLTM to EMF via Java 
-url: /java/conversion/xltm-to-emf/
+
 description: Convert XLTM to EMF format in Java code. Save XLTM as EMF using Java.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Создание пузырьковых диаграмм с помощью Python
-url: /ru/python-java/create-bubble-chart/
+
 description: Python Пример кода для создания пузырьковых диаграмм в Excel с использованием библиотеки Python. Используйте этот код для создания пузырьковой диаграммы в MS Excel в приложении на основе Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

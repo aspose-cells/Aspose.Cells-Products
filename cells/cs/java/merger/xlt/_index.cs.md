@@ -1,7 +1,7 @@
-﻿---
+---
 title: Sloučit soubory XLT přes Java 
 weight: 9960
-url: /cs/java/merger/xlt/ 
+
 description: Java ukázkový kód pro kombinaci dokumentů XLT v Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

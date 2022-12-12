@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera CSV till MARKDOWN via C#
-url: /sv/net/conversion/csv-to-markdown/
+
 description: Exempelkod för csv för att markera C# konvertering. Använd API-exempelkod för batch-csv-filer för att markera nedkonvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

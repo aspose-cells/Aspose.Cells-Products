@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してSPREADSHEETMLをPDFに変換します
-url: /ja/python-java/conversion/spreadsheetml-to-pdf/
+
 description: SpreadsheetmlからpdfPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチspreadsheetmlファイルからpdfへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

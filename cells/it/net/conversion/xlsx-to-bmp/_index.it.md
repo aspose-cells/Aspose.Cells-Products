@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converti XLSX in BMP tramite C#
-url: /it/net/conversion/xlsx-to-bmp/
+
 description: Codice di esempio per la conversione da xlsx a bmp C#. Utilizza API codice di esempio per la conversione batch di file xlsx in bmp all'interno di VB.NET, Asp.NET o qualsiasi applicazione basata su .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

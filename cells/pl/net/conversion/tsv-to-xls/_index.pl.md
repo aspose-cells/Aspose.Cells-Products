@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj TSV na XLS przez C#
-url: /pl/net/conversion/tsv-to-xls/
+
 description: Przykładowy kod konwersji tsv do xls C#. Użyj przykładowego kodu API dla plików wsadowych tsv do konwersji xls w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

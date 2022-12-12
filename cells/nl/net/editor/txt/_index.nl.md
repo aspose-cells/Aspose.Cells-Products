@@ -1,6 +1,6 @@
-﻿---
+---
 title: Bewerk TXT-bestanden via .NET 
-url: /nl/net/editor/txt/ 
+
 description: C# broncode om TXT-document te bewerken op .NET Framework, .NET Core, Windows Azure, Mono of Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

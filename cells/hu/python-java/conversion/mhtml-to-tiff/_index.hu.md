@@ -1,6 +1,6 @@
-﻿---
+---
 title: "MHTML konvertálása TIFF formátumba a következőn keresztül: Python"
-url: /hu/python-java/conversion/mhtml-to-tiff/
+
 description: Mintakód az mhtml–tiff Python konverzióhoz. Használjon API példakódot kötegelt mhtml fájlok tiff konverziójához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

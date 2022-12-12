@@ -1,6 +1,6 @@
-﻿---
+---
 title: "MHTML konvertálása DIF-re a következőn keresztül: C#"
-url: /hu/net/conversion/mhtml-to-dif/
+
 description: Mintakód az mhtml to dif C# konverzióhoz. Használjon API példakódot kötegelt mhtml fájlokhoz a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belüli konverziók szétválasztásához.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to XLSB via Python
-url: /python-net/conversion/fods-to-xlsb/
+
 description: Sample code for fods to xlsb Python conversion. Use API example code for batch fods files to xlsb conversion within Python application.
 ---
 

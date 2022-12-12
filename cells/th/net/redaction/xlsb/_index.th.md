@@ -1,7 +1,7 @@
-﻿---
+---
 title: ค้นหาและแทนที่ข้อความในเอกสาร XLSB ผ่าน .NET 
 weight: 3890
-url: /th/net/redaction/xlsb/ 
+
 description: C# ซอร์สโค้ดเพื่อแก้ไขข้อมูลที่ละเอียดอ่อนในไฟล์ XLSB บน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

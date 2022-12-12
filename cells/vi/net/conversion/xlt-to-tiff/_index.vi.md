@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi XLT sang TIFF qua C#
-url: /vi/net/conversion/xlt-to-tiff/
+
 description: Mã mẫu cho chuyển đổi xlt sang tiff C#. Sử dụng mã mẫu API cho các tệp xlt hàng loạt để chuyển đổi trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

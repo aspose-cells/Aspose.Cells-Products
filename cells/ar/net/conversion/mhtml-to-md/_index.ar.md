@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل MHTML إلى MD عبر C#
-url: /ar/net/conversion/mhtml-to-md/
+
 description: نموذج رمز للتحويل من mhtml إلى md C#. استخدم API رمز المثال لملفات mhtml الدفعية لتحويل md داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

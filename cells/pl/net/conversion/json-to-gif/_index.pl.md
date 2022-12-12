@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj JSON na GIF przez C#
-url: /pl/net/conversion/json-to-gif/
+
 description: Przykładowy kod konwersji json na gif C#. Użyj przykładowego kodu API dla wsadowych plików json do konwersji gif w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

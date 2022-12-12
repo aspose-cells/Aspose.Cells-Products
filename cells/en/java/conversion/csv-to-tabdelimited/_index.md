@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to TABDELIMITED via Java 
-url: /java/conversion/csv-to-tabdelimited/
+
 description: Convert CSV to TABDELIMITED format in Java code. Save CSV as TABDELIMITED using Java.
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLSB konvertálása DIF-re a következőn keresztül: Java "
 weight: 6840
-url: /hu/java/conversion/xlsb-to-dif/ 
+
 description: Minta Java konverziós kód az XLSB formátumhoz DIF fájllá. A programozók ezt a példakódot használhatják Excel- és OpenOffice-táblázatok exportálására DIF-be bármely web- vagy asztali Java-alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

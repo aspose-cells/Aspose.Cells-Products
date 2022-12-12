@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to XLTM via C#
-url: /net/conversion/html-to-xltm/
+
 description: Convert HTML to XLTM format in C# code. Save HTML as XLTM using VB.NET, Asp.NET or any .NET based application.
 ---
 

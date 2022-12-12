@@ -1,6 +1,6 @@
-﻿---
+---
 title: XLTM'yi C# aracılığıyla PDF'ye dönüştürün
-url: /tr/net/conversion/xltm-to-pdf/
+
 description: xltm'den pdf'ye C# dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu xltm dosyalarını pdf'ye dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

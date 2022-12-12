@@ -1,7 +1,7 @@
-﻿---
+---
 title: Επεξεργασία ή προβολή μεταδεδομένων αρχείων ODS μέσω Java 
 weight: 2080
-url: /el/java/metadata/ods/ 
+
 description: Java δείγμα κώδικα για επεξεργασία ή προβολή μεταδεδομένων μορφής ODS στο Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

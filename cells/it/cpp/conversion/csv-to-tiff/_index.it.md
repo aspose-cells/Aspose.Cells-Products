@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converti CSV in TIFF tramite l'applicazione C++ 
 weight: 2920
-url: /it/cpp/conversion/csv-to-tiff/ 
+
 description: Esempio di codice di conversione C++ per un documento CSV in formato TIFF. I programmatori possono utilizzare questo codice sorgente per la conversione batch da CSV a TIFF all'interno di qualsiasi C++ Applicazione.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

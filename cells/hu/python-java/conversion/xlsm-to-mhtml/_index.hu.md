@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLSM konvertálása MHTML-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/xlsm-to-mhtml/
+
 description: Mintakód az xlsm–mhtml Python konverzióhoz. Használjon API példakódot az xlsm fájlok kötegelt mhtml konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

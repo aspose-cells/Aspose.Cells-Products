@@ -1,6 +1,6 @@
-﻿---
+---
 title: Vytvářejte soubory MS Excel XLTX prostřednictvím Python 
-url: /cs/python-java/create-xltx/ 
+
 description: Python Ukázkový kód pro generování dokumentů XLTX. Tento kód použijte pro vytváření souborů MS Excel XLTX v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

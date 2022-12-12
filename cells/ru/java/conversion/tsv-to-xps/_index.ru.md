@@ -1,7 +1,7 @@
-﻿---
+---
 title: Преобразование TSV в XPS через Java 
 weight: 7210
-url: /ru/java/conversion/tsv-to-xps/ 
+
 description: Пример кода преобразования Java для формата TSV в файл XPS. Программисты могут использовать этот пример кода для экспорта электронных таблиц Excel и OpenOffice в формат XPS в любом веб- или настольном Java приложении.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

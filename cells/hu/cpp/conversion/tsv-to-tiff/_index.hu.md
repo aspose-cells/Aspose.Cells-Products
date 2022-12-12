@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertálja a TSV-t TIFF-re a(z) C++ alkalmazással 
 weight: 5960
-url: /hu/cpp/conversion/tsv-to-tiff/ 
+
 description: Minta C++ konverziós kód a TSV-dokumentumhoz TIFF formátumba. A programozók ezt a forráskódot használhatják a TSV-ből TIFF-be kötegelt konvertáláshoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

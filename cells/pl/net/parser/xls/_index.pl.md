@@ -1,7 +1,7 @@
-﻿---
+---
 title: Wyodrębnij tekst i obrazy z dokumentu XLS za pomocą .NET 
 weight: 5600
-url: /pl/net/parser/xls/ 
+
 description: C# kod źródłowy do wyodrębniania tekstu i obrazów z pliku XLS na platformach .NET Framework, .NET Core, Mono lub Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

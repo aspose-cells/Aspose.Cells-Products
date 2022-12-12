@@ -1,7 +1,7 @@
-﻿---
+---
 title: Suchen und ersetzen Sie Text im XLSB-Dokument über .NET 
 weight: 3890
-url: /de/net/redaction/xlsb/ 
+
 description: C#-Quellcode zum Schwärzen vertraulicher Informationen in XLSB-Dateien auf .NET Framework-, .NET Core-, Mono- oder Xamarin-Plattformen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLTX إلى MD عبر تطبيق C++ 
-url: /ar/cpp/conversion/xltx-to-md/ 
+
 description: نموذج C++ رمز تحويل لمستند XLTX إلى تنسيق MD. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل دفعة XLTX إلى MD داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

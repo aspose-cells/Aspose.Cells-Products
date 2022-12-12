@@ -1,7 +1,7 @@
-﻿---
+---
 title: Slå samman TXT-filer via .NET 
 weight: 7350
-url: /sv/net/merger/txt/ 
+
 description: C# källkod för att kombinera TXT-dokument på .NET Framework, .NET Core, Mono eller Xamarin-plattformar.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

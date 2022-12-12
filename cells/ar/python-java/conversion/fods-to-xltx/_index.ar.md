@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل FODS إلى XLTX عبر Python
-url: /ar/python-java/conversion/fods-to-xltx/
+
 description: نموذج كود لتحويل fods إلى xltx Python. استخدم API رمز المثال لملفات fods الدفعية لتحويل xltx داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir SPREADSHEETML en TIFF via C#
-url: /fr/net/conversion/spreadsheetml-to-tiff/
+
 description: Exemple de code pour la conversion de tableurml en tiff C#. Utilisez l'exemple de code API pour les fichiers de tableur par lots vers la conversion tiff dans VB.NET, Asp.NET ou toute application basée sur .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

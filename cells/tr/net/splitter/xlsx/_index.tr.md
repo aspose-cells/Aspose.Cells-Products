@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLSX Dosyalarını .NET ile Böl 
 weight: 1350
-url: /tr/net/splitter/xlsx/ 
+
 description: .NET Framework, .NET Core, Mono veya Xamarin Platformlarında XLSX belgelerini bölmek için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla XLSM'yi TABDELIMITED'e dönüştürün
-url: /tr/net/conversion/xlsm-to-tabdelimited/
+
 description: xlsm'den sekmeyle ayrılmış C# dönüşümüne ilişkin örnek kod. Toplu xlsm dosyaları için VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde sekmeyle ayrılmış dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

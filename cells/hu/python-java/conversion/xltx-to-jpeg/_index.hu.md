@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLTX konvertálása JPEG formátumba a következőn keresztül: Python"
-url: /hu/python-java/conversion/xltx-to-jpeg/
+
 description: Mintakód xltx-ből jpeg-be Python. Használjon API példakódot a kötegelt xltx fájlok jpeg konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

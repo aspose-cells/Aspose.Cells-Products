@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してXLSをXMLに変換する
-url: /ja/net/conversion/xls-to-xml/
+
 description: xlsからxmlC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチxlsファイルからxmlへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

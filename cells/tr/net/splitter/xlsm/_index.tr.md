@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLSM Dosyalarını .NET ile Böl 
 weight: 8890
-url: /tr/net/splitter/xlsm/ 
+
 description: .NET Framework, .NET Core, Mono veya Xamarin Platformlarında XLSM belgelerini bölmek için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

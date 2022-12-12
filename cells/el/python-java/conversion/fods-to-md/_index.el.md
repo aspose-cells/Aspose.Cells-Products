@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή FODS σε MD μέσω Python
-url: /el/python-java/conversion/fods-to-md/
+
 description: Δείγμα κώδικα για μετατροπή fods σε md Python. Χρησιμοποιήστε API παράδειγμα κώδικα για αρχεία ομαδικής μετατροπής fods σε md εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

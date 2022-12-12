@@ -1,6 +1,6 @@
-﻿---
+---
 title: قم بتحويل XLTM إلى SVG عبر تطبيق C++ 
-url: /ar/cpp/conversion/xltm-to-svg/ 
+
 description: نموذج C++ رمز تحويل لمستند XLTM إلى تنسيق SVG. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل XLTM إلى SVG دفعة داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

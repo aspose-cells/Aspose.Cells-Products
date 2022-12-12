@@ -1,7 +1,7 @@
-﻿---
+---
 title: Aplicativo Conversor de Planilhas do SharePoint Excel - Aspose 
 weight: 940
-url: /pt/sharepoint/ 
+
 description: Aspose.Cells for SharePoint App é um conversor de planilha do SharePoint Excel. Exportar XLS XLSX XML CSV PDF ODS &amp; Formatos HTML em MOSS WSS
 ---
 {{< blocks/products/pf/main-wrap-class >}}

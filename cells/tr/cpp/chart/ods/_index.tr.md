@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ üzerinden ODS belge grafiği 
 weight: 3820
-url: /tr/cpp/chart/ods/ 
+
 description: C++ Windows 32 bit, Windows 64 bit ve Linux 64 bit için C++ Runtime Environment'da ODS dosyasında grafik veya diyagram çizmek ve dönüştürmek için örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Slå samman ODS-filer via .NET 
 weight: 4330
-url: /sv/net/merger/ods/ 
+
 description: C# källkod för att kombinera ODS-dokument på .NET Framework, .NET Core, Mono eller Xamarin-plattformar.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

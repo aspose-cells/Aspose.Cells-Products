@@ -1,6 +1,6 @@
-﻿---
+---
 title: TSV dosyalarını .NET aracılığıyla düzenleyin 
-url: /tr/net/editor/tsv/ 
+
 description: .NET Framework, .NET Core, Windows Azure, Mono veya Xamarin Platformlarında TSV belgesini düzenlemek için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

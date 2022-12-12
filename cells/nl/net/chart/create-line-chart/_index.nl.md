@@ -1,6 +1,6 @@
-﻿---
+---
 title: Maak lijndiagrammen via C# 
-url: /nl/net/create-line-chart/ 
+
 description: C# Voorbeeldcode voor het maken van lijndiagrammen naar Excel met .NET Bibliotheek. Gebruik deze code voor het maken van een lijndiagram naar MS Excel binnen VB.NET, Asp.NET of een op .NET gebaseerde toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

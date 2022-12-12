@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to XLTX via Java 
-url: /java/conversion/csv-to-xltx/
+
 description: Convert CSV to XLTX format in Java code. Save CSV as XLTX using Java.
 ---
 

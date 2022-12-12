@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง JSON เป็น HTML ผ่าน C++ แอปพลิเคชัน 
-url: /th/cpp/conversion/json-to-html/ 
+
 description: ตัวอย่างโค้ดการแปลง C++ สำหรับเอกสาร JSON เป็นรูปแบบ HTML โปรแกรมเมอร์สามารถใช้ซอร์สโค้ดนี้สำหรับการแปลง JSON เป็นแบทช์เป็น HTML ภายในแอปพลิเคชัน C++ ใดก็ได้
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

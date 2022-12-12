@@ -1,7 +1,7 @@
-﻿---
+---
 title: "TSV konvertálása XLT-vé a következőn keresztül: Java "
 weight: 6920
-url: /hu/java/conversion/tsv-to-xlt/ 
+
 description: Minta Java konverziós kód a TSV-formátumhoz XLT-fájllá. A programozók ezt a példakódot használhatják Excel- és OpenOffice-táblázatok XLT-be exportálására bármely web- vagy asztali Java-alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

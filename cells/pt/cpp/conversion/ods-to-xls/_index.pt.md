@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converter ODS para XLS por meio do aplicativo C++ 
 weight: 2730
-url: /pt/cpp/conversion/ods-to-xls/ 
+
 description: Exemplo de código de conversão C++ para documento ODS para formato XLS. Os programadores podem usar esse código-fonte para conversão em lote de ODS para XLS em qualquer aplicativo C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést NUMBERS na TSV prostřednictvím Python
-url: /cs/python-java/conversion/numbers-to-tsv/
+
 description: Ukázkový kód pro převod čísel na tsv Python. Použijte API ukázkový kód pro dávkové soubory čísel na převod tsv v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Tách tệp ODS qua .NET 
 weight: 140
-url: /vi/net/splitter/ods/ 
+
 description: C# mã nguồn để tách các tài liệu ODS trên Nền tảng .NET Framework, .NET Core Mono hoặc Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

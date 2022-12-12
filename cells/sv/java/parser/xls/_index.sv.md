@@ -1,7 +1,7 @@
-﻿---
+---
 title: Extrahera text och bilder från XLS-dokument via Java 
 weight: 3700
-url: /sv/java/parser/xls/ 
+
 description: Java exempelkod för att extrahera text och bilder från XLS-fil i Java Runtime Environment för JSP/JSF Application och Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

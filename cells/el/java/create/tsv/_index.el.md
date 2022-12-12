@@ -1,6 +1,6 @@
-﻿---
+---
 title: Δημιουργία Αρχείων TSV μέσω Java 
-url: /el/java/create-tsv/ 
+
 description: Java Δείγμα κώδικα για τη δημιουργία εγγράφων TSV. Χρησιμοποιήστε αυτόν τον κώδικα για τη δημιουργία αρχείων TSV μέσα σε Java επιτραπέζιους υπολογιστές ή εφαρμογές ιστού.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

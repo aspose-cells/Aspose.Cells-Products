@@ -1,6 +1,6 @@
-﻿---
+---
 title: สร้างไฟล์ PDF ผ่าน Java 
-url: /th/java/create-pdf/ 
+
 description: Java โค้ดตัวอย่างสำหรับสร้างเอกสาร PDF ใช้รหัสนี้เพื่อสร้างไฟล์ PDF ภายในเดสก์ท็อปหรือแอปพลิเคชันบนเว็บที่ใช้ Java
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

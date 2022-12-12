@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TSV-fájlok létrehozása a következőn keresztül: Python "
-url: /hu/python-java/create-tsv/ 
+
 description: Python Mintakód a TSV-dokumentumok generálásához. Ezzel a kóddal hozhat létre TSV-fájlokat a(z) Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

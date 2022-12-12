@@ -1,6 +1,6 @@
-﻿---
+---
 title: Metadaten von Excel-Dateien über Java verwalten
-url: /de/java/metadata/
+
 description: Metadaten von Excel-Dateien mit nur wenigen Java-Codezeilen anzeigen, hinzufügen, bearbeiten, entfernen oder extrahieren
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

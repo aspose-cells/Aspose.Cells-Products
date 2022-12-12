@@ -1,7 +1,7 @@
-﻿---
+---
 title: Xem Định dạng Tệp TXT qua .NET 
 weight: 8300
-url: /vi/net/viewer/txt/ 
+
 description: C# mã nguồn để tải, hiển thị và hiển thị tài liệu TXT trên Nền tảng .NET Framework, .NET Core Mono hoặc Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

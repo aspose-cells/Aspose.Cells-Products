@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してXLTをXMLに変換する 
-url: /ja/java/conversion/xlt-to-xml/ 
+
 description: XLT形式からXMLファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、任意のWebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをXMLにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

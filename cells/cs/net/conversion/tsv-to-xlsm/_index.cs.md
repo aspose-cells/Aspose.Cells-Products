@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TSV na XLSM přes C#
-url: /cs/net/conversion/tsv-to-xlsm/
+
 description: Ukázkový kód pro převod tsv na xlsm C#. Použijte API ukázkový kód pro dávkový převod souborů tsv na xlsm v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

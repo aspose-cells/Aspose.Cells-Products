@@ -1,6 +1,6 @@
 ---
 title: Convert XLTM to TIFF via Java 
-url: /java/conversion/xltm-to-tiff/
+
 description: Convert XLTM to TIFF format in Java code. Save XLTM as TIFF using Java.
 ---
 

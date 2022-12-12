@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование FODS в SPREADSHEETML через Python
-url: /ru/python-java/conversion/fods-to-spreadsheetml/
+
 description: Пример кода для преобразования fods в электронную таблицуml Python. Используйте пример кода API для пакетного преобразования файлов fods в электронную таблицу в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Lihat Format File XLTX melalui .NET 
 weight: 7870
-url: /id/net/viewer/xltx/ 
+
 description: C# kode sumber untuk memuat, merender, dan menampilkan dokumen XLTX di .NET Framework, .NET Core, Mono atau Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

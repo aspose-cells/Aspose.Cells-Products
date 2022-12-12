@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TABDELIMITED na XLTX přes Python
-url: /cs/python-java/conversion/tabdelimited-to-xltx/
+
 description: Ukázkový kód pro převod tabdelimited na xltx Python. Použijte API ukázkový kód pro dávkový převod souborů oddělených tabulátory na xltx v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

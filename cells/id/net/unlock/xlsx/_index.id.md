@@ -1,7 +1,7 @@
-﻿---
+---
 title: Buka kunci dokumen XLSX melalui .NET 
 weight: 2040
-url: /id/net/unlock/xlsx/ 
+
 description: C# kode sumber untuk membuka kunci file XLSX yang dilindungi sandi di .NET Framework, .NET Core, Mono atau Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

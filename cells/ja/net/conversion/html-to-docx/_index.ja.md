@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してHTMLをDOCXに変換します
-url: /ja/net/conversion/html-to-docx/
+
 description: htmlからdocxC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチhtmlファイルからdocxへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

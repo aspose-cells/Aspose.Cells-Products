@@ -1,7 +1,7 @@
-﻿---
+---
 title: Extrahujte text a obrázky z dokumentu XLS prostřednictvím C++ 
 weight: 7610
-url: /cs/cpp/parser/xls/ 
+
 description: C++ ukázkový kód pro extrahování textu a obrázků ze souboru XLS v C++ Runtime Environment pro Windows 32 bit, Windows 64 bit a Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python을(를) 통해 SXC를 XPS로 변환
-url: /ko/python-java/conversion/sxc-to-xps/
+
 description: sxc에서 xps로의 Python 변환을 위한 샘플 코드입니다. Python 애플리케이션 내에서 배치 sxc 파일에서 xps로의 변환에 API 예제 코드를 사용하십시오.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

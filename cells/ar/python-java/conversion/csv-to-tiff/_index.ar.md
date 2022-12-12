@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل CSV إلى TIFF عبر Python
-url: /ar/python-java/conversion/csv-to-tiff/
+
 description: نموذج رمز لتحويل csv إلى tiff Python. استخدم API رمز المثال لملفات csv المجمعة لتحويل شجاع داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TSV na SVG prostřednictvím C#
-url: /cs/net/conversion/tsv-to-svg/
+
 description: Ukázkový kód pro převod tsv na svg C#. Použijte API ukázkový kód pro dávkový převod souborů tsv na svg v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

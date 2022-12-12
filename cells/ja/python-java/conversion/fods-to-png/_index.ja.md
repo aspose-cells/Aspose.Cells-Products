@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してFODSをPNGに変換する
-url: /ja/python-java/conversion/fods-to-png/
+
 description: fodsからpngPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチfodファイルからpngへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

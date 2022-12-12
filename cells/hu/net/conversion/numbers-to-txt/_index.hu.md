@@ -1,6 +1,6 @@
-﻿---
+---
 title: "NUMBERS konvertálása TXT-re a következőn keresztül: C#"
-url: /hu/net/conversion/numbers-to-txt/
+
 description: Mintakód számok txt C# konvertálásához. Használjon API példakódot a kötegszámfájlok txtté alakításához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

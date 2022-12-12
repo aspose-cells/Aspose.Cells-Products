@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to EMF via C++
-url: /cpp/conversion/xls-to-emf/
+
 description: Convert XLS to EMF format in C++ code. Save XLS as EMF using C++.
 ---
 

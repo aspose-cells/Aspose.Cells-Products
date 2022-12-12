@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera XLS till XML via Python
-url: /sv/python-java/conversion/xls-to-xml/
+
 description: Exempelkod för konvertering av xls till xml Python. Använd API exempelkod för batch-xls-filer till xml-konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to JSON via Java 
-url: /java/conversion/sxc-to-json/
+
 description: Convert SXC to JSON format in Java code. Save SXC as JSON using Java.
 ---
 

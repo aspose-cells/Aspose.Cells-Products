@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversi CSV ke BMP melalui C++ aplikasi 
 weight: 4890
-url: /id/cpp/conversion/csv-to-bmp/ 
+
 description: Contoh C++ kode konversi untuk dokumen CSV ke format BMP. Pemrogram dapat menggunakan kode sumber ini untuk konversi CSV ke BMP batch dalam Aplikasi C++ apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

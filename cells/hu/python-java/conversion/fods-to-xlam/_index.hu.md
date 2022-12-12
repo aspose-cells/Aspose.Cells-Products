@@ -1,6 +1,6 @@
-﻿---
+---
 title: "FODS konvertálása XLAM-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/fods-to-xlam/
+
 description: Mintakód a fod to xlam Python konverzióhoz. Használjon API példakódot a kötegelt fod fájlokhoz az xlam konvertáláshoz a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Adjon hozzá egy sort a diagramhoz a következőn keresztül: C# "
-url: /hu/net/add-line-in-chart/ 
+
 description: C# Mintakód egy vonal hozzáadásához a diagramhoz az Excelben a .NET Library használatával. Használja ezt a kódot egy vonal hozzáadásához a diagramhoz az MS Excel programban VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

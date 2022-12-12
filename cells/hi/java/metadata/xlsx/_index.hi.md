@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java के माध्यम से XLSX फ़ाइलें मेटाडेटा संपादित करें या देखें 
 weight: 1240
-url: /hi/java/metadata/xlsx/ 
+
 description: Java जेएसपी/जेएसएफ एप्लिकेशन और डेस्कटॉप एप्लिकेशन के लिए रनटाइम एनवायरनमेंट Java पर एक्सएलएसएक्स प्रारूप मेटाडेटा को संपादित करने या देखने के लिए नमूना कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

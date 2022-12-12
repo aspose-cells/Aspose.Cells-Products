@@ -1,6 +1,6 @@
-﻿---
+---
 title: FODS को Python के माध्यम से TABDELIMITED में बदलें
-url: /hi/python-java/conversion/fods-to-tabdelimited/
+
 description: फ़ोड से टैबसीमांकित Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर टैबसीमांकित रूपांतरण के लिए बैच फोड फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

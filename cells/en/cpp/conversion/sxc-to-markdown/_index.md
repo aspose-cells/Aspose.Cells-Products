@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to MARKDOWN via C++
-url: /cpp/conversion/sxc-to-markdown/
+
 description: Convert SXC to MARKDOWN format in C++ code. Save SXC as MARKDOWN using C++.
 ---
 

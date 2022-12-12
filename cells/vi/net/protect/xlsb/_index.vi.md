@@ -1,7 +1,7 @@
-﻿---
+---
 title: Bảo vệ và khóa tài liệu XLSB qua .NET 
 weight: 5920
-url: /vi/net/protect/xlsb/ 
+
 description: C# mã nguồn để khóa tệp XLSB bằng mật khẩu trên Nền tảng .NET Framework, .NET Core Mono hoặc Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

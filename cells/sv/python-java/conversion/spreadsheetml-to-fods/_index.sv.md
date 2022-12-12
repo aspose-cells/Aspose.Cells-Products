@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera SPREADSHEETML till FODS via Python
-url: /sv/python-java/conversion/spreadsheetml-to-fods/
+
 description: Exempelkod för konvertering från kalkylarkml till fods Python. Använd API-exempelkod för batch-kalkylarkml-filer för att ge konvertering inom Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

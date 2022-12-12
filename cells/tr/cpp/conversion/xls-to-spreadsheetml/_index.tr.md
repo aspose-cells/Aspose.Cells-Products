@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++ uygulaması aracılığıyla XLS'yi SPREADSHEETML'ye dönüştürün 
-url: /tr/cpp/conversion/xls-to-spreadsheetml/ 
+
 description: XLS belgesi için SPREADSHEETML biçimine örnek C++ dönüştürme kodu. Programcılar, herhangi bir C++ Uygulamasında toplu XLS'den SPREADSHEETML'ye dönüştürme için bu kaynak kodunu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

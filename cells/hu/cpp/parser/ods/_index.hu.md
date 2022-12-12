@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Szöveg és képek kinyerése az ODS-dokumentumból a következőn keresztül: C++ "
 weight: 9130
-url: /hu/cpp/parser/ods/ 
+
 description: C++ példakód szöveg és képek kinyerésére az ODS-fájlból a C++ Runtime Environment for Windows 32 bit, Windows 64 bit és Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

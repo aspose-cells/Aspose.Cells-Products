@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to XLSX via C#
-url: /net/conversion/json-to-xlsx/
+
 description: Convert JSON to XLSX format in C# code. Save JSON as XLSX using VB.NET, Asp.NET or any .NET based application.
 ---
 

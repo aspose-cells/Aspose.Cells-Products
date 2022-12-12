@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to JPEG via Python
-url: /python-java/conversion/xlt-to-jpeg/
+
 description: Convert XLT to JPEG format in Python code. Save XLT as JPEG using Python.
 ---
 

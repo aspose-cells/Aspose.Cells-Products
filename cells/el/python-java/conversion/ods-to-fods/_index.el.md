@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή ODS σε FODS μέσω Python
-url: /el/python-java/conversion/ods-to-fods/
+
 description: Δείγμα κωδικού για τη μετατροπή ods to fods Python. Χρησιμοποιήστε API παράδειγμα κώδικα για μετατροπή ομαδικών αρχείων σε τροφές εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

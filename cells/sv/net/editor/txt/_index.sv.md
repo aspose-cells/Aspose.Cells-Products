@@ -1,6 +1,6 @@
-﻿---
+---
 title: Redigera TXT-filer via .NET 
-url: /sv/net/editor/txt/ 
+
 description: C# källkod för att redigera TXT-dokument på .NET Framework, .NET Core, Windows Azure, Mono eller Xamarin-plattformar.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

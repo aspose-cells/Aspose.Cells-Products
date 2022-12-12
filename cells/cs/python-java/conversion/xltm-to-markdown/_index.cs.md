@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLTM na MARKDOWN přes Python
-url: /cs/python-java/conversion/xltm-to-markdown/
+
 description: Ukázkový kód pro konverzi xltm na markdown Python. Použijte API ukázkový kód pro dávkové soubory xltm ke konverzi markdown v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

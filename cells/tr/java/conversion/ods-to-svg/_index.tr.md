@@ -1,7 +1,7 @@
-﻿---
+---
 title: ODS'yi Java aracılığıyla SVG'ye dönüştürün 
 weight: 5640
-url: /tr/java/conversion/ods-to-svg/ 
+
 description: ODS biçimi için SVG dosyasına örnek Java dönüştürme kodu. Programcılar, Excel ve OpenOffice elektronik tablolarını herhangi bir Web veya Masaüstü Java tabanlı Uygulamada SVG'ye aktarmak için bu örnek kodu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

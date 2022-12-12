@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLTX konvertálása XLSB-vé a következőn keresztül: C#"
-url: /hu/net/conversion/xltx-to-xlsb/
+
 description: Mintakód az xltx–xlsb C# konverzióhoz. Használjon API példakódot a kötegelt xltx fájlok xlsb konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Buat File MS Excel XLTM melalui Python 
-url: /id/python-java/create-xltm/ 
+
 description: Python Contoh kode untuk membuat dokumen XLTM. Gunakan kode ini untuk membuat file MS Excel XLTM dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

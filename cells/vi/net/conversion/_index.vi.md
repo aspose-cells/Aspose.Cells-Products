@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi Tệp Microsoft Excel qua C# 
-url: /vi/net/conversion/
+
 description: Chuyển đổi Excel XLS, XLSX, ODS, CSV sang PDF, XPS, HTML, JPEG, HTML và nhiều định dạng phổ biến khác chỉ với vài dòng mã C#.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

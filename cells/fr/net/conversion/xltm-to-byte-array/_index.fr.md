@@ -1,7 +1,7 @@
-﻿---
+---
 title: Convertissez XLTM en tableau d'octets via C# 
 weight: 7690
-url: /fr/net/conversion/xltm-to-byte-array/ 
+
 description: C# Exemple de code pour la conversion de XLTM en tableau d'octets. Utilisez ce code pour la conversion d'Excel XLTM en tableau d'octets dans VB.NET, Asp.NET ou toute application basée sur .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

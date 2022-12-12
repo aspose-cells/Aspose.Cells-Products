@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta JSON a XLSX a través de Python
-url: /es/python-java/conversion/json-to-xlsx/
+
 description: Código de muestra para la conversión de json a xlsx Python. Use el código de ejemplo API para la conversión de archivos json por lotes a xlsx dentro de la aplicación Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

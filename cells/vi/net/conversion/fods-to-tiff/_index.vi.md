@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi FODS sang TIFF qua C#
-url: /vi/net/conversion/fods-to-tiff/
+
 description: Mã mẫu cho chuyển đổi fods to tiff C#. Sử dụng API mã ví dụ cho các tệp fods hàng loạt để chuyển đổi trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

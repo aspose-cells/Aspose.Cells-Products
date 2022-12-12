@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してSXCをXLSに変換します 
-url: /ja/java/conversion/sxc-to-xls/ 
+
 description: SXC形式からXLSファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のXLSにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

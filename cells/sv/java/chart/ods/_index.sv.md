@@ -1,7 +1,7 @@
-﻿---
+---
 title: ODS-dokumentdiagram via Java 
 weight: 2240
-url: /sv/java/chart/ods/ 
+
 description: Java exempelkod för att rita och konvertera diagram eller diagram i ODS-fil i Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

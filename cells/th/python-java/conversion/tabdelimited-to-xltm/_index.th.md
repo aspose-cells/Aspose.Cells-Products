@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง TABDELIMITED เป็น XLTM ผ่าน Python
-url: /th/python-java/conversion/tabdelimited-to-xltm/
+
 description: โค้ดตัวอย่างสำหรับการแปลงแท็บเป็น xltm Python ใช้โค้ดตัวอย่าง API สำหรับไฟล์ที่คั่นด้วยแท็บแบตช์เป็นการแปลง xltm ภายในแอปพลิเคชัน Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera TABDELIMITED till CSV via Python
-url: /sv/python-java/conversion/tabdelimited-to-csv/
+
 description: Exempelkod för tabbavgränsad till csv Python-konvertering. Använd API exempelkod för batch-tabbavgränsade filer till csv-konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

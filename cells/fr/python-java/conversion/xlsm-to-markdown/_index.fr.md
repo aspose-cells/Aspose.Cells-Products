@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir XLSM en MARKDOWN via Python
-url: /fr/python-java/conversion/xlsm-to-markdown/
+
 description: Exemple de code pour la conversion de xlsm en démarque Python. Utilisez l'exemple de code API pour les fichiers xlsm par lots en conversion de démarquage dans l'application Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

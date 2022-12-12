@@ -1,6 +1,6 @@
 ---
 title: Merge XLSX to XLSM Files via Java 
-url: /java/merger/merge-xlsx-to-xlsm/ 
+
 description: Merge XLSX to XLSM file in Java code. Combine XLSX to XLSM file using Java based desktop or web application.
 ---
 

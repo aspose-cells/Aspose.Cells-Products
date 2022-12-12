@@ -1,7 +1,7 @@
 ---
 title: Remove ODS Annotation via Java 
 weight: 8840
-url: /java/annotation/ods/ 
+
 description: Java sample code to delete ODS format annotations on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

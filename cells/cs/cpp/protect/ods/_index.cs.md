@@ -1,7 +1,7 @@
-﻿---
+---
 title: Chránit a uzamknout dokument ODS prostřednictvím C++ 
 weight: 10010
-url: /cs/cpp/protect/ods/ 
+
 description: C++ ukázkový kód pro uzamčení souboru ODS pomocí hesla v C++ Runtime Environment pro Windows 32bit, Windows 64bit a Linux 64bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "NUMBERS konvertálása SXC-re a következőn keresztül: C#"
-url: /hu/net/conversion/numbers-to-sxc/
+
 description: Mintakód számok sxc C# konverziójához. Használjon API példakódot a kötegszámfájlok sxc konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

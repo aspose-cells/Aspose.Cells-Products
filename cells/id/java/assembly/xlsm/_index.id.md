@@ -1,7 +1,7 @@
-﻿---
+---
 title: Hasilkan Laporan dalam File XLSM melalui Java 
 weight: 270
-url: /id/java/assembly/xlsm/ 
+
 description: Java kode contoh untuk membuat laporan format XLSM di Java Runtime Environment untuk Aplikasi JSP/JSF dan Aplikasi Desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

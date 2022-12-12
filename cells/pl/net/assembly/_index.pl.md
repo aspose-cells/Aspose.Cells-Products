@@ -1,6 +1,6 @@
-﻿---
+---
 title: Generuj pliki Excela przez C#
-url: /pl/net/assembly/
+
 description: Generuj arkusze kalkulacyjne Microsoft Excel z arkusza szablonu za pomocą kodu C#
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

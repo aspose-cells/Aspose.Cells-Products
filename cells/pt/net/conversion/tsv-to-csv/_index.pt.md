@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter TSV para CSV via C#
-url: /pt/net/conversion/tsv-to-csv/
+
 description: Código de amostra para conversão de tsv para csv C#. Use API código de exemplo para arquivos tsv em lote para conversão csv em VB.NET, Asp.NET ou qualquer aplicativo baseado em .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

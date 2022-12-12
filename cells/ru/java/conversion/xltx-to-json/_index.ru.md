@@ -1,7 +1,7 @@
-﻿---
+---
 title: Преобразование XLTX в JSON через Java 
 weight: 8100
-url: /ru/java/conversion/xltx-to-json/ 
+
 description: Пример кода преобразования Java для формата XLTX в файл JSON. Программисты могут использовать этот пример кода для экспорта электронных таблиц Excel и OpenOffice в формат JSON в любом веб- или настольном Java приложении.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

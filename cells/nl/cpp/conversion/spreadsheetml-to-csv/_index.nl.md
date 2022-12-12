@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer SPREADSHEETML naar CSV via C++ applicatie 
-url: /nl/cpp/conversion/spreadsheetml-to-csv/ 
+
 description: Voorbeeld C++-conversiecode voor SPREADSHEETML-document naar CSV-indeling. Programmeurs kunnen deze broncode gebruiken voor batch-SPREADSHEETML-naar-CSV-conversie binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

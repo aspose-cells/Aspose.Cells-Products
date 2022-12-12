@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してNUMBERSをEMFに変換します
-url: /ja/net/conversion/numbers-to-emf/
+
 description: 数値からemfC#への変換のサンプルコード。バッチ番号ファイルのAPIサンプルコードを使用して、VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内で変換を実行します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

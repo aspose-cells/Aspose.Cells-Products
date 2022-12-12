@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer NUMMERS naar TIFF via C#
-url: /nl/net/conversion/numbers-to-tiff/
+
 description: Voorbeeldcode voor getallen naar tiff C#-conversie. Gebruik API voorbeeldcode voor batchnummerbestanden naar tiff-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

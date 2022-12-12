@@ -1,6 +1,6 @@
-﻿---
+---
 title: สร้างแผนภูมิคอลัมน์ผ่าน Python
-url: /th/python-java/create-column-chart/
+
 description: Python โค้ดตัวอย่างสำหรับสร้างแผนภูมิคอลัมน์ไปยัง Excel โดยใช้ Python Library ใช้รหัสนี้เพื่อสร้างแผนภูมิคอลัมน์ไปยัง MS Excel ภายในแอปพลิเคชันที่ใช้ Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

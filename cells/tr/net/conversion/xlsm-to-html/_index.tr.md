@@ -1,6 +1,6 @@
-﻿---
+---
 title: XLSM'yi C# aracılığıyla HTML'ye dönüştürün
-url: /tr/net/conversion/xlsm-to-html/
+
 description: xlsm'den html'ye C# dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu xlsm dosyalarını html'ye dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

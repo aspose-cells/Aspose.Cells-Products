@@ -1,7 +1,7 @@
-﻿---
+---
 title: Buscar y reemplazar texto en el documento XLS a través de Java 
 weight: 7900
-url: /es/java/redaction/xls/ 
+
 description: Java código de muestra para redactar información confidencial en un archivo XLS en Java entorno de tiempo de ejecución para aplicaciones JSP/JSF y aplicaciones de escritorio.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

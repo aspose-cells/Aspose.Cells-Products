@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通过 Java 在 ODS 文件中生成报告 
 weight: 2440
-url: /zh/java/assembly/ods/ 
+
 description: Java 示例代码，用于在 Java JSP/JSF 应用程序和桌面应用程序的运行时环境中创建 ODS 格式报告。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

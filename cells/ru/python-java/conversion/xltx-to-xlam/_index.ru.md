@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLTX в XLAM через Python
-url: /ru/python-java/conversion/xltx-to-xlam/
+
 description: Пример кода для преобразования xltx в xlam Python. Используйте пример кода API для пакетного преобразования файлов xltx в xlam в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

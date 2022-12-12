@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してNUMBERSをTABDELIMITEDに変換します
-url: /ja/python-java/conversion/numbers-to-tabdelimited/
+
 description: 数値からタブ区切りのPythonへの変換のサンプルコード。 Pythonアプリケーション内のタブ区切り変換へのバッチ番号ファイルのAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

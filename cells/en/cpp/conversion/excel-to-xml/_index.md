@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to XML via C++
-url: /cpp/conversion/excel-to-xml/
+
 description: Convert EXCEL to XML format in C++ code. Save EXCEL as XML using C++.
 ---
 

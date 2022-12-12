@@ -1,7 +1,7 @@
-﻿---
+---
 title: Gabungkan File CSV melalui .NET 
 weight: 6450
-url: /id/net/merger/csv/ 
+
 description: C# kode sumber untuk menggabungkan dokumen CSV pada .NET Framework, .NET Core, Mono atau Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

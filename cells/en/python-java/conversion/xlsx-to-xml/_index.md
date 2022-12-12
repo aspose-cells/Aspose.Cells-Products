@@ -1,6 +1,6 @@
 ---
 title: Convert XLSX to XML via Python
-url: /python-java/conversion/xlsx-to-xml/
+
 description: Convert XLSX to XML format in Python code. Save XLSX as XML using Python.
 ---
 

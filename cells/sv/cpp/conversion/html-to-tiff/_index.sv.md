@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertera HTML till TIFF via programmet C++ 
 weight: 8480
-url: /sv/cpp/conversion/html-to-tiff/ 
+
 description: Exempel på konverteringskod för C++ för HTML-dokument till TIFF-format. Programmerare kan använda den här källkoden för batchkonvertering av HTML till TIFF inom alla C++-program.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

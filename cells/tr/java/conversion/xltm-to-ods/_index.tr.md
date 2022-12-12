@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java üzerinden XLTM'yi ODS'ye dönüştürün 
 weight: 6190
-url: /tr/java/conversion/xltm-to-ods/ 
+
 description: XLTM biçimi için ODS dosyasına örnek Java dönüştürme kodu. Programcılar, Excel ve OpenOffice elektronik tablolarını herhangi bir Web veya Masaüstü Java tabanlı Uygulamada ODS'ye aktarmak için bu örnek kodu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

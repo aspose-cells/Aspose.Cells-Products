@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést JPEG na DOCX přes Python
-url: /cs/python-java/conversion/jpeg-to-docx/
+
 description: Ukázkový kód pro převod jpeg na docx Python. Použijte ukázkový kód API pro dávkový převod souborů jpeg na docx v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

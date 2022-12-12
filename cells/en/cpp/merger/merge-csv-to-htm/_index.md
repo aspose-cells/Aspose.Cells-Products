@@ -1,6 +1,6 @@
 ---
 title: Merge CSV to HTM Files via C++ 
-url: /cpp/merger/merge-csv-to-htm/ 
+
 description: Merge CSV to HTM file in C++ code. Combine CSV to HTM file using C++.
 ---
 

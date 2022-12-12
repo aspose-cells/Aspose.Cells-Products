@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してJSONをMHTMLに変換する 
 weight: 2190
-url: /ja/java/conversion/json-to-mhtml/ 
+
 description: JSON形式からMHTMLファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、WebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをMHTMLにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertissez XLTM en SVG via l'application C++ 
-url: /fr/cpp/conversion/xltm-to-svg/ 
+
 description: Exemple de code de conversion C++ pour le document XLTM au format SVG. Les programmeurs peuvent utiliser ce code source pour la conversion par lots de XLTM en SVG dans n'importe quelle application C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

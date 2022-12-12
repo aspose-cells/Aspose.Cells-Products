@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل الأرقام إلى PDF عبر C#
-url: /ar/net/conversion/numbers-to-pdf/
+
 description: نموذج رمز للأرقام لتحويل C# pdf. استخدم API رمز المثال لملفات أرقام الدُفعات لتحويل pdf داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLSB naar MARKDOWN via C#
-url: /nl/net/conversion/xlsb-to-markdown/
+
 description: Voorbeeldcode voor xlsb om C# conversie af te waarderen. Gebruik API voorbeeldcode voor batch xlsb-bestanden om conversie te verlagen binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

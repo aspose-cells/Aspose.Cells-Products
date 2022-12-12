@@ -1,6 +1,6 @@
-﻿---
+---
 title: "NUMBERS konvertálása XLSB-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/numbers-to-xlsb/
+
 description: Mintakód a számok xlsb Python konverziójához. Használjon API példakódot a kötegszámfájlok xlsb konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversikan ODS ke SVG melalui C++ aplikasi 
 weight: 3080
-url: /id/cpp/conversion/ods-to-svg/ 
+
 description: Contoh C++ kode konversi untuk dokumen ODS ke format SVG. Pemrogram dapat menggunakan kode sumber ini untuk konversi batch ODS ke SVG dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

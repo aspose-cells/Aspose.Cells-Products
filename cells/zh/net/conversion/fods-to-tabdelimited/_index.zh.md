@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 C# 将 FODS 转换为 TABDELIMITED
-url: /zh/net/conversion/fods-to-tabdelimited/
+
 description: fods 到制表符分隔的 C# 转换的示例代码。在 VB.NET、Asp.NET 或任何基于 .NET 的应用程序中使用 API 示例代码将批量 fods 文件转换为制表符分隔。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

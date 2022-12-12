@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to MHTML via Java 
-url: /java/conversion/excel-to-mhtml/
+
 description: Convert EXCEL to MHTML format in Java code. Save EXCEL as MHTML using Java.
 ---
 

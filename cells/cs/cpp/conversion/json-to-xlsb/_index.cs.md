@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte JSON na XLSB pomocí aplikace C++ 
-url: /cs/cpp/conversion/json-to-xlsb/ 
+
 description: Ukázkový konverzní kód C++ pro dokument JSON na formát XLSB. Programátoři mohou tento zdrojový kód použít pro dávkový převod JSON na XLSB v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

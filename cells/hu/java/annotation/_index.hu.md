@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Excel-fájl megjegyzések a következőn keresztül: Java"
-url: /hu/java/annotation/
+
 description: Adja hozzá vagy távolítsa el a(z) Java könyvtárral rendelkező Excel és OpenOffice táblázatok adatfeljegyzéseit.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

@@ -1,7 +1,7 @@
 ---
 title: Search ODS document without opening via .NET 
 weight: 160
-url: /net/search/ods/ 
+
 description: C# source code to search words with pattern in ODS file on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

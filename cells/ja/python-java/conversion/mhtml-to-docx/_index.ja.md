@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してMHTMLをDOCXに変換します
-url: /ja/python-java/conversion/mhtml-to-docx/
+
 description: mhtmlからdocxPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチmhtmlファイルからdocxへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

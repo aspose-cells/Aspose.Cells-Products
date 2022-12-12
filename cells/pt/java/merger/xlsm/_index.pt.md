@@ -1,7 +1,7 @@
-﻿---
+---
 title: Mesclar arquivos XLSM via Java 
 weight: 1270
-url: /pt/java/merger/xlsm/ 
+
 description: Java código de amostra para combinar documentos XLSM no Java ambiente de tempo de execução para aplicativos JSP/JSF e aplicativos de desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

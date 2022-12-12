@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SPREADSHEETML konvertálása GIF formátumba a következőn keresztül: C#"
-url: /hu/net/conversion/spreadsheetml-to-gif/
+
 description: Mintakód a táblázatkezelőből gif-be C#. Használjon API példakódot kötegelt táblázatkezelő fájlokhoz a gif-konverzióhoz VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

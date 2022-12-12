@@ -1,6 +1,6 @@
-﻿---
+---
 title: إنشاء ملفات ODS (Openoffice / Lbreoffice) عبر C# 
-url: /ar/net/create-ods/ 
+
 description: C# نموذج كود لإنشاء مستندات ODS. استخدم هذا الرمز لإنشاء ملفات ODS (Openoffice / Lbreoffice) داخل VB .NET أو Asp .NET أو أي تطبيق يستند إلى .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

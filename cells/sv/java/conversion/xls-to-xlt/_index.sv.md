@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertera XLS till XLT via Java 
 weight: 5880
-url: /sv/java/conversion/xls-to-xlt/ 
+
 description: Exempel på Java-konverteringskod för XLS-format till XLT-fil. Programmerare kan använda den här exempelkoden för att exportera Excel- och OpenOffice-kalkylblad till XLT inom alla webb- eller skrivbordsbaserade Java-applikationer.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

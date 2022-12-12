@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ 애플리케이션을 통해 MHTML을 PNG로 변환 
 weight: 5020
-url: /ko/cpp/conversion/mhtml-to-png/ 
+
 description: MHTML 문서를 PNG 형식으로 변환하는 샘플 C++ 변환 코드. 프로그래머는 모든 C++ 애플리케이션 내에서 일괄 MHTML에서 PNG로의 변환을 위해 이 소스 코드를 사용할 수 있습니다.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

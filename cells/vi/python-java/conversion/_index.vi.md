@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi Tệp Microsoft Excel qua Python 
-url: /vi/python/conversion/
+
 description: Chuyển đổi Excel XLS, XLSX, ODS, CSV sang PDF, XPS, HTML, JPEG, HTML và nhiều định dạng phổ biến khác chỉ với vài dòng mã Python.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

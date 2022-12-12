@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLSX-dokumentum védelme és zárolása a következőn keresztül: C++ "
 weight: 1140
-url: /hu/cpp/protect/xlsx/ 
+
 description: C++ példakód az XLSX fájl jelszóval történő zárolására a C++ Runtime Environment for Windows 32 bit, Windows 64 bit és Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

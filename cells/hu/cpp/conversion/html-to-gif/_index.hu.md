@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertálja a HTML-t GIF-be a(z) C++ alkalmazással 
 weight: 6750
-url: /hu/cpp/conversion/html-to-gif/ 
+
 description: Minta C++ konverziós kód HTML-dokumentumhoz GIF formátumba. A programozók ezt a forráskódot használhatják kötegelt HTML-ből GIF-be konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

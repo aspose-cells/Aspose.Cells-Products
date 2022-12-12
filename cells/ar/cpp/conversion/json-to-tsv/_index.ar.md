@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل JSON إلى TSV عبر تطبيق C++ 
-url: /ar/cpp/conversion/json-to-tsv/ 
+
 description: نموذج رمز تحويل C++ لمستند JSON إلى تنسيق TSV. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل دفعة JSON إلى TSV داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

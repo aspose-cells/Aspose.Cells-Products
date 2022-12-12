@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通过 Java 在 XLSX 文件中生成报告 
 weight: 7710
-url: /zh/java/assembly/xlsx/ 
+
 description: Java 用于在 Java JSP/JSF 应用程序和桌面应用程序的运行时环境中创建 XLSX 格式报告的示例代码。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

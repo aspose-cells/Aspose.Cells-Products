@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง TXT เป็น TABDELIMITED ผ่าน C#
-url: /th/net/conversion/txt-to-tabdelimited/
+
 description: โค้ดตัวอย่างสำหรับการแปลง txt เป็น tabdelimited C# ใช้โค้ดตัวอย่าง API สำหรับไฟล์แบตช์ txt เพื่อแปลงเป็น tabdelimited ภายใน VB.NET, Asp.NET หรือแอปพลิเคชันที่ใช้ .NET
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

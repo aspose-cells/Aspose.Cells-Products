@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++을 통해 ODS 주석 추가 
 weight: 8840
-url: /ko/cpp/annotation/ods/ 
+
 description: C++ Windows 32비트, Windows 64비트 및 Linux 64비트용 C++ 런타임 환경에서 ODS 형식 주석을 삭제하는 샘플 코드.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

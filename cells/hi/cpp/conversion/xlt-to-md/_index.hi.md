@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++ एप्लिकेशन के माध्यम से XLT को MD में बदलें 
-url: /hi/cpp/conversion/xlt-to-md/ 
+
 description: नमूना C++ XLT दस्तावेज़ के लिए MD स्वरूप में रूपांतरण कोड। प्रोग्रामर इस स्रोत कोड का उपयोग बैच एक्सएलटी से एमडी रूपांतरण के लिए किसी भी C++ एप्लिकेशन में कर सकते हैं।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

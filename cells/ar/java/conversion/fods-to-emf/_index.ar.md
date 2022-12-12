@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل FODS إلى EMF عبر Java 
-url: /ar/java/conversion/fods-to-emf/ 
+
 description: نموذج Java رمز تحويل لتنسيق FODS إلى ملف EMF. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى EMF داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

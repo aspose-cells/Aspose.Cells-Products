@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLSM na SPREADSHEETML přes Python
-url: /cs/python-java/conversion/xlsm-to-spreadsheetml/
+
 description: Ukázkový kód pro převod xlsm na tabulkuml Python. Použijte API ukázkový kód pro dávkový převod souborů xlsm do tabulkyml v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Δημιουργία αρχείων PDF μέσω C# 
-url: /el/net/create-pdf/ 
+
 description: C# Δείγμα κώδικα για τη δημιουργία εγγράφων PDF. Χρησιμοποιήστε αυτόν τον κώδικα για τη δημιουργία αρχείων PDF σε VB.NET, Asp.NET ή οποιαδήποτε εφαρμογή που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

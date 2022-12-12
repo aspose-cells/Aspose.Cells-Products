@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してODSをEMFに変換する 
 weight: 760
-url: /ja/java/conversion/ods-to-emf/ 
+
 description: ODS形式からEMFファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のEMFにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir XLT en TIFF via Python
-url: /fr/python-java/conversion/xlt-to-tiff/
+
 description: Exemple de code pour la conversion xlt vers tiff Python. Utilisez l'exemple de code API pour les fichiers batch xlt en conversion tiff dans l'application Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

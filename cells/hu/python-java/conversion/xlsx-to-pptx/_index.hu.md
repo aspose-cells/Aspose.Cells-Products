@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLSX konvertálása PPTX-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/xlsx-to-pptx/
+
 description: Mintakód az xlsx–pptx Python konverzióhoz. Használjon API példakódot a kötegelt xlsx fájlok pptx konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

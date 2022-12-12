@@ -1,7 +1,7 @@
-﻿---
+---
 title: دمج ملفات XLSX عبر Java 
 weight: 8930
-url: /ar/java/merger/xlsx/ 
+
 description: Java نموذج كود لدمج مستندات XLSX في Java Runtime Environment لتطبيق JSP / JSF وتطبيقات سطح المكتب.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

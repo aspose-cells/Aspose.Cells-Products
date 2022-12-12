@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan ODS ke JSON melalui Python
-url: /id/python-java/conversion/ods-to-json/
+
 description: Contoh kode untuk konversi ods ke json Python. Gunakan API kode contoh untuk file batch ods ke konversi json dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

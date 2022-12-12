@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to XLT via Python
-url: /python-java/conversion/json-to-xlt/
+
 description: Convert JSON to XLT format in Python code. Save JSON as XLT using Python.
 ---
 

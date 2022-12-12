@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通过 C++ 添加 XLS Excel 文件注释 
 weight: 10040
-url: /zh/cpp/annotation/xls/ 
+
 description: C++ 在 Windows 32 位、Windows 64 位和 Linux 64 位的 C++ 运行时环境中添加和删除 XLS 格式注释的示例代码。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

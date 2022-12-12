@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer MHTML naar JSON via C#
-url: /nl/net/conversion/mhtml-to-json/
+
 description: Voorbeeldcode voor conversie van mhtml naar json C#. Gebruik API voorbeeldcode voor batch-mhtml-bestanden naar json-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# üzerinden XLSM'yi MARKDOWN'a dönüştürün
-url: /tr/net/conversion/xlsm-to-markdown/
+
 description: C# dönüşümünü azaltmak için xlsm için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde dönüşümü işaretlemek için toplu xlsm dosyaları için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

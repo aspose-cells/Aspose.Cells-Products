@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertera ODS till EMF via Java 
 weight: 760
-url: /sv/java/conversion/ods-to-emf/ 
+
 description: Exempel på Java-konverteringskod för ODS-format till EMF-fil. Programmerare kan använda den här exempelkoden för att exportera Excel- och OpenOffice-kalkylblad till EMF inom alla webb- eller skrivbordsbaserade Java-applikationer.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: JSON'u C# aracılığıyla TIFF'ye dönüştürün
-url: /tr/net/conversion/json-to-tiff/
+
 description: json'dan tiff C# dönüşümüne ilişkin örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde dönüşüm tiff için toplu json dosyaları için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TSV na JSON prostřednictvím Python
-url: /cs/python-java/conversion/tsv-to-json/
+
 description: Ukázkový kód pro převod tsv na json Python. Použijte API ukázkový kód pro dávkový převod souborů tsv na json v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

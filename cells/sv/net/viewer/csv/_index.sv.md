@@ -1,7 +1,7 @@
-﻿---
+---
 title: Visa CSV-filformat via .NET 
 weight: 7690
-url: /sv/net/viewer/csv/ 
+
 description: C# källkod för att ladda, rendera och visa CSV-dokument på .NET Framework, .NET Core, Mono eller Xamarin-plattformar.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

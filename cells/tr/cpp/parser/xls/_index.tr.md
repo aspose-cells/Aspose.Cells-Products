@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ aracılığıyla XLS belgesinden metin ve resim ayıklayın 
 weight: 7610
-url: /tr/cpp/parser/xls/ 
+
 description: C++ Windows 32 bit, Windows 64 bit ve Linux 64 bit için C++ Runtime Environment'daki XLS dosyasından metin ve resim ayıklamak için örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

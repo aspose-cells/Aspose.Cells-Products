@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLSX إلى MARKDOWN عبر Python
-url: /ar/python-java/conversion/xlsx-to-markdown/
+
 description: نموذج رمز لتحويل xlsx إلى علامة التخفيض Python. استخدم API رمز المثال لملفات xlsx الدفعية لتحديد التحويل ضمن تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Μετατροπή MHTML σε TSV μέσω εφαρμογής C++ 
 weight: 8200
-url: /el/cpp/conversion/mhtml-to-tsv/ 
+
 description: Δείγμα κώδικα μετατροπής C++ για έγγραφο MHTML σε μορφή TSV. Οι προγραμματιστές μπορούν να χρησιμοποιήσουν αυτόν τον πηγαίο κώδικα για ομαδική μετατροπή MHTML σε TSV σε οποιαδήποτε εφαρμογή C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

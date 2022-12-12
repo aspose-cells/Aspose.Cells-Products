@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to EMF via C++
-url: /cpp/conversion/txt-to-emf/
+
 description: Convert TXT to EMF format in C++ code. Save TXT as EMF using C++.
 ---
 

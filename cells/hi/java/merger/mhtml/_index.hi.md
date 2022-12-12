@@ -1,7 +1,7 @@
-﻿---
+---
 title: MHTML फ़ाइलें Java के द्वारा मर्ज करें 
 weight: 4420
-url: /hi/java/merger/mhtml/ 
+
 description: Java जेएसपी/जेएसएफ एप्लिकेशन और डेस्कटॉप एप्लिकेशन के लिए रनटाइम एनवायरनमेंट पर एमएचटीएमएल दस्तावेज़ों को संयोजित करने के लिए Java नमूना कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

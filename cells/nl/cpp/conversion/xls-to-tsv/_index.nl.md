@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer XLS naar TSV via C++ applicatie 
 weight: 3190
-url: /nl/cpp/conversion/xls-to-tsv/ 
+
 description: Voorbeeld C++-conversiecode voor XLS-document naar TSV-indeling. Programmeurs kunnen deze broncode gebruiken voor batch-XLS naar TSV-conversie binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

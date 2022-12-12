@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง EXCEL เป็น WORD ผ่าน C#
-url: /th/net/conversion/excel-to-word/
+
 description: โค้ดตัวอย่างสำหรับการแปลง excel เป็น word C# ใช้โค้ดตัวอย่าง API สำหรับไฟล์ excel แบบแบตช์เป็นการแปลงคำภายใน VB.NET, Asp.NET หรือแอปพลิเคชันที่ใช้ .NET
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

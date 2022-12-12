@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to WORD via C++
-url: /cpp/conversion/xltx-to-word/
+
 description: Convert XLTX to WORD format in C++ code. Save XLTX as WORD using C++.
 ---
 

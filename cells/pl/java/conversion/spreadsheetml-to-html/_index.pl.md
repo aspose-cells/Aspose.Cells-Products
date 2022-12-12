@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj SPREADSHEETML na HTML za pomocą Java 
-url: /pl/java/conversion/spreadsheetml-to-html/ 
+
 description: Przykładowy kod konwersji Java dla formatu SPREADSHEETML do pliku HTML. Programiści mogą użyć tego przykładowego kodu do eksportowania arkuszy kalkulacyjnych Excel i OpenOffice do HTML w dowolnej aplikacji internetowej lub desktopowej Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

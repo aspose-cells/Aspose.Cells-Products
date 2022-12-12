@@ -1,7 +1,7 @@
-﻿---
+---
 title: Решение для формата файлов Excel
 weight: 7730
-url: /ru/
+
 description: Создавайте приложения для работы с файлами Excel, используя High Code или Low Code API или приложения без кода, чтобы просматривать, сравнивать, проверять или преобразовывать файлы Excel.
 ---
 {{< blocks/products/pf/main-wrap-class >}}

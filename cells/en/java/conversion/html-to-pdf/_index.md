@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to PDF via Java 
-url: /java/conversion/html-to-pdf/
+
 description: Convert HTML to PDF format in Java code. Save HTML as PDF using Java.
 ---
 

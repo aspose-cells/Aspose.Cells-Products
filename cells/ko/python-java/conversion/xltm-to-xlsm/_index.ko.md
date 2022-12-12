@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python을(를) 통해 XLTM을 XLSM으로 변환
-url: /ko/python-java/conversion/xltm-to-xlsm/
+
 description: xltm에서 xlsm으로의 Python 변환을 위한 샘플 코드입니다. Python 애플리케이션 내에서 일괄 xltm 파일을 xlsm으로 변환하기 위해 API 예제 코드를 사용합니다.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

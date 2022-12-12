@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést XLTM na DIF přes Java 
 weight: 6620
-url: /cs/java/conversion/xltm-to-dif/ 
+
 description: Ukázkový konverzní kód Java pro formát XLTM na soubor DIF. Programátoři mohou tento příklad kódu použít k exportu tabulek Excelu a OpenOffice do formátu DIF v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

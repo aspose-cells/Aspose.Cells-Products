@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование EXCEL в JSON через Python
-url: /ru/python-java/conversion/excel-to-json/
+
 description: Пример кода для преобразования excel в json Python. Используйте пример кода API для пакетного преобразования файлов Excel в json в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

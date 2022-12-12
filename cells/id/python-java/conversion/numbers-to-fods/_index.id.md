@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi NUMBER ke FODS melalui Python
-url: /id/python-java/conversion/numbers-to-fods/
+
 description: Contoh kode untuk konversi angka ke makanan Python. Gunakan API kode contoh untuk file nomor batch ke konversi makanan dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

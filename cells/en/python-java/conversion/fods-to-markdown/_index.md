@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to MARKDOWN via Python
-url: /python-java/conversion/fods-to-markdown/
+
 description: Convert FODS to MARKDOWN format in Python code. Save FODS as MARKDOWN using Python.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla TXT'yi DOCX'e dönüştürün
-url: /tr/python-java/conversion/txt-to-docx/
+
 description: txt'den docx'e Python dönüştürme için örnek kod. Python uygulamasında toplu txt dosyalarından docx'e dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

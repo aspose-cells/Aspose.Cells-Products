@@ -1,7 +1,7 @@
-﻿---
+---
 title: Rechercher et remplacer du texte dans un document XLS via .NET 
 weight: 7280
-url: /fr/net/redaction/xls/ 
+
 description: Code source C# pour masquer les informations sensibles dans le fichier XLS sur .NET Framework, .NET Core, Mono ou Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

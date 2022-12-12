@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 Python 將 TABDELIMITED 轉換為 MARKDOWN
-url: /zh-hant/python-java/conversion/tabdelimited-to-markdown/
+
 description: tabdelimited 到 markdown Python 轉換的示例代碼。在 Python 應用程序中使用批量製表符分隔文件的 API 示例代碼進行降價轉換。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

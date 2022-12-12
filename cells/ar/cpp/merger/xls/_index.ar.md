@@ -1,6 +1,6 @@
-﻿---
+---
 title: دمج ملفات XLS عبر C++ 
-url: /ar/cpp/merger/xls/ 
+
 description: C++ مثال على رمز لدمج مستندات XLS في C++ Runtime Environment لأنظمة التشغيل Windows 32 بت و Windows 64 بت و Linux 64 بت.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

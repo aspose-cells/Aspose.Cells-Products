@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi HTML sang PDF qua C#
-url: /vi/net/conversion/html-to-pdf/
+
 description: Mã mẫu để chuyển đổi html sang pdf C#. Sử dụng API mã mẫu để chuyển đổi hàng loạt tệp html sang pdf trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

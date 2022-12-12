@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLS naar BMP via C#
-url: /nl/net/conversion/xls-to-bmp/
+
 description: Voorbeeldcode voor xls naar bmp C# conversie. Gebruik API voorbeeldcode voor batch xls-bestanden naar bmp-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

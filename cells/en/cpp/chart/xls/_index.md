@@ -1,7 +1,7 @@
 ---
 title: XLS document chart via C++ 
 weight: 2500
-url: /cpp/chart/xls/ 
+
 description: C++ example code to draw and convert chart or diagram in XLS file on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: .NETC#を介してExcelファイルのメタデータを管理する
-url: /ja/net/metadata/
+
 description: わずか数行のC#コードで、Excelファイルのメタデータを表示、追加、編集、削除、または抽出します
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

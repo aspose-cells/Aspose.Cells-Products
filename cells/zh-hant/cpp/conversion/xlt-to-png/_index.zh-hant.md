@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 C++ 應用程序將 XLT 轉換為 PNG 
-url: /zh-hant/cpp/conversion/xlt-to-png/ 
+
 description: XLT 文檔到 PNG 格式的示例 C++ 轉換代碼。程序員可以使用此源代碼在任何 C++ 應用程序中進行批量 XLT 到 PNG 的轉換。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

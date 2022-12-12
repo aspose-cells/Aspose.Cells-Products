@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLS konvertálása JPG formátumba a következőn keresztül: Python"
-url: /hu/python-java/conversion/xls-to-jpg/
+
 description: Mintakód az xls-ből jpg-be Python konvertáláshoz. Használjon API példakódot a kötegelt xls fájlok jpg konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

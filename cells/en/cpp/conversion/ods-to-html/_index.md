@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to HTML via C++
-url: /cpp/conversion/ods-to-html/
+
 description: Convert ODS to HTML format in C++ code. Save ODS as HTML using C++.
 ---
 

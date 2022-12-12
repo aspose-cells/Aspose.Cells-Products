@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή ODS σε MARKDOWN μέσω Python
-url: /el/python-java/conversion/ods-to-markdown/
+
 description: Δείγμα κώδικα για μετατροπή ods to markdown Python. Χρησιμοποιήστε API παράδειγμα κώδικα για αρχεία ομαδικών αποδόσεων για να σημειώσετε τη μετατροπή εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

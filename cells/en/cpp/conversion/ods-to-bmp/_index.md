@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to BMP via C++
-url: /cpp/conversion/ods-to-bmp/
+
 description: Convert ODS to BMP format in C++ code. Save ODS as BMP using C++.
 ---
 

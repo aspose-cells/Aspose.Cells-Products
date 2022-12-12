@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to PNG via C++
-url: /cpp/conversion/json-to-png/
+
 description: Convert JSON to PNG format in C++ code. Save JSON as PNG using C++.
 ---
 

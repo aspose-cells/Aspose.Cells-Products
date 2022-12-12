@@ -1,7 +1,7 @@
-﻿---
+---
 title: استخراج النص والصور من مستند XLSB عبر .NET 
 weight: 2200
-url: /ar/net/parser/xlsb/ 
+
 description: C# شفرة المصدر لاستخراج نص وصور من ملف XLSB على .NET Framework أو .NET Core أو Mono أو أنظمة Xamarin الأساسية.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển XLT sang PDF qua C#
-url: /vi/net/conversion/xlt-to-pdf/
+
 description: Mã mẫu cho chuyển đổi xlt sang pdf C#. Sử dụng API mã ví dụ cho chuyển đổi hàng loạt tệp xlt sang pdf trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

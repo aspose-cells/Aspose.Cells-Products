@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to TXT via Java 
-url: /java/conversion/mhtml-to-txt/
+
 description: Convert MHTML to TXT format in Java code. Save MHTML as TXT using Java.
 ---
 

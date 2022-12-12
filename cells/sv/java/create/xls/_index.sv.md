@@ -1,6 +1,6 @@
-﻿---
+---
 title: Skapa MS Excel XLS-filer via Java 
-url: /sv/java/create-xls/ 
+
 description: Java Exempelkod för att generera XLS-dokument. Använd den här koden för att skapa MS Excel XLS-filer i Java-baserade skrivbords- eller webbapplikationer.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

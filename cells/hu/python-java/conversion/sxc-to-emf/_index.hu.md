@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SXC konvertálása EMF-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/sxc-to-emf/
+
 description: Mintakód az sxc-ből emf-be Python történő konverzióhoz. Használjon API példakódot kötegelt sxc fájlokhoz az EMF konverzióhoz a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

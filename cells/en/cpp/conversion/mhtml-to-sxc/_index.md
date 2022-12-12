@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to SXC via C++
-url: /cpp/conversion/mhtml-to-sxc/
+
 description: Convert MHTML to SXC format in C++ code. Save MHTML as SXC using C++.
 ---
 

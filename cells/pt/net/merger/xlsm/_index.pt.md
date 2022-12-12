@@ -1,7 +1,7 @@
-﻿---
+---
 title: Mesclar arquivos XLSM via .NET 
 weight: 660
-url: /pt/net/merger/xlsm/ 
+
 description: C# código-fonte para combinar documentos XLSM em plataformas .NET Framework, .NET Core, Mono ou Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

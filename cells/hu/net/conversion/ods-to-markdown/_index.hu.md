@@ -1,6 +1,6 @@
-﻿---
+---
 title: "ODS konvertálása MARKDOWN-re a következőn keresztül: C#"
-url: /hu/net/conversion/ods-to-markdown/
+
 description: Mintakód az ods to markdown C# konverzióhoz. Használjon API példakódot kötegelt ods fájlokhoz a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazás konverziójának leértékeléséhez.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

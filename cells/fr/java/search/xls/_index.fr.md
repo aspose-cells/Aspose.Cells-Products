@@ -1,7 +1,7 @@
-﻿---
+---
 title: Rechercher un document XLS sans ouvrir via Java 
 weight: 9430
-url: /fr/java/search/xls/ 
+
 description: Java exemple de code pour rechercher des mots avec un modèle dans le fichier XLS sur Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

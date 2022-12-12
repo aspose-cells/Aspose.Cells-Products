@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++アプリケーションを介してTSVをDIFに変換します 
 weight: 2350
-url: /ja/cpp/conversion/tsv-to-dif/ 
+
 description: TSVドキュメントからDIF形式へのサンプルC++変換コード。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でTSVからDIFへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

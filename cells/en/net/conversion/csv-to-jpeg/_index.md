@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to JPEG via C#
-url: /net/conversion/csv-to-jpeg/
+
 description: Convert CSV to JPEG format in C# code. Save CSV as JPEG using VB.NET, Asp.NET or any .NET based application.
 ---
 

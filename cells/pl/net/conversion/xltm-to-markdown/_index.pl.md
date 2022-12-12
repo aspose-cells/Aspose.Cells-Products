@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj XLTM na MARKDOWN za pomocą C#
-url: /pl/net/conversion/xltm-to-markdown/
+
 description: Przykładowy kod konwersji xltm na przecenę C#. Użyj przykładowego kodu API dla wsadowych plików xltm do konwersji przecen w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

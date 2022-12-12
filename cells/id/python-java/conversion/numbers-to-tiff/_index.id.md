@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi NUMBER ke TIFF melalui Python
-url: /id/python-java/conversion/numbers-to-tiff/
+
 description: Contoh kode untuk angka ke konversi tiff Python. Gunakan API kode contoh untuk file nomor batch ke konversi tiff dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Visa XLSM-filformat via .NET 
 weight: 9980
-url: /sv/net/viewer/xlsm/ 
+
 description: C# källkod för att ladda, rendera och visa XLSM-dokument på .NET Framework, .NET Core, Mono eller Xamarin-plattformar.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

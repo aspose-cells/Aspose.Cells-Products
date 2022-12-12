@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla SXC'yi ODS'ye dönüştürün
-url: /tr/python-java/conversion/sxc-to-ods/
+
 description: sxc'den ods'ye Python dönüştürme için örnek kod. Python uygulamasında toplu sxc dosyalarından ods'ye dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

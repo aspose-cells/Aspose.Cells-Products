@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj XLTM na XLT przez C#
-url: /pl/net/conversion/xltm-to-xlt/
+
 description: Przykładowy kod konwersji xltm na xlt C#. Użyj przykładowego kodu API dla plików wsadowych xltm do konwersji xlt w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

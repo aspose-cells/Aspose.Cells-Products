@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to TSV via Python
-url: /python-net/conversion/numbers-to-tsv/
+
 description: Sample code for numbers to tsv Python conversion. Use API example code for batch numbers files to tsv conversion within Python application.
 ---
 

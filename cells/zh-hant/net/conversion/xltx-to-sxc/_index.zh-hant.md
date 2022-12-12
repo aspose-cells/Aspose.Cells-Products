@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 C# 將 XLTX 轉換為 SXC
-url: /zh-hant/net/conversion/xltx-to-sxc/
+
 description: xltx 到 sxc C# 轉換的示例代碼。使用 API 示例代碼在 VB.NET、Asp.NET 或任何基於 .NET 的應用程序中將 xltx 文件批量轉換為 sxc。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してXLTXをXLAMに変換します
-url: /ja/python-java/conversion/xltx-to-xlam/
+
 description: xltxからxlamPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチxltxファイルからxlamへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

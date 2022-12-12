@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera SPREADSHEETML till JPEG via Python
-url: /sv/python-java/conversion/spreadsheetml-to-jpeg/
+
 description: Exempelkod för konvertering från kalkylarkml till jpeg Python. Använd API exempelkod för batch-kalkylarkml-filer till jpeg-konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

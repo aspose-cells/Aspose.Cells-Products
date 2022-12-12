@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter XLSB para XML por meio do aplicativo C++ 
-url: /pt/cpp/conversion/xlsb-to-xml/ 
+
 description: Exemplo de código de conversão C++ de documento XLSB para formato XML. Os programadores podem usar esse código-fonte para conversão em lote de XLSB para XML em qualquer aplicativo C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

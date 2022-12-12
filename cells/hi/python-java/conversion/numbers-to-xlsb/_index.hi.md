@@ -1,6 +1,6 @@
-﻿---
+---
 title: NUMBERS को Python के द्वारा XLSB में बदलें
-url: /hi/python-java/conversion/numbers-to-xlsb/
+
 description: संख्याओं के लिए नमूना कोड xlsb Python रूपांतरण के लिए। Python एप्लिकेशन के भीतर xlsb रूपांतरण में बैच संख्या फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

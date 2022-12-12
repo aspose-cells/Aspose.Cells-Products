@@ -1,7 +1,7 @@
-﻿---
+---
 title: Graf dokumentu XLS prostřednictvím Java 
 weight: 1050
-url: /cs/java/chart/xls/ 
+
 description: Java ukázkový kód pro kreslení a převod grafu nebo diagramu do souboru XLS v Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

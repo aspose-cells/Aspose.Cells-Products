@@ -1,6 +1,6 @@
-﻿---
+---
 title: SPREADSHEETML'yi Python aracılığıyla BMP'ye dönüştürün
-url: /tr/python-java/conversion/spreadsheetml-to-bmp/
+
 description: E-tablo ml'den bmp'ye Python dönüşümü için örnek kod. Python uygulamasında toplu e-tablo ml dosyalarının bmp'ye dönüştürülmesi için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

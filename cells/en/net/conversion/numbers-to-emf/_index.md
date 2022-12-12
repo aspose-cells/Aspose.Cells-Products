@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to EMF via C#
-url: /net/conversion/numbers-to-emf/
+
 description: Convert NUMBERS to EMF format in C# code. Save NUMBERS as EMF using VB.NET, Asp.NET or any .NET based application.
 ---
 

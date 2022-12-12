@@ -1,6 +1,6 @@
-﻿---
+---
 title: Επεξεργασία αρχείων CSV μέσω .NET 
-url: /el/net/editor/csv/ 
+
 description: C# πηγαίος κώδικας για επεξεργασία εγγράφου CSV σε πλατφόρμες .NET Framework, .NET Core, Windows Azure, Mono ή Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Merge HTML to ODS Files via Python 
-url: /python-net/merger/merge-html-to-ods/ 
+
 description: Merge HTML to ODS file in Python code. Combine HTML to ODS file using Python.
 ---
 

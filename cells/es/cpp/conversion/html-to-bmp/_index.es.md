@@ -1,7 +1,7 @@
-﻿---
+---
 title: Convierta HTML a BMP a través de la aplicación C++ 
 weight: 9710
-url: /es/cpp/conversion/html-to-bmp/ 
+
 description: Ejemplo de código de conversión C++ para documento HTML a formato BMP. Los programadores pueden usar este código fuente para la conversión por lotes de HTML a BMP dentro de cualquier aplicación C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

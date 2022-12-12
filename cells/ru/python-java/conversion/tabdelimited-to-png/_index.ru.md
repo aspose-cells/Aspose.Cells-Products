@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование TABDELIMITED в PNG с помощью Python
-url: /ru/python-java/conversion/tabdelimited-to-png/
+
 description: Пример кода для преобразования tabdelimited в png Python. Используйте пример кода API для пакетного преобразования файлов с разделителями табуляции в png в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

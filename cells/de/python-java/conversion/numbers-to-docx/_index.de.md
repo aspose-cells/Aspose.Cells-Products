@@ -1,6 +1,6 @@
-﻿---
+---
 title: NUMBERS über Python in DOCX umwandeln
-url: /de/python-java/conversion/numbers-to-docx/
+
 description: Beispielcode für die Umwandlung von Zahlen in docx Python. Verwenden Sie den API-Beispielcode für die Konvertierung von Stapelnummerndateien in docx innerhalb der Anwendung Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

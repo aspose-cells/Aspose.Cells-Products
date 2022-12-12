@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง SPREADSHEETML เป็น SXC ผ่าน C#
-url: /th/net/conversion/spreadsheetml-to-sxc/
+
 description: โค้ดตัวอย่างสำหรับการแปลงสเปรดชีตml เป็น sxc C# ใช้โค้ดตัวอย่าง API สำหรับไฟล์สเปรดชีตแบบแบตช์เป็นการแปลง sxc ภายใน VB.NET, Asp.NET หรือแอปพลิเคชันที่ใช้ .NET
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

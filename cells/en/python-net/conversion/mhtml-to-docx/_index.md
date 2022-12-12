@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to DOCX via Python
-url: /python-net/conversion/mhtml-to-docx/
+
 description: Sample code for mhtml to docx Python conversion. Use API example code for batch mhtml files to docx conversion within Python application.
 ---
 

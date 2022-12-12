@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer CSV naar XLT via C++ applicatie 
-url: /nl/cpp/conversion/csv-to-xlt/ 
+
 description: Voorbeeld C++-conversiecode voor CSV-document naar XLT-indeling. Programmeurs kunnen deze broncode gebruiken voor batch-CSV-naar-XLT-conversie binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Sloučit různé soubory Excel do jednoho v Java
-url: /cs/java/merger/
+
 description: Sloučit soubory Excel pomocí Java do více listů nebo jednoho listu. Slučujte, kombinujte nebo spojujte dokumenty Excel do PDF, obrázků a HTML.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Documento ODS de marca d'água via .NET 
 weight: 4190
-url: /pt/net/watermark/ods/ 
+
 description: C# código-fonte para adicionar ou remover marca d'água do arquivo ODS nas plataformas .NET Framework, .NET Core, Mono ou Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

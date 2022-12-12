@@ -1,7 +1,7 @@
-﻿---
+---
 title: MHTML फ़ाइलें .NET के द्वारा मर्ज करें 
 weight: 2610
-url: /hi/net/merger/mhtml/ 
+
 description: .NET Framework, .NET Core, Mono या Xamarin प्लेटफॉर्म पर MHTML दस्तावेज़ों को संयोजित करने के लिए C# स्रोत कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

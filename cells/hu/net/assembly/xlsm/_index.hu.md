@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Jelentések létrehozása XLSM-fájlokban a következőn keresztül: .NET "
 weight: 4400
-url: /hu/net/assembly/xlsm/ 
+
 description: C# forráskód XLSM formátumú jelentések létrehozásához .NET Framework, .NET Core, Mono vagy Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

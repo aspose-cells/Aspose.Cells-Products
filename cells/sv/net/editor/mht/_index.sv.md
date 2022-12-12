@@ -1,6 +1,6 @@
-﻿---
+---
 title: Redigera MHT-filer via .NET 
-url: /sv/net/editor/mht/ 
+
 description: C# källkod för att redigera MHT-dokument på .NET Framework, .NET Core, Windows Azure, Mono eller Xamarin-plattformar.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLSM-Dokument über .NET schützen und sperren 
 weight: 7530
-url: /de/net/protect/xlsm/ 
+
 description: C#-Quellcode zum Sperren der XLSM-Datei mit Kennwort auf .NET Framework-, .NET Core-, Mono- oder Xamarin-Plattformen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

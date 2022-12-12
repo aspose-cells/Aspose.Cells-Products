@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLS konvertálása XML-re a következőn keresztül: C#"
-url: /hu/net/conversion/xls-to-xml/
+
 description: Mintakód az xl-ből xml-be C# konverzióhoz. Használjon API példakódot a kötegelt xls-fájlok XML-vé konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

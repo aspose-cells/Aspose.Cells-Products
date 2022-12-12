@@ -1,7 +1,7 @@
-﻿---
+---
 title:  XLSM-Dokumentendiagramm zu Bildern über .NET 
 weight: 5100
-url: /de/net/chart/xlsm/ 
+
 description: C# Quellcode zum Zeichnen und Konvertieren von Diagrammen oder Diagrammen in XLSM-Dateien auf .NET Framework-, .NET Core-, Mono- oder Xamarin-Plattformen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

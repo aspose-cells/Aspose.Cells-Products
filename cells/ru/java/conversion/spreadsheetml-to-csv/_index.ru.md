@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование SPREADSHETML в CSV с помощью Java 
-url: /ru/java/conversion/spreadsheetml-to-csv/ 
+
 description: Пример кода преобразования Java для формата SPREADSHEETML в файл CSV. Программисты могут использовать этот пример кода для экспорта электронных таблиц Excel и OpenOffice в CSV в любом веб-или настольном Java приложении.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

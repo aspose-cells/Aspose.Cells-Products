@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to TIFF via C++
-url: /cpp/conversion/txt-to-tiff/
+
 description: Convert TXT to TIFF format in C++ code. Save TXT as TIFF using C++.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: NUMBERS'ı Python aracılığıyla JSON'a dönüştürün
-url: /tr/python-java/conversion/numbers-to-json/
+
 description: Sayılardan json'a Python dönüştürme için örnek kod. Python uygulamasında toplu iş numarası dosyalarını json'a dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert TSV to CSV via C#
-url: /net/conversion/tsv-to-csv/
+
 description: Convert TSV to CSV format in C# code. Save TSV as CSV using VB.NET, Asp.NET or any .NET based application.
 ---
 

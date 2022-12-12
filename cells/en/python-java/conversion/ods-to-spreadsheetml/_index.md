@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to SPREADSHEETML via Python
-url: /python-java/conversion/ods-to-spreadsheetml/
+
 description: Convert ODS to SPREADSHEETML format in Python code. Save ODS as SPREADSHEETML using Python.
 ---
 

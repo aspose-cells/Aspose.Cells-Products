@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést HTML na DOCX pomocí Python
-url: /cs/python-java/conversion/html-to-docx/
+
 description: Ukázkový kód pro převod html na docx Python. Použijte API ukázkový kód pro dávkový převod html souborů na docx v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

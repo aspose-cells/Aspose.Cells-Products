@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование ODS в TXT через Python
-url: /ru/python-java/conversion/ods-to-txt/
+
 description: Пример кода для преобразования ods в txt Python. Используйте пример кода API для пакетного преобразования файлов ods в txt в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

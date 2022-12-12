@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển NUMBERS thành BMP qua Python
-url: /vi/python-java/conversion/numbers-to-bmp/
+
 description: Mã mẫu cho chuyển đổi số thành bmp Python. Sử dụng mã mẫu API cho các tệp số lô để chuyển đổi bmp trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

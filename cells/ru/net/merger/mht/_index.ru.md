@@ -1,6 +1,6 @@
-﻿---
+---
 title: Объединить файлы MHT через .NET 
-url: /ru/net/merger/mht/ 
+
 description: Попробуйте наши локальные API для слияния сообщений, чтобы объединить документы MHT на платформах .NET Framework, .NET Core и Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

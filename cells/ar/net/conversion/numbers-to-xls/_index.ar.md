@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل NUMBERS إلى XLS عبر C#
-url: /ar/net/conversion/numbers-to-xls/
+
 description: نموذج كود لتحويل الأرقام إلى xls C#. استخدم API رمز المثال لملفات أرقام الدُفعات لتحويل xls داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

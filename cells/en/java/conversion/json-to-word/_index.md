@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to WORD via Java 
-url: /java/conversion/json-to-word/
+
 description: Convert JSON to WORD format in Java code. Save JSON as WORD using Java.
 ---
 

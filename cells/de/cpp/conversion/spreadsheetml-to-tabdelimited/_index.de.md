@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie SPREADSHEETML über die Anwendung C++ in TABDELIMITED 
-url: /de/cpp/conversion/spreadsheetml-to-tabdelimited/ 
+
 description: Beispiel-Umwandlungscode C++ für das SPREADSHEETML-Dokument in das TABDELIMITED-Format. Programmierer können diesen Quellcode für die Batch-Konvertierung von SPREADSHEETML in TABDELIMITED in jeder C++-Anwendung verwenden.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

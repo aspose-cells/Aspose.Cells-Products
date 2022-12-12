@@ -1,6 +1,6 @@
-﻿---
+---
 title: Ubah NUMBER ke TABDELIMITED melalui C#
-url: /id/net/conversion/numbers-to-tabdelimited/
+
 description: Kode contoh untuk angka ke konversi C# tabdelimited. Gunakan API kode contoh untuk file nomor batch ke konversi tabdelimited dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

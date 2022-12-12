@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TSV na XLAM přes C#
-url: /cs/net/conversion/tsv-to-xlam/
+
 description: Ukázkový kód pro převod tsv na xlam C#. Použijte API ukázkový kód pro dávkové soubory tsv na převod xlam v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

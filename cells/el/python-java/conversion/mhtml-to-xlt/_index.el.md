@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή MHTML σε XLT μέσω Python
-url: /el/python-java/conversion/mhtml-to-xlt/
+
 description: Δείγμα κώδικα για μετατροπή mhtml σε xlt Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία mhtml σε xlt μετατροπής εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

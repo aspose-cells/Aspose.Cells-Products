@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi NUMBER ke XLTX melalui Python
-url: /id/python-java/conversion/numbers-to-xltx/
+
 description: Contoh kode untuk angka ke xltx Python konversi. Gunakan API kode contoh untuk file nomor batch ke konversi xltx dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

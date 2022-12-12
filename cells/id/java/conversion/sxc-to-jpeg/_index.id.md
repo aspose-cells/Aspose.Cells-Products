@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan SXC ke JPEG melalui Java 
-url: /id/java/conversion/sxc-to-jpeg/ 
+
 description: Contoh Java kode konversi untuk format SXC ke file JPEG. Pemrogram dapat menggunakan kode contoh ini untuk mengekspor spreadsheet Excel & OpenOffice ke JPEG dalam Aplikasi berbasis Web atau Desktop Java apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

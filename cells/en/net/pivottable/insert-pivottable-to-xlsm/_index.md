@@ -1,7 +1,7 @@
 ---
 title: Insert PivotTable in Micorsoft Excel XLSM files via C# 
 weight: 7690
-url: /net/insert-pivottable-to-xlsm/
+
 description: C# Sample code for generating XLSM documents with PivotTable. Use this code for creating Micorsoft Excel XLSM files with PivotTable within VB.NET, Asp.NET or any .NET based application.
 ---
 

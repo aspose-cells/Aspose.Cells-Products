@@ -1,6 +1,6 @@
-﻿---
+---
 title: A TXT konvertálása ODS-re a C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/txt-to-ods/ 
+
 description: Minta C++ konverziós kód a TXT dokumentumhoz ODS formátumba. A programozók ezt a forráskódot használhatják a TXT-ből ODS-be történő kötegelt konverzióhoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

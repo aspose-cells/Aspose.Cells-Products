@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование NUMBERS в XPS через C#
-url: /ru/net/conversion/numbers-to-xps/
+
 description: Пример кода для преобразования чисел в xps C#. Используйте пример кода API для преобразования файлов номеров пакетов в xps в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi FODS sang ODS qua C#
-url: /vi/net/conversion/fods-to-ods/
+
 description: Mã mẫu cho chuyển đổi fods thành ods C#. Sử dụng mã mẫu API cho các tệp fods hàng loạt để chuyển đổi ods trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

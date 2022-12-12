@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してSXCをXLAMに変換します
-url: /ja/python-java/conversion/sxc-to-xlam/
+
 description: sxcからxlamPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチsxcファイルからxlamへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

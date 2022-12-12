@@ -1,7 +1,7 @@
-﻿---
+---
 title: Поиск документа TXT без открытия через C++ 
 weight: 5090
-url: /ru/cpp/search/txt/ 
+
 description: Пример кода C++ для поиска слов с шаблоном в файле TXT в C++ среде выполнения для 32-разрядной, 64-разрядной и Linux 64-разрядной версии.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

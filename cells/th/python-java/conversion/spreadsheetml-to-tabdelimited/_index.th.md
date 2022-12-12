@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง SPREADSHEETML เป็น TABDELIMITED ผ่าน Python
-url: /th/python-java/conversion/spreadsheetml-to-tabdelimited/
+
 description: โค้ดตัวอย่างสำหรับการแปลงสเปรดชีตml ถึง tabdelimited Python ใช้โค้ดตัวอย่าง API สำหรับไฟล์สเปรดชีตสเปรดชีตแบบแบตช์เป็นการแปลงแบบคั่นด้วยแท็บภายในแอปพลิเคชัน Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

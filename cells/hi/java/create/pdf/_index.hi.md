@@ -1,6 +1,6 @@
-﻿---
+---
 title: Java के द्वारा PDF फ़ाइलें बनाएं 
-url: /hi/java/create-pdf/ 
+
 description: Java PDF दस्तावेज़ बनाने के लिए नमूना कोड। इस कोड का उपयोग Java आधारित डेस्कटॉप या वेब एप्लिकेशन के भीतर पीडीएफ फाइल बनाने के लिए करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

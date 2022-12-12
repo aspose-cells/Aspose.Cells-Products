@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してTXTをBMPに変換します
-url: /ja/python-java/conversion/txt-to-bmp/
+
 description: txtからbmpPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチtxtファイルからbmpへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

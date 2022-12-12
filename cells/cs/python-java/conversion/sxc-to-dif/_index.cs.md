@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést SXC na DIF přes Python
-url: /cs/python-java/conversion/sxc-to-dif/
+
 description: Ukázkový kód pro převod sxc na rozdíl Python. Použijte API ukázkový kód pro dávkové sxc soubory pro převod dif v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

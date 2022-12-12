@@ -1,7 +1,7 @@
 ---
 title: Edit or View XLSX Files Metadata via Java 
 weight: 1240
-url: /java/metadata/xlsx/ 
+
 description: Java sample code to edit or view XLSX format metadata on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Zoek TXT-document zonder te openen via C++ 
 weight: 5090
-url: /nl/cpp/search/txt/ 
+
 description: C++ voorbeeldcode om woorden met patroon te zoeken in TXT-bestand op C++ Runtime Environment voor Windows 32 bit, Windows 64 bit en Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

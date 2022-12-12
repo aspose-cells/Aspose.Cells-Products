@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل MHTML إلى ODS عبر تطبيق C++ 
 weight: 5930
-url: /ar/cpp/conversion/mhtml-to-ods/ 
+
 description: نموذج لشفرة تحويل C++ لمستند MHTML إلى تنسيق ODS. يمكن للمبرمجين استخدام شفرة المصدر هذه لتحويل MHTML إلى ODS في أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

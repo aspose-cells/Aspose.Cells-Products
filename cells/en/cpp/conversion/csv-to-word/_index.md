@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to WORD via C++
-url: /cpp/conversion/csv-to-word/
+
 description: Convert CSV to WORD format in C++ code. Save CSV as WORD using C++.
 ---
 

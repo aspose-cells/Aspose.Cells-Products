@@ -1,6 +1,6 @@
-﻿---
+---
 title: TABDELIMITED को Python के ज़रिए HTML में बदलें
-url: /hi/python-java/conversion/tabdelimited-to-html/
+
 description: HTML Python रूपांतरण के लिए सीमित टैब के लिए नमूना कोड। Python एप्लिकेशन के भीतर html रूपांतरण में बैच टैबसीमांकित फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

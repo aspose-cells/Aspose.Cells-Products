@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to XLSB via C#
-url: /net/conversion/json-to-xlsb/
+
 description: Convert JSON to XLSB format in C# code. Save JSON as XLSB using VB.NET, Asp.NET or any .NET based application.
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Lösning för Excel-filformat
 weight: 7730
-url: /sv/
+
 description: "Skapa Excel-filmanipuleringsapplikationer med High Code eller Low Code API:er eller No Code Apps för att se jämföra inspektera eller konvertera Excel-filer."
 ---
 {{< blocks/products/pf/main-wrap-class >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: قم بتحويل XLTM إلى GIF عبر تطبيق C++ 
-url: /ar/cpp/conversion/xltm-to-gif/ 
+
 description: نموذج C++ رمز تحويل لمستند XLTM إلى تنسيق GIF. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل مجموعة XLTM إلى GIF داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

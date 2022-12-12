@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLSX na XPS přes Python
-url: /cs/python-java/conversion/xlsx-to-xps/
+
 description: Ukázkový kód pro převod xlsx na xps Python. Použijte API ukázkový kód pro dávkový převod souborů xlsx na xps v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

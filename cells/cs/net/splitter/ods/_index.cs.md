@@ -1,7 +1,7 @@
-﻿---
+---
 title: Rozdělit soubory ODS prostřednictvím .NET 
 weight: 140
-url: /cs/net/splitter/ods/ 
+
 description: Zdrojový kód C# pro rozdělení dokumentů ODS na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

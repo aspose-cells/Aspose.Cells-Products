@@ -1,7 +1,7 @@
-﻿---
+---
 title: Защитите и заблокируйте документ ODS через C++ 
 weight: 10010
-url: /ru/cpp/protect/ods/ 
+
 description: Пример кода C++ для блокировки файла ODS с помощью пароля в C++ среде выполнения для 32-разрядной, 64-разрядной Windows и 64-разрядной версии Linux.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

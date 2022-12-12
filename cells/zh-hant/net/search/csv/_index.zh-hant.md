@@ -1,7 +1,7 @@
-﻿---
+---
 title: 在不通過 .NET 打開的情況下搜索 CSV 文檔 
 weight: 7510
-url: /zh-hant/net/search/csv/ 
+
 description: C# 源代碼，用於在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上的 CSV 文件中搜索帶有模式的單詞。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

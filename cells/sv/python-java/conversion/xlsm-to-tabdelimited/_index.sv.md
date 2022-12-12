@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera XLSM till TABDELIMITED via Python
-url: /sv/python-java/conversion/xlsm-to-tabdelimited/
+
 description: Exempelkod för xlsm till tabbavgränsad Python-omvandling. Använd API-exempelkod för batch-xlsm-filer till tabbavgränsad konvertering inom Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

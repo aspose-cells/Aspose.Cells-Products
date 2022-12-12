@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TXT na FODS přes C#
-url: /cs/net/conversion/txt-to-fods/
+
 description: Ukázkový kód pro převod txt na fods C#. Použijte API ukázkový kód pro dávkový převod souborů txt na fods v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

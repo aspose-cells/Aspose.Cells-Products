@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل NUMBERS إلى XLAM عبر C#
-url: /ar/net/conversion/numbers-to-xlam/
+
 description: نموذج رمز للأرقام لتحويل xlam C#. استخدم API رمز المثال لملفات أرقام الدُفعات لتحويل xlam داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera TXT till XML via C#
-url: /sv/net/conversion/txt-to-xml/
+
 description: Exempelkod för konvertering från txt till xml C#. Använd API exempelkod för batch-txt-filer till xml-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

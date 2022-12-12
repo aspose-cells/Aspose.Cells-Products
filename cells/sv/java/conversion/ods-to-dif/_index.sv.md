@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertera ODS till DIF via Java 
 weight: 6760
-url: /sv/java/conversion/ods-to-dif/ 
+
 description: Exempel Java-konverteringskod för ODS-format till DIF-fil. Programmerare kan använda den här exempelkoden för att exportera Excel- och OpenOffice-kalkylblad till DIF inom alla webb- eller skrivbordsbaserade Java-applikationer.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

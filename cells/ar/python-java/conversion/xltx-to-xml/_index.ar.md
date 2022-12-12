@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLTX إلى XML عبر Python
-url: /ar/python-java/conversion/xltx-to-xml/
+
 description: نموذج رمز للتحويل من xltx إلى xml Python. استخدم API رمز المثال لملفات xltx الدفعية لتحويل xml داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

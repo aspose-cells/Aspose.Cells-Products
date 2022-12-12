@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してMSExcelXLSファイルを作成する 
-url: /ja/python-java/create-xls/ 
+
 description: PythonXLSドキュメントを生成するためのサンプルコード。このコードを使用して、Pythonアプリケーション内にMSExcelXLSファイルを作成します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

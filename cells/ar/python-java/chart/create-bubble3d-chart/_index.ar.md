@@ -1,6 +1,6 @@
-﻿---
+---
 title: إنشاء مخططات Bubble3D عبر Python
-url: /ar/python-java/create-bubble3d-chart/
+
 description: Python نموذج كود لإنشاء مخططات Bubble3D في Excel باستخدام Python Library. استخدم هذا الرمز لإنشاء مخطط Bubble3D إلى MS Excel داخل التطبيق المستند إلى Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

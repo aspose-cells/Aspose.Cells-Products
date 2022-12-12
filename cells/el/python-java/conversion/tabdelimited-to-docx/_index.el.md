@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή TABDELIMITED σε DOCX μέσω Python
-url: /el/python-java/conversion/tabdelimited-to-docx/
+
 description: Δείγμα κώδικα για μετατροπή οριοθετημένου πίνακα σε docx Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία οριοθετημένα στηλοθέτες σε μετατροπή docx εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

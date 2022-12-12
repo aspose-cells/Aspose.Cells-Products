@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TABDELIMITED konvertálása PDF-be a következőn keresztül: C#"
-url: /hu/net/conversion/tabdelimited-to-pdf/
+
 description: Mintakód a tabulátorral határolt pdf C# átalakításhoz. Használjon API példakódot a tabulátorral elválasztott fájlok kötegelt PDF konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazásban.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

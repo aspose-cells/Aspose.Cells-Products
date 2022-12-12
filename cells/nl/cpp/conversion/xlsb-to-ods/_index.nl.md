@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer XLSB naar ODS via C++ applicatie 
 weight: 3450
-url: /nl/cpp/conversion/xlsb-to-ods/ 
+
 description: Voorbeeld C++ conversiecode voor XLSB-document naar ODS-indeling. Programmeurs kunnen deze broncode gebruiken voor batch-conversie van XLSB naar ODS binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

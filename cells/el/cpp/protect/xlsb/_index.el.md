@@ -1,7 +1,7 @@
-﻿---
+---
 title: Προστασία και κλείδωμα εγγράφου XLSB μέσω C++ 
 weight: 4860
-url: /el/cpp/protect/xlsb/ 
+
 description: C++ παράδειγμα κώδικα για το κλείδωμα του αρχείου XLSB με χρήση κωδικού πρόσβασης στο C++ Runtime Environment για Windows 32 bit, Windows 64 bit και Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

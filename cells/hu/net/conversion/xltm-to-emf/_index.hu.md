@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLTM konvertálása EMF-re a következőn keresztül: C#"
-url: /hu/net/conversion/xltm-to-emf/
+
 description: Mintakód az xltm–emf C# konverzióhoz. Használjon API példakódot kötegelt xltm fájlokhoz az emf-konverzióhoz VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

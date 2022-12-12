@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to ODS via C#
-url: /net/conversion/numbers-to-ods/
+
 description: Convert NUMBERS to ODS format in C# code. Save NUMBERS as ODS using VB.NET, Asp.NET or any .NET based application.
 ---
 

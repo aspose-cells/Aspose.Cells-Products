@@ -1,6 +1,6 @@
 ---
 title: Convert XLSM to MARKDOWN via Python
-url: /python-net/conversion/xlsm-to-markdown/
+
 description: Sample code for xlsm to markdown Python conversion. Use API example code for batch xlsm files to markdown conversion within Python application.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to XLAM via Python
-url: /python-net/conversion/txt-to-xlam/
+
 description: Sample code for txt to xlam Python conversion. Use API example code for batch txt files to xlam conversion within Python application.
 ---
 

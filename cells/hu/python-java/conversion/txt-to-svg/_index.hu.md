@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TXT konvertálása SVG-vé a következőn keresztül: Python"
-url: /hu/python-java/conversion/txt-to-svg/
+
 description: Mintakód a txt-ből svg-be Python konverzióhoz. Használjon API példakódot a kötegelt txt fájlok SVG konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

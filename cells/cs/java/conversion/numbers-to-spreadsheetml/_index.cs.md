@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést NUMBERS na SPREADSHEETML prostřednictvím Java 
-url: /cs/java/conversion/numbers-to-spreadsheetml/ 
+
 description: Ukázkový konverzní kód Java pro soubor ve formátu NUMBERS na soubor SPREADSHEETML. Programátoři mohou použít tento příklad kódu k exportu tabulek Excelu a OpenOffice do SPREADSHEETML v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

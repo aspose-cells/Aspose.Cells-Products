@@ -1,7 +1,7 @@
-﻿---
+---
 title: Desbloqueie o documento XLS via .NET 
 weight: 4260
-url: /pt/net/unlock/xls/ 
+
 description: C# código-fonte para desbloquear o arquivo XLS protegido por senha em plataformas .NET Framework, .NET Core, Mono ou Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

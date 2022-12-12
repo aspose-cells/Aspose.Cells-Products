@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to WORD via C++
-url: /cpp/conversion/mhtml-to-word/
+
 description: Convert MHTML to WORD format in C++ code. Save MHTML as WORD using C++.
 ---
 

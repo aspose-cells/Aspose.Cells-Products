@@ -1,6 +1,6 @@
-﻿---
+---
 title: .NET के द्वारा Excel में टिप्पणियाँ सम्मिलित करें
-url: /hi/net/comment/
+
 description: C# स्रोत कोड कि .NET लाइब्रेरी का उपयोग करके Microsoft Excel फ़ाइलों में टिप्पणी कैसे सम्मिलित करें। 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

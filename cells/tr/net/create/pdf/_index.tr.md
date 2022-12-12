@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla PDF Dosyaları Oluşturun 
-url: /tr/net/create-pdf/ 
+
 description: C# PDF belgeleri oluşturmak için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde PDF dosyaları oluşturmak için bu kodu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

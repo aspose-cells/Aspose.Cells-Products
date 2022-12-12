@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLTM konvertálása MD-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/xltm-to-md/
+
 description: Mintakód az xltm–md Python konverzióhoz. Használjon API példakódot az xltm fájlok kötegelt md konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

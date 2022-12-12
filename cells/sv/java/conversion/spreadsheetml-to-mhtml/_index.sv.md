@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera SPREADSHEETML till MHTML via Java 
-url: /sv/java/conversion/spreadsheetml-to-mhtml/ 
+
 description: Exempel på konverteringskod för Java för SPREADSHEETML-format till MHTML-fil. Programmerare kan använda den här exempelkoden för att exportera Excel- och OpenOffice-kalkylblad till MHTML inom alla webb- eller skrivbordsbaserade Javaapplikationer.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

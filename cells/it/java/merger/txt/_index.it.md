@@ -1,7 +1,7 @@
-﻿---
+---
 title: Unisci file TXT tramite Java 
 weight: 4480
-url: /it/java/merger/txt/ 
+
 description: Java codice di esempio per combinare documenti TXT su Java Runtime Environment per applicazioni JSP/JSF e applicazioni desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

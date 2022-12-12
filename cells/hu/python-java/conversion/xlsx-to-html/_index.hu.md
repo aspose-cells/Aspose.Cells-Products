@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLSX konvertálása HTML-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/xlsx-to-html/
+
 description: Mintakód az xlsx-ből html-vé Python konvertáláshoz. Használjon API példakódot a kötegelt xlsx fájlok html konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

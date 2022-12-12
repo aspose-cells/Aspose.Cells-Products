@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer NUMMERS naar CSV via Python
-url: /nl/python-java/conversion/numbers-to-csv/
+
 description: Voorbeeldcode voor conversie van getallen naar csv Python. Gebruik API voorbeeldcode voor batchnummerbestanden naar csv-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

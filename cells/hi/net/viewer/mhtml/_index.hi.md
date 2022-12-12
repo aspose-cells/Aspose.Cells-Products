@@ -1,6 +1,6 @@
-﻿---
+---
 title: .NET के माध्यम से एमएचटीएमएल फ़ाइल स्वरूप देखें 
-url: /hi/net/viewer/mhtml/ 
+
 description: .NET Framework, .NET Core, Windows Azure, Mono या Xamarin Platforms पर MHTML दस्तावेज़ लोड करने, प्रस्तुत करने और प्रदर्शित करने के लिए C# स्रोत कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

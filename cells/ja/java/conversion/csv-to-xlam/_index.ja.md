@@ -1,6 +1,6 @@
-﻿---
+---
 title: Java経由でCSVをXLAMに変換 
-url: /ja/java/conversion/csv-to-xlam/ 
+
 description: CSV形式のXLAMファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のXLAMにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

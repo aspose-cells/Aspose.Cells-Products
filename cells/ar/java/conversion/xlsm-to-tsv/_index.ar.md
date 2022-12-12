@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل XLSM إلى TSV عبر Java 
 weight: 4380
-url: /ar/java/conversion/xlsm-to-tsv/ 
+
 description: نموذج Java رمز تحويل لتنسيق XLSM إلى ملف TSV. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى TSV داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

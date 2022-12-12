@@ -1,7 +1,7 @@
-﻿---
+---
 title: Suchen und ersetzen Sie Text im XLS-Dokument über Java 
 weight: 7900
-url: /de/java/redaction/xls/ 
+
 description: Java Beispielcode zum Schwärzen vertraulicher Informationen in XLS-Dateien in Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

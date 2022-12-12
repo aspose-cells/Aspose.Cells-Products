@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan SXC ke EMF melalui Java 
-url: /id/java/conversion/sxc-to-emf/ 
+
 description: Contoh Java kode konversi untuk format SXC ke file EMF. Pemrogram dapat menggunakan kode contoh ini untuk mengekspor spreadsheet Excel & OpenOffice ke EMF dalam Aplikasi berbasis Web atau Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

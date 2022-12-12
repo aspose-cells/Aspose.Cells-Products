@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to MD via Java 
-url: /java/conversion/txt-to-md/
+
 description: Convert TXT to MD format in Java code. Save TXT as MD using Java.
 ---
 

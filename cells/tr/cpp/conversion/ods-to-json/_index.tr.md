@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++ uygulaması aracılığıyla ODS'yi JSON'a dönüştürün 
-url: /tr/cpp/conversion/ods-to-json/ 
+
 description: ODS belgesi için JSON biçimine örnek C++ dönüştürme kodu. Programcılar, herhangi bir C++ Uygulamasında toplu ODS'den JSON'a dönüştürme için bu kaynak kodunu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

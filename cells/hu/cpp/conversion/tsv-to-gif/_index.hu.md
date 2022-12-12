@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertálja a TSV-t GIF-re a(z) C++ alkalmazáson keresztül 
 weight: 9540
-url: /hu/cpp/conversion/tsv-to-gif/ 
+
 description: Minta C++ konverziós kód a TSV-dokumentumhoz GIF formátumba. A programozók ezt a forráskódot használhatják a TSV-ből GIF-be kötegelt konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

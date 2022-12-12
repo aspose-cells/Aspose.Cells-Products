@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to XLSB via Java 
-url: /java/conversion/csv-to-xlsb/
+
 description: Convert CSV to XLSB format in Java code. Save CSV as XLSB using Java.
 ---
 

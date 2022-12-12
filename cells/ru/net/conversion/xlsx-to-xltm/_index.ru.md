@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLSX в XLTM через C#
-url: /ru/net/conversion/xlsx-to-xltm/
+
 description: Пример кода для преобразования xlsx в xltm C#. Используйте пример кода API для пакетного преобразования файлов xlsx в xltm в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

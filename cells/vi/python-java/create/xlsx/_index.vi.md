@@ -1,6 +1,6 @@
-﻿---
+---
 title: Tạo Tệp MS Excel XLSX qua Python 
-url: /vi/python-java/create-xlsx/ 
+
 description: Python Mã mẫu để tạo tài liệu XLSX. Sử dụng mã này để tạo tệp MS Excel XLSX trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

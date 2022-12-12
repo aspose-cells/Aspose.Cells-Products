@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLTM إلى MHTML عبر Python
-url: /ar/python-java/conversion/xltm-to-mhtml/
+
 description: نموذج رمز للتحويل من xltm إلى mhtml Python. استخدم API رمز المثال لملفات xltm الدفعية لتحويل mhtml داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "JSON konvertálása MHTML-re a következőn keresztül: C#"
-url: /hu/net/conversion/json-to-mhtml/
+
 description: Mintakód a json–mhtml C# konverzióhoz. Használjon API példakódot a kötegelt json fájlok mhtml konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

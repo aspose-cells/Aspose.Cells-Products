@@ -1,7 +1,7 @@
-﻿---
+---
 title: "MHTML konvertálása XLTM-re a következőn keresztül: Java "
 weight: 1230
-url: /hu/java/conversion/mhtml-to-xltm/ 
+
 description: Minta Java konverziós kód az MHTML formátumhoz XLTM fájllá. A programozók ezt a példakódot használhatják Excel- és OpenOffice-táblázatok XLTM-be exportálására bármely web- vagy asztali Java-alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

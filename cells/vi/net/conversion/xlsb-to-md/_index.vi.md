@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi XLSB sang MD qua C#
-url: /vi/net/conversion/xlsb-to-md/
+
 description: Mã mẫu cho chuyển đổi xlsb sang md C#. Sử dụng API mã mẫu cho hàng loạt tệp xlsb sang chuyển đổi md trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

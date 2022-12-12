@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TSV konvertálása XLT-vé a következőn keresztül: Python"
-url: /hu/python-java/conversion/tsv-to-xlt/
+
 description: Mintakód a tsv–xlt Python konverzióhoz. Használjon API példakódot a tsv fájlok kötegelt xlt konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

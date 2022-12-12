@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحرير ملفات XLTX عبر .NET 
-url: /ar/net/editor/xltx/ 
+
 description: C# شفرة المصدر لتعديل مستند XLTX على الأنظمة الأساسية .NET Framework أو .NET Core أو Windows Azure Mono أو Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

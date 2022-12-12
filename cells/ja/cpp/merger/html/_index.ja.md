@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++を介してHTMLファイルをマージする 
-url: /ja/cpp/merger/html/ 
+
 description: C++ Windows 32ビット、Windows 64ビット、Linux64ビットのランタイム環境でHTMLドキュメントを組み合わせるためのサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

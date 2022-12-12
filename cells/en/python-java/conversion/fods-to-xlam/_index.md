@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to XLAM via Python
-url: /python-java/conversion/fods-to-xlam/
+
 description: Convert FODS to XLAM format in Python code. Save FODS as XLAM using Python.
 ---
 

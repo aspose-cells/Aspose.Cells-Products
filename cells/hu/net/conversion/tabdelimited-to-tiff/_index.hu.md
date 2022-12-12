@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TABDELIMITED konvertálása TIFF-re a következőn keresztül: C#"
-url: /hu/net/conversion/tabdelimited-to-tiff/
+
 description: Mintakód a tabulátorral határolt tiff C# konverzióhoz. Használjon API példakódot a kötegelt tabulátorral tagolt fájlokhoz a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazás tiff konverziójához.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

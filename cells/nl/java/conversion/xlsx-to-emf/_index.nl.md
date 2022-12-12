@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer XLSX naar EMF via Java 
 weight: 1730
-url: /nl/java/conversion/xlsx-to-emf/ 
+
 description: Voorbeeld Java conversiecode voor XLSX-indeling naar EMF-bestand. Programmeurs kunnen deze voorbeeldcode gebruiken om Excel- en OpenOffice-spreadsheets naar EMF te exporteren binnen elke web- of desktoptoepassing Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

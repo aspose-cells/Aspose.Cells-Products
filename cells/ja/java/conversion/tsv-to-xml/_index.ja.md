@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してTSVをXMLに変換します 
-url: /ja/java/conversion/tsv-to-xml/ 
+
 description: TSV形式からXMLファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、任意のWebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをXMLにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

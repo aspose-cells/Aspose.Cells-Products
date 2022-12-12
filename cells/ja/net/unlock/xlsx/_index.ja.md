@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NETを介してXLSXドキュメントのロックを解除します 
 weight: 2040
-url: /ja/net/unlock/xlsx/ 
+
 description: .NETフレームワーク、.NETコア、Mono、またはXamarinプラットフォームでパスワードで保護されたXLSXファイルのロックを解除するためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

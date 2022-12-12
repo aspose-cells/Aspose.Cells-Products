@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer NUMMERS naar MHTML via Python
-url: /nl/python-java/conversion/numbers-to-mhtml/
+
 description: Voorbeeldcode voor conversie van getallen naar mhtml Python. Gebruik API voorbeeldcode voor batchnummerbestanden naar mhtml-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

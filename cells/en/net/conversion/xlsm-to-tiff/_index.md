@@ -1,6 +1,6 @@
 ---
 title: Convert XLSM to TIFF via C#
-url: /net/conversion/xlsm-to-tiff/
+
 description: Convert XLSM to TIFF format in C# code. Save XLSM as TIFF using VB.NET, Asp.NET or any .NET based application.
 ---
 

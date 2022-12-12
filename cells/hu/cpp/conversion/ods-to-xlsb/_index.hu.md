@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertálja az ODS-t XLSB-vé a C++ alkalmazással 
 weight: 4080
-url: /hu/cpp/conversion/ods-to-xlsb/ 
+
 description: Minta C++ konverziós kód az ODS-dokumentumhoz XLSB formátumba. A programozók ezt a forráskódot használhatják az ODS-ből XLSB-be kötegelt konvertáláshoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++アプリケーションを介してHTMLをSPREADSHEETMLに変換する 
-url: /ja/cpp/conversion/html-to-spreadsheetml/ 
+
 description: HTMLドキュメントのサンプルC++変換コードをSPREADSHEETML形式に変換します。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でHTMLからSPREADSHEETMLへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

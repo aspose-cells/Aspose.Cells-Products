@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konwertuj XLTM na XLS przez Java 
 weight: 4850
-url: /pl/java/conversion/xltm-to-xls/ 
+
 description: Przykładowy kod konwersji Java dla formatu XLTM do pliku XLS. Programiści mogą użyć tego przykładowego kodu, aby wyeksportować arkusze kalkulacyjne Excel i OpenOffice do XLS w dowolnej aplikacji internetowej lub desktopowej Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

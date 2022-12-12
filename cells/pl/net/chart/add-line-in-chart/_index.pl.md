@@ -1,6 +1,6 @@
-﻿---
+---
 title: Dodaj linię na wykresie za pomocą C# 
-url: /pl/net/add-line-in-chart/ 
+
 description: C# Przykładowy kod dodawania linii na wykresie do programu Excel przy użyciu biblioteki .NET. Użyj tego kodu, aby dodać linię na wykresie do MS Excel w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

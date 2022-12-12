@@ -1,7 +1,7 @@
-﻿---
+---
 title: MHTML konvertálása ODS-re a(z) C++ alkalmazáson keresztül 
 weight: 5930
-url: /hu/cpp/conversion/mhtml-to-ods/ 
+
 description: Minta C++ konverziós kód MHTML dokumentumhoz ODS formátumba. A programozók ezt a forráskódot használhatják az MHTML-ből ODS-be kötegelt konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

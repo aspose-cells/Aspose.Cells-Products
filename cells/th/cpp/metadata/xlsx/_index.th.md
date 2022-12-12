@@ -1,7 +1,7 @@
-﻿---
+---
 title: แก้ไขหรือดูข้อมูลเมตาของเอกสาร XLSX ผ่าน C++ 
 weight: 8970
-url: /th/cpp/metadata/xlsx/ 
+
 description: C++ ตัวอย่างโค้ดสำหรับแก้ไขหรือดูข้อมูลเมตาของไฟล์ XLSX บน C++ Runtime Environment สำหรับ Windows 32 บิต, Windows 64 บิต และ Linux 64 บิต
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

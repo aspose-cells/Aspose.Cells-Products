@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to PNG via Java 
-url: /java/conversion/sxc-to-png/
+
 description: Convert SXC to PNG format in Java code. Save SXC as PNG using Java.
 ---
 

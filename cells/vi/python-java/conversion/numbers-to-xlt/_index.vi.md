@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi NUMBERS thành XLT qua Python
-url: /vi/python-java/conversion/numbers-to-xlt/
+
 description: Mã mẫu cho chuyển đổi số thành xlt Python. Sử dụng mã mẫu API cho các tệp số lô để chuyển đổi xlt trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

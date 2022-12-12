@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل CSV إلى JPEG عبر تطبيق C++ 
 weight: 1280
-url: /ar/cpp/conversion/csv-to-jpeg/ 
+
 description: نموذج C++ رمز التحويل لمستند CSV إلى تنسيق JPEG. يمكن للمبرمجين استخدام رمز المصدر هذا لتحويل ملف CSV إلى JPEG دفعة ضمن أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

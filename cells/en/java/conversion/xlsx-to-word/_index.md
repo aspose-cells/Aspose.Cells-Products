@@ -1,6 +1,6 @@
 ---
 title: Convert XLSX to WORD via Java 
-url: /java/conversion/xlsx-to-word/
+
 description: Convert XLSX to WORD format in Java code. Save XLSX as WORD using Java.
 ---
 

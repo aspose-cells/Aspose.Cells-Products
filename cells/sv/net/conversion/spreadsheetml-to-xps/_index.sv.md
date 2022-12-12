@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera SPREADSHEETML till XPS via C#
-url: /sv/net/conversion/spreadsheetml-to-xps/
+
 description: Exempelkod för konvertering från kalkylarkml till xps C#. Använd API exempelkod för batch-kalkylarkml-filer till xps-konvertering inom VB.NET, Asp.NET eller någon annan .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj NUMBERS na SVG za pomocą Python
-url: /pl/python-java/conversion/numbers-to-svg/
+
 description: Przykładowy kod konwersji liczb do formatu SVG Python. Użyj przykładowego kodu API dla plików numerów partii do konwersji SVG w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

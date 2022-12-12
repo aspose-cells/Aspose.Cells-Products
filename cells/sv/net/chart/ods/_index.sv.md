@@ -1,7 +1,7 @@
-﻿---
+---
 title:  ODS-dokumentdiagram till bilder via .NET 
 weight: 4360
-url: /sv/net/chart/ods/ 
+
 description: C# källkod för att rita och konvertera diagram eller diagram i ODS-fil på .NET Framework, .NET Core, Mono eller Xamarin-plattformar.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

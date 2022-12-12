@@ -1,7 +1,7 @@
-﻿---
+---
 title: MHTML को XLSB के माध्यम से Java में बदलें 
 weight: 5390
-url: /hi/java/conversion/mhtml-to-xlsb/ 
+
 description: नमूना Java एमएचटीएमएल प्रारूप के लिए एक्सएलएसबी फ़ाइल में रूपांतरण कोड। प्रोग्रामर इस उदाहरण कोड का उपयोग किसी भी वेब या डेस्कटॉप Java आधारित एप्लिकेशन के भीतर एक्सेल और ओपनऑफिस स्प्रेडशीट को एक्सएलएसबी में निर्यात करने के लिए कर सकते हैं।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

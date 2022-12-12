@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést XLTX na GIF přes Java 
 weight: 8640
-url: /cs/java/conversion/xltx-to-gif/ 
+
 description: Ukázkový konverzní kód Java pro formát XLTX na soubor GIF. Programátoři mohou tento příklad kódu použít k exportu tabulek Excelu a OpenOffice do formátu GIF v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

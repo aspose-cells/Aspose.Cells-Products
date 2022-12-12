@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#를 통해 JSON을 EXCEL로 변환
-url: /ko/net/conversion/json-to-excel/
+
 description: C# 변환을 Excel로 json에 대한 샘플 코드. 배치 json 파일에 대한 API 예제 코드를 사용하여 VB.NET, Asp.NET 또는 모든 .NET 기반 애플리케이션 내에서 탁월한 변환을 수행합니다.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

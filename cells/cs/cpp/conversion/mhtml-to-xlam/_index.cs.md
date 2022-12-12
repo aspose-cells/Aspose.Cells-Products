@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte MHTML na XLAM pomocí aplikace C++ 
-url: /cs/cpp/conversion/mhtml-to-xlam/ 
+
 description: Ukázka převodního kódu C++ pro dokument MHTML na formát XLAM. Programátoři mohou použít tento zdrojový kód pro dávkovou konverzi MHTML na XLAM v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

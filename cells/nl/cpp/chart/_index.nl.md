@@ -1,6 +1,6 @@
-﻿---
+---
 title: Maak Excel-diagrammen en converteer naar afbeeldingen via C++
-url: /nl/cpp/chart/
+
 description: C++ broncode om een diagram of diagram in Microsoft Excel te tekenen en te converteren met C++Bibliotheek
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Chránit a uzamknout dokument XLS prostřednictvím C++ 
 weight: 8760
-url: /cs/cpp/protect/xls/ 
+
 description: C++ ukázkový kód pro uzamčení souboru XLS pomocí hesla v C++ Runtime Environment pro Windows 32 bit, Windows 64 bit a Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

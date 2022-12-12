@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta FODS a BMP a través de Python
-url: /es/python-java/conversion/fods-to-bmp/
+
 description: Código de muestra para la conversión de fods a bmp Python. Use el código de ejemplo API para archivos de alimentos por lotes para la conversión bmp dentro de la aplicación Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

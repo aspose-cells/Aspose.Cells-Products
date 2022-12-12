@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to TIFF via Python
-url: /python-java/conversion/tabdelimited-to-tiff/
+
 description: Convert TABDELIMITED to TIFF format in Python code. Save TABDELIMITED as TIFF using Python.
 ---
 

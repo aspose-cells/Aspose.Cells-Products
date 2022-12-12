@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل JSON إلى PNG عبر Python
-url: /ar/python-java/conversion/json-to-png/
+
 description: نموذج كود لتحويل json إلى png Python. استخدم API رمز المثال لملفات json الدفعية لتحويل png داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

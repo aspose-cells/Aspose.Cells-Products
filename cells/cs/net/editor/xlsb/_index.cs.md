@@ -1,6 +1,6 @@
-﻿---
+---
 title: Upravit soubory XLSB prostřednictvím .NET 
-url: /cs/net/editor/xlsb/ 
+
 description: C# zdrojový kód k úpravě dokumentu XLSB na platformách .NET Framework, .NET Core, Windows Azure, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

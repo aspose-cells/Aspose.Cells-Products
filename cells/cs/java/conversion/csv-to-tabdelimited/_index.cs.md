@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést CSV na TABDELIMITED přes Java 
-url: /cs/java/conversion/csv-to-tabdelimited/ 
+
 description: Ukázkový konverzní kód Java pro formát CSV na soubor TABDELIMITED. Programátoři mohou použít tento příklad kódu k exportu tabulek Excelu a OpenOffice do TABDELIMITED v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

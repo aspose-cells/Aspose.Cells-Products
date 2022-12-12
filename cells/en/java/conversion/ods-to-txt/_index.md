@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to TXT via Java 
-url: /java/conversion/ods-to-txt/
+
 description: Convert ODS to TXT format in Java code. Save ODS as TXT using Java.
 ---
 

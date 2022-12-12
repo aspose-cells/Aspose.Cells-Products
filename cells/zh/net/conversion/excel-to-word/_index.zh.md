@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 C# 将 EXCEL 转换为 WORD
-url: /zh/net/conversion/excel-to-word/
+
 description: excel 到 word C# 转换的示例代码。使用 API 示例代码在 VB.NET、Asp.NET 或任何基于 .NET 的应用程序中将批量 excel 文件转换为单词。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

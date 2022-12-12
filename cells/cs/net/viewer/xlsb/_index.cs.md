@@ -1,7 +1,7 @@
-﻿---
+---
 title: Zobrazit formáty souborů XLSB prostřednictvím .NET 
 weight: 6260
-url: /cs/net/viewer/xlsb/ 
+
 description: C# zdrojový kód pro načítání, vykreslování a zobrazování dokumentů XLSB na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

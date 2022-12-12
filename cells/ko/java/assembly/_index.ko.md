@@ -1,6 +1,6 @@
-﻿---
+---
 title: Java을(를) 통해 Excel 파일 만들기
-url: /ko/java/assembly/
+
 description: Java 스프레드시트 라이브러리를 사용하여 템플릿 시트에서 Microsoft Excel 스프레드시트 생성
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

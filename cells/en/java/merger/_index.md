@@ -1,6 +1,6 @@
 ---
 title: Merge Different Excel Files into a Single One in Java
-url: /java/merger/
+
 description: Merge Excel files using Java into multiple sheets or single sheet. Merge, combine, or concatenate Excel documents to PDF, Images and HTML as well.
 ---
 

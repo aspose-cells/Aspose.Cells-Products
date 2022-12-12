@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLS na FODS přes Python
-url: /cs/python-java/conversion/xls-to-fods/
+
 description: Ukázkový kód pro převod xls na fods Python. Použijte API ukázkový kód pro dávkový převod souborů xls na fods v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Přidat anotaci XLSX prostřednictvím C++ 
 weight: 5260
-url: /cs/cpp/annotation/xlsx/ 
+
 description: C++ ukázkový kód pro přidání nebo odstranění anotací ve formátu XLSX v C++ Runtime Environment pro Windows 32 bit, Windows 64 bit a Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

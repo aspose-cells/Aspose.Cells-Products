@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to JSON via C#
-url: /net/conversion/ods-to-json/
+
 description: Convert ODS to JSON format in C# code. Save ODS as JSON using VB.NET, Asp.NET or any .NET based application.
 ---
 

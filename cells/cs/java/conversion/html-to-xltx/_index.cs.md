@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést HTML na XLTX prostřednictvím Java 
 weight: 4230
-url: /cs/java/conversion/html-to-xltx/ 
+
 description: Ukázkový konverzní kód Java pro formát HTML na soubor XLTX. Programátoři mohou použít tento příklad kódu k exportu tabulek Excelu a OpenOffice do XLTX v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

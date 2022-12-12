@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してFODSをSXCに変換します
-url: /ja/python-java/conversion/fods-to-sxc/
+
 description: fodsからsxcPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチfodsファイルからsxcへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

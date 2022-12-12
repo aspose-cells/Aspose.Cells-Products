@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převeďte CSV na XLSB pomocí aplikace C++ 
 weight: 9780
-url: /cs/cpp/conversion/csv-to-xlsb/ 
+
 description: Ukázkový konverzní kód C++ pro dokument CSV na formát XLSB. Programátoři mohou použít tento zdrojový kód pro dávkový převod CSV na XLSB v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

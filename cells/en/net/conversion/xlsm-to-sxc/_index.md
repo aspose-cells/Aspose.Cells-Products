@@ -1,6 +1,6 @@
 ---
 title: Convert XLSM to SXC via C#
-url: /net/conversion/xlsm-to-sxc/
+
 description: Convert XLSM to SXC format in C# code. Save XLSM as SXC using VB.NET, Asp.NET or any .NET based application.
 ---
 

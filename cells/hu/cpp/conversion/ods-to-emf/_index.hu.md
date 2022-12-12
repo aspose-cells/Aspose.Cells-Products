@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertálja az ODS-t EMF-vé a C++ alkalmazással 
 weight: 8180
-url: /hu/cpp/conversion/ods-to-emf/ 
+
 description: Minta C++ konverziós kód az ODS dokumentumhoz EMF formátumba. A programozók ezt a forráskódot használhatják a kötegelt ODS-ek EMF-átalakításához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

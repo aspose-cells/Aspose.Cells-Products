@@ -1,7 +1,7 @@
-﻿---
+---
 title: แยกไฟล์ XLSM ผ่าน Java 
 weight: 5670
-url: /th/java/splitter/xlsm/ 
+
 description: Java โค้ดตัวอย่างเพื่อแยกเอกสาร XLSM บน Java Runtime Environment สำหรับแอปพลิเคชัน JSP/JSF และแอปพลิเคชันเดสก์ท็อป
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

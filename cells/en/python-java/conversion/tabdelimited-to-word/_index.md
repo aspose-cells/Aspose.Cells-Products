@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to WORD via Python
-url: /python-java/conversion/tabdelimited-to-word/
+
 description: Convert TABDELIMITED to WORD format in Python code. Save TABDELIMITED as WORD using Python.
 ---
 

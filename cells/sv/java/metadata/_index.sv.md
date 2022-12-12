@@ -1,6 +1,6 @@
-﻿---
+---
 title: Hantera Excel-filmetadata via Java
-url: /sv/java/metadata/
+
 description: Visa, lägg till, redigera, ta bort eller extrahera Excel-filers metadata med bara några rader med Java-kod
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

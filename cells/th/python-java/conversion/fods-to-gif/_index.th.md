@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง FODS เป็น GIF ผ่าน Python
-url: /th/python-java/conversion/fods-to-gif/
+
 description: โค้ดตัวอย่างสำหรับการแปลง fods เป็น gif Python ใช้รหัสตัวอย่าง API สำหรับไฟล์แบตช์ fods เป็นการแปลง gif ภายในแอปพลิเคชัน Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

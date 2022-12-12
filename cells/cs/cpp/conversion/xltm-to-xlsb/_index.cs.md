@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte XLTM na XLSB pomocí aplikace C++ 
-url: /cs/cpp/conversion/xltm-to-xlsb/ 
+
 description: Ukázka převodního kódu C++ pro dokument XLTM na formát XLSB. Programátoři mohou použít tento zdrojový kód pro dávkovou konverzi XLTM na XLSB v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

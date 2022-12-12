@@ -1,6 +1,6 @@
-﻿---
+---
 title: Generar archivos de Excel a través de C#
-url: /es/net/assembly/
+
 description: Genere hojas de cálculo de Microsoft Excel a partir de una hoja de plantilla usando el código C#
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

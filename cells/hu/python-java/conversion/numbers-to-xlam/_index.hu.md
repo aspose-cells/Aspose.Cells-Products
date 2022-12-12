@@ -1,6 +1,6 @@
-﻿---
+---
 title: "NUMBERS konvertálása XLAM-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/numbers-to-xlam/
+
 description: Mintakód a számokhoz xlam Python konverzióvá. Használjon API példakódot a kötegszámfájlokhoz az xlam konverzióhoz a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta ODS a HTML a través de C#
-url: /es/net/conversion/ods-to-html/
+
 description: Ejemplo de código para la conversión de ods a html C#. Utilice el código de ejemplo API para convertir archivos ods por lotes en html dentro de VB.NET, Asp.NET o cualquier aplicación basada en .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

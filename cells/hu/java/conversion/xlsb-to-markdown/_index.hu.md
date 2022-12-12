@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Konvertálja az XLSB-t MARKDOWN-re a következőn keresztül: Java "
-url: /hu/java/conversion/xlsb-to-markdown/ 
+
 description: Minta Java konverziós kód az XLSB formátumhoz MARKDOWN fájllá. A programozók ezt a példakódot használhatják Excel- és OpenOffice-táblázatok MARKDOWN-ba exportálására bármely web- vagy asztali Java-alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

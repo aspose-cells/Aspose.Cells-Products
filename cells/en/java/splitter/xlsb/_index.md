@@ -1,7 +1,7 @@
 ---
 title: Split XLSB Files via Java 
 weight: 7880
-url: /java/splitter/xlsb/ 
+
 description: Java sample code to split XLSB documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

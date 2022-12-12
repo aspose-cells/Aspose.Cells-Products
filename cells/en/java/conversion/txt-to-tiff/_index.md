@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to TIFF via Java 
-url: /java/conversion/txt-to-tiff/
+
 description: Convert TXT to TIFF format in Java code. Save TXT as TIFF using Java.
 ---
 

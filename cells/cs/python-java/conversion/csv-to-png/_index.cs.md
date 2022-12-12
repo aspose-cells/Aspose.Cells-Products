@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést CSV na PNG prostřednictvím Python
-url: /cs/python-java/conversion/csv-to-png/
+
 description: Ukázkový kód pro převod csv na png Python. Použijte API ukázkový kód pro dávkový převod souborů csv na png v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

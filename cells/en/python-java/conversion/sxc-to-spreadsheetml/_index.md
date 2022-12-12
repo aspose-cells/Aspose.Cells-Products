@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to SPREADSHEETML via Python
-url: /python-java/conversion/sxc-to-spreadsheetml/
+
 description: Convert SXC to SPREADSHEETML format in Python code. Save SXC as SPREADSHEETML using Python.
 ---
 

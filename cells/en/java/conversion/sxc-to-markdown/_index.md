@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to MARKDOWN via Java 
-url: /java/conversion/sxc-to-markdown/
+
 description: Convert SXC to MARKDOWN format in Java code. Save SXC as MARKDOWN using Java.
 ---
 

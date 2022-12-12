@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi SXC sang XPS qua Python
-url: /vi/python-java/conversion/sxc-to-xps/
+
 description: Mã mẫu cho chuyển đổi sxc sang xps Python. Sử dụng mã mẫu API cho hàng loạt tệp sxc sang chuyển đổi xps trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

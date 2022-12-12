@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してHTMLをDOCXに変換します
-url: /ja/python-java/conversion/html-to-docx/
+
 description: htmlからdocxPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチhtmlファイルからdocxへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

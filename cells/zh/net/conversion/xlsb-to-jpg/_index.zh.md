@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 C# 将 XLSB 转换为 JPG
-url: /zh/net/conversion/xlsb-to-jpg/
+
 description: xlsb 到 jpg C# 转换的示例代码。使用 API 示例代码在 VB.NET、Asp.NET 或任何基于 .NET 的应用程序中将 xlsb 文件批量转换为 jpg。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

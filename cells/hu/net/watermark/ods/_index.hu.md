@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Vízjel ODS-dokumentum a következőn keresztül: .NET "
 weight: 4190
-url: /hu/net/watermark/ods/ 
+
 description: C# forráskód a vízjel hozzáadásához vagy eltávolításához az ODS-fájlhoz .NET Framework, .NET Core, Mono vagy Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

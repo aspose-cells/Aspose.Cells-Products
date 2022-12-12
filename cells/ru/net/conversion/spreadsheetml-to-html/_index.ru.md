@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование SPREADSHETML в HTML с помощью C#
-url: /ru/net/conversion/spreadsheetml-to-html/
+
 description: Пример кода для преобразования электронной таблицыml в html C#. Используйте пример кода API для пакетного преобразования файлов электронных таблиц в html в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

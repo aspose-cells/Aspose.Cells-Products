@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLSB-dokumentum keresése megnyitás nélkül a következőn keresztül: .NET "
 weight: 8880
-url: /hu/net/search/xlsb/ 
+
 description: C# forráskód, hogy XLSB-fájlban mintával rendelkező szavakat keressen a .NET Framework, a .NET Core, a Mono vagy a Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

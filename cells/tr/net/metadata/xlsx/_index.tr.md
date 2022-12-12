@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET aracılığıyla XLSX Dosyaları Meta Verilerini Görüntüleyin veya Düzenleyin 
 weight: 3430
-url: /tr/net/metadata/xlsx/ 
+
 description: .NET Framework, .NET Core, Mono veya Xamarin Platformlarında XLSX biçimi meta verilerini düzenlemek veya görüntülemek için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

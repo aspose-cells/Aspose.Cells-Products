@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してTSVをTABDELIMITEDに変換します
-url: /ja/python-java/conversion/tsv-to-tabdelimited/
+
 description: tsvからtabdelimitedPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチtsvファイルからタブ区切りへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer HTML naar TABDELIMITED via Java 
-url: /nl/java/conversion/html-to-tabdelimited/ 
+
 description: Voorbeeld Java conversiecode voor HTML-indeling naar TABDELIMITED-bestand. Programmeurs kunnen deze voorbeeldcode gebruiken om Excel- en OpenOffice-spreadsheets te exporteren naar TABDELIMITED binnen elke web- of desktoptoepassing Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

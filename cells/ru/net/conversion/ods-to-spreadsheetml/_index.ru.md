@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование ODS в SPREADSHETML через C#
-url: /ru/net/conversion/ods-to-spreadsheetml/
+
 description: Пример кода для преобразования ods в электронную таблицуml C#. Используйте пример кода API для пакетного преобразования файлов ods в электронные таблицы в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

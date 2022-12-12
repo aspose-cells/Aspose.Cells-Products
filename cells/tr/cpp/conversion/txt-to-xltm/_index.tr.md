@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++ uygulamasıyla TXT'yi XLTM'ye dönüştürün 
-url: /tr/cpp/conversion/txt-to-xltm/ 
+
 description: TXT belgesi için XLTM biçimine örnek C++ dönüştürme kodu. Programcılar, herhangi bir C++ Uygulamasında toplu TXT'den XLTM'ye dönüştürme için bu kaynak kodunu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

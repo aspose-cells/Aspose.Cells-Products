@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést FODS na TSV prostřednictvím Java 
-url: /cs/java/conversion/fods-to-tsv/ 
+
 description: Ukázka převodního kódu Java pro formát FODS na soubor TSV. Programátoři mohou použít tento příklad kódu k exportu tabulek Excelu a OpenOffice do TSV v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

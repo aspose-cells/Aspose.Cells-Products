@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to SVG via Python
-url: /python-net/conversion/xlt-to-svg/
+
 description: Sample code for xlt to svg Python conversion. Use API example code for batch xlt files to svg conversion within Python application.
 ---
 

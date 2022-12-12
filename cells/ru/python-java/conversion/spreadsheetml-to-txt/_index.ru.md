@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование SPREADSHEETML в TXT через Python
-url: /ru/python-java/conversion/spreadsheetml-to-txt/
+
 description: Пример кода для преобразования электронной таблицыml в txt Python. Используйте пример кода API для пакетного преобразования файлов электронных таблиц в txt в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

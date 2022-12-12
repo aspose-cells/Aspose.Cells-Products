@@ -1,7 +1,7 @@
 ---
 title: Search XLSM document without opening via Java 
 weight: 6780
-url: /java/search/xlsm/ 
+
 description: Java sample code to search words with pattern in XLSM file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

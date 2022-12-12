@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to MHTML via C#
-url: /net/conversion/spreadsheetml-to-mhtml/
+
 description: Convert SPREADSHEETML to MHTML format in C# code. Save SPREADSHEETML as MHTML using VB.NET, Asp.NET or any .NET based application.
 ---
 

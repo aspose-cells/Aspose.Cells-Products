@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést FODS na JSON přes Python
-url: /cs/python-java/conversion/fods-to-json/
+
 description: Ukázkový kód pro konverzi fod na json Python. Použijte ukázkový kód API pro dávkový převod souborů fods na json v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta XLS a SPREADSHEETML a través de Python
-url: /es/python-java/conversion/xls-to-spreadsheetml/
+
 description: Ejemplo de código para conversión de xls a hoja de cálculo Python. Utilice el código de ejemplo API para la conversión de archivos xls por lotes a una hoja de cálculo dentro de la aplicación Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

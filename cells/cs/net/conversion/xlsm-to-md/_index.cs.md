@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLSM na MD přes C#
-url: /cs/net/conversion/xlsm-to-md/
+
 description: Ukázkový kód pro převod xlsm na md C#. Použijte API ukázkový kód pro dávkový převod souborů xlsm na MD v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

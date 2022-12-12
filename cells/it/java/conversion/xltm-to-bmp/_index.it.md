@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converti XLTM in BMP tramite Java 
 weight: 1430
-url: /it/java/conversion/xltm-to-bmp/ 
+
 description: Esempio di codice di conversione Java per il formato XLTM in file BMP. I programmatori possono utilizzare questo codice di esempio per esportare fogli di calcolo Excel e OpenOffice in BMP all'interno di qualsiasi applicazione basata su Web o desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

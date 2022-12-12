@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to SVG via Java 
-url: /java/conversion/fods-to-svg/
+
 description: Convert FODS to SVG format in Java code. Save FODS as SVG using Java.
 ---
 

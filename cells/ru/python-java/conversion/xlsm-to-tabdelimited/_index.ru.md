@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLSM в TABDELIMITED через Python
-url: /ru/python-java/conversion/xlsm-to-tabdelimited/
+
 description: Пример кода для преобразования xlsm в Python с разделителями табуляции. Используйте пример кода API для пакетного преобразования xlsm-файлов с разделителями табуляции в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

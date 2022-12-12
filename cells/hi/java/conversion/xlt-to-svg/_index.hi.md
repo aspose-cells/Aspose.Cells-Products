@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLT को SVG में Java के द्वारा परिवर्तित करें 
 weight: 7200
-url: /hi/java/conversion/xlt-to-svg/ 
+
 description: एसवीजी फ़ाइल में एक्सएलटी प्रारूप के लिए नमूना Java रूपांतरण कोड। प्रोग्रामर इस उदाहरण कोड का उपयोग किसी भी वेब या डेस्कटॉप Java आधारित एप्लिकेशन में एसवीजी को एक्सेल और ओपनऑफिस स्प्रेडशीट निर्यात करने के लिए कर सकते हैं।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

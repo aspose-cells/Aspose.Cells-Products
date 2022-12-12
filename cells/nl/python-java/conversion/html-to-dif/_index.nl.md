@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer HTML naar DIF via Python
-url: /nl/python-java/conversion/html-to-dif/
+
 description: Voorbeeldcode voor html naar diff Python-conversie. Gebruik API voorbeeldcode voor batch-html-bestanden om de conversie binnen de Python-toepassing te wijzigen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

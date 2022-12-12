@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してXLSをXLSBに変換します 
 weight: 250
-url: /ja/java/conversion/xls-to-xlsb/ 
+
 description: XLS形式からXLSBファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のXLSBにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

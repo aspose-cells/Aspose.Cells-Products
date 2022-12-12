@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj EXCEL na POWERPOINT przez C#
-url: /pl/net/conversion/excel-to-powerpoint/
+
 description: Przykładowy kod konwersji programu Excel do programu PowerPoint C#. Użyj przykładowego kodu API dla plików wsadowych programu Excel do konwersji PowerPoint w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

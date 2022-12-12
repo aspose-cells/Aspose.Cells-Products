@@ -1,7 +1,7 @@
-﻿---
+---
 title: Exportujte sestavy RDL do Excelu XLS XLSX a SpreadsheetML na SQL Server 
 weight: 3460
-url: /cs/reporting-services/ 
+
 description: Rozšíření vykreslování SQL Server Reporting Services – Export Excel XLS XLSX XLSM XLSB CSV SpreadsheetML HTML formáty ODS a TXT
 ---
 {{< blocks/products/pf/main-wrap-class >}}

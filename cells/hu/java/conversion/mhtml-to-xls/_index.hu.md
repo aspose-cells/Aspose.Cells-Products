@@ -1,7 +1,7 @@
-﻿---
+---
 title: "MHTML konvertálása XLS-re a következőn keresztül: Java "
 weight: 8460
-url: /hu/java/conversion/mhtml-to-xls/ 
+
 description: Minta Java konverziós kód MHTML formátumhoz XLS fájllá. A programozók ezt a példakódot használhatják Excel és OpenOffice táblázatok XLS formátumba exportálására bármely web- vagy asztali Java alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

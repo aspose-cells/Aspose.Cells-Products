@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer HTML naar MARKDOWN via Python
-url: /nl/python-java/conversion/html-to-markdown/
+
 description: Voorbeeldcode voor html om Python-conversie af te waarderen. Gebruik API voorbeeldcode voor batch-html-bestanden om de conversie binnen de Python-toepassing af te waarderen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

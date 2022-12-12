@@ -1,6 +1,6 @@
-﻿---
+---
 title: "HTML konvertálása TSV-vé a következőn keresztül: C#"
-url: /hu/net/conversion/html-to-tsv/
+
 description: Mintakód a html-ből tsv-be C# konvertáláshoz. Használjon API példakódot kötegelt html fájlok tsv konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

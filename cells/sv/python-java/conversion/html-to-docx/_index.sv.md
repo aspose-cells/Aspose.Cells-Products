@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera HTML till DOCX via Python
-url: /sv/python-java/conversion/html-to-docx/
+
 description: Exempelkod för html till docx Python-konvertering. Använd API exempelkod för batch-html-filer till docx-konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: استخراج النص والصور من مستند XLSB عبر Java 
 weight: 440
-url: /ar/java/parser/xlsb/ 
+
 description: Java نموذج كود لاستخراج نص وصور من ملف XLSB في Java Runtime Environment لتطبيق JSP / JSF وتطبيقات سطح المكتب.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

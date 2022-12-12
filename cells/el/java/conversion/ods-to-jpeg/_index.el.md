@@ -1,7 +1,7 @@
-﻿---
+---
 title: Μετατροπή ODS σε JPEG μέσω Java 
 weight: 3640
-url: /el/java/conversion/ods-to-jpeg/ 
+
 description: Δείγμα κώδικα μετατροπής Java για μορφή ODS σε αρχείο JPEG. Οι προγραμματιστές μπορούν να χρησιμοποιήσουν αυτό το παράδειγμα κώδικα για να εξάγουν υπολογιστικά φύλλα Excel και OpenOffice σε JPEG σε οποιαδήποτε εφαρμογή που βασίζεται στον Ιστό ή στην επιφάνεια εργασίας Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

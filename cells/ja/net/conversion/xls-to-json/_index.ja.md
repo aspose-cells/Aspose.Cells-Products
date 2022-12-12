@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してXLSをJSONに変換する
-url: /ja/net/conversion/xls-to-json/
+
 description: xlsからjsonC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチxlsファイルからjsonへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

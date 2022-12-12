@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to MHTML via Python
-url: /python-net/conversion/xlsb-to-mhtml/
+
 description: Sample code for xlsb to mhtml Python conversion. Use API example code for batch xlsb files to mhtml conversion within Python application.
 ---
 

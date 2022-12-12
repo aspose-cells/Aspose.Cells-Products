@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLSX konvertálása DIF-re a következőn keresztül: C#"
-url: /hu/net/conversion/xlsx-to-dif/
+
 description: Mintakód az xlsx–diff C# konverzióhoz. Használjon API példakódot kötegelt xlsx fájlokhoz a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belüli átalakításhoz.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

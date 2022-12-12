@@ -1,6 +1,6 @@
-﻿---
+---
 title: "HTML konvertálása XLTX-re a következőn keresztül: C#"
-url: /hu/net/conversion/html-to-xltx/
+
 description: Mintakód a html-ből xltx-be C# történő konverzióhoz. Használjon API példakódot a kötegelt html fájlok xltx konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

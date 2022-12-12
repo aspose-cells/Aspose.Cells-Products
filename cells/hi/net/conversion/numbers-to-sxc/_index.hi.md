@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# के माध्यम से NUMBERS को SXC में बदलें
-url: /hi/net/conversion/numbers-to-sxc/
+
 description: sxc C# रूपांतरण में संख्याओं के लिए नमूना कोड। VB.NET, Asp.NET या किसी .NET आधारित एप्लिकेशन के भीतर sxc रूपांतरण के लिए बैच संख्या फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

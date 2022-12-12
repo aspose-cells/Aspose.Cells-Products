@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj SPREADSHEETML na XLSM przez Python
-url: /pl/python-java/conversion/spreadsheetml-to-xlsm/
+
 description: Przykładowy kod konwersji arkusza kalkulacyjnego ml do xlsm Python. Użyj przykładowego kodu API dla wsadowych plików arkusza kalkulacyjnego w celu konwersji xlsm w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLSM-fájlok felosztása a következőn keresztül: Java "
 weight: 5670
-url: /hu/java/splitter/xlsm/ 
+
 description: Java mintakód az XLSM-dokumentumok felosztásához a Java Futókörnyezeten JSP/JSF alkalmazásokhoz és asztali alkalmazásokhoz.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

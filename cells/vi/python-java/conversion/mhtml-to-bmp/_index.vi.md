@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển MHTML sang BMP qua Python
-url: /vi/python-java/conversion/mhtml-to-bmp/
+
 description: Mã mẫu cho chuyển đổi mhtml sang bmp Python. Sử dụng API mã mẫu cho hàng loạt tệp mhtml để chuyển đổi bmp trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to WORD via C++
-url: /cpp/conversion/spreadsheetml-to-word/
+
 description: Convert SPREADSHEETML to WORD format in C++ code. Save SPREADSHEETML as WORD using C++.
 ---
 

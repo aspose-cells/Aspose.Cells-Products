@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter XLSX para TXT via C#
-url: /pt/net/conversion/xlsx-to-txt/
+
 description: Código de exemplo para conversão de xlsx para txt C#. Use API código de exemplo para arquivos xlsx em lote para conversão de txt em VB.NET, Asp.NET ou qualquer aplicativo baseado em .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

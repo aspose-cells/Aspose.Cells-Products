@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to ODS via Java 
-url: /java/conversion/spreadsheetml-to-ods/
+
 description: Convert SPREADSHEETML to ODS format in Java code. Save SPREADSHEETML as ODS using Java.
 ---
 

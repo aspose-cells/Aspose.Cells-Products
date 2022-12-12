@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TXT konvertálása TAB-raDELIMITED a következőn keresztül: Java "
-url: /hu/java/conversion/txt-to-tabdelimited/ 
+
 description: Minta Java konverziós kód TXT formátumhoz TABDELIMITED fájlba. A programozók ezt a példakódot használhatják Excel- és OpenOffice-táblázatok TABDELIMITED-re exportálásához bármely web- vagy asztali Java-alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Konvertálja az XLSB-t ODS-vé a következőn keresztül: C#"
-url: /hu/net/conversion/xlsb-to-ods/
+
 description: Mintakód az xlsb–ods C# konverzióhoz. Használjon API példakódot a kötegelt xlsb fájlok ods konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

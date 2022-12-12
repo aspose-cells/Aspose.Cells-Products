@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατρέψτε το XLT σε XLTM μέσω της εφαρμογής C++ 
-url: /el/cpp/conversion/xlt-to-xltm/ 
+
 description: Δείγμα κώδικα μετατροπής C++ για έγγραφο XLT σε μορφή XLTM. Οι προγραμματιστές μπορούν να χρησιμοποιήσουν αυτόν τον πηγαίο κώδικα για μαζική μετατροπή XLT σε XLTM σε οποιαδήποτε εφαρμογή C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

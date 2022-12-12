@@ -1,7 +1,7 @@
-﻿---
+---
 title: Excel-bestand XLSB-annotatie toevoegen via C++ 
 weight: 860
-url: /nl/cpp/annotation/xlsb/ 
+
 description: C++ voorbeeldcode om annotaties in XLSB-indeling te verwijderen op C++ Runtime Environment voor Windows 32 bit, Windows 64 bit en Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

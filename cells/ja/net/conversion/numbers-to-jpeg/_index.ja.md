@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してNUMBERSをJPEGに変換します
-url: /ja/net/conversion/numbers-to-jpeg/
+
 description: 数値からjpegC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチ番号ファイルからjpegへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

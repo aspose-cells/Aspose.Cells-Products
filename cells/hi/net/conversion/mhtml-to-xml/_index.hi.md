@@ -1,6 +1,6 @@
-﻿---
+---
 title: एमएचटीएमएल को C# के माध्यम से एक्सएमएल में बदलें
-url: /hi/net/conversion/mhtml-to-xml/
+
 description: एमएचटीएमएल से एक्सएमएल C# रूपांतरण के लिए नमूना कोड। बैच एमएचटीएमएल फाइलों के लिए वीबी.NET, एएसपी.NET या किसी भी .NET आधारित एप्लिकेशन के भीतर एक्सएमएल रूपांतरण के लिए API उदाहरण कोड का प्रयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

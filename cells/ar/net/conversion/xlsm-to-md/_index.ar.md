@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLSM إلى MD عبر C#
-url: /ar/net/conversion/xlsm-to-md/
+
 description: نموذج كود للتحويل من xlsm إلى md C#. استخدم API رمز المثال لملفات xlsm الدفعية لتحويل md داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

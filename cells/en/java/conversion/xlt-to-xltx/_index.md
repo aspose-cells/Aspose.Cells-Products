@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to XLTX via Java 
-url: /java/conversion/xlt-to-xltx/
+
 description: Convert XLT to XLTX format in Java code. Save XLT as XLTX using Java.
 ---
 

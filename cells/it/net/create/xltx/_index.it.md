@@ -1,6 +1,6 @@
-﻿---
+---
 title: Crea file XLTX di MS Excel tramite C# 
-url: /it/net/create-xltx/ 
+
 description: C# Codice di esempio per la generazione di documenti XLTX. Utilizzare questo codice per creare file XLTX di MS Excel all'interno di VB.NET, Asp.NET o qualsiasi applicazione basata su .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

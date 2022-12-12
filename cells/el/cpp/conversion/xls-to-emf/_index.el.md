@@ -1,7 +1,7 @@
-﻿---
+---
 title: Μετατρέψτε το XLS σε EMF μέσω της εφαρμογής C++ 
 weight: 6870
-url: /el/cpp/conversion/xls-to-emf/ 
+
 description: Δείγμα κώδικα μετατροπής C++ για έγγραφο XLS σε μορφή EMF. Οι προγραμματιστές μπορούν να χρησιμοποιήσουν αυτόν τον πηγαίο κώδικα για μαζική μετατροπή XLS σε EMF σε οποιαδήποτε εφαρμογή C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

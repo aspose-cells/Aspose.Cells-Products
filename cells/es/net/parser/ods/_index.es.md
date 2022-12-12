@@ -1,7 +1,7 @@
-﻿---
+---
 title: Extraiga texto e imágenes del documento ODS a través de .NET 
 weight: 6970
-url: /es/net/parser/ods/ 
+
 description: C# código fuente para extraer texto e imágenes del archivo ODS en .NET Framework, .NET Core, Mono o Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

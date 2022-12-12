@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NETを介してODSファイルを分割する 
 weight: 140
-url: /ja/net/splitter/ods/ 
+
 description: .NETフレームワーク、.NETコア、Mono、またはXamarinプラットフォームでODSドキュメントを分割するためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

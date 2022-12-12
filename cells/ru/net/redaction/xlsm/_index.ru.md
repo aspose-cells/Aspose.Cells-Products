@@ -1,7 +1,7 @@
-﻿---
+---
 title: Поиск и замена текста в документе XLSM через .NET 
 weight: 2370
-url: /ru/net/redaction/xlsm/ 
+
 description: Исходный код C# для редактирования конфиденциальной информации в файле XLSM на платформах .NET Framework, .NET Core, Mono или Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

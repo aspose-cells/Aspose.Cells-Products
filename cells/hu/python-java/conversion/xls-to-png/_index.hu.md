@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLS konvertálása PNG-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/xls-to-png/
+
 description: Mintakód az xls–png Python konverzióhoz. Használjon API példakódot kötegelt xls fájlok png konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

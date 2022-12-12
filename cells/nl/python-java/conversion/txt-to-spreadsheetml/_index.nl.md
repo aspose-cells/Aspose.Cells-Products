@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer TXT naar SPREADSHEETML via Python
-url: /nl/python-java/conversion/txt-to-spreadsheetml/
+
 description: Voorbeeldcode voor conversie van txt naar spreadsheetml Python. Gebruik API voorbeeldcode voor batch txt-bestanden naar spreadsheetml-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

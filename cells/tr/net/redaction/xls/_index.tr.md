@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET aracılığıyla XLS belgesindeki metni arayın ve değiştirin 
 weight: 7280
-url: /tr/net/redaction/xls/ 
+
 description: .NET Framework, .NET Core, Mono veya Xamarin Platformlarında XLS dosyasındaki hassas bilgileri yeniden düzenlemek için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

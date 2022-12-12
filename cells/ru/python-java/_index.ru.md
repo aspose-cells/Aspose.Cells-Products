@@ -1,7 +1,7 @@
-﻿---
+---
 title: Python Электронная таблица Excel API–Aspose 
 weight: 2820
-url: /ru/python-java/ 
+
 description: Библиотека электронных таблиц Python для создания файлов Excel для чтения, записи и анализа.
 ---
 {{< blocks/products/pf/main-wrap-class >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: FODS को Python के माध्यम से MD में बदलें
-url: /hi/python-java/conversion/fods-to-md/
+
 description: खाद्य पदार्थों के लिए md Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर बैच फोड फ़ाइलों को एमडी रूपांतरण में बदलने के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

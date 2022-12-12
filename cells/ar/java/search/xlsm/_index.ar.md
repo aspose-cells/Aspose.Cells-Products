@@ -1,7 +1,7 @@
-﻿---
+---
 title: بحث في مستند XLSM بدون فتح عبر Java 
 weight: 6780
-url: /ar/java/search/xlsm/ 
+
 description: Java نموذج كود للبحث عن الكلمات ذات النمط في ملف XLSM في Java Runtime Environment لتطبيق JSP / JSF وتطبيقات سطح المكتب.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

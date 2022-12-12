@@ -1,6 +1,6 @@
-﻿---
+---
 title: "NUMBERS konvertálása PDF-be a következőn keresztül: Java "
-url: /hu/java/conversion/numbers-to-pdf/ 
+
 description: Minta Java konverziós kód NUMBERS formátumhoz PDF-fájllá. A programozók ezt a példakódot használhatják Excel- és OpenOffice-táblázatok PDF-formátumba exportálására bármely web- vagy asztali Java-alapú alkalmazásban.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

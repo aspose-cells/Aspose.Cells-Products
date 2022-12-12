@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést EXCEL na PPTX přes Python
-url: /cs/python-java/conversion/excel-to-pptx/
+
 description: Ukázkový kód pro převod Excel na pptx Python. Použijte API ukázkový kód pro dávkový převod souborů Excel na pptx v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

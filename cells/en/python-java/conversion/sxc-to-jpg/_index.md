@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to JPG via Python
-url: /python-java/conversion/sxc-to-jpg/
+
 description: Convert SXC to JPG format in Python code. Save SXC as JPG using Python.
 ---
 

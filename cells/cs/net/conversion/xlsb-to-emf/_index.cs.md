@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLSB na EMF přes C#
-url: /cs/net/conversion/xlsb-to-emf/
+
 description: Ukázkový kód pro převod xlsb na emf C#. Použijte API ukázkový kód pro dávkové soubory xlsb na převod EMF v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

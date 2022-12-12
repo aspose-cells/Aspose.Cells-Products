@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converti XLSM in XLTM tramite l'applicazione C++ 
-url: /it/cpp/conversion/xlsm-to-xltm/ 
+
 description: Esempio di codice di conversione C++ per un documento XLSM in formato XLTM. I programmatori possono utilizzare questo codice sorgente per la conversione batch da XLSM a XLTM all'interno di qualsiasi C++ Applicazione.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

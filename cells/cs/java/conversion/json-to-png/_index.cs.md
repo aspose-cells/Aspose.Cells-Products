@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést JSON na PNG přes Java 
 weight: 4910
-url: /cs/java/conversion/json-to-png/ 
+
 description: Ukázkový konverzní kód Java pro formát JSON na soubor PNG. Programátoři mohou tento příklad kódu použít k exportu tabulek Excelu a OpenOffice do formátu PNG v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

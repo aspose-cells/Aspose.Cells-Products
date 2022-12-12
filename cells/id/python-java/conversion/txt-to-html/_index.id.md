@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan TXT ke HTML melalui Python
-url: /id/python-java/conversion/txt-to-html/
+
 description: Contoh kode untuk konversi txt ke html Python. Gunakan API kode contoh untuk file txt batch ke konversi html dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

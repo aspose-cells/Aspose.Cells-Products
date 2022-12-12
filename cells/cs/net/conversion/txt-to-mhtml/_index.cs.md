@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TXT na MHTML přes C#
-url: /cs/net/conversion/txt-to-mhtml/
+
 description: Ukázkový kód pro převod txt na mhtml C#. Použijte API ukázkový kód pro dávkový převod souborů txt na mhtml v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

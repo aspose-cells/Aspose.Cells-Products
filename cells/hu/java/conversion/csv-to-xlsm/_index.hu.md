@@ -1,6 +1,6 @@
-﻿---
+---
 title: "CSV konvertálása XLSM-re a következőn keresztül: Java "
-url: /hu/java/conversion/csv-to-xlsm/ 
+
 description: Minta Java konverziós kód a CSV-formátumhoz XLSM-fájllá. A programozók ezt a példakódot használhatják Excel- és OpenOffice-táblázatok XLSM-be exportálására bármely web- vagy asztali Java-alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie CSV in SVG über Python
-url: /de/python-java/conversion/csv-to-svg/
+
 description: Beispielcode für die Umwandlung von csv in svg Python. Verwenden Sie API Beispielcode für die Batch-Konvertierung von CSV-Dateien in SVG innerhalb der Anwendung Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

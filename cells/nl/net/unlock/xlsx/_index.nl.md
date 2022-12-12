@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLSX-document ontgrendelen via .NET 
 weight: 2040
-url: /nl/net/unlock/xlsx/ 
+
 description: C# broncode om met een wachtwoord beveiligd XLSX-bestand te ontgrendelen op .NET Framework, .NET Core, Mono of Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

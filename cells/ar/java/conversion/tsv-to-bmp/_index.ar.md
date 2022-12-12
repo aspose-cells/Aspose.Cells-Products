@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل TSV إلى BMP عبر Java 
 weight: 4200
-url: /ar/java/conversion/tsv-to-bmp/ 
+
 description: نموذج لشفرة تحويل Java لتنسيق TSV إلى ملف BMP. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى BMP داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

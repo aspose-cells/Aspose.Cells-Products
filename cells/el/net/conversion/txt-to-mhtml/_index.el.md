@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή TXT σε MHTML μέσω C#
-url: /el/net/conversion/txt-to-mhtml/
+
 description: Δείγμα κώδικα για μετατροπή txt σε mhtml C#. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδική μετατροπή αρχείων txt σε mhtml εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

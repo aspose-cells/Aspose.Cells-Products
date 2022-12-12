@@ -1,6 +1,6 @@
 ---
 title: Merge NUMBERS to MHTML Files via Java 
-url: /java/merger/merge-numbers-to-mhtml/ 
+
 description: Merge NUMBERS to MHTML file in Java code. Combine NUMBERS to MHTML file using Java based desktop or web application.
 ---
 

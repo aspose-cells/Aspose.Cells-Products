@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to BMP via C++
-url: /cpp/conversion/csv-to-bmp/
+
 description: Convert CSV to BMP format in C++ code. Save CSV as BMP using C++.
 ---
 

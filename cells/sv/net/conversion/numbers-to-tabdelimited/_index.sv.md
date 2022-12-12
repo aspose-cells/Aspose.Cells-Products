@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera NUMBERS till TABDELIMITED via C#
-url: /sv/net/conversion/numbers-to-tabdelimited/
+
 description: Exempelkod för siffror till tabbavgränsad C#-omvandling. Använd API exempelkod för batchnummerfiler till tabbavgränsad konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

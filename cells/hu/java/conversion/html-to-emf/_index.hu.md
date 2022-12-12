@@ -1,7 +1,7 @@
-﻿---
+---
 title: "HTML konvertálása EMF-vé a következőn keresztül: Java "
 weight: 2260
-url: /hu/java/conversion/html-to-emf/ 
+
 description: Minta Java konverziós kód a HTML formátumhoz EMF fájllá. A programozók ezt a példakódot használhatják Excel- és OpenOffice-táblázatok exportálására EMF-be bármely web- vagy asztali Java-alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل FODS إلى MARKDOWN عبر Python
-url: /ar/python-java/conversion/fods-to-markdown/
+
 description: نموذج كود fods لتخفيض سعر التحويل Python. استخدم API رمز المثال لملفات fods الدفعية لتحديد التحويل داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

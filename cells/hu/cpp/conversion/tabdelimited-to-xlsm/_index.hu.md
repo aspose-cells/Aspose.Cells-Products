@@ -1,6 +1,6 @@
-﻿---
+---
 title: A TABDELIMITED konvertálása XLSM-re a(z) C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/tabdelimited-to-xlsm/ 
+
 description: Minta C++ konverziós kód a TABDELIMITED dokumentumhoz XLSM formátumba. A programozók ezt a forráskódot használhatják kötegelt TABDELIMITED-XLSM-konverzióhoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

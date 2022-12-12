@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ üzerinden XLSB belgesinin kilidini açın 
 weight: 7420
-url: /tr/cpp/unlock/xlsb/ 
+
 description: C++ Windows 32 bit, Windows 64 bit ve Linux 64 bit için C++ Runtime Environment'da parola korumalı XLSB dosyasının kilidini açmak için örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

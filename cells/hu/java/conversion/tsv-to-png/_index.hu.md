@@ -1,7 +1,7 @@
-﻿---
+---
 title: "TSV konvertálása PNG-re a következőn keresztül: Java "
 weight: 9740
-url: /hu/java/conversion/tsv-to-png/ 
+
 description: Minta Java konverziós kód a TSV-formátumhoz PNG-fájllá. A programozók ezt a példakódot használhatják Excel és OpenOffice táblázatok PNG formátumba exportálására bármely web- vagy asztali Java alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

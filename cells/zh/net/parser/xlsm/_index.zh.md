@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通过 .NET 从 XLSM 文档中提取文本和图像 
 weight: 4010
-url: /zh/net/parser/xlsm/ 
+
 description: C# 源代码，用于从 .NET Framework、.NET Core、Mono 或 Xamarin 平台上的 XLSM 文件中提取文本和图像。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

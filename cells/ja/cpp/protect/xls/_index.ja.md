@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++を介してXLSドキュメントを保護およびロックする 
 weight: 8760
-url: /ja/cpp/protect/xls/ 
+
 description: C++ Windows 32ビット、Windows 64ビット、およびLinux64ビットのランタイム環境でパスワードを使用してXLSファイルをロックするためのサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

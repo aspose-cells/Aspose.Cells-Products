@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převeďte XLSB na XPS pomocí aplikace C++ 
 weight: 530
-url: /cs/cpp/conversion/xlsb-to-xps/ 
+
 description: Ukázkový konverzní kód C++ pro dokument XLSB na formát XPS. Programátoři mohou použít tento zdrojový kód pro dávkovou konverzi XLSB na XPS v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

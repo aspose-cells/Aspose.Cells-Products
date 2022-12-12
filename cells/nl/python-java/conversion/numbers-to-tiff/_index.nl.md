@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer NUMMERS naar TIFF via Python
-url: /nl/python-java/conversion/numbers-to-tiff/
+
 description: Voorbeeldcode voor getallen naar tiff Python-conversie. Gebruik API voorbeeldcode voor batchnummerbestanden naar tiff-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

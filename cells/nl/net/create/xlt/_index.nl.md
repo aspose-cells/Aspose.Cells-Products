@@ -1,6 +1,6 @@
-﻿---
+---
 title: Maak MS Excel XLT-bestanden via C# 
-url: /nl/net/create-xlt/ 
+
 description: C# Voorbeeldcode voor het genereren van XLT-documenten. Gebruik deze code om MS Excel XLT-bestanden te maken binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

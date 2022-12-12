@@ -1,6 +1,6 @@
-﻿---
+---
 title: A TABDELIMITED konvertálása DIF-re a(z) C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/tabdelimited-to-dif/ 
+
 description: Minta C++ konverziós kód a TABDELIMITED dokumentumhoz DIF formátumba. A programozók ezt a forráskódot használhatják kötegelt TABDELIMITED-DIF-konverzióhoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

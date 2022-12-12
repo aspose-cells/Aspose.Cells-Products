@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++를 통해 ODS 파일 병합 
-url: /ko/cpp/merger/ods/ 
+
 description: C++ Windows 32비트, Windows 64비트 및 Linux 64비트용 C++ Runtime Environment에서 ODS 문서를 결합하는 예제 코드.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

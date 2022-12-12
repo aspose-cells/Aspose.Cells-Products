@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java के द्वारा XLT फ़ाइलें मर्ज करें 
 weight: 9960
-url: /hi/java/merger/xlt/ 
+
 description: Java JSP/JSF अनुप्रयोग और डेस्कटॉप अनुप्रयोगों के लिए रनटाइम परिवेश पर XLT दस्तावेज़ों को संयोजित करने के लिए Java नमूना कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

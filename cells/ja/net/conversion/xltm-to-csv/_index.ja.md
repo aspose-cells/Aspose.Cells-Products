@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してXLTMをCSVに変換します
-url: /ja/net/conversion/xltm-to-csv/
+
 description: xltmからcsvC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチxltmファイルからcsvへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

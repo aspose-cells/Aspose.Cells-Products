@@ -1,7 +1,7 @@
-﻿---
+---
 title: Диаграмма документа XLSM через Java 
 weight: 3020
-url: /ru/java/chart/xlsm/ 
+
 description: Пример кода Java для рисования и преобразования диаграммы или диаграммы в файл XLSM в среде выполнения Java для приложений JSP/JSF и настольных приложений.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: XLT dosyalarını .NET aracılığıyla düzenleyin 
-url: /tr/net/editor/xlt/ 
+
 description: .NET Framework, .NET Core, Windows Azure, Mono veya Xamarin Platformlarında XLT belgesini düzenlemek için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi JSON ke XLSX melalui C#
-url: /id/net/conversion/json-to-xlsx/
+
 description: Contoh kode untuk json ke xlsx C# konversi. Gunakan API kode contoh untuk file batch json ke konversi xlsx dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

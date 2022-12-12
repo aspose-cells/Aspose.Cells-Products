@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to XLT via C++
-url: /cpp/conversion/xlsb-to-xlt/
+
 description: Convert XLSB to XLT format in C++ code. Save XLSB as XLT using C++.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan MHTML ke SPREADSHEETML melalui Python
-url: /id/python-java/conversion/mhtml-to-spreadsheetml/
+
 description: Contoh kode untuk konversi mhtml ke spreadsheetml Python. Gunakan API kode contoh untuk file batch mhtml ke konversi spreadsheetml dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

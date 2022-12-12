@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést HTML na SVG pomocí Python
-url: /cs/python-java/conversion/html-to-svg/
+
 description: Ukázkový kód pro převod html na svg Python. Použijte API ukázkový kód pro dávkový převod html souborů na svg v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

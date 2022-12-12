@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java経由のウォーターマークXLSBドキュメント 
 weight: 5900
-url: /ja/java/watermark/xlsb/ 
+
 description: JSP/JSFアプリケーションおよびデスクトップアプリケーションのJavaランタイム環境でXLSBファイルに透かしを追加または削除するためのJavaサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

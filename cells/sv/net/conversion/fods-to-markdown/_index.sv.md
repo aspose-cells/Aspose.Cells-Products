@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera FODS till MARKDOWN via C#
-url: /sv/net/conversion/fods-to-markdown/
+
 description: Exempelkod för fods to markdown C#-omvandling. Använd API-exempelkod för batch-fods-filer för att markdown-konvertera inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

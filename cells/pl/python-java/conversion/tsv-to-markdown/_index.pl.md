@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj TSV na MARKDOWN za pomocą Python
-url: /pl/python-java/conversion/tsv-to-markdown/
+
 description: Przykładowy kod konwersji tsv na przecenę Python. Użyj przykładowego kodu API dla plików wsadowych tsv do konwersji przecen w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera TABDELIMITED till TXT via Java 
-url: /sv/java/conversion/tabdelimited-to-txt/ 
+
 description: Exempel på konverteringskod för Java för TABDELIMITED-format till TXT-fil. Programmerare kan använda den här exempelkoden för att exportera Excel- och OpenOffice-kalkylblad till TXT inom alla webb- eller skrivbordsbaserade Java-applikationer.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

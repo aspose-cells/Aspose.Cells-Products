@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLTM в XLS через C#
-url: /ru/net/conversion/xltm-to-xls/
+
 description: Пример кода для преобразования xltm в xls C#. Используйте пример кода API для пакетного преобразования файлов xltm в xls в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to JSON via C#
-url: /net/conversion/excel-to-json/
+
 description: Convert EXCEL to JSON format in C# code. Save EXCEL as JSON using VB.NET, Asp.NET or any .NET based application.
 ---
 

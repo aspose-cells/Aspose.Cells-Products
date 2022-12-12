@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan XLTX ke ODS melalui Python
-url: /id/python-java/conversion/xltx-to-ods/
+
 description: Contoh kode untuk konversi xltx ke ods Python. Gunakan API kode contoh untuk file batch xltx ke konversi ods dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

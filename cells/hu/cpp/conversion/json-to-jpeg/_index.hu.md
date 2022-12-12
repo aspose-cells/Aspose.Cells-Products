@@ -1,6 +1,6 @@
-﻿---
+---
 title: JSON konvertálása JPEG formátumba a(z) C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/json-to-jpeg/ 
+
 description: Minta C++ konverziós kód a JSON-dokumentumhoz JPEG formátumba. A programozók ezt a forráskódot használhatják a JSON-ból JPEG-be való kötegelt konvertáláshoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

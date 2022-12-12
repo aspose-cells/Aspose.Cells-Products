@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή SPREADSHEETML σε DIF μέσω Python
-url: /el/python-java/conversion/spreadsheetml-to-dif/
+
 description: Δείγμα κώδικα για τη μετατροπή υπολογιστικού φύλλου σε διαφορετική Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία υπολογιστικού φύλλου ml για να διαφοροποιήσετε τη μετατροπή εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer JSON naar XLSM via Python
-url: /nl/python-java/conversion/json-to-xlsm/
+
 description: Voorbeeldcode voor conversie van json naar xlsm Python. Gebruik API voorbeeldcode voor batch json-bestanden naar xlsm-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Mesclar arquivos TXT via Java 
 weight: 4480
-url: /pt/java/merger/txt/ 
+
 description: Java código de amostra para combinar documentos TXT no Java ambiente de tempo de execução para aplicativos JSP/JSF e aplicativos de desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

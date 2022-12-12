@@ -1,7 +1,7 @@
-﻿---
+---
 title: Chuyển MHTML sang HTML qua ứng dụng C++ 
 weight: 3810
-url: /vi/cpp/conversion/mhtml-to-html/ 
+
 description: Mã chuyển đổi C++ mẫu cho tài liệu MHTML sang định dạng HTML. Người lập trình có thể sử dụng mã nguồn này để chuyển đổi MHTML sang HTML hàng loạt trong bất kỳ Ứng dụng C++ nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

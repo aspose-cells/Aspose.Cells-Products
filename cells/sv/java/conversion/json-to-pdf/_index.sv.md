@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertera JSON till PDF via Java 
 weight: 2950
-url: /sv/java/conversion/json-to-pdf/ 
+
 description: Exempel Java konverteringskod för JSON-format till PDF-fil. Programmerare kan använda den här exempelkoden för att exportera Excel- och OpenOffice-kalkylblad till PDF inom alla webb- eller skrivbordsbaserade program Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

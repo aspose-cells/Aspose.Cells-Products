@@ -1,7 +1,7 @@
-﻿---
+---
 title: Telusuri dokumen XLSB tanpa membuka melalui .NET 
 weight: 8880
-url: /id/net/search/xlsb/ 
+
 description: C# kode sumber untuk mencari kata-kata dengan pola dalam file XLSB pada .NET Framework, .NET Core, Mono atau Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل CSV إلى TIFF عبر تطبيق C++ 
 weight: 2920
-url: /ar/cpp/conversion/csv-to-tiff/ 
+
 description: نموذج C++ رمز التحويل لمستند CSV إلى تنسيق TIFF. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل CSV إلى TIFF في أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

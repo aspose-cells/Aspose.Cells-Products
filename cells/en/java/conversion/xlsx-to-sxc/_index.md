@@ -1,6 +1,6 @@
 ---
 title: Convert XLSX to SXC via Java 
-url: /java/conversion/xlsx-to-sxc/
+
 description: Convert XLSX to SXC format in Java code. Save XLSX as SXC using Java.
 ---
 

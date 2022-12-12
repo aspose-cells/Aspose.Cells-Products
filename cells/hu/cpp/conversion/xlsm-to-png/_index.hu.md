@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLSM-et PNG-re a(z) C++ alkalmazással 
-url: /hu/cpp/conversion/xlsm-to-png/ 
+
 description: Minta C++ konverziós kód XLSM-dokumentumhoz PNG formátumba. A programozók ezt a forráskódot használhatják az XLSM-ből PNG-be kötegelt konvertáláshoz bármely C++ alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

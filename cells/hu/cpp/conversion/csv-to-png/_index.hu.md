@@ -1,7 +1,7 @@
-﻿---
+---
 title: A CSV konvertálása PNG formátumba a C++ alkalmazáson keresztül 
 weight: 920
-url: /hu/cpp/conversion/csv-to-png/ 
+
 description: Minta C++ konverziós kód a CSV-dokumentumhoz PNG formátumba. A programozók ezt a forráskódot használhatják kötegelt CSV-ből PNG-be konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

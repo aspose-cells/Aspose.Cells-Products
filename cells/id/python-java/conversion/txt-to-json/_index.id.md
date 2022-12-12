@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi TXT ke JSON melalui Python
-url: /id/python-java/conversion/txt-to-json/
+
 description: Contoh kode untuk konversi txt ke json Python. Gunakan API kode contoh untuk file batch txt ke konversi json dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

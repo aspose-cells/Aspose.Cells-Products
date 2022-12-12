@@ -1,6 +1,6 @@
-﻿---
+---
 title: Cirkeldiagrammen maken via Python
-url: /nl/python-java/create-pie-chart/
+
 description: Python Voorbeeldcode voor het maken van cirkeldiagrammen naar Excel met Python Bibliotheek. Gebruik deze code voor het maken van een cirkeldiagram naar MS Excel binnen een op Python gebaseerde toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

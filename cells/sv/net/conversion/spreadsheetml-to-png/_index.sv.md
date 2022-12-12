@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera SPREADSHEETML till PNG via C#
-url: /sv/net/conversion/spreadsheetml-to-png/
+
 description: Exempelkod för konvertering från kalkylarkml till png C#. Använd API-exempelkod för batch-kalkylarkml-filer till png-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

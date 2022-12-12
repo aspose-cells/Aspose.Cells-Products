@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# के द्वारा PDF फ़ाइलें बनाएं 
-url: /hi/net/create-pdf/ 
+
 description: C# PDF दस्तावेज़ बनाने के लिए नमूना कोड। VB.NET, Asp.NET या किसी .NET आधारित एप्लिकेशन में PDF फ़ाइलें बनाने के लिए इस कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer SPREADSHEETML naar BMP via C#
-url: /nl/net/conversion/spreadsheetml-to-bmp/
+
 description: Voorbeeldcode voor conversie van spreadsheetml naar bmp C#. Gebruik API voorbeeldcode voor batch-spreadsheetml-bestanden naar bmp-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

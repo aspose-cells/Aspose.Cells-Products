@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通過 .NET 合併 XLSM 文件 
 weight: 660
-url: /zh-hant/net/merger/xlsm/ 
+
 description: C# 源代碼，用於在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上組合 XLSM 文檔。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

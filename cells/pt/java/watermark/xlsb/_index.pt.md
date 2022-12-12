@@ -1,7 +1,7 @@
-﻿---
+---
 title: Documento XLSB de marca d'água via Java 
 weight: 5900
-url: /pt/java/watermark/xlsb/ 
+
 description: Java código de amostra para adicionar ou remover marca d'água do arquivo XLSB no Java ambiente de tempo de execução para aplicativos JSP/JSF e aplicativos de desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

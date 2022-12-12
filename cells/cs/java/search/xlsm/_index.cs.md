@@ -1,7 +1,7 @@
-﻿---
+---
 title: Prohledávejte dokument XLSM bez otevírání prostřednictvím Java 
 weight: 6780
-url: /cs/java/search/xlsm/ 
+
 description: Java ukázkový kód pro vyhledávání slov se vzorem v souboru XLSM v Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

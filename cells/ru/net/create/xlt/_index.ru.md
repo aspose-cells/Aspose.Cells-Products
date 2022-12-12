@@ -1,6 +1,6 @@
-﻿---
+---
 title: Создание файлов MS Excel XLT через C# 
-url: /ru/net/create-xlt/ 
+
 description: C# Пример кода для создания документов XLT. Используйте этот код для создания файлов MS Excel XLT в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

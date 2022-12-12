@@ -1,7 +1,7 @@
-﻿---
+---
 title: Zobrazit formáty souborů XLS prostřednictvím .NET 
 weight: 1260
-url: /cs/net/viewer/xls/ 
+
 description: C# zdrojový kód pro načítání, vykreslování a zobrazování dokumentů XLS na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

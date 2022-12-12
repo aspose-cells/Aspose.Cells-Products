@@ -1,7 +1,7 @@
-﻿---
+---
 title: Cerca e sostituisci testo nel documento XLSB tramite Java 
 weight: 4590
-url: /it/java/redaction/xlsb/ 
+
 description: Java codice di esempio per oscurare le informazioni riservate nel file XLSB su Java Runtime Environment per applicazioni JSP/JSF e applicazioni desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

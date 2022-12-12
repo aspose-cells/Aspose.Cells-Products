@@ -1,6 +1,6 @@
-﻿---
+---
 title: Erstellen Sie ODS-Dateien (Openoffice / Lbreoffice) über C++ 
-url: /de/cpp/create-ods/ 
+
 description: C++ Beispielcode zum Generieren von ODS-Dateien (Openoffice / Lbreoffice). Verwenden Sie diesen Code zum Erstellen von ODS-Dateien (Openoffice / Lbreoffice) in einer C++-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

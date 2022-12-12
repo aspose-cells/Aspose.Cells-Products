@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi HTML sang GIF qua Python
-url: /vi/python-java/conversion/html-to-gif/
+
 description: Mã mẫu cho chuyển đổi html sang gif Python. Sử dụng mã mẫu API cho hàng loạt tệp html sang chuyển đổi gif trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi TXT sang FODS qua Python
-url: /vi/python-java/conversion/txt-to-fods/
+
 description: Mã mẫu cho chuyển đổi txt thành fods Python. Sử dụng mã mẫu API cho các tệp txt hàng loạt để chuyển đổi fods trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

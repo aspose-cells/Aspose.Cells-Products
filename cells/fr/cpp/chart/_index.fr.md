@@ -1,6 +1,6 @@
-﻿---
+---
 title: Créer des graphiques Excel et convertir en images via C++
-url: /fr/cpp/chart/
+
 description: Code source C++ pour dessiner et convertir un graphique ou un diagramme dans Microsoft Excel à l'aide de la bibliothèque C++
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

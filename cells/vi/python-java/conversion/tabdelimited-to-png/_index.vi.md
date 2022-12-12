@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển TABDELIMITED sang PNG qua Python
-url: /vi/python-java/conversion/tabdelimited-to-png/
+
 description: Mã mẫu cho chuyển đổi được giới hạn bằng tab thành png Python. Sử dụng API mã mẫu cho hàng loạt tệp được giới hạn bằng tab thành chuyển đổi png trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

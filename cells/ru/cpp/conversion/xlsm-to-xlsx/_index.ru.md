@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLSM в XLSX с помощью приложения C++ 
-url: /ru/cpp/conversion/xlsm-to-xlsx/ 
+
 description: Пример кода преобразования C++ для документа XLSM в формат XLSX. Программисты могут использовать этот исходный код для пакетного преобразования XLSM в XLSX в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

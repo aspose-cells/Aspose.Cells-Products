@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to CSV via Java 
-url: /java/conversion/spreadsheetml-to-csv/
+
 description: Convert SPREADSHEETML to CSV format in Java code. Save SPREADSHEETML as CSV using Java.
 ---
 

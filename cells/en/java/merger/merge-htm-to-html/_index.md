@@ -1,6 +1,6 @@
 ---
 title: Merge HTM to HTML Files via Java 
-url: /java/merger/merge-htm-to-html/ 
+
 description: Merge HTM to HTML file in Java code. Combine HTM to HTML file using Java based desktop or web application.
 ---
 

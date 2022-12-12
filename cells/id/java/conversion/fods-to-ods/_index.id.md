@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan FODS ke ODS melalui Java 
-url: /id/java/conversion/fods-to-ods/ 
+
 description: Contoh Java kode konversi untuk format FODS ke file ODS. Pemrogram dapat menggunakan kode contoh ini untuk mengekspor spreadsheet Excel & OpenOffice ke ODS dalam Aplikasi berbasis Web atau Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

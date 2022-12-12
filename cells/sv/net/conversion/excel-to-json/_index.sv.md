@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera EXCEL till JSON via C#
-url: /sv/net/conversion/excel-to-json/
+
 description: Exempelkod för konvertering från excel till json C#. Använd API exempelkod för batch-exelfiler till json-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

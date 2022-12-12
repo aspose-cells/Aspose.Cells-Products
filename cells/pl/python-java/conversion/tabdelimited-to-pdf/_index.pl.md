@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj TABDELIMITED na PDF przez Python
-url: /pl/python-java/conversion/tabdelimited-to-pdf/
+
 description: Przykładowy kod do konwersji rozdzielanej tabulatorami na pdf Python. Użyj przykładowego kodu API dla plików wsadowych rozdzielanych tabulatorami do konwersji pdf w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

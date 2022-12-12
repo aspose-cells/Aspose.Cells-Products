@@ -1,7 +1,7 @@
-﻿---
+---
 title: Generovat sestavy v souborech XLS prostřednictvím Java 
 weight: 1090
-url: /cs/java/assembly/xls/ 
+
 description: Java ukázkový kód pro vytváření sestav ve formátu XLS v Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversikan MHTML ke JPEG melalui Java 
 weight: 3580
-url: /id/java/conversion/mhtml-to-jpeg/ 
+
 description: Contoh Java kode konversi untuk format MHTML ke file JPEG. Pemrogram dapat menggunakan kode contoh ini untuk mengekspor spreadsheet Excel & OpenOffice ke JPEG dalam Aplikasi berbasis Web atau Desktop Java apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

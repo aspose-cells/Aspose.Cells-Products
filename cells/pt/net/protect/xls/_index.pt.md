@@ -1,7 +1,7 @@
-﻿---
+---
 title: Proteja e bloqueie o documento XLS via .NET 
 weight: 7010
-url: /pt/net/protect/xls/ 
+
 description: C# código-fonte para bloquear o arquivo XLS usando senha nas plataformas .NET Framework, .NET Core, Mono ou Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

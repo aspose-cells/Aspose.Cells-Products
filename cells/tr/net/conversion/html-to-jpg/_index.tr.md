@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla HTML'yi JPG'ye dönüştürün
-url: /tr/net/conversion/html-to-jpg/
+
 description: HTML'den jpg'ye C# dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu html dosyalarını jpg'ye dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

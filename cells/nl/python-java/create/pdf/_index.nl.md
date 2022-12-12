@@ -1,6 +1,6 @@
-﻿---
+---
 title: PDF-bestanden maken via Python 
-url: /nl/python-java/create-pdf/ 
+
 description: Python Voorbeeldcode voor het genereren van PDF-documenten. Gebruik deze code voor het maken van PDF-bestanden binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

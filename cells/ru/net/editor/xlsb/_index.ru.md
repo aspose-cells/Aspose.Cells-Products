@@ -1,6 +1,6 @@
-﻿---
+---
 title: Редактируйте файлы XLSB через .NET 
-url: /ru/net/editor/xlsb/ 
+
 description: Исходный код C# для редактирования документа XLSB на платформах .NET Framework, .NET Core, Windows Azure, Mono или Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "NUMBERS konvertálása ODS-re a következőn keresztül: Java "
-url: /hu/java/conversion/numbers-to-ods/ 
+
 description: Minta Java konverziós kód NUMBERS formátumhoz ODS-fájllá. A programozók ezt a példakódot használhatják Excel- és OpenOffice-táblázatok exportálására ODS-be bármely web- vagy asztali Java-alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to XML via C++
-url: /cpp/conversion/mhtml-to-xml/
+
 description: Convert MHTML to XML format in C++ code. Save MHTML as XML using C++.
 ---
 

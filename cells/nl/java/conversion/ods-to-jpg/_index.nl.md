@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer ODS naar JPG via Java 
-url: /nl/java/conversion/ods-to-jpg/ 
+
 description: Voorbeeld Java-conversiecode voor ODS-indeling naar JPG-bestand. Programmeurs kunnen deze voorbeeldcode gebruiken om Excel- en OpenOffice-spreadsheets naar JPG te exporteren binnen elke web- of desktoptoepassing Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

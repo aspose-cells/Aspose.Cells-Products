@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование CSV в SPREADSHEETML через Python
-url: /ru/python-java/conversion/csv-to-spreadsheetml/
+
 description: Пример кода для преобразования csv в электронную таблицуml Python. Используйте пример кода API для пакетного преобразования CSV-файлов в электронную таблицу в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

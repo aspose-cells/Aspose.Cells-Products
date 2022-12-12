@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TSV konvertálása TXT-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/tsv-to-txt/
+
 description: Mintakód a tsv-ből txt-be Python konverzióhoz. Használjon API példakódot a tsv-fájlok kötegelt txt-be konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

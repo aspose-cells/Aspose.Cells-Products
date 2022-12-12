@@ -1,6 +1,6 @@
-﻿---
+---
 title: एमएचटीएमएल को एसवीजी में बदलने के लिए C#
-url: /hi/net/conversion/mhtml-to-svg/
+
 description: mhtml से svg C# रूपांतरण के लिए नमूना कोड। VB.NET, Asp.NET या किसी .NET आधारित एप्लिकेशन के भीतर svg रूपांतरण में बैच mhtml फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

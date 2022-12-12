@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan XLT ke TXT melalui Python
-url: /id/python-java/conversion/xlt-to-txt/
+
 description: Contoh kode untuk konversi xlt ke txt Python. Gunakan API kode contoh untuk file batch xlt ke konversi txt dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: .NETを介してExcelにコメントを挿入する
-url: /ja/net/comment/
+
 description: .NETライブラリを使用してMicrosoftExcelファイルにコメントを挿入する方法を示すC#ソースコード。 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してXLSMをPNGに変換する 
 weight: 1320
-url: /ja/java/conversion/xlsm-to-png/ 
+
 description: XLSM形式からPNGファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、任意のWebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをPNGにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

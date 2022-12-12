@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi JSON sang DIF qua C#
-url: /vi/net/conversion/json-to-dif/
+
 description: Mã mẫu cho chuyển đổi json sang dif C#. Sử dụng API mã mẫu cho các tệp json hàng loạt để chuyển đổi khác trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

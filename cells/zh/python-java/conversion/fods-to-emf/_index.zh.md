@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 Python 将 FODS 转换为 EMF
-url: /zh/python-java/conversion/fods-to-emf/
+
 description: fods 到 emf Python 转换的示例代码。将 API 示例代码用于批量 fods 文件到 Python 应用程序中的 emf 转换。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

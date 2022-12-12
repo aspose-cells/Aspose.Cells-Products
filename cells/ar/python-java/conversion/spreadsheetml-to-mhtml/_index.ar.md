@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل SPREADSHEETML إلى MHTML عبر Python
-url: /ar/python-java/conversion/spreadsheetml-to-mhtml/
+
 description: نموذج كود لتحويل جدول البيانات إلى mhtml Python. استخدم API رمز المثال لملفات جداول البيانات الدفعية لتحويل mhtml داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

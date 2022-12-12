@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง TABDELIMITED เป็น TSV ผ่าน C#
-url: /th/net/conversion/tabdelimited-to-tsv/
+
 description: โค้ดตัวอย่างสำหรับการแปลงแท็บเป็น tsv C# ใช้โค้ดตัวอย่าง API สำหรับไฟล์ที่คั่นด้วยแท็บแบบแบตช์เป็นการแปลง tsv ภายใน VB.NET, Asp.NET หรือแอปพลิเคชันที่ใช้ .NET
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

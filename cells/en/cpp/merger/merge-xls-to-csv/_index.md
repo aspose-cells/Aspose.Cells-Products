@@ -1,6 +1,6 @@
 ---
 title: Merge XLS to CSV Files via C++ 
-url: /cpp/merger/merge-xls-to-csv/ 
+
 description: Merge XLS to CSV file in C++ code. Combine XLS to CSV file using C++.
 ---
 

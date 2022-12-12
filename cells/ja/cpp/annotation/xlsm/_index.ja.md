@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++を介してXLSM注釈を追加する 
 weight: 2860
-url: /ja/cpp/annotation/xlsm/ 
+
 description: C++ Windows 32ビット、Windows 64ビット、およびLinux64ビットのランタイム環境でXLSM形式の注釈を削除するためのサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

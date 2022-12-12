@@ -1,6 +1,6 @@
-﻿---
+---
 title: Tạo Tệp MS Excel XLSB qua Python 
-url: /vi/python-java/create-xlsb/ 
+
 description: Python Mã mẫu để tạo tài liệu XLSB. Sử dụng mã này để tạo tệp MS Excel XLSB trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

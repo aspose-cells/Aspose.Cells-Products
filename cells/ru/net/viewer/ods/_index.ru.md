@@ -1,7 +1,7 @@
-﻿---
+---
 title: Просмотр форматов файлов ODS через .NET 
 weight: 130
-url: /ru/net/viewer/ods/ 
+
 description: Исходный код C# для загрузки, обработки и отображения документов ODS на платформах .NET Framework, .NET Core, Mono или Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

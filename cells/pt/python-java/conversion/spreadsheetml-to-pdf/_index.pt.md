@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter SPREADSHEETML para PDF via Python
-url: /pt/python-java/conversion/spreadsheetml-to-pdf/
+
 description: Código de exemplo para conversão de planilhaml para pdf Python. Use API código de exemplo para arquivos de planilhaml em lote para conversão de pdf no aplicativo Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

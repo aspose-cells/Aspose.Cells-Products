@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 C++ 管理 Excel 文件元数据
-url: /zh/cpp/metadata/
+
 description: 使用 C++ 库查看、添加、编辑、删除或提取 Excel 文件元数据
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

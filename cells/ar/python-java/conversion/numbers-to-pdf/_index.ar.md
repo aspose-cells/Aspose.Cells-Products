@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل الأرقام إلى PDF عبر Python
-url: /ar/python-java/conversion/numbers-to-pdf/
+
 description: نموذج رمز للأرقام لتحويل Python pdf. استخدم API رمز المثال لملفات أرقام الدُفعات لتحويل pdf داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

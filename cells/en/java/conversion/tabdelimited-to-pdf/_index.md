@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to PDF via Java 
-url: /java/conversion/tabdelimited-to-pdf/
+
 description: Convert TABDELIMITED to PDF format in Java code. Save TABDELIMITED as PDF using Java.
 ---
 

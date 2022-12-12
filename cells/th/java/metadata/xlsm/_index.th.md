@@ -1,7 +1,7 @@
-﻿---
+---
 title: แก้ไขหรือดูข้อมูลเมตาของไฟล์ XLSM ผ่าน Java 
 weight: 9030
-url: /th/java/metadata/xlsm/ 
+
 description: Java ตัวอย่างโค้ดเพื่อแก้ไขหรือดูข้อมูลเมตารูปแบบ XLSM บน Java Runtime Environment สำหรับแอปพลิเคชัน JSP/JSF และแอปพลิเคชันเดสก์ท็อป
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

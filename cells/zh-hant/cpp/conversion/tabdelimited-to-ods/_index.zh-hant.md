@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 C++ 應用程序將 TABDELIMITED 轉換為 ODS 
-url: /zh-hant/cpp/conversion/tabdelimited-to-ods/ 
+
 description: TABDELIMITED 文檔到 ODS 格式的示例 C++ 轉換代碼。程序員可以使用此源代碼在任何 C++ 應用程序中將 TABDELIMITED 批量轉換為 ODS。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

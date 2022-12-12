@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل TSV إلى CSV عبر Java 
 weight: 1720
-url: /ar/java/conversion/tsv-to-csv/ 
+
 description: نموذج لشفرة تحويل Java لتنسيق TSV إلى ملف CSV. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى CSV داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

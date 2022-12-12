@@ -1,7 +1,7 @@
 ---
 title: Extract text and images from XLS document via Java 
 weight: 3700
-url: /java/parser/xls/ 
+
 description: Java sample code to extract text and images from XLS file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

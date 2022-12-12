@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pisahkan Spreadsheet Excel menjadi Worksheet di Java
-url: /id/java/splitter/
+
 description: Java kode sumber yang menjelaskan cara membagi berkas Microsoft Excel menjadi beberapa dokumen menggunakan Java pustaka Excel
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

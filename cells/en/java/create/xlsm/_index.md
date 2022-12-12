@@ -1,6 +1,6 @@
 ---
 title: Create MS Excel XLSM Files via Java 
-url: /java/create-xlsm/ 
+
 description: Create XLSM files in Java code. Generate MS Excel XLSM files using Java based desktop or web application.
 ---
 

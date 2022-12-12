@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 C# 在图表中添加一条线 
-url: /zh/net/add-line-in-chart/ 
+
 description: C# 使用 .NET 库将图表中的线条添加到 Excel 的示例代码。使用此代码在 VB.NET、Asp.NET 或任何基于 .NET 的应用程序中将图表中的线条添加到 MS Excel。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

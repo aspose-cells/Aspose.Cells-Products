@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla XLS'yi XLSX'e dönüştürün
-url: /tr/net/conversion/xls-to-xlsx/
+
 description: xls'den xlsx'e C# dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu xls dosyalarından xlsx'e dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

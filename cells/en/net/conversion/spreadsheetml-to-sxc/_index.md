@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to SXC via C#
-url: /net/conversion/spreadsheetml-to-sxc/
+
 description: Convert SPREADSHEETML to SXC format in C# code. Save SPREADSHEETML as SXC using VB.NET, Asp.NET or any .NET based application.
 ---
 

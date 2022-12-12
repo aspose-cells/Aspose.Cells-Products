@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してXLTXをEMFに変換します
-url: /ja/net/conversion/xltx-to-emf/
+
 description: xltxからemfC#への変換のサンプルコード。バッチxltxファイルのAPIサンプルコードを使用して、VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内で変換をemfします。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل SPREADSHEETML إلى DIF عبر Python
-url: /ar/python-java/conversion/spreadsheetml-to-dif/
+
 description: نموذج كود لجدول بيانات لتحويل Python. استخدم API مثال الكود لملفات جداول البيانات الدفعية لتعريف التحويل داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

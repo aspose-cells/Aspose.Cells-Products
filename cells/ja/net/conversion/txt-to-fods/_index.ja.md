@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してTXTをFODSに変換します
-url: /ja/net/conversion/txt-to-fods/
+
 description: txtからfodsC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチtxtファイルからfodsへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してODSファイルを分割する 
 weight: 1950
-url: /ja/java/splitter/ods/ 
+
 description: Java JSP/JSFアプリケーションおよびデスクトップアプリケーションのランタイム環境でODSドキュメントを分割するためのサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

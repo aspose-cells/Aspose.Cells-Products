@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést SPREADSHEETML na SXC přes C#
-url: /cs/net/conversion/spreadsheetml-to-sxc/
+
 description: Ukázkový kód pro převod tabulky ml na sxc C#. Použijte API ukázkový kód pro dávkové tabulkové soubory ml na převod sxc v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

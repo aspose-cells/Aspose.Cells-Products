@@ -1,7 +1,7 @@
-﻿---
+---
 title: Wyodrębnij tekst i obrazy z dokumentu XLSM za pomocą .NET 
 weight: 4010
-url: /pl/net/parser/xlsm/ 
+
 description: C# kod źródłowy do wyodrębniania tekstu i obrazów z pliku XLSM na platformach .NET Framework, .NET Core, Mono lub Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Преобразование HTML в CSV через Java 
 weight: 3290
-url: /ru/java/conversion/html-to-csv/ 
+
 description: Пример кода преобразования Java для формата HTML в файл CSV. Программисты могут использовать этот пример кода для экспорта электронных таблиц Excel и OpenOffice в CSV в любом веб-или настольном Java приложении.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Sök och ersätt text i XLSB-dokument via .NET 
 weight: 3890
-url: /sv/net/redaction/xlsb/ 
+
 description: C# källkod för att redigera känslig information i XLSB-filen på .NET Framework, .NET Core, Mono eller Xamarin-plattformar.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Fusionner les fichiers ODS via Java 
 weight: 6270
-url: /fr/java/merger/ods/ 
+
 description: Java Exemple de code pour combiner des documents ODS sur Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

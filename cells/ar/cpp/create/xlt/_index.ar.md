@@ -1,6 +1,6 @@
-﻿---
+---
 title: إنشاء ملفات MS Excel XLT عبر C++ 
-url: /ar/cpp/create-xlt/ 
+
 description: C++ نموذج كود لإنشاء ملفات MS Excel XLT. استخدم هذا الرمز لإنشاء ملفات MS Excel XLT داخل تطبيق يستند إلى C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi JPG ke DOCX melalui C#
-url: /id/net/conversion/jpg-to-docx/
+
 description: Contoh kode untuk konversi jpg ke docx C#. Gunakan API kode contoh untuk file batch jpg ke konversi docx dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

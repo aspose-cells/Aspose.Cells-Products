@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLS-dokumentum feloldása a következőn keresztül: Java "
 weight: 6390
-url: /hu/java/unlock/xls/ 
+
 description: Java mintakód a jelszóval védett XLS-fájl feloldásához a Java Runtime Environment for JSP/JSF alkalmazásokhoz és asztali alkalmazásokhoz.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

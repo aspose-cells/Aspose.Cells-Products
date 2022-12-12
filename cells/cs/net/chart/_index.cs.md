@@ -1,6 +1,6 @@
-﻿---
+---
 title: Vytváření grafů Excel a převod na obrázky prostřednictvím .NET
-url: /cs/net/chart/
+
 description: Zdrojový kód C# pro kreslení a převod grafu nebo diagramu v aplikaci Microsoft Excel pomocí knihovny .NET. 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

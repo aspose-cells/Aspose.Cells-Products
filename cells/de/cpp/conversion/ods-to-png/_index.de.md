@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertieren Sie ODS in PNG über die Anwendung C++ 
 weight: 4710
-url: /de/cpp/conversion/ods-to-png/ 
+
 description: Beispiel-Umwandlungscode C++ für das ODS-Dokument in das PNG-Format. Programmierer können diesen Quellcode für die Batch-Konvertierung von ODS in PNG in jeder C++-Anwendung verwenden.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

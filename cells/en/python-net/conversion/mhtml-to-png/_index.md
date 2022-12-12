@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to PNG via Python
-url: /python-net/conversion/mhtml-to-png/
+
 description: Sample code for mhtml to png Python conversion. Use API example code for batch mhtml files to png conversion within Python application.
 ---
 

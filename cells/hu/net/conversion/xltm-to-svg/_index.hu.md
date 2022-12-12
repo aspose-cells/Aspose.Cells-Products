@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLTM konvertálása SVG-vé a következőn keresztül: C#"
-url: /hu/net/conversion/xltm-to-svg/
+
 description: Mintakód xltm-ből svg-be C#. Használjon API példakódot kötegelt xltm fájlok SVG konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

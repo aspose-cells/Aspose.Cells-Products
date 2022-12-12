@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést FODS na XML prostřednictvím Python
-url: /cs/python-java/conversion/fods-to-xml/
+
 description: Ukázkový kód pro převod fods na xml Python. Použijte API ukázkový kód pro dávkový převod souborů fods na xml v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

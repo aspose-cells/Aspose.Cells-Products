@@ -1,7 +1,7 @@
-﻿---
+---
 title: MHTML konvertálása PDF-be a(z) C++ alkalmazással 
 weight: 2850
-url: /hu/cpp/conversion/mhtml-to-pdf/ 
+
 description: Minta C++ konverziós kód MHTML dokumentumhoz PDF formátumba. A programozók ezt a forráskódot használhatják az MHTML-ből PDF-be kötegelt konvertálásához bármely C++ alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

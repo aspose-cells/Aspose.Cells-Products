@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer JSON naar EMF via C++ applicatie 
-url: /nl/cpp/conversion/json-to-emf/ 
+
 description: Voorbeeld C++-conversiecode voor JSON-document naar EMF-indeling. Programmeurs kunnen deze broncode gebruiken voor batch-conversie van JSON naar EMF binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert TSV to XPS via C++
-url: /cpp/conversion/tsv-to-xps/
+
 description: Convert TSV to XPS format in C++ code. Save TSV as XPS using C++.
 ---
 

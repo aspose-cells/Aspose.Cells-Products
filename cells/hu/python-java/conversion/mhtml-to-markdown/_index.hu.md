@@ -1,6 +1,6 @@
-﻿---
+---
 title: "MHTML konvertálása MARKDOWN-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/mhtml-to-markdown/
+
 description: Mintakód az mhtml-hez a Python konverzióhoz. Használjon API példakódot kötegelt mhtml-fájlokhoz a konverzió leértékeléséhez a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

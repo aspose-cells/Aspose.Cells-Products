@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#을(를) 통해 TSV 파일 만들기 
-url: /ko/net/create-tsv/ 
+
 description: C# TSV 문서 생성을 위한 샘플 코드입니다. 이 코드를 사용하여 VB.NET, Asp.NET 또는 .NET 기반 애플리케이션 내에서 TSV 파일을 생성합니다.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

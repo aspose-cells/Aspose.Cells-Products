@@ -1,6 +1,6 @@
-﻿---
+---
 title: NUMBERS über Python in MHTML umwandeln
-url: /de/python-java/conversion/numbers-to-mhtml/
+
 description: Beispielcode für die Umwandlung von Zahlen in mhtml Python. Verwenden Sie den API Beispielcode für die Konvertierung von Stapelnummerndateien in mhtml innerhalb der Anwendung Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование SXC в TXT через Python
-url: /ru/python-java/conversion/sxc-to-txt/
+
 description: Пример кода для преобразования sxc в txt Python. Используйте пример кода API для пакетного преобразования файлов sxc в txt в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

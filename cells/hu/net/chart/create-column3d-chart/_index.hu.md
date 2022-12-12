@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Hozzon létre 3D oszlopos diagramokat a következőn keresztül: C#"
-url: /hu/net/create-column3d-chart/
+
 description: C# Mintakód Column3D diagramok készítéséhez Excelbe a .NET Library használatával. Ezzel a kóddal hozhat létre Column3D diagramot MS Excelhez VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

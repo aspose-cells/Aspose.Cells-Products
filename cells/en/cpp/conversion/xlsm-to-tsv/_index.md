@@ -1,6 +1,6 @@
 ---
 title: Convert XLSM to TSV via C++
-url: /cpp/conversion/xlsm-to-tsv/
+
 description: Convert XLSM to TSV format in C++ code. Save XLSM as TSV using C++.
 ---
 

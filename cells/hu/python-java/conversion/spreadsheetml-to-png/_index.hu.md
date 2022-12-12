@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SPREADSHEETML konvertálása PNG-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/spreadsheetml-to-png/
+
 description: Mintakód a táblázatkezelőből png Python konvertáláshoz. Használjon API példakódot a kötegelt táblázatkezelő fájlokhoz a png konverzióhoz a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

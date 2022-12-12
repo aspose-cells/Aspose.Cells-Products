@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan SPREADSHEETML ke XLSM melalui Python
-url: /id/python-java/conversion/spreadsheetml-to-xlsm/
+
 description: Contoh kode untuk spreadsheetml ke xlsm Python konversi. Gunakan API kode contoh untuk file batch spreadsheetml ke konversi xlsm dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

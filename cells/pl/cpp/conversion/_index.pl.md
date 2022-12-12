@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwersja plików Microsoft Excel przez C++ 
-url: /pl/cpp/conversion/
+
 description: Konwertuj Excel XLS, XLSX, ODS, CSV do PDF, XPS, HTML, JPEG i innych formatów za pomocą zaledwie kilku linijek kodu C++.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

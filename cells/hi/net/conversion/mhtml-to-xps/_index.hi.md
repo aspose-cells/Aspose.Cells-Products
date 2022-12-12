@@ -1,6 +1,6 @@
-﻿---
+---
 title: एमएचटीएमएल को C# के माध्यम से एक्सपीएस में बदलें
-url: /hi/net/conversion/mhtml-to-xps/
+
 description: mhtml से xps C# रूपांतरण के लिए नमूना कोड। बैच एमएचटीएमएल फाइलों के लिए वीबी.NET, एएसपी.NET या किसी भी .NET आधारित एप्लिकेशन के भीतर एक्सपीएस रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

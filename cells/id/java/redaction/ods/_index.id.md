@@ -1,7 +1,7 @@
-﻿---
+---
 title: Cari dan ganti teks dalam dokumen ODS melalui Java 
 weight: 9210
-url: /id/java/redaction/ods/ 
+
 description: Java kode contoh untuk menyunting informasi sensitif dalam file ODS di Java Lingkungan Waktu Proses untuk Aplikasi JSP/JSF dan Aplikasi Desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование SPREADSHETML в HTML с помощью приложения C++ 
-url: /ru/cpp/conversion/spreadsheetml-to-html/ 
+
 description: Пример кода преобразования C++ для документа SPREADSHEETML в формат HTML. Программисты могут использовать этот исходный код для пакетного преобразования SPREADSHEETML в HTML в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

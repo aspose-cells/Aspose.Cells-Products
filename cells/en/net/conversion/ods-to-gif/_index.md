@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to GIF via C#
-url: /net/conversion/ods-to-gif/
+
 description: Convert ODS to GIF format in C# code. Save ODS as GIF using VB.NET, Asp.NET or any .NET based application.
 ---
 

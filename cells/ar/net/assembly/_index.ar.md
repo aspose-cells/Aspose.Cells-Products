@@ -1,6 +1,6 @@
-﻿---
+---
 title: إنشاء ملفات Excel عبر C#
-url: /ar/net/assembly/
+
 description: قم بإنشاء جداول بيانات Microsoft Excel من ورقة نموذج باستخدام الرمز C#
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

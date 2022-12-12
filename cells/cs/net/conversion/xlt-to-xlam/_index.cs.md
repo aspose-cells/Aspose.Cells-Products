@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLT na XLAM přes C#
-url: /cs/net/conversion/xlt-to-xlam/
+
 description: Ukázkový kód pro převod xlt na xlam C#. Použijte API ukázkový kód pro dávkové soubory xlt na převod xlam v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: مستند ODS بعلامة مائية عبر Java 
 weight: 1040
-url: /ar/java/watermark/ods/ 
+
 description: Java نموذج لرمز لإضافة العلامة المائية أو إزالتها إلى ملف ODS في Java Runtime Environment لتطبيق JSP / JSF وتطبيقات سطح المكتب.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

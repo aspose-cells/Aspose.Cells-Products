@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir XLSX a MD a través de Python
-url: /es/python-java/conversion/xlsx-to-md/
+
 description: Código de muestra para la conversión de xlsx a md Python. Utilice el código de ejemplo API para la conversión de archivos xlsx por lotes en la aplicación Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

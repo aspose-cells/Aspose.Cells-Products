@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversikan TSV ke Byte Array melalui C# 
 weight: 7690
-url: /id/net/conversion/tsv-to-byte-array/ 
+
 description: C# Contoh kode untuk konversi TSV ke Byte Array. Gunakan kode ini untuk konversi Excel TSV ke Byte Array dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Extrahujte text a obrázky z dokumentu XLSB prostřednictvím .NET 
 weight: 2200
-url: /cs/net/parser/xlsb/ 
+
 description: Zdrojový kód C# pro extrahování textu a obrázků ze souboru XLSB na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

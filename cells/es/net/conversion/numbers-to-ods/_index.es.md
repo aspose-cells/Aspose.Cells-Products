@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta NÚMEROS a ODS a través de C#
-url: /es/net/conversion/numbers-to-ods/
+
 description: Ejemplo de código para conversión de números a probabilidades C#. Utilice el código de ejemplo API para la conversión de archivos de números de lote a ods dentro de VB.NET, Asp.NET o cualquier aplicación basada en .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

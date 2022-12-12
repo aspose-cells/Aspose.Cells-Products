@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera XLTM till ODS via C#
-url: /sv/net/conversion/xltm-to-ods/
+
 description: Exempelkod för konvertering av xltm till ods C#. Använd API exempelkod för batch-xltm-filer till ods-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

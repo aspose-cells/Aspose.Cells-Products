@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NETを介してXLSBドキュメントを保護およびロックする 
 weight: 5920
-url: /ja/net/protect/xlsb/ 
+
 description: .NETフレームワーク、.NETコア、Mono、またはXamarinプラットフォームでパスワードを使用してXLSBファイルをロックするためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

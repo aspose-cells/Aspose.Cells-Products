@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj TXT na TABDELIMITED przez C#
-url: /pl/net/conversion/txt-to-tabdelimited/
+
 description: Przykładowy kod konwersji txt na rozdzielaną tabulatorami C#. Użyj przykładowego kodu API dla plików wsadowych txt do konwersji rozdzielanej tabulatorami w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

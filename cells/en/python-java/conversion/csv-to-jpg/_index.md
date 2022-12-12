@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to JPG via Python
-url: /python-java/conversion/csv-to-jpg/
+
 description: Convert CSV to JPG format in Python code. Save CSV as JPG using Python.
 ---
 

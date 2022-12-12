@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLSX konvertálása BMP-vé a következőn keresztül: Python"
-url: /hu/python-java/conversion/xlsx-to-bmp/
+
 description: Mintakód az xlsx–bmp Python konverzióhoz. Használjon API példakódot a kötegelt xlsx fájlok bmp konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Déverrouiller le document XLS via C++ 
 weight: 2380
-url: /fr/cpp/unlock/xls/ 
+
 description: C++ Exemple de code pour déverrouiller le fichier XLS protégé par mot de passe sur C++ Runtime Environment pour Windows 32 bits, Windows 64 bits et Linux 64 bits.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

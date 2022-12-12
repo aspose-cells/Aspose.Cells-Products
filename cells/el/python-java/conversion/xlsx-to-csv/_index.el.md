@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή XLSX σε CSV μέσω Python
-url: /el/python-java/conversion/xlsx-to-csv/
+
 description: Δείγμα κώδικα για μετατροπή xlsx σε csv Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία xlsx σε μετατροπή csv εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

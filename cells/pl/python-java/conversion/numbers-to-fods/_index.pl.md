@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj NUMBERS na FODS przez Python
-url: /pl/python-java/conversion/numbers-to-fods/
+
 description: Przykładowy kod konwersji liczb do fods Python. Użyj przykładowego kodu API dla plików numerów partii do konwersji fods w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

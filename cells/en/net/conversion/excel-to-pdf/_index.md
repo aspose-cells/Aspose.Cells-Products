@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to PDF via C#
-url: /net/conversion/excel-to-pdf/
+
 description: Convert EXCEL to PDF format in C# code. Save EXCEL as PDF using VB.NET, Asp.NET or any .NET based application.
 ---
 

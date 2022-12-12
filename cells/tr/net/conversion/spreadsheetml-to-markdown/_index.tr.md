@@ -1,6 +1,6 @@
-﻿---
+---
 title: SPREADSHEETML'yi C# aracılığıyla MARKDOWN'a dönüştürün
-url: /tr/net/conversion/spreadsheetml-to-markdown/
+
 description: C# dönüşümünü işaretlemek için e-tablo için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde dönüşümü işaretlemek için toplu elektronik tabloml dosyaları için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

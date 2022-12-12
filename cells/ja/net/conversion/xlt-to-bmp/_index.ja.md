@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してXLTをBMPに変換します
-url: /ja/net/conversion/xlt-to-bmp/
+
 description: xltからbmpC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチxltファイルからbmpへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

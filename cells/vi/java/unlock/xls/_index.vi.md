@@ -1,7 +1,7 @@
-﻿---
+---
 title: Mở khóa tài liệu XLS qua Java 
 weight: 6390
-url: /vi/java/unlock/xls/ 
+
 description: Java mã mẫu để mở khóa tệp XLS được bảo vệ bằng mật khẩu trên Java Môi trường thời gian chạy cho Ứng dụng JSP / JSF và Ứng dụng trên máy tính để bàn.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Merge ODS to XLSB Files via Python 
-url: /python-java/merger/merge-ods-to-xlsb/ 
+
 description: Merge ODS to XLSB file in Python code. Combine ODS to XLSB file using Python.
 ---
 

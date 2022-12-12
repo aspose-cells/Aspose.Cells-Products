@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla XLS'yi PDF'ye dönüştürün
-url: /tr/python-java/conversion/xls-to-pdf/
+
 description: xls'den pdf'ye Python dönüştürme için örnek kod. Python uygulamasında toplu xls dosyalarını pdf'ye dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

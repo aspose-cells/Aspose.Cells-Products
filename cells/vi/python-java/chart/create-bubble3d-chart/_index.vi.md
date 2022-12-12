@@ -1,6 +1,6 @@
-﻿---
+---
 title: Tạo Biểu đồ Bubble3D qua Python
-url: /vi/python-java/create-bubble3d-chart/
+
 description: Python Mã mẫu để tạo biểu đồ Bubble3D sang Excel bằng Python Thư viện. Sử dụng mã này để tạo biểu đồ Bubble3D cho MS Excel trong ứng dụng dựa trên Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

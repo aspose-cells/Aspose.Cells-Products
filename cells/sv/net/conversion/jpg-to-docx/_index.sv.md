@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera JPG till DOCX via C#
-url: /sv/net/conversion/jpg-to-docx/
+
 description: Exempelkod för konvertering från jpg till docx C#. Använd API exempelkod för batch-jpg-filer till docx-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

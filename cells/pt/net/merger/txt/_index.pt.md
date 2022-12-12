@@ -1,7 +1,7 @@
-﻿---
+---
 title: Mesclar arquivos TXT via .NET 
 weight: 7350
-url: /pt/net/merger/txt/ 
+
 description: C# código-fonte para combinar documentos TXT em plataformas .NET Framework, .NET Core, Mono ou Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

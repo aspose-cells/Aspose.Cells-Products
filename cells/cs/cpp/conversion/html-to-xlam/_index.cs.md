@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte HTML na XLAM pomocí aplikace C++ 
-url: /cs/cpp/conversion/html-to-xlam/ 
+
 description: Ukázka převodního kódu C++ pro dokument HTML na formát XLAM. Programátoři mohou použít tento zdrojový kód pro dávkový převod HTML na XLAM v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

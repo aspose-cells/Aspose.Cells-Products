@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLSX в MARKDOWN через Python
-url: /ru/python-java/conversion/xlsx-to-markdown/
+
 description: Пример кода для преобразования xlsx в уценку Python. Используйте пример кода API для пакетного преобразования файлов xlsx в уценку в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

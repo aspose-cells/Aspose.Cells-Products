@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to XPS via Python
-url: /python-net/conversion/xltx-to-xps/
+
 description: Sample code for xltx to xps Python conversion. Use API example code for batch xltx files to xps conversion within Python application.
 ---
 

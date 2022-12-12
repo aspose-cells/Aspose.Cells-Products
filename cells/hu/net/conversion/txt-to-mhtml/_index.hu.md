@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TXT konvertálása MHTML-re a következőn keresztül: C#"
-url: /hu/net/conversion/txt-to-mhtml/
+
 description: Mintakód a txt-ből mhtml-be C# konverzióhoz. Használjon API példakódot a kötegelt txt fájlok mhtml konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazásban.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

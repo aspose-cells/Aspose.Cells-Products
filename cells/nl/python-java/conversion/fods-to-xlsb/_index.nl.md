@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer FODS naar XLSB via Python
-url: /nl/python-java/conversion/fods-to-xlsb/
+
 description: Voorbeeldcode voor conversie van fods naar xlsb Python. Gebruik API voorbeeldcode voor batch-fods-bestanden naar xlsb-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

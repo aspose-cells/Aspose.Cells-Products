@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してTABDELIMITEDをDIFに変換します
-url: /ja/net/conversion/tabdelimited-to-dif/
+
 description: tabdelimitedからdifC#への変換のサンプルコード。バッチタブ区切りファイルのAPIサンプルコードを使用して、VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内で変換をdifします。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

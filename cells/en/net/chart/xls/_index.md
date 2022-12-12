@@ -1,7 +1,7 @@
 ---
 title:  XLS document chart to images via .NET 
 weight: 3210
-url: /net/chart/xls/ 
+
 description: C# source code to draw and convert chart or diagram in XLS file on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

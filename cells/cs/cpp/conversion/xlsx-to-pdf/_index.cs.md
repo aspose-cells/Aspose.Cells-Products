@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převeďte XLSX do PDF pomocí aplikace C++ 
 weight: 6790
-url: /cs/cpp/conversion/xlsx-to-pdf/ 
+
 description: Ukázkový konverzní kód C++ pro dokument XLSX do formátu PDF. Programátoři mohou použít tento zdrojový kód pro dávkový převod XLSX do PDF v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla XLT'yi MARKDOWN'a dönüştürün
-url: /tr/net/conversion/xlt-to-markdown/
+
 description: C# dönüşümünü azaltmak için xlt için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde dönüştürmeyi işaretlemek için toplu xlt dosyaları için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

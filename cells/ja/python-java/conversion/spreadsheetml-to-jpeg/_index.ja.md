@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してSPREADSHEETMLをJPEGに変換します
-url: /ja/python-java/conversion/spreadsheetml-to-jpeg/
+
 description: SpreadsheetmlからjpegPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチspreadsheetmlファイルからjpegへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

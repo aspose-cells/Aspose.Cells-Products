@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通過 .NET 解鎖 ODS 文檔 
 weight: 3110
-url: /zh-hant/net/unlock/ods/ 
+
 description: C# 用於在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上解鎖受密碼保護的 ODS 文件的源代碼。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

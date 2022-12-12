@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLS na FODS přes C#
-url: /cs/net/conversion/xls-to-fods/
+
 description: Ukázkový kód pro převod xls na fods C#. Použijte API ukázkový kód pro dávkový převod souborů xls na fods v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

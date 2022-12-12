@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to XLS via C#
-url: /net/conversion/html-to-xls/
+
 description: Convert HTML to XLS format in C# code. Save HTML as XLS using VB.NET, Asp.NET or any .NET based application.
 ---
 

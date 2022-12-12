@@ -1,6 +1,6 @@
-﻿---
+---
 title: FODS'u Python aracılığıyla BMP'ye dönüştürün
-url: /tr/python-java/conversion/fods-to-bmp/
+
 description: Yemlerin bmp Python dönüşümü için örnek kod. Python uygulamasında toplu dosya dosyaları için API örnek kodu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

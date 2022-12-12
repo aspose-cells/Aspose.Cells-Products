@@ -1,6 +1,6 @@
-﻿---
+---
 title: "EXCEL konvertálása WORD-ra a következőn keresztül: Python"
-url: /hu/python-java/conversion/excel-to-word/
+
 description: Mintakód az excelből szóvá Python konverzióhoz. Használjon API példakódot az Excel-fájlok kötegelt Word-vé konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

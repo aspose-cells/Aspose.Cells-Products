@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET के माध्यम से खोले बिना TXT दस्तावेज़ खोजें 
 weight: 8410
-url: /hi/net/search/txt/ 
+
 description: .NET Framework, .NET Core, Mono या Xamarin Platforms पर TXT फ़ाइल में पैटर्न वाले शब्दों को खोजने के लिए C# स्रोत कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

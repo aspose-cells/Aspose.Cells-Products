@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ एप्लिकेशन के माध्यम से CSV को XLSM में बदलें 
 weight: 6520
-url: /hi/cpp/conversion/csv-to-xlsm/ 
+
 description: नमूना C++ सीएसवी दस्तावेज़ के लिए एक्सएलएसएम प्रारूप में रूपांतरण कोड। प्रोग्रामर इस स्रोत कोड का उपयोग किसी भी C++ एप्लिकेशन में CSV से XLSM रूपांतरण के बैच के लिए कर सकते हैं।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

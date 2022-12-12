@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してXLSMをPDFに変換する
-url: /ja/python-java/conversion/xlsm-to-pdf/
+
 description: xlsmからpdfPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチxlsmファイルからpdfへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

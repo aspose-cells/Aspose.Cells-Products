@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Konvertálja az XLSB-t MARKDOWN-re a következőn keresztül: C#"
-url: /hu/net/conversion/xlsb-to-markdown/
+
 description: Mintakód az xlsb-hez a C# konverzióhoz. Használjon API példakódot kötegelt xlsb fájlokhoz a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazás konverziójának leértékeléséhez.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل الأرقام إلى SVG عبر C#
-url: /ar/net/conversion/numbers-to-svg/
+
 description: نموذج رمز للأرقام لتحويل svg C#. استخدم API رمز المثال لملفات أرقام الدُفعات لتحويل svg داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通過 C++ 的 XLSM 文檔圖表 
 weight: 8510
-url: /zh-hant/cpp/chart/xlsm/ 
+
 description: C++ 用於在 XLSM 文件中繪製和轉換圖表或圖表的示例代碼，適用於 C++ Windows 32 位、Windows 64 位和 Linux 64 位的運行時環境。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

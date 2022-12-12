@@ -1,6 +1,6 @@
-﻿---
+---
 title: Δημιουργία Αρχείων HTML μέσω C++ 
-url: /el/cpp/create-html/ 
+
 description: C++ Δείγμα κώδικα για τη δημιουργία αρχείων HTML. Χρησιμοποιήστε αυτόν τον κώδικα για τη δημιουργία αρχείων HTML εντός εφαρμογής που βασίζεται σε C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

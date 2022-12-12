@@ -1,6 +1,6 @@
 ---
 title: Convert XLTM to TXT via Python
-url: /python-java/conversion/xltm-to-txt/
+
 description: Convert XLTM to TXT format in Python code. Save XLTM as TXT using Python.
 ---
 

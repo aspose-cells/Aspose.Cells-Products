@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل XLS إلى XLSM عبر تطبيق C++ 
 weight: 7180
-url: /ar/cpp/conversion/xls-to-xlsm/ 
+
 description: نموذج C++ رمز التحويل لمستند XLS إلى تنسيق XLSM. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل XLS إلى XLSM دفعة داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: ODS konvertálása XPS-re a C++ alkalmazáson keresztül 
 weight: 1930
-url: /hu/cpp/conversion/ods-to-xps/ 
+
 description: Minta C++ konverziós kód az ODS dokumentumhoz XPS formátumba. A programozók ezt a forráskódot használhatják az ODS-ből XPS-be történő kötegelt konvertáláshoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

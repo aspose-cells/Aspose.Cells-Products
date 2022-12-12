@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή FODS σε XLS μέσω C#
-url: /el/net/conversion/fods-to-xls/
+
 description: Δείγμα κώδικα για μετατροπή fods σε xls C#. Χρησιμοποιήστε API παράδειγμα κώδικα για μετατροπή batch fods σε xls εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

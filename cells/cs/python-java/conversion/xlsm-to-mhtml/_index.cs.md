@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLSM na MHTML přes Python
-url: /cs/python-java/conversion/xlsm-to-mhtml/
+
 description: Ukázkový kód pro převod xlsm na mhtml Python. Použijte API ukázkový kód pro dávkový převod souborů xlsm na mhtml v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

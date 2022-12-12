@@ -1,7 +1,7 @@
-﻿---
+---
 title: عرض تنسيقات ملف XLSB عبر .NET 
 weight: 6260
-url: /ar/net/viewer/xlsb/ 
+
 description: C# شفرة المصدر لتحميل مستندات XLSB وعرضها وعرضها على الأنظمة الأساسية .NET Framework أو .NET Core أو Mono أو Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

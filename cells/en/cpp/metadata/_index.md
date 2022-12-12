@@ -1,6 +1,6 @@
 ---
 title: Manage Excel File Metadata via C++
-url: /cpp/metadata/
+
 description: View, add, edit, remove or extract Excel files metadata using C++ library
 ---
 

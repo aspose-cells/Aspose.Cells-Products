@@ -1,6 +1,6 @@
 ---
 title: Merge ODS to HTML Files via C# 
-url: /net/merger/merge-ods-to-html/ 
+
 description: Merge ODS to HTML file in C# code. Combine ODS to HTML file using VB.NET, Asp.NET or any .NET based application.
 ---
 

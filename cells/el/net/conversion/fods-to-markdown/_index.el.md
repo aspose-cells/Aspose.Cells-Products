@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή FODS σε MARKDOWN μέσω C#
-url: /el/net/conversion/fods-to-markdown/
+
 description: Δείγμα κωδικού για τροφές για μετατροπή C# σήμανσης. Χρησιμοποιήστε API παράδειγμα κώδικα για αρχεία batch fods για να μαρκάρετε τη μετατροπή εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

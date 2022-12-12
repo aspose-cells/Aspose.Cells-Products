@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ Programmation de feuille de calcul Excel API - Aspose 
 weight: 7140
-url: /fr/cpp/ 
+
 description: C++ Bibliothèque Excel pour lire, écrire et analyser des fichiers, y compris les formats XLS, XLSX, XLSM et XLSB. Convertir des feuilles de calcul en PDF, CSV et autres formats
 ---
 {{< blocks/products/pf/main-wrap-class >}}

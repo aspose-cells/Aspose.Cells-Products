@@ -1,6 +1,6 @@
-﻿---
+---
 title: "CSV konvertálása FODS-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/csv-to-fods/
+
 description: Mintakód a csv-ből fods-ba Python konverzióhoz. Használjon API példakódot a csv fájlok kötegelt konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование NUMBERS в DIF через Python
-url: /ru/python-java/conversion/numbers-to-dif/
+
 description: Пример кода для преобразования чисел в разность Python. Используйте пример кода API для файлов с номерами пакетов для преобразования различий в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

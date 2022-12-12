@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してCSVをEMFに変換する 
 weight: 4550
-url: /ja/java/conversion/csv-to-emf/ 
+
 description: CSV形式のEMFファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のEMFにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

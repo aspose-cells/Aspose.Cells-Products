@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter JSON para TSV por meio de C#
-url: /pt/net/conversion/json-to-tsv/
+
 description: Código de exemplo para conversão de json para tsv C#. Use API código de exemplo para arquivos json em lote para conversão tsv em VB.NET, Asp.NET ou qualquer aplicativo baseado em .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

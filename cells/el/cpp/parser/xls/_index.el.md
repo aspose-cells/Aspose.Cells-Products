@@ -1,7 +1,7 @@
-﻿---
+---
 title: Εξαγωγή κειμένου και εικόνων από έγγραφο XLS μέσω C++ 
 weight: 7610
-url: /el/cpp/parser/xls/ 
+
 description: C++ παράδειγμα κώδικα για εξαγωγή κειμένου και εικόνων από αρχείο XLS σε C++ Runtime Environment για Windows 32 bit, Windows 64 bit και Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

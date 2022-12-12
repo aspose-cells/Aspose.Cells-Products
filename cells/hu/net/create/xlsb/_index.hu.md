@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Hozzon létre MS Excel XLSB fájlokat a következőn keresztül: C# "
-url: /hu/net/create-xlsb/ 
+
 description: C# Mintakód XLSB dokumentumok generálásához. Ezzel a kóddal MS Excel XLSB fájlokat hozhat létre VB.NET, Asp.NET vagy bármely .NET alapú alkalmazásban.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

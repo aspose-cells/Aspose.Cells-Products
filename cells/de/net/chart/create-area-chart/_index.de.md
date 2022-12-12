@@ -1,6 +1,6 @@
-﻿---
+---
 title: Erstellen Sie Flächendiagramme über C#
-url: /de/net/create-area-chart/
+
 description: C# Beispielcode zum Erstellen von Flächendiagrammen in Excel mithilfe der .NET-Bibliothek. Verwenden Sie diesen Code zum Erstellen eines Flächendiagramms in MS Excel innerhalb von VB.NET, Asp.NET oder einer beliebigen .NET-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

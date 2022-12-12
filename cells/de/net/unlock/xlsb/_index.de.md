@@ -1,7 +1,7 @@
-﻿---
+---
 title: Entsperren Sie das XLSB-Dokument über .NET 
 weight: 6410
-url: /de/net/unlock/xlsb/ 
+
 description: C#-Quellcode zum Entsperren der passwortgeschützten XLSB-Datei auf .NET Framework-, .NET Core-, Mono- oder Xamarin-Plattformen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

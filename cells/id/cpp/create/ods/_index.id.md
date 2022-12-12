@@ -1,6 +1,6 @@
-﻿---
+---
 title: Buat File ODS (Openoffice / Lbreoffice) melalui C++ 
-url: /id/cpp/create-ods/ 
+
 description: C++ Contoh kode untuk membuat file ODS (Openoffice / Lbreoffice). Gunakan kode ini untuk membuat file ODS (Openoffice / Lbreoffice) dalam aplikasi berbasis C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

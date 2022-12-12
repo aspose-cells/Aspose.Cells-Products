@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل JSON إلى BMP عبر Java 
 weight: 910
-url: /ar/java/conversion/json-to-bmp/ 
+
 description: نموذج رمز تحويل Java لتنسيق JSON إلى ملف BMP. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى BMP داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

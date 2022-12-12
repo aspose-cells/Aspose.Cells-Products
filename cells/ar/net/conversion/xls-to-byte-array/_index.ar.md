@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل XLS إلى صفيف بايت عبر C# 
 weight: 7690
-url: /ar/net/conversion/xls-to-byte-array/ 
+
 description: C# نموذج كود لتحويل XLS إلى صفيف بايت. استخدم هذا الرمز لتحويل Excel XLS إلى صفيف البايت داخل VB .NET أو Asp .NET أو أي تطبيق يستند إلى .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

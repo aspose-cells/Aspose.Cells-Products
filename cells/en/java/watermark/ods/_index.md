@@ -1,7 +1,7 @@
 ---
 title: Watermark ODS document via Java 
 weight: 1040
-url: /java/watermark/ods/ 
+
 description: Java sample code to add or remove watermark to ODS file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

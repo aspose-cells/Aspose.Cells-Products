@@ -1,7 +1,7 @@
-﻿---
+---
 title: Μετατρέψτε το XLS σε XLSM μέσω της εφαρμογής C++ 
 weight: 7180
-url: /el/cpp/conversion/xls-to-xlsm/ 
+
 description: Δείγμα κώδικα μετατροπής C++ για έγγραφο XLS σε μορφή XLSM. Οι προγραμματιστές μπορούν να χρησιμοποιήσουν αυτόν τον πηγαίο κώδικα για ομαδική μετατροπή XLS σε XLSM σε οποιαδήποτε εφαρμογή C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

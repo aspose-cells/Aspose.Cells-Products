@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversikan XLTX ke TIFF melalui Java 
 weight: 4900
-url: /id/java/conversion/xltx-to-tiff/ 
+
 description: Contoh Java kode konversi untuk format XLTX ke file TIFF. Pemrogram dapat menggunakan kode contoh ini untuk mengekspor spreadsheet Excel & OpenOffice ke TIFF dalam Aplikasi berbasis Web atau Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

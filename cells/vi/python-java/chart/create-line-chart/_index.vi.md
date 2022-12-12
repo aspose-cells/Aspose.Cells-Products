@@ -1,6 +1,6 @@
-﻿---
+---
 title: Tạo Biểu đồ Đường qua Python
-url: /vi/python-java/create-line-chart/
+
 description: Python Mã mẫu để tạo Biểu đồ đường cho Excel bằng Python Thư viện. Sử dụng mã này để tạo Biểu đồ đường cho MS Excel trong ứng dụng dựa trên Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

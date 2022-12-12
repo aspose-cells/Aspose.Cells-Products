@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してEXCELをWORDに変換する
-url: /ja/net/conversion/excel-to-word/
+
 description: Excelから単語C#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチExcelファイルからWordへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

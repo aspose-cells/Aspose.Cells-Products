@@ -1,7 +1,7 @@
-﻿---
+---
 title: Chroń i blokuj dokument XLSB za pomocą C++ 
 weight: 4860
-url: /pl/cpp/protect/xlsb/ 
+
 description: C++ przykładowy kod do blokowania pliku XLSB przy użyciu hasła w C++ Runtime Environment dla Windows 32-bitowy, Windows 64-bitowy i Linux 64-bitowy.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

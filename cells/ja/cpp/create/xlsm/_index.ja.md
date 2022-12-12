@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++を介してMSExcelXLSMファイルを作成する 
-url: /ja/cpp/create-xlsm/ 
+
 description: C++ MSExcelXLSMファイルを生成するためのサンプルコード。このコードを使用して、C++ベースのアプリケーション内にMSExcelXLSMファイルを作成します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование NUMBERS в BMP через Python
-url: /ru/python-java/conversion/numbers-to-bmp/
+
 description: Пример кода для преобразования чисел в bmp Python. Используйте пример кода API для преобразования файлов номеров пакетов в bmp в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

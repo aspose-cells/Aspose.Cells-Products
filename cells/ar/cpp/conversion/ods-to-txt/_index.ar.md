@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل ODS إلى TXT عبر تطبيق C++ 
-url: /ar/cpp/conversion/ods-to-txt/ 
+
 description: نموذج C++ رمز تحويل لمستند ODS إلى تنسيق TXT. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل دفعة من ODS إلى TXT داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

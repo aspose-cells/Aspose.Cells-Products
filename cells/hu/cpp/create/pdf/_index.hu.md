@@ -1,6 +1,6 @@
-﻿---
+---
 title: "PDF-fájlok létrehozása a következőn keresztül: C++ "
-url: /hu/cpp/create-pdf/ 
+
 description: C++ Mintakód PDF-fájlok létrehozásához. Ezzel a kóddal PDF-fájlokat hozhat létre C++ alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

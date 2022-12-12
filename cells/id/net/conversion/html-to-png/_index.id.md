@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi HTML ke PNG melalui C#
-url: /id/net/conversion/html-to-png/
+
 description: Contoh kode untuk konversi html ke png C#. Gunakan API kode contoh untuk file batch html ke konversi png dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

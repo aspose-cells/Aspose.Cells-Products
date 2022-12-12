@@ -1,7 +1,7 @@
-﻿---
+---
 title: ODS konvertálása TIFF-re a(z) C++ alkalmazással 
 weight: 8450
-url: /hu/cpp/conversion/ods-to-tiff/ 
+
 description: Minta C++ konverziós kód az ODS-dokumentumhoz TIFF formátumba. A programozók ezt a forráskódot használhatják az ODS-ből TIFF-be kötegelt konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Kelola Metadata File Excel melalui C++
-url: /id/cpp/metadata/
+
 description: Lihat, tambahkan, edit, hapus, atau ekstrak metadata file Excel menggunakan C++ perpustakaan
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

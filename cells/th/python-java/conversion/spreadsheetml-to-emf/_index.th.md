@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง SPREADSHEETML เป็น EMF ผ่าน Python
-url: /th/python-java/conversion/spreadsheetml-to-emf/
+
 description: โค้ดตัวอย่างสำหรับการแปลงสเปรดชีตml เป็น emf Python ใช้โค้ดตัวอย่าง API สำหรับไฟล์แบทช์สเปรดชีตml เพื่อแปลง emf ภายในแอปพลิเคชัน Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

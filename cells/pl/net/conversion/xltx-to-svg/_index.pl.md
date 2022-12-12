@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj XLTX na SVG za pomocą C#
-url: /pl/net/conversion/xltx-to-svg/
+
 description: Przykładowy kod konwersji xltx do svg C#. Użyj przykładowego kodu API dla plików xltx wsadowych do konwersji SVG w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

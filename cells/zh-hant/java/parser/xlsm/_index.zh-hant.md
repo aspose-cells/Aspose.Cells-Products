@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通過 Java 從 XLSM 文檔中提取文本和圖像 
 weight: 3260
-url: /zh-hant/java/parser/xlsm/ 
+
 description: Java 示例代碼，用於從 Java JSP/JSF 應用程序和桌面應用程序的運行時環境中的 XLSM 文件中提取文本和圖像。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

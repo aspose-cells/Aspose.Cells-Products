@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera XLTX till DOCX via C#
-url: /sv/net/conversion/xltx-to-docx/
+
 description: Exempelkod för konvertering av xltx till docx C#. Använd API exempelkod för batch-xltx-filer till docx-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

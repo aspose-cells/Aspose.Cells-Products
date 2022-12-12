@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to PDF via Python
-url: /python-java/conversion/ods-to-pdf/
+
 description: Convert ODS to PDF format in Python code. Save ODS as PDF using Python.
 ---
 

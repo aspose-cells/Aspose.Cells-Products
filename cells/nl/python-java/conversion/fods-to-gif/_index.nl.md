@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer FODS naar GIF via Python
-url: /nl/python-java/conversion/fods-to-gif/
+
 description: Voorbeeldcode voor conversie van fods naar gif Python. Gebruik API voorbeeldcode voor batch-fods-bestanden naar gif-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

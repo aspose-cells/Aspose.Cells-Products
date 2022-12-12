@@ -1,7 +1,7 @@
 ---
 title: Merge ODS Files via Java 
 weight: 6270
-url: /java/merger/ods/ 
+
 description: Java sample code to combine ODS documents on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

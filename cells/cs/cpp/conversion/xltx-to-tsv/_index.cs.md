@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte XLTX na TSV pomocí aplikace C++ 
-url: /cs/cpp/conversion/xltx-to-tsv/ 
+
 description: Ukázkový konverzní kód C++ pro dokument XLTX do formátu TSV. Programátoři mohou použít tento zdrojový kód pro dávkovou konverzi XLTX na TSV v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

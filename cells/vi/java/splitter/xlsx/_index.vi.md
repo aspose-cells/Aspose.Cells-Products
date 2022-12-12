@@ -1,7 +1,7 @@
-﻿---
+---
 title: Tách tệp XLSX qua Java 
 weight: 3250
-url: /vi/java/splitter/xlsx/ 
+
 description: Java mã mẫu để tách tài liệu XLSX trên Java Môi trường thời gian chạy cho Ứng dụng JSP / JSF và Ứng dụng trên máy tính.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

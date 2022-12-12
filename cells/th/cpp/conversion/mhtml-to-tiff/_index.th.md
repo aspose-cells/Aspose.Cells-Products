@@ -1,7 +1,7 @@
-﻿---
+---
 title: แปลง MHTML เป็น TIFF ผ่าน C++ แอปพลิเคชัน 
 weight: 4830
-url: /th/cpp/conversion/mhtml-to-tiff/ 
+
 description: ตัวอย่างโค้ดการแปลง C++ สำหรับเอกสาร MHTML เป็นรูปแบบ TIFF โปรแกรมเมอร์สามารถใช้ซอร์สโค้ดนี้สำหรับการแปลง MHTML เป็น TIFF แบบแบตช์ภายในแอปพลิเคชัน C++ ใดๆ
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

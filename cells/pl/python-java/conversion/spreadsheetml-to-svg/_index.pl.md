@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj SPREADSHEETML na SVG za pomocą Python
-url: /pl/python-java/conversion/spreadsheetml-to-svg/
+
 description: Przykładowy kod konwersji arkusza kalkulacyjnego ml na svg Python. Użyj przykładowego kodu API dla wsadowych plików arkusza kalkulacyjnego w celu konwersji SVG w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

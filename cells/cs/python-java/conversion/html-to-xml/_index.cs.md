@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést HTML na XML prostřednictvím Python
-url: /cs/python-java/conversion/html-to-xml/
+
 description: Ukázkový kód pro konverzi html na xml Python. Použijte API ukázkový kód pro dávkový převod html souborů na xml v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

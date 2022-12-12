@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter FODS para SVG via Python
-url: /pt/python-java/conversion/fods-to-svg/
+
 description: Código de exemplo para conversão de fods para svg Python. Use o código de exemplo API para arquivos fods em lote para conversão svg no aplicativo Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

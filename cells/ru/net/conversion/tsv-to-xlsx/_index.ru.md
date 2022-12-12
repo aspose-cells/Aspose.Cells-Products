@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование TSV в XLSX через C#
-url: /ru/net/conversion/tsv-to-xlsx/
+
 description: Пример кода для преобразования tsv в xlsx C#. Используйте пример кода API для пакетного преобразования файлов tsv в xlsx в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

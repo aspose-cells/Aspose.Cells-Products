@@ -1,7 +1,7 @@
-﻿---
+---
 title: حماية وقفل مستند XLSB عبر Java 
 weight: 6590
-url: /ar/java/protect/xlsb/ 
+
 description: Java نموذج رمز لقفل ملف XLSB باستخدام كلمة مرور في Java Runtime Environment for JSP / JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

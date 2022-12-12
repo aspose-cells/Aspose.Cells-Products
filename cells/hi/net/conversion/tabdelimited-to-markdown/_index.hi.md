@@ -1,6 +1,6 @@
-﻿---
+---
 title: TABDELIMITED को C# के ज़रिए मार्कडाउन में बदलें
-url: /hi/net/conversion/tabdelimited-to-markdown/
+
 description: टैब सीमित के लिए मार्कडाउन C# रूपांतरण के लिए नमूना कोड। VB.NET, Asp.NET या किसी .NET आधारित एप्लिकेशन के भीतर रूपांतरण को चिह्नित करने के लिए बैच टैबसीमांकित फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

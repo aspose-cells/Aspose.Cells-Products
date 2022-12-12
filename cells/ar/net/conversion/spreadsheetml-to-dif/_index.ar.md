@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل SPREADSHEETML إلى DIF عبر C#
-url: /ar/net/conversion/spreadsheetml-to-dif/
+
 description: نموذج كود لجدول بيانات لتحويل C#. استخدم API رمز المثال لملفات جداول البيانات الدفعية من أجل تمييز التحويل داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

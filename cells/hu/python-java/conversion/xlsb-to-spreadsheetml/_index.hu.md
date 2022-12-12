@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Konvertálja az XLSB-t SPREADSHEETML-be a következőn keresztül: Python"
-url: /hu/python-java/conversion/xlsb-to-spreadsheetml/
+
 description: Mintakód az xlsb-ből táblázattáblázatba Python konverzióhoz. Használjon API példakódot kötegelt xlsb fájlokhoz a Python alkalmazáson belüli táblázatkezelő konverzióhoz.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

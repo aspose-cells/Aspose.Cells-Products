@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLT konvertálása XPS-re a következőn keresztül: Java "
 weight: 7470
-url: /hu/java/conversion/xlt-to-xps/ 
+
 description: Minta Java konverziós kód az XLT formátumhoz XPS fájllá. A programozók ezt a példakódot használhatják Excel és OpenOffice táblázatok XPS-re történő exportálására bármely web- vagy asztali Java alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

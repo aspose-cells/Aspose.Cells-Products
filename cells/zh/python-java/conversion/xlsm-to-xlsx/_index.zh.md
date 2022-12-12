@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 Python 将 XLSM 转换为 XLSX
-url: /zh/python-java/conversion/xlsm-to-xlsx/
+
 description: xlsm 到 xlsx Python 转换的示例代码。在 Python 应用程序中使用 API 示例代码将 xlsm 文件批量转换为 xlsx。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή XLS σε XLAM μέσω C#
-url: /el/net/conversion/xls-to-xlam/
+
 description: Δείγμα κώδικα για μετατροπή xls σε xlam C#. Χρησιμοποιήστε API παράδειγμα κώδικα για μαζική μετατροπή αρχείων xls σε xlam εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 C# 将 ODS 转换为 XLTX
-url: /zh/net/conversion/ods-to-xltx/
+
 description: ods 到 xltx C# 转换的示例代码。使用 API 示例代码在 VB.NET、Asp.NET 或任何基于 .NET 的应用程序中将 ods 文件批量转换为 xltx。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

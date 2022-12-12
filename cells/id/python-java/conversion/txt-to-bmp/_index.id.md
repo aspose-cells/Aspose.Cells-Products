@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan TXT ke BMP melalui Python
-url: /id/python-java/conversion/txt-to-bmp/
+
 description: Contoh kode untuk konversi txt ke bmp Python. Gunakan API kode contoh untuk file batch txt ke konversi bmp dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

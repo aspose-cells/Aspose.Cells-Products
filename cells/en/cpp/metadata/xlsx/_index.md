@@ -1,7 +1,7 @@
 ---
 title: Edit or View XLSX Document Metadata via C++ 
 weight: 8970
-url: /cpp/metadata/xlsx/ 
+
 description: C++ example code to edit or view XLSX file metadata on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
 

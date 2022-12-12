@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést FODS na CSV prostřednictvím C#
-url: /cs/net/conversion/fods-to-csv/
+
 description: Ukázkový kód pro konverzi fod na csv C#. Použijte API ukázkový kód pro dávkové převody fods souborů na csv v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

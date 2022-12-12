@@ -1,7 +1,7 @@
-﻿---
+---
 title: Watermerk XLS-document via Java 
 weight: 2210
-url: /nl/java/watermark/xls/ 
+
 description: Java voorbeeldcode om watermerk toe te voegen aan of te verwijderen van XLS-bestand in Java Runtime Environment voor JSP/JSF-applicaties en desktopapplicaties.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

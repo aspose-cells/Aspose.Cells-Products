@@ -1,6 +1,6 @@
 ---
 title: Merge HTML to XLS Files via Python 
-url: /python-net/merger/merge-html-to-xls/ 
+
 description: Merge HTML to XLS file in Python code. Combine HTML to XLS file using Python.
 ---
 

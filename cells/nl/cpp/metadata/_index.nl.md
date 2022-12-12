@@ -1,6 +1,6 @@
-﻿---
+---
 title: Beheer Excel-bestandsmetagegevens via C++
-url: /nl/cpp/metadata/
+
 description: Metadata van Excel-bestanden bekijken, toevoegen, bewerken, verwijderen of extraheren met behulp van C++ bibliotheek
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

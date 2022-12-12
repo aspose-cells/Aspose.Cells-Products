@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLTX-et TIFF-re a(z) C++ alkalmazással 
-url: /hu/cpp/conversion/xltx-to-tiff/ 
+
 description: Minta C++ konverziós kód XLTX dokumentumhoz TIFF formátumba. A programozók ezt a forráskódot használhatják a kötegelt XLTX-TIFF konvertáláshoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

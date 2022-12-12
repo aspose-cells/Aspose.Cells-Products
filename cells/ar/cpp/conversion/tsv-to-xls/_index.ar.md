@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل TSV إلى XLS عبر تطبيق C++ 
 weight: 630
-url: /ar/cpp/conversion/tsv-to-xls/ 
+
 description: نموذج رمز تحويل C++ لمستند TSV إلى تنسيق XLS. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل TSV إلى XLS دفعة داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

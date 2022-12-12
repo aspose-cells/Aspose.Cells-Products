@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLTX Dosyalarını .NET ile Birleştir 
 weight: 1220
-url: /tr/net/merger/xltx/ 
+
 description: XLTX belgelerini .NET Framework, .NET Core, Mono veya Xamarin Platformlarında birleştirmek için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

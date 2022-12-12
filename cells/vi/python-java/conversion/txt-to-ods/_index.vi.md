@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi TXT sang ODS qua Python
-url: /vi/python-java/conversion/txt-to-ods/
+
 description: Mã mẫu cho chuyển đổi txt sang ods Python. Sử dụng mã mẫu API cho các tệp txt hàng loạt để chuyển đổi ods trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

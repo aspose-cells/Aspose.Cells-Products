@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan XLSX ke TSV melalui Python
-url: /id/python-java/conversion/xlsx-to-tsv/
+
 description: Contoh kode untuk konversi xlsx ke tsv Python. Gunakan API kode contoh untuk file batch xlsx ke konversi tsv dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

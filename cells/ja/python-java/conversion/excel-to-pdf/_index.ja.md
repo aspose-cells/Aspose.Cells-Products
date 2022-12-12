@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してEXCELをPDFに変換する
-url: /ja/python-java/conversion/excel-to-pdf/
+
 description: ExcelからPDFPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチExcelファイルからPDFへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

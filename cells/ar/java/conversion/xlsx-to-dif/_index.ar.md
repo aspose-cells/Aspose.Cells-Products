@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل XLSX إلى DIF عبر Java 
 weight: 5300
-url: /ar/java/conversion/xlsx-to-dif/ 
+
 description: نموذج Java رمز تحويل لتنسيق XLSX إلى ملف DIF. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى DIF داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

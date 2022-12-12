@@ -1,6 +1,6 @@
-﻿---
+---
 title: Beheer Excel-bestandsmetagegevens via .NET C#
-url: /nl/net/metadata/
+
 description: Metadata van Excel-bestanden bekijken, toevoegen, bewerken, verwijderen of extraheren met slechts enkele regels C#-code
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

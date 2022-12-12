@@ -1,7 +1,7 @@
-﻿---
+---
 title: Protégez et verrouillez le document XLSB via .NET 
 weight: 5920
-url: /fr/net/protect/xlsb/ 
+
 description: Code source C# pour verrouiller le fichier XLSB à l'aide d'un mot de passe sur .NET Framework, .NET Core, Mono ou Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

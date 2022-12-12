@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển NUMBERS sang PDF qua C#
-url: /vi/net/conversion/numbers-to-pdf/
+
 description: Mã mẫu cho chuyển đổi số sang pdf C#. Sử dụng API mã ví dụ cho các tệp số lô sang chuyển đổi pdf trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

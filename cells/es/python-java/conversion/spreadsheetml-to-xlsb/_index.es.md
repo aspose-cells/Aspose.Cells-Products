@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta SPREADSHEETML a XLSB a través de Python
-url: /es/python-java/conversion/spreadsheetml-to-xlsb/
+
 description: Código de muestra para la conversión de hoja de cálculo a xlsb Python. Utilice el código de ejemplo API para la conversión de archivos de hojas de cálculo por lotes a xlsb dentro de la aplicación Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta XLTM a JSON a través de la aplicación C++ 
-url: /es/cpp/conversion/xltm-to-json/ 
+
 description: Ejemplo de código de conversión C++ para documento XLTM a formato JSON. Los programadores pueden usar este código fuente para la conversión por lotes de XLTM a JSON dentro de cualquier aplicación C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

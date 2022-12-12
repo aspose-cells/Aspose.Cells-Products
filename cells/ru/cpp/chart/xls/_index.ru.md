@@ -1,7 +1,7 @@
-﻿---
+---
 title: Диаграмма документа XLS через C++ 
 weight: 2500
-url: /ru/cpp/chart/xls/ 
+
 description: Пример кода C++ для рисования и преобразования диаграммы или диаграммы в файл XLS в C++ среде выполнения для 32-разрядной, 64-разрядной и Linux 64-разрядной версии.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

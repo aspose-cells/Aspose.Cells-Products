@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie XLSM in XLSX über die Anwendung C++ 
-url: /de/cpp/conversion/xlsm-to-xlsx/ 
+
 description: Beispiel-Umwandlungscode C++ für das XLSM-Dokument in das XLSX-Format. Programmierer können diesen Quellcode für die Batch-Konvertierung von XLSM in XLSX in jeder C++-Anwendung verwenden.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

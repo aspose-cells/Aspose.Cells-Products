@@ -1,6 +1,6 @@
-﻿---
+---
 title: एमएचटीएमएल को बीएमपी में बदलने के लिए C#
-url: /hi/net/conversion/mhtml-to-bmp/
+
 description: mhtml से bmp C# रूपांतरण के लिए नमूना कोड। वीबी.NET, एएसपी.NET या किसी भी .NET आधारित एप्लिकेशन के भीतर बीएमपी रूपांतरण के लिए बैच एमएचटीएमएल फाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

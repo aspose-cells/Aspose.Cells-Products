@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi TABDELIMITED thành XPS qua ứng dụng C++ 
-url: /vi/cpp/conversion/tabdelimited-to-xps/ 
+
 description: Mã chuyển đổi C++ mẫu cho tài liệu TABDELIMITED sang định dạng XPS. Lập trình viên có thể sử dụng mã nguồn này để chuyển đổi hàng loạt TABDELIMITED sang XPS trong bất kỳ Ứng dụng C++ nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

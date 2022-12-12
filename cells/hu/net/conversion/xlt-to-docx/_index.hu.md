@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLT konvertálása DOCX-re a következőn keresztül: C#"
-url: /hu/net/conversion/xlt-to-docx/
+
 description: Mintakód az xlt–docx C# konverzióhoz. Használjon API példakódot kötegelt xlt fájlok docx konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

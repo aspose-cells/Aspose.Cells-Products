@@ -1,7 +1,7 @@
-﻿---
+---
 title: Generovat sestavy v souborech XLSM prostřednictvím .NET 
 weight: 4400
-url: /cs/net/assembly/xlsm/ 
+
 description: C# zdrojový kód pro generování sestav ve formátu XLSM na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

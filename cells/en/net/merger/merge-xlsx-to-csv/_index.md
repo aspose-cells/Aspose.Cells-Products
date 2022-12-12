@@ -1,6 +1,6 @@
 ---
 title: Merge XLSX to CSV Files via C# 
-url: /net/merger/merge-xlsx-to-csv/ 
+
 description: Merge XLSX to CSV file in C# code. Combine XLSX to CSV file using VB.NET, Asp.NET or any .NET based application.
 ---
 

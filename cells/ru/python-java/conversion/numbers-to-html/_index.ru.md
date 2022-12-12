@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование NUMBERS в HTML с помощью Python
-url: /ru/python-java/conversion/numbers-to-html/
+
 description: Пример кода для преобразования чисел в HTML Python. Используйте пример кода API для преобразования файлов номеров пакетов в html в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

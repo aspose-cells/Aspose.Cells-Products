@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してXLSをPNGに変換する 
 weight: 8630
-url: /ja/java/conversion/xls-to-png/ 
+
 description: XLS形式からPNGファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、WebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをPNGにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Edytuj pliki TXT za pomocą .NET 
-url: /pl/net/editor/txt/ 
+
 description: C# kod źródłowy do edycji dokumentu TXT w .NET Framework, .NET Core, Windows Azure, Mono lub Xamarin Platform.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to JSON via C#
-url: /net/conversion/csv-to-json/
+
 description: Convert CSV to JSON format in C# code. Save CSV as JSON using VB.NET, Asp.NET or any .NET based application.
 ---
 

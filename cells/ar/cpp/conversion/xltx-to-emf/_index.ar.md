@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLTX إلى EMF عبر تطبيق C++ 
-url: /ar/cpp/conversion/xltx-to-emf/ 
+
 description: نموذج رمز تحويل C++ لمستند XLTX إلى تنسيق EMF. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل XLTX دفعة واحدة إلى EMF داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

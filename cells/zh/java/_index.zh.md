@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java Excel API - Aspose 
 weight: 6830
-url: /zh/java/ 
+
 description: Java 用于电子表格处理的 Excel 库。读写渲染和转换 XLS XLSX XLSM ODS CSV TSV 和更多格式。兼容 Windows Linux 和 Unix
 ---
 {{< blocks/products/pf/main-wrap-class >}}

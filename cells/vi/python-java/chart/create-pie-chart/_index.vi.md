@@ -1,6 +1,6 @@
-﻿---
+---
 title: Tạo Biểu đồ Hình tròn qua Python
-url: /vi/python-java/create-pie-chart/
+
 description: Python Mã mẫu để tạo biểu đồ Hình tròn cho Excel bằng Python Thư viện. Sử dụng mã này để tạo Biểu đồ tròn cho MS Excel trong ứng dụng dựa trên Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

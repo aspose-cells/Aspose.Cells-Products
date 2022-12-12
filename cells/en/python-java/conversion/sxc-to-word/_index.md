@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to WORD via Python
-url: /python-java/conversion/sxc-to-word/
+
 description: Convert SXC to WORD format in Python code. Save SXC as WORD using Python.
 ---
 

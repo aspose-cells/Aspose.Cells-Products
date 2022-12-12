@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل EXCEL إلى POWERPOINT عبر Python
-url: /ar/python-java/conversion/excel-to-powerpoint/
+
 description: نموذج كود للتحويل من Excel إلى powerpoint Python. استخدم API رمز المثال لملفات Excel الدفعية لتحويل powerpoint داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

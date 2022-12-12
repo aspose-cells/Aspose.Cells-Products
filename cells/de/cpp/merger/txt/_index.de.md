@@ -1,6 +1,6 @@
-﻿---
+---
 title: TXT-Dateien über C++ zusammenführen 
-url: /de/cpp/merger/txt/ 
+
 description: C++ Beispielcode zum Kombinieren von TXT-Dokumenten in C++ Runtime Environment für Windows 32 Bit, Windows 64 Bit und Linux 64 Bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

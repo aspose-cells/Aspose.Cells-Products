@@ -1,6 +1,6 @@
 ---
 title: Create MS Excel XLT Files via Python 
-url: /python-net/create-xlt/ 
+
 description: Python Sample code for generating XLT documents. Use this code for creating MS Excel XLT files within Python application.
 ---
 

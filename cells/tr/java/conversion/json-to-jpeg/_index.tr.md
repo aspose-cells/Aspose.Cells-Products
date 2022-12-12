@@ -1,7 +1,7 @@
-﻿---
+---
 title: JSON'u Java aracılığıyla JPEG'e dönüştürün 
 weight: 5990
-url: /tr/java/conversion/json-to-jpeg/ 
+
 description: JSON formatı için JPEG dosyasına örnek Java dönüştürme kodu. Programcılar, Excel ve OpenOffice elektronik tablolarını herhangi bir Web veya Masaüstü Java tabanlı Uygulamada JPEG'e aktarmak için bu örnek kodu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

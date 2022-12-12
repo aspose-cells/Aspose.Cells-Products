@@ -1,6 +1,6 @@
-﻿---
+---
 title: Generovat soubory Excel prostřednictvím C#
-url: /cs/net/assembly/
+
 description: Vygenerujte tabulky Microsoft Excel ze šablony pomocí kódu C#
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

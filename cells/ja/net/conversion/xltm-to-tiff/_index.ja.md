@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してXLTMをTIFFに変換します
-url: /ja/net/conversion/xltm-to-tiff/
+
 description: xltmからtiffC#への変換のサンプルコード。バッチxltmファイルのAPIサンプルコードを使用して、VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内で変換をtiffします。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

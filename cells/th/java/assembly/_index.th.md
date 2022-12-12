@@ -1,6 +1,6 @@
-﻿---
+---
 title: สร้างไฟล์ Excel ผ่าน Java
-url: /th/java/assembly/
+
 description: สร้างสเปรดชีต Microsoft Excel จากแผ่นเทมเพลตโดยใช้ Java ไลบรารีสเปรดชีต
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

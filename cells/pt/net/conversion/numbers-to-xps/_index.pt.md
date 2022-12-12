@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter NUMBERS para XPS via C#
-url: /pt/net/conversion/numbers-to-xps/
+
 description: Código de exemplo para conversão de números para xps C#. Use API código de exemplo para arquivos de números de lote para conversão de xps em VB.NET, Asp.NET ou qualquer aplicativo baseado em .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Vytvářejte soubory ODS (Openoffice / Lbreoffice) prostřednictvím Java 
-url: /cs/java/create-ods/ 
+
 description: Java Ukázkový kód pro generování dokumentů ODS. Tento kód použijte k vytváření souborů ODS (Openoffice / Lbreoffice) v desktopové nebo webové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

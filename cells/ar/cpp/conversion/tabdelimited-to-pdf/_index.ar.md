@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TABDELIMITED إلى PDF عبر تطبيق C++ 
-url: /ar/cpp/conversion/tabdelimited-to-pdf/ 
+
 description: نموذج C++ رمز تحويل لمستند TABDELIMITED إلى تنسيق PDF. يمكن للمبرمجين استخدام رمز المصدر هذا للتحويل الدفعي من TABDELIMITED إلى PDF داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

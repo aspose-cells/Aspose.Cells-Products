@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل HTML إلى JPG عبر تطبيق C++ 
-url: /ar/cpp/conversion/html-to-jpg/ 
+
 description: نموذج C++ رمز التحويل لمستند HTML إلى تنسيق JPG. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل دفعة HTML إلى JPG داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

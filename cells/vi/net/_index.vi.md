@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET Excel API | Xử lý các định dạng bảng tính qua .NET Core 
 weight: 2030
-url: /vi/net/ 
+
 description: Thư viện C# ASP .NET VB .NET để làm việc với các tài liệu Microsoft Excel. Tạo đọc ghi lưu và in các tệp Bảng tính. Chuyển đổi sang PDF hoặc nhiều định dạng hơn
 ---
 {{< blocks/products/pf/main-wrap-class >}}

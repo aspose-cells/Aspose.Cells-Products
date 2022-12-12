@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLSB na TIFF přes Python
-url: /cs/python-java/conversion/xlsb-to-tiff/
+
 description: Ukázkový kód pro převod xlsb na tiff Python. Použijte API ukázkový kód pro dávkové xlsb soubory pro převod tiff v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

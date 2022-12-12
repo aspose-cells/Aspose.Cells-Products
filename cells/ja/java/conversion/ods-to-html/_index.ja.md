@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してODSをHTMLに変換する 
 weight: 1560
-url: /ja/java/conversion/ods-to-html/ 
+
 description: ODS形式からHTMLファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、任意のWebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをHTMLにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

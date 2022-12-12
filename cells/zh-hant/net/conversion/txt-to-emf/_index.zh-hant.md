@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 C# 將 TXT 轉換為 EMF
-url: /zh-hant/net/conversion/txt-to-emf/
+
 description: txt 到 emf C# 轉換的示例代碼。使用 API 示例代碼在 VB.NET、Asp.NET 或任何基於 .NET 的應用程序中將批處理 txt 文件轉換為 emf。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

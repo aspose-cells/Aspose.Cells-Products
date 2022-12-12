@@ -1,6 +1,6 @@
-﻿---
+---
 title: สร้างแผนภูมิฟองผ่าน Python
-url: /th/python-java/create-bubble-chart/
+
 description: Python โค้ดตัวอย่างสำหรับสร้างแผนภูมิฟองใน Excel โดยใช้ Python ไลบรารี ใช้รหัสนี้เพื่อสร้างแผนภูมิฟองใน MS Excel ภายในแอปพลิเคชันที่ใช้ Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

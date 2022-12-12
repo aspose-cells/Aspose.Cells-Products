@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to EMF via C#
-url: /net/conversion/xltx-to-emf/
+
 description: Convert XLTX to EMF format in C# code. Save XLTX as EMF using VB.NET, Asp.NET or any .NET based application.
 ---
 

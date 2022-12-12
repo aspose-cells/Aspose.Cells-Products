@@ -1,7 +1,7 @@
-﻿---
+---
 title: "TSV konvertálása XPS-re a következőn keresztül: Java "
 weight: 7210
-url: /hu/java/conversion/tsv-to-xps/ 
+
 description: Minta Java konverziós kód a TSV-formátumhoz XPS-fájllá. A programozók ezt a példakódot használhatják Excel és OpenOffice táblázatok XPS-re történő exportálására bármely web- vagy asztali Java alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

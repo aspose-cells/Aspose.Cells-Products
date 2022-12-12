@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer XLS naar ODS via C++ applicatie 
 weight: 1160
-url: /nl/cpp/conversion/xls-to-ods/ 
+
 description: Voorbeeld C++ conversiecode voor XLS-document naar ODS-indeling. Programmeurs kunnen deze broncode gebruiken voor batch-conversie van XLS naar ODS binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

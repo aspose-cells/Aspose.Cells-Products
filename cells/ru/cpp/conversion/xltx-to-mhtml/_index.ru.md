@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLTX в MHTML с помощью приложения C++ 
-url: /ru/cpp/conversion/xltx-to-mhtml/ 
+
 description: Пример кода преобразования C++ для документа XLTX в формат MHTML. Программисты могут использовать этот исходный код для пакетного преобразования XLTX в MHTML в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

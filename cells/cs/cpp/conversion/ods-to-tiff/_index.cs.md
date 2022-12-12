@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převeďte ODS na TIFF pomocí aplikace C++ 
 weight: 8450
-url: /cs/cpp/conversion/ods-to-tiff/ 
+
 description: Ukázka převodního kódu C++ pro dokument ODS na formát TIFF. Programátoři mohou tento zdrojový kód použít pro dávkovou konverzi ODS na TIFF v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

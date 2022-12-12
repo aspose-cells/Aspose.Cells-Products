@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 Java 创建 MS Excel XLSB 文件 
-url: /zh/java/create-xlsb/ 
+
 description: Java 用于生成 XLSB 文档的示例代码。使用此代码在基于 Java 的桌面或 Web 应用程序中创建 MS Excel XLSB 文件。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介して開かずにXLSMドキュメントを検索する 
 weight: 6780
-url: /ja/java/search/xlsm/ 
+
 description: JSP/JSFアプリケーションおよびデスクトップアプリケーションのJavaランタイム環境でXLSMファイル内のパターンを持つ単語を検索するためのJavaサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

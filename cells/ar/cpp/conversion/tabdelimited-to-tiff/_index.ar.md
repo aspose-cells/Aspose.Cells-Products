@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TABDELIMITED إلى TIFF عبر تطبيق C++ 
-url: /ar/cpp/conversion/tabdelimited-to-tiff/ 
+
 description: نموذج رمز تحويل C++ لمستند TABDELIMITED إلى تنسيق TIFF. يمكن للمبرمجين استخدام رمز المصدر هذا للتحويل الدفعي من TABDELIMITED إلى TIFF داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

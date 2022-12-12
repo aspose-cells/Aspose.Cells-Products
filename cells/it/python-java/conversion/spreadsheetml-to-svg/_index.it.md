@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converti SPREADSHEETML in SVG tramite Python
-url: /it/python-java/conversion/spreadsheetml-to-svg/
+
 description: Codice di esempio per la conversione da foglio di calcoloml a svg Python. Usa il codice di esempio API per la conversione batch di file da fogli di lavoro ml in svg all'interno dell'applicazione Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

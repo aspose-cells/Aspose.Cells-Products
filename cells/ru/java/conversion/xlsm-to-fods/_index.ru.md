@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLSM в FODS через Java 
-url: /ru/java/conversion/xlsm-to-fods/ 
+
 description: Пример кода преобразования Java для формата XLSM в файл FODS. Программисты могут использовать этот пример кода для экспорта электронных таблиц Excel и OpenOffice в FODS в любом веб-или настольном Java приложении.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

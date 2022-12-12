@@ -1,7 +1,7 @@
-﻿---
+---
 title: Documento filigrana XLSB tramite .NET 
 weight: 5410
-url: /it/net/watermark/xlsb/ 
+
 description: C# codice sorgente per aggiungere o rimuovere filigrana al file XLSB su piattaforme .NET Framework, .NET Core, Mono o Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

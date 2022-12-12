@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование TXT в MARKDOWN через Python
-url: /ru/python-java/conversion/txt-to-markdown/
+
 description: Пример кода для преобразования txt в уценку Python. Используйте пример кода API для пакетного преобразования файлов txt в уценку в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir des NUMBERS en ODS via Python
-url: /fr/python-java/conversion/numbers-to-ods/
+
 description: Exemple de code pour la conversion des nombres en cotes Python. Utilisez l'exemple de code API pour la conversion des fichiers de numéros de lot en ods dans l'application Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

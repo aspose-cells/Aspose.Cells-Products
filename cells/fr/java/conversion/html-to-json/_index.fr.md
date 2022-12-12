@@ -1,7 +1,7 @@
-﻿---
+---
 title: Convertir HTML en JSON via Java 
 weight: 9560
-url: /fr/java/conversion/html-to-json/ 
+
 description: Exemple de code de conversion Java pour le format HTML vers un fichier JSON. Les programmeurs peuvent utiliser cet exemple de code pour exporter des feuilles de calcul Excel et OpenOffice vers JSON dans n'importe quelle application Web ou de bureau Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TXT konvertálása MARKDOWN-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/txt-to-markdown/
+
 description: Mintakód a txt-ből a Python konverzióhoz. Használjon API példakódot a kötegelt txt fájlokhoz a Python alkalmazáson belüli leértékeléshez.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

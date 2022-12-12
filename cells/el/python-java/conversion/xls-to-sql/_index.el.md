@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή XLS σε SQL μέσω Python
-url: /el/python-java/conversion/xls-to-sql/
+
 description: Δείγμα κώδικα για μετατροπή xls σε sql Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδική μετατροπή αρχείων xls σε sql εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

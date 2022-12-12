@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to TABDELIMITED via Python
-url: /python-java/conversion/numbers-to-tabdelimited/
+
 description: Convert NUMBERS to TABDELIMITED format in Python code. Save NUMBERS as TABDELIMITED using Python.
 ---
 

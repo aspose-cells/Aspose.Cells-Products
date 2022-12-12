@@ -1,7 +1,7 @@
-﻿---
+---
 title: Εξαγωγή αναφορών RDL στο Excel XLS XLSX και SpreadsheetML στον SQL Server 
 weight: 3460
-url: /el/reporting-services/ 
+
 description: Επέκταση απόδοσης υπηρεσιών αναφοράς SQL Server - Εξαγωγή Excel XLS XLSX XLSM XLSB CSV Υπολογιστικό φύλλοML HTML ODS και μορφές TXT
 ---
 {{< blocks/products/pf/main-wrap-class >}}

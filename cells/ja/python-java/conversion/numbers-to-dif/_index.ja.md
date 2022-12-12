@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してNUMBERSをDIFに変換します
-url: /ja/python-java/conversion/numbers-to-dif/
+
 description: 数値からdifPythonへの変換のサンプルコード。 Pythonアプリケーション内で変換を行うためのバッチ番号ファイルのAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

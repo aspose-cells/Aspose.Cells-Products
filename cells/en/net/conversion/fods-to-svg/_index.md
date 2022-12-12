@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to SVG via C#
-url: /net/conversion/fods-to-svg/
+
 description: Convert FODS to SVG format in C# code. Save FODS as SVG using VB.NET, Asp.NET or any .NET based application.
 ---
 

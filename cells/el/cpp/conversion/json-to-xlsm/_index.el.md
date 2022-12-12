@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή JSON σε XLSM μέσω της εφαρμογής C++ 
-url: /el/cpp/conversion/json-to-xlsm/ 
+
 description: Δείγμα κώδικα μετατροπής C++ για έγγραφο JSON σε μορφή XLSM. Οι προγραμματιστές μπορούν να χρησιμοποιήσουν αυτόν τον πηγαίο κώδικα για μαζική μετατροπή JSON σε XLSM σε οποιαδήποτε εφαρμογή C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

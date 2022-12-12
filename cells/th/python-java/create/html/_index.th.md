@@ -1,6 +1,6 @@
-﻿---
+---
 title: สร้างไฟล์ HTML ผ่าน Python 
-url: /th/python-java/create-html/ 
+
 description: Python โค้ดตัวอย่างสำหรับสร้างเอกสาร HTML ใช้รหัสนี้เพื่อสร้างไฟล์ HTML ภายในแอปพลิเคชัน Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

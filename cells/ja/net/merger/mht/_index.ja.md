@@ -1,6 +1,6 @@
-﻿---
+---
 title: .NETを介してMHTファイルをマージ 
-url: /ja/net/merger/mht/ 
+
 description: オンプレミスメッセージマージAPIを試して、.NETフレームワーク、.NETコア、およびXamarinプラットフォームでMHTドキュメントを結合します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

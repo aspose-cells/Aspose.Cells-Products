@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi ODS sang XML qua Python
-url: /vi/python-java/conversion/ods-to-xml/
+
 description: Mã mẫu cho chuyển đổi ods sang xml Python. Sử dụng mã mẫu API cho các tệp ods hàng loạt sang chuyển đổi xml trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

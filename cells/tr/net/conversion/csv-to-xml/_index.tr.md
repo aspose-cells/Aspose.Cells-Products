@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla CSV'yi XML'e dönüştürün
-url: /tr/net/conversion/csv-to-xml/
+
 description: csv'den xml'ye C# dönüştürme için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde toplu csv dosyalarını xml'ye dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

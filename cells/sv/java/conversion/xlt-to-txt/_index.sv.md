@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertera XLT till TXT via Java 
 weight: 2710
-url: /sv/java/conversion/xlt-to-txt/ 
+
 description: Exempel Java-konverteringskod för XLT-format till TXT-fil. Programmerare kan använda den här exempelkoden för att exportera Excel- och OpenOffice-kalkylblad till TXT inom alla webb- eller skrivbordsbaserade Java-applikationer.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

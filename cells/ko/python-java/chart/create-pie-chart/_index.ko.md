@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python을(를) 통해 원형 차트 만들기
-url: /ko/python-java/create-pie-chart/
+
 description: Python Python 라이브러리를 사용하여 Excel에 원형 차트를 생성하기 위한 샘플 코드. 이 코드를 사용하여 Python 기반 애플리케이션 내에서 MS Excel에 대한 원형 차트를 생성합니다.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

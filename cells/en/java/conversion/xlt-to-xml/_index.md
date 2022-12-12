@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to XML via Java 
-url: /java/conversion/xlt-to-xml/
+
 description: Convert XLT to XML format in Java code. Save XLT as XML using Java.
 ---
 

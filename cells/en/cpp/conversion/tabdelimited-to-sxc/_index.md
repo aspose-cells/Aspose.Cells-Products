@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to SXC via C++
-url: /cpp/conversion/tabdelimited-to-sxc/
+
 description: Convert TABDELIMITED to SXC format in C++ code. Save TABDELIMITED as SXC using C++.
 ---
 

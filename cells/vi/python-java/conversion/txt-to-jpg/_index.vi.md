@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi TXT sang JPG qua Python
-url: /vi/python-java/conversion/txt-to-jpg/
+
 description: Mã mẫu cho chuyển đổi txt sang jpg Python. Sử dụng API mã mẫu cho hàng loạt tệp txt sang chuyển đổi jpg trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

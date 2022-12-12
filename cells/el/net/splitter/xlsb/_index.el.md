@@ -1,7 +1,7 @@
-﻿---
+---
 title: Διαχωρισμός αρχείων XLSB μέσω .NET 
 weight: 7370
-url: /el/net/splitter/xlsb/ 
+
 description: C# πηγαίος κώδικας για διαχωρισμό εγγράφων XLSB σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

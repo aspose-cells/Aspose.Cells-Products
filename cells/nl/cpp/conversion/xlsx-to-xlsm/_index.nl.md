@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer XLSX naar XLSM via C++ applicatie 
 weight: 2230
-url: /nl/cpp/conversion/xlsx-to-xlsm/ 
+
 description: Voorbeeld C++ conversiecode voor XLSX-document naar XLSM-indeling. Programmeurs kunnen deze broncode gebruiken voor batch-conversie van XLSX naar XLSM binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

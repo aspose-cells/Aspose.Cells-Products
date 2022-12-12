@@ -1,6 +1,6 @@
-﻿---
+---
 title: "MHTML konvertálása PNG-re a következőn keresztül: C#"
-url: /hu/net/conversion/mhtml-to-png/
+
 description: Mintakód az mhtml–png C# konverzióhoz. Használjon API példakódot kötegelt mhtml fájlok png konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してXLSMをJPEGに変換します 
 weight: 560
-url: /ja/java/conversion/xlsm-to-jpeg/ 
+
 description: XLSM形式からJPEGファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、任意のWebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをJPEGにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

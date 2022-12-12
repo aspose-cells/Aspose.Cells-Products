@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してMSExcelXLSファイルを作成する 
-url: /ja/net/create-xls/ 
+
 description: C#XLSドキュメントを生成するためのサンプルコード。このコードを使用して、VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内にMSExcelXLSファイルを作成します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

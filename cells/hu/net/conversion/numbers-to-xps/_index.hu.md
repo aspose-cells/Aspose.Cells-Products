@@ -1,6 +1,6 @@
-﻿---
+---
 title: "NUMBERS konvertálása XPS-re a következőn keresztül: C#"
-url: /hu/net/conversion/numbers-to-xps/
+
 description: Mintakód a számok xps C# konvertálásához. Használjon API példakódot a kötegszámfájlok xps-re való konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

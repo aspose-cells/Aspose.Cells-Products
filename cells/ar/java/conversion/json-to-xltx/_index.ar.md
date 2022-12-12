@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل JSON إلى XLTX عبر Java 
 weight: 1470
-url: /ar/java/conversion/json-to-xltx/ 
+
 description: نموذج رمز تحويل Java لتنسيق JSON إلى ملف XLTX. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى XLTX داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

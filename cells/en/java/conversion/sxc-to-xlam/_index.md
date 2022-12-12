@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to XLAM via Java 
-url: /java/conversion/sxc-to-xlam/
+
 description: Convert SXC to XLAM format in Java code. Save SXC as XLAM using Java.
 ---
 

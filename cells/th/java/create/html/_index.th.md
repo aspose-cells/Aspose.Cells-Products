@@ -1,6 +1,6 @@
-﻿---
+---
 title: สร้างไฟล์ HTML ผ่าน Java 
-url: /th/java/create-html/ 
+
 description: Java โค้ดตัวอย่างสำหรับสร้างเอกสาร HTML ใช้รหัสนี้เพื่อสร้างไฟล์ HTML ภายในเดสก์ท็อปหรือเว็บแอปพลิเคชันที่ใช้ Java
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

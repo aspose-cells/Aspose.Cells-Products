@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TSV إلى XPS عبر C#
-url: /ar/net/conversion/tsv-to-xps/
+
 description: نموذج كود للتحويل من tsv إلى xps C#. استخدم API رمز المثال لملفات tsv المجمعة لتحويل xps داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

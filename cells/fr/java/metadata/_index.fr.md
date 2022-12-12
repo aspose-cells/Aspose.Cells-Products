@@ -1,6 +1,6 @@
-﻿---
+---
 title: Gérer les métadonnées des fichiers Excel via Java
-url: /fr/java/metadata/
+
 description: Affichez, ajoutez, modifiez, supprimez ou extrayez les métadonnées des fichiers Excel avec seulement quelques lignes de code Java
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

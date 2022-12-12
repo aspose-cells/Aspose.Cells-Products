@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLTM-fájlok egyesítése a következőn keresztül: .NET "
 weight: 9010
-url: /hu/net/merger/xltm/ 
+
 description: C# forráskód az XLTM dokumentumok kombinálásához .NET Framework, .NET Core, Mono vagy Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

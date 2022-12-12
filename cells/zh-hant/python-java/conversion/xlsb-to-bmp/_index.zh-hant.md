@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 Python 將 XLSB 轉換為 BMP
-url: /zh-hant/python-java/conversion/xlsb-to-bmp/
+
 description: xlsb 到 bmp Python 轉換的示例代碼。使用 Python 應用程序中批處理 xlsb 文件到 bmp 轉換的 API 示例代碼。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

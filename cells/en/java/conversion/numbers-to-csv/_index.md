@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to CSV via Java 
-url: /java/conversion/numbers-to-csv/
+
 description: Convert NUMBERS to CSV format in Java code. Save NUMBERS as CSV using Java.
 ---
 

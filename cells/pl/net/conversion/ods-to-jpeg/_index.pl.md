@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj ODS na JPEG przez C#
-url: /pl/net/conversion/ods-to-jpeg/
+
 description: Przykładowy kod konwersji ods do jpeg C#. Użyj przykładowego kodu API dla wsadowych plików ods do konwersji jpeg w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

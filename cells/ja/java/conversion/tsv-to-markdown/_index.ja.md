@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してTSVをMARKDOWNに変換します 
-url: /ja/java/conversion/tsv-to-markdown/ 
+
 description: TSV形式からMARKDOWNファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のMARKDOWNにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

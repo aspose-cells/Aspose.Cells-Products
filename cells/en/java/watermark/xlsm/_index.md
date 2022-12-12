@@ -1,7 +1,7 @@
 ---
 title: Watermark XLSM document via Java 
 weight: 7680
-url: /java/watermark/xlsm/ 
+
 description: Java sample code to add or remove watermark to XLSM file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование TXT в XML с помощью приложения C++ 
-url: /ru/cpp/conversion/txt-to-xml/ 
+
 description: Пример кода преобразования C++ для документа TXT в формат XML. Программисты могут использовать этот исходный код для пакетного преобразования TXT в XML в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование NUMBERS в SXC через C#
-url: /ru/net/conversion/numbers-to-sxc/
+
 description: Пример кода для преобразования чисел в sxc C#. Используйте пример кода API для преобразования файлов номеров пакетов в sxc в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

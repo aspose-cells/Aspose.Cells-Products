@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir TXT en TABDELIMITED via C#
-url: /fr/net/conversion/txt-to-tabdelimited/
+
 description: Exemple de code pour la conversion de txt en C# délimité par des tabulations. Utilisez API exemple de code pour les fichiers txt par lots en conversion délimitée par des tabulations dans VB.NET, Asp.NET ou toute application basée sur .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

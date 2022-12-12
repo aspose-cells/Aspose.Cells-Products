@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง SXC เป็น MARKDOWN ผ่าน C#
-url: /th/net/conversion/sxc-to-markdown/
+
 description: โค้ดตัวอย่างสำหรับ sxc เพื่อมาร์กดาวน์ C# การแปลง ใช้โค้ดตัวอย่าง API สำหรับไฟล์ batch sxc เพื่อทำเครื่องหมายการแปลงภายใน VB.NET, Asp.NET หรือแอปพลิเคชันที่ใช้ .NET
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to GIF via Python
-url: /python-java/conversion/excel-to-gif/
+
 description: Convert EXCEL to GIF format in Python code. Save EXCEL as GIF using Python.
 ---
 

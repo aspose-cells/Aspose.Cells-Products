@@ -1,6 +1,6 @@
-﻿---
+---
 title: إنشاء مخططات خطية ثلاثية الأبعاد عبر C#
-url: /ar/net/create-line3d-chart/
+
 description: C# نموذج كود لإنشاء مخططات خطية ثلاثية الأبعاد في Excel باستخدام .NET Library. استخدم هذا الرمز لإنشاء مخطط خطي ثلاثي الأبعاد إلى MS Excel داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

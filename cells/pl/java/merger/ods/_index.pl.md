@@ -1,7 +1,7 @@
-﻿---
+---
 title: Scal pliki ODS przez Java 
 weight: 6270
-url: /pl/java/merger/ods/ 
+
 description: Java przykładowy kod do łączenia dokumentów ODS w Java środowisku wykonawczym dla aplikacji JSP/JSF i aplikacji komputerowych.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

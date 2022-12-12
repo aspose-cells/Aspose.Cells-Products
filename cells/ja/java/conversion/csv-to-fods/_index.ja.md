@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してCSVをFODSに変換する 
-url: /ja/java/conversion/csv-to-fods/ 
+
 description: CSV形式のサンプルJava変換コードからFODSファイルへ。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のFODSにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

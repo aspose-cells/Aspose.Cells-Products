@@ -1,6 +1,6 @@
-﻿---
+---
 title: Kreisdiagramme über C# erstellen
-url: /de/net/create-pie-chart/
+
 description: C# Beispielcode zum Erstellen von Kreisdiagrammen in Excel mithilfe der .NET-Bibliothek. Verwenden Sie diesen Code zum Erstellen eines Kreisdiagramms in MS Excel innerhalb von VB.NET, Asp.NET oder einer beliebigen .NET-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

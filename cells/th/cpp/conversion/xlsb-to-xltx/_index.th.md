@@ -1,7 +1,7 @@
-﻿---
+---
 title: แปลง XLSB เป็น XLTX ผ่าน C++ แอปพลิเคชัน 
 weight: 550
-url: /th/cpp/conversion/xlsb-to-xltx/ 
+
 description: ตัวอย่างรหัสการแปลง C++ สำหรับเอกสาร XLSB เป็นรูปแบบ XLTX โปรแกรมเมอร์สามารถใช้ซอร์สโค้ดนี้สำหรับการแปลง XLSB เป็น XLTX แบบแบตช์ภายในแอปพลิเคชัน C++ ใดๆ
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

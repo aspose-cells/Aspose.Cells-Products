@@ -1,6 +1,6 @@
-﻿---
+---
 title: Edit file MHTML melalui .NET 
-url: /id/net/editor/mhtml/ 
+
 description: C# kode sumber untuk mengedit dokumen MHTML di .NET Framework, .NET Core, Windows Azure, Mono atau Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

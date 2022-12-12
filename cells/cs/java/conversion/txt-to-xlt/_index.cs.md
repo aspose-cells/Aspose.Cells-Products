@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést TXT na XLT přes Java 
 weight: 5000
-url: /cs/java/conversion/txt-to-xlt/ 
+
 description: Ukázkový konverzní kód Java pro soubor ve formátu TXT na XLT. Programátoři mohou použít tento příklad kódu k exportu tabulek Excelu a OpenOffice do XLT v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

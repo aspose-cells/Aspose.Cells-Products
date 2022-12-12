@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование NUMBERS в JSON через Java 
-url: /ru/java/conversion/numbers-to-json/ 
+
 description: Пример кода преобразования Java для формата NUMBERS в файл JSON. Программисты могут использовать этот пример кода для экспорта электронных таблиц Excel и OpenOffice в формат JSON в любом веб- или настольном Java приложении.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

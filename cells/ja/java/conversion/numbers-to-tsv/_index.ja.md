@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してNUMBERSをTSVに変換します 
-url: /ja/java/conversion/numbers-to-tsv/ 
+
 description: NUMBERS形式のTSVファイルへのJava変換コードのサンプル。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のTSVにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

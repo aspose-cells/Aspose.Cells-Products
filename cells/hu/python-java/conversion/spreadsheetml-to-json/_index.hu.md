@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SPREADSHEETML konvertálása JSON formátumba a következőn keresztül: Python"
-url: /hu/python-java/conversion/spreadsheetml-to-json/
+
 description: Mintakód a táblázatkezelőből JSON Python konverzióhoz. Használjon API példakódot a kötegelt táblázatkezelő fájlok JSON-konverziójához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: التعليقات التوضيحية لملف Excel عبر C++
-url: /ar/cpp/annotation/
+
 description: قم بإضافة أو إزالة تعليقات التعليقات التوضيحية للبيانات من جداول بيانات Excel و OpenOffice باستخدام مكتبة C++.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

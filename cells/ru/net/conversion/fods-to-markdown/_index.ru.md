@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование FODS в MARKDOWN через C#
-url: /ru/net/conversion/fods-to-markdown/
+
 description: Пример кода для преобразования fods в markdown C#. Используйте пример кода API для пакетного преобразования файлов fods в уценку в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

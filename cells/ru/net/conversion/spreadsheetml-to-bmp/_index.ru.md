@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование SPREADSHETML в BMP с помощью C#
-url: /ru/net/conversion/spreadsheetml-to-bmp/
+
 description: Пример кода для преобразования электронной таблицыml в bmp C#. Используйте пример кода API для пакетного преобразования файлов электронной таблицыml в bmp в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

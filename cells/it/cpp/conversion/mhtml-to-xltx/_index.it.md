@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converti MHTML in XLTX tramite l'applicazione C++ 
 weight: 6610
-url: /it/cpp/conversion/mhtml-to-xltx/ 
+
 description: Esempio di codice di conversione C++ per un documento MHTML in formato XLTX. I programmatori possono utilizzare questo codice sorgente per la conversione batch da MHTML a XLTX all'interno di qualsiasi C++ Applicazione.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

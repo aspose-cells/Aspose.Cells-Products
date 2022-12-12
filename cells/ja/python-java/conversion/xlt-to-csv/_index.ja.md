@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してXLTをCSVに変換する
-url: /ja/python-java/conversion/xlt-to-csv/
+
 description: xltからcsvPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチxltファイルからcsvへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

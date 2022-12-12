@@ -1,6 +1,6 @@
 ---
 title: Merge HTML to NUMBERS Files via Java 
-url: /java/merger/merge-html-to-numbers/ 
+
 description: Merge HTML to NUMBERS file in Java code. Combine HTML to NUMBERS file using Java based desktop or web application.
 ---
 

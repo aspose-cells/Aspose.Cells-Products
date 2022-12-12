@@ -1,7 +1,7 @@
 ---
 title: Search and replace text in XLSM document via .NET 
 weight: 2370
-url: /net/redaction/xlsm/ 
+
 description: C# source code to redact sensitive information in XLSM file on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

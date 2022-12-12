@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLSB konvertálása EMF-re a következőn keresztül: C#"
-url: /hu/net/conversion/xlsb-to-emf/
+
 description: Mintakód az xlsb–emf C# konverzióhoz. Használjon API példakódot kötegelt xlsb fájlokhoz az EMF konvertáláshoz VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

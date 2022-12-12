@@ -1,6 +1,6 @@
-﻿---
+---
 title: Buat File CSV melalui C++ 
-url: /id/cpp/create-csv/ 
+
 description: C++ Contoh kode untuk membuat file CSV. Gunakan kode ini untuk membuat file CSV dalam aplikasi berbasis C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

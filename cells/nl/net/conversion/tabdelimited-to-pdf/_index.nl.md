@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer TABDELIMITED naar PDF via C#
-url: /nl/net/conversion/tabdelimited-to-pdf/
+
 description: Voorbeeldcode voor door tabs gescheiden naar pdf C# conversie. Gebruik API voorbeeldcode voor batch-tabdelimited-bestanden naar pdf-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

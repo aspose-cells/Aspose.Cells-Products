@@ -1,7 +1,7 @@
-﻿---
+---
 title: Combinar archivos XLSX a través de .NET 
 weight: 8290
-url: /es/net/merger/xlsx/ 
+
 description: C# código fuente para combinar documentos XLSX en .NET Framework, .NET Core, Mono o Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

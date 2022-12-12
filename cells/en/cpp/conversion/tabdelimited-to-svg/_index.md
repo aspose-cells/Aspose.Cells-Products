@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to SVG via C++
-url: /cpp/conversion/tabdelimited-to-svg/
+
 description: Convert TABDELIMITED to SVG format in C++ code. Save TABDELIMITED as SVG using C++.
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title:  مخطط مستند XLSB للصور عبر .NET 
 weight: 8560
-url: /ar/net/chart/xlsb/ 
+
 description: C# شفرة المصدر لرسم وتحويل مخطط أو رسم تخطيطي في ملف XLSB على الأنظمة الأساسية .NET Framework أو .NET Core أو Mono أو Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

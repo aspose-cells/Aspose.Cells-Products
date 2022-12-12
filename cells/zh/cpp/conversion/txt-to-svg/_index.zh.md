@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 C++ 应用程序将 TXT 转换为 SVG 
-url: /zh/cpp/conversion/txt-to-svg/ 
+
 description: TXT 文档到 SVG 格式的示例 C++ 转换代码。程序员可以使用此源代码在任何 C++ 应用程序中将 TXT 批量转换为 SVG。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

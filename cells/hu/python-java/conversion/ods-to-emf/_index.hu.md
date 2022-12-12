@@ -1,6 +1,6 @@
-﻿---
+---
 title: "ODS konvertálása EMF-vé a következőn keresztül: Python"
-url: /hu/python-java/conversion/ods-to-emf/
+
 description: Mintakód az ods to emf Python konverziójához. Használjon API példakódot kötegelt ods-fájlokhoz az EMF-konverzióhoz a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

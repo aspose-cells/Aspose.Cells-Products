@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLS konvertálása ODS-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/xls-to-ods/
+
 description: Mintakód az xls-ből ods-ba Python konverzióhoz. Használjon API példakódot a kötegelt xls fájlok ods konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

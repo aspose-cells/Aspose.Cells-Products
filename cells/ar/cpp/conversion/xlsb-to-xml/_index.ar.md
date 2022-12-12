@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLSB إلى XML عبر تطبيق C++ 
-url: /ar/cpp/conversion/xlsb-to-xml/ 
+
 description: نموذج C++ رمز التحويل لمستند XLSB إلى تنسيق XML. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل XLSB المجمع إلى XML داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

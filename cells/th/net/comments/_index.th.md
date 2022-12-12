@@ -1,6 +1,6 @@
-﻿---
+---
 title: แทรกความคิดเห็นใน Excel ผ่าน .NET
-url: /th/net/comment/
+
 description: C# ซอร์สโค้ดที่จะแทรกความคิดเห็นลงในไฟล์ Microsoft Excel โดยใช้ .NET Library 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

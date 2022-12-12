@@ -1,6 +1,6 @@
-﻿---
+---
 title: "HTML konvertálása JPG-be a következőn keresztül: Java "
-url: /hu/java/conversion/html-to-jpg/ 
+
 description: Minta Java konverziós kód HTML formátumhoz JPG fájlba. A programozók ezt a példakódot használhatják Excel és OpenOffice táblázatok exportálására JPG formátumban bármely web- vagy asztali Java alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

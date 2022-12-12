@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to DIF via C++
-url: /cpp/conversion/mhtml-to-dif/
+
 description: Convert MHTML to DIF format in C++ code. Save MHTML as DIF using C++.
 ---
 

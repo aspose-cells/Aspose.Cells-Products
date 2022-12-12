@@ -1,7 +1,7 @@
-﻿---
+---
 title: Bảng tính Excel PHP API - Aspose 
 weight: 3660
-url: /vi/php-java/ 
+
 description: Bảng tính PHP Excel API để đọc ghi và chuyển đổi XLS XLSX CSV TSV HTML ODS SpreadsheetML & tất cả các định dạng Excel 97-2016. Xuất Bảng tính sang nhiều định dạng
 ---
 {{< blocks/products/pf/main-wrap-class >}}

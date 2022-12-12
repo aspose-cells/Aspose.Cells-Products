@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 Python 将 TABDELIMITED 转换为 DIF
-url: /zh/python-java/conversion/tabdelimited-to-dif/
+
 description: tabdelimited 到 diff Python 转换的示例代码。使用批处理制表符分隔文件的 API 示例代码在 Python 应用程序中进行差异转换。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

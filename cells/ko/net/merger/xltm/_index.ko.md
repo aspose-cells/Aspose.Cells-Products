@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET를 통해 XLTM 파일 병합 
 weight: 9010
-url: /ko/net/merger/xltm/ 
+
 description: C# 소스 코드는 .NET Framework, .NET Core, Mono 또는 Xamarin Platforms에서 XLTM 문서를 결합합니다.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

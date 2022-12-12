@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převeďte ODS na DIF pomocí aplikace C++ 
 weight: 4040
-url: /cs/cpp/conversion/ods-to-dif/ 
+
 description: Ukázka převodního kódu C++ pro dokument ODS na formát DIF. Programátoři mohou tento zdrojový kód použít pro dávkový převod ODS na DIF v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

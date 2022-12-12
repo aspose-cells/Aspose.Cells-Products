@@ -1,6 +1,6 @@
-﻿---
+---
 title: XLS को C# के माध्यम से XML में बदलें
-url: /hi/net/conversion/xls-to-xml/
+
 description: xls से xml C# रूपांतरण के लिए नमूना कोड। VB.NET, Asp.NET या किसी भी .NET आधारित एप्लिकेशन में बैच xls फ़ाइलों से xml रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

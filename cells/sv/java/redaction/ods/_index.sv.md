@@ -1,7 +1,7 @@
-﻿---
+---
 title: Sök och ersätt text i ODS-dokument via Java 
 weight: 9210
-url: /sv/java/redaction/ods/ 
+
 description: Java exempelkod för att redigera känslig information i ODS-fil i Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

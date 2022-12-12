@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja az XLTM-et DIF-re a(z) C++ alkalmazással 
-url: /hu/cpp/conversion/xltm-to-dif/ 
+
 description: Minta C++ konverziós kód XLTM dokumentumhoz DIF formátumba. A programozók ezt a forráskódot használhatják kötegelt XLTM-DIF konvertáláshoz bármely C++ alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

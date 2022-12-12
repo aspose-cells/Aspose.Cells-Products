@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan SPREADSHEETML ke SVG melalui Python
-url: /id/python-java/conversion/spreadsheetml-to-svg/
+
 description: Contoh kode untuk konversi spreadsheetml ke svg Python. Gunakan API kode contoh untuk file batch spreadsheetml ke konversi svg dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

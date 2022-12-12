@@ -1,6 +1,6 @@
-﻿---
+---
 title: Создание гистограмм с помощью C#
-url: /ru/net/create-bar-chart/
+
 description: C# Пример кода для создания гистограмм в Excel с использованием библиотеки .NET. Используйте этот код для создания гистограммы в MS Excel в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

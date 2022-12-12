@@ -1,6 +1,6 @@
-﻿---
+---
 title: สร้างแผนภูมิเส้นผ่าน Python
-url: /th/python-java/create-line-chart/
+
 description: Python โค้ดตัวอย่างสำหรับสร้างแผนภูมิเส้นไปยัง Excel โดยใช้ Python Library ใช้รหัสนี้เพื่อสร้างแผนภูมิเส้นไปยัง MS Excel ภายในแอปพลิเคชันที่ใช้ Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

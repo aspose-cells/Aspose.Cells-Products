@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLS в HTML через C#
-url: /ru/net/conversion/xls-to-html/
+
 description: Пример кода для преобразования xls в html C#. Используйте пример кода API для пакетного преобразования файлов xls в html в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir TXT en GIF via C#
-url: /fr/net/conversion/txt-to-gif/
+
 description: Exemple de code pour la conversion txt en gif C#. Utilisez API exemple de code pour les fichiers batch txt en conversion gif dans VB.NET, Asp.NET ou toute application basée sur .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

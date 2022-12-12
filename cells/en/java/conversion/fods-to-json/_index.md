@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to JSON via Java 
-url: /java/conversion/fods-to-json/
+
 description: Convert FODS to JSON format in Java code. Save FODS as JSON using Java.
 ---
 

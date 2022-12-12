@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してXLSBファイルのメタデータを編集または表示する 
 weight: 7290
-url: /ja/java/metadata/xlsb/ 
+
 description: JSP/JSFアプリケーションおよびデスクトップアプリケーションのJavaランタイム環境でXLSB形式のメタデータを編集または表示するためのJavaサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

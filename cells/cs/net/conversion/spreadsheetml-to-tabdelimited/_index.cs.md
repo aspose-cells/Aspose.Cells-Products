@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést SPREADSHEETML na TABDELIMITED přes C#
-url: /cs/net/conversion/spreadsheetml-to-tabdelimited/
+
 description: Ukázkový kód pro převod tabulkyml na C# oddělený tabulátory. Použijte API ukázkový kód pro dávkové soubory tabulkového procesoruml na převod oddělený tabulátory v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

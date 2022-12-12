@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to JSON via C#
-url: /net/conversion/xls-to-json/
+
 description: Convert XLS to JSON format in C# code. Save XLS as JSON using VB.NET, Asp.NET or any .NET based application.
 ---
 

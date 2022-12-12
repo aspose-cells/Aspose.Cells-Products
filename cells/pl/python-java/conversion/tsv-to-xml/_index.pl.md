@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj TSV na XML za pomocą Python
-url: /pl/python-java/conversion/tsv-to-xml/
+
 description: Przykładowy kod konwersji tsv do xml Python. Użyj przykładowego kodu API dla plików wsadowych tsv do konwersji XML w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

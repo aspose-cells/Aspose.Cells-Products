@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование SXC в EMF через Python
-url: /ru/python-java/conversion/sxc-to-emf/
+
 description: Пример кода для преобразования sxc в emf Python. Используйте пример кода API для пакетного преобразования файлов sxc в emf в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

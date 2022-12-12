@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to SVG via Java 
-url: /java/conversion/xlsb-to-svg/
+
 description: Convert XLSB to SVG format in Java code. Save XLSB as SVG using Java.
 ---
 

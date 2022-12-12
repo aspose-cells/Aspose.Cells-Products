@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést NUMBERS na SPREADSHEETML prostřednictvím Python
-url: /cs/python-java/conversion/numbers-to-spreadsheetml/
+
 description: Ukázkový kód pro převod čísel do tabulkyml Python. Použijte API ukázkový kód pro dávkové soubory čísel na převod tabulkového procesoru v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

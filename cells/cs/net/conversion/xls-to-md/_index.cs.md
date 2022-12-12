@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLS na MD přes C#
-url: /cs/net/conversion/xls-to-md/
+
 description: Ukázkový kód pro převod xls na MD C#. Použijte API ukázkový kód pro dávkový převod souborů xls na MD v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

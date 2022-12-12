@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to CSV via C++
-url: /cpp/conversion/mhtml-to-csv/
+
 description: Convert MHTML to CSV format in C++ code. Save MHTML as CSV using C++.
 ---
 

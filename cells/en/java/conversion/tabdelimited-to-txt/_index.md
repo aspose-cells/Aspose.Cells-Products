@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to TXT via Java 
-url: /java/conversion/tabdelimited-to-txt/
+
 description: Convert TABDELIMITED to TXT format in Java code. Save TABDELIMITED as TXT using Java.
 ---
 

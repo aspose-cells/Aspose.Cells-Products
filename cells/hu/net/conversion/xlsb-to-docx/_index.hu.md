@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLSB konvertálása DOCX-re a következőn keresztül: C#"
-url: /hu/net/conversion/xlsb-to-docx/
+
 description: Mintakód az xlsb–docx C# konverzióhoz. Használjon API példakódot kötegelt xlsb fájlok docx konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

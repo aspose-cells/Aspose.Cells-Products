@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie XLS in TABDELIMITED über C#
-url: /de/net/conversion/xls-to-tabdelimited/
+
 description: Beispielcode für die Umwandlung von xls in tabulatorgetrennte C#. Verwenden Sie API Beispielcode für Batch-xls-Dateien in tabulatorgetrennte Konvertierung innerhalb von VB.NET, Asp.NET oder einer beliebigen .NET-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

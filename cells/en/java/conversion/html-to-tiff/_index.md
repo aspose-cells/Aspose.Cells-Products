@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to TIFF via Java 
-url: /java/conversion/html-to-tiff/
+
 description: Convert HTML to TIFF format in Java code. Save HTML as TIFF using Java.
 ---
 

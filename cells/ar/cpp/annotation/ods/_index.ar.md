@@ -1,7 +1,7 @@
-﻿---
+---
 title: إضافة تعليق ODS عبر C++ 
 weight: 8840
-url: /ar/cpp/annotation/ods/ 
+
 description: C++ نموذج التعليمات البرمجية لحذف التعليقات التوضيحية بتنسيق ODS في C++ Runtime Environment لأنظمة التشغيل Windows 32 بت و Windows 64 بت و Linux 64 بت.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

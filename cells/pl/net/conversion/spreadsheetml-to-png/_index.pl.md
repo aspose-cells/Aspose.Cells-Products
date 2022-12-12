@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj SPREADSHEETML na PNG za pomocą C#
-url: /pl/net/conversion/spreadsheetml-to-png/
+
 description: Przykładowy kod konwersji arkusza kalkulacyjnego ml na png C#. Użyj przykładowego kodu API dla plików arkusza kalkulacyjnego wsadowego do konwersji png w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

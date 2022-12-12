@@ -1,7 +1,7 @@
-﻿---
+---
 title: البحث في مستند TXT دون الفتح عبر .NET 
 weight: 8410
-url: /ar/net/search/txt/ 
+
 description: C# شفرة المصدر للبحث عن الكلمات ذات النمط في ملف TXT على .NET Framework أو .NET Core أو Mono أو أنظمة Xamarin الأساسية.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

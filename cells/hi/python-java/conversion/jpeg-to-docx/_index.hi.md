@@ -1,6 +1,6 @@
-﻿---
+---
 title: JPEG को DOCX में Python के माध्यम से बदलें
-url: /hi/python-java/conversion/jpeg-to-docx/
+
 description: जेपीईजी से docx Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर docx रूपांतरण में बैच jpeg फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

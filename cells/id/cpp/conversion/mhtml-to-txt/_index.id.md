@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi MHTML ke TXT melalui C++ aplikasi 
-url: /id/cpp/conversion/mhtml-to-txt/ 
+
 description: Contoh C++ kode konversi untuk dokumen MHTML ke format TXT. Pemrogram dapat menggunakan kode sumber ini untuk konversi batch MHTML ke TXT dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

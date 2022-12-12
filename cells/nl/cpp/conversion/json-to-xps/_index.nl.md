@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer JSON naar XPS via C++ applicatie 
-url: /nl/cpp/conversion/json-to-xps/ 
+
 description: Voorbeeld C++ conversiecode voor JSON-document naar XPS-indeling. Programmeurs kunnen deze broncode gebruiken voor batch-conversie van JSON naar XPS binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

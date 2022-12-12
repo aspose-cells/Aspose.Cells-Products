@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通过 C# 将 XLSX 转换为 PPTX
-url: /zh/net/conversion/xlsx-to-pptx/
+
 description: xlsx 到 pptx C# 转换的示例代码。使用 API 示例代码在 VB.NET、Asp.NET 或任何基于 .NET 的应用程序中将 xlsx 文件批量转换为 pptx。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

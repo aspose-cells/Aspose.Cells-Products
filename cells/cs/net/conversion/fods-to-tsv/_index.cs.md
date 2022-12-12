@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést FODS na TSV prostřednictvím C#
-url: /cs/net/conversion/fods-to-tsv/
+
 description: Ukázkový kód pro konverzi fod na tsv C#. Použijte API ukázkový kód pro dávkové převody fods souborů na tsv v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

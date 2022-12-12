@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TXT na DOCX přes Python
-url: /cs/python-java/conversion/txt-to-docx/
+
 description: Ukázkový kód pro převod txt na docx Python. Použijte API ukázkový kód pro dávkový převod souborů txt na docx v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi XLTX ke XPS melalui C++ aplikasi 
-url: /id/cpp/conversion/xltx-to-xps/ 
+
 description: Contoh C++ kode konversi untuk dokumen XLTX ke format XPS. Pemrogram dapat menggunakan kode sumber ini untuk konversi batch XLTX ke XPS dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

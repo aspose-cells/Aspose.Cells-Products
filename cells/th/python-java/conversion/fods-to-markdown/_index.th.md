@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง FODS เป็น MARKDOWN ผ่าน Python
-url: /th/python-java/conversion/fods-to-markdown/
+
 description: โค้ดตัวอย่างสำหรับ fods เพื่อทำเครื่องหมายการแปลง Python ใช้โค้ดตัวอย่าง API สำหรับไฟล์ batch fods เพื่อแปลง markdown ภายในแอปพลิเคชัน Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

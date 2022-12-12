@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TSV konvertálása BMP-vé a következőn keresztül: Python"
-url: /hu/python-java/conversion/tsv-to-bmp/
+
 description: Mintakód a tsv–bmp Python konverzióhoz. Használjon API példakódot a tsv-fájlok kötegelt bmp-konverziójához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

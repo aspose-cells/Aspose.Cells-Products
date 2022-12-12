@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SXC konvertálása JPG-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/sxc-to-jpg/
+
 description: Mintakód az sxc-ből jpg-be Python konvertáláshoz. Használjon API példakódot az sxc fájlok kötegelt jpg konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

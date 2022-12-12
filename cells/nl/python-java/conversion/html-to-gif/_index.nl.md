@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer HTML naar GIF via Python
-url: /nl/python-java/conversion/html-to-gif/
+
 description: Voorbeeldcode voor conversie van html naar gif Python. Gebruik API voorbeeldcode voor batch-html-bestanden naar gif-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

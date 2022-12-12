@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLSB दस्तावेज़ को .NET के माध्यम से अनलॉक करें 
 weight: 6410
-url: /hi/net/unlock/xlsb/ 
+
 description: .NET Framework, .NET Core, Mono या Xamarin Platforms पर पासवर्ड से सुरक्षित XLSB फ़ाइल को अनलॉक करने के लिए C# स्रोत कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

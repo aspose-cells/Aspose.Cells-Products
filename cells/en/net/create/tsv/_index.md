@@ -1,6 +1,6 @@
 ---
 title: Create TSV Files via C# 
-url: /net/create-tsv/ 
+
 description: Create TSV files in C# code. Generate TSV files using VB.NET, Asp.NET or any .NET based application.
 ---
 

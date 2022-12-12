@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla TXT'yi DIF'ye dönüştürün
-url: /tr/python-java/conversion/txt-to-dif/
+
 description: Python dönüşümü için txt için örnek kod. Python uygulamasında dönüşümleri ayırt etmek için toplu txt dosyaları için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

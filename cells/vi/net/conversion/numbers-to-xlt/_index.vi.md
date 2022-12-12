@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi NUMBERS thành XLT qua C#
-url: /vi/net/conversion/numbers-to-xlt/
+
 description: Mã mẫu cho chuyển đổi số thành xlt C#. Sử dụng mã mẫu API cho các tệp số lô để chuyển đổi xlt trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

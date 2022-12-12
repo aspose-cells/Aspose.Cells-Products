@@ -1,6 +1,6 @@
-﻿---
+---
 title: MHTML को C++ एप्लिकेशन के माध्यम से PREADSHEETML में बदलें 
-url: /hi/cpp/conversion/mhtml-to-spreadsheetml/ 
+
 description: नमूना C++ MHTML दस्तावेज़ के लिए SPREADSHEETML प्रारूप में रूपांतरण कोड। प्रोग्रामर इस स्रोत कोड का उपयोग किसी भी C++ एप्लिकेशन में एमएचटीएमएल से स्प्रैडशीटएमएल रूपांतरण के बैच के लिए कर सकते हैं।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

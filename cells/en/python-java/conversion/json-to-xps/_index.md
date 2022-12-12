@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to XPS via Python
-url: /python-java/conversion/json-to-xps/
+
 description: Convert JSON to XPS format in Python code. Save JSON as XPS using Python.
 ---
 

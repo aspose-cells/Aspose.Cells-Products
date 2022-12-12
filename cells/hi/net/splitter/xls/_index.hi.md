@@ -1,7 +1,7 @@
-﻿---
+---
 title: एक्सएलएस फाइलों को .NET के माध्यम से विभाजित करें 
 weight: 1340
-url: /hi/net/splitter/xls/ 
+
 description: .NET फ्रेमवर्क, .NET कोर, Mono या Xamarin प्लेटफॉर्म पर XLS दस्तावेज़ों को विभाजित करने के लिए C# स्रोत कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

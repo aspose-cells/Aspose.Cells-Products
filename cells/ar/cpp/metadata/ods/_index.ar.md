@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحرير أو عرض البيانات الوصفية لمستند ODS عبر C++ 
 weight: 1000
-url: /ar/cpp/metadata/ods/ 
+
 description: C++ مثال على رمز لتعديل أو عرض البيانات الوصفية لملف ODS في C++ Runtime Environment لأنظمة التشغيل Windows 32 بت و Windows 64 بت و Linux 64 بت.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj XLTX na BMP za pomocą aplikacji C++ 
-url: /pl/cpp/conversion/xltx-to-bmp/ 
+
 description: Przykładowy kod konwersji C++ dla dokumentu XLTX do formatu BMP. Programiści mogą używać tego kodu źródłowego do wsadowej konwersji XLTX na BMP w dowolnej aplikacji C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir SPREADSHEETML en XLAM via C#
-url: /fr/net/conversion/spreadsheetml-to-xlam/
+
 description: Exemple de code pour la conversion de tableurml en xlam C#. Utilisez l'exemple de code API pour les fichiers de tableur par lots en conversion xlam dans VB.NET, Asp.NET ou toute application basée sur .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

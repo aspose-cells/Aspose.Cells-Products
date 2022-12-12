@@ -1,6 +1,6 @@
-﻿---
+---
 title: "PDF-fájlok létrehozása a következőn keresztül: Java "
-url: /hu/java/create-pdf/ 
+
 description: Java Mintakód PDF dokumentumok generálásához. Ezzel a kóddal PDF-fájlokat hozhat létre Java alapú asztali vagy webes alkalmazásban.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

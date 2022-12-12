@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést MHTML na XLS přes Python
-url: /cs/python-java/conversion/mhtml-to-xls/
+
 description: Ukázkový kód pro převod mhtml na xls Python. Použijte API ukázkový kód pro dávkový převod souborů mhtml na xls v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

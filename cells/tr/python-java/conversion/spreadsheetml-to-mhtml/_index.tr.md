@@ -1,6 +1,6 @@
-﻿---
+---
 title: SPREADSHEETML'yi Python aracılığıyla MHTML'ye dönüştürün
-url: /tr/python-java/conversion/spreadsheetml-to-mhtml/
+
 description: E-tabloml'den mhtml'ye Python dönüşümü için örnek kod. Python uygulamasında toplu elektronik tabloml dosyalarını mhtml'ye dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

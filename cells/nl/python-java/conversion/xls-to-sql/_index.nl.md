@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLS naar SQL via Python
-url: /nl/python-java/conversion/xls-to-sql/
+
 description: Voorbeeldcode voor xls naar sql Python conversie. Gebruik API voorbeeldcode voor batch xls-bestanden naar sql-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

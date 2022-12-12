@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to GIF via Java 
-url: /java/conversion/xls-to-gif/
+
 description: Convert XLS to GIF format in Java code. Save XLS as GIF using Java.
 ---
 

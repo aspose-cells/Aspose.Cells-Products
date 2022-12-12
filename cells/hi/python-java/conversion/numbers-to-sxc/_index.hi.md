@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python के माध्यम से NUMBERS को SXC में बदलें
-url: /hi/python-java/conversion/numbers-to-sxc/
+
 description: sxc Python रूपांतरण में संख्याओं के लिए नमूना कोड। Python एप्लिकेशन के भीतर sxc रूपांतरण के लिए बैच संख्या फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

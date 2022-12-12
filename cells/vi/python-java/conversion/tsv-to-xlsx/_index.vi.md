@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi TSV sang XLSX qua Python
-url: /vi/python-java/conversion/tsv-to-xlsx/
+
 description: Mã mẫu cho chuyển đổi tsv sang xlsx Python. Sử dụng mã mẫu API cho hàng loạt tệp tsv sang chuyển đổi xlsx trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Python Excel-Tabelle API - Aspose 
 weight: 2820
-url: /de/python-java/ 
+
 description: Python Tabellenkalkulationsbibliothek zum Erstellen von Lese-/Schreibzugriffs- und Analyse-Excel-Dateien.
 ---
 {{< blocks/products/pf/main-wrap-class >}}

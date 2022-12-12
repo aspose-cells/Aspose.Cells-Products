@@ -1,7 +1,7 @@
-﻿---
+---
 title: Python Feuille de calcul Excel API - Aspose 
 weight: 2820
-url: /fr/python-java/ 
+
 description: Python bibliothèque de feuilles de calcul pour créer des fichiers Excel en lecture, écriture et analyse.
 ---
 {{< blocks/products/pf/main-wrap-class >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLTM Dosyalarını .NET ile Birleştir 
 weight: 9010
-url: /tr/net/merger/xltm/ 
+
 description: XLTM belgelerini .NET Framework, .NET Core, Mono veya Xamarin Platformlarında birleştirmek için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

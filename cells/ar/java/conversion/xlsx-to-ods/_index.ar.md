@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل XLSX إلى ODS عبر Java 
 weight: 5130
-url: /ar/java/conversion/xlsx-to-ods/ 
+
 description: نموذج Java رمز تحويل لتنسيق XLSX إلى ملف ODS. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى ODS من خلال أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla TABDELIMITED'i SVG'ye dönüştürün
-url: /tr/python-java/conversion/tabdelimited-to-svg/
+
 description: Sekmeyle ayrılmış svg Python dönüşümü için örnek kod. Python uygulamasında toplu sekmeyle ayrılmış dosyalardan svg'ye dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

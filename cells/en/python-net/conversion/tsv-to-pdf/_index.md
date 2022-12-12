@@ -1,6 +1,6 @@
 ---
 title: Convert TSV to PDF via Python
-url: /python-net/conversion/tsv-to-pdf/
+
 description: Sample code for tsv to pdf Python conversion. Use API example code for batch tsv files to pdf conversion within Python application.
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Application de conversion de feuille de calcul Excel SharePoint – Aspose 
 weight: 940
-url: /fr/sharepoint/ 
+
 description: Aspose.Cells pour l'application SharePoint est un convertisseur de feuille de calcul SharePoint Excel. Exporter XLS XLSX XML CSV PDF ODS &amp; Formats HTML dans MOSS WSS
 ---
 {{< blocks/products/pf/main-wrap-class >}}

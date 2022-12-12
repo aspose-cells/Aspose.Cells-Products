@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj XLTM na SPREADSHEETML za pomocą C#
-url: /pl/net/conversion/xltm-to-spreadsheetml/
+
 description: Przykładowy kod konwersji xltm na arkusz kalkulacyjny C#. Użyj przykładowego kodu API dla wsadowych plików xltm do konwersji arkusza kalkulacyjnego na arkusze kalkulacyjne w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

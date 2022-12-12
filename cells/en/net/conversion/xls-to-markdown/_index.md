@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to MARKDOWN via C#
-url: /net/conversion/xls-to-markdown/
+
 description: Convert XLS to MARKDOWN format in C# code. Save XLS as MARKDOWN using VB.NET, Asp.NET or any .NET based application.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera ODS till FODS via Python
-url: /sv/python-java/conversion/ods-to-fods/
+
 description: Exempelkod för konvertering av ods till fods Python. Använd API exempelkod för batch-ods-filer för att konvertera i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

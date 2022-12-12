@@ -1,6 +1,6 @@
-﻿---
+---
 title: "ODS konvertálása JSON-ra a következőn keresztül: Python"
-url: /hu/python-java/conversion/ods-to-json/
+
 description: Mintakód az ods-ból json-ba Python konverzióhoz. Használjon API példakódot a kötegelt ods-fájlok JSON-konverziójához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

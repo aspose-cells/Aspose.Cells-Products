@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してCSVをBMPに変換します
-url: /ja/python-java/conversion/csv-to-bmp/
+
 description: csvからbmpPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチcsvファイルからbmpへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

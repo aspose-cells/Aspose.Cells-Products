@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta SPREADSHEETML a PNG a través de C#
-url: /es/net/conversion/spreadsheetml-to-png/
+
 description: Código de muestra para la conversión de hoja de cálculo a png C#. Utilice el código de ejemplo API para convertir archivos de hojas de cálculo por lotes a png dentro de VB.NET, Asp.NET o cualquier aplicación basada en .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

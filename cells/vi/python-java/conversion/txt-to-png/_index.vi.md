@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi TXT sang PNG qua Python
-url: /vi/python-java/conversion/txt-to-png/
+
 description: Mã mẫu cho chuyển đổi txt sang png Python. Sử dụng mã mẫu API cho chuyển đổi hàng loạt tệp txt sang png trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

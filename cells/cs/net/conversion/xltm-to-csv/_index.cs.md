@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLTM na CSV prostřednictvím C#
-url: /cs/net/conversion/xltm-to-csv/
+
 description: Ukázkový kód pro převod xltm na csv C#. Použijte API ukázkový kód pro dávkový převod souborů xltm na csv v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

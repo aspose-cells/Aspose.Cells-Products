@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง EXCEL เป็น WORD ผ่าน Python
-url: /th/python-java/conversion/excel-to-word/
+
 description: โค้ดตัวอย่างสำหรับการแปลง excel เป็น word Python ใช้โค้ดตัวอย่าง API สำหรับไฟล์ excel แบบแบตช์เป็นการแปลงคำภายในแอปพลิเคชัน Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

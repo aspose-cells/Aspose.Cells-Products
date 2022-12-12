@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 Java 創建 MS Excel XLS 文件 
-url: /zh-hant/java/create-xls/ 
+
 description: Java 用於生成 XLS 文檔的示例代碼。使用此代碼在基於 Java 的桌面或 Web 應用程序中創建 MS Excel XLS 文件。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

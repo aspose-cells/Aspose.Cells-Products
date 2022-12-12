@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converti TSV in SVG tramite l'applicazione C++ 
 weight: 1060
-url: /it/cpp/conversion/tsv-to-svg/ 
+
 description: Esempio di codice di conversione C++ per un documento TSV in formato SVG. I programmatori possono utilizzare questo codice sorgente per la conversione batch da TSV a SVG all'interno di qualsiasi applicazione C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

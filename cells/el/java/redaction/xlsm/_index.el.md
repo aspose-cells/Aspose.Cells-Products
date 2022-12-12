@@ -1,7 +1,7 @@
-﻿---
+---
 title: Αναζήτηση και αντικατάσταση κειμένου σε έγγραφο XLSM μέσω Java 
 weight: 1590
-url: /el/java/redaction/xlsm/ 
+
 description: Java δείγμα κώδικα για τη διόρθωση ευαίσθητων πληροφοριών σε αρχείο XLSM στο Java Περιβάλλον χρόνου εκτέλεσης για εφαρμογές JSP/JSF και εφαρμογές επιφάνειας εργασίας.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

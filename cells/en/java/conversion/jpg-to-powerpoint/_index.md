@@ -1,6 +1,6 @@
 ---
 title: Convert JPG to POWERPOINT via Java 
-url: /java/conversion/jpg-to-powerpoint/
+
 description: Convert JPG to POWERPOINT format in Java code. Save JPG as POWERPOINT using Java.
 ---
 

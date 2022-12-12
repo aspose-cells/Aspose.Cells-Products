@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование TABDELIMITED в DIF через C#
-url: /ru/net/conversion/tabdelimited-to-dif/
+
 description: Пример кода для преобразования tabdelimited в dif C#. Используйте пример кода API для пакетного преобразования файлов с разделителями табуляции для преобразования различий в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

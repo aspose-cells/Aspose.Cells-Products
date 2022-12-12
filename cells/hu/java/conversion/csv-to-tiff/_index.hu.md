@@ -1,7 +1,7 @@
-﻿---
+---
 title: "CSV konvertálása TIFF formátumba a következőn keresztül: Java "
 weight: 6540
-url: /hu/java/conversion/csv-to-tiff/ 
+
 description: Minta Java konverziós kód CSV-formátumhoz TIFF-fájllá. A programozók ezt a példakódot használhatják Excel és OpenOffice táblázatok TIFF formátumba exportálására bármely web- vagy asztali Java alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

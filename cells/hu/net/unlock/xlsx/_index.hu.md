@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLSX-dokumentum feloldása a következőn keresztül: .NET "
 weight: 2040
-url: /hu/net/unlock/xlsx/ 
+
 description: C# forráskód a jelszóval védett XLSX fájl feloldásához .NET Framework, .NET Core, Mono vagy Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TABDELIMITED konvertálása XLSX-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/tabdelimited-to-xlsx/
+
 description: Mintakód a tabulátorral tagolt xlsx Python konverzióhoz. Használjon API példakódot a tabulátorral határolt fájlok kötegelt xlsx konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

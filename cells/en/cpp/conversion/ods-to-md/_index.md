@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to MD via C++
-url: /cpp/conversion/ods-to-md/
+
 description: Convert ODS to MD format in C++ code. Save ODS as MD using C++.
 ---
 

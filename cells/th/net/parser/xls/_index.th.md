@@ -1,7 +1,7 @@
-﻿---
+---
 title: แยกข้อความและรูปภาพจากเอกสาร XLS ผ่าน .NET 
 weight: 5600
-url: /th/net/parser/xls/ 
+
 description: C# ซอร์สโค้ดเพื่อดึงข้อความและรูปภาพจากไฟล์ XLS บน .NET Framework, .NET Core, Mono หรือ Xamarin Platforms
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pisahkan lembar kerja Excel dengan bijak di C#
-url: /id/net/splitter/
+
 description: C# kode sumber yang menjelaskan cara membagi berkas Microsoft Excel menjadi beberapa berkas dalam aplikasi C#.NET Visual
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

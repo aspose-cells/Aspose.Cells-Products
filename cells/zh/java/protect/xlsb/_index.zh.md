@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通过 Java 保护和锁定 XLSB 文档 
 weight: 6590
-url: /zh/java/protect/xlsb/ 
+
 description: Java 在 JSP/JSF 应用程序和桌面应用程序的 Java 运行时环境中使用密码锁定 XLSB 文件的示例代码。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

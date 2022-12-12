@@ -1,7 +1,7 @@
-﻿---
+---
 title: Document XLS en filigrane via Java 
 weight: 2210
-url: /fr/java/watermark/xls/ 
+
 description: Java exemple de code pour ajouter ou supprimer un filigrane au fichier XLS sur Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

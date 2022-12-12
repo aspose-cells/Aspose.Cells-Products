@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi NUMBERS thành XLTX qua C#
-url: /vi/net/conversion/numbers-to-xltx/
+
 description: Mã mẫu cho chuyển đổi số thành xltx C#. Sử dụng API mã mẫu cho các tệp số lô để chuyển đổi xltx trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

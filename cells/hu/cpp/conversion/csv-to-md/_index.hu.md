@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertálja a CSV-t MD-vé a(z) C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/csv-to-md/ 
+
 description: Minta C++ konverziós kód a CSV-dokumentumhoz MD formátumba. A programozók ezt a forráskódot használhatják kötegelt CSV-ből MD-vé konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

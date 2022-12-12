@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NETを介してODSファイルをマージ 
 weight: 4330
-url: /ja/net/merger/ods/ 
+
 description: .NETフレームワーク、.NETコア、Mono、またはXamarinプラットフォームでODSドキュメントを組み合わせるためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

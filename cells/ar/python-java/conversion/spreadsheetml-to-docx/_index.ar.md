@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل SPREADSHEETML إلى DOCX عبر Python
-url: /ar/python-java/conversion/spreadsheetml-to-docx/
+
 description: نموذج كود لتحويل جدول البيانات إلى docx Python. استخدم API رمز المثال لملفات جداول البيانات الدفعية لتحويل docx داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

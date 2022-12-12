@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést MHTML na XLTX přes C#
-url: /cs/net/conversion/mhtml-to-xltx/
+
 description: Ukázkový kód pro konverzi mhtml na xltx C#. Použijte API ukázkový kód pro dávkový převod souborů mhtml na xltx v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Unisci file HTML tramite Java 
 weight: 8830
-url: /it/java/merger/html/ 
+
 description: Java codice di esempio per combinare documenti HTML su Java Runtime Environment per applicazioni JSP/JSF e applicazioni desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

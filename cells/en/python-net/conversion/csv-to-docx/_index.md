@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to DOCX via Python
-url: /python-net/conversion/csv-to-docx/
+
 description: Sample code for csv to docx Python conversion. Use API example code for batch csv files to docx conversion within Python application.
 ---
 

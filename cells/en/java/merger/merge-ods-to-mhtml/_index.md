@@ -1,6 +1,6 @@
 ---
 title: Merge ODS to MHTML Files via Java 
-url: /java/merger/merge-ods-to-mhtml/ 
+
 description: Merge ODS to MHTML file in Java code. Combine ODS to MHTML file using Java based desktop or web application.
 ---
 

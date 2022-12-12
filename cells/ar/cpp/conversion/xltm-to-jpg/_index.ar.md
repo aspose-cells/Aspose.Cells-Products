@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLTM إلى JPG عبر تطبيق C++ 
-url: /ar/cpp/conversion/xltm-to-jpg/ 
+
 description: نموذج C++ رمز تحويل لمستند XLTM إلى تنسيق JPG. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل مجموعة XLTM إلى JPG داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

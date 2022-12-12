@@ -1,7 +1,7 @@
-﻿---
+---
 title: Document XLSM en filigrane via .NET 
 weight: 8270
-url: /fr/net/watermark/xlsm/ 
+
 description: Code source C# pour ajouter ou supprimer un filigrane au fichier XLSM sur .NET Framework, .NET Core, Mono ou Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to XML via Python
-url: /python-java/conversion/xltx-to-xml/
+
 description: Convert XLTX to XML format in Python code. Save XLTX as XML using Python.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل HTML إلى JPG عبر C#
-url: /ar/net/conversion/html-to-jpg/
+
 description: نموذج رمز للتحويل من html إلى jpg C#. استخدم API رمز المثال لملفات html الدفعية لتحويل jpg داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

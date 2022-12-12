@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj SPREADSHEETML na TIFF przez C#
-url: /pl/net/conversion/spreadsheetml-to-tiff/
+
 description: Przykładowy kod konwersji arkusz kalkulacyjnyml na tiff C#. Użyj przykładowego kodu API dla wsadowych plików arkusza kalkulacyjnego w celu konwersji tiff w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

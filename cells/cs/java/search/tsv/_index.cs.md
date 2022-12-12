@@ -1,7 +1,7 @@
-﻿---
+---
 title: Prohledejte dokument TSV bez otevření prostřednictvím Java 
 weight: 4940
-url: /cs/java/search/tsv/ 
+
 description: Java ukázkový kód pro vyhledávání slov se vzorem v souboru TSV v Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

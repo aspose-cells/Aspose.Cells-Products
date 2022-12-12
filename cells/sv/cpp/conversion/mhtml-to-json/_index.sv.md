@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera MHTML till JSON via applikationen C++ 
-url: /sv/cpp/conversion/mhtml-to-json/ 
+
 description: Exempel på konverteringskod för C++ för MHTML-dokument till JSON-format. Programmerare kan använda den här källkoden för batchkonvertering av MHTML till JSON i alla C++-program.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

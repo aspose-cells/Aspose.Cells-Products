@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta XLTM a XLTX a través de la aplicación C++ 
-url: /es/cpp/conversion/xltm-to-xltx/ 
+
 description: Ejemplo de código de conversión C++ para documento XLTM a formato XLTX. Los programadores pueden usar este código fuente para la conversión por lotes de XLTM a XLTX dentro de cualquier aplicación C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

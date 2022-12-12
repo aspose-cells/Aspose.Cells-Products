@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte FODS na JSON pomocí aplikace C++ 
-url: /cs/cpp/conversion/fods-to-json/ 
+
 description: Ukázka převodního kódu C++ pro dokument FODS do formátu JSON. Programátoři mohou tento zdrojový kód použít pro dávkový převod FODS na JSON v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

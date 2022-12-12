@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TABDELIMITED na TIFF přes Python
-url: /cs/python-java/conversion/tabdelimited-to-tiff/
+
 description: Ukázkový kód pro konverzi Python oddělující tabulátory na tiff. Použijte API ukázkový kód pro dávkový převod souborů oddělených tabulátory na tiff v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter ODS para XML via Java 
-url: /pt/java/conversion/ods-to-xml/ 
+
 description: Exemplo de código de conversão Java para formato ODS para arquivo XML. Os programadores podem usar este código de exemplo para exportar planilhas do Excel e OpenOffice para XML em qualquer aplicativo baseado na Web ou Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

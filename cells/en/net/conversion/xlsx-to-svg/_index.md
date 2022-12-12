@@ -1,6 +1,6 @@
 ---
 title: Convert XLSX to SVG via C#
-url: /net/conversion/xlsx-to-svg/
+
 description: Convert XLSX to SVG format in C# code. Save XLSX as SVG using VB.NET, Asp.NET or any .NET based application.
 ---
 

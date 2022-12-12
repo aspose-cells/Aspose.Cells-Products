@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してNUMBERSをMHTMLに変換します
-url: /ja/python-java/conversion/numbers-to-mhtml/
+
 description: 数値からmhtmlPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチ番号ファイルからmhtmlへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

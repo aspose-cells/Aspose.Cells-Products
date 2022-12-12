@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konwertuj XLS na TIFF przez Java 
 weight: 7190
-url: /pl/java/conversion/xls-to-tiff/ 
+
 description: Przykładowy kod konwersji Java dla formatu XLS do pliku TIFF. Programiści mogą użyć tego przykładowego kodu, aby wyeksportować arkusze kalkulacyjne Excel i OpenOffice do formatu TIFF w dowolnej aplikacji internetowej lub desktopowej Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

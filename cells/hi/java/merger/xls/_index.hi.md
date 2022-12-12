@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java के द्वारा XLS फ़ाइलें मर्ज करें 
 weight: 5140
-url: /hi/java/merger/xls/ 
+
 description: Java JSP/JSF एप्लिकेशन और डेस्कटॉप एप्लिकेशन के लिए रनटाइम एनवायरनमेंट पर XLS दस्तावेज़ों को संयोजित करने के लिए Java नमूना कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converti CSV in PDF tramite C#
-url: /it/net/conversion/csv-to-pdf/
+
 description: Codice di esempio per la conversione da csv a pdf C#. Utilizza API codice di esempio per la conversione batch di file CSV in pdf all'interno di VB.NET, Asp.NET o qualsiasi applicazione basata su .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

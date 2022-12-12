@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir FODS en MHTML via C#
-url: /fr/net/conversion/fods-to-mhtml/
+
 description: Exemple de code pour la conversion de fods en mhtml C#. Utilisez l'exemple de code API pour les fichiers batch fods en conversion mhtml dans VB.NET, Asp.NET ou toute application basée sur .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java aracılığıyla ODS belgesini filigranla 
 weight: 1040
-url: /tr/java/watermark/ods/ 
+
 description: JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Runtime Environment'daki ODS dosyasına filigran eklemek veya kaldırmak için Java örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

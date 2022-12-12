@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง FODS เป็น XLSB ผ่าน Python
-url: /th/python-java/conversion/fods-to-xlsb/
+
 description: โค้ดตัวอย่างสำหรับการแปลง fods เป็น xlsb Python ใช้โค้ดตัวอย่าง API สำหรับไฟล์ batch fods เป็นการแปลง xlsb ภายในแอปพลิเคชัน Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

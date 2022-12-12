@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést HTML na PNG pomocí C#
-url: /cs/net/conversion/html-to-png/
+
 description: Ukázkový kód pro konverzi html na png C#. Použijte API ukázkový kód pro dávkový převod souborů html na png v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

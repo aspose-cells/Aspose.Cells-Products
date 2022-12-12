@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ uygulamasıyla ODS'yi PDF'ye dönüştürün 
 weight: 6720
-url: /tr/cpp/conversion/ods-to-pdf/ 
+
 description: ODS belgesinden PDF biçimine örnek C++ dönüştürme kodu. Programcılar, herhangi bir C++ Uygulamasında toplu ODS'den PDF'ye dönüştürme için bu kaynak kodunu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

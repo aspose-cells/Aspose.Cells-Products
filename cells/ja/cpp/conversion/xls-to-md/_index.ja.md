@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++アプリケーションを介してXLSをMDに変換する 
-url: /ja/cpp/conversion/xls-to-md/ 
+
 description: XLSドキュメントからMD形式へのサンプルC++変換コード。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でXLSからMDへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

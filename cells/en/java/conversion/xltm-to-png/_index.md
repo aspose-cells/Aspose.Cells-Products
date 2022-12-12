@@ -1,6 +1,6 @@
 ---
 title: Convert XLTM to PNG via Java 
-url: /java/conversion/xltm-to-png/
+
 description: Convert XLTM to PNG format in Java code. Save XLTM as PNG using Java.
 ---
 

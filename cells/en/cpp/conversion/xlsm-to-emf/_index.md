@@ -1,6 +1,6 @@
 ---
 title: Convert XLSM to EMF via C++
-url: /cpp/conversion/xlsm-to-emf/
+
 description: Convert XLSM to EMF format in C++ code. Save XLSM as EMF using C++.
 ---
 

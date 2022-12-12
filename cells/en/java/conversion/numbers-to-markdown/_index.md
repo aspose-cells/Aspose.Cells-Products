@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to MARKDOWN via Java 
-url: /java/conversion/numbers-to-markdown/
+
 description: Convert NUMBERS to MARKDOWN format in Java code. Save NUMBERS as MARKDOWN using Java.
 ---
 

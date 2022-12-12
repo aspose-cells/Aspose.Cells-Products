@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera XLSM till MHTML via Python
-url: /sv/python-java/conversion/xlsm-to-mhtml/
+
 description: Exempelkod för konvertering av xlsm till mhtml Python. Använd API exempelkod för batch-xlsm-filer till mhtml-konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

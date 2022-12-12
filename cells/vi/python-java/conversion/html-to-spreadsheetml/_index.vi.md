@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi HTML sang SPREADSHEETML qua Python
-url: /vi/python-java/conversion/html-to-spreadsheetml/
+
 description: Mã mẫu để chuyển đổi html sang bảng tínhml Python. Sử dụng mã mẫu API cho hàng loạt tệp html để chuyển đổi bảng tínhml trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

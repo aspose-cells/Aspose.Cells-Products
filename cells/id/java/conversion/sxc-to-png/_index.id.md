@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan SXC ke PNG melalui Java 
-url: /id/java/conversion/sxc-to-png/ 
+
 description: Contoh Java kode konversi untuk format SXC ke file PNG. Pemrogram dapat menggunakan kode contoh ini untuk mengekspor spreadsheet Excel & OpenOffice ke PNG dalam Aplikasi berbasis Web atau Desktop Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

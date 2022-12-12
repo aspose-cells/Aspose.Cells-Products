@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to TIFF via Python
-url: /python-net/conversion/sxc-to-tiff/
+
 description: Sample code for sxc to tiff Python conversion. Use API example code for batch sxc files to tiff conversion within Python application.
 ---
 

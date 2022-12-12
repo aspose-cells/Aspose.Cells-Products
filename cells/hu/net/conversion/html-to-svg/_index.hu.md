@@ -1,6 +1,6 @@
-﻿---
+---
 title: "HTML konvertálása SVG-vé a következőn keresztül: C#"
-url: /hu/net/conversion/html-to-svg/
+
 description: Mintakód a html-ből svg-be C# történő konverzióhoz. Használjon API példakódot kötegelt html-fájlokhoz az SVG-konverzióhoz VB-n.NET, Asp-n.NET vagy bármely .NET-alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

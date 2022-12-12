@@ -1,6 +1,6 @@
-﻿---
+---
 title: "CSV konvertálása DIF-re a következőn keresztül: C#"
-url: /hu/net/conversion/csv-to-dif/
+
 description: Mintakód a csv–diff C# konverzióhoz. Használjon API példakódot kötegelt csv fájlokhoz a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belüli konvertáláshoz.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

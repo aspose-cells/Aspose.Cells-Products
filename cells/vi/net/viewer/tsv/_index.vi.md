@@ -1,7 +1,7 @@
-﻿---
+---
 title: Xem Định dạng Tệp TSV qua .NET 
 weight: 3090
-url: /vi/net/viewer/tsv/ 
+
 description: C# mã nguồn để tải, hiển thị và hiển thị tài liệu TSV trên Nền tảng .NET Framework, .NET Core Mono hoặc Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

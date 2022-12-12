@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLSM в XLS через Python
-url: /ru/python-java/conversion/xlsm-to-xls/
+
 description: Пример кода для преобразования xlsm в xls Python. Используйте пример кода API для пакетного преобразования файлов xlsm в xls в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

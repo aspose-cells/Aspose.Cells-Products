@@ -1,6 +1,6 @@
-﻿---
+---
 title: "FODS konvertálása XLAM-re a következőn keresztül: C#"
-url: /hu/net/conversion/fods-to-xlam/
+
 description: Mintakód a fod to xlam C# konverzióhoz. Használjon API példakódot kötegelt fod fájlokhoz az xlam konvertáláshoz VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

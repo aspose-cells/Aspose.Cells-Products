@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python के माध्यम से एमएचटीएमएल को पीएनजी में बदलें
-url: /hi/python-java/conversion/mhtml-to-png/
+
 description: एमएचटीएमएल से पीएनजी Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर बैच एमएचटीएमएल फाइलों से पीएनजी रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

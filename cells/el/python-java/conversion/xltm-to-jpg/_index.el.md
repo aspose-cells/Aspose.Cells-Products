@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή XLTM σε JPG μέσω Python
-url: /el/python-java/conversion/xltm-to-jpg/
+
 description: Δείγμα κώδικα για μετατροπή xltm σε jpg Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδική μετατροπή αρχείων xltm σε jpg εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

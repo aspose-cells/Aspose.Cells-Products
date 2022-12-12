@@ -1,6 +1,6 @@
-﻿---
+---
 title: Excel-werkblad bladsgewijs splitsen in C#
-url: /nl/net/splitter/
+
 description: C# broncodes waarin wordt uitgelegd hoe u Microsoft Excel-bestanden kunt splitsen in meerdere bestanden in Visual C#.NET-toepassingen
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

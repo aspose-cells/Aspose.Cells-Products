@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla JSON'u DOCX'e dönüştürün
-url: /tr/python-java/conversion/json-to-docx/
+
 description: json'dan docx'e Python dönüştürme için örnek kod. Python uygulamasında toplu json dosyalarından docx'e dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TSV na DOCX prostřednictvím Python
-url: /cs/python-java/conversion/tsv-to-docx/
+
 description: Ukázkový kód pro převod tsv na docx Python. Použijte API ukázkový kód pro dávkový převod souborů tsv na docx v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

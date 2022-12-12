@@ -1,6 +1,6 @@
-﻿---
+---
 title: "FODS konvertálása EMF-vé a következőn keresztül: Python"
-url: /hu/python-java/conversion/fods-to-emf/
+
 description: Mintakód a fods to emf Python konverziójához. Használjon API példakódot a kötegelt fods fájlokhoz az EMF konverzióhoz a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

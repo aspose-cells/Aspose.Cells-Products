@@ -1,6 +1,6 @@
-﻿---
+---
 title: Upravit soubory MHT prostřednictvím .NET 
-url: /cs/net/editor/mht/ 
+
 description: C# zdrojový kód k úpravě dokumentu MHT na platformách .NET Framework, .NET Core, Windows Azure, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

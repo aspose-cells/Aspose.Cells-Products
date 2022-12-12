@@ -1,7 +1,7 @@
-﻿---
+---
 title: Prohledejte dokument XLS bez otevírání prostřednictvím .NET 
 weight: 1490
-url: /cs/net/search/xls/ 
+
 description: C# zdrojový kód pro vyhledávání slov se vzorem v souboru XLS na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

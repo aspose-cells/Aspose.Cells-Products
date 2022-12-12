@@ -1,7 +1,7 @@
-﻿---
+---
 title: Dokumen XLSX tanda air melalui .NET 
 weight: 8270
-url: /id/net/watermark/xlsx/ 
+
 description: C# kode sumber untuk menambah atau menghapus tanda air ke file XLSX di .NET Framework, .NET Core, Mono atau Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

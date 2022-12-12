@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Szerkessze vagy tekintse meg az XLS-dokumentum metaadatait a következőn keresztül: C++ "
 weight: 2150
-url: /hu/cpp/metadata/xls/ 
+
 description: C++ példakód az XLS-fájl metaadatainak szerkesztéséhez vagy megtekintéséhez a C++ Runtime Environment for Windows 32 bit, Windows 64 bit és Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

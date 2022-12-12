@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to ODS via Python
-url: /python-net/conversion/csv-to-ods/
+
 description: Sample code for csv to ods Python conversion. Use API example code for batch csv files to ods conversion within Python application.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir XLSB en EMF via C#
-url: /fr/net/conversion/xlsb-to-emf/
+
 description: Exemple de code pour la conversion de xlsb en emf C#. Utilisez l'exemple de code API pour les fichiers batch xlsb en conversion emf dans VB.NET, Asp.NET ou toute application basée sur .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

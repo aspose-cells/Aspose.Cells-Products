@@ -1,6 +1,6 @@
 ---
 title: Convert TSV to PNG via Java 
-url: /java/conversion/tsv-to-png/
+
 description: Convert TSV to PNG format in Java code. Save TSV as PNG using Java.
 ---
 

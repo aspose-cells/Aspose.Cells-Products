@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir TSV en ODS via C#
-url: /fr/net/conversion/tsv-to-ods/
+
 description: Exemple de code pour la conversion tsv en ods C#. Utilisez l'exemple de code API pour la conversion de fichiers tsv par lots en ods dans VB.NET, Asp.NET ou toute application basée sur .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

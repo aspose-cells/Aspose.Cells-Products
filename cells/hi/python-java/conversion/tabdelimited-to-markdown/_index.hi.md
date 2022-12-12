@@ -1,6 +1,6 @@
-﻿---
+---
 title: TABDELIMITED को Python के ज़रिए मार्कडाउन में बदलें
-url: /hi/python-java/conversion/tabdelimited-to-markdown/
+
 description: टैब सीमित के लिए मार्कडाउन Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर रूपांतरण को मार्कडाउन करने के लिए बैच टैबसीमांकित फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

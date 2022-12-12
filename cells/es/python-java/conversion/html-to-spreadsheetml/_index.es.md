@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta HTML a SPREADSHEETML a través de Python
-url: /es/python-java/conversion/html-to-spreadsheetml/
+
 description: Código de muestra para la conversión de html a hoja de cálculo Python. Utilice el código de ejemplo API para la conversión de archivos html por lotes a hojas de cálculo dentro de la aplicación Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

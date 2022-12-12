@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLT konvertálása TIFF-re a következőn keresztül: Java "
 weight: 1530
-url: /hu/java/conversion/xlt-to-tiff/ 
+
 description: Minta Java konverziós kód XLT formátumhoz TIFF fájlba. A programozók ezt a példakódot használhatják Excel és OpenOffice táblázatok TIFF formátumba exportálására bármely web- vagy asztali Java alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

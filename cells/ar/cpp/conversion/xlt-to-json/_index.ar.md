@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLT إلى JSON عبر تطبيق C++ 
-url: /ar/cpp/conversion/xlt-to-json/ 
+
 description: نموذج رمز تحويل C++ لمستند XLT إلى تنسيق JSON. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل دفعة XLT إلى JSON داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

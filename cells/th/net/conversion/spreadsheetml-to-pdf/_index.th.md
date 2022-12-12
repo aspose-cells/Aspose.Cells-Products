@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง SPREADSHEETML เป็น PDF ผ่าน C#
-url: /th/net/conversion/spreadsheetml-to-pdf/
+
 description: โค้ดตัวอย่างสำหรับการแปลงสเปรดชีตml เป็น pdf C# ใช้โค้ดตัวอย่าง API สำหรับไฟล์แบทช์สเปรดชีตml เป็นการแปลงไฟล์ PDF ภายใน VB.NET, Asp.NET หรือแอปพลิเคชันที่ใช้ .NET
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Xem Định dạng tệp XLTX qua .NET 
 weight: 7870
-url: /vi/net/viewer/xltx/ 
+
 description: C# mã nguồn để tải, hiển thị và hiển thị tài liệu XLTX trên Nền tảng .NET Framework, .NET Core Mono hoặc Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

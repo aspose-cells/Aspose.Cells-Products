@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera XLSM till XML via C#
-url: /sv/net/conversion/xlsm-to-xml/
+
 description: Exempelkod för konvertering av xlsm till xml C#. Använd API exempelkod för batch-xlsm-filer till xml-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

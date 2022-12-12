@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++を介してXLSBドキュメントのテキストを検索および置換します 
 weight: 6660
-url: /ja/cpp/redaction/xlsb/ 
+
 description: C++ Windows 32ビット、Windows 64ビット、およびLinux64ビットのランタイム環境でXLSBファイルの機密情報を編集するためのサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

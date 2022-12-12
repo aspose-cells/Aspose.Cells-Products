@@ -1,6 +1,6 @@
-﻿---
+---
 title: .NETを介してHTMLファイルを編集する 
-url: /ja/net/editor/html/ 
+
 description: .NETフレームワーク、.NETコア、Windows Azure、Mono、またはXamarinプラットフォームでHTMLドキュメントを編集するためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

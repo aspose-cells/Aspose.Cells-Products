@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést MHTML na MARKDOWN prostřednictvím C#
-url: /cs/net/conversion/mhtml-to-markdown/
+
 description: Ukázkový kód pro konverzi mhtml na markdown C#. Použijte API ukázkový kód pro dávkové soubory mhtml k převodu markdown v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

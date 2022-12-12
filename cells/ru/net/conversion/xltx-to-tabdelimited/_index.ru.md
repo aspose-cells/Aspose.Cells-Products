@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLTX в TABDELIMITED через C#
-url: /ru/net/conversion/xltx-to-tabdelimited/
+
 description: Пример кода для преобразования xltx в C# с разделителями табуляции. Используйте пример кода API для пакетных файлов xltx для преобразования с разделителями табуляции в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

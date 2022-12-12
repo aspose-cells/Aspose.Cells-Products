@@ -1,7 +1,7 @@
-﻿---
+---
 title: Извлечение текста и изображений из документа XLSM с помощью C++ 
 weight: 570
-url: /ru/cpp/parser/xlsm/ 
+
 description: Пример кода C++ для извлечения текста и изображений из файла XLSM в C++ среде выполнения для 32-разрядной, 64-разрядной Windows и 64-разрядной версии Linux.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

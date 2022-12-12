@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLTX в XLSB с помощью приложения C++ 
-url: /ru/cpp/conversion/xltx-to-xlsb/ 
+
 description: Пример кода преобразования C++ для документа XLTX в формат XLSB. Программисты могут использовать этот исходный код для пакетного преобразования XLTX в XLSB в любом приложении C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

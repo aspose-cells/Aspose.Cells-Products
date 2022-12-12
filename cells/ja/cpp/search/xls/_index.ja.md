@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++を介して開かずにXLSドキュメントを検索する 
 weight: 4560
-url: /ja/cpp/search/xls/ 
+
 description: C++ Windows 32ビット、Windows 64ビット、およびLinux64ビットのランタイム環境でXLSファイル内のパターンを持つ単語を検索するためのサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

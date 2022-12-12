@@ -1,6 +1,6 @@
-﻿---
+---
 title: Erstellen Sie MS Excel XLSB-Dateien über Java 
-url: /de/java/create-xlsb/ 
+
 description: Java Beispielcode zum Generieren von XLSB-Dokumenten. Verwenden Sie diesen Code zum Erstellen von MS Excel XLSB-Dateien in einer Java-basierten Desktop- oder Webanwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

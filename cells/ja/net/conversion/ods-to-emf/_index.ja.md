@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してODSをEMFに変換する
-url: /ja/net/conversion/ods-to-emf/
+
 description: odsからemfC#への変換のサンプルコード。バッチodsファイルのAPIサンプルコードを使用して、VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内で変換をemfします。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

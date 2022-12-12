@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to GIF via Java 
-url: /java/conversion/spreadsheetml-to-gif/
+
 description: Convert SPREADSHEETML to GIF format in Java code. Save SPREADSHEETML as GIF using Java.
 ---
 

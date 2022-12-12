@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi NUMBER ke SVG melalui C#
-url: /id/net/conversion/numbers-to-svg/
+
 description: Contoh kode untuk angka ke konversi C# svg. Gunakan API kode contoh untuk file nomor batch ke konversi svg dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

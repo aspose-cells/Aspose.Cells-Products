@@ -1,6 +1,6 @@
-﻿---
+---
 title: SPREADSHEETML konvertálása BMP-re a(z) C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/spreadsheetml-to-bmp/ 
+
 description: Minta C++ konverziós kód a SPREADSHEETML dokumentumhoz BMP formátumba. A programozók ezt a forráskódot használhatják a SPREADSHEETML-ből BMP-be kötegelt konvertáláshoz bármely C++ alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

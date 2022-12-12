@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi NUMBER ke XPS melalui C#
-url: /id/net/conversion/numbers-to-xps/
+
 description: Contoh kode untuk konversi angka ke xps C#. Gunakan API kode contoh untuk file nomor batch ke konversi xps dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

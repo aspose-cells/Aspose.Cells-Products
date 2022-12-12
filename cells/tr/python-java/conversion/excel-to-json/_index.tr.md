@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla EXCEL'i JSON'a dönüştürün
-url: /tr/python-java/conversion/excel-to-json/
+
 description: Excel'den json'a Python dönüşümü için örnek kod. Python uygulamasında toplu excel dosyalarından json'a dönüştürme için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

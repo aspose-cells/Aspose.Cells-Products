@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie NUMBERS in JSON über Python
-url: /de/python-java/conversion/numbers-to-json/
+
 description: Beispielcode für die Umwandlung von Zahlen in json Python. Verwenden Sie den API-Beispielcode für die Konvertierung von Stapelnummerndateien in JSON innerhalb der Anwendung Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

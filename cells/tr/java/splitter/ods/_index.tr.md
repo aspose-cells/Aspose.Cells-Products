@@ -1,7 +1,7 @@
-﻿---
+---
 title: ODS Dosyalarını Java ile Böl 
 weight: 1950
-url: /tr/java/splitter/ods/ 
+
 description: JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Runtime Environment'da ODS belgelerini bölmek için Java örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

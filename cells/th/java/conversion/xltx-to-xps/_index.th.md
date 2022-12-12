@@ -1,7 +1,7 @@
-﻿---
+---
 title: แปลง XLTX เป็น XPS ผ่าน Java 
 weight: 2990
-url: /th/java/conversion/xltx-to-xps/ 
+
 description: ตัวอย่างโค้ดการแปลง Java สำหรับรูปแบบ XLTX เป็นไฟล์ XPS โปรแกรมเมอร์สามารถใช้โค้ดตัวอย่างนี้เพื่อส่งออกสเปรดชีต Excel & OpenOffice ไปยัง XPS ภายในแอปพลิเคชันบนเว็บหรือเดสก์ท็อป Java
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

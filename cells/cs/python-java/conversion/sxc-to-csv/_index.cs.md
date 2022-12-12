@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést SXC na CSV prostřednictvím Python
-url: /cs/python-java/conversion/sxc-to-csv/
+
 description: Ukázkový kód pro převod sxc na csv Python. Použijte API ukázkový kód pro dávkový převod souborů sxc na csv v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

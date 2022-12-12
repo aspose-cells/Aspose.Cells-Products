@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Konvertálja az XLTM-et SXC-vé a következőn keresztül: C#"
-url: /hu/net/conversion/xltm-to-sxc/
+
 description: Mintakód az xltm–sxc C# konverzióhoz. Használjon API példakódot a kötegelt xltm fájlok sxc konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование HTML в SPREADSHETML через Python
-url: /ru/python-java/conversion/html-to-spreadsheetml/
+
 description: Пример кода для преобразования html в электронную таблицуPython. Используйте пример кода API для пакетного преобразования HTML-файлов в электронную таблицу в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

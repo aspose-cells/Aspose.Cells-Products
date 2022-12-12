@@ -1,7 +1,7 @@
 ---
 title:  XLSM document chart to images via .NET 
 weight: 5100
-url: /net/chart/xlsm/ 
+
 description: C# source code to draw and convert chart or diagram in XLSM file on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

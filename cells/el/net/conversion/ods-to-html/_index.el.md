@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή ODS σε HTML μέσω C#
-url: /el/net/conversion/ods-to-html/
+
 description: Δείγμα κώδικα για μετατροπή ods σε html C#. Χρησιμοποιήστε API παράδειγμα κώδικα για μετατροπή ομαδικών αρχείων σε html εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

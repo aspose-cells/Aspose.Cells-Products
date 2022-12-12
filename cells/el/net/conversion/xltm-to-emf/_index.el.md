@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή XLTM σε EMF μέσω C#
-url: /el/net/conversion/xltm-to-emf/
+
 description: Δείγμα κώδικα για μετατροπή xltm σε emf C#. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία xltm για μετατροπή emf εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

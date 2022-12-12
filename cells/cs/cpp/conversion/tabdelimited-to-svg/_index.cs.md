@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte TABDELIMITED na SVG pomocí aplikace C++ 
-url: /cs/cpp/conversion/tabdelimited-to-svg/ 
+
 description: Ukázkový konverzní kód C++ pro dokument TABDELIMITED do formátu SVG. Programátoři mohou použít tento zdrojový kód pro dávkový převod TABDELIMITED na SVG v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

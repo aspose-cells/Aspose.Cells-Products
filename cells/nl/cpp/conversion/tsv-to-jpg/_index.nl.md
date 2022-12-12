@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer TSV naar JPG via C++ applicatie 
-url: /nl/cpp/conversion/tsv-to-jpg/ 
+
 description: Voorbeeld C++-conversiecode voor TSV-document naar JPG-indeling. Programmeurs kunnen deze broncode gebruiken voor batchconversie van TSV naar JPG binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

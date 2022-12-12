@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل XLTX إلى TSV عبر Java 
 weight: 3420
-url: /ar/java/conversion/xltx-to-tsv/ 
+
 description: نموذج رمز تحويل Java لتنسيق XLTX إلى ملف TSV. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى TSV داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: MHTML konvertálása XLSB-re a(z) C++ alkalmazáson keresztül 
 weight: 7450
-url: /hu/cpp/conversion/mhtml-to-xlsb/ 
+
 description: Minta C++ konverziós kód MHTML dokumentumhoz XLSB formátumba. A programozók ezt a forráskódot használhatják az MHTML-ből XLSB-be kötegelt konvertálásához bármely C++ alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

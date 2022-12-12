@@ -1,7 +1,7 @@
-﻿---
+---
 title: MHTML konvertálása TIFF formátumba a(z) C++ alkalmazással 
 weight: 4830
-url: /hu/cpp/conversion/mhtml-to-tiff/ 
+
 description: Minta C++ konverziós kód MHTML-dokumentumhoz TIFF formátumba. A programozók ezt a forráskódot használhatják MHTML-ből TIFF-be kötegelt konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

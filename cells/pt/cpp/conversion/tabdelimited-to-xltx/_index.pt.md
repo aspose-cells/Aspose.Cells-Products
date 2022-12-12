@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter TABDELIMITED para XLTX por meio do aplicativo C++ 
-url: /pt/cpp/conversion/tabdelimited-to-xltx/ 
+
 description: Exemplo de código de conversão C++ do documento TABDELIMITED para o formato XLTX. Os programadores podem usar esse código-fonte para conversão em lote de TABDELIMITED para XLTX em qualquer aplicativo C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

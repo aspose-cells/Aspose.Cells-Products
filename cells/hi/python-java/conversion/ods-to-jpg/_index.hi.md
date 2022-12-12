@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python के माध्यम से ODS को JPG में बदलें
-url: /hi/python-java/conversion/ods-to-jpg/
+
 description: ऑड्स से jpg Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर jpg रूपांतरण में बैच ऑड्स फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Unisci file TXT tramite .NET 
 weight: 7350
-url: /it/net/merger/txt/ 
+
 description: C# codice sorgente per combinare documenti TXT su piattaforme .NET Framework, .NET Core, Mono o Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

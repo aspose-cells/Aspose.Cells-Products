@@ -1,7 +1,7 @@
-﻿---
+---
 title: Mesclar arquivos HTML por meio de .NET 
 weight: 9440
-url: /pt/net/merger/html/ 
+
 description: C# código-fonte para combinar documentos HTML em plataformas .NET Framework, .NET Core, Mono ou Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

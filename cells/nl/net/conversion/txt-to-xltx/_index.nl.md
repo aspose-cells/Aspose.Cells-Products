@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer TXT naar XLTX via C#
-url: /nl/net/conversion/txt-to-xltx/
+
 description: Voorbeeldcode voor conversie van txt naar xltx C#. Gebruik API voorbeeldcode voor batch-txt-bestanden naar xltx-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

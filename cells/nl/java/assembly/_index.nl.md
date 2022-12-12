@@ -1,6 +1,6 @@
-﻿---
+---
 title: Excel-bestanden maken via Java
-url: /nl/java/assembly/
+
 description: Genereer Microsoft Excel-spreadsheets van een sjabloonblad met behulp van Java spreadsheetbibliotheek
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

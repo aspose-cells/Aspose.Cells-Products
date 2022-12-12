@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to GIF via C++
-url: /cpp/conversion/spreadsheetml-to-gif/
+
 description: Convert SPREADSHEETML to GIF format in C++ code. Save SPREADSHEETML as GIF using C++.
 ---
 

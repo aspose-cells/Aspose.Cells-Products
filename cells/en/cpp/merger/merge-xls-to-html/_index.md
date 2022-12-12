@@ -1,6 +1,6 @@
 ---
 title: Merge XLS to HTML Files via C++ 
-url: /cpp/merger/merge-xls-to-html/ 
+
 description: Merge XLS to HTML file in C++ code. Combine XLS to HTML file using C++.
 ---
 

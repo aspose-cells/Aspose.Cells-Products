@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل الأرقام إلى FODS عبر C#
-url: /ar/net/conversion/numbers-to-fods/
+
 description: نموذج كود لتحويل الأعداد إلى fods C#. استخدم API رمز المثال لملفات أرقام الدُفعات لتحويل fods داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

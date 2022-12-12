@@ -1,7 +1,7 @@
-﻿---
+---
 title: Chuyển đổi JSON sang XPS qua Java 
 weight: 7860
-url: /vi/java/conversion/json-to-xps/ 
+
 description: Mã chuyển đổi Java mẫu cho định dạng JSON thành tệp XPS. Người lập trình có thể sử dụng mã ví dụ này để xuất bảng tính Excel & OpenOffice sang XPS trong bất kỳ Ứng dụng dựa trên Web hoặc Máy tính Java nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

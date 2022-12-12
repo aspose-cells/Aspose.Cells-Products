@@ -1,6 +1,6 @@
-﻿---
+---
 title: SPREADSHEETML konvertálása DIF-re a(z) C++ alkalmazáson keresztül 
-url: /hu/cpp/conversion/spreadsheetml-to-dif/ 
+
 description: Minta C++ konverziós kód a SPREADSHEETML dokumentumhoz DIF formátumba. A programozók ezt a forráskódot használhatják a SPREADSHEETML-ből DIF-be kötegelt konvertáláshoz bármely C++ alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

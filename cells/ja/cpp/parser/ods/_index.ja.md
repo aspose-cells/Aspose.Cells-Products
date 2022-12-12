@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++を介してODSドキュメントからテキストと画像を抽出します 
 weight: 9130
-url: /ja/cpp/parser/ods/ 
+
 description: C++ Windows 32ビット、Windows 64ビット、およびLinux64ビットのランタイム環境でODSファイルからテキストと画像を抽出するためのサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Grafico del documento XLSX tramite Java 
 weight: 5380
-url: /it/java/chart/xlsx/ 
+
 description: Java codice di esempio per disegnare e convertire grafici o diagrammi in file XLSX su Java Runtime Environment per applicazioni JSP/JSF e applicazioni desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

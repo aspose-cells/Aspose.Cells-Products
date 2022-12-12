@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to EMF via C++
-url: /cpp/conversion/sxc-to-emf/
+
 description: Convert SXC to EMF format in C++ code. Save SXC as EMF using C++.
 ---
 

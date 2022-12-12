@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLSX konvertálása PNG-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/xlsx-to-png/
+
 description: Mintakód az xlsx–png Python konverzióhoz. Használjon API példakódot a kötegelt xlsx fájlok png konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

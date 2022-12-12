@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してMSExcelXLTXファイルを作成する 
-url: /ja/java/create-xltx/ 
+
 description: JavaXLTXドキュメントを生成するためのサンプルコード。このコードを使用して、JavaベースのデスクトップまたはWebアプリケーション内にMSExcelXLTXファイルを作成します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

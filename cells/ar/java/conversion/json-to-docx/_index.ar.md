@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل JSON إلى DOCX عبر Java 
 weight: 970
-url: /ar/java/conversion/json-to-docx/ 
+
 description: نموذج رمز تحويل Java لتنسيق JSON إلى ملف DOCX. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى DOCX داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

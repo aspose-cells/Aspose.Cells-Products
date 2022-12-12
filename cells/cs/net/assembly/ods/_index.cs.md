@@ -1,7 +1,7 @@
-﻿---
+---
 title: Generovat zprávy v souborech ODS prostřednictvím .NET 
 weight: 520
-url: /cs/net/assembly/ods/ 
+
 description: C# zdrojový kód pro generování sestav formátu ODS na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

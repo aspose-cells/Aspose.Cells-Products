@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer SPREADSHEETML naar TIFF via C#
-url: /nl/net/conversion/spreadsheetml-to-tiff/
+
 description: Voorbeeldcode voor conversie van spreadsheetml naar tiff C#. Gebruik API voorbeeldcode voor batch-spreadsheetml-bestanden naar tiff-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

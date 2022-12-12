@@ -1,7 +1,7 @@
-﻿---
+---
 title: Extrahujte text a obrázky z dokumentu XLSM prostřednictvím .NET 
 weight: 4010
-url: /cs/net/parser/xlsm/ 
+
 description: C# zdrojový kód pro extrahování textu a obrázků ze souboru XLSM na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

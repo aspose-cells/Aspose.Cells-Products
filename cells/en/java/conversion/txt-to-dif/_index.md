@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to DIF via Java 
-url: /java/conversion/txt-to-dif/
+
 description: Convert TXT to DIF format in Java code. Save TXT as DIF using Java.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してTABDELIMITEDをEMFに変換します
-url: /ja/python-java/conversion/tabdelimited-to-emf/
+
 description: tabdelimitedからemfPythonへの変換のサンプルコード。 Pythonアプリケーション内で変換をemfするためのバッチタブ区切りファイルのAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

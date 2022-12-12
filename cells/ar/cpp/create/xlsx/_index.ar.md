@@ -1,6 +1,6 @@
-﻿---
+---
 title: إنشاء ملفات MS Excel XLSX عبر C++ 
-url: /ar/cpp/create-xlsx/ 
+
 description: C++ نموذج كود لإنشاء ملفات MS Excel XLSX. استخدم هذا الرمز لإنشاء ملفات MS Excel XLSX داخل تطبيق يستند إلى C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

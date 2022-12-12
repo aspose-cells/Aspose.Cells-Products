@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to JPEG via Java 
-url: /java/conversion/spreadsheetml-to-jpeg/
+
 description: Convert SPREADSHEETML to JPEG format in Java code. Save SPREADSHEETML as JPEG using Java.
 ---
 

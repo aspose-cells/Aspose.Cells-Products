@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převeďte TSV na XPS pomocí aplikace C++ 
 weight: 3960
-url: /cs/cpp/conversion/tsv-to-xps/ 
+
 description: Ukázka převodního kódu C++ pro dokument TSV na formát XPS. Programátoři mohou použít tento zdrojový kód pro dávkový převod TSV na XPS v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

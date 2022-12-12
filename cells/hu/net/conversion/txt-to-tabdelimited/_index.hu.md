@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TXT konvertálása TAB-raDELIMITED a következőn keresztül: C#"
-url: /hu/net/conversion/txt-to-tabdelimited/
+
 description: Mintakód a txt tabulátorral tagolt C# konverziójához. Használjon API példakódot kötegelt txt fájlokhoz a tabulátorral tagolt konverzióhoz VB.NET, Asp.NET vagy bármely .NET alapú alkalmazásban.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

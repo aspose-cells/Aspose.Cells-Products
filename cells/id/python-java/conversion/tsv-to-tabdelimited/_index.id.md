@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan TSV ke TABDELIMITED melalui Python
-url: /id/python-java/conversion/tsv-to-tabdelimited/
+
 description: Contoh kode untuk konversi tsv ke tabdelimited Python. Gunakan API kode contoh untuk berkas tsv batch ke konversi tabdelimited dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

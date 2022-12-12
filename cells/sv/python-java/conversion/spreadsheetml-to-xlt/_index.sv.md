@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera SPREADSHEETML till XLT via Python
-url: /sv/python-java/conversion/spreadsheetml-to-xlt/
+
 description: Exempelkod för konvertering från kalkylarkml till xlt Python. Använd API-exempelkod för batch-kalkylarkml-filer till xlt-konvertering i applikationen Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

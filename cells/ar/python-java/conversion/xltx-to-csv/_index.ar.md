@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLTX إلى CSV عبر Python
-url: /ar/python-java/conversion/xltx-to-csv/
+
 description: نموذج كود لتحويل xltx إلى csv Python. استخدم API رمز المثال لملفات xltx الدفعية لتحويل csv داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

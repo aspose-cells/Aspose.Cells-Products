@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to MARKDOWN via Java 
-url: /java/conversion/txt-to-markdown/
+
 description: Convert TXT to MARKDOWN format in Java code. Save TXT as MARKDOWN using Java.
 ---
 

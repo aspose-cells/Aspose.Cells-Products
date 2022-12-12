@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte TXT na DIF pomocí aplikace C++ 
-url: /cs/cpp/conversion/txt-to-dif/ 
+
 description: Ukázka převodního kódu C++ pro dokument TXT do formátu DIF. Programátoři mohou použít tento zdrojový kód pro dávkový převod TXT na DIF v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

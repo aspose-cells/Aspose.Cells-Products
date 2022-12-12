@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to MHTML via C#
-url: /net/conversion/csv-to-mhtml/
+
 description: Convert CSV to MHTML format in C# code. Save CSV as MHTML using VB.NET, Asp.NET or any .NET based application.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to XLSM via Java 
-url: /java/conversion/sxc-to-xlsm/
+
 description: Convert SXC to XLSM format in Java code. Save SXC as XLSM using Java.
 ---
 

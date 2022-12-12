@@ -1,7 +1,7 @@
-﻿---
+---
 title: حماية وقفل مستند XLSM عبر C++ 
 weight: 8770
-url: /ar/cpp/protect/xlsm/ 
+
 description: C++ مثال على رمز لقفل ملف XLSM باستخدام كلمة مرور في C++ Runtime Environment لأنظمة التشغيل Windows 32 بت و Windows 64 بت و Linux 64 بت.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

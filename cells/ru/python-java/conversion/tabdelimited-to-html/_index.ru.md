@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование TABDELIMITED в HTML через Python
-url: /ru/python-java/conversion/tabdelimited-to-html/
+
 description: Пример кода для преобразования tabdelimited в html Python. Используйте пример кода API для пакетного преобразования файлов с разделителями табуляции в html в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

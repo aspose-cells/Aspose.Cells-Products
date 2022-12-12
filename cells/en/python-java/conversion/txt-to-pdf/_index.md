@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to PDF via Python
-url: /python-java/conversion/txt-to-pdf/
+
 description: Convert TXT to PDF format in Python code. Save TXT as PDF using Python.
 ---
 

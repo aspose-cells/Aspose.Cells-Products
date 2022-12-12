@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLTX إلى FODS عبر Java 
-url: /ar/java/conversion/xltx-to-fods/ 
+
 description: نموذج Java رمز تحويل لتنسيق XLTX إلى ملف FODS. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى FODS داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: إنشاء مخططات دائرية عبر Python
-url: /ar/python-java/create-pie-chart/
+
 description: Python نموذج كود لإنشاء مخططات دائرية في Excel باستخدام Python Library. استخدم هذا الرمز لإنشاء مخطط دائري لبرنامج MS Excel داخل تطبيق يستند إلى Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

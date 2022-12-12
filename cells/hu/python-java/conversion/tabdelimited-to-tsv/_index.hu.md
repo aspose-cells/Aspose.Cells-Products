@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TABDELIMITED konvertálása TSV-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/tabdelimited-to-tsv/
+
 description: Mintakód a tabulátorral elválasztott tsv Python konverzióhoz. Használjon API példakódot a tabulátorral határolt fájlok kötegelt tsv-vé konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

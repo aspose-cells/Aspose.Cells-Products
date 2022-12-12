@@ -1,7 +1,7 @@
-﻿---
+---
 title: مستند العلامة المائية XLSB عبر Java 
 weight: 5900
-url: /ar/java/watermark/xlsb/ 
+
 description: Java نموذج كود لإضافة أو إزالة العلامة المائية إلى ملف XLSB في Java Runtime Environment for JSP / JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

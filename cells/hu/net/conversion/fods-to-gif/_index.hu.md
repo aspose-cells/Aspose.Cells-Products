@@ -1,6 +1,6 @@
-﻿---
+---
 title: "FODS konvertálása GIF-re a következőn keresztül: C#"
-url: /hu/net/conversion/fods-to-gif/
+
 description: Mintakód a fods to gif C# konverzióhoz. Használjon API példakódot kötegelt fods fájlok gif konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to XPS via Python
-url: /python-java/conversion/xltx-to-xps/
+
 description: Convert XLTX to XPS format in Python code. Save XLTX as XPS using Python.
 ---
 

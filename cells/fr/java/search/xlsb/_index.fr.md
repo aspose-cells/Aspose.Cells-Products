@@ -1,7 +1,7 @@
-﻿---
+---
 title: Rechercher un document XLSB sans ouvrir via Java 
 weight: 9420
-url: /fr/java/search/xlsb/ 
+
 description: Java exemple de code pour rechercher des mots avec un modèle dans le fichier XLSB sur Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

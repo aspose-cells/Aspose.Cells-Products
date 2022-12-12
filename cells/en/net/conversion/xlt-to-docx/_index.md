@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to DOCX via C#
-url: /net/conversion/xlt-to-docx/
+
 description: Convert XLT to DOCX format in C# code. Save XLT as DOCX using VB.NET, Asp.NET or any .NET based application.
 ---
 

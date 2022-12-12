@@ -1,6 +1,6 @@
 ---
 title: Convert XLTM to SVG via Java 
-url: /java/conversion/xltm-to-svg/
+
 description: Convert XLTM to SVG format in Java code. Save XLTM as SVG using Java.
 ---
 

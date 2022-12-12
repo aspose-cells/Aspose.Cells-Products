@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLSX दस्तावेज़ को C++ के माध्यम से सुरक्षित और लॉक करें 
 weight: 1140
-url: /hi/cpp/protect/xlsx/ 
+
 description: C++ विंडोज 32 बिट, विंडोज 64 बिट और लिनक्स 64 बिट के लिए C++ रनटाइम एनवायरनमेंट पर पासवर्ड का उपयोग करके एक्सएलएसएक्स फ़ाइल को लॉक करने के लिए उदाहरण कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

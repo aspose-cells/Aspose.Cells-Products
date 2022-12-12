@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل SPREADSHEETML إلى SXC عبر C#
-url: /ar/net/conversion/spreadsheetml-to-sxc/
+
 description: نموذج كود لجدول بيانات لتحويل sxc C#. استخدم API رمز المثال لملفات جداول البيانات الدفعية لتحويل sxc داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

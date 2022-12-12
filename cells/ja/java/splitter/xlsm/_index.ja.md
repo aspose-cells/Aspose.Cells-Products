@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してXLSMファイルを分割する 
 weight: 5670
-url: /ja/java/splitter/xlsm/ 
+
 description: JSP/JSFアプリケーションおよびデスクトップアプリケーションのJavaランタイム環境でXLSMドキュメントを分割するためのJavaサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

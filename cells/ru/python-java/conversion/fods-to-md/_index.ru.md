@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование FODS в MD через Python
-url: /ru/python-java/conversion/fods-to-md/
+
 description: Пример кода для преобразования fods в md Python. Используйте пример кода API для пакетного преобразования файлов fods в md в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

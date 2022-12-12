@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通过 .NET 在 XLS 文件中生成报告 
 weight: 1700
-url: /zh/net/assembly/xls/ 
+
 description: C# 源代码，用于在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上生成 XLS 格式报告。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

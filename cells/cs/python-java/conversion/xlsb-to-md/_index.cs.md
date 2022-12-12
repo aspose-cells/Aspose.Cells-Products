@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLSB na MD přes Python
-url: /cs/python-java/conversion/xlsb-to-md/
+
 description: Ukázkový kód pro převod xlsb na md Python. Použijte API ukázkový kód pro dávkový převod souborů xlsb na MD v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

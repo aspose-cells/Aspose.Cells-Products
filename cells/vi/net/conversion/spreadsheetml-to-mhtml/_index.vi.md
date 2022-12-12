@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi SPREADSHEETML sang MHTML qua C#
-url: /vi/net/conversion/spreadsheetml-to-mhtml/
+
 description: Mã mẫu cho chuyển đổi từ bảng tínhml sang mhtml C#. Sử dụng API mã mẫu cho hàng loạt tệpml bảng tính để chuyển đổi mhtml trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

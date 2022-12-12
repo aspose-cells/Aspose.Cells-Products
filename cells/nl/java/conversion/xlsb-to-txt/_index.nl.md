@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer XLSB naar TXT via Java 
 weight: 4110
-url: /nl/java/conversion/xlsb-to-txt/ 
+
 description: Voorbeeld Java conversiecode voor XLSB-indeling naar TXT-bestand. Programmeurs kunnen deze voorbeeldcode gebruiken om Excel- en OpenOffice-spreadsheets naar TXT te exporteren binnen elke web- of desktoptoepassing Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

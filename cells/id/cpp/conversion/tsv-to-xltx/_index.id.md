@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversikan TSV ke XLTX melalui C++ aplikasi 
 weight: 3100
-url: /id/cpp/conversion/tsv-to-xltx/ 
+
 description: Contoh C++ kode konversi untuk dokumen TSV ke format XLTX. Pemrogram dapat menggunakan kode sumber ini untuk konversi batch TSV ke XLTX dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

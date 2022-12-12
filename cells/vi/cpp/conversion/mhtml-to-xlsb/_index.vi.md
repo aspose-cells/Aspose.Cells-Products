@@ -1,7 +1,7 @@
-﻿---
+---
 title: Chuyển MHTML sang XLSB qua ứng dụng C++ 
 weight: 7450
-url: /vi/cpp/conversion/mhtml-to-xlsb/ 
+
 description: Mã chuyển đổi C++ mẫu cho tài liệu MHTML sang định dạng XLSB. Các nhà lập trình có thể sử dụng mã nguồn này để chuyển đổi hàng loạt MHTML sang XLSB trong bất kỳ Ứng dụng C++ nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer SPREADSHEETML naar CSV via C#
-url: /nl/net/conversion/spreadsheetml-to-csv/
+
 description: Voorbeeldcode voor conversie van spreadsheetml naar csv C#. Gebruik API voorbeeldcode voor batch-spreadsheetml-bestanden naar csv-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

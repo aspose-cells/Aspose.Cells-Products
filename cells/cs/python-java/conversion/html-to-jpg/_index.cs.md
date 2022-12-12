@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést HTML na JPG prostřednictvím Python
-url: /cs/python-java/conversion/html-to-jpg/
+
 description: Ukázkový kód pro konverzi html na jpg Python. Použijte API ukázkový kód pro dávkový převod html souborů na jpg v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

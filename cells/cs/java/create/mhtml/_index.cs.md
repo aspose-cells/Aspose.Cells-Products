@@ -1,6 +1,6 @@
-﻿---
+---
 title: Vytvářejte soubory MHTML prostřednictvím Java 
-url: /cs/java/create-mhtml/ 
+
 description: Java Ukázkový kód pro generování dokumentů MHTML. Tento kód použijte k vytváření souborů MHTML v desktopové nebo webové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

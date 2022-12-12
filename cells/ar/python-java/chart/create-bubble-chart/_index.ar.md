@@ -1,6 +1,6 @@
-﻿---
+---
 title: إنشاء مخططات فقاعية عبر Python
-url: /ar/python-java/create-bubble-chart/
+
 description: Python نموذج كود لإنشاء مخططات فقاعية في Excel باستخدام Python Library. استخدم هذا الرمز لإنشاء مخطط فقاعي لبرنامج MS Excel داخل تطبيق يستند إلى Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

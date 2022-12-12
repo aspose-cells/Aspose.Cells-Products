@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLTM konvertálása XML-re a következőn keresztül: Java "
-url: /hu/java/conversion/xltm-to-xml/ 
+
 description: Minta Java konverziós kód az XLTM formátumhoz XML fájllá. A programozók ezt a példakódot használhatják Excel- és OpenOffice-táblázatok XML-formátumba exportálására bármely web- vagy asztali Java-alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

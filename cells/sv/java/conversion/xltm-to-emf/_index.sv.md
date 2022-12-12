@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertera XLTM till EMF via Java 
 weight: 400
-url: /sv/java/conversion/xltm-to-emf/ 
+
 description: Exempel Java-konverteringskod för XLTM-format till EMF-fil. Programmerare kan använda den här exempelkoden för att exportera Excel- och OpenOffice-kalkylblad till EMF inom alla webb- eller skrivbordsbaserade Java-applikationer.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

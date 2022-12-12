@@ -1,6 +1,6 @@
 ---
 title: Create MS Excel XLS Files via Python 
-url: /python-java/create-xls/ 
+
 description: Create XLS files in Python code. Generate MS Excel XLS files using Python application.
 ---
 

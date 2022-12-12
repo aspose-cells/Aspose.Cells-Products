@@ -1,6 +1,6 @@
-﻿---
+---
 title: Javaを介してMHTMLをXLSMに変換します 
-url: /ja/java/conversion/mhtml-to-xlsm/ 
+
 description: MHTML形式からXLSMファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、WebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをXLSMにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

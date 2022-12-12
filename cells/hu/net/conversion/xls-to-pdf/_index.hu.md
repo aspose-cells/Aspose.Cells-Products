@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Konvertálja az XLS-t PDF-be a következőn keresztül: C#"
-url: /hu/net/conversion/xls-to-pdf/
+
 description: Mintakód az xls-ből pdf-be C# konvertáláshoz. Használjon API példakódot a kötegelt xls fájlok PDF formátumú konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazásban.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

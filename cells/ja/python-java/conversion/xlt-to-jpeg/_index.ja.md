@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してXLTをJPEGに変換します
-url: /ja/python-java/conversion/xlt-to-jpeg/
+
 description: xltからjpegPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチxltファイルからjpegへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

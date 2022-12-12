@@ -1,6 +1,6 @@
-﻿---
+---
 title: Twórz wykresy powierzchniowe za pomocą C#
-url: /pl/net/create-area-chart/
+
 description: C# Przykładowy kod do tworzenia wykresów warstwowych w programie Excel przy użyciu biblioteki .NET. Użyj tego kodu, aby utworzyć wykres warstwowy do MS Excel w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

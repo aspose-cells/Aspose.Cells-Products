@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET üzerinden açmadan TSV belgesini arayın 
 weight: 2810
-url: /tr/net/search/tsv/ 
+
 description: .NET Framework, .NET Core, Mono veya Xamarin Platformlarında TSV dosyasında kalıplı kelimeleri aramak için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

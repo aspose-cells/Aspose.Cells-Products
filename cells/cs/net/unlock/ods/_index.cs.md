@@ -1,7 +1,7 @@
-﻿---
+---
 title: Odemknout dokument ODS prostřednictvím .NET 
 weight: 3110
-url: /cs/net/unlock/ods/ 
+
 description: C# zdrojový kód k odemknutí souboru ODS chráněného heslem na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

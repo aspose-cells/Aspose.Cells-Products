@@ -1,7 +1,7 @@
-﻿---
+---
 title: Hợp nhất các tệp ODS qua Java 
 weight: 6270
-url: /vi/java/merger/ods/ 
+
 description: Java mã mẫu để kết hợp tài liệu ODS trên Java Môi trường thời gian chạy cho Ứng dụng JSP / JSF và Ứng dụng trên máy tính để bàn.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

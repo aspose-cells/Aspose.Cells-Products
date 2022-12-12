@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل JSON إلى ODS عبر Python
-url: /ar/python-java/conversion/json-to-ods/
+
 description: نموذج كود لتحويل json إلى ods Python. استخدم API مثال الكود لملفات json الدفعية لتحويل ods داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

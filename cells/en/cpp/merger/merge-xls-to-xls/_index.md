@@ -1,6 +1,6 @@
 ---
 title: Merge XLS to XLS Files via C++ 
-url: /cpp/merger/merge-xls-to-xls/ 
+
 description: Merge XLS to XLS file in C++ code. Combine XLS to XLS file using C++.
 ---
 

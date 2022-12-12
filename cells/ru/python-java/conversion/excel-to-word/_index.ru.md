@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование EXCEL в WORD с помощью Python
-url: /ru/python-java/conversion/excel-to-word/
+
 description: Пример кода для преобразования Excel в слово Python. Используйте пример кода API для пакетного преобразования файлов Excel в слова в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

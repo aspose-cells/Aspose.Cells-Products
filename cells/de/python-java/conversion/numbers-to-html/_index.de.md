@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie NUMBERS in HTML über Python
-url: /de/python-java/conversion/numbers-to-html/
+
 description: Beispielcode für die Umwandlung von Zahlen in HTML Python. Verwenden Sie den API Beispielcode für die Konvertierung von Stapelnummerndateien in HTML innerhalb der Anwendung Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: แปลง HTML เป็น XPS ผ่าน C++ แอปพลิเคชัน 
 weight: 1420
-url: /th/cpp/conversion/html-to-xps/ 
+
 description: ตัวอย่างโค้ดการแปลง C++ สำหรับเอกสาร HTML เป็นรูปแบบ XPS โปรแกรมเมอร์สามารถใช้ซอร์สโค้ดนี้สำหรับการแปลง HTML เป็น XPS แบบแบตช์ภายในแอปพลิเคชัน C++ ใดๆ
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: MHTML dosyalarını .NET aracılığıyla düzenleyin 
-url: /tr/net/editor/mhtml/ 
+
 description: .NET Framework, .NET Core, Windows Azure, Mono veya Xamarin Platformlarında MHTML belgesini düzenlemek için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

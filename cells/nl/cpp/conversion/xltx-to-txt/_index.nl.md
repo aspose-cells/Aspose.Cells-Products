@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLTX naar TXT via C++ applicatie 
-url: /nl/cpp/conversion/xltx-to-txt/ 
+
 description: Voorbeeld C++ conversiecode voor XLTX-document naar TXT-indeling. Programmeurs kunnen deze broncode gebruiken voor batch-XLTX naar TXT-conversie binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

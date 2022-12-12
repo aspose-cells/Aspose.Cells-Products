@@ -1,7 +1,7 @@
-﻿---
+---
 title: Watermerk ODS-document via Java 
 weight: 1040
-url: /nl/java/watermark/ods/ 
+
 description: Java voorbeeldcode voor het toevoegen of verwijderen van een watermerk aan het ODS-bestand in Java Runtime Environment voor JSP/JSF-applicaties en desktopapplicaties.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

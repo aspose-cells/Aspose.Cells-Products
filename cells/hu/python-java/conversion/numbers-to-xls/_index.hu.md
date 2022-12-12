@@ -1,6 +1,6 @@
-﻿---
+---
 title: "NUMBERS konvertálása XLS-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/numbers-to-xls/
+
 description: Mintakód a számok xls Python konvertálásához. Használja a(z) API példakódot a kötegszámfájlok xls-be való konvertálásához a(z) Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

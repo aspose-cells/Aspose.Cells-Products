@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TXT إلى MARKDOWN عبر Python
-url: /ar/python-java/conversion/txt-to-markdown/
+
 description: نموذج شفرة لتحويل TXT إلى markdown Python. استخدم API رمز المثال لملفات txt الدفعية لتحديد التحويل ضمن تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

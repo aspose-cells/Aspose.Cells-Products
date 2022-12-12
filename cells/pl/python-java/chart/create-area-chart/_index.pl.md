@@ -1,6 +1,6 @@
-﻿---
+---
 title: Twórz wykresy powierzchniowe za pomocą Python
-url: /pl/python-java/create-area-chart/
+
 description: Python Przykładowy kod do tworzenia wykresów warstwowych w programie Excel przy użyciu biblioteki Python. Użyj tego kodu, aby utworzyć wykres warstwowy do MS Excel w aplikacji opartej na Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

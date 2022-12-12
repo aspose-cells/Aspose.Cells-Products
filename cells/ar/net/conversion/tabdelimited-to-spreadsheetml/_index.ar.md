@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TABDELIMITED إلى SPREADSHEETML عبر C#
-url: /ar/net/conversion/tabdelimited-to-spreadsheetml/
+
 description: نموذج رمز لجدولة محدّدة لتحويل جدول البيانات C#. استخدم API رمز المثال للملفات المحددة بعلامات جدولة مجمعة لتحويل جدول البيانات إلى جدول بيانات داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

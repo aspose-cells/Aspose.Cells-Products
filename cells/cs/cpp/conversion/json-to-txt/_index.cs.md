@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte JSON na TXT pomocí aplikace C++ 
-url: /cs/cpp/conversion/json-to-txt/ 
+
 description: Ukázka převodního kódu C++ pro dokument JSON do formátu TXT. Programátoři mohou tento zdrojový kód použít pro dávkový převod JSON na TXT v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

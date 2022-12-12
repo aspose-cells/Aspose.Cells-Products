@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLT إلى XLSB عبر تطبيق C++ 
-url: /ar/cpp/conversion/xlt-to-xlsb/ 
+
 description: نموذج C++ رمز تحويل لمستند XLT إلى تنسيق XLSB. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل دفعة XLT إلى XLSB داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

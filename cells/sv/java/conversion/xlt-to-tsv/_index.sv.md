@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertera XLT till TSV via Java 
 weight: 8690
-url: /sv/java/conversion/xlt-to-tsv/ 
+
 description: Exempel Java-konverteringskod för XLT-format till TSV-fil. Programmerare kan använda den här exempelkoden för att exportera Excel- och OpenOffice-kalkylblad till TSV inom alla webb- eller skrivbordsbaserade Javaapplikationer.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

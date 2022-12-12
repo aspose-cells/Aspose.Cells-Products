@@ -1,6 +1,6 @@
 ---
 title: Merge HTM to MHT Files via Python 
-url: /python-net/merger/merge-htm-to-mht/ 
+
 description: Merge HTM to MHT file in Python code. Combine HTM to MHT file using Python.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Insert Line into Excel via .NET 
 weight: 101
-url: /net/shapes/insert-line-to-excel/ 
+
 description: C# source code to insert Line into Excel on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "ODS konvertálása PDF-be a következőn keresztül: Python"
-url: /hu/python-java/conversion/ods-to-pdf/
+
 description: Mintakód az ods-ból pdf-be Python konvertáláshoz. Használjon API példakódot a kötegelt ods-fájlok PDF-té konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

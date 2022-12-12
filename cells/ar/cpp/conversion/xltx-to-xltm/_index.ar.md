@@ -1,6 +1,6 @@
-﻿---
+---
 title: قم بتحويل XLTX إلى XLTM عبر تطبيق C++ 
-url: /ar/cpp/conversion/xltx-to-xltm/ 
+
 description: نموذج C++ رمز تحويل لمستند XLTX إلى تنسيق XLTM. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل دفعة XLTX إلى XLTM داخل أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

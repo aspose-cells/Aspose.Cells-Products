@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to DIF via C++
-url: /cpp/conversion/txt-to-dif/
+
 description: Convert TXT to DIF format in C++ code. Save TXT as DIF using C++.
 ---
 

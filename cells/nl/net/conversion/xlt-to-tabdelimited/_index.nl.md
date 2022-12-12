@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLT naar TABDELIMITED via C#
-url: /nl/net/conversion/xlt-to-tabdelimited/
+
 description: Voorbeeldcode voor conversie van xlt naar door tabs gescheiden C#. Gebruik API voorbeeldcode voor batch xlt-bestanden naar door tabs gescheiden conversies binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

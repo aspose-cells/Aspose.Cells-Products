@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera SXC till XML via C#
-url: /sv/net/conversion/sxc-to-xml/
+
 description: Exempelkod för konvertering från sxc till xml C#. Använd API exempelkod för batch-sxc-filer till xml-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

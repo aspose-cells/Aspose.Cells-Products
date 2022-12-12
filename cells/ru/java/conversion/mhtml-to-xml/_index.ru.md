@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование MHTML в XML через Java 
-url: /ru/java/conversion/mhtml-to-xml/ 
+
 description: Пример кода преобразования Java для формата MHTML в файл XML. Программисты могут использовать этот пример кода для экспорта электронных таблиц Excel и OpenOffice в формат XML в любом веб-приложении или настольном Java приложении.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

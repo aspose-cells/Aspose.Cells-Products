@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést CSV na XML prostřednictvím Python
-url: /cs/python-java/conversion/csv-to-xml/
+
 description: Ukázkový kód pro převod csv na xml Python. Použijte API ukázkový kód pro dávkový převod souborů csv na xml v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

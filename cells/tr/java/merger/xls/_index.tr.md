@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLS Dosyalarını Java ile Birleştir 
 weight: 5140
-url: /tr/java/merger/xls/ 
+
 description: JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Runtime Environment'da XLS belgelerini birleştirmek için Java örnek kod.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

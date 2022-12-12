@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to XML via C++
-url: /cpp/conversion/xltx-to-xml/
+
 description: Convert XLTX to XML format in C++ code. Save XLTX as XML using C++.
 ---
 

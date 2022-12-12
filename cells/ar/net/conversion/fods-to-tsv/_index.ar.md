@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل FODS إلى TSV عبر C#
-url: /ar/net/conversion/fods-to-tsv/
+
 description: نموذج كود للتحويل من fods إلى tsv C#. استخدم API رمز المثال لملفات fods الدفعية لتحويل tsv داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

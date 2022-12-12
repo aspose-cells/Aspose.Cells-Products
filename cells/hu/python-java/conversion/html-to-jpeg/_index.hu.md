@@ -1,6 +1,6 @@
-﻿---
+---
 title: "HTML konvertálása JPEG formátumba a következőn keresztül: Python"
-url: /hu/python-java/conversion/html-to-jpeg/
+
 description: Mintakód a html-ből jpeg-be Python konvertáláshoz. Használjon API példakódot kötegelt html fájlok jpeg konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

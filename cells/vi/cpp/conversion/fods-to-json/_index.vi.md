@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi FODS sang JSON qua ứng dụng C++ 
-url: /vi/cpp/conversion/fods-to-json/ 
+
 description: Mã chuyển đổi C++ mẫu cho tài liệu FODS sang định dạng JSON. Lập trình viên có thể sử dụng mã nguồn này để chuyển đổi hàng loạt FODS sang JSON trong bất kỳ Ứng dụng C++ nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

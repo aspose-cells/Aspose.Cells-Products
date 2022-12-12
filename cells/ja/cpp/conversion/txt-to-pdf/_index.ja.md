@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++アプリケーションを介してTXTをPDFに変換する 
-url: /ja/cpp/conversion/txt-to-pdf/ 
+
 description: TXTドキュメントからPDF形式へのサンプルC++変換コード。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でTXTからPDFへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

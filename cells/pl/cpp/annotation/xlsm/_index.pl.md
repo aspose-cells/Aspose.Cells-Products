@@ -1,7 +1,7 @@
-﻿---
+---
 title: Dodaj adnotację XLSM przez C++ 
 weight: 2860
-url: /pl/cpp/annotation/xlsm/ 
+
 description: C++ przykładowy kod do usuwania adnotacji w formacie XLSM w C++ środowisku wykonawczym dla 32-bitowego systemu Windows, 64-bitowego systemu Windows i 64-bitowego systemu Linux.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++を介してODSドキュメントを保護およびロックする 
 weight: 10010
-url: /ja/cpp/protect/ods/ 
+
 description: C++ Windows 32ビット、Windows 64ビット、Linux64ビットのランタイム環境でパスワードを使用してODSファイルをロックするコード例。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

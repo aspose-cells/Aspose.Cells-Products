@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل JSON إلى MD عبر Java 
 weight: 9410
-url: /ar/java/conversion/json-to-md/ 
+
 description: نموذج رمز تحويل Java لتنسيق JSON إلى ملف MD. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى MD داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

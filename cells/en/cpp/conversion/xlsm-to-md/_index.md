@@ -1,6 +1,6 @@
 ---
 title: Convert XLSM to MD via C++
-url: /cpp/conversion/xlsm-to-md/
+
 description: Convert XLSM to MD format in C++ code. Save XLSM as MD using C++.
 ---
 

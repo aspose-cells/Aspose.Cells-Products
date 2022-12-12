@@ -1,7 +1,7 @@
-﻿---
+---
 title: Gabungkan File XLT melalui Java 
 weight: 9960
-url: /id/java/merger/xlt/ 
+
 description: Java contoh kode untuk menggabungkan dokumen XLT pada Java Runtime Environment untuk Aplikasi JSP/JSF dan Aplikasi Desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

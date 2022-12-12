@@ -1,6 +1,6 @@
 ---
 title: Create MHTML Files via Python 
-url: /python-net/create-mhtml/ 
+
 description: Python Sample code for generating MHTML documents. Use this code for creating MHTML files within Python application.
 ---
 

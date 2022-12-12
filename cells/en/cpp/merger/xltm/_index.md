@@ -1,6 +1,6 @@
 ---
 title: Merge XLTM Files via C++ 
-url: /cpp/merger/xltm/ 
+
 description: C++ example code to combine XLTM documents on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
 

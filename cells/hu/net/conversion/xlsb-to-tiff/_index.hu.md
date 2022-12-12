@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLSB konvertálása TIFF-re a következőn keresztül: C#"
-url: /hu/net/conversion/xlsb-to-tiff/
+
 description: Mintakód az xlsb–tiff C# konverzióhoz. Használjon API példakódot kötegelt xlsb fájlokhoz a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazás tiff konverziójához.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

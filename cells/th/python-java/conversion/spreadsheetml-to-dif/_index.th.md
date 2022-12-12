@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง SPREADSHEETML เป็น DIF ผ่าน Python
-url: /th/python-java/conversion/spreadsheetml-to-dif/
+
 description: โค้ดตัวอย่างสำหรับสเปรดชีตml ถึงการแปลง Python ใช้โค้ดตัวอย่าง API สำหรับไฟล์สเปรดชีตสเปรดชีตแบบแบตช์เพื่อแปลงไฟล์ต่างๆ ภายในแอปพลิเคชัน Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

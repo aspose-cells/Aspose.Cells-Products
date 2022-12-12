@@ -1,6 +1,6 @@
-﻿---
+---
 title: "JPG konvertálása DOCX-re a következőn keresztül: C#"
-url: /hu/net/conversion/jpg-to-docx/
+
 description: Mintakód a jpg-ből docx-ba C# konvertálásához. Használjon API példakódot kötegelt jpg fájlokhoz a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazás docx konvertálásához.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

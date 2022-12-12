@@ -1,7 +1,7 @@
 ---
 title: Edit or View ODS Document Metadata via C++ 
 weight: 1000
-url: /cpp/metadata/ods/ 
+
 description: C++ example code to edit or view ODS file metadata on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLTM konvertálása PDF-be a következőn keresztül: C#"
-url: /hu/net/conversion/xltm-to-pdf/
+
 description: Mintakód az xltm-ből pdf-be C# konvertáláshoz. Használjon API példakódot az xltm fájlok kötegelt PDF konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazásban.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

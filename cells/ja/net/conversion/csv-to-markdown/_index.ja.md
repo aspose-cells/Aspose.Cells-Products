@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してCSVをMARKDOWNに変換します
-url: /ja/net/conversion/csv-to-markdown/
+
 description: csvからマークダウンC#への変換のサンプルコード。バッチcsvファイルのAPIサンプルコードを使用して、VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内で変換をマークダウンします。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

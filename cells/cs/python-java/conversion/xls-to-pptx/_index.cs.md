@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLS na PPTX přes Python
-url: /cs/python-java/conversion/xls-to-pptx/
+
 description: Ukázkový kód pro převod xls na pptx Python. Použijte API ukázkový kód pro dávkový převod souborů xls na pptx v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

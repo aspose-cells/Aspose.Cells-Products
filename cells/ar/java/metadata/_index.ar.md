@@ -1,6 +1,6 @@
-﻿---
+---
 title: إدارة البيانات الوصفية لملف Excel عبر Java
-url: /ar/java/metadata/
+
 description: اعرض البيانات الوصفية لملفات Excel أو أضفها أو عدلها أو أزلها أو استخرجها باستخدام سطور قليلة فقط من التعليمات البرمجية Java
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

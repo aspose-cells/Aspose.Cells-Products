@@ -1,7 +1,7 @@
-﻿---
+---
 title: Durchsuchen Sie das CSV-Dokument, ohne es über Java zu öffnen 
 weight: 390
-url: /de/java/search/csv/ 
+
 description: Java Beispielcode zum Suchen von Wörtern mit Muster in einer CSV-Datei in Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

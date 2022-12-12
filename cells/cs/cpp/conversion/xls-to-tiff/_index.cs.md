@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převeďte XLS na TIFF pomocí aplikace C++ 
 weight: 3550
-url: /cs/cpp/conversion/xls-to-tiff/ 
+
 description: Ukázka převodního kódu C++ pro dokument XLS na formát TIFF. Programátoři mohou použít tento zdrojový kód pro dávkovou konverzi XLS na TIFF v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

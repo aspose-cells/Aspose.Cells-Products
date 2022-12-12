@@ -1,6 +1,6 @@
-﻿---
+---
 title: MHTML konvertálása XML-be a(z) C++ alkalmazással 
-url: /hu/cpp/conversion/mhtml-to-xml/ 
+
 description: Minta C++ konverziós kód MHTML dokumentumhoz XML formátumba. A programozók ezt a forráskódot használhatják az MHTML-ből XML-be kötegelt konvertáláshoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

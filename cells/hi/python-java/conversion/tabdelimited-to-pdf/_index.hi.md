@@ -1,6 +1,6 @@
-﻿---
+---
 title: TABDELIMITED को Python के ज़रिए PDF में बदलें
-url: /hi/python-java/conversion/tabdelimited-to-pdf/
+
 description: पीडीएफ Python रूपांतरण के लिए सीमित टैब के लिए नमूना कोड। Python एप्लिकेशन के भीतर बैच टैबसीमांकित फाइलों को पीडीएफ में बदलने के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

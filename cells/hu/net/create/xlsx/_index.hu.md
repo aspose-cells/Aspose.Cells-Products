@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Hozzon létre MS Excel XLSX fájlokat a következőn keresztül: C# "
-url: /hu/net/create-xlsx/ 
+
 description: C# Mintakód XLSX dokumentumok generálásához. Ezzel a kóddal MS Excel XLSX fájlokat hozhat létre VB.NET, Asp.NET vagy bármely .NET alapú alkalmazásban.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

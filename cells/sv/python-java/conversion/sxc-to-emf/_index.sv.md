@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera SXC till EMF via Python
-url: /sv/python-java/conversion/sxc-to-emf/
+
 description: Exempelkod för konvertering från sxc till emf Python. Använd API exempelkod för batch-sxc-filer för att emf-konvertera i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

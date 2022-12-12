@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to MARKDOWN via C#
-url: /net/conversion/xltx-to-markdown/
+
 description: Convert XLTX to MARKDOWN format in C# code. Save XLTX as MARKDOWN using VB.NET, Asp.NET or any .NET based application.
 ---
 

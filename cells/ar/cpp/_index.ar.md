@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++ برمجة جداول بيانات Excel API - Aspose 
 weight: 7140
-url: /ar/cpp/ 
+
 description: C++ مكتبة Excel لقراءة ملفات الكتابة وتحليلها بما في ذلك تنسيقات XLS و XLSX و XLSM و XLSB. تحويل جداول البيانات إلى PDF و CSV والمزيد من التنسيقات
 ---
 {{< blocks/products/pf/main-wrap-class >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: 通過 C# 將 MHTML 轉換為 GIF
-url: /zh-hant/net/conversion/mhtml-to-gif/
+
 description: mhtml 到 gif C# 轉換的示例代碼。使用 API 示例代碼在 VB.NET、Asp.NET 或任何基於 .NET 的應用程序中將 mhtml 文件批量轉換為 gif。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

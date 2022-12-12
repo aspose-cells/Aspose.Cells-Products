@@ -1,6 +1,6 @@
 ---
 title: Excel File Merger API .NET C#
-url: /net/merger/
+
 description: Concatenate Excel & OpenOffice spreadsheet files with just few lines of C# code.
 ---
 

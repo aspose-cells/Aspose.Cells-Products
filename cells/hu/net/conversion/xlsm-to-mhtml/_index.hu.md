@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLSM konvertálása MHTML-re a következőn keresztül: C#"
-url: /hu/net/conversion/xlsm-to-mhtml/
+
 description: Mintakód az xlsm–mhtml C# konverzióhoz. Használjon API példakódot a kötegelt xlsm fájlok mhtml konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

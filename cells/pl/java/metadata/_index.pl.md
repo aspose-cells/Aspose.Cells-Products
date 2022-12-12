@@ -1,6 +1,6 @@
-﻿---
+---
 title: Zarządzaj metadanymi pliku Excel za pomocą Java
-url: /pl/java/metadata/
+
 description: Przeglądaj, dodawaj, edytuj, usuwaj lub wyodrębniaj metadane plików Excel za pomocą zaledwie kilku linijek kodu Java
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java के माध्यम से ODS फ़ाइलें मेटाडेटा संपादित करें या देखें 
 weight: 2080
-url: /hi/java/metadata/ods/ 
+
 description: Java JSP/JSF एप्लिकेशन और डेस्कटॉप एप्लिकेशन के लिए रनटाइम एनवायरनमेंट पर ODS प्रारूप मेटाडेटा को संपादित करने या देखने के लिए Java नमूना कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

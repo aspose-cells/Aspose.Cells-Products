@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera TABDELIMITED till SXC via C#
-url: /sv/net/conversion/tabdelimited-to-sxc/
+
 description: Exempelkod för tabbavgränsad till sxc C#-omvandling. Använd API exempelkod för batch-tabbavgränsade filer till sxc-konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

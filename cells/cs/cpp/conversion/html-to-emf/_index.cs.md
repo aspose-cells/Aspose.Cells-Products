@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převeďte HTML na EMF pomocí aplikace C++ 
 weight: 8550
-url: /cs/cpp/conversion/html-to-emf/ 
+
 description: Ukázka převodního kódu C++ pro dokument HTML do formátu EMF. Programátoři mohou použít tento zdrojový kód pro dávkový převod HTML na EMF v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

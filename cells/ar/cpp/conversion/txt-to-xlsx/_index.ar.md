@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TXT إلى XLSX عبر تطبيق C++ 
-url: /ar/cpp/conversion/txt-to-xlsx/ 
+
 description: نموذج C++ رمز التحويل لمستند TXT إلى تنسيق XLSX. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل TXT إلى XLSX دفعة ضمن أي تطبيق C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Διαχωρίστε το υπολογιστικό φύλλο του Excel σε φύλλα εργασίας στο Java
-url: /el/java/splitter/
+
 description: Java πηγαίους κώδικες που εξηγούν πώς να χωρίσετε τα αρχεία του Microsoft Excel σε πολλά έγγραφα χρησιμοποιώντας τη βιβλιοθήκη του Excel Java
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

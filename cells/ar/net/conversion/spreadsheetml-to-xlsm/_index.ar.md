@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل SPREADSHEETML إلى XLSM عبر C#
-url: /ar/net/conversion/spreadsheetml-to-xlsm/
+
 description: نموذج كود لتحويل جدول البيانات إلى xlsm C#. استخدم API رمز المثال لملفات جداول البيانات الدفعية لتحويل xlsm داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

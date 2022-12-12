@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLS konvertálása TAB-raDELIMITED a következőn keresztül: Python"
-url: /hu/python-java/conversion/xls-to-tabdelimited/
+
 description: Mintakód az xls-ből tabulátorral tagolt Python konverzióhoz. Használjon API példakódot kötegelt xls fájlokhoz a tabulátorral tagolt konverzióhoz a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

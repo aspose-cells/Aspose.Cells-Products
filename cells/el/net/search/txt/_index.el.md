@@ -1,7 +1,7 @@
-﻿---
+---
 title: Αναζήτηση εγγράφου TXT χωρίς άνοιγμα μέσω .NET 
 weight: 8410
-url: /el/net/search/txt/ 
+
 description: C# πηγαίος κώδικας για αναζήτηση λέξεων με μοτίβο σε αρχείο TXT σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir XLT en PNG via C#
-url: /fr/net/conversion/xlt-to-png/
+
 description: Exemple de code pour la conversion de xlt en png C#. Utilisez l'exemple de code API pour la conversion par lots de fichiers xlt en png dans VB.NET, Asp.NET ou toute application basée sur .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

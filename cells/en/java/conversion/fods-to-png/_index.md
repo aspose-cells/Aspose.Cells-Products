@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to PNG via Java 
-url: /java/conversion/fods-to-png/
+
 description: Convert FODS to PNG format in Java code. Save FODS as PNG using Java.
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLSX दस्तावेज़ को .NET के माध्यम से अनलॉक करें 
 weight: 2040
-url: /hi/net/unlock/xlsx/ 
+
 description: .NET Framework, .NET Core, Mono या Xamarin Platforms पर पासवर्ड से सुरक्षित XLSX फ़ाइल को अनलॉक करने के लिए C# स्रोत कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

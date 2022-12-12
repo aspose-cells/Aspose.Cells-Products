@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Az XLSX konvertálása MARKDOWN-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/xlsx-to-markdown/
+
 description: Mintakód az xlsx-hez a Python konverzióhoz. Használjon API példakódot kötegelt xlsx fájlokhoz a konverzió leértékeléséhez a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

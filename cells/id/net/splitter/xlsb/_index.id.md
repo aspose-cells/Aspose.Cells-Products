@@ -1,7 +1,7 @@
-﻿---
+---
 title: Pisahkan File XLSB melalui .NET 
 weight: 7370
-url: /id/net/splitter/xlsb/ 
+
 description: C# kode sumber untuk membagi dokumen XLSB pada .NET Framework, .NET Core, Mono atau Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

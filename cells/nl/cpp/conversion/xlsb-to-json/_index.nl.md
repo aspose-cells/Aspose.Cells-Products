@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLSB naar JSON via C++ applicatie 
-url: /nl/cpp/conversion/xlsb-to-json/ 
+
 description: Voorbeeld C++ conversiecode voor XLSB-document naar JSON-indeling. Programmeurs kunnen deze broncode gebruiken voor batch-conversie van XLSB naar JSON binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

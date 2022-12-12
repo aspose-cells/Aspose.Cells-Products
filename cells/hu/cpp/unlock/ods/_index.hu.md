@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Oldja fel az ODS-dokumentumot a következőn keresztül: C++ "
 weight: 1190
-url: /hu/cpp/unlock/ods/ 
+
 description: C++ példakód a jelszóval védett ODS-fájl feloldásához C++ Runtime Environment for Windows 32 bit, Windows 64 bit és Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

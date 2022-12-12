@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera FODS till XLS via Python
-url: /sv/python-java/conversion/fods-to-xls/
+
 description: Exempelkod för fods till xls Python-konvertering. Använd API exempelkod för batch fods-filer till xls-konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

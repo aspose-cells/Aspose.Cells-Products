@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to XLTM via C#
-url: /net/conversion/spreadsheetml-to-xltm/
+
 description: Convert SPREADSHEETML to XLTM format in C# code. Save SPREADSHEETML as XLTM using VB.NET, Asp.NET or any .NET based application.
 ---
 

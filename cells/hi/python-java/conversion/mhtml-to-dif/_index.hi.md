@@ -1,6 +1,6 @@
-﻿---
+---
 title: एमएचटीएमएल को Python के माध्यम से डीआईएफ में कनवर्ट करें
-url: /hi/python-java/conversion/mhtml-to-dif/
+
 description: भिन्न Python रूपांतरण के लिए mhtml के लिए नमूना कोड। Python एप्लिकेशन के भीतर रूपांतरण को अलग करने के लिए बैच एमएचटीएमएल फाइलों के लिए API उदाहरण कोड का प्रयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

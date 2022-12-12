@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer FODS naar SPREADSHEETML via Java 
-url: /nl/java/conversion/fods-to-spreadsheetml/ 
+
 description: Voorbeeld Java conversiecode voor FODS-indeling naar SPREADSHEETML-bestand. Programmeurs kunnen deze voorbeeldcode gebruiken om Excel- en OpenOffice-spreadsheets te exporteren naar SPREADSHEETML binnen elke web- of desktoptoepassing Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

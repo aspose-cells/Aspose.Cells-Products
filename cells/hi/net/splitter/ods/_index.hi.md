@@ -1,7 +1,7 @@
-﻿---
+---
 title: ODS फ़ाइलें .NET के द्वारा विभाजित करें 
 weight: 140
-url: /hi/net/splitter/ods/ 
+
 description: C# ODS दस्तावेज़ों को .NET Framework, .NET Core, Mono या Xamarin Platforms पर विभाजित करने के लिए स्रोत कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

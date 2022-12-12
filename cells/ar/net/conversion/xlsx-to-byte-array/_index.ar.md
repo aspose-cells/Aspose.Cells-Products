@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل XLSX إلى مصفوفة بايت عبر C# 
 weight: 7690
-url: /ar/net/conversion/xlsx-to-byte-array/ 
+
 description: C# نموذج كود لتحويل XLSX إلى صفيف بايت. استخدم هذا الرمز لتحويل Excel XLSX إلى Byte Array داخل VB .NET أو Asp .NET أو أي تطبيق يستند إلى .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

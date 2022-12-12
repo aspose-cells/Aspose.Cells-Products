@@ -1,6 +1,6 @@
-﻿---
+---
 title: "ODS konvertálása PNG-re a következőn keresztül: C#"
-url: /hu/net/conversion/ods-to-png/
+
 description: Mintakód az ods to png C# konverzióhoz. Használjon API példakódot kötegelt ods fájlokhoz a png konverzióhoz VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

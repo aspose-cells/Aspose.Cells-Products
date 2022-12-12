@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj TABDELIMITED na DIF przez Python
-url: /pl/python-java/conversion/tabdelimited-to-dif/
+
 description: Przykładowy kod dla konwersji rozdzielanej tabulatorami do różnic Python. Użyj przykładowego kodu API dla plików wsadowych rozdzielanych tabulatorami do konwersji różnic w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

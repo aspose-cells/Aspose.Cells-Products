@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir CSV en XLAM via Java 
-url: /fr/java/conversion/csv-to-xlam/ 
+
 description: Exemple de code de conversion Java pour le format CSV en fichier XLAM. Les programmeurs peuvent utiliser cet exemple de code pour exporter des feuilles de calcul Excel et OpenOffice vers XLAM dans n'importe quelle application Web ou de bureau Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

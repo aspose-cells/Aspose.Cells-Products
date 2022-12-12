@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir NUMBERS en MARKDOWN via C#
-url: /fr/net/conversion/numbers-to-markdown/
+
 description: Exemple de code pour la conversion des nombres en démarque C#. Utilisez API exemple de code pour les fichiers de numéros de lot pour la conversion de démarquage dans VB.NET, Asp.NET ou toute application basée sur .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

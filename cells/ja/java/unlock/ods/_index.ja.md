@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してODSドキュメントのロックを解除します 
 weight: 5080
-url: /ja/java/unlock/ods/ 
+
 description: Java JSP/JSFアプリケーションおよびデスクトップアプリケーションのランタイム環境でパスワードで保護されたODSファイルのロックを解除するためのサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

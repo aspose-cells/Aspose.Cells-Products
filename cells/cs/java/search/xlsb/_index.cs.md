@@ -1,7 +1,7 @@
-﻿---
+---
 title: Prohledejte dokument XLSB bez otevření prostřednictvím Java 
 weight: 9420
-url: /cs/java/search/xlsb/ 
+
 description: Java ukázkový kód pro vyhledávání slov se vzorem v souboru XLSB v Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

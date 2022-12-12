@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET aracılığıyla XLSM belgesindeki metni arayın ve değiştirin 
 weight: 2370
-url: /tr/net/redaction/xlsm/ 
+
 description: .NET Framework, .NET Core, Mono veya Xamarin Platformlarında XLSM dosyasındaki hassas bilgileri yeniden düzenlemek için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

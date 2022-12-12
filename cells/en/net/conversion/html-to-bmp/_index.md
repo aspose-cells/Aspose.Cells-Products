@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to BMP via C#
-url: /net/conversion/html-to-bmp/
+
 description: Convert HTML to BMP format in C# code. Save HTML as BMP using VB.NET, Asp.NET or any .NET based application.
 ---
 

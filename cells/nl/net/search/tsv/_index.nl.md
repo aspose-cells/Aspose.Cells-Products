@@ -1,7 +1,7 @@
-﻿---
+---
 title: Zoek TSV-document zonder te openen via .NET 
 weight: 2810
-url: /nl/net/search/tsv/ 
+
 description: C# broncode om woorden met patroon te zoeken in TSV-bestand op .NET Framework, .NET Core, Mono of Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

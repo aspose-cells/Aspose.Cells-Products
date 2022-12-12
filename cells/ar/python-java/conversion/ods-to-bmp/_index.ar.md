@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل ODS إلى BMP عبر Python
-url: /ar/python-java/conversion/ods-to-bmp/
+
 description: نموذج كود لتحويل ods إلى bmp Python. استخدم API مثال الكود لملفات دفعات ods لتحويل bmp داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

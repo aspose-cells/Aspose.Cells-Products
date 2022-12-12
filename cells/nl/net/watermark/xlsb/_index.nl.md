@@ -1,7 +1,7 @@
-﻿---
+---
 title: Watermerk XLSB-document via .NET 
 weight: 5410
-url: /nl/net/watermark/xlsb/ 
+
 description: C# broncode om watermerk aan XLSB-bestand toe te voegen of te verwijderen op .NET Framework, .NET Core, Mono of Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

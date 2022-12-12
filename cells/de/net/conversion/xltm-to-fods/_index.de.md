@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie XLTM über C# in FODS
-url: /de/net/conversion/xltm-to-fods/
+
 description: Beispielcode für die Umwandlung von xltm in fods C#. Verwenden Sie API Beispielcode für die Batch-Konvertierung von xltm-Dateien in FODs innerhalb von VB.NET, Asp.NET oder einer beliebigen .NET-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

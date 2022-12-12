@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer XLSX naar TABDELIMITED via C++ applicatie 
-url: /nl/cpp/conversion/xlsx-to-tabdelimited/ 
+
 description: Voorbeeld C++ conversiecode voor XLSX-document naar TABDELIMITED-indeling. Programmeurs kunnen deze broncode gebruiken voor batch-XLSX naar TABDELIMITED-conversie binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

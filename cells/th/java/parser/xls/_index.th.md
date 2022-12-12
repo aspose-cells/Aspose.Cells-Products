@@ -1,7 +1,7 @@
-﻿---
+---
 title: แยกข้อความและรูปภาพจากเอกสาร XLS ผ่าน Java 
 weight: 3700
-url: /th/java/parser/xls/ 
+
 description: Java โค้ดตัวอย่างเพื่อแยกข้อความและรูปภาพจากไฟล์ XLS บน Java Runtime Environment สำหรับแอปพลิเคชัน JSP/JSF และแอปพลิเคชันเดสก์ท็อป
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

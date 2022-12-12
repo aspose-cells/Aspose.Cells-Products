@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή XLT σε XLSB μέσω C#
-url: /el/net/conversion/xlt-to-xlsb/
+
 description: Δείγμα κώδικα για μετατροπή xlt σε xlsb C#. Χρησιμοποιήστε API παράδειγμα κώδικα για μαζική μετατροπή αρχείων xlt σε xlsb εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

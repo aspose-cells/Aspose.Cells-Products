@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to JPG via C#
-url: /net/conversion/sxc-to-jpg/
+
 description: Convert SXC to JPG format in C# code. Save SXC as JPG using VB.NET, Asp.NET or any .NET based application.
 ---
 

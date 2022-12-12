@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi XLSX sang PNG qua Python
-url: /vi/python-java/conversion/xlsx-to-png/
+
 description: Mã mẫu cho chuyển đổi xlsx sang png Python. Sử dụng API mã mẫu cho hàng loạt tệp xlsx sang chuyển đổi png trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

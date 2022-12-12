@@ -1,6 +1,6 @@
-﻿---
+---
 title: Δημιουργία γραφημάτων ράβδων μέσω Python
-url: /el/python-java/create-bar-chart/
+
 description: Python Δείγμα κώδικα για τη δημιουργία γραφημάτων ράβδων στο Excel χρησιμοποιώντας τη Βιβλιοθήκη Python. Χρησιμοποιήστε αυτόν τον κώδικα για τη δημιουργία ενός γραφήματος ράβδων στο MS Excel εντός εφαρμογής που βασίζεται σε Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

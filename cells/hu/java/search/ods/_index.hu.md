@@ -1,7 +1,7 @@
-﻿---
+---
 title: "ODS-dokumentum keresése megnyitás nélkül a következőn keresztül: Java "
 weight: 8140
-url: /hu/java/search/ods/ 
+
 description: Java mintakód a mintával rendelkező szavak kereséséhez az ODS-fájlban a Java Runtime Environment for JSP/JSF alkalmazásokhoz és asztali alkalmazásokhoz.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

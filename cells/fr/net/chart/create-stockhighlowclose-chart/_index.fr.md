@@ -1,6 +1,6 @@
-﻿---
+---
 title: Créer des graphiques boursiers haut-bas-clôture via C#
-url: /fr/net/create-stockhighlowclose-chart/
+
 description: C# Exemple de code pour la création de graphiques d'actions High-Low-Close dans Excel à l'aide de la bibliothèque .NET. Utilisez ce code pour créer un graphique boursier High-Low-Close vers MS Excel dans VB.NET, Asp.NET ou toute autre application basée sur .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

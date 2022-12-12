@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to TSV via C++
-url: /cpp/conversion/csv-to-tsv/
+
 description: Convert CSV to TSV format in C++ code. Save CSV as TSV using C++.
 ---
 

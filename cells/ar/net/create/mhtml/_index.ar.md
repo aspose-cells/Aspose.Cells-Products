@@ -1,6 +1,6 @@
-﻿---
+---
 title: إنشاء ملفات MHTML عبر C# 
-url: /ar/net/create-mhtml/ 
+
 description: C# نموذج كود لإنشاء مستندات MHTML. استخدم هذه الشفرة لإنشاء ملفات MHTML داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

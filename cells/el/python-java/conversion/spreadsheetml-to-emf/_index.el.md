@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή SPREADSHEETML σε EMF μέσω Python
-url: /el/python-java/conversion/spreadsheetml-to-emf/
+
 description: Δείγμα κώδικα για τη μετατροπή υπολογιστικού φύλλου ml σε emf Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία υπολογιστικού φύλλου για τη μετατροπή emf εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

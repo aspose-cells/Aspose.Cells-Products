@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TSV na DIF prostřednictvím Python
-url: /cs/python-java/conversion/tsv-to-dif/
+
 description: Ukázkový kód pro převod tsv na rozdíl Python. Použijte API ukázkový kód pro dávkové soubory tsv k převodu dif v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

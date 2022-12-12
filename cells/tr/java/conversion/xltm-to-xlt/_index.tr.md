@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java aracılığıyla XLTM'yi XLT'ye dönüştürün 
 weight: 10030
-url: /tr/java/conversion/xltm-to-xlt/ 
+
 description: XLTM biçimi için XLT dosyasına örnek Java dönüştürme kodu. Programcılar, Excel ve OpenOffice elektronik tablolarını herhangi bir Web veya Masaüstü Java tabanlı Uygulamada XLT'ye aktarmak için bu örnek kodu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

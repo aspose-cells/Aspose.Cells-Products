@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertera MHTML till HTML via programmet C++ 
 weight: 3810
-url: /sv/cpp/conversion/mhtml-to-html/ 
+
 description: Exempel på C++-konverteringskod för MHTML-dokument till HTML-format. Programmerare kan använda den här källkoden för batch-omvandling av MHTML till HTML i alla C++-program.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to HTML via C++
-url: /cpp/conversion/excel-to-html/
+
 description: Convert EXCEL to HTML format in C++ code. Save EXCEL as HTML using C++.
 ---
 

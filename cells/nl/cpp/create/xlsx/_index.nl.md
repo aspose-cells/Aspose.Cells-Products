@@ -1,6 +1,6 @@
-﻿---
+---
 title: Maak MS Excel XLSX-bestanden via C++ 
-url: /nl/cpp/create-xlsx/ 
+
 description: C++ Voorbeeldcode voor het genereren van MS Excel XLSX-bestanden. Gebruik deze code voor het maken van MS Excel XLSX-bestanden binnen een op C++ gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

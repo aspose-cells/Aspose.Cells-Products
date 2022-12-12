@@ -1,7 +1,7 @@
-﻿---
+---
 title: ค้นหาและแทนที่ข้อความในเอกสาร ODS ผ่าน C++ 
 weight: 1610
-url: /th/cpp/redaction/ods/ 
+
 description: C++ ตัวอย่างโค้ดเพื่อแก้ไขข้อมูลที่ละเอียดอ่อนในไฟล์ ODS บน C++ Runtime Environment สำหรับ Windows 32 บิต, Windows 64 บิต และ Linux 64 บิต
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi XLSM sang DOCX qua Python
-url: /vi/python-java/conversion/xlsm-to-docx/
+
 description: Mã mẫu cho chuyển đổi xlsm sang docx Python. Sử dụng mã mẫu API cho hàng loạt tệp xlsm để chuyển đổi docx trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

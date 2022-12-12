@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převeďte XLTX do PDF pomocí aplikace C++ 
-url: /cs/cpp/conversion/xltx-to-pdf/ 
+
 description: Ukázkový konverzní kód C++ pro dokument XLTX do formátu PDF. Programátoři mohou použít tento zdrojový kód pro dávkový převod XLTX do PDF v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

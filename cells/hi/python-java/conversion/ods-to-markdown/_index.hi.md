@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python के माध्यम से ODS को MARKDOWN में बदलें
-url: /hi/python-java/conversion/ods-to-markdown/
+
 description: Python रूपांतरण को चिह्नित करने के लिए ऑड्स के लिए नमूना कोड। Python एप्लिकेशन में रूपांतरण को मार्कडाउन करने के लिए बैच ऑड्स फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

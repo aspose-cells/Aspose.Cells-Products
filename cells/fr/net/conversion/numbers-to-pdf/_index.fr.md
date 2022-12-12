@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir NUMBERS en PDF via C#
-url: /fr/net/conversion/numbers-to-pdf/
+
 description: Exemple de code pour la conversion des nombres en pdf C#. Utilisez API exemple de code pour les fichiers de numéros de lot en conversion pdf dans VB.NET, Asp.NET ou toute application basée sur .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

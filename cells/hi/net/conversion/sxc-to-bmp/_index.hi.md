@@ -1,6 +1,6 @@
-﻿---
+---
 title: SXC को BMP से C# में बदलें
-url: /hi/net/conversion/sxc-to-bmp/
+
 description: sxc से bmp C# रूपांतरण के लिए नमूना कोड। वीबी.NET, एएसपी.NET या किसी .NET आधारित एप्लिकेशन के भीतर बीएमपी रूपांतरण के लिए बैच एसएक्ससी फाइलों के लिए API उदाहरण कोड का प्रयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

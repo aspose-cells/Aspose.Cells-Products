@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET Java C++ PHP и Android API для синтаксического анализа электронных таблиц Excel 
 weight: 10
-url: /ru/family
+
 description: Библиотеки для чтения, записи и управления файлами Microsoft Excel в .NET Java C++ приложениях для Android и SharePoint. Экспорт рабочих листов в SSRS и JasperReports
 ---
 {{< blocks/products/pf/main-wrap-class >}}

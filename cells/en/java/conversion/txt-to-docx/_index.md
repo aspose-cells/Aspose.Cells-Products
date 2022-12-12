@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to DOCX via Java 
-url: /java/conversion/txt-to-docx/
+
 description: Convert TXT to DOCX format in Java code. Save TXT as DOCX using Java.
 ---
 

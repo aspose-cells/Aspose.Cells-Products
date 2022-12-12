@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan FODS ke SPREADSHEETML melalui Python
-url: /id/python-java/conversion/fods-to-spreadsheetml/
+
 description: Contoh kode untuk konversi fods ke spreadsheetml Python. Gunakan API kode contoh untuk file batch fods ke konversi spreadsheetml dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

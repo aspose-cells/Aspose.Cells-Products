@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Konvertálja az XLS-t XLT-vé a következőn keresztül: C#"
-url: /hu/net/conversion/xls-to-xlt/
+
 description: Mintakód az xls–xlt C# konverzióhoz. Használjon API példakódot a kötegelt xls fájlok xlt konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

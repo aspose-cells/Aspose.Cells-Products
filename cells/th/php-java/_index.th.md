@@ -1,7 +1,7 @@
-﻿---
+---
 title: Excel สเปรดชีต PHP API - Aspose 
 weight: 3660
-url: /th/php-java/ 
+
 description: สเปรดชีต PHP Excel API เพื่ออ่านเขียนและแปลง XLS XLSX CSV TSV HTML ODS SpreadsheetML และรูปแบบ Excel 97-2016 ทั้งหมด ส่งออกสเปรดชีตเป็นหลายรูปแบบ
 ---
 {{< blocks/products/pf/main-wrap-class >}}

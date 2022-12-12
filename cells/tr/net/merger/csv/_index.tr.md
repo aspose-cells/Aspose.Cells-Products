@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET aracılığıyla CSV Dosyalarını Birleştir 
 weight: 6450
-url: /tr/net/merger/csv/ 
+
 description: .NET Framework, .NET Core, Mono veya Xamarin Platformlarında CSV belgelerini birleştirmek için C# kaynak kodu.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to DOCX via C#
-url: /net/conversion/ods-to-docx/
+
 description: Convert ODS to DOCX format in C# code. Save ODS as DOCX using VB.NET, Asp.NET or any .NET based application.
 ---
 

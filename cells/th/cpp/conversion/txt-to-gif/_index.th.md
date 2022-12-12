@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง TXT เป็น GIF ผ่าน C++ แอปพลิเคชัน 
-url: /th/cpp/conversion/txt-to-gif/ 
+
 description: ตัวอย่างรหัสการแปลง C++ สำหรับเอกสาร TXT เป็นรูปแบบ GIF โปรแกรมเมอร์สามารถใช้ซอร์สโค้ดนี้สำหรับการแปลงแบตช์ TXT เป็น GIF ภายในแอปพลิเคชัน C++ ใดก็ได้
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

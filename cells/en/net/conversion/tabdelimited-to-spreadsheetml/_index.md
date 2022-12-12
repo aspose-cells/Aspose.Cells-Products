@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to SPREADSHEETML via C#
-url: /net/conversion/tabdelimited-to-spreadsheetml/
+
 description: Convert TABDELIMITED to SPREADSHEETML format in C# code. Save TABDELIMITED as SPREADSHEETML using VB.NET, Asp.NET or any .NET based application.
 ---
 

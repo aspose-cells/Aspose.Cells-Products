@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést HTML na BMP prostřednictvím Python
-url: /cs/python-java/conversion/html-to-bmp/
+
 description: Ukázkový kód pro konverzi html na bmp Python. Použijte API ukázkový kód pro dávkový převod html souborů na bmp v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

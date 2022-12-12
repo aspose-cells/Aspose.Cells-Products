@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل NUMBERS إلى XLT عبر Python
-url: /ar/python-java/conversion/numbers-to-xlt/
+
 description: نموذج رمز للأرقام لتحويل Python xlt. استخدم API رمز المثال لملفات أرقام الدُفعات لتحويل xlt داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

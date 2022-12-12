@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование TABDELIMITED в MARKDOWN с помощью C#
-url: /ru/net/conversion/tabdelimited-to-markdown/
+
 description: Пример кода для преобразования tabdelimited в markdown C#. Используйте пример кода API для пакетного преобразования файлов с разделителями табуляцией в уценку в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

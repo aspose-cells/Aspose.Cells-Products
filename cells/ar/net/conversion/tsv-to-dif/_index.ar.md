@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TSV إلى DIF عبر C#
-url: /ar/net/conversion/tsv-to-dif/
+
 description: نموذج رمز للتحويل من tsv إلى ديف C#. استخدم API رمز المثال لملفات tsv المجمعة لتغيير التحويل داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

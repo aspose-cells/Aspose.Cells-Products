@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TABDELIMITED konvertálása SPREADSHEETML-re a következőn keresztül: C#"
-url: /hu/net/conversion/tabdelimited-to-spreadsheetml/
+
 description: Mintakód a tabulátorral határolt C# táblázatkezelő konverzióhoz. Használjon API példakódot a kötegelt tabulátorral tagolt fájlokhoz a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belüli táblázatkezelő konvertálásához.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

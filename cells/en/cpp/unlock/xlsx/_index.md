@@ -1,7 +1,7 @@
 ---
 title: Unlock XLSX document via C++ 
 weight: 3680
-url: /cpp/unlock/xlsx/ 
+
 description: C++ example code to unlock password protected XLSX file on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
 

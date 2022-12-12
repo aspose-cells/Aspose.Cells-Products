@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# के माध्यम से TXT को XLS में बदलें
-url: /hi/net/conversion/txt-to-xls/
+
 description: txt से xls C# रूपांतरण के लिए नमूना कोड। VB.NET, Asp.NET या किसी .NET आधारित एप्लिकेशन में बैच txt फ़ाइलों से xls रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

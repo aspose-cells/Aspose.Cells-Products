@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to XLSM via Java 
-url: /java/conversion/xlsb-to-xlsm/
+
 description: Convert XLSB to XLSM format in Java code. Save XLSB as XLSM using Java.
 ---
 

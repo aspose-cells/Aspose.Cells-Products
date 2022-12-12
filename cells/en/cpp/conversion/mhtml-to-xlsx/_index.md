@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to XLSX via C++
-url: /cpp/conversion/mhtml-to-xlsx/
+
 description: Convert MHTML to XLSX format in C++ code. Save MHTML as XLSX using C++.
 ---
 

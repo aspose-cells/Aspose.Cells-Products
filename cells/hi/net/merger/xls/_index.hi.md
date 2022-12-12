@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET के द्वारा XLS फ़ाइलें मर्ज करें 
 weight: 3000
-url: /hi/net/merger/xls/ 
+
 description: .NET Framework, .NET Core, Mono या Xamarin Platforms पर XLS दस्तावेज़ों को संयोजित करने के लिए C# स्रोत कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

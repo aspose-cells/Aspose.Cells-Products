@@ -1,7 +1,7 @@
-﻿---
+---
 title: Chuyển đổi TSV sang Mảng Byte qua C# 
 weight: 7690
-url: /vi/net/conversion/tsv-to-byte-array/ 
+
 description: C# Mã mẫu để chuyển đổi TSV sang Mảng Byte. Sử dụng mã này để chuyển đổi Excel TSV sang Mảng Byte trong VB .NET, Asp .NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

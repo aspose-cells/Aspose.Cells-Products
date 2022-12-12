@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to PDF via Java 
-url: /java/conversion/txt-to-pdf/
+
 description: Convert TXT to PDF format in Java code. Save TXT as PDF using Java.
 ---
 

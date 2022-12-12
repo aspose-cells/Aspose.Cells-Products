@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通过 C++ 搜索和替换 ODS 文档中的文本 
 weight: 1610
-url: /zh/cpp/redaction/ods/ 
+
 description: C++ 用于在 Windows 32 位、Windows 64 位和 Linux 64 位的 C++ 运行时环境上编辑 ODS 文件中的敏感信息的示例代码。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

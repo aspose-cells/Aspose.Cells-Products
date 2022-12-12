@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TABDELIMITED na TSV přes Python
-url: /cs/python-java/conversion/tabdelimited-to-tsv/
+
 description: Ukázkový kód pro převod tabulátorem na tsv Python. Použijte API ukázkový kód pro dávkový převod souborů oddělených tabulátory na tsv v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

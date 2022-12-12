@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TXT إلى BMP عبر C#
-url: /ar/net/conversion/txt-to-bmp/
+
 description: نموذج رمز للتحويل من txt إلى bmp C#. استخدم API رمز المثال لملفات txt الدفعية لتحويل bmp داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

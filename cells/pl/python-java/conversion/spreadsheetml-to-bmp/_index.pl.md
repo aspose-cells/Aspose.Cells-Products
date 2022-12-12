@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj SPREADSHEETML na BMP przez Python
-url: /pl/python-java/conversion/spreadsheetml-to-bmp/
+
 description: Przykładowy kod konwersji arkusz kalkulacyjnyml do bmp Python. Użyj przykładowego kodu API dla wsadowych plików arkusza kalkulacyjnego w celu konwersji bmp w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to SVG via Java 
-url: /java/conversion/xltx-to-svg/
+
 description: Convert XLTX to SVG format in Java code. Save XLTX as SVG using Java.
 ---
 

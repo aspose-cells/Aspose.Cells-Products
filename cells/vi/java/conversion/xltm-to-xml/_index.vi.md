@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển XLTM sang XML qua Java 
-url: /vi/java/conversion/xltm-to-xml/ 
+
 description: Mã chuyển đổi Java mẫu cho định dạng XLTM sang tệp XML. Lập trình viên có thể sử dụng mã mẫu này để xuất bảng tính Excel & OpenOffice sang XML trong bất kỳ Ứng dụng dựa trên Web hoặc Máy tính để bàn nào Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

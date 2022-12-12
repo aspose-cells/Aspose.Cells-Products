@@ -1,7 +1,7 @@
-﻿---
+---
 title: Hợp nhất các Tệp MHTML qua .NET 
 weight: 2610
-url: /vi/net/merger/mhtml/ 
+
 description: C# mã nguồn để kết hợp các tài liệu MHTML trên Nền tảng .NET Framework, .NET Core Mono hoặc Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

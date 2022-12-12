@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLSM konvertálása TIFF-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/xlsm-to-tiff/
+
 description: Mintakód az xlsm–tiff Python konverzióhoz. Használjon API példakódot kötegelt xlsm fájlok tiff konverziójához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

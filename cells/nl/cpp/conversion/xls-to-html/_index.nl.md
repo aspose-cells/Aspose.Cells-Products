@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converteer XLS naar HTML via C++ applicatie 
 weight: 2680
-url: /nl/cpp/conversion/xls-to-html/ 
+
 description: Voorbeeld C++ conversiecode voor XLS-document naar HTML-indeling. Programmeurs kunnen deze broncode gebruiken voor batch-XLS-naar-HTML-conversie binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

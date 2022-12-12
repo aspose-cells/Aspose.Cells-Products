@@ -1,6 +1,6 @@
 ---
 title: Merge NUMBERS to HTM Files via C# 
-url: /net/merger/merge-numbers-to-htm/ 
+
 description: Merge NUMBERS to HTM file in C# code. Combine NUMBERS to HTM file using VB.NET, Asp.NET or any .NET based application.
 ---
 

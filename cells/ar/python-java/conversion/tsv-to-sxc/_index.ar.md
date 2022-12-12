@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TSV إلى SXC عبر Python
-url: /ar/python-java/conversion/tsv-to-sxc/
+
 description: نموذج كود للتحويل من tsv إلى sxc Python. استخدم API رمز المثال لملفات دفعية tsv لتحويل sxc داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

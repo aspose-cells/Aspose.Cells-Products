@@ -1,6 +1,6 @@
-﻿---
+---
 title: Scalanie plików Excela API .NET C#
-url: /pl/net/merger/
+
 description: Połącz pliki arkuszy kalkulacyjnych Excel i OpenOffice za pomocą zaledwie kilku wierszy kodu C#.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

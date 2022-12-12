@@ -1,7 +1,7 @@
-﻿---
+---
 title: Documento XLS de marca d'água via Java 
 weight: 2210
-url: /pt/java/watermark/xls/ 
+
 description: Java código de amostra para adicionar ou remover marca d'água no arquivo XLS no Java ambiente de tempo de execução para aplicativos JSP/JSF e aplicativos de desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

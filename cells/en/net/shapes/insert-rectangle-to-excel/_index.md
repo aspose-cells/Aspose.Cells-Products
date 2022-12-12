@@ -1,7 +1,7 @@
 ---
 title: Insert rectangle into Excel via .NET 
 weight: 240
-url: /net/shapes/insert-rectangle-to-excel/ 
+
 description: C# source code to insert rectangle into Excel on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

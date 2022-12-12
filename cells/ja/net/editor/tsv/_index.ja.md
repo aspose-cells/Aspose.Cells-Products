@@ -1,6 +1,6 @@
-﻿---
+---
 title: .NETを介してTSVファイルを編集する 
-url: /ja/net/editor/tsv/ 
+
 description: .NETフレームワーク、.NETコア、Windows Azure、Mono、またはXamarinプラットフォームでTSVドキュメントを編集するためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή TXT σε XLSM μέσω Python
-url: /el/python-java/conversion/txt-to-xlsm/
+
 description: Δείγμα κώδικα για μετατροπή txt σε xlsm Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδική μετατροπή αρχείων txt σε xlsm εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

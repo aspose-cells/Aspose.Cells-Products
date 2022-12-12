@@ -1,7 +1,7 @@
-﻿---
+---
 title: ODS'yi Java aracılığıyla PDF'ye dönüştürün 
 weight: 4170
-url: /tr/java/conversion/ods-to-pdf/ 
+
 description: ODS formatının PDF dosyasına örnek Java dönüştürme kodu. Programcılar, Excel ve OpenOffice elektronik tablolarını herhangi bir Web veya Masaüstü Java tabanlı Uygulamada PDF'ye dışa aktarmak için bu örnek kodu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

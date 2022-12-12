@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل MHTML إلى BMP عبر تطبيق C++ 
 weight: 1020
-url: /ar/cpp/conversion/mhtml-to-bmp/ 
+
 description: نموذج لشفرة تحويل C++ لمستند MHTML إلى تنسيق BMP. يمكن للمبرمجين استخدام كود المصدر هذا لتحويل MHTML إلى BMP دفعة داخل أي C++ تطبيق.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

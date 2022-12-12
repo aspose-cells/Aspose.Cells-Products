@@ -1,6 +1,6 @@
-﻿---
+---
 title: "CSV konvertálása DOCX-re a következőn keresztül: C#"
-url: /hu/net/conversion/csv-to-docx/
+
 description: Mintakód a csv–docx C# konverzióhoz. Használjon API példakódot kötegelt csv fájlok docx konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

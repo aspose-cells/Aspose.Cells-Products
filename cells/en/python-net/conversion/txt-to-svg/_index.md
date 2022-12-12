@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to SVG via Python
-url: /python-net/conversion/txt-to-svg/
+
 description: Sample code for txt to svg Python conversion. Use API example code for batch txt files to svg conversion within Python application.
 ---
 

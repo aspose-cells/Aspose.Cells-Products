@@ -1,7 +1,7 @@
-﻿---
+---
 title: دمج ملفات XLTX عبر Java 
 weight: 680
-url: /ar/java/merger/xltx/ 
+
 description: Java نموذج كود لدمج مستندات XLTX في Java Runtime Environment لتطبيق JSP / JSF وتطبيقات سطح المكتب.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

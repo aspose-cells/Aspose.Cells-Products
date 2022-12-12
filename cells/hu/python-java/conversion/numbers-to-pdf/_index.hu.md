@@ -1,6 +1,6 @@
-﻿---
+---
 title: "NUMBERS konvertálása PDF-be a következőn keresztül: Python"
-url: /hu/python-java/conversion/numbers-to-pdf/
+
 description: Mintakód számok pdf-té konvertálásához Python. Használja a(z) API példakódot a kötegszámfájlok PDF-vé alakításához a(z) Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

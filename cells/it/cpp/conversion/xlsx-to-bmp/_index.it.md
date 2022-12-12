@@ -1,7 +1,7 @@
-﻿---
+---
 title: Converti XLSX in BMP tramite l'applicazione C++ 
 weight: 8920
-url: /it/cpp/conversion/xlsx-to-bmp/ 
+
 description: Esempio di codice di conversione C++ per il documento XLSX in formato BMP. I programmatori possono utilizzare questo codice sorgente per la conversione batch da XLSX a BMP all'interno di qualsiasi C++ Applicazione.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

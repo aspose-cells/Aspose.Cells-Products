@@ -1,7 +1,7 @@
-﻿---
+---
 title: Hợp nhất các tệp XLT qua Java 
 weight: 9960
-url: /vi/java/merger/xlt/ 
+
 description: Java mã mẫu để kết hợp tài liệu XLT trên Java Môi trường thời gian chạy cho Ứng dụng JSP / JSF và Ứng dụng máy tính để bàn.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

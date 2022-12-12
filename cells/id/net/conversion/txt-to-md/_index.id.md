@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan TXT ke MD melalui C#
-url: /id/net/conversion/txt-to-md/
+
 description: Contoh kode untuk konversi txt ke md C#. Gunakan API kode contoh untuk file batch txt ke konversi md dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

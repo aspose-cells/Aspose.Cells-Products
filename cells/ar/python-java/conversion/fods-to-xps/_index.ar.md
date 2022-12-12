@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل FODS إلى XPS عبر Python
-url: /ar/python-java/conversion/fods-to-xps/
+
 description: نموذج كود لتحويل fods إلى xps Python. استخدم API مثال الكود لملفات دفعات لتحويل xps داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

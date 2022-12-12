@@ -1,7 +1,7 @@
-﻿---
+---
 title: تحويل TXT إلى JPEG عبر Java 
 weight: 4930
-url: /ar/java/conversion/txt-to-jpeg/ 
+
 description: نموذج Java رمز التحويل لتنسيق TXT إلى ملف JPEG. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى JPEG داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

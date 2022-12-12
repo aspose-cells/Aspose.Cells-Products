@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLT konvertálása SVG-vé a következőn keresztül: Python"
-url: /hu/python-java/conversion/xlt-to-svg/
+
 description: Mintakód az xlt–svg Python konverzióhoz. Használjon API példakódot a kötegelt xlt fájlok SVG konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

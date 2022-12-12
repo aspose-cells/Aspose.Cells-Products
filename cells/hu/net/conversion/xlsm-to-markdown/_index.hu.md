@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLSM konvertálása MARKDOWN-re a következőn keresztül: C#"
-url: /hu/net/conversion/xlsm-to-markdown/
+
 description: Mintakód az xlsm to markdown C# konverzióhoz. Használjon API példakódot kötegelt xlsm fájlokhoz a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazás konverziójának leértékeléséhez.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

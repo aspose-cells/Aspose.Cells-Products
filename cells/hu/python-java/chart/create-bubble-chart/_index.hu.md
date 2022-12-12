@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Buborékdiagramok létrehozása a következőn keresztül: Python"
-url: /hu/python-java/create-bubble-chart/
+
 description: Python Mintakód Buborékdiagramok készítéséhez Excelbe a Python Library használatával. Használja ezt a kódot buborékdiagram létrehozásához MS Excelben a Python alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

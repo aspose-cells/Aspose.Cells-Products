@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Konvertálja az XLSB-t bájttömbbé a következőn keresztül: C# "
 weight: 7690
-url: /hu/net/conversion/xlsb-to-byte-array/ 
+
 description: C# Mintakód az XLSB-ből byte Array konvertáláshoz. Használja ezt a kódot az Excel XLSB-ből Byte Array konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++アプリケーションを介してTXTをPNGに変換する 
-url: /ja/cpp/conversion/txt-to-png/ 
+
 description: TXTドキュメントからPNG形式へのサンプルC++変換コード。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でTXTからPNGへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

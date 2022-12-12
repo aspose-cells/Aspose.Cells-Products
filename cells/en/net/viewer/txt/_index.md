@@ -1,7 +1,7 @@
 ---
 title: View TXT File Formats via .NET 
 weight: 8300
-url: /net/viewer/txt/ 
+
 description: C# source code to load, render and display TXT documents on .NET Framework, .NET Core, Mono or Xamarin Platforms.
 ---
 

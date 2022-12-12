@@ -1,7 +1,7 @@
-﻿---
+---
 title: Pesquisar documento ODS sem abrir via Java 
 weight: 8140
-url: /pt/java/search/ods/ 
+
 description: Java código de amostra para pesquisar palavras com padrão no arquivo ODS no Java ambiente de tempo de execução para aplicativos JSP/JSF e aplicativos de desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

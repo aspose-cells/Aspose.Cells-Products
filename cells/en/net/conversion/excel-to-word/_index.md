@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to WORD via C#
-url: /net/conversion/excel-to-word/
+
 description: Convert EXCEL to WORD format in C# code. Save EXCEL as WORD using VB.NET, Asp.NET or any .NET based application.
 ---
 

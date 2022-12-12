@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi TXT ke PNG melalui C++ aplikasi 
-url: /id/cpp/conversion/txt-to-png/ 
+
 description: Contoh C++ kode konversi untuk dokumen TXT ke format PNG. Pemrogram dapat menggunakan kode sumber ini untuk konversi batch TXT ke PNG dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

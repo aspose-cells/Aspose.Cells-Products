@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to XLAM via C#
-url: /net/conversion/xltx-to-xlam/
+
 description: Convert XLTX to XLAM format in C# code. Save XLTX as XLAM using VB.NET, Asp.NET or any .NET based application.
 ---
 

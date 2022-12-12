@@ -1,7 +1,7 @@
-﻿---
+---
 title: Znak wodny dokumentu XLSB za pośrednictwem Java 
 weight: 5900
-url: /pl/java/watermark/xlsb/ 
+
 description: Java przykładowy kod do dodawania lub usuwania znaku wodnego do pliku XLSB w Java środowisku wykonawczym dla aplikacji JSP/JSF i aplikacji komputerowych.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python aracılığıyla TABDELIMITED'i PNG'ye dönüştürün
-url: /tr/python-java/conversion/tabdelimited-to-png/
+
 description: png Python dönüşümüyle sınırlandırılmış sekme için örnek kod. Python uygulamasında toplu sekmeyle ayrılmış dosyaları png'ye dönüştürmek için API örnek kodunu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

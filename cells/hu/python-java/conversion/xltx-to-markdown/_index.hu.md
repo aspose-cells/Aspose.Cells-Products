@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Az XLTX konvertálása MARKDOWN-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/xltx-to-markdown/
+
 description: Mintakód az xltx to markdown Python konverzióhoz. Használjon API példakódot kötegelt xltx fájlokhoz a konverzió leértékeléséhez a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

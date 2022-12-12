@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование MHTML в PDF через Python
-url: /ru/python-java/conversion/mhtml-to-pdf/
+
 description: Пример кода для преобразования mhtml в pdf Python. Используйте пример кода API для пакетного преобразования файлов mhtml в pdf в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

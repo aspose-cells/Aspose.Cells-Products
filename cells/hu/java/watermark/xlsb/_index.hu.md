@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Vízjel XLSB dokumentum a következőn keresztül: Java "
 weight: 5900
-url: /hu/java/watermark/xlsb/ 
+
 description: Java mintakód a vízjel XLSB-fájlhoz való hozzáadásához vagy eltávolításához a Java Runtime Environment for JSP/JSF Applications and Desktop Applications webhelyen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

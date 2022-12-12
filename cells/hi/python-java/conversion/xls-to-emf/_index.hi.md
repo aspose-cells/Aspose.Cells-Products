@@ -1,6 +1,6 @@
-﻿---
+---
 title: XLS को EMF में बदलें Python के माध्यम से
-url: /hi/python-java/conversion/xls-to-emf/
+
 description: एक्सएलएस से ईएमएफ Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर ईएमएफ रूपांतरण के लिए बैच xls फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

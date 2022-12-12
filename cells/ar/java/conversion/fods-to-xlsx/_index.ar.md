@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل FODS إلى XLSX عبر Java 
-url: /ar/java/conversion/fods-to-xlsx/ 
+
 description: نموذج رمز تحويل Java لتنسيق FODS إلى ملف XLSX. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى XLSX داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

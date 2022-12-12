@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してFODSをJSONに変換する
-url: /ja/net/conversion/fods-to-json/
+
 description: fodsからjsonC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチfodsファイルからjsonへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

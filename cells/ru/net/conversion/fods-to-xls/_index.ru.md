@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование FODS в XLS через C#
-url: /ru/net/conversion/fods-to-xls/
+
 description: Пример кода для преобразования fods в xls C#. Используйте пример кода API для пакетного преобразования файлов fods в xls в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

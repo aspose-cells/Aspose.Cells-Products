@@ -1,7 +1,7 @@
-﻿---
+---
 title: C++を介してODSドキュメントのロックを解除します 
 weight: 1190
-url: /ja/cpp/unlock/ods/ 
+
 description: C++ Windows 32ビット、Windows 64ビット、およびLinux64ビットのランタイム環境でパスワードで保護されたODSファイルのロックを解除するためのサンプルコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

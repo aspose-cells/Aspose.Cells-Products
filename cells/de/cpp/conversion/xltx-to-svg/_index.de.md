@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie XLTX in SVG über die Anwendung C++ 
-url: /de/cpp/conversion/xltx-to-svg/ 
+
 description: Beispiel-Umwandlungscode C++ für das XLTX-Dokument in das SVG-Format. Programmierer können diesen Quellcode für die Batch-Konvertierung von XLTX in SVG in jeder C++-Anwendung verwenden.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

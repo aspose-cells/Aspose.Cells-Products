@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python के माध्यम से CSV को BMP में बदलें
-url: /hi/python-java/conversion/csv-to-bmp/
+
 description: सीएसवी से बीएमपी Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर बीएमपी रूपांतरण के लिए बैच सीएसवी फाइलों के लिए API उदाहरण कोड का प्रयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

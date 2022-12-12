@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してNUMBERSをFODSに変換します
-url: /ja/python-java/conversion/numbers-to-fods/
+
 description: 数値からfodsPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチ番号ファイルからfodへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

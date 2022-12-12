@@ -1,7 +1,7 @@
-﻿---
+---
 title: Tạo Báo cáo trong Tệp XLSB qua .NET 
 weight: 1690
-url: /vi/net/assembly/xlsb/ 
+
 description: C# mã nguồn để tạo báo cáo định dạng XLSB trên Nền tảng .NET Framework, .NET Core Mono hoặc Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

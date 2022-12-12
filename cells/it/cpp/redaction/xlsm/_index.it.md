@@ -1,7 +1,7 @@
-﻿---
+---
 title: Cerca e sostituisci testo nel documento XLSM tramite C++ 
 weight: 9570
-url: /it/cpp/redaction/xlsm/ 
+
 description: C++ codice di esempio per oscurare le informazioni riservate nel file XLSM su C++ Runtime Environment per Windows a 32 bit, Windows a 64 bit e Linux a 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

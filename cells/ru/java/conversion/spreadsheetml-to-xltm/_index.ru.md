@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование SPREADSHETML в XLTM через Java 
-url: /ru/java/conversion/spreadsheetml-to-xltm/ 
+
 description: Пример кода преобразования Java для формата SPREADSHEETML в файл XLTM. Программисты могут использовать этот пример кода для экспорта электронных таблиц Excel и OpenOffice в формат XLTM в любом веб- или настольном Java приложении.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

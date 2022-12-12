@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj SPREADSHEETML na SVG za pomocą C#
-url: /pl/net/conversion/spreadsheetml-to-svg/
+
 description: Przykładowy kod konwersji arkusza kalkulacyjnego ml na svg C#. Użyj przykładowego kodu API dla plików arkusza kalkulacyjnego wsadowego do konwersji SVG w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

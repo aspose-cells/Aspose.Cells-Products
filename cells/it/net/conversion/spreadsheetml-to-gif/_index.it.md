@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converti FOGLIO DI LAVORO ML in GIF tramite C#
-url: /it/net/conversion/spreadsheetml-to-gif/
+
 description: Codice di esempio per la conversione da foglio di calcoloml a gif C#. Utilizza API codice di esempio per la conversione batch di file di foglio di calcolo ml in gif all'interno di VB.NET, Asp.NET o qualsiasi applicazione basata su .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

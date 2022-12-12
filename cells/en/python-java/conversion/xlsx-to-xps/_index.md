@@ -1,6 +1,6 @@
 ---
 title: Convert XLSX to XPS via Python
-url: /python-java/conversion/xlsx-to-xps/
+
 description: Convert XLSX to XPS format in Python code. Save XLSX as XPS using Python.
 ---
 

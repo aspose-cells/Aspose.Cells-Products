@@ -1,6 +1,6 @@
-﻿---
+---
 title: Crea grafici a bolle tramite C#
-url: /it/net/create-bubble-chart/
+
 description: C# Codice di esempio per la creazione di grafici a bolle in Excel utilizzando .NET Libreria. Utilizzare questo codice per creare un grafico {chart} in MS Excel all'interno di VB.NET, Asp.NET o qualsiasi applicazione basata su .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل MHTML إلى JPG عبر C#
-url: /ar/net/conversion/mhtml-to-jpg/
+
 description: نموذج رمز للتحويل من mhtml إلى jpg C#. استخدم API رمز المثال لملفات mhtml الدفعية لتحويل jpg داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

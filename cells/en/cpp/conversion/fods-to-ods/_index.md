@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to ODS via C++
-url: /cpp/conversion/fods-to-ods/
+
 description: Convert FODS to ODS format in C++ code. Save FODS as ODS using C++.
 ---
 

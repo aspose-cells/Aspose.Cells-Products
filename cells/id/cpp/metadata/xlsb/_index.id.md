@@ -1,7 +1,7 @@
-﻿---
+---
 title: Edit atau Lihat Metadata Dokumen XLSB melalui C++ 
 weight: 4820
-url: /id/cpp/metadata/xlsb/ 
+
 description: C++ kode contoh untuk mengedit atau melihat metadata file XLSB di C++ Runtime Environment untuk Windows 32 bit, Windows 64 bit, dan Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

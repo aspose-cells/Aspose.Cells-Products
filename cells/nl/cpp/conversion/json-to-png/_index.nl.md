@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer JSON naar PNG via C++ applicatie 
-url: /nl/cpp/conversion/json-to-png/ 
+
 description: Voorbeeld C++-conversiecode voor JSON-document naar PNG-indeling. Programmeurs kunnen deze broncode gebruiken voor batchconversie van JSON naar PNG binnen elke C++-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

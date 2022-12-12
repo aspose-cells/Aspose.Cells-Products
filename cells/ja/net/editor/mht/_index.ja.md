@@ -1,6 +1,6 @@
-﻿---
+---
 title: .NETを介してMHTファイルを編集する 
-url: /ja/net/editor/mht/ 
+
 description: .NETフレームワーク、.NETコア、Windows Azure、Mono、またはXamarinプラットフォームでMHTドキュメントを編集するためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

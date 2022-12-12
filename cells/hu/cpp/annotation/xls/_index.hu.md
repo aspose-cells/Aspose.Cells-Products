@@ -1,7 +1,7 @@
-﻿---
+---
 title: "XLS Excel fájl megjegyzés hozzáadása a következőn keresztül: C++ "
 weight: 10040
-url: /hu/cpp/annotation/xls/ 
+
 description: C++ mintakód XLS formátumú megjegyzések hozzáadásához és törléséhez a C++ Runtime Environment for Windows 32 bit, a Windows 64 bit és a Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

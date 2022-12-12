@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLT na TSV přes C#
-url: /cs/net/conversion/xlt-to-tsv/
+
 description: Ukázkový kód pro převod xlt na tsv C#. Použijte API ukázkový kód pro dávkový převod souborů xlt na tsv v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

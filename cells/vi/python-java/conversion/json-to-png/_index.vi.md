@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi JSON sang PNG qua Python
-url: /vi/python-java/conversion/json-to-png/
+
 description: Mã mẫu cho chuyển đổi json sang png Python. Sử dụng mã mẫu API cho chuyển đổi hàng loạt tệp json sang png trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

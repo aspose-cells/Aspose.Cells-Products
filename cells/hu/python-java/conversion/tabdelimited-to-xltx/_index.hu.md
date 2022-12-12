@@ -1,6 +1,6 @@
-﻿---
+---
 title: "TABDELIMITED konvertálása XLTX-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/tabdelimited-to-xltx/
+
 description: Mintakód a tabulátorral tagolt xltx Python konverzióhoz. Használjon API példakódot a tabulátorral határolt fájlok kötegelt xltx konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

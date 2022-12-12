@@ -1,7 +1,7 @@
-﻿---
+---
 title: Text und Bilder aus ODS-Dokument über C++ extrahieren 
 weight: 9130
-url: /de/cpp/parser/ods/ 
+
 description: C++ Beispielcode zum Extrahieren von Text und Bildern aus der ODS-Datei in C++ Runtime Environment für Windows 32 Bit, Windows 64 Bit und Linux 64 Bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

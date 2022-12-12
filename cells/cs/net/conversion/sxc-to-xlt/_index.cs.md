@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést SXC na XLT přes C#
-url: /cs/net/conversion/sxc-to-xlt/
+
 description: Ukázkový kód pro převod sxc na xlt C#. Použijte API ukázkový kód pro dávkový převod souborů sxc na xlt v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

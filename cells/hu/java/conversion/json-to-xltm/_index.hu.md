@@ -1,7 +1,7 @@
-﻿---
+---
 title: "JSON konvertálása XLTM-re a következőn keresztül: Java "
 weight: 9100
-url: /hu/java/conversion/json-to-xltm/ 
+
 description: Minta Java konverziós kód a JSON-formátumhoz XLTM-fájllá. A programozók ezt a példakódot használhatják Excel- és OpenOffice-táblázatok XLTM-be exportálására bármely web- vagy asztali Java-alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

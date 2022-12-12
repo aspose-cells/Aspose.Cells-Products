@@ -1,7 +1,7 @@
-﻿---
+---
 title: Entsperren Sie das XLSM-Dokument über Java 
 weight: 7700
-url: /de/java/unlock/xlsm/ 
+
 description: Java Beispielcode zum Entsperren der passwortgeschützten XLSM-Datei in Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

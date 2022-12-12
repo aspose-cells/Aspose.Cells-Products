@@ -1,7 +1,7 @@
-﻿---
+---
 title: Поиск и замена текста в документе XLSB через C++ 
 weight: 6660
-url: /ru/cpp/redaction/xlsb/ 
+
 description: Пример кода C++ для редактирования конфиденциальной информации в файле XLSB в среде выполнения C++ для 32-разрядной, 64-разрядной Windows и 64-разрядной версии Linux.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

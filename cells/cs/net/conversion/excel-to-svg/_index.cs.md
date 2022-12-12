@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést EXCEL na SVG přes C#
-url: /cs/net/conversion/excel-to-svg/
+
 description: Ukázkový kód pro převod Excel na svg C#. Použijte API ukázkový kód pro dávkové soubory Excel na převod svg v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

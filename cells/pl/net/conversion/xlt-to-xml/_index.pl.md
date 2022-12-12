@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj XLT na XML za pomocą C#
-url: /pl/net/conversion/xlt-to-xml/
+
 description: Przykładowy kod konwersji xlt do xml C#. Użyj przykładowego kodu API dla plików wsadowych xlt do konwersji xml w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

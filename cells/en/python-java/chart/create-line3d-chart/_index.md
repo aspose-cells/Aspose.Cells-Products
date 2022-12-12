@@ -1,6 +1,6 @@
 ---
 title: Create 3D Line Charts via Python
-url: /python-java/create-line3d-chart/
+
 description: Python Sample code for creating 3D Line charts to Excel using Python Library. Use this code for creating a 3D Line chart to MS Excel within Python based application.
 
 ---

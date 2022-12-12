@@ -1,6 +1,6 @@
-﻿---
+---
 title: "MHTML konvertálása SXC-vé a következőn keresztül: Python"
-url: /hu/python-java/conversion/mhtml-to-sxc/
+
 description: Mintakód az mhtml–sxc Python konverzióhoz. Használjon API példakódot az mhtml fájlok kötegelt sxc konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

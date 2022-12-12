@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierta NÚMEROS a SVG a través de Python
-url: /es/python-java/conversion/numbers-to-svg/
+
 description: Código de muestra para conversión de números a svg Python. Utilice el código de ejemplo API para los archivos de números de lote para la conversión de svg dentro de la aplicación Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

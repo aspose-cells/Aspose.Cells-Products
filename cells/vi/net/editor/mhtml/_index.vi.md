@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chỉnh sửa tệp MHTML qua .NET 
-url: /vi/net/editor/mhtml/ 
+
 description: C# mã nguồn để chỉnh sửa tài liệu MHTML trên Nền tảng .NET Framework, .NET Core, Windows Azure, Mono hoặc Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to JSON via Java 
-url: /java/conversion/numbers-to-json/
+
 description: Convert NUMBERS to JSON format in Java code. Save NUMBERS as JSON using Java.
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
 title: "CSV konvertálása MHTML-re a következőn keresztül: Java "
 weight: 9650
-url: /hu/java/conversion/csv-to-mhtml/ 
+
 description: Minta Java konverziós kód CSV-formátumhoz MHTML-fájllá. A programozók ezt a példakódot használhatják Excel- és OpenOffice-táblázatok exportálására MHTML-be bármely web- vagy asztali Java-alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

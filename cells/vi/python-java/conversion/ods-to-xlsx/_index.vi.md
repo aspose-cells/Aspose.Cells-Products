@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi ODS sang XLSX qua Python
-url: /vi/python-java/conversion/ods-to-xlsx/
+
 description: Mã mẫu cho chuyển đổi ods sang xlsx Python. Sử dụng mã mẫu API cho các tệp ods hàng loạt thành chuyển đổi xlsx trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

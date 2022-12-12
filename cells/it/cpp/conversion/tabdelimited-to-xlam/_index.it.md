@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converti TABDELIMITED in XLAM tramite l'applicazione C++ 
-url: /it/cpp/conversion/tabdelimited-to-xlam/ 
+
 description: Esempio di codice di conversione C++ per il documento TABDELIMITE in formato XLAM. I programmatori possono utilizzare questo codice sorgente per la conversione batch da TABDELIMITE a XLAM all'interno di qualsiasi C++ Applicazione.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

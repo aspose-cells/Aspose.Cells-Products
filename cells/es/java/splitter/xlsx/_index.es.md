@@ -1,7 +1,7 @@
-﻿---
+---
 title: Dividir archivos XLSX a través de Java 
 weight: 3250
-url: /es/java/splitter/xlsx/ 
+
 description: Java código de ejemplo para dividir documentos XLSX en Java entorno de tiempo de ejecución para aplicaciones JSP/JSF y aplicaciones de escritorio.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

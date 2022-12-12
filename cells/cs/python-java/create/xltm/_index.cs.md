@@ -1,6 +1,6 @@
-﻿---
+---
 title: Vytvářejte soubory MS Excel XLTM prostřednictvím Python 
-url: /cs/python-java/create-xltm/ 
+
 description: Python Ukázkový kód pro generování dokumentů XLTM. Tento kód použijte pro vytváření souborů MS Excel XLTM v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

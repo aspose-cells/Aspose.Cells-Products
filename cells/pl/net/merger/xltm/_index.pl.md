@@ -1,7 +1,7 @@
-﻿---
+---
 title: Scal pliki XLTM przez .NET 
 weight: 9010
-url: /pl/net/merger/xltm/ 
+
 description: C# kod źródłowy do łączenia dokumentów XLTM na platformach .NET Framework, .NET Core, Mono lub Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

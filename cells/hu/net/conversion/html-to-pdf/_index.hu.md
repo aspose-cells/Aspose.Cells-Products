@@ -1,6 +1,6 @@
-﻿---
+---
 title: "HTML konvertálása PDF-be a következőn keresztül: C#"
-url: /hu/net/conversion/html-to-pdf/
+
 description: Mintakód a html-ből pdf-be C# konvertáláshoz. Használjon API példakódot kötegelt html fájlok PDF konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazásban.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

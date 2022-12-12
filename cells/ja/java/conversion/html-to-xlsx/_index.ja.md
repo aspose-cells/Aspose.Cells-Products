@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してHTMLをXLSXに変換します 
 weight: 6000
-url: /ja/java/conversion/html-to-xlsx/ 
+
 description: HTML形式からXLSXファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、WebまたはデスクトップJavaベースのアプリケーション内でExcelおよびOpenOfficeスプレッドシートをXLSXにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

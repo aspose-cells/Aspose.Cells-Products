@@ -1,6 +1,6 @@
-﻿---
+---
 title: C# aracılığıyla 3B Çizgi Grafikleri oluşturun
-url: /tr/net/create-line3d-chart/
+
 description: C# .NET Kitaplığı kullanarak Excel'de 3B Çizgi grafikler oluşturmak için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde MS Excel'e 3B Çizgi grafiği oluşturmak için bu kodu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

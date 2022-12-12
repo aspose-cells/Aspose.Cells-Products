@@ -1,6 +1,6 @@
-﻿---
+---
 title: Vytvořit plošné grafy prostřednictvím C#
-url: /cs/net/create-area-chart/
+
 description: C# Ukázkový kód pro vytváření plošných grafů do Excelu pomocí knihovny .NET. Tento kód použijte k vytvoření plošného grafu do MS Excel v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

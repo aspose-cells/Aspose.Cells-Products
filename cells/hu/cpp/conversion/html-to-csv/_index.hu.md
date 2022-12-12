@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertálja a HTML-t CSV-vé a(z) C++ alkalmazással 
 weight: 6850
-url: /hu/cpp/conversion/html-to-csv/ 
+
 description: Minta C++ konverziós kód HTML-dokumentumhoz CSV formátumba. A programozók ezt a forráskódot használhatják kötegelt HTML-ből CSV-vé konvertálásához bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

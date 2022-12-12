@@ -1,7 +1,7 @@
-﻿---
+---
 title: Déverrouiller le document ODS via C++ 
 weight: 1190
-url: /fr/cpp/unlock/ods/ 
+
 description: C++ Exemple de code pour déverrouiller le fichier ODS protégé par mot de passe sur C++ Runtime Environment pour Windows 32 bits, Windows 64 bits et Linux 64 bits.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer NUMMERS naar JPEG via C#
-url: /nl/net/conversion/numbers-to-jpeg/
+
 description: Voorbeeldcode voor conversie van getallen naar jpeg C#. Gebruik API voorbeeldcode voor batchnummerbestanden naar jpeg-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

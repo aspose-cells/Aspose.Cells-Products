@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET Excel API | Elektronik Tablo Formatlarını .NET Çekirdek ile İşleyin 
 weight: 2030
-url: /tr/net/ 
+
 description: Microsoft Excel belgeleriyle çalışmak için C# ASP.NET VB.NET kitaplığı. Okuma yazma kaydetme oluşturun ve Elektronik Tablo dosyalarını yazdırın. PDF veya daha fazla formata dönüştürün
 ---
 {{< blocks/products/pf/main-wrap-class >}}

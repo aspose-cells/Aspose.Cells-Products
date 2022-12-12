@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή XLSM σε TABDELIMITED μέσω Python
-url: /el/python-java/conversion/xlsm-to-tabdelimited/
+
 description: Δείγμα κώδικα για μετατροπή xlsm σε οριοθετημένη καρτέλα Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία xlsm σε μετατροπή οριοθετημένης καρτέλας εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

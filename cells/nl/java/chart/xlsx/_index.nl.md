@@ -1,7 +1,7 @@
-﻿---
+---
 title: XLSX-documentdiagram via Java 
 weight: 5380
-url: /nl/java/chart/xlsx/ 
+
 description: Java voorbeeldcode om een grafiek of diagram in XLSX-bestand te tekenen en om te zetten in Java Runtime-omgeving voor JSP/JSF-applicaties en desktopapplicaties.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

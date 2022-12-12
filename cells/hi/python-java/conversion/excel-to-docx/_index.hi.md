@@ -1,6 +1,6 @@
-﻿---
+---
 title: Python के माध्यम से EXCEL को DOCX में बदलें
-url: /hi/python-java/conversion/excel-to-docx/
+
 description: एक्सेल से docx Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर docx रूपांतरण में बैच एक्सेल फ़ाइलों के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

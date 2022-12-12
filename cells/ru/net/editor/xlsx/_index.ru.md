@@ -1,6 +1,6 @@
-﻿---
+---
 title: Редактируйте файлы XLSX через .NET 
-url: /ru/net/editor/xlsx/ 
+
 description: Исходный код C# для редактирования документа XLSX на платформах .NET Framework, .NET Core, Windows Azure, Mono или Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

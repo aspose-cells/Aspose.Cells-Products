@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést FODS na MD přes Python
-url: /cs/python-java/conversion/fods-to-md/
+
 description: Ukázkový kód pro převod FOD na MD Python. Použijte API ukázkový kód pro dávkový převod souborů fods na MD v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

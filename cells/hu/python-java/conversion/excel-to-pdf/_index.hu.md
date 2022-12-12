@@ -1,6 +1,6 @@
-﻿---
+---
 title: "EXCEL konvertálása PDF-be a következőn keresztül: Python"
-url: /hu/python-java/conversion/excel-to-pdf/
+
 description: Mintakód az excelből pdf-be Python konvertáláshoz. Használjon API példakódot az excel fájlok kötegelt PDF formátumú konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

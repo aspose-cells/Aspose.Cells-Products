@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Hozzon létre MHTML-fájlokat a következőn keresztül: Java "
-url: /hu/java/create-mhtml/ 
+
 description: Java Mintakód MHTML dokumentumok generálásához. Használja ezt a kódot MHTML-fájlok létrehozásához Java alapú asztali vagy webes alkalmazásban.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan TABDELIMITED ke TIFF melalui Python
-url: /id/python-java/conversion/tabdelimited-to-tiff/
+
 description: Kode contoh untuk konversi tabdelimited ke tiff Python. Gunakan API kode contoh untuk berkas tabdelimited batch ke konversi tiff dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

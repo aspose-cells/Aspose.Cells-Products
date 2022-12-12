@@ -1,7 +1,7 @@
-﻿---
+---
 title: Συγχώνευση αρχείων HTML μέσω Java 
 weight: 8830
-url: /el/java/merger/html/ 
+
 description: Java δείγμα κώδικα για συνδυασμό εγγράφων HTML σε Java Runtime Environment για JSP/JSF Application και Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

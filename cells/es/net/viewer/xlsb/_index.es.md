@@ -1,7 +1,7 @@
-﻿---
+---
 title: Ver formatos de archivo XLSB a través de .NET 
 weight: 6260
-url: /es/net/viewer/xlsb/ 
+
 description: C# código fuente para cargar, procesar y mostrar documentos XLSB en .NET Framework, .NET Core, Mono o Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

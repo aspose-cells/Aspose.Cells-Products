@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してXLSXをPDFに変換する
-url: /ja/net/conversion/xlsx-to-pdf/
+
 description: xlsxからpdfC#への変換のサンプルコード。 VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内でのバッチxlsxファイルからpdfへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

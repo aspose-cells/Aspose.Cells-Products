@@ -1,7 +1,7 @@
-﻿---
+---
 title: Visa XLSB-filformat via .NET 
 weight: 6260
-url: /sv/net/viewer/xlsb/ 
+
 description: C# källkod för att ladda, rendera och visa XLSB-dokument på .NET Framework, .NET Core, Mono eller Xamarin-plattformar.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

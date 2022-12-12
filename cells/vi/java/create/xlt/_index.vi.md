@@ -1,6 +1,6 @@
-﻿---
+---
 title: Tạo tệp MS Excel XLT qua Java 
-url: /vi/java/create-xlt/ 
+
 description: Java Mã mẫu để tạo tài liệu XLT. Sử dụng mã này để tạo tệp MS Excel XLT trong ứng dụng web hoặc máy tính để bàn dựa trên Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

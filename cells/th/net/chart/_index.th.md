@@ -1,6 +1,6 @@
-﻿---
+---
 title: การสร้างแผนภูมิ Excel และการแปลงเป็นรูปภาพผ่าน .NET
-url: /th/net/chart/
+
 description: C# ซอร์สโค้ดสำหรับวาดและแปลงแผนภูมิหรือไดอะแกรมใน Microsoft Excel โดยใช้ .NET Library 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

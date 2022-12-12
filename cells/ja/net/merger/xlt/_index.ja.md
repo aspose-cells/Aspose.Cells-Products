@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NETを介してXLTファイルをマージ 
 weight: 1820
-url: /ja/net/merger/xlt/ 
+
 description: .NETフレームワーク、.NETコア、Mono、またはXamarinプラットフォームでXLTドキュメントを組み合わせるためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversi TXT ke XLSX melalui C++ aplikasi 
-url: /id/cpp/conversion/txt-to-xlsx/ 
+
 description: Contoh C++ kode konversi untuk dokumen TXT ke format XLSX. Pemrogram dapat menggunakan kode sumber ini untuk konversi batch TXT ke XLSX dalam C++ Aplikasi apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

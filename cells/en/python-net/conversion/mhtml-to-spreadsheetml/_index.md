@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to SPREADSHEETML via Python
-url: /python-net/conversion/mhtml-to-spreadsheetml/
+
 description: Sample code for mhtml to spreadsheetml Python conversion. Use API example code for batch mhtml files to spreadsheetml conversion within Python application.
 ---
 

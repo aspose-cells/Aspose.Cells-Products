@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование NUMBERS в XLS через Python
-url: /ru/python-java/conversion/numbers-to-xls/
+
 description: Пример кода для преобразования чисел в xls Python. Используйте пример кода API для преобразования файлов номеров пакетов в xls в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

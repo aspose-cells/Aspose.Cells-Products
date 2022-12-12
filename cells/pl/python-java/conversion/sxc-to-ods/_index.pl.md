@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konwertuj SXC na ODS przez Python
-url: /pl/python-java/conversion/sxc-to-ods/
+
 description: Przykładowy kod konwersji sxc do ods Python. Użyj przykładowego kodu API dla wsadowych plików sxc do konwersji kursów w aplikacji Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

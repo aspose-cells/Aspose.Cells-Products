@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převést XLSB na DIF přes Java 
 weight: 6840
-url: /cs/java/conversion/xlsb-to-dif/ 
+
 description: Ukázkový konverzní kód Java pro formát XLSB na soubor DIF. Programátoři mohou tento příklad kódu použít k exportu tabulek Excelu a OpenOffice do formátu DIF v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

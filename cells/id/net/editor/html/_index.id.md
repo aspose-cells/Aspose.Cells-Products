@@ -1,6 +1,6 @@
-﻿---
+---
 title: Edit file HTML melalui .NET 
-url: /id/net/editor/html/ 
+
 description: C# kode sumber untuk mengedit dokumen HTML pada .NET Framework, .NET Core, Windows Azure, Mono atau Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

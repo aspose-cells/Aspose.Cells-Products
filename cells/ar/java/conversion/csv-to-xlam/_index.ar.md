@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل CSV إلى XLAM عبر Java 
-url: /ar/java/conversion/csv-to-xlam/ 
+
 description: نموذج لشفرة تحويل Java لتنسيق CSV إلى ملف XLAM. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel & OpenOffice إلى XLAM داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan TXT ke TSV melalui Python
-url: /id/python-java/conversion/txt-to-tsv/
+
 description: Contoh kode untuk konversi txt ke tsv Python. Gunakan API kode contoh untuk file batch txt ke konversi tsv dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

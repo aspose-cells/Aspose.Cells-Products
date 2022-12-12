@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convierte TXT a XLAM a través de Python
-url: /es/python-java/conversion/txt-to-xlam/
+
 description: Código de muestra para la conversión de txt a xlam Python. Utilice el código de ejemplo API para la conversión de archivos txt por lotes a xlam dentro de la aplicación Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

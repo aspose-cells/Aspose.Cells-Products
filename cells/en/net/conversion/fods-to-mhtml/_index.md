@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to MHTML via C#
-url: /net/conversion/fods-to-mhtml/
+
 description: Convert FODS to MHTML format in C# code. Save FODS as MHTML using VB.NET, Asp.NET or any .NET based application.
 ---
 

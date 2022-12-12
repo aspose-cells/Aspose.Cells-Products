@@ -1,6 +1,6 @@
-﻿---
+---
 title: Scal pliki MHT przez .NET 
-url: /pl/net/merger/mht/ 
+
 description: Wypróbuj nasze lokalne interfejsy API łączenia wiadomości, aby łączyć dokumenty MHT na platformach .NET Framework, .NET Core i Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

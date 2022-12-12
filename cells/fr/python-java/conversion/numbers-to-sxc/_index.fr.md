@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir des NUMBERS en SXC via Python
-url: /fr/python-java/conversion/numbers-to-sxc/
+
 description: Exemple de code pour la conversion des nombres en sxc Python. Utilisez l'exemple de code API pour les fichiers de numéros de lot en conversion sxc dans l'application Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển XLSX sang PDF qua Python
-url: /vi/python-java/conversion/xlsx-to-pdf/
+
 description: Mã mẫu cho chuyển đổi xlsx sang pdf Python. Sử dụng API mã mẫu cho chuyển đổi hàng loạt tệp xlsx sang pdf trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

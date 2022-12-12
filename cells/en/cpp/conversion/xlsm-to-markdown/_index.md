@@ -1,6 +1,6 @@
 ---
 title: Convert XLSM to MARKDOWN via C++
-url: /cpp/conversion/xlsm-to-markdown/
+
 description: Convert XLSM to MARKDOWN format in C++ code. Save XLSM as MARKDOWN using C++.
 ---
 

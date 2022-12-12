@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie XLSM in DIF über C#
-url: /de/net/conversion/xlsm-to-dif/
+
 description: Beispielcode für xlsm, um die C#-Konvertierung zu unterscheiden. Verwenden Sie API Beispielcode für Batch-xlsm-Dateien, um die Konvertierung innerhalb von VB.NET, Asp.NET oder einer beliebigen .NET-basierten Anwendung zu unterscheiden.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to XLS via C++
-url: /cpp/conversion/ods-to-xls/
+
 description: Convert ODS to XLS format in C++ code. Save ODS as XLS using C++.
 ---
 

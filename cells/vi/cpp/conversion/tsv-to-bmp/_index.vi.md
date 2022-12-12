@@ -1,7 +1,7 @@
-﻿---
+---
 title: Chuyển đổi TSV sang BMP qua ứng dụng C++ 
 weight: 7000
-url: /vi/cpp/conversion/tsv-to-bmp/ 
+
 description: Mã chuyển đổi C++ mẫu cho tài liệu TSV sang định dạng BMP. Các lập trình viên có thể sử dụng mã nguồn này để chuyển đổi hàng loạt TSV sang BMP trong bất kỳ Ứng dụng C++ nào.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Buat File MS Excel XLS melalui Python 
-url: /id/python-java/create-xls/ 
+
 description: Python Contoh kode untuk membuat dokumen XLS. Gunakan kode ini untuk membuat file MS Excel XLS dalam aplikasi Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

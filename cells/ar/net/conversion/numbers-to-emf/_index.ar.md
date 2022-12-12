@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل الأرقام إلى EMF عبر C#
-url: /ar/net/conversion/numbers-to-emf/
+
 description: نموذج رمز للأرقام لتحويل C# emf. استخدم API رمز المثال لملفات أرقام الدُفعات لتحويل emf داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

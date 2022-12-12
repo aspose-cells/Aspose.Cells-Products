@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง NUMBERS เป็น JPEG ผ่าน Python
-url: /th/python-java/conversion/numbers-to-jpeg/
+
 description: โค้ดตัวอย่างสำหรับการแปลงตัวเลขเป็น jpeg Python ใช้โค้ดตัวอย่าง API สำหรับไฟล์หมายเลขแบทช์เป็นการแปลง jpeg ภายในแอปพลิเคชัน Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

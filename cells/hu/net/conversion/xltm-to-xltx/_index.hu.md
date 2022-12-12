@@ -1,6 +1,6 @@
-﻿---
+---
 title: "XLTM konvertálása XLTX-re a következőn keresztül: C#"
-url: /hu/net/conversion/xltm-to-xltx/
+
 description: Mintakód az xltm–xltx C# konverzióhoz. Használjon API példakódot a kötegelt xltm fájlok xltx konvertálásához VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

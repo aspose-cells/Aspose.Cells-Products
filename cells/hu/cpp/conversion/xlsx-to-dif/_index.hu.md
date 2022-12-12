@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konvertálja az XLSX-et DIF-re a(z) C++ alkalmazáson keresztül 
 weight: 4180
-url: /hu/cpp/conversion/xlsx-to-dif/ 
+
 description: Minta C++ konverziós kód XLSX dokumentumhoz DIF formátumba. A programozók ezt a forráskódot használhatják kötegelt XLSX-DIF-konverzióhoz bármely C++-alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

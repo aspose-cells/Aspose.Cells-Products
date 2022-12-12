@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Konvertálja az XLSB-t MD-vé a következőn keresztül: Python"
-url: /hu/python-java/conversion/xlsb-to-md/
+
 description: Mintakód az xlsb–md Python konverzióhoz. Használjon API példakódot a kötegelt xlsb fájlok md konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

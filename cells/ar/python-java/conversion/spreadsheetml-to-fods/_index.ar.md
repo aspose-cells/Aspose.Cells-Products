@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل SPREADSHEETML إلى FODS عبر Python
-url: /ar/python-java/conversion/spreadsheetml-to-fods/
+
 description: نموذج كود لتحويل جدول بيانات إلى fods Python. استخدم API رمز المثال لملفات جداول البيانات الدفعية لتحويل الملفات داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

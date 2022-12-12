@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie TABDELIMITED in PNG über Python
-url: /de/python-java/conversion/tabdelimited-to-png/
+
 description: Beispielcode für die Umwandlung von tabulatorgetrennt in png Python. Verwenden Sie API-Beispielcode für die Batch-Konvertierung von tabulatorgetrennten Dateien in PNG innerhalb der Anwendung Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

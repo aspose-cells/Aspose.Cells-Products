@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή TSV σε TABDELIMITED μέσω C#
-url: /el/net/conversion/tsv-to-tabdelimited/
+
 description: Δείγμα κώδικα για μετατροπή tsv σε οριοθετημένη καρτέλα C#. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία tsv σε μετατροπή οριοθετημένης καρτέλας εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται σε .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

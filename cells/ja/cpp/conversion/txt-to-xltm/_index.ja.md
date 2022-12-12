@@ -1,6 +1,6 @@
-﻿---
+---
 title: C++アプリケーションを介してTXTをXLTMに変換します 
-url: /ja/cpp/conversion/txt-to-xltm/ 
+
 description: TXTドキュメントからXLTM形式へのサンプルC++変換コード。プログラマーは、このソースコードを使用して、任意のC++アプリケーション内でTXTからXLTMへのバッチ変換を行うことができます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل TABDELIMITED إلى GIF عبر C#
-url: /ar/net/conversion/tabdelimited-to-gif/
+
 description: نموذج التعليمات البرمجية لجدولة محدودية لتحويل C# gif. استخدم API رمز المثال للملفات المحددة بعلامات الجدولة المجمعة لتحويل gif داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

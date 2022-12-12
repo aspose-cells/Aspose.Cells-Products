@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie JSON über C# in MHTML
-url: /de/net/conversion/json-to-mhtml/
+
 description: Beispielcode für die Umwandlung von json in mhtml C#. Verwenden Sie API Beispielcode für die Batch-Konvertierung von json-Dateien in mhtml in VB.NET, Asp.NET oder einer beliebigen .NET-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

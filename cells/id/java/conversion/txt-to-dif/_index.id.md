@@ -1,7 +1,7 @@
-﻿---
+---
 title: Konversikan TXT ke DIF melalui Java 
 weight: 8220
-url: /id/java/conversion/txt-to-dif/ 
+
 description: Contoh Java kode konversi untuk format TXT ke file DIF. Pemrogram dapat menggunakan kode contoh ini untuk mengekspor spreadsheet Excel & OpenOffice ke DIF dalam Aplikasi berbasis Java Web atau Desktop apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

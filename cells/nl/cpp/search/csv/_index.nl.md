@@ -1,7 +1,7 @@
-﻿---
+---
 title: Zoek CSV-document zonder te openen via C++ 
 weight: 5540
-url: /nl/cpp/search/csv/ 
+
 description: C++ voorbeeldcode om woorden met patroon te zoeken in CSV-bestand op C++ Runtime Environment voor Windows 32 bit, Windows 64 bit en Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

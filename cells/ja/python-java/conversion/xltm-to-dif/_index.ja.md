@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してXLTMをDIFに変換します
-url: /ja/python-java/conversion/xltm-to-dif/
+
 description: xltmからdifPythonへの変換のサンプルコード。 Pythonアプリケーション内で変換をdifするためのバッチxltmファイルのAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert XLTM to GIF via Python
-url: /python-java/conversion/xltm-to-gif/
+
 description: Convert XLTM to GIF format in Python code. Save XLTM as GIF using Python.
 ---
 

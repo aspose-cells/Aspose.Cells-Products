@@ -1,6 +1,6 @@
 ---
 title: Merge TSV to ODS Files via Python 
-url: /python-net/merger/merge-tsv-to-ods/ 
+
 description: Merge TSV to ODS file in Python code. Combine TSV to ODS file using Python.
 ---
 

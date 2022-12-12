@@ -1,6 +1,6 @@
-﻿---
+---
 title: Преобразование XLSM в XLAM через Python
-url: /ru/python-java/conversion/xlsm-to-xlam/
+
 description: Пример кода для преобразования xlsm в xlam Python. Используйте пример кода API для пакетного преобразования файлов xlsm в xlam в приложении Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

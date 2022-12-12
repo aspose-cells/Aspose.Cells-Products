@@ -1,6 +1,6 @@
-﻿---
+---
 title: C#を介してチャートに線を追加します 
-url: /ja/net/add-line-in-chart/ 
+
 description: C#.NETライブラリを使用してグラフに線を追加するためのサンプルコード。このコードを使用して、VB .NET、Asp .NET、または任意の.NETベースのアプリケーション内のMSExcelにグラフの線を追加します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

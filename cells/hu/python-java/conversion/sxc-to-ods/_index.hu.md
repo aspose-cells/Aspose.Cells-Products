@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SXC konvertálása ODS-vé a következőn keresztül: Python"
-url: /hu/python-java/conversion/sxc-to-ods/
+
 description: Mintakód az sxc-ből ods Python konverzióhoz. Használjon API példakódot az sxc fájlok kötegelt ods-sá konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

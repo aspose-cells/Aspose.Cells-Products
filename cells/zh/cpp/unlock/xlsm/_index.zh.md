@@ -1,7 +1,7 @@
-﻿---
+---
 title: 通过 C++ 解锁 XLSM 文档 
 weight: 6070
-url: /zh/cpp/unlock/xlsm/ 
+
 description: C++ 示例代码，用于在 Windows 32 位、Windows 64 位和 Linux 64 位的 C++ 运行时环境中解锁受密码保护的 XLSM 文件。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

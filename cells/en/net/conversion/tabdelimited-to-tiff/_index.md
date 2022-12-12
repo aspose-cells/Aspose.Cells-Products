@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to TIFF via C#
-url: /net/conversion/tabdelimited-to-tiff/
+
 description: Convert TABDELIMITED to TIFF format in C# code. Save TABDELIMITED as TIFF using VB.NET, Asp.NET or any .NET based application.
 ---
 

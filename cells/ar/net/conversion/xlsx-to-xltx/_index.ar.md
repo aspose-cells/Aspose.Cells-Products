@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل XLSX إلى XLTX عبر C#
-url: /ar/net/conversion/xlsx-to-xltx/
+
 description: نموذج كود لتحويل xlsx إلى xltx C#. استخدم API رمز المثال لملفات xlsx الدفعية لتحويل xltx داخل VB .NET أو Asp .NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

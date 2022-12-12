@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to TXT via Python
-url: /python-java/conversion/mhtml-to-txt/
+
 description: Convert MHTML to TXT format in Python code. Save MHTML as TXT using Python.
 ---
 

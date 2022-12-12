@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konversikan TXT ke SPREADSHEETML melalui C#
-url: /id/net/conversion/txt-to-spreadsheetml/
+
 description: Contoh kode untuk konversi txt ke spreadsheetml C#. Gunakan API kode contoh untuk file batch txt ke konversi spreadsheetml dalam VB.NET, Asp.NET atau aplikasi berbasis .NET apa pun.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

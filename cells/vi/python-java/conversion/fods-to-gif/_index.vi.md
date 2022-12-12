@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển FODS thành GIF qua Python
-url: /vi/python-java/conversion/fods-to-gif/
+
 description: Mã mẫu cho chuyển đổi fods sang gif Python. Sử dụng mã mẫu API cho các tệp fods hàng loạt thành chuyển đổi gif trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

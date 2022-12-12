@@ -1,7 +1,7 @@
-﻿---
+---
 title: Защитите и заблокируйте документ XLSM через C++ 
 weight: 8770
-url: /ru/cpp/protect/xlsm/ 
+
 description: Пример кода C++ для блокировки файла XLSM с помощью пароля в C++ среде выполнения для 32-разрядной, 64-разрядной версии Windows и 64-разрядной версии Linux.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,7 +1,7 @@
-﻿---
+---
 title: .NET経由でTXTファイル形式を表示 
 weight: 8300
-url: /ja/net/viewer/txt/ 
+
 description: .NETフレームワーク、.NETコア、Mono、またはXamarinプラットフォームでTXTドキュメントをロード、レンダリング、表示するためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

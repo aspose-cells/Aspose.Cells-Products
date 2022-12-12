@@ -1,7 +1,7 @@
-﻿---
+---
 title: Rozdělit soubory XLSX prostřednictvím Java 
 weight: 3250
-url: /cs/java/splitter/xlsx/ 
+
 description: Java ukázkový kód pro rozdělení dokumentů XLSX na Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést JSON na DIF přes Python
-url: /cs/python-java/conversion/json-to-dif/
+
 description: Ukázkový kód pro konverzi json na rozdíl Python. Použijte API ukázkový kód pro dávkové soubory json k převodu dif v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

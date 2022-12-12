@@ -1,6 +1,6 @@
-﻿---
+---
 title: Java aracılığıyla ODS'yi JPG'ye dönüştürün 
-url: /tr/java/conversion/ods-to-jpg/ 
+
 description: ODS biçimi için JPG dosyasına örnek Java dönüştürme kodu. Programcılar, Excel ve OpenOffice elektronik tablolarını herhangi bir Web veya Masaüstü Java tabanlı Uygulamada JPG'ye aktarmak için bu örnek kodu kullanabilir.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

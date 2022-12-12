@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してNUMBERSをSVGに変換します
-url: /ja/python-java/conversion/numbers-to-svg/
+
 description: 数値からsvgPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチ番号ファイルからsvgへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

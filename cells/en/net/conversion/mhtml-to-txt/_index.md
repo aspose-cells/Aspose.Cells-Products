@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to TXT via C#
-url: /net/conversion/mhtml-to-txt/
+
 description: Convert MHTML to TXT format in C# code. Save MHTML as TXT using VB.NET, Asp.NET or any .NET based application.
 ---
 

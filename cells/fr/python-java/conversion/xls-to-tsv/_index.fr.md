@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir XLS en TSV via Python
-url: /fr/python-java/conversion/xls-to-tsv/
+
 description: Exemple de code pour la conversion xls vers tsv Python. Utilisez l'exemple de code API pour la conversion de fichiers xls par lots en tsv dans l'application Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

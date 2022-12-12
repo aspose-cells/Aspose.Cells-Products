@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera TXT till FODS via Java 
-url: /sv/java/conversion/txt-to-fods/ 
+
 description: Exempel på Java-konverteringskod för TXT-format till FODS-fil. Programmerare kan använda den här exempelkoden för att exportera Excel- och OpenOffice-kalkylblad till FODS inom vilken webb- eller skrivbordsbaserad applikation som helst.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

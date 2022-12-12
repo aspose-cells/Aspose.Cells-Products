@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converteer FODS naar XLS via Python
-url: /nl/python-java/conversion/fods-to-xls/
+
 description: Voorbeeldcode voor conversie van fods naar xls Python. Gebruik API voorbeeldcode voor batch-fods-bestanden naar xls-conversie binnen de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

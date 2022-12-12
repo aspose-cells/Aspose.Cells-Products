@@ -1,7 +1,7 @@
-﻿---
+---
 title: Java을(를) 통해 XLSX 파일로 보고서 생성 
 weight: 7710
-url: /ko/java/assembly/xlsx/ 
+
 description: Java JSP/JSF 애플리케이션 및 데스크톱 애플리케이션을 위한 Java 런타임 환경에서 XLSX 형식 보고서를 만드는 샘플 코드.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

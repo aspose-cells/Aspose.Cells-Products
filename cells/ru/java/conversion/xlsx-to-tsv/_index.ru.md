@@ -1,7 +1,7 @@
-﻿---
+---
 title: Преобразование XLSX в TSV через Java 
 weight: 7980
-url: /ru/java/conversion/xlsx-to-tsv/ 
+
 description: Пример кода преобразования Java для формата XLSX в файл TSV. Программисты могут использовать этот пример кода для экспорта электронных таблиц Excel и OpenOffice в формат TSV в любом веб-или настольном Java приложении.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

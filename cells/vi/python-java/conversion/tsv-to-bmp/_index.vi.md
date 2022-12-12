@@ -1,6 +1,6 @@
-﻿---
+---
 title: Chuyển đổi TSV sang BMP qua Python
-url: /vi/python-java/conversion/tsv-to-bmp/
+
 description: Mã mẫu cho chuyển đổi tsv sang bmp Python. Sử dụng mã mẫu API cho các tệp tsv hàng loạt để chuyển đổi bmp trong ứng dụng Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

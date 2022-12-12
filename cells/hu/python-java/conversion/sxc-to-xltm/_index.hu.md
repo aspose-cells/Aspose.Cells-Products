@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SXC konvertálása XLTM-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/sxc-to-xltm/
+
 description: Mintakód az sxc–xltm Python konverzióhoz. Használjon API példakódot az sxc fájlok kötegelt xltm konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

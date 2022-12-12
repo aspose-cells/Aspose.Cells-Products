@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera SPREADSHEETML till MARKDOWN via C#
-url: /sv/net/conversion/spreadsheetml-to-markdown/
+
 description: Exempelkod för kalkylarkml för att markera C# konvertering. Använd API-exempelkod för batch-kalkylarkml-filer för att markdown-konvertera inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

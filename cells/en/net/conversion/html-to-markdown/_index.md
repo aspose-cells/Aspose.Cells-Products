@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to MARKDOWN via C#
-url: /net/conversion/html-to-markdown/
+
 description: Convert HTML to MARKDOWN format in C# code. Save HTML as MARKDOWN using VB.NET, Asp.NET or any .NET based application.
 ---
 

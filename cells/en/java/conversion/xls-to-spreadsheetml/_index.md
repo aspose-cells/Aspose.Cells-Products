@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to SPREADSHEETML via Java 
-url: /java/conversion/xls-to-spreadsheetml/
+
 description: Convert XLS to SPREADSHEETML format in Java code. Save XLS as SPREADSHEETML using Java.
 ---
 

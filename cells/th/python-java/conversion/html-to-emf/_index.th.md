@@ -1,6 +1,6 @@
-﻿---
+---
 title: แปลง HTML เป็น EMF ผ่าน Python
-url: /th/python-java/conversion/html-to-emf/
+
 description: โค้ดตัวอย่างสำหรับการแปลง html เป็น emf Python ใช้โค้ดตัวอย่าง API สำหรับไฟล์ html แบบแบตช์เพื่อแปลง emf ภายในแอปพลิเคชัน Python
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

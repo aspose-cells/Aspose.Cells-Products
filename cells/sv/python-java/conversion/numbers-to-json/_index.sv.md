@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera NUMBERS till JSON via Python
-url: /sv/python-java/conversion/numbers-to-json/
+
 description: Exempelkod för konvertering av nummer till json Python. Använd API exempelkod för batchnummerfiler till json-konvertering i Python-applikationen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

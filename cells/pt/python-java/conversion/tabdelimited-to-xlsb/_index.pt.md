@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter TABDELIMITED para XLSB via Python
-url: /pt/python-java/conversion/tabdelimited-to-xlsb/
+
 description: Código de amostra para conversão delimitada por tabulação para xlsb Python. Use API código de exemplo para arquivos delimitados por tabulação em lote para conversão xlsb no aplicativo Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

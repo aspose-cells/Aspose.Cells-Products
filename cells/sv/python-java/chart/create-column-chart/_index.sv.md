@@ -1,6 +1,6 @@
-﻿---
+---
 title: Skapa kolumndiagram via Python
-url: /sv/python-java/create-column-chart/
+
 description: Python Exempelkod för att skapa kolumndiagram till Excel med hjälp av Python Library. Använd den här koden för att skapa ett kolumndiagram till MS Excel i en Python-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

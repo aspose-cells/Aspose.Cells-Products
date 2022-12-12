@@ -1,7 +1,7 @@
-﻿---
+---
 title: Поиск и замена текста в документе XLS через Java 
 weight: 7900
-url: /ru/java/redaction/xls/ 
+
 description: Пример кода Java для редактирования конфиденциальной информации в файле XLS в Java среде выполнения для приложений JSP/JSF и настольных приложений.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

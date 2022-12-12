@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to WORD via C++
-url: /cpp/conversion/excel-to-word/
+
 description: Convert EXCEL to WORD format in C++ code. Save EXCEL as WORD using C++.
 ---
 

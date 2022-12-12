@@ -1,6 +1,6 @@
-﻿---
+---
 title: MHTML को Python के द्वारा JPG में बदलें
-url: /hi/python-java/conversion/mhtml-to-jpg/
+
 description: एमएचटीएमएल से जेपीजी Python रूपांतरण के लिए नमूना कोड। Python एप्लिकेशन के भीतर बैच एमएचटीएमएल फाइलों से जेपीजी रूपांतरण के लिए API उदाहरण कोड का उपयोग करें।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

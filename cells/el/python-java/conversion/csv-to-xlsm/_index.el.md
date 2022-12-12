@@ -1,6 +1,6 @@
-﻿---
+---
 title: Μετατροπή CSV σε XLSM μέσω Python
-url: /el/python-java/conversion/csv-to-xlsm/
+
 description: Δείγμα κώδικα για μετατροπή csv σε xlsm Python. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδική μετατροπή αρχείων csv σε xlsm εντός της εφαρμογής Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

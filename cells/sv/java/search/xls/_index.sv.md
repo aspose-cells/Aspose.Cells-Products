@@ -1,7 +1,7 @@
-﻿---
+---
 title: Sök i XLS-dokument utan att öppna via Java 
 weight: 9430
-url: /sv/java/search/xls/ 
+
 description: Java exempelkod för att söka efter ord med mönster i XLS-fil i Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

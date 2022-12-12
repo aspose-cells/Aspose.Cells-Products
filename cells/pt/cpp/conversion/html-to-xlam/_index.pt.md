@@ -1,6 +1,6 @@
-﻿---
+---
 title: Converter HTML para XLAM por meio do aplicativo C++ 
-url: /pt/cpp/conversion/html-to-xlam/ 
+
 description: Exemplo de código de conversão C++ de documento HTML para formato XLAM. Os programadores podem usar esse código-fonte para conversão de HTML em lote para XLAM em qualquer aplicativo C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

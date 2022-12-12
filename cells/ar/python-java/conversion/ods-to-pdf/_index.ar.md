@@ -1,6 +1,6 @@
-﻿---
+---
 title: تحويل ODS إلى PDF عبر Python
-url: /ar/python-java/conversion/ods-to-pdf/
+
 description: نموذج كود لتحويل ods إلى pdf Python. استخدم API رمز المثال لملفات ods الدفعية لتحويل pdf داخل تطبيق Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

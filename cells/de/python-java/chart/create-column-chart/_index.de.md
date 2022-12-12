@@ -1,6 +1,6 @@
-﻿---
+---
 title: Erstellen Sie Säulendiagramme über Python
-url: /de/python-java/create-column-chart/
+
 description: Python Beispielcode zum Erstellen von Säulendiagrammen in Excel mithilfe der Python-Bibliothek. Verwenden Sie diesen Code zum Erstellen eines Säulendiagramms in MS Excel innerhalb einer Python-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

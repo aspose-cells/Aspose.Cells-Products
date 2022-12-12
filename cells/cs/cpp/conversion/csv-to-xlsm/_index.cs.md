@@ -1,7 +1,7 @@
-﻿---
+---
 title: Převeďte CSV na XLSM pomocí aplikace C++ 
 weight: 6520
-url: /cs/cpp/conversion/csv-to-xlsm/ 
+
 description: Ukázkový konverzní kód C++ pro dokument CSV na formát XLSM. Programátoři mohou použít tento zdrojový kód pro dávkový převod CSV na XLSM v jakékoli aplikaci C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

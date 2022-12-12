@@ -1,7 +1,7 @@
-﻿---
+---
 title: Pesquisar documento XLSM sem abrir via Java 
 weight: 6780
-url: /pt/java/search/xlsm/ 
+
 description: Java código de amostra para pesquisar palavras com padrão no arquivo XLSM no Java ambiente de tempo de execução para aplicativos JSP/JSF e aplicativos de desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

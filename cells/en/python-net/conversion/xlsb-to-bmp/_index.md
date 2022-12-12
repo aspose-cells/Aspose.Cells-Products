@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to BMP via Python
-url: /python-net/conversion/xlsb-to-bmp/
+
 description: Sample code for xlsb to bmp Python conversion. Use API example code for batch xlsb files to bmp conversion within Python application.
 ---
 

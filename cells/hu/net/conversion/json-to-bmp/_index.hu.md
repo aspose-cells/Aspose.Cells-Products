@@ -1,6 +1,6 @@
-﻿---
+---
 title: "JSON konvertálása BMP-vé a következőn keresztül: C#"
-url: /hu/net/conversion/json-to-bmp/
+
 description: Mintakód a json–bmp C# konverzióhoz. Használjon API példakódot a kötegelt json fájlokhoz a bmp konverzióhoz VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

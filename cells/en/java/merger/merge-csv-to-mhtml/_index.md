@@ -1,6 +1,6 @@
 ---
 title: Merge CSV to MHTML Files via Java 
-url: /java/merger/merge-csv-to-mhtml/ 
+
 description: Merge CSV to MHTML file in Java code. Combine CSV to MHTML file using Java based desktop or web application.
 ---
 

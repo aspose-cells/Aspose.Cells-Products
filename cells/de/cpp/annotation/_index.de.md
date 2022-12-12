@@ -1,6 +1,6 @@
-﻿---
+---
 title: Anmerkungen zu Excel-Dateien über C++
-url: /de/cpp/annotation/
+
 description: Hinzufügen oder Entfernen von Datenanmerkungskommentaren von Excel- und OpenOffice-Tabellen mit der C++-Bibliothek.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}

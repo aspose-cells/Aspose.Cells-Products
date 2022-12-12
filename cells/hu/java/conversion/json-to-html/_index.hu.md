@@ -1,7 +1,7 @@
-﻿---
+---
 title: "JSON konvertálása HTML-vé a következőn keresztül: Java "
 weight: 9240
-url: /hu/java/conversion/json-to-html/ 
+
 description: Minta Java konverziós kód a JSON-formátumhoz HTML-fájllá. A programozók ezt a példakódot használhatják Excel és OpenOffice táblázatok exportálására HTML formátumba bármely web- vagy asztali Java alapú alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してFODSをXMLに変換します
-url: /ja/python-java/conversion/fods-to-xml/
+
 description: fodからxmlPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチfodファイルからxmlへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

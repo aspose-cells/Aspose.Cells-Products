@@ -1,6 +1,6 @@
-﻿---
+---
 title: "SPREADSHEETML konvertálása XPS-re a következőn keresztül: Python"
-url: /hu/python-java/conversion/spreadsheetml-to-xps/
+
 description: Mintakód a táblázatkezelőből az xps Python konverziójához. Használjon API példakódot a táblázatkezelő fájlok kötegelt xps konvertálásához a Python alkalmazáson belül.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

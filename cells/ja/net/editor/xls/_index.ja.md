@@ -1,6 +1,6 @@
-﻿---
+---
 title: .NETを介してXLSファイルを編集する 
-url: /ja/net/editor/xls/ 
+
 description: .NETフレームワーク、.NETコア、Windows Azure、Mono、またはXamarinプラットフォームでXLSドキュメントを編集するためのC#ソースコード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

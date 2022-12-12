@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir XLTX en MARKDOWN via Python
-url: /fr/python-java/conversion/xltx-to-markdown/
+
 description: Exemple de code pour la conversion de xltx en démarque Python. Utilisez l'exemple de code API pour les fichiers xltx par lots en conversion de démarquage dans l'application Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

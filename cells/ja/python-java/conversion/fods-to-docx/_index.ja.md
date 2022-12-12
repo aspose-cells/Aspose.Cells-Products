@@ -1,6 +1,6 @@
-﻿---
+---
 title: Pythonを介してFODSをDOCXに変換します
-url: /ja/python-java/conversion/fods-to-docx/
+
 description: fodsからdocxPythonへの変換のサンプルコード。 Pythonアプリケーション内でのバッチfodsファイルからdocxへの変換にはAPIサンプルコードを使用します。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

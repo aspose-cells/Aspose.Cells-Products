@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to DIF via C#
-url: /net/conversion/numbers-to-dif/
+
 description: Convert NUMBERS to DIF format in C# code. Save NUMBERS as DIF using VB.NET, Asp.NET or any .NET based application.
 ---
 

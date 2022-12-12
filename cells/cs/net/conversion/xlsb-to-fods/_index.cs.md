@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést XLSB na FODS přes C#
-url: /cs/net/conversion/xlsb-to-fods/
+
 description: Ukázkový kód pro konverzi xlsb na fods C#. Použijte API ukázkový kód pro dávkový převod souborů xlsb na fods v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

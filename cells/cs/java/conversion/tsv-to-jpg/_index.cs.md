@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést TSV na JPG prostřednictvím Java 
-url: /cs/java/conversion/tsv-to-jpg/ 
+
 description: Ukázka převodního kódu Java pro formát TSV na soubor JPG. Programátoři mohou tento příklad kódu použít k exportu tabulek Excelu a OpenOffice do formátu JPG v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

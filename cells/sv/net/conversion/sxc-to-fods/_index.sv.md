@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertera SXC till FODS via C#
-url: /sv/net/conversion/sxc-to-fods/
+
 description: Exempelkod för konvertering från sxc till fods C#. Använd API exempelkod för batch-sxc-filer för att ge konvertering inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

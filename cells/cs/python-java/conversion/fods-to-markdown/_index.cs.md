@@ -1,6 +1,6 @@
-﻿---
+---
 title: Převést FODS na MARKDOWN prostřednictvím Python
-url: /cs/python-java/conversion/fods-to-markdown/
+
 description: Ukázkový kód pro konverzi krmiv na markdown Python. Použijte API ukázkový kód pro dávkové soubory fods ke konverzi markdown v aplikaci Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,6 +1,6 @@
-﻿---
+---
 title: Convertir SXC en XLAM via C#
-url: /fr/net/conversion/sxc-to-xlam/
+
 description: Exemple de code pour la conversion sxc vers xlam C#. Utilisez l'exemple de code API pour les fichiers sxc par lots en conversion xlam dans VB.NET, Asp.NET ou toute application basée sur .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

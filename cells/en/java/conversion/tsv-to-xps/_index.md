@@ -1,6 +1,6 @@
 ---
 title: Convert TSV to XPS via Java 
-url: /java/conversion/tsv-to-xps/
+
 description: Convert TSV to XPS format in Java code. Save TSV as XPS using Java.
 ---
 

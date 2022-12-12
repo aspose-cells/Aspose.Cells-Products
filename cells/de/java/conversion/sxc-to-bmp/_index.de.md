@@ -1,6 +1,6 @@
-﻿---
+---
 title: Konvertieren Sie SXC über Java in BMP 
-url: /de/java/conversion/sxc-to-bmp/ 
+
 description: Beispiel-Umwandlungscode Java für das SXC-Format in eine BMP-Datei. Programmierer können diesen Beispielcode verwenden, um Excel- und OpenOffice-Tabellen in BMP innerhalb einer beliebigen Web- oder Desktop-Java-basierten Anwendung zu exportieren.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

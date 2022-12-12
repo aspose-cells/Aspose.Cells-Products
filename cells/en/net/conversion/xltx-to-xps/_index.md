@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to XPS via C#
-url: /net/conversion/xltx-to-xps/
+
 description: Convert XLTX to XPS format in C# code. Save XLTX as XPS using VB.NET, Asp.NET or any .NET based application.
 ---
 

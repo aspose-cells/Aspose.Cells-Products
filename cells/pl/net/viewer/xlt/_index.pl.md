@@ -1,7 +1,7 @@
-﻿---
+---
 title: Wyświetl formaty plików XLT za pomocą .NET 
 weight: 3610
-url: /pl/net/viewer/xlt/ 
+
 description: C# kod źródłowy do ładowania, renderowania i wyświetlania dokumentów XLT na platformach .NET Framework, .NET Core, Mono lub Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

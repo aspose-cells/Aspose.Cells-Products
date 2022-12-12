@@ -1,7 +1,7 @@
-﻿---
+---
 title: Javaを介してTSVをEMFに変換します 
 weight: 2530
-url: /ja/java/conversion/tsv-to-emf/ 
+
 description: TSV形式からEMFファイルへのサンプルJava変換コード。プログラマーは、このサンプルコードを使用して、ExcelおよびOpenOfficeスプレッドシートを任意のWebまたはデスクトップJavaベースのアプリケーション内のEMFにエクスポートできます。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

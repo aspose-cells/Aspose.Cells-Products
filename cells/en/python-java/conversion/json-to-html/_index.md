@@ -1,6 +1,5 @@
 ---
 title: Convert JSON to HTML via Python
-
 description: Convert JSON to HTML format in Python code. Save JSON as HTML using Python.
 ---
 

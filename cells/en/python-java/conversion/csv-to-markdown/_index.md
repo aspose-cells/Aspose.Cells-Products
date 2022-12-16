@@ -1,6 +1,5 @@
 ---
 title: Convert CSV to MARKDOWN via Python
-
 description: Convert CSV to MARKDOWN format in Python code. Save CSV as MARKDOWN using Python.
 ---
 

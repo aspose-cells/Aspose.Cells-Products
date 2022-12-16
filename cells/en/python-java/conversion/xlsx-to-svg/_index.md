@@ -1,6 +1,5 @@
 ---
 title: Convert XLSX to SVG via Python
-
 description: Convert XLSX to SVG format in Python code. Save XLSX as SVG using Python.
 ---
 

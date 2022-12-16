@@ -1,6 +1,5 @@
 ---
 title: Convert XLTX to PNG via Python
-
 description: Convert XLTX to PNG format in Python code. Save XLTX as PNG using Python.
 ---
 

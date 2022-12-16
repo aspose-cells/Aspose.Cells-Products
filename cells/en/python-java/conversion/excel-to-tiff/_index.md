@@ -1,6 +1,5 @@
 ---
 title: Convert EXCEL to TIFF via Python
-
 description: Convert EXCEL to TIFF format in Python code. Save EXCEL as TIFF using Python.
 ---
 

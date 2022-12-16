@@ -1,6 +1,5 @@
 ---
 title: Convert XLSM to FODS via Python
-
 description: Convert XLSM to FODS format in Python code. Save XLSM as FODS using Python.
 ---
 

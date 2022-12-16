@@ -1,6 +1,5 @@
 ---
 title: Convert NUMBERS to XLSX via Python
-
 description: Convert NUMBERS to XLSX format in Python code. Save NUMBERS as XLSX using Python.
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Convert XLS to XLT via Python
-
 description: Convert XLS to XLT format in Python code. Save XLS as XLT using Python.
 ---
 

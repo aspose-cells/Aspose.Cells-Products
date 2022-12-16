@@ -1,6 +1,5 @@
 ---
 title: Convert NUMBERS to FODS via Python
-
 description: Convert NUMBERS to FODS format in Python code. Save NUMBERS as FODS using Python.
 ---
 

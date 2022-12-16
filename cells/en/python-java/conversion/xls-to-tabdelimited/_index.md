@@ -1,6 +1,5 @@
 ---
 title: Convert XLS to TABDELIMITED via Python
-
 description: Convert XLS to TABDELIMITED format in Python code. Save XLS as TABDELIMITED using Python.
 ---
 

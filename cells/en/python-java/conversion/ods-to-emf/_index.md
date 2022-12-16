@@ -1,6 +1,5 @@
 ---
 title: Convert ODS to EMF via Python
-
 description: Convert ODS to EMF format in Python code. Save ODS as EMF using Python.
 ---
 

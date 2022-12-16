@@ -1,6 +1,5 @@
 ---
 title: Convert XLSB to TABDELIMITED via Python
-
 description: Convert XLSB to TABDELIMITED format in Python code. Save XLSB as TABDELIMITED using Python.
 ---
 

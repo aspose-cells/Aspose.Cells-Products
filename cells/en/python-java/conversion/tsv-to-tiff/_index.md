@@ -1,6 +1,5 @@
 ---
 title: Convert TSV to TIFF via Python
-
 description: Convert TSV to TIFF format in Python code. Save TSV as TIFF using Python.
 ---
 

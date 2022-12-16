@@ -1,6 +1,5 @@
 ---
 title: Convert SPREADSHEETML to HTML via Python
-
 description: Convert SPREADSHEETML to HTML format in Python code. Save SPREADSHEETML as HTML using Python.
 ---
 

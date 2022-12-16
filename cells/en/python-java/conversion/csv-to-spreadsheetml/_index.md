@@ -1,6 +1,5 @@
 ---
 title: Convert CSV to SPREADSHEETML via Python
-
 description: Convert CSV to SPREADSHEETML format in Python code. Save CSV as SPREADSHEETML using Python.
 ---
 

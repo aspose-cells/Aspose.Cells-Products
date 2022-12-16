@@ -1,6 +1,5 @@
 ---
 title: Convert TXT to ODS via Python
-
 description: Convert TXT to ODS format in Python code. Save TXT as ODS using Python.
 ---
 

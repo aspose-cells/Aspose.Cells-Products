@@ -1,6 +1,5 @@
 ---
 title: Convert XLS to PNG via Python
-
 description: Convert XLS to PNG format in Python code. Save XLS as PNG using Python.
 ---
 

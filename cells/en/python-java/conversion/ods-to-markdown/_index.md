@@ -1,6 +1,5 @@
 ---
 title: Convert ODS to MARKDOWN via Python
-
 description: Convert ODS to MARKDOWN format in Python code. Save ODS as MARKDOWN using Python.
 ---
 

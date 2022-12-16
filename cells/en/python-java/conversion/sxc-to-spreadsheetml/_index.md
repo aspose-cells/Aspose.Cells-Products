@@ -1,6 +1,5 @@
 ---
 title: Convert SXC to SPREADSHEETML via Python
-
 description: Convert SXC to SPREADSHEETML format in Python code. Save SXC as SPREADSHEETML using Python.
 ---
 

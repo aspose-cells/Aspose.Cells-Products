@@ -1,6 +1,5 @@
 ---
 title: Convert TXT to MD via Python
-
 description: Convert TXT to MD format in Python code. Save TXT as MD using Python.
 ---
 

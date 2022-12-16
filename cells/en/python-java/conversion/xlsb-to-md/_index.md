@@ -1,6 +1,5 @@
 ---
 title: Convert XLSB to MD via Python
-
 description: Convert XLSB to MD format in Python code. Save XLSB as MD using Python.
 ---
 

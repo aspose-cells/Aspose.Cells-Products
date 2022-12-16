@@ -1,6 +1,5 @@
 ---
 title: Convert ODS to TXT via Python
-
 description: Convert ODS to TXT format in Python code. Save ODS as TXT using Python.
 ---
 

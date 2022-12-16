@@ -1,6 +1,5 @@
 ---
 title: Convert JSON to TSV via Python
-
 description: Convert JSON to TSV format in Python code. Save JSON as TSV using Python.
 ---
 

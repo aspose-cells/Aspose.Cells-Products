@@ -1,6 +1,5 @@
 ---
 title: Convert TXT to PNG via Python
-
 description: Convert TXT to PNG format in Python code. Save TXT as PNG using Python.
 ---
 

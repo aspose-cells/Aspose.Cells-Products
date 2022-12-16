@@ -1,6 +1,5 @@
 ---
 title: Convert XLTX to MARKDOWN via Python
-
 description: Convert XLTX to MARKDOWN format in Python code. Save XLTX as MARKDOWN using Python.
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Convert TXT to MARKDOWN via Python
-
 description: Convert TXT to MARKDOWN format in Python code. Save TXT as MARKDOWN using Python.
 ---
 

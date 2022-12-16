@@ -1,6 +1,5 @@
 ---
 title: Convert MHTML to XML via Python
-
 description: Convert MHTML to XML format in Python code. Save MHTML as XML using Python.
 ---
 

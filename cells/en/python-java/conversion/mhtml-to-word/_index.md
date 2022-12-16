@@ -1,6 +1,5 @@
 ---
 title: Convert MHTML to WORD via Python
-
 description: Convert MHTML to WORD format in Python code. Save MHTML as WORD using Python.
 ---
 

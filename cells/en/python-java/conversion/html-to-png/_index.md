@@ -1,6 +1,5 @@
 ---
 title: Convert HTML to PNG via Python
-
 description: Convert HTML to PNG format in Python code. Save HTML as PNG using Python.
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Convert JPG to DOCX via Python
-
 description: Convert JPG to DOCX format in Python code. Save JPG as DOCX using Python.
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Convert XLTX to HTML via Python
-
 description: Convert XLTX to HTML format in Python code. Save XLTX as HTML using Python.
 ---
 

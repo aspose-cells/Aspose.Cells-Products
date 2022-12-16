@@ -1,6 +1,5 @@
 ---
 title: Convert CSV to PNG via Python
-
 description: Convert CSV to PNG format in Python code. Save CSV as PNG using Python.
 ---
 

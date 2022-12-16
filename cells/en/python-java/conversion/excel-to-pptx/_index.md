@@ -1,6 +1,5 @@
 ---
 title: Convert EXCEL to PPTX via Python
-
 description: Convert EXCEL to PPTX format in Python code. Save EXCEL as PPTX using Python.
 ---
 

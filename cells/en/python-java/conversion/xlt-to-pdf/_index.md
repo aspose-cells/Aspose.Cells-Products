@@ -1,6 +1,5 @@
 ---
 title: Convert XLT to PDF via Python
-
 description: Convert XLT to PDF format in Python code. Save XLT as PDF using Python.
 ---
 

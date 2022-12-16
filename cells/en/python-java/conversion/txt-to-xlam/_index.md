@@ -1,6 +1,5 @@
 ---
 title: Convert TXT to XLAM via Python
-
 description: Convert TXT to XLAM format in Python code. Save TXT as XLAM using Python.
 ---
 

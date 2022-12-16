@@ -1,6 +1,5 @@
 ---
 title: Convert HTML to DOCX via Python
-
 description: Convert HTML to DOCX format in Python code. Save HTML as DOCX using Python.
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Convert MHTML to SXC via Python
-
 description: Convert MHTML to SXC format in Python code. Save MHTML as SXC using Python.
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Convert MHTML to CSV via Python
-
 description: Convert MHTML to CSV format in Python code. Save MHTML as CSV using Python.
 ---
 

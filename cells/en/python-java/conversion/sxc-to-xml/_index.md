@@ -1,6 +1,5 @@
 ---
 title: Convert SXC to XML via Python
-
 description: Convert SXC to XML format in Python code. Save SXC as XML using Python.
 ---
 

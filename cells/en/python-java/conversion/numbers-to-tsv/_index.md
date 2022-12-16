@@ -1,6 +1,5 @@
 ---
 title: Convert NUMBERS to TSV via Python
-
 description: Convert NUMBERS to TSV format in Python code. Save NUMBERS as TSV using Python.
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Convert HTML to FODS via Python
-
 description: Convert HTML to FODS format in Python code. Save HTML as FODS using Python.
 ---
 

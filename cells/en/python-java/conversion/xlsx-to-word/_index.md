@@ -1,6 +1,5 @@
 ---
 title: Convert XLSX to WORD via Python
-
 description: Convert XLSX to WORD format in Python code. Save XLSX as WORD using Python.
 ---
 

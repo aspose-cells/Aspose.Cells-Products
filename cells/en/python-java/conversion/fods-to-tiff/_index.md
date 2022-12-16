@@ -1,6 +1,5 @@
 ---
 title: Convert FODS to TIFF via Python
-
 description: Convert FODS to TIFF format in Python code. Save FODS as TIFF using Python.
 ---
 

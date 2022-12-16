@@ -1,6 +1,5 @@
 ---
 title: Convert SXC to ODS via Python
-
 description: Convert SXC to ODS format in Python code. Save SXC as ODS using Python.
 ---
 

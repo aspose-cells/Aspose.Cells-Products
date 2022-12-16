@@ -1,6 +1,5 @@
 ---
 title: Convert EXCEL to XLSM via Python
-
 description: Convert EXCEL to XLSM format in Python code. Save EXCEL as XLSM using Python.
 ---
 

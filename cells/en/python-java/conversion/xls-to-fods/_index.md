@@ -1,6 +1,5 @@
 ---
 title: Convert XLS to FODS via Python
-
 description: Convert XLS to FODS format in Python code. Save XLS as FODS using Python.
 ---
 

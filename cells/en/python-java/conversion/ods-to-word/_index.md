@@ -1,6 +1,5 @@
 ---
 title: Convert ODS to WORD via Python
-
 description: Convert ODS to WORD format in Python code. Save ODS as WORD using Python.
 ---
 

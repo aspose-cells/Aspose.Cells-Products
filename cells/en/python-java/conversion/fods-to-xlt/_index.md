@@ -1,6 +1,5 @@
 ---
 title: Convert FODS to XLT via Python
-
 description: Convert FODS to XLT format in Python code. Save FODS as XLT using Python.
 ---
 

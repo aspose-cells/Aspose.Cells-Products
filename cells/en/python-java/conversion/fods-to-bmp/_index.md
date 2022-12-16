@@ -1,6 +1,5 @@
 ---
 title: Convert FODS to BMP via Python
-
 description: Convert FODS to BMP format in Python code. Save FODS as BMP using Python.
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Convert XLT to CSV via Python
-
 description: Convert XLT to CSV format in Python code. Save XLT as CSV using Python.
 ---
 

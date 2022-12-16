@@ -1,6 +1,5 @@
 ---
 title: Convert XLTM to GIF via Python
-
 description: Convert XLTM to GIF format in Python code. Save XLTM as GIF using Python.
 ---
 

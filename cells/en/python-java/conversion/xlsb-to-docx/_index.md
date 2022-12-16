@@ -1,6 +1,5 @@
 ---
 title: Convert XLSB to DOCX via Python
-
 description: Convert XLSB to DOCX format in Python code. Save XLSB as DOCX using Python.
 ---
 

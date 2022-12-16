@@ -1,6 +1,5 @@
 ---
 title: Convert XLT to DIF via Python
-
 description: Convert XLT to DIF format in Python code. Save XLT as DIF using Python.
 ---
 

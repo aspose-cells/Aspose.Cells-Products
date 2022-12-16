@@ -1,6 +1,5 @@
 ---
 title: Convert SXC to EMF via Python
-
 description: Convert SXC to EMF format in Python code. Save SXC as EMF using Python.
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Convert TXT to DOCX via Python
-
 description: Convert TXT to DOCX format in Python code. Save TXT as DOCX using Python.
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Convert TSV to WORD via Python
-
 description: Convert TSV to WORD format in Python code. Save TSV as WORD using Python.
 ---
 

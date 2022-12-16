@@ -1,6 +1,5 @@
 ---
 title: Convert TSV to SPREADSHEETML via Python
-
 description: Convert TSV to SPREADSHEETML format in Python code. Save TSV as SPREADSHEETML using Python.
 ---
 

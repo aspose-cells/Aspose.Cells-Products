@@ -1,6 +1,5 @@
 ---
 title: Convert ODS to XPS via Python
-
 description: Convert ODS to XPS format in Python code. Save ODS as XPS using Python.
 ---
 

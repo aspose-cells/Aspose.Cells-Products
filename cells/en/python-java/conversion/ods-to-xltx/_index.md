@@ -1,6 +1,5 @@
 ---
 title: Convert ODS to XLTX via Python
-
 description: Convert ODS to XLTX format in Python code. Save ODS as XLTX using Python.
 ---
 

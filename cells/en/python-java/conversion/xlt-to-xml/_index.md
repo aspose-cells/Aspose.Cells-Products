@@ -1,6 +1,5 @@
 ---
 title: Convert XLT to XML via Python
-
 description: Convert XLT to XML format in Python code. Save XLT as XML using Python.
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Convert SPREADSHEETML to EMF via Python
-
 description: Convert SPREADSHEETML to EMF format in Python code. Save SPREADSHEETML as EMF using Python.
 ---
 

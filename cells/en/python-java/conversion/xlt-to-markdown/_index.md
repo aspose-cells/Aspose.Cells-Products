@@ -1,6 +1,5 @@
 ---
 title: Convert XLT to MARKDOWN via Python
-
 description: Convert XLT to MARKDOWN format in Python code. Save XLT as MARKDOWN using Python.
 ---
 

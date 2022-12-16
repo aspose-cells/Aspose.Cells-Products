@@ -1,6 +1,5 @@
 ---
 title: Convert HTML to CSV via Python
-
 description: Convert HTML to CSV format in Python code. Save HTML as CSV using Python.
 ---
 

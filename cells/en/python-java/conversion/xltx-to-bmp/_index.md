@@ -1,6 +1,5 @@
 ---
 title: Convert XLTX to BMP via Python
-
 description: Convert XLTX to BMP format in Python code. Save XLTX as BMP using Python.
 ---
 

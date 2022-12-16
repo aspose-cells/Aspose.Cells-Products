@@ -1,6 +1,5 @@
 ---
 title: Convert XLS to DOCX via Python
-
 description: Convert XLS to DOCX format in Python code. Save XLS as DOCX using Python.
 ---
 

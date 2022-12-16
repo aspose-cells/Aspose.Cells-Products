@@ -1,6 +1,5 @@
 ---
 title: Convert SPREADSHEETML to SVG via Python
-
 description: Convert SPREADSHEETML to SVG format in Python code. Save SPREADSHEETML as SVG using Python.
 ---
 

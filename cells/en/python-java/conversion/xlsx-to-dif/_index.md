@@ -1,6 +1,5 @@
 ---
 title: Convert XLSX to DIF via Python
-
 description: Convert XLSX to DIF format in Python code. Save XLSX as DIF using Python.
 ---
 

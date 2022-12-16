@@ -1,6 +1,5 @@
 ---
 title: Convert XLSX to JPEG via Python
-
 description: Convert XLSX to JPEG format in Python code. Save XLSX as JPEG using Python.
 ---
 

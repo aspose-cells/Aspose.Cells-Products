@@ -1,6 +1,5 @@
 ---
 title: Convert MHTML to EMF via Python
-
 description: Convert MHTML to EMF format in Python code. Save MHTML as EMF using Python.
 ---
 

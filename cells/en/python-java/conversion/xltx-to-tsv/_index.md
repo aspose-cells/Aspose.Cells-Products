@@ -1,6 +1,5 @@
 ---
 title: Convert XLTX to TSV via Python
-
 description: Convert XLTX to TSV format in Python code. Save XLTX as TSV using Python.
 ---
 

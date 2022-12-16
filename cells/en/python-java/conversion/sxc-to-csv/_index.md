@@ -1,6 +1,5 @@
 ---
 title: Convert SXC to CSV via Python
-
 description: Convert SXC to CSV format in Python code. Save SXC as CSV using Python.
 ---
 

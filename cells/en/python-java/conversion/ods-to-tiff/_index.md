@@ -1,6 +1,5 @@
 ---
 title: Convert ODS to TIFF via Python
-
 description: Convert ODS to TIFF format in Python code. Save ODS as TIFF using Python.
 ---
 

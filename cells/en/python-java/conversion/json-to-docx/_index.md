@@ -1,6 +1,5 @@
 ---
 title: Convert JSON to DOCX via Python
-
 description: Convert JSON to DOCX format in Python code. Save JSON as DOCX using Python.
 ---
 

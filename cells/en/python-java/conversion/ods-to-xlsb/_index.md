@@ -1,6 +1,5 @@
 ---
 title: Convert ODS to XLSB via Python
-
 description: Convert ODS to XLSB format in Python code. Save ODS as XLSB using Python.
 ---
 

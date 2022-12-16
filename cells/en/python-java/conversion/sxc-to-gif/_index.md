@@ -1,6 +1,5 @@
 ---
 title: Convert SXC to GIF via Python
-
 description: Convert SXC to GIF format in Python code. Save SXC as GIF using Python.
 ---
 

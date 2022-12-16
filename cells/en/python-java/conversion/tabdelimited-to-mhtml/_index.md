@@ -1,6 +1,5 @@
 ---
 title: Convert TABDELIMITED to MHTML via Python
-
 description: Convert TABDELIMITED to MHTML format in Python code. Save TABDELIMITED as MHTML using Python.
 ---
 

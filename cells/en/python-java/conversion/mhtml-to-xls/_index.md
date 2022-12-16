@@ -1,6 +1,5 @@
 ---
 title: Convert MHTML to XLS via Python
-
 description: Convert MHTML to XLS format in Python code. Save MHTML as XLS using Python.
 ---
 

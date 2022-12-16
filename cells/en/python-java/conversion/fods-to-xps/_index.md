@@ -1,6 +1,5 @@
 ---
 title: Convert FODS to XPS via Python
-
 description: Convert FODS to XPS format in Python code. Save FODS as XPS using Python.
 ---
 

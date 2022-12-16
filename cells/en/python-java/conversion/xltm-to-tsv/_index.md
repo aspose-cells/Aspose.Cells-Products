@@ -1,6 +1,5 @@
 ---
 title: Convert XLTM to TSV via Python
-
 description: Convert XLTM to TSV format in Python code. Save XLTM as TSV using Python.
 ---
 

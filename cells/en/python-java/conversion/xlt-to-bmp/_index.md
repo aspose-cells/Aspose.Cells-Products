@@ -1,6 +1,5 @@
 ---
 title: Convert XLT to BMP via Python
-
 description: Convert XLT to BMP format in Python code. Save XLT as BMP using Python.
 ---
 

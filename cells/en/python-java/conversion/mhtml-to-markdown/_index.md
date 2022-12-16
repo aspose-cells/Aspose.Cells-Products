@@ -1,6 +1,5 @@
 ---
 title: Convert MHTML to MARKDOWN via Python
-
 description: Convert MHTML to MARKDOWN format in Python code. Save MHTML as MARKDOWN using Python.
 ---
 

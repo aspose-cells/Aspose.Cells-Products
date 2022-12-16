@@ -1,6 +1,5 @@
 ---
 title: Convert MHTML to XLAM via Python
-
 description: Convert MHTML to XLAM format in Python code. Save MHTML as XLAM using Python.
 ---
 

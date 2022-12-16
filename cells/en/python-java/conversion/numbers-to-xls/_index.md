@@ -1,6 +1,5 @@
 ---
 title: Convert NUMBERS to XLS via Python
-
 description: Convert NUMBERS to XLS format in Python code. Save NUMBERS as XLS using Python.
 ---
 

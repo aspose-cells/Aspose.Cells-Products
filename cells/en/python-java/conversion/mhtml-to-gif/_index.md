@@ -1,6 +1,5 @@
 ---
 title: Convert MHTML to GIF via Python
-
 description: Convert MHTML to GIF format in Python code. Save MHTML as GIF using Python.
 ---
 

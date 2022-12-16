@@ -1,6 +1,5 @@
 ---
 title: Convert EXCEL to MD via Python
-
 description: Convert EXCEL to MD format in Python code. Save EXCEL as MD using Python.
 ---
 

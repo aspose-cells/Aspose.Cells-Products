@@ -1,6 +1,5 @@
 ---
 title: Convert CSV to XLSX via Python
-
 description: Convert CSV to XLSX format in Python code. Save CSV as XLSX using Python.
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Convert HTML to TABDELIMITED via Python
-
 description: Convert HTML to TABDELIMITED format in Python code. Save HTML as TABDELIMITED using Python.
 ---
 

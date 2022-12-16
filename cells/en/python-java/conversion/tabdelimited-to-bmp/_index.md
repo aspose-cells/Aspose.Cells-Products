@@ -1,6 +1,5 @@
 ---
 title: Convert TABDELIMITED to BMP via Python
-
 description: Convert TABDELIMITED to BMP format in Python code. Save TABDELIMITED as BMP using Python.
 ---
 

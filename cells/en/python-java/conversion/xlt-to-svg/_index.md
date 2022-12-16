@@ -1,6 +1,5 @@
 ---
 title: Convert XLT to SVG via Python
-
 description: Convert XLT to SVG format in Python code. Save XLT as SVG using Python.
 ---
 

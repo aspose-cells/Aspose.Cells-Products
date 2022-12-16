@@ -1,6 +1,5 @@
 ---
 title: Convert XLTM to TXT via Python
-
 description: Convert XLTM to TXT format in Python code. Save XLTM as TXT using Python.
 ---
 

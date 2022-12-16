@@ -1,6 +1,5 @@
 ---
 title: Convert CSV to XLT via Python
-
 description: Convert CSV to XLT format in Python code. Save CSV as XLT using Python.
 ---
 

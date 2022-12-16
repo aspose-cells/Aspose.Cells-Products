@@ -1,6 +1,5 @@
 ---
 title: Convert TABDELIMITED to PDF via Python
-
 description: Convert TABDELIMITED to PDF format in Python code. Save TABDELIMITED as PDF using Python.
 ---
 

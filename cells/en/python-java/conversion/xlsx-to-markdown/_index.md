@@ -1,6 +1,5 @@
 ---
 title: Convert XLSX to MARKDOWN via Python
-
 description: Convert XLSX to MARKDOWN format in Python code. Save XLSX as MARKDOWN using Python.
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Convert HTML to MARKDOWN via Python
-
 description: Convert HTML to MARKDOWN format in Python code. Save HTML as MARKDOWN using Python.
 ---
 

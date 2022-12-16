@@ -1,6 +1,5 @@
 ---
 title: Convert TABDELIMITED to TIFF via Python
-
 description: Convert TABDELIMITED to TIFF format in Python code. Save TABDELIMITED as TIFF using Python.
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Convert XLSM to BMP via Python
-
 description: Convert XLSM to BMP format in Python code. Save XLSM as BMP using Python.
 ---
 

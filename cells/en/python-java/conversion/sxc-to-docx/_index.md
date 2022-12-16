@@ -1,6 +1,5 @@
 ---
 title: Convert SXC to DOCX via Python
-
 description: Convert SXC to DOCX format in Python code. Save SXC as DOCX using Python.
 ---
 

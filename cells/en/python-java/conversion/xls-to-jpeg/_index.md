@@ -1,6 +1,5 @@
 ---
 title: Convert XLS to JPEG via Python
-
 description: Convert XLS to JPEG format in Python code. Save XLS as JPEG using Python.
 ---
 

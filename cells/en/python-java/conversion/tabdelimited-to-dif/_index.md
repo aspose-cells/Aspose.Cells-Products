@@ -1,6 +1,5 @@
 ---
 title: Convert TABDELIMITED to DIF via Python
-
 description: Convert TABDELIMITED to DIF format in Python code. Save TABDELIMITED as DIF using Python.
 ---
 

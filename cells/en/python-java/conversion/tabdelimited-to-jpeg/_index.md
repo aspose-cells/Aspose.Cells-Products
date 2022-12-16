@@ -1,6 +1,5 @@
 ---
 title: Convert TABDELIMITED to JPEG via Python
-
 description: Convert TABDELIMITED to JPEG format in Python code. Save TABDELIMITED as JPEG using Python.
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Convert TXT to TABDELIMITED via Python
-
 description: Convert TXT to TABDELIMITED format in Python code. Save TXT as TABDELIMITED using Python.
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Convert SXC to MARKDOWN via Python
-
 description: Convert SXC to MARKDOWN format in Python code. Save SXC as MARKDOWN using Python.
 ---
 

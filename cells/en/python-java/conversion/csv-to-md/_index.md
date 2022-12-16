@@ -1,6 +1,5 @@
 ---
 title: Convert CSV to MD via Python
-
 description: Convert CSV to MD format in Python code. Save CSV as MD using Python.
 ---
 

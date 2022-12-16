@@ -1,6 +1,5 @@
 ---
 title: Convert XLTM to DIF via Python
-
 description: Convert XLTM to DIF format in Python code. Save XLTM as DIF using Python.
 ---
 

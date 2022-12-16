@@ -1,6 +1,5 @@
 ---
 title: Convert TSV to MHTML via Python
-
 description: Convert TSV to MHTML format in Python code. Save TSV as MHTML using Python.
 ---
 

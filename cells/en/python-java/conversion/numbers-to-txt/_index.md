@@ -1,6 +1,5 @@
 ---
 title: Convert NUMBERS to TXT via Python
-
 description: Convert NUMBERS to TXT format in Python code. Save NUMBERS as TXT using Python.
 ---
 

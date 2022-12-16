@@ -1,6 +1,5 @@
 ---
 title: Convert TXT to SPREADSHEETML via Python
-
 description: Convert TXT to SPREADSHEETML format in Python code. Save TXT as SPREADSHEETML using Python.
 ---
 

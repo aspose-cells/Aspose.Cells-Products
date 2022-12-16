@@ -1,6 +1,5 @@
 ---
 title: Convert SXC to XLSM via Python
-
 description: Convert SXC to XLSM format in Python code. Save SXC as XLSM using Python.
 ---
 

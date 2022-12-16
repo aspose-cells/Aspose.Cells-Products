@@ -1,6 +1,5 @@
 ---
 title: Convert XLS to CSV via Python
-
 description: Convert XLS to CSV format in Python code. Save XLS as CSV using Python.
 ---
 

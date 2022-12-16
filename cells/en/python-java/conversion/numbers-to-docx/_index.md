@@ -1,6 +1,5 @@
 ---
 title: Convert NUMBERS to DOCX via Python
-
 description: Convert NUMBERS to DOCX format in Python code. Save NUMBERS as DOCX using Python.
 ---
 

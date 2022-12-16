@@ -1,6 +1,5 @@
 ---
 title: Convert SXC to XLSB via Python
-
 description: Convert SXC to XLSB format in Python code. Save SXC as XLSB using Python.
 ---
 

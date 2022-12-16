@@ -1,6 +1,5 @@
 ---
 title: Convert XLS to MD via Python
-
 description: Convert XLS to MD format in Python code. Save XLS as MD using Python.
 ---
 

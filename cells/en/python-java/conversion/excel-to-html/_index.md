@@ -1,6 +1,5 @@
 ---
 title: Convert EXCEL to HTML via Python
-
 description: Convert EXCEL to HTML format in Python code. Save EXCEL as HTML using Python.
 ---
 

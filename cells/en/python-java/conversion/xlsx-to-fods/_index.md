@@ -1,6 +1,5 @@
 ---
 title: Convert XLSX to FODS via Python
-
 description: Convert XLSX to FODS format in Python code. Save XLSX as FODS using Python.
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Convert XLTX to XLT via Python
-
 description: Convert XLTX to XLT format in Python code. Save XLTX as XLT using Python.
 ---
 

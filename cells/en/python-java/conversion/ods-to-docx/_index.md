@@ -1,6 +1,5 @@
 ---
 title: Convert ODS to DOCX via Python
-
 description: Convert ODS to DOCX format in Python code. Save ODS as DOCX using Python.
 ---
 

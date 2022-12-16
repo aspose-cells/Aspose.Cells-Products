@@ -1,6 +1,5 @@
 ---
 title: Convert TXT to XML via Python
-
 description: Convert TXT to XML format in Python code. Save TXT as XML using Python.
 ---
 

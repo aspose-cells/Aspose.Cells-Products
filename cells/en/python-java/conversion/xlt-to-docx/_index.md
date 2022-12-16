@@ -1,6 +1,5 @@
 ---
 title: Convert XLT to DOCX via Python
-
 description: Convert XLT to DOCX format in Python code. Save XLT as DOCX using Python.
 ---
 

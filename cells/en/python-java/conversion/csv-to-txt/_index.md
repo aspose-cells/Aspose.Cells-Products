@@ -1,6 +1,5 @@
 ---
 title: Convert CSV to TXT via Python
-
 description: Convert CSV to TXT format in Python code. Save CSV as TXT using Python.
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Convert XLSB to XLAM via Python
-
 description: Convert XLSB to XLAM format in Python code. Save XLSB as XLAM using Python.
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Convert CSV to EMF via Python
-
 description: Convert CSV to EMF format in Python code. Save CSV as EMF using Python.
 ---
 

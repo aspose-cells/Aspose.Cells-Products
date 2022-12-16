@@ -1,6 +1,5 @@
 ---
 title: Convert TXT to HTML via Python
-
 description: Convert TXT to HTML format in Python code. Save TXT as HTML using Python.
 ---
 

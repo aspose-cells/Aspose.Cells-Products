@@ -1,6 +1,5 @@
 ---
 title: Convert FODS to PDF via Python
-
 description: Convert FODS to PDF format in Python code. Save FODS as PDF using Python.
 ---
 

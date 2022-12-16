@@ -1,6 +1,5 @@
 ---
 title: Convert XLSM to TSV via Python
-
 description: Convert XLSM to TSV format in Python code. Save XLSM as TSV using Python.
 ---
 

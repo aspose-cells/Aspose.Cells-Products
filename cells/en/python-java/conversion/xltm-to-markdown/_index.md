@@ -1,6 +1,5 @@
 ---
 title: Convert XLTM to MARKDOWN via Python
-
 description: Convert XLTM to MARKDOWN format in Python code. Save XLTM as MARKDOWN using Python.
 ---
 

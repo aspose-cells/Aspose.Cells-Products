@@ -1,6 +1,5 @@
 ---
 title: Convert XLT to TIFF via Python
-
 description: Convert XLT to TIFF format in Python code. Save XLT as TIFF using Python.
 ---
 

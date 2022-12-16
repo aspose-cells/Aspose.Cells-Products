@@ -1,6 +1,5 @@
 ---
 title: Convert HTML to XPS via Python
-
 description: Convert HTML to XPS format in Python code. Save HTML as XPS using Python.
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Convert FODS to JPEG via Python
-
 description: Convert FODS to JPEG format in Python code. Save FODS as JPEG using Python.
 ---
 

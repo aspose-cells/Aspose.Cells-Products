@@ -1,6 +1,5 @@
 ---
 title: Convert NUMBERS to GIF via Python
-
 description: Convert NUMBERS to GIF format in Python code. Save NUMBERS as GIF using Python.
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Convert CSV to TIFF via Python
-
 description: Convert CSV to TIFF format in Python code. Save CSV as TIFF using Python.
 ---
 

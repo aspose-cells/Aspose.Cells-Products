@@ -1,6 +1,5 @@
 ---
 title: Convert NUMBERS to WORD via Python
-
 description: Convert NUMBERS to WORD format in Python code. Save NUMBERS as WORD using Python.
 ---
 

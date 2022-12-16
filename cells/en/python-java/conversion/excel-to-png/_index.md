@@ -1,6 +1,5 @@
 ---
 title: Convert EXCEL to PNG via Python
-
 description: Convert EXCEL to PNG format in Python code. Save EXCEL as PNG using Python.
 ---
 

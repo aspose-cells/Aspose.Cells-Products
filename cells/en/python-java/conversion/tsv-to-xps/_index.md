@@ -1,6 +1,5 @@
 ---
 title: Convert TSV to XPS via Python
-
 description: Convert TSV to XPS format in Python code. Save TSV as XPS using Python.
 ---
 

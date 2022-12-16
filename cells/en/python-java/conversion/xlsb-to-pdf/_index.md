@@ -1,6 +1,5 @@
 ---
 title: Convert XLSB to PDF via Python
-
 description: Convert XLSB to PDF format in Python code. Save XLSB as PDF using Python.
 ---
 

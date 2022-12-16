@@ -1,6 +1,5 @@
 ---
 title: Convert TABDELIMITED to SXC via Python
-
 description: Convert TABDELIMITED to SXC format in Python code. Save TABDELIMITED as SXC using Python.
 ---
 

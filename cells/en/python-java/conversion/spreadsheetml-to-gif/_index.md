@@ -1,6 +1,5 @@
 ---
 title: Convert SPREADSHEETML to GIF via Python
-
 description: Convert SPREADSHEETML to GIF format in Python code. Save SPREADSHEETML as GIF using Python.
 ---
 

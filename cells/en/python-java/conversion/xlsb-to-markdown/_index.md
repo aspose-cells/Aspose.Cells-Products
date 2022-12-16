@@ -1,6 +1,5 @@
 ---
 title: Convert XLSB to MARKDOWN via Python
-
 description: Convert XLSB to MARKDOWN format in Python code. Save XLSB as MARKDOWN using Python.
 ---
 

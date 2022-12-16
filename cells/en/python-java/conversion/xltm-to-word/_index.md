@@ -1,6 +1,5 @@
 ---
 title: Convert XLTM to WORD via Python
-
 description: Convert XLTM to WORD format in Python code. Save XLTM as WORD using Python.
 ---
 

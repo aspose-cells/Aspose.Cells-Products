@@ -1,6 +1,5 @@
 ---
 title: Convert NUMBERS to PDF via Python
-
 description: Convert NUMBERS to PDF format in Python code. Save NUMBERS as PDF using Python.
 ---
 

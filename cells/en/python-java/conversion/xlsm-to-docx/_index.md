@@ -1,6 +1,5 @@
 ---
 title: Convert XLSM to DOCX via Python
-
 description: Convert XLSM to DOCX format in Python code. Save XLSM as DOCX using Python.
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Convert TSV to XLAM via Python
-
 description: Convert TSV to XLAM format in Python code. Save TSV as XLAM using Python.
 ---
 

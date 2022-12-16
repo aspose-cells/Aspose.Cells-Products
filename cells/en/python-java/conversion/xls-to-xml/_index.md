@@ -1,6 +1,5 @@
 ---
 title: Convert XLS to XML via Python
-
 description: Convert XLS to XML format in Python code. Save XLS as XML using Python.
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Convert XLSX to MHTML via Python
-
 description: Convert XLSX to MHTML format in Python code. Save XLSX as MHTML using Python.
 ---
 

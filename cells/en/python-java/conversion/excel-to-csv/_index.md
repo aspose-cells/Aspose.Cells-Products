@@ -1,6 +1,5 @@
 ---
 title: Convert EXCEL to CSV via Python
-
 description: Convert EXCEL to CSV format in Python code. Save EXCEL as CSV using Python.
 ---
 

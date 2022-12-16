@@ -1,6 +1,5 @@
 ---
 title: Convert SPREADSHEETML to BMP via Python
-
 description: Convert SPREADSHEETML to BMP format in Python code. Save SPREADSHEETML as BMP using Python.
 ---
 

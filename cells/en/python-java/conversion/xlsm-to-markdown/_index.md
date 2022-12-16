@@ -1,6 +1,5 @@
 ---
 title: Convert XLSM to MARKDOWN via Python
-
 description: Convert XLSM to MARKDOWN format in Python code. Save XLSM as MARKDOWN using Python.
 ---
 

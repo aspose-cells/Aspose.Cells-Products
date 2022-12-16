@@ -1,6 +1,5 @@
 ---
 title: Convert XLSM to DIF via Python
-
 description: Convert XLSM to DIF format in Python code. Save XLSM as DIF using Python.
 ---
 

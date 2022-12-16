@@ -1,6 +1,5 @@
 ---
 title: Convert TXT to SVG via Python
-
 description: Convert TXT to SVG format in Python code. Save TXT as SVG using Python.
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Convert MHTML to FODS via Python
-
 description: Convert MHTML to FODS format in Python code. Save MHTML as FODS using Python.
 ---
 

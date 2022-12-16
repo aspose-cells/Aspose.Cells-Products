@@ -1,6 +1,5 @@
 ---
 title: Convert XLSB to SVG via Python
-
 description: Convert XLSB to SVG format in Python code. Save XLSB as SVG using Python.
 ---
 

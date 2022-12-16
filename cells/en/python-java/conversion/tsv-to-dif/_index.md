@@ -1,6 +1,5 @@
 ---
 title: Convert TSV to DIF via Python
-
 description: Convert TSV to DIF format in Python code. Save TSV as DIF using Python.
 ---
 

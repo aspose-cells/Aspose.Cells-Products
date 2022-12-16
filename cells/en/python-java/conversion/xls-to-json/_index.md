@@ -1,6 +1,5 @@
 ---
 title: Convert XLS to JSON via Python
-
 description: Convert XLS to JSON format in Python code. Save XLS as JSON using Python.
 ---
 

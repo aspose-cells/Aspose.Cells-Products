@@ -1,6 +1,5 @@
 ---
 title: Convert ODS to BMP via Python
-
 description: Convert ODS to BMP format in Python code. Save ODS as BMP using Python.
 ---
 

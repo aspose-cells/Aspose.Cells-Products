@@ -1,6 +1,5 @@
 ---
 title: Convert ODS to HTML via Python
-
 description: Convert ODS to HTML format in Python code. Save ODS as HTML using Python.
 ---
 

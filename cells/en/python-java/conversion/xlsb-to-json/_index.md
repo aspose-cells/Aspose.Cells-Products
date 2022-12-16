@@ -1,6 +1,5 @@
 ---
 title: Convert XLSB to JSON via Python
-
 description: Convert XLSB to JSON format in Python code. Save XLSB as JSON using Python.
 ---
 

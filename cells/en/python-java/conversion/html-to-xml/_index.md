@@ -1,6 +1,5 @@
 ---
 title: Convert HTML to XML via Python
-
 description: Convert HTML to XML format in Python code. Save HTML as XML using Python.
 ---
 

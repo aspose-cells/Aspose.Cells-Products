@@ -1,6 +1,5 @@
 ---
 title: Convert XLSB to TIFF via Python
-
 description: Convert XLSB to TIFF format in Python code. Save XLSB as TIFF using Python.
 ---
 

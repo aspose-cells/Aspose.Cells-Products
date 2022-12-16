@@ -1,6 +1,5 @@
 ---
 title: Convert XLSB to PNG via Python
-
 description: Convert XLSB to PNG format in Python code. Save XLSB as PNG using Python.
 ---
 

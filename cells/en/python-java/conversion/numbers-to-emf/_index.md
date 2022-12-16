@@ -1,6 +1,5 @@
 ---
 title: Convert NUMBERS to EMF via Python
-
 description: Convert NUMBERS to EMF format in Python code. Save NUMBERS as EMF using Python.
 ---
 

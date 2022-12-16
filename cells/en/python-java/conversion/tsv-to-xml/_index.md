@@ -1,6 +1,5 @@
 ---
 title: Convert TSV to XML via Python
-
 description: Convert TSV to XML format in Python code. Save TSV as XML using Python.
 ---
 

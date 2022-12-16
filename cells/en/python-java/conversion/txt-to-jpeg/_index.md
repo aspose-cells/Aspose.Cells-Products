@@ -1,6 +1,5 @@
 ---
 title: Convert TXT to JPEG via Python
-
 description: Convert TXT to JPEG format in Python code. Save TXT as JPEG using Python.
 ---
 

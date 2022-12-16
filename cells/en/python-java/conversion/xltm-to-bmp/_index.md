@@ -1,6 +1,5 @@
 ---
 title: Convert XLTM to BMP via Python
-
 description: Convert XLTM to BMP format in Python code. Save XLTM as BMP using Python.
 ---
 

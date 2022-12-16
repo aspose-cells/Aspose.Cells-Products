@@ -1,6 +1,5 @@
 ---
 title: Convert XLSX to XLSB via Python
-
 description: Convert XLSX to XLSB format in Python code. Save XLSX as XLSB using Python.
 ---
 

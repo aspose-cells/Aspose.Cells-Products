@@ -1,6 +1,5 @@
 ---
 title: Convert TABDELIMITED to SVG via Python
-
 description: Convert TABDELIMITED to SVG format in Python code. Save TABDELIMITED as SVG using Python.
 ---
 

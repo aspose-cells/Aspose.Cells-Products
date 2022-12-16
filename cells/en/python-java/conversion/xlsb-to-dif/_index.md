@@ -1,6 +1,5 @@
 ---
 title: Convert XLSB to DIF via Python
-
 description: Convert XLSB to DIF format in Python code. Save XLSB as DIF using Python.
 ---
 

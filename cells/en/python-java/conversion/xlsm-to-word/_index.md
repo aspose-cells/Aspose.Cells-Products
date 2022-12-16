@@ -1,6 +1,5 @@
 ---
 title: Convert XLSM to WORD via Python
-
 description: Convert XLSM to WORD format in Python code. Save XLSM as WORD using Python.
 ---
 

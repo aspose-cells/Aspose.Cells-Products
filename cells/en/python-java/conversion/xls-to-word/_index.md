@@ -1,6 +1,5 @@
 ---
 title: Convert XLS to WORD via Python
-
 description: Convert XLS to WORD format in Python code. Save XLS as WORD using Python.
 ---
 

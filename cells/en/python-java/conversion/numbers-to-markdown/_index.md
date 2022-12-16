@@ -1,6 +1,5 @@
 ---
 title: Convert NUMBERS to MARKDOWN via Python
-
 description: Convert NUMBERS to MARKDOWN format in Python code. Save NUMBERS as MARKDOWN using Python.
 ---
 

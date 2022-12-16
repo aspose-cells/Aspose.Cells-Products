@@ -1,6 +1,5 @@
 ---
 title: Convert ODS to XML via Python
-
 description: Convert ODS to XML format in Python code. Save ODS as XML using Python.
 ---
 

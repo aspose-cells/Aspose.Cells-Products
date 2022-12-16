@@ -1,6 +1,5 @@
 ---
 title: Convert XLTM to CSV via Python
-
 description: Convert XLTM to CSV format in Python code. Save XLTM as CSV using Python.
 ---
 

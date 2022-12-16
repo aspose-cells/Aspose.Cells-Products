@@ -1,6 +1,5 @@
 ---
 title: Convert XLS to GIF via Python
-
 description: Convert XLS to GIF format in Python code. Save XLS as GIF using Python.
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Convert XLSM to JSON via Python
-
 description: Convert XLSM to JSON format in Python code. Save XLSM as JSON using Python.
 ---
 

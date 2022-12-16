@@ -1,6 +1,5 @@
 ---
 title: Convert TABDELIMITED to EMF via Python
-
 description: Convert TABDELIMITED to EMF format in Python code. Save TABDELIMITED as EMF using Python.
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Convert TXT to TIFF via Python
-
 description: Convert TXT to TIFF format in Python code. Save TXT as TIFF using Python.
 ---
 

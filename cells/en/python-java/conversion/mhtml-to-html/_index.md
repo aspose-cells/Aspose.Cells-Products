@@ -1,6 +1,5 @@
 ---
 title: Convert MHTML to HTML via Python
-
 description: Convert MHTML to HTML format in Python code. Save MHTML as HTML using Python.
 ---
 

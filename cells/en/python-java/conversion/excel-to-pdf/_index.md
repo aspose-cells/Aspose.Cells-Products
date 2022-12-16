@@ -1,6 +1,5 @@
 ---
 title: Convert EXCEL to PDF via Python
-
 description: Convert EXCEL to PDF format in Python code. Save EXCEL as PDF using Python.
 ---
 

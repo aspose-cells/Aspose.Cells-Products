@@ -1,6 +1,5 @@
 ---
 title: Convert XLSB to MHTML via Python
-
 description: Convert XLSB to MHTML format in Python code. Save XLSB as MHTML using Python.
 ---
 

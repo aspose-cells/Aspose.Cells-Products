@@ -1,6 +1,5 @@
 ---
 title: Convert JSON to MD via Python
-
 description: Convert JSON to MD format in Python code. Save JSON as MD using Python.
 ---
 

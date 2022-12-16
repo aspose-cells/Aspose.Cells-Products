@@ -1,6 +1,5 @@
 ---
 title: Convert SPREADSHEETML to JSON via Python
-
 description: Convert SPREADSHEETML to JSON format in Python code. Save SPREADSHEETML as JSON using Python.
 ---
 

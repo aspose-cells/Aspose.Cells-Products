@@ -1,6 +1,5 @@
 ---
 title: Convert SXC to XLTM via Python
-
 description: Convert SXC to XLTM format in Python code. Save SXC as XLTM using Python.
 ---
 

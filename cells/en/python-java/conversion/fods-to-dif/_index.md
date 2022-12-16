@@ -1,6 +1,5 @@
 ---
 title: Convert FODS to DIF via Python
-
 description: Convert FODS to DIF format in Python code. Save FODS as DIF using Python.
 ---
 

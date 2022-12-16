@@ -1,6 +1,5 @@
 ---
 title: Convert XLSX to MD via Python
-
 description: Convert XLSX to MD format in Python code. Save XLSX as MD using Python.
 ---
 

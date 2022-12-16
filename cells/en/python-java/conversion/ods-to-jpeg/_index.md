@@ -1,6 +1,5 @@
 ---
 title: Convert ODS to JPEG via Python
-
 description: Convert ODS to JPEG format in Python code. Save ODS as JPEG using Python.
 ---
 

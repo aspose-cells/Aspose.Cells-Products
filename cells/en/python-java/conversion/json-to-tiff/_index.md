@@ -1,6 +1,5 @@
 ---
 title: Convert JSON to TIFF via Python
-
 description: Convert JSON to TIFF format in Python code. Save JSON as TIFF using Python.
 ---
 

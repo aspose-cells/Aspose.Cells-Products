@@ -1,6 +1,5 @@
 ---
 title: Convert XLSM to XPS via Python
-
 description: Convert XLSM to XPS format in Python code. Save XLSM as XPS using Python.
 ---
 

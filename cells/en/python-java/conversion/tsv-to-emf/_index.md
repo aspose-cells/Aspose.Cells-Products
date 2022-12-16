@@ -1,6 +1,5 @@
 ---
 title: Convert TSV to EMF via Python
-
 description: Convert TSV to EMF format in Python code. Save TSV as EMF using Python.
 ---
 

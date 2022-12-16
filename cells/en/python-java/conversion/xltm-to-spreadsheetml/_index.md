@@ -1,6 +1,5 @@
 ---
 title: Convert XLTM to SPREADSHEETML via Python
-
 description: Convert XLTM to SPREADSHEETML format in Python code. Save XLTM as SPREADSHEETML using Python.
 ---
 

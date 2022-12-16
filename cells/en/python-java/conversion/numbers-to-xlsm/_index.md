@@ -1,6 +1,5 @@
 ---
 title: Convert NUMBERS to XLSM via Python
-
 description: Convert NUMBERS to XLSM format in Python code. Save NUMBERS as XLSM using Python.
 ---
 

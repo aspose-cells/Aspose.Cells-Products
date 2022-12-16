@@ -1,6 +1,5 @@
 ---
 title: Convert CSV to XLTX via Python
-
 description: Convert CSV to XLTX format in Python code. Save CSV as XLTX using Python.
 ---
 

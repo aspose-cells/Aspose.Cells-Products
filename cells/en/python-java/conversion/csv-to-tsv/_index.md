@@ -1,6 +1,5 @@
 ---
 title: Convert CSV to TSV via Python
-
 description: Convert CSV to TSV format in Python code. Save CSV as TSV using Python.
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Convert TSV to BMP via Python
-
 description: Convert TSV to BMP format in Python code. Save TSV as BMP using Python.
 ---
 

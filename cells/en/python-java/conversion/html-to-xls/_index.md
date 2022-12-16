@@ -1,6 +1,5 @@
 ---
 title: Convert HTML to XLS via Python
-
 description: Convert HTML to XLS format in Python code. Save HTML as XLS using Python.
 ---
 

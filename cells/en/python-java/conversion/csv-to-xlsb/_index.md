@@ -1,6 +1,5 @@
 ---
 title: Convert CSV to XLSB via Python
-
 description: Convert CSV to XLSB format in Python code. Save CSV as XLSB using Python.
 ---
 

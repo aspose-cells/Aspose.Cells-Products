@@ -1,6 +1,5 @@
 ---
 title: Convert NUMBERS to XPS via Python
-
 description: Convert NUMBERS to XPS format in Python code. Save NUMBERS as XPS using Python.
 ---
 

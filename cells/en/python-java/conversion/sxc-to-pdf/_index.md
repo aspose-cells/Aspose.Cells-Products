@@ -1,6 +1,5 @@
 ---
 title: Convert SXC to PDF via Python
-
 description: Convert SXC to PDF format in Python code. Save SXC as PDF using Python.
 ---
 

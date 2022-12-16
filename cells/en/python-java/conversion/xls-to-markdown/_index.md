@@ -1,6 +1,5 @@
 ---
 title: Convert XLS to MARKDOWN via Python
-
 description: Convert XLS to MARKDOWN format in Python code. Save XLS as MARKDOWN using Python.
 ---
 

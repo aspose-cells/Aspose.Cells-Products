@@ -1,6 +1,5 @@
 ---
 title: Convert MHTML to PNG via Python
-
 description: Convert MHTML to PNG format in Python code. Save MHTML as PNG using Python.
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Convert NUMBERS to PNG via Python
-
 description: Convert NUMBERS to PNG format in Python code. Save NUMBERS as PNG using Python.
 ---
 

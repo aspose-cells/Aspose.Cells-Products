@@ -1,6 +1,5 @@
 ---
 title: Convert MHTML to SPREADSHEETML via Python
-
 description: Convert MHTML to SPREADSHEETML format in Python code. Save MHTML as SPREADSHEETML using Python.
 ---
 

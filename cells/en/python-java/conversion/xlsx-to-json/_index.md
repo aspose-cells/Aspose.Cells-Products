@@ -1,6 +1,5 @@
 ---
 title: Convert XLSX to JSON via Python
-
 description: Convert XLSX to JSON format in Python code. Save XLSX as JSON using Python.
 ---
 

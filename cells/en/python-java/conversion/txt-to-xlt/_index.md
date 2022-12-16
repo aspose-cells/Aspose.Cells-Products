@@ -1,6 +1,5 @@
 ---
 title: Convert TXT to XLT via Python
-
 description: Convert TXT to XLT format in Python code. Save TXT as XLT using Python.
 ---
 

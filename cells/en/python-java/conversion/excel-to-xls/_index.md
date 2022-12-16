@@ -1,6 +1,5 @@
 ---
 title: Convert EXCEL to XLS via Python
-
 description: Convert EXCEL to XLS format in Python code. Save EXCEL as XLS using Python.
 ---
 

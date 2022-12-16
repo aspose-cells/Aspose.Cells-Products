@@ -1,6 +1,5 @@
 ---
 title: Convert XLTM to TIFF via Python
-
 description: Convert XLTM to TIFF format in Python code. Save XLTM as TIFF using Python.
 ---
 

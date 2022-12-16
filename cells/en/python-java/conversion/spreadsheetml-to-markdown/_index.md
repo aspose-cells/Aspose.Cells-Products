@@ -1,6 +1,5 @@
 ---
 title: Convert SPREADSHEETML to MARKDOWN via Python
-
 description: Convert SPREADSHEETML to MARKDOWN format in Python code. Save SPREADSHEETML as MARKDOWN using Python.
 ---
 

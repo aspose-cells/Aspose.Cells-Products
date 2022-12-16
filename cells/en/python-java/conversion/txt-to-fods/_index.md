@@ -1,6 +1,5 @@
 ---
 title: Convert TXT to FODS via Python
-
 description: Convert TXT to FODS format in Python code. Save TXT as FODS using Python.
 ---
 

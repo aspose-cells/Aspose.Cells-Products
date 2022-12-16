@@ -1,6 +1,5 @@
 ---
 title: Convert XLS to PPTX via Python
-
 description: Convert XLS to PPTX format in Python code. Save XLS as PPTX using Python.
 ---
 

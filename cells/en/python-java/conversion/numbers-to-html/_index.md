@@ -1,6 +1,5 @@
 ---
 title: Convert NUMBERS to HTML via Python
-
 description: Convert NUMBERS to HTML format in Python code. Save NUMBERS as HTML using Python.
 ---
 

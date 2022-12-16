@@ -1,6 +1,5 @@
 ---
 title: Convert TABDELIMITED to XPS via Python
-
 description: Convert TABDELIMITED to XPS format in Python code. Save TABDELIMITED as XPS using Python.
 ---
 

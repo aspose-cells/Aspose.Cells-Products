@@ -1,6 +1,5 @@
 ---
 title: Convert NUMBERS to XLSB via Python
-
 description: Convert NUMBERS to XLSB format in Python code. Save NUMBERS as XLSB using Python.
 ---
 

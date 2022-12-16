@@ -1,6 +1,5 @@
 ---
 title: Convert JSON to EXCEL via Python
-
 description: Convert JSON to EXCEL format in Python code. Save JSON as EXCEL using Python.
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Convert TXT to MHTML via Python
-
 description: Convert TXT to MHTML format in Python code. Save TXT as MHTML using Python.
 ---
 

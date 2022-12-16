@@ -1,6 +1,5 @@
 ---
 title: Convert XLSX to PNG via Python
-
 description: Convert XLSX to PNG format in Python code. Save XLSX as PNG using Python.
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Convert EXCEL to MHTML via Python
-
 description: Convert EXCEL to MHTML format in Python code. Save EXCEL as MHTML using Python.
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Convert SXC to XLT via Python
-
 description: Convert SXC to XLT format in Python code. Save SXC as XLT using Python.
 ---
 

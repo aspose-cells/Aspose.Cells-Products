@@ -1,6 +1,5 @@
 ---
 title: Convert XLT to GIF via Python
-
 description: Convert XLT to GIF format in Python code. Save XLT as GIF using Python.
 ---
 

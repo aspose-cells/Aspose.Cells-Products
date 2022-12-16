@@ -1,6 +1,5 @@
 ---
 title: Convert MHTML to SVG via Python
-
 description: Convert MHTML to SVG format in Python code. Save MHTML as SVG using Python.
 ---
 

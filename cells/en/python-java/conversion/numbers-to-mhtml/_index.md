@@ -1,6 +1,5 @@
 ---
 title: Convert NUMBERS to MHTML via Python
-
 description: Convert NUMBERS to MHTML format in Python code. Save NUMBERS as MHTML using Python.
 ---
 

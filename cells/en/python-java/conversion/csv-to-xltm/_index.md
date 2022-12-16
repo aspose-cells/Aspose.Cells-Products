@@ -1,6 +1,5 @@
 ---
 title: Convert CSV to XLTM via Python
-
 description: Convert CSV to XLTM format in Python code. Save CSV as XLTM using Python.
 ---
 

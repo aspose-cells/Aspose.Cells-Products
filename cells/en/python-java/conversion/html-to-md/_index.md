@@ -1,6 +1,5 @@
 ---
 title: Convert HTML to MD via Python
-
 description: Convert HTML to MD format in Python code. Save HTML as MD using Python.
 ---
 

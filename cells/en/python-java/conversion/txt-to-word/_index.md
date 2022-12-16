@@ -1,6 +1,5 @@
 ---
 title: Convert TXT to WORD via Python
-
 description: Convert TXT to WORD format in Python code. Save TXT as WORD using Python.
 ---
 

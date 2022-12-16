@@ -1,6 +1,5 @@
 ---
 title: Convert TXT to XPS via Python
-
 description: Convert TXT to XPS format in Python code. Save TXT as XPS using Python.
 ---
 

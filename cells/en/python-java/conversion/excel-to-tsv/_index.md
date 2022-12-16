@@ -1,6 +1,5 @@
 ---
 title: Convert EXCEL to TSV via Python
-
 description: Convert EXCEL to TSV format in Python code. Save EXCEL as TSV using Python.
 ---
 

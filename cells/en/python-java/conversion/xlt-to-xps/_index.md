@@ -1,6 +1,5 @@
 ---
 title: Convert XLT to XPS via Python
-
 description: Convert XLT to XPS format in Python code. Save XLT as XPS using Python.
 ---
 

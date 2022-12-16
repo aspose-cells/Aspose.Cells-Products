@@ -1,6 +1,5 @@
 ---
 title: Convert XLSX to XLAM via Python
-
 description: Convert XLSX to XLAM format in Python code. Save XLSX as XLAM using Python.
 ---
 

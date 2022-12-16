@@ -1,6 +1,5 @@
 ---
 title: Convert EXCEL to XPS via Python
-
 description: Convert EXCEL to XPS format in Python code. Save EXCEL as XPS using Python.
 ---
 

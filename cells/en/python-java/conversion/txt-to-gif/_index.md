@@ -1,6 +1,5 @@
 ---
 title: Convert TXT to GIF via Python
-
 description: Convert TXT to GIF format in Python code. Save TXT as GIF using Python.
 ---
 

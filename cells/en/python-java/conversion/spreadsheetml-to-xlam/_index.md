@@ -1,6 +1,5 @@
 ---
 title: Convert SPREADSHEETML to XLAM via Python
-
 description: Convert SPREADSHEETML to XLAM format in Python code. Save SPREADSHEETML as XLAM using Python.
 ---
 

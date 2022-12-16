@@ -1,6 +1,5 @@
 ---
 title: Convert SXC to JSON via Python
-
 description: Convert SXC to JSON format in Python code. Save SXC as JSON using Python.
 ---
 

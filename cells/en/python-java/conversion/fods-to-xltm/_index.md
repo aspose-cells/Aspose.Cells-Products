@@ -1,6 +1,5 @@
 ---
 title: Convert FODS to XLTM via Python
-
 description: Convert FODS to XLTM format in Python code. Save FODS as XLTM using Python.
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Convert XLS to DIF via Python
-
 description: Convert XLS to DIF format in Python code. Save XLS as DIF using Python.
 ---
 

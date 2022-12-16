@@ -1,6 +1,5 @@
 ---
 title: Convert XLSM to PNG via Python
-
 description: Convert XLSM to PNG format in Python code. Save XLSM as PNG using Python.
 ---
 

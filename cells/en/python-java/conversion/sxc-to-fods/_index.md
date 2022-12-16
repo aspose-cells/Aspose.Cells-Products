@@ -1,6 +1,5 @@
 ---
 title: Convert SXC to FODS via Python
-
 description: Convert SXC to FODS format in Python code. Save SXC as FODS using Python.
 ---
 

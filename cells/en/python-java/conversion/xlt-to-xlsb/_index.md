@@ -1,6 +1,5 @@
 ---
 title: Convert XLT to XLSB via Python
-
 description: Convert XLT to XLSB format in Python code. Save XLT as XLSB using Python.
 ---
 

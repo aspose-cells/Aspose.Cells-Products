@@ -1,6 +1,5 @@
 ---
 title: Convert TABDELIMITED to SPREADSHEETML via Python
-
 description: Convert TABDELIMITED to SPREADSHEETML format in Python code. Save TABDELIMITED as SPREADSHEETML using Python.
 ---
 

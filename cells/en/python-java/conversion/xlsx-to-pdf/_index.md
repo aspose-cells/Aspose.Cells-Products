@@ -1,6 +1,5 @@
 ---
 title: Convert XLSX to PDF via Python
-
 description: Convert XLSX to PDF format in Python code. Save XLSX as PDF using Python.
 ---
 

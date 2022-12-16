@@ -1,6 +1,5 @@
 ---
 title: Convert TABDELIMITED to CSV via Python
-
 description: Convert TABDELIMITED to CSV format in Python code. Save TABDELIMITED as CSV using Python.
 ---
 

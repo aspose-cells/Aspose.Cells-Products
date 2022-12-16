@@ -1,6 +1,5 @@
 ---
 title: Convert XLSX to SXC via Python
-
 description: Convert XLSX to SXC format in Python code. Save XLSX as SXC using Python.
 ---
 

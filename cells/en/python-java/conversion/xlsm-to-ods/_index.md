@@ -1,6 +1,5 @@
 ---
 title: Convert XLSM to ODS via Python
-
 description: Convert XLSM to ODS format in Python code. Save XLSM as ODS using Python.
 ---
 

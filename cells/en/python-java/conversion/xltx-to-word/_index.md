@@ -1,6 +1,5 @@
 ---
 title: Convert XLTX to WORD via Python
-
 description: Convert XLTX to WORD format in Python code. Save XLTX as WORD using Python.
 ---
 

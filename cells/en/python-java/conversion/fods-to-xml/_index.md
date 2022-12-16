@@ -1,6 +1,5 @@
 ---
 title: Convert FODS to XML via Python
-
 description: Convert FODS to XML format in Python code. Save FODS as XML using Python.
 ---
 

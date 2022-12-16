@@ -1,6 +1,5 @@
 ---
 title: Convert XLSX to BMP via Python
-
 description: Convert XLSX to BMP format in Python code. Save XLSX as BMP using Python.
 ---
 

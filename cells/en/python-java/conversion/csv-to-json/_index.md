@@ -1,6 +1,5 @@
 ---
 title: Convert CSV to JSON via Python
-
 description: Convert CSV to JSON format in Python code. Save CSV as JSON using Python.
 ---
 

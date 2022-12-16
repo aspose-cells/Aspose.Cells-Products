@@ -1,6 +1,5 @@
 ---
 title: Convert MHTML to ODS via Python
-
 description: Convert MHTML to ODS format in Python code. Save MHTML as ODS using Python.
 ---
 

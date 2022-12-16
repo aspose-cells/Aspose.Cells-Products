@@ -1,6 +1,5 @@
 ---
 title: Convert FODS to WORD via Python
-
 description: Convert FODS to WORD format in Python code. Save FODS as WORD using Python.
 ---
 

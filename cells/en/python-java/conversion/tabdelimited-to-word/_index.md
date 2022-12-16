@@ -1,6 +1,5 @@
 ---
 title: Convert TABDELIMITED to WORD via Python
-
 description: Convert TABDELIMITED to WORD format in Python code. Save TABDELIMITED as WORD using Python.
 ---
 

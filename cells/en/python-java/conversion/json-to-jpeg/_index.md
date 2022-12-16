@@ -1,6 +1,5 @@
 ---
 title: Convert JSON to JPEG via Python
-
 description: Convert JSON to JPEG format in Python code. Save JSON as JPEG using Python.
 ---
 

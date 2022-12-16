@@ -1,6 +1,5 @@
 ---
 title: Convert JSON to PNG via Python
-
 description: Convert JSON to PNG format in Python code. Save JSON as PNG using Python.
 ---
 

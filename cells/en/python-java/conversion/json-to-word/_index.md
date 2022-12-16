@@ -1,6 +1,5 @@
 ---
 title: Convert JSON to WORD via Python
-
 description: Convert JSON to WORD format in Python code. Save JSON as WORD using Python.
 ---
 

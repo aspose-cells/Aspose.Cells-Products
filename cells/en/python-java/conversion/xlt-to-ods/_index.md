@@ -1,6 +1,5 @@
 ---
 title: Convert XLT to ODS via Python
-
 description: Convert XLT to ODS format in Python code. Save XLT as ODS using Python.
 ---
 

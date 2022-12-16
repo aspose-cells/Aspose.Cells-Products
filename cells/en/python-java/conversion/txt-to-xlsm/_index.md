@@ -1,6 +1,5 @@
 ---
 title: Convert TXT to XLSM via Python
-
 description: Convert TXT to XLSM format in Python code. Save TXT as XLSM using Python.
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Convert TSV to PNG via Python
-
 description: Convert TSV to PNG format in Python code. Save TSV as PNG using Python.
 ---
 

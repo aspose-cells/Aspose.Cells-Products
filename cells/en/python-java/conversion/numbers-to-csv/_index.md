@@ -1,6 +1,5 @@
 ---
 title: Convert NUMBERS to CSV via Python
-
 description: Convert NUMBERS to CSV format in Python code. Save NUMBERS as CSV using Python.
 ---
 

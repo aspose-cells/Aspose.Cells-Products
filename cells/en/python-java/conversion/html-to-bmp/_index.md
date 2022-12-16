@@ -1,6 +1,5 @@
 ---
 title: Convert HTML to BMP via Python
-
 description: Convert HTML to BMP format in Python code. Save HTML as BMP using Python.
 ---
 

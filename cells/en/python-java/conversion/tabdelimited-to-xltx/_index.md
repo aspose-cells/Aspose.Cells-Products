@@ -1,6 +1,5 @@
 ---
 title: Convert TABDELIMITED to XLTX via Python
-
 description: Convert TABDELIMITED to XLTX format in Python code. Save TABDELIMITED as XLTX using Python.
 ---
 

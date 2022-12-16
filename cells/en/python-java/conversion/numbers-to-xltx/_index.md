@@ -1,6 +1,5 @@
 ---
 title: Convert NUMBERS to XLTX via Python
-
 description: Convert NUMBERS to XLTX format in Python code. Save NUMBERS as XLTX using Python.
 ---
 

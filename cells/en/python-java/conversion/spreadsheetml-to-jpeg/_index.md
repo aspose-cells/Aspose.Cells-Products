@@ -1,6 +1,5 @@
 ---
 title: Convert SPREADSHEETML to JPEG via Python
-
 description: Convert SPREADSHEETML to JPEG format in Python code. Save SPREADSHEETML as JPEG using Python.
 ---
 

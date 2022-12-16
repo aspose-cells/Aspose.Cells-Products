@@ -1,6 +1,5 @@
 ---
 title: Convert MHTML to BMP via Python
-
 description: Convert MHTML to BMP format in Python code. Save MHTML as BMP using Python.
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Convert ODS to TSV via Python
-
 description: Convert ODS to TSV format in Python code. Save ODS as TSV using Python.
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Convert XLT to XLTM via Python
-
 description: Convert XLT to XLTM format in Python code. Save XLT as XLTM using Python.
 ---
 

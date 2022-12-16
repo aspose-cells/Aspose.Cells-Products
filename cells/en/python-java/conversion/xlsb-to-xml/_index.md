@@ -1,6 +1,5 @@
 ---
 title: Convert XLSB to XML via Python
-
 description: Convert XLSB to XML format in Python code. Save XLSB as XML using Python.
 ---
 

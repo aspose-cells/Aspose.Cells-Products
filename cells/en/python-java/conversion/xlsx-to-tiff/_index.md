@@ -1,6 +1,5 @@
 ---
 title: Convert XLSX to TIFF via Python
-
 description: Convert XLSX to TIFF format in Python code. Save XLSX as TIFF using Python.
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Convert TABDELIMITED to MARKDOWN via Python
-
 description: Convert TABDELIMITED to MARKDOWN format in Python code. Save TABDELIMITED as MARKDOWN using Python.
 ---
 

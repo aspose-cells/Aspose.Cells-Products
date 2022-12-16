@@ -1,6 +1,5 @@
 ---
 title: Convert XLSM to TABDELIMITED via Python
-
 description: Convert XLSM to TABDELIMITED format in Python code. Save XLSM as TABDELIMITED using Python.
 ---
 

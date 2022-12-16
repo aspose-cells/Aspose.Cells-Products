@@ -1,6 +1,5 @@
 ---
 title: Convert HTML to WORD via Python
-
 description: Convert HTML to WORD format in Python code. Save HTML as WORD using Python.
 ---
 

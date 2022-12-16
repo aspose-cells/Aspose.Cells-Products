@@ -1,6 +1,5 @@
 ---
 title: Convert XLS to XPS via Python
-
 description: Convert XLS to XPS format in Python code. Save XLS as XPS using Python.
 ---
 

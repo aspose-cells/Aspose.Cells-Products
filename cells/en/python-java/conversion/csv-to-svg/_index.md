@@ -1,6 +1,5 @@
 ---
 title: Convert CSV to SVG via Python
-
 description: Convert CSV to SVG format in Python code. Save CSV as SVG using Python.
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Convert SPREADSHEETML to DOCX via Python
-
 description: Convert SPREADSHEETML to DOCX format in Python code. Save SPREADSHEETML as DOCX using Python.
 ---
 

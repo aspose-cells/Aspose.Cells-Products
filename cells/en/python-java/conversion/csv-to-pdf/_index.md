@@ -1,6 +1,5 @@
 ---
 title: Convert CSV to PDF via Python
-
 description: Convert CSV to PDF format in Python code. Save CSV as PDF using Python.
 ---
 

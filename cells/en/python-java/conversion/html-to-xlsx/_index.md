@@ -1,6 +1,5 @@
 ---
 title: Convert HTML to XLSX via Python
-
 description: Convert HTML to XLSX format in Python code. Save HTML as XLSX using Python.
 ---
 

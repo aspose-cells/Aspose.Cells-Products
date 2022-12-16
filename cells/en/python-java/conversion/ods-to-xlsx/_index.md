@@ -1,6 +1,5 @@
 ---
 title: Convert ODS to XLSX via Python
-
 description: Convert ODS to XLSX format in Python code. Save ODS as XLSX using Python.
 ---
 

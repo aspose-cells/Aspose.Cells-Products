@@ -1,6 +1,5 @@
 ---
 title: Convert TSV to HTML via Python
-
 description: Convert TSV to HTML format in Python code. Save TSV as HTML using Python.
 ---
 

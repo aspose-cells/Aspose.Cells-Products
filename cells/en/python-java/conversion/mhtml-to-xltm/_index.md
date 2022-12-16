@@ -1,6 +1,5 @@
 ---
 title: Convert MHTML to XLTM via Python
-
 description: Convert MHTML to XLTM format in Python code. Save MHTML as XLTM using Python.
 ---
 

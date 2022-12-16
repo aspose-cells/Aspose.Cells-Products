@@ -1,6 +1,5 @@
 ---
 title: Convert SPREADSHEETML to WORD via Python
-
 description: Convert SPREADSHEETML to WORD format in Python code. Save SPREADSHEETML as WORD using Python.
 ---
 

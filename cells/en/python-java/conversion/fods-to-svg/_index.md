@@ -1,6 +1,5 @@
 ---
 title: Convert FODS to SVG via Python
-
 description: Convert FODS to SVG format in Python code. Save FODS as SVG using Python.
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Convert JSON to XLTX via Python
-
 description: Convert JSON to XLTX format in Python code. Save JSON as XLTX using Python.
 ---
 

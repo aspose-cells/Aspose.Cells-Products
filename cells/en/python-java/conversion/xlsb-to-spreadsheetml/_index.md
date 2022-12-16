@@ -1,6 +1,5 @@
 ---
 title: Convert XLSB to SPREADSHEETML via Python
-
 description: Convert XLSB to SPREADSHEETML format in Python code. Save XLSB as SPREADSHEETML using Python.
 ---
 

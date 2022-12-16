@@ -1,6 +1,5 @@
 ---
 title: Convert SXC to SVG via Python
-
 description: Convert SXC to SVG format in Python code. Save SXC as SVG using Python.
 ---
 

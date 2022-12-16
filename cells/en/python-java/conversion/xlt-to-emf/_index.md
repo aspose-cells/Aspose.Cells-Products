@@ -1,6 +1,5 @@
 ---
 title: Convert XLT to EMF via Python
-
 description: Convert XLT to EMF format in Python code. Save XLT as EMF using Python.
 ---
 

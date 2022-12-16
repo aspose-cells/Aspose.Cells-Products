@@ -1,6 +1,5 @@
 ---
 title: Convert XLSB to XLSM via Python
-
 description: Convert XLSB to XLSM format in Python code. Save XLSB as XLSM using Python.
 ---
 

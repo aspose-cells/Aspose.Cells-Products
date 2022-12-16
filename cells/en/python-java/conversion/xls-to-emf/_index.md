@@ -1,6 +1,5 @@
 ---
 title: Convert XLS to EMF via Python
-
 description: Convert XLS to EMF format in Python code. Save XLS as EMF using Python.
 ---
 

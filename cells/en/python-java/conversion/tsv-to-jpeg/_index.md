@@ -1,6 +1,5 @@
 ---
 title: Convert TSV to JPEG via Python
-
 description: Convert TSV to JPEG format in Python code. Save TSV as JPEG using Python.
 ---
 

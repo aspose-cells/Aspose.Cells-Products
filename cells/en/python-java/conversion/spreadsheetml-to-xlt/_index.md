@@ -1,6 +1,5 @@
 ---
 title: Convert SPREADSHEETML to XLT via Python
-
 description: Convert SPREADSHEETML to XLT format in Python code. Save SPREADSHEETML as XLT using Python.
 ---
 

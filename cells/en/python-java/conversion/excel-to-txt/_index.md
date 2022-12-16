@@ -1,6 +1,5 @@
 ---
 title: Convert EXCEL to TXT via Python
-
 description: Convert EXCEL to TXT format in Python code. Save EXCEL as TXT using Python.
 ---
 

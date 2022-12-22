@@ -602,7 +602,7 @@ renderer.ToImage(0, dir + "output.jpeg");</code></pre>
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Product Support" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.com/c/cells" >}}
+{{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="Paid Support" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/cells/" >}}
 {{< blocks/products/pf/slr-element name="Release Notes" href="https://docs.aspose.com/cells/net/release-notes/" >}}

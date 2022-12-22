@@ -106,7 +106,7 @@ DOCX is a well-known format for Microsoft Word documents. Introduced from 2007 w
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpeg-to-xml/" name="JPEG TO XML" description="Extensible Markup Language" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpeg-to-xps/" name="JPEG TO XPS" description="XML Paper Specifications" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpeg-to-json/" name="JPEG TO JSON" description="JavaScript Object Notation" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpeg-to-jpeg/" name="JPEG TO JPEG" description="JPEG Image" >}}
+
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

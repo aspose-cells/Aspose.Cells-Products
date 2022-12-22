@@ -108,7 +108,7 @@ Files with .xltx extension represent Microsoft Excel Template files that are bas
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mhtml-to-gif/" name="MHTML TO GIF" description="Graphical Interchange Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mhtml-to-html/" name="MHTML TO HTML" description="Hyper Text Markup Language" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mhtml-to-md/" name="MHTML TO MD" description="Markdown Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mhtml-to-mhtml/" name="MHTML TO MHTML" description="Web Page Archive Format" >}}
+
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mhtml-to-ods/" name="MHTML TO ODS" description="OpenDocument Spreadsheet File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mhtml-to-pdf/" name="MHTML TO PDF" description="Portable Document Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mhtml-to-png/" name="MHTML TO PNG" description="Portable Network Graphics" >}}

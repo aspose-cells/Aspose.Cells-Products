@@ -125,7 +125,7 @@ Files with .ods extension stand for OpenDocument Spreadsheet Document format tha
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/json-to-xltx/" name="JSON TO XLTX" description="Office OpenXML Excel Template" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/json-to-xml/" name="JSON TO XML" description="Extensible Markup Language" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/json-to-xps/" name="JSON TO XPS" description="XML Paper Specifications" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/json-to-json/" name="JSON TO JSON" description="JavaScript Object Notation" >}}
+
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/json-to-jpeg/" name="JSON TO JPEG" description="JPEG Image" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

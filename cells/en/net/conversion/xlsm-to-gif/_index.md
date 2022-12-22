@@ -99,7 +99,7 @@ A GIF or Graphical Interchange Format is a type of highly compressed image. Owne
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xlsm-to-txt/" name="XLSM TO TXT" description="Text Document" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xlsm-to-xls/" name="XLSM TO XLS" description="Excel Binary Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xlsm-to-xlsb/" name="XLSM TO XLSB" description="Binary Excel Workbook File" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xlsm-to-xlsm/" name="XLSM TO XLSM" description="Spreadsheet File" >}}
+
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xlsm-to-xlsx/" name="XLSM TO XLSX" description="OOXML Excel File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xlsm-to-xlt/" name="XLSM TO XLT" description="Microsoft Excel Template" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xlsm-to-xltm/" name="XLSM TO XLTM" description="Excel Macro-enabled Template" >}}

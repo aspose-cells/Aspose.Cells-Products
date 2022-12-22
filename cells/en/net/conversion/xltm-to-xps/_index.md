@@ -102,7 +102,7 @@ An XPS file represents page layout files that are based on XML Paper Specificati
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xltm-to-xlsm/" name="XLTM TO XLSM" description="Spreadsheet File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xltm-to-xlsx/" name="XLTM TO XLSX" description="OOXML Excel File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xltm-to-xlt/" name="XLTM TO XLT" description="Microsoft Excel Template" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xltm-to-xltm/" name="XLTM TO XLTM" description="Excel Macro-enabled Template" >}}
+
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xltm-to-xltx/" name="XLTM TO XLTX" description="Office OpenXML Excel Template" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xltm-to-xml/" name="XLTM TO XML" description="Extensible Markup Language" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xltm-to-xps/" name="XLTM TO XPS" description="XML Paper Specifications" >}}

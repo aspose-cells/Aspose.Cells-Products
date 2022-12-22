@@ -98,7 +98,7 @@ Text files created with Markdown language dialects is saved with .md or .MARKDOW
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xlsb-to-tsv/" name="XLSB TO TSV" description="Tab-Separated Values" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xlsb-to-txt/" name="XLSB TO TXT" description="Text Document" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xlsb-to-xls/" name="XLSB TO XLS" description="Excel Binary Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xlsb-to-xlsb/" name="XLSB TO XLSB" description="Binary Excel Workbook File" >}}
+
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xlsb-to-xlsm/" name="XLSB TO XLSM" description="Spreadsheet File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xlsb-to-xlsx/" name="XLSB TO XLSX" description="OOXML Excel File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xlsb-to-xlt/" name="XLSB TO XLT" description="Microsoft Excel Template" >}}

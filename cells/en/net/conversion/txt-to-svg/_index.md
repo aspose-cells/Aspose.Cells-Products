@@ -96,7 +96,7 @@ An SVG file is a Scalar Vector Graphics file that uses XML based text format for
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/txt-to-svg/" name="TXT TO SVG" description="Scalable Vector Graphics" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/txt-to-tiff/" name="TXT TO TIFF" description="Tagged Image Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/txt-to-tsv/" name="TXT TO TSV" description="Tab-Separated Values" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/txt-to-txt/" name="TXT TO TXT" description="Text Document" >}}
+
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/txt-to-xls/" name="TXT TO XLS" description="Excel Binary Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/txt-to-xlsb/" name="TXT TO XLSB" description="Binary Excel Workbook File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/txt-to-xlsm/" name="TXT TO XLSM" description="Spreadsheet File" >}}

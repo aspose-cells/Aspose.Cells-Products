@@ -101,7 +101,7 @@ A PNG (Portable Network Graphics) file is a raster image file format that uses l
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xlt-to-xlsb/" name="XLT TO XLSB" description="Binary Excel Workbook File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xlt-to-xlsm/" name="XLT TO XLSM" description="Spreadsheet File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xlt-to-xlsx/" name="XLT TO XLSX" description="OOXML Excel File" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xlt-to-xlt/" name="XLT TO XLT" description="Microsoft Excel Template" >}}
+
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xlt-to-xltm/" name="XLT TO XLTM" description="Excel Macro-enabled Template" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xlt-to-xltx/" name="XLT TO XLTX" description="Office OpenXML Excel Template" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/xlt-to-xml/" name="XLT TO XML" description="Extensible Markup Language" >}}

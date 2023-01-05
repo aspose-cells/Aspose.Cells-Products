@@ -78,7 +78,7 @@ description: Insert objects using Aspose.Cells' Java API without any software su
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-The sample code below demonstrates how to insert a "right arrow". For more types, please refer to "Block Arrow Shape Types Overview" below.
+The sample code below demonstrates how to insert a "math plus". For more types, please refer to "Block Arrow Shape Types Overview" below.
 
 {{% blocks/products/pf/agp/code-block title="Insert Equation Shapes - Java" offSpacer="" %}}
 

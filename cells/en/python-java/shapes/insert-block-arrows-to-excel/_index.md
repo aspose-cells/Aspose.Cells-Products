@@ -80,163 +80,163 @@ The sample code below demonstrates how to insert a "right arrow". For more types
     <!--em class="fa fa-chrome ico-blue fa-2x col-lg-2">
     </em-->
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_right.png" align="left" width="28" height="28">
-    <p class="col-lg-10">
+    <p class="col-lg-10" style="font-size:0.8rem !important;">
      AutoShapeType.RIGHT_ARROW
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_left.png" align="left" width="28" height="28">
-    <p class="col-lg-10">
+    <p class="col-lg-10" style="font-size:0.8rem !important;">
      AutoShapeType.LEFT_ARROW
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_up.png" align="left" width="28" height="28">
-    <p class="col-lg-10">
+    <p class="col-lg-10" style="font-size:0.8rem !important;">
      AutoShapeType.UP_ARROW
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_down.png" align="left" width="28" height="28">
-    <p class="col-lg-10">
+    <p class="col-lg-10" style="font-size:0.8rem !important;">
      AutoShapeType.DOWN_ARROW
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_left_right.png" align="left" width="28" height="28">
-    <p class="col-lg-10">
+    <p class="col-lg-10" style="font-size:0.8rem !important;">
      AutoShapeType.LEFT_RIGHT_ARROW
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_up_down.png" align="left" width="28" height="28">
-    <p class="col-lg-10">
+    <p class="col-lg-10" style="font-size:0.8rem !important;">
      AutoShapeType.UP_DOWN_ARROW
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_quad.png" align="left" width="28" height="28">
-    <p class="col-lg-10">
+    <p class="col-lg-10" style="font-size:0.8rem !important;">
      AutoShapeType.QUAD_ARROW
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_left_right_up.png" align="left" width="28" height="28">
-    <p class="col-lg-10">
+    <p class="col-lg-10" style="font-size:0.8rem !important;">
      AutoShapeType.LEFT_RIGHT_UP_ARROW
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_bent.png" align="left" width="28" height="28">
-    <p class="col-lg-10">
+    <p class="col-lg-10" style="font-size:0.8rem !important;">
      AutoShapeType.BENT_ARROW
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_uturn.png" align="left" width="28" height="28">
-    <p class="col-lg-10">
+    <p class="col-lg-10" style="font-size:0.8rem !important;">
      AutoShapeType.U_TURN_ARROW
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_left_up.png" align="left" width="28" height="28">
-    <p class="col-lg-10">
+    <p class="col-lg-10" style="font-size:0.8rem !important;">
      AutoShapeType.LEFT_UP_ARROW
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_bent_up.png" align="left" width="28" height="28">
-    <p class="col-lg-10">
+    <p class="col-lg-10" style="font-size:0.8rem !important;">
      AutoShapeType.BENT_UP_ARROW
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_curved_right.png" align="left" width="28" height="28">
-    <p class="col-lg-10">
+    <p class="col-lg-10" style="font-size:0.8rem !important;">
      AutoShapeType.CURVED_RIGHT_ARROW
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_curved_left.png" align="left" width="28" height="28">
-    <p class="col-lg-10">
+    <p class="col-lg-10" style="font-size:0.8rem !important;">
      AutoShapeType.CURVED_LEFT_ARROW
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_curved_up.png" align="left" width="28" height="28">
-    <p class="col-lg-10">
+    <p class="col-lg-10" style="font-size:0.8rem !important;">
      AutoShapeType.CURVED_UP_ARROW
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_curved_down.png" align="left" width="28" height="28">
-    <p class="col-lg-10">
+    <p class="col-lg-10" style="font-size:0.8rem !important;">
      AutoShapeType.CURVED_DOWN_ARROW
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_striped_right.png" align="left" width="28" height="28">
-    <p class="col-lg-10">
+    <p class="col-lg-10" style="font-size:0.8rem !important;">
      AutoShapeType.STRIPED_RIGHT_ARROW
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_notched_right.png" align="left" width="28" height="28">
-    <p class="col-lg-10">
+    <p class="col-lg-10" style="font-size:0.8rem !important;">
      AutoShapeType.NOTCHED_RIGHT_ARROW
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_home_plate.png" align="left" width="28" height="28">
-    <p class="col-lg-10">
+    <p class="col-lg-10" style="font-size:0.8rem !important;">
      AutoShapeType.HOME_PLATE
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_chevron.png" align="left" width="28" height="28">
-    <p class="col-lg-10">
+    <p class="col-lg-10" style="font-size:0.8rem !important;">
      AutoShapeType.CHEVRON
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_right_callout.png" align="left" width="28" height="28">
-    <p class="col-lg-10">
+    <p class="col-lg-10" style="font-size:0.8rem !important;">
      AutoShapeType.RIGHT_ARROW_CALLOUT
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_down_callout.png" align="left" width="28" height="28">
-    <p class="col-lg-10">
+    <p class="col-lg-10" style="font-size:0.8rem !important;">
      AutoShapeType.DOWN_ARROW_CALLOUT
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_left_callout.png" align="left" width="28" height="28">
-    <p class="col-lg-10">
+    <p class="col-lg-10" style="font-size:0.8rem !important;">
      AutoShapeType.LEFT_ARROW_CALLOUT
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_up_callout.png" align="left" width="28" height="28">
-    <p class="col-lg-10">
+    <p class="col-lg-10" style="font-size:0.8rem !important;">
      AutoShapeType.UP_ARROW_CALLOUT
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_left_right_callout.png" align="left" width="28" height="28">
-    <p class="col-lg-10">
+    <p class="col-lg-10" style="font-size:0.8rem !important;">
      AutoShapeType.LEFT_RIGHT_ARROW_CALLOUT
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_quad_callout.png" align="left" width="28" height="28">
-    <p class="col-lg-10">
+    <p class="col-lg-10" style="font-size:0.8rem !important;">
      AutoShapeType.QUAD_ARROW_CALLOUT
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_circular.png" align="left" width="28" height="28">
-    <p class="col-lg-10">
+    <p class="col-lg-10" style="font-size:0.8rem !important;">
      AutoShapeType.CIRCULAR_ARROW
     </p>
    </div>

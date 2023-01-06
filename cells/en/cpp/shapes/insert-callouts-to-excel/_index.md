@@ -182,7 +182,7 @@ The sample code below demonstrates how to insert a "Thought Bubble: Cloud". For 
 {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
 
 
-{{% blocks/products/pf/agp/content h2="About Aspose.Cells for Java API" %}}
+{{% blocks/products/pf/agp/content h2="About Aspose.Cells for C++ API" %}}
 
 Aspose.Cells API can be used to create, edit, convert and render Microsoft Excel formats to different formats. Moreover, it can be used for comprehensive charting, scalable reporting and reliable calculations within software applications. Aspose.Cells is a standalone API and it does not require any software like Microsoft or OpenOffice.  
 

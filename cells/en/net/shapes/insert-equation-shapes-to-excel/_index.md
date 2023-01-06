@@ -81,8 +81,6 @@ The sample code below demonstrates how to insert a "math plus". For more types, 
     Overview of Equation Shape Types
    </h2>
    <div class="col-lg-4">
-    <!--em class="fa fa-chrome ico-blue fa-2x col-lg-2">
-    </em-->
     <img src="/cells/net/shapes/insert-equation-shapes-to-excel/plus.png" align="left" width="28" height="28">
     <p class="col-lg-10">
      AutoShapeType.MathPlus

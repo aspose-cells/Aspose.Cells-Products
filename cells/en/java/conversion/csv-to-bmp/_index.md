@@ -44,9 +44,14 @@ description: Convert CSV to BMP format in Java code. Save CSV as BMP using Java.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+{{% blocks/products/pf/agp/content h2="Java Spreadsheet Manipulation Library" %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Steps to Convert CSV to BMP via Java" %}}
+ Excel API can be used to create, edit, convert and render Microsoft Excel formats to different formats. Moreover, it can be used for comprehensive charting, scalable reporting and reliable calculations within software applications. Aspose.Cells is a standalone API and it does not require any software like Microsoft or OpenOffice.  
+
+{{% /blocks/products/pf/agp/content %}}
+
+
+{{% blocks/products/pf/agp/content h2="How to Convert CSV to BMP via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -59,9 +64,9 @@ description: Convert CSV to BMP format in Java code. Save CSV as BMP using Java.
 1.  Pass output path with BMP extension as parameter
 1.  Check specified path for resultant BMP file
 
-{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="System Requirements" %}}
+{{% blocks/products/pf/agp/content h2="System Requirements" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -72,19 +77,12 @@ description: Convert CSV to BMP format in Java code. Save CSV as BMP using Java.
 - Microsoft Windows or a compatible OS with Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 - Get latest version of Aspose.Cells for Java directly from Maven.
 
-{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% /blocks/products/pf/agp/content %}}
 
-{{< /blocks/products/pf/agp/feature-section >}}
 
 {{% cells-convert title="Free App and Sample Code to Convert CSV to BMP" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="csv" outformat="bmp" IsLandingPage="true" language="java" %}}
 
 <!-- aboutfile Starts -->
-
-    {{% blocks/products/pf/agp/content h2="Java Spreadsheet Manipulation Library" %}}
-
- Excel API can be used to create, edit, convert and render Microsoft Excel formats to different formats. Moreover, it can be used for comprehensive charting, scalable reporting and reliable calculations within software applications. Aspose.Cells is a standalone API and it does not require any software like Microsoft or OpenOffice.  
-
-    {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
 

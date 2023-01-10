@@ -15,9 +15,14 @@ description: Convert EXCEL to IMAGE format in C# code. Save EXCEL as IMAGE using
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+{{% blocks/products/pf/agp/content h2="" %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Steps to Convert EXCEL to IMAGE via C#" %}}
+ An Excel Spreadsheet Programming Library capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. C# Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT and more, thus making it a perfect choice to exchange documents in industry-standard formats.
+
+{{% /blocks/products/pf/agp/content %}}
+
+
+{{% blocks/products/pf/agp/content h2="How to Convert EXCEL to IMAGE via C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -30,9 +35,9 @@ description: Convert EXCEL to IMAGE format in C# code. Save EXCEL as IMAGE using
 1.  Pass output file name with extension, such as BMP, JPG, PNG, GIF, etc.
 1.  Check specified path for resultant IMAGE file
 
-{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="System Requirements" %}}
+{{% blocks/products/pf/agp/content h2="System Requirements" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -44,9 +49,8 @@ description: Convert EXCEL to IMAGE format in C# code. Save EXCEL as IMAGE using
 -  Development environment like Microsoft Visual Studio.
 -  Our product is fully cross-platform and supports Windows, Linux, MacOS, Azure, AWS Lambda.
 
-{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% /blocks/products/pf/agp/content %}}
 
-{{< /blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Convert EXCEL to IMAGE" %}}
 Inter-conversion of spreadsheet format only requires loading a spreadsheet with an instance of [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) and saving back in the desired format while selecting appropriate value from [SaveFormat](https://reference.aspose.com/cells/net/aspose.cells/saveformat) enumeration.
@@ -57,11 +61,6 @@ Inter-conversion of spreadsheet format only requires loading a spreadsheet with 
  
 <!-- aboutfile Starts -->
 
-    {{% blocks/products/pf/agp/content h2="" %}}
-
- An Excel Spreadsheet Programming Library capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. C# Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT and more, thus making it a perfect choice to exchange documents in industry-standard formats.
-
-    {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Ends -->
 

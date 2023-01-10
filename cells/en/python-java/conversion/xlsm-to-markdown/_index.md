@@ -15,9 +15,13 @@ description: Convert XLSM to MARKDOWN format in Python code. Save XLSM as MARKDO
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+{{% blocks/products/pf/agp/content h2="" %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Steps to Convert XLSM to MARKDOWN via Python" %}}
+ An Excel Spreadsheet Programming Library capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. Python Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT and more, thus making it a perfect choice to exchange documents in industry-standard formats.
+
+{{% /blocks/products/pf/agp/content %}}
+
+{{% blocks/products/pf/agp/content h2="How to Convert XLSM to MARKDOWN via Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -30,9 +34,9 @@ description: Convert XLSM to MARKDOWN format in Python code. Save XLSM as MARKDO
 1.  Pass output path with MD extension as parameter
 1.  Check specified path for resultant MARKDOWN file
 
-{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="System Requirements" %}}
+{{% blocks/products/pf/agp/content h2="System Requirements" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -43,19 +47,12 @@ description: Convert XLSM to MARKDOWN format in Python code. Save XLSM as MARKDO
 - Install Java and add it to PATH environment variable, for example: <code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 - Install Aspose.Cells for Python from <a href="https://pypi.org/project/aspose-cells/">pypi</a>, use command as: <code>$ pip install aspose-cells</code>.
 
-{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% /blocks/products/pf/agp/content %}}
 
-{{< /blocks/products/pf/agp/feature-section >}}
 
 {{% cells-convert title="Free App and Sample Code to Convert XLSM to MARKDOWN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="md" IsLandingPage="true" language="pythonjava" %}}
  
 <!-- aboutfile Starts -->
-
-    {{% blocks/products/pf/agp/content h2="" %}}
-
- An Excel Spreadsheet Programming Library capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. Python Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT and more, thus making it a perfect choice to exchange documents in industry-standard formats.
-
-    {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
 

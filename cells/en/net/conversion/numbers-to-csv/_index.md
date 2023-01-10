@@ -25,9 +25,14 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+{{% blocks/products/pf/agp/content h2="" %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Steps to Convert NUMBERS to CSV via C#" %}}
+ An Excel Spreadsheet Programming Library capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. .NET Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT and more, thus making it a perfect choice to exchange documents in industry-standard formats.
+
+{{% /blocks/products/pf/agp/content %}}
+
+
+{{% blocks/products/pf/agp/content h2="How to Convert NUMBERS to CSV via C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -40,9 +45,9 @@ PM> Install-Package Aspose.Cells
 1.  Pass output path with CSV extension as parameter
 1.  Check specified path for resultant CSV file
 
-{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="System Requirements" %}}
+{{% blocks/products/pf/agp/content h2="System Requirements" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -54,19 +59,13 @@ PM> Install-Package Aspose.Cells
 -  Development environment like Microsoft Visual Studio.
 -  Add reference to the Aspose.Cells for .NET DLL in your project. 
 
-{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% /blocks/products/pf/agp/content %}}
 
-{{< /blocks/products/pf/agp/feature-section >}}
 
 {{% cells-convert title="Free App and Sample Code to Convert NUMBERS to CSV" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="csv" IsLandingPage="true" %}}
  
 <!-- aboutfile Starts -->
 
-    {{% blocks/products/pf/agp/content h2="" %}}
-
- An Excel Spreadsheet Programming Library capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. .NET Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT and more, thus making it a perfect choice to exchange documents in industry-standard formats.
-
-    {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
 

@@ -25,9 +25,13 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+{{% blocks/products/pf/agp/content h2="C++ Excel File Manipulation Library" %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Steps to Convert TABDELIMITED to PNG via C++" %}}
+ Excel API can be used to create, edit, convert and render Microsoft Excel formats to different formats. Moreover, it can be used for comprehensive charting, scalable reporting and reliable calculations within software applications. Aspose.Cells is a standalone API and it does not require any software like Microsoft or OpenOffice.  
+
+{{% /blocks/products/pf/agp/content %}}
+
+{{% blocks/products/pf/agp/content h2="How to Convert TABDELIMITED to PNG via C++" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -40,9 +44,9 @@ PM> Install-Package Aspose.Cells.Cpp
 1. Pass the output file path with (PNG) file extension.
 1. Open the PNG file in compatible program.
 
-{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="System Requirements" %}}
+{{% blocks/products/pf/agp/content h2="System Requirements" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -53,19 +57,12 @@ PM> Install-Package Aspose.Cells.Cpp
 - Microsoft Windows or a compatible OS with C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 - Add reference to the Aspose.Cells for C++ DLL in your project.
 
-{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% /blocks/products/pf/agp/content %}}
 
-{{< /blocks/products/pf/agp/feature-section >}}
 
 {{% cells-convert title="Free App and Sample Code to Convert TABDELIMITED to PNG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="png" IsLandingPage="true" language="cpp" %}}
  
 <!-- aboutfile Starts -->
-
-    {{% blocks/products/pf/agp/content h2="C++ Excel File Manipulation Library" %}}
-
- Excel API can be used to create, edit, convert and render Microsoft Excel formats to different formats. Moreover, it can be used for comprehensive charting, scalable reporting and reliable calculations within software applications. Aspose.Cells is a standalone API and it does not require any software like Microsoft or OpenOffice.  
-
-    {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
 

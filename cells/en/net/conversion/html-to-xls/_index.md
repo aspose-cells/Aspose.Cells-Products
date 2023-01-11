@@ -17,7 +17,7 @@ description: Convert HTML to XLS format in C# code. Save HTML as XLS using VB.NE
 
 {{% blocks/products/pf/agp/content h2="Convert HTML to XLS Using C#" %}}
 
- In order to convert HTML to XLS, we will use [Aspose.Cells for .NET](https://products.aspose.com/cells/net) API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C# platform. Open [NuGet](https://www.nuget.org/packages/aspose.cells) package manager, search for Aspose.Cells and install. You may also use the following command from the Package Manager Console.
+ Convert programmatically HTML to XLS format with a modern .NET API. Use just a few lines of code to convert HTML to XLS. The Aspose.Cells library will allow any developer to easily solve the tasks of converting HTML to XLS using the .NET. For a more detailed description of the code snippet and other possible conversion formats, see the [Documentation](https://docs.aspose.com/cells/net) pages. With Aspose.Cells for .NET library you can convert HTML to XLS programmatically. Excel software from Aspose is ideal for individuals, small or large businesses. Since it is able to process a large amount of information, perform the conversion quickly and efficiently and protect your data. In order to convert HTML to XLS, we will use [Aspose.Cells for .NET](https://products.aspose.com/cells/net) API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C# platform. Open [NuGet](https://www.nuget.org/packages/aspose.cells) package manager, search for Aspose.Cells and install. You may also use the following command from the Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
 

@@ -17,7 +17,7 @@ description: Convert SXC to HTML format in C# code. Save SXC as HTML using VB.NE
 
 {{% blocks/products/pf/agp/content h2="Convert SXC to HTML Using C#" %}}
 
- In order to convert SXC to HTML, we will use [Aspose.Cells for .NET](https://products.aspose.com/cells/net) API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C# platform. Open [NuGet](https://www.nuget.org/packages/aspose.cells) package manager, search for Aspose.Cells and install. You may also use the following command from the Package Manager Console.
+ Convert programmatically SXC to HTML format with a modern .NET API. Use just a few lines of code to convert SXC to HTML. The Aspose.Cells library will allow any developer to easily solve the tasks of converting SXC to HTML using the .NET. For a more detailed description of the code snippet and other possible conversion formats, see the [Documentation](https://docs.aspose.com/cells/net) pages. With Aspose.Cells for .NET library you can convert SXC to HTML programmatically. Excel software from Aspose is ideal for individuals, small or large businesses. Since it is able to process a large amount of information, perform the conversion quickly and efficiently and protect your data. In order to convert SXC to HTML, we will use [Aspose.Cells for .NET](https://products.aspose.com/cells/net) API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C# platform. Open [NuGet](https://www.nuget.org/packages/aspose.cells) package manager, search for Aspose.Cells and install. You may also use the following command from the Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
 

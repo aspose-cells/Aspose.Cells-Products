@@ -17,7 +17,7 @@ description: Convert ODS to XLS format in C# code. Save ODS as XLS using VB.NET,
 
 {{% blocks/products/pf/agp/content h2="Convert ODS to XLS Using C#" %}}
 
- In order to convert ODS to XLS, we will use [Aspose.Cells for .NET](https://products.aspose.com/cells/net) API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C# platform. Open [NuGet](https://www.nuget.org/packages/aspose.cells) package manager, search for Aspose.Cells and install. You may also use the following command from the Package Manager Console.
+ Convert programmatically ODS to XLS format with a modern .NET API. Use just a few lines of code to convert ODS to XLS. The Aspose.Cells library will allow any developer to easily solve the tasks of converting ODS to XLS using the .NET. For a more detailed description of the code snippet and other possible conversion formats, see the [Documentation](https://docs.aspose.com/cells/net) pages. With Aspose.Cells for .NET library you can convert ODS to XLS programmatically. Excel software from Aspose is ideal for individuals, small or large businesses. Since it is able to process a large amount of information, perform the conversion quickly and efficiently and protect your data. In order to convert ODS to XLS, we will use [Aspose.Cells for .NET](https://products.aspose.com/cells/net) API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C# platform. Open [NuGet](https://www.nuget.org/packages/aspose.cells) package manager, search for Aspose.Cells and install. You may also use the following command from the Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
 

@@ -31,7 +31,7 @@ PM> Install-Package Aspose.Cells
 
  Aspose.Cells for .NET is supported on all major operating systems. Just make sure that you have the following prerequisites.
  
--  Microsoft Windows or a compatible OS with .NET, .NET Core, Mono or Xamarin Platforms.
+-  Microsoft Windows or a compatible OS with .NET, .NET Core or Mono Platforms.
 -  Development environment like Microsoft Visual Studio.
 -  Our product is fully cross-platform and supports Windows, Linux, MacOS, Azure, AWS Lambda.
 

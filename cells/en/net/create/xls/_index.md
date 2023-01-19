@@ -28,7 +28,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Just make sure that system have Microsoft Windows or a compatible OS with .NET Framework, .NET Core, Windows Azure, Mono or Xamarin Platforms as well as development environment like Microsoft Visual Studio. 
+ Just make sure that system have Microsoft Windows or a compatible OS with .NET Framework, .NET Core, Windows Azure or Mono Platforms as well as development environment like Microsoft Visual Studio. 
 
 {{% /blocks/products/pf/agp/text %}}
 

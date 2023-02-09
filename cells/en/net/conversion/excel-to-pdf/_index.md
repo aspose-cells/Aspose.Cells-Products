@@ -24,6 +24,46 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
+{{% blocks/products/pf/agp/content h2="Save EXCEL to PDF in C# online" %}}
+
+The following example demonstrates how to convert EXCEL to PDF document format in C#.
+{{% blocks/products/pf/agp/text %}}
+
+Follow the easy steps to turn a Excel file into PDF format. Read Excel file from the local drive, then simply save it as PDF, specifying the required file format by PDF extension. For both Excel reading and PDF writing you can use fully qualified filenames. The output PDF content and formatting will be identical to the original Excel document.
+
+{{% /blocks/products/pf/agp/text %}}
+
+{{% /blocks/products/pf/agp/content %}}
+
+{{% cells-convert title="Free App and Sample Code to Convert EXCEL to PDF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="pdf" IsLandingPage="true" %}}
+
+
+{{% blocks/products/pf/agp/content h2="How to convert EXCEL to PDF via C#" %}}
+
+{{% blocks/products/pf/agp/text %}}
+
+.NET developers can easily load & convert EXCEL files to PDF in just a few lines of code.
+
+{{% /blocks/products/pf/agp/text %}}
+
+1.  Load EXCEL file with an instance of Workbook
+1.  Convert EXCEL to PDF by calling Workbook.Save method
+
+{{% /blocks/products/pf/agp/content %}}
+
+{{% blocks/products/pf/agp/content h2="C# library to convert EXCEL to PDF" %}}
+
+{{% blocks/products/pf/agp/text %}}
+
+There are two alternative options to install "Aspose.Cells for .NET" onto your system. Please choose one that resembles your needs and follow the step-by-step instructions:
+
+{{% /blocks/products/pf/agp/text %}}
+
+1.  Install a [NuGet Package](https://www.nuget.org/packages/Aspose.Cells/). See [Documentation](https://docs.aspose.com/cells/net/installation/#install-asposecells-for-net-through-nuget)
+1.  Install the library using [Package Manager Console](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console) within Visual Studio IDE
+
+{{% /blocks/products/pf/agp/content %}}
+
 {{% blocks/products/pf/agp/content h2="System Requirements" %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -38,20 +78,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="How to Convert EXCEL to PDF via C#" %}}
 
-{{% blocks/products/pf/agp/text %}}
-
- .NET developers can easily load & convert EXCEL files to PDF in just a few lines of code.
-
-{{% /blocks/products/pf/agp/text %}}
-
-1.  Load EXCEL file with an instance of Workbook
-1.  Convert EXCEL to PDF by calling Workbook.Save method
-
-{{% /blocks/products/pf/agp/content %}}
-
-{{% cells-convert title="Free App and Sample Code to Convert EXCEL to PDF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="pdf" IsLandingPage="true" %}}
  
 <!-- aboutfile Starts -->
 

@@ -24,19 +24,18 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="System Requirements" %}}
+{{% blocks/products/pf/agp/content h2="Save XLSB to XLS in C# Online for Free" %}}
 
+The following example demonstrates how to convert XLSB to XLS document format in C#.
 {{% blocks/products/pf/agp/text %}}
 
- Before running the .NET conversion example code, make sure that you have the following prerequisites.
+Follow the easy steps to convert XLSB file into XLS format. Upload your XLSB file, then simply save it as XLS file. For both XLSB reading and XLS writing you can use fully qualified filenames. The output XLS content and formatting will be identical to the original XLSB document.
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows or a compatible OS with .NET, .NET Core, Windows Azure or Mono Platforms..
--  Development environment like Microsoft Visual Studio.
--  Add reference to the Aspose.Cells for .NET DLL in your project. 
-
 {{% /blocks/products/pf/agp/content %}}
+
+{{% cells-convert title="Free App and Sample Code to Convert XLSB to XLS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="xls" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSB to XLS via C#" %}}
 
@@ -51,7 +50,33 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLSB to XLS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="xls" IsLandingPage="true" %}}
+{{% blocks/products/pf/agp/content h2="C# library to convert XLSB to XLS" %}}
+
+{{% blocks/products/pf/agp/text %}}
+
+There are two alternative options to install "Aspose.Cells for .NET" onto your system. Please choose one that resembles your needs and follow the step-by-step instructions:
+
+{{% /blocks/products/pf/agp/text %}}
+
+1.  Install a [NuGet Package](https://www.nuget.org/packages/Aspose.Cells/). See [Documentation](https://docs.aspose.com/cells/net/installation/#install-asposecells-for-net-through-nuget)
+1.  Install the library using [Package Manager Console](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console) within Visual Studio IDE
+
+{{% /blocks/products/pf/agp/content %}}
+
+{{% blocks/products/pf/agp/content h2="System Requirements" %}}
+
+{{% blocks/products/pf/agp/text %}}
+
+ Before running the .NET conversion example code, make sure that you have the following prerequisites.
+
+{{% /blocks/products/pf/agp/text %}}
+
+-  Microsoft Windows or a compatible OS with .NET, .NET Core, Windows Azure or Mono Platforms..
+-  Development environment like Microsoft Visual Studio.
+-  Add reference to the Aspose.Cells for .NET DLL in your project. 
+
+{{% /blocks/products/pf/agp/content %}}
+
  
 <!-- aboutfile Starts -->
 

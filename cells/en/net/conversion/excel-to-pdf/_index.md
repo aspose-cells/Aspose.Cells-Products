@@ -24,12 +24,12 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save EXCEL to PDF in C# online" %}}
+{{% blocks/products/pf/agp/content h2="Save EXCEL to PDF in C# Online for Free" %}}
 
 The following example demonstrates how to convert EXCEL to PDF document format in C#.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to turn a Excel file into PDF format. Read Excel file from the local drive, then simply save it as PDF, specifying the required file format by PDF extension. For both Excel reading and PDF writing you can use fully qualified filenames. The output PDF content and formatting will be identical to the original Excel document.
+Follow the easy steps to convert EXCEL file into PDF format. Upload your EXCEL file, then simply save it as PDF file. For both EXCEL reading and PDF writing you can use fully qualified filenames. The output PDF content and formatting will be identical to the original EXCEL document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -37,12 +37,11 @@ Follow the easy steps to turn a Excel file into PDF format. Read Excel file from
 
 {{% cells-convert title="Free App and Sample Code to Convert EXCEL to PDF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="pdf" IsLandingPage="true" %}}
 
-
-{{% blocks/products/pf/agp/content h2="How to convert EXCEL to PDF via C#" %}}
+{{% blocks/products/pf/agp/content h2="How to Convert EXCEL to PDF via C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-.NET developers can easily load & convert EXCEL files to PDF in just a few lines of code.
+ .NET developers can easily load & convert EXCEL files to PDF in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -77,7 +76,6 @@ There are two alternative options to install "Aspose.Cells for .NET" onto your s
 -  Add reference to the Aspose.Cells for .NET DLL in your project. 
 
 {{% /blocks/products/pf/agp/content %}}
-
 
  
 <!-- aboutfile Starts -->

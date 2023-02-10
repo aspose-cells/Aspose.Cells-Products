@@ -39,7 +39,7 @@ With Aspose.Cells for Python library, you can easily convert ODS to JSON program
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Load ODS file with an instance of Workbook
-1.  Convert ODS to JSON by calling Workbook.Save method
+1.  Convert ODS to JSON by calling Workbook.save method
 
 {{% /blocks/products/pf/agp/content %}}
 

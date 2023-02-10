@@ -39,7 +39,7 @@ With Aspose.Cells for Python library, you can easily convert NUMBERS to PNG prog
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Load NUMBERS file with an instance of Workbook
-1.  Convert NUMBERS to PNG by calling Workbook.Save method
+1.  Convert NUMBERS to PNG by calling Workbook.save method
 
 {{% /blocks/products/pf/agp/content %}}
 

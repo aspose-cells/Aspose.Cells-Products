@@ -39,7 +39,7 @@ With Aspose.Cells for Python library, you can easily convert XLT to XLTX program
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Load XLT file with an instance of Workbook
-1.  Convert XLT to XLTX by calling Workbook.Save method
+1.  Convert XLT to XLTX by calling Workbook.save method
 
 {{% /blocks/products/pf/agp/content %}}
 

@@ -39,7 +39,7 @@ With Aspose.Cells for Python library, you can easily convert XLTX to DIF program
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Load XLTX file with an instance of Workbook
-1.  Convert XLTX to DIF by calling Workbook.Save method
+1.  Convert XLTX to DIF by calling Workbook.save method
 
 {{% /blocks/products/pf/agp/content %}}
 

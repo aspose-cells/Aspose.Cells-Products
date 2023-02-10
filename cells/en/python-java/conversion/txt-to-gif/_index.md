@@ -39,7 +39,7 @@ With Aspose.Cells for Python library, you can easily convert TXT to GIF programm
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Load TXT file with an instance of Workbook
-1.  Convert TXT to GIF by calling Workbook.Save method
+1.  Convert TXT to GIF by calling Workbook.save method
 
 {{% /blocks/products/pf/agp/content %}}
 

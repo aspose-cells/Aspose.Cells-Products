@@ -39,7 +39,7 @@ With Aspose.Cells for Python library, you can easily convert MHTML to TXT progra
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Load MHTML file with an instance of Workbook
-1.  Convert MHTML to TXT by calling Workbook.Save method
+1.  Convert MHTML to TXT by calling Workbook.save method
 
 {{% /blocks/products/pf/agp/content %}}
 

@@ -39,7 +39,7 @@ With Aspose.Cells for Python library, you can easily convert JPG to EXCEL progra
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Load JPG file with an instance of Workbook
-1.  Convert JPG to EXCEL by calling Workbook.Save method
+1.  Convert JPG to EXCEL by calling Workbook.save method
 
 {{% /blocks/products/pf/agp/content %}}
 

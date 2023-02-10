@@ -39,7 +39,7 @@ With Aspose.Cells for Python library, you can easily convert XLSB to XLS program
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Load XLSB file with an instance of Workbook
-1.  Convert XLSB to XLS by calling Workbook.Save method
+1.  Convert XLSB to XLS by calling Workbook.save method
 
 {{% /blocks/products/pf/agp/content %}}
 

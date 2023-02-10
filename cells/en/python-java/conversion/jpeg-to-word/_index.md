@@ -39,7 +39,7 @@ With Aspose.Cells for Python library, you can easily convert JPEG to WORD progra
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Load JPEG file with an instance of Workbook
-1.  Convert JPEG to WORD by calling Workbook.Save method
+1.  Convert JPEG to WORD by calling Workbook.save method
 
 {{% /blocks/products/pf/agp/content %}}
 

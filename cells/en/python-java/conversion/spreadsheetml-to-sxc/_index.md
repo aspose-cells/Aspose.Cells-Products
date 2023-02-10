@@ -39,7 +39,7 @@ With Aspose.Cells for Python library, you can easily convert SPREADSHEETML to SX
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Load SPREADSHEETML file with an instance of Workbook
-1.  Convert SPREADSHEETML to SXC by calling Workbook.Save method
+1.  Convert SPREADSHEETML to SXC by calling Workbook.save method
 
 {{% /blocks/products/pf/agp/content %}}
 

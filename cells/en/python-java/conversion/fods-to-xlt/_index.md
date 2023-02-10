@@ -39,7 +39,7 @@ With Aspose.Cells for Python library, you can easily convert FODS to XLT program
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Load FODS file with an instance of Workbook
-1.  Convert FODS to XLT by calling Workbook.Save method
+1.  Convert FODS to XLT by calling Workbook.save method
 
 {{% /blocks/products/pf/agp/content %}}
 

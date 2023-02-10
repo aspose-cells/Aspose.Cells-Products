@@ -39,7 +39,7 @@ With Aspose.Cells for Python library, you can easily convert HTML to MARKDOWN pr
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Load HTML file with an instance of Workbook
-1.  Convert HTML to MARKDOWN by calling Workbook.Save method
+1.  Convert HTML to MARKDOWN by calling Workbook.save method
 
 {{% /blocks/products/pf/agp/content %}}
 

@@ -39,7 +39,7 @@ With Aspose.Cells for Python library, you can easily convert ODS to MD programma
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Load ODS file with an instance of Workbook
-1.  Convert ODS to MD by calling Workbook.Save method
+1.  Convert ODS to MD by calling Workbook.save method
 
 {{% /blocks/products/pf/agp/content %}}
 

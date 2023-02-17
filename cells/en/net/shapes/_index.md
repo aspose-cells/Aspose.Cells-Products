@@ -8,7 +8,7 @@ description: C# source codes that how to insert a shape into Microsoft Excel fil
 {{< blocks/products/pf/feature-page-header h1="Microsoft<sup>&reg;</sup> Excel shapes insertion via .NET" h2="Create Excel documents and insert shapes using server-side APIs in .NET-based applications." >}}
 {{% blocks/products/pf/feature-page-summary %}}
 
-In excel you can add shapes such as boxes, circles and arrows to documents, emails, slides and spreadsheets.To free you from a lot of manual insertion, the [.NET Excel Library](/cells/net/) API provides the same functionality.These APIs are very easy to use, usually only one line of code is needed to insert a specific shape, and a few lines of code can complete the insertion of batches of shapes.
+In excel you can add shapes such as boxes, circles and arrows to documents, emails, slides and spreadsheets.To free you from a lot of manual insertion, the [.NET Excel Library](https://releases.aspose.com/cells/net/) API provides the same functionality.These APIs are very easy to use, usually only one line of code is needed to insert a specific shape, and a few lines of code can complete the insertion of batches of shapes.
 
 {{% /blocks/products/pf/feature-page-summary  %}}
 

@@ -33,7 +33,7 @@ To solve these problems, we recommend you to use the [Aspose.Cells](https://prod
 
 {{% blocks/products/pf/agp/content h2="How to Insert SVG images/Icons into Excel File Using Microsoft Excel" %}}
 
-![](/cells/net/icons/insert-icons-to-excel/smaple.png)
+![](/cells/net/icons/insert-icons-to-excel/sample.png)
 
 Microsoft Excel provides us with three ways to insert svg:
 

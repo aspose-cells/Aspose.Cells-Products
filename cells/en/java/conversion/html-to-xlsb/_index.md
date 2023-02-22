@@ -45,18 +45,18 @@ With Aspose.Cells for Java library, you can easily convert HTML to XLSB programm
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="System Requirements" %}}
+{{% blocks/products/pf/agp/content h2="Save HTML to XLSB in Java Online for Free" %}}
 
+The following example demonstrates how to convert HTML to XLSB document format in Java.
 {{% blocks/products/pf/agp/text %}}
 
- Before running the Java conversion source code, make sure that you have the following prerequisites.
+Follow the easy steps to convert HTML file into XLSB format. Upload your HTML file, then simply save it as XLSB file. For both HTML reading and XLSB writing you can use fully qualified filenames. The output XLSB content and formatting will be identical to the original HTML document.
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows or a compatible OS with Java Runtime Environment for JSP/JSF Application and Desktop Applications.
-- Get latest version of Aspose.Cells for Java directly from Maven.
-
 {{% /blocks/products/pf/agp/content %}}
+
+{{% cells-convert title="Free App and Sample Code to Convert HTML to XLSB" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="xlsb" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert HTML to XLSB via Java" %}}
 
@@ -71,7 +71,26 @@ With Aspose.Cells for Java library, you can easily convert HTML to XLSB programm
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert HTML to XLSB" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="xlsb" IsLandingPage="true" language="java" %}}
+{{% blocks/products/pf/agp/content h2="Java library to convert HTML to XLSB" %}}
+{{% blocks/products/pf/agp/text %}}
+
+We host our Java packages in [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) repositories. 'Aspose.Cells for Java' is a common JAR file containing byte-code. Please follow the [step-by-step instructions](https://docs.aspose.com/cells/java/installation/) on how to install it to your Java developer environment.
+
+{{% /blocks/products/pf/agp/text %}}
+{{% /blocks/products/pf/agp/content %}}
+
+{{% blocks/products/pf/agp/content h2="System Requirements" %}}
+
+{{% blocks/products/pf/agp/text %}}
+
+ Before running the Java conversion source code, make sure that you have the following prerequisites.
+
+{{% /blocks/products/pf/agp/text %}}
+
+- Microsoft Windows or a compatible OS with Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+- Get latest version of Aspose.Cells for Java directly from Maven.
+
+{{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
 

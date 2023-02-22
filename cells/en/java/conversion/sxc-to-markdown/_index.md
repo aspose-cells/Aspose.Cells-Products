@@ -45,18 +45,18 @@ With Aspose.Cells for Java library, you can easily convert SXC to MARKDOWN progr
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="System Requirements" %}}
+{{% blocks/products/pf/agp/content h2="Save SXC to MARKDOWN in Java Online for Free" %}}
 
+The following example demonstrates how to convert SXC to MARKDOWN document format in Java.
 {{% blocks/products/pf/agp/text %}}
 
- Before running the Java conversion source code, make sure that you have the following prerequisites.
+Follow the easy steps to convert SXC file into MARKDOWN format. Upload your SXC file, then simply save it as MARKDOWN file. For both SXC reading and MARKDOWN writing you can use fully qualified filenames. The output MARKDOWN content and formatting will be identical to the original SXC document.
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows or a compatible OS with Java Runtime Environment for JSP/JSF Application and Desktop Applications.
-- Get latest version of Aspose.Cells for Java directly from Maven.
-
 {{% /blocks/products/pf/agp/content %}}
+
+{{% cells-convert title="Free App and Sample Code to Convert SXC to MARKDOWN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="md" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert SXC to MARKDOWN via Java" %}}
 
@@ -71,7 +71,26 @@ With Aspose.Cells for Java library, you can easily convert SXC to MARKDOWN progr
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert SXC to MARKDOWN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="md" IsLandingPage="true" language="java" %}}
+{{% blocks/products/pf/agp/content h2="Java library to convert SXC to MARKDOWN" %}}
+{{% blocks/products/pf/agp/text %}}
+
+We host our Java packages in [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) repositories. 'Aspose.Cells for Java' is a common JAR file containing byte-code. Please follow the [step-by-step instructions](https://docs.aspose.com/cells/java/installation/) on how to install it to your Java developer environment.
+
+{{% /blocks/products/pf/agp/text %}}
+{{% /blocks/products/pf/agp/content %}}
+
+{{% blocks/products/pf/agp/content h2="System Requirements" %}}
+
+{{% blocks/products/pf/agp/text %}}
+
+ Before running the Java conversion source code, make sure that you have the following prerequisites.
+
+{{% /blocks/products/pf/agp/text %}}
+
+- Microsoft Windows or a compatible OS with Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+- Get latest version of Aspose.Cells for Java directly from Maven.
+
+{{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
 

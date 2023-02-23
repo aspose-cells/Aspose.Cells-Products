@@ -1,6 +1,7 @@
 ---
 title: Convert ODS to TXT via Java 
-description: Convert ODS to TXT format in Java code. Save ODS as TXT using Java.
+description: Free Online ODS Converter. Convert ODS to Word, Excel, PowerPoint, PDF, CSV, JPG, HTML, ODS, BMP, PNG, SVG, TIFF, XPS and more.
+keywords: Convert ODS, ODS Converter, ODS to PDF, ODS to Word, ODS to PPT, ODS to Image
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

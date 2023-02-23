@@ -1,6 +1,7 @@
 ---
 title: Convert XLT to DOCX via Java 
-description: Convert XLT to DOCX format in Java code. Save XLT as DOCX using Java.
+description: Free Online XLT Converter. Convert XLT to Word, Excel, PowerPoint, PDF, CSV, JPG, HTML, ODS, BMP, PNG, SVG, TIFF, XPS and more.
+keywords: Convert XLT, XLT Converter, XLT to PDF, XLT to Word, XLT to PPT, XLT to Image
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

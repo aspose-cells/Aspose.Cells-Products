@@ -1,6 +1,7 @@
 ---
 title: Convert XLTM to XPS via Java 
-description: Convert XLTM to XPS format in Java code. Save XLTM as XPS using Java.
+description: Free Online XLTM Converter. Convert XLTM to Word, Excel, PowerPoint, PDF, CSV, JPG, HTML, ODS, BMP, PNG, SVG, TIFF, XPS and more.
+keywords: Convert XLTM, XLTM Converter, XLTM to PDF, XLTM to Word, XLTM to PPT, XLTM to Image
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

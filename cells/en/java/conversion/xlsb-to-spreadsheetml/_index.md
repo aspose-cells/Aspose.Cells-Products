@@ -1,6 +1,7 @@
 ---
 title: Convert XLSB to SPREADSHEETML via Java 
-description: Convert XLSB to SPREADSHEETML format in Java code. Save XLSB as SPREADSHEETML using Java.
+description: Free Online XLSB Converter. Convert XLSB to Word, Excel, PowerPoint, PDF, CSV, JPG, HTML, ODS, BMP, PNG, SVG, TIFF, XPS and more.
+keywords: Convert XLSB, XLSB Converter, XLSB to PDF, XLSB to Word, XLSB to PPT, XLSB to Image
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,6 +1,7 @@
 ---
 title: Convert MHTML to DIF via Java 
-description: Convert MHTML to DIF format in Java code. Save MHTML as DIF using Java.
+description: Free Online MHTML Converter. Convert MHTML to Word, Excel, PowerPoint, PDF, CSV, JPG, HTML, ODS, BMP, PNG, SVG, TIFF, XPS and more.
+keywords: Convert MHTML, MHTML Converter, MHTML to PDF, MHTML to Word, MHTML to PPT, MHTML to Image
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

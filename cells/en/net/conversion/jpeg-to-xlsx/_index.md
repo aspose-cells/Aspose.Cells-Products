@@ -1,6 +1,7 @@
 ---
 title: Convert JPEG to XLSX via C#
-description: Convert JPEG to XLSX format in C# code. Save JPEG as XLSX using VB.NET, Asp.NET or any .NET based application.
+description: Free Online JPEG Converter. Convert JPEG to Word, Excel, PowerPoint, PDF, CSV, JPG, HTML, ODS, BMP, PNG, SVG, TIFF, XPS and more.
+keywords: Convert JPEG, JPEG Converter, JPEG to PDF, JPEG to Word, JPEG to PPT, JPEG to Image
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

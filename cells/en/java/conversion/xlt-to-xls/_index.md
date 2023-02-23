@@ -1,6 +1,7 @@
 ---
 title: Convert XLT to XLS via Java 
-description: Convert XLT to XLS format in Java code. Save XLT as XLS using Java.
+description: Free Online XLT Converter. Convert XLT to Word, Excel, PowerPoint, PDF, CSV, JPG, HTML, ODS, BMP, PNG, SVG, TIFF, XPS and more.
+keywords: Convert XLT, XLT Converter, XLT to PDF, XLT to Word, XLT to PPT, XLT to Image
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

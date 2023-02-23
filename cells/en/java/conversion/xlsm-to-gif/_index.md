@@ -1,6 +1,7 @@
 ---
 title: Convert XLSM to GIF via Java 
-description: Convert XLSM to GIF format in Java code. Save XLSM as GIF using Java.
+description: Free Online XLSM Converter. Convert XLSM to Word, Excel, PowerPoint, PDF, CSV, JPG, HTML, ODS, BMP, PNG, SVG, TIFF, XPS and more.
+keywords: Convert XLSM, XLSM Converter, XLSM to PDF, XLSM to Word, XLSM to PPT, XLSM to Image
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

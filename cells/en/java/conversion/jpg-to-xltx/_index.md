@@ -1,6 +1,7 @@
 ---
 title: Convert JPG to XLTX via Java 
-description: Convert JPG to XLTX format in Java code. Save JPG as XLTX using Java.
+description: Free Online JPG Converter. Convert JPG to Word, Excel, PowerPoint, PDF, CSV, JPG, HTML, ODS, BMP, PNG, SVG, TIFF, XPS and more.
+keywords: Convert JPG, JPG Converter, JPG to PDF, JPG to Word, JPG to PPT, JPG to Image
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

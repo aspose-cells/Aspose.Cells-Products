@@ -1,6 +1,7 @@
 ---
 title: Convert FODS to MHTML via C#
-description: Convert FODS to MHTML format in C# code. Save FODS as MHTML using VB.NET, Asp.NET or any .NET based application.
+description: Free Online FODS Converter. Convert FODS to Word, Excel, PowerPoint, PDF, CSV, JPG, HTML, ODS, BMP, PNG, SVG, TIFF, XPS and more.
+keywords: Convert FODS, FODS Converter, FODS to PDF, FODS to Word, FODS to PPT, FODS to Image
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

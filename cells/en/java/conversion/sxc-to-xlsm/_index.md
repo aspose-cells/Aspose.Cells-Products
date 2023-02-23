@@ -1,6 +1,7 @@
 ---
 title: Convert SXC to XLSM via Java 
-description: Convert SXC to XLSM format in Java code. Save SXC as XLSM using Java.
+description: Free Online SXC Converter. Convert SXC to Word, Excel, PowerPoint, PDF, CSV, JPG, HTML, ODS, BMP, PNG, SVG, TIFF, XPS and more.
+keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC to Image
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,6 +1,7 @@
 ---
 title: Convert XLSB to CSV via C#
-description: Convert XLSB to CSV format in C# code. Save XLSB as CSV using VB.NET, Asp.NET or any .NET based application.
+description: Free Online XLSB Converter. Convert XLSB to Word, Excel, PowerPoint, PDF, CSV, JPG, HTML, ODS, BMP, PNG, SVG, TIFF, XPS and more.
+keywords: Convert XLSB, XLSB Converter, XLSB to PDF, XLSB to Word, XLSB to PPT, XLSB to Image
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

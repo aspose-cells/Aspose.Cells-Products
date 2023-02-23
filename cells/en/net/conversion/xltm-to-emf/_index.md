@@ -1,6 +1,7 @@
 ---
 title: Convert XLTM to EMF via C#
-description: Convert XLTM to EMF format in C# code. Save XLTM as EMF using VB.NET, Asp.NET or any .NET based application.
+description: Free Online XLTM Converter. Convert XLTM to Word, Excel, PowerPoint, PDF, CSV, JPG, HTML, ODS, BMP, PNG, SVG, TIFF, XPS and more.
+keywords: Convert XLTM, XLTM Converter, XLTM to PDF, XLTM to Word, XLTM to PPT, XLTM to Image
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

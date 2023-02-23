@@ -1,6 +1,7 @@
 ---
 title: Convert CSV to HTML via C#
-description: Convert CSV to HTML format in C# code. Save CSV as HTML using VB.NET, Asp.NET or any .NET based application.
+description: Free Online CSV Converter. Convert CSV to Word, Excel, PowerPoint, PDF, CSV, JPG, HTML, ODS, BMP, PNG, SVG, TIFF, XPS and more.
+keywords: Convert CSV, CSV Converter, CSV to PDF, CSV to Word, CSV to PPT, CSV to Image
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

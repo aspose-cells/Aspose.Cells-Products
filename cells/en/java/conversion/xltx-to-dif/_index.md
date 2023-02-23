@@ -1,6 +1,7 @@
 ---
 title: Convert XLTX to DIF via Java 
-description: Convert XLTX to DIF format in Java code. Save XLTX as DIF using Java.
+description: Free Online XLTX Converter. Convert XLTX to Word, Excel, PowerPoint, PDF, CSV, JPG, HTML, ODS, BMP, PNG, SVG, TIFF, XPS and more.
+keywords: Convert XLTX, XLTX Converter, XLTX to PDF, XLTX to Word, XLTX to PPT, XLTX to Image
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

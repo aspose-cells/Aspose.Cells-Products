@@ -1,6 +1,7 @@
 ---
 title: Convert JPEG to XLTM via Java 
-description: Convert JPEG to XLTM format in Java code. Save JPEG as XLTM using Java.
+description: Free Online JPEG Converter. Convert JPEG to Word, Excel, PowerPoint, PDF, CSV, JPG, HTML, ODS, BMP, PNG, SVG, TIFF, XPS and more.
+keywords: Convert JPEG, JPEG Converter, JPEG to PDF, JPEG to Word, JPEG to PPT, JPEG to Image
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

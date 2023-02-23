@@ -1,6 +1,7 @@
 ---
 title: Convert XLS to JPEG via Java 
-description: Convert XLS to JPEG format in Java code. Save XLS as JPEG using Java.
+description: Free Online XLS Converter. Convert XLS to Word, Excel, PowerPoint, PDF, CSV, JPG, HTML, ODS, BMP, PNG, SVG, TIFF, XPS and more.
+keywords: Convert XLS, XLS Converter, XLS to PDF, XLS to Word, XLS to PPT, XLS to Image
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

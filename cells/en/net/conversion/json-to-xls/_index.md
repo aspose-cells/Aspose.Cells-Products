@@ -1,6 +1,7 @@
 ---
 title: Convert JSON to XLS via C#
-description: Convert JSON to XLS format in C# code. Save JSON as XLS using VB.NET, Asp.NET or any .NET based application.
+description: Free Online JSON Converter. Convert JSON to Word, Excel, PowerPoint, PDF, CSV, JPG, HTML, ODS, BMP, PNG, SVG, TIFF, XPS and more.
+keywords: Convert JSON, JSON Converter, JSON to PDF, JSON to Word, JSON to PPT, JSON to Image
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

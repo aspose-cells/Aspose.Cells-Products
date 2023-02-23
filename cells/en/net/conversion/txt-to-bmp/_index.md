@@ -1,6 +1,7 @@
 ---
 title: Convert TXT to BMP via C#
-description: Convert TXT to BMP format in C# code. Save TXT as BMP using VB.NET, Asp.NET or any .NET based application.
+description: Free Online TXT Converter. Convert TXT to Word, Excel, PowerPoint, PDF, CSV, JPG, HTML, ODS, BMP, PNG, SVG, TIFF, XPS and more.
+keywords: Convert TXT, TXT Converter, TXT to PDF, TXT to Word, TXT to PPT, TXT to Image
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

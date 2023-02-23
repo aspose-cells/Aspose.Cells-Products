@@ -1,6 +1,7 @@
 ---
 title: Convert EXCEL to PDF via Java 
-description: Convert EXCEL to PDF format in Java code. Save EXCEL as PDF using Java.
+description: Free Online EXCEL Converter. Convert EXCEL to Word, Excel, PowerPoint, PDF, CSV, JPG, HTML, ODS, BMP, PNG, SVG, TIFF, XPS and more.
+keywords: Convert EXCEL, EXCEL Converter, EXCEL to PDF, EXCEL to Word, EXCEL to PPT, EXCEL to Image
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

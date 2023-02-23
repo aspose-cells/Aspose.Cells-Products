@@ -1,6 +1,7 @@
 ---
 title: Convert SXC to XLSM via C#
-description: Convert SXC to XLSM format in C# code. Save SXC as XLSM using VB.NET, Asp.NET or any .NET based application.
+description: Free Online SXC Converter. Convert SXC to Word, Excel, PowerPoint, PDF, CSV, JPG, HTML, ODS, BMP, PNG, SVG, TIFF, XPS and more.
+keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC to Image
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

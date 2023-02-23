@@ -1,6 +1,7 @@
 ---
 title: Convert MHTML to TIFF via Java 
-description: Convert MHTML to TIFF format in Java code. Save MHTML as TIFF using Java.
+description: Free Online MHTML Converter. Convert MHTML to Word, Excel, PowerPoint, PDF, CSV, JPG, HTML, ODS, BMP, PNG, SVG, TIFF, XPS and more.
+keywords: Convert MHTML, MHTML Converter, MHTML to PDF, MHTML to Word, MHTML to PPT, MHTML to Image
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

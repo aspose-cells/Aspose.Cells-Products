@@ -1,6 +1,7 @@
 ---
 title: Convert XLSM to TXT via C#
-description: Convert XLSM to TXT format in C# code. Save XLSM as TXT using VB.NET, Asp.NET or any .NET based application.
+description: Free Online XLSM Converter. Convert XLSM to Word, Excel, PowerPoint, PDF, CSV, JPG, HTML, ODS, BMP, PNG, SVG, TIFF, XPS and more.
+keywords: Convert XLSM, XLSM Converter, XLSM to PDF, XLSM to Word, XLSM to PPT, XLSM to Image
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

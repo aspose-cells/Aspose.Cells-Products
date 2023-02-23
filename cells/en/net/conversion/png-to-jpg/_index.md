@@ -1,6 +1,7 @@
 ---
 title: Convert PNG to JPG via C#
-description: Convert PNG to JPG format in C# code. Save PNG as JPG using VB.NET, Asp.NET or any .NET based application.
+description: Free Online PNG Converter. Convert PNG to Word, Excel, PowerPoint, PDF, CSV, JPG, HTML, ODS, BMP, PNG, SVG, TIFF, XPS and more.
+keywords: Convert PNG, PNG Converter, PNG to PDF, PNG to Word, PNG to PPT, PNG to Image
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,6 +1,7 @@
 ---
 title: Convert NUMBERS to TXT via Java 
-description: Convert NUMBERS to TXT format in Java code. Save NUMBERS as TXT using Java.
+description: Free Online NUMBERS Converter. Convert NUMBERS to Word, Excel, PowerPoint, PDF, CSV, JPG, HTML, ODS, BMP, PNG, SVG, TIFF, XPS and more.
+keywords: Convert NUMBERS, NUMBERS Converter, NUMBERS to PDF, NUMBERS to Word, NUMBERS to PPT, NUMBERS to Image
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,6 +1,7 @@
 ---
 title: Convert XLSX to XML via Java 
-description: Convert XLSX to XML format in Java code. Save XLSX as XML using Java.
+description: Free Online XLSX Converter. Convert XLSX to Word, Excel, PowerPoint, PDF, CSV, JPG, HTML, ODS, BMP, PNG, SVG, TIFF, XPS and more.
+keywords: Convert XLSX, XLSX Converter, XLSX to PDF, XLSX to Word, XLSX to PPT, XLSX to Image
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

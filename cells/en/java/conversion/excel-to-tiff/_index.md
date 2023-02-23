@@ -1,6 +1,7 @@
 ---
 title: Convert EXCEL to TIFF via Java 
-description: Convert EXCEL to TIFF format in Java code. Save EXCEL as TIFF using Java.
+description: Free Online EXCEL Converter. Convert EXCEL to Word, Excel, PowerPoint, PDF, CSV, JPG, HTML, ODS, BMP, PNG, SVG, TIFF, XPS and more.
+keywords: Convert EXCEL, EXCEL Converter, EXCEL to PDF, EXCEL to Word, EXCEL to PPT, EXCEL to Image
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

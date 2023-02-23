@@ -1,6 +1,7 @@
 ---
 title: Convert HTML to DOCX via C#
-description: Convert HTML to DOCX format in C# code. Save HTML as DOCX using VB.NET, Asp.NET or any .NET based application.
+description: Free Online HTML Converter. Convert HTML to Word, Excel, PowerPoint, PDF, CSV, JPG, HTML, ODS, BMP, PNG, SVG, TIFF, XPS and more.
+keywords: Convert HTML, HTML Converter, HTML to PDF, HTML to Word, HTML to PPT, HTML to Image
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,6 +1,7 @@
 ---
 title: Convert XLTX to FODS via C#
-description: Convert XLTX to FODS format in C# code. Save XLTX as FODS using VB.NET, Asp.NET or any .NET based application.
+description: Free Online XLTX Converter. Convert XLTX to Word, Excel, PowerPoint, PDF, CSV, JPG, HTML, ODS, BMP, PNG, SVG, TIFF, XPS and more.
+keywords: Convert XLTX, XLTX Converter, XLTX to PDF, XLTX to Word, XLTX to PPT, XLTX to Image
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

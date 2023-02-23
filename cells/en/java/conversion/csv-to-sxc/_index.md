@@ -1,6 +1,7 @@
 ---
 title: Convert CSV to SXC via Java 
-description: Convert CSV to SXC format in Java code. Save CSV as SXC using Java.
+description: Free Online CSV Converter. Convert CSV to Word, Excel, PowerPoint, PDF, CSV, JPG, HTML, ODS, BMP, PNG, SVG, TIFF, XPS and more.
+keywords: Convert CSV, CSV Converter, CSV to PDF, CSV to Word, CSV to PPT, CSV to Image
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

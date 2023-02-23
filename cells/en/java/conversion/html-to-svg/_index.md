@@ -1,6 +1,7 @@
 ---
 title: Convert HTML to SVG via Java 
-description: Convert HTML to SVG format in Java code. Save HTML as SVG using Java.
+description: Free Online HTML Converter. Convert HTML to Word, Excel, PowerPoint, PDF, CSV, JPG, HTML, ODS, BMP, PNG, SVG, TIFF, XPS and more.
+keywords: Convert HTML, HTML Converter, HTML to PDF, HTML to Word, HTML to PPT, HTML to Image
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,6 +1,7 @@
 ---
 title: Convert MHTML to TIFF via C#
-description: Convert MHTML to TIFF format in C# code. Save MHTML as TIFF using VB.NET, Asp.NET or any .NET based application.
+description: Free Online MHTML Converter. Convert MHTML to Word, Excel, PowerPoint, PDF, CSV, JPG, HTML, ODS, BMP, PNG, SVG, TIFF, XPS and more.
+keywords: Convert MHTML, MHTML Converter, MHTML to PDF, MHTML to Word, MHTML to PPT, MHTML to Image
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,6 +1,7 @@
 ---
 title: Convert JSON to MD via Java 
-description: Convert JSON to MD format in Java code. Save JSON as MD using Java.
+description: Free Online JSON Converter. Convert JSON to Word, Excel, PowerPoint, PDF, CSV, JPG, HTML, ODS, BMP, PNG, SVG, TIFF, XPS and more.
+keywords: Convert JSON, JSON Converter, JSON to PDF, JSON to Word, JSON to PPT, JSON to Image
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

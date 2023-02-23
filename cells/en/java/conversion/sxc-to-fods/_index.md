@@ -1,6 +1,7 @@
 ---
 title: Convert SXC to FODS via Java 
-description: Convert SXC to FODS format in Java code. Save SXC as FODS using Java.
+description: Free Online SXC Converter. Convert SXC to Word, Excel, PowerPoint, PDF, CSV, JPG, HTML, ODS, BMP, PNG, SVG, TIFF, XPS and more.
+keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC to Image
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

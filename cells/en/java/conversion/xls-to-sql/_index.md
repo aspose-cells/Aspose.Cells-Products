@@ -1,6 +1,7 @@
 ---
 title: Convert XLS to SQL via Java 
-description: Convert XLS to SQL format in Java code. Save XLS as SQL using Java.
+description: Free Online XLS Converter. Convert XLS to Word, Excel, PowerPoint, PDF, CSV, JPG, HTML, ODS, BMP, PNG, SVG, TIFF, XPS and more.
+keywords: Convert XLS, XLS Converter, XLS to PDF, XLS to Word, XLS to PPT, XLS to Image
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

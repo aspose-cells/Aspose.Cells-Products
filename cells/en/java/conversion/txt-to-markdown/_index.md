@@ -1,6 +1,7 @@
 ---
 title: Convert TXT to MARKDOWN via Java 
-description: Convert TXT to MARKDOWN format in Java code. Save TXT as MARKDOWN using Java.
+description: Free Online TXT Converter. Convert TXT to Word, Excel, PowerPoint, PDF, CSV, JPG, HTML, ODS, BMP, PNG, SVG, TIFF, XPS and more.
+keywords: Convert TXT, TXT Converter, TXT to PDF, TXT to Word, TXT to PPT, TXT to Image
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

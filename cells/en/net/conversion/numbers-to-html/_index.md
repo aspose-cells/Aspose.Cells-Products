@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to HTML via C#
-description: Free Online NUMBERS Converter. Convert NUMBERS to Word, Excel, PowerPoint, PDF, CSV, JPG, HTML, ODS, BMP, PNG, SVG, TIFF, XPS and more.
+description: Convert NUMBERS to HTML. Convert NUMBERS to HTML online for free. Convert NUMBERS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert NUMBERS, NUMBERS Converter, NUMBERS to PDF, NUMBERS to Word, NUMBERS to PPT, NUMBERS to Image
 ---
 

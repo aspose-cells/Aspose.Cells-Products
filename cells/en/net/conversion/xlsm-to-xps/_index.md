@@ -1,6 +1,6 @@
 ---
 title: Convert XLSM to XPS via C#
-description: Free Online XLSM Converter. Convert XLSM to Word, Excel, PowerPoint, PDF, CSV, JPG, HTML, ODS, BMP, PNG, SVG, TIFF, XPS and more.
+description: Convert XLSM to XPS. Convert XLSM to XPS online for free. Convert XLSM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert XLSM, XLSM Converter, XLSM to PDF, XLSM to Word, XLSM to PPT, XLSM to Image
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Convert XLTM to XLSB via C#
-description: Free Online XLTM Converter. Convert XLTM to Word, Excel, PowerPoint, PDF, CSV, JPG, HTML, ODS, BMP, PNG, SVG, TIFF, XPS and more.
+description: Convert XLTM to XLSB. Convert XLTM to XLSB online for free. Convert XLTM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert XLTM, XLTM Converter, XLTM to PDF, XLTM to Word, XLTM to PPT, XLTM to Image
 ---
 

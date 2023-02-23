@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to TIFF via Java 
-description: Free Online HTML Converter. Convert HTML to Word, Excel, PowerPoint, PDF, CSV, JPG, HTML, ODS, BMP, PNG, SVG, TIFF, XPS and more.
+description: Convert HTML to TIFF. Convert HTML to TIFF online for free. Convert HTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert HTML, HTML Converter, HTML to PDF, HTML to Word, HTML to PPT, HTML to Image
 ---
 

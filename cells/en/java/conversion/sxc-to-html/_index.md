@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to HTML via Java 
-description: Free Online SXC Converter. Convert SXC to Word, Excel, PowerPoint, PDF, CSV, JPG, HTML, ODS, BMP, PNG, SVG, TIFF, XPS and more.
+description: Convert SXC to HTML. Convert SXC to HTML online for free. Convert SXC to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC to Image
 ---
 

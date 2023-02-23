@@ -1,6 +1,6 @@
 ---
 title: Convert JPG to PPTX via Java 
-description: Free Online JPG Converter. Convert JPG to Word, Excel, PowerPoint, PDF, CSV, JPG, HTML, ODS, BMP, PNG, SVG, TIFF, XPS and more.
+description: Convert JPG to PPTX. Convert JPG to PPTX online for free. Convert JPG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert JPG, JPG Converter, JPG to PDF, JPG to Word, JPG to PPT, JPG to Image
 ---
 

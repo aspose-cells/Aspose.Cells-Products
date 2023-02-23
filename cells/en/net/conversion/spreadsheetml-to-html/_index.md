@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to HTML via C#
-description: Free Online SPREADSHEETML Converter. Convert SPREADSHEETML to Word, Excel, PowerPoint, PDF, CSV, JPG, HTML, ODS, BMP, PNG, SVG, TIFF, XPS and more.
+description: Convert SPREADSHEETML to HTML. Convert SPREADSHEETML to HTML online for free. Convert SPREADSHEETML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert SPREADSHEETML, SPREADSHEETML Converter, SPREADSHEETML to PDF, SPREADSHEETML to Word, SPREADSHEETML to PPT, SPREADSHEETML to Image
 ---
 

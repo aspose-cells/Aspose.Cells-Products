@@ -1,6 +1,6 @@
 ---
 title: Convert XLSX to CSV via C#
-description: Free Online XLSX Converter. Convert XLSX to Word, Excel, PowerPoint, PDF, CSV, JPG, HTML, ODS, BMP, PNG, SVG, TIFF, XPS and more.
+description: Convert XLSX to CSV. Convert XLSX to CSV online for free. Convert XLSX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert XLSX, XLSX Converter, XLSX to PDF, XLSX to Word, XLSX to PPT, XLSX to Image
 ---
 

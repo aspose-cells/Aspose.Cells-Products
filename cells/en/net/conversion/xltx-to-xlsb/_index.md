@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to XLSB via C#
-description: Free Online XLTX Converter. Convert XLTX to Word, Excel, PowerPoint, PDF, CSV, JPG, HTML, ODS, BMP, PNG, SVG, TIFF, XPS and more.
+description: Convert XLTX to XLSB. Convert XLTX to XLSB online for free. Convert XLTX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert XLTX, XLTX Converter, XLTX to PDF, XLTX to Word, XLTX to PPT, XLTX to Image
 ---
 

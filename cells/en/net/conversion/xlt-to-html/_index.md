@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to HTML via C#
-description: Free Online XLT Converter. Convert XLT to Word, Excel, PowerPoint, PDF, CSV, JPG, HTML, ODS, BMP, PNG, SVG, TIFF, XPS and more.
+description: Convert XLT to HTML. Convert XLT to HTML online for free. Convert XLT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert XLT, XLT Converter, XLT to PDF, XLT to Word, XLT to PPT, XLT to Image
 ---
 

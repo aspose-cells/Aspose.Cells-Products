@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to PDF via Java 
-description: Free Online XLT Converter. Convert XLT to Word, Excel, PowerPoint, PDF, CSV, JPG, HTML, ODS, BMP, PNG, SVG, TIFF, XPS and more.
+description: Convert XLT to PDF. Convert XLT to PDF online for free. Convert XLT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert XLT, XLT Converter, XLT to PDF, XLT to Word, XLT to PPT, XLT to Image
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to SXC via C#
-description: Free Online TABDELIMITED Converter. Convert TABDELIMITED to Word, Excel, PowerPoint, PDF, CSV, JPG, HTML, ODS, BMP, PNG, SVG, TIFF, XPS and more.
+description: Convert TABDELIMITED to SXC. Convert TABDELIMITED to SXC online for free. Convert TABDELIMITED to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert TABDELIMITED, TABDELIMITED Converter, TABDELIMITED to PDF, TABDELIMITED to Word, TABDELIMITED to PPT, TABDELIMITED to Image
 ---
 

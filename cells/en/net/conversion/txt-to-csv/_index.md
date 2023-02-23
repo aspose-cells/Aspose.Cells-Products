@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to CSV via C#
-description: Free Online TXT Converter. Convert TXT to Word, Excel, PowerPoint, PDF, CSV, JPG, HTML, ODS, BMP, PNG, SVG, TIFF, XPS and more.
+description: Convert TXT to CSV. Convert TXT to CSV online for free. Convert TXT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert TXT, TXT Converter, TXT to PDF, TXT to Word, TXT to PPT, TXT to Image
 ---
 

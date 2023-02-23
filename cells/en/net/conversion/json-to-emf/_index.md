@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to EMF via C#
-description: Free Online JSON Converter. Convert JSON to Word, Excel, PowerPoint, PDF, CSV, JPG, HTML, ODS, BMP, PNG, SVG, TIFF, XPS and more.
+description: Convert JSON to EMF. Convert JSON to EMF online for free. Convert JSON to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert JSON, JSON Converter, JSON to PDF, JSON to Word, JSON to PPT, JSON to Image
 ---
 

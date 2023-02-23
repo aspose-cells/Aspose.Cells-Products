@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to XLSM via Java 
-description: Free Online ODS Converter. Convert ODS to Word, Excel, PowerPoint, PDF, CSV, JPG, HTML, ODS, BMP, PNG, SVG, TIFF, XPS and more.
+description: Convert ODS to XLSM. Convert ODS to XLSM online for free. Convert ODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert ODS, ODS Converter, ODS to PDF, ODS to Word, ODS to PPT, ODS to Image
 ---
 

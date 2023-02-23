@@ -1,6 +1,6 @@
 ---
 title: Convert JPEG to GIF via Java 
-description: Free Online JPEG Converter. Convert JPEG to Word, Excel, PowerPoint, PDF, CSV, JPG, HTML, ODS, BMP, PNG, SVG, TIFF, XPS and more.
+description: Convert JPEG to GIF. Convert JPEG to GIF online for free. Convert JPEG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert JPEG, JPEG Converter, JPEG to PDF, JPEG to Word, JPEG to PPT, JPEG to Image
 ---
 

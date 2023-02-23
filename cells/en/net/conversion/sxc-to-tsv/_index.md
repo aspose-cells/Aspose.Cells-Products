@@ -36,7 +36,7 @@ Follow the easy steps to convert SXC file into TSV format. Upload your SXC file,
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert SXC to TSV" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="tsv" IsLandingPage="true" %}}
+{{% cells-convert title="Free App and Sample Code to Convert SXC to TSV Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="tsv" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert SXC to TSV via C#" %}}
 

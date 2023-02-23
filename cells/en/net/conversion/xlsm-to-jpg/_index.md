@@ -36,7 +36,7 @@ Follow the easy steps to convert XLSM file into JPG format. Upload your XLSM fil
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLSM to JPG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="jpg" IsLandingPage="true" %}}
+{{% cells-convert title="Free App and Sample Code to Convert XLSM to JPG Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="jpg" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSM to JPG via C#" %}}
 

@@ -36,7 +36,7 @@ Follow the easy steps to convert PNG file into HTML format. Upload your PNG file
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert PNG to HTML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="html" IsLandingPage="true" %}}
+{{% cells-convert title="Free App and Sample Code to Convert PNG to HTML Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="html" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert PNG to HTML via C#" %}}
 

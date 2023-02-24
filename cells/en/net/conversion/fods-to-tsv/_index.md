@@ -27,10 +27,10 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Save FODS to TSV in C# Online for Free" %}}
 
-The following example demonstrates how to convert FODS to TSV document format in C#.
+The following example demonstrates how to convert FODS to TSV in C#.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert FODS file into TSV format. Upload your FODS file, then simply save it as TSV file. For both FODS reading and TSV writing you can use fully qualified filenames. The output TSV content and formatting will be identical to the original FODS document.
+Follow the easy steps to convert FODS to TSV. Upload your FODS file, then simply save it as TSV file. For both FODS reading and TSV writing you can use fully qualified filenames. The output TSV content and formatting will be identical to the original FODS document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -42,7 +42,7 @@ Follow the easy steps to convert FODS file into TSV format. Upload your FODS fil
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET developers can easily load & convert FODS files to TSV in just a few lines of code.
+ .NET developers can easily load & convert FODS to TSV in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

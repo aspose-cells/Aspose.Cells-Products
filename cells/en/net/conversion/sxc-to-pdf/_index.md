@@ -27,10 +27,10 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Save SXC to PDF in C# Online for Free" %}}
 
-The following example demonstrates how to convert SXC to PDF document format in C#.
+The following example demonstrates how to convert SXC to PDF in C#.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert SXC file into PDF format. Upload your SXC file, then simply save it as PDF file. For both SXC reading and PDF writing you can use fully qualified filenames. The output PDF content and formatting will be identical to the original SXC document.
+Follow the easy steps to convert SXC to PDF. Upload your SXC file, then simply save it as PDF file. For both SXC reading and PDF writing you can use fully qualified filenames. The output PDF content and formatting will be identical to the original SXC document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -42,7 +42,7 @@ Follow the easy steps to convert SXC file into PDF format. Upload your SXC file,
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET developers can easily load & convert SXC files to PDF in just a few lines of code.
+ .NET developers can easily load & convert SXC to PDF in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

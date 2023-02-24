@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert XLS to XPS programmat
 
 {{% blocks/products/pf/agp/content h2="Save XLS to XPS in Java Online for Free" %}}
 
-The following example demonstrates how to convert XLS to XPS document format in Java.
+The following example demonstrates how to convert XLS to XPS in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert XLS file into XPS format. Upload your XLS file, then simply save it as XPS file. For both XLS reading and XPS writing you can use fully qualified filenames. The output XPS content and formatting will be identical to the original XLS document.
+Follow the easy steps to convert XLS to XPS. Upload your XLS file, then simply save it as XPS file. For both XLS reading and XPS writing you can use fully qualified filenames. The output XPS content and formatting will be identical to the original XLS document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert XLS file into XPS format. Upload your XLS file,
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert XLS file to XPS in just a few lines of code.
+ Java developers can easily convert XLS to XPS in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

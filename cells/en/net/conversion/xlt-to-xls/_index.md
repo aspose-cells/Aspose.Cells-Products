@@ -27,10 +27,10 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Save XLT to XLS in C# Online for Free" %}}
 
-The following example demonstrates how to convert XLT to XLS document format in C#.
+The following example demonstrates how to convert XLT to XLS in C#.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert XLT file into XLS format. Upload your XLT file, then simply save it as XLS file. For both XLT reading and XLS writing you can use fully qualified filenames. The output XLS content and formatting will be identical to the original XLT document.
+Follow the easy steps to convert XLT to XLS. Upload your XLT file, then simply save it as XLS file. For both XLT reading and XLS writing you can use fully qualified filenames. The output XLS content and formatting will be identical to the original XLT document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -42,7 +42,7 @@ Follow the easy steps to convert XLT file into XLS format. Upload your XLT file,
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET developers can easily load & convert XLT files to XLS in just a few lines of code.
+ .NET developers can easily load & convert XLT to XLS in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

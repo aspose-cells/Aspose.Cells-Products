@@ -27,10 +27,10 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Save JSON to JPEG in C# Online for Free" %}}
 
-The following example demonstrates how to convert JSON to JPEG document format in C#.
+The following example demonstrates how to convert JSON to JPEG in C#.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert JSON file into JPEG format. Upload your JSON file, then simply save it as JPEG file. For both JSON reading and JPEG writing you can use fully qualified filenames. The output JPEG content and formatting will be identical to the original JSON document.
+Follow the easy steps to convert JSON to JPEG. Upload your JSON file, then simply save it as JPEG file. For both JSON reading and JPEG writing you can use fully qualified filenames. The output JPEG content and formatting will be identical to the original JSON document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -42,7 +42,7 @@ Follow the easy steps to convert JSON file into JPEG format. Upload your JSON fi
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET developers can easily load & convert JSON files to JPEG in just a few lines of code.
+ .NET developers can easily load & convert JSON to JPEG in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

@@ -27,10 +27,10 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Save JPG to TIFF in C# Online for Free" %}}
 
-The following example demonstrates how to convert JPG to TIFF document format in C#.
+The following example demonstrates how to convert JPG to TIFF in C#.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert JPG file into TIFF format. Upload your JPG file, then simply save it as TIFF file. For both JPG reading and TIFF writing you can use fully qualified filenames. The output TIFF content and formatting will be identical to the original JPG document.
+Follow the easy steps to convert JPG to TIFF. Upload your JPG file, then simply save it as TIFF file. For both JPG reading and TIFF writing you can use fully qualified filenames. The output TIFF content and formatting will be identical to the original JPG document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -42,7 +42,7 @@ Follow the easy steps to convert JPG file into TIFF format. Upload your JPG file
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET developers can easily load & convert JPG files to TIFF in just a few lines of code.
+ .NET developers can easily load & convert JPG to TIFF in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

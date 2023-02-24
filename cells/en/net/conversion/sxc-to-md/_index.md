@@ -27,10 +27,10 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Save SXC to MD in C# Online for Free" %}}
 
-The following example demonstrates how to convert SXC to MD document format in C#.
+The following example demonstrates how to convert SXC to MD in C#.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert SXC file into MD format. Upload your SXC file, then simply save it as MD file. For both SXC reading and MD writing you can use fully qualified filenames. The output MD content and formatting will be identical to the original SXC document.
+Follow the easy steps to convert SXC to MD. Upload your SXC file, then simply save it as MD file. For both SXC reading and MD writing you can use fully qualified filenames. The output MD content and formatting will be identical to the original SXC document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -42,7 +42,7 @@ Follow the easy steps to convert SXC file into MD format. Upload your SXC file, 
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET developers can easily load & convert SXC files to MD in just a few lines of code.
+ .NET developers can easily load & convert SXC to MD in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

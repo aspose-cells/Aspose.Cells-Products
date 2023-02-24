@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert PNG to XLSM programma
 
 {{% blocks/products/pf/agp/content h2="Save PNG to XLSM in Java Online for Free" %}}
 
-The following example demonstrates how to convert PNG to XLSM document format in Java.
+The following example demonstrates how to convert PNG to XLSM in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert PNG file into XLSM format. Upload your PNG file, then simply save it as XLSM file. For both PNG reading and XLSM writing you can use fully qualified filenames. The output XLSM content and formatting will be identical to the original PNG document.
+Follow the easy steps to convert PNG to XLSM. Upload your PNG file, then simply save it as XLSM file. For both PNG reading and XLSM writing you can use fully qualified filenames. The output XLSM content and formatting will be identical to the original PNG document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert PNG file into XLSM format. Upload your PNG file
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert PNG file to XLSM in just a few lines of code.
+ Java developers can easily convert PNG to XLSM in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

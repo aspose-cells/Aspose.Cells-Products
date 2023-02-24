@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert ODS to TIFF programma
 
 {{% blocks/products/pf/agp/content h2="Save ODS to TIFF in Java Online for Free" %}}
 
-The following example demonstrates how to convert ODS to TIFF document format in Java.
+The following example demonstrates how to convert ODS to TIFF in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert ODS file into TIFF format. Upload your ODS file, then simply save it as TIFF file. For both ODS reading and TIFF writing you can use fully qualified filenames. The output TIFF content and formatting will be identical to the original ODS document.
+Follow the easy steps to convert ODS to TIFF. Upload your ODS file, then simply save it as TIFF file. For both ODS reading and TIFF writing you can use fully qualified filenames. The output TIFF content and formatting will be identical to the original ODS document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert ODS file into TIFF format. Upload your ODS file
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert ODS file to TIFF in just a few lines of code.
+ Java developers can easily convert ODS to TIFF in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

@@ -27,10 +27,10 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Save HTML to XLTM in C# Online for Free" %}}
 
-The following example demonstrates how to convert HTML to XLTM document format in C#.
+The following example demonstrates how to convert HTML to XLTM in C#.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert HTML file into XLTM format. Upload your HTML file, then simply save it as XLTM file. For both HTML reading and XLTM writing you can use fully qualified filenames. The output XLTM content and formatting will be identical to the original HTML document.
+Follow the easy steps to convert HTML to XLTM. Upload your HTML file, then simply save it as XLTM file. For both HTML reading and XLTM writing you can use fully qualified filenames. The output XLTM content and formatting will be identical to the original HTML document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -42,7 +42,7 @@ Follow the easy steps to convert HTML file into XLTM format. Upload your HTML fi
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET developers can easily load & convert HTML files to XLTM in just a few lines of code.
+ .NET developers can easily load & convert HTML to XLTM in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

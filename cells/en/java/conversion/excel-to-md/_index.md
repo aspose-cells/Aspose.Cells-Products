@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert EXCEL to MD programma
 
 {{% blocks/products/pf/agp/content h2="Save EXCEL to MD in Java Online for Free" %}}
 
-The following example demonstrates how to convert EXCEL to MD document format in Java.
+The following example demonstrates how to convert EXCEL to MD in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert EXCEL file into MD format. Upload your EXCEL file, then simply save it as MD file. For both EXCEL reading and MD writing you can use fully qualified filenames. The output MD content and formatting will be identical to the original EXCEL document.
+Follow the easy steps to convert EXCEL to MD. Upload your EXCEL file, then simply save it as MD file. For both EXCEL reading and MD writing you can use fully qualified filenames. The output MD content and formatting will be identical to the original EXCEL document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert EXCEL file into MD format. Upload your EXCEL fi
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert EXCEL file to MD in just a few lines of code.
+ Java developers can easily convert EXCEL to MD in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

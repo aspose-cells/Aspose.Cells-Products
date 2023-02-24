@@ -27,10 +27,10 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Save SXC to XLSM in C# Online for Free" %}}
 
-The following example demonstrates how to convert SXC to XLSM document format in C#.
+The following example demonstrates how to convert SXC to XLSM in C#.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert SXC file into XLSM format. Upload your SXC file, then simply save it as XLSM file. For both SXC reading and XLSM writing you can use fully qualified filenames. The output XLSM content and formatting will be identical to the original SXC document.
+Follow the easy steps to convert SXC to XLSM. Upload your SXC file, then simply save it as XLSM file. For both SXC reading and XLSM writing you can use fully qualified filenames. The output XLSM content and formatting will be identical to the original SXC document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -42,7 +42,7 @@ Follow the easy steps to convert SXC file into XLSM format. Upload your SXC file
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET developers can easily load & convert SXC files to XLSM in just a few lines of code.
+ .NET developers can easily load & convert SXC to XLSM in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

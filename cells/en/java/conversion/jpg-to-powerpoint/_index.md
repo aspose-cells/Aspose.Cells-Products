@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert JPG to POWERPOINT pro
 
 {{% blocks/products/pf/agp/content h2="Save JPG to POWERPOINT in Java Online for Free" %}}
 
-The following example demonstrates how to convert JPG to POWERPOINT document format in Java.
+The following example demonstrates how to convert JPG to POWERPOINT in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert JPG file into POWERPOINT format. Upload your JPG file, then simply save it as POWERPOINT file. For both JPG reading and POWERPOINT writing you can use fully qualified filenames. The output POWERPOINT content and formatting will be identical to the original JPG document.
+Follow the easy steps to convert JPG to POWERPOINT. Upload your JPG file, then simply save it as POWERPOINT file. For both JPG reading and POWERPOINT writing you can use fully qualified filenames. The output POWERPOINT content and formatting will be identical to the original JPG document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert JPG file into POWERPOINT format. Upload your JP
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert JPG file to POWERPOINT in just a few lines of code.
+ Java developers can easily convert JPG to POWERPOINT in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

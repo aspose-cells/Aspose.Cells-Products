@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert XLSM to MARKDOWN prog
 
 {{% blocks/products/pf/agp/content h2="Save XLSM to MARKDOWN in Java Online for Free" %}}
 
-The following example demonstrates how to convert XLSM to MARKDOWN document format in Java.
+The following example demonstrates how to convert XLSM to MARKDOWN in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert XLSM file into MARKDOWN format. Upload your XLSM file, then simply save it as MARKDOWN file. For both XLSM reading and MARKDOWN writing you can use fully qualified filenames. The output MARKDOWN content and formatting will be identical to the original XLSM document.
+Follow the easy steps to convert XLSM to MARKDOWN. Upload your XLSM file, then simply save it as MARKDOWN file. For both XLSM reading and MARKDOWN writing you can use fully qualified filenames. The output MARKDOWN content and formatting will be identical to the original XLSM document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert XLSM file into MARKDOWN format. Upload your XLS
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert XLSM file to MARKDOWN in just a few lines of code.
+ Java developers can easily convert XLSM to MARKDOWN in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert MHTML to BMP programm
 
 {{% blocks/products/pf/agp/content h2="Save MHTML to BMP in Java Online for Free" %}}
 
-The following example demonstrates how to convert MHTML to BMP document format in Java.
+The following example demonstrates how to convert MHTML to BMP in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert MHTML file into BMP format. Upload your MHTML file, then simply save it as BMP file. For both MHTML reading and BMP writing you can use fully qualified filenames. The output BMP content and formatting will be identical to the original MHTML document.
+Follow the easy steps to convert MHTML to BMP. Upload your MHTML file, then simply save it as BMP file. For both MHTML reading and BMP writing you can use fully qualified filenames. The output BMP content and formatting will be identical to the original MHTML document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert MHTML file into BMP format. Upload your MHTML f
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert MHTML file to BMP in just a few lines of code.
+ Java developers can easily convert MHTML to BMP in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

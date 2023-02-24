@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert FODS to PNG programma
 
 {{% blocks/products/pf/agp/content h2="Save FODS to PNG in Java Online for Free" %}}
 
-The following example demonstrates how to convert FODS to PNG document format in Java.
+The following example demonstrates how to convert FODS to PNG in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert FODS file into PNG format. Upload your FODS file, then simply save it as PNG file. For both FODS reading and PNG writing you can use fully qualified filenames. The output PNG content and formatting will be identical to the original FODS document.
+Follow the easy steps to convert FODS to PNG. Upload your FODS file, then simply save it as PNG file. For both FODS reading and PNG writing you can use fully qualified filenames. The output PNG content and formatting will be identical to the original FODS document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert FODS file into PNG format. Upload your FODS fil
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert FODS file to PNG in just a few lines of code.
+ Java developers can easily convert FODS to PNG in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

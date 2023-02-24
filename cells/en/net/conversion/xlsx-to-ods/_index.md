@@ -27,10 +27,10 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Save XLSX to ODS in C# Online for Free" %}}
 
-The following example demonstrates how to convert XLSX to ODS document format in C#.
+The following example demonstrates how to convert XLSX to ODS in C#.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert XLSX file into ODS format. Upload your XLSX file, then simply save it as ODS file. For both XLSX reading and ODS writing you can use fully qualified filenames. The output ODS content and formatting will be identical to the original XLSX document.
+Follow the easy steps to convert XLSX to ODS. Upload your XLSX file, then simply save it as ODS file. For both XLSX reading and ODS writing you can use fully qualified filenames. The output ODS content and formatting will be identical to the original XLSX document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -42,7 +42,7 @@ Follow the easy steps to convert XLSX file into ODS format. Upload your XLSX fil
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET developers can easily load & convert XLSX files to ODS in just a few lines of code.
+ .NET developers can easily load & convert XLSX to ODS in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

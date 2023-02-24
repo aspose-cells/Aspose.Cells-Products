@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert XLTX to TSV programma
 
 {{% blocks/products/pf/agp/content h2="Save XLTX to TSV in Java Online for Free" %}}
 
-The following example demonstrates how to convert XLTX to TSV document format in Java.
+The following example demonstrates how to convert XLTX to TSV in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert XLTX file into TSV format. Upload your XLTX file, then simply save it as TSV file. For both XLTX reading and TSV writing you can use fully qualified filenames. The output TSV content and formatting will be identical to the original XLTX document.
+Follow the easy steps to convert XLTX to TSV. Upload your XLTX file, then simply save it as TSV file. For both XLTX reading and TSV writing you can use fully qualified filenames. The output TSV content and formatting will be identical to the original XLTX document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert XLTX file into TSV format. Upload your XLTX fil
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert XLTX file to TSV in just a few lines of code.
+ Java developers can easily convert XLTX to TSV in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

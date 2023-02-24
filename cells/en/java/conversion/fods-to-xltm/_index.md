@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert FODS to XLTM programm
 
 {{% blocks/products/pf/agp/content h2="Save FODS to XLTM in Java Online for Free" %}}
 
-The following example demonstrates how to convert FODS to XLTM document format in Java.
+The following example demonstrates how to convert FODS to XLTM in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert FODS file into XLTM format. Upload your FODS file, then simply save it as XLTM file. For both FODS reading and XLTM writing you can use fully qualified filenames. The output XLTM content and formatting will be identical to the original FODS document.
+Follow the easy steps to convert FODS to XLTM. Upload your FODS file, then simply save it as XLTM file. For both FODS reading and XLTM writing you can use fully qualified filenames. The output XLTM content and formatting will be identical to the original FODS document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert FODS file into XLTM format. Upload your FODS fi
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert FODS file to XLTM in just a few lines of code.
+ Java developers can easily convert FODS to XLTM in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

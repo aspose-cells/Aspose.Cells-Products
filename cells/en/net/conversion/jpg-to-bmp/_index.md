@@ -27,10 +27,10 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Save JPG to BMP in C# Online for Free" %}}
 
-The following example demonstrates how to convert JPG to BMP document format in C#.
+The following example demonstrates how to convert JPG to BMP in C#.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert JPG file into BMP format. Upload your JPG file, then simply save it as BMP file. For both JPG reading and BMP writing you can use fully qualified filenames. The output BMP content and formatting will be identical to the original JPG document.
+Follow the easy steps to convert JPG to BMP. Upload your JPG file, then simply save it as BMP file. For both JPG reading and BMP writing you can use fully qualified filenames. The output BMP content and formatting will be identical to the original JPG document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -42,7 +42,7 @@ Follow the easy steps to convert JPG file into BMP format. Upload your JPG file,
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET developers can easily load & convert JPG files to BMP in just a few lines of code.
+ .NET developers can easily load & convert JPG to BMP in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

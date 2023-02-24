@@ -27,10 +27,10 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Save MHTML to JSON in C# Online for Free" %}}
 
-The following example demonstrates how to convert MHTML to JSON document format in C#.
+The following example demonstrates how to convert MHTML to JSON in C#.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert MHTML file into JSON format. Upload your MHTML file, then simply save it as JSON file. For both MHTML reading and JSON writing you can use fully qualified filenames. The output JSON content and formatting will be identical to the original MHTML document.
+Follow the easy steps to convert MHTML to JSON. Upload your MHTML file, then simply save it as JSON file. For both MHTML reading and JSON writing you can use fully qualified filenames. The output JSON content and formatting will be identical to the original MHTML document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -42,7 +42,7 @@ Follow the easy steps to convert MHTML file into JSON format. Upload your MHTML 
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET developers can easily load & convert MHTML files to JSON in just a few lines of code.
+ .NET developers can easily load & convert MHTML to JSON in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

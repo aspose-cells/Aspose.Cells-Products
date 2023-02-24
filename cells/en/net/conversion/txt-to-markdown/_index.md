@@ -27,10 +27,10 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Save TXT to MARKDOWN in C# Online for Free" %}}
 
-The following example demonstrates how to convert TXT to MARKDOWN document format in C#.
+The following example demonstrates how to convert TXT to MARKDOWN in C#.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert TXT file into MARKDOWN format. Upload your TXT file, then simply save it as MARKDOWN file. For both TXT reading and MARKDOWN writing you can use fully qualified filenames. The output MARKDOWN content and formatting will be identical to the original TXT document.
+Follow the easy steps to convert TXT to MARKDOWN. Upload your TXT file, then simply save it as MARKDOWN file. For both TXT reading and MARKDOWN writing you can use fully qualified filenames. The output MARKDOWN content and formatting will be identical to the original TXT document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -42,7 +42,7 @@ Follow the easy steps to convert TXT file into MARKDOWN format. Upload your TXT 
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET developers can easily load & convert TXT files to MARKDOWN in just a few lines of code.
+ .NET developers can easily load & convert TXT to MARKDOWN in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert XLT to TSV programmat
 
 {{% blocks/products/pf/agp/content h2="Save XLT to TSV in Java Online for Free" %}}
 
-The following example demonstrates how to convert XLT to TSV document format in Java.
+The following example demonstrates how to convert XLT to TSV in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert XLT file into TSV format. Upload your XLT file, then simply save it as TSV file. For both XLT reading and TSV writing you can use fully qualified filenames. The output TSV content and formatting will be identical to the original XLT document.
+Follow the easy steps to convert XLT to TSV. Upload your XLT file, then simply save it as TSV file. For both XLT reading and TSV writing you can use fully qualified filenames. The output TSV content and formatting will be identical to the original XLT document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert XLT file into TSV format. Upload your XLT file,
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert XLT file to TSV in just a few lines of code.
+ Java developers can easily convert XLT to TSV in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

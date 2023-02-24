@@ -27,10 +27,10 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Save XLSB to MD in C# Online for Free" %}}
 
-The following example demonstrates how to convert XLSB to MD document format in C#.
+The following example demonstrates how to convert XLSB to MD in C#.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert XLSB file into MD format. Upload your XLSB file, then simply save it as MD file. For both XLSB reading and MD writing you can use fully qualified filenames. The output MD content and formatting will be identical to the original XLSB document.
+Follow the easy steps to convert XLSB to MD. Upload your XLSB file, then simply save it as MD file. For both XLSB reading and MD writing you can use fully qualified filenames. The output MD content and formatting will be identical to the original XLSB document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -42,7 +42,7 @@ Follow the easy steps to convert XLSB file into MD format. Upload your XLSB file
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET developers can easily load & convert XLSB files to MD in just a few lines of code.
+ .NET developers can easily load & convert XLSB to MD in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

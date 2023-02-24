@@ -27,10 +27,10 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Save XLT to MARKDOWN in C# Online for Free" %}}
 
-The following example demonstrates how to convert XLT to MARKDOWN document format in C#.
+The following example demonstrates how to convert XLT to MARKDOWN in C#.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert XLT file into MARKDOWN format. Upload your XLT file, then simply save it as MARKDOWN file. For both XLT reading and MARKDOWN writing you can use fully qualified filenames. The output MARKDOWN content and formatting will be identical to the original XLT document.
+Follow the easy steps to convert XLT to MARKDOWN. Upload your XLT file, then simply save it as MARKDOWN file. For both XLT reading and MARKDOWN writing you can use fully qualified filenames. The output MARKDOWN content and formatting will be identical to the original XLT document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -42,7 +42,7 @@ Follow the easy steps to convert XLT file into MARKDOWN format. Upload your XLT 
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET developers can easily load & convert XLT files to MARKDOWN in just a few lines of code.
+ .NET developers can easily load & convert XLT to MARKDOWN in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

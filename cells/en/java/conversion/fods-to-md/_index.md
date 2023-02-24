@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert FODS to MD programmat
 
 {{% blocks/products/pf/agp/content h2="Save FODS to MD in Java Online for Free" %}}
 
-The following example demonstrates how to convert FODS to MD document format in Java.
+The following example demonstrates how to convert FODS to MD in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert FODS file into MD format. Upload your FODS file, then simply save it as MD file. For both FODS reading and MD writing you can use fully qualified filenames. The output MD content and formatting will be identical to the original FODS document.
+Follow the easy steps to convert FODS to MD. Upload your FODS file, then simply save it as MD file. For both FODS reading and MD writing you can use fully qualified filenames. The output MD content and formatting will be identical to the original FODS document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert FODS file into MD format. Upload your FODS file
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert FODS file to MD in just a few lines of code.
+ Java developers can easily convert FODS to MD in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

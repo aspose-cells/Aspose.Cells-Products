@@ -27,10 +27,10 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Save TSV to ODS in C# Online for Free" %}}
 
-The following example demonstrates how to convert TSV to ODS document format in C#.
+The following example demonstrates how to convert TSV to ODS in C#.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert TSV file into ODS format. Upload your TSV file, then simply save it as ODS file. For both TSV reading and ODS writing you can use fully qualified filenames. The output ODS content and formatting will be identical to the original TSV document.
+Follow the easy steps to convert TSV to ODS. Upload your TSV file, then simply save it as ODS file. For both TSV reading and ODS writing you can use fully qualified filenames. The output ODS content and formatting will be identical to the original TSV document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -42,7 +42,7 @@ Follow the easy steps to convert TSV file into ODS format. Upload your TSV file,
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET developers can easily load & convert TSV files to ODS in just a few lines of code.
+ .NET developers can easily load & convert TSV to ODS in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

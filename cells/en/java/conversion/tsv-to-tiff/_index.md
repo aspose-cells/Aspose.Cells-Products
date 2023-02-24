@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert TSV to TIFF programma
 
 {{% blocks/products/pf/agp/content h2="Save TSV to TIFF in Java Online for Free" %}}
 
-The following example demonstrates how to convert TSV to TIFF document format in Java.
+The following example demonstrates how to convert TSV to TIFF in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert TSV file into TIFF format. Upload your TSV file, then simply save it as TIFF file. For both TSV reading and TIFF writing you can use fully qualified filenames. The output TIFF content and formatting will be identical to the original TSV document.
+Follow the easy steps to convert TSV to TIFF. Upload your TSV file, then simply save it as TIFF file. For both TSV reading and TIFF writing you can use fully qualified filenames. The output TIFF content and formatting will be identical to the original TSV document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert TSV file into TIFF format. Upload your TSV file
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert TSV file to TIFF in just a few lines of code.
+ Java developers can easily convert TSV to TIFF in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert CSV to TSV programmat
 
 {{% blocks/products/pf/agp/content h2="Save CSV to TSV in Java Online for Free" %}}
 
-The following example demonstrates how to convert CSV to TSV document format in Java.
+The following example demonstrates how to convert CSV to TSV in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert CSV file into TSV format. Upload your CSV file, then simply save it as TSV file. For both CSV reading and TSV writing you can use fully qualified filenames. The output TSV content and formatting will be identical to the original CSV document.
+Follow the easy steps to convert CSV to TSV. Upload your CSV file, then simply save it as TSV file. For both CSV reading and TSV writing you can use fully qualified filenames. The output TSV content and formatting will be identical to the original CSV document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert CSV file into TSV format. Upload your CSV file,
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert CSV file to TSV in just a few lines of code.
+ Java developers can easily convert CSV to TSV in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

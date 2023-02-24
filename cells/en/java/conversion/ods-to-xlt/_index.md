@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert ODS to XLT programmat
 
 {{% blocks/products/pf/agp/content h2="Save ODS to XLT in Java Online for Free" %}}
 
-The following example demonstrates how to convert ODS to XLT document format in Java.
+The following example demonstrates how to convert ODS to XLT in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert ODS file into XLT format. Upload your ODS file, then simply save it as XLT file. For both ODS reading and XLT writing you can use fully qualified filenames. The output XLT content and formatting will be identical to the original ODS document.
+Follow the easy steps to convert ODS to XLT. Upload your ODS file, then simply save it as XLT file. For both ODS reading and XLT writing you can use fully qualified filenames. The output XLT content and formatting will be identical to the original ODS document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert ODS file into XLT format. Upload your ODS file,
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert ODS file to XLT in just a few lines of code.
+ Java developers can easily convert ODS to XLT in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

@@ -27,10 +27,10 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Save EXCEL to XPS in C# Online for Free" %}}
 
-The following example demonstrates how to convert EXCEL to XPS document format in C#.
+The following example demonstrates how to convert EXCEL to XPS in C#.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert EXCEL file into XPS format. Upload your EXCEL file, then simply save it as XPS file. For both EXCEL reading and XPS writing you can use fully qualified filenames. The output XPS content and formatting will be identical to the original EXCEL document.
+Follow the easy steps to convert EXCEL to XPS. Upload your EXCEL file, then simply save it as XPS file. For both EXCEL reading and XPS writing you can use fully qualified filenames. The output XPS content and formatting will be identical to the original EXCEL document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -42,7 +42,7 @@ Follow the easy steps to convert EXCEL file into XPS format. Upload your EXCEL f
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET developers can easily load & convert EXCEL files to XPS in just a few lines of code.
+ .NET developers can easily load & convert EXCEL to XPS in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

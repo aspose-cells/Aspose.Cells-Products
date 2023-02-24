@@ -27,10 +27,10 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Save HTML to XLS in C# Online for Free" %}}
 
-The following example demonstrates how to convert HTML to XLS document format in C#.
+The following example demonstrates how to convert HTML to XLS in C#.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert HTML file into XLS format. Upload your HTML file, then simply save it as XLS file. For both HTML reading and XLS writing you can use fully qualified filenames. The output XLS content and formatting will be identical to the original HTML document.
+Follow the easy steps to convert HTML to XLS. Upload your HTML file, then simply save it as XLS file. For both HTML reading and XLS writing you can use fully qualified filenames. The output XLS content and formatting will be identical to the original HTML document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -42,7 +42,7 @@ Follow the easy steps to convert HTML file into XLS format. Upload your HTML fil
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET developers can easily load & convert HTML files to XLS in just a few lines of code.
+ .NET developers can easily load & convert HTML to XLS in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

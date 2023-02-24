@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert ODS to MHTML programm
 
 {{% blocks/products/pf/agp/content h2="Save ODS to MHTML in Java Online for Free" %}}
 
-The following example demonstrates how to convert ODS to MHTML document format in Java.
+The following example demonstrates how to convert ODS to MHTML in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert ODS file into MHTML format. Upload your ODS file, then simply save it as MHTML file. For both ODS reading and MHTML writing you can use fully qualified filenames. The output MHTML content and formatting will be identical to the original ODS document.
+Follow the easy steps to convert ODS to MHTML. Upload your ODS file, then simply save it as MHTML file. For both ODS reading and MHTML writing you can use fully qualified filenames. The output MHTML content and formatting will be identical to the original ODS document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert ODS file into MHTML format. Upload your ODS fil
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert ODS file to MHTML in just a few lines of code.
+ Java developers can easily convert ODS to MHTML in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

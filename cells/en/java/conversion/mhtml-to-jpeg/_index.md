@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert MHTML to JPEG program
 
 {{% blocks/products/pf/agp/content h2="Save MHTML to JPEG in Java Online for Free" %}}
 
-The following example demonstrates how to convert MHTML to JPEG document format in Java.
+The following example demonstrates how to convert MHTML to JPEG in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert MHTML file into JPEG format. Upload your MHTML file, then simply save it as JPEG file. For both MHTML reading and JPEG writing you can use fully qualified filenames. The output JPEG content and formatting will be identical to the original MHTML document.
+Follow the easy steps to convert MHTML to JPEG. Upload your MHTML file, then simply save it as JPEG file. For both MHTML reading and JPEG writing you can use fully qualified filenames. The output JPEG content and formatting will be identical to the original MHTML document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert MHTML file into JPEG format. Upload your MHTML 
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert MHTML file to JPEG in just a few lines of code.
+ Java developers can easily convert MHTML to JPEG in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

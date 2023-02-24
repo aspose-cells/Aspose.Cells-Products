@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert SPREADSHEETML to ODS 
 
 {{% blocks/products/pf/agp/content h2="Save SPREADSHEETML to ODS in Java Online for Free" %}}
 
-The following example demonstrates how to convert SPREADSHEETML to ODS document format in Java.
+The following example demonstrates how to convert SPREADSHEETML to ODS in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert SPREADSHEETML file into ODS format. Upload your SPREADSHEETML file, then simply save it as ODS file. For both SPREADSHEETML reading and ODS writing you can use fully qualified filenames. The output ODS content and formatting will be identical to the original SPREADSHEETML document.
+Follow the easy steps to convert SPREADSHEETML to ODS. Upload your SPREADSHEETML file, then simply save it as ODS file. For both SPREADSHEETML reading and ODS writing you can use fully qualified filenames. The output ODS content and formatting will be identical to the original SPREADSHEETML document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert SPREADSHEETML file into ODS format. Upload your
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert SPREADSHEETML file to ODS in just a few lines of code.
+ Java developers can easily convert SPREADSHEETML to ODS in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert EXCEL to TXT programm
 
 {{% blocks/products/pf/agp/content h2="Save EXCEL to TXT in Java Online for Free" %}}
 
-The following example demonstrates how to convert EXCEL to TXT document format in Java.
+The following example demonstrates how to convert EXCEL to TXT in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert EXCEL file into TXT format. Upload your EXCEL file, then simply save it as TXT file. For both EXCEL reading and TXT writing you can use fully qualified filenames. The output TXT content and formatting will be identical to the original EXCEL document.
+Follow the easy steps to convert EXCEL to TXT. Upload your EXCEL file, then simply save it as TXT file. For both EXCEL reading and TXT writing you can use fully qualified filenames. The output TXT content and formatting will be identical to the original EXCEL document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert EXCEL file into TXT format. Upload your EXCEL f
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert EXCEL file to TXT in just a few lines of code.
+ Java developers can easily convert EXCEL to TXT in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

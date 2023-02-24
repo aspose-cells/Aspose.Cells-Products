@@ -27,10 +27,10 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Save XLSM to EMF in C# Online for Free" %}}
 
-The following example demonstrates how to convert XLSM to EMF document format in C#.
+The following example demonstrates how to convert XLSM to EMF in C#.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert XLSM file into EMF format. Upload your XLSM file, then simply save it as EMF file. For both XLSM reading and EMF writing you can use fully qualified filenames. The output EMF content and formatting will be identical to the original XLSM document.
+Follow the easy steps to convert XLSM to EMF. Upload your XLSM file, then simply save it as EMF file. For both XLSM reading and EMF writing you can use fully qualified filenames. The output EMF content and formatting will be identical to the original XLSM document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -42,7 +42,7 @@ Follow the easy steps to convert XLSM file into EMF format. Upload your XLSM fil
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET developers can easily load & convert XLSM files to EMF in just a few lines of code.
+ .NET developers can easily load & convert XLSM to EMF in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

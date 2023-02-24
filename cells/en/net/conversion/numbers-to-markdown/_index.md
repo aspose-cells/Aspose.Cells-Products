@@ -27,10 +27,10 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Save NUMBERS to MARKDOWN in C# Online for Free" %}}
 
-The following example demonstrates how to convert NUMBERS to MARKDOWN document format in C#.
+The following example demonstrates how to convert NUMBERS to MARKDOWN in C#.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert NUMBERS file into MARKDOWN format. Upload your NUMBERS file, then simply save it as MARKDOWN file. For both NUMBERS reading and MARKDOWN writing you can use fully qualified filenames. The output MARKDOWN content and formatting will be identical to the original NUMBERS document.
+Follow the easy steps to convert NUMBERS to MARKDOWN. Upload your NUMBERS file, then simply save it as MARKDOWN file. For both NUMBERS reading and MARKDOWN writing you can use fully qualified filenames. The output MARKDOWN content and formatting will be identical to the original NUMBERS document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -42,7 +42,7 @@ Follow the easy steps to convert NUMBERS file into MARKDOWN format. Upload your 
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET developers can easily load & convert NUMBERS files to MARKDOWN in just a few lines of code.
+ .NET developers can easily load & convert NUMBERS to MARKDOWN in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert NUMBERS to CSV progra
 
 {{% blocks/products/pf/agp/content h2="Save NUMBERS to CSV in Java Online for Free" %}}
 
-The following example demonstrates how to convert NUMBERS to CSV document format in Java.
+The following example demonstrates how to convert NUMBERS to CSV in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert NUMBERS file into CSV format. Upload your NUMBERS file, then simply save it as CSV file. For both NUMBERS reading and CSV writing you can use fully qualified filenames. The output CSV content and formatting will be identical to the original NUMBERS document.
+Follow the easy steps to convert NUMBERS to CSV. Upload your NUMBERS file, then simply save it as CSV file. For both NUMBERS reading and CSV writing you can use fully qualified filenames. The output CSV content and formatting will be identical to the original NUMBERS document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert NUMBERS file into CSV format. Upload your NUMBE
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert NUMBERS file to CSV in just a few lines of code.
+ Java developers can easily convert NUMBERS to CSV in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

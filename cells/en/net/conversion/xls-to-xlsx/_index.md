@@ -27,10 +27,10 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Save XLS to XLSX in C# Online for Free" %}}
 
-The following example demonstrates how to convert XLS to XLSX document format in C#.
+The following example demonstrates how to convert XLS to XLSX in C#.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert XLS file into XLSX format. Upload your XLS file, then simply save it as XLSX file. For both XLS reading and XLSX writing you can use fully qualified filenames. The output XLSX content and formatting will be identical to the original XLS document.
+Follow the easy steps to convert XLS to XLSX. Upload your XLS file, then simply save it as XLSX file. For both XLS reading and XLSX writing you can use fully qualified filenames. The output XLSX content and formatting will be identical to the original XLS document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -42,7 +42,7 @@ Follow the easy steps to convert XLS file into XLSX format. Upload your XLS file
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET developers can easily load & convert XLS files to XLSX in just a few lines of code.
+ .NET developers can easily load & convert XLS to XLSX in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

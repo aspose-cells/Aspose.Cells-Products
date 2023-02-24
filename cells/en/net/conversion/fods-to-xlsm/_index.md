@@ -27,10 +27,10 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Save FODS to XLSM in C# Online for Free" %}}
 
-The following example demonstrates how to convert FODS to XLSM document format in C#.
+The following example demonstrates how to convert FODS to XLSM in C#.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert FODS file into XLSM format. Upload your FODS file, then simply save it as XLSM file. For both FODS reading and XLSM writing you can use fully qualified filenames. The output XLSM content and formatting will be identical to the original FODS document.
+Follow the easy steps to convert FODS to XLSM. Upload your FODS file, then simply save it as XLSM file. For both FODS reading and XLSM writing you can use fully qualified filenames. The output XLSM content and formatting will be identical to the original FODS document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -42,7 +42,7 @@ Follow the easy steps to convert FODS file into XLSM format. Upload your FODS fi
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET developers can easily load & convert FODS files to XLSM in just a few lines of code.
+ .NET developers can easily load & convert FODS to XLSM in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

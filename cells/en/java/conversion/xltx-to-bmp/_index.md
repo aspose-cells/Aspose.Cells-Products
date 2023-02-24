@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert XLTX to BMP programma
 
 {{% blocks/products/pf/agp/content h2="Save XLTX to BMP in Java Online for Free" %}}
 
-The following example demonstrates how to convert XLTX to BMP document format in Java.
+The following example demonstrates how to convert XLTX to BMP in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert XLTX file into BMP format. Upload your XLTX file, then simply save it as BMP file. For both XLTX reading and BMP writing you can use fully qualified filenames. The output BMP content and formatting will be identical to the original XLTX document.
+Follow the easy steps to convert XLTX to BMP. Upload your XLTX file, then simply save it as BMP file. For both XLTX reading and BMP writing you can use fully qualified filenames. The output BMP content and formatting will be identical to the original XLTX document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert XLTX file into BMP format. Upload your XLTX fil
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert XLTX file to BMP in just a few lines of code.
+ Java developers can easily convert XLTX to BMP in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

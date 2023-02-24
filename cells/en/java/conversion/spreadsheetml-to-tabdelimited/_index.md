@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert SPREADSHEETML to TABD
 
 {{% blocks/products/pf/agp/content h2="Save SPREADSHEETML to TABDELIMITED in Java Online for Free" %}}
 
-The following example demonstrates how to convert SPREADSHEETML to TABDELIMITED document format in Java.
+The following example demonstrates how to convert SPREADSHEETML to TABDELIMITED in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert SPREADSHEETML file into TABDELIMITED format. Upload your SPREADSHEETML file, then simply save it as TABDELIMITED file. For both SPREADSHEETML reading and TABDELIMITED writing you can use fully qualified filenames. The output TABDELIMITED content and formatting will be identical to the original SPREADSHEETML document.
+Follow the easy steps to convert SPREADSHEETML to TABDELIMITED. Upload your SPREADSHEETML file, then simply save it as TABDELIMITED file. For both SPREADSHEETML reading and TABDELIMITED writing you can use fully qualified filenames. The output TABDELIMITED content and formatting will be identical to the original SPREADSHEETML document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert SPREADSHEETML file into TABDELIMITED format. Up
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert SPREADSHEETML file to TABDELIMITED in just a few lines of code.
+ Java developers can easily convert SPREADSHEETML to TABDELIMITED in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

@@ -27,10 +27,10 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Save XLSX to PPTX in C# Online for Free" %}}
 
-The following example demonstrates how to convert XLSX to PPTX document format in C#.
+The following example demonstrates how to convert XLSX to PPTX in C#.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert XLSX file into PPTX format. Upload your XLSX file, then simply save it as PPTX file. For both XLSX reading and PPTX writing you can use fully qualified filenames. The output PPTX content and formatting will be identical to the original XLSX document.
+Follow the easy steps to convert XLSX to PPTX. Upload your XLSX file, then simply save it as PPTX file. For both XLSX reading and PPTX writing you can use fully qualified filenames. The output PPTX content and formatting will be identical to the original XLSX document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -42,7 +42,7 @@ Follow the easy steps to convert XLSX file into PPTX format. Upload your XLSX fi
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET developers can easily load & convert XLSX files to PPTX in just a few lines of code.
+ .NET developers can easily load & convert XLSX to PPTX in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

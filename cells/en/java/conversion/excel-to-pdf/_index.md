@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert EXCEL to PDF programm
 
 {{% blocks/products/pf/agp/content h2="Save EXCEL to PDF in Java Online for Free" %}}
 
-The following example demonstrates how to convert EXCEL to PDF document format in Java.
+The following example demonstrates how to convert EXCEL to PDF in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert EXCEL file into PDF format. Upload your EXCEL file, then simply save it as PDF file. For both EXCEL reading and PDF writing you can use fully qualified filenames. The output PDF content and formatting will be identical to the original EXCEL document.
+Follow the easy steps to convert EXCEL to PDF. Upload your EXCEL file, then simply save it as PDF file. For both EXCEL reading and PDF writing you can use fully qualified filenames. The output PDF content and formatting will be identical to the original EXCEL document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert EXCEL file into PDF format. Upload your EXCEL f
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert EXCEL file to PDF in just a few lines of code.
+ Java developers can easily convert EXCEL to PDF in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

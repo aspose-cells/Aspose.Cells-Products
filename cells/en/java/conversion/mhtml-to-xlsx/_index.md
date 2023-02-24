@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert MHTML to XLSX program
 
 {{% blocks/products/pf/agp/content h2="Save MHTML to XLSX in Java Online for Free" %}}
 
-The following example demonstrates how to convert MHTML to XLSX document format in Java.
+The following example demonstrates how to convert MHTML to XLSX in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert MHTML file into XLSX format. Upload your MHTML file, then simply save it as XLSX file. For both MHTML reading and XLSX writing you can use fully qualified filenames. The output XLSX content and formatting will be identical to the original MHTML document.
+Follow the easy steps to convert MHTML to XLSX. Upload your MHTML file, then simply save it as XLSX file. For both MHTML reading and XLSX writing you can use fully qualified filenames. The output XLSX content and formatting will be identical to the original MHTML document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert MHTML file into XLSX format. Upload your MHTML 
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert MHTML file to XLSX in just a few lines of code.
+ Java developers can easily convert MHTML to XLSX in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

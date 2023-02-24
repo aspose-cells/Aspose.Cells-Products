@@ -27,10 +27,10 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Save HTML to GIF in C# Online for Free" %}}
 
-The following example demonstrates how to convert HTML to GIF document format in C#.
+The following example demonstrates how to convert HTML to GIF in C#.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert HTML file into GIF format. Upload your HTML file, then simply save it as GIF file. For both HTML reading and GIF writing you can use fully qualified filenames. The output GIF content and formatting will be identical to the original HTML document.
+Follow the easy steps to convert HTML to GIF. Upload your HTML file, then simply save it as GIF file. For both HTML reading and GIF writing you can use fully qualified filenames. The output GIF content and formatting will be identical to the original HTML document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -42,7 +42,7 @@ Follow the easy steps to convert HTML file into GIF format. Upload your HTML fil
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET developers can easily load & convert HTML files to GIF in just a few lines of code.
+ .NET developers can easily load & convert HTML to GIF in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

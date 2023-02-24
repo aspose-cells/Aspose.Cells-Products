@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert PNG to XLTM programma
 
 {{% blocks/products/pf/agp/content h2="Save PNG to XLTM in Java Online for Free" %}}
 
-The following example demonstrates how to convert PNG to XLTM document format in Java.
+The following example demonstrates how to convert PNG to XLTM in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert PNG file into XLTM format. Upload your PNG file, then simply save it as XLTM file. For both PNG reading and XLTM writing you can use fully qualified filenames. The output XLTM content and formatting will be identical to the original PNG document.
+Follow the easy steps to convert PNG to XLTM. Upload your PNG file, then simply save it as XLTM file. For both PNG reading and XLTM writing you can use fully qualified filenames. The output XLTM content and formatting will be identical to the original PNG document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert PNG file into XLTM format. Upload your PNG file
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert PNG file to XLTM in just a few lines of code.
+ Java developers can easily convert PNG to XLTM in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

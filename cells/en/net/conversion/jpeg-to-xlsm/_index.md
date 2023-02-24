@@ -27,10 +27,10 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Save JPEG to XLSM in C# Online for Free" %}}
 
-The following example demonstrates how to convert JPEG to XLSM document format in C#.
+The following example demonstrates how to convert JPEG to XLSM in C#.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert JPEG file into XLSM format. Upload your JPEG file, then simply save it as XLSM file. For both JPEG reading and XLSM writing you can use fully qualified filenames. The output XLSM content and formatting will be identical to the original JPEG document.
+Follow the easy steps to convert JPEG to XLSM. Upload your JPEG file, then simply save it as XLSM file. For both JPEG reading and XLSM writing you can use fully qualified filenames. The output XLSM content and formatting will be identical to the original JPEG document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -42,7 +42,7 @@ Follow the easy steps to convert JPEG file into XLSM format. Upload your JPEG fi
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET developers can easily load & convert JPEG files to XLSM in just a few lines of code.
+ .NET developers can easily load & convert JPEG to XLSM in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

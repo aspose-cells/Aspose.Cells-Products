@@ -27,10 +27,10 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Save XLSM to ODS in C# Online for Free" %}}
 
-The following example demonstrates how to convert XLSM to ODS document format in C#.
+The following example demonstrates how to convert XLSM to ODS in C#.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert XLSM file into ODS format. Upload your XLSM file, then simply save it as ODS file. For both XLSM reading and ODS writing you can use fully qualified filenames. The output ODS content and formatting will be identical to the original XLSM document.
+Follow the easy steps to convert XLSM to ODS. Upload your XLSM file, then simply save it as ODS file. For both XLSM reading and ODS writing you can use fully qualified filenames. The output ODS content and formatting will be identical to the original XLSM document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -42,7 +42,7 @@ Follow the easy steps to convert XLSM file into ODS format. Upload your XLSM fil
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET developers can easily load & convert XLSM files to ODS in just a few lines of code.
+ .NET developers can easily load & convert XLSM to ODS in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

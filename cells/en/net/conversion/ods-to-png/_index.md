@@ -27,10 +27,10 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Save ODS to PNG in C# Online for Free" %}}
 
-The following example demonstrates how to convert ODS to PNG document format in C#.
+The following example demonstrates how to convert ODS to PNG in C#.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert ODS file into PNG format. Upload your ODS file, then simply save it as PNG file. For both ODS reading and PNG writing you can use fully qualified filenames. The output PNG content and formatting will be identical to the original ODS document.
+Follow the easy steps to convert ODS to PNG. Upload your ODS file, then simply save it as PNG file. For both ODS reading and PNG writing you can use fully qualified filenames. The output PNG content and formatting will be identical to the original ODS document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -42,7 +42,7 @@ Follow the easy steps to convert ODS file into PNG format. Upload your ODS file,
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET developers can easily load & convert ODS files to PNG in just a few lines of code.
+ .NET developers can easily load & convert ODS to PNG in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

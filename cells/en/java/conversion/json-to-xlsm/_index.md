@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert JSON to XLSM programm
 
 {{% blocks/products/pf/agp/content h2="Save JSON to XLSM in Java Online for Free" %}}
 
-The following example demonstrates how to convert JSON to XLSM document format in Java.
+The following example demonstrates how to convert JSON to XLSM in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert JSON file into XLSM format. Upload your JSON file, then simply save it as XLSM file. For both JSON reading and XLSM writing you can use fully qualified filenames. The output XLSM content and formatting will be identical to the original JSON document.
+Follow the easy steps to convert JSON to XLSM. Upload your JSON file, then simply save it as XLSM file. For both JSON reading and XLSM writing you can use fully qualified filenames. The output XLSM content and formatting will be identical to the original JSON document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert JSON file into XLSM format. Upload your JSON fi
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert JSON file to XLSM in just a few lines of code.
+ Java developers can easily convert JSON to XLSM in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

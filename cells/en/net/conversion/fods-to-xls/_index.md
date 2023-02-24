@@ -27,10 +27,10 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Save FODS to XLS in C# Online for Free" %}}
 
-The following example demonstrates how to convert FODS to XLS document format in C#.
+The following example demonstrates how to convert FODS to XLS in C#.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert FODS file into XLS format. Upload your FODS file, then simply save it as XLS file. For both FODS reading and XLS writing you can use fully qualified filenames. The output XLS content and formatting will be identical to the original FODS document.
+Follow the easy steps to convert FODS to XLS. Upload your FODS file, then simply save it as XLS file. For both FODS reading and XLS writing you can use fully qualified filenames. The output XLS content and formatting will be identical to the original FODS document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -42,7 +42,7 @@ Follow the easy steps to convert FODS file into XLS format. Upload your FODS fil
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET developers can easily load & convert FODS files to XLS in just a few lines of code.
+ .NET developers can easily load & convert FODS to XLS in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

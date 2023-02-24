@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert JPEG to XLSB programm
 
 {{% blocks/products/pf/agp/content h2="Save JPEG to XLSB in Java Online for Free" %}}
 
-The following example demonstrates how to convert JPEG to XLSB document format in Java.
+The following example demonstrates how to convert JPEG to XLSB in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert JPEG file into XLSB format. Upload your JPEG file, then simply save it as XLSB file. For both JPEG reading and XLSB writing you can use fully qualified filenames. The output XLSB content and formatting will be identical to the original JPEG document.
+Follow the easy steps to convert JPEG to XLSB. Upload your JPEG file, then simply save it as XLSB file. For both JPEG reading and XLSB writing you can use fully qualified filenames. The output XLSB content and formatting will be identical to the original JPEG document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert JPEG file into XLSB format. Upload your JPEG fi
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert JPEG file to XLSB in just a few lines of code.
+ Java developers can easily convert JPEG to XLSB in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

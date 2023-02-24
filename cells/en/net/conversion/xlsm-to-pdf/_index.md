@@ -27,10 +27,10 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Save XLSM to PDF in C# Online for Free" %}}
 
-The following example demonstrates how to convert XLSM to PDF document format in C#.
+The following example demonstrates how to convert XLSM to PDF in C#.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert XLSM file into PDF format. Upload your XLSM file, then simply save it as PDF file. For both XLSM reading and PDF writing you can use fully qualified filenames. The output PDF content and formatting will be identical to the original XLSM document.
+Follow the easy steps to convert XLSM to PDF. Upload your XLSM file, then simply save it as PDF file. For both XLSM reading and PDF writing you can use fully qualified filenames. The output PDF content and formatting will be identical to the original XLSM document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -42,7 +42,7 @@ Follow the easy steps to convert XLSM file into PDF format. Upload your XLSM fil
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET developers can easily load & convert XLSM files to PDF in just a few lines of code.
+ .NET developers can easily load & convert XLSM to PDF in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

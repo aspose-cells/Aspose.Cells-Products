@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert CSV to FODS programma
 
 {{% blocks/products/pf/agp/content h2="Save CSV to FODS in Java Online for Free" %}}
 
-The following example demonstrates how to convert CSV to FODS document format in Java.
+The following example demonstrates how to convert CSV to FODS in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert CSV file into FODS format. Upload your CSV file, then simply save it as FODS file. For both CSV reading and FODS writing you can use fully qualified filenames. The output FODS content and formatting will be identical to the original CSV document.
+Follow the easy steps to convert CSV to FODS. Upload your CSV file, then simply save it as FODS file. For both CSV reading and FODS writing you can use fully qualified filenames. The output FODS content and formatting will be identical to the original CSV document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert CSV file into FODS format. Upload your CSV file
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert CSV file to FODS in just a few lines of code.
+ Java developers can easily convert CSV to FODS in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

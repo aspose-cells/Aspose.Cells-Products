@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert XLSX to PNG programma
 
 {{% blocks/products/pf/agp/content h2="Save XLSX to PNG in Java Online for Free" %}}
 
-The following example demonstrates how to convert XLSX to PNG document format in Java.
+The following example demonstrates how to convert XLSX to PNG in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert XLSX file into PNG format. Upload your XLSX file, then simply save it as PNG file. For both XLSX reading and PNG writing you can use fully qualified filenames. The output PNG content and formatting will be identical to the original XLSX document.
+Follow the easy steps to convert XLSX to PNG. Upload your XLSX file, then simply save it as PNG file. For both XLSX reading and PNG writing you can use fully qualified filenames. The output PNG content and formatting will be identical to the original XLSX document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert XLSX file into PNG format. Upload your XLSX fil
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert XLSX file to PNG in just a few lines of code.
+ Java developers can easily convert XLSX to PNG in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

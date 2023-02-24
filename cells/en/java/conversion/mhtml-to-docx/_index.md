@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert MHTML to DOCX program
 
 {{% blocks/products/pf/agp/content h2="Save MHTML to DOCX in Java Online for Free" %}}
 
-The following example demonstrates how to convert MHTML to DOCX document format in Java.
+The following example demonstrates how to convert MHTML to DOCX in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert MHTML file into DOCX format. Upload your MHTML file, then simply save it as DOCX file. For both MHTML reading and DOCX writing you can use fully qualified filenames. The output DOCX content and formatting will be identical to the original MHTML document.
+Follow the easy steps to convert MHTML to DOCX. Upload your MHTML file, then simply save it as DOCX file. For both MHTML reading and DOCX writing you can use fully qualified filenames. The output DOCX content and formatting will be identical to the original MHTML document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert MHTML file into DOCX format. Upload your MHTML 
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert MHTML file to DOCX in just a few lines of code.
+ Java developers can easily convert MHTML to DOCX in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

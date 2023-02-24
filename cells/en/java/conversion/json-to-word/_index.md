@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert JSON to WORD programm
 
 {{% blocks/products/pf/agp/content h2="Save JSON to WORD in Java Online for Free" %}}
 
-The following example demonstrates how to convert JSON to WORD document format in Java.
+The following example demonstrates how to convert JSON to WORD in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert JSON file into WORD format. Upload your JSON file, then simply save it as WORD file. For both JSON reading and WORD writing you can use fully qualified filenames. The output WORD content and formatting will be identical to the original JSON document.
+Follow the easy steps to convert JSON to WORD. Upload your JSON file, then simply save it as WORD file. For both JSON reading and WORD writing you can use fully qualified filenames. The output WORD content and formatting will be identical to the original JSON document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert JSON file into WORD format. Upload your JSON fi
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert JSON file to WORD in just a few lines of code.
+ Java developers can easily convert JSON to WORD in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

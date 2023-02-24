@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert NUMBERS to XLSB progr
 
 {{% blocks/products/pf/agp/content h2="Save NUMBERS to XLSB in Java Online for Free" %}}
 
-The following example demonstrates how to convert NUMBERS to XLSB document format in Java.
+The following example demonstrates how to convert NUMBERS to XLSB in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert NUMBERS file into XLSB format. Upload your NUMBERS file, then simply save it as XLSB file. For both NUMBERS reading and XLSB writing you can use fully qualified filenames. The output XLSB content and formatting will be identical to the original NUMBERS document.
+Follow the easy steps to convert NUMBERS to XLSB. Upload your NUMBERS file, then simply save it as XLSB file. For both NUMBERS reading and XLSB writing you can use fully qualified filenames. The output XLSB content and formatting will be identical to the original NUMBERS document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert NUMBERS file into XLSB format. Upload your NUMB
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert NUMBERS file to XLSB in just a few lines of code.
+ Java developers can easily convert NUMBERS to XLSB in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

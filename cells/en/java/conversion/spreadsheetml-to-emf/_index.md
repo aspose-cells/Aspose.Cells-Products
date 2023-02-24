@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert SPREADSHEETML to EMF 
 
 {{% blocks/products/pf/agp/content h2="Save SPREADSHEETML to EMF in Java Online for Free" %}}
 
-The following example demonstrates how to convert SPREADSHEETML to EMF document format in Java.
+The following example demonstrates how to convert SPREADSHEETML to EMF in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert SPREADSHEETML file into EMF format. Upload your SPREADSHEETML file, then simply save it as EMF file. For both SPREADSHEETML reading and EMF writing you can use fully qualified filenames. The output EMF content and formatting will be identical to the original SPREADSHEETML document.
+Follow the easy steps to convert SPREADSHEETML to EMF. Upload your SPREADSHEETML file, then simply save it as EMF file. For both SPREADSHEETML reading and EMF writing you can use fully qualified filenames. The output EMF content and formatting will be identical to the original SPREADSHEETML document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert SPREADSHEETML file into EMF format. Upload your
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert SPREADSHEETML file to EMF in just a few lines of code.
+ Java developers can easily convert SPREADSHEETML to EMF in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

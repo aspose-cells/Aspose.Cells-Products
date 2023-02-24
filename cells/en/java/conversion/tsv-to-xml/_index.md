@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert TSV to XML programmat
 
 {{% blocks/products/pf/agp/content h2="Save TSV to XML in Java Online for Free" %}}
 
-The following example demonstrates how to convert TSV to XML document format in Java.
+The following example demonstrates how to convert TSV to XML in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert TSV file into XML format. Upload your TSV file, then simply save it as XML file. For both TSV reading and XML writing you can use fully qualified filenames. The output XML content and formatting will be identical to the original TSV document.
+Follow the easy steps to convert TSV to XML. Upload your TSV file, then simply save it as XML file. For both TSV reading and XML writing you can use fully qualified filenames. The output XML content and formatting will be identical to the original TSV document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert TSV file into XML format. Upload your TSV file,
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert TSV file to XML in just a few lines of code.
+ Java developers can easily convert TSV to XML in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

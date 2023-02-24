@@ -27,10 +27,10 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Save JSON to MD in C# Online for Free" %}}
 
-The following example demonstrates how to convert JSON to MD document format in C#.
+The following example demonstrates how to convert JSON to MD in C#.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert JSON file into MD format. Upload your JSON file, then simply save it as MD file. For both JSON reading and MD writing you can use fully qualified filenames. The output MD content and formatting will be identical to the original JSON document.
+Follow the easy steps to convert JSON to MD. Upload your JSON file, then simply save it as MD file. For both JSON reading and MD writing you can use fully qualified filenames. The output MD content and formatting will be identical to the original JSON document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -42,7 +42,7 @@ Follow the easy steps to convert JSON file into MD format. Upload your JSON file
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET developers can easily load & convert JSON files to MD in just a few lines of code.
+ .NET developers can easily load & convert JSON to MD in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

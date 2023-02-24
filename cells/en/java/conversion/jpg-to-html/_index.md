@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert JPG to HTML programma
 
 {{% blocks/products/pf/agp/content h2="Save JPG to HTML in Java Online for Free" %}}
 
-The following example demonstrates how to convert JPG to HTML document format in Java.
+The following example demonstrates how to convert JPG to HTML in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert JPG file into HTML format. Upload your JPG file, then simply save it as HTML file. For both JPG reading and HTML writing you can use fully qualified filenames. The output HTML content and formatting will be identical to the original JPG document.
+Follow the easy steps to convert JPG to HTML. Upload your JPG file, then simply save it as HTML file. For both JPG reading and HTML writing you can use fully qualified filenames. The output HTML content and formatting will be identical to the original JPG document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert JPG file into HTML format. Upload your JPG file
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert JPG file to HTML in just a few lines of code.
+ Java developers can easily convert JPG to HTML in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

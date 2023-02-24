@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert XLSB to MD programmat
 
 {{% blocks/products/pf/agp/content h2="Save XLSB to MD in Java Online for Free" %}}
 
-The following example demonstrates how to convert XLSB to MD document format in Java.
+The following example demonstrates how to convert XLSB to MD in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert XLSB file into MD format. Upload your XLSB file, then simply save it as MD file. For both XLSB reading and MD writing you can use fully qualified filenames. The output MD content and formatting will be identical to the original XLSB document.
+Follow the easy steps to convert XLSB to MD. Upload your XLSB file, then simply save it as MD file. For both XLSB reading and MD writing you can use fully qualified filenames. The output MD content and formatting will be identical to the original XLSB document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert XLSB file into MD format. Upload your XLSB file
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert XLSB file to MD in just a few lines of code.
+ Java developers can easily convert XLSB to MD in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

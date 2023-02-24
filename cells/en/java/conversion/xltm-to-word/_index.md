@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert XLTM to WORD programm
 
 {{% blocks/products/pf/agp/content h2="Save XLTM to WORD in Java Online for Free" %}}
 
-The following example demonstrates how to convert XLTM to WORD document format in Java.
+The following example demonstrates how to convert XLTM to WORD in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert XLTM file into WORD format. Upload your XLTM file, then simply save it as WORD file. For both XLTM reading and WORD writing you can use fully qualified filenames. The output WORD content and formatting will be identical to the original XLTM document.
+Follow the easy steps to convert XLTM to WORD. Upload your XLTM file, then simply save it as WORD file. For both XLTM reading and WORD writing you can use fully qualified filenames. The output WORD content and formatting will be identical to the original XLTM document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert XLTM file into WORD format. Upload your XLTM fi
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert XLTM file to WORD in just a few lines of code.
+ Java developers can easily convert XLTM to WORD in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

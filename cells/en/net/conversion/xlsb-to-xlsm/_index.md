@@ -27,10 +27,10 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Save XLSB to XLSM in C# Online for Free" %}}
 
-The following example demonstrates how to convert XLSB to XLSM document format in C#.
+The following example demonstrates how to convert XLSB to XLSM in C#.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert XLSB file into XLSM format. Upload your XLSB file, then simply save it as XLSM file. For both XLSB reading and XLSM writing you can use fully qualified filenames. The output XLSM content and formatting will be identical to the original XLSB document.
+Follow the easy steps to convert XLSB to XLSM. Upload your XLSB file, then simply save it as XLSM file. For both XLSB reading and XLSM writing you can use fully qualified filenames. The output XLSM content and formatting will be identical to the original XLSB document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -42,7 +42,7 @@ Follow the easy steps to convert XLSB file into XLSM format. Upload your XLSB fi
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET developers can easily load & convert XLSB files to XLSM in just a few lines of code.
+ .NET developers can easily load & convert XLSB to XLSM in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

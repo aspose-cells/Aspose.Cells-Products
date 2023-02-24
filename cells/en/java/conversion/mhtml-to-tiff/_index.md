@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert MHTML to TIFF program
 
 {{% blocks/products/pf/agp/content h2="Save MHTML to TIFF in Java Online for Free" %}}
 
-The following example demonstrates how to convert MHTML to TIFF document format in Java.
+The following example demonstrates how to convert MHTML to TIFF in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert MHTML file into TIFF format. Upload your MHTML file, then simply save it as TIFF file. For both MHTML reading and TIFF writing you can use fully qualified filenames. The output TIFF content and formatting will be identical to the original MHTML document.
+Follow the easy steps to convert MHTML to TIFF. Upload your MHTML file, then simply save it as TIFF file. For both MHTML reading and TIFF writing you can use fully qualified filenames. The output TIFF content and formatting will be identical to the original MHTML document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert MHTML file into TIFF format. Upload your MHTML 
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert MHTML file to TIFF in just a few lines of code.
+ Java developers can easily convert MHTML to TIFF in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert XLSM to XLTM programm
 
 {{% blocks/products/pf/agp/content h2="Save XLSM to XLTM in Java Online for Free" %}}
 
-The following example demonstrates how to convert XLSM to XLTM document format in Java.
+The following example demonstrates how to convert XLSM to XLTM in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert XLSM file into XLTM format. Upload your XLSM file, then simply save it as XLTM file. For both XLSM reading and XLTM writing you can use fully qualified filenames. The output XLTM content and formatting will be identical to the original XLSM document.
+Follow the easy steps to convert XLSM to XLTM. Upload your XLSM file, then simply save it as XLTM file. For both XLSM reading and XLTM writing you can use fully qualified filenames. The output XLTM content and formatting will be identical to the original XLSM document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert XLSM file into XLTM format. Upload your XLSM fi
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert XLSM file to XLTM in just a few lines of code.
+ Java developers can easily convert XLSM to XLTM in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

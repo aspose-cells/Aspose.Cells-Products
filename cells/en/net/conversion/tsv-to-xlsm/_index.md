@@ -27,10 +27,10 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Save TSV to XLSM in C# Online for Free" %}}
 
-The following example demonstrates how to convert TSV to XLSM document format in C#.
+The following example demonstrates how to convert TSV to XLSM in C#.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert TSV file into XLSM format. Upload your TSV file, then simply save it as XLSM file. For both TSV reading and XLSM writing you can use fully qualified filenames. The output XLSM content and formatting will be identical to the original TSV document.
+Follow the easy steps to convert TSV to XLSM. Upload your TSV file, then simply save it as XLSM file. For both TSV reading and XLSM writing you can use fully qualified filenames. The output XLSM content and formatting will be identical to the original TSV document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -42,7 +42,7 @@ Follow the easy steps to convert TSV file into XLSM format. Upload your TSV file
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET developers can easily load & convert TSV files to XLSM in just a few lines of code.
+ .NET developers can easily load & convert TSV to XLSM in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert XLSB to FODS programm
 
 {{% blocks/products/pf/agp/content h2="Save XLSB to FODS in Java Online for Free" %}}
 
-The following example demonstrates how to convert XLSB to FODS document format in Java.
+The following example demonstrates how to convert XLSB to FODS in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert XLSB file into FODS format. Upload your XLSB file, then simply save it as FODS file. For both XLSB reading and FODS writing you can use fully qualified filenames. The output FODS content and formatting will be identical to the original XLSB document.
+Follow the easy steps to convert XLSB to FODS. Upload your XLSB file, then simply save it as FODS file. For both XLSB reading and FODS writing you can use fully qualified filenames. The output FODS content and formatting will be identical to the original XLSB document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert XLSB file into FODS format. Upload your XLSB fi
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert XLSB file to FODS in just a few lines of code.
+ Java developers can easily convert XLSB to FODS in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

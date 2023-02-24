@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert MHTML to PDF programm
 
 {{% blocks/products/pf/agp/content h2="Save MHTML to PDF in Java Online for Free" %}}
 
-The following example demonstrates how to convert MHTML to PDF document format in Java.
+The following example demonstrates how to convert MHTML to PDF in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert MHTML file into PDF format. Upload your MHTML file, then simply save it as PDF file. For both MHTML reading and PDF writing you can use fully qualified filenames. The output PDF content and formatting will be identical to the original MHTML document.
+Follow the easy steps to convert MHTML to PDF. Upload your MHTML file, then simply save it as PDF file. For both MHTML reading and PDF writing you can use fully qualified filenames. The output PDF content and formatting will be identical to the original MHTML document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert MHTML file into PDF format. Upload your MHTML f
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert MHTML file to PDF in just a few lines of code.
+ Java developers can easily convert MHTML to PDF in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert JPG to XLSM programma
 
 {{% blocks/products/pf/agp/content h2="Save JPG to XLSM in Java Online for Free" %}}
 
-The following example demonstrates how to convert JPG to XLSM document format in Java.
+The following example demonstrates how to convert JPG to XLSM in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert JPG file into XLSM format. Upload your JPG file, then simply save it as XLSM file. For both JPG reading and XLSM writing you can use fully qualified filenames. The output XLSM content and formatting will be identical to the original JPG document.
+Follow the easy steps to convert JPG to XLSM. Upload your JPG file, then simply save it as XLSM file. For both JPG reading and XLSM writing you can use fully qualified filenames. The output XLSM content and formatting will be identical to the original JPG document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert JPG file into XLSM format. Upload your JPG file
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert JPG file to XLSM in just a few lines of code.
+ Java developers can easily convert JPG to XLSM in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

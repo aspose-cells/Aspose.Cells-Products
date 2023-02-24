@@ -27,10 +27,10 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Save JPEG to TSV in C# Online for Free" %}}
 
-The following example demonstrates how to convert JPEG to TSV document format in C#.
+The following example demonstrates how to convert JPEG to TSV in C#.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert JPEG file into TSV format. Upload your JPEG file, then simply save it as TSV file. For both JPEG reading and TSV writing you can use fully qualified filenames. The output TSV content and formatting will be identical to the original JPEG document.
+Follow the easy steps to convert JPEG to TSV. Upload your JPEG file, then simply save it as TSV file. For both JPEG reading and TSV writing you can use fully qualified filenames. The output TSV content and formatting will be identical to the original JPEG document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -42,7 +42,7 @@ Follow the easy steps to convert JPEG file into TSV format. Upload your JPEG fil
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET developers can easily load & convert JPEG files to TSV in just a few lines of code.
+ .NET developers can easily load & convert JPEG to TSV in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

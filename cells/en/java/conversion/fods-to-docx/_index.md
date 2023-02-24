@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert FODS to DOCX programm
 
 {{% blocks/products/pf/agp/content h2="Save FODS to DOCX in Java Online for Free" %}}
 
-The following example demonstrates how to convert FODS to DOCX document format in Java.
+The following example demonstrates how to convert FODS to DOCX in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert FODS file into DOCX format. Upload your FODS file, then simply save it as DOCX file. For both FODS reading and DOCX writing you can use fully qualified filenames. The output DOCX content and formatting will be identical to the original FODS document.
+Follow the easy steps to convert FODS to DOCX. Upload your FODS file, then simply save it as DOCX file. For both FODS reading and DOCX writing you can use fully qualified filenames. The output DOCX content and formatting will be identical to the original FODS document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert FODS file into DOCX format. Upload your FODS fi
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert FODS file to DOCX in just a few lines of code.
+ Java developers can easily convert FODS to DOCX in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

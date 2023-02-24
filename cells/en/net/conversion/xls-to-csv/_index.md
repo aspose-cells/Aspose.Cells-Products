@@ -27,10 +27,10 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Save XLS to CSV in C# Online for Free" %}}
 
-The following example demonstrates how to convert XLS to CSV document format in C#.
+The following example demonstrates how to convert XLS to CSV in C#.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert XLS file into CSV format. Upload your XLS file, then simply save it as CSV file. For both XLS reading and CSV writing you can use fully qualified filenames. The output CSV content and formatting will be identical to the original XLS document.
+Follow the easy steps to convert XLS to CSV. Upload your XLS file, then simply save it as CSV file. For both XLS reading and CSV writing you can use fully qualified filenames. The output CSV content and formatting will be identical to the original XLS document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -42,7 +42,7 @@ Follow the easy steps to convert XLS file into CSV format. Upload your XLS file,
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET developers can easily load & convert XLS files to CSV in just a few lines of code.
+ .NET developers can easily load & convert XLS to CSV in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

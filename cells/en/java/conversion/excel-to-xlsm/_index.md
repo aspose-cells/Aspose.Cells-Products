@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert EXCEL to XLSM program
 
 {{% blocks/products/pf/agp/content h2="Save EXCEL to XLSM in Java Online for Free" %}}
 
-The following example demonstrates how to convert EXCEL to XLSM document format in Java.
+The following example demonstrates how to convert EXCEL to XLSM in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert EXCEL file into XLSM format. Upload your EXCEL file, then simply save it as XLSM file. For both EXCEL reading and XLSM writing you can use fully qualified filenames. The output XLSM content and formatting will be identical to the original EXCEL document.
+Follow the easy steps to convert EXCEL to XLSM. Upload your EXCEL file, then simply save it as XLSM file. For both EXCEL reading and XLSM writing you can use fully qualified filenames. The output XLSM content and formatting will be identical to the original EXCEL document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert EXCEL file into XLSM format. Upload your EXCEL 
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert EXCEL file to XLSM in just a few lines of code.
+ Java developers can easily convert EXCEL to XLSM in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

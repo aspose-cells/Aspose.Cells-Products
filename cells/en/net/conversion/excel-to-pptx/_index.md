@@ -27,10 +27,10 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Save EXCEL to PPTX in C# Online for Free" %}}
 
-The following example demonstrates how to convert EXCEL to PPTX document format in C#.
+The following example demonstrates how to convert EXCEL to PPTX in C#.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert EXCEL file into PPTX format. Upload your EXCEL file, then simply save it as PPTX file. For both EXCEL reading and PPTX writing you can use fully qualified filenames. The output PPTX content and formatting will be identical to the original EXCEL document.
+Follow the easy steps to convert EXCEL to PPTX. Upload your EXCEL file, then simply save it as PPTX file. For both EXCEL reading and PPTX writing you can use fully qualified filenames. The output PPTX content and formatting will be identical to the original EXCEL document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -42,7 +42,7 @@ Follow the easy steps to convert EXCEL file into PPTX format. Upload your EXCEL 
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET developers can easily load & convert EXCEL files to PPTX in just a few lines of code.
+ .NET developers can easily load & convert EXCEL to PPTX in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

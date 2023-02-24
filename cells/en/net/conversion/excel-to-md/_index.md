@@ -27,10 +27,10 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Save EXCEL to MD in C# Online for Free" %}}
 
-The following example demonstrates how to convert EXCEL to MD document format in C#.
+The following example demonstrates how to convert EXCEL to MD in C#.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert EXCEL file into MD format. Upload your EXCEL file, then simply save it as MD file. For both EXCEL reading and MD writing you can use fully qualified filenames. The output MD content and formatting will be identical to the original EXCEL document.
+Follow the easy steps to convert EXCEL to MD. Upload your EXCEL file, then simply save it as MD file. For both EXCEL reading and MD writing you can use fully qualified filenames. The output MD content and formatting will be identical to the original EXCEL document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -42,7 +42,7 @@ Follow the easy steps to convert EXCEL file into MD format. Upload your EXCEL fi
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET developers can easily load & convert EXCEL files to MD in just a few lines of code.
+ .NET developers can easily load & convert EXCEL to MD in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

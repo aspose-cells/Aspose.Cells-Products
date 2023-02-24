@@ -27,10 +27,10 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Save NUMBERS to SVG in C# Online for Free" %}}
 
-The following example demonstrates how to convert NUMBERS to SVG document format in C#.
+The following example demonstrates how to convert NUMBERS to SVG in C#.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert NUMBERS file into SVG format. Upload your NUMBERS file, then simply save it as SVG file. For both NUMBERS reading and SVG writing you can use fully qualified filenames. The output SVG content and formatting will be identical to the original NUMBERS document.
+Follow the easy steps to convert NUMBERS to SVG. Upload your NUMBERS file, then simply save it as SVG file. For both NUMBERS reading and SVG writing you can use fully qualified filenames. The output SVG content and formatting will be identical to the original NUMBERS document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -42,7 +42,7 @@ Follow the easy steps to convert NUMBERS file into SVG format. Upload your NUMBE
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET developers can easily load & convert NUMBERS files to SVG in just a few lines of code.
+ .NET developers can easily load & convert NUMBERS to SVG in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

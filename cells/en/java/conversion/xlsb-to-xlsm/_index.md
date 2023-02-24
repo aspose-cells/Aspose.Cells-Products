@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert XLSB to XLSM programm
 
 {{% blocks/products/pf/agp/content h2="Save XLSB to XLSM in Java Online for Free" %}}
 
-The following example demonstrates how to convert XLSB to XLSM document format in Java.
+The following example demonstrates how to convert XLSB to XLSM in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert XLSB file into XLSM format. Upload your XLSB file, then simply save it as XLSM file. For both XLSB reading and XLSM writing you can use fully qualified filenames. The output XLSM content and formatting will be identical to the original XLSB document.
+Follow the easy steps to convert XLSB to XLSM. Upload your XLSB file, then simply save it as XLSM file. For both XLSB reading and XLSM writing you can use fully qualified filenames. The output XLSM content and formatting will be identical to the original XLSB document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert XLSB file into XLSM format. Upload your XLSB fi
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert XLSB file to XLSM in just a few lines of code.
+ Java developers can easily convert XLSB to XLSM in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

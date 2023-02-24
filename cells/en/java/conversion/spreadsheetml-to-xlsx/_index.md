@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert SPREADSHEETML to XLSX
 
 {{% blocks/products/pf/agp/content h2="Save SPREADSHEETML to XLSX in Java Online for Free" %}}
 
-The following example demonstrates how to convert SPREADSHEETML to XLSX document format in Java.
+The following example demonstrates how to convert SPREADSHEETML to XLSX in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert SPREADSHEETML file into XLSX format. Upload your SPREADSHEETML file, then simply save it as XLSX file. For both SPREADSHEETML reading and XLSX writing you can use fully qualified filenames. The output XLSX content and formatting will be identical to the original SPREADSHEETML document.
+Follow the easy steps to convert SPREADSHEETML to XLSX. Upload your SPREADSHEETML file, then simply save it as XLSX file. For both SPREADSHEETML reading and XLSX writing you can use fully qualified filenames. The output XLSX content and formatting will be identical to the original SPREADSHEETML document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert SPREADSHEETML file into XLSX format. Upload you
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert SPREADSHEETML file to XLSX in just a few lines of code.
+ Java developers can easily convert SPREADSHEETML to XLSX in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

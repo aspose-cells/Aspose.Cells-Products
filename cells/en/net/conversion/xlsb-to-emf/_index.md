@@ -27,10 +27,10 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Save XLSB to EMF in C# Online for Free" %}}
 
-The following example demonstrates how to convert XLSB to EMF document format in C#.
+The following example demonstrates how to convert XLSB to EMF in C#.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert XLSB file into EMF format. Upload your XLSB file, then simply save it as EMF file. For both XLSB reading and EMF writing you can use fully qualified filenames. The output EMF content and formatting will be identical to the original XLSB document.
+Follow the easy steps to convert XLSB to EMF. Upload your XLSB file, then simply save it as EMF file. For both XLSB reading and EMF writing you can use fully qualified filenames. The output EMF content and formatting will be identical to the original XLSB document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -42,7 +42,7 @@ Follow the easy steps to convert XLSB file into EMF format. Upload your XLSB fil
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET developers can easily load & convert XLSB files to EMF in just a few lines of code.
+ .NET developers can easily load & convert XLSB to EMF in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

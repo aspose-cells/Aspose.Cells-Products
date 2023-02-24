@@ -27,10 +27,10 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Save ODS to XLSB in C# Online for Free" %}}
 
-The following example demonstrates how to convert ODS to XLSB document format in C#.
+The following example demonstrates how to convert ODS to XLSB in C#.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert ODS file into XLSB format. Upload your ODS file, then simply save it as XLSB file. For both ODS reading and XLSB writing you can use fully qualified filenames. The output XLSB content and formatting will be identical to the original ODS document.
+Follow the easy steps to convert ODS to XLSB. Upload your ODS file, then simply save it as XLSB file. For both ODS reading and XLSB writing you can use fully qualified filenames. The output XLSB content and formatting will be identical to the original ODS document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -42,7 +42,7 @@ Follow the easy steps to convert ODS file into XLSB format. Upload your ODS file
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET developers can easily load & convert ODS files to XLSB in just a few lines of code.
+ .NET developers can easily load & convert ODS to XLSB in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

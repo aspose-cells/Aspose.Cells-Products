@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert TABDELIMITED to DIF p
 
 {{% blocks/products/pf/agp/content h2="Save TABDELIMITED to DIF in Java Online for Free" %}}
 
-The following example demonstrates how to convert TABDELIMITED to DIF document format in Java.
+The following example demonstrates how to convert TABDELIMITED to DIF in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert TABDELIMITED file into DIF format. Upload your TABDELIMITED file, then simply save it as DIF file. For both TABDELIMITED reading and DIF writing you can use fully qualified filenames. The output DIF content and formatting will be identical to the original TABDELIMITED document.
+Follow the easy steps to convert TABDELIMITED to DIF. Upload your TABDELIMITED file, then simply save it as DIF file. For both TABDELIMITED reading and DIF writing you can use fully qualified filenames. The output DIF content and formatting will be identical to the original TABDELIMITED document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert TABDELIMITED file into DIF format. Upload your 
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert TABDELIMITED file to DIF in just a few lines of code.
+ Java developers can easily convert TABDELIMITED to DIF in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

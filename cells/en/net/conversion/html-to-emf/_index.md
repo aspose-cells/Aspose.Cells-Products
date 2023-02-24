@@ -27,10 +27,10 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Save HTML to EMF in C# Online for Free" %}}
 
-The following example demonstrates how to convert HTML to EMF document format in C#.
+The following example demonstrates how to convert HTML to EMF in C#.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert HTML file into EMF format. Upload your HTML file, then simply save it as EMF file. For both HTML reading and EMF writing you can use fully qualified filenames. The output EMF content and formatting will be identical to the original HTML document.
+Follow the easy steps to convert HTML to EMF. Upload your HTML file, then simply save it as EMF file. For both HTML reading and EMF writing you can use fully qualified filenames. The output EMF content and formatting will be identical to the original HTML document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -42,7 +42,7 @@ Follow the easy steps to convert HTML file into EMF format. Upload your HTML fil
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET developers can easily load & convert HTML files to EMF in just a few lines of code.
+ .NET developers can easily load & convert HTML to EMF in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

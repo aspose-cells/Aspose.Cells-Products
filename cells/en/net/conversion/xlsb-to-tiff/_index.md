@@ -27,10 +27,10 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Save XLSB to TIFF in C# Online for Free" %}}
 
-The following example demonstrates how to convert XLSB to TIFF document format in C#.
+The following example demonstrates how to convert XLSB to TIFF in C#.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert XLSB file into TIFF format. Upload your XLSB file, then simply save it as TIFF file. For both XLSB reading and TIFF writing you can use fully qualified filenames. The output TIFF content and formatting will be identical to the original XLSB document.
+Follow the easy steps to convert XLSB to TIFF. Upload your XLSB file, then simply save it as TIFF file. For both XLSB reading and TIFF writing you can use fully qualified filenames. The output TIFF content and formatting will be identical to the original XLSB document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -42,7 +42,7 @@ Follow the easy steps to convert XLSB file into TIFF format. Upload your XLSB fi
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET developers can easily load & convert XLSB files to TIFF in just a few lines of code.
+ .NET developers can easily load & convert XLSB to TIFF in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

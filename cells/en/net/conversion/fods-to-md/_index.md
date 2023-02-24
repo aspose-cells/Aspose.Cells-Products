@@ -27,10 +27,10 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Save FODS to MD in C# Online for Free" %}}
 
-The following example demonstrates how to convert FODS to MD document format in C#.
+The following example demonstrates how to convert FODS to MD in C#.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert FODS file into MD format. Upload your FODS file, then simply save it as MD file. For both FODS reading and MD writing you can use fully qualified filenames. The output MD content and formatting will be identical to the original FODS document.
+Follow the easy steps to convert FODS to MD. Upload your FODS file, then simply save it as MD file. For both FODS reading and MD writing you can use fully qualified filenames. The output MD content and formatting will be identical to the original FODS document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -42,7 +42,7 @@ Follow the easy steps to convert FODS file into MD format. Upload your FODS file
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET developers can easily load & convert FODS files to MD in just a few lines of code.
+ .NET developers can easily load & convert FODS to MD in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

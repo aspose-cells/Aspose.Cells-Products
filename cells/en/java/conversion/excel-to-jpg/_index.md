@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert EXCEL to JPG programm
 
 {{% blocks/products/pf/agp/content h2="Save EXCEL to JPG in Java Online for Free" %}}
 
-The following example demonstrates how to convert EXCEL to JPG document format in Java.
+The following example demonstrates how to convert EXCEL to JPG in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert EXCEL file into JPG format. Upload your EXCEL file, then simply save it as JPG file. For both EXCEL reading and JPG writing you can use fully qualified filenames. The output JPG content and formatting will be identical to the original EXCEL document.
+Follow the easy steps to convert EXCEL to JPG. Upload your EXCEL file, then simply save it as JPG file. For both EXCEL reading and JPG writing you can use fully qualified filenames. The output JPG content and formatting will be identical to the original EXCEL document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert EXCEL file into JPG format. Upload your EXCEL f
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert EXCEL file to JPG in just a few lines of code.
+ Java developers can easily convert EXCEL to JPG in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

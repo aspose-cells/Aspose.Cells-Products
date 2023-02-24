@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert CSV to XPS programmat
 
 {{% blocks/products/pf/agp/content h2="Save CSV to XPS in Java Online for Free" %}}
 
-The following example demonstrates how to convert CSV to XPS document format in Java.
+The following example demonstrates how to convert CSV to XPS in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert CSV file into XPS format. Upload your CSV file, then simply save it as XPS file. For both CSV reading and XPS writing you can use fully qualified filenames. The output XPS content and formatting will be identical to the original CSV document.
+Follow the easy steps to convert CSV to XPS. Upload your CSV file, then simply save it as XPS file. For both CSV reading and XPS writing you can use fully qualified filenames. The output XPS content and formatting will be identical to the original CSV document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert CSV file into XPS format. Upload your CSV file,
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert CSV file to XPS in just a few lines of code.
+ Java developers can easily convert CSV to XPS in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert HTML to BMP programma
 
 {{% blocks/products/pf/agp/content h2="Save HTML to BMP in Java Online for Free" %}}
 
-The following example demonstrates how to convert HTML to BMP document format in Java.
+The following example demonstrates how to convert HTML to BMP in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert HTML file into BMP format. Upload your HTML file, then simply save it as BMP file. For both HTML reading and BMP writing you can use fully qualified filenames. The output BMP content and formatting will be identical to the original HTML document.
+Follow the easy steps to convert HTML to BMP. Upload your HTML file, then simply save it as BMP file. For both HTML reading and BMP writing you can use fully qualified filenames. The output BMP content and formatting will be identical to the original HTML document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert HTML file into BMP format. Upload your HTML fil
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert HTML file to BMP in just a few lines of code.
+ Java developers can easily convert HTML to BMP in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert NUMBERS to JPEG progr
 
 {{% blocks/products/pf/agp/content h2="Save NUMBERS to JPEG in Java Online for Free" %}}
 
-The following example demonstrates how to convert NUMBERS to JPEG document format in Java.
+The following example demonstrates how to convert NUMBERS to JPEG in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert NUMBERS file into JPEG format. Upload your NUMBERS file, then simply save it as JPEG file. For both NUMBERS reading and JPEG writing you can use fully qualified filenames. The output JPEG content and formatting will be identical to the original NUMBERS document.
+Follow the easy steps to convert NUMBERS to JPEG. Upload your NUMBERS file, then simply save it as JPEG file. For both NUMBERS reading and JPEG writing you can use fully qualified filenames. The output JPEG content and formatting will be identical to the original NUMBERS document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert NUMBERS file into JPEG format. Upload your NUMB
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert NUMBERS file to JPEG in just a few lines of code.
+ Java developers can easily convert NUMBERS to JPEG in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

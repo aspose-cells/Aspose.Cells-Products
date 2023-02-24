@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert JSON to XPS programma
 
 {{% blocks/products/pf/agp/content h2="Save JSON to XPS in Java Online for Free" %}}
 
-The following example demonstrates how to convert JSON to XPS document format in Java.
+The following example demonstrates how to convert JSON to XPS in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert JSON file into XPS format. Upload your JSON file, then simply save it as XPS file. For both JSON reading and XPS writing you can use fully qualified filenames. The output XPS content and formatting will be identical to the original JSON document.
+Follow the easy steps to convert JSON to XPS. Upload your JSON file, then simply save it as XPS file. For both JSON reading and XPS writing you can use fully qualified filenames. The output XPS content and formatting will be identical to the original JSON document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert JSON file into XPS format. Upload your JSON fil
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert JSON file to XPS in just a few lines of code.
+ Java developers can easily convert JSON to XPS in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

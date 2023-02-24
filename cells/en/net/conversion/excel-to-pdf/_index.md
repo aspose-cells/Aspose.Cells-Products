@@ -27,10 +27,10 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Save EXCEL to PDF in C# Online for Free" %}}
 
-The following example demonstrates how to convert EXCEL to PDF document format in C#.
+The following example demonstrates how to convert EXCEL to PDF in C#.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert EXCEL file into PDF format. Upload your EXCEL file, then simply save it as PDF file. For both EXCEL reading and PDF writing you can use fully qualified filenames. The output PDF content and formatting will be identical to the original EXCEL document.
+Follow the easy steps to convert EXCEL to PDF. Upload your EXCEL file, then simply save it as PDF file. For both EXCEL reading and PDF writing you can use fully qualified filenames. The output PDF content and formatting will be identical to the original EXCEL document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -42,7 +42,7 @@ Follow the easy steps to convert EXCEL file into PDF format. Upload your EXCEL f
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET developers can easily load & convert EXCEL files to PDF in just a few lines of code.
+ .NET developers can easily load & convert EXCEL to PDF in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

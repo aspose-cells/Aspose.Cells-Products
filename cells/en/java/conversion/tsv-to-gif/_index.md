@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert TSV to GIF programmat
 
 {{% blocks/products/pf/agp/content h2="Save TSV to GIF in Java Online for Free" %}}
 
-The following example demonstrates how to convert TSV to GIF document format in Java.
+The following example demonstrates how to convert TSV to GIF in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert TSV file into GIF format. Upload your TSV file, then simply save it as GIF file. For both TSV reading and GIF writing you can use fully qualified filenames. The output GIF content and formatting will be identical to the original TSV document.
+Follow the easy steps to convert TSV to GIF. Upload your TSV file, then simply save it as GIF file. For both TSV reading and GIF writing you can use fully qualified filenames. The output GIF content and formatting will be identical to the original TSV document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert TSV file into GIF format. Upload your TSV file,
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert TSV file to GIF in just a few lines of code.
+ Java developers can easily convert TSV to GIF in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

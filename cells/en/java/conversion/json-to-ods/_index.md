@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert JSON to ODS programma
 
 {{% blocks/products/pf/agp/content h2="Save JSON to ODS in Java Online for Free" %}}
 
-The following example demonstrates how to convert JSON to ODS document format in Java.
+The following example demonstrates how to convert JSON to ODS in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert JSON file into ODS format. Upload your JSON file, then simply save it as ODS file. For both JSON reading and ODS writing you can use fully qualified filenames. The output ODS content and formatting will be identical to the original JSON document.
+Follow the easy steps to convert JSON to ODS. Upload your JSON file, then simply save it as ODS file. For both JSON reading and ODS writing you can use fully qualified filenames. The output ODS content and formatting will be identical to the original JSON document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert JSON file into ODS format. Upload your JSON fil
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert JSON file to ODS in just a few lines of code.
+ Java developers can easily convert JSON to ODS in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

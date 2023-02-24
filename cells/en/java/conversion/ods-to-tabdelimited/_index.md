@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert ODS to TABDELIMITED p
 
 {{% blocks/products/pf/agp/content h2="Save ODS to TABDELIMITED in Java Online for Free" %}}
 
-The following example demonstrates how to convert ODS to TABDELIMITED document format in Java.
+The following example demonstrates how to convert ODS to TABDELIMITED in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert ODS file into TABDELIMITED format. Upload your ODS file, then simply save it as TABDELIMITED file. For both ODS reading and TABDELIMITED writing you can use fully qualified filenames. The output TABDELIMITED content and formatting will be identical to the original ODS document.
+Follow the easy steps to convert ODS to TABDELIMITED. Upload your ODS file, then simply save it as TABDELIMITED file. For both ODS reading and TABDELIMITED writing you can use fully qualified filenames. The output TABDELIMITED content and formatting will be identical to the original ODS document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert ODS file into TABDELIMITED format. Upload your 
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert ODS file to TABDELIMITED in just a few lines of code.
+ Java developers can easily convert ODS to TABDELIMITED in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

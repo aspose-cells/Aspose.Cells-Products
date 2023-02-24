@@ -27,10 +27,10 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Save XLTM to CSV in C# Online for Free" %}}
 
-The following example demonstrates how to convert XLTM to CSV document format in C#.
+The following example demonstrates how to convert XLTM to CSV in C#.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert XLTM file into CSV format. Upload your XLTM file, then simply save it as CSV file. For both XLTM reading and CSV writing you can use fully qualified filenames. The output CSV content and formatting will be identical to the original XLTM document.
+Follow the easy steps to convert XLTM to CSV. Upload your XLTM file, then simply save it as CSV file. For both XLTM reading and CSV writing you can use fully qualified filenames. The output CSV content and formatting will be identical to the original XLTM document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -42,7 +42,7 @@ Follow the easy steps to convert XLTM file into CSV format. Upload your XLTM fil
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET developers can easily load & convert XLTM files to CSV in just a few lines of code.
+ .NET developers can easily load & convert XLTM to CSV in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

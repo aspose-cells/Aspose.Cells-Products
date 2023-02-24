@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert FODS to GIF programma
 
 {{% blocks/products/pf/agp/content h2="Save FODS to GIF in Java Online for Free" %}}
 
-The following example demonstrates how to convert FODS to GIF document format in Java.
+The following example demonstrates how to convert FODS to GIF in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert FODS file into GIF format. Upload your FODS file, then simply save it as GIF file. For both FODS reading and GIF writing you can use fully qualified filenames. The output GIF content and formatting will be identical to the original FODS document.
+Follow the easy steps to convert FODS to GIF. Upload your FODS file, then simply save it as GIF file. For both FODS reading and GIF writing you can use fully qualified filenames. The output GIF content and formatting will be identical to the original FODS document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert FODS file into GIF format. Upload your FODS fil
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert FODS file to GIF in just a few lines of code.
+ Java developers can easily convert FODS to GIF in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert SXC to EMF programmat
 
 {{% blocks/products/pf/agp/content h2="Save SXC to EMF in Java Online for Free" %}}
 
-The following example demonstrates how to convert SXC to EMF document format in Java.
+The following example demonstrates how to convert SXC to EMF in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert SXC file into EMF format. Upload your SXC file, then simply save it as EMF file. For both SXC reading and EMF writing you can use fully qualified filenames. The output EMF content and formatting will be identical to the original SXC document.
+Follow the easy steps to convert SXC to EMF. Upload your SXC file, then simply save it as EMF file. For both SXC reading and EMF writing you can use fully qualified filenames. The output EMF content and formatting will be identical to the original SXC document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert SXC file into EMF format. Upload your SXC file,
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert SXC file to EMF in just a few lines of code.
+ Java developers can easily convert SXC to EMF in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

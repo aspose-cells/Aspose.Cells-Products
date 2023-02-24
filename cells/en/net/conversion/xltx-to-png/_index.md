@@ -27,10 +27,10 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Save XLTX to PNG in C# Online for Free" %}}
 
-The following example demonstrates how to convert XLTX to PNG document format in C#.
+The following example demonstrates how to convert XLTX to PNG in C#.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert XLTX file into PNG format. Upload your XLTX file, then simply save it as PNG file. For both XLTX reading and PNG writing you can use fully qualified filenames. The output PNG content and formatting will be identical to the original XLTX document.
+Follow the easy steps to convert XLTX to PNG. Upload your XLTX file, then simply save it as PNG file. For both XLTX reading and PNG writing you can use fully qualified filenames. The output PNG content and formatting will be identical to the original XLTX document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -42,7 +42,7 @@ Follow the easy steps to convert XLTX file into PNG format. Upload your XLTX fil
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET developers can easily load & convert XLTX files to PNG in just a few lines of code.
+ .NET developers can easily load & convert XLTX to PNG in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert XLSX to MARKDOWN prog
 
 {{% blocks/products/pf/agp/content h2="Save XLSX to MARKDOWN in Java Online for Free" %}}
 
-The following example demonstrates how to convert XLSX to MARKDOWN document format in Java.
+The following example demonstrates how to convert XLSX to MARKDOWN in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert XLSX file into MARKDOWN format. Upload your XLSX file, then simply save it as MARKDOWN file. For both XLSX reading and MARKDOWN writing you can use fully qualified filenames. The output MARKDOWN content and formatting will be identical to the original XLSX document.
+Follow the easy steps to convert XLSX to MARKDOWN. Upload your XLSX file, then simply save it as MARKDOWN file. For both XLSX reading and MARKDOWN writing you can use fully qualified filenames. The output MARKDOWN content and formatting will be identical to the original XLSX document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert XLSX file into MARKDOWN format. Upload your XLS
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert XLSX file to MARKDOWN in just a few lines of code.
+ Java developers can easily convert XLSX to MARKDOWN in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

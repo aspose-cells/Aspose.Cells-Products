@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert XLTM to MARKDOWN prog
 
 {{% blocks/products/pf/agp/content h2="Save XLTM to MARKDOWN in Java Online for Free" %}}
 
-The following example demonstrates how to convert XLTM to MARKDOWN document format in Java.
+The following example demonstrates how to convert XLTM to MARKDOWN in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert XLTM file into MARKDOWN format. Upload your XLTM file, then simply save it as MARKDOWN file. For both XLTM reading and MARKDOWN writing you can use fully qualified filenames. The output MARKDOWN content and formatting will be identical to the original XLTM document.
+Follow the easy steps to convert XLTM to MARKDOWN. Upload your XLTM file, then simply save it as MARKDOWN file. For both XLTM reading and MARKDOWN writing you can use fully qualified filenames. The output MARKDOWN content and formatting will be identical to the original XLTM document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert XLTM file into MARKDOWN format. Upload your XLT
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert XLTM file to MARKDOWN in just a few lines of code.
+ Java developers can easily convert XLTM to MARKDOWN in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

@@ -27,10 +27,10 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Save XLT to HTML in C# Online for Free" %}}
 
-The following example demonstrates how to convert XLT to HTML document format in C#.
+The following example demonstrates how to convert XLT to HTML in C#.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert XLT file into HTML format. Upload your XLT file, then simply save it as HTML file. For both XLT reading and HTML writing you can use fully qualified filenames. The output HTML content and formatting will be identical to the original XLT document.
+Follow the easy steps to convert XLT to HTML. Upload your XLT file, then simply save it as HTML file. For both XLT reading and HTML writing you can use fully qualified filenames. The output HTML content and formatting will be identical to the original XLT document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -42,7 +42,7 @@ Follow the easy steps to convert XLT file into HTML format. Upload your XLT file
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET developers can easily load & convert XLT files to HTML in just a few lines of code.
+ .NET developers can easily load & convert XLT to HTML in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

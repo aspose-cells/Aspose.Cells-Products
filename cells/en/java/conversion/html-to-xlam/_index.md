@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert HTML to XLAM programm
 
 {{% blocks/products/pf/agp/content h2="Save HTML to XLAM in Java Online for Free" %}}
 
-The following example demonstrates how to convert HTML to XLAM document format in Java.
+The following example demonstrates how to convert HTML to XLAM in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert HTML file into XLAM format. Upload your HTML file, then simply save it as XLAM file. For both HTML reading and XLAM writing you can use fully qualified filenames. The output XLAM content and formatting will be identical to the original HTML document.
+Follow the easy steps to convert HTML to XLAM. Upload your HTML file, then simply save it as XLAM file. For both HTML reading and XLAM writing you can use fully qualified filenames. The output XLAM content and formatting will be identical to the original HTML document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert HTML file into XLAM format. Upload your HTML fi
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert HTML file to XLAM in just a few lines of code.
+ Java developers can easily convert HTML to XLAM in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert SXC to WORD programma
 
 {{% blocks/products/pf/agp/content h2="Save SXC to WORD in Java Online for Free" %}}
 
-The following example demonstrates how to convert SXC to WORD document format in Java.
+The following example demonstrates how to convert SXC to WORD in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert SXC file into WORD format. Upload your SXC file, then simply save it as WORD file. For both SXC reading and WORD writing you can use fully qualified filenames. The output WORD content and formatting will be identical to the original SXC document.
+Follow the easy steps to convert SXC to WORD. Upload your SXC file, then simply save it as WORD file. For both SXC reading and WORD writing you can use fully qualified filenames. The output WORD content and formatting will be identical to the original SXC document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert SXC file into WORD format. Upload your SXC file
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert SXC file to WORD in just a few lines of code.
+ Java developers can easily convert SXC to WORD in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

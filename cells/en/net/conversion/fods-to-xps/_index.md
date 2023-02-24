@@ -27,10 +27,10 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Save FODS to XPS in C# Online for Free" %}}
 
-The following example demonstrates how to convert FODS to XPS document format in C#.
+The following example demonstrates how to convert FODS to XPS in C#.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert FODS file into XPS format. Upload your FODS file, then simply save it as XPS file. For both FODS reading and XPS writing you can use fully qualified filenames. The output XPS content and formatting will be identical to the original FODS document.
+Follow the easy steps to convert FODS to XPS. Upload your FODS file, then simply save it as XPS file. For both FODS reading and XPS writing you can use fully qualified filenames. The output XPS content and formatting will be identical to the original FODS document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -42,7 +42,7 @@ Follow the easy steps to convert FODS file into XPS format. Upload your FODS fil
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET developers can easily load & convert FODS files to XPS in just a few lines of code.
+ .NET developers can easily load & convert FODS to XPS in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

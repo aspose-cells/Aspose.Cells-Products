@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert XLTM to PDF programma
 
 {{% blocks/products/pf/agp/content h2="Save XLTM to PDF in Java Online for Free" %}}
 
-The following example demonstrates how to convert XLTM to PDF document format in Java.
+The following example demonstrates how to convert XLTM to PDF in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert XLTM file into PDF format. Upload your XLTM file, then simply save it as PDF file. For both XLTM reading and PDF writing you can use fully qualified filenames. The output PDF content and formatting will be identical to the original XLTM document.
+Follow the easy steps to convert XLTM to PDF. Upload your XLTM file, then simply save it as PDF file. For both XLTM reading and PDF writing you can use fully qualified filenames. The output PDF content and formatting will be identical to the original XLTM document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert XLTM file into PDF format. Upload your XLTM fil
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert XLTM file to PDF in just a few lines of code.
+ Java developers can easily convert XLTM to PDF in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

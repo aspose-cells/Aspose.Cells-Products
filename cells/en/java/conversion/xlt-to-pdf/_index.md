@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert XLT to PDF programmat
 
 {{% blocks/products/pf/agp/content h2="Save XLT to PDF in Java Online for Free" %}}
 
-The following example demonstrates how to convert XLT to PDF document format in Java.
+The following example demonstrates how to convert XLT to PDF in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert XLT file into PDF format. Upload your XLT file, then simply save it as PDF file. For both XLT reading and PDF writing you can use fully qualified filenames. The output PDF content and formatting will be identical to the original XLT document.
+Follow the easy steps to convert XLT to PDF. Upload your XLT file, then simply save it as PDF file. For both XLT reading and PDF writing you can use fully qualified filenames. The output PDF content and formatting will be identical to the original XLT document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert XLT file into PDF format. Upload your XLT file,
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert XLT file to PDF in just a few lines of code.
+ Java developers can easily convert XLT to PDF in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

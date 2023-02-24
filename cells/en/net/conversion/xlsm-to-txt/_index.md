@@ -27,10 +27,10 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Save XLSM to TXT in C# Online for Free" %}}
 
-The following example demonstrates how to convert XLSM to TXT document format in C#.
+The following example demonstrates how to convert XLSM to TXT in C#.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert XLSM file into TXT format. Upload your XLSM file, then simply save it as TXT file. For both XLSM reading and TXT writing you can use fully qualified filenames. The output TXT content and formatting will be identical to the original XLSM document.
+Follow the easy steps to convert XLSM to TXT. Upload your XLSM file, then simply save it as TXT file. For both XLSM reading and TXT writing you can use fully qualified filenames. The output TXT content and formatting will be identical to the original XLSM document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -42,7 +42,7 @@ Follow the easy steps to convert XLSM file into TXT format. Upload your XLSM fil
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET developers can easily load & convert XLSM files to TXT in just a few lines of code.
+ .NET developers can easily load & convert XLSM to TXT in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

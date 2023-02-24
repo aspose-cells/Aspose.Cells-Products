@@ -27,10 +27,10 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Save XLSB to XLT in C# Online for Free" %}}
 
-The following example demonstrates how to convert XLSB to XLT document format in C#.
+The following example demonstrates how to convert XLSB to XLT in C#.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert XLSB file into XLT format. Upload your XLSB file, then simply save it as XLT file. For both XLSB reading and XLT writing you can use fully qualified filenames. The output XLT content and formatting will be identical to the original XLSB document.
+Follow the easy steps to convert XLSB to XLT. Upload your XLSB file, then simply save it as XLT file. For both XLSB reading and XLT writing you can use fully qualified filenames. The output XLT content and formatting will be identical to the original XLSB document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -42,7 +42,7 @@ Follow the easy steps to convert XLSB file into XLT format. Upload your XLSB fil
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET developers can easily load & convert XLSB files to XLT in just a few lines of code.
+ .NET developers can easily load & convert XLSB to XLT in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

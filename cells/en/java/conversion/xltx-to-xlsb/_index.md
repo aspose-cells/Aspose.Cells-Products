@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert XLTX to XLSB programm
 
 {{% blocks/products/pf/agp/content h2="Save XLTX to XLSB in Java Online for Free" %}}
 
-The following example demonstrates how to convert XLTX to XLSB document format in Java.
+The following example demonstrates how to convert XLTX to XLSB in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert XLTX file into XLSB format. Upload your XLTX file, then simply save it as XLSB file. For both XLTX reading and XLSB writing you can use fully qualified filenames. The output XLSB content and formatting will be identical to the original XLTX document.
+Follow the easy steps to convert XLTX to XLSB. Upload your XLTX file, then simply save it as XLSB file. For both XLTX reading and XLSB writing you can use fully qualified filenames. The output XLSB content and formatting will be identical to the original XLTX document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert XLTX file into XLSB format. Upload your XLTX fi
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert XLTX file to XLSB in just a few lines of code.
+ Java developers can easily convert XLTX to XLSB in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

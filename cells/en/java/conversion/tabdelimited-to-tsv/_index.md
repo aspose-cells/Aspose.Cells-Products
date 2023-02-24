@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert TABDELIMITED to TSV p
 
 {{% blocks/products/pf/agp/content h2="Save TABDELIMITED to TSV in Java Online for Free" %}}
 
-The following example demonstrates how to convert TABDELIMITED to TSV document format in Java.
+The following example demonstrates how to convert TABDELIMITED to TSV in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert TABDELIMITED file into TSV format. Upload your TABDELIMITED file, then simply save it as TSV file. For both TABDELIMITED reading and TSV writing you can use fully qualified filenames. The output TSV content and formatting will be identical to the original TABDELIMITED document.
+Follow the easy steps to convert TABDELIMITED to TSV. Upload your TABDELIMITED file, then simply save it as TSV file. For both TABDELIMITED reading and TSV writing you can use fully qualified filenames. The output TSV content and formatting will be identical to the original TABDELIMITED document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert TABDELIMITED file into TSV format. Upload your 
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert TABDELIMITED file to TSV in just a few lines of code.
+ Java developers can easily convert TABDELIMITED to TSV in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

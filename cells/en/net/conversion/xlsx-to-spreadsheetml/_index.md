@@ -27,10 +27,10 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Save XLSX to SPREADSHEETML in C# Online for Free" %}}
 
-The following example demonstrates how to convert XLSX to SPREADSHEETML document format in C#.
+The following example demonstrates how to convert XLSX to SPREADSHEETML in C#.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert XLSX file into SPREADSHEETML format. Upload your XLSX file, then simply save it as SPREADSHEETML file. For both XLSX reading and SPREADSHEETML writing you can use fully qualified filenames. The output SPREADSHEETML content and formatting will be identical to the original XLSX document.
+Follow the easy steps to convert XLSX to SPREADSHEETML. Upload your XLSX file, then simply save it as SPREADSHEETML file. For both XLSX reading and SPREADSHEETML writing you can use fully qualified filenames. The output SPREADSHEETML content and formatting will be identical to the original XLSX document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -42,7 +42,7 @@ Follow the easy steps to convert XLSX file into SPREADSHEETML format. Upload you
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET developers can easily load & convert XLSX files to SPREADSHEETML in just a few lines of code.
+ .NET developers can easily load & convert XLSX to SPREADSHEETML in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

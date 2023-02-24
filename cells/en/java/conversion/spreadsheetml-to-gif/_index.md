@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert SPREADSHEETML to GIF 
 
 {{% blocks/products/pf/agp/content h2="Save SPREADSHEETML to GIF in Java Online for Free" %}}
 
-The following example demonstrates how to convert SPREADSHEETML to GIF document format in Java.
+The following example demonstrates how to convert SPREADSHEETML to GIF in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert SPREADSHEETML file into GIF format. Upload your SPREADSHEETML file, then simply save it as GIF file. For both SPREADSHEETML reading and GIF writing you can use fully qualified filenames. The output GIF content and formatting will be identical to the original SPREADSHEETML document.
+Follow the easy steps to convert SPREADSHEETML to GIF. Upload your SPREADSHEETML file, then simply save it as GIF file. For both SPREADSHEETML reading and GIF writing you can use fully qualified filenames. The output GIF content and formatting will be identical to the original SPREADSHEETML document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert SPREADSHEETML file into GIF format. Upload your
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert SPREADSHEETML file to GIF in just a few lines of code.
+ Java developers can easily convert SPREADSHEETML to GIF in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

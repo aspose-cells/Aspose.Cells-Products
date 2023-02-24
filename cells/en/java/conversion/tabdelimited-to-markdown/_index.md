@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert TABDELIMITED to MARKD
 
 {{% blocks/products/pf/agp/content h2="Save TABDELIMITED to MARKDOWN in Java Online for Free" %}}
 
-The following example demonstrates how to convert TABDELIMITED to MARKDOWN document format in Java.
+The following example demonstrates how to convert TABDELIMITED to MARKDOWN in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert TABDELIMITED file into MARKDOWN format. Upload your TABDELIMITED file, then simply save it as MARKDOWN file. For both TABDELIMITED reading and MARKDOWN writing you can use fully qualified filenames. The output MARKDOWN content and formatting will be identical to the original TABDELIMITED document.
+Follow the easy steps to convert TABDELIMITED to MARKDOWN. Upload your TABDELIMITED file, then simply save it as MARKDOWN file. For both TABDELIMITED reading and MARKDOWN writing you can use fully qualified filenames. The output MARKDOWN content and formatting will be identical to the original TABDELIMITED document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert TABDELIMITED file into MARKDOWN format. Upload 
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert TABDELIMITED file to MARKDOWN in just a few lines of code.
+ Java developers can easily convert TABDELIMITED to MARKDOWN in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

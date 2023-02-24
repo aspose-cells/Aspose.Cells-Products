@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert JPG to PPTX programma
 
 {{% blocks/products/pf/agp/content h2="Save JPG to PPTX in Java Online for Free" %}}
 
-The following example demonstrates how to convert JPG to PPTX document format in Java.
+The following example demonstrates how to convert JPG to PPTX in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert JPG file into PPTX format. Upload your JPG file, then simply save it as PPTX file. For both JPG reading and PPTX writing you can use fully qualified filenames. The output PPTX content and formatting will be identical to the original JPG document.
+Follow the easy steps to convert JPG to PPTX. Upload your JPG file, then simply save it as PPTX file. For both JPG reading and PPTX writing you can use fully qualified filenames. The output PPTX content and formatting will be identical to the original JPG document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert JPG file into PPTX format. Upload your JPG file
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert JPG file to PPTX in just a few lines of code.
+ Java developers can easily convert JPG to PPTX in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

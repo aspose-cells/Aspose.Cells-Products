@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert TXT to XLSB programma
 
 {{% blocks/products/pf/agp/content h2="Save TXT to XLSB in Java Online for Free" %}}
 
-The following example demonstrates how to convert TXT to XLSB document format in Java.
+The following example demonstrates how to convert TXT to XLSB in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert TXT file into XLSB format. Upload your TXT file, then simply save it as XLSB file. For both TXT reading and XLSB writing you can use fully qualified filenames. The output XLSB content and formatting will be identical to the original TXT document.
+Follow the easy steps to convert TXT to XLSB. Upload your TXT file, then simply save it as XLSB file. For both TXT reading and XLSB writing you can use fully qualified filenames. The output XLSB content and formatting will be identical to the original TXT document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert TXT file into XLSB format. Upload your TXT file
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert TXT file to XLSB in just a few lines of code.
+ Java developers can easily convert TXT to XLSB in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

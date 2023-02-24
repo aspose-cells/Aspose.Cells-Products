@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert TABDELIMITED to TXT p
 
 {{% blocks/products/pf/agp/content h2="Save TABDELIMITED to TXT in Java Online for Free" %}}
 
-The following example demonstrates how to convert TABDELIMITED to TXT document format in Java.
+The following example demonstrates how to convert TABDELIMITED to TXT in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert TABDELIMITED file into TXT format. Upload your TABDELIMITED file, then simply save it as TXT file. For both TABDELIMITED reading and TXT writing you can use fully qualified filenames. The output TXT content and formatting will be identical to the original TABDELIMITED document.
+Follow the easy steps to convert TABDELIMITED to TXT. Upload your TABDELIMITED file, then simply save it as TXT file. For both TABDELIMITED reading and TXT writing you can use fully qualified filenames. The output TXT content and formatting will be identical to the original TABDELIMITED document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert TABDELIMITED file into TXT format. Upload your 
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert TABDELIMITED file to TXT in just a few lines of code.
+ Java developers can easily convert TABDELIMITED to TXT in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

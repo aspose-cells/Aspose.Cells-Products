@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert TABDELIMITED to XLSX 
 
 {{% blocks/products/pf/agp/content h2="Save TABDELIMITED to XLSX in Java Online for Free" %}}
 
-The following example demonstrates how to convert TABDELIMITED to XLSX document format in Java.
+The following example demonstrates how to convert TABDELIMITED to XLSX in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert TABDELIMITED file into XLSX format. Upload your TABDELIMITED file, then simply save it as XLSX file. For both TABDELIMITED reading and XLSX writing you can use fully qualified filenames. The output XLSX content and formatting will be identical to the original TABDELIMITED document.
+Follow the easy steps to convert TABDELIMITED to XLSX. Upload your TABDELIMITED file, then simply save it as XLSX file. For both TABDELIMITED reading and XLSX writing you can use fully qualified filenames. The output XLSX content and formatting will be identical to the original TABDELIMITED document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert TABDELIMITED file into XLSX format. Upload your
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert TABDELIMITED file to XLSX in just a few lines of code.
+ Java developers can easily convert TABDELIMITED to XLSX in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert EXCEL to XLSB program
 
 {{% blocks/products/pf/agp/content h2="Save EXCEL to XLSB in Java Online for Free" %}}
 
-The following example demonstrates how to convert EXCEL to XLSB document format in Java.
+The following example demonstrates how to convert EXCEL to XLSB in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert EXCEL file into XLSB format. Upload your EXCEL file, then simply save it as XLSB file. For both EXCEL reading and XLSB writing you can use fully qualified filenames. The output XLSB content and formatting will be identical to the original EXCEL document.
+Follow the easy steps to convert EXCEL to XLSB. Upload your EXCEL file, then simply save it as XLSB file. For both EXCEL reading and XLSB writing you can use fully qualified filenames. The output XLSB content and formatting will be identical to the original EXCEL document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert EXCEL file into XLSB format. Upload your EXCEL 
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert EXCEL file to XLSB in just a few lines of code.
+ Java developers can easily convert EXCEL to XLSB in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

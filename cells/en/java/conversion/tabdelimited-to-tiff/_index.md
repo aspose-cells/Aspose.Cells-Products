@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert TABDELIMITED to TIFF 
 
 {{% blocks/products/pf/agp/content h2="Save TABDELIMITED to TIFF in Java Online for Free" %}}
 
-The following example demonstrates how to convert TABDELIMITED to TIFF document format in Java.
+The following example demonstrates how to convert TABDELIMITED to TIFF in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert TABDELIMITED file into TIFF format. Upload your TABDELIMITED file, then simply save it as TIFF file. For both TABDELIMITED reading and TIFF writing you can use fully qualified filenames. The output TIFF content and formatting will be identical to the original TABDELIMITED document.
+Follow the easy steps to convert TABDELIMITED to TIFF. Upload your TABDELIMITED file, then simply save it as TIFF file. For both TABDELIMITED reading and TIFF writing you can use fully qualified filenames. The output TIFF content and formatting will be identical to the original TABDELIMITED document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert TABDELIMITED file into TIFF format. Upload your
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert TABDELIMITED file to TIFF in just a few lines of code.
+ Java developers can easily convert TABDELIMITED to TIFF in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert TXT to PNG programmat
 
 {{% blocks/products/pf/agp/content h2="Save TXT to PNG in Java Online for Free" %}}
 
-The following example demonstrates how to convert TXT to PNG document format in Java.
+The following example demonstrates how to convert TXT to PNG in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert TXT file into PNG format. Upload your TXT file, then simply save it as PNG file. For both TXT reading and PNG writing you can use fully qualified filenames. The output PNG content and formatting will be identical to the original TXT document.
+Follow the easy steps to convert TXT to PNG. Upload your TXT file, then simply save it as PNG file. For both TXT reading and PNG writing you can use fully qualified filenames. The output PNG content and formatting will be identical to the original TXT document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert TXT file into PNG format. Upload your TXT file,
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert TXT file to PNG in just a few lines of code.
+ Java developers can easily convert TXT to PNG in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

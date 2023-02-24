@@ -27,10 +27,10 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Save JPEG to XLTX in C# Online for Free" %}}
 
-The following example demonstrates how to convert JPEG to XLTX document format in C#.
+The following example demonstrates how to convert JPEG to XLTX in C#.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert JPEG file into XLTX format. Upload your JPEG file, then simply save it as XLTX file. For both JPEG reading and XLTX writing you can use fully qualified filenames. The output XLTX content and formatting will be identical to the original JPEG document.
+Follow the easy steps to convert JPEG to XLTX. Upload your JPEG file, then simply save it as XLTX file. For both JPEG reading and XLTX writing you can use fully qualified filenames. The output XLTX content and formatting will be identical to the original JPEG document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -42,7 +42,7 @@ Follow the easy steps to convert JPEG file into XLTX format. Upload your JPEG fi
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET developers can easily load & convert JPEG files to XLTX in just a few lines of code.
+ .NET developers can easily load & convert JPEG to XLTX in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

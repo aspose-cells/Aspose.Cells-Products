@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert XLS to TXT programmat
 
 {{% blocks/products/pf/agp/content h2="Save XLS to TXT in Java Online for Free" %}}
 
-The following example demonstrates how to convert XLS to TXT document format in Java.
+The following example demonstrates how to convert XLS to TXT in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert XLS file into TXT format. Upload your XLS file, then simply save it as TXT file. For both XLS reading and TXT writing you can use fully qualified filenames. The output TXT content and formatting will be identical to the original XLS document.
+Follow the easy steps to convert XLS to TXT. Upload your XLS file, then simply save it as TXT file. For both XLS reading and TXT writing you can use fully qualified filenames. The output TXT content and formatting will be identical to the original XLS document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert XLS file into TXT format. Upload your XLS file,
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert XLS file to TXT in just a few lines of code.
+ Java developers can easily convert XLS to TXT in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

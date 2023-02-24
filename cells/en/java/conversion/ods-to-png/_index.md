@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert ODS to PNG programmat
 
 {{% blocks/products/pf/agp/content h2="Save ODS to PNG in Java Online for Free" %}}
 
-The following example demonstrates how to convert ODS to PNG document format in Java.
+The following example demonstrates how to convert ODS to PNG in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert ODS file into PNG format. Upload your ODS file, then simply save it as PNG file. For both ODS reading and PNG writing you can use fully qualified filenames. The output PNG content and formatting will be identical to the original ODS document.
+Follow the easy steps to convert ODS to PNG. Upload your ODS file, then simply save it as PNG file. For both ODS reading and PNG writing you can use fully qualified filenames. The output PNG content and formatting will be identical to the original ODS document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert ODS file into PNG format. Upload your ODS file,
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert ODS file to PNG in just a few lines of code.
+ Java developers can easily convert ODS to PNG in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert XLTX to SVG programma
 
 {{% blocks/products/pf/agp/content h2="Save XLTX to SVG in Java Online for Free" %}}
 
-The following example demonstrates how to convert XLTX to SVG document format in Java.
+The following example demonstrates how to convert XLTX to SVG in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert XLTX file into SVG format. Upload your XLTX file, then simply save it as SVG file. For both XLTX reading and SVG writing you can use fully qualified filenames. The output SVG content and formatting will be identical to the original XLTX document.
+Follow the easy steps to convert XLTX to SVG. Upload your XLTX file, then simply save it as SVG file. For both XLTX reading and SVG writing you can use fully qualified filenames. The output SVG content and formatting will be identical to the original XLTX document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert XLTX file into SVG format. Upload your XLTX fil
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert XLTX file to SVG in just a few lines of code.
+ Java developers can easily convert XLTX to SVG in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

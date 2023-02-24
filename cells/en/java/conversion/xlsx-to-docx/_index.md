@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert XLSX to DOCX programm
 
 {{% blocks/products/pf/agp/content h2="Save XLSX to DOCX in Java Online for Free" %}}
 
-The following example demonstrates how to convert XLSX to DOCX document format in Java.
+The following example demonstrates how to convert XLSX to DOCX in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert XLSX file into DOCX format. Upload your XLSX file, then simply save it as DOCX file. For both XLSX reading and DOCX writing you can use fully qualified filenames. The output DOCX content and formatting will be identical to the original XLSX document.
+Follow the easy steps to convert XLSX to DOCX. Upload your XLSX file, then simply save it as DOCX file. For both XLSX reading and DOCX writing you can use fully qualified filenames. The output DOCX content and formatting will be identical to the original XLSX document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert XLSX file into DOCX format. Upload your XLSX fi
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert XLSX file to DOCX in just a few lines of code.
+ Java developers can easily convert XLSX to DOCX in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

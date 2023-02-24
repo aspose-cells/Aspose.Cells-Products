@@ -27,10 +27,10 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Save XLS to XML in C# Online for Free" %}}
 
-The following example demonstrates how to convert XLS to XML document format in C#.
+The following example demonstrates how to convert XLS to XML in C#.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert XLS file into XML format. Upload your XLS file, then simply save it as XML file. For both XLS reading and XML writing you can use fully qualified filenames. The output XML content and formatting will be identical to the original XLS document.
+Follow the easy steps to convert XLS to XML. Upload your XLS file, then simply save it as XML file. For both XLS reading and XML writing you can use fully qualified filenames. The output XML content and formatting will be identical to the original XLS document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -42,7 +42,7 @@ Follow the easy steps to convert XLS file into XML format. Upload your XLS file,
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET developers can easily load & convert XLS files to XML in just a few lines of code.
+ .NET developers can easily load & convert XLS to XML in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

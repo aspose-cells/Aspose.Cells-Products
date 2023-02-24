@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert TABDELIMITED to XLSM 
 
 {{% blocks/products/pf/agp/content h2="Save TABDELIMITED to XLSM in Java Online for Free" %}}
 
-The following example demonstrates how to convert TABDELIMITED to XLSM document format in Java.
+The following example demonstrates how to convert TABDELIMITED to XLSM in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert TABDELIMITED file into XLSM format. Upload your TABDELIMITED file, then simply save it as XLSM file. For both TABDELIMITED reading and XLSM writing you can use fully qualified filenames. The output XLSM content and formatting will be identical to the original TABDELIMITED document.
+Follow the easy steps to convert TABDELIMITED to XLSM. Upload your TABDELIMITED file, then simply save it as XLSM file. For both TABDELIMITED reading and XLSM writing you can use fully qualified filenames. The output XLSM content and formatting will be identical to the original TABDELIMITED document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert TABDELIMITED file into XLSM format. Upload your
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert TABDELIMITED file to XLSM in just a few lines of code.
+ Java developers can easily convert TABDELIMITED to XLSM in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

@@ -27,10 +27,10 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Save TXT to GIF in C# Online for Free" %}}
 
-The following example demonstrates how to convert TXT to GIF document format in C#.
+The following example demonstrates how to convert TXT to GIF in C#.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert TXT file into GIF format. Upload your TXT file, then simply save it as GIF file. For both TXT reading and GIF writing you can use fully qualified filenames. The output GIF content and formatting will be identical to the original TXT document.
+Follow the easy steps to convert TXT to GIF. Upload your TXT file, then simply save it as GIF file. For both TXT reading and GIF writing you can use fully qualified filenames. The output GIF content and formatting will be identical to the original TXT document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -42,7 +42,7 @@ Follow the easy steps to convert TXT file into GIF format. Upload your TXT file,
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET developers can easily load & convert TXT files to GIF in just a few lines of code.
+ .NET developers can easily load & convert TXT to GIF in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

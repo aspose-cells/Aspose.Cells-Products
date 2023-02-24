@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert FODS to MHTML program
 
 {{% blocks/products/pf/agp/content h2="Save FODS to MHTML in Java Online for Free" %}}
 
-The following example demonstrates how to convert FODS to MHTML document format in Java.
+The following example demonstrates how to convert FODS to MHTML in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert FODS file into MHTML format. Upload your FODS file, then simply save it as MHTML file. For both FODS reading and MHTML writing you can use fully qualified filenames. The output MHTML content and formatting will be identical to the original FODS document.
+Follow the easy steps to convert FODS to MHTML. Upload your FODS file, then simply save it as MHTML file. For both FODS reading and MHTML writing you can use fully qualified filenames. The output MHTML content and formatting will be identical to the original FODS document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert FODS file into MHTML format. Upload your FODS f
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert FODS file to MHTML in just a few lines of code.
+ Java developers can easily convert FODS to MHTML in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

@@ -27,10 +27,10 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Save EXCEL to TIFF in C# Online for Free" %}}
 
-The following example demonstrates how to convert EXCEL to TIFF document format in C#.
+The following example demonstrates how to convert EXCEL to TIFF in C#.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert EXCEL file into TIFF format. Upload your EXCEL file, then simply save it as TIFF file. For both EXCEL reading and TIFF writing you can use fully qualified filenames. The output TIFF content and formatting will be identical to the original EXCEL document.
+Follow the easy steps to convert EXCEL to TIFF. Upload your EXCEL file, then simply save it as TIFF file. For both EXCEL reading and TIFF writing you can use fully qualified filenames. The output TIFF content and formatting will be identical to the original EXCEL document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -42,7 +42,7 @@ Follow the easy steps to convert EXCEL file into TIFF format. Upload your EXCEL 
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET developers can easily load & convert EXCEL files to TIFF in just a few lines of code.
+ .NET developers can easily load & convert EXCEL to TIFF in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

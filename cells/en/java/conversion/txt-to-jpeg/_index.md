@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert TXT to JPEG programma
 
 {{% blocks/products/pf/agp/content h2="Save TXT to JPEG in Java Online for Free" %}}
 
-The following example demonstrates how to convert TXT to JPEG document format in Java.
+The following example demonstrates how to convert TXT to JPEG in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert TXT file into JPEG format. Upload your TXT file, then simply save it as JPEG file. For both TXT reading and JPEG writing you can use fully qualified filenames. The output JPEG content and formatting will be identical to the original TXT document.
+Follow the easy steps to convert TXT to JPEG. Upload your TXT file, then simply save it as JPEG file. For both TXT reading and JPEG writing you can use fully qualified filenames. The output JPEG content and formatting will be identical to the original TXT document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert TXT file into JPEG format. Upload your TXT file
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert TXT file to JPEG in just a few lines of code.
+ Java developers can easily convert TXT to JPEG in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

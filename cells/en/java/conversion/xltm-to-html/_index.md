@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert XLTM to HTML programm
 
 {{% blocks/products/pf/agp/content h2="Save XLTM to HTML in Java Online for Free" %}}
 
-The following example demonstrates how to convert XLTM to HTML document format in Java.
+The following example demonstrates how to convert XLTM to HTML in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert XLTM file into HTML format. Upload your XLTM file, then simply save it as HTML file. For both XLTM reading and HTML writing you can use fully qualified filenames. The output HTML content and formatting will be identical to the original XLTM document.
+Follow the easy steps to convert XLTM to HTML. Upload your XLTM file, then simply save it as HTML file. For both XLTM reading and HTML writing you can use fully qualified filenames. The output HTML content and formatting will be identical to the original XLTM document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert XLTM file into HTML format. Upload your XLTM fi
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert XLTM file to HTML in just a few lines of code.
+ Java developers can easily convert XLTM to HTML in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

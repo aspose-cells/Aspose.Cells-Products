@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert FODS to TXT programma
 
 {{% blocks/products/pf/agp/content h2="Save FODS to TXT in Java Online for Free" %}}
 
-The following example demonstrates how to convert FODS to TXT document format in Java.
+The following example demonstrates how to convert FODS to TXT in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert FODS file into TXT format. Upload your FODS file, then simply save it as TXT file. For both FODS reading and TXT writing you can use fully qualified filenames. The output TXT content and formatting will be identical to the original FODS document.
+Follow the easy steps to convert FODS to TXT. Upload your FODS file, then simply save it as TXT file. For both FODS reading and TXT writing you can use fully qualified filenames. The output TXT content and formatting will be identical to the original FODS document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert FODS file into TXT format. Upload your FODS fil
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert FODS file to TXT in just a few lines of code.
+ Java developers can easily convert FODS to TXT in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

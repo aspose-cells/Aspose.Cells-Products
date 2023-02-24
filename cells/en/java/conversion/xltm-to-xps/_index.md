@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert XLTM to XPS programma
 
 {{% blocks/products/pf/agp/content h2="Save XLTM to XPS in Java Online for Free" %}}
 
-The following example demonstrates how to convert XLTM to XPS document format in Java.
+The following example demonstrates how to convert XLTM to XPS in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert XLTM file into XPS format. Upload your XLTM file, then simply save it as XPS file. For both XLTM reading and XPS writing you can use fully qualified filenames. The output XPS content and formatting will be identical to the original XLTM document.
+Follow the easy steps to convert XLTM to XPS. Upload your XLTM file, then simply save it as XPS file. For both XLTM reading and XPS writing you can use fully qualified filenames. The output XPS content and formatting will be identical to the original XLTM document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert XLTM file into XPS format. Upload your XLTM fil
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert XLTM file to XPS in just a few lines of code.
+ Java developers can easily convert XLTM to XPS in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

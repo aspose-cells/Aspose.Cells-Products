@@ -27,10 +27,10 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Save XLS to JSON in C# Online for Free" %}}
 
-The following example demonstrates how to convert XLS to JSON document format in C#.
+The following example demonstrates how to convert XLS to JSON in C#.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert XLS file into JSON format. Upload your XLS file, then simply save it as JSON file. For both XLS reading and JSON writing you can use fully qualified filenames. The output JSON content and formatting will be identical to the original XLS document.
+Follow the easy steps to convert XLS to JSON. Upload your XLS file, then simply save it as JSON file. For both XLS reading and JSON writing you can use fully qualified filenames. The output JSON content and formatting will be identical to the original XLS document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -42,7 +42,7 @@ Follow the easy steps to convert XLS file into JSON format. Upload your XLS file
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET developers can easily load & convert XLS files to JSON in just a few lines of code.
+ .NET developers can easily load & convert XLS to JSON in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

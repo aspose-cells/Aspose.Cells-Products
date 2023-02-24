@@ -48,10 +48,10 @@ With Aspose.Cells for Java library, you can easily convert PNG to MHTML programm
 
 {{% blocks/products/pf/agp/content h2="Save PNG to MHTML in Java Online for Free" %}}
 
-The following example demonstrates how to convert PNG to MHTML document format in Java.
+The following example demonstrates how to convert PNG to MHTML in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert PNG file into MHTML format. Upload your PNG file, then simply save it as MHTML file. For both PNG reading and MHTML writing you can use fully qualified filenames. The output MHTML content and formatting will be identical to the original PNG document.
+Follow the easy steps to convert PNG to MHTML. Upload your PNG file, then simply save it as MHTML file. For both PNG reading and MHTML writing you can use fully qualified filenames. The output MHTML content and formatting will be identical to the original PNG document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Follow the easy steps to convert PNG file into MHTML format. Upload your PNG fil
 
 {{% blocks/products/pf/agp/text %}}
 
- Java developers can easily convert PNG file to MHTML in just a few lines of code.
+ Java developers can easily convert PNG to MHTML in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 

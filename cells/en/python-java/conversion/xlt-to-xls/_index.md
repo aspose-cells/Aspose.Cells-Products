@@ -22,7 +22,7 @@ How to convert XLT to XLS? With Aspose.Cells for Python library, you can easily 
 The following example demonstrates how to convert XLT to XLS in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert XLT into XLS. Upload your XLT file, then simply save it as XLS file. For both XLT reading and XLS writing you can use fully qualified filenames. The output XLS content and formatting will be identical to the original XLT document.
+Follow the easy steps to convert XLT to XLS. Upload your XLT file, then simply save it as XLS file. For both XLT reading and XLS writing you can use fully qualified filenames. The output XLS content and formatting will be identical to the original XLT document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -87,7 +87,7 @@ Files with XLS extension represent Excel Binary File Format. Such files can be c
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert XLT into many other file formats including few listed below." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert XLT to many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlt-to-bmp/" name="XLT TO BMP" description="Bitmap Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlt-to-emf/" name="XLT TO EMF" description="Enhanced Metafile Format" >}}

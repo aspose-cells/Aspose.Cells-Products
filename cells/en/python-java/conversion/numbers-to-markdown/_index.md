@@ -22,7 +22,7 @@ How to convert NUMBERS to MARKDOWN? With Aspose.Cells for Python library, you ca
 The following example demonstrates how to convert NUMBERS to MARKDOWN in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert NUMBERS into MARKDOWN. Upload your NUMBERS file, then simply save it as MARKDOWN file. For both NUMBERS reading and MARKDOWN writing you can use fully qualified filenames. The output MARKDOWN content and formatting will be identical to the original NUMBERS document.
+Follow the easy steps to convert NUMBERS to MARKDOWN. Upload your NUMBERS file, then simply save it as MARKDOWN file. For both NUMBERS reading and MARKDOWN writing you can use fully qualified filenames. The output MARKDOWN content and formatting will be identical to the original NUMBERS document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -87,7 +87,7 @@ Text files created with Markdown language dialects is saved with .md or .MARKDOW
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert NUMBERS into many other file formats including few listed below." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert NUMBERS to many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/numbers-to-bmp/" name="NUMBERS TO BMP" description="Bitmap Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/numbers-to-emf/" name="NUMBERS TO EMF" description="Enhanced Metafile Format" >}}

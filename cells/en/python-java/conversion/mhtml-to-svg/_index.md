@@ -22,7 +22,7 @@ How to convert MHTML to SVG? With Aspose.Cells for Python library, you can easil
 The following example demonstrates how to convert MHTML to SVG in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert MHTML into SVG. Upload your MHTML file, then simply save it as SVG file. For both MHTML reading and SVG writing you can use fully qualified filenames. The output SVG content and formatting will be identical to the original MHTML document.
+Follow the easy steps to convert MHTML to SVG. Upload your MHTML file, then simply save it as SVG file. For both MHTML reading and SVG writing you can use fully qualified filenames. The output SVG content and formatting will be identical to the original MHTML document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -87,7 +87,7 @@ An SVG file is a Scalar Vector Graphics file that uses XML based text format for
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert MHTML into many other file formats including few listed below." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert MHTML to many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-bmp/" name="MHTML TO BMP" description="Bitmap Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-emf/" name="MHTML TO EMF" description="Enhanced Metafile Format" >}}

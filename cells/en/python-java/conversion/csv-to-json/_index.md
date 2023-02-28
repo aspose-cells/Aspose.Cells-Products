@@ -22,7 +22,7 @@ How to convert CSV to JSON? With Aspose.Cells for Python library, you can easily
 The following example demonstrates how to convert CSV to JSON in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert CSV into JSON. Upload your CSV file, then simply save it as JSON file. For both CSV reading and JSON writing you can use fully qualified filenames. The output JSON content and formatting will be identical to the original CSV document.
+Follow the easy steps to convert CSV to JSON. Upload your CSV file, then simply save it as JSON file. For both CSV reading and JSON writing you can use fully qualified filenames. The output JSON content and formatting will be identical to the original CSV document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -87,7 +87,7 @@ JSON (JavaScript Object Notation) is an open standard file format for sharing da
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert CSV into many other file formats including few listed below." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert CSV to many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/csv-to-bmp/" name="CSV TO BMP" description="Bitmap Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/csv-to-emf/" name="CSV TO EMF" description="Enhanced Metafile Format" >}}

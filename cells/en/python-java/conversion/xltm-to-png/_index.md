@@ -22,7 +22,7 @@ How to convert XLTM to PNG? With Aspose.Cells for Python library, you can easily
 The following example demonstrates how to convert XLTM to PNG in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert XLTM into PNG. Upload your XLTM file, then simply save it as PNG file. For both XLTM reading and PNG writing you can use fully qualified filenames. The output PNG content and formatting will be identical to the original XLTM document.
+Follow the easy steps to convert XLTM to PNG. Upload your XLTM file, then simply save it as PNG file. For both XLTM reading and PNG writing you can use fully qualified filenames. The output PNG content and formatting will be identical to the original XLTM document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -87,7 +87,7 @@ A PNG (Portable Network Graphics) file is a raster image file format that uses l
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert XLTM into many other file formats including few listed below." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert XLTM to many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltm-to-bmp/" name="XLTM TO BMP" description="Bitmap Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltm-to-emf/" name="XLTM TO EMF" description="Enhanced Metafile Format" >}}

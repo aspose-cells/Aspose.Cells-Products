@@ -22,7 +22,7 @@ How to convert XLT to MARKDOWN? With Aspose.Cells for Python library, you can ea
 The following example demonstrates how to convert XLT to MARKDOWN in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert XLT into MARKDOWN. Upload your XLT file, then simply save it as MARKDOWN file. For both XLT reading and MARKDOWN writing you can use fully qualified filenames. The output MARKDOWN content and formatting will be identical to the original XLT document.
+Follow the easy steps to convert XLT to MARKDOWN. Upload your XLT file, then simply save it as MARKDOWN file. For both XLT reading and MARKDOWN writing you can use fully qualified filenames. The output MARKDOWN content and formatting will be identical to the original XLT document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -87,7 +87,7 @@ Text files created with Markdown language dialects is saved with .md or .MARKDOW
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert XLT into many other file formats including few listed below." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert XLT to many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlt-to-bmp/" name="XLT TO BMP" description="Bitmap Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlt-to-emf/" name="XLT TO EMF" description="Enhanced Metafile Format" >}}

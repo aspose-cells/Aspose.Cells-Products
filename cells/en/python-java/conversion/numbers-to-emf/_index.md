@@ -22,7 +22,7 @@ How to convert NUMBERS to EMF? With Aspose.Cells for Python library, you can eas
 The following example demonstrates how to convert NUMBERS to EMF in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert NUMBERS into EMF. Upload your NUMBERS file, then simply save it as EMF file. For both NUMBERS reading and EMF writing you can use fully qualified filenames. The output EMF content and formatting will be identical to the original NUMBERS document.
+Follow the easy steps to convert NUMBERS to EMF. Upload your NUMBERS file, then simply save it as EMF file. For both NUMBERS reading and EMF writing you can use fully qualified filenames. The output EMF content and formatting will be identical to the original NUMBERS document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -87,7 +87,7 @@ Enhanced metafile format (EMF) stores graphical images device-independently. Met
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert NUMBERS into many other file formats including few listed below." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert NUMBERS to many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/numbers-to-bmp/" name="NUMBERS TO BMP" description="Bitmap Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/numbers-to-emf/" name="NUMBERS TO EMF" description="Enhanced Metafile Format" >}}

@@ -22,7 +22,7 @@ How to convert XLTX to TXT? With Aspose.Cells for Python library, you can easily
 The following example demonstrates how to convert XLTX to TXT in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert XLTX into TXT. Upload your XLTX file, then simply save it as TXT file. For both XLTX reading and TXT writing you can use fully qualified filenames. The output TXT content and formatting will be identical to the original XLTX document.
+Follow the easy steps to convert XLTX to TXT. Upload your XLTX file, then simply save it as TXT file. For both XLTX reading and TXT writing you can use fully qualified filenames. The output TXT content and formatting will be identical to the original XLTX document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -87,7 +87,7 @@ A file with .TXT extension represents a text document that contains plain text i
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert XLTX into many other file formats including few listed below." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert XLTX to many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltx-to-bmp/" name="XLTX TO BMP" description="Bitmap Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltx-to-emf/" name="XLTX TO EMF" description="Enhanced Metafile Format" >}}

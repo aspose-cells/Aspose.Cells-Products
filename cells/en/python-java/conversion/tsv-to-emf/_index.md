@@ -22,7 +22,7 @@ How to convert TSV to EMF? With Aspose.Cells for Python library, you can easily 
 The following example demonstrates how to convert TSV to EMF in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert TSV into EMF. Upload your TSV file, then simply save it as EMF file. For both TSV reading and EMF writing you can use fully qualified filenames. The output EMF content and formatting will be identical to the original TSV document.
+Follow the easy steps to convert TSV to EMF. Upload your TSV file, then simply save it as EMF file. For both TSV reading and EMF writing you can use fully qualified filenames. The output EMF content and formatting will be identical to the original TSV document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -87,7 +87,7 @@ Enhanced metafile format (EMF) stores graphical images device-independently. Met
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert TSV into many other file formats including few listed below." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert TSV to many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/tsv-to-bmp/" name="TSV TO BMP" description="Bitmap Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/tsv-to-emf/" name="TSV TO EMF" description="Enhanced Metafile Format" >}}

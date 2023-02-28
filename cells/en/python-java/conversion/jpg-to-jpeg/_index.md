@@ -22,7 +22,7 @@ How to convert JPG to JPEG? With Aspose.Cells for Python library, you can easily
 The following example demonstrates how to convert JPG to JPEG in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert JPG into JPEG. Upload your JPG file, then simply save it as JPEG file. For both JPG reading and JPEG writing you can use fully qualified filenames. The output JPEG content and formatting will be identical to the original JPG document.
+Follow the easy steps to convert JPG to JPEG. Upload your JPG file, then simply save it as JPEG file. For both JPG reading and JPEG writing you can use fully qualified filenames. The output JPEG content and formatting will be identical to the original JPG document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -87,7 +87,7 @@ A JPEG is a type of image format that is saved using the method of lossy compres
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert JPG into many other file formats including few listed below." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert JPG to many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-bmp/" name="JPG TO BMP" description="Bitmap Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-emf/" name="JPG TO EMF" description="Enhanced Metafile Format" >}}

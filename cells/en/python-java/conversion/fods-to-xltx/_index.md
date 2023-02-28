@@ -22,7 +22,7 @@ How to convert FODS to XLTX? With Aspose.Cells for Python library, you can easil
 The following example demonstrates how to convert FODS to XLTX in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert FODS into XLTX. Upload your FODS file, then simply save it as XLTX file. For both FODS reading and XLTX writing you can use fully qualified filenames. The output XLTX content and formatting will be identical to the original FODS document.
+Follow the easy steps to convert FODS to XLTX. Upload your FODS file, then simply save it as XLTX file. For both FODS reading and XLTX writing you can use fully qualified filenames. The output XLTX content and formatting will be identical to the original FODS document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -87,7 +87,7 @@ Files with .xltx extension represent Microsoft Excel Template files that are bas
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert FODS into many other file formats including few listed below." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert FODS to many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/fods-to-bmp/" name="FODS TO BMP" description="Bitmap Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/fods-to-emf/" name="FODS TO EMF" description="Enhanced Metafile Format" >}}

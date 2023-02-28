@@ -22,7 +22,7 @@ How to convert PNG to JPG? With Aspose.Cells for Python library, you can easily 
 The following example demonstrates how to convert PNG to JPG in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert PNG into JPG. Upload your PNG file, then simply save it as JPG file. For both PNG reading and JPG writing you can use fully qualified filenames. The output JPG content and formatting will be identical to the original PNG document.
+Follow the easy steps to convert PNG to JPG. Upload your PNG file, then simply save it as JPG file. For both PNG reading and JPG writing you can use fully qualified filenames. The output JPG content and formatting will be identical to the original PNG document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -87,7 +87,7 @@ A JPEG is a type of image format that is saved using the method of lossy compres
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert PNG into many other file formats including few listed below." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert PNG to many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/png-to-bmp/" name="PNG TO BMP" description="Bitmap Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/png-to-emf/" name="PNG TO EMF" description="Enhanced Metafile Format" >}}

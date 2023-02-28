@@ -22,7 +22,7 @@ How to convert XLSM to MD? With Aspose.Cells for Python library, you can easily 
 The following example demonstrates how to convert XLSM to MD in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert XLSM into MD. Upload your XLSM file, then simply save it as MD file. For both XLSM reading and MD writing you can use fully qualified filenames. The output MD content and formatting will be identical to the original XLSM document.
+Follow the easy steps to convert XLSM to MD. Upload your XLSM file, then simply save it as MD file. For both XLSM reading and MD writing you can use fully qualified filenames. The output MD content and formatting will be identical to the original XLSM document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -87,7 +87,7 @@ Text files created with Markdown language dialects is saved with .md or .MARKDOW
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert XLSM into many other file formats including few listed below." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert XLSM to many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsm-to-bmp/" name="XLSM TO BMP" description="Bitmap Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsm-to-emf/" name="XLSM TO EMF" description="Enhanced Metafile Format" >}}

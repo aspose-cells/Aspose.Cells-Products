@@ -22,7 +22,7 @@ How to convert FODS to SVG? With Aspose.Cells for Python library, you can easily
 The following example demonstrates how to convert FODS to SVG in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert FODS into SVG. Upload your FODS file, then simply save it as SVG file. For both FODS reading and SVG writing you can use fully qualified filenames. The output SVG content and formatting will be identical to the original FODS document.
+Follow the easy steps to convert FODS to SVG. Upload your FODS file, then simply save it as SVG file. For both FODS reading and SVG writing you can use fully qualified filenames. The output SVG content and formatting will be identical to the original FODS document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -87,7 +87,7 @@ An SVG file is a Scalar Vector Graphics file that uses XML based text format for
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert FODS into many other file formats including few listed below." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert FODS to many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/fods-to-bmp/" name="FODS TO BMP" description="Bitmap Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/fods-to-emf/" name="FODS TO EMF" description="Enhanced Metafile Format" >}}

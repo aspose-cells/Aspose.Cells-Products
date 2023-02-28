@@ -22,7 +22,7 @@ How to convert TABDELIMITED to SPREADSHEETML? With Aspose.Cells for Python libra
 The following example demonstrates how to convert TABDELIMITED to SPREADSHEETML in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert TABDELIMITED into SPREADSHEETML. Upload your TABDELIMITED file, then simply save it as SPREADSHEETML file. For both TABDELIMITED reading and SPREADSHEETML writing you can use fully qualified filenames. The output SPREADSHEETML content and formatting will be identical to the original TABDELIMITED document.
+Follow the easy steps to convert TABDELIMITED to SPREADSHEETML. Upload your TABDELIMITED file, then simply save it as SPREADSHEETML file. For both TABDELIMITED reading and SPREADSHEETML writing you can use fully qualified filenames. The output SPREADSHEETML content and formatting will be identical to the original TABDELIMITED document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -87,7 +87,7 @@ XML stands for Extensible Markup Language that is similar to HTML but different 
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert TABDELIMITED into many other file formats including few listed below." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert TABDELIMITED to many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/tabdelimited-to-bmp/" name="TABDELIMITED TO BMP" description="Bitmap Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/tabdelimited-to-emf/" name="TABDELIMITED TO EMF" description="Enhanced Metafile Format" >}}

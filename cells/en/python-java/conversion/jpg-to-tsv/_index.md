@@ -22,7 +22,7 @@ How to convert JPG to TSV? With Aspose.Cells for Python library, you can easily 
 The following example demonstrates how to convert JPG to TSV in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert JPG into TSV. Upload your JPG file, then simply save it as TSV file. For both JPG reading and TSV writing you can use fully qualified filenames. The output TSV content and formatting will be identical to the original JPG document.
+Follow the easy steps to convert JPG to TSV. Upload your JPG file, then simply save it as TSV file. For both JPG reading and TSV writing you can use fully qualified filenames. The output TSV content and formatting will be identical to the original JPG document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -87,7 +87,7 @@ A Tab-Separated Values (TSV) file format represents data separated with tabs in 
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert JPG into many other file formats including few listed below." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert JPG to many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-bmp/" name="JPG TO BMP" description="Bitmap Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-emf/" name="JPG TO EMF" description="Enhanced Metafile Format" >}}

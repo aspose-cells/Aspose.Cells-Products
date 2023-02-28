@@ -22,7 +22,7 @@ How to convert XLTM to JPEG? With Aspose.Cells for Python library, you can easil
 The following example demonstrates how to convert XLTM to JPEG in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert XLTM into JPEG. Upload your XLTM file, then simply save it as JPEG file. For both XLTM reading and JPEG writing you can use fully qualified filenames. The output JPEG content and formatting will be identical to the original XLTM document.
+Follow the easy steps to convert XLTM to JPEG. Upload your XLTM file, then simply save it as JPEG file. For both XLTM reading and JPEG writing you can use fully qualified filenames. The output JPEG content and formatting will be identical to the original XLTM document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -87,7 +87,7 @@ A JPEG is a type of image format that is saved using the method of lossy compres
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert XLTM into many other file formats including few listed below." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert XLTM to many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltm-to-bmp/" name="XLTM TO BMP" description="Bitmap Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltm-to-emf/" name="XLTM TO EMF" description="Enhanced Metafile Format" >}}

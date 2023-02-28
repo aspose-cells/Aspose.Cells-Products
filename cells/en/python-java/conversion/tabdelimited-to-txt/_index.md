@@ -22,7 +22,7 @@ How to convert TABDELIMITED to TXT? With Aspose.Cells for Python library, you ca
 The following example demonstrates how to convert TABDELIMITED to TXT in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert TABDELIMITED into TXT. Upload your TABDELIMITED file, then simply save it as TXT file. For both TABDELIMITED reading and TXT writing you can use fully qualified filenames. The output TXT content and formatting will be identical to the original TABDELIMITED document.
+Follow the easy steps to convert TABDELIMITED to TXT. Upload your TABDELIMITED file, then simply save it as TXT file. For both TABDELIMITED reading and TXT writing you can use fully qualified filenames. The output TXT content and formatting will be identical to the original TABDELIMITED document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -87,7 +87,7 @@ A file with .TXT extension represents a text document that contains plain text i
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert TABDELIMITED into many other file formats including few listed below." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert TABDELIMITED to many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/tabdelimited-to-bmp/" name="TABDELIMITED TO BMP" description="Bitmap Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/tabdelimited-to-emf/" name="TABDELIMITED TO EMF" description="Enhanced Metafile Format" >}}

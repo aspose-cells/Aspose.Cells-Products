@@ -22,7 +22,7 @@ How to convert XLS to GIF? With Aspose.Cells for Python library, you can easily 
 The following example demonstrates how to convert XLS to GIF in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert XLS into GIF. Upload your XLS file, then simply save it as GIF file. For both XLS reading and GIF writing you can use fully qualified filenames. The output GIF content and formatting will be identical to the original XLS document.
+Follow the easy steps to convert XLS to GIF. Upload your XLS file, then simply save it as GIF file. For both XLS reading and GIF writing you can use fully qualified filenames. The output GIF content and formatting will be identical to the original XLS document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -87,7 +87,7 @@ A GIF or Graphical Interchange Format is a type of highly compressed image. Owne
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert XLS into many other file formats including few listed below." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert XLS to many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xls-to-bmp/" name="XLS TO BMP" description="Bitmap Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xls-to-emf/" name="XLS TO EMF" description="Enhanced Metafile Format" >}}

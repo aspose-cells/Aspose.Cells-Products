@@ -22,7 +22,7 @@ How to convert TABDELIMITED to GIF? With Aspose.Cells for Python library, you ca
 The following example demonstrates how to convert TABDELIMITED to GIF in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert TABDELIMITED into GIF. Upload your TABDELIMITED file, then simply save it as GIF file. For both TABDELIMITED reading and GIF writing you can use fully qualified filenames. The output GIF content and formatting will be identical to the original TABDELIMITED document.
+Follow the easy steps to convert TABDELIMITED to GIF. Upload your TABDELIMITED file, then simply save it as GIF file. For both TABDELIMITED reading and GIF writing you can use fully qualified filenames. The output GIF content and formatting will be identical to the original TABDELIMITED document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -87,7 +87,7 @@ A GIF or Graphical Interchange Format is a type of highly compressed image. Owne
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert TABDELIMITED into many other file formats including few listed below." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert TABDELIMITED to many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/tabdelimited-to-bmp/" name="TABDELIMITED TO BMP" description="Bitmap Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/tabdelimited-to-emf/" name="TABDELIMITED TO EMF" description="Enhanced Metafile Format" >}}

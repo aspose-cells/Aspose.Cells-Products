@@ -22,7 +22,7 @@ How to convert SXC to XLT? With Aspose.Cells for Python library, you can easily 
 The following example demonstrates how to convert SXC to XLT in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert SXC into XLT. Upload your SXC file, then simply save it as XLT file. For both SXC reading and XLT writing you can use fully qualified filenames. The output XLT content and formatting will be identical to the original SXC document.
+Follow the easy steps to convert SXC to XLT. Upload your SXC file, then simply save it as XLT file. For both SXC reading and XLT writing you can use fully qualified filenames. The output XLT content and formatting will be identical to the original SXC document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -87,7 +87,7 @@ Files with .xlt extension are template files created with Microsoft Excel which 
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert SXC into many other file formats including few listed below." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert SXC to many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/sxc-to-bmp/" name="SXC TO BMP" description="Bitmap Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/sxc-to-emf/" name="SXC TO EMF" description="Enhanced Metafile Format" >}}

@@ -22,7 +22,7 @@ How to convert XLT to MHTML? With Aspose.Cells for Python library, you can easil
 The following example demonstrates how to convert XLT to MHTML in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert XLT into MHTML. Upload your XLT file, then simply save it as MHTML file. For both XLT reading and MHTML writing you can use fully qualified filenames. The output MHTML content and formatting will be identical to the original XLT document.
+Follow the easy steps to convert XLT to MHTML. Upload your XLT file, then simply save it as MHTML file. For both XLT reading and MHTML writing you can use fully qualified filenames. The output MHTML content and formatting will be identical to the original XLT document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -87,7 +87,7 @@ Files with MHTML extension represent a web page archive format that can be creat
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert XLT into many other file formats including few listed below." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert XLT to many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlt-to-bmp/" name="XLT TO BMP" description="Bitmap Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlt-to-emf/" name="XLT TO EMF" description="Enhanced Metafile Format" >}}

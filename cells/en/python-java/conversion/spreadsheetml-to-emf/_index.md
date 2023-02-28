@@ -22,7 +22,7 @@ How to convert SPREADSHEETML to EMF? With Aspose.Cells for Python library, you c
 The following example demonstrates how to convert SPREADSHEETML to EMF in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert SPREADSHEETML into EMF. Upload your SPREADSHEETML file, then simply save it as EMF file. For both SPREADSHEETML reading and EMF writing you can use fully qualified filenames. The output EMF content and formatting will be identical to the original SPREADSHEETML document.
+Follow the easy steps to convert SPREADSHEETML to EMF. Upload your SPREADSHEETML file, then simply save it as EMF file. For both SPREADSHEETML reading and EMF writing you can use fully qualified filenames. The output EMF content and formatting will be identical to the original SPREADSHEETML document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -87,7 +87,7 @@ Enhanced metafile format (EMF) stores graphical images device-independently. Met
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert SPREADSHEETML into many other file formats including few listed below." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert SPREADSHEETML to many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-bmp/" name="SPREADSHEETML TO BMP" description="Bitmap Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-emf/" name="SPREADSHEETML TO EMF" description="Enhanced Metafile Format" >}}

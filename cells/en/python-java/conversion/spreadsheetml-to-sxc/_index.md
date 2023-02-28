@@ -22,7 +22,7 @@ How to convert SPREADSHEETML to SXC? With Aspose.Cells for Python library, you c
 The following example demonstrates how to convert SPREADSHEETML to SXC in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert SPREADSHEETML into SXC. Upload your SPREADSHEETML file, then simply save it as SXC file. For both SPREADSHEETML reading and SXC writing you can use fully qualified filenames. The output SXC content and formatting will be identical to the original SPREADSHEETML document.
+Follow the easy steps to convert SPREADSHEETML to SXC. Upload your SPREADSHEETML file, then simply save it as SXC file. For both SPREADSHEETML reading and SXC writing you can use fully qualified filenames. The output SXC content and formatting will be identical to the original SPREADSHEETML document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -87,7 +87,7 @@ The file format SXC(Sun XML Calc) belongs to an office suite called OpenOffice.o
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert SPREADSHEETML into many other file formats including few listed below." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert SPREADSHEETML to many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-bmp/" name="SPREADSHEETML TO BMP" description="Bitmap Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-emf/" name="SPREADSHEETML TO EMF" description="Enhanced Metafile Format" >}}

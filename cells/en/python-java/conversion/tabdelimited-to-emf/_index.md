@@ -22,7 +22,7 @@ How to convert TABDELIMITED to EMF? With Aspose.Cells for Python library, you ca
 The following example demonstrates how to convert TABDELIMITED to EMF in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert TABDELIMITED into EMF. Upload your TABDELIMITED file, then simply save it as EMF file. For both TABDELIMITED reading and EMF writing you can use fully qualified filenames. The output EMF content and formatting will be identical to the original TABDELIMITED document.
+Follow the easy steps to convert TABDELIMITED to EMF. Upload your TABDELIMITED file, then simply save it as EMF file. For both TABDELIMITED reading and EMF writing you can use fully qualified filenames. The output EMF content and formatting will be identical to the original TABDELIMITED document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -87,7 +87,7 @@ Enhanced metafile format (EMF) stores graphical images device-independently. Met
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert TABDELIMITED into many other file formats including few listed below." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert TABDELIMITED to many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/tabdelimited-to-bmp/" name="TABDELIMITED TO BMP" description="Bitmap Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/tabdelimited-to-emf/" name="TABDELIMITED TO EMF" description="Enhanced Metafile Format" >}}

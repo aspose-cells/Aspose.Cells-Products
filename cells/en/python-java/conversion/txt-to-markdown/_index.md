@@ -22,7 +22,7 @@ How to convert TXT to MARKDOWN? With Aspose.Cells for Python library, you can ea
 The following example demonstrates how to convert TXT to MARKDOWN in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert TXT into MARKDOWN. Upload your TXT file, then simply save it as MARKDOWN file. For both TXT reading and MARKDOWN writing you can use fully qualified filenames. The output MARKDOWN content and formatting will be identical to the original TXT document.
+Follow the easy steps to convert TXT to MARKDOWN. Upload your TXT file, then simply save it as MARKDOWN file. For both TXT reading and MARKDOWN writing you can use fully qualified filenames. The output MARKDOWN content and formatting will be identical to the original TXT document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -87,7 +87,7 @@ Text files created with Markdown language dialects is saved with .md or .MARKDOW
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert TXT into many other file formats including few listed below." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert TXT to many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/txt-to-bmp/" name="TXT TO BMP" description="Bitmap Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/txt-to-emf/" name="TXT TO EMF" description="Enhanced Metafile Format" >}}

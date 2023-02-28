@@ -22,7 +22,7 @@ How to convert JSON to TXT? With Aspose.Cells for Python library, you can easily
 The following example demonstrates how to convert JSON to TXT in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert JSON into TXT. Upload your JSON file, then simply save it as TXT file. For both JSON reading and TXT writing you can use fully qualified filenames. The output TXT content and formatting will be identical to the original JSON document.
+Follow the easy steps to convert JSON to TXT. Upload your JSON file, then simply save it as TXT file. For both JSON reading and TXT writing you can use fully qualified filenames. The output TXT content and formatting will be identical to the original JSON document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -87,7 +87,7 @@ A file with .TXT extension represents a text document that contains plain text i
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert JSON into many other file formats including few listed below." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert JSON to many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/json-to-bmp/" name="JSON TO BMP" description="Bitmap Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/json-to-emf/" name="JSON TO EMF" description="Enhanced Metafile Format" >}}

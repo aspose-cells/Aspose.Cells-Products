@@ -22,7 +22,7 @@ How to convert MHTML to MARKDOWN? With Aspose.Cells for Python library, you can 
 The following example demonstrates how to convert MHTML to MARKDOWN in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert MHTML into MARKDOWN. Upload your MHTML file, then simply save it as MARKDOWN file. For both MHTML reading and MARKDOWN writing you can use fully qualified filenames. The output MARKDOWN content and formatting will be identical to the original MHTML document.
+Follow the easy steps to convert MHTML to MARKDOWN. Upload your MHTML file, then simply save it as MARKDOWN file. For both MHTML reading and MARKDOWN writing you can use fully qualified filenames. The output MARKDOWN content and formatting will be identical to the original MHTML document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -87,7 +87,7 @@ Text files created with Markdown language dialects is saved with .md or .MARKDOW
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert MHTML into many other file formats including few listed below." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert MHTML to many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-bmp/" name="MHTML TO BMP" description="Bitmap Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-emf/" name="MHTML TO EMF" description="Enhanced Metafile Format" >}}

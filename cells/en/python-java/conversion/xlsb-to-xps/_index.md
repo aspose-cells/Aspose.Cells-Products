@@ -22,7 +22,7 @@ How to convert XLSB to XPS? With Aspose.Cells for Python library, you can easily
 The following example demonstrates how to convert XLSB to XPS in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert XLSB into XPS. Upload your XLSB file, then simply save it as XPS file. For both XLSB reading and XPS writing you can use fully qualified filenames. The output XPS content and formatting will be identical to the original XLSB document.
+Follow the easy steps to convert XLSB to XPS. Upload your XLSB file, then simply save it as XPS file. For both XLSB reading and XPS writing you can use fully qualified filenames. The output XPS content and formatting will be identical to the original XLSB document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -87,7 +87,7 @@ An XPS file represents page layout files that are based on XML Paper Specificati
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert XLSB into many other file formats including few listed below." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert XLSB to many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsb-to-bmp/" name="XLSB TO BMP" description="Bitmap Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsb-to-emf/" name="XLSB TO EMF" description="Enhanced Metafile Format" >}}

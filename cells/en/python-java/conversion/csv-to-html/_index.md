@@ -22,7 +22,7 @@ How to convert CSV to HTML? With Aspose.Cells for Python library, you can easily
 The following example demonstrates how to convert CSV to HTML in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert CSV into HTML. Upload your CSV file, then simply save it as HTML file. For both CSV reading and HTML writing you can use fully qualified filenames. The output HTML content and formatting will be identical to the original CSV document.
+Follow the easy steps to convert CSV to HTML. Upload your CSV file, then simply save it as HTML file. For both CSV reading and HTML writing you can use fully qualified filenames. The output HTML content and formatting will be identical to the original CSV document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -87,7 +87,7 @@ HTML (Hyper Text Markup Language) is the extension for web pages created for dis
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert CSV into many other file formats including few listed below." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert CSV to many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/csv-to-bmp/" name="CSV TO BMP" description="Bitmap Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/csv-to-emf/" name="CSV TO EMF" description="Enhanced Metafile Format" >}}

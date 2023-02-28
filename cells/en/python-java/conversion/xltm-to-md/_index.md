@@ -22,7 +22,7 @@ How to convert XLTM to MD? With Aspose.Cells for Python library, you can easily 
 The following example demonstrates how to convert XLTM to MD in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert XLTM into MD. Upload your XLTM file, then simply save it as MD file. For both XLTM reading and MD writing you can use fully qualified filenames. The output MD content and formatting will be identical to the original XLTM document.
+Follow the easy steps to convert XLTM to MD. Upload your XLTM file, then simply save it as MD file. For both XLTM reading and MD writing you can use fully qualified filenames. The output MD content and formatting will be identical to the original XLTM document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -87,7 +87,7 @@ Text files created with Markdown language dialects is saved with .md or .MARKDOW
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert XLTM into many other file formats including few listed below." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert XLTM to many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltm-to-bmp/" name="XLTM TO BMP" description="Bitmap Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltm-to-emf/" name="XLTM TO EMF" description="Enhanced Metafile Format" >}}

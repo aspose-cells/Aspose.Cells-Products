@@ -22,7 +22,7 @@ How to convert XLT to XLTX? With Aspose.Cells for Python library, you can easily
 The following example demonstrates how to convert XLT to XLTX in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert XLT into XLTX. Upload your XLT file, then simply save it as XLTX file. For both XLT reading and XLTX writing you can use fully qualified filenames. The output XLTX content and formatting will be identical to the original XLT document.
+Follow the easy steps to convert XLT to XLTX. Upload your XLT file, then simply save it as XLTX file. For both XLT reading and XLTX writing you can use fully qualified filenames. The output XLTX content and formatting will be identical to the original XLT document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -87,7 +87,7 @@ Files with .xltx extension represent Microsoft Excel Template files that are bas
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert XLT into many other file formats including few listed below." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert XLT to many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlt-to-bmp/" name="XLT TO BMP" description="Bitmap Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlt-to-emf/" name="XLT TO EMF" description="Enhanced Metafile Format" >}}

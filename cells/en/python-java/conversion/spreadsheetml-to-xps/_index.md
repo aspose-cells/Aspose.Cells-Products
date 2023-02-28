@@ -22,7 +22,7 @@ How to convert SPREADSHEETML to XPS? With Aspose.Cells for Python library, you c
 The following example demonstrates how to convert SPREADSHEETML to XPS in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert SPREADSHEETML into XPS. Upload your SPREADSHEETML file, then simply save it as XPS file. For both SPREADSHEETML reading and XPS writing you can use fully qualified filenames. The output XPS content and formatting will be identical to the original SPREADSHEETML document.
+Follow the easy steps to convert SPREADSHEETML to XPS. Upload your SPREADSHEETML file, then simply save it as XPS file. For both SPREADSHEETML reading and XPS writing you can use fully qualified filenames. The output XPS content and formatting will be identical to the original SPREADSHEETML document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -87,7 +87,7 @@ An XPS file represents page layout files that are based on XML Paper Specificati
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert SPREADSHEETML into many other file formats including few listed below." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert SPREADSHEETML to many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-bmp/" name="SPREADSHEETML TO BMP" description="Bitmap Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-emf/" name="SPREADSHEETML TO EMF" description="Enhanced Metafile Format" >}}

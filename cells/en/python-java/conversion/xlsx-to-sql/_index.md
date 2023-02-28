@@ -22,7 +22,7 @@ How to convert XLSX to SQL? With Aspose.Cells for Python library, you can easily
 The following example demonstrates how to convert XLSX to SQL in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert XLSX into SQL. Upload your XLSX file, then simply save it as SQL file. For both XLSX reading and SQL writing you can use fully qualified filenames. The output SQL content and formatting will be identical to the original XLSX document.
+Follow the easy steps to convert XLSX to SQL. Upload your XLSX file, then simply save it as SQL file. For both XLSX reading and SQL writing you can use fully qualified filenames. The output SQL content and formatting will be identical to the original XLSX document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -87,7 +87,7 @@ A file with .sql extension is a Structured Query Language (SQL) file that contai
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert XLSX into many other file formats including few listed below." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert XLSX to many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsx-to-bmp/" name="XLSX TO BMP" description="Bitmap Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsx-to-emf/" name="XLSX TO EMF" description="Enhanced Metafile Format" >}}

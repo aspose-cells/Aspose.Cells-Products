@@ -22,7 +22,7 @@ How to convert HTML to PNG? With Aspose.Cells for Python library, you can easily
 The following example demonstrates how to convert HTML to PNG in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert HTML into PNG. Upload your HTML file, then simply save it as PNG file. For both HTML reading and PNG writing you can use fully qualified filenames. The output PNG content and formatting will be identical to the original HTML document.
+Follow the easy steps to convert HTML to PNG. Upload your HTML file, then simply save it as PNG file. For both HTML reading and PNG writing you can use fully qualified filenames. The output PNG content and formatting will be identical to the original HTML document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -87,7 +87,7 @@ A PNG (Portable Network Graphics) file is a raster image file format that uses l
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert HTML into many other file formats including few listed below." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert HTML to many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/html-to-bmp/" name="HTML TO BMP" description="Bitmap Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/html-to-emf/" name="HTML TO EMF" description="Enhanced Metafile Format" >}}

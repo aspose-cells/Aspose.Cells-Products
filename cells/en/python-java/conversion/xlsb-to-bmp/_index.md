@@ -22,7 +22,7 @@ How to convert XLSB to BMP? With Aspose.Cells for Python library, you can easily
 The following example demonstrates how to convert XLSB to BMP in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert XLSB into BMP. Upload your XLSB file, then simply save it as BMP file. For both XLSB reading and BMP writing you can use fully qualified filenames. The output BMP content and formatting will be identical to the original XLSB document.
+Follow the easy steps to convert XLSB to BMP. Upload your XLSB file, then simply save it as BMP file. For both XLSB reading and BMP writing you can use fully qualified filenames. The output BMP content and formatting will be identical to the original XLSB document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -87,7 +87,7 @@ Files having extension .BMP represent Bitmap Image files that are used to store 
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert XLSB into many other file formats including few listed below." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert XLSB to many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsb-to-bmp/" name="XLSB TO BMP" description="Bitmap Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsb-to-emf/" name="XLSB TO EMF" description="Enhanced Metafile Format" >}}

@@ -22,7 +22,7 @@ How to convert TSV to TXT? With Aspose.Cells for Python library, you can easily 
 The following example demonstrates how to convert TSV to TXT in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert TSV into TXT. Upload your TSV file, then simply save it as TXT file. For both TSV reading and TXT writing you can use fully qualified filenames. The output TXT content and formatting will be identical to the original TSV document.
+Follow the easy steps to convert TSV to TXT. Upload your TSV file, then simply save it as TXT file. For both TSV reading and TXT writing you can use fully qualified filenames. The output TXT content and formatting will be identical to the original TSV document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -87,7 +87,7 @@ A file with .TXT extension represents a text document that contains plain text i
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert TSV into many other file formats including few listed below." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert TSV to many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/tsv-to-bmp/" name="TSV TO BMP" description="Bitmap Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/tsv-to-emf/" name="TSV TO EMF" description="Enhanced Metafile Format" >}}

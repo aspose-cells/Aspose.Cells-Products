@@ -22,7 +22,7 @@ How to convert FODS to XLSX? With Aspose.Cells for Python library, you can easil
 The following example demonstrates how to convert FODS to XLSX in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert FODS into XLSX. Upload your FODS file, then simply save it as XLSX file. For both FODS reading and XLSX writing you can use fully qualified filenames. The output XLSX content and formatting will be identical to the original FODS document.
+Follow the easy steps to convert FODS to XLSX. Upload your FODS file, then simply save it as XLSX file. For both FODS reading and XLSX writing you can use fully qualified filenames. The output XLSX content and formatting will be identical to the original FODS document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -87,7 +87,7 @@ XLSX is well-known format for Microsoft Excel documents that was introduced by M
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert FODS into many other file formats including few listed below." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert FODS to many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/fods-to-bmp/" name="FODS TO BMP" description="Bitmap Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/fods-to-emf/" name="FODS TO EMF" description="Enhanced Metafile Format" >}}

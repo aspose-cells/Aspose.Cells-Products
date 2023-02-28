@@ -22,7 +22,7 @@ How to convert JPEG to XLSX? With Aspose.Cells for Python library, you can easil
 The following example demonstrates how to convert JPEG to XLSX in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert JPEG into XLSX. Upload your JPEG file, then simply save it as XLSX file. For both JPEG reading and XLSX writing you can use fully qualified filenames. The output XLSX content and formatting will be identical to the original JPEG document.
+Follow the easy steps to convert JPEG to XLSX. Upload your JPEG file, then simply save it as XLSX file. For both JPEG reading and XLSX writing you can use fully qualified filenames. The output XLSX content and formatting will be identical to the original JPEG document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -87,7 +87,7 @@ XLSX is well-known format for Microsoft Excel documents that was introduced by M
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert JPEG into many other file formats including few listed below." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert JPEG to many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpeg-to-bmp/" name="JPEG TO BMP" description="Bitmap Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpeg-to-emf/" name="JPEG TO EMF" description="Enhanced Metafile Format" >}}

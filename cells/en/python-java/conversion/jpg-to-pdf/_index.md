@@ -22,7 +22,7 @@ How to convert JPG to PDF? With Aspose.Cells for Python library, you can easily 
 The following example demonstrates how to convert JPG to PDF in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert JPG into PDF. Upload your JPG file, then simply save it as PDF file. For both JPG reading and PDF writing you can use fully qualified filenames. The output PDF content and formatting will be identical to the original JPG document.
+Follow the easy steps to convert JPG to PDF. Upload your JPG file, then simply save it as PDF file. For both JPG reading and PDF writing you can use fully qualified filenames. The output PDF content and formatting will be identical to the original JPG document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -87,7 +87,7 @@ Portable Document Format (PDF) is a type of document created by Adobe back in 19
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert JPG into many other file formats including few listed below." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert JPG to many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-bmp/" name="JPG TO BMP" description="Bitmap Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-emf/" name="JPG TO EMF" description="Enhanced Metafile Format" >}}

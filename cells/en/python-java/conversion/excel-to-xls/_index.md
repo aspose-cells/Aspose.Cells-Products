@@ -22,7 +22,7 @@ How to convert EXCEL to XLS? With Aspose.Cells for Python library, you can easil
 The following example demonstrates how to convert EXCEL to XLS in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert EXCEL into XLS. Upload your EXCEL file, then simply save it as XLS file. For both EXCEL reading and XLS writing you can use fully qualified filenames. The output XLS content and formatting will be identical to the original EXCEL document.
+Follow the easy steps to convert EXCEL to XLS. Upload your EXCEL file, then simply save it as XLS file. For both EXCEL reading and XLS writing you can use fully qualified filenames. The output XLS content and formatting will be identical to the original EXCEL document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -87,7 +87,7 @@ Files with XLS extension represent Excel Binary File Format. Such files can be c
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert EXCEL into many other file formats including few listed below." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert EXCEL to many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/excel-to-bmp/" name="EXCEL TO BMP" description="Bitmap Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/excel-to-emf/" name="EXCEL TO EMF" description="Enhanced Metafile Format" >}}

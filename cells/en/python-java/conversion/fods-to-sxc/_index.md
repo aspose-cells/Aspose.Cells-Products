@@ -22,7 +22,7 @@ How to convert FODS to SXC? With Aspose.Cells for Python library, you can easily
 The following example demonstrates how to convert FODS to SXC in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert FODS into SXC. Upload your FODS file, then simply save it as SXC file. For both FODS reading and SXC writing you can use fully qualified filenames. The output SXC content and formatting will be identical to the original FODS document.
+Follow the easy steps to convert FODS to SXC. Upload your FODS file, then simply save it as SXC file. For both FODS reading and SXC writing you can use fully qualified filenames. The output SXC content and formatting will be identical to the original FODS document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -87,7 +87,7 @@ The file format SXC(Sun XML Calc) belongs to an office suite called OpenOffice.o
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert FODS into many other file formats including few listed below." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert FODS to many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/fods-to-bmp/" name="FODS TO BMP" description="Bitmap Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/fods-to-emf/" name="FODS TO EMF" description="Enhanced Metafile Format" >}}

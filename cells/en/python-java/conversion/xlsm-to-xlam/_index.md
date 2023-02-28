@@ -22,7 +22,7 @@ How to convert XLSM to XLAM? With Aspose.Cells for Python library, you can easil
 The following example demonstrates how to convert XLSM to XLAM in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert XLSM into XLAM. Upload your XLSM file, then simply save it as XLAM file. For both XLSM reading and XLAM writing you can use fully qualified filenames. The output XLAM content and formatting will be identical to the original XLSM document.
+Follow the easy steps to convert XLSM to XLAM. Upload your XLSM file, then simply save it as XLAM file. For both XLSM reading and XLAM writing you can use fully qualified filenames. The output XLAM content and formatting will be identical to the original XLSM document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -87,7 +87,7 @@ XLAM is an Macro-Enabled Add-In file that is used to add new functions to spread
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert XLSM into many other file formats including few listed below." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert XLSM to many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsm-to-bmp/" name="XLSM TO BMP" description="Bitmap Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsm-to-emf/" name="XLSM TO EMF" description="Enhanced Metafile Format" >}}

@@ -22,7 +22,7 @@ How to convert XLSB to TABDELIMITED? With Aspose.Cells for Python library, you c
 The following example demonstrates how to convert XLSB to TABDELIMITED in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert XLSB into TABDELIMITED. Upload your XLSB file, then simply save it as TABDELIMITED file. For both XLSB reading and TABDELIMITED writing you can use fully qualified filenames. The output TABDELIMITED content and formatting will be identical to the original XLSB document.
+Follow the easy steps to convert XLSB to TABDELIMITED. Upload your XLSB file, then simply save it as TABDELIMITED file. For both XLSB reading and TABDELIMITED writing you can use fully qualified filenames. The output TABDELIMITED content and formatting will be identical to the original XLSB document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -87,7 +87,7 @@ A Tab-Separated Values (TSV) file format represents data separated with tabs in 
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert XLSB into many other file formats including few listed below." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert XLSB to many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsb-to-bmp/" name="XLSB TO BMP" description="Bitmap Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsb-to-emf/" name="XLSB TO EMF" description="Enhanced Metafile Format" >}}

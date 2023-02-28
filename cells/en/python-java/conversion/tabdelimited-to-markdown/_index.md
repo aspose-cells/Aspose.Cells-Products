@@ -22,7 +22,7 @@ How to convert TABDELIMITED to MARKDOWN? With Aspose.Cells for Python library, y
 The following example demonstrates how to convert TABDELIMITED to MARKDOWN in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert TABDELIMITED into MARKDOWN. Upload your TABDELIMITED file, then simply save it as MARKDOWN file. For both TABDELIMITED reading and MARKDOWN writing you can use fully qualified filenames. The output MARKDOWN content and formatting will be identical to the original TABDELIMITED document.
+Follow the easy steps to convert TABDELIMITED to MARKDOWN. Upload your TABDELIMITED file, then simply save it as MARKDOWN file. For both TABDELIMITED reading and MARKDOWN writing you can use fully qualified filenames. The output MARKDOWN content and formatting will be identical to the original TABDELIMITED document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -87,7 +87,7 @@ Text files created with Markdown language dialects is saved with .md or .MARKDOW
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert TABDELIMITED into many other file formats including few listed below." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert TABDELIMITED to many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/tabdelimited-to-bmp/" name="TABDELIMITED TO BMP" description="Bitmap Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/tabdelimited-to-emf/" name="TABDELIMITED TO EMF" description="Enhanced Metafile Format" >}}

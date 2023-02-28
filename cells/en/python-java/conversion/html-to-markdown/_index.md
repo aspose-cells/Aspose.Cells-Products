@@ -22,7 +22,7 @@ How to convert HTML to MARKDOWN? With Aspose.Cells for Python library, you can e
 The following example demonstrates how to convert HTML to MARKDOWN in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert HTML into MARKDOWN. Upload your HTML file, then simply save it as MARKDOWN file. For both HTML reading and MARKDOWN writing you can use fully qualified filenames. The output MARKDOWN content and formatting will be identical to the original HTML document.
+Follow the easy steps to convert HTML to MARKDOWN. Upload your HTML file, then simply save it as MARKDOWN file. For both HTML reading and MARKDOWN writing you can use fully qualified filenames. The output MARKDOWN content and formatting will be identical to the original HTML document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -87,7 +87,7 @@ Text files created with Markdown language dialects is saved with .md or .MARKDOW
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert HTML into many other file formats including few listed below." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert HTML to many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/html-to-bmp/" name="HTML TO BMP" description="Bitmap Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/html-to-emf/" name="HTML TO EMF" description="Enhanced Metafile Format" >}}

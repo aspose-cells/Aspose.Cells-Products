@@ -22,7 +22,7 @@ How to convert SXC to GIF? With Aspose.Cells for Python library, you can easily 
 The following example demonstrates how to convert SXC to GIF in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert SXC into GIF. Upload your SXC file, then simply save it as GIF file. For both SXC reading and GIF writing you can use fully qualified filenames. The output GIF content and formatting will be identical to the original SXC document.
+Follow the easy steps to convert SXC to GIF. Upload your SXC file, then simply save it as GIF file. For both SXC reading and GIF writing you can use fully qualified filenames. The output GIF content and formatting will be identical to the original SXC document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -87,7 +87,7 @@ A GIF or Graphical Interchange Format is a type of highly compressed image. Owne
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert SXC into many other file formats including few listed below." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert SXC to many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/sxc-to-bmp/" name="SXC TO BMP" description="Bitmap Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/sxc-to-emf/" name="SXC TO EMF" description="Enhanced Metafile Format" >}}

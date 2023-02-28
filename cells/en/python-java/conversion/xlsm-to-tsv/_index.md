@@ -22,7 +22,7 @@ How to convert XLSM to TSV? With Aspose.Cells for Python library, you can easily
 The following example demonstrates how to convert XLSM to TSV in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert XLSM into TSV. Upload your XLSM file, then simply save it as TSV file. For both XLSM reading and TSV writing you can use fully qualified filenames. The output TSV content and formatting will be identical to the original XLSM document.
+Follow the easy steps to convert XLSM to TSV. Upload your XLSM file, then simply save it as TSV file. For both XLSM reading and TSV writing you can use fully qualified filenames. The output TSV content and formatting will be identical to the original XLSM document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -87,7 +87,7 @@ A Tab-Separated Values (TSV) file format represents data separated with tabs in 
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert XLSM into many other file formats including few listed below." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert XLSM to many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsm-to-bmp/" name="XLSM TO BMP" description="Bitmap Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsm-to-emf/" name="XLSM TO EMF" description="Enhanced Metafile Format" >}}

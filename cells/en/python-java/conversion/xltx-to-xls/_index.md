@@ -22,7 +22,7 @@ How to convert XLTX to XLS? With Aspose.Cells for Python library, you can easily
 The following example demonstrates how to convert XLTX to XLS in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert XLTX into XLS. Upload your XLTX file, then simply save it as XLS file. For both XLTX reading and XLS writing you can use fully qualified filenames. The output XLS content and formatting will be identical to the original XLTX document.
+Follow the easy steps to convert XLTX to XLS. Upload your XLTX file, then simply save it as XLS file. For both XLTX reading and XLS writing you can use fully qualified filenames. The output XLS content and formatting will be identical to the original XLTX document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -87,7 +87,7 @@ Files with XLS extension represent Excel Binary File Format. Such files can be c
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert XLTX into many other file formats including few listed below." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert XLTX to many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltx-to-bmp/" name="XLTX TO BMP" description="Bitmap Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltx-to-emf/" name="XLTX TO EMF" description="Enhanced Metafile Format" >}}

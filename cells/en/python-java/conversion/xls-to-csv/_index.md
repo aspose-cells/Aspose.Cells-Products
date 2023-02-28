@@ -22,7 +22,7 @@ How to convert XLS to CSV? With Aspose.Cells for Python library, you can easily 
 The following example demonstrates how to convert XLS to CSV in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert XLS into CSV. Upload your XLS file, then simply save it as CSV file. For both XLS reading and CSV writing you can use fully qualified filenames. The output CSV content and formatting will be identical to the original XLS document.
+Follow the easy steps to convert XLS to CSV. Upload your XLS file, then simply save it as CSV file. For both XLS reading and CSV writing you can use fully qualified filenames. The output CSV content and formatting will be identical to the original XLS document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -87,7 +87,7 @@ Files with .csv (Comma Separated Values) extension represent plain text files th
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert XLS into many other file formats including few listed below." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert XLS to many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xls-to-bmp/" name="XLS TO BMP" description="Bitmap Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xls-to-emf/" name="XLS TO EMF" description="Enhanced Metafile Format" >}}

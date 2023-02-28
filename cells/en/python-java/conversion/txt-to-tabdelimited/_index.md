@@ -22,7 +22,7 @@ How to convert TXT to TABDELIMITED? With Aspose.Cells for Python library, you ca
 The following example demonstrates how to convert TXT to TABDELIMITED in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert TXT into TABDELIMITED. Upload your TXT file, then simply save it as TABDELIMITED file. For both TXT reading and TABDELIMITED writing you can use fully qualified filenames. The output TABDELIMITED content and formatting will be identical to the original TXT document.
+Follow the easy steps to convert TXT to TABDELIMITED. Upload your TXT file, then simply save it as TABDELIMITED file. For both TXT reading and TABDELIMITED writing you can use fully qualified filenames. The output TABDELIMITED content and formatting will be identical to the original TXT document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -87,7 +87,7 @@ A Tab-Separated Values (TSV) file format represents data separated with tabs in 
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert TXT into many other file formats including few listed below." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert TXT to many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/txt-to-bmp/" name="TXT TO BMP" description="Bitmap Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/txt-to-emf/" name="TXT TO EMF" description="Enhanced Metafile Format" >}}

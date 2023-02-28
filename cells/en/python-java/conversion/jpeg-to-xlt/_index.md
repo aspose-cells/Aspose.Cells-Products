@@ -22,7 +22,7 @@ How to convert JPEG to XLT? With Aspose.Cells for Python library, you can easily
 The following example demonstrates how to convert JPEG to XLT in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert JPEG into XLT. Upload your JPEG file, then simply save it as XLT file. For both JPEG reading and XLT writing you can use fully qualified filenames. The output XLT content and formatting will be identical to the original JPEG document.
+Follow the easy steps to convert JPEG to XLT. Upload your JPEG file, then simply save it as XLT file. For both JPEG reading and XLT writing you can use fully qualified filenames. The output XLT content and formatting will be identical to the original JPEG document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -87,7 +87,7 @@ Files with .xlt extension are template files created with Microsoft Excel which 
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert JPEG into many other file formats including few listed below." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert JPEG to many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpeg-to-bmp/" name="JPEG TO BMP" description="Bitmap Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpeg-to-emf/" name="JPEG TO EMF" description="Enhanced Metafile Format" >}}

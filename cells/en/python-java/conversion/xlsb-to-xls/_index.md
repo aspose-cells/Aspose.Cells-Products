@@ -22,7 +22,7 @@ How to convert XLSB to XLS? With Aspose.Cells for Python library, you can easily
 The following example demonstrates how to convert XLSB to XLS in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert XLSB into XLS. Upload your XLSB file, then simply save it as XLS file. For both XLSB reading and XLS writing you can use fully qualified filenames. The output XLS content and formatting will be identical to the original XLSB document.
+Follow the easy steps to convert XLSB to XLS. Upload your XLSB file, then simply save it as XLS file. For both XLSB reading and XLS writing you can use fully qualified filenames. The output XLS content and formatting will be identical to the original XLSB document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -87,7 +87,7 @@ Files with XLS extension represent Excel Binary File Format. Such files can be c
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert XLSB into many other file formats including few listed below." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert XLSB to many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsb-to-bmp/" name="XLSB TO BMP" description="Bitmap Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsb-to-emf/" name="XLSB TO EMF" description="Enhanced Metafile Format" >}}

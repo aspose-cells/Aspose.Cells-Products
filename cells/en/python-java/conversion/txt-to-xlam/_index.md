@@ -22,7 +22,7 @@ How to convert TXT to XLAM? With Aspose.Cells for Python library, you can easily
 The following example demonstrates how to convert TXT to XLAM in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert TXT into XLAM. Upload your TXT file, then simply save it as XLAM file. For both TXT reading and XLAM writing you can use fully qualified filenames. The output XLAM content and formatting will be identical to the original TXT document.
+Follow the easy steps to convert TXT to XLAM. Upload your TXT file, then simply save it as XLAM file. For both TXT reading and XLAM writing you can use fully qualified filenames. The output XLAM content and formatting will be identical to the original TXT document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -87,7 +87,7 @@ XLAM is an Macro-Enabled Add-In file that is used to add new functions to spread
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert TXT into many other file formats including few listed below." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert TXT to many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/txt-to-bmp/" name="TXT TO BMP" description="Bitmap Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/txt-to-emf/" name="TXT TO EMF" description="Enhanced Metafile Format" >}}

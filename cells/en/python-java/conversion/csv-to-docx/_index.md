@@ -22,7 +22,7 @@ How to convert CSV to DOCX? With Aspose.Cells for Python library, you can easily
 The following example demonstrates how to convert CSV to DOCX in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert CSV into DOCX. Upload your CSV file, then simply save it as DOCX file. For both CSV reading and DOCX writing you can use fully qualified filenames. The output DOCX content and formatting will be identical to the original CSV document.
+Follow the easy steps to convert CSV to DOCX. Upload your CSV file, then simply save it as DOCX file. For both CSV reading and DOCX writing you can use fully qualified filenames. The output DOCX content and formatting will be identical to the original CSV document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -87,7 +87,7 @@ DOCX is a well-known format for Microsoft Word documents. Introduced from 2007 w
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert CSV into many other file formats including few listed below." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert CSV to many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/csv-to-bmp/" name="CSV TO BMP" description="Bitmap Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/csv-to-emf/" name="CSV TO EMF" description="Enhanced Metafile Format" >}}

@@ -22,7 +22,7 @@ How to convert XLSB to PDF? With Aspose.Cells for Python library, you can easily
 The following example demonstrates how to convert XLSB to PDF in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert XLSB into PDF. Upload your XLSB file, then simply save it as PDF file. For both XLSB reading and PDF writing you can use fully qualified filenames. The output PDF content and formatting will be identical to the original XLSB document.
+Follow the easy steps to convert XLSB to PDF. Upload your XLSB file, then simply save it as PDF file. For both XLSB reading and PDF writing you can use fully qualified filenames. The output PDF content and formatting will be identical to the original XLSB document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -87,7 +87,7 @@ Portable Document Format (PDF) is a type of document created by Adobe back in 19
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert XLSB into many other file formats including few listed below." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert XLSB to many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsb-to-bmp/" name="XLSB TO BMP" description="Bitmap Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsb-to-emf/" name="XLSB TO EMF" description="Enhanced Metafile Format" >}}

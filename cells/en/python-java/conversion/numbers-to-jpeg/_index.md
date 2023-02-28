@@ -22,7 +22,7 @@ How to convert NUMBERS to JPEG? With Aspose.Cells for Python library, you can ea
 The following example demonstrates how to convert NUMBERS to JPEG in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert NUMBERS into JPEG. Upload your NUMBERS file, then simply save it as JPEG file. For both NUMBERS reading and JPEG writing you can use fully qualified filenames. The output JPEG content and formatting will be identical to the original NUMBERS document.
+Follow the easy steps to convert NUMBERS to JPEG. Upload your NUMBERS file, then simply save it as JPEG file. For both NUMBERS reading and JPEG writing you can use fully qualified filenames. The output JPEG content and formatting will be identical to the original NUMBERS document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -87,7 +87,7 @@ A JPEG is a type of image format that is saved using the method of lossy compres
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert NUMBERS into many other file formats including few listed below." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert NUMBERS to many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/numbers-to-bmp/" name="NUMBERS TO BMP" description="Bitmap Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/numbers-to-emf/" name="NUMBERS TO EMF" description="Enhanced Metafile Format" >}}

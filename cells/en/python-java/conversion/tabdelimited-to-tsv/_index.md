@@ -22,7 +22,7 @@ How to convert TABDELIMITED to TSV? With Aspose.Cells for Python library, you ca
 The following example demonstrates how to convert TABDELIMITED to TSV in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert TABDELIMITED into TSV. Upload your TABDELIMITED file, then simply save it as TSV file. For both TABDELIMITED reading and TSV writing you can use fully qualified filenames. The output TSV content and formatting will be identical to the original TABDELIMITED document.
+Follow the easy steps to convert TABDELIMITED to TSV. Upload your TABDELIMITED file, then simply save it as TSV file. For both TABDELIMITED reading and TSV writing you can use fully qualified filenames. The output TSV content and formatting will be identical to the original TABDELIMITED document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -87,7 +87,7 @@ A Tab-Separated Values (TSV) file format represents data separated with tabs in 
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert TABDELIMITED into many other file formats including few listed below." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert TABDELIMITED to many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/tabdelimited-to-bmp/" name="TABDELIMITED TO BMP" description="Bitmap Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/tabdelimited-to-emf/" name="TABDELIMITED TO EMF" description="Enhanced Metafile Format" >}}

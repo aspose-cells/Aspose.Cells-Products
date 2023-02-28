@@ -22,7 +22,7 @@ How to convert TABDELIMITED to MHTML? With Aspose.Cells for Python library, you 
 The following example demonstrates how to convert TABDELIMITED to MHTML in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert TABDELIMITED into MHTML. Upload your TABDELIMITED file, then simply save it as MHTML file. For both TABDELIMITED reading and MHTML writing you can use fully qualified filenames. The output MHTML content and formatting will be identical to the original TABDELIMITED document.
+Follow the easy steps to convert TABDELIMITED to MHTML. Upload your TABDELIMITED file, then simply save it as MHTML file. For both TABDELIMITED reading and MHTML writing you can use fully qualified filenames. The output MHTML content and formatting will be identical to the original TABDELIMITED document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -87,7 +87,7 @@ Files with MHTML extension represent a web page archive format that can be creat
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert TABDELIMITED into many other file formats including few listed below." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert TABDELIMITED to many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/tabdelimited-to-bmp/" name="TABDELIMITED TO BMP" description="Bitmap Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/tabdelimited-to-emf/" name="TABDELIMITED TO EMF" description="Enhanced Metafile Format" >}}

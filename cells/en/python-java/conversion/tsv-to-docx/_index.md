@@ -22,7 +22,7 @@ How to convert TSV to DOCX? With Aspose.Cells for Python library, you can easily
 The following example demonstrates how to convert TSV to DOCX in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert TSV into DOCX. Upload your TSV file, then simply save it as DOCX file. For both TSV reading and DOCX writing you can use fully qualified filenames. The output DOCX content and formatting will be identical to the original TSV document.
+Follow the easy steps to convert TSV to DOCX. Upload your TSV file, then simply save it as DOCX file. For both TSV reading and DOCX writing you can use fully qualified filenames. The output DOCX content and formatting will be identical to the original TSV document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -87,7 +87,7 @@ DOCX is a well-known format for Microsoft Word documents. Introduced from 2007 w
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert TSV into many other file formats including few listed below." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert TSV to many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/tsv-to-bmp/" name="TSV TO BMP" description="Bitmap Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/tsv-to-emf/" name="TSV TO EMF" description="Enhanced Metafile Format" >}}

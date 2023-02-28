@@ -22,7 +22,7 @@ How to convert XLS to XLSM? With Aspose.Cells for Python library, you can easily
 The following example demonstrates how to convert XLS to XLSM in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to convert XLS into XLSM. Upload your XLS file, then simply save it as XLSM file. For both XLS reading and XLSM writing you can use fully qualified filenames. The output XLSM content and formatting will be identical to the original XLS document.
+Follow the easy steps to convert XLS to XLSM. Upload your XLS file, then simply save it as XLSM file. For both XLS reading and XLSM writing you can use fully qualified filenames. The output XLSM content and formatting will be identical to the original XLS document.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -87,7 +87,7 @@ Files with XLSM extension is a type of Spreadsheet files that support Macros. Fr
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert XLS into many other file formats including few listed below." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert XLS to many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xls-to-bmp/" name="XLS TO BMP" description="Bitmap Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xls-to-emf/" name="XLS TO EMF" description="Enhanced Metafile Format" >}}

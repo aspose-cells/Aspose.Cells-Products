@@ -1,6 +1,7 @@
 ---
 title: Convert XLT to JSON via Python
-description: Convert XLT to JSON format in Python code. Save XLT as JSON using Python.
+description: Convert XLT to JSON. Convert XLT to JSON online for free. Convert XLT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+keywords: Convert XLT, XLT Converter, XLT to PDF, XLT to Word, XLT to PPT, XLT to Image
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -12,10 +13,49 @@ description: Convert XLT to JSON format in Python code. Save XLT as JSON using P
 
 {{% blocks/products/pf/agp/content h2="Convert XLT to JSON Using Python" %}}
 
-With Aspose.Cells for Python library, you can easily convert XLT to JSON programmatically with  a few lines of code. [Aspose.Cells for Python](https://pypi.org/project/aspose-cells) is capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. Python Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT and more, thus making it a perfect choice to exchange documents in industry-standard formats. 
+How to convert XLT to JSON? With Aspose.Cells for Python library, you can easily convert XLT to JSON programmatically with  a few lines of code. [Aspose.Cells for Python](https://pypi.org/project/aspose-cells) is capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. Python Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT and more, thus making it a perfect choice to exchange documents in industry-standard formats. 
  
 {{% /blocks/products/pf/agp/content %}}
 
+{{% blocks/products/pf/agp/content h2="Save XLT to JSON in Python Online for Free" %}}
+
+The following example demonstrates how to convert XLT to JSON in Python.
+{{% blocks/products/pf/agp/text %}}
+
+Follow the easy steps to convert XLT into JSON. Upload your XLT file, then simply save it as JSON file. For both XLT reading and JSON writing you can use fully qualified filenames. The output JSON content and formatting will be identical to the original XLT document.
+
+{{% /blocks/products/pf/agp/text %}}
+
+{{% /blocks/products/pf/agp/content %}}
+
+{{% cells-convert title="Free App and Sample Code to Convert XLT to JSON Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="json" IsLandingPage="true" language="pythonjava" %}}
+
+{{% blocks/products/pf/agp/content h2="How to Convert XLT to JSON via Python" %}}
+
+{{% blocks/products/pf/agp/text %}}
+
+ Python developers can easily load & convert XLT to JSON in just a few lines of code.
+
+{{% /blocks/products/pf/agp/text %}}
+
+1.  Load XLT file with an instance of Workbook
+1.  Convert XLT to JSON by calling Workbook.save method
+
+{{% /blocks/products/pf/agp/content %}}
+
+{{% blocks/products/pf/agp/content h2="Python library to convert XLT to JSON" %}}
+
+{{% blocks/products/pf/agp/text %}}
+
+There are three options to install "Aspose.Cells for Python via Java" onto your system. Please choose one that resembles your needs and follow the step-by-step instructions:
+
+{{% /blocks/products/pf/agp/text %}}
+
+1.  Install Aspose.Cells for Python via Java in Windows. See [Documentation](https://docs.aspose.com/cells/python-java/getting-started/#windows)
+1.  Install Aspose.Cells for Python via Java in Linux. See [Documentation](https://docs.aspose.com/cells/python-java/getting-started/#linux)
+1.  Install Aspose.Cells for Python via Java in macOS. See [Documentation](https://docs.aspose.com/cells/python-java/getting-started/#macos)
+
+{{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="System Requirements" %}}
 
@@ -30,21 +70,6 @@ With Aspose.Cells for Python library, you can easily convert XLT to JSON program
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="How to Convert XLT to JSON via Python" %}}
-
-{{% blocks/products/pf/agp/text %}}
-
- Python developers can easily load & convert XLT files to JSON in just a few lines of code.
-
-{{% /blocks/products/pf/agp/text %}}
-
-1.  Load XLT file with an instance of Workbook
-1.  Convert XLT to JSON by calling Workbook.save method
-
-{{% /blocks/products/pf/agp/content %}}
-
-
-{{% cells-convert title="Free App and Sample Code to Convert XLT to JSON" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="json" IsLandingPage="true" language="pythonjava" %}}
  
 <!-- aboutfile Starts -->
 

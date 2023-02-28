@@ -1,6 +1,7 @@
 ---
 title: Convert ODS to XLTX via Python
-description: Convert ODS to XLTX format in Python code. Save ODS as XLTX using Python.
+description: Convert ODS to XLTX. Convert ODS to XLTX online for free. Convert ODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+keywords: Convert ODS, ODS Converter, ODS to PDF, ODS to Word, ODS to PPT, ODS to Image
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -12,10 +13,49 @@ description: Convert ODS to XLTX format in Python code. Save ODS as XLTX using P
 
 {{% blocks/products/pf/agp/content h2="Convert ODS to XLTX Using Python" %}}
 
-With Aspose.Cells for Python library, you can easily convert ODS to XLTX programmatically with  a few lines of code. [Aspose.Cells for Python](https://pypi.org/project/aspose-cells) is capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. Python Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT and more, thus making it a perfect choice to exchange documents in industry-standard formats. 
+How to convert ODS to XLTX? With Aspose.Cells for Python library, you can easily convert ODS to XLTX programmatically with  a few lines of code. [Aspose.Cells for Python](https://pypi.org/project/aspose-cells) is capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. Python Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT and more, thus making it a perfect choice to exchange documents in industry-standard formats. 
  
 {{% /blocks/products/pf/agp/content %}}
 
+{{% blocks/products/pf/agp/content h2="Save ODS to XLTX in Python Online for Free" %}}
+
+The following example demonstrates how to convert ODS to XLTX in Python.
+{{% blocks/products/pf/agp/text %}}
+
+Follow the easy steps to convert ODS into XLTX. Upload your ODS file, then simply save it as XLTX file. For both ODS reading and XLTX writing you can use fully qualified filenames. The output XLTX content and formatting will be identical to the original ODS document.
+
+{{% /blocks/products/pf/agp/text %}}
+
+{{% /blocks/products/pf/agp/content %}}
+
+{{% cells-convert title="Free App and Sample Code to Convert ODS to XLTX Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="xltx" IsLandingPage="true" language="pythonjava" %}}
+
+{{% blocks/products/pf/agp/content h2="How to Convert ODS to XLTX via Python" %}}
+
+{{% blocks/products/pf/agp/text %}}
+
+ Python developers can easily load & convert ODS to XLTX in just a few lines of code.
+
+{{% /blocks/products/pf/agp/text %}}
+
+1.  Load ODS file with an instance of Workbook
+1.  Convert ODS to XLTX by calling Workbook.save method
+
+{{% /blocks/products/pf/agp/content %}}
+
+{{% blocks/products/pf/agp/content h2="Python library to convert ODS to XLTX" %}}
+
+{{% blocks/products/pf/agp/text %}}
+
+There are three options to install "Aspose.Cells for Python via Java" onto your system. Please choose one that resembles your needs and follow the step-by-step instructions:
+
+{{% /blocks/products/pf/agp/text %}}
+
+1.  Install Aspose.Cells for Python via Java in Windows. See [Documentation](https://docs.aspose.com/cells/python-java/getting-started/#windows)
+1.  Install Aspose.Cells for Python via Java in Linux. See [Documentation](https://docs.aspose.com/cells/python-java/getting-started/#linux)
+1.  Install Aspose.Cells for Python via Java in macOS. See [Documentation](https://docs.aspose.com/cells/python-java/getting-started/#macos)
+
+{{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="System Requirements" %}}
 
@@ -30,21 +70,6 @@ With Aspose.Cells for Python library, you can easily convert ODS to XLTX program
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="How to Convert ODS to XLTX via Python" %}}
-
-{{% blocks/products/pf/agp/text %}}
-
- Python developers can easily load & convert ODS files to XLTX in just a few lines of code.
-
-{{% /blocks/products/pf/agp/text %}}
-
-1.  Load ODS file with an instance of Workbook
-1.  Convert ODS to XLTX by calling Workbook.save method
-
-{{% /blocks/products/pf/agp/content %}}
-
-
-{{% cells-convert title="Free App and Sample Code to Convert ODS to XLTX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="xltx" IsLandingPage="true" language="pythonjava" %}}
  
 <!-- aboutfile Starts -->
 

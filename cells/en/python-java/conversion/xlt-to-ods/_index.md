@@ -1,6 +1,7 @@
 ---
 title: Convert XLT to ODS via Python
-description: Convert XLT to ODS format in Python code. Save XLT as ODS using Python.
+description: Convert XLT to ODS. Convert XLT to ODS online for free. Convert XLT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+keywords: Convert XLT, XLT Converter, XLT to PDF, XLT to Word, XLT to PPT, XLT to Image
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -12,10 +13,49 @@ description: Convert XLT to ODS format in Python code. Save XLT as ODS using Pyt
 
 {{% blocks/products/pf/agp/content h2="Convert XLT to ODS Using Python" %}}
 
-With Aspose.Cells for Python library, you can easily convert XLT to ODS programmatically with  a few lines of code. [Aspose.Cells for Python](https://pypi.org/project/aspose-cells) is capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. Python Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT and more, thus making it a perfect choice to exchange documents in industry-standard formats. 
+How to convert XLT to ODS? With Aspose.Cells for Python library, you can easily convert XLT to ODS programmatically with  a few lines of code. [Aspose.Cells for Python](https://pypi.org/project/aspose-cells) is capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. Python Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT and more, thus making it a perfect choice to exchange documents in industry-standard formats. 
  
 {{% /blocks/products/pf/agp/content %}}
 
+{{% blocks/products/pf/agp/content h2="Save XLT to ODS in Python Online for Free" %}}
+
+The following example demonstrates how to convert XLT to ODS in Python.
+{{% blocks/products/pf/agp/text %}}
+
+Follow the easy steps to convert XLT into ODS. Upload your XLT file, then simply save it as ODS file. For both XLT reading and ODS writing you can use fully qualified filenames. The output ODS content and formatting will be identical to the original XLT document.
+
+{{% /blocks/products/pf/agp/text %}}
+
+{{% /blocks/products/pf/agp/content %}}
+
+{{% cells-convert title="Free App and Sample Code to Convert XLT to ODS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="ods" IsLandingPage="true" language="pythonjava" %}}
+
+{{% blocks/products/pf/agp/content h2="How to Convert XLT to ODS via Python" %}}
+
+{{% blocks/products/pf/agp/text %}}
+
+ Python developers can easily load & convert XLT to ODS in just a few lines of code.
+
+{{% /blocks/products/pf/agp/text %}}
+
+1.  Load XLT file with an instance of Workbook
+1.  Convert XLT to ODS by calling Workbook.save method
+
+{{% /blocks/products/pf/agp/content %}}
+
+{{% blocks/products/pf/agp/content h2="Python library to convert XLT to ODS" %}}
+
+{{% blocks/products/pf/agp/text %}}
+
+There are three options to install "Aspose.Cells for Python via Java" onto your system. Please choose one that resembles your needs and follow the step-by-step instructions:
+
+{{% /blocks/products/pf/agp/text %}}
+
+1.  Install Aspose.Cells for Python via Java in Windows. See [Documentation](https://docs.aspose.com/cells/python-java/getting-started/#windows)
+1.  Install Aspose.Cells for Python via Java in Linux. See [Documentation](https://docs.aspose.com/cells/python-java/getting-started/#linux)
+1.  Install Aspose.Cells for Python via Java in macOS. See [Documentation](https://docs.aspose.com/cells/python-java/getting-started/#macos)
+
+{{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="System Requirements" %}}
 
@@ -30,21 +70,6 @@ With Aspose.Cells for Python library, you can easily convert XLT to ODS programm
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="How to Convert XLT to ODS via Python" %}}
-
-{{% blocks/products/pf/agp/text %}}
-
- Python developers can easily load & convert XLT files to ODS in just a few lines of code.
-
-{{% /blocks/products/pf/agp/text %}}
-
-1.  Load XLT file with an instance of Workbook
-1.  Convert XLT to ODS by calling Workbook.save method
-
-{{% /blocks/products/pf/agp/content %}}
-
-
-{{% cells-convert title="Free App and Sample Code to Convert XLT to ODS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="ods" IsLandingPage="true" language="pythonjava" %}}
  
 <!-- aboutfile Starts -->
 

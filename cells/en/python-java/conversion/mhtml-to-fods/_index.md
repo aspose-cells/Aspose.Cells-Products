@@ -1,6 +1,7 @@
 ---
 title: Convert MHTML to FODS via Python
-description: Convert MHTML to FODS format in Python code. Save MHTML as FODS using Python.
+description: Convert MHTML to FODS. Convert MHTML to FODS online for free. Convert MHTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+keywords: Convert MHTML, MHTML Converter, MHTML to PDF, MHTML to Word, MHTML to PPT, MHTML to Image
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -12,10 +13,49 @@ description: Convert MHTML to FODS format in Python code. Save MHTML as FODS usi
 
 {{% blocks/products/pf/agp/content h2="Convert MHTML to FODS Using Python" %}}
 
-With Aspose.Cells for Python library, you can easily convert MHTML to FODS programmatically with  a few lines of code. [Aspose.Cells for Python](https://pypi.org/project/aspose-cells) is capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. Python Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT and more, thus making it a perfect choice to exchange documents in industry-standard formats. 
+How to convert MHTML to FODS? With Aspose.Cells for Python library, you can easily convert MHTML to FODS programmatically with  a few lines of code. [Aspose.Cells for Python](https://pypi.org/project/aspose-cells) is capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. Python Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT and more, thus making it a perfect choice to exchange documents in industry-standard formats. 
  
 {{% /blocks/products/pf/agp/content %}}
 
+{{% blocks/products/pf/agp/content h2="Save MHTML to FODS in Python Online for Free" %}}
+
+The following example demonstrates how to convert MHTML to FODS in Python.
+{{% blocks/products/pf/agp/text %}}
+
+Follow the easy steps to convert MHTML into FODS. Upload your MHTML file, then simply save it as FODS file. For both MHTML reading and FODS writing you can use fully qualified filenames. The output FODS content and formatting will be identical to the original MHTML document.
+
+{{% /blocks/products/pf/agp/text %}}
+
+{{% /blocks/products/pf/agp/content %}}
+
+{{% cells-convert title="Free App and Sample Code to Convert MHTML to FODS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="fods" IsLandingPage="true" language="pythonjava" %}}
+
+{{% blocks/products/pf/agp/content h2="How to Convert MHTML to FODS via Python" %}}
+
+{{% blocks/products/pf/agp/text %}}
+
+ Python developers can easily load & convert MHTML to FODS in just a few lines of code.
+
+{{% /blocks/products/pf/agp/text %}}
+
+1.  Load MHTML file with an instance of Workbook
+1.  Convert MHTML to FODS by calling Workbook.save method
+
+{{% /blocks/products/pf/agp/content %}}
+
+{{% blocks/products/pf/agp/content h2="Python library to convert MHTML to FODS" %}}
+
+{{% blocks/products/pf/agp/text %}}
+
+There are three options to install "Aspose.Cells for Python via Java" onto your system. Please choose one that resembles your needs and follow the step-by-step instructions:
+
+{{% /blocks/products/pf/agp/text %}}
+
+1.  Install Aspose.Cells for Python via Java in Windows. See [Documentation](https://docs.aspose.com/cells/python-java/getting-started/#windows)
+1.  Install Aspose.Cells for Python via Java in Linux. See [Documentation](https://docs.aspose.com/cells/python-java/getting-started/#linux)
+1.  Install Aspose.Cells for Python via Java in macOS. See [Documentation](https://docs.aspose.com/cells/python-java/getting-started/#macos)
+
+{{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="System Requirements" %}}
 
@@ -30,21 +70,6 @@ With Aspose.Cells for Python library, you can easily convert MHTML to FODS progr
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="How to Convert MHTML to FODS via Python" %}}
-
-{{% blocks/products/pf/agp/text %}}
-
- Python developers can easily load & convert MHTML files to FODS in just a few lines of code.
-
-{{% /blocks/products/pf/agp/text %}}
-
-1.  Load MHTML file with an instance of Workbook
-1.  Convert MHTML to FODS by calling Workbook.save method
-
-{{% /blocks/products/pf/agp/content %}}
-
-
-{{% cells-convert title="Free App and Sample Code to Convert MHTML to FODS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="fods" IsLandingPage="true" language="pythonjava" %}}
  
 <!-- aboutfile Starts -->
 

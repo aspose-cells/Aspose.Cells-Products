@@ -1,6 +1,7 @@
 ---
 title: Convert PNG to XPS via Python
-description: Convert PNG to XPS format in Python code. Save PNG as XPS using Python.
+description: Convert PNG to XPS. Convert PNG to XPS online for free. Convert PNG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+keywords: Convert PNG, PNG Converter, PNG to PDF, PNG to Word, PNG to PPT, PNG to Image
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -12,10 +13,49 @@ description: Convert PNG to XPS format in Python code. Save PNG as XPS using Pyt
 
 {{% blocks/products/pf/agp/content h2="Convert PNG to XPS Using Python" %}}
 
-With Aspose.Cells for Python library, you can easily convert PNG to XPS programmatically with  a few lines of code. [Aspose.Cells for Python](https://pypi.org/project/aspose-cells) is capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. Python Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT and more, thus making it a perfect choice to exchange documents in industry-standard formats. 
+How to convert PNG to XPS? With Aspose.Cells for Python library, you can easily convert PNG to XPS programmatically with  a few lines of code. [Aspose.Cells for Python](https://pypi.org/project/aspose-cells) is capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. Python Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT and more, thus making it a perfect choice to exchange documents in industry-standard formats. 
  
 {{% /blocks/products/pf/agp/content %}}
 
+{{% blocks/products/pf/agp/content h2="Save PNG to XPS in Python Online for Free" %}}
+
+The following example demonstrates how to convert PNG to XPS in Python.
+{{% blocks/products/pf/agp/text %}}
+
+Follow the easy steps to convert PNG into XPS. Upload your PNG file, then simply save it as XPS file. For both PNG reading and XPS writing you can use fully qualified filenames. The output XPS content and formatting will be identical to the original PNG document.
+
+{{% /blocks/products/pf/agp/text %}}
+
+{{% /blocks/products/pf/agp/content %}}
+
+{{% cells-convert title="Free App and Sample Code to Convert PNG to XPS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="xps" IsLandingPage="true" language="pythonjava" %}}
+
+{{% blocks/products/pf/agp/content h2="How to Convert PNG to XPS via Python" %}}
+
+{{% blocks/products/pf/agp/text %}}
+
+ Python developers can easily load & convert PNG to XPS in just a few lines of code.
+
+{{% /blocks/products/pf/agp/text %}}
+
+1.  Load PNG file with an instance of Workbook
+1.  Convert PNG to XPS by calling Workbook.save method
+
+{{% /blocks/products/pf/agp/content %}}
+
+{{% blocks/products/pf/agp/content h2="Python library to convert PNG to XPS" %}}
+
+{{% blocks/products/pf/agp/text %}}
+
+There are three options to install "Aspose.Cells for Python via Java" onto your system. Please choose one that resembles your needs and follow the step-by-step instructions:
+
+{{% /blocks/products/pf/agp/text %}}
+
+1.  Install Aspose.Cells for Python via Java in Windows. See [Documentation](https://docs.aspose.com/cells/python-java/getting-started/#windows)
+1.  Install Aspose.Cells for Python via Java in Linux. See [Documentation](https://docs.aspose.com/cells/python-java/getting-started/#linux)
+1.  Install Aspose.Cells for Python via Java in macOS. See [Documentation](https://docs.aspose.com/cells/python-java/getting-started/#macos)
+
+{{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="System Requirements" %}}
 
@@ -30,21 +70,6 @@ With Aspose.Cells for Python library, you can easily convert PNG to XPS programm
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="How to Convert PNG to XPS via Python" %}}
-
-{{% blocks/products/pf/agp/text %}}
-
- Python developers can easily load & convert PNG files to XPS in just a few lines of code.
-
-{{% /blocks/products/pf/agp/text %}}
-
-1.  Load PNG file with an instance of Workbook
-1.  Convert PNG to XPS by calling Workbook.save method
-
-{{% /blocks/products/pf/agp/content %}}
-
-
-{{% cells-convert title="Free App and Sample Code to Convert PNG to XPS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="xps" IsLandingPage="true" language="pythonjava" %}}
  
 <!-- aboutfile Starts -->
 

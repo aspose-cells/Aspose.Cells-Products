@@ -1,6 +1,7 @@
 ---
 title: Convert EXCEL to ODS via C++
-description: Convert EXCEL to ODS format in C++ code. Save EXCEL as ODS using C++.
+description: Convert EXCEL to ODS. Convert EXCEL to ODS online for free. Convert EXCEL to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+keywords: Convert EXCEL, EXCEL Converter, EXCEL to PDF, EXCEL to Word, EXCEL to PPT, EXCEL to Image
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -12,7 +13,7 @@ description: Convert EXCEL to ODS format in C++ code. Save EXCEL as ODS using C+
 
 {{% blocks/products/pf/agp/content h2="Convert EXCEL to ODS Using C++" %}}
 
-With Aspose.Cells for C++ library, you can easily convert EXCEL to ODS programmatically with  a few lines of code. [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) is capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. C++ Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT and more, thus making it a perfect choice to exchange documents in industry-standard formats. You can download its latest version directly, just open [NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) package manager, search for Aspose.Cells.Cpp and install. You may also use the following command from the Package Manager Console.
+How to convert EXCEL to ODS? With Aspose.Cells for C++ library, you can easily convert EXCEL to ODS programmatically with  a few lines of code. [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) is capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. C++ Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT and more, thus making it a perfect choice to exchange documents in industry-standard formats. You can download its latest version directly, just open [NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) package manager, search for Aspose.Cells.Cpp and install. You may also use the following command from the Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
@@ -23,6 +24,46 @@ PM> Install-Package Aspose.Cells.Cpp
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
+
+{{% /blocks/products/pf/agp/content %}}
+
+{{% blocks/products/pf/agp/content h2="Save EXCEL to ODS in C++ Online for Free" %}}
+
+The following example demonstrates how to convert EXCEL to ODS in C++.
+{{% blocks/products/pf/agp/text %}}
+
+Follow the easy steps to convert EXCEL to ODS. Upload your EXCEL file, then simply save it as ODS file. For both EXCEL reading and ODS writing you can use fully qualified filenames. The output ODS content and formatting will be identical to the original EXCEL document.
+
+{{% /blocks/products/pf/agp/text %}}
+
+{{% /blocks/products/pf/agp/content %}}
+
+{{% cells-convert title="Free App and Sample Code to Convert EXCEL to ODS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="ods" IsLandingPage="true" language="cpp" %}}
+
+{{% blocks/products/pf/agp/content h2="How to Convert EXCEL to ODS via C++" %}}
+
+{{% blocks/products/pf/agp/text %}}
+
+ C++ developers can easily convert EXCEL to ODS in just a few lines of code.
+
+{{% /blocks/products/pf/agp/text %}}
+
+1. Load EXCEL file using Factory::CreateIWorkbook.
+1. Convert EXCEL to ODS by calling Save() method.
+
+{{% /blocks/products/pf/agp/content %}}
+
+{{% blocks/products/pf/agp/content h2="C++ library to convert EXCEL to ODS" %}}
+
+{{% blocks/products/pf/agp/text %}}
+
+There are three options to install "Aspose.Cells for C++" onto your system. Please choose one that resembles your needs and follow the step-by-step instructions:
+
+{{% /blocks/products/pf/agp/text %}}
+
+1.  Install a [NuGet Package](https://www.nuget.org/packages/Aspose.Cells.Cpp/). See [Documentation](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
+1.  Install the library using Include and lib Folders. See [Documentation](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
+1.  Install Aspose.Cells for C++ in Linux. See [Documentation](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -39,22 +80,6 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="How to Convert EXCEL to ODS via C++" %}}
-
-{{% blocks/products/pf/agp/text %}}
-
- C++ developers can easily convert EXCEL file to ODS in just a few lines of code.
-
-{{% /blocks/products/pf/agp/text %}}
-
-1. Load EXCEL file using Factory::CreateIWorkbook.
-1. Convert EXCEL to ODS by calling Save() method.
-
-{{% /blocks/products/pf/agp/content %}}
-
-
-{{% cells-convert title="Free App and Sample Code to Convert EXCEL to ODS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="ods" IsLandingPage="true" language="cpp" %}}
- 
 <!-- aboutfile Starts -->
 
     {{< blocks/products/pf/agp/about-file-section >}}
@@ -71,7 +96,7 @@ Files with .ods extension stand for OpenDocument Spreadsheet Document format tha
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert EXCEL into many other file formats including few listed below." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert EXCEL to many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-bmp/" name="EXCEL TO BMP" description="Bitmap Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-emf/" name="EXCEL TO EMF" description="Enhanced Metafile Format" >}}

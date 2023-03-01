@@ -1,6 +1,7 @@
 ---
 title: Convert MHTML to XPS via Python
-description: Convert MHTML to XPS format in Python code. Save MHTML as XPS using Python.
+description: Convert MHTML to XPS. Convert MHTML to XPS online for free. Convert MHTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+keywords: Convert MHTML, MHTML Converter, MHTML to PDF, MHTML to Word, MHTML to PPT, MHTML to Image
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -12,10 +13,51 @@ description: Convert MHTML to XPS format in Python code. Save MHTML as XPS using
 
 {{% blocks/products/pf/agp/content h2="Convert MHTML to XPS Using Python" %}}
 
-With Aspose.Cells for Python library, you can easily convert MHTML to XPS programmatically with  a few lines of code. [Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python/) is capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. Python Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT and more, thus making it a perfect choice to exchange documents in industry-standard formats. 
+How to convert MHTML to XPS? With Aspose.Cells for Python library, you can easily convert MHTML to XPS programmatically with  a few lines of code. [Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python/) is capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. Python Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT and more, thus making it a perfect choice to exchange documents in industry-standard formats. 
  
 {{% /blocks/products/pf/agp/content %}}
 
+
+{{% blocks/products/pf/agp/content h2="Save MHTML to XPS in Python Online for Free" %}}
+
+The following example demonstrates how to convert MHTML to XPS in Python.
+{{% blocks/products/pf/agp/text %}}
+
+Follow the easy steps to convert MHTML to XPS. Upload your MHTML file, then simply save it as XPS file. For both MHTML reading and XPS writing you can use fully qualified filenames. The output XPS content and formatting will be identical to the original MHTML document.
+
+{{% /blocks/products/pf/agp/text %}}
+
+{{% /blocks/products/pf/agp/content %}}
+
+{{% cells-convert title="Free App and Sample Code to Convert MHTML to XPS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="xps" IsLandingPage="true" language="pythonnet" %}}
+
+{{% blocks/products/pf/agp/content h2="How to Convert MHTML to XPS via Python" %}}
+
+{{% blocks/products/pf/agp/text %}}
+
+ Python developers can easily load & convert MHTML to XPS in just a few lines of code.
+
+{{% /blocks/products/pf/agp/text %}}
+
+1.  Load MHTML file with an instance of Workbook
+1.  Convert MHTML to XPS by calling Workbook.save method
+
+{{% /blocks/products/pf/agp/content %}}
+
+
+{{% blocks/products/pf/agp/content h2="Python library to convert MHTML to XPS" %}}
+
+{{% blocks/products/pf/agp/text %}}
+
+There are three options to install "Aspose.Cells for Python via NET" onto your system. Please choose one that resembles your needs and follow the step-by-step instructions:
+
+{{% /blocks/products/pf/agp/text %}}
+
+1.  Install Aspose.Cells for Python via NET in Windows. See [Documentation](https://docs.aspose.com/cells/python-net/getting-started/#windows)
+1.  Install Aspose.Cells for Python via NET in Linux. See [Documentation](https://docs.aspose.com/cells/python-net/getting-started/#linux)
+1.  Install Aspose.Cells for Python via NET in macOS. See [Documentation](https://docs.aspose.com/cells/python-net/getting-started/#macos)
+
+{{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="System Requirements" %}}
 
@@ -29,21 +71,6 @@ With Aspose.Cells for Python library, you can easily convert MHTML to XPS progra
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="How to Convert MHTML to XPS via Python" %}}
-
-{{% blocks/products/pf/agp/text %}}
-
- Python developers can easily load & convert MHTML files to XPS in just a few lines of code.
-
-{{% /blocks/products/pf/agp/text %}}
-
-1.  Load MHTML file with an instance of Workbook
-1.  Convert MHTML to XPS by calling Workbook.save method
-
-{{% /blocks/products/pf/agp/content %}}
-
-
-{{% cells-convert title="Free App and Sample Code to Convert MHTML to XPS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="xps" IsLandingPage="true" language="pythonnet" %}}
  
 <!-- aboutfile Starts -->
 
@@ -61,7 +88,7 @@ An XPS file represents page layout files that are based on XML Paper Specificati
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert MHTML into many other file formats including few listed below." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert MHTML to many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mhtml-to-bmp/" name="MHTML TO BMP" description="Bitmap Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mhtml-to-emf/" name="MHTML TO EMF" description="Enhanced Metafile Format" >}}

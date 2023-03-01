@@ -1,6 +1,7 @@
 ---
 title: Convert XLTX to TIFF via Python
-description: Convert XLTX to TIFF format in Python code. Save XLTX as TIFF using Python.
+description: Convert XLTX to TIFF. Convert XLTX to TIFF online for free. Convert XLTX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+keywords: Convert XLTX, XLTX Converter, XLTX to PDF, XLTX to Word, XLTX to PPT, XLTX to Image
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -12,10 +13,51 @@ description: Convert XLTX to TIFF format in Python code. Save XLTX as TIFF using
 
 {{% blocks/products/pf/agp/content h2="Convert XLTX to TIFF Using Python" %}}
 
-With Aspose.Cells for Python library, you can easily convert XLTX to TIFF programmatically with  a few lines of code. [Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python/) is capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. Python Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT and more, thus making it a perfect choice to exchange documents in industry-standard formats. 
+How to convert XLTX to TIFF? With Aspose.Cells for Python library, you can easily convert XLTX to TIFF programmatically with  a few lines of code. [Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python/) is capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. Python Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT and more, thus making it a perfect choice to exchange documents in industry-standard formats. 
  
 {{% /blocks/products/pf/agp/content %}}
 
+
+{{% blocks/products/pf/agp/content h2="Save XLTX to TIFF in Python Online for Free" %}}
+
+The following example demonstrates how to convert XLTX to TIFF in Python.
+{{% blocks/products/pf/agp/text %}}
+
+Follow the easy steps to convert XLTX to TIFF. Upload your XLTX file, then simply save it as TIFF file. For both XLTX reading and TIFF writing you can use fully qualified filenames. The output TIFF content and formatting will be identical to the original XLTX document.
+
+{{% /blocks/products/pf/agp/text %}}
+
+{{% /blocks/products/pf/agp/content %}}
+
+{{% cells-convert title="Free App and Sample Code to Convert XLTX to TIFF Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="tiff" IsLandingPage="true" language="pythonnet" %}}
+
+{{% blocks/products/pf/agp/content h2="How to Convert XLTX to TIFF via Python" %}}
+
+{{% blocks/products/pf/agp/text %}}
+
+ Python developers can easily load & convert XLTX to TIFF in just a few lines of code.
+
+{{% /blocks/products/pf/agp/text %}}
+
+1.  Load XLTX file with an instance of Workbook
+1.  Convert XLTX to TIFF by calling Workbook.save method
+
+{{% /blocks/products/pf/agp/content %}}
+
+
+{{% blocks/products/pf/agp/content h2="Python library to convert XLTX to TIFF" %}}
+
+{{% blocks/products/pf/agp/text %}}
+
+There are three options to install "Aspose.Cells for Python via NET" onto your system. Please choose one that resembles your needs and follow the step-by-step instructions:
+
+{{% /blocks/products/pf/agp/text %}}
+
+1.  Install Aspose.Cells for Python via NET in Windows. See [Documentation](https://docs.aspose.com/cells/python-net/getting-started/#windows)
+1.  Install Aspose.Cells for Python via NET in Linux. See [Documentation](https://docs.aspose.com/cells/python-net/getting-started/#linux)
+1.  Install Aspose.Cells for Python via NET in macOS. See [Documentation](https://docs.aspose.com/cells/python-net/getting-started/#macos)
+
+{{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="System Requirements" %}}
 
@@ -29,21 +71,6 @@ With Aspose.Cells for Python library, you can easily convert XLTX to TIFF progra
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="How to Convert XLTX to TIFF via Python" %}}
-
-{{% blocks/products/pf/agp/text %}}
-
- Python developers can easily load & convert XLTX files to TIFF in just a few lines of code.
-
-{{% /blocks/products/pf/agp/text %}}
-
-1.  Load XLTX file with an instance of Workbook
-1.  Convert XLTX to TIFF by calling Workbook.save method
-
-{{% /blocks/products/pf/agp/content %}}
-
-
-{{% cells-convert title="Free App and Sample Code to Convert XLTX to TIFF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="tiff" IsLandingPage="true" language="pythonnet" %}}
  
 <!-- aboutfile Starts -->
 
@@ -61,7 +88,7 @@ TIFF or TIF, Tagged Image File Format, represents raster images that are meant f
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert XLTX into many other file formats including few listed below." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert XLTX to many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-bmp/" name="XLTX TO BMP" description="Bitmap Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltx-to-emf/" name="XLTX TO EMF" description="Enhanced Metafile Format" >}}

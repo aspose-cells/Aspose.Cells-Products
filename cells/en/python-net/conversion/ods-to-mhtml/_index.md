@@ -1,6 +1,7 @@
 ---
 title: Convert ODS to MHTML via Python
-description: Convert ODS to MHTML format in Python code. Save ODS as MHTML using Python.
+description: Convert ODS to MHTML. Convert ODS to MHTML online for free. Convert ODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+keywords: Convert ODS, ODS Converter, ODS to PDF, ODS to Word, ODS to PPT, ODS to Image
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -12,10 +13,51 @@ description: Convert ODS to MHTML format in Python code. Save ODS as MHTML using
 
 {{% blocks/products/pf/agp/content h2="Convert ODS to MHTML Using Python" %}}
 
-With Aspose.Cells for Python library, you can easily convert ODS to MHTML programmatically with  a few lines of code. [Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python/) is capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. Python Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT and more, thus making it a perfect choice to exchange documents in industry-standard formats. 
+How to convert ODS to MHTML? With Aspose.Cells for Python library, you can easily convert ODS to MHTML programmatically with  a few lines of code. [Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python/) is capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. Python Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT and more, thus making it a perfect choice to exchange documents in industry-standard formats. 
  
 {{% /blocks/products/pf/agp/content %}}
 
+
+{{% blocks/products/pf/agp/content h2="Save ODS to MHTML in Python Online for Free" %}}
+
+The following example demonstrates how to convert ODS to MHTML in Python.
+{{% blocks/products/pf/agp/text %}}
+
+Follow the easy steps to convert ODS to MHTML. Upload your ODS file, then simply save it as MHTML file. For both ODS reading and MHTML writing you can use fully qualified filenames. The output MHTML content and formatting will be identical to the original ODS document.
+
+{{% /blocks/products/pf/agp/text %}}
+
+{{% /blocks/products/pf/agp/content %}}
+
+{{% cells-convert title="Free App and Sample Code to Convert ODS to MHTML Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="mhtml" IsLandingPage="true" language="pythonnet" %}}
+
+{{% blocks/products/pf/agp/content h2="How to Convert ODS to MHTML via Python" %}}
+
+{{% blocks/products/pf/agp/text %}}
+
+ Python developers can easily load & convert ODS to MHTML in just a few lines of code.
+
+{{% /blocks/products/pf/agp/text %}}
+
+1.  Load ODS file with an instance of Workbook
+1.  Convert ODS to MHTML by calling Workbook.save method
+
+{{% /blocks/products/pf/agp/content %}}
+
+
+{{% blocks/products/pf/agp/content h2="Python library to convert ODS to MHTML" %}}
+
+{{% blocks/products/pf/agp/text %}}
+
+There are three options to install "Aspose.Cells for Python via NET" onto your system. Please choose one that resembles your needs and follow the step-by-step instructions:
+
+{{% /blocks/products/pf/agp/text %}}
+
+1.  Install Aspose.Cells for Python via NET in Windows. See [Documentation](https://docs.aspose.com/cells/python-net/getting-started/#windows)
+1.  Install Aspose.Cells for Python via NET in Linux. See [Documentation](https://docs.aspose.com/cells/python-net/getting-started/#linux)
+1.  Install Aspose.Cells for Python via NET in macOS. See [Documentation](https://docs.aspose.com/cells/python-net/getting-started/#macos)
+
+{{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="System Requirements" %}}
 
@@ -29,21 +71,6 @@ With Aspose.Cells for Python library, you can easily convert ODS to MHTML progra
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="How to Convert ODS to MHTML via Python" %}}
-
-{{% blocks/products/pf/agp/text %}}
-
- Python developers can easily load & convert ODS files to MHTML in just a few lines of code.
-
-{{% /blocks/products/pf/agp/text %}}
-
-1.  Load ODS file with an instance of Workbook
-1.  Convert ODS to MHTML by calling Workbook.save method
-
-{{% /blocks/products/pf/agp/content %}}
-
-
-{{% cells-convert title="Free App and Sample Code to Convert ODS to MHTML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="mhtml" IsLandingPage="true" language="pythonnet" %}}
  
 <!-- aboutfile Starts -->
 
@@ -61,7 +88,7 @@ Files with MHTML extension represent a web page archive format that can be creat
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert ODS into many other file formats including few listed below." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert ODS to many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ods-to-bmp/" name="ODS TO BMP" description="Bitmap Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ods-to-emf/" name="ODS TO EMF" description="Enhanced Metafile Format" >}}

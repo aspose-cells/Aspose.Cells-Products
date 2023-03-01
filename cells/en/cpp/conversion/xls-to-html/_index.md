@@ -1,6 +1,7 @@
 ---
 title: Convert XLS to HTML via C++
-description: Convert XLS to HTML format in C++ code. Save XLS as HTML using C++.
+description: Convert XLS to HTML. Convert XLS to HTML online for free. Convert XLS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+keywords: Convert XLS, XLS Converter, XLS to PDF, XLS to Word, XLS to PPT, XLS to Image
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -12,7 +13,7 @@ description: Convert XLS to HTML format in C++ code. Save XLS as HTML using C++.
 
 {{% blocks/products/pf/agp/content h2="Convert XLS to HTML Using C++" %}}
 
-With Aspose.Cells for C++ library, you can easily convert XLS to HTML programmatically with  a few lines of code. [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) is capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. C++ Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT and more, thus making it a perfect choice to exchange documents in industry-standard formats. You can download its latest version directly, just open [NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) package manager, search for Aspose.Cells.Cpp and install. You may also use the following command from the Package Manager Console.
+How to convert XLS to HTML? With Aspose.Cells for C++ library, you can easily convert XLS to HTML programmatically with  a few lines of code. [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) is capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. C++ Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT and more, thus making it a perfect choice to exchange documents in industry-standard formats. You can download its latest version directly, just open [NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) package manager, search for Aspose.Cells.Cpp and install. You may also use the following command from the Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
@@ -23,6 +24,46 @@ PM> Install-Package Aspose.Cells.Cpp
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
+
+{{% /blocks/products/pf/agp/content %}}
+
+{{% blocks/products/pf/agp/content h2="Save XLS to HTML in C++ Online for Free" %}}
+
+The following example demonstrates how to convert XLS to HTML in C++.
+{{% blocks/products/pf/agp/text %}}
+
+Follow the easy steps to convert XLS to HTML. Upload your XLS file, then simply save it as HTML file. For both XLS reading and HTML writing you can use fully qualified filenames. The output HTML content and formatting will be identical to the original XLS document.
+
+{{% /blocks/products/pf/agp/text %}}
+
+{{% /blocks/products/pf/agp/content %}}
+
+{{% cells-convert title="Free App and Sample Code to Convert XLS to HTML Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="html" IsLandingPage="true" language="cpp" %}}
+
+{{% blocks/products/pf/agp/content h2="How to Convert XLS to HTML via C++" %}}
+
+{{% blocks/products/pf/agp/text %}}
+
+ C++ developers can easily convert XLS to HTML in just a few lines of code.
+
+{{% /blocks/products/pf/agp/text %}}
+
+1. Load XLS file using Factory::CreateIWorkbook.
+1. Convert XLS to HTML by calling Save() method.
+
+{{% /blocks/products/pf/agp/content %}}
+
+{{% blocks/products/pf/agp/content h2="C++ library to convert XLS to HTML" %}}
+
+{{% blocks/products/pf/agp/text %}}
+
+There are three options to install "Aspose.Cells for C++" onto your system. Please choose one that resembles your needs and follow the step-by-step instructions:
+
+{{% /blocks/products/pf/agp/text %}}
+
+1.  Install a [NuGet Package](https://www.nuget.org/packages/Aspose.Cells.Cpp/). See [Documentation](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
+1.  Install the library using Include and lib Folders. See [Documentation](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
+1.  Install Aspose.Cells for C++ in Linux. See [Documentation](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -39,22 +80,6 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="How to Convert XLS to HTML via C++" %}}
-
-{{% blocks/products/pf/agp/text %}}
-
- C++ developers can easily convert XLS file to HTML in just a few lines of code.
-
-{{% /blocks/products/pf/agp/text %}}
-
-1. Load XLS file using Factory::CreateIWorkbook.
-1. Convert XLS to HTML by calling Save() method.
-
-{{% /blocks/products/pf/agp/content %}}
-
-
-{{% cells-convert title="Free App and Sample Code to Convert XLS to HTML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="html" IsLandingPage="true" language="cpp" %}}
- 
 <!-- aboutfile Starts -->
 
     {{< blocks/products/pf/agp/about-file-section >}}
@@ -71,7 +96,7 @@ HTML (Hyper Text Markup Language) is the extension for web pages created for dis
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert XLS into many other file formats including few listed below." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert XLS to many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xls-to-bmp/" name="XLS TO BMP" description="Bitmap Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xls-to-emf/" name="XLS TO EMF" description="Enhanced Metafile Format" >}}

@@ -1,6 +1,7 @@
 ---
 title: Convert SPREADSHEETML to BMP via Python
-description: Convert SPREADSHEETML to BMP format in Python code. Save SPREADSHEETML as BMP using Python.
+description: Convert SPREADSHEETML to BMP. Convert SPREADSHEETML to BMP online for free. Convert SPREADSHEETML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+keywords: Convert SPREADSHEETML, SPREADSHEETML Converter, SPREADSHEETML to PDF, SPREADSHEETML to Word, SPREADSHEETML to PPT, SPREADSHEETML to Image
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -12,10 +13,51 @@ description: Convert SPREADSHEETML to BMP format in Python code. Save SPREADSHEE
 
 {{% blocks/products/pf/agp/content h2="Convert SPREADSHEETML to BMP Using Python" %}}
 
-With Aspose.Cells for Python library, you can easily convert SPREADSHEETML to BMP programmatically with  a few lines of code. [Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python/) is capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. Python Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT and more, thus making it a perfect choice to exchange documents in industry-standard formats. 
+How to convert SPREADSHEETML to BMP? With Aspose.Cells for Python library, you can easily convert SPREADSHEETML to BMP programmatically with  a few lines of code. [Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python/) is capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. Python Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT and more, thus making it a perfect choice to exchange documents in industry-standard formats. 
  
 {{% /blocks/products/pf/agp/content %}}
 
+
+{{% blocks/products/pf/agp/content h2="Save SPREADSHEETML to BMP in Python Online for Free" %}}
+
+The following example demonstrates how to convert SPREADSHEETML to BMP in Python.
+{{% blocks/products/pf/agp/text %}}
+
+Follow the easy steps to convert SPREADSHEETML to BMP. Upload your SPREADSHEETML file, then simply save it as BMP file. For both SPREADSHEETML reading and BMP writing you can use fully qualified filenames. The output BMP content and formatting will be identical to the original SPREADSHEETML document.
+
+{{% /blocks/products/pf/agp/text %}}
+
+{{% /blocks/products/pf/agp/content %}}
+
+{{% cells-convert title="Free App and Sample Code to Convert SPREADSHEETML to BMP Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="bmp" IsLandingPage="true" language="pythonnet" %}}
+
+{{% blocks/products/pf/agp/content h2="How to Convert SPREADSHEETML to BMP via Python" %}}
+
+{{% blocks/products/pf/agp/text %}}
+
+ Python developers can easily load & convert SPREADSHEETML to BMP in just a few lines of code.
+
+{{% /blocks/products/pf/agp/text %}}
+
+1.  Load SPREADSHEETML file with an instance of Workbook
+1.  Convert SPREADSHEETML to BMP by calling Workbook.save method
+
+{{% /blocks/products/pf/agp/content %}}
+
+
+{{% blocks/products/pf/agp/content h2="Python library to convert SPREADSHEETML to BMP" %}}
+
+{{% blocks/products/pf/agp/text %}}
+
+There are three options to install "Aspose.Cells for Python via NET" onto your system. Please choose one that resembles your needs and follow the step-by-step instructions:
+
+{{% /blocks/products/pf/agp/text %}}
+
+1.  Install Aspose.Cells for Python via NET in Windows. See [Documentation](https://docs.aspose.com/cells/python-net/getting-started/#windows)
+1.  Install Aspose.Cells for Python via NET in Linux. See [Documentation](https://docs.aspose.com/cells/python-net/getting-started/#linux)
+1.  Install Aspose.Cells for Python via NET in macOS. See [Documentation](https://docs.aspose.com/cells/python-net/getting-started/#macos)
+
+{{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="System Requirements" %}}
 
@@ -29,21 +71,6 @@ With Aspose.Cells for Python library, you can easily convert SPREADSHEETML to BM
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="How to Convert SPREADSHEETML to BMP via Python" %}}
-
-{{% blocks/products/pf/agp/text %}}
-
- Python developers can easily load & convert SPREADSHEETML files to BMP in just a few lines of code.
-
-{{% /blocks/products/pf/agp/text %}}
-
-1.  Load SPREADSHEETML file with an instance of Workbook
-1.  Convert SPREADSHEETML to BMP by calling Workbook.save method
-
-{{% /blocks/products/pf/agp/content %}}
-
-
-{{% cells-convert title="Free App and Sample Code to Convert SPREADSHEETML to BMP" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="bmp" IsLandingPage="true" language="pythonnet" %}}
  
 <!-- aboutfile Starts -->
 
@@ -61,7 +88,7 @@ Files having extension .BMP represent Bitmap Image files that are used to store 
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert SPREADSHEETML into many other file formats including few listed below." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert SPREADSHEETML to many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/spreadsheetml-to-bmp/" name="SPREADSHEETML TO BMP" description="Bitmap Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/spreadsheetml-to-emf/" name="SPREADSHEETML TO EMF" description="Enhanced Metafile Format" >}}

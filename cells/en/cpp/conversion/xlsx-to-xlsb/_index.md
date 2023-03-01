@@ -1,6 +1,7 @@
 ---
 title: Convert XLSX to XLSB via C++
-description: Convert XLSX to XLSB format in C++ code. Save XLSX as XLSB using C++.
+description: Convert XLSX to XLSB. Convert XLSX to XLSB online for free. Convert XLSX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+keywords: Convert XLSX, XLSX Converter, XLSX to PDF, XLSX to Word, XLSX to PPT, XLSX to Image
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -12,7 +13,7 @@ description: Convert XLSX to XLSB format in C++ code. Save XLSX as XLSB using C+
 
 {{% blocks/products/pf/agp/content h2="Convert XLSX to XLSB Using C++" %}}
 
-With Aspose.Cells for C++ library, you can easily convert XLSX to XLSB programmatically with  a few lines of code. [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) is capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. C++ Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT and more, thus making it a perfect choice to exchange documents in industry-standard formats. You can download its latest version directly, just open [NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) package manager, search for Aspose.Cells.Cpp and install. You may also use the following command from the Package Manager Console.
+How to convert XLSX to XLSB? With Aspose.Cells for C++ library, you can easily convert XLSX to XLSB programmatically with  a few lines of code. [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) is capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. C++ Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT and more, thus making it a perfect choice to exchange documents in industry-standard formats. You can download its latest version directly, just open [NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) package manager, search for Aspose.Cells.Cpp and install. You may also use the following command from the Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
@@ -23,6 +24,46 @@ PM> Install-Package Aspose.Cells.Cpp
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
+
+{{% /blocks/products/pf/agp/content %}}
+
+{{% blocks/products/pf/agp/content h2="Save XLSX to XLSB in C++ Online for Free" %}}
+
+The following example demonstrates how to convert XLSX to XLSB in C++.
+{{% blocks/products/pf/agp/text %}}
+
+Follow the easy steps to convert XLSX to XLSB. Upload your XLSX file, then simply save it as XLSB file. For both XLSX reading and XLSB writing you can use fully qualified filenames. The output XLSB content and formatting will be identical to the original XLSX document.
+
+{{% /blocks/products/pf/agp/text %}}
+
+{{% /blocks/products/pf/agp/content %}}
+
+{{% cells-convert title="Free App and Sample Code to Convert XLSX to XLSB Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="xlsb" IsLandingPage="true" language="cpp" %}}
+
+{{% blocks/products/pf/agp/content h2="How to Convert XLSX to XLSB via C++" %}}
+
+{{% blocks/products/pf/agp/text %}}
+
+ C++ developers can easily convert XLSX to XLSB in just a few lines of code.
+
+{{% /blocks/products/pf/agp/text %}}
+
+1. Load XLSX file using Factory::CreateIWorkbook.
+1. Convert XLSX to XLSB by calling Save() method.
+
+{{% /blocks/products/pf/agp/content %}}
+
+{{% blocks/products/pf/agp/content h2="C++ library to convert XLSX to XLSB" %}}
+
+{{% blocks/products/pf/agp/text %}}
+
+There are three options to install "Aspose.Cells for C++" onto your system. Please choose one that resembles your needs and follow the step-by-step instructions:
+
+{{% /blocks/products/pf/agp/text %}}
+
+1.  Install a [NuGet Package](https://www.nuget.org/packages/Aspose.Cells.Cpp/). See [Documentation](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
+1.  Install the library using Include and lib Folders. See [Documentation](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
+1.  Install Aspose.Cells for C++ in Linux. See [Documentation](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -39,22 +80,6 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="How to Convert XLSX to XLSB via C++" %}}
-
-{{% blocks/products/pf/agp/text %}}
-
- C++ developers can easily convert XLSX file to XLSB in just a few lines of code.
-
-{{% /blocks/products/pf/agp/text %}}
-
-1. Load XLSX file using Factory::CreateIWorkbook.
-1. Convert XLSX to XLSB by calling Save() method.
-
-{{% /blocks/products/pf/agp/content %}}
-
-
-{{% cells-convert title="Free App and Sample Code to Convert XLSX to XLSB" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="xlsb" IsLandingPage="true" language="cpp" %}}
- 
 <!-- aboutfile Starts -->
 
     {{< blocks/products/pf/agp/about-file-section >}}
@@ -71,7 +96,7 @@ XLSB file format specifies the Excel Binary File Format, which is a collection o
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert XLSX into many other file formats including few listed below." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert XLSX to many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsx-to-bmp/" name="XLSX TO BMP" description="Bitmap Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsx-to-emf/" name="XLSX TO EMF" description="Enhanced Metafile Format" >}}

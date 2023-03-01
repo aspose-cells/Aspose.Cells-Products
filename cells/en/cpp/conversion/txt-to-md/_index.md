@@ -1,6 +1,7 @@
 ---
 title: Convert TXT to MD via C++
-description: Convert TXT to MD format in C++ code. Save TXT as MD using C++.
+description: Convert TXT to MD. Convert TXT to MD online for free. Convert TXT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+keywords: Convert TXT, TXT Converter, TXT to PDF, TXT to Word, TXT to PPT, TXT to Image
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -12,7 +13,7 @@ description: Convert TXT to MD format in C++ code. Save TXT as MD using C++.
 
 {{% blocks/products/pf/agp/content h2="Convert TXT to MD Using C++" %}}
 
-With Aspose.Cells for C++ library, you can easily convert TXT to MD programmatically with  a few lines of code. [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) is capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. C++ Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT and more, thus making it a perfect choice to exchange documents in industry-standard formats. You can download its latest version directly, just open [NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) package manager, search for Aspose.Cells.Cpp and install. You may also use the following command from the Package Manager Console.
+How to convert TXT to MD? With Aspose.Cells for C++ library, you can easily convert TXT to MD programmatically with  a few lines of code. [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) is capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. C++ Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT and more, thus making it a perfect choice to exchange documents in industry-standard formats. You can download its latest version directly, just open [NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) package manager, search for Aspose.Cells.Cpp and install. You may also use the following command from the Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
@@ -23,6 +24,46 @@ PM> Install-Package Aspose.Cells.Cpp
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
+
+{{% /blocks/products/pf/agp/content %}}
+
+{{% blocks/products/pf/agp/content h2="Save TXT to MD in C++ Online for Free" %}}
+
+The following example demonstrates how to convert TXT to MD in C++.
+{{% blocks/products/pf/agp/text %}}
+
+Follow the easy steps to convert TXT to MD. Upload your TXT file, then simply save it as MD file. For both TXT reading and MD writing you can use fully qualified filenames. The output MD content and formatting will be identical to the original TXT document.
+
+{{% /blocks/products/pf/agp/text %}}
+
+{{% /blocks/products/pf/agp/content %}}
+
+{{% cells-convert title="Free App and Sample Code to Convert TXT to MD Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="md" IsLandingPage="true" language="cpp" %}}
+
+{{% blocks/products/pf/agp/content h2="How to Convert TXT to MD via C++" %}}
+
+{{% blocks/products/pf/agp/text %}}
+
+ C++ developers can easily convert TXT to MD in just a few lines of code.
+
+{{% /blocks/products/pf/agp/text %}}
+
+1. Load TXT file using Factory::CreateIWorkbook.
+1. Convert TXT to MD by calling Save() method.
+
+{{% /blocks/products/pf/agp/content %}}
+
+{{% blocks/products/pf/agp/content h2="C++ library to convert TXT to MD" %}}
+
+{{% blocks/products/pf/agp/text %}}
+
+There are three options to install "Aspose.Cells for C++" onto your system. Please choose one that resembles your needs and follow the step-by-step instructions:
+
+{{% /blocks/products/pf/agp/text %}}
+
+1.  Install a [NuGet Package](https://www.nuget.org/packages/Aspose.Cells.Cpp/). See [Documentation](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
+1.  Install the library using Include and lib Folders. See [Documentation](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
+1.  Install Aspose.Cells for C++ in Linux. See [Documentation](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -39,22 +80,6 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="How to Convert TXT to MD via C++" %}}
-
-{{% blocks/products/pf/agp/text %}}
-
- C++ developers can easily convert TXT file to MD in just a few lines of code.
-
-{{% /blocks/products/pf/agp/text %}}
-
-1. Load TXT file using Factory::CreateIWorkbook.
-1. Convert TXT to MD by calling Save() method.
-
-{{% /blocks/products/pf/agp/content %}}
-
-
-{{% cells-convert title="Free App and Sample Code to Convert TXT to MD" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="md" IsLandingPage="true" language="cpp" %}}
- 
 <!-- aboutfile Starts -->
 
     {{< blocks/products/pf/agp/about-file-section >}}
@@ -71,7 +96,7 @@ Text files created with Markdown language dialects is saved with .md or .MARKDOW
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert TXT into many other file formats including few listed below." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert TXT to many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/txt-to-bmp/" name="TXT TO BMP" description="Bitmap Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/txt-to-emf/" name="TXT TO EMF" description="Enhanced Metafile Format" >}}

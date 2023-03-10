@@ -1,5 +1,5 @@
 ---
-title: Convert XLSX to PDF in Python via NET
+title: Convert XLSX to PDF in Python via Python
 description: Convert XLSX to PDF in Python. Convert XLSX to PDF in Python online for free. Convert XLSX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert XLSX, XLSX Converter, XLSX to PDF, XLSX to Word, XLSX to PPT, XLSX to Image
 ---
@@ -44,8 +44,8 @@ Follow the easy steps to convert XLSX to PDF. Upload your XLSX file, then simply
 
 1.  Install 'Aspose.Cells for Python via .NET'.
 1.  Add a library reference (import the library) to your Python project.
-1.  Load XLSX file with an instance of Workbook.
-1.  Convert XLSX to PDF by calling Workbook.save method.
+1.  Load XLSX file with an instance of Workbook
+1.  Convert XLSX to PDF by calling Workbook.save method
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -53,15 +53,14 @@ Follow the easy steps to convert XLSX to PDF. Upload your XLSX file, then simply
 {{% blocks/products/pf/agp/content h2="Python library to convert XLSX to PDF" %}}
 
 We host our Python packages in PyPi repositories.
+
 {{% blocks/products/pf/agp/text %}}
 Install Aspose.Cells for Python from <a href="https://pypi.org/project/aspose-cells-python/">pypi</a>, use command as: <code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
+
 {{% blocks/products/pf/agp/text %}}
-
 And you can also follow the [step-by-step instructions](https://docs.aspose.com/cells/python-net/getting-started/) on how to install "Aspose.Cells for Python via .NET" to your developer environment.
-
 {{% /blocks/products/pf/agp/text %}}
-
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="System Requirements" %}}
@@ -71,7 +70,6 @@ And you can also follow the [step-by-step instructions](https://docs.aspose.com/
  Aspose.Cells for Python is platform-independent API and can be used on any platform (Windows, Linux), just make sure that system have [Python](https://www.python.org/downloads/) 3.7 or higher. 
  
 {{% /blocks/products/pf/agp/text %}}
-
 
 {{% /blocks/products/pf/agp/content %}}
 

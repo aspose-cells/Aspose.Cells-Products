@@ -44,6 +44,15 @@ Just make sure that system have Microsoft Windows or a compatible OS with .NET F
 - Alternatively, get the offline MSI installer or all DLLs in a ZIP file from <a href="https://downloads.aspose.com/cells/net">downloads</a>
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Visibility improvements in the chart" %}}
+
+{{% blocks/products/pf/agp/text %}}
+
+Sometimes, to make the chart look more intuitive, we can modify the appearance of the marker (close), or make it display on the secondary axis.
+
+![todo:image_alt_text](sample.png)
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/code-block title="Following source code shows how to create a High-Low-Close Stock Chart to MS Excel XLSX file using C#." offSpacer="" %}}
 
 {{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "create-high-low-close-stock-chart.cs" >}}

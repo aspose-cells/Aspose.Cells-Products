@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to PRN via C#
-description: Convert XLTX to PRN. Convert XLTX to PRN online for free. Convert XLTX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert XLTX to PRN online for free. Convert XLTX to PRN. Convert XLTX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert XLTX, XLTX Converter, XLTX to PDF, XLTX to Word, XLTX to PPT, XLTX to Image
 ---
 
@@ -77,7 +77,6 @@ There are two alternative options to install "Aspose.Cells for .NET" onto your s
 -  Add reference to the Aspose.Cells for .NET DLL in your project. 
 
 {{% /blocks/products/pf/agp/content %}}
-
 
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert XLTX to many other file formats including few listed below." >}}

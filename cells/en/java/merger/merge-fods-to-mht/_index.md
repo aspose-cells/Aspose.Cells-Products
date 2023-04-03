@@ -1,7 +1,7 @@
 ---
 title: Merge FODS to MHT via Java 
 url: /java/merger/merge-fods-to-mht/ 
-description: Merge FODS to MHT in Java. Merge FODS to MHT via Java online for free. Combine FODS to MHT using Java based desktop or web application.
+description: Merge FODS to MHT via Java online for free. Merge FODS to MHT in Java. Combine FODS to MHT using Java based desktop or web application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -50,7 +50,7 @@ How to merge FODS to MHT? With Aspose.Cells for Java library, you can easily mer
 The following example demonstrates how to merge FODS to MHT in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to merge FODS to MHT. Upload your files, call Workbook.Combine method for merging files, and then save it to MHT file. If you develop code in Java, this will be simpler than it sounds. See {{platform} example that merges FODS to MHT.
+Follow the easy steps to merge FODS to MHT. Upload your files, call Workbook.Combine method for merging files, and then save it to MHT file. If you develop code in Java, this will be simpler than it sounds. See Java example that merges FODS to MHT.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -98,21 +98,6 @@ Our APIs are supported on all major platforms and Operating Systems. Before exec
 
 {{% /blocks/products/pf/agp/content %}}
 
-<!-- aboutfile Starts -->
-
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="FODS" readMoreLink="https://docs.fileformat.com/spreadsheet/fods/" >}}
-A file with .fods extension is a type of OpenDocument Spreadsheet document format that stores data in rows and columns. The format is specified as part of ODF 1.2 specifications published and maintained by OASIS. FODS files cannot be opened with Excel, another Spreadsheet software application by Microsoft. FODS files can be saved as ODS using LibreOffice and can be converted to other formats such as XLS and XLSX.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}
-A file with .mht extension is a MIME enabled archiving file format that contains different types of data into a single file. It can store data such as text, images, page styling in the form of CSS files, JavaScript, and other resources as embedded resources in it. MHT files, having MIME type message/rfc822, encapsulate all the contents of an HTML file as a single archive file for storing on archiving on storage devices. Software applications such as Microsoft Word lets you convert your WORD documents to MHT by exporting as MHT file. MHT files can be opened using popular browsers such as Microsoft Internet Explore and Google Chrome.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
-
-<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Merging Formats" subTitle="Using Java, One can also merge fods to many other file formats including." >}}
 

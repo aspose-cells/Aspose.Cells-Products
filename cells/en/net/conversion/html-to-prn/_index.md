@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to PRN via C#
-description: Convert HTML to PRN. Convert HTML to PRN online for free. Convert HTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert HTML to PRN online for free. Convert HTML to PRN. Convert HTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert HTML, HTML Converter, HTML to PDF, HTML to Word, HTML to PPT, HTML to Image
 ---
 
@@ -77,7 +77,6 @@ There are two alternative options to install "Aspose.Cells for .NET" onto your s
 -  Add reference to the Aspose.Cells for .NET DLL in your project. 
 
 {{% /blocks/products/pf/agp/content %}}
-
 
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert HTML to many other file formats including few listed below." >}}

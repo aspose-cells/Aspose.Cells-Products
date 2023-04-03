@@ -1,6 +1,6 @@
 ---
 title: Convert PRN to XLSB via Java 
-description: Convert PRN to XLSB. Convert PRN to XLSB online for free. Convert PRN to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert PRN to XLSB online for free. Convert PRN to XLSB. Convert PRN to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert PRN, PRN Converter, PRN to PDF, PRN to Word, PRN to PPT, PRN to Image
 ---
 
@@ -92,7 +92,6 @@ We host our Java packages in [Maven](https://repository.aspose.com/webapp/#/arti
 - Get latest version of Aspose.Cells for Java directly from Maven.
 
 {{% /blocks/products/pf/agp/content %}}
-
 
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert PRN to many other file formats including few listed below." >}}

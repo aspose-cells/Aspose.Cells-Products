@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to ETT via C#
-description: Convert SPREADSHEETML to ETT. Convert SPREADSHEETML to ETT online for free. Convert SPREADSHEETML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert SPREADSHEETML to ETT online for free. Convert SPREADSHEETML to ETT. Convert SPREADSHEETML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert SPREADSHEETML, SPREADSHEETML Converter, SPREADSHEETML to PDF, SPREADSHEETML to Word, SPREADSHEETML to PPT, SPREADSHEETML to Image
 ---
 
@@ -36,7 +36,7 @@ Follow the easy steps to convert SPREADSHEETML to ETT. Upload your SPREADSHEETML
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert SPREADSHEETML to ETT Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="ett" IsLandingPage="true" %}}
+{{% cells-convert title="Free App and Sample Code to Convert SPREADSHEETML to ETT Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="ett" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert SPREADSHEETML to ETT via C#" %}}
 
@@ -77,7 +77,6 @@ There are two alternative options to install "Aspose.Cells for .NET" onto your s
 -  Add reference to the Aspose.Cells for .NET DLL in your project. 
 
 {{% /blocks/products/pf/agp/content %}}
-
 
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert SPREADSHEETML to many other file formats including few listed below." >}}

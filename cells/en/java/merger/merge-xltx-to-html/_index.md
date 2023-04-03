@@ -1,7 +1,7 @@
 ---
 title: Merge XLTX to HTML via Java 
 url: /java/merger/merge-xltx-to-html/ 
-description: Merge XLTX to HTML in Java. Merge XLTX to HTML via Java online for free. Combine XLTX to HTML using Java based desktop or web application.
+description: Merge XLTX to HTML via Java online for free. Merge XLTX to HTML in Java. Combine XLTX to HTML using Java based desktop or web application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -50,7 +50,7 @@ How to merge XLTX to HTML? With Aspose.Cells for Java library, you can easily me
 The following example demonstrates how to merge XLTX to HTML in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to merge XLTX to HTML. Upload your files, call Workbook.Combine method for merging files, and then save it to HTML file. If you develop code in Java, this will be simpler than it sounds. See {{platform} example that merges XLTX to HTML.
+Follow the easy steps to merge XLTX to HTML. Upload your files, call Workbook.Combine method for merging files, and then save it to HTML file. If you develop code in Java, this will be simpler than it sounds. See Java example that merges XLTX to HTML.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -98,21 +98,6 @@ Our APIs are supported on all major platforms and Operating Systems. Before exec
 
 {{% /blocks/products/pf/agp/content %}}
 
-<!-- aboutfile Starts -->
-
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="XLTX" readMoreLink="https://docs.fileformat.com/spreadsheet/xltx/" >}}
-Files with .xltx extension represent Microsoft Excel Template files that are based on the Office OpenXML file format specifications. It is used to create a standard template file that can be utilized to generate XLSX files that exhibit the same settings as specified in the XLTX file.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" >}}
-HTML (Hyper Text Markup Language) is the extension for web pages created for display in browsers. Known as language of the web, HTML has evolved with requirements of new information requirements to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from server, where these are hosted, or can be loaded from local system as well. Each HTML page is made up of HTML elements such as forms, text, images, animations, links, etc. These elements are represented by tags and several others where each tag has start and end. It can also embed applications written in scripting languages such as JavaScript and Style Sheets (CSS) for overall layout representation.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
-
-<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Merging Formats" subTitle="Using Java, One can also merge xltx to many other file formats including." >}}
 

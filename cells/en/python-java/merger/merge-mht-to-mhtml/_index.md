@@ -1,7 +1,7 @@
 ---
 title: Merge MHT to MHTML via Python 
 url: /python-java/merger/merge-mht-to-mhtml/ 
-description: Merge MHT to MHTML in Python. Merge MHT to MHTML via Python online for free. Combine MHT to MHTML using Python.
+description: Merge MHT to MHTML via Python online for free. Merge MHT to MHTML in Python. Combine MHT to MHTML using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -22,7 +22,7 @@ How to merge MHT to MHTML? With Aspose.Cells for Python library, you can easily 
 The following example demonstrates how to merge MHT to MHTML in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to merge MHT to MHTML. Upload your files, call Workbook.Combine method for merging files, and then save it to MHTML file. If you develop code in Python, this will be simpler than it sounds. See {{platform} example that merges MHT to MHTML.
+Follow the easy steps to merge MHT to MHTML. Upload your files, call Workbook.Combine method for merging files, and then save it to MHTML file. If you develop code in Python, this will be simpler than it sounds. See Python example that merges MHT to MHTML.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -76,21 +76,6 @@ Our APIs are supported on all major platforms and Operating Systems. Before exec
 
 {{% /blocks/products/pf/agp/content %}}
 
-<!-- aboutfile Starts -->
-
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}
-A file with .mht extension is a MIME enabled archiving file format that contains different types of data into a single file. It can store data such as text, images, page styling in the form of CSS files, JavaScript, and other resources as embedded resources in it. MHT files, having MIME type message/rfc822, encapsulate all the contents of an HTML file as a single archive file for storing on archiving on storage devices. Software applications such as Microsoft Word lets you convert your WORD documents to MHT by exporting as MHT file. MHT files can be opened using popular browsers such as Microsoft Internet Explore and Google Chrome.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="MHTML" readMoreLink="https://docs.fileformat.com/web/mhtml/" >}}
-Files with MHTML extension represent a web page archive format that can be created by a number of different applications. The format is known as archive format because it saves the web HTML code and associated resources in a single file. These resources include anything linked to the webpage such as images, applets, animations, audio files and so on. MHTML files can be opened in a variety of applications such as Internet Explorer and Microsoft Word. Microsoft Windows uses MHTML file format for recording scenarios of problems observed during the usage of any application on Windows that raises issues. The MHTML file format encodes the page contents similar to specifications defined in message/rfc822 which is plain text email related specifications.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
-
-<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Merging Formats" subTitle="Using Python, One can also merge mht to many other file formats including." >}}
 

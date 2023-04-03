@@ -1,7 +1,7 @@
 ---
 title: Merge XLSX to XLSX via Java 
 url: /java/merger/merge-xlsx-to-xlsx/ 
-description: Merge XLSX to XLSX in Java. Merge XLSX to XLSX via Java online for free. Combine XLSX to XLSX using Java based desktop or web application.
+description: Merge XLSX to XLSX via Java online for free. Merge XLSX to XLSX in Java. Combine XLSX to XLSX using Java based desktop or web application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -50,7 +50,7 @@ How to merge XLSX to XLSX? With Aspose.Cells for Java library, you can easily me
 The following example demonstrates how to merge XLSX to XLSX in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to merge XLSX to XLSX. Upload your files, call Workbook.Combine method for merging files, and then save it to XLSX file. If you develop code in Java, this will be simpler than it sounds. See {{platform} example that merges XLSX to XLSX.
+Follow the easy steps to merge XLSX to XLSX. Upload your files, call Workbook.Combine method for merging files, and then save it to XLSX file. If you develop code in Java, this will be simpler than it sounds. See Java example that merges XLSX to XLSX.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -98,21 +98,6 @@ Our APIs are supported on all major platforms and Operating Systems. Before exec
 
 {{% /blocks/products/pf/agp/content %}}
 
-<!-- aboutfile Starts -->
-
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="XLSX" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}
-XLSX is well-known format for Microsoft Excel documents that was introduced by Microsoft with the release of Microsoft Office 2007. Based on structure organized according to the Open Packaging Conventions as outlined in Part 2 of the OOXML standard ECMA-376, the new format is a zip package that contains a number of XML files. The underlying structure and files can be examined by simply unzipping the .xlsx file.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="XLSX" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}
-XLSX is well-known format for Microsoft Excel documents that was introduced by Microsoft with the release of Microsoft Office 2007. Based on structure organized according to the Open Packaging Conventions as outlined in Part 2 of the OOXML standard ECMA-376, the new format is a zip package that contains a number of XML files. The underlying structure and files can be examined by simply unzipping the .xlsx file.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
-
-<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Merging Formats" subTitle="Using Java, One can also merge xlsx to many other file formats including." >}}
 

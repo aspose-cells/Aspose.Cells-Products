@@ -1,7 +1,7 @@
 ---
 title: Merge XLSX to CSV via C++ 
 url: /cpp/merger/merge-xlsx-to-csv/ 
-description: Merge XLSX to CSV in C++. Merge XLSX to CSV via C++ online for free. Combine XLSX to CSV using C++.
+description: Merge XLSX to CSV via C++ online for free. Merge XLSX to CSV in C++. Combine XLSX to CSV using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -31,7 +31,7 @@ PM> Install-Package Aspose.Cells.Cpp
 The following example demonstrates how to merge XLSX to CSV in C++.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to merge XLSX to CSV. Upload your files, call Workbook.Combine method for merging files, and then save it to CSV file. If you develop code in C++, this will be simpler than it sounds. See {{platform} example that merges XLSX to CSV.
+Follow the easy steps to merge XLSX to CSV. Upload your files, call Workbook.Combine method for merging files, and then save it to CSV file. If you develop code in C++, this will be simpler than it sounds. See C++ example that merges XLSX to CSV.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -84,21 +84,6 @@ Our APIs are supported on all major platforms and Operating Systems. Before exec
 
 {{% /blocks/products/pf/agp/content %}}
 
-<!-- aboutfile Starts -->
-
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="XLSX" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}
-XLSX is well-known format for Microsoft Excel documents that was introduced by Microsoft with the release of Microsoft Office 2007. Based on structure organized according to the Open Packaging Conventions as outlined in Part 2 of the OOXML standard ECMA-376, the new format is a zip package that contains a number of XML files. The underlying structure and files can be examined by simply unzipping the .xlsx file.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CSV" readMoreLink="https://docs.fileformat.com/spreadsheet/csv/" >}}
-Files with .csv (Comma Separated Values) extension represent plain text files that contain records of data with comma separated values. Each line in a CSV file is a new record from the set of records contained in the file. Such files are generated when data transfer is intended from one storage system to another. Since all applications can recognize records separated by comma, import of such data files to database is done very conveniently. Almost all spreadsheet applications such as Microsoft Excel or OpenOffice Calc can import CSV without much effort. Data imported from such files is arranged in cells of a spreadsheet for representation to user.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
-
-<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Merging Formats" subTitle="Using C++, One can also merge xlsx to many other file formats including." >}}
 

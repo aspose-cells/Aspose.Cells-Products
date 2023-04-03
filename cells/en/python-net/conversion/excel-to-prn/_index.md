@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to PRN in Python via Python
-description: Convert EXCEL to PRN in Python. Convert EXCEL to PRN in Python online for free. Convert EXCEL to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert EXCEL to PRN in Python online for free. Convert EXCEL to PRN in Python. Convert EXCEL to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert EXCEL, EXCEL Converter, EXCEL to PDF, EXCEL to Word, EXCEL to PPT, EXCEL to Image
 ---
 
@@ -13,10 +13,7 @@ keywords: Convert EXCEL, EXCEL Converter, EXCEL to PDF, EXCEL to Word, EXCEL to 
 
 {{% blocks/products/pf/agp/content h2="Convert EXCEL to PRN in Python" %}}
 
-How to convert EXCEL to PRN? With Aspose.Cells for Python via NET library, you can easily convert EXCEL to PRN programmatically with  a few lines of code. [Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/) is capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. 
-{{% blocks/products/pf/agp/text %}}
-Python Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT and more, thus making it a perfect choice to exchange documents in industry-standard formats. 
-{{% /blocks/products/pf/agp/text %}}
+How to convert EXCEL to PRN? With Aspose.Cells for Python via NET library, you can easily convert EXCEL to PRN programmatically with  a few lines of code. [Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/) is capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. Python Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT and more, thus making it a perfect choice to exchange documents in industry-standard formats. 
 
 {{% /blocks/products/pf/agp/content %}}
 

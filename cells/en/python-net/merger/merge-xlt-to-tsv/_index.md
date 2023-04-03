@@ -1,7 +1,7 @@
 ---
 title: Merge XLT to TSV via Python 
 url: /python-net/merger/merge-xlt-to-tsv/ 
-description: Merge XLT to TSV in Python. Merge XLT to TSV via Python online for free. Combine XLT to TSV using Python.
+description: Merge XLT to TSV via Python online for free. Merge XLT to TSV in Python. Combine XLT to TSV using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -22,7 +22,7 @@ How to merge XLT to TSV? With Aspose.Cells for Python library, you can easily me
 The following example demonstrates how to merge XLT to TSV in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to merge XLT to TSV. Upload your files, call Workbook.Combine method for merging files, and then save it to TSV file. If you develop code in Python, this will be simpler than it sounds. See {{platform} example that merges XLT to TSV.
+Follow the easy steps to merge XLT to TSV. Upload your files, call Workbook.Combine method for merging files, and then save it to TSV file. If you develop code in Python, this will be simpler than it sounds. See Python example that merges XLT to TSV.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -75,21 +75,6 @@ Our APIs are supported on all major platforms and Operating Systems. Before exec
 
 {{% /blocks/products/pf/agp/content %}}
 
-<!-- aboutfile Starts -->
-
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="XLT" readMoreLink="https://docs.fileformat.com/spreadsheet/xlt/" >}}
-Files with .xlt extension are template files created with Microsoft Excel which is a spreadsheet application which comes as part of Microsoft Office suite. Microsoft Office 97-2003 supported creating new XLT files as well as opening these. The latest version of Excel is still capable of opening this old format template files. Such a template file is used to quickly create new Excel files with default data and settings such as page formatting, font size, margins, charts, etc which can be further saved as new .xls files.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TSV" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}
-A Tab-Separated Values (TSV) file format represents data separated with tabs in plain text format. The file format, similar to CSV, is used for organization of data in a structured manner in order to import and export between different applications. The format is primarily used for data import/export and exchange in Spreadsheet applications and databases. Each record in a TSV file is contained in a single line of text file where each field value is separated by a tab character. Media type for TSV file format is text/tab-separated-values.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
-
-<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Merging Formats" subTitle="Using Python, One can also merge xlt to many other file formats including." >}}
 

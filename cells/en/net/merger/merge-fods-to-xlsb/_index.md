@@ -1,7 +1,7 @@
 ---
 title: Merge FODS to XLSB via C# 
 url: /net/merger/merge-fods-to-xlsb/ 
-description: Merge FODS to XLSB in .NET. Merge FODS to XLSB via .NET online for free. Combine FODS to XLSB using VB.NET, Asp.NET or any .NET based application.
+description: Merge FODS to XLSB via .NET online for free. Merge FODS to XLSB in .NET. Combine FODS to XLSB using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -31,7 +31,7 @@ PM> Install-Package Aspose.Cells
 The following example demonstrates how to merge FODS to XLSB in C#.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to merge FODS to XLSB. Upload your files, call Workbook.Combine method for merging files, and then save it to XLSB file. If you develop code in C#, this will be simpler than it sounds. See {{platform} example that merges FODS to XLSB.
+Follow the easy steps to merge FODS to XLSB. Upload your files, call Workbook.Combine method for merging files, and then save it to XLSB file. If you develop code in C#, this will be simpler than it sounds. See C# example that merges FODS to XLSB.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -83,21 +83,6 @@ Our APIs are supported on all major platforms and Operating Systems. Before exec
 
 {{% /blocks/products/pf/agp/content %}}
 
-<!-- aboutfile Starts -->
-
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="FODS" readMoreLink="https://docs.fileformat.com/spreadsheet/fods/" >}}
-A file with .fods extension is a type of OpenDocument Spreadsheet document format that stores data in rows and columns. The format is specified as part of ODF 1.2 specifications published and maintained by OASIS. FODS files cannot be opened with Excel, another Spreadsheet software application by Microsoft. FODS files can be saved as ODS using LibreOffice and can be converted to other formats such as XLS and XLSX.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}
-XLSB file format specifies the Excel Binary File Format, which is a collection of records and structures that specify Excel workbook content. The content can include unstructured or semi-structured tables of numbers, text, or both numbers and text, formulas, external data connections, charts and images. Unlike XLSX (which is based on Open XML file format), the XLSB represents binary Excel workbook file. XLSB files can be read and written to faster which makes them useful for working with large files. XLSB is seldom used to store workbooks as XLSX (and previously XLS) are the most common user selected file formats for saving workbooks. It can be opened by Microsoft Office 2007 and above.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
-
-<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Merging Formats" subTitle="Using C#, One can also merge fods to many other file formats including." >}}
 

@@ -1,7 +1,7 @@
 ---
 title: Merge MHT to MHT via C++ 
 url: /cpp/merger/merge-mht-to-mht/ 
-description: Merge MHT to MHT in C++. Merge MHT to MHT via C++ online for free. Combine MHT to MHT using C++.
+description: Merge MHT to MHT via C++ online for free. Merge MHT to MHT in C++. Combine MHT to MHT using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -31,7 +31,7 @@ PM> Install-Package Aspose.Cells.Cpp
 The following example demonstrates how to merge MHT to MHT in C++.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to merge MHT to MHT. Upload your files, call Workbook.Combine method for merging files, and then save it to MHT file. If you develop code in C++, this will be simpler than it sounds. See {{platform} example that merges MHT to MHT.
+Follow the easy steps to merge MHT to MHT. Upload your files, call Workbook.Combine method for merging files, and then save it to MHT file. If you develop code in C++, this will be simpler than it sounds. See C++ example that merges MHT to MHT.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -84,21 +84,6 @@ Our APIs are supported on all major platforms and Operating Systems. Before exec
 
 {{% /blocks/products/pf/agp/content %}}
 
-<!-- aboutfile Starts -->
-
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}
-A file with .mht extension is a MIME enabled archiving file format that contains different types of data into a single file. It can store data such as text, images, page styling in the form of CSS files, JavaScript, and other resources as embedded resources in it. MHT files, having MIME type message/rfc822, encapsulate all the contents of an HTML file as a single archive file for storing on archiving on storage devices. Software applications such as Microsoft Word lets you convert your WORD documents to MHT by exporting as MHT file. MHT files can be opened using popular browsers such as Microsoft Internet Explore and Google Chrome.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}
-A file with .mht extension is a MIME enabled archiving file format that contains different types of data into a single file. It can store data such as text, images, page styling in the form of CSS files, JavaScript, and other resources as embedded resources in it. MHT files, having MIME type message/rfc822, encapsulate all the contents of an HTML file as a single archive file for storing on archiving on storage devices. Software applications such as Microsoft Word lets you convert your WORD documents to MHT by exporting as MHT file. MHT files can be opened using popular browsers such as Microsoft Internet Explore and Google Chrome.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
-
-<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Merging Formats" subTitle="Using C++, One can also merge mht to many other file formats including." >}}
 

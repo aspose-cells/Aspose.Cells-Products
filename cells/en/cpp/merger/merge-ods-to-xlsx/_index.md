@@ -1,7 +1,7 @@
 ---
 title: Merge ODS to XLSX via C++ 
 url: /cpp/merger/merge-ods-to-xlsx/ 
-description: Merge ODS to XLSX in C++. Merge ODS to XLSX via C++ online for free. Combine ODS to XLSX using C++.
+description: Merge ODS to XLSX via C++ online for free. Merge ODS to XLSX in C++. Combine ODS to XLSX using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -31,7 +31,7 @@ PM> Install-Package Aspose.Cells.Cpp
 The following example demonstrates how to merge ODS to XLSX in C++.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to merge ODS to XLSX. Upload your files, call Workbook.Combine method for merging files, and then save it to XLSX file. If you develop code in C++, this will be simpler than it sounds. See {{platform} example that merges ODS to XLSX.
+Follow the easy steps to merge ODS to XLSX. Upload your files, call Workbook.Combine method for merging files, and then save it to XLSX file. If you develop code in C++, this will be simpler than it sounds. See C++ example that merges ODS to XLSX.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -84,21 +84,6 @@ Our APIs are supported on all major platforms and Operating Systems. Before exec
 
 {{% /blocks/products/pf/agp/content %}}
 
-<!-- aboutfile Starts -->
-
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
-Files with .ods extension stand for OpenDocument Spreadsheet Document format that are editable by user. Data is stored inside ODF file into rows and columns. It is XML-based format and is one of the several subtypes in the Open Document Formats (ODF) family. The format is specified as part of the ODF 1.2 specifications published and maintained by OASIS. A number of applications on Windows as well as other operating systems can open ODS files for editing and manipulation including Microsoft Excel, NeoOffice and LibreOffice. ODS files can also be converted into other spreadsheet formats as well like XLS, XLSX and others by different applications.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="XLSX" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}
-XLSX is well-known format for Microsoft Excel documents that was introduced by Microsoft with the release of Microsoft Office 2007. Based on structure organized according to the Open Packaging Conventions as outlined in Part 2 of the OOXML standard ECMA-376, the new format is a zip package that contains a number of XML files. The underlying structure and files can be examined by simply unzipping the .xlsx file.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
-
-<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Merging Formats" subTitle="Using C++, One can also merge ods to many other file formats including." >}}
 

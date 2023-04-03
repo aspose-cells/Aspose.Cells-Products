@@ -1,6 +1,6 @@
 ---
 title: Convert JPG to PRN via C#
-description: Convert JPG to PRN. Convert JPG to PRN online for free. Convert JPG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert JPG to PRN online for free. Convert JPG to PRN. Convert JPG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert JPG, JPG Converter, JPG to PDF, JPG to Word, JPG to PPT, JPG to Image
 ---
 
@@ -77,7 +77,6 @@ There are two alternative options to install "Aspose.Cells for .NET" onto your s
 -  Add reference to the Aspose.Cells for .NET DLL in your project. 
 
 {{% /blocks/products/pf/agp/content %}}
-
 
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert JPG to many other file formats including few listed below." >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to PRN via C++
-description: Convert XLS to PRN. Convert XLS to PRN online for free. Convert XLS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert XLS to PRN online for free. Convert XLS to PRN. Convert XLS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert XLS, XLS Converter, XLS to PDF, XLS to Word, XLS to PPT, XLS to Image
 ---
 
@@ -79,7 +79,6 @@ There are three options to install "Aspose.Cells for C++" onto your system. Plea
 - Add reference to the Aspose.Cells for C++ DLL in your project.
 
 {{% /blocks/products/pf/agp/content %}}
-
 
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert XLS to many other file formats including few listed below." >}}

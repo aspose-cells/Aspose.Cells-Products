@@ -1,7 +1,7 @@
 ---
 title: Merge XLSM to XLSM via C# 
 url: /net/merger/merge-xlsm-to-xlsm/ 
-description: Merge XLSM to XLSM in .NET. Merge XLSM to XLSM via .NET online for free. Combine XLSM to XLSM using VB.NET, Asp.NET or any .NET based application.
+description: Merge XLSM to XLSM via .NET online for free. Merge XLSM to XLSM in .NET. Combine XLSM to XLSM using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -31,7 +31,7 @@ PM> Install-Package Aspose.Cells
 The following example demonstrates how to merge XLSM to XLSM in C#.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to merge XLSM to XLSM. Upload your files, call Workbook.Combine method for merging files, and then save it to XLSM file. If you develop code in C#, this will be simpler than it sounds. See {{platform} example that merges XLSM to XLSM.
+Follow the easy steps to merge XLSM to XLSM. Upload your files, call Workbook.Combine method for merging files, and then save it to XLSM file. If you develop code in C#, this will be simpler than it sounds. See C# example that merges XLSM to XLSM.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -83,21 +83,6 @@ Our APIs are supported on all major platforms and Operating Systems. Before exec
 
 {{% /blocks/products/pf/agp/content %}}
 
-<!-- aboutfile Starts -->
-
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}
-Files with XLSM extension is a type of Spreadsheet files that support Macros. From application point of view, a Macro is set of instructions that are used for automating processes. A macro is used to record the steps that are performed repeatedly and facilitates performing the actions by running the macro again. Macros are programmed with Microsoft’s Visual Basic for Applications (VBA) from within the Excel Workbook using the Visual Basic Editor and can be run/debug directly from there.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}
-Files with XLSM extension is a type of Spreadsheet files that support Macros. From application point of view, a Macro is set of instructions that are used for automating processes. A macro is used to record the steps that are performed repeatedly and facilitates performing the actions by running the macro again. Macros are programmed with Microsoft’s Visual Basic for Applications (VBA) from within the Excel Workbook using the Visual Basic Editor and can be run/debug directly from there.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
-
-<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Merging Formats" subTitle="Using C#, One can also merge xlsm to many other file formats including." >}}
 

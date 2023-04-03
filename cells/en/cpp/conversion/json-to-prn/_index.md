@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to PRN via C++
-description: Convert JSON to PRN. Convert JSON to PRN online for free. Convert JSON to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert JSON to PRN online for free. Convert JSON to PRN. Convert JSON to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert JSON, JSON Converter, JSON to PDF, JSON to Word, JSON to PPT, JSON to Image
 ---
 
@@ -79,7 +79,6 @@ There are three options to install "Aspose.Cells for C++" onto your system. Plea
 - Add reference to the Aspose.Cells for C++ DLL in your project.
 
 {{% /blocks/products/pf/agp/content %}}
-
 
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert JSON to many other file formats including few listed below." >}}

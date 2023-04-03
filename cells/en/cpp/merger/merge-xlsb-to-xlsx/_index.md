@@ -1,7 +1,7 @@
 ---
 title: Merge XLSB to XLSX via C++ 
 url: /cpp/merger/merge-xlsb-to-xlsx/ 
-description: Merge XLSB to XLSX in C++. Merge XLSB to XLSX via C++ online for free. Combine XLSB to XLSX using C++.
+description: Merge XLSB to XLSX via C++ online for free. Merge XLSB to XLSX in C++. Combine XLSB to XLSX using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -31,7 +31,7 @@ PM> Install-Package Aspose.Cells.Cpp
 The following example demonstrates how to merge XLSB to XLSX in C++.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to merge XLSB to XLSX. Upload your files, call Workbook.Combine method for merging files, and then save it to XLSX file. If you develop code in C++, this will be simpler than it sounds. See {{platform} example that merges XLSB to XLSX.
+Follow the easy steps to merge XLSB to XLSX. Upload your files, call Workbook.Combine method for merging files, and then save it to XLSX file. If you develop code in C++, this will be simpler than it sounds. See C++ example that merges XLSB to XLSX.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -84,21 +84,6 @@ Our APIs are supported on all major platforms and Operating Systems. Before exec
 
 {{% /blocks/products/pf/agp/content %}}
 
-<!-- aboutfile Starts -->
-
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}
-XLSB file format specifies the Excel Binary File Format, which is a collection of records and structures that specify Excel workbook content. The content can include unstructured or semi-structured tables of numbers, text, or both numbers and text, formulas, external data connections, charts and images. Unlike XLSX (which is based on Open XML file format), the XLSB represents binary Excel workbook file. XLSB files can be read and written to faster which makes them useful for working with large files. XLSB is seldom used to store workbooks as XLSX (and previously XLS) are the most common user selected file formats for saving workbooks. It can be opened by Microsoft Office 2007 and above.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="XLSX" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}
-XLSX is well-known format for Microsoft Excel documents that was introduced by Microsoft with the release of Microsoft Office 2007. Based on structure organized according to the Open Packaging Conventions as outlined in Part 2 of the OOXML standard ECMA-376, the new format is a zip package that contains a number of XML files. The underlying structure and files can be examined by simply unzipping the .xlsx file.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
-
-<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Merging Formats" subTitle="Using C++, One can also merge xlsb to many other file formats including." >}}
 

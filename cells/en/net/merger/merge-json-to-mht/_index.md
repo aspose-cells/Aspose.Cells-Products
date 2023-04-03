@@ -1,7 +1,7 @@
 ---
 title: Merge JSON to MHT via C# 
 url: /net/merger/merge-json-to-mht/ 
-description: Merge JSON to MHT in .NET. Merge JSON to MHT via .NET online for free. Combine JSON to MHT using VB.NET, Asp.NET or any .NET based application.
+description: Merge JSON to MHT via .NET online for free. Merge JSON to MHT in .NET. Combine JSON to MHT using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -31,7 +31,7 @@ PM> Install-Package Aspose.Cells
 The following example demonstrates how to merge JSON to MHT in C#.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to merge JSON to MHT. Upload your files, call Workbook.Combine method for merging files, and then save it to MHT file. If you develop code in C#, this will be simpler than it sounds. See {{platform} example that merges JSON to MHT.
+Follow the easy steps to merge JSON to MHT. Upload your files, call Workbook.Combine method for merging files, and then save it to MHT file. If you develop code in C#, this will be simpler than it sounds. See C# example that merges JSON to MHT.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -83,21 +83,6 @@ Our APIs are supported on all major platforms and Operating Systems. Before exec
 
 {{% /blocks/products/pf/agp/content %}}
 
-<!-- aboutfile Starts -->
-
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JSON" readMoreLink="https://docs.fileformat.com/web/json/" >}}
-JSON (JavaScript Object Notation) is an open standard file format for sharing data that uses human-readable text to store and transmit data. JSON files are stored with the .json extension. JSON requires less formatting and is a good alternative for XML. JSON is derived from JavaScript but is a language-independent data format. The generation and parsing of JSON is supported by many modern programming languages. application/json is the media type used for JSON.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}
-A file with .mht extension is a MIME enabled archiving file format that contains different types of data into a single file. It can store data such as text, images, page styling in the form of CSS files, JavaScript, and other resources as embedded resources in it. MHT files, having MIME type message/rfc822, encapsulate all the contents of an HTML file as a single archive file for storing on archiving on storage devices. Software applications such as Microsoft Word lets you convert your WORD documents to MHT by exporting as MHT file. MHT files can be opened using popular browsers such as Microsoft Internet Explore and Google Chrome.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
-
-<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Merging Formats" subTitle="Using C#, One can also merge json to many other file formats including." >}}
 

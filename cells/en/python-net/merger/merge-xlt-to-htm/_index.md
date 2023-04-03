@@ -1,7 +1,7 @@
 ---
 title: Merge XLT to HTM via Python 
 url: /python-net/merger/merge-xlt-to-htm/ 
-description: Merge XLT to HTM in Python. Merge XLT to HTM via Python online for free. Combine XLT to HTM using Python.
+description: Merge XLT to HTM via Python online for free. Merge XLT to HTM in Python. Combine XLT to HTM using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -22,7 +22,7 @@ How to merge XLT to HTM? With Aspose.Cells for Python library, you can easily me
 The following example demonstrates how to merge XLT to HTM in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to merge XLT to HTM. Upload your files, call Workbook.Combine method for merging files, and then save it to HTM file. If you develop code in Python, this will be simpler than it sounds. See {{platform} example that merges XLT to HTM.
+Follow the easy steps to merge XLT to HTM. Upload your files, call Workbook.Combine method for merging files, and then save it to HTM file. If you develop code in Python, this will be simpler than it sounds. See Python example that merges XLT to HTM.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -75,21 +75,6 @@ Our APIs are supported on all major platforms and Operating Systems. Before exec
 
 {{% /blocks/products/pf/agp/content %}}
 
-<!-- aboutfile Starts -->
-
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="XLT" readMoreLink="https://docs.fileformat.com/spreadsheet/xlt/" >}}
-Files with .xlt extension are template files created with Microsoft Excel which is a spreadsheet application which comes as part of Microsoft Office suite. Microsoft Office 97-2003 supported creating new XLT files as well as opening these. The latest version of Excel is still capable of opening this old format template files. Such a template file is used to quickly create new Excel files with default data and settings such as page formatting, font size, margins, charts, etc which can be further saved as new .xls files.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}
-Files with .htm extension represent Hypertext Markup Language for creating web pages for display in web browsers such as Google Chrome, Internet Explorer, Firefox and a number of others. It defines the markups for creating static pages to be published on World Wide Web (WWW) for access by others. These markups tell the browsers how to display a web page��s contents. Such pages can contain plain text, images, hyperlinks to other pages, videos and other media information. When a web page is published, you can have a look at the markup code behind it by viewing its page source. Modern browsers allow to inspect each section of a web page where each sub-division or markup element in the HTM source is elaborated.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
-
-<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Merging Formats" subTitle="Using Python, One can also merge xlt to many other file formats including." >}}
 

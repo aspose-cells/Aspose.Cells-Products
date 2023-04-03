@@ -1,7 +1,7 @@
 ---
 title: Merge XLSM to HTM via Java 
 url: /java/merger/merge-xlsm-to-htm/ 
-description: Merge XLSM to HTM in Java. Merge XLSM to HTM via Java online for free. Combine XLSM to HTM using Java based desktop or web application.
+description: Merge XLSM to HTM via Java online for free. Merge XLSM to HTM in Java. Combine XLSM to HTM using Java based desktop or web application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -50,7 +50,7 @@ How to merge XLSM to HTM? With Aspose.Cells for Java library, you can easily mer
 The following example demonstrates how to merge XLSM to HTM in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to merge XLSM to HTM. Upload your files, call Workbook.Combine method for merging files, and then save it to HTM file. If you develop code in Java, this will be simpler than it sounds. See {{platform} example that merges XLSM to HTM.
+Follow the easy steps to merge XLSM to HTM. Upload your files, call Workbook.Combine method for merging files, and then save it to HTM file. If you develop code in Java, this will be simpler than it sounds. See Java example that merges XLSM to HTM.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -98,21 +98,6 @@ Our APIs are supported on all major platforms and Operating Systems. Before exec
 
 {{% /blocks/products/pf/agp/content %}}
 
-<!-- aboutfile Starts -->
-
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}
-Files with XLSM extension is a type of Spreadsheet files that support Macros. From application point of view, a Macro is set of instructions that are used for automating processes. A macro is used to record the steps that are performed repeatedly and facilitates performing the actions by running the macro again. Macros are programmed with Microsoft’s Visual Basic for Applications (VBA) from within the Excel Workbook using the Visual Basic Editor and can be run/debug directly from there.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}
-Files with .htm extension represent Hypertext Markup Language for creating web pages for display in web browsers such as Google Chrome, Internet Explorer, Firefox and a number of others. It defines the markups for creating static pages to be published on World Wide Web (WWW) for access by others. These markups tell the browsers how to display a web page��s contents. Such pages can contain plain text, images, hyperlinks to other pages, videos and other media information. When a web page is published, you can have a look at the markup code behind it by viewing its page source. Modern browsers allow to inspect each section of a web page where each sub-division or markup element in the HTM source is elaborated.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
-
-<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Merging Formats" subTitle="Using Java, One can also merge xlsm to many other file formats including." >}}
 

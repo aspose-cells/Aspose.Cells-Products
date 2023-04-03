@@ -1,7 +1,7 @@
 ---
 title: Merge HTM to XLSX via Python 
 url: /python-net/merger/merge-htm-to-xlsx/ 
-description: Merge HTM to XLSX in Python. Merge HTM to XLSX via Python online for free. Combine HTM to XLSX using Python.
+description: Merge HTM to XLSX via Python online for free. Merge HTM to XLSX in Python. Combine HTM to XLSX using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -22,7 +22,7 @@ How to merge HTM to XLSX? With Aspose.Cells for Python library, you can easily m
 The following example demonstrates how to merge HTM to XLSX in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to merge HTM to XLSX. Upload your files, call Workbook.Combine method for merging files, and then save it to XLSX file. If you develop code in Python, this will be simpler than it sounds. See {{platform} example that merges HTM to XLSX.
+Follow the easy steps to merge HTM to XLSX. Upload your files, call Workbook.Combine method for merging files, and then save it to XLSX file. If you develop code in Python, this will be simpler than it sounds. See Python example that merges HTM to XLSX.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -75,21 +75,6 @@ Our APIs are supported on all major platforms and Operating Systems. Before exec
 
 {{% /blocks/products/pf/agp/content %}}
 
-<!-- aboutfile Starts -->
-
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}
-Files with .htm extension represent Hypertext Markup Language for creating web pages for display in web browsers such as Google Chrome, Internet Explorer, Firefox and a number of others. It defines the markups for creating static pages to be published on World Wide Web (WWW) for access by others. These markups tell the browsers how to display a web page��s contents. Such pages can contain plain text, images, hyperlinks to other pages, videos and other media information. When a web page is published, you can have a look at the markup code behind it by viewing its page source. Modern browsers allow to inspect each section of a web page where each sub-division or markup element in the HTM source is elaborated.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="XLSX" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}
-XLSX is well-known format for Microsoft Excel documents that was introduced by Microsoft with the release of Microsoft Office 2007. Based on structure organized according to the Open Packaging Conventions as outlined in Part 2 of the OOXML standard ECMA-376, the new format is a zip package that contains a number of XML files. The underlying structure and files can be examined by simply unzipping the .xlsx file.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
-
-<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Merging Formats" subTitle="Using Python, One can also merge htm to many other file formats including." >}}
 

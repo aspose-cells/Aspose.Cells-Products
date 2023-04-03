@@ -1,7 +1,7 @@
 ---
 title: Merge HTM to ODS via C# 
 url: /net/merger/merge-htm-to-ods/ 
-description: Merge HTM to ODS in .NET. Merge HTM to ODS via .NET online for free. Combine HTM to ODS using VB.NET, Asp.NET or any .NET based application.
+description: Merge HTM to ODS via .NET online for free. Merge HTM to ODS in .NET. Combine HTM to ODS using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -31,7 +31,7 @@ PM> Install-Package Aspose.Cells
 The following example demonstrates how to merge HTM to ODS in C#.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to merge HTM to ODS. Upload your files, call Workbook.Combine method for merging files, and then save it to ODS file. If you develop code in C#, this will be simpler than it sounds. See {{platform} example that merges HTM to ODS.
+Follow the easy steps to merge HTM to ODS. Upload your files, call Workbook.Combine method for merging files, and then save it to ODS file. If you develop code in C#, this will be simpler than it sounds. See C# example that merges HTM to ODS.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -83,21 +83,6 @@ Our APIs are supported on all major platforms and Operating Systems. Before exec
 
 {{% /blocks/products/pf/agp/content %}}
 
-<!-- aboutfile Starts -->
-
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}
-Files with .htm extension represent Hypertext Markup Language for creating web pages for display in web browsers such as Google Chrome, Internet Explorer, Firefox and a number of others. It defines the markups for creating static pages to be published on World Wide Web (WWW) for access by others. These markups tell the browsers how to display a web page��s contents. Such pages can contain plain text, images, hyperlinks to other pages, videos and other media information. When a web page is published, you can have a look at the markup code behind it by viewing its page source. Modern browsers allow to inspect each section of a web page where each sub-division or markup element in the HTM source is elaborated.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
-Files with .ods extension stand for OpenDocument Spreadsheet Document format that are editable by user. Data is stored inside ODF file into rows and columns. It is XML-based format and is one of the several subtypes in the Open Document Formats (ODF) family. The format is specified as part of the ODF 1.2 specifications published and maintained by OASIS. A number of applications on Windows as well as other operating systems can open ODS files for editing and manipulation including Microsoft Excel, NeoOffice and LibreOffice. ODS files can also be converted into other spreadsheet formats as well like XLS, XLSX and others by different applications.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
-
-<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Merging Formats" subTitle="Using C#, One can also merge htm to many other file formats including." >}}
 

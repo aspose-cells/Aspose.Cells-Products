@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to PRN via Java 
-description: Convert XLS to PRN. Convert XLS to PRN online for free. Convert XLS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert XLS to PRN online for free. Convert XLS to PRN. Convert XLS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert XLS, XLS Converter, XLS to PDF, XLS to Word, XLS to PPT, XLS to Image
 ---
 
@@ -92,7 +92,6 @@ We host our Java packages in [Maven](https://repository.aspose.com/webapp/#/arti
 - Get latest version of Aspose.Cells for Java directly from Maven.
 
 {{% /blocks/products/pf/agp/content %}}
-
 
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert XLS to many other file formats including few listed below." >}}

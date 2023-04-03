@@ -1,7 +1,7 @@
 ---
 title: Merge XLSX to XLS via C# 
 url: /net/merger/merge-xlsx-to-xls/ 
-description: Merge XLSX to XLS in .NET. Merge XLSX to XLS via .NET online for free. Combine XLSX to XLS using VB.NET, Asp.NET or any .NET based application.
+description: Merge XLSX to XLS via .NET online for free. Merge XLSX to XLS in .NET. Combine XLSX to XLS using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -31,7 +31,7 @@ PM> Install-Package Aspose.Cells
 The following example demonstrates how to merge XLSX to XLS in C#.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to merge XLSX to XLS. Upload your files, call Workbook.Combine method for merging files, and then save it to XLS file. If you develop code in C#, this will be simpler than it sounds. See {{platform} example that merges XLSX to XLS.
+Follow the easy steps to merge XLSX to XLS. Upload your files, call Workbook.Combine method for merging files, and then save it to XLS file. If you develop code in C#, this will be simpler than it sounds. See C# example that merges XLSX to XLS.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -83,21 +83,6 @@ Our APIs are supported on all major platforms and Operating Systems. Before exec
 
 {{% /blocks/products/pf/agp/content %}}
 
-<!-- aboutfile Starts -->
-
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="XLSX" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}
-XLSX is well-known format for Microsoft Excel documents that was introduced by Microsoft with the release of Microsoft Office 2007. Based on structure organized according to the Open Packaging Conventions as outlined in Part 2 of the OOXML standard ECMA-376, the new format is a zip package that contains a number of XML files. The underlying structure and files can be examined by simply unzipping the .xlsx file.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}
-Files with XLS extension represent Excel Binary File Format. Such files can be created by Microsoft Excel as well as other similar spreadsheet programs such as OpenOffice Calc or Apple Numbers. File saved by Excel is known as Workbook where each workbook can have one or more worksheets. Data is stored and displayed to users in table format in worksheet and can span numeric values, text data, formulas, external data connections, images, and charts. Applications like Microsoft Excel lets you export workbook data to several different formats including PDF, CSV, XLSX, TXT, HTML, XPS, and several others. The XLS file format was replaced with a more open and structured format, XLSX, with the release of Microsoft Excel 2007. The latest versions still provide support for creating and reading XLS files, though XLSX is the first choice of use now.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
-
-<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Merging Formats" subTitle="Using C#, One can also merge xlsx to many other file formats including." >}}
 

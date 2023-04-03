@@ -1,7 +1,7 @@
 ---
 title: Merge XLTX to ODS via Python 
 url: /python-java/merger/merge-xltx-to-ods/ 
-description: Merge XLTX to ODS in Python. Merge XLTX to ODS via Python online for free. Combine XLTX to ODS using Python.
+description: Merge XLTX to ODS via Python online for free. Merge XLTX to ODS in Python. Combine XLTX to ODS using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -22,7 +22,7 @@ How to merge XLTX to ODS? With Aspose.Cells for Python library, you can easily m
 The following example demonstrates how to merge XLTX to ODS in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to merge XLTX to ODS. Upload your files, call Workbook.Combine method for merging files, and then save it to ODS file. If you develop code in Python, this will be simpler than it sounds. See {{platform} example that merges XLTX to ODS.
+Follow the easy steps to merge XLTX to ODS. Upload your files, call Workbook.Combine method for merging files, and then save it to ODS file. If you develop code in Python, this will be simpler than it sounds. See Python example that merges XLTX to ODS.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -76,21 +76,6 @@ Our APIs are supported on all major platforms and Operating Systems. Before exec
 
 {{% /blocks/products/pf/agp/content %}}
 
-<!-- aboutfile Starts -->
-
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="XLTX" readMoreLink="https://docs.fileformat.com/spreadsheet/xltx/" >}}
-Files with .xltx extension represent Microsoft Excel Template files that are based on the Office OpenXML file format specifications. It is used to create a standard template file that can be utilized to generate XLSX files that exhibit the same settings as specified in the XLTX file.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
-Files with .ods extension stand for OpenDocument Spreadsheet Document format that are editable by user. Data is stored inside ODF file into rows and columns. It is XML-based format and is one of the several subtypes in the Open Document Formats (ODF) family. The format is specified as part of the ODF 1.2 specifications published and maintained by OASIS. A number of applications on Windows as well as other operating systems can open ODS files for editing and manipulation including Microsoft Excel, NeoOffice and LibreOffice. ODS files can also be converted into other spreadsheet formats as well like XLS, XLSX and others by different applications.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
-
-<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Merging Formats" subTitle="Using Python, One can also merge xltx to many other file formats including." >}}
 

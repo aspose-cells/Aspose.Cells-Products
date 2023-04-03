@@ -1,6 +1,6 @@
 ---
 title: Convert PNG to PRN via C++
-description: Convert PNG to PRN. Convert PNG to PRN online for free. Convert PNG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert PNG to PRN online for free. Convert PNG to PRN. Convert PNG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert PNG, PNG Converter, PNG to PDF, PNG to Word, PNG to PPT, PNG to Image
 ---
 
@@ -79,7 +79,6 @@ There are three options to install "Aspose.Cells for C++" onto your system. Plea
 - Add reference to the Aspose.Cells for C++ DLL in your project.
 
 {{% /blocks/products/pf/agp/content %}}
-
 
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert PNG to many other file formats including few listed below." >}}

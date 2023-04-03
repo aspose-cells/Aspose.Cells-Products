@@ -1,7 +1,7 @@
 ---
 title: Merge XLSM to MHT via C# 
 url: /net/merger/merge-xlsm-to-mht/ 
-description: Merge XLSM to MHT in .NET. Merge XLSM to MHT via .NET online for free. Combine XLSM to MHT using VB.NET, Asp.NET or any .NET based application.
+description: Merge XLSM to MHT via .NET online for free. Merge XLSM to MHT in .NET. Combine XLSM to MHT using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -31,7 +31,7 @@ PM> Install-Package Aspose.Cells
 The following example demonstrates how to merge XLSM to MHT in C#.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to merge XLSM to MHT. Upload your files, call Workbook.Combine method for merging files, and then save it to MHT file. If you develop code in C#, this will be simpler than it sounds. See {{platform} example that merges XLSM to MHT.
+Follow the easy steps to merge XLSM to MHT. Upload your files, call Workbook.Combine method for merging files, and then save it to MHT file. If you develop code in C#, this will be simpler than it sounds. See C# example that merges XLSM to MHT.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -83,21 +83,6 @@ Our APIs are supported on all major platforms and Operating Systems. Before exec
 
 {{% /blocks/products/pf/agp/content %}}
 
-<!-- aboutfile Starts -->
-
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}
-Files with XLSM extension is a type of Spreadsheet files that support Macros. From application point of view, a Macro is set of instructions that are used for automating processes. A macro is used to record the steps that are performed repeatedly and facilitates performing the actions by running the macro again. Macros are programmed with Microsoft’s Visual Basic for Applications (VBA) from within the Excel Workbook using the Visual Basic Editor and can be run/debug directly from there.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}
-A file with .mht extension is a MIME enabled archiving file format that contains different types of data into a single file. It can store data such as text, images, page styling in the form of CSS files, JavaScript, and other resources as embedded resources in it. MHT files, having MIME type message/rfc822, encapsulate all the contents of an HTML file as a single archive file for storing on archiving on storage devices. Software applications such as Microsoft Word lets you convert your WORD documents to MHT by exporting as MHT file. MHT files can be opened using popular browsers such as Microsoft Internet Explore and Google Chrome.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
-
-<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Merging Formats" subTitle="Using C#, One can also merge xlsm to many other file formats including." >}}
 

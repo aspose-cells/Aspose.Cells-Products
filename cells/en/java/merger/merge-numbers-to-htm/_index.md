@@ -1,7 +1,7 @@
 ---
 title: Merge NUMBERS to HTM via Java 
 url: /java/merger/merge-numbers-to-htm/ 
-description: Merge NUMBERS to HTM in Java. Merge NUMBERS to HTM via Java online for free. Combine NUMBERS to HTM using Java based desktop or web application.
+description: Merge NUMBERS to HTM via Java online for free. Merge NUMBERS to HTM in Java. Combine NUMBERS to HTM using Java based desktop or web application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -50,7 +50,7 @@ How to merge NUMBERS to HTM? With Aspose.Cells for Java library, you can easily 
 The following example demonstrates how to merge NUMBERS to HTM in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to merge NUMBERS to HTM. Upload your files, call Workbook.Combine method for merging files, and then save it to HTM file. If you develop code in Java, this will be simpler than it sounds. See {{platform} example that merges NUMBERS to HTM.
+Follow the easy steps to merge NUMBERS to HTM. Upload your files, call Workbook.Combine method for merging files, and then save it to HTM file. If you develop code in Java, this will be simpler than it sounds. See Java example that merges NUMBERS to HTM.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -98,21 +98,6 @@ Our APIs are supported on all major platforms and Operating Systems. Before exec
 
 {{% /blocks/products/pf/agp/content %}}
 
-<!-- aboutfile Starts -->
-
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}
-The files with .numbers extension are classified as spreadsheet file type, that's why they are similar to the .xlsx files; but the Numbers files are created by using Apple iWork Numbers spreadsheet software. The Apple iWork Numbers is a unit software of the iWork Productivity Suite. The iWork Productivity Suite is equivalent to the Microsoft Office Suite that is used on Windows PCs. Hence, we can say the Numbers which is available for MacOS is also a competitor of Microsoft Excel. Likewise, Microsoft Excel, the NUMBERS file may also contain the tables, charts and formulas. 
-        {{< /blocks/products/pf/agp/about-file-text >}}
-        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}
-Files with .htm extension represent Hypertext Markup Language for creating web pages for display in web browsers such as Google Chrome, Internet Explorer, Firefox and a number of others. It defines the markups for creating static pages to be published on World Wide Web (WWW) for access by others. These markups tell the browsers how to display a web page��s contents. Such pages can contain plain text, images, hyperlinks to other pages, videos and other media information. When a web page is published, you can have a look at the markup code behind it by viewing its page source. Modern browsers allow to inspect each section of a web page where each sub-division or markup element in the HTM source is elaborated.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
-
-<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Merging Formats" subTitle="Using Java, One can also merge numbers to many other file formats including." >}}
 

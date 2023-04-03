@@ -1,7 +1,7 @@
 ---
 title: Merge ODS to HTML via Java 
 url: /java/merger/merge-ods-to-html/ 
-description: Merge ODS to HTML in Java. Merge ODS to HTML via Java online for free. Combine ODS to HTML using Java based desktop or web application.
+description: Merge ODS to HTML via Java online for free. Merge ODS to HTML in Java. Combine ODS to HTML using Java based desktop or web application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -50,7 +50,7 @@ How to merge ODS to HTML? With Aspose.Cells for Java library, you can easily mer
 The following example demonstrates how to merge ODS to HTML in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to merge ODS to HTML. Upload your files, call Workbook.Combine method for merging files, and then save it to HTML file. If you develop code in Java, this will be simpler than it sounds. See {{platform} example that merges ODS to HTML.
+Follow the easy steps to merge ODS to HTML. Upload your files, call Workbook.Combine method for merging files, and then save it to HTML file. If you develop code in Java, this will be simpler than it sounds. See Java example that merges ODS to HTML.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -98,21 +98,6 @@ Our APIs are supported on all major platforms and Operating Systems. Before exec
 
 {{% /blocks/products/pf/agp/content %}}
 
-<!-- aboutfile Starts -->
-
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
-Files with .ods extension stand for OpenDocument Spreadsheet Document format that are editable by user. Data is stored inside ODF file into rows and columns. It is XML-based format and is one of the several subtypes in the Open Document Formats (ODF) family. The format is specified as part of the ODF 1.2 specifications published and maintained by OASIS. A number of applications on Windows as well as other operating systems can open ODS files for editing and manipulation including Microsoft Excel, NeoOffice and LibreOffice. ODS files can also be converted into other spreadsheet formats as well like XLS, XLSX and others by different applications.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" >}}
-HTML (Hyper Text Markup Language) is the extension for web pages created for display in browsers. Known as language of the web, HTML has evolved with requirements of new information requirements to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from server, where these are hosted, or can be loaded from local system as well. Each HTML page is made up of HTML elements such as forms, text, images, animations, links, etc. These elements are represented by tags and several others where each tag has start and end. It can also embed applications written in scripting languages such as JavaScript and Style Sheets (CSS) for overall layout representation.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
-
-<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Merging Formats" subTitle="Using Java, One can also merge ods to many other file formats including." >}}
 

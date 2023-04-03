@@ -1,7 +1,7 @@
 ---
 title: Merge XLSM to XLSB via Java 
 url: /java/merger/merge-xlsm-to-xlsb/ 
-description: Merge XLSM to XLSB in Java. Merge XLSM to XLSB via Java online for free. Combine XLSM to XLSB using Java based desktop or web application.
+description: Merge XLSM to XLSB via Java online for free. Merge XLSM to XLSB in Java. Combine XLSM to XLSB using Java based desktop or web application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -50,7 +50,7 @@ How to merge XLSM to XLSB? With Aspose.Cells for Java library, you can easily me
 The following example demonstrates how to merge XLSM to XLSB in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to merge XLSM to XLSB. Upload your files, call Workbook.Combine method for merging files, and then save it to XLSB file. If you develop code in Java, this will be simpler than it sounds. See {{platform} example that merges XLSM to XLSB.
+Follow the easy steps to merge XLSM to XLSB. Upload your files, call Workbook.Combine method for merging files, and then save it to XLSB file. If you develop code in Java, this will be simpler than it sounds. See Java example that merges XLSM to XLSB.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -98,21 +98,6 @@ Our APIs are supported on all major platforms and Operating Systems. Before exec
 
 {{% /blocks/products/pf/agp/content %}}
 
-<!-- aboutfile Starts -->
-
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}
-Files with XLSM extension is a type of Spreadsheet files that support Macros. From application point of view, a Macro is set of instructions that are used for automating processes. A macro is used to record the steps that are performed repeatedly and facilitates performing the actions by running the macro again. Macros are programmed with Microsoft’s Visual Basic for Applications (VBA) from within the Excel Workbook using the Visual Basic Editor and can be run/debug directly from there.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}
-XLSB file format specifies the Excel Binary File Format, which is a collection of records and structures that specify Excel workbook content. The content can include unstructured or semi-structured tables of numbers, text, or both numbers and text, formulas, external data connections, charts and images. Unlike XLSX (which is based on Open XML file format), the XLSB represents binary Excel workbook file. XLSB files can be read and written to faster which makes them useful for working with large files. XLSB is seldom used to store workbooks as XLSX (and previously XLS) are the most common user selected file formats for saving workbooks. It can be opened by Microsoft Office 2007 and above.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
-
-<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Merging Formats" subTitle="Using Java, One can also merge xlsm to many other file formats including." >}}
 

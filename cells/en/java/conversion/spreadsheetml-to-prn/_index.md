@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to PRN via Java 
-description: Convert SPREADSHEETML to PRN. Convert SPREADSHEETML to PRN online for free. Convert SPREADSHEETML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert SPREADSHEETML to PRN online for free. Convert SPREADSHEETML to PRN. Convert SPREADSHEETML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert SPREADSHEETML, SPREADSHEETML Converter, SPREADSHEETML to PDF, SPREADSHEETML to Word, SPREADSHEETML to PPT, SPREADSHEETML to Image
 ---
 
@@ -92,7 +92,6 @@ We host our Java packages in [Maven](https://repository.aspose.com/webapp/#/arti
 - Get latest version of Aspose.Cells for Java directly from Maven.
 
 {{% /blocks/products/pf/agp/content %}}
-
 
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert SPREADSHEETML to many other file formats including few listed below." >}}

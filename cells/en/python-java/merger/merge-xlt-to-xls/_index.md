@@ -1,7 +1,7 @@
 ---
 title: Merge XLT to XLS via Python 
 url: /python-java/merger/merge-xlt-to-xls/ 
-description: Merge XLT to XLS in Python. Merge XLT to XLS via Python online for free. Combine XLT to XLS using Python.
+description: Merge XLT to XLS via Python online for free. Merge XLT to XLS in Python. Combine XLT to XLS using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -22,7 +22,7 @@ How to merge XLT to XLS? With Aspose.Cells for Python library, you can easily me
 The following example demonstrates how to merge XLT to XLS in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to merge XLT to XLS. Upload your files, call Workbook.Combine method for merging files, and then save it to XLS file. If you develop code in Python, this will be simpler than it sounds. See {{platform} example that merges XLT to XLS.
+Follow the easy steps to merge XLT to XLS. Upload your files, call Workbook.Combine method for merging files, and then save it to XLS file. If you develop code in Python, this will be simpler than it sounds. See Python example that merges XLT to XLS.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -76,21 +76,6 @@ Our APIs are supported on all major platforms and Operating Systems. Before exec
 
 {{% /blocks/products/pf/agp/content %}}
 
-<!-- aboutfile Starts -->
-
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="XLT" readMoreLink="https://docs.fileformat.com/spreadsheet/xlt/" >}}
-Files with .xlt extension are template files created with Microsoft Excel which is a spreadsheet application which comes as part of Microsoft Office suite. Microsoft Office 97-2003 supported creating new XLT files as well as opening these. The latest version of Excel is still capable of opening this old format template files. Such a template file is used to quickly create new Excel files with default data and settings such as page formatting, font size, margins, charts, etc which can be further saved as new .xls files.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}
-Files with XLS extension represent Excel Binary File Format. Such files can be created by Microsoft Excel as well as other similar spreadsheet programs such as OpenOffice Calc or Apple Numbers. File saved by Excel is known as Workbook where each workbook can have one or more worksheets. Data is stored and displayed to users in table format in worksheet and can span numeric values, text data, formulas, external data connections, images, and charts. Applications like Microsoft Excel lets you export workbook data to several different formats including PDF, CSV, XLSX, TXT, HTML, XPS, and several others. The XLS file format was replaced with a more open and structured format, XLSX, with the release of Microsoft Excel 2007. The latest versions still provide support for creating and reading XLS files, though XLSX is the first choice of use now.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
-
-<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Merging Formats" subTitle="Using Python, One can also merge xlt to many other file formats including." >}}
 

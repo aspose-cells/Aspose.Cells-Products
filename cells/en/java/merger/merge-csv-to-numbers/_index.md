@@ -1,7 +1,7 @@
 ---
 title: Merge CSV to NUMBERS via Java 
 url: /java/merger/merge-csv-to-numbers/ 
-description: Merge CSV to NUMBERS in Java. Merge CSV to NUMBERS via Java online for free. Combine CSV to NUMBERS using Java based desktop or web application.
+description: Merge CSV to NUMBERS via Java online for free. Merge CSV to NUMBERS in Java. Combine CSV to NUMBERS using Java based desktop or web application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -50,7 +50,7 @@ How to merge CSV to NUMBERS? With Aspose.Cells for Java library, you can easily 
 The following example demonstrates how to merge CSV to NUMBERS in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to merge CSV to NUMBERS. Upload your files, call Workbook.Combine method for merging files, and then save it to NUMBERS file. If you develop code in Java, this will be simpler than it sounds. See {{platform} example that merges CSV to NUMBERS.
+Follow the easy steps to merge CSV to NUMBERS. Upload your files, call Workbook.Combine method for merging files, and then save it to NUMBERS file. If you develop code in Java, this will be simpler than it sounds. See Java example that merges CSV to NUMBERS.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -98,21 +98,6 @@ Our APIs are supported on all major platforms and Operating Systems. Before exec
 
 {{% /blocks/products/pf/agp/content %}}
 
-<!-- aboutfile Starts -->
-
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CSV" readMoreLink="https://docs.fileformat.com/spreadsheet/csv/" >}}
-Files with .csv (Comma Separated Values) extension represent plain text files that contain records of data with comma separated values. Each line in a CSV file is a new record from the set of records contained in the file. Such files are generated when data transfer is intended from one storage system to another. Since all applications can recognize records separated by comma, import of such data files to database is done very conveniently. Almost all spreadsheet applications such as Microsoft Excel or OpenOffice Calc can import CSV without much effort. Data imported from such files is arranged in cells of a spreadsheet for representation to user.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}
-The files with .numbers extension are classified as spreadsheet file type, that's why they are similar to the .xlsx files; but the Numbers files are created by using Apple iWork Numbers spreadsheet software. The Apple iWork Numbers is a unit software of the iWork Productivity Suite. The iWork Productivity Suite is equivalent to the Microsoft Office Suite that is used on Windows PCs. Hence, we can say the Numbers which is available for MacOS is also a competitor of Microsoft Excel. Likewise, Microsoft Excel, the NUMBERS file may also contain the tables, charts and formulas. 
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
-
-<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Merging Formats" subTitle="Using Java, One can also merge csv to many other file formats including." >}}
 

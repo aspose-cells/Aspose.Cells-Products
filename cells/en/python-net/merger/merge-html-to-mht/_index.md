@@ -1,7 +1,7 @@
 ---
 title: Merge HTML to MHT via Python 
 url: /python-net/merger/merge-html-to-mht/ 
-description: Merge HTML to MHT in Python. Merge HTML to MHT via Python online for free. Combine HTML to MHT using Python.
+description: Merge HTML to MHT via Python online for free. Merge HTML to MHT in Python. Combine HTML to MHT using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -22,7 +22,7 @@ How to merge HTML to MHT? With Aspose.Cells for Python library, you can easily m
 The following example demonstrates how to merge HTML to MHT in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to merge HTML to MHT. Upload your files, call Workbook.Combine method for merging files, and then save it to MHT file. If you develop code in Python, this will be simpler than it sounds. See {{platform} example that merges HTML to MHT.
+Follow the easy steps to merge HTML to MHT. Upload your files, call Workbook.Combine method for merging files, and then save it to MHT file. If you develop code in Python, this will be simpler than it sounds. See Python example that merges HTML to MHT.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -75,21 +75,6 @@ Our APIs are supported on all major platforms and Operating Systems. Before exec
 
 {{% /blocks/products/pf/agp/content %}}
 
-<!-- aboutfile Starts -->
-
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" >}}
-HTML (Hyper Text Markup Language) is the extension for web pages created for display in browsers. Known as language of the web, HTML has evolved with requirements of new information requirements to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from server, where these are hosted, or can be loaded from local system as well. Each HTML page is made up of HTML elements such as forms, text, images, animations, links, etc. These elements are represented by tags and several others where each tag has start and end. It can also embed applications written in scripting languages such as JavaScript and Style Sheets (CSS) for overall layout representation.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}
-A file with .mht extension is a MIME enabled archiving file format that contains different types of data into a single file. It can store data such as text, images, page styling in the form of CSS files, JavaScript, and other resources as embedded resources in it. MHT files, having MIME type message/rfc822, encapsulate all the contents of an HTML file as a single archive file for storing on archiving on storage devices. Software applications such as Microsoft Word lets you convert your WORD documents to MHT by exporting as MHT file. MHT files can be opened using popular browsers such as Microsoft Internet Explore and Google Chrome.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
-
-<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Merging Formats" subTitle="Using Python, One can also merge html to many other file formats including." >}}
 

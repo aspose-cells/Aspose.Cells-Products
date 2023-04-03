@@ -1,7 +1,7 @@
 ---
 title: Merge TSV to TSV via Java 
 url: /java/merger/merge-tsv-to-tsv/ 
-description: Merge TSV to TSV in Java. Merge TSV to TSV via Java online for free. Combine TSV to TSV using Java based desktop or web application.
+description: Merge TSV to TSV via Java online for free. Merge TSV to TSV in Java. Combine TSV to TSV using Java based desktop or web application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -50,7 +50,7 @@ How to merge TSV to TSV? With Aspose.Cells for Java library, you can easily merg
 The following example demonstrates how to merge TSV to TSV in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to merge TSV to TSV. Upload your files, call Workbook.Combine method for merging files, and then save it to TSV file. If you develop code in Java, this will be simpler than it sounds. See {{platform} example that merges TSV to TSV.
+Follow the easy steps to merge TSV to TSV. Upload your files, call Workbook.Combine method for merging files, and then save it to TSV file. If you develop code in Java, this will be simpler than it sounds. See Java example that merges TSV to TSV.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -98,21 +98,6 @@ Our APIs are supported on all major platforms and Operating Systems. Before exec
 
 {{% /blocks/products/pf/agp/content %}}
 
-<!-- aboutfile Starts -->
-
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TSV" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}
-A Tab-Separated Values (TSV) file format represents data separated with tabs in plain text format. The file format, similar to CSV, is used for organization of data in a structured manner in order to import and export between different applications. The format is primarily used for data import/export and exchange in Spreadsheet applications and databases. Each record in a TSV file is contained in a single line of text file where each field value is separated by a tab character. Media type for TSV file format is text/tab-separated-values.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TSV" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}
-A Tab-Separated Values (TSV) file format represents data separated with tabs in plain text format. The file format, similar to CSV, is used for organization of data in a structured manner in order to import and export between different applications. The format is primarily used for data import/export and exchange in Spreadsheet applications and databases. Each record in a TSV file is contained in a single line of text file where each field value is separated by a tab character. Media type for TSV file format is text/tab-separated-values.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
-
-<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Merging Formats" subTitle="Using Java, One can also merge tsv to many other file formats including." >}}
 

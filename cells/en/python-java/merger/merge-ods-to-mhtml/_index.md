@@ -1,7 +1,7 @@
 ---
 title: Merge ODS to MHTML via Python 
 url: /python-java/merger/merge-ods-to-mhtml/ 
-description: Merge ODS to MHTML in Python. Merge ODS to MHTML via Python online for free. Combine ODS to MHTML using Python.
+description: Merge ODS to MHTML via Python online for free. Merge ODS to MHTML in Python. Combine ODS to MHTML using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -22,7 +22,7 @@ How to merge ODS to MHTML? With Aspose.Cells for Python library, you can easily 
 The following example demonstrates how to merge ODS to MHTML in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to merge ODS to MHTML. Upload your files, call Workbook.Combine method for merging files, and then save it to MHTML file. If you develop code in Python, this will be simpler than it sounds. See {{platform} example that merges ODS to MHTML.
+Follow the easy steps to merge ODS to MHTML. Upload your files, call Workbook.Combine method for merging files, and then save it to MHTML file. If you develop code in Python, this will be simpler than it sounds. See Python example that merges ODS to MHTML.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -76,21 +76,6 @@ Our APIs are supported on all major platforms and Operating Systems. Before exec
 
 {{% /blocks/products/pf/agp/content %}}
 
-<!-- aboutfile Starts -->
-
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
-Files with .ods extension stand for OpenDocument Spreadsheet Document format that are editable by user. Data is stored inside ODF file into rows and columns. It is XML-based format and is one of the several subtypes in the Open Document Formats (ODF) family. The format is specified as part of the ODF 1.2 specifications published and maintained by OASIS. A number of applications on Windows as well as other operating systems can open ODS files for editing and manipulation including Microsoft Excel, NeoOffice and LibreOffice. ODS files can also be converted into other spreadsheet formats as well like XLS, XLSX and others by different applications.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="MHTML" readMoreLink="https://docs.fileformat.com/web/mhtml/" >}}
-Files with MHTML extension represent a web page archive format that can be created by a number of different applications. The format is known as archive format because it saves the web HTML code and associated resources in a single file. These resources include anything linked to the webpage such as images, applets, animations, audio files and so on. MHTML files can be opened in a variety of applications such as Internet Explorer and Microsoft Word. Microsoft Windows uses MHTML file format for recording scenarios of problems observed during the usage of any application on Windows that raises issues. The MHTML file format encodes the page contents similar to specifications defined in message/rfc822 which is plain text email related specifications.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
-
-<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Merging Formats" subTitle="Using Python, One can also merge ods to many other file formats including." >}}
 

@@ -1,7 +1,7 @@
 ---
 title: Merge NUMBERS to XLSB via Python 
 url: /python-java/merger/merge-numbers-to-xlsb/ 
-description: Merge NUMBERS to XLSB in Python. Merge NUMBERS to XLSB via Python online for free. Combine NUMBERS to XLSB using Python.
+description: Merge NUMBERS to XLSB via Python online for free. Merge NUMBERS to XLSB in Python. Combine NUMBERS to XLSB using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -22,7 +22,7 @@ How to merge NUMBERS to XLSB? With Aspose.Cells for Python library, you can easi
 The following example demonstrates how to merge NUMBERS to XLSB in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to merge NUMBERS to XLSB. Upload your files, call Workbook.Combine method for merging files, and then save it to XLSB file. If you develop code in Python, this will be simpler than it sounds. See {{platform} example that merges NUMBERS to XLSB.
+Follow the easy steps to merge NUMBERS to XLSB. Upload your files, call Workbook.Combine method for merging files, and then save it to XLSB file. If you develop code in Python, this will be simpler than it sounds. See Python example that merges NUMBERS to XLSB.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -76,21 +76,6 @@ Our APIs are supported on all major platforms and Operating Systems. Before exec
 
 {{% /blocks/products/pf/agp/content %}}
 
-<!-- aboutfile Starts -->
-
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}
-The files with .numbers extension are classified as spreadsheet file type, that's why they are similar to the .xlsx files; but the Numbers files are created by using Apple iWork Numbers spreadsheet software. The Apple iWork Numbers is a unit software of the iWork Productivity Suite. The iWork Productivity Suite is equivalent to the Microsoft Office Suite that is used on Windows PCs. Hence, we can say the Numbers which is available for MacOS is also a competitor of Microsoft Excel. Likewise, Microsoft Excel, the NUMBERS file may also contain the tables, charts and formulas. 
-        {{< /blocks/products/pf/agp/about-file-text >}}
-        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}
-XLSB file format specifies the Excel Binary File Format, which is a collection of records and structures that specify Excel workbook content. The content can include unstructured or semi-structured tables of numbers, text, or both numbers and text, formulas, external data connections, charts and images. Unlike XLSX (which is based on Open XML file format), the XLSB represents binary Excel workbook file. XLSB files can be read and written to faster which makes them useful for working with large files. XLSB is seldom used to store workbooks as XLSX (and previously XLS) are the most common user selected file formats for saving workbooks. It can be opened by Microsoft Office 2007 and above.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
-
-<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Merging Formats" subTitle="Using Python, One can also merge numbers to many other file formats including." >}}
 

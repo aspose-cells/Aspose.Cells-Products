@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to PRN via C++
-description: Convert TXT to PRN. Convert TXT to PRN online for free. Convert TXT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert TXT to PRN online for free. Convert TXT to PRN. Convert TXT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert TXT, TXT Converter, TXT to PDF, TXT to Word, TXT to PPT, TXT to Image
 ---
 
@@ -79,7 +79,6 @@ There are three options to install "Aspose.Cells for C++" onto your system. Plea
 - Add reference to the Aspose.Cells for C++ DLL in your project.
 
 {{% /blocks/products/pf/agp/content %}}
-
 
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert TXT to many other file formats including few listed below." >}}

@@ -1,7 +1,7 @@
 ---
 title: Merge XLTX to TSV via Python 
 url: /python-net/merger/merge-xltx-to-tsv/ 
-description: Merge XLTX to TSV in Python. Merge XLTX to TSV via Python online for free. Combine XLTX to TSV using Python.
+description: Merge XLTX to TSV via Python online for free. Merge XLTX to TSV in Python. Combine XLTX to TSV using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -22,7 +22,7 @@ How to merge XLTX to TSV? With Aspose.Cells for Python library, you can easily m
 The following example demonstrates how to merge XLTX to TSV in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to merge XLTX to TSV. Upload your files, call Workbook.Combine method for merging files, and then save it to TSV file. If you develop code in Python, this will be simpler than it sounds. See {{platform} example that merges XLTX to TSV.
+Follow the easy steps to merge XLTX to TSV. Upload your files, call Workbook.Combine method for merging files, and then save it to TSV file. If you develop code in Python, this will be simpler than it sounds. See Python example that merges XLTX to TSV.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -75,21 +75,6 @@ Our APIs are supported on all major platforms and Operating Systems. Before exec
 
 {{% /blocks/products/pf/agp/content %}}
 
-<!-- aboutfile Starts -->
-
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="XLTX" readMoreLink="https://docs.fileformat.com/spreadsheet/xltx/" >}}
-Files with .xltx extension represent Microsoft Excel Template files that are based on the Office OpenXML file format specifications. It is used to create a standard template file that can be utilized to generate XLSX files that exhibit the same settings as specified in the XLTX file.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TSV" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}
-A Tab-Separated Values (TSV) file format represents data separated with tabs in plain text format. The file format, similar to CSV, is used for organization of data in a structured manner in order to import and export between different applications. The format is primarily used for data import/export and exchange in Spreadsheet applications and databases. Each record in a TSV file is contained in a single line of text file where each field value is separated by a tab character. Media type for TSV file format is text/tab-separated-values.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
-
-<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Merging Formats" subTitle="Using Python, One can also merge xltx to many other file formats including." >}}
 

@@ -1,7 +1,7 @@
 ---
 title: Merge XLS to MHT via Java 
 url: /java/merger/merge-xls-to-mht/ 
-description: Merge XLS to MHT in Java. Merge XLS to MHT via Java online for free. Combine XLS to MHT using Java based desktop or web application.
+description: Merge XLS to MHT via Java online for free. Merge XLS to MHT in Java. Combine XLS to MHT using Java based desktop or web application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -50,7 +50,7 @@ How to merge XLS to MHT? With Aspose.Cells for Java library, you can easily merg
 The following example demonstrates how to merge XLS to MHT in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to merge XLS to MHT. Upload your files, call Workbook.Combine method for merging files, and then save it to MHT file. If you develop code in Java, this will be simpler than it sounds. See {{platform} example that merges XLS to MHT.
+Follow the easy steps to merge XLS to MHT. Upload your files, call Workbook.Combine method for merging files, and then save it to MHT file. If you develop code in Java, this will be simpler than it sounds. See Java example that merges XLS to MHT.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -98,21 +98,6 @@ Our APIs are supported on all major platforms and Operating Systems. Before exec
 
 {{% /blocks/products/pf/agp/content %}}
 
-<!-- aboutfile Starts -->
-
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}
-Files with XLS extension represent Excel Binary File Format. Such files can be created by Microsoft Excel as well as other similar spreadsheet programs such as OpenOffice Calc or Apple Numbers. File saved by Excel is known as Workbook where each workbook can have one or more worksheets. Data is stored and displayed to users in table format in worksheet and can span numeric values, text data, formulas, external data connections, images, and charts. Applications like Microsoft Excel lets you export workbook data to several different formats including PDF, CSV, XLSX, TXT, HTML, XPS, and several others. The XLS file format was replaced with a more open and structured format, XLSX, with the release of Microsoft Excel 2007. The latest versions still provide support for creating and reading XLS files, though XLSX is the first choice of use now.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}
-A file with .mht extension is a MIME enabled archiving file format that contains different types of data into a single file. It can store data such as text, images, page styling in the form of CSS files, JavaScript, and other resources as embedded resources in it. MHT files, having MIME type message/rfc822, encapsulate all the contents of an HTML file as a single archive file for storing on archiving on storage devices. Software applications such as Microsoft Word lets you convert your WORD documents to MHT by exporting as MHT file. MHT files can be opened using popular browsers such as Microsoft Internet Explore and Google Chrome.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
-
-<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Merging Formats" subTitle="Using Java, One can also merge xls to many other file formats including." >}}
 

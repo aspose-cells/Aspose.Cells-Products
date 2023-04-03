@@ -1,7 +1,7 @@
 ---
 title: Merge NUMBERS to XLS via Java 
 url: /java/merger/merge-numbers-to-xls/ 
-description: Merge NUMBERS to XLS in Java. Merge NUMBERS to XLS via Java online for free. Combine NUMBERS to XLS using Java based desktop or web application.
+description: Merge NUMBERS to XLS via Java online for free. Merge NUMBERS to XLS in Java. Combine NUMBERS to XLS using Java based desktop or web application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -50,7 +50,7 @@ How to merge NUMBERS to XLS? With Aspose.Cells for Java library, you can easily 
 The following example demonstrates how to merge NUMBERS to XLS in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to merge NUMBERS to XLS. Upload your files, call Workbook.Combine method for merging files, and then save it to XLS file. If you develop code in Java, this will be simpler than it sounds. See {{platform} example that merges NUMBERS to XLS.
+Follow the easy steps to merge NUMBERS to XLS. Upload your files, call Workbook.Combine method for merging files, and then save it to XLS file. If you develop code in Java, this will be simpler than it sounds. See Java example that merges NUMBERS to XLS.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -98,21 +98,6 @@ Our APIs are supported on all major platforms and Operating Systems. Before exec
 
 {{% /blocks/products/pf/agp/content %}}
 
-<!-- aboutfile Starts -->
-
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}
-The files with .numbers extension are classified as spreadsheet file type, that's why they are similar to the .xlsx files; but the Numbers files are created by using Apple iWork Numbers spreadsheet software. The Apple iWork Numbers is a unit software of the iWork Productivity Suite. The iWork Productivity Suite is equivalent to the Microsoft Office Suite that is used on Windows PCs. Hence, we can say the Numbers which is available for MacOS is also a competitor of Microsoft Excel. Likewise, Microsoft Excel, the NUMBERS file may also contain the tables, charts and formulas. 
-        {{< /blocks/products/pf/agp/about-file-text >}}
-        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}
-Files with XLS extension represent Excel Binary File Format. Such files can be created by Microsoft Excel as well as other similar spreadsheet programs such as OpenOffice Calc or Apple Numbers. File saved by Excel is known as Workbook where each workbook can have one or more worksheets. Data is stored and displayed to users in table format in worksheet and can span numeric values, text data, formulas, external data connections, images, and charts. Applications like Microsoft Excel lets you export workbook data to several different formats including PDF, CSV, XLSX, TXT, HTML, XPS, and several others. The XLS file format was replaced with a more open and structured format, XLSX, with the release of Microsoft Excel 2007. The latest versions still provide support for creating and reading XLS files, though XLSX is the first choice of use now.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
-
-<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Merging Formats" subTitle="Using Java, One can also merge numbers to many other file formats including." >}}
 

@@ -1,7 +1,7 @@
 ---
 title: Merge MHTML to XLSB via C# 
 url: /net/merger/merge-mhtml-to-xlsb/ 
-description: Merge MHTML to XLSB in .NET. Merge MHTML to XLSB via .NET online for free. Combine MHTML to XLSB using VB.NET, Asp.NET or any .NET based application.
+description: Merge MHTML to XLSB via .NET online for free. Merge MHTML to XLSB in .NET. Combine MHTML to XLSB using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -31,7 +31,7 @@ PM> Install-Package Aspose.Cells
 The following example demonstrates how to merge MHTML to XLSB in C#.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to merge MHTML to XLSB. Upload your files, call Workbook.Combine method for merging files, and then save it to XLSB file. If you develop code in C#, this will be simpler than it sounds. See {{platform} example that merges MHTML to XLSB.
+Follow the easy steps to merge MHTML to XLSB. Upload your files, call Workbook.Combine method for merging files, and then save it to XLSB file. If you develop code in C#, this will be simpler than it sounds. See C# example that merges MHTML to XLSB.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -83,21 +83,6 @@ Our APIs are supported on all major platforms and Operating Systems. Before exec
 
 {{% /blocks/products/pf/agp/content %}}
 
-<!-- aboutfile Starts -->
-
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="MHTML" readMoreLink="https://docs.fileformat.com/web/mhtml/" >}}
-Files with MHTML extension represent a web page archive format that can be created by a number of different applications. The format is known as archive format because it saves the web HTML code and associated resources in a single file. These resources include anything linked to the webpage such as images, applets, animations, audio files and so on. MHTML files can be opened in a variety of applications such as Internet Explorer and Microsoft Word. Microsoft Windows uses MHTML file format for recording scenarios of problems observed during the usage of any application on Windows that raises issues. The MHTML file format encodes the page contents similar to specifications defined in message/rfc822 which is plain text email related specifications.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}
-XLSB file format specifies the Excel Binary File Format, which is a collection of records and structures that specify Excel workbook content. The content can include unstructured or semi-structured tables of numbers, text, or both numbers and text, formulas, external data connections, charts and images. Unlike XLSX (which is based on Open XML file format), the XLSB represents binary Excel workbook file. XLSB files can be read and written to faster which makes them useful for working with large files. XLSB is seldom used to store workbooks as XLSX (and previously XLS) are the most common user selected file formats for saving workbooks. It can be opened by Microsoft Office 2007 and above.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
-
-<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Merging Formats" subTitle="Using C#, One can also merge mhtml to many other file formats including." >}}
 

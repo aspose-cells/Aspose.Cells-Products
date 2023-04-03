@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to PRN via Java 
-description: Convert NUMBERS to PRN. Convert NUMBERS to PRN online for free. Convert NUMBERS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert NUMBERS to PRN online for free. Convert NUMBERS to PRN. Convert NUMBERS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert NUMBERS, NUMBERS Converter, NUMBERS to PDF, NUMBERS to Word, NUMBERS to PPT, NUMBERS to Image
 ---
 
@@ -92,7 +92,6 @@ We host our Java packages in [Maven](https://repository.aspose.com/webapp/#/arti
 - Get latest version of Aspose.Cells for Java directly from Maven.
 
 {{% /blocks/products/pf/agp/content %}}
-
 
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert NUMBERS to many other file formats including few listed below." >}}

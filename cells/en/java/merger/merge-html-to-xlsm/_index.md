@@ -1,7 +1,7 @@
 ---
 title: Merge HTML to XLSM via Java 
 url: /java/merger/merge-html-to-xlsm/ 
-description: Merge HTML to XLSM in Java. Merge HTML to XLSM via Java online for free. Combine HTML to XLSM using Java based desktop or web application.
+description: Merge HTML to XLSM via Java online for free. Merge HTML to XLSM in Java. Combine HTML to XLSM using Java based desktop or web application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -50,7 +50,7 @@ How to merge HTML to XLSM? With Aspose.Cells for Java library, you can easily me
 The following example demonstrates how to merge HTML to XLSM in Java.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to merge HTML to XLSM. Upload your files, call Workbook.Combine method for merging files, and then save it to XLSM file. If you develop code in Java, this will be simpler than it sounds. See {{platform} example that merges HTML to XLSM.
+Follow the easy steps to merge HTML to XLSM. Upload your files, call Workbook.Combine method for merging files, and then save it to XLSM file. If you develop code in Java, this will be simpler than it sounds. See Java example that merges HTML to XLSM.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -98,21 +98,6 @@ Our APIs are supported on all major platforms and Operating Systems. Before exec
 
 {{% /blocks/products/pf/agp/content %}}
 
-<!-- aboutfile Starts -->
-
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" >}}
-HTML (Hyper Text Markup Language) is the extension for web pages created for display in browsers. Known as language of the web, HTML has evolved with requirements of new information requirements to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from server, where these are hosted, or can be loaded from local system as well. Each HTML page is made up of HTML elements such as forms, text, images, animations, links, etc. These elements are represented by tags and several others where each tag has start and end. It can also embed applications written in scripting languages such as JavaScript and Style Sheets (CSS) for overall layout representation.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}
-Files with XLSM extension is a type of Spreadsheet files that support Macros. From application point of view, a Macro is set of instructions that are used for automating processes. A macro is used to record the steps that are performed repeatedly and facilitates performing the actions by running the macro again. Macros are programmed with Microsoft’s Visual Basic for Applications (VBA) from within the Excel Workbook using the Visual Basic Editor and can be run/debug directly from there.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
-
-<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Merging Formats" subTitle="Using Java, One can also merge html to many other file formats including." >}}
 

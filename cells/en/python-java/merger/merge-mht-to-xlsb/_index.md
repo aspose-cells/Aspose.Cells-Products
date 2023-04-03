@@ -1,7 +1,7 @@
 ---
 title: Merge MHT to XLSB via Python 
 url: /python-java/merger/merge-mht-to-xlsb/ 
-description: Merge MHT to XLSB in Python. Merge MHT to XLSB via Python online for free. Combine MHT to XLSB using Python.
+description: Merge MHT to XLSB via Python online for free. Merge MHT to XLSB in Python. Combine MHT to XLSB using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -22,7 +22,7 @@ How to merge MHT to XLSB? With Aspose.Cells for Python library, you can easily m
 The following example demonstrates how to merge MHT to XLSB in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to merge MHT to XLSB. Upload your files, call Workbook.Combine method for merging files, and then save it to XLSB file. If you develop code in Python, this will be simpler than it sounds. See {{platform} example that merges MHT to XLSB.
+Follow the easy steps to merge MHT to XLSB. Upload your files, call Workbook.Combine method for merging files, and then save it to XLSB file. If you develop code in Python, this will be simpler than it sounds. See Python example that merges MHT to XLSB.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -76,21 +76,6 @@ Our APIs are supported on all major platforms and Operating Systems. Before exec
 
 {{% /blocks/products/pf/agp/content %}}
 
-<!-- aboutfile Starts -->
-
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}
-A file with .mht extension is a MIME enabled archiving file format that contains different types of data into a single file. It can store data such as text, images, page styling in the form of CSS files, JavaScript, and other resources as embedded resources in it. MHT files, having MIME type message/rfc822, encapsulate all the contents of an HTML file as a single archive file for storing on archiving on storage devices. Software applications such as Microsoft Word lets you convert your WORD documents to MHT by exporting as MHT file. MHT files can be opened using popular browsers such as Microsoft Internet Explore and Google Chrome.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}
-XLSB file format specifies the Excel Binary File Format, which is a collection of records and structures that specify Excel workbook content. The content can include unstructured or semi-structured tables of numbers, text, or both numbers and text, formulas, external data connections, charts and images. Unlike XLSX (which is based on Open XML file format), the XLSB represents binary Excel workbook file. XLSB files can be read and written to faster which makes them useful for working with large files. XLSB is seldom used to store workbooks as XLSX (and previously XLS) are the most common user selected file formats for saving workbooks. It can be opened by Microsoft Office 2007 and above.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
-
-<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Merging Formats" subTitle="Using Python, One can also merge mht to many other file formats including." >}}
 

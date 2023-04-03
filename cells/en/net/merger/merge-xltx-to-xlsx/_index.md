@@ -1,7 +1,7 @@
 ---
 title: Merge XLTX to XLSX via C# 
 url: /net/merger/merge-xltx-to-xlsx/ 
-description: Merge XLTX to XLSX in .NET. Merge XLTX to XLSX via .NET online for free. Combine XLTX to XLSX using VB.NET, Asp.NET or any .NET based application.
+description: Merge XLTX to XLSX via .NET online for free. Merge XLTX to XLSX in .NET. Combine XLTX to XLSX using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -31,7 +31,7 @@ PM> Install-Package Aspose.Cells
 The following example demonstrates how to merge XLTX to XLSX in C#.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to merge XLTX to XLSX. Upload your files, call Workbook.Combine method for merging files, and then save it to XLSX file. If you develop code in C#, this will be simpler than it sounds. See {{platform} example that merges XLTX to XLSX.
+Follow the easy steps to merge XLTX to XLSX. Upload your files, call Workbook.Combine method for merging files, and then save it to XLSX file. If you develop code in C#, this will be simpler than it sounds. See C# example that merges XLTX to XLSX.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -83,21 +83,6 @@ Our APIs are supported on all major platforms and Operating Systems. Before exec
 
 {{% /blocks/products/pf/agp/content %}}
 
-<!-- aboutfile Starts -->
-
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="XLTX" readMoreLink="https://docs.fileformat.com/spreadsheet/xltx/" >}}
-Files with .xltx extension represent Microsoft Excel Template files that are based on the Office OpenXML file format specifications. It is used to create a standard template file that can be utilized to generate XLSX files that exhibit the same settings as specified in the XLTX file.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="XLSX" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}
-XLSX is well-known format for Microsoft Excel documents that was introduced by Microsoft with the release of Microsoft Office 2007. Based on structure organized according to the Open Packaging Conventions as outlined in Part 2 of the OOXML standard ECMA-376, the new format is a zip package that contains a number of XML files. The underlying structure and files can be examined by simply unzipping the .xlsx file.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
-
-<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Merging Formats" subTitle="Using C#, One can also merge xltx to many other file formats including." >}}
 

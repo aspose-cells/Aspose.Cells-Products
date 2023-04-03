@@ -1,7 +1,7 @@
 ---
 title: Merge JSON to CSV via Python 
 url: /python-java/merger/merge-json-to-csv/ 
-description: Merge JSON to CSV in Python. Merge JSON to CSV via Python online for free. Combine JSON to CSV using Python.
+description: Merge JSON to CSV via Python online for free. Merge JSON to CSV in Python. Combine JSON to CSV using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -22,7 +22,7 @@ How to merge JSON to CSV? With Aspose.Cells for Python library, you can easily m
 The following example demonstrates how to merge JSON to CSV in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to merge JSON to CSV. Upload your files, call Workbook.Combine method for merging files, and then save it to CSV file. If you develop code in Python, this will be simpler than it sounds. See {{platform} example that merges JSON to CSV.
+Follow the easy steps to merge JSON to CSV. Upload your files, call Workbook.Combine method for merging files, and then save it to CSV file. If you develop code in Python, this will be simpler than it sounds. See Python example that merges JSON to CSV.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -76,21 +76,6 @@ Our APIs are supported on all major platforms and Operating Systems. Before exec
 
 {{% /blocks/products/pf/agp/content %}}
 
-<!-- aboutfile Starts -->
-
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JSON" readMoreLink="https://docs.fileformat.com/web/json/" >}}
-JSON (JavaScript Object Notation) is an open standard file format for sharing data that uses human-readable text to store and transmit data. JSON files are stored with the .json extension. JSON requires less formatting and is a good alternative for XML. JSON is derived from JavaScript but is a language-independent data format. The generation and parsing of JSON is supported by many modern programming languages. application/json is the media type used for JSON.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CSV" readMoreLink="https://docs.fileformat.com/spreadsheet/csv/" >}}
-Files with .csv (Comma Separated Values) extension represent plain text files that contain records of data with comma separated values. Each line in a CSV file is a new record from the set of records contained in the file. Such files are generated when data transfer is intended from one storage system to another. Since all applications can recognize records separated by comma, import of such data files to database is done very conveniently. Almost all spreadsheet applications such as Microsoft Excel or OpenOffice Calc can import CSV without much effort. Data imported from such files is arranged in cells of a spreadsheet for representation to user.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
-
-<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Merging Formats" subTitle="Using Python, One can also merge json to many other file formats including." >}}
 

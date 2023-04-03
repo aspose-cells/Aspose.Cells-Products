@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to PRN via C++
-description: Convert XLT to PRN. Convert XLT to PRN online for free. Convert XLT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert XLT to PRN online for free. Convert XLT to PRN. Convert XLT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert XLT, XLT Converter, XLT to PDF, XLT to Word, XLT to PPT, XLT to Image
 ---
 
@@ -79,7 +79,6 @@ There are three options to install "Aspose.Cells for C++" onto your system. Plea
 - Add reference to the Aspose.Cells for C++ DLL in your project.
 
 {{% /blocks/products/pf/agp/content %}}
-
 
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert XLT to many other file formats including few listed below." >}}

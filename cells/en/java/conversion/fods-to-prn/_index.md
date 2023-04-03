@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to PRN via Java 
-description: Convert FODS to PRN. Convert FODS to PRN online for free. Convert FODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert FODS to PRN online for free. Convert FODS to PRN. Convert FODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert FODS, FODS Converter, FODS to PDF, FODS to Word, FODS to PPT, FODS to Image
 ---
 
@@ -92,7 +92,6 @@ We host our Java packages in [Maven](https://repository.aspose.com/webapp/#/arti
 - Get latest version of Aspose.Cells for Java directly from Maven.
 
 {{% /blocks/products/pf/agp/content %}}
-
 
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert FODS to many other file formats including few listed below." >}}

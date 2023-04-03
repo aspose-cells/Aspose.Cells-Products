@@ -1,7 +1,7 @@
 ---
 title: Merge NUMBERS to HTML via C++ 
 url: /cpp/merger/merge-numbers-to-html/ 
-description: Merge NUMBERS to HTML in C++. Merge NUMBERS to HTML via C++ online for free. Combine NUMBERS to HTML using C++.
+description: Merge NUMBERS to HTML via C++ online for free. Merge NUMBERS to HTML in C++. Combine NUMBERS to HTML using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -31,7 +31,7 @@ PM> Install-Package Aspose.Cells.Cpp
 The following example demonstrates how to merge NUMBERS to HTML in C++.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to merge NUMBERS to HTML. Upload your files, call Workbook.Combine method for merging files, and then save it to HTML file. If you develop code in C++, this will be simpler than it sounds. See {{platform} example that merges NUMBERS to HTML.
+Follow the easy steps to merge NUMBERS to HTML. Upload your files, call Workbook.Combine method for merging files, and then save it to HTML file. If you develop code in C++, this will be simpler than it sounds. See C++ example that merges NUMBERS to HTML.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -84,21 +84,6 @@ Our APIs are supported on all major platforms and Operating Systems. Before exec
 
 {{% /blocks/products/pf/agp/content %}}
 
-<!-- aboutfile Starts -->
-
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}
-The files with .numbers extension are classified as spreadsheet file type, that's why they are similar to the .xlsx files; but the Numbers files are created by using Apple iWork Numbers spreadsheet software. The Apple iWork Numbers is a unit software of the iWork Productivity Suite. The iWork Productivity Suite is equivalent to the Microsoft Office Suite that is used on Windows PCs. Hence, we can say the Numbers which is available for MacOS is also a competitor of Microsoft Excel. Likewise, Microsoft Excel, the NUMBERS file may also contain the tables, charts and formulas. 
-        {{< /blocks/products/pf/agp/about-file-text >}}
-        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" >}}
-HTML (Hyper Text Markup Language) is the extension for web pages created for display in browsers. Known as language of the web, HTML has evolved with requirements of new information requirements to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from server, where these are hosted, or can be loaded from local system as well. Each HTML page is made up of HTML elements such as forms, text, images, animations, links, etc. These elements are represented by tags and several others where each tag has start and end. It can also embed applications written in scripting languages such as JavaScript and Style Sheets (CSS) for overall layout representation.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
-
-<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Merging Formats" subTitle="Using C++, One can also merge numbers to many other file formats including." >}}
 

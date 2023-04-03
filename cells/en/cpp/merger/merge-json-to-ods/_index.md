@@ -1,7 +1,7 @@
 ---
 title: Merge JSON to ODS via C++ 
 url: /cpp/merger/merge-json-to-ods/ 
-description: Merge JSON to ODS in C++. Merge JSON to ODS via C++ online for free. Combine JSON to ODS using C++.
+description: Merge JSON to ODS via C++ online for free. Merge JSON to ODS in C++. Combine JSON to ODS using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -31,7 +31,7 @@ PM> Install-Package Aspose.Cells.Cpp
 The following example demonstrates how to merge JSON to ODS in C++.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to merge JSON to ODS. Upload your files, call Workbook.Combine method for merging files, and then save it to ODS file. If you develop code in C++, this will be simpler than it sounds. See {{platform} example that merges JSON to ODS.
+Follow the easy steps to merge JSON to ODS. Upload your files, call Workbook.Combine method for merging files, and then save it to ODS file. If you develop code in C++, this will be simpler than it sounds. See C++ example that merges JSON to ODS.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -84,21 +84,6 @@ Our APIs are supported on all major platforms and Operating Systems. Before exec
 
 {{% /blocks/products/pf/agp/content %}}
 
-<!-- aboutfile Starts -->
-
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JSON" readMoreLink="https://docs.fileformat.com/web/json/" >}}
-JSON (JavaScript Object Notation) is an open standard file format for sharing data that uses human-readable text to store and transmit data. JSON files are stored with the .json extension. JSON requires less formatting and is a good alternative for XML. JSON is derived from JavaScript but is a language-independent data format. The generation and parsing of JSON is supported by many modern programming languages. application/json is the media type used for JSON.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
-Files with .ods extension stand for OpenDocument Spreadsheet Document format that are editable by user. Data is stored inside ODF file into rows and columns. It is XML-based format and is one of the several subtypes in the Open Document Formats (ODF) family. The format is specified as part of the ODF 1.2 specifications published and maintained by OASIS. A number of applications on Windows as well as other operating systems can open ODS files for editing and manipulation including Microsoft Excel, NeoOffice and LibreOffice. ODS files can also be converted into other spreadsheet formats as well like XLS, XLSX and others by different applications.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
-
-<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Merging Formats" subTitle="Using C++, One can also merge json to many other file formats including." >}}
 

@@ -1,7 +1,7 @@
 ---
 title: Merge JSON to XLSX via Python 
 url: /python-java/merger/merge-json-to-xlsx/ 
-description: Merge JSON to XLSX in Python. Merge JSON to XLSX via Python online for free. Combine JSON to XLSX using Python.
+description: Merge JSON to XLSX via Python online for free. Merge JSON to XLSX in Python. Combine JSON to XLSX using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -22,7 +22,7 @@ How to merge JSON to XLSX? With Aspose.Cells for Python library, you can easily 
 The following example demonstrates how to merge JSON to XLSX in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to merge JSON to XLSX. Upload your files, call Workbook.Combine method for merging files, and then save it to XLSX file. If you develop code in Python, this will be simpler than it sounds. See {{platform} example that merges JSON to XLSX.
+Follow the easy steps to merge JSON to XLSX. Upload your files, call Workbook.Combine method for merging files, and then save it to XLSX file. If you develop code in Python, this will be simpler than it sounds. See Python example that merges JSON to XLSX.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -76,21 +76,6 @@ Our APIs are supported on all major platforms and Operating Systems. Before exec
 
 {{% /blocks/products/pf/agp/content %}}
 
-<!-- aboutfile Starts -->
-
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JSON" readMoreLink="https://docs.fileformat.com/web/json/" >}}
-JSON (JavaScript Object Notation) is an open standard file format for sharing data that uses human-readable text to store and transmit data. JSON files are stored with the .json extension. JSON requires less formatting and is a good alternative for XML. JSON is derived from JavaScript but is a language-independent data format. The generation and parsing of JSON is supported by many modern programming languages. application/json is the media type used for JSON.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="XLSX" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}
-XLSX is well-known format for Microsoft Excel documents that was introduced by Microsoft with the release of Microsoft Office 2007. Based on structure organized according to the Open Packaging Conventions as outlined in Part 2 of the OOXML standard ECMA-376, the new format is a zip package that contains a number of XML files. The underlying structure and files can be examined by simply unzipping the .xlsx file.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
-
-<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Merging Formats" subTitle="Using Python, One can also merge json to many other file formats including." >}}
 

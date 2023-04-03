@@ -1,7 +1,7 @@
 ---
 title: Merge FODS to XLSM via Python 
 url: /python-java/merger/merge-fods-to-xlsm/ 
-description: Merge FODS to XLSM in Python. Merge FODS to XLSM via Python online for free. Combine FODS to XLSM using Python.
+description: Merge FODS to XLSM via Python online for free. Merge FODS to XLSM in Python. Combine FODS to XLSM using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -22,7 +22,7 @@ How to merge FODS to XLSM? With Aspose.Cells for Python library, you can easily 
 The following example demonstrates how to merge FODS to XLSM in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to merge FODS to XLSM. Upload your files, call Workbook.Combine method for merging files, and then save it to XLSM file. If you develop code in Python, this will be simpler than it sounds. See {{platform} example that merges FODS to XLSM.
+Follow the easy steps to merge FODS to XLSM. Upload your files, call Workbook.Combine method for merging files, and then save it to XLSM file. If you develop code in Python, this will be simpler than it sounds. See Python example that merges FODS to XLSM.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -76,21 +76,6 @@ Our APIs are supported on all major platforms and Operating Systems. Before exec
 
 {{% /blocks/products/pf/agp/content %}}
 
-<!-- aboutfile Starts -->
-
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="FODS" readMoreLink="https://docs.fileformat.com/spreadsheet/fods/" >}}
-A file with .fods extension is a type of OpenDocument Spreadsheet document format that stores data in rows and columns. The format is specified as part of ODF 1.2 specifications published and maintained by OASIS. FODS files cannot be opened with Excel, another Spreadsheet software application by Microsoft. FODS files can be saved as ODS using LibreOffice and can be converted to other formats such as XLS and XLSX.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}
-Files with XLSM extension is a type of Spreadsheet files that support Macros. From application point of view, a Macro is set of instructions that are used for automating processes. A macro is used to record the steps that are performed repeatedly and facilitates performing the actions by running the macro again. Macros are programmed with Microsoft’s Visual Basic for Applications (VBA) from within the Excel Workbook using the Visual Basic Editor and can be run/debug directly from there.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
-
-<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Merging Formats" subTitle="Using Python, One can also merge fods to many other file formats including." >}}
 

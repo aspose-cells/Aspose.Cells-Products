@@ -59,10 +59,7 @@ Inter-conversion of spreadsheet format only requires loading a spreadsheet with 
 
 {{% cells-convert title="Free App and Sample Code to Convert EXCEL to IMAGE, Change the output format for PNG, BMP, JPG and more." formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsx" outformat="png" IsLandingPage="true" language="python" %}}
  
-<!-- aboutfile Starts -->
 
-
-<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert EXCEL into many other file formats including few listed below." >}}
 

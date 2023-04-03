@@ -1,7 +1,7 @@
 ---
 title: Merge ODS to TSV via C# 
 url: /net/merger/merge-ods-to-tsv/ 
-description: Merge ODS to TSV in .NET. Merge ODS to TSV via .NET online for free. Combine ODS to TSV using VB.NET, Asp.NET or any .NET based application.
+description: Merge ODS to TSV via .NET online for free. Merge ODS to TSV in .NET. Combine ODS to TSV using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -31,7 +31,7 @@ PM> Install-Package Aspose.Cells
 The following example demonstrates how to merge ODS to TSV in C#.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to merge ODS to TSV. Upload your files, call Workbook.Combine method for merging files, and then save it to TSV file. If you develop code in C#, this will be simpler than it sounds. See {{platform} example that merges ODS to TSV.
+Follow the easy steps to merge ODS to TSV. Upload your files, call Workbook.Combine method for merging files, and then save it to TSV file. If you develop code in C#, this will be simpler than it sounds. See C# example that merges ODS to TSV.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -83,21 +83,6 @@ Our APIs are supported on all major platforms and Operating Systems. Before exec
 
 {{% /blocks/products/pf/agp/content %}}
 
-<!-- aboutfile Starts -->
-
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
-Files with .ods extension stand for OpenDocument Spreadsheet Document format that are editable by user. Data is stored inside ODF file into rows and columns. It is XML-based format and is one of the several subtypes in the Open Document Formats (ODF) family. The format is specified as part of the ODF 1.2 specifications published and maintained by OASIS. A number of applications on Windows as well as other operating systems can open ODS files for editing and manipulation including Microsoft Excel, NeoOffice and LibreOffice. ODS files can also be converted into other spreadsheet formats as well like XLS, XLSX and others by different applications.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TSV" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}
-A Tab-Separated Values (TSV) file format represents data separated with tabs in plain text format. The file format, similar to CSV, is used for organization of data in a structured manner in order to import and export between different applications. The format is primarily used for data import/export and exchange in Spreadsheet applications and databases. Each record in a TSV file is contained in a single line of text file where each field value is separated by a tab character. Media type for TSV file format is text/tab-separated-values.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
-
-<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Merging Formats" subTitle="Using C#, One can also merge ods to many other file formats including." >}}
 

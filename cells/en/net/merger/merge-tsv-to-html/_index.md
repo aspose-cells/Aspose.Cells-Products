@@ -1,7 +1,7 @@
 ---
 title: Merge TSV to HTML via C# 
 url: /net/merger/merge-tsv-to-html/ 
-description: Merge TSV to HTML in .NET. Merge TSV to HTML via .NET online for free. Combine TSV to HTML using VB.NET, Asp.NET or any .NET based application.
+description: Merge TSV to HTML via .NET online for free. Merge TSV to HTML in .NET. Combine TSV to HTML using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -31,7 +31,7 @@ PM> Install-Package Aspose.Cells
 The following example demonstrates how to merge TSV to HTML in C#.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to merge TSV to HTML. Upload your files, call Workbook.Combine method for merging files, and then save it to HTML file. If you develop code in C#, this will be simpler than it sounds. See {{platform} example that merges TSV to HTML.
+Follow the easy steps to merge TSV to HTML. Upload your files, call Workbook.Combine method for merging files, and then save it to HTML file. If you develop code in C#, this will be simpler than it sounds. See C# example that merges TSV to HTML.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -83,21 +83,6 @@ Our APIs are supported on all major platforms and Operating Systems. Before exec
 
 {{% /blocks/products/pf/agp/content %}}
 
-<!-- aboutfile Starts -->
-
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TSV" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}
-A Tab-Separated Values (TSV) file format represents data separated with tabs in plain text format. The file format, similar to CSV, is used for organization of data in a structured manner in order to import and export between different applications. The format is primarily used for data import/export and exchange in Spreadsheet applications and databases. Each record in a TSV file is contained in a single line of text file where each field value is separated by a tab character. Media type for TSV file format is text/tab-separated-values.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" >}}
-HTML (Hyper Text Markup Language) is the extension for web pages created for display in browsers. Known as language of the web, HTML has evolved with requirements of new information requirements to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from server, where these are hosted, or can be loaded from local system as well. Each HTML page is made up of HTML elements such as forms, text, images, animations, links, etc. These elements are represented by tags and several others where each tag has start and end. It can also embed applications written in scripting languages such as JavaScript and Style Sheets (CSS) for overall layout representation.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
-
-<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Merging Formats" subTitle="Using C#, One can also merge tsv to many other file formats including." >}}
 

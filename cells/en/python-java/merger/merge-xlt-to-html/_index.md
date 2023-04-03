@@ -1,7 +1,7 @@
 ---
 title: Merge XLT to HTML via Python 
 url: /python-java/merger/merge-xlt-to-html/ 
-description: Merge XLT to HTML in Python. Merge XLT to HTML via Python online for free. Combine XLT to HTML using Python.
+description: Merge XLT to HTML via Python online for free. Merge XLT to HTML in Python. Combine XLT to HTML using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -22,7 +22,7 @@ How to merge XLT to HTML? With Aspose.Cells for Python library, you can easily m
 The following example demonstrates how to merge XLT to HTML in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to merge XLT to HTML. Upload your files, call Workbook.Combine method for merging files, and then save it to HTML file. If you develop code in Python, this will be simpler than it sounds. See {{platform} example that merges XLT to HTML.
+Follow the easy steps to merge XLT to HTML. Upload your files, call Workbook.Combine method for merging files, and then save it to HTML file. If you develop code in Python, this will be simpler than it sounds. See Python example that merges XLT to HTML.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -76,21 +76,6 @@ Our APIs are supported on all major platforms and Operating Systems. Before exec
 
 {{% /blocks/products/pf/agp/content %}}
 
-<!-- aboutfile Starts -->
-
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="XLT" readMoreLink="https://docs.fileformat.com/spreadsheet/xlt/" >}}
-Files with .xlt extension are template files created with Microsoft Excel which is a spreadsheet application which comes as part of Microsoft Office suite. Microsoft Office 97-2003 supported creating new XLT files as well as opening these. The latest version of Excel is still capable of opening this old format template files. Such a template file is used to quickly create new Excel files with default data and settings such as page formatting, font size, margins, charts, etc which can be further saved as new .xls files.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" >}}
-HTML (Hyper Text Markup Language) is the extension for web pages created for display in browsers. Known as language of the web, HTML has evolved with requirements of new information requirements to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from server, where these are hosted, or can be loaded from local system as well. Each HTML page is made up of HTML elements such as forms, text, images, animations, links, etc. These elements are represented by tags and several others where each tag has start and end. It can also embed applications written in scripting languages such as JavaScript and Style Sheets (CSS) for overall layout representation.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
-
-<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Merging Formats" subTitle="Using Python, One can also merge xlt to many other file formats including." >}}
 

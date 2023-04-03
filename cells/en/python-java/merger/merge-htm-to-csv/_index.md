@@ -1,7 +1,7 @@
 ---
 title: Merge HTM to CSV via Python 
 url: /python-java/merger/merge-htm-to-csv/ 
-description: Merge HTM to CSV in Python. Merge HTM to CSV via Python online for free. Combine HTM to CSV using Python.
+description: Merge HTM to CSV via Python online for free. Merge HTM to CSV in Python. Combine HTM to CSV using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -22,7 +22,7 @@ How to merge HTM to CSV? With Aspose.Cells for Python library, you can easily me
 The following example demonstrates how to merge HTM to CSV in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to merge HTM to CSV. Upload your files, call Workbook.Combine method for merging files, and then save it to CSV file. If you develop code in Python, this will be simpler than it sounds. See {{platform} example that merges HTM to CSV.
+Follow the easy steps to merge HTM to CSV. Upload your files, call Workbook.Combine method for merging files, and then save it to CSV file. If you develop code in Python, this will be simpler than it sounds. See Python example that merges HTM to CSV.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -76,21 +76,6 @@ Our APIs are supported on all major platforms and Operating Systems. Before exec
 
 {{% /blocks/products/pf/agp/content %}}
 
-<!-- aboutfile Starts -->
-
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}
-Files with .htm extension represent Hypertext Markup Language for creating web pages for display in web browsers such as Google Chrome, Internet Explorer, Firefox and a number of others. It defines the markups for creating static pages to be published on World Wide Web (WWW) for access by others. These markups tell the browsers how to display a web page��s contents. Such pages can contain plain text, images, hyperlinks to other pages, videos and other media information. When a web page is published, you can have a look at the markup code behind it by viewing its page source. Modern browsers allow to inspect each section of a web page where each sub-division or markup element in the HTM source is elaborated.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CSV" readMoreLink="https://docs.fileformat.com/spreadsheet/csv/" >}}
-Files with .csv (Comma Separated Values) extension represent plain text files that contain records of data with comma separated values. Each line in a CSV file is a new record from the set of records contained in the file. Such files are generated when data transfer is intended from one storage system to another. Since all applications can recognize records separated by comma, import of such data files to database is done very conveniently. Almost all spreadsheet applications such as Microsoft Excel or OpenOffice Calc can import CSV without much effort. Data imported from such files is arranged in cells of a spreadsheet for representation to user.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
-
-<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Merging Formats" subTitle="Using Python, One can also merge htm to many other file formats including." >}}
 

@@ -1,7 +1,7 @@
 ---
 title: Merge XLSX to XLSM via C++ 
 url: /cpp/merger/merge-xlsx-to-xlsm/ 
-description: Merge XLSX to XLSM in C++. Merge XLSX to XLSM via C++ online for free. Combine XLSX to XLSM using C++.
+description: Merge XLSX to XLSM via C++ online for free. Merge XLSX to XLSM in C++. Combine XLSX to XLSM using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -31,7 +31,7 @@ PM> Install-Package Aspose.Cells.Cpp
 The following example demonstrates how to merge XLSX to XLSM in C++.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to merge XLSX to XLSM. Upload your files, call Workbook.Combine method for merging files, and then save it to XLSM file. If you develop code in C++, this will be simpler than it sounds. See {{platform} example that merges XLSX to XLSM.
+Follow the easy steps to merge XLSX to XLSM. Upload your files, call Workbook.Combine method for merging files, and then save it to XLSM file. If you develop code in C++, this will be simpler than it sounds. See C++ example that merges XLSX to XLSM.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -84,21 +84,6 @@ Our APIs are supported on all major platforms and Operating Systems. Before exec
 
 {{% /blocks/products/pf/agp/content %}}
 
-<!-- aboutfile Starts -->
-
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="XLSX" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}
-XLSX is well-known format for Microsoft Excel documents that was introduced by Microsoft with the release of Microsoft Office 2007. Based on structure organized according to the Open Packaging Conventions as outlined in Part 2 of the OOXML standard ECMA-376, the new format is a zip package that contains a number of XML files. The underlying structure and files can be examined by simply unzipping the .xlsx file.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}
-Files with XLSM extension is a type of Spreadsheet files that support Macros. From application point of view, a Macro is set of instructions that are used for automating processes. A macro is used to record the steps that are performed repeatedly and facilitates performing the actions by running the macro again. Macros are programmed with Microsoft’s Visual Basic for Applications (VBA) from within the Excel Workbook using the Visual Basic Editor and can be run/debug directly from there.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
-
-<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Merging Formats" subTitle="Using C++, One can also merge xlsx to many other file formats including." >}}
 

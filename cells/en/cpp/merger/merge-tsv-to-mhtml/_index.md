@@ -1,7 +1,7 @@
 ---
 title: Merge TSV to MHTML via C++ 
 url: /cpp/merger/merge-tsv-to-mhtml/ 
-description: Merge TSV to MHTML in C++. Merge TSV to MHTML via C++ online for free. Combine TSV to MHTML using C++.
+description: Merge TSV to MHTML via C++ online for free. Merge TSV to MHTML in C++. Combine TSV to MHTML using C++.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -31,7 +31,7 @@ PM> Install-Package Aspose.Cells.Cpp
 The following example demonstrates how to merge TSV to MHTML in C++.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to merge TSV to MHTML. Upload your files, call Workbook.Combine method for merging files, and then save it to MHTML file. If you develop code in C++, this will be simpler than it sounds. See {{platform} example that merges TSV to MHTML.
+Follow the easy steps to merge TSV to MHTML. Upload your files, call Workbook.Combine method for merging files, and then save it to MHTML file. If you develop code in C++, this will be simpler than it sounds. See C++ example that merges TSV to MHTML.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -84,21 +84,6 @@ Our APIs are supported on all major platforms and Operating Systems. Before exec
 
 {{% /blocks/products/pf/agp/content %}}
 
-<!-- aboutfile Starts -->
-
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TSV" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}
-A Tab-Separated Values (TSV) file format represents data separated with tabs in plain text format. The file format, similar to CSV, is used for organization of data in a structured manner in order to import and export between different applications. The format is primarily used for data import/export and exchange in Spreadsheet applications and databases. Each record in a TSV file is contained in a single line of text file where each field value is separated by a tab character. Media type for TSV file format is text/tab-separated-values.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="MHTML" readMoreLink="https://docs.fileformat.com/web/mhtml/" >}}
-Files with MHTML extension represent a web page archive format that can be created by a number of different applications. The format is known as archive format because it saves the web HTML code and associated resources in a single file. These resources include anything linked to the webpage such as images, applets, animations, audio files and so on. MHTML files can be opened in a variety of applications such as Internet Explorer and Microsoft Word. Microsoft Windows uses MHTML file format for recording scenarios of problems observed during the usage of any application on Windows that raises issues. The MHTML file format encodes the page contents similar to specifications defined in message/rfc822 which is plain text email related specifications.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
-
-<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Merging Formats" subTitle="Using C++, One can also merge tsv to many other file formats including." >}}
 

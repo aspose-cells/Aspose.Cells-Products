@@ -1,7 +1,7 @@
 ---
 title: Merge MHT to ODS via Python 
 url: /python-net/merger/merge-mht-to-ods/ 
-description: Merge MHT to ODS in Python. Merge MHT to ODS via Python online for free. Combine MHT to ODS using Python.
+description: Merge MHT to ODS via Python online for free. Merge MHT to ODS in Python. Combine MHT to ODS using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -22,7 +22,7 @@ How to merge MHT to ODS? With Aspose.Cells for Python library, you can easily me
 The following example demonstrates how to merge MHT to ODS in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to merge MHT to ODS. Upload your files, call Workbook.Combine method for merging files, and then save it to ODS file. If you develop code in Python, this will be simpler than it sounds. See {{platform} example that merges MHT to ODS.
+Follow the easy steps to merge MHT to ODS. Upload your files, call Workbook.Combine method for merging files, and then save it to ODS file. If you develop code in Python, this will be simpler than it sounds. See Python example that merges MHT to ODS.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -75,21 +75,6 @@ Our APIs are supported on all major platforms and Operating Systems. Before exec
 
 {{% /blocks/products/pf/agp/content %}}
 
-<!-- aboutfile Starts -->
-
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}
-A file with .mht extension is a MIME enabled archiving file format that contains different types of data into a single file. It can store data such as text, images, page styling in the form of CSS files, JavaScript, and other resources as embedded resources in it. MHT files, having MIME type message/rfc822, encapsulate all the contents of an HTML file as a single archive file for storing on archiving on storage devices. Software applications such as Microsoft Word lets you convert your WORD documents to MHT by exporting as MHT file. MHT files can be opened using popular browsers such as Microsoft Internet Explore and Google Chrome.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
-Files with .ods extension stand for OpenDocument Spreadsheet Document format that are editable by user. Data is stored inside ODF file into rows and columns. It is XML-based format and is one of the several subtypes in the Open Document Formats (ODF) family. The format is specified as part of the ODF 1.2 specifications published and maintained by OASIS. A number of applications on Windows as well as other operating systems can open ODS files for editing and manipulation including Microsoft Excel, NeoOffice and LibreOffice. ODS files can also be converted into other spreadsheet formats as well like XLS, XLSX and others by different applications.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
-
-<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Merging Formats" subTitle="Using Python, One can also merge mht to many other file formats including." >}}
 

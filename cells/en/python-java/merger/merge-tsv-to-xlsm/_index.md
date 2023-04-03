@@ -1,7 +1,7 @@
 ---
 title: Merge TSV to XLSM via Python 
 url: /python-java/merger/merge-tsv-to-xlsm/ 
-description: Merge TSV to XLSM in Python. Merge TSV to XLSM via Python online for free. Combine TSV to XLSM using Python.
+description: Merge TSV to XLSM via Python online for free. Merge TSV to XLSM in Python. Combine TSV to XLSM using Python.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -22,7 +22,7 @@ How to merge TSV to XLSM? With Aspose.Cells for Python library, you can easily m
 The following example demonstrates how to merge TSV to XLSM in Python.
 {{% blocks/products/pf/agp/text %}}
 
-Follow the easy steps to merge TSV to XLSM. Upload your files, call Workbook.Combine method for merging files, and then save it to XLSM file. If you develop code in Python, this will be simpler than it sounds. See {{platform} example that merges TSV to XLSM.
+Follow the easy steps to merge TSV to XLSM. Upload your files, call Workbook.Combine method for merging files, and then save it to XLSM file. If you develop code in Python, this will be simpler than it sounds. See Python example that merges TSV to XLSM.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -76,21 +76,6 @@ Our APIs are supported on all major platforms and Operating Systems. Before exec
 
 {{% /blocks/products/pf/agp/content %}}
 
-<!-- aboutfile Starts -->
-
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TSV" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}
-A Tab-Separated Values (TSV) file format represents data separated with tabs in plain text format. The file format, similar to CSV, is used for organization of data in a structured manner in order to import and export between different applications. The format is primarily used for data import/export and exchange in Spreadsheet applications and databases. Each record in a TSV file is contained in a single line of text file where each field value is separated by a tab character. Media type for TSV file format is text/tab-separated-values.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}
-Files with XLSM extension is a type of Spreadsheet files that support Macros. From application point of view, a Macro is set of instructions that are used for automating processes. A macro is used to record the steps that are performed repeatedly and facilitates performing the actions by running the macro again. Macros are programmed with Microsoft’s Visual Basic for Applications (VBA) from within the Excel Workbook using the Visual Basic Editor and can be run/debug directly from there.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
-    {{< /blocks/products/pf/agp/about-file-section >}}
-
-<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Merging Formats" subTitle="Using Python, One can also merge tsv to many other file formats including." >}}
 

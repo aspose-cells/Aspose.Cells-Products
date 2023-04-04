@@ -1,6 +1,6 @@
 ---
-title: Convert ODS to ET via C++
-description: Convert ODS to ET online for free. Convert ODS to ET. Convert ODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert ODS to ET C++
+description: Free Online ODS Converter. Convert ODS to ET Online for Free. Convert ODS to ET in C++ code. Convert ODS to ET using C++.
 keywords: Convert ODS, ODS Converter, ODS to PDF, ODS to Word, ODS to PPT, ODS to Image
 ---
 

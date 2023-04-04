@@ -1,7 +1,7 @@
 ---
 title: Merge JSON to TSV via Java 
 url: /java/merger/merge-json-to-tsv/ 
-description: Merge JSON to TSV via Java online for free. Merge JSON to TSV in Java. Combine JSON to TSV using Java based desktop or web application.
+description: Free Online JSON Merger. Merge JSON to TSV via Java online for free. Merge, Concatenate or Combine JSON to TSV Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

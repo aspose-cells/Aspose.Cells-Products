@@ -1,6 +1,6 @@
 ---
-title: Convert FODS to DOCX via Java 
-description: Convert FODS to DOCX online for free. Convert FODS to DOCX. Convert FODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert FODS to DOCX Java 
+description: Free Online FODS Converter. Convert FODS to DOCX Online for Free. Convert FODS to DOCX in Java code. Convert FODS to DOCX using Java.
 keywords: Convert FODS, FODS Converter, FODS to PDF, FODS to Word, FODS to PPT, FODS to Image
 ---
 

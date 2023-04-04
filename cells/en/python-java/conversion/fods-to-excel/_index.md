@@ -1,6 +1,6 @@
 ---
-title: Convert FODS to EXCEL via Python
-description: Convert FODS to EXCEL online for free. Convert FODS to EXCEL. Convert FODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert FODS to EXCEL Python via Python
+description: Free Online FODS Converter. Convert FODS to EXCEL Online for Free. Convert FODS to EXCEL in Python code. Convert FODS to EXCEL using Python.
 keywords: Convert FODS, FODS Converter, FODS to PDF, FODS to Word, FODS to PPT, FODS to Image
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Convert XLT to DIF via Python
-description: Convert XLT to DIF online for free. Convert XLT to DIF. Convert XLT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLT to DIF Python via Python
+description: Free Online XLT Converter. Convert XLT to DIF Online for Free. Convert XLT to DIF in Python code. Convert XLT to DIF using Python.
 keywords: Convert XLT, XLT Converter, XLT to PDF, XLT to Word, XLT to PPT, XLT to Image
 ---
 

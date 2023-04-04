@@ -1,6 +1,6 @@
 ---
-title: Convert HTML to ODS via Java 
-description: Convert HTML to ODS online for free. Convert HTML to ODS. Convert HTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert HTML to ODS Java 
+description: Free Online HTML Converter. Convert HTML to ODS Online for Free. Convert HTML to ODS in Java code. Convert HTML to ODS using Java.
 keywords: Convert HTML, HTML Converter, HTML to PDF, HTML to Word, HTML to PPT, HTML to Image
 ---
 

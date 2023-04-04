@@ -1,7 +1,7 @@
 ---
 title: Merge XLS to CSV via Java 
 url: /java/merger/merge-xls-to-csv/ 
-description: Merge XLS to CSV via Java online for free. Merge XLS to CSV in Java. Combine XLS to CSV using Java based desktop or web application.
+description: Free Online XLS Merger. Merge XLS to CSV via Java online for free. Merge, Concatenate or Combine XLS to CSV Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,6 +1,6 @@
 ---
-title: Convert FODS to DIF via Java 
-description: Convert FODS to DIF online for free. Convert FODS to DIF. Convert FODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert FODS to DIF Java 
+description: Free Online FODS Converter. Convert FODS to DIF Online for Free. Convert FODS to DIF in Java code. Convert FODS to DIF using Java.
 keywords: Convert FODS, FODS Converter, FODS to PDF, FODS to Word, FODS to PPT, FODS to Image
 ---
 

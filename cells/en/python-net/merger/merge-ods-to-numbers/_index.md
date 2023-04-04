@@ -1,7 +1,7 @@
 ---
 title: Merge ODS to NUMBERS via Python 
 url: /python-net/merger/merge-ods-to-numbers/ 
-description: Merge ODS to NUMBERS via Python online for free. Merge ODS to NUMBERS in Python. Combine ODS to NUMBERS using Python.
+description: Free Online ODS Merger. Merge ODS to NUMBERS via Python online for free. Merge, Concatenate or Combine ODS to NUMBERS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

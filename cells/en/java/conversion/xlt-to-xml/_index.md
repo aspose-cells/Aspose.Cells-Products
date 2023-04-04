@@ -1,6 +1,6 @@
 ---
-title: Convert XLT to XML via Java 
-description: Convert XLT to XML online for free. Convert XLT to XML. Convert XLT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLT to XML Java 
+description: Free Online XLT Converter. Convert XLT to XML Online for Free. Convert XLT to XML in Java code. Convert XLT to XML using Java.
 keywords: Convert XLT, XLT Converter, XLT to PDF, XLT to Word, XLT to PPT, XLT to Image
 ---
 

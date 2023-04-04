@@ -1,7 +1,7 @@
 ---
 title: Merge HTML to CSV via C++ 
 url: /cpp/merger/merge-html-to-csv/ 
-description: Merge HTML to CSV via C++ online for free. Merge HTML to CSV in C++. Combine HTML to CSV using C++.
+description: Free Online HTML Merger. Merge HTML to CSV via C++ online for free. Merge, Concatenate or Combine HTML to CSV Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

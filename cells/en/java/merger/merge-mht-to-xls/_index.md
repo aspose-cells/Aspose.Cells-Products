@@ -1,7 +1,7 @@
 ---
 title: Merge MHT to XLS via Java 
 url: /java/merger/merge-mht-to-xls/ 
-description: Merge MHT to XLS via Java online for free. Merge MHT to XLS in Java. Combine MHT to XLS using Java based desktop or web application.
+description: Free Online MHT Merger. Merge MHT to XLS via Java online for free. Merge, Concatenate or Combine MHT to XLS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

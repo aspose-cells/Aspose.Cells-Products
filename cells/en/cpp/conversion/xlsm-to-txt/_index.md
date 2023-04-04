@@ -1,6 +1,6 @@
 ---
-title: Convert XLSM to TXT via C++
-description: Convert XLSM to TXT online for free. Convert XLSM to TXT. Convert XLSM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLSM to TXT C++
+description: Free Online XLSM Converter. Convert XLSM to TXT Online for Free. Convert XLSM to TXT in C++ code. Convert XLSM to TXT using C++.
 keywords: Convert XLSM, XLSM Converter, XLSM to PDF, XLSM to Word, XLSM to PPT, XLSM to Image
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Merge FODS to MHTML via Python 
 url: /python-net/merger/merge-fods-to-mhtml/ 
-description: Merge FODS to MHTML via Python online for free. Merge FODS to MHTML in Python. Combine FODS to MHTML using Python.
+description: Free Online FODS Merger. Merge FODS to MHTML via Python online for free. Merge, Concatenate or Combine FODS to MHTML Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,6 +1,6 @@
 ---
-title: Convert JSON to WORD via Python
-description: Convert JSON to WORD online for free. Convert JSON to WORD. Convert JSON to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert JSON to WORD Python via Python
+description: Free Online JSON Converter. Convert JSON to WORD Online for Free. Convert JSON to WORD in Python code. Convert JSON to WORD using Python.
 keywords: Convert JSON, JSON Converter, JSON to PDF, JSON to Word, JSON to PPT, JSON to Image
 ---
 

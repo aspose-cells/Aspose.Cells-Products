@@ -1,6 +1,6 @@
 ---
-title: Convert PRN to XLTX via Java 
-description: Convert PRN to XLTX online for free. Convert PRN to XLTX. Convert PRN to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert PRN to XLTX Java 
+description: Free Online PRN Converter. Convert PRN to XLTX Online for Free. Convert PRN to XLTX in Java code. Convert PRN to XLTX using Java.
 keywords: Convert PRN, PRN Converter, PRN to PDF, PRN to Word, PRN to PPT, PRN to Image
 ---
 

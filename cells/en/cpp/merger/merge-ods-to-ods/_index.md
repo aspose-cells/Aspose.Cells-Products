@@ -1,7 +1,7 @@
 ---
 title: Merge ODS to ODS via C++ 
 url: /cpp/merger/merge-ods-to-ods/ 
-description: Merge ODS to ODS via C++ online for free. Merge ODS to ODS in C++. Combine ODS to ODS using C++.
+description: Free Online ODS Merger. Merge ODS to ODS via C++ online for free. Merge, Concatenate or Combine ODS to ODS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,6 +1,6 @@
 ---
-title: Convert HTML to TXT via Java 
-description: Convert HTML to TXT online for free. Convert HTML to TXT. Convert HTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert HTML to TXT Java 
+description: Free Online HTML Converter. Convert HTML to TXT Online for Free. Convert HTML to TXT in Java code. Convert HTML to TXT using Java.
 keywords: Convert HTML, HTML Converter, HTML to PDF, HTML to Word, HTML to PPT, HTML to Image
 ---
 

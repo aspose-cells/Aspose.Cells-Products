@@ -1,6 +1,6 @@
 ---
-title: Convert TXT to TSV via Python
-description: Convert TXT to TSV online for free. Convert TXT to TSV. Convert TXT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert TXT to TSV Python via Python
+description: Free Online TXT Converter. Convert TXT to TSV Online for Free. Convert TXT to TSV in Python code. Convert TXT to TSV using Python.
 keywords: Convert TXT, TXT Converter, TXT to PDF, TXT to Word, TXT to PPT, TXT to Image
 ---
 

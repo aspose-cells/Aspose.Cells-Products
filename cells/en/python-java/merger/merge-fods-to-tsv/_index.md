@@ -1,7 +1,7 @@
 ---
 title: Merge FODS to TSV via Python 
 url: /python-java/merger/merge-fods-to-tsv/ 
-description: Merge FODS to TSV via Python online for free. Merge FODS to TSV in Python. Combine FODS to TSV using Python.
+description: Free Online FODS Merger. Merge FODS to TSV via Python online for free. Merge, Concatenate or Combine FODS to TSV Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

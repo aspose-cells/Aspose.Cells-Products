@@ -1,7 +1,7 @@
 ---
 title: Merge NUMBERS to CSV via Python 
 url: /python-net/merger/merge-numbers-to-csv/ 
-description: Merge NUMBERS to CSV via Python online for free. Merge NUMBERS to CSV in Python. Combine NUMBERS to CSV using Python.
+description: Free Online NUMBERS Merger. Merge NUMBERS to CSV via Python online for free. Merge, Concatenate or Combine NUMBERS to CSV Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Merge FODS to XLSB via C# 
 url: /net/merger/merge-fods-to-xlsb/ 
-description: Merge FODS to XLSB via .NET online for free. Merge FODS to XLSB in .NET. Combine FODS to XLSB using VB.NET, Asp.NET or any .NET based application.
+description: Free Online FODS Merger. Merge FODS to XLSB via .NET online for free. Merge, Concatenate or Combine FODS to XLSB Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

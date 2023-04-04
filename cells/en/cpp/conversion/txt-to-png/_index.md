@@ -1,6 +1,6 @@
 ---
-title: Convert TXT to PNG via C++
-description: Convert TXT to PNG online for free. Convert TXT to PNG. Convert TXT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert TXT to PNG C++
+description: Free Online TXT Converter. Convert TXT to PNG Online for Free. Convert TXT to PNG in C++ code. Convert TXT to PNG using C++.
 keywords: Convert TXT, TXT Converter, TXT to PDF, TXT to Word, TXT to PPT, TXT to Image
 ---
 

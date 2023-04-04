@@ -1,6 +1,6 @@
 ---
-title: Convert PRN to PPTX via C++
-description: Convert PRN to PPTX online for free. Convert PRN to PPTX. Convert PRN to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert PRN to PPTX C++
+description: Free Online PRN Converter. Convert PRN to PPTX Online for Free. Convert PRN to PPTX in C++ code. Convert PRN to PPTX using C++.
 keywords: Convert PRN, PRN Converter, PRN to PDF, PRN to Word, PRN to PPT, PRN to Image
 ---
 

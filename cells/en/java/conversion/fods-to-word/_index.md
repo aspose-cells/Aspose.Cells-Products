@@ -1,6 +1,6 @@
 ---
-title: Convert FODS to WORD via Java 
-description: Convert FODS to WORD online for free. Convert FODS to WORD. Convert FODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert FODS to WORD Java 
+description: Free Online FODS Converter. Convert FODS to WORD Online for Free. Convert FODS to WORD in Java code. Convert FODS to WORD using Java.
 keywords: Convert FODS, FODS Converter, FODS to PDF, FODS to Word, FODS to PPT, FODS to Image
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Convert HTML to BMP via C++
-description: Convert HTML to BMP online for free. Convert HTML to BMP. Convert HTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert HTML to BMP C++
+description: Free Online HTML Converter. Convert HTML to BMP Online for Free. Convert HTML to BMP in C++ code. Convert HTML to BMP using C++.
 keywords: Convert HTML, HTML Converter, HTML to PDF, HTML to Word, HTML to PPT, HTML to Image
 ---
 

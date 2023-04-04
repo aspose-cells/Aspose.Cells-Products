@@ -1,7 +1,7 @@
 ---
 title: Merge NUMBERS to HTM via C# 
 url: /net/merger/merge-numbers-to-htm/ 
-description: Merge NUMBERS to HTM via .NET online for free. Merge NUMBERS to HTM in .NET. Combine NUMBERS to HTM using VB.NET, Asp.NET or any .NET based application.
+description: Free Online NUMBERS Merger. Merge NUMBERS to HTM via .NET online for free. Merge, Concatenate or Combine NUMBERS to HTM Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

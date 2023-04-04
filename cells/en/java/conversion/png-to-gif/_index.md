@@ -1,6 +1,6 @@
 ---
-title: Convert PNG to GIF via Java 
-description: Convert PNG to GIF online for free. Convert PNG to GIF. Convert PNG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert PNG to GIF Java 
+description: Free Online PNG Converter. Convert PNG to GIF Online for Free. Convert PNG to GIF in Java code. Convert PNG to GIF using Java.
 keywords: Convert PNG, PNG Converter, PNG to PDF, PNG to Word, PNG to PPT, PNG to Image
 ---
 

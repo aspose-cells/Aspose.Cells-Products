@@ -1,7 +1,7 @@
 ---
 title: Merge XLSB to XLSM via Python 
 url: /python-java/merger/merge-xlsb-to-xlsm/ 
-description: Merge XLSB to XLSM via Python online for free. Merge XLSB to XLSM in Python. Combine XLSB to XLSM using Python.
+description: Free Online XLSB Merger. Merge XLSB to XLSM via Python online for free. Merge, Concatenate or Combine XLSB to XLSM Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

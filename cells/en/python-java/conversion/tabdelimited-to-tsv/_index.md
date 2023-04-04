@@ -1,6 +1,6 @@
 ---
-title: Convert TABDELIMITED to TSV via Python
-description: Convert TABDELIMITED to TSV online for free. Convert TABDELIMITED to TSV. Convert TABDELIMITED to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert TABDELIMITED to TSV Python via Python
+description: Free Online TABDELIMITED Converter. Convert TABDELIMITED to TSV Online for Free. Convert TABDELIMITED to TSV in Python code. Convert TABDELIMITED to TSV using Python.
 keywords: Convert TABDELIMITED, TABDELIMITED Converter, TABDELIMITED to PDF, TABDELIMITED to Word, TABDELIMITED to PPT, TABDELIMITED to Image
 ---
 

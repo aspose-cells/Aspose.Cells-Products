@@ -1,7 +1,7 @@
 ---
 title: Merge XLTM to MHT via Java 
 url: /java/merger/merge-xltm-to-mht/ 
-description: Merge XLTM to MHT via Java online for free. Merge XLTM to MHT in Java. Combine XLTM to MHT using Java based desktop or web application.
+description: Free Online XLTM Merger. Merge XLTM to MHT via Java online for free. Merge, Concatenate or Combine XLTM to MHT Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

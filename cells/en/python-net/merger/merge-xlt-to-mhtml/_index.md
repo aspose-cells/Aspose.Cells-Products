@@ -1,7 +1,7 @@
 ---
 title: Merge XLT to MHTML via Python 
 url: /python-net/merger/merge-xlt-to-mhtml/ 
-description: Merge XLT to MHTML via Python online for free. Merge XLT to MHTML in Python. Combine XLT to MHTML using Python.
+description: Free Online XLT Merger. Merge XLT to MHTML via Python online for free. Merge, Concatenate or Combine XLT to MHTML Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

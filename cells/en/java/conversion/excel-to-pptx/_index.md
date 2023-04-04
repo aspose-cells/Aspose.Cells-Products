@@ -1,6 +1,6 @@
 ---
-title: Convert EXCEL to PPTX via Java 
-description: Convert EXCEL to PPTX online for free. Convert EXCEL to PPTX. Convert EXCEL to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert EXCEL to PPTX Java 
+description: Free Online EXCEL Converter. Convert EXCEL to PPTX Online for Free. Convert EXCEL to PPTX in Java code. Convert EXCEL to PPTX using Java.
 keywords: Convert EXCEL, EXCEL Converter, EXCEL to PDF, EXCEL to Word, EXCEL to PPT, EXCEL to Image
 ---
 

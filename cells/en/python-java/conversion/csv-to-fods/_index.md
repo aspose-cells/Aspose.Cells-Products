@@ -1,6 +1,6 @@
 ---
-title: Convert CSV to FODS via Python
-description: Convert CSV to FODS online for free. Convert CSV to FODS. Convert CSV to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert CSV to FODS Python via Python
+description: Free Online CSV Converter. Convert CSV to FODS Online for Free. Convert CSV to FODS in Python code. Convert CSV to FODS using Python.
 keywords: Convert CSV, CSV Converter, CSV to PDF, CSV to Word, CSV to PPT, CSV to Image
 ---
 

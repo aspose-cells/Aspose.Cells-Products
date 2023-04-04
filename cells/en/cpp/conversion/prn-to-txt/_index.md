@@ -1,6 +1,6 @@
 ---
-title: Convert PRN to TXT via C++
-description: Convert PRN to TXT online for free. Convert PRN to TXT. Convert PRN to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert PRN to TXT C++
+description: Free Online PRN Converter. Convert PRN to TXT Online for Free. Convert PRN to TXT in C++ code. Convert PRN to TXT using C++.
 keywords: Convert PRN, PRN Converter, PRN to PDF, PRN to Word, PRN to PPT, PRN to Image
 ---
 

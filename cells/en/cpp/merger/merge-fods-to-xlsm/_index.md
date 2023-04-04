@@ -1,7 +1,7 @@
 ---
 title: Merge FODS to XLSM via C++ 
 url: /cpp/merger/merge-fods-to-xlsm/ 
-description: Merge FODS to XLSM via C++ online for free. Merge FODS to XLSM in C++. Combine FODS to XLSM using C++.
+description: Free Online FODS Merger. Merge FODS to XLSM via C++ online for free. Merge, Concatenate or Combine FODS to XLSM Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

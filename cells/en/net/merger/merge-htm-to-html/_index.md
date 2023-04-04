@@ -1,7 +1,7 @@
 ---
 title: Merge HTM to HTML via C# 
 url: /net/merger/merge-htm-to-html/ 
-description: Merge HTM to HTML via .NET online for free. Merge HTM to HTML in .NET. Combine HTM to HTML using VB.NET, Asp.NET or any .NET based application.
+description: Free Online HTM Merger. Merge HTM to HTML via .NET online for free. Merge, Concatenate or Combine HTM to HTML Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,6 +1,6 @@
 ---
-title: Convert XLSX to ETT via Java 
-description: Convert XLSX to ETT online for free. Convert XLSX to ETT. Convert XLSX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLSX to ETT Java 
+description: Free Online XLSX Converter. Convert XLSX to ETT Online for Free. Convert XLSX to ETT in Java code. Convert XLSX to ETT using Java.
 keywords: Convert XLSX, XLSX Converter, XLSX to PDF, XLSX to Word, XLSX to PPT, XLSX to Image
 ---
 

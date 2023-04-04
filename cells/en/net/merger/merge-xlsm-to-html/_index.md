@@ -1,7 +1,7 @@
 ---
 title: Merge XLSM to HTML via C# 
 url: /net/merger/merge-xlsm-to-html/ 
-description: Merge XLSM to HTML via .NET online for free. Merge XLSM to HTML in .NET. Combine XLSM to HTML using VB.NET, Asp.NET or any .NET based application.
+description: Free Online XLSM Merger. Merge XLSM to HTML via .NET online for free. Merge, Concatenate or Combine XLSM to HTML Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

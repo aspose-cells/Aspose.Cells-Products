@@ -1,6 +1,6 @@
 ---
-title: Convert JPEG to XML via Java 
-description: Convert JPEG to XML online for free. Convert JPEG to XML. Convert JPEG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert JPEG to XML Java 
+description: Free Online JPEG Converter. Convert JPEG to XML Online for Free. Convert JPEG to XML in Java code. Convert JPEG to XML using Java.
 keywords: Convert JPEG, JPEG Converter, JPEG to PDF, JPEG to Word, JPEG to PPT, JPEG to Image
 ---
 

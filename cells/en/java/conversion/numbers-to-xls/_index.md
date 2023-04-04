@@ -1,6 +1,6 @@
 ---
-title: Convert NUMBERS to XLS via Java 
-description: Convert NUMBERS to XLS online for free. Convert NUMBERS to XLS. Convert NUMBERS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert NUMBERS to XLS Java 
+description: Free Online NUMBERS Converter. Convert NUMBERS to XLS Online for Free. Convert NUMBERS to XLS in Java code. Convert NUMBERS to XLS using Java.
 keywords: Convert NUMBERS, NUMBERS Converter, NUMBERS to PDF, NUMBERS to Word, NUMBERS to PPT, NUMBERS to Image
 ---
 

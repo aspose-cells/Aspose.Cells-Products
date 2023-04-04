@@ -1,7 +1,7 @@
 ---
 title: Merge JSON to HTM via C# 
 url: /net/merger/merge-json-to-htm/ 
-description: Merge JSON to HTM via .NET online for free. Merge JSON to HTM in .NET. Combine JSON to HTM using VB.NET, Asp.NET or any .NET based application.
+description: Free Online JSON Merger. Merge JSON to HTM via .NET online for free. Merge, Concatenate or Combine JSON to HTM Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

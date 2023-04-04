@@ -1,7 +1,7 @@
 ---
 title: Merge JSON to HTML via C++ 
 url: /cpp/merger/merge-json-to-html/ 
-description: Merge JSON to HTML via C++ online for free. Merge JSON to HTML in C++. Combine JSON to HTML using C++.
+description: Free Online JSON Merger. Merge JSON to HTML via C++ online for free. Merge, Concatenate or Combine JSON to HTML Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

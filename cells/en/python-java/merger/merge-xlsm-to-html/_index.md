@@ -1,7 +1,7 @@
 ---
 title: Merge XLSM to HTML via Python 
 url: /python-java/merger/merge-xlsm-to-html/ 
-description: Merge XLSM to HTML via Python online for free. Merge XLSM to HTML in Python. Combine XLSM to HTML using Python.
+description: Free Online XLSM Merger. Merge XLSM to HTML via Python online for free. Merge, Concatenate or Combine XLSM to HTML Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

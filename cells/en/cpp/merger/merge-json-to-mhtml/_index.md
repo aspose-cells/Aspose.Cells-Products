@@ -1,7 +1,7 @@
 ---
 title: Merge JSON to MHTML via C++ 
 url: /cpp/merger/merge-json-to-mhtml/ 
-description: Merge JSON to MHTML via C++ online for free. Merge JSON to MHTML in C++. Combine JSON to MHTML using C++.
+description: Free Online JSON Merger. Merge JSON to MHTML via C++ online for free. Merge, Concatenate or Combine JSON to MHTML Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Merge MHT to MHT via C# 
 url: /net/merger/merge-mht-to-mht/ 
-description: Merge MHT to MHT via .NET online for free. Merge MHT to MHT in .NET. Combine MHT to MHT using VB.NET, Asp.NET or any .NET based application.
+description: Free Online MHT Merger. Merge MHT to MHT via .NET online for free. Merge, Concatenate or Combine MHT to MHT Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,6 +1,6 @@
 ---
-title: Convert PRN to SVG via Java 
-description: Convert PRN to SVG online for free. Convert PRN to SVG. Convert PRN to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert PRN to SVG Java 
+description: Free Online PRN Converter. Convert PRN to SVG Online for Free. Convert PRN to SVG in Java code. Convert PRN to SVG using Java.
 keywords: Convert PRN, PRN Converter, PRN to PDF, PRN to Word, PRN to PPT, PRN to Image
 ---
 

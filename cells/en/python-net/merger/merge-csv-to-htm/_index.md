@@ -1,7 +1,7 @@
 ---
 title: Merge CSV to HTM via Python 
 url: /python-net/merger/merge-csv-to-htm/ 
-description: Merge CSV to HTM via Python online for free. Merge CSV to HTM in Python. Combine CSV to HTM using Python.
+description: Free Online CSV Merger. Merge CSV to HTM via Python online for free. Merge, Concatenate or Combine CSV to HTM Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

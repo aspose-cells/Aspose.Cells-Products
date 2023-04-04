@@ -1,6 +1,6 @@
 ---
-title: Convert SXC to GIF via Java 
-description: Convert SXC to GIF online for free. Convert SXC to GIF. Convert SXC to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert SXC to GIF Java 
+description: Free Online SXC Converter. Convert SXC to GIF Online for Free. Convert SXC to GIF in Java code. Convert SXC to GIF using Java.
 keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC to Image
 ---
 

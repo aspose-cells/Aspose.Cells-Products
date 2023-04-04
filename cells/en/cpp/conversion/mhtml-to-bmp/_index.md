@@ -1,6 +1,6 @@
 ---
-title: Convert MHTML to BMP via C++
-description: Convert MHTML to BMP online for free. Convert MHTML to BMP. Convert MHTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert MHTML to BMP C++
+description: Free Online MHTML Converter. Convert MHTML to BMP Online for Free. Convert MHTML to BMP in C++ code. Convert MHTML to BMP using C++.
 keywords: Convert MHTML, MHTML Converter, MHTML to PDF, MHTML to Word, MHTML to PPT, MHTML to Image
 ---
 

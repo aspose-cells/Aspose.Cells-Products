@@ -1,6 +1,6 @@
 ---
-title: Convert NUMBERS to XLAM via Python
-description: Convert NUMBERS to XLAM online for free. Convert NUMBERS to XLAM. Convert NUMBERS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert NUMBERS to XLAM Python via Python
+description: Free Online NUMBERS Converter. Convert NUMBERS to XLAM Online for Free. Convert NUMBERS to XLAM in Python code. Convert NUMBERS to XLAM using Python.
 keywords: Convert NUMBERS, NUMBERS Converter, NUMBERS to PDF, NUMBERS to Word, NUMBERS to PPT, NUMBERS to Image
 ---
 

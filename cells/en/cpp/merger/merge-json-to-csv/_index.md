@@ -1,7 +1,7 @@
 ---
 title: Merge JSON to CSV via C++ 
 url: /cpp/merger/merge-json-to-csv/ 
-description: Merge JSON to CSV via C++ online for free. Merge JSON to CSV in C++. Combine JSON to CSV using C++.
+description: Free Online JSON Merger. Merge JSON to CSV via C++ online for free. Merge, Concatenate or Combine JSON to CSV Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

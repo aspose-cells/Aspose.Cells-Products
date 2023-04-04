@@ -1,7 +1,7 @@
 ---
 title: Merge XLSM to XLSX via Java 
 url: /java/merger/merge-xlsm-to-xlsx/ 
-description: Merge XLSM to XLSX via Java online for free. Merge XLSM to XLSX in Java. Combine XLSM to XLSX using Java based desktop or web application.
+description: Free Online XLSM Merger. Merge XLSM to XLSX via Java online for free. Merge, Concatenate or Combine XLSM to XLSX Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

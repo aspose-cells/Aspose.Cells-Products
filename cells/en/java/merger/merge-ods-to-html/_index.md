@@ -1,7 +1,7 @@
 ---
 title: Merge ODS to HTML via Java 
 url: /java/merger/merge-ods-to-html/ 
-description: Merge ODS to HTML via Java online for free. Merge ODS to HTML in Java. Combine ODS to HTML using Java based desktop or web application.
+description: Free Online ODS Merger. Merge ODS to HTML via Java online for free. Merge, Concatenate or Combine ODS to HTML Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

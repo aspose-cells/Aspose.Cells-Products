@@ -1,6 +1,6 @@
 ---
-title: Convert JPEG to XLS via Java 
-description: Convert JPEG to XLS online for free. Convert JPEG to XLS. Convert JPEG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert JPEG to XLS Java 
+description: Free Online JPEG Converter. Convert JPEG to XLS Online for Free. Convert JPEG to XLS in Java code. Convert JPEG to XLS using Java.
 keywords: Convert JPEG, JPEG Converter, JPEG to PDF, JPEG to Word, JPEG to PPT, JPEG to Image
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Merge NUMBERS to MHTML via C++ 
 url: /cpp/merger/merge-numbers-to-mhtml/ 
-description: Merge NUMBERS to MHTML via C++ online for free. Merge NUMBERS to MHTML in C++. Combine NUMBERS to MHTML using C++.
+description: Free Online NUMBERS Merger. Merge NUMBERS to MHTML via C++ online for free. Merge, Concatenate or Combine NUMBERS to MHTML Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,6 +1,6 @@
 ---
-title: Convert JPEG to DOCX via Java 
-description: Convert JPEG to DOCX online for free. Convert JPEG to DOCX. Convert JPEG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert JPEG to DOCX Java 
+description: Free Online JPEG Converter. Convert JPEG to DOCX Online for Free. Convert JPEG to DOCX in Java code. Convert JPEG to DOCX using Java.
 keywords: Convert JPEG, JPEG Converter, JPEG to PDF, JPEG to Word, JPEG to PPT, JPEG to Image
 ---
 

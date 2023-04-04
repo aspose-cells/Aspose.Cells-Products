@@ -1,6 +1,6 @@
 ---
-title: Convert ODS to FODS via Java 
-description: Convert ODS to FODS online for free. Convert ODS to FODS. Convert ODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert ODS to FODS Java 
+description: Free Online ODS Converter. Convert ODS to FODS Online for Free. Convert ODS to FODS in Java code. Convert ODS to FODS using Java.
 keywords: Convert ODS, ODS Converter, ODS to PDF, ODS to Word, ODS to PPT, ODS to Image
 ---
 

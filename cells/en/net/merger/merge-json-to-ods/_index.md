@@ -1,7 +1,7 @@
 ---
 title: Merge JSON to ODS via C# 
 url: /net/merger/merge-json-to-ods/ 
-description: Merge JSON to ODS via .NET online for free. Merge JSON to ODS in .NET. Combine JSON to ODS using VB.NET, Asp.NET or any .NET based application.
+description: Free Online JSON Merger. Merge JSON to ODS via .NET online for free. Merge, Concatenate or Combine JSON to ODS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

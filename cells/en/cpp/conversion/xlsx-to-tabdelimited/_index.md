@@ -1,6 +1,6 @@
 ---
-title: Convert XLSX to TABDELIMITED via C++
-description: Convert XLSX to TABDELIMITED online for free. Convert XLSX to TABDELIMITED. Convert XLSX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLSX to TABDELIMITED C++
+description: Free Online XLSX Converter. Convert XLSX to TABDELIMITED Online for Free. Convert XLSX to TABDELIMITED in C++ code. Convert XLSX to TABDELIMITED using C++.
 keywords: Convert XLSX, XLSX Converter, XLSX to PDF, XLSX to Word, XLSX to PPT, XLSX to Image
 ---
 

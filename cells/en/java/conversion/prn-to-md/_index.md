@@ -1,6 +1,6 @@
 ---
-title: Convert PRN to MD via Java 
-description: Convert PRN to MD online for free. Convert PRN to MD. Convert PRN to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert PRN to MD Java 
+description: Free Online PRN Converter. Convert PRN to MD Online for Free. Convert PRN to MD in Java code. Convert PRN to MD using Java.
 keywords: Convert PRN, PRN Converter, PRN to PDF, PRN to Word, PRN to PPT, PRN to Image
 ---
 

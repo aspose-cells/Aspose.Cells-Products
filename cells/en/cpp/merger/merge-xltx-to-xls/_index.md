@@ -1,7 +1,7 @@
 ---
 title: Merge XLTX to XLS via C++ 
 url: /cpp/merger/merge-xltx-to-xls/ 
-description: Merge XLTX to XLS via C++ online for free. Merge XLTX to XLS in C++. Combine XLTX to XLS using C++.
+description: Free Online XLTX Merger. Merge XLTX to XLS via C++ online for free. Merge, Concatenate or Combine XLTX to XLS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

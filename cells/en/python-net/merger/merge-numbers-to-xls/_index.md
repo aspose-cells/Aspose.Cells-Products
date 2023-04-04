@@ -1,7 +1,7 @@
 ---
 title: Merge NUMBERS to XLS via Python 
 url: /python-net/merger/merge-numbers-to-xls/ 
-description: Merge NUMBERS to XLS via Python online for free. Merge NUMBERS to XLS in Python. Combine NUMBERS to XLS using Python.
+description: Free Online NUMBERS Merger. Merge NUMBERS to XLS via Python online for free. Merge, Concatenate or Combine NUMBERS to XLS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

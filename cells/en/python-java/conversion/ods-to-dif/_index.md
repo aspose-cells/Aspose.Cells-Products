@@ -1,6 +1,6 @@
 ---
-title: Convert ODS to DIF via Python
-description: Convert ODS to DIF online for free. Convert ODS to DIF. Convert ODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert ODS to DIF Python via Python
+description: Free Online ODS Converter. Convert ODS to DIF Online for Free. Convert ODS to DIF in Python code. Convert ODS to DIF using Python.
 keywords: Convert ODS, ODS Converter, ODS to PDF, ODS to Word, ODS to PPT, ODS to Image
 ---
 

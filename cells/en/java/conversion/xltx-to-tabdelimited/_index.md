@@ -1,6 +1,6 @@
 ---
-title: Convert XLTX to TABDELIMITED via Java 
-description: Convert XLTX to TABDELIMITED online for free. Convert XLTX to TABDELIMITED. Convert XLTX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLTX to TABDELIMITED Java 
+description: Free Online XLTX Converter. Convert XLTX to TABDELIMITED Online for Free. Convert XLTX to TABDELIMITED in Java code. Convert XLTX to TABDELIMITED using Java.
 keywords: Convert XLTX, XLTX Converter, XLTX to PDF, XLTX to Word, XLTX to PPT, XLTX to Image
 ---
 

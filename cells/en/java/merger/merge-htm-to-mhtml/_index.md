@@ -1,7 +1,7 @@
 ---
 title: Merge HTM to MHTML via Java 
 url: /java/merger/merge-htm-to-mhtml/ 
-description: Merge HTM to MHTML via Java online for free. Merge HTM to MHTML in Java. Combine HTM to MHTML using Java based desktop or web application.
+description: Free Online HTM Merger. Merge HTM to MHTML via Java online for free. Merge, Concatenate or Combine HTM to MHTML Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Merge XLT to ODS via C# 
 url: /net/merger/merge-xlt-to-ods/ 
-description: Merge XLT to ODS via .NET online for free. Merge XLT to ODS in .NET. Combine XLT to ODS using VB.NET, Asp.NET or any .NET based application.
+description: Free Online XLT Merger. Merge XLT to ODS via .NET online for free. Merge, Concatenate or Combine XLT to ODS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

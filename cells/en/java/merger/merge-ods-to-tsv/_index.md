@@ -1,7 +1,7 @@
 ---
 title: Merge ODS to TSV via Java 
 url: /java/merger/merge-ods-to-tsv/ 
-description: Merge ODS to TSV via Java online for free. Merge ODS to TSV in Java. Combine ODS to TSV using Java based desktop or web application.
+description: Free Online ODS Merger. Merge ODS to TSV via Java online for free. Merge, Concatenate or Combine ODS to TSV Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Merge XLS to XLS via C++ 
 url: /cpp/merger/merge-xls-to-xls/ 
-description: Merge XLS to XLS via C++ online for free. Merge XLS to XLS in C++. Combine XLS to XLS using C++.
+description: Free Online XLS Merger. Merge XLS to XLS via C++ online for free. Merge, Concatenate or Combine XLS to XLS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

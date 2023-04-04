@@ -1,6 +1,6 @@
 ---
-title: Convert XLT to EXCEL via C++
-description: Convert XLT to EXCEL online for free. Convert XLT to EXCEL. Convert XLT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLT to EXCEL C++
+description: Free Online XLT Converter. Convert XLT to EXCEL Online for Free. Convert XLT to EXCEL in C++ code. Convert XLT to EXCEL using C++.
 keywords: Convert XLT, XLT Converter, XLT to PDF, XLT to Word, XLT to PPT, XLT to Image
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Merge XLTM to NUMBERS via Python 
 url: /python-net/merger/merge-xltm-to-numbers/ 
-description: Merge XLTM to NUMBERS via Python online for free. Merge XLTM to NUMBERS in Python. Combine XLTM to NUMBERS using Python.
+description: Free Online XLTM Merger. Merge XLTM to NUMBERS via Python online for free. Merge, Concatenate or Combine XLTM to NUMBERS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,6 +1,6 @@
 ---
-title: Convert MHTML to CSV via C++
-description: Convert MHTML to CSV online for free. Convert MHTML to CSV. Convert MHTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert MHTML to CSV C++
+description: Free Online MHTML Converter. Convert MHTML to CSV Online for Free. Convert MHTML to CSV in C++ code. Convert MHTML to CSV using C++.
 keywords: Convert MHTML, MHTML Converter, MHTML to PDF, MHTML to Word, MHTML to PPT, MHTML to Image
 ---
 

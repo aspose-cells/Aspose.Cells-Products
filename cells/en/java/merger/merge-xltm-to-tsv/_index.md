@@ -1,7 +1,7 @@
 ---
 title: Merge XLTM to TSV via Java 
 url: /java/merger/merge-xltm-to-tsv/ 
-description: Merge XLTM to TSV via Java online for free. Merge XLTM to TSV in Java. Combine XLTM to TSV using Java based desktop or web application.
+description: Free Online XLTM Merger. Merge XLTM to TSV via Java online for free. Merge, Concatenate or Combine XLTM to TSV Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

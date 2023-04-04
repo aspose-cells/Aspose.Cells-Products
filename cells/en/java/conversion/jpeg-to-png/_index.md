@@ -1,6 +1,6 @@
 ---
-title: Convert JPEG to PNG via Java 
-description: Convert JPEG to PNG online for free. Convert JPEG to PNG. Convert JPEG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert JPEG to PNG Java 
+description: Free Online JPEG Converter. Convert JPEG to PNG Online for Free. Convert JPEG to PNG in Java code. Convert JPEG to PNG using Java.
 keywords: Convert JPEG, JPEG Converter, JPEG to PDF, JPEG to Word, JPEG to PPT, JPEG to Image
 ---
 

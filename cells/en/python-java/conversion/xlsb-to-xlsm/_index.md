@@ -1,6 +1,6 @@
 ---
-title: Convert XLSB to XLSM via Python
-description: Convert XLSB to XLSM online for free. Convert XLSB to XLSM. Convert XLSB to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLSB to XLSM Python via Python
+description: Free Online XLSB Converter. Convert XLSB to XLSM Online for Free. Convert XLSB to XLSM in Python code. Convert XLSB to XLSM using Python.
 keywords: Convert XLSB, XLSB Converter, XLSB to PDF, XLSB to Word, XLSB to PPT, XLSB to Image
 ---
 

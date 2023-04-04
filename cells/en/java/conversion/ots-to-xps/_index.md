@@ -1,6 +1,6 @@
 ---
-title: Convert OTS to XPS via Java 
-description: Convert OTS to XPS online for free. Convert OTS to XPS. Convert OTS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert OTS to XPS Java 
+description: Free Online OTS Converter. Convert OTS to XPS Online for Free. Convert OTS to XPS in Java code. Convert OTS to XPS using Java.
 keywords: Convert OTS, OTS Converter, OTS to PDF, OTS to Word, OTS to PPT, OTS to Image
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Convert XLSX to OTS via Java 
-description: Convert XLSX to OTS online for free. Convert XLSX to OTS. Convert XLSX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLSX to OTS Java 
+description: Free Online XLSX Converter. Convert XLSX to OTS Online for Free. Convert XLSX to OTS in Java code. Convert XLSX to OTS using Java.
 keywords: Convert XLSX, XLSX Converter, XLSX to PDF, XLSX to Word, XLSX to PPT, XLSX to Image
 ---
 

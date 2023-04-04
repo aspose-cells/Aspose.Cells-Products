@@ -1,6 +1,6 @@
 ---
-title: Convert XLSB to TIFF via Python
-description: Convert XLSB to TIFF online for free. Convert XLSB to TIFF. Convert XLSB to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLSB to TIFF Python via Python
+description: Free Online XLSB Converter. Convert XLSB to TIFF Online for Free. Convert XLSB to TIFF in Python code. Convert XLSB to TIFF using Python.
 keywords: Convert XLSB, XLSB Converter, XLSB to PDF, XLSB to Word, XLSB to PPT, XLSB to Image
 ---
 

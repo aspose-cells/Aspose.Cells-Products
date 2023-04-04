@@ -1,6 +1,6 @@
 ---
-title: Convert ODS to XLSB via C++
-description: Convert ODS to XLSB online for free. Convert ODS to XLSB. Convert ODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert ODS to XLSB C++
+description: Free Online ODS Converter. Convert ODS to XLSB Online for Free. Convert ODS to XLSB in C++ code. Convert ODS to XLSB using C++.
 keywords: Convert ODS, ODS Converter, ODS to PDF, ODS to Word, ODS to PPT, ODS to Image
 ---
 

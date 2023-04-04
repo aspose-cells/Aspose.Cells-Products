@@ -1,6 +1,6 @@
 ---
-title: Convert NUMBERS to XLT via Java 
-description: Convert NUMBERS to XLT online for free. Convert NUMBERS to XLT. Convert NUMBERS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert NUMBERS to XLT Java 
+description: Free Online NUMBERS Converter. Convert NUMBERS to XLT Online for Free. Convert NUMBERS to XLT in Java code. Convert NUMBERS to XLT using Java.
 keywords: Convert NUMBERS, NUMBERS Converter, NUMBERS to PDF, NUMBERS to Word, NUMBERS to PPT, NUMBERS to Image
 ---
 

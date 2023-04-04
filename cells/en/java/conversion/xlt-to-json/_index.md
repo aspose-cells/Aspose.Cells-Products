@@ -1,6 +1,6 @@
 ---
-title: Convert XLT to JSON via Java 
-description: Convert XLT to JSON online for free. Convert XLT to JSON. Convert XLT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLT to JSON Java 
+description: Free Online XLT Converter. Convert XLT to JSON Online for Free. Convert XLT to JSON in Java code. Convert XLT to JSON using Java.
 keywords: Convert XLT, XLT Converter, XLT to PDF, XLT to Word, XLT to PPT, XLT to Image
 ---
 

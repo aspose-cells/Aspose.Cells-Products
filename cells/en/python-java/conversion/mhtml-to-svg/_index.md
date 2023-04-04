@@ -1,6 +1,6 @@
 ---
-title: Convert MHTML to SVG via Python
-description: Convert MHTML to SVG online for free. Convert MHTML to SVG. Convert MHTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert MHTML to SVG Python via Python
+description: Free Online MHTML Converter. Convert MHTML to SVG Online for Free. Convert MHTML to SVG in Python code. Convert MHTML to SVG using Python.
 keywords: Convert MHTML, MHTML Converter, MHTML to PDF, MHTML to Word, MHTML to PPT, MHTML to Image
 ---
 

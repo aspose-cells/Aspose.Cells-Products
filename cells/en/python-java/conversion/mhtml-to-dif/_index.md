@@ -1,6 +1,6 @@
 ---
-title: Convert MHTML to DIF via Python
-description: Convert MHTML to DIF online for free. Convert MHTML to DIF. Convert MHTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert MHTML to DIF Python via Python
+description: Free Online MHTML Converter. Convert MHTML to DIF Online for Free. Convert MHTML to DIF in Python code. Convert MHTML to DIF using Python.
 keywords: Convert MHTML, MHTML Converter, MHTML to PDF, MHTML to Word, MHTML to PPT, MHTML to Image
 ---
 

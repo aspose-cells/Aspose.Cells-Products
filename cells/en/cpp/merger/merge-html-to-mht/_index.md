@@ -1,7 +1,7 @@
 ---
 title: Merge HTML to MHT via C++ 
 url: /cpp/merger/merge-html-to-mht/ 
-description: Merge HTML to MHT via C++ online for free. Merge HTML to MHT in C++. Combine HTML to MHT using C++.
+description: Free Online HTML Merger. Merge HTML to MHT via C++ online for free. Merge, Concatenate or Combine HTML to MHT Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

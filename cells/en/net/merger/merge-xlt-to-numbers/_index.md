@@ -1,7 +1,7 @@
 ---
 title: Merge XLT to NUMBERS via C# 
 url: /net/merger/merge-xlt-to-numbers/ 
-description: Merge XLT to NUMBERS via .NET online for free. Merge XLT to NUMBERS in .NET. Combine XLT to NUMBERS using VB.NET, Asp.NET or any .NET based application.
+description: Free Online XLT Merger. Merge XLT to NUMBERS via .NET online for free. Merge, Concatenate or Combine XLT to NUMBERS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

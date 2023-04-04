@@ -1,7 +1,7 @@
 ---
 title: Merge HTM to MHT via C++ 
 url: /cpp/merger/merge-htm-to-mht/ 
-description: Merge HTM to MHT via C++ online for free. Merge HTM to MHT in C++. Combine HTM to MHT using C++.
+description: Free Online HTM Merger. Merge HTM to MHT via C++ online for free. Merge, Concatenate or Combine HTM to MHT Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

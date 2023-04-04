@@ -1,6 +1,6 @@
 ---
-title: Convert CSV to DIF via Java 
-description: Convert CSV to DIF online for free. Convert CSV to DIF. Convert CSV to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert CSV to DIF Java 
+description: Free Online CSV Converter. Convert CSV to DIF Online for Free. Convert CSV to DIF in Java code. Convert CSV to DIF using Java.
 keywords: Convert CSV, CSV Converter, CSV to PDF, CSV to Word, CSV to PPT, CSV to Image
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Merge FODS to ODS via Python 
 url: /python-net/merger/merge-fods-to-ods/ 
-description: Merge FODS to ODS via Python online for free. Merge FODS to ODS in Python. Combine FODS to ODS using Python.
+description: Free Online FODS Merger. Merge FODS to ODS via Python online for free. Merge, Concatenate or Combine FODS to ODS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

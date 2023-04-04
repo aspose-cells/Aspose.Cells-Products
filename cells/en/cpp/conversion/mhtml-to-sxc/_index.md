@@ -1,6 +1,6 @@
 ---
-title: Convert MHTML to SXC via C++
-description: Convert MHTML to SXC online for free. Convert MHTML to SXC. Convert MHTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert MHTML to SXC C++
+description: Free Online MHTML Converter. Convert MHTML to SXC Online for Free. Convert MHTML to SXC in C++ code. Convert MHTML to SXC using C++.
 keywords: Convert MHTML, MHTML Converter, MHTML to PDF, MHTML to Word, MHTML to PPT, MHTML to Image
 ---
 

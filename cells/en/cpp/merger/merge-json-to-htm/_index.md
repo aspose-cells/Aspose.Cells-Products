@@ -1,7 +1,7 @@
 ---
 title: Merge JSON to HTM via C++ 
 url: /cpp/merger/merge-json-to-htm/ 
-description: Merge JSON to HTM via C++ online for free. Merge JSON to HTM in C++. Combine JSON to HTM using C++.
+description: Free Online JSON Merger. Merge JSON to HTM via C++ online for free. Merge, Concatenate or Combine JSON to HTM Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

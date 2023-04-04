@@ -1,7 +1,7 @@
 ---
 title: Merge FODS to XLSX via Java 
 url: /java/merger/merge-fods-to-xlsx/ 
-description: Merge FODS to XLSX via Java online for free. Merge FODS to XLSX in Java. Combine FODS to XLSX using Java based desktop or web application.
+description: Free Online FODS Merger. Merge FODS to XLSX via Java online for free. Merge, Concatenate or Combine FODS to XLSX Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

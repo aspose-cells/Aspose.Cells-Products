@@ -1,7 +1,7 @@
 ---
 title: Merge CSV to MHTML via Java 
 url: /java/merger/merge-csv-to-mhtml/ 
-description: Merge CSV to MHTML via Java online for free. Merge CSV to MHTML in Java. Combine CSV to MHTML using Java based desktop or web application.
+description: Free Online CSV Merger. Merge CSV to MHTML via Java online for free. Merge, Concatenate or Combine CSV to MHTML Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

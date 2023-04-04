@@ -1,7 +1,7 @@
 ---
 title: Merge XLS to TSV via Python 
 url: /python-net/merger/merge-xls-to-tsv/ 
-description: Merge XLS to TSV via Python online for free. Merge XLS to TSV in Python. Combine XLS to TSV using Python.
+description: Free Online XLS Merger. Merge XLS to TSV via Python online for free. Merge, Concatenate or Combine XLS to TSV Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,6 +1,6 @@
 ---
-title: Convert OTS to EXCEL via Python
-description: Convert OTS to EXCEL online for free. Convert OTS to EXCEL. Convert OTS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert OTS to EXCEL Python via Python
+description: Free Online OTS Converter. Convert OTS to EXCEL Online for Free. Convert OTS to EXCEL in Python code. Convert OTS to EXCEL using Python.
 keywords: Convert OTS, OTS Converter, OTS to PDF, OTS to Word, OTS to PPT, OTS to Image
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Convert OTS to TXT via C++
-description: Convert OTS to TXT online for free. Convert OTS to TXT. Convert OTS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert OTS to TXT C++
+description: Free Online OTS Converter. Convert OTS to TXT Online for Free. Convert OTS to TXT in C++ code. Convert OTS to TXT using C++.
 keywords: Convert OTS, OTS Converter, OTS to PDF, OTS to Word, OTS to PPT, OTS to Image
 ---
 

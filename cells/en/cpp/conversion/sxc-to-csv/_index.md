@@ -1,6 +1,6 @@
 ---
-title: Convert SXC to CSV via C++
-description: Convert SXC to CSV online for free. Convert SXC to CSV. Convert SXC to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert SXC to CSV C++
+description: Free Online SXC Converter. Convert SXC to CSV Online for Free. Convert SXC to CSV in C++ code. Convert SXC to CSV using C++.
 keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC to Image
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Convert FODS to TIFF via C++
-description: Convert FODS to TIFF online for free. Convert FODS to TIFF. Convert FODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert FODS to TIFF C++
+description: Free Online FODS Converter. Convert FODS to TIFF Online for Free. Convert FODS to TIFF in C++ code. Convert FODS to TIFF using C++.
 keywords: Convert FODS, FODS Converter, FODS to PDF, FODS to Word, FODS to PPT, FODS to Image
 ---
 

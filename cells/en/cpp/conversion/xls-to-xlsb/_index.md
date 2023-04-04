@@ -1,6 +1,6 @@
 ---
-title: Convert XLS to XLSB via C++
-description: Convert XLS to XLSB online for free. Convert XLS to XLSB. Convert XLS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLS to XLSB C++
+description: Free Online XLS Converter. Convert XLS to XLSB Online for Free. Convert XLS to XLSB in C++ code. Convert XLS to XLSB using C++.
 keywords: Convert XLS, XLS Converter, XLS to PDF, XLS to Word, XLS to PPT, XLS to Image
 ---
 

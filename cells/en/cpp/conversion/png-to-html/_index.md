@@ -1,6 +1,6 @@
 ---
-title: Convert PNG to HTML via C++
-description: Convert PNG to HTML online for free. Convert PNG to HTML. Convert PNG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert PNG to HTML C++
+description: Free Online PNG Converter. Convert PNG to HTML Online for Free. Convert PNG to HTML in C++ code. Convert PNG to HTML using C++.
 keywords: Convert PNG, PNG Converter, PNG to PDF, PNG to Word, PNG to PPT, PNG to Image
 ---
 

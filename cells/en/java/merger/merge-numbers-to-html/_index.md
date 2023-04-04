@@ -1,7 +1,7 @@
 ---
 title: Merge NUMBERS to HTML via Java 
 url: /java/merger/merge-numbers-to-html/ 
-description: Merge NUMBERS to HTML via Java online for free. Merge NUMBERS to HTML in Java. Combine NUMBERS to HTML using Java based desktop or web application.
+description: Free Online NUMBERS Merger. Merge NUMBERS to HTML via Java online for free. Merge, Concatenate or Combine NUMBERS to HTML Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

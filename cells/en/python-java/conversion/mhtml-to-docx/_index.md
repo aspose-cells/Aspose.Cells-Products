@@ -1,6 +1,6 @@
 ---
-title: Convert MHTML to DOCX via Python
-description: Convert MHTML to DOCX online for free. Convert MHTML to DOCX. Convert MHTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert MHTML to DOCX Python via Python
+description: Free Online MHTML Converter. Convert MHTML to DOCX Online for Free. Convert MHTML to DOCX in Python code. Convert MHTML to DOCX using Python.
 keywords: Convert MHTML, MHTML Converter, MHTML to PDF, MHTML to Word, MHTML to PPT, MHTML to Image
 ---
 

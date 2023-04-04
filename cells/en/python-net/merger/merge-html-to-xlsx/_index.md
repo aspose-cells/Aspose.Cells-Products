@@ -1,7 +1,7 @@
 ---
 title: Merge HTML to XLSX via Python 
 url: /python-net/merger/merge-html-to-xlsx/ 
-description: Merge HTML to XLSX via Python online for free. Merge HTML to XLSX in Python. Combine HTML to XLSX using Python.
+description: Free Online HTML Merger. Merge HTML to XLSX via Python online for free. Merge, Concatenate or Combine HTML to XLSX Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

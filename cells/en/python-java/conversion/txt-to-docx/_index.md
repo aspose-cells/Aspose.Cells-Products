@@ -1,6 +1,6 @@
 ---
-title: Convert TXT to DOCX via Python
-description: Convert TXT to DOCX online for free. Convert TXT to DOCX. Convert TXT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert TXT to DOCX Python via Python
+description: Free Online TXT Converter. Convert TXT to DOCX Online for Free. Convert TXT to DOCX in Python code. Convert TXT to DOCX using Python.
 keywords: Convert TXT, TXT Converter, TXT to PDF, TXT to Word, TXT to PPT, TXT to Image
 ---
 

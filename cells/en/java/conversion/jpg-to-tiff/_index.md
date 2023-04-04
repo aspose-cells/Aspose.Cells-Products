@@ -1,6 +1,6 @@
 ---
-title: Convert JPG to TIFF via Java 
-description: Convert JPG to TIFF online for free. Convert JPG to TIFF. Convert JPG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert JPG to TIFF Java 
+description: Free Online JPG Converter. Convert JPG to TIFF Online for Free. Convert JPG to TIFF in Java code. Convert JPG to TIFF using Java.
 keywords: Convert JPG, JPG Converter, JPG to PDF, JPG to Word, JPG to PPT, JPG to Image
 ---
 

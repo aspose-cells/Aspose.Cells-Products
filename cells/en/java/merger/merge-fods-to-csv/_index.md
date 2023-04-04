@@ -1,7 +1,7 @@
 ---
 title: Merge FODS to CSV via Java 
 url: /java/merger/merge-fods-to-csv/ 
-description: Merge FODS to CSV via Java online for free. Merge FODS to CSV in Java. Combine FODS to CSV using Java based desktop or web application.
+description: Free Online FODS Merger. Merge FODS to CSV via Java online for free. Merge, Concatenate or Combine FODS to CSV Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

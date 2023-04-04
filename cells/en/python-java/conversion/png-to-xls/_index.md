@@ -1,6 +1,6 @@
 ---
-title: Convert PNG to XLS via Python
-description: Convert PNG to XLS online for free. Convert PNG to XLS. Convert PNG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert PNG to XLS Python via Python
+description: Free Online PNG Converter. Convert PNG to XLS Online for Free. Convert PNG to XLS in Python code. Convert PNG to XLS using Python.
 keywords: Convert PNG, PNG Converter, PNG to PDF, PNG to Word, PNG to PPT, PNG to Image
 ---
 

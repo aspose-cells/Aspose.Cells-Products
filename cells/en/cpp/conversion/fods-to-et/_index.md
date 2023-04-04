@@ -1,6 +1,6 @@
 ---
-title: Convert FODS to ET via C++
-description: Convert FODS to ET online for free. Convert FODS to ET. Convert FODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert FODS to ET C++
+description: Free Online FODS Converter. Convert FODS to ET Online for Free. Convert FODS to ET in C++ code. Convert FODS to ET using C++.
 keywords: Convert FODS, FODS Converter, FODS to PDF, FODS to Word, FODS to PPT, FODS to Image
 ---
 

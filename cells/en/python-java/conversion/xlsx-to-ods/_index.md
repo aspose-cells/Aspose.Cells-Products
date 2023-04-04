@@ -1,6 +1,6 @@
 ---
-title: Convert XLSX to ODS via Python
-description: Convert XLSX to ODS online for free. Convert XLSX to ODS. Convert XLSX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLSX to ODS Python via Python
+description: Free Online XLSX Converter. Convert XLSX to ODS Online for Free. Convert XLSX to ODS in Python code. Convert XLSX to ODS using Python.
 keywords: Convert XLSX, XLSX Converter, XLSX to PDF, XLSX to Word, XLSX to PPT, XLSX to Image
 ---
 

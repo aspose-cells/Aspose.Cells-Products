@@ -1,6 +1,6 @@
 ---
-title: Convert HTML to DIF via Python
-description: Convert HTML to DIF online for free. Convert HTML to DIF. Convert HTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert HTML to DIF Python via Python
+description: Free Online HTML Converter. Convert HTML to DIF Online for Free. Convert HTML to DIF in Python code. Convert HTML to DIF using Python.
 keywords: Convert HTML, HTML Converter, HTML to PDF, HTML to Word, HTML to PPT, HTML to Image
 ---
 

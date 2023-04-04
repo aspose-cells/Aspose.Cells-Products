@@ -1,6 +1,6 @@
 ---
-title: Convert JSON to GIF via Java 
-description: Convert JSON to GIF online for free. Convert JSON to GIF. Convert JSON to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert JSON to GIF Java 
+description: Free Online JSON Converter. Convert JSON to GIF Online for Free. Convert JSON to GIF in Java code. Convert JSON to GIF using Java.
 keywords: Convert JSON, JSON Converter, JSON to PDF, JSON to Word, JSON to PPT, JSON to Image
 ---
 

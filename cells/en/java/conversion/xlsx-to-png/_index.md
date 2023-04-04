@@ -1,6 +1,6 @@
 ---
-title: Convert XLSX to PNG via Java 
-description: Convert XLSX to PNG online for free. Convert XLSX to PNG. Convert XLSX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLSX to PNG Java 
+description: Free Online XLSX Converter. Convert XLSX to PNG Online for Free. Convert XLSX to PNG in Java code. Convert XLSX to PNG using Java.
 keywords: Convert XLSX, XLSX Converter, XLSX to PDF, XLSX to Word, XLSX to PPT, XLSX to Image
 ---
 

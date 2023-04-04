@@ -1,6 +1,6 @@
 ---
-title: Convert SXC to JPG via C++
-description: Convert SXC to JPG online for free. Convert SXC to JPG. Convert SXC to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert SXC to JPG C++
+description: Free Online SXC Converter. Convert SXC to JPG Online for Free. Convert SXC to JPG in C++ code. Convert SXC to JPG using C++.
 keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC to Image
 ---
 

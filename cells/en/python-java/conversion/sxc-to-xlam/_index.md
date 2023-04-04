@@ -1,6 +1,6 @@
 ---
-title: Convert SXC to XLAM via Python
-description: Convert SXC to XLAM online for free. Convert SXC to XLAM. Convert SXC to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert SXC to XLAM Python via Python
+description: Free Online SXC Converter. Convert SXC to XLAM Online for Free. Convert SXC to XLAM in Python code. Convert SXC to XLAM using Python.
 keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC to Image
 ---
 

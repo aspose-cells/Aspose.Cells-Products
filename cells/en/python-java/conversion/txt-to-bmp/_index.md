@@ -1,6 +1,6 @@
 ---
-title: Convert TXT to BMP via Python
-description: Convert TXT to BMP online for free. Convert TXT to BMP. Convert TXT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert TXT to BMP Python via Python
+description: Free Online TXT Converter. Convert TXT to BMP Online for Free. Convert TXT to BMP in Python code. Convert TXT to BMP using Python.
 keywords: Convert TXT, TXT Converter, TXT to PDF, TXT to Word, TXT to PPT, TXT to Image
 ---
 

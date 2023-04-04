@@ -1,6 +1,6 @@
 ---
-title: Convert XLS to HTML via Java 
-description: Convert XLS to HTML online for free. Convert XLS to HTML. Convert XLS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLS to HTML Java 
+description: Free Online XLS Converter. Convert XLS to HTML Online for Free. Convert XLS to HTML in Java code. Convert XLS to HTML using Java.
 keywords: Convert XLS, XLS Converter, XLS to PDF, XLS to Word, XLS to PPT, XLS to Image
 ---
 

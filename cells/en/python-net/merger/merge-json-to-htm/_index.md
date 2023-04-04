@@ -1,7 +1,7 @@
 ---
 title: Merge JSON to HTM via Python 
 url: /python-net/merger/merge-json-to-htm/ 
-description: Merge JSON to HTM via Python online for free. Merge JSON to HTM in Python. Combine JSON to HTM using Python.
+description: Free Online JSON Merger. Merge JSON to HTM via Python online for free. Merge, Concatenate or Combine JSON to HTM Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

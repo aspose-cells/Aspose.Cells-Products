@@ -1,6 +1,6 @@
 ---
-title: Convert TXT to DOCX via C++
-description: Convert TXT to DOCX online for free. Convert TXT to DOCX. Convert TXT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert TXT to DOCX C++
+description: Free Online TXT Converter. Convert TXT to DOCX Online for Free. Convert TXT to DOCX in C++ code. Convert TXT to DOCX using C++.
 keywords: Convert TXT, TXT Converter, TXT to PDF, TXT to Word, TXT to PPT, TXT to Image
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Merge XLSX to XLSX via Java 
 url: /java/merger/merge-xlsx-to-xlsx/ 
-description: Merge XLSX to XLSX via Java online for free. Merge XLSX to XLSX in Java. Combine XLSX to XLSX using Java based desktop or web application.
+description: Free Online XLSX Merger. Merge XLSX to XLSX via Java online for free. Merge, Concatenate or Combine XLSX to XLSX Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

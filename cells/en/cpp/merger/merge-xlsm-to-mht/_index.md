@@ -1,7 +1,7 @@
 ---
 title: Merge XLSM to MHT via C++ 
 url: /cpp/merger/merge-xlsm-to-mht/ 
-description: Merge XLSM to MHT via C++ online for free. Merge XLSM to MHT in C++. Combine XLSM to MHT using C++.
+description: Free Online XLSM Merger. Merge XLSM to MHT via C++ online for free. Merge, Concatenate or Combine XLSM to MHT Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

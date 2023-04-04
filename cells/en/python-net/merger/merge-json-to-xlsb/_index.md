@@ -1,7 +1,7 @@
 ---
 title: Merge JSON to XLSB via Python 
 url: /python-net/merger/merge-json-to-xlsb/ 
-description: Merge JSON to XLSB via Python online for free. Merge JSON to XLSB in Python. Combine JSON to XLSB using Python.
+description: Free Online JSON Merger. Merge JSON to XLSB via Python online for free. Merge, Concatenate or Combine JSON to XLSB Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

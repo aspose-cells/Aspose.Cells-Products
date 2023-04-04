@@ -1,6 +1,6 @@
 ---
-title: Convert OTS to TIFF via C++
-description: Convert OTS to TIFF online for free. Convert OTS to TIFF. Convert OTS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert OTS to TIFF C++
+description: Free Online OTS Converter. Convert OTS to TIFF Online for Free. Convert OTS to TIFF in C++ code. Convert OTS to TIFF using C++.
 keywords: Convert OTS, OTS Converter, OTS to PDF, OTS to Word, OTS to PPT, OTS to Image
 ---
 

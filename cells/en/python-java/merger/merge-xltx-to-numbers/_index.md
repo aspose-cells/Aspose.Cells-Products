@@ -1,7 +1,7 @@
 ---
 title: Merge XLTX to NUMBERS via Python 
 url: /python-java/merger/merge-xltx-to-numbers/ 
-description: Merge XLTX to NUMBERS via Python online for free. Merge XLTX to NUMBERS in Python. Combine XLTX to NUMBERS using Python.
+description: Free Online XLTX Merger. Merge XLTX to NUMBERS via Python online for free. Merge, Concatenate or Combine XLTX to NUMBERS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

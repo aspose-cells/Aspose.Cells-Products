@@ -1,6 +1,6 @@
 ---
-title: Convert HTML to WORD via Java 
-description: Convert HTML to WORD online for free. Convert HTML to WORD. Convert HTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert HTML to WORD Java 
+description: Free Online HTML Converter. Convert HTML to WORD Online for Free. Convert HTML to WORD in Java code. Convert HTML to WORD using Java.
 keywords: Convert HTML, HTML Converter, HTML to PDF, HTML to Word, HTML to PPT, HTML to Image
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Convert CSV to BMP via C++
-description: Convert CSV to BMP online for free. Convert CSV to BMP. Convert CSV to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert CSV to BMP C++
+description: Free Online CSV Converter. Convert CSV to BMP Online for Free. Convert CSV to BMP in C++ code. Convert CSV to BMP using C++.
 keywords: Convert CSV, CSV Converter, CSV to PDF, CSV to Word, CSV to PPT, CSV to Image
 ---
 

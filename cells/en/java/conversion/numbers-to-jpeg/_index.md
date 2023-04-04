@@ -1,6 +1,6 @@
 ---
-title: Convert NUMBERS to JPEG via Java 
-description: Convert NUMBERS to JPEG online for free. Convert NUMBERS to JPEG. Convert NUMBERS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert NUMBERS to JPEG Java 
+description: Free Online NUMBERS Converter. Convert NUMBERS to JPEG Online for Free. Convert NUMBERS to JPEG in Java code. Convert NUMBERS to JPEG using Java.
 keywords: Convert NUMBERS, NUMBERS Converter, NUMBERS to PDF, NUMBERS to Word, NUMBERS to PPT, NUMBERS to Image
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Convert TABDELIMITED to SQL via C++
-description: Convert TABDELIMITED to SQL online for free. Convert TABDELIMITED to SQL. Convert TABDELIMITED to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert TABDELIMITED to SQL C++
+description: Free Online TABDELIMITED Converter. Convert TABDELIMITED to SQL Online for Free. Convert TABDELIMITED to SQL in C++ code. Convert TABDELIMITED to SQL using C++.
 keywords: Convert TABDELIMITED, TABDELIMITED Converter, TABDELIMITED to PDF, TABDELIMITED to Word, TABDELIMITED to PPT, TABDELIMITED to Image
 ---
 

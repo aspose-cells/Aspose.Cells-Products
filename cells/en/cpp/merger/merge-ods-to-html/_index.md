@@ -1,7 +1,7 @@
 ---
 title: Merge ODS to HTML via C++ 
 url: /cpp/merger/merge-ods-to-html/ 
-description: Merge ODS to HTML via C++ online for free. Merge ODS to HTML in C++. Combine ODS to HTML using C++.
+description: Free Online ODS Merger. Merge ODS to HTML via C++ online for free. Merge, Concatenate or Combine ODS to HTML Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

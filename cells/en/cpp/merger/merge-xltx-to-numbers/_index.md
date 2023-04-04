@@ -1,7 +1,7 @@
 ---
 title: Merge XLTX to NUMBERS via C++ 
 url: /cpp/merger/merge-xltx-to-numbers/ 
-description: Merge XLTX to NUMBERS via C++ online for free. Merge XLTX to NUMBERS in C++. Combine XLTX to NUMBERS using C++.
+description: Free Online XLTX Merger. Merge XLTX to NUMBERS via C++ online for free. Merge, Concatenate or Combine XLTX to NUMBERS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

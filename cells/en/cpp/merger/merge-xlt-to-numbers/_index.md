@@ -1,7 +1,7 @@
 ---
 title: Merge XLT to NUMBERS via C++ 
 url: /cpp/merger/merge-xlt-to-numbers/ 
-description: Merge XLT to NUMBERS via C++ online for free. Merge XLT to NUMBERS in C++. Combine XLT to NUMBERS using C++.
+description: Free Online XLT Merger. Merge XLT to NUMBERS via C++ online for free. Merge, Concatenate or Combine XLT to NUMBERS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

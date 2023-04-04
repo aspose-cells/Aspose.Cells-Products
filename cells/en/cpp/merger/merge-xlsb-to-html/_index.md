@@ -1,7 +1,7 @@
 ---
 title: Merge XLSB to HTML via C++ 
 url: /cpp/merger/merge-xlsb-to-html/ 
-description: Merge XLSB to HTML via C++ online for free. Merge XLSB to HTML in C++. Combine XLSB to HTML using C++.
+description: Free Online XLSB Merger. Merge XLSB to HTML via C++ online for free. Merge, Concatenate or Combine XLSB to HTML Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

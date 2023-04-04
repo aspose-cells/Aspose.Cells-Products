@@ -1,7 +1,7 @@
 ---
 title: Merge XLTX to TSV via C++ 
 url: /cpp/merger/merge-xltx-to-tsv/ 
-description: Merge XLTX to TSV via C++ online for free. Merge XLTX to TSV in C++. Combine XLTX to TSV using C++.
+description: Free Online XLTX Merger. Merge XLTX to TSV via C++ online for free. Merge, Concatenate or Combine XLTX to TSV Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

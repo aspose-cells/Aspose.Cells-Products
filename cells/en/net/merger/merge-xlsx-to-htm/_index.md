@@ -1,7 +1,7 @@
 ---
 title: Merge XLSX to HTM via C# 
 url: /net/merger/merge-xlsx-to-htm/ 
-description: Merge XLSX to HTM via .NET online for free. Merge XLSX to HTM in .NET. Combine XLSX to HTM using VB.NET, Asp.NET or any .NET based application.
+description: Free Online XLSX Merger. Merge XLSX to HTM via .NET online for free. Merge, Concatenate or Combine XLSX to HTM Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

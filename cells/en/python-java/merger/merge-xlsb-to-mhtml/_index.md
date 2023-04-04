@@ -1,7 +1,7 @@
 ---
 title: Merge XLSB to MHTML via Python 
 url: /python-java/merger/merge-xlsb-to-mhtml/ 
-description: Merge XLSB to MHTML via Python online for free. Merge XLSB to MHTML in Python. Combine XLSB to MHTML using Python.
+description: Free Online XLSB Merger. Merge XLSB to MHTML via Python online for free. Merge, Concatenate or Combine XLSB to MHTML Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

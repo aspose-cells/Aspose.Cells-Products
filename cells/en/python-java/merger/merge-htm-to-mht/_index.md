@@ -1,7 +1,7 @@
 ---
 title: Merge HTM to MHT via Python 
 url: /python-java/merger/merge-htm-to-mht/ 
-description: Merge HTM to MHT via Python online for free. Merge HTM to MHT in Python. Combine HTM to MHT using Python.
+description: Free Online HTM Merger. Merge HTM to MHT via Python online for free. Merge, Concatenate or Combine HTM to MHT Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

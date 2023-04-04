@@ -1,6 +1,6 @@
 ---
-title: Convert FODS to JPG via C++
-description: Convert FODS to JPG online for free. Convert FODS to JPG. Convert FODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert FODS to JPG C++
+description: Free Online FODS Converter. Convert FODS to JPG Online for Free. Convert FODS to JPG in C++ code. Convert FODS to JPG using C++.
 keywords: Convert FODS, FODS Converter, FODS to PDF, FODS to Word, FODS to PPT, FODS to Image
 ---
 

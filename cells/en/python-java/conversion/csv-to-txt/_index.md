@@ -1,6 +1,6 @@
 ---
-title: Convert CSV to TXT via Python
-description: Convert CSV to TXT online for free. Convert CSV to TXT. Convert CSV to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert CSV to TXT Python via Python
+description: Free Online CSV Converter. Convert CSV to TXT Online for Free. Convert CSV to TXT in Python code. Convert CSV to TXT using Python.
 keywords: Convert CSV, CSV Converter, CSV to PDF, CSV to Word, CSV to PPT, CSV to Image
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Convert HTML to JSON via Python
-description: Convert HTML to JSON online for free. Convert HTML to JSON. Convert HTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert HTML to JSON Python via Python
+description: Free Online HTML Converter. Convert HTML to JSON Online for Free. Convert HTML to JSON in Python code. Convert HTML to JSON using Python.
 keywords: Convert HTML, HTML Converter, HTML to PDF, HTML to Word, HTML to PPT, HTML to Image
 ---
 

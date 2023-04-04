@@ -1,6 +1,6 @@
 ---
-title: Convert NUMBERS to WORD via Java 
-description: Convert NUMBERS to WORD online for free. Convert NUMBERS to WORD. Convert NUMBERS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert NUMBERS to WORD Java 
+description: Free Online NUMBERS Converter. Convert NUMBERS to WORD Online for Free. Convert NUMBERS to WORD in Java code. Convert NUMBERS to WORD using Java.
 keywords: Convert NUMBERS, NUMBERS Converter, NUMBERS to PDF, NUMBERS to Word, NUMBERS to PPT, NUMBERS to Image
 ---
 

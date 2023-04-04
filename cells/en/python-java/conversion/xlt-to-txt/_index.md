@@ -1,6 +1,6 @@
 ---
-title: Convert XLT to TXT via Python
-description: Convert XLT to TXT online for free. Convert XLT to TXT. Convert XLT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLT to TXT Python via Python
+description: Free Online XLT Converter. Convert XLT to TXT Online for Free. Convert XLT to TXT in Python code. Convert XLT to TXT using Python.
 keywords: Convert XLT, XLT Converter, XLT to PDF, XLT to Word, XLT to PPT, XLT to Image
 ---
 

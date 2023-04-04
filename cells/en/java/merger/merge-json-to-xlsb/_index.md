@@ -1,7 +1,7 @@
 ---
 title: Merge JSON to XLSB via Java 
 url: /java/merger/merge-json-to-xlsb/ 
-description: Merge JSON to XLSB via Java online for free. Merge JSON to XLSB in Java. Combine JSON to XLSB using Java based desktop or web application.
+description: Free Online JSON Merger. Merge JSON to XLSB via Java online for free. Merge, Concatenate or Combine JSON to XLSB Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

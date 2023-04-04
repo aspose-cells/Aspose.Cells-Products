@@ -1,6 +1,6 @@
 ---
-title: Convert XLSX to BMP via Python
-description: Convert XLSX to BMP online for free. Convert XLSX to BMP. Convert XLSX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLSX to BMP Python via Python
+description: Free Online XLSX Converter. Convert XLSX to BMP Online for Free. Convert XLSX to BMP in Python code. Convert XLSX to BMP using Python.
 keywords: Convert XLSX, XLSX Converter, XLSX to PDF, XLSX to Word, XLSX to PPT, XLSX to Image
 ---
 

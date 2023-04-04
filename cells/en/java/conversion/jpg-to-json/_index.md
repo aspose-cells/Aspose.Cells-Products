@@ -1,6 +1,6 @@
 ---
-title: Convert JPG to JSON via Java 
-description: Convert JPG to JSON online for free. Convert JPG to JSON. Convert JPG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert JPG to JSON Java 
+description: Free Online JPG Converter. Convert JPG to JSON Online for Free. Convert JPG to JSON in Java code. Convert JPG to JSON using Java.
 keywords: Convert JPG, JPG Converter, JPG to PDF, JPG to Word, JPG to PPT, JPG to Image
 ---
 

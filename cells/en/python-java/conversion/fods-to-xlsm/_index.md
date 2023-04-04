@@ -1,6 +1,6 @@
 ---
-title: Convert FODS to XLSM via Python
-description: Convert FODS to XLSM online for free. Convert FODS to XLSM. Convert FODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert FODS to XLSM Python via Python
+description: Free Online FODS Converter. Convert FODS to XLSM Online for Free. Convert FODS to XLSM in Python code. Convert FODS to XLSM using Python.
 keywords: Convert FODS, FODS Converter, FODS to PDF, FODS to Word, FODS to PPT, FODS to Image
 ---
 

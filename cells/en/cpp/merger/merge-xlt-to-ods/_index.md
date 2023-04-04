@@ -1,7 +1,7 @@
 ---
 title: Merge XLT to ODS via C++ 
 url: /cpp/merger/merge-xlt-to-ods/ 
-description: Merge XLT to ODS via C++ online for free. Merge XLT to ODS in C++. Combine XLT to ODS using C++.
+description: Free Online XLT Merger. Merge XLT to ODS via C++ online for free. Merge, Concatenate or Combine XLT to ODS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

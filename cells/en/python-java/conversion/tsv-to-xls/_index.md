@@ -1,6 +1,6 @@
 ---
-title: Convert TSV to XLS via Python
-description: Convert TSV to XLS online for free. Convert TSV to XLS. Convert TSV to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert TSV to XLS Python via Python
+description: Free Online TSV Converter. Convert TSV to XLS Online for Free. Convert TSV to XLS in Python code. Convert TSV to XLS using Python.
 keywords: Convert TSV, TSV Converter, TSV to PDF, TSV to Word, TSV to PPT, TSV to Image
 ---
 

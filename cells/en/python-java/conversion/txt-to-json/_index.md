@@ -1,6 +1,6 @@
 ---
-title: Convert TXT to JSON via Python
-description: Convert TXT to JSON online for free. Convert TXT to JSON. Convert TXT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert TXT to JSON Python via Python
+description: Free Online TXT Converter. Convert TXT to JSON Online for Free. Convert TXT to JSON in Python code. Convert TXT to JSON using Python.
 keywords: Convert TXT, TXT Converter, TXT to PDF, TXT to Word, TXT to PPT, TXT to Image
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Merge FODS to NUMBERS via Python 
 url: /python-net/merger/merge-fods-to-numbers/ 
-description: Merge FODS to NUMBERS via Python online for free. Merge FODS to NUMBERS in Python. Combine FODS to NUMBERS using Python.
+description: Free Online FODS Merger. Merge FODS to NUMBERS via Python online for free. Merge, Concatenate or Combine FODS to NUMBERS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

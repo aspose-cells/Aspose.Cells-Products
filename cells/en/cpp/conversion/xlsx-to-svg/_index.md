@@ -1,6 +1,6 @@
 ---
-title: Convert XLSX to SVG via C++
-description: Convert XLSX to SVG online for free. Convert XLSX to SVG. Convert XLSX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLSX to SVG C++
+description: Free Online XLSX Converter. Convert XLSX to SVG Online for Free. Convert XLSX to SVG in C++ code. Convert XLSX to SVG using C++.
 keywords: Convert XLSX, XLSX Converter, XLSX to PDF, XLSX to Word, XLSX to PPT, XLSX to Image
 ---
 

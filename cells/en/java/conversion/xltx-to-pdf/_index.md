@@ -1,6 +1,6 @@
 ---
-title: Convert XLTX to PDF via Java 
-description: Convert XLTX to PDF online for free. Convert XLTX to PDF. Convert XLTX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLTX to PDF Java 
+description: Free Online XLTX Converter. Convert XLTX to PDF Online for Free. Convert XLTX to PDF in Java code. Convert XLTX to PDF using Java.
 keywords: Convert XLTX, XLTX Converter, XLTX to PDF, XLTX to Word, XLTX to PPT, XLTX to Image
 ---
 

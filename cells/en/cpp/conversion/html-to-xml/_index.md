@@ -1,6 +1,6 @@
 ---
-title: Convert HTML to XML via C++
-description: Convert HTML to XML online for free. Convert HTML to XML. Convert HTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert HTML to XML C++
+description: Free Online HTML Converter. Convert HTML to XML Online for Free. Convert HTML to XML in C++ code. Convert HTML to XML using C++.
 keywords: Convert HTML, HTML Converter, HTML to PDF, HTML to Word, HTML to PPT, HTML to Image
 ---
 

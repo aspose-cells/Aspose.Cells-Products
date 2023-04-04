@@ -1,7 +1,7 @@
 ---
 title: Merge FODS to TSV via C# 
 url: /net/merger/merge-fods-to-tsv/ 
-description: Merge FODS to TSV via .NET online for free. Merge FODS to TSV in .NET. Combine FODS to TSV using VB.NET, Asp.NET or any .NET based application.
+description: Free Online FODS Merger. Merge FODS to TSV via .NET online for free. Merge, Concatenate or Combine FODS to TSV Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,6 +1,6 @@
 ---
-title: Convert HTML to ETT via C++
-description: Convert HTML to ETT online for free. Convert HTML to ETT. Convert HTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert HTML to ETT C++
+description: Free Online HTML Converter. Convert HTML to ETT Online for Free. Convert HTML to ETT in C++ code. Convert HTML to ETT using C++.
 keywords: Convert HTML, HTML Converter, HTML to PDF, HTML to Word, HTML to PPT, HTML to Image
 ---
 

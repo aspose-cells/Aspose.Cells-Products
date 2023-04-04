@@ -1,6 +1,6 @@
 ---
-title: Convert FODS to MD via C++
-description: Convert FODS to MD online for free. Convert FODS to MD. Convert FODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert FODS to MD C++
+description: Free Online FODS Converter. Convert FODS to MD Online for Free. Convert FODS to MD in C++ code. Convert FODS to MD using C++.
 keywords: Convert FODS, FODS Converter, FODS to PDF, FODS to Word, FODS to PPT, FODS to Image
 ---
 

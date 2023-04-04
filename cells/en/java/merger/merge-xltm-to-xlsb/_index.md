@@ -1,7 +1,7 @@
 ---
 title: Merge XLTM to XLSB via Java 
 url: /java/merger/merge-xltm-to-xlsb/ 
-description: Merge XLTM to XLSB via Java online for free. Merge XLTM to XLSB in Java. Combine XLTM to XLSB using Java based desktop or web application.
+description: Free Online XLTM Merger. Merge XLTM to XLSB via Java online for free. Merge, Concatenate or Combine XLTM to XLSB Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

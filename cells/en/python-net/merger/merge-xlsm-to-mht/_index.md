@@ -1,7 +1,7 @@
 ---
 title: Merge XLSM to MHT via Python 
 url: /python-net/merger/merge-xlsm-to-mht/ 
-description: Merge XLSM to MHT via Python online for free. Merge XLSM to MHT in Python. Combine XLSM to MHT using Python.
+description: Free Online XLSM Merger. Merge XLSM to MHT via Python online for free. Merge, Concatenate or Combine XLSM to MHT Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

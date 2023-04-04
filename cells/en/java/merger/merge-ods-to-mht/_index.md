@@ -1,7 +1,7 @@
 ---
 title: Merge ODS to MHT via Java 
 url: /java/merger/merge-ods-to-mht/ 
-description: Merge ODS to MHT via Java online for free. Merge ODS to MHT in Java. Combine ODS to MHT using Java based desktop or web application.
+description: Free Online ODS Merger. Merge ODS to MHT via Java online for free. Merge, Concatenate or Combine ODS to MHT Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

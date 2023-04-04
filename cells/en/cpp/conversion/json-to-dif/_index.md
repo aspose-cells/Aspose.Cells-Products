@@ -1,6 +1,6 @@
 ---
-title: Convert JSON to DIF via C++
-description: Convert JSON to DIF online for free. Convert JSON to DIF. Convert JSON to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert JSON to DIF C++
+description: Free Online JSON Converter. Convert JSON to DIF Online for Free. Convert JSON to DIF in C++ code. Convert JSON to DIF using C++.
 keywords: Convert JSON, JSON Converter, JSON to PDF, JSON to Word, JSON to PPT, JSON to Image
 ---
 

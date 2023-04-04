@@ -1,7 +1,7 @@
 ---
 title: Merge ODS to MHTML via Java 
 url: /java/merger/merge-ods-to-mhtml/ 
-description: Merge ODS to MHTML via Java online for free. Merge ODS to MHTML in Java. Combine ODS to MHTML using Java based desktop or web application.
+description: Free Online ODS Merger. Merge ODS to MHTML via Java online for free. Merge, Concatenate or Combine ODS to MHTML Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,6 +1,6 @@
 ---
-title: Convert CSV to XML via Python
-description: Convert CSV to XML online for free. Convert CSV to XML. Convert CSV to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert CSV to XML Python via Python
+description: Free Online CSV Converter. Convert CSV to XML Online for Free. Convert CSV to XML in Python code. Convert CSV to XML using Python.
 keywords: Convert CSV, CSV Converter, CSV to PDF, CSV to Word, CSV to PPT, CSV to Image
 ---
 

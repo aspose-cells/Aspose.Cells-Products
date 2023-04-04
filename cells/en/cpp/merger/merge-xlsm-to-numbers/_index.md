@@ -1,7 +1,7 @@
 ---
 title: Merge XLSM to NUMBERS via C++ 
 url: /cpp/merger/merge-xlsm-to-numbers/ 
-description: Merge XLSM to NUMBERS via C++ online for free. Merge XLSM to NUMBERS in C++. Combine XLSM to NUMBERS using C++.
+description: Free Online XLSM Merger. Merge XLSM to NUMBERS via C++ online for free. Merge, Concatenate or Combine XLSM to NUMBERS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

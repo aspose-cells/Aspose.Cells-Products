@@ -1,6 +1,6 @@
 ---
-title: Convert NUMBERS to SXC via C++
-description: Convert NUMBERS to SXC online for free. Convert NUMBERS to SXC. Convert NUMBERS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert NUMBERS to SXC C++
+description: Free Online NUMBERS Converter. Convert NUMBERS to SXC Online for Free. Convert NUMBERS to SXC in C++ code. Convert NUMBERS to SXC using C++.
 keywords: Convert NUMBERS, NUMBERS Converter, NUMBERS to PDF, NUMBERS to Word, NUMBERS to PPT, NUMBERS to Image
 ---
 

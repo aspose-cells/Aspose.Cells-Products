@@ -1,6 +1,6 @@
 ---
-title: Convert CSV to SVG via Python
-description: Convert CSV to SVG online for free. Convert CSV to SVG. Convert CSV to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert CSV to SVG Python via Python
+description: Free Online CSV Converter. Convert CSV to SVG Online for Free. Convert CSV to SVG in Python code. Convert CSV to SVG using Python.
 keywords: Convert CSV, CSV Converter, CSV to PDF, CSV to Word, CSV to PPT, CSV to Image
 ---
 

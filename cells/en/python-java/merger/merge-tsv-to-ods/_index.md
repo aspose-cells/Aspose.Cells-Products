@@ -1,7 +1,7 @@
 ---
 title: Merge TSV to ODS via Python 
 url: /python-java/merger/merge-tsv-to-ods/ 
-description: Merge TSV to ODS via Python online for free. Merge TSV to ODS in Python. Combine TSV to ODS using Python.
+description: Free Online TSV Merger. Merge TSV to ODS via Python online for free. Merge, Concatenate or Combine TSV to ODS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

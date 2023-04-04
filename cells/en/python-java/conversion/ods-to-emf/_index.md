@@ -1,6 +1,6 @@
 ---
-title: Convert ODS to EMF via Python
-description: Convert ODS to EMF online for free. Convert ODS to EMF. Convert ODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert ODS to EMF Python via Python
+description: Free Online ODS Converter. Convert ODS to EMF Online for Free. Convert ODS to EMF in Python code. Convert ODS to EMF using Python.
 keywords: Convert ODS, ODS Converter, ODS to PDF, ODS to Word, ODS to PPT, ODS to Image
 ---
 

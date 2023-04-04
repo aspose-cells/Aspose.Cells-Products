@@ -1,7 +1,7 @@
 ---
 title: Merge CSV to TSV via C# 
 url: /net/merger/merge-csv-to-tsv/ 
-description: Merge CSV to TSV via .NET online for free. Merge CSV to TSV in .NET. Combine CSV to TSV using VB.NET, Asp.NET or any .NET based application.
+description: Free Online CSV Merger. Merge CSV to TSV via .NET online for free. Merge, Concatenate or Combine CSV to TSV Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

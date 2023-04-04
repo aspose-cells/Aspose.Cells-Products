@@ -1,7 +1,7 @@
 ---
 title: Merge XLSB to MHT via Python 
 url: /python-net/merger/merge-xlsb-to-mht/ 
-description: Merge XLSB to MHT via Python online for free. Merge XLSB to MHT in Python. Combine XLSB to MHT using Python.
+description: Free Online XLSB Merger. Merge XLSB to MHT via Python online for free. Merge, Concatenate or Combine XLSB to MHT Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

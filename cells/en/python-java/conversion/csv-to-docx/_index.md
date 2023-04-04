@@ -1,6 +1,6 @@
 ---
-title: Convert CSV to DOCX via Python
-description: Convert CSV to DOCX online for free. Convert CSV to DOCX. Convert CSV to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert CSV to DOCX Python via Python
+description: Free Online CSV Converter. Convert CSV to DOCX Online for Free. Convert CSV to DOCX in Python code. Convert CSV to DOCX using Python.
 keywords: Convert CSV, CSV Converter, CSV to PDF, CSV to Word, CSV to PPT, CSV to Image
 ---
 

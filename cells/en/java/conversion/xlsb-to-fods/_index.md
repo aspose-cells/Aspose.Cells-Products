@@ -1,6 +1,6 @@
 ---
-title: Convert XLSB to FODS via Java 
-description: Convert XLSB to FODS online for free. Convert XLSB to FODS. Convert XLSB to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLSB to FODS Java 
+description: Free Online XLSB Converter. Convert XLSB to FODS Online for Free. Convert XLSB to FODS in Java code. Convert XLSB to FODS using Java.
 keywords: Convert XLSB, XLSB Converter, XLSB to PDF, XLSB to Word, XLSB to PPT, XLSB to Image
 ---
 

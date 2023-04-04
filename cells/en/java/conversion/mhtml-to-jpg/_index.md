@@ -1,6 +1,6 @@
 ---
-title: Convert MHTML to JPG via Java 
-description: Convert MHTML to JPG online for free. Convert MHTML to JPG. Convert MHTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert MHTML to JPG Java 
+description: Free Online MHTML Converter. Convert MHTML to JPG Online for Free. Convert MHTML to JPG in Java code. Convert MHTML to JPG using Java.
 keywords: Convert MHTML, MHTML Converter, MHTML to PDF, MHTML to Word, MHTML to PPT, MHTML to Image
 ---
 

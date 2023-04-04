@@ -1,7 +1,7 @@
 ---
 title: Merge JSON to XLSX via Java 
 url: /java/merger/merge-json-to-xlsx/ 
-description: Merge JSON to XLSX via Java online for free. Merge JSON to XLSX in Java. Combine JSON to XLSX using Java based desktop or web application.
+description: Free Online JSON Merger. Merge JSON to XLSX via Java online for free. Merge, Concatenate or Combine JSON to XLSX Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

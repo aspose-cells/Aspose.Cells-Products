@@ -1,7 +1,7 @@
 ---
 title: Merge XLTX to HTM via C++ 
 url: /cpp/merger/merge-xltx-to-htm/ 
-description: Merge XLTX to HTM via C++ online for free. Merge XLTX to HTM in C++. Combine XLTX to HTM using C++.
+description: Free Online XLTX Merger. Merge XLTX to HTM via C++ online for free. Merge, Concatenate or Combine XLTX to HTM Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

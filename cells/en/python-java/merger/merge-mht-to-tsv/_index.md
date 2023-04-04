@@ -1,7 +1,7 @@
 ---
 title: Merge MHT to TSV via Python 
 url: /python-java/merger/merge-mht-to-tsv/ 
-description: Merge MHT to TSV via Python online for free. Merge MHT to TSV in Python. Combine MHT to TSV using Python.
+description: Free Online MHT Merger. Merge MHT to TSV via Python online for free. Merge, Concatenate or Combine MHT to TSV Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

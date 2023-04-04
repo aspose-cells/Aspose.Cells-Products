@@ -1,6 +1,6 @@
 ---
-title: Convert FODS to TSV via Java 
-description: Convert FODS to TSV online for free. Convert FODS to TSV. Convert FODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert FODS to TSV Java 
+description: Free Online FODS Converter. Convert FODS to TSV Online for Free. Convert FODS to TSV in Java code. Convert FODS to TSV using Java.
 keywords: Convert FODS, FODS Converter, FODS to PDF, FODS to Word, FODS to PPT, FODS to Image
 ---
 

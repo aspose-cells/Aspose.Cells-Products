@@ -1,6 +1,6 @@
 ---
-title: Convert SPREADSHEETML to ET via Python
-description: Convert SPREADSHEETML to ET online for free. Convert SPREADSHEETML to ET. Convert SPREADSHEETML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert SPREADSHEETML to ET Python via Python
+description: Free Online SPREADSHEETML Converter. Convert SPREADSHEETML to ET Online for Free. Convert SPREADSHEETML to ET in Python code. Convert SPREADSHEETML to ET using Python.
 keywords: Convert SPREADSHEETML, SPREADSHEETML Converter, SPREADSHEETML to PDF, SPREADSHEETML to Word, SPREADSHEETML to PPT, SPREADSHEETML to Image
 ---
 

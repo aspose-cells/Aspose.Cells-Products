@@ -1,6 +1,6 @@
 ---
-title: Convert XLS to SVG via Java 
-description: Convert XLS to SVG online for free. Convert XLS to SVG. Convert XLS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLS to SVG Java 
+description: Free Online XLS Converter. Convert XLS to SVG Online for Free. Convert XLS to SVG in Java code. Convert XLS to SVG using Java.
 keywords: Convert XLS, XLS Converter, XLS to PDF, XLS to Word, XLS to PPT, XLS to Image
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Convert MHTML to XLT via C++
-description: Convert MHTML to XLT online for free. Convert MHTML to XLT. Convert MHTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert MHTML to XLT C++
+description: Free Online MHTML Converter. Convert MHTML to XLT Online for Free. Convert MHTML to XLT in C++ code. Convert MHTML to XLT using C++.
 keywords: Convert MHTML, MHTML Converter, MHTML to PDF, MHTML to Word, MHTML to PPT, MHTML to Image
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Convert XLTX to SVG via Java 
-description: Convert XLTX to SVG online for free. Convert XLTX to SVG. Convert XLTX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLTX to SVG Java 
+description: Free Online XLTX Converter. Convert XLTX to SVG Online for Free. Convert XLTX to SVG in Java code. Convert XLTX to SVG using Java.
 keywords: Convert XLTX, XLTX Converter, XLTX to PDF, XLTX to Word, XLTX to PPT, XLTX to Image
 ---
 

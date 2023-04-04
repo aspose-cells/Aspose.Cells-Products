@@ -1,6 +1,6 @@
 ---
-title: Convert NUMBERS to XML via Python
-description: Convert NUMBERS to XML online for free. Convert NUMBERS to XML. Convert NUMBERS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert NUMBERS to XML Python via Python
+description: Free Online NUMBERS Converter. Convert NUMBERS to XML Online for Free. Convert NUMBERS to XML in Python code. Convert NUMBERS to XML using Python.
 keywords: Convert NUMBERS, NUMBERS Converter, NUMBERS to PDF, NUMBERS to Word, NUMBERS to PPT, NUMBERS to Image
 ---
 

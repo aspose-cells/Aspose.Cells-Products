@@ -1,6 +1,6 @@
 ---
-title: Convert JPEG to PRN via Python
-description: Convert JPEG to PRN online for free. Convert JPEG to PRN. Convert JPEG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert JPEG to PRN Python via Python
+description: Free Online JPEG Converter. Convert JPEG to PRN Online for Free. Convert JPEG to PRN in Python code. Convert JPEG to PRN using Python.
 keywords: Convert JPEG, JPEG Converter, JPEG to PDF, JPEG to Word, JPEG to PPT, JPEG to Image
 ---
 

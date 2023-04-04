@@ -1,6 +1,6 @@
 ---
-title: Convert FODS to WORD via C++
-description: Convert FODS to WORD online for free. Convert FODS to WORD. Convert FODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert FODS to WORD C++
+description: Free Online FODS Converter. Convert FODS to WORD Online for Free. Convert FODS to WORD in C++ code. Convert FODS to WORD using C++.
 keywords: Convert FODS, FODS Converter, FODS to PDF, FODS to Word, FODS to PPT, FODS to Image
 ---
 

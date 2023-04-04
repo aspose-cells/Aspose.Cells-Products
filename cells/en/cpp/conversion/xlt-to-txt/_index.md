@@ -1,6 +1,6 @@
 ---
-title: Convert XLT to TXT via C++
-description: Convert XLT to TXT online for free. Convert XLT to TXT. Convert XLT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLT to TXT C++
+description: Free Online XLT Converter. Convert XLT to TXT Online for Free. Convert XLT to TXT in C++ code. Convert XLT to TXT using C++.
 keywords: Convert XLT, XLT Converter, XLT to PDF, XLT to Word, XLT to PPT, XLT to Image
 ---
 

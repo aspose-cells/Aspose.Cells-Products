@@ -1,6 +1,6 @@
 ---
-title: Convert TXT to PDF via C++
-description: Convert TXT to PDF online for free. Convert TXT to PDF. Convert TXT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert TXT to PDF C++
+description: Free Online TXT Converter. Convert TXT to PDF Online for Free. Convert TXT to PDF in C++ code. Convert TXT to PDF using C++.
 keywords: Convert TXT, TXT Converter, TXT to PDF, TXT to Word, TXT to PPT, TXT to Image
 ---
 

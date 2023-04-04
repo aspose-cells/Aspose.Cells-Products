@@ -1,6 +1,6 @@
 ---
-title: Convert XLSB to EXCEL via C++
-description: Convert XLSB to EXCEL online for free. Convert XLSB to EXCEL. Convert XLSB to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLSB to EXCEL C++
+description: Free Online XLSB Converter. Convert XLSB to EXCEL Online for Free. Convert XLSB to EXCEL in C++ code. Convert XLSB to EXCEL using C++.
 keywords: Convert XLSB, XLSB Converter, XLSB to PDF, XLSB to Word, XLSB to PPT, XLSB to Image
 ---
 

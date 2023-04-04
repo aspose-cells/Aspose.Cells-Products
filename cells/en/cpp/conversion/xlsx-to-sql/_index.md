@@ -1,6 +1,6 @@
 ---
-title: Convert XLSX to SQL via C++
-description: Convert XLSX to SQL online for free. Convert XLSX to SQL. Convert XLSX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLSX to SQL C++
+description: Free Online XLSX Converter. Convert XLSX to SQL Online for Free. Convert XLSX to SQL in C++ code. Convert XLSX to SQL using C++.
 keywords: Convert XLSX, XLSX Converter, XLSX to PDF, XLSX to Word, XLSX to PPT, XLSX to Image
 ---
 

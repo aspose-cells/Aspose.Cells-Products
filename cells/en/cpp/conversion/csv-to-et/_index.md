@@ -1,6 +1,6 @@
 ---
-title: Convert CSV to ET via C++
-description: Convert CSV to ET online for free. Convert CSV to ET. Convert CSV to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert CSV to ET C++
+description: Free Online CSV Converter. Convert CSV to ET Online for Free. Convert CSV to ET in C++ code. Convert CSV to ET using C++.
 keywords: Convert CSV, CSV Converter, CSV to PDF, CSV to Word, CSV to PPT, CSV to Image
 ---
 

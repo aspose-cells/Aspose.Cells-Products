@@ -1,7 +1,7 @@
 ---
 title: Merge MHTML to ODS via C++ 
 url: /cpp/merger/merge-mhtml-to-ods/ 
-description: Merge MHTML to ODS via C++ online for free. Merge MHTML to ODS in C++. Combine MHTML to ODS using C++.
+description: Free Online MHTML Merger. Merge MHTML to ODS via C++ online for free. Merge, Concatenate or Combine MHTML to ODS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

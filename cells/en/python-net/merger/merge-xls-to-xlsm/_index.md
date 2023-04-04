@@ -1,7 +1,7 @@
 ---
 title: Merge XLS to XLSM via Python 
 url: /python-net/merger/merge-xls-to-xlsm/ 
-description: Merge XLS to XLSM via Python online for free. Merge XLS to XLSM in Python. Combine XLS to XLSM using Python.
+description: Free Online XLS Merger. Merge XLS to XLSM via Python online for free. Merge, Concatenate or Combine XLS to XLSM Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

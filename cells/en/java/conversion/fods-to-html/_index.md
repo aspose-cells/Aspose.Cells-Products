@@ -1,6 +1,6 @@
 ---
-title: Convert FODS to HTML via Java 
-description: Convert FODS to HTML online for free. Convert FODS to HTML. Convert FODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert FODS to HTML Java 
+description: Free Online FODS Converter. Convert FODS to HTML Online for Free. Convert FODS to HTML in Java code. Convert FODS to HTML using Java.
 keywords: Convert FODS, FODS Converter, FODS to PDF, FODS to Word, FODS to PPT, FODS to Image
 ---
 

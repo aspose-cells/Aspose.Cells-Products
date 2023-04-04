@@ -1,6 +1,6 @@
 ---
-title: Convert FODS to PDF via C++
-description: Convert FODS to PDF online for free. Convert FODS to PDF. Convert FODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert FODS to PDF C++
+description: Free Online FODS Converter. Convert FODS to PDF Online for Free. Convert FODS to PDF in C++ code. Convert FODS to PDF using C++.
 keywords: Convert FODS, FODS Converter, FODS to PDF, FODS to Word, FODS to PPT, FODS to Image
 ---
 

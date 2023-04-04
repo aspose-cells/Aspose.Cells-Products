@@ -1,6 +1,6 @@
 ---
-title: Convert FODS to TXT via Python
-description: Convert FODS to TXT online for free. Convert FODS to TXT. Convert FODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert FODS to TXT Python via Python
+description: Free Online FODS Converter. Convert FODS to TXT Online for Free. Convert FODS to TXT in Python code. Convert FODS to TXT using Python.
 keywords: Convert FODS, FODS Converter, FODS to PDF, FODS to Word, FODS to PPT, FODS to Image
 ---
 

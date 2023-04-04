@@ -1,6 +1,6 @@
 ---
-title: Convert XLS to XLTX via C++
-description: Convert XLS to XLTX online for free. Convert XLS to XLTX. Convert XLS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLS to XLTX C++
+description: Free Online XLS Converter. Convert XLS to XLTX Online for Free. Convert XLS to XLTX in C++ code. Convert XLS to XLTX using C++.
 keywords: Convert XLS, XLS Converter, XLS to PDF, XLS to Word, XLS to PPT, XLS to Image
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Convert EXCEL to JSON via Java 
-description: Convert EXCEL to JSON online for free. Convert EXCEL to JSON. Convert EXCEL to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert EXCEL to JSON Java 
+description: Free Online EXCEL Converter. Convert EXCEL to JSON Online for Free. Convert EXCEL to JSON in Java code. Convert EXCEL to JSON using Java.
 keywords: Convert EXCEL, EXCEL Converter, EXCEL to PDF, EXCEL to Word, EXCEL to PPT, EXCEL to Image
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Convert SXC to XLSM via Python
-description: Convert SXC to XLSM online for free. Convert SXC to XLSM. Convert SXC to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert SXC to XLSM Python via Python
+description: Free Online SXC Converter. Convert SXC to XLSM Online for Free. Convert SXC to XLSM in Python code. Convert SXC to XLSM using Python.
 keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC to Image
 ---
 

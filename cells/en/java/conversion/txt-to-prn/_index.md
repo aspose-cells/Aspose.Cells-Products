@@ -1,6 +1,6 @@
 ---
-title: Convert TXT to PRN via Java 
-description: Convert TXT to PRN online for free. Convert TXT to PRN. Convert TXT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert TXT to PRN Java 
+description: Free Online TXT Converter. Convert TXT to PRN Online for Free. Convert TXT to PRN in Java code. Convert TXT to PRN using Java.
 keywords: Convert TXT, TXT Converter, TXT to PDF, TXT to Word, TXT to PPT, TXT to Image
 ---
 

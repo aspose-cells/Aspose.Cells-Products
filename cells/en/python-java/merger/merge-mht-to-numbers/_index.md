@@ -1,7 +1,7 @@
 ---
 title: Merge MHT to NUMBERS via Python 
 url: /python-java/merger/merge-mht-to-numbers/ 
-description: Merge MHT to NUMBERS via Python online for free. Merge MHT to NUMBERS in Python. Combine MHT to NUMBERS using Python.
+description: Free Online MHT Merger. Merge MHT to NUMBERS via Python online for free. Merge, Concatenate or Combine MHT to NUMBERS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

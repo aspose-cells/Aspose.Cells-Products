@@ -1,7 +1,7 @@
 ---
 title: Merge XLT to HTML via C# 
 url: /net/merger/merge-xlt-to-html/ 
-description: Merge XLT to HTML via .NET online for free. Merge XLT to HTML in .NET. Combine XLT to HTML using VB.NET, Asp.NET or any .NET based application.
+description: Free Online XLT Merger. Merge XLT to HTML via .NET online for free. Merge, Concatenate or Combine XLT to HTML Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

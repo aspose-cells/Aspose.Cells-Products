@@ -1,7 +1,7 @@
 ---
 title: Merge XLSX to XLSB via Python 
 url: /python-java/merger/merge-xlsx-to-xlsb/ 
-description: Merge XLSX to XLSB via Python online for free. Merge XLSX to XLSB in Python. Combine XLSX to XLSB using Python.
+description: Free Online XLSX Merger. Merge XLSX to XLSB via Python online for free. Merge, Concatenate or Combine XLSX to XLSB Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,6 +1,6 @@
 ---
-title: Convert PNG to XLSX via Python
-description: Convert PNG to XLSX online for free. Convert PNG to XLSX. Convert PNG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert PNG to XLSX Python via Python
+description: Free Online PNG Converter. Convert PNG to XLSX Online for Free. Convert PNG to XLSX in Python code. Convert PNG to XLSX using Python.
 keywords: Convert PNG, PNG Converter, PNG to PDF, PNG to Word, PNG to PPT, PNG to Image
 ---
 

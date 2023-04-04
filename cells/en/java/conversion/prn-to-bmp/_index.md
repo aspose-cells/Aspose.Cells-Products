@@ -1,6 +1,6 @@
 ---
-title: Convert PRN to BMP via Java 
-description: Convert PRN to BMP online for free. Convert PRN to BMP. Convert PRN to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert PRN to BMP Java 
+description: Free Online PRN Converter. Convert PRN to BMP Online for Free. Convert PRN to BMP in Java code. Convert PRN to BMP using Java.
 keywords: Convert PRN, PRN Converter, PRN to PDF, PRN to Word, PRN to PPT, PRN to Image
 ---
 

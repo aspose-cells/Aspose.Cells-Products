@@ -1,7 +1,7 @@
 ---
 title: Merge JSON to MHTML via C# 
 url: /net/merger/merge-json-to-mhtml/ 
-description: Merge JSON to MHTML via .NET online for free. Merge JSON to MHTML in .NET. Combine JSON to MHTML using VB.NET, Asp.NET or any .NET based application.
+description: Free Online JSON Merger. Merge JSON to MHTML via .NET online for free. Merge, Concatenate or Combine JSON to MHTML Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

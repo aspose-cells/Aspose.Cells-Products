@@ -1,7 +1,7 @@
 ---
 title: Merge JSON to HTML via Python 
 url: /python-net/merger/merge-json-to-html/ 
-description: Merge JSON to HTML via Python online for free. Merge JSON to HTML in Python. Combine JSON to HTML using Python.
+description: Free Online JSON Merger. Merge JSON to HTML via Python online for free. Merge, Concatenate or Combine JSON to HTML Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

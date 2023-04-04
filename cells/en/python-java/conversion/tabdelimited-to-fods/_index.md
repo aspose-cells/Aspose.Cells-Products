@@ -1,6 +1,6 @@
 ---
-title: Convert TABDELIMITED to FODS via Python
-description: Convert TABDELIMITED to FODS online for free. Convert TABDELIMITED to FODS. Convert TABDELIMITED to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert TABDELIMITED to FODS Python via Python
+description: Free Online TABDELIMITED Converter. Convert TABDELIMITED to FODS Online for Free. Convert TABDELIMITED to FODS in Python code. Convert TABDELIMITED to FODS using Python.
 keywords: Convert TABDELIMITED, TABDELIMITED Converter, TABDELIMITED to PDF, TABDELIMITED to Word, TABDELIMITED to PPT, TABDELIMITED to Image
 ---
 

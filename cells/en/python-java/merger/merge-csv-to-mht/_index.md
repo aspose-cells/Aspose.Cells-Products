@@ -1,7 +1,7 @@
 ---
 title: Merge CSV to MHT via Python 
 url: /python-java/merger/merge-csv-to-mht/ 
-description: Merge CSV to MHT via Python online for free. Merge CSV to MHT in Python. Combine CSV to MHT using Python.
+description: Free Online CSV Merger. Merge CSV to MHT via Python online for free. Merge, Concatenate or Combine CSV to MHT Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

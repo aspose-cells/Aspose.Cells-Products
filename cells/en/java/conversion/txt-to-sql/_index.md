@@ -1,6 +1,6 @@
 ---
-title: Convert TXT to SQL via Java 
-description: Convert TXT to SQL online for free. Convert TXT to SQL. Convert TXT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert TXT to SQL Java 
+description: Free Online TXT Converter. Convert TXT to SQL Online for Free. Convert TXT to SQL in Java code. Convert TXT to SQL using Java.
 keywords: Convert TXT, TXT Converter, TXT to PDF, TXT to Word, TXT to PPT, TXT to Image
 ---
 

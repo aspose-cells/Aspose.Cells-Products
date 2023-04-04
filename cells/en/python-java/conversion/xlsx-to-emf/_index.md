@@ -1,6 +1,6 @@
 ---
-title: Convert XLSX to EMF via Python
-description: Convert XLSX to EMF online for free. Convert XLSX to EMF. Convert XLSX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLSX to EMF Python via Python
+description: Free Online XLSX Converter. Convert XLSX to EMF Online for Free. Convert XLSX to EMF in Python code. Convert XLSX to EMF using Python.
 keywords: Convert XLSX, XLSX Converter, XLSX to PDF, XLSX to Word, XLSX to PPT, XLSX to Image
 ---
 

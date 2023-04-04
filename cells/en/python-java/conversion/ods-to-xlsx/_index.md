@@ -1,6 +1,6 @@
 ---
-title: Convert ODS to XLSX via Python
-description: Convert ODS to XLSX online for free. Convert ODS to XLSX. Convert ODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert ODS to XLSX Python via Python
+description: Free Online ODS Converter. Convert ODS to XLSX Online for Free. Convert ODS to XLSX in Python code. Convert ODS to XLSX using Python.
 keywords: Convert ODS, ODS Converter, ODS to PDF, ODS to Word, ODS to PPT, ODS to Image
 ---
 

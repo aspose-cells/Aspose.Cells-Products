@@ -1,6 +1,6 @@
 ---
-title: Convert HTML to XLT via Python
-description: Convert HTML to XLT online for free. Convert HTML to XLT. Convert HTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert HTML to XLT Python via Python
+description: Free Online HTML Converter. Convert HTML to XLT Online for Free. Convert HTML to XLT in Python code. Convert HTML to XLT using Python.
 keywords: Convert HTML, HTML Converter, HTML to PDF, HTML to Word, HTML to PPT, HTML to Image
 ---
 

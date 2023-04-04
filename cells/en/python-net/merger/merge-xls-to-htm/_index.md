@@ -1,7 +1,7 @@
 ---
 title: Merge XLS to HTM via Python 
 url: /python-net/merger/merge-xls-to-htm/ 
-description: Merge XLS to HTM via Python online for free. Merge XLS to HTM in Python. Combine XLS to HTM using Python.
+description: Free Online XLS Merger. Merge XLS to HTM via Python online for free. Merge, Concatenate or Combine XLS to HTM Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

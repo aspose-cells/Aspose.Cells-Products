@@ -1,7 +1,7 @@
 ---
 title: Merge MHT to XLSM via Python 
 url: /python-java/merger/merge-mht-to-xlsm/ 
-description: Merge MHT to XLSM via Python online for free. Merge MHT to XLSM in Python. Combine MHT to XLSM using Python.
+description: Free Online MHT Merger. Merge MHT to XLSM via Python online for free. Merge, Concatenate or Combine MHT to XLSM Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

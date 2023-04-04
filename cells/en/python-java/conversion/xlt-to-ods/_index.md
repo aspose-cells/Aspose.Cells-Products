@@ -1,6 +1,6 @@
 ---
-title: Convert XLT to ODS via Python
-description: Convert XLT to ODS online for free. Convert XLT to ODS. Convert XLT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLT to ODS Python via Python
+description: Free Online XLT Converter. Convert XLT to ODS Online for Free. Convert XLT to ODS in Python code. Convert XLT to ODS using Python.
 keywords: Convert XLT, XLT Converter, XLT to PDF, XLT to Word, XLT to PPT, XLT to Image
 ---
 

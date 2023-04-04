@@ -1,7 +1,7 @@
 ---
 title: Merge HTM to XLS via Java 
 url: /java/merger/merge-htm-to-xls/ 
-description: Merge HTM to XLS via Java online for free. Merge HTM to XLS in Java. Combine HTM to XLS using Java based desktop or web application.
+description: Free Online HTM Merger. Merge HTM to XLS via Java online for free. Merge, Concatenate or Combine HTM to XLS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

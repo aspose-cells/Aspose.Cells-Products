@@ -1,6 +1,6 @@
 ---
-title: Convert FODS to DOCX via Python
-description: Convert FODS to DOCX online for free. Convert FODS to DOCX. Convert FODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert FODS to DOCX Python via Python
+description: Free Online FODS Converter. Convert FODS to DOCX Online for Free. Convert FODS to DOCX in Python code. Convert FODS to DOCX using Python.
 keywords: Convert FODS, FODS Converter, FODS to PDF, FODS to Word, FODS to PPT, FODS to Image
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Convert OTS to POWERPOINT via Python
-description: Convert OTS to POWERPOINT online for free. Convert OTS to POWERPOINT. Convert OTS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert OTS to POWERPOINT Python via Python
+description: Free Online OTS Converter. Convert OTS to POWERPOINT Online for Free. Convert OTS to POWERPOINT in Python code. Convert OTS to POWERPOINT using Python.
 keywords: Convert OTS, OTS Converter, OTS to PDF, OTS to Word, OTS to PPT, OTS to Image
 ---
 

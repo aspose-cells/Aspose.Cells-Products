@@ -1,7 +1,7 @@
 ---
 title: Merge XLTX to XLS via Java 
 url: /java/merger/merge-xltx-to-xls/ 
-description: Merge XLTX to XLS via Java online for free. Merge XLTX to XLS in Java. Combine XLTX to XLS using Java based desktop or web application.
+description: Free Online XLTX Merger. Merge XLTX to XLS via Java online for free. Merge, Concatenate or Combine XLTX to XLS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

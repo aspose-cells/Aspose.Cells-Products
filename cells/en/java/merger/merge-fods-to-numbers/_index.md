@@ -1,7 +1,7 @@
 ---
 title: Merge FODS to NUMBERS via Java 
 url: /java/merger/merge-fods-to-numbers/ 
-description: Merge FODS to NUMBERS via Java online for free. Merge FODS to NUMBERS in Java. Combine FODS to NUMBERS using Java based desktop or web application.
+description: Free Online FODS Merger. Merge FODS to NUMBERS via Java online for free. Merge, Concatenate or Combine FODS to NUMBERS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

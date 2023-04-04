@@ -1,7 +1,7 @@
 ---
 title: Merge JSON to NUMBERS via C++ 
 url: /cpp/merger/merge-json-to-numbers/ 
-description: Merge JSON to NUMBERS via C++ online for free. Merge JSON to NUMBERS in C++. Combine JSON to NUMBERS using C++.
+description: Free Online JSON Merger. Merge JSON to NUMBERS via C++ online for free. Merge, Concatenate or Combine JSON to NUMBERS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

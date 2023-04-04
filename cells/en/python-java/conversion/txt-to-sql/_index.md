@@ -1,6 +1,6 @@
 ---
-title: Convert TXT to SQL via Python
-description: Convert TXT to SQL online for free. Convert TXT to SQL. Convert TXT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert TXT to SQL Python via Python
+description: Free Online TXT Converter. Convert TXT to SQL Online for Free. Convert TXT to SQL in Python code. Convert TXT to SQL using Python.
 keywords: Convert TXT, TXT Converter, TXT to PDF, TXT to Word, TXT to PPT, TXT to Image
 ---
 

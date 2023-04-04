@@ -1,7 +1,7 @@
 ---
 title: Merge TSV to MHT via C# 
 url: /net/merger/merge-tsv-to-mht/ 
-description: Merge TSV to MHT via .NET online for free. Merge TSV to MHT in .NET. Combine TSV to MHT using VB.NET, Asp.NET or any .NET based application.
+description: Free Online TSV Merger. Merge TSV to MHT via .NET online for free. Merge, Concatenate or Combine TSV to MHT Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

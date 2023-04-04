@@ -1,6 +1,6 @@
 ---
-title: Convert XLS to MARKDOWN via Java 
-description: Convert XLS to MARKDOWN online for free. Convert XLS to MARKDOWN. Convert XLS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLS to MARKDOWN Java 
+description: Free Online XLS Converter. Convert XLS to MARKDOWN Online for Free. Convert XLS to MARKDOWN in Java code. Convert XLS to MARKDOWN using Java.
 keywords: Convert XLS, XLS Converter, XLS to PDF, XLS to Word, XLS to PPT, XLS to Image
 ---
 

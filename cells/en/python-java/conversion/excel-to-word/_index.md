@@ -1,6 +1,6 @@
 ---
-title: Convert EXCEL to WORD via Python
-description: Convert EXCEL to WORD online for free. Convert EXCEL to WORD. Convert EXCEL to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert EXCEL to WORD Python via Python
+description: Free Online EXCEL Converter. Convert EXCEL to WORD Online for Free. Convert EXCEL to WORD in Python code. Convert EXCEL to WORD using Python.
 keywords: Convert EXCEL, EXCEL Converter, EXCEL to PDF, EXCEL to Word, EXCEL to PPT, EXCEL to Image
 ---
 

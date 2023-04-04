@@ -1,6 +1,6 @@
 ---
-title: Convert CSV to WORD via Java 
-description: Convert CSV to WORD online for free. Convert CSV to WORD. Convert CSV to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert CSV to WORD Java 
+description: Free Online CSV Converter. Convert CSV to WORD Online for Free. Convert CSV to WORD in Java code. Convert CSV to WORD using Java.
 keywords: Convert CSV, CSV Converter, CSV to PDF, CSV to Word, CSV to PPT, CSV to Image
 ---
 

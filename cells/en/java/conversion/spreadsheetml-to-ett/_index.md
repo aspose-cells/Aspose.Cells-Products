@@ -1,6 +1,6 @@
 ---
-title: Convert SPREADSHEETML to ETT via Java 
-description: Convert SPREADSHEETML to ETT online for free. Convert SPREADSHEETML to ETT. Convert SPREADSHEETML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert SPREADSHEETML to ETT Java 
+description: Free Online SPREADSHEETML Converter. Convert SPREADSHEETML to ETT Online for Free. Convert SPREADSHEETML to ETT in Java code. Convert SPREADSHEETML to ETT using Java.
 keywords: Convert SPREADSHEETML, SPREADSHEETML Converter, SPREADSHEETML to PDF, SPREADSHEETML to Word, SPREADSHEETML to PPT, SPREADSHEETML to Image
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Merge ODS to CSV via Java 
 url: /java/merger/merge-ods-to-csv/ 
-description: Merge ODS to CSV via Java online for free. Merge ODS to CSV in Java. Combine ODS to CSV using Java based desktop or web application.
+description: Free Online ODS Merger. Merge ODS to CSV via Java online for free. Merge, Concatenate or Combine ODS to CSV Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

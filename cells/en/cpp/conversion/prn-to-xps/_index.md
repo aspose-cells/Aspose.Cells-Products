@@ -1,6 +1,6 @@
 ---
-title: Convert PRN to XPS via C++
-description: Convert PRN to XPS online for free. Convert PRN to XPS. Convert PRN to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert PRN to XPS C++
+description: Free Online PRN Converter. Convert PRN to XPS Online for Free. Convert PRN to XPS in C++ code. Convert PRN to XPS using C++.
 keywords: Convert PRN, PRN Converter, PRN to PDF, PRN to Word, PRN to PPT, PRN to Image
 ---
 

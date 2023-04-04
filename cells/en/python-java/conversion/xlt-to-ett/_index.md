@@ -1,6 +1,6 @@
 ---
-title: Convert XLT to ETT via Python
-description: Convert XLT to ETT online for free. Convert XLT to ETT. Convert XLT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLT to ETT Python via Python
+description: Free Online XLT Converter. Convert XLT to ETT Online for Free. Convert XLT to ETT in Python code. Convert XLT to ETT using Python.
 keywords: Convert XLT, XLT Converter, XLT to PDF, XLT to Word, XLT to PPT, XLT to Image
 ---
 

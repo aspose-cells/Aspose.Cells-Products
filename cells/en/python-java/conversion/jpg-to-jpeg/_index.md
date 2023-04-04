@@ -1,6 +1,6 @@
 ---
-title: Convert JPG to JPEG via Python
-description: Convert JPG to JPEG online for free. Convert JPG to JPEG. Convert JPG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert JPG to JPEG Python via Python
+description: Free Online JPG Converter. Convert JPG to JPEG Online for Free. Convert JPG to JPEG in Python code. Convert JPG to JPEG using Python.
 keywords: Convert JPG, JPG Converter, JPG to PDF, JPG to Word, JPG to PPT, JPG to Image
 ---
 

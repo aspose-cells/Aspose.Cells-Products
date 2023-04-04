@@ -1,6 +1,6 @@
 ---
-title: Convert JSON to OTS via Java 
-description: Convert JSON to OTS online for free. Convert JSON to OTS. Convert JSON to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert JSON to OTS Java 
+description: Free Online JSON Converter. Convert JSON to OTS Online for Free. Convert JSON to OTS in Java code. Convert JSON to OTS using Java.
 keywords: Convert JSON, JSON Converter, JSON to PDF, JSON to Word, JSON to PPT, JSON to Image
 ---
 

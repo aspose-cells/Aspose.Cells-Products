@@ -1,7 +1,7 @@
 ---
 title: Merge CSV to XLSX via C# 
 url: /net/merger/merge-csv-to-xlsx/ 
-description: Merge CSV to XLSX via .NET online for free. Merge CSV to XLSX in .NET. Combine CSV to XLSX using VB.NET, Asp.NET or any .NET based application.
+description: Free Online CSV Merger. Merge CSV to XLSX via .NET online for free. Merge, Concatenate or Combine CSV to XLSX Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

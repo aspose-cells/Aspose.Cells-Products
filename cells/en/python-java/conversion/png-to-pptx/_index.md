@@ -1,6 +1,6 @@
 ---
-title: Convert PNG to PPTX via Python
-description: Convert PNG to PPTX online for free. Convert PNG to PPTX. Convert PNG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert PNG to PPTX Python via Python
+description: Free Online PNG Converter. Convert PNG to PPTX Online for Free. Convert PNG to PPTX in Python code. Convert PNG to PPTX using Python.
 keywords: Convert PNG, PNG Converter, PNG to PDF, PNG to Word, PNG to PPT, PNG to Image
 ---
 

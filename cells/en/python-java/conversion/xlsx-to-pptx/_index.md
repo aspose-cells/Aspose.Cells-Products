@@ -1,6 +1,6 @@
 ---
-title: Convert XLSX to PPTX via Python
-description: Convert XLSX to PPTX online for free. Convert XLSX to PPTX. Convert XLSX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLSX to PPTX Python via Python
+description: Free Online XLSX Converter. Convert XLSX to PPTX Online for Free. Convert XLSX to PPTX in Python code. Convert XLSX to PPTX using Python.
 keywords: Convert XLSX, XLSX Converter, XLSX to PDF, XLSX to Word, XLSX to PPT, XLSX to Image
 ---
 

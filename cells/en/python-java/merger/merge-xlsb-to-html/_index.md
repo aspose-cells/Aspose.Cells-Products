@@ -1,7 +1,7 @@
 ---
 title: Merge XLSB to HTML via Python 
 url: /python-java/merger/merge-xlsb-to-html/ 
-description: Merge XLSB to HTML via Python online for free. Merge XLSB to HTML in Python. Combine XLSB to HTML using Python.
+description: Free Online XLSB Merger. Merge XLSB to HTML via Python online for free. Merge, Concatenate or Combine XLSB to HTML Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

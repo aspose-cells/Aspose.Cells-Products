@@ -1,6 +1,6 @@
 ---
-title: Convert XLSX to SPREADSHEETML via Python
-description: Convert XLSX to SPREADSHEETML online for free. Convert XLSX to SPREADSHEETML. Convert XLSX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLSX to SPREADSHEETML Python via Python
+description: Free Online XLSX Converter. Convert XLSX to SPREADSHEETML Online for Free. Convert XLSX to SPREADSHEETML in Python code. Convert XLSX to SPREADSHEETML using Python.
 keywords: Convert XLSX, XLSX Converter, XLSX to PDF, XLSX to Word, XLSX to PPT, XLSX to Image
 ---
 

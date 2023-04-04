@@ -1,7 +1,7 @@
 ---
 title: Merge CSV to MHT via C# 
 url: /net/merger/merge-csv-to-mht/ 
-description: Merge CSV to MHT via .NET online for free. Merge CSV to MHT in .NET. Combine CSV to MHT using VB.NET, Asp.NET or any .NET based application.
+description: Free Online CSV Merger. Merge CSV to MHT via .NET online for free. Merge, Concatenate or Combine CSV to MHT Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

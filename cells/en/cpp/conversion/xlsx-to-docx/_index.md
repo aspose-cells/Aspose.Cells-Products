@@ -1,6 +1,6 @@
 ---
-title: Convert XLSX to DOCX via C++
-description: Convert XLSX to DOCX online for free. Convert XLSX to DOCX. Convert XLSX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLSX to DOCX C++
+description: Free Online XLSX Converter. Convert XLSX to DOCX Online for Free. Convert XLSX to DOCX in C++ code. Convert XLSX to DOCX using C++.
 keywords: Convert XLSX, XLSX Converter, XLSX to PDF, XLSX to Word, XLSX to PPT, XLSX to Image
 ---
 

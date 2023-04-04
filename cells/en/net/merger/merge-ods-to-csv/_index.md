@@ -1,7 +1,7 @@
 ---
 title: Merge ODS to CSV via C# 
 url: /net/merger/merge-ods-to-csv/ 
-description: Merge ODS to CSV via .NET online for free. Merge ODS to CSV in .NET. Combine ODS to CSV using VB.NET, Asp.NET or any .NET based application.
+description: Free Online ODS Merger. Merge ODS to CSV via .NET online for free. Merge, Concatenate or Combine ODS to CSV Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

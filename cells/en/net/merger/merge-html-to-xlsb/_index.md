@@ -1,7 +1,7 @@
 ---
 title: Merge HTML to XLSB via C# 
 url: /net/merger/merge-html-to-xlsb/ 
-description: Merge HTML to XLSB via .NET online for free. Merge HTML to XLSB in .NET. Combine HTML to XLSB using VB.NET, Asp.NET or any .NET based application.
+description: Free Online HTML Merger. Merge HTML to XLSB via .NET online for free. Merge, Concatenate or Combine HTML to XLSB Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

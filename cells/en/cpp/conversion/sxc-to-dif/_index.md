@@ -1,6 +1,6 @@
 ---
-title: Convert SXC to DIF via C++
-description: Convert SXC to DIF online for free. Convert SXC to DIF. Convert SXC to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert SXC to DIF C++
+description: Free Online SXC Converter. Convert SXC to DIF Online for Free. Convert SXC to DIF in C++ code. Convert SXC to DIF using C++.
 keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC to Image
 ---
 

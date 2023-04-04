@@ -1,7 +1,7 @@
 ---
 title: Merge XLTM to ODS via Python 
 url: /python-net/merger/merge-xltm-to-ods/ 
-description: Merge XLTM to ODS via Python online for free. Merge XLTM to ODS in Python. Combine XLTM to ODS using Python.
+description: Free Online XLTM Merger. Merge XLTM to ODS via Python online for free. Merge, Concatenate or Combine XLTM to ODS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

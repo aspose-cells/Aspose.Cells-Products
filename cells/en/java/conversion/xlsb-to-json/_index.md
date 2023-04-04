@@ -1,6 +1,6 @@
 ---
-title: Convert XLSB to JSON via Java 
-description: Convert XLSB to JSON online for free. Convert XLSB to JSON. Convert XLSB to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLSB to JSON Java 
+description: Free Online XLSB Converter. Convert XLSB to JSON Online for Free. Convert XLSB to JSON in Java code. Convert XLSB to JSON using Java.
 keywords: Convert XLSB, XLSB Converter, XLSB to PDF, XLSB to Word, XLSB to PPT, XLSB to Image
 ---
 

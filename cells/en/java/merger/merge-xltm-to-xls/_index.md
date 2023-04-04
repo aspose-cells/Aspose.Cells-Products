@@ -1,7 +1,7 @@
 ---
 title: Merge XLTM to XLS via Java 
 url: /java/merger/merge-xltm-to-xls/ 
-description: Merge XLTM to XLS via Java online for free. Merge XLTM to XLS in Java. Combine XLTM to XLS using Java based desktop or web application.
+description: Free Online XLTM Merger. Merge XLTM to XLS via Java online for free. Merge, Concatenate or Combine XLTM to XLS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

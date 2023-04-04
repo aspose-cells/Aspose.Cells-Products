@@ -1,7 +1,7 @@
 ---
 title: Merge XLTX to XLSX via Python 
 url: /python-net/merger/merge-xltx-to-xlsx/ 
-description: Merge XLTX to XLSX via Python online for free. Merge XLTX to XLSX in Python. Combine XLTX to XLSX using Python.
+description: Free Online XLTX Merger. Merge XLTX to XLSX via Python online for free. Merge, Concatenate or Combine XLTX to XLSX Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,6 +1,6 @@
 ---
-title: Convert XLS to EXCEL via Java 
-description: Convert XLS to EXCEL online for free. Convert XLS to EXCEL. Convert XLS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLS to EXCEL Java 
+description: Free Online XLS Converter. Convert XLS to EXCEL Online for Free. Convert XLS to EXCEL in Java code. Convert XLS to EXCEL using Java.
 keywords: Convert XLS, XLS Converter, XLS to PDF, XLS to Word, XLS to PPT, XLS to Image
 ---
 

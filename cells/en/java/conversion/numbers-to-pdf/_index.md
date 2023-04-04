@@ -1,6 +1,6 @@
 ---
-title: Convert NUMBERS to PDF via Java 
-description: Convert NUMBERS to PDF online for free. Convert NUMBERS to PDF. Convert NUMBERS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert NUMBERS to PDF Java 
+description: Free Online NUMBERS Converter. Convert NUMBERS to PDF Online for Free. Convert NUMBERS to PDF in Java code. Convert NUMBERS to PDF using Java.
 keywords: Convert NUMBERS, NUMBERS Converter, NUMBERS to PDF, NUMBERS to Word, NUMBERS to PPT, NUMBERS to Image
 ---
 

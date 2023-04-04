@@ -1,7 +1,7 @@
 ---
 title: Merge XLT to XLSB via C# 
 url: /net/merger/merge-xlt-to-xlsb/ 
-description: Merge XLT to XLSB via .NET online for free. Merge XLT to XLSB in .NET. Combine XLT to XLSB using VB.NET, Asp.NET or any .NET based application.
+description: Free Online XLT Merger. Merge XLT to XLSB via .NET online for free. Merge, Concatenate or Combine XLT to XLSB Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

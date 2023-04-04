@@ -1,7 +1,7 @@
 ---
 title: Merge JSON to XLS via C++ 
 url: /cpp/merger/merge-json-to-xls/ 
-description: Merge JSON to XLS via C++ online for free. Merge JSON to XLS in C++. Combine JSON to XLS using C++.
+description: Free Online JSON Merger. Merge JSON to XLS via C++ online for free. Merge, Concatenate or Combine JSON to XLS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

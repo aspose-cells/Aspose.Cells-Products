@@ -1,6 +1,6 @@
 ---
-title: Convert JSON to SVG via C++
-description: Convert JSON to SVG online for free. Convert JSON to SVG. Convert JSON to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert JSON to SVG C++
+description: Free Online JSON Converter. Convert JSON to SVG Online for Free. Convert JSON to SVG in C++ code. Convert JSON to SVG using C++.
 keywords: Convert JSON, JSON Converter, JSON to PDF, JSON to Word, JSON to PPT, JSON to Image
 ---
 

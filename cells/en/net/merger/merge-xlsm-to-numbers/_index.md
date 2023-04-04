@@ -1,7 +1,7 @@
 ---
 title: Merge XLSM to NUMBERS via C# 
 url: /net/merger/merge-xlsm-to-numbers/ 
-description: Merge XLSM to NUMBERS via .NET online for free. Merge XLSM to NUMBERS in .NET. Combine XLSM to NUMBERS using VB.NET, Asp.NET or any .NET based application.
+description: Free Online XLSM Merger. Merge XLSM to NUMBERS via .NET online for free. Merge, Concatenate or Combine XLSM to NUMBERS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

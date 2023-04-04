@@ -1,6 +1,6 @@
 ---
-title: Convert XLTX to SQL via Java 
-description: Convert XLTX to SQL online for free. Convert XLTX to SQL. Convert XLTX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLTX to SQL Java 
+description: Free Online XLTX Converter. Convert XLTX to SQL Online for Free. Convert XLTX to SQL in Java code. Convert XLTX to SQL using Java.
 keywords: Convert XLTX, XLTX Converter, XLTX to PDF, XLTX to Word, XLTX to PPT, XLTX to Image
 ---
 

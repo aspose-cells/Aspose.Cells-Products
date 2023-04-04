@@ -1,6 +1,6 @@
 ---
-title: Convert JSON to ETT via C++
-description: Convert JSON to ETT online for free. Convert JSON to ETT. Convert JSON to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert JSON to ETT C++
+description: Free Online JSON Converter. Convert JSON to ETT Online for Free. Convert JSON to ETT in C++ code. Convert JSON to ETT using C++.
 keywords: Convert JSON, JSON Converter, JSON to PDF, JSON to Word, JSON to PPT, JSON to Image
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Merge JSON to MHTML via Java 
 url: /java/merger/merge-json-to-mhtml/ 
-description: Merge JSON to MHTML via Java online for free. Merge JSON to MHTML in Java. Combine JSON to MHTML using Java based desktop or web application.
+description: Free Online JSON Merger. Merge JSON to MHTML via Java online for free. Merge, Concatenate or Combine JSON to MHTML Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

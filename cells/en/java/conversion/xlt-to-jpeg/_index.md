@@ -1,6 +1,6 @@
 ---
-title: Convert XLT to JPEG via Java 
-description: Convert XLT to JPEG online for free. Convert XLT to JPEG. Convert XLT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLT to JPEG Java 
+description: Free Online XLT Converter. Convert XLT to JPEG Online for Free. Convert XLT to JPEG in Java code. Convert XLT to JPEG using Java.
 keywords: Convert XLT, XLT Converter, XLT to PDF, XLT to Word, XLT to PPT, XLT to Image
 ---
 

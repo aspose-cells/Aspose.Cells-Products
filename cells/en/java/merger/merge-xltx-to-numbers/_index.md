@@ -1,7 +1,7 @@
 ---
 title: Merge XLTX to NUMBERS via Java 
 url: /java/merger/merge-xltx-to-numbers/ 
-description: Merge XLTX to NUMBERS via Java online for free. Merge XLTX to NUMBERS in Java. Combine XLTX to NUMBERS using Java based desktop or web application.
+description: Free Online XLTX Merger. Merge XLTX to NUMBERS via Java online for free. Merge, Concatenate or Combine XLTX to NUMBERS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

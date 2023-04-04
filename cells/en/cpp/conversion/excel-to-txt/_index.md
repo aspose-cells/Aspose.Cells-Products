@@ -1,6 +1,6 @@
 ---
-title: Convert EXCEL to TXT via C++
-description: Convert EXCEL to TXT online for free. Convert EXCEL to TXT. Convert EXCEL to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert EXCEL to TXT C++
+description: Free Online EXCEL Converter. Convert EXCEL to TXT Online for Free. Convert EXCEL to TXT in C++ code. Convert EXCEL to TXT using C++.
 keywords: Convert EXCEL, EXCEL Converter, EXCEL to PDF, EXCEL to Word, EXCEL to PPT, EXCEL to Image
 ---
 

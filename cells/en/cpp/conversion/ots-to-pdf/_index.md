@@ -1,6 +1,6 @@
 ---
-title: Convert OTS to PDF via C++
-description: Convert OTS to PDF online for free. Convert OTS to PDF. Convert OTS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert OTS to PDF C++
+description: Free Online OTS Converter. Convert OTS to PDF Online for Free. Convert OTS to PDF in C++ code. Convert OTS to PDF using C++.
 keywords: Convert OTS, OTS Converter, OTS to PDF, OTS to Word, OTS to PPT, OTS to Image
 ---
 

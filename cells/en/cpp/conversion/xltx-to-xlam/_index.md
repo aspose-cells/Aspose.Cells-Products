@@ -1,6 +1,6 @@
 ---
-title: Convert XLTX to XLAM via C++
-description: Convert XLTX to XLAM online for free. Convert XLTX to XLAM. Convert XLTX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLTX to XLAM C++
+description: Free Online XLTX Converter. Convert XLTX to XLAM Online for Free. Convert XLTX to XLAM in C++ code. Convert XLTX to XLAM using C++.
 keywords: Convert XLTX, XLTX Converter, XLTX to PDF, XLTX to Word, XLTX to PPT, XLTX to Image
 ---
 

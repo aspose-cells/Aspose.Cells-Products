@@ -1,7 +1,7 @@
 ---
 title: Merge FODS to NUMBERS via C# 
 url: /net/merger/merge-fods-to-numbers/ 
-description: Merge FODS to NUMBERS via .NET online for free. Merge FODS to NUMBERS in .NET. Combine FODS to NUMBERS using VB.NET, Asp.NET or any .NET based application.
+description: Free Online FODS Merger. Merge FODS to NUMBERS via .NET online for free. Merge, Concatenate or Combine FODS to NUMBERS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,6 +1,6 @@
 ---
-title: Convert FODS to XLS via Java 
-description: Convert FODS to XLS online for free. Convert FODS to XLS. Convert FODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert FODS to XLS Java 
+description: Free Online FODS Converter. Convert FODS to XLS Online for Free. Convert FODS to XLS in Java code. Convert FODS to XLS using Java.
 keywords: Convert FODS, FODS Converter, FODS to PDF, FODS to Word, FODS to PPT, FODS to Image
 ---
 

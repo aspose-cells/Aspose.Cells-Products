@@ -1,6 +1,6 @@
 ---
-title: Convert MHTML to MD via C++
-description: Convert MHTML to MD online for free. Convert MHTML to MD. Convert MHTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert MHTML to MD C++
+description: Free Online MHTML Converter. Convert MHTML to MD Online for Free. Convert MHTML to MD in C++ code. Convert MHTML to MD using C++.
 keywords: Convert MHTML, MHTML Converter, MHTML to PDF, MHTML to Word, MHTML to PPT, MHTML to Image
 ---
 

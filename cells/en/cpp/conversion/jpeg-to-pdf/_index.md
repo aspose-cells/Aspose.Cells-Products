@@ -1,6 +1,6 @@
 ---
-title: Convert JPEG to PDF via C++
-description: Convert JPEG to PDF online for free. Convert JPEG to PDF. Convert JPEG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert JPEG to PDF C++
+description: Free Online JPEG Converter. Convert JPEG to PDF Online for Free. Convert JPEG to PDF in C++ code. Convert JPEG to PDF using C++.
 keywords: Convert JPEG, JPEG Converter, JPEG to PDF, JPEG to Word, JPEG to PPT, JPEG to Image
 ---
 

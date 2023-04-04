@@ -1,7 +1,7 @@
 ---
 title: Merge TSV to CSV via Java 
 url: /java/merger/merge-tsv-to-csv/ 
-description: Merge TSV to CSV via Java online for free. Merge TSV to CSV in Java. Combine TSV to CSV using Java based desktop or web application.
+description: Free Online TSV Merger. Merge TSV to CSV via Java online for free. Merge, Concatenate or Combine TSV to CSV Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,6 +1,6 @@
 ---
-title: Convert EXCEL to XLSX via C++
-description: Convert EXCEL to XLSX online for free. Convert EXCEL to XLSX. Convert EXCEL to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert EXCEL to XLSX C++
+description: Free Online EXCEL Converter. Convert EXCEL to XLSX Online for Free. Convert EXCEL to XLSX in C++ code. Convert EXCEL to XLSX using C++.
 keywords: Convert EXCEL, EXCEL Converter, EXCEL to PDF, EXCEL to Word, EXCEL to PPT, EXCEL to Image
 ---
 

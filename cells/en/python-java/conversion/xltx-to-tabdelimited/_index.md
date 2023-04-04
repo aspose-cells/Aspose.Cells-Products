@@ -1,6 +1,6 @@
 ---
-title: Convert XLTX to TABDELIMITED via Python
-description: Convert XLTX to TABDELIMITED online for free. Convert XLTX to TABDELIMITED. Convert XLTX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLTX to TABDELIMITED Python via Python
+description: Free Online XLTX Converter. Convert XLTX to TABDELIMITED Online for Free. Convert XLTX to TABDELIMITED in Python code. Convert XLTX to TABDELIMITED using Python.
 keywords: Convert XLTX, XLTX Converter, XLTX to PDF, XLTX to Word, XLTX to PPT, XLTX to Image
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Convert SXC to PRN via C++
-description: Convert SXC to PRN online for free. Convert SXC to PRN. Convert SXC to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert SXC to PRN C++
+description: Free Online SXC Converter. Convert SXC to PRN Online for Free. Convert SXC to PRN in C++ code. Convert SXC to PRN using C++.
 keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC to Image
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Merge CSV to XLS via C++ 
 url: /cpp/merger/merge-csv-to-xls/ 
-description: Merge CSV to XLS via C++ online for free. Merge CSV to XLS in C++. Combine CSV to XLS using C++.
+description: Free Online CSV Merger. Merge CSV to XLS via C++ online for free. Merge, Concatenate or Combine CSV to XLS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

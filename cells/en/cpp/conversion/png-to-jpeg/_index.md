@@ -1,6 +1,6 @@
 ---
-title: Convert PNG to JPEG via C++
-description: Convert PNG to JPEG online for free. Convert PNG to JPEG. Convert PNG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert PNG to JPEG C++
+description: Free Online PNG Converter. Convert PNG to JPEG Online for Free. Convert PNG to JPEG in C++ code. Convert PNG to JPEG using C++.
 keywords: Convert PNG, PNG Converter, PNG to PDF, PNG to Word, PNG to PPT, PNG to Image
 ---
 

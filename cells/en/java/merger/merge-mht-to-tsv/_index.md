@@ -1,7 +1,7 @@
 ---
 title: Merge MHT to TSV via Java 
 url: /java/merger/merge-mht-to-tsv/ 
-description: Merge MHT to TSV via Java online for free. Merge MHT to TSV in Java. Combine MHT to TSV using Java based desktop or web application.
+description: Free Online MHT Merger. Merge MHT to TSV via Java online for free. Merge, Concatenate or Combine MHT to TSV Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

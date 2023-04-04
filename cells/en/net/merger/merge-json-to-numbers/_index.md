@@ -1,7 +1,7 @@
 ---
 title: Merge JSON to NUMBERS via C# 
 url: /net/merger/merge-json-to-numbers/ 
-description: Merge JSON to NUMBERS via .NET online for free. Merge JSON to NUMBERS in .NET. Combine JSON to NUMBERS using VB.NET, Asp.NET or any .NET based application.
+description: Free Online JSON Merger. Merge JSON to NUMBERS via .NET online for free. Merge, Concatenate or Combine JSON to NUMBERS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

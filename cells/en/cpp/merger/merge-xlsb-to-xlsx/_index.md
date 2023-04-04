@@ -1,7 +1,7 @@
 ---
 title: Merge XLSB to XLSX via C++ 
 url: /cpp/merger/merge-xlsb-to-xlsx/ 
-description: Merge XLSB to XLSX via C++ online for free. Merge XLSB to XLSX in C++. Combine XLSB to XLSX using C++.
+description: Free Online XLSB Merger. Merge XLSB to XLSX via C++ online for free. Merge, Concatenate or Combine XLSB to XLSX Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

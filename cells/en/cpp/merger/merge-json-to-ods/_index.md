@@ -1,7 +1,7 @@
 ---
 title: Merge JSON to ODS via C++ 
 url: /cpp/merger/merge-json-to-ods/ 
-description: Merge JSON to ODS via C++ online for free. Merge JSON to ODS in C++. Combine JSON to ODS using C++.
+description: Free Online JSON Merger. Merge JSON to ODS via C++ online for free. Merge, Concatenate or Combine JSON to ODS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

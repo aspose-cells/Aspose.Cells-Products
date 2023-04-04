@@ -1,6 +1,6 @@
 ---
-title: Convert XLTX to TIFF via Python
-description: Convert XLTX to TIFF online for free. Convert XLTX to TIFF. Convert XLTX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLTX to TIFF Python via Python
+description: Free Online XLTX Converter. Convert XLTX to TIFF Online for Free. Convert XLTX to TIFF in Python code. Convert XLTX to TIFF using Python.
 keywords: Convert XLTX, XLTX Converter, XLTX to PDF, XLTX to Word, XLTX to PPT, XLTX to Image
 ---
 

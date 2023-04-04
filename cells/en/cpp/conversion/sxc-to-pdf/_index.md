@@ -1,6 +1,6 @@
 ---
-title: Convert SXC to PDF via C++
-description: Convert SXC to PDF online for free. Convert SXC to PDF. Convert SXC to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert SXC to PDF C++
+description: Free Online SXC Converter. Convert SXC to PDF Online for Free. Convert SXC to PDF in C++ code. Convert SXC to PDF using C++.
 keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC to Image
 ---
 

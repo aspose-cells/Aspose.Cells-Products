@@ -1,6 +1,6 @@
 ---
-title: Convert JSON to JPEG via C++
-description: Convert JSON to JPEG online for free. Convert JSON to JPEG. Convert JSON to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert JSON to JPEG C++
+description: Free Online JSON Converter. Convert JSON to JPEG Online for Free. Convert JSON to JPEG in C++ code. Convert JSON to JPEG using C++.
 keywords: Convert JSON, JSON Converter, JSON to PDF, JSON to Word, JSON to PPT, JSON to Image
 ---
 

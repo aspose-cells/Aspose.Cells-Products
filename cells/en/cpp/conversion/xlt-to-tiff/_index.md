@@ -1,6 +1,6 @@
 ---
-title: Convert XLT to TIFF via C++
-description: Convert XLT to TIFF online for free. Convert XLT to TIFF. Convert XLT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLT to TIFF C++
+description: Free Online XLT Converter. Convert XLT to TIFF Online for Free. Convert XLT to TIFF in C++ code. Convert XLT to TIFF using C++.
 keywords: Convert XLT, XLT Converter, XLT to PDF, XLT to Word, XLT to PPT, XLT to Image
 ---
 

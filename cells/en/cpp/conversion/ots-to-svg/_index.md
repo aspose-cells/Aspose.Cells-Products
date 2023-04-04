@@ -1,6 +1,6 @@
 ---
-title: Convert OTS to SVG via C++
-description: Convert OTS to SVG online for free. Convert OTS to SVG. Convert OTS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert OTS to SVG C++
+description: Free Online OTS Converter. Convert OTS to SVG Online for Free. Convert OTS to SVG in C++ code. Convert OTS to SVG using C++.
 keywords: Convert OTS, OTS Converter, OTS to PDF, OTS to Word, OTS to PPT, OTS to Image
 ---
 

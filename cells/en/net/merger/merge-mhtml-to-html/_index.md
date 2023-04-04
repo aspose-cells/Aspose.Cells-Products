@@ -1,7 +1,7 @@
 ---
 title: Merge MHTML to HTML via C# 
 url: /net/merger/merge-mhtml-to-html/ 
-description: Merge MHTML to HTML via .NET online for free. Merge MHTML to HTML in .NET. Combine MHTML to HTML using VB.NET, Asp.NET or any .NET based application.
+description: Free Online MHTML Merger. Merge MHTML to HTML via .NET online for free. Merge, Concatenate or Combine MHTML to HTML Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

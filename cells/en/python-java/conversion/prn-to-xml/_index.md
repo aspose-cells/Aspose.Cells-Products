@@ -1,6 +1,6 @@
 ---
-title: Convert PRN to XML via Python
-description: Convert PRN to XML online for free. Convert PRN to XML. Convert PRN to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert PRN to XML Python via Python
+description: Free Online PRN Converter. Convert PRN to XML Online for Free. Convert PRN to XML in Python code. Convert PRN to XML using Python.
 keywords: Convert PRN, PRN Converter, PRN to PDF, PRN to Word, PRN to PPT, PRN to Image
 ---
 

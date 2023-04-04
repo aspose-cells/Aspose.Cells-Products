@@ -1,7 +1,7 @@
 ---
 title: Merge HTM to CSV via Java 
 url: /java/merger/merge-htm-to-csv/ 
-description: Merge HTM to CSV via Java online for free. Merge HTM to CSV in Java. Combine HTM to CSV using Java based desktop or web application.
+description: Free Online HTM Merger. Merge HTM to CSV via Java online for free. Merge, Concatenate or Combine HTM to CSV Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

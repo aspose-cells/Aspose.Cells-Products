@@ -1,6 +1,6 @@
 ---
-title: Convert NUMBERS to ET via Java 
-description: Convert NUMBERS to ET online for free. Convert NUMBERS to ET. Convert NUMBERS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert NUMBERS to ET Java 
+description: Free Online NUMBERS Converter. Convert NUMBERS to ET Online for Free. Convert NUMBERS to ET in Java code. Convert NUMBERS to ET using Java.
 keywords: Convert NUMBERS, NUMBERS Converter, NUMBERS to PDF, NUMBERS to Word, NUMBERS to PPT, NUMBERS to Image
 ---
 

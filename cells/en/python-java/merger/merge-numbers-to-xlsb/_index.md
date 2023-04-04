@@ -1,7 +1,7 @@
 ---
 title: Merge NUMBERS to XLSB via Python 
 url: /python-java/merger/merge-numbers-to-xlsb/ 
-description: Merge NUMBERS to XLSB via Python online for free. Merge NUMBERS to XLSB in Python. Combine NUMBERS to XLSB using Python.
+description: Free Online NUMBERS Merger. Merge NUMBERS to XLSB via Python online for free. Merge, Concatenate or Combine NUMBERS to XLSB Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

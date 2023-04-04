@@ -1,7 +1,7 @@
 ---
 title: Merge XLSB to MHT via C# 
 url: /net/merger/merge-xlsb-to-mht/ 
-description: Merge XLSB to MHT via .NET online for free. Merge XLSB to MHT in .NET. Combine XLSB to MHT using VB.NET, Asp.NET or any .NET based application.
+description: Free Online XLSB Merger. Merge XLSB to MHT via .NET online for free. Merge, Concatenate or Combine XLSB to MHT Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

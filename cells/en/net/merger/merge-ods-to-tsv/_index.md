@@ -1,7 +1,7 @@
 ---
 title: Merge ODS to TSV via C# 
 url: /net/merger/merge-ods-to-tsv/ 
-description: Merge ODS to TSV via .NET online for free. Merge ODS to TSV in .NET. Combine ODS to TSV using VB.NET, Asp.NET or any .NET based application.
+description: Free Online ODS Merger. Merge ODS to TSV via .NET online for free. Merge, Concatenate or Combine ODS to TSV Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

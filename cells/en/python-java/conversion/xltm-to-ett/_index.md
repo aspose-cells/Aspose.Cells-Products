@@ -1,6 +1,6 @@
 ---
-title: Convert XLTM to ETT via Python
-description: Convert XLTM to ETT online for free. Convert XLTM to ETT. Convert XLTM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLTM to ETT Python via Python
+description: Free Online XLTM Converter. Convert XLTM to ETT Online for Free. Convert XLTM to ETT in Python code. Convert XLTM to ETT using Python.
 keywords: Convert XLTM, XLTM Converter, XLTM to PDF, XLTM to Word, XLTM to PPT, XLTM to Image
 ---
 

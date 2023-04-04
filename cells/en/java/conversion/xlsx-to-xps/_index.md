@@ -1,6 +1,6 @@
 ---
-title: Convert XLSX to XPS via Java 
-description: Convert XLSX to XPS online for free. Convert XLSX to XPS. Convert XLSX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLSX to XPS Java 
+description: Free Online XLSX Converter. Convert XLSX to XPS Online for Free. Convert XLSX to XPS in Java code. Convert XLSX to XPS using Java.
 keywords: Convert XLSX, XLSX Converter, XLSX to PDF, XLSX to Word, XLSX to PPT, XLSX to Image
 ---
 

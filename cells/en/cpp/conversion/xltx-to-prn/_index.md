@@ -1,6 +1,6 @@
 ---
-title: Convert XLTX to PRN via C++
-description: Convert XLTX to PRN online for free. Convert XLTX to PRN. Convert XLTX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLTX to PRN C++
+description: Free Online XLTX Converter. Convert XLTX to PRN Online for Free. Convert XLTX to PRN in C++ code. Convert XLTX to PRN using C++.
 keywords: Convert XLTX, XLTX Converter, XLTX to PDF, XLTX to Word, XLTX to PPT, XLTX to Image
 ---
 

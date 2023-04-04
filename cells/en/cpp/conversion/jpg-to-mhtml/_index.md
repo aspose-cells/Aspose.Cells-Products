@@ -1,6 +1,6 @@
 ---
-title: Convert JPG to MHTML via C++
-description: Convert JPG to MHTML online for free. Convert JPG to MHTML. Convert JPG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert JPG to MHTML C++
+description: Free Online JPG Converter. Convert JPG to MHTML Online for Free. Convert JPG to MHTML in C++ code. Convert JPG to MHTML using C++.
 keywords: Convert JPG, JPG Converter, JPG to PDF, JPG to Word, JPG to PPT, JPG to Image
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Merge NUMBERS to MHT via C# 
 url: /net/merger/merge-numbers-to-mht/ 
-description: Merge NUMBERS to MHT via .NET online for free. Merge NUMBERS to MHT in .NET. Combine NUMBERS to MHT using VB.NET, Asp.NET or any .NET based application.
+description: Free Online NUMBERS Merger. Merge NUMBERS to MHT via .NET online for free. Merge, Concatenate or Combine NUMBERS to MHT Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,6 +1,6 @@
 ---
-title: Convert XLSB to JPG via C++
-description: Convert XLSB to JPG online for free. Convert XLSB to JPG. Convert XLSB to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLSB to JPG C++
+description: Free Online XLSB Converter. Convert XLSB to JPG Online for Free. Convert XLSB to JPG in C++ code. Convert XLSB to JPG using C++.
 keywords: Convert XLSB, XLSB Converter, XLSB to PDF, XLSB to Word, XLSB to PPT, XLSB to Image
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Merge HTML to CSV via C# 
 url: /net/merger/merge-html-to-csv/ 
-description: Merge HTML to CSV via .NET online for free. Merge HTML to CSV in .NET. Combine HTML to CSV using VB.NET, Asp.NET or any .NET based application.
+description: Free Online HTML Merger. Merge HTML to CSV via .NET online for free. Merge, Concatenate or Combine HTML to CSV Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

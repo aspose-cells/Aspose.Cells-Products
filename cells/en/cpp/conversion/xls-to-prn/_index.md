@@ -1,6 +1,6 @@
 ---
-title: Convert XLS to PRN via C++
-description: Convert XLS to PRN online for free. Convert XLS to PRN. Convert XLS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLS to PRN C++
+description: Free Online XLS Converter. Convert XLS to PRN Online for Free. Convert XLS to PRN in C++ code. Convert XLS to PRN using C++.
 keywords: Convert XLS, XLS Converter, XLS to PDF, XLS to Word, XLS to PPT, XLS to Image
 ---
 

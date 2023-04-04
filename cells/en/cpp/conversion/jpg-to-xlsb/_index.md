@@ -1,6 +1,6 @@
 ---
-title: Convert JPG to XLSB via C++
-description: Convert JPG to XLSB online for free. Convert JPG to XLSB. Convert JPG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert JPG to XLSB C++
+description: Free Online JPG Converter. Convert JPG to XLSB Online for Free. Convert JPG to XLSB in C++ code. Convert JPG to XLSB using C++.
 keywords: Convert JPG, JPG Converter, JPG to PDF, JPG to Word, JPG to PPT, JPG to Image
 ---
 

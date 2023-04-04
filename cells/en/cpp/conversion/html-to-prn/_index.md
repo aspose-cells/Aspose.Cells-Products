@@ -1,6 +1,6 @@
 ---
-title: Convert HTML to PRN via C++
-description: Convert HTML to PRN online for free. Convert HTML to PRN. Convert HTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert HTML to PRN C++
+description: Free Online HTML Converter. Convert HTML to PRN Online for Free. Convert HTML to PRN in C++ code. Convert HTML to PRN using C++.
 keywords: Convert HTML, HTML Converter, HTML to PDF, HTML to Word, HTML to PPT, HTML to Image
 ---
 

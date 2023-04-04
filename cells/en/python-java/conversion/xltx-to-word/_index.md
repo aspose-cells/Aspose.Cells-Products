@@ -1,6 +1,6 @@
 ---
-title: Convert XLTX to WORD via Python
-description: Convert XLTX to WORD online for free. Convert XLTX to WORD. Convert XLTX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLTX to WORD Python via Python
+description: Free Online XLTX Converter. Convert XLTX to WORD Online for Free. Convert XLTX to WORD in Python code. Convert XLTX to WORD using Python.
 keywords: Convert XLTX, XLTX Converter, XLTX to PDF, XLTX to Word, XLTX to PPT, XLTX to Image
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Merge JSON to HTM via Java 
 url: /java/merger/merge-json-to-htm/ 
-description: Merge JSON to HTM via Java online for free. Merge JSON to HTM in Java. Combine JSON to HTM using Java based desktop or web application.
+description: Free Online JSON Merger. Merge JSON to HTM via Java online for free. Merge, Concatenate or Combine JSON to HTM Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

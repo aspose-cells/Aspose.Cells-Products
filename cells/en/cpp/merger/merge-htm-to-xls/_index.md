@@ -1,7 +1,7 @@
 ---
 title: Merge HTM to XLS via C++ 
 url: /cpp/merger/merge-htm-to-xls/ 
-description: Merge HTM to XLS via C++ online for free. Merge HTM to XLS in C++. Combine HTM to XLS using C++.
+description: Free Online HTM Merger. Merge HTM to XLS via C++ online for free. Merge, Concatenate or Combine HTM to XLS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

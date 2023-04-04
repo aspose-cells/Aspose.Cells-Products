@@ -1,6 +1,6 @@
 ---
-title: Convert XLSB to SXC via Java 
-description: Convert XLSB to SXC online for free. Convert XLSB to SXC. Convert XLSB to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLSB to SXC Java 
+description: Free Online XLSB Converter. Convert XLSB to SXC Online for Free. Convert XLSB to SXC in Java code. Convert XLSB to SXC using Java.
 keywords: Convert XLSB, XLSB Converter, XLSB to PDF, XLSB to Word, XLSB to PPT, XLSB to Image
 ---
 

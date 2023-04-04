@@ -1,7 +1,7 @@
 ---
 title: Merge XLSX to MHTML via C++ 
 url: /cpp/merger/merge-xlsx-to-mhtml/ 
-description: Merge XLSX to MHTML via C++ online for free. Merge XLSX to MHTML in C++. Combine XLSX to MHTML using C++.
+description: Free Online XLSX Merger. Merge XLSX to MHTML via C++ online for free. Merge, Concatenate or Combine XLSX to MHTML Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

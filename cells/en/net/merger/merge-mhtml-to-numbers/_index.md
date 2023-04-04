@@ -1,7 +1,7 @@
 ---
 title: Merge MHTML to NUMBERS via C# 
 url: /net/merger/merge-mhtml-to-numbers/ 
-description: Merge MHTML to NUMBERS via .NET online for free. Merge MHTML to NUMBERS in .NET. Combine MHTML to NUMBERS using VB.NET, Asp.NET or any .NET based application.
+description: Free Online MHTML Merger. Merge MHTML to NUMBERS via .NET online for free. Merge, Concatenate or Combine MHTML to NUMBERS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

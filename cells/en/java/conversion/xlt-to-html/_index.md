@@ -1,6 +1,6 @@
 ---
-title: Convert XLT to HTML via Java 
-description: Convert XLT to HTML online for free. Convert XLT to HTML. Convert XLT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLT to HTML Java 
+description: Free Online XLT Converter. Convert XLT to HTML Online for Free. Convert XLT to HTML in Java code. Convert XLT to HTML using Java.
 keywords: Convert XLT, XLT Converter, XLT to PDF, XLT to Word, XLT to PPT, XLT to Image
 ---
 

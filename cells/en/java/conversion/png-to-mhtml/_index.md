@@ -1,6 +1,6 @@
 ---
-title: Convert PNG to MHTML via Java 
-description: Convert PNG to MHTML online for free. Convert PNG to MHTML. Convert PNG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert PNG to MHTML Java 
+description: Free Online PNG Converter. Convert PNG to MHTML Online for Free. Convert PNG to MHTML in Java code. Convert PNG to MHTML using Java.
 keywords: Convert PNG, PNG Converter, PNG to PDF, PNG to Word, PNG to PPT, PNG to Image
 ---
 

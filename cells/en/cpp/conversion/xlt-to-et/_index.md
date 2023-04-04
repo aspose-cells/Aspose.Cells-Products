@@ -1,6 +1,6 @@
 ---
-title: Convert XLT to ET via C++
-description: Convert XLT to ET online for free. Convert XLT to ET. Convert XLT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLT to ET C++
+description: Free Online XLT Converter. Convert XLT to ET Online for Free. Convert XLT to ET in C++ code. Convert XLT to ET using C++.
 keywords: Convert XLT, XLT Converter, XLT to PDF, XLT to Word, XLT to PPT, XLT to Image
 ---
 

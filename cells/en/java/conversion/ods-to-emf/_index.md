@@ -1,6 +1,6 @@
 ---
-title: Convert ODS to EMF via Java 
-description: Convert ODS to EMF online for free. Convert ODS to EMF. Convert ODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert ODS to EMF Java 
+description: Free Online ODS Converter. Convert ODS to EMF Online for Free. Convert ODS to EMF in Java code. Convert ODS to EMF using Java.
 keywords: Convert ODS, ODS Converter, ODS to PDF, ODS to Word, ODS to PPT, ODS to Image
 ---
 

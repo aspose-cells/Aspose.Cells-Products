@@ -1,7 +1,7 @@
 ---
 title: Merge CSV to XLSB via Python 
 url: /python-java/merger/merge-csv-to-xlsb/ 
-description: Merge CSV to XLSB via Python online for free. Merge CSV to XLSB in Python. Combine CSV to XLSB using Python.
+description: Free Online CSV Merger. Merge CSV to XLSB via Python online for free. Merge, Concatenate or Combine CSV to XLSB Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

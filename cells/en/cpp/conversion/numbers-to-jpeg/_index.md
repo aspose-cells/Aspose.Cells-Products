@@ -1,6 +1,6 @@
 ---
-title: Convert NUMBERS to JPEG via C++
-description: Convert NUMBERS to JPEG online for free. Convert NUMBERS to JPEG. Convert NUMBERS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert NUMBERS to JPEG C++
+description: Free Online NUMBERS Converter. Convert NUMBERS to JPEG Online for Free. Convert NUMBERS to JPEG in C++ code. Convert NUMBERS to JPEG using C++.
 keywords: Convert NUMBERS, NUMBERS Converter, NUMBERS to PDF, NUMBERS to Word, NUMBERS to PPT, NUMBERS to Image
 ---
 

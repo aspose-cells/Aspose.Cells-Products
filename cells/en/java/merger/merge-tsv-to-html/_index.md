@@ -1,7 +1,7 @@
 ---
 title: Merge TSV to HTML via Java 
 url: /java/merger/merge-tsv-to-html/ 
-description: Merge TSV to HTML via Java online for free. Merge TSV to HTML in Java. Combine TSV to HTML using Java based desktop or web application.
+description: Free Online TSV Merger. Merge TSV to HTML via Java online for free. Merge, Concatenate or Combine TSV to HTML Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

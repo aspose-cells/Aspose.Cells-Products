@@ -1,6 +1,6 @@
 ---
-title: Convert TXT to XLAM via Java 
-description: Convert TXT to XLAM online for free. Convert TXT to XLAM. Convert TXT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert TXT to XLAM Java 
+description: Free Online TXT Converter. Convert TXT to XLAM Online for Free. Convert TXT to XLAM in Java code. Convert TXT to XLAM using Java.
 keywords: Convert TXT, TXT Converter, TXT to PDF, TXT to Word, TXT to PPT, TXT to Image
 ---
 

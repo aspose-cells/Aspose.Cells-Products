@@ -1,7 +1,7 @@
 ---
 title: Merge HTM to XLSM via C++ 
 url: /cpp/merger/merge-htm-to-xlsm/ 
-description: Merge HTM to XLSM via C++ online for free. Merge HTM to XLSM in C++. Combine HTM to XLSM using C++.
+description: Free Online HTM Merger. Merge HTM to XLSM via C++ online for free. Merge, Concatenate or Combine HTM to XLSM Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

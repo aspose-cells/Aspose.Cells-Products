@@ -1,7 +1,7 @@
 ---
 title: Merge HTML to NUMBERS via Python 
 url: /python-java/merger/merge-html-to-numbers/ 
-description: Merge HTML to NUMBERS via Python online for free. Merge HTML to NUMBERS in Python. Combine HTML to NUMBERS using Python.
+description: Free Online HTML Merger. Merge HTML to NUMBERS via Python online for free. Merge, Concatenate or Combine HTML to NUMBERS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

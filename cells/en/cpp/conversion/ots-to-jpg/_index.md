@@ -1,6 +1,6 @@
 ---
-title: Convert OTS to JPG via C++
-description: Convert OTS to JPG online for free. Convert OTS to JPG. Convert OTS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert OTS to JPG C++
+description: Free Online OTS Converter. Convert OTS to JPG Online for Free. Convert OTS to JPG in C++ code. Convert OTS to JPG using C++.
 keywords: Convert OTS, OTS Converter, OTS to PDF, OTS to Word, OTS to PPT, OTS to Image
 ---
 

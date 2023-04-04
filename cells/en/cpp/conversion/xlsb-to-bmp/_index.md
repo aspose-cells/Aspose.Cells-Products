@@ -1,6 +1,6 @@
 ---
-title: Convert XLSB to BMP via C++
-description: Convert XLSB to BMP online for free. Convert XLSB to BMP. Convert XLSB to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLSB to BMP C++
+description: Free Online XLSB Converter. Convert XLSB to BMP Online for Free. Convert XLSB to BMP in C++ code. Convert XLSB to BMP using C++.
 keywords: Convert XLSB, XLSB Converter, XLSB to PDF, XLSB to Word, XLSB to PPT, XLSB to Image
 ---
 

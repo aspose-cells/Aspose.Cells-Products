@@ -1,7 +1,7 @@
 ---
 title: Merge CSV to HTM via C++ 
 url: /cpp/merger/merge-csv-to-htm/ 
-description: Merge CSV to HTM via C++ online for free. Merge CSV to HTM in C++. Combine CSV to HTM using C++.
+description: Free Online CSV Merger. Merge CSV to HTM via C++ online for free. Merge, Concatenate or Combine CSV to HTM Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

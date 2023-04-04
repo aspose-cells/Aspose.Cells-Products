@@ -1,7 +1,7 @@
 ---
 title: Merge JSON to NUMBERS via Python 
 url: /python-net/merger/merge-json-to-numbers/ 
-description: Merge JSON to NUMBERS via Python online for free. Merge JSON to NUMBERS in Python. Combine JSON to NUMBERS using Python.
+description: Free Online JSON Merger. Merge JSON to NUMBERS via Python online for free. Merge, Concatenate or Combine JSON to NUMBERS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

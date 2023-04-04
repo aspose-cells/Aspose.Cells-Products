@@ -1,7 +1,7 @@
 ---
 title: Merge TSV to HTML via Python 
 url: /python-java/merger/merge-tsv-to-html/ 
-description: Merge TSV to HTML via Python online for free. Merge TSV to HTML in Python. Combine TSV to HTML using Python.
+description: Free Online TSV Merger. Merge TSV to HTML via Python online for free. Merge, Concatenate or Combine TSV to HTML Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

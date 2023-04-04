@@ -1,7 +1,7 @@
 ---
 title: Merge HTML to NUMBERS via C++ 
 url: /cpp/merger/merge-html-to-numbers/ 
-description: Merge HTML to NUMBERS via C++ online for free. Merge HTML to NUMBERS in C++. Combine HTML to NUMBERS using C++.
+description: Free Online HTML Merger. Merge HTML to NUMBERS via C++ online for free. Merge, Concatenate or Combine HTML to NUMBERS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

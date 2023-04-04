@@ -1,7 +1,7 @@
 ---
 title: Merge MHT to CSV via Java 
 url: /java/merger/merge-mht-to-csv/ 
-description: Merge MHT to CSV via Java online for free. Merge MHT to CSV in Java. Combine MHT to CSV using Java based desktop or web application.
+description: Free Online MHT Merger. Merge MHT to CSV via Java online for free. Merge, Concatenate or Combine MHT to CSV Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

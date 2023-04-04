@@ -1,7 +1,7 @@
 ---
 title: Merge MHT to ODS via C# 
 url: /net/merger/merge-mht-to-ods/ 
-description: Merge MHT to ODS via .NET online for free. Merge MHT to ODS in .NET. Combine MHT to ODS using VB.NET, Asp.NET or any .NET based application.
+description: Free Online MHT Merger. Merge MHT to ODS via .NET online for free. Merge, Concatenate or Combine MHT to ODS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

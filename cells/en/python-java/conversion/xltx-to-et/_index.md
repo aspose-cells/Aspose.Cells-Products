@@ -1,6 +1,6 @@
 ---
-title: Convert XLTX to ET via Python
-description: Convert XLTX to ET online for free. Convert XLTX to ET. Convert XLTX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLTX to ET Python via Python
+description: Free Online XLTX Converter. Convert XLTX to ET Online for Free. Convert XLTX to ET in Python code. Convert XLTX to ET using Python.
 keywords: Convert XLTX, XLTX Converter, XLTX to PDF, XLTX to Word, XLTX to PPT, XLTX to Image
 ---
 

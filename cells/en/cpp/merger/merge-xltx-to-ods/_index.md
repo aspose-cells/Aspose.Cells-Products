@@ -1,7 +1,7 @@
 ---
 title: Merge XLTX to ODS via C++ 
 url: /cpp/merger/merge-xltx-to-ods/ 
-description: Merge XLTX to ODS via C++ online for free. Merge XLTX to ODS in C++. Combine XLTX to ODS using C++.
+description: Free Online XLTX Merger. Merge XLTX to ODS via C++ online for free. Merge, Concatenate or Combine XLTX to ODS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

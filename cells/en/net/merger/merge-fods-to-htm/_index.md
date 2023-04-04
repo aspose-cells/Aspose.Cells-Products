@@ -1,7 +1,7 @@
 ---
 title: Merge FODS to HTM via C# 
 url: /net/merger/merge-fods-to-htm/ 
-description: Merge FODS to HTM via .NET online for free. Merge FODS to HTM in .NET. Combine FODS to HTM using VB.NET, Asp.NET or any .NET based application.
+description: Free Online FODS Merger. Merge FODS to HTM via .NET online for free. Merge, Concatenate or Combine FODS to HTM Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

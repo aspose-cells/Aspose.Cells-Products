@@ -1,6 +1,6 @@
 ---
-title: Convert TABDELIMITED to XLT via Python
-description: Convert TABDELIMITED to XLT online for free. Convert TABDELIMITED to XLT. Convert TABDELIMITED to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert TABDELIMITED to XLT Python via Python
+description: Free Online TABDELIMITED Converter. Convert TABDELIMITED to XLT Online for Free. Convert TABDELIMITED to XLT in Python code. Convert TABDELIMITED to XLT using Python.
 keywords: Convert TABDELIMITED, TABDELIMITED Converter, TABDELIMITED to PDF, TABDELIMITED to Word, TABDELIMITED to PPT, TABDELIMITED to Image
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Convert PNG to PRN via Python
-description: Convert PNG to PRN online for free. Convert PNG to PRN. Convert PNG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert PNG to PRN Python via Python
+description: Free Online PNG Converter. Convert PNG to PRN Online for Free. Convert PNG to PRN in Python code. Convert PNG to PRN using Python.
 keywords: Convert PNG, PNG Converter, PNG to PDF, PNG to Word, PNG to PPT, PNG to Image
 ---
 

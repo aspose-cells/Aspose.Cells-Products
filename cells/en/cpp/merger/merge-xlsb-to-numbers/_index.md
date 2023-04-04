@@ -1,7 +1,7 @@
 ---
 title: Merge XLSB to NUMBERS via C++ 
 url: /cpp/merger/merge-xlsb-to-numbers/ 
-description: Merge XLSB to NUMBERS via C++ online for free. Merge XLSB to NUMBERS in C++. Combine XLSB to NUMBERS using C++.
+description: Free Online XLSB Merger. Merge XLSB to NUMBERS via C++ online for free. Merge, Concatenate or Combine XLSB to NUMBERS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

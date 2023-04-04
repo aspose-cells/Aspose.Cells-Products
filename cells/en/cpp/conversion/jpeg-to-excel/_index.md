@@ -1,6 +1,6 @@
 ---
-title: Convert JPEG to EXCEL via C++
-description: Convert JPEG to EXCEL online for free. Convert JPEG to EXCEL. Convert JPEG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert JPEG to EXCEL C++
+description: Free Online JPEG Converter. Convert JPEG to EXCEL Online for Free. Convert JPEG to EXCEL in C++ code. Convert JPEG to EXCEL using C++.
 keywords: Convert JPEG, JPEG Converter, JPEG to PDF, JPEG to Word, JPEG to PPT, JPEG to Image
 ---
 

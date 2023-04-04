@@ -1,7 +1,7 @@
 ---
 title: Merge FODS to XLS via C# 
 url: /net/merger/merge-fods-to-xls/ 
-description: Merge FODS to XLS via .NET online for free. Merge FODS to XLS in .NET. Combine FODS to XLS using VB.NET, Asp.NET or any .NET based application.
+description: Free Online FODS Merger. Merge FODS to XLS via .NET online for free. Merge, Concatenate or Combine FODS to XLS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

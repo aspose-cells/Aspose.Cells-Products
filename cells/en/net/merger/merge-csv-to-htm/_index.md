@@ -1,7 +1,7 @@
 ---
 title: Merge CSV to HTM via C# 
 url: /net/merger/merge-csv-to-htm/ 
-description: Merge CSV to HTM via .NET online for free. Merge CSV to HTM in .NET. Combine CSV to HTM using VB.NET, Asp.NET or any .NET based application.
+description: Free Online CSV Merger. Merge CSV to HTM via .NET online for free. Merge, Concatenate or Combine CSV to HTM Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

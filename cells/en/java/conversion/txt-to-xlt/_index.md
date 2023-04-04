@@ -1,6 +1,6 @@
 ---
-title: Convert TXT to XLT via Java 
-description: Convert TXT to XLT online for free. Convert TXT to XLT. Convert TXT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert TXT to XLT Java 
+description: Free Online TXT Converter. Convert TXT to XLT Online for Free. Convert TXT to XLT in Java code. Convert TXT to XLT using Java.
 keywords: Convert TXT, TXT Converter, TXT to PDF, TXT to Word, TXT to PPT, TXT to Image
 ---
 

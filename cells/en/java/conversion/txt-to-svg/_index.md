@@ -1,6 +1,6 @@
 ---
-title: Convert TXT to SVG via Java 
-description: Convert TXT to SVG online for free. Convert TXT to SVG. Convert TXT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert TXT to SVG Java 
+description: Free Online TXT Converter. Convert TXT to SVG Online for Free. Convert TXT to SVG in Java code. Convert TXT to SVG using Java.
 keywords: Convert TXT, TXT Converter, TXT to PDF, TXT to Word, TXT to PPT, TXT to Image
 ---
 

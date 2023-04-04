@@ -1,6 +1,6 @@
 ---
-title: Convert TXT to WORD via C++
-description: Convert TXT to WORD online for free. Convert TXT to WORD. Convert TXT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert TXT to WORD C++
+description: Free Online TXT Converter. Convert TXT to WORD Online for Free. Convert TXT to WORD in C++ code. Convert TXT to WORD using C++.
 keywords: Convert TXT, TXT Converter, TXT to PDF, TXT to Word, TXT to PPT, TXT to Image
 ---
 

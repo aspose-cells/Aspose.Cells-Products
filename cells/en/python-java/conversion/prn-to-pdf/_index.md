@@ -1,6 +1,6 @@
 ---
-title: Convert PRN to PDF via Python
-description: Convert PRN to PDF online for free. Convert PRN to PDF. Convert PRN to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert PRN to PDF Python via Python
+description: Free Online PRN Converter. Convert PRN to PDF Online for Free. Convert PRN to PDF in Python code. Convert PRN to PDF using Python.
 keywords: Convert PRN, PRN Converter, PRN to PDF, PRN to Word, PRN to PPT, PRN to Image
 ---
 

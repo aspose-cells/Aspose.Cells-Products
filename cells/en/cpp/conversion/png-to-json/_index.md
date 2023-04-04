@@ -1,6 +1,6 @@
 ---
-title: Convert PNG to JSON via C++
-description: Convert PNG to JSON online for free. Convert PNG to JSON. Convert PNG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert PNG to JSON C++
+description: Free Online PNG Converter. Convert PNG to JSON Online for Free. Convert PNG to JSON in C++ code. Convert PNG to JSON using C++.
 keywords: Convert PNG, PNG Converter, PNG to PDF, PNG to Word, PNG to PPT, PNG to Image
 ---
 

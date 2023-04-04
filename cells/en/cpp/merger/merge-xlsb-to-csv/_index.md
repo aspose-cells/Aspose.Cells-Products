@@ -1,7 +1,7 @@
 ---
 title: Merge XLSB to CSV via C++ 
 url: /cpp/merger/merge-xlsb-to-csv/ 
-description: Merge XLSB to CSV via C++ online for free. Merge XLSB to CSV in C++. Combine XLSB to CSV using C++.
+description: Free Online XLSB Merger. Merge XLSB to CSV via C++ online for free. Merge, Concatenate or Combine XLSB to CSV Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

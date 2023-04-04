@@ -1,6 +1,6 @@
 ---
-title: Convert FODS to XML via C++
-description: Convert FODS to XML online for free. Convert FODS to XML. Convert FODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert FODS to XML C++
+description: Free Online FODS Converter. Convert FODS to XML Online for Free. Convert FODS to XML in C++ code. Convert FODS to XML using C++.
 keywords: Convert FODS, FODS Converter, FODS to PDF, FODS to Word, FODS to PPT, FODS to Image
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Merge FODS to HTML via C++ 
 url: /cpp/merger/merge-fods-to-html/ 
-description: Merge FODS to HTML via C++ online for free. Merge FODS to HTML in C++. Combine FODS to HTML using C++.
+description: Free Online FODS Merger. Merge FODS to HTML via C++ online for free. Merge, Concatenate or Combine FODS to HTML Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,6 +1,6 @@
 ---
-title: Convert XLSX to JSON via Java 
-description: Convert XLSX to JSON online for free. Convert XLSX to JSON. Convert XLSX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLSX to JSON Java 
+description: Free Online XLSX Converter. Convert XLSX to JSON Online for Free. Convert XLSX to JSON in Java code. Convert XLSX to JSON using Java.
 keywords: Convert XLSX, XLSX Converter, XLSX to PDF, XLSX to Word, XLSX to PPT, XLSX to Image
 ---
 

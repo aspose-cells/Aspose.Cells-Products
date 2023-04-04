@@ -1,6 +1,6 @@
 ---
-title: Convert XLTX to JPG via C++
-description: Convert XLTX to JPG online for free. Convert XLTX to JPG. Convert XLTX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLTX to JPG C++
+description: Free Online XLTX Converter. Convert XLTX to JPG Online for Free. Convert XLTX to JPG in C++ code. Convert XLTX to JPG using C++.
 keywords: Convert XLTX, XLTX Converter, XLTX to PDF, XLTX to Word, XLTX to PPT, XLTX to Image
 ---
 

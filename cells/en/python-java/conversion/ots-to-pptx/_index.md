@@ -1,6 +1,6 @@
 ---
-title: Convert OTS to PPTX via Python
-description: Convert OTS to PPTX online for free. Convert OTS to PPTX. Convert OTS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert OTS to PPTX Python via Python
+description: Free Online OTS Converter. Convert OTS to PPTX Online for Free. Convert OTS to PPTX in Python code. Convert OTS to PPTX using Python.
 keywords: Convert OTS, OTS Converter, OTS to PDF, OTS to Word, OTS to PPT, OTS to Image
 ---
 

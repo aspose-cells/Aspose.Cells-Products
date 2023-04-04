@@ -1,7 +1,7 @@
 ---
 title: Merge HTM to NUMBERS via Java 
 url: /java/merger/merge-htm-to-numbers/ 
-description: Merge HTM to NUMBERS via Java online for free. Merge HTM to NUMBERS in Java. Combine HTM to NUMBERS using Java based desktop or web application.
+description: Free Online HTM Merger. Merge HTM to NUMBERS via Java online for free. Merge, Concatenate or Combine HTM to NUMBERS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

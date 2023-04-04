@@ -1,6 +1,6 @@
 ---
-title: Convert CSV to MHTML via Python
-description: Convert CSV to MHTML online for free. Convert CSV to MHTML. Convert CSV to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert CSV to MHTML Python via Python
+description: Free Online CSV Converter. Convert CSV to MHTML Online for Free. Convert CSV to MHTML in Python code. Convert CSV to MHTML using Python.
 keywords: Convert CSV, CSV Converter, CSV to PDF, CSV to Word, CSV to PPT, CSV to Image
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Merge HTML to HTML via Python 
 url: /python-java/merger/merge-html-to-html/ 
-description: Merge HTML to HTML via Python online for free. Merge HTML to HTML in Python. Combine HTML to HTML using Python.
+description: Free Online HTML Merger. Merge HTML to HTML via Python online for free. Merge, Concatenate or Combine HTML to HTML Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

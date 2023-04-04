@@ -1,6 +1,6 @@
 ---
-title: Convert MHTML to ETT via C++
-description: Convert MHTML to ETT online for free. Convert MHTML to ETT. Convert MHTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert MHTML to ETT C++
+description: Free Online MHTML Converter. Convert MHTML to ETT Online for Free. Convert MHTML to ETT in C++ code. Convert MHTML to ETT using C++.
 keywords: Convert MHTML, MHTML Converter, MHTML to PDF, MHTML to Word, MHTML to PPT, MHTML to Image
 ---
 

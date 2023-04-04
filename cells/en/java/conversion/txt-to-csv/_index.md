@@ -1,6 +1,6 @@
 ---
-title: Convert TXT to CSV via Java 
-description: Convert TXT to CSV online for free. Convert TXT to CSV. Convert TXT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert TXT to CSV Java 
+description: Free Online TXT Converter. Convert TXT to CSV Online for Free. Convert TXT to CSV in Java code. Convert TXT to CSV using Java.
 keywords: Convert TXT, TXT Converter, TXT to PDF, TXT to Word, TXT to PPT, TXT to Image
 ---
 

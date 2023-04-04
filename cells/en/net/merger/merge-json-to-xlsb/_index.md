@@ -1,7 +1,7 @@
 ---
 title: Merge JSON to XLSB via C# 
 url: /net/merger/merge-json-to-xlsb/ 
-description: Merge JSON to XLSB via .NET online for free. Merge JSON to XLSB in .NET. Combine JSON to XLSB using VB.NET, Asp.NET or any .NET based application.
+description: Free Online JSON Merger. Merge JSON to XLSB via .NET online for free. Merge, Concatenate or Combine JSON to XLSB Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

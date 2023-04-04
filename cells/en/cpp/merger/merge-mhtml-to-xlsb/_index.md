@@ -1,7 +1,7 @@
 ---
 title: Merge MHTML to XLSB via C++ 
 url: /cpp/merger/merge-mhtml-to-xlsb/ 
-description: Merge MHTML to XLSB via C++ online for free. Merge MHTML to XLSB in C++. Combine MHTML to XLSB using C++.
+description: Free Online MHTML Merger. Merge MHTML to XLSB via C++ online for free. Merge, Concatenate or Combine MHTML to XLSB Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

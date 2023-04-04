@@ -1,6 +1,6 @@
 ---
-title: Convert CSV to XLSX via C++
-description: Convert CSV to XLSX online for free. Convert CSV to XLSX. Convert CSV to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert CSV to XLSX C++
+description: Free Online CSV Converter. Convert CSV to XLSX Online for Free. Convert CSV to XLSX in C++ code. Convert CSV to XLSX using C++.
 keywords: Convert CSV, CSV Converter, CSV to PDF, CSV to Word, CSV to PPT, CSV to Image
 ---
 

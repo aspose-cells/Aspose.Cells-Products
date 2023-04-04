@@ -1,6 +1,6 @@
 ---
-title: Convert MHTML to XLSX via C++
-description: Convert MHTML to XLSX online for free. Convert MHTML to XLSX. Convert MHTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert MHTML to XLSX C++
+description: Free Online MHTML Converter. Convert MHTML to XLSX Online for Free. Convert MHTML to XLSX in C++ code. Convert MHTML to XLSX using C++.
 keywords: Convert MHTML, MHTML Converter, MHTML to PDF, MHTML to Word, MHTML to PPT, MHTML to Image
 ---
 

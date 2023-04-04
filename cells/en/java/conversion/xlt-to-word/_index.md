@@ -1,6 +1,6 @@
 ---
-title: Convert XLT to WORD via Java 
-description: Convert XLT to WORD online for free. Convert XLT to WORD. Convert XLT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLT to WORD Java 
+description: Free Online XLT Converter. Convert XLT to WORD Online for Free. Convert XLT to WORD in Java code. Convert XLT to WORD using Java.
 keywords: Convert XLT, XLT Converter, XLT to PDF, XLT to Word, XLT to PPT, XLT to Image
 ---
 

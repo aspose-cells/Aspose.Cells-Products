@@ -1,6 +1,6 @@
 ---
-title: Convert FODS to EMF via Python
-description: Convert FODS to EMF online for free. Convert FODS to EMF. Convert FODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert FODS to EMF Python via Python
+description: Free Online FODS Converter. Convert FODS to EMF Online for Free. Convert FODS to EMF in Python code. Convert FODS to EMF using Python.
 keywords: Convert FODS, FODS Converter, FODS to PDF, FODS to Word, FODS to PPT, FODS to Image
 ---
 

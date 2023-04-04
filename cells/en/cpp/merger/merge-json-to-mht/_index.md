@@ -1,7 +1,7 @@
 ---
 title: Merge JSON to MHT via C++ 
 url: /cpp/merger/merge-json-to-mht/ 
-description: Merge JSON to MHT via C++ online for free. Merge JSON to MHT in C++. Combine JSON to MHT using C++.
+description: Free Online JSON Merger. Merge JSON to MHT via C++ online for free. Merge, Concatenate or Combine JSON to MHT Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

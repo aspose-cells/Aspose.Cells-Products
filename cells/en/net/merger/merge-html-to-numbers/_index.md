@@ -1,7 +1,7 @@
 ---
 title: Merge HTML to NUMBERS via C# 
 url: /net/merger/merge-html-to-numbers/ 
-description: Merge HTML to NUMBERS via .NET online for free. Merge HTML to NUMBERS in .NET. Combine HTML to NUMBERS using VB.NET, Asp.NET or any .NET based application.
+description: Free Online HTML Merger. Merge HTML to NUMBERS via .NET online for free. Merge, Concatenate or Combine HTML to NUMBERS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

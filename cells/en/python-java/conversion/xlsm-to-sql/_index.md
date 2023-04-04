@@ -1,6 +1,6 @@
 ---
-title: Convert XLSM to SQL via Python
-description: Convert XLSM to SQL online for free. Convert XLSM to SQL. Convert XLSM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLSM to SQL Python via Python
+description: Free Online XLSM Converter. Convert XLSM to SQL Online for Free. Convert XLSM to SQL in Python code. Convert XLSM to SQL using Python.
 keywords: Convert XLSM, XLSM Converter, XLSM to PDF, XLSM to Word, XLSM to PPT, XLSM to Image
 ---
 

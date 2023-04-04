@@ -1,6 +1,6 @@
 ---
-title: Convert XLSX to TSV via C++
-description: Convert XLSX to TSV online for free. Convert XLSX to TSV. Convert XLSX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLSX to TSV C++
+description: Free Online XLSX Converter. Convert XLSX to TSV Online for Free. Convert XLSX to TSV in C++ code. Convert XLSX to TSV using C++.
 keywords: Convert XLSX, XLSX Converter, XLSX to PDF, XLSX to Word, XLSX to PPT, XLSX to Image
 ---
 

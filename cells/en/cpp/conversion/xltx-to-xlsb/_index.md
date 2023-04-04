@@ -1,6 +1,6 @@
 ---
-title: Convert XLTX to XLSB via C++
-description: Convert XLTX to XLSB online for free. Convert XLTX to XLSB. Convert XLTX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLTX to XLSB C++
+description: Free Online XLTX Converter. Convert XLTX to XLSB Online for Free. Convert XLTX to XLSB in C++ code. Convert XLTX to XLSB using C++.
 keywords: Convert XLTX, XLTX Converter, XLTX to PDF, XLTX to Word, XLTX to PPT, XLTX to Image
 ---
 

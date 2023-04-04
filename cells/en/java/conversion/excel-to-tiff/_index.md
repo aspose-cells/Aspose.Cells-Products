@@ -1,6 +1,6 @@
 ---
-title: Convert EXCEL to TIFF via Java 
-description: Convert EXCEL to TIFF online for free. Convert EXCEL to TIFF. Convert EXCEL to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert EXCEL to TIFF Java 
+description: Free Online EXCEL Converter. Convert EXCEL to TIFF Online for Free. Convert EXCEL to TIFF in Java code. Convert EXCEL to TIFF using Java.
 keywords: Convert EXCEL, EXCEL Converter, EXCEL to PDF, EXCEL to Word, EXCEL to PPT, EXCEL to Image
 ---
 

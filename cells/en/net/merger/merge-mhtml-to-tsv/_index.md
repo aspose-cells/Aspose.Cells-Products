@@ -1,7 +1,7 @@
 ---
 title: Merge MHTML to TSV via C# 
 url: /net/merger/merge-mhtml-to-tsv/ 
-description: Merge MHTML to TSV via .NET online for free. Merge MHTML to TSV in .NET. Combine MHTML to TSV using VB.NET, Asp.NET or any .NET based application.
+description: Free Online MHTML Merger. Merge MHTML to TSV via .NET online for free. Merge, Concatenate or Combine MHTML to TSV Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

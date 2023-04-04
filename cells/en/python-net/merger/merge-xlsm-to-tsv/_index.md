@@ -1,7 +1,7 @@
 ---
 title: Merge XLSM to TSV via Python 
 url: /python-net/merger/merge-xlsm-to-tsv/ 
-description: Merge XLSM to TSV via Python online for free. Merge XLSM to TSV in Python. Combine XLSM to TSV using Python.
+description: Free Online XLSM Merger. Merge XLSM to TSV via Python online for free. Merge, Concatenate or Combine XLSM to TSV Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

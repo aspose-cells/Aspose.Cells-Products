@@ -1,6 +1,6 @@
 ---
-title: Convert TSV to TIFF via Python
-description: Convert TSV to TIFF online for free. Convert TSV to TIFF. Convert TSV to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert TSV to TIFF Python via Python
+description: Free Online TSV Converter. Convert TSV to TIFF Online for Free. Convert TSV to TIFF in Python code. Convert TSV to TIFF using Python.
 keywords: Convert TSV, TSV Converter, TSV to PDF, TSV to Word, TSV to PPT, TSV to Image
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Convert XLSM to DOCX via Java 
-description: Convert XLSM to DOCX online for free. Convert XLSM to DOCX. Convert XLSM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLSM to DOCX Java 
+description: Free Online XLSM Converter. Convert XLSM to DOCX Online for Free. Convert XLSM to DOCX in Java code. Convert XLSM to DOCX using Java.
 keywords: Convert XLSM, XLSM Converter, XLSM to PDF, XLSM to Word, XLSM to PPT, XLSM to Image
 ---
 

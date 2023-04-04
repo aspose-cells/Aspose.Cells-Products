@@ -1,6 +1,6 @@
 ---
-title: Convert EXCEL to SQL via Python
-description: Convert EXCEL to SQL online for free. Convert EXCEL to SQL. Convert EXCEL to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert EXCEL to SQL Python via Python
+description: Free Online EXCEL Converter. Convert EXCEL to SQL Online for Free. Convert EXCEL to SQL in Python code. Convert EXCEL to SQL using Python.
 keywords: Convert EXCEL, EXCEL Converter, EXCEL to PDF, EXCEL to Word, EXCEL to PPT, EXCEL to Image
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Convert JPEG to XLSM via C++
-description: Convert JPEG to XLSM online for free. Convert JPEG to XLSM. Convert JPEG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert JPEG to XLSM C++
+description: Free Online JPEG Converter. Convert JPEG to XLSM Online for Free. Convert JPEG to XLSM in C++ code. Convert JPEG to XLSM using C++.
 keywords: Convert JPEG, JPEG Converter, JPEG to PDF, JPEG to Word, JPEG to PPT, JPEG to Image
 ---
 

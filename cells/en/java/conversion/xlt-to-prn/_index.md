@@ -1,6 +1,6 @@
 ---
-title: Convert XLT to PRN via Java 
-description: Convert XLT to PRN online for free. Convert XLT to PRN. Convert XLT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLT to PRN Java 
+description: Free Online XLT Converter. Convert XLT to PRN Online for Free. Convert XLT to PRN in Java code. Convert XLT to PRN using Java.
 keywords: Convert XLT, XLT Converter, XLT to PDF, XLT to Word, XLT to PPT, XLT to Image
 ---
 

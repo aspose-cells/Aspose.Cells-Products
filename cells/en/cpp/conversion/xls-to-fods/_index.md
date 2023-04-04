@@ -1,6 +1,6 @@
 ---
-title: Convert XLS to FODS via C++
-description: Convert XLS to FODS online for free. Convert XLS to FODS. Convert XLS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLS to FODS C++
+description: Free Online XLS Converter. Convert XLS to FODS Online for Free. Convert XLS to FODS in C++ code. Convert XLS to FODS using C++.
 keywords: Convert XLS, XLS Converter, XLS to PDF, XLS to Word, XLS to PPT, XLS to Image
 ---
 

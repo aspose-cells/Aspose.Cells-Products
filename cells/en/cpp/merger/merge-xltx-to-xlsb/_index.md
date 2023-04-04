@@ -1,7 +1,7 @@
 ---
 title: Merge XLTX to XLSB via C++ 
 url: /cpp/merger/merge-xltx-to-xlsb/ 
-description: Merge XLTX to XLSB via C++ online for free. Merge XLTX to XLSB in C++. Combine XLTX to XLSB using C++.
+description: Free Online XLTX Merger. Merge XLTX to XLSB via C++ online for free. Merge, Concatenate or Combine XLTX to XLSB Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

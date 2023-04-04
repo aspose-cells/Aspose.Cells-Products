@@ -1,7 +1,7 @@
 ---
 title: Merge ODS to HTM via C++ 
 url: /cpp/merger/merge-ods-to-htm/ 
-description: Merge ODS to HTM via C++ online for free. Merge ODS to HTM in C++. Combine ODS to HTM using C++.
+description: Free Online ODS Merger. Merge ODS to HTM via C++ online for free. Merge, Concatenate or Combine ODS to HTM Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

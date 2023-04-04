@@ -1,7 +1,7 @@
 ---
 title: Merge HTM to XLSB via C# 
 url: /net/merger/merge-htm-to-xlsb/ 
-description: Merge HTM to XLSB via .NET online for free. Merge HTM to XLSB in .NET. Combine HTM to XLSB using VB.NET, Asp.NET or any .NET based application.
+description: Free Online HTM Merger. Merge HTM to XLSB via .NET online for free. Merge, Concatenate or Combine HTM to XLSB Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

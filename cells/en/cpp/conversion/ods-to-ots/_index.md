@@ -1,6 +1,6 @@
 ---
-title: Convert ODS to OTS via C++
-description: Convert ODS to OTS online for free. Convert ODS to OTS. Convert ODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert ODS to OTS C++
+description: Free Online ODS Converter. Convert ODS to OTS Online for Free. Convert ODS to OTS in C++ code. Convert ODS to OTS using C++.
 keywords: Convert ODS, ODS Converter, ODS to PDF, ODS to Word, ODS to PPT, ODS to Image
 ---
 

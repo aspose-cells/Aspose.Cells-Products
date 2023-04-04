@@ -1,6 +1,6 @@
 ---
-title: Convert FODS to JSON via Python
-description: Convert FODS to JSON online for free. Convert FODS to JSON. Convert FODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert FODS to JSON Python via Python
+description: Free Online FODS Converter. Convert FODS to JSON Online for Free. Convert FODS to JSON in Python code. Convert FODS to JSON using Python.
 keywords: Convert FODS, FODS Converter, FODS to PDF, FODS to Word, FODS to PPT, FODS to Image
 ---
 

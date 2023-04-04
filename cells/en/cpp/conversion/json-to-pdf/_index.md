@@ -1,6 +1,6 @@
 ---
-title: Convert JSON to PDF via C++
-description: Convert JSON to PDF online for free. Convert JSON to PDF. Convert JSON to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert JSON to PDF C++
+description: Free Online JSON Converter. Convert JSON to PDF Online for Free. Convert JSON to PDF in C++ code. Convert JSON to PDF using C++.
 keywords: Convert JSON, JSON Converter, JSON to PDF, JSON to Word, JSON to PPT, JSON to Image
 ---
 

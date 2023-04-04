@@ -1,6 +1,6 @@
 ---
-title: Convert EXCEL to PNG via Java 
-description: Convert EXCEL to PNG online for free. Convert EXCEL to PNG. Convert EXCEL to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert EXCEL to PNG Java 
+description: Free Online EXCEL Converter. Convert EXCEL to PNG Online for Free. Convert EXCEL to PNG in Java code. Convert EXCEL to PNG using Java.
 keywords: Convert EXCEL, EXCEL Converter, EXCEL to PDF, EXCEL to Word, EXCEL to PPT, EXCEL to Image
 ---
 

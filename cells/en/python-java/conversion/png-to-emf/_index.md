@@ -1,6 +1,6 @@
 ---
-title: Convert PNG to EMF via Python
-description: Convert PNG to EMF online for free. Convert PNG to EMF. Convert PNG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert PNG to EMF Python via Python
+description: Free Online PNG Converter. Convert PNG to EMF Online for Free. Convert PNG to EMF in Python code. Convert PNG to EMF using Python.
 keywords: Convert PNG, PNG Converter, PNG to PDF, PNG to Word, PNG to PPT, PNG to Image
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Merge TSV to NUMBERS via C++ 
 url: /cpp/merger/merge-tsv-to-numbers/ 
-description: Merge TSV to NUMBERS via C++ online for free. Merge TSV to NUMBERS in C++. Combine TSV to NUMBERS using C++.
+description: Free Online TSV Merger. Merge TSV to NUMBERS via C++ online for free. Merge, Concatenate or Combine TSV to NUMBERS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

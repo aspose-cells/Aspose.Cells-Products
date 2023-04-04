@@ -1,6 +1,6 @@
 ---
-title: Convert JPG to TSV via C++
-description: Convert JPG to TSV online for free. Convert JPG to TSV. Convert JPG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert JPG to TSV C++
+description: Free Online JPG Converter. Convert JPG to TSV Online for Free. Convert JPG to TSV in C++ code. Convert JPG to TSV using C++.
 keywords: Convert JPG, JPG Converter, JPG to PDF, JPG to Word, JPG to PPT, JPG to Image
 ---
 

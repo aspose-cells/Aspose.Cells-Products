@@ -1,6 +1,6 @@
 ---
-title: Convert CSV to FODS via Java 
-description: Convert CSV to FODS online for free. Convert CSV to FODS. Convert CSV to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert CSV to FODS Java 
+description: Free Online CSV Converter. Convert CSV to FODS Online for Free. Convert CSV to FODS in Java code. Convert CSV to FODS using Java.
 keywords: Convert CSV, CSV Converter, CSV to PDF, CSV to Word, CSV to PPT, CSV to Image
 ---
 

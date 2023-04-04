@@ -1,7 +1,7 @@
 ---
 title: Merge MHTML to TSV via C++ 
 url: /cpp/merger/merge-mhtml-to-tsv/ 
-description: Merge MHTML to TSV via C++ online for free. Merge MHTML to TSV in C++. Combine MHTML to TSV using C++.
+description: Free Online MHTML Merger. Merge MHTML to TSV via C++ online for free. Merge, Concatenate or Combine MHTML to TSV Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,6 +1,6 @@
 ---
-title: Convert OTS to XML via Java 
-description: Convert OTS to XML online for free. Convert OTS to XML. Convert OTS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert OTS to XML Java 
+description: Free Online OTS Converter. Convert OTS to XML Online for Free. Convert OTS to XML in Java code. Convert OTS to XML using Java.
 keywords: Convert OTS, OTS Converter, OTS to PDF, OTS to Word, OTS to PPT, OTS to Image
 ---
 

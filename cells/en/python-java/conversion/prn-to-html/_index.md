@@ -1,6 +1,6 @@
 ---
-title: Convert PRN to HTML via Python
-description: Convert PRN to HTML online for free. Convert PRN to HTML. Convert PRN to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert PRN to HTML Python via Python
+description: Free Online PRN Converter. Convert PRN to HTML Online for Free. Convert PRN to HTML in Python code. Convert PRN to HTML using Python.
 keywords: Convert PRN, PRN Converter, PRN to PDF, PRN to Word, PRN to PPT, PRN to Image
 ---
 

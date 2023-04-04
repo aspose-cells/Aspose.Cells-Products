@@ -1,7 +1,7 @@
 ---
 title: Merge XLS to XLS via C# 
 url: /net/merger/merge-xls-to-xls/ 
-description: Merge XLS to XLS via .NET online for free. Merge XLS to XLS in .NET. Combine XLS to XLS using VB.NET, Asp.NET or any .NET based application.
+description: Free Online XLS Merger. Merge XLS to XLS via .NET online for free. Merge, Concatenate or Combine XLS to XLS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

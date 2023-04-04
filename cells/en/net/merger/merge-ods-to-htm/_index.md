@@ -1,7 +1,7 @@
 ---
 title: Merge ODS to HTM via C# 
 url: /net/merger/merge-ods-to-htm/ 
-description: Merge ODS to HTM via .NET online for free. Merge ODS to HTM in .NET. Combine ODS to HTM using VB.NET, Asp.NET or any .NET based application.
+description: Free Online ODS Merger. Merge ODS to HTM via .NET online for free. Merge, Concatenate or Combine ODS to HTM Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

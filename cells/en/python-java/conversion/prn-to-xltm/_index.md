@@ -1,6 +1,6 @@
 ---
-title: Convert PRN to XLTM via Python
-description: Convert PRN to XLTM online for free. Convert PRN to XLTM. Convert PRN to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert PRN to XLTM Python via Python
+description: Free Online PRN Converter. Convert PRN to XLTM Online for Free. Convert PRN to XLTM in Python code. Convert PRN to XLTM using Python.
 keywords: Convert PRN, PRN Converter, PRN to PDF, PRN to Word, PRN to PPT, PRN to Image
 ---
 

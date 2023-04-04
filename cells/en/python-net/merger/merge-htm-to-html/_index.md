@@ -1,7 +1,7 @@
 ---
 title: Merge HTM to HTML via Python 
 url: /python-net/merger/merge-htm-to-html/ 
-description: Merge HTM to HTML via Python online for free. Merge HTM to HTML in Python. Combine HTM to HTML using Python.
+description: Free Online HTM Merger. Merge HTM to HTML via Python online for free. Merge, Concatenate or Combine HTM to HTML Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

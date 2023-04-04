@@ -1,6 +1,6 @@
 ---
-title: Convert XLSB to CSV via Java 
-description: Convert XLSB to CSV online for free. Convert XLSB to CSV. Convert XLSB to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLSB to CSV Java 
+description: Free Online XLSB Converter. Convert XLSB to CSV Online for Free. Convert XLSB to CSV in Java code. Convert XLSB to CSV using Java.
 keywords: Convert XLSB, XLSB Converter, XLSB to PDF, XLSB to Word, XLSB to PPT, XLSB to Image
 ---
 

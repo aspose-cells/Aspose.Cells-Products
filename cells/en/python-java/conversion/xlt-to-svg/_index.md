@@ -1,6 +1,6 @@
 ---
-title: Convert XLT to SVG via Python
-description: Convert XLT to SVG online for free. Convert XLT to SVG. Convert XLT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLT to SVG Python via Python
+description: Free Online XLT Converter. Convert XLT to SVG Online for Free. Convert XLT to SVG in Python code. Convert XLT to SVG using Python.
 keywords: Convert XLT, XLT Converter, XLT to PDF, XLT to Word, XLT to PPT, XLT to Image
 ---
 

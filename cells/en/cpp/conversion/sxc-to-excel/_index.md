@@ -1,6 +1,6 @@
 ---
-title: Convert SXC to EXCEL via C++
-description: Convert SXC to EXCEL online for free. Convert SXC to EXCEL. Convert SXC to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert SXC to EXCEL C++
+description: Free Online SXC Converter. Convert SXC to EXCEL Online for Free. Convert SXC to EXCEL in C++ code. Convert SXC to EXCEL using C++.
 keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC to Image
 ---
 

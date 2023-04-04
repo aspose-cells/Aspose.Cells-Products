@@ -1,7 +1,7 @@
 ---
 title: Merge FODS to MHTML via C++ 
 url: /cpp/merger/merge-fods-to-mhtml/ 
-description: Merge FODS to MHTML via C++ online for free. Merge FODS to MHTML in C++. Combine FODS to MHTML using C++.
+description: Free Online FODS Merger. Merge FODS to MHTML via C++ online for free. Merge, Concatenate or Combine FODS to MHTML Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

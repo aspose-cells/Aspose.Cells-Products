@@ -1,6 +1,6 @@
 ---
-title: Convert NUMBERS to GIF via Python
-description: Convert NUMBERS to GIF online for free. Convert NUMBERS to GIF. Convert NUMBERS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert NUMBERS to GIF Python via Python
+description: Free Online NUMBERS Converter. Convert NUMBERS to GIF Online for Free. Convert NUMBERS to GIF in Python code. Convert NUMBERS to GIF using Python.
 keywords: Convert NUMBERS, NUMBERS Converter, NUMBERS to PDF, NUMBERS to Word, NUMBERS to PPT, NUMBERS to Image
 ---
 

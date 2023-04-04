@@ -1,7 +1,7 @@
 ---
 title: Merge JSON to XLSM via C# 
 url: /net/merger/merge-json-to-xlsm/ 
-description: Merge JSON to XLSM via .NET online for free. Merge JSON to XLSM in .NET. Combine JSON to XLSM using VB.NET, Asp.NET or any .NET based application.
+description: Free Online JSON Merger. Merge JSON to XLSM via .NET online for free. Merge, Concatenate or Combine JSON to XLSM Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

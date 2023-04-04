@@ -1,7 +1,7 @@
 ---
 title: Merge HTML to CSV via Java 
 url: /java/merger/merge-html-to-csv/ 
-description: Merge HTML to CSV via Java online for free. Merge HTML to CSV in Java. Combine HTML to CSV using Java based desktop or web application.
+description: Free Online HTML Merger. Merge HTML to CSV via Java online for free. Merge, Concatenate or Combine HTML to CSV Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

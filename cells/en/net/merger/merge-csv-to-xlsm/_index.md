@@ -1,7 +1,7 @@
 ---
 title: Merge CSV to XLSM via C# 
 url: /net/merger/merge-csv-to-xlsm/ 
-description: Merge CSV to XLSM via .NET online for free. Merge CSV to XLSM in .NET. Combine CSV to XLSM using VB.NET, Asp.NET or any .NET based application.
+description: Free Online CSV Merger. Merge CSV to XLSM via .NET online for free. Merge, Concatenate or Combine CSV to XLSM Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

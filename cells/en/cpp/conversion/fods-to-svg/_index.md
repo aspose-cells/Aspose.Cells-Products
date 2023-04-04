@@ -1,6 +1,6 @@
 ---
-title: Convert FODS to SVG via C++
-description: Convert FODS to SVG online for free. Convert FODS to SVG. Convert FODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert FODS to SVG C++
+description: Free Online FODS Converter. Convert FODS to SVG Online for Free. Convert FODS to SVG in C++ code. Convert FODS to SVG using C++.
 keywords: Convert FODS, FODS Converter, FODS to PDF, FODS to Word, FODS to PPT, FODS to Image
 ---
 

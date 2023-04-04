@@ -1,6 +1,6 @@
 ---
-title: Convert FODS to XPS via Python
-description: Convert FODS to XPS online for free. Convert FODS to XPS. Convert FODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert FODS to XPS Python via Python
+description: Free Online FODS Converter. Convert FODS to XPS Online for Free. Convert FODS to XPS in Python code. Convert FODS to XPS using Python.
 keywords: Convert FODS, FODS Converter, FODS to PDF, FODS to Word, FODS to PPT, FODS to Image
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Merge HTM to TSV via Python 
 url: /python-net/merger/merge-htm-to-tsv/ 
-description: Merge HTM to TSV via Python online for free. Merge HTM to TSV in Python. Combine HTM to TSV using Python.
+description: Free Online HTM Merger. Merge HTM to TSV via Python online for free. Merge, Concatenate or Combine HTM to TSV Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,6 +1,6 @@
 ---
-title: Convert NUMBERS to SQL via Java 
-description: Convert NUMBERS to SQL online for free. Convert NUMBERS to SQL. Convert NUMBERS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert NUMBERS to SQL Java 
+description: Free Online NUMBERS Converter. Convert NUMBERS to SQL Online for Free. Convert NUMBERS to SQL in Java code. Convert NUMBERS to SQL using Java.
 keywords: Convert NUMBERS, NUMBERS Converter, NUMBERS to PDF, NUMBERS to Word, NUMBERS to PPT, NUMBERS to Image
 ---
 

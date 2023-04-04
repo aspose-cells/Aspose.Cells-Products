@@ -1,6 +1,6 @@
 ---
-title: Convert FODS to EXCEL via Java 
-description: Convert FODS to EXCEL online for free. Convert FODS to EXCEL. Convert FODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert FODS to EXCEL Java 
+description: Free Online FODS Converter. Convert FODS to EXCEL Online for Free. Convert FODS to EXCEL in Java code. Convert FODS to EXCEL using Java.
 keywords: Convert FODS, FODS Converter, FODS to PDF, FODS to Word, FODS to PPT, FODS to Image
 ---
 

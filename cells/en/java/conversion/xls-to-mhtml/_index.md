@@ -1,6 +1,6 @@
 ---
-title: Convert XLS to MHTML via Java 
-description: Convert XLS to MHTML online for free. Convert XLS to MHTML. Convert XLS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLS to MHTML Java 
+description: Free Online XLS Converter. Convert XLS to MHTML Online for Free. Convert XLS to MHTML in Java code. Convert XLS to MHTML using Java.
 keywords: Convert XLS, XLS Converter, XLS to PDF, XLS to Word, XLS to PPT, XLS to Image
 ---
 

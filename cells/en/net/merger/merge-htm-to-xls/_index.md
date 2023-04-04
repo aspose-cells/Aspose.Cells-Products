@@ -1,7 +1,7 @@
 ---
 title: Merge HTM to XLS via C# 
 url: /net/merger/merge-htm-to-xls/ 
-description: Merge HTM to XLS via .NET online for free. Merge HTM to XLS in .NET. Combine HTM to XLS using VB.NET, Asp.NET or any .NET based application.
+description: Free Online HTM Merger. Merge HTM to XLS via .NET online for free. Merge, Concatenate or Combine HTM to XLS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

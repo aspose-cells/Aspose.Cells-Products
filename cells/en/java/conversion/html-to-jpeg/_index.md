@@ -1,6 +1,6 @@
 ---
-title: Convert HTML to JPEG via Java 
-description: Convert HTML to JPEG online for free. Convert HTML to JPEG. Convert HTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert HTML to JPEG Java 
+description: Free Online HTML Converter. Convert HTML to JPEG Online for Free. Convert HTML to JPEG in Java code. Convert HTML to JPEG using Java.
 keywords: Convert HTML, HTML Converter, HTML to PDF, HTML to Word, HTML to PPT, HTML to Image
 ---
 

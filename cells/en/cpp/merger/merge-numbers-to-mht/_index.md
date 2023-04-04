@@ -1,7 +1,7 @@
 ---
 title: Merge NUMBERS to MHT via C++ 
 url: /cpp/merger/merge-numbers-to-mht/ 
-description: Merge NUMBERS to MHT via C++ online for free. Merge NUMBERS to MHT in C++. Combine NUMBERS to MHT using C++.
+description: Free Online NUMBERS Merger. Merge NUMBERS to MHT via C++ online for free. Merge, Concatenate or Combine NUMBERS to MHT Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

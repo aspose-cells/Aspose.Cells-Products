@@ -1,7 +1,7 @@
 ---
 title: Merge MHTML to XLSM via Python 
 url: /python-java/merger/merge-mhtml-to-xlsm/ 
-description: Merge MHTML to XLSM via Python online for free. Merge MHTML to XLSM in Python. Combine MHTML to XLSM using Python.
+description: Free Online MHTML Merger. Merge MHTML to XLSM via Python online for free. Merge, Concatenate or Combine MHTML to XLSM Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

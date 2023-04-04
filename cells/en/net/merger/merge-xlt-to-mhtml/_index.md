@@ -1,7 +1,7 @@
 ---
 title: Merge XLT to MHTML via C# 
 url: /net/merger/merge-xlt-to-mhtml/ 
-description: Merge XLT to MHTML via .NET online for free. Merge XLT to MHTML in .NET. Combine XLT to MHTML using VB.NET, Asp.NET or any .NET based application.
+description: Free Online XLT Merger. Merge XLT to MHTML via .NET online for free. Merge, Concatenate or Combine XLT to MHTML Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

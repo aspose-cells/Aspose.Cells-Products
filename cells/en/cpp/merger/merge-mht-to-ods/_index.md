@@ -1,7 +1,7 @@
 ---
 title: Merge MHT to ODS via C++ 
 url: /cpp/merger/merge-mht-to-ods/ 
-description: Merge MHT to ODS via C++ online for free. Merge MHT to ODS in C++. Combine MHT to ODS using C++.
+description: Free Online MHT Merger. Merge MHT to ODS via C++ online for free. Merge, Concatenate or Combine MHT to ODS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

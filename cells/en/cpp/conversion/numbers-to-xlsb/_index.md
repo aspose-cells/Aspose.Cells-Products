@@ -1,6 +1,6 @@
 ---
-title: Convert NUMBERS to XLSB via C++
-description: Convert NUMBERS to XLSB online for free. Convert NUMBERS to XLSB. Convert NUMBERS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert NUMBERS to XLSB C++
+description: Free Online NUMBERS Converter. Convert NUMBERS to XLSB Online for Free. Convert NUMBERS to XLSB in C++ code. Convert NUMBERS to XLSB using C++.
 keywords: Convert NUMBERS, NUMBERS Converter, NUMBERS to PDF, NUMBERS to Word, NUMBERS to PPT, NUMBERS to Image
 ---
 

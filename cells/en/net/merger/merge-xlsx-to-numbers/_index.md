@@ -1,7 +1,7 @@
 ---
 title: Merge XLSX to NUMBERS via C# 
 url: /net/merger/merge-xlsx-to-numbers/ 
-description: Merge XLSX to NUMBERS via .NET online for free. Merge XLSX to NUMBERS in .NET. Combine XLSX to NUMBERS using VB.NET, Asp.NET or any .NET based application.
+description: Free Online XLSX Merger. Merge XLSX to NUMBERS via .NET online for free. Merge, Concatenate or Combine XLSX to NUMBERS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Merge ODS to XLS via C++ 
 url: /cpp/merger/merge-ods-to-xls/ 
-description: Merge ODS to XLS via C++ online for free. Merge ODS to XLS in C++. Combine ODS to XLS using C++.
+description: Free Online ODS Merger. Merge ODS to XLS via C++ online for free. Merge, Concatenate or Combine ODS to XLS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,6 +1,6 @@
 ---
-title: Convert JPEG to XLS via C++
-description: Convert JPEG to XLS online for free. Convert JPEG to XLS. Convert JPEG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert JPEG to XLS C++
+description: Free Online JPEG Converter. Convert JPEG to XLS Online for Free. Convert JPEG to XLS in C++ code. Convert JPEG to XLS using C++.
 keywords: Convert JPEG, JPEG Converter, JPEG to PDF, JPEG to Word, JPEG to PPT, JPEG to Image
 ---
 

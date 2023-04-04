@@ -1,7 +1,7 @@
 ---
 title: Merge XLS to NUMBERS via C++ 
 url: /cpp/merger/merge-xls-to-numbers/ 
-description: Merge XLS to NUMBERS via C++ online for free. Merge XLS to NUMBERS in C++. Combine XLS to NUMBERS using C++.
+description: Free Online XLS Merger. Merge XLS to NUMBERS via C++ online for free. Merge, Concatenate or Combine XLS to NUMBERS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

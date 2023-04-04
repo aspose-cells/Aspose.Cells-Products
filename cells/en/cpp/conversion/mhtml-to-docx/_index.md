@@ -1,6 +1,6 @@
 ---
-title: Convert MHTML to DOCX via C++
-description: Convert MHTML to DOCX online for free. Convert MHTML to DOCX. Convert MHTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert MHTML to DOCX C++
+description: Free Online MHTML Converter. Convert MHTML to DOCX Online for Free. Convert MHTML to DOCX in C++ code. Convert MHTML to DOCX using C++.
 keywords: Convert MHTML, MHTML Converter, MHTML to PDF, MHTML to Word, MHTML to PPT, MHTML to Image
 ---
 

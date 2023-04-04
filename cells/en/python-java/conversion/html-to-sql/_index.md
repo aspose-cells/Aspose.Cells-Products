@@ -1,6 +1,6 @@
 ---
-title: Convert HTML to SQL via Python
-description: Convert HTML to SQL online for free. Convert HTML to SQL. Convert HTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert HTML to SQL Python via Python
+description: Free Online HTML Converter. Convert HTML to SQL Online for Free. Convert HTML to SQL in Python code. Convert HTML to SQL using Python.
 keywords: Convert HTML, HTML Converter, HTML to PDF, HTML to Word, HTML to PPT, HTML to Image
 ---
 

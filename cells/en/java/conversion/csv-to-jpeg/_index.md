@@ -1,6 +1,6 @@
 ---
-title: Convert CSV to JPEG via Java 
-description: Convert CSV to JPEG online for free. Convert CSV to JPEG. Convert CSV to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert CSV to JPEG Java 
+description: Free Online CSV Converter. Convert CSV to JPEG Online for Free. Convert CSV to JPEG in Java code. Convert CSV to JPEG using Java.
 keywords: Convert CSV, CSV Converter, CSV to PDF, CSV to Word, CSV to PPT, CSV to Image
 ---
 

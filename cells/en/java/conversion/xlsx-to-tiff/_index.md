@@ -1,6 +1,6 @@
 ---
-title: Convert XLSX to TIFF via Java 
-description: Convert XLSX to TIFF online for free. Convert XLSX to TIFF. Convert XLSX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLSX to TIFF Java 
+description: Free Online XLSX Converter. Convert XLSX to TIFF Online for Free. Convert XLSX to TIFF in Java code. Convert XLSX to TIFF using Java.
 keywords: Convert XLSX, XLSX Converter, XLSX to PDF, XLSX to Word, XLSX to PPT, XLSX to Image
 ---
 

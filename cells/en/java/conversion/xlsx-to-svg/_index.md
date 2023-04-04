@@ -1,6 +1,6 @@
 ---
-title: Convert XLSX to SVG via Java 
-description: Convert XLSX to SVG online for free. Convert XLSX to SVG. Convert XLSX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLSX to SVG Java 
+description: Free Online XLSX Converter. Convert XLSX to SVG Online for Free. Convert XLSX to SVG in Java code. Convert XLSX to SVG using Java.
 keywords: Convert XLSX, XLSX Converter, XLSX to PDF, XLSX to Word, XLSX to PPT, XLSX to Image
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Convert PNG to ODS via Python
-description: Convert PNG to ODS online for free. Convert PNG to ODS. Convert PNG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert PNG to ODS Python via Python
+description: Free Online PNG Converter. Convert PNG to ODS Online for Free. Convert PNG to ODS in Python code. Convert PNG to ODS using Python.
 keywords: Convert PNG, PNG Converter, PNG to PDF, PNG to Word, PNG to PPT, PNG to Image
 ---
 

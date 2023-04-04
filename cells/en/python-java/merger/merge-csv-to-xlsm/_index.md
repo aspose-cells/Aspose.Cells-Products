@@ -1,7 +1,7 @@
 ---
 title: Merge CSV to XLSM via Python 
 url: /python-java/merger/merge-csv-to-xlsm/ 
-description: Merge CSV to XLSM via Python online for free. Merge CSV to XLSM in Python. Combine CSV to XLSM using Python.
+description: Free Online CSV Merger. Merge CSV to XLSM via Python online for free. Merge, Concatenate or Combine CSV to XLSM Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

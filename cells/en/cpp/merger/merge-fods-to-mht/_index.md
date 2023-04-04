@@ -1,7 +1,7 @@
 ---
 title: Merge FODS to MHT via C++ 
 url: /cpp/merger/merge-fods-to-mht/ 
-description: Merge FODS to MHT via C++ online for free. Merge FODS to MHT in C++. Combine FODS to MHT using C++.
+description: Free Online FODS Merger. Merge FODS to MHT via C++ online for free. Merge, Concatenate or Combine FODS to MHT Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

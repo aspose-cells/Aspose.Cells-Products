@@ -1,6 +1,6 @@
 ---
-title: Convert FODS to PNG via Java 
-description: Convert FODS to PNG online for free. Convert FODS to PNG. Convert FODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert FODS to PNG Java 
+description: Free Online FODS Converter. Convert FODS to PNG Online for Free. Convert FODS to PNG in Java code. Convert FODS to PNG using Java.
 keywords: Convert FODS, FODS Converter, FODS to PDF, FODS to Word, FODS to PPT, FODS to Image
 ---
 

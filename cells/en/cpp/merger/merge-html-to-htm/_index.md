@@ -1,7 +1,7 @@
 ---
 title: Merge HTML to HTM via C++ 
 url: /cpp/merger/merge-html-to-htm/ 
-description: Merge HTML to HTM via C++ online for free. Merge HTML to HTM in C++. Combine HTML to HTM using C++.
+description: Free Online HTML Merger. Merge HTML to HTM via C++ online for free. Merge, Concatenate or Combine HTML to HTM Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

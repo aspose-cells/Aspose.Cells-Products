@@ -1,6 +1,6 @@
 ---
-title: Convert JPG to PPTX via C++
-description: Convert JPG to PPTX online for free. Convert JPG to PPTX. Convert JPG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert JPG to PPTX C++
+description: Free Online JPG Converter. Convert JPG to PPTX Online for Free. Convert JPG to PPTX in C++ code. Convert JPG to PPTX using C++.
 keywords: Convert JPG, JPG Converter, JPG to PDF, JPG to Word, JPG to PPT, JPG to Image
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Merge MHTML to XLSB via Java 
 url: /java/merger/merge-mhtml-to-xlsb/ 
-description: Merge MHTML to XLSB via Java online for free. Merge MHTML to XLSB in Java. Combine MHTML to XLSB using Java based desktop or web application.
+description: Free Online MHTML Merger. Merge MHTML to XLSB via Java online for free. Merge, Concatenate or Combine MHTML to XLSB Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

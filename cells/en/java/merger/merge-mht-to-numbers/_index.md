@@ -1,7 +1,7 @@
 ---
 title: Merge MHT to NUMBERS via Java 
 url: /java/merger/merge-mht-to-numbers/ 
-description: Merge MHT to NUMBERS via Java online for free. Merge MHT to NUMBERS in Java. Combine MHT to NUMBERS using Java based desktop or web application.
+description: Free Online MHT Merger. Merge MHT to NUMBERS via Java online for free. Merge, Concatenate or Combine MHT to NUMBERS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

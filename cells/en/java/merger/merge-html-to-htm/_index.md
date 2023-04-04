@@ -1,7 +1,7 @@
 ---
 title: Merge HTML to HTM via Java 
 url: /java/merger/merge-html-to-htm/ 
-description: Merge HTML to HTM via Java online for free. Merge HTML to HTM in Java. Combine HTML to HTM using Java based desktop or web application.
+description: Free Online HTML Merger. Merge HTML to HTM via Java online for free. Merge, Concatenate or Combine HTML to HTM Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

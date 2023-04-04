@@ -1,6 +1,6 @@
 ---
-title: Convert XLSB to MARKDOWN via C++
-description: Convert XLSB to MARKDOWN online for free. Convert XLSB to MARKDOWN. Convert XLSB to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLSB to MARKDOWN C++
+description: Free Online XLSB Converter. Convert XLSB to MARKDOWN Online for Free. Convert XLSB to MARKDOWN in C++ code. Convert XLSB to MARKDOWN using C++.
 keywords: Convert XLSB, XLSB Converter, XLSB to PDF, XLSB to Word, XLSB to PPT, XLSB to Image
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Convert TSV to XLSB via Python
-description: Convert TSV to XLSB online for free. Convert TSV to XLSB. Convert TSV to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert TSV to XLSB Python via Python
+description: Free Online TSV Converter. Convert TSV to XLSB Online for Free. Convert TSV to XLSB in Python code. Convert TSV to XLSB using Python.
 keywords: Convert TSV, TSV Converter, TSV to PDF, TSV to Word, TSV to PPT, TSV to Image
 ---
 

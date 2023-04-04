@@ -1,6 +1,6 @@
 ---
-title: Convert XLT to BMP via Java 
-description: Convert XLT to BMP online for free. Convert XLT to BMP. Convert XLT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLT to BMP Java 
+description: Free Online XLT Converter. Convert XLT to BMP Online for Free. Convert XLT to BMP in Java code. Convert XLT to BMP using Java.
 keywords: Convert XLT, XLT Converter, XLT to PDF, XLT to Word, XLT to PPT, XLT to Image
 ---
 

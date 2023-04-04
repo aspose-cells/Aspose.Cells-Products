@@ -1,7 +1,7 @@
 ---
 title: Merge ODS to XLSX via C# 
 url: /net/merger/merge-ods-to-xlsx/ 
-description: Merge ODS to XLSX via .NET online for free. Merge ODS to XLSX in .NET. Combine ODS to XLSX using VB.NET, Asp.NET or any .NET based application.
+description: Free Online ODS Merger. Merge ODS to XLSX via .NET online for free. Merge, Concatenate or Combine ODS to XLSX Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

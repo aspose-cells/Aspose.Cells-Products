@@ -1,7 +1,7 @@
 ---
 title: Merge XLTM to XLS via C# 
 url: /net/merger/merge-xltm-to-xls/ 
-description: Merge XLTM to XLS via .NET online for free. Merge XLTM to XLS in .NET. Combine XLTM to XLS using VB.NET, Asp.NET or any .NET based application.
+description: Free Online XLTM Merger. Merge XLTM to XLS via .NET online for free. Merge, Concatenate or Combine XLTM to XLS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

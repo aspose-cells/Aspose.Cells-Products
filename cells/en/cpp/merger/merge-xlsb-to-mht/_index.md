@@ -1,7 +1,7 @@
 ---
 title: Merge XLSB to MHT via C++ 
 url: /cpp/merger/merge-xlsb-to-mht/ 
-description: Merge XLSB to MHT via C++ online for free. Merge XLSB to MHT in C++. Combine XLSB to MHT using C++.
+description: Free Online XLSB Merger. Merge XLSB to MHT via C++ online for free. Merge, Concatenate or Combine XLSB to MHT Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

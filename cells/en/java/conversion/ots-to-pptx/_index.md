@@ -1,6 +1,6 @@
 ---
-title: Convert OTS to PPTX via Java 
-description: Convert OTS to PPTX online for free. Convert OTS to PPTX. Convert OTS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert OTS to PPTX Java 
+description: Free Online OTS Converter. Convert OTS to PPTX Online for Free. Convert OTS to PPTX in Java code. Convert OTS to PPTX using Java.
 keywords: Convert OTS, OTS Converter, OTS to PDF, OTS to Word, OTS to PPT, OTS to Image
 ---
 

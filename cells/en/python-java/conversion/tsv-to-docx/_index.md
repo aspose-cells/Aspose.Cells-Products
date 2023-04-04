@@ -1,6 +1,6 @@
 ---
-title: Convert TSV to DOCX via Python
-description: Convert TSV to DOCX online for free. Convert TSV to DOCX. Convert TSV to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert TSV to DOCX Python via Python
+description: Free Online TSV Converter. Convert TSV to DOCX Online for Free. Convert TSV to DOCX in Python code. Convert TSV to DOCX using Python.
 keywords: Convert TSV, TSV Converter, TSV to PDF, TSV to Word, TSV to PPT, TSV to Image
 ---
 

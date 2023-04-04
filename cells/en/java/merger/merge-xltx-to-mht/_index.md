@@ -1,7 +1,7 @@
 ---
 title: Merge XLTX to MHT via Java 
 url: /java/merger/merge-xltx-to-mht/ 
-description: Merge XLTX to MHT via Java online for free. Merge XLTX to MHT in Java. Combine XLTX to MHT using Java based desktop or web application.
+description: Free Online XLTX Merger. Merge XLTX to MHT via Java online for free. Merge, Concatenate or Combine XLTX to MHT Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

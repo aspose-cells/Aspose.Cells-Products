@@ -1,6 +1,6 @@
 ---
-title: Convert NUMBERS to HTML via C++
-description: Convert NUMBERS to HTML online for free. Convert NUMBERS to HTML. Convert NUMBERS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert NUMBERS to HTML C++
+description: Free Online NUMBERS Converter. Convert NUMBERS to HTML Online for Free. Convert NUMBERS to HTML in C++ code. Convert NUMBERS to HTML using C++.
 keywords: Convert NUMBERS, NUMBERS Converter, NUMBERS to PDF, NUMBERS to Word, NUMBERS to PPT, NUMBERS to Image
 ---
 

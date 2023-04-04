@@ -1,6 +1,6 @@
 ---
-title: Convert NUMBERS to JSON via Python
-description: Convert NUMBERS to JSON online for free. Convert NUMBERS to JSON. Convert NUMBERS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert NUMBERS to JSON Python via Python
+description: Free Online NUMBERS Converter. Convert NUMBERS to JSON Online for Free. Convert NUMBERS to JSON in Python code. Convert NUMBERS to JSON using Python.
 keywords: Convert NUMBERS, NUMBERS Converter, NUMBERS to PDF, NUMBERS to Word, NUMBERS to PPT, NUMBERS to Image
 ---
 

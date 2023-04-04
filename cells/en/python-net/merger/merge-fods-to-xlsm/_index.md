@@ -1,7 +1,7 @@
 ---
 title: Merge FODS to XLSM via Python 
 url: /python-net/merger/merge-fods-to-xlsm/ 
-description: Merge FODS to XLSM via Python online for free. Merge FODS to XLSM in Python. Combine FODS to XLSM using Python.
+description: Free Online FODS Merger. Merge FODS to XLSM via Python online for free. Merge, Concatenate or Combine FODS to XLSM Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

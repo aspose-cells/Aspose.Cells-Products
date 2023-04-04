@@ -1,6 +1,6 @@
 ---
-title: Convert XLSM to ODS via Python
-description: Convert XLSM to ODS online for free. Convert XLSM to ODS. Convert XLSM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLSM to ODS Python via Python
+description: Free Online XLSM Converter. Convert XLSM to ODS Online for Free. Convert XLSM to ODS in Python code. Convert XLSM to ODS using Python.
 keywords: Convert XLSM, XLSM Converter, XLSM to PDF, XLSM to Word, XLSM to PPT, XLSM to Image
 ---
 

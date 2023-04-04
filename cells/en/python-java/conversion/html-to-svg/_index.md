@@ -1,6 +1,6 @@
 ---
-title: Convert HTML to SVG via Python
-description: Convert HTML to SVG online for free. Convert HTML to SVG. Convert HTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert HTML to SVG Python via Python
+description: Free Online HTML Converter. Convert HTML to SVG Online for Free. Convert HTML to SVG in Python code. Convert HTML to SVG using Python.
 keywords: Convert HTML, HTML Converter, HTML to PDF, HTML to Word, HTML to PPT, HTML to Image
 ---
 

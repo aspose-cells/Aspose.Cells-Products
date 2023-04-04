@@ -1,6 +1,6 @@
 ---
-title: Convert XLTX to BMP via C++
-description: Convert XLTX to BMP online for free. Convert XLTX to BMP. Convert XLTX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLTX to BMP C++
+description: Free Online XLTX Converter. Convert XLTX to BMP Online for Free. Convert XLTX to BMP in C++ code. Convert XLTX to BMP using C++.
 keywords: Convert XLTX, XLTX Converter, XLTX to PDF, XLTX to Word, XLTX to PPT, XLTX to Image
 ---
 

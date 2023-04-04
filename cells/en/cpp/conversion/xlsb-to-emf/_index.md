@@ -1,6 +1,6 @@
 ---
-title: Convert XLSB to EMF via C++
-description: Convert XLSB to EMF online for free. Convert XLSB to EMF. Convert XLSB to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLSB to EMF C++
+description: Free Online XLSB Converter. Convert XLSB to EMF Online for Free. Convert XLSB to EMF in C++ code. Convert XLSB to EMF using C++.
 keywords: Convert XLSB, XLSB Converter, XLSB to PDF, XLSB to Word, XLSB to PPT, XLSB to Image
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Merge TSV to XLSB via C# 
 url: /net/merger/merge-tsv-to-xlsb/ 
-description: Merge TSV to XLSB via .NET online for free. Merge TSV to XLSB in .NET. Combine TSV to XLSB using VB.NET, Asp.NET or any .NET based application.
+description: Free Online TSV Merger. Merge TSV to XLSB via .NET online for free. Merge, Concatenate or Combine TSV to XLSB Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

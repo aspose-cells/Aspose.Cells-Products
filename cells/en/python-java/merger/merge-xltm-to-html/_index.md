@@ -1,7 +1,7 @@
 ---
 title: Merge XLTM to HTML via Python 
 url: /python-java/merger/merge-xltm-to-html/ 
-description: Merge XLTM to HTML via Python online for free. Merge XLTM to HTML in Python. Combine XLTM to HTML using Python.
+description: Free Online XLTM Merger. Merge XLTM to HTML via Python online for free. Merge, Concatenate or Combine XLTM to HTML Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

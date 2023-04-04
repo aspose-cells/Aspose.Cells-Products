@@ -1,6 +1,6 @@
 ---
-title: Convert SXC to DOCX via C++
-description: Convert SXC to DOCX online for free. Convert SXC to DOCX. Convert SXC to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert SXC to DOCX C++
+description: Free Online SXC Converter. Convert SXC to DOCX Online for Free. Convert SXC to DOCX in C++ code. Convert SXC to DOCX using C++.
 keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC to Image
 ---
 

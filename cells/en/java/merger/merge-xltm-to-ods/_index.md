@@ -1,7 +1,7 @@
 ---
 title: Merge XLTM to ODS via Java 
 url: /java/merger/merge-xltm-to-ods/ 
-description: Merge XLTM to ODS via Java online for free. Merge XLTM to ODS in Java. Combine XLTM to ODS using Java based desktop or web application.
+description: Free Online XLTM Merger. Merge XLTM to ODS via Java online for free. Merge, Concatenate or Combine XLTM to ODS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

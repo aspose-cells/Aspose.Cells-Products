@@ -1,6 +1,6 @@
 ---
-title: Convert JPG to EXCEL via Python
-description: Convert JPG to EXCEL online for free. Convert JPG to EXCEL. Convert JPG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert JPG to EXCEL Python via Python
+description: Free Online JPG Converter. Convert JPG to EXCEL Online for Free. Convert JPG to EXCEL in Python code. Convert JPG to EXCEL using Python.
 keywords: Convert JPG, JPG Converter, JPG to PDF, JPG to Word, JPG to PPT, JPG to Image
 ---
 

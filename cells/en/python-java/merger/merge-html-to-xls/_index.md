@@ -1,7 +1,7 @@
 ---
 title: Merge HTML to XLS via Python 
 url: /python-java/merger/merge-html-to-xls/ 
-description: Merge HTML to XLS via Python online for free. Merge HTML to XLS in Python. Combine HTML to XLS using Python.
+description: Free Online HTML Merger. Merge HTML to XLS via Python online for free. Merge, Concatenate or Combine HTML to XLS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

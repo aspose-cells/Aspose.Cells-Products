@@ -1,6 +1,6 @@
 ---
-title: Convert XLSB to SQL via C++
-description: Convert XLSB to SQL online for free. Convert XLSB to SQL. Convert XLSB to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLSB to SQL C++
+description: Free Online XLSB Converter. Convert XLSB to SQL Online for Free. Convert XLSB to SQL in C++ code. Convert XLSB to SQL using C++.
 keywords: Convert XLSB, XLSB Converter, XLSB to PDF, XLSB to Word, XLSB to PPT, XLSB to Image
 ---
 

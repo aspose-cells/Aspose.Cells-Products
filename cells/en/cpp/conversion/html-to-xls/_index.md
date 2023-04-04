@@ -1,6 +1,6 @@
 ---
-title: Convert HTML to XLS via C++
-description: Convert HTML to XLS online for free. Convert HTML to XLS. Convert HTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert HTML to XLS C++
+description: Free Online HTML Converter. Convert HTML to XLS Online for Free. Convert HTML to XLS in C++ code. Convert HTML to XLS using C++.
 keywords: Convert HTML, HTML Converter, HTML to PDF, HTML to Word, HTML to PPT, HTML to Image
 ---
 

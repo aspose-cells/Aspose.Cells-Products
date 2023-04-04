@@ -1,6 +1,6 @@
 ---
-title: Convert TXT to JPEG via Java 
-description: Convert TXT to JPEG online for free. Convert TXT to JPEG. Convert TXT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert TXT to JPEG Java 
+description: Free Online TXT Converter. Convert TXT to JPEG Online for Free. Convert TXT to JPEG in Java code. Convert TXT to JPEG using Java.
 keywords: Convert TXT, TXT Converter, TXT to PDF, TXT to Word, TXT to PPT, TXT to Image
 ---
 

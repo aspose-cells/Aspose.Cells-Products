@@ -1,7 +1,7 @@
 ---
 title: Merge XLS to TSV via Java 
 url: /java/merger/merge-xls-to-tsv/ 
-description: Merge XLS to TSV via Java online for free. Merge XLS to TSV in Java. Combine XLS to TSV using Java based desktop or web application.
+description: Free Online XLS Merger. Merge XLS to TSV via Java online for free. Merge, Concatenate or Combine XLS to TSV Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Merge XLT to MHT via C++ 
 url: /cpp/merger/merge-xlt-to-mht/ 
-description: Merge XLT to MHT via C++ online for free. Merge XLT to MHT in C++. Combine XLT to MHT using C++.
+description: Free Online XLT Merger. Merge XLT to MHT via C++ online for free. Merge, Concatenate or Combine XLT to MHT Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

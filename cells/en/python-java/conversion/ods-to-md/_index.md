@@ -1,6 +1,6 @@
 ---
-title: Convert ODS to MD via Python
-description: Convert ODS to MD online for free. Convert ODS to MD. Convert ODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert ODS to MD Python via Python
+description: Free Online ODS Converter. Convert ODS to MD Online for Free. Convert ODS to MD in Python code. Convert ODS to MD using Python.
 keywords: Convert ODS, ODS Converter, ODS to PDF, ODS to Word, ODS to PPT, ODS to Image
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Convert XLS to SQL via Python
-description: Convert XLS to SQL online for free. Convert XLS to SQL. Convert XLS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLS to SQL Python via Python
+description: Free Online XLS Converter. Convert XLS to SQL Online for Free. Convert XLS to SQL in Python code. Convert XLS to SQL using Python.
 keywords: Convert XLS, XLS Converter, XLS to PDF, XLS to Word, XLS to PPT, XLS to Image
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Convert PNG to PRN via C++
-description: Convert PNG to PRN online for free. Convert PNG to PRN. Convert PNG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert PNG to PRN C++
+description: Free Online PNG Converter. Convert PNG to PRN Online for Free. Convert PNG to PRN in C++ code. Convert PNG to PRN using C++.
 keywords: Convert PNG, PNG Converter, PNG to PDF, PNG to Word, PNG to PPT, PNG to Image
 ---
 

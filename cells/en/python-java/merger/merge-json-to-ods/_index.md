@@ -1,7 +1,7 @@
 ---
 title: Merge JSON to ODS via Python 
 url: /python-java/merger/merge-json-to-ods/ 
-description: Merge JSON to ODS via Python online for free. Merge JSON to ODS in Python. Combine JSON to ODS using Python.
+description: Free Online JSON Merger. Merge JSON to ODS via Python online for free. Merge, Concatenate or Combine JSON to ODS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

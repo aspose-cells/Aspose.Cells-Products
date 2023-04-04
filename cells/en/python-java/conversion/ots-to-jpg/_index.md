@@ -1,6 +1,6 @@
 ---
-title: Convert OTS to JPG via Python
-description: Convert OTS to JPG online for free. Convert OTS to JPG. Convert OTS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert OTS to JPG Python via Python
+description: Free Online OTS Converter. Convert OTS to JPG Online for Free. Convert OTS to JPG in Python code. Convert OTS to JPG using Python.
 keywords: Convert OTS, OTS Converter, OTS to PDF, OTS to Word, OTS to PPT, OTS to Image
 ---
 

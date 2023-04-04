@@ -1,7 +1,7 @@
 ---
 title: Merge MHT to HTML via Java 
 url: /java/merger/merge-mht-to-html/ 
-description: Merge MHT to HTML via Java online for free. Merge MHT to HTML in Java. Combine MHT to HTML using Java based desktop or web application.
+description: Free Online MHT Merger. Merge MHT to HTML via Java online for free. Merge, Concatenate or Combine MHT to HTML Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

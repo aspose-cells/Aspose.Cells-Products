@@ -1,6 +1,6 @@
 ---
-title: Convert ODS to GIF via Python
-description: Convert ODS to GIF online for free. Convert ODS to GIF. Convert ODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert ODS to GIF Python via Python
+description: Free Online ODS Converter. Convert ODS to GIF Online for Free. Convert ODS to GIF in Python code. Convert ODS to GIF using Python.
 keywords: Convert ODS, ODS Converter, ODS to PDF, ODS to Word, ODS to PPT, ODS to Image
 ---
 

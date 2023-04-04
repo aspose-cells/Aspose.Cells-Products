@@ -1,7 +1,7 @@
 ---
 title: Merge XLSB to HTM via Python 
 url: /python-java/merger/merge-xlsb-to-htm/ 
-description: Merge XLSB to HTM via Python online for free. Merge XLSB to HTM in Python. Combine XLSB to HTM using Python.
+description: Free Online XLSB Merger. Merge XLSB to HTM via Python online for free. Merge, Concatenate or Combine XLSB to HTM Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

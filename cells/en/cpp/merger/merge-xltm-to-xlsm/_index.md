@@ -1,7 +1,7 @@
 ---
 title: Merge XLTM to XLSM via C++ 
 url: /cpp/merger/merge-xltm-to-xlsm/ 
-description: Merge XLTM to XLSM via C++ online for free. Merge XLTM to XLSM in C++. Combine XLTM to XLSM using C++.
+description: Free Online XLTM Merger. Merge XLTM to XLSM via C++ online for free. Merge, Concatenate or Combine XLTM to XLSM Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

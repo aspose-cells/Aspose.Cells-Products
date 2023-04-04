@@ -1,7 +1,7 @@
 ---
 title: Merge XLT to XLS via Java 
 url: /java/merger/merge-xlt-to-xls/ 
-description: Merge XLT to XLS via Java online for free. Merge XLT to XLS in Java. Combine XLT to XLS using Java based desktop or web application.
+description: Free Online XLT Merger. Merge XLT to XLS via Java online for free. Merge, Concatenate or Combine XLT to XLS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

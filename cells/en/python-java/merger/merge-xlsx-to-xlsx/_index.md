@@ -1,7 +1,7 @@
 ---
 title: Merge XLSX to XLSX via Python 
 url: /python-java/merger/merge-xlsx-to-xlsx/ 
-description: Merge XLSX to XLSX via Python online for free. Merge XLSX to XLSX in Python. Combine XLSX to XLSX using Python.
+description: Free Online XLSX Merger. Merge XLSX to XLSX via Python online for free. Merge, Concatenate or Combine XLSX to XLSX Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

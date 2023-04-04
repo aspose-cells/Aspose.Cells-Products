@@ -1,6 +1,6 @@
 ---
-title: Convert CSV to EXCEL via Python
-description: Convert CSV to EXCEL online for free. Convert CSV to EXCEL. Convert CSV to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert CSV to EXCEL Python via Python
+description: Free Online CSV Converter. Convert CSV to EXCEL Online for Free. Convert CSV to EXCEL in Python code. Convert CSV to EXCEL using Python.
 keywords: Convert CSV, CSV Converter, CSV to PDF, CSV to Word, CSV to PPT, CSV to Image
 ---
 

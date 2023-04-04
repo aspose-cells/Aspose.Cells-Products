@@ -1,7 +1,7 @@
 ---
 title: Merge MHT to ODS via Python 
 url: /python-net/merger/merge-mht-to-ods/ 
-description: Merge MHT to ODS via Python online for free. Merge MHT to ODS in Python. Combine MHT to ODS using Python.
+description: Free Online MHT Merger. Merge MHT to ODS via Python online for free. Merge, Concatenate or Combine MHT to ODS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

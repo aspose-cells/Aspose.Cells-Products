@@ -1,6 +1,6 @@
 ---
-title: Convert JSON to SQL via C++
-description: Convert JSON to SQL online for free. Convert JSON to SQL. Convert JSON to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert JSON to SQL C++
+description: Free Online JSON Converter. Convert JSON to SQL Online for Free. Convert JSON to SQL in C++ code. Convert JSON to SQL using C++.
 keywords: Convert JSON, JSON Converter, JSON to PDF, JSON to Word, JSON to PPT, JSON to Image
 ---
 

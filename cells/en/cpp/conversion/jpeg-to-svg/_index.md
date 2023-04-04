@@ -1,6 +1,6 @@
 ---
-title: Convert JPEG to SVG via C++
-description: Convert JPEG to SVG online for free. Convert JPEG to SVG. Convert JPEG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert JPEG to SVG C++
+description: Free Online JPEG Converter. Convert JPEG to SVG Online for Free. Convert JPEG to SVG in C++ code. Convert JPEG to SVG using C++.
 keywords: Convert JPEG, JPEG Converter, JPEG to PDF, JPEG to Word, JPEG to PPT, JPEG to Image
 ---
 

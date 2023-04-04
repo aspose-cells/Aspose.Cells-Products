@@ -1,6 +1,6 @@
 ---
-title: Convert XLSX to SPREADSHEETML via Java 
-description: Convert XLSX to SPREADSHEETML online for free. Convert XLSX to SPREADSHEETML. Convert XLSX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLSX to SPREADSHEETML Java 
+description: Free Online XLSX Converter. Convert XLSX to SPREADSHEETML Online for Free. Convert XLSX to SPREADSHEETML in Java code. Convert XLSX to SPREADSHEETML using Java.
 keywords: Convert XLSX, XLSX Converter, XLSX to PDF, XLSX to Word, XLSX to PPT, XLSX to Image
 ---
 

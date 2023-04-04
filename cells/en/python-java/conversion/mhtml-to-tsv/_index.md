@@ -1,6 +1,6 @@
 ---
-title: Convert MHTML to TSV via Python
-description: Convert MHTML to TSV online for free. Convert MHTML to TSV. Convert MHTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert MHTML to TSV Python via Python
+description: Free Online MHTML Converter. Convert MHTML to TSV Online for Free. Convert MHTML to TSV in Python code. Convert MHTML to TSV using Python.
 keywords: Convert MHTML, MHTML Converter, MHTML to PDF, MHTML to Word, MHTML to PPT, MHTML to Image
 ---
 

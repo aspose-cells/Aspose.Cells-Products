@@ -1,7 +1,7 @@
 ---
 title: Merge XLSB to CSV via Python 
 url: /python-net/merger/merge-xlsb-to-csv/ 
-description: Merge XLSB to CSV via Python online for free. Merge XLSB to CSV in Python. Combine XLSB to CSV using Python.
+description: Free Online XLSB Merger. Merge XLSB to CSV via Python online for free. Merge, Concatenate or Combine XLSB to CSV Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

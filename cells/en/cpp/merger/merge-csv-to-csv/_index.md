@@ -1,7 +1,7 @@
 ---
 title: Merge CSV to CSV via C++ 
 url: /cpp/merger/merge-csv-to-csv/ 
-description: Merge CSV to CSV via C++ online for free. Merge CSV to CSV in C++. Combine CSV to CSV using C++.
+description: Free Online CSV Merger. Merge CSV to CSV via C++ online for free. Merge, Concatenate or Combine CSV to CSV Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

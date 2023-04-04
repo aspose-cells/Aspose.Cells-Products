@@ -1,6 +1,6 @@
 ---
-title: Convert PRN to TSV via Python
-description: Convert PRN to TSV online for free. Convert PRN to TSV. Convert PRN to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert PRN to TSV Python via Python
+description: Free Online PRN Converter. Convert PRN to TSV Online for Free. Convert PRN to TSV in Python code. Convert PRN to TSV using Python.
 keywords: Convert PRN, PRN Converter, PRN to PDF, PRN to Word, PRN to PPT, PRN to Image
 ---
 

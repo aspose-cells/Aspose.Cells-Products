@@ -1,6 +1,6 @@
 ---
-title: Convert MHTML to PRN via C++
-description: Convert MHTML to PRN online for free. Convert MHTML to PRN. Convert MHTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert MHTML to PRN C++
+description: Free Online MHTML Converter. Convert MHTML to PRN Online for Free. Convert MHTML to PRN in C++ code. Convert MHTML to PRN using C++.
 keywords: Convert MHTML, MHTML Converter, MHTML to PDF, MHTML to Word, MHTML to PPT, MHTML to Image
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Merge JSON to XLSX via C# 
 url: /net/merger/merge-json-to-xlsx/ 
-description: Merge JSON to XLSX via .NET online for free. Merge JSON to XLSX in .NET. Combine JSON to XLSX using VB.NET, Asp.NET or any .NET based application.
+description: Free Online JSON Merger. Merge JSON to XLSX via .NET online for free. Merge, Concatenate or Combine JSON to XLSX Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

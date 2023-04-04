@@ -1,7 +1,7 @@
 ---
 title: Merge XLS to HTML via C++ 
 url: /cpp/merger/merge-xls-to-html/ 
-description: Merge XLS to HTML via C++ online for free. Merge XLS to HTML in C++. Combine XLS to HTML using C++.
+description: Free Online XLS Merger. Merge XLS to HTML via C++ online for free. Merge, Concatenate or Combine XLS to HTML Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

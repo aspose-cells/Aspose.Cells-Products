@@ -1,6 +1,6 @@
 ---
-title: Convert PRN to PPTX via Python
-description: Convert PRN to PPTX online for free. Convert PRN to PPTX. Convert PRN to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert PRN to PPTX Python via Python
+description: Free Online PRN Converter. Convert PRN to PPTX Online for Free. Convert PRN to PPTX in Python code. Convert PRN to PPTX using Python.
 keywords: Convert PRN, PRN Converter, PRN to PDF, PRN to Word, PRN to PPT, PRN to Image
 ---
 

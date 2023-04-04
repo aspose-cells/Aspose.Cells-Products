@@ -1,6 +1,6 @@
 ---
-title: Convert OTS to XPS via C++
-description: Convert OTS to XPS online for free. Convert OTS to XPS. Convert OTS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert OTS to XPS C++
+description: Free Online OTS Converter. Convert OTS to XPS Online for Free. Convert OTS to XPS in C++ code. Convert OTS to XPS using C++.
 keywords: Convert OTS, OTS Converter, OTS to PDF, OTS to Word, OTS to PPT, OTS to Image
 ---
 

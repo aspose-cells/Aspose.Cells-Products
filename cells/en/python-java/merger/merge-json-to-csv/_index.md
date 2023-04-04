@@ -1,7 +1,7 @@
 ---
 title: Merge JSON to CSV via Python 
 url: /python-java/merger/merge-json-to-csv/ 
-description: Merge JSON to CSV via Python online for free. Merge JSON to CSV in Python. Combine JSON to CSV using Python.
+description: Free Online JSON Merger. Merge JSON to CSV via Python online for free. Merge, Concatenate or Combine JSON to CSV Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

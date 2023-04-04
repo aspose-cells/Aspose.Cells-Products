@@ -1,6 +1,6 @@
 ---
-title: Convert XLTX to CSV via Python
-description: Convert XLTX to CSV online for free. Convert XLTX to CSV. Convert XLTX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLTX to CSV Python via Python
+description: Free Online XLTX Converter. Convert XLTX to CSV Online for Free. Convert XLTX to CSV in Python code. Convert XLTX to CSV using Python.
 keywords: Convert XLTX, XLTX Converter, XLTX to PDF, XLTX to Word, XLTX to PPT, XLTX to Image
 ---
 

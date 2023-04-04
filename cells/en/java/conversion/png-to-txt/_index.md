@@ -1,6 +1,6 @@
 ---
-title: Convert PNG to TXT via Java 
-description: Convert PNG to TXT online for free. Convert PNG to TXT. Convert PNG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert PNG to TXT Java 
+description: Free Online PNG Converter. Convert PNG to TXT Online for Free. Convert PNG to TXT in Java code. Convert PNG to TXT using Java.
 keywords: Convert PNG, PNG Converter, PNG to PDF, PNG to Word, PNG to PPT, PNG to Image
 ---
 

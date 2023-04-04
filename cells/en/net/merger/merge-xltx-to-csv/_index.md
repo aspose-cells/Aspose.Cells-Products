@@ -1,7 +1,7 @@
 ---
 title: Merge XLTX to CSV via C# 
 url: /net/merger/merge-xltx-to-csv/ 
-description: Merge XLTX to CSV via .NET online for free. Merge XLTX to CSV in .NET. Combine XLTX to CSV using VB.NET, Asp.NET or any .NET based application.
+description: Free Online XLTX Merger. Merge XLTX to CSV via .NET online for free. Merge, Concatenate or Combine XLTX to CSV Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

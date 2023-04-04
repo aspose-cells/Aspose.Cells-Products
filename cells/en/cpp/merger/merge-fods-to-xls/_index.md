@@ -1,7 +1,7 @@
 ---
 title: Merge FODS to XLS via C++ 
 url: /cpp/merger/merge-fods-to-xls/ 
-description: Merge FODS to XLS via C++ online for free. Merge FODS to XLS in C++. Combine FODS to XLS using C++.
+description: Free Online FODS Merger. Merge FODS to XLS via C++ online for free. Merge, Concatenate or Combine FODS to XLS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

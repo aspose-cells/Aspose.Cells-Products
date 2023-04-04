@@ -1,7 +1,7 @@
 ---
 title: Merge HTML to HTML via C++ 
 url: /cpp/merger/merge-html-to-html/ 
-description: Merge HTML to HTML via C++ online for free. Merge HTML to HTML in C++. Combine HTML to HTML using C++.
+description: Free Online HTML Merger. Merge HTML to HTML via C++ online for free. Merge, Concatenate or Combine HTML to HTML Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

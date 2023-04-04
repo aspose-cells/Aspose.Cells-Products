@@ -1,7 +1,7 @@
 ---
 title: Merge ODS to HTM via Java 
 url: /java/merger/merge-ods-to-htm/ 
-description: Merge ODS to HTM via Java online for free. Merge ODS to HTM in Java. Combine ODS to HTM using Java based desktop or web application.
+description: Free Online ODS Merger. Merge ODS to HTM via Java online for free. Merge, Concatenate or Combine ODS to HTM Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

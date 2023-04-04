@@ -1,7 +1,7 @@
 ---
 title: Merge XLT to TSV via C# 
 url: /net/merger/merge-xlt-to-tsv/ 
-description: Merge XLT to TSV via .NET online for free. Merge XLT to TSV in .NET. Combine XLT to TSV using VB.NET, Asp.NET or any .NET based application.
+description: Free Online XLT Merger. Merge XLT to TSV via .NET online for free. Merge, Concatenate or Combine XLT to TSV Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

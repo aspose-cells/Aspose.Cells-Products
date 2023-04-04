@@ -1,6 +1,6 @@
 ---
-title: Convert FODS to CSV via C++
-description: Convert FODS to CSV online for free. Convert FODS to CSV. Convert FODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert FODS to CSV C++
+description: Free Online FODS Converter. Convert FODS to CSV Online for Free. Convert FODS to CSV in C++ code. Convert FODS to CSV using C++.
 keywords: Convert FODS, FODS Converter, FODS to PDF, FODS to Word, FODS to PPT, FODS to Image
 ---
 

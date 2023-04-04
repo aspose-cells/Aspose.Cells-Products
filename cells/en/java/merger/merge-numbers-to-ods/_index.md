@@ -1,7 +1,7 @@
 ---
 title: Merge NUMBERS to ODS via Java 
 url: /java/merger/merge-numbers-to-ods/ 
-description: Merge NUMBERS to ODS via Java online for free. Merge NUMBERS to ODS in Java. Combine NUMBERS to ODS using Java based desktop or web application.
+description: Free Online NUMBERS Merger. Merge NUMBERS to ODS via Java online for free. Merge, Concatenate or Combine NUMBERS to ODS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

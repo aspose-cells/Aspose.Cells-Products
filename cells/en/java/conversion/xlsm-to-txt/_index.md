@@ -1,6 +1,6 @@
 ---
-title: Convert XLSM to TXT via Java 
-description: Convert XLSM to TXT online for free. Convert XLSM to TXT. Convert XLSM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLSM to TXT Java 
+description: Free Online XLSM Converter. Convert XLSM to TXT Online for Free. Convert XLSM to TXT in Java code. Convert XLSM to TXT using Java.
 keywords: Convert XLSM, XLSM Converter, XLSM to PDF, XLSM to Word, XLSM to PPT, XLSM to Image
 ---
 

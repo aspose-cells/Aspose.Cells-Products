@@ -1,7 +1,7 @@
 ---
 title: Merge JSON to NUMBERS via Java 
 url: /java/merger/merge-json-to-numbers/ 
-description: Merge JSON to NUMBERS via Java online for free. Merge JSON to NUMBERS in Java. Combine JSON to NUMBERS using Java based desktop or web application.
+description: Free Online JSON Merger. Merge JSON to NUMBERS via Java online for free. Merge, Concatenate or Combine JSON to NUMBERS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

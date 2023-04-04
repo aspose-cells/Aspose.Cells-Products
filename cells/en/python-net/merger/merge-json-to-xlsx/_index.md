@@ -1,7 +1,7 @@
 ---
 title: Merge JSON to XLSX via Python 
 url: /python-net/merger/merge-json-to-xlsx/ 
-description: Merge JSON to XLSX via Python online for free. Merge JSON to XLSX in Python. Combine JSON to XLSX using Python.
+description: Free Online JSON Merger. Merge JSON to XLSX via Python online for free. Merge, Concatenate or Combine JSON to XLSX Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

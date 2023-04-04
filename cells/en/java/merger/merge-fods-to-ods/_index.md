@@ -1,7 +1,7 @@
 ---
 title: Merge FODS to ODS via Java 
 url: /java/merger/merge-fods-to-ods/ 
-description: Merge FODS to ODS via Java online for free. Merge FODS to ODS in Java. Combine FODS to ODS using Java based desktop or web application.
+description: Free Online FODS Merger. Merge FODS to ODS via Java online for free. Merge, Concatenate or Combine FODS to ODS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

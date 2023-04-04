@@ -1,6 +1,6 @@
 ---
-title: Convert HTML to JPEG via Python
-description: Convert HTML to JPEG online for free. Convert HTML to JPEG. Convert HTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert HTML to JPEG Python via Python
+description: Free Online HTML Converter. Convert HTML to JPEG Online for Free. Convert HTML to JPEG in Python code. Convert HTML to JPEG using Python.
 keywords: Convert HTML, HTML Converter, HTML to PDF, HTML to Word, HTML to PPT, HTML to Image
 ---
 

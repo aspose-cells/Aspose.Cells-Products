@@ -1,6 +1,6 @@
 ---
-title: Convert XLTX to FODS via Python
-description: Convert XLTX to FODS online for free. Convert XLTX to FODS. Convert XLTX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLTX to FODS Python via Python
+description: Free Online XLTX Converter. Convert XLTX to FODS Online for Free. Convert XLTX to FODS in Python code. Convert XLTX to FODS using Python.
 keywords: Convert XLTX, XLTX Converter, XLTX to PDF, XLTX to Word, XLTX to PPT, XLTX to Image
 ---
 

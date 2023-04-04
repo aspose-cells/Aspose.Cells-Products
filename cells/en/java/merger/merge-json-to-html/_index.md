@@ -1,7 +1,7 @@
 ---
 title: Merge JSON to HTML via Java 
 url: /java/merger/merge-json-to-html/ 
-description: Merge JSON to HTML via Java online for free. Merge JSON to HTML in Java. Combine JSON to HTML using Java based desktop or web application.
+description: Free Online JSON Merger. Merge JSON to HTML via Java online for free. Merge, Concatenate or Combine JSON to HTML Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

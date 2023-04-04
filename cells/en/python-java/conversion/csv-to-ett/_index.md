@@ -1,6 +1,6 @@
 ---
-title: Convert CSV to ETT via Python
-description: Convert CSV to ETT online for free. Convert CSV to ETT. Convert CSV to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert CSV to ETT Python via Python
+description: Free Online CSV Converter. Convert CSV to ETT Online for Free. Convert CSV to ETT in Python code. Convert CSV to ETT using Python.
 keywords: Convert CSV, CSV Converter, CSV to PDF, CSV to Word, CSV to PPT, CSV to Image
 ---
 

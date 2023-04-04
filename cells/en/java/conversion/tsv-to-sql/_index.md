@@ -1,6 +1,6 @@
 ---
-title: Convert TSV to SQL via Java 
-description: Convert TSV to SQL online for free. Convert TSV to SQL. Convert TSV to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert TSV to SQL Java 
+description: Free Online TSV Converter. Convert TSV to SQL Online for Free. Convert TSV to SQL in Java code. Convert TSV to SQL using Java.
 keywords: Convert TSV, TSV Converter, TSV to PDF, TSV to Word, TSV to PPT, TSV to Image
 ---
 

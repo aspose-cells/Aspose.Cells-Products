@@ -1,6 +1,6 @@
 ---
-title: Convert XLTM to DIF via Python
-description: Convert XLTM to DIF online for free. Convert XLTM to DIF. Convert XLTM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLTM to DIF Python via Python
+description: Free Online XLTM Converter. Convert XLTM to DIF Online for Free. Convert XLTM to DIF in Python code. Convert XLTM to DIF using Python.
 keywords: Convert XLTM, XLTM Converter, XLTM to PDF, XLTM to Word, XLTM to PPT, XLTM to Image
 ---
 

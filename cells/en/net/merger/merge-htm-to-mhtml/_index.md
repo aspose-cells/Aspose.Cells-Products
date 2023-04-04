@@ -1,7 +1,7 @@
 ---
 title: Merge HTM to MHTML via C# 
 url: /net/merger/merge-htm-to-mhtml/ 
-description: Merge HTM to MHTML via .NET online for free. Merge HTM to MHTML in .NET. Combine HTM to MHTML using VB.NET, Asp.NET or any .NET based application.
+description: Free Online HTM Merger. Merge HTM to MHTML via .NET online for free. Merge, Concatenate or Combine HTM to MHTML Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

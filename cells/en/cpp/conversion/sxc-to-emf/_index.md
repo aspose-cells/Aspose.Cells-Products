@@ -1,6 +1,6 @@
 ---
-title: Convert SXC to EMF via C++
-description: Convert SXC to EMF online for free. Convert SXC to EMF. Convert SXC to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert SXC to EMF C++
+description: Free Online SXC Converter. Convert SXC to EMF Online for Free. Convert SXC to EMF in C++ code. Convert SXC to EMF using C++.
 keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC to Image
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Merge XLTM to HTML via C++ 
 url: /cpp/merger/merge-xltm-to-html/ 
-description: Merge XLTM to HTML via C++ online for free. Merge XLTM to HTML in C++. Combine XLTM to HTML using C++.
+description: Free Online XLTM Merger. Merge XLTM to HTML via C++ online for free. Merge, Concatenate or Combine XLTM to HTML Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

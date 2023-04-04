@@ -1,7 +1,7 @@
 ---
 title: Merge XLTX to ODS via Python 
 url: /python-net/merger/merge-xltx-to-ods/ 
-description: Merge XLTX to ODS via Python online for free. Merge XLTX to ODS in Python. Combine XLTX to ODS using Python.
+description: Free Online XLTX Merger. Merge XLTX to ODS via Python online for free. Merge, Concatenate or Combine XLTX to ODS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

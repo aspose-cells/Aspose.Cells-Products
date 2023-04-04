@@ -1,6 +1,6 @@
 ---
-title: Convert ODS to ETT via Java 
-description: Convert ODS to ETT online for free. Convert ODS to ETT. Convert ODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert ODS to ETT Java 
+description: Free Online ODS Converter. Convert ODS to ETT Online for Free. Convert ODS to ETT in Java code. Convert ODS to ETT using Java.
 keywords: Convert ODS, ODS Converter, ODS to PDF, ODS to Word, ODS to PPT, ODS to Image
 ---
 

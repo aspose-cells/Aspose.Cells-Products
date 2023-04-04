@@ -1,6 +1,6 @@
 ---
-title: Convert MHTML to PNG via C++
-description: Convert MHTML to PNG online for free. Convert MHTML to PNG. Convert MHTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert MHTML to PNG C++
+description: Free Online MHTML Converter. Convert MHTML to PNG Online for Free. Convert MHTML to PNG in C++ code. Convert MHTML to PNG using C++.
 keywords: Convert MHTML, MHTML Converter, MHTML to PDF, MHTML to Word, MHTML to PPT, MHTML to Image
 ---
 

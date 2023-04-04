@@ -1,7 +1,7 @@
 ---
 title: Merge XLTX to HTM via Python 
 url: /python-java/merger/merge-xltx-to-htm/ 
-description: Merge XLTX to HTM via Python online for free. Merge XLTX to HTM in Python. Combine XLTX to HTM using Python.
+description: Free Online XLTX Merger. Merge XLTX to HTM via Python online for free. Merge, Concatenate or Combine XLTX to HTM Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

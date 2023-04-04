@@ -1,6 +1,6 @@
 ---
-title: Convert JPG to TXT via Python
-description: Convert JPG to TXT online for free. Convert JPG to TXT. Convert JPG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert JPG to TXT Python via Python
+description: Free Online JPG Converter. Convert JPG to TXT Online for Free. Convert JPG to TXT in Python code. Convert JPG to TXT using Python.
 keywords: Convert JPG, JPG Converter, JPG to PDF, JPG to Word, JPG to PPT, JPG to Image
 ---
 

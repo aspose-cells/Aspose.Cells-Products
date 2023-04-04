@@ -1,6 +1,6 @@
 ---
-title: Convert XLS to ET via C++
-description: Convert XLS to ET online for free. Convert XLS to ET. Convert XLS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLS to ET C++
+description: Free Online XLS Converter. Convert XLS to ET Online for Free. Convert XLS to ET in C++ code. Convert XLS to ET using C++.
 keywords: Convert XLS, XLS Converter, XLS to PDF, XLS to Word, XLS to PPT, XLS to Image
 ---
 

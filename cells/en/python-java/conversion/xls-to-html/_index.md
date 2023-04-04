@@ -1,6 +1,6 @@
 ---
-title: Convert XLS to HTML via Python
-description: Convert XLS to HTML online for free. Convert XLS to HTML. Convert XLS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLS to HTML Python via Python
+description: Free Online XLS Converter. Convert XLS to HTML Online for Free. Convert XLS to HTML in Python code. Convert XLS to HTML using Python.
 keywords: Convert XLS, XLS Converter, XLS to PDF, XLS to Word, XLS to PPT, XLS to Image
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Convert ODS to EXCEL via Python
-description: Convert ODS to EXCEL online for free. Convert ODS to EXCEL. Convert ODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert ODS to EXCEL Python via Python
+description: Free Online ODS Converter. Convert ODS to EXCEL Online for Free. Convert ODS to EXCEL in Python code. Convert ODS to EXCEL using Python.
 keywords: Convert ODS, ODS Converter, ODS to PDF, ODS to Word, ODS to PPT, ODS to Image
 ---
 

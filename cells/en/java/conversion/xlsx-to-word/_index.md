@@ -1,6 +1,6 @@
 ---
-title: Convert XLSX to WORD via Java 
-description: Convert XLSX to WORD online for free. Convert XLSX to WORD. Convert XLSX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLSX to WORD Java 
+description: Free Online XLSX Converter. Convert XLSX to WORD Online for Free. Convert XLSX to WORD in Java code. Convert XLSX to WORD using Java.
 keywords: Convert XLSX, XLSX Converter, XLSX to PDF, XLSX to Word, XLSX to PPT, XLSX to Image
 ---
 

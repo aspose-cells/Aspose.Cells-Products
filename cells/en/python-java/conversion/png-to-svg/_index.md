@@ -1,6 +1,6 @@
 ---
-title: Convert PNG to SVG via Python
-description: Convert PNG to SVG online for free. Convert PNG to SVG. Convert PNG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert PNG to SVG Python via Python
+description: Free Online PNG Converter. Convert PNG to SVG Online for Free. Convert PNG to SVG in Python code. Convert PNG to SVG using Python.
 keywords: Convert PNG, PNG Converter, PNG to PDF, PNG to Word, PNG to PPT, PNG to Image
 ---
 

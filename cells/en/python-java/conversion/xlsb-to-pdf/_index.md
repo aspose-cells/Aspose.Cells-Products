@@ -1,6 +1,6 @@
 ---
-title: Convert XLSB to PDF via Python
-description: Convert XLSB to PDF online for free. Convert XLSB to PDF. Convert XLSB to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLSB to PDF Python via Python
+description: Free Online XLSB Converter. Convert XLSB to PDF Online for Free. Convert XLSB to PDF in Python code. Convert XLSB to PDF using Python.
 keywords: Convert XLSB, XLSB Converter, XLSB to PDF, XLSB to Word, XLSB to PPT, XLSB to Image
 ---
 

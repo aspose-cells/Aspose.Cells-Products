@@ -1,6 +1,6 @@
 ---
-title: Convert TABDELIMITED to DOCX via C++
-description: Convert TABDELIMITED to DOCX online for free. Convert TABDELIMITED to DOCX. Convert TABDELIMITED to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert TABDELIMITED to DOCX C++
+description: Free Online TABDELIMITED Converter. Convert TABDELIMITED to DOCX Online for Free. Convert TABDELIMITED to DOCX in C++ code. Convert TABDELIMITED to DOCX using C++.
 keywords: Convert TABDELIMITED, TABDELIMITED Converter, TABDELIMITED to PDF, TABDELIMITED to Word, TABDELIMITED to PPT, TABDELIMITED to Image
 ---
 

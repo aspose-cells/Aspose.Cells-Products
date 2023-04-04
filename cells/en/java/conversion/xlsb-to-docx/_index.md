@@ -1,6 +1,6 @@
 ---
-title: Convert XLSB to DOCX via Java 
-description: Convert XLSB to DOCX online for free. Convert XLSB to DOCX. Convert XLSB to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLSB to DOCX Java 
+description: Free Online XLSB Converter. Convert XLSB to DOCX Online for Free. Convert XLSB to DOCX in Java code. Convert XLSB to DOCX using Java.
 keywords: Convert XLSB, XLSB Converter, XLSB to PDF, XLSB to Word, XLSB to PPT, XLSB to Image
 ---
 

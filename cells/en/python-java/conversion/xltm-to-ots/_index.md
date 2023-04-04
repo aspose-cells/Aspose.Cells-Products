@@ -1,6 +1,6 @@
 ---
-title: Convert XLTM to OTS via Python
-description: Convert XLTM to OTS online for free. Convert XLTM to OTS. Convert XLTM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLTM to OTS Python via Python
+description: Free Online XLTM Converter. Convert XLTM to OTS Online for Free. Convert XLTM to OTS in Python code. Convert XLTM to OTS using Python.
 keywords: Convert XLTM, XLTM Converter, XLTM to PDF, XLTM to Word, XLTM to PPT, XLTM to Image
 ---
 

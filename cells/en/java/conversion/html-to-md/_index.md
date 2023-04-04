@@ -1,6 +1,6 @@
 ---
-title: Convert HTML to MD via Java 
-description: Convert HTML to MD online for free. Convert HTML to MD. Convert HTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert HTML to MD Java 
+description: Free Online HTML Converter. Convert HTML to MD Online for Free. Convert HTML to MD in Java code. Convert HTML to MD using Java.
 keywords: Convert HTML, HTML Converter, HTML to PDF, HTML to Word, HTML to PPT, HTML to Image
 ---
 

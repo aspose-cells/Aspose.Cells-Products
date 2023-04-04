@@ -1,7 +1,7 @@
 ---
 title: Merge XLSX to MHT via Python 
 url: /python-net/merger/merge-xlsx-to-mht/ 
-description: Merge XLSX to MHT via Python online for free. Merge XLSX to MHT in Python. Combine XLSX to MHT using Python.
+description: Free Online XLSX Merger. Merge XLSX to MHT via Python online for free. Merge, Concatenate or Combine XLSX to MHT Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

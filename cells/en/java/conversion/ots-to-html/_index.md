@@ -1,6 +1,6 @@
 ---
-title: Convert OTS to HTML via Java 
-description: Convert OTS to HTML online for free. Convert OTS to HTML. Convert OTS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert OTS to HTML Java 
+description: Free Online OTS Converter. Convert OTS to HTML Online for Free. Convert OTS to HTML in Java code. Convert OTS to HTML using Java.
 keywords: Convert OTS, OTS Converter, OTS to PDF, OTS to Word, OTS to PPT, OTS to Image
 ---
 

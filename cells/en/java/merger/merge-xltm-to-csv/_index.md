@@ -1,7 +1,7 @@
 ---
 title: Merge XLTM to CSV via Java 
 url: /java/merger/merge-xltm-to-csv/ 
-description: Merge XLTM to CSV via Java online for free. Merge XLTM to CSV in Java. Combine XLTM to CSV using Java based desktop or web application.
+description: Free Online XLTM Merger. Merge XLTM to CSV via Java online for free. Merge, Concatenate or Combine XLTM to CSV Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

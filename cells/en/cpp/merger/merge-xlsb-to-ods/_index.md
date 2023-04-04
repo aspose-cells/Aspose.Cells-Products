@@ -1,7 +1,7 @@
 ---
 title: Merge XLSB to ODS via C++ 
 url: /cpp/merger/merge-xlsb-to-ods/ 
-description: Merge XLSB to ODS via C++ online for free. Merge XLSB to ODS in C++. Combine XLSB to ODS using C++.
+description: Free Online XLSB Merger. Merge XLSB to ODS via C++ online for free. Merge, Concatenate or Combine XLSB to ODS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

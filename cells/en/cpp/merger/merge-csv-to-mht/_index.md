@@ -1,7 +1,7 @@
 ---
 title: Merge CSV to MHT via C++ 
 url: /cpp/merger/merge-csv-to-mht/ 
-description: Merge CSV to MHT via C++ online for free. Merge CSV to MHT in C++. Combine CSV to MHT using C++.
+description: Free Online CSV Merger. Merge CSV to MHT via C++ online for free. Merge, Concatenate or Combine CSV to MHT Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

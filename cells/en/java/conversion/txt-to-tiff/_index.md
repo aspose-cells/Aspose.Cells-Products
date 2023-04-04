@@ -1,6 +1,6 @@
 ---
-title: Convert TXT to TIFF via Java 
-description: Convert TXT to TIFF online for free. Convert TXT to TIFF. Convert TXT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert TXT to TIFF Java 
+description: Free Online TXT Converter. Convert TXT to TIFF Online for Free. Convert TXT to TIFF in Java code. Convert TXT to TIFF using Java.
 keywords: Convert TXT, TXT Converter, TXT to PDF, TXT to Word, TXT to PPT, TXT to Image
 ---
 

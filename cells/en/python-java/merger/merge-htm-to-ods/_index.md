@@ -1,7 +1,7 @@
 ---
 title: Merge HTM to ODS via Python 
 url: /python-java/merger/merge-htm-to-ods/ 
-description: Merge HTM to ODS via Python online for free. Merge HTM to ODS in Python. Combine HTM to ODS using Python.
+description: Free Online HTM Merger. Merge HTM to ODS via Python online for free. Merge, Concatenate or Combine HTM to ODS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

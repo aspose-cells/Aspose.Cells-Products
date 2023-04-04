@@ -1,6 +1,6 @@
 ---
-title: Convert SXC to XPS via Python
-description: Convert SXC to XPS online for free. Convert SXC to XPS. Convert SXC to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert SXC to XPS Python via Python
+description: Free Online SXC Converter. Convert SXC to XPS Online for Free. Convert SXC to XPS in Python code. Convert SXC to XPS using Python.
 keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC to Image
 ---
 

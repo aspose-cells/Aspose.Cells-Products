@@ -1,7 +1,7 @@
 ---
 title: Merge FODS to XLSB via Java 
 url: /java/merger/merge-fods-to-xlsb/ 
-description: Merge FODS to XLSB via Java online for free. Merge FODS to XLSB in Java. Combine FODS to XLSB using Java based desktop or web application.
+description: Free Online FODS Merger. Merge FODS to XLSB via Java online for free. Merge, Concatenate or Combine FODS to XLSB Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

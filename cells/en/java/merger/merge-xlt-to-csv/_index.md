@@ -1,7 +1,7 @@
 ---
 title: Merge XLT to CSV via Java 
 url: /java/merger/merge-xlt-to-csv/ 
-description: Merge XLT to CSV via Java online for free. Merge XLT to CSV in Java. Combine XLT to CSV using Java based desktop or web application.
+description: Free Online XLT Merger. Merge XLT to CSV via Java online for free. Merge, Concatenate or Combine XLT to CSV Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

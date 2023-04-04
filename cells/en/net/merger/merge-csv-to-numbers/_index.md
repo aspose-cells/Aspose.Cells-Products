@@ -1,7 +1,7 @@
 ---
 title: Merge CSV to NUMBERS via C# 
 url: /net/merger/merge-csv-to-numbers/ 
-description: Merge CSV to NUMBERS via .NET online for free. Merge CSV to NUMBERS in .NET. Combine CSV to NUMBERS using VB.NET, Asp.NET or any .NET based application.
+description: Free Online CSV Merger. Merge CSV to NUMBERS via .NET online for free. Merge, Concatenate or Combine CSV to NUMBERS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

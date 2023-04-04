@@ -1,6 +1,6 @@
 ---
-title: Convert SXC to SQL via Python
-description: Convert SXC to SQL online for free. Convert SXC to SQL. Convert SXC to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert SXC to SQL Python via Python
+description: Free Online SXC Converter. Convert SXC to SQL Online for Free. Convert SXC to SQL in Python code. Convert SXC to SQL using Python.
 keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC to Image
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Convert SPREADSHEETML to OTS via Java 
-description: Convert SPREADSHEETML to OTS online for free. Convert SPREADSHEETML to OTS. Convert SPREADSHEETML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert SPREADSHEETML to OTS Java 
+description: Free Online SPREADSHEETML Converter. Convert SPREADSHEETML to OTS Online for Free. Convert SPREADSHEETML to OTS in Java code. Convert SPREADSHEETML to OTS using Java.
 keywords: Convert SPREADSHEETML, SPREADSHEETML Converter, SPREADSHEETML to PDF, SPREADSHEETML to Word, SPREADSHEETML to PPT, SPREADSHEETML to Image
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Convert PRN to POWERPOINT via Java 
-description: Convert PRN to POWERPOINT online for free. Convert PRN to POWERPOINT. Convert PRN to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert PRN to POWERPOINT Java 
+description: Free Online PRN Converter. Convert PRN to POWERPOINT Online for Free. Convert PRN to POWERPOINT in Java code. Convert PRN to POWERPOINT using Java.
 keywords: Convert PRN, PRN Converter, PRN to PDF, PRN to Word, PRN to PPT, PRN to Image
 ---
 

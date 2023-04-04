@@ -1,6 +1,6 @@
 ---
-title: Convert XLTX to TXT via C++
-description: Convert XLTX to TXT online for free. Convert XLTX to TXT. Convert XLTX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLTX to TXT C++
+description: Free Online XLTX Converter. Convert XLTX to TXT Online for Free. Convert XLTX to TXT in C++ code. Convert XLTX to TXT using C++.
 keywords: Convert XLTX, XLTX Converter, XLTX to PDF, XLTX to Word, XLTX to PPT, XLTX to Image
 ---
 

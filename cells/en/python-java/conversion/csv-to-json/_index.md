@@ -1,6 +1,6 @@
 ---
-title: Convert CSV to JSON via Python
-description: Convert CSV to JSON online for free. Convert CSV to JSON. Convert CSV to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert CSV to JSON Python via Python
+description: Free Online CSV Converter. Convert CSV to JSON Online for Free. Convert CSV to JSON in Python code. Convert CSV to JSON using Python.
 keywords: Convert CSV, CSV Converter, CSV to PDF, CSV to Word, CSV to PPT, CSV to Image
 ---
 

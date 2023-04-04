@@ -1,7 +1,7 @@
 ---
 title: Merge ODS to ODS via Python 
 url: /python-java/merger/merge-ods-to-ods/ 
-description: Merge ODS to ODS via Python online for free. Merge ODS to ODS in Python. Combine ODS to ODS using Python.
+description: Free Online ODS Merger. Merge ODS to ODS via Python online for free. Merge, Concatenate or Combine ODS to ODS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

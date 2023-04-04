@@ -1,7 +1,7 @@
 ---
 title: Merge XLT to XLSX via Python 
 url: /python-java/merger/merge-xlt-to-xlsx/ 
-description: Merge XLT to XLSX via Python online for free. Merge XLT to XLSX in Python. Combine XLT to XLSX using Python.
+description: Free Online XLT Merger. Merge XLT to XLSX via Python online for free. Merge, Concatenate or Combine XLT to XLSX Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

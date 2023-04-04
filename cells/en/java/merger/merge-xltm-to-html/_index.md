@@ -1,7 +1,7 @@
 ---
 title: Merge XLTM to HTML via Java 
 url: /java/merger/merge-xltm-to-html/ 
-description: Merge XLTM to HTML via Java online for free. Merge XLTM to HTML in Java. Combine XLTM to HTML using Java based desktop or web application.
+description: Free Online XLTM Merger. Merge XLTM to HTML via Java online for free. Merge, Concatenate or Combine XLTM to HTML Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

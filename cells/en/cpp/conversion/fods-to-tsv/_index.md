@@ -1,6 +1,6 @@
 ---
-title: Convert FODS to TSV via C++
-description: Convert FODS to TSV online for free. Convert FODS to TSV. Convert FODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert FODS to TSV C++
+description: Free Online FODS Converter. Convert FODS to TSV Online for Free. Convert FODS to TSV in C++ code. Convert FODS to TSV using C++.
 keywords: Convert FODS, FODS Converter, FODS to PDF, FODS to Word, FODS to PPT, FODS to Image
 ---
 

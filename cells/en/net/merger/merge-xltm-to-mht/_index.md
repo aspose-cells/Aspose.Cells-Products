@@ -1,7 +1,7 @@
 ---
 title: Merge XLTM to MHT via C# 
 url: /net/merger/merge-xltm-to-mht/ 
-description: Merge XLTM to MHT via .NET online for free. Merge XLTM to MHT in .NET. Combine XLTM to MHT using VB.NET, Asp.NET or any .NET based application.
+description: Free Online XLTM Merger. Merge XLTM to MHT via .NET online for free. Merge, Concatenate or Combine XLTM to MHT Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

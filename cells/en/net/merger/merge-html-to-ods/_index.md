@@ -1,7 +1,7 @@
 ---
 title: Merge HTML to ODS via C# 
 url: /net/merger/merge-html-to-ods/ 
-description: Merge HTML to ODS via .NET online for free. Merge HTML to ODS in .NET. Combine HTML to ODS using VB.NET, Asp.NET or any .NET based application.
+description: Free Online HTML Merger. Merge HTML to ODS via .NET online for free. Merge, Concatenate or Combine HTML to ODS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

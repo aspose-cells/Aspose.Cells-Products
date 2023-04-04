@@ -1,6 +1,6 @@
 ---
-title: Convert JPG to BMP via Python
-description: Convert JPG to BMP online for free. Convert JPG to BMP. Convert JPG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert JPG to BMP Python via Python
+description: Free Online JPG Converter. Convert JPG to BMP Online for Free. Convert JPG to BMP in Python code. Convert JPG to BMP using Python.
 keywords: Convert JPG, JPG Converter, JPG to PDF, JPG to Word, JPG to PPT, JPG to Image
 ---
 

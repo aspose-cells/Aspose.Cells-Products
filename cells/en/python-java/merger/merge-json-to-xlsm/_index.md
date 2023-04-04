@@ -1,7 +1,7 @@
 ---
 title: Merge JSON to XLSM via Python 
 url: /python-java/merger/merge-json-to-xlsm/ 
-description: Merge JSON to XLSM via Python online for free. Merge JSON to XLSM in Python. Combine JSON to XLSM using Python.
+description: Free Online JSON Merger. Merge JSON to XLSM via Python online for free. Merge, Concatenate or Combine JSON to XLSM Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

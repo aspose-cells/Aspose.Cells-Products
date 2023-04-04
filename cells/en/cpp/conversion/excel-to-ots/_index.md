@@ -1,6 +1,6 @@
 ---
-title: Convert EXCEL to OTS via C++
-description: Convert EXCEL to OTS online for free. Convert EXCEL to OTS. Convert EXCEL to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert EXCEL to OTS C++
+description: Free Online EXCEL Converter. Convert EXCEL to OTS Online for Free. Convert EXCEL to OTS in C++ code. Convert EXCEL to OTS using C++.
 keywords: Convert EXCEL, EXCEL Converter, EXCEL to PDF, EXCEL to Word, EXCEL to PPT, EXCEL to Image
 ---
 

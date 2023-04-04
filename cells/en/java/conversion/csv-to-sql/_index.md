@@ -1,6 +1,6 @@
 ---
-title: Convert CSV to SQL via Java 
-description: Convert CSV to SQL online for free. Convert CSV to SQL. Convert CSV to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert CSV to SQL Java 
+description: Free Online CSV Converter. Convert CSV to SQL Online for Free. Convert CSV to SQL in Java code. Convert CSV to SQL using Java.
 keywords: Convert CSV, CSV Converter, CSV to PDF, CSV to Word, CSV to PPT, CSV to Image
 ---
 

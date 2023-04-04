@@ -1,6 +1,6 @@
 ---
-title: Convert NUMBERS to SVG via Java 
-description: Convert NUMBERS to SVG online for free. Convert NUMBERS to SVG. Convert NUMBERS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert NUMBERS to SVG Java 
+description: Free Online NUMBERS Converter. Convert NUMBERS to SVG Online for Free. Convert NUMBERS to SVG in Java code. Convert NUMBERS to SVG using Java.
 keywords: Convert NUMBERS, NUMBERS Converter, NUMBERS to PDF, NUMBERS to Word, NUMBERS to PPT, NUMBERS to Image
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Convert XLTX to MHTML via Python
-description: Convert XLTX to MHTML online for free. Convert XLTX to MHTML. Convert XLTX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLTX to MHTML Python via Python
+description: Free Online XLTX Converter. Convert XLTX to MHTML Online for Free. Convert XLTX to MHTML in Python code. Convert XLTX to MHTML using Python.
 keywords: Convert XLTX, XLTX Converter, XLTX to PDF, XLTX to Word, XLTX to PPT, XLTX to Image
 ---
 

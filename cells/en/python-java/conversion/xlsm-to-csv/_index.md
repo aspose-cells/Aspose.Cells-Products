@@ -1,6 +1,6 @@
 ---
-title: Convert XLSM to CSV via Python
-description: Convert XLSM to CSV online for free. Convert XLSM to CSV. Convert XLSM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLSM to CSV Python via Python
+description: Free Online XLSM Converter. Convert XLSM to CSV Online for Free. Convert XLSM to CSV in Python code. Convert XLSM to CSV using Python.
 keywords: Convert XLSM, XLSM Converter, XLSM to PDF, XLSM to Word, XLSM to PPT, XLSM to Image
 ---
 

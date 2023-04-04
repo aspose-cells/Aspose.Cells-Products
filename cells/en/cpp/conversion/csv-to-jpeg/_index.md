@@ -1,6 +1,6 @@
 ---
-title: Convert CSV to JPEG via C++
-description: Convert CSV to JPEG online for free. Convert CSV to JPEG. Convert CSV to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert CSV to JPEG C++
+description: Free Online CSV Converter. Convert CSV to JPEG Online for Free. Convert CSV to JPEG in C++ code. Convert CSV to JPEG using C++.
 keywords: Convert CSV, CSV Converter, CSV to PDF, CSV to Word, CSV to PPT, CSV to Image
 ---
 

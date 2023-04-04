@@ -1,6 +1,6 @@
 ---
-title: Convert JPEG to XML via C++
-description: Convert JPEG to XML online for free. Convert JPEG to XML. Convert JPEG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert JPEG to XML C++
+description: Free Online JPEG Converter. Convert JPEG to XML Online for Free. Convert JPEG to XML in C++ code. Convert JPEG to XML using C++.
 keywords: Convert JPEG, JPEG Converter, JPEG to PDF, JPEG to Word, JPEG to PPT, JPEG to Image
 ---
 

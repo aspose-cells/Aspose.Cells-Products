@@ -1,6 +1,6 @@
 ---
-title: Convert SXC to HTML via C++
-description: Convert SXC to HTML online for free. Convert SXC to HTML. Convert SXC to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert SXC to HTML C++
+description: Free Online SXC Converter. Convert SXC to HTML Online for Free. Convert SXC to HTML in C++ code. Convert SXC to HTML using C++.
 keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC to Image
 ---
 

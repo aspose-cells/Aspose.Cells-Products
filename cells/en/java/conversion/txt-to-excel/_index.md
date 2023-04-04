@@ -1,6 +1,6 @@
 ---
-title: Convert TXT to EXCEL via Java 
-description: Convert TXT to EXCEL online for free. Convert TXT to EXCEL. Convert TXT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert TXT to EXCEL Java 
+description: Free Online TXT Converter. Convert TXT to EXCEL Online for Free. Convert TXT to EXCEL in Java code. Convert TXT to EXCEL using Java.
 keywords: Convert TXT, TXT Converter, TXT to PDF, TXT to Word, TXT to PPT, TXT to Image
 ---
 

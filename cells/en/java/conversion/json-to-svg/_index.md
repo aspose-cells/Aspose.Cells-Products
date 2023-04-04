@@ -1,6 +1,6 @@
 ---
-title: Convert JSON to SVG via Java 
-description: Convert JSON to SVG online for free. Convert JSON to SVG. Convert JSON to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert JSON to SVG Java 
+description: Free Online JSON Converter. Convert JSON to SVG Online for Free. Convert JSON to SVG in Java code. Convert JSON to SVG using Java.
 keywords: Convert JSON, JSON Converter, JSON to PDF, JSON to Word, JSON to PPT, JSON to Image
 ---
 

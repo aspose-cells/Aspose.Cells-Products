@@ -1,6 +1,6 @@
 ---
-title: Convert SXC to ETT via Java 
-description: Convert SXC to ETT online for free. Convert SXC to ETT. Convert SXC to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert SXC to ETT Java 
+description: Free Online SXC Converter. Convert SXC to ETT Online for Free. Convert SXC to ETT in Java code. Convert SXC to ETT using Java.
 keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC to Image
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Merge HTML to ODS via Python 
 url: /python-java/merger/merge-html-to-ods/ 
-description: Merge HTML to ODS via Python online for free. Merge HTML to ODS in Python. Combine HTML to ODS using Python.
+description: Free Online HTML Merger. Merge HTML to ODS via Python online for free. Merge, Concatenate or Combine HTML to ODS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

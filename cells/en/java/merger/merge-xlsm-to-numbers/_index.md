@@ -1,7 +1,7 @@
 ---
 title: Merge XLSM to NUMBERS via Java 
 url: /java/merger/merge-xlsm-to-numbers/ 
-description: Merge XLSM to NUMBERS via Java online for free. Merge XLSM to NUMBERS in Java. Combine XLSM to NUMBERS using Java based desktop or web application.
+description: Free Online XLSM Merger. Merge XLSM to NUMBERS via Java online for free. Merge, Concatenate or Combine XLSM to NUMBERS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

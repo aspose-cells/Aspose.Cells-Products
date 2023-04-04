@@ -1,7 +1,7 @@
 ---
 title: Merge XLSM to ODS via C# 
 url: /net/merger/merge-xlsm-to-ods/ 
-description: Merge XLSM to ODS via .NET online for free. Merge XLSM to ODS in .NET. Combine XLSM to ODS using VB.NET, Asp.NET or any .NET based application.
+description: Free Online XLSM Merger. Merge XLSM to ODS via .NET online for free. Merge, Concatenate or Combine XLSM to ODS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

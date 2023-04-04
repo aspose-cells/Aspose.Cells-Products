@@ -1,7 +1,7 @@
 ---
 title: Merge TSV to HTM via C# 
 url: /net/merger/merge-tsv-to-htm/ 
-description: Merge TSV to HTM via .NET online for free. Merge TSV to HTM in .NET. Combine TSV to HTM using VB.NET, Asp.NET or any .NET based application.
+description: Free Online TSV Merger. Merge TSV to HTM via .NET online for free. Merge, Concatenate or Combine TSV to HTM Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

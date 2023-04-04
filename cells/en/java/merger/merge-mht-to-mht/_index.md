@@ -1,7 +1,7 @@
 ---
 title: Merge MHT to MHT via Java 
 url: /java/merger/merge-mht-to-mht/ 
-description: Merge MHT to MHT via Java online for free. Merge MHT to MHT in Java. Combine MHT to MHT using Java based desktop or web application.
+description: Free Online MHT Merger. Merge MHT to MHT via Java online for free. Merge, Concatenate or Combine MHT to MHT Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

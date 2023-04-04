@@ -1,7 +1,7 @@
 ---
 title: Merge XLS to MHT via C++ 
 url: /cpp/merger/merge-xls-to-mht/ 
-description: Merge XLS to MHT via C++ online for free. Merge XLS to MHT in C++. Combine XLS to MHT using C++.
+description: Free Online XLS Merger. Merge XLS to MHT via C++ online for free. Merge, Concatenate or Combine XLS to MHT Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Merge CSV to XLSB via Java 
 url: /java/merger/merge-csv-to-xlsb/ 
-description: Merge CSV to XLSB via Java online for free. Merge CSV to XLSB in Java. Combine CSV to XLSB using Java based desktop or web application.
+description: Free Online CSV Merger. Merge CSV to XLSB via Java online for free. Merge, Concatenate or Combine CSV to XLSB Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

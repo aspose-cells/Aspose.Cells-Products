@@ -1,6 +1,6 @@
 ---
-title: Convert EXCEL to DOCX via Java 
-description: Convert EXCEL to DOCX online for free. Convert EXCEL to DOCX. Convert EXCEL to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert EXCEL to DOCX Java 
+description: Free Online EXCEL Converter. Convert EXCEL to DOCX Online for Free. Convert EXCEL to DOCX in Java code. Convert EXCEL to DOCX using Java.
 keywords: Convert EXCEL, EXCEL Converter, EXCEL to PDF, EXCEL to Word, EXCEL to PPT, EXCEL to Image
 ---
 

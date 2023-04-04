@@ -1,6 +1,6 @@
 ---
-title: Convert EXCEL to DOCX via Python
-description: Convert EXCEL to DOCX online for free. Convert EXCEL to DOCX. Convert EXCEL to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert EXCEL to DOCX Python via Python
+description: Free Online EXCEL Converter. Convert EXCEL to DOCX Online for Free. Convert EXCEL to DOCX in Python code. Convert EXCEL to DOCX using Python.
 keywords: Convert EXCEL, EXCEL Converter, EXCEL to PDF, EXCEL to Word, EXCEL to PPT, EXCEL to Image
 ---
 

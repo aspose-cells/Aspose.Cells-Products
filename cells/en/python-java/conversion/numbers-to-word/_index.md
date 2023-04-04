@@ -1,6 +1,6 @@
 ---
-title: Convert NUMBERS to WORD via Python
-description: Convert NUMBERS to WORD online for free. Convert NUMBERS to WORD. Convert NUMBERS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert NUMBERS to WORD Python via Python
+description: Free Online NUMBERS Converter. Convert NUMBERS to WORD Online for Free. Convert NUMBERS to WORD in Python code. Convert NUMBERS to WORD using Python.
 keywords: Convert NUMBERS, NUMBERS Converter, NUMBERS to PDF, NUMBERS to Word, NUMBERS to PPT, NUMBERS to Image
 ---
 

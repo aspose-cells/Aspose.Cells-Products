@@ -1,6 +1,6 @@
 ---
-title: Convert EXCEL to XLTX via C++
-description: Convert EXCEL to XLTX online for free. Convert EXCEL to XLTX. Convert EXCEL to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert EXCEL to XLTX C++
+description: Free Online EXCEL Converter. Convert EXCEL to XLTX Online for Free. Convert EXCEL to XLTX in C++ code. Convert EXCEL to XLTX using C++.
 keywords: Convert EXCEL, EXCEL Converter, EXCEL to PDF, EXCEL to Word, EXCEL to PPT, EXCEL to Image
 ---
 

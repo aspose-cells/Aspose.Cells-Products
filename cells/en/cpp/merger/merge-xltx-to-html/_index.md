@@ -1,7 +1,7 @@
 ---
 title: Merge XLTX to HTML via C++ 
 url: /cpp/merger/merge-xltx-to-html/ 
-description: Merge XLTX to HTML via C++ online for free. Merge XLTX to HTML in C++. Combine XLTX to HTML using C++.
+description: Free Online XLTX Merger. Merge XLTX to HTML via C++ online for free. Merge, Concatenate or Combine XLTX to HTML Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

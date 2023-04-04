@@ -1,6 +1,6 @@
 ---
-title: Convert JSON to XLS via Python
-description: Convert JSON to XLS online for free. Convert JSON to XLS. Convert JSON to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert JSON to XLS Python via Python
+description: Free Online JSON Converter. Convert JSON to XLS Online for Free. Convert JSON to XLS in Python code. Convert JSON to XLS using Python.
 keywords: Convert JSON, JSON Converter, JSON to PDF, JSON to Word, JSON to PPT, JSON to Image
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Merge XLTX to MHT via Python 
 url: /python-net/merger/merge-xltx-to-mht/ 
-description: Merge XLTX to MHT via Python online for free. Merge XLTX to MHT in Python. Combine XLTX to MHT using Python.
+description: Free Online XLTX Merger. Merge XLTX to MHT via Python online for free. Merge, Concatenate or Combine XLTX to MHT Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

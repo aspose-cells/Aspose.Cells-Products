@@ -1,7 +1,7 @@
 ---
 title: Merge XLS to HTML via C# 
 url: /net/merger/merge-xls-to-html/ 
-description: Merge XLS to HTML via .NET online for free. Merge XLS to HTML in .NET. Combine XLS to HTML using VB.NET, Asp.NET or any .NET based application.
+description: Free Online XLS Merger. Merge XLS to HTML via .NET online for free. Merge, Concatenate or Combine XLS to HTML Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,6 +1,6 @@
 ---
-title: Convert XLT to XPS via Python
-description: Convert XLT to XPS online for free. Convert XLT to XPS. Convert XLT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLT to XPS Python via Python
+description: Free Online XLT Converter. Convert XLT to XPS Online for Free. Convert XLT to XPS in Python code. Convert XLT to XPS using Python.
 keywords: Convert XLT, XLT Converter, XLT to PDF, XLT to Word, XLT to PPT, XLT to Image
 ---
 

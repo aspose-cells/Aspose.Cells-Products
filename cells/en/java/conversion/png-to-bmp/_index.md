@@ -1,6 +1,6 @@
 ---
-title: Convert PNG to BMP via Java 
-description: Convert PNG to BMP online for free. Convert PNG to BMP. Convert PNG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert PNG to BMP Java 
+description: Free Online PNG Converter. Convert PNG to BMP Online for Free. Convert PNG to BMP in Java code. Convert PNG to BMP using Java.
 keywords: Convert PNG, PNG Converter, PNG to PDF, PNG to Word, PNG to PPT, PNG to Image
 ---
 

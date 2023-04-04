@@ -1,7 +1,7 @@
 ---
 title: Merge XLTX to MHT via C# 
 url: /net/merger/merge-xltx-to-mht/ 
-description: Merge XLTX to MHT via .NET online for free. Merge XLTX to MHT in .NET. Combine XLTX to MHT using VB.NET, Asp.NET or any .NET based application.
+description: Free Online XLTX Merger. Merge XLTX to MHT via .NET online for free. Merge, Concatenate or Combine XLTX to MHT Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

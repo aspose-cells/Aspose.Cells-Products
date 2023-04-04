@@ -1,7 +1,7 @@
 ---
 title: Merge CSV to TSV via Python 
 url: /python-java/merger/merge-csv-to-tsv/ 
-description: Merge CSV to TSV via Python online for free. Merge CSV to TSV in Python. Combine CSV to TSV using Python.
+description: Free Online CSV Merger. Merge CSV to TSV via Python online for free. Merge, Concatenate or Combine CSV to TSV Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

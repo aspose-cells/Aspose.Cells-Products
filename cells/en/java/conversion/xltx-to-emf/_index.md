@@ -1,6 +1,6 @@
 ---
-title: Convert XLTX to EMF via Java 
-description: Convert XLTX to EMF online for free. Convert XLTX to EMF. Convert XLTX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLTX to EMF Java 
+description: Free Online XLTX Converter. Convert XLTX to EMF Online for Free. Convert XLTX to EMF in Java code. Convert XLTX to EMF using Java.
 keywords: Convert XLTX, XLTX Converter, XLTX to PDF, XLTX to Word, XLTX to PPT, XLTX to Image
 ---
 

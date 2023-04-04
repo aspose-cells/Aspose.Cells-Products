@@ -1,6 +1,6 @@
 ---
-title: Convert TXT to EMF via Java 
-description: Convert TXT to EMF online for free. Convert TXT to EMF. Convert TXT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert TXT to EMF Java 
+description: Free Online TXT Converter. Convert TXT to EMF Online for Free. Convert TXT to EMF in Java code. Convert TXT to EMF using Java.
 keywords: Convert TXT, TXT Converter, TXT to PDF, TXT to Word, TXT to PPT, TXT to Image
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Merge ODS to CSV via Python 
 url: /python-net/merger/merge-ods-to-csv/ 
-description: Merge ODS to CSV via Python online for free. Merge ODS to CSV in Python. Combine ODS to CSV using Python.
+description: Free Online ODS Merger. Merge ODS to CSV via Python online for free. Merge, Concatenate or Combine ODS to CSV Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

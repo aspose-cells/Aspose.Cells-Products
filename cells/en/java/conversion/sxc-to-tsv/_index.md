@@ -1,6 +1,6 @@
 ---
-title: Convert SXC to TSV via Java 
-description: Convert SXC to TSV online for free. Convert SXC to TSV. Convert SXC to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert SXC to TSV Java 
+description: Free Online SXC Converter. Convert SXC to TSV Online for Free. Convert SXC to TSV in Java code. Convert SXC to TSV using Java.
 keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC to Image
 ---
 

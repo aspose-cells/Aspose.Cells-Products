@@ -1,6 +1,6 @@
 ---
-title: Convert OTS to TXT via Java 
-description: Convert OTS to TXT online for free. Convert OTS to TXT. Convert OTS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert OTS to TXT Java 
+description: Free Online OTS Converter. Convert OTS to TXT Online for Free. Convert OTS to TXT in Java code. Convert OTS to TXT using Java.
 keywords: Convert OTS, OTS Converter, OTS to PDF, OTS to Word, OTS to PPT, OTS to Image
 ---
 

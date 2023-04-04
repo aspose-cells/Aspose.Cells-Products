@@ -1,6 +1,6 @@
 ---
-title: Convert ODS to JSON via Python
-description: Convert ODS to JSON online for free. Convert ODS to JSON. Convert ODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert ODS to JSON Python via Python
+description: Free Online ODS Converter. Convert ODS to JSON Online for Free. Convert ODS to JSON in Python code. Convert ODS to JSON using Python.
 keywords: Convert ODS, ODS Converter, ODS to PDF, ODS to Word, ODS to PPT, ODS to Image
 ---
 

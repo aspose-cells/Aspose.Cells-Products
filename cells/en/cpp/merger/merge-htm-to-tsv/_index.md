@@ -1,7 +1,7 @@
 ---
 title: Merge HTM to TSV via C++ 
 url: /cpp/merger/merge-htm-to-tsv/ 
-description: Merge HTM to TSV via C++ online for free. Merge HTM to TSV in C++. Combine HTM to TSV using C++.
+description: Free Online HTM Merger. Merge HTM to TSV via C++ online for free. Merge, Concatenate or Combine HTM to TSV Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Merge XLSX to ODS via Java 
 url: /java/merger/merge-xlsx-to-ods/ 
-description: Merge XLSX to ODS via Java online for free. Merge XLSX to ODS in Java. Combine XLSX to ODS using Java based desktop or web application.
+description: Free Online XLSX Merger. Merge XLSX to ODS via Java online for free. Merge, Concatenate or Combine XLSX to ODS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

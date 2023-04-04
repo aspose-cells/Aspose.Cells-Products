@@ -1,7 +1,7 @@
 ---
 title: Merge NUMBERS to MHT via Python 
 url: /python-net/merger/merge-numbers-to-mht/ 
-description: Merge NUMBERS to MHT via Python online for free. Merge NUMBERS to MHT in Python. Combine NUMBERS to MHT using Python.
+description: Free Online NUMBERS Merger. Merge NUMBERS to MHT via Python online for free. Merge, Concatenate or Combine NUMBERS to MHT Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

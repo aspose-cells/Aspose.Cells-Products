@@ -1,7 +1,7 @@
 ---
 title: Merge XLTM to MHTML via C++ 
 url: /cpp/merger/merge-xltm-to-mhtml/ 
-description: Merge XLTM to MHTML via C++ online for free. Merge XLTM to MHTML in C++. Combine XLTM to MHTML using C++.
+description: Free Online XLTM Merger. Merge XLTM to MHTML via C++ online for free. Merge, Concatenate or Combine XLTM to MHTML Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

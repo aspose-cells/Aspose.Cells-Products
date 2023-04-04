@@ -1,6 +1,6 @@
 ---
-title: Convert TSV to JSON via Java 
-description: Convert TSV to JSON online for free. Convert TSV to JSON. Convert TSV to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert TSV to JSON Java 
+description: Free Online TSV Converter. Convert TSV to JSON Online for Free. Convert TSV to JSON in Java code. Convert TSV to JSON using Java.
 keywords: Convert TSV, TSV Converter, TSV to PDF, TSV to Word, TSV to PPT, TSV to Image
 ---
 

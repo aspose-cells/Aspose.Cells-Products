@@ -1,7 +1,7 @@
 ---
 title: Merge MHT to HTML via Python 
 url: /python-net/merger/merge-mht-to-html/ 
-description: Merge MHT to HTML via Python online for free. Merge MHT to HTML in Python. Combine MHT to HTML using Python.
+description: Free Online MHT Merger. Merge MHT to HTML via Python online for free. Merge, Concatenate or Combine MHT to HTML Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

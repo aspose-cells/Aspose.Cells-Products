@@ -1,6 +1,6 @@
 ---
-title: Convert XLSM to XLT via C++
-description: Convert XLSM to XLT online for free. Convert XLSM to XLT. Convert XLSM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLSM to XLT C++
+description: Free Online XLSM Converter. Convert XLSM to XLT Online for Free. Convert XLSM to XLT in C++ code. Convert XLSM to XLT using C++.
 keywords: Convert XLSM, XLSM Converter, XLSM to PDF, XLSM to Word, XLSM to PPT, XLSM to Image
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Merge CSV to XLS via Python 
 url: /python-net/merger/merge-csv-to-xls/ 
-description: Merge CSV to XLS via Python online for free. Merge CSV to XLS in Python. Combine CSV to XLS using Python.
+description: Free Online CSV Merger. Merge CSV to XLS via Python online for free. Merge, Concatenate or Combine CSV to XLS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

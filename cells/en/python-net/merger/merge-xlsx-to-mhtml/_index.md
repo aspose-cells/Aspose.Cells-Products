@@ -1,7 +1,7 @@
 ---
 title: Merge XLSX to MHTML via Python 
 url: /python-net/merger/merge-xlsx-to-mhtml/ 
-description: Merge XLSX to MHTML via Python online for free. Merge XLSX to MHTML in Python. Combine XLSX to MHTML using Python.
+description: Free Online XLSX Merger. Merge XLSX to MHTML via Python online for free. Merge, Concatenate or Combine XLSX to MHTML Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

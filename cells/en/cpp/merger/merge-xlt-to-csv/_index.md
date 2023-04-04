@@ -1,7 +1,7 @@
 ---
 title: Merge XLT to CSV via C++ 
 url: /cpp/merger/merge-xlt-to-csv/ 
-description: Merge XLT to CSV via C++ online for free. Merge XLT to CSV in C++. Combine XLT to CSV using C++.
+description: Free Online XLT Merger. Merge XLT to CSV via C++ online for free. Merge, Concatenate or Combine XLT to CSV Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

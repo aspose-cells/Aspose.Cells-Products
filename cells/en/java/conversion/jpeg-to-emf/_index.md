@@ -1,6 +1,6 @@
 ---
-title: Convert JPEG to EMF via Java 
-description: Convert JPEG to EMF online for free. Convert JPEG to EMF. Convert JPEG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert JPEG to EMF Java 
+description: Free Online JPEG Converter. Convert JPEG to EMF Online for Free. Convert JPEG to EMF in Java code. Convert JPEG to EMF using Java.
 keywords: Convert JPEG, JPEG Converter, JPEG to PDF, JPEG to Word, JPEG to PPT, JPEG to Image
 ---
 

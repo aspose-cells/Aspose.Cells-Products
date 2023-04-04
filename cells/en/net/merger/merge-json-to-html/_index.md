@@ -1,7 +1,7 @@
 ---
 title: Merge JSON to HTML via C# 
 url: /net/merger/merge-json-to-html/ 
-description: Merge JSON to HTML via .NET online for free. Merge JSON to HTML in .NET. Combine JSON to HTML using VB.NET, Asp.NET or any .NET based application.
+description: Free Online JSON Merger. Merge JSON to HTML via .NET online for free. Merge, Concatenate or Combine JSON to HTML Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

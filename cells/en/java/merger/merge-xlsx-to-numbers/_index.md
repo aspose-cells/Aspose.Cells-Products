@@ -1,7 +1,7 @@
 ---
 title: Merge XLSX to NUMBERS via Java 
 url: /java/merger/merge-xlsx-to-numbers/ 
-description: Merge XLSX to NUMBERS via Java online for free. Merge XLSX to NUMBERS in Java. Combine XLSX to NUMBERS using Java based desktop or web application.
+description: Free Online XLSX Merger. Merge XLSX to NUMBERS via Java online for free. Merge, Concatenate or Combine XLSX to NUMBERS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Merge XLSM to HTML via C++ 
 url: /cpp/merger/merge-xlsm-to-html/ 
-description: Merge XLSM to HTML via C++ online for free. Merge XLSM to HTML in C++. Combine XLSM to HTML using C++.
+description: Free Online XLSM Merger. Merge XLSM to HTML via C++ online for free. Merge, Concatenate or Combine XLSM to HTML Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

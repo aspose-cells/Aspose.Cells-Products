@@ -1,6 +1,6 @@
 ---
-title: Convert CSV to DIF via Python
-description: Convert CSV to DIF online for free. Convert CSV to DIF. Convert CSV to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert CSV to DIF Python via Python
+description: Free Online CSV Converter. Convert CSV to DIF Online for Free. Convert CSV to DIF in Python code. Convert CSV to DIF using Python.
 keywords: Convert CSV, CSV Converter, CSV to PDF, CSV to Word, CSV to PPT, CSV to Image
 ---
 

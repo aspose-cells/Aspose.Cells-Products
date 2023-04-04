@@ -1,7 +1,7 @@
 ---
 title: Merge FODS to HTML via C# 
 url: /net/merger/merge-fods-to-html/ 
-description: Merge FODS to HTML via .NET online for free. Merge FODS to HTML in .NET. Combine FODS to HTML using VB.NET, Asp.NET or any .NET based application.
+description: Free Online FODS Merger. Merge FODS to HTML via .NET online for free. Merge, Concatenate or Combine FODS to HTML Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

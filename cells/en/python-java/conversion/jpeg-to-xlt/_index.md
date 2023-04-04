@@ -1,6 +1,6 @@
 ---
-title: Convert JPEG to XLT via Python
-description: Convert JPEG to XLT online for free. Convert JPEG to XLT. Convert JPEG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert JPEG to XLT Python via Python
+description: Free Online JPEG Converter. Convert JPEG to XLT Online for Free. Convert JPEG to XLT in Python code. Convert JPEG to XLT using Python.
 keywords: Convert JPEG, JPEG Converter, JPEG to PDF, JPEG to Word, JPEG to PPT, JPEG to Image
 ---
 

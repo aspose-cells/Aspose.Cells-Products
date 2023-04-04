@@ -1,6 +1,6 @@
 ---
-title: Convert JPEG to ETT via Java 
-description: Convert JPEG to ETT online for free. Convert JPEG to ETT. Convert JPEG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert JPEG to ETT Java 
+description: Free Online JPEG Converter. Convert JPEG to ETT Online for Free. Convert JPEG to ETT in Java code. Convert JPEG to ETT using Java.
 keywords: Convert JPEG, JPEG Converter, JPEG to PDF, JPEG to Word, JPEG to PPT, JPEG to Image
 ---
 

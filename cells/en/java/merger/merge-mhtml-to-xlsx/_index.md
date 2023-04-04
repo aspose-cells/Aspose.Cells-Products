@@ -1,7 +1,7 @@
 ---
 title: Merge MHTML to XLSX via Java 
 url: /java/merger/merge-mhtml-to-xlsx/ 
-description: Merge MHTML to XLSX via Java online for free. Merge MHTML to XLSX in Java. Combine MHTML to XLSX using Java based desktop or web application.
+description: Free Online MHTML Merger. Merge MHTML to XLSX via Java online for free. Merge, Concatenate or Combine MHTML to XLSX Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,6 +1,6 @@
 ---
-title: Convert PRN to JPEG via C++
-description: Convert PRN to JPEG online for free. Convert PRN to JPEG. Convert PRN to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert PRN to JPEG C++
+description: Free Online PRN Converter. Convert PRN to JPEG Online for Free. Convert PRN to JPEG in C++ code. Convert PRN to JPEG using C++.
 keywords: Convert PRN, PRN Converter, PRN to PDF, PRN to Word, PRN to PPT, PRN to Image
 ---
 

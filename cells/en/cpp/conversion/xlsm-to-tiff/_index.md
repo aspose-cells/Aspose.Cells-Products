@@ -1,6 +1,6 @@
 ---
-title: Convert XLSM to TIFF via C++
-description: Convert XLSM to TIFF online for free. Convert XLSM to TIFF. Convert XLSM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLSM to TIFF C++
+description: Free Online XLSM Converter. Convert XLSM to TIFF Online for Free. Convert XLSM to TIFF in C++ code. Convert XLSM to TIFF using C++.
 keywords: Convert XLSM, XLSM Converter, XLSM to PDF, XLSM to Word, XLSM to PPT, XLSM to Image
 ---
 

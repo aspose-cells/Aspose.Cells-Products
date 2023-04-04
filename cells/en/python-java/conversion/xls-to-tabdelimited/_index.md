@@ -1,6 +1,6 @@
 ---
-title: Convert XLS to TABDELIMITED via Python
-description: Convert XLS to TABDELIMITED online for free. Convert XLS to TABDELIMITED. Convert XLS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLS to TABDELIMITED Python via Python
+description: Free Online XLS Converter. Convert XLS to TABDELIMITED Online for Free. Convert XLS to TABDELIMITED in Python code. Convert XLS to TABDELIMITED using Python.
 keywords: Convert XLS, XLS Converter, XLS to PDF, XLS to Word, XLS to PPT, XLS to Image
 ---
 

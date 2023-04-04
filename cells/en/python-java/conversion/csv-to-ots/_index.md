@@ -1,6 +1,6 @@
 ---
-title: Convert CSV to OTS via Python
-description: Convert CSV to OTS online for free. Convert CSV to OTS. Convert CSV to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert CSV to OTS Python via Python
+description: Free Online CSV Converter. Convert CSV to OTS Online for Free. Convert CSV to OTS in Python code. Convert CSV to OTS using Python.
 keywords: Convert CSV, CSV Converter, CSV to PDF, CSV to Word, CSV to PPT, CSV to Image
 ---
 

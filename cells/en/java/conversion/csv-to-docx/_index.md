@@ -1,6 +1,6 @@
 ---
-title: Convert CSV to DOCX via Java 
-description: Convert CSV to DOCX online for free. Convert CSV to DOCX. Convert CSV to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert CSV to DOCX Java 
+description: Free Online CSV Converter. Convert CSV to DOCX Online for Free. Convert CSV to DOCX in Java code. Convert CSV to DOCX using Java.
 keywords: Convert CSV, CSV Converter, CSV to PDF, CSV to Word, CSV to PPT, CSV to Image
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Merge XLT to NUMBERS via Python 
 url: /python-java/merger/merge-xlt-to-numbers/ 
-description: Merge XLT to NUMBERS via Python online for free. Merge XLT to NUMBERS in Python. Combine XLT to NUMBERS using Python.
+description: Free Online XLT Merger. Merge XLT to NUMBERS via Python online for free. Merge, Concatenate or Combine XLT to NUMBERS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

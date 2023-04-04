@@ -1,7 +1,7 @@
 ---
 title: Merge HTML to CSV via Python 
 url: /python-net/merger/merge-html-to-csv/ 
-description: Merge HTML to CSV via Python online for free. Merge HTML to CSV in Python. Combine HTML to CSV using Python.
+description: Free Online HTML Merger. Merge HTML to CSV via Python online for free. Merge, Concatenate or Combine HTML to CSV Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

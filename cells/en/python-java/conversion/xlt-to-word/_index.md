@@ -1,6 +1,6 @@
 ---
-title: Convert XLT to WORD via Python
-description: Convert XLT to WORD online for free. Convert XLT to WORD. Convert XLT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLT to WORD Python via Python
+description: Free Online XLT Converter. Convert XLT to WORD Online for Free. Convert XLT to WORD in Python code. Convert XLT to WORD using Python.
 keywords: Convert XLT, XLT Converter, XLT to PDF, XLT to Word, XLT to PPT, XLT to Image
 ---
 

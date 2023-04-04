@@ -1,6 +1,6 @@
 ---
-title: Convert SXC to XLSX via C++
-description: Convert SXC to XLSX online for free. Convert SXC to XLSX. Convert SXC to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert SXC to XLSX C++
+description: Free Online SXC Converter. Convert SXC to XLSX Online for Free. Convert SXC to XLSX in C++ code. Convert SXC to XLSX using C++.
 keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC to Image
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Convert XLTX to XLSB via Python
-description: Convert XLTX to XLSB online for free. Convert XLTX to XLSB. Convert XLTX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLTX to XLSB Python via Python
+description: Free Online XLTX Converter. Convert XLTX to XLSB Online for Free. Convert XLTX to XLSB in Python code. Convert XLTX to XLSB using Python.
 keywords: Convert XLTX, XLTX Converter, XLTX to PDF, XLTX to Word, XLTX to PPT, XLTX to Image
 ---
 

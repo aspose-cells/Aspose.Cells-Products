@@ -1,6 +1,6 @@
 ---
-title: Convert EXCEL to XLS via Python
-description: Convert EXCEL to XLS online for free. Convert EXCEL to XLS. Convert EXCEL to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert EXCEL to XLS Python via Python
+description: Free Online EXCEL Converter. Convert EXCEL to XLS Online for Free. Convert EXCEL to XLS in Python code. Convert EXCEL to XLS using Python.
 keywords: Convert EXCEL, EXCEL Converter, EXCEL to PDF, EXCEL to Word, EXCEL to PPT, EXCEL to Image
 ---
 

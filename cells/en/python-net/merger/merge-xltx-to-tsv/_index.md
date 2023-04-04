@@ -1,7 +1,7 @@
 ---
 title: Merge XLTX to TSV via Python 
 url: /python-net/merger/merge-xltx-to-tsv/ 
-description: Merge XLTX to TSV via Python online for free. Merge XLTX to TSV in Python. Combine XLTX to TSV using Python.
+description: Free Online XLTX Merger. Merge XLTX to TSV via Python online for free. Merge, Concatenate or Combine XLTX to TSV Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

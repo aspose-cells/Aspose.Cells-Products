@@ -1,7 +1,7 @@
 ---
 title: Merge MHTML to TSV via Java 
 url: /java/merger/merge-mhtml-to-tsv/ 
-description: Merge MHTML to TSV via Java online for free. Merge MHTML to TSV in Java. Combine MHTML to TSV using Java based desktop or web application.
+description: Free Online MHTML Merger. Merge MHTML to TSV via Java online for free. Merge, Concatenate or Combine MHTML to TSV Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

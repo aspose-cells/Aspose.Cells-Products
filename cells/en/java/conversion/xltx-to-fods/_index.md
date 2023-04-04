@@ -1,6 +1,6 @@
 ---
-title: Convert XLTX to FODS via Java 
-description: Convert XLTX to FODS online for free. Convert XLTX to FODS. Convert XLTX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLTX to FODS Java 
+description: Free Online XLTX Converter. Convert XLTX to FODS Online for Free. Convert XLTX to FODS in Java code. Convert XLTX to FODS using Java.
 keywords: Convert XLTX, XLTX Converter, XLTX to PDF, XLTX to Word, XLTX to PPT, XLTX to Image
 ---
 

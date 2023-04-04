@@ -1,7 +1,7 @@
 ---
 title: Merge TSV to XLSB via Python 
 url: /python-java/merger/merge-tsv-to-xlsb/ 
-description: Merge TSV to XLSB via Python online for free. Merge TSV to XLSB in Python. Combine TSV to XLSB using Python.
+description: Free Online TSV Merger. Merge TSV to XLSB via Python online for free. Merge, Concatenate or Combine TSV to XLSB Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

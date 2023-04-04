@@ -1,6 +1,6 @@
 ---
-title: Convert ODS to CSV via Java 
-description: Convert ODS to CSV online for free. Convert ODS to CSV. Convert ODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert ODS to CSV Java 
+description: Free Online ODS Converter. Convert ODS to CSV Online for Free. Convert ODS to CSV in Java code. Convert ODS to CSV using Java.
 keywords: Convert ODS, ODS Converter, ODS to PDF, ODS to Word, ODS to PPT, ODS to Image
 ---
 

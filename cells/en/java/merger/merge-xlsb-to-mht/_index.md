@@ -1,7 +1,7 @@
 ---
 title: Merge XLSB to MHT via Java 
 url: /java/merger/merge-xlsb-to-mht/ 
-description: Merge XLSB to MHT via Java online for free. Merge XLSB to MHT in Java. Combine XLSB to MHT using Java based desktop or web application.
+description: Free Online XLSB Merger. Merge XLSB to MHT via Java online for free. Merge, Concatenate or Combine XLSB to MHT Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

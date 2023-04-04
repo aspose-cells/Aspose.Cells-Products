@@ -1,6 +1,6 @@
 ---
-title: Convert JPEG to XLTX via Java 
-description: Convert JPEG to XLTX online for free. Convert JPEG to XLTX. Convert JPEG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert JPEG to XLTX Java 
+description: Free Online JPEG Converter. Convert JPEG to XLTX Online for Free. Convert JPEG to XLTX in Java code. Convert JPEG to XLTX using Java.
 keywords: Convert JPEG, JPEG Converter, JPEG to PDF, JPEG to Word, JPEG to PPT, JPEG to Image
 ---
 

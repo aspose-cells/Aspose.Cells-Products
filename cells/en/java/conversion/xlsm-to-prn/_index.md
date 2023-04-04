@@ -1,6 +1,6 @@
 ---
-title: Convert XLSM to PRN via Java 
-description: Convert XLSM to PRN online for free. Convert XLSM to PRN. Convert XLSM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLSM to PRN Java 
+description: Free Online XLSM Converter. Convert XLSM to PRN Online for Free. Convert XLSM to PRN in Java code. Convert XLSM to PRN using Java.
 keywords: Convert XLSM, XLSM Converter, XLSM to PDF, XLSM to Word, XLSM to PPT, XLSM to Image
 ---
 

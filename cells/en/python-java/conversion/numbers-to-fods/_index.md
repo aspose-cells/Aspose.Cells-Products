@@ -1,6 +1,6 @@
 ---
-title: Convert NUMBERS to FODS via Python
-description: Convert NUMBERS to FODS online for free. Convert NUMBERS to FODS. Convert NUMBERS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert NUMBERS to FODS Python via Python
+description: Free Online NUMBERS Converter. Convert NUMBERS to FODS Online for Free. Convert NUMBERS to FODS in Python code. Convert NUMBERS to FODS using Python.
 keywords: Convert NUMBERS, NUMBERS Converter, NUMBERS to PDF, NUMBERS to Word, NUMBERS to PPT, NUMBERS to Image
 ---
 

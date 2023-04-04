@@ -1,7 +1,7 @@
 ---
 title: Merge FODS to HTM via Python 
 url: /python-net/merger/merge-fods-to-htm/ 
-description: Merge FODS to HTM via Python online for free. Merge FODS to HTM in Python. Combine FODS to HTM using Python.
+description: Free Online FODS Merger. Merge FODS to HTM via Python online for free. Merge, Concatenate or Combine FODS to HTM Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

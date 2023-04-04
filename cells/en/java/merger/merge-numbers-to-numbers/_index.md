@@ -1,7 +1,7 @@
 ---
 title: Merge NUMBERS to NUMBERS via Java 
 url: /java/merger/merge-numbers-to-numbers/ 
-description: Merge NUMBERS to NUMBERS via Java online for free. Merge NUMBERS to NUMBERS in Java. Combine NUMBERS to NUMBERS using Java based desktop or web application.
+description: Free Online NUMBERS Merger. Merge NUMBERS to NUMBERS via Java online for free. Merge, Concatenate or Combine NUMBERS to NUMBERS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

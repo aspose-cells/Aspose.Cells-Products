@@ -1,6 +1,6 @@
 ---
-title: Convert XLSB to DOCX via C++
-description: Convert XLSB to DOCX online for free. Convert XLSB to DOCX. Convert XLSB to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLSB to DOCX C++
+description: Free Online XLSB Converter. Convert XLSB to DOCX Online for Free. Convert XLSB to DOCX in C++ code. Convert XLSB to DOCX using C++.
 keywords: Convert XLSB, XLSB Converter, XLSB to PDF, XLSB to Word, XLSB to PPT, XLSB to Image
 ---
 

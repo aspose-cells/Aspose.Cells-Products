@@ -1,6 +1,6 @@
 ---
-title: Convert XLT to DIF via C++
-description: Convert XLT to DIF online for free. Convert XLT to DIF. Convert XLT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLT to DIF C++
+description: Free Online XLT Converter. Convert XLT to DIF Online for Free. Convert XLT to DIF in C++ code. Convert XLT to DIF using C++.
 keywords: Convert XLT, XLT Converter, XLT to PDF, XLT to Word, XLT to PPT, XLT to Image
 ---
 

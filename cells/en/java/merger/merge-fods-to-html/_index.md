@@ -1,7 +1,7 @@
 ---
 title: Merge FODS to HTML via Java 
 url: /java/merger/merge-fods-to-html/ 
-description: Merge FODS to HTML via Java online for free. Merge FODS to HTML in Java. Combine FODS to HTML using Java based desktop or web application.
+description: Free Online FODS Merger. Merge FODS to HTML via Java online for free. Merge, Concatenate or Combine FODS to HTML Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

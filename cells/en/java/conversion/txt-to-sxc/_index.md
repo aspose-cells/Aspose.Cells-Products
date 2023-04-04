@@ -1,6 +1,6 @@
 ---
-title: Convert TXT to SXC via Java 
-description: Convert TXT to SXC online for free. Convert TXT to SXC. Convert TXT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert TXT to SXC Java 
+description: Free Online TXT Converter. Convert TXT to SXC Online for Free. Convert TXT to SXC in Java code. Convert TXT to SXC using Java.
 keywords: Convert TXT, TXT Converter, TXT to PDF, TXT to Word, TXT to PPT, TXT to Image
 ---
 

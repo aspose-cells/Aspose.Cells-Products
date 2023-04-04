@@ -1,6 +1,6 @@
 ---
-title: Convert XLTX to XML via Python
-description: Convert XLTX to XML online for free. Convert XLTX to XML. Convert XLTX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLTX to XML Python via Python
+description: Free Online XLTX Converter. Convert XLTX to XML Online for Free. Convert XLTX to XML in Python code. Convert XLTX to XML using Python.
 keywords: Convert XLTX, XLTX Converter, XLTX to PDF, XLTX to Word, XLTX to PPT, XLTX to Image
 ---
 

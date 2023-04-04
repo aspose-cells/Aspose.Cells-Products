@@ -1,7 +1,7 @@
 ---
 title: Merge XLSM to ODS via Java 
 url: /java/merger/merge-xlsm-to-ods/ 
-description: Merge XLSM to ODS via Java online for free. Merge XLSM to ODS in Java. Combine XLSM to ODS using Java based desktop or web application.
+description: Free Online XLSM Merger. Merge XLSM to ODS via Java online for free. Merge, Concatenate or Combine XLSM to ODS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

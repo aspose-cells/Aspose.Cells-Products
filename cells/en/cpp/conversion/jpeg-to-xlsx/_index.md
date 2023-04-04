@@ -1,6 +1,6 @@
 ---
-title: Convert JPEG to XLSX via C++
-description: Convert JPEG to XLSX online for free. Convert JPEG to XLSX. Convert JPEG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert JPEG to XLSX C++
+description: Free Online JPEG Converter. Convert JPEG to XLSX Online for Free. Convert JPEG to XLSX in C++ code. Convert JPEG to XLSX using C++.
 keywords: Convert JPEG, JPEG Converter, JPEG to PDF, JPEG to Word, JPEG to PPT, JPEG to Image
 ---
 

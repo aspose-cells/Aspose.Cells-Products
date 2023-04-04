@@ -1,6 +1,6 @@
 ---
-title: Convert ODS to HTML via Python
-description: Convert ODS to HTML online for free. Convert ODS to HTML. Convert ODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert ODS to HTML Python via Python
+description: Free Online ODS Converter. Convert ODS to HTML Online for Free. Convert ODS to HTML in Python code. Convert ODS to HTML using Python.
 keywords: Convert ODS, ODS Converter, ODS to PDF, ODS to Word, ODS to PPT, ODS to Image
 ---
 

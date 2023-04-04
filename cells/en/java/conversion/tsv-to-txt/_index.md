@@ -1,6 +1,6 @@
 ---
-title: Convert TSV to TXT via Java 
-description: Convert TSV to TXT online for free. Convert TSV to TXT. Convert TSV to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert TSV to TXT Java 
+description: Free Online TSV Converter. Convert TSV to TXT Online for Free. Convert TSV to TXT in Java code. Convert TSV to TXT using Java.
 keywords: Convert TSV, TSV Converter, TSV to PDF, TSV to Word, TSV to PPT, TSV to Image
 ---
 

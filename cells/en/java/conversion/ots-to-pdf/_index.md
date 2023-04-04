@@ -1,6 +1,6 @@
 ---
-title: Convert OTS to PDF via Java 
-description: Convert OTS to PDF online for free. Convert OTS to PDF. Convert OTS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert OTS to PDF Java 
+description: Free Online OTS Converter. Convert OTS to PDF Online for Free. Convert OTS to PDF in Java code. Convert OTS to PDF using Java.
 keywords: Convert OTS, OTS Converter, OTS to PDF, OTS to Word, OTS to PPT, OTS to Image
 ---
 

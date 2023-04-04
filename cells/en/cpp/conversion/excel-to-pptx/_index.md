@@ -1,6 +1,6 @@
 ---
-title: Convert EXCEL to PPTX via C++
-description: Convert EXCEL to PPTX online for free. Convert EXCEL to PPTX. Convert EXCEL to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert EXCEL to PPTX C++
+description: Free Online EXCEL Converter. Convert EXCEL to PPTX Online for Free. Convert EXCEL to PPTX in C++ code. Convert EXCEL to PPTX using C++.
 keywords: Convert EXCEL, EXCEL Converter, EXCEL to PDF, EXCEL to Word, EXCEL to PPT, EXCEL to Image
 ---
 

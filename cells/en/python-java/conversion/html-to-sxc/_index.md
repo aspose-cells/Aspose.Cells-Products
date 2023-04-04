@@ -1,6 +1,6 @@
 ---
-title: Convert HTML to SXC via Python
-description: Convert HTML to SXC online for free. Convert HTML to SXC. Convert HTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert HTML to SXC Python via Python
+description: Free Online HTML Converter. Convert HTML to SXC Online for Free. Convert HTML to SXC in Python code. Convert HTML to SXC using Python.
 keywords: Convert HTML, HTML Converter, HTML to PDF, HTML to Word, HTML to PPT, HTML to Image
 ---
 

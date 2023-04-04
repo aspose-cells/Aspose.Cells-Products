@@ -1,7 +1,7 @@
 ---
 title: Merge MHTML to XLSM via C# 
 url: /net/merger/merge-mhtml-to-xlsm/ 
-description: Merge MHTML to XLSM via .NET online for free. Merge MHTML to XLSM in .NET. Combine MHTML to XLSM using VB.NET, Asp.NET or any .NET based application.
+description: Free Online MHTML Merger. Merge MHTML to XLSM via .NET online for free. Merge, Concatenate or Combine MHTML to XLSM Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

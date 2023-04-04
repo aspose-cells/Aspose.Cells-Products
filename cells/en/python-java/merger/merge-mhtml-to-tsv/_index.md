@@ -1,7 +1,7 @@
 ---
 title: Merge MHTML to TSV via Python 
 url: /python-java/merger/merge-mhtml-to-tsv/ 
-description: Merge MHTML to TSV via Python online for free. Merge MHTML to TSV in Python. Combine MHTML to TSV using Python.
+description: Free Online MHTML Merger. Merge MHTML to TSV via Python online for free. Merge, Concatenate or Combine MHTML to TSV Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

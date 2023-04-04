@@ -1,6 +1,6 @@
 ---
-title: Convert XLSX to XPS via C++
-description: Convert XLSX to XPS online for free. Convert XLSX to XPS. Convert XLSX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLSX to XPS C++
+description: Free Online XLSX Converter. Convert XLSX to XPS Online for Free. Convert XLSX to XPS in C++ code. Convert XLSX to XPS using C++.
 keywords: Convert XLSX, XLSX Converter, XLSX to PDF, XLSX to Word, XLSX to PPT, XLSX to Image
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Merge XLS to XLS via Python 
 url: /python-java/merger/merge-xls-to-xls/ 
-description: Merge XLS to XLS via Python online for free. Merge XLS to XLS in Python. Combine XLS to XLS using Python.
+description: Free Online XLS Merger. Merge XLS to XLS via Python online for free. Merge, Concatenate or Combine XLS to XLS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

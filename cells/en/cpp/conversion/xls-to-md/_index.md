@@ -1,6 +1,6 @@
 ---
-title: Convert XLS to MD via C++
-description: Convert XLS to MD online for free. Convert XLS to MD. Convert XLS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLS to MD C++
+description: Free Online XLS Converter. Convert XLS to MD Online for Free. Convert XLS to MD in C++ code. Convert XLS to MD using C++.
 keywords: Convert XLS, XLS Converter, XLS to PDF, XLS to Word, XLS to PPT, XLS to Image
 ---
 

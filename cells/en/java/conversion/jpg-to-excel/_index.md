@@ -1,6 +1,6 @@
 ---
-title: Convert JPG to EXCEL via Java 
-description: Convert JPG to EXCEL online for free. Convert JPG to EXCEL. Convert JPG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert JPG to EXCEL Java 
+description: Free Online JPG Converter. Convert JPG to EXCEL Online for Free. Convert JPG to EXCEL in Java code. Convert JPG to EXCEL using Java.
 keywords: Convert JPG, JPG Converter, JPG to PDF, JPG to Word, JPG to PPT, JPG to Image
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Convert FODS to MARKDOWN via Java 
-description: Convert FODS to MARKDOWN online for free. Convert FODS to MARKDOWN. Convert FODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert FODS to MARKDOWN Java 
+description: Free Online FODS Converter. Convert FODS to MARKDOWN Online for Free. Convert FODS to MARKDOWN in Java code. Convert FODS to MARKDOWN using Java.
 keywords: Convert FODS, FODS Converter, FODS to PDF, FODS to Word, FODS to PPT, FODS to Image
 ---
 

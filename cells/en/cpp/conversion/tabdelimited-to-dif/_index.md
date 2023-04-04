@@ -1,6 +1,6 @@
 ---
-title: Convert TABDELIMITED to DIF via C++
-description: Convert TABDELIMITED to DIF online for free. Convert TABDELIMITED to DIF. Convert TABDELIMITED to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert TABDELIMITED to DIF C++
+description: Free Online TABDELIMITED Converter. Convert TABDELIMITED to DIF Online for Free. Convert TABDELIMITED to DIF in C++ code. Convert TABDELIMITED to DIF using C++.
 keywords: Convert TABDELIMITED, TABDELIMITED Converter, TABDELIMITED to PDF, TABDELIMITED to Word, TABDELIMITED to PPT, TABDELIMITED to Image
 ---
 

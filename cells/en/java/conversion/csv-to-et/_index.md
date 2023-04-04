@@ -1,6 +1,6 @@
 ---
-title: Convert CSV to ET via Java 
-description: Convert CSV to ET online for free. Convert CSV to ET. Convert CSV to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert CSV to ET Java 
+description: Free Online CSV Converter. Convert CSV to ET Online for Free. Convert CSV to ET in Java code. Convert CSV to ET using Java.
 keywords: Convert CSV, CSV Converter, CSV to PDF, CSV to Word, CSV to PPT, CSV to Image
 ---
 

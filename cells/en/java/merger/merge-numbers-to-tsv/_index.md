@@ -1,7 +1,7 @@
 ---
 title: Merge NUMBERS to TSV via Java 
 url: /java/merger/merge-numbers-to-tsv/ 
-description: Merge NUMBERS to TSV via Java online for free. Merge NUMBERS to TSV in Java. Combine NUMBERS to TSV using Java based desktop or web application.
+description: Free Online NUMBERS Merger. Merge NUMBERS to TSV via Java online for free. Merge, Concatenate or Combine NUMBERS to TSV Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

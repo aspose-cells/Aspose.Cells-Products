@@ -1,6 +1,6 @@
 ---
-title: Convert JSON to TXT via Python
-description: Convert JSON to TXT online for free. Convert JSON to TXT. Convert JSON to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert JSON to TXT Python via Python
+description: Free Online JSON Converter. Convert JSON to TXT Online for Free. Convert JSON to TXT in Python code. Convert JSON to TXT using Python.
 keywords: Convert JSON, JSON Converter, JSON to PDF, JSON to Word, JSON to PPT, JSON to Image
 ---
 

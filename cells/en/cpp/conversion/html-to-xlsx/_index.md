@@ -1,6 +1,6 @@
 ---
-title: Convert HTML to XLSX via C++
-description: Convert HTML to XLSX online for free. Convert HTML to XLSX. Convert HTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert HTML to XLSX C++
+description: Free Online HTML Converter. Convert HTML to XLSX Online for Free. Convert HTML to XLSX in C++ code. Convert HTML to XLSX using C++.
 keywords: Convert HTML, HTML Converter, HTML to PDF, HTML to Word, HTML to PPT, HTML to Image
 ---
 

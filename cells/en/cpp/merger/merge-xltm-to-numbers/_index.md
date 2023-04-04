@@ -1,7 +1,7 @@
 ---
 title: Merge XLTM to NUMBERS via C++ 
 url: /cpp/merger/merge-xltm-to-numbers/ 
-description: Merge XLTM to NUMBERS via C++ online for free. Merge XLTM to NUMBERS in C++. Combine XLTM to NUMBERS using C++.
+description: Free Online XLTM Merger. Merge XLTM to NUMBERS via C++ online for free. Merge, Concatenate or Combine XLTM to NUMBERS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Merge FODS to CSV via C++ 
 url: /cpp/merger/merge-fods-to-csv/ 
-description: Merge FODS to CSV via C++ online for free. Merge FODS to CSV in C++. Combine FODS to CSV using C++.
+description: Free Online FODS Merger. Merge FODS to CSV via C++ online for free. Merge, Concatenate or Combine FODS to CSV Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

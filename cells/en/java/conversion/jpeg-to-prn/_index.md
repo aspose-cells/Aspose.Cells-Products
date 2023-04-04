@@ -1,6 +1,6 @@
 ---
-title: Convert JPEG to PRN via Java 
-description: Convert JPEG to PRN online for free. Convert JPEG to PRN. Convert JPEG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert JPEG to PRN Java 
+description: Free Online JPEG Converter. Convert JPEG to PRN Online for Free. Convert JPEG to PRN in Java code. Convert JPEG to PRN using Java.
 keywords: Convert JPEG, JPEG Converter, JPEG to PDF, JPEG to Word, JPEG to PPT, JPEG to Image
 ---
 

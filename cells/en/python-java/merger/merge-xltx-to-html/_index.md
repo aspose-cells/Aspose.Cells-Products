@@ -1,7 +1,7 @@
 ---
 title: Merge XLTX to HTML via Python 
 url: /python-java/merger/merge-xltx-to-html/ 
-description: Merge XLTX to HTML via Python online for free. Merge XLTX to HTML in Python. Combine XLTX to HTML using Python.
+description: Free Online XLTX Merger. Merge XLTX to HTML via Python online for free. Merge, Concatenate or Combine XLTX to HTML Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

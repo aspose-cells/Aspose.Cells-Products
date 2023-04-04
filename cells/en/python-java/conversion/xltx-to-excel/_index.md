@@ -1,6 +1,6 @@
 ---
-title: Convert XLTX to EXCEL via Python
-description: Convert XLTX to EXCEL online for free. Convert XLTX to EXCEL. Convert XLTX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLTX to EXCEL Python via Python
+description: Free Online XLTX Converter. Convert XLTX to EXCEL Online for Free. Convert XLTX to EXCEL in Python code. Convert XLTX to EXCEL using Python.
 keywords: Convert XLTX, XLTX Converter, XLTX to PDF, XLTX to Word, XLTX to PPT, XLTX to Image
 ---
 

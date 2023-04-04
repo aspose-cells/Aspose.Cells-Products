@@ -1,7 +1,7 @@
 ---
 title: Merge JSON to MHT via Python 
 url: /python-net/merger/merge-json-to-mht/ 
-description: Merge JSON to MHT via Python online for free. Merge JSON to MHT in Python. Combine JSON to MHT using Python.
+description: Free Online JSON Merger. Merge JSON to MHT via Python online for free. Merge, Concatenate or Combine JSON to MHT Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,6 +1,6 @@
 ---
-title: Convert TXT to XPS via Python
-description: Convert TXT to XPS online for free. Convert TXT to XPS. Convert TXT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert TXT to XPS Python via Python
+description: Free Online TXT Converter. Convert TXT to XPS Online for Free. Convert TXT to XPS in Python code. Convert TXT to XPS using Python.
 keywords: Convert TXT, TXT Converter, TXT to PDF, TXT to Word, TXT to PPT, TXT to Image
 ---
 

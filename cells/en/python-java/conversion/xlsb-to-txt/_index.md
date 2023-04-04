@@ -1,6 +1,6 @@
 ---
-title: Convert XLSB to TXT via Python
-description: Convert XLSB to TXT online for free. Convert XLSB to TXT. Convert XLSB to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLSB to TXT Python via Python
+description: Free Online XLSB Converter. Convert XLSB to TXT Online for Free. Convert XLSB to TXT in Python code. Convert XLSB to TXT using Python.
 keywords: Convert XLSB, XLSB Converter, XLSB to PDF, XLSB to Word, XLSB to PPT, XLSB to Image
 ---
 

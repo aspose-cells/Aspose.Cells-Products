@@ -1,6 +1,6 @@
 ---
-title: Convert JSON to BMP via Python
-description: Convert JSON to BMP online for free. Convert JSON to BMP. Convert JSON to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert JSON to BMP Python via Python
+description: Free Online JSON Converter. Convert JSON to BMP Online for Free. Convert JSON to BMP in Python code. Convert JSON to BMP using Python.
 keywords: Convert JSON, JSON Converter, JSON to PDF, JSON to Word, JSON to PPT, JSON to Image
 ---
 

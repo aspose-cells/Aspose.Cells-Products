@@ -1,7 +1,7 @@
 ---
 title: Merge CSV to ODS via C++ 
 url: /cpp/merger/merge-csv-to-ods/ 
-description: Merge CSV to ODS via C++ online for free. Merge CSV to ODS in C++. Combine CSV to ODS using C++.
+description: Free Online CSV Merger. Merge CSV to ODS via C++ online for free. Merge, Concatenate or Combine CSV to ODS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

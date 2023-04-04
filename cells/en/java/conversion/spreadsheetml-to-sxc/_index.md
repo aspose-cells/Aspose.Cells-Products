@@ -1,6 +1,6 @@
 ---
-title: Convert SPREADSHEETML to SXC via Java 
-description: Convert SPREADSHEETML to SXC online for free. Convert SPREADSHEETML to SXC. Convert SPREADSHEETML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert SPREADSHEETML to SXC Java 
+description: Free Online SPREADSHEETML Converter. Convert SPREADSHEETML to SXC Online for Free. Convert SPREADSHEETML to SXC in Java code. Convert SPREADSHEETML to SXC using Java.
 keywords: Convert SPREADSHEETML, SPREADSHEETML Converter, SPREADSHEETML to PDF, SPREADSHEETML to Word, SPREADSHEETML to PPT, SPREADSHEETML to Image
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Convert XLT to SQL via Python
-description: Convert XLT to SQL online for free. Convert XLT to SQL. Convert XLT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLT to SQL Python via Python
+description: Free Online XLT Converter. Convert XLT to SQL Online for Free. Convert XLT to SQL in Python code. Convert XLT to SQL using Python.
 keywords: Convert XLT, XLT Converter, XLT to PDF, XLT to Word, XLT to PPT, XLT to Image
 ---
 

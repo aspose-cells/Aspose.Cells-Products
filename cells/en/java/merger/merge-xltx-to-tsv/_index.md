@@ -1,7 +1,7 @@
 ---
 title: Merge XLTX to TSV via Java 
 url: /java/merger/merge-xltx-to-tsv/ 
-description: Merge XLTX to TSV via Java online for free. Merge XLTX to TSV in Java. Combine XLTX to TSV using Java based desktop or web application.
+description: Free Online XLTX Merger. Merge XLTX to TSV via Java online for free. Merge, Concatenate or Combine XLTX to TSV Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

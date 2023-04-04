@@ -1,7 +1,7 @@
 ---
 title: Merge XLS to NUMBERS via Python 
 url: /python-java/merger/merge-xls-to-numbers/ 
-description: Merge XLS to NUMBERS via Python online for free. Merge XLS to NUMBERS in Python. Combine XLS to NUMBERS using Python.
+description: Free Online XLS Merger. Merge XLS to NUMBERS via Python online for free. Merge, Concatenate or Combine XLS to NUMBERS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

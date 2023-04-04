@@ -1,7 +1,7 @@
 ---
 title: Merge XLT to HTML via C++ 
 url: /cpp/merger/merge-xlt-to-html/ 
-description: Merge XLT to HTML via C++ online for free. Merge XLT to HTML in C++. Combine XLT to HTML using C++.
+description: Free Online XLT Merger. Merge XLT to HTML via C++ online for free. Merge, Concatenate or Combine XLT to HTML Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

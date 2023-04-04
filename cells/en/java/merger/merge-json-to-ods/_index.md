@@ -1,7 +1,7 @@
 ---
 title: Merge JSON to ODS via Java 
 url: /java/merger/merge-json-to-ods/ 
-description: Merge JSON to ODS via Java online for free. Merge JSON to ODS in Java. Combine JSON to ODS using Java based desktop or web application.
+description: Free Online JSON Merger. Merge JSON to ODS via Java online for free. Merge, Concatenate or Combine JSON to ODS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

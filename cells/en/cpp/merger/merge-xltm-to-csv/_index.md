@@ -1,7 +1,7 @@
 ---
 title: Merge XLTM to CSV via C++ 
 url: /cpp/merger/merge-xltm-to-csv/ 
-description: Merge XLTM to CSV via C++ online for free. Merge XLTM to CSV in C++. Combine XLTM to CSV using C++.
+description: Free Online XLTM Merger. Merge XLTM to CSV via C++ online for free. Merge, Concatenate or Combine XLTM to CSV Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

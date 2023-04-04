@@ -1,7 +1,7 @@
 ---
 title: Merge FODS to TSV via Java 
 url: /java/merger/merge-fods-to-tsv/ 
-description: Merge FODS to TSV via Java online for free. Merge FODS to TSV in Java. Combine FODS to TSV using Java based desktop or web application.
+description: Free Online FODS Merger. Merge FODS to TSV via Java online for free. Merge, Concatenate or Combine FODS to TSV Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

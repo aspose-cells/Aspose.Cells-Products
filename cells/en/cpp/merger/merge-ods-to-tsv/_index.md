@@ -1,7 +1,7 @@
 ---
 title: Merge ODS to TSV via C++ 
 url: /cpp/merger/merge-ods-to-tsv/ 
-description: Merge ODS to TSV via C++ online for free. Merge ODS to TSV in C++. Combine ODS to TSV using C++.
+description: Free Online ODS Merger. Merge ODS to TSV via C++ online for free. Merge, Concatenate or Combine ODS to TSV Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

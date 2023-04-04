@@ -1,7 +1,7 @@
 ---
 title: Merge NUMBERS to ODS via C++ 
 url: /cpp/merger/merge-numbers-to-ods/ 
-description: Merge NUMBERS to ODS via C++ online for free. Merge NUMBERS to ODS in C++. Combine NUMBERS to ODS using C++.
+description: Free Online NUMBERS Merger. Merge NUMBERS to ODS via C++ online for free. Merge, Concatenate or Combine NUMBERS to ODS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

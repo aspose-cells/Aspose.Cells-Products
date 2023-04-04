@@ -1,6 +1,6 @@
 ---
-title: Convert JPG to XLTM via C++
-description: Convert JPG to XLTM online for free. Convert JPG to XLTM. Convert JPG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert JPG to XLTM C++
+description: Free Online JPG Converter. Convert JPG to XLTM Online for Free. Convert JPG to XLTM in C++ code. Convert JPG to XLTM using C++.
 keywords: Convert JPG, JPG Converter, JPG to PDF, JPG to Word, JPG to PPT, JPG to Image
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Merge NUMBERS to XLSB via C# 
 url: /net/merger/merge-numbers-to-xlsb/ 
-description: Merge NUMBERS to XLSB via .NET online for free. Merge NUMBERS to XLSB in .NET. Combine NUMBERS to XLSB using VB.NET, Asp.NET or any .NET based application.
+description: Free Online NUMBERS Merger. Merge NUMBERS to XLSB via .NET online for free. Merge, Concatenate or Combine NUMBERS to XLSB Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

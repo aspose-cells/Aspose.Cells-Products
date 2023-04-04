@@ -1,7 +1,7 @@
 ---
 title: Merge NUMBERS to NUMBERS via C# 
 url: /net/merger/merge-numbers-to-numbers/ 
-description: Merge NUMBERS to NUMBERS via .NET online for free. Merge NUMBERS to NUMBERS in .NET. Combine NUMBERS to NUMBERS using VB.NET, Asp.NET or any .NET based application.
+description: Free Online NUMBERS Merger. Merge NUMBERS to NUMBERS via .NET online for free. Merge, Concatenate or Combine NUMBERS to NUMBERS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

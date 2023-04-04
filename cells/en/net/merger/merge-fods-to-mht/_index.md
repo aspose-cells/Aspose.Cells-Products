@@ -1,7 +1,7 @@
 ---
 title: Merge FODS to MHT via C# 
 url: /net/merger/merge-fods-to-mht/ 
-description: Merge FODS to MHT via .NET online for free. Merge FODS to MHT in .NET. Combine FODS to MHT using VB.NET, Asp.NET or any .NET based application.
+description: Free Online FODS Merger. Merge FODS to MHT via .NET online for free. Merge, Concatenate or Combine FODS to MHT Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

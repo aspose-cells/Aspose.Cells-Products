@@ -1,6 +1,6 @@
 ---
-title: Convert XLTM to BMP via Python
-description: Convert XLTM to BMP online for free. Convert XLTM to BMP. Convert XLTM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLTM to BMP Python via Python
+description: Free Online XLTM Converter. Convert XLTM to BMP Online for Free. Convert XLTM to BMP in Python code. Convert XLTM to BMP using Python.
 keywords: Convert XLTM, XLTM Converter, XLTM to PDF, XLTM to Word, XLTM to PPT, XLTM to Image
 ---
 

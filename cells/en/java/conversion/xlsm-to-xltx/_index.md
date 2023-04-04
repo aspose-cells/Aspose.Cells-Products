@@ -1,6 +1,6 @@
 ---
-title: Convert XLSM to XLTX via Java 
-description: Convert XLSM to XLTX online for free. Convert XLSM to XLTX. Convert XLSM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLSM to XLTX Java 
+description: Free Online XLSM Converter. Convert XLSM to XLTX Online for Free. Convert XLSM to XLTX in Java code. Convert XLSM to XLTX using Java.
 keywords: Convert XLSM, XLSM Converter, XLSM to PDF, XLSM to Word, XLSM to PPT, XLSM to Image
 ---
 

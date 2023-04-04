@@ -1,6 +1,6 @@
 ---
-title: Convert XLTM to XLT via C++
-description: Convert XLTM to XLT online for free. Convert XLTM to XLT. Convert XLTM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLTM to XLT C++
+description: Free Online XLTM Converter. Convert XLTM to XLT Online for Free. Convert XLTM to XLT in C++ code. Convert XLTM to XLT using C++.
 keywords: Convert XLTM, XLTM Converter, XLTM to PDF, XLTM to Word, XLTM to PPT, XLTM to Image
 ---
 

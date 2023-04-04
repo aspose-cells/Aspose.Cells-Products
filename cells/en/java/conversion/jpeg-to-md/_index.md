@@ -1,6 +1,6 @@
 ---
-title: Convert JPEG to MD via Java 
-description: Convert JPEG to MD online for free. Convert JPEG to MD. Convert JPEG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert JPEG to MD Java 
+description: Free Online JPEG Converter. Convert JPEG to MD Online for Free. Convert JPEG to MD in Java code. Convert JPEG to MD using Java.
 keywords: Convert JPEG, JPEG Converter, JPEG to PDF, JPEG to Word, JPEG to PPT, JPEG to Image
 ---
 

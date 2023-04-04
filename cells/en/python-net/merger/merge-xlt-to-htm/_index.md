@@ -1,7 +1,7 @@
 ---
 title: Merge XLT to HTM via Python 
 url: /python-net/merger/merge-xlt-to-htm/ 
-description: Merge XLT to HTM via Python online for free. Merge XLT to HTM in Python. Combine XLT to HTM using Python.
+description: Free Online XLT Merger. Merge XLT to HTM via Python online for free. Merge, Concatenate or Combine XLT to HTM Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

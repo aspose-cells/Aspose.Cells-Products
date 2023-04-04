@@ -1,7 +1,7 @@
 ---
 title: Merge XLTM to XLSM via Python 
 url: /python-net/merger/merge-xltm-to-xlsm/ 
-description: Merge XLTM to XLSM via Python online for free. Merge XLTM to XLSM in Python. Combine XLTM to XLSM using Python.
+description: Free Online XLTM Merger. Merge XLTM to XLSM via Python online for free. Merge, Concatenate or Combine XLTM to XLSM Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

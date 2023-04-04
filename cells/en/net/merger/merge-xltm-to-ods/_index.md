@@ -1,7 +1,7 @@
 ---
 title: Merge XLTM to ODS via C# 
 url: /net/merger/merge-xltm-to-ods/ 
-description: Merge XLTM to ODS via .NET online for free. Merge XLTM to ODS in .NET. Combine XLTM to ODS using VB.NET, Asp.NET or any .NET based application.
+description: Free Online XLTM Merger. Merge XLTM to ODS via .NET online for free. Merge, Concatenate or Combine XLTM to ODS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

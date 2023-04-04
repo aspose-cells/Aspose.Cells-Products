@@ -1,7 +1,7 @@
 ---
 title: Merge MHTML to ODS via C# 
 url: /net/merger/merge-mhtml-to-ods/ 
-description: Merge MHTML to ODS via .NET online for free. Merge MHTML to ODS in .NET. Combine MHTML to ODS using VB.NET, Asp.NET or any .NET based application.
+description: Free Online MHTML Merger. Merge MHTML to ODS via .NET online for free. Merge, Concatenate or Combine MHTML to ODS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

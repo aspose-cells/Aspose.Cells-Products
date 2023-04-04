@@ -1,6 +1,6 @@
 ---
-title: Convert JPG to XLSX via Python
-description: Convert JPG to XLSX online for free. Convert JPG to XLSX. Convert JPG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert JPG to XLSX Python via Python
+description: Free Online JPG Converter. Convert JPG to XLSX Online for Free. Convert JPG to XLSX in Python code. Convert JPG to XLSX using Python.
 keywords: Convert JPG, JPG Converter, JPG to PDF, JPG to Word, JPG to PPT, JPG to Image
 ---
 

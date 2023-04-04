@@ -1,7 +1,7 @@
 ---
 title: Merge JSON to MHTML via Python 
 url: /python-net/merger/merge-json-to-mhtml/ 
-description: Merge JSON to MHTML via Python online for free. Merge JSON to MHTML in Python. Combine JSON to MHTML using Python.
+description: Free Online JSON Merger. Merge JSON to MHTML via Python online for free. Merge, Concatenate or Combine JSON to MHTML Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

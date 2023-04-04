@@ -1,6 +1,6 @@
 ---
-title: Convert JSON to MD via Python
-description: Convert JSON to MD online for free. Convert JSON to MD. Convert JSON to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert JSON to MD Python via Python
+description: Free Online JSON Converter. Convert JSON to MD Online for Free. Convert JSON to MD in Python code. Convert JSON to MD using Python.
 keywords: Convert JSON, JSON Converter, JSON to PDF, JSON to Word, JSON to PPT, JSON to Image
 ---
 

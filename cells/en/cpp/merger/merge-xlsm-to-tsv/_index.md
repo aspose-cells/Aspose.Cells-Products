@@ -1,7 +1,7 @@
 ---
 title: Merge XLSM to TSV via C++ 
 url: /cpp/merger/merge-xlsm-to-tsv/ 
-description: Merge XLSM to TSV via C++ online for free. Merge XLSM to TSV in C++. Combine XLSM to TSV using C++.
+description: Free Online XLSM Merger. Merge XLSM to TSV via C++ online for free. Merge, Concatenate or Combine XLSM to TSV Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

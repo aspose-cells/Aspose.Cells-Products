@@ -1,6 +1,6 @@
 ---
-title: Convert JPG to WORD via Java 
-description: Convert JPG to WORD online for free. Convert JPG to WORD. Convert JPG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert JPG to WORD Java 
+description: Free Online JPG Converter. Convert JPG to WORD Online for Free. Convert JPG to WORD in Java code. Convert JPG to WORD using Java.
 keywords: Convert JPG, JPG Converter, JPG to PDF, JPG to Word, JPG to PPT, JPG to Image
 ---
 

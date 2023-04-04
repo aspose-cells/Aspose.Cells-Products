@@ -1,7 +1,7 @@
 ---
 title: Merge ODS to NUMBERS via C# 
 url: /net/merger/merge-ods-to-numbers/ 
-description: Merge ODS to NUMBERS via .NET online for free. Merge ODS to NUMBERS in .NET. Combine ODS to NUMBERS using VB.NET, Asp.NET or any .NET based application.
+description: Free Online ODS Merger. Merge ODS to NUMBERS via .NET online for free. Merge, Concatenate or Combine ODS to NUMBERS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

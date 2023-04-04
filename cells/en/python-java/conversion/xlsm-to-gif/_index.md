@@ -1,6 +1,6 @@
 ---
-title: Convert XLSM to GIF via Python
-description: Convert XLSM to GIF online for free. Convert XLSM to GIF. Convert XLSM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLSM to GIF Python via Python
+description: Free Online XLSM Converter. Convert XLSM to GIF Online for Free. Convert XLSM to GIF in Python code. Convert XLSM to GIF using Python.
 keywords: Convert XLSM, XLSM Converter, XLSM to PDF, XLSM to Word, XLSM to PPT, XLSM to Image
 ---
 

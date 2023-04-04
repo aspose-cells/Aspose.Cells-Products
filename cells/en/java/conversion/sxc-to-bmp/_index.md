@@ -1,6 +1,6 @@
 ---
-title: Convert SXC to BMP via Java 
-description: Convert SXC to BMP online for free. Convert SXC to BMP. Convert SXC to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert SXC to BMP Java 
+description: Free Online SXC Converter. Convert SXC to BMP Online for Free. Convert SXC to BMP in Java code. Convert SXC to BMP using Java.
 keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC to Image
 ---
 

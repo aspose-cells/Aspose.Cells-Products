@@ -1,6 +1,6 @@
 ---
-title: Convert XLTX to SPREADSHEETML via Python
-description: Convert XLTX to SPREADSHEETML online for free. Convert XLTX to SPREADSHEETML. Convert XLTX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLTX to SPREADSHEETML Python via Python
+description: Free Online XLTX Converter. Convert XLTX to SPREADSHEETML Online for Free. Convert XLTX to SPREADSHEETML in Python code. Convert XLTX to SPREADSHEETML using Python.
 keywords: Convert XLTX, XLTX Converter, XLTX to PDF, XLTX to Word, XLTX to PPT, XLTX to Image
 ---
 

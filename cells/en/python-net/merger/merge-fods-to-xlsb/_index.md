@@ -1,7 +1,7 @@
 ---
 title: Merge FODS to XLSB via Python 
 url: /python-net/merger/merge-fods-to-xlsb/ 
-description: Merge FODS to XLSB via Python online for free. Merge FODS to XLSB in Python. Combine FODS to XLSB using Python.
+description: Free Online FODS Merger. Merge FODS to XLSB via Python online for free. Merge, Concatenate or Combine FODS to XLSB Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

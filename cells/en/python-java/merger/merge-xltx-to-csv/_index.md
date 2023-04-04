@@ -1,7 +1,7 @@
 ---
 title: Merge XLTX to CSV via Python 
 url: /python-java/merger/merge-xltx-to-csv/ 
-description: Merge XLTX to CSV via Python online for free. Merge XLTX to CSV in Python. Combine XLTX to CSV using Python.
+description: Free Online XLTX Merger. Merge XLTX to CSV via Python online for free. Merge, Concatenate or Combine XLTX to CSV Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

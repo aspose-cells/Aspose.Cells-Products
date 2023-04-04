@@ -1,7 +1,7 @@
 ---
 title: Merge HTM to XLSB via Java 
 url: /java/merger/merge-htm-to-xlsb/ 
-description: Merge HTM to XLSB via Java online for free. Merge HTM to XLSB in Java. Combine HTM to XLSB using Java based desktop or web application.
+description: Free Online HTM Merger. Merge HTM to XLSB via Java online for free. Merge, Concatenate or Combine HTM to XLSB Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

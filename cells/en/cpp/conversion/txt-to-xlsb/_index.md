@@ -1,6 +1,6 @@
 ---
-title: Convert TXT to XLSB via C++
-description: Convert TXT to XLSB online for free. Convert TXT to XLSB. Convert TXT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert TXT to XLSB C++
+description: Free Online TXT Converter. Convert TXT to XLSB Online for Free. Convert TXT to XLSB in C++ code. Convert TXT to XLSB using C++.
 keywords: Convert TXT, TXT Converter, TXT to PDF, TXT to Word, TXT to PPT, TXT to Image
 ---
 

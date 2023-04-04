@@ -1,6 +1,6 @@
 ---
-title: Convert FODS to SQL via Java 
-description: Convert FODS to SQL online for free. Convert FODS to SQL. Convert FODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert FODS to SQL Java 
+description: Free Online FODS Converter. Convert FODS to SQL Online for Free. Convert FODS to SQL in Java code. Convert FODS to SQL using Java.
 keywords: Convert FODS, FODS Converter, FODS to PDF, FODS to Word, FODS to PPT, FODS to Image
 ---
 

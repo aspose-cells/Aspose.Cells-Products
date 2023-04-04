@@ -1,7 +1,7 @@
 ---
 title: Merge CSV to MHTML via Python 
 url: /python-net/merger/merge-csv-to-mhtml/ 
-description: Merge CSV to MHTML via Python online for free. Merge CSV to MHTML in Python. Combine CSV to MHTML using Python.
+description: Free Online CSV Merger. Merge CSV to MHTML via Python online for free. Merge, Concatenate or Combine CSV to MHTML Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

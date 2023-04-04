@@ -1,6 +1,6 @@
 ---
-title: Convert FODS to TABDELIMITED via Java 
-description: Convert FODS to TABDELIMITED online for free. Convert FODS to TABDELIMITED. Convert FODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert FODS to TABDELIMITED Java 
+description: Free Online FODS Converter. Convert FODS to TABDELIMITED Online for Free. Convert FODS to TABDELIMITED in Java code. Convert FODS to TABDELIMITED using Java.
 keywords: Convert FODS, FODS Converter, FODS to PDF, FODS to Word, FODS to PPT, FODS to Image
 ---
 

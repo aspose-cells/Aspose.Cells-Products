@@ -1,6 +1,6 @@
 ---
-title: Convert OTS to DOCX via C++
-description: Convert OTS to DOCX online for free. Convert OTS to DOCX. Convert OTS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert OTS to DOCX C++
+description: Free Online OTS Converter. Convert OTS to DOCX Online for Free. Convert OTS to DOCX in C++ code. Convert OTS to DOCX using C++.
 keywords: Convert OTS, OTS Converter, OTS to PDF, OTS to Word, OTS to PPT, OTS to Image
 ---
 

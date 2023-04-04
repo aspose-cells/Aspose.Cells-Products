@@ -1,6 +1,6 @@
 ---
-title: Convert SXC to ETT via Python
-description: Convert SXC to ETT online for free. Convert SXC to ETT. Convert SXC to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert SXC to ETT Python via Python
+description: Free Online SXC Converter. Convert SXC to ETT Online for Free. Convert SXC to ETT in Python code. Convert SXC to ETT using Python.
 keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC to Image
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Convert MHTML to GIF via Python
-description: Convert MHTML to GIF online for free. Convert MHTML to GIF. Convert MHTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert MHTML to GIF Python via Python
+description: Free Online MHTML Converter. Convert MHTML to GIF Online for Free. Convert MHTML to GIF in Python code. Convert MHTML to GIF using Python.
 keywords: Convert MHTML, MHTML Converter, MHTML to PDF, MHTML to Word, MHTML to PPT, MHTML to Image
 ---
 

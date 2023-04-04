@@ -1,6 +1,6 @@
 ---
-title: Convert XLS to JSON via Java 
-description: Convert XLS to JSON online for free. Convert XLS to JSON. Convert XLS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLS to JSON Java 
+description: Free Online XLS Converter. Convert XLS to JSON Online for Free. Convert XLS to JSON in Java code. Convert XLS to JSON using Java.
 keywords: Convert XLS, XLS Converter, XLS to PDF, XLS to Word, XLS to PPT, XLS to Image
 ---
 

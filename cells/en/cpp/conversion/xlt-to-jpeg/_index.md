@@ -1,6 +1,6 @@
 ---
-title: Convert XLT to JPEG via C++
-description: Convert XLT to JPEG online for free. Convert XLT to JPEG. Convert XLT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLT to JPEG C++
+description: Free Online XLT Converter. Convert XLT to JPEG Online for Free. Convert XLT to JPEG in C++ code. Convert XLT to JPEG using C++.
 keywords: Convert XLT, XLT Converter, XLT to PDF, XLT to Word, XLT to PPT, XLT to Image
 ---
 

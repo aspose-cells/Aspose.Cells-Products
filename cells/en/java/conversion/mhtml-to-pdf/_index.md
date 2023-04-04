@@ -1,6 +1,6 @@
 ---
-title: Convert MHTML to PDF via Java 
-description: Convert MHTML to PDF online for free. Convert MHTML to PDF. Convert MHTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert MHTML to PDF Java 
+description: Free Online MHTML Converter. Convert MHTML to PDF Online for Free. Convert MHTML to PDF in Java code. Convert MHTML to PDF using Java.
 keywords: Convert MHTML, MHTML Converter, MHTML to PDF, MHTML to Word, MHTML to PPT, MHTML to Image
 ---
 

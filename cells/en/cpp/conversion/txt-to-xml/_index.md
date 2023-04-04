@@ -1,6 +1,6 @@
 ---
-title: Convert TXT to XML via C++
-description: Convert TXT to XML online for free. Convert TXT to XML. Convert TXT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert TXT to XML C++
+description: Free Online TXT Converter. Convert TXT to XML Online for Free. Convert TXT to XML in C++ code. Convert TXT to XML using C++.
 keywords: Convert TXT, TXT Converter, TXT to PDF, TXT to Word, TXT to PPT, TXT to Image
 ---
 

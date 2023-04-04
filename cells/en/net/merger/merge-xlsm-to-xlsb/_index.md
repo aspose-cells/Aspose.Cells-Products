@@ -1,7 +1,7 @@
 ---
 title: Merge XLSM to XLSB via C# 
 url: /net/merger/merge-xlsm-to-xlsb/ 
-description: Merge XLSM to XLSB via .NET online for free. Merge XLSM to XLSB in .NET. Combine XLSM to XLSB using VB.NET, Asp.NET or any .NET based application.
+description: Free Online XLSM Merger. Merge XLSM to XLSB via .NET online for free. Merge, Concatenate or Combine XLSM to XLSB Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

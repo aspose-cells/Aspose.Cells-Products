@@ -1,6 +1,6 @@
 ---
-title: Convert TXT to XLS via Python
-description: Convert TXT to XLS online for free. Convert TXT to XLS. Convert TXT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert TXT to XLS Python via Python
+description: Free Online TXT Converter. Convert TXT to XLS Online for Free. Convert TXT to XLS in Python code. Convert TXT to XLS using Python.
 keywords: Convert TXT, TXT Converter, TXT to PDF, TXT to Word, TXT to PPT, TXT to Image
 ---
 

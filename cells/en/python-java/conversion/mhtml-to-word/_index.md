@@ -1,6 +1,6 @@
 ---
-title: Convert MHTML to WORD via Python
-description: Convert MHTML to WORD online for free. Convert MHTML to WORD. Convert MHTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert MHTML to WORD Python via Python
+description: Free Online MHTML Converter. Convert MHTML to WORD Online for Free. Convert MHTML to WORD in Python code. Convert MHTML to WORD using Python.
 keywords: Convert MHTML, MHTML Converter, MHTML to PDF, MHTML to Word, MHTML to PPT, MHTML to Image
 ---
 

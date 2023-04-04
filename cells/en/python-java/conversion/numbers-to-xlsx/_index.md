@@ -1,6 +1,6 @@
 ---
-title: Convert NUMBERS to XLSX via Python
-description: Convert NUMBERS to XLSX online for free. Convert NUMBERS to XLSX. Convert NUMBERS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert NUMBERS to XLSX Python via Python
+description: Free Online NUMBERS Converter. Convert NUMBERS to XLSX Online for Free. Convert NUMBERS to XLSX in Python code. Convert NUMBERS to XLSX using Python.
 keywords: Convert NUMBERS, NUMBERS Converter, NUMBERS to PDF, NUMBERS to Word, NUMBERS to PPT, NUMBERS to Image
 ---
 

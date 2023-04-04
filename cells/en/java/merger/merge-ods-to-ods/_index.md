@@ -1,7 +1,7 @@
 ---
 title: Merge ODS to ODS via Java 
 url: /java/merger/merge-ods-to-ods/ 
-description: Merge ODS to ODS via Java online for free. Merge ODS to ODS in Java. Combine ODS to ODS using Java based desktop or web application.
+description: Free Online ODS Merger. Merge ODS to ODS via Java online for free. Merge, Concatenate or Combine ODS to ODS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

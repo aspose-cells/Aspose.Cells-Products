@@ -1,6 +1,6 @@
 ---
-title: Convert OTS to BMP via Java 
-description: Convert OTS to BMP online for free. Convert OTS to BMP. Convert OTS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert OTS to BMP Java 
+description: Free Online OTS Converter. Convert OTS to BMP Online for Free. Convert OTS to BMP in Java code. Convert OTS to BMP using Java.
 keywords: Convert OTS, OTS Converter, OTS to PDF, OTS to Word, OTS to PPT, OTS to Image
 ---
 

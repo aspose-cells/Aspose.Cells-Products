@@ -1,6 +1,6 @@
 ---
-title: Convert SXC to DIF via Python
-description: Convert SXC to DIF online for free. Convert SXC to DIF. Convert SXC to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert SXC to DIF Python via Python
+description: Free Online SXC Converter. Convert SXC to DIF Online for Free. Convert SXC to DIF in Python code. Convert SXC to DIF using Python.
 keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC to Image
 ---
 

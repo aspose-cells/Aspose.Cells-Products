@@ -1,6 +1,6 @@
 ---
-title: Convert TXT to MHTML via Java 
-description: Convert TXT to MHTML online for free. Convert TXT to MHTML. Convert TXT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert TXT to MHTML Java 
+description: Free Online TXT Converter. Convert TXT to MHTML Online for Free. Convert TXT to MHTML in Java code. Convert TXT to MHTML using Java.
 keywords: Convert TXT, TXT Converter, TXT to PDF, TXT to Word, TXT to PPT, TXT to Image
 ---
 

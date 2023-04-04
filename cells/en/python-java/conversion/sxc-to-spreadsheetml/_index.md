@@ -1,6 +1,6 @@
 ---
-title: Convert SXC to SPREADSHEETML via Python
-description: Convert SXC to SPREADSHEETML online for free. Convert SXC to SPREADSHEETML. Convert SXC to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert SXC to SPREADSHEETML Python via Python
+description: Free Online SXC Converter. Convert SXC to SPREADSHEETML Online for Free. Convert SXC to SPREADSHEETML in Python code. Convert SXC to SPREADSHEETML using Python.
 keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC to Image
 ---
 

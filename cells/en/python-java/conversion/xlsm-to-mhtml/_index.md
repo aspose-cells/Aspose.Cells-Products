@@ -1,6 +1,6 @@
 ---
-title: Convert XLSM to MHTML via Python
-description: Convert XLSM to MHTML online for free. Convert XLSM to MHTML. Convert XLSM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLSM to MHTML Python via Python
+description: Free Online XLSM Converter. Convert XLSM to MHTML Online for Free. Convert XLSM to MHTML in Python code. Convert XLSM to MHTML using Python.
 keywords: Convert XLSM, XLSM Converter, XLSM to PDF, XLSM to Word, XLSM to PPT, XLSM to Image
 ---
 

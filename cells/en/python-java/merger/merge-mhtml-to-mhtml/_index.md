@@ -1,7 +1,7 @@
 ---
 title: Merge MHTML to MHTML via Python 
 url: /python-java/merger/merge-mhtml-to-mhtml/ 
-description: Merge MHTML to MHTML via Python online for free. Merge MHTML to MHTML in Python. Combine MHTML to MHTML using Python.
+description: Free Online MHTML Merger. Merge MHTML to MHTML via Python online for free. Merge, Concatenate or Combine MHTML to MHTML Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

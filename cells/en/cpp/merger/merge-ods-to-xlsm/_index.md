@@ -1,7 +1,7 @@
 ---
 title: Merge ODS to XLSM via C++ 
 url: /cpp/merger/merge-ods-to-xlsm/ 
-description: Merge ODS to XLSM via C++ online for free. Merge ODS to XLSM in C++. Combine ODS to XLSM using C++.
+description: Free Online ODS Merger. Merge ODS to XLSM via C++ online for free. Merge, Concatenate or Combine ODS to XLSM Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Merge CSV to XLSB via C# 
 url: /net/merger/merge-csv-to-xlsb/ 
-description: Merge CSV to XLSB via .NET online for free. Merge CSV to XLSB in .NET. Combine CSV to XLSB using VB.NET, Asp.NET or any .NET based application.
+description: Free Online CSV Merger. Merge CSV to XLSB via .NET online for free. Merge, Concatenate or Combine CSV to XLSB Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

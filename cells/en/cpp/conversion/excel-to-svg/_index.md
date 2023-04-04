@@ -1,6 +1,6 @@
 ---
-title: Convert EXCEL to SVG via C++
-description: Convert EXCEL to SVG online for free. Convert EXCEL to SVG. Convert EXCEL to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert EXCEL to SVG C++
+description: Free Online EXCEL Converter. Convert EXCEL to SVG Online for Free. Convert EXCEL to SVG in C++ code. Convert EXCEL to SVG using C++.
 keywords: Convert EXCEL, EXCEL Converter, EXCEL to PDF, EXCEL to Word, EXCEL to PPT, EXCEL to Image
 ---
 

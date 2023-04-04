@@ -1,7 +1,7 @@
 ---
 title: Merge JSON to MHT via Java 
 url: /java/merger/merge-json-to-mht/ 
-description: Merge JSON to MHT via Java online for free. Merge JSON to MHT in Java. Combine JSON to MHT using Java based desktop or web application.
+description: Free Online JSON Merger. Merge JSON to MHT via Java online for free. Merge, Concatenate or Combine JSON to MHT Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

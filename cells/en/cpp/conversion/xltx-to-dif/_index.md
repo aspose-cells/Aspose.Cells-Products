@@ -1,6 +1,6 @@
 ---
-title: Convert XLTX to DIF via C++
-description: Convert XLTX to DIF online for free. Convert XLTX to DIF. Convert XLTX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLTX to DIF C++
+description: Free Online XLTX Converter. Convert XLTX to DIF Online for Free. Convert XLTX to DIF in C++ code. Convert XLTX to DIF using C++.
 keywords: Convert XLTX, XLTX Converter, XLTX to PDF, XLTX to Word, XLTX to PPT, XLTX to Image
 ---
 

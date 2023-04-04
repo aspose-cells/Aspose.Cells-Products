@@ -1,7 +1,7 @@
 ---
 title: Merge XLTX to XLSB via Java 
 url: /java/merger/merge-xltx-to-xlsb/ 
-description: Merge XLTX to XLSB via Java online for free. Merge XLTX to XLSB in Java. Combine XLTX to XLSB using Java based desktop or web application.
+description: Free Online XLTX Merger. Merge XLTX to XLSB via Java online for free. Merge, Concatenate or Combine XLTX to XLSB Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,6 +1,6 @@
 ---
-title: Convert JPEG to MD via C++
-description: Convert JPEG to MD online for free. Convert JPEG to MD. Convert JPEG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert JPEG to MD C++
+description: Free Online JPEG Converter. Convert JPEG to MD Online for Free. Convert JPEG to MD in C++ code. Convert JPEG to MD using C++.
 keywords: Convert JPEG, JPEG Converter, JPEG to PDF, JPEG to Word, JPEG to PPT, JPEG to Image
 ---
 

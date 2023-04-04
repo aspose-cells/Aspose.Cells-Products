@@ -1,7 +1,7 @@
 ---
 title: Merge NUMBERS to CSV via C++ 
 url: /cpp/merger/merge-numbers-to-csv/ 
-description: Merge NUMBERS to CSV via C++ online for free. Merge NUMBERS to CSV in C++. Combine NUMBERS to CSV using C++.
+description: Free Online NUMBERS Merger. Merge NUMBERS to CSV via C++ online for free. Merge, Concatenate or Combine NUMBERS to CSV Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

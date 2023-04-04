@@ -1,7 +1,7 @@
 ---
 title: Merge FODS to MHT via Python 
 url: /python-java/merger/merge-fods-to-mht/ 
-description: Merge FODS to MHT via Python online for free. Merge FODS to MHT in Python. Combine FODS to MHT using Python.
+description: Free Online FODS Merger. Merge FODS to MHT via Python online for free. Merge, Concatenate or Combine FODS to MHT Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

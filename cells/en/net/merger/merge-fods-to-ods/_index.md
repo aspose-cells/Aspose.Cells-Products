@@ -1,7 +1,7 @@
 ---
 title: Merge FODS to ODS via C# 
 url: /net/merger/merge-fods-to-ods/ 
-description: Merge FODS to ODS via .NET online for free. Merge FODS to ODS in .NET. Combine FODS to ODS using VB.NET, Asp.NET or any .NET based application.
+description: Free Online FODS Merger. Merge FODS to ODS via .NET online for free. Merge, Concatenate or Combine FODS to ODS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

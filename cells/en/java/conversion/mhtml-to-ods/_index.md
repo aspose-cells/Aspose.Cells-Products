@@ -1,6 +1,6 @@
 ---
-title: Convert MHTML to ODS via Java 
-description: Convert MHTML to ODS online for free. Convert MHTML to ODS. Convert MHTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert MHTML to ODS Java 
+description: Free Online MHTML Converter. Convert MHTML to ODS Online for Free. Convert MHTML to ODS in Java code. Convert MHTML to ODS using Java.
 keywords: Convert MHTML, MHTML Converter, MHTML to PDF, MHTML to Word, MHTML to PPT, MHTML to Image
 ---
 

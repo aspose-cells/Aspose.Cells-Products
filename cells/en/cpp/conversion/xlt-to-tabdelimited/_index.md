@@ -1,6 +1,6 @@
 ---
-title: Convert XLT to TABDELIMITED via C++
-description: Convert XLT to TABDELIMITED online for free. Convert XLT to TABDELIMITED. Convert XLT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLT to TABDELIMITED C++
+description: Free Online XLT Converter. Convert XLT to TABDELIMITED Online for Free. Convert XLT to TABDELIMITED in C++ code. Convert XLT to TABDELIMITED using C++.
 keywords: Convert XLT, XLT Converter, XLT to PDF, XLT to Word, XLT to PPT, XLT to Image
 ---
 

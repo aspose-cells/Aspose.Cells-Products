@@ -1,7 +1,7 @@
 ---
 title: Merge XLSM to TSV via Java 
 url: /java/merger/merge-xlsm-to-tsv/ 
-description: Merge XLSM to TSV via Java online for free. Merge XLSM to TSV in Java. Combine XLSM to TSV using Java based desktop or web application.
+description: Free Online XLSM Merger. Merge XLSM to TSV via Java online for free. Merge, Concatenate or Combine XLSM to TSV Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

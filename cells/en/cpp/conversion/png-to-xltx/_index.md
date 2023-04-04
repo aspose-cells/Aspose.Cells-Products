@@ -1,6 +1,6 @@
 ---
-title: Convert PNG to XLTX via C++
-description: Convert PNG to XLTX online for free. Convert PNG to XLTX. Convert PNG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert PNG to XLTX C++
+description: Free Online PNG Converter. Convert PNG to XLTX Online for Free. Convert PNG to XLTX in C++ code. Convert PNG to XLTX using C++.
 keywords: Convert PNG, PNG Converter, PNG to PDF, PNG to Word, PNG to PPT, PNG to Image
 ---
 

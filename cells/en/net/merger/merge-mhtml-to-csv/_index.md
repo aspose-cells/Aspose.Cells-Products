@@ -1,7 +1,7 @@
 ---
 title: Merge MHTML to CSV via C# 
 url: /net/merger/merge-mhtml-to-csv/ 
-description: Merge MHTML to CSV via .NET online for free. Merge MHTML to CSV in .NET. Combine MHTML to CSV using VB.NET, Asp.NET or any .NET based application.
+description: Free Online MHTML Merger. Merge MHTML to CSV via .NET online for free. Merge, Concatenate or Combine MHTML to CSV Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

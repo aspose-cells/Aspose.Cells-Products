@@ -1,7 +1,7 @@
 ---
 title: Merge JSON to CSV via C# 
 url: /net/merger/merge-json-to-csv/ 
-description: Merge JSON to CSV via .NET online for free. Merge JSON to CSV in .NET. Combine JSON to CSV using VB.NET, Asp.NET or any .NET based application.
+description: Free Online JSON Merger. Merge JSON to CSV via .NET online for free. Merge, Concatenate or Combine JSON to CSV Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

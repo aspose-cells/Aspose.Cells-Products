@@ -1,7 +1,7 @@
 ---
 title: Merge XLS to HTML via Java 
 url: /java/merger/merge-xls-to-html/ 
-description: Merge XLS to HTML via Java online for free. Merge XLS to HTML in Java. Combine XLS to HTML using Java based desktop or web application.
+description: Free Online XLS Merger. Merge XLS to HTML via Java online for free. Merge, Concatenate or Combine XLS to HTML Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

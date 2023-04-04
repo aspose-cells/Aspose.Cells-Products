@@ -1,6 +1,6 @@
 ---
-title: Convert ODS to SXC via Python
-description: Convert ODS to SXC online for free. Convert ODS to SXC. Convert ODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert ODS to SXC Python via Python
+description: Free Online ODS Converter. Convert ODS to SXC Online for Free. Convert ODS to SXC in Python code. Convert ODS to SXC using Python.
 keywords: Convert ODS, ODS Converter, ODS to PDF, ODS to Word, ODS to PPT, ODS to Image
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Merge MHTML to NUMBERS via Python 
 url: /python-java/merger/merge-mhtml-to-numbers/ 
-description: Merge MHTML to NUMBERS via Python online for free. Merge MHTML to NUMBERS in Python. Combine MHTML to NUMBERS using Python.
+description: Free Online MHTML Merger. Merge MHTML to NUMBERS via Python online for free. Merge, Concatenate or Combine MHTML to NUMBERS Online for Free.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

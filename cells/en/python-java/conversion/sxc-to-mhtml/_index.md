@@ -1,6 +1,6 @@
 ---
-title: Convert SXC to MHTML via Python
-description: Convert SXC to MHTML online for free. Convert SXC to MHTML. Convert SXC to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert SXC to MHTML Python via Python
+description: Free Online SXC Converter. Convert SXC to MHTML Online for Free. Convert SXC to MHTML in Python code. Convert SXC to MHTML using Python.
 keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC to Image
 ---
 

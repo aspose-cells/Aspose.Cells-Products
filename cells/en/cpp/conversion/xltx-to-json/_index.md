@@ -1,6 +1,6 @@
 ---
-title: Convert XLTX to JSON via C++
-description: Convert XLTX to JSON online for free. Convert XLTX to JSON. Convert XLTX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLTX to JSON C++
+description: Free Online XLTX Converter. Convert XLTX to JSON Online for Free. Convert XLTX to JSON in C++ code. Convert XLTX to JSON using C++.
 keywords: Convert XLTX, XLTX Converter, XLTX to PDF, XLTX to Word, XLTX to PPT, XLTX to Image
 ---
 

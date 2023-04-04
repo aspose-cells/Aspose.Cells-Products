@@ -1,6 +1,6 @@
 ---
-title: Convert XLSX to HTML via Java 
-description: Convert XLSX to HTML online for free. Convert XLSX to HTML. Convert XLSX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+title: Convert XLSX to HTML Java 
+description: Free Online XLSX Converter. Convert XLSX to HTML Online for Free. Convert XLSX to HTML in Java code. Convert XLSX to HTML using Java.
 keywords: Convert XLSX, XLSX Converter, XLSX to PDF, XLSX to Word, XLSX to PPT, XLSX to Image
 ---
 

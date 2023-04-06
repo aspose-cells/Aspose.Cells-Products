@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to XLT Java 
-description: Free Online EXCEL Converter. Convert EXCEL to XLT Online for Free. Convert EXCEL to XLT in Java code. Convert EXCEL to XLT using Java.
+description: Convert EXCEL to XLT Online for Free. Free Online EXCEL Converter. Convert EXCEL to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert EXCEL, EXCEL Converter, EXCEL to PDF, EXCEL to Word, EXCEL to PPT, EXCEL to Image
 ---
 

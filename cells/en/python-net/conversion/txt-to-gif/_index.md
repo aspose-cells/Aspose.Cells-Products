@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to GIF Python via Python
-description: Free Online TXT Converter. Convert TXT to GIF Online for Free. Convert TXT to GIF in Python code. Convert TXT to GIF using Python.
+description: Convert TXT to GIF Online for Free. Free Online TXT Converter. Convert TXT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert TXT, TXT Converter, TXT to PDF, TXT to Word, TXT to PPT, TXT to Image
 ---
 

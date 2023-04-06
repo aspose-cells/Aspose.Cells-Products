@@ -1,6 +1,6 @@
 ---
 title: Convert PRN to XLSX Python via Python
-description: Free Online PRN Converter. Convert PRN to XLSX Online for Free. Convert PRN to XLSX in Python code. Convert PRN to XLSX using Python.
+description: Convert PRN to XLSX Online for Free. Free Online PRN Converter. Convert PRN to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert PRN, PRN Converter, PRN to PDF, PRN to Word, PRN to PPT, PRN to Image
 ---
 

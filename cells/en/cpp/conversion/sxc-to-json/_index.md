@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to JSON C++
-description: Free Online SXC Converter. Convert SXC to JSON Online for Free. Convert SXC to JSON in C++ code. Convert SXC to JSON using C++.
+description: Convert SXC to JSON Online for Free. Free Online SXC Converter. Convert SXC to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC to Image
 ---
 

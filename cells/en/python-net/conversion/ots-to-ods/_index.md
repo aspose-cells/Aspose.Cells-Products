@@ -1,6 +1,6 @@
 ---
 title: Convert OTS to ODS Python via Python
-description: Free Online OTS Converter. Convert OTS to ODS Online for Free. Convert OTS to ODS in Python code. Convert OTS to ODS using Python.
+description: Convert OTS to ODS Online for Free. Free Online OTS Converter. Convert OTS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert OTS, OTS Converter, OTS to PDF, OTS to Word, OTS to PPT, OTS to Image
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Convert JPG to TXT C#
-description: Free Online JPG Converter. Convert JPG to TXT Online for Free. Convert JPG to TXT in C# code. Convert JPG to TXT using C#.
+description: Convert JPG to TXT Online for Free. Free Online JPG Converter. Convert JPG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert JPG, JPG Converter, JPG to PDF, JPG to Word, JPG to PPT, JPG to Image
 ---
 

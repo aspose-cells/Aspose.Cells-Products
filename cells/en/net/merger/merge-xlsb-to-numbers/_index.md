@@ -1,7 +1,7 @@
 ---
 title: Merge XLSB to NUMBERS via C# 
 url: /net/merger/merge-xlsb-to-numbers/ 
-description: Free Online XLSB Merger. Merge XLSB to NUMBERS via .NET online for free. Merge, Concatenate or Combine XLSB to NUMBERS Online for Free.
+description: Merge XLSB to NUMBERS Online for Free. Free Online XLSB Merger. Merge XLSB to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -37,7 +37,7 @@ Follow the easy steps to merge XLSB to NUMBERS. Upload your files, call Workbook
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free App to merge XLSB to NUMBERS on line" InputFormat="xlsb" InputFormat2="numbers" outformat="numbers" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Free App to merge XLSB to NUMBERS on line" InputFormat="xlsb" InputFormat2="numbers" outformat="numbers" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLSB to NUMBERS via C#" %}}
 

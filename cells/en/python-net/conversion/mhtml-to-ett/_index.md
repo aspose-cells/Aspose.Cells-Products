@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to ETT Python via Python
-description: Free Online MHTML Converter. Convert MHTML to ETT Online for Free. Convert MHTML to ETT in Python code. Convert MHTML to ETT using Python.
+description: Convert MHTML to ETT Online for Free. Free Online MHTML Converter. Convert MHTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert MHTML, MHTML Converter, MHTML to PDF, MHTML to Word, MHTML to PPT, MHTML to Image
 ---
 

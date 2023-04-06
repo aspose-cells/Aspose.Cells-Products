@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to XLS Java 
-description: Free Online ODS Converter. Convert ODS to XLS Online for Free. Convert ODS to XLS in Java code. Convert ODS to XLS using Java.
+description: Convert ODS to XLS Online for Free. Free Online ODS Converter. Convert ODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert ODS, ODS Converter, ODS to PDF, ODS to Word, ODS to PPT, ODS to Image
 ---
 

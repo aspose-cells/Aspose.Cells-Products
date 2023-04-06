@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to PDF Python via Python
-description: Free Online NUMBERS Converter. Convert NUMBERS to PDF Online for Free. Convert NUMBERS to PDF in Python code. Convert NUMBERS to PDF using Python.
+description: Convert NUMBERS to PDF Online for Free. Free Online NUMBERS Converter. Convert NUMBERS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert NUMBERS, NUMBERS Converter, NUMBERS to PDF, NUMBERS to Word, NUMBERS to PPT, NUMBERS to Image
 ---
 

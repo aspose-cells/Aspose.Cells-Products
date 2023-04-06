@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to TABDELIMITED C++
-description: Free Online MHTML Converter. Convert MHTML to TABDELIMITED Online for Free. Convert MHTML to TABDELIMITED in C++ code. Convert MHTML to TABDELIMITED using C++.
+description: Convert MHTML to TABDELIMITED Online for Free. Free Online MHTML Converter. Convert MHTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert MHTML, MHTML Converter, MHTML to PDF, MHTML to Word, MHTML to PPT, MHTML to Image
 ---
 

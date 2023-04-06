@@ -1,7 +1,7 @@
 ---
 title: Merge NUMBERS to HTML via Python 
 url: /python-java/merger/merge-numbers-to-html/ 
-description: Free Online NUMBERS Merger. Merge NUMBERS to HTML via Python online for free. Merge, Concatenate or Combine NUMBERS to HTML Online for Free.
+description: Merge NUMBERS to HTML Online for Free. Free Online NUMBERS Merger. Merge NUMBERS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to merge NUMBERS to HTML. Upload your files, call Workbook
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free App to merge NUMBERS to HTML on line" InputFormat="numbers" InputFormat2="html" outformat="html" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Free App to merge NUMBERS to HTML on line" InputFormat="numbers" InputFormat2="html" outformat="html" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge NUMBERS to HTML via Python" %}}
 

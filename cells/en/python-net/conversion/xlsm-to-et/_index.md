@@ -1,6 +1,6 @@
 ---
 title: Convert XLSM to ET Python via Python
-description: Free Online XLSM Converter. Convert XLSM to ET Online for Free. Convert XLSM to ET in Python code. Convert XLSM to ET using Python.
+description: Convert XLSM to ET Online for Free. Free Online XLSM Converter. Convert XLSM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert XLSM, XLSM Converter, XLSM to PDF, XLSM to Word, XLSM to PPT, XLSM to Image
 ---
 

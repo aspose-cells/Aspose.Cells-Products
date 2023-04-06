@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to TABDELIMITED C++
-description: Free Online NUMBERS Converter. Convert NUMBERS to TABDELIMITED Online for Free. Convert NUMBERS to TABDELIMITED in C++ code. Convert NUMBERS to TABDELIMITED using C++.
+description: Convert NUMBERS to TABDELIMITED Online for Free. Free Online NUMBERS Converter. Convert NUMBERS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert NUMBERS, NUMBERS Converter, NUMBERS to PDF, NUMBERS to Word, NUMBERS to PPT, NUMBERS to Image
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to GIF Python via Python
-description: Free Online XLT Converter. Convert XLT to GIF Online for Free. Convert XLT to GIF in Python code. Convert XLT to GIF using Python.
+description: Convert XLT to GIF Online for Free. Free Online XLT Converter. Convert XLT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert XLT, XLT Converter, XLT to PDF, XLT to Word, XLT to PPT, XLT to Image
 ---
 

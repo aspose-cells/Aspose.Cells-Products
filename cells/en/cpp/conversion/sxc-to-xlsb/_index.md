@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to XLSB C++
-description: Free Online SXC Converter. Convert SXC to XLSB Online for Free. Convert SXC to XLSB in C++ code. Convert SXC to XLSB using C++.
+description: Convert SXC to XLSB Online for Free. Free Online SXC Converter. Convert SXC to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC to Image
 ---
 

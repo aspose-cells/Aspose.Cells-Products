@@ -1,6 +1,6 @@
 ---
 title: Convert OTS to XLSX Python via Python
-description: Free Online OTS Converter. Convert OTS to XLSX Online for Free. Convert OTS to XLSX in Python code. Convert OTS to XLSX using Python.
+description: Convert OTS to XLSX Online for Free. Free Online OTS Converter. Convert OTS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert OTS, OTS Converter, OTS to PDF, OTS to Word, OTS to PPT, OTS to Image
 ---
 

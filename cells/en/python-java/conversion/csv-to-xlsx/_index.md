@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to XLSX Python via Python
-description: Free Online CSV Converter. Convert CSV to XLSX Online for Free. Convert CSV to XLSX in Python code. Convert CSV to XLSX using Python.
+description: Convert CSV to XLSX Online for Free. Free Online CSV Converter. Convert CSV to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert CSV, CSV Converter, CSV to PDF, CSV to Word, CSV to PPT, CSV to Image
 ---
 

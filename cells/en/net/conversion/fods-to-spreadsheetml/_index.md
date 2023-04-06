@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to SPREADSHEETML C#
-description: Free Online FODS Converter. Convert FODS to SPREADSHEETML Online for Free. Convert FODS to SPREADSHEETML in C# code. Convert FODS to SPREADSHEETML using C#.
+description: Convert FODS to SPREADSHEETML Online for Free. Free Online FODS Converter. Convert FODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert FODS, FODS Converter, FODS to PDF, FODS to Word, FODS to PPT, FODS to Image
 ---
 

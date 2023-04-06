@@ -1,7 +1,7 @@
 ---
 title: Merge XLT to XLS via C# 
 url: /net/merger/merge-xlt-to-xls/ 
-description: Free Online XLT Merger. Merge XLT to XLS via .NET online for free. Merge, Concatenate or Combine XLT to XLS Online for Free.
+description: Merge XLT to XLS Online for Free. Free Online XLT Merger. Merge XLT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -37,7 +37,7 @@ Follow the easy steps to merge XLT to XLS. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free App to merge XLT to XLS on line" InputFormat="xlt" InputFormat2="xls" outformat="xls" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Free App to merge XLT to XLS on line" InputFormat="xlt" InputFormat2="xls" outformat="xls" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLT to XLS via C#" %}}
 

@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to PNG C++
-description: Free Online XLSB Converter. Convert XLSB to PNG Online for Free. Convert XLSB to PNG in C++ code. Convert XLSB to PNG using C++.
+description: Convert XLSB to PNG Online for Free. Free Online XLSB Converter. Convert XLSB to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert XLSB, XLSB Converter, XLSB to PDF, XLSB to Word, XLSB to PPT, XLSB to Image
 ---
 

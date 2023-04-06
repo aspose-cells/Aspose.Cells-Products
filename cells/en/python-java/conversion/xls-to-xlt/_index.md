@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to XLT Python via Python
-description: Free Online XLS Converter. Convert XLS to XLT Online for Free. Convert XLS to XLT in Python code. Convert XLS to XLT using Python.
+description: Convert XLS to XLT Online for Free. Free Online XLS Converter. Convert XLS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert XLS, XLS Converter, XLS to PDF, XLS to Word, XLS to PPT, XLS to Image
 ---
 

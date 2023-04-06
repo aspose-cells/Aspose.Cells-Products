@@ -1,7 +1,7 @@
 ---
 title: Merge TSV to HTM via Python 
 url: /python-java/merger/merge-tsv-to-htm/ 
-description: Free Online TSV Merger. Merge TSV to HTM via Python online for free. Merge, Concatenate or Combine TSV to HTM Online for Free.
+description: Merge TSV to HTM Online for Free. Free Online TSV Merger. Merge TSV to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to merge TSV to HTM. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free App to merge TSV to HTM on line" InputFormat="tsv" InputFormat2="htm" outformat="htm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Free App to merge TSV to HTM on line" InputFormat="tsv" InputFormat2="htm" outformat="htm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge TSV to HTM via Python" %}}
 

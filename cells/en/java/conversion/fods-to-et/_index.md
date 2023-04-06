@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to ET Java 
-description: Free Online FODS Converter. Convert FODS to ET Online for Free. Convert FODS to ET in Java code. Convert FODS to ET using Java.
+description: Convert FODS to ET Online for Free. Free Online FODS Converter. Convert FODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert FODS, FODS Converter, FODS to PDF, FODS to Word, FODS to PPT, FODS to Image
 ---
 

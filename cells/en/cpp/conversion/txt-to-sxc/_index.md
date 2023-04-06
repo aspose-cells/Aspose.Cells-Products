@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to SXC C++
-description: Free Online TXT Converter. Convert TXT to SXC Online for Free. Convert TXT to SXC in C++ code. Convert TXT to SXC using C++.
+description: Convert TXT to SXC Online for Free. Free Online TXT Converter. Convert TXT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert TXT, TXT Converter, TXT to PDF, TXT to Word, TXT to PPT, TXT to Image
 ---
 

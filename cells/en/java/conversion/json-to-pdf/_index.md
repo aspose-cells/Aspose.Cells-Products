@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to PDF Java 
-description: Free Online JSON Converter. Convert JSON to PDF Online for Free. Convert JSON to PDF in Java code. Convert JSON to PDF using Java.
+description: Convert JSON to PDF Online for Free. Free Online JSON Converter. Convert JSON to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert JSON, JSON Converter, JSON to PDF, JSON to Word, JSON to PPT, JSON to Image
 ---
 

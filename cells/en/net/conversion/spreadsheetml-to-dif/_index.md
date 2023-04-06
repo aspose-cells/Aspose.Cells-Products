@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to DIF C#
-description: Free Online SPREADSHEETML Converter. Convert SPREADSHEETML to DIF Online for Free. Convert SPREADSHEETML to DIF in C# code. Convert SPREADSHEETML to DIF using C#.
+description: Convert SPREADSHEETML to DIF Online for Free. Free Online SPREADSHEETML Converter. Convert SPREADSHEETML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert SPREADSHEETML, SPREADSHEETML Converter, SPREADSHEETML to PDF, SPREADSHEETML to Word, SPREADSHEETML to PPT, SPREADSHEETML to Image
 ---
 

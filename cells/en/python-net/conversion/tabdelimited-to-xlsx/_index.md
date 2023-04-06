@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to XLSX Python via Python
-description: Free Online TABDELIMITED Converter. Convert TABDELIMITED to XLSX Online for Free. Convert TABDELIMITED to XLSX in Python code. Convert TABDELIMITED to XLSX using Python.
+description: Convert TABDELIMITED to XLSX Online for Free. Free Online TABDELIMITED Converter. Convert TABDELIMITED to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert TABDELIMITED, TABDELIMITED Converter, TABDELIMITED to PDF, TABDELIMITED to Word, TABDELIMITED to PPT, TABDELIMITED to Image
 ---
 

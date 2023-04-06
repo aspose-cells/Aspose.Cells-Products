@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to TSV C#
-description: Free Online MHTML Converter. Convert MHTML to TSV Online for Free. Convert MHTML to TSV in C# code. Convert MHTML to TSV using C#.
+description: Convert MHTML to TSV Online for Free. Free Online MHTML Converter. Convert MHTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert MHTML, MHTML Converter, MHTML to PDF, MHTML to Word, MHTML to PPT, MHTML to Image
 ---
 

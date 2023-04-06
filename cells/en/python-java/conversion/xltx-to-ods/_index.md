@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to ODS Python via Python
-description: Free Online XLTX Converter. Convert XLTX to ODS Online for Free. Convert XLTX to ODS in Python code. Convert XLTX to ODS using Python.
+description: Convert XLTX to ODS Online for Free. Free Online XLTX Converter. Convert XLTX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert XLTX, XLTX Converter, XLTX to PDF, XLTX to Word, XLTX to PPT, XLTX to Image
 ---
 

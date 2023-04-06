@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to MD C++
-description: Free Online XLSB Converter. Convert XLSB to MD Online for Free. Convert XLSB to MD in C++ code. Convert XLSB to MD using C++.
+description: Convert XLSB to MD Online for Free. Free Online XLSB Converter. Convert XLSB to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert XLSB, XLSB Converter, XLSB to PDF, XLSB to Word, XLSB to PPT, XLSB to Image
 ---
 

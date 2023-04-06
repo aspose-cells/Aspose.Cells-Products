@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to SQL C#
-description: Free Online XLT Converter. Convert XLT to SQL Online for Free. Convert XLT to SQL in C# code. Convert XLT to SQL using C#.
+description: Convert XLT to SQL Online for Free. Free Online XLT Converter. Convert XLT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert XLT, XLT Converter, XLT to PDF, XLT to Word, XLT to PPT, XLT to Image
 ---
 

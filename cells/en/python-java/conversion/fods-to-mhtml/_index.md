@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to MHTML Python via Python
-description: Free Online FODS Converter. Convert FODS to MHTML Online for Free. Convert FODS to MHTML in Python code. Convert FODS to MHTML using Python.
+description: Convert FODS to MHTML Online for Free. Free Online FODS Converter. Convert FODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert FODS, FODS Converter, FODS to PDF, FODS to Word, FODS to PPT, FODS to Image
 ---
 

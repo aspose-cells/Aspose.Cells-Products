@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to XPS Python via Python
-description: Free Online NUMBERS Converter. Convert NUMBERS to XPS Online for Free. Convert NUMBERS to XPS in Python code. Convert NUMBERS to XPS using Python.
+description: Convert NUMBERS to XPS Online for Free. Free Online NUMBERS Converter. Convert NUMBERS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert NUMBERS, NUMBERS Converter, NUMBERS to PDF, NUMBERS to Word, NUMBERS to PPT, NUMBERS to Image
 ---
 

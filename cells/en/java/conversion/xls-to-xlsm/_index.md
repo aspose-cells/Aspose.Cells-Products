@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to XLSM Java 
-description: Free Online XLS Converter. Convert XLS to XLSM Online for Free. Convert XLS to XLSM in Java code. Convert XLS to XLSM using Java.
+description: Convert XLS to XLSM Online for Free. Free Online XLS Converter. Convert XLS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert XLS, XLS Converter, XLS to PDF, XLS to Word, XLS to PPT, XLS to Image
 ---
 

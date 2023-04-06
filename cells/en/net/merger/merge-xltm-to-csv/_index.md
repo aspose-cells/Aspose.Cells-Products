@@ -1,7 +1,7 @@
 ---
 title: Merge XLTM to CSV via C# 
 url: /net/merger/merge-xltm-to-csv/ 
-description: Free Online XLTM Merger. Merge XLTM to CSV via .NET online for free. Merge, Concatenate or Combine XLTM to CSV Online for Free.
+description: Merge XLTM to CSV Online for Free. Free Online XLTM Merger. Merge XLTM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -37,7 +37,7 @@ Follow the easy steps to merge XLTM to CSV. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free App to merge XLTM to CSV on line" InputFormat="xltm" InputFormat2="csv" outformat="csv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Free App to merge XLTM to CSV on line" InputFormat="xltm" InputFormat2="csv" outformat="csv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLTM to CSV via C#" %}}
 

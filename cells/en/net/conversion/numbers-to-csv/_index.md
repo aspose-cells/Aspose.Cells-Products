@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to CSV C#
-description: Free Online NUMBERS Converter. Convert NUMBERS to CSV Online for Free. Convert NUMBERS to CSV in C# code. Convert NUMBERS to CSV using C#.
+description: Convert NUMBERS to CSV Online for Free. Free Online NUMBERS Converter. Convert NUMBERS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert NUMBERS, NUMBERS Converter, NUMBERS to PDF, NUMBERS to Word, NUMBERS to PPT, NUMBERS to Image
 ---
 

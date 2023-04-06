@@ -1,7 +1,7 @@
 ---
 title: Merge XLSM to MHTML via Java 
 url: /java/merger/merge-xlsm-to-mhtml/ 
-description: Free Online XLSM Merger. Merge XLSM to MHTML via Java online for free. Merge, Concatenate or Combine XLSM to MHTML Online for Free.
+description: Merge XLSM to MHTML Online for Free. Free Online XLSM Merger. Merge XLSM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -56,7 +56,7 @@ Follow the easy steps to merge XLSM to MHTML. Upload your files, call Workbook.C
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free App to merge XLSM to MHTML on line" InputFormat="xlsm" InputFormat2="mhtml" outformat="mhtml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Free App to merge XLSM to MHTML on line" InputFormat="xlsm" InputFormat2="mhtml" outformat="mhtml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLSM to MHTML via Java" %}}
 

@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to ET Java 
-description: Free Online XLT Converter. Convert XLT to ET Online for Free. Convert XLT to ET in Java code. Convert XLT to ET using Java.
+description: Convert XLT to ET Online for Free. Free Online XLT Converter. Convert XLT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert XLT, XLT Converter, XLT to PDF, XLT to Word, XLT to PPT, XLT to Image
 ---
 

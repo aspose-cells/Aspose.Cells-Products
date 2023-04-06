@@ -1,6 +1,6 @@
 ---
 title: Convert JPG to GIF C#
-description: Free Online JPG Converter. Convert JPG to GIF Online for Free. Convert JPG to GIF in C# code. Convert JPG to GIF using C#.
+description: Convert JPG to GIF Online for Free. Free Online JPG Converter. Convert JPG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert JPG, JPG Converter, JPG to PDF, JPG to Word, JPG to PPT, JPG to Image
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Convert PRN to DOCX C#
-description: Free Online PRN Converter. Convert PRN to DOCX Online for Free. Convert PRN to DOCX in C# code. Convert PRN to DOCX using C#.
+description: Convert PRN to DOCX Online for Free. Free Online PRN Converter. Convert PRN to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert PRN, PRN Converter, PRN to PDF, PRN to Word, PRN to PPT, PRN to Image
 ---
 

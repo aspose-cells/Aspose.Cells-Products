@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to HTML Python via Python
-description: Free Online CSV Converter. Convert CSV to HTML Online for Free. Convert CSV to HTML in Python code. Convert CSV to HTML using Python.
+description: Convert CSV to HTML Online for Free. Free Online CSV Converter. Convert CSV to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert CSV, CSV Converter, CSV to PDF, CSV to Word, CSV to PPT, CSV to Image
 ---
 

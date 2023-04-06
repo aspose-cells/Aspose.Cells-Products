@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to PRN Python via Python
-description: Free Online MHTML Converter. Convert MHTML to PRN Online for Free. Convert MHTML to PRN in Python code. Convert MHTML to PRN using Python.
+description: Convert MHTML to PRN Online for Free. Free Online MHTML Converter. Convert MHTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert MHTML, MHTML Converter, MHTML to PDF, MHTML to Word, MHTML to PPT, MHTML to Image
 ---
 

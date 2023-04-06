@@ -1,7 +1,7 @@
 ---
 title: Merge XLTM to XLS via Java 
 url: /java/merger/merge-xltm-to-xls/ 
-description: Free Online XLTM Merger. Merge XLTM to XLS via Java online for free. Merge, Concatenate or Combine XLTM to XLS Online for Free.
+description: Merge XLTM to XLS Online for Free. Free Online XLTM Merger. Merge XLTM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -56,7 +56,7 @@ Follow the easy steps to merge XLTM to XLS. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free App to merge XLTM to XLS on line" InputFormat="xltm" InputFormat2="xls" outformat="xls" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Free App to merge XLTM to XLS on line" InputFormat="xltm" InputFormat2="xls" outformat="xls" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLTM to XLS via Java" %}}
 

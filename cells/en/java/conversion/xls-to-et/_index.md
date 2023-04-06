@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to ET Java 
-description: Free Online XLS Converter. Convert XLS to ET Online for Free. Convert XLS to ET in Java code. Convert XLS to ET using Java.
+description: Convert XLS to ET Online for Free. Free Online XLS Converter. Convert XLS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert XLS, XLS Converter, XLS to PDF, XLS to Word, XLS to PPT, XLS to Image
 ---
 

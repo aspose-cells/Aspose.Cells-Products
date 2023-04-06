@@ -1,7 +1,7 @@
 ---
 title: Merge JSON to ODS via Java 
 url: /java/merger/merge-json-to-ods/ 
-description: Free Online JSON Merger. Merge JSON to ODS via Java online for free. Merge, Concatenate or Combine JSON to ODS Online for Free.
+description: Merge JSON to ODS Online for Free. Free Online JSON Merger. Merge JSON to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -56,7 +56,7 @@ Follow the easy steps to merge JSON to ODS. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free App to merge JSON to ODS on line" InputFormat="json" InputFormat2="ods" outformat="ods" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Free App to merge JSON to ODS on line" InputFormat="json" InputFormat2="ods" outformat="ods" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge JSON to ODS via Java" %}}
 

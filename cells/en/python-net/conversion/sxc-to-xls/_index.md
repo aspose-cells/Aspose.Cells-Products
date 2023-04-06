@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to XLS Python via Python
-description: Free Online SXC Converter. Convert SXC to XLS Online for Free. Convert SXC to XLS in Python code. Convert SXC to XLS using Python.
+description: Convert SXC to XLS Online for Free. Free Online SXC Converter. Convert SXC to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC to Image
 ---
 

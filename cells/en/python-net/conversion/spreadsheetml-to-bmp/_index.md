@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to BMP Python via Python
-description: Free Online SPREADSHEETML Converter. Convert SPREADSHEETML to BMP Online for Free. Convert SPREADSHEETML to BMP in Python code. Convert SPREADSHEETML to BMP using Python.
+description: Convert SPREADSHEETML to BMP Online for Free. Free Online SPREADSHEETML Converter. Convert SPREADSHEETML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert SPREADSHEETML, SPREADSHEETML Converter, SPREADSHEETML to PDF, SPREADSHEETML to Word, SPREADSHEETML to PPT, SPREADSHEETML to Image
 ---
 

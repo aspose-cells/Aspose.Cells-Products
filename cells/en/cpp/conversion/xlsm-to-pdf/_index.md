@@ -1,6 +1,6 @@
 ---
 title: Convert XLSM to PDF C++
-description: Free Online XLSM Converter. Convert XLSM to PDF Online for Free. Convert XLSM to PDF in C++ code. Convert XLSM to PDF using C++.
+description: Convert XLSM to PDF Online for Free. Free Online XLSM Converter. Convert XLSM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert XLSM, XLSM Converter, XLSM to PDF, XLSM to Word, XLSM to PPT, XLSM to Image
 ---
 

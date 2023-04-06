@@ -1,7 +1,7 @@
 ---
 title: Merge ODS to MHT via Python 
 url: /python-java/merger/merge-ods-to-mht/ 
-description: Free Online ODS Merger. Merge ODS to MHT via Python online for free. Merge, Concatenate or Combine ODS to MHT Online for Free.
+description: Merge ODS to MHT Online for Free. Free Online ODS Merger. Merge ODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to merge ODS to MHT. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free App to merge ODS to MHT on line" InputFormat="ods" InputFormat2="mht" outformat="mht" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Free App to merge ODS to MHT on line" InputFormat="ods" InputFormat2="mht" outformat="mht" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge ODS to MHT via Python" %}}
 

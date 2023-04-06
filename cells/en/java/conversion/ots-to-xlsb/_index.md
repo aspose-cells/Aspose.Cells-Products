@@ -1,6 +1,6 @@
 ---
 title: Convert OTS to XLSB Java 
-description: Free Online OTS Converter. Convert OTS to XLSB Online for Free. Convert OTS to XLSB in Java code. Convert OTS to XLSB using Java.
+description: Convert OTS to XLSB Online for Free. Free Online OTS Converter. Convert OTS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert OTS, OTS Converter, OTS to PDF, OTS to Word, OTS to PPT, OTS to Image
 ---
 

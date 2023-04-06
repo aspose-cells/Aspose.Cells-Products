@@ -1,7 +1,7 @@
 ---
 title: Merge XLTM to XLSM via Python 
 url: /python-java/merger/merge-xltm-to-xlsm/ 
-description: Free Online XLTM Merger. Merge XLTM to XLSM via Python online for free. Merge, Concatenate or Combine XLTM to XLSM Online for Free.
+description: Merge XLTM to XLSM Online for Free. Free Online XLTM Merger. Merge XLTM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to merge XLTM to XLSM. Upload your files, call Workbook.Co
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free App to merge XLTM to XLSM on line" InputFormat="xltm" InputFormat2="xlsm" outformat="xlsm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Free App to merge XLTM to XLSM on line" InputFormat="xltm" InputFormat2="xlsm" outformat="xlsm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLTM to XLSM via Python" %}}
 

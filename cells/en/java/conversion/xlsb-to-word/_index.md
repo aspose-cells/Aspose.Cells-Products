@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to WORD Java 
-description: Free Online XLSB Converter. Convert XLSB to WORD Online for Free. Convert XLSB to WORD in Java code. Convert XLSB to WORD using Java.
+description: Convert XLSB to WORD Online for Free. Free Online XLSB Converter. Convert XLSB to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert XLSB, XLSB Converter, XLSB to PDF, XLSB to Word, XLSB to PPT, XLSB to Image
 ---
 

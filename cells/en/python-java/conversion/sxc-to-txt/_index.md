@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to TXT Python via Python
-description: Free Online SXC Converter. Convert SXC to TXT Online for Free. Convert SXC to TXT in Python code. Convert SXC to TXT using Python.
+description: Convert SXC to TXT Online for Free. Free Online SXC Converter. Convert SXC to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC to Image
 ---
 

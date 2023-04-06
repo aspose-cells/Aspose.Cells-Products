@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to PRN C#
-description: Free Online XLT Converter. Convert XLT to PRN Online for Free. Convert XLT to PRN in C# code. Convert XLT to PRN using C#.
+description: Convert XLT to PRN Online for Free. Free Online XLT Converter. Convert XLT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert XLT, XLT Converter, XLT to PDF, XLT to Word, XLT to PPT, XLT to Image
 ---
 

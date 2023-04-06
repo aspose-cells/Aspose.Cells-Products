@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to OTS C#
-description: Free Online MHTML Converter. Convert MHTML to OTS Online for Free. Convert MHTML to OTS in C# code. Convert MHTML to OTS using C#.
+description: Convert MHTML to OTS Online for Free. Free Online MHTML Converter. Convert MHTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert MHTML, MHTML Converter, MHTML to PDF, MHTML to Word, MHTML to PPT, MHTML to Image
 ---
 

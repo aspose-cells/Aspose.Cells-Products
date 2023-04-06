@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to XLT C#
-description: Free Online SXC Converter. Convert SXC to XLT Online for Free. Convert SXC to XLT in C# code. Convert SXC to XLT using C#.
+description: Convert SXC to XLT Online for Free. Free Online SXC Converter. Convert SXC to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC to Image
 ---
 

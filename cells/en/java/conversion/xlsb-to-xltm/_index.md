@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to XLTM Java 
-description: Free Online XLSB Converter. Convert XLSB to XLTM Online for Free. Convert XLSB to XLTM in Java code. Convert XLSB to XLTM using Java.
+description: Convert XLSB to XLTM Online for Free. Free Online XLSB Converter. Convert XLSB to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert XLSB, XLSB Converter, XLSB to PDF, XLSB to Word, XLSB to PPT, XLSB to Image
 ---
 

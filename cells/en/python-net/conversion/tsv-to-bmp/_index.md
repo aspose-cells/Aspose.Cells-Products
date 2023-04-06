@@ -1,6 +1,6 @@
 ---
 title: Convert TSV to BMP Python via Python
-description: Free Online TSV Converter. Convert TSV to BMP Online for Free. Convert TSV to BMP in Python code. Convert TSV to BMP using Python.
+description: Convert TSV to BMP Online for Free. Free Online TSV Converter. Convert TSV to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert TSV, TSV Converter, TSV to PDF, TSV to Word, TSV to PPT, TSV to Image
 ---
 

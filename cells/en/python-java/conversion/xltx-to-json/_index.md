@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to JSON Python via Python
-description: Free Online XLTX Converter. Convert XLTX to JSON Online for Free. Convert XLTX to JSON in Python code. Convert XLTX to JSON using Python.
+description: Convert XLTX to JSON Online for Free. Free Online XLTX Converter. Convert XLTX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert XLTX, XLTX Converter, XLTX to PDF, XLTX to Word, XLTX to PPT, XLTX to Image
 ---
 

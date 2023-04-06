@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to XLSB Python via Python
-description: Free Online CSV Converter. Convert CSV to XLSB Online for Free. Convert CSV to XLSB in Python code. Convert CSV to XLSB using Python.
+description: Convert CSV to XLSB Online for Free. Free Online CSV Converter. Convert CSV to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert CSV, CSV Converter, CSV to PDF, CSV to Word, CSV to PPT, CSV to Image
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to CSV C#
-description: Free Online XLT Converter. Convert XLT to CSV Online for Free. Convert XLT to CSV in C# code. Convert XLT to CSV using C#.
+description: Convert XLT to CSV Online for Free. Free Online XLT Converter. Convert XLT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert XLT, XLT Converter, XLT to PDF, XLT to Word, XLT to PPT, XLT to Image
 ---
 

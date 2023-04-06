@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to MARKDOWN Java 
-description: Free Online MHTML Converter. Convert MHTML to MARKDOWN Online for Free. Convert MHTML to MARKDOWN in Java code. Convert MHTML to MARKDOWN using Java.
+description: Convert MHTML to MARKDOWN Online for Free. Free Online MHTML Converter. Convert MHTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert MHTML, MHTML Converter, MHTML to PDF, MHTML to Word, MHTML to PPT, MHTML to Image
 ---
 

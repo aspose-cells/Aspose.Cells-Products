@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to TABDELIMITED Java 
-description: Free Online XLSB Converter. Convert XLSB to TABDELIMITED Online for Free. Convert XLSB to TABDELIMITED in Java code. Convert XLSB to TABDELIMITED using Java.
+description: Convert XLSB to TABDELIMITED Online for Free. Free Online XLSB Converter. Convert XLSB to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert XLSB, XLSB Converter, XLSB to PDF, XLSB to Word, XLSB to PPT, XLSB to Image
 ---
 

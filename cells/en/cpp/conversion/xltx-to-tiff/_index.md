@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to TIFF C++
-description: Free Online XLTX Converter. Convert XLTX to TIFF Online for Free. Convert XLTX to TIFF in C++ code. Convert XLTX to TIFF using C++.
+description: Convert XLTX to TIFF Online for Free. Free Online XLTX Converter. Convert XLTX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert XLTX, XLTX Converter, XLTX to PDF, XLTX to Word, XLTX to PPT, XLTX to Image
 ---
 

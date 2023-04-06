@@ -1,7 +1,7 @@
 ---
 title: Merge FODS to XLSB via C++ 
 url: /cpp/merger/merge-fods-to-xlsb/ 
-description: Free Online FODS Merger. Merge FODS to XLSB via C++ online for free. Merge, Concatenate or Combine FODS to XLSB Online for Free.
+description: Merge FODS to XLSB Online for Free. Free Online FODS Merger. Merge FODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -37,7 +37,7 @@ Follow the easy steps to merge FODS to XLSB. Upload your files, call Workbook.Co
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free App to merge FODS to XLSB on line" InputFormat="fods" InputFormat2="xlsb" outformat="xlsb" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Free App to merge FODS to XLSB on line" InputFormat="fods" InputFormat2="xlsb" outformat="xlsb" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge FODS to XLSB via C++" %}}
 

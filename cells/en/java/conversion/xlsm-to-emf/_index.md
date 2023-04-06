@@ -1,6 +1,6 @@
 ---
 title: Convert XLSM to EMF Java 
-description: Free Online XLSM Converter. Convert XLSM to EMF Online for Free. Convert XLSM to EMF in Java code. Convert XLSM to EMF using Java.
+description: Convert XLSM to EMF Online for Free. Free Online XLSM Converter. Convert XLSM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert XLSM, XLSM Converter, XLSM to PDF, XLSM to Word, XLSM to PPT, XLSM to Image
 ---
 

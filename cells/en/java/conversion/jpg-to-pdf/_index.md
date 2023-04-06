@@ -1,6 +1,6 @@
 ---
 title: Convert JPG to PDF Java 
-description: Free Online JPG Converter. Convert JPG to PDF Online for Free. Convert JPG to PDF in Java code. Convert JPG to PDF using Java.
+description: Convert JPG to PDF Online for Free. Free Online JPG Converter. Convert JPG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert JPG, JPG Converter, JPG to PDF, JPG to Word, JPG to PPT, JPG to Image
 ---
 

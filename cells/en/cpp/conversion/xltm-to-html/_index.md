@@ -1,6 +1,6 @@
 ---
 title: Convert XLTM to HTML C++
-description: Free Online XLTM Converter. Convert XLTM to HTML Online for Free. Convert XLTM to HTML in C++ code. Convert XLTM to HTML using C++.
+description: Convert XLTM to HTML Online for Free. Free Online XLTM Converter. Convert XLTM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert XLTM, XLTM Converter, XLTM to PDF, XLTM to Word, XLTM to PPT, XLTM to Image
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to GIF C++
-description: Free Online JSON Converter. Convert JSON to GIF Online for Free. Convert JSON to GIF in C++ code. Convert JSON to GIF using C++.
+description: Convert JSON to GIF Online for Free. Free Online JSON Converter. Convert JSON to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert JSON, JSON Converter, JSON to PDF, JSON to Word, JSON to PPT, JSON to Image
 ---
 

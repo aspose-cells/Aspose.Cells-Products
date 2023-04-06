@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to WORD Java 
-description: Free Online XLS Converter. Convert XLS to WORD Online for Free. Convert XLS to WORD in Java code. Convert XLS to WORD using Java.
+description: Convert XLS to WORD Online for Free. Free Online XLS Converter. Convert XLS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert XLS, XLS Converter, XLS to PDF, XLS to Word, XLS to PPT, XLS to Image
 ---
 

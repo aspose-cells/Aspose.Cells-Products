@@ -1,6 +1,6 @@
 ---
 title: Convert XLTM to SQL Python via Python
-description: Free Online XLTM Converter. Convert XLTM to SQL Online for Free. Convert XLTM to SQL in Python code. Convert XLTM to SQL using Python.
+description: Convert XLTM to SQL Online for Free. Free Online XLTM Converter. Convert XLTM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert XLTM, XLTM Converter, XLTM to PDF, XLTM to Word, XLTM to PPT, XLTM to Image
 ---
 

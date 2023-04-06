@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to BMP Java 
-description: Free Online ODS Converter. Convert ODS to BMP Online for Free. Convert ODS to BMP in Java code. Convert ODS to BMP using Java.
+description: Convert ODS to BMP Online for Free. Free Online ODS Converter. Convert ODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert ODS, ODS Converter, ODS to PDF, ODS to Word, ODS to PPT, ODS to Image
 ---
 

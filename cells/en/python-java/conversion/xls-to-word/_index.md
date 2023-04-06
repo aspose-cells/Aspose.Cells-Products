@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to WORD Python via Python
-description: Free Online XLS Converter. Convert XLS to WORD Online for Free. Convert XLS to WORD in Python code. Convert XLS to WORD using Python.
+description: Convert XLS to WORD Online for Free. Free Online XLS Converter. Convert XLS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert XLS, XLS Converter, XLS to PDF, XLS to Word, XLS to PPT, XLS to Image
 ---
 

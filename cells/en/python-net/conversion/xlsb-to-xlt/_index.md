@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to XLT Python via Python
-description: Free Online XLSB Converter. Convert XLSB to XLT Online for Free. Convert XLSB to XLT in Python code. Convert XLSB to XLT using Python.
+description: Convert XLSB to XLT Online for Free. Free Online XLSB Converter. Convert XLSB to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert XLSB, XLSB Converter, XLSB to PDF, XLSB to Word, XLSB to PPT, XLSB to Image
 ---
 

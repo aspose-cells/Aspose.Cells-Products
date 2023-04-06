@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to XLSB Java 
-description: Free Online NUMBERS Converter. Convert NUMBERS to XLSB Online for Free. Convert NUMBERS to XLSB in Java code. Convert NUMBERS to XLSB using Java.
+description: Convert NUMBERS to XLSB Online for Free. Free Online NUMBERS Converter. Convert NUMBERS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert NUMBERS, NUMBERS Converter, NUMBERS to PDF, NUMBERS to Word, NUMBERS to PPT, NUMBERS to Image
 ---
 

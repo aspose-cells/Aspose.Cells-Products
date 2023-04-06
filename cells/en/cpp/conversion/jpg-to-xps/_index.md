@@ -1,6 +1,6 @@
 ---
 title: Convert JPG to XPS C++
-description: Free Online JPG Converter. Convert JPG to XPS Online for Free. Convert JPG to XPS in C++ code. Convert JPG to XPS using C++.
+description: Convert JPG to XPS Online for Free. Free Online JPG Converter. Convert JPG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert JPG, JPG Converter, JPG to PDF, JPG to Word, JPG to PPT, JPG to Image
 ---
 

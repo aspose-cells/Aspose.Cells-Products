@@ -1,7 +1,7 @@
 ---
 title: Merge ODS to XLSM via C# 
 url: /net/merger/merge-ods-to-xlsm/ 
-description: Free Online ODS Merger. Merge ODS to XLSM via .NET online for free. Merge, Concatenate or Combine ODS to XLSM Online for Free.
+description: Merge ODS to XLSM Online for Free. Free Online ODS Merger. Merge ODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -37,7 +37,7 @@ Follow the easy steps to merge ODS to XLSM. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free App to merge ODS to XLSM on line" InputFormat="ods" InputFormat2="xlsm" outformat="xlsm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Free App to merge ODS to XLSM on line" InputFormat="ods" InputFormat2="xlsm" outformat="xlsm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge ODS to XLSM via C#" %}}
 

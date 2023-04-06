@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to OTS Python via Python
-description: Free Online TABDELIMITED Converter. Convert TABDELIMITED to OTS Online for Free. Convert TABDELIMITED to OTS in Python code. Convert TABDELIMITED to OTS using Python.
+description: Convert TABDELIMITED to OTS Online for Free. Free Online TABDELIMITED Converter. Convert TABDELIMITED to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert TABDELIMITED, TABDELIMITED Converter, TABDELIMITED to PDF, TABDELIMITED to Word, TABDELIMITED to PPT, TABDELIMITED to Image
 ---
 

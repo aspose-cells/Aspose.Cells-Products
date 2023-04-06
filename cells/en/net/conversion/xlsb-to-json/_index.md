@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to JSON C#
-description: Free Online XLSB Converter. Convert XLSB to JSON Online for Free. Convert XLSB to JSON in C# code. Convert XLSB to JSON using C#.
+description: Convert XLSB to JSON Online for Free. Free Online XLSB Converter. Convert XLSB to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert XLSB, XLSB Converter, XLSB to PDF, XLSB to Word, XLSB to PPT, XLSB to Image
 ---
 

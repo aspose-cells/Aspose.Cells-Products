@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to XLAM Java 
-description: Free Online XLS Converter. Convert XLS to XLAM Online for Free. Convert XLS to XLAM in Java code. Convert XLS to XLAM using Java.
+description: Convert XLS to XLAM Online for Free. Free Online XLS Converter. Convert XLS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert XLS, XLS Converter, XLS to PDF, XLS to Word, XLS to PPT, XLS to Image
 ---
 

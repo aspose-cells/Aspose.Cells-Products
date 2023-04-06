@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to TABDELIMITED Java 
-description: Free Online XLS Converter. Convert XLS to TABDELIMITED Online for Free. Convert XLS to TABDELIMITED in Java code. Convert XLS to TABDELIMITED using Java.
+description: Convert XLS to TABDELIMITED Online for Free. Free Online XLS Converter. Convert XLS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert XLS, XLS Converter, XLS to PDF, XLS to Word, XLS to PPT, XLS to Image
 ---
 

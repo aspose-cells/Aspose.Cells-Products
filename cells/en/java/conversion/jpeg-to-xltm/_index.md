@@ -1,6 +1,6 @@
 ---
 title: Convert JPEG to XLTM Java 
-description: Free Online JPEG Converter. Convert JPEG to XLTM Online for Free. Convert JPEG to XLTM in Java code. Convert JPEG to XLTM using Java.
+description: Convert JPEG to XLTM Online for Free. Free Online JPEG Converter. Convert JPEG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert JPEG, JPEG Converter, JPEG to PDF, JPEG to Word, JPEG to PPT, JPEG to Image
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to XLTX C#
-description: Free Online NUMBERS Converter. Convert NUMBERS to XLTX Online for Free. Convert NUMBERS to XLTX in C# code. Convert NUMBERS to XLTX using C#.
+description: Convert NUMBERS to XLTX Online for Free. Free Online NUMBERS Converter. Convert NUMBERS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert NUMBERS, NUMBERS Converter, NUMBERS to PDF, NUMBERS to Word, NUMBERS to PPT, NUMBERS to Image
 ---
 

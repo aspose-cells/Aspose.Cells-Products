@@ -1,6 +1,6 @@
 ---
 title: Convert OTS to MD Python via Python
-description: Free Online OTS Converter. Convert OTS to MD Online for Free. Convert OTS to MD in Python code. Convert OTS to MD using Python.
+description: Convert OTS to MD Online for Free. Free Online OTS Converter. Convert OTS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert OTS, OTS Converter, OTS to PDF, OTS to Word, OTS to PPT, OTS to Image
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Merge NUMBERS to TSV via Python 
 url: /python-java/merger/merge-numbers-to-tsv/ 
-description: Free Online NUMBERS Merger. Merge NUMBERS to TSV via Python online for free. Merge, Concatenate or Combine NUMBERS to TSV Online for Free.
+description: Merge NUMBERS to TSV Online for Free. Free Online NUMBERS Merger. Merge NUMBERS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to merge NUMBERS to TSV. Upload your files, call Workbook.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free App to merge NUMBERS to TSV on line" InputFormat="numbers" InputFormat2="tsv" outformat="tsv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Free App to merge NUMBERS to TSV on line" InputFormat="numbers" InputFormat2="tsv" outformat="tsv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge NUMBERS to TSV via Python" %}}
 

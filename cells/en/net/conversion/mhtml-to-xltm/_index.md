@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to XLTM C#
-description: Free Online MHTML Converter. Convert MHTML to XLTM Online for Free. Convert MHTML to XLTM in C# code. Convert MHTML to XLTM using C#.
+description: Convert MHTML to XLTM Online for Free. Free Online MHTML Converter. Convert MHTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert MHTML, MHTML Converter, MHTML to PDF, MHTML to Word, MHTML to PPT, MHTML to Image
 ---
 

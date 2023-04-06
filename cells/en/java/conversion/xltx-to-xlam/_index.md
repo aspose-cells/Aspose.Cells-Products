@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to XLAM Java 
-description: Free Online XLTX Converter. Convert XLTX to XLAM Online for Free. Convert XLTX to XLAM in Java code. Convert XLTX to XLAM using Java.
+description: Convert XLTX to XLAM Online for Free. Free Online XLTX Converter. Convert XLTX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert XLTX, XLTX Converter, XLTX to PDF, XLTX to Word, XLTX to PPT, XLTX to Image
 ---
 

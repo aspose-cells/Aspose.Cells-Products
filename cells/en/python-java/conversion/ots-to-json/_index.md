@@ -1,6 +1,6 @@
 ---
 title: Convert OTS to JSON Python via Python
-description: Free Online OTS Converter. Convert OTS to JSON Online for Free. Convert OTS to JSON in Python code. Convert OTS to JSON using Python.
+description: Convert OTS to JSON Online for Free. Free Online OTS Converter. Convert OTS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert OTS, OTS Converter, OTS to PDF, OTS to Word, OTS to PPT, OTS to Image
 ---
 

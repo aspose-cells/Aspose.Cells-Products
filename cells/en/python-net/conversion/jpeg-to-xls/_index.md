@@ -1,6 +1,6 @@
 ---
 title: Convert JPEG to XLS Python via Python
-description: Free Online JPEG Converter. Convert JPEG to XLS Online for Free. Convert JPEG to XLS in Python code. Convert JPEG to XLS using Python.
+description: Convert JPEG to XLS Online for Free. Free Online JPEG Converter. Convert JPEG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert JPEG, JPEG Converter, JPEG to PDF, JPEG to Word, JPEG to PPT, JPEG to Image
 ---
 

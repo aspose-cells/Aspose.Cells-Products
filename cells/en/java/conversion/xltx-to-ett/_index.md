@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to ETT Java 
-description: Free Online XLTX Converter. Convert XLTX to ETT Online for Free. Convert XLTX to ETT in Java code. Convert XLTX to ETT using Java.
+description: Convert XLTX to ETT Online for Free. Free Online XLTX Converter. Convert XLTX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert XLTX, XLTX Converter, XLTX to PDF, XLTX to Word, XLTX to PPT, XLTX to Image
 ---
 

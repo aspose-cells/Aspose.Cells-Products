@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to MD C#
-description: Free Online HTML Converter. Convert HTML to MD Online for Free. Convert HTML to MD in C# code. Convert HTML to MD using C#.
+description: Convert HTML to MD Online for Free. Free Online HTML Converter. Convert HTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert HTML, HTML Converter, HTML to PDF, HTML to Word, HTML to PPT, HTML to Image
 ---
 

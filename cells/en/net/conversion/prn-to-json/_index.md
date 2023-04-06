@@ -1,6 +1,6 @@
 ---
 title: Convert PRN to JSON C#
-description: Free Online PRN Converter. Convert PRN to JSON Online for Free. Convert PRN to JSON in C# code. Convert PRN to JSON using C#.
+description: Convert PRN to JSON Online for Free. Free Online PRN Converter. Convert PRN to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert PRN, PRN Converter, PRN to PDF, PRN to Word, PRN to PPT, PRN to Image
 ---
 

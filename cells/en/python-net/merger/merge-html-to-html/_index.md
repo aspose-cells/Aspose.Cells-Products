@@ -1,7 +1,7 @@
 ---
 title: Merge HTML to HTML via Python 
 url: /python-net/merger/merge-html-to-html/ 
-description: Free Online HTML Merger. Merge HTML to HTML via Python online for free. Merge, Concatenate or Combine HTML to HTML Online for Free.
+description: Merge HTML to HTML Online for Free. Free Online HTML Merger. Merge HTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to merge HTML to HTML. Upload your files, call Workbook.Co
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free App to merge HTML to HTML on line" InputFormat="html" InputFormat2="html" outformat="html" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Free App to merge HTML to HTML on line" InputFormat="html" InputFormat2="html" outformat="html" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge HTML to HTML via Python" %}}
 

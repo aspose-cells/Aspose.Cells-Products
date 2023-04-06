@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to JPG Python via Python
-description: Free Online XLS Converter. Convert XLS to JPG Online for Free. Convert XLS to JPG in Python code. Convert XLS to JPG using Python.
+description: Convert XLS to JPG Online for Free. Free Online XLS Converter. Convert XLS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert XLS, XLS Converter, XLS to PDF, XLS to Word, XLS to PPT, XLS to Image
 ---
 

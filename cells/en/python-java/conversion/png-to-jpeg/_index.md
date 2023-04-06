@@ -1,6 +1,6 @@
 ---
 title: Convert PNG to JPEG Python via Python
-description: Free Online PNG Converter. Convert PNG to JPEG Online for Free. Convert PNG to JPEG in Python code. Convert PNG to JPEG using Python.
+description: Convert PNG to JPEG Online for Free. Free Online PNG Converter. Convert PNG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert PNG, PNG Converter, PNG to PDF, PNG to Word, PNG to PPT, PNG to Image
 ---
 

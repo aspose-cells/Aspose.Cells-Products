@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to XLT Python via Python
-description: Free Online JSON Converter. Convert JSON to XLT Online for Free. Convert JSON to XLT in Python code. Convert JSON to XLT using Python.
+description: Convert JSON to XLT Online for Free. Free Online JSON Converter. Convert JSON to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert JSON, JSON Converter, JSON to PDF, JSON to Word, JSON to PPT, JSON to Image
 ---
 

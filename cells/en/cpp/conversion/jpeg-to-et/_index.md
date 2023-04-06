@@ -1,6 +1,6 @@
 ---
 title: Convert JPEG to ET C++
-description: Free Online JPEG Converter. Convert JPEG to ET Online for Free. Convert JPEG to ET in C++ code. Convert JPEG to ET using C++.
+description: Convert JPEG to ET Online for Free. Free Online JPEG Converter. Convert JPEG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert JPEG, JPEG Converter, JPEG to PDF, JPEG to Word, JPEG to PPT, JPEG to Image
 ---
 

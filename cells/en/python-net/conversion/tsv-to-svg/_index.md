@@ -1,6 +1,6 @@
 ---
 title: Convert TSV to SVG Python via Python
-description: Free Online TSV Converter. Convert TSV to SVG Online for Free. Convert TSV to SVG in Python code. Convert TSV to SVG using Python.
+description: Convert TSV to SVG Online for Free. Free Online TSV Converter. Convert TSV to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert TSV, TSV Converter, TSV to PDF, TSV to Word, TSV to PPT, TSV to Image
 ---
 

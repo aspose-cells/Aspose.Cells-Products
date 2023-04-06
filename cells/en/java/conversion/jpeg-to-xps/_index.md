@@ -1,6 +1,6 @@
 ---
 title: Convert JPEG to XPS Java 
-description: Free Online JPEG Converter. Convert JPEG to XPS Online for Free. Convert JPEG to XPS in Java code. Convert JPEG to XPS using Java.
+description: Convert JPEG to XPS Online for Free. Free Online JPEG Converter. Convert JPEG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert JPEG, JPEG Converter, JPEG to PDF, JPEG to Word, JPEG to PPT, JPEG to Image
 ---
 

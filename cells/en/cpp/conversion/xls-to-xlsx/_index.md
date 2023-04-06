@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to XLSX C++
-description: Free Online XLS Converter. Convert XLS to XLSX Online for Free. Convert XLS to XLSX in C++ code. Convert XLS to XLSX using C++.
+description: Convert XLS to XLSX Online for Free. Free Online XLS Converter. Convert XLS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert XLS, XLS Converter, XLS to PDF, XLS to Word, XLS to PPT, XLS to Image
 ---
 

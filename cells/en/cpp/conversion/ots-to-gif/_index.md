@@ -1,6 +1,6 @@
 ---
 title: Convert OTS to GIF C++
-description: Free Online OTS Converter. Convert OTS to GIF Online for Free. Convert OTS to GIF in C++ code. Convert OTS to GIF using C++.
+description: Convert OTS to GIF Online for Free. Free Online OTS Converter. Convert OTS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert OTS, OTS Converter, OTS to PDF, OTS to Word, OTS to PPT, OTS to Image
 ---
 

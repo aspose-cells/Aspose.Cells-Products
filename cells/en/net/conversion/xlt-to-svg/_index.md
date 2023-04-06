@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to SVG C#
-description: Free Online XLT Converter. Convert XLT to SVG Online for Free. Convert XLT to SVG in C# code. Convert XLT to SVG using C#.
+description: Convert XLT to SVG Online for Free. Free Online XLT Converter. Convert XLT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert XLT, XLT Converter, XLT to PDF, XLT to Word, XLT to PPT, XLT to Image
 ---
 

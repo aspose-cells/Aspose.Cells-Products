@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to XLSB C++
-description: Free Online FODS Converter. Convert FODS to XLSB Online for Free. Convert FODS to XLSB in C++ code. Convert FODS to XLSB using C++.
+description: Convert FODS to XLSB Online for Free. Free Online FODS Converter. Convert FODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert FODS, FODS Converter, FODS to PDF, FODS to Word, FODS to PPT, FODS to Image
 ---
 

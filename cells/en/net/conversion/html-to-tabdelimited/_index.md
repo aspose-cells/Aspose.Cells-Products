@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to TABDELIMITED C#
-description: Free Online HTML Converter. Convert HTML to TABDELIMITED Online for Free. Convert HTML to TABDELIMITED in C# code. Convert HTML to TABDELIMITED using C#.
+description: Convert HTML to TABDELIMITED Online for Free. Free Online HTML Converter. Convert HTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert HTML, HTML Converter, HTML to PDF, HTML to Word, HTML to PPT, HTML to Image
 ---
 

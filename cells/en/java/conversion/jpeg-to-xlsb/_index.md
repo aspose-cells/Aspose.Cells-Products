@@ -1,6 +1,6 @@
 ---
 title: Convert JPEG to XLSB Java 
-description: Free Online JPEG Converter. Convert JPEG to XLSB Online for Free. Convert JPEG to XLSB in Java code. Convert JPEG to XLSB using Java.
+description: Convert JPEG to XLSB Online for Free. Free Online JPEG Converter. Convert JPEG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert JPEG, JPEG Converter, JPEG to PDF, JPEG to Word, JPEG to PPT, JPEG to Image
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to ET Java 
-description: Free Online HTML Converter. Convert HTML to ET Online for Free. Convert HTML to ET in Java code. Convert HTML to ET using Java.
+description: Convert HTML to ET Online for Free. Free Online HTML Converter. Convert HTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert HTML, HTML Converter, HTML to PDF, HTML to Word, HTML to PPT, HTML to Image
 ---
 

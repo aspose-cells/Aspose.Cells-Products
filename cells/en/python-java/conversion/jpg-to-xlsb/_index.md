@@ -1,6 +1,6 @@
 ---
 title: Convert JPG to XLSB Python via Python
-description: Free Online JPG Converter. Convert JPG to XLSB Online for Free. Convert JPG to XLSB in Python code. Convert JPG to XLSB using Python.
+description: Convert JPG to XLSB Online for Free. Free Online JPG Converter. Convert JPG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert JPG, JPG Converter, JPG to PDF, JPG to Word, JPG to PPT, JPG to Image
 ---
 

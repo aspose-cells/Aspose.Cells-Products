@@ -1,6 +1,6 @@
 ---
 title: Convert PRN to XLSX Java 
-description: Free Online PRN Converter. Convert PRN to XLSX Online for Free. Convert PRN to XLSX in Java code. Convert PRN to XLSX using Java.
+description: Convert PRN to XLSX Online for Free. Free Online PRN Converter. Convert PRN to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert PRN, PRN Converter, PRN to PDF, PRN to Word, PRN to PPT, PRN to Image
 ---
 

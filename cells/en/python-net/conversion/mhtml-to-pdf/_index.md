@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to PDF Python via Python
-description: Free Online MHTML Converter. Convert MHTML to PDF Online for Free. Convert MHTML to PDF in Python code. Convert MHTML to PDF using Python.
+description: Convert MHTML to PDF Online for Free. Free Online MHTML Converter. Convert MHTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert MHTML, MHTML Converter, MHTML to PDF, MHTML to Word, MHTML to PPT, MHTML to Image
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to EMF Java 
-description: Free Online FODS Converter. Convert FODS to EMF Online for Free. Convert FODS to EMF in Java code. Convert FODS to EMF using Java.
+description: Convert FODS to EMF Online for Free. Free Online FODS Converter. Convert FODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert FODS, FODS Converter, FODS to PDF, FODS to Word, FODS to PPT, FODS to Image
 ---
 

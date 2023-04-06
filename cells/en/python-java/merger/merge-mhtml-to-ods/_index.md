@@ -1,7 +1,7 @@
 ---
 title: Merge MHTML to ODS via Python 
 url: /python-java/merger/merge-mhtml-to-ods/ 
-description: Free Online MHTML Merger. Merge MHTML to ODS via Python online for free. Merge, Concatenate or Combine MHTML to ODS Online for Free.
+description: Merge MHTML to ODS Online for Free. Free Online MHTML Merger. Merge MHTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to merge MHTML to ODS. Upload your files, call Workbook.Co
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free App to merge MHTML to ODS on line" InputFormat="mhtml" InputFormat2="ods" outformat="ods" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Free App to merge MHTML to ODS on line" InputFormat="mhtml" InputFormat2="ods" outformat="ods" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge MHTML to ODS via Python" %}}
 

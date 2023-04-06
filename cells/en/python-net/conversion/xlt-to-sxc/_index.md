@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to SXC Python via Python
-description: Free Online XLT Converter. Convert XLT to SXC Online for Free. Convert XLT to SXC in Python code. Convert XLT to SXC using Python.
+description: Convert XLT to SXC Online for Free. Free Online XLT Converter. Convert XLT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert XLT, XLT Converter, XLT to PDF, XLT to Word, XLT to PPT, XLT to Image
 ---
 

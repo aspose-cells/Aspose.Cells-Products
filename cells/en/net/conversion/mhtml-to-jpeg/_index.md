@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to JPEG C#
-description: Free Online MHTML Converter. Convert MHTML to JPEG Online for Free. Convert MHTML to JPEG in C# code. Convert MHTML to JPEG using C#.
+description: Convert MHTML to JPEG Online for Free. Free Online MHTML Converter. Convert MHTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert MHTML, MHTML Converter, MHTML to PDF, MHTML to Word, MHTML to PPT, MHTML to Image
 ---
 

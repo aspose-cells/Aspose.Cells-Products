@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to SQL C++
-description: Free Online ODS Converter. Convert ODS to SQL Online for Free. Convert ODS to SQL in C++ code. Convert ODS to SQL using C++.
+description: Convert ODS to SQL Online for Free. Free Online ODS Converter. Convert ODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
 keywords: Convert ODS, ODS Converter, ODS to PDF, ODS to Word, ODS to PPT, ODS to Image
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Merge ODS to XLSM via Python 
 url: /python-net/merger/merge-ods-to-xlsm/ 
-description: Merge ODS to XLSM Online for Free. Free Online ODS Merger. Merge ODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Merge ODS to XLSM Online for Free. Free Online ODS to XLSM Merger. Merge ODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

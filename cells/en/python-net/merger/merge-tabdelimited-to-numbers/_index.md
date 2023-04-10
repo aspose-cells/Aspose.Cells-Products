@@ -1,7 +1,7 @@
 ---
 title: Merge TABDELIMITED to NUMBERS via Python 
 url: /python-net/merger/merge-tabdelimited-to-numbers/ 
-description: Merge TABDELIMITED to NUMBERS Online for Free. Free Online TABDELIMITED Merger. Merge TABDELIMITED to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Merge TABDELIMITED to NUMBERS Online for Free. Free Online TABDELIMITED to NUMBERS Merger. Merge TABDELIMITED to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

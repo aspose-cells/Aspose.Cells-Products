@@ -1,7 +1,7 @@
 ---
 title: Merge ODS to TSV via Java 
 url: /java/merger/merge-ods-to-tsv/ 
-description: Merge ODS to TSV Online for Free. Free Online ODS Merger. Merge ODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Merge ODS to TSV Online for Free. Free Online ODS to TSV Merger. Merge ODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

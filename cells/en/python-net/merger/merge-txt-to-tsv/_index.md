@@ -1,7 +1,7 @@
 ---
 title: Merge TXT to TSV via Python 
 url: /python-net/merger/merge-txt-to-tsv/ 
-description: Merge TXT to TSV Online for Free. Free Online TXT Merger. Merge TXT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Merge TXT to TSV Online for Free. Free Online TXT to TSV Merger. Merge TXT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

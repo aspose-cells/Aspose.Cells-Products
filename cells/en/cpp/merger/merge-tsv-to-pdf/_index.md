@@ -1,7 +1,7 @@
 ---
 title: Merge TSV to PDF via C++ 
 url: /cpp/merger/merge-tsv-to-pdf/ 
-description: Merge TSV to PDF Online for Free. Free Online TSV Merger. Merge TSV to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Merge TSV to PDF Online for Free. Free Online TSV to PDF Merger. Merge TSV to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

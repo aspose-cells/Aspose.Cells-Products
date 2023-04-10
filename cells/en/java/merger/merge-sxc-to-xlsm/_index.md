@@ -1,7 +1,7 @@
 ---
 title: Merge SXC to XLSM via Java 
 url: /java/merger/merge-sxc-to-xlsm/ 
-description: Merge SXC to XLSM Online for Free. Free Online SXC Merger. Merge SXC to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Merge SXC to XLSM Online for Free. Free Online SXC to XLSM Merger. Merge SXC to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

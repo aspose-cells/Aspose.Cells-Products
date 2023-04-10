@@ -1,7 +1,7 @@
 ---
 title: Merge XLSB to PDF via C++ 
 url: /cpp/merger/merge-xlsb-to-pdf/ 
-description: Merge XLSB to PDF Online for Free. Free Online XLSB Merger. Merge XLSB to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Merge XLSB to PDF Online for Free. Free Online XLSB to PDF Merger. Merge XLSB to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

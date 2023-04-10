@@ -1,7 +1,7 @@
 ---
 title: Merge SXC to XLSX via C++ 
 url: /cpp/merger/merge-sxc-to-xlsx/ 
-description: Merge SXC to XLSX Online for Free. Free Online SXC Merger. Merge SXC to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Merge SXC to XLSX Online for Free. Free Online SXC to XLSX Merger. Merge SXC to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

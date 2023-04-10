@@ -1,7 +1,7 @@
 ---
 title: Merge HTML to TSV via C++ 
 url: /cpp/merger/merge-html-to-tsv/ 
-description: Merge HTML to TSV Online for Free. Free Online HTML Merger. Merge HTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Merge HTML to TSV Online for Free. Free Online HTML to TSV Merger. Merge HTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Merge HTM to HTML via Python 
 url: /python-net/merger/merge-htm-to-html/ 
-description: Merge HTM to HTML Online for Free. Free Online HTM Merger. Merge HTM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Merge HTM to HTML Online for Free. Free Online HTM to HTML Merger. Merge HTM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

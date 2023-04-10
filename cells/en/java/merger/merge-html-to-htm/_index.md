@@ -1,7 +1,7 @@
 ---
 title: Merge HTML to HTM via Java 
 url: /java/merger/merge-html-to-htm/ 
-description: Merge HTML to HTM Online for Free. Free Online HTML Merger. Merge HTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Merge HTML to HTM Online for Free. Free Online HTML to HTM Merger. Merge HTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

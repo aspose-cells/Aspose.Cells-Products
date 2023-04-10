@@ -1,7 +1,7 @@
 ---
 title: Merge TSV to XLS via C# 
 url: /net/merger/merge-tsv-to-xls/ 
-description: Merge TSV to XLS Online for Free. Free Online TSV Merger. Merge TSV to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Merge TSV to XLS Online for Free. Free Online TSV to XLS Merger. Merge TSV to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Merge XLTX to XLSB via C# 
 url: /net/merger/merge-xltx-to-xlsb/ 
-description: Merge XLTX to XLSB Online for Free. Free Online XLTX Merger. Merge XLTX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Merge XLTX to XLSB Online for Free. Free Online XLTX to XLSB Merger. Merge XLTX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

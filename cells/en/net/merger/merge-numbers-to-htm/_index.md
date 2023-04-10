@@ -1,7 +1,7 @@
 ---
 title: Merge NUMBERS to HTM via C# 
 url: /net/merger/merge-numbers-to-htm/ 
-description: Merge NUMBERS to HTM Online for Free. Free Online NUMBERS Merger. Merge NUMBERS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Merge NUMBERS to HTM Online for Free. Free Online NUMBERS to HTM Merger. Merge NUMBERS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

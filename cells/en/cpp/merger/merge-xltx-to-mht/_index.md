@@ -1,7 +1,7 @@
 ---
 title: Merge XLTX to MHT via C++ 
 url: /cpp/merger/merge-xltx-to-mht/ 
-description: Merge XLTX to MHT Online for Free. Free Online XLTX Merger. Merge XLTX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Merge XLTX to MHT Online for Free. Free Online XLTX to MHT Merger. Merge XLTX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

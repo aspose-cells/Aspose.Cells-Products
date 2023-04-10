@@ -1,7 +1,7 @@
 ---
 title: Merge TSV to ODS via C++ 
 url: /cpp/merger/merge-tsv-to-ods/ 
-description: Merge TSV to ODS Online for Free. Free Online TSV Merger. Merge TSV to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Merge TSV to ODS Online for Free. Free Online TSV to ODS Merger. Merge TSV to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

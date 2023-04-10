@@ -1,7 +1,7 @@
 ---
 title: Merge EXCEL to TSV via C++ 
 url: /cpp/merger/merge-excel-to-tsv/ 
-description: Merge EXCEL to TSV Online for Free. Free Online EXCEL Merger. Merge EXCEL to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Merge EXCEL to TSV Online for Free. Free Online EXCEL to TSV Merger. Merge EXCEL to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

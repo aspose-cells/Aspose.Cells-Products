@@ -1,7 +1,7 @@
 ---
 title: Merge HTM to XLSB via Java 
 url: /java/merger/merge-htm-to-xlsb/ 
-description: Merge HTM to XLSB Online for Free. Free Online HTM Merger. Merge HTM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Merge HTM to XLSB Online for Free. Free Online HTM to XLSB Merger. Merge HTM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

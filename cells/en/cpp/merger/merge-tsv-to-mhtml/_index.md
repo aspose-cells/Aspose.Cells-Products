@@ -1,7 +1,7 @@
 ---
 title: Merge TSV to MHTML via C++ 
 url: /cpp/merger/merge-tsv-to-mhtml/ 
-description: Merge TSV to MHTML Online for Free. Free Online TSV Merger. Merge TSV to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Merge TSV to MHTML Online for Free. Free Online TSV to MHTML Merger. Merge TSV to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

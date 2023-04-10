@@ -1,7 +1,7 @@
 ---
 title: Merge JSON to XLSM via Java 
 url: /java/merger/merge-json-to-xlsm/ 
-description: Merge JSON to XLSM Online for Free. Free Online JSON Merger. Merge JSON to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Merge JSON to XLSM Online for Free. Free Online JSON to XLSM Merger. Merge JSON to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

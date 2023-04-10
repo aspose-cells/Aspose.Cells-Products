@@ -1,7 +1,7 @@
 ---
 title: Merge SPREADSHEETML to HTM via Python 
 url: /python-net/merger/merge-spreadsheetml-to-htm/ 
-description: Merge SPREADSHEETML to HTM Online for Free. Free Online SPREADSHEETML Merger. Merge SPREADSHEETML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Merge SPREADSHEETML to HTM Online for Free. Free Online SPREADSHEETML to HTM Merger. Merge SPREADSHEETML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

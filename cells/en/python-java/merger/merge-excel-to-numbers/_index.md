@@ -1,7 +1,7 @@
 ---
 title: Merge EXCEL to NUMBERS via Python 
 url: /python-java/merger/merge-excel-to-numbers/ 
-description: Merge EXCEL to NUMBERS Online for Free. Free Online EXCEL Merger. Merge EXCEL to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Merge EXCEL to NUMBERS Online for Free. Free Online EXCEL to NUMBERS Merger. Merge EXCEL to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

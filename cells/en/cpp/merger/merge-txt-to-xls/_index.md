@@ -1,7 +1,7 @@
 ---
 title: Merge TXT to XLS via C++ 
 url: /cpp/merger/merge-txt-to-xls/ 
-description: Merge TXT to XLS Online for Free. Free Online TXT Merger. Merge TXT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Merge TXT to XLS Online for Free. Free Online TXT to XLS Merger. Merge TXT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

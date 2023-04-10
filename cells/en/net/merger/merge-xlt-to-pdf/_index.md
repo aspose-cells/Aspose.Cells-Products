@@ -1,7 +1,7 @@
 ---
 title: Merge XLT to PDF via C# 
 url: /net/merger/merge-xlt-to-pdf/ 
-description: Merge XLT to PDF Online for Free. Free Online XLT Merger. Merge XLT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Merge XLT to PDF Online for Free. Free Online XLT to PDF Merger. Merge XLT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

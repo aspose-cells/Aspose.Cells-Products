@@ -1,7 +1,7 @@
 ---
 title: Merge ODS to XLSX via C# 
 url: /net/merger/merge-ods-to-xlsx/ 
-description: Merge ODS to XLSX Online for Free. Free Online ODS Merger. Merge ODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Merge ODS to XLSX Online for Free. Free Online ODS to XLSX Merger. Merge ODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

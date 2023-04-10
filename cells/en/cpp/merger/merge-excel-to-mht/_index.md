@@ -1,7 +1,7 @@
 ---
 title: Merge EXCEL to MHT via C++ 
 url: /cpp/merger/merge-excel-to-mht/ 
-description: Merge EXCEL to MHT Online for Free. Free Online EXCEL Merger. Merge EXCEL to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Merge EXCEL to MHT Online for Free. Free Online EXCEL to MHT Merger. Merge EXCEL to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

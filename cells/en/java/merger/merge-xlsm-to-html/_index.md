@@ -1,7 +1,7 @@
 ---
 title: Merge XLSM to HTML via Java 
 url: /java/merger/merge-xlsm-to-html/ 
-description: Merge XLSM to HTML Online for Free. Free Online XLSM Merger. Merge XLSM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Merge XLSM to HTML Online for Free. Free Online XLSM to HTML Merger. Merge XLSM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

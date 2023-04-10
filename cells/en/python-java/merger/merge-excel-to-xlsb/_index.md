@@ -1,7 +1,7 @@
 ---
 title: Merge EXCEL to XLSB via Python 
 url: /python-java/merger/merge-excel-to-xlsb/ 
-description: Merge EXCEL to XLSB Online for Free. Free Online EXCEL Merger. Merge EXCEL to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Merge EXCEL to XLSB Online for Free. Free Online EXCEL to XLSB Merger. Merge EXCEL to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

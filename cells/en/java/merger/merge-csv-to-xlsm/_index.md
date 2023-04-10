@@ -1,7 +1,7 @@
 ---
 title: Merge CSV to XLSM via Java 
 url: /java/merger/merge-csv-to-xlsm/ 
-description: Merge CSV to XLSM Online for Free. Free Online CSV Merger. Merge CSV to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Merge CSV to XLSM Online for Free. Free Online CSV to XLSM Merger. Merge CSV to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Merge XLS to PDF via Java 
 url: /java/merger/merge-xls-to-pdf/ 
-description: Merge XLS to PDF Online for Free. Free Online XLS Merger. Merge XLS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Merge XLS to PDF Online for Free. Free Online XLS to PDF Merger. Merge XLS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

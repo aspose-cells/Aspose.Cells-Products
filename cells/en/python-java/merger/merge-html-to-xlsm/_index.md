@@ -1,7 +1,7 @@
 ---
 title: Merge HTML to XLSM via Python 
 url: /python-java/merger/merge-html-to-xlsm/ 
-description: Merge HTML to XLSM Online for Free. Free Online HTML Merger. Merge HTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Merge HTML to XLSM Online for Free. Free Online HTML to XLSM Merger. Merge HTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

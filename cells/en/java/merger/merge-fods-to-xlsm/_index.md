@@ -1,7 +1,7 @@
 ---
 title: Merge FODS to XLSM via Java 
 url: /java/merger/merge-fods-to-xlsm/ 
-description: Merge FODS to XLSM Online for Free. Free Online FODS Merger. Merge FODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Merge FODS to XLSM Online for Free. Free Online FODS to XLSM Merger. Merge FODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

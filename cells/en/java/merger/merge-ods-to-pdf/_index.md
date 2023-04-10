@@ -1,7 +1,7 @@
 ---
 title: Merge ODS to PDF via Java 
 url: /java/merger/merge-ods-to-pdf/ 
-description: Merge ODS to PDF Online for Free. Free Online ODS Merger. Merge ODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Merge ODS to PDF Online for Free. Free Online ODS to PDF Merger. Merge ODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

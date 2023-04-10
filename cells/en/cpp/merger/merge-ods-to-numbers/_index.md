@@ -1,7 +1,7 @@
 ---
 title: Merge ODS to NUMBERS via C++ 
 url: /cpp/merger/merge-ods-to-numbers/ 
-description: Merge ODS to NUMBERS Online for Free. Free Online ODS Merger. Merge ODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Merge ODS to NUMBERS Online for Free. Free Online ODS to NUMBERS Merger. Merge ODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

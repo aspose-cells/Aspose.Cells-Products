@@ -1,7 +1,7 @@
 ---
 title: Merge HTM to ODS via Python 
 url: /python-java/merger/merge-htm-to-ods/ 
-description: Merge HTM to ODS Online for Free. Free Online HTM Merger. Merge HTM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Merge HTM to ODS Online for Free. Free Online HTM to ODS Merger. Merge HTM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

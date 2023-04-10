@@ -1,7 +1,7 @@
 ---
 title: Merge EXCEL to HTML via C# 
 url: /net/merger/merge-excel-to-html/ 
-description: Merge EXCEL to HTML Online for Free. Free Online EXCEL Merger. Merge EXCEL to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Merge EXCEL to HTML Online for Free. Free Online EXCEL to HTML Merger. Merge EXCEL to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

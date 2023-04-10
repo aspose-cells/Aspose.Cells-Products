@@ -1,7 +1,7 @@
 ---
 title: Merge SXC to PDF via Java 
 url: /java/merger/merge-sxc-to-pdf/ 
-description: Merge SXC to PDF Online for Free. Free Online SXC Merger. Merge SXC to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Merge SXC to PDF Online for Free. Free Online SXC to PDF Merger. Merge SXC to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

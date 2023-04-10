@@ -1,7 +1,7 @@
 ---
 title: Merge MHT to NUMBERS via C++ 
 url: /cpp/merger/merge-mht-to-numbers/ 
-description: Merge MHT to NUMBERS Online for Free. Free Online MHT Merger. Merge MHT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Merge MHT to NUMBERS Online for Free. Free Online MHT to NUMBERS Merger. Merge MHT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

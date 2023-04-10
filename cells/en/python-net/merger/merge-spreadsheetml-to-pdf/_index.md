@@ -1,7 +1,7 @@
 ---
 title: Merge SPREADSHEETML to PDF via Python 
 url: /python-net/merger/merge-spreadsheetml-to-pdf/ 
-description: Merge SPREADSHEETML to PDF Online for Free. Free Online SPREADSHEETML Merger. Merge SPREADSHEETML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Merge SPREADSHEETML to PDF Online for Free. Free Online SPREADSHEETML to PDF Merger. Merge SPREADSHEETML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

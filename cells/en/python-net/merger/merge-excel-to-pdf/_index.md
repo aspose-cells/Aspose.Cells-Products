@@ -1,7 +1,7 @@
 ---
 title: Merge EXCEL to PDF via Python 
 url: /python-net/merger/merge-excel-to-pdf/ 
-description: Merge EXCEL to PDF Online for Free. Free Online EXCEL Merger. Merge EXCEL to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Merge EXCEL to PDF Online for Free. Free Online EXCEL to PDF Merger. Merge EXCEL to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

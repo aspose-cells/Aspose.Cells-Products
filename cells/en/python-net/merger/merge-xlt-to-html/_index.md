@@ -1,7 +1,7 @@
 ---
 title: Merge XLT to HTML via Python 
 url: /python-net/merger/merge-xlt-to-html/ 
-description: Merge XLT to HTML Online for Free. Free Online XLT Merger. Merge XLT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Merge XLT to HTML Online for Free. Free Online XLT to HTML Merger. Merge XLT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

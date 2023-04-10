@@ -1,7 +1,7 @@
 ---
 title: Merge HTML to XLSB via C# 
 url: /net/merger/merge-html-to-xlsb/ 
-description: Merge HTML to XLSB Online for Free. Free Online HTML Merger. Merge HTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Merge HTML to XLSB Online for Free. Free Online HTML to XLSB Merger. Merge HTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

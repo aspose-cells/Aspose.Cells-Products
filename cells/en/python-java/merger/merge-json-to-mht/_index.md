@@ -1,7 +1,7 @@
 ---
 title: Merge JSON to MHT via Python 
 url: /python-java/merger/merge-json-to-mht/ 
-description: Merge JSON to MHT Online for Free. Free Online JSON Merger. Merge JSON to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Merge JSON to MHT Online for Free. Free Online JSON to MHT Merger. Merge JSON to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

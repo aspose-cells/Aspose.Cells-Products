@@ -1,7 +1,7 @@
 ---
 title: Merge ODS to XLS via Java 
 url: /java/merger/merge-ods-to-xls/ 
-description: Merge ODS to XLS Online for Free. Free Online ODS Merger. Merge ODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Merge ODS to XLS Online for Free. Free Online ODS to XLS Merger. Merge ODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

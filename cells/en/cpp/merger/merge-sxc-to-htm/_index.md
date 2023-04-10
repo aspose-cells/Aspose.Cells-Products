@@ -1,7 +1,7 @@
 ---
 title: Merge SXC to HTM via C++ 
 url: /cpp/merger/merge-sxc-to-htm/ 
-description: Merge SXC to HTM Online for Free. Free Online SXC Merger. Merge SXC to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Merge SXC to HTM Online for Free. Free Online SXC to HTM Merger. Merge SXC to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

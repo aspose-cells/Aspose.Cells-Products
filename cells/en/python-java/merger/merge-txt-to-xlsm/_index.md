@@ -1,7 +1,7 @@
 ---
 title: Merge TXT to XLSM via Python 
 url: /python-java/merger/merge-txt-to-xlsm/ 
-description: Merge TXT to XLSM Online for Free. Free Online TXT Merger. Merge TXT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Merge TXT to XLSM Online for Free. Free Online TXT to XLSM Merger. Merge TXT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

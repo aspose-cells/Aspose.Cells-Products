@@ -1,7 +1,7 @@
 ---
 title: Merge XLSM to PDF via C# 
 url: /net/merger/merge-xlsm-to-pdf/ 
-description: Merge XLSM to PDF Online for Free. Free Online XLSM Merger. Merge XLSM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Merge XLSM to PDF Online for Free. Free Online XLSM to PDF Merger. Merge XLSM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

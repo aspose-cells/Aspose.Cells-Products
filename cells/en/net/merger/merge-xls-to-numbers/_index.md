@@ -1,7 +1,7 @@
 ---
 title: Merge XLS to NUMBERS via C# 
 url: /net/merger/merge-xls-to-numbers/ 
-description: Merge XLS to NUMBERS Online for Free. Free Online XLS Merger. Merge XLS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Merge XLS to NUMBERS Online for Free. Free Online XLS to NUMBERS Merger. Merge XLS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

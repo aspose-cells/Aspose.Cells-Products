@@ -1,7 +1,7 @@
 ---
 title: Merge XLSB to HTM via Python 
 url: /python-net/merger/merge-xlsb-to-htm/ 
-description: Merge XLSB to HTM Online for Free. Free Online XLSB Merger. Merge XLSB to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Merge XLSB to HTM Online for Free. Free Online XLSB to HTM Merger. Merge XLSB to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

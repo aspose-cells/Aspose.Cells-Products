@@ -1,7 +1,7 @@
 ---
 title: Merge XLSM to HTM via Python 
 url: /python-java/merger/merge-xlsm-to-htm/ 
-description: Merge XLSM to HTM Online for Free. Free Online XLSM Merger. Merge XLSM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Merge XLSM to HTM Online for Free. Free Online XLSM to HTM Merger. Merge XLSM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

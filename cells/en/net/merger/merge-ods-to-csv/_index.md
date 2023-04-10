@@ -1,7 +1,7 @@
 ---
 title: Merge ODS to CSV via C# 
 url: /net/merger/merge-ods-to-csv/ 
-description: Merge ODS to CSV Online for Free. Free Online ODS Merger. Merge ODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Merge ODS to CSV Online for Free. Free Online ODS to CSV Merger. Merge ODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

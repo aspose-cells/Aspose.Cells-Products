@@ -1,7 +1,7 @@
 ---
 title: Merge XLSM to MHTML via Python 
 url: /python-net/merger/merge-xlsm-to-mhtml/ 
-description: Merge XLSM to MHTML Online for Free. Free Online XLSM Merger. Merge XLSM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Merge XLSM to MHTML Online for Free. Free Online XLSM to MHTML Merger. Merge XLSM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

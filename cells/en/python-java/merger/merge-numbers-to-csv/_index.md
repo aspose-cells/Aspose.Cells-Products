@@ -1,7 +1,7 @@
 ---
 title: Merge NUMBERS to CSV via Python 
 url: /python-java/merger/merge-numbers-to-csv/ 
-description: Merge NUMBERS to CSV Online for Free. Free Online NUMBERS Merger. Merge NUMBERS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Merge NUMBERS to CSV Online for Free. Free Online NUMBERS to CSV Merger. Merge NUMBERS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

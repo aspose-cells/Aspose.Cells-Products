@@ -1,7 +1,7 @@
 ---
 title: Merge HTML to CSV via Python 
 url: /python-net/merger/merge-html-to-csv/ 
-description: Merge HTML to CSV Online for Free. Free Online HTML Merger. Merge HTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Merge HTML to CSV Online for Free. Free Online HTML to CSV Merger. Merge HTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

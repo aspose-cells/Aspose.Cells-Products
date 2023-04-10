@@ -1,7 +1,7 @@
 ---
 title: Merge FODS to MHT via Python 
 url: /python-java/merger/merge-fods-to-mht/ 
-description: Merge FODS to MHT Online for Free. Free Online FODS Merger. Merge FODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Merge FODS to MHT Online for Free. Free Online FODS to MHT Merger. Merge FODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

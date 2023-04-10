@@ -1,7 +1,7 @@
 ---
 title: Merge SXC to XLSB via C# 
 url: /net/merger/merge-sxc-to-xlsb/ 
-description: Merge SXC to XLSB Online for Free. Free Online SXC Merger. Merge SXC to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Merge SXC to XLSB Online for Free. Free Online SXC to XLSB Merger. Merge SXC to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

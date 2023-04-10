@@ -1,7 +1,7 @@
 ---
 title: Merge TSV to TSV via Python 
 url: /python-java/merger/merge-tsv-to-tsv/ 
-description: Merge TSV to TSV Online for Free. Free Online TSV Merger. Merge TSV to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Merge TSV to TSV Online for Free. Free Online TSV to TSV Merger. Merge TSV to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

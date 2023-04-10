@@ -1,7 +1,7 @@
 ---
 title: Merge EXCEL to MHTML via C# 
 url: /net/merger/merge-excel-to-mhtml/ 
-description: Merge EXCEL to MHTML Online for Free. Free Online EXCEL Merger. Merge EXCEL to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Merge EXCEL to MHTML Online for Free. Free Online EXCEL to MHTML Merger. Merge EXCEL to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Merge NUMBERS to XLS via Python 
 url: /python-java/merger/merge-numbers-to-xls/ 
-description: Merge NUMBERS to XLS Online for Free. Free Online NUMBERS Merger. Merge NUMBERS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Merge NUMBERS to XLS Online for Free. Free Online NUMBERS to XLS Merger. Merge NUMBERS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

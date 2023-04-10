@@ -1,7 +1,7 @@
 ---
 title: Merge EXCEL to ODS via C++ 
 url: /cpp/merger/merge-excel-to-ods/ 
-description: Merge EXCEL to ODS Online for Free. Free Online EXCEL Merger. Merge EXCEL to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Merge EXCEL to ODS Online for Free. Free Online EXCEL to ODS Merger. Merge EXCEL to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Merge SPREADSHEETML to MHTML via Python 
 url: /python-java/merger/merge-spreadsheetml-to-mhtml/ 
-description: Merge SPREADSHEETML to MHTML Online for Free. Free Online SPREADSHEETML Merger. Merge SPREADSHEETML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Merge SPREADSHEETML to MHTML Online for Free. Free Online SPREADSHEETML to MHTML Merger. Merge SPREADSHEETML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

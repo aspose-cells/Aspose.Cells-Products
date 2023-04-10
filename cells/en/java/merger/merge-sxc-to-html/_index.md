@@ -1,7 +1,7 @@
 ---
 title: Merge SXC to HTML via Java 
 url: /java/merger/merge-sxc-to-html/ 
-description: Merge SXC to HTML Online for Free. Free Online SXC Merger. Merge SXC to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Merge SXC to HTML Online for Free. Free Online SXC to HTML Merger. Merge SXC to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

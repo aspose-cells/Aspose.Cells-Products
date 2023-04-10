@@ -1,7 +1,7 @@
 ---
 title: Merge NUMBERS to ODS via C# 
 url: /net/merger/merge-numbers-to-ods/ 
-description: Merge NUMBERS to ODS Online for Free. Free Online NUMBERS Merger. Merge NUMBERS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Merge NUMBERS to ODS Online for Free. Free Online NUMBERS to ODS Merger. Merge NUMBERS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Merge MHTML to XLSB via C# 
 url: /net/merger/merge-mhtml-to-xlsb/ 
-description: Merge MHTML to XLSB Online for Free. Free Online MHTML Merger. Merge MHTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Merge MHTML to XLSB Online for Free. Free Online MHTML to XLSB Merger. Merge MHTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

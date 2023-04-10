@@ -1,7 +1,7 @@
 ---
 title: Merge NUMBERS to NUMBERS via C++ 
 url: /cpp/merger/merge-numbers-to-numbers/ 
-description: Merge NUMBERS to NUMBERS Online for Free. Free Online NUMBERS Merger. Merge NUMBERS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Merge NUMBERS to NUMBERS Online for Free. Free Online NUMBERS to NUMBERS Merger. Merge NUMBERS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Merge FODS to XLSX via C++ 
 url: /cpp/merger/merge-fods-to-xlsx/ 
-description: Merge FODS to XLSX Online for Free. Free Online FODS Merger. Merge FODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Merge FODS to XLSX Online for Free. Free Online FODS to XLSX Merger. Merge FODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

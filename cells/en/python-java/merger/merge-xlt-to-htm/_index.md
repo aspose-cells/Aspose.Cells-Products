@@ -1,7 +1,7 @@
 ---
 title: Merge XLT to HTM via Python 
 url: /python-java/merger/merge-xlt-to-htm/ 
-description: Merge XLT to HTM Online for Free. Free Online XLT Merger. Merge XLT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Merge XLT to HTM Online for Free. Free Online XLT to HTM Merger. Merge XLT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

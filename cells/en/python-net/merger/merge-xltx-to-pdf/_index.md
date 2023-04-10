@@ -1,7 +1,7 @@
 ---
 title: Merge XLTX to PDF via Python 
 url: /python-net/merger/merge-xltx-to-pdf/ 
-description: Merge XLTX to PDF Online for Free. Free Online XLTX Merger. Merge XLTX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Merge XLTX to PDF Online for Free. Free Online XLTX to PDF Merger. Merge XLTX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

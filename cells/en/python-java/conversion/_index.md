@@ -1,5 +1,5 @@
 ---
-title: Microsoft Excel File Conversion via Python 
+title: Microsoft Excel File Conversion Using Python via Java
 
 description: Convert Excel XLS, XLSX, ODS, CSV to PDF, XPS, HTML, JPEG, HTML and many other popular formats with just few lines of Python code.
 ---
@@ -22,7 +22,7 @@ workbook = Workbook("Book1.xls")
 // save as XLSX, ODS, SXC & FODS formats
 workbook.save("output.xlsx", SaveFormat.XLSX);
 workbook.save("output.ods", SaveFormat.ODS);
-workbook.save("output.scx", SaveFormat.SXC);
+workbook.save("output.sxc", SaveFormat.SXC);
 workbook.save("output.fods", SaveFormat.FODS);
 ```
 {{% /blocks/products/pf/feature-page-code  %}}
@@ -124,3 +124,5 @@ workbook.save("output.pptx", pptxOptions)
 ```
 {{% /blocks/products/pf/feature-page-code %}}
 {{% /blocks/products/pf/feature-page-section %}}
+
+{{< blocks/products/pf/feature-page-options pairs="xls-to-pptx xlsx-to-pptx xlsb-to-pptx xlsm-to-pptx html-to-pptx mhtml-to-pptx ods-to-pptx tsv-to-pptx csv-to-pptx json-to-pptx numbers-to-pptx prn-to-pptx xlt-to-pptx xltx-to-pptx xltm-to-pptx ots-to-pptx sxc-to-pptx png-to-pptx jpg-to-pptx txt-to-pptx xls-to-docx xlsx-to-docx xlsb-to-docx xlsm-to-docx html-to-docx mhtml-to-docx ods-to-docx tsv-to-docx csv-to-docx json-to-docx numbers-to-docx prn-to-docx xlt-to-docx xltx-to-docx xltm-to-docx ots-to-docx sxc-to-docx png-to-docx jpg-to-docx txt-to-docx" >}}

@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to EMF Java 
-description: Convert SXC to EMF Online for Free. Free Online SXC Converter. Convert SXC to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert SXC to EMF Online for Free. Free Online SXC to EMF Converter. Java SXC to EMF. SXC to EMF via Java.
 keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC to Image
 ---
 

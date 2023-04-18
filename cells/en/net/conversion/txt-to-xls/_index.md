@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to XLS C#
-description: Convert TXT to XLS Online for Free. Free Online TXT Converter. Convert TXT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert TXT to XLS Online for Free. Free Online TXT to XLS Converter. C# TXT to XLS. TXT to XLS via C#.
 keywords: Convert TXT, TXT Converter, TXT to PDF, TXT to Word, TXT to PPT, TXT to Image
 ---
 

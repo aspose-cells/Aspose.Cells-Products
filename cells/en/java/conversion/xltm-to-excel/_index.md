@@ -1,6 +1,6 @@
 ---
 title: Convert XLTM to EXCEL Java 
-description: Convert XLTM to EXCEL Online for Free. Free Online XLTM Converter. Convert XLTM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert XLTM to EXCEL Online for Free. Free Online XLTM to EXCEL Converter. Java XLTM to EXCEL. XLTM to EXCEL via Java.
 keywords: Convert XLTM, XLTM Converter, XLTM to PDF, XLTM to Word, XLTM to PPT, XLTM to Image
 ---
 

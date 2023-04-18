@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to SVG C#
-description: Convert ODS to SVG Online for Free. Free Online ODS Converter. Convert ODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert ODS to SVG Online for Free. Free Online ODS to SVG Converter. C# ODS to SVG. ODS to SVG via C#.
 keywords: Convert ODS, ODS Converter, ODS to PDF, ODS to Word, ODS to PPT, ODS to Image
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Convert XLSM to ET C++
-description: Convert XLSM to ET Online for Free. Free Online XLSM Converter. Convert XLSM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert XLSM to ET Online for Free. Free Online XLSM to ET Converter. C++ XLSM to ET. XLSM to ET via C++.
 keywords: Convert XLSM, XLSM Converter, XLSM to PDF, XLSM to Word, XLSM to PPT, XLSM to Image
 ---
 

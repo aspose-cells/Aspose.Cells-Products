@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to XLSB C#
-description: Convert SPREADSHEETML to XLSB Online for Free. Free Online SPREADSHEETML Converter. Convert SPREADSHEETML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert SPREADSHEETML to XLSB Online for Free. Free Online SPREADSHEETML to XLSB Converter. C# SPREADSHEETML to XLSB. SPREADSHEETML to XLSB via C#.
 keywords: Convert SPREADSHEETML, SPREADSHEETML Converter, SPREADSHEETML to PDF, SPREADSHEETML to Word, SPREADSHEETML to PPT, SPREADSHEETML to Image
 ---
 

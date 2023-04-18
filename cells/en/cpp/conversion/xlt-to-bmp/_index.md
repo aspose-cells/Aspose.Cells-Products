@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to BMP C++
-description: Convert XLT to BMP Online for Free. Free Online XLT Converter. Convert XLT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert XLT to BMP Online for Free. Free Online XLT to BMP Converter. C++ XLT to BMP. XLT to BMP via C++.
 keywords: Convert XLT, XLT Converter, XLT to PDF, XLT to Word, XLT to PPT, XLT to Image
 ---
 

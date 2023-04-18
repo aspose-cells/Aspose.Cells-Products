@@ -1,6 +1,6 @@
 ---
 title: Convert JPEG to TSV Python via Python
-description: Convert JPEG to TSV Online for Free. Free Online JPEG Converter. Convert JPEG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert JPEG to TSV Online for Free. Free Online JPEG to TSV Converter. Python JPEG to TSV. JPEG to TSV via Python.
 keywords: Convert JPEG, JPEG Converter, JPEG to PDF, JPEG to Word, JPEG to PPT, JPEG to Image
 ---
 

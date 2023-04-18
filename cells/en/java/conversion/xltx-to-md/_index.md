@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to MD Java 
-description: Convert XLTX to MD Online for Free. Free Online XLTX Converter. Convert XLTX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert XLTX to MD Online for Free. Free Online XLTX to MD Converter. Java XLTX to MD. XLTX to MD via Java.
 keywords: Convert XLTX, XLTX Converter, XLTX to PDF, XLTX to Word, XLTX to PPT, XLTX to Image
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Convert JPEG to TIFF Python via Python
-description: Convert JPEG to TIFF Online for Free. Free Online JPEG Converter. Convert JPEG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert JPEG to TIFF Online for Free. Free Online JPEG to TIFF Converter. Python JPEG to TIFF. JPEG to TIFF via Python.
 keywords: Convert JPEG, JPEG Converter, JPEG to PDF, JPEG to Word, JPEG to PPT, JPEG to Image
 ---
 

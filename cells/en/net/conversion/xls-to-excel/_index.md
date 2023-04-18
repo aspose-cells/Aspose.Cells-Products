@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to EXCEL C#
-description: Convert XLS to EXCEL Online for Free. Free Online XLS Converter. Convert XLS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert XLS to EXCEL Online for Free. Free Online XLS to EXCEL Converter. C# XLS to EXCEL. XLS to EXCEL via C#.
 keywords: Convert XLS, XLS Converter, XLS to PDF, XLS to Word, XLS to PPT, XLS to Image
 ---
 

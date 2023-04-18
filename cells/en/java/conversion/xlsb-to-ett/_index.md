@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to ETT Java 
-description: Convert XLSB to ETT Online for Free. Free Online XLSB Converter. Convert XLSB to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert XLSB to ETT Online for Free. Free Online XLSB to ETT Converter. Java XLSB to ETT. XLSB to ETT via Java.
 keywords: Convert XLSB, XLSB Converter, XLSB to PDF, XLSB to Word, XLSB to PPT, XLSB to Image
 ---
 

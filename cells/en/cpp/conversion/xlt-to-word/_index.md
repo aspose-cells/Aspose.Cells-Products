@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to WORD C++
-description: Convert XLT to WORD Online for Free. Free Online XLT Converter. Convert XLT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert XLT to WORD Online for Free. Free Online XLT to WORD Converter. C++ XLT to WORD. XLT to WORD via C++.
 keywords: Convert XLT, XLT Converter, XLT to PDF, XLT to Word, XLT to PPT, XLT to Image
 ---
 

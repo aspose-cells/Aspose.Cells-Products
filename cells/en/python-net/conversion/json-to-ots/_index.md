@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to OTS Python via Python
-description: Convert JSON to OTS Online for Free. Free Online JSON Converter. Convert JSON to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert JSON to OTS Online for Free. Free Online JSON to OTS Converter. Python JSON to OTS. JSON to OTS via Python.
 keywords: Convert JSON, JSON Converter, JSON to PDF, JSON to Word, JSON to PPT, JSON to Image
 ---
 

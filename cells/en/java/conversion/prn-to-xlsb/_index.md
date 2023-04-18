@@ -1,6 +1,6 @@
 ---
 title: Convert PRN to XLSB Java 
-description: Convert PRN to XLSB Online for Free. Free Online PRN Converter. Convert PRN to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert PRN to XLSB Online for Free. Free Online PRN to XLSB Converter. Java PRN to XLSB. PRN to XLSB via Java.
 keywords: Convert PRN, PRN Converter, PRN to PDF, PRN to Word, PRN to PPT, PRN to Image
 ---
 

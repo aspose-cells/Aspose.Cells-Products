@@ -1,6 +1,6 @@
 ---
 title: Convert PRN to POWERPOINT Python via Python
-description: Convert PRN to POWERPOINT Online for Free. Free Online PRN Converter. Convert PRN to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert PRN to POWERPOINT Online for Free. Free Online PRN to POWERPOINT Converter. Python PRN to POWERPOINT. PRN to POWERPOINT via Python.
 keywords: Convert PRN, PRN Converter, PRN to PDF, PRN to Word, PRN to PPT, PRN to Image
 ---
 

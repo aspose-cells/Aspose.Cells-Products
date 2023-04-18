@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to WORD C++
-description: Convert NUMBERS to WORD Online for Free. Free Online NUMBERS Converter. Convert NUMBERS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert NUMBERS to WORD Online for Free. Free Online NUMBERS to WORD Converter. C++ NUMBERS to WORD. NUMBERS to WORD via C++.
 keywords: Convert NUMBERS, NUMBERS Converter, NUMBERS to PDF, NUMBERS to Word, NUMBERS to PPT, NUMBERS to Image
 ---
 

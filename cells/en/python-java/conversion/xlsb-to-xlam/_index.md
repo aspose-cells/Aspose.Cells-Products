@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to XLAM Python via Python
-description: Convert XLSB to XLAM Online for Free. Free Online XLSB Converter. Convert XLSB to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert XLSB to XLAM Online for Free. Free Online XLSB to XLAM Converter. Python XLSB to XLAM. XLSB to XLAM via Python.
 keywords: Convert XLSB, XLSB Converter, XLSB to PDF, XLSB to Word, XLSB to PPT, XLSB to Image
 ---
 

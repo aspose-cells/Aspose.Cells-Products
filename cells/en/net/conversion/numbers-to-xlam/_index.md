@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to XLAM C#
-description: Convert NUMBERS to XLAM Online for Free. Free Online NUMBERS Converter. Convert NUMBERS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert NUMBERS to XLAM Online for Free. Free Online NUMBERS to XLAM Converter. C# NUMBERS to XLAM. NUMBERS to XLAM via C#.
 keywords: Convert NUMBERS, NUMBERS Converter, NUMBERS to PDF, NUMBERS to Word, NUMBERS to PPT, NUMBERS to Image
 ---
 

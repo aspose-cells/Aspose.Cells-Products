@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to FODS Java 
-description: Convert NUMBERS to FODS Online for Free. Free Online NUMBERS Converter. Convert NUMBERS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert NUMBERS to FODS Online for Free. Free Online NUMBERS to FODS Converter. Java NUMBERS to FODS. NUMBERS to FODS via Java.
 keywords: Convert NUMBERS, NUMBERS Converter, NUMBERS to PDF, NUMBERS to Word, NUMBERS to PPT, NUMBERS to Image
 ---
 

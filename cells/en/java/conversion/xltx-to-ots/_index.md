@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to OTS Java 
-description: Convert XLTX to OTS Online for Free. Free Online XLTX Converter. Convert XLTX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert XLTX to OTS Online for Free. Free Online XLTX to OTS Converter. Java XLTX to OTS. XLTX to OTS via Java.
 keywords: Convert XLTX, XLTX Converter, XLTX to PDF, XLTX to Word, XLTX to PPT, XLTX to Image
 ---
 

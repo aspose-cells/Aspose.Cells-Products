@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to CSV C#
-description: Convert MHTML to CSV Online for Free. Free Online MHTML Converter. Convert MHTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert MHTML to CSV Online for Free. Free Online MHTML to CSV Converter. C# MHTML to CSV. MHTML to CSV via C#.
 keywords: Convert MHTML, MHTML Converter, MHTML to PDF, MHTML to Word, MHTML to PPT, MHTML to Image
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to XLTX Java 
-description: Convert NUMBERS to XLTX Online for Free. Free Online NUMBERS Converter. Convert NUMBERS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert NUMBERS to XLTX Online for Free. Free Online NUMBERS to XLTX Converter. Java NUMBERS to XLTX. NUMBERS to XLTX via Java.
 keywords: Convert NUMBERS, NUMBERS Converter, NUMBERS to PDF, NUMBERS to Word, NUMBERS to PPT, NUMBERS to Image
 ---
 

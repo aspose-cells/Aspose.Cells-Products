@@ -1,6 +1,6 @@
 ---
 title: Convert TSV to OTS Python via Python
-description: Convert TSV to OTS Online for Free. Free Online TSV Converter. Convert TSV to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert TSV to OTS Online for Free. Free Online TSV to OTS Converter. Python TSV to OTS. TSV to OTS via Python.
 keywords: Convert TSV, TSV Converter, TSV to PDF, TSV to Word, TSV to PPT, TSV to Image
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to SXC C#
-description: Convert XLSB to SXC Online for Free. Free Online XLSB Converter. Convert XLSB to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert XLSB to SXC Online for Free. Free Online XLSB to SXC Converter. C# XLSB to SXC. XLSB to SXC via C#.
 keywords: Convert XLSB, XLSB Converter, XLSB to PDF, XLSB to Word, XLSB to PPT, XLSB to Image
 ---
 

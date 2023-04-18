@@ -1,6 +1,6 @@
 ---
 title: Convert TSV to DOCX Java 
-description: Convert TSV to DOCX Online for Free. Free Online TSV Converter. Convert TSV to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert TSV to DOCX Online for Free. Free Online TSV to DOCX Converter. Java TSV to DOCX. TSV to DOCX via Java.
 keywords: Convert TSV, TSV Converter, TSV to PDF, TSV to Word, TSV to PPT, TSV to Image
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to DIF C#
-description: Convert HTML to DIF Online for Free. Free Online HTML Converter. Convert HTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert HTML to DIF Online for Free. Free Online HTML to DIF Converter. C# HTML to DIF. HTML to DIF via C#.
 keywords: Convert HTML, HTML Converter, HTML to PDF, HTML to Word, HTML to PPT, HTML to Image
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to XLTX C++
-description: Convert ODS to XLTX Online for Free. Free Online ODS Converter. Convert ODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert ODS to XLTX Online for Free. Free Online ODS to XLTX Converter. C++ ODS to XLTX. ODS to XLTX via C++.
 keywords: Convert ODS, ODS Converter, ODS to PDF, ODS to Word, ODS to PPT, ODS to Image
 ---
 

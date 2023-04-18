@@ -1,6 +1,6 @@
 ---
 title: Convert XLSX to MD Java 
-description: Convert XLSX to MD Online for Free. Free Online XLSX Converter. Convert XLSX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert XLSX to MD Online for Free. Free Online XLSX to MD Converter. Java XLSX to MD. XLSX to MD via Java.
 keywords: Convert XLSX, XLSX Converter, XLSX to PDF, XLSX to Word, XLSX to PPT, XLSX to Image
 ---
 

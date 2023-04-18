@@ -1,6 +1,6 @@
 ---
 title: Convert PNG to PDF Java 
-description: Convert PNG to PDF Online for Free. Free Online PNG Converter. Convert PNG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert PNG to PDF Online for Free. Free Online PNG to PDF Converter. Java PNG to PDF. PNG to PDF via Java.
 keywords: Convert PNG, PNG Converter, PNG to PDF, PNG to Word, PNG to PPT, PNG to Image
 ---
 

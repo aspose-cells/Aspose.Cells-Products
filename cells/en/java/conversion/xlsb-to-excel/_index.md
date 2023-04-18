@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to EXCEL Java 
-description: Convert XLSB to EXCEL Online for Free. Free Online XLSB Converter. Convert XLSB to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert XLSB to EXCEL Online for Free. Free Online XLSB to EXCEL Converter. Java XLSB to EXCEL. XLSB to EXCEL via Java.
 keywords: Convert XLSB, XLSB Converter, XLSB to PDF, XLSB to Word, XLSB to PPT, XLSB to Image
 ---
 

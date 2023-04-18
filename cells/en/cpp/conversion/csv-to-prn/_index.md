@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to PRN C++
-description: Convert CSV to PRN Online for Free. Free Online CSV Converter. Convert CSV to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert CSV to PRN Online for Free. Free Online CSV to PRN Converter. C++ CSV to PRN. CSV to PRN via C++.
 keywords: Convert CSV, CSV Converter, CSV to PDF, CSV to Word, CSV to PPT, CSV to Image
 ---
 

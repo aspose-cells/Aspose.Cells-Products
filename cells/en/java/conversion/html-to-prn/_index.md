@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to PRN Java 
-description: Convert HTML to PRN Online for Free. Free Online HTML Converter. Convert HTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert HTML to PRN Online for Free. Free Online HTML to PRN Converter. Java HTML to PRN. HTML to PRN via Java.
 keywords: Convert HTML, HTML Converter, HTML to PDF, HTML to Word, HTML to PPT, HTML to Image
 ---
 

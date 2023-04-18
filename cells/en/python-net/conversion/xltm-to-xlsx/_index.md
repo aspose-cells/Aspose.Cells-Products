@@ -1,6 +1,6 @@
 ---
 title: Convert XLTM to XLSX Python via Python
-description: Convert XLTM to XLSX Online for Free. Free Online XLTM Converter. Convert XLTM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert XLTM to XLSX Online for Free. Free Online XLTM to XLSX Converter. Python XLTM to XLSX. XLTM to XLSX via Python.
 keywords: Convert XLTM, XLTM Converter, XLTM to PDF, XLTM to Word, XLTM to PPT, XLTM to Image
 ---
 

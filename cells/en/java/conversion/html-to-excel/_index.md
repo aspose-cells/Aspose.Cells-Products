@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to EXCEL Java 
-description: Convert HTML to EXCEL Online for Free. Free Online HTML Converter. Convert HTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert HTML to EXCEL Online for Free. Free Online HTML to EXCEL Converter. Java HTML to EXCEL. HTML to EXCEL via Java.
 keywords: Convert HTML, HTML Converter, HTML to PDF, HTML to Word, HTML to PPT, HTML to Image
 ---
 

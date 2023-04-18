@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to XLSX Java 
-description: Convert TXT to XLSX Online for Free. Free Online TXT Converter. Convert TXT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert TXT to XLSX Online for Free. Free Online TXT to XLSX Converter. Java TXT to XLSX. TXT to XLSX via Java.
 keywords: Convert TXT, TXT Converter, TXT to PDF, TXT to Word, TXT to PPT, TXT to Image
 ---
 

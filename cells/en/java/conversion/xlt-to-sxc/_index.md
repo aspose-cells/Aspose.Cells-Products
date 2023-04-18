@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to SXC Java 
-description: Convert XLT to SXC Online for Free. Free Online XLT Converter. Convert XLT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert XLT to SXC Online for Free. Free Online XLT to SXC Converter. Java XLT to SXC. XLT to SXC via Java.
 keywords: Convert XLT, XLT Converter, XLT to PDF, XLT to Word, XLT to PPT, XLT to Image
 ---
 

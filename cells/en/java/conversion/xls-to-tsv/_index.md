@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to TSV Java 
-description: Convert XLS to TSV Online for Free. Free Online XLS Converter. Convert XLS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert XLS to TSV Online for Free. Free Online XLS to TSV Converter. Java XLS to TSV. XLS to TSV via Java.
 keywords: Convert XLS, XLS Converter, XLS to PDF, XLS to Word, XLS to PPT, XLS to Image
 ---
 

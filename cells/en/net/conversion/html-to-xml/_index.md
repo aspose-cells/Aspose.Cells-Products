@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to XML C#
-description: Convert HTML to XML Online for Free. Free Online HTML Converter. Convert HTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert HTML to XML Online for Free. Free Online HTML to XML Converter. C# HTML to XML. HTML to XML via C#.
 keywords: Convert HTML, HTML Converter, HTML to PDF, HTML to Word, HTML to PPT, HTML to Image
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Convert PRN to ODS Java 
-description: Convert PRN to ODS Online for Free. Free Online PRN Converter. Convert PRN to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert PRN to ODS Online for Free. Free Online PRN to ODS Converter. Java PRN to ODS. PRN to ODS via Java.
 keywords: Convert PRN, PRN Converter, PRN to PDF, PRN to Word, PRN to PPT, PRN to Image
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to XPS Python via Python
-description: Convert XLS to XPS Online for Free. Free Online XLS Converter. Convert XLS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert XLS to XPS Online for Free. Free Online XLS to XPS Converter. Python XLS to XPS. XLS to XPS via Python.
 keywords: Convert XLS, XLS Converter, XLS to PDF, XLS to Word, XLS to PPT, XLS to Image
 ---
 

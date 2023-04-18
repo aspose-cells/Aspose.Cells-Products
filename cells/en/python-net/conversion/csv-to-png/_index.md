@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to PNG Python via Python
-description: Convert CSV to PNG Online for Free. Free Online CSV Converter. Convert CSV to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert CSV to PNG Online for Free. Free Online CSV to PNG Converter. Python CSV to PNG. CSV to PNG via Python.
 keywords: Convert CSV, CSV Converter, CSV to PDF, CSV to Word, CSV to PPT, CSV to Image
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Convert XLSM to JSON Java 
-description: Convert XLSM to JSON Online for Free. Free Online XLSM Converter. Convert XLSM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert XLSM to JSON Online for Free. Free Online XLSM to JSON Converter. Java XLSM to JSON. XLSM to JSON via Java.
 keywords: Convert XLSM, XLSM Converter, XLSM to PDF, XLSM to Word, XLSM to PPT, XLSM to Image
 ---
 

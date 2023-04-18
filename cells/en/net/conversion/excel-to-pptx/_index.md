@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to PPTX C#
-description: Convert EXCEL to PPTX Online for Free. Free Online EXCEL Converter. Convert EXCEL to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert EXCEL to PPTX Online for Free. Free Online EXCEL to PPTX Converter. C# EXCEL to PPTX. EXCEL to PPTX via C#.
 keywords: Convert EXCEL, EXCEL Converter, EXCEL to PDF, EXCEL to Word, EXCEL to PPT, EXCEL to Image
 ---
 

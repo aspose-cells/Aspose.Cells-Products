@@ -1,6 +1,6 @@
 ---
 title: Convert PNG to JPG Java 
-description: Convert PNG to JPG Online for Free. Free Online PNG Converter. Convert PNG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert PNG to JPG Online for Free. Free Online PNG to JPG Converter. Java PNG to JPG. PNG to JPG via Java.
 keywords: Convert PNG, PNG Converter, PNG to PDF, PNG to Word, PNG to PPT, PNG to Image
 ---
 

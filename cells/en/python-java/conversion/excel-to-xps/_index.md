@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to XPS Python via Python
-description: Convert EXCEL to XPS Online for Free. Free Online EXCEL Converter. Convert EXCEL to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert EXCEL to XPS Online for Free. Free Online EXCEL to XPS Converter. Python EXCEL to XPS. EXCEL to XPS via Python.
 keywords: Convert EXCEL, EXCEL Converter, EXCEL to PDF, EXCEL to Word, EXCEL to PPT, EXCEL to Image
 ---
 

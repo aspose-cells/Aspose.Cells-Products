@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to SVG Java 
-description: Convert XLSB to SVG Online for Free. Free Online XLSB Converter. Convert XLSB to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert XLSB to SVG Online for Free. Free Online XLSB to SVG Converter. Java XLSB to SVG. XLSB to SVG via Java.
 keywords: Convert XLSB, XLSB Converter, XLSB to PDF, XLSB to Word, XLSB to PPT, XLSB to Image
 ---
 

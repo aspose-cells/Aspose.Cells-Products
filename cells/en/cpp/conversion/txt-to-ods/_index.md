@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to ODS C++
-description: Convert TXT to ODS Online for Free. Free Online TXT Converter. Convert TXT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert TXT to ODS Online for Free. Free Online TXT to ODS Converter. C++ TXT to ODS. TXT to ODS via C++.
 keywords: Convert TXT, TXT Converter, TXT to PDF, TXT to Word, TXT to PPT, TXT to Image
 ---
 

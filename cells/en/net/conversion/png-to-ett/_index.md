@@ -1,6 +1,6 @@
 ---
 title: Convert PNG to ETT C#
-description: Convert PNG to ETT Online for Free. Free Online PNG Converter. Convert PNG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert PNG to ETT Online for Free. Free Online PNG to ETT Converter. C# PNG to ETT. PNG to ETT via C#.
 keywords: Convert PNG, PNG Converter, PNG to PDF, PNG to Word, PNG to PPT, PNG to Image
 ---
 

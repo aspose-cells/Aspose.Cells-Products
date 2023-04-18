@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to DOCX C++
-description: Convert NUMBERS to DOCX Online for Free. Free Online NUMBERS Converter. Convert NUMBERS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert NUMBERS to DOCX Online for Free. Free Online NUMBERS to DOCX Converter. C++ NUMBERS to DOCX. NUMBERS to DOCX via C++.
 keywords: Convert NUMBERS, NUMBERS Converter, NUMBERS to PDF, NUMBERS to Word, NUMBERS to PPT, NUMBERS to Image
 ---
 

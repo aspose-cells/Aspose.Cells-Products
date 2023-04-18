@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to XLSB Python via Python
-description: Convert EXCEL to XLSB Online for Free. Free Online EXCEL Converter. Convert EXCEL to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert EXCEL to XLSB Online for Free. Free Online EXCEL to XLSB Converter. Python EXCEL to XLSB. EXCEL to XLSB via Python.
 keywords: Convert EXCEL, EXCEL Converter, EXCEL to PDF, EXCEL to Word, EXCEL to PPT, EXCEL to Image
 ---
 

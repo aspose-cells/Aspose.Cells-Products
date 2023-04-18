@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to HTML Python via Python
-description: Convert SPREADSHEETML to HTML Online for Free. Free Online SPREADSHEETML Converter. Convert SPREADSHEETML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert SPREADSHEETML to HTML Online for Free. Free Online SPREADSHEETML to HTML Converter. Python SPREADSHEETML to HTML. SPREADSHEETML to HTML via Python.
 keywords: Convert SPREADSHEETML, SPREADSHEETML Converter, SPREADSHEETML to PDF, SPREADSHEETML to Word, SPREADSHEETML to PPT, SPREADSHEETML to Image
 ---
 

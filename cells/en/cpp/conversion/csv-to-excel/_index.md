@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to EXCEL C++
-description: Convert CSV to EXCEL Online for Free. Free Online CSV Converter. Convert CSV to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert CSV to EXCEL Online for Free. Free Online CSV to EXCEL Converter. C++ CSV to EXCEL. CSV to EXCEL via C++.
 keywords: Convert CSV, CSV Converter, CSV to PDF, CSV to Word, CSV to PPT, CSV to Image
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to JPG Python via Python
-description: Convert ODS to JPG Online for Free. Free Online ODS Converter. Convert ODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert ODS to JPG Online for Free. Free Online ODS to JPG Converter. Python ODS to JPG. ODS to JPG via Python.
 keywords: Convert ODS, ODS Converter, ODS to PDF, ODS to Word, ODS to PPT, ODS to Image
 ---
 

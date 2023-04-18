@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to SPREADSHEETML C++
-description: Convert XLS to SPREADSHEETML Online for Free. Free Online XLS Converter. Convert XLS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert XLS to SPREADSHEETML Online for Free. Free Online XLS to SPREADSHEETML Converter. C++ XLS to SPREADSHEETML. XLS to SPREADSHEETML via C++.
 keywords: Convert XLS, XLS Converter, XLS to PDF, XLS to Word, XLS to PPT, XLS to Image
 ---
 

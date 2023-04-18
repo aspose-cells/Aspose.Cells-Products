@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to ETT Java 
-description: Convert JSON to ETT Online for Free. Free Online JSON Converter. Convert JSON to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert JSON to ETT Online for Free. Free Online JSON to ETT Converter. Java JSON to ETT. JSON to ETT via Java.
 keywords: Convert JSON, JSON Converter, JSON to PDF, JSON to Word, JSON to PPT, JSON to Image
 ---
 

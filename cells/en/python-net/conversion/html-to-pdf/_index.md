@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to PDF Python via Python
-description: Convert HTML to PDF Online for Free. Free Online HTML Converter. Convert HTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert HTML to PDF Online for Free. Free Online HTML to PDF Converter. Python HTML to PDF. HTML to PDF via Python.
 keywords: Convert HTML, HTML Converter, HTML to PDF, HTML to Word, HTML to PPT, HTML to Image
 ---
 

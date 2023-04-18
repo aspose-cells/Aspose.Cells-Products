@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to GIF C++
-description: Convert FODS to GIF Online for Free. Free Online FODS Converter. Convert FODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert FODS to GIF Online for Free. Free Online FODS to GIF Converter. C++ FODS to GIF. FODS to GIF via C++.
 keywords: Convert FODS, FODS Converter, FODS to PDF, FODS to Word, FODS to PPT, FODS to Image
 ---
 

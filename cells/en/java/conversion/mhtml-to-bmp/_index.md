@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to BMP Java 
-description: Convert MHTML to BMP Online for Free. Free Online MHTML Converter. Convert MHTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert MHTML to BMP Online for Free. Free Online MHTML to BMP Converter. Java MHTML to BMP. MHTML to BMP via Java.
 keywords: Convert MHTML, MHTML Converter, MHTML to PDF, MHTML to Word, MHTML to PPT, MHTML to Image
 ---
 

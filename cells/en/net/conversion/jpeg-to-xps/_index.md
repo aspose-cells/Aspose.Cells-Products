@@ -1,6 +1,6 @@
 ---
 title: Convert JPEG to XPS C#
-description: Convert JPEG to XPS Online for Free. Free Online JPEG Converter. Convert JPEG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert JPEG to XPS Online for Free. Free Online JPEG to XPS Converter. C# JPEG to XPS. JPEG to XPS via C#.
 keywords: Convert JPEG, JPEG Converter, JPEG to PDF, JPEG to Word, JPEG to PPT, JPEG to Image
 ---
 

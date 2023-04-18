@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to OTS Python via Python
-description: Convert HTML to OTS Online for Free. Free Online HTML Converter. Convert HTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert HTML to OTS Online for Free. Free Online HTML to OTS Converter. Python HTML to OTS. HTML to OTS via Python.
 keywords: Convert HTML, HTML Converter, HTML to PDF, HTML to Word, HTML to PPT, HTML to Image
 ---
 

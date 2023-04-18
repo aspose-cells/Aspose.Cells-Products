@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to DOCX Java 
-description: Convert XLTX to DOCX Online for Free. Free Online XLTX Converter. Convert XLTX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert XLTX to DOCX Online for Free. Free Online XLTX to DOCX Converter. Java XLTX to DOCX. XLTX to DOCX via Java.
 keywords: Convert XLTX, XLTX Converter, XLTX to PDF, XLTX to Word, XLTX to PPT, XLTX to Image
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to FODS C#
-description: Convert SXC to FODS Online for Free. Free Online SXC Converter. Convert SXC to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert SXC to FODS Online for Free. Free Online SXC to FODS Converter. C# SXC to FODS. SXC to FODS via C#.
 keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC to Image
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to EXCEL Java 
-description: Convert SXC to EXCEL Online for Free. Free Online SXC Converter. Convert SXC to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert SXC to EXCEL Online for Free. Free Online SXC to EXCEL Converter. Java SXC to EXCEL. SXC to EXCEL via Java.
 keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC to Image
 ---
 

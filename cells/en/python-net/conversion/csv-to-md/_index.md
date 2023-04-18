@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to MD Python via Python
-description: Convert CSV to MD Online for Free. Free Online CSV Converter. Convert CSV to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert CSV to MD Online for Free. Free Online CSV to MD Converter. Python CSV to MD. CSV to MD via Python.
 keywords: Convert CSV, CSV Converter, CSV to PDF, CSV to Word, CSV to PPT, CSV to Image
 ---
 

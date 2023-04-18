@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to TIFF Python via Python
-description: Convert TXT to TIFF Online for Free. Free Online TXT Converter. Convert TXT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert TXT to TIFF Online for Free. Free Online TXT to TIFF Converter. Python TXT to TIFF. TXT to TIFF via Python.
 keywords: Convert TXT, TXT Converter, TXT to PDF, TXT to Word, TXT to PPT, TXT to Image
 ---
 

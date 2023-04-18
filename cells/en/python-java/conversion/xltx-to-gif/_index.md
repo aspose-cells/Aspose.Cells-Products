@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to GIF Python via Python
-description: Convert XLTX to GIF Online for Free. Free Online XLTX Converter. Convert XLTX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert XLTX to GIF Online for Free. Free Online XLTX to GIF Converter. Python XLTX to GIF. XLTX to GIF via Python.
 keywords: Convert XLTX, XLTX Converter, XLTX to PDF, XLTX to Word, XLTX to PPT, XLTX to Image
 ---
 

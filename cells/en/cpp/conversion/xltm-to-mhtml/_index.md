@@ -1,6 +1,6 @@
 ---
 title: Convert XLTM to MHTML C++
-description: Convert XLTM to MHTML Online for Free. Free Online XLTM Converter. Convert XLTM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert XLTM to MHTML Online for Free. Free Online XLTM to MHTML Converter. C++ XLTM to MHTML. XLTM to MHTML via C++.
 keywords: Convert XLTM, XLTM Converter, XLTM to PDF, XLTM to Word, XLTM to PPT, XLTM to Image
 ---
 

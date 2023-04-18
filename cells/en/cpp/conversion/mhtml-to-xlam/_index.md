@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to XLAM C++
-description: Convert MHTML to XLAM Online for Free. Free Online MHTML Converter. Convert MHTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert MHTML to XLAM Online for Free. Free Online MHTML to XLAM Converter. C++ MHTML to XLAM. MHTML to XLAM via C++.
 keywords: Convert MHTML, MHTML Converter, MHTML to PDF, MHTML to Word, MHTML to PPT, MHTML to Image
 ---
 

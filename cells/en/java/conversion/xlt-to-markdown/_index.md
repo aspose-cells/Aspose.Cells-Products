@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to MARKDOWN Java 
-description: Convert XLT to MARKDOWN Online for Free. Free Online XLT Converter. Convert XLT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert XLT to MARKDOWN Online for Free. Free Online XLT to MARKDOWN Converter. Java XLT to MARKDOWN. XLT to MARKDOWN via Java.
 keywords: Convert XLT, XLT Converter, XLT to PDF, XLT to Word, XLT to PPT, XLT to Image
 ---
 

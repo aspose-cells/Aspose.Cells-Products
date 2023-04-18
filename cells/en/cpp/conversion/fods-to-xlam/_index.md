@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to XLAM C++
-description: Convert FODS to XLAM Online for Free. Free Online FODS Converter. Convert FODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert FODS to XLAM Online for Free. Free Online FODS to XLAM Converter. C++ FODS to XLAM. FODS to XLAM via C++.
 keywords: Convert FODS, FODS Converter, FODS to PDF, FODS to Word, FODS to PPT, FODS to Image
 ---
 

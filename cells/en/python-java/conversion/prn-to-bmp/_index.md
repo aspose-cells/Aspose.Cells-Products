@@ -1,6 +1,6 @@
 ---
 title: Convert PRN to BMP Python via Python
-description: Convert PRN to BMP Online for Free. Free Online PRN Converter. Convert PRN to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert PRN to BMP Online for Free. Free Online PRN to BMP Converter. Python PRN to BMP. PRN to BMP via Python.
 keywords: Convert PRN, PRN Converter, PRN to PDF, PRN to Word, PRN to PPT, PRN to Image
 ---
 

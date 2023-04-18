@@ -1,6 +1,6 @@
 ---
 title: Convert JPEG to MD C#
-description: Convert JPEG to MD Online for Free. Free Online JPEG Converter. Convert JPEG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert JPEG to MD Online for Free. Free Online JPEG to MD Converter. C# JPEG to MD. JPEG to MD via C#.
 keywords: Convert JPEG, JPEG Converter, JPEG to PDF, JPEG to Word, JPEG to PPT, JPEG to Image
 ---
 

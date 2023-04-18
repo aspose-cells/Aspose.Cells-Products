@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to JPG C#
-description: Convert FODS to JPG Online for Free. Free Online FODS Converter. Convert FODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert FODS to JPG Online for Free. Free Online FODS to JPG Converter. C# FODS to JPG. FODS to JPG via C#.
 keywords: Convert FODS, FODS Converter, FODS to PDF, FODS to Word, FODS to PPT, FODS to Image
 ---
 

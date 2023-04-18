@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to SQL Java 
-description: Convert ODS to SQL Online for Free. Free Online ODS Converter. Convert ODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert ODS to SQL Online for Free. Free Online ODS to SQL Converter. Java ODS to SQL. ODS to SQL via Java.
 keywords: Convert ODS, ODS Converter, ODS to PDF, ODS to Word, ODS to PPT, ODS to Image
 ---
 

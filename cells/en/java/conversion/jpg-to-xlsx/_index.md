@@ -1,6 +1,6 @@
 ---
 title: Convert JPG to XLSX Java 
-description: Convert JPG to XLSX Online for Free. Free Online JPG Converter. Convert JPG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert JPG to XLSX Online for Free. Free Online JPG to XLSX Converter. Java JPG to XLSX. JPG to XLSX via Java.
 keywords: Convert JPG, JPG Converter, JPG to PDF, JPG to Word, JPG to PPT, JPG to Image
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Convert PNG to PPTX C#
-description: Convert PNG to PPTX Online for Free. Free Online PNG Converter. Convert PNG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert PNG to PPTX Online for Free. Free Online PNG to PPTX Converter. C# PNG to PPTX. PNG to PPTX via C#.
 keywords: Convert PNG, PNG Converter, PNG to PDF, PNG to Word, PNG to PPT, PNG to Image
 ---
 

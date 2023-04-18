@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to XLS Python via Python
-description: Convert SPREADSHEETML to XLS Online for Free. Free Online SPREADSHEETML Converter. Convert SPREADSHEETML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert SPREADSHEETML to XLS Online for Free. Free Online SPREADSHEETML to XLS Converter. Python SPREADSHEETML to XLS. SPREADSHEETML to XLS via Python.
 keywords: Convert SPREADSHEETML, SPREADSHEETML Converter, SPREADSHEETML to PDF, SPREADSHEETML to Word, SPREADSHEETML to PPT, SPREADSHEETML to Image
 ---
 

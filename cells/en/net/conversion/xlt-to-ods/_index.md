@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to ODS C#
-description: Convert XLT to ODS Online for Free. Free Online XLT Converter. Convert XLT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert XLT to ODS Online for Free. Free Online XLT to ODS Converter. C# XLT to ODS. XLT to ODS via C#.
 keywords: Convert XLT, XLT Converter, XLT to PDF, XLT to Word, XLT to PPT, XLT to Image
 ---
 

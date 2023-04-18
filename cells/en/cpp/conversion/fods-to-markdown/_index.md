@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to MARKDOWN C++
-description: Convert FODS to MARKDOWN Online for Free. Free Online FODS Converter. Convert FODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert FODS to MARKDOWN Online for Free. Free Online FODS to MARKDOWN Converter. C++ FODS to MARKDOWN. FODS to MARKDOWN via C++.
 keywords: Convert FODS, FODS Converter, FODS to PDF, FODS to Word, FODS to PPT, FODS to Image
 ---
 

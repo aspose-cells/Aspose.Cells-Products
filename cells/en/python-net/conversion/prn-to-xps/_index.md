@@ -1,6 +1,6 @@
 ---
 title: Convert PRN to XPS Python via Python
-description: Convert PRN to XPS Online for Free. Free Online PRN Converter. Convert PRN to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert PRN to XPS Online for Free. Free Online PRN to XPS Converter. Python PRN to XPS. PRN to XPS via Python.
 keywords: Convert PRN, PRN Converter, PRN to PDF, PRN to Word, PRN to PPT, PRN to Image
 ---
 

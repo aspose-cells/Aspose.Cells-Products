@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to SPREADSHEETML Java 
-description: Convert XLTX to SPREADSHEETML Online for Free. Free Online XLTX Converter. Convert XLTX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert XLTX to SPREADSHEETML Online for Free. Free Online XLTX to SPREADSHEETML Converter. Java XLTX to SPREADSHEETML. XLTX to SPREADSHEETML via Java.
 keywords: Convert XLTX, XLTX Converter, XLTX to PDF, XLTX to Word, XLTX to PPT, XLTX to Image
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Convert XLSX to BMP C++
-description: Convert XLSX to BMP Online for Free. Free Online XLSX Converter. Convert XLSX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert XLSX to BMP Online for Free. Free Online XLSX to BMP Converter. C++ XLSX to BMP. XLSX to BMP via C++.
 keywords: Convert XLSX, XLSX Converter, XLSX to PDF, XLSX to Word, XLSX to PPT, XLSX to Image
 ---
 

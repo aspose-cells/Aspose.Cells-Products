@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to CSV Python via Python
-description: Convert SXC to CSV Online for Free. Free Online SXC Converter. Convert SXC to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert SXC to CSV Online for Free. Free Online SXC to CSV Converter. Python SXC to CSV. SXC to CSV via Python.
 keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC to Image
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Convert XLSX to TXT Python via Python
-description: Convert XLSX to TXT Online for Free. Free Online XLSX Converter. Convert XLSX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert XLSX to TXT Online for Free. Free Online XLSX to TXT Converter. Python XLSX to TXT. XLSX to TXT via Python.
 keywords: Convert XLSX, XLSX Converter, XLSX to PDF, XLSX to Word, XLSX to PPT, XLSX to Image
 ---
 

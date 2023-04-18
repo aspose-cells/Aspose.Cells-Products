@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to POWERPOINT C++
-description: Convert EXCEL to POWERPOINT Online for Free. Free Online EXCEL Converter. Convert EXCEL to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert EXCEL to POWERPOINT Online for Free. Free Online EXCEL to POWERPOINT Converter. C++ EXCEL to POWERPOINT. EXCEL to POWERPOINT via C++.
 keywords: Convert EXCEL, EXCEL Converter, EXCEL to PDF, EXCEL to Word, EXCEL to PPT, EXCEL to Image
 ---
 

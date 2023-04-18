@@ -1,6 +1,6 @@
 ---
 title: Convert JPG to BMP C#
-description: Convert JPG to BMP Online for Free. Free Online JPG Converter. Convert JPG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert JPG to BMP Online for Free. Free Online JPG to BMP Converter. C# JPG to BMP. JPG to BMP via C#.
 keywords: Convert JPG, JPG Converter, JPG to PDF, JPG to Word, JPG to PPT, JPG to Image
 ---
 

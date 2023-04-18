@@ -1,6 +1,6 @@
 ---
 title: Convert XLSX to TIFF Python via Python
-description: Convert XLSX to TIFF Online for Free. Free Online XLSX Converter. Convert XLSX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert XLSX to TIFF Online for Free. Free Online XLSX to TIFF Converter. Python XLSX to TIFF. XLSX to TIFF via Python.
 keywords: Convert XLSX, XLSX Converter, XLSX to PDF, XLSX to Word, XLSX to PPT, XLSX to Image
 ---
 

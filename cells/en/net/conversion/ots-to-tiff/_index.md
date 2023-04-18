@@ -1,6 +1,6 @@
 ---
 title: Convert OTS to TIFF C#
-description: Convert OTS to TIFF Online for Free. Free Online OTS Converter. Convert OTS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert OTS to TIFF Online for Free. Free Online OTS to TIFF Converter. C# OTS to TIFF. OTS to TIFF via C#.
 keywords: Convert OTS, OTS Converter, OTS to PDF, OTS to Word, OTS to PPT, OTS to Image
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to XLSB Python via Python
-description: Convert SXC to XLSB Online for Free. Free Online SXC Converter. Convert SXC to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert SXC to XLSB Online for Free. Free Online SXC to XLSB Converter. Python SXC to XLSB. SXC to XLSB via Python.
 keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC to Image
 ---
 

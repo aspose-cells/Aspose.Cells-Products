@@ -1,6 +1,6 @@
 ---
 title: Convert PNG to XLTM Java 
-description: Convert PNG to XLTM Online for Free. Free Online PNG Converter. Convert PNG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert PNG to XLTM Online for Free. Free Online PNG to XLTM Converter. Java PNG to XLTM. PNG to XLTM via Java.
 keywords: Convert PNG, PNG Converter, PNG to PDF, PNG to Word, PNG to PPT, PNG to Image
 ---
 

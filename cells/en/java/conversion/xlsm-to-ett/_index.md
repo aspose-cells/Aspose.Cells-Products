@@ -1,6 +1,6 @@
 ---
 title: Convert XLSM to ETT Java 
-description: Convert XLSM to ETT Online for Free. Free Online XLSM Converter. Convert XLSM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert XLSM to ETT Online for Free. Free Online XLSM to ETT Converter. Java XLSM to ETT. XLSM to ETT via Java.
 keywords: Convert XLSM, XLSM Converter, XLSM to PDF, XLSM to Word, XLSM to PPT, XLSM to Image
 ---
 

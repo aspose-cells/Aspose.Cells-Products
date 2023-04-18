@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to SXC C++
-description: Convert TABDELIMITED to SXC Online for Free. Free Online TABDELIMITED Converter. Convert TABDELIMITED to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert TABDELIMITED to SXC Online for Free. Free Online TABDELIMITED to SXC Converter. C++ TABDELIMITED to SXC. TABDELIMITED to SXC via C++.
 keywords: Convert TABDELIMITED, TABDELIMITED Converter, TABDELIMITED to PDF, TABDELIMITED to Word, TABDELIMITED to PPT, TABDELIMITED to Image
 ---
 

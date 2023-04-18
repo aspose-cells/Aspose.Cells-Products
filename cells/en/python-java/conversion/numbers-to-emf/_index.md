@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to EMF Python via Python
-description: Convert NUMBERS to EMF Online for Free. Free Online NUMBERS Converter. Convert NUMBERS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert NUMBERS to EMF Online for Free. Free Online NUMBERS to EMF Converter. Python NUMBERS to EMF. NUMBERS to EMF via Python.
 keywords: Convert NUMBERS, NUMBERS Converter, NUMBERS to PDF, NUMBERS to Word, NUMBERS to PPT, NUMBERS to Image
 ---
 

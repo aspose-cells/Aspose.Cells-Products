@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to DIF C#
-description: Convert XLT to DIF Online for Free. Free Online XLT Converter. Convert XLT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert XLT to DIF Online for Free. Free Online XLT to DIF Converter. C# XLT to DIF. XLT to DIF via C#.
 keywords: Convert XLT, XLT Converter, XLT to PDF, XLT to Word, XLT to PPT, XLT to Image
 ---
 

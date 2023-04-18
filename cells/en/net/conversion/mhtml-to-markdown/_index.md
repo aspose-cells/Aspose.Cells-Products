@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to MARKDOWN C#
-description: Convert MHTML to MARKDOWN Online for Free. Free Online MHTML Converter. Convert MHTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert MHTML to MARKDOWN Online for Free. Free Online MHTML to MARKDOWN Converter. C# MHTML to MARKDOWN. MHTML to MARKDOWN via C#.
 keywords: Convert MHTML, MHTML Converter, MHTML to PDF, MHTML to Word, MHTML to PPT, MHTML to Image
 ---
 

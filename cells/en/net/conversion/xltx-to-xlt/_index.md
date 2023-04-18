@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to XLT C#
-description: Convert XLTX to XLT Online for Free. Free Online XLTX Converter. Convert XLTX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert XLTX to XLT Online for Free. Free Online XLTX to XLT Converter. C# XLTX to XLT. XLTX to XLT via C#.
 keywords: Convert XLTX, XLTX Converter, XLTX to PDF, XLTX to Word, XLTX to PPT, XLTX to Image
 ---
 

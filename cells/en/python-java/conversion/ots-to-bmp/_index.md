@@ -1,6 +1,6 @@
 ---
 title: Convert OTS to BMP Python via Python
-description: Convert OTS to BMP Online for Free. Free Online OTS Converter. Convert OTS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert OTS to BMP Online for Free. Free Online OTS to BMP Converter. Python OTS to BMP. OTS to BMP via Python.
 keywords: Convert OTS, OTS Converter, OTS to PDF, OTS to Word, OTS to PPT, OTS to Image
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to ET C++
-description: Convert NUMBERS to ET Online for Free. Free Online NUMBERS Converter. Convert NUMBERS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert NUMBERS to ET Online for Free. Free Online NUMBERS to ET Converter. C++ NUMBERS to ET. NUMBERS to ET via C++.
 keywords: Convert NUMBERS, NUMBERS Converter, NUMBERS to PDF, NUMBERS to Word, NUMBERS to PPT, NUMBERS to Image
 ---
 

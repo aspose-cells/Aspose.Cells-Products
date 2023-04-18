@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to XLAM Python via Python
-description: Convert HTML to XLAM Online for Free. Free Online HTML Converter. Convert HTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert HTML to XLAM Online for Free. Free Online HTML to XLAM Converter. Python HTML to XLAM. HTML to XLAM via Python.
 keywords: Convert HTML, HTML Converter, HTML to PDF, HTML to Word, HTML to PPT, HTML to Image
 ---
 

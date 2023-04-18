@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to XLSB C#
-description: Convert ODS to XLSB Online for Free. Free Online ODS Converter. Convert ODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert ODS to XLSB Online for Free. Free Online ODS to XLSB Converter. C# ODS to XLSB. ODS to XLSB via C#.
 keywords: Convert ODS, ODS Converter, ODS to PDF, ODS to Word, ODS to PPT, ODS to Image
 ---
 

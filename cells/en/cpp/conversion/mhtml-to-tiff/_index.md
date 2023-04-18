@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to TIFF C++
-description: Convert MHTML to TIFF Online for Free. Free Online MHTML Converter. Convert MHTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert MHTML to TIFF Online for Free. Free Online MHTML to TIFF Converter. C++ MHTML to TIFF. MHTML to TIFF via C++.
 keywords: Convert MHTML, MHTML Converter, MHTML to PDF, MHTML to Word, MHTML to PPT, MHTML to Image
 ---
 

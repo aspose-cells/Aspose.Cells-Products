@@ -1,6 +1,6 @@
 ---
 title: Convert JPG to ODS Java 
-description: Convert JPG to ODS Online for Free. Free Online JPG Converter. Convert JPG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert JPG to ODS Online for Free. Free Online JPG to ODS Converter. Java JPG to ODS. JPG to ODS via Java.
 keywords: Convert JPG, JPG Converter, JPG to PDF, JPG to Word, JPG to PPT, JPG to Image
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Convert JPG to HTML Python via Python
-description: Convert JPG to HTML Online for Free. Free Online JPG Converter. Convert JPG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert JPG to HTML Online for Free. Free Online JPG to HTML Converter. Python JPG to HTML. JPG to HTML via Python.
 keywords: Convert JPG, JPG Converter, JPG to PDF, JPG to Word, JPG to PPT, JPG to Image
 ---
 

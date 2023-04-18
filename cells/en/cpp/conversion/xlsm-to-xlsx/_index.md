@@ -1,6 +1,6 @@
 ---
 title: Convert XLSM to XLSX C++
-description: Convert XLSM to XLSX Online for Free. Free Online XLSM Converter. Convert XLSM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert XLSM to XLSX Online for Free. Free Online XLSM to XLSX Converter. C++ XLSM to XLSX. XLSM to XLSX via C++.
 keywords: Convert XLSM, XLSM Converter, XLSM to PDF, XLSM to Word, XLSM to PPT, XLSM to Image
 ---
 

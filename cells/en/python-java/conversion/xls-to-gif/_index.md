@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to GIF Python via Python
-description: Convert XLS to GIF Online for Free. Free Online XLS Converter. Convert XLS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert XLS to GIF Online for Free. Free Online XLS to GIF Converter. Python XLS to GIF. XLS to GIF via Python.
 keywords: Convert XLS, XLS Converter, XLS to PDF, XLS to Word, XLS to PPT, XLS to Image
 ---
 

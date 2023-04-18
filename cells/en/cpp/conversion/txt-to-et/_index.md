@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to ET C++
-description: Convert TXT to ET Online for Free. Free Online TXT Converter. Convert TXT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert TXT to ET Online for Free. Free Online TXT to ET Converter. C++ TXT to ET. TXT to ET via C++.
 keywords: Convert TXT, TXT Converter, TXT to PDF, TXT to Word, TXT to PPT, TXT to Image
 ---
 

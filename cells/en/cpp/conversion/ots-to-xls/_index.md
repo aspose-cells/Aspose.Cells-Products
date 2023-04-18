@@ -1,6 +1,6 @@
 ---
 title: Convert OTS to XLS C++
-description: Convert OTS to XLS Online for Free. Free Online OTS Converter. Convert OTS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert OTS to XLS Online for Free. Free Online OTS to XLS Converter. C++ OTS to XLS. OTS to XLS via C++.
 keywords: Convert OTS, OTS Converter, OTS to PDF, OTS to Word, OTS to PPT, OTS to Image
 ---
 

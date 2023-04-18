@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to DOCX C#
-description: Convert TABDELIMITED to DOCX Online for Free. Free Online TABDELIMITED Converter. Convert TABDELIMITED to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert TABDELIMITED to DOCX Online for Free. Free Online TABDELIMITED to DOCX Converter. C# TABDELIMITED to DOCX. TABDELIMITED to DOCX via C#.
 keywords: Convert TABDELIMITED, TABDELIMITED Converter, TABDELIMITED to PDF, TABDELIMITED to Word, TABDELIMITED to PPT, TABDELIMITED to Image
 ---
 

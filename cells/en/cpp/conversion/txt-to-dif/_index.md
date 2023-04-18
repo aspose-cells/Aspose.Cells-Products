@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to DIF C++
-description: Convert TXT to DIF Online for Free. Free Online TXT Converter. Convert TXT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert TXT to DIF Online for Free. Free Online TXT to DIF Converter. C++ TXT to DIF. TXT to DIF via C++.
 keywords: Convert TXT, TXT Converter, TXT to PDF, TXT to Word, TXT to PPT, TXT to Image
 ---
 

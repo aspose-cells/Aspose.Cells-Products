@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to XLSX C++
-description: Convert NUMBERS to XLSX Online for Free. Free Online NUMBERS Converter. Convert NUMBERS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert NUMBERS to XLSX Online for Free. Free Online NUMBERS to XLSX Converter. C++ NUMBERS to XLSX. NUMBERS to XLSX via C++.
 keywords: Convert NUMBERS, NUMBERS Converter, NUMBERS to PDF, NUMBERS to Word, NUMBERS to PPT, NUMBERS to Image
 ---
 

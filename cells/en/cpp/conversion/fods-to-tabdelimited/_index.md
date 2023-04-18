@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to TABDELIMITED C++
-description: Convert FODS to TABDELIMITED Online for Free. Free Online FODS Converter. Convert FODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert FODS to TABDELIMITED Online for Free. Free Online FODS to TABDELIMITED Converter. C++ FODS to TABDELIMITED. FODS to TABDELIMITED via C++.
 keywords: Convert FODS, FODS Converter, FODS to PDF, FODS to Word, FODS to PPT, FODS to Image
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Convert XLTM to SVG C++
-description: Convert XLTM to SVG Online for Free. Free Online XLTM Converter. Convert XLTM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert XLTM to SVG Online for Free. Free Online XLTM to SVG Converter. C++ XLTM to SVG. XLTM to SVG via C++.
 keywords: Convert XLTM, XLTM Converter, XLTM to PDF, XLTM to Word, XLTM to PPT, XLTM to Image
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to XLSB C++
-description: Convert HTML to XLSB Online for Free. Free Online HTML Converter. Convert HTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert HTML to XLSB Online for Free. Free Online HTML to XLSB Converter. C++ HTML to XLSB. HTML to XLSB via C++.
 keywords: Convert HTML, HTML Converter, HTML to PDF, HTML to Word, HTML to PPT, HTML to Image
 ---
 

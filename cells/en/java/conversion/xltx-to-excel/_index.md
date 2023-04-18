@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to EXCEL Java 
-description: Convert XLTX to EXCEL Online for Free. Free Online XLTX Converter. Convert XLTX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert XLTX to EXCEL Online for Free. Free Online XLTX to EXCEL Converter. Java XLTX to EXCEL. XLTX to EXCEL via Java.
 keywords: Convert XLTX, XLTX Converter, XLTX to PDF, XLTX to Word, XLTX to PPT, XLTX to Image
 ---
 

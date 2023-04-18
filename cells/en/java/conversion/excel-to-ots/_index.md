@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to OTS Java 
-description: Convert EXCEL to OTS Online for Free. Free Online EXCEL Converter. Convert EXCEL to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert EXCEL to OTS Online for Free. Free Online EXCEL to OTS Converter. Java EXCEL to OTS. EXCEL to OTS via Java.
 keywords: Convert EXCEL, EXCEL Converter, EXCEL to PDF, EXCEL to Word, EXCEL to PPT, EXCEL to Image
 ---
 

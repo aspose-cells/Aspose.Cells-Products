@@ -1,6 +1,6 @@
 ---
 title: Convert JPEG to XLT C#
-description: Convert JPEG to XLT Online for Free. Free Online JPEG Converter. Convert JPEG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert JPEG to XLT Online for Free. Free Online JPEG to XLT Converter. C# JPEG to XLT. JPEG to XLT via C#.
 keywords: Convert JPEG, JPEG Converter, JPEG to PDF, JPEG to Word, JPEG to PPT, JPEG to Image
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Convert FODS to PRN C#
-description: Convert FODS to PRN Online for Free. Free Online FODS Converter. Convert FODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert FODS to PRN Online for Free. Free Online FODS to PRN Converter. C# FODS to PRN. FODS to PRN via C#.
 keywords: Convert FODS, FODS Converter, FODS to PDF, FODS to Word, FODS to PPT, FODS to Image
 ---
 

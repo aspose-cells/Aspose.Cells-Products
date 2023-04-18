@@ -1,6 +1,6 @@
 ---
 title: Convert PRN to MHTML Java 
-description: Convert PRN to MHTML Online for Free. Free Online PRN Converter. Convert PRN to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert PRN to MHTML Online for Free. Free Online PRN to MHTML Converter. Java PRN to MHTML. PRN to MHTML via Java.
 keywords: Convert PRN, PRN Converter, PRN to PDF, PRN to Word, PRN to PPT, PRN to Image
 ---
 

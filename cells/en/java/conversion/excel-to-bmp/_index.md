@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to BMP Java 
-description: Convert EXCEL to BMP Online for Free. Free Online EXCEL Converter. Convert EXCEL to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert EXCEL to BMP Online for Free. Free Online EXCEL to BMP Converter. Java EXCEL to BMP. EXCEL to BMP via Java.
 keywords: Convert EXCEL, EXCEL Converter, EXCEL to PDF, EXCEL to Word, EXCEL to PPT, EXCEL to Image
 ---
 

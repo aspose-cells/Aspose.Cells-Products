@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to XLSX Java 
-description: Convert MHTML to XLSX Online for Free. Free Online MHTML Converter. Convert MHTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert MHTML to XLSX Online for Free. Free Online MHTML to XLSX Converter. Java MHTML to XLSX. MHTML to XLSX via Java.
 keywords: Convert MHTML, MHTML Converter, MHTML to PDF, MHTML to Word, MHTML to PPT, MHTML to Image
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to MHTML Python via Python
-description: Convert TABDELIMITED to MHTML Online for Free. Free Online TABDELIMITED Converter. Convert TABDELIMITED to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert TABDELIMITED to MHTML Online for Free. Free Online TABDELIMITED to MHTML Converter. Python TABDELIMITED to MHTML. TABDELIMITED to MHTML via Python.
 keywords: Convert TABDELIMITED, TABDELIMITED Converter, TABDELIMITED to PDF, TABDELIMITED to Word, TABDELIMITED to PPT, TABDELIMITED to Image
 ---
 

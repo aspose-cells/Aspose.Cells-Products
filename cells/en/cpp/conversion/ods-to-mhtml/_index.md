@@ -1,6 +1,6 @@
 ---
 title: Convert ODS to MHTML C++
-description: Convert ODS to MHTML Online for Free. Free Online ODS Converter. Convert ODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert ODS to MHTML Online for Free. Free Online ODS to MHTML Converter. C++ ODS to MHTML. ODS to MHTML via C++.
 keywords: Convert ODS, ODS Converter, ODS to PDF, ODS to Word, ODS to PPT, ODS to Image
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to XLTX C#
-description: Convert SXC to XLTX Online for Free. Free Online SXC Converter. Convert SXC to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert SXC to XLTX Online for Free. Free Online SXC to XLTX Converter. C# SXC to XLTX. SXC to XLTX via C#.
 keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC to Image
 ---
 

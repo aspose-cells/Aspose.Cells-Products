@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to EMF C++
-description: Convert XLTX to EMF Online for Free. Free Online XLTX Converter. Convert XLTX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert XLTX to EMF Online for Free. Free Online XLTX to EMF Converter. C++ XLTX to EMF. XLTX to EMF via C++.
 keywords: Convert XLTX, XLTX Converter, XLTX to PDF, XLTX to Word, XLTX to PPT, XLTX to Image
 ---
 

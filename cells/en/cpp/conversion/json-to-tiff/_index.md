@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to TIFF C++
-description: Convert JSON to TIFF Online for Free. Free Online JSON Converter. Convert JSON to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert JSON to TIFF Online for Free. Free Online JSON to TIFF Converter. C++ JSON to TIFF. JSON to TIFF via C++.
 keywords: Convert JSON, JSON Converter, JSON to PDF, JSON to Word, JSON to PPT, JSON to Image
 ---
 

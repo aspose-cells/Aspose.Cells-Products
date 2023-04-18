@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to PRN Java 
-description: Convert SXC to PRN Online for Free. Free Online SXC Converter. Convert SXC to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert SXC to PRN Online for Free. Free Online SXC to PRN Converter. Java SXC to PRN. SXC to PRN via Java.
 keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC to Image
 ---
 

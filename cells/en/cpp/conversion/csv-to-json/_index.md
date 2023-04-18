@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to JSON C++
-description: Convert CSV to JSON Online for Free. Free Online CSV Converter. Convert CSV to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert CSV to JSON Online for Free. Free Online CSV to JSON Converter. C++ CSV to JSON. CSV to JSON via C++.
 keywords: Convert CSV, CSV Converter, CSV to PDF, CSV to Word, CSV to PPT, CSV to Image
 ---
 

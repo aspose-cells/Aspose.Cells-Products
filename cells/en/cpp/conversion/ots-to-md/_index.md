@@ -1,6 +1,6 @@
 ---
 title: Convert OTS to MD C++
-description: Convert OTS to MD Online for Free. Free Online OTS Converter. Convert OTS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert OTS to MD Online for Free. Free Online OTS to MD Converter. C++ OTS to MD. OTS to MD via C++.
 keywords: Convert OTS, OTS Converter, OTS to PDF, OTS to Word, OTS to PPT, OTS to Image
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Convert JPEG to DOCX Python via Python
-description: Convert JPEG to DOCX Online for Free. Free Online JPEG Converter. Convert JPEG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert JPEG to DOCX Online for Free. Free Online JPEG to DOCX Converter. Python JPEG to DOCX. JPEG to DOCX via Python.
 keywords: Convert JPEG, JPEG Converter, JPEG to PDF, JPEG to Word, JPEG to PPT, JPEG to Image
 ---
 

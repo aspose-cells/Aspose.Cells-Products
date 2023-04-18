@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to SPREADSHEETML C#
-description: Convert SXC to SPREADSHEETML Online for Free. Free Online SXC Converter. Convert SXC to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert SXC to SPREADSHEETML Online for Free. Free Online SXC to SPREADSHEETML Converter. C# SXC to SPREADSHEETML. SXC to SPREADSHEETML via C#.
 keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC to Image
 ---
 

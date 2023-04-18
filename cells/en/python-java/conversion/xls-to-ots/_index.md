@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to OTS Python via Python
-description: Convert XLS to OTS Online for Free. Free Online XLS Converter. Convert XLS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert XLS to OTS Online for Free. Free Online XLS to OTS Converter. Python XLS to OTS. XLS to OTS via Python.
 keywords: Convert XLS, XLS Converter, XLS to PDF, XLS to Word, XLS to PPT, XLS to Image
 ---
 

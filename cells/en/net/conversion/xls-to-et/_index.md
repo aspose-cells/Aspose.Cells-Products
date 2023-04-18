@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to ET C#
-description: Convert XLS to ET Online for Free. Free Online XLS Converter. Convert XLS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert XLS to ET Online for Free. Free Online XLS to ET Converter. C# XLS to ET. XLS to ET via C#.
 keywords: Convert XLS, XLS Converter, XLS to PDF, XLS to Word, XLS to PPT, XLS to Image
 ---
 

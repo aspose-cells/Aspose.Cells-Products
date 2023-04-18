@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to MD Python via Python
-description: Convert XLS to MD Online for Free. Free Online XLS Converter. Convert XLS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert XLS to MD Online for Free. Free Online XLS to MD Converter. Python XLS to MD. XLS to MD via Python.
 keywords: Convert XLS, XLS Converter, XLS to PDF, XLS to Word, XLS to PPT, XLS to Image
 ---
 

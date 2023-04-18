@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to CSV Python via Python
-description: Convert XLT to CSV Online for Free. Free Online XLT Converter. Convert XLT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert XLT to CSV Online for Free. Free Online XLT to CSV Converter. Python XLT to CSV. XLT to CSV via Python.
 keywords: Convert XLT, XLT Converter, XLT to PDF, XLT to Word, XLT to PPT, XLT to Image
 ---
 

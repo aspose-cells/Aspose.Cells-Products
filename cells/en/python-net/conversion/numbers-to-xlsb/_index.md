@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to XLSB Python via Python
-description: Convert NUMBERS to XLSB Online for Free. Free Online NUMBERS Converter. Convert NUMBERS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert NUMBERS to XLSB Online for Free. Free Online NUMBERS to XLSB Converter. Python NUMBERS to XLSB. NUMBERS to XLSB via Python.
 keywords: Convert NUMBERS, NUMBERS Converter, NUMBERS to PDF, NUMBERS to Word, NUMBERS to PPT, NUMBERS to Image
 ---
 

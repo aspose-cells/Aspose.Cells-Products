@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to PRN Python via Python
-description: Convert SXC to PRN Online for Free. Free Online SXC Converter. Convert SXC to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert SXC to PRN Online for Free. Free Online SXC to PRN Converter. Python SXC to PRN. SXC to PRN via Python.
 keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC to Image
 ---
 

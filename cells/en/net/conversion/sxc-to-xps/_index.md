@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to XPS C#
-description: Convert SXC to XPS Online for Free. Free Online SXC Converter. Convert SXC to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert SXC to XPS Online for Free. Free Online SXC to XPS Converter. C# SXC to XPS. SXC to XPS via C#.
 keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC to Image
 ---
 

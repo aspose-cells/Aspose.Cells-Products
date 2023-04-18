@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to ODS Java 
-description: Convert XLT to ODS Online for Free. Free Online XLT Converter. Convert XLT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert XLT to ODS Online for Free. Free Online XLT to ODS Converter. Java XLT to ODS. XLT to ODS via Java.
 keywords: Convert XLT, XLT Converter, XLT to PDF, XLT to Word, XLT to PPT, XLT to Image
 ---
 

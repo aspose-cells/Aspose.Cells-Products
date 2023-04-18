@@ -1,6 +1,6 @@
 ---
 title: Convert OTS to PDF Python via Python
-description: Convert OTS to PDF Online for Free. Free Online OTS Converter. Convert OTS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert OTS to PDF Online for Free. Free Online OTS to PDF Converter. Python OTS to PDF. OTS to PDF via Python.
 keywords: Convert OTS, OTS Converter, OTS to PDF, OTS to Word, OTS to PPT, OTS to Image
 ---
 

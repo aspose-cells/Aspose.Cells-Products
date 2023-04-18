@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to XLT C#
-description: Convert NUMBERS to XLT Online for Free. Free Online NUMBERS Converter. Convert NUMBERS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert NUMBERS to XLT Online for Free. Free Online NUMBERS to XLT Converter. C# NUMBERS to XLT. NUMBERS to XLT via C#.
 keywords: Convert NUMBERS, NUMBERS Converter, NUMBERS to PDF, NUMBERS to Word, NUMBERS to PPT, NUMBERS to Image
 ---
 

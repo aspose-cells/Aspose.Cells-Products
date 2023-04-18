@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to TIFF Python via Python
-description: Convert EXCEL to TIFF Online for Free. Free Online EXCEL Converter. Convert EXCEL to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert EXCEL to TIFF Online for Free. Free Online EXCEL to TIFF Converter. Python EXCEL to TIFF. EXCEL to TIFF via Python.
 keywords: Convert EXCEL, EXCEL Converter, EXCEL to PDF, EXCEL to Word, EXCEL to PPT, EXCEL to Image
 ---
 

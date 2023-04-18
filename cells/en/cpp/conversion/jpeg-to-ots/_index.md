@@ -1,6 +1,6 @@
 ---
 title: Convert JPEG to OTS C++
-description: Convert JPEG to OTS Online for Free. Free Online JPEG Converter. Convert JPEG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert JPEG to OTS Online for Free. Free Online JPEG to OTS Converter. C++ JPEG to OTS. JPEG to OTS via C++.
 keywords: Convert JPEG, JPEG Converter, JPEG to PDF, JPEG to Word, JPEG to PPT, JPEG to Image
 ---
 

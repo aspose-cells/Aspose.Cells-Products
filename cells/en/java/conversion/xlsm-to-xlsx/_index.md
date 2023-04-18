@@ -1,6 +1,6 @@
 ---
 title: Convert XLSM to XLSX Java 
-description: Convert XLSM to XLSX Online for Free. Free Online XLSM Converter. Convert XLSM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert XLSM to XLSX Online for Free. Free Online XLSM to XLSX Converter. Java XLSM to XLSX. XLSM to XLSX via Java.
 keywords: Convert XLSM, XLSM Converter, XLSM to PDF, XLSM to Word, XLSM to PPT, XLSM to Image
 ---
 

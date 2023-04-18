@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to PDF C#
-description: Convert TXT to PDF Online for Free. Free Online TXT Converter. Convert TXT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert TXT to PDF Online for Free. Free Online TXT to PDF Converter. C# TXT to PDF. TXT to PDF via C#.
 keywords: Convert TXT, TXT Converter, TXT to PDF, TXT to Word, TXT to PPT, TXT to Image
 ---
 

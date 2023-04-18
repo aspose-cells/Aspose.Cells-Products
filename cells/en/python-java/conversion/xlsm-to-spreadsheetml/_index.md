@@ -1,6 +1,6 @@
 ---
 title: Convert XLSM to SPREADSHEETML Python via Python
-description: Convert XLSM to SPREADSHEETML Online for Free. Free Online XLSM Converter. Convert XLSM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert XLSM to SPREADSHEETML Online for Free. Free Online XLSM to SPREADSHEETML Converter. Python XLSM to SPREADSHEETML. XLSM to SPREADSHEETML via Python.
 keywords: Convert XLSM, XLSM Converter, XLSM to PDF, XLSM to Word, XLSM to PPT, XLSM to Image
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to TABDELIMITED Python via Python
-description: Convert SXC to TABDELIMITED Online for Free. Free Online SXC Converter. Convert SXC to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert SXC to TABDELIMITED Online for Free. Free Online SXC to TABDELIMITED Converter. Python SXC to TABDELIMITED. SXC to TABDELIMITED via Python.
 keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC to Image
 ---
 

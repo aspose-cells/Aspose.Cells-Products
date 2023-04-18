@@ -1,6 +1,6 @@
 ---
 title: Convert PNG to ODS Java 
-description: Convert PNG to ODS Online for Free. Free Online PNG Converter. Convert PNG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert PNG to ODS Online for Free. Free Online PNG to ODS Converter. Java PNG to ODS. PNG to ODS via Java.
 keywords: Convert PNG, PNG Converter, PNG to PDF, PNG to Word, PNG to PPT, PNG to Image
 ---
 

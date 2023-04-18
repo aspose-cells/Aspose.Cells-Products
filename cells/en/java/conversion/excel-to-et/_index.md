@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to ET Java 
-description: Convert EXCEL to ET Online for Free. Free Online EXCEL Converter. Convert EXCEL to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert EXCEL to ET Online for Free. Free Online EXCEL to ET Converter. Java EXCEL to ET. EXCEL to ET via Java.
 keywords: Convert EXCEL, EXCEL Converter, EXCEL to PDF, EXCEL to Word, EXCEL to PPT, EXCEL to Image
 ---
 

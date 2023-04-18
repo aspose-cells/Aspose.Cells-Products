@@ -1,6 +1,6 @@
 ---
 title: Convert XLSM to PRN Python via Python
-description: Convert XLSM to PRN Online for Free. Free Online XLSM Converter. Convert XLSM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert XLSM to PRN Online for Free. Free Online XLSM to PRN Converter. Python XLSM to PRN. XLSM to PRN via Python.
 keywords: Convert XLSM, XLSM Converter, XLSM to PDF, XLSM to Word, XLSM to PPT, XLSM to Image
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to SPREADSHEETML Java 
-description: Convert MHTML to SPREADSHEETML Online for Free. Free Online MHTML Converter. Convert MHTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert MHTML to SPREADSHEETML Online for Free. Free Online MHTML to SPREADSHEETML Converter. Java MHTML to SPREADSHEETML. MHTML to SPREADSHEETML via Java.
 keywords: Convert MHTML, MHTML Converter, MHTML to PDF, MHTML to Word, MHTML to PPT, MHTML to Image
 ---
 

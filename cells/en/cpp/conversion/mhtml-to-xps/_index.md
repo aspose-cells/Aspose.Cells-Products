@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to XPS C++
-description: Convert MHTML to XPS Online for Free. Free Online MHTML Converter. Convert MHTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert MHTML to XPS Online for Free. Free Online MHTML to XPS Converter. C++ MHTML to XPS. MHTML to XPS via C++.
 keywords: Convert MHTML, MHTML Converter, MHTML to PDF, MHTML to Word, MHTML to PPT, MHTML to Image
 ---
 

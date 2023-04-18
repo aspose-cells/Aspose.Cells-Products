@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to XLT Java 
-description: Convert XLS to XLT Online for Free. Free Online XLS Converter. Convert XLS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert XLS to XLT Online for Free. Free Online XLS to XLT Converter. Java XLS to XLT. XLS to XLT via Java.
 keywords: Convert XLS, XLS Converter, XLS to PDF, XLS to Word, XLS to PPT, XLS to Image
 ---
 

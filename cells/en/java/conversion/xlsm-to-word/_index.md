@@ -1,6 +1,6 @@
 ---
 title: Convert XLSM to WORD Java 
-description: Convert XLSM to WORD Online for Free. Free Online XLSM Converter. Convert XLSM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert XLSM to WORD Online for Free. Free Online XLSM to WORD Converter. Java XLSM to WORD. XLSM to WORD via Java.
 keywords: Convert XLSM, XLSM Converter, XLSM to PDF, XLSM to Word, XLSM to PPT, XLSM to Image
 ---
 

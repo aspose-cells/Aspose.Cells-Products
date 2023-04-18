@@ -1,6 +1,6 @@
 ---
 title: Convert JPG to JPEG Java 
-description: Convert JPG to JPEG Online for Free. Free Online JPG Converter. Convert JPG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert JPG to JPEG Online for Free. Free Online JPG to JPEG Converter. Java JPG to JPEG. JPG to JPEG via Java.
 keywords: Convert JPG, JPG Converter, JPG to PDF, JPG to Word, JPG to PPT, JPG to Image
 ---
 

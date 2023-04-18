@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to MARKDOWN Java 
-description: Convert HTML to MARKDOWN Online for Free. Free Online HTML Converter. Convert HTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert HTML to MARKDOWN Online for Free. Free Online HTML to MARKDOWN Converter. Java HTML to MARKDOWN. HTML to MARKDOWN via Java.
 keywords: Convert HTML, HTML Converter, HTML to PDF, HTML to Word, HTML to PPT, HTML to Image
 ---
 

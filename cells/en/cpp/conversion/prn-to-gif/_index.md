@@ -1,6 +1,6 @@
 ---
 title: Convert PRN to GIF C++
-description: Convert PRN to GIF Online for Free. Free Online PRN Converter. Convert PRN to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert PRN to GIF Online for Free. Free Online PRN to GIF Converter. C++ PRN to GIF. PRN to GIF via C++.
 keywords: Convert PRN, PRN Converter, PRN to PDF, PRN to Word, PRN to PPT, PRN to Image
 ---
 

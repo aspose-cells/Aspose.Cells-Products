@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to BMP Java 
-description: Convert NUMBERS to BMP Online for Free. Free Online NUMBERS Converter. Convert NUMBERS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert NUMBERS to BMP Online for Free. Free Online NUMBERS to BMP Converter. Java NUMBERS to BMP. NUMBERS to BMP via Java.
 keywords: Convert NUMBERS, NUMBERS Converter, NUMBERS to PDF, NUMBERS to Word, NUMBERS to PPT, NUMBERS to Image
 ---
 

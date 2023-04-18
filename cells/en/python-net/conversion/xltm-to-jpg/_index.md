@@ -1,6 +1,6 @@
 ---
 title: Convert XLTM to JPG Python via Python
-description: Convert XLTM to JPG Online for Free. Free Online XLTM Converter. Convert XLTM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert XLTM to JPG Online for Free. Free Online XLTM to JPG Converter. Python XLTM to JPG. XLTM to JPG via Python.
 keywords: Convert XLTM, XLTM Converter, XLTM to PDF, XLTM to Word, XLTM to PPT, XLTM to Image
 ---
 

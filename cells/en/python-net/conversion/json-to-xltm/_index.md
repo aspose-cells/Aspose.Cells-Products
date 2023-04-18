@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to XLTM Python via Python
-description: Convert JSON to XLTM Online for Free. Free Online JSON Converter. Convert JSON to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert JSON to XLTM Online for Free. Free Online JSON to XLTM Converter. Python JSON to XLTM. JSON to XLTM via Python.
 keywords: Convert JSON, JSON Converter, JSON to PDF, JSON to Word, JSON to PPT, JSON to Image
 ---
 

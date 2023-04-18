@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to PRN Java 
-description: Convert NUMBERS to PRN Online for Free. Free Online NUMBERS Converter. Convert NUMBERS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert NUMBERS to PRN Online for Free. Free Online NUMBERS to PRN Converter. Java NUMBERS to PRN. NUMBERS to PRN via Java.
 keywords: Convert NUMBERS, NUMBERS Converter, NUMBERS to PDF, NUMBERS to Word, NUMBERS to PPT, NUMBERS to Image
 ---
 

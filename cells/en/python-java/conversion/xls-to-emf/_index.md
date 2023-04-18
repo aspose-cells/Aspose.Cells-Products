@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to EMF Python via Python
-description: Convert XLS to EMF Online for Free. Free Online XLS Converter. Convert XLS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert XLS to EMF Online for Free. Free Online XLS to EMF Converter. Python XLS to EMF. XLS to EMF via Python.
 keywords: Convert XLS, XLS Converter, XLS to PDF, XLS to Word, XLS to PPT, XLS to Image
 ---
 

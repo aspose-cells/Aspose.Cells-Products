@@ -1,6 +1,6 @@
 ---
 title: Convert XLTM to TIFF C++
-description: Convert XLTM to TIFF Online for Free. Free Online XLTM Converter. Convert XLTM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert XLTM to TIFF Online for Free. Free Online XLTM to TIFF Converter. C++ XLTM to TIFF. XLTM to TIFF via C++.
 keywords: Convert XLTM, XLTM Converter, XLTM to PDF, XLTM to Word, XLTM to PPT, XLTM to Image
 ---
 

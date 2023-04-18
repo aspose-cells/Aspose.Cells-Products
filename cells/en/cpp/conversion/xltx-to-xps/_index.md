@@ -1,6 +1,6 @@
 ---
 title: Convert XLTX to XPS C++
-description: Convert XLTX to XPS Online for Free. Free Online XLTX Converter. Convert XLTX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert XLTX to XPS Online for Free. Free Online XLTX to XPS Converter. C++ XLTX to XPS. XLTX to XPS via C++.
 keywords: Convert XLTX, XLTX Converter, XLTX to PDF, XLTX to Word, XLTX to PPT, XLTX to Image
 ---
 

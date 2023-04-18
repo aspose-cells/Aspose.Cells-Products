@@ -1,6 +1,6 @@
 ---
 title: Convert CSV to XLS Java 
-description: Convert CSV to XLS Online for Free. Free Online CSV Converter. Convert CSV to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert CSV to XLS Online for Free. Free Online CSV to XLS Converter. Java CSV to XLS. CSV to XLS via Java.
 keywords: Convert CSV, CSV Converter, CSV to PDF, CSV to Word, CSV to PPT, CSV to Image
 ---
 

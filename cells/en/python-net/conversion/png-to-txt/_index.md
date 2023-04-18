@@ -1,6 +1,6 @@
 ---
 title: Convert PNG to TXT Python via Python
-description: Convert PNG to TXT Online for Free. Free Online PNG Converter. Convert PNG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert PNG to TXT Online for Free. Free Online PNG to TXT Converter. Python PNG to TXT. PNG to TXT via Python.
 keywords: Convert PNG, PNG Converter, PNG to PDF, PNG to Word, PNG to PPT, PNG to Image
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to MD Java 
-description: Convert MHTML to MD Online for Free. Free Online MHTML Converter. Convert MHTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert MHTML to MD Online for Free. Free Online MHTML to MD Converter. Java MHTML to MD. MHTML to MD via Java.
 keywords: Convert MHTML, MHTML Converter, MHTML to PDF, MHTML to Word, MHTML to PPT, MHTML to Image
 ---
 

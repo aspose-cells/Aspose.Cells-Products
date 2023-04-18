@@ -1,6 +1,6 @@
 ---
 title: Convert JPG to EXCEL C#
-description: Convert JPG to EXCEL Online for Free. Free Online JPG Converter. Convert JPG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert JPG to EXCEL Online for Free. Free Online JPG to EXCEL Converter. C# JPG to EXCEL. JPG to EXCEL via C#.
 keywords: Convert JPG, JPG Converter, JPG to PDF, JPG to Word, JPG to PPT, JPG to Image
 ---
 

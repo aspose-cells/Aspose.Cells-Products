@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to GIF Python via Python
-description: Convert EXCEL to GIF Online for Free. Free Online EXCEL Converter. Convert EXCEL to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert EXCEL to GIF Online for Free. Free Online EXCEL to GIF Converter. Python EXCEL to GIF. EXCEL to GIF via Python.
 keywords: Convert EXCEL, EXCEL Converter, EXCEL to PDF, EXCEL to Word, EXCEL to PPT, EXCEL to Image
 ---
 

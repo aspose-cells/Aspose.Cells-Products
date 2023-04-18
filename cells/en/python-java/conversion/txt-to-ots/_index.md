@@ -1,6 +1,6 @@
 ---
 title: Convert TXT to OTS Python via Python
-description: Convert TXT to OTS Online for Free. Free Online TXT Converter. Convert TXT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert TXT to OTS Online for Free. Free Online TXT to OTS Converter. Python TXT to OTS. TXT to OTS via Python.
 keywords: Convert TXT, TXT Converter, TXT to PDF, TXT to Word, TXT to PPT, TXT to Image
 ---
 

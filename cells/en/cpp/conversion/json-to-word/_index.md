@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to WORD C++
-description: Convert JSON to WORD Online for Free. Free Online JSON Converter. Convert JSON to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert JSON to WORD Online for Free. Free Online JSON to WORD Converter. C++ JSON to WORD. JSON to WORD via C++.
 keywords: Convert JSON, JSON Converter, JSON to PDF, JSON to Word, JSON to PPT, JSON to Image
 ---
 

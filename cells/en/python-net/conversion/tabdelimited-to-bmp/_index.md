@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to BMP Python via Python
-description: Convert TABDELIMITED to BMP Online for Free. Free Online TABDELIMITED Converter. Convert TABDELIMITED to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert TABDELIMITED to BMP Online for Free. Free Online TABDELIMITED to BMP Converter. Python TABDELIMITED to BMP. TABDELIMITED to BMP via Python.
 keywords: Convert TABDELIMITED, TABDELIMITED Converter, TABDELIMITED to PDF, TABDELIMITED to Word, TABDELIMITED to PPT, TABDELIMITED to Image
 ---
 

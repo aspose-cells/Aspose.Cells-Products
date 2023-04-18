@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to SQL C++
-description: Convert EXCEL to SQL Online for Free. Free Online EXCEL Converter. Convert EXCEL to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert EXCEL to SQL Online for Free. Free Online EXCEL to SQL Converter. C++ EXCEL to SQL. EXCEL to SQL via C++.
 keywords: Convert EXCEL, EXCEL Converter, EXCEL to PDF, EXCEL to Word, EXCEL to PPT, EXCEL to Image
 ---
 

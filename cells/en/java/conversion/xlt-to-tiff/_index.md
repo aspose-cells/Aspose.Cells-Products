@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to TIFF Java 
-description: Convert XLT to TIFF Online for Free. Free Online XLT Converter. Convert XLT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert XLT to TIFF Online for Free. Free Online XLT to TIFF Converter. Java XLT to TIFF. XLT to TIFF via Java.
 keywords: Convert XLT, XLT Converter, XLT to PDF, XLT to Word, XLT to PPT, XLT to Image
 ---
 

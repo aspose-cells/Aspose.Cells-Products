@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to JSON C++
-description: Convert EXCEL to JSON Online for Free. Free Online EXCEL Converter. Convert EXCEL to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert EXCEL to JSON Online for Free. Free Online EXCEL to JSON Converter. C++ EXCEL to JSON. EXCEL to JSON via C++.
 keywords: Convert EXCEL, EXCEL Converter, EXCEL to PDF, EXCEL to Word, EXCEL to PPT, EXCEL to Image
 ---
 

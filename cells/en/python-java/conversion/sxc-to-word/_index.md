@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to WORD Python via Python
-description: Convert SXC to WORD Online for Free. Free Online SXC Converter. Convert SXC to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert SXC to WORD Online for Free. Free Online SXC to WORD Converter. Python SXC to WORD. SXC to WORD via Python.
 keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC to Image
 ---
 

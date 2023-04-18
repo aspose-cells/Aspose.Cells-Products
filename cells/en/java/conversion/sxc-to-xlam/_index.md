@@ -1,6 +1,6 @@
 ---
 title: Convert SXC to XLAM Java 
-description: Convert SXC to XLAM Online for Free. Free Online SXC Converter. Convert SXC to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert SXC to XLAM Online for Free. Free Online SXC to XLAM Converter. Java SXC to XLAM. SXC to XLAM via Java.
 keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC to Image
 ---
 

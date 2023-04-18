@@ -1,6 +1,6 @@
 ---
 title: Convert XLSB to OTS Python via Python
-description: Convert XLSB to OTS Online for Free. Free Online XLSB Converter. Convert XLSB to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert XLSB to OTS Online for Free. Free Online XLSB to OTS Converter. Python XLSB to OTS. XLSB to OTS via Python.
 keywords: Convert XLSB, XLSB Converter, XLSB to PDF, XLSB to Word, XLSB to PPT, XLSB to Image
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Convert JPEG to XLSX C#
-description: Convert JPEG to XLSX Online for Free. Free Online JPEG Converter. Convert JPEG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert JPEG to XLSX Online for Free. Free Online JPEG to XLSX Converter. C# JPEG to XLSX. JPEG to XLSX via C#.
 keywords: Convert JPEG, JPEG Converter, JPEG to PDF, JPEG to Word, JPEG to PPT, JPEG to Image
 ---
 

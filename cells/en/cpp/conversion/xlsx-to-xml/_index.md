@@ -1,6 +1,6 @@
 ---
 title: Convert XLSX to XML C++
-description: Convert XLSX to XML Online for Free. Free Online XLSX Converter. Convert XLSX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert XLSX to XML Online for Free. Free Online XLSX to XML Converter. C++ XLSX to XML. XLSX to XML via C++.
 keywords: Convert XLSX, XLSX Converter, XLSX to PDF, XLSX to Word, XLSX to PPT, XLSX to Image
 ---
 

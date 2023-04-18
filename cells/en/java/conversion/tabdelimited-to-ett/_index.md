@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to ETT Java 
-description: Convert TABDELIMITED to ETT Online for Free. Free Online TABDELIMITED Converter. Convert TABDELIMITED to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert TABDELIMITED to ETT Online for Free. Free Online TABDELIMITED to ETT Converter. Java TABDELIMITED to ETT. TABDELIMITED to ETT via Java.
 keywords: Convert TABDELIMITED, TABDELIMITED Converter, TABDELIMITED to PDF, TABDELIMITED to Word, TABDELIMITED to PPT, TABDELIMITED to Image
 ---
 

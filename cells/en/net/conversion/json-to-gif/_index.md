@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to GIF C#
-description: Convert JSON to GIF Online for Free. Free Online JSON Converter. Convert JSON to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert JSON to GIF Online for Free. Free Online JSON to GIF Converter. C# JSON to GIF. JSON to GIF via C#.
 keywords: Convert JSON, JSON Converter, JSON to PDF, JSON to Word, JSON to PPT, JSON to Image
 ---
 

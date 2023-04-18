@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to ET Java 
-description: Convert MHTML to ET Online for Free. Free Online MHTML Converter. Convert MHTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert MHTML to ET Online for Free. Free Online MHTML to ET Converter. Java MHTML to ET. MHTML to ET via Java.
 keywords: Convert MHTML, MHTML Converter, MHTML to PDF, MHTML to Word, MHTML to PPT, MHTML to Image
 ---
 

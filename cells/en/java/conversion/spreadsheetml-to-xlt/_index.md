@@ -1,6 +1,6 @@
 ---
 title: Convert SPREADSHEETML to XLT Java 
-description: Convert SPREADSHEETML to XLT Online for Free. Free Online SPREADSHEETML Converter. Convert SPREADSHEETML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert SPREADSHEETML to XLT Online for Free. Free Online SPREADSHEETML to XLT Converter. Java SPREADSHEETML to XLT. SPREADSHEETML to XLT via Java.
 keywords: Convert SPREADSHEETML, SPREADSHEETML Converter, SPREADSHEETML to PDF, SPREADSHEETML to Word, SPREADSHEETML to PPT, SPREADSHEETML to Image
 ---
 

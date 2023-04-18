@@ -1,6 +1,6 @@
 ---
 title: Convert XLS to BMP Java 
-description: Convert XLS to BMP Online for Free. Free Online XLS Converter. Convert XLS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert XLS to BMP Online for Free. Free Online XLS to BMP Converter. Java XLS to BMP. XLS to BMP via Java.
 keywords: Convert XLS, XLS Converter, XLS to PDF, XLS to Word, XLS to PPT, XLS to Image
 ---
 

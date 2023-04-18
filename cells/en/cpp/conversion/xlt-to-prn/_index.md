@@ -1,6 +1,6 @@
 ---
 title: Convert XLT to PRN C++
-description: Convert XLT to PRN Online for Free. Free Online XLT Converter. Convert XLT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert XLT to PRN Online for Free. Free Online XLT to PRN Converter. C++ XLT to PRN. XLT to PRN via C++.
 keywords: Convert XLT, XLT Converter, XLT to PDF, XLT to Word, XLT to PPT, XLT to Image
 ---
 

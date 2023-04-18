@@ -1,6 +1,6 @@
 ---
 title: Convert OTS to JPG Java 
-description: Convert OTS to JPG Online for Free. Free Online OTS Converter. Convert OTS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert OTS to JPG Online for Free. Free Online OTS to JPG Converter. Java OTS to JPG. OTS to JPG via Java.
 keywords: Convert OTS, OTS Converter, OTS to PDF, OTS to Word, OTS to PPT, OTS to Image
 ---
 

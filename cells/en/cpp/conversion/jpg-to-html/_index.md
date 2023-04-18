@@ -1,6 +1,6 @@
 ---
 title: Convert JPG to HTML C++
-description: Convert JPG to HTML Online for Free. Free Online JPG Converter. Convert JPG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert JPG to HTML Online for Free. Free Online JPG to HTML Converter. C++ JPG to HTML. JPG to HTML via C++.
 keywords: Convert JPG, JPG Converter, JPG to PDF, JPG to Word, JPG to PPT, JPG to Image
 ---
 

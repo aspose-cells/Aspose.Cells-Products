@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to GIF C++
-description: Convert MHTML to GIF Online for Free. Free Online MHTML Converter. Convert MHTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert MHTML to GIF Online for Free. Free Online MHTML to GIF Converter. C++ MHTML to GIF. MHTML to GIF via C++.
 keywords: Convert MHTML, MHTML Converter, MHTML to PDF, MHTML to Word, MHTML to PPT, MHTML to Image
 ---
 

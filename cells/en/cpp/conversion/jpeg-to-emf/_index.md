@@ -1,6 +1,6 @@
 ---
 title: Convert JPEG to EMF C++
-description: Convert JPEG to EMF Online for Free. Free Online JPEG Converter. Convert JPEG to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert JPEG to EMF Online for Free. Free Online JPEG to EMF Converter. C++ JPEG to EMF. JPEG to EMF via C++.
 keywords: Convert JPEG, JPEG Converter, JPEG to PDF, JPEG to Word, JPEG to PPT, JPEG to Image
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Convert EXCEL to EMF C#
-description: Convert EXCEL to EMF Online for Free. Free Online EXCEL Converter. Convert EXCEL to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert EXCEL to EMF Online for Free. Free Online EXCEL to EMF Converter. C# EXCEL to EMF. EXCEL to EMF via C#.
 keywords: Convert EXCEL, EXCEL Converter, EXCEL to PDF, EXCEL to Word, EXCEL to PPT, EXCEL to Image
 ---
 

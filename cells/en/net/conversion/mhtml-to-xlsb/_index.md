@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to XLSB C#
-description: Convert MHTML to XLSB Online for Free. Free Online MHTML Converter. Convert MHTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert MHTML to XLSB Online for Free. Free Online MHTML to XLSB Converter. C# MHTML to XLSB. MHTML to XLSB via C#.
 keywords: Convert MHTML, MHTML Converter, MHTML to PDF, MHTML to Word, MHTML to PPT, MHTML to Image
 ---
 

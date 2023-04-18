@@ -1,6 +1,6 @@
 ---
 title: Convert TABDELIMITED to CSV C#
-description: Convert TABDELIMITED to CSV Online for Free. Free Online TABDELIMITED Converter. Convert TABDELIMITED to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert TABDELIMITED to CSV Online for Free. Free Online TABDELIMITED to CSV Converter. C# TABDELIMITED to CSV. TABDELIMITED to CSV via C#.
 keywords: Convert TABDELIMITED, TABDELIMITED Converter, TABDELIMITED to PDF, TABDELIMITED to Word, TABDELIMITED to PPT, TABDELIMITED to Image
 ---
 

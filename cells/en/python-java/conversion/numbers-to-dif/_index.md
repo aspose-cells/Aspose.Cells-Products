@@ -1,6 +1,6 @@
 ---
 title: Convert NUMBERS to DIF Python via Python
-description: Convert NUMBERS to DIF Online for Free. Free Online NUMBERS Converter. Convert NUMBERS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert NUMBERS to DIF Online for Free. Free Online NUMBERS to DIF Converter. Python NUMBERS to DIF. NUMBERS to DIF via Python.
 keywords: Convert NUMBERS, NUMBERS Converter, NUMBERS to PDF, NUMBERS to Word, NUMBERS to PPT, NUMBERS to Image
 ---
 

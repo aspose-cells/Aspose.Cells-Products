@@ -1,6 +1,6 @@
 ---
 title: Convert JSON to DOCX Java 
-description: Convert JSON to DOCX Online for Free. Free Online JSON Converter. Convert JSON to Word, Excel, PPTX, PDF, JPG, HTML, ODS, BMP, PNG, SVG, XPS and more.
+description: Convert JSON to DOCX Online for Free. Free Online JSON to DOCX Converter. Java JSON to DOCX. JSON to DOCX via Java.
 keywords: Convert JSON, JSON Converter, JSON to PDF, JSON to Word, JSON to PPT, JSON to Image
 ---
 

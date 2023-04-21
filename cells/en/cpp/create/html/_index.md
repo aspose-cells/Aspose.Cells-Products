@@ -11,7 +11,7 @@ description: Create HTML files in C++ code. Generate HTML files using C++ applic
 
 {{% blocks/products/pf/agp/content h2="Create HTML File Using C++" %}}
 
- With Aspose.Cells for C++ library, you can easily Create HTML file programmatically with  a few lines of code. [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) is capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. C++ Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT and more, thus making it a perfect choice to exchange documents in industry-standard formats. You can download its latest version directly, just open [NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) package manager, search for Aspose.Cells.Cpp and install. You may also use the following command from the Package Manager Console.
+How to create HTML file? With Aspose.Cells for C++ library, you can easily Create HTML file programmatically with  a few lines of code. [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) is capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. C++ Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT and more, thus making it a perfect choice to exchange documents in industry-standard formats. You can download its latest version directly, just open [NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) package manager, search for Aspose.Cells.Cpp and install. You may also use the following command from the Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
@@ -25,19 +25,6 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}                                                                             
 
-
-{{% blocks/products/pf/agp/content h2="System Requirements" %}}
-
-{{% blocks/products/pf/agp/text %}}
-
-Before running the C++ conversion sample source code, make sure that you have the following prerequisites. 
-
-{{% /blocks/products/pf/agp/text %}}
-
-- Microsoft Windows or a compatible OS with C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
-- Add reference to the Aspose.Cells for C++ DLL in your project.
-
-{{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="How to Create HTML via C++" %}}
 
@@ -88,19 +75,33 @@ wkb->Save(new String("created_one.html"));
 {{% /blocks/products/pf/agp/code-block %}}
 {{% /blocks/products/pf/agp/content %}}
 
-<!-- aboutfile Starts -->
+{{% blocks/products/pf/agp/content h2="C++ library to create HTML file" %}}
 
-    {{< blocks/products/pf/agp/about-file-section >}}
+{{% blocks/products/pf/agp/text %}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" >}}
-HTML (Hyper Text Markup Language) is the extension for web pages created for display in browsers. Known as language of the web, HTML has evolved with requirements of new information requirements to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from server, where these are hosted, or can be loaded from local system as well. Each HTML page is made up of HTML elements such as forms, text, images, animations, links, etc. These elements are represented by tags and several others where each tag has start and end. It can also embed applications written in scripting languages such as JavaScript and Style Sheets (CSS) for overall layout representation.
-        {{< /blocks/products/pf/agp/about-file-text >}}
+There are three options to install "Aspose.Cells for C++" onto your system. Please choose one that resembles your needs and follow the step-by-step instructions:
 
-    {{< /blocks/products/pf/agp/about-file-section >}}
+{{% /blocks/products/pf/agp/text %}}
 
-          
+1.  Install a [NuGet Package](https://www.nuget.org/packages/Aspose.Cells.Cpp/). See [Documentation](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
+1.  Install the library using Include and lib Folders. See [Documentation](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
+1.  Install Aspose.Cells for C++ in Linux. See [Documentation](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
-<!-- aboutfile Ends -->
+{{% /blocks/products/pf/agp/content %}}
+
+{{% blocks/products/pf/agp/content h2="System Requirements" %}}
+
+{{% blocks/products/pf/agp/text %}}
+
+Before running the C++ conversion sample source code, make sure that you have the following prerequisites. 
+
+{{% /blocks/products/pf/agp/text %}}
+
+- Microsoft Windows or a compatible OS with C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
+- Add reference to the Aspose.Cells for C++ DLL in your project.
+
+{{% /blocks/products/pf/agp/content %}}
+
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Sheets Generation" subTitle="You can also create other Microsoft Excel files including few listed below." >}}
 

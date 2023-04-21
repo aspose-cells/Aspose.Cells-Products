@@ -11,22 +11,11 @@ description: Create XLTX files in Python code. Generate MS Excel XLTX files usin
 
 {{% blocks/products/pf/agp/content h2="Create XLTX File Using Python" %}}
 
-With Aspose.Cells for Python library, you can easily create XLTX file programmatically with  a few lines of code. [Aspose.Cells for Python](https://pypi.org/project/aspose-cells) is capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. Python Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT and more, thus making it a perfect choice to exchange documents in industry-standard formats. 
+How to create XLTX file? With Aspose.Cells for Python library, you can easily create XLTX file programmatically with  a few lines of code. [Aspose.Cells for Python](https://pypi.org/project/aspose-cells) is capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. Python Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT and more, thus making it a perfect choice to exchange documents in industry-standard formats. 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="System Requirements" %}}
 
-{{% blocks/products/pf/agp/text %}}
-
- Aspose.Cells for Python via Java is platform-independent API and can be used on any platform (Windows, Linux and MacOS), just make sure that system have Java 1.8 or higher, [Python](https://www.python.org/downloads/) 3.5 or higher. 
-
-{{% /blocks/products/pf/agp/text %}}
-
-- Install Java and add it to PATH environment variable, for example: <code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
-- Install Aspose.Cells for Python via Java from <a href="https://pypi.org/project/aspose-cells/">pypi</a>, use command as: <code>$ pip install aspose-cells</code>.
-
-{{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="How to Create XLTX via Python" %}}
 
@@ -73,19 +62,33 @@ jpype.shutdownJVM()
 {{% /blocks/products/pf/agp/code-block %}}
 {{% /blocks/products/pf/agp/content %}}
 
+{{% blocks/products/pf/agp/content h2="Python library to create XLTX file" %}}
 
-<!-- aboutfile Starts -->
+{{% blocks/products/pf/agp/text %}}
 
+There are three options to install "Aspose.Cells for Python via Java" onto your system. Please choose one that resembles your needs and follow the step-by-step instructions:
 
-    {{< blocks/products/pf/agp/about-file-section >}}
+{{% /blocks/products/pf/agp/text %}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="XLTX" readMoreLink="https://docs.fileformat.com/spreadsheet/xltx/" >}}
-Files with .xltx extension represent Microsoft Excel Template files that are based on the Office OpenXML file format specifications. It is used to create a standard template file that can be utilized to generate XLSX files that exhibit the same settings as specified in the XLTX file.
-        {{< /blocks/products/pf/agp/about-file-text >}}
+1.  Install Aspose.Cells for Python via Java in Windows. See [Documentation](https://docs.aspose.com/cells/python-java/getting-started/#windows)
+1.  Install Aspose.Cells for Python via Java in Linux. See [Documentation](https://docs.aspose.com/cells/python-java/getting-started/#linux)
+1.  Install Aspose.Cells for Python via Java in macOS. See [Documentation](https://docs.aspose.com/cells/python-java/getting-started/#macos)
 
-        {{< /blocks/products/pf/agp/about-file-section >}}   
+{{% /blocks/products/pf/agp/content %}}
 
-<!-- aboutfile Ends -->
+{{% blocks/products/pf/agp/content h2="System Requirements" %}}
+
+{{% blocks/products/pf/agp/text %}}
+
+ Aspose.Cells for Python via Java is platform-independent API and can be used on any platform (Windows, Linux and MacOS), just make sure that system have Java 1.8 or higher, [Python](https://www.python.org/downloads/) 3.5 or higher. 
+
+{{% /blocks/products/pf/agp/text %}}
+
+- Install Java and add it to PATH environment variable, for example: <code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
+- Install Aspose.Cells for Python via Java from <a href="https://pypi.org/project/aspose-cells/">pypi</a>, use command as: <code>$ pip install aspose-cells</code>.
+
+{{% /blocks/products/pf/agp/content %}}
+
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Spreadsheet Generation" subTitle="You can also create other Microsoft Excel formats including few listed below." >}}
 

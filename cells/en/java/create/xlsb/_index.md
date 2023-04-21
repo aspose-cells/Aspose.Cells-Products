@@ -11,7 +11,7 @@ description: Create XLSB files in Java code. Generate MS Excel XLSB files using 
 
 {{% blocks/products/pf/agp/content h2="Create XLSB File Using Java" %}}
 
-With Aspose.Cells for Java library, you can easily create XLSB file programmatically with  a few lines of code. [Aspose.Cells for Java](https://products.aspose.com/cells/java) is capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. Java Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT and more, thus making it a perfect choice to exchange documents in industry-standard formats. You can download its latest version directly from [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) and install it within your Maven-based project by adding the following configurations to the pom.xml.
+How to create XLSB file? With Aspose.Cells for Java library, you can easily create XLSB file programmatically with  a few lines of code. [Aspose.Cells for Java](https://products.aspose.com/cells/java) is capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. Java Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT and more, thus making it a perfect choice to exchange documents in industry-standard formats. You can download its latest version directly from [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) and install it within your Maven-based project by adding the following configurations to the pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -44,19 +44,7 @@ With Aspose.Cells for Java library, you can easily create XLSB file programmatic
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="System Requirements" %}}
 
-{{% blocks/products/pf/agp/text %}}
-
-Before running the Java conversion sample source code, make sure that you have the following prerequisites.  
-
-{{% /blocks/products/pf/agp/text %}}
-
-- Microsoft Windows or a compatible OS with Java Runtime Environment for JSP/JSF Application and Desktop Applications.
-- Aspose.Cells for Java supports the following Java versions: J2SE 6.0 (1.6), J2SE 7.0 (1.7), or above.
-- [Get latest version of Aspose.Cells for Java directly from Maven.](https://docs.aspose.com/cells/java/installation/) 
-
-{{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="How to Create XLSB via Java" %}}
 
@@ -101,21 +89,28 @@ wkb.save("Excel.xlsb");
 {{% /blocks/products/pf/agp/code-block %}}
 {{% /blocks/products/pf/agp/content %}}
 
+{{% blocks/products/pf/agp/content h2="Java library to create XLSB file" %}}
+{{% blocks/products/pf/agp/text %}}
 
-<!-- aboutfile Starts -->
+We host our Java packages in [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) repositories. 'Aspose.Cells for Java' is a common JAR file containing byte-code. Please follow the [step-by-step instructions](https://docs.aspose.com/cells/java/installation/) on how to install it to your Java developer environment.
 
+{{% /blocks/products/pf/agp/text %}}
+{{% /blocks/products/pf/agp/content %}}
 
-    {{< blocks/products/pf/agp/about-file-section >}}
+{{% blocks/products/pf/agp/content h2="System Requirements" %}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}
-XLSB file format specifies the Excel Binary File Format, which is a collection of records and structures that specify Excel workbook content. The content can include unstructured or semi-structured tables of numbers, text, or both numbers and text, formulas, external data connections, charts and images. Unlike XLSX (which is based on Open XML file format), the XLSB represents binary Excel workbook file. XLSB files can be read and written to faster which makes them useful for working with large files. XLSB is seldom used to store workbooks as XLSX (and previously XLS) are the most common user selected file formats for saving workbooks. It can be opened by Microsoft Office 2007 and above.
-        {{< /blocks/products/pf/agp/about-file-text >}}
+{{% blocks/products/pf/agp/text %}}
 
-    {{< /blocks/products/pf/agp/about-file-section >}}
+Before running the Java conversion sample source code, make sure that you have the following prerequisites.  
 
-          
+{{% /blocks/products/pf/agp/text %}}
 
-<!-- aboutfile Ends -->
+- Microsoft Windows or a compatible OS with Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+- Aspose.Cells for Java supports the following Java versions: J2SE 6.0 (1.6), J2SE 7.0 (1.7), or above.
+- [Get latest version of Aspose.Cells for Java directly from Maven.](https://docs.aspose.com/cells/java/installation/) 
+
+{{% /blocks/products/pf/agp/content %}}
+
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Spreadsheet Generation" subTitle="You can also create other Microsoft Excel formats including few listed below." >}}
 

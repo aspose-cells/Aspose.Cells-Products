@@ -11,7 +11,7 @@ description: Create XLSM files in Java code. Generate MS Excel XLSM files using 
 
 {{% blocks/products/pf/agp/content h2="Create XLSM File Using Java" %}}
 
-With Aspose.Cells for Java library, you can easily create XLSM file programmatically with  a few lines of code. [Aspose.Cells for Java](https://products.aspose.com/cells/java) is capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. Java Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT and more, thus making it a perfect choice to exchange documents in industry-standard formats. You can download its latest version directly from [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) and install it within your Maven-based project by adding the following configurations to the pom.xml.
+How to create XLSM file? With Aspose.Cells for Java library, you can easily create XLSM file programmatically with  a few lines of code. [Aspose.Cells for Java](https://products.aspose.com/cells/java) is capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. Java Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT and more, thus making it a perfect choice to exchange documents in industry-standard formats. You can download its latest version directly from [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) and install it within your Maven-based project by adding the following configurations to the pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -44,19 +44,7 @@ With Aspose.Cells for Java library, you can easily create XLSM file programmatic
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="System Requirements" %}}
 
-{{% blocks/products/pf/agp/text %}}
-
-Before running the Java conversion sample source code, make sure that you have the following prerequisites.  
-
-{{% /blocks/products/pf/agp/text %}}
-
-- Microsoft Windows or a compatible OS with Java Runtime Environment for JSP/JSF Application and Desktop Applications.
-- Aspose.Cells for Java supports the following Java versions: J2SE 6.0 (1.6), J2SE 7.0 (1.7), or above.
-- [Get latest version of Aspose.Cells for Java directly from Maven.](https://docs.aspose.com/cells/java/installation/) 
-
-{{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="How to Create XLSM via Java" %}}
 
@@ -101,21 +89,28 @@ wkb.save("Excel.xlsm");
 {{% /blocks/products/pf/agp/code-block %}}
 {{% /blocks/products/pf/agp/content %}}
 
+{{% blocks/products/pf/agp/content h2="Java library to create XLSM file" %}}
+{{% blocks/products/pf/agp/text %}}
 
-<!-- aboutfile Starts -->
+We host our Java packages in [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) repositories. 'Aspose.Cells for Java' is a common JAR file containing byte-code. Please follow the [step-by-step instructions](https://docs.aspose.com/cells/java/installation/) on how to install it to your Java developer environment.
 
+{{% /blocks/products/pf/agp/text %}}
+{{% /blocks/products/pf/agp/content %}}
 
-    {{< blocks/products/pf/agp/about-file-section >}}
+{{% blocks/products/pf/agp/content h2="System Requirements" %}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}
-Files with XLSM extension is a type of Spreadsheet files that support Macros. From application point of view, a Macro is set of instructions that are used for automating processes. A macro is used to record the steps that are performed repeatedly and facilitates performing the actions by running the macro again. Macros are programmed with Microsoft’s Visual Basic for Applications (VBA) from within the Excel Workbook using the Visual Basic Editor and can be run/debug directly from there.
-        {{< /blocks/products/pf/agp/about-file-text >}}
+{{% blocks/products/pf/agp/text %}}
 
-    {{< /blocks/products/pf/agp/about-file-section >}}
+Before running the Java conversion sample source code, make sure that you have the following prerequisites.  
 
-          
+{{% /blocks/products/pf/agp/text %}}
 
-<!-- aboutfile Ends -->
+- Microsoft Windows or a compatible OS with Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+- Aspose.Cells for Java supports the following Java versions: J2SE 6.0 (1.6), J2SE 7.0 (1.7), or above.
+- [Get latest version of Aspose.Cells for Java directly from Maven.](https://docs.aspose.com/cells/java/installation/) 
+
+{{% /blocks/products/pf/agp/content %}}
+
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Spreadsheet Generation" subTitle="You can also create other Microsoft Excel formats including few listed below." >}}
 

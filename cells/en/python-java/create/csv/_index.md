@@ -11,22 +11,11 @@ description: Create CSV files in Python code. Generate CSV files using Python ap
 
 {{% blocks/products/pf/agp/content h2="Create CSV File Using Python" %}}
 
-With Aspose.Cells for Python library, you can easily create CSV file programmatically with  a few lines of code. [Aspose.Cells for Python](https://pypi.org/project/aspose-cells) is capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. Python Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT and more, thus making it a perfect choice to exchange documents in industry-standard formats. 
+How to create CSV file? With Aspose.Cells for Python library, you can easily create CSV file programmatically with  a few lines of code. [Aspose.Cells for Python](https://pypi.org/project/aspose-cells) is capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. Python Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT and more, thus making it a perfect choice to exchange documents in industry-standard formats. 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="System Requirements" %}}
 
-{{% blocks/products/pf/agp/text %}}
-
- Aspose.Cells for Python via Java is platform-independent API and can be used on any platform (Windows, Linux and MacOS), just make sure that system have Java 1.8 or higher, [Python](https://www.python.org/downloads/) 3.5 or higher. 
-
-{{% /blocks/products/pf/agp/text %}}
-
-- Install Java and add it to PATH environment variable, for example: <code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
-- Install Aspose.Cells for Python via Java from <a href="https://pypi.org/project/aspose-cells/">pypi</a>, use command as: <code>$ pip install aspose-cells</code>.
-
-{{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="How to Create CSV via Python" %}}
 
@@ -73,19 +62,33 @@ jpype.shutdownJVM()
 {{% /blocks/products/pf/agp/code-block %}}
 {{% /blocks/products/pf/agp/content %}}
 
+{{% blocks/products/pf/agp/content h2="Python library to create CSV file" %}}
 
-<!-- aboutfile Starts -->
+{{% blocks/products/pf/agp/text %}}
 
+There are three options to install "Aspose.Cells for Python via Java" onto your system. Please choose one that resembles your needs and follow the step-by-step instructions:
 
-    {{< blocks/products/pf/agp/about-file-section >}}
+{{% /blocks/products/pf/agp/text %}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CSV" readMoreLink="https://docs.fileformat.com/spreadsheet/csv/" >}}
-Files with .csv (Comma Separated Values) extension represent plain text files that contain records of data with comma separated values. Each line in a CSV file is a new record from the set of records contained in the file. Such files are generated when data transfer is intended from one storage system to another. Since all applications can recognize records separated by comma, import of such data files to database is done very conveniently. Almost all spreadsheet applications such as Microsoft Excel or OpenOffice Calc can import CSV without much effort. Data imported from such files is arranged in cells of a spreadsheet for representation to user.
-        {{< /blocks/products/pf/agp/about-file-text >}}
+1.  Install Aspose.Cells for Python via Java in Windows. See [Documentation](https://docs.aspose.com/cells/python-java/getting-started/#windows)
+1.  Install Aspose.Cells for Python via Java in Linux. See [Documentation](https://docs.aspose.com/cells/python-java/getting-started/#linux)
+1.  Install Aspose.Cells for Python via Java in macOS. See [Documentation](https://docs.aspose.com/cells/python-java/getting-started/#macos)
 
-        {{< /blocks/products/pf/agp/about-file-section >}}   
+{{% /blocks/products/pf/agp/content %}}
 
-<!-- aboutfile Ends -->
+{{% blocks/products/pf/agp/content h2="System Requirements" %}}
+
+{{% blocks/products/pf/agp/text %}}
+
+ Aspose.Cells for Python via Java is platform-independent API and can be used on any platform (Windows, Linux and MacOS), just make sure that system have Java 1.8 or higher, [Python](https://www.python.org/downloads/) 3.5 or higher. 
+
+{{% /blocks/products/pf/agp/text %}}
+
+- Install Java and add it to PATH environment variable, for example: <code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
+- Install Aspose.Cells for Python via Java from <a href="https://pypi.org/project/aspose-cells/">pypi</a>, use command as: <code>$ pip install aspose-cells</code>.
+
+{{% /blocks/products/pf/agp/content %}}
+
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Spreadsheet Generation" subTitle="You can also create other Microsoft Excel formats including few listed below." >}}
 

@@ -1,6 +1,6 @@
 ---
 title: Create HTML Files via C++
-description: Create HTML files in C++ code. Generate HTML files using C++ application.
+description: HTML creater. Create HTML files in C++ code. Generate HTML files using C++ application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,6 +1,6 @@
 ---
 title: Create HTML Files via Python
-description: Create HTML files in Python code. Generate HTML files using Python application.
+description: HTML creater. Create HTML files in Python code. Generate HTML files using Python application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -11,7 +11,7 @@ description: Create HTML files in Python code. Generate HTML files using Python 
 
 {{% blocks/products/pf/agp/content h2="Create HTML File Using Python" %}}
 
-How to create HTML file? With Aspose.Cells for Python library, you can easily create HTML file programmatically with  a few lines of code. [Aspose.Cells for Python](https://pypi.org/project/aspose-cells) is capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. Python Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT and more, thus making it a perfect choice to exchange documents in industry-standard formats. 
+How to create HTML file? With Aspose.Cells for Python via Java library, you can easily create HTML file programmatically with  a few lines of code. [Aspose.Cells for Python](https://pypi.org/project/aspose-cells) is capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. Python Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT and more, thus making it a perfect choice to exchange documents in industry-standard formats. 
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -40,19 +40,19 @@ import asposecells
 jpype.startJVM()
 from asposecells.api import Workbook, FileFormatType
 
-// Create Workbook object.
+# Create Workbook object.
 workbook = Workbook(FileFormatType.HTML)
 
-// Access the first worksheet of the workbook.
+# Access the first worksheet of the workbook.
 worksheet = workbook.getWorksheets().get(0)
 
-// Get the desired cell(s) of the worksheet and input the value into the cell(s).
+# Get the desired cell(s) of the worksheet and input the value into the cell(s).
 worksheet.getCells().get("A1").putValue("ColumnA")
 worksheet.getCells().get("B1").putValue("ColumnB")
 worksheet.getCells().get("A2").putValue("ValueA")
 worksheet.getCells().get("B2").putValue("ValueB")
 
-// Save the workbook as HTML file.
+# Save the workbook as HTML file.
 workbook.save("output.html")
 
 jpype.shutdownJVM()

@@ -1,6 +1,6 @@
 ---
 title: Create PDF Files via Java
-description: Create PDF files in Java code. Generate PDF files using Java based desktop or web application.
+description: PDF creater. Create PDF files in Java code. Generate PDF files using Java based desktop or web application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

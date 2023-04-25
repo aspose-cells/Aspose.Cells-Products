@@ -1,6 +1,6 @@
 ---
 title: Create ODS (Openoffice / Lbreoffice) Files via C#
-description: Create ODS files in C# code. Generate ODS (Openoffice / Lbreoffice) files using VB.NET, Asp.NET or any .NET based application.
+description: ODS creater. Create ODS files in C# code. Generate ODS (Openoffice / Lbreoffice) files using VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

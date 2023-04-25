@@ -1,6 +1,6 @@
 ---
 title: Create MS Excel XLS Files via Python
-description: Create XLS files in Python code. Generate MS Excel XLS files using Python application.
+description: XLS creater. Create XLS files in Python code. Generate MS Excel XLS files using Python application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -11,7 +11,7 @@ description: Create XLS files in Python code. Generate MS Excel XLS files using 
 
 {{% blocks/products/pf/agp/content h2="Create XLS File Using Python" %}}
 
-How to create XLS file? With Aspose.Cells for Python library, you can easily create XLS file programmatically with  a few lines of code. [Aspose.Cells for Python](https://pypi.org/project/aspose-cells) is capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. Python Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT and more, thus making it a perfect choice to exchange documents in industry-standard formats. 
+How to create XLS file? With Aspose.Cells for Python via Java library, you can easily create XLS file programmatically with  a few lines of code. [Aspose.Cells for Python](https://pypi.org/project/aspose-cells) is capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. Python Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT and more, thus making it a perfect choice to exchange documents in industry-standard formats. 
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -40,19 +40,19 @@ import asposecells
 jpype.startJVM()
 from asposecells.api import Workbook, FileFormatType
 
-// Create Workbook object.
+# Create Workbook object.
 workbook = Workbook(FileFormatType.XLS)
 
-// Access the first worksheet of the workbook.
+# Access the first worksheet of the workbook.
 worksheet = workbook.getWorksheets().get(0)
 
-// Get the desired cell(s) of the worksheet and input the value into the cell(s).
+# Get the desired cell(s) of the worksheet and input the value into the cell(s).
 worksheet.getCells().get("A1").putValue("ColumnA")
 worksheet.getCells().get("B1").putValue("ColumnB")
 worksheet.getCells().get("A2").putValue("ValueA")
 worksheet.getCells().get("B2").putValue("ValueB")
 
-// Save the workbook as XLS file.
+# Save the workbook as XLS file.
 workbook.save("output.xls")
 
 jpype.shutdownJVM()

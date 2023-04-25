@@ -1,6 +1,6 @@
 ---
 title: Create MHTML Files via C++
-description: Create MHTML files in C++ code. Generate MHTML files using C++ application.
+description: MHTML creater. Create MHTML files in C++ code. Generate MHTML files using C++ application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

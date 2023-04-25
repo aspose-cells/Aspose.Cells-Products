@@ -1,6 +1,6 @@
 ---
 title: Create PDF Files via C++
-description: Create PDF files in C++ code. Generate PDF files using C++ application.
+description: PDF creater. Create PDF files in C++ code. Generate PDF files using C++ application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

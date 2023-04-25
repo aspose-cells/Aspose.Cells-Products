@@ -1,6 +1,6 @@
 ---
 title: Create MS Excel XLTX Files via Java
-description: Create XLTX files in Java code. Generate MS Excel XLTX files using Java based desktop or web application.
+description: XLTX creater. Create XLTX files in Java code. Generate MS Excel XLTX files using Java based desktop or web application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

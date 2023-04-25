@@ -1,6 +1,6 @@
 ---
 title: Create MS Excel XLSM Files via C++
-description: Create XLSM files in C++ code. Generate MS Excel XLSM files using C++ application.
+description: XLSM creater. Create XLSM files in C++ code. Generate MS Excel XLSM files using C++ application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

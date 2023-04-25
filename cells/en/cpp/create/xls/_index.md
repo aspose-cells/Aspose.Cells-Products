@@ -1,6 +1,6 @@
 ---
 title: Create MS Excel XLS Files via C++
-description: Create XLS files in C++ code. Generate MS Excel XLS files using C++ application.
+description: XLS creater. Create XLS files in C++ code. Generate MS Excel XLS files using C++ application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

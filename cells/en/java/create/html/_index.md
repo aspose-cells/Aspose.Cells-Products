@@ -1,6 +1,6 @@
 ---
 title: Create HTML Files via Java
-description: Create HTML files in Java code. Generate HTML files using Java based desktop or web application.
+description: HTML creater. Create HTML files in Java code. Generate HTML files using Java based desktop or web application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

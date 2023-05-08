@@ -1,11 +1,10 @@
 ---
-title: 在 SQL Server 中将 RDL 报告导出到 Excel XLS XLSX 和 SpreadsheetML 
+title: 在 SQL Server 中将 RDL 报告导出到 Excel XLS XLSX 和 SpreadsheetML
 weight: 3460
-
-description: SQL Server Reporting Services 呈现扩展插件 - 导出 Excel XLS XLSX XLSM XLSB CSV SpreadsheetML HTML ODS 和 TXT 格式
+description: SQL Server Reporting Services 呈现扩展 - 导出 Excel XLS XLSX XLSM XLSB CSV SpreadsheetML HTML ODS 和 TXT 格式
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Reporting Services 扩展以 Excel 文件形式提供报告" h2="轻松将 RDL 和 RDLC 报告导出为 Excel 电子表格文件格式。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-reporting-services.svg" pfName="Aspose.Cells" subTitlepfName="for Reporting Services" downloadUrl="https://downloads.aspose.com/cells/reportingservices" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="将报表作为 Excel 文件交付的 Reporting Services 扩展" h2="轻松将 RDL 和 RDLC 报告导出为 Excel 电子表格文件格式。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-reporting-services.svg" pfName="Aspose.Cells" subTitlepfName="for Reporting Services" downloadUrl="https://downloads.aspose.com/cells/reportingservices" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Reporting Services" >}}
 
@@ -13,7 +12,7 @@ description: SQL Server Reporting Services 呈现扩展插件 - 导出 Excel XLS
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Reporting Services 的 Aspose.Cells 允许您从 Microsoft SQL Server Reporting Services 和 Microsoft Report Viewer 中提供 Excel 报告。与基于 Excel 的报表的本机导出器不同 - Reporting Services 的 Aspose.Cells 允许转换 RDL 和RDLC 以多种 Excel 电子表格文件格式报告。
+ Aspose.Cells for Reporting Services 允许您从 Microsoft SQL Server Reporting Services 和 Microsoft Report Viewer 中传送 Excel 报告。与基于 Excel 的报告的本机导出器不同 - Aspose.Cells for Reporting Services 允许转换 RDL &amp; RDLC 报告为多种 Excel 电子表格文件格式。
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -21,51 +20,51 @@ description: SQL Server Reporting Services 呈现扩展插件 - 导出 Excel XLS
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="乍看上去" description="Reporting Services 的 Aspose.Cells 概述。" >}}
+{{< blocks/products/pf/carousel-item h3="乍看上去" description="概览 Aspose.Cells for Reporting Services。" >}}
 <div class="diagram1 d1-rs">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-file-image-o">
     </i>
-    RDL 支持
+研发支持
    </header>
    <ul>
     <li>
-     页
+页
     </li>
     <li>
-     页眉页脚
+页眉页脚
     </li>
     <li>
-     文本框
+文本框
     </li>
     <li>
-     图片
+图片
     </li>
     <li>
-     子报告
+子报告
     </li>
     <li>
-     图表
+图表
     </li>
     <li>
-     列表
+列表
     </li>
     <li>
-     表
+表
     </li>
     <li>
-     测量
+测量
     </li>
     <li>
-     矩阵
+矩阵
     </li>
     <li>
-     矩形/线
+矩形/直线
     </li>
     <li>
-     风格
+样式
     </li>
    </ul>
   </div>
@@ -74,48 +73,48 @@ description: SQL Server Reporting Services 呈现扩展插件 - 导出 Excel XLS
    <header>
     <i class="fa fa-cogs">
     </i>
-    数据处理
+数据处理
    </header>
    <ul>
     <li>
-     报表服务公式
+报表服务公式
     </li>
     <li>
-     动态公式
+动态公式
     </li>
     <li>
-     具有分组行的表
+具有分组行的表
     </li>
     <li>
-     带有分组页脚的表格
+带分组页脚的表格
     </li>
     <li>
-     微软查询
+查询
     </li>
     <li>
-     报告特定数据源
+报告特定数据源
     </li>
     <li>
-     共享数据源
+共享数据源
     </li>
     <li>
-     加密
+加密
     </li>
    </ul>
    <header>
     <i class="fa fa-table">
     </i>
-    报表设计器
+报表设计器
    </header>
    <ul>
     <li>
-     数据透视表
+数据透视表
     </li>
     <li>
-     交互式图表
+交互式图表
     </li>
     <li>
-     公式
+公式
     </li>
    </ul>
   </div>
@@ -130,9 +129,9 @@ description: SQL Server Reporting Services 呈现扩展插件 - 导出 Excel XLS
   <footer>
    <small>
     <em>
-     为了
+为了
     </em>
-    报告服务
+报告服务
    </small>
   </footer>
  </div>
@@ -141,7 +140,7 @@ description: SQL Server Reporting Services 呈现扩展插件 - 导出 Excel XLS
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="平台独立性" description="Reporting Services 的 Aspose.Cells 支持 Microsoft SQL Server Reporting Services。" >}}
+{{< blocks/products/pf/carousel-item h3="平台独立性" description="Aspose.Cells for Reporting Services 支持 Microsoft SQL Server Reporting Services。" >}}
 <div class="diagram1 d1-rs">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -151,14 +150,14 @@ description: SQL Server Reporting Services 呈现扩展插件 - 导出 Excel XLS
    <header style="padding-left: 0px;">
     <i class="fa fa-cubes">
     </i>
-    SQL Server 报告服务
+ SQL Server 报表服务
    </header>
    <ul>
     <li>
-     2005年
+     2005
     </li>
     <li>
-     2008 和 2008 R2
+2008 和 2008 R2
     </li>
     <li>
      2012
@@ -167,7 +166,7 @@ description: SQL Server Reporting Services 呈现扩展插件 - 导出 Excel XLS
      2014
     </li>
     <li>
-     2016 年
+     2016
     </li>
     <!--<li>2017</li>-->
    </ul>
@@ -183,9 +182,9 @@ description: SQL Server Reporting Services 呈现扩展插件 - 导出 Excel XLS
   <footer>
    <small>
     <em>
-     为了
+为了
     </em>
-    报告服务
+报告服务
    </small>
   </footer>
  </div>
@@ -194,14 +193,14 @@ description: SQL Server Reporting Services 呈现扩展插件 - 导出 Excel XLS
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="支持的文件格式" description="Aspose.Cells for Reporting Services 支持常用的电子表格 [文件格式](https://docs.aspose.com/cells/reportingservices/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="支持的文件格式" description=" Aspose.Cells for Reporting Services 支持常用电子表格[文件格式](https://docs.aspose.com/cells/reportingservices/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-rs">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-long-arrow-down">
     </i>
-    仅输入
+仅输入
    </header>
    <ul>
     <li>
@@ -217,36 +216,36 @@ description: SQL Server Reporting Services 呈现扩展插件 - 导出 Excel XLS
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    仅输出
+仅输出
    </header>
    <ul>
     <li>
      <b>
-      微软Excel：
+Microsoft Excel：
      </b>
-     XLS、XLSX、XLSM、XLSB、XML
+XLS, XLSX, XLSM, XLSB, XML
     </li>
     <li>
      <b>
-      开发办公室：
+开发办公室：
      </b>
-     消耗臭氧层物质
+     ODS
     </li>
     <li>
      <b>
-      网站：
+网址：
      </b>
      HTML
     </li>
     <li>
      <b>
-      文本：
+文本：
      </b>
-     CSV、TSV、制表符分隔的文本文件
+ CSV、TSV、TabDelimited 文本文件
     </li>
     <li>
      <strong>
-      固定布局：
+固定布局：
      </strong>
      XPS
     </li>
@@ -263,9 +262,9 @@ description: SQL Server Reporting Services 呈现扩展插件 - 导出 Excel XLS
   <footer>
    <small>
     <em>
-     为了
+为了
     </em>
-    报告服务
+报告服务
    </small>
   </footer>
  </div>
@@ -284,7 +283,7 @@ description: SQL Server Reporting Services 呈现扩展插件 - 导出 Excel XLS
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    高级报告服务功能
+高级报告服务功能
    </h2>
    <p>
    </p>
@@ -292,83 +291,83 @@ description: SQL Server Reporting Services 呈现扩展插件 - 导出 Excel XLS
     <em class="fa fa-share ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     导出 MarkDown 格式文件
+导出 MarkDown 格式文件
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     支持 Tablix 组分页符
+支持 Tablix 组分页符
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-plus ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     生成多个选项卡
+生成多个选项卡
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-expand ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     折叠或展开数据透视表字段
+折叠或展开数据透视表字段
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-minus ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     支持执行减法计算
+支持进行负运算
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-print ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     调用 MS Excel 打印格式
+调用 MS Excel 打印格式
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-line-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     支持 MS Excel 2016 图表
+支持 MS Excel 2016 图表
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-terminal ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     在 Excel 表格中调整页边距设置
+在 Excel 工作表中调整页边距设置
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Aspose.Cells' 报告设计器工具
+Aspose.Cells' 报告设计器工具
     </h2>
     <p>
-     开发人员可以使用 Aspose.Cells.Report.Designer - 一个使用 Microsoft Excel 作为报告模板的简单设计工具，直接从 Microsoft Excel 设计和交付报告。此功能允许利用 Microsoft Excel 应用程序中提供的所有强大功能和特性，包括数据透视表、交互式图表、公式等。
+开发人员可以直接从 Microsoft Excel 设计和交付报告，同时使用 Aspose.Cells.Report.Designer - 一个使用 Microsoft Excel 作为报告模板的简单设计工具。此功能允许利用 Microsoft Excel 应用程序中可用的所有强大功能和特性，包括数据透视表、交互式图表、公式等。
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     将报告导出为电子表格格式
+将报告导出为电子表格格式
     </h2>
     <p>
-     Reporting Services 的 Aspose.Cells 支持所有流行的 Microsoft Excel (97 - 2016) 文件格式，包括“原生”Microsoft Excel 格式，如 XLS、XLSX、XLSM、SpreadsheetML、CSV、制表符分隔和 HTML。 Aspose.Cells for Reporting Services 还支持 ODS（OpenDocument 电子表格）文件格式。
+Aspose.Cells for Reporting Services 支持所有流行的 Microsoft Excel (97 - 2016) 文件格式，包括“原生” Microsoft Excel 格式，如 XLS、XLSX、XLSM、SpreadsheetML、CSV、Tab De limited 和 HTML。 Aspose.Cells for Reporting Services 还支持 ODS (OpenDocument Spreadsheet) 文件格式。
     </p>
     <p>
-     最重要的是，用于 Reporting Services 的 Aspose.Cells 将 Excel 文档导出为完全可编辑的电子表格，即；如果需要，最终用户可以在 Microsoft Excel 应用程序中手动编辑生成的电子表格。
+最重要的是，Aspose.Cells for Reporting Services 将 Excel 文档导出为完全可编辑的电子表格，即；如果需要，最终用户可以在 Microsoft Excel 应用程序中手动编辑生成的电子表格。
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     高保真 - 与报表设计相同
+高保真 - 与报表设计相同
     </h2>
     <p>
-     Aspose.Cells 用于 Reporting Services 将报告导出到 Microsoft Excel 电子表格，结果与内置 Reporting Services 报告设计器生成的原始结果相同。所有报告功能都转换为最高精度，以使 Microsoft Excel 电子表格看起来尽可能与原始电子表格相似。
+Aspose.Cells for Reporting Services 将报表导出到 Microsoft Excel 电子表格，结果与内置 Reporting Services 报表设计器生成的原始报表相同。所有报表功能都转换为最高精度，以使 Microsoft Excel 电子表格看起来尽可能与原始电子表格相似。
     </p>
    </div>
    <!--
@@ -384,13 +383,13 @@ description: SQL Server Reporting Services 呈现扩展插件 - 导出 Excel XLS
 -->
    <div class="col-lg-12">
     <h2 class="h2title">
-     各种数据处理选项
+各种数据处理选项
     </h2>
     <p>
-     Reporting Services 的 Aspose.Cells 支持具有分组行和页脚的表格，而分组可以像其他报表项一样在设计时设置。 Reporting Services 的 Aspose.Cells 还支持将参数和全局变量作为报表数据源。开发人员还可以利用 Microsoft Query 来创建数据源和查询；这是一个广泛使用的工具，并且为大多数用户所熟悉。
+Aspose.Cells for Reporting Services 支持带有分组行和页脚的表格，而分组可以像其他报表项一样在设计时设置。 Aspose.Cells for Reporting Services 还支持参数和全局变量作为报表数据源。开发者也可以利用 Microsoft Query 创建数据源和查询；这是一个广泛使用的工具，并且为大多数用户所熟悉。
     </p>
     <p>
-     除此之外，用于 Reporting Services 的 Aspose.Cells 支持报表特定数据源和预先在报表服务器上创建的共享数据源。开发人员可以在设计时使用报表特定数据源，并在发布报表时指定共享数据源作为报表数据源。
+除此之外，Aspose.Cells for Reporting Services既支持报表专用数据源，也支持预先在Report Server上创建的共享数据源。开发人员可以在设计时使用报表特定数据源，并在发布报表时将共享数据源指定为报表数据源。
     </p>
    </div>
    <!-- 
@@ -422,10 +421,10 @@ description: SQL Server Reporting Services 呈现扩展插件 - 导出 Excel XLS
 -->
    <div class="col-lg-12">
     <h2 class="h2title">
-     微软办公自动化——不需要
+ Microsoft 办公自动化——不需要
     </h2>
     <p>
-     Aspose.Cells for Reporting Services 使用托管代码构建，无需在计算机上安装 Microsoft Office 或 Microsoft Excel 即可使用 Excel 文档格式。在支持的功能、安全性、稳定性、可扩展性、速度和价格方面，它是一个完美的 Microsoft Excel 自动化替代方案。
+ Aspose.Cells for Reporting Services 使用托管代码构建，无需在机器上安装 Microsoft Office 或 Microsoft Excel 即可使用 Excel 文档格式。就支持的功能、安全性、稳定性、可扩展性、速度和价格而言，它是完美的 Microsoft Excel 自动化替代方案。
     </p>
    </div>
   </div>
@@ -445,12 +444,12 @@ description: SQL Server Reporting Services 呈现扩展插件 - 导出 Excel XLS
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="产品支持" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="免费支持" href="https://forum.aspose.com/c/cells" >}}
+{{< blocks/products/pf/slr-element name="免费支持" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="付费支持" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="博客" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="为什么选择 Aspose.Cells 用于 Reporting Services？" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="为什么是 Aspose.Cells for Reporting Services？" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="客户名单" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="成功的故事" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}

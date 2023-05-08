@@ -1,19 +1,18 @@
 ---
-title: Python Excel 电子表格 API - Aspose 
+title:  Python Excel 电子表格 API - Aspose
 weight: 2820
-
 description: Python 电子表格库，用于创建读写和解析 Excel 文件。
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Python Excel 电子表格解析 API" h2="在 Python 应用程序中生成、读取、编写或操作电子表格以及将 Excel 文件导出为多种格式。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-python-java.svg" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="https://downloads.aspose.com/cells/python" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Python Excel 电子表格解析 API" h2="在 Python 应用程序中生成、读取、写入或操作电子表格以及将 Excel 文件导出为多种格式。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-python-java.svg" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="https://releases.aspose.com/cells/python-java/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Python via Java" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/python-java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cells/pythonjava/" installationsDocsLink="" nugetLink="" nugetPackageName="" pipLink="https://pypi.org/project/aspose-cells/" directDownloadLink="https://downloads.aspose.com/cells/python" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/python-java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cells/pythonjava/" installationsDocsLink="" nugetLink="" nugetPackageName="" pipLink="https://pypi.org/project/aspose-cells/" directDownloadLink="https://releases.aspose.com/cells/python-java/" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Python via Java 是用于电子表格处理任务的快速可靠的 API。开发人员可以创建简单或复杂的电子表格、操作以及从 Excel 文件中提取信息。 API 可读取多种 excel 格式，并可将工作表呈现为 XPS、PDF、MHTML、HTML、纯文本、图像等。这是使用python自动化excel报告的最佳解决方案。
+Aspose.Cells for Python via Java 是用于电子表格处理任务的快速可靠的 API。开发人员可以创建简单或复杂的电子表格，操作以及从 excel 文件中提取信息。 API 读取多种 excel 格式，并可以将工作表呈现为 XPS、PDF、MHTML、HTML、纯文本、图像等。它是使用 python 自动化 excel 报告的最佳解决方案。
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -28,33 +27,33 @@ description: Python 电子表格库，用于创建读写和解析 Excel 文件�
    <header>
     <i class="fa fa-refresh">
     </i>
-    进口&amp;出口
+进口&amp;出口
    </header>
    <ul>
     <li>
-     数组
+数组
     </li>
     <li>
-     结果集
+结果集
     </li>
     <li>
-     收藏品
+收藏品
     </li>
    </ul>
    <header>
     <i class="fa fa-cog">
     </i>
-    渲染
+渲染
    </header>
    <ul>
     <li>
-     图表到图像
+图表到图像
     </li>
     <li>
-     工作表到图像
+工作表到图像
     </li>
     <li>
-     电子表格转 PDF
+电子表格到 PDF
     </li>
    </ul>
   </div>
@@ -63,23 +62,23 @@ description: Python 电子表格库，用于创建读写和解析 Excel 文件�
    <header>
     <i class="fa fa-table">
     </i>
-    数据处理
+数据处理
    </header>
    <ul>
     <li>
-     应用格式
+应用格式
     </li>
     <li>
-     应用公式
+应用公式
     </li>
     <li>
-     创建图表
+创建图表
     </li>
     <li>
-     总结
+总结
     </li>
     <li>
-     智能标记
+智能标记
     </li>
    </ul>
   </div>
@@ -94,9 +93,9 @@ description: Python 电子表格库，用于创建读写和解析 Excel 文件�
   <footer>
    <small>
     <em>
-     为了
+为了
     </em>
-    Python 通过 Java
+    Python via Java
    </small>
   </footer>
  </div>
@@ -105,7 +104,7 @@ description: Python 电子表格库，用于创建读写和解析 Excel 文件�
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="平台独立性" description="Aspose.Cells 通过 Java 可用于 Python。" >}}
+{{< blocks/products/pf/carousel-item h3="平台独立性" description="Aspose.Cells for Python via Java 可用于。" >}}
 <div class="diagram1 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -115,7 +114,7 @@ description: Python 电子表格库，用于创建读写和解析 Excel 文件�
    <header style="padding-left: 0px;">
     <i class="fa fa-cogs">
     </i>
-    Python 运行时环境
+ Python 运行时环境
    </header>
    <!--<ul>
 
@@ -134,9 +133,9 @@ description: Python 电子表格库，用于创建读写和解析 Excel 文件�
   <footer>
    <small>
     <em>
-     为了
+为了
     </em>
-    Python 通过 Java
+    Python via Java
    </small>
   </footer>
  </div>
@@ -152,30 +151,30 @@ description: Python 电子表格库，用于创建读写和解析 Excel 文件�
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    输入输出
+输入输出
    </header>
    <ul>
     <li>
      <b>
-      微软Excel：
+Microsoft Excel：
      </b>
-     XLS、XLSX、XLSB、XLTX、XLTM、XLSM、XML
+ XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
     </li>
     <li>
      <b>
-      开发办公室：
+开发办公室：
      </b>
-     消耗臭氧层物质
+     ODS
     </li>
     <li>
      <b>
-      文本：
+文本：
      </b>
-     CSV、TSV、TXT
+     CSV, TSV, TXT
     </li>
     <li>
      <b>
-      网站：
+网址：
      </b>
      HTML, MHTML
     </li>
@@ -186,20 +185,20 @@ description: Python 电子表格库，用于创建读写和解析 Excel 文件�
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    仅输出
+仅输出
    </header>
    <ul>
     <li>
      <b>
-      固定布局：
+固定布局：
      </b>
-     PDF、PDF/A、XPS
+ PDF, PDF/A, XPS
     </li>
     <li>
      <b>
-      图片：
+图片：
      </b>
-     JPEG、PNG、BMP、SVG、EMF
+     JPEG, PNG, BMP, SVG, EMF
     </li>
    </ul>
   </div>
@@ -214,9 +213,9 @@ description: Python 电子表格库，用于创建读写和解析 Excel 文件�
   <footer>
    <small>
     <em>
-     为了
+为了
     </em>
-    Python 通过 Java
+    Python via Java
    </small>
   </footer>
  </div>
@@ -235,7 +234,7 @@ description: Python 电子表格库，用于创建读写和解析 Excel 文件�
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    高级 Python Excel API 功能
+高级 Python Excel API 功能
    </h2>
    <p>
    </p>
@@ -243,105 +242,105 @@ description: Python 电子表格库，用于创建读写和解析 Excel 文件�
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     阅读 Excel 电子表格
+阅读 Excel 电子表格
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-share ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     将电子表格渲染为 PDF、EMF 和图像
+将电子表格呈现为 PDF、EMF 和图像
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-th ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     调整工作簿中的工作表
+在工作簿中调整工作表
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-lock ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     保护/取消保护工作表
+保护/取消保护工作表
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bar-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     添加图像以及创建图表
+添加图像以及创建图表
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     创建数据透视表和数据透视图
+创建数据透视表和数据透视图
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-comment ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     在单元格级别添加和编辑评论
+在单元格级别添加和编辑评论
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-search ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     搜索和替换数据
+搜索和替换数据
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-exchange ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     拆分和合并单元格
+拆分和合并单元格
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     向行和列添加或删除分组
+添加或删除对行和列的分组
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sort-numeric-asc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     设置数字格式
+设置数字格式
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-calculator ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     阅读和设置公式
+读取和设置公式
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     配置页面设置
+配置页面设置
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     调整页面方向、缩放、纸张大小
+调整页面方向、缩放比例、纸张大小
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-edit ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     阅读与编写条件格式
+阅读与写条件格式
     </p>
    </div>
    <!--
@@ -413,21 +412,20 @@ description: Python 电子表格库，用于创建读写和解析 Excel 文件�
 -->
    <div class="col-lg-12">
     <h2 class="h2title">
-     多种格式转换
+多种格式转换
     </h2>
     <p>
-     Python Excel 库提供将 Excel 文件转换为 PDF、XPS 和HTML 格式。 API 的可靠转换使其成为需要以行业标准格式交换文件的公司的完美解决方案。
+Python Excel库提供Excel文件到PDF, XPS &amp; 的转换HTML 格式。 API 的可靠转换使其成为需要以行业标准格式交换文件的公司的完美解决方案。
     </p>
     <div class="codeblock" id="code">
      <h3>
-      以不同格式保存电子表格 - Java
+以不同格式保存电子表格 - Java
      </h3>
-     <pre><code class="java">// load file to be converted
-
+     <pre><code class="java">
+// load file to be converted
 Workbook wkbk= new Workbook(SD_PATH + "template.xls");
 
 // Convert XLS to PDF, XPS and HTML
-
 wkbk.save(SD_PATH + "poutput.pdf", SaveFormat.PDF);
 
 wkbk.save(SD_PATH + "xoutput.xps", SaveFormat.XPS);
@@ -459,10 +457,10 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     灵活的显示选项
+灵活的显示选项
     </h2>
     <p>
-     Aspose.Cells for Python 通过 Java 提供对页面设置的完全控制，允许操作多个显示选项，例如预览分页符、设置缩放级别、设置页面方向、使用冻结窗格控制数据可见性、纸张大小、缩放、页眉和;页脚和打印区域。
+ Aspose.Cells for Python via Java 提供对页面设置的完全控制，允许操作多个显示选项，如预览分页符、设置缩放级别、设置页面方向、使用冻结窗格控制数据可见性、纸张大小、缩放、标题和页面页脚和打印区域。
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -482,18 +480,18 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
 </div> -->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Excel 表格数据管理
+ Excel 工作表数据管理
     </h2>
     <p>
-     Aspose.Cells 通过 Java API 为 Python 提供广泛的工作表数据管理支持。可以在运行时轻松操作工作表中的任何单元格，或从各种数据源将数据导入工作表。
+ Aspose.Cells for Python via Java API 为工作表数据管理提供广泛的支持。人们可以在运行时轻松地操作工作表中的任何单元格，或将数据从各种数据源导入到工作表中。
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     图表定制
+图表定制
     </h2>
     <p>
-     Aspose.Cells 通过 Java 为 Python 提供对图表的全面支持。通过这个 python 库可以轻松添加标准和自定义图表或动态设置图表数据以刷新图表。
+Aspose.Cells for Python via Java 提供对图表的全面支持。可以轻松添加标准和自定义图表或动态设置图表数据，以便通过此 python 库刷新图表。
     </p>
    </div>
    <!--
@@ -519,24 +517,24 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
 {{< blocks/products/pf/slr-tab tabTitle="学习资源" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="文档" href="https://docs.aspose.com/cells/pythonjava/" >}}
 {{< blocks/products/pf/slr-element name="源代码" href="https://github.com/aspose-cells/Aspose.Cells-for-Java" >}}
-{{< blocks/products/pf/slr-element name="Aspose.Cells API 参考资料" href="https://reference.aspose.com/python/cells" >}}
+{{< blocks/products/pf/slr-element name="Aspose.Cells API 参考资料" href="https://reference.aspose.com/cells/python-java" >}}
 {{< blocks/products/pf/slr-element name="教程视频" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="产品支持" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="免费支持" href="https://forum.aspose.com/c/cells" >}}
+{{< blocks/products/pf/slr-element name="免费支持" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="付费支持" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="博客" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="为什么通过 Java 为 Python 提供 Aspose.Cells？" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="为什么是 Aspose.Cells for Python via Java？" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="客户名单" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="成功的故事" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/python" pricingInformationLink="https://purchase.aspose.com/pricing/cells/python-java" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/cells/python-java/" pricingInformationLink="https://purchase.aspose.com/pricing/cells/python-java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells 为其他流行的开发环境提供单独的 Excel API，如下所列：" >}}
 

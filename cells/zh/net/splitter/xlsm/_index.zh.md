@@ -1,8 +1,7 @@
 ---
-title: 通过 .NET 拆分 XLSM 文件 
+title: 拆分 XLSM 文件 via .NET
 weight: 8890
-
-description: C# 用于在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上拆分 XLSM 文档的源代码。
+description: C# 源代码在 .NET 框架、.NET 核心、Mono 或 Xamarin 平台上拆分 XLSM 文档。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="在 C# 中拆分 XLSM 格式" h2="使用服务器端 API 的本机和高性能 XLSM 拆分器，无需使用任何软件，如 Microsoft 或 Open Office、Adobe PDF。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSM" >}}
@@ -12,20 +11,19 @@ description: C# 用于在 .NET Framework、.NET Core、Mono 或 Xamarin 平台�
 
 {{% blocks/products/pf/agp/content h2="如何使用 C# 拆分 XLSM 文件" %}}
 
- 为了分割 XLSM 文件，我们将使用
+为了拆分 XLSM 文件，我们将使用
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API 是一个功能丰富、功能强大且易于使用的文档操作和拆分器 API，适用于 C# 平台。打开
+API 是一款功能丰富、功能强大且易于使用的文档操作和拆分器 API，适用于 C# 平台。打开
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
- 包管理器，搜索
+包管理器，搜索
  Aspose.Cells 
- 并安装。您也可以从包管理器控制台使用以下命令。
+并安装。您也可以从包管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="命令" offSpacer="true" %}}
 
 ```cs
 
 PM> Install-Package Aspose.Cells
-
 
 ```
 
@@ -35,21 +33,21 @@ PM> Install-Package Aspose.Cells
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="在 C# 中拆分 XLSM 文件的步骤" %}}
+{{% blocks/products/pf/agp/feature-section-col title="拆分C#中的XLSM文件的步骤" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- 一个基本的分离器
+一个基本的分离器
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- 只需几行代码即可完成 API。
+只需几行代码即可完成 API。
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ 加载带有完整路径的 XLSM 文件以进行拆分。
-+遍历每张纸
-+ 创建一个新的工作簿类对象
-+通过复制工作表 [复制方法](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
-+ 调用 Save() 方法并传递文件名（完整路径）和 SaveFormat.Xlsm 作为参数。
++ 载入包含完整路径的 XLSM 文件以进行拆分。
++ 遍历每张纸
+创建一个新的工作簿类对象
+ 通过复制工作表[复制方法](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
++ 调用 Save() 方法并将文件名（完整路径）和 SaveFormat.Xlsm 作为参数传递。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -57,11 +55,14 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- 所有主要平台和操作系统都支持我们的 API。在执行以下代码之前，请确保您的系统具有以下先决条件。
+所有主要平台和操作系统都支持我们的 API。在执行下面的代码之前，请确保您的系统具备以下先决条件。
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows 或具有 .NET Framework、.NET Core、Mono 或 Xamarin 平台的兼容操作系统- Microsoft Visual Studio 等开发环境- Aspose.Cells for .NET 项目中引用的 DLL - 使用上面的下载按钮从 NuGet 安装
+- Microsoft Windows 或具有 .NET 框架、.NET 核心、Mono 或 Xamarin 平台的兼容操作系统
+- 开发环境类似Microsoft Visual Studio
+- 在您的项目中添加对 Aspose.Cells for .NET DLL 的引用 - 使用上面的下载按钮从 NuGet 安装
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="拆分 XLSM 文件 - C#" offSpacer="" %}}
@@ -79,7 +80,7 @@ PM> Install-Package Aspose.Cells
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Aspose.Cells API 可用于创建、编辑、转换 Microsoft Excel 格式并将其呈现为不同的格式。此外，它还可用于软件应用程序中的综合图表、可扩展报告和可靠计算。 Aspose.Cells 是一个独立的 API，它不需要任何软件，如 Microsoft 或 OpenOffice。  
+ Aspose.Cells API 可用于创建、编辑、转换和呈现 Microsoft Excel 格式为不同的格式。此外，它还可用于软件应用程序中的综合图表、可扩展报告和可靠计算。 Aspose.Cells 是一个独立的 API，它不需要像 Microsoft 或 OpenOffice 这样的任何软件。
 
 
 
@@ -87,14 +88,14 @@ PM> Install-Package Aspose.Cells
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="在线 XLSM 分路器现场演示" sectionDescription="立即访问我们的拆分 XLSM 文档 [现场演示网站](https://products.aspose.app/cells/splitter).现场演示有以下好处" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" 无需下载 Aspose API。" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-edit" text=" 无需编写任何代码。" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="在线 XLSM Splitter 现场演示" sectionDescription="立即访问我们的拆分 XLSM 文档[现场演示网站](https://products.aspose.app/cells/splitter).现场演示有以下好处" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text="无需下载 Aspose API。" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-edit" text="无需编写任何代码。" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="只需上传您的 XLSM 文件，它就会立即被拆分。" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" 您将获得下载链接。" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text="您将获得下载链接。" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}
-带有 XLSM 扩展名的文件是一种支持宏的电子表格文件。从应用程序的角度来看，宏是一组用于自动化流程的指令。宏用于记录重复执行的步骤，并有助于通过再次运行宏来执行操作。使用 Visual Basic 编辑器从 Excel 工作簿中使用 Microsoft 的 Visual Basic for Applications (VBA) 对宏进行编程，并且可以直接从那里运行/调试。 
+扩展名为 XLSM 的文件是一种支持宏的电子表格文件。从应用程序的角度来看，宏是一组用于自动化流程的指令。宏用于记录重复执行的步骤，并便于通过再次运行宏来执行操作。使用 Visual Basic 编辑器从 Excel 工作簿中使用 Microsoft 的 Visual Basic for Applications (VBA) 对宏进行编程，并且可以直接从那里运行/调试。
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -102,9 +103,9 @@ PM> Install-Package Aspose.Cells
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="其他支持的拆分格式" subTitle="使用 C#，您还可以将大文件拆分为许多其他文件格式的块，包括。" >}}
+{{< blocks/products/pf/agp/other-supported-section title="其他支持的拆分格式" subTitle="使用 C#，还可以将大文件拆分成许多其他文件格式的块，包括。" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/ods/" name="消耗臭氧层物质" description="OpenDocument 电子表格文件" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/ods/" name="ODS" description="OpenDocument 电子表格文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/xls/" name="XLS" description="Excel 二进制格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/xlsb/" name="XLSB" description="二进制 Excel 工作簿文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/xlsx/" name="XLSX" description="OOXML Excel 文件" >}}

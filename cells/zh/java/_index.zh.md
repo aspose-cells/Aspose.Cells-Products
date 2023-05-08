@@ -1,11 +1,10 @@
 ---
-title: Java Excel API - Aspose 
+title:  Java Excel API - Aspose
 weight: 6830
-
-description: Java 用于电子表格处理的 Excel 库。读写渲染和转换 XLS XLSX XLSM ODS CSV TSV 和更多格式。兼容 Windows Linux 和 Unix
+description: Java 用于电子表格处理的 Excel 库。读写渲染和转换 XLS XLSX XLSM ODS CSV TSV 和更多格式。与 Windows Linux 和 Unix 兼容
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Java Excel 电子表格处理API" h2="在不依赖 Microsoft Excel 的情况下创建、操作、转换、保护或打印电子表格。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-java.svg" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/cells/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Java Excel 电子表格处理 API" h2="在不依赖 Microsoft Excel 的情况下创建、操作、转换、保护或打印电子表格。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-java.svg" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/cells/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Java" >}}
 
@@ -13,11 +12,11 @@ description: Java 用于电子表格处理的 Excel 库。读写渲染和转换 
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Java 是一个屡获殊荣的 Excel 电子表格处理API，它允许开发人员嵌入读取、写入、操作、转换和在自己的应用程序中打印电子表格，无需 Microsoft Excel 应用程序。
+Aspose.Cells for Java 是屡获殊荣的 Excel 电子表格处理 API，它允许开发人员嵌入读取、写入、操作、转换和转换的功能。在自己的应用程序中打印电子表格，无需 Microsoft Excel 应用程序。
 </p>
 
 <p>
- Aspose.Cells for Java 是一个成熟且功能丰富的库，提供的许多功能远远超出了市场上其他组件的简单数据导出功能。 API 提供导出数据、将电子表格格式化为最细粒度、导入和导出图像、创建图表和数据透视表，应用 &amp;使用公式计算引擎计算复杂的公式，流 Excel 数据和以各种格式保存结果。
+ Aspose.Cells for Java 是一个成熟且功能丰富的库，提供的许多功能远远超过市场上其他组件的简单数据导出功能。 API 提供导出数据、将电子表格格式设置为最精细级别、导入和更新的功能。导出图像、创建图表和数据透视表，应用 &amp;使用公式计算引擎计算复杂公式，流式处理 Excel 数据 &amp;以各种格式保存结果。
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -25,49 +24,49 @@ description: Java 用于电子表格处理的 Excel 库。读写渲染和转换 
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="乍看上去" description="通用概述。" >}}
+{{< blocks/products/pf/carousel-item h3="乍看上去" description="一般概述。" >}}
 <div class="diagram1 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-television">
     </i>
-    渲染
+渲染
    </header>
    <ul>
     <li>
-     图表到图像
+图表到图像
     </li>
     <li>
-     工作表到图像
+工作表到图像
     </li>
     <li>
-     电子表格转 PDF
+电子表格到 PDF
     </li>
     <li>
-     印刷
+印刷
     </li>
    </ul>
    <header>
     <i class="fa fa-cogs">
     </i>
-    数据处理
+数据处理
    </header>
    <ul>
     <li>
-     应用格式
+应用格式
     </li>
     <li>
-     创建图表
+创建图表
     </li>
     <li>
-     应用公式
+应用公式
     </li>
     <li>
-     总结
+总结
     </li>
     <li>
-     智能标记
+智能标记
     </li>
    </ul>
   </div>
@@ -76,23 +75,23 @@ description: Java 用于电子表格处理的 Excel 库。读写渲染和转换 
    <header>
     <i class="fa fa-table">
     </i>
-    GridWeb 控件
+网格控件
    </header>
    <ul>
     <li>
-     支持 JSP Web 应用程序
+支持 JSP Web 应用程序
     </li>
     <li>
-     加载 Excel 文件
+加载 Excel 文件
     </li>
     <li>
-     保存 Excel 文档
+保存 Excel 文档
     </li>
     <li>
-     提供编辑功能
+提供编辑功能
     </li>
     <li>
-     兼容现代浏览器
+与现代浏览器兼容
     </li>
    </ul>
   </div>
@@ -107,7 +106,7 @@ description: Java 用于电子表格处理的 Excel 库。读写渲染和转换 
   <footer>
    <small>
     <em>
-     为了
+为了
     </em>
     Java
    </small>
@@ -128,14 +127,14 @@ description: Java 用于电子表格处理的 Excel 库。读写渲染和转换 
    <header>
     <i class="fa fa-cubes">
     </i>
-    Java 运行时环境
+ Java 运行时环境
    </header>
    <ul>
     <li>
-     JSP/JSF 应用程序
+JSP/JSF 应用程序
     </li>
     <li>
-     桌面应用程序
+桌面应用程序
     </li>
    </ul>
   </div>
@@ -150,7 +149,7 @@ description: Java 用于电子表格处理的 Excel 库。读写渲染和转换 
   <footer>
    <small>
     <em>
-     为了
+为了
     </em>
     Java
    </small>
@@ -161,48 +160,48 @@ description: Java 用于电子表格处理的 Excel 库。读写渲染和转换 
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="支持的文件格式" description="Aspose.Cells for Java 支持流行的电子表格格式、常用图像、固定布局和 [更多格式](https://docs.aspose.com/cells/java/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="支持的文件格式" description="Aspose.Cells for Java 支持流行的电子表格格式、常用图片、固定布局和[更多格式](https://docs.aspose.com/cells/java/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    输入输出
+输入输出
    </header>
    <ul>
     <li>
      <b>
-      微软Excel：
+Microsoft Excel：
      </b>
-     XLS、XLT、XLSX、XLSB、XLTX、XLTM、XLSM、XML
+XLS, XLT, XLSX, XLSB, XLTX, XLTM, XLSM, XML
     </li>
     <li>
      <b>
-      开发办公室：
+开发办公室：
      </b>
-     消耗臭氧层物质
+     ODS
     </li>
     <li>
      <b>
-      文本：
+文本：
      </b>
-     CSV、TSV
+     CSV, TSV
     </li>
     <li>
      <b>
-      网站：
+网址：
      </b>
      HTML, MHTML
     </li>
     <li>
      <b>
-      数字：
+      Numbers:
      </b>
-     Apple 的 iWork 办公套件 Numbers 应用文档
+苹果iWork办公套件Numbers app文档
     </li>
     <li>
-     SXC, 食品
+     SXC, FODS
     </li>
    </ul>
   </div>
@@ -211,29 +210,29 @@ description: Java 用于电子表格处理的 Excel 库。读写渲染和转换 
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    仅输出
+仅输出
    </header>
    <ul>
     <li>
      <b>
-      固定布局：
+固定布局：
      </b>
-     PDF、PDF/A、XPS
+ PDF, PDF/A, XPS
     </li>
     <li>
      <b>
-      数据交换：
+数据交换：
      </b>
      DIF
     </li>
     <li>
      <b>
-      图片：
+图片：
      </b>
-     JPEG、PNG、BMP、SVG、TIFF、GIF、EMF
+     JPEG, PNG, BMP, SVG, TIFF, GIF, EMF
     </li>
     <li>
-     降价
+     MARKDOWN
     </li>
    </ul>
   </div>
@@ -248,7 +247,7 @@ description: Java 用于电子表格处理的 Excel 库。读写渲染和转换 
   <footer>
    <small>
     <em>
-     为了
+为了
     </em>
     Java
    </small>
@@ -269,7 +268,7 @@ description: Java 用于电子表格处理的 Excel 库。读写渲染和转换 
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    高级 Java Excel 库支持
+高级 Java Excel 库支持
    </h2>
    <!-- <p>Unlike similar products from other vendors, Aspose.Cells for Java not only supports spreadsheet generation and other basic file formatting features, it also supports a number of advanced features. These advanced features make it much easier for developers to manipulate spreadsheet contents, cell formatting and file protection. <p> -->
    <p>
@@ -278,117 +277,117 @@ description: Java 用于电子表格处理的 Excel 库。读写渲染和转换 
     <em class="fa fa-exchange ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     从 ArrayList、Array &amp; 中导入和导出数据记录集
+从 ArrayList、Array &amp; 导入和导出数据记录集
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     图表创建和通过 API 进行操作
+图表创建和通过 API 进行操作
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     从设计器电子表格导入公式
+从设计器电子表格导入公式
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     生成和操作命名范围
+生成和操作命名范围
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-print ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     将电子表格打印到物理打印机
+将电子表格打印到物理打印机
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     通过智能标记填充工作表
+通过智能标记填充工作表
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     创造与操纵评论
+创造与操纵评论
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-subscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     设置&amp;计算Excel &amp;自定义公式
+设置 &amp;计算 Excel &amp;自定义公式
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-align-center ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     创造与操作条件格式规则
+创造与操纵条件格式规则
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sort-amount-desc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     创造与操作命名范围
+创造与操纵命名范围
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     创建、操作和刷新数据透视表和数据透视图
+创造、操纵&amp;刷新数据透视表和数据透视图
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bar-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     图表渲染工作表
+图表渲染工作表
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     轻量级大文件读写
+轻量模式读写大文件
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     将 Excel 中的图像重新采样为 PDF 转换
+将 Excel 中的图像重新采样为 PDF 转换
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-code-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     修改模板文档中的 VBA 代码或宏
+修改模板文档中的VBA代码或宏
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     将 Excel 文件保存为不同的格式
+将 Excel 文件保存为不同的格式
     </h2>
     <p>
-     Excel API 可将电子表格转换为 PDF、XPS、HTML 等格式，同时保持最高的视觉保真度。可靠且灵活的转换过程使 Aspose.Cells 成为主要以行业标准格式交换文件的组织的完美选择。
+Excel API 提供将电子表格转换为 PDF、XPS、HTML 和更多格式的功能，同时保持最高的视觉保真度。可靠且灵活的转换过程使 Aspose.Cells 成为主要以行业标准格式交换文件的组织的完美选择。
     </p>
     <div class="codeblock" id="code">
      <h3>
-      多种格式的电子表格转换 - Java
+多种格式的电子表格转换 - Java
      </h3>
      <pre><code class="java">// load file to be converted
 
@@ -405,10 +404,10 @@ wbk.save(dir + "output.html", SaveFormat.HTML);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     将工作表格式化为最精细的级别
+将工作表格式化为最精细的级别
     </h2>
     <p>
-     Library 提供电子表格样式，包括但不限于行、列和单元格级别的工作表格式，添加条件格式规则，定义数字格式和设置带有属性的字体。同样，API 支持操作和创建所有类型的自定义和标准图表以及各种绘图对象，例如 OLE 对象、图片、注释、形状和单元格控件。
+库提供电子表格样式，包括但不限于行、列和单元格级别的工作表格式，添加条件格式规则，定义数字格式和设置带有属性的字体。同样，API 支持操作和创建所有类型的自定义和标准图表以及各种绘图对象，如 OLE 对象、图片、注释、形状和单元格控件。
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -420,14 +419,14 @@ wbk.save(dir + "output.html", SaveFormat.HTML);</code></pre>
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     转换图表工作表到图像和PDF 格式
+转换图表 &amp;床单到图像 &amp; PDF 格式
     </h2>
     <p>
-     Aspose.Cells for Java 提供特殊的转换功能，例如图表到图像和 PDF、工作表到图像、打印工作表以及将电子表格转换为 PDF 文件格式。转换过程非常灵活和简单，允许选择多种转换方式，例如在电子表格到 PDF 转换期间重新采样图像或在将工作表和图表渲染为图像时调整生成的图像尺寸。
+Aspose.Cells for Java 提供特殊的转换功能，例如图表到图像和 PDF、工作表到图像、打印工作表以及将电子表格转换为 PDF 文件格式。转换过程非常灵活和容易，允许选择多种转换方式，例如在将电子表格转换为 PDF 期间的图像重新采样或在将工作表和图表渲染为图像时调整生成的图像尺寸。
     </p>
     <div class="codeblock" id="code">
      <h3>
-      将 Excel 图表渲染为图像和PDF - Java
+将 Excel 图表呈现为图像 &amp; PDF - Java
      </h3>
      <pre><code class="java">// load spreadsheet containing the chart
 
@@ -448,18 +447,18 @@ chart.toPdf(dir + "output.pdf");</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     操作 Excel 行和列
+操作 Excel 行 &amp;列
     </h2>
     <p>
-     Aspose.Cells for Java 允许您以多种方式修改行和列。可以轻松调整列宽和行高，根据内容自动调整单元格的宽度/高度，插入 &amp;删除、隐藏和取消隐藏以及分组和取消组合行和列。
+Aspose.Cells for Java 允许您以多种方式修改行和列。可以轻松调整列宽和行高，根据内容自动调整单元格的宽度/高度，插入 &amp;删除、隐藏和取消隐藏以及组 &amp;取消分组行和列。
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     用图表总结数据数据透视表
+用图表总结数据数据透视表
     </h2>
     <p>
-     使用非常大的电子表格可能很难获得汇总信息。数据透视表可以快速描述平面数据并根据需要获取相关信息。 API 动态创建数据透视表和图表。可以动态更改数据透视表源数据。此外，智能标记是该库的另一个主要功能，可通过数据源填充工作表并生成视觉上有效的报告。
+使用非常大的电子表格可能很难获得汇总信息。有一个数据透视表可以快速描述平面数据并根据需要获取相关信息。 API 动态创建数据透视表和图表。可以动态更改数据透视表源数据。此外，智能标记是该库的另一个主要功能，可通过数据源填充工作表并生成视觉上有效的报告。
     </p>
    </div>
    <!--
@@ -485,10 +484,10 @@ chart.toPdf(dir + "output.pdf");</code></pre>
 -->
    <div class="col-lg-12">
     <h2 class="h2title">
-     电子表格的基于 Web 的可视化控制
+基于 Web 的电子表格可视化控制
     </h2>
     <p>
-     Aspose.Cells for Java 还提供了一个 UI 控件，它可以嵌入到 JSP 网络应用程序中，并且与所有现代网络浏览器（如 Chrome、Firefox、Internet Explorer 和 Opera）兼容。最终用户可以使用它从您的 Web 应用程序的前端加载、编辑和保存 Excel 文件。
+Aspose.Cells for Java 还提供了一个 UI 控件，可以嵌入到 JSP 网络应用程序中，并与所有现代网络浏览器兼容，如 Chrome、Firefox、Internet Explorer 和 Opera。最终用户可以使用它从 Web 应用程序的前端加载、编辑和保存 Excel 文件。
     </p>
    </div>
   </div>
@@ -498,22 +497,22 @@ chart.toPdf(dir + "output.pdf");</code></pre>
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="人们在说什么" subTitle="不要只相信我们的话。查看用户对电子表格 API 的看法。" caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.cells/" >}}
+{{< blocks/products/pf/i18n/testimonials title="人们在说什么" subTitle="不要只相信我们的话。查看用户对电子表格 API 的评价。" caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.cells/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
- 我们建议使用 Aspose.cells for Java，因为它易于实现，并且 API 易于理解且非常流畅。
+我们会推荐使用 Aspose.cells for Java 因为它很容易实现并且 API 简单易懂并且非常流畅。
  <em>
-  皮埃尔-埃里克·奥丁 |法国 Setec 的 Advizeo
+皮埃尔-埃里克·乌丁 |法国 Setec 的 Advizeo
  </em>
 </p>
 {{< /blocks/products/pf/testimonials-quote >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="second">
- 我们对 Aspose 产品的总体体验非常积极。该组件增加了 Xpand IT 产品的商业价值 - Xporter Plugin for JIRA，使我们能够开发数据导出的参考解决方案。
+我们对 Aspose 产品的整体体验非常积极。该组件为 Xpand IT 产品 - Xporter Plugin for JIRA 增加了商业价值，使我们能够开发数据导出的参考解决方案。
  <em>
-  保罗·洛佩斯 | Xpand IT，英国
+保罗·洛佩斯 | Xpand IT，英国
  </em>
 </p>
 {{< /blocks/products/pf/testimonials-quote >}}
@@ -529,7 +528,7 @@ chart.toPdf(dir + "output.pdf");</code></pre>
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="产品支持" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="免费支持" href="https://forum.aspose.com/c/cells" >}}
+{{< blocks/products/pf/slr-element name="免费支持" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="付费支持" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="博客" href="https://blog.aspose.com/category/cells/" >}}
 {{< blocks/products/pf/slr-element name="发行说明" href="https://docs.aspose.com/cells/java/release-notes/" >}}

@@ -1,8 +1,7 @@
 ---
-title: Excel 电子表格的 Node.js API - Aspose 
+title: 用于 Excel 电子表格的 Node.js API - Aspose
 weight: 3120
-
-description: 通过 Node.js 库处理 Excel 文件格式。在 Windows、macOS 和 Linux 上通过 Node.js 读写渲染和转换 XLS XLSX XLSB XLTX XLTM XLSM XML ODS CSV 和更多格式
+description: 通过 Node.js 库处理 Excel 文件格式。读写渲染和转换 XLS XLSX XLSB XLTX XLTM XLSM XML ODS CSV 以及在 Windows、macOS 和 Linux 上通过 Node.js 的更多格式
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Node.js Excel 文件格式 API" h2="使用 Node.js 生成、修改、转换和呈现 Excel 电子表格，无需 Microsoft Excel。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-nodejs-java.svg" pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/cells/nodejs" >}}
@@ -13,11 +12,11 @@ description: 通过 Node.js 库处理 Excel 文件格式。在 Windows、macOS �
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Node.js via Java 是一个功能丰富且可扩展的 API，用于使用 Node.js 处理 Excel 电子表格。 API 提供 Excel 文件格式转换、最精细的工作表样式、图表创建和渲染，可靠的公式计算引擎等等。
+ Aspose.Cells for Node.js via Java 是一个功能丰富且可扩展的 API，用于使用 Node.js 处理 Excel 电子表格。 API 提供 Excel 文件格式转换、最精细级别的工作表样式、图表创建和显示。渲染、可靠的公式计算引擎等等。
 </p>
 
 <p>
- Aspose.Cells for Node.js via Java 支持最流行的电子表格格式，包括 XLS、XLSX、ODS、SpreadsheetML、CSV、TSC 和HTML。
+ Aspose.Cells for Node.js via Java 支持最流行的电子表格格式，包括 XLS、XLSX、ODS、SpreadsheetML、CSV、TSC &amp; HTML。
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -25,24 +24,24 @@ description: 通过 Node.js 库处理 Excel 文件格式。在 Windows、macOS �
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="乍看上去" description="通过 Java 功能对 Node.js 的 Aspose.Cells 进行概述。" >}}
+{{< blocks/products/pf/carousel-item h3="乍看上去" description="Aspose.Cells for Node.js via Java 能力概述。" >}}
 <div class="diagram1 d1-nodejs">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-television">
     </i>
-    渲染
+渲染
    </header>
    <ul>
     <li>
-     将图表转换为图像
+将图表转换为图像
     </li>
     <li>
-     将工作表转换为图像
+将工作表转换为图像
     </li>
     <li>
-     将电子表格转换为 PDF
+将电子表格转换为 PDF
     </li>
    </ul>
   </div>
@@ -51,23 +50,23 @@ description: 通过 Node.js 库处理 Excel 文件格式。在 Windows、macOS �
    <header>
     <i class="fa fa-cogs">
     </i>
-    数据处理
+数据处理
    </header>
    <ul>
     <li>
-     图表
+图表
     </li>
     <li>
-     公式计算
+公式计算
     </li>
     <li>
-     智能标记
+智能标记
     </li>
     <li>
-     数据透视表
+数据透视表
     </li>
     <li>
-     条件格式
+条件格式
     </li>
    </ul>
    <!--
@@ -101,9 +100,9 @@ description: 通过 Node.js 库处理 Excel 文件格式。在 Windows、macOS �
   <footer>
    <small>
     <em>
-     为了
+为了
     </em>
-    Node.js 通过 Java
+节点 via Java
    </small>
   </footer>
  </div>
@@ -112,7 +111,7 @@ description: 通过 Node.js 库处理 Excel 文件格式。在 Windows、macOS �
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="平台独立性" description="通过 Java 用于 Node.js 的 Aspose.Cells 是基于 Node.js 的服务器端 JavaScript API。它可以在 JDK 1.7 或更高版本的 Windows、Unix/Linux 和 Mac 平台上运行。" >}}
+{{< blocks/products/pf/carousel-item h3="平台独立性" description="Aspose.Cells for Node.js via Java 是基于 Node.js 的服务器端 JavaScript API。它可以在 Windows、Unix/Linux & Mac 平台上运行，JDK 1.7 或更高版本。" >}}
 <div class="diagram1 d1-nodejs">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -122,7 +121,7 @@ description: 通过 Node.js 库处理 Excel 文件格式。在 Windows、macOS �
    <header>
     <i class="fa fa-cubes">
     </i>
-    Java 运行时环境
+ Java 运行时环境
    </header>
    <!--
 
@@ -147,9 +146,9 @@ description: 通过 Node.js 库处理 Excel 文件格式。在 Windows、macOS �
   <footer>
    <small>
     <em>
-     为了
+为了
     </em>
-    Node.js 通过 Java
+节点 via Java
    </small>
   </footer>
  </div>
@@ -165,30 +164,30 @@ description: 通过 Node.js 库处理 Excel 文件格式。在 Windows、macOS �
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    输入输出
+输入输出
    </header>
    <ul>
     <li>
      <b>
-      微软Excel：
+Microsoft Excel：
      </b>
-     XLS、XLSX、XLSB、XLTX、XLTM、XLSM、XML
+ XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
     </li>
     <li>
      <b>
-      开发办公室：
+开发办公室：
      </b>
-     消耗臭氧层物质
+     ODS
     </li>
     <li>
      <b>
-      文本：
+文本：
      </b>
-     CSV、制表符分隔、TXT
+ CSV，制表符分隔，TXT
     </li>
     <li>
      <b>
-      网站：
+网址：
      </b>
      HTML, MHTML
     </li>
@@ -199,20 +198,20 @@ description: 通过 Node.js 库处理 Excel 文件格式。在 Windows、macOS �
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    仅输出
+仅输出
    </header>
    <ul>
     <li>
      <b>
-      固定布局：
+固定布局：
      </b>
      PDF, XPS
     </li>
     <li>
      <b>
-      图片：
+图片：
      </b>
-     JPEG、PNG、BMP、SVG、TIFF、GIF、EMF
+     JPEG, PNG, BMP, SVG, TIFF, GIF, EMF
     </li>
    </ul>
   </div>
@@ -227,9 +226,9 @@ description: 通过 Node.js 库处理 Excel 文件格式。在 Windows、macOS �
   <footer>
    <small>
     <em>
-     为了
+为了
     </em>
-    Node.js 通过 Java
+节点 via Java
    </small>
   </footer>
  </div>
@@ -248,7 +247,7 @@ description: 通过 Node.js 库处理 Excel 文件格式。在 Windows、macOS �
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    高级 Node.js Excel 电子表格 API 功能
+高级 Node.js Excel 电子表格 API 功能
    </h2>
    <p>
    </p>
@@ -256,111 +255,111 @@ description: 通过 Node.js 库处理 Excel 文件格式。在 Windows、macOS �
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     创建数据透视表、图表、迷你图和条件格式
+创建数据透视表、图表、迷你图和图表条件格式
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     刷新现有图表和将图表转换为图像或 PDF
+刷新现有图表 &amp;将图表转换为图像或 PDF
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     创造与操纵评论和超链接
+创造与操纵评论 &amp;超链接
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     设置复杂的公式和通过 API 计算结果
+设置复杂的公式 &amp;通过 API 计算结果
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-shield ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     在工作簿、工作表、单元格、列或行上设置保护
+对工作簿、工作表、单元格、列或行设置保护
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sort-amount-desc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     创造与操作命名范围
+创造与操纵命名范围
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     使用智能标记填充工作表
+使用智能标记填充工作表
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     通过 API 操作和刷新数据透视表
+通过 API 操作和刷新数据透视表
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-html5 ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     将工作表转换为 PDF、XPS 和SVG 格式
+将工作表转换为 PDF、XPS &amp; SVG 格式
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     呈现 Excel 电子表格
+呈现 Excel 电子表格
     </h2>
     <p>
-     Aspose.Cells for Node.js via Java 使用其呈现引擎以最高保真度呈现到 Microsoft Excel。使用 Node.js Excel 处理库时，可以将整个工作表、单个文件或图表转换为多个图像和固定布局格式。
+Aspose.Cells for Node.js via Java 使用其渲染引擎以最高保真度渲染到 Microsoft Excel。使用 Node.js Excel Processing 库时，可以将整个工作表、单个文件或图表转换为多个图像和固定布局格式。
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     灵活的显示选项
+灵活的显示选项
     </h2>
     <p>
-     通过 Java 用于 Node.js 的 Aspose.Cells 提供了对工作表页面设置的完全控制，您可以操作工作表的显示选项，例如页面方向、中断、大小、缩放、页眉、页脚和缩放级别。此外，开发人员可以借助打印区域和冻结窗格来控制数据可见性，以适应应用程序规范。
+Aspose.Cells for Node.js via Java 提供对工作表页面设置的完全控制，可以操纵工作表的显示选项，如页面方向、分隔符、大小、缩放比例、页眉、页脚和缩放级别。此外，开发人员可以借助打印区域和冻结窗格来控制数据可见性，以适应应用程序规范。
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     安全选项
+安全选项
     </h2>
     <p>
-     Aspose.Cells for Node.js via Java 提供了广泛的安全功能，包括电子表格加密/解密、内容、对象和场景保护以及隐藏和取消隐藏行、列和工作表。
+Aspose.Cells for Node.js via Java 提供广泛的安全功能，包括电子表格加密/解密、内容、对象和场景保护以及隐藏和取消隐藏行、列和显示的能力工作表。
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     操纵行和列
+操纵行 &amp;列
     </h2>
     <p>
-     Aspose.Cells for Node.js 通过 Java 允许您以多种不同的方式操作行和列。您可以轻松调整行高和列宽，根据内容自动调整单元格大小，插入 &amp;删除、隐藏和取消隐藏以及分组和取消分组行和列。
+Aspose.Cells for Node.js via Java 允许您以多种不同方式操作行和列。您可以轻松调整行高和行高。列宽，根据内容自动调整单元格大小，插入 &amp;删除、隐藏和取消隐藏以及组 &amp;取消分组行 &amp;列。
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     全面支持工作表格式
+全面支持工作表格式化
     </h2>
     <p>
-     Aspose.Cells for Node.js via Java 提供高级格式化功能，允许您控制数据的显示。您可以将格式应用于工作表、列、行或单元格，或将富文本添加到单个单元格、应用边框、设置背景图案和字体样式。 API 还允许添加、操作 &amp;即时计算条件格式规则。
+Aspose.Cells for Node.js via Java 提供高级格式化功能，使您可以控制数据的呈现方式。您可以将格式应用于工作表、列、行或单元格，或将富文本添加到单个单元格，应用边框，设置背景图案和字体样式。 API 还允许添加、操作 &amp;即时计算条件格式规则。
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     图表创建、操作和渲染
+图表创建、操作和渲染
     </h2>
     <p>
-     Aspose.Cells 通过 Java 为 Node.js 提供对图表的全面支持。使用API可以轻松添加自定义或标准图表，并动态设置数据以刷新图表。
+Aspose.Cells for Node.js via Java 提供对图表的全面支持。可以使用 API 轻松添加自定义或标准图表，并动态设置数据以刷新图表。
     </p>
    </div>
   </div>
@@ -380,12 +379,12 @@ description: 通过 Node.js 库处理 Excel 文件格式。在 Windows、macOS �
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="产品支持" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="免费支持" href="https://forum.aspose.com/c/cells" >}}
+{{< blocks/products/pf/slr-element name="免费支持" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="付费支持" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="博客" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="为什么通过 Java 为 Node.js 提供 Aspose.Cells？" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="为什么是 Aspose.Cells for Node.js via Java？" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="客户名单" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="成功的故事" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}

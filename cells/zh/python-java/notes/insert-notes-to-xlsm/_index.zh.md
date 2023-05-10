@@ -11,7 +11,7 @@ description: 使用 Python 向 XLSM 插入注释。使用 API 示例代码在 Py
 
 {{% blocks/products/pf/agp/content h2="使用 Python 在 XLSM 文件中插入注释" %}}
 
-使用 Aspose.Cells for Python 库，您可以通过几行代码以编程方式轻松地在 XLSM 文件中插入注释。[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)能够构建跨平台应用程序，能够生成、修改、转换、呈现和打印所有 Excel 文件。 Python Excel API 不仅可以在电子表格格式之间相互转换，还可以将Excel文件渲染为图片，PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等，是行业文档交换的完美选择-标准格式。您可以从安装 Aspose.Cells for Python<a href="https://pypi.org/project/aspose-cells/">皮皮</a>，使用命令为：<code>$ pip install aspose-cells</code>.
+使用 Aspose.Cells for Python 库，您可以通过几行代码以编程方式轻松地在 XLSM 文件中插入注释。[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)能够构建跨平台应用程序，能够生成、修改、转换、呈现和打印所有 Excel 文件。 Python Excel API 不仅可以在电子表格格式之间相互转换，还可以将Excel文件渲染为图片，PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等，是行业文档交换的完美选择-标准格式。您可以从安装 Aspose.Cells for Python<a href="https://pypi.org/project/aspose-cells/">pypi</a> ，使用命令为：<code>$ pip install aspose-cells</code>.
 
  
 {{% /blocks/products/pf/agp/content %}}
@@ -26,7 +26,7 @@ description: 使用 Python 向 XLSM 插入注释。使用 API 示例代码在 Py
 
 - 安装 Java 1.8 或更高版本并将其添加到 PATH 环境变量中，例如：<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 - 安装[Python](https://www.python.org/downloads/)3.5 或更高。
-- 从安装 Aspose.Cells for Python<a href="https://pypi.org/project/aspose-cells/">皮皮</a>，使用命令为：<code>$ pip install aspose-cells</code>.
+- 从安装 Aspose.Cells for Python<a href="https://pypi.org/project/aspose-cells/">pypi</a> ，使用命令为：<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}

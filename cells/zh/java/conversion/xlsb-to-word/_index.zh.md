@@ -12,7 +12,7 @@ keywords: Convert XLSB, XLSB Converter, XLSB to PDF, XLSB to Word, XLSB to PPT, 
 
 {{% blocks/products/pf/agp/content h2="使用 Java 将 XLSB 转换为 WORD" %}}
 
-XLSB怎么转换成WORD格式？使用 Aspose.Cells for Java 库，您可以通过几行代码以编程方式轻松地将 XLSB 转换为 WORD。[Aspose.Cells for Java](https://products.aspose.com/cells/java)能够构建跨平台应用程序，能够生成、修改、转换、呈现和打印所有 Excel 文件。 Java Excel API 不仅可以在电子表格格式之间相互转换，还可以将Excel文件渲染为图片，PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等，是行业文档交换的完美选择-标准格式。您可以直接从以下位置下载其最新版本[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)并通过将以下配置添加到 pom.xml 将其安装在基于 Maven 的项目中。
+ XLSB怎么转换成WORD格式？使用 Aspose.Cells for Java 库，您可以通过几行代码以编程方式轻松地将 XLSB 转换为 WORD。[Aspose.Cells for Java](https://products.aspose.com/cells/java)能够构建跨平台应用程序，能够生成、修改、转换、呈现和打印所有 Excel 文件。 Java Excel API 不仅可以在电子表格格式之间相互转换，还可以将Excel文件渲染为图片，PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等，是行业文档交换的完美选择-标准格式。您可以直接从以下位置下载其最新版本[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)并通过将以下配置添加到 pom.xml 将其安装在基于 Maven 的项目中。
 
 {{% blocks/products/pf/agp/code-block title="资料库" offSpacer="true" %}}
 
@@ -107,7 +107,7 @@ XLSB怎么转换成WORD格式？使用 Aspose.Cells for Java 库，您可以通�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsb-to-svg/" name="XLSB 至 SVG" description="可缩放矢量图形" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsb-to-tiff/" name="XLSB 至 TIFF" description="标记图像格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsb-to-tsv/" name="XLSB 至 TSV" description="制表符分隔值" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsb-to-txt/" name="XLSB 至 TXT" description="文本文件" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsb-to-txt/" name="XLSB 至 TXT" description="文本文档" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsb-to-xls/" name="XLSB 至 XLS" description="Excel 二进制格式" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsb-to-xlsm/" name="XLSB 至 XLSM" description="电子表格文件" >}}

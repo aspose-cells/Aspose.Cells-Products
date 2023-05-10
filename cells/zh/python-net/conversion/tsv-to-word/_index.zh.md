@@ -12,7 +12,7 @@ keywords: Convert TSV, TSV Converter, TSV to PDF, TSV to Word, TSV to PPT, TSV t
 
 {{% blocks/products/pf/agp/content h2="将TSV转换为Python中的WORD" %}}
 
- TSV怎么转换成WORD格式？使用 Aspose.Cells for Python via NET 库，您可以使用几行代码以编程方式轻松地将 TSV 转换为 WORD。[Aspose.Cells for Python 通过 NET](https://pypi.org/project/aspose-cells-python/)能够构建跨平台应用程序，能够生成、修改、转换、呈现和打印所有 Excel 文件。 Python Excel API 不仅可以在电子表格格式之间相互转换，还可以将Excel文件渲染为图片，PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等，是行业文档交换的完美选择-标准格式。
+TSV怎么转换成WORD格式？使用 Aspose.Cells for Python via NET 库，您可以使用几行代码以编程方式轻松地将 TSV 转换为 WORD。[Aspose.Cells for Python 通过 NET](https://pypi.org/project/aspose-cells-python/)能够构建跨平台应用程序，能够生成、修改、转换、呈现和打印所有 Excel 文件。 Python Excel API 不仅可以在电子表格格式之间相互转换，还可以将Excel文件渲染为图片，PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等，是行业文档交换的完美选择-标准格式。
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -51,7 +51,7 @@ keywords: Convert TSV, TSV Converter, TSV to PDF, TSV to Word, TSV to PPT, TSV t
 我们在 PyPi 存储库中托管我们的 Python 包。
 
 {{% blocks/products/pf/agp/text %}}
-从安装 Aspose.Cells for Python<a href="https://pypi.org/project/aspose-cells-python/">皮皮</a>，使用命令为：<code>$ pip install aspose-cells-python</code>.
+从安装 Aspose.Cells for Python<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> ，使用命令为：<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -63,7 +63,7 @@ keywords: Convert TSV, TSV Converter, TSV to PDF, TSV to Word, TSV to PPT, TSV t
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Python 是平台无关的 API 可以在任何平台上使用（Windows，Linux），只要确保系统有[Python](https://www.python.org/downloads/) 3.7 或更高。
+Aspose.Cells for Python 是平台无关的 API 可以在任何平台上使用（Windows，Linux），只要确保系统有[Python](https://www.python.org/downloads/) 3.7 或更高。
  
 {{% /blocks/products/pf/agp/text %}}
 
@@ -85,7 +85,7 @@ keywords: Convert TSV, TSV Converter, TSV to PDF, TSV to Word, TSV to PPT, TSV t
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-svg/" name="TSV 至 SVG" description="可缩放矢量图形" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-tiff/" name="TSV 至 TIFF" description="标记图像格式" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-txt/" name="TSV 至 TXT" description="文本文件" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-txt/" name="TSV 至 TXT" description="文本文档" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-xls/" name="TSV 至 XLS" description="Excel 二进制格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-xlsb/" name="TSV 至 XLSB" description="二进制 Excel 工作簿文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-xlsm/" name="TSV 至 XLSM" description="电子表格文件" >}}

@@ -92,7 +92,7 @@ PM> Install-Package Aspose.Cells
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/mhtml-to-svg/" name="MHTML 至 SVG" description="可缩放矢量图形" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/mhtml-to-tiff/" name="MHTML 至 TIFF" description="标记图像格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/mhtml-to-tsv/" name="MHTML 至 TSV" description="制表符分隔值" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/mhtml-to-txt/" name="MHTML 至 TXT" description="文本文件" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/mhtml-to-txt/" name="MHTML 至 TXT" description="文本文档" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/mhtml-to-xls/" name="MHTML 至 XLS" description="Excel 二进制格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/mhtml-to-xlsb/" name="MHTML 至 XLSB" description="二进制 Excel 工作簿文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/mhtml-to-xlsm/" name="MHTML 至 XLSM" description="电子表格文件" >}}

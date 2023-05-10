@@ -1,5 +1,5 @@
 ---
-title: 通过 C++ 解锁 XLSM 文件
+title: 通过 C++ 解锁 XLSM 文档
 weight: 6070
 description: C++ 解锁受密码保护的 XLSM 文件的示例代码 C++ Windows 32 位、Windows 64 位和 Linux 64 位运行时环境。
 ---
@@ -12,8 +12,8 @@ description: C++ 解锁受密码保护的 XLSM 文件的示例代码 C++ Windows
 {{% blocks/products/pf/agp/content h2="如何使用 C++ 解除对 XLSM 文件的保护" %}}
 
 为了解锁 XLSM 文件，我们将使用
- [Aspose.Cells 为 C++](https://products.aspose.com/cells/cpp) 
-API是C++平台的一款功能丰富、功能强大且易于使用的文档保护API。可以直接下载其最新版本，打开即可
+ [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
+API这是一个功能丰富、功能强大且易于使用的文档保护API for C++平台。可以直接下载其最新版本，打开即可
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
 包管理器，搜索
  **Aspose.Cells.Cpp** 
@@ -59,7 +59,7 @@ Aspose.Cells for C++ 支持所有主要平台和操作系统。请确保您具�
 {{% /blocks/products/pf/agp/text %}}
 
 -  Microsoft Windows 或具有 C++ 运行时环境的兼容操作系统，适用于 Windows 32 位、Windows 64 位和 Linux 64 位。
-- 在您的项目中为 C++ DLL 添加对 Aspose.Cells 的引用。
+- 在您的项目中添加对 Aspose.Cells for C++ DLL 的引用。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -96,7 +96,7 @@ workbook->Save(outDir->StringAppend(new String("sampleExcelFileUnprotected_out.x
 
 <!-- aboutfile Starts -->
 
-    {{% blocks/products/pf/agp/content h2="关于 Aspose.Cells 为 C++ API" %}}
+    {{% blocks/products/pf/agp/content h2="关于 Aspose.Cells for C++ API" %}}
 
  Aspose.Cells API 可用于创建、编辑、转换和呈现 Microsoft Excel 格式为不同的格式。此外，它还可用于软件应用程序中的综合图表、可扩展报告和可靠计算。 Aspose.Cells 是一个独立的 API，它不需要像 Microsoft 或 OpenOffice 这样的任何软件。
 

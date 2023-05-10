@@ -11,7 +11,7 @@ description: C# 用于在 .NET 框架、.NET 核心、Mono 或 Xamarin 平台上
 
 {{% blocks/products/pf/agp/content h2="如何使用 C# 将标注插入 Excel 文件" %}}
 
-为了将标注插入 excel 文件，我们将使用
+为了将标注插入到 excel 文件中，我们将使用
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
 API 是一款功能丰富、功能强大且易于使用的文档操作和拆分器 API，适用于 C# 平台。打开
  [NuGet](https://www.nuget.org/packages/aspose.cells) 

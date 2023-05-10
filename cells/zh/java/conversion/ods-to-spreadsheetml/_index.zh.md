@@ -107,7 +107,7 @@ Java 开发人员只需几行代码即可轻松将 ODS 转换为 SPREADSHEETML�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ods-to-svg/" name="ODS 至 SVG" description="可缩放矢量图形" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ods-to-tiff/" name="ODS 至 TIFF" description="标记图像格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ods-to-tsv/" name="ODS 至 TSV" description="制表符分隔值" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ods-to-txt/" name="ODS 至 TXT" description="文本文件" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ods-to-txt/" name="ODS 至 TXT" description="文本文档" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ods-to-xls/" name="ODS 至 XLS" description="Excel 二进制格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ods-to-xlsb/" name="ODS 至 XLSB" description="二进制 Excel 工作簿文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ods-to-xlsm/" name="ODS 至 XLSM" description="电子表格文件" >}}

@@ -36,7 +36,7 @@ description: Python 使用 Python 库将折线图创建到 Excel 的示例代码
  Aspose.Cells for Python 是平台无关的 API 可以在任何平台上使用（Windows，Linux 和 MacOS），只要确保系统有 Java 1.8 或更高版本，[Python](https://www.python.org/downloads/) 3.5 或更高。
 {{% /blocks/products/pf/agp/text %}}
 - 安装Java并将其添加到PATH环境变量中，例如：<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
-- 从安装 Aspose.Cells for Python<a href="https://pypi.org/project/aspose-cells/">皮皮</a>，使用命令为：<code>$ pip install aspose-cells</code>.
+- 从安装 Aspose.Cells for Python<a href="https://pypi.org/project/aspose-cells/">pypi</a> ，使用命令为：<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/code-block title="以下源代码显示了如何使用 Python 创建折线图到 MS Excel XLSX 文件。" offSpacer="" %}}

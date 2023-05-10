@@ -12,7 +12,7 @@ keywords: Convert TXT, TXT Converter, TXT to PDF, TXT to Word, TXT to PPT, TXT t
 
 {{% blocks/products/pf/agp/content h2="将TXT转换为Python中的WORD" %}}
 
- TXT怎么转换成WORD格式？使用 Aspose.Cells for Python via NET 库，您可以使用几行代码以编程方式轻松地将 TXT 转换为 WORD。[Aspose.Cells for Python 通过 NET](https://pypi.org/project/aspose-cells-python/)能够构建跨平台应用程序，能够生成、修改、转换、呈现和打印所有 Excel 文件。 Python Excel API 不仅可以在电子表格格式之间相互转换，还可以将Excel文件渲染为图片，PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等，是行业文档交换的完美选择-标准格式。
+TXT怎么转换成WORD格式？使用 Aspose.Cells for Python via NET 库，您可以使用几行代码以编程方式轻松地将 TXT 转换为 WORD。[Aspose.Cells for Python 通过 NET](https://pypi.org/project/aspose-cells-python/)能够构建跨平台应用程序，能够生成、修改、转换、呈现和打印所有 Excel 文件。 Python Excel API 不仅可以在电子表格格式之间相互转换，还可以将Excel文件渲染为图片，PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等，是行业文档交换的完美选择-标准格式。
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -51,7 +51,7 @@ keywords: Convert TXT, TXT Converter, TXT to PDF, TXT to Word, TXT to PPT, TXT t
 我们在 PyPi 存储库中托管我们的 Python 包。
 
 {{% blocks/products/pf/agp/text %}}
-从安装 Aspose.Cells for Python<a href="https://pypi.org/project/aspose-cells-python/">皮皮</a>，使用命令为：<code>$ pip install aspose-cells-python</code>.
+从安装 Aspose.Cells for Python<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> ，使用命令为：<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -63,7 +63,7 @@ keywords: Convert TXT, TXT Converter, TXT to PDF, TXT to Word, TXT to PPT, TXT t
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Python 是平台无关的 API 可以在任何平台上使用（Windows，Linux），只要确保系统有[Python](https://www.python.org/downloads/) 3.7 或更高。
+Aspose.Cells for Python 是平台无关的 API 可以在任何平台上使用（Windows，Linux），只要确保系统有[Python](https://www.python.org/downloads/) 3.7 或更高。
  
 {{% /blocks/products/pf/agp/text %}}
 

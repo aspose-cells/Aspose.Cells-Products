@@ -61,7 +61,7 @@ description: Java 示例代码，用于编辑 Java JSP/JSF 应用程序和桌面
 
 加载 ODS 文件。
 选择相关工作表。
-定义和指定 FindOptions。
++ 定义和指定 FindOptions。
 + 指定要搜索的范围
 遍历每个单元格并使用 getCells().find(...)。
 + 替换值。
@@ -147,7 +147,7 @@ workbook.save(dataDir + "output.ods");
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
-扩展名为 ODS 的文件代表用户可编辑的 OpenDocument 电子表格文档格式。数据以行和列的形式存储在 ODF 文件中。它是基于 XML 的格式，是开放文档格式 (ODF) 系列中的几个子类型之一。该格式被指定为 OASIS 发布和维护的 ODF 1.2 规范的一部分。 Windows 和其他操作系统上的许多应用程序可以打开 ODS 文件进行编辑和操作，包括 Microsoft Excel、NeoOffice 和 LibreOffice。 ODS 文件也可以通过不同的应用程序转换为其他电子表格格式，如 XLS、XLSX 等。
+扩展名为 ODS 的文件代表用户可编辑的 OpenDocument 电子表格文档格式。数据以行和列的形式存储在 ODF 文件中。它是基于 XML 的格式，是开放文档格式 (ODF) 系列中的几种子类型之一。该格式被指定为 OASIS 发布和维护的 ODF 1.2 规范的一部分。 Windows 和其他操作系统上的许多应用程序可以打开 ODS 文件进行编辑和操作，包括 Microsoft Excel、NeoOffice 和 LibreOffice。 ODS 文件也可以通过不同的应用程序转换为其他电子表格格式，如 XLS、XLSX 等。
 
     {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

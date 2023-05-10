@@ -31,7 +31,7 @@ description: Python代码中EXCEL转IMAGE格式。使用 Python 将 EXCEL 另存
 
 - 安装 Java 1.8 或更高版本并将其添加到 PATH 环境变量中，例如：<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 - 安装[Python](https://www.python.org/downloads/)3.5 或更高。
-- 从安装 Aspose.Cells for Python<a href="https://pypi.org/project/aspose-cells/">皮皮</a>，使用命令为：<code>$ pip install aspose-cells</code>.
+- 从安装 Aspose.Cells for Python<a href="https://pypi.org/project/aspose-cells/">pypi</a> ，使用命令为：<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}

@@ -48,12 +48,12 @@ description: Python 将 ListBox（表单控件）插入 Excel 的源代码。
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Python 是平台无关的 API 可以在任何平台上使用（Windows，Linux），只要确保系统有[Python](https://www.python.org/downloads/) 3.7 或更高。
+Aspose.Cells for Python 是平台无关的 API 可以在任何平台上使用（Windows，Linux），只要确保系统有[Python](https://www.python.org/downloads/) 3.7 或更高。
  
 {{% /blocks/products/pf/agp/text %}}
 
 - 任何可以运行python脚本的操作系统，比如Windows、Linux
-- 从安装 Aspose.Cells for Python<a href="https://pypi.org/project/aspose-cells-python/">皮皮</a>，使用命令为：<code>$ pip install aspose-cells-python</code>.
+- 从安装 Aspose.Cells for Python<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> ，使用命令为：<code>$ pip install aspose-cells-python</code>.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

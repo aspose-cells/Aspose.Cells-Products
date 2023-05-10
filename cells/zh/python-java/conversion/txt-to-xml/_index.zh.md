@@ -65,7 +65,7 @@ Python 开发人员只需几行代码即可轻松加载 TXT 并将其转换为 X
 {{% /blocks/products/pf/agp/text %}}
 
 - 安装Java并将其添加到PATH环境变量中，例如：<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
-- 从安装 Aspose.Cells for Python<a href="https://pypi.org/project/aspose-cells/">皮皮</a>，使用命令为：<code>$ pip install aspose-cells</code>.
+- 从安装 Aspose.Cells for Python<a href="https://pypi.org/project/aspose-cells/">pypi</a> ，使用命令为：<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/content %}}
 

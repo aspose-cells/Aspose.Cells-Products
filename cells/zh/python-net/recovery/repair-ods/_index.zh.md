@@ -11,7 +11,7 @@ description: 使用 Python 修复损坏的 ods 文件。用于修复 Python 应�
 
 {{% blocks/products/pf/agp/content h2="使用 Python 修复 ODS 文件" %}}
 
-使用 Aspose.Cells for Python 库，您可以使用几行代码以编程方式轻松修复 ODS 文件。[Aspose.Cells for Python](https://products.aspose.com/cells/python-net)能够构建跨平台应用程序，能够生成、修改、转换、呈现和打印所有 Excel 文件。 Python Excel API 不仅可以在电子表格格式之间相互转换，还可以将Excel文件渲染为图片，PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等，是行业文档交换的完美选择-标准格式。您可以从安装 Aspose.Cells for Python<a href="https://pypi.org/project/aspose-cells/">皮皮</a>，使用命令为：<code>$ pip install aspose-cells-python</code>.
+使用 Aspose.Cells for Python 库，您可以使用几行代码以编程方式轻松修复 ODS 文件。[Aspose.Cells for Python](https://products.aspose.com/cells/python-net)能够构建跨平台应用程序，能够生成、修改、转换、呈现和打印所有 Excel 文件。 Python Excel API 不仅可以在电子表格格式之间相互转换，还可以将Excel文件渲染为图片，PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等，是行业文档交换的完美选择-标准格式。您可以从安装 Aspose.Cells for Python<a href="https://pypi.org/project/aspose-cells/">pypi</a> ，使用命令为：<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -22,7 +22,7 @@ description: 使用 Python 修复损坏的 ods 文件。用于修复 Python 应�
 所有主要操作系统都支持 Aspose.Cells for Python。只需确保您具有以下先决条件。
  
 - 安装[Python](https://www.python.org/downloads/) 3.7 或更高。
-- 从安装 Aspose.Cells for Python<a href="https://pypi.org/project/aspose-cells-python/">皮皮</a>，使用命令为：<code>$ pip install aspose-cells-python</code>.
+- 从安装 Aspose.Cells for Python<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> ，使用命令为：<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -43,7 +43,7 @@ description: 使用 Python 修复损坏的 ods 文件。用于修复 Python 应�
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
-扩展名为 .ods 的文件代表用户可编辑的 OpenDocument 电子表格文档格式。数据以行和列的形式存储在 ODF 文件中。它是基于 XML 的格式，是开放文档格式 (ODF) 系列中的几个子类型之一。该格式被指定为 OASIS 发布和维护的 ODF 1.2 规范的一部分。 Windows 和其他操作系统上的许多应用程序可以打开 ODS 文件进行编辑和操作，包括 Microsoft Excel、NeoOffice 和 LibreOffice。 ODS 文件也可以通过不同的应用程序转换为其他电子表格格式，如 XLS、XLSX 等。
+扩展名为 .ods 的文件代表用户可编辑的 OpenDocument 电子表格文档格式。数据以行和列的形式存储在 ODF 文件中。它是基于 XML 的格式，是开放文档格式 (ODF) 系列中的几种子类型之一。该格式被指定为 OASIS 发布和维护的 ODF 1.2 规范的一部分。 Windows 和其他操作系统上的许多应用程序可以打开 ODS 文件进行编辑和操作，包括 Microsoft Excel、NeoOffice 和 LibreOffice。 ODS 文件也可以通过不同的应用程序转换为其他电子表格格式，如 XLS、XLSX 等。
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

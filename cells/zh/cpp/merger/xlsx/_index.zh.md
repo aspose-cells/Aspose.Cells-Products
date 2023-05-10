@@ -10,7 +10,7 @@ description: C++ 示例代码，用于在 C++ 运行时环境上组合 XLSX 文�
 
 {{% blocks/products/pf/agp/content h2="如何使用 C++ 合并 XLSX 文件" %}}
 
-为了合并 XLSX 文件，我们将使用<a href="https://products.aspose.com/cells/cpp">Aspose.Cells 为 C++</a>API是C++平台上一款功能丰富、功能强大、使用方便的文档合并API。可以直接下载其最新版本，打开即可<a href="https://www.nuget.org/packages/aspose.cells">NuGet</a>包管理器，搜索<b>Aspose.Cells.Cpp</b>并安装。您也可以从包管理器控制台使用以下命令。
+为了合并 XLSX 文件，我们将使用<a href="https://products.aspose.com/cells/cpp">Aspose.Cells for C++</a>API这是一个功能丰富、功能强大且易于使用的文档合并API for C++平台。可以直接下载其最新版本，打开即可<a href="https://www.nuget.org/packages/aspose.cells">NuGet</a>包管理器，搜索<b>Aspose.Cells.Cpp</b>并安装。您也可以从包管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="命令" offSpacer="true" %}}
 
@@ -30,7 +30,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
-合并和连接的基本文档[Aspose.Cells 为 C++](https://products.aspose.com/cells/cpp)只需几行代码即可完成 API。
+合并和连接的基本文档[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)只需几行代码即可完成 API。
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -50,7 +50,7 @@ PM> Install-Package Aspose.Cells.Cpp
 {{% /blocks/products/pf/agp/text %}}
 
 -  Microsoft Windows 或具有 C++ 运行时环境的兼容操作系统，适用于 Windows 32 位、Windows 64 位和 Linux 64 位。
-- 在您的项目中为 C++ DLL 添加对 Aspose.Cells 的引用。
+- 在您的项目中添加对 Aspose.Cells for C++ DLL 的引用。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

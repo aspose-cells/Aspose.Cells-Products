@@ -78,7 +78,7 @@ PM> Install-Package Aspose.Cells
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Aspose.Cells API 可用于创建、编辑、转换和呈现 Microsoft Excel 格式为不同的格式。此外，它还可用于软件应用程序中的综合图表、可扩展报告和可靠计算。 Aspose.Cells 是一个独立的 API，它不需要像 Microsoft 或 OpenOffice 这样的任何软件。将 Excel 图表转换为 PDF、JPG、PNG、EMF、WMF、BMP、SVG、TIFF、XPS。
+Aspose.Cells API 可用于创建、编辑、转换和呈现 Microsoft Excel 格式为不同的格式。此外，它还可用于软件应用程序中的综合图表、可扩展报告和可靠计算。 Aspose.Cells 是一个独立的 API，它不需要像 Microsoft 或 OpenOffice 这样的任何软件。将 Excel 图表转换为 PDF、JPG、PNG、EMF、WMF、BMP、SVG、TIFF、XPS。
  
 
 

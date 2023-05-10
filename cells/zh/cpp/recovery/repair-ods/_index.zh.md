@@ -11,7 +11,7 @@ description: 使用 C++ 修复损坏的 ods 文件。用于修复 C++ 应用程�
 
 {{% blocks/products/pf/agp/content h2="使用 C++ 修复 ODS 文件" %}}
 
-使用 Aspose.Cells for C++ 库，您可以使用几行代码以编程方式轻松修复 ODS 文件。[Aspose.Cells 为 C++](https://products.aspose.com/cells/cpp)能够构建跨平台应用程序，能够生成、修改、转换、呈现和打印所有 Excel 文件。 C++ Excel API 不仅可以在电子表格格式之间相互转换，还可以将Excel文件渲染为图片，PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等，是行业文档交换的完美选择-标准格式。可以直接下载其最新版本，打开即可[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)包管理器，搜索 Aspose.Cells.Cpp 并安装。您也可以从包管理器控制台使用以下命令。
+使用 Aspose.Cells for C++ 库，您可以使用几行代码以编程方式轻松修复 ODS 文件。[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)能够构建跨平台应用程序，能够生成、修改、转换、呈现和打印所有 Excel 文件。 C++ Excel API 不仅可以在电子表格格式之间相互转换，还可以将Excel文件渲染为图片，PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等，是行业文档交换的完美选择-标准格式。可以直接下载其最新版本，打开即可[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)包管理器，搜索 Aspose.Cells.Cpp 并安装。您也可以从包管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="命令" offSpacer="true" %}}
 
@@ -31,7 +31,7 @@ PM> Install-Package Aspose.Cells.Cpp
 所有主要操作系统都支持 Aspose.Cells for C++。只需确保您具有以下先决条件。
  
 - Microsoft Windows 或具有 C++ 运行时环境的兼容操作系统，适用于 Windows 32 位、Windows 64 位和 Linux 64 位。
-- 在您的项目中为 C++ DLL 添加对 Aspose.Cells 的引用。
+- 在您的项目中添加对 Aspose.Cells for C++ DLL 的引用。
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -52,7 +52,7 @@ PM> Install-Package Aspose.Cells.Cpp
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
-扩展名为 .ods 的文件代表用户可编辑的 OpenDocument 电子表格文档格式。数据以行和列的形式存储在 ODF 文件中。它是基于 XML 的格式，是开放文档格式 (ODF) 系列中的几个子类型之一。该格式被指定为 OASIS 发布和维护的 ODF 1.2 规范的一部分。 Windows 和其他操作系统上的许多应用程序可以打开 ODS 文件进行编辑和操作，包括 Microsoft Excel、NeoOffice 和 LibreOffice。 ODS 文件也可以通过不同的应用程序转换为其他电子表格格式，如 XLS、XLSX 等。
+扩展名为 .ods 的文件代表用户可编辑的 OpenDocument 电子表格文档格式。数据以行和列的形式存储在 ODF 文件中。它是基于 XML 的格式，是开放文档格式 (ODF) 系列中的几种子类型之一。该格式被指定为 OASIS 发布和维护的 ODF 1.2 规范的一部分。 Windows 和其他操作系统上的许多应用程序可以打开 ODS 文件进行编辑和操作，包括 Microsoft Excel、NeoOffice 和 LibreOffice。 ODS 文件也可以通过不同的应用程序转换为其他电子表格格式，如 XLS、XLSX 等。
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

@@ -12,7 +12,7 @@ keywords: Convert TABDELIMITED, TABDELIMITED Converter, TABDELIMITED to PDF, TAB
 
 {{% blocks/products/pf/agp/content h2="使用 C++ 将 TABDELIMITED 转换为 ODS" %}}
 
-如何将 TABDELIMITED 转换为 ODS？使用 Aspose.Cells for C++ 库，您可以使用几行代码以编程方式轻松地将 TABDELIMITED 转换为 ODS。[Aspose.Cells 为 C++](https://products.aspose.com/cells/cpp)能够构建跨平台应用程序，能够生成、修改、转换、呈现和打印所有 Excel 文件。 C++ Excel API 不仅可以在电子表格格式之间相互转换，还可以将Excel文件渲染为图片，PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等，是行业文档交换的完美选择-标准格式。可以直接下载其最新版本，打开即可[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)包管理器，搜索 Aspose.Cells.Cpp 并安装。您也可以从包管理器控制台使用以下命令。
+如何将 TABDELIMITED 转换为 ODS？使用 Aspose.Cells for C++ 库，您可以通过几行代码以编程方式轻松地将 TABDELIMITED 转换为 ODS。[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)能够构建跨平台应用程序，能够生成、修改、转换、呈现和打印所有 Excel 文件。 C++ Excel API 不仅可以在电子表格格式之间相互转换，还可以将Excel文件渲染为图片，PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等，是行业文档交换的完美选择-标准格式。可以直接下载其最新版本，打开即可[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)包管理器，搜索 Aspose.Cells.Cpp 并安装。您也可以从包管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="命令" offSpacer="true" %}}
 
@@ -62,7 +62,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 1. 安装一个[NuGet 包](https://www.nuget.org/packages/Aspose.Cells.Cpp/).看[文档](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
 1. 使用 Include 和 lib 文件夹安装库。看[文档](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
-1. 在 Linux 中为 C++ 安装 Aspose.Cells。看[文档](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
+1. 在 Linux 中安装 Aspose.Cells for C++。看[文档](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -75,7 +75,7 @@ PM> Install-Package Aspose.Cells.Cpp
 {{% /blocks/products/pf/agp/text %}}
 
 - Microsoft Windows 或具有 C++ 运行时环境的兼容操作系统，适用于 Windows 32 位、Windows 64 位和 Linux 64 位。
-- 在您的项目中为 C++ DLL 添加对 Aspose.Cells 的引用。
+- 在您的项目中添加对 Aspose.Cells for C++ DLL 的引用。
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -94,7 +94,7 @@ PM> Install-Package Aspose.Cells.Cpp
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tabdelimited-to-svg/" name="TABDELIMITED TO SVG" description="可缩放矢量图形" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tabdelimited-to-tiff/" name="TABDELIMITED TO TIFF" description="标记图像格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tabdelimited-to-tsv/" name="TABDELIMITED TO TSV" description="制表符分隔值" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tabdelimited-to-txt/" name="TABDELIMITED TO TXT" description="文本文件" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tabdelimited-to-txt/" name="TABDELIMITED TO TXT" description="文本文档" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tabdelimited-to-xls/" name="TABDELIMITED TO XLS" description="Excel 二进制格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tabdelimited-to-xlsb/" name="TABDELIMITED TO XLSB" description="二进制 Excel 工作簿文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tabdelimited-to-xlsm/" name="TABDELIMITED TO XLSM" description="电子表格文件" >}}

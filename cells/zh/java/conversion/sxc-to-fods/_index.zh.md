@@ -107,7 +107,7 @@ keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC t
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/sxc-to-svg/" name="SXC 至 SVG" description="可缩放矢量图形" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/sxc-to-tiff/" name="SXC 至 TIFF" description="标记图像格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/sxc-to-tsv/" name="SXC 至 TSV" description="制表符分隔值" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/sxc-to-txt/" name="SXC 至 TXT" description="文本文件" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/sxc-to-txt/" name="SXC 至 TXT" description="文本文档" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/sxc-to-xls/" name="SXC 至 XLS" description="Excel 二进制格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/sxc-to-xlsb/" name="SXC 至 XLSB" description="二进制 Excel 工作簿文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/sxc-to-xlsm/" name="SXC 至 XLSM" description="电子表格文件" >}}

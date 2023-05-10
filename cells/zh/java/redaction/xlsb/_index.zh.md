@@ -61,7 +61,7 @@ description: Java 示例代码，用于编辑 Java JSP/JSF 应用程序和桌面
 
 加载 XLSB 文件。
 选择相关工作表。
-定义和指定 FindOptions。
++ 定义和指定 FindOptions。
 + 指定要搜索的范围
 遍历每个单元格并使用 getCells().find(...)。
 + 替换值。

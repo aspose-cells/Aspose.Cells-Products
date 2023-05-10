@@ -47,7 +47,7 @@ PM> Install-Package Aspose.Cells
 + 选择工作表。
 + 获取图片和图像类型。
 + 保存图像。
-+ 保存文档
++ 保存文件
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

@@ -41,7 +41,7 @@ Python 开发人员只需几行代码即可轻松加载 XLSX 文件并将其转�
 {{% /blocks/products/pf/agp/text %}}
 
 - 安装Java并将其添加到PATH环境变量中，例如：<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
-- 从安装 Aspose.Cells for Python<a href="https://pypi.org/project/aspose-cells/">皮皮</a>，使用命令为：<code>$ pip install aspose-cells</code>.
+- 从安装 Aspose.Cells for Python<a href="https://pypi.org/project/aspose-cells/">pypi</a> ，使用命令为：<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -85,7 +85,7 @@ XLSX 是 Microsoft 随 Microsoft Office 2007 版本引入的 Microsoft Excel 文
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsx-to-svg/" name="XLSX 至 SVG" description="可缩放矢量图形" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsx-to-tiff/" name="XLSX 至 TIFF" description="标记图像格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsx-to-tsv/" name="XLSX 至 TSV" description="制表符分隔值" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsx-to-txt/" name="XLSX 至 TXT" description="文本文件" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsx-to-txt/" name="XLSX 至 TXT" description="文本文档" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsx-to-xls/" name="XLSX 至 XLS" description="Excel 二进制格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsx-to-xlsb/" name="XLSX 至 XLSB" description="二进制 Excel 工作簿文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsx-to-xlsm/" name="XLSX 至 XLSM" description="电子表格文件" >}}

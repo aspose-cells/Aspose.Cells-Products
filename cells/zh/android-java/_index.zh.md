@@ -242,7 +242,7 @@ Microsoft Excel：
     <em class="fa fa-th ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-将格式应用于工作表、行、列、单元格和区域
+将格式应用于工作表、行、列、单元格和范围
     </p>
    </div>
    <div class="col-lg-4">

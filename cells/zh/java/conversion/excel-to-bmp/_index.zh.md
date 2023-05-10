@@ -107,7 +107,7 @@ keywords: Convert EXCEL, EXCEL Converter, EXCEL to PDF, EXCEL to Word, EXCEL to 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/excel-to-svg/" name="卓越至 SVG" description="可缩放矢量图形" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/excel-to-tiff/" name="卓越至 TIFF" description="标记图像格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/excel-to-tsv/" name="卓越至 TSV" description="制表符分隔值" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/excel-to-txt/" name="卓越至 TXT" description="文本文件" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/excel-to-txt/" name="卓越至 TXT" description="文本文档" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/excel-to-xls/" name="卓越至 XLS" description="Excel 二进制格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/excel-to-xlsb/" name="卓越至 XLSB" description="二进制 Excel 工作簿文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/excel-to-xlsm/" name="卓越至 XLSM" description="电子表格文件" >}}

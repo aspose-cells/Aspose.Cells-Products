@@ -11,7 +11,7 @@ description: 使用Aspose.Cells' Java API 插入对象，无需任何软件，�
 
 {{% blocks/products/pf/agp/content h2="如何使用 Java 将标注插入 Excel 文件" %}}
 
-为了将标注插入 excel 文件，我们将使用
+为了将标注插入到 excel 文件中，我们将使用
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
 API 这是一个功能丰富、功能强大且易于使用的 API for Java 平台。您可以直接从以下位置下载其最新版本
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 

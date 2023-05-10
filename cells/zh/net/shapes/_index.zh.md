@@ -3,7 +3,7 @@ title: 在 Excel 中插入形状 via .NET
 description:  C# 源代码，说明如何使用 .NET 库将形状插入 Microsoft Excel 文件。
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Excel 形状插入 via .NET" h2="在基于 .NET 的应用程序中使用服务器端 API 创建 Excel 文档和插入形状。" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Excel 形状插入 via .NET" h2="在基于 .NET 的应用程序中使用服务器端 API 创建 Excel 文档并插入形状。" >}}
 {{% blocks/products/pf/feature-page-summary %}}
 
 在 Excel 中，您可以将方框、圆圈和箭头等形状添加到文档、电子邮件、幻灯片和电子表格中。为了让您从大量的手动插入中解放出来，[.NET Excel 库](https://releases.aspose.com/cells/net/)API提供了相同的功能。这些API非常容易使用，通常只需要一行代码就可以插入一个特定的形状，几行代码就可以完成批量形状的插入。

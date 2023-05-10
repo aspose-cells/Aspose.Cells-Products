@@ -21,7 +21,7 @@ description: C# 源代码，用于在 .NET 框架、.NET 核心、Mono 或 Xamar
 
 在使用Excel时，您可能会遇到以下问题：
 
-目标Excel文件不能直接手动操作，需要程序处理。
++ 目标Excel文件不能直接手动操作，需要程序处理。
 + 将大量 svg 图片插入到同一个 Excel 文件中。
 + 将 svg 图像插入大量不同的 Excel 文件中。
 

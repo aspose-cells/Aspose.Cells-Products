@@ -1,11 +1,10 @@
 ---
-title: 在 JasperReports 和 JasperServer 中導出 Excel XLS XLSX PDF ODS 報告 
+title: 在 Excel 中導出報告 XLS XLSX PDF ODS 在 JasperReports 和 JasperServer 中
 weight: 9460
-
-description: 以 Excel XLS XLSX PDF ODS TXT 和 SpreadsheetML 格式從 Jasper Reports 和 JasperServer 導出報告。還將報告打印為 Excel 電子表格
+description: 從 Jasper Reports 和 JasperServer 以 Excel XLS XLSX PDF ODS TXT 和 SpreadsheetML 格式導出報告。還可以將報告打印為 Excel 電子表格
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="將報告導出為 Excel 格式的 JasperReports 擴展" h2="將報告導出到 Microsoft Excel 電子表格多種格式。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-jasperreports.svg" pfName="Aspose.Cells" subTitlepfName="for JasperReports" downloadUrl="https://downloads.aspose.com/cells/jasperreports" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="將報告導出為 Excel 格式的 JasperReports 擴展" h2="將報告導出為 Microsoft Excel 電子表格多種格式。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-jasperreports.svg" pfName="Aspose.Cells" subTitlepfName="for JasperReports" downloadUrl="https://downloads.aspose.com/cells/jasperreports" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for JasperReports" >}}
 
@@ -13,7 +12,7 @@ description: 以 Excel XLS XLSX PDF ODS TXT 和 SpreadsheetML 格式從 Jasper R
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- JasperReports 的 Aspose.Cells 是一個可靠的 JasperReports 和 JasperServer 擴展程序，它無需使用 Microsoft Excel 就可以導出 Microsoft Excel XLS、XLSX、PDF、ODS、TXT 和 SpreadsheetML 格式的報告。它可以替代 JasperReports 的原始 Microsoft Excel 導出器，並且消除了對 POI 庫的依賴。
+ Aspose.Cells for JasperReports 是可靠的 JasperReports 和 JasperServer 擴展，提供 Microsoft Excel XLS、XLSX、PDF、ODS、TXT 和 SpreadsheetML 格式的導出報告，無需使用 0 76193481 Excel。它可以替代 JasperReports 的原始 Microsoft Excel 導出器，並消除對 POI 庫的依賴。
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -21,20 +20,20 @@ description: 以 Excel XLS XLSX PDF ODS TXT 和 SpreadsheetML 格式從 Jasper R
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="乍看上去" description="JasperReports 功能的 Aspose.Cells 概述。" >}}
+{{< blocks/products/pf/carousel-item h3="乍看上去" description="Aspose.Cells for JasperReports\' 功能概述。" >}}
 <div class="diagram1 d1-jasper">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-cog">
     </i>
-    輕量級部署
+輕量級部署
    </header>
    <br/>
    <header>
     <i class="fa fa-table">
     </i>
-    高保真報告設計
+報告設計的高保真度
    </header>
   </div>
   <!--/left-->
@@ -42,13 +41,13 @@ description: 以 Excel XLS XLSX PDF ODS TXT 和 SpreadsheetML 格式從 Jasper R
    <header>
     <i class="fa fa-bar-chart">
     </i>
-    可編輯圖表
+可編輯圖表
    </header>
    <br/>
    <header>
     <i class="fa fa-share">
     </i>
-    導出為 Excel 格式
+導出為 Excel 格式
    </header>
   </div>
   <!--/right-->
@@ -62,9 +61,9 @@ description: 以 Excel XLS XLSX PDF ODS TXT 和 SpreadsheetML 格式從 Jasper R
   <footer>
    <small>
     <em>
-     為了
+為了
     </em>
-    賈斯珀報告
+碧玉報告
    </small>
   </footer>
  </div>
@@ -73,7 +72,7 @@ description: 以 Excel XLS XLSX PDF ODS TXT 和 SpreadsheetML 格式從 Jasper R
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="平台獨立性" description="JasperReports 的 Aspose.Cells 支持 J2SE、JasperReports 和 JasperServer。" >}}
+{{< blocks/products/pf/carousel-item h3="平台獨立性" description="Aspose.Cells for JasperReports 支持J2SE、JasperReports 和JasperServer。" >}}
 <div class="diagram1 d1-jasper">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -83,13 +82,13 @@ description: 以 Excel XLS XLSX PDF ODS TXT 和 SpreadsheetML 格式從 Jasper R
    <header style="padding-left: 0px;">
     <i class="fa fa-cubes">
     </i>
-    J2SE 1.6 或更高版本
+ J2SE 1.6 或更高版本
    </header>
    <br/>
    <header style="padding-left: 0px;">
     <i class="fa fa-cubes">
     </i>
-    JasperReports 6.3.0 或更高版本
+JasperReports 6.3.0 或更高版本
    </header>
   </div>
   <!--/right-->
@@ -103,9 +102,9 @@ description: 以 Excel XLS XLSX PDF ODS TXT 和 SpreadsheetML 格式從 Jasper R
   <footer>
    <small>
     <em>
-     為了
+為了
     </em>
-    賈斯珀報告
+碧玉報告
    </small>
   </footer>
  </div>
@@ -114,7 +113,7 @@ description: 以 Excel XLS XLSX PDF ODS TXT 和 SpreadsheetML 格式從 Jasper R
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="支持的文件格式" description="JasperReports 的 Aspose.Cells 允許您將報告直接導出到 [以下格式](https://docs.aspose.com/cells/jasperreports/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="支持的文件格式" description="Aspose.Cells for JasperReports 允許您直接將報告導出到[以下格式](https://docs.aspose.com/cells/jasperreports/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-jasper">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -124,38 +123,38 @@ description: 以 Excel XLS XLSX PDF ODS TXT 和 SpreadsheetML 格式從 Jasper R
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    僅輸出
+僅輸出
    </header>
    <ul>
     <li>
      <b>
-      微軟Excel：
+Microsoft Excel：
      </b>
-     XLS、XLSX
+     XLS, XLSX
     </li>
     <li>
      <b>
-      開發辦公室：
+開發辦公室：
      </b>
-     消耗臭氧層物質
+     ODS
     </li>
     <li>
      <b>
-      電子表格ML：
+      SpreadsheetML:
      </b>
      XML
     </li>
     <li>
      <b>
-      固定佈局：
+固定佈局：
      </b>
-     PDF格式
+     PDF
     </li>
     <li>
      <b>
-      文本：
+文本：
      </b>
-     CSV、TSV、製表符分隔
+CSV、TSV，製表符分隔
     </li>
    </ul>
   </div>
@@ -170,9 +169,9 @@ description: 以 Excel XLS XLSX PDF ODS TXT 和 SpreadsheetML 格式從 Jasper R
   <footer>
    <small>
     <em>
-     為了
+為了
     </em>
-    賈斯珀報告
+碧玉報告
    </small>
   </footer>
  </div>
@@ -191,7 +190,7 @@ description: 以 Excel XLS XLSX PDF ODS TXT 和 SpreadsheetML 格式從 Jasper R
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    高級 JasperReports 到 Excel 導出功能
+高級 JasperReports 到 Excel 的導出功能
    </h2>
    <p>
    </p>
@@ -199,53 +198,53 @@ description: 以 Excel XLS XLSX PDF ODS TXT 和 SpreadsheetML 格式從 Jasper R
     <em class="fa fa-line-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     將報告生成為 Microsoft Excel 文件
+將報告生成為 Microsoft Excel 文件
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-print ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     將報告打印為電子表格
+將報告打印為電子表格
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-pie-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     將 Excel 文件導出為可編輯的電子表格
+將 Excel 文件導出為可編輯的電子表格
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     將報告導出為 Microsoft Excel 格式
+將報告導出為 Microsoft Excel 格式
     </h2>
     <p>
-     JasperReports 的 Aspose.Cells 提供將報告直接導出為 Microsoft Excel 格式（如 XLS 和XLSX。此外，您還可以以 SpreadsheetML、ODS、CSV 和 CSV 格式導出報告。製表符分隔的格式，以滿足您的業務需求。
+Aspose.Cells for JasperReports 提供直接導出報表為Microsoft Excel格式如XLS &amp; XLSX。此外，您還可以導出 SpreadsheetML、ODS、CSV &amp; 中的報告。製表符分隔格式以滿足您的業務需求。
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     高保真報告設計
+報告設計的高保真度
     </h2>
     <p>
-     Aspose.Cells 用於 JasperReports 以最高精度將報告導出為支持的格式，即； JasperReports 的本機導出功能導出的報告似乎相同。
+Aspose.Cells for JasperReports 以最高精度將報告導出為支持的格式，即； JasperReports 的本地導出功能導出的報告似乎相同。
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     可編輯的 Excel 電子表格
+可編輯的 Excel 電子表格
     </h2>
     <p>
-     Aspose.Cells 用於 JasperReports 將 Excel 文檔導出為完全可編輯的電子表格。它支持 Microsoft Excel 圖表，通過 Aspose 渲染引擎導出的任何圖表都將作為可編輯圖表而不是靜態圖片提供，從而允許最終用戶在 Microsoft Excel 中手動更改圖表。
+Aspose.Cells for JasperReports 將 Excel 文檔導出為完全可編輯的電子表格。它支持 Microsoft Excel 圖表，並且通過 Aspose 渲染引擎導出的任何圖表都將作為可編輯圖表而不是靜態圖片提供，從而允許最終用戶在 Microsoft Excel 中手動更改圖表。
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     微軟辦公自動化——不需要
+ Microsoft 辦公自動化——不需要
     </h2>
     <p>
-     Aspose.Cells 用於使用託管代碼開發的 JasperReports 導出器，無需在計算機上安裝 Microsoft Excel 或 Microsoft Office 即可處理 Excel 文檔格式。在穩定性、可擴展性、支持的功能、安全性、價格和速度方面，它是一個完美的 Microsoft Excel 自動化替代方案。
+Aspose.Cells for JasperReports 導出器使用託管代碼開發，無需在機器上安裝 Microsoft Excel 或 Microsoft Office 即可處理 Excel 文檔格式。就穩定性、可擴展性、支持的功能、安全性、價格和速度而言，它是完美的 Microsoft Excel 自動化替代方案。
     </p>
    </div>
   </div>
@@ -265,12 +264,12 @@ description: 以 Excel XLS XLSX PDF ODS TXT 和 SpreadsheetML 格式從 Jasper R
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="產品支持" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="免費支持" href="https://forum.aspose.com/c/cells" >}}
+{{< blocks/products/pf/slr-element name="免費支持" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="付費支持" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="博客" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="為什麼選擇 JasperReports Aspose.Cells？" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="為什麼是 Aspose.Cells for JasperReports？" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="客戶名單" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="成功的故事" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}

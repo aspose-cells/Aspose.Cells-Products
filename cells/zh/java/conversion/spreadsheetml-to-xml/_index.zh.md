@@ -107,7 +107,7 @@ Java 开发人员只需几行代码就可以轻松地将SPREADSHEETML 转换为X
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/spreadsheetml-to-svg/" name="电子表格 SVG" description="可缩放矢量图形" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/spreadsheetml-to-tiff/" name="电子表格 TIFF" description="标记图像格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/spreadsheetml-to-tsv/" name="电子表格 TSV" description="制表符分隔值" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/spreadsheetml-to-txt/" name="电子表格 TXT" description="文本文件" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/spreadsheetml-to-txt/" name="电子表格 TXT" description="文本文档" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/spreadsheetml-to-xls/" name="电子表格 XLS" description="Excel 二进制格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/spreadsheetml-to-xlsb/" name="电子表格 XLSB" description="二进制 Excel 工作簿文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/spreadsheetml-to-xlsm/" name="电子表格 XLSM" description="电子表格文件" >}}

@@ -63,7 +63,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/code-block %}}
 
-{{< blocks/products/pf/agp/demobox sectionTitle="在线 TXT 合并现场演示" sectionDescription="立即访问我们的合并 TXT 文件[现场演示网站](https://products.aspose.app/cells/merger).现场演示有以下好处" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="在线 TXT 合并现场演示" sectionDescription="立即访问我们的合并 TXT 文档[现场演示网站](https://products.aspose.app/cells/merger).现场演示有以下好处" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="无需下载 Aspose API。" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="无需编写任何代码。" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="只需上传您的 TXT 文件。" >}}

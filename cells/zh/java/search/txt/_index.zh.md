@@ -58,7 +58,7 @@ description: Java 示例代码，用于在 Java JSP/JSF 应用程序和桌面应
 {{% /blocks/products/pf/agp/text %}}
 
 通过实例化工作簿对象加载 TXT 文件。
-+ 访问 TXT 文件中的第一个工作表。
+访问 TXT 文件中的第一个工作表。
 + 查找包含指定公式的单元格。
 + 实例化 FindOptions。
 + 查找包含字符串值的单元格

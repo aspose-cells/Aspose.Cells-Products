@@ -92,7 +92,7 @@ PM> Install-Package Aspose.Cells
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/numbers-to-svg/" name="电话号码 SVG" description="可缩放矢量图形" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/numbers-to-tiff/" name="电话号码 TIFF" description="标记图像格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/numbers-to-tsv/" name="电话号码 TSV" description="制表符分隔值" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/numbers-to-txt/" name="电话号码 TXT" description="文本文件" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/numbers-to-txt/" name="电话号码 TXT" description="文本文档" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/numbers-to-xls/" name="电话号码 XLS" description="Excel 二进制格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/numbers-to-xlsb/" name="电话号码 XLSB" description="二进制 Excel 工作簿文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/numbers-to-xlsm/" name="电话号码 XLSM" description="电子表格文件" >}}

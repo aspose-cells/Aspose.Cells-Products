@@ -39,7 +39,7 @@ description: Python 将矩形插入 Excel 的源代码。
 
 实例化工作簿对象。（或->加载具有完整路径的 XLSX 文件。）
 + 通过索引选择工作表。
-使用 shapecollection 的 add 方法在选定的工作表中插入一个 Rectangle。
++ 使用 shapecollection 的 add 方法在选定的工作表中插入一个 Rectangle。
 以 XLSX 格式保存工作簿。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -48,12 +48,12 @@ description: Python 将矩形插入 Excel 的源代码。
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Python 是平台无关的 API 可以在任何平台上使用（Windows，Linux），只要确保系统有[Python](https://www.python.org/downloads/) 3.7 或更高。
+Aspose.Cells for Python 是平台无关的 API 可以在任何平台上使用（Windows，Linux），只要确保系统有[Python](https://www.python.org/downloads/) 3.7 或更高。
  
 {{% /blocks/products/pf/agp/text %}}
 
 - 任何可以运行python脚本的操作系统，比如Windows、Linux
-- 从安装 Aspose.Cells for Python<a href="https://pypi.org/project/aspose-cells-python/">皮皮</a>，使用命令为：<code>$ pip install aspose-cells-python</code>.
+- 从安装 Aspose.Cells for Python<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> ，使用命令为：<code>$ pip install aspose-cells-python</code>.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

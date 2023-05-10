@@ -16,7 +16,7 @@ description: C#代码中EXCEL转IMAGE格式。使用 C# 将 EXCEL 另存为 IMAG
 
 {{% blocks/products/pf/agp/content h2="使用 C# 将 EXCEL 转换为图像" %}}
 
-为了将 EXCEL 转换为 IMAGE，我们将使用[Aspose.Cells 为 C#](https://products.aspose.com/cells/net)API这是一个功能丰富，功能强大且易于使用的文档操作和转换API for C#平台。
+为了将 EXCEL 转换为 IMAGE，我们将使用[Aspose.Cells 为 C#](https://products.aspose.com/cells/net) API这是一个功能丰富，功能强大且易于使用的文档操作和转换API for C#平台。
 
 {{% /blocks/products/pf/agp/content %}}
 

@@ -12,11 +12,11 @@ description: Java 用于电子表格处理的 Excel 库。读写渲染和转换 
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
-Aspose.Cells for Java 是屡获殊荣的 Excel 电子表格处理 API，它允许开发人员嵌入读取、写入、操作、转换和转换的功能。在自己的应用程序中打印电子表格，无需 Microsoft Excel 应用程序。
+ Aspose.Cells for Java 是屡获殊荣的 Excel 电子表格处理 API，它允许开发人员嵌入读取、写入、操作、转换和转换的功能。在自己的应用程序中打印电子表格，无需 Microsoft Excel 应用程序。
 </p>
 
 <p>
- Aspose.Cells for Java 是一个成熟且功能丰富的库，提供的许多功能远远超过市场上其他组件的简单数据导出功能。 API 提供导出数据、将电子表格格式设置为最精细级别、导入和更新的功能。导出图像、创建图表和数据透视表，应用 &amp;使用公式计算引擎计算复杂公式，流式处理 Excel 数据 &amp;以各种格式保存结果。
+Aspose.Cells for Java 是一个成熟且功能丰富的库，提供的许多功能远远超过市场上其他组件的简单数据导出功能。 API 提供导出数据、将电子表格格式设置为最精细级别、导入和更新的功能。导出图像、创建图表和数据透视表，应用 &amp;使用公式计算引擎计算复杂公式，流式处理 Excel 数据 &amp;以各种格式保存结果。
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -85,7 +85,7 @@ Aspose.Cells for Java 是屡获殊荣的 Excel 电子表格处理 API，它允�
 加载 Excel 文件
     </li>
     <li>
-保存 Excel 文档
+保存 Excel 文件
     </li>
     <li>
 提供编辑功能

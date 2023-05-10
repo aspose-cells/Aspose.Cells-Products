@@ -56,7 +56,7 @@ description: Java 示例代码将 MHTML 文档合并到 Java JSP/JSF 应用程�
 使用 Workbook 类的实例加载第一个 MHTML 文件。
 + 使用 Workbook 类的实例加载第二个 MHTML 文档。
 + 使用 combine() 方法合并文件。
-+ 将合并后的 MHTML 文件保存到指定路径
+将合并后的 MHTML 文件保存到指定路径
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -94,7 +94,7 @@ mhtmlFile1.save("combinedFileWithPath.mhtml");
 
 {{% /blocks/products/pf/agp/code-block %}}
 
-{{< blocks/products/pf/agp/demobox sectionTitle="在线 MHTML 合并现场演示" sectionDescription="立即访问我们的合并 MHTML 文件[现场演示网站](https://products.aspose.app/cells/merger).现场演示有以下好处" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="在线 MHTML 合并现场演示" sectionDescription="立即访问我们的合并 MHTML 文档[现场演示网站](https://products.aspose.app/cells/merger).现场演示有以下好处" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="无需下载 Aspose API。" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="无需编写任何代码。" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="只需上传您的 MHTML 文件。" >}}
@@ -130,7 +130,7 @@ mhtmlFile1.save("combinedFileWithPath.mhtml");
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/html/" name="HTML" description="超文本标记语言" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/ods/" name="ODS" description="OpenDocument 电子表格文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/tsv/" name="TSV" description="制表符分隔值" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/txt/" name="TXT" description="文本文件" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/txt/" name="TXT" description="文本文档" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/xls/" name="XLS" description="Excel 二进制格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/xlsb/" name="XLSB" description="二进制 Excel 工作簿文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/xlsm/" name="XLSM" description="电子表格文件" >}}

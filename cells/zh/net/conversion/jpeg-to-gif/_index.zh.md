@@ -92,7 +92,7 @@ PM> Install-Package Aspose.Cells
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/jpeg-to-svg/" name="JPEG 至 SVG" description="可缩放矢量图形" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/jpeg-to-tiff/" name="JPEG 至 TIFF" description="标记图像格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/jpeg-to-tsv/" name="JPEG 至 TSV" description="制表符分隔值" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/jpeg-to-txt/" name="JPEG 至 TXT" description="文本文件" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/jpeg-to-txt/" name="JPEG 至 TXT" description="文本文档" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/jpeg-to-xls/" name="JPEG 至 XLS" description="Excel 二进制格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/jpeg-to-xlsb/" name="JPEG 至 XLSB" description="二进制 Excel 工作簿文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/conversion/jpeg-to-xlsm/" name="JPEG 至 XLSM" description="电子表格文件" >}}

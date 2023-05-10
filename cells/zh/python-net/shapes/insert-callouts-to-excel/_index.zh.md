@@ -11,7 +11,7 @@ description: Python via .NET 将标注插入 Excel 的源代码。
 
 {{% blocks/products/pf/agp/content h2="如何使用 Python via 将标注插入 Excel 文件 .NET" %}}
 
-为了将标注插入 excel 文件，我们将使用
+为了将标注插入到 excel 文件中，我们将使用
  [Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python/) 
  API这是一个功能丰富、功能强大且易于使用的python平台文档操作API。API提供了Excel文件的创建、操作、转换和渲染。所有这些都不依赖于 Microsoft Office 或 Excel 应用程序。您可以使用以下命令从控制台进行安装。
 
@@ -48,12 +48,12 @@ description: Python via .NET 将标注插入 Excel 的源代码。
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Python 是平台无关的 API 可以在任何平台上使用（Windows，Linux），只要确保系统有[Python](https://www.python.org/downloads/) 3.7 或更高。
+Aspose.Cells for Python 是平台无关的 API 可以在任何平台上使用（Windows，Linux），只要确保系统有[Python](https://www.python.org/downloads/) 3.7 或更高。
  
 {{% /blocks/products/pf/agp/text %}}
 
 - 任何可以运行python脚本的操作系统，比如Windows、Linux
-- 从安装 Aspose.Cells for Python<a href="https://pypi.org/project/aspose-cells-python/">皮皮</a>，使用命令为：<code>$ pip install aspose-cells-python</code>.
+- 从安装 Aspose.Cells for Python<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> ，使用命令为：<code>$ pip install aspose-cells-python</code>.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

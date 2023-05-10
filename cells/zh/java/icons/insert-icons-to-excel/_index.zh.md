@@ -21,7 +21,7 @@ description: 使用Aspose.Cells' Java API 插入对象，无需任何软件，�
 
 在使用Excel时，您可能会遇到以下问题：
 
-目标Excel文件不能直接手动操作，需要程序处理。
++ 目标Excel文件不能直接手动操作，需要程序处理。
 + 将大量 svg 图片插入到同一个 Excel 文件中。
 + 将 svg 图像插入大量不同的 Excel 文件中。
 

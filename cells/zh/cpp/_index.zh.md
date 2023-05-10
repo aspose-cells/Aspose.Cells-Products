@@ -12,7 +12,7 @@ description: C++ Excel 库，用于读写和解析文件，包括 XLS、XLSX、X
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for C++ 是原生的 C++ API for Spreadsheet manipulation。应用程序可以执行诸如创建、转换和编辑电子表格的内置和自定义属性、主题、样式和格式、数据验证、条件格式、读取、编写和计算公式、分组行和列等功能，而无需依赖办公自动化或 Microsoft Excel。 API 支持最常用的电子表格格式，例如 XLS、XLSX、XLSM 和 XLSB。
+ Aspose.Cells for C++ 是用于电子表格操作的本机 C++ API。应用程序可以执行诸如创建、转换和编辑电子表格的内置和自定义属性、主题、样式和格式、数据验证、条件格式、读取、编写和计算公式、分组行和列等功能，而无需依赖办公自动化或 Microsoft Excel。 API 支持最常用的电子表格格式，例如 XLS、XLSX、XLSM 和 XLSB。
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -465,7 +465,7 @@ Aspose.Cells for C++ 提供多种方式的行和列操作。根据其中的内�
 准确地将电子表格转换为 PDF
     </h2>
     <p>
-Excel C++ 库提供了将电子表格转换为 PDF 格式的能力，同时保持与原始文档相同的质量。这一事实使得 Aspose.Cells 与 C++ 成为需要以行业标准格式交换文档的组织的完美选择，如 PDF。
+Excel C++ 库提供了将电子表格转换为 PDF 格式的能力，同时保持与原始文档相同的质量。这一事实使 Aspose.Cells for C++ 成为需要以行业标准格式交换文档的组织的完美选择，如 PDF。
     </p>
    </div>
    <!-- 
@@ -512,7 +512,7 @@ Excel C++ 库提供了将电子表格转换为 PDF 格式的能力，同时保�
 {{< blocks/products/pf/slr-element name="发行说明" href="https://docs.aspose.com/cells/cpp/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="为什么 Aspose.Cells 为 C++？" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="为什么是 Aspose.Cells for C++？" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="客户名单" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="成功的故事" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}

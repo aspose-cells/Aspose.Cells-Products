@@ -12,7 +12,7 @@ description: 在 Python 代码中合并 Excel 文件。使用 Python 合并 Exce
 
 为了合并 Excel 文件，我们将使用[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python)API 这是一个功能丰富、功能强大且易于使用的文档操作和合并平台 API for Python。
  
-您可以从安装 Aspose.Cells for Python<a href="https://pypi.org/project/aspose-cells/">皮皮</a>，使用命令为：<code>$ pip install aspose-cells-python</code>.
+您可以从安装 Aspose.Cells for Python<a href="https://pypi.org/project/aspose-cells/">pypi</a> ，使用命令为：<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -45,7 +45,7 @@ description: 在 Python 代码中合并 Excel 文件。使用 Python 合并 Exce
 {{% /blocks/products/pf/agp/text %}}
 
 - 安装[Python](https://www.python.org/downloads/) 3.7 或更高。
-- 从安装 Aspose.Cells for Python<a href="https://pypi.org/project/aspose-cells/">皮皮</a>，使用命令为：<code>$ pip install aspose-cells-python</code>.
+- 从安装 Aspose.Cells for Python<a href="https://pypi.org/project/aspose-cells/">pypi</a> ，使用命令为：<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -80,7 +80,7 @@ XLSX 是 Microsoft 随 Microsoft Office 2007 版本引入的 Microsoft Excel 文
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsx-to-mhtml/" name="MHTML" description="网页存档格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsx-to-ods/" name="ODS" description="OpenDocument 电子表格文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsx-to-tsv/" name="TSV" description="制表符分隔值" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsx-to-txt/" name="TXT" description="文本文件" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsx-to-txt/" name="TXT" description="文本文档" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsx-to-xls/" name="XLS" description="Excel 二进制格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsx-to-xlsb/" name="XLSB" description="二进制 Excel 工作簿文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsx-to-xlsm/" name="XLSM" description="电子表格文件" >}}

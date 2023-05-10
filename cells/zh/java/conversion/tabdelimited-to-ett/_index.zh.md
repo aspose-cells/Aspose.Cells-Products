@@ -107,7 +107,7 @@ Java 开发人员只需几行代码即可轻松将 TABDELIMITED 转换为 ETT。
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-svg/" name="TABDELIMITED TO SVG" description="可缩放矢量图形" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-tiff/" name="TABDELIMITED TO TIFF" description="标记图像格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-tsv/" name="TABDELIMITED TO TSV" description="制表符分隔值" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-txt/" name="TABDELIMITED TO TXT" description="文本文件" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-txt/" name="TABDELIMITED TO TXT" description="文本文档" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-xls/" name="TABDELIMITED TO XLS" description="Excel 二进制格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-xlsb/" name="TABDELIMITED TO XLSB" description="二进制 Excel 工作簿文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-xlsm/" name="TABDELIMITED TO XLSM" description="电子表格文件" >}}

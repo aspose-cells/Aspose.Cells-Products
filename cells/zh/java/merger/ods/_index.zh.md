@@ -56,7 +56,7 @@ description: Java 示例代码将 ODS 文档合并到 Java JSP/JSF 应用程序�
 使用 Workbook 类的实例加载第一个 ODS 文件。
 + 使用 Workbook 类的实例加载第二个 ODS 文档。
 + 使用 combine() 方法合并文件。
-+ 将合并后的 ODS 文件保存到指定路径
+将合并后的 ODS 文件保存到指定路径
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -94,7 +94,7 @@ odsFile1.save("combinedFileWithPath.ods");
 
 {{% /blocks/products/pf/agp/code-block %}}
 
-{{< blocks/products/pf/agp/demobox sectionTitle="在线 ODS 合并现场演示" sectionDescription="立即访问我们的合并 ODS 文件[现场演示网站](https://products.aspose.app/cells/merger).现场演示有以下好处" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="在线 ODS 合并现场演示" sectionDescription="立即访问我们的合并 ODS 文档[现场演示网站](https://products.aspose.app/cells/merger).现场演示有以下好处" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="无需下载 Aspose API。" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="无需编写任何代码。" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="只需上传您的 ODS 文件。" >}}
@@ -116,7 +116,7 @@ odsFile1.save("combinedFileWithPath.ods");
 
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
-扩展名为 ODS 的文件代表用户可编辑的 OpenDocument 电子表格文档格式。数据以行和列的形式存储在 ODF 文件中。它是基于 XML 的格式，是开放文档格式 (ODF) 系列中的几个子类型之一。该格式被指定为 OASIS 发布和维护的 ODF 1.2 规范的一部分。 Windows 和其他操作系统上的许多应用程序可以打开 ODS 文件进行编辑和操作，包括 Microsoft Excel、NeoOffice 和 LibreOffice。 ODS 文件也可以通过不同的应用程序转换为其他电子表格格式，如 XLS、XLSX 等。
+扩展名为 ODS 的文件代表用户可编辑的 OpenDocument 电子表格文档格式。数据以行和列的形式存储在 ODF 文件中。它是基于 XML 的格式，是开放文档格式 (ODF) 系列中的几种子类型之一。该格式被指定为 OASIS 发布和维护的 ODF 1.2 规范的一部分。 Windows 和其他操作系统上的许多应用程序可以打开 ODS 文件进行编辑和操作，包括 Microsoft Excel、NeoOffice 和 LibreOffice。 ODS 文件也可以通过不同的应用程序转换为其他电子表格格式，如 XLS、XLSX 等。
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -130,7 +130,7 @@ odsFile1.save("combinedFileWithPath.ods");
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/html/" name="HTML" description="超文本标记语言" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/mhtml/" name="MHTML" description="网页存档格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/tsv/" name="TSV" description="制表符分隔值" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/txt/" name="TXT" description="文本文件" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/txt/" name="TXT" description="文本文档" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/xls/" name="XLS" description="Excel 二进制格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/xlsb/" name="XLSB" description="二进制 Excel 工作簿文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/xlsm/" name="XLSM" description="电子表格文件" >}}

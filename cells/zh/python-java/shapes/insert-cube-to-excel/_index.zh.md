@@ -39,7 +39,7 @@ description: Python 将 Cube 插入 Excel 的源代码。
 
 实例化工作簿对象。（或->加载具有完整路径的 XLSX 文件。）
 + 通过索引选择工作表。
- + 使用 shapecollection 的[添加方法](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection#addAutoShape(int,%20int,%20int,%20int,%20int,%20int,%20int)) 在选定的工作表中插入一个多维数据集。
+ + 使用 shapecollection 的[添加方法](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection#addAutoShape(int,%20int,%20int,%20int,%20int,%20int,%20int)在选定的工作表中插入一个多维数据集。
 以 XLSX 格式保存工作簿。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -54,7 +54,7 @@ description: Python 将 Cube 插入 Excel 的源代码。
 
 - 任何可以运行python脚本的操作系统，例如Windows、Linux和MacOS
 - 安装Java并将其添加到PATH环境变量中，例如：<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
-- 从安装 Aspose.Cells for Python<a href="https://pypi.org/project/aspose-cells/">皮皮</a>，使用命令为：<code>$ pip install aspose-cells</code>.
+- 从安装 Aspose.Cells for Python<a href="https://pypi.org/project/aspose-cells/">pypi</a> ，使用命令为：<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

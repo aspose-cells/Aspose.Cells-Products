@@ -60,7 +60,7 @@ API 这是一个功能丰富、功能强大且易于使用的分离器 API for J
 {{% /blocks/products/pf/agp/text %}}
 
 使用工作簿类加载 ODS 文件。
-遍历每张纸
++ 遍历每张纸
 创建新的工作簿类对象
 将所选工作表复制到新对象
 使用新的 ODS 文件路径调用保存方法。
@@ -111,7 +111,7 @@ Aspose.Cells for Java 支持所有主要平台和操作系统。请确保您具�
             {{< blocks/products/pf/agp/democard icon="fa-download" text="您将获得下载链接。" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
-扩展名为 ODS 的文件代表用户可编辑的 OpenDocument 电子表格文档格式。数据以行和列的形式存储在 ODF 文件中。它是基于 XML 的格式，是开放文档格式 (ODF) 系列中的几个子类型之一。该格式被指定为 OASIS 发布和维护的 ODF 1.2 规范的一部分。 Windows 和其他操作系统上的许多应用程序可以打开 ODS 文件进行编辑和操作，包括 Microsoft Excel、NeoOffice 和 LibreOffice。 ODS 文件也可以通过不同的应用程序转换为其他电子表格格式，如 XLS、XLSX 等。
+扩展名为 ODS 的文件代表用户可编辑的 OpenDocument 电子表格文档格式。数据以行和列的形式存储在 ODF 文件中。它是基于 XML 的格式，是开放文档格式 (ODF) 系列中的几种子类型之一。该格式被指定为 OASIS 发布和维护的 ODF 1.2 规范的一部分。 Windows 和其他操作系统上的许多应用程序可以打开 ODS 文件进行编辑和操作，包括 Microsoft Excel、NeoOffice 和 LibreOffice。 ODS 文件也可以通过不同的应用程序转换为其他电子表格格式，如 XLS、XLSX 等。
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

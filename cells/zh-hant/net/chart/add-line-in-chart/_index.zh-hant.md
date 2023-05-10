@@ -1,7 +1,6 @@
 ---
-title: 通過 C# 在圖表中添加一條線 
-
-description: C# 使用 .NET 庫將圖表中的線條添加到 Excel 的示例代碼。使用此代碼在 VB.NET、Asp.NET 或任何基於 .NET 的應用程序中將圖表中的線條添加到 MS Excel。
+title: 通過 C# 在圖表中添加一條線
+description: C# 使用 .NET 庫將圖表中的線條添加到 Excel 的示例代碼。使用此代碼在 VB.NET、Asp.NET 或任何基於 .NET 的應用程序中向 MS Excel 添加圖表中的線條。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="通過 C# 在圖表中添加一條線" h2="使用服務器端 .NET API 以編程方式創建本機和高性能 MS Excel。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,43 +10,52 @@ description: C# 使用 .NET 庫將圖表中的線條添加到 Excel 的示例代
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
-在正在運行的應用程序中動態地在圖表中添加一條線很容易。為了在不需要 MS Office 的情況下從頭開始創建各種圖表到電子表格，我們將使用 [Aspose.Cells for .NET](https://products.aspose.com/cells/net)  API，它為使用 .NET 平台的電子表格創建、操作和轉換提供不同的功能。 Aspose.Cells 提供了許多靈活的圖表對象。
+在正在運行的應用程序中動態地在圖表中添加一條線很容易。為了在不需要 MS Office 的情況下從頭開始創建各種圖表到電子表格，我們將使用[Aspose.Cells for .NET](https://products.aspose.com/cells/net)API，使用 .NET 平台為電子表格創建、操作和轉換提供不同的功能。 Aspose.Cells 提供了許多靈活的圖表對象。
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="如何通過 C# 在圖表中添加線條" %}}
+{{% blocks/products/pf/agp/feature-section-col title="如何通過 C# 在圖表中添加一條線" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- 開發人員只需幾行代碼就可以很容易地在運行不同的報告應用程序的圖表中添加一條線以進行數據處理。
+開發人員只需幾行代碼就可以輕鬆地在運行不同報告應用程序的圖表中添加一行以進行數據處理。
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. 創造 [**工作簿**](https://reference.aspose.com/cells/net/aspose.cells/workbook) 類實例。1. 使用 [**Cell**](https://reference.aspose.com/cells/net/aspose.cells/cell) 對象的 [**看跌值**](https://reference.aspose.com/cells/net/aspose.cells/cell/methods/putvalue/index) 方法。   這將用作圖表的數據源。
-1. 通過調用 [**圖表**](https://reference.aspose.com/cells/net/aspose.cells.charts/chartcollection) 收藏的 [**添加**](https://reference.aspose.com/cells/net/aspose.cells.charts/chartcollection/methods/add) 方法，封裝在 [**工作表**](https://reference.aspose.com/cells/net/aspose.cells/worksheet) 目的。1. 訪問新 [**圖表**](https://reference.aspose.com/cells/net/aspose.cells.charts/chart) 通過傳遞其索引從 Charts 集合中獲取對象，通過調用指定圖表的數據源 [**Chart.SetChartDataRange**](https://https://reference.aspose.com/cells/net/aspose.cells.charts/chart/methods/setchartdatarange).1. 通過調用計算圖表位置 [**計算**](https://https://reference.aspose.com/cells/net/aspose.cells.charts/chart/methods/Calculate) 方法。1. 添加一個 [**線**](https://reference.aspose.com/cells/net/aspose.cells.drawing/shape/properties/msodrawingtype) 通過調用 Chart.Shapes.AddShapeInChartByScale 方法來塑造形狀。1. 設置行格式
+1. 創造[**工作簿**](https://reference.aspose.com/cells/net/aspose.cells/workbook)類實例。
+1. 將一些數據添加到工作表單元格中[**Cell**](https://reference.aspose.com/cells/net/aspose.cells/cell)對象的[**認沽價值**](https://reference.aspose.com/cells/net/aspose.cells/cell/methods/putvalue/index)方法。
+這將用作圖表的數據源。
+1. 通過調用將圖表添加到工作表[**圖表**](https://reference.aspose.com/cells/net/aspose.cells.charts/chartcollection)收藏的[**添加**](https://reference.aspose.com/cells/net/aspose.cells.charts/chartcollection/methods/add)方法，封裝在[**工作表**](https://reference.aspose.com/cells/net/aspose.cells/worksheet)目的。
+1. 訪問新的[**圖表**](https://reference.aspose.com/cells/net/aspose.cells.charts/chart)通過傳遞其索引從 Charts 集合中獲取對象，通過調用指定圖表的數據源[**圖表.SetChartDataRange**](https://https://reference.aspose.com/cells/net/aspose.cells.charts/chart/methods/setchartdatarange).
+1. 通過調用計算圖表位置[**計算**](https://https://reference.aspose.com/cells/net/aspose.cells.charts/chart/methods/Calculate)方法。
+1. 添加一個[**線**](https://reference.aspose.com/cells/net/aspose.cells.drawing/shape/properties/msodrawingtype)通過調用 Chart.Shapes.AddShapeInChartByScale 方法來塑造形狀。
+1. 設置行格式
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="系統要求" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- 只需確保該系統具有 Microsoft Windows 或與 .NET Framework、.NET Core、Windows Azure、Mono 或 Xamarin 平台以及 Microsoft Visual Studio 等開發環境兼容的操作系統。 
+只需確保系統具有 Microsoft Windows 或具有 .NET Framework、.NET Core、Windows Azure、Mono 或 Xamarin 平台的兼容操作系統以及 Microsoft Visual Studio 等開發環境。
 
 {{% /blocks/products/pf/agp/text %}}
 
-- 從命令行安裝為 <code>nuget install Aspose.Cells</code> 或通過 Visual Studio 的包管理器控制台 <code>Install-Package Aspose.Cells</code>.- 或者，從以下位置獲取離線 MSI 安裝程序或 ZIP 文件中的所有 DLL <a href="https://downloads.aspose.com/cells/net">下載</a>
+- 從命令行安裝為<code>nuget install Aspose.Cells</code>或者通過 Visual Studio 的包管理器控制台<code>Install-Package Aspose.Cells</code>.
+- 或者，從以下位置獲取 ZIP 文件中的脫機 MSI 安裝程序或所有 DLL<a href="https://downloads.aspose.com/cells/net">下載</a>
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="以下源代碼顯示瞭如何使用 C# 將圖表中的線條添加到 MS Excel XLSX 文件。" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="以下源代碼顯示瞭如何使用 C# 在 MS Excel XLSX 文件中添加圖表中的線條。" offSpacer="" %}}
 
 {{< gist "aspose-cells-gists" "88c9872508ec3150c552eb5155edf06e" "Examples-CSharp-Charts-AddLineInChart.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
-執行以上代碼，會得到如下結果：
+執行上面的代碼，你會得到如下結果：
 
-！[](line-in-chart.png)
+![](line-in-chart.png)
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

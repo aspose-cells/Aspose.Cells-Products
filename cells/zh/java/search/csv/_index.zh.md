@@ -58,7 +58,7 @@ description: Java 示例代码，用于在 Java JSP/JSF 应用程序和桌面应
 {{% /blocks/products/pf/agp/text %}}
 
 通过实例化工作簿对象加载 CSV 文件。
-+ 访问 CSV 文件中的第一个工作表。
+访问 CSV 文件中的第一个工作表。
 + 查找包含指定公式的单元格。
 + 实例化 FindOptions。
 + 查找包含字符串值的单元格
@@ -144,7 +144,7 @@ System.out.println("Name of the cell containing String: " + cell.getName());
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/search/ods/" name="ODS" description="OpenDocument 电子表格文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/search/tsv/" name="TSV" description="制表符分隔值" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/search/txt/" name="TXT" description="文本文件" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/search/txt/" name="TXT" description="文本文档" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/search/xls/" name="XLS" description="Excel 二进制格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/search/xlsb/" name="XLSB" description="二进制 Excel 工作簿文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/search/xlsm/" name="XLSM" description="电子表格文件" >}}

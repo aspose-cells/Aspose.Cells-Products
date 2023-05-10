@@ -13,7 +13,7 @@ description: Java 示例代码，用于在 JSP/JSF 应用程序和桌面应用�
 
 为了保护 XLSB 文件，我们将使用
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API这是一个功能丰富、功能强大且易于使用的加密API for Java平台。您可以直接从以下位置下载其最新版本
+ API这是一个功能丰富、功能强大且易于使用的加密API for Java平台。您可以直接从以下位置下载其最新版本
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
 并通过将以下配置添加到 pom.xml 将其安装在基于 Maven 的项目中。
 

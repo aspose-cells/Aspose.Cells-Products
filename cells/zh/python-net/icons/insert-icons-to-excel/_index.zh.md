@@ -21,7 +21,7 @@ description: Python 将 SVG 图像/图标插入 Excel 的源代码。
 
 在使用Excel时，您可能会遇到以下问题：
 
-目标Excel文件不能直接手动操作，需要程序处理。
++ 目标Excel文件不能直接手动操作，需要程序处理。
 + 将大量 svg 图片插入到同一个 Excel 文件中。
 + 将 svg 图像插入大量不同的 Excel 文件中。
 
@@ -88,12 +88,12 @@ Microsoft Excel已经为我们提供了预设的svg图片供我们选择。您�
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Python 是平台无关的 API 可以在任何平台上使用（Windows，Linux），只要确保系统有[Python](https://www.python.org/downloads/) 3.7 或更高。
+Aspose.Cells for Python 是平台无关的 API 可以在任何平台上使用（Windows，Linux），只要确保系统有[Python](https://www.python.org/downloads/) 3.7 或更高。
  
 {{% /blocks/products/pf/agp/text %}}
 
 - 任何可以运行python脚本的操作系统，比如Windows、Linux
-- 从安装 Aspose.Cells for Python<a href="https://pypi.org/project/aspose-cells-python/">皮皮</a>，使用命令为：<code>$ pip install aspose-cells-python</code>.
+- 从安装 Aspose.Cells for Python<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> ，使用命令为：<code>$ pip install aspose-cells-python</code>.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

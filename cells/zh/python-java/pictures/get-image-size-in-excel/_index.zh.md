@@ -59,7 +59,7 @@ Aspose.Cells for Python-Java 是平台无关的 API 可以在任何平台上使�
 
 - 任何可以运行python脚本的操作系统，例如Windows、Linux和MacOS
 - 安装Java并将其添加到PATH环境变量中，例如：<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
-- 从安装 Aspose.Cells for Python<a href="https://pypi.org/project/aspose-cells/">皮皮</a>，使用命令为：<code>$ pip install aspose-cells</code>.
+- 从安装 Aspose.Cells for Python<a href="https://pypi.org/project/aspose-cells/">pypi</a> ，使用命令为：<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

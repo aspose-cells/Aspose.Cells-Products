@@ -117,7 +117,7 @@ PM> Install-Package Aspose.Cells
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-flowchart-to-excel/document.png" align="left" width="28" height="28">
     <p class="col-lg-12">
-自选图形类型.流程图文档
+自选图形类型.流程图文件
     </p>
    </div>
    <div class="col-lg-4">

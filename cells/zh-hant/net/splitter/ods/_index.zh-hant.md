@@ -1,8 +1,7 @@
 ---
-title: 通過 .NET 拆分 ODS 文件 
+title: 拆分 ODS 文件 via .NET
 weight: 140
-
-description: C# 用於在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上拆分 ODS 文檔的源代碼。
+description: C# 源代碼在 .NET 框架、.NET 核心、Mono 或 Xamarin 平台上拆分 ODS 文檔。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="在 C# 中拆分 ODS 格式" h2="使用服務器端 API 的本機和高性能 ODS 拆分器，無需使用任何軟件，如 Microsoft 或 Open Office、Adobe PDF。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="ODS" >}}
@@ -12,20 +11,19 @@ description: C# 用於在 .NET Framework、.NET Core、Mono 或 Xamarin 平台�
 
 {{% blocks/products/pf/agp/content h2="如何使用 C# 拆分 ODS 文件" %}}
 
- 為了分割 ODS 文件，我們將使用
+為了拆分 ODS 文件，我們將使用
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API 是一個功能豐富、功能強大且易於使用的文檔操作和拆分器 API，適用於 C# 平台。打開
+API 是一款功能豐富、功能強大且易於使用的文檔操作和拆分器 API，適用於 C# 平台。打開
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
- 包管理器，搜索
+包管理器，搜索
  Aspose.Cells 
- 並安裝。您也可以從包管理器控制台使用以下命令。
+並安裝。您也可以從包管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="命令" offSpacer="true" %}}
 
 ```cs
 
 PM> Install-Package Aspose.Cells
-
 
 ```
 
@@ -35,22 +33,22 @@ PM> Install-Package Aspose.Cells
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="在 C# 中拆分 ODS 文件的步驟" %}}
+{{% blocks/products/pf/agp/feature-section-col title="拆分C#中的ODS文件的步驟" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- 一個基本的分離器
+一個基本的分離器
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- 只需幾行代碼即可完成 API。
+只需幾行代碼即可完成 API。
 
 {{% /blocks/products/pf/agp/text %}}
 
 
-+ 加載帶有完整路徑的 ODS 文件以進行拆分。
-+遍歷每張紙
-+ 創建一個新的工作簿類對象
-+通過複製工作表 [複製方法](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
-+ 調用 Save() 方法並傳遞文件名（完整路徑）和 SaveFormat.Ods 作為參數。 
++ 載入包含完整路徑的 ODS 文件以進行拆分。
++ 遍歷每張紙
+創建一個新的工作簿類對象
+ 通過複製工作表[複製方法](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
+ 調用 Save() 方法並將文件名（完整路徑）和 SaveFormat.Ods 作為參數傳遞。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -58,11 +56,14 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- 所有主要平台和操作系統都支持我們的 API。在執行以下代碼之前，請確保您的系統具有以下先決條件。
+所有主要平台和操作系統都支持我們的 API。在執行下面的代碼之前，請確保您的系統具備以下先決條件。
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows 或具有 .NET Framework、.NET Core、Mono 或 Xamarin 平台的兼容操作系統- Microsoft Visual Studio 等開發環境- Aspose.Cells for .NET 項目中引用的 DLL - 使用上面的下載按鈕從 NuGet 安裝
+- Microsoft Windows 或具有 .NET 框架、.NET 核心、Mono 或 Xamarin 平台的兼容操作系統
+- 開發環境類似Microsoft Visual Studio
+- 在您的項目中添加對 Aspose.Cells for .NET DLL 的引用 - 使用上面的下載按鈕從 NuGet 安裝
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="拆分 ODS 文件 - C#" offSpacer="" %}}
@@ -80,7 +81,7 @@ PM> Install-Package Aspose.Cells
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Aspose.Cells API 可用於創建、編輯、轉換 Microsoft Excel 格式並將其呈現為不同的格式。此外，它還可用於軟件應用程序中的綜合圖表、可擴展報告和可靠計算。 Aspose.Cells 是一個獨立的 API，它不需要任何軟件，如 Microsoft 或 OpenOffice。  
+ Aspose.Cells API 可用於創建、編輯、轉換和呈現 Microsoft Excel 格式為不同的格式。此外，它還可用於軟件應用程序中的綜合圖表、可擴展報告和可靠計算。 Aspose.Cells 是一個獨立的 API，它不需要像 Microsoft 或 OpenOffice 這樣的任何軟件。
 
 
 
@@ -88,14 +89,14 @@ PM> Install-Package Aspose.Cells
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="在線 ODS 拆分器現場演示" sectionDescription="立即訪問我們的拆分 ODS 文檔 [現場演示網站](https://products.aspose.app/cells/splitter).現場演示有以下好處" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" 無需下載 Aspose API。" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-edit" text=" 無需編寫任何代碼。" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="在線 ODS Splitter 現場演示" sectionDescription="立即訪問我們的拆分 ODS 文檔[現場演示網站](https://products.aspose.app/cells/splitter).現場演示有以下好處" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text="無需下載 Aspose API。" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-edit" text="無需編寫任何代碼。" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="只需上傳您的 ODS 文件，它就會立即被拆分。" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" 您將獲得下載鏈接。" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text="您將獲得下載鏈接。" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
-具有 ODS 擴展名的文件代表用戶可編輯的 OpenDocument 電子表格文檔格式。數據在 ODF 文件中存儲為行和列。它是基於 XML 的格式，是開放文檔格式 (ODF) 系列中的幾個子類型之一。該格式被指定為 OASIS 發布和維護的 ODF 1.2 規範的一部分。 Windows 和其他操作系統上的許多應用程序可以打開 ODS 文件進行編輯和操作，包括 Microsoft Excel、NeoOffice 和 LibreOffice。 ODS 文件還可以通過不同的應用程序轉換為其他電子表格格式以及 XLS、XLSX 等。 
+擴展名為 ODS 的文件代表用戶可編輯的 OpenDocument 電子表格文檔格式。數據以行和列的形式存儲在 ODF 文件中。它是基於 XML 的格式，是開放文檔格式 (ODF) 系列中的幾個子類型之一。該格式被指定為 OASIS 發布和維護的 ODF 1.2 規範的一部分。 Windows 和其他操作系統上的許多應用程序可以打開 ODS 文件進行編輯和操作，包括 Microsoft Excel、NeoOffice 和 LibreOffice。 ODS 文件也可以通過不同的應用程序轉換為其他電子表格格式，如 XLS、XLSX 等。
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -103,7 +104,7 @@ PM> Install-Package Aspose.Cells
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="其他支持的拆分格式" subTitle="使用 C#，您還可以將大文件拆分為許多其他文件格式的塊，包括。" >}}
+{{< blocks/products/pf/agp/other-supported-section title="其他支持的拆分格式" subTitle="使用 C#，還可以將大文件拆分成許多其他文件格式的塊，包括。" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/xls/" name="XLS" description="Excel 二進制格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/xlsb/" name="XLSB" description="二進制 Excel 工作簿文件" >}}

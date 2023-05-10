@@ -58,7 +58,7 @@ API这是一个功能丰富、功能强大且易于使用的文档操作API for 
 {{% /blocks/products/pf/agp/text %}}
 
 - 任何可以运行python脚本的操作系统，比如Windows、Linux
-- 从安装 Aspose.Cells for Python<a href="https://pypi.org/project/aspose-cells-python/">皮皮</a>，使用命令为：<code>$ pip install aspose-cells-python</code>.
+- 从安装 Aspose.Cells for Python<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> ，使用命令为：<code>$ pip install aspose-cells-python</code>.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

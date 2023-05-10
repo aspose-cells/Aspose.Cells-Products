@@ -12,7 +12,7 @@ keywords: Convert XLSB, XLSB Converter, XLSB to PDF, XLSB to Word, XLSB to PPT, 
 
 {{% blocks/products/pf/agp/content h2="使用 Python 将 XLSB 转换为 WORD" %}}
 
-XLSB怎么转换成WORD格式？使用 Aspose.Cells for Python 库，您可以通过几行代码以编程方式轻松地将 XLSB 转换为 WORD。[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)能够构建跨平台应用程序，能够生成、修改、转换、呈现和打印所有 Excel 文件。 Python Excel API 不仅可以在电子表格格式之间相互转换，还可以将Excel文件渲染为图片，PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等，是行业文档交换的完美选择-标准格式。
+ XLSB怎么转换成WORD格式？使用 Aspose.Cells for Python 库，您可以通过几行代码以编程方式轻松地将 XLSB 转换为 WORD。[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)能够构建跨平台应用程序，能够生成、修改、转换、呈现和打印所有 Excel 文件。 Python Excel API 不仅可以在电子表格格式之间相互转换，还可以将Excel文件渲染为图片，PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等，是行业文档交换的完美选择-标准格式。
  
 {{% /blocks/products/pf/agp/content %}}
 
@@ -65,7 +65,7 @@ XLSB怎么转换成WORD格式？使用 Aspose.Cells for Python 库，您可以�
 {{% /blocks/products/pf/agp/text %}}
 
 - 安装Java并将其添加到PATH环境变量中，例如：<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
-- 从安装 Aspose.Cells for Python<a href="https://pypi.org/project/aspose-cells/">皮皮</a>，使用命令为：<code>$ pip install aspose-cells</code>.
+- 从安装 Aspose.Cells for Python<a href="https://pypi.org/project/aspose-cells/">pypi</a> ，使用命令为：<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -84,7 +84,7 @@ XLSB怎么转换成WORD格式？使用 Aspose.Cells for Python 库，您可以�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsb-to-svg/" name="XLSB 至 SVG" description="可缩放矢量图形" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsb-to-tiff/" name="XLSB 至 TIFF" description="标记图像格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsb-to-tsv/" name="XLSB 至 TSV" description="制表符分隔值" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsb-to-txt/" name="XLSB 至 TXT" description="文本文件" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsb-to-txt/" name="XLSB 至 TXT" description="文本文档" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsb-to-xls/" name="XLSB 至 XLS" description="Excel 二进制格式" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsb-to-xlsm/" name="XLSB 至 XLSM" description="电子表格文件" >}}

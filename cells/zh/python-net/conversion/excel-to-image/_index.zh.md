@@ -30,7 +30,7 @@ description: Python代码中EXCEL转IMAGE格式。使用 Python 将 EXCEL 另存
 {{% /blocks/products/pf/agp/text %}}
 
 - 安装[Python](https://www.python.org/downloads/) 3.7 或更高。
-- 从安装 Aspose.Cells for Python<a href="https://pypi.org/project/aspose-cells-python/">皮皮</a>，使用命令为：<code>$ pip install aspose-cells-python</code>.
+- 从安装 Aspose.Cells for Python<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> ，使用命令为：<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}

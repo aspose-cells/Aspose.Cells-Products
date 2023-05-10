@@ -45,7 +45,7 @@ keywords: Convert HTM, HTM Converter, HTM to PDF, HTM to Word, HTM to PPT, HTM t
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="在 Java 免费在线将 HTM 保存到 PRN" %}}
+{{% blocks/products/pf/agp/content h2="在 Java 免费在线将 HTM 保存为 PRN" %}}
 
 以下示例演示如何将 Java 中的 HTM 转换为 PRN。
 {{% blocks/products/pf/agp/text %}}
@@ -107,7 +107,7 @@ keywords: Convert HTM, HTM Converter, HTM to PDF, HTM to Word, HTM to PPT, HTM t
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/htm-to-svg/" name="HTM 至 SVG" description="可缩放矢量图形" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/htm-to-tiff/" name="HTM 至 TIFF" description="标记图像格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/htm-to-tsv/" name="HTM 至 TSV" description="制表符分隔值" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/htm-to-txt/" name="HTM 至 TXT" description="文本文件" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/htm-to-txt/" name="HTM 至 TXT" description="文本文档" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/htm-to-xls/" name="HTM 至 XLS" description="Excel 二进制格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/htm-to-xlsb/" name="HTM 至 XLSB" description="二进制 Excel 工作簿文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/htm-to-xlsm/" name="HTM 至 XLSM" description="电子表格文件" >}}

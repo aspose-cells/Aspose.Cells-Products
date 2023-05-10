@@ -1,11 +1,10 @@
 ---
-title: RDLレポートをSQLServerのExcelXLSXLSXおよびSpreadsheetMLにエクスポートします 
+title:  RDL レポートを SQL Server の Excel XLS XLSX および SpreadsheetML にエクスポートする
 weight: 3460
-
-description: SQL ServerReportingServicesレンダリング拡張機能-ExcelXLSXLSX XLSM XLSB CSV SpreadsheetMLHTMLODSおよびTXT形式をエクスポートします
+description: SQL Server Reporting Services レンダリング拡張機能 - Excel XLS XLSX XLSM XLSB CSV SpreadsheetML HTML ODS および TXT 形式でエクスポート
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="レポートをExcelファイルとして配信するReportingServices拡張機能" h2="RDLおよびRDLCレポートをExcelスプレッドシートファイル形式に簡単にエクスポートします。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-reporting-services.svg" pfName="Aspose.Cells" subTitlepfName="for Reporting Services" downloadUrl="https://downloads.aspose.com/cells/reportingservices" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="レポートを Excel ファイルとして配信する Reporting Services 拡張機能" h2="RDL および RDLC レポートを Excel スプレッドシート ファイル形式に簡単にエクスポートします。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-reporting-services.svg" pfName="Aspose.Cells" subTitlepfName="for Reporting Services" downloadUrl="https://downloads.aspose.com/cells/reportingservices" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Reporting Services" >}}
 
@@ -13,7 +12,7 @@ description: SQL ServerReportingServicesレンダリング拡張機能-ExcelXLSX
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Reporting ServicesのAspose.Cellsを使用すると、Microsoft SQL ServerReportingServicesおよびMicrosoftReportViewer内からExcelレポートを配信できます。 Excelベースのレポートのネイティブエクスポーターとは異なり、ReportingServicesのAspose.CellsではRDLとの変換が可能です。 RDLCは、いくつかのExcelスプレッドシートファイル形式にレポートします。
+ Aspose.Cells for Reporting Services を使用すると、Microsoft SQL Server Reporting Services および Microsoft Report Viewer 内から Excel レポートを配信できます。 Excel ベースのレポートのネイティブ エクスポーターとは異なり、Aspose.Cells for Reporting Services では RDL と RDL の変換が可能です。 RDLC は、多数の Excel スプレッドシート ファイル形式でレポートを作成します。
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -21,51 +20,51 @@ description: SQL ServerReportingServicesレンダリング拡張機能-ExcelXLSX
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="一目で" description="ReportingServicesのAspose.Cellsの概要。" >}}
+{{< blocks/products/pf/carousel-item h3="一目でわかる" description="Aspose.Cells for Reporting Servicesの概要。" >}}
 <div class="diagram1 d1-rs">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-file-image-o">
     </i>
-    RDLサポート
+ RDLのサポート
    </header>
    <ul>
     <li>
-     ページ
+ページ
     </li>
     <li>
-     ヘッダー/フッター
+ヘッダー/フッター
     </li>
     <li>
-     テキストボックス
+テキストボックス
     </li>
     <li>
-     画像
+画像
     </li>
     <li>
-     サブレポート
+サブレポート
     </li>
     <li>
-     チャート
+チャート
     </li>
     <li>
-     リスト
+リスト
     </li>
     <li>
-     テーブル
+テーブル
     </li>
     <li>
-     ゲージ
+ゲージ
     </li>
     <li>
-     マトリックス
+行列
     </li>
     <li>
-     長方形/線
+長方形/線
     </li>
     <li>
-     スタイル
+スタイル
     </li>
    </ul>
   </div>
@@ -74,48 +73,48 @@ description: SQL ServerReportingServicesレンダリング拡張機能-ExcelXLSX
    <header>
     <i class="fa fa-cogs">
     </i>
-    情報処理
+情報処理
    </header>
    <ul>
     <li>
-     レポートサービスの公式
+レポート サービスの式
     </li>
     <li>
-     動的数式
+動的な数式
     </li>
     <li>
-     グループ化された行を持つテーブル
+グループ化された行を含むテーブル
     </li>
     <li>
-     グループ化されたフッターを備えたテーブル
+グループ化されたフッターを含むテーブル
     </li>
     <li>
-     MSクエリ
+MSクエリ
     </li>
     <li>
-     レポート固有のデータソース
+レポート固有のデータソース
     </li>
     <li>
-     共有データソース
+共有データソース
     </li>
     <li>
-     暗号化
+暗号化
     </li>
    </ul>
    <header>
     <i class="fa fa-table">
     </i>
-    レポートデザイナー
+レポートデザイナー
    </header>
    <ul>
     <li>
-     ピボットテーブル
+ピボットテーブル
     </li>
     <li>
-     インタラクティブチャート
+インタラクティブなチャート
     </li>
     <li>
-     数式
+数式
     </li>
    </ul>
   </div>
@@ -130,9 +129,9 @@ description: SQL ServerReportingServicesレンダリング拡張機能-ExcelXLSX
   <footer>
    <small>
     <em>
-     にとって
+ために
     </em>
-    レポーティングサービス
+レポートサービス
    </small>
   </footer>
  </div>
@@ -141,7 +140,7 @@ description: SQL ServerReportingServicesレンダリング拡張機能-ExcelXLSX
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="プラットフォームの独立性" description="Reporting ServicesのAspose.Cellsは、Microsoft SQL ServerReportingServicesをサポートしています。" >}}
+{{< blocks/products/pf/carousel-item h3="プラットフォームの独立性" description="Aspose.Cells for Reporting Services は Microsoft SQL Server Reporting Services をサポートします。" >}}
 <div class="diagram1 d1-rs">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -151,23 +150,23 @@ description: SQL ServerReportingServicesレンダリング拡張機能-ExcelXLSX
    <header style="padding-left: 0px;">
     <i class="fa fa-cubes">
     </i>
-    SQL Server Reporting Services
+ SQL Server レポート サービス
    </header>
    <ul>
     <li>
-     2005年
+     2005
     </li>
     <li>
-     2008および2008R2
+2008 および 2008 R2
     </li>
     <li>
-     2012年
+     2012
     </li>
     <li>
-     2014年
+     2014
     </li>
     <li>
-     2016年
+     2016
     </li>
     <!--<li>2017</li>-->
    </ul>
@@ -183,9 +182,9 @@ description: SQL ServerReportingServicesレンダリング拡張機能-ExcelXLSX
   <footer>
    <small>
     <em>
-     にとって
+ために
     </em>
-    レポーティングサービス
+レポートサービス
    </small>
   </footer>
  </div>
@@ -194,14 +193,14 @@ description: SQL ServerReportingServicesレンダリング拡張機能-ExcelXLSX
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="サポートされているファイル形式" description="Reporting ServicesのAspose.Cellsは、一般的に使用されるスプレッドシートをサポートします [ファイル形式](https://docs.aspose.com/cells/reportingservices/supported-file-formats/)。" >}}
+{{< blocks/products/pf/carousel-item h3="サポートされているファイル形式" description=" Aspose.Cells for Reporting Services は、一般的に使用されるスプレッドシートをサポートします[ファイル形式](https://docs.aspose.com/cells/reportingservices/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-rs">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-long-arrow-down">
     </i>
-    入力のみ
+入力のみ
    </header>
    <ul>
     <li>
@@ -217,36 +216,36 @@ description: SQL ServerReportingServicesレンダリング拡張機能-ExcelXLSX
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    出力のみ
+出力のみ
    </header>
    <ul>
     <li>
      <b>
-      マイクロソフトエクセル：
+Microsoft エクセル:
      </b>
-     XLS、XLSX、XLSM、XLSB、XML
+XLS、XLSX、XLSM、XLSB、XML
     </li>
     <li>
      <b>
-      OpenOffice：
+オープンオフィス:
      </b>
      ODS
     </li>
     <li>
      <b>
-      ウェブ：
+ウェブ：
      </b>
      HTML
     </li>
     <li>
      <b>
-      文章：
+文章：
      </b>
-     CSV、TSV、TabDelimitedテキストファイル
+ CSV、TSV、TabDelimited テキスト ファイル
     </li>
     <li>
      <strong>
-      固定レイアウト：
+固定レイアウト:
      </strong>
      XPS
     </li>
@@ -263,9 +262,9 @@ description: SQL ServerReportingServicesレンダリング拡張機能-ExcelXLSX
   <footer>
    <small>
     <em>
-     にとって
+ために
     </em>
-    レポーティングサービス
+レポートサービス
    </small>
   </footer>
  </div>
@@ -284,7 +283,7 @@ description: SQL ServerReportingServicesレンダリング拡張機能-ExcelXLSX
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    AdvancedReportingServicesの機能
+高度なレポート サービス機能
    </h2>
    <p>
    </p>
@@ -292,83 +291,83 @@ description: SQL ServerReportingServicesレンダリング拡張機能-ExcelXLSX
     <em class="fa fa-share ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     MarkDown形式のファイルをエクスポートする
+MarkDown形式ファイルのエクスポート
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Tablixグループのページ分割をサポート
+Tablix グループの改ページのサポート
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-plus ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     複数のタブを生成する
+複数のタブを生成する
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-expand ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     ピボットテーブルフィールドを折りたたみまたは展開します
+ピボットテーブルのフィールドを折りたたむまたは展開する
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-minus ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     マイナス計算の実行をサポート
+マイナス計算の実行をサポート
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-print ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     MSExcel印刷形式を呼び出す
+MS Excel 印刷形式を呼び出す
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-line-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     サポートされているMSExcel2016チャート
+MS Excel 2016 グラフのサポート
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-terminal ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Excelシートのページマージン設定を調整します
+Excel シートのページ余白設定を調整する
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Aspose.Cells'レポートデザイナーツール
+Aspose.Cells' レポート デザイナー ツール
     </h2>
     <p>
-     開発者は、Aspose.Cells .Report.Designerを使用しながら、Microsoft Excelから直接レポートを設計および配信できます。これは、MicrosoftExcelをレポートテンプレートとして使用するシンプルな設計ツールです。この機能を使用すると、ピボットテーブル、インタラクティブチャート、数式など、MicrosoftExcelアプリケーションで使用できるすべての強力な機能を利用できます。
+開発者は、Microsoft Excel をレポート テンプレートとして使用するシンプルな設計ツールである Aspose.Cells.Report.Designer を使用しながら、Microsoft Excel から直接レポートを設計して配信できます。この機能を使用すると、ピボット テーブル、対話型グラフ、数式など、Microsoft Excel アプリケーション内で利用可能なすべての強力な機能を利用できるようになります。
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     レポートをスプレッドシート形式にエクスポートする
+レポートをスプレッドシート形式にエクスポート
     </h2>
     <p>
-     Aspose.Cells for Reporting Servicesは、XLS、XLSX、XLSM、SpreadsheetML、CSV、タブ区切り、HTMLなどの「ネイティブ」Microsoft Excel形式を含む、すべての一般的なMicrosoft Excel（97-2016）ファイル形式をサポートします。 Reporting ServicesのAspose.Cellsは、ODS（OpenDocument Spreadsheet）ファイル形式もサポートしています。
+Aspose.Cells for Reporting Services は、「ネイティブ」Microsoft Excel 形式 (XLS、XLSX、XLSM、SpreadsheetML、CSV、タブ デ) を含む、すべての一般的な Microsoft Excel (97 ～ 2016) ファイル形式をサポートします。 Aspose.Cells for Reporting Services は、ODS (OpenDocument スプレッドシート) ファイル形式もサポートしています。
     </p>
     <p>
-     さらに、Reporting ServicesのAspose.Cellsは、Excelドキュメントを完全に編集可能なスプレッドシートとしてエクスポートします。エンドユーザーは、必要に応じて、MicrosoftExcelアプリケーションで結果のスプレッドシートを手動で編集できます。
+さらに、Aspose.Cells for Reporting Services Excel ドキュメントを完全に編集可能なスプレッドシートとしてエクスポートします。エンド ユーザーは、必要に応じて、Microsoft Excel アプリケーションで結果のスプレッドシートを手動で編集できます。
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     高忠実度-レポートデザインと同じ
+高忠実度 - レポートのデザインと同一
     </h2>
     <p>
-     Reporting ServicesのAspose.Cellsは、組み込みのReportingServicesレポートデザイナによって生成された元の結果と同じ結果が表示されるようにレポートをMicrosoftExcelスプレッドシートにエクスポートします。すべてのレポート機能は、Microsoft Excelスプレッドシートを可能な限り元のスプレッドシートと同じように見せるために、最高の精度に変換されます。
+Aspose.Cells for Reporting Services 組み込みの Reporting Services レポート デザイナーによって生成された元の結果と同じように表示されるように、レポートを Microsoft Excel スプレッドシートにエクスポートします。すべてのレポート機能は最高の精度で変換され、Microsoft Excel スプレッドシートは元のスプレッドシートとできるだけ似たものになります。
     </p>
    </div>
    <!--
@@ -384,13 +383,13 @@ description: SQL ServerReportingServicesレンダリング拡張機能-ExcelXLSX
 -->
    <div class="col-lg-12">
     <h2 class="h2title">
-     さまざまなデータ処理オプション
+さまざまなデータ処理オプション
     </h2>
     <p>
-     Reporting ServicesのAspose.Cellsは、行とフッターがグループ化されたテーブルをサポートしますが、グループ化は、他のレポートアイテムと同様に設計時に設定できます。 Reporting ServicesのAspose.Cellsは、レポートデータソースとしてパラメータとグローバル変数もサポートしています。開発者は、MicrosoftQueryを使用してデータソースとクエリを作成することもできます。これは広く使用されているツールであり、ほとんどのユーザーに馴染みがあります。
+Aspose.Cells for Reporting Services は、グループ化された行とフッターを含むテーブルをサポートしますが、グループ化は他のレポート アイテムと同様に設計時に設定できます。 Aspose.Cells for Reporting Services は、レポート データ ソースとしてパラメーターとグローバル変数もサポートしています。開発者は、Microsoft Query を使用してデータ ソースとクエリを作成することもできます。これは広く使用されているツールであり、ほとんどのユーザーに馴染みのあるものです。
     </p>
     <p>
-     これに加えて、Reporting ServicesのAspose.Cellsは、レポート固有のデータソースとレポートサーバーで事前に作成された共有データソースの両方をサポートします。開発者は、設計時にレポート固有のデータソースを使用し、レポートを公開するときに共有データソースをレポートデータソースとして指定できます。
+これに加えて、Aspose.Cells for Reporting Services は、レポート固有のデータ ソースと、レポート サーバー上で事前に作成された共有データ ソースの両方をサポートします。開発者は、設計時にレポート固有のデータ ソースを使用し、レポートの発行時に共有データ ソースをレポート データ ソースとして指定できます。
     </p>
    </div>
    <!-- 
@@ -422,10 +421,10 @@ description: SQL ServerReportingServicesレンダリング拡張機能-ExcelXLSX
 -->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Microsoft Office Automation –不要
+ Microsoft オフィス オートメーション – 必要ありません
     </h2>
     <p>
-     Reporting ServicesのAspose.Cellsは、Excelドキュメント形式で動作するためにMicrosoftOfficeまたはMicrosoftExcelをマシンにインストールする必要のないマネージコードを使用して構築されています。これは、サポートされている機能、セキュリティ、安定性、スケーラビリティ、速度、および価格の点で、MicrosoftExcelの自動化に最適な代替手段です。
+ Aspose.Cells for Reporting Services はマネージド コードを使用して構築されており、Excel ドキュメント形式を操作するためにマシンに Microsoft Office または Microsoft Excel をインストールする必要はありません。これは、サポートされる機能、セキュリティ、安定性、拡張性、速度、価格の点で、Excel 自動化の完璧な代替品です。
     </p>
    </div>
   </div>
@@ -440,26 +439,26 @@ description: SQL ServerReportingServicesレンダリング拡張機能-ExcelXLSX
 {{< blocks/products/pf/slr-tab tabTitle="学習リソース" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="ドキュメンテーション" href="https://docs.aspose.com/cells/reportingservices/" >}}
 {{< blocks/products/pf/slr-element name="ソースコード" href="https://github.com/aspose-cells?tab=repositories" >}}
-{{< blocks/products/pf/slr-element name="API参照" href="https://reference.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="API 参照先" href="https://reference.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="チュートリアルビデオ" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="製品サポート" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="無料サポート" href="https://forum.aspose.com/c/cells" >}}
+{{< blocks/products/pf/slr-element name="無料サポート" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="有料サポート" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="ブログ" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="なぜReportingServicesにAspose.Cellsがあるのですか？" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="なぜ Aspose.Cells for Reporting Services?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="顧客リスト" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="サクセスストーリー" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
+{{< blocks/products/pf/slr-element name="成功事例" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/reportingservices" pricingInformationLink="https://purchase.aspose.com/pricing/cells/reporting-services" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cellsは、以下に示すように、他の一般的な開発環境向けに個別のExcelAPIを提供します。" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells は、以下に示す他の一般的な開発環境向けに個別の Excel API を提供します。" >}}
 
     {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sdkName=".NET" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sdkName="Java" >}}

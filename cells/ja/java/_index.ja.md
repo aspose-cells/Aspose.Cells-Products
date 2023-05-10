@@ -1,11 +1,10 @@
 ---
-title: Java Excel API-Aspose 
+title:  Java エクセル API - Aspose
 weight: 6830
-
-description: Javaスプレッドシート処理用のExcelライブラリ。読み取り/書き込みレンダリングおよびXLSXLSXXLSM ODSCSVTSVおよびその他の形式の変換。 WindowsLinuxおよびUnixと互換性があります
+description: Java 表計算処理用の Excel ライブラリ。読み取り書き込みレンダリングと、XLS XLSX XLSM ODS CSV TSV およびその他の形式の変換。 Windows Linux および Unix と互換性あり
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="JavaExcelスプレッドシート処理API" h2="Microsoft Excelに依存せずに、スプレッドシートを作成、操作、変換、保護、または印刷します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-java.svg" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/cells/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Java Excel スプレッドシート処理 API" h2="Microsoft Excel に依存せずに、スプレッドシートを作成、操作、変換、保護、印刷します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-java.svg" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/cells/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Java" >}}
 
@@ -13,11 +12,11 @@ description: Javaスプレッドシート処理用のExcelライブラリ。読�
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Javaは、受賞歴のあるExcelスプレッドシート処理APIであり、開発者は読み取り、書き込み、操作、変換、変換の機能を組み込むことができます。 Microsoft Excelアプリケーションを必要とせずに、独自のアプリケーションでスプレッドシートを印刷します。
+ Aspose.Cells for Java は、受賞歴のある Excel スプレッドシート処理 API で、開発者が読み取り、書き込み、操作、変換および変換を行う機能を組み込むことができます。 Microsoft Excel アプリケーションを必要とせずに、独自のアプリケーションでスプレッドシートを印刷します。
 </p>
 
 <p>
- Aspose.Cells for Javaは成熟した機能豊富なライブラリであり、市場で入手可能な他のコンポーネントの単純なデータエクスポート機能をはるかに超える多くの機能を提供します。 APIは、データのエクスポート、スプレッドシートの最も詳細なレベルへのフォーマット、インポートとインポートを行う機能を提供します。画像のエクスポート、グラフの作成、ピボットテーブル、適用＆amp;数式計算エンジンを使用して複雑な数式を計算し、Excelデータをストリーミングします。結果をさまざまな形式で保存します。
+Aspose.Cells for Java は成熟した機能豊富なライブラリであり、市販されている他のコンポーネントの単純なデータ エクスポート機能をはるかに超えた多くの機能を提供します。 API は、データのエクスポート、最も詳細なレベルでのスプレッドシートのフォーマット、インポートおよびデータのエクスポートを行う機能を提供します。画像のエクスポート、グラフの作成、ピボットテーブル、適用と数式計算エンジンを使用して複雑な数式を計算し、Excel データをストリーミングし、結果をさまざまな形式で保存します。
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -25,49 +24,49 @@ description: Javaスプレッドシート処理用のExcelライブラリ。読�
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="一目で" description="一般的な概要。" >}}
+{{< blocks/products/pf/carousel-item h3="一目でわかる" description="一般的な概要。" >}}
 <div class="diagram1 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-television">
     </i>
-    レンダリング
+レンダリング
    </header>
    <ul>
     <li>
-     チャートから画像へ
+チャートから画像へ
     </li>
     <li>
-     画像へのワークシート
+ワークシートから画像へ
     </li>
     <li>
-     PDFへのスプレッドシート
+スプレッドシートから PDF
     </li>
     <li>
-     印刷
+印刷
     </li>
    </ul>
    <header>
     <i class="fa fa-cogs">
     </i>
-    情報処理
+情報処理
    </header>
    <ul>
     <li>
-     フォーマットを適用する
+書式設定を適用する
     </li>
     <li>
-     チャートを作成する
+グラフの作成
     </li>
     <li>
-     式を適用する
+数式を適用する
     </li>
     <li>
-     要約する
+要約する
     </li>
     <li>
-     スマートマーカー
+スマートマーカー
     </li>
    </ul>
   </div>
@@ -76,23 +75,23 @@ description: Javaスプレッドシート処理用のExcelライブラリ。読�
    <header>
     <i class="fa fa-table">
     </i>
-    GridWebコントロール
+GridWeb コントロール
    </header>
    <ul>
     <li>
-     JSPWebアプリケーションをサポート
+JSP Webアプリケーションをサポート
     </li>
     <li>
-     Excelファイルをロードする
+Excelファイルをロードする
     </li>
     <li>
-     Excelドキュメントを保存する
+Excelドキュメントの保存
     </li>
     <li>
-     編集機能を提供します
+編集機能を提供します
     </li>
     <li>
-     最新のブラウザと互換性があります
+最新のブラウザとの互換性
     </li>
    </ul>
   </div>
@@ -107,7 +106,7 @@ description: Javaスプレッドシート処理用のExcelライブラリ。読�
   <footer>
    <small>
     <em>
-     にとって
+ために
     </em>
     Java
    </small>
@@ -118,7 +117,7 @@ description: Javaスプレッドシート処理用のExcelライブラリ。読�
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="プラットフォームの独立性" description="Windows Unix/LinuxおよびMacプラットフォームで開発されたライブラリfor Javaベースのアプリケーション。" >}}
+{{< blocks/products/pf/carousel-item h3="プラットフォームの独立性" description="ライブラリ for Java ベースのアプリケーションは、Windows Unix/Linux および Mac プラットフォームで開発されました。" >}}
 <div class="diagram1 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -128,14 +127,14 @@ description: Javaスプレッドシート処理用のExcelライブラリ。読�
    <header>
     <i class="fa fa-cubes">
     </i>
-    Javaランタイム環境
+ Java ランタイム環境
    </header>
    <ul>
     <li>
-     JSP/JSFアプリケーション
+JSP/JSFアプリケーション
     </li>
     <li>
-     デスクトップアプリケーション
+デスクトップアプリケーション
     </li>
    </ul>
   </div>
@@ -150,7 +149,7 @@ description: Javaスプレッドシート処理用のExcelライブラリ。読�
   <footer>
    <small>
     <em>
-     にとって
+ために
     </em>
     Java
    </small>
@@ -161,48 +160,48 @@ description: Javaスプレッドシート処理用のExcelライブラリ。読�
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="サポートされているファイル形式" description="Aspose.Cells for Javaは、一般的なスプレッドシート形式、一般的に使用される画像、固定レイアウト、および [より多くのフォーマット](https://docs.aspose.com/cells/java/supported-file-formats/)。" >}}
+{{< blocks/products/pf/carousel-item h3="サポートされているファイル形式" description="Aspose.Cells for Java は、一般的なスプレッドシート形式、一般的に使用される画像、固定レイアウト、[より多くのフォーマット](https://docs.aspose.com/cells/java/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    入出力
+入出力
    </header>
    <ul>
     <li>
      <b>
-      マイクロソフトエクセル：
+Microsoft エクセル:
      </b>
-     XLS、XLT、XLSX、XLSB、XLTX、XLTM、XLSM、XML
+XLS、XLT、XLSX、XLSB、XLTX、XLTM、XLSM、XML
     </li>
     <li>
      <b>
-      OpenOffice：
+オープンオフィス:
      </b>
      ODS
     </li>
     <li>
      <b>
-      文章：
+文章：
      </b>
-     CSV、TSV
+     CSV, TSV
     </li>
     <li>
      <b>
-      ウェブ：
+ウェブ：
      </b>
-     HTML、MHTML
+     HTML, MHTML
     </li>
     <li>
      <b>
-      番号：
+      Numbers:
      </b>
-     AppleのiWorkオフィススイートNumbersアプリのドキュメント
+Apple の iWork オフィス スイート Numbers アプリのドキュメント
     </li>
     <li>
-     SXC、FODS
+     SXC, FODS
     </li>
    </ul>
   </div>
@@ -211,29 +210,29 @@ description: Javaスプレッドシート処理用のExcelライブラリ。読�
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    出力のみ
+出力のみ
    </header>
    <ul>
     <li>
      <b>
-      固定レイアウト：
+固定レイアウト:
      </b>
-     PDF、PDF / A、XPS
+ PDF、PDF/A、XPS
     </li>
     <li>
      <b>
-      データ交換：
+データ交換:
      </b>
      DIF
     </li>
     <li>
      <b>
-      画像：
+画像:
      </b>
-     JPEG、PNG、BMP、SVG、TIFF、GIF、EMF
+     JPEG, PNG, BMP, SVG, TIFF, GIF, EMF
     </li>
     <li>
-     マークダウン
+     MARKDOWN
     </li>
    </ul>
   </div>
@@ -248,7 +247,7 @@ description: Javaスプレッドシート処理用のExcelライブラリ。読�
   <footer>
    <small>
     <em>
-     にとって
+ために
     </em>
     Java
    </small>
@@ -269,7 +268,7 @@ description: Javaスプレッドシート処理用のExcelライブラリ。読�
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    高度なJavaExcelライブラリのサポート
+高度な Java Excel ライブラリのサポート
    </h2>
    <!-- <p>Unlike similar products from other vendors, Aspose.Cells for Java not only supports spreadsheet generation and other basic file formatting features, it also supports a number of advanced features. These advanced features make it much easier for developers to manipulate spreadsheet contents, cell formatting and file protection. <p> -->
    <p>
@@ -278,117 +277,117 @@ description: Javaスプレッドシート処理用のExcelライブラリ。読�
     <em class="fa fa-exchange ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     ArrayList、Array＆amp;からデータをインポートおよびエクスポートします。レコードセット
+ArrayList、Array、および ArrayList からデータをインポートおよびエクスポートします。レコードセット
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     チャートの作成とAPIによる操作
+チャート作成とチャート作成API を介した操作
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     デザイナースプレッドシートから数式をインポートする
+デザイナー スプレッドシートから数式をインポートする
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     名前付き範囲の生成と操作
+名前付き範囲の生成と操作
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-print ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     スプレッドシートを物理的なプリンターに印刷する
+スプレッドシートを物理プリンターに印刷する
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     スマートマーカーを使用してワークシートにデータを入力します
+スマート マーカーを使用してワークシートにデータを入力する
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     作成＆amp;コメントを操作する
+作成とコメントを操作する
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-subscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     セット＆amp; Excelと計算カスタム式
+セット＆ Excelと計算を行うカスタム数式
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-align-center ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     作成＆amp;条件付き書式ルールを操作する
+作成と条件付き書式ルールを操作する
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sort-amount-desc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     作成＆amp;名前付き範囲を操作する
+作成と名前付き範囲を操作する
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     作成、操作、ピボットテーブルを更新＆amp;ピボットグラフ
+作成、操作、およびピボットテーブルと更新ピボット チャート
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bar-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     チャートのレンダリングとワークシート
+チャートとチャートのレンダリングワークシート
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     軽量モードで大きなファイルを読み書きする
+軽量モードで大きなファイルの読み取りと書き込みを行う
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     ExcelからPDFへの変換で画像を再サンプリングします
+Excel で画像を再サンプリングして PDF に変換
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-code-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     テンプレートドキュメントのVBAコードまたはマクロを変更する
+テンプレートドキュメント内のVBAコードまたはマクロを変更する
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Excelファイルをさまざまな形式で保存する
+Excel ファイルをさまざまな形式で保存する
     </h2>
     <p>
-     Excel APIは、最高の視覚的忠実度を維持しながら、スプレッドシートをPDF、XPS、HTML、およびその他の形式に変換します。信頼性が高く柔軟な変換プロセスにより、Aspose.Cellsは主に業界標準の形式でファイルを交換する組織に最適です。
+Excel API は、最高の視覚的忠実度を維持しながら、スプレッドシートを PDF、XPS、HTML などの形式に変換できます。信頼性が高く柔軟な変換プロセスにより、Aspose.Cells は主に業界標準形式でファイルを交換する組織にとって最適な選択肢となります。
     </p>
     <div class="codeblock" id="code">
      <h3>
-      複数の形式のスプレッドシート変換-Java
+複数の形式でのスプレッドシートの変換 - Java
      </h3>
      <pre><code class="java">// load file to be converted
 
@@ -405,10 +404,10 @@ wbk.save(dir + "output.html", SaveFormat.HTML);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     ワークシートを最も詳細なレベルにフォーマットする
+ワークシートを最も詳細なレベルにフォーマットする
     </h2>
     <p>
-     ライブラリは、行、列、セルレベルでのワークシートの書式設定、条件付き書式設定ルールの追加、数値形式の定義、属性を使用したフォントの設定など、スプレッドシートのスタイル設定を提供します。同様に、APIは、すべてのタイプのカスタムチャートと標準チャート、およびOLEオブジェクト、画像、コメント、図形、セルへのコントロールなどのさまざまな描画オブジェクトの操作と作成をサポートしています。
+ライブラリは、行、列、セル レベルでのワークシートの書式設定、条件付き書式ルールの追加、数値書式の定義、および属性を使用したフォントの設定を含むスプレッドシートのスタイル設定を提供します。同様に、API は、あらゆるタイプのカスタムおよび標準グラフの操作と作成、および OLE オブジェクト、画像、コメント、図形、セルのコントロールなどのさまざまな描画オブジェクトの操作と作成をサポートします。
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -420,14 +419,14 @@ wbk.save(dir + "output.html", SaveFormat.HTML);</code></pre>
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     チャートの変換＆amp;画像とシートPDF形式
+チャートと変換シートから画像へPDF フォーマット
     </h2>
     <p>
-     Aspose.Cells for Javaは、チャートから画像とPDF、ワークシートから画像、ワークシートの印刷、スプレッドシートからPDFファイル形式への変換などの特別な変換機能を提供します。変換プロセスは非常に柔軟で簡単であり、スプレッドシートからPDFへの変換中に画像を再サンプリングしたり、ワークシートやチャートを画像にレンダリングしたときに結果の画像の寸法を調整したりするなど、変換のさまざまな方法を選択できます。
+Aspose.Cells for Java は、グラフから画像、PDF、ワークシートから画像、ワークシートの印刷、スプレッドシートの PDF ファイル形式への変換などの特別な変換機能を提供します。変換プロセスは非常に柔軟かつ簡単で、スプレッドシートから PDF への変換中に画像を再サンプリングしたり、ワークシートやチャートを画像にレンダリングするときに結果の画像の寸法を調整したりするなど、さまざまな変換方法を選択できます。
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Excelチャートを画像としてレンダリング＆amp; PDF-Java
+Excel グラフを画像としてレンダリングし、 PDF - Java
      </h3>
      <pre><code class="java">// load spreadsheet containing the chart
 
@@ -448,18 +447,18 @@ chart.toPdf(dir + "output.pdf");</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Excelの行を操作する＆amp;列
+ Excel の行と行を操作するコラム
     </h2>
     <p>
-     Aspose.Cells for Javaを使用すると、さまざまな方法で行と列を変更できます。列の幅と行の高さを簡単に調整したり、コンテンツのセルの幅/高さを自動サイズ変更したり、挿入したり、挿入したりできます。削除、非表示、非表示とグループ＆amp;行と列のグループ化を解除します。
+Aspose.Cells for Java を使用すると、さまざまな方法で行と列を変更できます。列の幅と行の高さを簡単に調整したり、内容に応じてセルの幅/高さを自動調整したり、挿入したりすることができます。削除、非表示、および非表示を解除するだけでなく、グループ化および非表示を解除することもできます。行と列のグループ化を解除します。
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     グラフでデータを要約＆amp;ピボットテーブル
+グラフとデータを使用してデータを要約するピボットテーブル
     </h2>
     <p>
-     非常に大きなスプレッドシートでは、要約された情報を取得するのが難しい場合があります。ピボットテーブルは、フラットデータをすばやく記述し、必要に応じて関連情報を取得するためにあります。 APIは、ピボットテーブルとチャートを動的に作成します。ピボットテーブルのソースデータを動的に変更することが可能です。さらに、スマートマーカーは、データソースを介してワークシートに入力し、視覚的に効果的なレポートを生成するための、このライブラリのもう1つの主要な機能です。
+非常に大規模なスプレッドシートでは、要約された情報を取得するのが難しい場合があります。ピボット テーブルは、フラット データを迅速に記述し、必要に応じて関連情報を取得するためにあります。 API はピボット テーブルとグラフを動的に作成します。ピボットテーブルのソースデータを動的に変更することが可能です。さらに、このライブラリのもう 1 つの主要な機能であるスマート マーカーは、データ ソースを通じてワークシートに情報を入力し、視覚的に効果的なレポートを生成します。
     </p>
    </div>
    <!--
@@ -485,10 +484,10 @@ chart.toPdf(dir + "output.pdf");</code></pre>
 -->
    <div class="col-lg-12">
     <h2 class="h2title">
-     スプレッドシート用のWebベースのビジュアルコントロール
+スプレッドシートの Web ベースの視覚的制御
     </h2>
     <p>
-     Aspose.Cells for Javaは、JSP Webアプリケーションに埋め込むことができ、Chrome、Firefox、Internet Explorer、Operaなどの最新のすべてのWebブラウザーと互換性のあるUIコントロールも提供します。エンドユーザーはこれを使用して、WebアプリケーションのフロントエンドからExcelファイルをロード、編集、および保存できます。
+Aspose.Cells for Java は、JSP Web アプリケーションに埋め込むことができ、Chrome、Firefox、Internet Explorer、Opera などの最新の Web ブラウザすべてと互換性のある UI コントロールも提供します。エンドユーザーはこれを使用して、Web アプリケーションのフロントエンドから Excel ファイルをロード、編集、保存できます。
     </p>
    </div>
   </div>
@@ -498,22 +497,22 @@ chart.toPdf(dir + "output.pdf");</code></pre>
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="人々が言っていること" subTitle="ただ私たちの言葉を信じないでください。スプレッドシートAPIについてユーザーが言わなければならないことを確認してください。" caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.cells/" >}}
+{{< blocks/products/pf/i18n/testimonials title="人々の意見" subTitle="私たちの言葉をそのまま鵜呑みにしないでください。スプレッドシート API についてのユーザーの意見をご覧ください。" caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.cells/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
- Aspose.cells for Javaの使用をお勧めします。これは、実装が簡単で、APIが理解しやすく、非常に流暢であるためです。
+実装が簡単で、API は理解しやすく、非常に流暢であるため、Aspose.cells for Java の使用をお勧めします。
  <em>
-  ピエール-エリック・オーディン| Advizeo by Setec、フランス
+ピエール＝エリック・ウーダン | Advizeo by Setec、フランス
  </em>
 </p>
 {{< /blocks/products/pf/testimonials-quote >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="second">
- Aspose製品に関する全体的な経験は非常に好意的でした。このコンポーネントにより、XpandIT製品であるJIRA用のXporterPluginのビジネス価値が高まり、データエクスポート用のリファレンスソリューションを開発できるようになりました。
+Aspose 製品に関する当社の全体的な経験は非常に良好でした。このコンポーネントにより、Xpand IT 製品である Xporter Plugin for JIRA のビジネス価値が高まり、データ エクスポート用のリファレンス ソリューションを開発できるようになりました。
  <em>
-  パウロロペス| Xpand IT、英国
+パウロ・ロペス |エクスパンド IT、英国
  </em>
 </p>
 {{< /blocks/products/pf/testimonials-quote >}}
@@ -524,27 +523,27 @@ chart.toPdf(dir + "output.pdf");</code></pre>
 {{< blocks/products/pf/slr-tab tabTitle="学習リソース" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="ドキュメンテーション" href="https://docs.aspose.com/cells/java" >}}
 {{< blocks/products/pf/slr-element name="ソースコード" href="https://github.com/aspose-cells/Aspose.Cells-for-Java" >}}
-{{< blocks/products/pf/slr-element name="API参照" href="https://reference.aspose.com/cells/java" >}}
+{{< blocks/products/pf/slr-element name="API 参照先" href="https://reference.aspose.com/cells/java" >}}
 {{< blocks/products/pf/slr-element name="チュートリアルビデオ" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="製品サポート" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="無料サポート" href="https://forum.aspose.com/c/cells" >}}
+{{< blocks/products/pf/slr-element name="無料サポート" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="有料サポート" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="ブログ" href="https://blog.aspose.com/category/cells/" >}}
 {{< blocks/products/pf/slr-element name="リリースノート" href="https://docs.aspose.com/cells/java/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="なぜAspose.Cellsfor Java？" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="なぜ Aspose.Cells for Java?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="顧客リスト" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="サクセスストーリー" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
+{{< blocks/products/pf/slr-element name="成功事例" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/java" pricingInformationLink="https://purchase.aspose.com/pricing/cells/java" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cellsは、以下に示すように、他の一般的な開発環境向けに個別のExcelAPIを提供します。" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells は、以下に示す他の一般的な開発環境向けに個別の Excel API を提供します。" >}}
 
     {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sdkName=".NET" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/cpp/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sdkName="C++" >}}

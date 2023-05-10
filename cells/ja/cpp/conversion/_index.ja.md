@@ -1,27 +1,25 @@
 ---
-title: C++によるMicrosoftExcelファイル変換 
-
-description: Excel XLS、XLSX、ODS、CSVをPDF、XPS、HTML、JPEG、およびその他の形式に数行のC++コードで変換します。
+title: Microsoft C++ 経由の Excel ファイル変換
+description: わずか数行の C++ コードで、Excel XLS、XLSX、ODS、CSV を PDF、XPS、HTML、JPEG およびその他の形式に変換します。
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft <sup>＆reg; </sup>C++を介したExcelドキュメントの変換" h2="Microsoft <sup>＆reg; </ sup> Excelファイルをスプレッドシート、Web、画像、および固定レイアウト形式で保存します" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> C++ 経由の Excel ドキュメント変換" h2="Microsoft<sup>&reg;</sup> Excel ファイルをスプレッドシート、Web、画像、固定レイアウト形式で保存します" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-スプレッドシートコンバータアプリケーションまたはソリューションの場合、** C++ Excel Library **は、XLSX、XLS、XLSM、XLSB、XLTX、XLTM、CSV、SpreadsheetML、ODSなどの複数のファイルを処理しながら、コーディング、自動化、および変換プロセスを高速化します。また、** ExcelをPDFに変換**、XPS、HTML、MHTML、プレーンテキスト、およびJPG、TIFF、PNG、BMP、SVGなどの一般的な画像を使用することもできます。
+スプレッドシート コンバータ アプリケーションまたはソリューションの場合、**C++ エクセルライブラリ**XLSX、XLS、XLSM、XLSB、XLTX、XLTM、CSV、SpreadsheetML、ODS などの複数のファイルを処理しながら、コーディング、自動化、変換プロセスを高速化します。また、Excel を * に変換することもできます。 PDF**、XPS、HTML、MHTML、プレーンテキストと JPG、TIFF、PNG、BMP、SVG などの人気のある画像。
 {{% /blocks/products/pf/feature-page-summary %}}
 
-{{% blocks/products/pf/feature-page-section h2="MicrosoftExcel形式の相互変換" %}}
-スプレッドシート形式の相互変換では、次のインスタンスを含むスプレッドシートを読み込むだけで済みます。 [ intrusive_ptr <Aspose :: Cells :: IWorkbook>](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) ポインタを使用して、目的の形式で保存し直します。 [保存する](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997) の方法 [IWorkbookクラス](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)。
-{{% blocks/products/pf/feature-page-code h3="C++Excelファイル形式変換のサンプルコード" %}}
+{{% blocks/products/pf/feature-page-section h2="Microsoft Excel 形式の相互変換" %}}
+スプレッドシート形式の相互変換には、次のインスタンスを含むスプレッドシートをロードするだけで済みます。[侵入的_ptr<Aspose::Cells::IWorkbook>](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)ポインタを使用して希望の形式で保存し直す[保存](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997)の方法[IWorkbook クラス](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook).
+{{% blocks/products/pf/feature-page-code h3="C++ Excel ファイル形式変換のコード例" %}}
 
 ```cs
 
-// ソースexcel形式をロードします。
+// Load the source excel format.
 intrusive_ptr<Aspose::Cells::IWorkbook> wkb = Factory::CreateIWorkbook(u"src_excel_file.xls");
 
-// 必要な出力形式で保存します。
+// Save in required output format.
 wkb->Save(u"output_excel_format.xlsx", SaveFormat_Xlsx);
-
 
 ```
 {{% /blocks/products/pf/feature-page-code %}}
@@ -29,26 +27,25 @@ wkb->Save(u"output_excel_format.xlsx", SaveFormat_Xlsx);
 {{< blocks/products/pf/feature-page-options pairs="xls-to-xlsx xlsx-to-xlsm xlsx-to-ods xlsx-to-csv xlsm-to-xls" >}}
 
 
-{{% blocks/products/pf/feature-page-section h2="コンプライアンスレベル設定を使用してExcel形式をPDFに変換する" %}}
-C++ Excel Automation APIは、ワークブックからPDFへの変換をサポートし、コンプライアンスレベルと作成日の設定をサポートします。開発者は使用できます [IPdfSaveOptions](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_pdf_save_options) 一緒に [Aspose ::Cells::レンダリング](https://reference.aspose.com/cells/cpp/namespace/aspose.cells.rendering) PDFコンプライアンスを設定します。変換の場合、パラメータとしてPdfSaveOptionsを持ち、出力ファイルパスを指定したAPIsaveメソッド。 
-{{% blocks/products/pf/feature-page-code h3="C++ExcelからPDFへの変換のサンプルコード" %}}
+{{% blocks/products/pf/feature-page-section h2="コンプライアンスレベル設定を使用して Excel 形式を PDF に変換する" %}}
+C++ Excel オートメーション API は、ワークブックの PDF への変換をサポートし、準拠レベルと作成日の設定もサポートします。開発者が使用できるのは、[IPdfSaveオプション](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_pdf_save_options)一緒に[Aspose::Cells::レンダリング](https://reference.aspose.com/cells/cpp/namespace/aspose.cells.rendering)PDF 準拠を設定します。変換の場合は、パラメータとして PdfSaveOptions を指定し、出力ファイルのパスを指定した API save メソッドを使用します。
+{{% blocks/products/pf/feature-page-code h3="C++ Excel から PDF への変換のサンプル コード" %}}
 
 ```cs
-// サンプルExcelファイルをロードします。
+// Load the sample Excel file.
 intrusive_ptr<Aspose::Cells::IWorkbook> wkb = Factory::CreateIWorkbook(u"sample-convert-excel-to.pdf");
 
-// pdf保存オプションオブジェクトを作成します。
+// Create pdf save options object.
 intrusive_ptr<Aspose::Cells::IPdfSaveOptions> pdfSaveOptions = Factory::CreateIPdfSaveOptions();
 
-// コンプライアンスをPDF/A-1bに設定します。
+// Set the compliance to PDF/A-1b.
 pdfSaveOptions->SetCompliance(Aspose::Cells::Rendering::PdfCompliance_PdfA1b);
 
-// またはPdfCompliance_PdfA1a 
-// 通常のPDFの場合はPdfCompliance_Noneになります
+// or PdfCompliance_PdfA1a 
+// for normal PDF it will be PdfCompliance_None
 
-// ExcelドキュメントをPDF形式で保存します
+// Save the Excel Document in PDF format
 wkb->Save(u"output-converted-excel-workbook-to.pdf", pdfSaveOptions);
-
 
 
 ```
@@ -57,55 +54,54 @@ wkb->Save(u"output-converted-excel-workbook-to.pdf", pdfSaveOptions);
 
 {{< blocks/products/pf/feature-page-options formats="PDF" >}}
 
-{{% blocks/products/pf/feature-page-section h2="Excelを画像に保存" %}}
-** C++ Excel Parser **には、画像の形式でデータをエクスポートする機能があります。各ワークシートは、BMP、JPEG、PNG、GIFなどのさまざまな画像形式に変換できます。 [Rendering :: IImageOrPrintOptions](https://reference.aspose.com/cells/cpp/class/aspose.cells.rendering.i_image_or_print_options)。 ** Excelを画像に変換**の場合は、リンクから関連するケースを選択してください。
-{{% blocks/products/pf/feature-page-code h3="C++Excelから画像への変換のコード" %}}
+{{% blocks/products/pf/feature-page-section h2="Excel を画像として保存" %}}
+**C++ Excel パーサー**データを画像の形式でエクスポートする機能があります。各ワークシートは、BMP、JPEG、PNG、GIF など、[レンダリング::IImageOrPrintOptions](https://reference.aspose.com/cells/cpp/class/aspose.cells.rendering.i_image_or_print_options) 。どれについても**Excelを画像に変換**ケースの場合は、リンクから該当するケースを選択してください。
+{{% blocks/products/pf/feature-page-code h3="C++ Excel から画像への変換用のコード" %}}
 
 ```cs
-// 出力ディレクトリパス。
+// Output directory path.
 StringPtr outDir = new String("ImagesOutputDirectoryPath");
 
-// XLSXをロードします。
+// Load the XLSX.
 intrusive_ptr<Aspose::Cells::IWorkbook> wkb = Factory::CreateIWorkbook(u"source-excel-file.xlsx");
 
-// 最初のワークシートにアクセスします。
+// Access first worksheet.
 intrusive_ptr<Aspose::Cells::IWorksheet> wks = wkb->GetIWorksheets()->GetObjectByIndex(0);
 
-// 画像または印刷オプションオブジェクトを作成します。
+// Create image or print options object.
 intrusive_ptr<Aspose::Cells::Rendering::IImageOrPrintOptions> imgOptions = Factory::CreateIImageOrPrintOptions();
 
-// 画像フォーマットを指定します。以下のコードはJPEG用です
+// Specify the image format. Below code is for JPEG
 imgOptions->SetImageFormat(Aspose::Cells::Systems::Drawing::Imaging::ImageFormat::GetJpeg());
 
-// GIF、BMP、PNGなどの他の画像の場合、それぞれGetGif（）、GetBmp（）、GetPng（）を使用できます。 
+// For other images like GIF, BMP and PNG one can use GetGif(), GetBmp() and GetPng() respectively 
 
-// 水平および垂直解像度を指定します
+// Specify horizontal and vertical resolution
 imgOptions->SetHorizontalResolution(200);
 imgOptions->SetVerticalResolution(200);
 
-// 指定された画像または印刷オプションに関してシートをレンダリングします。
+// Render the sheet with respect to specified image or print options.
 intrusive_ptr<Aspose::Cells::Rendering::ISheetRender> sr = Factory::CreateISheetRender(wks, imgOptions);
 
-// ページ数を取得します。
+// Get page count.
 Aspose::Cells::Systems::Int32 pageCount = sr->GetPageCount();
 
-// 文字列連結用の文字列ビルダーオブジェクトを作成します。
+// Create string builder object for string concatenations.
 intrusive_ptr<Aspose::Cells::Systems::Text::StringBuilder> sb = new Aspose::Cells::Systems::Text::StringBuilder();
 
-// 各ページを1つずつjpeg画像にレンダリングします。
+// Render each page to jpeg image one by one.
 for (int i = 0; i < pageCount; i++){
-	// 文字列ビルダーをクリアし、文字列を連結して出力イメージパスを作成します。
+	// Clear string builder and create output image path with string concatenations.
 	sb->Clear();
 	sb->Append(outDir);
 	sb->Append((StringPtr)new String("outputConvertingWorksheetToImageJPEG_"));
 	sb->Append(i);
 	sb->Append((StringPtr)new String(".jpeg"));
-	// 出力画像パスを取得します。
+	// Get the output image path.
 	StringPtr outputJPEG = sb->ToString();
-	// ワークシートを画像に変換します。
+	// Convert worksheet to image.
 	sr->ToImage(i, outputJPEG);
 }
-
 ```
 {{% /blocks/products/pf/feature-page-code %}}
 {{% /blocks/products/pf/feature-page-section %}}

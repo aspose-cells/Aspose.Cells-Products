@@ -1,33 +1,32 @@
 ---
-title: .NET Java C++ API Parsing Spreadsheet PHP dan Android Excel 
+title:  .NET Java Python C++ PHP dan Android Excel Spreadsheet Parsing API
 weight: 10
-
-description: Pustaka untuk membaca, menulis, dan memanipulasi file Microsoft Excel di .NET Java C++ aplikasi Android dan SharePoint. Ekspor Lembar Kerja di SSRS dan JasperReports
+description: Pustaka untuk membaca, menulis, dan memanipulasi Microsoft file Excel di .NET Java C++ aplikasi Android dan SharePoint. Ekspor Lembar Kerja di SSRS dan JasperReports
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Memproses Spreadsheet Excel di Berbagai Platform" h2="API asli untuk membuat, mengedit, mengonversi & merender file Excel. Ekspor spreadsheet ke berbagai format di platform apa pun." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells.svg" pfName="Aspose.Cells" downloadUrl="https://downloads.aspose.com/cells" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/product-card-row title="Aspose.Cells API Kode Tinggi Termasuk" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.Cells Termasuk API Kode Tinggi" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" productLink="/cells/net/" >}}
-Targetkan .NET Framework, .NET Core & platform Xamarin untuk mengembangkan aplikasi untuk Windows, iOS, macOS & Android.
+Target .NET Framework, .NET Core & platform Xamarin untuk mengembangkan aplikasi untuk Windows, iOS, macOS & Android.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" productLink="/cells/java/" >}}
-Java API asli untuk desktop, web, atau aplikasi apa pun berdasarkan Java SE atau EE.
+API asli Java untuk desktop, web, atau aplikasi apa pun berdasarkan Java SE atau EE.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells for" title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" productLink="/cells/cpp/" >}}
-Buat, baca, edit, konversi, atau render format spreadsheet Excel dari dalam C++ aplikasi.
+Buat, baca, edit, konversi, atau render format spreadsheet Excel dari dalam aplikasi C++.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells for" title="Android melalui Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-android-java.svg" productLink="/cells/android-java/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Cells for" title="Android via Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-android-java.svg" productLink="/cells/android-java/" >}}
 Tambahkan kemampuan manipulasi spreadsheet Excel di aplikasi seluler Android Anda.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells for" title="SharePoint" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-sharepoint.svg" productLink="/cells/sharepoint/" >}}
-Konversi dan gabungkan spreadsheet Excel di SharePoint Services atau SharePoint Server.
+Konversikan dan gabungkan spreadsheet Excel di SharePoint Services atau SharePoint Server.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells for" title="Layanan Pelaporan" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-reporting-services.svg" productLink="/cells/reporting-services/" >}}
@@ -38,15 +37,19 @@ Ekspor laporan RDL dan RDLC ke format file Excel dari Layanan Pelaporan SQL Serv
 Ekspor laporan ke format file Excel dan PDF dari JasperReports atau JasperServer.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells for" title="Node.js melalui Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-nodejs-java.svg" productLink="/cells/nodejs-java/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Cells for" title="Node.js via Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-nodejs-java.svg" productLink="/cells/nodejs-java/" >}}
 Buat, manipulasi, konversi & render spreadsheet Excel melalui Node.js.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells for" title="PHP melalui Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-php-java.svg" productLink="/cells/php-java/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Cells for" title="PHP via Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-php-java.svg" productLink="/cells/php-java/" >}}
 Buat, manipulasi, konversi & render spreadsheet Excel dalam aplikasi PHP melalui JavaBridge.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells for" title="Python melalui Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" productLink="/cells/python-java/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Cells for" title="Python via Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" productLink="/cells/python-java/" >}}
+Muat, buat, manipulasi & render dokumen Excel menggunakan Python.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Cells for" title="Python via .NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" productLink="/cells/python-net/" >}}
 Muat, buat, manipulasi & render dokumen Excel menggunakan Python.
 {{< /blocks/products/pf/product >}}
 
@@ -62,12 +65,12 @@ Muat, buat, manipulasi & render dokumen Excel menggunakan Python.
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Dukungan Produk" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Dukungan Gratis" href="https://forum.aspose.com/c/cells" >}}
+{{< blocks/products/pf/slr-element name="Dukungan Gratis" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="Dukungan Berbayar" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Mengapa Aspose.Cells Kelompok Produk?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Kenapa Aspose.Cells Product Family?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Daftar Pelanggan" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Cerita-cerita sukses" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}

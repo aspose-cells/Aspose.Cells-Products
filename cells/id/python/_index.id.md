@@ -1,19 +1,18 @@
 ---
-title: Python Spreadsheet Excel API - Aspose 
+title:  Python Spreadsheet Excel API - Aspose
 weight: 2820
-
 description: Python pustaka spreadsheet untuk membuat baca tulis dan parsing file Excel.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Python API Penguraian Spreadsheet Excel" h2="Buat, baca, tulis, atau manipulasi spreadsheet serta ekspor file Excel ke berbagai format dalam Python aplikasi." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-python-java.svg" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="https://downloads.aspose.com/cells/python" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Python Excel Spreadsheet Parsing API" h2="Hasilkan, baca, tulis, atau manipulasi spreadsheet serta ekspor file Excel ke berbagai format dalam aplikasi Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-python-java.svg" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="https://releases.aspose.com/cells/python-java/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Python" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/python-java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cells/pythonjava/" installationsDocsLink="" nugetLink="" nugetPackageName="" pipLink="https://pypi.org/project/aspose-cells/" directDownloadLink="https://downloads.aspose.com/cells/python" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/python-java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cells/pythonjava/" installationsDocsLink="" nugetLink="" nugetPackageName="" pipLink="https://pypi.org/project/aspose-cells/" directDownloadLink="https://releases.aspose.com/cells/python-java/" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells untuk Python adalah API yang cepat dan andal untuk tugas pemrosesan spreadsheet. Pengembang dapat membuat spreadsheet sederhana atau kompleks, memanipulasi serta mengekstrak informasi dari file excel. API membaca berbagai format excel dan dapat merender lembar kerja ke XPS, PDF, MHTML, HTML, Teks Biasa, gambar, dan lainnya. Ini adalah solusi terbaik untuk mengotomatisasi laporan excel menggunakan python.
+ Aspose.Cells for Python adalah API yang cepat dan andal untuk tugas pemrosesan spreadsheet. Pengembang dapat membuat spreadsheet sederhana atau kompleks, memanipulasi serta mengekstrak informasi dari file excel. API membaca berbagai format excel dan dapat merender lembar kerja ke XPS, PDF, MHTML, HTML, Teks Biasa, gambar, dan lainnya. Ini adalah solusi terbaik untuk mengotomatiskan laporan excel menggunakan python.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -21,40 +20,40 @@ description: Python pustaka spreadsheet untuk membuat baca tulis dan parsing fil
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Sekilas" description="Ikhtisar tentang API kemampuan." >}}
+{{< blocks/products/pf/carousel-item h3="Sekilas" description="Ikhtisar kemampuan API." >}}
 <div class="diagram1 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-refresh">
     </i>
-    Impor &amp; Ekspor
+ Impor &amp; Ekspor
    </header>
    <ul>
     <li>
-     Array
+ Array
     </li>
     <li>
-     HasilSet
+ Set Hasil
     </li>
     <li>
-     Koleksi
+Koleksi
     </li>
    </ul>
    <header>
     <i class="fa fa-cog">
     </i>
-    Rendering
+ Merender
    </header>
    <ul>
     <li>
-     Bagan ke Gambar
+ Bagan ke Gambar
     </li>
     <li>
-     Lembar kerja ke Gambar
+ Lembar Kerja ke Gambar
     </li>
     <li>
-     Spreadsheet ke PDF
+ Spreadsheet ke PDF
     </li>
    </ul>
   </div>
@@ -63,23 +62,23 @@ description: Python pustaka spreadsheet untuk membuat baca tulis dan parsing fil
    <header>
     <i class="fa fa-table">
     </i>
-    Pengolahan data
+ Pengolahan data
    </header>
    <ul>
     <li>
-     Terapkan Pemformatan
+ Terapkan Pemformatan
     </li>
     <li>
-     Terapkan Formula
+ Terapkan Formula
     </li>
     <li>
-     Buat Bagan
+ Buat Bagan
     </li>
     <li>
-     Meringkaskan
+ Meringkaskan
     </li>
     <li>
-     Penanda Cerdas
+ Penanda Cerdas
     </li>
    </ul>
   </div>
@@ -94,7 +93,7 @@ description: Python pustaka spreadsheet untuk membuat baca tulis dan parsing fil
   <footer>
    <small>
     <em>
-     untuk
+ untuk
     </em>
     Python
    </small>
@@ -105,7 +104,7 @@ description: Python pustaka spreadsheet untuk membuat baca tulis dan parsing fil
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Platform Kemerdekaan" description="Aspose.Cells untuk Python tersedia untuk." >}}
+{{< blocks/products/pf/carousel-item h3="Kemandirian Platform" description="Aspose.Cells for Python tersedia untuk." >}}
 <div class="diagram1 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -115,7 +114,7 @@ description: Python pustaka spreadsheet untuk membuat baca tulis dan parsing fil
    <header style="padding-left: 0px;">
     <i class="fa fa-cogs">
     </i>
-    Python Lingkungan Waktu Proses
+ Python Lingkungan Runtime
    </header>
    <!--<ul>
 
@@ -134,7 +133,7 @@ description: Python pustaka spreadsheet untuk membuat baca tulis dan parsing fil
   <footer>
    <small>
     <em>
-     untuk
+ untuk
     </em>
     Python
    </small>
@@ -145,37 +144,37 @@ description: Python pustaka spreadsheet untuk membuat baca tulis dan parsing fil
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Format File yang Didukung" description="Python pustaka excel mendukung format Microsoft Excel populer, format tata letak tetap, dan gambar." >}}
+{{< blocks/products/pf/carousel-item h3="Format File yang Didukung" description="Pustaka excel Python mendukung format Excel Microsoft yang populer, format tata letak tetap, dan gambar." >}}
 <div class="diagram1 d2 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Input output
+ Input output
    </header>
    <ul>
     <li>
      <b>
-      Microsoft Excel:
+ Microsoft Unggul:
      </b>
-     XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
     </li>
     <li>
      <b>
-      Kantor terbuka:
+ Kantor terbuka:
      </b>
      ODS
     </li>
     <li>
      <b>
-      Teks:
+ Teks:
      </b>
      CSV, TSV, TXT
     </li>
     <li>
      <b>
-      Web:
+ Web:
      </b>
      HTML, MHTML
     </li>
@@ -186,18 +185,18 @@ description: Python pustaka spreadsheet untuk membuat baca tulis dan parsing fil
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    Keluaran Saja
+ Keluaran Saja
    </header>
    <ul>
     <li>
      <b>
-      Tata Letak Tetap:
+ Tata Letak Tetap:
      </b>
-     PDF, PDF/A, XPS
+ PDF, PDF/A, XPS
     </li>
     <li>
      <b>
-      Gambar-gambar:
+ Gambar-gambar:
      </b>
      JPEG, PNG, BMP, SVG, EMF
     </li>
@@ -214,7 +213,7 @@ description: Python pustaka spreadsheet untuk membuat baca tulis dan parsing fil
   <footer>
    <small>
     <em>
-     untuk
+ untuk
     </em>
     Python
    </small>
@@ -235,7 +234,7 @@ description: Python pustaka spreadsheet untuk membuat baca tulis dan parsing fil
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Fitur Python Excel API Tingkat Lanjut
+Lanjutan Python Fitur Excel API
    </h2>
    <p>
    </p>
@@ -243,105 +242,105 @@ description: Python pustaka spreadsheet untuk membuat baca tulis dan parsing fil
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Baca Spreadsheet Excel
+ Baca Spreadsheet Excel
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-share ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Render Spreadsheet ke PDF, EMF, dan Gambar
+ Render Spreadsheet ke PDF, EMF dan Gambar
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-th ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Sesuaikan lembar kerja dalam buku kerja
+ Sesuaikan lembar kerja dalam buku kerja
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-lock ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Lindungi / buka proteksi lembar kerja
+ Lindungi / buka proteksi lembar kerja
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bar-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Tambahkan gambar serta buat grafik
+ Tambahkan gambar serta buat bagan
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Buat tabel pivot dan diagram pivot
+ Buat tabel pivot dan bagan pivot
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-comment ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Tambahkan dan edit komentar di tingkat sel
+ Tambahkan dan edit komentar di tingkat sel
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-search ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Cari dan ganti data
+ Cari dan ganti data
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-exchange ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Pisahkan dan gabungkan sel
+ Pisahkan dan gabungkan sel
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Tambahkan atau hapus pengelompokan ke baris dan kolom
+ Tambahkan atau hapus pengelompokan ke baris dan kolom
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sort-numeric-asc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Setel pemformatan angka
+ Atur pemformatan angka
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-calculator ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Baca dan atur rumus
+ Membaca dan mengatur formula
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Konfigurasikan pengaturan halaman
+ Konfigurasikan penyiapan halaman
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Sesuaikan orientasi halaman, penskalaan, ukuran kertas
+ Sesuaikan orientasi halaman, penskalaan, ukuran kertas
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-edit ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Baca &amp; tulis pemformatan bersyarat
+ Baca &amp; menulis pemformatan bersyarat
     </p>
    </div>
    <!--
@@ -413,14 +412,14 @@ description: Python pustaka spreadsheet untuk membuat baca tulis dan parsing fil
 -->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Konversi Beberapa Format
+ Konversi Beberapa Format
     </h2>
     <p>
-     Python Pustaka Excel menyediakan konversi file Excel ke PDF, XPS &amp; format HTML. Konversi API yang andal menjadikannya solusi sempurna bagi perusahaan yang perlu bertukar file dalam format standar industri.
+ Python Pustaka Excel menyediakan konversi file Excel ke PDF, XPS &amp; format HTML. Konversi yang andal dari API menjadikannya solusi sempurna bagi perusahaan yang perlu bertukar file dalam format standar industri.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Simpan spreadsheet dalam format berbeda - Java
+ Simpan spreadsheet dalam berbagai format - Java
      </h3>
      <pre><code class="java">// load file to be converted
 
@@ -459,10 +458,10 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Opsi Tampilan Fleksibel
+ Opsi Tampilan Fleksibel
     </h2>
     <p>
-     Aspose.Cells untuk Python memberikan kontrol penuh atas penyiapan halaman yang memungkinkan untuk memanipulasi beberapa opsi tampilan seperti jeda halaman pratinjau, setel tingkat zoom, setel orientasi halaman, kontrol visibilitas data dengan panel beku, ukuran kertas, penskalaan, header &amp; footer dan area cetak.
+Aspose.Cells for Python menyediakan kontrol penuh atas pengaturan halaman yang memungkinkan untuk memanipulasi beberapa opsi tampilan seperti jeda halaman pratinjau, mengatur tingkat zoom, mengatur orientasi halaman, mengontrol visibilitas data dengan panel beku, ukuran kertas, penskalaan, tajuk &amp; footer dan area cetak.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -482,18 +481,18 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
 </div> -->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Manajemen Data Lembar Excel
+ Manajemen Data Lembar Excel
     </h2>
     <p>
-     Aspose.Cells untuk Python API memberikan dukungan ekstensif untuk pengelolaan data lembar kerja. Seseorang dapat dengan mudah memanipulasi sel apa pun di lembar kerja saat runtime atau mengimpor data ke lembar kerja dari berbagai sumber data.
+ Aspose.Cells for Python API menyediakan dukungan ekstensif untuk manajemen data lembar kerja. Seseorang dapat dengan mudah memanipulasi sel apa pun di lembar kerja saat runtime atau mengimpor data ke lembar kerja dari berbagai sumber data.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Kustomisasi Grafik
+ Kustomisasi Bagan
     </h2>
     <p>
-     Aspose.Cells untuk Python memberikan dukungan penuh untuk pembuatan bagan. Seseorang dapat dengan mudah menambahkan bagan standar dan yang disesuaikan atau mengatur data bagan secara dinamis untuk menyegarkan bagan melalui pustaka python ini.
+ Aspose.Cells for Python memberikan dukungan penuh untuk charting. Seseorang dapat dengan mudah menambahkan bagan standar dan yang disesuaikan atau mengatur data bagan secara dinamis untuk menyegarkan bagan dengan pustaka python ini.
     </p>
    </div>
    <!--
@@ -519,26 +518,26 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
 {{< blocks/products/pf/slr-tab tabTitle="Sumber Belajar" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentasi" href="https://docs.aspose.com/cells/pythonjava/" >}}
 {{< blocks/products/pf/slr-element name="Kode sumber" href="https://github.com/aspose-cells/Aspose.Cells-for-Java" >}}
-{{< blocks/products/pf/slr-element name="Aspose.Cells API Referensi" href="https://reference.aspose.com/python/cells" >}}
+{{< blocks/products/pf/slr-element name="Aspose.Cells API Referensi" href="https://reference.aspose.com/cells/python-java" >}}
 {{< blocks/products/pf/slr-element name="Video Tutorial" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Dukungan Produk" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Dukungan Gratis" href="https://forum.aspose.com/c/cells" >}}
+{{< blocks/products/pf/slr-element name="Dukungan Gratis" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="Dukungan Berbayar" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Mengapa Aspose.Cells untuk Python?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Kenapa Aspose.Cells for Python?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Daftar Pelanggan" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Cerita-cerita sukses" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/python" pricingInformationLink="https://purchase.aspose.com/pricing/cells/python-java" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/cells/python-java/" pricingInformationLink="https://purchase.aspose.com/pricing/cells/python-java" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells menawarkan API Excel individual untuk lingkungan pengembangan populer lainnya seperti yang tercantum di bawah ini:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells menawarkan API Excel individu untuk lingkungan pengembangan populer lainnya seperti yang tercantum di bawah ini:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sdkName=".NET" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sdkName="Java" >}}

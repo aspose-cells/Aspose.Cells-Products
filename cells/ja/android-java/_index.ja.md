@@ -1,11 +1,10 @@
 ---
-title: AndroidExcelスプレッドシートAPI-Aspose 
+title: Android Excel スプレッドシート API - Aspose
 weight: 6510
-
-description: 読み取り/書き込みを作成し、Excelファイルを解析するためのAndroidスプレッドシートライブラリ。モバイルアプリ開発用のスプレッドシートAPI
+description: Excel ファイルを作成し、読み書きし、解析するための Android スプレッドシート ライブラリ。モバイルアプリ開発用のスプレッドシート API
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Excelスプレッドシートを操作するためのAndroidAPI" h2="依存関係なしにAndroidアプリ内でExcelファイルを作成、読み取り、書き込み、または操作します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-android-java.svg" pfName="Aspose.Cells" subTitlepfName="for Android via Java" downloadUrl="https://downloads.aspose.com/cells/androidjava" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Excel スプレッドシートを操作するための Android API" h2="Android アプリ内で依存関係なしで Excel ファイルを作成、読み取り、書き込み、または操作します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-android-java.svg" pfName="Aspose.Cells" subTitlepfName="for Android via Java" downloadUrl="https://downloads.aspose.com/cells/androidjava" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Android via Java" >}}
 
@@ -13,7 +12,7 @@ description: 読み取り/書き込みを作成し、Excelファイルを解析�
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Javaを介したAndroid用のAspose.Cellsは、スプレッドシートをプログラムで生成、結合、変更、および解析するためのスケーラブルなAPIです。 APIは、Excelドキュメントの書式設定とページ設定タスク、インポートとエクスポート機能、ワークシートページのラスター画像へのレンダリング、画像の解像度、品質、圧縮の指定、さまざまなグラフの追加など、多くの機能を提供します。 AndroidスプレッドシートAPIは、XLS、XLSX、CSV、SpreadsheetML、ODS、タブ区切り、HTML、PDF、XPSなどの形式をサポートしています。
+ Aspose.Cells for Android via Java は、スプレッドシートをプログラムで生成、結合、変更、解析するためのスケーラブルな API です。 API は、Excel ドキュメントの書式設定とページ設定タスク、インポートおよびエクスポート機能、ワークシート ページのラスター イメージへのレンダリング、画像の解像度、品質、圧縮の指定、さまざまなグラフの追加などを含む多くの機能を提供します。 Android スプレッドシート API は、XLS、XLSX、CSV、SpreadsheetML、ODS、タブ区切り、HTML、PDF、XPS などの形式をサポートしています。
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -21,40 +20,40 @@ description: 読み取り/書き込みを作成し、Excelファイルを解析�
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="一目で" description="API機能の概要。" >}}
+{{< blocks/products/pf/carousel-item h3="一目でわかる" description="API の機能の概要。" >}}
 <div class="diagram1 d1-android">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-refresh">
     </i>
-    インポート＆amp;書き出す
+インポートと輸出
    </header>
    <ul>
     <li>
-     配列
+配列
     </li>
     <li>
-     ResultSet
+結果セット
     </li>
     <li>
-     コレクション
+コレクション
     </li>
    </ul>
    <header>
     <i class="fa fa-cog">
     </i>
-    レンダリング
+レンダリング
    </header>
    <ul>
     <li>
-     チャートから画像へ
+チャートから画像へ
     </li>
     <li>
-     画像へのワークシート
+ワークシートから画像へ
     </li>
     <li>
-     PDFへのスプレッドシート
+スプレッドシートから PDF
     </li>
    </ul>
   </div>
@@ -63,23 +62,23 @@ description: 読み取り/書き込みを作成し、Excelファイルを解析�
    <header>
     <i class="fa fa-table">
     </i>
-    情報処理
+情報処理
    </header>
    <ul>
     <li>
-     フォーマットを適用する
+書式設定を適用する
     </li>
     <li>
-     フォーミュラを適用する
+式を適用する
     </li>
     <li>
-     チャートを作成する
+グラフの作成
     </li>
     <li>
-     要約する
+要約する
     </li>
     <li>
-     スマートマーカー
+スマートマーカー
     </li>
    </ul>
   </div>
@@ -94,9 +93,9 @@ description: 読み取り/書き込みを作成し、Excelファイルを解析�
   <footer>
    <small>
     <em>
-     にとって
+ために
     </em>
-    Java経由のAndroid
+アンドロイド via Java
    </small>
   </footer>
  </div>
@@ -105,7 +104,7 @@ description: 読み取り/書き込みを作成し、Excelファイルを解析�
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="プラットフォームの独立性" description="Javaを介したAndroidのAspose.Cellsは、Android2.0以降で使用できます。" >}}
+{{< blocks/products/pf/carousel-item h3="プラットフォームの独立性" description="Aspose.Cells for Android via Java は for Android 2.0 以降で使用できます。" >}}
 <div class="diagram1 d1-android">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -115,11 +114,11 @@ description: 読み取り/書き込みを作成し、Excelファイルを解析�
    <header style="padding-left: 0px;">
     <i class="fa fa-cogs">
     </i>
-    Androidランタイム環境
+ Android ランタイム環境
    </header>
    <ul>
     <li>
-     モバイルアプリ
+モバイルアプリ
     </li>
    </ul>
   </div>
@@ -134,9 +133,9 @@ description: 読み取り/書き込みを作成し、Excelファイルを解析�
   <footer>
    <small>
     <em>
-     にとって
+ために
     </em>
-    Java経由のAndroid
+アンドロイド via Java
    </small>
   </footer>
  </div>
@@ -145,39 +144,39 @@ description: 読み取り/書き込みを作成し、Excelファイルを解析�
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="サポートされているファイル形式" description="AndroidスプレッドシートAPIは、一般的なMicrosoft Excel形式、画像、固定レイアウト形式をサポートしています。" >}}
+{{< blocks/products/pf/carousel-item h3="サポートされているファイル形式" description="Android スプレッドシート API は、一般的な Microsoft Excel 形式、画像、および固定レイアウト形式をサポートしています。" >}}
 <div class="diagram1 d2 d1-android">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    入出力
+入出力
    </header>
    <ul>
     <li>
      <b>
-      マイクロソフトエクセル：
+Microsoft エクセル:
      </b>
-     XLS、XLSX、XLSB、XLTX、XLTM、XLSM、XML
+ XLS、XLSX、XLSB、XLTX、XLTM、XLSM、XML
     </li>
     <li>
      <b>
-      OpenOffice：
+オープンオフィス:
      </b>
      ODS
     </li>
     <li>
      <b>
-      文章：
+文章：
      </b>
-     CSV、TSV、TXT
+     CSV, TSV, TXT
     </li>
     <li>
      <b>
-      ウェブ：
+ウェブ：
      </b>
-     HTML、MHTML
+     HTML, MHTML
     </li>
    </ul>
   </div>
@@ -186,20 +185,20 @@ description: 読み取り/書き込みを作成し、Excelファイルを解析�
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    出力のみ
+出力のみ
    </header>
    <ul>
     <li>
      <b>
-      固定レイアウト：
+固定レイアウト:
      </b>
-     PDF、PDF / A、XPS
+ PDF、PDF/A、XPS
     </li>
     <li>
      <b>
-      画像：
+画像:
      </b>
-     JPEG、PNG、BMP、SVG、EMF
+     JPEG, PNG, BMP, SVG, EMF
     </li>
    </ul>
   </div>
@@ -214,9 +213,9 @@ description: 読み取り/書き込みを作成し、Excelファイルを解析�
   <footer>
    <small>
     <em>
-     にとって
+ために
     </em>
-    Java経由のAndroid
+アンドロイド via Java
    </small>
   </footer>
  </div>
@@ -235,7 +234,7 @@ description: 読み取り/書き込みを作成し、Excelファイルを解析�
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    高度なAndroidExcelAPIの機能
+高度な Android Excel API の機能
    </h2>
    <p>
    </p>
@@ -243,105 +242,105 @@ description: 読み取り/書き込みを作成し、Excelファイルを解析�
     <em class="fa fa-th ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     ワークシート、行、列、セル、および範囲に書式を適用します
+ワークシート、行、列、セル、範囲に書式設定を適用する
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-exchange ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     ArrayList、Array、Recordset＆amp;からデータをエクスポートおよびインポートします。結果セット
+ArrayList、Array、Recordset、およびからデータをエクスポートおよびインポートします。結果セット
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-unlock ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     暗号化＆amp; Excelファイルを復号化する
+暗号化と暗号化Excelファイルを復号化する
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sort-numeric-asc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     数値の書式を設定する
+数値の書式設定を設定する
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     作成＆amp;チャートを操作する
+作成とチャートを操作する
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-comment ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     作成＆amp;コメントを操作する
+作成とコメントを操作する
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-calculator ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     読み取り、設定、数式を計算する
+読み取り、設定、および式を計算する
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     ページ設定を構成する
+ページ設定を構成する
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     セット＆amp;自動フィルターを操作する＆amp;ページ分割
+セット＆オートフィルターと改ページ
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-edit ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     読む＆amp;条件付き書式を書く
+読んで、条件付き書式の書き込み
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     既存のワークシートのコピーを作成する
+既存のワークシートのコピーを作成する
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     MicrosoftExcelXP以降に導入された保護オプションを設定する
+Microsoft Excel XP 以降に導入された保護オプションを設定する
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-columns ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     細胞を操作する＆amp;名前付き範囲
+細胞を操作し、名前付き範囲
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-pdf-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     ExcelファイルをPDFに変換する
+Excel ファイルを PDF に変換
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     ワークシートを変換＆amp;画像へのチャート
+ワークシートと変換グラフから画像へ
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -420,54 +419,54 @@ description: 読み取り/書き込みを作成し、Excelファイルを解析�
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     作成＆amp;ピボットテーブルを操作する
+作成とピボットテーブルを操作する
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bar-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     作成＆amp;カスタムチャートを操作する
+作成とカスタムチャートを操作する
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-crosshairs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     先例と扶養家族を追跡する
+前例と従属を追跡する
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-edit ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     作成＆amp;シナリオを操作する
+作成とシナリオを操作する
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-subscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     強力な数式計算エンジン
+強力な数式計算エンジン
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-text ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     読む＆amp; TSV、CSV、 HTMLファイル
+読んで、 TSV、CSV、および書き込みHTML ファイル
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     さまざまなフォーマットの変換
+異なるフォーマットの変換
     </h2>
     <p>
-     Android Excelライブラリは、スプレッドシートからXPS、PDF、および最高の視覚的忠実度を維持するHTML形式。信頼性の高い変換プロセスにより、APIは、業界標準の形式でファイルを交換するための企業にとって最適な選択肢になります。
+Android Excel ライブラリは、スプレッドシートを XPS、PDF、および XPS に変換できます。 HTML 形式は、最高の視覚的忠実度を維持します。信頼性の高い変換プロセスにより、API は業界標準形式でファイルを交換する企業にとって最適な選択肢となります。
     </p>
     <div class="codeblock" id="code">
      <h3>
-      ブックをさまざまな形式で保存する-Java
+ワークブックをさまざまな形式で保存 - Java
      </h3>
      <pre><code class="java">// load file to be converted
 
@@ -491,18 +490,18 @@ wkb.save(SD_PATH + "output.html", SaveFormat.HTML);</code></pre>
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     スプレッドシートオブジェクトをさまざまな形式に変換する
+スプレッドシート オブジェクトを別の形式に変換する
     </h2>
     <p>
-     Aspose.Cells for Android via Javaは、ワークシートから画像、グラフから画像など、いくつかの特徴的な機能を提供します。 PDFおよびスプレッドシートからPDFドキュメント形式への変換。柔軟なプロセスには、スプレッドシートからPDFへの画像の再サンプリングや、ワークシートのレンダリング時の結果の画像サイズの設定など、変換のための多くの選択肢があります。チャートから画像フォーマットへ。
+Aspose.Cells for Android via Java は、ワークシートから画像への変換、グラフから画像への変換など、いくつかの特徴的な機能を提供します。 PDF とスプレッドシートから PDF ドキュメント形式への変換。柔軟なプロセスには、スプレッドシート中に画像を PDF に再サンプリングしたり、ワークシートやワークシートをレンダリングするときに結果の画像の寸法を設定したりするなど、変換に関する多くの選択肢があります。チャートから画像フォーマットへ。
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     スプレッドシートAPI数式計算エンジン
+スプレッドシート API 数式計算エンジン
     </h2>
     <p>
-     AndroidスプレッドシートAPIは、高度な標準のMicrosoftExcel関数と数式をサポートする強力な数式計算エンジンを提供します。数式計算エンジンを使用すると、組み込み型またはアドイン型、配列、およびR1C1参照スタイルの数式の結果を簡単に読み取り、設定、および計算できます。
+Android シート API は、高度なおよび標準の Microsoft Excel 関数と数式をサポートする強力な数式計算エンジンを提供します。数式計算エンジンにより、組み込みまたはアドインのタイプ、配列、および R1C1 参照スタイルの数式の結果の読み取り、設定、計算が簡単になります。
     </p>
    </div>
    <!--
@@ -573,26 +572,26 @@ wkb.save(SD_PATH + "output.html", SaveFormat.HTML);</code></pre>
 {{< blocks/products/pf/slr-tab tabTitle="学習リソース" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="ドキュメンテーション" href="https://docs.aspose.com/cells/androidjava/" >}}
 {{< blocks/products/pf/slr-element name="ソースコード" href="https://github.com/aspose-cells/Aspose.Cells-for-Java" >}}
-{{< blocks/products/pf/slr-element name="API参照" href="https://reference.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="API 参照先" href="https://reference.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="チュートリアルビデオ" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="製品サポート" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="無料サポート" href="https://forum.aspose.com/c/cells" >}}
+{{< blocks/products/pf/slr-element name="無料サポート" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="有料サポート" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="ブログ" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="なぜJavaを介してAndroid用のAspose.Cells？" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="なぜ Aspose.Cells for Android via Java?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="顧客リスト" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="サクセスストーリー" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
+{{< blocks/products/pf/slr-element name="成功事例" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/androidjava" pricingInformationLink="https://purchase.aspose.com/pricing/cells/android-java" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cellsは、以下に示すように、他の一般的な開発環境向けに個別のExcelAPIを提供します。" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells は、以下に示す他の一般的な開発環境向けに個別の Excel API を提供します。" >}}
 
     {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sdkName=".NET" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sdkName="Java" >}}

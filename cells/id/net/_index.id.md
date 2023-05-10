@@ -1,11 +1,10 @@
 ---
-title: .NET Excel API | Memproses Format Spreadsheet melalui .NET Core 
+title:  .NET Excel API | Proses Format Spreadsheet via .NET Core
 weight: 2030
-
-description: Pustaka C# ASP.NET VB.NET untuk bekerja dengan dokumen Microsoft Excel. Buat baca tulis simpan dan cetak file Spreadsheet. Konversikan ke PDF atau lebih banyak format
+description: C# ASP.NET Pustaka VB.NET untuk bekerja dengan Microsoft dokumen Excel. Buat baca tulis simpan dan cetak file Spreadsheet . Konversikan ke format PDF atau lebih
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Memanipulasi File Excel melalui .NET API" h2="Membaca dan Menulis file spreadsheet pada platform .NET, .NET Core & Xamarin. Ekspor spreadsheet ke format lain tanpa Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-net.svg" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/cells/net" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Memanipulasi File Excel via .NET API" h2="Baca dan Tulis file spreadsheet di platform .NET, .NET Core & Xamarin. Ekspor spreadsheet ke format lain tanpa Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-net.svg" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/cells/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for .NET" >}}
 
@@ -13,11 +12,11 @@ description: Pustaka C# ASP.NET VB.NET untuk bekerja dengan dokumen Microsoft Ex
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for .NET adalah Pemrograman Spreadsheet Excel API untuk mempercepat tugas pengelolaan dan pemrosesan spreadsheet. API mendukung untuk membangun aplikasi lintas platform yang memiliki kemampuan untuk menghasilkan, memodifikasi, mengonversi, merender, dan mencetak spreadsheet. Selain itu, Ini tidak bergantung pada Microsoft Excel atau komponen Interop Microsoft Office apa pun yang akan diinstal tetapi seperangkat API yang kuat yang menangani semua format Excel serta format CSV dan SpreadsheetML.
+ Aspose.Cells for .NET adalah Pemrograman Spreadsheet Excel API untuk mempercepat pengelolaan spreadsheet dan tugas pemrosesan. API mendukung untuk membangun aplikasi lintas platform yang memiliki kemampuan untuk menghasilkan, memodifikasi, mengonversi, merender, dan mencetak spreadsheet. Selain itu, itu tidak bergantung pada Microsoft Excel atau komponen Office Interop Microsoft apa pun untuk diinstal, tetapi seperangkat API yang kuat yang menangani semua format Excel serta format CSV dan SpreadsheetML.
 </p>
 
 <p>
- Dengan mengintegrasikan API, beberapa tugas dasar yang dapat dilakukan pengembang seperti mengelola beberapa lembar kerja, membuat konten dan gaya spreadsheet dari awal, mengimpor data ke lembar kerja dari sumber data yang berbeda, menambahkan rumus Matematika, Keuangan, dan Teks yang umum dan kompleks, manipulasi grafik, gambar, komentar, menggambar objek dan banyak lagi.
+Dengan mengintegrasikan API, beberapa tugas dasar yang dapat dilakukan pengembang seperti mengelola beberapa lembar kerja, membuat konten dan gaya spreadsheet dari awal, mengimpor data ke lembar kerja dari sumber data yang berbeda, menambahkan rumus Matematika, Keuangan, dan Teks yang umum dan kompleks, manipulasi bagan, gambar, komentar, menggambar objek dan banyak lagi.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -25,49 +24,49 @@ description: Pustaka C# ASP.NET VB.NET untuk bekerja dengan dokumen Microsoft Ex
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Sekilas" description="Ikhtisar tentang API kemampuan." >}}
+{{< blocks/products/pf/carousel-item h3="Sekilas" description="Ikhtisar kemampuan API." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-television">
     </i>
-    Rendering
+ Merender
    </header>
    <ul>
     <li>
-     Bagan ke Gambar
+ Bagan ke Gambar
     </li>
     <li>
-     Lembar kerja ke Gambar
+ Lembar Kerja ke Gambar
     </li>
     <li>
-     Spreadsheet ke PDF
+ Spreadsheet ke PDF
     </li>
     <li>
-     Pencetakan
+ Pencetakan
     </li>
    </ul>
    <header>
     <i class="fa fa-cogs">
     </i>
-    Pengolahan data
+ Pengolahan data
    </header>
    <ul>
     <li>
-     Terapkan Pemformatan
+ Terapkan Pemformatan
     </li>
     <li>
-     Buat Bagan
+ Buat Bagan
     </li>
     <li>
-     Terapkan Rumus
+ Terapkan Formula
     </li>
     <li>
-     Meringkaskan
+ Meringkaskan
     </li>
     <li>
-     Penanda Cerdas
+ Penanda Cerdas
     </li>
    </ul>
   </div>
@@ -76,23 +75,23 @@ description: Pustaka C# ASP.NET VB.NET untuk bekerja dengan dokumen Microsoft Ex
    <header>
     <i class="fa fa-table">
     </i>
-    Grid Suite
+ Paket Kotak
    </header>
    <ul>
     <li>
-     Kontrol Desktop untuk WinForms
+ Kontrol Desktop untuk WinForms
     </li>
     <li>
-     Kontrol Web untuk ASP.NET
+ Kontrol Web untuk ASP.NET
     </li>
     <li>
-     Terapkan Pemformatan
+ Terapkan Pemformatan
     </li>
     <li>
-     Terapkan Rumus
+ Terapkan Formula
     </li>
     <li>
-     Impor/Ekspor Data
+ Impor/Ekspor Data
     </li>
    </ul>
   </div>
@@ -107,7 +106,7 @@ description: Pustaka C# ASP.NET VB.NET untuk bekerja dengan dokumen Microsoft Ex
   <footer>
    <small>
     <em>
-     untuk
+ untuk
     </em>
     .NET
    </small>
@@ -118,7 +117,7 @@ description: Pustaka C# ASP.NET VB.NET untuk bekerja dengan dokumen Microsoft Ex
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Platform Kemerdekaan" description="API mendukung kerangka kerja .NET, .NET platform Inti & Xamarin. Selain itu, dapat digunakan dengan Mono & beberapa platform lain melalui COM Interop ." >}}
+{{< blocks/products/pf/carousel-item h3="Kemandirian Platform" description="API mendukung kerangka kerja .NET, platform Inti & Xamarin .NET. Selain itu, dapat digunakan dengan Mono & beberapa platform lainnya melalui COM Interop." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -140,11 +139,11 @@ description: Pustaka C# ASP.NET VB.NET untuk bekerja dengan dokumen Microsoft Ex
    <header>
     <i class="fa fa-cubes">
     </i>
-    COM Interop
+ Interop COM
    </header>
    <ul>
     <li>
-     PHP, VBScript, Delphi, C++
+ PHP, VBScript, Delphi, C++
     </li>
    </ul>
   </div>
@@ -153,26 +152,26 @@ description: Pustaka C# ASP.NET VB.NET untuk bekerja dengan dokumen Microsoft Ex
    <header>
     <i class="fa fa-cubes">
     </i>
-    .NET Kerangka
+ Kerangka .NET
    </header>
    <br/>
    <header>
     <i class="fa fa-cubes">
     </i>
-    .NET Inti
+ .NET Inti
    </header>
    <br/>
    <header>
     <i class="fa fa-cubes">
     </i>
-    Platform Xamarin
+ Platform Xamarin
    </header>
    <ul>
     <li>
-     Xamarin.Android
+ Xamarin.Android
     </li>
     <li>
-     Xamarin.iOS
+ Xamarin.iOS
     </li>
    </ul>
    <!--
@@ -202,7 +201,7 @@ description: Pustaka C# ASP.NET VB.NET untuk bekerja dengan dokumen Microsoft Ex
   <footer>
    <small>
     <em>
-     untuk
+ untuk
     </em>
     .NET
    </small>
@@ -213,45 +212,45 @@ description: Pustaka C# ASP.NET VB.NET untuk bekerja dengan dokumen Microsoft Ex
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Format File yang Didukung" description="Aspose.Cells for .NET mendukung spreadsheet populer [format file](https://docs.aspose.com/cells/net/supported-file-formats/)  serta format gambar & tata letak tetap yang paling umum digunakan." >}}
+{{< blocks/products/pf/carousel-item h3="Format File yang Didukung" description=" Aspose.Cells for .NET mendukung spreadsheet populer[format file](https://docs.aspose.com/cells/net/supported-file-formats/) serta format gambar & tata letak tetap yang paling umum digunakan." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Input output
+ Input output
    </header>
    <ul>
     <li>
      <b>
-      Microsoft Excel:
+ Microsoft Unggul:
      </b>
-     XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML
     </li>
     <li>
      <b>
-      Kantor terbuka:
+ Kantor terbuka:
      </b>
      ODS
     </li>
     <li>
      <b>
-      Teks:
+ Teks:
      </b>
      CSV, TSV
     </li>
     <li>
      <b>
-      Web:
+ Web:
      </b>
      HTML, MHTML
     </li>
     <li>
      <b>
-      Nomor:
+      Numbers:
      </b>
-     Dokumen aplikasi Numbers iWork office suite Apple
+ Dokumen aplikasi iWork office suite Numbers Apple
     </li>
    </ul>
   </div>
@@ -260,24 +259,24 @@ description: Pustaka C# ASP.NET VB.NET untuk bekerja dengan dokumen Microsoft Ex
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    Keluaran Saja
+ Keluaran Saja
    </header>
    <ul>
     <li>
      <b>
-      Tata Letak Tetap:
+ Tata Letak Tetap:
      </b>
-     PDF, PDF/A, XPS
+ PDF, PDF/A, XPS
     </li>
     <li>
      <b>
-      Pertukaran Data:
+ Pertukaran Data:
      </b>
      DIF
     </li>
     <li>
      <b>
-      Gambar-gambar:
+ Gambar-gambar:
      </b>
      JPEG, PNG, BMP, SVG, TIFF, EMF, GIF
     </li>
@@ -294,7 +293,7 @@ description: Pustaka C# ASP.NET VB.NET untuk bekerja dengan dokumen Microsoft Ex
   <footer>
    <small>
     <em>
-     untuk
+ untuk
     </em>
     .NET
    </small>
@@ -315,7 +314,7 @@ description: Pustaka C# ASP.NET VB.NET untuk bekerja dengan dokumen Microsoft Ex
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Spreadsheet Excel Lanjutan API Fitur
+Fitur Excel Spreadsheet API Tingkat Lanjut
    </h2>
    <!-- <p>Unlike similar products from other vendors, Aspose.Cells for .NET not only supports spreadsheet generation and other basic file formatting features, it also supports a number of advanced features. These advanced features make it much easier for the developers to manipulate spreadsheet contents, cell formatting and file protection.</p>
 
@@ -326,138 +325,138 @@ description: Pustaka C# ASP.NET VB.NET untuk bekerja dengan dokumen Microsoft Ex
     <em class="fa fa-chrome ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Kirim output ke browser klien
+ Kirim output ke browser klien
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-exchange ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Impor/ekspor data ke &amp; dari DataTable, DataView atau Array
+ Impor/ekspor data ke &amp; dari DataTable, DataView atau Array
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Tambahkan &amp; memanipulasi grafik &amp; PivotTable melalui produk API
+ Tambahkan &amp; memanipulasi grafik &amp; PivotTable melalui produk API
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Impor rumus dari spreadsheet desainer
+ Impor formula dari spreadsheet desainer
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-scissors ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Memotong nama lembar panjang &amp; ganti karakter yang tidak valid saat run-time
+ Potong panjang lembar nama &amp; ganti karakter yang tidak valid saat run-time
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-align-right ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Terapkan perataan teks ke sebagian teks di dalam TextBox
+ Terapkan perataan teks ke sebagian teks di dalam TextBox
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-columns ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Tempel baris &amp; kolom dengan opsi tempel lanjutan
+ Tempel baris &amp; kolom dengan opsi tempel tingkat lanjut
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Dukungan untuk CSV (nilai yang dipisahkan koma) &amp; TSV (nilai yang dipisahkan tab)
+ Dukungan untuk CSV (nilai yang dipisahkan koma) &amp; TSV (nilai yang dipisahkan tab)
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Buat &amp; memanipulasi komentar
+ Buat &amp; memanipulasi komentar
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Setel filter otomatis &amp; jeda halaman
+ Setel filter otomatis &amp; jeda halaman
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-align-center ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Tentukan aturan pemformatan bersyarat
+ Tentukan aturan pemformatan bersyarat
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sort-amount-desc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Buat &amp; memanipulasi rentang bernama
+ Buat &amp; memanipulasi rentang bernama
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-line-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Buat &amp; membuat grafik mini
+ Buat &amp; membuat grafik mini
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-columns ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Ekspor lembar kerja ke format SVG
+ Ekspor lembar kerja ke format SVG
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Baca &amp; tulis spreadsheet besar dalam mode ringan
+ Baca &amp; tulis spreadsheet besar dalam mode ringan
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Contoh ulang gambar dalam konversi Excel-ke-PDF
+ Sampel ulang gambar dalam konversi Excel-ke-PDF
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-code-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Ubah kode VBA atau Makro di file template
+ Ubah kode VBA atau Macro di file template
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-plus-square ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Isi spreadsheet melalui Penanda Cerdas
+ Isi spreadsheet melalui Smart Marker
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Konversikan Spreadsheet ke PDF, XPS &amp; Format HTML
+Ubah Spreadsheet menjadi PDF, XPS &amp; HTML Format
     </h2>
     <p>
-     Aspose.Cells for .NET mampu mengonversi spreadsheet ke PDF, XPS &amp; Format HTML sambil mempertahankan kesetiaan visual tertinggi. Proses konversinya sederhana namun dapat diandalkan, sehingga menjadikan API pilihan yang sempurna bagi organisasi yang perlu bertukar dokumen dalam format standar industri apa pun.
+ Aspose.Cells for .NET mampu mengubah spreadsheet menjadi PDF, XPS &amp; HTML dengan tetap mempertahankan fidelitas visual tertinggi. Proses konversinya sederhana namun dapat diandalkan, sehingga menjadikan API pilihan yang sempurna untuk organisasi yang perlu bertukar dokumen dalam format standar industri mana pun.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Simpan spreadsheet dalam format berbeda - C#
+ Simpan spreadsheet dalam berbagai format - C#
      </h3>
      <pre><code class="cs">// load file to be converted
 
@@ -476,41 +475,41 @@ workbook.Save(dir + "output.html", Aspose.Cells.SaveFormat.Html);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Visualisasikan Data dengan Pemformatan, Bagan &amp; grafis
+ Visualisasikan Data dengan Pemformatan, Bagan &amp; Grafik
     </h2>
     <p>
-     Aspose.Cells for .NET memberi Anda kebebasan dan fleksibilitas penuh untuk melengkapi spreadsheet Anda dengan semua jenis efek visual. API memungkinkan Anda untuk menerapkan font yang berbeda dengan atribut, gaya sel (perataan, lekukan, rotasi, batas, bayangan dan pewarnaan, perlindungan, pembungkusan dan penyusutan teks) dan semua jenis format angka.
+ Aspose.Cells for .NET memberi Anda kebebasan dan fleksibilitas penuh untuk melengkapi spreadsheet Anda dengan semua jenis efek visual. The API memungkinkan Anda untuk menerapkan font yang berbeda dengan atribut, gaya sel (perataan, lekukan, rotasi, batas, bayangan dan pewarnaan, perlindungan, pembungkusan dan penyusutan teks) dan semua jenis format angka.
     </p>
     <p>
-     Demikian pula, bagan dan grafik menarik secara visual dan dapat memberikan tampilan profesional pada spreadsheet Anda. Aspose.Cells for .NET menyediakan serangkaian API yang lengkap untuk membuat dan memanipulasi semua jenis bagan standar dan khusus. Selain itu, Anda dapat menambahkan berbagai jenis objek gambar, seperti komentar, gambar, objek OLE, bentuk, dan kontrol ke sel
-    </p>
-   </div>
-   <div class="col-lg-12">
-    <h2 class="h2title">
-     Efisien, Kuat &amp; Mesin Penghitung Formula yang Andal
-    </h2>
-    <p>
-     Aspose.Cells for .NET memiliki Mesin Penghitung Rumus canggih yang mendukung hampir semua rumus dan fungsi Microsoft Excel standar dan lanjutan. Anda dapat membaca, mengatur dan menghitung hasil built-in, add-in, array &amp; Rumus gaya referensi R1C1.
+Demikian pula, bagan dan grafik menarik secara visual dan dapat memberikan tampilan profesional pada spreadsheet Anda. Aspose.Cells for .NET menyediakan kumpulan lengkap API untuk membuat dan memanipulasi semua jenis bagan standar dan kustom. Selain itu, Anda dapat menambahkan berbagai jenis objek gambar, seperti komentar, gambar, objek OLE, bentuk, dan kontrol ke sel
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Ringkas Data dengan Tabel Pivot, Bagan &amp; Penanda Cerdas
+ Efisien, Kuat &amp; Mesin Penghitung Formula yang Andal
     </h2>
     <p>
-     Tabel Pivot dapat membantu Anda meringkas data datar dengan cepat dan mendapatkan informasi yang diinginkan sesuai dengan kebutuhan Anda. .NET Pustaka Excel memungkinkan Anda membuat Pivot Table dan Pivot Chart secara dinamis. Anda dapat secara dinamis mengubah data sumber Tabel Pivot dan menyegarkannya. Selain itu, perpustakaan menawarkan Penanda Cerdas yang merupakan fitur hebat untuk mengisi lembar kerja berdasarkan beberapa sumber data dan untuk membuat laporan yang efektif secara visual.
+ Aspose.Cells for .NET memiliki Mesin Perhitungan Rumus yang kuat yang mendukung hampir semua rumus dan fungsi Microsoft Excel standar dan lanjutan. Anda dapat membaca, mengatur, dan menghitung hasil dari fungsi built-in, add-in, array &amp; Rumus gaya referensi R1C1.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Render Lembar Kerja Excel &amp; Bagan sebagai Gambar
+ Ringkas Data dengan Tabel Pivot, Bagan &amp; Penanda Cerdas
     </h2>
     <p>
-     Aspose.Cells for .NET memiliki mesin rendering sendiri yang dirancang khusus untuk rendering &amp; pencetakan dengan kesetiaan tertinggi ke Microsoft Excel. Ini menawarkan fitur khas seperti rendering lembar kerja Excel &amp; bagan ke gambar &amp; mencetak lembar kerja ke printer fisik apa pun yang terhubung. Prosesnya fleksibel sehingga memungkinkan Anda memilih sejumlah opsi, seperti mengontrol dimensi gambar yang dihasilkan saat merender lembar kerja &amp; grafik ke gambar.
+Tabel Pivot dapat membantu Anda meringkas data datar dengan cepat dan mendapatkan informasi yang diinginkan sesuai dengan kebutuhan Anda. .NET Pustaka Excel memungkinkan Anda membuat Tabel Pivot dan Bagan Pivot secara dinamis. Anda dapat secara dinamis mengubah data sumber Tabel Pivot dan menyegarkannya. Selain itu, perpustakaan menawarkan Penanda Cerdas yang merupakan fitur hebat untuk mengisi lembar kerja berdasarkan beberapa sumber data dan untuk membuat laporan yang efektif secara visual.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+ Render Lembar Kerja &amp; Bagan sebagai Gambar
+    </h2>
+    <p>
+ Aspose.Cells for .NET memiliki mesin rendering sendiri yang dirancang khusus untuk rendering &amp; mencetak dengan ketelitian tertinggi ke Microsoft Excel. Ini menawarkan fitur khas seperti merender lembar kerja &amp; bagan ke gambar &amp; mencetak lembar kerja ke printer fisik yang terhubung. Prosesnya fleksibel sehingga memungkinkan Anda memilih sejumlah opsi, seperti mengontrol dimensi gambar yang dihasilkan saat merender lembar kerja &amp; grafik hingga gambar.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Mengonversi lembar kerja menjadi gambar - C#
+Konversi lembar kerja menjadi gambar - C#
      </h3>
      <pre><code class="cs">// load spreadsheet file
 
@@ -541,26 +540,26 @@ renderer.ToImage(0, dir + "output.jpeg");</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Pembuatan Bagan &amp; Manipulasi
+ Pembuatan Bagan &amp; Manipulasi
     </h2>
     <p>
-     Aspose.Cells for .NET dilengkapi dengan dukungan lengkap untuk pembuatan bagan. Anda dapat dengan mudah menambahkan bagan standar atau yang disesuaikan menggunakan produk API dan mengatur data secara dinamis untuk menyegarkan bagan. API juga memungkinkan Anda mengonversi bagan ke sejumlah format gambar.
+ Aspose.Cells for .NET hadir dengan dukungan lengkap untuk charting. Anda dapat dengan mudah menambahkan grafik standar atau kustom menggunakan produk API dan mengatur data secara dinamis untuk menyegarkan grafik. API juga memungkinkan Anda mengonversi bagan ke beberapa format gambar.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Antarmuka Grafis untuk Web &amp; Aplikasi Desktop
+ Antarmuka Grafis untuk Web &amp; Aplikasi Desktop
     </h2>
     <p>
-     Aspose.Cells for .NET menyediakan kontrol GUI untuk web &amp; aplikasi desktop. Pengguna akhir dapat menggunakan kontrol ini untuk membuka, menyimpan &amp; edit file Excel, impor &amp; mengekspor data, mengelola pemformatan &amp; formula dan konversi di antara beberapa format spreadsheet yang didukung, langsung dari front-end aplikasi Anda.
+ Aspose.Cells for .NET menyediakan kontrol GUI untuk web &amp; aplikasi desktop. Pengguna akhir dapat menggunakan kontrol ini untuk membuka, menyimpan &amp; edit file Excel, impor &amp; mengekspor data, mengelola pemformatan &amp; formula dan konversi antara beberapa format spreadsheet yang didukung, langsung dari front-end aplikasi Anda.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Otomatisasi Microsoft Office – Tidak Diperlukan
+ Microsoft Otomasi Kantor – Tidak Diperlukan
     </h2>
     <p>
-     Aspose.Cells for .NET dibuat menggunakan kode terkelola yang tidak memerlukan Microsoft Office atau Microsoft Excel untuk diinstal pada mesin agar dapat bekerja dengan format dokumen Excel. Ini adalah alternatif otomatisasi Microsoft Office yang sempurna dalam hal fitur yang didukung, keamanan, stabilitas, skalabilitas, kecepatan, dan harga.
+Aspose.Cells for .NET dibuat menggunakan kode terkelola yang tidak memerlukan Microsoft Office atau Microsoft Excel untuk diinstal pada mesin agar berfungsi dengan format dokumen Excel. Ini adalah alternatif otomatisasi Office Microsoft yang sempurna dalam hal fitur yang didukung, keamanan, stabilitas, skalabilitas, kecepatan, dan harga.
     </p>
    </div>
   </div>
@@ -570,22 +569,22 @@ renderer.ToImage(0, dir + "output.jpeg");</code></pre>
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="Apa yang Orang Katakan" subTitle="Jangan hanya mengambil kata kami untuk itu. Lihat apa yang pengguna katakan tentang itu." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.cells/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Apa Kata Orang" subTitle="Jangan hanya mengambil kata kami untuk itu. Lihat apa yang dikatakan pengguna tentangnya." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.cells/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
- Sebagai perusahaan layanan perangkat lunak, kami memahami betapa pentingnya layanan pelanggan saat bekerja dengan klien. Saya senang melihat Aspose berbagi nilai ini dengan kami. Aspose.Cells adalah alat yang sangat baik, memiliki keunggulan kecepatan yang signifikan dibandingkan VBA.
+ Sebagai perusahaan layanan perangkat lunak, kami memahami betapa pentingnya layanan pelanggan saat bekerja dengan klien. Saya senang melihat Aspose berbagi nilai ini dengan kami. Aspose.Cells adalah alat yang luar biasa, memiliki keunggulan kecepatan yang signifikan dibandingkan VBA.
  <em>
-  Paul Katz | Intersoft, AS
+ Paul Katz | Intersoft, AS
  </em>
 </p>
 {{< /blocks/products/pf/testimonials-quote >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="second">
- Paket dan dukungan produk Aspose tidak ada duanya. Kami tidak dapat melakukan apa yang kami lakukan tanpa solusi ini.
+ Rangkaian produk dan dukungan Aspose tidak ada duanya. Kami tidak dapat melakukan apa yang kami lakukan tanpa solusi ini.
  <em>
-  Dr Dan Patterson | Kecerdasan, Inggris
+ Dan Patterson | Akumen, Inggris
  </em>
 </p>
 {{< /blocks/products/pf/testimonials-quote >}}
@@ -601,13 +600,13 @@ renderer.ToImage(0, dir + "output.jpeg");</code></pre>
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Dukungan Produk" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Dukungan Gratis" href="https://forum.aspose.com/c/cells" >}}
+{{< blocks/products/pf/slr-element name="Dukungan Gratis" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="Dukungan Berbayar" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/cells/" >}}
 {{< blocks/products/pf/slr-element name="Catatan Rilis" href="https://docs.aspose.com/cells/net/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Mengapa Aspose.Cells for .NET?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Kenapa Aspose.Cells for .NET?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Daftar Pelanggan" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Cerita-cerita sukses" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}
@@ -616,7 +615,7 @@ renderer.ToImage(0, dir + "output.jpeg");</code></pre>
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/net" pricingInformationLink="https://purchase.aspose.com/pricing/cells/net" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells menawarkan API Excel individual untuk lingkungan pengembangan populer lainnya seperti yang tercantum di bawah ini:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells menawarkan API Excel individu untuk lingkungan pengembangan populer lainnya seperti yang tercantum di bawah ini:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sdkName="Java" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/cpp/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sdkName="C++" >}}

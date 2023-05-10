@@ -1,19 +1,18 @@
 ---
-title: PythonExcelスプレッドシートAPI-Aspose 
+title:  Python Excel スプレッドシート API - Aspose
 weight: 2820
-
-description: Pythonスプレッドシートライブラリ。読み取り/書き込みを作成し、Excelファイルを解析します。
+description: Python Excel ファイルを作成し、読み書きし、解析するためのスプレッドシート ライブラリ。
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="PythonExcelスプレッドシート解析API" h2="スプレッドシートの生成、読み取り、書き込み、操作、およびPythonアプリケーション内の複数の形式へのExcelファイルのエクスポート。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-python-java.svg" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="https://downloads.aspose.com/cells/python" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Python Excel スプレッドシート解析 API" h2="Python アプリケーション内でスプレッドシートを生成、読み取り、書き込み、操作するだけでなく、Excel ファイルを複数の形式にエクスポートします。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-python-java.svg" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="https://releases.aspose.com/cells/python-java/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Python via Java" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/python-java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cells/pythonjava/" installationsDocsLink="" nugetLink="" nugetPackageName="" pipLink="https://pypi.org/project/aspose-cells/" directDownloadLink="https://downloads.aspose.com/cells/python" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/python-java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cells/pythonjava/" installationsDocsLink="" nugetLink="" nugetPackageName="" pipLink="https://pypi.org/project/aspose-cells/" directDownloadLink="https://releases.aspose.com/cells/python-java/" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Python via Javaは、スプレッドシート処理タスク用の高速で信頼性の高いAPIです。開発者は、単純または複雑なスプレッドシートを作成し、Excelファイルから情報を操作および抽出できます。 APIは、複数のExcel形式を読み取り、ワークシートをXPS、PDF、MHTML、HTML、プレーンテキスト、画像などにレンダリングできます。 Pythonを使用してExcelレポートを自動化するのに最適なソリューションです。
+ Aspose.Cells for Python via Java は、スプレッドシート処理タスク用の高速で信頼性の高い API です。開発者は、単純または複雑なスプレッドシートを作成し、Excel ファイルから情報を操作したり抽出したりできます。 API は複数の Excel 形式を読み取り、ワークシートを XPS、PDF、MHTML、HTML、プレーン テキスト、画像などにレンダリングできます。 Python を使用して Excel レポートを自動化するための最良のソリューションです。
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -21,40 +20,40 @@ description: Pythonスプレッドシートライブラリ。読み取り/書き
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="一目で" description="API機能の概要。" >}}
+{{< blocks/products/pf/carousel-item h3="一目でわかる" description="API の機能の概要。" >}}
 <div class="diagram1 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-refresh">
     </i>
-    インポート＆amp;書き出す
+インポートと輸出
    </header>
    <ul>
     <li>
-     配列
+配列
     </li>
     <li>
-     ResultSet
+結果セット
     </li>
     <li>
-     コレクション
+コレクション
     </li>
    </ul>
    <header>
     <i class="fa fa-cog">
     </i>
-    レンダリング
+レンダリング
    </header>
    <ul>
     <li>
-     チャートから画像へ
+チャートから画像へ
     </li>
     <li>
-     画像へのワークシート
+ワークシートから画像へ
     </li>
     <li>
-     PDFへのスプレッドシート
+スプレッドシートから PDF
     </li>
    </ul>
   </div>
@@ -63,23 +62,23 @@ description: Pythonスプレッドシートライブラリ。読み取り/書き
    <header>
     <i class="fa fa-table">
     </i>
-    情報処理
+情報処理
    </header>
    <ul>
     <li>
-     フォーマットを適用する
+書式設定を適用する
     </li>
     <li>
-     フォーミュラを適用する
+式を適用する
     </li>
     <li>
-     チャートを作成する
+グラフの作成
     </li>
     <li>
-     要約する
+要約する
     </li>
     <li>
-     スマートマーカー
+スマートマーカー
     </li>
    </ul>
   </div>
@@ -94,9 +93,9 @@ description: Pythonスプレッドシートライブラリ。読み取り/書き
   <footer>
    <small>
     <em>
-     にとって
+ために
     </em>
-    Python経由Java
+    Python via Java
    </small>
   </footer>
  </div>
@@ -105,7 +104,7 @@ description: Pythonスプレッドシートライブラリ。読み取り/書き
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="プラットフォームの独立性" description="Java経由のPythonのAspose.Cellsはで利用できます。" >}}
+{{< blocks/products/pf/carousel-item h3="プラットフォームの独立性" description="Aspose.Cells for Python via Javaでご利用いただけます。" >}}
 <div class="diagram1 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -115,7 +114,7 @@ description: Pythonスプレッドシートライブラリ。読み取り/書き
    <header style="padding-left: 0px;">
     <i class="fa fa-cogs">
     </i>
-    Pythonランタイム環境
+ Python ランタイム環境
    </header>
    <!--<ul>
 
@@ -134,9 +133,9 @@ description: Pythonスプレッドシートライブラリ。読み取り/書き
   <footer>
    <small>
     <em>
-     にとって
+ために
     </em>
-    Python経由Java
+    Python via Java
    </small>
   </footer>
  </div>
@@ -145,39 +144,39 @@ description: Pythonスプレッドシートライブラリ。読み取り/書き
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="サポートされているファイル形式" description="Python Excelライブラリは、一般的なMicrosoft Excel形式、固定レイアウト形式、および画像をサポートしています。" >}}
+{{< blocks/products/pf/carousel-item h3="サポートされているファイル形式" description="Python Excel ライブラリは、一般的な Microsoft Excel 形式、固定レイアウト形式、および画像をサポートしています。" >}}
 <div class="diagram1 d2 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    入出力
+入出力
    </header>
    <ul>
     <li>
      <b>
-      マイクロソフトエクセル：
+Microsoft エクセル:
      </b>
-     XLS、XLSX、XLSB、XLTX、XLTM、XLSM、XML
+ XLS、XLSX、XLSB、XLTX、XLTM、XLSM、XML
     </li>
     <li>
      <b>
-      OpenOffice：
+オープンオフィス:
      </b>
      ODS
     </li>
     <li>
      <b>
-      文章：
+文章：
      </b>
-     CSV、TSV、TXT
+     CSV, TSV, TXT
     </li>
     <li>
      <b>
-      ウェブ：
+ウェブ：
      </b>
-     HTML、MHTML
+     HTML, MHTML
     </li>
    </ul>
   </div>
@@ -186,20 +185,20 @@ description: Pythonスプレッドシートライブラリ。読み取り/書き
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    出力のみ
+出力のみ
    </header>
    <ul>
     <li>
      <b>
-      固定レイアウト：
+固定レイアウト:
      </b>
-     PDF、PDF / A、XPS
+ PDF、PDF/A、XPS
     </li>
     <li>
      <b>
-      画像：
+画像:
      </b>
-     JPEG、PNG、BMP、SVG、EMF
+     JPEG, PNG, BMP, SVG, EMF
     </li>
    </ul>
   </div>
@@ -214,9 +213,9 @@ description: Pythonスプレッドシートライブラリ。読み取り/書き
   <footer>
    <small>
     <em>
-     にとって
+ために
     </em>
-    Python経由Java
+    Python via Java
    </small>
   </footer>
  </div>
@@ -235,7 +234,7 @@ description: Pythonスプレッドシートライブラリ。読み取り/書き
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    高度なPythonExcelAPIの機能
+高度な Python Excel API の機能
    </h2>
    <p>
    </p>
@@ -243,105 +242,105 @@ description: Pythonスプレッドシートライブラリ。読み取り/書き
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Excelスプレッドシートを読む
+Excel スプレッドシートを読む
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-share ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     スプレッドシートをPDF、EMF、画像にレンダリングする
+スプレッドシートを PDF、EMF、および画像にレンダリングする
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-th ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     ブック内のワークシートを調整する
+ワークブック内のワークシートを調整する
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-lock ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     ワークシートの保護/保護解除
+ワークシートの保護/保護解除
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bar-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     画像を追加し、グラフを作成します
+画像の追加とグラフの作成
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     ピボットテーブルとピボットグラフを作成する
+ピボットテーブルとピボットチャートを作成する
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-comment ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     セルレベルでコメントを追加および編集する
+セルレベルでコメントを追加および編集する
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-search ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     データの検索と置換
+データの検索と置換
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-exchange ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     セルを分割して結合する
+セルの分割と結合
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     行と列へのグループ化を追加または削除します
+行と列のグループ化を追加または削除する
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sort-numeric-asc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     数値の書式を設定する
+数値の書式設定を設定する
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-calculator ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     数式を読んで設定する
+数式の読み取りと設定
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     ページ設定を構成する
+ページ設定を構成する
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     ページの向き、スケーリング、用紙サイズを調整します
+ページの向き、拡大縮小、用紙サイズを調整する
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-edit ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     読む＆amp;条件付き書式を書く
+読んで、条件付き書式の書き込み
     </p>
    </div>
    <!--
@@ -413,21 +412,20 @@ description: Pythonスプレッドシートライブラリ。読み取り/書き
 -->
    <div class="col-lg-12">
     <h2 class="h2title">
-     複数のフォーマットの変換
+複数のフォーマットの変換
     </h2>
     <p>
-     Python Excelライブラリは、ExcelファイルからPDF、XPS、およびHTML形式。 APIの信頼性の高い変換は、業界標準の形式でファイルを交換する必要がある企業にとって完璧なソリューションになります。
+Python Excel ライブラリは、Excel ファイルを PDF、XPS および XPS に変換します。 HTML形式。 API の信頼性の高い変換により、業界標準形式でファイルを交換する必要がある企業にとって完璧なソリューションになります。
     </p>
     <div class="codeblock" id="code">
      <h3>
-      スプレッドシートをさまざまな形式で保存します-Java
+スプレッドシートをさまざまな形式で保存 - Java
      </h3>
-     <pre><code class="java">// load file to be converted
-
+     <pre><code class="java">
+// load file to be converted
 Workbook wkbk= new Workbook(SD_PATH + "template.xls");
 
 // Convert XLS to PDF, XPS and HTML
-
 wkbk.save(SD_PATH + "poutput.pdf", SaveFormat.PDF);
 
 wkbk.save(SD_PATH + "xoutput.xps", SaveFormat.XPS);
@@ -459,10 +457,10 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     フレキシブルディスプレイオプション
+柔軟な表示オプション
     </h2>
     <p>
-     Aspose.Cells for Python via Javaは、ページセットアップを完全に制御し、ページ分割のプレビュー、ズームレベルの設定、ページの向きの設定、フリーズペインによるデータの可視性の制御、用紙サイズ、スケーリング、ヘッダーなどの複数の表示オプションを操作できるようにします。 ;フッターと印刷領域。
+Aspose.Cells for Python via Java は、ページ設定の完全な制御を提供し、改ページのプレビュー、ズーム レベルの設定、ページの方向の設定、フリーズ ペインによるデータ表示の制御、用紙サイズ、拡大縮小、ヘッダーなどの複数の表示オプションを操作できるようにします。フッターと印刷領域。
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -482,18 +480,18 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
 </div> -->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Excelスプレッドシートのデータ管理
+ Excelシートデータ管理
     </h2>
     <p>
-     Aspose.Cells for Python via Java APIは、ワークシートデータ管理の広範なサポートを提供します。実行時にワークシート内の任意のセルを簡単に操作したり、さまざまなデータソースからワークシートにデータをインポートしたりできます。
+ Aspose.Cells for Python via Java API は、ワークシート データ管理に対する広範なサポートを提供します。実行時にワークシート内の任意のセルを簡単に操作したり、さまざまなデータ ソースからワークシートにデータをインポートしたりできます。
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     チャートのカスタマイズ
+チャートのカスタマイズ
     </h2>
     <p>
-     Javaを介したPythonのAspose.Cellsは、グラフ作成を完全にサポートします。このPythonライブラリを使用してチャートを更新するために、標準およびカスタマイズされたチャートを簡単に追加したり、チャートデータを動的に設定したりできます。
+ Aspose.Cells for Python via Java はグラフ作成を完全にサポートします。この Python ライブラリを使用すると、標準チャートやカスタマイズされたチャートを簡単に追加したり、チャート データを動的に設定してチャートを更新したりできます。
     </p>
    </div>
    <!--
@@ -519,26 +517,26 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
 {{< blocks/products/pf/slr-tab tabTitle="学習リソース" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="ドキュメンテーション" href="https://docs.aspose.com/cells/pythonjava/" >}}
 {{< blocks/products/pf/slr-element name="ソースコード" href="https://github.com/aspose-cells/Aspose.Cells-for-Java" >}}
-{{< blocks/products/pf/slr-element name="Aspose.CellsAPI参照" href="https://reference.aspose.com/python/cells" >}}
+{{< blocks/products/pf/slr-element name="Aspose.Cells API" href="https://reference.aspose.com/cells/python-java" >}}
 {{< blocks/products/pf/slr-element name="チュートリアルビデオ" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="製品サポート" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="無料サポート" href="https://forum.aspose.com/c/cells" >}}
+{{< blocks/products/pf/slr-element name="無料サポート" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="有料サポート" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="ブログ" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="なぜJava経由のPythonのAspose.Cells？" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="なぜ Aspose.Cells for Python via Java?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="顧客リスト" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="サクセスストーリー" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
+{{< blocks/products/pf/slr-element name="成功事例" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/python" pricingInformationLink="https://purchase.aspose.com/pricing/cells/python-java" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/cells/python-java/" pricingInformationLink="https://purchase.aspose.com/pricing/cells/python-java" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cellsは、以下に示すように、他の一般的な開発環境向けに個別のExcelAPIを提供します。" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells は、以下に示す他の一般的な開発環境向けに個別の Excel API を提供します。" >}}
 
     {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sdkName=".NET" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sdkName="Java" >}}

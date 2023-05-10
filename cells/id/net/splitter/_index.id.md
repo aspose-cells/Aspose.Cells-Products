@@ -1,24 +1,23 @@
 ---
-title: Pisahkan lembar kerja Excel dengan bijak di C#
-
-description: C# kode sumber yang menjelaskan cara membagi berkas Microsoft Excel menjadi beberapa berkas dalam aplikasi C#.NET Visual
+title: Pisahkan lembar Lembar Kerja Excel dengan bijaksana di C#
+description: Kode sumber C# yang menjelaskan cara membagi file Excel Microsoft menjadi beberapa file dalam aplikasi Visual C#.NET
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Pemisahan File Microsoft<sup>&reg;</sup> Excel melalui .NET" h2="Pisahkan satu dokumen Excel menjadi file yang berbeda menggunakan C# kode dalam .NET aplikasi berbasis" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Pemisahan Berkas Excel via .NET" h2="Pisahkan satu dokumen Excel menjadi file yang berbeda menggunakan kode C# dalam aplikasi berbasis .NET" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-[.NET Perpustakaan Excel](/cells/net/) mampu membagi dokumen Excel menjadi beberapa spreadsheet dalam .NET aplikasi berbasis. Format file yang didukung termasuk XLS, XLSX, XLSB, XLSM, ODS.
+[.NET Perpustakaan Excel](/cells/id/net/) mampu membagi dokumen Excel menjadi beberapa spreadsheet dalam aplikasi berbasis .NET. Format file yang didukung termasuk XLS, XLSX, XLSB, XLSM, ODS.
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Pisahkan Dokumen Excel menjadi Beberapa File" %}}
-Cara paling sederhana untuk membagi lembar file Excel adalah, Mengakses semua lembar melalui [Lembar kerja](https://reference.aspose.com/cells/net/aspose.cells/workbook/properties/worksheets), Iterasi melalui setiap lembar dan memanggil [Salinan](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy) metode. Akhirnya menyimpannya ke jalur yang ditentukan. 
+ Cara termudah untuk membagi lembar file Excel adalah, Mengakses semua lembar melalui[Lembar kerja](https://reference.aspose.com/cells/net/aspose.cells/workbook/properties/worksheets) , Mengulangi setiap lembar dan memanggil[Menyalin](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy) metode. Akhirnya menyimpannya ke jalur yang ditentukan.
 
-+ Muat file Excel dengan path lengkap menggunakan [Kelas buku kerja](https://reference.aspose.com/cells/net/aspose.cells/workbook).
-+ Ulangi melalui setiap lembar
+ + Muat file Excel dengan path lengkap menggunakan[Kelas buku kerja](https://reference.aspose.com/cells/net/aspose.cells/workbook).
++ Ulangi setiap lembar
 + Buat objek kelas Buku Kerja baru
-+ Salin lembar melalui [Salin metode](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
+ + Salin lembar melalui[Metode salin](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
 + Panggil metode Save() dan berikan nama file (path lengkap) yang memiliki SaveFormat yang relevan.
 
-{{% blocks/products/pf/feature-page-code h3="C# Kode untuk Memisahkan File Excel" %}}
+{{% blocks/products/pf/feature-page-code h3="C# Kode untuk Membagi File Excel" %}}
 
 {{< gist "aspose-com-gists" "bff05bb3d479c29ac0aa116d1a641264" "split-xlsx-spreadsheet.cs" >}}
 
@@ -29,9 +28,9 @@ Cara paling sederhana untuk membagi lembar file Excel adalah, Mengakses semua le
 
 {{% blocks/products/pf/feature-page-section h2="Pisahkan Lembar Kerja Excel menjadi Panel" %}}
 
-Untuk membagi jendela lembar kerja menjadi panel, API menyediakan [Metode terpisah](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/split) kelas lembar kerja, yang menyediakan tampilan lembar kerja yang terpisah. Untuk menghapus tampilan terbelah, API menyediakan [Hapus metode Split](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/removesplit). Terakhir simpan ke jalur yang ditentukan. 
+ Untuk membagi jendela lembar kerja menjadi panel, API menyediakan[Metode perpecahan](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/split) kelas lembar kerja, yang menyediakan tampilan lembar kerja yang terpisah. Untuk menghapus tampilan terbagi API menyediakan[Metode HapusSplit](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/removesplit) . Akhirnya simpan ke jalur yang ditentukan.
 
-{{% blocks/products/pf/feature-page-code h3="C# Kode untuk Memisahkan Jendela Lembar Kerja Excel" %}}
+{{% blocks/products/pf/feature-page-code h3="C# Kode untuk Membagi Jendela Lembar Kerja Excel" %}}
 
 {{< gist "aspose-com-gists" "bff05bb3d479c29ac0aa116d1a641264" "split-xlsx-spreadsheet-into-pane.cs" >}}
 

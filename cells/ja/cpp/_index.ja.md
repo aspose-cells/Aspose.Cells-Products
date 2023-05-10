@@ -1,11 +1,10 @@
 ---
-title: C++ExcelスプレッドシートプログラミングAPI-Aspose 
+title:  C++ Excel スプレッドシート プログラミング API - Aspose
 weight: 7140
-
-description: C++ XLS、XLSX、XLSM、XLSB形式を含む書き込みおよび解析ファイルを読み取るためのExcelライブラリ。スプレッドシートをPDF、CSVなどの形式に変換する
+description: C++ XLS、XLSX、XLSM、および XLSB 形式を含むファイルの読み取り書き込みおよび解析を行うための Excel ライブラリ。スプレッドシートを PDF、CSV などの形式に変換
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="C++ Excel Spreadsheets API" h2="フル機能のC++アプリケーション内でMicrosoftExcelに依存することなく、スプレッドシートを作成、読み取り、書き込み、および解析します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-cpp.svg" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/cells/cpp" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="C++ Excel スプレッドシート API" h2="フル機能の C++ アプリケーション内で、Microsoft Excel の依存関係を持たずにスプレッドシートを作成、読み取り、書き込み、解析できます。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-cpp.svg" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/cells/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for C++" >}}
 
@@ -13,7 +12,7 @@ description: C++ XLS、XLSX、XLSM、XLSB形式を含む書き込みおよび解
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- C++のAspose.Cellsは、スプレッドシート操作用のネイティブC++APIです。アプリケーションは、Officeオートメーションに依存することなく、スプレッドシートの組み込みプロパティとカスタムプロパティ、テーマ、スタイルと書式設定、データ検証、条件付き書式設定、数式の読み取り、書き込みと計算、行と列のグループ化などの機能を実行できます。またはMicrosoftExcel。 APIは、XLS、XLSX、XLSM、XLSBなどの最も一般的に使用されるスプレッドシート形式をサポートします。
+ Aspose.Cells for C++ は、スプレッドシート操作用のネイティブ C++ API です。アプリケーションは、オフィス オートメーションに依存せずに、スプレッドシートの組み込みおよびカスタム プロパティ、テーマ、スタイルと書式設定、データ検証、条件付き書式設定、数式の読み取り、書き込み、計算、行と列のグループ化などの作成、変換、編集などの機能を実行できます。または Microsoft Excel。 API は、XLS、XLSX、XLSM、XLSB など、最も一般的に使用されるスプレッドシート形式をサポートしています。
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -21,39 +20,39 @@ description: C++ XLS、XLSX、XLSM、XLSB形式を含む書き込みおよび解
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="一目で" description="APIの概要。" >}}
+{{< blocks/products/pf/carousel-item h3="一目でわかる" description="APIの概要。" >}}
 <div class="diagram1 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-retweet">
     </i>
-    フォーマット変換
+フォーマット変換
    </header>
    <br/>
    <header>
     <i class="fa fa-bar-chart">
     </i>
-    情報処理
+情報処理
    </header>
    <ul>
     <li>
-     ピボットテーブル
+ピボットテーブル
     </li>
     <li>
-     テーブル
+テーブル
     </li>
     <li>
-     チャート
+チャート
     </li>
     <li>
-     数式の計算
+数式の計算
     </li>
     <li>
-     データ検証
+データ検証
     </li>
     <li>
-     条件付き書式
+条件付き書式
     </li>
    </ul>
   </div>
@@ -62,41 +61,41 @@ description: C++ XLS、XLSX、XLSM、XLSB形式を含む書き込みおよび解
    <header>
     <i class="fa fa-cogs">
     </i>
-    操作
+操作
    </header>
    <ul>
     <li>
-     スプレッドシートの読み込み/保存
+スプレッドシートのロード/保存
     </li>
     <li>
-     データ操作
+データ操作
     </li>
     <li>
-     ビルトインプロパティ
+組み込みプロパティ
     </li>
     <li>
-     カスタムプロパティ
+カスタムプロパティ
     </li>
     <li>
-     テーマ
+テーマ
     </li>
     <li>
-     スタイル＆amp;フォーマット
+スタイルと書式設定
     </li>
     <li>
-     ハイパーリンク
+ハイパーリンク
     </li>
     <li>
-     オートフィルター
+オートフィルター
     </li>
     <li>
-     ページ設定
+ページ設定
     </li>
     <li>
-     数式の読み取り、書き込み
+数式の読み取り、書き込み
     </li>
     <li>
-     行のグループ化と列
+行と行のグループ化コラム
     </li>
    </ul>
   </div>
@@ -111,7 +110,7 @@ description: C++ XLS、XLSX、XLSM、XLSB形式を含む書き込みおよび解
   <footer>
    <small>
     <em>
-     にとって
+ために
     </em>
     C++
    </small>
@@ -122,20 +121,20 @@ description: C++ XLS、XLSX、XLSM、XLSB形式を含む書き込みおよび解
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="プラットフォームの独立性" description="APIは、次のプラットフォームでC++アプリケーションを完全にサポートしています。 [システム要求](https://docs.aspose.com/cells/cpp/system-requirements/)。" >}}
+{{< blocks/products/pf/carousel-item h3="プラットフォームの独立性" description="API は、次のプラットフォーム上の C++ アプリケーションを完全にサポートしています。[システム要求](https://docs.aspose.com/cells/cpp/system-requirements/)." >}}
 <div class="diagram1 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-cubes">
     </i>
-    Windows32ビット
+Windows 32ビット
    </header>
    <br/>
    <header>
     <i class="fa fa-cubes">
     </i>
-    Windows64ビット
+Windows 64ビット
    </header>
   </div>
   <!--/left-->
@@ -143,7 +142,7 @@ description: C++ XLS、XLSX、XLSM、XLSB形式を含む書き込みおよび解
    <header>
     <i class="fa fa-cubes">
     </i>
-    Linux64ビット
+Linux 64 ビット
    </header>
   </div>
   <!--/right-->
@@ -157,7 +156,7 @@ description: C++ XLS、XLSX、XLSM、XLSB形式を含む書き込みおよび解
   <footer>
    <small>
     <em>
-     にとって
+ために
     </em>
     C++
    </small>
@@ -168,39 +167,39 @@ description: C++ XLS、XLSX、XLSM、XLSB形式を含む書き込みおよび解
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="サポートされているファイル形式" description="C++のAspose.Cellsは、最も一般的に使用されるスプレッドシートをサポートします [ファイル形式](https://docs.aspose.com/cells/cpp/supported-file-formats/)。" >}}
+{{< blocks/products/pf/carousel-item h3="サポートされているファイル形式" description="Aspose.Cells for C++ は、最も一般的に使用されるスプレッドシートをサポートします[ファイル形式](https://docs.aspose.com/cells/cpp/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    入出力
+入出力
    </header>
    <ul>
     <li>
      <b>
-      マイクロソフトエクセル：
+Microsoft エクセル:
      </b>
-     XLS、XLSX、XLSB、XLT、XLTX、XLTM、XLSM、XML
+XLS、XLSX、XLSB、XLT、XLTX、XLTM、XLSM、XML
     </li>
     <li>
      <b>
-      文章：
+文章：
      </b>
-     CSV、TSV
+     CSV, TSV
     </li>
     <li>
      <strong>
-      ドキュメントを開く：
+ドキュメントを開く:
      </strong>
      ODS
     </li>
     <li>
      <strong>
-      その他：
+その他:
      </strong>
-     HTML、MHTML
+     HTML, MHTML
     </li>
    </ul>
   </div>
@@ -209,26 +208,26 @@ description: C++ XLS、XLSX、XLSM、XLSB形式を含む書き込みおよび解
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    出力のみ
+出力のみ
    </header>
    <ul>
     <li>
      <b>
-      Excel：
+エクセル：
      </b>
-     XLSM、XLTX、XLTM、XLAM
+     XLSM, XLTX, XLTM, XLAM
     </li>
     <li>
      <b>
-      固定レイアウト：
+固定レイアウト:
      </b>
-     PDF、XPS
+     PDF, XPS
     </li>
     <li>
      <b>
-      画像：
+画像:
      </b>
-     JPEG、PNG、BMP、TIFF、GIF、EMF、SVG
+     JPEG, PNG, BMP, TIFF, GIF, EMF, SVG
     </li>
    </ul>
   </div>
@@ -243,7 +242,7 @@ description: C++ XLS、XLSX、XLSM、XLSB形式を含む書き込みおよび解
   <footer>
    <small>
     <em>
-     にとって
+ために
     </em>
     C++
    </small>
@@ -264,7 +263,7 @@ description: C++ XLS、XLSX、XLSM、XLSB形式を含む書き込みおよび解
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    高度なC++スプレッドシートAPIの機能
+高度な C++ スプレッドシート API の機能
    </h2>
    <!-- <p>Unlike similar products from other vendors, Aspose.Cells for C++ not only supports spreadsheet generation and other basic file formatting features, it also supports a number of advanced features. These advanced features make it much easier for developers to manipulate spreadsheet contents and format cells.</p> 
 
@@ -275,146 +274,146 @@ description: C++ XLS、XLSX、XLSM、XLSB形式を含む書き込みおよび解
     <em class="fa fa-save ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     ロード＆amp;ストリームを使用してExcelファイルを保存する
+ロード＆アンプ;ストリームを使用して Excel ファイルを保存する
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bar-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     作成＆amp;チャートを操作する
+作成とチャートを操作する
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-check-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     入力を制限するようにデータ検証を設定する
+データ検証を設定して入力を制限する
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     行をグループ化してデータを整理します。列
+行とデータをグループ化してデータを整理します。列
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     組み込みの操作＆amp;カスタムプロパティ
+組み込みおよび組み込みの操作カスタムプロパティ
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-link ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     追加＆amp;ハイパーリンクを操作する
+追加してハイパーリンクを操作する
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-list-alt ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     作成＆amp;ピボットテーブルを操作する
+作成とピボットテーブルを操作する
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-magic ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     テーマを使用してワークブックの外観を変更する
+テーマを使用してワークブックの外観を変更する
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-tasks ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     テーブルを作成＆amp;オブジェクトを一覧表示します
+テーブルの作成とリストオブジェクト
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     描画オブジェクトを操作する
+描画オブジェクトを操作する
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-excel-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     セル、行、列、または範囲にスタイルとフォーマットを適用する
+セル、行、列、または範囲にスタイルと書式設定を適用する
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-list-ol ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     トレースの前例と扶養家族
+トレース先例と扶養家族
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     読み取り、書き込み、複雑な式を計算する
+読み取り、書き込み、および複雑な数式を計算する
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bars ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     OLEオブジェクトを追加または抽出します
+OLE オブジェクトの追加または抽出
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-tags ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     条件付き書式ルールを作成する
+条件付き書式ルールを作成する
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-code ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     ユーザー定義関数を作成して実装する
+ユーザー定義関数の作成と実装
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-line-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     チャートをPDF形式に変換
+チャートを PDF 形式に変換
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-pie-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     チャートを画像形式に変換
+チャートを画像形式に変換
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     MicrosoftExcelへの依存性ゼロ
+Microsoft Excel への依存性ゼロ
     </h2>
     <p>
-     Aspose APIは完全に独立しており、Microsoft Corporationと提携したり、承認、後援、その他の方法で承認されたりすることはありません。 Aspose.Cells for C++では、Excelドキュメント形式を使用するためにMicrosoftOfficeまたはMicrosoftExcelをマシンにインストールする必要はありません。
+Aspose API は完全に独立しており、Microsoft Corporation と提携、認可、スポンサー、その他の承認を受けていません。 Aspose.Cells for C++ Excel ドキュメント形式を使用するために、Microsoft Office または Microsoft Excel をマシンにインストールする必要はありません。
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     シンプル＆amp; Excel形式の信頼性の高い変換
+シンプル＆シンプルExcel 形式の信頼性の高い変換
     </h2>
     <p>
-     Aspose.Cells for C++は、フォーマット固有の詳細を気にすることなく、Excelファイル形式をロード、編集、書き込み、および相互変換する機能を提供する強力なAPIセットです。 APIを使用すると、2行のコードで、スプレッドシートをサポートされている形式から他のサポートされている形式に変換できます。とても簡単です！
+Aspose.Cells for C++ は、形式固有の詳細を気にすることなく、Excel ファイル形式の読み込み、編集、書き込み、相互変換を行う機能を提供する強力な API セットです。 API を使用すると、わずか 2 行のコードでスプレッドシートをサポートされている形式から他のサポートされている形式に変換できます。それはとても簡単です！
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Excelファイルを複数の形式に変換する-C++
+ Excel ファイルを複数の形式に変換 - C++
      </h3>
      <pre><code class="cpp">// load the document for conversion
 
@@ -431,42 +430,42 @@ book-&gt;Save(dir-&gt;StringAppend(new String("output.csv")), SaveFormat_CSV);</
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     包括的なスプレッドシートフォーマット
+包括的なスプレッドシートの書式設定
     </h2>
     <p>
-     Aspose.Cells for C++は、高度なフォーマット機能を提供することにより、ワークシートにデータを表示する方法を完全に制御できます。個々の行、列、セルにフォーマットを適用することも、セルの範囲を作成してそれにフォーマットを適用することもできます。セルにリッチテキストを追加したり、境界線を適用したり、背景パターンを設定したり、フォント関連のスタイルの側面を微調整したりすることもできます。
+Aspose.Cells for C++ では、高度な書式設定機能を提供することで、ワークシート上でのデータの表示方法を完全に制御できます。個々の行、列、セルに書式設定を適用することも、セル範囲を作成してそれに書式設定を適用することもできます。また、セルにリッチ テキストを追加したり、枠線を適用したり、背景パターンを設定したり、フォント関連のスタイルを調整したりすることもできます。
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     チャートでデータを視覚化
+グラフを使用してデータを視覚化する
     </h2>
     <p>
-     Aspose.Cells for C++は、Excelアプリケーションでサポートされているすべての標準およびカスタムチャートタイプを動的に作成するための包括的なAPIセットを提供します。 APIには、既存のグラフのデータソースを更新して更新する機能もあります。
+Aspose.Cells for C++ は、Excel アプリケーションでサポートされるすべての標準グラフ タイプとカスタム グラフ タイプを動的に作成するための包括的な API セットを提供します。 API は、既存のグラフのデータ ソースを更新してリフレッシュする機能も提供します。
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     ワークシートを画像としてレンダリングする
+ワークシートを画像としてレンダリングする
     </h2>
     <p>
-     ライブラリは、独自のレンダリングエンジンを使用して、MicrosoftExcelに対して最高の忠実度でレンダリングします。 BMP、TIFF、PNG、JPEGなどの一般的な形式の画像にワークシートをレンダリングするなどの特徴的な機能を提供します。 EMF。 Sheet2Imageプロセスは柔軟性があるため、結果の画像の解像度を制御するなどのオプションを選択できます。
+このライブラリは、独自のレンダリング エンジンを使用して、最高の忠実度で Microsoft Excel にレンダリングします。ワークシートを BMP、TIFF、PNG、JPEG、JPEG、JPEG などの一般的な形式の画像にレンダリングするなど、独特の機能を提供します。 Sheet2Image プロセスは柔軟なので、結果の画像の解像度の制御などのオプションを選択できます。
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     列と行を操作する
+列と行を操作する
     </h2>
     <p>
-     Aspose.Cells for C++は、複数の方法で行と列の操作を提供します。行の高さと列の幅を調整したり、セルの内容に応じてセルのサイズを自動変更したりするのは簡単すぎます。 APIは、行と列のグループ化またはグループ化解除だけでなく、削除と挿入、非表示または表示の手段も提供します。
+Aspose.Cells for C++ では、複数の方法で行と列を操作できます。行の高さと列の幅を調整したり、内容に応じてセルのサイズを自動変更したりするのは非常に簡単です。 API は、行と列のグループ化またはグループ解除だけでなく、削除と挿入、非表示または表示を行う手段も提供します。
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     スプレッドシートをPDFに正確に変換する
+スプレッドシートを PDF に正確に変換
     </h2>
     <p>
-     Excel C++ライブラリは、元のドキュメントと同じ品質を維持しながら、スプレッドシートをPDF形式に変換する機能を提供します。この事実により、Aspose.Cells for C++は、業界標準の形式のドキュメントをPDFとして交換する必要がある組織にとって最適な選択肢になります。
+Excel C++ ライブラリは、元のドキュメントと同じ品質を維持しながら、スプレッドシートを PDF 形式に変換する機能を提供します。このため、Aspose.Cells for C++ は、PDF のような業界標準形式でドキュメントを交換する必要がある組織にとって最適な選択肢となります。
     </p>
    </div>
    <!-- 
@@ -502,27 +501,27 @@ book-&gt;Save(dir-&gt;StringAppend(new String("output.csv")), SaveFormat_CSV);</
 {{< blocks/products/pf/slr-tab tabTitle="学習リソース" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="ドキュメンテーション" href="https://docs.aspose.com/cells/cpp/" >}}
 {{< blocks/products/pf/slr-element name="ソースコード" href="https://github.com/aspose-cells/Aspose.Cells-for-C" >}}
-{{< blocks/products/pf/slr-element name="API参照" href="https://reference.aspose.com/cpp/cells" >}}
+{{< blocks/products/pf/slr-element name="API 参照先" href="https://reference.aspose.com/cpp/cells" >}}
 {{< blocks/products/pf/slr-element name="チュートリアルビデオ" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="製品サポート" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="無料サポート" href="https://forum.aspose.com/c/cells" >}}
+{{< blocks/products/pf/slr-element name="無料サポート" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="有料サポート" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="ブログ" href="https://blog.aspose.com/category/cells/" >}}
 {{< blocks/products/pf/slr-element name="リリースノート" href="https://docs.aspose.com/cells/cpp/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="なぜC++のAspose.Cells？" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="なぜ Aspose.Cells for C++?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="顧客リスト" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="サクセスストーリー" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
+{{< blocks/products/pf/slr-element name="成功事例" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/cpp" pricingInformationLink="https://purchase.aspose.com/pricing/cells/cpp" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cellsは、以下に示すように、他の一般的な開発環境向けに個別のExcelAPIを提供します。" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells は、以下に示す他の一般的な開発環境向けに個別の Excel API を提供します。" >}}
 
     {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sdkName=".NET" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sdkName="Java" >}}

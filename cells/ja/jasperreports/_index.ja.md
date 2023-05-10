@@ -1,11 +1,10 @@
 ---
-title: Excel XLS XLSXPDFODSでのレポートのエクスポートJasperReportsおよびJasperServerでのエクスポート 
+title: Excel でのレポートのエクスポート JasperReports および JasperServer の XLS XLSX PDF ODS
 weight: 9460
-
-description: JasperReportsおよびJasperServerからExcelXLSXLSX PDFODSTXTおよびSpreadsheetML形式でレポートをエクスポートします。また、レポートをExcelスプレッドシートとして印刷します
+description: Jasper Reports および JasperServer からレポートを Excel XLS XLSX PDF ODS TXT および SpreadsheetML 形式でエクスポートします。レポートを Excel スプレッドシートとして印刷することもできます
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="レポートをExcel形式でエクスポートするJasperReports拡張機能" h2="レポートをMicrosoftExcelスプレッドシートの複数の形式にエクスポートします。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-jasperreports.svg" pfName="Aspose.Cells" subTitlepfName="for JasperReports" downloadUrl="https://downloads.aspose.com/cells/jasperreports" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="レポートを Excel 形式でエクスポートするための JasperReports 拡張機能" h2="レポートを Microsoft Excel スプレッドシートの複数の形式にエクスポートします。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-jasperreports.svg" pfName="Aspose.Cells" subTitlepfName="for JasperReports" downloadUrl="https://downloads.aspose.com/cells/jasperreports" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for JasperReports" >}}
 
@@ -13,7 +12,7 @@ description: JasperReportsおよびJasperServerからExcelXLSXLSX PDFODSTXTお�
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for JasperReportsは、信頼性の高いJasperReportsおよびJasperServer拡張機能であり、MicrosoftExcelを使用せずにMicrosoftExcel XLS、XLSX、PDF、ODS、TXT、およびSpreadsheetML形式でレポートをエクスポートできます。これは、JasperReportsの元のMicrosoft Excelエクスポーターの代替として機能するだけでなく、POIライブラリへの依存を排除します。
+ Aspose.Cells for JasperReports は、07 を使用せずに Microsoft Excel XLS、XLSX、PDF、ODS、TXT および SpreadsheetML 形式でレポートをエクスポートできる信頼性の高い JasperReports および JasperServer 拡張機能です。 6193481 エクセル。これは、JasperReports のオリジナルの Microsoft Excel エクスポータの代替として機能するだけでなく、POI ライブラリへの依存を排除します。
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -21,20 +20,20 @@ description: JasperReportsおよびJasperServerからExcelXLSXLSX PDFODSTXTお�
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="一目で" description="JasperReportsの機能のAspose.Cellsの概要。" >}}
+{{< blocks/products/pf/carousel-item h3="一目でわかる" description="Aspose.Cells for JasperReports」の機能の概要。" >}}
 <div class="diagram1 d1-jasper">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-cog">
     </i>
-    軽量展開
+軽量の導入
    </header>
    <br/>
    <header>
     <i class="fa fa-table">
     </i>
-    レポートデザインへの忠実度の高さ
+レポート設計への高い忠実度
    </header>
   </div>
   <!--/left-->
@@ -42,13 +41,13 @@ description: JasperReportsおよびJasperServerからExcelXLSXLSX PDFODSTXTお�
    <header>
     <i class="fa fa-bar-chart">
     </i>
-    編集可能なチャート
+編集可能なグラフ
    </header>
    <br/>
    <header>
     <i class="fa fa-share">
     </i>
-    Excel形式にエクスポート
+Excel 形式にエクスポート
    </header>
   </div>
   <!--/right-->
@@ -62,9 +61,9 @@ description: JasperReportsおよびJasperServerからExcelXLSXLSX PDFODSTXTお�
   <footer>
    <small>
     <em>
-     にとって
+ために
     </em>
-    JasperReports
+ジャスパーレポート
    </small>
   </footer>
  </div>
@@ -73,7 +72,7 @@ description: JasperReportsおよびJasperServerからExcelXLSXLSX PDFODSTXTお�
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="プラットフォームの独立性" description="JasperReportsのAspose.Cellsは、J2SE、JasperReports、およびJasperServerをサポートします。" >}}
+{{< blocks/products/pf/carousel-item h3="プラットフォームの独立性" description="Aspose.Cells for JasperReports は、J2SE、JasperReports、および JasperServer をサポートします。" >}}
 <div class="diagram1 d1-jasper">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -83,13 +82,13 @@ description: JasperReportsおよびJasperServerからExcelXLSXLSX PDFODSTXTお�
    <header style="padding-left: 0px;">
     <i class="fa fa-cubes">
     </i>
-    J2SE1.6以降
+ J2SE 1.6以降
    </header>
    <br/>
    <header style="padding-left: 0px;">
     <i class="fa fa-cubes">
     </i>
-    JasperReports6.3.0以降
+JasperReports 6.3.0 以降
    </header>
   </div>
   <!--/right-->
@@ -103,9 +102,9 @@ description: JasperReportsおよびJasperServerからExcelXLSXLSX PDFODSTXTお�
   <footer>
    <small>
     <em>
-     にとって
+ために
     </em>
-    JasperReports
+ジャスパーレポート
    </small>
   </footer>
  </div>
@@ -114,7 +113,7 @@ description: JasperReportsおよびJasperServerからExcelXLSXLSX PDFODSTXTお�
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="サポートされているファイル形式" description="JasperReportsのAspose.Cellsを使用すると、レポートをに直接エクスポートできます。 [以下のフォーマット](https://docs.aspose.com/cells/jasperreports/supported-file-formats/)。" >}}
+{{< blocks/products/pf/carousel-item h3="サポートされているファイル形式" description="Aspose.Cells for JasperReports を使用すると、レポートを直接エクスポートできます。[以下のフォーマット](https://docs.aspose.com/cells/jasperreports/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-jasper">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -124,38 +123,38 @@ description: JasperReportsおよびJasperServerからExcelXLSXLSX PDFODSTXTお�
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    出力のみ
+出力のみ
    </header>
    <ul>
     <li>
      <b>
-      マイクロソフトエクセル：
+Microsoft エクセル:
      </b>
-     XLS、XLSX
+     XLS, XLSX
     </li>
     <li>
      <b>
-      OpenOffice：
+オープンオフィス:
      </b>
      ODS
     </li>
     <li>
      <b>
-      SpreadsheetML：
+      SpreadsheetML:
      </b>
      XML
     </li>
     <li>
      <b>
-      固定レイアウト：
+固定レイアウト:
      </b>
      PDF
     </li>
     <li>
      <b>
-      文章：
+文章：
      </b>
-     CSV、TSV、タブ区切り
+CSV、TSV、タブ区切り
     </li>
    </ul>
   </div>
@@ -170,9 +169,9 @@ description: JasperReportsおよびJasperServerからExcelXLSXLSX PDFODSTXTお�
   <footer>
    <small>
     <em>
-     にとって
+ために
     </em>
-    JasperReports
+ジャスパーレポート
    </small>
   </footer>
  </div>
@@ -191,7 +190,7 @@ description: JasperReportsおよびJasperServerからExcelXLSXLSX PDFODSTXTお�
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    高度なJasperReportsからExcelへのエクスポート機能
+高度な JasperReports から Excel へのエクスポート機能
    </h2>
    <p>
    </p>
@@ -199,53 +198,53 @@ description: JasperReportsおよびJasperServerからExcelXLSXLSX PDFODSTXTお�
     <em class="fa fa-line-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     MicrosoftExcelファイルとしてレポートを生成する
+Microsoft Excel ファイルとしてレポートを生成
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-print ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     レポートをスプレッドシートとして印刷する
+レポートをスプレッドシートとして印刷する
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-pie-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Excelファイルを編集可能なスプレッドシートとしてエクスポートする
+Excel ファイルを編集可能なスプレッドシートとしてエクスポート
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     レポートをMicrosoftExcel形式にエクスポートする
+レポートを Microsoft Excel 形式にエクスポート
     </h2>
     <p>
-     JasperReportsのAspose.Cellsは、XLSやXLSなどのMicrosoftExcel形式にレポートを直接エクスポートする機能を提供します。 XLSX。さらに、SpreadsheetML、ODS、CSV、およびでレポートをエクスポートすることもできます。ビジネス要件に合わせたタブ区切りの形式。
+Aspose.Cells for JasperReports は、XLS や XLS などの Excel 形式にレポートを直接エクスポートする機能を提供します。さらに、SpreadsheetML、ODS、CSV、および SpreadsheetML のレポートをエクスポートすることもできます。ビジネス要件に合わせたタブ区切り形式。
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     レポートデザインへの忠実度の高さ
+レポート設計への高い忠実度
     </h2>
     <p>
-     JasperReportsのAspose.Cellsは、サポートされている形式に最高の精度でレポートをエクスポートします。 JasperReportsのネイティブエクスポート機能によってエクスポートされた同一のレポートのようです。
+Aspose.Cells for JasperReports レポートをサポートされている形式に最高の精度でエクスポートします。 JasperReports のネイティブ エクスポート機能によってエクスポートされたレポートと同一であるように見えます。
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     編集可能なExcelスプレッドシート
+編集可能な Excel スプレッドシート
     </h2>
     <p>
-     JasperReportsのAspose.Cellsは、Excelドキュメントを完全に編集可能なスプレッドシートとしてエクスポートします。 Microsoft Excelチャートをサポートし、Asposeレンダリングエンジンを介してエクスポートされたチャートは、静止画像ではなく編集可能なチャートとして利用できるため、エンドユーザーはMicrosoftExcelでチャートを手動で変更できます。
+Aspose.Cells for JasperReports Excel ドキュメントを完全に編集可能なスプレッドシートとしてエクスポートします。 Microsoft Excel グラフをサポートしており、Aspose レンダリング エンジン経由でエクスポートされたグラフは静的な画像ではなく編集可能なグラフとして利用できるため、エンドユーザーは Microsoft Excel でグラフを手動で変更できます。
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Microsoft Office Automation –不要
+ Microsoft オフィス オートメーション – 必要ありません
     </h2>
     <p>
-     Aspose.Cells for JasperReportsエクスポーターは、Excelドキュメント形式で動作するためにMicrosoftExcelまたはMicrosoftOfficeをマシンにインストールする必要のないマネージドコードを使用して開発されました。これは、安定性、スケーラビリティ、サポートされる機能、セキュリティ、価格、および速度の点で、完全なMicrosoftExcel自動化の代替手段です。
+Aspose.Cells for JasperReports マネージド コードを使用して開発されたエクスポータ。Excel ドキュメント形式を操作するためにマシンにインストールされる Microsoft Excel または Microsoft Office は必要ありません。これは、安定性、拡張性、サポートされる機能、セキュリティ、価格、速度の点で、Excel 自動化の完璧な代替品です。
     </p>
    </div>
   </div>
@@ -260,26 +259,26 @@ description: JasperReportsおよびJasperServerからExcelXLSXLSX PDFODSTXTお�
 {{< blocks/products/pf/slr-tab tabTitle="学習リソース" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="ドキュメンテーション" href="https://docs.aspose.com/cells/jasperreports/" >}}
 {{< blocks/products/pf/slr-element name="ソースコード" href="https://github.com/aspose-cells?tab=repositories" >}}
-{{< blocks/products/pf/slr-element name="API参照" href="https://reference.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="API 参照先" href="https://reference.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="チュートリアルビデオ" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="製品サポート" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="無料サポート" href="https://forum.aspose.com/c/cells" >}}
+{{< blocks/products/pf/slr-element name="無料サポート" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="有料サポート" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="ブログ" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="JasperReportsでAspose.Cellsなのはなぜですか？" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="なぜ Aspose.Cells for JasperReports?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="顧客リスト" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="サクセスストーリー" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
+{{< blocks/products/pf/slr-element name="成功事例" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/jasperreports" pricingInformationLink="https://purchase.aspose.com/pricing/cells/jasperreports" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cellsは、以下に示すように、他の一般的な開発環境向けに個別のExcelAPIを提供します。" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells は、以下に示す他の一般的な開発環境向けに個別の Excel API を提供します。" >}}
 
     {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sdkName=".NET" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sdkName="Java" >}}

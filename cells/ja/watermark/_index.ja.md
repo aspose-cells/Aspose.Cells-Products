@@ -1,7 +1,6 @@
 ---
-title: Windows、Linux、macOSのExcelファイルに透かしを追加する 
-
-description: XLS、XLSX、ODSファイルに画像またはテキストの透かしを追加するための無料のアプリとAPI
+title: Windows、Linux および macOS で Excel ファイルにウォーターマークを追加する
+description: XLS、XLSX、ODS ファイルに画像またはテキストの透かしを追加する無料のアプリと API
 ---
 {{< blocks/products/pf/agp/feature-solution >}} 
 

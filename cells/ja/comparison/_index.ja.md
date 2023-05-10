@@ -1,8 +1,7 @@
 ---
-title: Windows、Linux、macOSでExcelスプレッドシートを比較する 
+title: Windows、Linux および macOS での Excel スプレッドシートの比較
 weight: 7730
-
-description: Excel XLS、XLSX、CSV、TSV、ODS、SXC、FODSファイル比較用の無料アプリとAPI
+description: Excel 用の無料アプリと API XLS、XLSX、CSV、TSV、ODS、SXC、FODS のファイル比較
 ---
 {{< blocks/products/pf/agp/feature-solution >}} 
 

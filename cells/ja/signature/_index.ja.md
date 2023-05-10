@@ -1,8 +1,7 @@
 ---
-title: Windows、Linux、macOSでExcelスプレッドシートにデジタル署名する 
+title:  Windows、Linux および macOS で Excel スプレッドシートにデジタル署名
 weight: 7730
-
-description: XLS、XLSX、ODSファイルの画像とテキストの署名を管理するための無料のアプリとAPI
+description: XLS、XLSX、ODS ファイルの画像とテキストの署名を管理するための無料アプリと API
 ---
 {{< blocks/products/pf/agp/feature-solution >}} 
 

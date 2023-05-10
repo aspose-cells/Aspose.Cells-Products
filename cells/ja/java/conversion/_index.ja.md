@@ -1,71 +1,68 @@
 ---
-title: JavaによるMicrosoftExcelファイル変換 
-
-description: Excel XLS、XLSX、ODS、CSVをPDF、XPS、HTML、JPEG、HTML、およびその他の多くの一般的な形式に、わずか数行のJavaコードで変換します。
+title: Microsoft Excel ファイル変換 via Java
+description: Excel XLS、XLSX、ODS、CSVからXPS、XPS、HTML、JPEG、HTML、およびHTML、およびJavaコードのほんの一部のラインを持つ他の人気のある形式のある形式を変えてください。
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft <sup>＆reg; </sup>JavaによるExcelファイルの変換" h2="Microsoft Excelドキュメントをスプレッドシート、Web、画像、および固定レイアウト形式で保存します" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Excel ファイルの変換 via Java" h2="Microsoft Excel ドキュメントをスプレッドシート、Web、画像、固定レイアウト形式で保存" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-** Excelコンバーター**アプリケーションまたはソリューションの場合、Java Excelライブラリは、XLS、XLSX、XLSM、XLSB、XLTX、XLTM、CSV、SpreadsheetML、ODSなどの複数の形式を処理しながら、スプレッドシートのプログラミングと変換プロセスを高速化します。また、** ExcelファイルをPDF**、XPS、HTML、MHTML、プレーンテキスト、およびTIFF、JPG、PNG、BMP、SVGなどの一般的な画像形式に変換することもできます。
+どれについても**Excelコンバーター**アプリケーションまたはソリューション、Java Excel ライブラリは、XLS、XLSX、XLSM、XLSB、XLTX、XLTM、CSV、SpreadsheetML、07619 などの複数の形式を処理しながら、スプレッドシートのプログラミングと変換プロセスを高速化します。 3481. *Excel ファイルを PDF** に変換することもできます。 XPS、HTML、MHTML、プレーン テキスト、および TIFF、JPG、PNG、BMP、SVG などの一般的な画像形式。
 {{% /blocks/products/pf/feature-page-summary %}}
 
-{{% blocks/products/pf/feature-page-section h2="MicrosoftExcel形式の相互変換" %}}
-スプレッドシート形式の相互変換では、次のインスタンスを含むスプレッドシートを読み込むだけで済みます。 [ワークブック](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) から適切な値を選択しながら、目的の形式で保存し直します [SaveFormat](https://reference.aspose.com/cells/java/com.aspose.cells/SaveFormat) 列挙。
-{{% blocks/products/pf/feature-page-code h3="JavaExcelファイル形式変換のサンプルコード" %}}
+{{% blocks/products/pf/feature-page-section h2="Microsoft Excel 形式の相互変換" %}}
+スプレッドシート形式の相互変換には、次のインスタンスを含むスプレッドシートをロードするだけで済みます。[ワークブック](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)から適切な値を選択しながら、目的の形式で保存し直します。[保存形式](https://reference.aspose.com/cells/java/com.aspose.cells/SaveFormat)列挙。
+{{% blocks/products/pf/feature-page-code h3="Java Excel ファイル形式変換のコード例" %}}
 
 ```cs
-// ソースファイルをロードする
+// load the source file
 var wkb = new Workbook("sourceFile.xls");
-// XLSX、ODS、SXC、FODS形式で保存
+// save as XLSX, ODS, SXC & FODS formats
 wkb.save("xlsx-output.xlsx", SaveFormat.XLSX);
 wkb.save("ods-output.ods", SaveFormat.ODS);
 wkb.save("scx-output.scx", SaveFormat.SXC);
 wkb.save("fods-output.fods", SaveFormat.FODS);
-
 ```
 {{% /blocks/products/pf/feature-page-code %}}
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/feature-page-options pairs="xls-to-xlsx xlsx-to-xlsm xlsx-to-ods xlsx-to-csv xlsx-to-json xlsx-to-pdf xlsx-to-html xlsm-to-xls" >}}
 
 
-{{% blocks/products/pf/feature-page-section h2="ExcelをPDF、XPS、HTML、MDに変換する" %}}
-特殊なクラスを使用して、次のような特定の出力形式の変換プロセスを制御できます。 [PdfSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/PdfSaveOptions) ExcelファイルをPDFとして変換するには、 [XpsSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/XpsSaveOptions) ExcelをXPSとしてエクスポートするには、 [HtmlSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/HtmlSaveOptions) ExcelをHTMLとしてレンダリングし、 [MarkdownSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/MarkdownSaveOptions) ExcelからMarkdownへの変換用。 
-{{% blocks/products/pf/feature-page-code h3="JavaExcelからPDFおよびWeb形式のサンプルコード" %}}
+{{% blocks/products/pf/feature-page-section h2="Excel を PDF、XPS、HTML、MD に変換" %}}
+特殊なクラスを使用して、次のような特定の出力形式の変換プロセスを制御できます。[PDF保存オプション](https://reference.aspose.com/cells/java/com.aspose.cells/PdfSaveOptions)Excel ファイルを PDF として変換するには、[Xps保存オプション](https://reference.aspose.com/cells/java/com.aspose.cells/XpsSaveOptions)Excel を XPS としてエクスポートするには、[HTML保存オプション](https://reference.aspose.com/cells/java/com.aspose.cells/HtmlSaveOptions)Excel を HTML としてレンダリングし、[マークダウン保存オプション](https://reference.aspose.com/cells/java/com.aspose.cells/MarkdownSaveOptions)Excel から Markdown への変換用。
+{{% blocks/products/pf/feature-page-code h3="Java Excel から PDF および Web フォーマットのサンプル コード" %}}
 
 ```cs
-// ディスクからテンプレートExcelファイルをロードします
+// load template Excel file from disc
 var bk = new Workbook("source-file.xlsx");
 
-// Javaを使用してExcelをPDFに変換する
-// PDFオプションを作成する
+// convert Excel to PDF using Java
+// Create PDF options
 PdfSaveOptions options = new PdfSaveOptions();
 options.setCompliance(PdfCompliance.PDF_A_1_A);
 
 bk.save("excel-to-pdf.pdf", options);
-// ExcelをXPSに保存する
+// save Excel in XPS
 bk.save("output.xps", new XpsSaveOptions());
-// ExcelをHTMLで保存
+// save Excel in HTML
 bk.save("output.html", new HtmlSaveOptions());
-// Excelをマークダウン（MD）に保存
+// save Excel in Markdown (MD)
 bk.save("output.md", new MarkdownSaveOptions());
 
-// 関連する形式で保存する前に、自分の選択で関連する保存オプションを設定できます
-
+// one can set relevant save options as of his choice before saving into relevant format
 ```
 {{% /blocks/products/pf/feature-page-code %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{< blocks/products/pf/feature-page-options formats="XPS PDF" beforeslug="convert" >}}
 
-{{% blocks/products/pf/feature-page-section h2="JSONをExcelに、ExcelをJSONに変換する" %}}
-JSONデータは、Workbookクラスのインスタンスにインポートできます。 [JSONUtility.importData](https://reference.aspose.com/cells/java/com.aspose.cells/jsonutility#importData) さらに処理したり、サポートされている形式に簡単に変換したりできます。同様に、ワークシートデータは、を作成することでJSONとしてエクスポートできます。 [範囲](https://reference.aspose.com/cells/java/com.aspose.cells/range) またはセルと呼び出し [exportRangeToJson](https://reference.aspose.com/cells/java/com.aspose.cells/jsonutility) 方法。
-{{% blocks/products/pf/feature-page-code h3="JavaJSONからExcelへの変換のコード" %}}
+{{% blocks/products/pf/feature-page-section h2="JSON を Excel に変換し、Excel を JSON に変換します" %}}
+JSON データは、次の助けを借りて Workbook クラスのインスタンスにインポートできます。[JSONUtility.importData](https://reference.aspose.com/cells/java/com.aspose.cells/jsonutility#importData)さらに処理したり、サポートされている形式に簡単に変換したりできます。同様に、ワークシート データは、[範囲](https://reference.aspose.com/cells/java/com.aspose.cells/range)またはセルを呼び出して、[importRangeToJson](https://reference.aspose.com/cells/java/com.aspose.cells/jsonutility)方法。
+{{% blocks/products/pf/feature-page-code h3="Java JSONからExcelへの変換コード" %}}
 ```cs
 Workbook workbook = new Workbook(path + "source-file.xlsx");
 Worksheet wks = workbook.getWorksheets().get(0);
 		
-// ファイルを読む
+// Read File
 File file = new File(path + "source-data.json");
 BufferedReader bufferedReader = new BufferedReader(new FileReader(file));
 String jsonInput = "";
@@ -75,83 +72,79 @@ while ((tempString = bufferedReader.readLine()) != null) {
 }
 bufferedReader.close();
 							
-// JsonLayoutOptionsを設定します
+// Set JsonLayoutOptions
 JsonLayoutOptions options = new JsonLayoutOptions();
 options.setIgnoreArrayTitle(true);
 options.setArrayAsTable(true);
 
-// JSONデータのインポート
+// Import JSON Data
 JSONUtility.importData(jsonInput, wks.getCells(), 0, 0, options);
 
-// Excelファイルを保存する
+// Save Excel file
 workbook.save(path + "excel-to-json.out.xlsx");
-
 ```
 {{% /blocks/products/pf/feature-page-code %}}
 
-{{% blocks/products/pf/feature-page-code h3="JavaExcelからJSONへの変換のソースコード" %}}
+{{% blocks/products/pf/feature-page-code h3="Excel の Java ソース コードから JSON への変換" %}}
 ```cs
-// ワークブックのインスタンスを含むXLSXファイルをロードします
+// load XLSX file with an instance of Workbook
 Workbook workbook = new Workbook("sourceFile.xlsx");
-// 変換するデータを含むワークシートのCellsCollectionにアクセスします
+// access CellsCollection of the worksheet containing data to be converted
 Cells cells = workbook.getWorksheets().get(0).getCells();
-// 詳細オプションのExportRangeToJsonOptionsを作成および設定します
+// create & set ExportRangeToJsonOptions for advanced options
 ExportRangeToJsonOptions exportOptions = new ExportRangeToJsonOptions();
-// エクスポートするデータを含むセルの範囲を作成します
+// create a range of cells containing data to be exported
 Range range = cells.createRange(0, 0, cells.getLastCell().getRow() + 1, cells.getLastCell().getColumn() + 1);
-// 範囲をJSONデータとしてエクスポート
+// export range as JSON data
 String jsonData = JsonUtility.exportRangeToJson(range, exportOptions);
-// JSON形式でディスクにデータを書き込む
+// write data to disc in JSON format
 BufferedWriter writer = new BufferedWriter(new FileWriter("output.json"));
 writer.write(jsonData);
 writer.close();    
-
 ```
 {{% /blocks/products/pf/feature-page-code %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{< blocks/products/pf/feature-page-options pairs="json-to-xlsx json-to-ods json-to-csv json-to-dif json-to-html csv-to-json xls-to-json ods-to-json" >}}
 
-{{% blocks/products/pf/feature-page-section h2="Excelワークシートを画像に保存" %}}
-各ワークシートは、ImageTypeプロパティで設定されたJPG、BMP、PNG、GIFなどのさまざまな画像形式に変換できます。 ** Excelを画像に変換**の場合は、リンクから関連するケースを選択してください。
-{{% blocks/products/pf/feature-page-code h3="JavaExcelから画像への変換のコード" %}}
+{{% blocks/products/pf/feature-page-section h2="Excel ワークシートを画像として保存" %}}
+各ワークシートは、ImageType プロパティで設定された JPG、BMP、PNG、GIF などのさまざまな画像形式に変換できます。どれについても**Excelを画像に変換**ケースの場合は、リンクから該当するケースを選択してください。
+{{% blocks/products/pf/feature-page-code h3="Java Excel から画像への変換用のコード" %}}
 ```cs
-// テンプレートスプレッドシートを読み込む
+// load template spreadsheet
 var wkb = new Workbook("template.xlsx");
 
-// ImageOptionsのオブジェクトを作成します
+// Create an object for ImageOptions
 ImageOrPrintOptions imgOptions = new ImageOrPrintOptions();
 
-// 画像の種類を設定する
+// Set the image type
 imgOptions.setImageType(ImageType.PNG);
 
-// 最初のワークシートを入手します。
+// Get the first worksheet.
 Worksheet sheet = wkb.getWorksheets().get(0);
 
-// ターゲットシートのSheetRenderオブジェクトを作成します
+// Create a SheetRender object for the target sheet
 SheetRender sr = new SheetRender(sheet, imgOptions);
 for (int j = 0; j < sr.getPageCount(); j++) {
-	// ワークシートの画像を生成する
+	// Generate an image for the worksheet
 	sr.toImage(j, dataDir + "WToImage-out" + j + ".png");
 }
-
 ```
 {{% /blocks/products/pf/feature-page-code %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
-{{% blocks/products/pf/feature-page-section h2="MicrosoftExcelをWordおよびPowerPointに変換する" %}}
-を使用しながら、任意のスプレッドシートをロードして、WordDOCXおよびPowerPointPPTXファイルに変換することができます。 [DocxSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/DocxSaveOptions) ＆ [PptxSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/PptxSaveOptions) 以下に示すようなクラス。
-{{% blocks/products/pf/feature-page-code h3="JavaExcelからWordおよびPowerPointへの変換のコード" %}}
+{{% blocks/products/pf/feature-page-section h2="Microsoft Excel を Word に変換し、PowerPoint" %}}
+使用中に、任意のスプレッドシートをロードし、Word DOCX & PowerPoint PPTX ファイルに変換することが可能です。[DocxSaveオプション](https://reference.aspose.com/cells/java/com.aspose.cells/DocxSaveOptions) & [Pptx保存オプション](https://reference.aspose.com/cells/java/com.aspose.cells/PptxSaveOptions)以下に示すようなクラス。
+{{% blocks/products/pf/feature-page-code h3="Java Excel から Word へのコードと PowerPoint 変換" %}}
 ```cs
-// テンプレートファイルをロードする
+// load the template file
 var wkb = new Workbook("template.xlsx");
-// スプレッドシートをDOCXとして保存
+// save spreadsheet as DOCX
 wkb.save("output.docx", new DocxSaveOptions());
-// スプレッドシートをPPTXとして保存
+// save spreadsheet as PPTX
 wkb.save("output.pptx", new PptxSaveOptions());
-
 ```
 {{% /blocks/products/pf/feature-page-code %}}
 {{% /blocks/products/pf/feature-page-section %}}

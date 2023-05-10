@@ -1,6 +1,5 @@
 ---
-title: Windows、Linux、macOSでExcelスプレッドシートを分割 
-
-description: XLS、XLSX、XLSB、XLSM、ODSファイルを分割するための無料アプリとAPI
+title:  Windows、Linux および macOS で Excel スプレッドシートを分割する
+description: XLS、XLSX、XLSB、XLSM、および ODS ファイルを分割するための無料アプリと API
 ---
 {{< blocks/products/pf/agp/feature-solution >}} 

@@ -1,21 +1,20 @@
 ---
-title: Javaを介してExcelファイルを作成する
-
-description: Javaスプレッドシートライブラリを使用して、テンプレートシートからMicrosoftExcelスプレッドシートを生成します
+title: Excel ファイルの作成 via Java
+description: Java スプレッドシート ライブラリを使用してテンプレート シートから Microsoft Excel スプレッドシートを生成
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft <sup>＆reg; </sup>JavaによるExcelテンプレートベースのレポート作成" h2="Javaベースのアプリケーション内の事前定義されたテンプレートに基づいてバルクExcelファイルレポートを生成します。" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Excel テンプレート ベースのレポート作成 via Java" h2="Java ベースのアプリケーション内の事前定義されたテンプレートに基づいて、一括 Excel ファイル レポートを生成します。" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-[JavaExcelライブラリ](/cells/java/) 一括レポート生成用のテンプレートベースのExcelファイルの生成をサポートします。これは、料金表、結果カード、患者記録などの作成など、ほとんどの場合に必要です。テンプレートは事前定義されたパターンです。 Java以下のコードは、データが入力されたテンプレートドキュメントと同じバルクExcelファイルを生成します。サポートされているファイル形式には、XLS、XLSX、XLSB、XLSM、ODSが含まれます。
+[Java エクセルライブラリ](/cells/ja/java/)一括レポート生成用のテンプレート ベースの Excel ファイルの生成をサポートします。これは、料金シャラン、結果カード、患者記録などの作成など、ほとんどの場合に必要です。テンプレートは事前定義されたパターンです。以下の Java コードは、データが入力されたテンプレート ドキュメントと同じバルク Excel ファイルを生成します。サポートされているファイル形式には、XLS、XLSX、XLSB、XLSM、ODS が含まれます。
 {{% /blocks/products/pf/feature-page-summary %}}
 
-{{% blocks/products/pf/feature-page-section h2="事前に設計されたExcelテンプレートに基づいてレポートを作成する" %}}
+{{% blocks/products/pf/feature-page-section h2="事前に設計された Excel テンプレートに基づいてレポートを作成" %}}
 
-JavaアセンブリAPIを使用すると、開発者は以下のコードスニップを含めることで、一括レポート生成コードを簡単にプログラムできます。 APIは提供します [データのインポート](https://docs.aspose.com/cells/java/import-and-export-data/) さまざまなソースから機能を提供し、そのデータに応じてExcelドキュメントを作成します。テンプレートベースのパターンの場合、APIは [WorkbookDesignerクラス](https://reference.aspose.com/cells/java/com.aspose.cells/WorkbookDesigner) デザイナーワークシートを表すため。プロセスは、そのオブジェクトを作成し、それを使用してテンプレートファイルを開きます。データソース（Array、DataTable、Jsonなど）を設定します。データを処理してデータをインポートし、ファイルを目的の形式で保存します。プログラマーは、以下にリストされているリンクのように、XLS、XLSX、XLSB、XLSM、ODSを含む他のファイル形式のレポートにデータを組み立てることができます。
+Java アセンブリ API を使用すると、開発者は以下のコード スニペットを含めることで、一括レポート生成コードを簡単にプログラムできます。 APIが提供します[データをインポートする](https://docs.aspose.com/cells/java/import-and-export-data/)さまざまなソースから特徴を取得し、そのデータに応じて Excel ドキュメントを作成します。テンプレートベースのパターンの場合、API は[WorkbookDesigner クラス](https://reference.aspose.com/cells/java/com.aspose.cells/WorkbookDesigner)デザイナーのワークシートを表します。プロセスは、そのオブジェクトを作成し、それを使用してテンプレート ファイルを開きます。データソース (配列、DataTable、Json など) を設定します。それを処理してデータをインポートし、ファイルを目的の形式で保存します。プログラマは、以下のリンクにあるように、XLS、XLSX、XLSB、XLSM、ODS などの他のファイル形式のレポートにデータを組み立てることができます。
 
 
 
-{{% blocks/products/pf/feature-page-code h3="JavaExcelレポートを作成するためのコード" %}}
+{{% blocks/products/pf/feature-page-code h3="Java Excel レポートを作成するコード" %}}
 
 {{< gist "aspose-com-gists" "d9948743348f4393d12d5a09ac5aec4f" "create-excel-reports.java" >}}
 

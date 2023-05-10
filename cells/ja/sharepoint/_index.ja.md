@@ -1,11 +1,10 @@
 ---
-title: SharePointExcelスプレッドシートコンバーターアプリ-Aspose 
+title:  SharePoint Excel スプレッドシート コンバーター アプリ - Aspose
 weight: 940
-
-description: SharePointアプリのAspose.Cellsは、SharePointExcelスプレッドシートコンバーターです。 XLS XLSX XML CSV PDF ODS＆amp;をエクスポートします。 MOSSWSSのHTML形式
+description: Aspose.Cells for SharePoint アプリは SharePoint Excel スプレッドシート コンバーターです。エクスポート XLS XLSX XML CSV PDF ODS &amp; MOSS WSS の HTML 形式
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Excelスプレッドシートを変換するSharePointアプリ" h2="ExcelスプレッドシートをSharePointドキュメントライブラリから直接8つ以上のファイル形式に変換します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-sharepoint.svg" pfName="Aspose.Cells" subTitlepfName="for SharePoint" downloadUrl="https://downloads.aspose.com/cells/sharepoint" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Excel スプレッドシートを変換する SharePoint アプリ" h2="SharePoint ドキュメント ライブラリから Excel スプレッドシートを 8 つ以上のファイル形式に直接変換します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-sharepoint.svg" pfName="Aspose.Cells" subTitlepfName="for SharePoint" downloadUrl="https://downloads.aspose.com/cells/sharepoint" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for SharePoint" >}}
 
@@ -13,7 +12,7 @@ description: SharePointアプリのAspose.Cellsは、SharePointExcelスプレッ
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for SharePointは、柔軟なExcelスプレッドシートコンバーターアプリです。 Microsoft Excelに依存せずに、SharePointドキュメントライブラリから多くの一般的なMicrosoftExcel形式間でドキュメントを変換できます。 SharePointのネイティブファイル形式のサポートに含まれていない複数のドキュメント形式をサポートします。
+ Aspose.Cells for SharePoint は、柔軟な Excel スプレッドシート コンバーター アプリです。 Microsoft Excel の依存関係を持たずに、SharePoint ドキュメント ライブラリから多くの一般的な Microsoft Excel 形式の間でドキュメントを変換できます。 SharePoint のネイティブ ファイル形式のサポートに含まれていない複数のドキュメント形式をサポートします。
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -21,24 +20,24 @@ description: SharePointアプリのAspose.Cellsは、SharePointExcelスプレッ
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="一目で" description="SharePointのAspose.Cellsの概要。" >}}
+{{< blocks/products/pf/carousel-item h3="一目でわかる" description="Aspose.Cells for SharePointの概要。" >}}
 <div class="diagram1 d1-sharepoint">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-cogs">
     </i>
-    簡単インストール
+簡単インストール
    </header>
    <ul>
     <li>
-     SharePointWSPファイル
+SharePoint WSP ファイル
     </li>
     <li>
-     ファーム全体でアクティブ化
+ファーム全体でアクティベートする
     </li>
     <li>
-     ファーム全体で非アクティブ化
+アクロスファームを非アクティブ化する
     </li>
    </ul>
   </div>
@@ -47,17 +46,17 @@ description: SharePointアプリのAspose.Cellsは、SharePointExcelスプレッ
    <header>
     <i class="fa fa-file-o">
     </i>
-    変換オプション
+変換オプション
    </header>
    <ul>
     <li>
-     サブフォルダに保存
+サブフォルダーに保存する
     </li>
     <li>
-     ファイルの連結
+ファイルの連結
     </li>
     <li>
-     現在のファイルを上書きする
+現在のファイルを上書きする
     </li>
    </ul>
   </div>
@@ -72,9 +71,9 @@ description: SharePointアプリのAspose.Cellsは、SharePointExcelスプレッ
   <footer>
    <small>
     <em>
-     にとって
+ために
     </em>
-    共有ポイント
+共有ポイント
    </small>
   </footer>
  </div>
@@ -83,27 +82,27 @@ description: SharePointアプリのAspose.Cellsは、SharePointExcelスプレッ
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="プラットフォームの独立性" description="Aspose.Cells for SharePointは、Windows SharePoint Services、SharePoint Foundation、およびMicrosoftSharePointServerをサポートしています。" >}}
+{{< blocks/products/pf/carousel-item h3="プラットフォームの独立性" description="Aspose.Cells for SharePoint は、Windows SharePoint Services、SharePoint Foundation、および Microsoft SharePoint Server をサポートします。" >}}
 <div class="diagram1 d1-sharepoint">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header style="padding-left: 0px;">
     <i class="fa fa-cubes">
     </i>
-    SharePoint Server
+ SharePointサーバー
    </header>
    <ul>
     <li>
-     2007年
+     2007
     </li>
     <li>
-     2010年
+     2010
     </li>
     <li>
-     2013年
+     2013
     </li>
     <li>
-     2016年
+     2016
     </li>
    </ul>
   </div>
@@ -112,24 +111,24 @@ description: SharePointアプリのAspose.Cellsは、SharePointExcelスプレッ
    <header style="padding-left: 0px;">
     <i class="fa fa-cubes">
     </i>
-    Windows SharePoint Services
+Windows SharePoint サービス
    </header>
    <ul>
     <li>
-     WSS 3.0
+WSS3.0
     </li>
    </ul>
    <header style="padding-left: 0px;">
     <i class="fa fa-cubes">
     </i>
-    SharePoint Foundation
+ SharePoint Foundation
    </header>
    <ul>
     <li>
-     2010年
+     2010
     </li>
     <li>
-     2013年
+     2013
     </li>
    </ul>
   </div>
@@ -144,9 +143,9 @@ description: SharePointアプリのAspose.Cellsは、SharePointExcelスプレッ
   <footer>
    <small>
     <em>
-     にとって
+ために
     </em>
-    共有ポイント
+共有ポイント
    </small>
   </footer>
  </div>
@@ -155,45 +154,45 @@ description: SharePointアプリのAspose.Cellsは、SharePointExcelスプレッ
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="サポートされているファイル形式" description="Aspose.Cells for SharePointは、多くの一般的なスプレッドシート形式、PDF、HTMLなどをサポートしています [ファイル形式](https://docs.aspose.com/cells/sharepoint/supported-file-formats/)。" >}}
+{{< blocks/products/pf/carousel-item h3="サポートされているファイル形式" description="Aspose.Cells for SharePoint は、多くの一般的なスプレッドシート形式、PDF、HTML などをサポートしています。[ファイル形式](https://docs.aspose.com/cells/sharepoint/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-sharepoint">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    入出力
+入出力
    </header>
    <ul>
     <li>
      <b>
-      マイクロソフトエクセル：
+Microsoft エクセル:
      </b>
-     XLS、XLSX、XLSB、XLTX、XLTM、XLSM
+     XLS, XLSX, XLSB, XLTX, XLTM, XLSM
     </li>
     <li>
      <b>
-      SpreadsheetML：
+      SpreadsheetML:
      </b>
      XML
     </li>
     <li>
      <b>
-      OpenOffice：
+オープンオフィス:
      </b>
      ODS
     </li>
     <li>
      <b>
-      文章：
+文章：
      </b>
-     CSV、TSV、タブ区切り、TXT
+ CSV、TSV、タブ区切り、TXT
     </li>
     <li>
      <b>
-      ウェブ：
+ウェブ：
      </b>
-     HTML、MHTML
+     HTML, MHTML
     </li>
    </ul>
   </div>
@@ -202,20 +201,20 @@ description: SharePointアプリのAspose.Cellsは、SharePointExcelスプレッ
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    出力のみ
+出力のみ
    </header>
    <ul>
     <li>
      <b>
-      固定レイアウト：
+固定レイアウト:
      </b>
-     PDF、XPS
+     PDF, XPS
     </li>
     <li>
      <b>
-      画像：
+画像:
      </b>
-     JPEG、GIF、PNG、BMP、SVG、TIFF、EMF
+     JPEG, GIF, PNG, BMP, SVG, TIFF, EMF
     </li>
    </ul>
   </div>
@@ -230,9 +229,9 @@ description: SharePointアプリのAspose.Cellsは、SharePointExcelスプレッ
   <footer>
    <small>
     <em>
-     にとって
+ために
     </em>
-    共有ポイント
+共有ポイント
    </small>
   </footer>
  </div>
@@ -253,50 +252,50 @@ description: SharePointアプリのAspose.Cellsは、SharePointExcelスプレッ
    <br/>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Excelスプレッドシートをいくつかの形式に変換する
+ Excel スプレッドシートを複数の形式に変換
     </h2>
     <p>
-     Aspose.Cells for SharePointを使用すると、SharePointドキュメントライブラリ内からスプレッドシートを多くの一般的なドキュメントおよび画像形式に変換できます。 Aspose.Cells for SharePointは現在、CSV＆amp;とともにほとんどのスプレッドシート形式をサポートしています。入力としてXMLを使用し、スプレッドシート形式、CSV、HTML、ODS、PDF、XML、および画像フォーマット。
+Aspose.Cells for SharePoint を使用すると、SharePoint ドキュメント ライブラリ内からスプレッドシートを多くの一般的なドキュメントおよび画像形式に変換できます。 Aspose.Cells for SharePoint は現在、CSV および CSV とともにほとんどのスプレッドシート形式をサポートしています。 XML を入力として使用し、スプレッドシート形式や CSV、HTML、ODS、PDF、XML および XML 形式にエクスポートできます。画像フォーマット。
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     変換中にファイルを連結する
+変換中にファイルを連結する
     </h2>
     <p>
-     Aspose.Cells for SharePointは、異なる形式のファイルを1つの単一のドキュメントに結合する機能を提供します。さらに、リスト内のドキュメントを上下に移動して、ドキュメントを結合する順序を設定することもできます。
+Aspose.Cells for SharePoint は、異なる形式のファイルを 1 つの単一ドキュメントに結合する機能を提供します。さらに、リスト内のドキュメントを上下に移動して、ドキュメントを結合する順序を設定することもできます。
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     サブフォルダ内のファイルを変換する
+サブフォルダー内のファイルを変換する
     </h2>
     <p>
-     Aspose.Cells for SharePointは、選択したフォルダーの下にあるすべてのドキュメントとサブフォルダーを再帰的に変換することにより、変換プロセスをより簡単にします。既存のサブフォルダー構造は、宛先フォルダーに作成されます。
+Aspose.Cells for SharePoint を使用すると、選択したフォルダーの下にあるすべてのドキュメントとサブフォルダーを再帰的に変換することで、変換プロセスがより簡単になります。既存のサブフォルダー構造が宛先フォルダーに作成されます。
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     現在のファイルを上書きする
+現在のファイルを上書きする
     </h2>
     <p>
-     宛先フォルダーに、変換するファイルと同じ名前のファイルが既に含まれている場合、SharePointのAspose.Cellsを使用すると、既存のファイルを上書きできます。または、既存のファイルの処理をスキップするようにアプリに指示するオプションを選択することもできます。宛先フォルダー。
+変換先フォルダーに、変換するファイルと同じ名前のファイルが既に含まれている場合は、 Aspose.Cells for SharePoint を使用して既存のファイルを上書きするか、単に宛先フォルダーに既に存在するファイルの処理をスキップするようにアプリに指示するオプションを選択することもできます。 。
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     パブリックAPIと対話する
+公衆との対話 API
     </h2>
     <p>
-     内部SharePointソリューションを使用している開発者は、パブリックAPIを介してSharePointのドキュメント変換エンジンにAspose.Cellsを使用できます。サポートされているすべてのフォーマットと変換オプションへのプログラムによるアクセスを提供します。
+社内 SharePoint ソリューションを持つ開発者は、パブリック API 経由で Aspose.Cells for SharePoint のドキュメント変換エンジンを使用できます。これにより、サポートされているすべての形式と変換オプションにプログラムからアクセスできます。
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Microsoft Excel Automation –不要
+ Microsoft Excel オートメーション – 必要ありません
     </h2>
     <p>
-     Aspose.Cells for SharePointは、Excel形式の変換を行うためにMicrosoftExcelをマシンにインストールする必要のないマネージコードを使用して構築されています。これは、サポートされている機能、セキュリティ、安定性、スケーラビリティ、速度、および価格の点で、MicrosoftExcelの自動化に最適な代替手段です。
+Aspose.Cells for SharePoint はマネージド コードを使用して構築されており、Excel 形式変換を行うためにマシンに Excel をインストールする必要はありません。これは、サポートされる機能、セキュリティ、安定性、拡張性、速度、価格の点で、完璧な Microsoft Excel 自動化の代替品です。
     </p>
    </div>
   </div>
@@ -315,21 +314,21 @@ description: SharePointアプリのAspose.Cellsは、SharePointExcelスプレッ
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="製品サポート" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="無料サポート" href="https://forum.aspose.com/c/cells" >}}
+{{< blocks/products/pf/slr-element name="無料サポート" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="有料サポート" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="ブログ" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="なぜSharePointにAspose.Cellsがあるのですか？" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="なぜ Aspose.Cells for SharePoint?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="顧客リスト" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="サクセスストーリー" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
+{{< blocks/products/pf/slr-element name="成功事例" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/sharepoint" pricingInformationLink="https://purchase.aspose.com/pricing/cells/sharepoint" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cellsは、以下に示すように、他の一般的な開発環境向けに個別のExcelAPIを提供します。" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells は、以下に示す他の一般的な開発環境向けに個別の Excel API を提供します。" >}}
 
     {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sdkName=".NET" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sdkName="Java" >}}
